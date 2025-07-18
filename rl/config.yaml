@@ -1,0 +1,7 @@
+data:
+  train_images: "home/ddrhx/Documents/clip_patch_compression/data/images/mscoco/train2014/"
+  val_images: "home/ddrhx/Documents/clip_patch_compression/data/images/mscoco/val2014/"
+  prompts: "home/ddrhx/Documents/clip_patch_compression/data/text/"
+  masks: "home/ddrhx/Documents/clip_patch_compression/data/instances/"
+
+train_steps: 200_000
