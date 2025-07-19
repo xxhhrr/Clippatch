@@ -1,18 +1,14 @@
-import yaml, torch
+import yaml
 from envs.env import ClipGridEnv
-from models.rl_agent   import SB3Wrapper
+from models.rl_agent import CustomActorCriticPolicy
 from stable_baselines3 import PPO
 
 cfg = yaml.safe_load(open("config.yaml"))
 
-env = ClipGridEnv(
-    img_paths=cfg["data"]["train_images"],
-    prompts  =cfg["data"]["prompts"],
-    gt_masks =cfg["data"]["masks"]
-)
+env = ClipGridEnv(cfg)
 
 model = PPO(
-    policy=SB3Wrapper,
+    policy=CustomActorCriticPolicy,
     env=env,
     learning_rate=3e-4,
     n_steps=1024,
@@ -23,5 +19,6 @@ model = PPO(
     verbose=1,
     device="cuda"
 )
+
 model.learn(total_timesteps=cfg["train_steps"])
-model.save("grid_policy.pt")
+model.save(cfg["model_save_path"])

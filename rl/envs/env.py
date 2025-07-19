@@ -16,60 +16,84 @@ SPLIT_ACTIONS = [
 def _read_json_lines(path):
     with open(path, 'r') as f:
         return [json.loads(l.strip()) for l in f if l.strip()]
-    
+
 class ClipGridEnv(gym.Env):
     def __init__(self, cfg, max_depth=4):
         super().__init__()
         self.cfg = cfg
         self.max_depth = max_depth
-        self.image_dir = cfg["data"]["train_images"]
-        self.prompt_dir = cfg["data"]["prompts"]
+        self.image_dir = cfg["data"]["images"]
+        self.text_dir = cfg["data"]["texts"]
         self.mask_dir = cfg["data"]["masks"]
 
         self.action_space = spaces.Discrete(len(SPLIT_ACTIONS))
         self.observation_space = spaces.Box(
-            low=0.0, high=1.0, shape=(2, 224, 224), dtype=np.float32
+            low=0.0, high=1.0, shape=(1, 224, 224), dtype=np.float32
         )
 
     def reset(self, seed=None, options=None):
-        img_name = random.choice([f for f in os.listdir(self.image_dir)
-                                  if f.endswith((".jpg",".png"))])
-        self.image_id = os.path.splitext(img_name)[0]
-        self.img_path = os.path.join(self.image_dir, img_name)
+        image_files = [f for f in os.listdir(self.image_dir) if f.endswith(('.jpg', '.png'))]
+        while True:
+            img_name = random.choice(image_files)
+            # Extract numeric ID from filename (e.g., ..._000000000009.jpg -> 000000000009)
+            try:
+                self.image_id = img_name.split('_')[-1].split('.')[0]
+                # zfill to pad with zeros to 12 digits
+                self.image_id = self.image_id.zfill(12)
+            except (IndexError, ValueError):
+                continue # Skip files with unexpected names
 
-        # ---- 1) 读 annotation lines，随机选一个 ann ----------
-        ann_list  = _read_json_lines(os.path.join(self.mask_dir, f"{self.image_id}.txt"))
-        self.ann  = random.choice(ann_list)             # dict with ann_id, bbox, ...
-        self.gt   = self._bbox_to_mask(self.ann["bbox"])  # 224×224
+            text_path = os.path.join(self.text_dir, f"{self.image_id}.txt")
+            mask_path = os.path.join(self.mask_dir, f"{self.image_id}.txt")
 
-        # ---- 2) 读 prompt lines，筛选相同 ann_id，随机挑一句 -----
-        prompt_lines = _read_json_lines(os.path.join(self.prompt_dir, f"{self.image_id}.txt"))
-        same_id_txts = [x["sent"] for x in prompt_lines if x["ann_id"] == self.ann["ann_id"]]
-        self.prompt  = random.choice(same_id_txts) if same_id_txts else ""
+            # Check if corresponding text and mask files exist before trying to load
+            if not (os.path.exists(text_path) and os.path.exists(mask_path)):
+                continue
 
-        # ---- 3) CLIP 热图 + 初始化 patch 列表 --------------------
-        self.heat  = get_heatmap(self.img_path, self.prompt)     # (224,224)
-        self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
-        self.depth = 0
+            self.img_path = os.path.join(self.image_dir, img_name)
+            prompts = _read_json_lines(text_path)
+            instances = _read_json_lines(mask_path)
+
+            if not prompts or not instances:
+                continue
+
+            instance_map = {inst['ann_id']: inst for inst in instances}
+            valid_prompts = [p for p in prompts if p['ann_id'] in instance_map]
+
+            if not valid_prompts:
+                continue
+
+            self.prompt_data = random.choice(valid_prompts)
+            self.ann_data = instance_map[self.prompt_data['ann_id']]
+            self.prompt = self.prompt_data['sent']
+
+            with Image.open(self.img_path) as img:
+                orig_wh = img.size
+            self.gt = self._bbox_to_mask(self.ann_data["bbox"], orig_wh=orig_wh)
+
+            self.heat = get_heatmap(self.img_path, self.prompt)
+            self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
+            self.depth = 0
+            break
+
         return self._get_obs(), {}
 
-    # ---------- util: bbox → 224×224 mask ----------------------
+
     def _bbox_to_mask(self, bbox, size=(224,224), orig_wh=(640,480)):
         x,y,w,h = bbox
         H,W = size
         ow, oh = orig_wh
-        x1 = int(np.clip(x       /ow * W, 0, W-1))
-        y1 = int(np.clip(y       /oh * H, 0, H-1))
-        x2 = int(np.clip((x+w) /ow * W, 0, W-1))
-        y2 = int(np.clip((y+h) /oh * H, 0, H-1))
+        x1 = int(np.clip(x / ow * W, 0, W-1))
+        y1 = int(np.clip(y / oh * H, 0, H-1))
+        x2 = int(np.clip((x+w) / ow * W, 0, W-1))
+        y2 = int(np.clip((y+h) / oh * H, 0, H-1))
         mask = np.zeros(size, dtype=np.uint8)
         mask[y1:y2, x1:x2] = 1
         return mask
-    
+
     def _get_obs(self):
-        mask = np.clip(np.sum(self.patch_list, axis=0), 0, 1)
-        obs = np.stack([self.heat, mask], axis=0).astype(np.float32)
-        return obs
+        # The observation is just the heatmap now.
+        return np.expand_dims(self.heat, axis=0).astype(np.float32)
 
     def step(self, action):
         split = SPLIT_ACTIONS[action]
@@ -77,38 +101,41 @@ class ClipGridEnv(gym.Env):
             reward = self._final_reward()
             return self._get_obs(), reward, True, False, {}
 
-        target_idx = np.argmin([self._patch_iou(p) for p in self.patch_list])
+        target_idx = np.argmax([(p * self.heat).sum() for p in self.patch_list])
         patch = self.patch_list.pop(target_idx)
-        h, w = patch.shape
+        
+        rows, cols = np.where(patch)
+        if not (len(rows) > 0 and len(cols) > 0):
+            self.patch_list.append(patch)
+            reward = self._final_reward()
+            return self._get_obs(), reward, True, False, {}
+
+        y_min, y_max = rows.min(), rows.max()
+        x_min, x_max = cols.min(), cols.max()
+        
         r, c = split
-        h_step, w_step = h // r, w // c
+        h_step = (y_max - y_min + 1) // r
+        w_step = (x_max - x_min + 1) // c
 
         for i in range(r):
             for j in range(c):
                 sub = np.zeros_like(patch, dtype=np.uint8)
-                sub[i*h_step:(i+1)*h_step, j*w_step:(j+1)*w_step] = \
-                    patch[i*h_step:(i+1)*h_step, j*w_step:(j+1)*w_step]
-                self.patch_list.append(sub)
+                y_start, y_end = y_min + i * h_step, y_min + (i + 1) * h_step
+                x_start, x_end = x_min + j * w_step, x_min + (j + 1) * w_step
+                sub[y_start:y_end, x_start:x_end] = patch[y_start:y_end, x_start:x_end]
+                if sub.sum() > 0:
+                    self.patch_list.append(sub)
 
         self.depth += 1
-        reward = self._step_reward()
-        return self._get_obs(), reward, False, False, {}
-
-    def _patch_iou(self, patch):
-        inter = np.logical_and(patch, self.gt).sum()
-        union = np.logical_or(patch, self.gt).sum()
-        return inter / (union + 1e-6)
-
-    def _step_reward(self):
-        mask_new = np.clip(np.sum(self.patch_list, 0), 0, 1)
-        iou = (np.logical_and(mask_new, self.gt).sum() /
-               (np.logical_or(mask_new, self.gt).sum() + 1e-6))
-        area_penalty = mask_new.sum() / self.gt.size
-        clip_score = (mask_new * self.heat).sum() / (self.heat.sum() + 1e-6)
-        return 1.0 * iou - 0.25 * area_penalty + 0.5 * clip_score
+        return self._get_obs(), 0, False, False, {}
 
     def _final_reward(self):
-        mask_new = np.clip(np.sum(self.patch_list, 0), 0, 1)
-        iou = (np.logical_and(mask_new, self.gt).sum() /
-               (np.logical_or(mask_new, self.gt).sum() + 1e-6))
-        return 10 * iou
+        best_iou = 0
+        for patch in self.patch_list:
+            inter = np.logical_and(patch, self.gt).sum()
+            union = np.logical_or(patch, self.gt).sum()
+            iou = inter / (union + 1e-6)
+            if iou > best_iou:
+                best_iou = iou
+        
+        return best_iou - 0.01 * len(self.patch_list)
