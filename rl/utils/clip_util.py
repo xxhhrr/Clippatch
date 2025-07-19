@@ -112,7 +112,7 @@ def grad_eclip(c, qs, ks, vs, attn_outputs, map_size):
         grad = torch.autograd.grad(
             c,
             attn_output,
-            retain_graph=True)[0]
+            retain_graph=False)[0]
 
         grad_cls = grad[:1,0,:]
         v_patch = v[1:,0,:]

@@ -1,8 +1,8 @@
 data:
-  images: "home/ddrhx/Documents/clip_patch_compression/data/images/mscoco/train2014/"
-  val_images: "home/ddrhx/Documents/clip_patch_compression/data/images/mscoco/val2014/"
-  texts: "home/ddrhx/Documents/clip_patch_compression/data/text/"
-  masks: "home/ddrhx/Documents/clip_patch_compression/data/instances/"
+  images: "../data/images/mscoco/train2014/"
+  val_images: "../data/images/mscoco/val2014/"
+  texts: "../data/text/"
+  masks: "../data/instances/"
 
 train_steps: 200000
 model_save_path: "./grid_policy.pt"

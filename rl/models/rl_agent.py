@@ -2,6 +2,7 @@
 from stable_baselines3.common.policies import ActorCriticPolicy
 from stable_baselines3.common.torch_layers import BaseFeaturesExtractor
 from .policy_transformer import GridPolicyNet
+import torch.nn as nn
 
 class CustomFeatureExtractor(BaseFeaturesExtractor):
     def __init__(self, observation_space, features_dim=256):
