@@ -146,4 +146,12 @@ def get_heatmap(image_path: str, prompt: str) -> np.ndarray:
     # Resize to 224x224
     heatmap_resized = F.interpolate(heatmap.unsqueeze(0).unsqueeze(0), size=(224, 224), mode='bicubic', align_corners=False)
     
-    return heatmap_resized.squeeze().detach().cpu().numpy().astype(np.float32)
+    # Move the final result to CPU
+    result = heatmap_resized.squeeze().detach().cpu().numpy().astype(np.float32)
+
+    # Explicitly clear intermediate tensors and empty cuda cache
+    del img_preprocessed_k, text_processed, text_embedding, outputs, vs, qs, ks, atten_outs, img_embedding, cosine, heatmap, heatmap_resized
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+
+    return result
