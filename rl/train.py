@@ -1,7 +1,6 @@
 import yaml
-import torch
 from envs.env import ClipGridEnv
-from models.rl_agent import CustomActorCriticPolicy
+
 from stable_baselines3 import PPO
 
 cfg = yaml.safe_load(open("config.yaml"))
@@ -9,7 +8,7 @@ cfg = yaml.safe_load(open("config.yaml"))
 env = ClipGridEnv(cfg)
 
 model = PPO(
-    policy=CustomActorCriticPolicy,
+    policy='MlpPolicy',
     env=env,
     learning_rate=3e-4,
     n_steps=256,
@@ -21,13 +20,5 @@ model = PPO(
     device="cuda"
 )
 
-print("--- Before model.learn() ---")
-if torch.cuda.is_available():
-    print(torch.cuda.memory_summary(device="cuda"))
-
 model.learn(total_timesteps=cfg["train_steps"])
-
-print("--- After model.learn() ---")
-if torch.cuda.is_available():
-    print(torch.cuda.memory_summary(device="cuda"))
 model.save(cfg["model_save_path"])
