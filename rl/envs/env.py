@@ -93,7 +93,10 @@ class ClipGridEnv(gym.Env):
     def _get_obs(self):
         # The observation is the heatmap.
         # We must detach it from the computation graph and move it to the CPU.
-        obs = self.heat.detach().cpu().numpy()
+        # self.heat is already a clean numpy array returned by get_heatmap.
+        # We return a copy to prevent the observation stored in the rollout buffer
+        # from being accidentally modified by external code.
+        obs = self.heat.copy()
         return np.expand_dims(obs, axis=0).astype(np.float32)
 
     def step(self, action):
