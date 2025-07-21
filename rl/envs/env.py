@@ -18,10 +18,9 @@ def _read_json_lines(path):
         return [json.loads(l.strip()) for l in f if l.strip()]
 
 class ClipGridEnv(gym.Env):
-    def __init__(self, cfg, max_depth=4):
+    def __init__(self, cfg):
         super().__init__()
         self.cfg = cfg
-        self.max_depth = max_depth
         self.image_dir = cfg["data"]["images"]
         self.text_dir = cfg["data"]["texts"]
         self.mask_dir = cfg["data"]["masks"]
@@ -73,7 +72,6 @@ class ClipGridEnv(gym.Env):
 
             self.heat = get_heatmap(self.img_path, self.prompt)
             self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
-            self.depth = 0
             break
 
         return self._get_obs(), {}
@@ -97,19 +95,16 @@ class ClipGridEnv(gym.Env):
 
     def step(self, action):
         split = SPLIT_ACTIONS[action]
-        if split == "STOP" or self.depth >= self.max_depth:
+
+        # If action is STOP, calculate reward based on the whole image and terminate.
+        if split == "STOP":
+            self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
             reward = self._final_reward()
             return self._get_obs(), reward, True, False, {}
 
-        target_idx = np.argmax([(p * self.heat).sum() for p in self.patch_list])
-        patch = self.patch_list.pop(target_idx)
-        
-        rows, cols = np.where(patch)
-        if not (len(rows) > 0 and len(cols) > 0):
-            self.patch_list.append(patch)
-            reward = self._final_reward()
-            return self._get_obs(), reward, True, False, {}
-
+        # Per user clarification, we split the *entire* image space once.
+        full_patch = np.ones_like(self.heat, dtype=np.uint8)
+        rows, cols = np.where(full_patch)
         y_min, y_max = rows.min(), rows.max()
         x_min, x_max = cols.min(), cols.max()
         
@@ -117,25 +112,43 @@ class ClipGridEnv(gym.Env):
         h_step = (y_max - y_min + 1) // r
         w_step = (x_max - x_min + 1) // c
 
+        new_patches = []
         for i in range(r):
             for j in range(c):
-                sub = np.zeros_like(patch, dtype=np.uint8)
+                sub = np.zeros_like(full_patch, dtype=np.uint8)
                 y_start, y_end = y_min + i * h_step, y_min + (i + 1) * h_step
                 x_start, x_end = x_min + j * w_step, x_min + (j + 1) * w_step
-                sub[y_start:y_end, x_start:x_end] = patch[y_start:y_end, x_start:x_end]
+                sub[y_start:y_end, x_start:x_end] = 1
                 if sub.sum() > 0:
-                    self.patch_list.append(sub)
+                    new_patches.append(sub)
 
-        self.depth += 1
-        return self._get_obs(), 0, False, False, {}
+        # The new patch list *is* the result of the single split.
+        self.patch_list = new_patches
+        
+        # The episode ends after this single split.
+        reward = self._final_reward()
+        
+        return self._get_obs(), reward, True, False, {}
 
     def _final_reward(self):
-        best_iou = 0
+        if not self.patch_list:
+            return 0.0
+
+        clip_scores = []
         for patch in self.patch_list:
-            inter = np.logical_and(patch, self.gt).sum()
-            union = np.logical_or(patch, self.gt).sum()
-            iou = inter / (union + 1e-6)
-            if iou > best_iou:
-                best_iou = iou
-        
-        return best_iou - 0.01 * len(self.patch_list)
+            # Use the patch as a mask on the heatmap to get the score
+            score = (self.heat * patch).sum()
+            clip_scores.append(score)
+
+        # Find the patch with the highest CLIP score
+        best_patch_idx = np.argmax(clip_scores)
+        best_patch = self.patch_list[best_patch_idx]
+
+        # Calculate IoU only for the best patch
+        inter = np.logical_and(best_patch, self.gt).sum()
+        union = np.logical_or(best_patch, self.gt).sum()
+        iou = inter / (union + 1e-6)
+
+        # The reward is the IoU of the best patch.
+        # No penalty for the number of patches, as we only select one.
+        return iou
