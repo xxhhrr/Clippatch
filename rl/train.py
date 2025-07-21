@@ -1,5 +1,6 @@
 import yaml
 from envs.env import ClipGridEnv
+from models.rl_agent import CustomActorCriticPolicy
 
 from stable_baselines3 import PPO
 
@@ -8,7 +9,7 @@ cfg = yaml.safe_load(open("config.yaml"))
 env = ClipGridEnv(cfg)
 
 model = PPO(
-    policy='MlpPolicy',
+    policy=CustomActorCriticPolicy,
     env=env,
     learning_rate=3e-4,
     n_steps=256,

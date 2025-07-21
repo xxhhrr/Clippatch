@@ -91,8 +91,10 @@ class ClipGridEnv(gym.Env):
         return mask
 
     def _get_obs(self):
-        # The observation is just the heatmap now.
-        return np.expand_dims(self.heat, axis=0).astype(np.float32)
+        # The observation is the heatmap.
+        # We must detach it from the computation graph and move it to the CPU.
+        obs = self.heat.detach().cpu().numpy()
+        return np.expand_dims(obs, axis=0).astype(np.float32)
 
     def step(self, action):
         split = SPLIT_ACTIONS[action]
