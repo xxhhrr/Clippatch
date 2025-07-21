@@ -1,4 +1,5 @@
 import os
+import torch
 import gymnasium as gym
 import numpy as np
 import random
@@ -31,6 +32,10 @@ class ClipGridEnv(gym.Env):
         )
 
     def reset(self, seed=None, options=None):
+        if torch.cuda.is_available():
+            print("--- Env.reset() start ---")
+            print(torch.cuda.memory_summary(device="cuda"))
+
         image_files = [f for f in os.listdir(self.image_dir) if f.endswith(('.jpg', '.png'))]
         while True:
             img_name = random.choice(image_files)
@@ -74,6 +79,9 @@ class ClipGridEnv(gym.Env):
             self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
             break
 
+        if torch.cuda.is_available():
+            print("--- Env.reset() end ---")
+            print(torch.cuda.memory_summary(device="cuda"))
         return self._get_obs(), {}
 
 
