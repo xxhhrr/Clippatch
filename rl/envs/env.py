@@ -31,7 +31,6 @@ class ClipGridEnv(gym.Env):
         )
 
     def reset(self, seed=None, options=None):
-        print_gpu_tensors(context="Before reset")
 
         image_files = [f for f in os.listdir(self.image_dir) if f.endswith(('.jpg', '.png'))]
         while True:
@@ -72,8 +71,9 @@ class ClipGridEnv(gym.Env):
                 orig_wh = img.size
             self.gt = self._bbox_to_mask(self.ann_data["bbox"], orig_wh=orig_wh)
 
+            print_gpu_tensors(context="Before get_heatmap")
             self.heat = get_heatmap(self.img_path, self.prompt)
-            print_gpu_tensors(context="After get_heatmap in reset")
+            print_gpu_tensors(context="After get_heatmap")
             self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
             break
 
@@ -102,7 +102,6 @@ class ClipGridEnv(gym.Env):
         return np.expand_dims(obs, axis=0).astype(np.float32)
 
     def step(self, action):
-        print_gpu_tensors(context="Start of step")
         split = SPLIT_ACTIONS[action]
 
         # If action is STOP, calculate reward based on the whole image and terminate.
@@ -137,7 +136,6 @@ class ClipGridEnv(gym.Env):
         # The episode ends after this single split.
         reward = self._final_reward()
         
-        print_gpu_tensors(context="End of step")
         return self._get_obs(), reward, True, False, {}
 
     def _final_reward(self):
