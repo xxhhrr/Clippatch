@@ -178,12 +178,9 @@ def print_gpu_tensors(scope_dict, context="", log_file="gpu_log.txt"):
         f.write(f'--- Total Tensor Memory in Scope: {total_mem:.2f}MB ---\n')
         
         # Redirect memory_summary to the file
+        from contextlib import redirect_stdout
         buffer = io.StringIO()
-        # Keep the original stdout
-        original_stdout = torch.cuda.memory_summary.__self__.stdout
-        torch.cuda.memory_summary.__self__.stdout = buffer
-        torch.cuda.memory_summary(abbreviated=True)
-        # Restore stdout
-        torch.cuda.memory_summary.__self__.stdout = original_stdout
+        with redirect_stdout(buffer):
+            torch.cuda.memory_summary(abbreviated=True)
         f.write(buffer.getvalue())
         f.write('----------------------------------\n\n')

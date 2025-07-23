@@ -31,7 +31,7 @@ class ClipGridEnv(gym.Env):
         )
 
     def reset(self, seed=None, options=None):
-        print_gpu_tensors("Before reset")
+        print_gpu_tensors(locals(), context="Before reset")
 
         image_files = [f for f in os.listdir(self.image_dir) if f.endswith(('.jpg', '.png'))]
         while True:
