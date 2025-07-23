@@ -156,21 +156,34 @@ def get_heatmap(image_path: str, prompt: str) -> np.ndarray:
 
     return result
 
-def print_gpu_tensors(context=""):
+def print_gpu_tensors(scope_dict, context="", log_file="gpu_log.txt"):
     """
-    Prints all tensors currently on the GPU, along with their size and memory usage.
+    Logs the name, size, and memory usage of GPU tensors in the given scope to a file.
     """
-    import gc
-    print(f'--- GPU TENSOR DUMP ({context}) ---')
-    total_mem = 0
-    for obj in gc.get_objects():
-        try:
-            if torch.is_tensor(obj) and obj.is_cuda:
-                mem_mb = obj.element_size() * obj.nelement() / (1024 * 1024)
-                total_mem += mem_mb
-                print(f'  - Type: {type(obj)}, Size: {obj.size()}, Mem: {mem_mb:.2f}MB')
-        except Exception:
-            pass
-    print(f'--- Total Tensor Memory on GPU: {total_mem:.2f}MB ---')
-    print(torch.cuda.memory_summary(abbreviated=True))
-    print('----------------------------------')
+    import torch
+    import io
+
+    with open(log_file, "a") as f:
+        f.write(f'--- GPU TENSOR DUMP ({context}) ---\n')
+        total_mem = 0
+        for name, obj in scope_dict.items():
+            try:
+                if torch.is_tensor(obj) and obj.is_cuda:
+                    mem_mb = obj.element_size() * obj.nelement() / (1024 * 1024)
+                    total_mem += mem_mb
+                    f.write(f'  - Var: {name}, Type: {type(obj)}, Size: {obj.size()}, Mem: {mem_mb:.2f}MB\n')
+            except Exception:
+                pass # Ignore non-tensor objects or other errors
+        
+        f.write(f'--- Total Tensor Memory in Scope: {total_mem:.2f}MB ---\n')
+        
+        # Redirect memory_summary to the file
+        buffer = io.StringIO()
+        # Keep the original stdout
+        original_stdout = torch.cuda.memory_summary.__self__.stdout
+        torch.cuda.memory_summary.__self__.stdout = buffer
+        torch.cuda.memory_summary(abbreviated=True)
+        # Restore stdout
+        torch.cuda.memory_summary.__self__.stdout = original_stdout
+        f.write(buffer.getvalue())
+        f.write('----------------------------------\n\n')
