@@ -156,29 +156,31 @@ def get_heatmap(image_path: str, prompt: str) -> np.ndarray:
 
     return result
 
-def print_gpu_tensors(scope_dict, context="", log_file="gpu_log.txt"):
+def print_gpu_tensors(context="", log_file="gpu_log.txt"):
     """
-    Logs the name, size, and memory usage of GPU tensors in the given scope to a file.
+    Logs all tensors currently on the GPU to a file.
+    This function iterates through all objects known to the garbage collector.
     """
+    import gc
     import torch
     import io
+    from contextlib import redirect_stdout
 
     with open(log_file, "a") as f:
         f.write(f'--- GPU TENSOR DUMP ({context}) ---\n')
         total_mem = 0
-        for name, obj in scope_dict.items():
+        for obj in gc.get_objects():
             try:
                 if torch.is_tensor(obj) and obj.is_cuda:
                     mem_mb = obj.element_size() * obj.nelement() / (1024 * 1024)
                     total_mem += mem_mb
-                    f.write(f'  - Var: {name}, Type: {type(obj)}, Size: {obj.size()}, Mem: {mem_mb:.2f}MB\n')
+                    f.write(f'  - Type: {type(obj)}, Size: {obj.size()}, Mem: {mem_mb:.2f}MB\n')
             except Exception:
-                pass # Ignore non-tensor objects or other errors
-        
-        f.write(f'--- Total Tensor Memory in Scope: {total_mem:.2f}MB ---\n')
-        
+                pass  # Ignore errors
+
+        f.write(f'--- Total Tensor Memory on GPU: {total_mem:.2f}MB ---\n')
+
         # Redirect memory_summary to the file
-        from contextlib import redirect_stdout
         buffer = io.StringIO()
         with redirect_stdout(buffer):
             torch.cuda.memory_summary(abbreviated=True)
