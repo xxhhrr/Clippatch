@@ -155,3 +155,22 @@ def get_heatmap(image_path: str, prompt: str) -> np.ndarray:
         torch.cuda.empty_cache()
 
     return result
+
+def print_gpu_tensors(context=""):
+    """
+    Prints all tensors currently on the GPU, along with their size and memory usage.
+    """
+    import gc
+    print(f'--- GPU TENSOR DUMP ({context}) ---')
+    total_mem = 0
+    for obj in gc.get_objects():
+        try:
+            if torch.is_tensor(obj) and obj.is_cuda:
+                mem_mb = obj.element_size() * obj.nelement() / (1024 * 1024)
+                total_mem += mem_mb
+                print(f'  - Type: {type(obj)}, Size: {obj.size()}, Mem: {mem_mb:.2f}MB')
+        except Exception:
+            pass
+    print(f'--- Total Tensor Memory on GPU: {total_mem:.2f}MB ---')
+    print(torch.cuda.memory_summary(abbreviated=True))
+    print('----------------------------------')
