@@ -71,9 +71,9 @@ class ClipGridEnv(gym.Env):
                 orig_wh = img.size
             self.gt = self._bbox_to_mask(self.ann_data["bbox"], orig_wh=orig_wh)
 
-            print_gpu_tensors(context="Before get_heatmap")
+            # print_gpu_tensors(context="Before get_heatmap")
             self.heat = get_heatmap(self.img_path, self.prompt)
-            print_gpu_tensors(context="After get_heatmap")
+            # print_gpu_tensors(context="After get_heatmap")
             self.patch_list = [np.ones_like(self.heat, dtype=np.uint8)]
             break
 

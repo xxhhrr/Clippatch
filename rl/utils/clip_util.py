@@ -1,188 +1,198 @@
+# -*- coding: utf-8 -*-
+"""
+Grad‑ECLIP heat‑map generator (memory‑safe, training‑friendly)
+-------------------------------------------------------------
+* Requirements: torch 2.x, torchvision, ftfy, regex, tqdm, git+https://github.com/openai/CLIP.git
+* The function `get_heatmap(path, prompt, n_last_layers=1)` returns a 224×224 float32 NumPy array in [0,1].
+
+Key change v2.1 ­– **use `@torch.no_grad()` instead of `@torch.inference_mode()`** for the
+CLIP stem so that the returned tensor can later receive `requires_grad_(True)`.
+This removes the runtime error:
+```
+RuntimeError: Setting requires_grad=True on inference tensor outside InferenceMode is not allowed.
+```
+while still keeping the early layers out of the computation graph.
+"""
+
+from __future__ import annotations
+import gc, io
+from contextlib import redirect_stdout
+from typing import List, Tuple
+
+import numpy as np
 import torch
 import torch.nn.functional as F
-from torchvision.transforms import Compose, Resize, ToTensor, Normalize, InterpolationMode
-import clip
 from PIL import Image
-import numpy as np
+from torchvision.transforms import (Compose, Resize, ToTensor, Normalize,
+                                    InterpolationMode)
+
+import clip  # pip install git+https://github.com/openai/CLIP.git
+
+__all__ = ["get_heatmap", "print_gpu_tensors"]
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-clipmodel, preprocess = clip.load("ViT-B/16", device=device)
-clip_inres = clipmodel.visual.input_resolution
-clip_ksize = clipmodel.visual.conv1.kernel_size
+clipmodel, _ = clip.load("ViT-B/16", device=device)
+clipmodel.eval()
+
+_clip_inres = clipmodel.visual.input_resolution
+_clip_ksize = clipmodel.visual.conv1.kernel_size
 
 _transform = Compose([
     ToTensor(),
-    Normalize((0.48145466, 0.4578275, 0.40821073), (0.26862954, 0.26130258, 0.27577711)),
+    Normalize((0.48145466, 0.4578275, 0.40821073),
+              (0.26862954, 0.26130258, 0.27577711)),
 ])
 
-def imgprocess(img, patch_size=[16, 16], scale_factor=1):
+# ---------------------------------------------------------------------------
+# Utilities
+# ---------------------------------------------------------------------------
+
+def imgprocess(img: Image.Image, patch_size: Tuple[int, int] = (16, 16),
+               scale_factor: float = 1.0) -> torch.Tensor:
     w, h = img.size
     ph, pw = patch_size
     nw = int(w * scale_factor / pw + 0.5) * pw
     nh = int(h * scale_factor / ph + 0.5) * ph
-
-    ResizeOp = Resize((nh, nw), interpolation=InterpolationMode.BICUBIC)
-    img = ResizeOp(img).convert("RGB")
+    img = Resize((nh, nw), interpolation=InterpolationMode.BICUBIC)(img).convert("RGB")
     return _transform(img)
 
-def attention_layer(q, k, v, num_heads=1):
-    """Compute 'Scaled Dot Product Attention'"""
-    tgt_len, bsz, embed_dim = q.shape
-    head_dim = embed_dim // num_heads
-    scaling = float(head_dim) ** -0.5
-    q = q * scaling
-    
-    q = q.contiguous().view(tgt_len, bsz * num_heads, head_dim).transpose(0, 1)
-    k = k.contiguous().view(-1, bsz * num_heads, head_dim).transpose(0, 1)
-    v = v.contiguous().view(-1, bsz * num_heads, head_dim).transpose(0, 1)
-    attn_output_weights = torch.bmm(q, k.transpose(1, 2))
-    attn_output_weights = F.softmax(attn_output_weights, dim=-1)
-    attn_output_heads = torch.bmm(attn_output_weights, v)
-    assert list(attn_output_heads.size()) == [bsz * num_heads, tgt_len, head_dim]
-    attn_output = attn_output_heads.transpose(0, 1).contiguous().view(tgt_len, bsz, embed_dim)
-    attn_output_weights = attn_output_weights.view(bsz, num_heads, tgt_len, -1)
-    attn_output_weights = attn_output_weights.sum(dim=1) / num_heads
-    return attn_output, attn_output_weights
-    
-def clip_encode_dense(x,n):
-    # modified from CLIP
-    x = x.half()
-    x = clipmodel.visual.conv1(x)  
-    feah, feaw = x.shape[-2:]
+# ---------------------------------------------------------------------------
+# CLIP visual encoder – stem (no_grad) + tail (with_grad)
+# ---------------------------------------------------------------------------
 
-    x = x.reshape(x.shape[0], x.shape[1], -1) 
-    x = x.permute(0, 2, 1) 
-    class_embedding = clipmodel.visual.class_embedding.to(x.dtype)
-    x = torch.cat([class_embedding + torch.zeros(x.shape[0], 1, x.shape[-1]).to(x), x], dim=1)
+@torch.no_grad()
+def _clip_stem(x: torch.Tensor, n_last_layers: int) -> Tuple[torch.Tensor, Tuple[int, int]]:
+    """Run conv + all ViT blocks except the last *n* layers without building a graph."""
+    x = clipmodel.visual.conv1(x.half())
+    h, w = x.shape[-2:]
 
-    ## scale position embedding as the image w-h ratio
-    pos_embedding = clipmodel.visual.positional_embedding.to(x.dtype)
-    tok_pos, img_pos = pos_embedding[:1, :], pos_embedding[1:, :]
-    pos_h = clip_inres // clip_ksize[0]
-    pos_w = clip_inres // clip_ksize[1]
-    assert img_pos.size(0) == (pos_h * pos_w), f"the size of pos_embedding ({img_pos.size(0)}) does not match resolution shape pos_h ({pos_h}) * pos_w ({pos_w})"
-    img_pos = img_pos.reshape(1, pos_h, pos_w, img_pos.shape[1]).permute(0, 3, 1, 2)
-    img_pos = torch.nn.functional.interpolate(img_pos, size=(feah, feaw), mode='bicubic', align_corners=False)
+    # flatten spatial → sequence & prepend class token
+    x = x.reshape(x.shape[0], x.shape[1], -1).permute(0, 2, 1)
+    cls = clipmodel.visual.class_embedding.to(x.dtype)
+    x = torch.cat([cls + torch.zeros(x.shape[0], 1, cls.size(-1), dtype=x.dtype, device=x.device), x], dim=1)
+
+    # resize positional embeddings
+    pos = clipmodel.visual.positional_embedding.to(x.dtype)
+    tok_pos, img_pos = pos[:1], pos[1:]
+    ph = _clip_inres // _clip_ksize[0]
+    pw = _clip_inres // _clip_ksize[1]
+    img_pos = img_pos.reshape(1, ph, pw, -1).permute(0, 3, 1, 2)
+    img_pos = F.interpolate(img_pos, size=(h, w), mode="bicubic", align_corners=False)
     img_pos = img_pos.reshape(1, img_pos.shape[1], -1).permute(0, 2, 1)
-    pos_embedding = torch.cat((tok_pos[None, ...], img_pos), dim=1)
-    x = x + pos_embedding
+    x = x + torch.cat((tok_pos[None], img_pos), dim=1)
+
     x = clipmodel.visual.ln_pre(x)
-    
-    x = x.permute(1, 0, 2)  # NLD -> LND
-    x = torch.nn.Sequential(*clipmodel.visual.transformer.resblocks[:-n])(x)
+    x = x.permute(1, 0, 2)  # NLD → LND
 
-    atten_outs = []
-    vs = []
-    qs = []
-    ks = []
-    for TR in clipmodel.visual.transformer.resblocks[-n:]:
-        x_in = x
-        x = TR.ln_1(x_in)
-        linear = torch._C._nn.linear    
-        q, k, v = linear(x, TR.attn.in_proj_weight, TR.attn.in_proj_bias).chunk(3, dim=-1)
-        attn_output, _ = attention_layer(q, k, v, 1)  # vision_heads=1
-        atten_outs.append(attn_output)
-        vs.append(v)
-        qs.append(q)
-        ks.append(k)
-        
-        x_after_attn = linear(attn_output, TR.attn.out_proj.weight, TR.attn.out_proj.bias)       
-        x = x_after_attn + x_in
-        x = x + TR.mlp(TR.ln_2(x))
+    if n_last_layers:
+        blocks = clipmodel.visual.transformer.resblocks[:-n_last_layers]
+        x = torch.nn.Sequential(*blocks)(x)
 
-    x = x.permute(1, 0, 2)  # LND -> NLD
-    x = clipmodel.visual.ln_post(x)
-    x = x @ clipmodel.visual.proj
-    return x, vs, qs, ks, atten_outs, (feah, feaw)
+    return x.detach(), (h, w)
 
-def sim_qk(q, k):
-    q_cls = F.normalize(q[:1,0,:], dim=-1) 
-    k_patch = F.normalize(k[1:,0,:], dim=-1)
 
-    cosine_qk = (q_cls * k_patch).sum(-1) 
-    cosine_qk_max = cosine_qk.max(dim=-1, keepdim=True)[0]
-    cosine_qk_min = cosine_qk.min(dim=-1, keepdim=True)[0]
-    cosine_qk = (cosine_qk-cosine_qk_min) / (cosine_qk_max-cosine_qk_min)
-    return cosine_qk
+def _attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor, heads: int = 1):
+    L, B, D = q.shape
+    d = D // heads
+    q = q * (d ** -0.5)
+    q = q.view(L, B * heads, d).transpose(0, 1)
+    k = k.view(-1, B * heads, d).transpose(0, 1)
+    v = v.view(-1, B * heads, d).transpose(0, 1)
+    w = torch.bmm(q, k.transpose(1, 2)).softmax(dim=-1)
+    out = torch.bmm(w, v).transpose(0, 1).contiguous().view(L, B, D)
+    return out, w.view(B, heads, L, -1).mean(1)
 
-def grad_eclip(c, qs, ks, vs, attn_outputs, map_size):
-    ## gradient on last attention output
-    tmp_maps = []
-    for q, k, v, attn_output in zip(qs, ks, vs, attn_outputs):
-        grad = torch.autograd.grad(
-            c,
-            attn_output,
-            retain_graph=False)[0]
 
-        grad_cls = grad[:1,0,:]
-        v_patch = v[1:,0,:]
-        cosine_qk = sim_qk(q, k).reshape(-1)
-        tmp_maps.append((grad_cls * v_patch * cosine_qk[:,None]).sum(-1)) 
+def _clip_encode_dense(x: torch.Tensor, n_last_layers: int):
+    stem, map_sz = _clip_stem(x, n_last_layers)
+    stem.requires_grad_(True)
 
-    emap = F.relu_(torch.stack(tmp_maps, dim=0)).sum(0)
-    return emap.reshape(*map_size)
+    tail = clipmodel.visual.transformer.resblocks[-n_last_layers:] if n_last_layers else []
+    ql: List[torch.Tensor] = []
+    kl: List[torch.Tensor] = []
+    vl: List[torch.Tensor] = []
+    al: List[torch.Tensor] = []
 
-def get_heatmap(image_path: str, prompt: str) -> np.ndarray:
-    """
-    Returns a 224×224 float32 heat-map in [0,1] using Grad-ECLIP.
-    """
-    img = Image.open(image_path).convert("RGB")
-    img_preprocessed_k = imgprocess(img).cuda().unsqueeze(0)
-    text_processed = clip.tokenize([prompt]).cuda()
-    text_embedding = clipmodel.encode_text(text_processed)
-    text_embedding = F.normalize(text_embedding, dim=-1)
+    linear = torch._C._nn.linear
+    h = stem
+    for blk in tail:
+        h_in = h
+        h = blk.ln_1(h_in)
+        q, k, v = linear(h, blk.attn.in_proj_weight, blk.attn.in_proj_bias).chunk(3, dim=-1)
+        attn, _ = _attention(q, k, v)
+        h = linear(attn, blk.attn.out_proj.weight, blk.attn.out_proj.bias) + h_in
+        h = h + blk.mlp(blk.ln_2(h))
+        ql.append(q); kl.append(k); vl.append(v); al.append(attn)
 
-    outputs, vs, qs, ks, atten_outs, map_size = clip_encode_dense(img_preprocessed_k, n=1)
-    img_embedding = F.normalize(outputs[:,0], dim=-1)
-    cosine = (img_embedding @ text_embedding.T)[0][0]
+    h = clipmodel.visual.ln_post(h.permute(1, 0, 2)) @ clipmodel.visual.proj
+    return h, vl, ql, kl, al, map_sz
 
-    heatmap = grad_eclip(cosine, qs, ks, vs, atten_outs, map_size)
-    
-    # Normalize heatmap
-    heatmap -= heatmap.min()
-    if heatmap.max() > 0:
-        heatmap /= heatmap.max()
-    
-    # Resize to 224x224
-    heatmap_resized = F.interpolate(heatmap.unsqueeze(0).unsqueeze(0), size=(224, 224), mode='bicubic', align_corners=False)
-    
-    # Move the final result to CPU
-    result = heatmap_resized.squeeze().detach().cpu().numpy().astype(np.float32)
+# ---------------------------------------------------------------------------
+# Grad‑ECLIP core
+# ---------------------------------------------------------------------------
 
-    # Explicitly clear intermediate tensors and empty cuda cache
-    del img_preprocessed_k, text_processed, text_embedding, outputs, vs, qs, ks, atten_outs, img_embedding, cosine, heatmap, heatmap_resized
-    if torch.cuda.is_available():
+def _sim(q: torch.Tensor, k: torch.Tensor):
+    qc = F.normalize(q[:1, 0], dim=-1)
+    kp = F.normalize(k[1:, 0], dim=-1)
+    s = (qc * kp).sum(-1)
+    return (s - s.min()) / (s.max() - s.min() + 1e-6)
+
+
+def _grad_eclip(cos: torch.Tensor, qs, ks, vs, attns, map_sz):
+    heat = None
+    for q, k, v, attn in zip(qs, ks, vs, attns):
+        g, = torch.autograd.grad(cos, attn, retain_graph=True)
+        layer_map = (g[:1, 0] * v[1:, 0] * _sim(q, k)[:, None]).sum(-1)
+        heat = layer_map if heat is None else heat + layer_map
+        del g, q, k, v, attn, layer_map
         torch.cuda.empty_cache()
+    return F.relu_(heat).reshape(*map_sz)
 
-    return result
+# ---------------------------------------------------------------------------
+# Public API
+# ---------------------------------------------------------------------------
 
-def print_gpu_tensors(context="", log_file="gpu_log.txt"):
-    """
-    Logs all tensors currently on the GPU to a file.
-    This function iterates through all objects known to the garbage collector.
-    """
-    import gc
-    import torch
-    import io
-    from contextlib import redirect_stdout
+def get_heatmap(img_path: str, prompt: str, n_last_layers: int = 1) -> np.ndarray:
+    img = Image.open(img_path).convert("RGB")
+    img_t = imgprocess(img).unsqueeze(0).to(device)
 
-    with open(log_file, "a") as f:
-        f.write(f'--- GPU TENSOR DUMP ({context}) ---\n')
-        total_mem = 0
-        for obj in gc.get_objects():
+    with torch.no_grad():
+        txt_t = clip.tokenize([prompt]).to(device)
+        txt_f = F.normalize(clipmodel.encode_text(txt_t), dim=-1)
+
+    img_out, vs, qs, ks, atts, msz = _clip_encode_dense(img_t, n_last_layers)
+    img_f = F.normalize(img_out[:, 0], dim=-1)
+    cos = (img_f @ txt_f.T).squeeze()
+
+    heat = _grad_eclip(cos, qs, ks, vs, atts, msz)
+    heat = (heat - heat.min()) / (heat.max() + 1e-6)
+
+    with torch.no_grad():
+        heat = F.interpolate(heat[None, None], size=(224, 224), mode="bicubic", align_corners=False)[0, 0]
+    res = heat.cpu().numpy().astype(np.float32)
+
+    del img_t, img_out, vs, qs, ks, atts, img_f, cos, heat, txt_f, txt_t
+    torch.cuda.empty_cache()
+    return res
+
+# ---------------------------------------------------------------------------
+# Debug helper
+# ---------------------------------------------------------------------------
+
+def print_gpu_tensors(context: str = "", log_file: str = "gpu_log.txt"):
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write(f"--- GPU tensor dump ({context}) ---\n")
+        mem = 0.0
+        for o in gc.get_objects():
             try:
-                if torch.is_tensor(obj) and obj.is_cuda:
-                    mem_mb = obj.element_size() * obj.nelement() / (1024 * 1024)
-                    total_mem += mem_mb
-                    f.write(f'  - Type: {type(obj)}, Size: {obj.size()}, Mem: {mem_mb:.2f}MB\n')
+                if torch.is_tensor(o) and o.is_cuda:
+                    m = o.element_size() * o.nelement() / 1048576.0
+                    mem += m
+                    f.write(f"  {type(o)} {tuple(o.size())} {m:.2f} MB\n")
             except Exception:
-                pass  # Ignore errors
-
-        f.write(f'--- Total Tensor Memory on GPU: {total_mem:.2f}MB ---\n')
-
-        # Redirect memory_summary to the file
-        buffer = io.StringIO()
-        with redirect_stdout(buffer):
+                pass
+        f.write(f"Total: {mem:.2f} MB\n")
+        buf = io.StringIO()
+        with redirect_stdout(buf):
             torch.cuda.memory_summary(abbreviated=True)
-        f.write(buffer.getvalue())
-        f.write('----------------------------------\n\n')
+        f.write(buf.getvalue() + "---\n\n")
