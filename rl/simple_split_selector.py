@@ -78,7 +78,8 @@ def calculate_split_score(heat, patches, gt_mask, patch_bonus_weight=0.1):
     patch_bonus = len(patches) * patch_bonus_weight
     final_score = iou + patch_bonus
     
-    return final_score, best_patch_idx, clip_scores[best_patch_idx]
+    # 返回最终得分、最佳patch索引、IoU（不再返回无意义的CLIP score）
+    return final_score, best_patch_idx, iou
 
 def find_best_split(img_path, prompt, gt_mask, verbose=False):
     """为给定的图片和文本找到最佳的split策略"""
@@ -92,33 +93,33 @@ def find_best_split(img_path, prompt, gt_mask, verbose=False):
     best_split = None
     best_score = -1
     best_patch_idx = -1
-    best_clip_score = -1
+    best_iou = -1
     results = []
     
     # 尝试每种split策略
     for split in SPLIT_ACTIONS:
         patches = create_patches(heat.shape, split)
-        score, patch_idx, clip_score = calculate_split_score(heat, patches, gt_mask)
+        score, patch_idx, iou = calculate_split_score(heat, patches, gt_mask)
         
         results.append({
             'split': split,
             'score': score,
+            'iou': iou,
             'best_patch_idx': patch_idx,
-            'clip_score': clip_score,
             'num_patches': len(patches)
         })
         
         if verbose:
-            print(f"Split {split}: Score={score:.4f}, CLIP_score={clip_score:.4f}, patches={len(patches)}")
+            print(f"Split {split}: Score={score:.4f}, IoU={iou:.4f}, patches={len(patches)}")
         
         if score > best_score:
             best_score = score
             best_split = split
             best_patch_idx = patch_idx
-            best_clip_score = clip_score
+            best_iou = iou
     
     if verbose:
-        print(f"\nBest split: {best_split} with Score={best_score:.4f}")
+        print(f"\nBest split: {best_split} with Score={best_score:.4f}, IoU={best_iou:.4f}")
     
     return best_split, best_score, results
 
