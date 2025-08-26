@@ -54,8 +54,8 @@ def create_patches(heat_shape, split):
     
     return patches
 
-def calculate_split_score(heat, patches, gt_mask, patch_bonus_weight=0.1):
-    """计算某个split策略的得分，考虑patch数量奖励"""
+def calculate_split_score(heat, patches, gt_mask, patch_bonus_weight=0.0):
+    """计算某个split策略的得分，纯粹基于IoU"""
     if not patches:
         return 0.0, -1, 0.0
     
@@ -74,11 +74,9 @@ def calculate_split_score(heat, patches, gt_mask, patch_bonus_weight=0.1):
     union = np.logical_or(best_patch, gt_mask).sum()
     iou = inter / (union + 1e-6)
     
-    # 添加patch数量奖励：更多patch（更细粒度）获得更高奖励
-    patch_bonus = len(patches) * patch_bonus_weight
-    final_score = iou + patch_bonus
+    # 直接使用IoU作为最终得分，不添加patch数量奖励
+    final_score = iou
     
-    # 返回最终得分、最佳patch索引、IoU（不再返回无意义的CLIP score）
     return final_score, best_patch_idx, iou
 
 def find_best_split(img_path, prompt, gt_mask, verbose=False):
