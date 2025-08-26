@@ -11,7 +11,7 @@ from tqdm import tqdm
 SPLIT_ACTIONS = [
     (1, 2), (2, 1), (2, 2),
     (1, 3), (3, 1), (3, 3),
-    (1, 5), (5, 1)
+    (3, 2), (2, 3), (1, 5), (5, 1)
 ]
 
 def _read_json_lines(path):
