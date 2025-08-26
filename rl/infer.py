@@ -44,7 +44,8 @@ def infer(img_path, prompt):
 
 if __name__ == "__main__":
     # 使用你的图片路径和文本提示
-    # img_path = "/path/to/your/image.jpg"
-    # prompt = "your text prompt"
-    # infer(img_path, prompt)
+    # img_path = "../data/images/mscoco/train2014/COCO_train2014_000000000443.jpg"
+    img_path = "../data/lions.jpeg"
+    prompt = "lions"
+    infer(img_path, prompt)
     print("Please uncomment and set img_path and prompt in infer.py to run inference.")

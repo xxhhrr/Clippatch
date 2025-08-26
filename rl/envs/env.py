@@ -16,7 +16,7 @@ SPLIT_ACTIONS = [
 def _read_json_lines(path):
     with open(path, 'r') as f:
         return [json.loads(l.strip()) for l in f if l.strip()]
-
+ 
 class ClipGridEnv(gym.Env):
     def __init__(self, cfg):
         super().__init__()
