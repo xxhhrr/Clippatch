@@ -18,6 +18,19 @@ def _read_json_lines(path):
     with open(path, 'r') as f:
         return [json.loads(l.strip()) for l in f if l.strip()]
 
+def _bbox_to_mask(bbox, size=(224,224), orig_wh=(640,480)):
+    """将bbox转换为mask"""
+    x, y, w, h = bbox
+    H, W = size
+    ow, oh = orig_wh
+    x1 = int(np.clip(x / ow * W, 0, W-1))
+    y1 = int(np.clip(y / oh * H, 0, H-1))
+    x2 = int(np.clip((x+w) / ow * W, 0, W-1))
+    y2 = int(np.clip((y+h) / oh * H, 0, H-1))
+    mask = np.zeros(size, dtype=np.uint8)
+    mask[y1:y2, x1:x2] = 1
+    return mask
+
 def create_patches(heat_shape, split):
     """根据split策略创建patches"""
     full_patch = np.ones(heat_shape, dtype=np.uint8)
@@ -73,13 +86,9 @@ def find_best_split(img_path, prompt, gt_mask, verbose=False):
     if verbose:
         print(f"Processing: {img_path}")
         print(f"Prompt: {prompt}")
-        print(f"GT mask shape: {gt_mask.shape}, sum: {gt_mask.sum()}, dtype: {gt_mask.dtype}")
     
     # 获取heatmap
     heat = get_heatmap(img_path, prompt)
-    
-    if verbose:
-        print(f"Heatmap shape: {heat.shape}, min: {heat.min():.4f}, max: {heat.max():.4f}")
     
     best_split = None
     best_score = -1
@@ -101,13 +110,7 @@ def find_best_split(img_path, prompt, gt_mask, verbose=False):
         })
         
         if verbose:
-            if patch_idx >= 0:
-                best_patch = patches[patch_idx]
-                inter = np.logical_and(best_patch, gt_mask).sum()
-                union = np.logical_or(best_patch, gt_mask).sum()
-                print(f"Split {split}: Score={score:.4f}, IoU={iou:.4f}, patches={len(patches)}")
-                print(f"  Best patch sum: {best_patch.sum()}, GT mask sum: {gt_mask.sum()}")
-                print(f"  Intersection: {inter}, Union: {union}")
+            print(f"Split {split}: Score={score:.4f}, IoU={iou:.4f}, patches={len(patches)}")
         
         if score > best_score:
             best_score = score
@@ -119,28 +122,6 @@ def find_best_split(img_path, prompt, gt_mask, verbose=False):
         print(f"\nBest split: {best_split} with Score={best_score:.4f}, IoU={best_iou:.4f}")
     
     return best_split, best_score, results
-
-def _bbox_to_mask(bbox, size=(224,224), orig_wh=(640,480)):
-    """将bbox转换为mask，添加调试信息"""
-    x, y, w, h = bbox
-    print(f"Original bbox: x={x}, y={y}, w={w}, h={h}")
-    print(f"Original image size: {orig_wh}")
-    
-    H, W = size
-    ow, oh = orig_wh
-    x1 = int(np.clip(x / ow * W, 0, W-1))
-    y1 = int(np.clip(y / oh * H, 0, H-1))
-    x2 = int(np.clip((x+w) / ow * W, 0, W-1))
-    y2 = int(np.clip((y+h) / oh * H, 0, H-1))
-    
-    print(f"Scaled bbox: x1={x1}, y1={y1}, x2={x2}, y2={y2}")
-    
-    mask = np.zeros(size, dtype=np.uint8)
-    mask[y1:y2, x1:x2] = 1
-    
-    print(f"Generated mask shape: {mask.shape}, sum: {mask.sum()}")
-    
-    return mask
 
 def process_all_samples(cfg, output_dir="split_results"):
     """处理所有样本并生成带split策略的text文件"""
