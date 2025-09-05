@@ -117,21 +117,143 @@ class SimpleMaskVisualizer:
         
         return all_samples
     
+    def collect_samples_from_images(self):
+        """从images目录收集样本（正确的流程）"""
+        all_samples = []
+        
+        # 获取所有图片文件
+        image_files = list(self.images_dir.glob("*.jpg")) + list(self.images_dir.glob("*.png"))
+        print(f"找到 {len(image_files)} 个图片文件")
+        
+        for img_file in image_files:
+            # 从文件名提取image_id
+            image_id = self._extract_image_id(img_file.name)
+            if not image_id:
+                continue
+                
+            # 查找对应的text文件
+            text_samples = self._find_text_samples_for_image(image_id)
+            
+            # 检查是否有对应的instance文件
+            instance_file = self.instance_dir / f"{image_id}.png"
+            if not instance_file.exists():
+                continue
+                
+            # 添加所有有效的样本
+            for sample in text_samples:
+                sample['image_path'] = str(img_file)
+                all_samples.append(sample)
+        
+        return all_samples
+    
+    def _extract_image_id(self, filename):
+        """从文件名提取image_id"""
+        # 处理 COCO_train2014_000000123456.jpg 格式
+        if filename.startswith('COCO_train2014_'):
+            return filename.replace('COCO_train2014_', '').replace('.jpg', '').replace('.png', '')
+        # 处理 123456.jpg 格式
+        elif filename.replace('.jpg', '').replace('.png', '').isdigit():
+            return filename.replace('.jpg', '').replace('.png', '')
+        else:
+            return None
+    
+    def _find_text_samples_for_image(self, image_id):
+        """根据image_id查找对应的text样本"""
+        samples = []
+        
+        # 遍历所有text文件
+        for txt_file in self.texts_dir.glob("*.txt"):
+            try:
+                with open(txt_file, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        try:
+                            data = json.loads(line)
+                            # 检查是否匹配当前image_id
+                            if str(data.get('image_id', '')) == str(image_id):
+                                samples.append(data)
+                        except json.JSONDecodeError:
+                            continue
+            except Exception as e:
+                print(f"读取文件失败 {txt_file}: {e}")
+                continue
+        
+        return samples
+    
+    def generate_random_visualizations(self, num_samples=1000):
+        """生成随机选择的可视化结果（修正版）"""
+        print(f"开始从images目录收集样本...")
+        
+        # 使用正确的流程收集样本
+        all_samples = self.collect_samples_from_images()
+        print(f"总共找到 {len(all_samples)} 个有效样本")
+        
+        if len(all_samples) == 0:
+            print("没有找到任何有效样本！")
+            print("请检查：")
+            print(f"1. images目录: {self.images_dir}")
+            print(f"2. texts目录: {self.texts_dir}")
+            print(f"3. instance目录: {self.instance_dir}")
+            return []
+        
+        # 随机选择样本
+        selected_samples = random.sample(all_samples, min(num_samples, len(all_samples)))
+        print(f"随机选择了 {len(selected_samples)} 个样本进行可视化")
+        
+        results = []
+        success_count = 0
+        
+        for i, sample in enumerate(selected_samples):
+            print(f"处理进度: {i+1}/{len(selected_samples)}")
+            
+            result = self.process_single_sample(sample)
+            if result is not None:
+                # 保存可视化图像
+                output_path = self.output_dir / f"sample_{result['image_id']}_{result['ann_id']}.jpg"
+                result['result_image'].save(output_path)
+                
+                results.append({
+                    'image_id': result['image_id'],
+                    'ann_id': result['ann_id'],
+                    'prompt': result['prompt'],
+                    'output_path': str(output_path),
+                    'has_pred_bbox': result['pred_bbox'] is not None,
+                    'has_gt_bbox': result['gt_bbox'] is not None
+                })
+                
+                success_count += 1
+            else:
+                print(f"处理样本失败: image_id={sample.get('image_id')}, ann_id={sample.get('ann_id')}")
+        
+        # 生成统计报告
+        self.generate_summary_report(results)
+        
+        print(f"\n可视化完成！")
+        print(f"成功处理: {success_count}/{len(selected_samples)} 个样本")
+        print(f"输出目录: {self.output_dir}")
+        
+        return results
+    
     def process_single_sample(self, sample_data):
-        """处理单个样本"""
+        """处理单个样本（修正版）"""
         try:
             image_id = sample_data['image_id']
             ann_id = sample_data['ann_id']
             prompt = sample_data['sent']
             
-            # 构建图像路径
-            img_path = self.images_dir / f"COCO_train2014_{image_id}.jpg"
-            if not img_path.exists():
-                # 尝试其他可能的文件名格式
-                img_path = self.images_dir / f"{image_id}.jpg"
+            # 使用预先确定的图像路径
+            if 'image_path' in sample_data:
+                img_path = sample_data['image_path']
+            else:
+                # 回退到原来的逻辑
+                img_path = self.images_dir / f"COCO_train2014_{image_id}.jpg"
                 if not img_path.exists():
-                    print(f"图像文件不存在: {image_id}")
-                    return None
+                    img_path = self.images_dir / f"{image_id}.jpg"
+                    if not img_path.exists():
+                        print(f"图像文件不存在: {image_id}")
+                        return None
             
             # 加载图像
             image = cv2.imread(str(img_path))
@@ -162,54 +284,6 @@ class SimpleMaskVisualizer:
         except Exception as e:
             print(f"处理样本失败: {e}")
             return None
-    
-    def generate_random_visualizations(self, num_samples=1000):
-        """生成随机选择的可视化结果"""
-        print(f"开始收集所有样本...")
-        
-        # 收集所有样本
-        all_samples = self.collect_all_samples()
-        print(f"总共找到 {len(all_samples)} 个样本")
-        
-        if len(all_samples) == 0:
-            print("没有找到任何样本！")
-            return []
-        
-        # 随机选择样本
-        selected_samples = random.sample(all_samples, min(num_samples, len(all_samples)))
-        print(f"随机选择了 {len(selected_samples)} 个样本进行可视化")
-        
-        results = []
-        success_count = 0
-        
-        for i, sample in enumerate(selected_samples):
-            print(f"处理进度: {i+1}/{len(selected_samples)}")
-            
-            result = self.process_single_sample(sample)
-            if result is not None:
-                # 保存可视化图像
-                output_path = self.output_dir / f"sample_{result['image_id']}_{result['ann_id']}.jpg"
-                result['result_image'].save(output_path)
-                
-                results.append({
-                    'image_id': result['image_id'],
-                    'ann_id': result['ann_id'],
-                    'prompt': result['prompt'],
-                    'output_path': str(output_path),
-                    'has_pred_bbox': result['pred_bbox'] is not None,
-                    'has_gt_bbox': result['gt_bbox'] is not None
-                })
-                
-                success_count += 1
-        
-        # 生成统计报告
-        self.generate_summary_report(results)
-        
-        print(f"\n可视化完成！")
-        print(f"成功处理: {success_count}/{len(selected_samples)} 个样本")
-        print(f"输出目录: {self.output_dir}")
-        
-        return results
     
     def generate_summary_report(self, results):
         """生成汇总报告"""
