@@ -134,7 +134,7 @@ class SimpleMaskVisualizer:
         x_min, x_max = coords[1].min(), coords[1].max()
         
         # 返回 [x1, y1, x2, y2] 格式
-        return [x_min, y_min, x_max, y_2]
+        return [x_min, y_min, x_max, y_max]
     
     def generate_predicted_mask(self, img_path, prompt):
         """生成预测mask（修正版）"""
