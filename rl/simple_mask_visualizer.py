@@ -54,43 +54,94 @@ class SimpleMaskVisualizer:
         return results
     
     def load_ground_truth_mask(self, image_id, ann_id):
-        """从instance目录加载真实mask"""
-        mask_file = self.instance_dir / f"{image_id}.png"
+        """从masks目录加载真实mask（根据实际格式修正）"""
+        # masks文件是.txt格式的JSON Lines文件
+        mask_file = self.masks_dir / f"{image_id}.txt"
         if not mask_file.exists():
+            print(f"Mask文件不存在: {mask_file}")
             return None
             
-        mask = cv2.imread(str(mask_file), cv2.IMREAD_GRAYSCALE)
-        if mask is None:
+        try:
+            # 读取JSON Lines格式的mask文件
+            mask_data = self._read_json_lines(mask_file)
+            
+            # 查找对应ann_id的mask数据
+            target_mask = None
+            for mask_info in mask_data:
+                if mask_info.get('ann_id') == ann_id:
+                    target_mask = mask_info
+                    break
+            
+            if target_mask is None:
+                print(f"未找到ann_id {ann_id}的mask数据")
+                return None
+            
+            # 根据bbox信息创建mask
+            if 'bbox' in target_mask:
+                bbox = target_mask['bbox']  # [x, y, width, height]
+                x, y, w, h = bbox
+                
+                # 获取原始图像尺寸来创建正确大小的mask
+                img_path = self.images_dir / f"COCO_train2014_{image_id}.jpg"
+                if not img_path.exists():
+                    img_path = self.images_dir / f"{image_id}.jpg"
+                
+                if img_path.exists():
+                    original_image = cv2.imread(str(img_path))
+                    if original_image is not None:
+                        original_height, original_width = original_image.shape[:2]
+                        
+                        # 创建与原始图像同尺寸的mask
+                        mask = np.zeros((original_height, original_width), dtype=np.uint8)
+                        
+                        # 将bbox区域标记为255
+                        x1, y1 = int(x), int(y)
+                        x2, y2 = int(x + w), int(y + h)
+                        
+                        # 确保坐标在图像范围内
+                        x1 = max(0, min(x1, original_width))
+                        y1 = max(0, min(y1, original_height))
+                        x2 = max(0, min(x2, original_width))
+                        y2 = max(0, min(y2, original_height))
+                        
+                        mask[y1:y2, x1:x2] = 255
+                        return mask
+                
+                # 如果无法获取原始图像尺寸，使用默认尺寸
+                print(f"无法获取图像尺寸，使用默认尺寸")
+                mask = np.zeros((640, 640), dtype=np.uint8)  # 默认尺寸
+                x1, y1 = int(x), int(y)
+                x2, y2 = int(x + w), int(y + h)
+                mask[y1:y2, x1:x2] = 255
+                return mask
+                
+        except Exception as e:
+            print(f"加载mask失败 {mask_file}: {e}")
             return None
             
-        # 找到对应ann_id的mask区域
-        gt_mask = (mask == ann_id).astype(np.uint8) * 255
-        return gt_mask
-    
-    def mask_to_bbox(self, mask):
-        """将mask转换为边界框"""
-        if mask is None or np.sum(mask) == 0:
-            return None
-            
-        coords = np.where(mask > 0)
-        if len(coords[0]) == 0:
-            return None
-            
-        y_min, y_max = coords[0].min(), coords[0].max()
-        x_min, x_max = coords[1].min(), coords[1].max()
-        return [x_min, y_min, x_max, y_max]
+        return None
     
     def generate_predicted_mask(self, img_path, prompt):
-        """生成预测mask"""
+        """生成预测mask（修正版）"""
         try:
             from utils.clip_util import get_heatmap
             
-            # 获取热力图
-            heatmap = get_heatmap(img_path, prompt)
+            # 获取原始图像尺寸
+            original_image = cv2.imread(str(img_path))
+            if original_image is None:
+                return None
+            original_height, original_width = original_image.shape[:2]
+            
+            # 获取224x224的热力图
+            heatmap = get_heatmap(str(img_path), prompt)
+            
+            # 将热力图缩放到原始图像尺寸
+            heatmap_resized = cv2.resize(heatmap, (original_width, original_height), 
+                                       interpolation=cv2.INTER_CUBIC)
             
             # 简单阈值化生成mask
-            threshold = np.percentile(heatmap, 80)  # 取前20%的高值区域
-            pred_mask = (heatmap > threshold).astype(np.uint8) * 255
+            threshold = np.percentile(heatmap_resized, 80)  # 取前20%的高值区域
+            pred_mask = (heatmap_resized > threshold).astype(np.uint8) * 255
             
             return pred_mask
         except Exception as e:
