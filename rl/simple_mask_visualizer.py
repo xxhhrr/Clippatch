@@ -221,7 +221,11 @@ class SimpleMaskVisualizer:
             
             # 直接构建对应的text和mask文件路径
             text_path = self.texts_dir / f"{image_id}.txt"
+            # 找到第224行，将：
             mask_path = self.instance_dir / f"{image_id}.txt"
+            
+            # 改为：
+            mask_path = self.masks_dir / f"{image_id}.txt"
             
             # 检查文件是否存在
             if not (text_path.exists() and mask_path.exists()):
