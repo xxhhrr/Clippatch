@@ -28,10 +28,31 @@ class SimpleMaskVisualizer:
         self.gt_color = (0, 255, 0)    # 绿色 - 真实框
     
     def _read_json_lines(self, path):
-        """读取JSON行文件"""
-        with open(path, 'r', encoding='utf-8') as f:
-            return [json.loads(l.strip()) for l in f if l.strip()]
+        """读取JSON行文件，增强错误处理"""
+        results = []
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                for line_num, line in enumerate(f, 1):
+                    line = line.strip()
+                    if not line:  # 跳过空行
+                        continue
+                    try:
+                        data = json.loads(line)
+                        # 验证必需字段
+                        if 'sent' not in data or 'ann_id' not in data:
+                            print(f"缺少必需字段 {path}:{line_num}: {line}")
+                            continue
+                        results.append(data)
+                    except json.JSONDecodeError as e:
+                        print(f"JSON解析错误 {path}:{line_num}: {e}")
+                        print(f"问题行: {line}")
+                        continue
+        except Exception as e:
+            print(f"文件读取失败 {path}: {e}")
+            return []
         
+        return results
+    
     def load_ground_truth_mask(self, image_id, ann_id):
         """从instance目录加载真实mask"""
         mask_file = self.instance_dir / f"{image_id}.png"
@@ -134,7 +155,7 @@ class SimpleMaskVisualizer:
             
             # 直接构建对应的text和mask文件路径
             text_path = self.texts_dir / f"{image_id}.txt"
-            mask_path = self.instance_dir / f"{image_id}.txt"  # 修正：mask文件也是txt格式！
+            mask_path = self.instance_dir / f"{image_id}.txt"
             
             # 检查文件是否存在
             if not (text_path.exists() and mask_path.exists()):
@@ -146,11 +167,13 @@ class SimpleMaskVisualizer:
                 img_path = self.images_dir / img_name
                 
                 for prompt_data in prompts:
+                    # 添加缺失的字段
+                    prompt_data['image_id'] = image_id  # 添加image_id
                     prompt_data['image_path'] = str(img_path)
                     all_samples.append(prompt_data)
                 
             except Exception as e:
-                print(f"处理样本失败: {e}")
+                print(f"处理样本失败 {text_path}: {e}")
                 continue
         
         print(f"总共收集到 {len(all_samples)} 个样本")
