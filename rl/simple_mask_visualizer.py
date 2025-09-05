@@ -129,15 +129,15 @@ class SimpleMaskVisualizer:
         print(f"生成bbox: {bbox}, mask形状: {mask.shape}, 非零像素数: {np.sum(mask > 0)}")
         return bbox
     
-    def generate_predicted_mask(self, img_path, prompt):
-        """生成预测mask（修正版）"""
+    def generate_predicted_mask_with_heatmap(self, img_path, prompt):
+        """生成预测mask并返回热图用于调试"""
         try:
             from utils.clip_util import get_heatmap
             
             # 获取原始图像尺寸
             original_image = cv2.imread(str(img_path))
             if original_image is None:
-                return None
+                return None, None
             original_height, original_width = original_image.shape[:2]
             
             # 获取224x224的热力图
@@ -151,146 +151,62 @@ class SimpleMaskVisualizer:
             threshold = np.percentile(heatmap_resized, 80)  # 取前20%的高值区域
             pred_mask = (heatmap_resized > threshold).astype(np.uint8) * 255
             
-            return pred_mask
+            return pred_mask, heatmap_resized
         except Exception as e:
             print(f"生成预测mask失败: {e}")
-            return None
+            return None, None
     
-    def draw_boxes_on_image(self, image, pred_bbox, gt_bbox, prompt):
-        """在图像上绘制预测框和真实框"""
-        # 转换为PIL图像以便绘制
-        if isinstance(image, np.ndarray):
-            image = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
-        
-        draw = ImageDraw.Draw(image)
-        
-        # 绘制真实框（绿色，较粗的线）
-        if gt_bbox is not None:
-            x1, y1, x2, y2 = gt_bbox
-            draw.rectangle([x1, y1, x2, y2], outline=self.gt_color, width=3)
-            draw.text((x1, y1-20), "Ground Truth", fill=self.gt_color)
-        
-        # 绘制预测框（红色，较细的线）
-        if pred_bbox is not None:
-            x1, y1, x2, y2 = pred_bbox
-            draw.rectangle([x1, y1, x2, y2], outline=self.pred_color, width=2)
-            draw.text((x1, y2+5), "Predicted", fill=self.pred_color)
-        
-        # 添加文本提示
-        draw.text((10, 10), f"Prompt: {prompt[:50]}...", fill=(255, 255, 255))
-        
-        return image
-    
-    def collect_all_samples(self):
-        """从texts目录收集所有样本"""
-        all_samples = []
-        
-        # 遍历texts目录下的所有txt文件
-        for txt_file in self.texts_dir.glob("*.txt"):
-            try:
-                prompts = self._read_json_lines(txt_file)
-                for prompt_data in prompts:
-                    all_samples.append(prompt_data)
-            except Exception as e:
-                print(f"读取文件失败 {txt_file}: {e}")
-                continue
-        
-        return all_samples
-    
-    def collect_samples_from_images(self):
-        """从images目录收集样本"""
-        # 获取所有图片文件
-        image_files = [f for f in os.listdir(self.images_dir) if f.endswith(('.jpg', '.png'))]
-        print(f"找到 {len(image_files)} 个图片文件")
-        
-        all_samples = []
-        
-        for i, img_name in enumerate(image_files):
-            if i % 10000 == 0:
-                print(f"处理进度: {i}/{len(image_files)}")
-                
-            # 提取图片ID（和simple_split_selector.py一样的方法）
-            image_id = img_name.split('_')[-1].split('.')[0].zfill(12)
+    def create_debug_visualization(self, image, pred_bbox, gt_bbox, prompt, heatmap):
+        """创建调试可视化图像，包含原图+框、热图、预测mask的组合"""
+        try:
+            # 转换图像格式
+            if isinstance(image, np.ndarray):
+                pil_image = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
+            else:
+                pil_image = image
             
-            # 直接构建对应的text和mask文件路径
-            text_path = self.texts_dir / f"{image_id}.txt"
+            # 创建绘制对象
+            draw = ImageDraw.Draw(pil_image)
             
-            mask_path = self.masks_dir / f"{image_id}.txt"
+            # 绘制预测框（红色）
+            if pred_bbox is not None:
+                x1, y1, x2, y2 = pred_bbox
+                draw.rectangle([x1, y1, x2, y2], outline=self.pred_color, width=3)
+                draw.text((x1, y1-20), "Pred", fill=self.pred_color)
             
-            # 检查文件是否存在
-            if not (text_path.exists() and mask_path.exists()):
-                continue
-                
-            # 读取text文件中的所有样本
-            try:
-                prompts = self._read_json_lines(text_path)
-                img_path = self.images_dir / img_name
-                
-                for prompt_data in prompts:
-                    # 添加缺失的字段
-                    prompt_data['image_id'] = image_id  # 添加image_id
-                    prompt_data['image_path'] = str(img_path)
-                    all_samples.append(prompt_data)
-                
-            except Exception as e:
-                print(f"处理样本失败 {text_path}: {e}")
-                continue
-        
-        print(f"总共收集到 {len(all_samples)} 个样本")
-        return all_samples
-    
-    def generate_random_visualizations(self, num_samples=1000):
-        """生成随机选择的可视化结果（简化版）"""
-        print(f"开始收集样本（目标: {num_samples} 个）...")
-        
-        # 使用简化的样本收集方法
-        all_samples = self.collect_samples_from_images()
-        
-        if len(all_samples) == 0:
-            print("没有找到任何有效样本！")
-            return []
-        
-        print(f"总共找到 {len(all_samples)} 个有效样本")
-        
-        # 随机选择样本
-        selected_samples = random.sample(all_samples, min(num_samples, len(all_samples)))
-        print(f"随机选择了 {len(selected_samples)} 个样本进行可视化")
-        
-        results = []
-        success_count = 0
-        
-        for i, sample in enumerate(selected_samples):
-            if i % 100 == 0:
-                print(f"可视化进度: {i}/{len(selected_samples)} ({i/len(selected_samples)*100:.1f}%)")
+            # 绘制真实框（绿色）
+            if gt_bbox is not None:
+                x1, y1, x2, y2 = gt_bbox
+                draw.rectangle([x1, y1, x2, y2], outline=self.gt_color, width=3)
+                draw.text((x1, y1-40), "GT", fill=self.gt_color)
             
-            result = self.process_single_sample(sample)
-            if result is not None:
-                # 保存可视化图像
-                output_path = self.output_dir / f"sample_{result['image_id']}_{result['ann_id']}.jpg"
-                result['result_image'].save(output_path)
-                
-                results.append({
-                    'image_id': result['image_id'],
-                    'ann_id': result['ann_id'],
-                    'prompt': result['prompt'],
-                    'output_path': str(output_path),
-                    'has_pred_bbox': result['pred_bbox'] is not None,
-                    'has_gt_bbox': result['gt_bbox'] is not None
-                })
-                
-                success_count += 1
-        
-        # 生成统计报告
-        self.generate_summary_report(results)
-        
-        print(f"\n可视化完成！")
-        print(f"成功处理: {success_count}/{len(selected_samples)} 个样本")
-        print(f"输出目录: {self.output_dir}")
-        
-        return results
+            # 添加prompt文本
+            if prompt:
+                # 在图像底部添加prompt
+                img_width, img_height = pil_image.size
+                draw.text((10, img_height-30), f"Prompt: {prompt[:50]}...", fill=(255, 255, 255))
+            
+            # 转换回numpy数组
+            result_with_boxes = cv2.cvtColor(np.array(pil_image), cv2.COLOR_RGB2BGR)
+            
+            # 创建热图可视化
+            heatmap_colored = cv2.applyColorMap((heatmap * 255).astype(np.uint8), cv2.COLORMAP_JET)
+            
+            # 调整尺寸使其一致
+            h, w = result_with_boxes.shape[:2]
+            heatmap_colored = cv2.resize(heatmap_colored, (w, h))
+            
+            # 创建组合图像：左边是原图+框，右边是热图
+            combined = np.hstack([result_with_boxes, heatmap_colored])
+            
+            return combined
+            
+        except Exception as e:
+            print(f"创建调试可视化失败: {e}")
+            return image
     
     def process_single_sample(self, sample_data):
-        """处理单个样本（直接使用bbox）"""
+        """处理单个样本（增强调试版本）"""
         try:
             image_id = sample_data['image_id']
             ann_id = sample_data['ann_id']
@@ -312,8 +228,8 @@ class SimpleMaskVisualizer:
             if image is None:
                 return None  # 静默返回None
             
-            # 加载真实bbox - 如果找不到对应ann_id，静默跳过
-            gt_bbox_xywh = self.load_ground_truth_mask(image_id, ann_id)  # 返回[x,y,w,h]
+            # 加载真实bbox
+            gt_bbox_xywh = self.load_ground_truth_mask(image_id, ann_id)
             if gt_bbox_xywh is None:
                 return None  # 静默跳过没有对应ann_id的样本
             
@@ -321,20 +237,21 @@ class SimpleMaskVisualizer:
             x, y, w, h = gt_bbox_xywh
             gt_bbox = [int(x), int(y), int(x + w), int(y + h)]
             
-            # 生成预测mask
-            pred_mask = self.generate_predicted_mask(str(img_path), prompt)
+            # 生成预测mask和热图
+            pred_mask, heatmap = self.generate_predicted_mask_with_heatmap(str(img_path), prompt)
             pred_bbox = self.mask_to_bbox(pred_mask) if pred_mask is not None else None
             
-            # 在图像上绘制框
-            result_image = self.draw_boxes_on_image(image, pred_bbox, gt_bbox, prompt)
+            # 创建调试可视化图像
+            debug_image = self.create_debug_visualization(image, pred_bbox, gt_bbox, prompt, heatmap)
             
             return {
                 'image_id': image_id,
                 'ann_id': ann_id,
                 'prompt': prompt,
-                'result_image': result_image,
+                'result_image': debug_image,  # 这是组合的调试图像
                 'pred_bbox': pred_bbox,
-                'gt_bbox': gt_bbox
+                'gt_bbox': gt_bbox,
+                'heatmap': heatmap  # 原始热图数据
             }
             
         except Exception as e:
