@@ -28,7 +28,7 @@ class SimpleMaskVisualizer:
         self.gt_color = (0, 255, 0)    # 绿色 - 真实框
     
     def _read_json_lines(self, path):
-        """读取JSON行文件，增强错误处理"""
+        """读取JSON行文件，静默处理错误"""
         results = []
         try:
             with open(path, 'r', encoding='utf-8') as f:
@@ -38,28 +38,23 @@ class SimpleMaskVisualizer:
                         continue
                     try:
                         data = json.loads(line)
-                        # 验证必需字段
+                        # 验证必需字段 - 静默跳过缺少字段的行
                         if 'sent' not in data or 'ann_id' not in data:
-                            print(f"缺少必需字段 {path}:{line_num}: {line}")
-                            continue
+                            continue  # 静默跳过，不打印错误
                         results.append(data)
-                    except json.JSONDecodeError as e:
-                        print(f"JSON解析错误 {path}:{line_num}: {e}")
-                        print(f"问题行: {line}")
-                        continue
-        except Exception as e:
-            print(f"文件读取失败 {path}: {e}")
-            return []
+                    except json.JSONDecodeError:
+                        continue  # 静默跳过JSON解析错误
+        except Exception:
+            return []  # 静默返回空列表
         
         return results
     
     def load_ground_truth_mask(self, image_id, ann_id):
-        """从masks目录加载真实mask（根据实际格式修正）"""
+        """从masks目录加载真实mask（静默处理错误）"""
         # masks文件是.txt格式的JSON Lines文件
         mask_file = self.masks_dir / f"{image_id}.txt"
         if not mask_file.exists():
-            print(f"Mask文件不存在: {mask_file}")
-            return None
+            return None  # 静默返回None
             
         try:
             # 读取JSON Lines格式的mask文件
@@ -73,8 +68,7 @@ class SimpleMaskVisualizer:
                     break
             
             if target_mask is None:
-                print(f"未找到ann_id {ann_id}的mask数据")
-                return None
+                return None  # 静默返回None，不打印错误
             
             # 根据bbox信息创建mask
             if 'bbox' in target_mask:
@@ -108,16 +102,14 @@ class SimpleMaskVisualizer:
                         return mask
                 
                 # 如果无法获取原始图像尺寸，使用默认尺寸
-                print(f"无法获取图像尺寸，使用默认尺寸")
                 mask = np.zeros((640, 640), dtype=np.uint8)  # 默认尺寸
                 x1, y1 = int(x), int(y)
                 x2, y2 = int(x + w), int(y + h)
                 mask[y1:y2, x1:x2] = 255
                 return mask
                 
-        except Exception as e:
-            print(f"加载mask失败 {mask_file}: {e}")
-            return None
+        except Exception:
+            return None  # 静默返回None
             
         return None
     
@@ -300,7 +292,7 @@ class SimpleMaskVisualizer:
         return results
     
     def process_single_sample(self, sample_data):
-        """处理单个样本（修正版）"""
+        """处理单个样本（静默处理错误）"""
         try:
             image_id = sample_data['image_id']
             ann_id = sample_data['ann_id']
@@ -315,22 +307,22 @@ class SimpleMaskVisualizer:
                 if not img_path.exists():
                     img_path = self.images_dir / f"{image_id}.jpg"
                     if not img_path.exists():
-                        print(f"图像文件不存在: {image_id}")
-                        return None
+                        return None  # 静默返回None
             
             # 加载图像
             image = cv2.imread(str(img_path))
             if image is None:
-                print(f"无法加载图像: {img_path}")
-                return None
+                return None  # 静默返回None
+            
+            # 加载真实mask - 如果找不到对应ann_id，静默跳过
+            gt_mask = self.load_ground_truth_mask(image_id, ann_id)
+            if gt_mask is None:
+                return None  # 静默跳过没有对应ann_id的样本
             
             # 生成预测mask
             pred_mask = self.generate_predicted_mask(str(img_path), prompt)
             pred_bbox = self.mask_to_bbox(pred_mask) if pred_mask is not None else None
-            
-            # 加载真实mask
-            gt_mask = self.load_ground_truth_mask(image_id, ann_id)
-            gt_bbox = self.mask_to_bbox(gt_mask) if gt_mask is not None else None
+            gt_bbox = self.mask_to_bbox(gt_mask)
             
             # 在图像上绘制框
             result_image = self.draw_boxes_on_image(image, pred_bbox, gt_bbox, prompt)
@@ -344,9 +336,8 @@ class SimpleMaskVisualizer:
                 'gt_bbox': gt_bbox
             }
             
-        except Exception as e:
-            print(f"处理样本失败: {e}")
-            return None
+        except Exception:
+            return None  # 静默返回None
     
     def generate_summary_report(self, results):
         """生成汇总报告"""
