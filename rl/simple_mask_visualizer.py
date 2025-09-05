@@ -118,7 +118,7 @@ class SimpleMaskVisualizer:
         return all_samples
     
     def collect_samples_from_images(self):
-        """从images目录收集样本（简化版）"""
+        """从images目录收集样本"""
         # 获取所有图片文件
         image_files = [f for f in os.listdir(self.images_dir) if f.endswith(('.jpg', '.png'))]
         print(f"找到 {len(image_files)} 个图片文件")
@@ -126,15 +126,15 @@ class SimpleMaskVisualizer:
         all_samples = []
         
         for i, img_name in enumerate(image_files):
-            if i % 1000 == 0:
-                print(f"处理进度: {i}/{len(image_files)} ({i/len(image_files)*100:.1f}%)")
-            
+            if i % 10000 == 0:
+                print(f"处理进度: {i}/{len(image_files)}")
+                
             # 提取图片ID（和simple_split_selector.py一样的方法）
             image_id = img_name.split('_')[-1].split('.')[0].zfill(12)
             
             # 直接构建对应的text和mask文件路径
             text_path = self.texts_dir / f"{image_id}.txt"
-            mask_path = self.instance_dir / f"{image_id}.png"  # instance是png格式
+            mask_path = self.instance_dir / f"{image_id}.txt"  # 修正：mask文件也是txt格式！
             
             # 检查文件是否存在
             if not (text_path.exists() and mask_path.exists()):
@@ -150,10 +150,10 @@ class SimpleMaskVisualizer:
                     all_samples.append(prompt_data)
                 
             except Exception as e:
-                print(f"读取文件失败 {text_path}: {e}")
+                print(f"处理样本失败: {e}")
                 continue
         
-        print(f"处理完成！总样本数: {len(all_samples)}")
+        print(f"总共收集到 {len(all_samples)} 个样本")
         return all_samples
     
     def generate_random_visualizations(self, num_samples=1000):
