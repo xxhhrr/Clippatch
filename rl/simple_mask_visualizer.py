@@ -118,85 +118,56 @@ class SimpleMaskVisualizer:
         return all_samples
     
     def collect_samples_from_images(self):
-        """从images目录收集样本（正确的流程）"""
-        all_samples = []
-        
+        """从images目录收集样本（简化版）"""
         # 获取所有图片文件
-        image_files = list(self.images_dir.glob("*.jpg")) + list(self.images_dir.glob("*.png"))
+        image_files = [f for f in os.listdir(self.images_dir) if f.endswith(('.jpg', '.png'))]
         print(f"找到 {len(image_files)} 个图片文件")
         
-        for img_file in image_files:
-            # 从文件名提取image_id
-            image_id = self._extract_image_id(img_file.name)
-            if not image_id:
-                continue
-                
-            # 查找对应的text文件
-            text_samples = self._find_text_samples_for_image(image_id)
-            
-            # 检查是否有对应的instance文件
-            instance_file = self.instance_dir / f"{image_id}.png"
-            if not instance_file.exists():
-                continue
-                
-            # 添加所有有效的样本
-            for sample in text_samples:
-                sample['image_path'] = str(img_file)
-                all_samples.append(sample)
+        all_samples = []
         
+        for i, img_name in enumerate(image_files):
+            if i % 1000 == 0:
+                print(f"处理进度: {i}/{len(image_files)} ({i/len(image_files)*100:.1f}%)")
+            
+            # 提取图片ID（和simple_split_selector.py一样的方法）
+            image_id = img_name.split('_')[-1].split('.')[0].zfill(12)
+            
+            # 直接构建对应的text和mask文件路径
+            text_path = self.texts_dir / f"{image_id}.txt"
+            mask_path = self.instance_dir / f"{image_id}.png"  # instance是png格式
+            
+            # 检查文件是否存在
+            if not (text_path.exists() and mask_path.exists()):
+                continue
+                
+            # 读取text文件中的所有样本
+            try:
+                prompts = self._read_json_lines(text_path)
+                img_path = self.images_dir / img_name
+                
+                for prompt_data in prompts:
+                    prompt_data['image_path'] = str(img_path)
+                    all_samples.append(prompt_data)
+                
+            except Exception as e:
+                print(f"读取文件失败 {text_path}: {e}")
+                continue
+        
+        print(f"处理完成！总样本数: {len(all_samples)}")
         return all_samples
     
-    def _extract_image_id(self, filename):
-        """从文件名提取image_id"""
-        # 处理 COCO_train2014_000000123456.jpg 格式
-        if filename.startswith('COCO_train2014_'):
-            return filename.replace('COCO_train2014_', '').replace('.jpg', '').replace('.png', '')
-        # 处理 123456.jpg 格式
-        elif filename.replace('.jpg', '').replace('.png', '').isdigit():
-            return filename.replace('.jpg', '').replace('.png', '')
-        else:
-            return None
-    
-    def _find_text_samples_for_image(self, image_id):
-        """根据image_id查找对应的text样本"""
-        samples = []
-        
-        # 遍历所有text文件
-        for txt_file in self.texts_dir.glob("*.txt"):
-            try:
-                with open(txt_file, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if not line:
-                            continue
-                        try:
-                            data = json.loads(line)
-                            # 检查是否匹配当前image_id
-                            if str(data.get('image_id', '')) == str(image_id):
-                                samples.append(data)
-                        except json.JSONDecodeError:
-                            continue
-            except Exception as e:
-                print(f"读取文件失败 {txt_file}: {e}")
-                continue
-        
-        return samples
-    
     def generate_random_visualizations(self, num_samples=1000):
-        """生成随机选择的可视化结果（修正版）"""
-        print(f"开始从images目录收集样本...")
+        """生成随机选择的可视化结果（简化版）"""
+        print(f"开始收集样本（目标: {num_samples} 个）...")
         
-        # 使用正确的流程收集样本
+        # 使用简化的样本收集方法
         all_samples = self.collect_samples_from_images()
-        print(f"总共找到 {len(all_samples)} 个有效样本")
         
         if len(all_samples) == 0:
             print("没有找到任何有效样本！")
-            print("请检查：")
-            print(f"1. images目录: {self.images_dir}")
-            print(f"2. texts目录: {self.texts_dir}")
-            print(f"3. instance目录: {self.instance_dir}")
             return []
+        
+        print(f"总共找到 {len(all_samples)} 个有效样本")
         
         # 随机选择样本
         selected_samples = random.sample(all_samples, min(num_samples, len(all_samples)))
@@ -206,7 +177,8 @@ class SimpleMaskVisualizer:
         success_count = 0
         
         for i, sample in enumerate(selected_samples):
-            print(f"处理进度: {i+1}/{len(selected_samples)}")
+            if i % 100 == 0:
+                print(f"可视化进度: {i}/{len(selected_samples)} ({i/len(selected_samples)*100:.1f}%)")
             
             result = self.process_single_sample(sample)
             if result is not None:
@@ -224,8 +196,6 @@ class SimpleMaskVisualizer:
                 })
                 
                 success_count += 1
-            else:
-                print(f"处理样本失败: image_id={sample.get('image_id')}, ann_id={sample.get('ann_id')}")
         
         # 生成统计报告
         self.generate_summary_report(results)
