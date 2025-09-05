@@ -114,19 +114,32 @@ class SimpleMaskVisualizer:
         return None
     
     def mask_to_bbox(self, mask):
-        """将mask转换为边界框"""
-        if mask is None or np.sum(mask) == 0:
+        """将mask转换为边界框（增强调试）"""
+        if mask is None:
+            return None
+            
+        # 检查mask是否有效
+        if np.sum(mask) == 0:
+            print(f"警告：mask全为0，无法生成bbox")
             return None
             
         coords = np.where(mask > 0)
         if len(coords[0]) == 0:
+            print(f"警告：mask中没有找到非零像素")
             return None
             
         y_min, y_max = coords[0].min(), coords[0].max()
         x_min, x_max = coords[1].min(), coords[1].max()
         
+        # 确保bbox有效
+        if x_min >= x_max or y_min >= y_max:
+            print(f"警告：无效的bbox坐标 - x_min:{x_min}, x_max:{x_max}, y_min:{y_min}, y_max:{y_max}")
+            return None
+        
         # 返回 [x1, y1, x2, y2] 格式
-        return [x_min, y_min, x_max, y_max]
+        bbox = [x_min, y_min, x_max, y_max]
+        print(f"生成bbox: {bbox}, mask形状: {mask.shape}, 非零像素数: {np.sum(mask > 0)}")
+        return bbox
     
     def generate_predicted_mask(self, img_path, prompt):
         """生成预测mask（修正版）"""
@@ -289,7 +302,7 @@ class SimpleMaskVisualizer:
         return results
     
     def process_single_sample(self, sample_data):
-        """处理单个样本（静默处理错误）"""
+        """处理单个样本（只处理有GT的样本）"""
         try:
             image_id = sample_data['image_id']
             ann_id = sample_data['ann_id']
@@ -321,6 +334,11 @@ class SimpleMaskVisualizer:
             pred_bbox = self.mask_to_bbox(pred_mask) if pred_mask is not None else None
             gt_bbox = self.mask_to_bbox(gt_mask)
             
+            # 调试信息：检查bbox是否正确生成
+            if gt_bbox is None:
+                print(f"警告：GT mask存在但无法生成bbox - image_id: {image_id}, ann_id: {ann_id}")
+                return None
+            
             # 在图像上绘制框
             result_image = self.draw_boxes_on_image(image, pred_bbox, gt_bbox, prompt)
             
@@ -333,7 +351,8 @@ class SimpleMaskVisualizer:
                 'gt_bbox': gt_bbox
             }
             
-        except Exception:
+        except Exception as e:
+            print(f"处理样本异常: {e} - image_id: {sample_data.get('image_id')}, ann_id: {sample_data.get('ann_id')}")
             return None  # 静默返回None
     
     def generate_summary_report(self, results):
