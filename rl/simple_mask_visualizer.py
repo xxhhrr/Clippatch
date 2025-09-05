@@ -3,20 +3,34 @@ import json
 import random
 import cv2
 import numpy as np
+import yaml
 from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 from pathlib import Path
 
 class SimpleMaskVisualizer:
-    def __init__(self, data_dir, instance_dir, output_dir="visualization_output"):
-        self.data_dir = Path(data_dir)
-        self.instance_dir = Path(instance_dir)
+    def __init__(self, config_path="config.yaml", output_dir="visualization_output"):
+        # 从config.yaml加载配置
+        with open(config_path, 'r', encoding='utf-8') as f:
+            config = yaml.safe_load(f)
+        
+        # 设置路径（相对于config.yaml文件的位置）
+        config_dir = Path(config_path).parent
+        self.images_dir = config_dir / config['data']['images']
+        self.instance_dir = config_dir / config['data']['masks']
+        self.texts_dir = config_dir / config['data']['texts']
+        
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(exist_ok=True)
         
         # 颜色定义：预测框用红色，真实框用绿色
         self.pred_color = (255, 0, 0)  # 红色 - 预测框
         self.gt_color = (0, 255, 0)    # 绿色 - 真实框
+    
+    def _read_json_lines(self, path):
+        """读取JSON行文件"""
+        with open(path, 'r', encoding='utf-8') as f:
+            return [json.loads(l.strip()) for l in f if l.strip()]
         
     def load_ground_truth_mask(self, image_id, ann_id):
         """从instance目录加载真实mask"""
@@ -46,9 +60,7 @@ class SimpleMaskVisualizer:
         return [x_min, y_min, x_max, y_max]
     
     def generate_predicted_mask(self, img_path, prompt):
-        """生成预测mask（这里使用您的heatmap_mask_generator逻辑）"""
-        # 这里应该调用您的热力图生成逻辑
-        # 暂时返回一个示例mask，您需要替换为实际的热力图生成代码
+        """生成预测mask"""
         try:
             from utils.clip_util import get_heatmap
             
@@ -89,20 +101,37 @@ class SimpleMaskVisualizer:
         
         return image
     
-    def process_single_sample(self, data_line):
+    def collect_all_samples(self):
+        """从texts目录收集所有样本"""
+        all_samples = []
+        
+        # 遍历texts目录下的所有txt文件
+        for txt_file in self.texts_dir.glob("*.txt"):
+            try:
+                prompts = self._read_json_lines(txt_file)
+                for prompt_data in prompts:
+                    all_samples.append(prompt_data)
+            except Exception as e:
+                print(f"读取文件失败 {txt_file}: {e}")
+                continue
+        
+        return all_samples
+    
+    def process_single_sample(self, sample_data):
         """处理单个样本"""
         try:
-            # 解析数据
-            data = json.loads(data_line.strip())
-            image_id = data['image_id']
-            ann_id = data['ann_id']
-            prompt = data['sent']
+            image_id = sample_data['image_id']
+            ann_id = sample_data['ann_id']
+            prompt = sample_data['sent']
             
             # 构建图像路径
-            img_path = self.data_dir / "images" / f"{image_id}.jpg"
+            img_path = self.images_dir / f"COCO_train2014_{image_id}.jpg"
             if not img_path.exists():
-                print(f"图像文件不存在: {img_path}")
-                return None
+                # 尝试其他可能的文件名格式
+                img_path = self.images_dir / f"{image_id}.jpg"
+                if not img_path.exists():
+                    print(f"图像文件不存在: {image_id}")
+                    return None
             
             # 加载图像
             image = cv2.imread(str(img_path))
@@ -134,24 +163,29 @@ class SimpleMaskVisualizer:
             print(f"处理样本失败: {e}")
             return None
     
-    def generate_random_visualizations(self, data_file, num_samples=1000):
+    def generate_random_visualizations(self, num_samples=1000):
         """生成随机选择的可视化结果"""
-        print(f"开始生成 {num_samples} 个随机样本的可视化...")
+        print(f"开始收集所有样本...")
         
-        # 读取所有数据行
-        with open(data_file, 'r', encoding='utf-8') as f:
-            all_lines = f.readlines()
+        # 收集所有样本
+        all_samples = self.collect_all_samples()
+        print(f"总共找到 {len(all_samples)} 个样本")
+        
+        if len(all_samples) == 0:
+            print("没有找到任何样本！")
+            return []
         
         # 随机选择样本
-        selected_lines = random.sample(all_lines, min(num_samples, len(all_lines)))
+        selected_samples = random.sample(all_samples, min(num_samples, len(all_samples)))
+        print(f"随机选择了 {len(selected_samples)} 个样本进行可视化")
         
         results = []
         success_count = 0
         
-        for i, line in enumerate(selected_lines):
-            print(f"处理进度: {i+1}/{len(selected_lines)}")
+        for i, sample in enumerate(selected_samples):
+            print(f"处理进度: {i+1}/{len(selected_samples)}")
             
-            result = self.process_single_sample(line)
+            result = self.process_single_sample(sample)
             if result is not None:
                 # 保存可视化图像
                 output_path = self.output_dir / f"sample_{result['image_id']}_{result['ann_id']}.jpg"
@@ -172,7 +206,7 @@ class SimpleMaskVisualizer:
         self.generate_summary_report(results)
         
         print(f"\n可视化完成！")
-        print(f"成功处理: {success_count}/{len(selected_lines)} 个样本")
+        print(f"成功处理: {success_count}/{len(selected_samples)} 个样本")
         print(f"输出目录: {self.output_dir}")
         
         return results
@@ -198,17 +232,11 @@ class SimpleMaskVisualizer:
 
 # 使用示例
 if __name__ == "__main__":
-    # 配置路径
-    data_dir = "path/to/your/data"  # 包含images文件夹的数据目录
-    instance_dir = "path/to/instance"  # instance目录路径
-    data_file = "path/to/your/data.txt"  # 数据文件路径
-    
-    # 创建可视化器
+    # 创建可视化器（自动从config.yaml加载所有路径配置）
     visualizer = SimpleMaskVisualizer(
-        data_dir=data_dir,
-        instance_dir=instance_dir,
+        config_path="config.yaml",
         output_dir="mask_visualization_output"
     )
     
-    # 生成1000个随机样本的可视化
-    results = visualizer.generate_random_visualizations(data_file, num_samples=1000)
+    # 生成1000个随机样本的可视化（直接从texts目录读取所有数据）
+    results = visualizer.generate_random_visualizations(num_samples=1000)
