@@ -121,6 +121,21 @@ class SimpleMaskVisualizer:
             
         return None
     
+    def mask_to_bbox(self, mask):
+        """将mask转换为边界框"""
+        if mask is None or np.sum(mask) == 0:
+            return None
+            
+        coords = np.where(mask > 0)
+        if len(coords[0]) == 0:
+            return None
+            
+        y_min, y_max = coords[0].min(), coords[0].max()
+        x_min, x_max = coords[1].min(), coords[1].max()
+        
+        # 返回 [x1, y1, x2, y2] 格式
+        return [x_min, y_min, x_max, y_2]
+    
     def generate_predicted_mask(self, img_path, prompt):
         """生成预测mask（修正版）"""
         try:
