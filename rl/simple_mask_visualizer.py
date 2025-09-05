@@ -28,19 +28,16 @@ class SimpleMaskVisualizer:
         self.gt_color = (0, 255, 0)    # 绿色 - 真实框
     
     def _read_json_lines(self, path):
-        """读取JSON行文件，静默处理错误"""
+        """通用的读取JSON Lines文件方法"""
         results = []
         try:
             with open(path, 'r', encoding='utf-8') as f:
-                for line_num, line in enumerate(f, 1):
+                for line in f:
                     line = line.strip()
                     if not line:  # 跳过空行
                         continue
                     try:
                         data = json.loads(line)
-                        # 验证必需字段 - 静默跳过缺少字段的行
-                        if 'sent' not in data or 'ann_id' not in data:
-                            continue  # 静默跳过，不打印错误
                         results.append(data)
                     except json.JSONDecodeError:
                         continue  # 静默跳过JSON解析错误
@@ -60,7 +57,7 @@ class SimpleMaskVisualizer:
             return None
             
         try:
-            # 读取JSON Lines格式的mask文件
+            # 直接读取所有JSON行
             mask_data = self._read_json_lines(mask_file)
             print(f"读取到 {len(mask_data)} 条mask数据")
             
@@ -76,6 +73,9 @@ class SimpleMaskVisualizer:
             # 查找对应ann_id的mask数据
             target_mask = None
             for mask_info in mask_data:
+                # 在这里验证字段是否存在
+                if 'ann_id' not in mask_info:
+                    continue
                 current_ann_id = mask_info.get('ann_id')
                 if current_ann_id == ann_id:
                     target_mask = mask_info
