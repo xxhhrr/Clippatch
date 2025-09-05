@@ -17,7 +17,7 @@ class SimpleMaskVisualizer:
         # 设置路径（相对于config.yaml文件的位置）
         config_dir = Path(config_path).parent
         self.images_dir = config_dir / config['data']['images']
-        self.instance_dir = config_dir / config['data']['masks']
+        self.masks_dir = config_dir / config['data']['masks']  # 改为masks_dir
         self.texts_dir = config_dir / config['data']['texts']
         
         self.output_dir = Path(output_dir)
