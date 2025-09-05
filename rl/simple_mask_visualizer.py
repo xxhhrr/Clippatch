@@ -50,66 +50,54 @@ class SimpleMaskVisualizer:
         return results
     
     def load_ground_truth_mask(self, image_id, ann_id):
-        """从masks目录加载真实mask（静默处理错误）"""
+        """从masks目录加载真实bbox（直接使用bbox坐标）"""
         # masks文件是.txt格式的JSON Lines文件
         mask_file = self.masks_dir / f"{image_id}.txt"
+        print(f"查找mask文件: {mask_file}")
+        
         if not mask_file.exists():
-            return None  # 静默返回None
+            print(f"Mask文件不存在: {mask_file}")
+            return None
             
         try:
             # 读取JSON Lines格式的mask文件
             mask_data = self._read_json_lines(mask_file)
+            print(f"读取到 {len(mask_data)} 条mask数据")
+            
+            if len(mask_data) == 0:
+                print(f"Mask文件为空或解析失败: {mask_file}")
+                return None
+            
+            # 打印所有可用的ann_id
+            available_ann_ids = [item.get('ann_id') for item in mask_data]
+            print(f"文件中可用的ann_id: {available_ann_ids}")
+            print(f"正在查找的ann_id: {ann_id} (类型: {type(ann_id)})")
             
             # 查找对应ann_id的mask数据
             target_mask = None
             for mask_info in mask_data:
-                if mask_info.get('ann_id') == ann_id:
+                current_ann_id = mask_info.get('ann_id')
+                if current_ann_id == ann_id:
                     target_mask = mask_info
+                    print(f"找到匹配的ann_id: {ann_id}")
                     break
             
             if target_mask is None:
-                return None  # 静默返回None，不打印错误
+                print(f"未找到ann_id {ann_id}的mask数据")
+                return None
             
-            # 根据bbox信息创建mask
+            # 直接返回bbox坐标，不需要创建mask
             if 'bbox' in target_mask:
                 bbox = target_mask['bbox']  # [x, y, width, height]
-                x, y, w, h = bbox
+                print(f"找到bbox: {bbox}")
+                return bbox  # 直接返回bbox
+            else:
+                print(f"target_mask中没有bbox字段: {target_mask.keys()}")
+                return None
                 
-                # 获取原始图像尺寸来创建正确大小的mask
-                img_path = self.images_dir / f"COCO_train2014_{image_id}.jpg"
-                if not img_path.exists():
-                    img_path = self.images_dir / f"{image_id}.jpg"
-                
-                if img_path.exists():
-                    original_image = cv2.imread(str(img_path))
-                    if original_image is not None:
-                        original_height, original_width = original_image.shape[:2]
-                        
-                        # 创建与原始图像同尺寸的mask
-                        mask = np.zeros((original_height, original_width), dtype=np.uint8)
-                        
-                        # 将bbox区域标记为255
-                        x1, y1 = int(x), int(y)
-                        x2, y2 = int(x + w), int(y + h)
-                        
-                        # 确保坐标在图像范围内
-                        x1 = max(0, min(x1, original_width))
-                        y1 = max(0, min(y1, original_height))
-                        x2 = max(0, min(x2, original_width))
-                        y2 = max(0, min(y2, original_height))
-                        
-                        mask[y1:y2, x1:x2] = 255
-                        return mask
-                
-                # 如果无法获取原始图像尺寸，使用默认尺寸
-                mask = np.zeros((640, 640), dtype=np.uint8)  # 默认尺寸
-                x1, y1 = int(x), int(y)
-                x2, y2 = int(x + w), int(y + h)
-                mask[y1:y2, x1:x2] = 255
-                return mask
-                
-        except Exception:
-            return None  # 静默返回None
+        except Exception as e:
+            print(f"加载mask时发生异常: {e}")
+            return None
             
         return None
     
@@ -302,7 +290,7 @@ class SimpleMaskVisualizer:
         return results
     
     def process_single_sample(self, sample_data):
-        """处理单个样本（只处理有GT的样本）"""
+        """处理单个样本（直接使用bbox）"""
         try:
             image_id = sample_data['image_id']
             ann_id = sample_data['ann_id']
@@ -324,20 +312,18 @@ class SimpleMaskVisualizer:
             if image is None:
                 return None  # 静默返回None
             
-            # 加载真实mask - 如果找不到对应ann_id，静默跳过
-            gt_mask = self.load_ground_truth_mask(image_id, ann_id)
-            if gt_mask is None:
+            # 加载真实bbox - 如果找不到对应ann_id，静默跳过
+            gt_bbox_xywh = self.load_ground_truth_mask(image_id, ann_id)  # 返回[x,y,w,h]
+            if gt_bbox_xywh is None:
                 return None  # 静默跳过没有对应ann_id的样本
+            
+            # 转换bbox格式：从[x,y,w,h]转换为[x1,y1,x2,y2]
+            x, y, w, h = gt_bbox_xywh
+            gt_bbox = [int(x), int(y), int(x + w), int(y + h)]
             
             # 生成预测mask
             pred_mask = self.generate_predicted_mask(str(img_path), prompt)
             pred_bbox = self.mask_to_bbox(pred_mask) if pred_mask is not None else None
-            gt_bbox = self.mask_to_bbox(gt_mask)
-            
-            # 调试信息：检查bbox是否正确生成
-            if gt_bbox is None:
-                print(f"警告：GT mask存在但无法生成bbox - image_id: {image_id}, ann_id: {ann_id}")
-                return None
             
             # 在图像上绘制框
             result_image = self.draw_boxes_on_image(image, pred_bbox, gt_bbox, prompt)
