@@ -277,6 +277,75 @@ class SimpleMaskVisualizer:
                 f.write(f"   预测框: {'✓' if result['has_pred_bbox'] else '✗'}, "
                        f"真实框: {'✓' if result['has_gt_bbox'] else '✗'}\n\n")
 
+    def collect_all_samples(self):
+        """收集所有样本数据"""
+        all_samples = []
+        
+        # 从texts目录读取所有.txt文件
+        for text_file in self.texts_dir.glob("*.txt"):
+            samples = self._read_json_lines(text_file)
+            for sample in samples:
+                # 添加image_id（从文件名提取）
+                sample['image_id'] = text_file.stem
+                all_samples.append(sample)
+        
+        return all_samples
+    
+    def generate_random_visualizations(self, num_samples=1000):
+        """生成随机样本的可视化"""
+        print(f"开始生成 {num_samples} 个样本的可视化...")
+        
+        # 收集所有样本
+        all_samples = self.collect_all_samples()
+        print(f"总共找到 {len(all_samples)} 个样本")
+        
+        if len(all_samples) == 0:
+            print("没有找到任何样本数据")
+            return []
+        
+        # 随机选择样本
+        selected_samples = random.sample(all_samples, min(num_samples, len(all_samples)))
+        
+        results = []
+        successful_count = 0
+        
+        for i, sample in enumerate(selected_samples, 1):
+            print(f"处理样本 {i}/{len(selected_samples)}: image_id={sample.get('image_id')}, ann_id={sample.get('ann_id')}")
+            
+            # 处理单个样本
+            result = self.process_single_sample(sample)
+            
+            if result is not None:
+                # 保存结果图像
+                output_filename = f"{sample['image_id']}_{sample['ann_id']}_debug.png"
+                output_path = self.output_dir / output_filename
+                
+                # 保存组合的调试图像
+                cv2.imwrite(str(output_path), result['result_image'])
+                
+                results.append({
+                    'image_id': result['image_id'],
+                    'ann_id': result['ann_id'],
+                    'prompt': result['prompt'],
+                    'output_path': str(output_path),
+                    'has_pred_bbox': result['pred_bbox'] is not None,
+                    'has_gt_bbox': result['gt_bbox'] is not None
+                })
+                
+                successful_count += 1
+                
+                if successful_count % 10 == 0:
+                    print(f"已成功处理 {successful_count} 个样本")
+        
+        print(f"\n可视化完成！")
+        print(f"成功处理: {successful_count}/{len(selected_samples)} 个样本")
+        print(f"输出目录: {self.output_dir}")
+        
+        # 生成汇总报告
+        self.generate_summary_report(results)
+        
+        return results
+
 # 使用示例
 if __name__ == "__main__":
     # 创建可视化器（自动从config.yaml加载所有路径配置）
