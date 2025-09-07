@@ -130,7 +130,7 @@ class SimpleMaskVisualizer:
         return bbox
     
     def generate_predicted_mask_with_heatmap(self, img_path, prompt):
-        """生成预测mask并返回热图用于调试"""
+        """生成预测mask并返回热图用于调试（改进版）"""
         try:
             from utils.clip_util import get_heatmap
             
@@ -147,9 +147,38 @@ class SimpleMaskVisualizer:
             heatmap_resized = cv2.resize(heatmap, (original_width, original_height), 
                                        interpolation=cv2.INTER_CUBIC)
             
-            # 简单阈值化生成mask
-            threshold = np.percentile(heatmap_resized, 80)  # 取前20%的高值区域
-            pred_mask = (heatmap_resized > threshold).astype(np.uint8) * 255
+            # 改进的mask生成方法
+            # 1. 使用更高的阈值，只保留最热的区域
+            threshold = np.percentile(heatmap_resized, 90)  # 改为前10%的高值区域
+            binary_mask = (heatmap_resized > threshold).astype(np.uint8)
+            
+            # 2. 形态学操作去除噪声
+            kernel = np.ones((5, 5), np.uint8)
+            binary_mask = cv2.morphologyEx(binary_mask, cv2.MORPH_OPEN, kernel)  # 去除小噪声
+            binary_mask = cv2.morphologyEx(binary_mask, cv2.MORPH_CLOSE, kernel)  # 填补小洞
+            
+            # 3. 连通域分析，只保留最大的几个连通域
+            num_labels, labels = cv2.connectedComponents(binary_mask)
+            
+            if num_labels > 1:
+                # 计算每个连通域的面积
+                areas = []
+                for i in range(1, num_labels):
+                    area = np.sum(labels == i)
+                    areas.append((area, i))
+                
+                # 按面积排序，保留最大的连通域
+                areas.sort(reverse=True)
+                
+                # 创建新的mask，只包含最大的连通域
+                final_mask = np.zeros_like(binary_mask)
+                if areas:  # 如果有连通域
+                    largest_label = areas[0][1]
+                    final_mask[labels == largest_label] = 255
+                
+                pred_mask = final_mask
+            else:
+                pred_mask = binary_mask * 255
             
             return pred_mask, heatmap_resized
         except Exception as e:
@@ -157,7 +186,7 @@ class SimpleMaskVisualizer:
             return None, None
     
     def create_debug_visualization(self, image, pred_bbox, gt_bbox, prompt, heatmap):
-        """创建调试可视化图像，包含原图+框、热图、预测mask的组合"""
+        """创建调试可视化图像，包含原图+框、热图、预测mask的组合（改进版）"""
         try:
             # 转换图像格式
             if isinstance(image, np.ndarray):
@@ -168,23 +197,52 @@ class SimpleMaskVisualizer:
             # 创建绘制对象
             draw = ImageDraw.Draw(pil_image)
             
+            # 尝试加载更大的字体
+            try:
+                font = ImageFont.truetype("arial.ttf", 24)  # 增大字体
+                prompt_font = ImageFont.truetype("arial.ttf", 20)  # prompt字体
+            except:
+                font = ImageFont.load_default()
+                prompt_font = ImageFont.load_default()
+            
             # 绘制预测框（红色）
             if pred_bbox is not None:
                 x1, y1, x2, y2 = pred_bbox
-                draw.rectangle([x1, y1, x2, y2], outline=self.pred_color, width=3)
-                draw.text((x1, y1-20), "Pred", fill=self.pred_color)
+                draw.rectangle([x1, y1, x2, y2], outline=self.pred_color, width=4)  # 增加线宽
+                draw.text((x1, y1-30), "Pred", fill=self.pred_color, font=font)
             
             # 绘制真实框（绿色）
             if gt_bbox is not None:
                 x1, y1, x2, y2 = gt_bbox
-                draw.rectangle([x1, y1, x2, y2], outline=self.gt_color, width=3)
-                draw.text((x1, y1-40), "GT", fill=self.gt_color)
+                draw.rectangle([x1, y1, x2, y2], outline=self.gt_color, width=4)  # 增加线宽
+                draw.text((x1, y1-60), "GT", fill=self.gt_color, font=font)
             
-            # 添加prompt文本
+            # 改进prompt显示 - 放在图像顶部，背景半透明
             if prompt:
-                # 在图像底部添加prompt
                 img_width, img_height = pil_image.size
-                draw.text((10, img_height-30), f"Prompt: {prompt[:50]}...", fill=(255, 255, 255))
+                
+                # 创建半透明背景
+                overlay = Image.new('RGBA', pil_image.size, (0, 0, 0, 0))
+                overlay_draw = ImageDraw.Draw(overlay)
+                
+                # 计算文本尺寸
+                prompt_text = f"Prompt: {prompt}"
+                bbox = overlay_draw.textbbox((0, 0), prompt_text, font=prompt_font)
+                text_width = bbox[2] - bbox[0]
+                text_height = bbox[3] - bbox[1]
+                
+                # 绘制半透明背景矩形
+                overlay_draw.rectangle([5, 5, text_width + 15, text_height + 15], 
+                                     fill=(0, 0, 0, 128))  # 半透明黑色背景
+                
+                # 合并overlay到主图像
+                pil_image = Image.alpha_composite(pil_image.convert('RGBA'), overlay).convert('RGB')
+                
+                # 重新创建draw对象
+                draw = ImageDraw.Draw(pil_image)
+                
+                # 绘制白色文本
+                draw.text((10, 10), prompt_text, fill=(255, 255, 255), font=prompt_font)
             
             # 转换回numpy数组
             result_with_boxes = cv2.cvtColor(np.array(pil_image), cv2.COLOR_RGB2BGR)
