@@ -130,7 +130,7 @@ class SimpleMaskVisualizer:
         return bbox
     
     def generate_predicted_mask_with_heatmap(self, img_path, prompt):
-        """生成预测mask并返回热图用于调试（改进版）"""
+        """生成预测mask并返回热图用于调试（滞后阈值+NMS改进版）"""
         try:
             from utils.clip_util import get_heatmap
             
@@ -143,47 +143,179 @@ class SimpleMaskVisualizer:
             # 获取224x224的热力图
             heatmap = get_heatmap(str(img_path), prompt)
             
-            # 将热力图缩放到原始图像尺寸
+            # 1. 双三次插值放大到与原图同尺寸并做0-1归一化
             heatmap_resized = cv2.resize(heatmap, (original_width, original_height), 
                                        interpolation=cv2.INTER_CUBIC)
+            # 确保0-1归一化
+            heatmap_resized = (heatmap_resized - heatmap_resized.min()) / (heatmap_resized.max() - heatmap_resized.min() + 1e-8)
             
-            # 改进的mask生成方法
-            # 1. 使用更高的阈值，只保留最热的区域
-            threshold = np.percentile(heatmap_resized, 90)  # 改为前10%的高值区域
-            binary_mask = (heatmap_resized > threshold).astype(np.uint8)
+            # 2. 滞后阈值（类似Canny的强弱连通思想）
+            high_threshold = np.percentile(heatmap_resized, 92)  # 强响应种子
+            low_threshold = np.percentile(heatmap_resized, 78)   # 弱响应区域
             
-            # 2. 形态学操作去除噪声
-            kernel = np.ones((5, 5), np.uint8)
-            binary_mask = cv2.morphologyEx(binary_mask, cv2.MORPH_OPEN, kernel)  # 去除小噪声
-            binary_mask = cv2.morphologyEx(binary_mask, cv2.MORPH_CLOSE, kernel)  # 填补小洞
+            # 获取强响应种子
+            strong_mask = (heatmap_resized > high_threshold).astype(np.uint8)
+            # 获取弱响应区域
+            weak_mask = (heatmap_resized > low_threshold).astype(np.uint8)
             
-            # 3. 连通域分析，只保留最大的几个连通域
-            num_labels, labels = cv2.connectedComponents(binary_mask)
+            # 只保留与强响应连通的弱响应区域
+            hysteresis_mask = self._hysteresis_threshold(strong_mask, weak_mask)
             
-            if num_labels > 1:
-                # 计算每个连通域的面积
-                areas = []
-                for i in range(1, num_labels):
-                    area = np.sum(labels == i)
-                    areas.append((area, i))
-                
-                # 按面积排序，保留最大的连通域
-                areas.sort(reverse=True)
-                
-                # 创建新的mask，只包含最大的连通域
-                final_mask = np.zeros_like(binary_mask)
-                if areas:  # 如果有连通域
-                    largest_label = areas[0][1]
-                    final_mask[labels == largest_label] = 255
-                
-                pred_mask = final_mask
+            # 3. 轻量的形态学开闭运算
+            kernel = np.ones((3, 3), np.uint8)
+            # 开运算：去小噪
+            hysteresis_mask = cv2.morphologyEx(hysteresis_mask, cv2.MORPH_OPEN, kernel)
+            # 闭运算：补小洞
+            hysteresis_mask = cv2.morphologyEx(hysteresis_mask, cv2.MORPH_CLOSE, kernel)
+            
+            # 4. 连通域分析，生成候选框
+            candidates = self._generate_candidates(hysteresis_mask, heatmap_resized)
+            
+            # 5. 候选框评分（平均热度 × 面积平方根）
+            scored_candidates = self._score_candidates(candidates, heatmap_resized)
+            
+            # 6. 最小面积阈值过滤
+            min_area = original_width * original_height * 0.001  # 最小面积为图像的0.1%
+            filtered_candidates = [c for c in scored_candidates if c['area'] >= min_area]
+            
+            # 7. 非极大值抑制（NMS）
+            nms_candidates = self._non_max_suppression(filtered_candidates, iou_threshold=0.5)
+            
+            # 8. 选择得分最高的候选作为最终预测
+            if nms_candidates:
+                best_candidate = max(nms_candidates, key=lambda x: x['score'])
+                final_mask = np.zeros((original_height, original_width), dtype=np.uint8)
+                x1, y1, x2, y2 = best_candidate['bbox']
+                final_mask[y1:y2, x1:x2] = 255
             else:
-                pred_mask = binary_mask * 255
+                # 如果没有候选，返回空mask
+                final_mask = np.zeros((original_height, original_width), dtype=np.uint8)
             
-            return pred_mask, heatmap_resized
+            return final_mask, heatmap_resized
+            
         except Exception as e:
             print(f"生成预测mask失败: {e}")
             return None, None
+    
+    def _hysteresis_threshold(self, strong_mask, weak_mask):
+        """滞后阈值：只保留与强响应连通的弱响应区域"""
+        # 使用强响应作为种子，在弱响应区域中进行连通域扩展
+        result = strong_mask.copy()
+        
+        # 找到强响应的连通域
+        num_labels, labels = cv2.connectedComponents(strong_mask)
+        
+        for label in range(1, num_labels):
+            # 对每个强响应连通域，在弱响应中寻找连通的区域
+            seed_mask = (labels == label).astype(np.uint8)
+            
+            # 使用形态学膨胀来扩展到连通的弱响应区域
+            kernel = np.ones((3, 3), np.uint8)
+            expanded = seed_mask.copy()
+            
+            for _ in range(10):  # 最多扩展10次
+                prev_expanded = expanded.copy()
+                expanded = cv2.dilate(expanded, kernel, iterations=1)
+                expanded = expanded & weak_mask  # 只在弱响应区域扩展
+                
+                if np.array_equal(expanded, prev_expanded):
+                    break  # 没有新的扩展，停止
+            
+            result = result | expanded
+        
+        return result
+    
+    def _generate_candidates(self, binary_mask, heatmap):
+        """从二值图生成候选框"""
+        candidates = []
+        
+        # 连通域分析
+        num_labels, labels = cv2.connectedComponents(binary_mask)
+        
+        for i in range(1, num_labels):
+            # 获取当前连通域
+            component_mask = (labels == i).astype(np.uint8)
+            
+            # 计算边界框
+            contours, _ = cv2.findContours(component_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+            if contours:
+                x, y, w, h = cv2.boundingRect(contours[0])
+                bbox = [x, y, x + w, y + h]
+                area = w * h
+                
+                # 计算该区域内的平均热度
+                region_heatmap = heatmap[y:y+h, x:x+w]
+                region_mask = component_mask[y:y+h, x:x+w]
+                avg_heat = np.mean(region_heatmap[region_mask > 0]) if np.sum(region_mask) > 0 else 0
+                
+                candidates.append({
+                    'bbox': bbox,
+                    'area': area,
+                    'avg_heat': avg_heat,
+                    'component_mask': component_mask
+                })
+        
+        return candidates
+    
+    def _score_candidates(self, candidates, heatmap):
+        """为候选框打分：平均热度 × 面积平方根"""
+        for candidate in candidates:
+            avg_heat = candidate['avg_heat']
+            area = candidate['area']
+            # 评分公式：平均热度 × 面积平方根
+            score = avg_heat * np.sqrt(area)
+            candidate['score'] = score
+        
+        return candidates
+    
+    def _non_max_suppression(self, candidates, iou_threshold=0.5):
+        """非极大值抑制去除重叠候选"""
+        if not candidates:
+            return []
+        
+        # 按分数降序排序
+        candidates = sorted(candidates, key=lambda x: x['score'], reverse=True)
+        
+        selected = []
+        
+        while candidates:
+            # 选择得分最高的候选
+            best = candidates.pop(0)
+            selected.append(best)
+            
+            # 移除与当前最佳候选IoU过高的候选
+            remaining = []
+            for candidate in candidates:
+                iou = self._calculate_iou(best['bbox'], candidate['bbox'])
+                if iou < iou_threshold:
+                    remaining.append(candidate)
+            
+            candidates = remaining
+        
+        return selected
+    
+    def _calculate_iou(self, bbox1, bbox2):
+        """计算两个边界框的IoU"""
+        x1_1, y1_1, x2_1, y2_1 = bbox1
+        x1_2, y1_2, x2_2, y2_2 = bbox2
+        
+        # 计算交集
+        x1_i = max(x1_1, x1_2)
+        y1_i = max(y1_1, y1_2)
+        x2_i = min(x2_1, x2_2)
+        y2_i = min(y2_1, y2_2)
+        
+        if x2_i <= x1_i or y2_i <= y1_i:
+            return 0.0
+        
+        intersection = (x2_i - x1_i) * (y2_i - y1_i)
+        
+        # 计算并集
+        area1 = (x2_1 - x1_1) * (y2_1 - y1_1)
+        area2 = (x2_2 - x1_2) * (y2_2 - y1_2)
+        union = area1 + area2 - intersection
+        
+        return intersection / union if union > 0 else 0.0
     
     def create_debug_visualization(self, image, pred_bbox, gt_bbox, prompt, heatmap):
         """创建调试可视化图像，包含原图+框、热图、预测mask的组合（改进版）"""
