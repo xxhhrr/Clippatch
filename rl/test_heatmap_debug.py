@@ -189,5 +189,32 @@ def debug_heatmap_processing():
         import traceback
         traceback.print_exc()
 
+def test_different_percentiles(heatmap):
+    """测试不同百分位数的效果"""
+    percentiles = [30, 40, 50, 60, 70]
+    results = {}
+    
+    for p in percentiles:
+        flat_heat = heatmap.flatten()
+        nonzero_heat = flat_heat[flat_heat > 0]
+        
+        if len(nonzero_heat) > 0:
+            threshold = np.percentile(nonzero_heat, p)
+            cleaned = np.where(heatmap < threshold, 0, heatmap)
+            
+            if cleaned.max() > 0:
+                cleaned = (cleaned - cleaned.min()) / (cleaned.max() + 1e-6)
+            
+            zero_ratio = (cleaned == 0).sum() / cleaned.size
+            results[p] = {
+                'cleaned': cleaned,
+                'threshold': threshold,
+                'zero_ratio': zero_ratio
+            }
+            
+            print(f"  {p}%分位数: 阈值={threshold:.4f}, 零值比例={zero_ratio:.1%}")
+    
+    return results
+
 if __name__ == "__main__":
     debug_heatmap_processing()
