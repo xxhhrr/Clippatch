@@ -10,7 +10,7 @@ def test_heatmap_fix():
     # 固定的测试用例
     test_cases = [
         {
-            "image_path": "../data/images/mscoco/train2014/COCO_train2014_000095023.jpg",
+            "image_path": "../data/images/mscoco/train2014/COCO_train2014_000000095023.jpg",
             "text_prompt": "pears"
         },
         {
