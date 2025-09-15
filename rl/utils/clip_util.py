@@ -173,6 +173,13 @@ def get_heatmap(img_path: str, prompt: str, n_last_layers: int = 1) -> np.ndarra
 
     heat = _grad_eclip(cos, qs, ks, vs, atts, msz)
     heat = (heat - heat.min()) / (heat.max() + 1e-6)
+    
+    # 添加阈值处理，消除低激活噪声
+    threshold = 0.1  # 可以根据需要调整
+    heat = torch.where(heat < threshold, torch.zeros_like(heat), heat)
+    # 重新归一化
+    if heat.max() > 0:
+        heat = (heat - heat.min()) / (heat.max() + 1e-6)
 
     with torch.no_grad():
         heat = F.interpolate(heat[None, None], size=(224, 224), mode="bicubic", align_corners=False)[0, 0]
