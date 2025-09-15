@@ -318,7 +318,7 @@ class SimpleMaskVisualizer:
         return intersection / union if union > 0 else 0.0
     
     def create_debug_visualization(self, image, pred_bbox, gt_bbox, prompt, heatmap):
-        """创建调试可视化图像，包含原图+框、热图、预测mask的组合（改进版）"""
+        """创建调试可视化图像，包含原图+框、原始热图的组合（改进版）"""
         try:
             # 转换图像格式
             if isinstance(image, np.ndarray):
@@ -379,15 +379,27 @@ class SimpleMaskVisualizer:
             # 转换回numpy数组
             result_with_boxes = cv2.cvtColor(np.array(pil_image), cv2.COLOR_RGB2BGR)
             
-            # 创建热图可视化
-            heatmap_colored = cv2.applyColorMap((heatmap * 255).astype(np.uint8), cv2.COLORMAP_JET)
+            # === 关键修改：使用原始热图而不是处理后的热图 ===
+            # 重新获取原始224x224热图（直接从clip_util生成）
+            from utils.clip_util import get_heatmap
             
-            # 调整尺寸使其一致
+            # 需要获取当前处理的图像路径，从process_single_sample方法传递
+            if hasattr(self, 'current_img_path'):
+                original_raw_heatmap = get_heatmap(str(self.current_img_path), prompt)
+            else:
+                # 如果没有保存路径，使用传入的处理后热图作为备选
+                print("警告：无法获取原始图像路径，使用处理后的热图")
+                original_raw_heatmap = heatmap
+            
+            # 直接将原始224x224热图转换为可视化格式
+            raw_heatmap_colored = cv2.applyColorMap((original_raw_heatmap * 255).astype(np.uint8), cv2.COLORMAP_JET)
+            
+            # 调整尺寸使其与原图一致（用于显示）
             h, w = result_with_boxes.shape[:2]
-            heatmap_colored = cv2.resize(heatmap_colored, (w, h))
+            raw_heatmap_colored = cv2.resize(raw_heatmap_colored, (w, h))
             
-            # 创建组合图像：左边是原图+框，右边是热图
-            combined = np.hstack([result_with_boxes, heatmap_colored])
+            # 创建组合图像：左边是原图+框，右边是原始热图
+            combined = np.hstack([result_with_boxes, raw_heatmap_colored])
             
             return combined
             
@@ -427,11 +439,14 @@ class SimpleMaskVisualizer:
             x, y, w, h = gt_bbox_xywh
             gt_bbox = [int(x), int(y), int(x + w), int(y + h)]
             
+            # 保存当前图像路径供可视化使用
+            self.current_img_path = img_path
+            
             # 生成预测mask和热图
             pred_mask, heatmap = self.generate_predicted_mask_with_heatmap(str(img_path), prompt)
             pred_bbox = self.mask_to_bbox(pred_mask) if pred_mask is not None else None
             
-            # 创建调试可视化图像
+            # 创建调试可视化图像（现在会使用原始热图）
             debug_image = self.create_debug_visualization(image, pred_bbox, gt_bbox, prompt, heatmap)
             
             return {
