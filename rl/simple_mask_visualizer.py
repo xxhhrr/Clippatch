@@ -317,6 +317,50 @@ class SimpleMaskVisualizer:
         
         return intersection / union if union > 0 else 0.0
     
+    def calculate_bbox_iou(self, bbox1, bbox2):
+        """计算两个bbox的IoU"""
+        if bbox1 is None or bbox2 is None:
+            return 0.0
+        
+        # bbox格式: [x1, y1, x2, y2]
+        x1_1, y1_1, x2_1, y2_1 = bbox1
+        x1_2, y1_2, x2_2, y2_2 = bbox2
+        
+        # 计算交集区域
+        x1_inter = max(x1_1, x1_2)
+        y1_inter = max(y1_1, y1_2)
+        x2_inter = min(x2_1, x2_2)
+        y2_inter = min(y2_1, y2_2)
+        
+        # 如果没有交集
+        if x1_inter >= x2_inter or y1_inter >= y2_inter:
+            return 0.0
+        
+        # 计算交集面积
+        inter_area = (x2_inter - x1_inter) * (y2_inter - y1_inter)
+        
+        # 计算并集面积
+        area1 = (x2_1 - x1_1) * (y2_1 - y1_1)
+        area2 = (x2_2 - x1_2) * (y2_2 - y1_2)
+        union_area = area1 + area2 - inter_area
+        
+        # 计算IoU
+        iou = inter_area / union_area if union_area > 0 else 0.0
+        return iou
+    
+    def classify_iou_level(self, iou):
+        """根据IoU值分类匹配等级"""
+        if iou >= 0.8:
+            return "Excellent", "优秀 (IoU ≥ 0.8)"
+        elif iou >= 0.6:
+            return "Good", "良好 (0.6 ≤ IoU < 0.8)"
+        elif iou >= 0.4:
+            return "Fair", "一般 (0.4 ≤ IoU < 0.6)"
+        elif iou >= 0.2:
+            return "Poor", "较差 (0.2 ≤ IoU < 0.4)"
+        else:
+            return "Failed", "失败 (IoU < 0.2)"
+    
     def create_debug_visualization(self, image, pred_bbox, gt_bbox, prompt, heatmap):
         """创建调试可视化图像，包含原图+框、原始热图的组合（改进版）"""
         try:
@@ -449,14 +493,21 @@ class SimpleMaskVisualizer:
             # 创建调试可视化图像（现在会使用原始热图）
             debug_image = self.create_debug_visualization(image, pred_bbox, gt_bbox, prompt, heatmap)
             
+            # 在return语句前添加IoU计算
+            iou = self.calculate_bbox_iou(pred_bbox, gt_bbox)
+            level_key, level_desc = self.classify_iou_level(iou)
+            
             return {
                 'image_id': image_id,
                 'ann_id': ann_id,
                 'prompt': prompt,
-                'result_image': debug_image,  # 这是组合的调试图像
+                'result_image': debug_image,
                 'pred_bbox': pred_bbox,
                 'gt_bbox': gt_bbox,
-                'heatmap': heatmap  # 原始热图数据
+                'heatmap': heatmap,
+                'iou': iou,  # 新增
+                'iou_level': level_key,  # 新增
+                'iou_level_desc': level_desc  # 新增
             }
             
         except Exception as e:
@@ -464,23 +515,95 @@ class SimpleMaskVisualizer:
             return None  # 静默返回None
     
     def generate_summary_report(self, results):
-        """生成汇总报告"""
+        """生成汇总报告（包含IoU统计）"""
         report_path = self.output_dir / "visualization_report.txt"
+        
+        # 统计IoU等级分布
+        iou_stats = {
+            "Excellent": {"count": 0, "desc": "优秀 (IoU ≥ 0.8)", "ious": []},
+            "Good": {"count": 0, "desc": "良好 (0.6 ≤ IoU < 0.8)", "ious": []},
+            "Fair": {"count": 0, "desc": "一般 (0.4 ≤ IoU < 0.6)", "ious": []},
+            "Poor": {"count": 0, "desc": "较差 (0.2 ≤ IoU < 0.4)", "ious": []},
+            "Failed": {"count": 0, "desc": "失败 (IoU < 0.2)", "ious": []}
+        }
+        
+        valid_results = [r for r in results if r['has_pred_bbox'] and r['has_gt_bbox']]
+        
+        for result in valid_results:
+            level = result.get('iou_level', 'Failed')
+            iou = result.get('iou', 0.0)
+            if level in iou_stats:
+                iou_stats[level]["count"] += 1
+                iou_stats[level]["ious"].append(iou)
         
         with open(report_path, 'w', encoding='utf-8') as f:
             f.write("=== 可视化结果报告 ===\n\n")
             f.write(f"总样本数: {len(results)}\n")
             f.write(f"有预测框的样本: {sum(1 for r in results if r['has_pred_bbox'])}\n")
-            f.write(f"有真实框的样本: {sum(1 for r in results if r['has_gt_bbox'])}\n\n")
+            f.write(f"有真实框的样本: {sum(1 for r in results if r['has_gt_bbox'])}\n")
+            f.write(f"有效对比样本: {len(valid_results)}\n\n")
             
-            f.write("样本详情:\n")
+            # IoU统计信息
+            f.write("=== IoU匹配度统计 ===\n\n")
+            total_valid = len(valid_results)
+            
+            if total_valid > 0:
+                # 计算总体IoU统计
+                all_ious = [r.get('iou', 0.0) for r in valid_results]
+                avg_iou = sum(all_ious) / len(all_ious)
+                
+                f.write(f"平均IoU: {avg_iou:.4f}\n")
+                f.write(f"最高IoU: {max(all_ious):.4f}\n")
+                f.write(f"最低IoU: {min(all_ious):.4f}\n\n")
+                
+                # 各等级统计
+                f.write("各等级分布:\n")
+                for level in ["Excellent", "Good", "Fair", "Poor", "Failed"]:
+                    count = iou_stats[level]["count"]
+                    desc = iou_stats[level]["desc"]
+                    percentage = (count / total_valid) * 100
+                    
+                    f.write(f"  {desc}: {count}个 ({percentage:.1f}%)\n")
+                    
+                    if count > 0:
+                        level_ious = iou_stats[level]["ious"]
+                        avg_level_iou = sum(level_ious) / len(level_ious)
+                        f.write(f"    平均IoU: {avg_level_iou:.4f}\n")
+                
+                f.write("\n")
+            else:
+                f.write("没有有效的对比样本\n\n")
+            
+            # 详细样本信息
+            f.write("=== 样本详情 ===\n")
             for i, result in enumerate(results, 1):
-                f.write(f"{i}. 图像ID: {result['image_id']}, "
-                       f"标注ID: {result['ann_id']}, "
-                       f"提示: {result['prompt'][:30]}...\n")
+                f.write(f"{i}. 图像ID: {result['image_id']}, ")
+                f.write(f"标注ID: {result['ann_id']}, ")
+                f.write(f"提示: {result['prompt'][:30]}...\n")
                 f.write(f"   输出文件: {result['output_path']}\n")
-                f.write(f"   预测框: {'✓' if result['has_pred_bbox'] else '✗'}, "
-                       f"真实框: {'✓' if result['has_gt_bbox'] else '✗'}\n\n")
+                f.write(f"   预测框: {'✓' if result['has_pred_bbox'] else '✗'}, ")
+                f.write(f"真实框: {'✓' if result['has_gt_bbox'] else '✗'}")
+                
+                if result['has_pred_bbox'] and result['has_gt_bbox']:
+                    iou = result.get('iou', 0.0)
+                    level_desc = result.get('iou_level_desc', '未知')
+                    f.write(f", IoU: {iou:.4f} ({level_desc})")
+                
+                f.write("\n\n")
+        
+        # 在控制台也输出统计信息
+        print("\n=== IoU匹配度统计 ===")
+        if total_valid > 0:
+            print(f"有效对比样本: {total_valid}")
+            print(f"平均IoU: {avg_iou:.4f}")
+            print("\n各等级分布:")
+            for level in ["Excellent", "Good", "Fair", "Poor", "Failed"]:
+                count = iou_stats[level]["count"]
+                desc = iou_stats[level]["desc"]
+                percentage = (count / total_valid) * 100
+                print(f"  {desc}: {count}个 ({percentage:.1f}%)")
+        else:
+            print("没有有效的对比样本")
 
     def collect_all_samples(self):
         """收集所有样本数据"""
@@ -534,7 +657,10 @@ class SimpleMaskVisualizer:
                     'prompt': result['prompt'],
                     'output_path': str(output_path),
                     'has_pred_bbox': result['pred_bbox'] is not None,
-                    'has_gt_bbox': result['gt_bbox'] is not None
+                    'has_gt_bbox': result['gt_bbox'] is not None,
+                    'iou': result.get('iou', 0.0),  # 新增
+                    'iou_level': result.get('iou_level', 'Failed'),  # 新增
+                    'iou_level_desc': result.get('iou_level_desc', '失败')  # 新增
                 })
                 
                 successful_count += 1
