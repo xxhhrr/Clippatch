@@ -132,10 +132,14 @@ def _clip_encode_dense(x: torch.Tensor, n_last_layers: int):
 # ---------------------------------------------------------------------------
 
 def _sim(q: torch.Tensor, k: torch.Tensor):
-    qc = F.normalize(q[:1, 0], dim=-1)
-    kp = F.normalize(k[1:, 0], dim=-1)
-    s = (qc * kp).sum(-1)
-    return (s - s.min()) / (s.max() - s.min() + 1e-6)
+    # 使用与main.py相同的归一化逻辑
+    q_cls = F.normalize(q[:1, 0, :], dim=-1) 
+    k_patch = F.normalize(k[1:, 0, :], dim=-1)
+    cosine_qk = (q_cls * k_patch).sum(-1) 
+    cosine_qk_max = cosine_qk.max(dim=-1, keepdim=True)[0]
+    cosine_qk_min = cosine_qk.min(dim=-1, keepdim=True)[0]
+    cosine_qk = (cosine_qk - cosine_qk_min) / (cosine_qk_max - cosine_qk_min + 1e-6)
+    return cosine_qk
 
 
 def _grad_eclip(cos: torch.Tensor, qs, ks, vs, attns, map_sz):
