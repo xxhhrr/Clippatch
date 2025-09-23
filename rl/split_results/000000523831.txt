@@ -1,0 +1,8 @@
+{"sent": "green dot sheep", "ann_id": 67105, "best_split": [1, 2], "split_score": 0.3818160076378421}
+{"sent": "piece of sheep that is on the edge of picture", "ann_id": 67105, "best_split": [1, 2], "split_score": 0.3818160076378421}
+{"sent": "the sheep closest to us not looking at us", "ann_id": 67105, "best_split": [1, 2], "split_score": 0.3818160076378421}
+{"sent": "animal closrst to pole", "ann_id": 66605, "best_split": [2, 2], "split_score": 0.2606489601440335}
+{"sent": "fuzzy animal next to cute sheep face", "ann_id": 66605, "best_split": [3, 1], "split_score": 0.21154521288873337}
+{"sent": "looking at you", "ann_id": 65848, "best_split": [1, 3], "split_score": 0.5337499035511166}
+{"sent": "sheep facing us", "ann_id": 65848, "best_split": [1, 3], "split_score": 0.5337499035511166}
+{"sent": "sheep looking at us", "ann_id": 65848, "best_split": [1, 3], "split_score": 0.5337499035511166}

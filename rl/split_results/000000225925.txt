@@ -1,0 +1,6 @@
+{"sent": "laying on ground", "ann_id": 446003, "best_split": [2, 2], "split_score": 0.25300201289282975}
+{"sent": "on floor", "ann_id": 446003, "best_split": [2, 2], "split_score": 0.25300201289282975}
+{"sent": "laying down", "ann_id": 446003, "best_split": [3, 2], "split_score": 0.5299988909249197}
+{"sent": "catching", "ann_id": 425281, "best_split": [1, 5], "split_score": 0.609808102298979}
+{"sent": "catching", "ann_id": 425281, "best_split": [1, 5], "split_score": 0.609808102298979}
+{"sent": "12", "ann_id": 425281, "best_split": [1, 5], "split_score": 0.609808102298979}

@@ -1,0 +1,11 @@
+{"sent": "the bog dominate bus", "ann_id": 366056, "best_split": [3, 1], "split_score": 0.3909348441753304}
+{"sent": "obus in traffic", "ann_id": 366056, "best_split": [3, 1], "split_score": 0.3909348441753304}
+{"sent": "bus behind taxi car", "ann_id": 366056, "best_split": [3, 1], "split_score": 0.3909348441753304}
+{"sent": "last bus in line", "ann_id": 365941, "best_split": [2, 2], "split_score": 0.3837465368769094}
+{"sent": "bus you cant see all of", "ann_id": 365941, "best_split": [2, 2], "split_score": 0.3837465368769094}
+{"sent": "bus with no cars", "ann_id": 365941, "best_split": [2, 2], "split_score": 0.3837465368769094}
+{"sent": "black car", "ann_id": 354890, "best_split": [3, 3], "split_score": 0.4042105262448753}
+{"sent": "rear end of black car", "ann_id": 354890, "best_split": [3, 1], "split_score": 0.13714285713469387}
+{"sent": "white taxi", "ann_id": 346030, "best_split": [2, 2], "split_score": 0.40705626356799374}
+{"sent": "truck ahead of bus", "ann_id": 346030, "best_split": [2, 1], "split_score": 0.20612309144474567}
+{"sent": "white suv", "ann_id": 346030, "best_split": [2, 1], "split_score": 0.20612309144474567}

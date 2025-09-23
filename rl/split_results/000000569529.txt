@@ -1,0 +1,6 @@
+{"sent": "closest wood plank", "ann_id": 579033, "best_split": [2, 1], "split_score": 0.3332611988656876}
+{"sent": "first planks of wood", "ann_id": 579033, "best_split": [2, 1], "split_score": 0.3332611988656876}
+{"sent": "closest wood bench", "ann_id": 579033, "best_split": [2, 1], "split_score": 0.3332611988656876}
+{"sent": "full wood bench", "ann_id": 574178, "best_split": [1, 2], "split_score": 0.6664382059253636}
+{"sent": "bench nearest the blue thing", "ann_id": 574178, "best_split": [1, 2], "split_score": 0.6664382059253636}
+{"sent": "orange park bench", "ann_id": 574178, "best_split": [1, 2], "split_score": 0.6664382059253636}

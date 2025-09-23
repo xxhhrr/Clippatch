@@ -1,0 +1,4 @@
+{"sent": "desktop computer screen", "ann_id": 35372, "best_split": [2, 2], "split_score": 0.7203696764880498}
+{"sent": "monitor not laptop", "ann_id": 35372, "best_split": [2, 2], "split_score": 0.7203696764880498}
+{"sent": "screen with three screens lower screen", "ann_id": 33626, "best_split": [3, 2], "split_score": 0.28673918071201815}
+{"sent": "not close monitor part showing words lower", "ann_id": 33626, "best_split": [3, 2], "split_score": 0.28673918071201815}

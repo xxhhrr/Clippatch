@@ -1,0 +1,6 @@
+{"sent": "nearest guy", "ann_id": 1760790, "best_split": [3, 1], "split_score": 0.12978109781429809}
+{"sent": "man in black shirt", "ann_id": 1760790, "best_split": [2, 3], "split_score": 0.7662102522613771}
+{"sent": "man in black playing", "ann_id": 1760790, "best_split": [1, 5], "split_score": 0.4438466711126558}
+{"sent": "whiteish shirt with glasses", "ann_id": 228137, "best_split": [2, 3], "split_score": 0.5472198540733901}
+{"sent": "clapping guy", "ann_id": 228137, "best_split": [2, 3], "split_score": 0.5472198540733901}
+{"sent": "brown and white shirt boy", "ann_id": 228137, "best_split": [2, 3], "split_score": 0.5472198540733901}

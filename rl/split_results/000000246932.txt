@@ -1,0 +1,5 @@
+{"sent": "smaller bus", "ann_id": 1794720, "best_split": [2, 1], "split_score": 0.04729752203401638}
+{"sent": "bus at 9 pm", "ann_id": 1794720, "best_split": [2, 1], "split_score": 0.04729752203401638}
+{"sent": "the thing behind the tennis player", "ann_id": 165263, "best_split": [1, 2], "split_score": 0.35944506725198133}
+{"sent": "fence above net", "ann_id": 165263, "best_split": [1, 2], "split_score": 0.35944506725198133}
+{"sent": "van", "ann_id": 165263, "best_split": [3, 2], "split_score": 0.4602163381471752}

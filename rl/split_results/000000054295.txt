@@ -1,0 +1,9 @@
+{"sent": "player in white", "ann_id": 501696, "best_split": [1, 3], "split_score": 0.5492890994935256}
+{"sent": "bluestripe", "ann_id": 501696, "best_split": [1, 3], "split_score": 0.5492890994935256}
+{"sent": "gray and blue jersey", "ann_id": 501696, "best_split": [1, 3], "split_score": 0.5492890994935256}
+{"sent": "boy with white zero on shirt", "ann_id": 478402, "best_split": [3, 1], "split_score": 0.20975466717770722}
+{"sent": "purple", "ann_id": 478402, "best_split": [1, 5], "split_score": 0.5244294166927785}
+{"sent": "purple shirt", "ann_id": 478402, "best_split": [1, 5], "split_score": 0.5244294166927785}
+{"sent": "ref", "ann_id": 452245, "best_split": [1, 5], "split_score": 0.4158699808433973}
+{"sent": "green", "ann_id": 452245, "best_split": [1, 5], "split_score": 0.4158699808433973}
+{"sent": "green", "ann_id": 452245, "best_split": [1, 5], "split_score": 0.4158699808433973}

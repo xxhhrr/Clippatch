@@ -1,0 +1,12 @@
+{"sent": "little girafe", "ann_id": 601565, "best_split": [1, 5], "split_score": 0.28254704818402104}
+{"sent": "baby giraffe", "ann_id": 601565, "best_split": [1, 5], "split_score": 0.28254704818402104}
+{"sent": "short giraffe", "ann_id": 601565, "best_split": [1, 5], "split_score": 0.28254704818402104}
+{"sent": "tallest giraffe", "ann_id": 601448, "best_split": [1, 3], "split_score": 0.5475626647358223}
+{"sent": "tallest", "ann_id": 601448, "best_split": [1, 2], "split_score": 0.4790388372646269}
+{"sent": "tallest standing giraffe", "ann_id": 601448, "best_split": [1, 3], "split_score": 0.5475626647358223}
+{"sent": "giraffe head by tree trunk", "ann_id": 595359, "best_split": [1, 2], "split_score": 0.5460251045821121}
+{"sent": "giraffe nearest the baby", "ann_id": 595359, "best_split": [1, 2], "split_score": 0.5460251045821121}
+{"sent": "giraffe nearest the baby", "ann_id": 595359, "best_split": [1, 2], "split_score": 0.5460251045821121}
+{"sent": "smaller full viewed giraffe", "ann_id": 594932, "best_split": [3, 1], "split_score": 0.27591349737714793}
+{"sent": "giraffe further away from the others", "ann_id": 594932, "best_split": [3, 1], "split_score": 0.27591349737714793}
+{"sent": "loner giraffe", "ann_id": 594932, "best_split": [3, 1], "split_score": 0.27591349737714793}

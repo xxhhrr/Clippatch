@@ -1,0 +1,9 @@
+{"sent": "seat number one in back row", "ann_id": 2125773, "best_split": [2, 3], "split_score": 0.1836734693690129}
+{"sent": "seat near ma", "ann_id": 2125773, "best_split": [2, 3], "split_score": 0.1836734693690129}
+{"sent": "white seat closest to man", "ann_id": 2125773, "best_split": [2, 3], "split_score": 0.1836734693690129}
+{"sent": "chair with no ends close to engine", "ann_id": 2125634, "best_split": [2, 3], "split_score": 0.2835424710082598}
+{"sent": "seat in number two row closest to motor", "ann_id": 2125634, "best_split": [2, 3], "split_score": 0.2835424710082598}
+{"sent": "seat closest to engine", "ann_id": 2125634, "best_split": [2, 3], "split_score": 0.2835424710082598}
+{"sent": "seat by edge near the blue and white part of the boat", "ann_id": 2124426, "best_split": [5, 1], "split_score": 0.22844054966854804}
+{"sent": "chair close row left side", "ann_id": 2124426, "best_split": [5, 1], "split_score": 0.22844054966854804}
+{"sent": "seat closest to you in line with man", "ann_id": 2124426, "best_split": [2, 2], "split_score": 0.1977040816168922}

@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 1716310, "best_split": [1, 3], "split_score": 0.42697807960833256}
+{"sent": "girl", "ann_id": 1716310, "best_split": [1, 3], "split_score": 0.42697807960833256}
+{"sent": "woman holding peanut butter", "ann_id": 1716310, "best_split": [1, 2], "split_score": 0.44715017186838263}
+{"sent": "pink skirt jean jacket", "ann_id": 192619, "best_split": [1, 5], "split_score": 0.5287049398694731}
+{"sent": "dark jacket", "ann_id": 192619, "best_split": [1, 5], "split_score": 0.5287049398694731}
+{"sent": "woman in black sweater", "ann_id": 192619, "best_split": [1, 5], "split_score": 0.5287049398694731}

@@ -1,0 +1,9 @@
+{"sent": "boy kicking ball", "ann_id": 565634, "best_split": [1, 5], "split_score": 0.34117647055687716}
+{"sent": "kid with ball", "ann_id": 565634, "best_split": [1, 5], "split_score": 0.34117647055687716}
+{"sent": "kid with ball", "ann_id": 565634, "best_split": [1, 5], "split_score": 0.34117647055687716}
+{"sent": "boy running last", "ann_id": 564615, "best_split": [3, 1], "split_score": 0.17604468348282765}
+{"sent": "kid running in blue", "ann_id": 564615, "best_split": [3, 3], "split_score": 0.40072202161242815}
+{"sent": "boy in blue that isnt controlling ball", "ann_id": 564615, "best_split": [3, 3], "split_score": 0.40072202161242815}
+{"sent": "yellow shirt", "ann_id": 555328, "best_split": [1, 3], "split_score": 0.4783571349231508}
+{"sent": "yellow kid", "ann_id": 555328, "best_split": [1, 3], "split_score": 0.4783571349231508}
+{"sent": "yellow shirt", "ann_id": 555328, "best_split": [1, 3], "split_score": 0.4783571349231508}

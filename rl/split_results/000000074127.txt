@@ -1,0 +1,9 @@
+{"sent": "woman brown print dress", "ann_id": 507329, "best_split": [1, 2], "split_score": 0.26783725591106106}
+{"sent": "woman in ponytail", "ann_id": 507329, "best_split": [1, 2], "split_score": 0.26783725591106106}
+{"sent": "person standing preparing food", "ann_id": 507329, "best_split": [1, 3], "split_score": 0.529801324471702}
+{"sent": "lady holding the toddler", "ann_id": 483494, "best_split": [1, 5], "split_score": 0.5454545454033194}
+{"sent": "woman holding baby not baby though", "ann_id": 483494, "best_split": [1, 5], "split_score": 0.5454545454033194}
+{"sent": "woman holding child", "ann_id": 483494, "best_split": [1, 5], "split_score": 0.5454545454033194}
+{"sent": "snowflake shirt", "ann_id": 466218, "best_split": [1, 5], "split_score": 0.6356783919027568}
+{"sent": "person at 900 with half of head", "ann_id": 466218, "best_split": [1, 2], "split_score": 0.33370535712955574}
+{"sent": "woman with glasses", "ann_id": 466218, "best_split": [1, 5], "split_score": 0.6356783919027568}

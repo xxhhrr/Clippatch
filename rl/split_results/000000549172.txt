@@ -1,0 +1,6 @@
+{"sent": "not the girl in red", "ann_id": 472470, "best_split": [3, 1], "split_score": 0.3310772054416039}
+{"sent": "person you can barely see", "ann_id": 472470, "best_split": [3, 3], "split_score": 0.8259426846416376}
+{"sent": "other person not child", "ann_id": 472470, "best_split": [3, 1], "split_score": 0.3310772054416039}
+{"sent": "girl", "ann_id": 460004, "best_split": [2, 2], "split_score": 0.5979534331604156}
+{"sent": "little kid", "ann_id": 460004, "best_split": [2, 2], "split_score": 0.5979534331604156}
+{"sent": "girl feeding giraffe", "ann_id": 460004, "best_split": [1, 2], "split_score": 0.48587608038924807}

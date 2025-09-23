@@ -1,0 +1,6 @@
+{"sent": "the zebra that is farthest from the fence", "ann_id": 593466, "best_split": [1, 5], "split_score": 0.564933819243724}
+{"sent": "zebra number one", "ann_id": 593466, "best_split": [1, 5], "split_score": 0.564933819243724}
+{"sent": "zebra 300", "ann_id": 593466, "best_split": [1, 5], "split_score": 0.564933819243724}
+{"sent": "zebra seen mostly", "ann_id": 593395, "best_split": [1, 3], "split_score": 0.5596402033320498}
+{"sent": "zebra butt near fence", "ann_id": 593395, "best_split": [1, 3], "split_score": 0.5596402033320498}
+{"sent": "zebra closest to fence", "ann_id": 593395, "best_split": [1, 3], "split_score": 0.5596402033320498}

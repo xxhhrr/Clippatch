@@ -1,0 +1,6 @@
+{"sent": "meter closer to car", "ann_id": 418299, "best_split": [2, 2], "split_score": 0.5666693043786761}
+{"sent": "meter closest to car", "ann_id": 418299, "best_split": [2, 2], "split_score": 0.5666693043786761}
+{"sent": "number 2 meter", "ann_id": 418299, "best_split": [2, 2], "split_score": 0.5666693043786761}
+{"sent": "meter furthest from car", "ann_id": 418150, "best_split": [2, 3], "split_score": 0.2932618060397251}
+{"sent": "meter closest to our rounds remaining counter", "ann_id": 418150, "best_split": [2, 3], "split_score": 0.2932618060397251}
+{"sent": "meter at 9", "ann_id": 418150, "best_split": [2, 3], "split_score": 0.2932618060397251}

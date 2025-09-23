@@ -1,0 +1,6 @@
+{"sent": "white shirt with arm barely showing", "ann_id": 556599, "best_split": [2, 3], "split_score": 0.4309855959588311}
+{"sent": "person cutoff", "ann_id": 556599, "best_split": [3, 1], "split_score": 0.09610947986073251}
+{"sent": "half chef on edge", "ann_id": 556599, "best_split": [2, 2], "split_score": 0.3006243736760484}
+{"sent": "standing in front of bowls", "ann_id": 510022, "best_split": [2, 2], "split_score": 0.2900900900699868}
+{"sent": "chef in brown pants", "ann_id": 510022, "best_split": [1, 5], "split_score": 0.42519685035565524}
+{"sent": "the chubby chef", "ann_id": 510022, "best_split": [3, 3], "split_score": 0.18174375765639134}

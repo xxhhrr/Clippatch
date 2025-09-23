@@ -1,0 +1,5 @@
+{"sent": "chair away from the food but still inside", "ann_id": 108145, "best_split": [3, 1], "split_score": 0.0958735142354859}
+{"sent": "chair not as visible", "ann_id": 108145, "best_split": [5, 1], "split_score": 0.11472275333610961}
+{"sent": "cut off chair", "ann_id": 108145, "best_split": [5, 1], "split_score": 0.11472275333610961}
+{"sent": "chair for food table", "ann_id": 103434, "best_split": [3, 2], "split_score": 0.29297458890743383}
+{"sent": "chair at this table", "ann_id": 103434, "best_split": [5, 1], "split_score": 0.3877840908697459}

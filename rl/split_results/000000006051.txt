@@ -1,0 +1,9 @@
+{"sent": "man wearing brown boots", "ann_id": 1737650, "best_split": [3, 1], "split_score": 0.21133708350448563}
+{"sent": "boots without white frilly tops", "ann_id": 1737650, "best_split": [5, 1], "split_score": 0.14573459714854942}
+{"sent": "boats near 3 pm", "ann_id": 1737650, "best_split": [5, 1], "split_score": 0.14573459714854942}
+{"sent": "girl in jeans", "ann_id": 200817, "best_split": [2, 1], "split_score": 0.4662781015681492}
+{"sent": "jeans with white jacket", "ann_id": 200817, "best_split": [2, 1], "split_score": 0.4662781015681492}
+{"sent": "person sitting in white seat", "ann_id": 200817, "best_split": [1, 2], "split_score": 0.6473339569475032}
+{"sent": "blue chair", "ann_id": 101932, "best_split": [2, 1], "split_score": 0.4064261555662899}
+{"sent": "white chair women is sitting on", "ann_id": 101932, "best_split": [2, 3], "split_score": 0.5587918014725733}
+{"sent": "chair above dog", "ann_id": 101932, "best_split": [1, 3], "split_score": 0.513492675380036}

@@ -1,0 +1,6 @@
+{"sent": "white vase", "ann_id": 680255, "best_split": [1, 3], "split_score": 0.0838668056134253}
+{"sent": "white", "ann_id": 680255, "best_split": [3, 2], "split_score": 0.6352557914291438}
+{"sent": "tall white thing", "ann_id": 680255, "best_split": [3, 2], "split_score": 0.6352557914291438}
+{"sent": "a mug with a dog on it", "ann_id": 670576, "best_split": [3, 3], "split_score": 0.5407335279875473}
+{"sent": "puppy", "ann_id": 670576, "best_split": [3, 3], "split_score": 0.5407335279875473}
+{"sent": "dog mug", "ann_id": 670576, "best_split": [3, 3], "split_score": 0.5407335279875473}

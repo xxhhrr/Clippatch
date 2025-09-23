@@ -1,0 +1,5 @@
+{"sent": "gold design", "ann_id": 1991397, "best_split": [3, 3], "split_score": 0.4419127085298599}
+{"sent": "clock with multiple small circles", "ann_id": 1991397, "best_split": [2, 3], "split_score": 0.3045112781618187}
+{"sent": "lowest circular thing", "ann_id": 1991397, "best_split": [3, 3], "split_score": 0.4419127085298599}
+{"sent": "circle over the gold one", "ann_id": 1664926, "best_split": [2, 3], "split_score": 0.2267985804681365}
+{"sent": "2 dials", "ann_id": 1664926, "best_split": [3, 3], "split_score": 0.4527632245305453}

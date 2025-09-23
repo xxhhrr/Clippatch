@@ -1,0 +1,8 @@
+{"sent": "leader of the pack", "ann_id": 585468, "best_split": [3, 1], "split_score": 0.2385045122347172}
+{"sent": "leading elephant", "ann_id": 585468, "best_split": [3, 3], "split_score": 0.44815891467439933}
+{"sent": "closest elephant", "ann_id": 585468, "best_split": [3, 3], "split_score": 0.44815891467439933}
+{"sent": "elephant at the end", "ann_id": 584916, "best_split": [3, 1], "split_score": 0.25678897480625756}
+{"sent": "trailing elephant most visible", "ann_id": 584916, "best_split": [3, 1], "split_score": 0.25678897480625756}
+{"sent": "elephant next to small one mostly visible", "ann_id": 584131, "best_split": [5, 1], "split_score": 0.1526054590435479}
+{"sent": "elephant behind baby", "ann_id": 584131, "best_split": [3, 3], "split_score": 0.38414634140177367}
+{"sent": "in between medium elephant looking at us", "ann_id": 584131, "best_split": [5, 1], "split_score": 0.1526054590435479}

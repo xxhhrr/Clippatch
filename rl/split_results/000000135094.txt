@@ -1,0 +1,6 @@
+{"sent": "horse with dirty blond tail", "ann_id": 274739, "best_split": [1, 2], "split_score": 0.6719585035888102}
+{"sent": "darkest horse with brown white tail", "ann_id": 274739, "best_split": [1, 2], "split_score": 0.6719585035888102}
+{"sent": "horse that is far away from the man", "ann_id": 274739, "best_split": [1, 2], "split_score": 0.6719585035888102}
+{"sent": "horse next to overall man", "ann_id": 54386, "best_split": [1, 3], "split_score": 0.6523082515152532}
+{"sent": "full horse", "ann_id": 54386, "best_split": [1, 3], "split_score": 0.6523082515152532}
+{"sent": "horse closest to man", "ann_id": 54386, "best_split": [1, 3], "split_score": 0.6523082515152532}

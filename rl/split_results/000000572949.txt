@@ -1,0 +1,23 @@
+{"sent": "dude sitting next to the bald one", "ann_id": 497043, "best_split": [3, 3], "split_score": 0.47601476006395804}
+{"sent": "guy next to the one with his hands up", "ann_id": 497043, "best_split": [3, 3], "split_score": 0.47601476006395804}
+{"sent": "peron next to man innglasses", "ann_id": 497043, "best_split": [3, 3], "split_score": 0.47601476006395804}
+{"sent": "man in blue with hands up", "ann_id": 426784, "best_split": [3, 3], "split_score": 0.6236010765514094}
+{"sent": "man with hands up", "ann_id": 426784, "best_split": [3, 3], "split_score": 0.6236010765514094}
+{"sent": "shaved head", "ann_id": 426784, "best_split": [3, 3], "split_score": 0.6236010765514094}
+{"sent": "man in glasses black shirt", "ann_id": 426784, "best_split": [3, 3], "split_score": 0.6236010765514094}
+{"sent": "chair in foreground", "ann_id": 114430, "best_split": [3, 1], "split_score": 0.23914475652876896}
+{"sent": "arm extended to side", "ann_id": 2160383, "best_split": [5, 1], "split_score": 0.3229426433627589}
+{"sent": "man next to window leaning over computer", "ann_id": 2160383, "best_split": [2, 2], "split_score": 0.269503546079787}
+{"sent": "curlicue pillow in foreground", "ann_id": 1946115, "best_split": [3, 2], "split_score": 0.414319647051881}
+{"sent": "spiral design chair", "ann_id": 1946115, "best_split": [5, 1], "split_score": 0.3758310519773337}
+{"sent": "cutoff sofa 5pm", "ann_id": 1946115, "best_split": [5, 1], "split_score": 0.3758310519773337}
+{"sent": "arm of chair that guy in green is sitting on closest to us and corner", "ann_id": 1940800, "best_split": [2, 3], "split_score": 0.5606060605486685}
+{"sent": "sofa that guy wearing green is sitting on", "ann_id": 1940800, "best_split": [3, 2], "split_score": 0.8186590311597878}
+{"sent": "couch with square pattern", "ann_id": 99436, "best_split": [2, 2], "split_score": 0.7308318583553394}
+{"sent": "sofa 9 o clock", "ann_id": 99436, "best_split": [2, 2], "split_score": 0.7308318583553394}
+{"sent": "couch the man in green is on", "ann_id": 99436, "best_split": [2, 2], "split_score": 0.7308318583553394}
+{"sent": "guy looking at his laptop", "ann_id": 1709303, "best_split": [3, 2], "split_score": 0.4524507749840332}
+{"sent": "green shirt head down", "ann_id": 1709303, "best_split": [3, 3], "split_score": 0.6413301661755745}
+{"sent": "man in green", "ann_id": 1709303, "best_split": [3, 3], "split_score": 0.6413301661755745}
+{"sent": "empty chair with no pattern on it", "ann_id": 1595524, "best_split": [3, 1], "split_score": 0.21004942338138094}
+{"sent": "plain chair next to man with blue shirt and glasses", "ann_id": 1595524, "best_split": [2, 1], "split_score": 0.15904017856508929}

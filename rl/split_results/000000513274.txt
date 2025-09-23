@@ -1,0 +1,12 @@
+{"sent": "hands only", "ann_id": 1226342, "best_split": [3, 3], "split_score": 0.40104053756763053}
+{"sent": "person on adult comp", "ann_id": 1226342, "best_split": [1, 2], "split_score": 0.29695471937591855}
+{"sent": "person out of view", "ann_id": 1226342, "best_split": [2, 1], "split_score": 0.20564695419424756}
+{"sent": "green keys", "ann_id": 1099699, "best_split": [3, 3], "split_score": 0.5802076710552863}
+{"sent": "smaller laptop", "ann_id": 1099699, "best_split": [3, 3], "split_score": 0.5802076710552863}
+{"sent": "smaller laptop", "ann_id": 1099699, "best_split": [3, 3], "split_score": 0.5802076710552863}
+{"sent": "the bigger computer", "ann_id": 1099416, "best_split": [2, 2], "split_score": 0.7862959842188784}
+{"sent": "bigger computer", "ann_id": 1099416, "best_split": [2, 2], "split_score": 0.7862959842188784}
+{"sent": "larger laptop", "ann_id": 1099416, "best_split": [2, 2], "split_score": 0.7862959842188784}
+{"sent": "child in yellow", "ann_id": 456699, "best_split": [1, 2], "split_score": 0.6415195291354613}
+{"sent": "child using green laptop", "ann_id": 456699, "best_split": [3, 2], "split_score": 0.44598031624206674}
+{"sent": "boy using small laptop", "ann_id": 456699, "best_split": [3, 1], "split_score": 0.33199257424458567}

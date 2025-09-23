@@ -1,0 +1,6 @@
+{"sent": "duck on the west side", "ann_id": 1815140, "best_split": [1, 5], "split_score": 0.7250721533632741}
+{"sent": "shorter goose", "ann_id": 1815140, "best_split": [1, 5], "split_score": 0.7250721533632741}
+{"sent": "not duck next to cat", "ann_id": 1815140, "best_split": [1, 5], "split_score": 0.7250721533632741}
+{"sent": "closest duck", "ann_id": 36320, "best_split": [1, 2], "split_score": 0.6744585030854794}
+{"sent": "duck near cat", "ann_id": 36320, "best_split": [1, 2], "split_score": 0.6744585030854794}
+{"sent": "goose near cat", "ann_id": 36320, "best_split": [1, 2], "split_score": 0.6744585030854794}

@@ -1,0 +1,6 @@
+{"sent": "kid in white shirt holding on to vehicle", "ann_id": 1741700, "best_split": [1, 5], "split_score": 0.4707363121089729}
+{"sent": "boy in white shirt", "ann_id": 1741700, "best_split": [3, 2], "split_score": 0.3904854683884977}
+{"sent": "white shirt", "ann_id": 1741700, "best_split": [3, 2], "split_score": 0.3904854683884977}
+{"sent": "polkadot shirt", "ann_id": 1726048, "best_split": [1, 5], "split_score": 0.573780072019696}
+{"sent": "plaid shirt", "ann_id": 1726048, "best_split": [1, 5], "split_score": 0.573780072019696}
+{"sent": "checkerd shirt boy", "ann_id": 1726048, "best_split": [1, 5], "split_score": 0.573780072019696}

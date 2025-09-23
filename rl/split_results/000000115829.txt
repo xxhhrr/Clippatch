@@ -1,0 +1,6 @@
+{"sent": "hidden person", "ann_id": 444262, "best_split": [1, 5], "split_score": 0.4074074073788294}
+{"sent": "girl in pants", "ann_id": 444262, "best_split": [1, 2], "split_score": 0.40688775508582237}
+{"sent": "woman", "ann_id": 444262, "best_split": [1, 5], "split_score": 0.4074074073788294}
+{"sent": "man", "ann_id": 440080, "best_split": [1, 3], "split_score": 0.46747722293046323}
+{"sent": "guy with pizza", "ann_id": 440080, "best_split": [1, 3], "split_score": 0.46747722293046323}
+{"sent": "blue apron guy", "ann_id": 440080, "best_split": [1, 3], "split_score": 0.46747722293046323}

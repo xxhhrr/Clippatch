@@ -1,0 +1,6 @@
+{"sent": "school bus", "ann_id": 169210, "best_split": [3, 3], "split_score": 0.6325067223435156}
+{"sent": "shcool bus", "ann_id": 169210, "best_split": [1, 3], "split_score": 0.2379453748320813}
+{"sent": "school bus", "ann_id": 169210, "best_split": [3, 3], "split_score": 0.6325067223435156}
+{"sent": "bus crossing intersection", "ann_id": 169050, "best_split": [5, 1], "split_score": 0.3944020355920482}
+{"sent": "white with blue bus crossing road", "ann_id": 169050, "best_split": [5, 1], "split_score": 0.3944020355920482}
+{"sent": "bus crossing intersection", "ann_id": 169050, "best_split": [5, 1], "split_score": 0.3944020355920482}

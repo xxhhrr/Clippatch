@@ -1,0 +1,11 @@
+{"sent": "blurly pie", "ann_id": 1554885, "best_split": [2, 2], "split_score": 0.22476089265031418}
+{"sent": "blurry yellow stuff with blue stuff near", "ann_id": 1554885, "best_split": [3, 2], "split_score": 0.3226812158643045}
+{"sent": "food nearest to us", "ann_id": 1554857, "best_split": [3, 3], "split_score": 0.6157402056378435}
+{"sent": "food in focus", "ann_id": 1554857, "best_split": [3, 3], "split_score": 0.6157402056378435}
+{"sent": "the food thats being focused on", "ann_id": 1554857, "best_split": [3, 3], "split_score": 0.6157402056378435}
+{"sent": "glass fuzzy", "ann_id": 680871, "best_split": [3, 3], "split_score": 0.45256975030065055}
+{"sent": "blurry glass blocked by other glass", "ann_id": 680871, "best_split": [3, 2], "split_score": 0.3203076283184049}
+{"sent": "glass near guy not wine glass", "ann_id": 680871, "best_split": [2, 3], "split_score": 0.30780317064980406}
+{"sent": "closest glass of water", "ann_id": 675273, "best_split": [2, 3], "split_score": 0.5679924908403153}
+{"sent": "glass of water in our corner", "ann_id": 675273, "best_split": [2, 3], "split_score": 0.5679924908403153}
+{"sent": "glass at 7pm", "ann_id": 675273, "best_split": [2, 3], "split_score": 0.5679924908403153}

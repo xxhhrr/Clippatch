@@ -1,0 +1,9 @@
+{"sent": "line judge", "ann_id": 568539, "best_split": [2, 1], "split_score": 0.03657541360499386}
+{"sent": "man in blue jacket and white pants", "ann_id": 568539, "best_split": [3, 2], "split_score": 0.25693661174634147}
+{"sent": "only man in picture", "ann_id": 568539, "best_split": [3, 3], "split_score": 0.3179373615441415}
+{"sent": "woman in white back facing you", "ann_id": 563870, "best_split": [1, 5], "split_score": 0.5135135134712002}
+{"sent": "girl with braid", "ann_id": 563870, "best_split": [1, 2], "split_score": 0.33928571427219045}
+{"sent": "player with back to us", "ann_id": 563870, "best_split": [2, 2], "split_score": 0.40823970034722845}
+{"sent": "the player behind the net", "ann_id": 558035, "best_split": [2, 2], "split_score": 0.06861353342333444}
+{"sent": "facing us", "ann_id": 558035, "best_split": [3, 3], "split_score": 0.5960555148655852}
+{"sent": "woman other side", "ann_id": 558035, "best_split": [1, 5], "split_score": 0.21301775145959526}

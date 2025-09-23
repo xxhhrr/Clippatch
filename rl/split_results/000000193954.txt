@@ -1,0 +1,12 @@
+{"sent": "white board", "ann_id": 620750, "best_split": [3, 2], "split_score": 0.535426658172525}
+{"sent": "board with white background", "ann_id": 620750, "best_split": [2, 2], "split_score": 0.39539776460253795}
+{"sent": "plain white board", "ann_id": 620750, "best_split": [3, 2], "split_score": 0.535426658172525}
+{"sent": "white shoes on brown snowboard", "ann_id": 619653, "best_split": [3, 1], "split_score": 0.21567326253525138}
+{"sent": "white shoe", "ann_id": 619653, "best_split": [1, 2], "split_score": 0.05912130953482166}
+{"sent": "white bindings", "ann_id": 619653, "best_split": [3, 1], "split_score": 0.21567326253525138}
+{"sent": "black on black board", "ann_id": 618867, "best_split": [5, 1], "split_score": 0.6403846153286377}
+{"sent": "ski numero dos", "ann_id": 618867, "best_split": [5, 1], "split_score": 0.6403846153286377}
+{"sent": "plain black", "ann_id": 618867, "best_split": [5, 1], "split_score": 0.6403846153286377}
+{"sent": "snowboard with colorful dots", "ann_id": 615877, "best_split": [3, 1], "split_score": 0.32450530886073203}
+{"sent": "board with multi colors", "ann_id": 615877, "best_split": [5, 1], "split_score": 0.3263973532712522}
+{"sent": "polka dotted board", "ann_id": 615877, "best_split": [2, 2], "split_score": 0.20345128582532387}

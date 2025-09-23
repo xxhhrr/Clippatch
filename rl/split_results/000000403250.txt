@@ -1,0 +1,6 @@
+{"sent": "black cat", "ann_id": 1816782, "best_split": [1, 5], "split_score": 0.456221198123832}
+{"sent": "cat", "ann_id": 1816782, "best_split": [1, 5], "split_score": 0.456221198123832}
+{"sent": "black shadow on ground", "ann_id": 1816782, "best_split": [1, 5], "split_score": 0.456221198123832}
+{"sent": "reflection of cat", "ann_id": 1403166, "best_split": [3, 3], "split_score": 0.4426177678718593}
+{"sent": "cat in mirror", "ann_id": 1403166, "best_split": [3, 3], "split_score": 0.4426177678718593}
+{"sent": "black part on the circly shape", "ann_id": 1403166, "best_split": [3, 3], "split_score": 0.4426177678718593}

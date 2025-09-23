@@ -1,0 +1,7 @@
+{"sent": "guy tan shirt", "ann_id": 527030, "best_split": [2, 1], "split_score": 0.07758347588932447}
+{"sent": "man with tan shirt", "ann_id": 527030, "best_split": [3, 1], "split_score": 0.27184320764652686}
+{"sent": "girl sitting behind the man in stripped sweatshirt", "ann_id": 508362, "best_split": [3, 3], "split_score": 0.2872989461609402}
+{"sent": "woman who has her back to the man eating", "ann_id": 508362, "best_split": [2, 1], "split_score": 0.07053941908452359}
+{"sent": "black guy", "ann_id": 2155603, "best_split": [1, 2], "split_score": 0.5148628247041787}
+{"sent": "man in stripes", "ann_id": 2155603, "best_split": [1, 2], "split_score": 0.5148628247041787}
+{"sent": "guy in white and black", "ann_id": 2155603, "best_split": [1, 2], "split_score": 0.5148628247041787}

@@ -1,0 +1,8 @@
+{"sent": "largest piece of pizza", "ann_id": 1571454, "best_split": [2, 2], "split_score": 0.7381107878205717}
+{"sent": "largest part of food at edge", "ann_id": 1571454, "best_split": [2, 2], "split_score": 0.7381107878205717}
+{"sent": "largest upper slice", "ann_id": 1571454, "best_split": [2, 1], "split_score": 0.6207030190047397}
+{"sent": "square piece with not much cheese", "ann_id": 1570335, "best_split": [1, 2], "split_score": 0.33147321427250187}
+{"sent": "the slice that is less visible and there is very little cheese visible on it", "ann_id": 1570335, "best_split": [1, 2], "split_score": 0.33147321427250187}
+{"sent": "slice you can fully see", "ann_id": 1075942, "best_split": [3, 1], "split_score": 0.41588063231945704}
+{"sent": "fully visible cut slice", "ann_id": 1075942, "best_split": [3, 1], "split_score": 0.41588063231945704}
+{"sent": "u can see entire piece", "ann_id": 1075942, "best_split": [3, 1], "split_score": 0.41588063231945704}

@@ -1,0 +1,6 @@
+{"sent": "palm tree closest to the woman on bike", "ann_id": 2127955, "best_split": [2, 3], "split_score": 0.45183175030089623}
+{"sent": "leaves directly over the lady on the bike", "ann_id": 2127955, "best_split": [3, 1], "split_score": 0.2775543040890208}
+{"sent": "lowest palm frond closest to our score", "ann_id": 2127955, "best_split": [2, 3], "split_score": 0.45183175030089623}
+{"sent": "trees tilted", "ann_id": 26183, "best_split": [2, 1], "split_score": 0.5803895004037125}
+{"sent": "palm trees", "ann_id": 26183, "best_split": [2, 1], "split_score": 0.5803895004037125}
+{"sent": "gren tree leaves", "ann_id": 26183, "best_split": [2, 1], "split_score": 0.5803895004037125}

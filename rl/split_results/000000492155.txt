@@ -1,0 +1,8 @@
+{"sent": "little bit of sheep behind sheep head", "ann_id": 67088, "best_split": [2, 1], "split_score": 0.4752454194111619}
+{"sent": "sheep behind ears", "ann_id": 67088, "best_split": [2, 1], "split_score": 0.4752454194111619}
+{"sent": "sheep without a face", "ann_id": 66531, "best_split": [3, 1], "split_score": 0.21757595555992085}
+{"sent": "part of sheep beside sheep face", "ann_id": 66531, "best_split": [3, 1], "split_score": 0.21757595555992085}
+{"sent": "sheep at 9 not shown", "ann_id": 66531, "best_split": [3, 1], "split_score": 0.21757595555992085}
+{"sent": "face", "ann_id": 66219, "best_split": [1, 2], "split_score": 0.40717659222515784}
+{"sent": "sheep thats lookin at u", "ann_id": 66219, "best_split": [1, 2], "split_score": 0.40717659222515784}
+{"sent": "head", "ann_id": 66219, "best_split": [1, 2], "split_score": 0.40717659222515784}

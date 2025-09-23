@@ -1,0 +1,6 @@
+{"sent": "the parking meter further from the bike", "ann_id": 1810075, "best_split": [3, 3], "split_score": 0.42731921102495996}
+{"sent": "dirty parking meter", "ann_id": 1810075, "best_split": [3, 3], "split_score": 0.42731921102495996}
+{"sent": "meter 2", "ann_id": 1810075, "best_split": [3, 3], "split_score": 0.42731921102495996}
+{"sent": "meter nearest bike seat", "ann_id": 418709, "best_split": [3, 3], "split_score": 0.38036809809644034}
+{"sent": "biggest meter", "ann_id": 418709, "best_split": [3, 3], "split_score": 0.38036809809644034}
+{"sent": "meter closest to bike seat", "ann_id": 418709, "best_split": [3, 3], "split_score": 0.38036809809644034}

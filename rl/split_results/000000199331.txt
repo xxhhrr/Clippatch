@@ -1,0 +1,6 @@
+{"sent": "red vest", "ann_id": 483838, "best_split": [1, 5], "split_score": 0.5801886791964127}
+{"sent": "red", "ann_id": 483838, "best_split": [1, 5], "split_score": 0.5801886791964127}
+{"sent": "red shirt", "ann_id": 483838, "best_split": [1, 5], "split_score": 0.5801886791964127}
+{"sent": "hes got the ball", "ann_id": 445066, "best_split": [1, 5], "split_score": 0.37512437807834786}
+{"sent": "blue and white jersey", "ann_id": 445066, "best_split": [3, 3], "split_score": 0.47355711175156273}
+{"sent": "boy with blue", "ann_id": 445066, "best_split": [3, 3], "split_score": 0.47355711175156273}

@@ -1,0 +1,12 @@
+{"sent": "foot of the bed", "ann_id": 315257, "best_split": [2, 2], "split_score": 0.21147684239648434}
+{"sent": "white sheet on bed behind boy", "ann_id": 315257, "best_split": [2, 2], "split_score": 0.21147684239648434}
+{"sent": "the bed near the picture frame on wall", "ann_id": 315257, "best_split": [2, 2], "split_score": 0.21147684239648434}
+{"sent": "pillows on bed", "ann_id": 315095, "best_split": [2, 3], "split_score": 0.487317018606848}
+{"sent": "pillows on bed", "ann_id": 315095, "best_split": [2, 3], "split_score": 0.487317018606848}
+{"sent": "pillow", "ann_id": 315095, "best_split": [2, 3], "split_score": 0.487317018606848}
+{"sent": "kid lying on floor", "ann_id": 201304, "best_split": [3, 3], "split_score": 0.48233842349493466}
+{"sent": "boy on the floor", "ann_id": 201304, "best_split": [3, 3], "split_score": 0.48233842349493466}
+{"sent": "the very lazy child", "ann_id": 201304, "best_split": [3, 3], "split_score": 0.48233842349493466}
+{"sent": "kid standing", "ann_id": 183633, "best_split": [1, 5], "split_score": 0.2893668830875236}
+{"sent": "kid", "ann_id": 183633, "best_split": [3, 1], "split_score": 0.05627140759765827}
+{"sent": "standing", "ann_id": 183633, "best_split": [1, 5], "split_score": 0.2893668830875236}

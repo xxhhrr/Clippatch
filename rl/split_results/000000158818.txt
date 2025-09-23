@@ -1,0 +1,5 @@
+{"sent": "the silver part of the door next to the womans leg", "ann_id": 1396650, "best_split": [2, 1], "split_score": 0.04138168201286226}
+{"sent": "silver portion of door near ground", "ann_id": 1396650, "best_split": [5, 1], "split_score": 0.21976461036731285}
+{"sent": "seat under window with no vertical bar", "ann_id": 1392081, "best_split": [2, 3], "split_score": 0.4837209301763115}
+{"sent": "chair next to man", "ann_id": 1392081, "best_split": [2, 2], "split_score": 0.3235843185809284}
+{"sent": "seat next to man", "ann_id": 1392081, "best_split": [2, 3], "split_score": 0.4837209301763115}

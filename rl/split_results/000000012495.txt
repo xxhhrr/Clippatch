@@ -1,0 +1,8 @@
+{"sent": "main zebra head", "ann_id": 1411828, "best_split": [1, 2], "split_score": 0.6461512376894385}
+{"sent": "closest zebra", "ann_id": 1411828, "best_split": [1, 2], "split_score": 0.6461512376894385}
+{"sent": "whole zebra head", "ann_id": 1411828, "best_split": [1, 2], "split_score": 0.6461512376894385}
+{"sent": "other ear without head of zebra showing", "ann_id": 592565, "best_split": [1, 2], "split_score": 0.29894770406971666}
+{"sent": "zebra cut off at 2 o clock can only see small piece", "ann_id": 592565, "best_split": [1, 3], "split_score": 0.4437514991338599}
+{"sent": "hidden zebra body", "ann_id": 592477, "best_split": [2, 1], "split_score": 0.3820754716889181}
+{"sent": "zebra body in between", "ann_id": 592477, "best_split": [2, 1], "split_score": 0.3820754716889181}
+{"sent": "zebra to side by self", "ann_id": 592477, "best_split": [2, 1], "split_score": 0.3820754716889181}

@@ -1,0 +1,7 @@
+{"sent": "bench obscured by bush", "ann_id": 578540, "best_split": [3, 2], "split_score": 0.6858108107280634}
+{"sent": "bench 1", "ann_id": 578540, "best_split": [5, 1], "split_score": 0.38403990021517276}
+{"sent": "bench in shadow", "ann_id": 578540, "best_split": [5, 1], "split_score": 0.38403990021517276}
+{"sent": "the bench at 9 o clock", "ann_id": 578540, "best_split": [5, 1], "split_score": 0.38403990021517276}
+{"sent": "bench with brown on it fully in sun", "ann_id": 578172, "best_split": [3, 2], "split_score": 0.6937300743152253}
+{"sent": "the bench near the smallest plants", "ann_id": 578172, "best_split": [3, 1], "split_score": 0.3688552378591448}
+{"sent": "read like a book bench 2", "ann_id": 578172, "best_split": [3, 2], "split_score": 0.6937300743152253}

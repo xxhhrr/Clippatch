@@ -1,0 +1,6 @@
+{"sent": "short cownot a baby", "ann_id": 73729, "best_split": [2, 2], "split_score": 0.375586854432542}
+{"sent": "cow surrounded by other cows", "ann_id": 73729, "best_split": [2, 1], "split_score": 0.19559902199741752}
+{"sent": "middle cow", "ann_id": 73729, "best_split": [3, 3], "split_score": 0.1951718494072042}
+{"sent": "biggest cow", "ann_id": 70489, "best_split": [1, 2], "split_score": 0.4929404542496098}
+{"sent": "largest cow", "ann_id": 70489, "best_split": [1, 2], "split_score": 0.4929404542496098}
+{"sent": "biggest cow thing", "ann_id": 70489, "best_split": [1, 2], "split_score": 0.4929404542496098}

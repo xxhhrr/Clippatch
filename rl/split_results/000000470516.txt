@@ -1,0 +1,8 @@
+{"sent": "tarp on truck", "ann_id": 2172014, "best_split": [3, 2], "split_score": 0.4151766244641107}
+{"sent": "long thing on roof of trailer", "ann_id": 2172014, "best_split": [3, 2], "split_score": 0.4151766244641107}
+{"sent": "the thing in the back trailer", "ann_id": 2172014, "best_split": [5, 1], "split_score": 0.3108668228229531}
+{"sent": "truck", "ann_id": 2171833, "best_split": [2, 1], "split_score": 0.8637981574237926}
+{"sent": "truck closest", "ann_id": 2171833, "best_split": [2, 1], "split_score": 0.8637981574237926}
+{"sent": "truck between both trucks", "ann_id": 2052860, "best_split": [2, 3], "split_score": 0.2023213715043849}
+{"sent": "in between truck not showing much", "ann_id": 2052860, "best_split": [2, 3], "split_score": 0.2023213715043849}
+{"sent": "can only see one wheel blue", "ann_id": 2052860, "best_split": [2, 2], "split_score": 0.23555590874707494}

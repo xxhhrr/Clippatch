@@ -1,0 +1,5 @@
+{"sent": "person in black by purse", "ann_id": 1224912, "best_split": [2, 2], "split_score": 0.6371173468879849}
+{"sent": "man nearest with back turned", "ann_id": 1224912, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "black shirt facing away", "ann_id": 1224912, "best_split": [2, 3], "split_score": 0.8218442255123272}
+{"sent": "knit cap", "ann_id": 1238456, "best_split": [1, 5], "split_score": 0.33025568178467374}
+{"sent": "person in knitted hat", "ann_id": 1238456, "best_split": [1, 5], "split_score": 0.33025568178467374}

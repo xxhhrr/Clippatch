@@ -1,0 +1,9 @@
+{"sent": "mitt", "ann_id": 1928506, "best_split": [2, 3], "split_score": 0.6609348914306398}
+{"sent": "treat at 4 o clock", "ann_id": 1928506, "best_split": [2, 1], "split_score": 0.35577065167889127}
+{"sent": "leaf shaped thing", "ann_id": 1928506, "best_split": [2, 2], "split_score": 0.6630404846693032}
+{"sent": "bat", "ann_id": 1928111, "best_split": [2, 1], "split_score": 0.4927896932754364}
+{"sent": "bat portion of the cake", "ann_id": 1928111, "best_split": [2, 1], "split_score": 0.4927896932754364}
+{"sent": "bat", "ann_id": 1928111, "best_split": [2, 1], "split_score": 0.4927896932754364}
+{"sent": "baseball", "ann_id": 1086451, "best_split": [3, 2], "split_score": 0.5100874243014385}
+{"sent": "baseball", "ann_id": 1086451, "best_split": [3, 2], "split_score": 0.5100874243014385}
+{"sent": "whats up with you baseball", "ann_id": 1086451, "best_split": [3, 2], "split_score": 0.5100874243014385}

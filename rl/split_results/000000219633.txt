@@ -1,0 +1,6 @@
+{"sent": "smallest dog", "ann_id": 17783, "best_split": [1, 3], "split_score": 0.4794696321386083}
+{"sent": "standing dog", "ann_id": 17783, "best_split": [1, 3], "split_score": 0.4794696321386083}
+{"sent": "last one fed", "ann_id": 17783, "best_split": [1, 3], "split_score": 0.4794696321386083}
+{"sent": "lght colored dog", "ann_id": 15879, "best_split": [1, 2], "split_score": 0.5580862533504688}
+{"sent": "white dog", "ann_id": 15879, "best_split": [1, 2], "split_score": 0.5580862533504688}
+{"sent": "the lightest colored dog", "ann_id": 15879, "best_split": [1, 3], "split_score": 0.3853723013516899}

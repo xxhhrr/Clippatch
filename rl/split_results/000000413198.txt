@@ -1,0 +1,6 @@
+{"sent": "carrot dish", "ann_id": 1039407, "best_split": [2, 1], "split_score": 0.8370535713952068}
+{"sent": "carrot and cauliflower tray", "ann_id": 1039407, "best_split": [2, 1], "split_score": 0.8370535713952068}
+{"sent": "dish with carrots", "ann_id": 1039407, "best_split": [2, 1], "split_score": 0.8370535713952068}
+{"sent": "lower container", "ann_id": 716500, "best_split": [2, 1], "split_score": 0.8436906185923115}
+{"sent": "pink container", "ann_id": 716500, "best_split": [2, 1], "split_score": 0.8436906185923115}
+{"sent": "nearest food container", "ann_id": 716500, "best_split": [2, 1], "split_score": 0.8436906185923115}

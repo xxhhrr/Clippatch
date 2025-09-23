@@ -1,0 +1,3 @@
+{"sent": "8 pm", "ann_id": 1550861, "best_split": [3, 1], "split_score": 0.15395752894824097}
+{"sent": "blurry apple closest to green partial apple showing", "ann_id": 1550861, "best_split": [2, 1], "split_score": 0.03629274145034895}
+{"sent": "apple with yellow spot near all yellow apple", "ann_id": 1550861, "best_split": [2, 1], "split_score": 0.03629274145034895}

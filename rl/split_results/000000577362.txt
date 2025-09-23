@@ -1,0 +1,6 @@
+{"sent": "horse facing the camera", "ann_id": 59402, "best_split": [2, 2], "split_score": 0.3136547343884487}
+{"sent": "white horse", "ann_id": 59402, "best_split": [1, 5], "split_score": 0.31608415334950085}
+{"sent": "white horse", "ann_id": 59402, "best_split": [1, 5], "split_score": 0.31608415334950085}
+{"sent": "black horse", "ann_id": 58107, "best_split": [2, 3], "split_score": 0.3196049825699018}
+{"sent": "black horse", "ann_id": 58107, "best_split": [2, 3], "split_score": 0.3196049825699018}
+{"sent": "dark horse", "ann_id": 58107, "best_split": [1, 5], "split_score": 0.3050332941338589}

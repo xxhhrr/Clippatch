@@ -1,0 +1,6 @@
+{"sent": "horse no ass", "ann_id": 56516, "best_split": [1, 5], "split_score": 0.34851558174916875}
+{"sent": "horse closest to the stick leaning against the barn", "ann_id": 56516, "best_split": [1, 5], "split_score": 0.34851558174916875}
+{"sent": "taller horse", "ann_id": 56516, "best_split": [1, 5], "split_score": 0.34851558174916875}
+{"sent": "horse further from barn door", "ann_id": 54138, "best_split": [2, 3], "split_score": 0.4301075268325203}
+{"sent": "horse showing whole body", "ann_id": 54138, "best_split": [2, 3], "split_score": 0.4301075268325203}
+{"sent": "horse closest to man not in wagon", "ann_id": 54138, "best_split": [2, 3], "split_score": 0.4301075268325203}

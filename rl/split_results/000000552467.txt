@@ -1,0 +1,12 @@
+{"sent": "guy", "ann_id": 491709, "best_split": [1, 5], "split_score": 0.3592727272400661}
+{"sent": "man", "ann_id": 491709, "best_split": [1, 5], "split_score": 0.3592727272400661}
+{"sent": "man in cap", "ann_id": 491709, "best_split": [2, 2], "split_score": 0.40624999996761396}
+{"sent": "this game pisses me off old lady in purple", "ann_id": 491340, "best_split": [1, 3], "split_score": 0.5292810755081873}
+{"sent": "purple shirt gray pants", "ann_id": 491340, "best_split": [1, 3], "split_score": 0.5292810755081873}
+{"sent": "woman holding blue plate", "ann_id": 491340, "best_split": [1, 3], "split_score": 0.5292810755081873}
+{"sent": "pink", "ann_id": 478448, "best_split": [1, 2], "split_score": 0.5164221938569666}
+{"sent": "pink shirt", "ann_id": 478448, "best_split": [1, 2], "split_score": 0.5164221938569666}
+{"sent": "pink dressed woman", "ann_id": 478448, "best_split": [1, 2], "split_score": 0.5164221938569666}
+{"sent": "the smiling person wearing a necklace and with bangs blond hair not gray", "ann_id": 425322, "best_split": [1, 3], "split_score": 0.7556673605854922}
+{"sent": "woman in lavender shirt holding chocolate cakle", "ann_id": 425322, "best_split": [2, 1], "split_score": 0.24702447787215603}
+{"sent": "holding chocolate cake", "ann_id": 425322, "best_split": [1, 3], "split_score": 0.7556673605854922}

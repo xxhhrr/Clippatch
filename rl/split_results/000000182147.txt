@@ -1,0 +1,5 @@
+{"sent": "the larger canoe with stuff in it", "ann_id": 177377, "best_split": [2, 2], "split_score": 0.5749572204021309}
+{"sent": "long white boat next to blue", "ann_id": 177377, "best_split": [2, 2], "split_score": 0.5749572204021309}
+{"sent": "the closest boat", "ann_id": 175408, "best_split": [2, 3], "split_score": 0.34358300478812237}
+{"sent": "smallest boat on land", "ann_id": 175408, "best_split": [2, 3], "split_score": 0.34358300478812237}
+{"sent": "nearest boat", "ann_id": 175408, "best_split": [2, 3], "split_score": 0.34358300478812237}

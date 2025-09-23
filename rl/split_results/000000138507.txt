@@ -1,0 +1,18 @@
+{"sent": "banana next to knife", "ann_id": 2186125, "best_split": [1, 3], "split_score": 0.3811626195531818}
+{"sent": "the red banana thats cut off a littlw", "ann_id": 2186125, "best_split": [1, 3], "split_score": 0.3811626195531818}
+{"sent": "banana nearest knife", "ann_id": 2186125, "best_split": [1, 3], "split_score": 0.3811626195531818}
+{"sent": "apple slice half moon", "ann_id": 1049683, "best_split": [3, 3], "split_score": 0.6294463345763306}
+{"sent": "biggest slice of apple", "ann_id": 1049683, "best_split": [3, 3], "split_score": 0.6294463345763306}
+{"sent": "farthest apple slice", "ann_id": 1049683, "best_split": [3, 3], "split_score": 0.6294463345763306}
+{"sent": "slice of apple closest to bananas", "ann_id": 1048997, "best_split": [2, 3], "split_score": 0.29826185330677135}
+{"sent": "little apple slice touching two bananas", "ann_id": 1048997, "best_split": [2, 3], "split_score": 0.29826185330677135}
+{"sent": "apple slice closest to banana", "ann_id": 1048997, "best_split": [2, 3], "split_score": 0.29826185330677135}
+{"sent": "fruit with sticker on edge of bunch", "ann_id": 1046465, "best_split": [1, 3], "split_score": 0.3211922742658159}
+{"sent": "the banana closest to the edge", "ann_id": 1046465, "best_split": [2, 1], "split_score": 0.4083474998414811}
+{"sent": "banana closest to us", "ann_id": 1046465, "best_split": [1, 2], "split_score": 0.6983599603881535}
+{"sent": "banan with stripe", "ann_id": 1046394, "best_split": [1, 3], "split_score": 0.42675893885208604}
+{"sent": "banana with a stripe but no sticker", "ann_id": 1046394, "best_split": [1, 3], "split_score": 0.42675893885208604}
+{"sent": "the banana between the two stickers", "ann_id": 1046394, "best_split": [1, 3], "split_score": 0.42675893885208604}
+{"sent": "highest one with sticker", "ann_id": 1041755, "best_split": [1, 3], "split_score": 0.40548806386859704}
+{"sent": "higher banana with sticker", "ann_id": 1041755, "best_split": [1, 3], "split_score": 0.40548806386859704}
+{"sent": "banana with sticker", "ann_id": 1041755, "best_split": [1, 3], "split_score": 0.40548806386859704}

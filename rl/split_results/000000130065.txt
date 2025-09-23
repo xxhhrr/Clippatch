@@ -1,0 +1,6 @@
+{"sent": "gray dog", "ann_id": 17078, "best_split": [3, 1], "split_score": 0.307058758481728}
+{"sent": "dog closest to window", "ann_id": 17078, "best_split": [3, 1], "split_score": 0.307058758481728}
+{"sent": "dog on ri ght", "ann_id": 17078, "best_split": [3, 1], "split_score": 0.307058758481728}
+{"sent": "dog on blue blanket", "ann_id": 13109, "best_split": [2, 2], "split_score": 0.5238038133754764}
+{"sent": "dog face brown sleeping", "ann_id": 13109, "best_split": [2, 2], "split_score": 0.5238038133754764}
+{"sent": "dog with ears down", "ann_id": 13109, "best_split": [2, 2], "split_score": 0.5238038133754764}

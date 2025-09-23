@@ -1,0 +1,12 @@
+{"sent": "man with white shirt", "ann_id": 1276140, "best_split": [2, 2], "split_score": 0.2817679557800681}
+{"sent": "white shirt", "ann_id": 1276140, "best_split": [2, 2], "split_score": 0.2817679557800681}
+{"sent": "white shirt walking", "ann_id": 1276140, "best_split": [1, 5], "split_score": 0.3230994151751554}
+{"sent": "gray blue shirt near woman in flowered shirt", "ann_id": 1266520, "best_split": [2, 3], "split_score": 0.21780639429198417}
+{"sent": "partial person side no letter three", "ann_id": 1266520, "best_split": [2, 2], "split_score": 0.1479191797234681}
+{"sent": "man in gray shirt and jeans", "ann_id": 1266520, "best_split": [2, 3], "split_score": 0.21780639429198417}
+{"sent": "grandma floral shirt", "ann_id": 1261640, "best_split": [2, 3], "split_score": 0.3654447920914791}
+{"sent": "an old lady walking", "ann_id": 1261640, "best_split": [2, 3], "split_score": 0.3654447920914791}
+{"sent": "grandma with pink sweter", "ann_id": 1261640, "best_split": [2, 3], "split_score": 0.3654447920914791}
+{"sent": "number 3", "ann_id": 1202112, "best_split": [1, 5], "split_score": 0.330884485226594}
+{"sent": "number 3 on shoulder", "ann_id": 1202112, "best_split": [1, 5], "split_score": 0.330884485226594}
+{"sent": "man with 3 on shirt", "ann_id": 1202112, "best_split": [2, 1], "split_score": 0.10015174506448589}

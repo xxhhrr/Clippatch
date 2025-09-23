@@ -1,0 +1,6 @@
+{"sent": "guy standing straight up", "ann_id": 488927, "best_split": [3, 1], "split_score": 0.2659956865444826}
+{"sent": "fully standing person", "ann_id": 488927, "best_split": [1, 5], "split_score": 0.42318917481936924}
+{"sent": "not facing us", "ann_id": 488927, "best_split": [3, 1], "split_score": 0.2659956865444826}
+{"sent": "bent over", "ann_id": 483126, "best_split": [3, 2], "split_score": 0.7092651756480366}
+{"sent": "the guy that is bent side ways lol maybe trying to get the frisbee", "ann_id": 483126, "best_split": [3, 2], "split_score": 0.7092651756480366}
+{"sent": "shortest person", "ann_id": 483126, "best_split": [3, 2], "split_score": 0.7092651756480366}

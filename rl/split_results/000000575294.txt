@@ -1,0 +1,6 @@
+{"sent": "the one closest to us", "ann_id": 74846, "best_split": [2, 1], "split_score": 0.3166588013130759}
+{"sent": "the closer cow", "ann_id": 74846, "best_split": [1, 2], "split_score": 0.8359289317527261}
+{"sent": "closer animal", "ann_id": 74846, "best_split": [1, 2], "split_score": 0.8359289317527261}
+{"sent": "the white faced cow", "ann_id": 74162, "best_split": [1, 3], "split_score": 0.5383211678525136}
+{"sent": "black and white face", "ann_id": 74162, "best_split": [1, 3], "split_score": 0.5383211678525136}
+{"sent": "the multicolored cow", "ann_id": 74162, "best_split": [1, 3], "split_score": 0.5383211678525136}

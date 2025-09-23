@@ -1,0 +1,7 @@
+{"sent": "empty glass", "ann_id": 672950, "best_split": [1, 5], "split_score": 0.2736404220501582}
+{"sent": "water glass", "ann_id": 672950, "best_split": [1, 5], "split_score": 0.2736404220501582}
+{"sent": "water glass", "ann_id": 672950, "best_split": [1, 5], "split_score": 0.2736404220501582}
+{"sent": "beer", "ann_id": 670927, "best_split": [3, 3], "split_score": 0.6430123098039442}
+{"sent": "tea", "ann_id": 670927, "best_split": [3, 3], "split_score": 0.6430123098039442}
+{"sent": "beer", "ann_id": 670927, "best_split": [3, 3], "split_score": 0.6430123098039442}
+{"sent": "the glass of tea", "ann_id": 670927, "best_split": [3, 3], "split_score": 0.6430123098039442}

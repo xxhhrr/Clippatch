@@ -1,0 +1,6 @@
+{"sent": "ugly yellow chair near dog lisa", "ann_id": 103381, "best_split": [2, 2], "split_score": 0.2461921044260031}
+{"sent": "dining chair with back to us", "ann_id": 103381, "best_split": [1, 5], "split_score": 0.3543019480160002}
+{"sent": "a total wooden chair facing the window", "ann_id": 103381, "best_split": [1, 5], "split_score": 0.3543019480160002}
+{"sent": "white chair", "ann_id": 100505, "best_split": [3, 3], "split_score": 0.4622455678821002}
+{"sent": "chair near blue bean bag", "ann_id": 100505, "best_split": [3, 3], "split_score": 0.4622455678821002}
+{"sent": "big chair", "ann_id": 100505, "best_split": [3, 3], "split_score": 0.4622455678821002}

@@ -1,0 +1,5 @@
+{"sent": "400 broccoli", "ann_id": 1560105, "best_split": [3, 2], "split_score": 0.2344858155768522}
+{"sent": "the broccoli that is touching the two mushrooms", "ann_id": 1560105, "best_split": [3, 2], "split_score": 0.2344858155768522}
+{"sent": "brocolli between carrots", "ann_id": 1057556, "best_split": [2, 3], "split_score": 0.2819981583469155}
+{"sent": "broccoli between carrots", "ann_id": 1057556, "best_split": [2, 3], "split_score": 0.2819981583469155}
+{"sent": "largest broccoli between carrots", "ann_id": 1057556, "best_split": [2, 3], "split_score": 0.2819981583469155}

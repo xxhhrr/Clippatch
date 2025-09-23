@@ -1,0 +1,12 @@
+{"sent": "woman in light green waving", "ann_id": 1709152, "best_split": [3, 3], "split_score": 0.4541143653481012}
+{"sent": "green shirt", "ann_id": 1709152, "best_split": [1, 3], "split_score": 0.29006352629209736}
+{"sent": "woman in green", "ann_id": 1709152, "best_split": [3, 3], "split_score": 0.4541143653481012}
+{"sent": "man plaid shirt", "ann_id": 1704969, "best_split": [1, 3], "split_score": 0.644582662262199}
+{"sent": "plaid shirt", "ann_id": 1704969, "best_split": [1, 3], "split_score": 0.644582662262199}
+{"sent": "man with dark plaid shirt", "ann_id": 1704969, "best_split": [1, 3], "split_score": 0.644582662262199}
+{"sent": "yellow shirt", "ann_id": 1691907, "best_split": [1, 3], "split_score": 0.554054054020629}
+{"sent": "yellow", "ann_id": 1691907, "best_split": [2, 3], "split_score": 0.5294117646595403}
+{"sent": "man with white beard whitish shirt", "ann_id": 1691907, "best_split": [1, 3], "split_score": 0.554054054020629}
+{"sent": "the closest person to camera has hat on", "ann_id": 1205140, "best_split": [2, 3], "split_score": 0.43837844111530044}
+{"sent": "man in hat", "ann_id": 1205140, "best_split": [2, 3], "split_score": 0.43837844111530044}
+{"sent": "man with hat on", "ann_id": 1205140, "best_split": [2, 3], "split_score": 0.43837844111530044}

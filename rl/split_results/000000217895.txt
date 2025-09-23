@@ -1,0 +1,5 @@
+{"sent": "baseball hat", "ann_id": 490152, "best_split": [1, 3], "split_score": 0.3973120821099037}
+{"sent": "man in all black", "ann_id": 490152, "best_split": [1, 2], "split_score": 0.4816178654011517}
+{"sent": "man in black", "ann_id": 490152, "best_split": [1, 2], "split_score": 0.4816178654011517}
+{"sent": "little guy on skis", "ann_id": 444269, "best_split": [2, 2], "split_score": 0.3204494381782435}
+{"sent": "child on skis", "ann_id": 444269, "best_split": [2, 2], "split_score": 0.3204494381782435}

@@ -1,0 +1,6 @@
+{"sent": "smaller woman", "ann_id": 489298, "best_split": [3, 1], "split_score": 0.22445561137732017}
+{"sent": "white apron", "ann_id": 489298, "best_split": [5, 1], "split_score": 0.23414592565341408}
+{"sent": "woman farthest from camera", "ann_id": 489298, "best_split": [3, 1], "split_score": 0.22445561137732017}
+{"sent": "largest woman", "ann_id": 438411, "best_split": [2, 3], "split_score": 0.5359954200274799}
+{"sent": "the woman with green apron only", "ann_id": 438411, "best_split": [2, 3], "split_score": 0.5359954200274799}
+{"sent": "woman not wearing white apron", "ann_id": 438411, "best_split": [2, 3], "split_score": 0.5359954200274799}

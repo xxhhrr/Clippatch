@@ -1,0 +1,6 @@
+{"sent": "stuffed animal next to kid", "ann_id": 1161297, "best_split": [3, 3], "split_score": 0.3431139306974473}
+{"sent": "the stuffed create playing the piano sitting not standing", "ann_id": 1161297, "best_split": [2, 3], "split_score": 0.35824958120202577}
+{"sent": "the white thing by the babies mouth", "ann_id": 1161297, "best_split": [3, 2], "split_score": 0.19443932975562148}
+{"sent": "white cat walking on keys", "ann_id": 1159130, "best_split": [1, 5], "split_score": 0.31553816044496763}
+{"sent": "bear blue ribbo", "ann_id": 1159130, "best_split": [3, 3], "split_score": 0.2633184220960433}
+{"sent": "toy standing up", "ann_id": 1159130, "best_split": [2, 2], "split_score": 0.3543142975993946}

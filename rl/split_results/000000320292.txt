@@ -1,0 +1,6 @@
+{"sent": "yellow bike barely visible", "ann_id": 246957, "best_split": [1, 5], "split_score": 0.2678305723372849}
+{"sent": "orange bike", "ann_id": 246957, "best_split": [1, 5], "split_score": 0.2678305723372849}
+{"sent": "motorcycle with yellow and orange hard to see", "ann_id": 246957, "best_split": [1, 5], "split_score": 0.2678305723372849}
+{"sent": "bike", "ann_id": 148768, "best_split": [1, 2], "split_score": 0.4389005602144848}
+{"sent": "big black bike", "ann_id": 148768, "best_split": [2, 1], "split_score": 0.6037073170584462}
+{"sent": "black bike", "ann_id": 148768, "best_split": [2, 1], "split_score": 0.6037073170584462}

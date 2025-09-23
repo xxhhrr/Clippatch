@@ -1,0 +1,6 @@
+{"sent": "horse not being held by hand with ring finger", "ann_id": 57268, "best_split": [1, 3], "split_score": 0.5086238531843448}
+{"sent": "horse at 9 o clock", "ann_id": 57268, "best_split": [1, 3], "split_score": 0.5086238531843448}
+{"sent": "horse not infront of trees", "ann_id": 57268, "best_split": [3, 2], "split_score": 0.428103436228612}
+{"sent": "tallest horse", "ann_id": 55001, "best_split": [1, 5], "split_score": 0.4302098584413}
+{"sent": "tallest horse", "ann_id": 55001, "best_split": [1, 5], "split_score": 0.4302098584413}
+{"sent": "largest horse facing u", "ann_id": 55001, "best_split": [1, 2], "split_score": 0.5416135203865747}

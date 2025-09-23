@@ -1,0 +1,5 @@
+{"sent": "white bike next to orange", "ann_id": 241856, "best_split": [5, 1], "split_score": 0.344870401959889}
+{"sent": "bike with white frame next to orange one", "ann_id": 241856, "best_split": [5, 1], "split_score": 0.344870401959889}
+{"sent": "bicycle seat is just lower than rail and man in white shorts", "ann_id": 241856, "best_split": [5, 1], "split_score": 0.344870401959889}
+{"sent": "close back tire", "ann_id": 1764722, "best_split": [2, 1], "split_score": 0.0382870107757272}
+{"sent": "rear wheel", "ann_id": 1764722, "best_split": [2, 1], "split_score": 0.0382870107757272}

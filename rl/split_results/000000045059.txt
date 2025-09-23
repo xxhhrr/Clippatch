@@ -1,0 +1,4 @@
+{"sent": "blue jacket", "ann_id": 234869, "best_split": [3, 2], "split_score": 0.25389610386862593}
+{"sent": "person standing close to curb", "ann_id": 234869, "best_split": [1, 2], "split_score": 0.1314572704029234}
+{"sent": "man in all black facing edge of image", "ann_id": 221117, "best_split": [1, 5], "split_score": 0.7627840908316981}
+{"sent": "dressed in all black", "ann_id": 221117, "best_split": [1, 5], "split_score": 0.7627840908316981}

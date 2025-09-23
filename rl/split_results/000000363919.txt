@@ -1,0 +1,6 @@
+{"sent": "black shirt", "ann_id": 454695, "best_split": [3, 2], "split_score": 0.5639569634964168}
+{"sent": "girl red apron", "ann_id": 454695, "best_split": [3, 2], "split_score": 0.5639569634964168}
+{"sent": "woman with red apron", "ann_id": 454695, "best_split": [3, 2], "split_score": 0.5639569634964168}
+{"sent": "older lady", "ann_id": 429615, "best_split": [3, 2], "split_score": 0.5600709122760077}
+{"sent": "woman in white shirt", "ann_id": 429615, "best_split": [3, 2], "split_score": 0.5600709122760077}
+{"sent": "blond", "ann_id": 429615, "best_split": [1, 2], "split_score": 0.5577889447017199}

@@ -1,0 +1,6 @@
+{"sent": "larger chair with striped cushion", "ann_id": 102680, "best_split": [3, 3], "split_score": 0.5932862189764512}
+{"sent": "the angular chair the one with stripes", "ann_id": 102680, "best_split": [3, 3], "split_score": 0.5932862189764512}
+{"sent": "loveseat", "ann_id": 102680, "best_split": [3, 3], "split_score": 0.5932862189764512}
+{"sent": "the chair close to the window", "ann_id": 100358, "best_split": [2, 1], "split_score": 0.12053571428090977}
+{"sent": "chair facing table", "ann_id": 100358, "best_split": [3, 2], "split_score": 0.2972477063879303}
+{"sent": "chair closest to window", "ann_id": 100358, "best_split": [5, 1], "split_score": 0.12587412586312288}

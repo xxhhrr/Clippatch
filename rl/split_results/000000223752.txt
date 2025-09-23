@@ -1,0 +1,6 @@
+{"sent": "largest panda", "ann_id": 1675624, "best_split": [1, 2], "split_score": 0.17797456554437796}
+{"sent": "black and white bear next to yellow one", "ann_id": 1675624, "best_split": [3, 1], "split_score": 0.4013350020650117}
+{"sent": "animal next to pooh", "ann_id": 1675624, "best_split": [3, 1], "split_score": 0.4013350020650117}
+{"sent": "yelllow bear in straw hat", "ann_id": 1673184, "best_split": [2, 3], "split_score": 0.34075211048150883}
+{"sent": "whinnie the pooh", "ann_id": 1673184, "best_split": [3, 3], "split_score": 0.6976885643707894}
+{"sent": "winnie the pooh", "ann_id": 1673184, "best_split": [3, 3], "split_score": 0.6976885643707894}

@@ -1,0 +1,7 @@
+{"sent": "yellow cake", "ann_id": 1085085, "best_split": [3, 3], "split_score": 0.47783933509732696}
+{"sent": "yellow cake with one piece gone", "ann_id": 1085085, "best_split": [3, 3], "split_score": 0.47783933509732696}
+{"sent": "plain cake next to chocolate cake", "ann_id": 1085085, "best_split": [5, 1], "split_score": 0.18105340159280783}
+{"sent": "yellow cake with slice cut out", "ann_id": 1085085, "best_split": [3, 3], "split_score": 0.47783933509732696}
+{"sent": "cake with missing slices", "ann_id": 1084631, "best_split": [5, 1], "split_score": 0.40852575485156417}
+{"sent": "big chocolate cake", "ann_id": 1084631, "best_split": [5, 1], "split_score": 0.40852575485156417}
+{"sent": "chocolate cake on stand in foreground", "ann_id": 1084631, "best_split": [5, 1], "split_score": 0.40852575485156417}

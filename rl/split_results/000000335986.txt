@@ -1,0 +1,5 @@
+{"sent": "back of da bus", "ann_id": 167513, "best_split": [3, 2], "split_score": 0.7879669497511966}
+{"sent": "orange sign on bus", "ann_id": 167513, "best_split": [3, 2], "split_score": 0.7879669497511966}
+{"sent": "beginning half of bus", "ann_id": 166959, "best_split": [3, 2], "split_score": 0.5096525095910168}
+{"sent": "doors of bus", "ann_id": 166959, "best_split": [5, 1], "split_score": 0.25984251966178934}
+{"sent": "bus half farthest away", "ann_id": 166959, "best_split": [5, 1], "split_score": 0.25984251966178934}

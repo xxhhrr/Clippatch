@@ -1,0 +1,8 @@
+{"sent": "adult elephant that has visible face", "ann_id": 582785, "best_split": [2, 2], "split_score": 0.47756607250777633}
+{"sent": "adult elephant trunk", "ann_id": 582785, "best_split": [2, 2], "split_score": 0.47756607250777633}
+{"sent": "elephant butt behind or beside the baby one", "ann_id": 582305, "best_split": [1, 5], "split_score": 0.27848101263533775}
+{"sent": "elephant but", "ann_id": 582305, "best_split": [1, 5], "split_score": 0.27848101263533775}
+{"sent": "above baby", "ann_id": 582305, "best_split": [1, 5], "split_score": 0.27848101263533775}
+{"sent": "baby", "ann_id": 581225, "best_split": [1, 2], "split_score": 0.6130960803518786}
+{"sent": "little elephant", "ann_id": 581225, "best_split": [1, 2], "split_score": 0.6130960803518786}
+{"sent": "small elephant", "ann_id": 581225, "best_split": [1, 2], "split_score": 0.6130960803518786}

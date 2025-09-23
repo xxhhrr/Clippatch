@@ -1,0 +1,9 @@
+{"sent": "person with hand on blue bucket", "ann_id": 562804, "best_split": [1, 3], "split_score": 0.5161679536368142}
+{"sent": "woman with blue bucket on head", "ann_id": 562804, "best_split": [1, 3], "split_score": 0.5161679536368142}
+{"sent": "woman holding blue bucket", "ann_id": 562804, "best_split": [1, 3], "split_score": 0.5161679536368142}
+{"sent": "man looking awat", "ann_id": 474294, "best_split": [2, 2], "split_score": 0.29711991349724964}
+{"sent": "man facing away", "ann_id": 474294, "best_split": [2, 2], "split_score": 0.29711991349724964}
+{"sent": "black man head turned", "ann_id": 474294, "best_split": [1, 2], "split_score": 0.16960299744221927}
+{"sent": "woman looking at camea", "ann_id": 435260, "best_split": [3, 3], "split_score": 0.7139632860797527}
+{"sent": "black woman face who has bananas on head", "ann_id": 435260, "best_split": [1, 3], "split_score": 0.3568412161946886}
+{"sent": "woman with bananas on her head", "ann_id": 435260, "best_split": [1, 3], "split_score": 0.3568412161946886}

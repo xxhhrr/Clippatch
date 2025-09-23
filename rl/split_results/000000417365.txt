@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 461881, "best_split": [2, 1], "split_score": 0.42884125574710696}
+{"sent": "woman", "ann_id": 461881, "best_split": [2, 1], "split_score": 0.42884125574710696}
+{"sent": "white glasses", "ann_id": 461881, "best_split": [1, 2], "split_score": 0.7028649385844862}
+{"sent": "person wearing the necklace", "ann_id": 440615, "best_split": [1, 2], "split_score": 0.8256471287999982}
+{"sent": "bride", "ann_id": 440615, "best_split": [1, 2], "split_score": 0.8256471287999982}
+{"sent": "man in viel", "ann_id": 440615, "best_split": [1, 2], "split_score": 0.8256471287999982}

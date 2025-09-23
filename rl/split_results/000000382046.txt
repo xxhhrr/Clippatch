@@ -1,0 +1,6 @@
+{"sent": "elephant standing", "ann_id": 584554, "best_split": [1, 5], "split_score": 0.5280140803367546}
+{"sent": "standing elephant", "ann_id": 584554, "best_split": [1, 5], "split_score": 0.5280140803367546}
+{"sent": "elepahnt standing", "ann_id": 584554, "best_split": [1, 5], "split_score": 0.5280140803367546}
+{"sent": "rollin around", "ann_id": 582524, "best_split": [2, 2], "split_score": 0.5452354999400358}
+{"sent": "the animal that has fallen", "ann_id": 582524, "best_split": [2, 2], "split_score": 0.5452354999400358}
+{"sent": "laying", "ann_id": 582524, "best_split": [2, 2], "split_score": 0.5452354999400358}

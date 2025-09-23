@@ -1,0 +1,8 @@
+{"sent": "empty seat", "ann_id": 1939790, "best_split": [1, 3], "split_score": 0.2706672261692544}
+{"sent": "window by foot", "ann_id": 1708923, "best_split": [1, 2], "split_score": 0.167769451523925}
+{"sent": "brown thing near www", "ann_id": 1595512, "best_split": [1, 5], "split_score": 0.2558619395745768}
+{"sent": "part of board under the www", "ann_id": 1595512, "best_split": [1, 5], "split_score": 0.2558619395745768}
+{"sent": "red spot under www", "ann_id": 1595512, "best_split": [5, 1], "split_score": 0.23047233962226865}
+{"sent": "sleeping dude", "ann_id": 256249, "best_split": [2, 1], "split_score": 0.6200523388774383}
+{"sent": "guy passed out", "ann_id": 256249, "best_split": [2, 1], "split_score": 0.6200523388774383}
+{"sent": "hand on crotch", "ann_id": 256249, "best_split": [2, 1], "split_score": 0.6200523388774383}

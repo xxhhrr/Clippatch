@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 469535, "best_split": [1, 2], "split_score": 0.6548599670318057}
+{"sent": "man feeding girl", "ann_id": 469535, "best_split": [2, 1], "split_score": 0.3831325301110614}
+{"sent": "man", "ann_id": 469535, "best_split": [1, 2], "split_score": 0.6548599670318057}
+{"sent": "girl", "ann_id": 462953, "best_split": [3, 3], "split_score": 0.5677074040021931}
+{"sent": "baby", "ann_id": 462953, "best_split": [3, 3], "split_score": 0.5677074040021931}
+{"sent": "the baby", "ann_id": 462953, "best_split": [3, 3], "split_score": 0.5677074040021931}

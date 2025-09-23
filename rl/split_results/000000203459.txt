@@ -1,0 +1,5 @@
+{"sent": "full zebra not behind feeding thing", "ann_id": 1822758, "best_split": [2, 3], "split_score": 0.3814811650823028}
+{"sent": "zebra eating at 3 o clock", "ann_id": 1822758, "best_split": [2, 3], "split_score": 0.3814811650823028}
+{"sent": "zebra at 3 o clock", "ann_id": 1822758, "best_split": [2, 3], "split_score": 0.3814811650823028}
+{"sent": "feet behind eating thing", "ann_id": 590958, "best_split": [2, 2], "split_score": 0.4004106775887056}
+{"sent": "zebra lef", "ann_id": 590958, "best_split": [2, 2], "split_score": 0.4004106775887056}

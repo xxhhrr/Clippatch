@@ -1,0 +1,5 @@
+{"sent": "after player", "ann_id": 1762175, "best_split": [1, 3], "split_score": 0.5371621621297561}
+{"sent": "person whose ball is not fully on pole", "ann_id": 1762175, "best_split": [2, 1], "split_score": 0.16061185467902855}
+{"sent": "person in picture one", "ann_id": 1732969, "best_split": [1, 2], "split_score": 0.35714285712862154}
+{"sent": "player with end of fence showing", "ann_id": 1732969, "best_split": [1, 5], "split_score": 0.4237288135272602}
+{"sent": "man at 9 0 clock", "ann_id": 1732969, "best_split": [1, 2], "split_score": 0.35714285712862154}

@@ -1,0 +1,6 @@
+{"sent": "giraffe thats head is cropped out of the picture", "ann_id": 599922, "best_split": [1, 2], "split_score": 0.5250257997766697}
+{"sent": "partial giraffe", "ann_id": 599922, "best_split": [1, 2], "split_score": 0.5250257997766697}
+{"sent": "giraffe no head", "ann_id": 599922, "best_split": [1, 2], "split_score": 0.5250257997766697}
+{"sent": "head of giraffe", "ann_id": 599715, "best_split": [1, 3], "split_score": 0.8842208642031744}
+{"sent": "close giraffe", "ann_id": 599715, "best_split": [1, 3], "split_score": 0.8842208642031744}
+{"sent": "all of the giraffe", "ann_id": 599715, "best_split": [1, 3], "split_score": 0.8842208642031744}

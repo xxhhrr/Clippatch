@@ -1,0 +1,9 @@
+{"sent": "biggest piece of cake", "ann_id": 1928967, "best_split": [3, 2], "split_score": 0.49684845159654367}
+{"sent": "large piece of muffin", "ann_id": 1928967, "best_split": [3, 2], "split_score": 0.49684845159654367}
+{"sent": "big piece cake", "ann_id": 1928967, "best_split": [1, 2], "split_score": 0.4373698303913504}
+{"sent": "the slice that is flat on the plate", "ann_id": 1089589, "best_split": [2, 1], "split_score": 0.28906249998847805}
+{"sent": "bread laying flat", "ann_id": 1089589, "best_split": [2, 3], "split_score": 0.42857142853203056}
+{"sent": "most surface area", "ann_id": 1089589, "best_split": [2, 2], "split_score": 0.5781249999539122}
+{"sent": "2 piece of cake", "ann_id": 1088283, "best_split": [2, 3], "split_score": 0.43289529457966125}
+{"sent": "piece not laying all the way down", "ann_id": 1088283, "best_split": [2, 3], "split_score": 0.43289529457966125}
+{"sent": "slice above other", "ann_id": 1088283, "best_split": [3, 3], "split_score": 0.39591796290538805}

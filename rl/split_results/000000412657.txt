@@ -1,0 +1,6 @@
+{"sent": "computer monitor off", "ann_id": 1626328, "best_split": [3, 1], "split_score": 0.1317567567488081}
+{"sent": "computer screen behind guy", "ann_id": 1626328, "best_split": [3, 1], "split_score": 0.1317567567488081}
+{"sent": "monitor in back", "ann_id": 1626328, "best_split": [3, 2], "split_score": 0.2635135134817189}
+{"sent": "back of black monitor", "ann_id": 1626280, "best_split": [3, 3], "split_score": 0.8042280778912866}
+{"sent": "monitor not facing camera", "ann_id": 1626280, "best_split": [3, 2], "split_score": 0.8015202701735618}
+{"sent": "what person is looking at", "ann_id": 1626280, "best_split": [1, 2], "split_score": 0.26478794641801706}

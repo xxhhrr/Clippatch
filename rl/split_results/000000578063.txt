@@ -1,0 +1,9 @@
+{"sent": "half of sandwich by the weird looking round thing", "ann_id": 2119723, "best_split": [3, 2], "split_score": 0.3516746411082622}
+{"sent": "sandwich closest to cake", "ann_id": 2119723, "best_split": [3, 2], "split_score": 0.3516746411082622}
+{"sent": "sandwich half next to dessert", "ann_id": 2119723, "best_split": [3, 2], "split_score": 0.3516746411082622}
+{"sent": "food with yellow stuff", "ann_id": 2119292, "best_split": [3, 3], "split_score": 0.5267283272414597}
+{"sent": "sandwich close to beer", "ann_id": 2119292, "best_split": [3, 2], "split_score": 0.2779757661869488}
+{"sent": "the sandwich closest to the glass", "ann_id": 2119292, "best_split": [3, 3], "split_score": 0.5267283272414597}
+{"sent": "round pastry", "ann_id": 2119147, "best_split": [2, 2], "split_score": 0.2539859693675075}
+{"sent": "round pastry with jelly", "ann_id": 2119147, "best_split": [2, 2], "split_score": 0.2539859693675075}
+{"sent": "brown cupcake", "ann_id": 2119147, "best_split": [2, 2], "split_score": 0.2539859693675075}

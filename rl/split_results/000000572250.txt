@@ -1,0 +1,6 @@
+{"sent": "facing us", "ann_id": 600239, "best_split": [2, 3], "split_score": 0.39130434778776885}
+{"sent": "not the giraffe with his face on fence the one closest to us", "ann_id": 600239, "best_split": [1, 5], "split_score": 0.6006493505884081}
+{"sent": "tallest giraffe", "ann_id": 600239, "best_split": [1, 5], "split_score": 0.6006493505884081}
+{"sent": "shortest giraffe", "ann_id": 597898, "best_split": [2, 3], "split_score": 0.5928860714392599}
+{"sent": "giraffe coved by other giraffe", "ann_id": 597898, "best_split": [2, 3], "split_score": 0.5928860714392599}
+{"sent": "giraffe nearest fence", "ann_id": 597898, "best_split": [2, 3], "split_score": 0.5928860714392599}

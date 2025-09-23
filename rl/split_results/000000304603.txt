@@ -1,0 +1,6 @@
+{"sent": "boy in picture", "ann_id": 528168, "best_split": [1, 2], "split_score": 0.5902574257191977}
+{"sent": "kid watching tv", "ann_id": 528168, "best_split": [1, 2], "split_score": 0.5902574257191977}
+{"sent": "child", "ann_id": 528168, "best_split": [1, 2], "split_score": 0.5902574257191977}
+{"sent": "the oldest person", "ann_id": 455089, "best_split": [2, 1], "split_score": 0.3171398594627813}
+{"sent": "adult", "ann_id": 455089, "best_split": [1, 3], "split_score": 0.6304735486115279}
+{"sent": "adult", "ann_id": 455089, "best_split": [1, 3], "split_score": 0.6304735486115279}

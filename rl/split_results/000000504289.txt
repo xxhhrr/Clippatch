@@ -1,0 +1,6 @@
+{"sent": "horse with head down", "ann_id": 57613, "best_split": [5, 1], "split_score": 0.1801408325002103}
+{"sent": "horse eating grass", "ann_id": 57613, "best_split": [5, 1], "split_score": 0.1801408325002103}
+{"sent": "horse eating grass", "ann_id": 57613, "best_split": [5, 1], "split_score": 0.1801408325002103}
+{"sent": "horse facing you", "ann_id": 55187, "best_split": [1, 2], "split_score": 0.5213541666496955}
+{"sent": "horse closest to the camera", "ann_id": 55187, "best_split": [1, 2], "split_score": 0.5213541666496955}
+{"sent": "whiter horse", "ann_id": 55187, "best_split": [1, 2], "split_score": 0.5213541666496955}

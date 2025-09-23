@@ -1,0 +1,6 @@
+{"sent": "parking meter almost off screen", "ann_id": 418586, "best_split": [1, 3], "split_score": 0.5124276061466924}
+{"sent": "meter closer to passenger side of car", "ann_id": 418586, "best_split": [3, 1], "split_score": 0.2240015623364905}
+{"sent": "meter at the edge half cover", "ann_id": 418586, "best_split": [1, 2], "split_score": 0.3385682397824231}
+{"sent": "nearest meter head", "ann_id": 418237, "best_split": [1, 2], "split_score": 0.3264402748306541}
+{"sent": "you can see this entire parking meter", "ann_id": 418237, "best_split": [1, 2], "split_score": 0.3264402748306541}
+{"sent": "mini meter nearest", "ann_id": 418237, "best_split": [1, 2], "split_score": 0.3264402748306541}

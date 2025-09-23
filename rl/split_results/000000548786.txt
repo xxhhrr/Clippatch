@@ -1,0 +1,5 @@
+{"sent": "sandwich that is under the other sandwhich", "ann_id": 1555237, "best_split": [2, 3], "split_score": 0.26773761710960625}
+{"sent": "lower sandwich", "ann_id": 1555237, "best_split": [2, 3], "split_score": 0.26773761710960625}
+{"sent": "sandwich half above the others", "ann_id": 1553663, "best_split": [3, 3], "split_score": 0.7947406864874469}
+{"sent": "bigger sandwich", "ann_id": 1553663, "best_split": [3, 3], "split_score": 0.7947406864874469}
+{"sent": "sandwhich above others", "ann_id": 1553663, "best_split": [3, 3], "split_score": 0.7947406864874469}

@@ -1,0 +1,11 @@
+{"sent": "pointy shoes", "ann_id": 228695, "best_split": [3, 3], "split_score": 0.5433191488436904}
+{"sent": "blue pants crossed legs", "ann_id": 228695, "best_split": [3, 2], "split_score": 0.4332770269747494}
+{"sent": "white shoes blue jeans", "ann_id": 228695, "best_split": [3, 2], "split_score": 0.4332770269747494}
+{"sent": "legs standing", "ann_id": 188095, "best_split": [3, 3], "split_score": 0.5895914560790657}
+{"sent": "man standing black shoes blue jeans", "ann_id": 188095, "best_split": [3, 3], "split_score": 0.5895914560790657}
+{"sent": "golden retreiver", "ann_id": 14800, "best_split": [5, 1], "split_score": 0.4728958630106191}
+{"sent": "brown dog laying", "ann_id": 14800, "best_split": [5, 1], "split_score": 0.4728958630106191}
+{"sent": "brown dog", "ann_id": 14800, "best_split": [5, 1], "split_score": 0.4728958630106191}
+{"sent": "black and white dog", "ann_id": 1999, "best_split": [1, 3], "split_score": 0.5380473996482185}
+{"sent": "black dog", "ann_id": 1999, "best_split": [1, 3], "split_score": 0.5380473996482185}
+{"sent": "dog in black", "ann_id": 1999, "best_split": [1, 3], "split_score": 0.5380473996482185}

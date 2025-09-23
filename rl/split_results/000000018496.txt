@@ -1,0 +1,6 @@
+{"sent": "farthest bench", "ann_id": 575642, "best_split": [3, 3], "split_score": 0.16901965956339626}
+{"sent": "not the closest bench", "ann_id": 575642, "best_split": [5, 1], "split_score": 0.28220027113284907}
+{"sent": "bench by fence", "ann_id": 575642, "best_split": [5, 1], "split_score": 0.28220027113284907}
+{"sent": "couch with gold flakes in sunlight", "ann_id": 574798, "best_split": [3, 2], "split_score": 0.7666604442069572}
+{"sent": "wood closest to you", "ann_id": 574798, "best_split": [3, 2], "split_score": 0.7666604442069572}
+{"sent": "bench closest to us", "ann_id": 574798, "best_split": [2, 2], "split_score": 0.620805369084116}

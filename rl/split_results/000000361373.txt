@@ -1,0 +1,6 @@
+{"sent": "couch not chair", "ann_id": 117442, "best_split": [5, 1], "split_score": 0.2821523512437297}
+{"sent": "area next to striped blanket", "ann_id": 117442, "best_split": [3, 3], "split_score": 0.46158527301664604}
+{"sent": "part of couch by bookshelf", "ann_id": 117442, "best_split": [2, 3], "split_score": 0.4365529207129493}
+{"sent": "couch without person in it", "ann_id": 117042, "best_split": [3, 3], "split_score": 0.39450564769285934}
+{"sent": "couch in background", "ann_id": 117042, "best_split": [3, 3], "split_score": 0.39450564769285934}
+{"sent": "brown chair", "ann_id": 117042, "best_split": [3, 3], "split_score": 0.39450564769285934}

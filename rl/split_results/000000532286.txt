@@ -1,0 +1,11 @@
+{"sent": "guy in red and white", "ann_id": 479421, "best_split": [1, 5], "split_score": 0.6878106080520637}
+{"sent": "guy in white shirt red trim", "ann_id": 479421, "best_split": [1, 2], "split_score": 0.35168207906761473}
+{"sent": "red piping on white shirt", "ann_id": 479421, "best_split": [1, 2], "split_score": 0.35168207906761473}
+{"sent": "guy in black near the background guy with bluetooth", "ann_id": 458468, "best_split": [3, 1], "split_score": 0.26545684742216413}
+{"sent": "man in all black next to white jersey", "ann_id": 458468, "best_split": [3, 2], "split_score": 0.47169103857595696}
+{"sent": "black shirt without food", "ann_id": 458468, "best_split": [3, 3], "split_score": 0.2165376628075762}
+{"sent": "guy holding food doofus expression", "ann_id": 430226, "best_split": [1, 5], "split_score": 0.49898226224927433}
+{"sent": "black shirt with food in hand", "ann_id": 430226, "best_split": [1, 5], "split_score": 0.49898226224927433}
+{"sent": "black shirt funny face holding food", "ann_id": 430226, "best_split": [1, 5], "split_score": 0.49898226224927433}
+{"sent": "head closest to camera black shirt", "ann_id": 1747238, "best_split": [1, 5], "split_score": 0.6240528462576207}
+{"sent": "man with hair that is almost shoulder length", "ann_id": 1747238, "best_split": [1, 5], "split_score": 0.6240528462576207}

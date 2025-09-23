@@ -1,0 +1,6 @@
+{"sent": "girl in black", "ann_id": 1247168, "best_split": [1, 5], "split_score": 0.38681446904593975}
+{"sent": "cow in black shirt", "ann_id": 1247168, "best_split": [3, 2], "split_score": 0.3462259937162817}
+{"sent": "girl with checkered shorts", "ann_id": 1247168, "best_split": [1, 5], "split_score": 0.38681446904593975}
+{"sent": "pink dress", "ann_id": 1237999, "best_split": [2, 3], "split_score": 0.3925233644481623}
+{"sent": "lady in pink", "ann_id": 1237999, "best_split": [2, 3], "split_score": 0.3925233644481623}
+{"sent": "pink clothed lady", "ann_id": 1237999, "best_split": [2, 3], "split_score": 0.3925233644481623}

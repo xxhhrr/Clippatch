@@ -1,0 +1,5 @@
+{"sent": "keyboard", "ann_id": 1634106, "best_split": [2, 1], "split_score": 0.0019875169984313427}
+{"sent": "furthest keyboard partially cut off", "ann_id": 1634106, "best_split": [2, 1], "split_score": 0.0019875169984313427}
+{"sent": "black keyboard closest to mouse", "ann_id": 1117414, "best_split": [3, 3], "split_score": 0.7456310678405127}
+{"sent": "number keyboard", "ann_id": 1117414, "best_split": [3, 3], "split_score": 0.7456310678405127}
+{"sent": "keyboard", "ann_id": 1117414, "best_split": [3, 3], "split_score": 0.7456310678405127}

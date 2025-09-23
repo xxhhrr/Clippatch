@@ -1,0 +1,5 @@
+{"sent": "zebra completely facing us", "ann_id": 593326, "best_split": [3, 2], "split_score": 0.5450787401038308}
+{"sent": "zebra with head down", "ann_id": 593326, "best_split": [3, 2], "split_score": 0.5450787401038308}
+{"sent": "fully visible zebra", "ann_id": 593024, "best_split": [1, 3], "split_score": 0.39174867522749107}
+{"sent": "zebra", "ann_id": 593024, "best_split": [1, 3], "split_score": 0.39174867522749107}
+{"sent": "zebra looking at us", "ann_id": 593024, "best_split": [1, 3], "split_score": 0.39174867522749107}

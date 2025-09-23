@@ -1,0 +1,5 @@
+{"sent": "super fuzzy in a brown jacket", "ann_id": 510188, "best_split": [1, 5], "split_score": 0.5126826298181125}
+{"sent": "blurry in brown jacket", "ann_id": 510188, "best_split": [1, 5], "split_score": 0.5126826298181125}
+{"sent": "hand", "ann_id": 508761, "best_split": [2, 3], "split_score": 0.9431804644498891}
+{"sent": "the hand holding the phone", "ann_id": 508761, "best_split": [2, 3], "split_score": 0.9431804644498891}
+{"sent": "hand holding phone", "ann_id": 508761, "best_split": [2, 3], "split_score": 0.9431804644498891}

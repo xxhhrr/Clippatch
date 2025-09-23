@@ -1,0 +1,11 @@
+{"sent": "green salad near chowder", "ann_id": 1039402, "best_split": [3, 3], "split_score": 0.6059278052582253}
+{"sent": "salad at 9 o clock", "ann_id": 1039402, "best_split": [3, 3], "split_score": 0.6059278052582253}
+{"sent": "salad container closest to the ranch dip stuff", "ann_id": 1039402, "best_split": [3, 3], "split_score": 0.6059278052582253}
+{"sent": "bowl with red sauce near crackers", "ann_id": 1038959, "best_split": [2, 3], "split_score": 0.3996426443972056}
+{"sent": "boul with mostly red food", "ann_id": 1038959, "best_split": [3, 3], "split_score": 0.4279133074622643}
+{"sent": "middle bowl", "ann_id": 1038959, "best_split": [1, 3], "split_score": 0.3538747810664473}
+{"sent": "looks like bowl with pineapple and white stuff", "ann_id": 714791, "best_split": [2, 2], "split_score": 0.5062580595838384}
+{"sent": "the bowl by the banana", "ann_id": 714791, "best_split": [2, 2], "split_score": 0.5062580595838384}
+{"sent": "clam chowder", "ann_id": 710783, "best_split": [2, 3], "split_score": 0.5168453292001488}
+{"sent": "closest bowl with white in it", "ann_id": 710783, "best_split": [3, 1], "split_score": 0.34687499998064314}
+{"sent": "bowl of some kind of creamy dip", "ann_id": 710783, "best_split": [2, 3], "split_score": 0.5168453292001488}

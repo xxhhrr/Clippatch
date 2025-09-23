@@ -1,0 +1,17 @@
+{"sent": "all white guy", "ann_id": 537082, "best_split": [1, 5], "split_score": 0.43589743585377627}
+{"sent": "guy on end in white", "ann_id": 537082, "best_split": [2, 3], "split_score": 0.39343009926951544}
+{"sent": "last kid", "ann_id": 537082, "best_split": [2, 1], "split_score": 0.1388514424319666}
+{"sent": "skinny boy standing apart", "ann_id": 520833, "best_split": [2, 1], "split_score": 0.11267605633366831}
+{"sent": "next to blue pants but not one in eagle", "ann_id": 520833, "best_split": [2, 1], "split_score": 0.11267605633366831}
+{"sent": "kid with blue pants", "ann_id": 520387, "best_split": [2, 1], "split_score": 0.14539579967130564}
+{"sent": "blue jeans", "ann_id": 520387, "best_split": [2, 3], "split_score": 0.37858508600184987}
+{"sent": "kid in blue jeans", "ann_id": 520387, "best_split": [2, 3], "split_score": 0.37858508600184987}
+{"sent": "eagle on shirt", "ann_id": 512729, "best_split": [1, 5], "split_score": 0.3975783047735837}
+{"sent": "kid with blue eagle on shirt", "ann_id": 512729, "best_split": [1, 5], "split_score": 0.3975783047735837}
+{"sent": "bird on shirt", "ann_id": 512729, "best_split": [1, 5], "split_score": 0.3975783047735837}
+{"sent": "second person", "ann_id": 498862, "best_split": [2, 2], "split_score": 0.1879474940193953}
+{"sent": "closest to man in gray", "ann_id": 498862, "best_split": [1, 5], "split_score": 0.34334415580931976}
+{"sent": "guy 2", "ann_id": 498862, "best_split": [1, 5], "split_score": 0.34334415580931976}
+{"sent": "trainer grown man with blue shirt", "ann_id": 465240, "best_split": [2, 3], "split_score": 0.344657195764396}
+{"sent": "man green shirt", "ann_id": 465240, "best_split": [2, 3], "split_score": 0.344657195764396}
+{"sent": "man in blue", "ann_id": 465240, "best_split": [1, 5], "split_score": 0.3013698629868911}

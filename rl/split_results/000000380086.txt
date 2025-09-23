@@ -1,0 +1,5 @@
+{"sent": "number 1", "ann_id": 600026, "best_split": [1, 5], "split_score": 0.49231598810378024}
+{"sent": "girraffe at 9", "ann_id": 600026, "best_split": [1, 3], "split_score": 0.5269841269562442}
+{"sent": "beginning giraffe", "ann_id": 600026, "best_split": [1, 3], "split_score": 0.5269841269562442}
+{"sent": "shorter of the two giraffes", "ann_id": 595080, "best_split": [3, 1], "split_score": 0.26452739212467674}
+{"sent": "zebra with duck under", "ann_id": 595080, "best_split": [3, 1], "split_score": 0.26452739212467674}

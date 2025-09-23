@@ -1,0 +1,8 @@
+{"sent": "moving boat", "ann_id": 177229, "best_split": [2, 3], "split_score": 0.21871820953784127}
+{"sent": "only boat going", "ann_id": 177229, "best_split": [2, 3], "split_score": 0.21871820953784127}
+{"sent": "the two people on the boat", "ann_id": 177229, "best_split": [2, 3], "split_score": 0.21871820953784127}
+{"sent": "boat on side with blue object hangin off", "ann_id": 176487, "best_split": [3, 2], "split_score": 0.30888030884304046}
+{"sent": "blue and white boat", "ann_id": 176487, "best_split": [3, 2], "split_score": 0.30888030884304046}
+{"sent": "boat docked biggest one", "ann_id": 176487, "best_split": [3, 2], "split_score": 0.30888030884304046}
+{"sent": "boat least visible near to camera", "ann_id": 175345, "best_split": [3, 1], "split_score": 0.15833483726413194}
+{"sent": "blue boat closest to camera cut off", "ann_id": 175345, "best_split": [2, 2], "split_score": 0.21356823977889283}

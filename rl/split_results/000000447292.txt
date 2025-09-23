@@ -1,0 +1,17 @@
+{"sent": "white shirt on bench", "ann_id": 1221403, "best_split": [1, 2], "split_score": 0.2345855127502542}
+{"sent": "white shirt guy next to green shirt", "ann_id": 1221403, "best_split": [1, 3], "split_score": 0.31896551722280025}
+{"sent": "guy in white surrounded by blue and teal shirt", "ann_id": 1221403, "best_split": [2, 3], "split_score": 0.2890365448245455}
+{"sent": "second row guy with glasses", "ann_id": 537945, "best_split": [2, 3], "split_score": 0.20598919108656072}
+{"sent": "black shirt and sunglasses", "ann_id": 537945, "best_split": [1, 5], "split_score": 0.3569321533604244}
+{"sent": "black shirt", "ann_id": 537945, "best_split": [3, 2], "split_score": 0.27119910344871134}
+{"sent": "kid above white shirt capped dude hes wearing blue", "ann_id": 477269, "best_split": [1, 5], "split_score": 0.31585220497458755}
+{"sent": "blue shirt no glasses", "ann_id": 477269, "best_split": [1, 5], "split_score": 0.31585220497458755}
+{"sent": "guy in blue with white stripes", "ann_id": 477269, "best_split": [1, 5], "split_score": 0.31585220497458755}
+{"sent": "yellow shirt sunglasses", "ann_id": 1714245, "best_split": [3, 3], "split_score": 0.4471011697586963}
+{"sent": "yellow kid almost standing", "ann_id": 1714245, "best_split": [3, 2], "split_score": 0.3283920309386845}
+{"sent": "boy on nee and oe knee ifted nearest ball basket", "ann_id": 1714245, "best_split": [1, 3], "split_score": 0.3487572393611995}
+{"sent": "biggest boy in white shirt", "ann_id": 443300, "best_split": [2, 1], "split_score": 0.41873486080217864}
+{"sent": "white shirt with stripes on the sleeves", "ann_id": 443300, "best_split": [2, 2], "split_score": 0.5602665051106893}
+{"sent": "yellow isb", "ann_id": 425827, "best_split": [2, 3], "split_score": 0.3692307691977432}
+{"sent": "boy in yellow that is not at the end", "ann_id": 425827, "best_split": [2, 3], "split_score": 0.3692307691977432}
+{"sent": "yellow jersey looking down and away", "ann_id": 425827, "best_split": [2, 3], "split_score": 0.3692307691977432}

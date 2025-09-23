@@ -1,0 +1,5 @@
+{"sent": "white circle", "ann_id": 338810, "best_split": [3, 3], "split_score": 0.6683710736544245}
+{"sent": "i dont see numbers or hands its the lower clock face", "ann_id": 338810, "best_split": [2, 3], "split_score": 0.4416023165490344}
+{"sent": "face of clock with two circles", "ann_id": 335381, "best_split": [3, 3], "split_score": 0.8075237398087064}
+{"sent": "upper clock", "ann_id": 335381, "best_split": [3, 3], "split_score": 0.8075237398087064}
+{"sent": "clock face", "ann_id": 335381, "best_split": [3, 3], "split_score": 0.8075237398087064}

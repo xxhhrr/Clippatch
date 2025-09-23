@@ -1,0 +1,6 @@
+{"sent": "pizza", "ann_id": 1077963, "best_split": [2, 1], "split_score": 0.4842667318724165}
+{"sent": "pizza", "ann_id": 1077963, "best_split": [2, 1], "split_score": 0.4842667318724165}
+{"sent": "whole pizza", "ann_id": 1077963, "best_split": [2, 1], "split_score": 0.4842667318724165}
+{"sent": "slice at 900", "ann_id": 1077828, "best_split": [3, 1], "split_score": 0.30767374515518375}
+{"sent": "slice at 8", "ann_id": 1077744, "best_split": [2, 1], "split_score": 0.3727829503886153}
+{"sent": "slice at 8 pm", "ann_id": 1077744, "best_split": [1, 3], "split_score": 0.4007034757069143}

@@ -1,0 +1,4 @@
+{"sent": "car over mans shoulder on flower side", "ann_id": 350218, "best_split": [2, 3], "split_score": 0.5854430379085168}
+{"sent": "car behind tree", "ann_id": 348133, "best_split": [5, 1], "split_score": 0.31999999997090905}
+{"sent": "car behind the tree", "ann_id": 348133, "best_split": [5, 1], "split_score": 0.31999999997090905}
+{"sent": "the gray car next to the man in blue jeans in the background", "ann_id": 348133, "best_split": [5, 1], "split_score": 0.31999999997090905}

@@ -1,0 +1,6 @@
+{"sent": "man in light blue", "ann_id": 520255, "best_split": [1, 2], "split_score": 0.3785772138101182}
+{"sent": "guy in blue shirt holding pizza", "ann_id": 520255, "best_split": [1, 3], "split_score": 0.42571201832176564}
+{"sent": "man in blue", "ann_id": 520255, "best_split": [1, 2], "split_score": 0.3785772138101182}
+{"sent": "boy with black shirt", "ann_id": 445135, "best_split": [1, 5], "split_score": 0.5621158759365986}
+{"sent": "black shirt", "ann_id": 445135, "best_split": [1, 5], "split_score": 0.5621158759365986}
+{"sent": "black shirt", "ann_id": 445135, "best_split": [1, 5], "split_score": 0.5621158759365986}

@@ -1,0 +1,8 @@
+{"sent": "the lowest bus", "ann_id": 169021, "best_split": [1, 3], "split_score": 0.7919240952784684}
+{"sent": "would lose if a race", "ann_id": 169021, "best_split": [2, 3], "split_score": 0.5000619962492212}
+{"sent": "half bus osest to us", "ann_id": 169021, "best_split": [1, 3], "split_score": 0.7919240952784684}
+{"sent": "bus in position 2", "ann_id": 165444, "best_split": [1, 2], "split_score": 0.6189591077861472}
+{"sent": "185 bus", "ann_id": 165444, "best_split": [1, 2], "split_score": 0.6189591077861472}
+{"sent": "back end of bus", "ann_id": 165208, "best_split": [2, 2], "split_score": 0.6397515527595523}
+{"sent": "bus that you can not see stop sign on", "ann_id": 165208, "best_split": [2, 2], "split_score": 0.6397515527595523}
+{"sent": "dont see drvers part", "ann_id": 165208, "best_split": [1, 2], "split_score": 0.6785714285443809}

@@ -1,0 +1,9 @@
+{"sent": "person in white pants", "ann_id": 530325, "best_split": [2, 3], "split_score": 0.34389895134128945}
+{"sent": "white and blue", "ann_id": 530325, "best_split": [1, 3], "split_score": 0.18038127412039207}
+{"sent": "guy with white pants", "ann_id": 530325, "best_split": [2, 3], "split_score": 0.34389895134128945}
+{"sent": "person in all dark", "ann_id": 1745650, "best_split": [1, 5], "split_score": 0.5320616882577047}
+{"sent": "guy in all black", "ann_id": 1745650, "best_split": [1, 5], "split_score": 0.5320616882577047}
+{"sent": "guy behind girl with purple and pink striped jacket at 800", "ann_id": 1745650, "best_split": [2, 3], "split_score": 0.452866652302677}
+{"sent": "someone with brown and pink clothes", "ann_id": 459720, "best_split": [2, 3], "split_score": 0.5255122538644523}
+{"sent": "girl in olive coat with pink stripes", "ann_id": 459720, "best_split": [2, 3], "split_score": 0.5255122538644523}
+{"sent": "olive and pink colored acket", "ann_id": 459720, "best_split": [2, 3], "split_score": 0.5255122538644523}

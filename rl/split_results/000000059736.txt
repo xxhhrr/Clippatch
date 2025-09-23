@@ -1,0 +1,5 @@
+{"sent": "bear 3", "ann_id": 1161884, "best_split": [1, 3], "split_score": 0.5381557257569012}
+{"sent": "bear at 4 o clock", "ann_id": 1161884, "best_split": [1, 3], "split_score": 0.5381557257569012}
+{"sent": "bear with shirt", "ann_id": 1161265, "best_split": [2, 1], "split_score": 0.7541454081332053}
+{"sent": "bear with red shirt", "ann_id": 1161265, "best_split": [2, 1], "split_score": 0.7541454081332053}
+{"sent": "bear in shirt", "ann_id": 1161265, "best_split": [2, 1], "split_score": 0.7541454081332053}

@@ -1,0 +1,9 @@
+{"sent": "holding leafs", "ann_id": 2151941, "best_split": [1, 3], "split_score": 0.5327868852163942}
+{"sent": "wearing hat", "ann_id": 2151941, "best_split": [1, 3], "split_score": 0.5327868852163942}
+{"sent": "woman in ball cap", "ann_id": 2151941, "best_split": [1, 3], "split_score": 0.5327868852163942}
+{"sent": "pumpkin", "ann_id": 542728, "best_split": [1, 5], "split_score": 0.6073414904967948}
+{"sent": "guy holding pumpkin", "ann_id": 542728, "best_split": [1, 5], "split_score": 0.6073414904967948}
+{"sent": "pumpkin guy", "ann_id": 542728, "best_split": [1, 5], "split_score": 0.6073414904967948}
+{"sent": "hoodie", "ann_id": 523455, "best_split": [1, 3], "split_score": 0.7293677605737592}
+{"sent": "woman with hood up holding broccoli", "ann_id": 523455, "best_split": [1, 2], "split_score": 0.4819036989603833}
+{"sent": "woman in dark blue with her hood up", "ann_id": 523455, "best_split": [1, 2], "split_score": 0.4819036989603833}

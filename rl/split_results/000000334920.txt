@@ -1,0 +1,5 @@
+{"sent": "blue bowl cover closest to you", "ann_id": 1802192, "best_split": [3, 3], "split_score": 0.6583737863078923}
+{"sent": "closest buffet", "ann_id": 1802192, "best_split": [3, 3], "split_score": 0.6583737863078923}
+{"sent": "blue bowl under umbrella", "ann_id": 1802192, "best_split": [2, 2], "split_score": 0.22850122848563328}
+{"sent": "boat near umbrella", "ann_id": 1376106, "best_split": [2, 1], "split_score": 0.27873883927460386}
+{"sent": "boat with alot of foood on it close to us", "ann_id": 1376106, "best_split": [1, 2], "split_score": 0.24133261104158285}

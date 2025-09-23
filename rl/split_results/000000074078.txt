@@ -1,0 +1,4 @@
+{"sent": "light plaid chair", "ann_id": 114149, "best_split": [2, 3], "split_score": 0.7379804865712964}
+{"sent": "red and blue couch", "ann_id": 99521, "best_split": [3, 2], "split_score": 0.6682079915662007}
+{"sent": "near couch", "ann_id": 99521, "best_split": [3, 1], "split_score": 0.6535352316208051}
+{"sent": "blue plaid couch", "ann_id": 99521, "best_split": [3, 1], "split_score": 0.6535352316208051}

@@ -1,0 +1,6 @@
+{"sent": "guy kneeling nearest white stripe double white stripes", "ann_id": 1232848, "best_split": [1, 5], "split_score": 0.37294932552196963}
+{"sent": "player with black gloves on", "ann_id": 1232848, "best_split": [3, 2], "split_score": 0.29919137463427115}
+{"sent": "player nearest to home plate kneeling", "ann_id": 1232848, "best_split": [2, 2], "split_score": 0.2443572129367477}
+{"sent": "keeling on end closest to us", "ann_id": 1278093, "best_split": [2, 2], "split_score": 0.4789348427041272}
+{"sent": "closest player kneeling on the line", "ann_id": 1278093, "best_split": [2, 3], "split_score": 0.3340690636999595}
+{"sent": "guy kneeling close to camera", "ann_id": 1278093, "best_split": [2, 2], "split_score": 0.4789348427041272}

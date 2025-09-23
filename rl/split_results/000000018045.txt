@@ -1,0 +1,6 @@
+{"sent": "the sprinkle doughnut behind the whole one", "ann_id": 1574979, "best_split": [3, 3], "split_score": 0.5933162891538867}
+{"sent": "doughnut behind", "ann_id": 1574979, "best_split": [2, 3], "split_score": 0.39201254821524945}
+{"sent": "donut you can see half of", "ann_id": 1574979, "best_split": [2, 3], "split_score": 0.39201254821524945}
+{"sent": "closest full donut", "ann_id": 1572329, "best_split": [3, 3], "split_score": 0.4439382806107365}
+{"sent": "oops close doghnut to screen", "ann_id": 1572329, "best_split": [2, 3], "split_score": 0.37101323493480004}
+{"sent": "donut looking at us", "ann_id": 1572329, "best_split": [3, 3], "split_score": 0.4439382806107365}

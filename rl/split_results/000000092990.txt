@@ -1,0 +1,6 @@
+{"sent": "no hat", "ann_id": 2158517, "best_split": [2, 1], "split_score": 0.17627503670176814}
+{"sent": "shorter one", "ann_id": 2158517, "best_split": [1, 2], "split_score": 0.6924426020132157}
+{"sent": "man with tight shirt", "ann_id": 2158517, "best_split": [1, 2], "split_score": 0.6924426020132157}
+{"sent": "man in all black shirt blue hat", "ann_id": 483183, "best_split": [1, 2], "split_score": 0.6650988520143056}
+{"sent": "man in blue cap", "ann_id": 483183, "best_split": [1, 2], "split_score": 0.6650988520143056}
+{"sent": "blue hat man", "ann_id": 483183, "best_split": [1, 2], "split_score": 0.6650988520143056}

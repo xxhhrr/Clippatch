@@ -1,0 +1,5 @@
+{"sent": "running horse", "ann_id": 56936, "best_split": [2, 3], "split_score": 0.5108929118969858}
+{"sent": "front horse", "ann_id": 56936, "best_split": [2, 3], "split_score": 0.5108929118969858}
+{"sent": "smaller horse", "ann_id": 56936, "best_split": [2, 3], "split_score": 0.5108929118969858}
+{"sent": "horse with flowing mane", "ann_id": 56085, "best_split": [3, 2], "split_score": 0.5477874649985369}
+{"sent": "horse in rear", "ann_id": 56085, "best_split": [3, 2], "split_score": 0.5477874649985369}

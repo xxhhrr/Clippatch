@@ -1,0 +1,13 @@
+{"sent": "chair in corner above man in our corner", "ann_id": 180764, "best_split": [1, 5], "split_score": 0.3531168346068387}
+{"sent": "boat at edge 2 o clock", "ann_id": 180764, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "part of the white boat under the blue canopy", "ann_id": 180380, "best_split": [1, 3], "split_score": 0.21277017647170482}
+{"sent": "white boat above main and under blue one", "ann_id": 180380, "best_split": [1, 5], "split_score": 0.1679831490147457}
+{"sent": "boat underneath blue tarp", "ann_id": 180380, "best_split": [1, 5], "split_score": 0.1679831490147457}
+{"sent": "boat with dogs", "ann_id": 178026, "best_split": [2, 1], "split_score": 0.6646062144526572}
+{"sent": "boat", "ann_id": 178026, "best_split": [2, 1], "split_score": 0.6646062144526572}
+{"sent": "dark dog looking over rail", "ann_id": 17451, "best_split": [3, 2], "split_score": 0.25951557090619426}
+{"sent": "dog sitting", "ann_id": 17451, "best_split": [3, 2], "split_score": 0.25951557090619426}
+{"sent": "dog facing this way", "ann_id": 17451, "best_split": [3, 2], "split_score": 0.25951557090619426}
+{"sent": "dog with back to us", "ann_id": 14586, "best_split": [3, 3], "split_score": 0.38577456293161927}
+{"sent": "black dog butt", "ann_id": 14586, "best_split": [3, 3], "split_score": 0.38577456293161927}
+{"sent": "dog butt", "ann_id": 14586, "best_split": [3, 3], "split_score": 0.38577456293161927}

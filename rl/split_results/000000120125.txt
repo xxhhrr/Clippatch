@@ -1,0 +1,5 @@
+{"sent": "purple table cloth closest to us", "ann_id": 2225651, "best_split": [1, 2], "split_score": 0.24633183693632815}
+{"sent": "table", "ann_id": 2225651, "best_split": [1, 2], "split_score": 0.24633183693632815}
+{"sent": "small empty white plate", "ann_id": 393299, "best_split": [3, 1], "split_score": 0.44443858443940515}
+{"sent": "table above pizza", "ann_id": 393299, "best_split": [1, 2], "split_score": 0.248261474261187}
+{"sent": "white plate in distance", "ann_id": 393299, "best_split": [3, 1], "split_score": 0.44443858443940515}

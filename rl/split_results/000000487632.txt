@@ -1,0 +1,5 @@
+{"sent": "closest red chair", "ann_id": 1935744, "best_split": [2, 3], "split_score": 0.6782094593776291}
+{"sent": "red chair away from wall", "ann_id": 1935744, "best_split": [2, 3], "split_score": 0.6782094593776291}
+{"sent": "red chair num 1", "ann_id": 1935744, "best_split": [2, 3], "split_score": 0.6782094593776291}
+{"sent": "red chair closest to white cabinet", "ann_id": 1932655, "best_split": [2, 2], "split_score": 0.3395810363569396}
+{"sent": "red chair closest to wall", "ann_id": 1932655, "best_split": [2, 2], "split_score": 0.3395810363569396}

@@ -1,0 +1,5 @@
+{"sent": "bowl with spoon in it", "ann_id": 1536882, "best_split": [2, 2], "split_score": 0.3169642856890175}
+{"sent": "jelly", "ann_id": 1536882, "best_split": [1, 5], "split_score": 0.2917444900736137}
+{"sent": "plate with knife on", "ann_id": 1536429, "best_split": [3, 3], "split_score": 0.5787680208940016}
+{"sent": "white plate", "ann_id": 1536429, "best_split": [3, 3], "split_score": 0.5787680208940016}
+{"sent": "white bowl of goo not knife", "ann_id": 1536429, "best_split": [3, 3], "split_score": 0.5787680208940016}

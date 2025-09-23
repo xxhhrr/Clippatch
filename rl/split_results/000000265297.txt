@@ -1,0 +1,6 @@
+{"sent": "cow near the water", "ann_id": 70414, "best_split": [3, 2], "split_score": 0.4491037131403005}
+{"sent": "profile", "ann_id": 70414, "best_split": [3, 3], "split_score": 0.36818701558020744}
+{"sent": "side view cow", "ann_id": 70414, "best_split": [3, 2], "split_score": 0.4491037131403005}
+{"sent": "cow looking at you", "ann_id": 70250, "best_split": [2, 3], "split_score": 0.30564784049771343}
+{"sent": "cow facing us", "ann_id": 70250, "best_split": [2, 3], "split_score": 0.30564784049771343}
+{"sent": "cow facing camera", "ann_id": 70250, "best_split": [2, 3], "split_score": 0.30564784049771343}

@@ -1,0 +1,6 @@
+{"sent": "the one leading", "ann_id": 1821100, "best_split": [2, 3], "split_score": 0.3474095102601659}
+{"sent": "lead elephant", "ann_id": 1821100, "best_split": [2, 2], "split_score": 0.44232623689323297}
+{"sent": "elephant behind", "ann_id": 1821100, "best_split": [2, 2], "split_score": 0.44232623689323297}
+{"sent": "elephant near cam", "ann_id": 1410007, "best_split": [2, 3], "split_score": 0.43469130614344875}
+{"sent": "closer elephant", "ann_id": 1410007, "best_split": [2, 3], "split_score": 0.43469130614344875}
+{"sent": "full elephant", "ann_id": 1410007, "best_split": [2, 3], "split_score": 0.43469130614344875}

@@ -1,0 +1,12 @@
+{"sent": "the black lamb", "ann_id": 1405540, "best_split": [3, 3], "split_score": 0.4251811141289715}
+{"sent": "black sheep", "ann_id": 1405540, "best_split": [3, 3], "split_score": 0.4251811141289715}
+{"sent": "black goat", "ann_id": 1405540, "best_split": [3, 3], "split_score": 0.4251811141289715}
+{"sent": "woman orange shirt", "ann_id": 211440, "best_split": [1, 2], "split_score": 0.7389987244603397}
+{"sent": "kneeling woman", "ann_id": 211440, "best_split": [3, 2], "split_score": 0.39685514941180594}
+{"sent": "orange shirt lady", "ann_id": 211440, "best_split": [1, 2], "split_score": 0.7389987244603397}
+{"sent": "baby boy", "ann_id": 193849, "best_split": [1, 5], "split_score": 0.7122302157691113}
+{"sent": "little kid trying to play with the sheep", "ann_id": 193849, "best_split": [3, 1], "split_score": 0.17619047618298508}
+{"sent": "baby boy", "ann_id": 193849, "best_split": [1, 5], "split_score": 0.7122302157691113}
+{"sent": "lamb", "ann_id": 61080, "best_split": [2, 2], "split_score": 0.5150905432281513}
+{"sent": "light sheep", "ann_id": 61080, "best_split": [2, 2], "split_score": 0.5150905432281513}
+{"sent": "sheep", "ann_id": 61080, "best_split": [2, 2], "split_score": 0.5150905432281513}

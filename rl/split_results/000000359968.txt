@@ -1,0 +1,9 @@
+{"sent": "carrots", "ann_id": 1040635, "best_split": [3, 3], "split_score": 0.37903736536114035}
+{"sent": "bowl next to the orange", "ann_id": 1040635, "best_split": [3, 3], "split_score": 0.37903736536114035}
+{"sent": "celery and carrots", "ann_id": 1040635, "best_split": [3, 3], "split_score": 0.37903736536114035}
+{"sent": "orange with blue fish", "ann_id": 1040156, "best_split": [2, 3], "split_score": 0.20809898760703982}
+{"sent": "looks like rolls in dish", "ann_id": 1040156, "best_split": [3, 2], "split_score": 0.3728163612726016}
+{"sent": "egg roll dish", "ann_id": 1040156, "best_split": [3, 2], "split_score": 0.3728163612726016}
+{"sent": "bowl that has strawberries in it", "ann_id": 1039699, "best_split": [3, 3], "split_score": 0.32708973995987}
+{"sent": "soup", "ann_id": 1039699, "best_split": [3, 3], "split_score": 0.32708973995987}
+{"sent": "middle bowl", "ann_id": 1039699, "best_split": [5, 1], "split_score": 0.18399044203925666}

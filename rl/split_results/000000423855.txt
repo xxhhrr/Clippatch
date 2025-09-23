@@ -1,0 +1,6 @@
+{"sent": "about to kick ball", "ann_id": 524904, "best_split": [1, 3], "split_score": 0.365975103712746}
+{"sent": "person in green", "ann_id": 524904, "best_split": [2, 3], "split_score": 0.4147651006313744}
+{"sent": "person near ball", "ann_id": 524904, "best_split": [1, 3], "split_score": 0.365975103712746}
+{"sent": "tubby dude in red", "ann_id": 513764, "best_split": [2, 3], "split_score": 0.48538601083598204}
+{"sent": "red shirt nearest", "ann_id": 513764, "best_split": [2, 3], "split_score": 0.48538601083598204}
+{"sent": "player in red", "ann_id": 513764, "best_split": [2, 3], "split_score": 0.48538601083598204}

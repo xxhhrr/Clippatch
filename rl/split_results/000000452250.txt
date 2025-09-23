@@ -1,0 +1,6 @@
+{"sent": "person in glasses", "ann_id": 1237550, "best_split": [1, 2], "split_score": 0.5245846547956442}
+{"sent": "woman in colored jacket", "ann_id": 1237550, "best_split": [1, 2], "split_score": 0.5245846547956442}
+{"sent": "spotted jacket", "ann_id": 1237550, "best_split": [1, 2], "split_score": 0.5245846547956442}
+{"sent": "corner head", "ann_id": 523690, "best_split": [1, 2], "split_score": 0.4285714285543458}
+{"sent": "high forehead", "ann_id": 523690, "best_split": [2, 3], "split_score": 0.7467889907571753}
+{"sent": "face getting haircut", "ann_id": 523690, "best_split": [2, 3], "split_score": 0.7467889907571753}

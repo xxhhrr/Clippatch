@@ -1,0 +1,5 @@
+{"sent": "closest animal", "ann_id": 69259, "best_split": [1, 2], "split_score": 0.4417096536314772}
+{"sent": "closest dark sheep", "ann_id": 69259, "best_split": [1, 2], "split_score": 0.4417096536314772}
+{"sent": "sheep between bales of hay", "ann_id": 64572, "best_split": [5, 1], "split_score": 0.3053977272417413}
+{"sent": "big sheep in hay bales", "ann_id": 64572, "best_split": [5, 1], "split_score": 0.3053977272417413}
+{"sent": "sheep between hay bales", "ann_id": 64572, "best_split": [5, 1], "split_score": 0.3053977272417413}

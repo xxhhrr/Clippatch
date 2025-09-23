@@ -1,0 +1,9 @@
+{"sent": "male in white shirt", "ann_id": 1753084, "best_split": [2, 3], "split_score": 0.5393563396142539}
+{"sent": "guy in white", "ann_id": 1753084, "best_split": [2, 1], "split_score": 0.20519250626179406}
+{"sent": "white shirt cmo pants", "ann_id": 1753084, "best_split": [2, 3], "split_score": 0.5393563396142539}
+{"sent": "taller guy in black", "ann_id": 457803, "best_split": [1, 5], "split_score": 0.4309050324238124}
+{"sent": "man in black without hat", "ann_id": 457803, "best_split": [1, 5], "split_score": 0.4309050324238124}
+{"sent": "man with sunglasses and black shirt", "ann_id": 457803, "best_split": [1, 5], "split_score": 0.4309050324238124}
+{"sent": "black shirt red shorts", "ann_id": 447817, "best_split": [2, 2], "split_score": 0.35046626034580614}
+{"sent": "dark guy closer to us", "ann_id": 447817, "best_split": [2, 3], "split_score": 0.3940828401978222}
+{"sent": "hat and shades", "ann_id": 447817, "best_split": [1, 3], "split_score": 0.27932450934052233}

@@ -1,0 +1,5 @@
+{"sent": "whole pie", "ann_id": 1086420, "best_split": [2, 2], "split_score": 0.5244327476687934}
+{"sent": "pie with slice missing", "ann_id": 1086420, "best_split": [2, 2], "split_score": 0.5244327476687934}
+{"sent": "slice of pie on plate", "ann_id": 1085698, "best_split": [2, 3], "split_score": 0.4091056910236499}
+{"sent": "piece of cake on plate closest to camera", "ann_id": 1085698, "best_split": [5, 1], "split_score": 0.4484978540428803}
+{"sent": "slice of pie", "ann_id": 1085698, "best_split": [2, 3], "split_score": 0.4091056910236499}

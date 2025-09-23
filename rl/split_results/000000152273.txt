@@ -1,0 +1,11 @@
+{"sent": "blue camera", "ann_id": 1977537, "best_split": [2, 2], "split_score": 0.30222292288331837}
+{"sent": "blue phone", "ann_id": 1977537, "best_split": [2, 2], "split_score": 0.30222292288331837}
+{"sent": "white phone", "ann_id": 1977356, "best_split": [3, 1], "split_score": 0.28474903473185637}
+{"sent": "silver cellphone", "ann_id": 1977356, "best_split": [3, 1], "split_score": 0.28474903473185637}
+{"sent": "white cell", "ann_id": 1977356, "best_split": [1, 5], "split_score": 0.17057500801713982}
+{"sent": "the black frame phone closest to the cup", "ann_id": 328489, "best_split": [1, 2], "split_score": 0.11112882652618268}
+{"sent": "furthest away from us", "ann_id": 328489, "best_split": [1, 2], "split_score": 0.11112882652618268}
+{"sent": "flip phone black nearest mug", "ann_id": 328489, "best_split": [5, 1], "split_score": 0.282873376594676}
+{"sent": "lowest phone", "ann_id": 321546, "best_split": [2, 3], "split_score": 0.5712774957094673}
+{"sent": "closest phone", "ann_id": 321546, "best_split": [2, 3], "split_score": 0.5712774957094673}
+{"sent": "closest phone", "ann_id": 321546, "best_split": [2, 3], "split_score": 0.5712774957094673}

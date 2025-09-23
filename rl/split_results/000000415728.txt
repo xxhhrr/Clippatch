@@ -1,0 +1,6 @@
+{"sent": "fake catcher", "ann_id": 536088, "best_split": [3, 1], "split_score": 0.14587239770441499}
+{"sent": "ump", "ann_id": 536088, "best_split": [3, 3], "split_score": 0.3128157541692117}
+{"sent": "catcher", "ann_id": 536088, "best_split": [3, 2], "split_score": 0.24250659417772308}
+{"sent": "fullcolor player", "ann_id": 525010, "best_split": [3, 1], "split_score": 0.22715781869685997}
+{"sent": "batter in color", "ann_id": 525010, "best_split": [1, 3], "split_score": 0.4735472679708615}
+{"sent": "red sox", "ann_id": 525010, "best_split": [1, 3], "split_score": 0.4735472679708615}

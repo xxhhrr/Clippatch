@@ -1,0 +1,9 @@
+{"sent": "man arm up", "ann_id": 473003, "best_split": [1, 3], "split_score": 0.43494704990085653}
+{"sent": "hand raised", "ann_id": 473003, "best_split": [1, 3], "split_score": 0.43494704990085653}
+{"sent": "man holding arm up", "ann_id": 473003, "best_split": [1, 3], "split_score": 0.43494704990085653}
+{"sent": "man with solid colored shirt", "ann_id": 450247, "best_split": [2, 1], "split_score": 0.21361072448122442}
+{"sent": "man in solid shirt", "ann_id": 450247, "best_split": [2, 1], "split_score": 0.21361072448122442}
+{"sent": "black shirt", "ann_id": 450247, "best_split": [2, 1], "split_score": 0.21361072448122442}
+{"sent": "smiling checked shirt", "ann_id": 438238, "best_split": [2, 3], "split_score": 0.5758456110628921}
+{"sent": "plaid shirt dark hair man", "ann_id": 438238, "best_split": [2, 3], "split_score": 0.5758456110628921}
+{"sent": "guy not standing straight up", "ann_id": 438238, "best_split": [2, 2], "split_score": 0.3994530012667732}

@@ -1,0 +1,3 @@
+{"sent": "bus", "ann_id": 168169, "best_split": [5, 1], "split_score": 0.26716738195036055}
+{"sent": "bus behind cows", "ann_id": 168169, "best_split": [3, 3], "split_score": 0.42077771322971885}
+{"sent": "white bus", "ann_id": 168169, "best_split": [3, 3], "split_score": 0.42077771322971885}

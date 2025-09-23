@@ -1,0 +1,6 @@
+{"sent": "adult", "ann_id": 600015, "best_split": [1, 2], "split_score": 0.5838249362012187}
+{"sent": "mother", "ann_id": 600015, "best_split": [1, 2], "split_score": 0.5838249362012187}
+{"sent": "larger giraffe", "ann_id": 600015, "best_split": [1, 2], "split_score": 0.5838249362012187}
+{"sent": "small giraffe", "ann_id": 599920, "best_split": [1, 5], "split_score": 0.5004812319100113}
+{"sent": "small giraffe", "ann_id": 599920, "best_split": [1, 5], "split_score": 0.5004812319100113}
+{"sent": "baby", "ann_id": 599920, "best_split": [1, 5], "split_score": 0.5004812319100113}

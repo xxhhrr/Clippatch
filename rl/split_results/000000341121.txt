@@ -1,0 +1,6 @@
+{"sent": "small bed", "ann_id": 317765, "best_split": [3, 1], "split_score": 0.39409067159725486}
+{"sent": "bed beside wall", "ann_id": 317765, "best_split": [3, 1], "split_score": 0.39409067159725486}
+{"sent": "far bed", "ann_id": 317765, "best_split": [3, 1], "split_score": 0.39409067159725486}
+{"sent": "main bed not smaller one", "ann_id": 317541, "best_split": [3, 1], "split_score": 0.39046075863598567}
+{"sent": "hugest bed", "ann_id": 317541, "best_split": [3, 1], "split_score": 0.39046075863598567}
+{"sent": "the biggest bed", "ann_id": 317541, "best_split": [3, 1], "split_score": 0.39046075863598567}

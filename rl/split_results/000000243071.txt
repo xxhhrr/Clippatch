@@ -1,0 +1,12 @@
+{"sent": "man without helmet", "ann_id": 227952, "best_split": [2, 2], "split_score": 0.1288515406088806}
+{"sent": "man standing next to bike", "ann_id": 227952, "best_split": [1, 5], "split_score": 0.5672025722951582}
+{"sent": "black shirt man", "ann_id": 227952, "best_split": [1, 5], "split_score": 0.5672025722951582}
+{"sent": "man in helmet", "ann_id": 227225, "best_split": [1, 3], "split_score": 0.6717482440969267}
+{"sent": "sitting", "ann_id": 227225, "best_split": [1, 2], "split_score": 0.5631776147734703}
+{"sent": "biker", "ann_id": 227225, "best_split": [1, 2], "split_score": 0.5631776147734703}
+{"sent": "half of the bike is in the pic", "ann_id": 150952, "best_split": [2, 2], "split_score": 0.19768000547754272}
+{"sent": "bike guy got off of with tire facing us", "ann_id": 150952, "best_split": [2, 2], "split_score": 0.19768000547754272}
+{"sent": "bike not primary focus", "ann_id": 150952, "best_split": [2, 2], "split_score": 0.19768000547754272}
+{"sent": "bike under rider", "ann_id": 150760, "best_split": [2, 1], "split_score": 0.5691996188491781}
+{"sent": "near bike", "ann_id": 150760, "best_split": [2, 1], "split_score": 0.5691996188491781}
+{"sent": "cycle with helmet man", "ann_id": 150760, "best_split": [2, 1], "split_score": 0.5691996188491781}

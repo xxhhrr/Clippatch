@@ -1,0 +1,9 @@
+{"sent": "the guy in the brown jacket wearing glasses", "ann_id": 495616, "best_split": [3, 1], "split_score": 0.2989551892129577}
+{"sent": "man with white shirt under his shirt", "ann_id": 495616, "best_split": [3, 2], "split_score": 0.48599682943413625}
+{"sent": "black not navy", "ann_id": 495616, "best_split": [1, 3], "split_score": 0.5303353574850739}
+{"sent": "stripes", "ann_id": 491469, "best_split": [1, 5], "split_score": 0.9165794729462019}
+{"sent": "stripes shirt", "ann_id": 491469, "best_split": [1, 5], "split_score": 0.9165794729462019}
+{"sent": "stripped shirt", "ann_id": 491469, "best_split": [1, 5], "split_score": 0.9165794729462019}
+{"sent": "dark blue jacket over light blue shirt", "ann_id": 455110, "best_split": [2, 2], "split_score": 0.6425192193493111}
+{"sent": "bald man in blue shirt", "ann_id": 455110, "best_split": [2, 2], "split_score": 0.6425192193493111}
+{"sent": "man looking at phone", "ann_id": 455110, "best_split": [1, 2], "split_score": 0.3856823979438105}

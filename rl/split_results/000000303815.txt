@@ -1,0 +1,9 @@
+{"sent": "guy wearing black sunglasses seen over shoulder", "ann_id": 1732771, "best_split": [3, 3], "split_score": 0.6791862283757142}
+{"sent": "man is sunglasses", "ann_id": 1732771, "best_split": [2, 1], "split_score": 0.06478102189553687}
+{"sent": "man in sunglasses", "ann_id": 1732771, "best_split": [2, 1], "split_score": 0.06478102189553687}
+{"sent": "slice of person in gray", "ann_id": 505970, "best_split": [3, 2], "split_score": 0.21448203959676979}
+{"sent": "person at edge of girls hand", "ann_id": 505970, "best_split": [2, 3], "split_score": 0.35813460515547063}
+{"sent": "beige hat on edge", "ann_id": 505970, "best_split": [1, 5], "split_score": 0.4592126622910701}
+{"sent": "open mouth of girl", "ann_id": 442010, "best_split": [2, 1], "split_score": 0.5686533096482715}
+{"sent": "girl on phone", "ann_id": 442010, "best_split": [2, 1], "split_score": 0.5686533096482715}
+{"sent": "woman", "ann_id": 442010, "best_split": [2, 1], "split_score": 0.5686533096482715}

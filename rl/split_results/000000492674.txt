@@ -1,0 +1,5 @@
+{"sent": "black suitcase with blue tag", "ann_id": 1187120, "best_split": [3, 2], "split_score": 0.2557726465080181}
+{"sent": "case with blue tag", "ann_id": 1187120, "best_split": [5, 1], "split_score": 0.1402266288827703}
+{"sent": "black bag with blue tag on it", "ann_id": 1187120, "best_split": [5, 1], "split_score": 0.1402266288827703}
+{"sent": "taller luggage", "ann_id": 1186156, "best_split": [1, 5], "split_score": 0.2457757296231014}
+{"sent": "suit on side of pink which is solo", "ann_id": 1186156, "best_split": [2, 2], "split_score": 0.18955042525899526}

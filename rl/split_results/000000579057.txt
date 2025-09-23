@@ -1,0 +1,8 @@
+{"sent": "partially out of frame orange in a group of two", "ann_id": 1912382, "best_split": [2, 3], "split_score": 0.35907335903003457}
+{"sent": "cut off lemon", "ann_id": 1912382, "best_split": [2, 3], "split_score": 0.35907335903003457}
+{"sent": "yellow round fruit with blemish", "ann_id": 1912382, "best_split": [2, 3], "split_score": 0.35907335903003457}
+{"sent": "an orange on an apple", "ann_id": 1050727, "best_split": [3, 2], "split_score": 0.33892321267222825}
+{"sent": "perfectly rounf orange between bananas and apples", "ann_id": 1050727, "best_split": [3, 2], "split_score": 0.33892321267222825}
+{"sent": "orange above", "ann_id": 1050727, "best_split": [3, 2], "split_score": 0.33892321267222825}
+{"sent": "cleanest looking apple no brown", "ann_id": 1048673, "best_split": [2, 1], "split_score": 0.2435452499811775}
+{"sent": "white fruit with no blemishes", "ann_id": 1048673, "best_split": [5, 1], "split_score": 0.33151965665326694}

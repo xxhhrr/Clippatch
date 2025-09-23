@@ -1,0 +1,9 @@
+{"sent": "partial of banana closest to apple but you cant see the end of it", "ann_id": 1046546, "best_split": [3, 2], "split_score": 0.4271235520720169}
+{"sent": "lowest banana", "ann_id": 1046546, "best_split": [5, 1], "split_score": 0.24544440310101856}
+{"sent": "lowest banana", "ann_id": 1046546, "best_split": [5, 1], "split_score": 0.24544440310101856}
+{"sent": "banana by grapes", "ann_id": 1045611, "best_split": [2, 3], "split_score": 0.372503698190412}
+{"sent": "banana on apple", "ann_id": 1045611, "best_split": [2, 2], "split_score": 0.39128851333736697}
+{"sent": "banana touching apple and grapes", "ann_id": 1045611, "best_split": [2, 2], "split_score": 0.39128851333736697}
+{"sent": "banana with a little face", "ann_id": 1045458, "best_split": [2, 2], "split_score": 0.35602678568590346}
+{"sent": "middle dle banana on the bot tom", "ann_id": 1045458, "best_split": [2, 2], "split_score": 0.35602678568590346}
+{"sent": "banana in between others cant see end of it", "ann_id": 1045458, "best_split": [2, 2], "split_score": 0.35602678568590346}

@@ -1,0 +1,9 @@
+{"sent": "apples closet to camera with p on sign", "ann_id": 1551516, "best_split": [3, 3], "split_score": 0.8859154928017754}
+{"sent": "apples closest to us", "ann_id": 1551516, "best_split": [3, 3], "split_score": 0.8859154928017754}
+{"sent": "green apples closest", "ann_id": 1551516, "best_split": [3, 3], "split_score": 0.8859154928017754}
+{"sent": "green apples near flowers", "ann_id": 1550512, "best_split": [3, 1], "split_score": 0.2029518175958794}
+{"sent": "green apples farther down the row", "ann_id": 1550512, "best_split": [3, 1], "split_score": 0.2029518175958794}
+{"sent": "green apples not in corner", "ann_id": 1550512, "best_split": [3, 1], "split_score": 0.2029518175958794}
+{"sent": "close red apples", "ann_id": 1549655, "best_split": [2, 2], "split_score": 0.539520958043449}
+{"sent": "nearest red apples", "ann_id": 1549655, "best_split": [2, 2], "split_score": 0.539520958043449}
+{"sent": "mostly red apples nearest to us", "ann_id": 1549655, "best_split": [2, 2], "split_score": 0.539520958043449}

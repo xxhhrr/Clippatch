@@ -1,0 +1,5 @@
+{"sent": "green veggie on plate", "ann_id": 1559737, "best_split": [3, 1], "split_score": 0.42931633832970356}
+{"sent": "green crap next to the sandwinch", "ann_id": 1559737, "best_split": [3, 1], "split_score": 0.42931633832970356}
+{"sent": "broccolli", "ann_id": 1057573, "best_split": [3, 3], "split_score": 0.7240686631256266}
+{"sent": "green food alone", "ann_id": 1057573, "best_split": [3, 3], "split_score": 0.7240686631256266}
+{"sent": "pile of green food next to pic of sandwich", "ann_id": 1057573, "best_split": [3, 3], "split_score": 0.7240686631256266}

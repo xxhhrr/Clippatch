@@ -1,0 +1,6 @@
+{"sent": "dessert roll", "ann_id": 308708, "best_split": [2, 2], "split_score": 0.5072349795134291}
+{"sent": "biscuit", "ann_id": 308708, "best_split": [2, 2], "split_score": 0.5072349795134291}
+{"sent": "pastry", "ann_id": 308708, "best_split": [2, 2], "split_score": 0.5072349795134291}
+{"sent": "sandwich", "ann_id": 308285, "best_split": [1, 2], "split_score": 0.4976168819174962}
+{"sent": "burger", "ann_id": 308285, "best_split": [1, 2], "split_score": 0.4976168819174962}
+{"sent": "sandwinch", "ann_id": 308285, "best_split": [1, 2], "split_score": 0.4976168819174962}

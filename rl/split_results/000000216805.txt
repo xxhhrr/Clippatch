@@ -1,0 +1,6 @@
+{"sent": "purple vest", "ann_id": 191696, "best_split": [2, 3], "split_score": 0.553073563944149}
+{"sent": "purple", "ann_id": 191696, "best_split": [2, 3], "split_score": 0.553073563944149}
+{"sent": "purple jacket", "ann_id": 191696, "best_split": [2, 3], "split_score": 0.553073563944149}
+{"sent": "girl with white shirt no jacket", "ann_id": 183773, "best_split": [1, 5], "split_score": 0.443372663815057}
+{"sent": "white shirt little girl", "ann_id": 183773, "best_split": [1, 5], "split_score": 0.443372663815057}
+{"sent": "girl white sweat", "ann_id": 183773, "best_split": [1, 5], "split_score": 0.443372663815057}

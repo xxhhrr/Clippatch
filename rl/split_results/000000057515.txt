@@ -1,0 +1,9 @@
+{"sent": "kid holding umbrella", "ann_id": 2160453, "best_split": [3, 3], "split_score": 0.4809226751079468}
+{"sent": "guy kneeling in blue shirt", "ann_id": 2160453, "best_split": [3, 3], "split_score": 0.4809226751079468}
+{"sent": "blue shirt", "ann_id": 2160453, "best_split": [3, 3], "split_score": 0.4809226751079468}
+{"sent": "girl in white shirt", "ann_id": 509177, "best_split": [3, 1], "split_score": 0.22714415024738943}
+{"sent": "girl in yellow", "ann_id": 509177, "best_split": [2, 3], "split_score": 0.31234700868380033}
+{"sent": "yellow shirt", "ann_id": 509177, "best_split": [3, 3], "split_score": 0.6105535278876895}
+{"sent": "girl in flower dress", "ann_id": 480397, "best_split": [3, 3], "split_score": 0.44809037110703465}
+{"sent": "pink dress", "ann_id": 480397, "best_split": [3, 3], "split_score": 0.44809037110703465}
+{"sent": "pnik dress", "ann_id": 480397, "best_split": [3, 3], "split_score": 0.44809037110703465}

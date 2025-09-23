@@ -1,0 +1,9 @@
+{"sent": "green car", "ann_id": 1929390, "best_split": [3, 3], "split_score": 0.7133084576005428}
+{"sent": "green car", "ann_id": 1929390, "best_split": [3, 3], "split_score": 0.7133084576005428}
+{"sent": "green car", "ann_id": 1929390, "best_split": [3, 3], "split_score": 0.7133084576005428}
+{"sent": "yellow car", "ann_id": 1929294, "best_split": [3, 2], "split_score": 0.4026814608873461}
+{"sent": "the yellow cake", "ann_id": 1929294, "best_split": [3, 2], "split_score": 0.4026814608873461}
+{"sent": "yellow thing", "ann_id": 1929294, "best_split": [3, 2], "split_score": 0.4026814608873461}
+{"sent": "blue train car", "ann_id": 1089473, "best_split": [2, 3], "split_score": 0.4671611436215862}
+{"sent": "blue", "ann_id": 1089473, "best_split": [2, 3], "split_score": 0.4671611436215862}
+{"sent": "blue train", "ann_id": 1089473, "best_split": [2, 3], "split_score": 0.4671611436215862}

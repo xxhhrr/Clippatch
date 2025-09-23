@@ -1,0 +1,12 @@
+{"sent": "bow with vile in it", "ann_id": 1900465, "best_split": [2, 1], "split_score": 0.35031055899261215}
+{"sent": "bowl with carrots", "ann_id": 1900465, "best_split": [2, 2], "split_score": 0.6828087166553565}
+{"sent": "carrots", "ann_id": 1900465, "best_split": [2, 2], "split_score": 0.6828087166553565}
+{"sent": "popcorn", "ann_id": 1540639, "best_split": [2, 2], "split_score": 0.591684116019168}
+{"sent": "tin with popcorn in it", "ann_id": 1540639, "best_split": [2, 2], "split_score": 0.591684116019168}
+{"sent": "popcorn", "ann_id": 1540639, "best_split": [2, 2], "split_score": 0.591684116019168}
+{"sent": "berry pie", "ann_id": 1536840, "best_split": [3, 2], "split_score": 0.3664576553403875}
+{"sent": "looks like strawberry jam", "ann_id": 1536840, "best_split": [2, 2], "split_score": 0.5404261424391688}
+{"sent": "chili con carne", "ann_id": 1536840, "best_split": [2, 2], "split_score": 0.5404261424391688}
+{"sent": "pizza", "ann_id": 710130, "best_split": [2, 2], "split_score": 0.6192505510198935}
+{"sent": "pizza", "ann_id": 710130, "best_split": [2, 2], "split_score": 0.6192505510198935}
+{"sent": "pizza", "ann_id": 710130, "best_split": [2, 2], "split_score": 0.6192505510198935}

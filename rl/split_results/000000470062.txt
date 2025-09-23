@@ -1,0 +1,6 @@
+{"sent": "boy in red", "ann_id": 2206705, "best_split": [1, 5], "split_score": 0.4962406014613602}
+{"sent": "red shirt", "ann_id": 2206705, "best_split": [1, 5], "split_score": 0.4962406014613602}
+{"sent": "kid in striped shorts", "ann_id": 2206705, "best_split": [1, 5], "split_score": 0.4962406014613602}
+{"sent": "girl in pink", "ann_id": 489533, "best_split": [3, 2], "split_score": 0.4401850627527937}
+{"sent": "pink outfit", "ann_id": 489533, "best_split": [3, 2], "split_score": 0.4401850627527937}
+{"sent": "pink girl", "ann_id": 489533, "best_split": [3, 2], "split_score": 0.4401850627527937}

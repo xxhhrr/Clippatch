@@ -1,0 +1,5 @@
+{"sent": "suitcase with handle straight up", "ann_id": 1842233, "best_split": [5, 1], "split_score": 0.2671864457405213}
+{"sent": "lightest colored luggage", "ann_id": 1842233, "best_split": [5, 1], "split_score": 0.2671864457405213}
+{"sent": "gold lock", "ann_id": 1186376, "best_split": [3, 2], "split_score": 0.4951737451139993}
+{"sent": "suitcase laying flat not touching the floor", "ann_id": 1186376, "best_split": [3, 3], "split_score": 0.6964760048350493}
+{"sent": "suitcase stacked high", "ann_id": 1186376, "best_split": [3, 3], "split_score": 0.6964760048350493}

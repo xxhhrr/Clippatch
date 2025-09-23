@@ -1,0 +1,5 @@
+{"sent": "red shirt", "ann_id": 543222, "best_split": [3, 3], "split_score": 0.3775510203561016}
+{"sent": "red closest", "ann_id": 543222, "best_split": [3, 3], "split_score": 0.3775510203561016}
+{"sent": "red shirt batter", "ann_id": 543222, "best_split": [3, 3], "split_score": 0.3775510203561016}
+{"sent": "foreground man in plaid shirt holding frisbee", "ann_id": 484192, "best_split": [1, 5], "split_score": 0.4917854224841803}
+{"sent": "person running with plaid shirt", "ann_id": 484192, "best_split": [1, 5], "split_score": 0.4917854224841803}

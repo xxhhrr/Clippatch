@@ -1,0 +1,6 @@
+{"sent": "cow with one foot showing", "ann_id": 74887, "best_split": [3, 1], "split_score": 0.19785058976682304}
+{"sent": "cow with face directly to us", "ann_id": 74887, "best_split": [2, 2], "split_score": 0.30855354657103246}
+{"sent": "cow showing less body", "ann_id": 74887, "best_split": [3, 1], "split_score": 0.19785058976682304}
+{"sent": "cow with half face hidden", "ann_id": 71186, "best_split": [3, 2], "split_score": 0.4290016563447522}
+{"sent": "cow with only one ear showing", "ann_id": 71186, "best_split": [3, 2], "split_score": 0.4290016563447522}
+{"sent": "cow closest to rounds completed box", "ann_id": 71186, "best_split": [3, 1], "split_score": 0.28175237377635837}

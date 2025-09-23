@@ -1,0 +1,4 @@
+{"sent": "smaller elephant", "ann_id": 583738, "best_split": [3, 1], "split_score": 0.33113386422710905}
+{"sent": "facing away", "ann_id": 583738, "best_split": [1, 2], "split_score": 0.6555572426110098}
+{"sent": "an elephant with a curled up trunk", "ann_id": 583738, "best_split": [3, 1], "split_score": 0.33113386422710905}
+{"sent": "shorter elephant", "ann_id": 583738, "best_split": [3, 1], "split_score": 0.33113386422710905}

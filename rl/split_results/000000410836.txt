@@ -1,0 +1,6 @@
+{"sent": "dell monitor", "ann_id": 36036, "best_split": [5, 1], "split_score": 0.5909090908491367}
+{"sent": "del screen", "ann_id": 36036, "best_split": [1, 2], "split_score": 0.12982456139876372}
+{"sent": "lower edge of dell desktop screen", "ann_id": 36036, "best_split": [5, 1], "split_score": 0.5909090908491367}
+{"sent": "ipad", "ann_id": 29151, "best_split": [3, 1], "split_score": 0.5263935318150356}
+{"sent": "screen facing upward", "ann_id": 29151, "best_split": [3, 1], "split_score": 0.5263935318150356}
+{"sent": "the tablet", "ann_id": 29151, "best_split": [3, 1], "split_score": 0.5263935318150356}

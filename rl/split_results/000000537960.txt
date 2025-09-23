@@ -1,0 +1,6 @@
+{"sent": "black object on white rug", "ann_id": 115540, "best_split": [3, 2], "split_score": 0.47651006705698584}
+{"sent": "black chair", "ann_id": 115540, "best_split": [3, 2], "split_score": 0.47651006705698584}
+{"sent": "black seat", "ann_id": 115540, "best_split": [3, 2], "split_score": 0.47651006705698584}
+{"sent": "tan couch", "ann_id": 99326, "best_split": [1, 3], "split_score": 0.822180885786427}
+{"sent": "tan furniture", "ann_id": 99326, "best_split": [1, 3], "split_score": 0.822180885786427}
+{"sent": "couch", "ann_id": 99326, "best_split": [1, 3], "split_score": 0.822180885786427}

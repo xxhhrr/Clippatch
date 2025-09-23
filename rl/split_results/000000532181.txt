@@ -1,0 +1,6 @@
+{"sent": "man having shoe cleaned", "ann_id": 228806, "best_split": [1, 2], "split_score": 0.7500525173044587}
+{"sent": "man getting shoe shine", "ann_id": 228806, "best_split": [1, 2], "split_score": 0.7500525173044587}
+{"sent": "half guy", "ann_id": 228806, "best_split": [1, 2], "split_score": 0.7500525173044587}
+{"sent": "man bending down", "ann_id": 203039, "best_split": [2, 1], "split_score": 0.4897459551344825}
+{"sent": "man with glasses on", "ann_id": 203039, "best_split": [2, 2], "split_score": 0.6864081562124744}
+{"sent": "man cleaning shirt", "ann_id": 203039, "best_split": [2, 2], "split_score": 0.6864081562124744}

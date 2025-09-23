@@ -1,0 +1,12 @@
+{"sent": "red pants", "ann_id": 1220922, "best_split": [1, 2], "split_score": 0.5499524262389014}
+{"sent": "lady wearing red", "ann_id": 1220922, "best_split": [1, 2], "split_score": 0.5499524262389014}
+{"sent": "lady with laptop", "ann_id": 1220922, "best_split": [1, 2], "split_score": 0.5499524262389014}
+{"sent": "short sleeved gray shirt", "ann_id": 2157277, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "gray shirt name wearing white name tag", "ann_id": 2157277, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "man with gray short sleeve in chair 10 o clock", "ann_id": 2157277, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "girl sitting near green bag", "ann_id": 1710833, "best_split": [3, 2], "split_score": 0.3984855233498008}
+{"sent": "girl sitting with dark pants", "ann_id": 1710833, "best_split": [1, 2], "split_score": 0.2619112336325123}
+{"sent": "girl with light brown hair", "ann_id": 1710833, "best_split": [2, 2], "split_score": 0.3316871329196685}
+{"sent": "gray hair", "ann_id": 1676451, "best_split": [1, 5], "split_score": 0.472368326214254}
+{"sent": "white shirt sitting down using laptop", "ann_id": 1676451, "best_split": [2, 2], "split_score": 0.48252869138407845}
+{"sent": "white shirt sitting down", "ann_id": 1676451, "best_split": [1, 5], "split_score": 0.472368326214254}

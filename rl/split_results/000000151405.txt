@@ -1,0 +1,13 @@
+{"sent": "closest bagel underneath", "ann_id": 1910335, "best_split": [2, 3], "split_score": 0.3517051613147915}
+{"sent": "lowest bagel", "ann_id": 1910335, "best_split": [2, 3], "split_score": 0.3517051613147915}
+{"sent": "sandwich at 7 o clock", "ann_id": 1910007, "best_split": [2, 2], "split_score": 0.3364955356874605}
+{"sent": "bagel in corner at 7 to 8 on a clock", "ann_id": 1910007, "best_split": [2, 1], "split_score": 0.16824776785043655}
+{"sent": "the most blurry bun", "ann_id": 1908816, "best_split": [1, 2], "split_score": 0.016963736938630493}
+{"sent": "blurriest bun", "ann_id": 1908816, "best_split": [1, 2], "split_score": 0.016963736938630493}
+{"sent": "sandwich furthest away and only small part seen", "ann_id": 1908816, "best_split": [1, 2], "split_score": 0.016963736938630493}
+{"sent": "bagel on edge", "ann_id": 313124, "best_split": [3, 1], "split_score": 0.26407613004242286}
+{"sent": "bagel touching closest one on side", "ann_id": 313124, "best_split": [3, 2], "split_score": 0.44818304168504514}
+{"sent": "one in the back with red", "ann_id": 312876, "best_split": [1, 2], "split_score": 0.02309139631612146}
+{"sent": "prominant sandwhich", "ann_id": 312227, "best_split": [2, 1], "split_score": 0.4874415168527628}
+{"sent": "sandwich closest to camera", "ann_id": 312227, "best_split": [2, 1], "split_score": 0.4874415168527628}
+{"sent": "bagel", "ann_id": 312227, "best_split": [2, 1], "split_score": 0.4874415168527628}

@@ -1,0 +1,6 @@
+{"sent": "the cat on the backpack", "ann_id": 200338, "best_split": [1, 2], "split_score": 0.7541053529307465}
+{"sent": "person with blue backpack and cat", "ann_id": 200338, "best_split": [1, 2], "split_score": 0.7541053529307465}
+{"sent": "backpacks on a person", "ann_id": 200338, "best_split": [1, 2], "split_score": 0.7541053529307465}
+{"sent": "white pants", "ann_id": 198489, "best_split": [1, 2], "split_score": 0.617267219363151}
+{"sent": "light east blue shirt with strap", "ann_id": 198489, "best_split": [3, 1], "split_score": 0.25124882921279856}
+{"sent": "back of woman in light blue jacket", "ann_id": 198489, "best_split": [2, 2], "split_score": 0.5256082294385452}

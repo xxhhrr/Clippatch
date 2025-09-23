@@ -1,0 +1,6 @@
+{"sent": "tall giraffe", "ann_id": 599331, "best_split": [1, 3], "split_score": 0.5846100126321587}
+{"sent": "giraffe standing tall", "ann_id": 599331, "best_split": [1, 3], "split_score": 0.5846100126321587}
+{"sent": "mother giraff", "ann_id": 599331, "best_split": [1, 3], "split_score": 0.5846100126321587}
+{"sent": "baby", "ann_id": 598513, "best_split": [3, 3], "split_score": 0.5389026657565247}
+{"sent": "baby giraffe", "ann_id": 598513, "best_split": [2, 3], "split_score": 0.4849650349085122}
+{"sent": "baby", "ann_id": 598513, "best_split": [3, 3], "split_score": 0.5389026657565247}

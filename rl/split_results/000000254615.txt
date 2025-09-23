@@ -1,0 +1,6 @@
+{"sent": "green scarf", "ann_id": 450794, "best_split": [2, 2], "split_score": 0.5303787479924791}
+{"sent": "man", "ann_id": 450794, "best_split": [2, 1], "split_score": 0.2906457192169701}
+{"sent": "person with back toward us", "ann_id": 450794, "best_split": [2, 2], "split_score": 0.5303787479924791}
+{"sent": "lady looking at us", "ann_id": 434230, "best_split": [1, 5], "split_score": 0.4308681671640882}
+{"sent": "woman", "ann_id": 434230, "best_split": [1, 5], "split_score": 0.4308681671640882}
+{"sent": "woman about to catch", "ann_id": 434230, "best_split": [1, 5], "split_score": 0.4308681671640882}

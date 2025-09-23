@@ -1,0 +1,11 @@
+{"sent": "blue part of picture", "ann_id": 2101131, "best_split": [2, 3], "split_score": 0.1958955223652174}
+{"sent": "blue on side", "ann_id": 2101131, "best_split": [2, 3], "split_score": 0.1958955223652174}
+{"sent": "blue", "ann_id": 2101131, "best_split": [2, 3], "split_score": 0.1958955223652174}
+{"sent": "glass with beer", "ann_id": 2098624, "best_split": [3, 3], "split_score": 0.46510089307557045}
+{"sent": "furthest most corner opposite candle corner", "ann_id": 2098624, "best_split": [3, 1], "split_score": 0.16400326605832244}
+{"sent": "jar of beer", "ann_id": 2098624, "best_split": [3, 3], "split_score": 0.46510089307557045}
+{"sent": "knurled glass object", "ann_id": 1869866, "best_split": [3, 3], "split_score": 0.34590676983266233}
+{"sent": "candle holder 100", "ann_id": 1869866, "best_split": [3, 3], "split_score": 0.34590676983266233}
+{"sent": "blue section of picture", "ann_id": 1866380, "best_split": [2, 3], "split_score": 0.2136790850171352}
+{"sent": "blue bottle", "ann_id": 1866380, "best_split": [2, 3], "split_score": 0.2136790850171352}
+{"sent": "the glass is blue", "ann_id": 1866380, "best_split": [2, 3], "split_score": 0.2136790850171352}

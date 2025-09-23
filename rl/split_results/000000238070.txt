@@ -1,0 +1,6 @@
+{"sent": "partial bus", "ann_id": 247853, "best_split": [2, 2], "split_score": 0.2559540103848923}
+{"sent": "partially hidden bus", "ann_id": 247853, "best_split": [2, 2], "split_score": 0.2559540103848923}
+{"sent": "2 bus", "ann_id": 247853, "best_split": [1, 2], "split_score": 0.2315051020315886}
+{"sent": "zona", "ann_id": 162846, "best_split": [3, 1], "split_score": 0.4510747513454012}
+{"sent": "bus closest", "ann_id": 162846, "best_split": [3, 1], "split_score": 0.4510747513454012}
+{"sent": "zona bus close to us", "ann_id": 162846, "best_split": [3, 1], "split_score": 0.4510747513454012}

@@ -1,0 +1,6 @@
+{"sent": "zebra in front", "ann_id": 591418, "best_split": [1, 5], "split_score": 0.4524918695216233}
+{"sent": "zebra nearest", "ann_id": 591418, "best_split": [1, 5], "split_score": 0.4524918695216233}
+{"sent": "nearest giraffe", "ann_id": 591418, "best_split": [1, 5], "split_score": 0.4524918695216233}
+{"sent": "zebra behind the other zebra", "ann_id": 591323, "best_split": [3, 3], "split_score": 0.31798770958046163}
+{"sent": "farther back one", "ann_id": 591323, "best_split": [2, 2], "split_score": 0.2885143080956152}
+{"sent": "zebra further from u", "ann_id": 591323, "best_split": [3, 3], "split_score": 0.31798770958046163}

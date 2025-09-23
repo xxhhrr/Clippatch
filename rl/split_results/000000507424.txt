@@ -1,0 +1,6 @@
+{"sent": "east side sandwhich", "ann_id": 313254, "best_split": [2, 2], "split_score": 0.6949424671732043}
+{"sent": "sandwich more behind tomatos", "ann_id": 313254, "best_split": [2, 2], "split_score": 0.6949424671732043}
+{"sent": "the sandwich piece that is touching one of the tomatoes", "ann_id": 313254, "best_split": [1, 2], "split_score": 0.4667389452309014}
+{"sent": "the slice with the thicker crust", "ann_id": 309539, "best_split": [2, 1], "split_score": 0.2992859776641988}
+{"sent": "sandwhich at 10 o clock", "ann_id": 309539, "best_split": [2, 1], "split_score": 0.2992859776641988}
+{"sent": "food at 9", "ann_id": 309539, "best_split": [2, 1], "split_score": 0.2992859776641988}

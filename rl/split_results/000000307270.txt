@@ -1,0 +1,6 @@
+{"sent": "bus behind other", "ann_id": 366348, "best_split": [3, 1], "split_score": 0.485221426385291}
+{"sent": "bus behind", "ann_id": 366348, "best_split": [3, 1], "split_score": 0.485221426385291}
+{"sent": "bus behind this bus", "ann_id": 366348, "best_split": [3, 1], "split_score": 0.485221426385291}
+{"sent": "red bus", "ann_id": 366069, "best_split": [3, 1], "split_score": 0.43658567610411797}
+{"sent": "red bus", "ann_id": 366069, "best_split": [3, 1], "split_score": 0.43658567610411797}
+{"sent": "bus", "ann_id": 366069, "best_split": [3, 1], "split_score": 0.43658567610411797}

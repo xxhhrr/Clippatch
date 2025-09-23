@@ -1,0 +1,6 @@
+{"sent": "boy with brown shirt", "ann_id": 500440, "best_split": [1, 5], "split_score": 0.380532474107128}
+{"sent": "boy in black shirt and that warden was cute", "ann_id": 500440, "best_split": [3, 2], "split_score": 0.46378830078951566}
+{"sent": "black kid", "ann_id": 500440, "best_split": [3, 2], "split_score": 0.46378830078951566}
+{"sent": "green hat", "ann_id": 469509, "best_split": [1, 5], "split_score": 0.49453530730218315}
+{"sent": "green hat", "ann_id": 469509, "best_split": [1, 5], "split_score": 0.49453530730218315}
+{"sent": "puma shirt", "ann_id": 469509, "best_split": [3, 2], "split_score": 0.3727815236477733}

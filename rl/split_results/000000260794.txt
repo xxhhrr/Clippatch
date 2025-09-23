@@ -1,0 +1,6 @@
+{"sent": "horse with person on it", "ann_id": 58636, "best_split": [2, 3], "split_score": 0.6833976833152271}
+{"sent": "dark horse that has cop on it but not the cop", "ann_id": 58636, "best_split": [2, 3], "split_score": 0.6833976833152271}
+{"sent": "dark horse", "ann_id": 58636, "best_split": [2, 3], "split_score": 0.6833976833152271}
+{"sent": "hidden horse face seen", "ann_id": 57929, "best_split": [2, 2], "split_score": 0.3750483808298898}
+{"sent": "horse no rider behind tree and post", "ann_id": 57929, "best_split": [2, 2], "split_score": 0.3750483808298898}
+{"sent": "gray horse", "ann_id": 57929, "best_split": [2, 2], "split_score": 0.3750483808298898}

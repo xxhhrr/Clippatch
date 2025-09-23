@@ -1,0 +1,6 @@
+{"sent": "mom", "ann_id": 76163, "best_split": [1, 2], "split_score": 0.4073208952896922}
+{"sent": "nose up", "ann_id": 76163, "best_split": [2, 1], "split_score": 0.7562820559847871}
+{"sent": "mom", "ann_id": 76163, "best_split": [1, 2], "split_score": 0.4073208952896922}
+{"sent": "animal eating in photo", "ann_id": 75599, "best_split": [1, 2], "split_score": 0.2107953840374539}
+{"sent": "near us", "ann_id": 75599, "best_split": [1, 2], "split_score": 0.2107953840374539}
+{"sent": "baby cow", "ann_id": 75599, "best_split": [3, 1], "split_score": 0.4659508644052429}

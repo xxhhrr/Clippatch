@@ -1,0 +1,14 @@
+{"sent": "closest gray laptop not closest black one", "ann_id": 1104116, "best_split": [3, 3], "split_score": 0.427613191667466}
+{"sent": "laptop on blue jeans lap", "ann_id": 1104116, "best_split": [3, 3], "split_score": 0.427613191667466}
+{"sent": "laptop in lap with feet not crossed", "ann_id": 1104116, "best_split": [3, 3], "split_score": 0.427613191667466}
+{"sent": "white screen laptop", "ann_id": 1103851, "best_split": [2, 2], "split_score": 0.682859646883507}
+{"sent": "laptop you can see the screen", "ann_id": 1103851, "best_split": [2, 2], "split_score": 0.682859646883507}
+{"sent": "closest laotop", "ann_id": 1103851, "best_split": [2, 2], "split_score": 0.682859646883507}
+{"sent": "legs with white socks on", "ann_id": 196234, "best_split": [3, 1], "split_score": 0.6595779397008823}
+{"sent": "white socks", "ann_id": 196234, "best_split": [3, 1], "split_score": 0.6595779397008823}
+{"sent": "blue jeans", "ann_id": 196234, "best_split": [3, 1], "split_score": 0.6595779397008823}
+{"sent": "darker pants leg", "ann_id": 185921, "best_split": [1, 3], "split_score": 0.1905508284711962}
+{"sent": "legs in black pants", "ann_id": 185921, "best_split": [1, 3], "split_score": 0.1905508284711962}
+{"sent": "legs closest", "ann_id": 184275, "best_split": [2, 2], "split_score": 0.49873008540182806}
+{"sent": "legs under laptop closet to us", "ann_id": 184275, "best_split": [3, 2], "split_score": 0.4888888888553574}
+{"sent": "bare legs", "ann_id": 184275, "best_split": [2, 2], "split_score": 0.49873008540182806}

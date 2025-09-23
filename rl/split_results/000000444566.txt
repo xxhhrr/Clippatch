@@ -1,0 +1,6 @@
+{"sent": "darkest zebra", "ann_id": 588547, "best_split": [3, 1], "split_score": 0.2910839160680133}
+{"sent": "no stripes", "ann_id": 588547, "best_split": [3, 1], "split_score": 0.2910839160680133}
+{"sent": "zebra less stripes", "ann_id": 588547, "best_split": [3, 1], "split_score": 0.2910839160680133}
+{"sent": "full stripes", "ann_id": 588421, "best_split": [3, 3], "split_score": 0.44241269835651903}
+{"sent": "fully strped", "ann_id": 588421, "best_split": [3, 3], "split_score": 0.44241269835651903}
+{"sent": "striped zebra", "ann_id": 588421, "best_split": [3, 3], "split_score": 0.44241269835651903}

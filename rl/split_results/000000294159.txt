@@ -1,0 +1,4 @@
+{"sent": "large piece by knife cut away from pizza", "ann_id": 2117519, "best_split": [3, 1], "split_score": 0.3180023521371807}
+{"sent": "pizza half not cut", "ann_id": 1072652, "best_split": [1, 2], "split_score": 0.8495564800671341}
+{"sent": "half of pizza not cut", "ann_id": 1072652, "best_split": [1, 2], "split_score": 0.8495564800671341}
+{"sent": "pizza next to edge", "ann_id": 1072652, "best_split": [1, 2], "split_score": 0.8495564800671341}

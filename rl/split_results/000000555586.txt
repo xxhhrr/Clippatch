@@ -1,0 +1,5 @@
+{"sent": "lady", "ann_id": 495781, "best_split": [1, 5], "split_score": 0.2558139534651332}
+{"sent": "woman wearing black", "ann_id": 495781, "best_split": [1, 5], "split_score": 0.2558139534651332}
+{"sent": "closest sailor", "ann_id": 445234, "best_split": [1, 5], "split_score": 0.3808439852581996}
+{"sent": "tall sailor", "ann_id": 445234, "best_split": [1, 5], "split_score": 0.3808439852581996}
+{"sent": "guy closest to us", "ann_id": 445234, "best_split": [1, 2], "split_score": 0.23580994897019253}

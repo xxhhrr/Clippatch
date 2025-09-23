@@ -1,0 +1,11 @@
+{"sent": "horse closest to green", "ann_id": 273860, "best_split": [1, 2], "split_score": 0.7460555436301115}
+{"sent": "the smaller horse", "ann_id": 273860, "best_split": [1, 2], "split_score": 0.7460555436301115}
+{"sent": "last horse", "ann_id": 273860, "best_split": [1, 2], "split_score": 0.7460555436301115}
+{"sent": "baby", "ann_id": 209268, "best_split": [2, 3], "split_score": 0.3810792804373663}
+{"sent": "baby", "ann_id": 209268, "best_split": [2, 3], "split_score": 0.3810792804373663}
+{"sent": "baby", "ann_id": 209268, "best_split": [2, 3], "split_score": 0.3810792804373663}
+{"sent": "man holding baby", "ann_id": 205553, "best_split": [2, 2], "split_score": 0.5973506278047915}
+{"sent": "white shirt", "ann_id": 205553, "best_split": [2, 2], "split_score": 0.5973506278047915}
+{"sent": "closest horse", "ann_id": 56915, "best_split": [1, 2], "split_score": 0.8330676020076105}
+{"sent": "horse with rein over nose", "ann_id": 56915, "best_split": [1, 2], "split_score": 0.8330676020076105}
+{"sent": "close horse", "ann_id": 56915, "best_split": [1, 2], "split_score": 0.8330676020076105}

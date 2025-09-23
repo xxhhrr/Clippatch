@@ -1,0 +1,6 @@
+{"sent": "boy", "ann_id": 472404, "best_split": [2, 1], "split_score": 0.5327248086522351}
+{"sent": "person wearing blue shirt", "ann_id": 472404, "best_split": [2, 1], "split_score": 0.5327248086522351}
+{"sent": "kid", "ann_id": 472404, "best_split": [2, 1], "split_score": 0.5327248086522351}
+{"sent": "old man", "ann_id": 444678, "best_split": [1, 2], "split_score": 0.47133331938901546}
+{"sent": "grandpa", "ann_id": 444678, "best_split": [1, 2], "split_score": 0.47133331938901546}
+{"sent": "the man", "ann_id": 444678, "best_split": [2, 1], "split_score": 0.5130145083178288}

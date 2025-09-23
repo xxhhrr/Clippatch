@@ -1,0 +1,6 @@
+{"sent": "dad", "ann_id": 480030, "best_split": [3, 1], "split_score": 0.44018506277097713}
+{"sent": "gray hair fur coat", "ann_id": 480030, "best_split": [1, 3], "split_score": 0.36904107435918315}
+{"sent": "man in black", "ann_id": 480030, "best_split": [1, 3], "split_score": 0.36904107435918315}
+{"sent": "white tshirt", "ann_id": 452675, "best_split": [1, 3], "split_score": 0.549861945730475}
+{"sent": "white shirt", "ann_id": 452675, "best_split": [1, 3], "split_score": 0.549861945730475}
+{"sent": "boy in white", "ann_id": 452675, "best_split": [1, 3], "split_score": 0.549861945730475}

@@ -1,0 +1,6 @@
+{"sent": "animal by tree", "ann_id": 599618, "best_split": [1, 2], "split_score": 0.6282684948729166}
+{"sent": "taller giraffe", "ann_id": 599618, "best_split": [1, 2], "split_score": 0.6282684948729166}
+{"sent": "giraffe straight up", "ann_id": 599618, "best_split": [1, 5], "split_score": 0.5768804628476621}
+{"sent": "giraffe whose neck is not straight up", "ann_id": 599222, "best_split": [2, 1], "split_score": 0.46277368334868}
+{"sent": "shorter giraffe", "ann_id": 599222, "best_split": [2, 1], "split_score": 0.46277368334868}
+{"sent": "giraffe far from tree", "ann_id": 599222, "best_split": [2, 1], "split_score": 0.46277368334868}

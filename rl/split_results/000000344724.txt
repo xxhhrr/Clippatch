@@ -1,0 +1,15 @@
+{"sent": "woman in white shirt", "ann_id": 1237497, "best_split": [2, 3], "split_score": 0.801431980811285}
+{"sent": "woman white shirt", "ann_id": 1237497, "best_split": [2, 3], "split_score": 0.801431980811285}
+{"sent": "white shirt", "ann_id": 1237497, "best_split": [2, 3], "split_score": 0.801431980811285}
+{"sent": "the woman officer", "ann_id": 1204286, "best_split": [1, 5], "split_score": 0.4797947401901105}
+{"sent": "lady", "ann_id": 1204286, "best_split": [1, 2], "split_score": 0.42718071271430447}
+{"sent": "woman on horse", "ann_id": 1204286, "best_split": [1, 3], "split_score": 0.4590208645638883}
+{"sent": "the man on a horse", "ann_id": 1733662, "best_split": [1, 2], "split_score": 0.8484135841498559}
+{"sent": "male cop", "ann_id": 1733662, "best_split": [2, 2], "split_score": 0.4497107349282318}
+{"sent": "the black cop", "ann_id": 1733662, "best_split": [1, 2], "split_score": 0.8484135841498559}
+{"sent": "horse that the girl is sitting on", "ann_id": 59152, "best_split": [3, 3], "split_score": 0.5070853014021832}
+{"sent": "horse under woman", "ann_id": 59152, "best_split": [3, 3], "split_score": 0.5070853014021832}
+{"sent": "womans horse", "ann_id": 59152, "best_split": [3, 3], "split_score": 0.5070853014021832}
+{"sent": "horse under man", "ann_id": 53468, "best_split": [2, 2], "split_score": 0.6576421178447845}
+{"sent": "taller horse with male rider", "ann_id": 53468, "best_split": [2, 2], "split_score": 0.6576421178447845}
+{"sent": "horse with head up", "ann_id": 53468, "best_split": [2, 2], "split_score": 0.6576421178447845}

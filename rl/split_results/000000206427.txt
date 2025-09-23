@@ -1,0 +1,6 @@
+{"sent": "woman in blue hoodie", "ann_id": 1239812, "best_split": [1, 5], "split_score": 0.6696428570749144}
+{"sent": "customer", "ann_id": 1239812, "best_split": [1, 5], "split_score": 0.6696428570749144}
+{"sent": "man blocked by pole in blue", "ann_id": 1239812, "best_split": [2, 2], "split_score": 0.29842647854731236}
+{"sent": "vegetable seller", "ann_id": 1215677, "best_split": [1, 5], "split_score": 0.34391534388285}
+{"sent": "the vendor", "ann_id": 1215677, "best_split": [2, 2], "split_score": 0.17853658535341208}
+{"sent": "hispanic in brown", "ann_id": 1215677, "best_split": [1, 3], "split_score": 0.22508189048753616}

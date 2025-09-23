@@ -1,0 +1,5 @@
+{"sent": "chair with black pillow under window", "ann_id": 108930, "best_split": [3, 2], "split_score": 0.7010135134289317}
+{"sent": "chair with seat facing us nearest window pane", "ann_id": 108930, "best_split": [3, 2], "split_score": 0.7010135134289317}
+{"sent": "chair by window", "ann_id": 108930, "best_split": [3, 2], "split_score": 0.7010135134289317}
+{"sent": "black chair", "ann_id": 103564, "best_split": [3, 2], "split_score": 0.385320112051593}
+{"sent": "closet black chair", "ann_id": 103564, "best_split": [3, 2], "split_score": 0.385320112051593}

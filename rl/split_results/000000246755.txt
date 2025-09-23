@@ -1,0 +1,11 @@
+{"sent": "shirt with number 7 on it pink", "ann_id": 548688, "best_split": [1, 5], "split_score": 0.672991071360289}
+{"sent": "number 17", "ann_id": 548688, "best_split": [1, 3], "split_score": 0.40015685325771255}
+{"sent": "pink shirt facing away", "ann_id": 548688, "best_split": [1, 5], "split_score": 0.672991071360289}
+{"sent": "pink player foot on ground looking off", "ann_id": 538124, "best_split": [1, 3], "split_score": 0.25723938222386344}
+{"sent": "player in pink inside goal", "ann_id": 538124, "best_split": [1, 3], "split_score": 0.25723938222386344}
+{"sent": "pink person in net", "ann_id": 538124, "best_split": [1, 5], "split_score": 0.43262987008597503}
+{"sent": "23", "ann_id": 503438, "best_split": [1, 3], "split_score": 0.4402750964985355}
+{"sent": "number 23 behind number 17", "ann_id": 503438, "best_split": [1, 3], "split_score": 0.4402750964985355}
+{"sent": "green shirt saying come on man", "ann_id": 488542, "best_split": [1, 2], "split_score": 0.7015306122169351}
+{"sent": "front guy green arms extended", "ann_id": 488542, "best_split": [1, 2], "split_score": 0.7015306122169351}
+{"sent": "man in green with arms outstrecthced", "ann_id": 488542, "best_split": [1, 2], "split_score": 0.7015306122169351}

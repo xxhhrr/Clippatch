@@ -1,0 +1,6 @@
+{"sent": "the couch near us", "ann_id": 116246, "best_split": [1, 2], "split_score": 0.1314572704029234}
+{"sent": "soft gold chair partially showing close to us", "ann_id": 116246, "best_split": [2, 1], "split_score": 0.1314572704029234}
+{"sent": "armchair in foreground", "ann_id": 116246, "best_split": [2, 1], "split_score": 0.1314572704029234}
+{"sent": "couch", "ann_id": 99878, "best_split": [3, 3], "split_score": 0.40049724349794646}
+{"sent": "tan couch", "ann_id": 99878, "best_split": [3, 3], "split_score": 0.40049724349794646}
+{"sent": "tan couch", "ann_id": 99878, "best_split": [3, 3], "split_score": 0.40049724349794646}

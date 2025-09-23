@@ -1,0 +1,9 @@
+{"sent": "black shirt", "ann_id": 1715863, "best_split": [1, 2], "split_score": 0.1666135204015221}
+{"sent": "gray shirt woman", "ann_id": 1715863, "best_split": [1, 2], "split_score": 0.1666135204015221}
+{"sent": "partial person in black", "ann_id": 1715863, "best_split": [3, 1], "split_score": 0.186057142846511}
+{"sent": "guy with hat on", "ann_id": 208731, "best_split": [1, 3], "split_score": 0.4741516016304253}
+{"sent": "guy with headdress", "ann_id": 208731, "best_split": [1, 2], "split_score": 0.5203619909329131}
+{"sent": "sitting", "ann_id": 208731, "best_split": [1, 2], "split_score": 0.5203619909329131}
+{"sent": "hot guy glasses", "ann_id": 188093, "best_split": [1, 5], "split_score": 0.5217391304025606}
+{"sent": "man glasses", "ann_id": 188093, "best_split": [1, 5], "split_score": 0.5217391304025606}
+{"sent": "man fixing hat", "ann_id": 188093, "best_split": [1, 2], "split_score": 0.4975961538274641}

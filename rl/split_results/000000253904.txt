@@ -1,0 +1,12 @@
+{"sent": "half flower", "ann_id": 314177, "best_split": [1, 5], "split_score": 0.6245941557807838}
+{"sent": "closest partial vase", "ann_id": 314177, "best_split": [1, 5], "split_score": 0.6245941557807838}
+{"sent": "closest partially offscreen vase", "ann_id": 314177, "best_split": [1, 5], "split_score": 0.6245941557807838}
+{"sent": "flowers with a red ribbon where you can see the tie", "ann_id": 314096, "best_split": [3, 1], "split_score": 0.2016348773743852}
+{"sent": "vase at the 3 o clock extreme", "ann_id": 314096, "best_split": [3, 1], "split_score": 0.2016348773743852}
+{"sent": "vase with deep red ribbon closest edge third one", "ann_id": 314096, "best_split": [3, 1], "split_score": 0.2016348773743852}
+{"sent": "vase with lavender colored ribbon", "ann_id": 313946, "best_split": [3, 2], "split_score": 0.32633621447112926}
+{"sent": "purple band around vase", "ann_id": 313946, "best_split": [3, 2], "split_score": 0.32633621447112926}
+{"sent": "maroon ribbon vase", "ann_id": 313946, "best_split": [3, 2], "split_score": 0.32633621447112926}
+{"sent": "pale yellow flowers and brown band", "ann_id": 291594, "best_split": [3, 1], "split_score": 0.14241724402604106}
+{"sent": "flower vase with brown ribbon", "ann_id": 291594, "best_split": [3, 1], "split_score": 0.14241724402604106}
+{"sent": "vase with light yellow flowers and brown ribbon", "ann_id": 291594, "best_split": [3, 1], "split_score": 0.14241724402604106}

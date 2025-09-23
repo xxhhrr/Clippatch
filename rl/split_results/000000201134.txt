@@ -1,0 +1,8 @@
+{"sent": "green bridle", "ann_id": 56975, "best_split": [1, 2], "split_score": 0.8496093749661349}
+{"sent": "green bridle", "ann_id": 56975, "best_split": [1, 2], "split_score": 0.8496093749661349}
+{"sent": "horse with green bridle", "ann_id": 56975, "best_split": [3, 2], "split_score": 0.35588329591188184}
+{"sent": "horse head no body showing", "ann_id": 56140, "best_split": [3, 1], "split_score": 0.14087107008128807}
+{"sent": "horse out of view just the head not the neck", "ann_id": 56140, "best_split": [3, 2], "split_score": 0.1478669197574316}
+{"sent": "horse with blue bridle", "ann_id": 55425, "best_split": [1, 3], "split_score": 0.9124483908765088}
+{"sent": "lighter color horse not drinking", "ann_id": 55425, "best_split": [1, 3], "split_score": 0.9124483908765088}
+{"sent": "horse with blue halter", "ann_id": 55425, "best_split": [1, 3], "split_score": 0.9124483908765088}

@@ -1,0 +1,6 @@
+{"sent": "green shirt", "ann_id": 1208305, "best_split": [2, 3], "split_score": 0.4765474405143984}
+{"sent": "green shirt", "ann_id": 1208305, "best_split": [2, 3], "split_score": 0.4765474405143984}
+{"sent": "green", "ann_id": 1208305, "best_split": [2, 3], "split_score": 0.4765474405143984}
+{"sent": "gray", "ann_id": 1206460, "best_split": [3, 2], "split_score": 0.49960906953678563}
+{"sent": "gray shirt with star", "ann_id": 1206460, "best_split": [3, 2], "split_score": 0.49960906953678563}
+{"sent": "gray shirt", "ann_id": 1206460, "best_split": [3, 2], "split_score": 0.49960906953678563}

@@ -1,0 +1,6 @@
+{"sent": "stripe shirt standing", "ann_id": 493005, "best_split": [3, 3], "split_score": 0.6038531004509553}
+{"sent": "person in striped shirt", "ann_id": 493005, "best_split": [3, 3], "split_score": 0.6038531004509553}
+{"sent": "woman with black and white striped shirt", "ann_id": 493005, "best_split": [2, 3], "split_score": 0.5964912279994676}
+{"sent": "woman smiling at you", "ann_id": 488876, "best_split": [3, 1], "split_score": 0.5101358268886036}
+{"sent": "girl", "ann_id": 488876, "best_split": [3, 1], "split_score": 0.5101358268886036}
+{"sent": "woman smiling", "ann_id": 488876, "best_split": [3, 1], "split_score": 0.5101358268886036}

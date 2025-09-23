@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 1721063, "best_split": [1, 2], "split_score": 0.46963983875732546}
+{"sent": "woman", "ann_id": 1721063, "best_split": [2, 1], "split_score": 0.6207341554122192}
+{"sent": "woman", "ann_id": 1721063, "best_split": [2, 1], "split_score": 0.6207341554122192}
+{"sent": "represenatitvedean takko", "ann_id": 445138, "best_split": [1, 2], "split_score": 0.6886543535374509}
+{"sent": "man", "ann_id": 445138, "best_split": [1, 2], "split_score": 0.6886543535374509}
+{"sent": "guy in brown vest", "ann_id": 445138, "best_split": [1, 2], "split_score": 0.6886543535374509}

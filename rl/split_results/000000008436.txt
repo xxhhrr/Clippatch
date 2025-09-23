@@ -1,0 +1,13 @@
+{"sent": "all black partially hidden by umbrella", "ann_id": 1272691, "best_split": [3, 2], "split_score": 0.29710144924274245}
+{"sent": "next to red umbrella next to yellow", "ann_id": 1272691, "best_split": [3, 3], "split_score": 0.24681440439794813}
+{"sent": "kid number 3", "ann_id": 1272691, "best_split": [1, 3], "split_score": 0.1305961754707201}
+{"sent": "person in blue next to red umbrella", "ann_id": 1235063, "best_split": [3, 3], "split_score": 0.1416861826490506}
+{"sent": "undershirt red", "ann_id": 1212210, "best_split": [3, 2], "split_score": 0.20451497539064428}
+{"sent": "older lady in black smiling", "ann_id": 1212210, "best_split": [3, 3], "split_score": 0.29823989564891784}
+{"sent": "old woman", "ann_id": 1212210, "best_split": [3, 3], "split_score": 0.29823989564891784}
+{"sent": "white shirt lady", "ann_id": 1204462, "best_split": [3, 2], "split_score": 0.17516652787519083}
+{"sent": "woman in white shirt", "ann_id": 1204462, "best_split": [3, 2], "split_score": 0.17516652787519083}
+{"sent": "woman with all white shirt", "ann_id": 1204462, "best_split": [3, 2], "split_score": 0.17516652787519083}
+{"sent": "blue shirt girl", "ann_id": 1201508, "best_split": [2, 3], "split_score": 0.35496183201873066}
+{"sent": "blue girl", "ann_id": 1201508, "best_split": [2, 3], "split_score": 0.35496183201873066}
+{"sent": "lady in blue sweater", "ann_id": 1201508, "best_split": [2, 3], "split_score": 0.35496183201873066}

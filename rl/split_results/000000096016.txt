@@ -1,0 +1,9 @@
+{"sent": "lonely one", "ann_id": 66507, "best_split": [2, 3], "split_score": 0.465776293774439}
+{"sent": "fartest sheep", "ann_id": 66507, "best_split": [5, 1], "split_score": 0.291005290981233}
+{"sent": "small animal close to fence", "ann_id": 66507, "best_split": [2, 2], "split_score": 0.2697003329446656}
+{"sent": "goat standing on a rock", "ann_id": 64510, "best_split": [1, 3], "split_score": 0.6093189963816465}
+{"sent": "looking away from camera", "ann_id": 64510, "best_split": [2, 1], "split_score": 0.11360918440224799}
+{"sent": "lamb 1", "ann_id": 64510, "best_split": [1, 3], "split_score": 0.6093189963816465}
+{"sent": "smaller lamb", "ann_id": 61211, "best_split": [3, 2], "split_score": 0.2651013065456257}
+{"sent": "smallest animal", "ann_id": 61211, "best_split": [1, 3], "split_score": 0.28777064000191704}
+{"sent": "center lamb", "ann_id": 61211, "best_split": [3, 2], "split_score": 0.2651013065456257}

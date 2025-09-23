@@ -1,0 +1,6 @@
+{"sent": "child with case on head", "ann_id": 453177, "best_split": [1, 2], "split_score": 0.6388101982751491}
+{"sent": "holding a green object", "ann_id": 453177, "best_split": [1, 2], "split_score": 0.6388101982751491}
+{"sent": "hand of person with red shirt", "ann_id": 453177, "best_split": [1, 2], "split_score": 0.6388101982751491}
+{"sent": "guy in brown shirt", "ann_id": 440706, "best_split": [2, 1], "split_score": 0.47215242879836283}
+{"sent": "man in brown", "ann_id": 440706, "best_split": [2, 1], "split_score": 0.47215242879836283}
+{"sent": "man wearing long sleeves", "ann_id": 440706, "best_split": [2, 1], "split_score": 0.47215242879836283}

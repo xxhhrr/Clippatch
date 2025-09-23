@@ -1,0 +1,9 @@
+{"sent": "baby", "ann_id": 215678, "best_split": [3, 2], "split_score": 0.48642779582123474}
+{"sent": "baby in yellow", "ann_id": 215678, "best_split": [3, 2], "split_score": 0.48642779582123474}
+{"sent": "baby", "ann_id": 215678, "best_split": [3, 2], "split_score": 0.48642779582123474}
+{"sent": "lady holding baby", "ann_id": 207522, "best_split": [2, 3], "split_score": 0.6172901920612327}
+{"sent": "woman", "ann_id": 207522, "best_split": [2, 3], "split_score": 0.6172901920612327}
+{"sent": "glasses", "ann_id": 207522, "best_split": [2, 3], "split_score": 0.6172901920612327}
+{"sent": "girl in white", "ann_id": 192328, "best_split": [1, 2], "split_score": 0.8427793542126398}
+{"sent": "white shirt", "ann_id": 192328, "best_split": [3, 1], "split_score": 0.27726098190318926}
+{"sent": "girl looking at baby", "ann_id": 192328, "best_split": [2, 1], "split_score": 0.36600341101859}

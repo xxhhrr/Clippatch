@@ -1,0 +1,6 @@
+{"sent": "back seat guy", "ann_id": 187403, "best_split": [3, 1], "split_score": 0.24333211544217692}
+{"sent": "passenger", "ann_id": 187403, "best_split": [1, 2], "split_score": 0.2887834821313463}
+{"sent": "rider on back", "ann_id": 187403, "best_split": [3, 1], "split_score": 0.24333211544217692}
+{"sent": "driver", "ann_id": 185184, "best_split": [1, 3], "split_score": 0.4440154439886574}
+{"sent": "driver", "ann_id": 185184, "best_split": [1, 3], "split_score": 0.4440154439886574}
+{"sent": "driver of the motorcycle", "ann_id": 185184, "best_split": [1, 3], "split_score": 0.4440154439886574}

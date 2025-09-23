@@ -1,0 +1,6 @@
+{"sent": "man standing in red", "ann_id": 541721, "best_split": [3, 2], "split_score": 0.2483221476249662}
+{"sent": "a coach watching game", "ann_id": 541721, "best_split": [3, 1], "split_score": 0.13285457808949425}
+{"sent": "man in red leaning in corner", "ann_id": 541721, "best_split": [3, 2], "split_score": 0.2483221476249662}
+{"sent": "batter", "ann_id": 450090, "best_split": [1, 5], "split_score": 0.42307692304514144}
+{"sent": "batter", "ann_id": 450090, "best_split": [1, 5], "split_score": 0.42307692304514144}
+{"sent": "yellow", "ann_id": 450090, "best_split": [2, 2], "split_score": 0.4393505888323008}

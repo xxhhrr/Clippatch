@@ -1,0 +1,9 @@
+{"sent": "sitting", "ann_id": 583805, "best_split": [2, 2], "split_score": 0.5313843507817062}
+{"sent": "elephant lying down", "ann_id": 583805, "best_split": [2, 2], "split_score": 0.5313843507817062}
+{"sent": "im sitting", "ann_id": 583805, "best_split": [2, 2], "split_score": 0.5313843507817062}
+{"sent": "elephant with raised trunk", "ann_id": 583591, "best_split": [1, 3], "split_score": 0.21904393049579263}
+{"sent": "elephant with tusks showing", "ann_id": 583591, "best_split": [1, 3], "split_score": 0.21904393049579263}
+{"sent": "elephant with trunk up", "ann_id": 583591, "best_split": [1, 3], "split_score": 0.21904393049579263}
+{"sent": "elephant", "ann_id": 581367, "best_split": [1, 2], "split_score": 0.5883630372701676}
+{"sent": "side elephant standing", "ann_id": 581367, "best_split": [1, 2], "split_score": 0.5883630372701676}
+{"sent": "elefant close to man", "ann_id": 581367, "best_split": [2, 1], "split_score": 0.34638821885405646}

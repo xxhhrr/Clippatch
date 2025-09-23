@@ -1,0 +1,6 @@
+{"sent": "brown cow", "ann_id": 72489, "best_split": [2, 2], "split_score": 0.46014030608576684}
+{"sent": "light brown cow", "ann_id": 72489, "best_split": [2, 2], "split_score": 0.46014030608576684}
+{"sent": "tan cow", "ann_id": 72489, "best_split": [2, 2], "split_score": 0.46014030608576684}
+{"sent": "closest black", "ann_id": 71958, "best_split": [2, 3], "split_score": 0.6195704632457082}
+{"sent": "black cow", "ann_id": 71958, "best_split": [2, 3], "split_score": 0.6195704632457082}
+{"sent": "black cow", "ann_id": 71958, "best_split": [2, 3], "split_score": 0.6195704632457082}

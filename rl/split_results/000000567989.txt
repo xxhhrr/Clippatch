@@ -1,0 +1,6 @@
+{"sent": "horse without head", "ann_id": 274247, "best_split": [1, 3], "split_score": 0.6383029435920449}
+{"sent": "furthest horse", "ann_id": 274247, "best_split": [1, 3], "split_score": 0.6383029435920449}
+{"sent": "horse that is barely visible", "ann_id": 274247, "best_split": [1, 3], "split_score": 0.6383029435920449}
+{"sent": "main horse", "ann_id": 54501, "best_split": [2, 1], "split_score": 0.44436744769274616}
+{"sent": "fully visible horse", "ann_id": 54501, "best_split": [2, 1], "split_score": 0.44436744769274616}
+{"sent": "big horse", "ann_id": 54501, "best_split": [2, 1], "split_score": 0.44436744769274616}

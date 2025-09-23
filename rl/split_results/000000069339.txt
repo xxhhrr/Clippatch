@@ -1,0 +1,5 @@
+{"sent": "boy with glasses", "ann_id": 499155, "best_split": [1, 2], "split_score": 0.7085106382743181}
+{"sent": "boy in glasses", "ann_id": 499155, "best_split": [1, 2], "split_score": 0.7085106382743181}
+{"sent": "glasses guy", "ann_id": 499155, "best_split": [1, 2], "split_score": 0.7085106382743181}
+{"sent": "boy looking down", "ann_id": 434656, "best_split": [2, 1], "split_score": 0.26860791029785863}
+{"sent": "kid looking down", "ann_id": 434656, "best_split": [3, 2], "split_score": 0.34503322539231274}

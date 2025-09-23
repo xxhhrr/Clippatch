@@ -1,0 +1,12 @@
+{"sent": "beige shirt with the pizza", "ann_id": 1290776, "best_split": [1, 2], "split_score": 0.6988731079316238}
+{"sent": "tan shirt", "ann_id": 1290776, "best_split": [1, 2], "split_score": 0.6988731079316238}
+{"sent": "brown shirt handing food", "ann_id": 1290776, "best_split": [1, 2], "split_score": 0.6988731079316238}
+{"sent": "looking at pizza", "ann_id": 1271234, "best_split": [2, 1], "split_score": 0.1974135739642408}
+{"sent": "guy in white shirt with design", "ann_id": 1271234, "best_split": [2, 1], "split_score": 0.20395514519651273}
+{"sent": "white shirt on edge", "ann_id": 1271234, "best_split": [2, 1], "split_score": 0.20395514519651273}
+{"sent": "woman in green with white letters", "ann_id": 1266869, "best_split": [1, 5], "split_score": 0.6794783801750619}
+{"sent": "woman", "ann_id": 1266869, "best_split": [1, 5], "split_score": 0.6794783801750619}
+{"sent": "woman green shirt", "ann_id": 1266869, "best_split": [3, 1], "split_score": 0.17919282510407206}
+{"sent": "the guy in the white shirt with his hand up", "ann_id": 1253551, "best_split": [3, 3], "split_score": 0.34400826441838733}
+{"sent": "guy with hand up", "ann_id": 1253551, "best_split": [1, 5], "split_score": 0.44034284596860396}
+{"sent": "man close to woman with hand up", "ann_id": 1253551, "best_split": [2, 2], "split_score": 0.14709550376454902}

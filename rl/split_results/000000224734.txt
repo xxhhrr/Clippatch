@@ -1,0 +1,6 @@
+{"sent": "kihaki pants", "ann_id": 527801, "best_split": [1, 3], "split_score": 0.3812741312511297}
+{"sent": "white clothes standing up", "ann_id": 527801, "best_split": [1, 5], "split_score": 0.641233766168706}
+{"sent": "standing person wearing tan", "ann_id": 527801, "best_split": [1, 2], "split_score": 0.25191326529608127}
+{"sent": "man sitting", "ann_id": 483835, "best_split": [1, 3], "split_score": 0.4573670444438811}
+{"sent": "blue shirt", "ann_id": 483835, "best_split": [1, 3], "split_score": 0.4573670444438811}
+{"sent": "the man", "ann_id": 483835, "best_split": [1, 3], "split_score": 0.4573670444438811}

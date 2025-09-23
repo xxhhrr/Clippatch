@@ -1,0 +1,6 @@
+{"sent": "black shirt kid", "ann_id": 545687, "best_split": [3, 3], "split_score": 0.5085211654056457}
+{"sent": "kid in blue shirt", "ann_id": 545687, "best_split": [3, 3], "split_score": 0.5085211654056457}
+{"sent": "kid running", "ann_id": 545687, "best_split": [1, 5], "split_score": 0.2508960573272323}
+{"sent": "man in light blue shirt", "ann_id": 484186, "best_split": [2, 3], "split_score": 0.26733870965046985}
+{"sent": "guy standing", "ann_id": 484186, "best_split": [1, 3], "split_score": 0.23563558818649238}
+{"sent": "man wearing blue shirt", "ann_id": 484186, "best_split": [2, 3], "split_score": 0.26733870965046985}

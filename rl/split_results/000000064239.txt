@@ -1,0 +1,5 @@
+{"sent": "white cup", "ann_id": 676682, "best_split": [1, 2], "split_score": 0.0860969387720784}
+{"sent": "blue mug", "ann_id": 676682, "best_split": [3, 2], "split_score": 0.2606177605863154}
+{"sent": "juice", "ann_id": 669239, "best_split": [3, 3], "split_score": 0.5092857141947704}
+{"sent": "foggy juice", "ann_id": 669239, "best_split": [3, 3], "split_score": 0.5092857141947704}
+{"sent": "orange juice", "ann_id": 669239, "best_split": [3, 3], "split_score": 0.5092857141947704}

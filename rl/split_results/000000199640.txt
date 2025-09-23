@@ -1,0 +1,8 @@
+{"sent": "the bike under the orange shirt man", "ann_id": 155085, "best_split": [2, 1], "split_score": 0.2207075130337494}
+{"sent": "black moped driven by man with tan striped shirt", "ann_id": 155085, "best_split": [2, 3], "split_score": 0.5984284965323804}
+{"sent": "motorcycle beneath man in orange shirt", "ann_id": 155085, "best_split": [1, 3], "split_score": 0.4118246686807085}
+{"sent": "red scooter", "ann_id": 155003, "best_split": [3, 1], "split_score": 0.3761544920009503}
+{"sent": "the red bike", "ann_id": 155003, "best_split": [3, 1], "split_score": 0.3761544920009503}
+{"sent": "part of bike with woman in pink", "ann_id": 153122, "best_split": [2, 2], "split_score": 0.6038276825601155}
+{"sent": "motorcyc with girl blue helmet", "ann_id": 153122, "best_split": [2, 2], "split_score": 0.6038276825601155}
+{"sent": "bike the pink girl is riding", "ann_id": 153122, "best_split": [2, 2], "split_score": 0.6038276825601155}

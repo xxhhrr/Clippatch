@@ -1,0 +1,5 @@
+{"sent": "oven door", "ann_id": 1125847, "best_split": [2, 3], "split_score": 0.710296684041198}
+{"sent": "oven door nearest floor window", "ann_id": 1125847, "best_split": [2, 3], "split_score": 0.710296684041198}
+{"sent": "oven with light on", "ann_id": 1125847, "best_split": [2, 3], "split_score": 0.710296684041198}
+{"sent": "microwave like oven", "ann_id": 1121196, "best_split": [3, 2], "split_score": 0.5396591281104836}
+{"sent": "stove above other stove", "ann_id": 1121196, "best_split": [3, 2], "split_score": 0.5396591281104836}

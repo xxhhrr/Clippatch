@@ -1,0 +1,6 @@
+{"sent": "speeding mack truck", "ann_id": 398975, "best_split": [3, 3], "split_score": 0.517817804779342}
+{"sent": "red truck", "ann_id": 398975, "best_split": [3, 3], "split_score": 0.517817804779342}
+{"sent": "driving by", "ann_id": 398975, "best_split": [3, 2], "split_score": 0.43089350798631726}
+{"sent": "jeep", "ann_id": 398673, "best_split": [3, 2], "split_score": 0.45249014398161636}
+{"sent": "truck without motion blur", "ann_id": 398673, "best_split": [3, 2], "split_score": 0.45249014398161636}
+{"sent": "black car", "ann_id": 398673, "best_split": [3, 2], "split_score": 0.45249014398161636}

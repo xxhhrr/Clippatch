@@ -1,0 +1,5 @@
+{"sent": "umbrella lef", "ann_id": 286047, "best_split": [2, 2], "split_score": 0.433658219594954}
+{"sent": "yellow umbrella on black dress", "ann_id": 286047, "best_split": [2, 3], "split_score": 0.32994772215609053}
+{"sent": "umbrella you can see all of", "ann_id": 286047, "best_split": [2, 2], "split_score": 0.433658219594954}
+{"sent": "girl in sunflower dress umbrella itself", "ann_id": 283515, "best_split": [2, 2], "split_score": 0.44955044951837086}
+{"sent": "umbrella with girl in white dress", "ann_id": 283515, "best_split": [1, 5], "split_score": 0.38329932503662695}

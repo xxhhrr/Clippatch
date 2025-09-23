@@ -1,0 +1,5 @@
+{"sent": "one far", "ann_id": 595043, "best_split": [1, 3], "split_score": 0.5586338317004311}
+{"sent": "giraffe behind the other giraffe", "ann_id": 595043, "best_split": [1, 3], "split_score": 0.5586338317004311}
+{"sent": "the back one", "ann_id": 595043, "best_split": [1, 3], "split_score": 0.5586338317004311}
+{"sent": "one closest full body", "ann_id": 594504, "best_split": [1, 2], "split_score": 0.6108185602654788}
+{"sent": "close giraffe", "ann_id": 594504, "best_split": [1, 2], "split_score": 0.6108185602654788}

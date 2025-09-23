@@ -1,0 +1,12 @@
+{"sent": "read them like a printed page number 2", "ann_id": 1559342, "best_split": [3, 1], "split_score": 0.31268098453712106}
+{"sent": "orange at 1100", "ann_id": 1559342, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "fruit behind orange with big brown spot", "ann_id": 1559342, "best_split": [1, 3], "split_score": 0.2262736699601965}
+{"sent": "biggest orange partially seen", "ann_id": 1559013, "best_split": [2, 2], "split_score": 0.9097688842272931}
+{"sent": "big orange sideways to lemon", "ann_id": 1559013, "best_split": [3, 2], "split_score": 0.6132596684625011}
+{"sent": "half an orange without any holes visable", "ann_id": 1558886, "best_split": [1, 2], "split_score": 0.2008928571348496}
+{"sent": "orange corner 4oclock", "ann_id": 1558886, "best_split": [1, 5], "split_score": 0.4615384614931771}
+{"sent": "righty side orange", "ann_id": 1558886, "best_split": [1, 3], "split_score": 0.2953020134051233}
+{"sent": "orange under dirty lemon", "ann_id": 1558370, "best_split": [3, 1], "split_score": 0.255636878747749}
+{"sent": "orange under two lemons and one orange near corner", "ann_id": 1558370, "best_split": [1, 5], "split_score": 0.2945205479190072}
+{"sent": "orange on lemons with black spot", "ann_id": 1557955, "best_split": [1, 3], "split_score": 0.2551446696448943}
+{"sent": "orange with very dark dirt", "ann_id": 1557955, "best_split": [2, 3], "split_score": 0.13734939758062725}

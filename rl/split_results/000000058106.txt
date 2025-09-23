@@ -1,0 +1,6 @@
+{"sent": "smaller elephant", "ann_id": 585263, "best_split": [3, 1], "split_score": 0.32298136644171577}
+{"sent": "smaller one", "ann_id": 585263, "best_split": [2, 2], "split_score": 0.3135435992371095}
+{"sent": "small elephant", "ann_id": 585263, "best_split": [3, 1], "split_score": 0.32298136644171577}
+{"sent": "elephant nose higher", "ann_id": 584644, "best_split": [3, 1], "split_score": 0.35701406417201514}
+{"sent": "the elephant whose trunk is higher", "ann_id": 584644, "best_split": [3, 1], "split_score": 0.35701406417201514}
+{"sent": "elephant with trunk in air", "ann_id": 584644, "best_split": [3, 2], "split_score": 0.43562624251008936}

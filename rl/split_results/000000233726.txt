@@ -1,0 +1,6 @@
+{"sent": "the arm by itself", "ann_id": 1707571, "best_split": [3, 2], "split_score": 0.5255791505157361}
+{"sent": "arm with no body", "ann_id": 1707571, "best_split": [3, 2], "split_score": 0.5255791505157361}
+{"sent": "holding controller", "ann_id": 1707571, "best_split": [3, 2], "split_score": 0.5255791505157361}
+{"sent": "boy in red", "ann_id": 495511, "best_split": [2, 1], "split_score": 0.4822806932258294}
+{"sent": "main dude", "ann_id": 495511, "best_split": [1, 2], "split_score": 0.583893139655456}
+{"sent": "red shirt", "ann_id": 495511, "best_split": [2, 1], "split_score": 0.4822806932258294}

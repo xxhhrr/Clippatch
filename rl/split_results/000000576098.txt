@@ -1,0 +1,6 @@
+{"sent": "woman in black shorts", "ann_id": 237765, "best_split": [5, 1], "split_score": 0.12334675099745926}
+{"sent": "long hair walking away", "ann_id": 237765, "best_split": [3, 1], "split_score": 0.148288973376411}
+{"sent": "woman in jean jacket and shorts", "ann_id": 237765, "best_split": [2, 1], "split_score": 0.10316722670682894}
+{"sent": "officer", "ann_id": 232671, "best_split": [1, 5], "split_score": 0.4130599847747665}
+{"sent": "cop", "ann_id": 232671, "best_split": [1, 5], "split_score": 0.4130599847747665}
+{"sent": "white shirt", "ann_id": 232671, "best_split": [1, 5], "split_score": 0.4130599847747665}

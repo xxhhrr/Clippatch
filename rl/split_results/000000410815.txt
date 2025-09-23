@@ -1,0 +1,6 @@
+{"sent": "boat 3 away", "ann_id": 1378331, "best_split": [5, 1], "split_score": 0.3097254094872418}
+{"sent": "boat with brown pole", "ann_id": 1378331, "best_split": [3, 2], "split_score": 0.4196513169964325}
+{"sent": "smaller boat", "ann_id": 1378331, "best_split": [5, 1], "split_score": 0.3097254094872418}
+{"sent": "faetom", "ann_id": 1376385, "best_split": [2, 2], "split_score": 0.7567077365215643}
+{"sent": "closest full boat", "ann_id": 1376385, "best_split": [2, 2], "split_score": 0.7567077365215643}
+{"sent": "boat with faetom written", "ann_id": 1376385, "best_split": [2, 2], "split_score": 0.7567077365215643}

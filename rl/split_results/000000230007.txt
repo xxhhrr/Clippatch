@@ -1,0 +1,15 @@
+{"sent": "chair shown less with black shirt sitting in it", "ann_id": 383373, "best_split": [3, 3], "split_score": 0.29944547130322774}
+{"sent": "chair of man in black shirt", "ann_id": 383373, "best_split": [3, 3], "split_score": 0.29944547130322774}
+{"sent": "chair of guy in black", "ann_id": 383373, "best_split": [5, 1], "split_score": 0.2694136291333782}
+{"sent": "the seat the guy with the lighter shirt is in", "ann_id": 379102, "best_split": [1, 2], "split_score": 0.13408801019873692}
+{"sent": "guy in beigh is sitting on it", "ann_id": 379102, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "chair back with guy in beige shirt sitting in it", "ann_id": 379102, "best_split": [3, 2], "split_score": 0.4058880308390579}
+{"sent": "a man with a black shirt on", "ann_id": 1751544, "best_split": [1, 2], "split_score": 0.685921547528751}
+{"sent": "guy in black shirt", "ann_id": 1751544, "best_split": [1, 2], "split_score": 0.685921547528751}
+{"sent": "black shirt", "ann_id": 1751544, "best_split": [1, 2], "split_score": 0.685921547528751}
+{"sent": "person in a tie at the table", "ann_id": 468467, "best_split": [2, 3], "split_score": 0.33783783779707555}
+{"sent": "guy looking at camera", "ann_id": 468467, "best_split": [2, 3], "split_score": 0.33783783779707555}
+{"sent": "boy in the back", "ann_id": 468467, "best_split": [2, 3], "split_score": 0.33783783779707555}
+{"sent": "tan shirt", "ann_id": 445379, "best_split": [1, 2], "split_score": 0.6419005101784957}
+{"sent": "beige tan shirt", "ann_id": 445379, "best_split": [1, 2], "split_score": 0.6419005101784957}
+{"sent": "white shirt", "ann_id": 445379, "best_split": [1, 2], "split_score": 0.6419005101784957}

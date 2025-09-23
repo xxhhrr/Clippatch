@@ -1,0 +1,9 @@
+{"sent": "girl covered in red", "ann_id": 485421, "best_split": [2, 2], "split_score": 0.6034302325230564}
+{"sent": "red sweater", "ann_id": 485421, "best_split": [2, 2], "split_score": 0.6034302325230564}
+{"sent": "lady in red", "ann_id": 485421, "best_split": [2, 2], "split_score": 0.6034302325230564}
+{"sent": "man cooking", "ann_id": 481690, "best_split": [3, 3], "split_score": 0.39504827150497535}
+{"sent": "man", "ann_id": 481690, "best_split": [3, 3], "split_score": 0.39504827150497535}
+{"sent": "man", "ann_id": 481690, "best_split": [3, 3], "split_score": 0.39504827150497535}
+{"sent": "the girl who is not in red", "ann_id": 479005, "best_split": [2, 1], "split_score": 0.16855625716961264}
+{"sent": "white shirt", "ann_id": 479005, "best_split": [1, 5], "split_score": 0.4087917445024139}
+{"sent": "light shirt", "ann_id": 479005, "best_split": [1, 5], "split_score": 0.4087917445024139}

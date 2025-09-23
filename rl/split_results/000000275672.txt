@@ -1,0 +1,6 @@
+{"sent": "mason jar by carrots", "ann_id": 1501742, "best_split": [2, 2], "split_score": 0.18001384720516855}
+{"sent": "handled jar next to carrots", "ann_id": 1501742, "best_split": [2, 2], "split_score": 0.18001384720516855}
+{"sent": "glass with handle by coffee mug", "ann_id": 1501742, "best_split": [2, 2], "split_score": 0.18001384720516855}
+{"sent": "mug with water", "ann_id": 1501324, "best_split": [2, 1], "split_score": 0.07462855846377722}
+{"sent": "cup by jar lid", "ann_id": 1501324, "best_split": [3, 3], "split_score": 0.5559675140261356}
+{"sent": "open mason jar next to lif", "ann_id": 1501324, "best_split": [3, 3], "split_score": 0.5559675140261356}

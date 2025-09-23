@@ -1,0 +1,9 @@
+{"sent": "banana at 11oclock", "ann_id": 1905124, "best_split": [1, 2], "split_score": 0.0733418367317705}
+{"sent": "tiny banana piece pushed up against the bowl", "ann_id": 1905124, "best_split": [1, 2], "split_score": 0.0733418367317705}
+{"sent": "banana at 11 o clock", "ann_id": 1905124, "best_split": [1, 2], "split_score": 0.0733418367317705}
+{"sent": "banana at 2 o clock", "ann_id": 1904894, "best_split": [1, 5], "split_score": 0.23280423278223694}
+{"sent": "banana higher then others in corner touching the red fruit", "ann_id": 1904894, "best_split": [1, 5], "split_score": 0.23280423278223694}
+{"sent": "banana slice in northeast corner", "ann_id": 1904894, "best_split": [1, 5], "split_score": 0.23280423278223694}
+{"sent": "banana slices", "ann_id": 1042140, "best_split": [2, 1], "split_score": 0.705164254828024}
+{"sent": "the closest banana slice", "ann_id": 1042140, "best_split": [2, 1], "split_score": 0.705164254828024}
+{"sent": "big bananas", "ann_id": 1042140, "best_split": [2, 1], "split_score": 0.705164254828024}

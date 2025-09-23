@@ -1,0 +1,6 @@
+{"sent": "carrots", "ann_id": 1565894, "best_split": [3, 2], "split_score": 0.802431610855142}
+{"sent": "carrots closest to camera", "ann_id": 1565894, "best_split": [3, 2], "split_score": 0.802431610855142}
+{"sent": "carrots closes to us", "ann_id": 1565894, "best_split": [3, 2], "split_score": 0.802431610855142}
+{"sent": "carrots near vegetables with green tops", "ann_id": 1917559, "best_split": [2, 2], "split_score": 0.45888441629824006}
+{"sent": "group of carrots furthest from us", "ann_id": 1917559, "best_split": [2, 2], "split_score": 0.45888441629824006}
+{"sent": "red stuff touching green", "ann_id": 1917559, "best_split": [2, 2], "split_score": 0.45888441629824006}

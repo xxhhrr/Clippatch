@@ -1,0 +1,5 @@
+{"sent": "bike at 3 o clock", "ann_id": 1360274, "best_split": [2, 1], "split_score": 0.3675827607601662}
+{"sent": "full picture of motorcycle", "ann_id": 1360274, "best_split": [2, 1], "split_score": 0.3675827607601662}
+{"sent": "motorcycle close to us", "ann_id": 1790644, "best_split": [3, 2], "split_score": 0.8565371023726104}
+{"sent": "closest bike we only half see in corner", "ann_id": 1790644, "best_split": [3, 2], "split_score": 0.8565371023726104}
+{"sent": "partial bike closest", "ann_id": 1790644, "best_split": [3, 2], "split_score": 0.8565371023726104}

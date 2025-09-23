@@ -1,0 +1,6 @@
+{"sent": "yellow tank", "ann_id": 154610, "best_split": [3, 1], "split_score": 0.3831837990062454}
+{"sent": "silver motorcyle", "ann_id": 154610, "best_split": [3, 2], "split_score": 0.6663100650203878}
+{"sent": "motorcycle near man and woman", "ann_id": 154610, "best_split": [3, 2], "split_score": 0.6663100650203878}
+{"sent": "closer motorcycle", "ann_id": 154516, "best_split": [3, 1], "split_score": 0.39573737214475224}
+{"sent": "bike closest to you", "ann_id": 154516, "best_split": [3, 1], "split_score": 0.39573737214475224}
+{"sent": "closest motorcycle to camera", "ann_id": 154516, "best_split": [3, 1], "split_score": 0.39573737214475224}

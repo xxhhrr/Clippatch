@@ -1,0 +1,6 @@
+{"sent": "red shirt girl", "ann_id": 1315039, "best_split": [2, 1], "split_score": 0.10083734891773294}
+{"sent": "the girl whose back is toward us half of body", "ann_id": 1315039, "best_split": [2, 3], "split_score": 0.2829991887492178}
+{"sent": "girl in red shirt cut off", "ann_id": 1315039, "best_split": [2, 2], "split_score": 0.19985908875842656}
+{"sent": "man in tan shirt", "ann_id": 1219761, "best_split": [2, 3], "split_score": 0.5868875572270984}
+{"sent": "man carrying a bag", "ann_id": 1219761, "best_split": [2, 3], "split_score": 0.5868875572270984}
+{"sent": "tan shirt", "ann_id": 1219761, "best_split": [2, 3], "split_score": 0.5868875572270984}

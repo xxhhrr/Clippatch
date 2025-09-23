@@ -1,0 +1,6 @@
+{"sent": "person standing in dark blue", "ann_id": 456930, "best_split": [3, 3], "split_score": 0.31736154319891696}
+{"sent": "ball girl", "ann_id": 456930, "best_split": [3, 2], "split_score": 0.2207792207553269}
+{"sent": "blue shirt standing girl", "ann_id": 456930, "best_split": [1, 5], "split_score": 0.3035714285406279}
+{"sent": "tennis player wearing white", "ann_id": 453871, "best_split": [1, 3], "split_score": 0.5015060240694112}
+{"sent": "man tennis player", "ann_id": 453871, "best_split": [1, 3], "split_score": 0.5015060240694112}
+{"sent": "the player", "ann_id": 453871, "best_split": [1, 3], "split_score": 0.5015060240694112}

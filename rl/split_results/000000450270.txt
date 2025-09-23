@@ -1,0 +1,10 @@
+{"sent": "curved object next to cat closests to us", "ann_id": 2123871, "best_split": [2, 2], "split_score": 0.29729309269622795}
+{"sent": "brown thing near edge close to table", "ann_id": 2123871, "best_split": [1, 5], "split_score": 0.41943993502237825}
+{"sent": "light brown edge at edge", "ann_id": 2123871, "best_split": [2, 3], "split_score": 0.4444186045994862}
+{"sent": "chir", "ann_id": 100621, "best_split": [1, 5], "split_score": 0.1435766182180006}
+{"sent": "chair person is sitting in", "ann_id": 100621, "best_split": [5, 1], "split_score": 0.36989417462467666}
+{"sent": "forward cat", "ann_id": 50851, "best_split": [3, 1], "split_score": 0.5988979450924752}
+{"sent": "cat lying down", "ann_id": 50851, "best_split": [3, 1], "split_score": 0.5988979450924752}
+{"sent": "cat laying closest to camera", "ann_id": 50851, "best_split": [3, 1], "split_score": 0.5988979450924752}
+{"sent": "striped standing cat", "ann_id": 47814, "best_split": [2, 3], "split_score": 0.4086687306106164}
+{"sent": "cat looking toward camera", "ann_id": 47814, "best_split": [2, 3], "split_score": 0.4086687306106164}

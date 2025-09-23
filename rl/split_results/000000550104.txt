@@ -1,0 +1,6 @@
+{"sent": "jet nose closet to camera", "ann_id": 160264, "best_split": [2, 2], "split_score": 0.618735483839033}
+{"sent": "plane where we can one see its nose", "ann_id": 160264, "best_split": [2, 1], "split_score": 0.6034400905451032}
+{"sent": "airplane in foregroud", "ann_id": 160264, "best_split": [2, 1], "split_score": 0.6034400905451032}
+{"sent": "plane flying", "ann_id": 159561, "best_split": [3, 3], "split_score": 0.3931767337257862}
+{"sent": "plane in sky", "ann_id": 159561, "best_split": [3, 3], "split_score": 0.3931767337257862}
+{"sent": "plane in air", "ann_id": 159561, "best_split": [3, 3], "split_score": 0.3931767337257862}

@@ -1,0 +1,6 @@
+{"sent": "ginger beard man teal shirt", "ann_id": 463125, "best_split": [1, 3], "split_score": 0.45295149033997106}
+{"sent": "blue shirt", "ann_id": 463125, "best_split": [1, 2], "split_score": 0.6156316916282243}
+{"sent": "person in blue hat", "ann_id": 463125, "best_split": [1, 2], "split_score": 0.6156316916282243}
+{"sent": "brown shirt", "ann_id": 438254, "best_split": [1, 2], "split_score": 0.4725687372558373}
+{"sent": "person with frisbee", "ann_id": 438254, "best_split": [1, 3], "split_score": 0.5541196806093456}
+{"sent": "man in brown shirt", "ann_id": 438254, "best_split": [1, 2], "split_score": 0.4725687372558373}

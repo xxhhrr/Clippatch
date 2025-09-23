@@ -1,0 +1,6 @@
+{"sent": "red couch", "ann_id": 113703, "best_split": [3, 2], "split_score": 0.6147971359648213}
+{"sent": "red chair", "ann_id": 113703, "best_split": [3, 2], "split_score": 0.6147971359648213}
+{"sent": "red sofa", "ann_id": 113703, "best_split": [3, 2], "split_score": 0.6147971359648213}
+{"sent": "closest couch", "ann_id": 99783, "best_split": [2, 1], "split_score": 0.9486449029508529}
+{"sent": "pink quilt", "ann_id": 99783, "best_split": [2, 1], "split_score": 0.9486449029508529}
+{"sent": "gray couch", "ann_id": 99783, "best_split": [2, 1], "split_score": 0.9486449029508529}

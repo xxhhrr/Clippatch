@@ -1,0 +1,9 @@
+{"sent": "green hat tying his boots", "ann_id": 2165668, "best_split": [2, 3], "split_score": 0.2668759811317699}
+{"sent": "bending over with hat", "ann_id": 2165668, "best_split": [2, 3], "split_score": 0.2668759811317699}
+{"sent": "the person wearing a green cap bending over", "ann_id": 2165668, "best_split": [2, 3], "split_score": 0.2668759811317699}
+{"sent": "crouching guy with backpack", "ann_id": 562304, "best_split": [2, 3], "split_score": 0.36421628186784505}
+{"sent": "closest man bending over", "ann_id": 562304, "best_split": [2, 3], "split_score": 0.36421628186784505}
+{"sent": "closest bending man", "ann_id": 562304, "best_split": [3, 2], "split_score": 0.44684278346916534}
+{"sent": "person in red jacket", "ann_id": 514217, "best_split": [1, 5], "split_score": 0.5324163139156968}
+{"sent": "santa looking skier", "ann_id": 514217, "best_split": [1, 5], "split_score": 0.5324163139156968}
+{"sent": "red jacket", "ann_id": 514217, "best_split": [1, 5], "split_score": 0.5324163139156968}

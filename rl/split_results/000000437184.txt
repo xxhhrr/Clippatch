@@ -1,0 +1,12 @@
+{"sent": "laptop with gray screen", "ann_id": 1627057, "best_split": [2, 3], "split_score": 0.8498867293609291}
+{"sent": "laptop she is not touching", "ann_id": 1627057, "best_split": [2, 3], "split_score": 0.8498867293609291}
+{"sent": "darker laptop screen", "ann_id": 1627057, "best_split": [2, 3], "split_score": 0.8498867293609291}
+{"sent": "the computer she typing on", "ann_id": 1104329, "best_split": [2, 2], "split_score": 0.27503188773317666}
+{"sent": "whiter screen", "ann_id": 1104329, "best_split": [2, 2], "split_score": 0.27503188773317666}
+{"sent": "laptop being used", "ann_id": 1104329, "best_split": [2, 2], "split_score": 0.27503188773317666}
+{"sent": "the sleeve of green shirt", "ann_id": 520271, "best_split": [2, 3], "split_score": 0.884405411715594}
+{"sent": "arm of person not in pic", "ann_id": 520271, "best_split": [2, 1], "split_score": 0.2954094981251324}
+{"sent": "arm with green shrt", "ann_id": 520271, "best_split": [2, 3], "split_score": 0.884405411715594}
+{"sent": "woman with glasses on", "ann_id": 475392, "best_split": [2, 2], "split_score": 0.613034150831273}
+{"sent": "lady", "ann_id": 475392, "best_split": [2, 2], "split_score": 0.613034150831273}
+{"sent": "girl typing", "ann_id": 475392, "best_split": [2, 1], "split_score": 0.5670471309664163}

@@ -1,0 +1,6 @@
+{"sent": "standing small", "ann_id": 63904, "best_split": [1, 5], "split_score": 0.3437499999694824}
+{"sent": "standing baby", "ann_id": 63904, "best_split": [1, 5], "split_score": 0.3437499999694824}
+{"sent": "baby animal standing", "ann_id": 63904, "best_split": [1, 5], "split_score": 0.3437499999694824}
+{"sent": "large sheep", "ann_id": 61658, "best_split": [3, 2], "split_score": 0.44602121000640715}
+{"sent": "adult sheep", "ann_id": 61658, "best_split": [3, 2], "split_score": 0.44602121000640715}
+{"sent": "big sheep", "ann_id": 61658, "best_split": [3, 2], "split_score": 0.44602121000640715}

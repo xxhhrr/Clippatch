@@ -1,0 +1,6 @@
+{"sent": "girls hair", "ann_id": 214688, "best_split": [3, 3], "split_score": 0.47191011227402857}
+{"sent": "head in corner", "ann_id": 214688, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "blond girl out of frame", "ann_id": 214688, "best_split": [3, 3], "split_score": 0.47191011227402857}
+{"sent": "hat", "ann_id": 199003, "best_split": [2, 1], "split_score": 0.412643752829165}
+{"sent": "person sheering sheep", "ann_id": 199003, "best_split": [3, 1], "split_score": 0.44703740481433973}
+{"sent": "person in blue", "ann_id": 199003, "best_split": [2, 1], "split_score": 0.412643752829165}

@@ -1,0 +1,9 @@
+{"sent": "jersey", "ann_id": 1754919, "best_split": [1, 5], "split_score": 0.33034040450613317}
+{"sent": "jersey", "ann_id": 1754919, "best_split": [1, 5], "split_score": 0.33034040450613317}
+{"sent": "shirt with number 4", "ann_id": 1754919, "best_split": [1, 5], "split_score": 0.33034040450613317}
+{"sent": "guy facing the other direction brown shirt", "ann_id": 1753176, "best_split": [5, 1], "split_score": 0.22920517558148165}
+{"sent": "back of guy next to face", "ann_id": 1753176, "best_split": [3, 3], "split_score": 0.5689575997904549}
+{"sent": "man in distance", "ann_id": 1753176, "best_split": [3, 3], "split_score": 0.5689575997904549}
+{"sent": "person eating", "ann_id": 2228883, "best_split": [1, 2], "split_score": 0.6579192972643997}
+{"sent": "man", "ann_id": 2228883, "best_split": [1, 2], "split_score": 0.6579192972643997}
+{"sent": "man in black", "ann_id": 2228883, "best_split": [1, 2], "split_score": 0.6579192972643997}

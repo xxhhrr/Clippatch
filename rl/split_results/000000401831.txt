@@ -1,0 +1,6 @@
+{"sent": "tallest", "ann_id": 595742, "best_split": [1, 3], "split_score": 0.4802308185253136}
+{"sent": "taller", "ann_id": 595742, "best_split": [1, 3], "split_score": 0.4802308185253136}
+{"sent": "tallest giraffe", "ann_id": 595742, "best_split": [1, 3], "split_score": 0.4802308185253136}
+{"sent": "the one with less shadow", "ann_id": 595676, "best_split": [1, 3], "split_score": 0.37791652972264606}
+{"sent": "the one making a funny face", "ann_id": 595676, "best_split": [1, 2], "split_score": 0.4107981220504211}
+{"sent": "shortest", "ann_id": 595676, "best_split": [1, 3], "split_score": 0.37791652972264606}

@@ -1,0 +1,6 @@
+{"sent": "small", "ann_id": 1407870, "best_split": [2, 3], "split_score": 0.7829391890947226}
+{"sent": "smaller animal", "ann_id": 1407870, "best_split": [2, 2], "split_score": 0.5172991071016184}
+{"sent": "smallest moose", "ann_id": 1407870, "best_split": [2, 2], "split_score": 0.5172991071016184}
+{"sent": "bigger one", "ann_id": 1407690, "best_split": [2, 3], "split_score": 0.6378805851611008}
+{"sent": "big moose", "ann_id": 1407690, "best_split": [2, 3], "split_score": 0.6378805851611008}
+{"sent": "biggest animal", "ann_id": 1407690, "best_split": [2, 3], "split_score": 0.6378805851611008}

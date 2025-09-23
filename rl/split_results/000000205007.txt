@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 1233523, "best_split": [2, 3], "split_score": 0.34517561562927174}
+{"sent": "man with camera around neck", "ann_id": 1233523, "best_split": [2, 3], "split_score": 0.34517561562927174}
+{"sent": "man in brown coat", "ann_id": 1233523, "best_split": [2, 3], "split_score": 0.34517561562927174}
+{"sent": "woman in blue", "ann_id": 465990, "best_split": [2, 2], "split_score": 0.1966873705858705}
+{"sent": "woman in blue shirt", "ann_id": 465990, "best_split": [2, 2], "split_score": 0.1966873705858705}
+{"sent": "woman in blue", "ann_id": 465990, "best_split": [2, 2], "split_score": 0.1966873705858705}
+{"sent": "girl sitting", "ann_id": 451081, "best_split": [3, 2], "split_score": 0.43052703623968797}
+{"sent": "squished woman", "ann_id": 451081, "best_split": [3, 2], "split_score": 0.43052703623968797}
+{"sent": "green shirt", "ann_id": 451081, "best_split": [3, 2], "split_score": 0.43052703623968797}

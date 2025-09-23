@@ -1,0 +1,6 @@
+{"sent": "wall behind the cat", "ann_id": 1605384, "best_split": [2, 1], "split_score": 0.8954081632296154}
+{"sent": "wall above cat", "ann_id": 1605384, "best_split": [2, 1], "split_score": 0.8954081632296154}
+{"sent": "space above cat", "ann_id": 1605384, "best_split": [2, 1], "split_score": 0.8954081632296154}
+{"sent": "gray pillow", "ann_id": 1605373, "best_split": [1, 3], "split_score": 0.7738995770579605}
+{"sent": "pillow", "ann_id": 1605373, "best_split": [1, 3], "split_score": 0.7738995770579605}
+{"sent": "gray pillow cat laying head on", "ann_id": 1605373, "best_split": [1, 3], "split_score": 0.7738995770579605}

@@ -1,0 +1,6 @@
+{"sent": "which boy have the white shirt", "ann_id": 511816, "best_split": [1, 5], "split_score": 0.39201653940903175}
+{"sent": "boy with yellow hat", "ann_id": 511816, "best_split": [1, 5], "split_score": 0.39201653940903175}
+{"sent": "kid without ball clodeby", "ann_id": 511816, "best_split": [1, 5], "split_score": 0.39201653940903175}
+{"sent": "lil guy with racket up", "ann_id": 451334, "best_split": [2, 2], "split_score": 0.18579686208648125}
+{"sent": "boy with hands up", "ann_id": 451334, "best_split": [1, 5], "split_score": 0.5786802029932305}
+{"sent": "boy with racket over head", "ann_id": 451334, "best_split": [2, 2], "split_score": 0.18579686208648125}

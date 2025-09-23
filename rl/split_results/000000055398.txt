@@ -1,0 +1,12 @@
+{"sent": "man", "ann_id": 236818, "best_split": [1, 3], "split_score": 0.28378378376666363}
+{"sent": "man", "ann_id": 236818, "best_split": [1, 3], "split_score": 0.28378378376666363}
+{"sent": "man", "ann_id": 236818, "best_split": [1, 3], "split_score": 0.28378378376666363}
+{"sent": "woman", "ann_id": 205950, "best_split": [3, 3], "split_score": 0.43354918278853694}
+{"sent": "the woman", "ann_id": 205950, "best_split": [3, 3], "split_score": 0.43354918278853694}
+{"sent": "woman", "ann_id": 205950, "best_split": [3, 3], "split_score": 0.43354918278853694}
+{"sent": "the gas stove", "ann_id": 1126935, "best_split": [3, 2], "split_score": 0.47279214981347095}
+{"sent": "stove burners", "ann_id": 1126935, "best_split": [3, 2], "split_score": 0.47279214981347095}
+{"sent": "stove gas grill grates", "ann_id": 1126935, "best_split": [3, 2], "split_score": 0.47279214981347095}
+{"sent": "the oven behind the lady", "ann_id": 1126794, "best_split": [3, 3], "split_score": 0.5562091502359136}
+{"sent": "the ovens", "ann_id": 1126794, "best_split": [1, 3], "split_score": 0.24420849419376156}
+{"sent": "oven behind them", "ann_id": 1126794, "best_split": [3, 3], "split_score": 0.5562091502359136}

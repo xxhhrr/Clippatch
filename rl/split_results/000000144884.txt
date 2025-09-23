@@ -1,0 +1,9 @@
+{"sent": "vase with vases around it", "ann_id": 1668014, "best_split": [1, 5], "split_score": 0.3632996372896597}
+{"sent": "not large not smallest", "ann_id": 1668014, "best_split": [2, 3], "split_score": 0.5574151107132228}
+{"sent": "green vase inbetween yellow flower sticking out", "ann_id": 1668014, "best_split": [1, 3], "split_score": 0.4163665930760619}
+{"sent": "vas with red flower", "ann_id": 1156538, "best_split": [1, 3], "split_score": 0.38487060382742366}
+{"sent": "longest one", "ann_id": 1156538, "best_split": [2, 2], "split_score": 0.4120967741658537}
+{"sent": "bottle with red rose", "ann_id": 1156538, "best_split": [1, 3], "split_score": 0.38487060382742366}
+{"sent": "blue vase", "ann_id": 1156201, "best_split": [2, 3], "split_score": 0.5328185327542448}
+{"sent": "shortest vase", "ann_id": 1156201, "best_split": [2, 3], "split_score": 0.5328185327542448}
+{"sent": "smallest vase", "ann_id": 1156201, "best_split": [2, 3], "split_score": 0.5328185327542448}

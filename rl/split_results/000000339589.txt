@@ -1,0 +1,6 @@
+{"sent": "black suv with reflection", "ann_id": 355192, "best_split": [2, 2], "split_score": 0.7727550396477737}
+{"sent": "car closest to us", "ann_id": 355192, "best_split": [2, 2], "split_score": 0.7727550396477737}
+{"sent": "car with blue sign reflection", "ann_id": 355192, "best_split": [3, 2], "split_score": 0.560236997978914}
+{"sent": "black vehicle parked next to the pole", "ann_id": 348758, "best_split": [2, 3], "split_score": 0.7340992166335144}
+{"sent": "car by long pole", "ann_id": 348758, "best_split": [2, 3], "split_score": 0.7340992166335144}
+{"sent": "car parked by blue sign", "ann_id": 348758, "best_split": [3, 1], "split_score": 0.3328335831905743}

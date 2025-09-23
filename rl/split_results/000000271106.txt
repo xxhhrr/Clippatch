@@ -1,0 +1,6 @@
+{"sent": "toilet bowl", "ann_id": 1955214, "best_split": [2, 1], "split_score": 0.4711509029510579}
+{"sent": "purple grass plant in toilet bowl", "ann_id": 1955214, "best_split": [2, 2], "split_score": 0.6542784163056016}
+{"sent": "plant in toilet bowl", "ann_id": 1955214, "best_split": [2, 2], "split_score": 0.6542784163056016}
+{"sent": "the pink flowers", "ann_id": 1954972, "best_split": [2, 1], "split_score": 0.38270377732239763}
+{"sent": "toilet tank", "ann_id": 1954972, "best_split": [3, 1], "split_score": 0.3811944091313671}
+{"sent": "plant in toilet tank", "ann_id": 1954972, "best_split": [3, 1], "split_score": 0.3811944091313671}

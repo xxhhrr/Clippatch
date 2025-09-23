@@ -1,0 +1,6 @@
+{"sent": "woman sitting", "ann_id": 538988, "best_split": [1, 5], "split_score": 0.3509433961933072}
+{"sent": "girl sitting", "ann_id": 538988, "best_split": [1, 5], "split_score": 0.3509433961933072}
+{"sent": "sitting", "ann_id": 538988, "best_split": [1, 5], "split_score": 0.3509433961933072}
+{"sent": "standing lady", "ann_id": 516558, "best_split": [3, 1], "split_score": 0.385179380970919}
+{"sent": "girl standing", "ann_id": 516558, "best_split": [1, 2], "split_score": 0.44544389902460707}
+{"sent": "woman with brown clothes", "ann_id": 516558, "best_split": [1, 2], "split_score": 0.44544389902460707}

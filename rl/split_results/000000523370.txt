@@ -1,0 +1,6 @@
+{"sent": "ham and pineapple pizza", "ann_id": 1076060, "best_split": [3, 1], "split_score": 0.5751037344057437}
+{"sent": "pizza with pineapple", "ann_id": 1076060, "best_split": [3, 1], "split_score": 0.5751037344057437}
+{"sent": "pizza at 1200", "ann_id": 1076060, "best_split": [3, 1], "split_score": 0.5751037344057437}
+{"sent": "closest pizza", "ann_id": 1072384, "best_split": [2, 1], "split_score": 0.63211970760474}
+{"sent": "cheese pizza", "ann_id": 1072384, "best_split": [2, 1], "split_score": 0.63211970760474}
+{"sent": "closest pizza", "ann_id": 1072384, "best_split": [2, 1], "split_score": 0.63211970760474}

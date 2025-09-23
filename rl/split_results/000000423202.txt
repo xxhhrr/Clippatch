@@ -1,0 +1,7 @@
+{"sent": "woman with glasses and is chubby", "ann_id": 1287964, "best_split": [2, 1], "split_score": 0.205555555547787}
+{"sent": "woman in red shirt with glasses", "ann_id": 1287964, "best_split": [2, 3], "split_score": 0.5630434782025835}
+{"sent": "red shirt", "ann_id": 1287964, "best_split": [2, 1], "split_score": 0.205555555547787}
+{"sent": "man looking at food", "ann_id": 511580, "best_split": [1, 2], "split_score": 0.6570199452299843}
+{"sent": "guy holding the food", "ann_id": 511580, "best_split": [1, 2], "split_score": 0.6570199452299843}
+{"sent": "him", "ann_id": 511580, "best_split": [1, 2], "split_score": 0.6570199452299843}
+{"sent": "the kid holding the hotdog", "ann_id": 511580, "best_split": [1, 2], "split_score": 0.6570199452299843}

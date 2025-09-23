@@ -1,0 +1,3 @@
+{"sent": "couch with a person on it", "ann_id": 111434, "best_split": [3, 2], "split_score": 0.381755341392778}
+{"sent": "couch", "ann_id": 111434, "best_split": [3, 2], "split_score": 0.381755341392778}
+{"sent": "the couch the mans sitting on", "ann_id": 111434, "best_split": [3, 2], "split_score": 0.381755341392778}

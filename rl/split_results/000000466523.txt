@@ -1,0 +1,6 @@
+{"sent": "airstream", "ann_id": 1799738, "best_split": [3, 3], "split_score": 0.3988778372355422}
+{"sent": "silver vehicle", "ann_id": 1799738, "best_split": [3, 3], "split_score": 0.3988778372355422}
+{"sent": "silver", "ann_id": 1799738, "best_split": [3, 3], "split_score": 0.3988778372355422}
+{"sent": "raised hood", "ann_id": 1369482, "best_split": [5, 1], "split_score": 0.2404795486388858}
+{"sent": "hood open", "ann_id": 1369482, "best_split": [2, 2], "split_score": 0.3101938711452319}
+{"sent": "red bigger car", "ann_id": 1369482, "best_split": [2, 3], "split_score": 0.46485473284151185}

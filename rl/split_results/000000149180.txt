@@ -1,0 +1,6 @@
+{"sent": "small dog", "ann_id": 15142, "best_split": [3, 1], "split_score": 0.051852563792020155}
+{"sent": "smaller dog", "ann_id": 15142, "best_split": [3, 1], "split_score": 0.051852563792020155}
+{"sent": "lab", "ann_id": 15142, "best_split": [3, 3], "split_score": 0.538066723618753}
+{"sent": "larger", "ann_id": 3751, "best_split": [1, 2], "split_score": 0.5656698199400162}
+{"sent": "darker colored dog", "ann_id": 3751, "best_split": [1, 2], "split_score": 0.5656698199400162}
+{"sent": "the bigger dog", "ann_id": 3751, "best_split": [1, 2], "split_score": 0.5656698199400162}

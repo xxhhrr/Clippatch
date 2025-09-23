@@ -1,0 +1,5 @@
+{"sent": "chair at edge with brown seat and white pillow", "ann_id": 1589371, "best_split": [5, 1], "split_score": 0.13691026825860647}
+{"sent": "chair with white pillow", "ann_id": 1589371, "best_split": [5, 1], "split_score": 0.13691026825860647}
+{"sent": "red chai facing away", "ann_id": 107479, "best_split": [3, 2], "split_score": 0.48174219088410225}
+{"sent": "pink chair near couch", "ann_id": 107479, "best_split": [3, 2], "split_score": 0.48174219088410225}
+{"sent": "nearest purple chair facing away", "ann_id": 107479, "best_split": [3, 2], "split_score": 0.48174219088410225}

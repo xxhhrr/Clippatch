@@ -1,0 +1,12 @@
+{"sent": "boy in red shorts", "ann_id": 1235503, "best_split": [1, 5], "split_score": 0.5764492753101043}
+{"sent": "orange pants green shirt has controllers", "ann_id": 1235503, "best_split": [1, 5], "split_score": 0.5764492753101043}
+{"sent": "green shirt", "ann_id": 1235503, "best_split": [1, 5], "split_score": 0.5764492753101043}
+{"sent": "blu shirt", "ann_id": 516127, "best_split": [1, 3], "split_score": 0.5329815303137103}
+{"sent": "girl", "ann_id": 516127, "best_split": [1, 3], "split_score": 0.5329815303137103}
+{"sent": "girl in blue", "ann_id": 516127, "best_split": [1, 3], "split_score": 0.5329815303137103}
+{"sent": "running away", "ann_id": 495471, "best_split": [2, 2], "split_score": 0.47095070419574003}
+{"sent": "man", "ann_id": 495471, "best_split": [2, 2], "split_score": 0.47095070419574003}
+{"sent": "leg up", "ann_id": 495471, "best_split": [2, 2], "split_score": 0.47095070419574003}
+{"sent": "lady sitting in white shirt", "ann_id": 492925, "best_split": [2, 3], "split_score": 0.4140926640427012}
+{"sent": "person sitting", "ann_id": 492925, "best_split": [3, 3], "split_score": 0.37766780074579837}
+{"sent": "person sitting down with glasses on", "ann_id": 492925, "best_split": [2, 3], "split_score": 0.4140926640427012}

@@ -1,0 +1,9 @@
+{"sent": "yellow bus", "ann_id": 165994, "best_split": [1, 3], "split_score": 0.6795366794956843}
+{"sent": "bus cutoff at edge", "ann_id": 165994, "best_split": [1, 3], "split_score": 0.6795366794956843}
+{"sent": "yellow bus", "ann_id": 165994, "best_split": [1, 3], "split_score": 0.6795366794956843}
+{"sent": "gray bus", "ann_id": 164550, "best_split": [3, 3], "split_score": 0.41776014644356424}
+{"sent": "blue bus", "ann_id": 164550, "best_split": [3, 3], "split_score": 0.41776014644356424}
+{"sent": "blue buss", "ann_id": 164550, "best_split": [3, 3], "split_score": 0.41776014644356424}
+{"sent": "red car", "ann_id": 135320, "best_split": [3, 3], "split_score": 0.7387478848157787}
+{"sent": "red car", "ann_id": 135320, "best_split": [3, 3], "split_score": 0.7387478848157787}
+{"sent": "reddish car in corner", "ann_id": 135320, "best_split": [3, 3], "split_score": 0.7387478848157787}

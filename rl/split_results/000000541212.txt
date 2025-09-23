@@ -1,0 +1,6 @@
+{"sent": "person in black shirt with head cut off", "ann_id": 554708, "best_split": [3, 3], "split_score": 0.5311982329471012}
+{"sent": "persn wlking near umbrella not the boy", "ann_id": 554708, "best_split": [2, 2], "split_score": 0.44770408159696234}
+{"sent": "black jacket pants by the child", "ann_id": 554708, "best_split": [2, 1], "split_score": 0.22385204080740384}
+{"sent": "child", "ann_id": 570992, "best_split": [2, 3], "split_score": 0.43166630734730904}
+{"sent": "girl", "ann_id": 570992, "best_split": [2, 3], "split_score": 0.43166630734730904}
+{"sent": "kid", "ann_id": 570992, "best_split": [2, 3], "split_score": 0.43166630734730904}

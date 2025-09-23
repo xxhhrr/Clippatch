@@ -1,0 +1,9 @@
+{"sent": "woman gray shirt", "ann_id": 263106, "best_split": [2, 1], "split_score": 0.044167316184383056}
+{"sent": "girl with jeans", "ann_id": 263106, "best_split": [3, 2], "split_score": 0.2859412231605649}
+{"sent": "tallest lady", "ann_id": 263106, "best_split": [3, 3], "split_score": 0.41993001159474586}
+{"sent": "man in black shirt with bit whiote emblem", "ann_id": 255877, "best_split": [3, 3], "split_score": 0.4038674908220213}
+{"sent": "bald guy in black shirt and sunglasses", "ann_id": 255877, "best_split": [2, 3], "split_score": 0.30031201244703454}
+{"sent": "black shirt circle on it", "ann_id": 255877, "best_split": [2, 3], "split_score": 0.30031201244703454}
+{"sent": "frisbee guy", "ann_id": 187409, "best_split": [3, 1], "split_score": 0.6846339500862513}
+{"sent": "man with frisbee", "ann_id": 187409, "best_split": [3, 1], "split_score": 0.6846339500862513}
+{"sent": "guy with fressbee", "ann_id": 187409, "best_split": [3, 1], "split_score": 0.6846339500862513}

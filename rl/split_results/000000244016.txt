@@ -1,0 +1,6 @@
+{"sent": "elephant with tusks", "ann_id": 584569, "best_split": [1, 5], "split_score": 0.6127781765532823}
+{"sent": "big elephant", "ann_id": 584569, "best_split": [1, 5], "split_score": 0.6127781765532823}
+{"sent": "elephant facing us with longer tusks", "ann_id": 584569, "best_split": [1, 5], "split_score": 0.6127781765532823}
+{"sent": "elephant side profile", "ann_id": 582776, "best_split": [3, 1], "split_score": 0.38969072163513657}
+{"sent": "lower elephant", "ann_id": 582776, "best_split": [2, 1], "split_score": 0.5225806451440889}
+{"sent": "smaller elephant", "ann_id": 582776, "best_split": [2, 1], "split_score": 0.5225806451440889}

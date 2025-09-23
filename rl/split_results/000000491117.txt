@@ -1,0 +1,6 @@
+{"sent": "sandwich piece 1", "ann_id": 311364, "best_split": [5, 1], "split_score": 0.3143631436120742}
+{"sent": "sandwich slice above the black menu", "ann_id": 311364, "best_split": [3, 2], "split_score": 0.5548914752630629}
+{"sent": "sandwhich nearest two pickles", "ann_id": 311364, "best_split": [2, 1], "split_score": 0.29596031182509}
+{"sent": "sandwich with a bit of tomato showing", "ann_id": 308467, "best_split": [2, 2], "split_score": 0.555658016035064}
+{"sent": "half sandwich with red piece", "ann_id": 308467, "best_split": [2, 2], "split_score": 0.555658016035064}
+{"sent": "the sandwich half at 3 o clock", "ann_id": 308467, "best_split": [2, 2], "split_score": 0.555658016035064}

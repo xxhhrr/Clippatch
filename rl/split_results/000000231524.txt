@@ -1,0 +1,9 @@
+{"sent": "woman wearing a scarf and riding a bike", "ann_id": 229527, "best_split": [1, 5], "split_score": 0.38255405651611957}
+{"sent": "woman riding by herself", "ann_id": 229527, "best_split": [1, 5], "split_score": 0.38255405651611957}
+{"sent": "lady with black coat on", "ann_id": 229527, "best_split": [3, 2], "split_score": 0.20666666664804803}
+{"sent": "black hoodie", "ann_id": 229344, "best_split": [1, 3], "split_score": 0.5790564768837373}
+{"sent": "person in all black sitting black hat", "ann_id": 229344, "best_split": [1, 3], "split_score": 0.5790564768837373}
+{"sent": "man in black hoodie", "ann_id": 229344, "best_split": [1, 3], "split_score": 0.5790564768837373}
+{"sent": "man only wearing boxers on bike with writing on his back", "ann_id": 234083, "best_split": [1, 3], "split_score": 0.5054898648343695}
+{"sent": "naked biker", "ann_id": 234083, "best_split": [1, 3], "split_score": 0.5054898648343695}
+{"sent": "man no shirt checkered hat", "ann_id": 234083, "best_split": [1, 3], "split_score": 0.5054898648343695}

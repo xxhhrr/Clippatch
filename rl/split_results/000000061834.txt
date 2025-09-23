@@ -1,0 +1,6 @@
+{"sent": "red jacket", "ann_id": 1725357, "best_split": [2, 3], "split_score": 0.773271977684472}
+{"sent": "reflection", "ann_id": 1725357, "best_split": [2, 3], "split_score": 0.773271977684472}
+{"sent": "man in mirror", "ann_id": 1725357, "best_split": [2, 2], "split_score": 0.6600758791288431}
+{"sent": "tooth brush", "ann_id": 521702, "best_split": [1, 2], "split_score": 0.7963811990061813}
+{"sent": "the man with toothbrush", "ann_id": 521702, "best_split": [1, 2], "split_score": 0.7963811990061813}
+{"sent": "pink toothbrush man", "ann_id": 521702, "best_split": [1, 2], "split_score": 0.7963811990061813}

@@ -1,0 +1,5 @@
+{"sent": "black suitcase", "ann_id": 1187213, "best_split": [2, 3], "split_score": 0.4740177439296559}
+{"sent": "purple suitcase", "ann_id": 1187213, "best_split": [2, 1], "split_score": 0.17478991595971008}
+{"sent": "green luggage", "ann_id": 1186934, "best_split": [1, 2], "split_score": 0.4008281573395231}
+{"sent": "closest suitcase", "ann_id": 1186934, "best_split": [1, 2], "split_score": 0.4008281573395231}
+{"sent": "suitcase", "ann_id": 1186934, "best_split": [1, 2], "split_score": 0.4008281573395231}

@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 2206602, "best_split": [1, 2], "split_score": 0.9165736606777514}
+{"sent": "man", "ann_id": 2206602, "best_split": [1, 2], "split_score": 0.9165736606777514}
+{"sent": "dude", "ann_id": 2206602, "best_split": [2, 1], "split_score": 0.30490121579719653}
+{"sent": "pink woman", "ann_id": 1708762, "best_split": [1, 2], "split_score": 0.6758914898025271}
+{"sent": "woman holding purple phone", "ann_id": 1708762, "best_split": [1, 2], "split_score": 0.6758914898025271}
+{"sent": "woman", "ann_id": 1708762, "best_split": [1, 2], "split_score": 0.6758914898025271}

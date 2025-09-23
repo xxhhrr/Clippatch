@@ -1,0 +1,6 @@
+{"sent": "black area above guy in white", "ann_id": 1980337, "best_split": [3, 3], "split_score": 0.31638723630119153}
+{"sent": "wood burner furthest away behind person", "ann_id": 1980337, "best_split": [2, 1], "split_score": 0.0020486205953957723}
+{"sent": "area just over person head", "ann_id": 1980337, "best_split": [3, 3], "split_score": 0.31638723630119153}
+{"sent": "oven sheet", "ann_id": 1642419, "best_split": [5, 1], "split_score": 0.19108761327501061}
+{"sent": "open oven", "ann_id": 1642419, "best_split": [5, 1], "split_score": 0.19108761327501061}
+{"sent": "the lower part of the oven", "ann_id": 1642419, "best_split": [5, 1], "split_score": 0.19108761327501061}

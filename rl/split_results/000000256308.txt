@@ -1,0 +1,6 @@
+{"sent": "the walker", "ann_id": 497502, "best_split": [2, 1], "split_score": 0.09113165490952126}
+{"sent": "person walking wearin black shirt", "ann_id": 497502, "best_split": [2, 1], "split_score": 0.09113165490952126}
+{"sent": "person on sidewalk", "ann_id": 497502, "best_split": [2, 1], "split_score": 0.09113165490952126}
+{"sent": "red", "ann_id": 432157, "best_split": [1, 5], "split_score": 0.7711038960256591}
+{"sent": "rfed coat", "ann_id": 432157, "best_split": [1, 5], "split_score": 0.7711038960256591}
+{"sent": "man in red", "ann_id": 432157, "best_split": [1, 5], "split_score": 0.7711038960256591}

@@ -1,0 +1,6 @@
+{"sent": "human hand", "ann_id": 2167829, "best_split": [2, 3], "split_score": 0.6166666665972222}
+{"sent": "hand", "ann_id": 2167829, "best_split": [2, 3], "split_score": 0.6166666665972222}
+{"sent": "hand thats holding the toy", "ann_id": 2167829, "best_split": [2, 2], "split_score": 0.48373724485939595}
+{"sent": "yellow case", "ann_id": 1713033, "best_split": [5, 1], "split_score": 0.4875923469892411}
+{"sent": "yellow purse looking thing 1200", "ann_id": 1713033, "best_split": [3, 3], "split_score": 0.4659590990854311}
+{"sent": "yellow bag behind the antlers", "ann_id": 1713033, "best_split": [5, 1], "split_score": 0.4875923469892411}

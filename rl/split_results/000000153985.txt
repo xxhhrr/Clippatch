@@ -1,0 +1,5 @@
+{"sent": "guy near window", "ann_id": 2157806, "best_split": [3, 3], "split_score": 0.49922158789579374}
+{"sent": "the one with the mustash", "ann_id": 2157806, "best_split": [3, 3], "split_score": 0.49922158789579374}
+{"sent": "guy with no mustache", "ann_id": 2154959, "best_split": [3, 1], "split_score": 0.23964265771972962}
+{"sent": "guy with hand on mouse", "ann_id": 2154959, "best_split": [1, 3], "split_score": 0.21176727430347303}
+{"sent": "guy with hand on mouse", "ann_id": 2154959, "best_split": [1, 3], "split_score": 0.21176727430347303}

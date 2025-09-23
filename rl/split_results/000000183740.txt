@@ -1,0 +1,6 @@
+{"sent": "cutoff but can see face", "ann_id": 1713970, "best_split": [3, 1], "split_score": 0.22338498690765823}
+{"sent": "thinner woman", "ann_id": 1713970, "best_split": [1, 2], "split_score": 0.30851403059994764}
+{"sent": "skinny girl", "ann_id": 1713970, "best_split": [1, 2], "split_score": 0.30851403059994764}
+{"sent": "arm over head", "ann_id": 227597, "best_split": [3, 1], "split_score": 0.40046466820421417}
+{"sent": "woman in crazy shirt", "ann_id": 227597, "best_split": [2, 1], "split_score": 0.5608415721408141}
+{"sent": "dot shirt girl", "ann_id": 227597, "best_split": [2, 1], "split_score": 0.5608415721408141}

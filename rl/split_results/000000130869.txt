@@ -1,0 +1,7 @@
+{"sent": "yellow pants", "ann_id": 444686, "best_split": [1, 5], "split_score": 0.6299924641456299}
+{"sent": "person in yellow pants", "ann_id": 444686, "best_split": [1, 5], "split_score": 0.6299924641456299}
+{"sent": "yellow", "ann_id": 444686, "best_split": [1, 5], "split_score": 0.6299924641456299}
+{"sent": "skater in yellow", "ann_id": 444686, "best_split": [1, 5], "split_score": 0.6299924641456299}
+{"sent": "blue shirt", "ann_id": 428037, "best_split": [1, 3], "split_score": 0.5036399147503711}
+{"sent": "blue", "ann_id": 428037, "best_split": [1, 3], "split_score": 0.5036399147503711}
+{"sent": "boy in purple shirt", "ann_id": 428037, "best_split": [1, 3], "split_score": 0.5036399147503711}

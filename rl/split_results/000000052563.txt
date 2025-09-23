@@ -1,0 +1,9 @@
+{"sent": "little one", "ann_id": 1818361, "best_split": [2, 3], "split_score": 0.4470198674968046}
+{"sent": "baby lamb that is towards the back", "ann_id": 1818361, "best_split": [3, 2], "split_score": 0.1591511936188754}
+{"sent": "little lamb not near the mom", "ann_id": 1818361, "best_split": [3, 2], "split_score": 0.1591511936188754}
+{"sent": "mother sheep", "ann_id": 66111, "best_split": [1, 3], "split_score": 0.5970537712457938}
+{"sent": "biggest", "ann_id": 66111, "best_split": [1, 3], "split_score": 0.5970537712457938}
+{"sent": "biggest", "ann_id": 66111, "best_split": [1, 3], "split_score": 0.5970537712457938}
+{"sent": "small lamb with head near mama", "ann_id": 63234, "best_split": [2, 2], "split_score": 0.6868250539427009}
+{"sent": "medium sheep", "ann_id": 63234, "best_split": [2, 2], "split_score": 0.6868250539427009}
+{"sent": "sheep closest to mom", "ann_id": 63234, "best_split": [2, 2], "split_score": 0.6868250539427009}

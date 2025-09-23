@@ -1,0 +1,6 @@
+{"sent": "orange slice nearest banana", "ann_id": 1556337, "best_split": [5, 1], "split_score": 0.20040830212653893}
+{"sent": "orange slice closest to bananna", "ann_id": 1556337, "best_split": [5, 1], "split_score": 0.20040830212653893}
+{"sent": "orange next to banana", "ann_id": 1556337, "best_split": [1, 2], "split_score": 0.16964285713609523}
+{"sent": "slices where juicy part is shown", "ann_id": 1051173, "best_split": [2, 1], "split_score": 0.5624999999775789}
+{"sent": "orange you can see inside", "ann_id": 1051173, "best_split": [2, 2], "split_score": 0.6790123456362426}
+{"sent": "orange slices that are touching", "ann_id": 1051173, "best_split": [2, 2], "split_score": 0.6790123456362426}

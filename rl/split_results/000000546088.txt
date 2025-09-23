@@ -1,0 +1,6 @@
+{"sent": "orange that looks squashed has horizontal wrinkle", "ann_id": 1053552, "best_split": [5, 1], "split_score": 0.25740665581803907}
+{"sent": "orange that is cut off by screen and has a label", "ann_id": 1052055, "best_split": [1, 5], "split_score": 0.3566355519118673}
+{"sent": "orange with sticker showing", "ann_id": 1052055, "best_split": [1, 5], "split_score": 0.3566355519118673}
+{"sent": "orange", "ann_id": 1051061, "best_split": [2, 3], "split_score": 0.7264997087097845}
+{"sent": "the only full orange", "ann_id": 1051061, "best_split": [2, 3], "split_score": 0.7264997087097845}
+{"sent": "close orange resting on others", "ann_id": 1051061, "best_split": [2, 3], "split_score": 0.7264997087097845}

@@ -1,0 +1,9 @@
+{"sent": "man in white talking to others", "ann_id": 484452, "best_split": [1, 5], "split_score": 0.4585544372865}
+{"sent": "white shirt balding man close", "ann_id": 484452, "best_split": [1, 5], "split_score": 0.4585544372865}
+{"sent": "man in white shirt closest to us", "ann_id": 484452, "best_split": [1, 3], "split_score": 0.36715733588518595}
+{"sent": "pinstripe suit", "ann_id": 477999, "best_split": [1, 3], "split_score": 0.7413127412680193}
+{"sent": "man in striper blazer", "ann_id": 477999, "best_split": [2, 3], "split_score": 0.5273159144501696}
+{"sent": "guy holding book", "ann_id": 477999, "best_split": [2, 1], "split_score": 0.1610337972116975}
+{"sent": "gray coat", "ann_id": 431801, "best_split": [1, 5], "split_score": 0.6468446601451119}
+{"sent": "closest man to us", "ann_id": 431801, "best_split": [2, 1], "split_score": 0.19994803169416825}
+{"sent": "the man in the tan jacket", "ann_id": 431801, "best_split": [1, 2], "split_score": 0.47257653059340815}

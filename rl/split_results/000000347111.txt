@@ -1,0 +1,15 @@
+{"sent": "second elephant", "ann_id": 2204238, "best_split": [2, 2], "split_score": 0.7999021525859727}
+{"sent": "elephant next to one with man", "ann_id": 2204238, "best_split": [2, 2], "split_score": 0.7999021525859727}
+{"sent": "no 1 elephant", "ann_id": 2204214, "best_split": [2, 2], "split_score": 0.3072385203836704}
+{"sent": "head only one", "ann_id": 2204214, "best_split": [2, 3], "split_score": 0.46500965245354614}
+{"sent": "7th elephant", "ann_id": 1410860, "best_split": [2, 1], "split_score": 0.14205994897392937}
+{"sent": "farthest elephant head", "ann_id": 1410860, "best_split": [2, 1], "split_score": 0.14205994897392937}
+{"sent": "farthest elephant with trunk over guys head", "ann_id": 1410860, "best_split": [2, 1], "split_score": 0.14205994897392937}
+{"sent": "number 6 elephant", "ann_id": 1410563, "best_split": [2, 3], "split_score": 0.29634275786004605}
+{"sent": "next to elephant with short trunk", "ann_id": 1410563, "best_split": [2, 3], "split_score": 0.29634275786004605}
+{"sent": "elephant closest to man with cane", "ann_id": 1410291, "best_split": [3, 3], "split_score": 0.43092030138948156}
+{"sent": "count five from lower", "ann_id": 1410291, "best_split": [3, 1], "split_score": 0.22141823443139247}
+{"sent": "elephant by guy with cane long black coat", "ann_id": 1410291, "best_split": [2, 3], "split_score": 0.5207135777481948}
+{"sent": "selephant being petted", "ann_id": 580341, "best_split": [2, 2], "split_score": 0.4147069235616898}
+{"sent": "third elephant", "ann_id": 580341, "best_split": [2, 2], "split_score": 0.4147069235616898}
+{"sent": "elephant man is tending to", "ann_id": 580341, "best_split": [2, 2], "split_score": 0.4147069235616898}

@@ -1,0 +1,5 @@
+{"sent": "lasr vase end", "ann_id": 25380, "best_split": [1, 5], "split_score": 0.34607860569570703}
+{"sent": "brown vase with dem roses", "ann_id": 25380, "best_split": [1, 5], "split_score": 0.34607860569570703}
+{"sent": "vase wth tallest flowers on end", "ann_id": 25380, "best_split": [1, 5], "split_score": 0.34607860569570703}
+{"sent": "closest vase on end", "ann_id": 19898, "best_split": [2, 1], "split_score": 0.265587815315501}
+{"sent": "vase number 1", "ann_id": 19898, "best_split": [2, 1], "split_score": 0.265587815315501}

@@ -1,0 +1,6 @@
+{"sent": "neck", "ann_id": 600089, "best_split": [2, 2], "split_score": 0.45537397859401524}
+{"sent": "zebra with only neck showing", "ann_id": 600089, "best_split": [3, 3], "split_score": 0.348399246663324}
+{"sent": "partial gir", "ann_id": 600089, "best_split": [2, 1], "split_score": 0.22934472933565428}
+{"sent": "you see all of this giraffe", "ann_id": 597314, "best_split": [1, 2], "split_score": 0.6003222588582704}
+{"sent": "full giraffe", "ann_id": 597314, "best_split": [1, 2], "split_score": 0.6003222588582704}
+{"sent": "complete pic of giraffe", "ann_id": 597314, "best_split": [1, 2], "split_score": 0.6003222588582704}

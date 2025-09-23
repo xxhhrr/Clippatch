@@ -1,0 +1,5 @@
+{"sent": "sandwich closest to you", "ann_id": 1909678, "best_split": [2, 3], "split_score": 0.4631875439744005}
+{"sent": "closest piece of food", "ann_id": 1909678, "best_split": [2, 3], "split_score": 0.4631875439744005}
+{"sent": "food closest to camera", "ann_id": 1909678, "best_split": [2, 3], "split_score": 0.4631875439744005}
+{"sent": "food on back of plate", "ann_id": 1908508, "best_split": [3, 1], "split_score": 0.2454112158885807}
+{"sent": "blurry food item", "ann_id": 1908508, "best_split": [3, 3], "split_score": 0.2818510759586887}

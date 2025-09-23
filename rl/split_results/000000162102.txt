@@ -1,0 +1,6 @@
+{"sent": "woman in red tee shirt", "ann_id": 1188875, "best_split": [2, 3], "split_score": 0.4694985936893125}
+{"sent": "girl", "ann_id": 1188875, "best_split": [2, 1], "split_score": 0.06393180607139279}
+{"sent": "wpman", "ann_id": 1188875, "best_split": [2, 1], "split_score": 0.06393180607139279}
+{"sent": "white shirt man", "ann_id": 466227, "best_split": [3, 3], "split_score": 0.24848803572857112}
+{"sent": "man", "ann_id": 466227, "best_split": [1, 3], "split_score": 0.24251930500467425}
+{"sent": "black shorts white shirt", "ann_id": 466227, "best_split": [1, 5], "split_score": 0.40787337658199335}

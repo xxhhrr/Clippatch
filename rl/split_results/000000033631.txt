@@ -1,0 +1,12 @@
+{"sent": "object behind red shirt", "ann_id": 234060, "best_split": [1, 5], "split_score": 0.3141732283155341}
+{"sent": "standing person at background", "ann_id": 234060, "best_split": [1, 2], "split_score": 0.13934948979036393}
+{"sent": "the man who is not sitting up", "ann_id": 222600, "best_split": [1, 5], "split_score": 0.4535736102280411}
+{"sent": "red shirt", "ann_id": 222600, "best_split": [1, 5], "split_score": 0.4535736102280411}
+{"sent": "y in red", "ann_id": 222600, "best_split": [1, 5], "split_score": 0.4535736102280411}
+{"sent": "person in red shirt", "ann_id": 222600, "best_split": [1, 5], "split_score": 0.4535736102280411}
+{"sent": "man in black shirt", "ann_id": 200874, "best_split": [2, 1], "split_score": 0.18302282864789352}
+{"sent": "gkasses", "ann_id": 200874, "best_split": [1, 2], "split_score": 0.43765943875806523}
+{"sent": "glasses", "ann_id": 200874, "best_split": [1, 5], "split_score": 0.6298498122160631}
+{"sent": "person in gray", "ann_id": 196862, "best_split": [1, 5], "split_score": 0.3500405843800689}
+{"sent": "the guy in the suit with his hand at his face he has no sunglasses and no hat", "ann_id": 196862, "best_split": [3, 3], "split_score": 0.26144714524287066}
+{"sent": "man on bench in blue barely in shot", "ann_id": 196862, "best_split": [1, 5], "split_score": 0.3500405843800689}

@@ -1,0 +1,6 @@
+{"sent": "closed umbrella", "ann_id": 285110, "best_split": [3, 2], "split_score": 0.40253817168327005}
+{"sent": "umbrella mostly closed", "ann_id": 285110, "best_split": [3, 2], "split_score": 0.40253817168327005}
+{"sent": "red umbrella", "ann_id": 285110, "best_split": [3, 2], "split_score": 0.40253817168327005}
+{"sent": "orange umbrella", "ann_id": 282594, "best_split": [3, 3], "split_score": 0.7694974002354856}
+{"sent": "open umbrella", "ann_id": 282594, "best_split": [3, 3], "split_score": 0.7694974002354856}
+{"sent": "lighter", "ann_id": 282594, "best_split": [3, 3], "split_score": 0.7694974002354856}

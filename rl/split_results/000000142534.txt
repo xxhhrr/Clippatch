@@ -1,0 +1,11 @@
+{"sent": "dark kb", "ann_id": 1116574, "best_split": [1, 2], "split_score": 0.73445471935848}
+{"sent": "a black computer keyboard", "ann_id": 1116574, "best_split": [1, 2], "split_score": 0.73445471935848}
+{"sent": "white keyboard", "ann_id": 1116042, "best_split": [2, 2], "split_score": 0.7515287832465363}
+{"sent": "the keyboard", "ann_id": 1116042, "best_split": [2, 2], "split_score": 0.7515287832465363}
+{"sent": "white keyboard", "ann_id": 1116042, "best_split": [2, 2], "split_score": 0.7515287832465363}
+{"sent": "white mouse", "ann_id": 1106056, "best_split": [3, 2], "split_score": 0.6960677818057714}
+{"sent": "white mouse", "ann_id": 1106056, "best_split": [3, 2], "split_score": 0.6960677818057714}
+{"sent": "white mouse", "ann_id": 1106056, "best_split": [3, 2], "split_score": 0.6960677818057714}
+{"sent": "black mouse", "ann_id": 1105650, "best_split": [2, 2], "split_score": 0.5739795917909774}
+{"sent": "black mouse", "ann_id": 1105650, "best_split": [2, 2], "split_score": 0.5739795917909774}
+{"sent": "black mouse", "ann_id": 1105650, "best_split": [2, 2], "split_score": 0.5739795917909774}

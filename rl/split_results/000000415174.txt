@@ -1,0 +1,5 @@
+{"sent": "only table where you cant see the whole blue tablecloth", "ann_id": 320980, "best_split": [3, 1], "split_score": 0.30804777049102516}
+{"sent": "table by hair and window", "ann_id": 320980, "best_split": [3, 1], "split_score": 0.30804777049102516}
+{"sent": "table closest to womans head", "ann_id": 320980, "best_split": [3, 1], "split_score": 0.30804777049102516}
+{"sent": "blue table 2", "ann_id": 1958164, "best_split": [3, 3], "split_score": 0.4227005870205177}
+{"sent": "table with most plate settings", "ann_id": 1958164, "best_split": [3, 2], "split_score": 0.31874395092819185}

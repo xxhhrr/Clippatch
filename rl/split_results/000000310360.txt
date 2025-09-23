@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 202734, "best_split": [1, 5], "split_score": 0.8253034202992549}
+{"sent": "blue and yellow", "ann_id": 202734, "best_split": [1, 5], "split_score": 0.8253034202992549}
+{"sent": "cake is a lie guy in yellow and blue", "ann_id": 202734, "best_split": [1, 5], "split_score": 0.8253034202992549}
+{"sent": "person in red", "ann_id": 198618, "best_split": [1, 5], "split_score": 0.6060431239196623}
+{"sent": "red outfit", "ann_id": 198618, "best_split": [1, 5], "split_score": 0.6060431239196623}
+{"sent": "red white stripes", "ann_id": 198618, "best_split": [1, 5], "split_score": 0.6060431239196623}

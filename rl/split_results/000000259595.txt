@@ -1,0 +1,6 @@
+{"sent": "green shirt", "ann_id": 1203558, "best_split": [1, 2], "split_score": 0.5022859956272471}
+{"sent": "green", "ann_id": 1203558, "best_split": [2, 1], "split_score": 0.5383174877427658}
+{"sent": "woman", "ann_id": 1203558, "best_split": [1, 2], "split_score": 0.37760959772145064}
+{"sent": "baby face", "ann_id": 434798, "best_split": [1, 2], "split_score": 0.7729443317598959}
+{"sent": "little guy", "ann_id": 434798, "best_split": [1, 2], "split_score": 0.7729443317598959}
+{"sent": "kid", "ann_id": 434798, "best_split": [1, 2], "split_score": 0.7729443317598959}

@@ -1,0 +1,8 @@
+{"sent": "cow with both ears up", "ann_id": 76251, "best_split": [3, 2], "split_score": 0.4417651878214017}
+{"sent": "biggest head", "ann_id": 76251, "best_split": [1, 5], "split_score": 0.3042457260657293}
+{"sent": "cow with lowest snout", "ann_id": 76145, "best_split": [3, 3], "split_score": 0.4387339863694447}
+{"sent": "cow with the lowest head", "ann_id": 76145, "best_split": [3, 3], "split_score": 0.4387339863694447}
+{"sent": "cow number 3", "ann_id": 76145, "best_split": [3, 2], "split_score": 0.40304268841927304}
+{"sent": "number 2", "ann_id": 75199, "best_split": [2, 1], "split_score": 0.08129485864650304}
+{"sent": "cow 2", "ann_id": 75199, "best_split": [3, 1], "split_score": 0.2632844433599853}
+{"sent": "cow 2 like reading", "ann_id": 75199, "best_split": [3, 1], "split_score": 0.2632844433599853}

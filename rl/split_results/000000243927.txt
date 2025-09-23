@@ -1,0 +1,7 @@
+{"sent": "chair lady with laptop is sitting on", "ann_id": 1942926, "best_split": [1, 2], "split_score": 0.604416210607921}
+{"sent": "the chair person with laptop is sitting on", "ann_id": 1942926, "best_split": [1, 2], "split_score": 0.604416210607921}
+{"sent": "chair the woman is sitting in but not the woman", "ann_id": 1942926, "best_split": [1, 2], "split_score": 0.604416210607921}
+{"sent": "only chair that you can fully see the back of it", "ann_id": 1936925, "best_split": [2, 3], "split_score": 0.6764091857331515}
+{"sent": "empty chair by woman", "ann_id": 383839, "best_split": [2, 1], "split_score": 0.4467353951715583}
+{"sent": "chair next to laptop behind case", "ann_id": 383839, "best_split": [2, 1], "split_score": 0.4467353951715583}
+{"sent": "empty chair by computer", "ann_id": 383839, "best_split": [2, 1], "split_score": 0.4467353951715583}

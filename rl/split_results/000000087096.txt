@@ -1,0 +1,8 @@
+{"sent": "banana on table at 5 o clock", "ann_id": 1544879, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "nearest tallest banana bunch", "ann_id": 1544879, "best_split": [1, 2], "split_score": 0.13329081632121767}
+{"sent": "banana at 5 clock", "ann_id": 1544879, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "bananas above dude", "ann_id": 1542557, "best_split": [2, 3], "split_score": 0.8101114648875287}
+{"sent": "bananas 11 oclock", "ann_id": 1542557, "best_split": [2, 3], "split_score": 0.8101114648875287}
+{"sent": "banana bunch hanging over guy", "ann_id": 1542557, "best_split": [2, 3], "split_score": 0.8101114648875287}
+{"sent": "highest bunch in column 2", "ann_id": 2110705, "best_split": [5, 1], "split_score": 0.2810618500017276}
+{"sent": "highest bananas in line with bright pink jar", "ann_id": 2110705, "best_split": [3, 1], "split_score": 0.25259411195387343}

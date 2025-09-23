@@ -1,0 +1,9 @@
+{"sent": "blurry close sandwich", "ann_id": 311543, "best_split": [3, 2], "split_score": 0.48736403038461074}
+{"sent": "blurry part of sandwich not the triagle one", "ann_id": 311543, "best_split": [3, 3], "split_score": 0.36016986637528353}
+{"sent": "blurry cake", "ann_id": 311543, "best_split": [3, 2], "split_score": 0.48736403038461074}
+{"sent": "sandwich piece with most cheese", "ann_id": 310752, "best_split": [3, 3], "split_score": 0.5299999999283783}
+{"sent": "the smaller sandwich not near the fries", "ann_id": 310752, "best_split": [3, 3], "split_score": 0.5299999999283783}
+{"sent": "sandwhich 12 o clock", "ann_id": 310355, "best_split": [2, 3], "split_score": 0.5336602763560343}
+{"sent": "sandwich at 12pm", "ann_id": 310355, "best_split": [2, 3], "split_score": 0.5336602763560343}
+{"sent": "sandwich hard to see what is inside", "ann_id": 308881, "best_split": [3, 2], "split_score": 0.5437622468530566}
+{"sent": "blurry sandwich not closest to you", "ann_id": 308881, "best_split": [1, 2], "split_score": 0.42330994896271884}

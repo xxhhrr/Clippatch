@@ -1,0 +1,5 @@
+{"sent": "the mommy", "ann_id": 513838, "best_split": [1, 5], "split_score": 0.44532554254771883}
+{"sent": "woman kneeling", "ann_id": 513838, "best_split": [1, 2], "split_score": 0.7114158162981737}
+{"sent": "woman", "ann_id": 513838, "best_split": [1, 2], "split_score": 0.7114158162981737}
+{"sent": "girl", "ann_id": 486422, "best_split": [1, 3], "split_score": 0.43522173203881925}
+{"sent": "bsby", "ann_id": 486422, "best_split": [1, 2], "split_score": 0.25939678689529416}

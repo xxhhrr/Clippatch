@@ -1,0 +1,8 @@
+{"sent": "the small light colored tag with 99 on it", "ann_id": 1820607, "best_split": [2, 1], "split_score": 0.10115752390174859}
+{"sent": "59 cow", "ann_id": 1820607, "best_split": [3, 1], "split_score": 0.16347569954957522}
+{"sent": "directly under the 99 tag", "ann_id": 1820607, "best_split": [5, 1], "split_score": 0.12589559876254602}
+{"sent": "brown cow bak", "ann_id": 1820515, "best_split": [1, 3], "split_score": 0.41858711135428694}
+{"sent": "brown cow behind main one", "ann_id": 1820515, "best_split": [3, 1], "split_score": 0.3884514435536232}
+{"sent": "one looking at us", "ann_id": 73875, "best_split": [3, 1], "split_score": 0.45206506257206863}
+{"sent": "whole cow showing", "ann_id": 73875, "best_split": [3, 1], "split_score": 0.45206506257206863}
+{"sent": "close cow", "ann_id": 73875, "best_split": [3, 1], "split_score": 0.45206506257206863}

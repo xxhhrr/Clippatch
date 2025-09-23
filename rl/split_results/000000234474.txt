@@ -1,0 +1,6 @@
+{"sent": "complete toilet", "ann_id": 1095636, "best_split": [1, 3], "split_score": 0.43103357400352954}
+{"sent": "working toilet", "ann_id": 1095636, "best_split": [1, 3], "split_score": 0.43103357400352954}
+{"sent": "full cowl", "ann_id": 1095636, "best_split": [1, 2], "split_score": 0.27787731115530034}
+{"sent": "toilet sideways", "ann_id": 1095200, "best_split": [3, 3], "split_score": 0.27425614485455935}
+{"sent": "toilet with no tank attached", "ann_id": 1095200, "best_split": [3, 3], "split_score": 0.27425614485455935}
+{"sent": "toilet turned sideways", "ann_id": 1095200, "best_split": [3, 3], "split_score": 0.27425614485455935}

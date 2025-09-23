@@ -1,0 +1,6 @@
+{"sent": "can on flowery shoes", "ann_id": 46771, "best_split": [2, 3], "split_score": 0.3839471199002866}
+{"sent": "black cat with flowered shoe", "ann_id": 46771, "best_split": [2, 2], "split_score": 0.7740517881972786}
+{"sent": "cat with the colorful shoe", "ann_id": 46771, "best_split": [2, 2], "split_score": 0.7740517881972786}
+{"sent": "cat on nikes", "ann_id": 46488, "best_split": [2, 3], "split_score": 0.5252609602792003}
+{"sent": "cat on white shoes", "ann_id": 46488, "best_split": [2, 3], "split_score": 0.5252609602792003}
+{"sent": "cat sitting on white shoes", "ann_id": 46488, "best_split": [2, 3], "split_score": 0.5252609602792003}

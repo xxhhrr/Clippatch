@@ -1,0 +1,5 @@
+{"sent": "closer cat", "ann_id": 51767, "best_split": [2, 1], "split_score": 0.5048250904514164}
+{"sent": "closest cat", "ann_id": 51767, "best_split": [2, 1], "split_score": 0.5048250904514164}
+{"sent": "dog not facing", "ann_id": 51604, "best_split": [5, 1], "split_score": 0.3969846115259495}
+{"sent": "cat looking away", "ann_id": 51604, "best_split": [3, 1], "split_score": 0.4236932095542895}
+{"sent": "dog", "ann_id": 51604, "best_split": [1, 2], "split_score": 0.2527446935839795}

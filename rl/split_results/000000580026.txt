@@ -1,0 +1,6 @@
+{"sent": "little boy in white", "ann_id": 1735631, "best_split": [2, 2], "split_score": 0.5522905897789215}
+{"sent": "boy", "ann_id": 1735631, "best_split": [2, 2], "split_score": 0.5522905897789215}
+{"sent": "the kid", "ann_id": 1735631, "best_split": [2, 2], "split_score": 0.5522905897789215}
+{"sent": "a little girl sitting at a table", "ann_id": 1741004, "best_split": [1, 2], "split_score": 0.14923469387160257}
+{"sent": "girl", "ann_id": 1741004, "best_split": [3, 2], "split_score": 0.3951762522732866}
+{"sent": "girl", "ann_id": 1741004, "best_split": [3, 2], "split_score": 0.3951762522732866}

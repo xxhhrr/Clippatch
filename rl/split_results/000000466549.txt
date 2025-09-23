@@ -1,0 +1,9 @@
+{"sent": "black shirt", "ann_id": 259435, "best_split": [1, 2], "split_score": 0.6682876275243826}
+{"sent": "man black shirt", "ann_id": 259435, "best_split": [1, 2], "split_score": 0.6682876275243826}
+{"sent": "old man", "ann_id": 259435, "best_split": [1, 2], "split_score": 0.6682876275243826}
+{"sent": "girl in tan shirt", "ann_id": 256472, "best_split": [2, 3], "split_score": 0.385218127871112}
+{"sent": "brown shirt", "ann_id": 256472, "best_split": [2, 3], "split_score": 0.385218127871112}
+{"sent": "girl standing up with tan shirt", "ann_id": 256472, "best_split": [2, 3], "split_score": 0.385218127871112}
+{"sent": "brown haired one holding chin", "ann_id": 185110, "best_split": [3, 3], "split_score": 0.5113221328503794}
+{"sent": "kids head you can barely see", "ann_id": 185110, "best_split": [3, 3], "split_score": 0.5113221328503794}
+{"sent": "sitting closest", "ann_id": 185110, "best_split": [5, 1], "split_score": 0.24175824173452135}

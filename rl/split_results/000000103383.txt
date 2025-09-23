@@ -1,0 +1,6 @@
+{"sent": "child in foreground", "ann_id": 1746507, "best_split": [1, 5], "split_score": 0.3868709415191892}
+{"sent": "blue shirt with stars", "ann_id": 1746507, "best_split": [1, 5], "split_score": 0.3868709415191892}
+{"sent": "smallest person", "ann_id": 1746507, "best_split": [1, 5], "split_score": 0.3868709415191892}
+{"sent": "second person", "ann_id": 1734571, "best_split": [5, 1], "split_score": 0.07798165136997931}
+{"sent": "figure nearest child beside window", "ann_id": 1734571, "best_split": [3, 3], "split_score": 0.37362637357089}
+{"sent": "the guy", "ann_id": 1734571, "best_split": [1, 5], "split_score": 0.33771714590855656}

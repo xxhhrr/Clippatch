@@ -1,0 +1,6 @@
+{"sent": "small ipad", "ann_id": 1624924, "best_split": [3, 2], "split_score": 0.2722323048693021}
+{"sent": "small laptop", "ann_id": 1624924, "best_split": [3, 2], "split_score": 0.2722323048693021}
+{"sent": "tablet", "ann_id": 1624924, "best_split": [3, 2], "split_score": 0.2722323048693021}
+{"sent": "computer screen", "ann_id": 32320, "best_split": [3, 3], "split_score": 0.6454773568352876}
+{"sent": "monitor", "ann_id": 32320, "best_split": [3, 1], "split_score": 0.4454841334159314}
+{"sent": "computer screen", "ann_id": 32320, "best_split": [3, 3], "split_score": 0.6454773568352876}

@@ -1,0 +1,9 @@
+{"sent": "bike 3", "ann_id": 1360347, "best_split": [2, 3], "split_score": 0.30305426506839434}
+{"sent": "bike 3 back", "ann_id": 1360347, "best_split": [2, 3], "split_score": 0.30305426506839434}
+{"sent": "bike looking like it could hit man standing", "ann_id": 1360347, "best_split": [2, 3], "split_score": 0.30305426506839434}
+{"sent": "infront of him", "ann_id": 1792180, "best_split": [2, 1], "split_score": 0.5507501171842963}
+{"sent": "the bike that looks like the man is touching the headlight", "ann_id": 1792180, "best_split": [2, 3], "split_score": 0.5595749028844216}
+{"sent": "the 2 bike", "ann_id": 1792180, "best_split": [2, 3], "split_score": 0.5595749028844216}
+{"sent": "bike closest to us", "ann_id": 1790909, "best_split": [2, 2], "split_score": 0.7662249614319738}
+{"sent": "closest bike", "ann_id": 1790909, "best_split": [2, 2], "split_score": 0.7662249614319738}
+{"sent": "closest moto", "ann_id": 1790909, "best_split": [2, 2], "split_score": 0.7662249614319738}

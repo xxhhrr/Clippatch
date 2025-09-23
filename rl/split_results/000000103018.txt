@@ -1,0 +1,6 @@
+{"sent": "chair by curtain", "ann_id": 1594226, "best_split": [2, 2], "split_score": 0.7044005101479273}
+{"sent": "the one on the same side as the curtain", "ann_id": 1594226, "best_split": [1, 3], "split_score": 0.37689640223358817}
+{"sent": "chair by curtain", "ann_id": 1594226, "best_split": [2, 2], "split_score": 0.7044005101479273}
+{"sent": "darker chair", "ann_id": 1582619, "best_split": [2, 3], "split_score": 0.7919240952347832}
+{"sent": "chair 1", "ann_id": 1582619, "best_split": [3, 2], "split_score": 0.5964222527426359}
+{"sent": "less seen chair", "ann_id": 1582619, "best_split": [2, 3], "split_score": 0.7919240952347832}

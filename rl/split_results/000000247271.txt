@@ -1,0 +1,5 @@
+{"sent": "blue tie", "ann_id": 522204, "best_split": [1, 3], "split_score": 0.2818160152414277}
+{"sent": "smile with teeth showing", "ann_id": 522204, "best_split": [2, 1], "split_score": 0.23416553184342062}
+{"sent": "brown tie guy with glasses", "ann_id": 486238, "best_split": [1, 3], "split_score": 0.4517343904632441}
+{"sent": "white tie glasses", "ann_id": 486238, "best_split": [1, 3], "split_score": 0.4517343904632441}
+{"sent": "person in glasses", "ann_id": 486238, "best_split": [1, 3], "split_score": 0.4517343904632441}

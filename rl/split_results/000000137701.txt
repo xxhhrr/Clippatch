@@ -1,0 +1,6 @@
+{"sent": "mini monitor", "ann_id": 1969654, "best_split": [3, 2], "split_score": 0.4401256836448125}
+{"sent": "tall computer screen", "ann_id": 1969654, "best_split": [3, 2], "split_score": 0.4401256836448125}
+{"sent": "smaller screen", "ann_id": 1969654, "best_split": [3, 2], "split_score": 0.4401256836448125}
+{"sent": "monitor with green rectangles", "ann_id": 34649, "best_split": [3, 1], "split_score": 0.26289627746255956}
+{"sent": "two green and yello boxes", "ann_id": 34649, "best_split": [1, 5], "split_score": 0.2525989138671374}
+{"sent": "screen with two yellow framed boxes", "ann_id": 34649, "best_split": [2, 2], "split_score": 0.3222409435325582}

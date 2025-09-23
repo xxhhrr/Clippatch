@@ -1,0 +1,15 @@
+{"sent": "orange at edge next to apple", "ann_id": 1556279, "best_split": [2, 1], "split_score": 0.09876362571882495}
+{"sent": "orange 3 o clock", "ann_id": 1556279, "best_split": [2, 1], "split_score": 0.09876362571882495}
+{"sent": "blurry smaller orange", "ann_id": 1053266, "best_split": [1, 3], "split_score": 0.33000793558950187}
+{"sent": "smaller blurry orange surrounded by other oranges", "ann_id": 1053266, "best_split": [1, 2], "split_score": 0.2745535714176278}
+{"sent": "partial orange at8 o clock", "ann_id": 1053155, "best_split": [1, 3], "split_score": 0.41807432429910263}
+{"sent": "orange that is not blurry the stem is pointed at us", "ann_id": 1052778, "best_split": [2, 2], "split_score": 0.7626536376240435}
+{"sent": "big orange in back", "ann_id": 1052778, "best_split": [2, 2], "split_score": 0.7626536376240435}
+{"sent": "orange at 12 o clock", "ann_id": 1052778, "best_split": [2, 2], "split_score": 0.7626536376240435}
+{"sent": "small orange above apple", "ann_id": 1052469, "best_split": [2, 3], "split_score": 0.29340761371463253}
+{"sent": "orange smaller one at noon", "ann_id": 1052469, "best_split": [2, 1], "split_score": 0.18960978630421144}
+{"sent": "large blurry orange", "ann_id": 1051421, "best_split": [1, 2], "split_score": 0.0751260365278623}
+{"sent": "biggest blurry orange", "ann_id": 1051421, "best_split": [1, 2], "split_score": 0.0751260365278623}
+{"sent": "orange very near to camera", "ann_id": 1051421, "best_split": [1, 3], "split_score": 0.2634673512374863}
+{"sent": "the orange directly below the biggest furthest orange", "ann_id": 2187478, "best_split": [1, 2], "split_score": 0.2037627550939189}
+{"sent": "partal orange under big bright one", "ann_id": 2187478, "best_split": [1, 2], "split_score": 0.2037627550939189}

@@ -1,0 +1,9 @@
+{"sent": "jet with just the tail end showing", "ann_id": 1793400, "best_split": [2, 3], "split_score": 0.32422062346232366}
+{"sent": "only tail of plane showing", "ann_id": 1793400, "best_split": [2, 3], "split_score": 0.32422062346232366}
+{"sent": "upside down in corner furthest from us", "ann_id": 1793400, "best_split": [2, 3], "split_score": 0.32422062346232366}
+{"sent": "lowest plane", "ann_id": 161605, "best_split": [2, 1], "split_score": 0.2535076530511198}
+{"sent": "plane with cockpit showing but cut off", "ann_id": 161605, "best_split": [2, 1], "split_score": 0.2535076530511198}
+{"sent": "lowest jet", "ann_id": 161605, "best_split": [3, 1], "split_score": 0.3836872586641115}
+{"sent": "full view jet", "ann_id": 160484, "best_split": [2, 1], "split_score": 0.623987559106331}
+{"sent": "most complete plane", "ann_id": 160484, "best_split": [2, 1], "split_score": 0.623987559106331}
+{"sent": "full plane", "ann_id": 160484, "best_split": [2, 1], "split_score": 0.623987559106331}

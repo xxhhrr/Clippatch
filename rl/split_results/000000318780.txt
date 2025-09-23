@@ -1,0 +1,6 @@
+{"sent": "motorcycle under the tallest tree", "ann_id": 151150, "best_split": [1, 5], "split_score": 0.3611742611089083}
+{"sent": "motorcycle under largest palm tree", "ann_id": 151150, "best_split": [1, 5], "split_score": 0.3611742611089083}
+{"sent": "gray bike with writing", "ann_id": 150517, "best_split": [3, 1], "split_score": 0.239495798305543}
+{"sent": "black moped", "ann_id": 150517, "best_split": [3, 1], "split_score": 0.239495798305543}
+{"sent": "motorcycle with red on it", "ann_id": 149566, "best_split": [2, 3], "split_score": 0.7041657855038945}
+{"sent": "red bit in corner", "ann_id": 149566, "best_split": [2, 3], "split_score": 0.7041657855038945}

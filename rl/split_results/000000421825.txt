@@ -1,0 +1,6 @@
+{"sent": "figure holding open umbrella", "ann_id": 444567, "best_split": [1, 3], "split_score": 0.030952380950876948}
+{"sent": "person holding umbrella", "ann_id": 444567, "best_split": [1, 3], "split_score": 0.030952380950876948}
+{"sent": "kid holding the umbrella", "ann_id": 444567, "best_split": [1, 5], "split_score": 0.30251572324326004}
+{"sent": "kid sleeping", "ann_id": 440482, "best_split": [3, 2], "split_score": 0.379482902373468}
+{"sent": "childs face in bed", "ann_id": 440482, "best_split": [3, 2], "split_score": 0.379482902373468}
+{"sent": "sleeping", "ann_id": 440482, "best_split": [3, 2], "split_score": 0.379482902373468}

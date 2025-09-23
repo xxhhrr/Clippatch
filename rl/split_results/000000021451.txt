@@ -1,0 +1,19 @@
+{"sent": "most visible triangle shaped food", "ann_id": 2219623, "best_split": [3, 1], "split_score": 0.37800573111931535}
+{"sent": "light bread", "ann_id": 2219623, "best_split": [3, 1], "split_score": 0.37800573111931535}
+{"sent": "center piece", "ann_id": 2219623, "best_split": [3, 1], "split_score": 0.37800573111931535}
+{"sent": "pizza with green stuff above it", "ann_id": 2218099, "best_split": [1, 2], "split_score": 0.8720024914017439}
+{"sent": "bigger slice", "ann_id": 2218099, "best_split": [2, 2], "split_score": 0.5231402125247198}
+{"sent": "big slice", "ann_id": 2218099, "best_split": [2, 1], "split_score": 0.2781543204880484}
+{"sent": "the whole picture", "ann_id": 1959795, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "pizza", "ann_id": 1959795, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "black", "ann_id": 1959625, "best_split": [3, 1], "split_score": 0.6651591384100198}
+{"sent": "table part closest to you", "ann_id": 1959625, "best_split": [1, 2], "split_score": 0.11408785468722416}
+{"sent": "black space near us lol", "ann_id": 1959625, "best_split": [3, 1], "split_score": 0.6651591384100198}
+{"sent": "partial slice", "ann_id": 1923499, "best_split": [5, 1], "split_score": 0.20340772012941738}
+{"sent": "most obscured slice", "ann_id": 1923499, "best_split": [2, 3], "split_score": 0.5388069274600378}
+{"sent": "pizza that is half covered farthest from us", "ann_id": 1923499, "best_split": [5, 1], "split_score": 0.24334008410629848}
+{"sent": "slice under a slice and on another slice", "ann_id": 1074400, "best_split": [3, 1], "split_score": 0.37187474041150115}
+{"sent": "pie not on the outside", "ann_id": 1074400, "best_split": [3, 1], "split_score": 0.37187474041150115}
+{"sent": "food thing by red stuff", "ann_id": 313279, "best_split": [2, 3], "split_score": 0.6700380640924374}
+{"sent": "smallest tortilla on end", "ann_id": 313279, "best_split": [2, 1], "split_score": 0.241832084643476}
+{"sent": "pizza furthest from green leaf", "ann_id": 313279, "best_split": [2, 1], "split_score": 0.241832084643476}

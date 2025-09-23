@@ -1,0 +1,5 @@
+{"sent": "brown sheep", "ann_id": 62976, "best_split": [3, 2], "split_score": 0.3230088495188939}
+{"sent": "yellow sheep", "ann_id": 62976, "best_split": [3, 1], "split_score": 0.16222222221247914}
+{"sent": "tan sheep", "ann_id": 62976, "best_split": [3, 1], "split_score": 0.16222222221247914}
+{"sent": "the sheep running slow", "ann_id": 61630, "best_split": [3, 3], "split_score": 0.3404924043407556}
+{"sent": "white dog closet to 2 pclock", "ann_id": 61630, "best_split": [3, 3], "split_score": 0.3404924043407556}

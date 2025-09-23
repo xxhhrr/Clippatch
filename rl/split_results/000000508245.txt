@@ -1,0 +1,6 @@
+{"sent": "green soup", "ann_id": 1038684, "best_split": [3, 2], "split_score": 0.613636363581886}
+{"sent": "green stuff", "ann_id": 1038684, "best_split": [3, 2], "split_score": 0.613636363581886}
+{"sent": "green", "ann_id": 1038684, "best_split": [3, 2], "split_score": 0.613636363581886}
+{"sent": "brown sauce", "ann_id": 710884, "best_split": [1, 2], "split_score": 0.5499999999812926}
+{"sent": "red soup", "ann_id": 710884, "best_split": [1, 2], "split_score": 0.5499999999812926}
+{"sent": "bowl of beans and rice", "ann_id": 710884, "best_split": [1, 2], "split_score": 0.5499999999812926}

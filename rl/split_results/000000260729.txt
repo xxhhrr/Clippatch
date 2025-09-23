@@ -1,0 +1,6 @@
+{"sent": "bike engine", "ann_id": 153298, "best_split": [2, 3], "split_score": 0.8738163147890683}
+{"sent": "most seen motorcycle", "ann_id": 153298, "best_split": [2, 3], "split_score": 0.8738163147890683}
+{"sent": "bike closest to jeans", "ann_id": 153298, "best_split": [2, 3], "split_score": 0.8738163147890683}
+{"sent": "fat tire", "ann_id": 153190, "best_split": [3, 1], "split_score": 0.2788764044787148}
+{"sent": "tire", "ann_id": 153190, "best_split": [3, 1], "split_score": 0.05682451253218085}
+{"sent": "half tire", "ann_id": 153190, "best_split": [3, 1], "split_score": 0.05682451253218085}

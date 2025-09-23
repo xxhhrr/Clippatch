@@ -1,0 +1,9 @@
+{"sent": "the man holding the ball", "ann_id": 1711478, "best_split": [1, 2], "split_score": 0.416586378106552}
+{"sent": "ha man bent over with ball", "ann_id": 1711478, "best_split": [1, 2], "split_score": 0.416586378106552}
+{"sent": "man holding the ball", "ann_id": 1711478, "best_split": [1, 2], "split_score": 0.416586378106552}
+{"sent": "shorts not running but partially bending over", "ann_id": 555404, "best_split": [1, 5], "split_score": 0.5392514077062561}
+{"sent": "guy closest to us hes touching dude with ball", "ann_id": 555404, "best_split": [1, 5], "split_score": 0.5392514077062561}
+{"sent": "man is wearing black shorts", "ann_id": 555404, "best_split": [1, 5], "split_score": 0.5392514077062561}
+{"sent": "man all alone", "ann_id": 510567, "best_split": [5, 1], "split_score": 0.12547528516258316}
+{"sent": "lone player", "ann_id": 510567, "best_split": [3, 1], "split_score": 0.15395284326560565}
+{"sent": "man alone", "ann_id": 510567, "best_split": [2, 1], "split_score": 0.16274309108924026}

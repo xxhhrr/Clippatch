@@ -1,0 +1,17 @@
+{"sent": "orange in the courner", "ann_id": 1559138, "best_split": [1, 3], "split_score": 0.31370656368763833}
+{"sent": "1100", "ann_id": 1559138, "best_split": [1, 2], "split_score": 0.20727040815500355}
+{"sent": "tangerine that is almost all visible and covered the most by another tangerine", "ann_id": 1559008, "best_split": [1, 3], "split_score": 0.36920849418622054}
+{"sent": "orange at 9", "ann_id": 1559008, "best_split": [1, 3], "split_score": 0.36920849418622054}
+{"sent": "orange in corner at 4oclock", "ann_id": 1558616, "best_split": [5, 1], "split_score": 0.25735849054175863}
+{"sent": "row 2 column 3", "ann_id": 1558446, "best_split": [3, 3], "split_score": 0.5530979529395387}
+{"sent": "3 o clock", "ann_id": 1558446, "best_split": [3, 1], "split_score": 0.22311387704863447}
+{"sent": "number 6 if it were a keypad on your keyboard", "ann_id": 1558446, "best_split": [2, 1], "split_score": 0.057280623758385864}
+{"sent": "third one in highest row", "ann_id": 1558418, "best_split": [2, 2], "split_score": 0.4219547193541171}
+{"sent": "number 3 upper row", "ann_id": 1558418, "best_split": [2, 2], "split_score": 0.4219547193541171}
+{"sent": "orange at 100", "ann_id": 1558418, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "number 2 orange far away", "ann_id": 1557482, "best_split": [1, 2], "split_score": 0.08224617129600659}
+{"sent": "number 2 in number 3 row", "ann_id": 1557482, "best_split": [3, 3], "split_score": 0.787749754210981}
+{"sent": "north orange", "ann_id": 1557482, "best_split": [1, 2], "split_score": 0.08224617129600659}
+{"sent": "orange no 5", "ann_id": 1557094, "best_split": [2, 1], "split_score": 0.13362676055867512}
+{"sent": "orange with purple flower surrounded", "ann_id": 1557094, "best_split": [1, 2], "split_score": 0.15522623703199878}
+{"sent": "orang that is the focus of the picture", "ann_id": 1557094, "best_split": [1, 2], "split_score": 0.15522623703199878}

@@ -1,0 +1,6 @@
+{"sent": "blond", "ann_id": 1728657, "best_split": [2, 1], "split_score": 0.6552138394805618}
+{"sent": "blond woman", "ann_id": 1728657, "best_split": [2, 1], "split_score": 0.6552138394805618}
+{"sent": "woman near laptop", "ann_id": 1728657, "best_split": [2, 1], "split_score": 0.6552138394805618}
+{"sent": "turned away", "ann_id": 456986, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "woman behind laptop nearest window", "ann_id": 456986, "best_split": [2, 3], "split_score": 0.7410714284820136}
+{"sent": "finger in mouth", "ann_id": 456986, "best_split": [3, 3], "split_score": 0.891566264915082}

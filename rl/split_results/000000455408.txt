@@ -1,0 +1,12 @@
+{"sent": "woman in red dress with black hair", "ann_id": 1249579, "best_split": [3, 2], "split_score": 0.19475582413541712}
+{"sent": "red dress dark hair", "ann_id": 1249579, "best_split": [3, 2], "split_score": 0.19475582413541712}
+{"sent": "red dress dark hair", "ann_id": 1249579, "best_split": [3, 2], "split_score": 0.19475582413541712}
+{"sent": "lady cutting cake", "ann_id": 1200927, "best_split": [1, 3], "split_score": 0.5112540192632491}
+{"sent": "woman cutting cake", "ann_id": 1200927, "best_split": [1, 3], "split_score": 0.5112540192632491}
+{"sent": "woman cutting cake", "ann_id": 1200927, "best_split": [1, 3], "split_score": 0.5112540192632491}
+{"sent": "man in tan jacket clapping", "ann_id": 2003862, "best_split": [1, 5], "split_score": 0.4383116882672167}
+{"sent": "man next to table", "ann_id": 2003862, "best_split": [1, 5], "split_score": 0.4383116882672167}
+{"sent": "man in gray coat", "ann_id": 2003862, "best_split": [1, 5], "split_score": 0.4383116882672167}
+{"sent": "man in blue shirt and glasses", "ann_id": 1322655, "best_split": [2, 2], "split_score": 0.2277945619163297}
+{"sent": "bald man in blue shirt", "ann_id": 1322655, "best_split": [2, 2], "split_score": 0.2277945619163297}
+{"sent": "man with white bag", "ann_id": 1322655, "best_split": [5, 1], "split_score": 0.10380735436838534}

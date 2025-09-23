@@ -1,0 +1,6 @@
+{"sent": "blue pants", "ann_id": 554714, "best_split": [1, 5], "split_score": 0.4356116162778225}
+{"sent": "skier in bright blue pants", "ann_id": 554714, "best_split": [1, 5], "split_score": 0.4356116162778225}
+{"sent": "adult skiier with child", "ann_id": 554714, "best_split": [1, 3], "split_score": 0.2918058557530062}
+{"sent": "pink pants white coat", "ann_id": 538423, "best_split": [3, 3], "split_score": 0.3660754888169537}
+{"sent": "pink pants", "ann_id": 538423, "best_split": [2, 3], "split_score": 0.3032167340215137}
+{"sent": "pink girl", "ann_id": 538423, "best_split": [3, 2], "split_score": 0.32534858774353337}

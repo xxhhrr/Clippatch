@@ -1,0 +1,15 @@
+{"sent": "girl", "ann_id": 218843, "best_split": [2, 1], "split_score": 0.18184264522244803}
+{"sent": "female", "ann_id": 218843, "best_split": [1, 5], "split_score": 0.7715175789255436}
+{"sent": "her", "ann_id": 218843, "best_split": [2, 1], "split_score": 0.15219387419977065}
+{"sent": "man in suit", "ann_id": 185293, "best_split": [1, 3], "split_score": 0.5725121359006177}
+{"sent": "man", "ann_id": 185293, "best_split": [1, 3], "split_score": 0.5725121359006177}
+{"sent": "dude", "ann_id": 185293, "best_split": [1, 2], "split_score": 0.3536294691128486}
+{"sent": "shrub coming in frame on guys side of bench", "ann_id": 27866, "best_split": [2, 3], "split_score": 0.4006295907239633}
+{"sent": "branches near orange part of bench", "ann_id": 27866, "best_split": [2, 3], "split_score": 0.4006295907239633}
+{"sent": "plant near mans hand", "ann_id": 27866, "best_split": [5, 1], "split_score": 0.15699658701853889}
+{"sent": "tree behind guy", "ann_id": 27477, "best_split": [3, 1], "split_score": 0.3212475868532066}
+{"sent": "hanging leaves against a blue wall", "ann_id": 27477, "best_split": [3, 2], "split_score": 0.4337019483482146}
+{"sent": "plants behind asian maan", "ann_id": 27477, "best_split": [3, 1], "split_score": 0.3212475868532066}
+{"sent": "half a potted plant", "ann_id": 26465, "best_split": [3, 3], "split_score": 0.2947030497119257}
+{"sent": "potted plant on ground", "ann_id": 26465, "best_split": [3, 3], "split_score": 0.2947030497119257}
+{"sent": "whitish planter on ground", "ann_id": 26465, "best_split": [3, 3], "split_score": 0.2947030497119257}

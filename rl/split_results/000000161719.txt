@@ -1,0 +1,12 @@
+{"sent": "white shirt", "ann_id": 233952, "best_split": [2, 3], "split_score": 0.39329268288935854}
+{"sent": "white shirt", "ann_id": 233952, "best_split": [2, 3], "split_score": 0.39329268288935854}
+{"sent": "woman white shirt", "ann_id": 233952, "best_split": [2, 3], "split_score": 0.39329268288935854}
+{"sent": "woman in gray shirt", "ann_id": 225410, "best_split": [1, 5], "split_score": 0.5238095237608064}
+{"sent": "blond", "ann_id": 225410, "best_split": [1, 5], "split_score": 0.5238095237608064}
+{"sent": "girl in gray shirt", "ann_id": 225410, "best_split": [1, 5], "split_score": 0.5238095237608064}
+{"sent": "table but not the objects on it", "ann_id": 123272, "best_split": [3, 1], "split_score": 0.8378378377872926}
+{"sent": "table portions with nothin om them", "ann_id": 123272, "best_split": [3, 1], "split_score": 0.8378378377872926}
+{"sent": "anywhere on wood table", "ann_id": 123272, "best_split": [3, 1], "split_score": 0.8378378377872926}
+{"sent": "table in foreground", "ann_id": 2131952, "best_split": [3, 1], "split_score": 0.8059836353192117}
+{"sent": "coffee table", "ann_id": 2131952, "best_split": [3, 1], "split_score": 0.8059836353192117}
+{"sent": "table", "ann_id": 2131952, "best_split": [3, 1], "split_score": 0.8059836353192117}

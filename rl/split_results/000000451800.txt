@@ -1,0 +1,6 @@
+{"sent": "square pizza", "ann_id": 1076256, "best_split": [3, 1], "split_score": 0.37801389454546314}
+{"sent": "square slice", "ann_id": 1076256, "best_split": [3, 1], "split_score": 0.37801389454546314}
+{"sent": "square food", "ann_id": 1076256, "best_split": [3, 2], "split_score": 0.4983964079138553}
+{"sent": "pepperoni", "ann_id": 1073703, "best_split": [1, 2], "split_score": 0.5305723851829331}
+{"sent": "not the square pizza", "ann_id": 1073703, "best_split": [1, 2], "split_score": 0.5305723851829331}
+{"sent": "triangle slice", "ann_id": 1073703, "best_split": [1, 2], "split_score": 0.5305723851829331}

@@ -1,0 +1,20 @@
+{"sent": "the whole table with bananas", "ann_id": 1091268, "best_split": [2, 1], "split_score": 0.5736367639087475}
+{"sent": "all paper", "ann_id": 1091268, "best_split": [2, 1], "split_score": 0.5736367639087475}
+{"sent": "all the bananas", "ann_id": 1091268, "best_split": [2, 1], "split_score": 0.5736367639087475}
+{"sent": "samller banans on edge", "ann_id": 1046869, "best_split": [1, 5], "split_score": 0.2820512820230317}
+{"sent": "smallest bunch", "ann_id": 1046869, "best_split": [3, 2], "split_score": 0.047175088565432115}
+{"sent": "bananas with two guys on the paper at 9 o clock", "ann_id": 1046557, "best_split": [3, 2], "split_score": 0.39402950927667507}
+{"sent": "bananas about 9 o clock", "ann_id": 1046557, "best_split": [3, 2], "split_score": 0.39402950927667507}
+{"sent": "greenest", "ann_id": 1046252, "best_split": [3, 3], "split_score": 0.5773268018584102}
+{"sent": "banana bunch in corner 1100", "ann_id": 1046252, "best_split": [1, 2], "split_score": 0.14110331632090628}
+{"sent": "bananas at 1200", "ann_id": 1046233, "best_split": [1, 5], "split_score": 0.18040941264775115}
+{"sent": "bunch thats totally surrounded", "ann_id": 1045952, "best_split": [3, 3], "split_score": 0.4883292382542492}
+{"sent": "middle bunch", "ann_id": 1045952, "best_split": [3, 3], "split_score": 0.4883292382542492}
+{"sent": "upper bananas farthest away from green ones", "ann_id": 1045660, "best_split": [3, 1], "split_score": 0.1961348684109717}
+{"sent": "banana at 2 pm", "ann_id": 1045660, "best_split": [2, 1], "split_score": 0.0351745700874422}
+{"sent": "frontmost bunch", "ann_id": 1043281, "best_split": [2, 3], "split_score": 0.6783458952252652}
+{"sent": "full bunch closest to us", "ann_id": 1043281, "best_split": [1, 3], "split_score": 0.36783386720601824}
+{"sent": "600", "ann_id": 1043281, "best_split": [2, 3], "split_score": 0.6783458952252652}
+{"sent": "dark wooden table with white seen way in back", "ann_id": 420634, "best_split": [3, 1], "split_score": 0.759954150533304}
+{"sent": "table in the back", "ann_id": 420634, "best_split": [3, 1], "split_score": 0.759954150533304}
+{"sent": "table wood dark brown", "ann_id": 420634, "best_split": [3, 1], "split_score": 0.759954150533304}

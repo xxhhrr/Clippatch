@@ -1,0 +1,6 @@
+{"sent": "small zebra", "ann_id": 591390, "best_split": [5, 1], "split_score": 0.1580459769973019}
+{"sent": "smaller animal", "ann_id": 591390, "best_split": [5, 1], "split_score": 0.1580459769973019}
+{"sent": "baby", "ann_id": 591390, "best_split": [1, 5], "split_score": 0.18922906674758122}
+{"sent": "zebra highest on hill", "ann_id": 590155, "best_split": [2, 3], "split_score": 0.4105646228043047}
+{"sent": "lead zebra", "ann_id": 590155, "best_split": [2, 3], "split_score": 0.4105646228043047}
+{"sent": "zebra near leafy trees", "ann_id": 590155, "best_split": [2, 3], "split_score": 0.4105646228043047}

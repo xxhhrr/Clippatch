@@ -1,0 +1,6 @@
+{"sent": "pink shirt person", "ann_id": 206941, "best_split": [2, 2], "split_score": 0.803485254637836}
+{"sent": "pink", "ann_id": 206941, "best_split": [2, 2], "split_score": 0.803485254637836}
+{"sent": "solid pink shirt", "ann_id": 206941, "best_split": [2, 2], "split_score": 0.803485254637836}
+{"sent": "a dental hygenist", "ann_id": 189342, "best_split": [1, 2], "split_score": 0.5762775550921757}
+{"sent": "the nurse", "ann_id": 189342, "best_split": [1, 2], "split_score": 0.5762775550921757}
+{"sent": "doctor", "ann_id": 189342, "best_split": [1, 2], "split_score": 0.5762775550921757}

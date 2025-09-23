@@ -1,0 +1,7 @@
+{"sent": "teddy not wearing red and not near radiator", "ann_id": 1163143, "best_split": [3, 3], "split_score": 0.6338052786866273}
+{"sent": "fuzzy teddy", "ann_id": 1163143, "best_split": [3, 3], "split_score": 0.6338052786866273}
+{"sent": "fuzzier bear", "ann_id": 1163143, "best_split": [3, 3], "split_score": 0.6338052786866273}
+{"sent": "teddy with hat", "ann_id": 1163101, "best_split": [3, 2], "split_score": 0.39839797634924135}
+{"sent": "bear with pink hat", "ann_id": 1163101, "best_split": [3, 2], "split_score": 0.39839797634924135}
+{"sent": "pink hat", "ann_id": 1163101, "best_split": [3, 2], "split_score": 0.39839797634924135}
+{"sent": "lower of the 3", "ann_id": 1163101, "best_split": [2, 1], "split_score": 0.12580500224180752}

@@ -1,0 +1,6 @@
+{"sent": "light gray half train", "ann_id": 1366730, "best_split": [3, 1], "split_score": 0.16504758127651428}
+{"sent": "train not fully visible", "ann_id": 1366730, "best_split": [1, 5], "split_score": 0.6769230768554522}
+{"sent": "white train", "ann_id": 1366730, "best_split": [3, 1], "split_score": 0.16504758127651428}
+{"sent": "the vehicle carrying freight", "ann_id": 169862, "best_split": [1, 2], "split_score": 0.5071724577487203}
+{"sent": "green train", "ann_id": 169862, "best_split": [1, 2], "split_score": 0.5071724577487203}
+{"sent": "train", "ann_id": 169862, "best_split": [1, 2], "split_score": 0.5071724577487203}

@@ -1,0 +1,6 @@
+{"sent": "boat without a house between others hard to see", "ann_id": 180186, "best_split": [2, 1], "split_score": 0.10259885203672676}
+{"sent": "small boat no cover", "ann_id": 180186, "best_split": [5, 1], "split_score": 0.2039907012588153}
+{"sent": "boat with nothing on it", "ann_id": 180186, "best_split": [5, 1], "split_score": 0.2039907012588153}
+{"sent": "boat closest", "ann_id": 179160, "best_split": [2, 2], "split_score": 0.41457813932459137}
+{"sent": "hut closest to the lower part of the picture", "ann_id": 179160, "best_split": [1, 3], "split_score": 0.2583214513860897}
+{"sent": "the cottage closest to you", "ann_id": 179160, "best_split": [1, 3], "split_score": 0.2583214513860897}

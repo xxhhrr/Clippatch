@@ -1,0 +1,6 @@
+{"sent": "smaller refrigerator", "ann_id": 331686, "best_split": [3, 2], "split_score": 0.226053639823335}
+{"sent": "smaller fridge", "ann_id": 331686, "best_split": [3, 2], "split_score": 0.226053639823335}
+{"sent": "short fridge", "ann_id": 331686, "best_split": [3, 2], "split_score": 0.226053639823335}
+{"sent": "taller one", "ann_id": 331333, "best_split": [3, 3], "split_score": 0.3913043477686098}
+{"sent": "taller fridge", "ann_id": 331333, "best_split": [3, 3], "split_score": 0.3913043477686098}
+{"sent": "tall fridge", "ann_id": 331333, "best_split": [3, 3], "split_score": 0.3913043477686098}

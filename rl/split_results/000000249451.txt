@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 560278, "best_split": [1, 3], "split_score": 0.6986972630154955}
+{"sent": "closest person", "ann_id": 560278, "best_split": [2, 1], "split_score": 0.10549786011116936}
+{"sent": "blmue", "ann_id": 560278, "best_split": [2, 2], "split_score": 0.5180782873534086}
+{"sent": "catcher", "ann_id": 515339, "best_split": [1, 3], "split_score": 0.3290401717138516}
+{"sent": "catcher", "ann_id": 515339, "best_split": [1, 3], "split_score": 0.3290401717138516}
+{"sent": "red man near u", "ann_id": 515339, "best_split": [1, 3], "split_score": 0.3290401717138516}
+{"sent": "pitcher", "ann_id": 515020, "best_split": [3, 2], "split_score": 0.3175608639000564}
+{"sent": "baseball thrower", "ann_id": 515020, "best_split": [3, 2], "split_score": 0.3175608639000564}
+{"sent": "pitcher", "ann_id": 515020, "best_split": [3, 2], "split_score": 0.3175608639000564}

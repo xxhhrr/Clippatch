@@ -1,0 +1,9 @@
+{"sent": "cake with slice of strawberry", "ann_id": 1088802, "best_split": [2, 2], "split_score": 0.22042410712528507}
+{"sent": "yellow", "ann_id": 1088802, "best_split": [2, 2], "split_score": 0.22042410712528507}
+{"sent": "orange thing", "ann_id": 1088802, "best_split": [2, 3], "split_score": 0.27294713805448034}
+{"sent": "the egg salad white bread sandwich", "ann_id": 1088662, "best_split": [2, 3], "split_score": 0.46808510633216616}
+{"sent": "white cake", "ann_id": 1088662, "best_split": [2, 3], "split_score": 0.46808510633216616}
+{"sent": "cheescake", "ann_id": 1088662, "best_split": [2, 3], "split_score": 0.46808510633216616}
+{"sent": "black thing", "ann_id": 1086413, "best_split": [3, 2], "split_score": 0.40188269366384116}
+{"sent": "black cake", "ann_id": 1086413, "best_split": [3, 2], "split_score": 0.40188269366384116}
+{"sent": "black dessert", "ann_id": 1086413, "best_split": [3, 2], "split_score": 0.40188269366384116}

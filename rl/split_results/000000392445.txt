@@ -1,0 +1,6 @@
+{"sent": "the sunny empty spot on couch", "ann_id": 117695, "best_split": [2, 3], "split_score": 0.293057546560203}
+{"sent": "white pillow far from guy", "ann_id": 117695, "best_split": [3, 3], "split_score": 0.31159807585360794}
+{"sent": "couch with sun on it", "ann_id": 117695, "best_split": [1, 5], "split_score": 0.20529801322760247}
+{"sent": "couch closest to us with 2 pillows", "ann_id": 117659, "best_split": [2, 2], "split_score": 0.7655452805512161}
+{"sent": "sofa by white wall with wood", "ann_id": 117659, "best_split": [2, 1], "split_score": 0.3827726402908652}
+{"sent": "empty spot on couch close to white wall", "ann_id": 117659, "best_split": [2, 1], "split_score": 0.3827726402908652}

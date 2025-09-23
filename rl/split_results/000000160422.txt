@@ -1,0 +1,6 @@
+{"sent": "monitor with black bar", "ann_id": 35454, "best_split": [5, 1], "split_score": 0.40113294384836845}
+{"sent": "monitor with black line on screen", "ann_id": 35454, "best_split": [5, 1], "split_score": 0.40113294384836845}
+{"sent": "large screen smaller black line", "ann_id": 35454, "best_split": [3, 2], "split_score": 0.6970490241912126}
+{"sent": "computer with blue screen", "ann_id": 33399, "best_split": [3, 2], "split_score": 0.6896712519597026}
+{"sent": "screen with blue", "ann_id": 33399, "best_split": [3, 2], "split_score": 0.6896712519597026}
+{"sent": "monitor with blue background", "ann_id": 33399, "best_split": [3, 2], "split_score": 0.6896712519597026}

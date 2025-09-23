@@ -1,0 +1,8 @@
+{"sent": "guy standing gray cutoff in corner", "ann_id": 504497, "best_split": [1, 2], "split_score": 0.28938137753948573}
+{"sent": "gray shirt closest to edge", "ann_id": 504497, "best_split": [2, 2], "split_score": 0.32734584448208137}
+{"sent": "dark gray shirt", "ann_id": 496120, "best_split": [1, 5], "split_score": 0.426370805022339}
+{"sent": "person on skateboard with white pants", "ann_id": 496120, "best_split": [1, 2], "split_score": 0.2272002550929847}
+{"sent": "dark gray shirt and gray pants on ledge", "ann_id": 496120, "best_split": [3, 2], "split_score": 0.2516105941077657}
+{"sent": "man", "ann_id": 470335, "best_split": [1, 3], "split_score": 0.5364576025192247}
+{"sent": "coming down", "ann_id": 470335, "best_split": [1, 3], "split_score": 0.5364576025192247}
+{"sent": "guy about to drop in", "ann_id": 470335, "best_split": [1, 3], "split_score": 0.5364576025192247}

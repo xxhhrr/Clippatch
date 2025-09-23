@@ -1,0 +1,6 @@
+{"sent": "triangle bed", "ann_id": 316276, "best_split": [3, 1], "split_score": 0.4650096524815993}
+{"sent": "bed barely visible", "ann_id": 316276, "best_split": [2, 1], "split_score": 0.3072385203959168}
+{"sent": "corner of bed closest to us", "ann_id": 316276, "best_split": [3, 1], "split_score": 0.4650096524815993}
+{"sent": "bed most seen", "ann_id": 314506, "best_split": [2, 3], "split_score": 0.7172612909138728}
+{"sent": "bed by wall", "ann_id": 314506, "best_split": [2, 3], "split_score": 0.7172612909138728}
+{"sent": "full bed", "ann_id": 314506, "best_split": [2, 3], "split_score": 0.7172612909138728}

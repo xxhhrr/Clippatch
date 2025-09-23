@@ -1,0 +1,10 @@
+{"sent": "woman", "ann_id": 1242579, "best_split": [1, 5], "split_score": 0.6045860318042546}
+{"sent": "girl", "ann_id": 1242579, "best_split": [1, 5], "split_score": 0.6045860318042546}
+{"sent": "woman dark shirt", "ann_id": 1242579, "best_split": [1, 5], "split_score": 0.6045860318042546}
+{"sent": "man in white", "ann_id": 496567, "best_split": [1, 5], "split_score": 0.4341836734377417}
+{"sent": "white whirt", "ann_id": 496567, "best_split": [2, 2], "split_score": 0.38465824663294584}
+{"sent": "guy in white shirt", "ann_id": 496567, "best_split": [1, 5], "split_score": 0.4341836734377417}
+{"sent": "man wearing the lei", "ann_id": 482558, "best_split": [1, 5], "split_score": 0.597326576917934}
+{"sent": "guy with lei", "ann_id": 482558, "best_split": [1, 5], "split_score": 0.597326576917934}
+{"sent": "dude with hula necklace", "ann_id": 482558, "best_split": [1, 5], "split_score": 0.597326576917934}
+{"sent": "the man with the colorful necklace", "ann_id": 482558, "best_split": [1, 5], "split_score": 0.597326576917934}

@@ -1,0 +1,5 @@
+{"sent": "the boy in the orange hat", "ann_id": 483971, "best_split": [1, 5], "split_score": 0.4769169007951709}
+{"sent": "orange hat", "ann_id": 483971, "best_split": [1, 5], "split_score": 0.4769169007951709}
+{"sent": "blue shirt", "ann_id": 463528, "best_split": [3, 2], "split_score": 0.39455591410168683}
+{"sent": "boy in blue reaching for frisbie", "ann_id": 463528, "best_split": [3, 2], "split_score": 0.39455591410168683}
+{"sent": "leaping boy in blue", "ann_id": 463528, "best_split": [3, 2], "split_score": 0.39455591410168683}

@@ -1,0 +1,6 @@
+{"sent": "single rose", "ann_id": 291891, "best_split": [1, 5], "split_score": 0.5087653860025396}
+{"sent": "flowers behind cat", "ann_id": 291891, "best_split": [2, 2], "split_score": 0.2671591672083842}
+{"sent": "the rose", "ann_id": 291891, "best_split": [1, 5], "split_score": 0.5087653860025396}
+{"sent": "flowers before cat", "ann_id": 19399, "best_split": [2, 3], "split_score": 0.4030888030576765}
+{"sent": "vase with greenery", "ann_id": 19399, "best_split": [2, 3], "split_score": 0.4030888030576765}
+{"sent": "black plant", "ann_id": 19399, "best_split": [2, 3], "split_score": 0.4030888030576765}

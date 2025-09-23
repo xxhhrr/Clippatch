@@ -1,0 +1,9 @@
+{"sent": "umpire", "ann_id": 1736047, "best_split": [2, 3], "split_score": 0.32497503602296957}
+{"sent": "umpire black shirt", "ann_id": 1736047, "best_split": [1, 5], "split_score": 0.37073863632602083}
+{"sent": "umpire", "ann_id": 1736047, "best_split": [2, 3], "split_score": 0.32497503602296957}
+{"sent": "10", "ann_id": 509448, "best_split": [1, 3], "split_score": 0.47300287671647473}
+{"sent": "batter", "ann_id": 509448, "best_split": [1, 3], "split_score": 0.47300287671647473}
+{"sent": "batter", "ann_id": 509448, "best_split": [1, 3], "split_score": 0.47300287671647473}
+{"sent": "catcher", "ann_id": 481331, "best_split": [2, 2], "split_score": 0.42307079078259957}
+{"sent": "catcher", "ann_id": 481331, "best_split": [2, 2], "split_score": 0.42307079078259957}
+{"sent": "catcher", "ann_id": 481331, "best_split": [2, 2], "split_score": 0.42307079078259957}

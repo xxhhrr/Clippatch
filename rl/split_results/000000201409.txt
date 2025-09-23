@@ -1,0 +1,6 @@
+{"sent": "blurry blue car", "ann_id": 2208763, "best_split": [3, 3], "split_score": 0.4566872054264793}
+{"sent": "gren truck half", "ann_id": 2208763, "best_split": [3, 3], "split_score": 0.4566872054264793}
+{"sent": "green car", "ann_id": 2208763, "best_split": [3, 3], "split_score": 0.4566872054264793}
+{"sent": "red car", "ann_id": 355012, "best_split": [2, 3], "split_score": 0.3150779101380525}
+{"sent": "red blurry car", "ann_id": 355012, "best_split": [1, 5], "split_score": 0.24318658278605043}
+{"sent": "red blurr", "ann_id": 355012, "best_split": [3, 3], "split_score": 0.38744796663665576}

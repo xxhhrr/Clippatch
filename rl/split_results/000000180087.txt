@@ -1,0 +1,21 @@
+{"sent": "guy with red tie", "ann_id": 1304264, "best_split": [3, 2], "split_score": 0.4332874827634813}
+{"sent": "man with burgandy tie", "ann_id": 1304264, "best_split": [3, 2], "split_score": 0.4332874827634813}
+{"sent": "man with frown and red tie", "ann_id": 1304264, "best_split": [3, 2], "split_score": 0.4332874827634813}
+{"sent": "brown jacket standing no head", "ann_id": 1298216, "best_split": [1, 5], "split_score": 0.3366477272385706}
+{"sent": "headless standing man", "ann_id": 1298216, "best_split": [1, 5], "split_score": 0.3366477272385706}
+{"sent": "suit with head cut off", "ann_id": 1298216, "best_split": [1, 5], "split_score": 0.3366477272385706}
+{"sent": "the gray jacket the man is wearing", "ann_id": 1298216, "best_split": [1, 5], "split_score": 0.3366477272385706}
+{"sent": "lady standing in back holding paper", "ann_id": 1294123, "best_split": [3, 3], "split_score": 0.48397645512034393}
+{"sent": "woman in black jacket standing against wall", "ann_id": 1294123, "best_split": [3, 1], "split_score": 0.17193308549187192}
+{"sent": "woman back row with white tag", "ann_id": 1294123, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "black woman at table", "ann_id": 1287408, "best_split": [1, 5], "split_score": 0.34519843910296005}
+{"sent": "lady looking upset", "ann_id": 1287408, "best_split": [1, 5], "split_score": 0.34519843910296005}
+{"sent": "woman with bob", "ann_id": 1287408, "best_split": [3, 2], "split_score": 0.3578992867562244}
+{"sent": "man in back wall with tie", "ann_id": 1277721, "best_split": [2, 2], "split_score": 0.34837372446202375}
+{"sent": "man in the background writing notes he is wearing a red tie", "ann_id": 1277721, "best_split": [3, 1], "split_score": 0.04834834834592851}
+{"sent": "man standing and writing", "ann_id": 1277721, "best_split": [3, 1], "split_score": 0.04834834834592851}
+{"sent": "white cuffs guy", "ann_id": 1259417, "best_split": [1, 3], "split_score": 0.4270616492966607}
+{"sent": "man with hands reaching", "ann_id": 1259417, "best_split": [3, 2], "split_score": 0.4725415069865468}
+{"sent": "hands guy", "ann_id": 1259417, "best_split": [1, 2], "split_score": 0.4049744897797762}
+{"sent": "foreground person out of focus", "ann_id": 1226439, "best_split": [1, 5], "split_score": 0.44164534536098743}
+{"sent": "blur of man 8pm", "ann_id": 1226439, "best_split": [1, 2], "split_score": 0.0}

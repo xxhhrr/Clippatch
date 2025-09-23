@@ -1,0 +1,5 @@
+{"sent": "elephant whose eye is hidden by the other", "ann_id": 582243, "best_split": [1, 5], "split_score": 0.4812935953962196}
+{"sent": "elephant facing us next to other elephant", "ann_id": 582243, "best_split": [1, 5], "split_score": 0.4812935953962196}
+{"sent": "closest one", "ann_id": 581386, "best_split": [2, 1], "split_score": 0.38838532882619137}
+{"sent": "closest elephant", "ann_id": 581386, "best_split": [1, 2], "split_score": 0.7666465499642376}
+{"sent": "elephant ear showing", "ann_id": 581386, "best_split": [1, 2], "split_score": 0.7666465499642376}

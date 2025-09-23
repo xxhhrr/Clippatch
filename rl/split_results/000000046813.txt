@@ -1,0 +1,6 @@
+{"sent": "suv", "ann_id": 2053228, "best_split": [1, 2], "split_score": 0.7522233201315562}
+{"sent": "car with trunk open", "ann_id": 2053228, "best_split": [1, 2], "split_score": 0.7522233201315562}
+{"sent": "van with open hatch", "ann_id": 2053228, "best_split": [1, 2], "split_score": 0.7522233201315562}
+{"sent": "white car corner", "ann_id": 1368708, "best_split": [2, 3], "split_score": 0.7402741755520309}
+{"sent": "white car partially shown in corner", "ann_id": 1368708, "best_split": [2, 3], "split_score": 0.7402741755520309}
+{"sent": "partial white car", "ann_id": 1368708, "best_split": [2, 3], "split_score": 0.7402741755520309}

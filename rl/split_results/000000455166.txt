@@ -1,0 +1,9 @@
+{"sent": "yellow apple at 7", "ann_id": 1050336, "best_split": [2, 2], "split_score": 0.267059948958302}
+{"sent": "green and little red on the side apple", "ann_id": 1050336, "best_split": [3, 2], "split_score": 0.4041988416500725}
+{"sent": "east limes", "ann_id": 1913763, "best_split": [3, 1], "split_score": 0.4837976122600586}
+{"sent": "oranges closer to people", "ann_id": 1913763, "best_split": [3, 1], "split_score": 0.4837976122600586}
+{"sent": "oranges closest to green been things on edge of picture", "ann_id": 1913612, "best_split": [1, 2], "split_score": 0.44316007651294803}
+{"sent": "oranges at nine", "ann_id": 1913612, "best_split": [1, 2], "split_score": 0.44316007651294803}
+{"sent": "fully green apple", "ann_id": 1905980, "best_split": [5, 1], "split_score": 0.27300989163702216}
+{"sent": "greenest apple", "ann_id": 1905980, "best_split": [5, 1], "split_score": 0.27300989163702216}
+{"sent": "closest full green apple", "ann_id": 1905980, "best_split": [5, 1], "split_score": 0.27300989163702216}

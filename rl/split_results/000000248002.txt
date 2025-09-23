@@ -1,0 +1,6 @@
+{"sent": "person in apron", "ann_id": 1707820, "best_split": [2, 3], "split_score": 0.5912154310258871}
+{"sent": "baker in hat", "ann_id": 1707820, "best_split": [2, 3], "split_score": 0.5912154310258871}
+{"sent": "the baker", "ann_id": 1707820, "best_split": [2, 3], "split_score": 0.5912154310258871}
+{"sent": "black jacket", "ann_id": 510999, "best_split": [1, 3], "split_score": 0.9823203761543948}
+{"sent": "black jacket", "ann_id": 510999, "best_split": [1, 3], "split_score": 0.9823203761543948}
+{"sent": "woman in black", "ann_id": 510999, "best_split": [1, 3], "split_score": 0.9823203761543948}

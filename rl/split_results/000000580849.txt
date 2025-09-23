@@ -1,0 +1,13 @@
+{"sent": "boy with purple tie", "ann_id": 2191253, "best_split": [1, 3], "split_score": 0.752449620967256}
+{"sent": "purple tie", "ann_id": 2191253, "best_split": [1, 3], "split_score": 0.752449620967256}
+{"sent": "boy in black suit purple tie", "ann_id": 2191253, "best_split": [1, 3], "split_score": 0.752449620967256}
+{"sent": "blond boy", "ann_id": 2191061, "best_split": [1, 3], "split_score": 0.5561590381482726}
+{"sent": "blond boy", "ann_id": 2191061, "best_split": [1, 3], "split_score": 0.5561590381482726}
+{"sent": "blond guy", "ann_id": 2191061, "best_split": [1, 3], "split_score": 0.5561590381482726}
+{"sent": "blond person in white", "ann_id": 2158396, "best_split": [1, 3], "split_score": 0.600071693117453}
+{"sent": "long blurry hair of woman", "ann_id": 2158396, "best_split": [1, 3], "split_score": 0.600071693117453}
+{"sent": "guy holding roses", "ann_id": 1729858, "best_split": [3, 3], "split_score": 0.40425531908920576}
+{"sent": "man face only under red flowers", "ann_id": 1729858, "best_split": [3, 3], "split_score": 0.40425531908920576}
+{"sent": "guy with roses", "ann_id": 1729858, "best_split": [3, 3], "split_score": 0.40425531908920576}
+{"sent": "guy with program", "ann_id": 539594, "best_split": [1, 2], "split_score": 0.4782764668176707}
+{"sent": "bobbed hair with one rose", "ann_id": 539594, "best_split": [1, 2], "split_score": 0.4782764668176707}

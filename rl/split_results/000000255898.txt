@@ -1,0 +1,6 @@
+{"sent": "water", "ann_id": 1878239, "best_split": [2, 3], "split_score": 0.3815154439694117}
+{"sent": "clear glass", "ann_id": 1878239, "best_split": [2, 3], "split_score": 0.3815154439694117}
+{"sent": "water", "ann_id": 1878239, "best_split": [2, 3], "split_score": 0.3815154439694117}
+{"sent": "drink with utensil in it", "ann_id": 677939, "best_split": [2, 2], "split_score": 0.27707808562050706}
+{"sent": "soda glass closest to pizza", "ann_id": 677939, "best_split": [3, 3], "split_score": 0.16577540104841157}
+{"sent": "coke glass closest to plate", "ann_id": 677939, "best_split": [2, 3], "split_score": 0.295238095206143}

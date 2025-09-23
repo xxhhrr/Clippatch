@@ -1,0 +1,9 @@
+{"sent": "guy with back facing us", "ann_id": 1707710, "best_split": [1, 3], "split_score": 0.20403022669222173}
+{"sent": "player with back to us", "ann_id": 1707710, "best_split": [1, 2], "split_score": 0.5586734693654866}
+{"sent": "black hair", "ann_id": 1707710, "best_split": [1, 2], "split_score": 0.5586734693654866}
+{"sent": "full face man", "ann_id": 521306, "best_split": [1, 3], "split_score": 0.6132646425942447}
+{"sent": "man on other side of net", "ann_id": 521306, "best_split": [1, 3], "split_score": 0.6132646425942447}
+{"sent": "blond hair guy", "ann_id": 521306, "best_split": [1, 3], "split_score": 0.6132646425942447}
+{"sent": "white cap guy with blue triangle on shirt", "ann_id": 426136, "best_split": [1, 2], "split_score": 0.775589923438473}
+{"sent": "hand up guy", "ann_id": 426136, "best_split": [1, 2], "split_score": 0.775589923438473}
+{"sent": "nice on donut one here guy with wrist bands shirt with blue triangle", "ann_id": 426136, "best_split": [2, 1], "split_score": 0.2674557559816919}

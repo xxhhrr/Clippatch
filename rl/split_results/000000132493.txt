@@ -1,0 +1,6 @@
+{"sent": "close slice by knife", "ann_id": 1076810, "best_split": [3, 2], "split_score": 0.3449043168285598}
+{"sent": "solo piece with knife and fork", "ann_id": 1076810, "best_split": [1, 5], "split_score": 0.14218802273819103}
+{"sent": "small pizza closest to camera", "ann_id": 1076810, "best_split": [3, 2], "split_score": 0.3449043168285598}
+{"sent": "pizza on edge", "ann_id": 1074895, "best_split": [1, 3], "split_score": 0.5052064631654574}
+{"sent": "whole pizza", "ann_id": 1074895, "best_split": [1, 3], "split_score": 0.5052064631654574}
+{"sent": "half pizza", "ann_id": 1074895, "best_split": [1, 3], "split_score": 0.5052064631654574}

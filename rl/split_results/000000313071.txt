@@ -1,0 +1,9 @@
+{"sent": "girl child", "ann_id": 469671, "best_split": [3, 3], "split_score": 0.47707205917444145}
+{"sent": "little girl", "ann_id": 469671, "best_split": [3, 3], "split_score": 0.47707205917444145}
+{"sent": "kids", "ann_id": 469671, "best_split": [3, 3], "split_score": 0.47707205917444145}
+{"sent": "woman", "ann_id": 457499, "best_split": [1, 3], "split_score": 0.4848275861830134}
+{"sent": "woman on phone", "ann_id": 457499, "best_split": [1, 3], "split_score": 0.4848275861830134}
+{"sent": "woman at table", "ann_id": 457499, "best_split": [1, 5], "split_score": 0.3330677290647087}
+{"sent": "guy", "ann_id": 433896, "best_split": [1, 2], "split_score": 0.6937144951184272}
+{"sent": "man", "ann_id": 433896, "best_split": [1, 2], "split_score": 0.6937144951184272}
+{"sent": "the boy", "ann_id": 433896, "best_split": [1, 2], "split_score": 0.6937144951184272}

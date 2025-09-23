@@ -1,0 +1,8 @@
+{"sent": "doughnut no hole", "ann_id": 1082329, "best_split": [2, 3], "split_score": 0.30666080453872707}
+{"sent": "fully covered in chocolate", "ann_id": 1082329, "best_split": [3, 3], "split_score": 0.3890419344369388}
+{"sent": "it cut me off dark icing hole", "ann_id": 1078677, "best_split": [3, 2], "split_score": 0.3506129596788543}
+{"sent": "chocolate donut with hole", "ann_id": 1078677, "best_split": [3, 2], "split_score": 0.3506129596788543}
+{"sent": "chocolate donut with hole", "ann_id": 1078677, "best_split": [3, 2], "split_score": 0.3506129596788543}
+{"sent": "lite brown donut", "ann_id": 1078514, "best_split": [5, 1], "split_score": 0.24106008347784896}
+{"sent": "no icing", "ann_id": 1078514, "best_split": [5, 1], "split_score": 0.24106008347784896}
+{"sent": "donut with no chocolate", "ann_id": 1078514, "best_split": [5, 1], "split_score": 0.24106008347784896}

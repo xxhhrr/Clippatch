@@ -1,0 +1,6 @@
+{"sent": "chair behind bird", "ann_id": 104574, "best_split": [2, 2], "split_score": 0.766917293181598}
+{"sent": "blurry wheel", "ann_id": 104574, "best_split": [2, 2], "split_score": 0.766917293181598}
+{"sent": "red behind bird", "ann_id": 104574, "best_split": [3, 1], "split_score": 0.2663551401758029}
+{"sent": "wheel the bird is on", "ann_id": 103402, "best_split": [2, 1], "split_score": 0.8977598851682972}
+{"sent": "red thing in focus", "ann_id": 103402, "best_split": [2, 1], "split_score": 0.8977598851682972}
+{"sent": "closest chair", "ann_id": 103402, "best_split": [2, 1], "split_score": 0.8977598851682972}

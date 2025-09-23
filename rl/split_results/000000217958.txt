@@ -1,0 +1,6 @@
+{"sent": "bidet or toilet with no lid", "ann_id": 1967582, "best_split": [3, 2], "split_score": 0.26793823793506605}
+{"sent": "toilet with no tank or seat", "ann_id": 1967582, "best_split": [3, 2], "split_score": 0.26793823793506605}
+{"sent": "looks like a toilet but is not", "ann_id": 1967582, "best_split": [3, 2], "split_score": 0.26793823793506605}
+{"sent": "toilet with closed lid and tank", "ann_id": 1095601, "best_split": [3, 3], "split_score": 0.4953728905150554}
+{"sent": "toilet", "ann_id": 1095601, "best_split": [3, 3], "split_score": 0.4953728905150554}
+{"sent": "toilet that is shut", "ann_id": 1095601, "best_split": [3, 3], "split_score": 0.4953728905150554}

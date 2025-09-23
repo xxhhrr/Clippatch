@@ -1,0 +1,14 @@
+{"sent": "baby sheep near door", "ann_id": 1817756, "best_split": [3, 2], "split_score": 0.4459459458921397}
+{"sent": "sheep next to fence", "ann_id": 1817756, "best_split": [3, 2], "split_score": 0.4459459458921397}
+{"sent": "closest to fence sheep", "ann_id": 1817756, "best_split": [5, 1], "split_score": 0.2727272727016597}
+{"sent": "black sheep", "ann_id": 277216, "best_split": [2, 2], "split_score": 0.4826540424230598}
+{"sent": "blacky sheepy", "ann_id": 277216, "best_split": [2, 2], "split_score": 0.4826540424230598}
+{"sent": "black sheep", "ann_id": 277216, "best_split": [2, 2], "split_score": 0.4826540424230598}
+{"sent": "man in the black hat", "ann_id": 220772, "best_split": [3, 3], "split_score": 0.43916349802928334}
+{"sent": "guy with black cowboy hat", "ann_id": 220772, "best_split": [3, 3], "split_score": 0.43916349802928334}
+{"sent": "cowboy hat guy", "ann_id": 220772, "best_split": [3, 3], "split_score": 0.43916349802928334}
+{"sent": "man without hat", "ann_id": 217947, "best_split": [2, 2], "split_score": 0.4166135203749511}
+{"sent": "man behind sheep", "ann_id": 217947, "best_split": [1, 2], "split_score": 0.2083067601957786}
+{"sent": "man no hat near sheep", "ann_id": 217947, "best_split": [1, 2], "split_score": 0.2083067601957786}
+{"sent": "sheep closest to you", "ann_id": 61001, "best_split": [2, 3], "split_score": 0.6501194131141147}
+{"sent": "closest sheep", "ann_id": 61001, "best_split": [2, 3], "split_score": 0.6501194131141147}

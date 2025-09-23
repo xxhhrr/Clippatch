@@ -1,0 +1,9 @@
+{"sent": "back of chair touching rear wheel", "ann_id": 105992, "best_split": [1, 3], "split_score": 0.3623310810592223}
+{"sent": "too of patial chair without bird", "ann_id": 105992, "best_split": [2, 1], "split_score": 0.14899120537473243}
+{"sent": "chair by back wheel", "ann_id": 105992, "best_split": [1, 3], "split_score": 0.3623310810592223}
+{"sent": "chair that you can see both back and seat", "ann_id": 105695, "best_split": [1, 3], "split_score": 0.7386569872539328}
+{"sent": "chair with full view of seat", "ann_id": 105695, "best_split": [1, 3], "split_score": 0.7386569872539328}
+{"sent": "full chair", "ann_id": 105695, "best_split": [1, 3], "split_score": 0.7386569872539328}
+{"sent": "chair back closest to us", "ann_id": 103026, "best_split": [2, 1], "split_score": 0.5706712372221512}
+{"sent": "chair by screen", "ann_id": 103026, "best_split": [2, 1], "split_score": 0.5706712372221512}
+{"sent": "only topof chair showing", "ann_id": 103026, "best_split": [2, 1], "split_score": 0.5706712372221512}

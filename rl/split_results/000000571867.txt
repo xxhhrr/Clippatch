@@ -1,0 +1,6 @@
+{"sent": "checkered shirt", "ann_id": 202143, "best_split": [2, 3], "split_score": 0.5851063829152077}
+{"sent": "plaid shirt", "ann_id": 202143, "best_split": [2, 3], "split_score": 0.5851063829152077}
+{"sent": "plaid shirt guy", "ann_id": 202143, "best_split": [2, 3], "split_score": 0.5851063829152077}
+{"sent": "girl", "ann_id": 198213, "best_split": [1, 2], "split_score": 0.5115877826880021}
+{"sent": "woman", "ann_id": 198213, "best_split": [1, 2], "split_score": 0.5115877826880021}
+{"sent": "pink shirt with glasses", "ann_id": 198213, "best_split": [2, 1], "split_score": 0.44507845933387397}

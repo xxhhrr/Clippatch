@@ -1,0 +1,6 @@
+{"sent": "shoulders", "ann_id": 524476, "best_split": [2, 1], "split_score": 0.08213552361095132}
+{"sent": "woman in white", "ann_id": 524476, "best_split": [3, 3], "split_score": 0.7199444057123098}
+{"sent": "wearing headband white blouse", "ann_id": 524476, "best_split": [3, 3], "split_score": 0.7199444057123098}
+{"sent": "woman in jeans with laptop", "ann_id": 1733177, "best_split": [2, 2], "split_score": 0.6836291423182556}
+{"sent": "green shirt", "ann_id": 1733177, "best_split": [1, 2], "split_score": 0.581393494874785}
+{"sent": "girl by herself in green shirt and jeans", "ann_id": 1733177, "best_split": [2, 2], "split_score": 0.6836291423182556}

@@ -1,0 +1,6 @@
+{"sent": "the male chef", "ann_id": 500240, "best_split": [1, 5], "split_score": 0.46961325962217704}
+{"sent": "man white apron", "ann_id": 500240, "best_split": [1, 5], "split_score": 0.46961325962217704}
+{"sent": "male chef", "ann_id": 500240, "best_split": [1, 5], "split_score": 0.46961325962217704}
+{"sent": "woman", "ann_id": 457105, "best_split": [1, 3], "split_score": 0.35413568239594234}
+{"sent": "woman at counter", "ann_id": 457105, "best_split": [1, 3], "split_score": 0.35413568239594234}
+{"sent": "woman", "ann_id": 457105, "best_split": [1, 3], "split_score": 0.35413568239594234}

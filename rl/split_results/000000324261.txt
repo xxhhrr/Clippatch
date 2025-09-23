@@ -1,0 +1,9 @@
+{"sent": "red shirt man", "ann_id": 1743192, "best_split": [3, 3], "split_score": 0.5775176346124091}
+{"sent": "guy with blue cup", "ann_id": 1743192, "best_split": [3, 3], "split_score": 0.5775176346124091}
+{"sent": "man in red shirt", "ann_id": 1743192, "best_split": [3, 3], "split_score": 0.5775176346124091}
+{"sent": "guy hiding behind lady", "ann_id": 522090, "best_split": [1, 2], "split_score": 0.37906349018585206}
+{"sent": "legs visible only", "ann_id": 522090, "best_split": [2, 2], "split_score": 0.6414166967371582}
+{"sent": "pants only", "ann_id": 522090, "best_split": [3, 2], "split_score": 0.3925741453178949}
+{"sent": "striped shirt", "ann_id": 506498, "best_split": [3, 1], "split_score": 0.19432414999565448}
+{"sent": "woman", "ann_id": 506498, "best_split": [1, 5], "split_score": 0.5188231571876919}
+{"sent": "woman", "ann_id": 506498, "best_split": [1, 5], "split_score": 0.5188231571876919}

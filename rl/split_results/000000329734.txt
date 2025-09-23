@@ -1,0 +1,6 @@
+{"sent": "handle bars", "ann_id": 128490, "best_split": [5, 1], "split_score": 0.5873578496095585}
+{"sent": "handlebars", "ann_id": 128490, "best_split": [5, 1], "split_score": 0.5873578496095585}
+{"sent": "bicycle handlebars", "ann_id": 128490, "best_split": [5, 1], "split_score": 0.5873578496095585}
+{"sent": "bike wheel", "ann_id": 124951, "best_split": [2, 3], "split_score": 0.5415057914404554}
+{"sent": "bike wheel", "ann_id": 124951, "best_split": [2, 3], "split_score": 0.5415057914404554}
+{"sent": "bike tire only", "ann_id": 124951, "best_split": [2, 3], "split_score": 0.5415057914404554}

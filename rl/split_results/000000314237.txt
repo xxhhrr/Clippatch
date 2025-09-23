@@ -1,0 +1,5 @@
+{"sent": "ketchup", "ann_id": 2217775, "best_split": [2, 2], "split_score": 0.7750390014996069}
+{"sent": "half bun with catsup", "ann_id": 2217775, "best_split": [2, 2], "split_score": 0.7750390014996069}
+{"sent": "green lettuce yellow egg", "ann_id": 1911041, "best_split": [1, 2], "split_score": 0.5228011456723586}
+{"sent": "lettace and egg together", "ann_id": 1911041, "best_split": [1, 2], "split_score": 0.5228011456723586}
+{"sent": "lettuce", "ann_id": 1911041, "best_split": [1, 2], "split_score": 0.5228011456723586}

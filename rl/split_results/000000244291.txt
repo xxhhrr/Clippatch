@@ -1,0 +1,6 @@
+{"sent": "man playing tennis", "ann_id": 514806, "best_split": [1, 3], "split_score": 0.4264453348353494}
+{"sent": "player", "ann_id": 514806, "best_split": [1, 3], "split_score": 0.4264453348353494}
+{"sent": "player", "ann_id": 514806, "best_split": [1, 3], "split_score": 0.4264453348353494}
+{"sent": "woman standing", "ann_id": 462490, "best_split": [3, 3], "split_score": 0.39973809127521065}
+{"sent": "gray shirt black bag in stands", "ann_id": 462490, "best_split": [3, 3], "split_score": 0.39973809127521065}
+{"sent": "woman standing in bleachers", "ann_id": 462490, "best_split": [3, 1], "split_score": 0.18258410060885935}

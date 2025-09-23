@@ -1,0 +1,8 @@
+{"sent": "elephant in the lead", "ann_id": 585265, "best_split": [2, 2], "split_score": 0.31845400106396654}
+{"sent": "elephant you can see whole trunk", "ann_id": 585265, "best_split": [2, 3], "split_score": 0.37231168265726666}
+{"sent": "big elephant full trunk visable", "ann_id": 585265, "best_split": [2, 3], "split_score": 0.37231168265726666}
+{"sent": "largest elephant", "ann_id": 584140, "best_split": [5, 1], "split_score": 0.17447827572917565}
+{"sent": "elephant farthest from water", "ann_id": 584140, "best_split": [5, 1], "split_score": 0.17447827572917565}
+{"sent": "largest elephant not at the end and looking away from camera", "ann_id": 580649, "best_split": [5, 1], "split_score": 0.19620529857513286}
+{"sent": "large elephant by one with tusks", "ann_id": 580649, "best_split": [5, 1], "split_score": 0.19620529857513286}
+{"sent": "big elephant facing away being touched by two smaller ones", "ann_id": 580649, "best_split": [2, 3], "split_score": 0.3767901795434428}

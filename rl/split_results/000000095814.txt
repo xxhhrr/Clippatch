@@ -1,0 +1,6 @@
+{"sent": "baby zebra looking at us", "ann_id": 1412825, "best_split": [3, 2], "split_score": 0.4584782608197306}
+{"sent": "looking at us zebra", "ann_id": 1412825, "best_split": [3, 2], "split_score": 0.4584782608197306}
+{"sent": "slowest zebra", "ann_id": 1412825, "best_split": [3, 2], "split_score": 0.4584782608197306}
+{"sent": "biggest", "ann_id": 1412331, "best_split": [1, 3], "split_score": 0.40545767079901923}
+{"sent": "only whole zebra", "ann_id": 1412331, "best_split": [3, 3], "split_score": 0.5711305798319638}
+{"sent": "whole zebra with tail", "ann_id": 1412331, "best_split": [3, 3], "split_score": 0.5711305798319638}

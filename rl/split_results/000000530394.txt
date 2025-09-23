@@ -1,0 +1,6 @@
+{"sent": "cats reflection", "ann_id": 50908, "best_split": [3, 2], "split_score": 0.543742824298221}
+{"sent": "cat reflection", "ann_id": 50908, "best_split": [3, 2], "split_score": 0.543742824298221}
+{"sent": "cats reflection", "ann_id": 50908, "best_split": [3, 2], "split_score": 0.543742824298221}
+{"sent": "actual cat not reflection", "ann_id": 47932, "best_split": [1, 2], "split_score": 0.559999999978125}
+{"sent": "real cat", "ann_id": 47932, "best_split": [1, 2], "split_score": 0.559999999978125}
+{"sent": "cat not looking toward us", "ann_id": 47932, "best_split": [1, 2], "split_score": 0.559999999978125}

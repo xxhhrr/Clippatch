@@ -1,0 +1,9 @@
+{"sent": "black shirt head down", "ann_id": 2156100, "best_split": [3, 1], "split_score": 0.3174019607704218}
+{"sent": "guy leaning over laptop unfocused", "ann_id": 2156100, "best_split": [1, 2], "split_score": 0.3934319740024023}
+{"sent": "blurry guy black half sleeve shirt", "ann_id": 2156100, "best_split": [1, 3], "split_score": 0.3371834739965711}
+{"sent": "man with longsleeve black shirt", "ann_id": 452118, "best_split": [2, 1], "split_score": 0.3600209010578257}
+{"sent": "long black sleeves", "ann_id": 452118, "best_split": [2, 1], "split_score": 0.3600209010578257}
+{"sent": "blury dude with green on shirt", "ann_id": 452118, "best_split": [1, 3], "split_score": 0.5601041751216691}
+{"sent": "man in focus", "ann_id": 447198, "best_split": [1, 2], "split_score": 0.7580879540819087}
+{"sent": "closest guy", "ann_id": 447198, "best_split": [1, 2], "split_score": 0.7580879540819087}
+{"sent": "gray shirt", "ann_id": 447198, "best_split": [1, 2], "split_score": 0.7580879540819087}

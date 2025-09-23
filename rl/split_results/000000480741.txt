@@ -1,0 +1,9 @@
+{"sent": "asian man", "ann_id": 224329, "best_split": [2, 2], "split_score": 0.5468551236362647}
+{"sent": "ponytail", "ann_id": 224329, "best_split": [2, 2], "split_score": 0.5468551236362647}
+{"sent": "person bent forward over device", "ann_id": 224329, "best_split": [1, 3], "split_score": 0.38225255970657784}
+{"sent": "green bald guy", "ann_id": 207519, "best_split": [1, 3], "split_score": 0.4505151420367423}
+{"sent": "bald guy green shirt", "ann_id": 207519, "best_split": [1, 3], "split_score": 0.4505151420367423}
+{"sent": "green shirt", "ann_id": 207519, "best_split": [1, 3], "split_score": 0.4505151420367423}
+{"sent": "light gray shirt", "ann_id": 189294, "best_split": [1, 3], "split_score": 0.3788635357948656}
+{"sent": "gray shirt", "ann_id": 189294, "best_split": [1, 2], "split_score": 0.45072616992791925}
+{"sent": "man with laptop", "ann_id": 189294, "best_split": [2, 1], "split_score": 0.5213725089568648}

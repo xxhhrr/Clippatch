@@ -1,0 +1,9 @@
+{"sent": "man on horse", "ann_id": 225943, "best_split": [1, 2], "split_score": 0.28517110265030216}
+{"sent": "the man", "ann_id": 225943, "best_split": [2, 3], "split_score": 0.38723404251886223}
+{"sent": "guy on the horse", "ann_id": 225943, "best_split": [1, 2], "split_score": 0.28517110265030216}
+{"sent": "blue girl", "ann_id": 201798, "best_split": [2, 3], "split_score": 0.5681712423722463}
+{"sent": "girl in blue", "ann_id": 201798, "best_split": [2, 3], "split_score": 0.5681712423722463}
+{"sent": "blue outfit", "ann_id": 201798, "best_split": [2, 3], "split_score": 0.5681712423722463}
+{"sent": "girl in checks", "ann_id": 189474, "best_split": [2, 2], "split_score": 0.4360684028525205}
+{"sent": "plaid dress girl", "ann_id": 189474, "best_split": [2, 2], "split_score": 0.4360684028525205}
+{"sent": "plaid skirt", "ann_id": 189474, "best_split": [2, 2], "split_score": 0.4360684028525205}

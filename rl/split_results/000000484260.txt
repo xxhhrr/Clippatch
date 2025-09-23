@@ -1,0 +1,5 @@
+{"sent": "two zebras together", "ann_id": 592107, "best_split": [1, 2], "split_score": 0.6597448617767631}
+{"sent": "zebra between", "ann_id": 592107, "best_split": [1, 2], "split_score": 0.6597448617767631}
+{"sent": "the medium sized zebra", "ann_id": 589863, "best_split": [3, 3], "split_score": 0.3919491525127157}
+{"sent": "medium zebra", "ann_id": 589863, "best_split": [3, 3], "split_score": 0.3919491525127157}
+{"sent": "zebra last in line", "ann_id": 589863, "best_split": [3, 3], "split_score": 0.3919491525127157}

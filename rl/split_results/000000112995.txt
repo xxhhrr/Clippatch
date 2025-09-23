@@ -1,0 +1,6 @@
+{"sent": "guy backpack", "ann_id": 2153755, "best_split": [3, 2], "split_score": 0.606717226388584}
+{"sent": "man in kayak", "ann_id": 2153755, "best_split": [3, 1], "split_score": 0.4359861591479987}
+{"sent": "sitting in canoe", "ann_id": 2153755, "best_split": [1, 2], "split_score": 0.41882601796408453}
+{"sent": "man standing", "ann_id": 434528, "best_split": [3, 3], "split_score": 0.5491823898680274}
+{"sent": "red pack on belly guy", "ann_id": 434528, "best_split": [1, 5], "split_score": 0.4294520547577524}
+{"sent": "standing person", "ann_id": 434528, "best_split": [3, 3], "split_score": 0.5491823898680274}

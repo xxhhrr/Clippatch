@@ -1,0 +1,6 @@
+{"sent": "car license plate showing", "ann_id": 1347999, "best_split": [2, 3], "split_score": 0.5326946330078416}
+{"sent": "bmw car", "ann_id": 1347999, "best_split": [2, 3], "split_score": 0.5326946330078416}
+{"sent": "car with visible license plate looks like a bmw", "ann_id": 1347999, "best_split": [2, 3], "split_score": 0.5326946330078416}
+{"sent": "snow covered car closest to us that you only see windows", "ann_id": 1788549, "best_split": [3, 1], "split_score": 0.34881756754652404}
+{"sent": "closest car", "ann_id": 1788549, "best_split": [2, 1], "split_score": 0.23046874999081357}
+{"sent": "piece of car snowboarder is headed toward", "ann_id": 1788549, "best_split": [3, 1], "split_score": 0.34881756754652404}

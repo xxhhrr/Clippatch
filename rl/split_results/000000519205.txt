@@ -1,0 +1,7 @@
+{"sent": "bear behind tree", "ann_id": 587183, "best_split": [3, 1], "split_score": 0.23712682378284503}
+{"sent": "bear hiding", "ann_id": 587183, "best_split": [3, 1], "split_score": 0.23712682378284503}
+{"sent": "bear partially hidden by plants and tree", "ann_id": 587183, "best_split": [2, 1], "split_score": 0.4219427580059157}
+{"sent": "the bear", "ann_id": 586556, "best_split": [3, 3], "split_score": 0.4902650080462054}
+{"sent": "black bear", "ann_id": 586556, "best_split": [3, 3], "split_score": 0.4902650080462054}
+{"sent": "bear head", "ann_id": 586556, "best_split": [3, 3], "split_score": 0.4902650080462054}
+{"sent": "bear growling", "ann_id": 586556, "best_split": [3, 3], "split_score": 0.4902650080462054}

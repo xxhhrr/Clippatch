@@ -1,0 +1,13 @@
+{"sent": "man in white shirt", "ann_id": 210530, "best_split": [3, 2], "split_score": 0.36499197059360033}
+{"sent": "man in white", "ann_id": 210530, "best_split": [3, 2], "split_score": 0.36499197059360033}
+{"sent": "white shirt facing away", "ann_id": 210530, "best_split": [3, 2], "split_score": 0.36499197059360033}
+{"sent": "person with woman only looking at paper", "ann_id": 202494, "best_split": [2, 3], "split_score": 0.6970464134285815}
+{"sent": "cutoff frame guy", "ann_id": 202494, "best_split": [1, 5], "split_score": 0.47922252006708926}
+{"sent": "girl with dark curly hair", "ann_id": 185086, "best_split": [2, 3], "split_score": 0.4695330018066166}
+{"sent": "woman with her back to you", "ann_id": 185086, "best_split": [2, 3], "split_score": 0.4695330018066166}
+{"sent": "long hair", "ann_id": 185086, "best_split": [2, 3], "split_score": 0.4695330018066166}
+{"sent": "the table cloth", "ann_id": 120598, "best_split": [2, 1], "split_score": 0.7999466168156965}
+{"sent": "table closest", "ann_id": 120598, "best_split": [2, 1], "split_score": 0.7999466168156965}
+{"sent": "checkered cloth", "ann_id": 120598, "best_split": [2, 1], "split_score": 0.7999466168156965}
+{"sent": "blue table under menu and ladys arms", "ann_id": 1612961, "best_split": [2, 1], "split_score": 0.028912457557880484}
+{"sent": "table with two people at it", "ann_id": 1612961, "best_split": [5, 1], "split_score": 0.17068937012971652}

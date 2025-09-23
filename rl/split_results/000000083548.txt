@@ -1,0 +1,6 @@
+{"sent": "giraffe with head in food", "ann_id": 597489, "best_split": [3, 3], "split_score": 0.4276199803694789}
+{"sent": "no head giraffe", "ann_id": 597489, "best_split": [3, 3], "split_score": 0.4276199803694789}
+{"sent": "giraffee eating", "ann_id": 597489, "best_split": [3, 3], "split_score": 0.4276199803694789}
+{"sent": "first giraffe", "ann_id": 597226, "best_split": [2, 1], "split_score": 0.3678118684452426}
+{"sent": "closest giraffe", "ann_id": 597226, "best_split": [2, 1], "split_score": 0.3678118684452426}
+{"sent": "lefty", "ann_id": 597226, "best_split": [2, 1], "split_score": 0.3678118684452426}

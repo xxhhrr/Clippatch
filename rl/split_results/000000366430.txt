@@ -1,0 +1,6 @@
+{"sent": "the passenger", "ann_id": 214968, "best_split": [3, 1], "split_score": 0.11144578312653583}
+{"sent": "woman on back", "ann_id": 214968, "best_split": [1, 5], "split_score": 0.414772727230644}
+{"sent": "woman on bike", "ann_id": 214968, "best_split": [1, 2], "split_score": 0.09297969580830974}
+{"sent": "front rider", "ann_id": 206943, "best_split": [1, 2], "split_score": 0.5273437499789803}
+{"sent": "guy", "ann_id": 206943, "best_split": [1, 5], "split_score": 0.5630331753173302}
+{"sent": "man in orange shirt", "ann_id": 206943, "best_split": [1, 2], "split_score": 0.5273437499789803}

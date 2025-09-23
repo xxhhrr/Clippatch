@@ -1,0 +1,6 @@
+{"sent": "person making pizza", "ann_id": 184406, "best_split": [1, 2], "split_score": 0.6924426020132157}
+{"sent": "person by pizza with sauce", "ann_id": 184406, "best_split": [1, 2], "split_score": 0.6924426020132157}
+{"sent": "girl reaching for pizza", "ann_id": 184406, "best_split": [1, 2], "split_score": 0.6924426020132157}
+{"sent": "woman wearing glasses", "ann_id": 2154369, "best_split": [2, 3], "split_score": 0.521739130384148}
+{"sent": "woman with glasses in black", "ann_id": 2154369, "best_split": [2, 3], "split_score": 0.521739130384148}
+{"sent": "laughing woman with glasses", "ann_id": 2154369, "best_split": [2, 3], "split_score": 0.521739130384148}

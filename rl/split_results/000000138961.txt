@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 466320, "best_split": [1, 5], "split_score": 0.2587256493243988}
+{"sent": "person with white shirt", "ann_id": 466320, "best_split": [3, 1], "split_score": 0.13131432626692804}
+{"sent": "white shirt", "ann_id": 466320, "best_split": [1, 5], "split_score": 0.2587256493243988}
+{"sent": "the man with glasses", "ann_id": 466099, "best_split": [1, 2], "split_score": 0.6874275509669029}
+{"sent": "man with red tie", "ann_id": 466099, "best_split": [1, 2], "split_score": 0.6874275509669029}
+{"sent": "guy closet to us", "ann_id": 466099, "best_split": [1, 2], "split_score": 0.6874275509669029}

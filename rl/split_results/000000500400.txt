@@ -1,0 +1,6 @@
+{"sent": "pizza near lady", "ann_id": 1075753, "best_split": [2, 3], "split_score": 0.1309598167675453}
+{"sent": "furthest pizza", "ann_id": 1075753, "best_split": [2, 3], "split_score": 0.1309598167675453}
+{"sent": "pizza by woman", "ann_id": 1075753, "best_split": [2, 3], "split_score": 0.1309598167675453}
+{"sent": "pizza towards you", "ann_id": 1074918, "best_split": [2, 1], "split_score": 0.7118941326246854}
+{"sent": "pizza closet to us", "ann_id": 1074918, "best_split": [2, 1], "split_score": 0.7118941326246854}
+{"sent": "big pizza close to us", "ann_id": 1074918, "best_split": [2, 1], "split_score": 0.7118941326246854}

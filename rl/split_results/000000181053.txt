@@ -1,0 +1,8 @@
+{"sent": "black shirt facing backwards", "ann_id": 481040, "best_split": [3, 1], "split_score": 0.08626263662512122}
+{"sent": "black shirt on man with back to us", "ann_id": 481040, "best_split": [2, 1], "split_score": 0.17344719882285822}
+{"sent": "red shirt", "ann_id": 471232, "best_split": [1, 5], "split_score": 0.46712384022676323}
+{"sent": "red shirt", "ann_id": 471232, "best_split": [1, 5], "split_score": 0.46712384022676323}
+{"sent": "guy in red", "ann_id": 471232, "best_split": [1, 5], "split_score": 0.46712384022676323}
+{"sent": "guy raising fist", "ann_id": 436191, "best_split": [1, 3], "split_score": 0.5252225519044315}
+{"sent": "blue shirt with white letters guy standing", "ann_id": 436191, "best_split": [1, 3], "split_score": 0.5252225519044315}
+{"sent": "dude with fist raised", "ann_id": 436191, "best_split": [1, 3], "split_score": 0.5252225519044315}

@@ -1,0 +1,6 @@
+{"sent": "brown cow laying down close to us", "ann_id": 278171, "best_split": [2, 2], "split_score": 0.41071428568154383}
+{"sent": "baby laying down 1", "ann_id": 278171, "best_split": [3, 2], "split_score": 0.44516129027471385}
+{"sent": "sleeping cow", "ann_id": 278171, "best_split": [2, 2], "split_score": 0.41071428568154383}
+{"sent": "a cow", "ann_id": 70050, "best_split": [3, 1], "split_score": 0.45431563739371994}
+{"sent": "facing us cow", "ann_id": 70050, "best_split": [3, 1], "split_score": 0.45431563739371994}
+{"sent": "main cow in picture", "ann_id": 70050, "best_split": [3, 1], "split_score": 0.45431563739371994}

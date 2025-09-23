@@ -1,0 +1,9 @@
+{"sent": "baby", "ann_id": 227574, "best_split": [3, 3], "split_score": 0.543150271493188}
+{"sent": "the child", "ann_id": 227574, "best_split": [3, 3], "split_score": 0.543150271493188}
+{"sent": "kid", "ann_id": 227574, "best_split": [3, 3], "split_score": 0.543150271493188}
+{"sent": "family eating outdoors", "ann_id": 219827, "best_split": [3, 2], "split_score": 0.3028802425314361}
+{"sent": "young woman holding a child", "ann_id": 219827, "best_split": [1, 2], "split_score": 0.6973852040538351}
+{"sent": "man with child", "ann_id": 219827, "best_split": [1, 2], "split_score": 0.6973852040538351}
+{"sent": "woman", "ann_id": 210068, "best_split": [2, 2], "split_score": 0.4833512351938506}
+{"sent": "woman", "ann_id": 210068, "best_split": [2, 2], "split_score": 0.4833512351938506}
+{"sent": "older lady", "ann_id": 210068, "best_split": [2, 2], "split_score": 0.4833512351938506}

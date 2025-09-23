@@ -1,0 +1,12 @@
+{"sent": "glass with words on it", "ann_id": 676888, "best_split": [3, 2], "split_score": 0.397442084894131}
+{"sent": "glass labeled brewery", "ann_id": 676888, "best_split": [3, 2], "split_score": 0.397442084894131}
+{"sent": "wine", "ann_id": 676888, "best_split": [3, 2], "split_score": 0.397442084894131}
+{"sent": "glass at edge of photo by one with dark drink in it", "ann_id": 676376, "best_split": [3, 3], "split_score": 0.3635768096358374}
+{"sent": "glass next to brewry glass", "ann_id": 676376, "best_split": [3, 3], "split_score": 0.3635768096358374}
+{"sent": "the glass that is next to the dark liquid glass", "ann_id": 676376, "best_split": [3, 3], "split_score": 0.3635768096358374}
+{"sent": "closest half of sandwich", "ann_id": 312623, "best_split": [3, 2], "split_score": 0.7127648247937012}
+{"sent": "lighter toasted half", "ann_id": 312623, "best_split": [3, 2], "split_score": 0.7127648247937012}
+{"sent": "sandwich thats not next to the pickle", "ann_id": 312623, "best_split": [3, 2], "split_score": 0.7127648247937012}
+{"sent": "the sandwich nearest the pickle", "ann_id": 308974, "best_split": [2, 2], "split_score": 0.4219010561129863}
+{"sent": "piece the salad is covering a lil", "ann_id": 308974, "best_split": [3, 1], "split_score": 0.2574948665165557}
+{"sent": "darker piece of sandwich bread", "ann_id": 308974, "best_split": [2, 2], "split_score": 0.4219010561129863}

@@ -1,0 +1,6 @@
+{"sent": "the striped couch against the wall", "ann_id": 2224762, "best_split": [3, 3], "split_score": 0.3257110986718194}
+{"sent": "couch facing us", "ann_id": 2224762, "best_split": [3, 3], "split_score": 0.3257110986718194}
+{"sent": "headboard", "ann_id": 2224762, "best_split": [3, 3], "split_score": 0.3257110986718194}
+{"sent": "furniture closest to us", "ann_id": 1949108, "best_split": [2, 1], "split_score": 0.8530016900267102}
+{"sent": "green and white back of couch", "ann_id": 1949108, "best_split": [2, 1], "split_score": 0.8530016900267102}
+{"sent": "back of couch", "ann_id": 1949108, "best_split": [2, 1], "split_score": 0.8530016900267102}

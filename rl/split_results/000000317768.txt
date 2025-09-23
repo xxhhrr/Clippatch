@@ -1,0 +1,6 @@
+{"sent": "the dark car", "ann_id": 1775719, "best_split": [5, 1], "split_score": 0.197711498762173}
+{"sent": "dark car", "ann_id": 1775719, "best_split": [3, 2], "split_score": 0.3515926640502422}
+{"sent": "black car", "ann_id": 1775719, "best_split": [3, 2], "split_score": 0.3515926640502422}
+{"sent": "car next to mirror not the car with the mirror", "ann_id": 135775, "best_split": [1, 2], "split_score": 0.6758654762086366}
+{"sent": "white car next to mirror", "ann_id": 135775, "best_split": [1, 2], "split_score": 0.6758654762086366}
+{"sent": "the white car", "ann_id": 135775, "best_split": [1, 2], "split_score": 0.6758654762086366}

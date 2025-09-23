@@ -1,0 +1,12 @@
+{"sent": "blue vase on end", "ann_id": 1671774, "best_split": [1, 5], "split_score": 0.689469638673187}
+{"sent": "vase near edge", "ann_id": 1671774, "best_split": [1, 2], "split_score": 0.30803571427343607}
+{"sent": "blue clear", "ann_id": 1671774, "best_split": [1, 5], "split_score": 0.689469638673187}
+{"sent": "almost shortest one", "ann_id": 1671701, "best_split": [3, 3], "split_score": 0.3078405216677278}
+{"sent": "ridged vase next to red one", "ann_id": 1671214, "best_split": [1, 5], "split_score": 0.47895809333933215}
+{"sent": "fattest red", "ann_id": 1671214, "best_split": [1, 5], "split_score": 0.47895809333933215}
+{"sent": "dark red vase by blue one", "ann_id": 1671214, "best_split": [1, 5], "split_score": 0.47895809333933215}
+{"sent": "red vase thing not in foreground beside short vase", "ann_id": 1671123, "best_split": [1, 3], "split_score": 0.18605703937380844}
+{"sent": "vase between to green ones", "ann_id": 1671123, "best_split": [1, 3], "split_score": 0.18605703937380844}
+{"sent": "tallest vase", "ann_id": 1667351, "best_split": [1, 3], "split_score": 0.3483952702492522}
+{"sent": "vase with jaggedtop", "ann_id": 1667351, "best_split": [1, 3], "split_score": 0.3483952702492522}
+{"sent": "long red bottle without bumps", "ann_id": 1667351, "best_split": [1, 3], "split_score": 0.3483952702492522}

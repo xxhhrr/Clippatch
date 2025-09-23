@@ -1,0 +1,6 @@
+{"sent": "not the skater", "ann_id": 1724289, "best_split": [3, 1], "split_score": 0.14769765420570713}
+{"sent": "less visible person", "ann_id": 1724289, "best_split": [3, 1], "split_score": 0.14769765420570713}
+{"sent": "person in black to the side", "ann_id": 1724289, "best_split": [1, 5], "split_score": 0.4136105118245136}
+{"sent": "man on skate board in air", "ann_id": 469004, "best_split": [1, 5], "split_score": 0.2953020133970799}
+{"sent": "person with plaid shirt", "ann_id": 469004, "best_split": [3, 3], "split_score": 0.637400406086955}
+{"sent": "skateboarder", "ann_id": 469004, "best_split": [3, 3], "split_score": 0.637400406086955}

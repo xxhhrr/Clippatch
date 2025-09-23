@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 477203, "best_split": [2, 3], "split_score": 0.16344679544898444}
+{"sent": "person beside guy bending over", "ann_id": 477203, "best_split": [2, 2], "split_score": 0.5491071428133684}
+{"sent": "blurry girl", "ann_id": 477203, "best_split": [2, 2], "split_score": 0.5491071428133684}
+{"sent": "the man with the funny hat", "ann_id": 447534, "best_split": [1, 2], "split_score": 0.42307172766368123}
+{"sent": "guy with head down", "ann_id": 447534, "best_split": [2, 1], "split_score": 0.5867158671365797}
+{"sent": "white shirt", "ann_id": 447534, "best_split": [2, 2], "split_score": 0.6308133127269774}

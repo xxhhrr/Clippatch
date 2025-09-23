@@ -1,0 +1,7 @@
+{"sent": "the person holding the plate", "ann_id": 1742746, "best_split": [1, 2], "split_score": 0.3667142857055544}
+{"sent": "checked shirt", "ann_id": 1742746, "best_split": [2, 1], "split_score": 0.7168750373656495}
+{"sent": "guy holding cupcakes", "ann_id": 1742746, "best_split": [3, 1], "split_score": 0.4790948145314003}
+{"sent": "person with black and white checker shirt", "ann_id": 1742746, "best_split": [2, 1], "split_score": 0.7168750373656495}
+{"sent": "red arm", "ann_id": 510900, "best_split": [3, 2], "split_score": 0.5574324323651746}
+{"sent": "red sleeve", "ann_id": 510900, "best_split": [3, 2], "split_score": 0.5574324323651746}
+{"sent": "shirt sleeve in rear", "ann_id": 510900, "best_split": [5, 1], "split_score": 0.4687499999524401}

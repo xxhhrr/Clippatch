@@ -1,0 +1,6 @@
+{"sent": "person facing us crouched", "ann_id": 1208194, "best_split": [2, 3], "split_score": 0.5836447570253193}
+{"sent": "the darker skinned man", "ann_id": 1208194, "best_split": [3, 1], "split_score": 0.10972032074566201}
+{"sent": "red shirt lower", "ann_id": 1208194, "best_split": [2, 3], "split_score": 0.5836447570253193}
+{"sent": "man in red", "ann_id": 1737656, "best_split": [3, 1], "split_score": 0.3462259937317452}
+{"sent": "white man in red", "ann_id": 1737656, "best_split": [3, 1], "split_score": 0.3462259937317452}
+{"sent": "the player in the red", "ann_id": 1737656, "best_split": [3, 2], "split_score": 0.39499553169954066}

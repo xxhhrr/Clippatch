@@ -1,0 +1,8 @@
+{"sent": "900", "ann_id": 1907396, "best_split": [1, 2], "split_score": 0.21173469386911134}
+{"sent": "apple near the bananas", "ann_id": 1907396, "best_split": [5, 1], "split_score": 0.2042874156249077}
+{"sent": "apple closest to yellow banana", "ann_id": 1907396, "best_split": [2, 1], "split_score": 0.17669827752364242}
+{"sent": "apple at 3", "ann_id": 1549846, "best_split": [3, 3], "split_score": 0.5920027695011246}
+{"sent": "apple toprow rightside", "ann_id": 1549846, "best_split": [3, 3], "split_score": 0.5920027695011246}
+{"sent": "biggest apple", "ann_id": 1548569, "best_split": [1, 5], "split_score": 0.22184873947885037}
+{"sent": "lowest fruit", "ann_id": 1548569, "best_split": [3, 3], "split_score": 0.26294040884483033}
+{"sent": "apple in front of orange", "ann_id": 1548569, "best_split": [3, 3], "split_score": 0.26294040884483033}

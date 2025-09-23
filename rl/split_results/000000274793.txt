@@ -1,0 +1,7 @@
+{"sent": "brown horse", "ann_id": 274617, "best_split": [3, 3], "split_score": 0.3084112149143204}
+{"sent": "darkest horse", "ann_id": 274617, "best_split": [3, 3], "split_score": 0.3084112149143204}
+{"sent": "full brown horse", "ann_id": 274617, "best_split": [3, 3], "split_score": 0.3084112149143204}
+{"sent": "closest to camera halfway out of screen", "ann_id": 274536, "best_split": [2, 1], "split_score": 0.10250305642807725}
+{"sent": "whiat horse next to tan horse", "ann_id": 57391, "best_split": [3, 1], "split_score": 0.17235443037102002}
+{"sent": "closest horse fully visible", "ann_id": 53737, "best_split": [3, 1], "split_score": 0.20535314653095724}
+{"sent": "tan horse behind the brown one", "ann_id": 53737, "best_split": [3, 1], "split_score": 0.20535314653095724}

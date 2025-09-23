@@ -1,0 +1,6 @@
+{"sent": "blue jacket green pants", "ann_id": 538469, "best_split": [3, 3], "split_score": 0.3369070347573936}
+{"sent": "child blue jacket", "ann_id": 538469, "best_split": [3, 3], "split_score": 0.3369070347573936}
+{"sent": "boy blue jacket", "ann_id": 538469, "best_split": [3, 3], "split_score": 0.3369070347573936}
+{"sent": "green coat", "ann_id": 530992, "best_split": [2, 2], "split_score": 0.3719862227057989}
+{"sent": "which one is wearing a green coat", "ann_id": 530992, "best_split": [2, 2], "split_score": 0.3719862227057989}
+{"sent": "boy in green coat", "ann_id": 530992, "best_split": [1, 5], "split_score": 0.5793925412745682}

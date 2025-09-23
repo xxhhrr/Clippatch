@@ -1,0 +1,6 @@
+{"sent": "elephant with hind leg lifted", "ann_id": 582408, "best_split": [3, 3], "split_score": 0.4695951764910258}
+{"sent": "elephant with leg up in the air", "ann_id": 582408, "best_split": [3, 3], "split_score": 0.4695951764910258}
+{"sent": "walking foot up", "ann_id": 582408, "best_split": [2, 2], "split_score": 0.14884371776779762}
+{"sent": "non obscured elephant", "ann_id": 580609, "best_split": [2, 3], "split_score": 0.3729457307447998}
+{"sent": "elephant most in frame", "ann_id": 580609, "best_split": [2, 3], "split_score": 0.3729457307447998}
+{"sent": "full elephant side", "ann_id": 580609, "best_split": [2, 3], "split_score": 0.3729457307447998}

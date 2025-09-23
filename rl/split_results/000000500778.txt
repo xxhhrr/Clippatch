@@ -1,0 +1,5 @@
+{"sent": "man making a gesture to woman", "ann_id": 228103, "best_split": [1, 5], "split_score": 0.6079573830025006}
+{"sent": "hand reaching in from side no face", "ann_id": 228103, "best_split": [2, 3], "split_score": 0.5168347290619694}
+{"sent": "person almost out of frame", "ann_id": 228103, "best_split": [2, 2], "split_score": 0.3883911671679248}
+{"sent": "girl", "ann_id": 189004, "best_split": [2, 2], "split_score": 0.4161499639209697}
+{"sent": "woman in orange", "ann_id": 189004, "best_split": [1, 5], "split_score": 0.30918918916531357}

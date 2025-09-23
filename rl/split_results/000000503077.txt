@@ -1,0 +1,6 @@
+{"sent": "we only see this elephants head", "ann_id": 583182, "best_split": [3, 3], "split_score": 0.4342585828279294}
+{"sent": "baby", "ann_id": 583182, "best_split": [1, 5], "split_score": 0.13445845696082542}
+{"sent": "baby elephant", "ann_id": 583182, "best_split": [3, 3], "split_score": 0.4342585828279294}
+{"sent": "trunk up", "ann_id": 580374, "best_split": [3, 2], "split_score": 0.5892857142146132}
+{"sent": "taller elephant", "ann_id": 580374, "best_split": [3, 2], "split_score": 0.5892857142146132}
+{"sent": "elephant with sideways trunk", "ann_id": 580374, "best_split": [3, 2], "split_score": 0.5892857142146132}

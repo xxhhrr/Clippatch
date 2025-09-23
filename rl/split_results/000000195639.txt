@@ -1,0 +1,6 @@
+{"sent": "toilet non reflection", "ann_id": 1093343, "best_split": [3, 1], "split_score": 0.15819889235744047}
+{"sent": "toilet lid down", "ann_id": 1093343, "best_split": [3, 1], "split_score": 0.15819889235744047}
+{"sent": "before toilet", "ann_id": 1093343, "best_split": [3, 1], "split_score": 0.15819889235744047}
+{"sent": "toliet with seat up", "ann_id": 1093063, "best_split": [3, 3], "split_score": 0.4165607407996076}
+{"sent": "toilet with lid open", "ann_id": 1093063, "best_split": [3, 3], "split_score": 0.4165607407996076}
+{"sent": "toilet lid up", "ann_id": 1093063, "best_split": [3, 3], "split_score": 0.4165607407996076}

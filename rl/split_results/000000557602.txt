@@ -1,0 +1,6 @@
+{"sent": "zebra by the bigger tree", "ann_id": 592859, "best_split": [1, 2], "split_score": 0.40611682124391657}
+{"sent": "zebra away from hay", "ann_id": 592859, "best_split": [1, 2], "split_score": 0.40611682124391657}
+{"sent": "closer zebra", "ann_id": 592859, "best_split": [1, 2], "split_score": 0.40611682124391657}
+{"sent": "zebra mouth on hay", "ann_id": 589216, "best_split": [1, 2], "split_score": 0.38707748722946916}
+{"sent": "zebra closest to hay", "ann_id": 589216, "best_split": [3, 1], "split_score": 0.3048895507418769}
+{"sent": "zebra standing over hay", "ann_id": 589216, "best_split": [1, 2], "split_score": 0.38707748722946916}

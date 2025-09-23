@@ -1,0 +1,8 @@
+{"sent": "green apple touching yellow", "ann_id": 1550316, "best_split": [3, 3], "split_score": 0.5774287800260356}
+{"sent": "green one u cant see stem", "ann_id": 1550316, "best_split": [3, 3], "split_score": 0.5774287800260356}
+{"sent": "pear n", "ann_id": 1550316, "best_split": [1, 5], "split_score": 0.265111758963546}
+{"sent": "green largest fruit", "ann_id": 1549843, "best_split": [3, 3], "split_score": 0.5689066058415565}
+{"sent": "green apple", "ann_id": 1549843, "best_split": [3, 3], "split_score": 0.5689066058415565}
+{"sent": "red fruit not green", "ann_id": 1549709, "best_split": [2, 1], "split_score": 0.41675127999272504}
+{"sent": "red apples", "ann_id": 1549709, "best_split": [2, 1], "split_score": 0.41675127999272504}
+{"sent": "red apples", "ann_id": 1549709, "best_split": [2, 1], "split_score": 0.41675127999272504}

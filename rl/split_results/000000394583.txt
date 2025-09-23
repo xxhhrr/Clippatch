@@ -1,0 +1,6 @@
+{"sent": "person carrying big blue bag", "ann_id": 1229170, "best_split": [1, 5], "split_score": 0.4350649350207929}
+{"sent": "person on the bike with a blue bag", "ann_id": 1229170, "best_split": [3, 2], "split_score": 0.2319749216073692}
+{"sent": "woman with blue bag", "ann_id": 1229170, "best_split": [1, 5], "split_score": 0.4350649350207929}
+{"sent": "black man on bike looking at phone", "ann_id": 1702101, "best_split": [1, 5], "split_score": 0.5273404434969239}
+{"sent": "blk boy on bike", "ann_id": 1702101, "best_split": [1, 5], "split_score": 0.5273404434969239}
+{"sent": "man with cell on bike", "ann_id": 1702101, "best_split": [1, 5], "split_score": 0.5273404434969239}

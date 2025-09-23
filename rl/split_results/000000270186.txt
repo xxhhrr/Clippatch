@@ -1,0 +1,12 @@
+{"sent": "solid brown chair", "ann_id": 1587537, "best_split": [3, 3], "split_score": 0.6079510702434325}
+{"sent": "the more comfy chair has sheet on it", "ann_id": 1587537, "best_split": [3, 1], "split_score": 0.2253968253840478}
+{"sent": "sheet covered chair", "ann_id": 1587537, "best_split": [3, 1], "split_score": 0.2253968253840478}
+{"sent": "striped chair", "ann_id": 2224109, "best_split": [3, 3], "split_score": 0.4590727747339286}
+{"sent": "black clothing on couch", "ann_id": 2224109, "best_split": [3, 3], "split_score": 0.4590727747339286}
+{"sent": "chair with black thing on it", "ann_id": 2224109, "best_split": [3, 3], "split_score": 0.4590727747339286}
+{"sent": "chair covered with white sheet", "ann_id": 116169, "best_split": [3, 3], "split_score": 0.5911792304361622}
+{"sent": "brown seat chair", "ann_id": 116169, "best_split": [3, 3], "split_score": 0.5911792304361622}
+{"sent": "brown chair with white blanket on the back by wire rack", "ann_id": 116169, "best_split": [3, 2], "split_score": 0.41060178140228093}
+{"sent": "couch", "ann_id": 113188, "best_split": [2, 3], "split_score": 0.5898718349023232}
+{"sent": "couch", "ann_id": 113188, "best_split": [2, 3], "split_score": 0.5898718349023232}
+{"sent": "tan couch", "ann_id": 113188, "best_split": [2, 3], "split_score": 0.5898718349023232}

@@ -1,0 +1,6 @@
+{"sent": "train closes to taxi", "ann_id": 166613, "best_split": [3, 3], "split_score": 0.3277378096998021}
+{"sent": "train closer to the taxi", "ann_id": 166613, "best_split": [3, 3], "split_score": 0.3277378096998021}
+{"sent": "white bus longer", "ann_id": 166613, "best_split": [3, 3], "split_score": 0.3277378096998021}
+{"sent": "smallest bus", "ann_id": 163605, "best_split": [3, 2], "split_score": 0.29681467177885923}
+{"sent": "blue and white bus", "ann_id": 163605, "best_split": [3, 2], "split_score": 0.29681467177885923}
+{"sent": "bus under red window shades", "ann_id": 163605, "best_split": [3, 2], "split_score": 0.29681467177885923}

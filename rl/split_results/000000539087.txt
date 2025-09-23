@@ -1,0 +1,3 @@
+{"sent": "orange oranges", "ann_id": 1053295, "best_split": [5, 1], "split_score": 0.27062956981572217}
+{"sent": "the oranges", "ann_id": 1053295, "best_split": [5, 1], "split_score": 0.27062956981572217}
+{"sent": "basket of small orabes close to us", "ann_id": 1053295, "best_split": [3, 3], "split_score": 0.5760812466159899}

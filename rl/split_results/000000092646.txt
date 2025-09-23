@@ -1,0 +1,6 @@
+{"sent": "person partially obscured by the other person", "ann_id": 522134, "best_split": [2, 3], "split_score": 0.4614527214878829}
+{"sent": "smaller guy", "ann_id": 522134, "best_split": [2, 2], "split_score": 0.3026195751138655}
+{"sent": "partial man", "ann_id": 522134, "best_split": [2, 1], "split_score": 0.0633416132807118}
+{"sent": "man closest to us", "ann_id": 492354, "best_split": [1, 2], "split_score": 0.6248329323501459}
+{"sent": "person in white shirt that is closest", "ann_id": 492354, "best_split": [1, 2], "split_score": 0.6248329323501459}
+{"sent": "guy with gray shirt closest to you", "ann_id": 492354, "best_split": [1, 2], "split_score": 0.6248329323501459}

@@ -1,0 +1,6 @@
+{"sent": "bed mostly off screen", "ann_id": 319634, "best_split": [2, 2], "split_score": 0.4707866049352375}
+{"sent": "sleep away from the window", "ann_id": 319634, "best_split": [5, 1], "split_score": 0.2330007674418265}
+{"sent": "bed not fully shown", "ann_id": 319634, "best_split": [2, 2], "split_score": 0.4707866049352375}
+{"sent": "bed by window", "ann_id": 319502, "best_split": [1, 3], "split_score": 0.3301414580886757}
+{"sent": "full bed in pic", "ann_id": 319502, "best_split": [5, 1], "split_score": 0.31279620850764245}
+{"sent": "bed closest to the door", "ann_id": 319502, "best_split": [2, 3], "split_score": 0.5337889141482737}

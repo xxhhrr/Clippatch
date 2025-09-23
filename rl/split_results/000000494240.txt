@@ -1,0 +1,8 @@
+{"sent": "baby elephant behind birds", "ann_id": 1409697, "best_split": [3, 2], "split_score": 0.5936425097149042}
+{"sent": "baby", "ann_id": 1409697, "best_split": [1, 2], "split_score": 0.2020354615487781}
+{"sent": "elephant nearest to water", "ann_id": 1409697, "best_split": [1, 2], "split_score": 0.2020354615487781}
+{"sent": "ce n ter", "ann_id": 1409396, "best_split": [2, 1], "split_score": 0.1703781988310418}
+{"sent": "elephant close to baby elephant", "ann_id": 1409396, "best_split": [5, 1], "split_score": 0.21000153396149704}
+{"sent": "the big one checking you out", "ann_id": 1409193, "best_split": [3, 1], "split_score": 0.14360173412520816}
+{"sent": "tuskers looking at us", "ann_id": 1409193, "best_split": [2, 3], "split_score": 0.515414546491528}
+{"sent": "dad", "ann_id": 1409193, "best_split": [2, 1], "split_score": 0.20735987921466842}

@@ -1,0 +1,12 @@
+{"sent": "green shirted man", "ann_id": 540222, "best_split": [1, 5], "split_score": 0.7281690140204077}
+{"sent": "man in green", "ann_id": 540222, "best_split": [1, 5], "split_score": 0.7281690140204077}
+{"sent": "green shirt", "ann_id": 540222, "best_split": [1, 5], "split_score": 0.7281690140204077}
+{"sent": "black shirt", "ann_id": 534508, "best_split": [3, 2], "split_score": 0.20262869658874755}
+{"sent": "man in black t", "ann_id": 534508, "best_split": [1, 3], "split_score": 0.4273648648390827}
+{"sent": "black shirt", "ann_id": 534508, "best_split": [3, 2], "split_score": 0.20262869658874755}
+{"sent": "gray shirt", "ann_id": 532878, "best_split": [1, 3], "split_score": 0.25642370213774973}
+{"sent": "gray shirt", "ann_id": 532878, "best_split": [1, 3], "split_score": 0.25642370213774973}
+{"sent": "gray shirt", "ann_id": 532878, "best_split": [1, 3], "split_score": 0.25642370213774973}
+{"sent": "white guy with red shirt", "ann_id": 450052, "best_split": [1, 5], "split_score": 0.8258258257483271}
+{"sent": "red shirt", "ann_id": 450052, "best_split": [1, 5], "split_score": 0.8258258257483271}
+{"sent": "pink shirt", "ann_id": 450052, "best_split": [1, 5], "split_score": 0.8258258257483271}

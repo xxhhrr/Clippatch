@@ -1,0 +1,5 @@
+{"sent": "couch close to the window", "ann_id": 1605150, "best_split": [3, 3], "split_score": 0.867738154885696}
+{"sent": "couch that is facing the book shelfs", "ann_id": 1605150, "best_split": [2, 1], "split_score": 0.22640306121546544}
+{"sent": "black couch", "ann_id": 97804, "best_split": [5, 1], "split_score": 0.2863055605284951}
+{"sent": "black chair with bag and other things on it", "ann_id": 97804, "best_split": [5, 1], "split_score": 0.2863055605284951}
+{"sent": "hi the black couch the person or blanket is lying on", "ann_id": 97804, "best_split": [5, 1], "split_score": 0.2863055605284951}

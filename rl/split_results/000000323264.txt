@@ -1,0 +1,9 @@
+{"sent": "girl", "ann_id": 1709218, "best_split": [3, 3], "split_score": 0.6228245362877568}
+{"sent": "girl", "ann_id": 1709218, "best_split": [3, 3], "split_score": 0.6228245362877568}
+{"sent": "woman", "ann_id": 1709218, "best_split": [1, 5], "split_score": 0.3874603733367858}
+{"sent": "red", "ann_id": 251857, "best_split": [2, 3], "split_score": 0.512307692258432}
+{"sent": "the person in red shirt and blue pants", "ann_id": 251857, "best_split": [2, 3], "split_score": 0.512307692258432}
+{"sent": "a man in a red coat", "ann_id": 251857, "best_split": [2, 3], "split_score": 0.512307692258432}
+{"sent": "bigger guy", "ann_id": 220174, "best_split": [2, 1], "split_score": 0.2580064397653289}
+{"sent": "black sweater man", "ann_id": 220174, "best_split": [1, 2], "split_score": 0.44830197702294716}
+{"sent": "guy in dark sweatshirt", "ann_id": 220174, "best_split": [1, 2], "split_score": 0.44830197702294716}

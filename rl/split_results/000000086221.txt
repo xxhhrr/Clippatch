@@ -1,0 +1,9 @@
+{"sent": "lady in black shirt", "ann_id": 449055, "best_split": [1, 2], "split_score": 0.6058673469146258}
+{"sent": "lady in black shirt ears pierced", "ann_id": 449055, "best_split": [1, 5], "split_score": 0.5413385826438645}
+{"sent": "woman in tshirt", "ann_id": 449055, "best_split": [1, 3], "split_score": 0.8718190385914338}
+{"sent": "lady with phone at ear", "ann_id": 428345, "best_split": [1, 2], "split_score": 0.5903398926466158}
+{"sent": "woman on phone", "ann_id": 428345, "best_split": [1, 2], "split_score": 0.5903398926466158}
+{"sent": "man on phone", "ann_id": 428345, "best_split": [1, 2], "split_score": 0.5903398926466158}
+{"sent": "lady in brown looking at nails", "ann_id": 425728, "best_split": [1, 2], "split_score": 0.4538026147778299}
+{"sent": "farthest woman", "ann_id": 425728, "best_split": [1, 2], "split_score": 0.4538026147778299}
+{"sent": "lady blowing on nails", "ann_id": 425728, "best_split": [1, 2], "split_score": 0.4538026147778299}

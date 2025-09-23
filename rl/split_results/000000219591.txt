@@ -1,0 +1,5 @@
+{"sent": "chair both arms visible but not much else", "ann_id": 386796, "best_split": [2, 2], "split_score": 0.7278380101460589}
+{"sent": "chair closest to corner", "ann_id": 386796, "best_split": [3, 2], "split_score": 0.8338597598616698}
+{"sent": "chair with bag in it", "ann_id": 375130, "best_split": [1, 2], "split_score": 0.7033641581352295}
+{"sent": "main chair", "ann_id": 375130, "best_split": [1, 2], "split_score": 0.7033641581352295}
+{"sent": "chair with some object sitting on it", "ann_id": 375130, "best_split": [1, 2], "split_score": 0.7033641581352295}

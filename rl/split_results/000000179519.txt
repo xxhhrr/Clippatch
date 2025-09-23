@@ -1,0 +1,8 @@
+{"sent": "balls in container", "ann_id": 1155127, "best_split": [3, 3], "split_score": 0.34477720957911295}
+{"sent": "balls in cup", "ann_id": 1155127, "best_split": [3, 3], "split_score": 0.34477720957911295}
+{"sent": "marblea", "ann_id": 1155127, "best_split": [3, 3], "split_score": 0.34477720957911295}
+{"sent": "ornate decanter not the vase", "ann_id": 1154858, "best_split": [1, 5], "split_score": 0.40160642566615495}
+{"sent": "vase with fern prints", "ann_id": 1154858, "best_split": [1, 5], "split_score": 0.40160642566615495}
+{"sent": "tallest vase", "ann_id": 1154858, "best_split": [1, 5], "split_score": 0.40160642566615495}
+{"sent": "vase", "ann_id": 1154104, "best_split": [2, 3], "split_score": 0.14666920802947972}
+{"sent": "one without a lid but not full of marbles", "ann_id": 1154104, "best_split": [2, 2], "split_score": 0.24061238477868746}

@@ -1,0 +1,6 @@
+{"sent": "man hugging a football player", "ann_id": 1227487, "best_split": [1, 3], "split_score": 0.5566602146508596}
+{"sent": "hugger", "ann_id": 1227487, "best_split": [1, 3], "split_score": 0.5566602146508596}
+{"sent": "guy doing the hugging", "ann_id": 1227487, "best_split": [1, 3], "split_score": 0.5566602146508596}
+{"sent": "helmet", "ann_id": 505472, "best_split": [1, 2], "split_score": 0.6733099489527539}
+{"sent": "guy in uniform", "ann_id": 505472, "best_split": [2, 2], "split_score": 0.43032069968754516}
+{"sent": "tall", "ann_id": 505472, "best_split": [1, 3], "split_score": 0.2745829842229194}

@@ -1,0 +1,6 @@
+{"sent": "inside of car door nearest you", "ann_id": 1779443, "best_split": [3, 1], "split_score": 0.797712252120096}
+{"sent": "the black block that is obstructing our view", "ann_id": 1779443, "best_split": [1, 2], "split_score": 0.27397061384883065}
+{"sent": "dark area closest to us", "ann_id": 1779443, "best_split": [3, 1], "split_score": 0.797712252120096}
+{"sent": "blue car", "ann_id": 134026, "best_split": [2, 3], "split_score": 0.37499999995475386}
+{"sent": "blue station wagon", "ann_id": 134026, "best_split": [3, 3], "split_score": 0.2473118279210532}
+{"sent": "blue small car", "ann_id": 134026, "best_split": [3, 3], "split_score": 0.2473118279210532}

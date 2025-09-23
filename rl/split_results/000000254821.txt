@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 1100004, "best_split": [3, 2], "split_score": 0.4840728099769573}
+{"sent": "red laptop", "ann_id": 1100004, "best_split": [3, 2], "split_score": 0.4840728099769573}
+{"sent": "red", "ann_id": 1100004, "best_split": [3, 2], "split_score": 0.4840728099769573}
+{"sent": "black laptop", "ann_id": 1098063, "best_split": [3, 2], "split_score": 0.4896654274728873}
+{"sent": "black laptop", "ann_id": 1098063, "best_split": [3, 2], "split_score": 0.4896654274728873}
+{"sent": "black computer", "ann_id": 1098063, "best_split": [3, 2], "split_score": 0.4896654274728873}

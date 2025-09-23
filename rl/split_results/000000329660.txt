@@ -1,0 +1,6 @@
+{"sent": "standing skier", "ann_id": 526615, "best_split": [1, 2], "split_score": 0.15146683672865646}
+{"sent": "standing on skis", "ann_id": 526615, "best_split": [5, 1], "split_score": 0.14794889037088527}
+{"sent": "not the guy fallen down", "ann_id": 526615, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "person sitting down", "ann_id": 495135, "best_split": [2, 3], "split_score": 0.41122123295722984}
+{"sent": "fallen down person", "ann_id": 495135, "best_split": [2, 2], "split_score": 0.3087632069416555}
+{"sent": "person on ground", "ann_id": 495135, "best_split": [2, 3], "split_score": 0.41122123295722984}

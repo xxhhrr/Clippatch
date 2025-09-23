@@ -1,0 +1,6 @@
+{"sent": "bus close to green banner", "ann_id": 366321, "best_split": [3, 2], "split_score": 0.31197241703578976}
+{"sent": "bus behind the main bus seen", "ann_id": 366321, "best_split": [3, 2], "split_score": 0.31197241703578976}
+{"sent": "bus in back", "ann_id": 366321, "best_split": [3, 2], "split_score": 0.31197241703578976}
+{"sent": "leading bus", "ann_id": 366311, "best_split": [3, 3], "split_score": 0.574207650210469}
+{"sent": "number 1", "ann_id": 366311, "best_split": [3, 2], "split_score": 0.33209532649859985}
+{"sent": "bus most visible", "ann_id": 366311, "best_split": [3, 3], "split_score": 0.574207650210469}

@@ -1,0 +1,6 @@
+{"sent": "dark sofa", "ann_id": 117426, "best_split": [1, 2], "split_score": 0.24220074934954838}
+{"sent": "sofa in background", "ann_id": 117426, "best_split": [1, 2], "split_score": 0.24220074934954838}
+{"sent": "dark gray sofa by the phone on the floor", "ann_id": 117426, "best_split": [2, 2], "split_score": 0.4793536803934623}
+{"sent": "foreground couch armrest", "ann_id": 116569, "best_split": [2, 1], "split_score": 0.706263498892847}
+{"sent": "gray couch in the foreground", "ann_id": 116569, "best_split": [2, 1], "split_score": 0.706263498892847}
+{"sent": "couch person is on", "ann_id": 116569, "best_split": [2, 1], "split_score": 0.706263498892847}

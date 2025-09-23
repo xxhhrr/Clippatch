@@ -1,0 +1,6 @@
+{"sent": "smallest dark dog", "ann_id": 15805, "best_split": [2, 3], "split_score": 0.21876602288337327}
+{"sent": "dog closer to cat", "ann_id": 15805, "best_split": [1, 5], "split_score": 0.37604311540542046}
+{"sent": "pug next to cat", "ann_id": 15805, "best_split": [1, 5], "split_score": 0.37604311540542046}
+{"sent": "black pug", "ann_id": 7221, "best_split": [1, 5], "split_score": 0.45643153523588975}
+{"sent": "black dog looking at us", "ann_id": 7221, "best_split": [1, 5], "split_score": 0.45643153523588975}
+{"sent": "big black d", "ann_id": 7221, "best_split": [1, 5], "split_score": 0.45643153523588975}

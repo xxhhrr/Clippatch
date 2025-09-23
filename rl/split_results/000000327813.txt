@@ -1,0 +1,6 @@
+{"sent": "black chair with back facing us", "ann_id": 2223975, "best_split": [3, 3], "split_score": 0.5317750181643945}
+{"sent": "black chair back", "ann_id": 2223975, "best_split": [3, 3], "split_score": 0.5317750181643945}
+{"sent": "small chair", "ann_id": 2223975, "best_split": [3, 3], "split_score": 0.5317750181643945}
+{"sent": "black couch", "ann_id": 112092, "best_split": [2, 3], "split_score": 0.3398223397902266}
+{"sent": "couch", "ann_id": 112092, "best_split": [2, 3], "split_score": 0.3398223397902266}
+{"sent": "couch", "ann_id": 112092, "best_split": [2, 3], "split_score": 0.3398223397902266}

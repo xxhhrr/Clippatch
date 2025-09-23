@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 200852, "best_split": [1, 3], "split_score": 0.482630522064125}
+{"sent": "person with light gray shirt", "ann_id": 200852, "best_split": [1, 3], "split_score": 0.482630522064125}
+{"sent": "gray shirt", "ann_id": 200852, "best_split": [1, 3], "split_score": 0.482630522064125}
+{"sent": "man in brown shirt with arm up", "ann_id": 198864, "best_split": [1, 5], "split_score": 0.657956870717932}
+{"sent": "brown shirt", "ann_id": 198864, "best_split": [1, 5], "split_score": 0.657956870717932}
+{"sent": "the one in dark", "ann_id": 198864, "best_split": [1, 2], "split_score": 0.44682716834953656}

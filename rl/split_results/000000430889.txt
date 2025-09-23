@@ -1,0 +1,6 @@
+{"sent": "desktop faster", "ann_id": 1627413, "best_split": [3, 1], "split_score": 0.3654144074184056}
+{"sent": "black laptop", "ann_id": 1627413, "best_split": [1, 2], "split_score": 0.46348852038968874}
+{"sent": "big laptop", "ann_id": 1627413, "best_split": [3, 2], "split_score": 0.6102846053840326}
+{"sent": "small monitor", "ann_id": 1101589, "best_split": [3, 2], "split_score": 0.3458998934668903}
+{"sent": "blank screen", "ann_id": 1101589, "best_split": [5, 1], "split_score": 0.19518761566589368}
+{"sent": "smaller screen", "ann_id": 1101589, "best_split": [5, 1], "split_score": 0.19518761566589368}

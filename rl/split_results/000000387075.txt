@@ -1,0 +1,12 @@
+{"sent": "second person", "ann_id": 1712351, "best_split": [1, 3], "split_score": 0.3413539738436618}
+{"sent": "blue sweater", "ann_id": 1712351, "best_split": [1, 2], "split_score": 0.29253029335568675}
+{"sent": "the girl in the blue shirt", "ann_id": 1712351, "best_split": [1, 3], "split_score": 0.3413539738436618}
+{"sent": "bald man with glasses", "ann_id": 528365, "best_split": [1, 3], "split_score": 0.7320290173262239}
+{"sent": "glasses", "ann_id": 528365, "best_split": [1, 3], "split_score": 0.7320290173262239}
+{"sent": "the man with dark gray sports jacket", "ann_id": 528365, "best_split": [3, 1], "split_score": 0.24205880033727206}
+{"sent": "woman in gray shirt", "ann_id": 489650, "best_split": [1, 3], "split_score": 0.49336389958413585}
+{"sent": "woman ingrey shirt", "ann_id": 489650, "best_split": [1, 3], "split_score": 0.49336389958413585}
+{"sent": "gray blouse", "ann_id": 489650, "best_split": [1, 3], "split_score": 0.49336389958413585}
+{"sent": "man with martini", "ann_id": 448240, "best_split": [1, 3], "split_score": 0.7245409014593047}
+{"sent": "guy smileing with others", "ann_id": 448240, "best_split": [3, 1], "split_score": 0.1921523369799624}
+{"sent": "brown coat man", "ann_id": 448240, "best_split": [1, 3], "split_score": 0.7245409014593047}

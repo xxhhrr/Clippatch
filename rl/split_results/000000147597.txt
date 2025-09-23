@@ -1,0 +1,6 @@
+{"sent": "with blue jacket", "ann_id": 556284, "best_split": [1, 5], "split_score": 0.586046511579232}
+{"sent": "blue", "ann_id": 556284, "best_split": [1, 5], "split_score": 0.586046511579232}
+{"sent": "blue jacket", "ann_id": 556284, "best_split": [1, 5], "split_score": 0.586046511579232}
+{"sent": "red suit", "ann_id": 441546, "best_split": [2, 3], "split_score": 0.38299859874983666}
+{"sent": "red suit guy", "ann_id": 441546, "best_split": [2, 3], "split_score": 0.38299859874983666}
+{"sent": "red skier", "ann_id": 441546, "best_split": [2, 3], "split_score": 0.38299859874983666}

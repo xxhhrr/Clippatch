@@ -1,0 +1,8 @@
+{"sent": "plate with cjicken", "ann_id": 1537874, "best_split": [2, 2], "split_score": 0.7398253861155255}
+{"sent": "chicken", "ann_id": 1537874, "best_split": [2, 2], "split_score": 0.7398253861155255}
+{"sent": "chicken", "ann_id": 1537874, "best_split": [2, 2], "split_score": 0.7398253861155255}
+{"sent": "bowl of white stuff with utensil in it", "ann_id": 717260, "best_split": [2, 3], "split_score": 0.4310474754622621}
+{"sent": "white dish with white food and a spoon in it", "ann_id": 717260, "best_split": [1, 5], "split_score": 0.28666666664184703}
+{"sent": "bowl on plate behind other bowl on plate", "ann_id": 716022, "best_split": [2, 3], "split_score": 0.21716344576731483}
+{"sent": "light yellow butter clump", "ann_id": 716022, "best_split": [3, 3], "split_score": 0.4535309502260626}
+{"sent": "bowl next to bowl with spoon in it", "ann_id": 716022, "best_split": [2, 1], "split_score": 0.0831298686167062}

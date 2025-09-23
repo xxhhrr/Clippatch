@@ -1,0 +1,8 @@
+{"sent": "man black cap", "ann_id": 535544, "best_split": [1, 2], "split_score": 0.6862834897874879}
+{"sent": "male", "ann_id": 535544, "best_split": [1, 3], "split_score": 0.39949920326495075}
+{"sent": "black hat", "ann_id": 535544, "best_split": [1, 2], "split_score": 0.6862834897874879}
+{"sent": "persons back in white", "ann_id": 530817, "best_split": [2, 3], "split_score": 0.8699324323274695}
+{"sent": "white shirt", "ann_id": 530817, "best_split": [2, 3], "split_score": 0.8699324323274695}
+{"sent": "all white back to us person", "ann_id": 530817, "best_split": [2, 3], "split_score": 0.8699324323274695}
+{"sent": "girl", "ann_id": 504177, "best_split": [1, 3], "split_score": 0.5021303455695861}
+{"sent": "woman looking at phone", "ann_id": 504177, "best_split": [1, 2], "split_score": 0.4893861892426667}

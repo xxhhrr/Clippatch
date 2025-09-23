@@ -1,0 +1,5 @@
+{"sent": "brown trimmed suitcase corner here4u", "ann_id": 1187351, "best_split": [3, 3], "split_score": 0.5871808798502297}
+{"sent": "luggage in corner with white tag", "ann_id": 1187351, "best_split": [3, 3], "split_score": 0.5871808798502297}
+{"sent": "brown part of bag", "ann_id": 1187351, "best_split": [3, 3], "split_score": 0.5871808798502297}
+{"sent": "not the nearest bag but next", "ann_id": 1185797, "best_split": [3, 2], "split_score": 0.5376729371416669}
+{"sent": "bag next to closest bag with tag", "ann_id": 1185797, "best_split": [3, 2], "split_score": 0.5376729371416669}

@@ -1,0 +1,17 @@
+{"sent": "chair light blue", "ann_id": 114587, "best_split": [3, 2], "split_score": 0.34406047512483146}
+{"sent": "chair by window", "ann_id": 114587, "best_split": [3, 2], "split_score": 0.34406047512483146}
+{"sent": "gray la z boy chair", "ann_id": 114587, "best_split": [3, 2], "split_score": 0.34406047512483146}
+{"sent": "closest chair", "ann_id": 107976, "best_split": [3, 1], "split_score": 0.18198529410928377}
+{"sent": "white chair closest to camera", "ann_id": 107976, "best_split": [3, 1], "split_score": 0.18198529410928377}
+{"sent": "closest light chair", "ann_id": 107976, "best_split": [3, 1], "split_score": 0.18198529410928377}
+{"sent": "striped couch next to wall", "ann_id": 106440, "best_split": [1, 5], "split_score": 0.26347305386756426}
+{"sent": "white striped chair next to tv", "ann_id": 106440, "best_split": [1, 5], "split_score": 0.26347305386756426}
+{"sent": "white chair at2 o clock", "ann_id": 106440, "best_split": [5, 1], "split_score": 0.22808293922989423}
+{"sent": "the chair by the window", "ann_id": 104262, "best_split": [3, 2], "split_score": 0.34021290459046133}
+{"sent": "gray chair", "ann_id": 104262, "best_split": [3, 2], "split_score": 0.34021290459046133}
+{"sent": "striped chair closest", "ann_id": 2225075, "best_split": [2, 3], "split_score": 0.7853338794771267}
+{"sent": "chair closest to us", "ann_id": 2225075, "best_split": [3, 1], "split_score": 0.18198529410928377}
+{"sent": "chair stripes", "ann_id": 2225075, "best_split": [2, 3], "split_score": 0.7853338794771267}
+{"sent": "dark blue chair", "ann_id": 103550, "best_split": [3, 3], "split_score": 0.5388843088020219}
+{"sent": "dark blue chair", "ann_id": 103550, "best_split": [3, 3], "split_score": 0.5388843088020219}
+{"sent": "blue chair with holes", "ann_id": 103550, "best_split": [3, 3], "split_score": 0.5388843088020219}

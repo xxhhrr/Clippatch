@@ -1,0 +1,9 @@
+{"sent": "the white dog with dark on its face", "ann_id": 17481, "best_split": [2, 3], "split_score": 0.3903815759324473}
+{"sent": "dog with dark patches", "ann_id": 17481, "best_split": [2, 3], "split_score": 0.3903815759324473}
+{"sent": "dog with brown on face", "ann_id": 17481, "best_split": [2, 3], "split_score": 0.3903815759324473}
+{"sent": "golden lab", "ann_id": 14801, "best_split": [1, 5], "split_score": 0.37634815512049685}
+{"sent": "yellow dog", "ann_id": 14801, "best_split": [1, 5], "split_score": 0.37634815512049685}
+{"sent": "caramel dog", "ann_id": 14801, "best_split": [1, 5], "split_score": 0.37634815512049685}
+{"sent": "black dog", "ann_id": 1825, "best_split": [3, 1], "split_score": 0.2312168762220089}
+{"sent": "black dog looking on", "ann_id": 1825, "best_split": [3, 1], "split_score": 0.2312168762220089}
+{"sent": "black dog", "ann_id": 1825, "best_split": [3, 1], "split_score": 0.2312168762220089}

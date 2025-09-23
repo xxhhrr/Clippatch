@@ -1,0 +1,9 @@
+{"sent": "large elephant no tusk", "ann_id": 584941, "best_split": [2, 1], "split_score": 0.3256185155533685}
+{"sent": "big elephant without tusks showing", "ann_id": 584941, "best_split": [2, 1], "split_score": 0.3256185155533685}
+{"sent": "trunk 3pm", "ann_id": 584941, "best_split": [2, 1], "split_score": 0.3256185155533685}
+{"sent": "baby", "ann_id": 584504, "best_split": [1, 5], "split_score": 0.6107072041723437}
+{"sent": "baby", "ann_id": 584504, "best_split": [1, 5], "split_score": 0.6107072041723437}
+{"sent": "small elephant", "ann_id": 584504, "best_split": [1, 5], "split_score": 0.6107072041723437}
+{"sent": "the grown elephant with smaller trunk", "ann_id": 584473, "best_split": [1, 2], "split_score": 0.7384805484399521}
+{"sent": "elephant with tusks", "ann_id": 584473, "best_split": [1, 2], "split_score": 0.7384805484399521}
+{"sent": "the elephant whose tusk is visible", "ann_id": 584473, "best_split": [1, 2], "split_score": 0.7384805484399521}

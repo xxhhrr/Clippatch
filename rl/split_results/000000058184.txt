@@ -1,0 +1,6 @@
+{"sent": "the sandwich touching cup handle", "ann_id": 308934, "best_split": [3, 2], "split_score": 0.36100386096030357}
+{"sent": "bread near metal ketchup cup", "ann_id": 308934, "best_split": [3, 2], "split_score": 0.36100386096030357}
+{"sent": "sandwhich furthest from us", "ann_id": 308934, "best_split": [5, 1], "split_score": 0.23538461536198224}
+{"sent": "biscuit with gravy", "ann_id": 308291, "best_split": [3, 2], "split_score": 0.4279210925239073}
+{"sent": "sandwich by fork", "ann_id": 308291, "best_split": [1, 2], "split_score": 0.26977040815251235}
+{"sent": "sandwich in syrup", "ann_id": 308291, "best_split": [3, 2], "split_score": 0.4279210925239073}

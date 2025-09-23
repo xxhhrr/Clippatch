@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 431634, "best_split": [3, 3], "split_score": 0.5270758122149057}
+{"sent": "woman standing", "ann_id": 431634, "best_split": [3, 3], "split_score": 0.5270758122149057}
+{"sent": "white shorst", "ann_id": 431634, "best_split": [3, 3], "split_score": 0.5270758122149057}
+{"sent": "chair behind man", "ann_id": 112177, "best_split": [2, 3], "split_score": 0.26858108104867506}
+{"sent": "couch behind the man", "ann_id": 112177, "best_split": [3, 3], "split_score": 0.3156815851869351}
+{"sent": "couch behind man", "ann_id": 112177, "best_split": [3, 3], "split_score": 0.3156815851869351}

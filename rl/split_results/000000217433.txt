@@ -1,0 +1,5 @@
+{"sent": "chair by thing with square hole in the it", "ann_id": 1592702, "best_split": [3, 3], "split_score": 0.3452872949812975}
+{"sent": "chair you see all of it", "ann_id": 1592702, "best_split": [3, 1], "split_score": 0.27342106842897534}
+{"sent": "closest chair full visible", "ann_id": 1592702, "best_split": [3, 1], "split_score": 0.27342106842897534}
+{"sent": "chair secnd row third down", "ann_id": 1585130, "best_split": [3, 2], "split_score": 0.38466898950236134}
+{"sent": "chair 2 up on righty", "ann_id": 1585130, "best_split": [3, 2], "split_score": 0.38466898950236134}

@@ -1,0 +1,6 @@
+{"sent": "bull with all legs visible", "ann_id": 2177168, "best_split": [3, 2], "split_score": 0.47338493125308917}
+{"sent": "fully visible xcow", "ann_id": 2177168, "best_split": [3, 2], "split_score": 0.47338493125308917}
+{"sent": "cow that is partially blocking another cow", "ann_id": 2177168, "best_split": [3, 2], "split_score": 0.47338493125308917}
+{"sent": "cow behind the wildflowers", "ann_id": 71786, "best_split": [3, 3], "split_score": 0.5637788419064237}
+{"sent": "cow behind plant", "ann_id": 71786, "best_split": [3, 3], "split_score": 0.5637788419064237}
+{"sent": "away from others", "ann_id": 71786, "best_split": [3, 2], "split_score": 0.48667358943521344}

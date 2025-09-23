@@ -1,0 +1,9 @@
+{"sent": "white girl white shirt", "ann_id": 516148, "best_split": [2, 3], "split_score": 0.14801407741095887}
+{"sent": "white shirt kid next to red shirt guy", "ann_id": 516148, "best_split": [3, 2], "split_score": 0.1102791014188195}
+{"sent": "part of the white shirt person", "ann_id": 516148, "best_split": [5, 1], "split_score": 0.07661056296520931}
+{"sent": "child wearing black pants", "ann_id": 467682, "best_split": [3, 2], "split_score": 0.24014160682071573}
+{"sent": "black kid in the rear in white shirt", "ann_id": 467682, "best_split": [1, 5], "split_score": 0.438616071384069}
+{"sent": "girl in white and black long pants", "ann_id": 467682, "best_split": [3, 3], "split_score": 0.33192877527090814}
+{"sent": "girl with soccer ball", "ann_id": 454776, "best_split": [1, 2], "split_score": 0.394610969372026}
+{"sent": "player kicking ball", "ann_id": 454776, "best_split": [1, 2], "split_score": 0.394610969372026}
+{"sent": "player with the ball", "ann_id": 454776, "best_split": [1, 2], "split_score": 0.394610969372026}

@@ -1,0 +1,6 @@
+{"sent": "person falling over", "ann_id": 512057, "best_split": [3, 3], "split_score": 0.5192855293140971}
+{"sent": "person jumping for frisbee", "ann_id": 512057, "best_split": [3, 3], "split_score": 0.5192855293140971}
+{"sent": "diving for it", "ann_id": 512057, "best_split": [3, 3], "split_score": 0.5192855293140971}
+{"sent": "man in red shirt", "ann_id": 497228, "best_split": [1, 5], "split_score": 0.5494639375883611}
+{"sent": "man with orange shirt", "ann_id": 497228, "best_split": [1, 5], "split_score": 0.5494639375883611}
+{"sent": "man running", "ann_id": 497228, "best_split": [1, 5], "split_score": 0.5494639375883611}

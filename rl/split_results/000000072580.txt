@@ -1,0 +1,6 @@
+{"sent": "bus not fully seen", "ann_id": 1364964, "best_split": [1, 2], "split_score": 0.2302209819658262}
+{"sent": "bus with only roof showing", "ann_id": 1364964, "best_split": [1, 2], "split_score": 0.2302209819658262}
+{"sent": "bus closer to viewer", "ann_id": 1364964, "best_split": [1, 2], "split_score": 0.2302209819658262}
+{"sent": "bus", "ann_id": 164501, "best_split": [3, 1], "split_score": 0.5091904575390139}
+{"sent": "transjakarta", "ann_id": 164501, "best_split": [3, 1], "split_score": 0.5091904575390139}
+{"sent": "orange bus", "ann_id": 164501, "best_split": [3, 1], "split_score": 0.5091904575390139}

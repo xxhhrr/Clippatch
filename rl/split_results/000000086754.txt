@@ -1,0 +1,9 @@
+{"sent": "pink shoelaces", "ann_id": 1242315, "best_split": [3, 3], "split_score": 0.26118153548658435}
+{"sent": "pink laces", "ann_id": 1242315, "best_split": [3, 3], "split_score": 0.26118153548658435}
+{"sent": "black pants", "ann_id": 1242315, "best_split": [5, 1], "split_score": 0.12990158969493554}
+{"sent": "blue jean clad legs", "ann_id": 198611, "best_split": [1, 5], "split_score": 0.5306465154886106}
+{"sent": "brown boots", "ann_id": 198611, "best_split": [1, 5], "split_score": 0.5306465154886106}
+{"sent": "blue jeans", "ann_id": 198611, "best_split": [1, 5], "split_score": 0.5306465154886106}
+{"sent": "bare legs", "ann_id": 184594, "best_split": [2, 3], "split_score": 0.5949367087935198}
+{"sent": "green shorts", "ann_id": 184594, "best_split": [2, 3], "split_score": 0.5949367087935198}
+{"sent": "legs green shorts", "ann_id": 184594, "best_split": [2, 3], "split_score": 0.5949367087935198}

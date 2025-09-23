@@ -1,0 +1,6 @@
+{"sent": "dog in foreground", "ann_id": 17313, "best_split": [1, 2], "split_score": 0.7229129662254694}
+{"sent": "the dog with lowered ears", "ann_id": 17313, "best_split": [1, 2], "split_score": 0.7229129662254694}
+{"sent": "driver dog", "ann_id": 17313, "best_split": [1, 2], "split_score": 0.7229129662254694}
+{"sent": "passenger dog", "ann_id": 14091, "best_split": [3, 1], "split_score": 0.3087309413521683}
+{"sent": "dog on passenger side", "ann_id": 14091, "best_split": [3, 1], "split_score": 0.3087309413521683}
+{"sent": "passenger", "ann_id": 14091, "best_split": [1, 2], "split_score": 0.39700581299655746}

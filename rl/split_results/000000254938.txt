@@ -1,0 +1,15 @@
+{"sent": "number one in a group of three", "ann_id": 1070578, "best_split": [1, 5], "split_score": 0.12931034481621126}
+{"sent": "closest hot dog in a plate sandwich", "ann_id": 1070578, "best_split": [2, 3], "split_score": 0.22900763356281267}
+{"sent": "nearest hotdog thats covered", "ann_id": 1070578, "best_split": [2, 3], "split_score": 0.22900763356281267}
+{"sent": "vertical weenie next to three horizontals", "ann_id": 1070404, "best_split": [2, 1], "split_score": 0.31400929952324846}
+{"sent": "hot dog facing a different direction", "ann_id": 1070404, "best_split": [5, 1], "split_score": 0.21280764049144069}
+{"sent": "upper level edge lengthwise", "ann_id": 1070404, "best_split": [2, 1], "split_score": 0.31400929952324846}
+{"sent": "hot dog in back", "ann_id": 1070363, "best_split": [2, 1], "split_score": 0.2531090561123601}
+{"sent": "far away one", "ann_id": 1070363, "best_split": [2, 1], "split_score": 0.2531090561123601}
+{"sent": "dog at 11 pm", "ann_id": 1070363, "best_split": [1, 2], "split_score": 0.18912171873102648}
+{"sent": "between dog upper", "ann_id": 1070310, "best_split": [3, 2], "split_score": 0.2682206433888225}
+{"sent": "not the closest dog but the next", "ann_id": 1070310, "best_split": [3, 2], "split_score": 0.2682206433888225}
+{"sent": "highest level in between dog", "ann_id": 1070310, "best_split": [3, 2], "split_score": 0.2682206433888225}
+{"sent": "hot dog closest to us", "ann_id": 1069823, "best_split": [3, 1], "split_score": 0.48853674980789247}
+{"sent": "hot dog closest to us", "ann_id": 1069823, "best_split": [3, 1], "split_score": 0.48853674980789247}
+{"sent": "nearest dog", "ann_id": 1069823, "best_split": [3, 1], "split_score": 0.48853674980789247}

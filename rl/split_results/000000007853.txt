@@ -1,0 +1,5 @@
+{"sent": "brown horse head turned", "ann_id": 274823, "best_split": [3, 2], "split_score": 0.4493827160193939}
+{"sent": "horse beneath thinner cop with green coat", "ann_id": 274823, "best_split": [3, 2], "split_score": 0.4493827160193939}
+{"sent": "horse looking at camera", "ann_id": 55558, "best_split": [1, 3], "split_score": 0.5235059760695465}
+{"sent": "horse looking this way", "ann_id": 55558, "best_split": [1, 3], "split_score": 0.5235059760695465}
+{"sent": "horse with green cloth draped over it", "ann_id": 55558, "best_split": [1, 3], "split_score": 0.5235059760695465}

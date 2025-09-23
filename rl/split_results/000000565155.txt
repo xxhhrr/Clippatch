@@ -1,0 +1,7 @@
+{"sent": "the suitcase closest to her face", "ann_id": 1443958, "best_split": [3, 3], "split_score": 0.23625843776880306}
+{"sent": "case closet to her head", "ann_id": 1443958, "best_split": [3, 2], "split_score": 0.28262052450945474}
+{"sent": "red thing", "ann_id": 1187268, "best_split": [3, 3], "split_score": 0.742469174224681}
+{"sent": "plaid case", "ann_id": 1187268, "best_split": [3, 3], "split_score": 0.742469174224681}
+{"sent": "plaid", "ann_id": 1187268, "best_split": [3, 3], "split_score": 0.742469174224681}
+{"sent": "suitcase under plaid", "ann_id": 1185593, "best_split": [2, 3], "split_score": 0.3093638877608293}
+{"sent": "bag under plaid bag", "ann_id": 1185593, "best_split": [2, 3], "split_score": 0.3093638877608293}

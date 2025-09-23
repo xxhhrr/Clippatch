@@ -1,0 +1,6 @@
+{"sent": "milk", "ann_id": 88854, "best_split": [1, 5], "split_score": 0.572207084412981}
+{"sent": "milk bottle", "ann_id": 88854, "best_split": [1, 5], "split_score": 0.572207084412981}
+{"sent": "bottle of milk", "ann_id": 88854, "best_split": [1, 5], "split_score": 0.572207084412981}
+{"sent": "gtorade bottle", "ann_id": 80621, "best_split": [1, 3], "split_score": 0.37052154192910874}
+{"sent": "juice", "ann_id": 80621, "best_split": [1, 3], "split_score": 0.37052154192910874}
+{"sent": "empty juive", "ann_id": 80621, "best_split": [1, 3], "split_score": 0.37052154192910874}

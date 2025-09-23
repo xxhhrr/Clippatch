@@ -1,0 +1,6 @@
+{"sent": "partial woman", "ann_id": 491477, "best_split": [2, 2], "split_score": 0.3443877550745864}
+{"sent": "person drinking", "ann_id": 491477, "best_split": [2, 3], "split_score": 0.504893769335773}
+{"sent": "drinking woman", "ann_id": 491477, "best_split": [2, 3], "split_score": 0.504893769335773}
+{"sent": "super model hot guy with phone smile great white teeth blad glasses", "ann_id": 488397, "best_split": [1, 2], "split_score": 0.44482388524624783}
+{"sent": "guy", "ann_id": 488397, "best_split": [1, 2], "split_score": 0.44482388524624783}
+{"sent": "man", "ann_id": 488397, "best_split": [2, 1], "split_score": 0.40493358632815624}

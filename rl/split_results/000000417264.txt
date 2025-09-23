@@ -1,0 +1,6 @@
+{"sent": "pointer in orange", "ann_id": 564674, "best_split": [3, 2], "split_score": 0.3157486423277978}
+{"sent": "skier pointing", "ann_id": 564674, "best_split": [1, 2], "split_score": 0.21045918366508054}
+{"sent": "arm out person", "ann_id": 564674, "best_split": [1, 5], "split_score": 0.4151084517188567}
+{"sent": "all orange jacket", "ann_id": 487349, "best_split": [3, 3], "split_score": 0.3400029642300277}
+{"sent": "orange jacket", "ann_id": 487349, "best_split": [3, 3], "split_score": 0.3400029642300277}
+{"sent": "main one he is getting pointed at", "ann_id": 487349, "best_split": [3, 3], "split_score": 0.3400029642300277}

@@ -1,0 +1,6 @@
+{"sent": "taxi furthest from man", "ann_id": 144210, "best_split": [3, 3], "split_score": 0.38173142461115683}
+{"sent": "yellow taxi with blue on ad", "ann_id": 144210, "best_split": [3, 3], "split_score": 0.38173142461115683}
+{"sent": "yellow cab next to building", "ann_id": 144210, "best_split": [3, 3], "split_score": 0.38173142461115683}
+{"sent": "taxi closer to bus", "ann_id": 140720, "best_split": [3, 2], "split_score": 0.26722246596454335}
+{"sent": "taxi nearest man", "ann_id": 140720, "best_split": [3, 3], "split_score": 0.26813697036155876}
+{"sent": "nearer taxi", "ann_id": 140720, "best_split": [3, 2], "split_score": 0.26722246596454335}

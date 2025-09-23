@@ -1,0 +1,9 @@
+{"sent": "small black cow", "ann_id": 75479, "best_split": [5, 1], "split_score": 0.13698630135751746}
+{"sent": "far black cow", "ann_id": 75479, "best_split": [2, 1], "split_score": 0.0977609586842573}
+{"sent": "smallest cow", "ann_id": 75479, "best_split": [2, 1], "split_score": 0.0977609586842573}
+{"sent": "brown cow", "ann_id": 75220, "best_split": [2, 3], "split_score": 0.89959477702616}
+{"sent": "brown and white cow", "ann_id": 75220, "best_split": [2, 3], "split_score": 0.89959477702616}
+{"sent": "brown cow with white face", "ann_id": 75220, "best_split": [2, 3], "split_score": 0.89959477702616}
+{"sent": "the bigger black cow", "ann_id": 73956, "best_split": [2, 1], "split_score": 0.6394676144500523}
+{"sent": "black cow white udders", "ann_id": 73956, "best_split": [2, 1], "split_score": 0.6394676144500523}
+{"sent": "black and whtie cow most fully visible", "ann_id": 73956, "best_split": [2, 1], "split_score": 0.6394676144500523}

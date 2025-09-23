@@ -1,0 +1,6 @@
+{"sent": "bench not being sat on", "ann_id": 1394355, "best_split": [3, 3], "split_score": 0.4762308997628422}
+{"sent": "empty chair", "ann_id": 1394355, "best_split": [3, 1], "split_score": 0.2584151472499757}
+{"sent": "bench under orange cone", "ann_id": 1394355, "best_split": [3, 2], "split_score": 0.3497045037344911}
+{"sent": "nearest bench", "ann_id": 576388, "best_split": [2, 2], "split_score": 0.4564926371864287}
+{"sent": "bench person is on", "ann_id": 576388, "best_split": [2, 2], "split_score": 0.4564926371864287}
+{"sent": "closest bench", "ann_id": 576388, "best_split": [2, 2], "split_score": 0.4564926371864287}

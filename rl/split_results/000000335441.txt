@@ -1,0 +1,4 @@
+{"sent": "hand under table", "ann_id": 2000927, "best_split": [3, 1], "split_score": 0.21537162160862863}
+{"sent": "whats holding sandwich", "ann_id": 473902, "best_split": [2, 3], "split_score": 0.4718384696745002}
+{"sent": "hand", "ann_id": 473902, "best_split": [2, 3], "split_score": 0.4718384696745002}
+{"sent": "hand thats holding", "ann_id": 473902, "best_split": [2, 3], "split_score": 0.4718384696745002}

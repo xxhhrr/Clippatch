@@ -1,0 +1,8 @@
+{"sent": "closest horse", "ann_id": 2230125, "best_split": [1, 2], "split_score": 0.7979910713967637}
+{"sent": "gray horse", "ann_id": 2230125, "best_split": [1, 2], "split_score": 0.7979910713967637}
+{"sent": "brown and white horse", "ann_id": 2230105, "best_split": [1, 3], "split_score": 0.6305732483717826}
+{"sent": "he brown and white horse looking over fence", "ann_id": 2230105, "best_split": [1, 3], "split_score": 0.6305732483717826}
+{"sent": "the brown and white horse", "ann_id": 2230105, "best_split": [1, 3], "split_score": 0.6305732483717826}
+{"sent": "white horse", "ann_id": 57129, "best_split": [2, 1], "split_score": 0.2131577005308406}
+{"sent": "white horse", "ann_id": 57129, "best_split": [2, 1], "split_score": 0.2131577005308406}
+{"sent": "the white horse", "ann_id": 57129, "best_split": [2, 1], "split_score": 0.2131577005308406}

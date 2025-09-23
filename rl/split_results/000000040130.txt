@@ -1,0 +1,6 @@
+{"sent": "sandwich half on other half", "ann_id": 313114, "best_split": [2, 3], "split_score": 0.4627249356901648}
+{"sent": "higher sandwich half", "ann_id": 313114, "best_split": [2, 3], "split_score": 0.4627249356901648}
+{"sent": "bread that doesnt show everything", "ann_id": 313114, "best_split": [1, 5], "split_score": 0.2677484786824291}
+{"sent": "sanwich near recipt", "ann_id": 312998, "best_split": [3, 2], "split_score": 0.41122827013314134}
+{"sent": "sandwich closest to us", "ann_id": 312998, "best_split": [3, 2], "split_score": 0.41122827013314134}
+{"sent": "half sandwich by tag", "ann_id": 312998, "best_split": [3, 2], "split_score": 0.41122827013314134}

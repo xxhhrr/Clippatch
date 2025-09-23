@@ -1,0 +1,6 @@
+{"sent": "guybcutoff", "ann_id": 473367, "best_split": [5, 1], "split_score": 0.2840746054264639}
+{"sent": "boy eating white thing", "ann_id": 473367, "best_split": [1, 2], "split_score": 0.17793367346229538}
+{"sent": "person eating food at 300", "ann_id": 473367, "best_split": [2, 3], "split_score": 0.5271856286793789}
+{"sent": "guy in white", "ann_id": 427429, "best_split": [2, 2], "split_score": 0.7463768115459125}
+{"sent": "white shirt", "ann_id": 427429, "best_split": [2, 2], "split_score": 0.7463768115459125}
+{"sent": "man in white shirt", "ann_id": 427429, "best_split": [2, 2], "split_score": 0.7463768115459125}

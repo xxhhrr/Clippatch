@@ -1,0 +1,7 @@
+{"sent": "motorcycle mirror", "ann_id": 1790282, "best_split": [1, 2], "split_score": 0.8590242442061126}
+{"sent": "bike with no dog", "ann_id": 1790282, "best_split": [1, 2], "split_score": 0.8590242442061126}
+{"sent": "motorcyle parked by handicapped sign", "ann_id": 1790282, "best_split": [1, 2], "split_score": 0.8590242442061126}
+{"sent": "dog mobile", "ann_id": 246648, "best_split": [1, 2], "split_score": 0.5280733607472117}
+{"sent": "what the cool dog is riding in", "ann_id": 246648, "best_split": [1, 2], "split_score": 0.5280733607472117}
+{"sent": "dog is my copilot", "ann_id": 246648, "best_split": [1, 2], "split_score": 0.5280733607472117}
+{"sent": "where it says dog is my copilot", "ann_id": 246648, "best_split": [2, 1], "split_score": 0.4240918437194977}

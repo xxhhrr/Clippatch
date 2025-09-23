@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 509665, "best_split": [1, 3], "split_score": 0.4724680997544276}
+{"sent": "light blue shirt", "ann_id": 509665, "best_split": [1, 3], "split_score": 0.4724680997544276}
+{"sent": "blue shirt", "ann_id": 509665, "best_split": [1, 3], "split_score": 0.4724680997544276}
+{"sent": "pink and white", "ann_id": 504101, "best_split": [1, 5], "split_score": 0.5604363494145869}
+{"sent": "lady", "ann_id": 504101, "best_split": [1, 5], "split_score": 0.5604363494145869}
+{"sent": "woman", "ann_id": 504101, "best_split": [1, 5], "split_score": 0.5604363494145869}
+{"sent": "kid holding frisbee", "ann_id": 487736, "best_split": [1, 5], "split_score": 0.5489867693393915}
+{"sent": "tie die", "ann_id": 487736, "best_split": [1, 5], "split_score": 0.5489867693393915}
+{"sent": "yellow", "ann_id": 487736, "best_split": [1, 3], "split_score": 0.3405985859156558}

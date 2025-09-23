@@ -1,0 +1,13 @@
+{"sent": "blond woman with blue dress", "ann_id": 548226, "best_split": [3, 3], "split_score": 0.5196342118720233}
+{"sent": "the crosslegged woman", "ann_id": 548226, "best_split": [3, 2], "split_score": 0.37704918029107637}
+{"sent": "woman sitting with legs crossed", "ann_id": 548226, "best_split": [3, 2], "split_score": 0.37704918029107637}
+{"sent": "girl blue dress and legs", "ann_id": 548226, "best_split": [3, 3], "split_score": 0.5196342118720233}
+{"sent": "the asian woman", "ann_id": 541361, "best_split": [3, 3], "split_score": 0.5965141611550638}
+{"sent": "lady in black shirt on floor", "ann_id": 541361, "best_split": [3, 1], "split_score": 0.3231275043499883}
+{"sent": "asian with pink glasses", "ann_id": 541361, "best_split": [3, 3], "split_score": 0.5965141611550638}
+{"sent": "white shirt lady", "ann_id": 525618, "best_split": [3, 2], "split_score": 0.33126454612768963}
+{"sent": "feather boa", "ann_id": 525618, "best_split": [3, 2], "split_score": 0.33126454612768963}
+{"sent": "white fluffy scarf", "ann_id": 525618, "best_split": [3, 2], "split_score": 0.33126454612768963}
+{"sent": "woman holding controller", "ann_id": 432800, "best_split": [2, 3], "split_score": 0.45543266098564616}
+{"sent": "big lady", "ann_id": 432800, "best_split": [2, 3], "split_score": 0.45543266098564616}
+{"sent": "lady with pink headband", "ann_id": 432800, "best_split": [2, 3], "split_score": 0.45543266098564616}

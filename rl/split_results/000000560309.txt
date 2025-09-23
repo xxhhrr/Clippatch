@@ -1,0 +1,5 @@
+{"sent": "chair at closest to 9 olcok", "ann_id": 2222695, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "number one chair", "ann_id": 2222695, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "chair closet to the licht", "ann_id": 2222695, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "chair closet to door", "ann_id": 2222379, "best_split": [2, 3], "split_score": 0.37504234891303867}
+{"sent": "chair at us", "ann_id": 2222379, "best_split": [2, 2], "split_score": 0.28505513409829863}

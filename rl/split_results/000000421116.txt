@@ -1,0 +1,6 @@
+{"sent": "the motorcyle windshield", "ann_id": 1790848, "best_split": [2, 1], "split_score": 0.44531249998225}
+{"sent": "bike with windshield overlapping bus", "ann_id": 246550, "best_split": [3, 3], "split_score": 0.7588662582596686}
+{"sent": "blue bike", "ann_id": 246550, "best_split": [3, 3], "split_score": 0.7588662582596686}
+{"sent": "motorcycle closest to viewer", "ann_id": 148384, "best_split": [5, 1], "split_score": 0.6982136069271937}
+{"sent": "down bike closest to camera", "ann_id": 148384, "best_split": [5, 1], "split_score": 0.6982136069271937}
+{"sent": "motorcycle in forefront", "ann_id": 148384, "best_split": [5, 1], "split_score": 0.6982136069271937}

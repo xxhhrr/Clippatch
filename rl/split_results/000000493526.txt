@@ -1,0 +1,12 @@
+{"sent": "man", "ann_id": 1189051, "best_split": [1, 2], "split_score": 0.7875478316012616}
+{"sent": "man", "ann_id": 1189051, "best_split": [1, 2], "split_score": 0.7875478316012616}
+{"sent": "man in tan pants", "ann_id": 1189051, "best_split": [1, 2], "split_score": 0.7875478316012616}
+{"sent": "blue pants", "ann_id": 456839, "best_split": [1, 3], "split_score": 0.5335628226939394}
+{"sent": "girl", "ann_id": 456839, "best_split": [2, 2], "split_score": 0.35360556036520874}
+{"sent": "girl with pin", "ann_id": 456839, "best_split": [1, 3], "split_score": 0.5335628226939394}
+{"sent": "black umbrella over man", "ann_id": 284075, "best_split": [3, 1], "split_score": 0.3517351900778219}
+{"sent": "guys umbrella", "ann_id": 284075, "best_split": [3, 1], "split_score": 0.3517351900778219}
+{"sent": "umbrella over man", "ann_id": 284075, "best_split": [3, 2], "split_score": 0.648960032560261}
+{"sent": "umbrella that is over the man", "ann_id": 284075, "best_split": [3, 2], "split_score": 0.648960032560261}
+{"sent": "big brella", "ann_id": 283583, "best_split": [2, 2], "split_score": 0.9556760203319773}
+{"sent": "black umbrella of pink shirt", "ann_id": 283583, "best_split": [2, 2], "split_score": 0.9556760203319773}

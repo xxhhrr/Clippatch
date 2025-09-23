@@ -1,0 +1,6 @@
+{"sent": "zebra farthest from plants", "ann_id": 592353, "best_split": [3, 2], "split_score": 0.45269347268202803}
+{"sent": "zebra with lower head", "ann_id": 592353, "best_split": [3, 2], "split_score": 0.45269347268202803}
+{"sent": "shorter guy", "ann_id": 592353, "best_split": [1, 2], "split_score": 0.6445711096681851}
+{"sent": "zebra by tree", "ann_id": 591345, "best_split": [1, 2], "split_score": 0.7172665623102591}
+{"sent": "closest zebra", "ann_id": 591345, "best_split": [1, 2], "split_score": 0.7172665623102591}
+{"sent": "zebra head is partially blocking others head", "ann_id": 591345, "best_split": [1, 2], "split_score": 0.7172665623102591}

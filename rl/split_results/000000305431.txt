@@ -1,0 +1,8 @@
+{"sent": "cow with head not showing", "ann_id": 76479, "best_split": [3, 2], "split_score": 0.3412200468409388}
+{"sent": "cow rear end closest to camera", "ann_id": 76479, "best_split": [3, 2], "split_score": 0.3412200468409388}
+{"sent": "cow with tufty ears", "ann_id": 75803, "best_split": [2, 2], "split_score": 0.5780156442640701}
+{"sent": "shortest facing us", "ann_id": 75803, "best_split": [1, 2], "split_score": 0.5694754464058723}
+{"sent": "cow with dark tag", "ann_id": 75803, "best_split": [2, 2], "split_score": 0.5780156442640701}
+{"sent": "cow looking at you", "ann_id": 70960, "best_split": [2, 1], "split_score": 0.3285057615915715}
+{"sent": "cow with the sun shining on its ear tag", "ann_id": 70960, "best_split": [1, 5], "split_score": 0.42245199406929457}
+{"sent": "taller darker brown cow", "ann_id": 70960, "best_split": [2, 1], "split_score": 0.3285057615915715}

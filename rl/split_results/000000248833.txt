@@ -1,0 +1,10 @@
+{"sent": "chair closest", "ann_id": 289419, "best_split": [2, 3], "split_score": 0.722128378291249}
+{"sent": "plaid chair righty", "ann_id": 289419, "best_split": [3, 1], "split_score": 0.26046147828032506}
+{"sent": "plaid couch back to back with white couch", "ann_id": 115952, "best_split": [2, 3], "split_score": 0.7139237450876057}
+{"sent": "plaid loveseat with pillows", "ann_id": 115952, "best_split": [2, 3], "split_score": 0.7139237450876057}
+{"sent": "lightest couch", "ann_id": 98698, "best_split": [2, 2], "split_score": 0.3741648106643816}
+{"sent": "light colored sofa", "ann_id": 98698, "best_split": [2, 2], "split_score": 0.3741648106643816}
+{"sent": "white furniture", "ann_id": 98698, "best_split": [2, 1], "split_score": 0.286989795906928}
+{"sent": "checked couch", "ann_id": 1945357, "best_split": [2, 3], "split_score": 0.7480694979792387}
+{"sent": "plaid couch wiht pillows", "ann_id": 1945357, "best_split": [2, 3], "split_score": 0.7480694979792387}
+{"sent": "closest sofa", "ann_id": 1945357, "best_split": [2, 3], "split_score": 0.7480694979792387}

@@ -1,0 +1,6 @@
+{"sent": "white chair at desk", "ann_id": 104556, "best_split": [2, 2], "split_score": 0.4030612244576641}
+{"sent": "white chair", "ann_id": 104556, "best_split": [2, 3], "split_score": 0.6100386099650049}
+{"sent": "white chair", "ann_id": 104556, "best_split": [2, 3], "split_score": 0.6100386099650049}
+{"sent": "blue chair", "ann_id": 103239, "best_split": [3, 2], "split_score": 0.6536625855308505}
+{"sent": "blue chair", "ann_id": 103239, "best_split": [3, 2], "split_score": 0.6536625855308505}
+{"sent": "blue chair", "ann_id": 103239, "best_split": [3, 2], "split_score": 0.6536625855308505}

@@ -1,0 +1,6 @@
+{"sent": "the larger of the 2 zebras", "ann_id": 589722, "best_split": [1, 3], "split_score": 0.4341246778761411}
+{"sent": "big zebra", "ann_id": 589722, "best_split": [1, 3], "split_score": 0.4341246778761411}
+{"sent": "adult", "ann_id": 589722, "best_split": [1, 2], "split_score": 0.5180692822072959}
+{"sent": "small zebra", "ann_id": 588981, "best_split": [1, 2], "split_score": 0.5799011531926174}
+{"sent": "near us", "ann_id": 588981, "best_split": [1, 3], "split_score": 0.37375512593827787}
+{"sent": "zebra closest to us", "ann_id": 588981, "best_split": [1, 2], "split_score": 0.5799011531926174}

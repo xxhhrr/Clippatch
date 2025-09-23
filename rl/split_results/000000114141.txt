@@ -1,0 +1,6 @@
+{"sent": "mom", "ann_id": 491320, "best_split": [3, 1], "split_score": 0.46798834646244625}
+{"sent": "woman", "ann_id": 491320, "best_split": [3, 1], "split_score": 0.46798834646244625}
+{"sent": "mom and kid together", "ann_id": 491320, "best_split": [3, 1], "split_score": 0.46798834646244625}
+{"sent": "the kid", "ann_id": 478052, "best_split": [3, 3], "split_score": 0.4565259116644409}
+{"sent": "baby", "ann_id": 478052, "best_split": [3, 3], "split_score": 0.4565259116644409}
+{"sent": "kid", "ann_id": 478052, "best_split": [3, 3], "split_score": 0.4565259116644409}

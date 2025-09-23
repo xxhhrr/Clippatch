@@ -1,0 +1,4 @@
+{"sent": "brown one among white", "ann_id": 66350, "best_split": [3, 3], "split_score": 0.4753068797494566}
+{"sent": "brown sheep at 3pm", "ann_id": 66350, "best_split": [3, 3], "split_score": 0.4753068797494566}
+{"sent": "cow butt next to little cow", "ann_id": 64862, "best_split": [3, 1], "split_score": 0.22509182735163613}
+{"sent": "big sheep by little sheep", "ann_id": 64862, "best_split": [3, 2], "split_score": 0.42929071799153995}

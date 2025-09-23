@@ -1,0 +1,6 @@
+{"sent": "slowest elephant", "ann_id": 585894, "best_split": [2, 2], "split_score": 0.3739812858154255}
+{"sent": "last in line", "ann_id": 585894, "best_split": [2, 2], "split_score": 0.3739812858154255}
+{"sent": "last elephant", "ann_id": 585894, "best_split": [2, 3], "split_score": 0.5509115161681957}
+{"sent": "leading elephant full view", "ann_id": 585357, "best_split": [3, 3], "split_score": 0.3935322249608822}
+{"sent": "elephant leading smallest one", "ann_id": 585357, "best_split": [3, 3], "split_score": 0.3935322249608822}
+{"sent": "the one by baby leading", "ann_id": 585357, "best_split": [5, 1], "split_score": 0.22353114414493216}

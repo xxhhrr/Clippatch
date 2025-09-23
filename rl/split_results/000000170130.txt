@@ -1,0 +1,12 @@
+{"sent": "standing apart from group backwards hat", "ann_id": 1206655, "best_split": [3, 3], "split_score": 0.3006772008689981}
+{"sent": "white shirt and cap on", "ann_id": 1206655, "best_split": [1, 3], "split_score": 0.36486486484285324}
+{"sent": "shorts and a hat", "ann_id": 1206655, "best_split": [1, 3], "split_score": 0.36486486484285324}
+{"sent": "guy on bench", "ann_id": 493992, "best_split": [1, 5], "split_score": 0.39265422073938167}
+{"sent": "no shirt boy", "ann_id": 493992, "best_split": [2, 3], "split_score": 0.24595203932712112}
+{"sent": "man without shirt", "ann_id": 493992, "best_split": [2, 3], "split_score": 0.24595203932712112}
+{"sent": "white shirt baggy jeans", "ann_id": 477726, "best_split": [1, 5], "split_score": 0.6851726471916846}
+{"sent": "boy in shirt and long jeans", "ann_id": 477726, "best_split": [1, 5], "split_score": 0.6851726471916846}
+{"sent": "guy 3", "ann_id": 477726, "best_split": [1, 5], "split_score": 0.6851726471916846}
+{"sent": "brown hair with one hand on side with flipped board", "ann_id": 458229, "best_split": [5, 1], "split_score": 0.09965567473846804}
+{"sent": "guy in light shirt next to trampoline", "ann_id": 458229, "best_split": [1, 2], "split_score": 0.26909279335662095}
+{"sent": "guy by no shirt guy", "ann_id": 458229, "best_split": [1, 2], "split_score": 0.26909279335662095}

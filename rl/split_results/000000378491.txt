@@ -1,0 +1,6 @@
+{"sent": "the dark brown horse", "ann_id": 60331, "best_split": [1, 5], "split_score": 0.4752282070604677}
+{"sent": "darker animal", "ann_id": 60331, "best_split": [1, 5], "split_score": 0.4752282070604677}
+{"sent": "dark brown horse", "ann_id": 60331, "best_split": [1, 5], "split_score": 0.4752282070604677}
+{"sent": "smaller horse", "ann_id": 56650, "best_split": [3, 3], "split_score": 0.44492342592797235}
+{"sent": "baby", "ann_id": 56650, "best_split": [1, 5], "split_score": 0.5436017674683378}
+{"sent": "baby deer", "ann_id": 56650, "best_split": [1, 5], "split_score": 0.5436017674683378}

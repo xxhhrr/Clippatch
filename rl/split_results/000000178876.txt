@@ -1,0 +1,6 @@
+{"sent": "standing up", "ann_id": 1240748, "best_split": [1, 2], "split_score": 0.3947422188791547}
+{"sent": "girl standing up", "ann_id": 1240748, "best_split": [1, 3], "split_score": 0.4153725353160281}
+{"sent": "orange pnats", "ann_id": 1240748, "best_split": [1, 3], "split_score": 0.4153725353160281}
+{"sent": "kneeling", "ann_id": 1237282, "best_split": [5, 1], "split_score": 0.23559712618709522}
+{"sent": "kneeling", "ann_id": 1237282, "best_split": [5, 1], "split_score": 0.23559712618709522}
+{"sent": "kneeling person", "ann_id": 1237282, "best_split": [3, 1], "split_score": 0.2847579814477468}

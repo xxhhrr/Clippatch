@@ -1,0 +1,5 @@
+{"sent": "glass of water behind the slice of pizza", "ann_id": 1511319, "best_split": [1, 5], "split_score": 0.29870129867099215}
+{"sent": "lemonade near blue label", "ann_id": 1511319, "best_split": [2, 3], "split_score": 0.35521235516949656}
+{"sent": "cup beside the salad", "ann_id": 1511319, "best_split": [2, 1], "split_score": 0.11734693877083278}
+{"sent": "glass of water with lemon beside the hand", "ann_id": 669893, "best_split": [2, 2], "split_score": 0.20663265304475187}
+{"sent": "glass with lemon at 19000", "ann_id": 669893, "best_split": [2, 2], "split_score": 0.20663265304475187}

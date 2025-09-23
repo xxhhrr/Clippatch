@@ -1,0 +1,2 @@
+{"sent": "the table space between the pizza and the newspaper", "ann_id": 419974, "best_split": [1, 2], "split_score": 0.2083067601957786}
+{"sent": "table", "ann_id": 419974, "best_split": [1, 3], "split_score": 0.31527509650607655}

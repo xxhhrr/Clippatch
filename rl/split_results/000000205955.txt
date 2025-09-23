@@ -1,0 +1,10 @@
+{"sent": "white hat", "ann_id": 539695, "best_split": [1, 5], "split_score": 0.3161026403573724}
+{"sent": "blue man", "ann_id": 539695, "best_split": [1, 5], "split_score": 0.3161026403573724}
+{"sent": "man", "ann_id": 539695, "best_split": [3, 1], "split_score": 0.1798349722968331}
+{"sent": "person in hat", "ann_id": 539695, "best_split": [3, 2], "split_score": 0.33829470547115725}
+{"sent": "boy with no shirt", "ann_id": 532906, "best_split": [2, 3], "split_score": 0.5572232644749973}
+{"sent": "shirtless kid", "ann_id": 532906, "best_split": [2, 3], "split_score": 0.5572232644749973}
+{"sent": "naked kid", "ann_id": 532906, "best_split": [2, 3], "split_score": 0.5572232644749973}
+{"sent": "girl in peach shirt", "ann_id": 486945, "best_split": [2, 2], "split_score": 0.5314204410403474}
+{"sent": "yellow shirt", "ann_id": 486945, "best_split": [2, 2], "split_score": 0.5314204410403474}
+{"sent": "orange shirt", "ann_id": 486945, "best_split": [2, 2], "split_score": 0.5314204410403474}

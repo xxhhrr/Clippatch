@@ -1,0 +1,12 @@
+{"sent": "hair in face with arm extended", "ann_id": 2158240, "best_split": [2, 1], "split_score": 0.29600581412058247}
+{"sent": "apron lady with messy hair", "ann_id": 2158240, "best_split": [1, 2], "split_score": 0.5277361319151946}
+{"sent": "lady in the white apron with white shirt", "ann_id": 2158240, "best_split": [1, 2], "split_score": 0.5277361319151946}
+{"sent": "the man", "ann_id": 1714668, "best_split": [2, 1], "split_score": 0.26728586170448637}
+{"sent": "all white chef", "ann_id": 1714668, "best_split": [2, 1], "split_score": 0.26728586170448637}
+{"sent": "man cook", "ann_id": 1714668, "best_split": [2, 1], "split_score": 0.17737296260254753}
+{"sent": "woman in black and white shirt", "ann_id": 539632, "best_split": [1, 2], "split_score": 0.4910714285518546}
+{"sent": "female whos face is most visible", "ann_id": 539632, "best_split": [1, 3], "split_score": 0.7204096212955221}
+{"sent": "young woman with black and white shirt", "ann_id": 539632, "best_split": [1, 2], "split_score": 0.4910714285518546}
+{"sent": "blue shirt woman", "ann_id": 492327, "best_split": [1, 3], "split_score": 0.7697876447412049}
+{"sent": "blue shirt", "ann_id": 492327, "best_split": [2, 1], "split_score": 0.20053289347838188}
+{"sent": "woman in green", "ann_id": 492327, "best_split": [1, 2], "split_score": 0.508609693857278}

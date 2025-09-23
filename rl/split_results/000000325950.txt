@@ -1,0 +1,6 @@
+{"sent": "close black cat", "ann_id": 50103, "best_split": [1, 2], "split_score": 0.7468480881589098}
+{"sent": "kitty closest", "ann_id": 50103, "best_split": [1, 2], "split_score": 0.7468480881589098}
+{"sent": "cat with curled hanging tail", "ann_id": 50103, "best_split": [1, 2], "split_score": 0.7468480881589098}
+{"sent": "cat with less visible tail next to curtain", "ann_id": 49915, "best_split": [2, 1], "split_score": 0.2656712309823962}
+{"sent": "cat looking out", "ann_id": 49915, "best_split": [2, 1], "split_score": 0.2656712309823962}
+{"sent": "cat next to curtain", "ann_id": 49915, "best_split": [2, 1], "split_score": 0.2656712309823962}

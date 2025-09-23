@@ -1,0 +1,6 @@
+{"sent": "bench with person on it", "ann_id": 577627, "best_split": [2, 2], "split_score": 0.48389085860306064}
+{"sent": "bench lady is sitting on", "ann_id": 577627, "best_split": [2, 2], "split_score": 0.48389085860306064}
+{"sent": "bench in sun", "ann_id": 577627, "best_split": [2, 2], "split_score": 0.48389085860306064}
+{"sent": "empty bench", "ann_id": 576654, "best_split": [5, 1], "split_score": 0.32696390655694846}
+{"sent": "bench with no one sitting", "ann_id": 576654, "best_split": [5, 1], "split_score": 0.32696390655694846}
+{"sent": "bench furthest from person", "ann_id": 576654, "best_split": [5, 1], "split_score": 0.32696390655694846}

@@ -1,0 +1,6 @@
+{"sent": "the hot dog beside the slaw", "ann_id": 1568824, "best_split": [2, 3], "split_score": 0.3768053459526618}
+{"sent": "2 hotdog", "ann_id": 1568824, "best_split": [2, 3], "split_score": 0.3768053459526618}
+{"sent": "suasage sandwich more folded", "ann_id": 1568824, "best_split": [2, 3], "split_score": 0.3768053459526618}
+{"sent": "straight hot dog", "ann_id": 1568661, "best_split": [2, 2], "split_score": 0.3966502206961406}
+{"sent": "hot dog not close to potatoes", "ann_id": 1568661, "best_split": [2, 2], "split_score": 0.3966502206961406}
+{"sent": "hotdog with relish only", "ann_id": 1568661, "best_split": [1, 5], "split_score": 0.4760859337873541}

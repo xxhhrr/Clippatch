@@ -1,0 +1,6 @@
+{"sent": "red car", "ann_id": 1774465, "best_split": [3, 2], "split_score": 0.6723386594031605}
+{"sent": "red car cut off", "ann_id": 1774465, "best_split": [3, 2], "split_score": 0.6723386594031605}
+{"sent": "red car", "ann_id": 1774465, "best_split": [3, 2], "split_score": 0.6723386594031605}
+{"sent": "car with plate shwing", "ann_id": 1337535, "best_split": [2, 3], "split_score": 0.351713320420884}
+{"sent": "car parked closest to 20 sign", "ann_id": 1337535, "best_split": [2, 3], "split_score": 0.351713320420884}
+{"sent": "the saab behind the 20 sign", "ann_id": 1337535, "best_split": [2, 3], "split_score": 0.351713320420884}

@@ -1,0 +1,6 @@
+{"sent": "leaf covering fruit", "ann_id": 1049819, "best_split": [2, 3], "split_score": 0.28824273069257583}
+{"sent": "apple partially blocked by leaf", "ann_id": 1049819, "best_split": [1, 5], "split_score": 0.16077724671622837}
+{"sent": "apple covered by a single leeaf", "ann_id": 1049819, "best_split": [1, 5], "split_score": 0.16077724671622837}
+{"sent": "two apples in a pair", "ann_id": 1048335, "best_split": [5, 1], "split_score": 0.532647030737523}
+{"sent": "2 apples closest to us", "ann_id": 1048335, "best_split": [5, 1], "split_score": 0.532647030737523}
+{"sent": "2 nearest largest apples", "ann_id": 1048335, "best_split": [5, 1], "split_score": 0.532647030737523}

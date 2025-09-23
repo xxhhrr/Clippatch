@@ -1,0 +1,14 @@
+{"sent": "all blue jacket", "ann_id": 1704705, "best_split": [3, 2], "split_score": 0.2510476950457945}
+{"sent": "person holding red ski solid blue jacket", "ann_id": 1704705, "best_split": [3, 2], "split_score": 0.2510476950457945}
+{"sent": "fourth person", "ann_id": 1703663, "best_split": [1, 5], "split_score": 0.38344226575723483}
+{"sent": "gray and black", "ann_id": 1703663, "best_split": [3, 3], "split_score": 0.3556686456947033}
+{"sent": "boy in middle", "ann_id": 1703663, "best_split": [1, 5], "split_score": 0.38344226575723483}
+{"sent": "the lady standing by the lady in the red jacket", "ann_id": 1270306, "best_split": [3, 3], "split_score": 0.2856762512931741}
+{"sent": "person by red jacket", "ann_id": 1270306, "best_split": [3, 3], "split_score": 0.2856762512931741}
+{"sent": "girl next to woman in red coat", "ann_id": 1270306, "best_split": [3, 3], "split_score": 0.2856762512931741}
+{"sent": "red in jacket", "ann_id": 1251466, "best_split": [1, 5], "split_score": 0.40622063518077234}
+{"sent": "red and white jacket", "ann_id": 1251466, "best_split": [1, 5], "split_score": 0.40622063518077234}
+{"sent": "white hair woman in red and black coat", "ann_id": 1251466, "best_split": [1, 5], "split_score": 0.40622063518077234}
+{"sent": "black jacket", "ann_id": 1243220, "best_split": [3, 3], "split_score": 0.40360223231816306}
+{"sent": "skier in all black", "ann_id": 1243220, "best_split": [3, 3], "split_score": 0.40360223231816306}
+{"sent": "black coat on edge", "ann_id": 1243220, "best_split": [3, 3], "split_score": 0.40360223231816306}

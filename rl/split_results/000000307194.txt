@@ -1,0 +1,5 @@
+{"sent": "car barely visible under the table on the photo", "ann_id": 2044172, "best_split": [3, 1], "split_score": 0.25384615383089865}
+{"sent": "car by watermark writing", "ann_id": 2044172, "best_split": [3, 1], "split_score": 0.25384615383089865}
+{"sent": "license plate", "ann_id": 346911, "best_split": [3, 3], "split_score": 0.2310564804370536}
+{"sent": "beige car", "ann_id": 346911, "best_split": [2, 3], "split_score": 0.28047761190680864}
+{"sent": "brown trunk of the car", "ann_id": 346911, "best_split": [2, 3], "split_score": 0.28047761190680864}

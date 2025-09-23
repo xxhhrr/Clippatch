@@ -1,0 +1,6 @@
+{"sent": "child in red", "ann_id": 225334, "best_split": [3, 3], "split_score": 0.5886342058065056}
+{"sent": "little kid", "ann_id": 225334, "best_split": [3, 1], "split_score": 0.3093611892148676}
+{"sent": "child red shirt", "ann_id": 225334, "best_split": [3, 3], "split_score": 0.5886342058065056}
+{"sent": "girl closest to camera", "ann_id": 192419, "best_split": [1, 3], "split_score": 0.6187290969576333}
+{"sent": "a girl in blue", "ann_id": 192419, "best_split": [1, 3], "split_score": 0.6187290969576333}
+{"sent": "bigger kid", "ann_id": 192419, "best_split": [3, 1], "split_score": 0.2738937325105324}

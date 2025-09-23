@@ -1,0 +1,6 @@
+{"sent": "dude with half sleeves looking down", "ann_id": 222098, "best_split": [3, 2], "split_score": 0.33767926985121255}
+{"sent": "gray shirt", "ann_id": 222098, "best_split": [3, 3], "split_score": 0.38016726399281153}
+{"sent": "t shirt", "ann_id": 222098, "best_split": [3, 3], "split_score": 0.38016726399281153}
+{"sent": "man looking at you", "ann_id": 206550, "best_split": [2, 3], "split_score": 0.524372586809318}
+{"sent": "man looking at the camera", "ann_id": 206550, "best_split": [2, 2], "split_score": 0.211795092537538}
+{"sent": "taller man", "ann_id": 206550, "best_split": [2, 3], "split_score": 0.524372586809318}

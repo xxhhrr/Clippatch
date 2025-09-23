@@ -1,0 +1,6 @@
+{"sent": "lady with white and pink shirt", "ann_id": 1257398, "best_split": [1, 2], "split_score": 0.6912791124571568}
+{"sent": "white outfit", "ann_id": 1257398, "best_split": [1, 2], "split_score": 0.6912791124571568}
+{"sent": "white shirt over red", "ann_id": 1257398, "best_split": [2, 2], "split_score": 0.46123980279800897}
+{"sent": "gray shirt lady", "ann_id": 436742, "best_split": [1, 2], "split_score": 0.7230149872160788}
+{"sent": "shorter hair girl", "ann_id": 436742, "best_split": [3, 1], "split_score": 0.2606674655822832}
+{"sent": "short hair girl", "ann_id": 436742, "best_split": [3, 1], "split_score": 0.2606674655822832}

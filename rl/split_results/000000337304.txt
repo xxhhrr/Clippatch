@@ -1,0 +1,6 @@
+{"sent": "cant see the elephant well", "ann_id": 581110, "best_split": [1, 2], "split_score": 0.48808195151115746}
+{"sent": "elephant farther fro personally", "ann_id": 581110, "best_split": [1, 2], "split_score": 0.48808195151115746}
+{"sent": "big e nose is missing", "ann_id": 581110, "best_split": [2, 1], "split_score": 0.25827435118778985}
+{"sent": "elephant being touched", "ann_id": 580711, "best_split": [1, 3], "split_score": 0.6734619584695367}
+{"sent": "entire elephants face", "ann_id": 580711, "best_split": [2, 3], "split_score": 0.4051494524807562}
+{"sent": "head of elephant", "ann_id": 580711, "best_split": [1, 3], "split_score": 0.6734619584695367}

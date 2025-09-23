@@ -1,0 +1,6 @@
+{"sent": "red 11747", "ann_id": 2159552, "best_split": [1, 5], "split_score": 0.8118484195919371}
+{"sent": "red bike outfit", "ann_id": 2159552, "best_split": [1, 2], "split_score": 0.47999043365433713}
+{"sent": "red clothes", "ann_id": 2159552, "best_split": [1, 5], "split_score": 0.8118484195919371}
+{"sent": "main person", "ann_id": 477975, "best_split": [1, 2], "split_score": 0.4187862056386046}
+{"sent": "person with bananas", "ann_id": 477975, "best_split": [1, 2], "split_score": 0.4187862056386046}
+{"sent": "holding bananas", "ann_id": 477975, "best_split": [1, 2], "split_score": 0.4187862056386046}

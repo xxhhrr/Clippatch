@@ -1,0 +1,8 @@
+{"sent": "one with small orange container and brown stuff in it", "ann_id": 1899447, "best_split": [1, 5], "split_score": 0.28947368418579345}
+{"sent": "container with brown goo and fake orange", "ann_id": 1899447, "best_split": [2, 2], "split_score": 0.3800062092222907}
+{"sent": "carrots and peas", "ann_id": 1900340, "best_split": [2, 3], "split_score": 0.589781958038715}
+{"sent": "carrots", "ann_id": 1900340, "best_split": [2, 3], "split_score": 0.589781958038715}
+{"sent": "carrots and green beans", "ann_id": 1900340, "best_split": [2, 3], "split_score": 0.589781958038715}
+{"sent": "section with strawberries", "ann_id": 1532003, "best_split": [2, 2], "split_score": 0.6957446808048042}
+{"sent": "blue box with grapes figs and strawberries", "ann_id": 1532003, "best_split": [2, 2], "split_score": 0.6957446808048042}
+{"sent": "strawberries", "ann_id": 1532003, "best_split": [2, 2], "split_score": 0.6957446808048042}

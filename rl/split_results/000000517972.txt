@@ -1,0 +1,6 @@
+{"sent": "man with white tshirt", "ann_id": 502450, "best_split": [3, 2], "split_score": 0.17144856541323117}
+{"sent": "white shirt guy behind", "ann_id": 502450, "best_split": [5, 1], "split_score": 0.193710691806495}
+{"sent": "guy in bac", "ann_id": 502450, "best_split": [5, 1], "split_score": 0.193710691806495}
+{"sent": "the very full looking man in glasses", "ann_id": 469811, "best_split": [2, 1], "split_score": 0.6111111110918648}
+{"sent": "man", "ann_id": 469811, "best_split": [1, 2], "split_score": 0.34190231361571005}
+{"sent": "person in glasses", "ann_id": 469811, "best_split": [2, 1], "split_score": 0.6111111110918648}

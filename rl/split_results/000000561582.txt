@@ -1,0 +1,5 @@
+{"sent": "cat with the green eye", "ann_id": 52353, "best_split": [2, 1], "split_score": 0.669838013699164}
+{"sent": "cat with eyes open", "ann_id": 52353, "best_split": [2, 1], "split_score": 0.669838013699164}
+{"sent": "closed eye cat", "ann_id": 52234, "best_split": [1, 2], "split_score": 0.6776556776298208}
+{"sent": "sitting black cat", "ann_id": 52234, "best_split": [1, 2], "split_score": 0.6776556776298208}
+{"sent": "black pussy", "ann_id": 52234, "best_split": [1, 2], "split_score": 0.6776556776298208}

@@ -1,0 +1,18 @@
+{"sent": "bride", "ann_id": 2160050, "best_split": [1, 5], "split_score": 0.36117381487294203}
+{"sent": "bride", "ann_id": 2160050, "best_split": [1, 5], "split_score": 0.36117381487294203}
+{"sent": "the woman in a white dress getting married", "ann_id": 2160050, "best_split": [1, 5], "split_score": 0.36117381487294203}
+{"sent": "lady in red", "ann_id": 1749875, "best_split": [1, 3], "split_score": 0.8251964753021436}
+{"sent": "woman in red", "ann_id": 1749875, "best_split": [1, 3], "split_score": 0.8251964753021436}
+{"sent": "person in red", "ann_id": 1749875, "best_split": [1, 3], "split_score": 0.8251964753021436}
+{"sent": "white ruffle on little girls dress", "ann_id": 546184, "best_split": [2, 3], "split_score": 0.5559440558833103}
+{"sent": "little girl in flower girl dress", "ann_id": 546184, "best_split": [2, 3], "split_score": 0.5559440558833103}
+{"sent": "the little girls dress", "ann_id": 546184, "best_split": [2, 3], "split_score": 0.5559440558833103}
+{"sent": "bigger kid", "ann_id": 544020, "best_split": [1, 5], "split_score": 0.7749510762520058}
+{"sent": "boy in suit", "ann_id": 544020, "best_split": [1, 3], "split_score": 0.6091940154072638}
+{"sent": "young boy in black", "ann_id": 544020, "best_split": [1, 5], "split_score": 0.7749510762520058}
+{"sent": "groom", "ann_id": 532094, "best_split": [3, 1], "split_score": 0.16961362147209216}
+{"sent": "groom", "ann_id": 532094, "best_split": [3, 1], "split_score": 0.16961362147209216}
+{"sent": "bride is holding hands with this person", "ann_id": 532094, "best_split": [3, 1], "split_score": 0.16961362147209216}
+{"sent": "priest guy", "ann_id": 516743, "best_split": [1, 5], "split_score": 0.4676085137589359}
+{"sent": "man holding something", "ann_id": 516743, "best_split": [3, 1], "split_score": 0.17816392755269736}
+{"sent": "minister", "ann_id": 516743, "best_split": [2, 3], "split_score": 0.3146607505717636}

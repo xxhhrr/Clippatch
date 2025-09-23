@@ -1,0 +1,5 @@
+{"sent": "the chair that isnt by the bird", "ann_id": 1583819, "best_split": [5, 1], "split_score": 0.20497547300236724}
+{"sent": "back of chair parrot is not on", "ann_id": 1583819, "best_split": [5, 1], "split_score": 0.20497547300236724}
+{"sent": "chair back near bird", "ann_id": 101042, "best_split": [1, 2], "split_score": 0.595154081372613}
+{"sent": "chair back behind bird", "ann_id": 101042, "best_split": [1, 2], "split_score": 0.595154081372613}
+{"sent": "upright cushion behind parrot", "ann_id": 101042, "best_split": [1, 2], "split_score": 0.595154081372613}

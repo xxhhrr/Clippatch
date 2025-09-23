@@ -1,0 +1,5 @@
+{"sent": "hot dog that is behind", "ann_id": 1070291, "best_split": [1, 5], "split_score": 0.526534859487088}
+{"sent": "the other hot dog", "ann_id": 1070291, "best_split": [1, 5], "split_score": 0.526534859487088}
+{"sent": "dog not by thumb", "ann_id": 1070291, "best_split": [3, 1], "split_score": 0.2215568862185808}
+{"sent": "dog no cheese", "ann_id": 1069794, "best_split": [1, 2], "split_score": 0.6640624999735306}
+{"sent": "item not obscured", "ann_id": 1069794, "best_split": [1, 2], "split_score": 0.6640624999735306}

@@ -1,0 +1,6 @@
+{"sent": "guy playing with dough", "ann_id": 472765, "best_split": [1, 5], "split_score": 0.17931034481580885}
+{"sent": "worker squashing donuts", "ann_id": 472765, "best_split": [1, 5], "split_score": 0.2870045157847463}
+{"sent": "green not with tongs", "ann_id": 472765, "best_split": [3, 1], "split_score": 0.3640886726538731}
+{"sent": "red tongs green apron", "ann_id": 459694, "best_split": [2, 3], "split_score": 0.742652329682558}
+{"sent": "guy with red tongs", "ann_id": 459694, "best_split": [2, 3], "split_score": 0.742652329682558}
+{"sent": "closest green", "ann_id": 459694, "best_split": [2, 3], "split_score": 0.742652329682558}

@@ -1,0 +1,6 @@
+{"sent": "train that is not red", "ann_id": 173838, "best_split": [3, 1], "split_score": 0.2851413988706244}
+{"sent": "green train", "ann_id": 173838, "best_split": [3, 3], "split_score": 0.6608759480473604}
+{"sent": "black train", "ann_id": 173838, "best_split": [3, 1], "split_score": 0.2851413988706244}
+{"sent": "red train", "ann_id": 170658, "best_split": [3, 2], "split_score": 0.5366416618138123}
+{"sent": "red train", "ann_id": 170658, "best_split": [3, 2], "split_score": 0.5366416618138123}
+{"sent": "red train", "ann_id": 170658, "best_split": [3, 2], "split_score": 0.5366416618138123}

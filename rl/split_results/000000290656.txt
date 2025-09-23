@@ -1,0 +1,15 @@
+{"sent": "blue shirt sunglasses", "ann_id": 1287831, "best_split": [1, 5], "split_score": 0.4778814934580071}
+{"sent": "blue shirt", "ann_id": 1287831, "best_split": [1, 5], "split_score": 0.4778814934580071}
+{"sent": "blue 22", "ann_id": 1287831, "best_split": [1, 5], "split_score": 0.4778814934580071}
+{"sent": "black coat black hat blue ring of collar on neck", "ann_id": 1280108, "best_split": [1, 3], "split_score": 0.2674348455437117}
+{"sent": "black skier", "ann_id": 1280108, "best_split": [2, 2], "split_score": 0.18117303275717156}
+{"sent": "man in black black cap", "ann_id": 1280108, "best_split": [1, 3], "split_score": 0.2674348455437117}
+{"sent": "a person with 82 number", "ann_id": 1251586, "best_split": [1, 5], "split_score": 0.6759085799291955}
+{"sent": "man with 82", "ann_id": 1251586, "best_split": [1, 5], "split_score": 0.6759085799291955}
+{"sent": "number 82", "ann_id": 1251586, "best_split": [1, 5], "split_score": 0.6759085799291955}
+{"sent": "skier wearing all orange and black pants", "ann_id": 1242871, "best_split": [1, 5], "split_score": 0.34981543477124083}
+{"sent": "red skiier closest", "ann_id": 1242871, "best_split": [1, 5], "split_score": 0.34981543477124083}
+{"sent": "person in orange", "ann_id": 1242871, "best_split": [1, 5], "split_score": 0.34981543477124083}
+{"sent": "light blue jacket behind orange", "ann_id": 1328399, "best_split": [1, 5], "split_score": 0.2700892856868822}
+{"sent": "skiier in light blue", "ann_id": 1328399, "best_split": [1, 3], "split_score": 0.16059362933394103}
+{"sent": "skier row 2 blue jacket", "ann_id": 1328399, "best_split": [2, 1], "split_score": 0.056096818387269876}

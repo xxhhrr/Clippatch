@@ -1,0 +1,11 @@
+{"sent": "umpire", "ann_id": 1289269, "best_split": [2, 3], "split_score": 0.3378378378096565}
+{"sent": "ump", "ann_id": 1289269, "best_split": [3, 1], "split_score": 0.17938524191896707}
+{"sent": "umpire", "ann_id": 1289269, "best_split": [2, 3], "split_score": 0.3378378378096565}
+{"sent": "the batter", "ann_id": 1276710, "best_split": [1, 2], "split_score": 0.5311804008704715}
+{"sent": "the batter", "ann_id": 1276710, "best_split": [1, 2], "split_score": 0.5311804008704715}
+{"sent": "batter", "ann_id": 1276710, "best_split": [1, 2], "split_score": 0.5311804008704715}
+{"sent": "white pants arms folded sitting", "ann_id": 1244930, "best_split": [3, 2], "split_score": 0.30705394187427903}
+{"sent": "arms crossed", "ann_id": 1244930, "best_split": [3, 2], "split_score": 0.30705394187427903}
+{"sent": "catcher", "ann_id": 1208634, "best_split": [3, 3], "split_score": 0.3901846452487673}
+{"sent": "the catcher", "ann_id": 1208634, "best_split": [3, 3], "split_score": 0.3901846452487673}
+{"sent": "catcher", "ann_id": 1208634, "best_split": [3, 3], "split_score": 0.3901846452487673}

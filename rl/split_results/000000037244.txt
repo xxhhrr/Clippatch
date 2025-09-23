@@ -1,0 +1,6 @@
+{"sent": "red long sleeve shir", "ann_id": 1733881, "best_split": [2, 3], "split_score": 0.7814784727069986}
+{"sent": "red sweater", "ann_id": 1733881, "best_split": [2, 3], "split_score": 0.7814784727069986}
+{"sent": "orange sweater", "ann_id": 1733881, "best_split": [2, 3], "split_score": 0.7814784727069986}
+{"sent": "woman putting it in", "ann_id": 437214, "best_split": [1, 2], "split_score": 0.6278819991182915}
+{"sent": "bent over lady", "ann_id": 437214, "best_split": [1, 2], "split_score": 0.6278819991182915}
+{"sent": "person putting food in oven", "ann_id": 437214, "best_split": [2, 1], "split_score": 0.4417528061246194}

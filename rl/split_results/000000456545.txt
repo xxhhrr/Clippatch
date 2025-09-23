@@ -1,0 +1,9 @@
+{"sent": "man in orange", "ann_id": 1300910, "best_split": [3, 3], "split_score": 0.3465346534133611}
+{"sent": "orange muscle shirt guy", "ann_id": 1300910, "best_split": [3, 3], "split_score": 0.3465346534133611}
+{"sent": "orange shirt", "ann_id": 1300910, "best_split": [3, 3], "split_score": 0.3465346534133611}
+{"sent": "girl on bike", "ann_id": 1277729, "best_split": [1, 5], "split_score": 0.2738528768869398}
+{"sent": "person on bike under stop sign", "ann_id": 1277729, "best_split": [1, 5], "split_score": 0.2738528768869398}
+{"sent": "riding bike", "ann_id": 1277729, "best_split": [1, 5], "split_score": 0.2738528768869398}
+{"sent": "person in black kneeling on the skateboard", "ann_id": 1312842, "best_split": [2, 3], "split_score": 0.45100576397470815}
+{"sent": "al black next to bike", "ann_id": 1312842, "best_split": [2, 3], "split_score": 0.45100576397470815}
+{"sent": "riding skateboard", "ann_id": 1312842, "best_split": [2, 3], "split_score": 0.45100576397470815}

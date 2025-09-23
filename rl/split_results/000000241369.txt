@@ -1,0 +1,12 @@
+{"sent": "table with cup", "ann_id": 1619563, "best_split": [2, 2], "split_score": 0.7954093139979163}
+{"sent": "beer", "ann_id": 1619563, "best_split": [2, 2], "split_score": 0.7954093139979163}
+{"sent": "table the beer is on", "ann_id": 1619563, "best_split": [2, 2], "split_score": 0.7954093139979163}
+{"sent": "less blurry pizza", "ann_id": 1617655, "best_split": [2, 1], "split_score": 0.6773707977710307}
+{"sent": "larger pizza", "ann_id": 1617655, "best_split": [2, 1], "split_score": 0.6773707977710307}
+{"sent": "closest pizza", "ann_id": 1617655, "best_split": [2, 1], "split_score": 0.6773707977710307}
+{"sent": "littlest pizza", "ann_id": 1075809, "best_split": [3, 3], "split_score": 0.2498543971753227}
+{"sent": "smaller pizza", "ann_id": 1075809, "best_split": [3, 3], "split_score": 0.2498543971753227}
+{"sent": "farthest pizza", "ann_id": 1075809, "best_split": [3, 3], "split_score": 0.2498543971753227}
+{"sent": "closest pizza", "ann_id": 1073720, "best_split": [2, 2], "split_score": 0.6121216478098985}
+{"sent": "biggest pizza", "ann_id": 1073720, "best_split": [2, 2], "split_score": 0.6121216478098985}
+{"sent": "pizza with pepperoni and other more visible toppings", "ann_id": 1073720, "best_split": [2, 2], "split_score": 0.6121216478098985}

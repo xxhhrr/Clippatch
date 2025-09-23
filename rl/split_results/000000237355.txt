@@ -1,0 +1,6 @@
+{"sent": "opposite passenger", "ann_id": 522033, "best_split": [3, 3], "split_score": 0.4750997743818237}
+{"sent": "partial plaid person", "ann_id": 522033, "best_split": [3, 3], "split_score": 0.4750997743818237}
+{"sent": "plaid shirt", "ann_id": 522033, "best_split": [2, 3], "split_score": 0.33373721053219324}
+{"sent": "woman", "ann_id": 483245, "best_split": [1, 3], "split_score": 0.756759650867015}
+{"sent": "girl very visible", "ann_id": 483245, "best_split": [1, 3], "split_score": 0.756759650867015}
+{"sent": "phone talker", "ann_id": 483245, "best_split": [1, 3], "split_score": 0.756759650867015}

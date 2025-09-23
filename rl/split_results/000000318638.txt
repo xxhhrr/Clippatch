@@ -1,0 +1,19 @@
+{"sent": "the table by the people", "ann_id": 1092021, "best_split": [1, 2], "split_score": 0.4875084264399014}
+{"sent": "silver plate that pizza is on", "ann_id": 1092021, "best_split": [1, 2], "split_score": 0.4875084264399014}
+{"sent": "pizza", "ann_id": 1092021, "best_split": [1, 2], "split_score": 0.4875084264399014}
+{"sent": "theres a metal support holding the pan up away from people", "ann_id": 1091782, "best_split": [1, 2], "split_score": 0.2878268494783232}
+{"sent": "area between pizza and table", "ann_id": 1091782, "best_split": [1, 2], "split_score": 0.2878268494783232}
+{"sent": "sliver of wood piece holding tray with pizza on it", "ann_id": 1091782, "best_split": [1, 2], "split_score": 0.2878268494783232}
+{"sent": "side with the most pizza", "ann_id": 1077098, "best_split": [3, 2], "split_score": 0.4981200727411692}
+{"sent": "larger left shaped portion of pizza", "ann_id": 1077098, "best_split": [3, 2], "split_score": 0.4981200727411692}
+{"sent": "slice closest to beer bottle", "ann_id": 1073495, "best_split": [1, 2], "split_score": 0.16685520361401104}
+{"sent": "pizza closest to beer bottle", "ann_id": 1073495, "best_split": [3, 1], "split_score": 0.38669685817227867}
+{"sent": "white shirt", "ann_id": 434449, "best_split": [2, 3], "split_score": 0.7348912166760802}
+{"sent": "light shirt with watch", "ann_id": 434449, "best_split": [2, 3], "split_score": 0.7348912166760802}
+{"sent": "the guy in white shirt", "ann_id": 434449, "best_split": [2, 3], "split_score": 0.7348912166760802}
+{"sent": "person in dark shirt", "ann_id": 2152827, "best_split": [3, 3], "split_score": 0.6087403598189279}
+{"sent": "person in black shirt", "ann_id": 2152827, "best_split": [3, 3], "split_score": 0.6087403598189279}
+{"sent": "black shirt person", "ann_id": 2152827, "best_split": [3, 3], "split_score": 0.6087403598189279}
+{"sent": "bottle closest to screen", "ann_id": 82997, "best_split": [3, 3], "split_score": 0.6674435280266325}
+{"sent": "bottle next to camera", "ann_id": 82997, "best_split": [3, 3], "split_score": 0.6674435280266325}
+{"sent": "close bottle looks bigger", "ann_id": 82997, "best_split": [3, 3], "split_score": 0.6674435280266325}

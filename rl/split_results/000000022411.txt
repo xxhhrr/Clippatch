@@ -1,0 +1,5 @@
+{"sent": "black t shirt with white logo", "ann_id": 1253531, "best_split": [2, 3], "split_score": 0.6844835906510034}
+{"sent": "person with black shirt can see face bottle next to plate", "ann_id": 1253531, "best_split": [2, 2], "split_score": 0.4522480866986409}
+{"sent": "girl with back turned", "ann_id": 1216664, "best_split": [2, 2], "split_score": 0.43942247328629763}
+{"sent": "near girl with back to us", "ann_id": 1216664, "best_split": [2, 3], "split_score": 0.3693623638832268}
+{"sent": "girl not facing cam", "ann_id": 1216664, "best_split": [2, 1], "split_score": 0.2311862244805809}

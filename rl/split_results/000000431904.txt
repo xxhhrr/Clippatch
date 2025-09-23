@@ -1,0 +1,12 @@
+{"sent": "green trailer", "ann_id": 1799089, "best_split": [2, 1], "split_score": 0.5111259160389365}
+{"sent": "trailer", "ann_id": 1799089, "best_split": [2, 1], "split_score": 0.5111259160389365}
+{"sent": "green trailer", "ann_id": 1799089, "best_split": [2, 1], "split_score": 0.5111259160389365}
+{"sent": "yellow van", "ann_id": 1372802, "best_split": [2, 3], "split_score": 0.5521885521304515}
+{"sent": "the yellow bad guy van", "ann_id": 1372802, "best_split": [2, 3], "split_score": 0.5521885521304515}
+{"sent": "a big van parked", "ann_id": 1372802, "best_split": [2, 3], "split_score": 0.5521885521304515}
+{"sent": "gray outfit", "ann_id": 533137, "best_split": [5, 1], "split_score": 0.1255820940269204}
+{"sent": "jumping man", "ann_id": 533137, "best_split": [1, 5], "split_score": 0.4230367486066815}
+{"sent": "man on wooden box", "ann_id": 533137, "best_split": [1, 5], "split_score": 0.4230367486066815}
+{"sent": "brown shirt", "ann_id": 487326, "best_split": [1, 5], "split_score": 0.6666666666010757}
+{"sent": "man brown shirt", "ann_id": 487326, "best_split": [1, 5], "split_score": 0.6666666666010757}
+{"sent": "man black pants", "ann_id": 487326, "best_split": [1, 5], "split_score": 0.6666666666010757}

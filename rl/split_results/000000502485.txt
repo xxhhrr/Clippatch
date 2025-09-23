@@ -1,0 +1,6 @@
+{"sent": "little horse near", "ann_id": 57461, "best_split": [1, 3], "split_score": 0.43641209745232745}
+{"sent": "close pony", "ann_id": 57461, "best_split": [1, 5], "split_score": 0.3077587351994315}
+{"sent": "horse close to big one smaller one", "ann_id": 57461, "best_split": [1, 2], "split_score": 0.39186065049458463}
+{"sent": "biggest horse", "ann_id": 55748, "best_split": [1, 3], "split_score": 0.4675720821966892}
+{"sent": "biggest horse", "ann_id": 55748, "best_split": [1, 3], "split_score": 0.4675720821966892}
+{"sent": "big horse", "ann_id": 55748, "best_split": [1, 3], "split_score": 0.4675720821966892}

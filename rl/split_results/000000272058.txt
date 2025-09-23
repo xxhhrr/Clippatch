@@ -1,0 +1,5 @@
+{"sent": "table behind the woman", "ann_id": 420856, "best_split": [2, 2], "split_score": 0.44371220340799256}
+{"sent": "table behind woman", "ann_id": 420856, "best_split": [2, 2], "split_score": 0.44371220340799256}
+{"sent": "table with white cake on it", "ann_id": 390963, "best_split": [2, 1], "split_score": 0.7218191963998}
+{"sent": "table with the cake on it", "ann_id": 390963, "best_split": [2, 1], "split_score": 0.7218191963998}
+{"sent": "table with cake on it", "ann_id": 390963, "best_split": [2, 1], "split_score": 0.7218191963998}

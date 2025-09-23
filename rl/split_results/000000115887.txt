@@ -1,0 +1,6 @@
+{"sent": "closed mouth giraffe", "ann_id": 598010, "best_split": [1, 3], "split_score": 0.3173464813855447}
+{"sent": "giraffe with closed mouth", "ann_id": 598010, "best_split": [3, 1], "split_score": 0.2558365380780858}
+{"sent": "giraffe with mouth closed", "ann_id": 598010, "best_split": [3, 1], "split_score": 0.2558365380780858}
+{"sent": "open mouthed giraffe", "ann_id": 595437, "best_split": [1, 2], "split_score": 0.8776307397609363}
+{"sent": "the giraffe with its mouth open", "ann_id": 595437, "best_split": [1, 2], "split_score": 0.8776307397609363}
+{"sent": "girrafe with mouth open", "ann_id": 595437, "best_split": [1, 2], "split_score": 0.8776307397609363}

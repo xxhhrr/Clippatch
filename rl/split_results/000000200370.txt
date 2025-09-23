@@ -1,0 +1,6 @@
+{"sent": "back end of vehicle looks almost green in color", "ann_id": 138211, "best_split": [2, 3], "split_score": 0.23938223935335637}
+{"sent": "car next clock blue", "ann_id": 138211, "best_split": [2, 2], "split_score": 0.15816326529351377}
+{"sent": "mint colored car you can see back of it between railings", "ann_id": 138211, "best_split": [1, 5], "split_score": 0.13496932514043622}
+{"sent": "bright white car", "ann_id": 134625, "best_split": [3, 2], "split_score": 0.6771235520418528}
+{"sent": "white car", "ann_id": 134625, "best_split": [3, 2], "split_score": 0.6771235520418528}
+{"sent": "small white car", "ann_id": 134625, "best_split": [3, 2], "split_score": 0.6771235520418528}

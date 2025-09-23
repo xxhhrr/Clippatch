@@ -1,0 +1,12 @@
+{"sent": "container touching table", "ann_id": 1900773, "best_split": [5, 1], "split_score": 0.8287984110398412}
+{"sent": "lowest tupperware cover", "ann_id": 1900773, "best_split": [5, 1], "split_score": 0.8287984110398412}
+{"sent": "blue lid only of lowest container", "ann_id": 1900773, "best_split": [5, 1], "split_score": 0.8287984110398412}
+{"sent": "container that bananas are on", "ann_id": 1899032, "best_split": [2, 1], "split_score": 0.7279036602526413}
+{"sent": "the container that the bananas are sitting on", "ann_id": 1899032, "best_split": [3, 1], "split_score": 0.45991052446426023}
+{"sent": "container that bananas are sitting on", "ann_id": 1899032, "best_split": [3, 1], "split_score": 0.45991052446426023}
+{"sent": "furthest banana", "ann_id": 1045058, "best_split": [3, 1], "split_score": 0.4771639409415056}
+{"sent": "banana resting on other one", "ann_id": 1045058, "best_split": [3, 1], "split_score": 0.4771639409415056}
+{"sent": "more yellow less brown", "ann_id": 1045058, "best_split": [3, 1], "split_score": 0.4771639409415056}
+{"sent": "closest banana", "ann_id": 1042521, "best_split": [3, 1], "split_score": 0.44843094646276055}
+{"sent": "fruit with lots of round circles", "ann_id": 1042521, "best_split": [3, 1], "split_score": 0.44843094646276055}
+{"sent": "closer banana", "ann_id": 1042521, "best_split": [3, 1], "split_score": 0.44843094646276055}

@@ -1,0 +1,9 @@
+{"sent": "lady talking", "ann_id": 1722053, "best_split": [3, 2], "split_score": 0.4219599522329956}
+{"sent": "lady no glasses", "ann_id": 1722053, "best_split": [3, 1], "split_score": 0.2723149336640002}
+{"sent": "woman with curly hair no glasses", "ann_id": 1722053, "best_split": [1, 3], "split_score": 0.6149250488477664}
+{"sent": "black sweater", "ann_id": 517092, "best_split": [1, 3], "split_score": 0.4966887416922207}
+{"sent": "woman in black", "ann_id": 517092, "best_split": [1, 5], "split_score": 0.7640956679700225}
+{"sent": "chin in hand woman", "ann_id": 517092, "best_split": [1, 3], "split_score": 0.4966887416922207}
+{"sent": "man", "ann_id": 463616, "best_split": [3, 3], "split_score": 0.640784212480229}
+{"sent": "man", "ann_id": 463616, "best_split": [3, 3], "split_score": 0.640784212480229}
+{"sent": "man", "ann_id": 463616, "best_split": [3, 3], "split_score": 0.640784212480229}

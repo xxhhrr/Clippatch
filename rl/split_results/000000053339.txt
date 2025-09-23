@@ -1,0 +1,6 @@
+{"sent": "pink shirt", "ann_id": 229717, "best_split": [1, 5], "split_score": 0.6164987405056283}
+{"sent": "red shirt", "ann_id": 229717, "best_split": [1, 2], "split_score": 0.42570153059527654}
+{"sent": "pink shirt guy", "ann_id": 229717, "best_split": [1, 5], "split_score": 0.6164987405056283}
+{"sent": "white plaid shirt", "ann_id": 216148, "best_split": [1, 3], "split_score": 0.8916215089089726}
+{"sent": "man holding wii", "ann_id": 216148, "best_split": [2, 1], "split_score": 0.23106546854236}
+{"sent": "white shirt", "ann_id": 216148, "best_split": [1, 3], "split_score": 0.8916215089089726}

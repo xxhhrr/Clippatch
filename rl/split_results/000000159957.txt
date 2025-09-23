@@ -1,0 +1,5 @@
+{"sent": "pole to umbrella that is going up off screen", "ann_id": 282565, "best_split": [2, 1], "split_score": 0.4419182164217781}
+{"sent": "tallest umbrella", "ann_id": 282565, "best_split": [2, 1], "split_score": 0.4419182164217781}
+{"sent": "the umbrella above the people", "ann_id": 282227, "best_split": [1, 2], "split_score": 0.6328304781183575}
+{"sent": "umbrella between people", "ann_id": 282227, "best_split": [1, 2], "split_score": 0.6328304781183575}
+{"sent": "main umbrella", "ann_id": 282227, "best_split": [1, 2], "split_score": 0.6328304781183575}

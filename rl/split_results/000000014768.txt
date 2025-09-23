@@ -1,0 +1,9 @@
+{"sent": "man with purple shirt and jeans mostly out of frame", "ann_id": 1721616, "best_split": [2, 3], "split_score": 0.5934715316955753}
+{"sent": "purple shirt", "ann_id": 1721616, "best_split": [2, 3], "split_score": 0.5934715316955753}
+{"sent": "person in purple", "ann_id": 1721616, "best_split": [2, 3], "split_score": 0.5934715316955753}
+{"sent": "boy", "ann_id": 1244426, "best_split": [1, 3], "split_score": 0.5296414112012131}
+{"sent": "boy", "ann_id": 1244426, "best_split": [1, 3], "split_score": 0.5296414112012131}
+{"sent": "boy", "ann_id": 1244426, "best_split": [1, 3], "split_score": 0.5296414112012131}
+{"sent": "person in white", "ann_id": 462120, "best_split": [2, 1], "split_score": 0.24358113150307578}
+{"sent": "white pants in back", "ann_id": 462120, "best_split": [2, 3], "split_score": 0.3614864864567002}
+{"sent": "person in mint green", "ann_id": 462120, "best_split": [1, 5], "split_score": 0.3673191746377961}

@@ -1,0 +1,6 @@
+{"sent": "tan and white shirt", "ann_id": 471310, "best_split": [3, 3], "split_score": 0.484666455819686}
+{"sent": "person in striped", "ann_id": 471310, "best_split": [1, 5], "split_score": 0.2607103624807112}
+{"sent": "striped sweater in back", "ann_id": 471310, "best_split": [3, 3], "split_score": 0.484666455819686}
+{"sent": "woman", "ann_id": 438327, "best_split": [2, 3], "split_score": 0.784848484774162}
+{"sent": "lady at table", "ann_id": 438327, "best_split": [2, 1], "split_score": 0.38213399502240486}
+{"sent": "woman sitting", "ann_id": 438327, "best_split": [2, 3], "split_score": 0.784848484774162}

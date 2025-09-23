@@ -1,0 +1,6 @@
+{"sent": "cow following", "ann_id": 75660, "best_split": [2, 1], "split_score": 0.20544181844778556}
+{"sent": "back cow", "ann_id": 75660, "best_split": [2, 1], "split_score": 0.20544181844778556}
+{"sent": "the cow with no horns", "ann_id": 75660, "best_split": [2, 1], "split_score": 0.20544181844778556}
+{"sent": "the one close to us", "ann_id": 73277, "best_split": [1, 2], "split_score": 0.6342880619604916}
+{"sent": "the most visible cow", "ann_id": 73277, "best_split": [1, 2], "split_score": 0.6342880619604916}
+{"sent": "bull ahead", "ann_id": 73277, "best_split": [1, 2], "split_score": 0.6342880619604916}

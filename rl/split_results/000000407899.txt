@@ -1,0 +1,6 @@
+{"sent": "fake cat", "ann_id": 2066550, "best_split": [3, 1], "split_score": 0.5091795488750291}
+{"sent": "stuffed cat", "ann_id": 2066550, "best_split": [2, 1], "split_score": 0.5846073182685411}
+{"sent": "toy", "ann_id": 2066550, "best_split": [2, 1], "split_score": 0.5846073182685411}
+{"sent": "real cat", "ann_id": 48685, "best_split": [1, 2], "split_score": 0.694875956387835}
+{"sent": "real cat", "ann_id": 48685, "best_split": [1, 2], "split_score": 0.694875956387835}
+{"sent": "cat", "ann_id": 48685, "best_split": [1, 2], "split_score": 0.694875956387835}

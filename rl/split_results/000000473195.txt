@@ -1,0 +1,5 @@
+{"sent": "train with pretty stripes", "ann_id": 173848, "best_split": [3, 1], "split_score": 0.3250366032062117}
+{"sent": "blue train", "ann_id": 173848, "best_split": [3, 1], "split_score": 0.3250366032062117}
+{"sent": "red bumper", "ann_id": 170938, "best_split": [1, 2], "split_score": 0.6502123869330566}
+{"sent": "black engine", "ann_id": 170938, "best_split": [1, 2], "split_score": 0.6502123869330566}
+{"sent": "black train", "ann_id": 170938, "best_split": [1, 2], "split_score": 0.6502123869330566}

@@ -1,0 +1,7 @@
+{"sent": "the one in white", "ann_id": 2206583, "best_split": [3, 1], "split_score": 0.40159690598210973}
+{"sent": "white shirt player", "ann_id": 2206583, "best_split": [2, 1], "split_score": 0.4079127594455823}
+{"sent": "in white", "ann_id": 2206583, "best_split": [3, 1], "split_score": 0.40159690598210973}
+{"sent": "player has 10 on shirt", "ann_id": 1740462, "best_split": [2, 1], "split_score": 0.25410737385982834}
+{"sent": "10", "ann_id": 1740462, "best_split": [1, 2], "split_score": 0.5456393494680469}
+{"sent": "10", "ann_id": 1740462, "best_split": [1, 2], "split_score": 0.5456393494680469}
+{"sent": "man partially out of frame", "ann_id": 492036, "best_split": [1, 2], "split_score": 0.6422193877295034}

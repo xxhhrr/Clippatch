@@ -1,0 +1,8 @@
+{"sent": "vase holding tallest flower", "ann_id": 1154905, "best_split": [3, 1], "split_score": 0.1479377104299275}
+{"sent": "the vase with the tallest flower", "ann_id": 1154905, "best_split": [3, 1], "split_score": 0.1479377104299275}
+{"sent": "no 3", "ann_id": 1154905, "best_split": [2, 3], "split_score": 0.13552068472471926}
+{"sent": "vase of flower drooping", "ann_id": 1152539, "best_split": [3, 3], "split_score": 0.36175032784526645}
+{"sent": "vase with wilted flower", "ann_id": 1152539, "best_split": [3, 3], "split_score": 0.36175032784526645}
+{"sent": "vase of the flower tilting over", "ann_id": 1152539, "best_split": [3, 3], "split_score": 0.36175032784526645}
+{"sent": "next to center area on side of hand least used by most people", "ann_id": 1151495, "best_split": [1, 2], "split_score": 0.2311862244805809}
+{"sent": "vase touching drooping flower", "ann_id": 1151495, "best_split": [1, 5], "split_score": 0.5001916442602345}

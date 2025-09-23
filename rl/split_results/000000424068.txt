@@ -1,0 +1,5 @@
+{"sent": "chair with date", "ann_id": 98252, "best_split": [3, 2], "split_score": 0.5990470517451999}
+{"sent": "date on couch", "ann_id": 98252, "best_split": [3, 2], "split_score": 0.5990470517451999}
+{"sent": "couch with one pillow", "ann_id": 97789, "best_split": [3, 3], "split_score": 0.573121921094039}
+{"sent": "sofa with back to window", "ann_id": 97789, "best_split": [3, 3], "split_score": 0.573121921094039}
+{"sent": "couch closest to windowed door", "ann_id": 97789, "best_split": [3, 3], "split_score": 0.573121921094039}

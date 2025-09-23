@@ -1,0 +1,6 @@
+{"sent": "green car in view", "ann_id": 1366985, "best_split": [3, 2], "split_score": 0.5220907983543146}
+{"sent": "green train", "ann_id": 1366985, "best_split": [3, 2], "split_score": 0.5220907983543146}
+{"sent": "green engine going away", "ann_id": 1366985, "best_split": [3, 2], "split_score": 0.5220907983543146}
+{"sent": "blue train", "ann_id": 170592, "best_split": [3, 2], "split_score": 0.2396351575207675}
+{"sent": "blue train", "ann_id": 170592, "best_split": [3, 2], "split_score": 0.2396351575207675}
+{"sent": "blue on it", "ann_id": 170592, "best_split": [2, 2], "split_score": 0.29272959181339847}

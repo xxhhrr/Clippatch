@@ -1,0 +1,8 @@
+{"sent": "farthest slice", "ann_id": 1075605, "best_split": [2, 1], "split_score": 0.12255772646147685}
+{"sent": "furthest slice", "ann_id": 1075605, "best_split": [2, 1], "split_score": 0.12255772646147685}
+{"sent": "not outer slice", "ann_id": 1073535, "best_split": [3, 1], "split_score": 0.4144368388116972}
+{"sent": "slice with cheese showing", "ann_id": 1073535, "best_split": [3, 1], "split_score": 0.4144368388116972}
+{"sent": "skinny piece", "ann_id": 1073535, "best_split": [1, 3], "split_score": 0.3915515130141879}
+{"sent": "lowest slice", "ann_id": 1073347, "best_split": [2, 1], "split_score": 0.47560975608070016}
+{"sent": "closest slice", "ann_id": 1073347, "best_split": [2, 1], "split_score": 0.47560975608070016}
+{"sent": "foreground slice", "ann_id": 1073347, "best_split": [2, 1], "split_score": 0.47560975608070016}

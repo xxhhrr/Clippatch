@@ -1,0 +1,21 @@
+{"sent": "wwhite pants guy", "ann_id": 530628, "best_split": [2, 3], "split_score": 0.24082733810783927}
+{"sent": "white man in gray with glasses", "ann_id": 530628, "best_split": [2, 1], "split_score": 0.08986642920427902}
+{"sent": "bald man with glasses", "ann_id": 530628, "best_split": [2, 1], "split_score": 0.08986642920427902}
+{"sent": "man on very end with glasses", "ann_id": 527887, "best_split": [1, 5], "split_score": 0.7844076237156969}
+{"sent": "gray haired man with glasses wearing dark jacket", "ann_id": 527887, "best_split": [1, 2], "split_score": 0.34976881376156854}
+{"sent": "guy 7", "ann_id": 527887, "best_split": [2, 1], "split_score": 0.1290301070206705}
+{"sent": "african american man by the framed art", "ann_id": 520438, "best_split": [1, 5], "split_score": 0.6694214875404375}
+{"sent": "black man with painting behind", "ann_id": 520438, "best_split": [1, 5], "split_score": 0.6694214875404375}
+{"sent": "elderly black man", "ann_id": 520438, "best_split": [1, 5], "split_score": 0.6694214875404375}
+{"sent": "man with red tie", "ann_id": 495701, "best_split": [1, 5], "split_score": 0.42670425419214897}
+{"sent": "red tie", "ann_id": 495701, "best_split": [1, 5], "split_score": 0.42670425419214897}
+{"sent": "man in red tie", "ann_id": 495701, "best_split": [1, 5], "split_score": 0.42670425419214897}
+{"sent": "white man dark tie short", "ann_id": 2157110, "best_split": [1, 5], "split_score": 0.38677282182332645}
+{"sent": "middle guy gray tie", "ann_id": 2157110, "best_split": [1, 5], "split_score": 0.38677282182332645}
+{"sent": "man gray tie gray pants center", "ann_id": 2157110, "best_split": [1, 5], "split_score": 0.38677282182332645}
+{"sent": "farthest man with glasses and gray tie", "ann_id": 459160, "best_split": [1, 3], "split_score": 0.15187294288951084}
+{"sent": "man behind 2 men", "ann_id": 459160, "best_split": [1, 3], "split_score": 0.15187294288951084}
+{"sent": "man in purple spotted tie and glasses", "ann_id": 459160, "best_split": [1, 3], "split_score": 0.15187294288951084}
+{"sent": "grinning guy", "ann_id": 443003, "best_split": [3, 2], "split_score": 0.16481124447012804}
+{"sent": "black man in black suit", "ann_id": 443003, "best_split": [1, 3], "split_score": 0.6298865829735831}
+{"sent": "black man in solid dark suit", "ann_id": 443003, "best_split": [1, 2], "split_score": 0.4161750637589216}

@@ -1,0 +1,3 @@
+{"sent": "white parked car", "ann_id": 134009, "best_split": [1, 5], "split_score": 0.5590377773539693}
+{"sent": "the white car closest to us", "ann_id": 134009, "best_split": [1, 3], "split_score": 0.5158059845248669}
+{"sent": "white parked car near us", "ann_id": 134009, "best_split": [1, 5], "split_score": 0.5590377773539693}

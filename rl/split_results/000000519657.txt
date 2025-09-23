@@ -1,0 +1,9 @@
+{"sent": "brown cow", "ann_id": 76793, "best_split": [2, 3], "split_score": 0.23775216135881513}
+{"sent": "brown cow", "ann_id": 76793, "best_split": [2, 3], "split_score": 0.23775216135881513}
+{"sent": "lighest brown", "ann_id": 76793, "best_split": [1, 5], "split_score": 0.29726118901638887}
+{"sent": "the black cow with its bum in the brown cows face", "ann_id": 76762, "best_split": [3, 1], "split_score": 0.16598860861525117}
+{"sent": "cow hiding brown cow head", "ann_id": 76762, "best_split": [3, 1], "split_score": 0.16598860861525117}
+{"sent": "cow black head down not closest one", "ann_id": 76762, "best_split": [3, 1], "split_score": 0.16598860861525117}
+{"sent": "cow by bird", "ann_id": 73117, "best_split": [3, 2], "split_score": 0.4765277866909313}
+{"sent": "closest cow", "ann_id": 73117, "best_split": [3, 2], "split_score": 0.4765277866909313}
+{"sent": "next to white bird", "ann_id": 73117, "best_split": [1, 2], "split_score": 0.4379456368150152}

@@ -1,0 +1,6 @@
+{"sent": "glass half out of frame", "ann_id": 681690, "best_split": [3, 1], "split_score": 0.16602316601315015}
+{"sent": "glass almost completely visible", "ann_id": 681690, "best_split": [3, 1], "split_score": 0.16602316601315015}
+{"sent": "shake farthest from you", "ann_id": 681690, "best_split": [3, 3], "split_score": 0.5025566105729443}
+{"sent": "the frothy drink", "ann_id": 678430, "best_split": [2, 3], "split_score": 0.6751304004846835}
+{"sent": "drink full in view", "ann_id": 678430, "best_split": [2, 3], "split_score": 0.6751304004846835}
+{"sent": "close drink", "ann_id": 678430, "best_split": [2, 3], "split_score": 0.6751304004846835}

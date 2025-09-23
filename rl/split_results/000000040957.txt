@@ -1,0 +1,7 @@
+{"sent": "stripe shirt", "ann_id": 1750742, "best_split": [1, 3], "split_score": 0.6968574500718809}
+{"sent": "stripes", "ann_id": 1750742, "best_split": [1, 3], "split_score": 0.6968574500718809}
+{"sent": "striped shirt", "ann_id": 1750742, "best_split": [1, 3], "split_score": 0.6968574500718809}
+{"sent": "person in white sweater", "ann_id": 444408, "best_split": [2, 1], "split_score": 0.5287935550002058}
+{"sent": "woman white sweater", "ann_id": 444408, "best_split": [2, 1], "split_score": 0.5287935550002058}
+{"sent": "white sweater", "ann_id": 444408, "best_split": [2, 1], "split_score": 0.5287935550002058}
+{"sent": "white shirt", "ann_id": 444408, "best_split": [2, 1], "split_score": 0.5287935550002058}

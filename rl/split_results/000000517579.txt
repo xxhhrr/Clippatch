@@ -1,0 +1,6 @@
+{"sent": "horse with lady", "ann_id": 58686, "best_split": [2, 2], "split_score": 0.1674022698480925}
+{"sent": "the darkest horse", "ann_id": 58686, "best_split": [2, 2], "split_score": 0.1674022698480925}
+{"sent": "8 o clock horse", "ann_id": 58686, "best_split": [2, 2], "split_score": 0.1674022698480925}
+{"sent": "brown horse close to white horse", "ann_id": 56575, "best_split": [1, 5], "split_score": 0.38169642853270125}
+{"sent": "brown horse longest tail", "ann_id": 56575, "best_split": [1, 5], "split_score": 0.38169642853270125}
+{"sent": "horse between the white and brown one", "ann_id": 56575, "best_split": [1, 5], "split_score": 0.38169642853270125}

@@ -1,0 +1,6 @@
+{"sent": "blue sweater man", "ann_id": 519808, "best_split": [1, 2], "split_score": 0.8457429846601665}
+{"sent": "man in blue", "ann_id": 519808, "best_split": [1, 2], "split_score": 0.8457429846601665}
+{"sent": "old man", "ann_id": 519808, "best_split": [1, 2], "split_score": 0.8457429846601665}
+{"sent": "old lady playing wii", "ann_id": 484494, "best_split": [1, 3], "split_score": 0.654177943138778}
+{"sent": "old lady with wii remote", "ann_id": 484494, "best_split": [1, 3], "split_score": 0.654177943138778}
+{"sent": "woman with tongue out", "ann_id": 484494, "best_split": [1, 2], "split_score": 0.8985172193519405}

@@ -1,0 +1,6 @@
+{"sent": "lighter colored animal", "ann_id": 15966, "best_split": [1, 5], "split_score": 0.3013415892390148}
+{"sent": "white dog", "ann_id": 15966, "best_split": [1, 5], "split_score": 0.3013415892390148}
+{"sent": "lighter colored dog", "ann_id": 15966, "best_split": [1, 5], "split_score": 0.3013415892390148}
+{"sent": "the black one", "ann_id": 8173, "best_split": [3, 1], "split_score": 0.5034013605210792}
+{"sent": "black dog", "ann_id": 8173, "best_split": [3, 1], "split_score": 0.5034013605210792}
+{"sent": "dark dog", "ann_id": 8173, "best_split": [3, 1], "split_score": 0.5034013605210792}

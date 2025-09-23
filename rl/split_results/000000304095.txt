@@ -1,0 +1,12 @@
+{"sent": "the sink", "ann_id": 1136610, "best_split": [3, 1], "split_score": 0.3822190270559418}
+{"sent": "sink not in mirror", "ann_id": 1136610, "best_split": [3, 1], "split_score": 0.3822190270559418}
+{"sent": "actual sink not mirror image", "ann_id": 1136610, "best_split": [3, 1], "split_score": 0.3822190270559418}
+{"sent": "sink in reflection", "ann_id": 1134352, "best_split": [2, 1], "split_score": 0.21871014029740474}
+{"sent": "sink reflection", "ann_id": 1134352, "best_split": [2, 1], "split_score": 0.21871014029740474}
+{"sent": "fartherest sink", "ann_id": 1134352, "best_split": [2, 1], "split_score": 0.21871014029740474}
+{"sent": "guy", "ann_id": 502940, "best_split": [2, 1], "split_score": 0.009555137844312183}
+{"sent": "man", "ann_id": 502940, "best_split": [3, 1], "split_score": 0.23511641230089503}
+{"sent": "man", "ann_id": 502940, "best_split": [3, 1], "split_score": 0.23511641230089503}
+{"sent": "lady", "ann_id": 461403, "best_split": [2, 3], "split_score": 0.5985507245834646}
+{"sent": "person taking selfie", "ann_id": 461403, "best_split": [2, 3], "split_score": 0.5985507245834646}
+{"sent": "woman", "ann_id": 461403, "best_split": [2, 3], "split_score": 0.5985507245834646}

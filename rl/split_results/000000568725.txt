@@ -1,0 +1,6 @@
+{"sent": "tire", "ann_id": 1347383, "best_split": [2, 2], "split_score": 0.688441919737512}
+{"sent": "yellow in back", "ann_id": 1347383, "best_split": [2, 2], "split_score": 0.688441919737512}
+{"sent": "yellow car", "ann_id": 1347383, "best_split": [2, 1], "split_score": 0.6610730229328335}
+{"sent": "red car", "ann_id": 242699, "best_split": [1, 2], "split_score": 0.9165736606777514}
+{"sent": "red", "ann_id": 242699, "best_split": [1, 2], "split_score": 0.9165736606777514}
+{"sent": "red sorry ment sec kid", "ann_id": 242699, "best_split": [1, 2], "split_score": 0.9165736606777514}

@@ -1,0 +1,12 @@
+{"sent": "pink", "ann_id": 1222916, "best_split": [1, 5], "split_score": 0.39767666985501676}
+{"sent": "pink woman", "ann_id": 1222916, "best_split": [1, 5], "split_score": 0.39767666985501676}
+{"sent": "woman in pink", "ann_id": 1222916, "best_split": [1, 5], "split_score": 0.39767666985501676}
+{"sent": "no hat guy", "ann_id": 517616, "best_split": [1, 2], "split_score": 0.7586134009455854}
+{"sent": "dude in white and mustache", "ann_id": 517616, "best_split": [1, 2], "split_score": 0.7586134009455854}
+{"sent": "closest man", "ann_id": 517616, "best_split": [2, 1], "split_score": 0.3829787233936453}
+{"sent": "light beige sweatshirt with his back to us", "ann_id": 513760, "best_split": [1, 3], "split_score": 0.2388996138852015}
+{"sent": "white hoodie", "ann_id": 513760, "best_split": [1, 3], "split_score": 0.2388996138852015}
+{"sent": "guy with tan hoodie", "ann_id": 513760, "best_split": [2, 3], "split_score": 0.18521385715258235}
+{"sent": "tan jacket", "ann_id": 506328, "best_split": [1, 2], "split_score": 0.8334263392524942}
+{"sent": "tand coat", "ann_id": 506328, "best_split": [2, 1], "split_score": 0.322893298811536}
+{"sent": "red hat", "ann_id": 506328, "best_split": [1, 2], "split_score": 0.8334263392524942}

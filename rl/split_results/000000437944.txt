@@ -1,0 +1,6 @@
+{"sent": "lady decorating cake", "ann_id": 1207300, "best_split": [3, 2], "split_score": 0.4832697387376526}
+{"sent": "woman cutting the cake", "ann_id": 1207300, "best_split": [3, 2], "split_score": 0.4832697387376526}
+{"sent": "woman with knife cutting cake", "ann_id": 1207300, "best_split": [3, 2], "split_score": 0.4832697387376526}
+{"sent": "man sitting at counter", "ann_id": 1701977, "best_split": [1, 2], "split_score": 0.215242346930196}
+{"sent": "man white visor", "ann_id": 1701977, "best_split": [1, 5], "split_score": 0.3505665722069258}
+{"sent": "man with baseball cap", "ann_id": 1701977, "best_split": [1, 5], "split_score": 0.3505665722069258}

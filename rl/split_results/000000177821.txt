@@ -1,0 +1,6 @@
+{"sent": "person in yellow shirt", "ann_id": 530639, "best_split": [1, 2], "split_score": 0.7560222359189306}
+{"sent": "yellow", "ann_id": 530639, "best_split": [1, 2], "split_score": 0.7560222359189306}
+{"sent": "yellow shirt", "ann_id": 530639, "best_split": [1, 2], "split_score": 0.7560222359189306}
+{"sent": "catcher", "ann_id": 478241, "best_split": [2, 1], "split_score": 0.383352872201665}
+{"sent": "the catcher", "ann_id": 478241, "best_split": [2, 1], "split_score": 0.383352872201665}
+{"sent": "catcher", "ann_id": 478241, "best_split": [2, 1], "split_score": 0.383352872201665}

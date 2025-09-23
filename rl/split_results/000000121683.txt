@@ -1,0 +1,17 @@
+{"sent": "woman in pink", "ann_id": 2165278, "best_split": [3, 2], "split_score": 0.6068613814781106}
+{"sent": "pink", "ann_id": 2165278, "best_split": [3, 2], "split_score": 0.6068613814781106}
+{"sent": "pink sweatshirt", "ann_id": 2165278, "best_split": [3, 2], "split_score": 0.6068613814781106}
+{"sent": "laptop back to back to typewriter", "ann_id": 1627462, "best_split": [1, 2], "split_score": 0.13751594387206967}
+{"sent": "backward screen behind typewriter", "ann_id": 1627462, "best_split": [1, 5], "split_score": 0.29561830571610337}
+{"sent": "laptop by typewriter", "ann_id": 1627462, "best_split": [1, 2], "split_score": 0.13751594387206967}
+{"sent": "laptop belonging to pink shirt", "ann_id": 1626944, "best_split": [3, 3], "split_score": 0.5260184358421025}
+{"sent": "pc pink shirt is using", "ann_id": 1626944, "best_split": [3, 1], "split_score": 0.2193367958324675}
+{"sent": "laptop of woman in pink", "ann_id": 1626944, "best_split": [1, 3], "split_score": 0.2599669733274377}
+{"sent": "black shirt", "ann_id": 1257555, "best_split": [1, 2], "split_score": 0.24071269131693587}
+{"sent": "green shirt", "ann_id": 1257555, "best_split": [2, 3], "split_score": 0.7082389411341077}
+{"sent": "green shirt by pink shirt", "ann_id": 1257555, "best_split": [2, 3], "split_score": 0.7082389411341077}
+{"sent": "silver laptop", "ann_id": 1100091, "best_split": [2, 3], "split_score": 0.8434408601243611}
+{"sent": "laptop", "ann_id": 1100091, "best_split": [2, 3], "split_score": 0.8434408601243611}
+{"sent": "who is holding the blue mug", "ann_id": 478056, "best_split": [1, 3], "split_score": 0.6033421814307829}
+{"sent": "hands holding cup", "ann_id": 478056, "best_split": [2, 3], "split_score": 0.7577126380819112}
+{"sent": "white robe", "ann_id": 478056, "best_split": [2, 3], "split_score": 0.7577126380819112}

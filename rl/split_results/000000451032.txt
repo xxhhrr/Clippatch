@@ -1,0 +1,5 @@
+{"sent": "table area near drinks and glasses and plates and grabage cans", "ann_id": 1965898, "best_split": [5, 1], "split_score": 0.38040345817899823}
+{"sent": "table glasses and cakes", "ann_id": 1965898, "best_split": [5, 1], "split_score": 0.38040345817899823}
+{"sent": "table with glasses on it", "ann_id": 1965898, "best_split": [5, 1], "split_score": 0.38040345817899823}
+{"sent": "lots of sauces on table", "ann_id": 122810, "best_split": [3, 3], "split_score": 0.4931531860057373}
+{"sent": "closest table", "ann_id": 122810, "best_split": [3, 3], "split_score": 0.4931531860057373}

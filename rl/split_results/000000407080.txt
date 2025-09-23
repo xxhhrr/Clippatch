@@ -1,0 +1,9 @@
+{"sent": "boy in ed jersey sitting beside old man", "ann_id": 1718906, "best_split": [3, 1], "split_score": 0.1532593619883692}
+{"sent": "kid in red on bench", "ann_id": 1718906, "best_split": [3, 1], "split_score": 0.1532593619883692}
+{"sent": "kid not batter", "ann_id": 1718906, "best_split": [2, 1], "split_score": 0.028171048828800525}
+{"sent": "man in red shirt", "ann_id": 528526, "best_split": [3, 3], "split_score": 0.2700012442117704}
+{"sent": "old man in red shirt", "ann_id": 528526, "best_split": [3, 3], "split_score": 0.2700012442117704}
+{"sent": "old man watching", "ann_id": 528526, "best_split": [3, 2], "split_score": 0.44190940298572273}
+{"sent": "batter", "ann_id": 513566, "best_split": [1, 3], "split_score": 0.4617599999815296}
+{"sent": "boy with bat", "ann_id": 513566, "best_split": [1, 3], "split_score": 0.4617599999815296}
+{"sent": "batter", "ann_id": 513566, "best_split": [1, 3], "split_score": 0.4617599999815296}

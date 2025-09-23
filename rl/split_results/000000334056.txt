@@ -1,0 +1,8 @@
+{"sent": "lowest chair", "ann_id": 290322, "best_split": [3, 1], "split_score": 0.2693050192887726}
+{"sent": "chair closest to you", "ann_id": 290322, "best_split": [3, 1], "split_score": 0.2693050192887726}
+{"sent": "chai at 6 o clock", "ann_id": 290322, "best_split": [2, 1], "split_score": 0.17793367346229538}
+{"sent": "chair away from table", "ann_id": 101337, "best_split": [3, 2], "split_score": 0.41863233061906163}
+{"sent": "blue chair farthes from table", "ann_id": 101337, "best_split": [3, 3], "split_score": 0.6017107308550994}
+{"sent": "chair pulled out at 8 o clock", "ann_id": 101337, "best_split": [3, 3], "split_score": 0.6017107308550994}
+{"sent": "chair by the table at 7 o clock", "ann_id": 290584, "best_split": [3, 2], "split_score": 0.42818305387084465}
+{"sent": "chair at 7", "ann_id": 290584, "best_split": [3, 2], "split_score": 0.42818305387084465}

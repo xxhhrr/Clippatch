@@ -1,0 +1,9 @@
+{"sent": "gray t shirt", "ann_id": 1218761, "best_split": [1, 5], "split_score": 0.4281767955378673}
+{"sent": "woman black pants", "ann_id": 1218761, "best_split": [2, 3], "split_score": 0.3863172591143468}
+{"sent": "woman gray shirt", "ann_id": 1218761, "best_split": [1, 5], "split_score": 0.4281767955378673}
+{"sent": "man in tie", "ann_id": 494485, "best_split": [1, 3], "split_score": 0.7795608107637813}
+{"sent": "dude in tie", "ann_id": 494485, "best_split": [1, 3], "split_score": 0.7795608107637813}
+{"sent": "blue striped tie", "ann_id": 494485, "best_split": [1, 3], "split_score": 0.7795608107637813}
+{"sent": "tank lady", "ann_id": 484224, "best_split": [2, 2], "split_score": 0.3035764375663691}
+{"sent": "woman black shirt", "ann_id": 484224, "best_split": [2, 2], "split_score": 0.3035764375663691}
+{"sent": "lady black tank shirt", "ann_id": 484224, "best_split": [2, 2], "split_score": 0.3035764375663691}

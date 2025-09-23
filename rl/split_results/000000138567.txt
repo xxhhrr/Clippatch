@@ -1,0 +1,5 @@
+{"sent": "black thing next to cat", "ann_id": 1816419, "best_split": [3, 1], "split_score": 0.2571825534532237}
+{"sent": "object near womans hand", "ann_id": 1816419, "best_split": [1, 2], "split_score": 0.1798661461175451}
+{"sent": "black blur not a cat or human", "ann_id": 1816419, "best_split": [3, 1], "split_score": 0.2571825534532237}
+{"sent": "cat not by lady", "ann_id": 51627, "best_split": [1, 2], "split_score": 0.8074684771786245}
+{"sent": "large cat of evil", "ann_id": 51627, "best_split": [1, 2], "split_score": 0.8074684771786245}

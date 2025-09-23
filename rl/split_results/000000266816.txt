@@ -1,0 +1,7 @@
+{"sent": "bird that is facing the cat", "ann_id": 42998, "best_split": [3, 1], "split_score": 0.26996351842782074}
+{"sent": "the bird looking at the cat", "ann_id": 42998, "best_split": [3, 2], "split_score": 0.5190958689990985}
+{"sent": "vulture", "ann_id": 42998, "best_split": [3, 3], "split_score": 0.7557140540191742}
+{"sent": "bird farthest from cat", "ann_id": 42998, "best_split": [3, 2], "split_score": 0.5190958689990985}
+{"sent": "animal next to the cat", "ann_id": 41962, "best_split": [3, 1], "split_score": 0.27007299268532886}
+{"sent": "black crow face covered", "ann_id": 41962, "best_split": [3, 2], "split_score": 0.4105305627990185}
+{"sent": "bird closest to cat", "ann_id": 41962, "best_split": [3, 1], "split_score": 0.27007299268532886}

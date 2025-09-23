@@ -1,0 +1,5 @@
+{"sent": "train no red on side", "ann_id": 174562, "best_split": [3, 1], "split_score": 0.3672277901932846}
+{"sent": "darker yellow train", "ann_id": 174562, "best_split": [3, 1], "split_score": 0.3672277901932846}
+{"sent": "the train with the arrow pointing to it with the 3 beside it", "ann_id": 174443, "best_split": [3, 2], "split_score": 0.6528713506053199}
+{"sent": "lighter yellow train", "ann_id": 174443, "best_split": [3, 2], "split_score": 0.6528713506053199}
+{"sent": "train 9 o clock", "ann_id": 174443, "best_split": [3, 2], "split_score": 0.6528713506053199}

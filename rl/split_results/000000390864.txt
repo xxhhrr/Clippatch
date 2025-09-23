@@ -1,0 +1,5 @@
+{"sent": "bird on lowest part of branch", "ann_id": 43253, "best_split": [2, 3], "split_score": 0.3674360573541863}
+{"sent": "number two bird", "ann_id": 43253, "best_split": [3, 3], "split_score": 0.3530489400218465}
+{"sent": "the fatter bird", "ann_id": 43253, "best_split": [3, 3], "split_score": 0.3530489400218465}
+{"sent": "bird 1 left to right", "ann_id": 42011, "best_split": [3, 3], "split_score": 0.2466136314505898}
+{"sent": "bird at 900", "ann_id": 42011, "best_split": [1, 5], "split_score": 0.3129520052339783}

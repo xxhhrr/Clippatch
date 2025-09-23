@@ -1,0 +1,6 @@
+{"sent": "bed half in picture", "ann_id": 319693, "best_split": [3, 2], "split_score": 0.7939189188231275}
+{"sent": "empty bed", "ann_id": 319693, "best_split": [3, 2], "split_score": 0.7939189188231275}
+{"sent": "bed without man", "ann_id": 319693, "best_split": [3, 2], "split_score": 0.7939189188231275}
+{"sent": "bed under the guy", "ann_id": 317803, "best_split": [2, 1], "split_score": 0.5735012754873445}
+{"sent": "bed man laying on", "ann_id": 317803, "best_split": [2, 1], "split_score": 0.5735012754873445}
+{"sent": "the bed the man is in", "ann_id": 317803, "best_split": [2, 1], "split_score": 0.5735012754873445}

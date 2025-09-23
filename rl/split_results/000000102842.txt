@@ -1,0 +1,13 @@
+{"sent": "big elephant in corner obscured", "ann_id": 1821033, "best_split": [2, 1], "split_score": 0.23336193160211538}
+{"sent": "elephant at 3 pm", "ann_id": 1821033, "best_split": [2, 1], "split_score": 0.23336193160211538}
+{"sent": "elephant facing other elephants", "ann_id": 584953, "best_split": [2, 1], "split_score": 0.1126780831741926}
+{"sent": "not the baby but the bigger baby", "ann_id": 584953, "best_split": [2, 2], "split_score": 0.5867306640387185}
+{"sent": "elephant at 4 o clock", "ann_id": 584953, "best_split": [2, 1], "split_score": 0.1126780831741926}
+{"sent": "baby", "ann_id": 584676, "best_split": [2, 2], "split_score": 0.42918395571029155}
+{"sent": "the smallest", "ann_id": 584676, "best_split": [2, 2], "split_score": 0.42918395571029155}
+{"sent": "baby elephant with mouth open", "ann_id": 584676, "best_split": [1, 2], "split_score": 0.29665781663686325}
+{"sent": "most complete elephant facing us", "ann_id": 584470, "best_split": [1, 2], "split_score": 0.8016183035394763}
+{"sent": "big elephant with truck curved", "ann_id": 584470, "best_split": [1, 3], "split_score": 0.8043082673090882}
+{"sent": "elephant number 2", "ann_id": 584128, "best_split": [1, 3], "split_score": 0.6188908226812695}
+{"sent": "tall elephant near baby with trunk showing", "ann_id": 584128, "best_split": [1, 3], "split_score": 0.6188908226812695}
+{"sent": "middle big elephant row the elephant in between the two big ones", "ann_id": 584128, "best_split": [1, 3], "split_score": 0.6188908226812695}

@@ -1,0 +1,6 @@
+{"sent": "the piece of cke", "ann_id": 1086146, "best_split": [3, 3], "split_score": 0.4711160964005726}
+{"sent": "cake slice", "ann_id": 1086146, "best_split": [3, 3], "split_score": 0.4711160964005726}
+{"sent": "piece of cake", "ann_id": 1086146, "best_split": [3, 3], "split_score": 0.4711160964005726}
+{"sent": "rest of pie", "ann_id": 1084967, "best_split": [3, 1], "split_score": 0.3113492520026126}
+{"sent": "the cake not the slice", "ann_id": 1084967, "best_split": [1, 2], "split_score": 0.6790353889547919}
+{"sent": "round bread", "ann_id": 1084967, "best_split": [1, 2], "split_score": 0.6790353889547919}

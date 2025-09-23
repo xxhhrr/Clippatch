@@ -1,0 +1,6 @@
+{"sent": "bat chair by man", "ann_id": 104326, "best_split": [1, 5], "split_score": 0.2574698029009654}
+{"sent": "chair next to pole", "ann_id": 104326, "best_split": [3, 2], "split_score": 0.24700385941021694}
+{"sent": "folding chair not behind plant", "ann_id": 104326, "best_split": [3, 2], "split_score": 0.24700385941021694}
+{"sent": "blue chair", "ann_id": 2124219, "best_split": [3, 3], "split_score": 0.3679693206048266}
+{"sent": "side of the bue couch", "ann_id": 2124219, "best_split": [3, 3], "split_score": 0.3679693206048266}
+{"sent": "nearest blue chair", "ann_id": 2124219, "best_split": [3, 3], "split_score": 0.3679693206048266}

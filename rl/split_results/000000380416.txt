@@ -1,0 +1,6 @@
+{"sent": "blue and black chair under the cat", "ann_id": 383803, "best_split": [1, 3], "split_score": 0.5797629899506319}
+{"sent": "chair cat is on not cat", "ann_id": 383803, "best_split": [1, 3], "split_score": 0.5797629899506319}
+{"sent": "chair cat is on", "ann_id": 383803, "best_split": [1, 3], "split_score": 0.5797629899506319}
+{"sent": "chair backing and arm section that cats front paws are on", "ann_id": 377274, "best_split": [1, 5], "split_score": 0.37573033705452774}
+{"sent": "you had it saucer wasnt part gray chair cats leaning on", "ann_id": 377274, "best_split": [1, 2], "split_score": 0.4612165178387589}
+{"sent": "light gray seat not where cat is", "ann_id": 377274, "best_split": [1, 2], "split_score": 0.4612165178387589}

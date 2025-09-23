@@ -1,0 +1,12 @@
+{"sent": "yellow shirt", "ann_id": 539895, "best_split": [1, 5], "split_score": 0.5486449599777106}
+{"sent": "legend shirt", "ann_id": 539895, "best_split": [2, 1], "split_score": 0.18508644983680833}
+{"sent": "man in yellow shirt", "ann_id": 539895, "best_split": [1, 5], "split_score": 0.5486449599777106}
+{"sent": "black shirt with white text", "ann_id": 532218, "best_split": [2, 2], "split_score": 0.5021638977731283}
+{"sent": "guy in black shirt", "ann_id": 532218, "best_split": [2, 2], "split_score": 0.5021638977731283}
+{"sent": "guy with black tshirt with white controller", "ann_id": 532218, "best_split": [2, 2], "split_score": 0.5021638977731283}
+{"sent": "white shirt", "ann_id": 510066, "best_split": [2, 2], "split_score": 0.38192534378995646}
+{"sent": "white shirt", "ann_id": 510066, "best_split": [2, 2], "split_score": 0.38192534378995646}
+{"sent": "guy holding controller highest", "ann_id": 510066, "best_split": [2, 2], "split_score": 0.38192534378995646}
+{"sent": "man wearing shirt with numbers on it", "ann_id": 508704, "best_split": [1, 5], "split_score": 0.7813854809721072}
+{"sent": "89", "ann_id": 508704, "best_split": [1, 5], "split_score": 0.7813854809721072}
+{"sent": "green shirt", "ann_id": 508704, "best_split": [1, 5], "split_score": 0.7813854809721072}

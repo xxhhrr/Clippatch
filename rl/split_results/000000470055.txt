@@ -1,0 +1,6 @@
+{"sent": "blurry pizza pie", "ann_id": 1076019, "best_split": [2, 3], "split_score": 0.3392452051619669}
+{"sent": "whole pizza", "ann_id": 1076019, "best_split": [2, 3], "split_score": 0.3392452051619669}
+{"sent": "pizza furthest away", "ann_id": 1076019, "best_split": [2, 3], "split_score": 0.3392452051619669}
+{"sent": "pizza is cut and closest", "ann_id": 1075223, "best_split": [1, 2], "split_score": 0.4857480780459566}
+{"sent": "pizza pie with a slice missing", "ann_id": 1075223, "best_split": [1, 2], "split_score": 0.4857480780459566}
+{"sent": "closest entire pizza", "ann_id": 1075223, "best_split": [1, 2], "split_score": 0.4857480780459566}

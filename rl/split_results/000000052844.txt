@@ -1,0 +1,6 @@
+{"sent": "beer glass with writing", "ann_id": 683914, "best_split": [3, 1], "split_score": 0.20396959458228947}
+{"sent": "mug near bread you can say chary", "ann_id": 683914, "best_split": [3, 3], "split_score": 0.46930988711524385}
+{"sent": "beer in mug beside the bread", "ann_id": 683914, "best_split": [3, 1], "split_score": 0.20396959458228947}
+{"sent": "less filled glass", "ann_id": 682413, "best_split": [3, 2], "split_score": 0.2810135702796909}
+{"sent": "beer mug no handle", "ann_id": 682413, "best_split": [3, 2], "split_score": 0.2810135702796909}
+{"sent": "glass near the pizza", "ann_id": 682413, "best_split": [3, 2], "split_score": 0.2810135702796909}

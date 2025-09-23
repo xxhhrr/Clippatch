@@ -1,0 +1,9 @@
+{"sent": "bowl oranges", "ann_id": 1899526, "best_split": [2, 2], "split_score": 0.7574916758631041}
+{"sent": "watermelon cubes", "ann_id": 1899526, "best_split": [2, 2], "split_score": 0.7574916758631041}
+{"sent": "fruit", "ann_id": 1899526, "best_split": [2, 2], "split_score": 0.7574916758631041}
+{"sent": "sliced of red bell pepper", "ann_id": 717766, "best_split": [2, 1], "split_score": 0.28124999998878947}
+{"sent": "red food", "ann_id": 717766, "best_split": [2, 3], "split_score": 0.5884057970405376}
+{"sent": "red peppers", "ann_id": 717766, "best_split": [1, 5], "split_score": 0.32166301966851646}
+{"sent": "almonds", "ann_id": 712948, "best_split": [2, 1], "split_score": 0.013145082764935945}
+{"sent": "pink dish dates carrots", "ann_id": 712948, "best_split": [1, 5], "split_score": 0.34906646748700026}
+{"sent": "carrots", "ann_id": 712948, "best_split": [2, 1], "split_score": 0.013145082764935945}

@@ -1,0 +1,5 @@
+{"sent": "car going this way", "ann_id": 1787273, "best_split": [3, 3], "split_score": 0.4269005847278488}
+{"sent": "black car infront of lamppost", "ann_id": 1787273, "best_split": [3, 3], "split_score": 0.4269005847278488}
+{"sent": "white car", "ann_id": 348799, "best_split": [3, 2], "split_score": 0.4815830253329857}
+{"sent": "white car partially visible", "ann_id": 348799, "best_split": [3, 2], "split_score": 0.4815830253329857}
+{"sent": "white car in corner", "ann_id": 348799, "best_split": [3, 2], "split_score": 0.4815830253329857}

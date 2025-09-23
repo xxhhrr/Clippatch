@@ -1,0 +1,6 @@
+{"sent": "person with black pants", "ann_id": 1235943, "best_split": [2, 3], "split_score": 0.5243553008189921}
+{"sent": "woman", "ann_id": 1235943, "best_split": [1, 3], "split_score": 0.5056518462425637}
+{"sent": "bigger guy", "ann_id": 1235943, "best_split": [2, 2], "split_score": 0.5223197252624749}
+{"sent": "guy", "ann_id": 1210950, "best_split": [1, 3], "split_score": 0.5874039758055823}
+{"sent": "man", "ann_id": 1210950, "best_split": [1, 3], "split_score": 0.5874039758055823}
+{"sent": "man red hat", "ann_id": 1210950, "best_split": [1, 3], "split_score": 0.5874039758055823}

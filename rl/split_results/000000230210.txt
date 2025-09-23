@@ -1,0 +1,6 @@
+{"sent": "black hat guy", "ann_id": 471993, "best_split": [1, 2], "split_score": 0.6358245164554275}
+{"sent": "woman", "ann_id": 471993, "best_split": [1, 3], "split_score": 0.3652049375855826}
+{"sent": "women", "ann_id": 471993, "best_split": [1, 3], "split_score": 0.3652049375855826}
+{"sent": "the man not wearing the black hat", "ann_id": 452983, "best_split": [1, 2], "split_score": 0.8052455356821888}
+{"sent": "man with tan and black hat", "ann_id": 452983, "best_split": [1, 2], "split_score": 0.8052455356821888}
+{"sent": "the man next to the blues part of the flag", "ann_id": 452983, "best_split": [1, 2], "split_score": 0.8052455356821888}

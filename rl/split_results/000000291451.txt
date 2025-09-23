@@ -1,0 +1,5 @@
+{"sent": "3 pm train", "ann_id": 2050850, "best_split": [2, 2], "split_score": 0.4824969399949512}
+{"sent": "red bus in image 2", "ann_id": 2050850, "best_split": [2, 1], "split_score": 0.27295388449408137}
+{"sent": "red bus with small lettering ending in 24", "ann_id": 2050728, "best_split": [1, 3], "split_score": 0.4825922818538909}
+{"sent": "9 o clock", "ann_id": 2050728, "best_split": [2, 2], "split_score": 0.1917027133212887}
+{"sent": "vehicle at 9 o clock", "ann_id": 2050728, "best_split": [1, 3], "split_score": 0.4825922818538909}

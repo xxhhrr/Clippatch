@@ -1,0 +1,6 @@
+{"sent": "reflection", "ann_id": 1402457, "best_split": [2, 1], "split_score": 0.3914805080926555}
+{"sent": "cat in reflection", "ann_id": 1402457, "best_split": [1, 2], "split_score": 0.3431991754884068}
+{"sent": "kittys reflection", "ann_id": 1402457, "best_split": [1, 2], "split_score": 0.3431991754884068}
+{"sent": "not the reflection", "ann_id": 52374, "best_split": [1, 2], "split_score": 0.22228478125605863}
+{"sent": "actual cat not reflection", "ann_id": 52374, "best_split": [2, 1], "split_score": 0.7306281887463876}
+{"sent": "head of cat not reflection", "ann_id": 52374, "best_split": [2, 1], "split_score": 0.7306281887463876}

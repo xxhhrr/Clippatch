@@ -1,0 +1,19 @@
+{"sent": "yellow shirt woman", "ann_id": 1202527, "best_split": [1, 3], "split_score": 0.608108108071422}
+{"sent": "yellow shirt", "ann_id": 1202527, "best_split": [1, 3], "split_score": 0.608108108071422}
+{"sent": "yellow shirt", "ann_id": 1202527, "best_split": [1, 3], "split_score": 0.608108108071422}
+{"sent": "white shirt half person", "ann_id": 1315832, "best_split": [1, 5], "split_score": 0.37337662333874017}
+{"sent": "person in black shorts and white shirt on edge", "ann_id": 1315832, "best_split": [1, 5], "split_score": 0.37337662333874017}
+{"sent": "half guy in white shirt", "ann_id": 1315832, "best_split": [1, 5], "split_score": 0.37337662333874017}
+{"sent": "blue tee holding bananas by fingertip", "ann_id": 1266361, "best_split": [1, 3], "split_score": 0.6545608107713223}
+{"sent": "woman in darker blue", "ann_id": 1266361, "best_split": [1, 3], "split_score": 0.6545608107713223}
+{"sent": "woman in darker blue", "ann_id": 1266361, "best_split": [1, 3], "split_score": 0.6545608107713223}
+{"sent": "girl with diamonds on her shirt", "ann_id": 1262718, "best_split": [1, 3], "split_score": 0.42993630570803365}
+{"sent": "white shirt with black n green diamonds", "ann_id": 1262718, "best_split": [1, 3], "split_score": 0.42993630570803365}
+{"sent": "woman with diamond pattern on shirt", "ann_id": 1262718, "best_split": [1, 3], "split_score": 0.42993630570803365}
+{"sent": "woman 3", "ann_id": 1241441, "best_split": [1, 5], "split_score": 0.3595562279115657}
+{"sent": "the woman in blue with yellow shirt girl", "ann_id": 1241441, "best_split": [1, 5], "split_score": 0.3595562279115657}
+{"sent": "orange cover half is cut off", "ann_id": 288164, "best_split": [3, 2], "split_score": 0.2729247103917803}
+{"sent": "embrella closest to blue shirt girl with banana", "ann_id": 288164, "best_split": [1, 5], "split_score": 0.04718285516356871}
+{"sent": "the stand with the white letters ms", "ann_id": 287722, "best_split": [3, 3], "split_score": 0.3886943471249757}
+{"sent": "tent above the four", "ann_id": 287722, "best_split": [5, 1], "split_score": 0.5710227272147907}
+{"sent": "full umbrella", "ann_id": 287722, "best_split": [5, 1], "split_score": 0.5710227272147907}

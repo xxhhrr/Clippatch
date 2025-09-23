@@ -1,0 +1,6 @@
+{"sent": "little bike", "ann_id": 154581, "best_split": [1, 2], "split_score": 0.5693877550812906}
+{"sent": "bike without orange", "ann_id": 154581, "best_split": [3, 2], "split_score": 0.35507171600685833}
+{"sent": "bike 1", "ann_id": 154581, "best_split": [1, 2], "split_score": 0.5693877550812906}
+{"sent": "one with the orange trim above tire", "ann_id": 154059, "best_split": [1, 2], "split_score": 0.8537869863192507}
+{"sent": "closer bike", "ann_id": 154059, "best_split": [2, 2], "split_score": 0.424695652159141}
+{"sent": "the bigger bike", "ann_id": 154059, "best_split": [2, 2], "split_score": 0.424695652159141}

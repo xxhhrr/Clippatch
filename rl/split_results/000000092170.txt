@@ -1,0 +1,5 @@
+{"sent": "sstriped shirt behind fence", "ann_id": 516714, "best_split": [3, 3], "split_score": 0.604492852177588}
+{"sent": "striped sweater spectator", "ann_id": 516714, "best_split": [3, 1], "split_score": 0.23069544363125327}
+{"sent": "main person", "ann_id": 428908, "best_split": [1, 3], "split_score": 0.5291060653437583}
+{"sent": "happy yellow person", "ann_id": 428908, "best_split": [1, 3], "split_score": 0.5291060653437583}
+{"sent": "skier", "ann_id": 428908, "best_split": [1, 2], "split_score": 0.4729482598409547}

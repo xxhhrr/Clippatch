@@ -1,0 +1,6 @@
+{"sent": "person next to the girl on tv", "ann_id": 186964, "best_split": [3, 2], "split_score": 0.23997134668338366}
+{"sent": "not hat guy", "ann_id": 186964, "best_split": [1, 3], "split_score": 0.3026540339961952}
+{"sent": "the older man wearing khakis and a blue shirt", "ann_id": 186964, "best_split": [2, 3], "split_score": 0.4056029232231422}
+{"sent": "untucked shirt", "ann_id": 183735, "best_split": [1, 5], "split_score": 0.5269642687397437}
+{"sent": "guy whit shirt out", "ann_id": 183735, "best_split": [1, 5], "split_score": 0.5269642687397437}
+{"sent": "man with hand in pocket", "ann_id": 183735, "best_split": [1, 5], "split_score": 0.5269642687397437}

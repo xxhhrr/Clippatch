@@ -1,0 +1,9 @@
+{"sent": "red hair", "ann_id": 2153213, "best_split": [1, 5], "split_score": 0.1309833767186739}
+{"sent": "person with ear showing only", "ann_id": 2153213, "best_split": [2, 3], "split_score": 0.8307728949826398}
+{"sent": "man out of frame", "ann_id": 2153213, "best_split": [3, 1], "split_score": 0.10302549997188823}
+{"sent": "guy", "ann_id": 478919, "best_split": [1, 2], "split_score": 0.45400593470435396}
+{"sent": "man on chair", "ann_id": 478919, "best_split": [1, 2], "split_score": 0.45400593470435396}
+{"sent": "gay dude", "ann_id": 478919, "best_split": [1, 2], "split_score": 0.45400593470435396}
+{"sent": "pink stripes", "ann_id": 446980, "best_split": [2, 2], "split_score": 0.3702300405703498}
+{"sent": "little girl", "ann_id": 446980, "best_split": [2, 2], "split_score": 0.3702300405703498}
+{"sent": "girl", "ann_id": 446980, "best_split": [3, 1], "split_score": 0.21663326652221276}

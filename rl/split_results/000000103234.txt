@@ -1,0 +1,5 @@
+{"sent": "box with icons", "ann_id": 1977601, "best_split": [1, 5], "split_score": 0.30894886360501733}
+{"sent": "picture of phone", "ann_id": 1977601, "best_split": [1, 5], "split_score": 0.30894886360501733}
+{"sent": "cell phone that is off", "ann_id": 327441, "best_split": [3, 3], "split_score": 0.31879375332272564}
+{"sent": "off phone", "ann_id": 327441, "best_split": [3, 1], "split_score": 0.1895707616879443}
+{"sent": "iphone facing us with dark screen", "ann_id": 327441, "best_split": [3, 1], "split_score": 0.1895707616879443}

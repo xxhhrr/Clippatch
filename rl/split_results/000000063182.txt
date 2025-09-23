@@ -1,0 +1,6 @@
+{"sent": "sheep eating", "ann_id": 63218, "best_split": [3, 1], "split_score": 0.24710751574418646}
+{"sent": "sheep eating grass", "ann_id": 63218, "best_split": [3, 1], "split_score": 0.24710751574418646}
+{"sent": "head down in grass", "ann_id": 63218, "best_split": [2, 1], "split_score": 0.2510446801581826}
+{"sent": "sheep tat does not have head in grass", "ann_id": 61748, "best_split": [1, 5], "split_score": 0.48316053831649425}
+{"sent": "standing bigger sheep", "ann_id": 61748, "best_split": [1, 5], "split_score": 0.48316053831649425}
+{"sent": "black face not in grass looking as us like were gon na make love to it", "ann_id": 61748, "best_split": [1, 5], "split_score": 0.48316053831649425}

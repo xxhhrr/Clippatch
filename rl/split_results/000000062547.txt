@@ -1,0 +1,6 @@
+{"sent": "hand on chin guy", "ann_id": 199347, "best_split": [2, 1], "split_score": 0.2594671558758121}
+{"sent": "man at laptop", "ann_id": 199347, "best_split": [2, 1], "split_score": 0.2594671558758121}
+{"sent": "guy with hand on face", "ann_id": 199347, "best_split": [1, 2], "split_score": 0.8334263392524942}
+{"sent": "gut with brown shirt", "ann_id": 195742, "best_split": [2, 3], "split_score": 0.6377111340367364}
+{"sent": "man not on laptop", "ann_id": 195742, "best_split": [1, 2], "split_score": 0.4271364795748112}
+{"sent": "man in brown sweater", "ann_id": 195742, "best_split": [2, 1], "split_score": 0.269465324057954}

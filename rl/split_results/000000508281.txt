@@ -1,0 +1,12 @@
+{"sent": "boy reaching", "ann_id": 1740241, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "baby grabbing something", "ann_id": 1740241, "best_split": [1, 5], "split_score": 0.22674469383992096}
+{"sent": "boy reaching for lights", "ann_id": 1740241, "best_split": [3, 2], "split_score": 0.5054295366185534}
+{"sent": "boy reading lego toy package", "ann_id": 511688, "best_split": [2, 2], "split_score": 0.887117346868055}
+{"sent": "kid holding leggo paper", "ann_id": 511688, "best_split": [2, 2], "split_score": 0.887117346868055}
+{"sent": "holding lego instructions", "ann_id": 511688, "best_split": [2, 2], "split_score": 0.887117346868055}
+{"sent": "kid eating donut", "ann_id": 453955, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "boy eating a donut", "ann_id": 453955, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "stuffing donut into mouth but not the donut just face", "ann_id": 453955, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "wearing spider man eyes", "ann_id": 438302, "best_split": [2, 2], "split_score": 0.8705357142163157}
+{"sent": "the picture of the boy wearing spiderman glass", "ann_id": 438302, "best_split": [2, 2], "split_score": 0.8705357142163157}
+{"sent": "spider eyes", "ann_id": 438302, "best_split": [2, 2], "split_score": 0.8705357142163157}

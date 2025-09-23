@@ -1,0 +1,11 @@
+{"sent": "complete pic of checked chair", "ann_id": 1582027, "best_split": [3, 3], "split_score": 0.5847313395836699}
+{"sent": "gray chair", "ann_id": 1582027, "best_split": [3, 3], "split_score": 0.5847313395836699}
+{"sent": "whole chair that matches the partial chair", "ann_id": 1582027, "best_split": [3, 3], "split_score": 0.5847313395836699}
+{"sent": "chair cut off", "ann_id": 1951648, "best_split": [2, 3], "split_score": 0.33783783779707555}
+{"sent": "couch at cutoff", "ann_id": 1951648, "best_split": [2, 3], "split_score": 0.33783783779707555}
+{"sent": "closest cut off chair", "ann_id": 1951648, "best_split": [2, 3], "split_score": 0.33783783779707555}
+{"sent": "chair by brown books", "ann_id": 1932659, "best_split": [3, 1], "split_score": 0.2719592821769357}
+{"sent": "chair thats not patterned", "ann_id": 1932659, "best_split": [3, 1], "split_score": 0.2719592821769357}
+{"sent": "chair near the brown books", "ann_id": 1932659, "best_split": [3, 1], "split_score": 0.2719592821769357}
+{"sent": "blue armchair you can see whole thing", "ann_id": 116653, "best_split": [3, 3], "split_score": 0.6234287241744545}
+{"sent": "lefty most chair", "ann_id": 116653, "best_split": [3, 3], "split_score": 0.6234287241744545}

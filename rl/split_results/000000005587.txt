@@ -1,0 +1,6 @@
+{"sent": "tallest tier", "ann_id": 1901672, "best_split": [2, 3], "split_score": 0.29057591620659556}
+{"sent": "highest plate", "ann_id": 1901672, "best_split": [1, 2], "split_score": 0.19553728713316437}
+{"sent": "plate of food closest to sky", "ann_id": 1901672, "best_split": [1, 2], "split_score": 0.19553728713316437}
+{"sent": "plate with rolls", "ann_id": 1040605, "best_split": [3, 2], "split_score": 0.41698841694490363}
+{"sent": "lowest tier on the plates", "ann_id": 1040605, "best_split": [3, 2], "split_score": 0.41698841694490363}
+{"sent": "plate with biscuits", "ann_id": 1040605, "best_split": [3, 2], "split_score": 0.41698841694490363}

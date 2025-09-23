@@ -1,0 +1,5 @@
+{"sent": "policeman with red hat on and one on side", "ann_id": 1703237, "best_split": [1, 2], "split_score": 0.5178571428365012}
+{"sent": "red coat closest to side of pic", "ann_id": 1703237, "best_split": [1, 2], "split_score": 0.5178571428365012}
+{"sent": "red shirt man near black shirt kid", "ann_id": 1209490, "best_split": [1, 3], "split_score": 0.6650579150177933}
+{"sent": "western man in red", "ann_id": 1209490, "best_split": [1, 3], "split_score": 0.6650579150177933}
+{"sent": "taller guy in red", "ann_id": 1209490, "best_split": [1, 3], "split_score": 0.6650579150177933}

@@ -1,0 +1,6 @@
+{"sent": "cat in mirror", "ann_id": 273509, "best_split": [2, 2], "split_score": 0.4030612244576641}
+{"sent": "cats reflection", "ann_id": 273509, "best_split": [2, 2], "split_score": 0.4030612244576641}
+{"sent": "mirror cat", "ann_id": 273509, "best_split": [2, 2], "split_score": 0.4030612244576641}
+{"sent": "cat", "ann_id": 51666, "best_split": [3, 3], "split_score": 0.5250813047674109}
+{"sent": "black and white cat", "ann_id": 51666, "best_split": [3, 3], "split_score": 0.5250813047674109}
+{"sent": "inside sink", "ann_id": 51666, "best_split": [3, 1], "split_score": 0.36653468399411043}

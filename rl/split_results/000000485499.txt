@@ -1,0 +1,6 @@
+{"sent": "which one is wearing green", "ann_id": 514290, "best_split": [1, 2], "split_score": 0.5783774187616412}
+{"sent": "headband", "ann_id": 514290, "best_split": [1, 2], "split_score": 0.5783774187616412}
+{"sent": "tennis player in green with nike headband and white wristband", "ann_id": 514290, "best_split": [1, 2], "split_score": 0.5783774187616412}
+{"sent": "man without the headband", "ann_id": 497481, "best_split": [2, 1], "split_score": 0.2673753066152501}
+{"sent": "yellow shirt", "ann_id": 497481, "best_split": [1, 2], "split_score": 0.6718027734718104}
+{"sent": "man in lime green", "ann_id": 497481, "best_split": [2, 1], "split_score": 0.2673753066152501}

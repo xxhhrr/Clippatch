@@ -1,0 +1,9 @@
+{"sent": "skier in pink jacket", "ann_id": 1289674, "best_split": [2, 3], "split_score": 0.27990681417822866}
+{"sent": "pink", "ann_id": 1289674, "best_split": [2, 3], "split_score": 0.27990681417822866}
+{"sent": "pink jacket", "ann_id": 1289674, "best_split": [2, 3], "split_score": 0.27990681417822866}
+{"sent": "black suit", "ann_id": 1253024, "best_split": [1, 5], "split_score": 0.2877862595145242}
+{"sent": "skier all in black", "ann_id": 1253024, "best_split": [1, 5], "split_score": 0.2877862595145242}
+{"sent": "all black", "ann_id": 1253024, "best_split": [1, 5], "split_score": 0.2877862595145242}
+{"sent": "red jacket or maybe its orange", "ann_id": 1220575, "best_split": [1, 5], "split_score": 0.3122970778903919}
+{"sent": "the red jacket", "ann_id": 1220575, "best_split": [3, 3], "split_score": 0.30475899934338635}
+{"sent": "orange", "ann_id": 1220575, "best_split": [1, 5], "split_score": 0.3122970778903919}

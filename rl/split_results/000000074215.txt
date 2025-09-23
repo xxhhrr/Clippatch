@@ -1,0 +1,5 @@
+{"sent": "mane person", "ann_id": 2161581, "best_split": [1, 2], "split_score": 0.6016911437280917}
+{"sent": "skieer with white pants", "ann_id": 2161581, "best_split": [1, 2], "split_score": 0.6016911437280917}
+{"sent": "skier facing camera", "ann_id": 2161581, "best_split": [1, 2], "split_score": 0.6016911437280917}
+{"sent": "dark skier hidden", "ann_id": 1229718, "best_split": [2, 1], "split_score": 0.11557977823282918}
+{"sent": "the guy not facing you", "ann_id": 1229718, "best_split": [3, 1], "split_score": 0.16467675377360788}

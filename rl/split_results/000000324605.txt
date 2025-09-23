@@ -1,0 +1,6 @@
+{"sent": "dog jumping", "ann_id": 15867, "best_split": [1, 3], "split_score": 0.4275409835890352}
+{"sent": "jumping dog", "ann_id": 15867, "best_split": [1, 3], "split_score": 0.4275409835890352}
+{"sent": "dog closest to ball", "ann_id": 15867, "best_split": [1, 3], "split_score": 0.4275409835890352}
+{"sent": "smaller dog", "ann_id": 7702, "best_split": [2, 3], "split_score": 0.417156040224711}
+{"sent": "dog without frisbee", "ann_id": 7702, "best_split": [2, 3], "split_score": 0.417156040224711}
+{"sent": "little dog", "ann_id": 7702, "best_split": [2, 3], "split_score": 0.417156040224711}

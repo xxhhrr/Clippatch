@@ -1,0 +1,6 @@
+{"sent": "broccoli", "ann_id": 1903689, "best_split": [1, 2], "split_score": 0.7254464285425125}
+{"sent": "container with broccoli", "ann_id": 1903689, "best_split": [1, 2], "split_score": 0.7254464285425125}
+{"sent": "broccoli", "ann_id": 1903689, "best_split": [1, 2], "split_score": 0.7254464285425125}
+{"sent": "bowl with fish", "ann_id": 1903634, "best_split": [1, 2], "split_score": 0.689799094486071}
+{"sent": "food with fish", "ann_id": 1903634, "best_split": [1, 2], "split_score": 0.689799094486071}
+{"sent": "fish", "ann_id": 1903634, "best_split": [1, 2], "split_score": 0.689799094486071}

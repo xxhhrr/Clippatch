@@ -1,0 +1,12 @@
+{"sent": "egg and biscuit", "ann_id": 1040533, "best_split": [2, 2], "split_score": 0.6708310700250658}
+{"sent": "egg", "ann_id": 1040533, "best_split": [2, 2], "split_score": 0.6708310700250658}
+{"sent": "egg tray", "ann_id": 1040533, "best_split": [2, 1], "split_score": 0.48086734691960825}
+{"sent": "pasta", "ann_id": 1039056, "best_split": [2, 2], "split_score": 0.6451113261926356}
+{"sent": "box with spaghetti in it", "ann_id": 1039056, "best_split": [2, 2], "split_score": 0.6451113261926356}
+{"sent": "pasta dish", "ann_id": 1039056, "best_split": [2, 2], "split_score": 0.6451113261926356}
+{"sent": "the carrots", "ann_id": 1038482, "best_split": [2, 2], "split_score": 0.4803921568259503}
+{"sent": "green dish carrots", "ann_id": 1038482, "best_split": [2, 2], "split_score": 0.4803921568259503}
+{"sent": "carrots", "ann_id": 1038482, "best_split": [2, 2], "split_score": 0.4803921568259503}
+{"sent": "jellybean section", "ann_id": 1038435, "best_split": [2, 2], "split_score": 0.5172991071016184}
+{"sent": "jelly beans", "ann_id": 1038435, "best_split": [2, 2], "split_score": 0.5172991071016184}
+{"sent": "jelly beans no problem", "ann_id": 1038435, "best_split": [2, 2], "split_score": 0.5172991071016184}

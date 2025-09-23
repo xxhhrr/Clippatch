@@ -1,0 +1,10 @@
+{"sent": "two oranges south of the half cut one", "ann_id": 1913922, "best_split": [3, 2], "split_score": 0.4391891891361982}
+{"sent": "oranges at 3 ocklock", "ann_id": 1913896, "best_split": [1, 2], "split_score": 0.7594467474187082}
+{"sent": "group of fruit across from opened one horizontally", "ann_id": 1913896, "best_split": [2, 2], "split_score": 0.42322417907196863}
+{"sent": "orange next to open fruit", "ann_id": 1913793, "best_split": [1, 2], "split_score": 0.1029183483350311}
+{"sent": "next to open fruit", "ann_id": 1913793, "best_split": [3, 2], "split_score": 0.2957181087984257}
+{"sent": "south of half", "ann_id": 1913730, "best_split": [1, 5], "split_score": 0.2496520528662446}
+{"sent": "the orange with stem south of cut one", "ann_id": 1913730, "best_split": [2, 3], "split_score": 0.25495195133801213}
+{"sent": "orange where you cant see the stem", "ann_id": 1911953, "best_split": [2, 1], "split_score": 0.10093457943540207}
+{"sent": "shiniest", "ann_id": 1911953, "best_split": [3, 1], "split_score": 0.16559743383173345}
+{"sent": "center orange", "ann_id": 1911953, "best_split": [2, 1], "split_score": 0.10093457943540207}

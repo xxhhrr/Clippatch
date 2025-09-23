@@ -1,0 +1,5 @@
+{"sent": "suitcase by blue", "ann_id": 1186846, "best_split": [2, 3], "split_score": 0.6232047521901493}
+{"sent": "suitcase with side hadle showing", "ann_id": 1186846, "best_split": [2, 3], "split_score": 0.6232047521901493}
+{"sent": "closest black suitcase", "ann_id": 1184284, "best_split": [1, 2], "split_score": 0.7539461096638255}
+{"sent": "black bag by green bag", "ann_id": 1184284, "best_split": [1, 2], "split_score": 0.7539461096638255}
+{"sent": "black bag close to green bag", "ann_id": 1184284, "best_split": [2, 1], "split_score": 0.3162728088448617}

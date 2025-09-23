@@ -1,0 +1,6 @@
+{"sent": "orangey yellow bus half", "ann_id": 1365397, "best_split": [3, 3], "split_score": 0.3339057133415695}
+{"sent": "dark yellow bus partially hidden", "ann_id": 1365397, "best_split": [3, 3], "split_score": 0.3339057133415695}
+{"sent": "yellow side of bus not showing all of it", "ann_id": 1365397, "best_split": [3, 3], "split_score": 0.3339057133415695}
+{"sent": "the bus", "ann_id": 163256, "best_split": [1, 3], "split_score": 0.5375964537622067}
+{"sent": "carries people where they need to go", "ann_id": 163256, "best_split": [1, 2], "split_score": 0.35464670869365766}
+{"sent": "bus", "ann_id": 163256, "best_split": [1, 3], "split_score": 0.5375964537622067}

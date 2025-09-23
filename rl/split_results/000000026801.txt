@@ -1,0 +1,6 @@
+{"sent": "cup fork touching plate", "ann_id": 1512029, "best_split": [5, 1], "split_score": 0.21358364456324122}
+{"sent": "white cup no handle on plate", "ann_id": 1512029, "best_split": [5, 1], "split_score": 0.21358364456324122}
+{"sent": "the white cup behind the fork", "ann_id": 1512029, "best_split": [5, 1], "split_score": 0.21358364456324122}
+{"sent": "cup nearest to you", "ann_id": 669344, "best_split": [3, 2], "split_score": 0.618112122590068}
+{"sent": "cup wioth handle", "ann_id": 669344, "best_split": [3, 2], "split_score": 0.618112122590068}
+{"sent": "closest coffee cup to us", "ann_id": 669344, "best_split": [3, 2], "split_score": 0.618112122590068}

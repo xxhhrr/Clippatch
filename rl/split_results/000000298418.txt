@@ -1,0 +1,6 @@
+{"sent": "black green and maroon", "ann_id": 1226780, "best_split": [1, 5], "split_score": 0.42847688376397114}
+{"sent": "lady with green scarf", "ann_id": 1226780, "best_split": [1, 5], "split_score": 0.42847688376397114}
+{"sent": "girl in black with green scarf", "ann_id": 1226780, "best_split": [1, 5], "split_score": 0.42847688376397114}
+{"sent": "person on snowboard", "ann_id": 509589, "best_split": [2, 3], "split_score": 0.15430267060788302}
+{"sent": "black jacket white outfit", "ann_id": 509589, "best_split": [3, 2], "split_score": 0.24281150157158557}
+{"sent": "white pants", "ann_id": 509589, "best_split": [1, 5], "split_score": 0.23190024192891306}

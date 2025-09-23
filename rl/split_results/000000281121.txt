@@ -1,0 +1,8 @@
+{"sent": "part elephant near big one", "ann_id": 585105, "best_split": [1, 3], "split_score": 0.6052123551758438}
+{"sent": "elephant only edge visible", "ann_id": 585105, "best_split": [1, 3], "split_score": 0.6052123551758438}
+{"sent": "elephant trunk is pointing to elephant in gray", "ann_id": 585105, "best_split": [1, 3], "split_score": 0.6052123551758438}
+{"sent": "elephant whose head you cant see just its ear and back", "ann_id": 584974, "best_split": [3, 2], "split_score": 0.3484450284522314}
+{"sent": "elephant by two green things", "ann_id": 584974, "best_split": [3, 2], "split_score": 0.3484450284522314}
+{"sent": "elephant with trunk outstretched", "ann_id": 584042, "best_split": [3, 1], "split_score": 0.27625684419127294}
+{"sent": "small elephant bleating", "ann_id": 584042, "best_split": [3, 2], "split_score": 0.32730769229195633}
+{"sent": "elephant with trunk up", "ann_id": 584042, "best_split": [3, 2], "split_score": 0.32730769229195633}

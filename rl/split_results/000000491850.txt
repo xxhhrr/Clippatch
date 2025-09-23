@@ -1,0 +1,5 @@
+{"sent": "only cow facing the other side", "ann_id": 278570, "best_split": [5, 1], "split_score": 0.16647551829144458}
+{"sent": "cow facing opposite way from others", "ann_id": 278570, "best_split": [5, 1], "split_score": 0.16647551829144458}
+{"sent": "cow by itself eating grass", "ann_id": 278570, "best_split": [2, 3], "split_score": 0.2729655925425488}
+{"sent": "cow that is center", "ann_id": 70330, "best_split": [3, 2], "split_score": 0.2289628179790212}
+{"sent": "cow by itself at 6 o clock", "ann_id": 70330, "best_split": [3, 3], "split_score": 0.4799581734959989}

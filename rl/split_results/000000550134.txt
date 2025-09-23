@@ -1,0 +1,13 @@
+{"sent": "green shirt", "ann_id": 2157195, "best_split": [2, 2], "split_score": 0.6376582278000559}
+{"sent": "green", "ann_id": 2157195, "best_split": [2, 2], "split_score": 0.6376582278000559}
+{"sent": "green and white", "ann_id": 2157195, "best_split": [2, 2], "split_score": 0.6376582278000559}
+{"sent": "man in blue shirt", "ann_id": 1721232, "best_split": [2, 3], "split_score": 0.4814389590140498}
+{"sent": "person in dark shirt", "ann_id": 1721232, "best_split": [2, 3], "split_score": 0.4814389590140498}
+{"sent": "dark blue shirt", "ann_id": 1721232, "best_split": [2, 3], "split_score": 0.4814389590140498}
+{"sent": "trunk in air", "ann_id": 583665, "best_split": [2, 3], "split_score": 0.39175475684342814}
+{"sent": "elephants trunk", "ann_id": 583665, "best_split": [1, 3], "split_score": 0.3997503744183849}
+{"sent": "baby elephant trunk", "ann_id": 583665, "best_split": [1, 3], "split_score": 0.3997503744183849}
+{"sent": "elephant with trunk straight up", "ann_id": 583665, "best_split": [1, 3], "split_score": 0.3997503744183849}
+{"sent": "one eye elphant", "ann_id": 581336, "best_split": [2, 1], "split_score": 0.598035421919987}
+{"sent": "elephant person in blue is sitting on", "ann_id": 581336, "best_split": [2, 1], "split_score": 0.598035421919987}
+{"sent": "elephant with people on it", "ann_id": 581336, "best_split": [2, 1], "split_score": 0.598035421919987}

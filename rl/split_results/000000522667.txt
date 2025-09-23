@@ -1,0 +1,6 @@
+{"sent": "tree in the distance", "ann_id": 1956039, "best_split": [2, 2], "split_score": 0.5682397958730676}
+{"sent": "green leaves on tree", "ann_id": 1956039, "best_split": [2, 2], "split_score": 0.5682397958730676}
+{"sent": "tree above red car", "ann_id": 1956039, "best_split": [1, 5], "split_score": 0.38848920860133346}
+{"sent": "green plant", "ann_id": 20167, "best_split": [2, 3], "split_score": 0.4577246568771885}
+{"sent": "drooping plant", "ann_id": 20167, "best_split": [2, 3], "split_score": 0.4577246568771885}
+{"sent": "plant by bench", "ann_id": 20167, "best_split": [2, 3], "split_score": 0.4577246568771885}

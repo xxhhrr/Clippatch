@@ -1,0 +1,6 @@
+{"sent": "closest laying zebra", "ann_id": 593168, "best_split": [2, 3], "split_score": 0.27625201935422894}
+{"sent": "lying zebra can see its nose", "ann_id": 593168, "best_split": [2, 3], "split_score": 0.27625201935422894}
+{"sent": "zebra laying down can see head", "ann_id": 593168, "best_split": [2, 3], "split_score": 0.27625201935422894}
+{"sent": "standing zebra", "ann_id": 589191, "best_split": [3, 2], "split_score": 0.5105863191588429}
+{"sent": "zebra standing", "ann_id": 589191, "best_split": [3, 2], "split_score": 0.5105863191588429}
+{"sent": "standing zebra", "ann_id": 589191, "best_split": [3, 2], "split_score": 0.5105863191588429}

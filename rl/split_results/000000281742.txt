@@ -1,0 +1,9 @@
+{"sent": "man with hat", "ann_id": 2153130, "best_split": [1, 2], "split_score": 0.7573341836432823}
+{"sent": "white shirt", "ann_id": 2153130, "best_split": [1, 2], "split_score": 0.7573341836432823}
+{"sent": "white shirt", "ann_id": 2153130, "best_split": [1, 2], "split_score": 0.7573341836432823}
+{"sent": "man in bed", "ann_id": 1718649, "best_split": [3, 1], "split_score": 0.4447284344811114}
+{"sent": "guy laying", "ann_id": 1718649, "best_split": [2, 3], "split_score": 0.5560693641159316}
+{"sent": "man in bed", "ann_id": 1718649, "best_split": [3, 1], "split_score": 0.4447284344811114}
+{"sent": "black shirt", "ann_id": 447128, "best_split": [3, 3], "split_score": 0.4500923210111771}
+{"sent": "man in black shirt", "ann_id": 447128, "best_split": [3, 3], "split_score": 0.4500923210111771}
+{"sent": "the man leaning on the bed frame", "ann_id": 447128, "best_split": [2, 1], "split_score": 0.10799999999636975}

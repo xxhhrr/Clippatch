@@ -1,0 +1,7 @@
+{"sent": "bus that says division", "ann_id": 166032, "best_split": [3, 3], "split_score": 0.5797359970425016}
+{"sent": "bus division", "ann_id": 166032, "best_split": [3, 3], "split_score": 0.5797359970425016}
+{"sent": "division bus", "ann_id": 166032, "best_split": [3, 3], "split_score": 0.5797359970425016}
+{"sent": "sideways bus", "ann_id": 163844, "best_split": [3, 1], "split_score": 0.37186293434050055}
+{"sent": "side of bus", "ann_id": 163844, "best_split": [3, 1], "split_score": 0.37186293434050055}
+{"sent": "bus turned sideways", "ann_id": 163844, "best_split": [3, 1], "split_score": 0.37186293434050055}
+{"sent": "bus behind gray car", "ann_id": 163844, "best_split": [3, 1], "split_score": 0.37186293434050055}

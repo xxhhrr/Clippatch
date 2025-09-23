@@ -1,0 +1,10 @@
+{"sent": "table with soda can under it", "ann_id": 1966744, "best_split": [2, 1], "split_score": 0.1205045278098155}
+{"sent": "table part on the laft", "ann_id": 1966744, "best_split": [2, 1], "split_score": 0.1205045278098155}
+{"sent": "sandwich closest to us", "ann_id": 312615, "best_split": [1, 3], "split_score": 0.1874206578079965}
+{"sent": "partial view of food on table", "ann_id": 312615, "best_split": [1, 5], "split_score": 0.12739993490665474}
+{"sent": "closest buns", "ann_id": 312615, "best_split": [1, 5], "split_score": 0.21327263174459177}
+{"sent": "cut sandwich over picture of person in red shirt", "ann_id": 312388, "best_split": [1, 5], "split_score": 0.2956467550702709}
+{"sent": "sandwhich above photos facing properly for us", "ann_id": 312388, "best_split": [3, 2], "split_score": 0.3578000836095985}
+{"sent": "furthest sandwich", "ann_id": 310133, "best_split": [2, 1], "split_score": 0.1611128826466393}
+{"sent": "burger closest to the person in the red shirt", "ann_id": 310133, "best_split": [1, 5], "split_score": 0.3625490195722991}
+{"sent": "sandwich with brown junk on it", "ann_id": 310133, "best_split": [1, 5], "split_score": 0.3625490195722991}

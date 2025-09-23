@@ -1,0 +1,6 @@
+{"sent": "bald", "ann_id": 518176, "best_split": [1, 2], "split_score": 0.43883262259153266}
+{"sent": "closest man to you", "ann_id": 518176, "best_split": [1, 2], "split_score": 0.44454354902456084}
+{"sent": "man", "ann_id": 518176, "best_split": [1, 2], "split_score": 0.44454354902456084}
+{"sent": "person behind", "ann_id": 2164236, "best_split": [2, 1], "split_score": 0.36686432552047493}
+{"sent": "white shirt", "ann_id": 2164236, "best_split": [3, 2], "split_score": 0.4756495714545198}
+{"sent": "black hat", "ann_id": 2164236, "best_split": [2, 2], "split_score": 0.5607746436181648}

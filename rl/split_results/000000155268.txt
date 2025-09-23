@@ -1,0 +1,9 @@
+{"sent": "kid on couch", "ann_id": 492123, "best_split": [3, 1], "split_score": 0.15263030887110096}
+{"sent": "person on couch", "ann_id": 492123, "best_split": [2, 2], "split_score": 0.20169005100432955}
+{"sent": "woman on floor", "ann_id": 447989, "best_split": [2, 1], "split_score": 0.3954692121405126}
+{"sent": "girl", "ann_id": 447989, "best_split": [1, 3], "split_score": 0.532596582441837}
+{"sent": "woman", "ann_id": 447989, "best_split": [1, 3], "split_score": 0.532596582441837}
+{"sent": "chair behind girl on floor", "ann_id": 113668, "best_split": [1, 2], "split_score": 0.8456632652724145}
+{"sent": "couch with blanket", "ann_id": 113668, "best_split": [1, 2], "split_score": 0.8456632652724145}
+{"sent": "chair that the person sitting on floor is leaning against", "ann_id": 113668, "best_split": [1, 2], "split_score": 0.8456632652724145}
+{"sent": "part of couch between 11 and 12 clock", "ann_id": 112954, "best_split": [2, 2], "split_score": 0.6306306305911767}

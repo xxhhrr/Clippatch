@@ -1,0 +1,6 @@
+{"sent": "wagon attached to truck", "ann_id": 1797312, "best_split": [5, 1], "split_score": 0.40048543685848775}
+{"sent": "trailer", "ann_id": 1797312, "best_split": [3, 2], "split_score": 0.7350142720343703}
+{"sent": "camper", "ann_id": 1797312, "best_split": [3, 2], "split_score": 0.7350142720343703}
+{"sent": "truck", "ann_id": 395407, "best_split": [3, 2], "split_score": 0.5670849420165196}
+{"sent": "truck", "ann_id": 395407, "best_split": [3, 2], "split_score": 0.5670849420165196}
+{"sent": "pickup", "ann_id": 395407, "best_split": [3, 2], "split_score": 0.5670849420165196}

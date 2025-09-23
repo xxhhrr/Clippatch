@@ -1,0 +1,4 @@
+{"sent": "giraffes face", "ann_id": 599076, "best_split": [2, 1], "split_score": 0.18936142540677067}
+{"sent": "giraffe head", "ann_id": 599076, "best_split": [2, 1], "split_score": 0.18936142540677067}
+{"sent": "head", "ann_id": 599076, "best_split": [1, 5], "split_score": 0.4725805338709677}
+{"sent": "giraffe with head down", "ann_id": 595061, "best_split": [2, 1], "split_score": 0.3600473746444068}

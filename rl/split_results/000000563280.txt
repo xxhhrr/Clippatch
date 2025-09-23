@@ -1,0 +1,12 @@
+{"sent": "chair partial showing", "ann_id": 106854, "best_split": [2, 2], "split_score": 0.3941326530298045}
+{"sent": "chair by laptop", "ann_id": 106854, "best_split": [2, 1], "split_score": 0.19706632652275724}
+{"sent": "chair infront of laptop", "ann_id": 106854, "best_split": [2, 1], "split_score": 0.19706632652275724}
+{"sent": "fully visible wood chair", "ann_id": 104772, "best_split": [2, 2], "split_score": 0.4824561403127504}
+{"sent": "full brown chair closest to vase", "ann_id": 104772, "best_split": [2, 2], "split_score": 0.4824561403127504}
+{"sent": "chair with full back to us", "ann_id": 104772, "best_split": [2, 2], "split_score": 0.4824561403127504}
+{"sent": "dark chair", "ann_id": 1589966, "best_split": [2, 3], "split_score": 0.7328101643560528}
+{"sent": "swivel chair", "ann_id": 1589966, "best_split": [2, 3], "split_score": 0.7328101643560528}
+{"sent": "black chair", "ann_id": 1589966, "best_split": [2, 3], "split_score": 0.7328101643560528}
+{"sent": "closet chair to recliner", "ann_id": 102247, "best_split": [2, 2], "split_score": 0.27781127522778026}
+{"sent": "chair behind black chair", "ann_id": 102247, "best_split": [2, 2], "split_score": 0.27781127522778026}
+{"sent": "wood chair closest to office chair", "ann_id": 102247, "best_split": [2, 1], "split_score": 0.16024229074259588}

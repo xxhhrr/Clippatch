@@ -1,0 +1,6 @@
+{"sent": "darkest bird in back", "ann_id": 2174190, "best_split": [3, 2], "split_score": 0.5601041750988766}
+{"sent": "darker swan", "ann_id": 2174190, "best_split": [1, 2], "split_score": 0.43371332906434495}
+{"sent": "dark swan", "ann_id": 2174190, "best_split": [1, 2], "split_score": 0.43371332906434495}
+{"sent": "the lighter brown one", "ann_id": 37474, "best_split": [2, 2], "split_score": 0.4100799702245639}
+{"sent": "brown", "ann_id": 37474, "best_split": [1, 2], "split_score": 0.36508947333741676}
+{"sent": "light color duck", "ann_id": 37474, "best_split": [2, 1], "split_score": 0.4686215401319327}

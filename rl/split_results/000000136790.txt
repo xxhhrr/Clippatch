@@ -1,0 +1,6 @@
+{"sent": "red chair next to bench", "ann_id": 1936721, "best_split": [3, 1], "split_score": 0.3702099128180819}
+{"sent": "red chair beside bench", "ann_id": 1936721, "best_split": [3, 1], "split_score": 0.3702099128180819}
+{"sent": "chair besides bench", "ann_id": 1936721, "best_split": [3, 1], "split_score": 0.3702099128180819}
+{"sent": "furthest away chair", "ann_id": 380655, "best_split": [3, 1], "split_score": 0.013089005234888252}
+{"sent": "chair cut off", "ann_id": 380655, "best_split": [3, 1], "split_score": 0.013089005234888252}
+{"sent": "farthest seat", "ann_id": 380655, "best_split": [3, 1], "split_score": 0.013089005234888252}

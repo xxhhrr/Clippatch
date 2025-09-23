@@ -1,0 +1,6 @@
+{"sent": "bike near blue car", "ann_id": 130107, "best_split": [3, 2], "split_score": 0.4233378561258098}
+{"sent": "closer bike", "ann_id": 130107, "best_split": [3, 2], "split_score": 0.4233378561258098}
+{"sent": "the silver bike", "ann_id": 130107, "best_split": [3, 2], "split_score": 0.4233378561258098}
+{"sent": "blue bike", "ann_id": 126278, "best_split": [5, 1], "split_score": 0.3421698112884745}
+{"sent": "bike by man", "ann_id": 126278, "best_split": [5, 1], "split_score": 0.3421698112884745}
+{"sent": "bicycle closest to vest guy", "ann_id": 126278, "best_split": [5, 1], "split_score": 0.3421698112884745}

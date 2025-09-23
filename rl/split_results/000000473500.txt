@@ -1,0 +1,6 @@
+{"sent": "cat in sink", "ann_id": 52926, "best_split": [3, 2], "split_score": 0.43129636167155627}
+{"sent": "walking cat", "ann_id": 52926, "best_split": [3, 2], "split_score": 0.43129636167155627}
+{"sent": "cat in the sink", "ann_id": 52926, "best_split": [3, 2], "split_score": 0.43129636167155627}
+{"sent": "laying cat", "ann_id": 51594, "best_split": [5, 1], "split_score": 0.18855656695257694}
+{"sent": "sleeping cat", "ann_id": 51594, "best_split": [5, 1], "split_score": 0.18855656695257694}
+{"sent": "cat on toilet", "ann_id": 51594, "best_split": [5, 1], "split_score": 0.18855656695257694}

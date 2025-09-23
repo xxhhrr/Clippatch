@@ -1,0 +1,5 @@
+{"sent": "chair against curtain", "ann_id": 1933052, "best_split": [3, 3], "split_score": 0.3421820302884799}
+{"sent": "chair with stuff", "ann_id": 1933052, "best_split": [5, 1], "split_score": 0.183513419293873}
+{"sent": "gray chair", "ann_id": 1933052, "best_split": [3, 3], "split_score": 0.3421820302884799}
+{"sent": "back of chair", "ann_id": 374230, "best_split": [2, 3], "split_score": 0.4990347489745373}
+{"sent": "chair next to desk", "ann_id": 374230, "best_split": [3, 3], "split_score": 0.5433526010688258}

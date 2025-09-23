@@ -1,0 +1,6 @@
+{"sent": "person to the side", "ann_id": 189649, "best_split": [2, 1], "split_score": 0.19115958667511626}
+{"sent": "person out of frame at 9 o clock", "ann_id": 189649, "best_split": [2, 1], "split_score": 0.19115958667511626}
+{"sent": "person near blue placemat", "ann_id": 189649, "best_split": [2, 2], "split_score": 0.15577439569405918}
+{"sent": "full body", "ann_id": 2153333, "best_split": [2, 3], "split_score": 0.7474662161260296}
+{"sent": "woman reflection in mirror", "ann_id": 2153333, "best_split": [2, 3], "split_score": 0.7474662161260296}
+{"sent": "woman behind couch", "ann_id": 2153333, "best_split": [2, 1], "split_score": 0.24693080356158598}

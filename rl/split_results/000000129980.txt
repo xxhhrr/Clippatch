@@ -1,0 +1,6 @@
+{"sent": "couch between chairs and couch", "ann_id": 112934, "best_split": [2, 2], "split_score": 0.3093691675767548}
+{"sent": "couch behind tall vase", "ann_id": 112934, "best_split": [3, 2], "split_score": 0.36952263116099365}
+{"sent": "couch that you can see more of", "ann_id": 112934, "best_split": [3, 2], "split_score": 0.36952263116099365}
+{"sent": "white couch with 2 pillows on one end", "ann_id": 98273, "best_split": [3, 3], "split_score": 0.32724679025288916}
+{"sent": "sofa with only two pillows", "ann_id": 98273, "best_split": [3, 3], "split_score": 0.32724679025288916}
+{"sent": "red couch shorter", "ann_id": 98273, "best_split": [5, 1], "split_score": 0.2260550129714134}

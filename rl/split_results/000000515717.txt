@@ -1,0 +1,6 @@
+{"sent": "brown dog", "ann_id": 53279, "best_split": [3, 2], "split_score": 0.5725308641344212}
+{"sent": "the brown dog", "ann_id": 53279, "best_split": [3, 2], "split_score": 0.5725308641344212}
+{"sent": "dog at end of bed", "ann_id": 53279, "best_split": [3, 3], "split_score": 0.5100856953842998}
+{"sent": "whiteish dog", "ann_id": 13803, "best_split": [2, 3], "split_score": 0.34095782697868027}
+{"sent": "lightest dog", "ann_id": 13803, "best_split": [1, 5], "split_score": 0.23783783781488052}
+{"sent": "lightest colored dog", "ann_id": 13803, "best_split": [1, 5], "split_score": 0.23783783781488052}

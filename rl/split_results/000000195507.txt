@@ -1,0 +1,6 @@
+{"sent": "plush couch backwards", "ann_id": 115503, "best_split": [2, 2], "split_score": 0.6790375203519554}
+{"sent": "yellow couch", "ann_id": 115503, "best_split": [2, 2], "split_score": 0.6790375203519554}
+{"sent": "closer couch", "ann_id": 115503, "best_split": [2, 2], "split_score": 0.6790375203519554}
+{"sent": "couch facing you", "ann_id": 115064, "best_split": [3, 2], "split_score": 0.611617050538638}
+{"sent": "gray sofa", "ann_id": 115064, "best_split": [3, 2], "split_score": 0.611617050538638}
+{"sent": "white sofa facing us", "ann_id": 115064, "best_split": [3, 1], "split_score": 0.4820968637704107}

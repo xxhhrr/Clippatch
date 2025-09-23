@@ -1,0 +1,5 @@
+{"sent": "white tow truck", "ann_id": 398300, "best_split": [3, 1], "split_score": 0.6156189186642009}
+{"sent": "truck holding the car", "ann_id": 398300, "best_split": [3, 1], "split_score": 0.6156189186642009}
+{"sent": "white truck doing the hauling of the pink car", "ann_id": 398300, "best_split": [3, 1], "split_score": 0.6156189186642009}
+{"sent": "white van with british flag", "ann_id": 1369321, "best_split": [3, 2], "split_score": 0.46465616591772413}
+{"sent": "white van", "ann_id": 1369321, "best_split": [5, 1], "split_score": 0.44658523994094396}

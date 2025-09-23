@@ -1,0 +1,6 @@
+{"sent": "man chef", "ann_id": 470367, "best_split": [3, 2], "split_score": 0.3571428571083839}
+{"sent": "man", "ann_id": 470367, "best_split": [3, 2], "split_score": 0.3571428571083839}
+{"sent": "back to us", "ann_id": 470367, "best_split": [3, 3], "split_score": 0.33333333329382014}
+{"sent": "lady", "ann_id": 453508, "best_split": [3, 3], "split_score": 0.3190555470986748}
+{"sent": "female", "ann_id": 453508, "best_split": [3, 2], "split_score": 0.282915971031395}
+{"sent": "girl closest to us", "ann_id": 453508, "best_split": [3, 3], "split_score": 0.3190555470986748}

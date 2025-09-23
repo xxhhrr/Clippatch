@@ -1,0 +1,12 @@
+{"sent": "black baseball cap", "ann_id": 199028, "best_split": [1, 3], "split_score": 0.3161348949759625}
+{"sent": "blue shirt guy", "ann_id": 199028, "best_split": [2, 3], "split_score": 0.5435763888417035}
+{"sent": "black shirt guy", "ann_id": 199028, "best_split": [2, 2], "split_score": 0.4527356624619159}
+{"sent": "man getting on horse", "ann_id": 194135, "best_split": [2, 1], "split_score": 0.3295825287858851}
+{"sent": "the man getting on the horse", "ann_id": 194135, "best_split": [2, 1], "split_score": 0.3295825287858851}
+{"sent": "man getting off horse", "ann_id": 194135, "best_split": [2, 1], "split_score": 0.3295825287858851}
+{"sent": "hore hes already sitting on", "ann_id": 56322, "best_split": [2, 1], "split_score": 0.21635841835872296}
+{"sent": "horse we cant see head of", "ann_id": 56322, "best_split": [3, 2], "split_score": 0.6367541765349936}
+{"sent": "horse of guy fully sitting on it", "ann_id": 56322, "best_split": [3, 2], "split_score": 0.6367541765349936}
+{"sent": "horse faceing us", "ann_id": 54414, "best_split": [2, 3], "split_score": 0.6111992533260663}
+{"sent": "horse looking at you", "ann_id": 54414, "best_split": [2, 3], "split_score": 0.6111992533260663}
+{"sent": "horse head", "ann_id": 54414, "best_split": [2, 3], "split_score": 0.6111992533260663}

@@ -1,0 +1,5 @@
+{"sent": "monitor closes to you", "ann_id": 35463, "best_split": [3, 3], "split_score": 0.45679012339679664}
+{"sent": "screen with dark box on it", "ann_id": 35463, "best_split": [3, 1], "split_score": 0.19055793990394002}
+{"sent": "nearest big computer screen", "ann_id": 35463, "best_split": [3, 3], "split_score": 0.45679012339679664}
+{"sent": "monitor with one window open", "ann_id": 33879, "best_split": [2, 2], "split_score": 0.3056198223519949}
+{"sent": "desert desktop", "ann_id": 33879, "best_split": [3, 2], "split_score": 0.32539046852969655}

@@ -1,0 +1,12 @@
+{"sent": "leader", "ann_id": 1680185, "best_split": [3, 3], "split_score": 0.44473250053679797}
+{"sent": "woman white shirt", "ann_id": 1680185, "best_split": [3, 1], "split_score": 0.20176972938564822}
+{"sent": "woman in white shirt", "ann_id": 1680185, "best_split": [5, 1], "split_score": 0.11745349539201844}
+{"sent": "man in white shirt", "ann_id": 457154, "best_split": [1, 3], "split_score": 0.3112934362746565}
+{"sent": "white shirt guy", "ann_id": 457154, "best_split": [1, 3], "split_score": 0.3112934362746565}
+{"sent": "man in white", "ann_id": 457154, "best_split": [1, 3], "split_score": 0.3112934362746565}
+{"sent": "black shirt", "ann_id": 447676, "best_split": [3, 2], "split_score": 0.3360979462543347}
+{"sent": "woman with glasses", "ann_id": 447676, "best_split": [1, 2], "split_score": 0.2090242346855459}
+{"sent": "black shirt", "ann_id": 447676, "best_split": [3, 2], "split_score": 0.3360979462543347}
+{"sent": "red shirt", "ann_id": 443569, "best_split": [3, 2], "split_score": 0.33711478335532696}
+{"sent": "red shirt dude", "ann_id": 443569, "best_split": [3, 2], "split_score": 0.33711478335532696}
+{"sent": "red shirt", "ann_id": 443569, "best_split": [3, 2], "split_score": 0.33711478335532696}

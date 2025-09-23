@@ -1,0 +1,6 @@
+{"sent": "dark brown doughnut", "ann_id": 1081667, "best_split": [2, 3], "split_score": 0.6677783226417088}
+{"sent": "not fancy donut", "ann_id": 1081667, "best_split": [2, 1], "split_score": 0.0329727417176087}
+{"sent": "chocolate donut", "ann_id": 1081667, "best_split": [2, 1], "split_score": 0.0329727417176087}
+{"sent": "rainbow sprinkles", "ann_id": 1078984, "best_split": [2, 3], "split_score": 0.3916382252142024}
+{"sent": "color sprinkle donut", "ann_id": 1078984, "best_split": [2, 3], "split_score": 0.3916382252142024}
+{"sent": "sprinkles", "ann_id": 1078984, "best_split": [2, 3], "split_score": 0.3916382252142024}

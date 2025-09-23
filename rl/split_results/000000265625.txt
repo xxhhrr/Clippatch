@@ -1,0 +1,5 @@
+{"sent": "man with arm up", "ann_id": 463326, "best_split": [1, 2], "split_score": 0.732694355669683}
+{"sent": "man with his arm up", "ann_id": 463326, "best_split": [1, 2], "split_score": 0.732694355669683}
+{"sent": "guy", "ann_id": 463326, "best_split": [3, 2], "split_score": 0.4049247605821319}
+{"sent": "head down woman", "ann_id": 433472, "best_split": [1, 2], "split_score": 0.4064599483054094}
+{"sent": "the girl updating her facebook while her boyfriend scolds her", "ann_id": 433472, "best_split": [1, 2], "split_score": 0.4064599483054094}

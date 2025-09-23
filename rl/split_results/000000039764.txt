@@ -1,0 +1,6 @@
+{"sent": "child in red sweater", "ann_id": 469941, "best_split": [1, 2], "split_score": 0.6361607142603571}
+{"sent": "red shirt", "ann_id": 469941, "best_split": [1, 2], "split_score": 0.6361607142603571}
+{"sent": "red shirt", "ann_id": 469941, "best_split": [1, 2], "split_score": 0.6361607142603571}
+{"sent": "on knees", "ann_id": 422145, "best_split": [5, 1], "split_score": 0.3557896131189858}
+{"sent": "pink", "ann_id": 422145, "best_split": [3, 2], "split_score": 0.3975449234343308}
+{"sent": "girl in pink shirt", "ann_id": 422145, "best_split": [3, 2], "split_score": 0.3975449234343308}

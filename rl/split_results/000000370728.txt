@@ -1,0 +1,5 @@
+{"sent": "smallest orange slice", "ann_id": 1557297, "best_split": [3, 3], "split_score": 0.44141176465395154}
+{"sent": "orange slice at 11 o clock", "ann_id": 1557297, "best_split": [3, 3], "split_score": 0.44141176465395154}
+{"sent": "orange slices next to knife", "ann_id": 1051740, "best_split": [1, 3], "split_score": 0.4274162494981028}
+{"sent": "part of orange that is underneath knife", "ann_id": 1051740, "best_split": [1, 3], "split_score": 0.4274162494981028}
+{"sent": "slice beside knife either side", "ann_id": 1051740, "best_split": [1, 3], "split_score": 0.4274162494981028}

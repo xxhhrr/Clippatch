@@ -1,0 +1,6 @@
+{"sent": "zebra standing", "ann_id": 593016, "best_split": [1, 2], "split_score": 0.42359846183758065}
+{"sent": "standing", "ann_id": 593016, "best_split": [1, 2], "split_score": 0.42359846183758065}
+{"sent": "zebra standing", "ann_id": 593016, "best_split": [1, 2], "split_score": 0.42359846183758065}
+{"sent": "zebra who is just chillaxin", "ann_id": 590887, "best_split": [3, 1], "split_score": 0.34782608694192435}
+{"sent": "zebra laying down", "ann_id": 590887, "best_split": [3, 1], "split_score": 0.34782608694192435}
+{"sent": "laying zebra", "ann_id": 590887, "best_split": [3, 1], "split_score": 0.34782608694192435}

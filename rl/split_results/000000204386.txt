@@ -1,0 +1,6 @@
+{"sent": "older bro", "ann_id": 443122, "best_split": [1, 2], "split_score": 0.5855981557696676}
+{"sent": "big brother", "ann_id": 443122, "best_split": [1, 3], "split_score": 0.49952028507060303}
+{"sent": "bigger kid", "ann_id": 443122, "best_split": [1, 3], "split_score": 0.49952028507060303}
+{"sent": "little brother", "ann_id": 433468, "best_split": [2, 2], "split_score": 0.46974722632564636}
+{"sent": "younger baby", "ann_id": 433468, "best_split": [2, 2], "split_score": 0.46974722632564636}
+{"sent": "baby", "ann_id": 433468, "best_split": [2, 2], "split_score": 0.46974722632564636}

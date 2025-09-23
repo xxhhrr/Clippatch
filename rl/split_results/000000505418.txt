@@ -1,0 +1,6 @@
+{"sent": "smaller half of sandwich", "ann_id": 1553803, "best_split": [1, 3], "split_score": 0.23688079039222998}
+{"sent": "sandwitch closest to the edge", "ann_id": 1553803, "best_split": [1, 3], "split_score": 0.23688079039222998}
+{"sent": "sandwich where only the bread can be seen", "ann_id": 1553803, "best_split": [1, 3], "split_score": 0.23688079039222998}
+{"sent": "squished out cheese", "ann_id": 309383, "best_split": [1, 2], "split_score": 0.7711711711463587}
+{"sent": "cheese melting", "ann_id": 309383, "best_split": [1, 2], "split_score": 0.7711711711463587}
+{"sent": "fully seen sandwhich", "ann_id": 309383, "best_split": [1, 2], "split_score": 0.7711711711463587}

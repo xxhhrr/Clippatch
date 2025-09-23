@@ -1,0 +1,6 @@
+{"sent": "piece closest to us on side", "ann_id": 2189676, "best_split": [3, 1], "split_score": 0.1821786797187906}
+{"sent": "food 7 o clock", "ann_id": 2189676, "best_split": [3, 3], "split_score": 0.5165343914489857}
+{"sent": "corner of screen with some bubbles showing", "ann_id": 2189652, "best_split": [2, 2], "split_score": 0.33761160711594296}
+{"sent": "the lowest level in the corner", "ann_id": 2189652, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "pastry with orange filling", "ann_id": 2189485, "best_split": [1, 5], "split_score": 0.2156862744932838}
+{"sent": "lower half of highest piece", "ann_id": 2189485, "best_split": [1, 2], "split_score": 0.1911764705809139}

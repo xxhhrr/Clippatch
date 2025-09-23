@@ -1,0 +1,6 @@
+{"sent": "bigger one", "ann_id": 329129, "best_split": [1, 3], "split_score": 0.332126228647841}
+{"sent": "green phone", "ann_id": 329129, "best_split": [1, 3], "split_score": 0.332126228647841}
+{"sent": "phone number", "ann_id": 329129, "best_split": [1, 2], "split_score": 0.68974670102041}
+{"sent": "apple", "ann_id": 328680, "best_split": [1, 5], "split_score": 0.4897480960391221}
+{"sent": "the silver iphone", "ann_id": 328680, "best_split": [1, 5], "split_score": 0.4897480960391221}
+{"sent": "silver iphone", "ann_id": 328680, "best_split": [1, 5], "split_score": 0.4897480960391221}

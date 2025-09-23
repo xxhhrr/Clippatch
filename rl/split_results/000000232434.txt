@@ -1,0 +1,6 @@
+{"sent": "obscured elephant", "ann_id": 1409978, "best_split": [3, 3], "split_score": 0.4266170805649333}
+{"sent": "elephant u cant see", "ann_id": 1409978, "best_split": [3, 3], "split_score": 0.4266170805649333}
+{"sent": "partial elephant to side", "ann_id": 1409978, "best_split": [3, 3], "split_score": 0.4266170805649333}
+{"sent": "main elephant", "ann_id": 583191, "best_split": [2, 1], "split_score": 0.4027114760249131}
+{"sent": "elephant looking at you", "ann_id": 583191, "best_split": [2, 1], "split_score": 0.4027114760249131}
+{"sent": "elephant who is focus of picture", "ann_id": 583191, "best_split": [2, 1], "split_score": 0.4027114760249131}

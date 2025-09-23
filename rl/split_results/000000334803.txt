@@ -1,0 +1,9 @@
+{"sent": "man with arms crossed", "ann_id": 1738161, "best_split": [3, 3], "split_score": 0.31207169210436586}
+{"sent": "lurking hat guy", "ann_id": 1738161, "best_split": [1, 3], "split_score": 0.27027027025396533}
+{"sent": "arms crossed", "ann_id": 1738161, "best_split": [3, 2], "split_score": 0.2276923076704142}
+{"sent": "man that is being fed", "ann_id": 508978, "best_split": [1, 2], "split_score": 0.27048788264227963}
+{"sent": "groom", "ann_id": 508978, "best_split": [1, 3], "split_score": 0.17503269287923584}
+{"sent": "lot of hair guy", "ann_id": 508978, "best_split": [1, 5], "split_score": 0.5771417740165711}
+{"sent": "woman in white dress", "ann_id": 458554, "best_split": [1, 5], "split_score": 0.7100083946730708}
+{"sent": "bride", "ann_id": 458554, "best_split": [1, 5], "split_score": 0.7100083946730708}
+{"sent": "girl in white dress", "ann_id": 458554, "best_split": [1, 5], "split_score": 0.7100083946730708}

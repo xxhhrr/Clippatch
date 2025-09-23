@@ -1,0 +1,6 @@
+{"sent": "smaller box", "ann_id": 317899, "best_split": [2, 3], "split_score": 0.33844446682755525}
+{"sent": "black pillows", "ann_id": 317899, "best_split": [2, 3], "split_score": 0.33844446682755525}
+{"sent": "the bed with some clothes on it next to the bed with shoes", "ann_id": 317899, "best_split": [3, 1], "split_score": 0.1874621274617164}
+{"sent": "bed with big solid pillow", "ann_id": 315696, "best_split": [2, 3], "split_score": 0.31428571425655977}
+{"sent": "bed that looks the most made", "ann_id": 315696, "best_split": [1, 5], "split_score": 0.3069767441605501}
+{"sent": "case with blanket", "ann_id": 315696, "best_split": [1, 5], "split_score": 0.3069767441605501}

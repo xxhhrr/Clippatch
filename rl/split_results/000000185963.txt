@@ -1,0 +1,11 @@
+{"sent": "tablecloth of the table behind the plate", "ann_id": 1620408, "best_split": [3, 3], "split_score": 0.21973428866700487}
+{"sent": "table without cups", "ann_id": 1620408, "best_split": [5, 1], "split_score": 0.1897810218798198}
+{"sent": "green mug", "ann_id": 680186, "best_split": [3, 3], "split_score": 0.607095343613404}
+{"sent": "green cup", "ann_id": 680186, "best_split": [3, 3], "split_score": 0.607095343613404}
+{"sent": "yellow mug", "ann_id": 680186, "best_split": [3, 3], "split_score": 0.607095343613404}
+{"sent": "red cup", "ann_id": 669614, "best_split": [3, 3], "split_score": 0.4343612334163933}
+{"sent": "red cup", "ann_id": 669614, "best_split": [3, 3], "split_score": 0.4343612334163933}
+{"sent": "red mug", "ann_id": 669614, "best_split": [3, 3], "split_score": 0.4343612334163933}
+{"sent": "two cups and a plate with food", "ann_id": 122943, "best_split": [2, 1], "split_score": 0.6397611847551172}
+{"sent": "green cup", "ann_id": 122943, "best_split": [1, 2], "split_score": 0.4304653679556623}
+{"sent": "red cup", "ann_id": 122943, "best_split": [1, 2], "split_score": 0.4304653679556623}

@@ -1,0 +1,6 @@
+{"sent": "black shorts", "ann_id": 233615, "best_split": [1, 3], "split_score": 0.5816137328439731}
+{"sent": "girl not cutting cake", "ann_id": 233615, "best_split": [1, 2], "split_score": 0.3932955994741193}
+{"sent": "short shorts", "ann_id": 233615, "best_split": [1, 3], "split_score": 0.5816137328439731}
+{"sent": "woman who is going to cut cake", "ann_id": 219579, "best_split": [1, 2], "split_score": 0.6520008683460453}
+{"sent": "girl with glasses cutting cake", "ann_id": 219579, "best_split": [1, 2], "split_score": 0.6520008683460453}
+{"sent": "girl cutting cake", "ann_id": 219579, "best_split": [1, 3], "split_score": 0.32023030991184853}

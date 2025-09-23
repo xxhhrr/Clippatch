@@ -1,0 +1,9 @@
+{"sent": "batter", "ann_id": 484398, "best_split": [1, 3], "split_score": 0.686578743173746}
+{"sent": "batter", "ann_id": 484398, "best_split": [1, 3], "split_score": 0.686578743173746}
+{"sent": "39", "ann_id": 484398, "best_split": [1, 3], "split_score": 0.686578743173746}
+{"sent": "red shirt", "ann_id": 468223, "best_split": [2, 2], "split_score": 0.4998498948889335}
+{"sent": "man in red", "ann_id": 468223, "best_split": [2, 2], "split_score": 0.4998498948889335}
+{"sent": "catcher", "ann_id": 468223, "best_split": [2, 1], "split_score": 0.2574609556108914}
+{"sent": "blue shirt black pants", "ann_id": 467842, "best_split": [1, 5], "split_score": 0.6284101598709989}
+{"sent": "man with no numbers on shirt", "ann_id": 467842, "best_split": [3, 1], "split_score": 0.1876354248219245}
+{"sent": "the umpire", "ann_id": 467842, "best_split": [2, 1], "split_score": 0.20730590389575504}

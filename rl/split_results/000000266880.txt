@@ -1,0 +1,14 @@
+{"sent": "short boy", "ann_id": 1751749, "best_split": [3, 1], "split_score": 0.22105078192668023}
+{"sent": "boy without glasses", "ann_id": 1751749, "best_split": [3, 3], "split_score": 0.4223888225913794}
+{"sent": "little boy without glasses", "ann_id": 1751749, "best_split": [3, 3], "split_score": 0.4223888225913794}
+{"sent": "boy with white teddy", "ann_id": 1742212, "best_split": [1, 2], "split_score": 0.6598373724226787}
+{"sent": "kid with glasses", "ann_id": 1742212, "best_split": [1, 2], "split_score": 0.6598373724226787}
+{"sent": "koala", "ann_id": 1162489, "best_split": [3, 3], "split_score": 0.2152414193985978}
+{"sent": "koala", "ann_id": 1162489, "best_split": [3, 3], "split_score": 0.2152414193985978}
+{"sent": "koala bear in the black leather jacket", "ann_id": 1162489, "best_split": [2, 3], "split_score": 0.3410182516401275}
+{"sent": "the bear in red", "ann_id": 1159782, "best_split": [1, 5], "split_score": 0.37335259068664445}
+{"sent": "teddy in red", "ann_id": 1159782, "best_split": [2, 2], "split_score": 0.42713647955778566}
+{"sent": "red", "ann_id": 1159782, "best_split": [2, 2], "split_score": 0.42713647955778566}
+{"sent": "no clothes bear", "ann_id": 1159704, "best_split": [2, 2], "split_score": 0.5892857142387368}
+{"sent": "naked bear", "ann_id": 1159704, "best_split": [2, 2], "split_score": 0.5892857142387368}
+{"sent": "bear in glasses boy lap", "ann_id": 1159704, "best_split": [2, 2], "split_score": 0.5892857142387368}

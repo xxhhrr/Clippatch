@@ -1,0 +1,6 @@
+{"sent": "blurry giraffe", "ann_id": 597659, "best_split": [3, 1], "split_score": 0.25762750453906946}
+{"sent": "the blurry giraffe", "ann_id": 597659, "best_split": [3, 1], "split_score": 0.25762750453906946}
+{"sent": "blurred giraffe", "ann_id": 597659, "best_split": [3, 1], "split_score": 0.25762750453906946}
+{"sent": "head", "ann_id": 595860, "best_split": [1, 2], "split_score": 0.6049495875145688}
+{"sent": "giraffe head", "ann_id": 595860, "best_split": [1, 2], "split_score": 0.6049495875145688}
+{"sent": "head of giraffe", "ann_id": 595860, "best_split": [1, 2], "split_score": 0.6049495875145688}

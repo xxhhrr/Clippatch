@@ -1,0 +1,12 @@
+{"sent": "farthest red suitcase", "ann_id": 1184259, "best_split": [1, 5], "split_score": 0.3687943262071664}
+{"sent": "red luggage not being touched", "ann_id": 1184259, "best_split": [2, 3], "split_score": 0.5763073638590884}
+{"sent": "red bag with black handle near man", "ann_id": 1184259, "best_split": [2, 3], "split_score": 0.5763073638590884}
+{"sent": "red luggage in her hand", "ann_id": 1183083, "best_split": [1, 3], "split_score": 0.3643219111749323}
+{"sent": "lady has her hand on it", "ann_id": 1183083, "best_split": [1, 2], "split_score": 0.24071269131693587}
+{"sent": "the lug see is holding on to", "ann_id": 1183083, "best_split": [1, 2], "split_score": 0.24071269131693587}
+{"sent": "man", "ann_id": 491624, "best_split": [5, 1], "split_score": 0.18757425395292654}
+{"sent": "man in back holding white paper", "ann_id": 491624, "best_split": [3, 3], "split_score": 0.5209212588302278}
+{"sent": "man in background", "ann_id": 491624, "best_split": [2, 3], "split_score": 0.4767831497868087}
+{"sent": "person with glasses and jacket", "ann_id": 455900, "best_split": [1, 2], "split_score": 0.47921166305078255}
+{"sent": "woman with glasses", "ann_id": 455900, "best_split": [1, 2], "split_score": 0.47921166305078255}
+{"sent": "woman", "ann_id": 455900, "best_split": [1, 2], "split_score": 0.47921166305078255}

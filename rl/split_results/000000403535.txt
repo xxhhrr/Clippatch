@@ -1,0 +1,5 @@
+{"sent": "elephant pulling away from the other one", "ann_id": 583362, "best_split": [3, 2], "split_score": 0.6049479166141538}
+{"sent": "dodging elephant", "ann_id": 583362, "best_split": [3, 2], "split_score": 0.6049479166141538}
+{"sent": "animal falling down", "ann_id": 583362, "best_split": [3, 2], "split_score": 0.6049479166141538}
+{"sent": "straight body elephant", "ann_id": 582269, "best_split": [3, 1], "split_score": 0.38351254478294566}
+{"sent": "elephant charging", "ann_id": 582269, "best_split": [3, 1], "split_score": 0.38351254478294566}

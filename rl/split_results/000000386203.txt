@@ -1,0 +1,6 @@
+{"sent": "leg up", "ann_id": 487814, "best_split": [1, 3], "split_score": 0.6188320088422273}
+{"sent": "man lifting leg", "ann_id": 487814, "best_split": [1, 3], "split_score": 0.6188320088422273}
+{"sent": "guy with knee on frisbee", "ann_id": 487814, "best_split": [1, 3], "split_score": 0.6188320088422273}
+{"sent": "man standing", "ann_id": 459870, "best_split": [3, 2], "split_score": 0.2834619028093475}
+{"sent": "guy lef", "ann_id": 459870, "best_split": [1, 3], "split_score": 0.6442446910808249}
+{"sent": "no frisbee", "ann_id": 459870, "best_split": [1, 2], "split_score": 0.4256616709014006}

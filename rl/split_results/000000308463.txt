@@ -1,0 +1,5 @@
+{"sent": "flowers in red pot", "ann_id": 1955523, "best_split": [3, 3], "split_score": 0.3464542808475334}
+{"sent": "flowers next to the flowers not in a pot", "ann_id": 1955523, "best_split": [3, 3], "split_score": 0.3464542808475334}
+{"sent": "taller red flower pot", "ann_id": 1955523, "best_split": [3, 3], "split_score": 0.3464542808475334}
+{"sent": "plants at the very front of the boat", "ann_id": 1954159, "best_split": [1, 5], "split_score": 0.24187481914920678}
+{"sent": "plant closest to tip of boat", "ann_id": 1954159, "best_split": [1, 5], "split_score": 0.24187481914920678}

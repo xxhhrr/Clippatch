@@ -1,0 +1,5 @@
+{"sent": "arm without large bracelet", "ann_id": 1213353, "best_split": [2, 3], "split_score": 0.5692307691715977}
+{"sent": "hand only at corner of five oclcock", "ann_id": 1213353, "best_split": [2, 3], "split_score": 0.5692307691715977}
+{"sent": "hand held out to feed", "ann_id": 1210574, "best_split": [3, 1], "split_score": 0.5577944015107508}
+{"sent": "whiter arm", "ann_id": 1210574, "best_split": [3, 2], "split_score": 0.7880889250675006}
+{"sent": "arm with open palm and watch", "ann_id": 1210574, "best_split": [3, 2], "split_score": 0.7880889250675006}

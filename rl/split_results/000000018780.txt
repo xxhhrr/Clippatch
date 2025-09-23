@@ -1,0 +1,11 @@
+{"sent": "closest pizza", "ann_id": 1076392, "best_split": [2, 1], "split_score": 0.7356313336513192}
+{"sent": "pizza facing us", "ann_id": 1076392, "best_split": [2, 1], "split_score": 0.7356313336513192}
+{"sent": "pizza with less on it", "ann_id": 1076392, "best_split": [2, 1], "split_score": 0.7356313336513192}
+{"sent": "pepperoni pizza", "ann_id": 1073181, "best_split": [3, 3], "split_score": 0.29681318678056995}
+{"sent": "pepperoni pizza", "ann_id": 1073181, "best_split": [3, 3], "split_score": 0.29681318678056995}
+{"sent": "pizza away from us", "ann_id": 1073181, "best_split": [3, 3], "split_score": 0.29681318678056995}
+{"sent": "gray wine bottle opposit glass", "ann_id": 95087, "best_split": [2, 3], "split_score": 0.4623853210478916}
+{"sent": "tall frosty bottle", "ann_id": 95087, "best_split": [2, 3], "split_score": 0.4623853210478916}
+{"sent": "frosty water jug", "ann_id": 95087, "best_split": [2, 3], "split_score": 0.4623853210478916}
+{"sent": "glass bottle near pizzas", "ann_id": 91638, "best_split": [1, 3], "split_score": 0.13548081477170293}
+{"sent": "wine bottle with amber liquid", "ann_id": 91638, "best_split": [2, 3], "split_score": 0.26604651159697135}

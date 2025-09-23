@@ -1,0 +1,6 @@
+{"sent": "farthest screen", "ann_id": 321298, "best_split": [2, 2], "split_score": 0.7574441686757565}
+{"sent": "far screen", "ann_id": 321298, "best_split": [2, 2], "split_score": 0.7574441686757565}
+{"sent": "monitor with wall of text", "ann_id": 321298, "best_split": [3, 2], "split_score": 0.5360480640407169}
+{"sent": "screen with green line all the way across", "ann_id": 29234, "best_split": [3, 2], "split_score": 0.42898550722417256}
+{"sent": "monitor with green banner and a circle on it", "ann_id": 29234, "best_split": [1, 2], "split_score": 0.7352297592710523}
+{"sent": "screen closest", "ann_id": 29234, "best_split": [1, 2], "split_score": 0.7352297592710523}

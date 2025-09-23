@@ -1,0 +1,9 @@
+{"sent": "back of guys head", "ann_id": 2162964, "best_split": [2, 3], "split_score": 0.5166136443516601}
+{"sent": "head", "ann_id": 2162964, "best_split": [1, 2], "split_score": 0.35371492345528877}
+{"sent": "back of head", "ann_id": 2162964, "best_split": [2, 3], "split_score": 0.5166136443516601}
+{"sent": "reflection og guy", "ann_id": 441969, "best_split": [5, 1], "split_score": 0.21356714349667122}
+{"sent": "man on bed in mirror", "ann_id": 441969, "best_split": [3, 2], "split_score": 0.34913793099380963}
+{"sent": "guy in mirror", "ann_id": 441969, "best_split": [2, 3], "split_score": 0.16146825793185554}
+{"sent": "the bed in the mirror", "ann_id": 316982, "best_split": [3, 2], "split_score": 0.501671158975561}
+{"sent": "mattress in mirror", "ann_id": 316982, "best_split": [3, 2], "split_score": 0.501671158975561}
+{"sent": "part of bed seen only in mirror just side", "ann_id": 316982, "best_split": [3, 2], "split_score": 0.501671158975561}

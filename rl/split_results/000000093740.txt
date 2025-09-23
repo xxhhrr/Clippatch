@@ -1,0 +1,9 @@
+{"sent": "straight long brown hair", "ann_id": 1258086, "best_split": [1, 3], "split_score": 0.7492760617308593}
+{"sent": "the girl in the blue white shirt that is way out of frame", "ann_id": 1258086, "best_split": [1, 3], "split_score": 0.7492760617308593}
+{"sent": "girl next to woman in foreground", "ann_id": 1258086, "best_split": [1, 2], "split_score": 0.4950573979394508}
+{"sent": "a man in the background with a white shirt", "ann_id": 535065, "best_split": [2, 2], "split_score": 0.3180212013900161}
+{"sent": "long white sleeve on the side", "ann_id": 535065, "best_split": [1, 3], "split_score": 0.31274685815004505}
+{"sent": "corner of a man white jacket brown hair", "ann_id": 535065, "best_split": [2, 1], "split_score": 0.035364526658209855}
+{"sent": "person in red tie", "ann_id": 524709, "best_split": [2, 1], "split_score": 0.5156578127405059}
+{"sent": "woman", "ann_id": 524709, "best_split": [1, 2], "split_score": 0.39544469467565874}
+{"sent": "person smlling", "ann_id": 524709, "best_split": [1, 2], "split_score": 0.5029290617733884}

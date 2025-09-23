@@ -1,0 +1,6 @@
+{"sent": "blue train", "ann_id": 248853, "best_split": [3, 3], "split_score": 0.7077030080494343}
+{"sent": "the blue car", "ann_id": 248853, "best_split": [3, 3], "split_score": 0.7077030080494343}
+{"sent": "blue", "ann_id": 248853, "best_split": [3, 3], "split_score": 0.7077030080494343}
+{"sent": "gray train", "ann_id": 248663, "best_split": [3, 2], "split_score": 0.6621621620822681}
+{"sent": "last part of train", "ann_id": 248663, "best_split": [5, 1], "split_score": 0.3908629441270066}
+{"sent": "cargo being hauled not blue", "ann_id": 248663, "best_split": [3, 2], "split_score": 0.6621621620822681}

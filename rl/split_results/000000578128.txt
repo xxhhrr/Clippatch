@@ -1,0 +1,13 @@
+{"sent": "number 2 man with yellow on shirt", "ann_id": 1223887, "best_split": [3, 3], "split_score": 0.36991958265921326}
+{"sent": "black glasses", "ann_id": 1223887, "best_split": [1, 3], "split_score": 0.2872502171868348}
+{"sent": "glaesses younger", "ann_id": 1223887, "best_split": [1, 3], "split_score": 0.2872502171868348}
+{"sent": "laptop used by man without glasses", "ann_id": 1103507, "best_split": [5, 1], "split_score": 0.23838706810210614}
+{"sent": "white laptop", "ann_id": 1103507, "best_split": [2, 3], "split_score": 0.4258555132589174}
+{"sent": "laptop of the man that is smirking", "ann_id": 1103507, "best_split": [5, 1], "split_score": 0.23838706810210614}
+{"sent": "apple showing", "ann_id": 1100254, "best_split": [2, 3], "split_score": 0.36064189184837814}
+{"sent": "laptop on lap of man by window", "ann_id": 1100254, "best_split": [2, 3], "split_score": 0.36064189184837814}
+{"sent": "man looking down", "ann_id": 1737375, "best_split": [1, 3], "split_score": 0.6722210276998376}
+{"sent": "glasses looking at computer", "ann_id": 1737375, "best_split": [1, 3], "split_score": 0.6722210276998376}
+{"sent": "man without glasses", "ann_id": 505905, "best_split": [1, 2], "split_score": 0.46938775508333114}
+{"sent": "no glasses", "ann_id": 505905, "best_split": [1, 2], "split_score": 0.46938775508333114}
+{"sent": "guy with yellow necklace", "ann_id": 505905, "best_split": [1, 3], "split_score": 0.7104247103818517}

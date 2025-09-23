@@ -1,0 +1,6 @@
+{"sent": "red head girl", "ann_id": 1208435, "best_split": [1, 5], "split_score": 0.723635130491384}
+{"sent": "red hair", "ann_id": 1208435, "best_split": [1, 5], "split_score": 0.723635130491384}
+{"sent": "woman with red hair", "ann_id": 1208435, "best_split": [1, 5], "split_score": 0.723635130491384}
+{"sent": "dog", "ann_id": 468375, "best_split": [1, 2], "split_score": 0.5095827886355974}
+{"sent": "man with dog on back", "ann_id": 468375, "best_split": [1, 2], "split_score": 0.5095827886355974}
+{"sent": "man with dog", "ann_id": 468375, "best_split": [1, 2], "split_score": 0.5095827886355974}

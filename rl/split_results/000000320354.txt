@@ -1,0 +1,5 @@
+{"sent": "crust near person", "ann_id": 1571093, "best_split": [5, 1], "split_score": 0.29220779217814447}
+{"sent": "further pizza", "ann_id": 1571093, "best_split": [5, 1], "split_score": 0.29220779217814447}
+{"sent": "pepperoni pizza", "ann_id": 1071767, "best_split": [2, 1], "split_score": 0.84274252367459}
+{"sent": "closest pizza", "ann_id": 1071767, "best_split": [2, 1], "split_score": 0.84274252367459}
+{"sent": "pizza closest to us", "ann_id": 1071767, "best_split": [2, 1], "split_score": 0.84274252367459}

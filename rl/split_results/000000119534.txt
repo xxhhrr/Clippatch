@@ -1,0 +1,12 @@
+{"sent": "red label by doughnut", "ann_id": 2095739, "best_split": [1, 5], "split_score": 0.2746752150940885}
+{"sent": "tomato label", "ann_id": 2095739, "best_split": [2, 2], "split_score": 0.2681154257023074}
+{"sent": "campbells soup can", "ann_id": 2095739, "best_split": [2, 2], "split_score": 0.2681154257023074}
+{"sent": "sign with a clover", "ann_id": 682596, "best_split": [2, 3], "split_score": 0.8895441142107571}
+{"sent": "item with four leaf clover on it", "ann_id": 682596, "best_split": [3, 3], "split_score": 0.6112145183095377}
+{"sent": "notre dame", "ann_id": 682596, "best_split": [2, 3], "split_score": 0.8895441142107571}
+{"sent": "curlys glass", "ann_id": 681707, "best_split": [2, 1], "split_score": 0.5430484693661094}
+{"sent": "curlys", "ann_id": 681707, "best_split": [3, 2], "split_score": 0.38298409490135166}
+{"sent": "curlys glass", "ann_id": 681707, "best_split": [2, 1], "split_score": 0.5430484693661094}
+{"sent": "smirnoff", "ann_id": 83412, "best_split": [2, 3], "split_score": 0.718425127104797}
+{"sent": "smirnoff", "ann_id": 83412, "best_split": [2, 3], "split_score": 0.718425127104797}
+{"sent": "smirnoff", "ann_id": 83412, "best_split": [2, 3], "split_score": 0.718425127104797}

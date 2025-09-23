@@ -1,0 +1,10 @@
+{"sent": "the red and white train", "ann_id": 175103, "best_split": [3, 3], "split_score": 0.4554135654465084}
+{"sent": "red and white train", "ann_id": 175103, "best_split": [3, 3], "split_score": 0.4554135654465084}
+{"sent": "orange train", "ann_id": 175103, "best_split": [3, 3], "split_score": 0.4554135654465084}
+{"sent": "blue train by tracks", "ann_id": 174979, "best_split": [3, 2], "split_score": 0.77944015434611}
+{"sent": "blue and white train next to orange trains", "ann_id": 174979, "best_split": [3, 2], "split_score": 0.77944015434611}
+{"sent": "second blue train", "ann_id": 174704, "best_split": [3, 3], "split_score": 0.7966044141262131}
+{"sent": "in bewtween two green trains", "ann_id": 174704, "best_split": [3, 1], "split_score": 0.28136634948990213}
+{"sent": "third blue train", "ann_id": 171782, "best_split": [3, 3], "split_score": 0.2989656322490881}
+{"sent": "blue train number 5", "ann_id": 171782, "best_split": [3, 2], "split_score": 0.21119999997586286}
+{"sent": "the last blue train", "ann_id": 171782, "best_split": [3, 3], "split_score": 0.2989656322490881}

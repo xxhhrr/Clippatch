@@ -1,0 +1,6 @@
+{"sent": "foot up elephant leg up", "ann_id": 581158, "best_split": [1, 3], "split_score": 0.48211508551628285}
+{"sent": "foot up elephant", "ann_id": 581158, "best_split": [1, 3], "split_score": 0.48211508551628285}
+{"sent": "tallest", "ann_id": 581158, "best_split": [1, 3], "split_score": 0.48211508551628285}
+{"sent": "gray one looking at us", "ann_id": 580418, "best_split": [1, 3], "split_score": 0.2519583299583317}
+{"sent": "closest elephant", "ann_id": 580418, "best_split": [1, 2], "split_score": 0.527678985598899}
+{"sent": "lighter shade elephant", "ann_id": 580418, "best_split": [1, 2], "split_score": 0.527678985598899}

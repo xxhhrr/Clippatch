@@ -1,0 +1,8 @@
+{"sent": "main bear", "ann_id": 1674654, "best_split": [1, 3], "split_score": 0.721448467930688}
+{"sent": "umm bloody bear", "ann_id": 1674654, "best_split": [1, 3], "split_score": 0.721448467930688}
+{"sent": "main bear", "ann_id": 1674654, "best_split": [1, 3], "split_score": 0.721448467930688}
+{"sent": "obscured bear cant see its head", "ann_id": 1674431, "best_split": [3, 1], "split_score": 0.19998925654275948}
+{"sent": "partial teddy bear third in the row", "ann_id": 1674431, "best_split": [3, 1], "split_score": 0.19998925654275948}
+{"sent": "partial leg of bear shown", "ann_id": 1674431, "best_split": [3, 1], "split_score": 0.19998925654275948}
+{"sent": "bear half visible with head turned", "ann_id": 1674095, "best_split": [1, 2], "split_score": 0.33147321427250187}
+{"sent": "bear with half face showing", "ann_id": 1674095, "best_split": [1, 2], "split_score": 0.33147321427250187}

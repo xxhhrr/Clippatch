@@ -1,0 +1,11 @@
+{"sent": "man no face", "ann_id": 216121, "best_split": [1, 2], "split_score": 0.15497448978974113}
+{"sent": "officer faceing away", "ann_id": 216121, "best_split": [2, 3], "split_score": 0.45021438775009354}
+{"sent": "guy in the corner", "ann_id": 216121, "best_split": [1, 5], "split_score": 0.3500982317927212}
+{"sent": "guy besides the female police touching her holster", "ann_id": 216121, "best_split": [2, 3], "split_score": 0.45021438775009354}
+{"sent": "police in the corner", "ann_id": 216121, "best_split": [2, 3], "split_score": 0.45021438775009354}
+{"sent": "female cop with hand on radio", "ann_id": 207243, "best_split": [3, 2], "split_score": 0.3406940062707645}
+{"sent": "female officer closest to bus", "ann_id": 207243, "best_split": [3, 2], "split_score": 0.3406940062707645}
+{"sent": "policeperson with her head turned toward the bus", "ann_id": 207243, "best_split": [3, 2], "split_score": 0.3406940062707645}
+{"sent": "woman looking down at something", "ann_id": 186931, "best_split": [2, 1], "split_score": 0.08033820138108107}
+{"sent": "cop with hand by head", "ann_id": 186931, "best_split": [1, 5], "split_score": 0.49601683447346934}
+{"sent": "woman on cellphone", "ann_id": 186931, "best_split": [2, 3], "split_score": 0.6822309879201696}

@@ -1,0 +1,6 @@
+{"sent": "smaller layer of cake", "ann_id": 2189467, "best_split": [2, 3], "split_score": 0.43483938362269264}
+{"sent": "smallest layer", "ann_id": 2189467, "best_split": [2, 3], "split_score": 0.43483938362269264}
+{"sent": "cake not biggest layer", "ann_id": 2189467, "best_split": [2, 3], "split_score": 0.43483938362269264}
+{"sent": "largest part of cake", "ann_id": 1576415, "best_split": [2, 1], "split_score": 0.3933753188618712}
+{"sent": "biggest layer", "ann_id": 1576415, "best_split": [1, 3], "split_score": 0.24793544428068823}
+{"sent": "biggest layer", "ann_id": 1576415, "best_split": [1, 3], "split_score": 0.24793544428068823}

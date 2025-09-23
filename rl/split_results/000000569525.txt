@@ -1,0 +1,6 @@
+{"sent": "smaller cat", "ann_id": 1816659, "best_split": [3, 2], "split_score": 0.41308411210663715}
+{"sent": "cat on ground", "ann_id": 1816659, "best_split": [3, 2], "split_score": 0.41308411210663715}
+{"sent": "kitten on ground", "ann_id": 1816659, "best_split": [3, 2], "split_score": 0.41308411210663715}
+{"sent": "leaping kitty", "ann_id": 1402370, "best_split": [2, 1], "split_score": 0.494142741045025}
+{"sent": "gray cat jumping", "ann_id": 1402370, "best_split": [2, 1], "split_score": 0.494142741045025}
+{"sent": "cat in the air", "ann_id": 1402370, "best_split": [2, 1], "split_score": 0.494142741045025}

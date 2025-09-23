@@ -1,0 +1,8 @@
+{"sent": "ump", "ann_id": 2158141, "best_split": [5, 1], "split_score": 0.10281517747071488}
+{"sent": "black", "ann_id": 2158141, "best_split": [3, 3], "split_score": 0.5478099937464821}
+{"sent": "umpire", "ann_id": 2158141, "best_split": [3, 3], "split_score": 0.5478099937464821}
+{"sent": "catcher squatting", "ann_id": 521513, "best_split": [2, 3], "split_score": 0.27368033839675554}
+{"sent": "catcher", "ann_id": 521513, "best_split": [2, 3], "split_score": 0.27368033839675554}
+{"sent": "batter", "ann_id": 519757, "best_split": [1, 2], "split_score": 0.43837691324783257}
+{"sent": "batter", "ann_id": 519757, "best_split": [1, 2], "split_score": 0.43837691324783257}
+{"sent": "34", "ann_id": 519757, "best_split": [1, 2], "split_score": 0.43837691324783257}

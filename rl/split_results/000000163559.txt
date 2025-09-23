@@ -1,0 +1,6 @@
+{"sent": "upper green next to the beets", "ann_id": 1914431, "best_split": [2, 2], "split_score": 0.47161989792158643}
+{"sent": "dark leafy green", "ann_id": 1914431, "best_split": [3, 2], "split_score": 0.5040237187098662}
+{"sent": "dark green lettuce", "ann_id": 1914431, "best_split": [3, 2], "split_score": 0.5040237187098662}
+{"sent": "broccoli", "ann_id": 1055210, "best_split": [3, 3], "split_score": 0.40440896992215775}
+{"sent": "broccoli", "ann_id": 1055210, "best_split": [3, 3], "split_score": 0.40440896992215775}
+{"sent": "bunch of broccoli", "ann_id": 1055210, "best_split": [3, 3], "split_score": 0.40440896992215775}

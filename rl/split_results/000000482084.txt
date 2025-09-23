@@ -1,0 +1,6 @@
+{"sent": "3 bananas", "ann_id": 1042910, "best_split": [2, 3], "split_score": 0.29416531601558293}
+{"sent": "bananas at 9", "ann_id": 1042910, "best_split": [2, 3], "split_score": 0.29416531601558293}
+{"sent": "browner banans", "ann_id": 1042910, "best_split": [2, 3], "split_score": 0.29416531601558293}
+{"sent": "closer bananas", "ann_id": 1042053, "best_split": [3, 3], "split_score": 0.6045650831886852}
+{"sent": "bannanas laying down", "ann_id": 1042053, "best_split": [3, 3], "split_score": 0.6045650831886852}
+{"sent": "banana at 6 o clock", "ann_id": 1042053, "best_split": [3, 3], "split_score": 0.6045650831886852}

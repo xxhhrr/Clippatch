@@ -1,0 +1,6 @@
+{"sent": "red apple you see most of", "ann_id": 1049078, "best_split": [1, 3], "split_score": 0.6421404681890742}
+{"sent": "red fruit", "ann_id": 1049078, "best_split": [1, 3], "split_score": 0.6421404681890742}
+{"sent": "half fruit reddish", "ann_id": 1049078, "best_split": [1, 3], "split_score": 0.6421404681890742}
+{"sent": "green apple", "ann_id": 1048315, "best_split": [2, 1], "split_score": 0.5099651088890367}
+{"sent": "green apple", "ann_id": 1048315, "best_split": [2, 1], "split_score": 0.5099651088890367}
+{"sent": "green apple", "ann_id": 1048315, "best_split": [2, 1], "split_score": 0.5099651088890367}

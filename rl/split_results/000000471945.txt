@@ -1,0 +1,6 @@
+{"sent": "guitar player", "ann_id": 251456, "best_split": [2, 3], "split_score": 0.6192660549748548}
+{"sent": "man holding guitar", "ann_id": 251456, "best_split": [2, 3], "split_score": 0.6192660549748548}
+{"sent": "guy playing guitar", "ann_id": 251456, "best_split": [2, 3], "split_score": 0.6192660549748548}
+{"sent": "guy on laptop", "ann_id": 199286, "best_split": [1, 2], "split_score": 0.5732540963699888}
+{"sent": "man on sofa", "ann_id": 199286, "best_split": [1, 2], "split_score": 0.5732540963699888}
+{"sent": "man with laptop", "ann_id": 199286, "best_split": [1, 2], "split_score": 0.5732540963699888}

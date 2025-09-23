@@ -1,0 +1,8 @@
+{"sent": "gray car cant see tag", "ann_id": 359465, "best_split": [2, 3], "split_score": 0.3746256139481699}
+{"sent": "silver car with no numbers and visible wheel", "ann_id": 359465, "best_split": [1, 5], "split_score": 0.24851617841771814}
+{"sent": "white car behind towtruck", "ann_id": 357994, "best_split": [2, 1], "split_score": 0.20930325254267765}
+{"sent": "white car yellow dot", "ann_id": 357994, "best_split": [3, 3], "split_score": 0.6669774668738185}
+{"sent": "white car near us", "ann_id": 357994, "best_split": [3, 3], "split_score": 0.6669774668738185}
+{"sent": "silver car with orange tag", "ann_id": 350313, "best_split": [2, 3], "split_score": 0.7105617976729706}
+{"sent": "gray car yellow plates", "ann_id": 350313, "best_split": [2, 2], "split_score": 0.48069321978711665}
+{"sent": "gray car under the number 23", "ann_id": 350313, "best_split": [2, 3], "split_score": 0.7105617976729706}

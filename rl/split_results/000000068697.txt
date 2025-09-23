@@ -1,0 +1,9 @@
+{"sent": "brown bear", "ann_id": 1163300, "best_split": [1, 2], "split_score": 0.8008033381117341}
+{"sent": "brown", "ann_id": 1163300, "best_split": [1, 2], "split_score": 0.8008033381117341}
+{"sent": "dark brown bear", "ann_id": 1163300, "best_split": [1, 2], "split_score": 0.8008033381117341}
+{"sent": "teddy bear overalls", "ann_id": 1162857, "best_split": [2, 3], "split_score": 0.7409930715079684}
+{"sent": "blocked teddy bear", "ann_id": 1162857, "best_split": [2, 3], "split_score": 0.7409930715079684}
+{"sent": "light pink bear", "ann_id": 1162857, "best_split": [3, 1], "split_score": 0.2850621493628279}
+{"sent": "paisly print bear", "ann_id": 1161728, "best_split": [3, 2], "split_score": 0.40155038757744427}
+{"sent": "white purple teddi", "ann_id": 1161728, "best_split": [3, 1], "split_score": 0.31338226989294954}
+{"sent": "white bear closest us with paisley vest", "ann_id": 1161728, "best_split": [1, 2], "split_score": 0.7279322853412964}

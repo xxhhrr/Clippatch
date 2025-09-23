@@ -1,0 +1,9 @@
+{"sent": "back of head", "ann_id": 436878, "best_split": [3, 3], "split_score": 0.5122352080876122}
+{"sent": "head of girl but not in mirror", "ann_id": 436878, "best_split": [2, 1], "split_score": 0.11180644132207404}
+{"sent": "back of a head", "ann_id": 436878, "best_split": [3, 3], "split_score": 0.5122352080876122}
+{"sent": "girl in mirror", "ann_id": 2204543, "best_split": [3, 3], "split_score": 0.4337633513061779}
+{"sent": "girl sticking tongue out", "ann_id": 2204543, "best_split": [3, 3], "split_score": 0.4337633513061779}
+{"sent": "toung out girl", "ann_id": 2204543, "best_split": [2, 2], "split_score": 0.2831023296753832}
+{"sent": "kid in black jersey not his reflection", "ann_id": 2151036, "best_split": [2, 3], "split_score": 0.44908103104276026}
+{"sent": "boy", "ann_id": 2151036, "best_split": [3, 1], "split_score": 0.08030711765509924}
+{"sent": "blond headed boy real one", "ann_id": 2151036, "best_split": [2, 2], "split_score": 0.31228508906593583}

@@ -1,0 +1,6 @@
+{"sent": "rear cat", "ann_id": 49885, "best_split": [2, 2], "split_score": 0.3348675985717202}
+{"sent": "back cat", "ann_id": 49885, "best_split": [2, 1], "split_score": 0.3952993107567839}
+{"sent": "darker", "ann_id": 49885, "best_split": [2, 3], "split_score": 0.46910562892621205}
+{"sent": "closest cat", "ann_id": 48983, "best_split": [2, 1], "split_score": 0.5299865942097655}
+{"sent": "cat lying on its side", "ann_id": 48983, "best_split": [2, 1], "split_score": 0.5299865942097655}
+{"sent": "closest", "ann_id": 48983, "best_split": [3, 1], "split_score": 0.38966630784237666}

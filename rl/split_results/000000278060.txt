@@ -1,0 +1,6 @@
+{"sent": "corned beef is most visible on this half", "ann_id": 313328, "best_split": [2, 3], "split_score": 0.7470264866819564}
+{"sent": "sandwich half with most beef showing", "ann_id": 313328, "best_split": [2, 3], "split_score": 0.7470264866819564}
+{"sent": "sandwich without toothpick", "ann_id": 313328, "best_split": [2, 3], "split_score": 0.7470264866819564}
+{"sent": "bread on upper sandwich", "ann_id": 312555, "best_split": [3, 2], "split_score": 0.47737135767625793}
+{"sent": "sandwich half with less meat showing", "ann_id": 312555, "best_split": [2, 2], "split_score": 0.38088642656767663}
+{"sent": "sandwich with toothpick", "ann_id": 312555, "best_split": [3, 2], "split_score": 0.47737135767625793}

@@ -1,0 +1,6 @@
+{"sent": "elephant behind the baby", "ann_id": 584752, "best_split": [3, 3], "split_score": 0.48302872057812524}
+{"sent": "elephant next to small one", "ann_id": 584752, "best_split": [3, 3], "split_score": 0.48302872057812524}
+{"sent": "next to biggest", "ann_id": 584752, "best_split": [3, 2], "split_score": 0.37666405635264966}
+{"sent": "largest", "ann_id": 581457, "best_split": [1, 2], "split_score": 0.4817651843654499}
+{"sent": "largest elephant", "ann_id": 581457, "best_split": [1, 2], "split_score": 0.4817651843654499}
+{"sent": "biggest", "ann_id": 581457, "best_split": [1, 2], "split_score": 0.4817651843654499}

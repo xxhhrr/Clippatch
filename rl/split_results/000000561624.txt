@@ -1,0 +1,5 @@
+{"sent": "person swinging a bat", "ann_id": 546642, "best_split": [1, 3], "split_score": 0.4307241523392499}
+{"sent": "player", "ann_id": 546642, "best_split": [1, 3], "split_score": 0.4307241523392499}
+{"sent": "batter", "ann_id": 546642, "best_split": [1, 3], "split_score": 0.4307241523392499}
+{"sent": "person solid black shirt hands at crotch wearing glasses", "ann_id": 466620, "best_split": [3, 3], "split_score": 0.3912769641959885}
+{"sent": "guy black shirt siting", "ann_id": 466620, "best_split": [3, 3], "split_score": 0.3912769641959885}

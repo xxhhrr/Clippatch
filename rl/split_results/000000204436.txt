@@ -1,0 +1,8 @@
+{"sent": "any of the trays of apples except the most visible two", "ann_id": 1050425, "best_split": [1, 2], "split_score": 0.45144380078739577}
+{"sent": "highest apples", "ann_id": 1050425, "best_split": [1, 2], "split_score": 0.45144380078739577}
+{"sent": "fruit by writing box", "ann_id": 1049793, "best_split": [3, 2], "split_score": 0.6101190475541965}
+{"sent": "apples near floor", "ann_id": 1049793, "best_split": [3, 2], "split_score": 0.6101190475541965}
+{"sent": "lowest shelf of apples", "ann_id": 1049793, "best_split": [3, 2], "split_score": 0.6101190475541965}
+{"sent": "apples near pink bag", "ann_id": 1049622, "best_split": [2, 3], "split_score": 0.4442961974226345}
+{"sent": "fruit tray two nearest camera", "ann_id": 1049622, "best_split": [2, 3], "split_score": 0.4442961974226345}
+{"sent": "tray of apples number 2 from ground close", "ann_id": 1049622, "best_split": [2, 3], "split_score": 0.4442961974226345}

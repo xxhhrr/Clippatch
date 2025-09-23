@@ -1,0 +1,6 @@
+{"sent": "lower corner partial", "ann_id": 182731, "best_split": [1, 2], "split_score": 0.15748031495509418}
+{"sent": "edge of boat", "ann_id": 182731, "best_split": [3, 1], "split_score": 0.47297297294443935}
+{"sent": "lowest blue", "ann_id": 182731, "best_split": [5, 1], "split_score": 0.7604456823756023}
+{"sent": "tg 14 on canoe", "ann_id": 180567, "best_split": [3, 1], "split_score": 0.7548831864772729}
+{"sent": "boat tg 14", "ann_id": 180567, "best_split": [3, 1], "split_score": 0.7548831864772729}
+{"sent": "not closest but next", "ann_id": 180567, "best_split": [1, 2], "split_score": 0.18707224334053604}

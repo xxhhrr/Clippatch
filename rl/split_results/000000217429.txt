@@ -1,0 +1,12 @@
+{"sent": "pillow on couch", "ann_id": 1950520, "best_split": [3, 3], "split_score": 0.4997564539089434}
+{"sent": "pillow behind girl", "ann_id": 1950520, "best_split": [2, 2], "split_score": 0.46537647411057026}
+{"sent": "pillow with red flowers on it", "ann_id": 1950520, "best_split": [2, 3], "split_score": 0.686134641029187}
+{"sent": "person in blue shirt half hidden", "ann_id": 466008, "best_split": [2, 1], "split_score": 0.49711550262375365}
+{"sent": "adult", "ann_id": 466008, "best_split": [1, 2], "split_score": 0.30407355927766294}
+{"sent": "dad", "ann_id": 466008, "best_split": [3, 1], "split_score": 0.38044968465929363}
+{"sent": "girl", "ann_id": 461380, "best_split": [1, 3], "split_score": 0.5740731859107921}
+{"sent": "girl", "ann_id": 461380, "best_split": [1, 3], "split_score": 0.5740731859107921}
+{"sent": "girl playing", "ann_id": 461380, "best_split": [1, 3], "split_score": 0.5740731859107921}
+{"sent": "couchs arm", "ann_id": 99699, "best_split": [1, 2], "split_score": 0.44359840342512746}
+{"sent": "arm of ocuch", "ann_id": 99699, "best_split": [1, 2], "split_score": 0.44359840342512746}
+{"sent": "arm of sofa", "ann_id": 99699, "best_split": [2, 1], "split_score": 0.6703851072662219}

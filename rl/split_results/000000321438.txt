@@ -1,0 +1,6 @@
+{"sent": "closest pizza slice with fork on it", "ann_id": 1077627, "best_split": [1, 2], "split_score": 0.17252485645664034}
+{"sent": "piece with fork on it", "ann_id": 1077627, "best_split": [5, 1], "split_score": 0.7508869497793761}
+{"sent": "fork", "ann_id": 1077627, "best_split": [5, 1], "split_score": 0.7508869497793761}
+{"sent": "the pizza that is whole", "ann_id": 1074903, "best_split": [5, 1], "split_score": 0.486537257314023}
+{"sent": "full pizza", "ann_id": 1074903, "best_split": [5, 1], "split_score": 0.486537257314023}
+{"sent": "the whole pizza", "ann_id": 1074903, "best_split": [5, 1], "split_score": 0.486537257314023}

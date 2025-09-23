@@ -1,0 +1,5 @@
+{"sent": "man behind white shirt man in stripes", "ann_id": 1266944, "best_split": [2, 2], "split_score": 0.27242977909241683}
+{"sent": "man in blue and white shirt", "ann_id": 1266944, "best_split": [2, 3], "split_score": 0.36919129522292204}
+{"sent": "man", "ann_id": 1217201, "best_split": [1, 2], "split_score": 0.7780548628125757}
+{"sent": "man in white with glasses", "ann_id": 1217201, "best_split": [1, 2], "split_score": 0.7780548628125757}
+{"sent": "white shirt and tie", "ann_id": 1217201, "best_split": [1, 2], "split_score": 0.7780548628125757}

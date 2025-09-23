@@ -1,0 +1,12 @@
+{"sent": "womans face", "ann_id": 198912, "best_split": [2, 1], "split_score": 0.04718706562121636}
+{"sent": "the women sitting on the arm of the couch", "ann_id": 198912, "best_split": [1, 5], "split_score": 0.3120470127020522}
+{"sent": "girl sitting", "ann_id": 198912, "best_split": [2, 3], "split_score": 0.22531855379412424}
+{"sent": "guy in orange", "ann_id": 195760, "best_split": [1, 3], "split_score": 0.5795405288001932}
+{"sent": "orange vest", "ann_id": 195760, "best_split": [1, 3], "split_score": 0.5795405288001932}
+{"sent": "guy in orange", "ann_id": 195760, "best_split": [1, 3], "split_score": 0.5795405288001932}
+{"sent": "stripes on the starbord side with a pink line", "ann_id": 117357, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "striped thing with red vertical bar", "ann_id": 117357, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "the couch the woman is sitting on", "ann_id": 117357, "best_split": [3, 3], "split_score": 0.6347197105543002}
+{"sent": "what man is sitting on", "ann_id": 116391, "best_split": [3, 3], "split_score": 0.7805031445313674}
+{"sent": "couch under man in orange", "ann_id": 116391, "best_split": [3, 3], "split_score": 0.7805031445313674}
+{"sent": "seat under the man", "ann_id": 116391, "best_split": [1, 5], "split_score": 0.3174496644028985}

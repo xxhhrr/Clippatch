@@ -1,0 +1,7 @@
+{"sent": "pizza in back", "ann_id": 1076544, "best_split": [1, 5], "split_score": 0.20908130938232905}
+{"sent": "smalest pizza", "ann_id": 1076544, "best_split": [1, 5], "split_score": 0.20908130938232905}
+{"sent": "rear pizza", "ann_id": 1076544, "best_split": [1, 5], "split_score": 0.20908130938232905}
+{"sent": "far away pizza", "ann_id": 1076544, "best_split": [1, 5], "split_score": 0.20908130938232905}
+{"sent": "near us", "ann_id": 1072969, "best_split": [3, 1], "split_score": 0.40159690598210973}
+{"sent": "pizza with lemon on it", "ann_id": 1072969, "best_split": [2, 1], "split_score": 0.44772481038873985}
+{"sent": "close pizza", "ann_id": 1072969, "best_split": [2, 1], "split_score": 0.44772481038873985}

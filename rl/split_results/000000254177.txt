@@ -1,0 +1,6 @@
+{"sent": "man with white beard", "ann_id": 506694, "best_split": [3, 2], "split_score": 0.4154597233185143}
+{"sent": "beard", "ann_id": 506694, "best_split": [3, 2], "split_score": 0.4154597233185143}
+{"sent": "beard", "ann_id": 506694, "best_split": [3, 2], "split_score": 0.4154597233185143}
+{"sent": "man", "ann_id": 500005, "best_split": [2, 1], "split_score": 0.4334683701991393}
+{"sent": "the guy with a flower", "ann_id": 500005, "best_split": [2, 1], "split_score": 0.4451775054879678}
+{"sent": "man in foreground", "ann_id": 500005, "best_split": [1, 2], "split_score": 0.512305091102003}

@@ -1,0 +1,5 @@
+{"sent": "side of signal we cant see lights on", "ann_id": 411429, "best_split": [5, 1], "split_score": 0.18510562117927803}
+{"sent": "street light pointing away from camera", "ann_id": 411429, "best_split": [3, 2], "split_score": 0.3327243662556834}
+{"sent": "12", "ann_id": 407415, "best_split": [5, 1], "split_score": 0.13254786449442674}
+{"sent": "stop light", "ann_id": 407415, "best_split": [3, 3], "split_score": 0.32508361198577196}
+{"sent": "traffic signal", "ann_id": 407415, "best_split": [3, 3], "split_score": 0.32508361198577196}

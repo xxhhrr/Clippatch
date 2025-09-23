@@ -1,0 +1,6 @@
+{"sent": "mirror image", "ann_id": 1236270, "best_split": [1, 3], "split_score": 0.2540524162909388}
+{"sent": "mirror image of man brushing teeth", "ann_id": 1236270, "best_split": [1, 2], "split_score": 0.6090923148055863}
+{"sent": "face in mirror", "ann_id": 1236270, "best_split": [1, 2], "split_score": 0.6090923148055863}
+{"sent": "real guy", "ann_id": 490781, "best_split": [2, 1], "split_score": 0.33578738512072404}
+{"sent": "the man not the reflection", "ann_id": 490781, "best_split": [2, 1], "split_score": 0.34824769432547437}
+{"sent": "not the reflection", "ann_id": 490781, "best_split": [2, 1], "split_score": 0.34824769432547437}

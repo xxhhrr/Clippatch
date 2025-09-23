@@ -1,0 +1,6 @@
+{"sent": "man towards us", "ann_id": 479787, "best_split": [1, 5], "split_score": 0.4265729715383842}
+{"sent": "kid snowboarding", "ann_id": 479787, "best_split": [1, 2], "split_score": 0.4138888888731397}
+{"sent": "snowboarder", "ann_id": 479787, "best_split": [1, 2], "split_score": 0.4138888888731397}
+{"sent": "blue hat guy", "ann_id": 472142, "best_split": [2, 2], "split_score": 0.6033768466658815}
+{"sent": "face covered in back", "ann_id": 472142, "best_split": [2, 1], "split_score": 0.30465327385623187}
+{"sent": "hidden legs person", "ann_id": 472142, "best_split": [3, 1], "split_score": 0.16096684167442568}

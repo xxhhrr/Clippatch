@@ -1,0 +1,6 @@
+{"sent": "sitting guy", "ann_id": 476650, "best_split": [3, 2], "split_score": 0.4354587868939095}
+{"sent": "man sitting with white hat", "ann_id": 476650, "best_split": [2, 3], "split_score": 0.37555886732716476}
+{"sent": "sitting person", "ann_id": 476650, "best_split": [3, 2], "split_score": 0.4354587868939095}
+{"sent": "man with raquet", "ann_id": 474753, "best_split": [1, 3], "split_score": 0.3284595300138583}
+{"sent": "tennis player", "ann_id": 474753, "best_split": [1, 3], "split_score": 0.3284595300138583}
+{"sent": "player", "ann_id": 474753, "best_split": [3, 1], "split_score": 0.49798115744877264}

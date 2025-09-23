@@ -1,0 +1,6 @@
+{"sent": "giraffe in back", "ann_id": 597529, "best_split": [1, 2], "split_score": 0.36666666665225367}
+{"sent": "giraffe standing", "ann_id": 597529, "best_split": [1, 2], "split_score": 0.36666666665225367}
+{"sent": "tall giraffe", "ann_id": 597529, "best_split": [1, 2], "split_score": 0.36666666665225367}
+{"sent": "giraffe coming out of cage", "ann_id": 595351, "best_split": [2, 3], "split_score": 0.5027099264605606}
+{"sent": "giraffe head over fence closest to us", "ann_id": 595351, "best_split": [2, 3], "split_score": 0.5027099264605606}
+{"sent": "big head giraffe", "ann_id": 595351, "best_split": [2, 3], "split_score": 0.5027099264605606}

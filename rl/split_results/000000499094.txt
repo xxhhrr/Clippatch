@@ -1,0 +1,6 @@
+{"sent": "yellow shirt near ball", "ann_id": 1745759, "best_split": [3, 2], "split_score": 0.5162790697299215}
+{"sent": "yellow shirt", "ann_id": 1745759, "best_split": [3, 2], "split_score": 0.5162790697299215}
+{"sent": "yellow", "ann_id": 1745759, "best_split": [3, 2], "split_score": 0.5162790697299215}
+{"sent": "white shirt", "ann_id": 518332, "best_split": [1, 2], "split_score": 0.45922041104297034}
+{"sent": "16", "ann_id": 518332, "best_split": [1, 2], "split_score": 0.45922041104297034}
+{"sent": "white shirt", "ann_id": 518332, "best_split": [1, 2], "split_score": 0.45922041104297034}

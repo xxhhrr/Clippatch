@@ -1,0 +1,6 @@
+{"sent": "guy with tan suit looking at guy with black suit", "ann_id": 550276, "best_split": [2, 1], "split_score": 0.06231198968437866}
+{"sent": "man in brown jacket with his back to us", "ann_id": 550276, "best_split": [2, 3], "split_score": 0.5785834588619286}
+{"sent": "guy in brown with black collar", "ann_id": 550276, "best_split": [2, 3], "split_score": 0.5785834588619286}
+{"sent": "burgandy shirt", "ann_id": 2001400, "best_split": [2, 3], "split_score": 0.793699874307305}
+{"sent": "red blouse woman", "ann_id": 2001400, "best_split": [1, 3], "split_score": 0.6065936695622214}
+{"sent": "woman wearing maroon", "ann_id": 2001400, "best_split": [2, 3], "split_score": 0.793699874307305}

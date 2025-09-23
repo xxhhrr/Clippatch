@@ -1,0 +1,6 @@
+{"sent": "bending", "ann_id": 2204580, "best_split": [2, 3], "split_score": 0.407727405066719}
+{"sent": "person running", "ann_id": 2204580, "best_split": [2, 3], "split_score": 0.407727405066719}
+{"sent": "shorter", "ann_id": 2204580, "best_split": [2, 3], "split_score": 0.407727405066719}
+{"sent": "standing woman", "ann_id": 496532, "best_split": [2, 1], "split_score": 0.11965875925616783}
+{"sent": "guy standing up straight", "ann_id": 496532, "best_split": [2, 3], "split_score": 0.32218416277229656}
+{"sent": "man", "ann_id": 496532, "best_split": [3, 3], "split_score": 0.38863452728405135}

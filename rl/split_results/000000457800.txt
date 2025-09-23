@@ -1,0 +1,6 @@
+{"sent": "pink", "ann_id": 1229523, "best_split": [2, 3], "split_score": 0.4778214485796536}
+{"sent": "girl in pink", "ann_id": 1229523, "best_split": [2, 3], "split_score": 0.4778214485796536}
+{"sent": "girl", "ann_id": 1229523, "best_split": [2, 3], "split_score": 0.4778214485796536}
+{"sent": "man", "ann_id": 446992, "best_split": [1, 2], "split_score": 0.9161352040451157}
+{"sent": "gradpa", "ann_id": 446992, "best_split": [2, 1], "split_score": 0.30858013936442236}
+{"sent": "man", "ann_id": 446992, "best_split": [1, 2], "split_score": 0.9161352040451157}

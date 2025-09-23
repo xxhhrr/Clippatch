@@ -1,0 +1,6 @@
+{"sent": "woman in uniform", "ann_id": 1318302, "best_split": [1, 2], "split_score": 0.4821029974297631}
+{"sent": "curly", "ann_id": 1318302, "best_split": [1, 5], "split_score": 0.6975485267421275}
+{"sent": "woman", "ann_id": 1318302, "best_split": [1, 5], "split_score": 0.6975485267421275}
+{"sent": "bald guy", "ann_id": 1218271, "best_split": [1, 5], "split_score": 0.7065358909203597}
+{"sent": "bald one", "ann_id": 1218271, "best_split": [1, 5], "split_score": 0.7065358909203597}
+{"sent": "male pilot", "ann_id": 1218271, "best_split": [1, 5], "split_score": 0.7065358909203597}

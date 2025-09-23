@@ -1,0 +1,6 @@
+{"sent": "chair farthest from guy", "ann_id": 385740, "best_split": [3, 1], "split_score": 0.22695463319094145}
+{"sent": "corner chair close to us", "ann_id": 385740, "best_split": [1, 3], "split_score": 0.22695463319094145}
+{"sent": "chair closest to the corner of the pic", "ann_id": 385740, "best_split": [1, 3], "split_score": 0.22695463319094145}
+{"sent": "chair next to ipad", "ann_id": 1589998, "best_split": [3, 3], "split_score": 0.6802363754628633}
+{"sent": "empty chair next to man", "ann_id": 1589998, "best_split": [3, 3], "split_score": 0.6802363754628633}
+{"sent": "chair closest brown showing", "ann_id": 1589998, "best_split": [3, 3], "split_score": 0.6802363754628633}

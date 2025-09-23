@@ -1,0 +1,14 @@
+{"sent": "woman in yellow sari with striped skirt", "ann_id": 569603, "best_split": [3, 2], "split_score": 0.2893194166221533}
+{"sent": "woman is peach", "ann_id": 569603, "best_split": [1, 2], "split_score": 0.38851243620900383}
+{"sent": "lady standing in white", "ann_id": 569603, "best_split": [2, 1], "split_score": 0.21707078470347738}
+{"sent": "purple sitting", "ann_id": 560649, "best_split": [2, 2], "split_score": 0.5329550414333756}
+{"sent": "red shirt", "ann_id": 560649, "best_split": [1, 2], "split_score": 0.4091392135870222}
+{"sent": "thank you woman in pink shirt with whte over", "ann_id": 560649, "best_split": [1, 2], "split_score": 0.4091392135870222}
+{"sent": "partial man white pants", "ann_id": 558339, "best_split": [1, 5], "split_score": 0.4148430066208522}
+{"sent": "person with hands on hips wearing all yellow", "ann_id": 558339, "best_split": [2, 1], "split_score": 0.04137549297580518}
+{"sent": "guy sitting", "ann_id": 473594, "best_split": [3, 3], "split_score": 0.44468412936137375}
+{"sent": "has hand to ear", "ann_id": 473594, "best_split": [3, 3], "split_score": 0.44468412936137375}
+{"sent": "person sitting in shadow with black pants", "ann_id": 473594, "best_split": [3, 3], "split_score": 0.44468412936137375}
+{"sent": "woman with blue shirt", "ann_id": 450430, "best_split": [1, 5], "split_score": 0.5585381629561337}
+{"sent": "woman with blue shirt that is standing", "ann_id": 450430, "best_split": [1, 5], "split_score": 0.5585381629561337}
+{"sent": "blue shirt", "ann_id": 450430, "best_split": [1, 3], "split_score": 0.3846809417074315}

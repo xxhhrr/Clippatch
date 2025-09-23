@@ -1,0 +1,5 @@
+{"sent": "chair with back to us", "ann_id": 103689, "best_split": [2, 1], "split_score": 0.28850446427421456}
+{"sent": "leather chair facing away", "ann_id": 103689, "best_split": [3, 1], "split_score": 0.4126230869372035}
+{"sent": "black sofa closest", "ann_id": 103689, "best_split": [2, 1], "split_score": 0.28850446427421456}
+{"sent": "the chair by the double glass doors", "ann_id": 102477, "best_split": [2, 3], "split_score": 0.3674445740528069}
+{"sent": "couch that is on the rug", "ann_id": 102477, "best_split": [2, 3], "split_score": 0.3674445740528069}

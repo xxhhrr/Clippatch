@@ -1,0 +1,12 @@
+{"sent": "bowl with cheese and crackers", "ann_id": 1041331, "best_split": [3, 3], "split_score": 0.695100279170462}
+{"sent": "bowl with crackers and cheese", "ann_id": 1041331, "best_split": [3, 3], "split_score": 0.695100279170462}
+{"sent": "cheese and crackers", "ann_id": 1041331, "best_split": [3, 3], "split_score": 0.695100279170462}
+{"sent": "peas and carrots", "ann_id": 1041242, "best_split": [3, 3], "split_score": 0.5331622581392457}
+{"sent": "snap peas and carrorts", "ann_id": 1041242, "best_split": [1, 3], "split_score": 0.4230604829865858}
+{"sent": "carrots celery", "ann_id": 1041242, "best_split": [3, 3], "split_score": 0.5331622581392457}
+{"sent": "bowl of cherries and grapes", "ann_id": 1041163, "best_split": [3, 3], "split_score": 0.5324258628553791}
+{"sent": "red and green fruit", "ann_id": 1041163, "best_split": [3, 3], "split_score": 0.5324258628553791}
+{"sent": "plate of black red fruits", "ann_id": 1041163, "best_split": [3, 3], "split_score": 0.5324258628553791}
+{"sent": "salad", "ann_id": 717986, "best_split": [2, 3], "split_score": 0.7343611553487186}
+{"sent": "salad with carrots", "ann_id": 717986, "best_split": [2, 3], "split_score": 0.7343611553487186}
+{"sent": "salad", "ann_id": 717986, "best_split": [2, 3], "split_score": 0.7343611553487186}

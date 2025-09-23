@@ -1,0 +1,6 @@
+{"sent": "person with half head brown hair", "ann_id": 1753896, "best_split": [3, 3], "split_score": 0.6784622807337201}
+{"sent": "brown hair", "ann_id": 1753896, "best_split": [3, 3], "split_score": 0.6784622807337201}
+{"sent": "blurry brown hair", "ann_id": 1753896, "best_split": [3, 3], "split_score": 0.6784622807337201}
+{"sent": "the omaha player", "ann_id": 1211261, "best_split": [2, 3], "split_score": 0.5301058476028019}
+{"sent": "player", "ann_id": 1211261, "best_split": [2, 3], "split_score": 0.5301058476028019}
+{"sent": "the man carrying the bag", "ann_id": 1211261, "best_split": [2, 3], "split_score": 0.5301058476028019}

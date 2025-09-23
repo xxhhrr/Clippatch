@@ -1,0 +1,8 @@
+{"sent": "flowers under bucket", "ann_id": 1953416, "best_split": [2, 1], "split_score": 0.9527713625499318}
+{"sent": "bush under bucket", "ann_id": 1953416, "best_split": [2, 1], "split_score": 0.9527713625499318}
+{"sent": "bushes under bucket", "ann_id": 1953416, "best_split": [2, 1], "split_score": 0.9527713625499318}
+{"sent": "pail", "ann_id": 27291, "best_split": [1, 2], "split_score": 0.4881342851512605}
+{"sent": "plant above cat", "ann_id": 27291, "best_split": [2, 1], "split_score": 0.5654556525125468}
+{"sent": "the object the cat is laying in", "ann_id": 27291, "best_split": [2, 1], "split_score": 0.5654556525125468}
+{"sent": "pot white partially visible 9 o clock", "ann_id": 21454, "best_split": [2, 1], "split_score": 0.3230565730483553}
+{"sent": "tree by cat ears", "ann_id": 21454, "best_split": [1, 2], "split_score": 0.8399603791976807}

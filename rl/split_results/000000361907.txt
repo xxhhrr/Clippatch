@@ -1,0 +1,21 @@
+{"sent": "blue chair next to blond", "ann_id": 1582587, "best_split": [2, 2], "split_score": 0.24553571426614032}
+{"sent": "seats closest to the man wearing a green jacket", "ann_id": 1580238, "best_split": [2, 2], "split_score": 0.07606128095592486}
+{"sent": "empty seat over players shoulder", "ann_id": 1580238, "best_split": [2, 2], "split_score": 0.07606128095592486}
+{"sent": "chair on player shoulder", "ann_id": 1580238, "best_split": [3, 1], "split_score": 0.1739539257067493}
+{"sent": "blurry woman in black on aisle seat", "ann_id": 1310391, "best_split": [3, 2], "split_score": 0.3168990885783574}
+{"sent": "blurry person with sleeveless and sitting", "ann_id": 1310391, "best_split": [3, 2], "split_score": 0.3168990885783574}
+{"sent": "white woman in back", "ann_id": 1310391, "best_split": [3, 2], "split_score": 0.3168990885783574}
+{"sent": "oh person in stand next to skimpy woman", "ann_id": 1299850, "best_split": [3, 3], "split_score": 0.430241051784105}
+{"sent": "woman in fans with black sweater", "ann_id": 1299850, "best_split": [3, 3], "split_score": 0.430241051784105}
+{"sent": "woman in black out of focus nearest players head", "ann_id": 1299850, "best_split": [3, 3], "split_score": 0.430241051784105}
+{"sent": "blue hat brown jacket spectator", "ann_id": 1264317, "best_split": [2, 1], "split_score": 0.05427478932122082}
+{"sent": "blurry old man with white beard", "ann_id": 1264317, "best_split": [1, 2], "split_score": 0.13197544642331094}
+{"sent": "man in hat in background blue hat", "ann_id": 1264317, "best_split": [2, 1], "split_score": 0.05427478932122082}
+{"sent": "guy in black cap looking towards back", "ann_id": 1245131, "best_split": [1, 5], "split_score": 0.5607098080277066}
+{"sent": "blurry black hat behind racquet", "ann_id": 1245131, "best_split": [1, 5], "split_score": 0.5607098080277066}
+{"sent": "blurry black hat by racket", "ann_id": 1245131, "best_split": [1, 5], "split_score": 0.5607098080277066}
+{"sent": "guy behind tennis racket baldish", "ann_id": 1227271, "best_split": [3, 3], "split_score": 0.4890274313604704}
+{"sent": "gray jacket behind racket", "ann_id": 1227271, "best_split": [3, 3], "split_score": 0.4890274313604704}
+{"sent": "man with tennis racket", "ann_id": 1206533, "best_split": [2, 1], "split_score": 0.34487546162927624}
+{"sent": "player in white", "ann_id": 1206533, "best_split": [1, 3], "split_score": 0.6033174022810829}
+{"sent": "he likes tennis", "ann_id": 1206533, "best_split": [2, 1], "split_score": 0.34487546162927624}

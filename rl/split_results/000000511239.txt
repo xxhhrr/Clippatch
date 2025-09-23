@@ -1,0 +1,6 @@
+{"sent": "tiny kitten", "ann_id": 1816185, "best_split": [3, 2], "split_score": 0.708518408774206}
+{"sent": "kitten", "ann_id": 1816185, "best_split": [3, 2], "split_score": 0.708518408774206}
+{"sent": "black cat", "ann_id": 1816185, "best_split": [3, 2], "split_score": 0.708518408774206}
+{"sent": "largest cat", "ann_id": 51184, "best_split": [1, 2], "split_score": 0.4546539379324233}
+{"sent": "big cat", "ann_id": 51184, "best_split": [1, 2], "split_score": 0.4546539379324233}
+{"sent": "grown cat", "ann_id": 51184, "best_split": [1, 2], "split_score": 0.4546539379324233}

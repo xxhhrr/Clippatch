@@ -1,0 +1,6 @@
+{"sent": "yellow shirt", "ann_id": 547193, "best_split": [1, 2], "split_score": 0.5690168818062813}
+{"sent": "the man carrying the rugby ball", "ann_id": 547193, "best_split": [1, 2], "split_score": 0.5690168818062813}
+{"sent": "guy in yellow", "ann_id": 547193, "best_split": [1, 2], "split_score": 0.5690168818062813}
+{"sent": "gray shirt", "ann_id": 488214, "best_split": [1, 5], "split_score": 0.6976280834252725}
+{"sent": "most upright", "ann_id": 488214, "best_split": [3, 3], "split_score": 0.3465869456555469}
+{"sent": "gray shirt guy", "ann_id": 488214, "best_split": [1, 5], "split_score": 0.6976280834252725}

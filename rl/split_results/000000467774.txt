@@ -1,0 +1,9 @@
+{"sent": "all brown horse", "ann_id": 274359, "best_split": [1, 2], "split_score": 0.19802295917578033}
+{"sent": "brown horse closer to the crowd", "ann_id": 274359, "best_split": [1, 2], "split_score": 0.19802295917578033}
+{"sent": "darkest colored horse", "ann_id": 274359, "best_split": [1, 2], "split_score": 0.19802295917578033}
+{"sent": "white horse", "ann_id": 57431, "best_split": [3, 2], "split_score": 0.6663100650203878}
+{"sent": "all white horse", "ann_id": 57431, "best_split": [3, 2], "split_score": 0.6663100650203878}
+{"sent": "white horse", "ann_id": 57431, "best_split": [3, 2], "split_score": 0.6663100650203878}
+{"sent": "brown and white horse", "ann_id": 56885, "best_split": [2, 3], "split_score": 0.5436042592975061}
+{"sent": "brown horse in full view", "ann_id": 56885, "best_split": [2, 3], "split_score": 0.5436042592975061}
+{"sent": "brown horse with white legs", "ann_id": 56885, "best_split": [2, 3], "split_score": 0.5436042592975061}

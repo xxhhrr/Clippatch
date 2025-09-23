@@ -1,0 +1,9 @@
+{"sent": "pink shirt", "ann_id": 527178, "best_split": [2, 2], "split_score": 0.31903698977048495}
+{"sent": "pink girl", "ann_id": 527178, "best_split": [2, 2], "split_score": 0.31903698977048495}
+{"sent": "pink shirt", "ann_id": 527178, "best_split": [2, 2], "split_score": 0.31903698977048495}
+{"sent": "yellow bow", "ann_id": 486397, "best_split": [1, 2], "split_score": 0.5250924250560414}
+{"sent": "child in white and yellow tanktop", "ann_id": 486397, "best_split": [1, 2], "split_score": 0.5250924250560414}
+{"sent": "closest person", "ann_id": 486397, "best_split": [1, 2], "split_score": 0.5250924250560414}
+{"sent": "girl looking at laptop but not as close to it", "ann_id": 483863, "best_split": [1, 3], "split_score": 0.3263967154916118}
+{"sent": "holding a bowl", "ann_id": 483863, "best_split": [1, 2], "split_score": 0.5269747744236062}
+{"sent": "girl with food", "ann_id": 483863, "best_split": [1, 2], "split_score": 0.5269747744236062}

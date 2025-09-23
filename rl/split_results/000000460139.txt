@@ -1,0 +1,6 @@
+{"sent": "very dirty bike", "ann_id": 155195, "best_split": [5, 1], "split_score": 0.31041223966762327}
+{"sent": "bike on side", "ann_id": 155195, "best_split": [5, 1], "split_score": 0.31041223966762327}
+{"sent": "moto closest to red letters", "ann_id": 155195, "best_split": [2, 1], "split_score": 0.22165975764422594}
+{"sent": "bike can see plate", "ann_id": 152282, "best_split": [2, 3], "split_score": 0.5193752234983456}
+{"sent": "bike with license plate viewable", "ann_id": 152282, "best_split": [2, 3], "split_score": 0.5193752234983456}
+{"sent": "big bike", "ann_id": 152282, "best_split": [2, 3], "split_score": 0.5193752234983456}

@@ -1,0 +1,6 @@
+{"sent": "chair back with man sitting in it", "ann_id": 384962, "best_split": [1, 5], "split_score": 0.17442261287707492}
+{"sent": "the chair that the guy in white is sitting in", "ann_id": 384962, "best_split": [2, 3], "split_score": 0.4551158300609175}
+{"sent": "chair where man in tan shirt is sitting", "ann_id": 384962, "best_split": [2, 2], "split_score": 0.30070153058827315}
+{"sent": "the chair with the person in black closest to score", "ann_id": 373075, "best_split": [2, 3], "split_score": 0.5725190839011786}
+{"sent": "chair with woman in black sitting in it", "ann_id": 373075, "best_split": [2, 2], "split_score": 0.3903061224178646}
+{"sent": "chair the woman in black is sitting in", "ann_id": 373075, "best_split": [2, 1], "split_score": 0.19515306121671105}

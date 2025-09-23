@@ -1,0 +1,6 @@
+{"sent": "bench behind cow", "ann_id": 579715, "best_split": [3, 2], "split_score": 0.2823359073018417}
+{"sent": "bench behind cows butt", "ann_id": 579715, "best_split": [3, 2], "split_score": 0.2823359073018417}
+{"sent": "bench next to animal", "ann_id": 579715, "best_split": [3, 2], "split_score": 0.2823359073018417}
+{"sent": "bench", "ann_id": 575496, "best_split": [3, 3], "split_score": 0.5264619121071556}
+{"sent": "bench not by cow", "ann_id": 575496, "best_split": [3, 1], "split_score": 0.20034990346281673}
+{"sent": "bench no animal near", "ann_id": 575496, "best_split": [2, 2], "split_score": 0.2647480867135883}

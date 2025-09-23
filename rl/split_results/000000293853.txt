@@ -1,0 +1,18 @@
+{"sent": "blue jacket lady", "ann_id": 526719, "best_split": [1, 5], "split_score": 0.8326290647774546}
+{"sent": "blue shirt", "ann_id": 526719, "best_split": [1, 5], "split_score": 0.8326290647774546}
+{"sent": "lady in blue", "ann_id": 526719, "best_split": [1, 5], "split_score": 0.8326290647774546}
+{"sent": "red", "ann_id": 512622, "best_split": [1, 5], "split_score": 0.5519480518920508}
+{"sent": "red", "ann_id": 512622, "best_split": [1, 5], "split_score": 0.5519480518920508}
+{"sent": "girl in red", "ann_id": 512622, "best_split": [1, 5], "split_score": 0.5519480518920508}
+{"sent": "girl in all black", "ann_id": 506234, "best_split": [1, 5], "split_score": 0.3886779121797511}
+{"sent": "woman all in black", "ann_id": 506234, "best_split": [1, 5], "split_score": 0.3886779121797511}
+{"sent": "in all black", "ann_id": 506234, "best_split": [1, 5], "split_score": 0.3886779121797511}
+{"sent": "object held closest to the tree", "ann_id": 284341, "best_split": [1, 5], "split_score": 0.29281655841184895}
+{"sent": "clear umbrella", "ann_id": 284341, "best_split": [1, 2], "split_score": 0.11503507652602699}
+{"sent": "transparent umbrella", "ann_id": 284341, "best_split": [1, 2], "split_score": 0.11503507652602699}
+{"sent": "polka dot umbrella", "ann_id": 282208, "best_split": [2, 2], "split_score": 0.3852834359398955}
+{"sent": "polkadot umbrella", "ann_id": 282208, "best_split": [5, 1], "split_score": 0.22046985376864878}
+{"sent": "dotted umbrella", "ann_id": 282208, "best_split": [1, 2], "split_score": 0.19937818876756305}
+{"sent": "an umbrella with print", "ann_id": 279661, "best_split": [3, 3], "split_score": 0.7187274040638598}
+{"sent": "umbrella over woman in red", "ann_id": 279661, "best_split": [3, 3], "split_score": 0.7187274040638598}
+{"sent": "umbrella of girl in red", "ann_id": 279661, "best_split": [3, 3], "split_score": 0.7187274040638598}

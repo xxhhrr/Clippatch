@@ -1,0 +1,6 @@
+{"sent": "farthest bus", "ann_id": 165749, "best_split": [3, 1], "split_score": 0.442231075673402}
+{"sent": "yellow bus facing this way", "ann_id": 165749, "best_split": [3, 2], "split_score": 0.5243902438592295}
+{"sent": "bus coming toward you", "ann_id": 165749, "best_split": [3, 1], "split_score": 0.442231075673402}
+{"sent": "fby 666", "ann_id": 165568, "best_split": [1, 2], "split_score": 0.566565688752927}
+{"sent": "closest end bus", "ann_id": 165568, "best_split": [1, 2], "split_score": 0.566565688752927}
+{"sent": "bus nearest us", "ann_id": 165568, "best_split": [1, 2], "split_score": 0.566565688752927}

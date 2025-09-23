@@ -1,0 +1,6 @@
+{"sent": "the lighter colored dog", "ann_id": 15049, "best_split": [2, 2], "split_score": 0.8786081454425775}
+{"sent": "white one in tux", "ann_id": 15049, "best_split": [2, 1], "split_score": 0.44106554446619295}
+{"sent": "white head dog", "ann_id": 15049, "best_split": [2, 2], "split_score": 0.8786081454425775}
+{"sent": "black dachshund", "ann_id": 3217, "best_split": [3, 2], "split_score": 0.5632855372133753}
+{"sent": "black dog", "ann_id": 3217, "best_split": [3, 2], "split_score": 0.5632855372133753}
+{"sent": "the black dog with his mouth on the cake", "ann_id": 3217, "best_split": [3, 2], "split_score": 0.5632855372133753}

@@ -1,0 +1,6 @@
+{"sent": "ginger", "ann_id": 513412, "best_split": [1, 2], "split_score": 0.5071133547353398}
+{"sent": "kid", "ann_id": 513412, "best_split": [1, 3], "split_score": 0.5374301675790003}
+{"sent": "child", "ann_id": 513412, "best_split": [1, 3], "split_score": 0.5374301675790003}
+{"sent": "man", "ann_id": 437939, "best_split": [1, 2], "split_score": 0.8949700186802517}
+{"sent": "man", "ann_id": 437939, "best_split": [1, 2], "split_score": 0.8949700186802517}
+{"sent": "father", "ann_id": 437939, "best_split": [1, 2], "split_score": 0.8949700186802517}

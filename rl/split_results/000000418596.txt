@@ -1,0 +1,6 @@
+{"sent": "giraff closet to camera", "ann_id": 596834, "best_split": [3, 2], "split_score": 0.5866829069644048}
+{"sent": "closest giraffe", "ann_id": 596834, "best_split": [3, 3], "split_score": 0.47832103315517516}
+{"sent": "closer giraffe", "ann_id": 596834, "best_split": [3, 2], "split_score": 0.5866829069644048}
+{"sent": "background giraffe", "ann_id": 595256, "best_split": [5, 1], "split_score": 0.41987620354024446}
+{"sent": "back giraffe", "ann_id": 595256, "best_split": [5, 1], "split_score": 0.41987620354024446}
+{"sent": "farthest", "ann_id": 595256, "best_split": [2, 1], "split_score": 0.13943222193807442}

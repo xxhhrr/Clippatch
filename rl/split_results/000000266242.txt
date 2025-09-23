@@ -1,0 +1,18 @@
+{"sent": "woman in black", "ann_id": 1279480, "best_split": [1, 5], "split_score": 0.5816761363046189}
+{"sent": "lady in black", "ann_id": 1279480, "best_split": [1, 5], "split_score": 0.5816761363046189}
+{"sent": "woman in black at 9 o clock", "ann_id": 1279480, "best_split": [2, 3], "split_score": 0.08345568348014407}
+{"sent": "man in green button up stripe shirt", "ann_id": 1271843, "best_split": [1, 5], "split_score": 0.6864535767992338}
+{"sent": "man in gray striped shirt", "ann_id": 1271843, "best_split": [1, 5], "split_score": 0.6864535767992338}
+{"sent": "green stripped shirt", "ann_id": 1271843, "best_split": [1, 5], "split_score": 0.6864535767992338}
+{"sent": "old woman in blue", "ann_id": 1269325, "best_split": [1, 5], "split_score": 0.3601324624818202}
+{"sent": "women in mint color shirt", "ann_id": 1269325, "best_split": [3, 3], "split_score": 0.29653625712726933}
+{"sent": "lady in blue shirt", "ann_id": 1269325, "best_split": [1, 5], "split_score": 0.3601324624818202}
+{"sent": "white shirt wine glass in hand", "ann_id": 1260723, "best_split": [1, 3], "split_score": 0.32006920413494433}
+{"sent": "glasses man in pale yellow shirt", "ann_id": 1260723, "best_split": [1, 5], "split_score": 0.5665722379101831}
+{"sent": "old man with glasses", "ann_id": 1260723, "best_split": [1, 2], "split_score": 0.31249999998754385}
+{"sent": "guy with blue shirt and jacket", "ann_id": 1244536, "best_split": [1, 3], "split_score": 0.6391771235135632}
+{"sent": "center man black suit", "ann_id": 1244536, "best_split": [1, 3], "split_score": 0.6391771235135632}
+{"sent": "man in suit with striped shirt", "ann_id": 1244536, "best_split": [1, 3], "split_score": 0.6391771235135632}
+{"sent": "woman with glass near blue shirt woman", "ann_id": 1684519, "best_split": [1, 5], "split_score": 0.35179596998425033}
+{"sent": "woman holding glass next to woman in bright blue jacket", "ann_id": 1684519, "best_split": [1, 5], "split_score": 0.35179596998425033}
+{"sent": "girl last", "ann_id": 1684519, "best_split": [3, 1], "split_score": 0.11100927323102171}

@@ -1,0 +1,6 @@
+{"sent": "lady in pink", "ann_id": 501665, "best_split": [3, 2], "split_score": 0.6822585685298199}
+{"sent": "girl laying down", "ann_id": 501665, "best_split": [3, 2], "split_score": 0.6822585685298199}
+{"sent": "red shirt lying down", "ann_id": 501665, "best_split": [3, 2], "split_score": 0.6822585685298199}
+{"sent": "sitting up", "ann_id": 490212, "best_split": [2, 1], "split_score": 0.3454459650688101}
+{"sent": "girl is sitting not lying down", "ann_id": 490212, "best_split": [1, 2], "split_score": 0.6383488171427274}
+{"sent": "woman with fishnet", "ann_id": 490212, "best_split": [1, 2], "split_score": 0.6383488171427274}

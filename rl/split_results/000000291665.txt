@@ -1,0 +1,6 @@
+{"sent": "one under birds tail", "ann_id": 1544250, "best_split": [2, 2], "split_score": 0.2950975725610743}
+{"sent": "leaf under bird", "ann_id": 1544250, "best_split": [1, 3], "split_score": 0.12699291407622934}
+{"sent": "plantain or banana under birds poop chute", "ann_id": 1544250, "best_split": [1, 2], "split_score": 0.1479125248450134}
+{"sent": "green banana bunch near birds beak", "ann_id": 1044369, "best_split": [2, 2], "split_score": 0.4510250569292619}
+{"sent": "bananas ahead of bird", "ann_id": 1044369, "best_split": [1, 3], "split_score": 0.3915603532738132}
+{"sent": "green bananas near bird beak", "ann_id": 1044369, "best_split": [2, 1], "split_score": 0.3775999999892114}

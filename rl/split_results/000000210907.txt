@@ -1,0 +1,5 @@
+{"sent": "giraffe partially blocked by the other one", "ann_id": 598219, "best_split": [1, 3], "split_score": 0.4499415660084758}
+{"sent": "the one looking away", "ann_id": 598219, "best_split": [1, 3], "split_score": 0.4499415660084758}
+{"sent": "giraffe behind", "ann_id": 598219, "best_split": [1, 3], "split_score": 0.4499415660084758}
+{"sent": "closest giraffe", "ann_id": 597607, "best_split": [1, 2], "split_score": 0.4224607129006339}
+{"sent": "nearest giraffe", "ann_id": 597607, "best_split": [1, 2], "split_score": 0.4224607129006339}

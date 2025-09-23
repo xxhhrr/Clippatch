@@ -1,0 +1,5 @@
+{"sent": "cauli sitting on broc", "ann_id": 1060842, "best_split": [1, 2], "split_score": 0.11055776892037003}
+{"sent": "a small piece of cauliflower is overlapping this broccoli", "ann_id": 1060842, "best_split": [1, 2], "split_score": 0.11055776892037003}
+{"sent": "white colli at 1 clock on green broc", "ann_id": 1060842, "best_split": [2, 2], "split_score": 0.1996402877569604}
+{"sent": "big piece of green vegetable", "ann_id": 1060220, "best_split": [3, 2], "split_score": 0.5450541383239994}
+{"sent": "two big light green pieces next to each other", "ann_id": 1060220, "best_split": [3, 3], "split_score": 0.5342375847151348}

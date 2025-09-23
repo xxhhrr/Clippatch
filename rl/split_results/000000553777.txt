@@ -1,0 +1,9 @@
+{"sent": "blue jacket", "ann_id": 498880, "best_split": [3, 3], "split_score": 0.2705073840809318}
+{"sent": "blue man", "ann_id": 498880, "best_split": [3, 3], "split_score": 0.2705073840809318}
+{"sent": "guy with blue glasses", "ann_id": 498880, "best_split": [3, 3], "split_score": 0.2705073840809318}
+{"sent": "black and white scarf on face", "ann_id": 465036, "best_split": [1, 5], "split_score": 0.3589691558077345}
+{"sent": "person in middle", "ann_id": 465036, "best_split": [1, 5], "split_score": 0.3589691558077345}
+{"sent": "person in black", "ann_id": 465036, "best_split": [1, 5], "split_score": 0.3589691558077345}
+{"sent": "red jacket", "ann_id": 433049, "best_split": [3, 3], "split_score": 0.33236742968235766}
+{"sent": "red and black", "ann_id": 433049, "best_split": [3, 3], "split_score": 0.33236742968235766}
+{"sent": "dude in red coat", "ann_id": 433049, "best_split": [3, 3], "split_score": 0.33236742968235766}

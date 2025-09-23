@@ -1,0 +1,7 @@
+{"sent": "two pieces of broccoli forming a reverse left", "ann_id": 1561776, "best_split": [2, 3], "split_score": 0.32822665264131934}
+{"sent": "brocolli at 3 o clock", "ann_id": 1561776, "best_split": [2, 3], "split_score": 0.32822665264131934}
+{"sent": "piece of brocoli next at edge of plate by the largest piece of brocolli", "ann_id": 1561369, "best_split": [2, 3], "split_score": 0.3405017920765567}
+{"sent": "brocolli at 5 o clock", "ann_id": 1561369, "best_split": [3, 2], "split_score": 0.31951488419850993}
+{"sent": "largest piece of broccoli", "ann_id": 1560826, "best_split": [2, 2], "split_score": 0.24304810921130543}
+{"sent": "lowest brocolli", "ann_id": 1560826, "best_split": [2, 2], "split_score": 0.24304810921130543}
+{"sent": "broccholi section at six", "ann_id": 1560826, "best_split": [1, 5], "split_score": 0.2721529940920601}

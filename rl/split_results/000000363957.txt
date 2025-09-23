@@ -1,0 +1,6 @@
+{"sent": "the guy with the tie on", "ann_id": 519644, "best_split": [1, 2], "split_score": 0.4933687002465567}
+{"sent": "taller man", "ann_id": 519644, "best_split": [1, 2], "split_score": 0.4933687002465567}
+{"sent": "man getting his tie fixed", "ann_id": 519644, "best_split": [1, 3], "split_score": 0.4472131147331516}
+{"sent": "man straightening other mans tie", "ann_id": 513883, "best_split": [1, 2], "split_score": 0.6667614039837018}
+{"sent": "short man", "ann_id": 513883, "best_split": [1, 3], "split_score": 0.37157142855815817}
+{"sent": "guy touching tie", "ann_id": 513883, "best_split": [1, 2], "split_score": 0.6667614039837018}

@@ -1,0 +1,6 @@
+{"sent": "whole zebra", "ann_id": 591901, "best_split": [2, 3], "split_score": 0.41127745266271926}
+{"sent": "whole zebra", "ann_id": 591901, "best_split": [2, 3], "split_score": 0.41127745266271926}
+{"sent": "zebra with whole body showing", "ann_id": 591901, "best_split": [2, 3], "split_score": 0.41127745266271926}
+{"sent": "zebra looking ahead without mouth open", "ann_id": 588996, "best_split": [3, 3], "split_score": 0.3875794986543603}
+{"sent": "zebra looking away behind closest zebra", "ann_id": 588996, "best_split": [3, 3], "split_score": 0.3875794986543603}
+{"sent": "furthest zebra looking", "ann_id": 588996, "best_split": [3, 3], "split_score": 0.3875794986543603}

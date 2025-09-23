@@ -1,0 +1,14 @@
+{"sent": "woman with white scarf", "ann_id": 508180, "best_split": [1, 5], "split_score": 0.7001964635854424}
+{"sent": "girl with white scarf", "ann_id": 508180, "best_split": [1, 5], "split_score": 0.7001964635854424}
+{"sent": "ady with weird coat", "ann_id": 508180, "best_split": [2, 3], "split_score": 0.4801579837803124}
+{"sent": "man with camera", "ann_id": 492360, "best_split": [1, 5], "split_score": 0.4834476786462767}
+{"sent": "man", "ann_id": 492360, "best_split": [1, 2], "split_score": 0.46147850822409575}
+{"sent": "man with camera", "ann_id": 492360, "best_split": [1, 5], "split_score": 0.4834476786462767}
+{"sent": "girl with rainbow umbrella", "ann_id": 460596, "best_split": [1, 2], "split_score": 0.42363350371908637}
+{"sent": "woman white coat", "ann_id": 460596, "best_split": [1, 5], "split_score": 0.5399471287604679}
+{"sent": "woman holding rainbow umbrella", "ann_id": 460596, "best_split": [1, 2], "split_score": 0.42363350371908637}
+{"sent": "person between couple closest", "ann_id": 2204617, "best_split": [1, 3], "split_score": 0.29017857141106546}
+{"sent": "brown coat inbetween them people", "ann_id": 2204617, "best_split": [2, 2], "split_score": 0.2181665028626866}
+{"sent": "tan partial of person between couple", "ann_id": 2204617, "best_split": [1, 3], "split_score": 0.29017857141106546}
+{"sent": "rainbow umbrella", "ann_id": 285027, "best_split": [2, 2], "split_score": 0.4926437806143079}
+{"sent": "colorful umbrella", "ann_id": 285027, "best_split": [2, 2], "split_score": 0.4926437806143079}

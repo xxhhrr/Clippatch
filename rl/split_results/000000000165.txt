@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 487235, "best_split": [1, 2], "split_score": 0.8241758241464188}
+{"sent": "man", "ann_id": 487235, "best_split": [1, 2], "split_score": 0.8241758241464188}
+{"sent": "guy", "ann_id": 487235, "best_split": [1, 2], "split_score": 0.8241758241464188}
+{"sent": "soldier", "ann_id": 443487, "best_split": [1, 2], "split_score": 0.6568488049070063}
+{"sent": "the lady cutting", "ann_id": 443487, "best_split": [2, 1], "split_score": 0.43662302587810065}
+{"sent": "fatigues", "ann_id": 443487, "best_split": [1, 2], "split_score": 0.6568488049070063}

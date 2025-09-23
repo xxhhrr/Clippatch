@@ -1,0 +1,6 @@
+{"sent": "pie", "ann_id": 1088673, "best_split": [3, 3], "split_score": 0.7137858641158527}
+{"sent": "beige pie", "ann_id": 1088673, "best_split": [3, 3], "split_score": 0.7137858641158527}
+{"sent": "brown pie", "ann_id": 1088673, "best_split": [3, 3], "split_score": 0.7137858641158527}
+{"sent": "red dessert", "ann_id": 1087575, "best_split": [1, 3], "split_score": 0.45804676751532486}
+{"sent": "red", "ann_id": 1087575, "best_split": [1, 3], "split_score": 0.45804676751532486}
+{"sent": "red pie", "ann_id": 1087575, "best_split": [1, 3], "split_score": 0.45804676751532486}

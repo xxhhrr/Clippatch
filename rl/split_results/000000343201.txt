@@ -1,0 +1,6 @@
+{"sent": "donut closest to corner", "ann_id": 1080773, "best_split": [3, 3], "split_score": 0.6650561317798698}
+{"sent": "none round hole dount", "ann_id": 1080773, "best_split": [3, 3], "split_score": 0.6650561317798698}
+{"sent": "center water glass", "ann_id": 684430, "best_split": [2, 3], "split_score": 0.2689313517021784}
+{"sent": "cup of tea nearest to green table cloth", "ann_id": 670488, "best_split": [2, 3], "split_score": 0.29648028746469923}
+{"sent": "tea closest to green part of table", "ann_id": 670488, "best_split": [2, 3], "split_score": 0.29648028746469923}
+{"sent": "glass at 3 oclocl", "ann_id": 670488, "best_split": [5, 1], "split_score": 0.1936151854880401}

@@ -1,0 +1,6 @@
+{"sent": "shorter cow", "ann_id": 73506, "best_split": [1, 2], "split_score": 0.4687499999813158}
+{"sent": "smaller cow", "ann_id": 73506, "best_split": [1, 2], "split_score": 0.4687499999813158}
+{"sent": "cow with darker nose", "ann_id": 73506, "best_split": [3, 2], "split_score": 0.41902604753545963}
+{"sent": "the fatter cow", "ann_id": 72566, "best_split": [1, 3], "split_score": 0.5185949524692122}
+{"sent": "big cow", "ann_id": 72566, "best_split": [1, 3], "split_score": 0.5185949524692122}
+{"sent": "bigger cow", "ann_id": 72566, "best_split": [1, 3], "split_score": 0.5185949524692122}

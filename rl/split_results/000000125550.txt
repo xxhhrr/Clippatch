@@ -1,0 +1,10 @@
+{"sent": "red tie", "ann_id": 518312, "best_split": [1, 5], "split_score": 0.3879611650108775}
+{"sent": "red tie", "ann_id": 518312, "best_split": [1, 5], "split_score": 0.3879611650108775}
+{"sent": "man in suit and yellow tie", "ann_id": 518190, "best_split": [1, 3], "split_score": 0.5904728047997113}
+{"sent": "guy in suit and yellow tie", "ann_id": 518190, "best_split": [1, 3], "split_score": 0.5904728047997113}
+{"sent": "man with yellow tie", "ann_id": 518190, "best_split": [1, 3], "split_score": 0.5904728047997113}
+{"sent": "cubby guy", "ann_id": 474150, "best_split": [1, 3], "split_score": 0.43979247101593916}
+{"sent": "man behind woman", "ann_id": 474150, "best_split": [2, 3], "split_score": 0.49874927838187905}
+{"sent": "man not wearing tie", "ann_id": 474150, "best_split": [3, 1], "split_score": 0.20110719676894276}
+{"sent": "woman", "ann_id": 425379, "best_split": [2, 2], "split_score": 0.4065109015312324}
+{"sent": "woman eating cake", "ann_id": 425379, "best_split": [1, 5], "split_score": 0.38516538587469656}

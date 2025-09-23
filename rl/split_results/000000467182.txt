@@ -1,0 +1,12 @@
+{"sent": "the closest person with a black jacket", "ann_id": 232898, "best_split": [2, 3], "split_score": 0.4576413509556222}
+{"sent": "leather jacket", "ann_id": 232898, "best_split": [2, 3], "split_score": 0.4576413509556222}
+{"sent": "man with black jacket", "ann_id": 232898, "best_split": [2, 3], "split_score": 0.4576413509556222}
+{"sent": "kid with ball", "ann_id": 230929, "best_split": [1, 5], "split_score": 0.44744318177278375}
+{"sent": "kid with the ball", "ann_id": 230929, "best_split": [1, 5], "split_score": 0.44744318177278375}
+{"sent": "a boy playing netball", "ann_id": 230929, "best_split": [1, 5], "split_score": 0.44744318177278375}
+{"sent": "the only woman", "ann_id": 228743, "best_split": [2, 3], "split_score": 0.15514982090022278}
+{"sent": "woman in light blue shirt", "ann_id": 228743, "best_split": [2, 3], "split_score": 0.15514982090022278}
+{"sent": "woman in blue", "ann_id": 228743, "best_split": [2, 3], "split_score": 0.15514982090022278}
+{"sent": "person in green", "ann_id": 190516, "best_split": [1, 5], "split_score": 0.5573770491284112}
+{"sent": "green shirt", "ann_id": 190516, "best_split": [1, 5], "split_score": 0.5573770491284112}
+{"sent": "green partial", "ann_id": 190516, "best_split": [1, 5], "split_score": 0.5573770491284112}

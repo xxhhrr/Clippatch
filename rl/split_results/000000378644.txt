@@ -1,0 +1,6 @@
+{"sent": "green book next to paper stack", "ann_id": 1970847, "best_split": [2, 2], "split_score": 0.3904655611933621}
+{"sent": "the green notebook further away", "ann_id": 1970847, "best_split": [2, 2], "split_score": 0.3904655611933621}
+{"sent": "farthest laptop", "ann_id": 1970847, "best_split": [2, 2], "split_score": 0.3904655611933621}
+{"sent": "green thing closest to us", "ann_id": 1100462, "best_split": [2, 2], "split_score": 0.3993865030429824}
+{"sent": "closest laptop", "ann_id": 1100462, "best_split": [2, 3], "split_score": 0.3806086762124705}
+{"sent": "closest to us", "ann_id": 1100462, "best_split": [1, 3], "split_score": 0.31888757860068356}

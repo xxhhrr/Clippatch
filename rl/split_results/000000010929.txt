@@ -1,0 +1,9 @@
+{"sent": "adult in white shirt", "ann_id": 1245085, "best_split": [1, 5], "split_score": 0.927658279126658}
+{"sent": "white shirt adult", "ann_id": 1245085, "best_split": [1, 5], "split_score": 0.927658279126658}
+{"sent": "adult", "ann_id": 1245085, "best_split": [1, 5], "split_score": 0.927658279126658}
+{"sent": "the little boy about to throw the disc", "ann_id": 1242058, "best_split": [3, 3], "split_score": 0.5848877646878141}
+{"sent": "yellow", "ann_id": 1242058, "best_split": [3, 3], "split_score": 0.5848877646878141}
+{"sent": "child in yellow shirt", "ann_id": 1242058, "best_split": [3, 3], "split_score": 0.5848877646878141}
+{"sent": "little girl with pink balloon", "ann_id": 1215153, "best_split": [2, 3], "split_score": 0.4254422914463519}
+{"sent": "boy with dark blue shirt", "ann_id": 1215153, "best_split": [3, 2], "split_score": 0.23582580112883905}
+{"sent": "boy in blue sweater and olive pants", "ann_id": 1215153, "best_split": [5, 1], "split_score": 0.13563909773416247}

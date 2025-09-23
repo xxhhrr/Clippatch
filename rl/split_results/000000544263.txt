@@ -1,0 +1,5 @@
+{"sent": "a zebra near us", "ann_id": 589809, "best_split": [1, 3], "split_score": 0.46926829266861986}
+{"sent": "main zebra", "ann_id": 589809, "best_split": [1, 3], "split_score": 0.46926829266861986}
+{"sent": "heres lookin at you", "ann_id": 589809, "best_split": [1, 3], "split_score": 0.46926829266861986}
+{"sent": "just the back legs there", "ann_id": 589677, "best_split": [2, 2], "split_score": 0.866886351378122}
+{"sent": "zebra with only back end showing", "ann_id": 589677, "best_split": [2, 1], "split_score": 0.47102200253224563}

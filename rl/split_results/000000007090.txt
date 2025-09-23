@@ -1,0 +1,6 @@
+{"sent": "pizza on other tray", "ann_id": 1076813, "best_split": [1, 3], "split_score": 0.14383878045133164}
+{"sent": "pizza on tray without soda", "ann_id": 1076813, "best_split": [1, 3], "split_score": 0.14383878045133164}
+{"sent": "pizza slice on back tray", "ann_id": 1076813, "best_split": [1, 3], "split_score": 0.14383878045133164}
+{"sent": "pepperoni", "ann_id": 1073376, "best_split": [2, 1], "split_score": 0.5609995788094553}
+{"sent": "pepperoni pizza", "ann_id": 1073376, "best_split": [2, 1], "split_score": 0.5609995788094553}
+{"sent": "pizza up close", "ann_id": 1073376, "best_split": [2, 1], "split_score": 0.5609995788094553}

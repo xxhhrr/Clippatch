@@ -1,0 +1,6 @@
+{"sent": "giraffe with head up", "ann_id": 596960, "best_split": [1, 3], "split_score": 0.3717728054877489}
+{"sent": "farthest giraffe", "ann_id": 596960, "best_split": [1, 3], "split_score": 0.3717728054877489}
+{"sent": "giraffe in distance walking", "ann_id": 596960, "best_split": [1, 3], "split_score": 0.3717728054877489}
+{"sent": "front g", "ann_id": 596184, "best_split": [2, 1], "split_score": 0.38214723482651425}
+{"sent": "closest one", "ann_id": 596184, "best_split": [2, 2], "split_score": 0.5359056805683038}
+{"sent": "giraffe leaning head down", "ann_id": 596184, "best_split": [2, 2], "split_score": 0.5359056805683038}

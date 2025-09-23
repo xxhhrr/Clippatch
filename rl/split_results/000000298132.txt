@@ -1,0 +1,9 @@
+{"sent": "key around neck", "ann_id": 1995465, "best_split": [2, 1], "split_score": 0.2414472064902336}
+{"sent": "key", "ann_id": 1995465, "best_split": [2, 1], "split_score": 0.2414472064902336}
+{"sent": "a doll with a key", "ann_id": 1995465, "best_split": [1, 2], "split_score": 0.24129445058935356}
+{"sent": "brwn one", "ann_id": 1162428, "best_split": [1, 3], "split_score": 0.7641493683140882}
+{"sent": "brown bear", "ann_id": 1162428, "best_split": [1, 3], "split_score": 0.7641493683140882}
+{"sent": "red jacket", "ann_id": 1162428, "best_split": [1, 3], "split_score": 0.7641493683140882}
+{"sent": "white bunny on the outside", "ann_id": 1160506, "best_split": [1, 2], "split_score": 0.6506696428312073}
+{"sent": "one with red flower on neck", "ann_id": 1160506, "best_split": [2, 1], "split_score": 0.2600638977556652}
+{"sent": "white toy with pink flowers around the neck", "ann_id": 1160506, "best_split": [2, 1], "split_score": 0.23121748178292797}

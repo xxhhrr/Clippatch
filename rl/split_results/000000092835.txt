@@ -1,0 +1,18 @@
+{"sent": "x dot", "ann_id": 1970862, "best_split": [3, 1], "split_score": 0.22297297295952143}
+{"sent": "on table for the scarf woman to play", "ann_id": 1970862, "best_split": [1, 3], "split_score": 0.22297297295952143}
+{"sent": "laptop with x on it", "ann_id": 1970862, "best_split": [3, 1], "split_score": 0.22297297295952143}
+{"sent": "standing person barely visible", "ann_id": 1710304, "best_split": [1, 2], "split_score": 0.23469387754166557}
+{"sent": "big black beside the table", "ann_id": 1710304, "best_split": [2, 2], "split_score": 0.3879518071997024}
+{"sent": "dark pants standing", "ann_id": 1710304, "best_split": [2, 3], "split_score": 0.5516637477504747}
+{"sent": "laptop near black jeans", "ann_id": 1098835, "best_split": [3, 2], "split_score": 0.28732864021051047}
+{"sent": "facing to side open", "ann_id": 1098835, "best_split": [1, 5], "split_score": 0.31894934331238706}
+{"sent": "rightiest computer", "ann_id": 1098835, "best_split": [1, 5], "split_score": 0.31894934331238706}
+{"sent": "laptop facing you", "ann_id": 1097962, "best_split": [2, 3], "split_score": 0.37472283809790696}
+{"sent": "the open laptop facing us", "ann_id": 1097962, "best_split": [2, 3], "split_score": 0.37472283809790696}
+{"sent": "computer facing camera", "ann_id": 1097962, "best_split": [2, 3], "split_score": 0.37472283809790696}
+{"sent": "person in tan shirt partially in view", "ann_id": 462568, "best_split": [3, 2], "split_score": 0.446428571374707}
+{"sent": "tan elbow", "ann_id": 462568, "best_split": [3, 1], "split_score": 0.2232142857008196}
+{"sent": "person in gray shirt", "ann_id": 462568, "best_split": [3, 2], "split_score": 0.446428571374707}
+{"sent": "man in black", "ann_id": 449421, "best_split": [3, 3], "split_score": 0.8796787147181239}
+{"sent": "black shirt", "ann_id": 449421, "best_split": [3, 3], "split_score": 0.8796787147181239}
+{"sent": "person in black", "ann_id": 449421, "best_split": [3, 3], "split_score": 0.8796787147181239}

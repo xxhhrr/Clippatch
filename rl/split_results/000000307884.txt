@@ -1,0 +1,11 @@
+{"sent": "boy in blue shirt", "ann_id": 262459, "best_split": [2, 3], "split_score": 0.7350100236253864}
+{"sent": "boy in blue", "ann_id": 262459, "best_split": [2, 3], "split_score": 0.7350100236253864}
+{"sent": "young girl", "ann_id": 261700, "best_split": [2, 2], "split_score": 0.7334099396198355}
+{"sent": "girl at table", "ann_id": 261700, "best_split": [2, 2], "split_score": 0.7334099396198355}
+{"sent": "little girl", "ann_id": 261700, "best_split": [2, 2], "split_score": 0.7334099396198355}
+{"sent": "lady serving the food", "ann_id": 257615, "best_split": [3, 2], "split_score": 0.2763157894477147}
+{"sent": "pink shirt", "ann_id": 257615, "best_split": [1, 5], "split_score": 0.31790499388220766}
+{"sent": "mom", "ann_id": 257615, "best_split": [1, 5], "split_score": 0.31790499388220766}
+{"sent": "father", "ann_id": 197581, "best_split": [3, 3], "split_score": 0.6089532586226212}
+{"sent": "dad", "ann_id": 197581, "best_split": [3, 3], "split_score": 0.6089532586226212}
+{"sent": "man", "ann_id": 197581, "best_split": [3, 2], "split_score": 0.4162916291160788}

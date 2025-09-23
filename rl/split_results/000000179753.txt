@@ -1,0 +1,11 @@
+{"sent": "man dark suit", "ann_id": 1294806, "best_split": [1, 5], "split_score": 0.3238636363307768}
+{"sent": "guy black suit", "ann_id": 1294806, "best_split": [1, 5], "split_score": 0.3238636363307768}
+{"sent": "guy in suit", "ann_id": 1294806, "best_split": [1, 5], "split_score": 0.3238636363307768}
+{"sent": "man in leather coat", "ann_id": 1263534, "best_split": [2, 3], "split_score": 0.2530413625024285}
+{"sent": "person standing next to the letter left", "ann_id": 1263534, "best_split": [3, 2], "split_score": 0.17531120330131625}
+{"sent": "person in dark jacket on end", "ann_id": 1263534, "best_split": [2, 3], "split_score": 0.2530413625024285}
+{"sent": "woman in black with hand on hip", "ann_id": 1224143, "best_split": [1, 5], "split_score": 0.34598214282203915}
+{"sent": "largest woman in black", "ann_id": 1224143, "best_split": [2, 2], "split_score": 0.20343969222271707}
+{"sent": "lady in black dress", "ann_id": 1224143, "best_split": [2, 2], "split_score": 0.20343969222271707}
+{"sent": "man in white suit", "ann_id": 1216219, "best_split": [2, 2], "split_score": 0.19568171522001496}
+{"sent": "man on end with tie", "ann_id": 1216219, "best_split": [2, 1], "split_score": 0.10050407134158573}

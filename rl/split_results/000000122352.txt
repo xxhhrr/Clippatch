@@ -1,0 +1,5 @@
+{"sent": "sandwich 9 o o clock", "ann_id": 311939, "best_split": [3, 1], "split_score": 0.38730595399944456}
+{"sent": "900 half", "ann_id": 311939, "best_split": [3, 2], "split_score": 0.5501515033369473}
+{"sent": "sandwich with more lettuce under it", "ann_id": 308707, "best_split": [3, 3], "split_score": 0.47758590611568236}
+{"sent": "sandwich with lettuce under it", "ann_id": 308707, "best_split": [1, 2], "split_score": 0.45703124998178285}
+{"sent": "sandwich at 3 o clock", "ann_id": 308707, "best_split": [3, 2], "split_score": 0.5800671892033221}

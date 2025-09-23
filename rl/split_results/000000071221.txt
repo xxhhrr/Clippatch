@@ -1,0 +1,9 @@
+{"sent": "banana row 2 number 2 from brown leaf", "ann_id": 1046570, "best_split": [1, 5], "split_score": 0.31392045451360384}
+{"sent": "row 2 number 4", "ann_id": 1046464, "best_split": [3, 2], "split_score": 0.30359698499154686}
+{"sent": "banana at three o clock", "ann_id": 1046464, "best_split": [3, 2], "split_score": 0.30359698499154686}
+{"sent": "third banana not close to the others", "ann_id": 2186260, "best_split": [3, 2], "split_score": 0.015685550838191037}
+{"sent": "tallest on lowest row", "ann_id": 2186260, "best_split": [2, 2], "split_score": 0.21683673467659145}
+{"sent": "7th banana counting in reading order", "ann_id": 1045416, "best_split": [3, 2], "split_score": 0.22023809521468557}
+{"sent": "row 2 banana 3", "ann_id": 1045416, "best_split": [3, 2], "split_score": 0.22023809521468557}
+{"sent": "row 2 banana 1", "ann_id": 1044802, "best_split": [3, 3], "split_score": 0.3047429707036718}
+{"sent": "bananna next to gray stuff", "ann_id": 1044802, "best_split": [3, 3], "split_score": 0.3047429707036718}

@@ -1,0 +1,6 @@
+{"sent": "carrot with stem partly out of frame", "ann_id": 1065058, "best_split": [3, 2], "split_score": 0.38026224978372875}
+{"sent": "carrot with round dirt spot", "ann_id": 1065058, "best_split": [2, 3], "split_score": 0.2623606143212328}
+{"sent": "carrot at 9", "ann_id": 1065058, "best_split": [2, 3], "split_score": 0.2623606143212328}
+{"sent": "carrot under the other carrots", "ann_id": 1064541, "best_split": [3, 3], "split_score": 0.6357788594165892}
+{"sent": "carrot in corner", "ann_id": 1064541, "best_split": [3, 3], "split_score": 0.6357788594165892}
+{"sent": "carrot under carrots", "ann_id": 1064541, "best_split": [3, 3], "split_score": 0.6357788594165892}

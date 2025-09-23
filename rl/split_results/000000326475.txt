@@ -1,0 +1,5 @@
+{"sent": "giraffe in the rear looking over the other other giraffes backs", "ann_id": 598244, "best_split": [3, 2], "split_score": 0.4445397983026958}
+{"sent": "baby giraffe", "ann_id": 598244, "best_split": [3, 1], "split_score": 0.32965871336719804}
+{"sent": "tall no head", "ann_id": 596789, "best_split": [1, 2], "split_score": 0.8657924106797755}
+{"sent": "giraffw with neck showing but no head", "ann_id": 596789, "best_split": [1, 2], "split_score": 0.8657924106797755}
+{"sent": "tall headless giraffe", "ann_id": 596789, "best_split": [1, 2], "split_score": 0.8657924106797755}

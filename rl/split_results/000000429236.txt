@@ -1,0 +1,6 @@
+{"sent": "cut off blurry leg on edge of picture", "ann_id": 1677841, "best_split": [1, 3], "split_score": 0.23763203435951352}
+{"sent": "leg barley in sight on edgle of photo", "ann_id": 1677841, "best_split": [3, 2], "split_score": 0.1583403107118485}
+{"sent": "blurry leg corner", "ann_id": 1677841, "best_split": [2, 3], "split_score": 0.24672073693334126}
+{"sent": "gray shorts", "ann_id": 225240, "best_split": [2, 1], "split_score": 0.2981569965768547}
+{"sent": "black shorts", "ann_id": 225240, "best_split": [1, 2], "split_score": 0.4132421787763527}
+{"sent": "blurry gray shorts", "ann_id": 225240, "best_split": [1, 2], "split_score": 0.4132421787763527}

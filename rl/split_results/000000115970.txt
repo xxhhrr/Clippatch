@@ -1,0 +1,7 @@
+{"sent": "book that is open", "ann_id": 1660474, "best_split": [3, 1], "split_score": 0.5057719349715238}
+{"sent": "open book", "ann_id": 1660474, "best_split": [3, 1], "split_score": 0.5057719349715238}
+{"sent": "white paper the phones on", "ann_id": 1658909, "best_split": [1, 2], "split_score": 0.8915502088715045}
+{"sent": "white area by phone", "ann_id": 1658909, "best_split": [1, 2], "split_score": 0.8915502088715045}
+{"sent": "white space under cell phone", "ann_id": 1658909, "best_split": [1, 2], "split_score": 0.8915502088715045}
+{"sent": "book under the green plag", "ann_id": 1658774, "best_split": [3, 2], "split_score": 0.6662274922413013}
+{"sent": "red white green book closed", "ann_id": 1658774, "best_split": [3, 2], "split_score": 0.6662274922413013}

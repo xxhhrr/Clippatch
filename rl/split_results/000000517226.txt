@@ -1,0 +1,6 @@
+{"sent": "depot", "ann_id": 174769, "best_split": [3, 3], "split_score": 0.39979177506509733}
+{"sent": "bus that says depot", "ann_id": 174769, "best_split": [3, 3], "split_score": 0.39979177506509733}
+{"sent": "depot train", "ann_id": 174769, "best_split": [3, 3], "split_score": 0.39979177506509733}
+{"sent": "red tram with more writing in yellow", "ann_id": 174082, "best_split": [3, 2], "split_score": 0.40145128583913653}
+{"sent": "ecole train", "ann_id": 174082, "best_split": [3, 2], "split_score": 0.40145128583913653}
+{"sent": "bus with ecole in destination", "ann_id": 174082, "best_split": [3, 2], "split_score": 0.40145128583913653}

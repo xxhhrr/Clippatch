@@ -1,0 +1,6 @@
+{"sent": "striped", "ann_id": 518967, "best_split": [1, 3], "split_score": 0.2937293729196682}
+{"sent": "black striped shirt", "ann_id": 518967, "best_split": [2, 3], "split_score": 0.5339805824625542}
+{"sent": "half person only showing one arm", "ann_id": 518967, "best_split": [2, 2], "split_score": 0.3668122270456322}
+{"sent": "the guy with dumb face wearing green shirt", "ann_id": 475895, "best_split": [1, 2], "split_score": 0.5360292535885128}
+{"sent": "guy in green shirt", "ann_id": 475895, "best_split": [1, 2], "split_score": 0.5360292535885128}
+{"sent": "green", "ann_id": 475895, "best_split": [1, 2], "split_score": 0.5360292535885128}

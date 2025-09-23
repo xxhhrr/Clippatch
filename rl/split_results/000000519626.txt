@@ -1,0 +1,6 @@
+{"sent": "pizza near green vegeatble", "ann_id": 1074838, "best_split": [1, 2], "split_score": 0.4930702755484047}
+{"sent": "any slice", "ann_id": 1074838, "best_split": [1, 2], "split_score": 0.4930702755484047}
+{"sent": "any slice", "ann_id": 1074838, "best_split": [1, 2], "split_score": 0.4930702755484047}
+{"sent": "pizza slice most center", "ann_id": 1073426, "best_split": [5, 1], "split_score": 0.33338098639504066}
+{"sent": "piece of pizza inbetween the rest", "ann_id": 1073426, "best_split": [5, 1], "split_score": 0.33338098639504066}
+{"sent": "piece touching tip of piece with parsley", "ann_id": 1073426, "best_split": [1, 2], "split_score": 0.093767147603571}

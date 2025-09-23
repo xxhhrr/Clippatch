@@ -1,0 +1,9 @@
+{"sent": "says m j male on door", "ann_id": 1367975, "best_split": [3, 2], "split_score": 0.4567901234064385}
+{"sent": "black thing next to derrick", "ann_id": 1367975, "best_split": [3, 3], "split_score": 0.6425639405363808}
+{"sent": "black truck", "ann_id": 1367975, "best_split": [3, 2], "split_score": 0.4567901234064385}
+{"sent": "camper with five windows", "ann_id": 399337, "best_split": [3, 3], "split_score": 0.5880503143729481}
+{"sent": "white trailer in the back", "ann_id": 399337, "best_split": [3, 2], "split_score": 0.4077627561701087}
+{"sent": "all white 5 windows", "ann_id": 399337, "best_split": [3, 2], "split_score": 0.4077627561701087}
+{"sent": "derrick", "ann_id": 399021, "best_split": [1, 3], "split_score": 0.5172043010554069}
+{"sent": "derrick", "ann_id": 399021, "best_split": [1, 3], "split_score": 0.5172043010554069}
+{"sent": "derrick truck", "ann_id": 399021, "best_split": [1, 3], "split_score": 0.5172043010554069}

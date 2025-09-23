@@ -1,0 +1,5 @@
+{"sent": "boy", "ann_id": 2207548, "best_split": [1, 2], "split_score": 0.7741811051215346}
+{"sent": "child", "ann_id": 2207548, "best_split": [1, 2], "split_score": 0.7741811051215346}
+{"sent": "boy", "ann_id": 2207548, "best_split": [1, 2], "split_score": 0.7741811051215346}
+{"sent": "the leg partially seen", "ann_id": 509341, "best_split": [2, 1], "split_score": 0.12165178571004283}
+{"sent": "pants on side", "ann_id": 509341, "best_split": [2, 1], "split_score": 0.12165178571004283}

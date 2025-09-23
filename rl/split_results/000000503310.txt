@@ -1,0 +1,5 @@
+{"sent": "empty blue seat", "ann_id": 1595540, "best_split": [2, 1], "split_score": 0.640435403264322}
+{"sent": "seat closest to us", "ann_id": 1595540, "best_split": [2, 1], "split_score": 0.640435403264322}
+{"sent": "nearest seat", "ann_id": 1595540, "best_split": [2, 1], "split_score": 0.640435403264322}
+{"sent": "seat across the aisle next to full window", "ann_id": 1584793, "best_split": [3, 1], "split_score": 0.47808192953301676}
+{"sent": "chair not occupied close to blue window", "ann_id": 1584793, "best_split": [1, 2], "split_score": 0.3385200788089108}

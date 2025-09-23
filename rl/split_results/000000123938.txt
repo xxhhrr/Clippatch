@@ -1,0 +1,8 @@
+{"sent": "plate with spoon", "ann_id": 1538359, "best_split": [2, 1], "split_score": 0.2877869897844473}
+{"sent": "plate of food immediately after one closest to us", "ann_id": 1538359, "best_split": [1, 3], "split_score": 0.4193009662161934}
+{"sent": "the bowl of chopped light green stuff", "ann_id": 1531606, "best_split": [5, 1], "split_score": 0.3591091437018184}
+{"sent": "green melon", "ann_id": 1531606, "best_split": [3, 3], "split_score": 0.5591178271840802}
+{"sent": "light green sliced stuff", "ann_id": 1531606, "best_split": [3, 3], "split_score": 0.5591178271840802}
+{"sent": "shrimp", "ann_id": 1540112, "best_split": [3, 1], "split_score": 0.8456447862132209}
+{"sent": "shrimp and brocli", "ann_id": 1540112, "best_split": [3, 1], "split_score": 0.8456447862132209}
+{"sent": "the food plate closest to us", "ann_id": 1540112, "best_split": [1, 2], "split_score": 0.23816544843497928}

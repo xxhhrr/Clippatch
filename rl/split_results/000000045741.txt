@@ -1,0 +1,6 @@
+{"sent": "black cat closest to child", "ann_id": 50720, "best_split": [2, 3], "split_score": 0.6028938906060066}
+{"sent": "black cat on table", "ann_id": 50720, "best_split": [2, 3], "split_score": 0.6028938906060066}
+{"sent": "closer black cat", "ann_id": 50720, "best_split": [2, 3], "split_score": 0.6028938906060066}
+{"sent": "cat being held", "ann_id": 48399, "best_split": [2, 1], "split_score": 0.37247234550931896}
+{"sent": "the one hes holding", "ann_id": 48399, "best_split": [2, 2], "split_score": 0.6674031056263475}
+{"sent": "cat in arms", "ann_id": 48399, "best_split": [2, 1], "split_score": 0.37247234550931896}

@@ -1,0 +1,5 @@
+{"sent": "chair under bear", "ann_id": 2191866, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "bear chair", "ann_id": 2191866, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "chair with bear", "ann_id": 2191866, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "chair off side of pic", "ann_id": 1597840, "best_split": [2, 3], "split_score": 0.46793626112826114}
+{"sent": "black side of chair", "ann_id": 1597840, "best_split": [2, 3], "split_score": 0.46793626112826114}

@@ -1,0 +1,5 @@
+{"sent": "orange not sliced", "ann_id": 1054041, "best_split": [2, 3], "split_score": 0.32762784833270736}
+{"sent": "tallest orange", "ann_id": 1054041, "best_split": [2, 3], "split_score": 0.32762784833270736}
+{"sent": "orange slices together", "ann_id": 1053213, "best_split": [3, 3], "split_score": 0.5596857903549325}
+{"sent": "double orange slice", "ann_id": 1053213, "best_split": [3, 3], "split_score": 0.5596857903549325}
+{"sent": "orange slices", "ann_id": 1053213, "best_split": [3, 3], "split_score": 0.5596857903549325}

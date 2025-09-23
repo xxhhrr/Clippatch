@@ -1,0 +1,6 @@
+{"sent": "black cow with white horns", "ann_id": 73112, "best_split": [2, 1], "split_score": 0.15267175571912087}
+{"sent": "black cow with horns facing camera", "ann_id": 73112, "best_split": [2, 1], "split_score": 0.15267175571912087}
+{"sent": "black cow with horns", "ann_id": 73112, "best_split": [2, 1], "split_score": 0.15267175571912087}
+{"sent": "light cow", "ann_id": 71411, "best_split": [3, 2], "split_score": 0.7597205003088334}
+{"sent": "brown cow", "ann_id": 71411, "best_split": [3, 2], "split_score": 0.7597205003088334}
+{"sent": "red cow", "ann_id": 71411, "best_split": [3, 2], "split_score": 0.7597205003088334}

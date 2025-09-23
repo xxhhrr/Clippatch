@@ -1,0 +1,10 @@
+{"sent": "white shirt", "ann_id": 1753957, "best_split": [2, 3], "split_score": 0.6292293232491326}
+{"sent": "white jacket", "ann_id": 1753957, "best_split": [2, 3], "split_score": 0.6292293232491326}
+{"sent": "woman white jacket", "ann_id": 1753957, "best_split": [2, 3], "split_score": 0.6292293232491326}
+{"sent": "woman in white", "ann_id": 1753957, "best_split": [2, 3], "split_score": 0.6292293232491326}
+{"sent": "wearing a blue jacket", "ann_id": 457348, "best_split": [2, 2], "split_score": 0.6099710783218585}
+{"sent": "blue shirt lady", "ann_id": 457348, "best_split": [2, 1], "split_score": 0.3272740707778292}
+{"sent": "blue coat and sunglasses", "ann_id": 457348, "best_split": [2, 2], "split_score": 0.6099710783218585}
+{"sent": "guy with hat", "ann_id": 429476, "best_split": [3, 2], "split_score": 0.6242424241912987}
+{"sent": "guy blue shirt", "ann_id": 429476, "best_split": [3, 2], "split_score": 0.6242424241912987}
+{"sent": "man with blue shirt", "ann_id": 429476, "best_split": [3, 2], "split_score": 0.6242424241912987}

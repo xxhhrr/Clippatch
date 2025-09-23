@@ -1,0 +1,12 @@
+{"sent": "woman in white on edge facing you", "ann_id": 1265209, "best_split": [5, 1], "split_score": 0.11609498679781538}
+{"sent": "sitting on end in white", "ann_id": 1265209, "best_split": [2, 2], "split_score": 0.2706766917081237}
+{"sent": "woman on end wearing white", "ann_id": 1265209, "best_split": [1, 2], "split_score": 0.146683673463541}
+{"sent": "lady with dogs", "ann_id": 1328331, "best_split": [2, 3], "split_score": 0.5135409613503114}
+{"sent": "woman holding dogs", "ann_id": 1328331, "best_split": [2, 3], "split_score": 0.5135409613503114}
+{"sent": "odd lady in corner with pets", "ann_id": 1328331, "best_split": [2, 3], "split_score": 0.5135409613503114}
+{"sent": "hands in pocket", "ann_id": 1322542, "best_split": [3, 3], "split_score": 0.25032526668614036}
+{"sent": "man standing in pants", "ann_id": 1322542, "best_split": [3, 2], "split_score": 0.1832730043643291}
+{"sent": "man standing closest to fence hand in pocket", "ann_id": 1322542, "best_split": [1, 5], "split_score": 0.41943993502237825}
+{"sent": "white dres woman next to dogs", "ann_id": 1309255, "best_split": [1, 5], "split_score": 0.33806818178388104}
+{"sent": "sitting down hands on lap", "ann_id": 1309255, "best_split": [1, 5], "split_score": 0.33806818178388104}
+{"sent": "lady in white next to dogs", "ann_id": 1309255, "best_split": [1, 5], "split_score": 0.33806818178388104}

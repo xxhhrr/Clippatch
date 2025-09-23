@@ -1,0 +1,5 @@
+{"sent": "back giraffe", "ann_id": 598515, "best_split": [3, 1], "split_score": 0.39375175030669474}
+{"sent": "second giraffe", "ann_id": 598515, "best_split": [3, 1], "split_score": 0.39375175030669474}
+{"sent": "giraffe showing most body", "ann_id": 598515, "best_split": [3, 1], "split_score": 0.39375175030669474}
+{"sent": "giraffe bent down lower", "ann_id": 597617, "best_split": [1, 2], "split_score": 0.5708928989755422}
+{"sent": "giraffe with head bent", "ann_id": 597617, "best_split": [1, 2], "split_score": 0.5708928989755422}

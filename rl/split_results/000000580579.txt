@@ -1,0 +1,7 @@
+{"sent": "all donuts on edge", "ann_id": 1081274, "best_split": [3, 1], "split_score": 0.7313071041986152}
+{"sent": "donuts on edge of box", "ann_id": 1081274, "best_split": [3, 1], "split_score": 0.7313071041986152}
+{"sent": "any outer donut", "ann_id": 1081274, "best_split": [3, 1], "split_score": 0.7313071041986152}
+{"sent": "white with nuts", "ann_id": 1078418, "best_split": [3, 3], "split_score": 0.4937910882955093}
+{"sent": "white frosting nuts", "ann_id": 1078418, "best_split": [3, 3], "split_score": 0.4937910882955093}
+{"sent": "white frosting and nuts", "ann_id": 1078418, "best_split": [3, 3], "split_score": 0.4937910882955093}
+{"sent": "the donut thing with white frosting and nuts", "ann_id": 1078418, "best_split": [5, 1], "split_score": 0.22274143300012253}

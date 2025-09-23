@@ -1,0 +1,6 @@
+{"sent": "passenger behind red rain coat", "ann_id": 2154393, "best_split": [2, 2], "split_score": 0.3279857397260854}
+{"sent": "passenger in blue jeans", "ann_id": 2154393, "best_split": [2, 3], "split_score": 0.46431642299394704}
+{"sent": "lady carried", "ann_id": 2154393, "best_split": [2, 3], "split_score": 0.46431642299394704}
+{"sent": "driver pink raincoat", "ann_id": 183487, "best_split": [2, 3], "split_score": 0.49527085120418995}
+{"sent": "close driver", "ann_id": 183487, "best_split": [2, 3], "split_score": 0.49527085120418995}
+{"sent": "person with mask", "ann_id": 183487, "best_split": [2, 3], "split_score": 0.49527085120418995}

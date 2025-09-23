@@ -1,0 +1,6 @@
+{"sent": "white sofa with three pillows", "ann_id": 114660, "best_split": [2, 3], "split_score": 0.6140183572995568}
+{"sent": "couch facing fireplace", "ann_id": 114660, "best_split": [2, 1], "split_score": 0.2093431122365536}
+{"sent": "partial sofa", "ann_id": 114660, "best_split": [2, 3], "split_score": 0.6140183572995568}
+{"sent": "dark gray pillows", "ann_id": 111693, "best_split": [3, 2], "split_score": 0.3651771956481585}
+{"sent": "couch by window", "ann_id": 111693, "best_split": [3, 2], "split_score": 0.3651771956481585}
+{"sent": "couch fully seen", "ann_id": 111693, "best_split": [3, 2], "split_score": 0.3651771956481585}

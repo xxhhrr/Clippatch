@@ -1,0 +1,5 @@
+{"sent": "gray leg thats hardly shown", "ann_id": 2204691, "best_split": [3, 3], "split_score": 0.3344807802159379}
+{"sent": "gray clothing of person you cant see", "ann_id": 2204691, "best_split": [2, 1], "split_score": 0.023357870893850583}
+{"sent": "boy eating pizza", "ann_id": 2153533, "best_split": [1, 2], "split_score": 0.49325361556731734}
+{"sent": "kid", "ann_id": 2153533, "best_split": [2, 1], "split_score": 0.506766672091416}
+{"sent": "child", "ann_id": 2153533, "best_split": [2, 1], "split_score": 0.506766672091416}

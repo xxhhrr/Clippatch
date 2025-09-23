@@ -1,0 +1,5 @@
+{"sent": "bread with tomato and egg", "ann_id": 312516, "best_split": [3, 2], "split_score": 0.5632855372133753}
+{"sent": "sandwich with sliced eggs", "ann_id": 312516, "best_split": [3, 2], "split_score": 0.5632855372133753}
+{"sent": "one with more red", "ann_id": 310048, "best_split": [3, 2], "split_score": 0.4667057787865425}
+{"sent": "sandwich with primarily red stuff on it", "ann_id": 310048, "best_split": [3, 1], "split_score": 0.33534743200833894}
+{"sent": "red meat", "ann_id": 310048, "best_split": [3, 2], "split_score": 0.4667057787865425}

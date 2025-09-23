@@ -1,0 +1,6 @@
+{"sent": "fuller dish", "ann_id": 1571136, "best_split": [1, 2], "split_score": 0.20814479637273245}
+{"sent": "food in the pan", "ann_id": 1571136, "best_split": [1, 3], "split_score": 0.2262996941787892}
+{"sent": "tthe whole pizza not the slice", "ann_id": 1571136, "best_split": [1, 3], "split_score": 0.2262996941787892}
+{"sent": "slice on plate", "ann_id": 1070894, "best_split": [3, 2], "split_score": 0.5931602643363195}
+{"sent": "pizza slice", "ann_id": 1070894, "best_split": [3, 2], "split_score": 0.5931602643363195}
+{"sent": "closest pizza", "ann_id": 1070894, "best_split": [3, 2], "split_score": 0.5931602643363195}

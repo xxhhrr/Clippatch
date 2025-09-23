@@ -1,0 +1,6 @@
+{"sent": "the red train the guy is going toward", "ann_id": 174126, "best_split": [3, 1], "split_score": 0.2976850342192324}
+{"sent": "train not solingen", "ann_id": 174126, "best_split": [3, 1], "split_score": 0.2976850342192324}
+{"sent": "part of train not near the sign", "ann_id": 174126, "best_split": [3, 1], "split_score": 0.2976850342192324}
+{"sent": "train behind soungen sign", "ann_id": 172818, "best_split": [3, 2], "split_score": 0.6903731746267916}
+{"sent": "solingen hbf", "ann_id": 172818, "best_split": [3, 2], "split_score": 0.6903731746267916}
+{"sent": "train by sign", "ann_id": 172818, "best_split": [3, 2], "split_score": 0.6903731746267916}

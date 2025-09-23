@@ -1,0 +1,6 @@
+{"sent": "smaller elephant", "ann_id": 580657, "best_split": [3, 3], "split_score": 0.38607017081178163}
+{"sent": "smaller", "ann_id": 580657, "best_split": [1, 2], "split_score": 0.1862152832188053}
+{"sent": "smaller one", "ann_id": 580657, "best_split": [1, 2], "split_score": 0.1862152832188053}
+{"sent": "bigger elephant", "ann_id": 580006, "best_split": [3, 3], "split_score": 0.3287764866337689}
+{"sent": "sorry last picture had cows no batter elephant short tusks", "ann_id": 580006, "best_split": [3, 3], "split_score": 0.3287764866337689}
+{"sent": "elephant without tusks", "ann_id": 580006, "best_split": [3, 3], "split_score": 0.3287764866337689}

@@ -1,0 +1,6 @@
+{"sent": "zebra with head down", "ann_id": 593689, "best_split": [3, 1], "split_score": 0.3157716987326482}
+{"sent": "zebra grazing", "ann_id": 593689, "best_split": [3, 1], "split_score": 0.3157716987326482}
+{"sent": "zebra bending head down", "ann_id": 593689, "best_split": [3, 1], "split_score": 0.3157716987326482}
+{"sent": "looking to the distance", "ann_id": 590366, "best_split": [1, 3], "split_score": 0.286807301328735}
+{"sent": "the zebra that you cant see his tail because a zebra eating spiders is blocking it", "ann_id": 590366, "best_split": [3, 1], "split_score": 0.3317120072206486}
+{"sent": "zebra looking at 300", "ann_id": 590366, "best_split": [3, 1], "split_score": 0.3317120072206486}

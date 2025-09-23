@@ -1,0 +1,9 @@
+{"sent": "hot dog nearest us", "ann_id": 1070234, "best_split": [5, 1], "split_score": 0.571862252103988}
+{"sent": "hot dog with green relish spread out", "ann_id": 1070234, "best_split": [2, 2], "split_score": 0.3985765124265686}
+{"sent": "split weenie", "ann_id": 1069758, "best_split": [2, 1], "split_score": 0.20725794951492735}
+{"sent": "split dog facing us", "ann_id": 1069758, "best_split": [2, 1], "split_score": 0.20725794951492735}
+{"sent": "the most split open hotdog", "ann_id": 1069758, "best_split": [2, 1], "split_score": 0.20725794951492735}
+{"sent": "hot dog with slit fully seen behind green thing", "ann_id": 1068315, "best_split": [3, 1], "split_score": 0.34829079515579603}
+{"sent": "hotdog above pepper", "ann_id": 1068315, "best_split": [3, 1], "split_score": 0.34829079515579603}
+{"sent": "hot dog up one", "ann_id": 1067692, "best_split": [2, 2], "split_score": 0.33382274423826597}
+{"sent": "hot dog next to the leaf", "ann_id": 1067692, "best_split": [2, 3], "split_score": 0.40246077029221994}

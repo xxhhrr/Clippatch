@@ -1,0 +1,6 @@
+{"sent": "looking at you", "ann_id": 2175430, "best_split": [1, 3], "split_score": 0.49227989485494905}
+{"sent": "animal bent over the most", "ann_id": 2175430, "best_split": [2, 1], "split_score": 0.41596161130142817}
+{"sent": "farthest giraffe", "ann_id": 2175430, "best_split": [2, 1], "split_score": 0.41596161130142817}
+{"sent": "this jiraffe", "ann_id": 601202, "best_split": [1, 2], "split_score": 0.6293043763207629}
+{"sent": "in profile", "ann_id": 601202, "best_split": [1, 2], "split_score": 0.6293043763207629}
+{"sent": "giraffe licking giraffes ear", "ann_id": 601202, "best_split": [1, 2], "split_score": 0.6293043763207629}

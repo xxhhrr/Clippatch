@@ -1,0 +1,6 @@
+{"sent": "purple hat teddy", "ann_id": 1161604, "best_split": [2, 2], "split_score": 0.7040225619189533}
+{"sent": "bear with purple hat", "ann_id": 1161604, "best_split": [2, 2], "split_score": 0.7040225619189533}
+{"sent": "bear with purple hat", "ann_id": 1161604, "best_split": [2, 2], "split_score": 0.7040225619189533}
+{"sent": "red hat", "ann_id": 1160395, "best_split": [1, 2], "split_score": 0.5886479591602102}
+{"sent": "bear with red hat", "ann_id": 1160395, "best_split": [2, 1], "split_score": 0.09422358883993456}
+{"sent": "red hat bear", "ann_id": 1160395, "best_split": [2, 1], "split_score": 0.09422358883993456}

@@ -1,0 +1,5 @@
+{"sent": "police in yellow", "ann_id": 513807, "best_split": [1, 2], "split_score": 0.7520727040516553}
+{"sent": "police officer", "ann_id": 513807, "best_split": [1, 2], "split_score": 0.7520727040516553}
+{"sent": "yellow vest guy", "ann_id": 513807, "best_split": [1, 2], "split_score": 0.7520727040516553}
+{"sent": "man holding camera wearing glasses looking at us", "ann_id": 425269, "best_split": [2, 2], "split_score": 0.585410536802009}
+{"sent": "photographer", "ann_id": 425269, "best_split": [2, 2], "split_score": 0.585410536802009}

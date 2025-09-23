@@ -1,0 +1,5 @@
+{"sent": "zebra 1", "ann_id": 592832, "best_split": [2, 2], "split_score": 0.5439847836054627}
+{"sent": "closest zebra", "ann_id": 592832, "best_split": [2, 2], "split_score": 0.5439847836054627}
+{"sent": "nuzzling zebra shorter", "ann_id": 592832, "best_split": [2, 2], "split_score": 0.5439847836054627}
+{"sent": "zebra getting nibbled", "ann_id": 592203, "best_split": [2, 1], "split_score": 0.3160321290812941}
+{"sent": "tallest zebra", "ann_id": 592203, "best_split": [2, 1], "split_score": 0.3160321290812941}

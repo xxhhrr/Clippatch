@@ -1,0 +1,6 @@
+{"sent": "standing cow", "ann_id": 278749, "best_split": [2, 1], "split_score": 0.2952963151555075}
+{"sent": "standing up", "ann_id": 278749, "best_split": [1, 2], "split_score": 0.8242984693548988}
+{"sent": "standing cow", "ann_id": 278749, "best_split": [2, 1], "split_score": 0.2952963151555075}
+{"sent": "blue harness", "ann_id": 73466, "best_split": [2, 2], "split_score": 0.6685269090137845}
+{"sent": "brown and white lying cow", "ann_id": 73466, "best_split": [2, 2], "split_score": 0.6685269090137845}
+{"sent": "cow laying", "ann_id": 73466, "best_split": [2, 2], "split_score": 0.6685269090137845}

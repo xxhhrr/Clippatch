@@ -1,0 +1,5 @@
+{"sent": "piece by the fork", "ann_id": 2218177, "best_split": [2, 2], "split_score": 0.5298329355236675}
+{"sent": "food item closest to fork", "ann_id": 2218177, "best_split": [2, 2], "split_score": 0.5298329355236675}
+{"sent": "half of sandwich without green sticking out of it", "ann_id": 1552987, "best_split": [3, 3], "split_score": 0.4875101818507317}
+{"sent": "pie nearest fries", "ann_id": 1552987, "best_split": [1, 5], "split_score": 0.2206128133529158}
+{"sent": "half sandwich with no green", "ann_id": 1552987, "best_split": [3, 3], "split_score": 0.4875101818507317}

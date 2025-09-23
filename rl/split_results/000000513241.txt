@@ -1,0 +1,3 @@
+{"sent": "piece closest to us", "ann_id": 1905336, "best_split": [1, 5], "split_score": 0.21988619922655162}
+{"sent": "smallest clsest piece", "ann_id": 1905336, "best_split": [1, 3], "split_score": 0.1684966216114565}
+{"sent": "stack of two bananas directly on each other", "ann_id": 1904992, "best_split": [3, 2], "split_score": 0.18773088545978608}

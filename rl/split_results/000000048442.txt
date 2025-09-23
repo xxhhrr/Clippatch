@@ -1,0 +1,8 @@
+{"sent": "blue", "ann_id": 1700945, "best_split": [1, 2], "split_score": 0.2839604591723549}
+{"sent": "goalie wearing gear", "ann_id": 1700945, "best_split": [1, 5], "split_score": 0.37802304817578125}
+{"sent": "player with blue leg protectors", "ann_id": 1700945, "best_split": [3, 2], "split_score": 0.33275683151740254}
+{"sent": "purple guy looking up", "ann_id": 1699397, "best_split": [3, 3], "split_score": 0.33928571424477727}
+{"sent": "guy in white and purple", "ann_id": 1696536, "best_split": [2, 3], "split_score": 0.21094237568015992}
+{"sent": "guy in purple facing camera", "ann_id": 1696536, "best_split": [1, 5], "split_score": 0.27362128805692043}
+{"sent": "player standing upright in purple", "ann_id": 1696536, "best_split": [1, 5], "split_score": 0.27362128805692043}
+{"sent": "number 8", "ann_id": 1253593, "best_split": [1, 5], "split_score": 0.5136186770071137}

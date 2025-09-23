@@ -1,0 +1,5 @@
+{"sent": "smaller pizza with piece missing", "ann_id": 1075322, "best_split": [3, 1], "split_score": 0.646162761791284}
+{"sent": "pizza with peperoni", "ann_id": 1075322, "best_split": [3, 1], "split_score": 0.646162761791284}
+{"sent": "pizza with one small piece missing", "ann_id": 1072933, "best_split": [2, 1], "split_score": 0.4946588010006912}
+{"sent": "pizza sausage olives close to us", "ann_id": 1072933, "best_split": [2, 1], "split_score": 0.4946588010006912}
+{"sent": "pizza closest", "ann_id": 1072933, "best_split": [2, 1], "split_score": 0.4946588010006912}

@@ -1,0 +1,5 @@
+{"sent": "partial chair nearest us", "ann_id": 1579215, "best_split": [1, 2], "split_score": 0.19371811223717642}
+{"sent": "chair lowest on screen", "ann_id": 1579215, "best_split": [2, 2], "split_score": 0.38743622445890974}
+{"sent": "brown chairish thing next to end table which is next to couch", "ann_id": 1934198, "best_split": [3, 1], "split_score": 0.20311070447145982}
+{"sent": "brown chair by end table", "ann_id": 1934198, "best_split": [3, 2], "split_score": 0.3324973876350577}
+{"sent": "chair in livig room with legs", "ann_id": 1934198, "best_split": [2, 2], "split_score": 0.30740256742967154}

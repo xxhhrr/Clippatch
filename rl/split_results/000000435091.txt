@@ -1,0 +1,6 @@
+{"sent": "woman drinking wine", "ann_id": 523800, "best_split": [3, 2], "split_score": 0.5596400745572654}
+{"sent": "woman holding a drink", "ann_id": 523800, "best_split": [3, 2], "split_score": 0.5596400745572654}
+{"sent": "lady", "ann_id": 523800, "best_split": [1, 5], "split_score": 0.2824867939632274}
+{"sent": "man", "ann_id": 509763, "best_split": [1, 2], "split_score": 0.9866470025116929}
+{"sent": "the man", "ann_id": 509763, "best_split": [1, 2], "split_score": 0.9866470025116929}
+{"sent": "topless man", "ann_id": 509763, "best_split": [1, 2], "split_score": 0.9866470025116929}

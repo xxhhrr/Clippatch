@@ -1,0 +1,6 @@
+{"sent": "car with dark black stripe", "ann_id": 347392, "best_split": [2, 1], "split_score": 0.3896683673314067}
+{"sent": "car without taillight", "ann_id": 347392, "best_split": [1, 2], "split_score": 0.3896683673314067}
+{"sent": "car with back cut off", "ann_id": 347392, "best_split": [2, 1], "split_score": 0.3896683673314067}
+{"sent": "car furthest from hydrant", "ann_id": 347072, "best_split": [2, 1], "split_score": 0.31696428570165164}
+{"sent": "taillight", "ann_id": 347072, "best_split": [5, 1], "split_score": 0.38260869562246824}
+{"sent": "furthest car", "ann_id": 347072, "best_split": [2, 2], "split_score": 0.633928571378035}

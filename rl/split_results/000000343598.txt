@@ -1,0 +1,5 @@
+{"sent": "black samsung", "ann_id": 1103189, "best_split": [2, 2], "split_score": 0.8591462946693887}
+{"sent": "samsung", "ann_id": 1103189, "best_split": [2, 1], "split_score": 0.46699617345077343}
+{"sent": "black laptop", "ann_id": 1103189, "best_split": [2, 2], "split_score": 0.8591462946693887}
+{"sent": "apple laptop", "ann_id": 1101906, "best_split": [1, 2], "split_score": 0.5699936224262598}
+{"sent": "white laptop with stickers", "ann_id": 1101906, "best_split": [1, 2], "split_score": 0.5699936224262598}

@@ -1,0 +1,6 @@
+{"sent": "bus where 4 people are standing", "ann_id": 366412, "best_split": [1, 2], "split_score": 0.6844706632380233}
+{"sent": "bus with people leaning on it", "ann_id": 366412, "best_split": [1, 2], "split_score": 0.6844706632380233}
+{"sent": "close bus", "ann_id": 366412, "best_split": [1, 2], "split_score": 0.6844706632380233}
+{"sent": "furthest bus", "ann_id": 365521, "best_split": [2, 1], "split_score": 0.17732840753733897}
+{"sent": "red bus behind closese", "ann_id": 365521, "best_split": [2, 1], "split_score": 0.17732840753733897}
+{"sent": "not chartered", "ann_id": 365521, "best_split": [2, 1], "split_score": 0.17732840753733897}

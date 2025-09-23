@@ -1,0 +1,5 @@
+{"sent": "small elephant", "ann_id": 585643, "best_split": [5, 1], "split_score": 0.173913043463258}
+{"sent": "background elepahnt", "ann_id": 585643, "best_split": [3, 3], "split_score": 0.5877494837254388}
+{"sent": "elephant that you can fully see", "ann_id": 584951, "best_split": [1, 2], "split_score": 0.5249479308000559}
+{"sent": "elephant", "ann_id": 584951, "best_split": [1, 2], "split_score": 0.5249479308000559}
+{"sent": "elephant not behind the tree", "ann_id": 584951, "best_split": [1, 2], "split_score": 0.5249479308000559}

@@ -1,0 +1,12 @@
+{"sent": "woman short hair", "ann_id": 1718770, "best_split": [1, 3], "split_score": 0.4023286679293962}
+{"sent": "woman with red strap across chest", "ann_id": 1718770, "best_split": [1, 3], "split_score": 0.4023286679293962}
+{"sent": "black shirt with red", "ann_id": 1718770, "best_split": [2, 1], "split_score": 0.15783141314868632}
+{"sent": "blond man or at least more hair", "ann_id": 547611, "best_split": [5, 1], "split_score": 0.09147609146929937}
+{"sent": "guy in white shirt and jacket", "ann_id": 547611, "best_split": [1, 5], "split_score": 0.49147727267740693}
+{"sent": "tallest man without glasses", "ann_id": 547611, "best_split": [3, 2], "split_score": 0.09836065572947802}
+{"sent": "bald man", "ann_id": 505135, "best_split": [1, 3], "split_score": 0.549728859987502}
+{"sent": "tall man", "ann_id": 505135, "best_split": [1, 3], "split_score": 0.549728859987502}
+{"sent": "guy with glasses", "ann_id": 505135, "best_split": [1, 3], "split_score": 0.549728859987502}
+{"sent": "asking lady", "ann_id": 485540, "best_split": [1, 3], "split_score": 0.23161260848380466}
+{"sent": "lady with long dark hair", "ann_id": 485540, "best_split": [1, 3], "split_score": 0.23161260848380466}
+{"sent": "long black hair", "ann_id": 485540, "best_split": [1, 5], "split_score": 0.2660300136198815}

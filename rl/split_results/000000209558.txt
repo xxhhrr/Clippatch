@@ -1,0 +1,6 @@
+{"sent": "man in suit", "ann_id": 1221083, "best_split": [2, 3], "split_score": 0.5366132722728394}
+{"sent": "man", "ann_id": 1221083, "best_split": [2, 3], "split_score": 0.5366132722728394}
+{"sent": "lawyer speaking", "ann_id": 1221083, "best_split": [2, 3], "split_score": 0.5366132722728394}
+{"sent": "head of lady", "ann_id": 1698939, "best_split": [2, 1], "split_score": 0.07644110275449746}
+{"sent": "woman on screen closest to us", "ann_id": 1698939, "best_split": [2, 3], "split_score": 0.6368381804029792}
+{"sent": "woman", "ann_id": 1698939, "best_split": [2, 1], "split_score": 0.24818366752949056}

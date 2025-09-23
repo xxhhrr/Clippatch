@@ -1,0 +1,6 @@
+{"sent": "smaller suitcase", "ann_id": 1186835, "best_split": [2, 1], "split_score": 0.267290383693854}
+{"sent": "case 1", "ann_id": 1186835, "best_split": [2, 1], "split_score": 0.267290383693854}
+{"sent": "suitcase closest to door", "ann_id": 1186835, "best_split": [2, 1], "split_score": 0.267290383693854}
+{"sent": "big bag", "ann_id": 1184336, "best_split": [2, 2], "split_score": 0.8017913897138261}
+{"sent": "larger suitcase", "ann_id": 1184336, "best_split": [2, 2], "split_score": 0.8017913897138261}
+{"sent": "bigger luggage", "ann_id": 1184336, "best_split": [2, 2], "split_score": 0.8017913897138261}

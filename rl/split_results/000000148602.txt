@@ -1,0 +1,6 @@
+{"sent": "plane closest to red and white sign", "ann_id": 160832, "best_split": [3, 2], "split_score": 0.5064132139423814}
+{"sent": "furthest plane", "ann_id": 160832, "best_split": [3, 1], "split_score": 0.39025079075970115}
+{"sent": "far plane", "ann_id": 160832, "best_split": [3, 1], "split_score": 0.39025079075970115}
+{"sent": "plane 854", "ann_id": 158797, "best_split": [3, 1], "split_score": 0.5895561859600156}
+{"sent": "plane nearer", "ann_id": 158797, "best_split": [3, 1], "split_score": 0.5895561859600156}
+{"sent": "plane closes to you", "ann_id": 158797, "best_split": [3, 1], "split_score": 0.5895561859600156}

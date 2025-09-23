@@ -1,0 +1,11 @@
+{"sent": "guy", "ann_id": 477096, "best_split": [3, 2], "split_score": 0.4491124259975391}
+{"sent": "groom", "ann_id": 477096, "best_split": [3, 2], "split_score": 0.4491124259975391}
+{"sent": "man", "ann_id": 477096, "best_split": [2, 2], "split_score": 0.4331926863282303}
+{"sent": "table with people", "ann_id": 1964351, "best_split": [5, 1], "split_score": 0.5047137469570866}
+{"sent": "table people are sitting at", "ann_id": 1964351, "best_split": [5, 1], "split_score": 0.5047137469570866}
+{"sent": "table where people are sitting", "ann_id": 1964351, "best_split": [5, 1], "split_score": 0.5047137469570866}
+{"sent": "bride", "ann_id": 1719997, "best_split": [3, 2], "split_score": 0.25780553074734547}
+{"sent": "bride", "ann_id": 1719997, "best_split": [3, 2], "split_score": 0.25780553074734547}
+{"sent": "bride", "ann_id": 1719997, "best_split": [3, 2], "split_score": 0.25780553074734547}
+{"sent": "table where is the cake", "ann_id": 1617551, "best_split": [2, 2], "split_score": 0.46584659909798504}
+{"sent": "the table that cake is on", "ann_id": 1617551, "best_split": [2, 2], "split_score": 0.46584659909798504}

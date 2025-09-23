@@ -1,0 +1,5 @@
+{"sent": "blue chair barely visible", "ann_id": 2225094, "best_split": [3, 3], "split_score": 0.9075967858094235}
+{"sent": "closest chair", "ann_id": 2225094, "best_split": [3, 3], "split_score": 0.9075967858094235}
+{"sent": "far couches", "ann_id": 113409, "best_split": [5, 1], "split_score": 0.37841625785052413}
+{"sent": "couch", "ann_id": 113409, "best_split": [5, 1], "split_score": 0.37841625785052413}
+{"sent": "yellow couch", "ann_id": 113409, "best_split": [5, 1], "split_score": 0.37841625785052413}

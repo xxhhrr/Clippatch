@@ -1,0 +1,6 @@
+{"sent": "bowl black", "ann_id": 717026, "best_split": [1, 2], "split_score": 0.4711651053765648}
+{"sent": "food thats infront", "ann_id": 717026, "best_split": [1, 2], "split_score": 0.4774364250965449}
+{"sent": "main dish", "ann_id": 717026, "best_split": [1, 2], "split_score": 0.4774364250965449}
+{"sent": "bowl with blue ring", "ann_id": 714335, "best_split": [2, 3], "split_score": 0.5255047186088275}
+{"sent": "bowl of green stuff with seeds", "ann_id": 714335, "best_split": [3, 3], "split_score": 0.4577660663947056}
+{"sent": "white bowl with blue stripe", "ann_id": 714335, "best_split": [2, 3], "split_score": 0.5255047186088275}

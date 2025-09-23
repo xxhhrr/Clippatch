@@ -1,0 +1,6 @@
+{"sent": "donkey with green guy", "ann_id": 1821220, "best_split": [2, 3], "split_score": 0.2956521738783017}
+{"sent": "horse behind the one with person in blue is on", "ann_id": 1821220, "best_split": [2, 3], "split_score": 0.2956521738783017}
+{"sent": "elephant leading", "ann_id": 1821220, "best_split": [2, 3], "split_score": 0.2956521738783017}
+{"sent": "animal they are riding", "ann_id": 583199, "best_split": [3, 3], "split_score": 0.585810306111156}
+{"sent": "close to camera", "ann_id": 583199, "best_split": [2, 3], "split_score": 0.4125381297557023}
+{"sent": "elephant closest to you", "ann_id": 583199, "best_split": [3, 3], "split_score": 0.585810306111156}

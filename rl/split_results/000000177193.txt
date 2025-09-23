@@ -1,0 +1,5 @@
+{"sent": "wine glass cut off", "ann_id": 664396, "best_split": [3, 3], "split_score": 0.589294483452399}
+{"sent": "wine glass closest to us", "ann_id": 664396, "best_split": [3, 3], "split_score": 0.589294483452399}
+{"sent": "smaller wine glass beside pizza", "ann_id": 664297, "best_split": [3, 2], "split_score": 0.266042052482183}
+{"sent": "wine glass not the closest", "ann_id": 664297, "best_split": [1, 2], "split_score": 0.13285235968858208}
+{"sent": "wine glass", "ann_id": 664297, "best_split": [1, 2], "split_score": 0.13285235968858208}

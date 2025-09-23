@@ -1,0 +1,8 @@
+{"sent": "the smallest giraffe", "ann_id": 600835, "best_split": [1, 2], "split_score": 0.5001924705327511}
+{"sent": "shorter one", "ann_id": 600835, "best_split": [1, 2], "split_score": 0.5001924705327511}
+{"sent": "small giraffe", "ann_id": 600835, "best_split": [1, 2], "split_score": 0.5001924705327511}
+{"sent": "barley visible giuraffe", "ann_id": 600524, "best_split": [1, 2], "split_score": 0.19897959182880343}
+{"sent": "part of a giraffe partially hidden", "ann_id": 600524, "best_split": [1, 2], "split_score": 0.19897959182880343}
+{"sent": "tallest giraffe", "ann_id": 596396, "best_split": [2, 1], "split_score": 0.4604490138384295}
+{"sent": "main tall giraffe", "ann_id": 596396, "best_split": [2, 1], "split_score": 0.4604490138384295}
+{"sent": "giraff closest", "ann_id": 596396, "best_split": [2, 1], "split_score": 0.4799183551872107}

@@ -1,0 +1,6 @@
+{"sent": "closest zebra", "ann_id": 593058, "best_split": [2, 1], "split_score": 0.6193546487481789}
+{"sent": "zebra with less hair up", "ann_id": 593058, "best_split": [2, 1], "split_score": 0.6193546487481789}
+{"sent": "zebra with ears pointing back", "ann_id": 593058, "best_split": [2, 1], "split_score": 0.6193546487481789}
+{"sent": "not close zebra", "ann_id": 592351, "best_split": [2, 1], "split_score": 0.5132363712327813}
+{"sent": "back z", "ann_id": 592351, "best_split": [2, 1], "split_score": 0.5132363712327813}
+{"sent": "number 2 zebra", "ann_id": 592351, "best_split": [2, 1], "split_score": 0.5132363712327813}

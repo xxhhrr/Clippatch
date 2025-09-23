@@ -1,0 +1,12 @@
+{"sent": "man wearing jacket", "ann_id": 543702, "best_split": [2, 2], "split_score": 0.26674658015324026}
+{"sent": "man in black suit", "ann_id": 543702, "best_split": [1, 5], "split_score": 0.37543891236378507}
+{"sent": "man in black suite", "ann_id": 543702, "best_split": [1, 5], "split_score": 0.37543891236378507}
+{"sent": "man in white shirt n tie", "ann_id": 503471, "best_split": [1, 5], "split_score": 0.38749999996215817}
+{"sent": "man wiht hand on hip", "ann_id": 503471, "best_split": [1, 5], "split_score": 0.38749999996215817}
+{"sent": "man in white shirt", "ann_id": 503471, "best_split": [1, 5], "split_score": 0.38749999996215817}
+{"sent": "purtain dress lady", "ann_id": 2206958, "best_split": [2, 3], "split_score": 0.5182610499566029}
+{"sent": "long purple coat", "ann_id": 2206958, "best_split": [2, 3], "split_score": 0.5182610499566029}
+{"sent": "purple dress", "ann_id": 2206958, "best_split": [2, 3], "split_score": 0.5182610499566029}
+{"sent": "blue dress", "ann_id": 479026, "best_split": [2, 3], "split_score": 0.5581972296301222}
+{"sent": "blue dress", "ann_id": 479026, "best_split": [2, 3], "split_score": 0.5581972296301222}
+{"sent": "blue", "ann_id": 479026, "best_split": [2, 3], "split_score": 0.5581972296301222}

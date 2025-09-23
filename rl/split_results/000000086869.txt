@@ -1,0 +1,5 @@
+{"sent": "back of person we cant see", "ann_id": 1747597, "best_split": [3, 2], "split_score": 0.28313043475798866}
+{"sent": "white shirt", "ann_id": 1747597, "best_split": [1, 5], "split_score": 0.6319104268087663}
+{"sent": "white sleeve", "ann_id": 1747597, "best_split": [1, 5], "split_score": 0.6319104268087663}
+{"sent": "her", "ann_id": 198052, "best_split": [1, 2], "split_score": 0.5271591174122441}
+{"sent": "girl with blue cap", "ann_id": 198052, "best_split": [1, 2], "split_score": 0.5271591174122441}

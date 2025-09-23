@@ -1,0 +1,12 @@
+{"sent": "muffin", "ann_id": 1538387, "best_split": [3, 2], "split_score": 0.475648812758073}
+{"sent": "quiche", "ann_id": 1538387, "best_split": [3, 2], "split_score": 0.475648812758073}
+{"sent": "cupcake thing", "ann_id": 1538387, "best_split": [2, 2], "split_score": 0.40449617343714156}
+{"sent": "cucumbers and carrots", "ann_id": 1535676, "best_split": [2, 2], "split_score": 0.45690243345139286}
+{"sent": "carrots", "ann_id": 1535676, "best_split": [2, 2], "split_score": 0.45690243345139286}
+{"sent": "carrots", "ann_id": 1535676, "best_split": [2, 2], "split_score": 0.45690243345139286}
+{"sent": "tomato", "ann_id": 1532234, "best_split": [1, 5], "split_score": 0.38015368087415075}
+{"sent": "tomaties", "ann_id": 1532234, "best_split": [1, 5], "split_score": 0.38015368087415075}
+{"sent": "tomatoes", "ann_id": 1532234, "best_split": [1, 5], "split_score": 0.38015368087415075}
+{"sent": "meat", "ann_id": 1538722, "best_split": [2, 2], "split_score": 0.6063459866266049}
+{"sent": "cubes o meat", "ann_id": 1538722, "best_split": [2, 2], "split_score": 0.6063459866266049}
+{"sent": "nuts", "ann_id": 1538722, "best_split": [2, 2], "split_score": 0.6063459866266049}

@@ -1,0 +1,9 @@
+{"sent": "giraffe alone", "ann_id": 600894, "best_split": [3, 2], "split_score": 0.33408577875747136}
+{"sent": "giraffe in back", "ann_id": 600894, "best_split": [1, 2], "split_score": 0.4234693877382227}
+{"sent": "this is a giraffe alone", "ann_id": 600894, "best_split": [3, 2], "split_score": 0.33408577875747136}
+{"sent": "tallest jiraffe", "ann_id": 600037, "best_split": [1, 3], "split_score": 0.4993461915454664}
+{"sent": "tallest giraffe", "ann_id": 600037, "best_split": [1, 3], "split_score": 0.4993461915454664}
+{"sent": "tallest giraffe", "ann_id": 600037, "best_split": [1, 3], "split_score": 0.4993461915454664}
+{"sent": "small giraffe closest", "ann_id": 598122, "best_split": [1, 3], "split_score": 0.6985371238918832}
+{"sent": "the giraffe in the foreground", "ann_id": 598122, "best_split": [1, 3], "split_score": 0.6985371238918832}
+{"sent": "giraffe next to tall one", "ann_id": 598122, "best_split": [1, 3], "split_score": 0.6985371238918832}

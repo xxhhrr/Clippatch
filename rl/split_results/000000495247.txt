@@ -1,0 +1,6 @@
+{"sent": "the girl", "ann_id": 2160406, "best_split": [1, 5], "split_score": 0.4315168432131246}
+{"sent": "girl", "ann_id": 2160406, "best_split": [1, 5], "split_score": 0.4315168432131246}
+{"sent": "girl", "ann_id": 2160406, "best_split": [1, 5], "split_score": 0.4315168432131246}
+{"sent": "guy with hat", "ann_id": 446482, "best_split": [1, 2], "split_score": 0.48969016901369794}
+{"sent": "man wearing a hat", "ann_id": 446482, "best_split": [1, 2], "split_score": 0.48969016901369794}
+{"sent": "striped shirt guy", "ann_id": 446482, "best_split": [1, 2], "split_score": 0.48969016901369794}

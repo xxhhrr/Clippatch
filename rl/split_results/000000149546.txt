@@ -1,0 +1,14 @@
+{"sent": "tan donut without icing", "ann_id": 1082287, "best_split": [5, 1], "split_score": 0.22452674895271385}
+{"sent": "3 pm donut", "ann_id": 1082287, "best_split": [5, 1], "split_score": 0.22452674895271385}
+{"sent": "rightiest one", "ann_id": 1082287, "best_split": [2, 1], "split_score": 0.02533542191563933}
+{"sent": "sprinkles", "ann_id": 1082028, "best_split": [2, 2], "split_score": 0.544802295874936}
+{"sent": "white icing choco doughnut", "ann_id": 1082028, "best_split": [1, 5], "split_score": 0.36780855594428713}
+{"sent": "white frosting with sprinkles", "ann_id": 1082028, "best_split": [2, 2], "split_score": 0.544802295874936}
+{"sent": "chocolate covered donut", "ann_id": 1082016, "best_split": [3, 3], "split_score": 0.4915077083235553}
+{"sent": "fully chocolate donut", "ann_id": 1082016, "best_split": [3, 3], "split_score": 0.4915077083235553}
+{"sent": "all chocolate donut", "ann_id": 1082016, "best_split": [3, 3], "split_score": 0.4915077083235553}
+{"sent": "donut above one with no hole", "ann_id": 1081917, "best_split": [2, 2], "split_score": 0.29828815975047873}
+{"sent": "tan colored doughnut behind one with powdered sugar", "ann_id": 1081917, "best_split": [3, 3], "split_score": 0.5928469240925827}
+{"sent": "no hole", "ann_id": 1081415, "best_split": [2, 1], "split_score": 0.10608061153210283}
+{"sent": "donut without a hole", "ann_id": 1081415, "best_split": [3, 1], "split_score": 0.2908064426694633}
+{"sent": "solid donut", "ann_id": 1081415, "best_split": [1, 3], "split_score": 0.36014230722266755}

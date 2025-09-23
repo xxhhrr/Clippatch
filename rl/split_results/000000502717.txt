@@ -1,0 +1,9 @@
+{"sent": "plaid shirt", "ann_id": 500418, "best_split": [1, 2], "split_score": 0.620582551055336}
+{"sent": "man in plaid shirt", "ann_id": 500418, "best_split": [1, 2], "split_score": 0.620582551055336}
+{"sent": "man cutting food blue and white plaid shirt", "ann_id": 500418, "best_split": [1, 2], "split_score": 0.620582551055336}
+{"sent": "arms crossed", "ann_id": 2165755, "best_split": [3, 1], "split_score": 0.1798930365631304}
+{"sent": "man watching in apron", "ann_id": 2165755, "best_split": [1, 5], "split_score": 0.5161937230004819}
+{"sent": "man with apron and solid blue shirt", "ann_id": 2165755, "best_split": [1, 5], "split_score": 0.5161937230004819}
+{"sent": "man in green", "ann_id": 2157362, "best_split": [3, 3], "split_score": 0.4281543950002993}
+{"sent": "blond mustache", "ann_id": 2157362, "best_split": [3, 3], "split_score": 0.4281543950002993}
+{"sent": "green plaid shirt mustache", "ann_id": 2157362, "best_split": [2, 3], "split_score": 0.38938053092688585}

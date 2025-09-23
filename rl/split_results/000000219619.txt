@@ -1,0 +1,6 @@
+{"sent": "food in blue bin", "ann_id": 1536558, "best_split": [1, 2], "split_score": 0.5331794575687687}
+{"sent": "food in blue container", "ann_id": 1536558, "best_split": [1, 2], "split_score": 0.5331794575687687}
+{"sent": "fruit with strawberries", "ann_id": 1536558, "best_split": [2, 2], "split_score": 0.6980961015016944}
+{"sent": "a sushi rat", "ann_id": 1534946, "best_split": [3, 1], "split_score": 0.297986577166923}
+{"sent": "mouse", "ann_id": 1534946, "best_split": [2, 2], "split_score": 0.3042789223282613}
+{"sent": "the mouse", "ann_id": 1534946, "best_split": [1, 3], "split_score": 0.5189049702390381}

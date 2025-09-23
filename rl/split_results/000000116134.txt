@@ -1,0 +1,19 @@
+{"sent": "brown swirled cake in background", "ann_id": 1576385, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "tan small cake", "ann_id": 1576385, "best_split": [2, 3], "split_score": 0.030255402747519113}
+{"sent": "smal tan cake", "ann_id": 1576385, "best_split": [2, 3], "split_score": 0.030255402747519113}
+{"sent": "smooth cake", "ann_id": 1088896, "best_split": [2, 3], "split_score": 0.1483767961523814}
+{"sent": "plainest looking cake", "ann_id": 1088896, "best_split": [2, 3], "split_score": 0.1483767961523814}
+{"sent": "cake you only see half of", "ann_id": 1088792, "best_split": [2, 1], "split_score": 0.26223692600995546}
+{"sent": "closest cake all white frosting", "ann_id": 1088792, "best_split": [2, 2], "split_score": 0.33261324039493984}
+{"sent": "cake with only half shown", "ann_id": 1088792, "best_split": [2, 1], "split_score": 0.26223692600995546}
+{"sent": "cake with chocolate blobs on it", "ann_id": 1088628, "best_split": [3, 3], "split_score": 0.7948904048780824}
+{"sent": "smaller dessert with smudges", "ann_id": 1088628, "best_split": [3, 3], "split_score": 0.7948904048780824}
+{"sent": "cake with white frosting and choc smears", "ann_id": 1088628, "best_split": [2, 3], "split_score": 0.6798007746895627}
+{"sent": "pinkish flowers cake", "ann_id": 1088509, "best_split": [5, 1], "split_score": 0.2891138341068093}
+{"sent": "cake with flowers", "ann_id": 1088509, "best_split": [3, 3], "split_score": 0.7506475564236491}
+{"sent": "white and pink stripes", "ann_id": 1088237, "best_split": [3, 3], "split_score": 0.50200803204451}
+{"sent": "cake wit strawberries", "ann_id": 1088237, "best_split": [3, 3], "split_score": 0.50200803204451}
+{"sent": "white cake lots of berries", "ann_id": 1088237, "best_split": [3, 3], "split_score": 0.50200803204451}
+{"sent": "choco frosted cake", "ann_id": 1084042, "best_split": [3, 2], "split_score": 0.5297573919134043}
+{"sent": "big chocolate cake", "ann_id": 1084042, "best_split": [3, 2], "split_score": 0.5297573919134043}
+{"sent": "large brown cake", "ann_id": 1084042, "best_split": [3, 2], "split_score": 0.5297573919134043}

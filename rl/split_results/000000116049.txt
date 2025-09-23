@@ -1,0 +1,9 @@
+{"sent": "parents face", "ann_id": 1227169, "best_split": [3, 3], "split_score": 0.4764798558995634}
+{"sent": "ladies face holding bear", "ann_id": 1227169, "best_split": [2, 2], "split_score": 0.4027237353805778}
+{"sent": "the man with the bear", "ann_id": 1227169, "best_split": [2, 2], "split_score": 0.4027237353805778}
+{"sent": "little girl", "ann_id": 1212451, "best_split": [1, 2], "split_score": 0.5492508574357888}
+{"sent": "little girl at table", "ann_id": 1212451, "best_split": [1, 2], "split_score": 0.5492508574357888}
+{"sent": "kid", "ann_id": 1212451, "best_split": [1, 2], "split_score": 0.5492508574357888}
+{"sent": "black jacket jeans cropped person", "ann_id": 1265888, "best_split": [1, 5], "split_score": 0.3570451436039627}
+{"sent": "person at 3 o clock with dark colors", "ann_id": 1265888, "best_split": [1, 2], "split_score": 0.16071428570787968}
+{"sent": "standing man with jeans and black coat", "ann_id": 1265888, "best_split": [2, 3], "split_score": 0.39240506324678964}

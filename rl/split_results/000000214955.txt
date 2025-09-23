@@ -1,0 +1,6 @@
+{"sent": "fuzzy pizza", "ann_id": 1077426, "best_split": [3, 2], "split_score": 0.7264048599776085}
+{"sent": "far pizza", "ann_id": 1077426, "best_split": [3, 2], "split_score": 0.7264048599776085}
+{"sent": "pizza in background", "ann_id": 1077426, "best_split": [3, 2], "split_score": 0.7264048599776085}
+{"sent": "pizza", "ann_id": 1077397, "best_split": [1, 2], "split_score": 0.43383282179920035}
+{"sent": "the entire thing", "ann_id": 1077397, "best_split": [2, 1], "split_score": 0.5717395606428919}
+{"sent": "pizza", "ann_id": 1077397, "best_split": [1, 2], "split_score": 0.43383282179920035}

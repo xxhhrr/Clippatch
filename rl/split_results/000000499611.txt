@@ -1,0 +1,9 @@
+{"sent": "yellow and black", "ann_id": 1190731, "best_split": [1, 5], "split_score": 0.49675324670284565}
+{"sent": "yellow person", "ann_id": 1190731, "best_split": [1, 5], "split_score": 0.49675324670284565}
+{"sent": "yellow", "ann_id": 1190731, "best_split": [1, 5], "split_score": 0.49675324670284565}
+{"sent": "kid with pink pants", "ann_id": 502788, "best_split": [3, 3], "split_score": 0.5055592765565226}
+{"sent": "camo shirt and red pants on skies", "ann_id": 502788, "best_split": [3, 3], "split_score": 0.5055592765565226}
+{"sent": "the kid in the pink pants and light colored coat", "ann_id": 502788, "best_split": [3, 3], "split_score": 0.5055592765565226}
+{"sent": "little boy in blue and black coat", "ann_id": 480041, "best_split": [1, 5], "split_score": 0.462100456590861}
+{"sent": "kid in blue", "ann_id": 480041, "best_split": [1, 5], "split_score": 0.462100456590861}
+{"sent": "child in blue and black coat", "ann_id": 480041, "best_split": [1, 2], "split_score": 0.4539064611882012}

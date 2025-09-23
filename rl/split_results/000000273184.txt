@@ -1,0 +1,5 @@
+{"sent": "chair that the person at the computer would be sitting at", "ann_id": 1933617, "best_split": [1, 2], "split_score": 0.1372767857088139}
+{"sent": "purple placemat in foreground", "ann_id": 1933617, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "rightest chair", "ann_id": 374418, "best_split": [2, 2], "split_score": 0.37715242343932137}
+{"sent": "chair next to compuer mouse", "ann_id": 374418, "best_split": [2, 3], "split_score": 0.4697448633472855}
+{"sent": "back of chair closest to mouse", "ann_id": 374418, "best_split": [2, 3], "split_score": 0.4697448633472855}

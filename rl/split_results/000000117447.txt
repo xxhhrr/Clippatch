@@ -1,0 +1,6 @@
+{"sent": "the larger laptop", "ann_id": 1102591, "best_split": [1, 2], "split_score": 0.4874274661340347}
+{"sent": "bigger laptop", "ann_id": 1102591, "best_split": [1, 3], "split_score": 0.4022727272564013}
+{"sent": "biggest laptop", "ann_id": 1102591, "best_split": [1, 2], "split_score": 0.4874274661340347}
+{"sent": "red", "ann_id": 1099187, "best_split": [1, 5], "split_score": 0.3615765118588179}
+{"sent": "red laptop", "ann_id": 1099187, "best_split": [3, 2], "split_score": 0.5020352781060249}
+{"sent": "small laptop", "ann_id": 1099187, "best_split": [3, 2], "split_score": 0.5020352781060249}

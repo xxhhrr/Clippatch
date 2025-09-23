@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 470955, "best_split": [1, 2], "split_score": 0.656249999973842}
+{"sent": "lady", "ann_id": 470955, "best_split": [1, 2], "split_score": 0.656249999973842}
+{"sent": "girl", "ann_id": 470955, "best_split": [1, 2], "split_score": 0.656249999973842}
+{"sent": "guy", "ann_id": 441631, "best_split": [1, 2], "split_score": 0.6484374999741535}
+{"sent": "man holding juice", "ann_id": 441631, "best_split": [1, 2], "split_score": 0.6484374999741535}
+{"sent": "male", "ann_id": 441631, "best_split": [1, 2], "split_score": 0.6484374999741535}

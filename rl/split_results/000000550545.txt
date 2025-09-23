@@ -1,0 +1,6 @@
+{"sent": "lady behind plant", "ann_id": 233321, "best_split": [3, 3], "split_score": 0.4729808250329778}
+{"sent": "woman in spaghetti strap dress", "ann_id": 233321, "best_split": [3, 1], "split_score": 0.18104982205398967}
+{"sent": "woman obscured by plant", "ann_id": 233321, "best_split": [3, 3], "split_score": 0.4729808250329778}
+{"sent": "woman pouring wine", "ann_id": 220316, "best_split": [1, 2], "split_score": 0.6556919642595785}
+{"sent": "black shirt", "ann_id": 220316, "best_split": [1, 2], "split_score": 0.6556919642595785}
+{"sent": "lady pouring a drink", "ann_id": 220316, "best_split": [1, 2], "split_score": 0.6556919642595785}

@@ -1,0 +1,13 @@
+{"sent": "part of table farthest away", "ann_id": 1090648, "best_split": [1, 5], "split_score": 0.22690672213635152}
+{"sent": "table near guy with blue button down", "ann_id": 1090648, "best_split": [5, 1], "split_score": 0.2672647415879577}
+{"sent": "two glasses with red straws and two glasses with black straws", "ann_id": 393549, "best_split": [3, 3], "split_score": 0.6049272115783956}
+{"sent": "closest glass", "ann_id": 393549, "best_split": [2, 3], "split_score": 0.5478512097735779}
+{"sent": "table closest to u", "ann_id": 393549, "best_split": [3, 3], "split_score": 0.6049272115783956}
+{"sent": "glases smiling guy black shirt", "ann_id": 1318112, "best_split": [2, 3], "split_score": 0.7841444269136415}
+{"sent": "man in black shirt and glasses", "ann_id": 1318112, "best_split": [2, 3], "split_score": 0.7841444269136415}
+{"sent": "man closes to us", "ann_id": 1318112, "best_split": [2, 3], "split_score": 0.7841444269136415}
+{"sent": "woman in black", "ann_id": 1260854, "best_split": [1, 5], "split_score": 0.3124999999682934}
+{"sent": "woman in black", "ann_id": 1260854, "best_split": [1, 5], "split_score": 0.3124999999682934}
+{"sent": "lady pink stripted shirt", "ann_id": 1260854, "best_split": [1, 5], "split_score": 0.3124999999682934}
+{"sent": "the girl in the yellow shirt who looks like she saw a spider and crapped her pants you can see part of her chair", "ann_id": 1222986, "best_split": [2, 2], "split_score": 0.5781249999539122}
+{"sent": "girl with watch", "ann_id": 1222986, "best_split": [2, 2], "split_score": 0.5781249999539122}

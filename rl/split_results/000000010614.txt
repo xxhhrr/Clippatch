@@ -1,0 +1,5 @@
+{"sent": "half pizza", "ann_id": 1073856, "best_split": [2, 1], "split_score": 0.14146205356578995}
+{"sent": "single slice", "ann_id": 1073856, "best_split": [1, 2], "split_score": 0.14146205356578995}
+{"sent": "darker topping pizza", "ann_id": 1073856, "best_split": [2, 1], "split_score": 0.14146205356578995}
+{"sent": "pizza on closest plate", "ann_id": 1072213, "best_split": [3, 1], "split_score": 0.7568700511902148}
+{"sent": "pizza facing us", "ann_id": 1072213, "best_split": [3, 1], "split_score": 0.7568700511902148}

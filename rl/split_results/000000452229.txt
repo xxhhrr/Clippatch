@@ -1,0 +1,17 @@
+{"sent": "man hardly in picture not in blue jacket", "ann_id": 558244, "best_split": [2, 1], "split_score": 0.09534438775130163}
+{"sent": "hidden gray haired man white collar", "ann_id": 558244, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man blue shirt closest to us", "ann_id": 534025, "best_split": [2, 3], "split_score": 0.9424469110831989}
+{"sent": "back view man blue hoodie", "ann_id": 534025, "best_split": [2, 3], "split_score": 0.9424469110831989}
+{"sent": "gray hair man looking away near stripe shirt", "ann_id": 534025, "best_split": [2, 3], "split_score": 0.9424469110831989}
+{"sent": "man in striped shirt", "ann_id": 528980, "best_split": [1, 5], "split_score": 0.43678977268295555}
+{"sent": "man in striped shirt", "ann_id": 528980, "best_split": [1, 5], "split_score": 0.43678977268295555}
+{"sent": "man in plaid", "ann_id": 528980, "best_split": [1, 5], "split_score": 0.43678977268295555}
+{"sent": "woman with glasses", "ann_id": 513552, "best_split": [1, 2], "split_score": 0.269052933662745}
+{"sent": "gray shirt woman in profile", "ann_id": 513552, "best_split": [1, 3], "split_score": 0.38219957333596827}
+{"sent": "lady in gray blouse", "ann_id": 513552, "best_split": [1, 3], "split_score": 0.38219957333596827}
+{"sent": "brown hair woman no glasses", "ann_id": 469695, "best_split": [1, 5], "split_score": 0.35562510291915456}
+{"sent": "lady smilling brunnette", "ann_id": 469695, "best_split": [5, 1], "split_score": 0.16144510300864767}
+{"sent": "woman with brown hair in black", "ann_id": 469695, "best_split": [5, 1], "split_score": 0.16144510300864767}
+{"sent": "black shirt", "ann_id": 450187, "best_split": [3, 3], "split_score": 0.4476543209323883}
+{"sent": "lady in darkest outfit", "ann_id": 450187, "best_split": [3, 3], "split_score": 0.4476543209323883}
+{"sent": "woman in black with blond hair", "ann_id": 450187, "best_split": [1, 5], "split_score": 0.37294348304723013}

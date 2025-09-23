@@ -1,0 +1,6 @@
+{"sent": "small green urinal", "ann_id": 1095838, "best_split": [2, 2], "split_score": 0.2984342874981469}
+{"sent": "lower urinal", "ann_id": 1095838, "best_split": [2, 2], "split_score": 0.2984342874981469}
+{"sent": "darker colored toilet", "ann_id": 1095838, "best_split": [1, 5], "split_score": 0.3219098960028966}
+{"sent": "taller urinal", "ann_id": 1093893, "best_split": [3, 2], "split_score": 0.44744186041308814}
+{"sent": "higher urinal", "ann_id": 1093893, "best_split": [3, 2], "split_score": 0.44744186041308814}
+{"sent": "tall toilet", "ann_id": 1093893, "best_split": [3, 2], "split_score": 0.44744186041308814}

@@ -1,0 +1,9 @@
+{"sent": "woman in black", "ann_id": 1275704, "best_split": [2, 1], "split_score": 0.11768632686257416}
+{"sent": "woman in navy blue", "ann_id": 1275704, "best_split": [1, 2], "split_score": 0.1345264668313725}
+{"sent": "woman in black", "ann_id": 1275704, "best_split": [2, 1], "split_score": 0.11768632686257416}
+{"sent": "man closest to camera", "ann_id": 447348, "best_split": [3, 1], "split_score": 0.21264367815266216}
+{"sent": "man thats tallest", "ann_id": 447348, "best_split": [1, 2], "split_score": 0.5840242346705985}
+{"sent": "closest man", "ann_id": 447348, "best_split": [1, 2], "split_score": 0.5840242346705985}
+{"sent": "man in uniform smiling", "ann_id": 443200, "best_split": [1, 5], "split_score": 0.6321859318045439}
+{"sent": "person with handle in his hand", "ann_id": 443200, "best_split": [1, 5], "split_score": 0.6321859318045439}
+{"sent": "the guy closest to the cake", "ann_id": 443200, "best_split": [2, 1], "split_score": 0.1906642222468388}

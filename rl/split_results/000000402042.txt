@@ -1,0 +1,6 @@
+{"sent": "fat guy with glasses", "ann_id": 1726408, "best_split": [2, 3], "split_score": 0.6311300639160443}
+{"sent": "guy glasses", "ann_id": 1726408, "best_split": [2, 3], "split_score": 0.6311300639160443}
+{"sent": "fat guy", "ann_id": 1726408, "best_split": [2, 3], "split_score": 0.6311300639160443}
+{"sent": "person sitting on red couch", "ann_id": 480850, "best_split": [2, 2], "split_score": 0.8673203615085552}
+{"sent": "man with watch", "ann_id": 480850, "best_split": [2, 2], "split_score": 0.8673203615085552}
+{"sent": "man in black", "ann_id": 480850, "best_split": [2, 2], "split_score": 0.8673203615085552}

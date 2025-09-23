@@ -1,0 +1,8 @@
+{"sent": "closest to mother", "ann_id": 584289, "best_split": [2, 3], "split_score": 0.44358578047276354}
+{"sent": "baby not fully visible", "ann_id": 584289, "best_split": [2, 1], "split_score": 0.14799095632271664}
+{"sent": "bigger", "ann_id": 582685, "best_split": [1, 2], "split_score": 0.5459612214245246}
+{"sent": "largest elephant", "ann_id": 582685, "best_split": [1, 2], "split_score": 0.5459612214245246}
+{"sent": "momma elephant", "ann_id": 582685, "best_split": [1, 2], "split_score": 0.5459612214245246}
+{"sent": "little one smiling", "ann_id": 580182, "best_split": [2, 2], "split_score": 0.35998755442128283}
+{"sent": "small elephant facing opposite others", "ann_id": 580182, "best_split": [2, 3], "split_score": 0.2528888046739071}
+{"sent": "baby elephant furthest away from adult", "ann_id": 580182, "best_split": [2, 3], "split_score": 0.2528888046739071}

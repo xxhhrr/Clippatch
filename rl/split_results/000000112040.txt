@@ -1,0 +1,12 @@
+{"sent": "blue bus", "ann_id": 2050514, "best_split": [2, 3], "split_score": 0.2968640299207976}
+{"sent": "blue truck", "ann_id": 2050514, "best_split": [2, 3], "split_score": 0.2968640299207976}
+{"sent": "blue for u", "ann_id": 2050514, "best_split": [2, 3], "split_score": 0.2968640299207976}
+{"sent": "blue truck", "ann_id": 400858, "best_split": [2, 3], "split_score": 0.3223062381471755}
+{"sent": "blue", "ann_id": 400858, "best_split": [2, 3], "split_score": 0.3223062381471755}
+{"sent": "bright blue truck", "ann_id": 400858, "best_split": [2, 3], "split_score": 0.3223062381471755}
+{"sent": "green and black truck", "ann_id": 397648, "best_split": [5, 1], "split_score": 0.4106482931155247}
+{"sent": "black van", "ann_id": 397648, "best_split": [5, 1], "split_score": 0.4106482931155247}
+{"sent": "gren", "ann_id": 397648, "best_split": [5, 1], "split_score": 0.4106482931155247}
+{"sent": "white truck half out of the picture", "ann_id": 167496, "best_split": [1, 5], "split_score": 0.38651509208285817}
+{"sent": "white truck 3 o clock", "ann_id": 167496, "best_split": [1, 5], "split_score": 0.38651509208285817}
+{"sent": "white bus at edge", "ann_id": 167496, "best_split": [1, 5], "split_score": 0.38651509208285817}

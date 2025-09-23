@@ -1,0 +1,9 @@
+{"sent": "white shirt", "ann_id": 508588, "best_split": [1, 3], "split_score": 0.47869571870803207}
+{"sent": "player in white in box 2", "ann_id": 508588, "best_split": [2, 3], "split_score": 0.267458956121817}
+{"sent": "20 and 2", "ann_id": 431746, "best_split": [2, 2], "split_score": 0.21884498479055334}
+{"sent": "guy in red in number 2 picture", "ann_id": 431746, "best_split": [1, 5], "split_score": 0.6500834723998261}
+{"sent": "red shirt pic to the right", "ann_id": 431746, "best_split": [2, 2], "split_score": 0.21884498479055334}
+{"sent": "pic 1 white shirt man", "ann_id": 425156, "best_split": [1, 5], "split_score": 0.49445190469330325}
+{"sent": "white player in before photo not after", "ann_id": 425156, "best_split": [1, 2], "split_score": 0.44997608416573753}
+{"sent": "number 20 closest to edge", "ann_id": 2206865, "best_split": [1, 5], "split_score": 0.3101257700006336}
+{"sent": "closest guy at 9", "ann_id": 2206865, "best_split": [5, 1], "split_score": 0.14567083776748382}

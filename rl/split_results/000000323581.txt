@@ -1,0 +1,6 @@
+{"sent": "dude with the stripes", "ann_id": 491991, "best_split": [1, 5], "split_score": 0.6299694189164603}
+{"sent": "man with striped shirt", "ann_id": 491991, "best_split": [1, 5], "split_score": 0.6299694189164603}
+{"sent": "man", "ann_id": 491991, "best_split": [1, 5], "split_score": 0.6299694189164603}
+{"sent": "lady", "ann_id": 444051, "best_split": [1, 2], "split_score": 0.6951530611967812}
+{"sent": "person in pink", "ann_id": 444051, "best_split": [1, 2], "split_score": 0.6951530611967812}
+{"sent": "pink shirt", "ann_id": 444051, "best_split": [1, 2], "split_score": 0.6951530611967812}

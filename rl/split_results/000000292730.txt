@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 484371, "best_split": [1, 5], "split_score": 0.5898550724103392}
+{"sent": "blond lady", "ann_id": 484371, "best_split": [1, 5], "split_score": 0.5898550724103392}
+{"sent": "lady", "ann_id": 484371, "best_split": [1, 5], "split_score": 0.5898550724103392}
+{"sent": "the man", "ann_id": 443722, "best_split": [1, 2], "split_score": 0.8418367346603222}
+{"sent": "guy with glasses", "ann_id": 443722, "best_split": [1, 2], "split_score": 0.8418367346603222}
+{"sent": "black suit", "ann_id": 443722, "best_split": [1, 2], "split_score": 0.8418367346603222}

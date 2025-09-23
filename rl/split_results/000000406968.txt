@@ -1,0 +1,9 @@
+{"sent": "apple", "ann_id": 2186735, "best_split": [2, 3], "split_score": 0.36037716295095046}
+{"sent": "apple behind the slices", "ann_id": 2186735, "best_split": [2, 3], "split_score": 0.36037716295095046}
+{"sent": "tred apple", "ann_id": 2186735, "best_split": [2, 3], "split_score": 0.36037716295095046}
+{"sent": "piece next to whole apple", "ann_id": 1550161, "best_split": [3, 3], "split_score": 0.5311982329471012}
+{"sent": "highest slice", "ann_id": 1550161, "best_split": [3, 1], "split_score": 0.3388030887826494}
+{"sent": "the slice of apple touching the whole apple", "ann_id": 1550161, "best_split": [3, 3], "split_score": 0.5311982329471012}
+{"sent": "circleo slice of apple", "ann_id": 1047075, "best_split": [2, 3], "split_score": 0.4727400017088702}
+{"sent": "slice closest to you", "ann_id": 1047075, "best_split": [2, 3], "split_score": 0.4727400017088702}
+{"sent": "donut hole apple", "ann_id": 1047075, "best_split": [2, 3], "split_score": 0.4727400017088702}

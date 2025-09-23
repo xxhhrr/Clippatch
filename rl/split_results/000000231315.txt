@@ -1,0 +1,6 @@
+{"sent": "stripes", "ann_id": 1275844, "best_split": [1, 3], "split_score": 0.8010680907431538}
+{"sent": "striped shirt", "ann_id": 1275844, "best_split": [1, 3], "split_score": 0.8010680907431538}
+{"sent": "person in striped shirt", "ann_id": 1275844, "best_split": [1, 3], "split_score": 0.8010680907431538}
+{"sent": "cop", "ann_id": 1252218, "best_split": [1, 3], "split_score": 0.5138947814746555}
+{"sent": "the cop", "ann_id": 1252218, "best_split": [1, 3], "split_score": 0.5138947814746555}
+{"sent": "officer", "ann_id": 1252218, "best_split": [1, 3], "split_score": 0.5138947814746555}

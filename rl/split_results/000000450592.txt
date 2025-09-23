@@ -1,0 +1,6 @@
+{"sent": "horse closest to score 17", "ann_id": 58815, "best_split": [3, 3], "split_score": 0.3171171170695019}
+{"sent": "horse farthest from people", "ann_id": 58815, "best_split": [3, 3], "split_score": 0.3171171170695019}
+{"sent": "horse looking straight on at you", "ann_id": 58815, "best_split": [3, 3], "split_score": 0.3171171170695019}
+{"sent": "tallest horse", "ann_id": 58043, "best_split": [1, 5], "split_score": 0.3504672896862038}
+{"sent": "horse 2", "ann_id": 58043, "best_split": [1, 5], "split_score": 0.3504672896862038}
+{"sent": "horse sandwiched", "ann_id": 58043, "best_split": [1, 5], "split_score": 0.3504672896862038}

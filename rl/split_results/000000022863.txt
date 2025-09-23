@@ -1,0 +1,9 @@
+{"sent": "bend over", "ann_id": 211551, "best_split": [2, 2], "split_score": 0.672555647638717}
+{"sent": "the one bent over", "ann_id": 211551, "best_split": [2, 2], "split_score": 0.672555647638717}
+{"sent": "white shirt", "ann_id": 211551, "best_split": [2, 3], "split_score": 0.5972080848773297}
+{"sent": "guy taking a picture", "ann_id": 207168, "best_split": [3, 2], "split_score": 0.24256330408567045}
+{"sent": "person taking picture", "ann_id": 207168, "best_split": [3, 2], "split_score": 0.24256330408567045}
+{"sent": "man with camera", "ann_id": 207168, "best_split": [1, 5], "split_score": 0.35407898993573333}
+{"sent": "blue hoodie", "ann_id": 201251, "best_split": [1, 3], "split_score": 0.5637065636725563}
+{"sent": "boy in blue", "ann_id": 201251, "best_split": [1, 3], "split_score": 0.5637065636725563}
+{"sent": "blue sweaterfaster", "ann_id": 201251, "best_split": [1, 3], "split_score": 0.5637065636725563}

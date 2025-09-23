@@ -1,0 +1,6 @@
+{"sent": "motorcycle that is neither closest nor furthest from the camera", "ann_id": 245497, "best_split": [5, 1], "split_score": 0.11776198933234795}
+{"sent": "not the closest bike", "ann_id": 245497, "best_split": [5, 1], "split_score": 0.11776198933234795}
+{"sent": "bike 2", "ann_id": 245497, "best_split": [5, 1], "split_score": 0.11776198933234795}
+{"sent": "silver motorcycle", "ann_id": 151563, "best_split": [2, 3], "split_score": 0.6973633931317}
+{"sent": "white bike closest to camera", "ann_id": 151563, "best_split": [2, 3], "split_score": 0.6973633931317}
+{"sent": "closer bike", "ann_id": 151563, "best_split": [2, 3], "split_score": 0.6973633931317}

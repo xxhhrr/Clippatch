@@ -1,0 +1,5 @@
+{"sent": "glass beside cup with coffee", "ann_id": 682186, "best_split": [3, 2], "split_score": 0.2956081080724411}
+{"sent": "glass of soda", "ann_id": 682186, "best_split": [3, 3], "split_score": 0.447406866244082}
+{"sent": "the coffee cup", "ann_id": 679514, "best_split": [3, 3], "split_score": 0.5064867669077172}
+{"sent": "coffee cup", "ann_id": 679514, "best_split": [3, 3], "split_score": 0.5064867669077172}
+{"sent": "coffee cup", "ann_id": 679514, "best_split": [3, 3], "split_score": 0.5064867669077172}

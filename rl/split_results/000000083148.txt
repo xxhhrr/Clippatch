@@ -1,0 +1,6 @@
+{"sent": "zebra no head", "ann_id": 593393, "best_split": [3, 2], "split_score": 0.24885509373119716}
+{"sent": "zebra that cant be seen", "ann_id": 593393, "best_split": [3, 2], "split_score": 0.24885509373119716}
+{"sent": "partial zebra", "ann_id": 593393, "best_split": [3, 3], "split_score": 0.31909348438310553}
+{"sent": "zebra in full view", "ann_id": 589758, "best_split": [2, 1], "split_score": 0.4359712230117812}
+{"sent": "main zebra", "ann_id": 589758, "best_split": [2, 1], "split_score": 0.4359712230117812}
+{"sent": "main zebra", "ann_id": 589758, "best_split": [2, 1], "split_score": 0.4359712230117812}

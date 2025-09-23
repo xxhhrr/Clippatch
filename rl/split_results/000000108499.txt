@@ -1,0 +1,6 @@
+{"sent": "white chair nearest the yellow thing", "ann_id": 289792, "best_split": [3, 3], "split_score": 0.47052023114587854}
+{"sent": "chair without the table as close to it", "ann_id": 289792, "best_split": [3, 3], "split_score": 0.47052023114587854}
+{"sent": "cream not white chair without silver thing near it", "ann_id": 289792, "best_split": [3, 3], "split_score": 0.47052023114587854}
+{"sent": "white chair next to silver stool", "ann_id": 104335, "best_split": [2, 2], "split_score": 0.4115114795590313}
+{"sent": "chair blocked by table", "ann_id": 104335, "best_split": [3, 2], "split_score": 0.45941840272792767}
+{"sent": "chair behind table", "ann_id": 104335, "best_split": [3, 2], "split_score": 0.45941840272792767}

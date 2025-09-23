@@ -1,0 +1,5 @@
+{"sent": "man in all black", "ann_id": 1245043, "best_split": [5, 1], "split_score": 0.08168316831051337}
+{"sent": "man in line wearing black", "ann_id": 1245043, "best_split": [2, 3], "split_score": 0.3333333332975372}
+{"sent": "white coat", "ann_id": 1204694, "best_split": [1, 5], "split_score": 0.3863636363244355}
+{"sent": "white coat", "ann_id": 1204694, "best_split": [1, 5], "split_score": 0.3863636363244355}
+{"sent": "white jacket", "ann_id": 1204694, "best_split": [1, 5], "split_score": 0.3863636363244355}

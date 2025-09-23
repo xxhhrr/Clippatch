@@ -1,0 +1,11 @@
+{"sent": "animal sitting on the mossy rock", "ann_id": 587611, "best_split": [1, 2], "split_score": 0.1742267219318309}
+{"sent": "small cub not facing us", "ann_id": 587611, "best_split": [2, 2], "split_score": 0.2204184704025672}
+{"sent": "small bear sitting down", "ann_id": 587611, "best_split": [2, 2], "split_score": 0.2204184704025672}
+{"sent": "adult", "ann_id": 586745, "best_split": [2, 3], "split_score": 0.6027554534388107}
+{"sent": "big bear drinking", "ann_id": 586745, "best_split": [2, 3], "split_score": 0.6027554534388107}
+{"sent": "largest bear", "ann_id": 586745, "best_split": [2, 3], "split_score": 0.6027554534388107}
+{"sent": "black bear", "ann_id": 586287, "best_split": [3, 1], "split_score": 0.31535044955501296}
+{"sent": "black bear", "ann_id": 586287, "best_split": [3, 1], "split_score": 0.31535044955501296}
+{"sent": "bear on rock side view", "ann_id": 586287, "best_split": [3, 1], "split_score": 0.31535044955501296}
+{"sent": "bear on rock looking down", "ann_id": 586287, "best_split": [3, 1], "split_score": 0.31535044955501296}
+{"sent": "bear standing on rock", "ann_id": 586287, "best_split": [3, 1], "split_score": 0.31535044955501296}

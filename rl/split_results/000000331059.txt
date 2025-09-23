@@ -1,0 +1,5 @@
+{"sent": "elephant with trunk down", "ann_id": 584923, "best_split": [3, 2], "split_score": 0.5161290322018168}
+{"sent": "elephant trunk pointing down", "ann_id": 584923, "best_split": [3, 2], "split_score": 0.5161290322018168}
+{"sent": "elephant with trunk closest to body", "ann_id": 584923, "best_split": [3, 2], "split_score": 0.5161290322018168}
+{"sent": "trunk extened out", "ann_id": 581538, "best_split": [3, 1], "split_score": 0.3321428571243224}
+{"sent": "elelphant trunk extended", "ann_id": 581538, "best_split": [3, 1], "split_score": 0.3321428571243224}

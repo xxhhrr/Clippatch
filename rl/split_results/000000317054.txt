@@ -1,0 +1,4 @@
+{"sent": "bench looks like bear is about to bite", "ann_id": 573794, "best_split": [2, 2], "split_score": 0.7773584905096257}
+{"sent": "fartest table", "ann_id": 573163, "best_split": [3, 1], "split_score": 0.13207740875047086}
+{"sent": "wood bench in shadow", "ann_id": 573163, "best_split": [3, 1], "split_score": 0.15170504986413363}
+{"sent": "bench in far back", "ann_id": 573163, "best_split": [3, 1], "split_score": 0.13207740875047086}

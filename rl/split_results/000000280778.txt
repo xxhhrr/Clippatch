@@ -1,0 +1,5 @@
+{"sent": "the bus in the back", "ann_id": 167306, "best_split": [2, 3], "split_score": 0.43280093490136334}
+{"sent": "partial bus behind biggest one", "ann_id": 167306, "best_split": [2, 3], "split_score": 0.43280093490136334}
+{"sent": "bus", "ann_id": 163938, "best_split": [2, 1], "split_score": 0.46832005791843956}
+{"sent": "biggest bus", "ann_id": 163938, "best_split": [2, 1], "split_score": 0.46832005791843956}
+{"sent": "double decker bus you can see the destination of the bus", "ann_id": 163938, "best_split": [2, 1], "split_score": 0.46832005791843956}

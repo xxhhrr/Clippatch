@@ -1,0 +1,6 @@
+{"sent": "tan or brown chair not the ottoman", "ann_id": 2224691, "best_split": [2, 2], "split_score": 0.35092474486998365}
+{"sent": "armchair in corner", "ann_id": 2224691, "best_split": [2, 2], "split_score": 0.35092474486998365}
+{"sent": "big tan chair", "ann_id": 2224691, "best_split": [2, 2], "split_score": 0.35092474486998365}
+{"sent": "red pillow on couch", "ann_id": 114534, "best_split": [3, 2], "split_score": 0.5519267713242256}
+{"sent": "closest couch in corner", "ann_id": 114534, "best_split": [3, 2], "split_score": 0.5519267713242256}
+{"sent": "maroon pillow on couch", "ann_id": 114534, "best_split": [5, 1], "split_score": 0.4973089342893327}

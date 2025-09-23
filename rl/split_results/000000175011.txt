@@ -1,0 +1,6 @@
+{"sent": "man in black coat", "ann_id": 509293, "best_split": [3, 1], "split_score": 0.23656758271247516}
+{"sent": "black guy", "ann_id": 509293, "best_split": [3, 2], "split_score": 0.40925850057258717}
+{"sent": "black sweater", "ann_id": 509293, "best_split": [3, 2], "split_score": 0.40925850057258717}
+{"sent": "person in brown suit", "ann_id": 482907, "best_split": [1, 2], "split_score": 0.7198533788427002}
+{"sent": "man in suit", "ann_id": 482907, "best_split": [1, 2], "split_score": 0.7198533788427002}
+{"sent": "man with espn microphone", "ann_id": 482907, "best_split": [1, 2], "split_score": 0.7198533788427002}

@@ -1,0 +1,6 @@
+{"sent": "vest", "ann_id": 435859, "best_split": [1, 2], "split_score": 0.4380153993248436}
+{"sent": "red shirt", "ann_id": 435859, "best_split": [1, 2], "split_score": 0.4380153993248436}
+{"sent": "red", "ann_id": 435859, "best_split": [1, 2], "split_score": 0.4380153993248436}
+{"sent": "gray shirt", "ann_id": 427828, "best_split": [2, 2], "split_score": 0.7412353922763394}
+{"sent": "toothbrush in mouth", "ann_id": 427828, "best_split": [2, 1], "split_score": 0.5929487179260933}
+{"sent": "girl in gray", "ann_id": 427828, "best_split": [2, 2], "split_score": 0.7412353922763394}

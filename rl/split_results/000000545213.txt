@@ -1,0 +1,6 @@
+{"sent": "girl with arm up", "ann_id": 223430, "best_split": [2, 3], "split_score": 0.6187886742341282}
+{"sent": "woman with arm up", "ann_id": 223430, "best_split": [2, 3], "split_score": 0.6187886742341282}
+{"sent": "person with arm up", "ann_id": 223430, "best_split": [2, 2], "split_score": 0.5207744488043545}
+{"sent": "woman looking atcha", "ann_id": 221437, "best_split": [2, 3], "split_score": 0.4434499592714148}
+{"sent": "woman looking at the camera", "ann_id": 221437, "best_split": [2, 1], "split_score": 0.20310559005422726}
+{"sent": "girl with controller down", "ann_id": 221437, "best_split": [2, 1], "split_score": 0.20310559005422726}

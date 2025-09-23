@@ -1,0 +1,6 @@
+{"sent": "bus behind other bus", "ann_id": 164015, "best_split": [3, 3], "split_score": 0.6433818017323667}
+{"sent": "raider bus", "ann_id": 164015, "best_split": [3, 2], "split_score": 0.46402380694398726}
+{"sent": "bus sign with archer", "ann_id": 164015, "best_split": [3, 2], "split_score": 0.46402380694398726}
+{"sent": "doubleducker bus number 3", "ann_id": 162979, "best_split": [1, 3], "split_score": 0.5809749862798532}
+{"sent": "the red bus that has the 3 on it", "ann_id": 162979, "best_split": [1, 3], "split_score": 0.5809749862798532}
+{"sent": "double decker all red", "ann_id": 162979, "best_split": [1, 3], "split_score": 0.5809749862798532}

@@ -1,0 +1,6 @@
+{"sent": "bent over giraffe", "ann_id": 598051, "best_split": [1, 3], "split_score": 0.4383866086420282}
+{"sent": "giraffe leanign over", "ann_id": 598051, "best_split": [1, 3], "split_score": 0.4383866086420282}
+{"sent": "bending giraffe", "ann_id": 598051, "best_split": [1, 3], "split_score": 0.4383866086420282}
+{"sent": "giraffe standing", "ann_id": 596706, "best_split": [3, 2], "split_score": 0.20845070420438122}
+{"sent": "g not eating", "ann_id": 596706, "best_split": [3, 2], "split_score": 0.20845070420438122}
+{"sent": "upright giraffe facing camera", "ann_id": 596706, "best_split": [3, 2], "split_score": 0.20845070420438122}

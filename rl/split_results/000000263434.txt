@@ -1,0 +1,7 @@
+{"sent": "smallest laptop", "ann_id": 1970686, "best_split": [2, 3], "split_score": 0.532094594530394}
+{"sent": "silver laptop", "ann_id": 1970686, "best_split": [2, 3], "split_score": 0.532094594530394}
+{"sent": "gray laptop", "ann_id": 1970686, "best_split": [2, 3], "split_score": 0.532094594530394}
+{"sent": "the laptop with a map on the screen", "ann_id": 1104231, "best_split": [2, 3], "split_score": 0.6743484555170911}
+{"sent": "black laptop", "ann_id": 1104231, "best_split": [2, 3], "split_score": 0.6743484555170911}
+{"sent": "black lappy", "ann_id": 1104231, "best_split": [2, 2], "split_score": 0.44555165812774616}
+{"sent": "computer with world map displayed", "ann_id": 1104231, "best_split": [2, 3], "split_score": 0.6743484555170911}

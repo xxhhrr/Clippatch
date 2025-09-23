@@ -1,0 +1,9 @@
+{"sent": "man with longer hair", "ann_id": 227800, "best_split": [1, 2], "split_score": 0.9162780028703923}
+{"sent": "man with lots of hair", "ann_id": 227800, "best_split": [1, 2], "split_score": 0.9162780028703923}
+{"sent": "man closest to us", "ann_id": 227800, "best_split": [2, 1], "split_score": 0.3328901534200311}
+{"sent": "plaid", "ann_id": 204909, "best_split": [1, 5], "split_score": 0.3647811116217628}
+{"sent": "plaid white shirt guy", "ann_id": 204909, "best_split": [3, 2], "split_score": 0.306401953465718}
+{"sent": "man with striped shirt and arm up", "ann_id": 204909, "best_split": [1, 5], "split_score": 0.3647811116217628}
+{"sent": "dark shirt", "ann_id": 186260, "best_split": [1, 5], "split_score": 0.5916086181280084}
+{"sent": "guy with arm up and watch", "ann_id": 186260, "best_split": [1, 5], "split_score": 0.5916086181280084}
+{"sent": "man with watch", "ann_id": 186260, "best_split": [1, 5], "split_score": 0.5916086181280084}

@@ -1,0 +1,6 @@
+{"sent": "big zebra", "ann_id": 1822900, "best_split": [1, 2], "split_score": 0.550351288037252}
+{"sent": "mother", "ann_id": 1822900, "best_split": [1, 3], "split_score": 0.4155421125944027}
+{"sent": "mother zebra", "ann_id": 1822900, "best_split": [1, 2], "split_score": 0.550351288037252}
+{"sent": "smaller one", "ann_id": 589358, "best_split": [3, 3], "split_score": 0.46955925223207345}
+{"sent": "lower zeb", "ann_id": 589358, "best_split": [3, 3], "split_score": 0.46955925223207345}
+{"sent": "smaller zebra", "ann_id": 589358, "best_split": [3, 3], "split_score": 0.46955925223207345}

@@ -1,0 +1,9 @@
+{"sent": "thing under mug", "ann_id": 1224551, "best_split": [1, 5], "split_score": 0.48570592248163663}
+{"sent": "red object cant really see it", "ann_id": 1224551, "best_split": [1, 5], "split_score": 0.48570592248163663}
+{"sent": "red shirt", "ann_id": 1224551, "best_split": [1, 5], "split_score": 0.48570592248163663}
+{"sent": "lady with green dress", "ann_id": 533828, "best_split": [2, 1], "split_score": 0.464343958477934}
+{"sent": "crazy girl in green dress", "ann_id": 533828, "best_split": [2, 1], "split_score": 0.464343958477934}
+{"sent": "drunk girl", "ann_id": 533828, "best_split": [1, 2], "split_score": 0.5272924075962073}
+{"sent": "chick behind chick", "ann_id": 523729, "best_split": [2, 1], "split_score": 0.2522909175196529}
+{"sent": "woman in dress behind girl in green dress", "ann_id": 523729, "best_split": [1, 2], "split_score": 0.7213010203794125}
+{"sent": "girl behind leg grabber", "ann_id": 523729, "best_split": [2, 1], "split_score": 0.27808689474730414}

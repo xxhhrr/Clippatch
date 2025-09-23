@@ -1,0 +1,18 @@
+{"sent": "white shirt boy", "ann_id": 1239727, "best_split": [1, 5], "split_score": 0.5467836256810322}
+{"sent": "kid with blond hair looking at us", "ann_id": 1239727, "best_split": [1, 5], "split_score": 0.5467836256810322}
+{"sent": "blond boy in white shirt", "ann_id": 1239727, "best_split": [1, 5], "split_score": 0.5467836256810322}
+{"sent": "yellow shirt", "ann_id": 1234974, "best_split": [3, 2], "split_score": 0.4547342911152212}
+{"sent": "yellow shirt", "ann_id": 1234974, "best_split": [3, 2], "split_score": 0.4547342911152212}
+{"sent": "yellow shirt guy", "ann_id": 1234974, "best_split": [3, 2], "split_score": 0.4547342911152212}
+{"sent": "orange potato chips", "ann_id": 1091743, "best_split": [3, 2], "split_score": 0.6448801742417616}
+{"sent": "table with all the food and one little boy infront of", "ann_id": 1091743, "best_split": [3, 2], "split_score": 0.6448801742417616}
+{"sent": "table where kid in gray jacket is sitting", "ann_id": 1091743, "best_split": [2, 1], "split_score": 0.5122767856938665}
+{"sent": "boy in white shirt with back to us", "ann_id": 1297566, "best_split": [2, 3], "split_score": 0.512789575227704}
+{"sent": "man with white back", "ann_id": 1297566, "best_split": [2, 3], "split_score": 0.512789575227704}
+{"sent": "white shirt person at other table", "ann_id": 1297566, "best_split": [3, 1], "split_score": 0.09460737937061876}
+{"sent": "kid with crazy shorts and towel", "ann_id": 1276742, "best_split": [3, 1], "split_score": 0.22902338375766243}
+{"sent": "guy in blue shirt", "ann_id": 1276742, "best_split": [3, 1], "split_score": 0.22902338375766243}
+{"sent": "light blue shirt", "ann_id": 1276742, "best_split": [3, 1], "split_score": 0.22902338375766243}
+{"sent": "kid looking at camera furthest away", "ann_id": 1257295, "best_split": [3, 1], "split_score": 0.1528925619749334}
+{"sent": "boywithhandsfolded", "ann_id": 1257295, "best_split": [3, 3], "split_score": 0.4021739129844045}
+{"sent": "boy next to boy in light blue shirt", "ann_id": 1257295, "best_split": [3, 1], "split_score": 0.1528925619749334}

@@ -1,0 +1,6 @@
+{"sent": "the pizza furthest from the hand", "ann_id": 1076546, "best_split": [3, 1], "split_score": 0.29298143367359164}
+{"sent": "piece of pizza not touched by a person", "ann_id": 1076546, "best_split": [3, 1], "split_score": 0.29298143367359164}
+{"sent": "pizza covering fork", "ann_id": 1076546, "best_split": [3, 2], "split_score": 0.4473115545667147}
+{"sent": "pizza closest to fingers", "ann_id": 1075630, "best_split": [3, 1], "split_score": 0.418277402252331}
+{"sent": "slice nearest hand", "ann_id": 1075630, "best_split": [1, 2], "split_score": 0.359746385678763}
+{"sent": "slice close to hand", "ann_id": 1075630, "best_split": [3, 1], "split_score": 0.418277402252331}

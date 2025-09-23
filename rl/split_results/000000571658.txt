@@ -1,0 +1,6 @@
+{"sent": "bus cut off in picture", "ann_id": 366021, "best_split": [1, 5], "split_score": 0.22736842103087382}
+{"sent": "bus out of frame", "ann_id": 366021, "best_split": [1, 2], "split_score": 0.11838329081160781}
+{"sent": "bus mostly out of pic at 300", "ann_id": 366021, "best_split": [1, 2], "split_score": 0.11838329081160781}
+{"sent": "school bus which is fully visible", "ann_id": 365725, "best_split": [1, 2], "split_score": 0.46018496275341747}
+{"sent": "big school bus", "ann_id": 365725, "best_split": [1, 2], "split_score": 0.46018496275341747}
+{"sent": "school bus", "ann_id": 365725, "best_split": [1, 2], "split_score": 0.46018496275341747}

@@ -1,0 +1,4 @@
+{"sent": "slice farthest from us not two near us", "ann_id": 1077477, "best_split": [2, 2], "split_score": 0.821477996068262}
+{"sent": "closest pizza", "ann_id": 1076308, "best_split": [3, 1], "split_score": 0.41088814853927097}
+{"sent": "more crust", "ann_id": 1076308, "best_split": [2, 1], "split_score": 0.6075920362389228}
+{"sent": "two slices close to you", "ann_id": 1076308, "best_split": [3, 1], "split_score": 0.41088814853927097}

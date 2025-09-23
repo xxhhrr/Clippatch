@@ -1,0 +1,6 @@
+{"sent": "on tank", "ann_id": 52064, "best_split": [2, 1], "split_score": 0.5037313432644025}
+{"sent": "cat on toilet", "ann_id": 52064, "best_split": [2, 1], "split_score": 0.5037313432644025}
+{"sent": "cat on toilet", "ann_id": 52064, "best_split": [2, 1], "split_score": 0.5037313432644025}
+{"sent": "cat standing", "ann_id": 51339, "best_split": [2, 3], "split_score": 0.3275632489722536}
+{"sent": "sitting up kitty", "ann_id": 51339, "best_split": [3, 2], "split_score": 0.2960395181301638}
+{"sent": "cat in window", "ann_id": 51339, "best_split": [2, 3], "split_score": 0.3275632489722536}

@@ -1,0 +1,6 @@
+{"sent": "guy in hat", "ann_id": 528482, "best_split": [1, 3], "split_score": 0.6230275996307205}
+{"sent": "man with hat", "ann_id": 528482, "best_split": [1, 3], "split_score": 0.6230275996307205}
+{"sent": "man behind other man", "ann_id": 528482, "best_split": [1, 3], "split_score": 0.6230275996307205}
+{"sent": "man jumping", "ann_id": 453445, "best_split": [1, 2], "split_score": 0.9045285702637901}
+{"sent": "man with leg up high", "ann_id": 453445, "best_split": [1, 2], "split_score": 0.9045285702637901}
+{"sent": "man with leg raised", "ann_id": 453445, "best_split": [1, 2], "split_score": 0.9045285702637901}

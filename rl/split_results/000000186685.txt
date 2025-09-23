@@ -1,0 +1,6 @@
+{"sent": "the laptops keyboard", "ann_id": 1635087, "best_split": [5, 1], "split_score": 0.565746753189352}
+{"sent": "laptop keyboard", "ann_id": 1635087, "best_split": [5, 1], "split_score": 0.565746753189352}
+{"sent": "keyboard on laptop", "ann_id": 1635087, "best_split": [5, 1], "split_score": 0.565746753189352}
+{"sent": "keyboard", "ann_id": 1116084, "best_split": [3, 1], "split_score": 0.49392078213543744}
+{"sent": "wireless keyboard", "ann_id": 1116084, "best_split": [3, 1], "split_score": 0.49392078213543744}
+{"sent": "stand alone keyboard", "ann_id": 1116084, "best_split": [3, 1], "split_score": 0.49392078213543744}

@@ -1,0 +1,6 @@
+{"sent": "all black chair", "ann_id": 110806, "best_split": [2, 3], "split_score": 0.8015267174616499}
+{"sent": "black chr", "ann_id": 110806, "best_split": [2, 3], "split_score": 0.8015267174616499}
+{"sent": "black chair", "ann_id": 110806, "best_split": [2, 3], "split_score": 0.8015267174616499}
+{"sent": "patterned green carpet", "ann_id": 1599045, "best_split": [3, 2], "split_score": 0.5733590732898939}
+{"sent": "green chair", "ann_id": 1599045, "best_split": [3, 2], "split_score": 0.5733590732898939}
+{"sent": "ugly chair", "ann_id": 1599045, "best_split": [3, 3], "split_score": 0.36518953545579425}

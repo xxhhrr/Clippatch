@@ -1,0 +1,6 @@
+{"sent": "gray cow", "ann_id": 278482, "best_split": [2, 1], "split_score": 0.6945153060947657}
+{"sent": "closest cow", "ann_id": 278482, "best_split": [2, 1], "split_score": 0.6945153060947657}
+{"sent": "cow", "ann_id": 278482, "best_split": [2, 1], "split_score": 0.6945153060947657}
+{"sent": "cow closer to guy in blue shirt", "ann_id": 72368, "best_split": [3, 3], "split_score": 0.4553548048631376}
+{"sent": "brown cow less visible", "ann_id": 72368, "best_split": [3, 3], "split_score": 0.4553548048631376}
+{"sent": "animal behind nearest animal", "ann_id": 72368, "best_split": [3, 3], "split_score": 0.4553548048631376}

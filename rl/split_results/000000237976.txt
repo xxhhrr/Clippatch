@@ -1,0 +1,6 @@
+{"sent": "image in mirror", "ann_id": 2154077, "best_split": [3, 2], "split_score": 0.39889196671953975}
+{"sent": "reflection in mirror", "ann_id": 2154077, "best_split": [3, 2], "split_score": 0.39889196671953975}
+{"sent": "back of lady in mirrow", "ann_id": 2154077, "best_split": [3, 3], "split_score": 0.5838926173680239}
+{"sent": "partial person not reflection", "ann_id": 1260357, "best_split": [1, 2], "split_score": 0.7246492346649932}
+{"sent": "real person", "ann_id": 1260357, "best_split": [2, 2], "split_score": 0.30446227655481417}
+{"sent": "part of woman that is not reflection", "ann_id": 1260357, "best_split": [1, 2], "split_score": 0.7246492346649932}

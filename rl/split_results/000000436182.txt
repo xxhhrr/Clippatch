@@ -1,0 +1,5 @@
+{"sent": "any part of pizza", "ann_id": 1570008, "best_split": [3, 1], "split_score": 0.5273215312671016}
+{"sent": "pizza slice close to checkered table", "ann_id": 1570008, "best_split": [3, 1], "split_score": 0.5273215312671016}
+{"sent": "pizza close to camera", "ann_id": 1075943, "best_split": [2, 2], "split_score": 0.8385978137324841}
+{"sent": "next slice of pizza", "ann_id": 1075943, "best_split": [2, 2], "split_score": 0.8385978137324841}
+{"sent": "slice next to empty spot closest to us", "ann_id": 1075943, "best_split": [2, 2], "split_score": 0.8385978137324841}

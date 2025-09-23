@@ -1,0 +1,12 @@
+{"sent": "man in short sleeves gray pants", "ann_id": 201940, "best_split": [3, 3], "split_score": 0.48562499992412106}
+{"sent": "guy in blue shirts white pants looking at tbale", "ann_id": 201940, "best_split": [1, 2], "split_score": 0.066822977723226}
+{"sent": "black shirt", "ann_id": 201940, "best_split": [5, 1], "split_score": 0.15348837208027505}
+{"sent": "guy in blue button down shirt", "ann_id": 192611, "best_split": [2, 2], "split_score": 0.21011673150291016}
+{"sent": "old man with beard", "ann_id": 192611, "best_split": [3, 3], "split_score": 0.2731299212262389}
+{"sent": "old man in light blue with beard", "ann_id": 192611, "best_split": [3, 3], "split_score": 0.2731299212262389}
+{"sent": "lady with white shirt", "ann_id": 191586, "best_split": [3, 1], "split_score": 0.20498614957434774}
+{"sent": "white shirt girl standing", "ann_id": 191586, "best_split": [5, 1], "split_score": 0.16236162360553757}
+{"sent": "woman in white shirt", "ann_id": 191586, "best_split": [3, 1], "split_score": 0.20498614957434774}
+{"sent": "man sitting down in white shirt", "ann_id": 216278, "best_split": [2, 3], "split_score": 0.7465827727547643}
+{"sent": "person sitting", "ann_id": 216278, "best_split": [2, 1], "split_score": 0.2645091859380233}
+{"sent": "white shirt sitting", "ann_id": 216278, "best_split": [2, 3], "split_score": 0.7465827727547643}

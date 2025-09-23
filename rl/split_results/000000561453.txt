@@ -1,0 +1,6 @@
+{"sent": "smaller sandwich piece", "ann_id": 309762, "best_split": [3, 2], "split_score": 0.6172267284069886}
+{"sent": "smaller half of andwich", "ann_id": 309762, "best_split": [3, 2], "split_score": 0.6172267284069886}
+{"sent": "smallest part of sandwich", "ann_id": 309762, "best_split": [3, 2], "split_score": 0.6172267284069886}
+{"sent": "sandwich tilting up", "ann_id": 309082, "best_split": [1, 3], "split_score": 0.47972074466091585}
+{"sent": "forward sammich half", "ann_id": 309082, "best_split": [1, 3], "split_score": 0.47972074466091585}
+{"sent": "sandwich half that is leaning on the other half", "ann_id": 309082, "best_split": [1, 3], "split_score": 0.47972074466091585}

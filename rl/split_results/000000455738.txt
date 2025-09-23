@@ -1,0 +1,6 @@
+{"sent": "animal behind", "ann_id": 67539, "best_split": [3, 2], "split_score": 0.3606909898673435}
+{"sent": "second goat", "ann_id": 67539, "best_split": [3, 2], "split_score": 0.3606909898673435}
+{"sent": "animal in back", "ann_id": 67539, "best_split": [1, 3], "split_score": 0.3617796863896045}
+{"sent": "closer goat", "ann_id": 66491, "best_split": [1, 2], "split_score": 0.5994528802838895}
+{"sent": "closest goat", "ann_id": 66491, "best_split": [1, 2], "split_score": 0.5994528802838895}
+{"sent": "closer animal", "ann_id": 66491, "best_split": [1, 2], "split_score": 0.5994528802838895}

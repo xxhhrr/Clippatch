@@ -1,0 +1,8 @@
+{"sent": "darkest coat", "ann_id": 1251561, "best_split": [3, 1], "split_score": 0.17438524589270568}
+{"sent": "black suit", "ann_id": 1251561, "best_split": [1, 5], "split_score": 0.5365067323595195}
+{"sent": "girl with braided pigtails", "ann_id": 1243805, "best_split": [2, 3], "split_score": 0.5740609496302214}
+{"sent": "woman in light blue", "ann_id": 1243805, "best_split": [2, 3], "split_score": 0.5740609496302214}
+{"sent": "woman in light blue sweater", "ann_id": 1243805, "best_split": [2, 3], "split_score": 0.5740609496302214}
+{"sent": "red and white coat", "ann_id": 1221874, "best_split": [3, 2], "split_score": 0.29113481375317934}
+{"sent": "red jacket", "ann_id": 1221874, "best_split": [3, 2], "split_score": 0.29113481375317934}
+{"sent": "man with red and white jacket", "ann_id": 1221874, "best_split": [3, 2], "split_score": 0.29113481375317934}

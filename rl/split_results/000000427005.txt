@@ -1,0 +1,6 @@
+{"sent": "boy black shirt", "ann_id": 215708, "best_split": [2, 3], "split_score": 0.550796331979875}
+{"sent": "person in black", "ann_id": 215708, "best_split": [2, 3], "split_score": 0.550796331979875}
+{"sent": "boy in black", "ann_id": 215708, "best_split": [2, 3], "split_score": 0.550796331979875}
+{"sent": "boy behind the red shirt", "ann_id": 212841, "best_split": [2, 3], "split_score": 0.2549279950715016}
+{"sent": "kid behind pink girl", "ann_id": 212841, "best_split": [2, 3], "split_score": 0.2549279950715016}
+{"sent": "boy with green pants", "ann_id": 212841, "best_split": [2, 3], "split_score": 0.2549279950715016}

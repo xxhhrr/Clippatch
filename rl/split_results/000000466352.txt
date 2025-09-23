@@ -1,0 +1,6 @@
+{"sent": "zebra looking", "ann_id": 1412232, "best_split": [3, 2], "split_score": 0.5555555554979731}
+{"sent": "7 o clock zebra", "ann_id": 1412232, "best_split": [3, 2], "split_score": 0.5555555554979731}
+{"sent": "zebra facing the camera", "ann_id": 1412232, "best_split": [3, 2], "split_score": 0.5555555554979731}
+{"sent": "zebra not looking at cam", "ann_id": 589509, "best_split": [3, 3], "split_score": 0.40168845310434526}
+{"sent": "zebras whose legs are not visible", "ann_id": 589509, "best_split": [3, 3], "split_score": 0.40168845310434526}
+{"sent": "number 2 zebra", "ann_id": 589509, "best_split": [5, 1], "split_score": 0.2721283051346226}

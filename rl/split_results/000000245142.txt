@@ -1,0 +1,6 @@
+{"sent": "black red white", "ann_id": 1468274, "best_split": [3, 3], "split_score": 0.6313386204480487}
+{"sent": "red white and black kite", "ann_id": 1468274, "best_split": [3, 3], "split_score": 0.6313386204480487}
+{"sent": "red black and white kite near yellow pig kite", "ann_id": 1468274, "best_split": [3, 3], "split_score": 0.6313386204480487}
+{"sent": "red white and blue diamonds rounded shape", "ann_id": 1465309, "best_split": [2, 3], "split_score": 0.2901785713935595}
+{"sent": "red white and blue kite", "ann_id": 1465309, "best_split": [2, 3], "split_score": 0.2901785713935595}
+{"sent": "red white and blue circle", "ann_id": 1465309, "best_split": [3, 3], "split_score": 0.3312499999440456}

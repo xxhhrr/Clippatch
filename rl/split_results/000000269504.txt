@@ -1,0 +1,6 @@
+{"sent": "animal on side with most sky showing", "ann_id": 596274, "best_split": [1, 2], "split_score": 0.5817760292053612}
+{"sent": "giraffe thats darker", "ann_id": 596274, "best_split": [1, 2], "split_score": 0.5817760292053612}
+{"sent": "giraffe that is nearest tree and darker", "ann_id": 596274, "best_split": [1, 2], "split_score": 0.5817760292053612}
+{"sent": "taller", "ann_id": 596150, "best_split": [1, 3], "split_score": 0.4992679355554874}
+{"sent": "fully visible giraffe", "ann_id": 596150, "best_split": [1, 3], "split_score": 0.4992679355554874}
+{"sent": "giraffe with neck up visible", "ann_id": 596150, "best_split": [1, 3], "split_score": 0.4992679355554874}

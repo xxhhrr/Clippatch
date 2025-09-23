@@ -1,0 +1,10 @@
+{"sent": "partial silver and black pot", "ann_id": 1901519, "best_split": [5, 1], "split_score": 0.4208603895676887}
+{"sent": "black bowl above oranges", "ann_id": 1901519, "best_split": [3, 2], "split_score": 0.391985672667116}
+{"sent": "silver pot next to oranges", "ann_id": 1901519, "best_split": [3, 2], "split_score": 0.391985672667116}
+{"sent": "uncut vibrant orange closest to bowl", "ann_id": 1054178, "best_split": [5, 1], "split_score": 0.20622286539379314}
+{"sent": "orange with yellow one", "ann_id": 1054178, "best_split": [2, 2], "split_score": 0.26571879934709963}
+{"sent": "orange beside piece of orange", "ann_id": 1054178, "best_split": [2, 2], "split_score": 0.26571879934709963}
+{"sent": "lighter orange", "ann_id": 1053521, "best_split": [3, 2], "split_score": 0.22886762357839283}
+{"sent": "lemon", "ann_id": 1053521, "best_split": [3, 3], "split_score": 0.393987065129525}
+{"sent": "lighter orange", "ann_id": 1053521, "best_split": [3, 2], "split_score": 0.22886762357839283}
+{"sent": "orange not touching lemon", "ann_id": 1051544, "best_split": [2, 3], "split_score": 0.4529341316822833}

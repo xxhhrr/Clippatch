@@ -1,0 +1,6 @@
+{"sent": "wearing jeans sitting down", "ann_id": 214554, "best_split": [1, 3], "split_score": 0.6660834941683106}
+{"sent": "grown up", "ann_id": 214554, "best_split": [3, 1], "split_score": 0.19538588061310713}
+{"sent": "lady with legs crossed", "ann_id": 214554, "best_split": [1, 2], "split_score": 0.4400908800844989}
+{"sent": "lil girl", "ann_id": 200316, "best_split": [1, 3], "split_score": 0.4291293579525086}
+{"sent": "little girl in blue dress", "ann_id": 200316, "best_split": [1, 3], "split_score": 0.4291293579525086}
+{"sent": "girl", "ann_id": 200316, "best_split": [1, 3], "split_score": 0.4291293579525086}

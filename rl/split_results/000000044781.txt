@@ -1,0 +1,6 @@
+{"sent": "man in green shirt", "ann_id": 2153157, "best_split": [2, 1], "split_score": 0.42567567566283554}
+{"sent": "man", "ann_id": 2153157, "best_split": [1, 2], "split_score": 0.6938073394246772}
+{"sent": "guy back", "ann_id": 2153157, "best_split": [1, 2], "split_score": 0.6938073394246772}
+{"sent": "fat woman", "ann_id": 511169, "best_split": [1, 3], "split_score": 0.7228044434750155}
+{"sent": "green lady", "ann_id": 511169, "best_split": [1, 3], "split_score": 0.7228044434750155}
+{"sent": "green", "ann_id": 511169, "best_split": [1, 3], "split_score": 0.7228044434750155}

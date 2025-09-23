@@ -1,0 +1,9 @@
+{"sent": "red truck", "ann_id": 400182, "best_split": [3, 3], "split_score": 0.5710372533654059}
+{"sent": "red pickup", "ann_id": 400182, "best_split": [3, 3], "split_score": 0.5710372533654059}
+{"sent": "red pickup truck", "ann_id": 400182, "best_split": [3, 3], "split_score": 0.5710372533654059}
+{"sent": "large black truck in traffic", "ann_id": 394869, "best_split": [3, 2], "split_score": 0.3127413127035785}
+{"sent": "black semi", "ann_id": 394869, "best_split": [3, 2], "split_score": 0.3127413127035785}
+{"sent": "black truck", "ann_id": 394869, "best_split": [3, 2], "split_score": 0.3127413127035785}
+{"sent": "long trailer bed with yellow", "ann_id": 394330, "best_split": [3, 3], "split_score": 0.3794282162244518}
+{"sent": "flat bed", "ann_id": 394330, "best_split": [3, 1], "split_score": 0.1842323651343075}
+{"sent": "flatbed", "ann_id": 394330, "best_split": [3, 3], "split_score": 0.3794282162244518}

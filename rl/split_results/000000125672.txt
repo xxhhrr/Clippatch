@@ -1,0 +1,10 @@
+{"sent": "the person with the baseball bat", "ann_id": 562521, "best_split": [1, 3], "split_score": 0.4932432432134868}
+{"sent": "batter", "ann_id": 562521, "best_split": [1, 3], "split_score": 0.4932432432134868}
+{"sent": "batter", "ann_id": 562521, "best_split": [1, 3], "split_score": 0.4932432432134868}
+{"sent": "batter", "ann_id": 562521, "best_split": [1, 3], "split_score": 0.4932432432134868}
+{"sent": "umpire", "ann_id": 515785, "best_split": [2, 3], "split_score": 0.49812955301258816}
+{"sent": "umpire", "ann_id": 515785, "best_split": [2, 3], "split_score": 0.49812955301258816}
+{"sent": "ump", "ann_id": 515785, "best_split": [3, 3], "split_score": 0.44997662453833837}
+{"sent": "catcher", "ann_id": 428167, "best_split": [3, 1], "split_score": 0.1860443052897849}
+{"sent": "catcher", "ann_id": 428167, "best_split": [3, 1], "split_score": 0.1860443052897849}
+{"sent": "player in red", "ann_id": 428167, "best_split": [1, 5], "split_score": 0.41981828062283}

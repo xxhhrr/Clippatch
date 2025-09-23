@@ -1,0 +1,6 @@
+{"sent": "food closest to us", "ann_id": 1073805, "best_split": [2, 1], "split_score": 0.628679464786833}
+{"sent": "pizza salad", "ann_id": 1073805, "best_split": [2, 1], "split_score": 0.628679464786833}
+{"sent": "pizza topped with veggies", "ann_id": 1073805, "best_split": [2, 1], "split_score": 0.628679464786833}
+{"sent": "the pepperoni pizza farthest away", "ann_id": 1071005, "best_split": [2, 3], "split_score": 0.42679680563145556}
+{"sent": "pizza far", "ann_id": 1071005, "best_split": [2, 3], "split_score": 0.42679680563145556}
+{"sent": "smaller pizza", "ann_id": 1071005, "best_split": [2, 3], "split_score": 0.42679680563145556}

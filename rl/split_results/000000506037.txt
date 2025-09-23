@@ -1,0 +1,9 @@
+{"sent": "woman with blue skirt and white shirt", "ann_id": 531756, "best_split": [1, 3], "split_score": 0.43436293433673}
+{"sent": "woman with white shirt explaining things", "ann_id": 531756, "best_split": [3, 3], "split_score": 0.30465212018272414}
+{"sent": "woman in dark and light blue pants", "ann_id": 531756, "best_split": [1, 5], "split_score": 0.7305194804453612}
+{"sent": "white striped shirt", "ann_id": 516594, "best_split": [1, 5], "split_score": 0.6984463276219591}
+{"sent": "striped shirt", "ann_id": 516594, "best_split": [1, 5], "split_score": 0.6984463276219591}
+{"sent": "striped shirt girl", "ann_id": 516594, "best_split": [1, 5], "split_score": 0.6984463276219591}
+{"sent": "green skirt", "ann_id": 478005, "best_split": [1, 3], "split_score": 0.3399493243038158}
+{"sent": "person with their hand on the wall", "ann_id": 478005, "best_split": [1, 3], "split_score": 0.3399493243038158}
+{"sent": "woman with arm up", "ann_id": 478005, "best_split": [1, 3], "split_score": 0.3399493243038158}

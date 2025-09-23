@@ -1,0 +1,12 @@
+{"sent": "orange partially cut off at side of screen", "ann_id": 1558749, "best_split": [2, 3], "split_score": 0.3322876447475522}
+{"sent": "orange on table no navel", "ann_id": 1558749, "best_split": [2, 3], "split_score": 0.3322876447475522}
+{"sent": "orange on the table at 9 o clock", "ann_id": 1558749, "best_split": [2, 3], "split_score": 0.3322876447475522}
+{"sent": "closest orange", "ann_id": 1556856, "best_split": [3, 1], "split_score": 0.36215009650324864}
+{"sent": "orange closest to the picture", "ann_id": 1556856, "best_split": [3, 1], "split_score": 0.36215009650324864}
+{"sent": "closest orange", "ann_id": 1556856, "best_split": [3, 1], "split_score": 0.36215009650324864}
+{"sent": "next to biggest orange", "ann_id": 1913229, "best_split": [2, 2], "split_score": 0.39875637751923176}
+{"sent": "orange at next to closest", "ann_id": 1913229, "best_split": [2, 2], "split_score": 0.39875637751923176}
+{"sent": "not the one closest to us and not the one touching edge but the one between those", "ann_id": 1913229, "best_split": [3, 2], "split_score": 0.47241302897491544}
+{"sent": "the ones in the bowl", "ann_id": 1559527, "best_split": [5, 1], "split_score": 0.49999999996310507}
+{"sent": "bowl of oranges", "ann_id": 1559527, "best_split": [5, 1], "split_score": 0.49999999996310507}
+{"sent": "oranges in bowl", "ann_id": 1559527, "best_split": [5, 1], "split_score": 0.49999999996310507}

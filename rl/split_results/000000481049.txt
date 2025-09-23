@@ -1,0 +1,6 @@
+{"sent": "plane next to camera", "ann_id": 161204, "best_split": [2, 1], "split_score": 0.8705729257950068}
+{"sent": "plane that has two vans close to it", "ann_id": 161204, "best_split": [2, 1], "split_score": 0.8705729257950068}
+{"sent": "closer plane", "ann_id": 161204, "best_split": [2, 1], "split_score": 0.8705729257950068}
+{"sent": "further plane", "ann_id": 158262, "best_split": [3, 1], "split_score": 0.6756963314930495}
+{"sent": "full tail on plane", "ann_id": 158262, "best_split": [3, 1], "split_score": 0.6756963314930495}
+{"sent": "ana plane with closed door", "ann_id": 158262, "best_split": [3, 1], "split_score": 0.6756963314930495}

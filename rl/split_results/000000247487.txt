@@ -1,0 +1,9 @@
+{"sent": "yellow bowl with spoon", "ann_id": 1038060, "best_split": [2, 3], "split_score": 0.4607070479103009}
+{"sent": "bowl with yellow sauce", "ann_id": 1038060, "best_split": [2, 3], "split_score": 0.4607070479103009}
+{"sent": "bowl with spoon in it", "ann_id": 1038060, "best_split": [2, 3], "split_score": 0.4607070479103009}
+{"sent": "bowl on plate", "ann_id": 713409, "best_split": [3, 3], "split_score": 0.6834596521498797}
+{"sent": "bowl full of food not liquid", "ann_id": 713409, "best_split": [3, 3], "split_score": 0.6834596521498797}
+{"sent": "white bowl of food on plate", "ann_id": 713409, "best_split": [3, 3], "split_score": 0.6834596521498797}
+{"sent": "water", "ann_id": 669495, "best_split": [3, 3], "split_score": 0.4718772826019216}
+{"sent": "water glass", "ann_id": 669495, "best_split": [3, 3], "split_score": 0.4718772826019216}
+{"sent": "water", "ann_id": 669495, "best_split": [3, 3], "split_score": 0.4718772826019216}

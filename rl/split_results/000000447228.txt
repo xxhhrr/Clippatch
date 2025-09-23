@@ -1,0 +1,6 @@
+{"sent": "side of boat", "ann_id": 249418, "best_split": [3, 1], "split_score": 0.21790540539225955}
+{"sent": "green ship", "ann_id": 249418, "best_split": [3, 2], "split_score": 0.4358108107582274}
+{"sent": "bigger ship", "ann_id": 249418, "best_split": [3, 2], "split_score": 0.4358108107582274}
+{"sent": "facing boat", "ann_id": 176347, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "boat coming this way", "ann_id": 176347, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "boat sailing toward camera", "ann_id": 176347, "best_split": [1, 5], "split_score": 0.4943181817680278}

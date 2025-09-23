@@ -1,0 +1,13 @@
+{"sent": "number two animal kinda back tho", "ann_id": 68417, "best_split": [1, 5], "split_score": 0.37743506489677}
+{"sent": "sheep with head nearest two goats in the lead", "ann_id": 68417, "best_split": [1, 5], "split_score": 0.37743506489677}
+{"sent": "wooly sheep next to shaved one", "ann_id": 68417, "best_split": [1, 5], "split_score": 0.37743506489677}
+{"sent": "sheep in back looking at us more body shown", "ann_id": 63494, "best_split": [2, 3], "split_score": 0.2888577715254193}
+{"sent": "lamb closest to ushead up", "ann_id": 69215, "best_split": [1, 2], "split_score": 0.3981983418208626}
+{"sent": "animal closest to you", "ann_id": 69215, "best_split": [1, 3], "split_score": 0.481981479388487}
+{"sent": "sheep closest to coner light", "ann_id": 69215, "best_split": [1, 2], "split_score": 0.3981983418208626}
+{"sent": "eating close", "ann_id": 62830, "best_split": [1, 2], "split_score": 0.18358531316786542}
+{"sent": "sheep between sheeps eating", "ann_id": 62830, "best_split": [1, 3], "split_score": 0.3378378378174567}
+{"sent": "sheep with face closest to the ground", "ann_id": 62830, "best_split": [3, 3], "split_score": 0.36471168058591524}
+{"sent": "the sheep you can see the most", "ann_id": 62009, "best_split": [3, 1], "split_score": 0.2580195257891004}
+{"sent": "dark lamb eating", "ann_id": 62009, "best_split": [2, 2], "split_score": 0.21183053555944784}
+{"sent": "further back sheep looking down", "ann_id": 62009, "best_split": [3, 1], "split_score": 0.2580195257891004}

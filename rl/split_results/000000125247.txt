@@ -1,0 +1,6 @@
+{"sent": "sofa facing sideways", "ann_id": 117909, "best_split": [3, 3], "split_score": 0.713249444750074}
+{"sent": "loveseat", "ann_id": 117909, "best_split": [3, 3], "split_score": 0.713249444750074}
+{"sent": "couch with cupholder", "ann_id": 117909, "best_split": [3, 2], "split_score": 0.5151674741399654}
+{"sent": "small couch without cup holders", "ann_id": 116976, "best_split": [2, 3], "split_score": 0.4452579409275447}
+{"sent": "most visible couch", "ann_id": 116976, "best_split": [2, 3], "split_score": 0.4452579409275447}
+{"sent": "sofa facing us", "ann_id": 116976, "best_split": [2, 3], "split_score": 0.4452579409275447}

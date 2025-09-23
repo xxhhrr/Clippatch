@@ -1,0 +1,6 @@
+{"sent": "head down", "ann_id": 599256, "best_split": [1, 2], "split_score": 0.5498847926108904}
+{"sent": "giraffe with bent neck", "ann_id": 599256, "best_split": [1, 2], "split_score": 0.5498847926108904}
+{"sent": "zebra facing down", "ann_id": 599256, "best_split": [2, 1], "split_score": 0.511190991027235}
+{"sent": "tall giraffe face", "ann_id": 595272, "best_split": [2, 1], "split_score": 0.4910589550039336}
+{"sent": "giraffe with highest head", "ann_id": 595272, "best_split": [2, 1], "split_score": 0.4910589550039336}
+{"sent": "head of tallest giraffe most high", "ann_id": 595272, "best_split": [2, 1], "split_score": 0.4910589550039336}

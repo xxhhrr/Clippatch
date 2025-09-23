@@ -1,0 +1,11 @@
+{"sent": "drink behind shaker", "ann_id": 1509990, "best_split": [2, 3], "split_score": 0.5007239381635227}
+{"sent": "glass that has straw", "ann_id": 1509990, "best_split": [2, 3], "split_score": 0.5007239381635227}
+{"sent": "glass between pitcher and silver lid", "ann_id": 1509990, "best_split": [2, 3], "split_score": 0.5007239381635227}
+{"sent": "glass more full of red liquid", "ann_id": 1508247, "best_split": [2, 2], "split_score": 0.3245376275251485}
+{"sent": "closest cup", "ann_id": 1508247, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "half full glass", "ann_id": 1505077, "best_split": [3, 1], "split_score": 0.16163619792196235}
+{"sent": "half empty glass", "ann_id": 1505077, "best_split": [3, 1], "split_score": 0.16163619792196235}
+{"sent": "almost empty glass", "ann_id": 1505077, "best_split": [3, 1], "split_score": 0.16163619792196235}
+{"sent": "pitcher", "ann_id": 2099996, "best_split": [2, 2], "split_score": 0.5657731446658121}
+{"sent": "orange pitcher", "ann_id": 2099996, "best_split": [1, 2], "split_score": 0.5058195152859606}
+{"sent": "pitcher", "ann_id": 2099996, "best_split": [2, 2], "split_score": 0.5657731446658121}

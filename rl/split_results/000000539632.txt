@@ -1,0 +1,6 @@
+{"sent": "woman by tomatoe", "ann_id": 499607, "best_split": [2, 3], "split_score": 0.45366421089049397}
+{"sent": "closest woman", "ann_id": 499607, "best_split": [3, 3], "split_score": 0.5493387588314675}
+{"sent": "woman in black", "ann_id": 499607, "best_split": [3, 3], "split_score": 0.5493387588314675}
+{"sent": "green shirt", "ann_id": 479016, "best_split": [2, 3], "split_score": 0.44956563701139407}
+{"sent": "person wearin green shirt", "ann_id": 479016, "best_split": [2, 3], "split_score": 0.44956563701139407}
+{"sent": "woman in green", "ann_id": 479016, "best_split": [2, 2], "split_score": 0.2970344387518308}

@@ -1,0 +1,9 @@
+{"sent": "girl in corner with red bow", "ann_id": 1299114, "best_split": [2, 2], "split_score": 0.5470344387319009}
+{"sent": "little blurry girl foreground", "ann_id": 1299114, "best_split": [2, 3], "split_score": 0.5930599368461557}
+{"sent": "girl facing away", "ann_id": 1299114, "best_split": [2, 2], "split_score": 0.5470344387319009}
+{"sent": "boy walking asile", "ann_id": 1716332, "best_split": [1, 5], "split_score": 0.3195515066253327}
+{"sent": "boy walking in isle", "ann_id": 1716332, "best_split": [1, 5], "split_score": 0.3195515066253327}
+{"sent": "boy walking down aisle", "ann_id": 1716332, "best_split": [1, 5], "split_score": 0.3195515066253327}
+{"sent": "mom with child on lap", "ann_id": 1323028, "best_split": [1, 5], "split_score": 0.3877840908697459}
+{"sent": "mom holding kid on lap", "ann_id": 1323028, "best_split": [1, 5], "split_score": 0.3877840908697459}
+{"sent": "woman white shirt holding baby", "ann_id": 1323028, "best_split": [1, 5], "split_score": 0.3877840908697459}

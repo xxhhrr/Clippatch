@@ -1,0 +1,8 @@
+{"sent": "brown shirt", "ann_id": 2160070, "best_split": [1, 3], "split_score": 0.629037382154557}
+{"sent": "boy by toilet", "ann_id": 2160070, "best_split": [2, 1], "split_score": 0.3210682093259428}
+{"sent": "brown with white stripe shirt", "ann_id": 2160070, "best_split": [1, 3], "split_score": 0.629037382154557}
+{"sent": "blue plaid kid with red badge hanging", "ann_id": 520990, "best_split": [1, 2], "split_score": 0.597297512731294}
+{"sent": "tall boy with red tag", "ann_id": 520990, "best_split": [2, 1], "split_score": 0.279265762161875}
+{"sent": "boy with red id badge", "ann_id": 520990, "best_split": [1, 2], "split_score": 0.597297512731294}
+{"sent": "kid in leaning with glases", "ann_id": 486342, "best_split": [2, 2], "split_score": 0.2034739453936512}
+{"sent": "boy with dark glasses striped blue shirt", "ann_id": 486342, "best_split": [2, 2], "split_score": 0.2034739453936512}

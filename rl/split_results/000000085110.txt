@@ -1,0 +1,11 @@
+{"sent": "person sitting down without a skateboard next to him", "ann_id": 2163859, "best_split": [5, 1], "split_score": 0.08057735425444384}
+{"sent": "guy in khaki pants", "ann_id": 2163859, "best_split": [1, 5], "split_score": 0.5091496232009834}
+{"sent": "white shirt khaki pants", "ann_id": 2163859, "best_split": [1, 5], "split_score": 0.5091496232009834}
+{"sent": "baseball cap guy", "ann_id": 1725815, "best_split": [1, 5], "split_score": 0.38713195198729305}
+{"sent": "guy with hat", "ann_id": 1725815, "best_split": [1, 5], "split_score": 0.38713195198729305}
+{"sent": "dude with hat on backwards", "ann_id": 1725815, "best_split": [1, 5], "split_score": 0.38713195198729305}
+{"sent": "dude with black shirt red letters", "ann_id": 493641, "best_split": [2, 2], "split_score": 0.3546779618565667}
+{"sent": "black shirt pointing", "ann_id": 493641, "best_split": [1, 2], "split_score": 0.3668686224343563}
+{"sent": "woman in white shire that says vans", "ann_id": 487203, "best_split": [3, 3], "split_score": 0.39220882464658685}
+{"sent": "guy with white vans tee shirt", "ann_id": 487203, "best_split": [3, 3], "split_score": 0.39220882464658685}
+{"sent": "vans white shirt", "ann_id": 487203, "best_split": [3, 3], "split_score": 0.39220882464658685}

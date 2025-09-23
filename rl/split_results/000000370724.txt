@@ -1,0 +1,4 @@
+{"sent": "taller elephant", "ann_id": 583639, "best_split": [3, 2], "split_score": 0.39008204628498044}
+{"sent": "far big elephant", "ann_id": 583639, "best_split": [3, 2], "split_score": 0.39008204628498044}
+{"sent": "elephant with face near pole", "ann_id": 583561, "best_split": [3, 3], "split_score": 0.4192362092759213}
+{"sent": "elephant with head partially hidden behind tree", "ann_id": 583561, "best_split": [3, 3], "split_score": 0.4192362092759213}

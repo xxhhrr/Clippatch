@@ -1,0 +1,9 @@
+{"sent": "person in light blue jacket and black pants", "ann_id": 484420, "best_split": [3, 3], "split_score": 0.32110091739138347}
+{"sent": "light blue jacket", "ann_id": 484420, "best_split": [3, 3], "split_score": 0.32110091739138347}
+{"sent": "light blue jacket", "ann_id": 484420, "best_split": [3, 3], "split_score": 0.32110091739138347}
+{"sent": "green", "ann_id": 484165, "best_split": [3, 2], "split_score": 0.3187265917304563}
+{"sent": "green", "ann_id": 484165, "best_split": [3, 2], "split_score": 0.3187265917304563}
+{"sent": "green lady", "ann_id": 484165, "best_split": [3, 2], "split_score": 0.3187265917304563}
+{"sent": "blue coat", "ann_id": 476952, "best_split": [1, 5], "split_score": 0.4692573051471938}
+{"sent": "person in dark blue jacket", "ann_id": 476952, "best_split": [1, 5], "split_score": 0.4692573051471938}
+{"sent": "dark blue jacket", "ann_id": 476952, "best_split": [1, 5], "split_score": 0.4692573051471938}

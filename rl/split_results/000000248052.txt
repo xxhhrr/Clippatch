@@ -1,0 +1,15 @@
+{"sent": "table with man clapping", "ann_id": 122932, "best_split": [3, 3], "split_score": 0.6090064330577186}
+{"sent": "white tablecloth without wine glasses", "ann_id": 122932, "best_split": [3, 3], "split_score": 0.6090064330577186}
+{"sent": "table cloth on bottomish rightish corner", "ann_id": 122932, "best_split": [3, 3], "split_score": 0.6090064330577186}
+{"sent": "table where woman in blue dress is sitting", "ann_id": 122795, "best_split": [2, 1], "split_score": 0.1769770408092723}
+{"sent": "glass of wine", "ann_id": 122795, "best_split": [5, 1], "split_score": 0.4330392942629271}
+{"sent": "table corner closest to us", "ann_id": 122795, "best_split": [2, 3], "split_score": 0.27407407404663925}
+{"sent": "blue shirt woman", "ann_id": 1265220, "best_split": [1, 3], "split_score": 0.71531129339314}
+{"sent": "lady in blue dress", "ann_id": 1265220, "best_split": [1, 3], "split_score": 0.71531129339314}
+{"sent": "woman in blue seater", "ann_id": 1265220, "best_split": [1, 3], "split_score": 0.71531129339314}
+{"sent": "woman standing", "ann_id": 1260835, "best_split": [1, 3], "split_score": 0.44596912519050336}
+{"sent": "standing", "ann_id": 1260835, "best_split": [1, 5], "split_score": 0.6970509382794026}
+{"sent": "woman standing", "ann_id": 1260835, "best_split": [1, 3], "split_score": 0.44596912519050336}
+{"sent": "man in blue shirt with hands up like what", "ann_id": 1254111, "best_split": [3, 2], "split_score": 0.44170073585922315}
+{"sent": "man with hands up", "ann_id": 1254111, "best_split": [3, 2], "split_score": 0.44170073585922315}
+{"sent": "guy with both hands up", "ann_id": 1254111, "best_split": [3, 2], "split_score": 0.44170073585922315}

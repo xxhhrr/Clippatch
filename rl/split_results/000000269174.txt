@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 496188, "best_split": [2, 2], "split_score": 0.468331846535725}
+{"sent": "guy", "ann_id": 496188, "best_split": [3, 1], "split_score": 0.23657289001477105}
+{"sent": "man", "ann_id": 496188, "best_split": [2, 2], "split_score": 0.468331846535725}
+{"sent": "red shirt", "ann_id": 496074, "best_split": [1, 2], "split_score": 0.4151117576183984}
+{"sent": "woman in red", "ann_id": 496074, "best_split": [1, 3], "split_score": 0.581253758246345}
+{"sent": "thumbs up girl", "ann_id": 496074, "best_split": [1, 3], "split_score": 0.581253758246345}

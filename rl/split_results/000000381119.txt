@@ -1,0 +1,13 @@
+{"sent": "kid with gray shirt and helmet", "ann_id": 537792, "best_split": [3, 1], "split_score": 0.15416666665798612}
+{"sent": "smaller kid looking down at board", "ann_id": 537792, "best_split": [2, 2], "split_score": 0.18035842292613918}
+{"sent": "gray shirt and gray helmet", "ann_id": 537792, "best_split": [2, 1], "split_score": 0.05093464715074139}
+{"sent": "kid in black standing straight", "ann_id": 527498, "best_split": [3, 1], "split_score": 0.15802083332510308}
+{"sent": "kid about to skate off the ramp", "ann_id": 527498, "best_split": [1, 2], "split_score": 0.22552614795019427}
+{"sent": "red and blue shirt boy", "ann_id": 524688, "best_split": [3, 1], "split_score": 0.18909710390816134}
+{"sent": "white helmet", "ann_id": 524688, "best_split": [1, 2], "split_score": 0.13712769094156857}
+{"sent": "kid white hat", "ann_id": 524688, "best_split": [5, 1], "split_score": 0.11670480548364524}
+{"sent": "kid next to blue shirt guy", "ann_id": 515707, "best_split": [3, 2], "split_score": 0.3298217179568657}
+{"sent": "man in black sitting", "ann_id": 515707, "best_split": [3, 2], "split_score": 0.3298217179568657}
+{"sent": "skater with lanyard", "ann_id": 465254, "best_split": [1, 5], "split_score": 0.7196631492776315}
+{"sent": "blue shirt", "ann_id": 465254, "best_split": [1, 5], "split_score": 0.7196631492776315}
+{"sent": "skater with number aroungd neck", "ann_id": 465254, "best_split": [1, 3], "split_score": 0.4279078185070036}

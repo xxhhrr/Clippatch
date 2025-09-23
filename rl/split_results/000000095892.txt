@@ -1,0 +1,13 @@
+{"sent": "sheep head with little body showing", "ann_id": 2174757, "best_split": [3, 2], "split_score": 0.5358490565405838}
+{"sent": "only head and one eye", "ann_id": 2174757, "best_split": [1, 5], "split_score": 0.2872265349076194}
+{"sent": "black cirle", "ann_id": 67773, "best_split": [3, 2], "split_score": 0.5747938750988731}
+{"sent": "goat at the back of the pack", "ann_id": 67773, "best_split": [2, 2], "split_score": 0.5180388528797384}
+{"sent": "sheep blocked out by part of horn", "ann_id": 67773, "best_split": [2, 2], "split_score": 0.5180388528797384}
+{"sent": "all brown in corner", "ann_id": 65978, "best_split": [1, 3], "split_score": 0.4687499999717212}
+{"sent": "brown sheep body", "ann_id": 65978, "best_split": [1, 3], "split_score": 0.4687499999717212}
+{"sent": "main animal", "ann_id": 62342, "best_split": [1, 2], "split_score": 0.37763253448548517}
+{"sent": "has horns", "ann_id": 62342, "best_split": [1, 2], "split_score": 0.37763253448548517}
+{"sent": "goat with tall horn", "ann_id": 62342, "best_split": [1, 2], "split_score": 0.37763253448548517}
+{"sent": "goat slightly cutoff from view", "ann_id": 61410, "best_split": [2, 1], "split_score": 0.3734313649867799}
+{"sent": "white face closest to us", "ann_id": 61410, "best_split": [2, 1], "split_score": 0.02558279915991886}
+{"sent": "4 o clock animal", "ann_id": 61410, "best_split": [3, 1], "split_score": 0.17743683092023418}

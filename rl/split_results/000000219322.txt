@@ -1,0 +1,5 @@
+{"sent": "person with black shirt and black hat", "ann_id": 1272824, "best_split": [3, 2], "split_score": 0.36346803176522513}
+{"sent": "hat", "ann_id": 1272824, "best_split": [1, 5], "split_score": 0.30959464482060295}
+{"sent": "man in black behind man in white", "ann_id": 1272824, "best_split": [3, 2], "split_score": 0.36346803176522513}
+{"sent": "white shirt", "ann_id": 470232, "best_split": [1, 3], "split_score": 0.6265101829208444}
+{"sent": "arm with band", "ann_id": 470232, "best_split": [1, 3], "split_score": 0.6265101829208444}

@@ -1,0 +1,9 @@
+{"sent": "biggest elephant", "ann_id": 583851, "best_split": [2, 1], "split_score": 0.6550868486098369}
+{"sent": "biggest elephant", "ann_id": 583851, "best_split": [2, 1], "split_score": 0.6550868486098369}
+{"sent": "dad", "ann_id": 583851, "best_split": [1, 2], "split_score": 0.35139926553275297}
+{"sent": "laying down", "ann_id": 583622, "best_split": [3, 1], "split_score": 0.6969902692522635}
+{"sent": "elephant laying down", "ann_id": 583622, "best_split": [1, 2], "split_score": 0.21334719727090312}
+{"sent": "elephant laying down", "ann_id": 583622, "best_split": [1, 2], "split_score": 0.21334719727090312}
+{"sent": "little standing elephant", "ann_id": 580853, "best_split": [1, 2], "split_score": 0.27434896298762945}
+{"sent": "baby elephant standing", "ann_id": 580853, "best_split": [1, 2], "split_score": 0.27434896298762945}
+{"sent": "baby elephant", "ann_id": 580853, "best_split": [1, 2], "split_score": 0.27434896298762945}

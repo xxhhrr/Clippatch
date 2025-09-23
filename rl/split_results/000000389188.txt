@@ -1,0 +1,6 @@
+{"sent": "guy behind net", "ann_id": 458628, "best_split": [1, 3], "split_score": 0.32127759509621434}
+{"sent": "guy with white hat", "ann_id": 458628, "best_split": [2, 3], "split_score": 0.33911077615494434}
+{"sent": "white hat", "ann_id": 458628, "best_split": [2, 3], "split_score": 0.33911077615494434}
+{"sent": "man without white hat", "ann_id": 456796, "best_split": [1, 3], "split_score": 0.4514563106555288}
+{"sent": "sweatband not a hat", "ann_id": 456796, "best_split": [1, 3], "split_score": 0.4514563106555288}
+{"sent": "no hat", "ann_id": 456796, "best_split": [1, 3], "split_score": 0.4514563106555288}

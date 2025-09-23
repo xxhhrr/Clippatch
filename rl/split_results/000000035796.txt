@@ -1,0 +1,4 @@
+{"sent": "smallest part of bush", "ann_id": 1608319, "best_split": [2, 1], "split_score": 0.09275660287471309}
+{"sent": "green bush under white camera", "ann_id": 1608319, "best_split": [3, 1], "split_score": 0.08068708328168793}
+{"sent": "bush by fire hydrant", "ann_id": 1607968, "best_split": [2, 1], "split_score": 0.17855227881439167}
+{"sent": "tree almost off screen", "ann_id": 1607968, "best_split": [1, 5], "split_score": 0.8638743454689721}

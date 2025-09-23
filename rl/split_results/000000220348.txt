@@ -1,0 +1,6 @@
+{"sent": "hand in background", "ann_id": 461442, "best_split": [1, 2], "split_score": 0.08316091038981534}
+{"sent": "person in black shirt at table", "ann_id": 461442, "best_split": [3, 2], "split_score": 0.2508401343914018}
+{"sent": "furthest person", "ann_id": 461442, "best_split": [5, 1], "split_score": 0.216517857120889}
+{"sent": "the hand holding the apple", "ann_id": 440420, "best_split": [2, 1], "split_score": 0.6159101820505998}
+{"sent": "hand", "ann_id": 440420, "best_split": [2, 2], "split_score": 0.642458688525289}
+{"sent": "hand holding apple", "ann_id": 440420, "best_split": [2, 1], "split_score": 0.6159101820505998}

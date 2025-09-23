@@ -1,0 +1,6 @@
+{"sent": "computer in the back furthest from us", "ann_id": 1102078, "best_split": [2, 3], "split_score": 0.41229880309406736}
+{"sent": "background laptop", "ann_id": 1102078, "best_split": [2, 3], "split_score": 0.41229880309406736}
+{"sent": "blurry keyboardd", "ann_id": 1102078, "best_split": [2, 3], "split_score": 0.41229880309406736}
+{"sent": "big laptop", "ann_id": 1098524, "best_split": [1, 2], "split_score": 0.48616065380218176}
+{"sent": "keyboard closest to camera", "ann_id": 1098524, "best_split": [1, 2], "split_score": 0.48616065380218176}
+{"sent": "big computer", "ann_id": 1098524, "best_split": [2, 1], "split_score": 0.555923229636099}

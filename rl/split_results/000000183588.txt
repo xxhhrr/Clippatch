@@ -1,0 +1,6 @@
+{"sent": "tall", "ann_id": 1746907, "best_split": [1, 5], "split_score": 0.4910714285371741}
+{"sent": "man", "ann_id": 1746907, "best_split": [1, 5], "split_score": 0.4910714285371741}
+{"sent": "the man", "ann_id": 1746907, "best_split": [1, 2], "split_score": 0.4408060453227013}
+{"sent": "woman", "ann_id": 510099, "best_split": [1, 5], "split_score": 0.5030262272610099}
+{"sent": "shorter", "ann_id": 510099, "best_split": [2, 1], "split_score": 0.2382946895946786}
+{"sent": "closest person", "ann_id": 510099, "best_split": [1, 5], "split_score": 0.5030262272610099}

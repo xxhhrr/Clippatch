@@ -1,0 +1,9 @@
+{"sent": "wine glass closest to the lady", "ann_id": 1497237, "best_split": [2, 3], "split_score": 0.7830598454653643}
+{"sent": "whine glass partially covered", "ann_id": 1497237, "best_split": [2, 3], "split_score": 0.7830598454653643}
+{"sent": "cup of wine next to girl", "ann_id": 1497237, "best_split": [2, 3], "split_score": 0.7830598454653643}
+{"sent": "pizza close to us", "ann_id": 1072407, "best_split": [2, 1], "split_score": 0.9061058642321508}
+{"sent": "large pizza", "ann_id": 1072407, "best_split": [2, 1], "split_score": 0.9061058642321508}
+{"sent": "big pizza", "ann_id": 1072407, "best_split": [2, 1], "split_score": 0.9061058642321508}
+{"sent": "wine glass closer", "ann_id": 665092, "best_split": [2, 3], "split_score": 0.5861282969080508}
+{"sent": "wine glass closest to us", "ann_id": 665092, "best_split": [2, 3], "split_score": 0.5861282969080508}
+{"sent": "wine closest", "ann_id": 665092, "best_split": [2, 3], "split_score": 0.5861282969080508}

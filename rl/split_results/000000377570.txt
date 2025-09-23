@@ -1,0 +1,12 @@
+{"sent": "lounging woman", "ann_id": 201070, "best_split": [2, 1], "split_score": 0.7120908702697846}
+{"sent": "lady", "ann_id": 201070, "best_split": [1, 2], "split_score": 0.35277028428219626}
+{"sent": "woman in black", "ann_id": 201070, "best_split": [2, 1], "split_score": 0.7120908702697846}
+{"sent": "man", "ann_id": 191729, "best_split": [1, 3], "split_score": 0.584518167431599}
+{"sent": "guy in black", "ann_id": 191729, "best_split": [1, 3], "split_score": 0.584518167431599}
+{"sent": "man", "ann_id": 191729, "best_split": [1, 3], "split_score": 0.584518167431599}
+{"sent": "a red folding chair", "ann_id": 107158, "best_split": [3, 1], "split_score": 0.19431386984231105}
+{"sent": "red foldable chair", "ann_id": 107158, "best_split": [2, 3], "split_score": 0.5267175571890842}
+{"sent": "orange chair", "ann_id": 107158, "best_split": [2, 1], "split_score": 0.17984693876834157}
+{"sent": "chair man is sitting on", "ann_id": 103703, "best_split": [3, 1], "split_score": 0.2738712065010237}
+{"sent": "chair with man sitting in the chair", "ann_id": 103703, "best_split": [3, 1], "split_score": 0.2738712065010237}
+{"sent": "chair guy is sitting on super small clickable area try for black under arm rest", "ann_id": 103703, "best_split": [1, 3], "split_score": 0.4889153238623924}

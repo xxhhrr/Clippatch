@@ -1,0 +1,7 @@
+{"sent": "elephant trunk", "ann_id": 584430, "best_split": [1, 2], "split_score": 0.7002255016498665}
+{"sent": "mr tusks", "ann_id": 584430, "best_split": [1, 2], "split_score": 0.7002255016498665}
+{"sent": "elephant tusk", "ann_id": 584430, "best_split": [1, 2], "split_score": 0.7002255016498665}
+{"sent": "the elephant with tusks", "ann_id": 584430, "best_split": [1, 2], "split_score": 0.7002255016498665}
+{"sent": "butt", "ann_id": 582521, "best_split": [3, 2], "split_score": 0.32528339081956287}
+{"sent": "its butt", "ann_id": 582521, "best_split": [3, 2], "split_score": 0.32528339081956287}
+{"sent": "rearene", "ann_id": 582521, "best_split": [2, 1], "split_score": 0.3194578896332296}

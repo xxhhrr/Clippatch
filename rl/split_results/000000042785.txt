@@ -1,0 +1,4 @@
+{"sent": "the pizza that the tips of fork is touching", "ann_id": 1077804, "best_split": [3, 3], "split_score": 0.6834338304215433}
+{"sent": "pizza at 10 o clock", "ann_id": 1077804, "best_split": [3, 3], "split_score": 0.6834338304215433}
+{"sent": "upper pizza without the fork", "ann_id": 1077630, "best_split": [3, 1], "split_score": 0.39020270267916246}
+{"sent": "100", "ann_id": 1077630, "best_split": [3, 1], "split_score": 0.39020270267916246}

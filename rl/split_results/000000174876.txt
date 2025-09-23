@@ -1,0 +1,6 @@
+{"sent": "person in dark long jacket", "ann_id": 483118, "best_split": [2, 2], "split_score": 0.1853932584137823}
+{"sent": "plain dress", "ann_id": 483118, "best_split": [1, 5], "split_score": 0.35003862491791826}
+{"sent": "long dress or coat", "ann_id": 483118, "best_split": [1, 5], "split_score": 0.35003862491791826}
+{"sent": "ugly shirt", "ann_id": 465449, "best_split": [1, 5], "split_score": 0.38893079385358}
+{"sent": "wild pattern shirt", "ann_id": 465449, "best_split": [1, 5], "split_score": 0.38893079385358}
+{"sent": "colorful shirt", "ann_id": 465449, "best_split": [1, 5], "split_score": 0.38893079385358}

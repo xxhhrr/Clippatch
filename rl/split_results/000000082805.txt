@@ -1,0 +1,12 @@
+{"sent": "blurry item at 1200", "ann_id": 1751512, "best_split": [1, 2], "split_score": 0.05079681274719704}
+{"sent": "barely seen gray pants", "ann_id": 1751512, "best_split": [5, 1], "split_score": 0.451704545408715}
+{"sent": "gray behind hand", "ann_id": 1751512, "best_split": [5, 1], "split_score": 0.451704545408715}
+{"sent": "empty white plate", "ann_id": 1540485, "best_split": [5, 1], "split_score": 0.4243445692486569}
+{"sent": "white plate", "ann_id": 1540485, "best_split": [5, 1], "split_score": 0.4243445692486569}
+{"sent": "the plate which the persons hand is hovering over", "ann_id": 1540485, "best_split": [5, 1], "split_score": 0.4243445692486569}
+{"sent": "brown beans", "ann_id": 717966, "best_split": [3, 3], "split_score": 0.4961762355329099}
+{"sent": "bowl", "ann_id": 717966, "best_split": [3, 3], "split_score": 0.4961762355329099}
+{"sent": "the white bowl with fruits", "ann_id": 717966, "best_split": [3, 3], "split_score": 0.4961762355329099}
+{"sent": "hand holding chopsticks", "ann_id": 524475, "best_split": [3, 3], "split_score": 0.81741390500042}
+{"sent": "hand holding chopsticks", "ann_id": 524475, "best_split": [3, 3], "split_score": 0.81741390500042}
+{"sent": "hand", "ann_id": 524475, "best_split": [3, 3], "split_score": 0.81741390500042}

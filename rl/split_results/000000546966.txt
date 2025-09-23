@@ -1,0 +1,6 @@
+{"sent": "kid walking", "ann_id": 1235685, "best_split": [3, 3], "split_score": 0.4398725006606965}
+{"sent": "boy standing", "ann_id": 1235685, "best_split": [3, 3], "split_score": 0.4398725006606965}
+{"sent": "walking person", "ann_id": 1235685, "best_split": [3, 3], "split_score": 0.4398725006606965}
+{"sent": "person with hat", "ann_id": 507545, "best_split": [2, 2], "split_score": 0.33723559928580316}
+{"sent": "red shirt on chair", "ann_id": 507545, "best_split": [3, 2], "split_score": 0.38993159091475776}
+{"sent": "red shirt in wheel chair", "ann_id": 507545, "best_split": [3, 2], "split_score": 0.38993159091475776}

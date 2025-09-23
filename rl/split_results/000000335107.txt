@@ -1,0 +1,4 @@
+{"sent": "wine not with bananas", "ann_id": 1485514, "best_split": [5, 1], "split_score": 0.24408284021411955}
+{"sent": "the wine bottle whose neck we can not see", "ann_id": 89502, "best_split": [3, 3], "split_score": 0.6008035060991959}
+{"sent": "backwards bottle", "ann_id": 89502, "best_split": [3, 3], "split_score": 0.6008035060991959}
+{"sent": "wine bottle facing opposite direction", "ann_id": 89502, "best_split": [3, 3], "split_score": 0.6008035060991959}

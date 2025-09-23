@@ -1,0 +1,7 @@
+{"sent": "brown shirt in back ground", "ann_id": 534767, "best_split": [2, 3], "split_score": 0.37300177615752644}
+{"sent": "striped shirt black vest in background", "ann_id": 490827, "best_split": [1, 5], "split_score": 0.9502840908126741}
+{"sent": "stripe shirt", "ann_id": 490827, "best_split": [1, 5], "split_score": 0.9502840908126741}
+{"sent": "person in striped shirt", "ann_id": 490827, "best_split": [1, 5], "split_score": 0.9502840908126741}
+{"sent": "man", "ann_id": 484161, "best_split": [1, 2], "split_score": 0.6949247439088718}
+{"sent": "hat man", "ann_id": 484161, "best_split": [1, 2], "split_score": 0.6949247439088718}
+{"sent": "man on computer", "ann_id": 484161, "best_split": [1, 3], "split_score": 0.44820958930311516}

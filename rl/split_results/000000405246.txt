@@ -1,0 +1,7 @@
+{"sent": "the person in the white saritoga", "ann_id": 538334, "best_split": [1, 5], "split_score": 0.5971476766909103}
+{"sent": "black woman", "ann_id": 538334, "best_split": [1, 3], "split_score": 0.6620415057515661}
+{"sent": "woman", "ann_id": 538334, "best_split": [1, 3], "split_score": 0.6620415057515661}
+{"sent": "man with tie", "ann_id": 499734, "best_split": [1, 2], "split_score": 0.8231828558500927}
+{"sent": "man", "ann_id": 499734, "best_split": [1, 5], "split_score": 0.3618018590465638}
+{"sent": "man", "ann_id": 499734, "best_split": [1, 5], "split_score": 0.3618018590465638}
+{"sent": "man in kilt", "ann_id": 499734, "best_split": [1, 2], "split_score": 0.8231828558500927}

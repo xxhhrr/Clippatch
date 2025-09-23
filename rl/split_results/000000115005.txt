@@ -1,0 +1,12 @@
+{"sent": "screen with 6 objects on screen", "ann_id": 124081, "best_split": [2, 2], "split_score": 0.18295599488337405}
+{"sent": "monitor with six windows open", "ann_id": 124081, "best_split": [2, 2], "split_score": 0.18295599488337405}
+{"sent": "computer on red book", "ann_id": 124081, "best_split": [2, 2], "split_score": 0.18295599488337405}
+{"sent": "mondays", "ann_id": 1969869, "best_split": [2, 3], "split_score": 0.2491254918835674}
+{"sent": "mondays", "ann_id": 1969869, "best_split": [2, 3], "split_score": 0.2491254918835674}
+{"sent": "laptop", "ann_id": 1969869, "best_split": [1, 5], "split_score": 0.3184862012663873}
+{"sent": "computer screen mainly white", "ann_id": 35895, "best_split": [2, 2], "split_score": 0.3014987244657606}
+{"sent": "monitor with blue horizontal line", "ann_id": 35895, "best_split": [2, 2], "split_score": 0.3014987244657606}
+{"sent": "white screen", "ann_id": 35895, "best_split": [5, 1], "split_score": 0.2500458294912882}
+{"sent": "black screen 1325", "ann_id": 32420, "best_split": [3, 2], "split_score": 0.3841428296809231}
+{"sent": "black screen", "ann_id": 32420, "best_split": [3, 2], "split_score": 0.3841428296809231}
+{"sent": "the computer monitor with black on it", "ann_id": 32420, "best_split": [3, 3], "split_score": 0.26559092888512964}

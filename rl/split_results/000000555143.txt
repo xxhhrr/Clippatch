@@ -1,0 +1,5 @@
+{"sent": "the one closest to the house", "ann_id": 566483, "best_split": [2, 3], "split_score": 0.416243654778316}
+{"sent": "the man closest to the house pointing at the tree", "ann_id": 566483, "best_split": [2, 1], "split_score": 0.030021834060111153}
+{"sent": "third dude arms highest", "ann_id": 462282, "best_split": [2, 3], "split_score": 0.44304039819614777}
+{"sent": "third guy", "ann_id": 462282, "best_split": [2, 3], "split_score": 0.44304039819614777}
+{"sent": "guy with arms stretched wides not wearing cap", "ann_id": 462282, "best_split": [3, 3], "split_score": 0.37250951417366135}

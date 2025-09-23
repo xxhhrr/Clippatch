@@ -1,0 +1,6 @@
+{"sent": "snowboarder", "ann_id": 1730799, "best_split": [3, 3], "split_score": 0.40732586064778564}
+{"sent": "boarder", "ann_id": 1730799, "best_split": [3, 3], "split_score": 0.40732586064778564}
+{"sent": "man in air", "ann_id": 1730799, "best_split": [3, 3], "split_score": 0.40732586064778564}
+{"sent": "man not on board", "ann_id": 464506, "best_split": [2, 2], "split_score": 0.34699035581330295}
+{"sent": "person not on a snowboard", "ann_id": 464506, "best_split": [2, 2], "split_score": 0.34699035581330295}
+{"sent": "person not on snowboard", "ann_id": 464506, "best_split": [2, 2], "split_score": 0.34699035581330295}

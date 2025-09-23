@@ -1,0 +1,5 @@
+{"sent": "seat", "ann_id": 381577, "best_split": [2, 2], "split_score": 0.35496736763198206}
+{"sent": "chair next to umbrella next to the stool", "ann_id": 381577, "best_split": [2, 2], "split_score": 0.35496736763198206}
+{"sent": "chase by table", "ann_id": 381577, "best_split": [2, 2], "split_score": 0.35496736763198206}
+{"sent": "chair not next to the table", "ann_id": 375919, "best_split": [1, 5], "split_score": 0.2666724556906328}
+{"sent": "chair under umbrella near string", "ann_id": 375919, "best_split": [5, 1], "split_score": 0.2076330821916025}

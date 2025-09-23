@@ -1,0 +1,12 @@
+{"sent": "license plate", "ann_id": 1799884, "best_split": [1, 5], "split_score": 0.328244274776619}
+{"sent": "truck in back", "ann_id": 1799884, "best_split": [3, 1], "split_score": 0.13200540174814285}
+{"sent": "black truck with liscence plate showing", "ann_id": 1799884, "best_split": [5, 1], "split_score": 0.14551983582887143}
+{"sent": "gray truck next to the motorcycle", "ann_id": 1799746, "best_split": [2, 2], "split_score": 0.772951753781629}
+{"sent": "dusty black car next to girl", "ann_id": 1799746, "best_split": [3, 1], "split_score": 0.27169511709917843}
+{"sent": "dirty black truck in foreground", "ann_id": 1799746, "best_split": [2, 2], "split_score": 0.772951753781629}
+{"sent": "truck with a plate", "ann_id": 141777, "best_split": [2, 1], "split_score": 0.01840119589911727}
+{"sent": "suv in with visible license plate", "ann_id": 141777, "best_split": [2, 1], "split_score": 0.01840119589911727}
+{"sent": "van hidden", "ann_id": 141777, "best_split": [3, 1], "split_score": 0.12939656140412426}
+{"sent": "truck wheel", "ann_id": 141145, "best_split": [2, 2], "split_score": 0.8029739776418631}
+{"sent": "truck by bike", "ann_id": 141145, "best_split": [2, 2], "split_score": 0.8029739776418631}
+{"sent": "silver vehicle by lady", "ann_id": 141145, "best_split": [2, 2], "split_score": 0.8029739776418631}

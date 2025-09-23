@@ -1,0 +1,6 @@
+{"sent": "horse closest to sidewalk", "ann_id": 274371, "best_split": [1, 3], "split_score": 0.49580563829952756}
+{"sent": "the horse that is cut off", "ann_id": 274371, "best_split": [1, 3], "split_score": 0.49580563829952756}
+{"sent": "horse not shown all the way", "ann_id": 274371, "best_split": [1, 3], "split_score": 0.49580563829952756}
+{"sent": "horse closet to camera", "ann_id": 59168, "best_split": [1, 3], "split_score": 0.5097056981641473}
+{"sent": "horse", "ann_id": 59168, "best_split": [1, 3], "split_score": 0.5097056981641473}
+{"sent": "horse closest to us", "ann_id": 59168, "best_split": [1, 3], "split_score": 0.5097056981641473}

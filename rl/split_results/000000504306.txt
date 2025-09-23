@@ -1,0 +1,6 @@
+{"sent": "man in blue", "ann_id": 229110, "best_split": [2, 2], "split_score": 0.25323502856957303}
+{"sent": "dark blue shirt", "ann_id": 229110, "best_split": [2, 2], "split_score": 0.25323502856957303}
+{"sent": "man in dark blue", "ann_id": 229110, "best_split": [3, 2], "split_score": 0.18906999039414477}
+{"sent": "man with hands spread light blue shirt white pants", "ann_id": 225625, "best_split": [3, 3], "split_score": 0.3292372881007164}
+{"sent": "brightest shirt", "ann_id": 225625, "best_split": [3, 3], "split_score": 0.3292372881007164}
+{"sent": "light blue shirt", "ann_id": 225625, "best_split": [3, 3], "split_score": 0.3292372881007164}

@@ -1,0 +1,3 @@
+{"sent": "blue eyes open cat", "ann_id": 1816360, "best_split": [2, 2], "split_score": 0.37863033343588065}
+{"sent": "brown cat", "ann_id": 1816360, "best_split": [1, 2], "split_score": 0.2912690839607804}
+{"sent": "in windwo", "ann_id": 1816360, "best_split": [2, 1], "split_score": 0.7260841836445279}

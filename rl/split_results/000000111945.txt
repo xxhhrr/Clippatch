@@ -1,0 +1,6 @@
+{"sent": "cow half visible", "ann_id": 71279, "best_split": [3, 2], "split_score": 0.20592459603178415}
+{"sent": "cow out of frame 9 o clock", "ann_id": 71279, "best_split": [3, 2], "split_score": 0.20592459603178415}
+{"sent": "the back of the couch you cant see", "ann_id": 71279, "best_split": [1, 5], "split_score": 0.5221185064405318}
+{"sent": "cow", "ann_id": 70491, "best_split": [1, 3], "split_score": 0.41368515204568185}
+{"sent": "brown and white cow", "ann_id": 70491, "best_split": [1, 3], "split_score": 0.41368515204568185}
+{"sent": "cow", "ann_id": 70491, "best_split": [1, 3], "split_score": 0.41368515204568185}

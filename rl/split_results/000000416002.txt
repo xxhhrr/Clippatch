@@ -1,0 +1,6 @@
+{"sent": "smaller computer no keyboard", "ann_id": 35478, "best_split": [3, 1], "split_score": 0.2366412213607633}
+{"sent": "screen with legs on base", "ann_id": 35478, "best_split": [1, 2], "split_score": 0.2174744897872499}
+{"sent": "smaller monitor", "ann_id": 35478, "best_split": [3, 1], "split_score": 0.2366412213607633}
+{"sent": "bigger monitor", "ann_id": 33881, "best_split": [3, 2], "split_score": 0.3791277817319519}
+{"sent": "apple computer", "ann_id": 33881, "best_split": [3, 2], "split_score": 0.3791277817319519}
+{"sent": "bigger monitor", "ann_id": 33881, "best_split": [3, 2], "split_score": 0.3791277817319519}

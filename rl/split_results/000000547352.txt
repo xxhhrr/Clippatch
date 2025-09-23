@@ -1,0 +1,6 @@
+{"sent": "car looking at giraffe", "ann_id": 1341959, "best_split": [2, 2], "split_score": 0.2353861804338848}
+{"sent": "back of jeep", "ann_id": 1341959, "best_split": [1, 5], "split_score": 0.2928345834689267}
+{"sent": "vehicle with back showing", "ann_id": 1341959, "best_split": [5, 1], "split_score": 0.18747167072908424}
+{"sent": "white jeap facing us", "ann_id": 347255, "best_split": [2, 2], "split_score": 0.3223231057981901}
+{"sent": "white vehicle", "ann_id": 347255, "best_split": [2, 2], "split_score": 0.3223231057981901}
+{"sent": "white car", "ann_id": 347255, "best_split": [2, 2], "split_score": 0.3223231057981901}

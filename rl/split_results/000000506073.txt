@@ -1,0 +1,6 @@
+{"sent": "black shirt playing the game", "ann_id": 230440, "best_split": [2, 3], "split_score": 0.8043862383531456}
+{"sent": "boy gamer", "ann_id": 230440, "best_split": [2, 1], "split_score": 0.3485452607339408}
+{"sent": "guy holding a game controller", "ann_id": 230440, "best_split": [2, 1], "split_score": 0.3485452607339408}
+{"sent": "chick in high chair but do not click her leg", "ann_id": 228996, "best_split": [1, 5], "split_score": 0.4367856514474428}
+{"sent": "woman", "ann_id": 228996, "best_split": [1, 5], "split_score": 0.4367856514474428}
+{"sent": "the woman", "ann_id": 228996, "best_split": [1, 5], "split_score": 0.4367856514474428}

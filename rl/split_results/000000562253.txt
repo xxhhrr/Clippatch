@@ -1,0 +1,6 @@
+{"sent": "man waiting to cross with bag across his chest", "ann_id": 1711638, "best_split": [3, 1], "split_score": 0.046823100822520995}
+{"sent": "man with bag over shoulder in background", "ann_id": 1711638, "best_split": [2, 2], "split_score": 0.2362882652872857}
+{"sent": "man with bag", "ann_id": 1711638, "best_split": [3, 1], "split_score": 0.046823100822520995}
+{"sent": "man in suit and sunglasses", "ann_id": 441039, "best_split": [1, 3], "split_score": 0.7212240008319054}
+{"sent": "man alone", "ann_id": 441039, "best_split": [1, 3], "split_score": 0.7212240008319054}
+{"sent": "tie", "ann_id": 441039, "best_split": [1, 3], "split_score": 0.7212240008319054}

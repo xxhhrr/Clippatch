@@ -1,0 +1,5 @@
+{"sent": "red shirt leaning on table", "ann_id": 428184, "best_split": [1, 2], "split_score": 0.43028539539101224}
+{"sent": "plain red shirt", "ann_id": 428184, "best_split": [3, 2], "split_score": 0.4916751348009321}
+{"sent": "open mouth", "ann_id": 428184, "best_split": [1, 2], "split_score": 0.43028539539101224}
+{"sent": "man looking down", "ann_id": 421432, "best_split": [3, 1], "split_score": 0.22168963450219595}
+{"sent": "red plaid", "ann_id": 421432, "best_split": [1, 3], "split_score": 0.561084983016456}

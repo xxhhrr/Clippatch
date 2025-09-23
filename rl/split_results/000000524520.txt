@@ -1,0 +1,6 @@
+{"sent": "car furthest from us", "ann_id": 353518, "best_split": [3, 1], "split_score": 0.39799882281353743}
+{"sent": "upper portion of further car", "ann_id": 353518, "best_split": [3, 1], "split_score": 0.39799882281353743}
+{"sent": "car near red light", "ann_id": 353518, "best_split": [3, 1], "split_score": 0.39799882281353743}
+{"sent": "the car away furthest away from light", "ann_id": 353258, "best_split": [5, 1], "split_score": 0.774647887261952}
+{"sent": "nearer car", "ann_id": 353258, "best_split": [5, 1], "split_score": 0.774647887261952}
+{"sent": "car near the camera man", "ann_id": 353258, "best_split": [5, 1], "split_score": 0.774647887261952}

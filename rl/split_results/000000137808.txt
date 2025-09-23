@@ -1,0 +1,6 @@
+{"sent": "mom and baby", "ann_id": 203075, "best_split": [2, 1], "split_score": 0.49408638564856755}
+{"sent": "older person", "ann_id": 203075, "best_split": [1, 2], "split_score": 0.3765360983012544}
+{"sent": "woman cutting nails", "ann_id": 203075, "best_split": [2, 1], "split_score": 0.49408638564856755}
+{"sent": "baby", "ann_id": 185533, "best_split": [2, 3], "split_score": 0.46424090335129853}
+{"sent": "child", "ann_id": 185533, "best_split": [2, 3], "split_score": 0.46424090335129853}
+{"sent": "baby", "ann_id": 185533, "best_split": [2, 3], "split_score": 0.46424090335129853}

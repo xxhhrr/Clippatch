@@ -1,0 +1,6 @@
+{"sent": "car cant see it all", "ann_id": 138162, "best_split": [2, 2], "split_score": 0.38196627605158856}
+{"sent": "half car", "ann_id": 138162, "best_split": [3, 3], "split_score": 0.4433207901642379}
+{"sent": "hidden car", "ann_id": 138162, "best_split": [2, 2], "split_score": 0.38196627605158856}
+{"sent": "full old car", "ann_id": 135385, "best_split": [2, 1], "split_score": 0.5141504396242871}
+{"sent": "close car", "ann_id": 135385, "best_split": [2, 1], "split_score": 0.5141504396242871}
+{"sent": "full car", "ann_id": 135385, "best_split": [2, 1], "split_score": 0.5141504396242871}

@@ -1,0 +1,7 @@
+{"sent": "light donut closest to pole", "ann_id": 1925211, "best_split": [1, 2], "split_score": 0.18040497448260503}
+{"sent": "donut at 3 o clock", "ann_id": 1925211, "best_split": [3, 1], "split_score": 0.2683014785269683}
+{"sent": "cake at 3 o clock", "ann_id": 1925211, "best_split": [3, 1], "split_score": 0.2683014785269683}
+{"sent": "brown donut closest to camera", "ann_id": 1573841, "best_split": [2, 1], "split_score": 0.18694196427826285}
+{"sent": "brown round object", "ann_id": 1573841, "best_split": [2, 1], "split_score": 0.18694196427826285}
+{"sent": "chocolate pastry next to chocolate donut", "ann_id": 1573666, "best_split": [3, 3], "split_score": 0.6272526081841207}
+{"sent": "black fuzzy", "ann_id": 1573666, "best_split": [3, 3], "split_score": 0.6272526081841207}

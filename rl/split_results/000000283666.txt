@@ -1,0 +1,6 @@
+{"sent": "horse in lead", "ann_id": 53842, "best_split": [3, 2], "split_score": 0.4580467674928231}
+{"sent": "horse leading", "ann_id": 53842, "best_split": [3, 2], "split_score": 0.4580467674928231}
+{"sent": "horse in the lead", "ann_id": 53842, "best_split": [3, 2], "split_score": 0.4580467674928231}
+{"sent": "green horse", "ann_id": 53634, "best_split": [3, 3], "split_score": 0.45391037651610916}
+{"sent": "horse that will lose", "ann_id": 53634, "best_split": [3, 3], "split_score": 0.45391037651610916}
+{"sent": "horse under green shirt jockey", "ann_id": 53634, "best_split": [3, 3], "split_score": 0.45391037651610916}

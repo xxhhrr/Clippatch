@@ -1,0 +1,3 @@
+{"sent": "orange pot further away", "ann_id": 1607831, "best_split": [3, 2], "split_score": 0.29834142391804797}
+{"sent": "orange pot", "ann_id": 1607831, "best_split": [3, 2], "split_score": 0.29834142391804797}
+{"sent": "potted plant by real plant", "ann_id": 1607831, "best_split": [1, 5], "split_score": 0.28384279473452967}

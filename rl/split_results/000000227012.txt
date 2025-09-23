@@ -1,0 +1,6 @@
+{"sent": "man with blue plaid jacket", "ann_id": 475546, "best_split": [1, 2], "split_score": 0.6731391585533596}
+{"sent": "blue hoodie", "ann_id": 475546, "best_split": [1, 2], "split_score": 0.6731391585533596}
+{"sent": "blue", "ann_id": 475546, "best_split": [1, 2], "split_score": 0.6731391585533596}
+{"sent": "man in black", "ann_id": 428506, "best_split": [1, 2], "split_score": 0.8659917091491552}
+{"sent": "black jacket", "ann_id": 428506, "best_split": [1, 3], "split_score": 0.6992901508119215}
+{"sent": "man not wearing hoodie", "ann_id": 428506, "best_split": [2, 1], "split_score": 0.31146346928755425}

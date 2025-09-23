@@ -1,0 +1,5 @@
+{"sent": "farthest one", "ann_id": 366532, "best_split": [1, 3], "split_score": 0.3266090297594495}
+{"sent": "red bus closer to brown building", "ann_id": 366532, "best_split": [3, 3], "split_score": 0.7256748272558576}
+{"sent": "bus with whiter headlights", "ann_id": 366507, "best_split": [1, 5], "split_score": 0.27738640363883527}
+{"sent": "bus closest to tree", "ann_id": 366507, "best_split": [1, 5], "split_score": 0.27738640363883527}
+{"sent": "showing most of bus", "ann_id": 366507, "best_split": [1, 5], "split_score": 0.27738640363883527}

@@ -1,0 +1,5 @@
+{"sent": "blurry guy arm kinda out of pic", "ann_id": 538475, "best_split": [1, 5], "split_score": 0.5174512986487976}
+{"sent": "cut off guy next to glass", "ann_id": 538475, "best_split": [1, 5], "split_score": 0.5174512986487976}
+{"sent": "hand cutting the cake", "ann_id": 523615, "best_split": [2, 1], "split_score": 0.18474842766776875}
+{"sent": "women cutting cake", "ann_id": 523615, "best_split": [2, 1], "split_score": 0.18474842766776875}
+{"sent": "hand cutting", "ann_id": 523615, "best_split": [1, 2], "split_score": 0.6819196428299618}

@@ -1,0 +1,6 @@
+{"sent": "the white chair", "ann_id": 106278, "best_split": [2, 2], "split_score": 0.6586345381036267}
+{"sent": "chair with cat", "ann_id": 106278, "best_split": [2, 2], "split_score": 0.6586345381036267}
+{"sent": "chair cat is in", "ann_id": 106278, "best_split": [2, 2], "split_score": 0.6586345381036267}
+{"sent": "wooden chair", "ann_id": 100670, "best_split": [2, 3], "split_score": 0.5459610027312016}
+{"sent": "empty chair facing cat", "ann_id": 100670, "best_split": [2, 3], "split_score": 0.5459610027312016}
+{"sent": "the lonely chair", "ann_id": 100670, "best_split": [2, 3], "split_score": 0.5459610027312016}

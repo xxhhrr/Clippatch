@@ -1,0 +1,6 @@
+{"sent": "blue shorts", "ann_id": 504363, "best_split": [3, 3], "split_score": 0.42255531755486164}
+{"sent": "person without a head", "ann_id": 504363, "best_split": [3, 1], "split_score": 0.14176245209879296}
+{"sent": "man next to dog", "ann_id": 504363, "best_split": [1, 5], "split_score": 0.25324675322105855}
+{"sent": "brown haired man", "ann_id": 452665, "best_split": [3, 2], "split_score": 0.4759620625230609}
+{"sent": "tan shorts man", "ann_id": 452665, "best_split": [3, 2], "split_score": 0.4759620625230609}
+{"sent": "man in gray shorts", "ann_id": 452665, "best_split": [3, 2], "split_score": 0.4759620625230609}

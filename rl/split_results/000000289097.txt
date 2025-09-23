@@ -1,0 +1,8 @@
+{"sent": "chair with bird", "ann_id": 289746, "best_split": [2, 1], "split_score": 0.6512214551031856}
+{"sent": "chair bird is perched on", "ann_id": 289746, "best_split": [2, 1], "split_score": 0.6512214551031856}
+{"sent": "basket", "ann_id": 289746, "best_split": [2, 1], "split_score": 0.6512214551031856}
+{"sent": "chair behind bird", "ann_id": 289630, "best_split": [3, 3], "split_score": 0.3335946687246575}
+{"sent": "what the bird is obscuring", "ann_id": 289630, "best_split": [2, 3], "split_score": 0.4418686336106543}
+{"sent": "fartest chair", "ann_id": 103799, "best_split": [2, 3], "split_score": 0.5939237898461458}
+{"sent": "farthest chair", "ann_id": 103799, "best_split": [3, 3], "split_score": 0.5845114474434491}
+{"sent": "chair is blurry in background around 2pm", "ann_id": 103799, "best_split": [3, 2], "split_score": 0.6033357504813699}

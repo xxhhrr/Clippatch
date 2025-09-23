@@ -1,0 +1,12 @@
+{"sent": "white shirt with design", "ann_id": 484411, "best_split": [2, 2], "split_score": 0.24381677153199058}
+{"sent": "guy in white shirt white hat and black shorts", "ann_id": 484411, "best_split": [3, 2], "split_score": 0.2256637167924525}
+{"sent": "man with racket on ground", "ann_id": 484411, "best_split": [3, 2], "split_score": 0.19823208574400675}
+{"sent": "pants", "ann_id": 460468, "best_split": [1, 5], "split_score": 0.35091547288199265}
+{"sent": "pants", "ann_id": 460468, "best_split": [1, 5], "split_score": 0.35091547288199265}
+{"sent": "white shirt long pants", "ann_id": 460468, "best_split": [1, 5], "split_score": 0.35091547288199265}
+{"sent": "blue", "ann_id": 2167164, "best_split": [1, 5], "split_score": 0.43115012818789206}
+{"sent": "blue shirt", "ann_id": 2167164, "best_split": [1, 5], "split_score": 0.43115012818789206}
+{"sent": "man in blue shirt", "ann_id": 2167164, "best_split": [1, 5], "split_score": 0.43115012818789206}
+{"sent": "brown shorts", "ann_id": 2160975, "best_split": [2, 3], "split_score": 0.35476463830969995}
+{"sent": "man holding up a tennis racket", "ann_id": 2160975, "best_split": [2, 3], "split_score": 0.35476463830969995}
+{"sent": "man holding a racket", "ann_id": 2160975, "best_split": [2, 3], "split_score": 0.35476463830969995}

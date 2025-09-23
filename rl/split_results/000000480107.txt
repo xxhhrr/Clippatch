@@ -1,0 +1,6 @@
+{"sent": "blue car", "ann_id": 1778051, "best_split": [1, 5], "split_score": 0.31444367654117444}
+{"sent": "blue car by bus", "ann_id": 1778051, "best_split": [1, 2], "split_score": 0.13783482142307737}
+{"sent": "blue car near school sign", "ann_id": 1778051, "best_split": [1, 5], "split_score": 0.31444367654117444}
+{"sent": "running car next to bus", "ann_id": 344689, "best_split": [3, 1], "split_score": 0.02966921119441887}
+{"sent": "black car by bus", "ann_id": 344689, "best_split": [2, 1], "split_score": 0.14576690050439386}
+{"sent": "black car", "ann_id": 344689, "best_split": [3, 3], "split_score": 0.5073444461945297}

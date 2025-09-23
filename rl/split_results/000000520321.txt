@@ -1,0 +1,9 @@
+{"sent": "blue and white vase closest to us", "ann_id": 1157267, "best_split": [1, 3], "split_score": 0.6853584137933219}
+{"sent": "closest vase", "ann_id": 1157267, "best_split": [1, 3], "split_score": 0.6853584137933219}
+{"sent": "closest vase", "ann_id": 1157267, "best_split": [1, 3], "split_score": 0.6853584137933219}
+{"sent": "closet vase not cut off", "ann_id": 1153750, "best_split": [2, 1], "split_score": 0.09594882728845763}
+{"sent": "nearest whole vase", "ann_id": 1153750, "best_split": [2, 2], "split_score": 0.07806691449295891}
+{"sent": "vase partially hidden by flower pot", "ann_id": 1153750, "best_split": [1, 5], "split_score": 0.27536231881466566}
+{"sent": "closest tree to you", "ann_id": 21051, "best_split": [2, 3], "split_score": 0.5303016897699458}
+{"sent": "shrub", "ann_id": 21051, "best_split": [2, 3], "split_score": 0.5303016897699458}
+{"sent": "closest bush", "ann_id": 21051, "best_split": [2, 3], "split_score": 0.5303016897699458}

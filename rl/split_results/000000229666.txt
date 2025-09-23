@@ -1,0 +1,6 @@
+{"sent": "chair by smaller table", "ann_id": 378841, "best_split": [2, 3], "split_score": 0.28877935630726015}
+{"sent": "chair with black cushion closest to lamp", "ann_id": 378841, "best_split": [3, 2], "split_score": 0.25908790480038824}
+{"sent": "chair under lamp", "ann_id": 378841, "best_split": [2, 3], "split_score": 0.28877935630726015}
+{"sent": "closest chair", "ann_id": 375917, "best_split": [2, 3], "split_score": 0.42974470607265536}
+{"sent": "chair with back facing camera", "ann_id": 375917, "best_split": [2, 3], "split_score": 0.42974470607265536}
+{"sent": "closest chair", "ann_id": 375917, "best_split": [2, 3], "split_score": 0.42974470607265536}

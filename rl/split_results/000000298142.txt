@@ -1,0 +1,5 @@
+{"sent": "bananas edge", "ann_id": 1045682, "best_split": [3, 2], "split_score": 0.38272200767582987}
+{"sent": "bananas in corner", "ann_id": 1045682, "best_split": [3, 2], "split_score": 0.38272200767582987}
+{"sent": "bananas next to bear closest to us", "ann_id": 1041439, "best_split": [2, 3], "split_score": 0.39553626778889944}
+{"sent": "closest bananas", "ann_id": 1041439, "best_split": [2, 3], "split_score": 0.39553626778889944}
+{"sent": "bananas on this side of pink thing", "ann_id": 1041439, "best_split": [2, 3], "split_score": 0.39553626778889944}

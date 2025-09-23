@@ -1,0 +1,6 @@
+{"sent": "guy behind the bike", "ann_id": 206435, "best_split": [1, 3], "split_score": 0.2924773396286313}
+{"sent": "man in black not on bike", "ann_id": 206435, "best_split": [1, 3], "split_score": 0.2924773396286313}
+{"sent": "man", "ann_id": 206435, "best_split": [1, 3], "split_score": 0.2924773396286313}
+{"sent": "woman on bike", "ann_id": 201122, "best_split": [3, 2], "split_score": 0.44281914889936674}
+{"sent": "bike rider", "ann_id": 201122, "best_split": [3, 2], "split_score": 0.44281914889936674}
+{"sent": "woman riding", "ann_id": 201122, "best_split": [3, 2], "split_score": 0.44281914889936674}

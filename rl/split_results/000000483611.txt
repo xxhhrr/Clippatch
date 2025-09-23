@@ -1,0 +1,6 @@
+{"sent": "rice", "ann_id": 1039707, "best_split": [1, 2], "split_score": 0.5974258970125809}
+{"sent": "bowl of rice", "ann_id": 1039707, "best_split": [1, 2], "split_score": 0.5974258970125809}
+{"sent": "brown rice", "ann_id": 1039707, "best_split": [1, 2], "split_score": 0.5974258970125809}
+{"sent": "bowl you can barley see inside", "ann_id": 717402, "best_split": [3, 3], "split_score": 0.5624543461354173}
+{"sent": "bowl behind chicken", "ann_id": 717402, "best_split": [2, 3], "split_score": 0.3716216215767831}
+{"sent": "bowl mostly hidden", "ann_id": 717402, "best_split": [3, 3], "split_score": 0.5624543461354173}

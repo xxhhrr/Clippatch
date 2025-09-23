@@ -1,0 +1,6 @@
+{"sent": "walk dont walk sign", "ann_id": 1807708, "best_split": [3, 2], "split_score": 0.47934852028109975}
+{"sent": "walking sign", "ann_id": 1807708, "best_split": [3, 2], "split_score": 0.47934852028109975}
+{"sent": "walk signal", "ann_id": 1807708, "best_split": [3, 1], "split_score": 0.25466576177725}
+{"sent": "traffic light", "ann_id": 409966, "best_split": [1, 5], "split_score": 0.45845740078201347}
+{"sent": "red light", "ann_id": 409966, "best_split": [1, 5], "split_score": 0.45845740078201347}
+{"sent": "red light", "ann_id": 409966, "best_split": [1, 5], "split_score": 0.45845740078201347}

@@ -1,0 +1,5 @@
+{"sent": "back zebra", "ann_id": 590212, "best_split": [2, 3], "split_score": 0.4390896920597543}
+{"sent": "furthest zebra", "ann_id": 590212, "best_split": [2, 3], "split_score": 0.4390896920597543}
+{"sent": "closer zebra", "ann_id": 589283, "best_split": [3, 2], "split_score": 0.432253570146965}
+{"sent": "closest zebro", "ann_id": 589283, "best_split": [3, 2], "split_score": 0.432253570146965}
+{"sent": "closest", "ann_id": 589283, "best_split": [2, 2], "split_score": 0.340238218517592}

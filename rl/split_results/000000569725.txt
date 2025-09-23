@@ -1,0 +1,5 @@
+{"sent": "red chair", "ann_id": 2124210, "best_split": [5, 1], "split_score": 0.5841778615300355}
+{"sent": "chair closest to us almost outta view", "ann_id": 2124210, "best_split": [3, 2], "split_score": 0.4763038818388264}
+{"sent": "closer leather chair", "ann_id": 2124210, "best_split": [3, 1], "split_score": 0.6055538966494145}
+{"sent": "wood chair closer to us", "ann_id": 106055, "best_split": [1, 5], "split_score": 0.22727272724966793}
+{"sent": "chair with purse", "ann_id": 106055, "best_split": [1, 5], "split_score": 0.22727272724966793}

@@ -1,0 +1,5 @@
+{"sent": "woman in white with silver hair", "ann_id": 228001, "best_split": [2, 2], "split_score": 0.7013711734134749}
+{"sent": "lady closest", "ann_id": 228001, "best_split": [2, 2], "split_score": 0.7013711734134749}
+{"sent": "girl in blue short closet to us", "ann_id": 239021, "best_split": [1, 5], "split_score": 0.449958088813918}
+{"sent": "white shirt blue shorts near us", "ann_id": 239021, "best_split": [1, 5], "split_score": 0.449958088813918}
+{"sent": "lady with hands on face", "ann_id": 239021, "best_split": [3, 1], "split_score": 0.23143970466409763}

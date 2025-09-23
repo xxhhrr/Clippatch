@@ -1,0 +1,5 @@
+{"sent": "blue bike showing engine the most", "ann_id": 1792807, "best_split": [2, 3], "split_score": 0.42138514716636244}
+{"sent": "clue bike at 400", "ann_id": 1792807, "best_split": [1, 5], "split_score": 0.32808347275045935}
+{"sent": "blue bike in foreground", "ann_id": 1792807, "best_split": [1, 5], "split_score": 0.32808347275045935}
+{"sent": "bike behind the zanalla", "ann_id": 1361473, "best_split": [3, 1], "split_score": 0.20838087334257957}
+{"sent": "cycle above the one closest to us", "ann_id": 1361473, "best_split": [1, 2], "split_score": 0.13452211126481733}

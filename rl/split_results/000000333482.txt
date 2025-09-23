@@ -1,0 +1,16 @@
+{"sent": "the item the man is holding", "ann_id": 1829622, "best_split": [2, 2], "split_score": 0.5326092472957108}
+{"sent": "the umbrella of the african american", "ann_id": 1829622, "best_split": [2, 2], "split_score": 0.5326092472957108}
+{"sent": "the umbrella that the woman with white pants is holding", "ann_id": 1425361, "best_split": [3, 2], "split_score": 0.6178107605962649}
+{"sent": "the umbrella closest to you", "ann_id": 1425361, "best_split": [3, 2], "split_score": 0.6178107605962649}
+{"sent": "umbrella of woman looking away", "ann_id": 1425301, "best_split": [2, 1], "split_score": 0.368303571413891}
+{"sent": "unbrella of woman farthest from us", "ann_id": 1425301, "best_split": [2, 1], "split_score": 0.368303571413891}
+{"sent": "farhest womans umbrella", "ann_id": 1425301, "best_split": [2, 1], "split_score": 0.368303571413891}
+{"sent": "woman barely visible", "ann_id": 490011, "best_split": [2, 1], "split_score": 0.22953606994688072}
+{"sent": "more tan coat on edge", "ann_id": 490011, "best_split": [1, 3], "split_score": 0.9049434186477103}
+{"sent": "dark brown jacket", "ann_id": 490011, "best_split": [2, 3], "split_score": 0.48499091304850594}
+{"sent": "woman looking away", "ann_id": 485001, "best_split": [1, 2], "split_score": 0.7421874999704167}
+{"sent": "the lady with the crazy hair", "ann_id": 485001, "best_split": [1, 2], "split_score": 0.7421874999704167}
+{"sent": "woman at 9 o clock", "ann_id": 485001, "best_split": [1, 2], "split_score": 0.7421874999704167}
+{"sent": "black woman", "ann_id": 476414, "best_split": [1, 2], "split_score": 0.4396049222655568}
+{"sent": "black guy", "ann_id": 476414, "best_split": [1, 3], "split_score": 0.5207531203502961}
+{"sent": "african american", "ann_id": 476414, "best_split": [1, 2], "split_score": 0.4396049222655568}

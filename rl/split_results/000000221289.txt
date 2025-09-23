@@ -1,0 +1,11 @@
+{"sent": "blurry blond", "ann_id": 2161472, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "blurry blond girl", "ann_id": 2161472, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "blurry man", "ann_id": 2161472, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "blurry face above teddy bears head", "ann_id": 1707122, "best_split": [2, 3], "split_score": 0.202791822356255}
+{"sent": "blurry face with teddy", "ann_id": 1707122, "best_split": [2, 3], "split_score": 0.202791822356255}
+{"sent": "click the area directly above the teddy bears head", "ann_id": 1707122, "best_split": [2, 3], "split_score": 0.202791822356255}
+{"sent": "partial face", "ann_id": 492550, "best_split": [2, 3], "split_score": 0.46954344969966105}
+{"sent": "corner face", "ann_id": 492550, "best_split": [2, 2], "split_score": 0.32206632650493733}
+{"sent": "she is holding a bear", "ann_id": 435384, "best_split": [2, 1], "split_score": 0.34026365148494797}
+{"sent": "girl holding bear", "ann_id": 435384, "best_split": [2, 1], "split_score": 0.34026365148494797}
+{"sent": "woman full face visible", "ann_id": 435384, "best_split": [1, 2], "split_score": 0.9527713625499318}

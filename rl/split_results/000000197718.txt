@@ -1,0 +1,9 @@
+{"sent": "boy holding controler", "ann_id": 209951, "best_split": [1, 2], "split_score": 0.5829480229359475}
+{"sent": "man with hands up", "ann_id": 209951, "best_split": [1, 3], "split_score": 0.8604138095008995}
+{"sent": "guy holding remote", "ann_id": 209951, "best_split": [1, 2], "split_score": 0.5829480229359475}
+{"sent": "man with white tshirt", "ann_id": 205687, "best_split": [1, 5], "split_score": 0.8143555053725708}
+{"sent": "white shirt smiling", "ann_id": 205687, "best_split": [1, 5], "split_score": 0.8143555053725708}
+{"sent": "man in white shirt", "ann_id": 205687, "best_split": [1, 5], "split_score": 0.8143555053725708}
+{"sent": "glasses", "ann_id": 191857, "best_split": [1, 2], "split_score": 0.4324776785541901}
+{"sent": "guy with glasses", "ann_id": 191857, "best_split": [1, 2], "split_score": 0.4324776785541901}
+{"sent": "black shirt", "ann_id": 191857, "best_split": [1, 5], "split_score": 0.5503144653676014}

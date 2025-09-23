@@ -1,0 +1,5 @@
+{"sent": "on bike further awaycop", "ann_id": 1264311, "best_split": [1, 2], "split_score": 0.14237882652493708}
+{"sent": "farthest police officer on a bike", "ann_id": 1264311, "best_split": [3, 2], "split_score": 0.06846846846230013}
+{"sent": "cop on the bike closest to us", "ann_id": 1207266, "best_split": [1, 3], "split_score": 0.6416785495700917}
+{"sent": "police loset", "ann_id": 1207266, "best_split": [1, 3], "split_score": 0.6416785495700917}
+{"sent": "close cop", "ann_id": 1207266, "best_split": [1, 3], "split_score": 0.6416785495700917}

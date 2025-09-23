@@ -1,0 +1,9 @@
+{"sent": "monitor above power strip", "ann_id": 2194801, "best_split": [3, 2], "split_score": 0.4951737451139993}
+{"sent": "number pad on the keyboard", "ann_id": 1102861, "best_split": [1, 3], "split_score": 0.6001086450178446}
+{"sent": "number pad", "ann_id": 1102861, "best_split": [1, 3], "split_score": 0.6001086450178446}
+{"sent": "smallest laptop", "ann_id": 1101044, "best_split": [1, 3], "split_score": 0.41100955117536153}
+{"sent": "smallest laptop", "ann_id": 1101044, "best_split": [1, 3], "split_score": 0.41100955117536153}
+{"sent": "smaller laptop", "ann_id": 1101044, "best_split": [1, 3], "split_score": 0.41100955117536153}
+{"sent": "screen cut out of frame", "ann_id": 31093, "best_split": [3, 2], "split_score": 0.3974778140591455}
+{"sent": "screen at 1 o clock", "ann_id": 31093, "best_split": [3, 2], "split_score": 0.3974778140591455}
+{"sent": "monitor at 100", "ann_id": 31093, "best_split": [2, 3], "split_score": 0.4302103249963898}

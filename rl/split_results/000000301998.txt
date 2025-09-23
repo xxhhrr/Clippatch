@@ -1,0 +1,6 @@
+{"sent": "sitting", "ann_id": 475556, "best_split": [1, 2], "split_score": 0.39257812498435196}
+{"sent": "lady sitting", "ann_id": 475556, "best_split": [1, 2], "split_score": 0.39257812498435196}
+{"sent": "the girl sitting on the bench", "ann_id": 475556, "best_split": [1, 2], "split_score": 0.39257812498435196}
+{"sent": "woman bent over in brown", "ann_id": 469000, "best_split": [2, 1], "split_score": 0.2799106235953713}
+{"sent": "fat woman in brown", "ann_id": 469000, "best_split": [1, 2], "split_score": 0.7292793852140955}
+{"sent": "woman standing", "ann_id": 469000, "best_split": [1, 2], "split_score": 0.7292793852140955}

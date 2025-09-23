@@ -1,0 +1,6 @@
+{"sent": "man in purple stripped shirt", "ann_id": 222945, "best_split": [2, 1], "split_score": 0.4031811894782854}
+{"sent": "striped shirt", "ann_id": 222945, "best_split": [2, 1], "split_score": 0.371872887076889}
+{"sent": "man with striped shirt", "ann_id": 222945, "best_split": [2, 1], "split_score": 0.4031811894782854}
+{"sent": "all black woman with umbrella", "ann_id": 217085, "best_split": [2, 2], "split_score": 0.23301977038958707}
+{"sent": "woman in black dress close to you", "ann_id": 217085, "best_split": [3, 3], "split_score": 0.483660130633517}
+{"sent": "women in black with umbrella", "ann_id": 217085, "best_split": [3, 2], "split_score": 0.3231441047653553}

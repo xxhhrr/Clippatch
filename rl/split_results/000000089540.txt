@@ -1,0 +1,6 @@
+{"sent": "the elephant you can barley see", "ann_id": 581677, "best_split": [2, 2], "split_score": 0.1960556844405412}
+{"sent": "the elephant you can barley see", "ann_id": 581677, "best_split": [2, 2], "split_score": 0.1960556844405412}
+{"sent": "trunk of unseen", "ann_id": 581677, "best_split": [1, 2], "split_score": 0.1575255101978027}
+{"sent": "elephant", "ann_id": 580308, "best_split": [2, 1], "split_score": 0.48861047834831506}
+{"sent": "full elephant", "ann_id": 580308, "best_split": [2, 1], "split_score": 0.48861047834831506}
+{"sent": "main elephant", "ann_id": 580308, "best_split": [2, 1], "split_score": 0.48861047834831506}

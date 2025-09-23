@@ -1,0 +1,12 @@
+{"sent": "kid", "ann_id": 467078, "best_split": [3, 2], "split_score": 0.5576573298874448}
+{"sent": "little asian kid", "ann_id": 467078, "best_split": [3, 2], "split_score": 0.5576573298874448}
+{"sent": "boy with striped shirt", "ann_id": 467078, "best_split": [3, 1], "split_score": 0.3229920357960027}
+{"sent": "girl in red", "ann_id": 452866, "best_split": [2, 3], "split_score": 0.3703338914241767}
+{"sent": "red shirt", "ann_id": 452866, "best_split": [2, 3], "split_score": 0.3703338914241767}
+{"sent": "girl in red", "ann_id": 452866, "best_split": [2, 3], "split_score": 0.3703338914241767}
+{"sent": "kid in glasses", "ann_id": 452724, "best_split": [1, 2], "split_score": 0.4889727796404027}
+{"sent": "girl stripes", "ann_id": 452724, "best_split": [2, 1], "split_score": 0.5618077884791649}
+{"sent": "striped lounging bespectacled person", "ann_id": 452724, "best_split": [2, 1], "split_score": 0.5618077884791649}
+{"sent": "boy with striped shirt", "ann_id": 380258, "best_split": [3, 1], "split_score": 0.29516074773919165}
+{"sent": "boy sitting", "ann_id": 380258, "best_split": [3, 2], "split_score": 0.39182638523440777}
+{"sent": "boy in stripes", "ann_id": 380258, "best_split": [3, 1], "split_score": 0.29516074773919165}

@@ -1,0 +1,6 @@
+{"sent": "arm with watch", "ann_id": 518651, "best_split": [1, 2], "split_score": 0.22193877550135765}
+{"sent": "man with wrist watch", "ann_id": 518651, "best_split": [3, 1], "split_score": 0.24042124130403197}
+{"sent": "black tshirt", "ann_id": 518651, "best_split": [3, 2], "split_score": 0.4487662065611913}
+{"sent": "the person", "ann_id": 491436, "best_split": [1, 3], "split_score": 0.520858369076358}
+{"sent": "hand on face", "ann_id": 491436, "best_split": [1, 3], "split_score": 0.520858369076358}
+{"sent": "pondering a parking meter with an ugly shirt", "ann_id": 491436, "best_split": [1, 3], "split_score": 0.520858369076358}

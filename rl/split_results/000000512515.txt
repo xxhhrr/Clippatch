@@ -1,0 +1,6 @@
+{"sent": "chair closest to tv", "ann_id": 1934894, "best_split": [2, 2], "split_score": 0.44928757465533264}
+{"sent": "the footstool ottoman thing", "ann_id": 1934894, "best_split": [2, 2], "split_score": 0.44928757465533264}
+{"sent": "chair by lamp", "ann_id": 1934894, "best_split": [2, 2], "split_score": 0.44928757465533264}
+{"sent": "white chair facing away", "ann_id": 1934830, "best_split": [3, 2], "split_score": 0.8226037195013586}
+{"sent": "light armchair", "ann_id": 1934830, "best_split": [3, 2], "split_score": 0.8226037195013586}
+{"sent": "chair in sunlight", "ann_id": 1934830, "best_split": [3, 2], "split_score": 0.8226037195013586}

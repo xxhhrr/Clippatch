@@ -1,0 +1,5 @@
+{"sent": "burger with sauce", "ann_id": 312034, "best_split": [2, 2], "split_score": 0.43232054406503134}
+{"sent": "close burger", "ann_id": 312034, "best_split": [2, 2], "split_score": 0.43232054406503134}
+{"sent": "burger closer", "ann_id": 312034, "best_split": [2, 2], "split_score": 0.43232054406503134}
+{"sent": "sandwich next to red sauce", "ann_id": 311908, "best_split": [1, 5], "split_score": 0.20833333331462522}
+{"sent": "open sandwich close to the beans", "ann_id": 311908, "best_split": [3, 2], "split_score": 0.36753709877285895}

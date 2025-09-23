@@ -1,0 +1,11 @@
+{"sent": "woman flatter hat closest to us", "ann_id": 562666, "best_split": [1, 5], "split_score": 0.45755226219868955}
+{"sent": "lady between 2 men", "ann_id": 562666, "best_split": [1, 5], "split_score": 0.45755226219868955}
+{"sent": "woman between guys", "ann_id": 562666, "best_split": [1, 5], "split_score": 0.45755226219868955}
+{"sent": "highest man with umbrella", "ann_id": 498847, "best_split": [1, 5], "split_score": 0.44361723243561474}
+{"sent": "man standing on platform", "ann_id": 498847, "best_split": [1, 5], "split_score": 0.44361723243561474}
+{"sent": "sitting guy", "ann_id": 488086, "best_split": [2, 3], "split_score": 0.3344412130936392}
+{"sent": "the man that is sitting down by the bride", "ann_id": 488086, "best_split": [2, 3], "split_score": 0.3344412130936392}
+{"sent": "person with hands on lap", "ann_id": 488086, "best_split": [2, 3], "split_score": 0.3344412130936392}
+{"sent": "man in gray pants white shirt under umbrella", "ann_id": 424381, "best_split": [1, 5], "split_score": 0.2646598224930694}
+{"sent": "guy 1", "ann_id": 424381, "best_split": [2, 1], "split_score": 0.13410545564865492}
+{"sent": "man with white shirt and umbrella", "ann_id": 424381, "best_split": [3, 2], "split_score": 0.2507716049140845}

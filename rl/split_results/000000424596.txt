@@ -1,0 +1,9 @@
+{"sent": "the yellow green one", "ann_id": 626922, "best_split": [2, 3], "split_score": 0.5943651099387914}
+{"sent": "yellow umbr", "ann_id": 626922, "best_split": [3, 3], "split_score": 0.4221115950609716}
+{"sent": "yellow and green thingy", "ann_id": 626922, "best_split": [2, 3], "split_score": 0.5943651099387914}
+{"sent": "kite that is cover the tree", "ann_id": 623964, "best_split": [1, 2], "split_score": 0.31808035713017857}
+{"sent": "dragon head", "ann_id": 622469, "best_split": [1, 3], "split_score": 0.6636100385700042}
+{"sent": "kite with dragon color is pink orange yellow green blue", "ann_id": 622469, "best_split": [1, 3], "split_score": 0.6636100385700042}
+{"sent": "orange unbrella", "ann_id": 621668, "best_split": [2, 3], "split_score": 0.5074285713705796}
+{"sent": "orange half triangle", "ann_id": 621668, "best_split": [2, 3], "split_score": 0.5074285713705796}
+{"sent": "the all orange kite", "ann_id": 621668, "best_split": [2, 3], "split_score": 0.5074285713705796}

@@ -1,0 +1,11 @@
+{"sent": "man in button up shirt", "ann_id": 1265445, "best_split": [1, 2], "split_score": 0.8843186733639394}
+{"sent": "man with banana not in hand", "ann_id": 1265445, "best_split": [2, 1], "split_score": 0.34497221077745543}
+{"sent": "guy at 3pm", "ann_id": 1265445, "best_split": [1, 2], "split_score": 0.8843186733639394}
+{"sent": "banana 3", "ann_id": 1042185, "best_split": [3, 3], "split_score": 0.36280750039886395}
+{"sent": "banana 3 o clock", "ann_id": 1042185, "best_split": [3, 2], "split_score": 0.47338493125308917}
+{"sent": "man with beard", "ann_id": 506735, "best_split": [1, 2], "split_score": 0.8374521683339663}
+{"sent": "bearded man", "ann_id": 506735, "best_split": [1, 2], "split_score": 0.8374521683339663}
+{"sent": "beard", "ann_id": 506735, "best_split": [1, 2], "split_score": 0.8374521683339663}
+{"sent": "guy furthest from camera", "ann_id": 460001, "best_split": [1, 3], "split_score": 0.7222475599415193}
+{"sent": "yellow shirt", "ann_id": 460001, "best_split": [1, 2], "split_score": 0.3840401985887408}
+{"sent": "yellow shirt", "ann_id": 460001, "best_split": [1, 2], "split_score": 0.3840401985887408}

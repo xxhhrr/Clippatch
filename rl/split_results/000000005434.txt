@@ -1,0 +1,6 @@
+{"sent": "plan in white pot behind the dog", "ann_id": 25658, "best_split": [1, 2], "split_score": 0.772938868127075}
+{"sent": "plant in garbage can looking pot with flutes", "ann_id": 25658, "best_split": [3, 1], "split_score": 0.2961225334519069}
+{"sent": "white vase plant", "ann_id": 25658, "best_split": [3, 1], "split_score": 0.2961225334519069}
+{"sent": "brown pot closest to us", "ann_id": 20641, "best_split": [1, 2], "split_score": 0.6062285993606317}
+{"sent": "brown flower pot", "ann_id": 20641, "best_split": [1, 2], "split_score": 0.6062285993606317}
+{"sent": "plant in pot", "ann_id": 20641, "best_split": [1, 2], "split_score": 0.6062285993606317}

@@ -1,0 +1,12 @@
+{"sent": "red hat", "ann_id": 540385, "best_split": [2, 2], "split_score": 0.18475750576033795}
+{"sent": "person with black coat and red hat", "ann_id": 540385, "best_split": [2, 2], "split_score": 0.18475750576033795}
+{"sent": "the woman in black with a pink cap", "ann_id": 540385, "best_split": [2, 2], "split_score": 0.18475750576033795}
+{"sent": "black jacket lady", "ann_id": 510026, "best_split": [1, 5], "split_score": 0.5683055232829208}
+{"sent": "all black dressed young lady", "ann_id": 510026, "best_split": [1, 5], "split_score": 0.5683055232829208}
+{"sent": "woman in black", "ann_id": 510026, "best_split": [1, 5], "split_score": 0.5683055232829208}
+{"sent": "green bag", "ann_id": 508567, "best_split": [2, 2], "split_score": 0.2092760180847514}
+{"sent": "woman walking with red jacket and green bag", "ann_id": 508567, "best_split": [3, 2], "split_score": 0.29935275077878715}
+{"sent": "person with the green bag", "ann_id": 508567, "best_split": [3, 1], "split_score": 0.1628521126670966}
+{"sent": "white sweater", "ann_id": 497131, "best_split": [1, 3], "split_score": 0.35635859071209225}
+{"sent": "woman in white", "ann_id": 497131, "best_split": [1, 3], "split_score": 0.35635859071209225}
+{"sent": "white jacket", "ann_id": 497131, "best_split": [1, 3], "split_score": 0.35635859071209225}

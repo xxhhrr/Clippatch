@@ -1,0 +1,6 @@
+{"sent": "dog with most onions", "ann_id": 1070148, "best_split": [2, 2], "split_score": 0.39987244894771423}
+{"sent": "hotdog 1", "ann_id": 1070148, "best_split": [2, 3], "split_score": 0.6052123551393325}
+{"sent": "hotdog cut off", "ann_id": 1070148, "best_split": [2, 3], "split_score": 0.6052123551393325}
+{"sent": "hot dog nearest chips", "ann_id": 1070010, "best_split": [3, 2], "split_score": 0.48073770486877687}
+{"sent": "hot dog which is not the one at edge of frame", "ann_id": 1070010, "best_split": [3, 2], "split_score": 0.48073770486877687}
+{"sent": "hotdog sandwich near salad", "ann_id": 1070010, "best_split": [3, 2], "split_score": 0.48073770486877687}

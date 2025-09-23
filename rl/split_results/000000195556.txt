@@ -1,0 +1,10 @@
+{"sent": "an antique car with license", "ann_id": 2038932, "best_split": [3, 1], "split_score": 0.24221766407805154}
+{"sent": "black old car", "ann_id": 2038932, "best_split": [3, 2], "split_score": 0.48443532812687795}
+{"sent": "back of old car", "ann_id": 2038932, "best_split": [3, 2], "split_score": 0.48443532812687795}
+{"sent": "vintage car you can see the back of it", "ann_id": 2038932, "best_split": [3, 1], "split_score": 0.24221766407805154}
+{"sent": "back of suv", "ann_id": 1193394, "best_split": [3, 3], "split_score": 0.5049001363968614}
+{"sent": "suv cropped off", "ann_id": 1193394, "best_split": [3, 3], "split_score": 0.5049001363968614}
+{"sent": "close modern vehicle", "ann_id": 1193394, "best_split": [3, 3], "split_score": 0.5049001363968614}
+{"sent": "car with gas can", "ann_id": 2042382, "best_split": [3, 1], "split_score": 0.3576053298133806}
+{"sent": "old car with gas can", "ann_id": 2042382, "best_split": [3, 2], "split_score": 0.5851374174278261}
+{"sent": "old car with red gas can", "ann_id": 2042382, "best_split": [3, 2], "split_score": 0.5851374174278261}

@@ -1,0 +1,18 @@
+{"sent": "short boy behind the afro girl", "ann_id": 1270181, "best_split": [2, 2], "split_score": 0.2499999999812425}
+{"sent": "small boy in blue shirt", "ann_id": 1270181, "best_split": [1, 2], "split_score": 0.1640624999934605}
+{"sent": "kid in blue collar shirt", "ann_id": 1270181, "best_split": [5, 1], "split_score": 0.16317016315657923}
+{"sent": "i got goggles on my forehead", "ann_id": 1248866, "best_split": [3, 2], "split_score": 0.4057673744684161}
+{"sent": "kid with goggles", "ann_id": 1248866, "best_split": [3, 2], "split_score": 0.4057673744684161}
+{"sent": "kid wth goggles on forehead", "ann_id": 1248866, "best_split": [3, 2], "split_score": 0.4057673744684161}
+{"sent": "blue shirt guy", "ann_id": 1244125, "best_split": [1, 2], "split_score": 0.7421077805826647}
+{"sent": "man preparing to light birthday candles", "ann_id": 1244125, "best_split": [1, 2], "split_score": 0.7421077805826647}
+{"sent": "man cutting cake", "ann_id": 1244125, "best_split": [1, 3], "split_score": 0.18794302301397614}
+{"sent": "girl in pink skirt", "ann_id": 1240978, "best_split": [1, 5], "split_score": 0.6145394464589393}
+{"sent": "girl in white and pink dress", "ann_id": 1240978, "best_split": [1, 5], "split_score": 0.6145394464589393}
+{"sent": "flower dress", "ann_id": 1240978, "best_split": [1, 5], "split_score": 0.6145394464589393}
+{"sent": "batman", "ann_id": 1217859, "best_split": [2, 3], "split_score": 0.7583209423815257}
+{"sent": "batman shirt", "ann_id": 1217859, "best_split": [2, 3], "split_score": 0.7583209423815257}
+{"sent": "child with batman shirt", "ann_id": 1217859, "best_split": [2, 3], "split_score": 0.7583209423815257}
+{"sent": "little girl looking at cake", "ann_id": 1210885, "best_split": [2, 2], "split_score": 0.2821595934075533}
+{"sent": "girl sitting with red shirt", "ann_id": 1210885, "best_split": [3, 2], "split_score": 0.3550692273019143}
+{"sent": "bday girl", "ann_id": 1210885, "best_split": [2, 2], "split_score": 0.2821595934075533}

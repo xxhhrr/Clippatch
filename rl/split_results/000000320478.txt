@@ -1,0 +1,6 @@
+{"sent": "man standing on snowboard", "ann_id": 512221, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "legs in black", "ann_id": 512221, "best_split": [1, 3], "split_score": 0.1708607059252388}
+{"sent": "man with black legs can only see legs", "ann_id": 512221, "best_split": [1, 3], "split_score": 0.1708607059252388}
+{"sent": "person sitting", "ann_id": 430916, "best_split": [1, 2], "split_score": 0.6673731454722799}
+{"sent": "sitting", "ann_id": 430916, "best_split": [1, 2], "split_score": 0.6673731454722799}
+{"sent": "man sitting", "ann_id": 430916, "best_split": [1, 2], "split_score": 0.6673731454722799}

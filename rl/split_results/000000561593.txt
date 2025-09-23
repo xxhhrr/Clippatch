@@ -1,0 +1,6 @@
+{"sent": "guy with mask", "ann_id": 1712769, "best_split": [2, 3], "split_score": 0.47659266403516015}
+{"sent": "catcher", "ann_id": 1712769, "best_split": [3, 2], "split_score": 0.43335675797219997}
+{"sent": "catcher", "ann_id": 1712769, "best_split": [3, 2], "split_score": 0.43335675797219997}
+{"sent": "hitter", "ann_id": 465302, "best_split": [2, 3], "split_score": 0.4996385323965626}
+{"sent": "batter", "ann_id": 465302, "best_split": [2, 3], "split_score": 0.4996385323965626}
+{"sent": "batter", "ann_id": 465302, "best_split": [2, 3], "split_score": 0.4996385323965626}

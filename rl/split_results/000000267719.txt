@@ -1,0 +1,4 @@
+{"sent": "largest slice", "ann_id": 1570254, "best_split": [1, 2], "split_score": 0.6364428944821889}
+{"sent": "the pieces furthest away", "ann_id": 1570254, "best_split": [2, 1], "split_score": 0.41981845686907515}
+{"sent": "slice closest", "ann_id": 1569812, "best_split": [3, 1], "split_score": 0.3558883342412697}
+{"sent": "slice of pizze near you", "ann_id": 1569812, "best_split": [3, 1], "split_score": 0.3558883342412697}

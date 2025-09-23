@@ -1,0 +1,11 @@
+{"sent": "man", "ann_id": 199658, "best_split": [1, 5], "split_score": 0.4372810090717168}
+{"sent": "man nearest horse", "ann_id": 199658, "best_split": [3, 2], "split_score": 0.1759112519670435}
+{"sent": "man touching horse", "ann_id": 199658, "best_split": [3, 2], "split_score": 0.1759112519670435}
+{"sent": "woman profile", "ann_id": 183507, "best_split": [1, 5], "split_score": 0.6209059232831353}
+{"sent": "woman", "ann_id": 183507, "best_split": [1, 3], "split_score": 0.3417721518787976}
+{"sent": "red shirt", "ann_id": 183507, "best_split": [1, 5], "split_score": 0.6209059232831353}
+{"sent": "horse in the sun", "ann_id": 55256, "best_split": [5, 1], "split_score": 0.12582133369734227}
+{"sent": "brown and white horse", "ann_id": 55256, "best_split": [3, 1], "split_score": 0.19345393703892846}
+{"sent": "animal near the building", "ann_id": 53881, "best_split": [1, 2], "split_score": 0.7260841836445279}
+{"sent": "big horse", "ann_id": 53881, "best_split": [1, 3], "split_score": 0.7275074478288228}
+{"sent": "biggest animal", "ann_id": 53881, "best_split": [1, 3], "split_score": 0.7275074478288228}

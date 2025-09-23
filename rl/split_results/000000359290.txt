@@ -1,0 +1,5 @@
+{"sent": "all black horse facing us", "ann_id": 274217, "best_split": [1, 5], "split_score": 0.4036120129460621}
+{"sent": "black horse", "ann_id": 274217, "best_split": [1, 5], "split_score": 0.4036120129460621}
+{"sent": "black horse facing us", "ann_id": 274217, "best_split": [1, 5], "split_score": 0.4036120129460621}
+{"sent": "brown horse 1", "ann_id": 53769, "best_split": [3, 2], "split_score": 0.27671022287887104}
+{"sent": "smallest brown horse", "ann_id": 53769, "best_split": [3, 2], "split_score": 0.27671022287887104}

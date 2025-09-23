@@ -1,0 +1,9 @@
+{"sent": "dark area next to girl with shortest hair", "ann_id": 471602, "best_split": [1, 3], "split_score": 0.39226683380976324}
+{"sent": "black area behind girls", "ann_id": 471602, "best_split": [2, 1], "split_score": 0.3402663988492979}
+{"sent": "jacket", "ann_id": 471602, "best_split": [1, 2], "split_score": 0.7133927967864926}
+{"sent": "girl with hairbows", "ann_id": 460495, "best_split": [1, 2], "split_score": 0.5161830356937108}
+{"sent": "girl farther away", "ann_id": 460495, "best_split": [1, 2], "split_score": 0.5161830356937108}
+{"sent": "girl", "ann_id": 460495, "best_split": [1, 2], "split_score": 0.5161830356937108}
+{"sent": "smiling at camera", "ann_id": 430222, "best_split": [1, 3], "split_score": 0.5800277152009342}
+{"sent": "smiling boy", "ann_id": 430222, "best_split": [1, 3], "split_score": 0.5800277152009342}
+{"sent": "girl nearest us", "ann_id": 430222, "best_split": [1, 3], "split_score": 0.5800277152009342}

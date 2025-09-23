@@ -1,0 +1,12 @@
+{"sent": "female reporter in blue", "ann_id": 1326857, "best_split": [3, 2], "split_score": 0.3974778140591455}
+{"sent": "brunette brown hair no red scarf", "ann_id": 1326857, "best_split": [1, 5], "split_score": 0.2332361515822489}
+{"sent": "lady in blue shirt", "ann_id": 1326857, "best_split": [2, 3], "split_score": 0.39033457244536074}
+{"sent": "man in blue next to blond and by speaker", "ann_id": 1325226, "best_split": [2, 2], "split_score": 0.3061224489551879}
+{"sent": "bald head near brown hair", "ann_id": 1325226, "best_split": [3, 2], "split_score": 0.32286212910963547}
+{"sent": "blue jacket bald head next to woman with black hair", "ann_id": 1325226, "best_split": [3, 2], "split_score": 0.32286212910963547}
+{"sent": "woman with the red scarf", "ann_id": 1317170, "best_split": [3, 3], "split_score": 0.5186226281590613}
+{"sent": "woman with red scarf", "ann_id": 1317170, "best_split": [3, 3], "split_score": 0.5186226281590613}
+{"sent": "ponytail", "ann_id": 1317170, "best_split": [2, 3], "split_score": 0.34713076195353587}
+{"sent": "guy in audience with hair", "ann_id": 1310877, "best_split": [2, 1], "split_score": 0.261678890295692}
+{"sent": "closets man", "ann_id": 1310877, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "large man with back to us black suit", "ann_id": 1310877, "best_split": [1, 2], "split_score": 0.261678890295692}

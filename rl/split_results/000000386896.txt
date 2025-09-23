@@ -1,0 +1,6 @@
+{"sent": "carrots in cup", "ann_id": 676703, "best_split": [1, 5], "split_score": 0.5208094692133629}
+{"sent": "white cup", "ann_id": 676703, "best_split": [1, 5], "split_score": 0.5208094692133629}
+{"sent": "cupo carrots", "ann_id": 676703, "best_split": [1, 5], "split_score": 0.5208094692133629}
+{"sent": "bottle on plate", "ann_id": 673512, "best_split": [3, 3], "split_score": 0.5595818814356128}
+{"sent": "glass on plate", "ann_id": 673512, "best_split": [3, 3], "split_score": 0.5595818814356128}
+{"sent": "glass on white plate", "ann_id": 673512, "best_split": [3, 3], "split_score": 0.5595818814356128}

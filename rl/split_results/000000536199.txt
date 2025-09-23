@@ -1,0 +1,6 @@
+{"sent": "green light you cant see", "ann_id": 411030, "best_split": [3, 1], "split_score": 0.1801948051843579}
+{"sent": "traffic light facing toward building", "ann_id": 411030, "best_split": [3, 1], "split_score": 0.1801948051843579}
+{"sent": "stop light facing away from us", "ann_id": 411030, "best_split": [3, 1], "split_score": 0.1801948051843579}
+{"sent": "black metal holding red light", "ann_id": 406588, "best_split": [3, 3], "split_score": 0.3693421846153678}
+{"sent": "red light", "ann_id": 406588, "best_split": [3, 3], "split_score": 0.3693421846153678}
+{"sent": "red light", "ann_id": 406588, "best_split": [3, 3], "split_score": 0.3693421846153678}

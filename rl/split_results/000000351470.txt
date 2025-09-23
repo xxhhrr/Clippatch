@@ -1,0 +1,6 @@
+{"sent": "plantains", "ann_id": 1044112, "best_split": [2, 1], "split_score": 0.5675003924292946}
+{"sent": "anana", "ann_id": 1044112, "best_split": [2, 1], "split_score": 0.5675003924292946}
+{"sent": "bananas", "ann_id": 1044112, "best_split": [2, 1], "split_score": 0.5675003924292946}
+{"sent": "banana near the thumb", "ann_id": 1042511, "best_split": [1, 5], "split_score": 0.4212294255608642}
+{"sent": "banana with thumb on it", "ann_id": 1042511, "best_split": [3, 2], "split_score": 0.3267668912798715}
+{"sent": "banana that the thumb is mostly on", "ann_id": 1042511, "best_split": [2, 2], "split_score": 0.39151411945568937}

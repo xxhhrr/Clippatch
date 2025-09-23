@@ -1,0 +1,11 @@
+{"sent": "sanswitch bewteen 9 and 11 oclcock", "ann_id": 313205, "best_split": [1, 2], "split_score": 0.17344686218174682}
+{"sent": "three sandwiches side by side", "ann_id": 313205, "best_split": [3, 2], "split_score": 0.5135387487729296}
+{"sent": "partiial peice on the tope side closet to us", "ann_id": 313041, "best_split": [1, 5], "split_score": 0.29074889864930425}
+{"sent": "full sandwinch in the back", "ann_id": 312533, "best_split": [2, 3], "split_score": 0.278838808220142}
+{"sent": "sandwich with only salami visible", "ann_id": 312533, "best_split": [1, 3], "split_score": 0.1464099478456014}
+{"sent": "long sandwich 1000", "ann_id": 312533, "best_split": [5, 1], "split_score": 0.348011363601054}
+{"sent": "sandwich under clock", "ann_id": 311956, "best_split": [2, 3], "split_score": 0.21428571426179846}
+{"sent": "highest sandwich nearest clock", "ann_id": 311956, "best_split": [2, 3], "split_score": 0.21428571426179846}
+{"sent": "pastrami basket sub", "ann_id": 310351, "best_split": [3, 3], "split_score": 0.43598459093179415}
+{"sent": "sandwich with visible basket clearly underneath", "ann_id": 310351, "best_split": [3, 2], "split_score": 0.5941939468196218}
+{"sent": "closest sandwich", "ann_id": 309393, "best_split": [1, 2], "split_score": 0.348291607607137}

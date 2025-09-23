@@ -1,0 +1,3 @@
+{"sent": "white chair", "ann_id": 114032, "best_split": [5, 1], "split_score": 0.7194492254170357}
+{"sent": "chair", "ann_id": 114032, "best_split": [5, 1], "split_score": 0.7194492254170357}
+{"sent": "chair behind flowers", "ann_id": 114032, "best_split": [3, 1], "split_score": 0.25614987305190623}

@@ -1,0 +1,6 @@
+{"sent": "following zebra", "ann_id": 588500, "best_split": [3, 2], "split_score": 0.7614585684396638}
+{"sent": "trailing", "ann_id": 588500, "best_split": [3, 1], "split_score": 0.3933862125047599}
+{"sent": "zebra at 3", "ann_id": 588500, "best_split": [3, 2], "split_score": 0.7614585684396638}
+{"sent": "zebra on road", "ann_id": 588216, "best_split": [3, 3], "split_score": 0.5054031586997224}
+{"sent": "zebra on road", "ann_id": 588216, "best_split": [3, 3], "split_score": 0.5054031586997224}
+{"sent": "zebra on the dirt road", "ann_id": 588216, "best_split": [3, 2], "split_score": 0.5631999999356343}

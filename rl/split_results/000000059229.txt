@@ -1,0 +1,6 @@
+{"sent": "slice of pizza in different panel with dark background", "ann_id": 1077920, "best_split": [1, 5], "split_score": 0.4000686223708982}
+{"sent": "individual slice on side of picture", "ann_id": 1077920, "best_split": [3, 2], "split_score": 0.44082031245695114}
+{"sent": "pizza with square end without woman in picture", "ann_id": 1077920, "best_split": [3, 3], "split_score": 0.6077005922714458}
+{"sent": "square pizza woman is looking at", "ann_id": 1077775, "best_split": [2, 2], "split_score": 0.43016581629223805}
+{"sent": "pizza person is looking down at", "ann_id": 1077775, "best_split": [2, 1], "split_score": 0.21508290815469217}
+{"sent": "pizza under woman", "ann_id": 1077775, "best_split": [2, 2], "split_score": 0.43016581629223805}

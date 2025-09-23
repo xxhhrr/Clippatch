@@ -1,0 +1,9 @@
+{"sent": "guy with blue tie in circle", "ann_id": 503309, "best_split": [3, 3], "split_score": 0.2730907226783095}
+{"sent": "man with silver streak not looking", "ann_id": 503309, "best_split": [1, 5], "split_score": 0.3465052901293279}
+{"sent": "man with glasses inside circle", "ann_id": 503309, "best_split": [3, 2], "split_score": 0.3468034308650806}
+{"sent": "person holding something", "ann_id": 495391, "best_split": [2, 1], "split_score": 0.27663391963419515}
+{"sent": "closest man", "ann_id": 495391, "best_split": [2, 1], "split_score": 0.27663391963419515}
+{"sent": "man looking at us", "ann_id": 495391, "best_split": [2, 1], "split_score": 0.27663391963419515}
+{"sent": "smaller pic of man in green tie", "ann_id": 2205161, "best_split": [3, 2], "split_score": 0.38065156570881226}
+{"sent": "man in green tie facing forward", "ann_id": 2205161, "best_split": [3, 2], "split_score": 0.38065156570881226}
+{"sent": "man in green tie not looking at camera", "ann_id": 2205161, "best_split": [3, 2], "split_score": 0.38065156570881226}

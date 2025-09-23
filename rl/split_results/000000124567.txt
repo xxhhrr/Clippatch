@@ -1,0 +1,6 @@
+{"sent": "window behind main car", "ann_id": 143047, "best_split": [3, 1], "split_score": 0.13181708493413266}
+{"sent": "car net to car with cat", "ann_id": 143047, "best_split": [2, 1], "split_score": 0.08709343111897747}
+{"sent": "windows and frame of car directly behind main car", "ann_id": 143047, "best_split": [3, 1], "split_score": 0.13181708493413266}
+{"sent": "cat", "ann_id": 139957, "best_split": [1, 2], "split_score": 0.4774364250965449}
+{"sent": "car with cat", "ann_id": 139957, "best_split": [1, 2], "split_score": 0.4774364250965449}
+{"sent": "car", "ann_id": 139957, "best_split": [1, 2], "split_score": 0.4774364250965449}

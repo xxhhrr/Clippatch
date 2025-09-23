@@ -1,0 +1,6 @@
+{"sent": "player in blue standing over player in white", "ann_id": 512436, "best_split": [3, 2], "split_score": 0.5251527128525734}
+{"sent": "closest boy in blue", "ann_id": 512436, "best_split": [3, 2], "split_score": 0.5251527128525734}
+{"sent": "catcher", "ann_id": 512436, "best_split": [3, 2], "split_score": 0.5251527128525734}
+{"sent": "kid on the ground", "ann_id": 462020, "best_split": [2, 3], "split_score": 0.314329738028281}
+{"sent": "on the ground he is", "ann_id": 462020, "best_split": [2, 3], "split_score": 0.314329738028281}
+{"sent": "guy on ground", "ann_id": 462020, "best_split": [2, 3], "split_score": 0.314329738028281}

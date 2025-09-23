@@ -1,0 +1,15 @@
+{"sent": "clue dress", "ann_id": 493642, "best_split": [1, 5], "split_score": 0.442137428469628}
+{"sent": "blue dress", "ann_id": 493642, "best_split": [1, 3], "split_score": 0.5158059845248669}
+{"sent": "blue dress", "ann_id": 493642, "best_split": [1, 3], "split_score": 0.5158059845248669}
+{"sent": "person under all white umbrella", "ann_id": 475218, "best_split": [2, 1], "split_score": 0.05793543185686777}
+{"sent": "woman carrying the plain white umbrella", "ann_id": 475218, "best_split": [2, 2], "split_score": 0.10722278737828261}
+{"sent": "lady with black shirt white umbrella yellow green bag", "ann_id": 475218, "best_split": [1, 2], "split_score": 0.15074936223888913}
+{"sent": "woman in black skirt", "ann_id": 474620, "best_split": [1, 3], "split_score": 0.35486544729210007}
+{"sent": "white circles", "ann_id": 474620, "best_split": [1, 3], "split_score": 0.35486544729210007}
+{"sent": "checkered shirt", "ann_id": 474620, "best_split": [1, 3], "split_score": 0.35486544729210007}
+{"sent": "bride", "ann_id": 453860, "best_split": [1, 3], "split_score": 0.4487547342793094}
+{"sent": "bride", "ann_id": 453860, "best_split": [1, 3], "split_score": 0.4487547342793094}
+{"sent": "bride", "ann_id": 453860, "best_split": [1, 3], "split_score": 0.4487547342793094}
+{"sent": "kid", "ann_id": 1725115, "best_split": [1, 5], "split_score": 0.29931006490469664}
+{"sent": "white dress baby", "ann_id": 1725115, "best_split": [3, 2], "split_score": 0.19706007667266082}
+{"sent": "small flower firl", "ann_id": 1725115, "best_split": [3, 3], "split_score": 0.2813260340204796}

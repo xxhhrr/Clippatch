@@ -1,0 +1,9 @@
+{"sent": "10", "ann_id": 1737048, "best_split": [2, 1], "split_score": 0.2135970333679358}
+{"sent": "white dressed person", "ann_id": 1737048, "best_split": [1, 2], "split_score": 0.5653698979366482}
+{"sent": "10", "ann_id": 1737048, "best_split": [2, 1], "split_score": 0.2135970333679358}
+{"sent": "22", "ann_id": 521994, "best_split": [1, 5], "split_score": 0.6134357005169447}
+{"sent": "number 22", "ann_id": 521994, "best_split": [1, 5], "split_score": 0.6134357005169447}
+{"sent": "number 22", "ann_id": 521994, "best_split": [1, 5], "split_score": 0.6134357005169447}
+{"sent": "guy in blue crouching", "ann_id": 521346, "best_split": [2, 3], "split_score": 0.5003358521830112}
+{"sent": "kid trying to stteal ball from white shirt", "ann_id": 521346, "best_split": [3, 3], "split_score": 0.4083808810767579}
+{"sent": "bending guy in dark shirt", "ann_id": 521346, "best_split": [2, 3], "split_score": 0.5003358521830112}

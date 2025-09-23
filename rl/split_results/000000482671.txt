@@ -1,0 +1,6 @@
+{"sent": "broccoli next to the tofu and white stuff", "ann_id": 1561099, "best_split": [3, 1], "split_score": 0.35291988414859315}
+{"sent": "greens next to carrots", "ann_id": 1561099, "best_split": [3, 2], "split_score": 0.6414721931218539}
+{"sent": "green veg directly behind rectangle of tofu", "ann_id": 1561099, "best_split": [3, 2], "split_score": 0.6414721931218539}
+{"sent": "green been with a sharp piece of white meat on it", "ann_id": 1061285, "best_split": [3, 1], "split_score": 0.12895810584857434}
+{"sent": "green veg with almond on it", "ann_id": 1061285, "best_split": [3, 1], "split_score": 0.12895810584857434}
+{"sent": "green with white stuff on it", "ann_id": 1061285, "best_split": [3, 1], "split_score": 0.12895810584857434}

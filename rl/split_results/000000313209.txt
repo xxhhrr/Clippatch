@@ -1,0 +1,11 @@
+{"sent": "the dish with chicken and salsa in a green cup", "ann_id": 1040714, "best_split": [2, 1], "split_score": 0.5139893115170548}
+{"sent": "cheese glob with ketchup", "ann_id": 1040714, "best_split": [2, 3], "split_score": 0.5903967207882889}
+{"sent": "bowl closest to you", "ann_id": 1040714, "best_split": [1, 3], "split_score": 0.3814432989515168}
+{"sent": "more like rice dish", "ann_id": 1040417, "best_split": [3, 3], "split_score": 0.5936043359790131}
+{"sent": "bowl round breaded something with plastic round dish covered", "ann_id": 1040417, "best_split": [3, 3], "split_score": 0.5936043359790131}
+{"sent": "bowl of carrots", "ann_id": 1040349, "best_split": [1, 3], "split_score": 0.6157205239806353}
+{"sent": "carrots", "ann_id": 1040349, "best_split": [1, 3], "split_score": 0.6157205239806353}
+{"sent": "carrots", "ann_id": 1040349, "best_split": [1, 3], "split_score": 0.6157205239806353}
+{"sent": "chopped veggies and plastic capsule", "ann_id": 711572, "best_split": [2, 3], "split_score": 0.6175856929495093}
+{"sent": "the bowl with the salad", "ann_id": 711572, "best_split": [2, 3], "split_score": 0.6175856929495093}
+{"sent": "tomota and lettuce bowl", "ann_id": 711572, "best_split": [2, 3], "split_score": 0.6175856929495093}

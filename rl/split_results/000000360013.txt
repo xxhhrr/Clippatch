@@ -1,0 +1,6 @@
+{"sent": "small closed book", "ann_id": 1144360, "best_split": [1, 5], "split_score": 0.24249846905410738}
+{"sent": "book", "ann_id": 1144360, "best_split": [1, 5], "split_score": 0.24249846905410738}
+{"sent": "book", "ann_id": 1144360, "best_split": [1, 5], "split_score": 0.24249846905410738}
+{"sent": "blurry books on shelf", "ann_id": 1137182, "best_split": [3, 3], "split_score": 0.33662745092758783}
+{"sent": "vertical striped something in background", "ann_id": 1137182, "best_split": [3, 1], "split_score": 0.18369932431324207}
+{"sent": "blurred bookshelf in background", "ann_id": 1137182, "best_split": [3, 3], "split_score": 0.33662745092758783}

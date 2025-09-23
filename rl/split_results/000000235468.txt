@@ -1,0 +1,6 @@
+{"sent": "bending over in red", "ann_id": 488574, "best_split": [1, 5], "split_score": 0.4103075170550749}
+{"sent": "red", "ann_id": 488574, "best_split": [1, 5], "split_score": 0.4103075170550749}
+{"sent": "red jacket", "ann_id": 488574, "best_split": [1, 5], "split_score": 0.4103075170550749}
+{"sent": "sitting", "ann_id": 441743, "best_split": [3, 2], "split_score": 0.44710912804916253}
+{"sent": "blue jacket", "ann_id": 441743, "best_split": [3, 2], "split_score": 0.44710912804916253}
+{"sent": "striped pants", "ann_id": 441743, "best_split": [3, 2], "split_score": 0.44710912804916253}

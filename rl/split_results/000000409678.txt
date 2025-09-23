@@ -1,0 +1,12 @@
+{"sent": "pizza with green topping", "ann_id": 1090716, "best_split": [2, 1], "split_score": 0.5862941667751168}
+{"sent": "white table with pizza", "ann_id": 1090716, "best_split": [1, 2], "split_score": 0.43745546846193767}
+{"sent": "most immediate table", "ann_id": 1090716, "best_split": [1, 2], "split_score": 0.43745546846193767}
+{"sent": "closest pizza wih r4edsauce", "ann_id": 1076953, "best_split": [3, 2], "split_score": 0.49843146712132824}
+{"sent": "pizza rightest us", "ann_id": 1076953, "best_split": [3, 2], "split_score": 0.49843146712132824}
+{"sent": "pizza at 3 o clock", "ann_id": 1076953, "best_split": [3, 2], "split_score": 0.49843146712132824}
+{"sent": "largest slice of pizza in the closest tray", "ann_id": 1076559, "best_split": [3, 1], "split_score": 0.18459715638716842}
+{"sent": "wideest veggie pizza slice", "ann_id": 1076559, "best_split": [2, 3], "split_score": 0.25246041931402863}
+{"sent": "largest slice on close tray", "ann_id": 1076559, "best_split": [3, 1], "split_score": 0.18459715638716842}
+{"sent": "uncovered parts of the table", "ann_id": 414583, "best_split": [2, 1], "split_score": 0.5413036257111863}
+{"sent": "exposed table not white", "ann_id": 414583, "best_split": [2, 1], "split_score": 0.5413036257111863}
+{"sent": "ope space at three o clock", "ann_id": 414583, "best_split": [2, 1], "split_score": 0.5413036257111863}

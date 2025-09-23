@@ -1,0 +1,6 @@
+{"sent": "chair", "ann_id": 104781, "best_split": [2, 3], "split_score": 0.47997673641741634}
+{"sent": "desk chair", "ann_id": 104781, "best_split": [2, 3], "split_score": 0.47997673641741634}
+{"sent": "desk chair", "ann_id": 104781, "best_split": [2, 3], "split_score": 0.47997673641741634}
+{"sent": "brown folding chair", "ann_id": 102210, "best_split": [1, 5], "split_score": 0.30219411705449895}
+{"sent": "mini chair on desk", "ann_id": 102210, "best_split": [5, 1], "split_score": 0.12685515296187255}
+{"sent": "wooden chair", "ann_id": 102210, "best_split": [1, 5], "split_score": 0.30219411705449895}

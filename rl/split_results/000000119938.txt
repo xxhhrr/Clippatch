@@ -1,0 +1,5 @@
+{"sent": "zebra with side visible", "ann_id": 589475, "best_split": [2, 2], "split_score": 0.513758962068026}
+{"sent": "zebra standing sideways", "ann_id": 589475, "best_split": [2, 2], "split_score": 0.513758962068026}
+{"sent": "light zebra", "ann_id": 589025, "best_split": [2, 1], "split_score": 0.13498920085872457}
+{"sent": "zebra with butt to us", "ann_id": 589025, "best_split": [2, 1], "split_score": 0.13498920085872457}
+{"sent": "zebra facing away", "ann_id": 589025, "best_split": [2, 1], "split_score": 0.13498920085872457}

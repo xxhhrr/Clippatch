@@ -1,0 +1,8 @@
+{"sent": "orioles player with one on his shirt not 12", "ann_id": 537211, "best_split": [1, 2], "split_score": 0.4935825892660402}
+{"sent": "man standing with baseball glove", "ann_id": 537211, "best_split": [1, 3], "split_score": 0.7470439188738511}
+{"sent": "the guy whos not falling", "ann_id": 537211, "best_split": [2, 1], "split_score": 0.19677419354210238}
+{"sent": "number 2", "ann_id": 519857, "best_split": [2, 1], "split_score": 0.3599330356999389}
+{"sent": "2 on ground", "ann_id": 519857, "best_split": [3, 2], "split_score": 0.6607211353413194}
+{"sent": "orioles falling", "ann_id": 495241, "best_split": [3, 3], "split_score": 0.466325324885159}
+{"sent": "oriels player falling down", "ann_id": 495241, "best_split": [1, 3], "split_score": 0.3577099874447498}
+{"sent": "player in black diving", "ann_id": 495241, "best_split": [1, 3], "split_score": 0.3577099874447498}

@@ -1,0 +1,6 @@
+{"sent": "gobble", "ann_id": 462600, "best_split": [2, 1], "split_score": 0.22227590518324686}
+{"sent": "white", "ann_id": 462600, "best_split": [2, 1], "split_score": 0.22227590518324686}
+{"sent": "guy eating", "ann_id": 462600, "best_split": [1, 5], "split_score": 0.4019988894855384}
+{"sent": "tubby dude", "ann_id": 444471, "best_split": [1, 2], "split_score": 0.7155612244612739}
+{"sent": "man in striped shirt", "ann_id": 444471, "best_split": [3, 2], "split_score": 0.40380911617784027}
+{"sent": "striped shirt guy", "ann_id": 444471, "best_split": [2, 2], "split_score": 0.4657310391009453}

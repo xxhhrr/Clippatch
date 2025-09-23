@@ -1,0 +1,6 @@
+{"sent": "yellow shirt", "ann_id": 216168, "best_split": [1, 3], "split_score": 0.7246121685155346}
+{"sent": "yellow shirt man", "ann_id": 216168, "best_split": [1, 3], "split_score": 0.7246121685155346}
+{"sent": "yellow", "ann_id": 216168, "best_split": [1, 3], "split_score": 0.7246121685155346}
+{"sent": "sleep", "ann_id": 206736, "best_split": [3, 3], "split_score": 0.29304029300674905}
+{"sent": "shirt says sleep", "ann_id": 206736, "best_split": [3, 2], "split_score": 0.34055492205049837}
+{"sent": "sleep", "ann_id": 206736, "best_split": [3, 3], "split_score": 0.29304029300674905}

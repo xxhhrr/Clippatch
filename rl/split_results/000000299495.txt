@@ -1,0 +1,6 @@
+{"sent": "smallest bear", "ann_id": 587498, "best_split": [2, 2], "split_score": 0.5146691635054097}
+{"sent": "smaller bear", "ann_id": 587498, "best_split": [2, 2], "split_score": 0.5146691635054097}
+{"sent": "back bear", "ann_id": 587498, "best_split": [2, 2], "split_score": 0.5146691635054097}
+{"sent": "closest bear", "ann_id": 586316, "best_split": [3, 1], "split_score": 0.4467257844322399}
+{"sent": "big bear closest", "ann_id": 586316, "best_split": [3, 1], "split_score": 0.4467257844322399}
+{"sent": "big guy", "ann_id": 586316, "best_split": [2, 1], "split_score": 0.4700109680635568}

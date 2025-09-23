@@ -1,0 +1,3 @@
+{"sent": "little chair", "ann_id": 574176, "best_split": [1, 3], "split_score": 0.33793178360102477}
+{"sent": "small bench", "ann_id": 574176, "best_split": [1, 5], "split_score": 0.2400664543652176}
+{"sent": "little bench", "ann_id": 574176, "best_split": [1, 5], "split_score": 0.2400664543652176}

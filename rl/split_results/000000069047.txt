@@ -1,0 +1,6 @@
+{"sent": "half sandwich", "ann_id": 310201, "best_split": [1, 2], "split_score": 0.6129183496605266}
+{"sent": "half sandwich", "ann_id": 310201, "best_split": [1, 2], "split_score": 0.6129183496605266}
+{"sent": "sand with bite out of it", "ann_id": 310201, "best_split": [1, 2], "split_score": 0.6129183496605266}
+{"sent": "part of unbitten sandwich that is not blocked by the other", "ann_id": 309493, "best_split": [3, 1], "split_score": 0.3137764574657166}
+{"sent": "the side of the biggest piece that is not covered by the other piece", "ann_id": 309493, "best_split": [3, 2], "split_score": 0.5599734923260462}
+{"sent": "sandwich part closest to 3pm", "ann_id": 309493, "best_split": [3, 1], "split_score": 0.3137764574657166}

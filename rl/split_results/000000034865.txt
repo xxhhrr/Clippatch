@@ -1,0 +1,3 @@
+{"sent": "the pizza leg of dog is touching", "ann_id": 1923946, "best_split": [3, 3], "split_score": 0.29409836060752487}
+{"sent": "close row in between others", "ann_id": 2221938, "best_split": [3, 3], "split_score": 0.31813865142163045}
+{"sent": "closest pizza", "ann_id": 2221938, "best_split": [5, 1], "split_score": 0.25424397944588983}

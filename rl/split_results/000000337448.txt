@@ -1,0 +1,6 @@
+{"sent": "whitest monitor", "ann_id": 35679, "best_split": [2, 1], "split_score": 0.25524044388658906}
+{"sent": "screen obscured by other laptop", "ann_id": 35679, "best_split": [2, 1], "split_score": 0.25524044388658906}
+{"sent": "aqua screen by window", "ann_id": 35679, "best_split": [2, 2], "split_score": 0.4738081223900965}
+{"sent": "old monitor", "ann_id": 34309, "best_split": [2, 2], "split_score": 0.6483525022809797}
+{"sent": "larger screen", "ann_id": 34309, "best_split": [2, 2], "split_score": 0.6483525022809797}
+{"sent": "monitor with light blue background", "ann_id": 34309, "best_split": [2, 2], "split_score": 0.6483525022809797}

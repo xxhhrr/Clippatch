@@ -1,0 +1,6 @@
+{"sent": "bus not 68", "ann_id": 366337, "best_split": [3, 2], "split_score": 0.35089379596730874}
+{"sent": "bus behind other bus", "ann_id": 366337, "best_split": [3, 3], "split_score": 0.4982084203496255}
+{"sent": "bus with no number showing", "ann_id": 366337, "best_split": [3, 3], "split_score": 0.4982084203496255}
+{"sent": "the bus closer to the headlights in the road", "ann_id": 365942, "best_split": [3, 2], "split_score": 0.37289660754315695}
+{"sent": "68 bus", "ann_id": 365942, "best_split": [3, 3], "split_score": 0.43524391645309146}
+{"sent": "68 bus", "ann_id": 365942, "best_split": [3, 3], "split_score": 0.43524391645309146}

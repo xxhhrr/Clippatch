@@ -1,0 +1,6 @@
+{"sent": "smaller sandwich", "ann_id": 313373, "best_split": [3, 3], "split_score": 0.47476858756721874}
+{"sent": "smaller portion of sammich", "ann_id": 313373, "best_split": [3, 3], "split_score": 0.47476858756721874}
+{"sent": "smallest sandwich", "ann_id": 313373, "best_split": [3, 3], "split_score": 0.47476858756721874}
+{"sent": "close half of sandwich", "ann_id": 312992, "best_split": [3, 2], "split_score": 0.4772572979907283}
+{"sent": "half of sandwhich farthest from ketchup", "ann_id": 312992, "best_split": [1, 2], "split_score": 0.339179455044661}
+{"sent": "bigger looking sandwich", "ann_id": 312992, "best_split": [3, 2], "split_score": 0.4772572979907283}

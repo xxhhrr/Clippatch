@@ -1,0 +1,9 @@
+{"sent": "game is lagging it seems umpire", "ann_id": 2157784, "best_split": [3, 2], "split_score": 0.2995951416676228}
+{"sent": "referee", "ann_id": 2157784, "best_split": [1, 5], "split_score": 0.3508489902189441}
+{"sent": "umpire", "ann_id": 2157784, "best_split": [3, 2], "split_score": 0.2995951416676228}
+{"sent": "catcher", "ann_id": 480253, "best_split": [5, 1], "split_score": 0.22674469383992096}
+{"sent": "catcher", "ann_id": 480253, "best_split": [5, 1], "split_score": 0.22674469383992096}
+{"sent": "catcher", "ann_id": 480253, "best_split": [5, 1], "split_score": 0.22674469383992096}
+{"sent": "number 11", "ann_id": 422549, "best_split": [3, 3], "split_score": 0.41175759036993376}
+{"sent": "batter", "ann_id": 422549, "best_split": [3, 3], "split_score": 0.41175759036993376}
+{"sent": "batter", "ann_id": 422549, "best_split": [3, 3], "split_score": 0.41175759036993376}

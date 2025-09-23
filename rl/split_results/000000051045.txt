@@ -1,0 +1,6 @@
+{"sent": "the player not looking at the camera", "ann_id": 477786, "best_split": [3, 3], "split_score": 0.486947141263544}
+{"sent": "gray shorts", "ann_id": 477786, "best_split": [3, 3], "split_score": 0.486947141263544}
+{"sent": "person with long blue socks", "ann_id": 477786, "best_split": [1, 3], "split_score": 0.4367205542473025}
+{"sent": "black shorts", "ann_id": 465050, "best_split": [1, 5], "split_score": 0.4763255896013189}
+{"sent": "woman in black shorts", "ann_id": 465050, "best_split": [1, 5], "split_score": 0.4763255896013189}
+{"sent": "girl closest to us", "ann_id": 465050, "best_split": [1, 3], "split_score": 0.20339855817696195}

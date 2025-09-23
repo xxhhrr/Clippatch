@@ -1,0 +1,12 @@
+{"sent": "green", "ann_id": 1214460, "best_split": [1, 5], "split_score": 0.6452732002909564}
+{"sent": "yellow jacket", "ann_id": 1214460, "best_split": [1, 5], "split_score": 0.6452732002909564}
+{"sent": "green coa", "ann_id": 1214460, "best_split": [2, 3], "split_score": 0.3599562362957208}
+{"sent": "red and blue jacket", "ann_id": 512120, "best_split": [1, 5], "split_score": 0.8666991235767576}
+{"sent": "red and blue jacket", "ann_id": 512120, "best_split": [1, 5], "split_score": 0.8666991235767576}
+{"sent": "redblue jacket", "ann_id": 512120, "best_split": [1, 2], "split_score": 0.3712930484545881}
+{"sent": "skier in tan coat", "ann_id": 488808, "best_split": [1, 2], "split_score": 0.6377551020153956}
+{"sent": "white jacket also hello", "ann_id": 488808, "best_split": [1, 2], "split_score": 0.6377551020153956}
+{"sent": "beige brown jacket", "ann_id": 488808, "best_split": [1, 2], "split_score": 0.6377551020153956}
+{"sent": "person in pink", "ann_id": 427115, "best_split": [3, 3], "split_score": 0.31607558887961745}
+{"sent": "pink", "ann_id": 427115, "best_split": [3, 3], "split_score": 0.31607558887961745}
+{"sent": "pink suit little girl", "ann_id": 427115, "best_split": [3, 3], "split_score": 0.31607558887961745}

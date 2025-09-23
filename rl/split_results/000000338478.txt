@@ -1,0 +1,6 @@
+{"sent": "cap with no head", "ann_id": 1681407, "best_split": [2, 3], "split_score": 0.5468146717486951}
+{"sent": "edge of hat", "ann_id": 1681407, "best_split": [2, 3], "split_score": 0.5468146717486951}
+{"sent": "baseball hat in corner cut off", "ann_id": 1681407, "best_split": [2, 1], "split_score": 0.1806441326458608}
+{"sent": "pitcher", "ann_id": 557945, "best_split": [1, 5], "split_score": 0.5324601366237225}
+{"sent": "pitcher", "ann_id": 557945, "best_split": [1, 5], "split_score": 0.5324601366237225}
+{"sent": "player", "ann_id": 557945, "best_split": [1, 5], "split_score": 0.5324601366237225}

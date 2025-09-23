@@ -1,0 +1,9 @@
+{"sent": "red shirt no head", "ann_id": 2166343, "best_split": [2, 2], "split_score": 0.44979919675489105}
+{"sent": "table red with white circle", "ann_id": 2166343, "best_split": [2, 3], "split_score": 0.647398843863811}
+{"sent": "guy in red background", "ann_id": 2166343, "best_split": [3, 2], "split_score": 0.3507109004442526}
+{"sent": "blue shirt", "ann_id": 454633, "best_split": [2, 1], "split_score": 0.4426062351718727}
+{"sent": "blue", "ann_id": 454633, "best_split": [2, 1], "split_score": 0.4426062351718727}
+{"sent": "blue guy", "ann_id": 454633, "best_split": [2, 1], "split_score": 0.4426062351718727}
+{"sent": "has frisbee", "ann_id": 454071, "best_split": [1, 2], "split_score": 0.513736263721562}
+{"sent": "man holding frisbee", "ann_id": 454071, "best_split": [1, 2], "split_score": 0.513736263721562}
+{"sent": "red shirt throwing frisbee", "ann_id": 454071, "best_split": [1, 2], "split_score": 0.513736263721562}

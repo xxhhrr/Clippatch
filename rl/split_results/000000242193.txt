@@ -1,0 +1,4 @@
+{"sent": "the traffic light you can see the red light", "ann_id": 409309, "best_split": [2, 3], "split_score": 0.34169884165761355}
+{"sent": "black lights lower ones", "ann_id": 409309, "best_split": [2, 3], "split_score": 0.34169884165761355}
+{"sent": "stoplight facing away from red box", "ann_id": 406930, "best_split": [3, 2], "split_score": 0.2686864219074871}
+{"sent": "stop light facing side", "ann_id": 406930, "best_split": [3, 2], "split_score": 0.2686864219074871}

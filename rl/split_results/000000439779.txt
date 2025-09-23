@@ -1,0 +1,5 @@
+{"sent": "legs on brown table", "ann_id": 1946641, "best_split": [3, 1], "split_score": 0.7230282404488012}
+{"sent": "chair leg closest to us", "ann_id": 1946641, "best_split": [3, 1], "split_score": 0.7230282404488012}
+{"sent": "table leg", "ann_id": 1946641, "best_split": [3, 1], "split_score": 0.7230282404488012}
+{"sent": "thing on orange wall maybe a mirror", "ann_id": 1946051, "best_split": [3, 1], "split_score": 0.23075530886638781}
+{"sent": "corner by orange wall", "ann_id": 1946051, "best_split": [3, 2], "split_score": 0.46151061770493357}

@@ -1,0 +1,6 @@
+{"sent": "white car", "ann_id": 133131, "best_split": [3, 3], "split_score": 0.5154508611302621}
+{"sent": "white car next to man with sunglasses", "ann_id": 133131, "best_split": [3, 3], "split_score": 0.5154508611302621}
+{"sent": "car behind him", "ann_id": 133131, "best_split": [3, 3], "split_score": 0.5154508611302621}
+{"sent": "car at corner of picture", "ann_id": 1774711, "best_split": [2, 3], "split_score": 0.7347307190116608}
+{"sent": "thing the main guy is standing next to not van", "ann_id": 1774711, "best_split": [1, 3], "split_score": 0.40122679224485314}
+{"sent": "car near edge", "ann_id": 1774711, "best_split": [2, 3], "split_score": 0.7347307190116608}

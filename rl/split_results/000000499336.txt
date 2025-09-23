@@ -1,0 +1,6 @@
+{"sent": "no beard", "ann_id": 467070, "best_split": [1, 3], "split_score": 0.2404442992387927}
+{"sent": "white pants", "ann_id": 467070, "best_split": [1, 2], "split_score": 0.5500637754882787}
+{"sent": "person with white pants", "ann_id": 467070, "best_split": [1, 2], "split_score": 0.5500637754882787}
+{"sent": "with beard", "ann_id": 463630, "best_split": [1, 3], "split_score": 0.4542117819575054}
+{"sent": "white jacket dark pants", "ann_id": 463630, "best_split": [1, 3], "split_score": 0.4542117819575054}
+{"sent": "beard", "ann_id": 463630, "best_split": [1, 3], "split_score": 0.4542117819575054}

@@ -1,0 +1,5 @@
+{"sent": "the elephant that you can barely see", "ann_id": 582864, "best_split": [2, 1], "split_score": 0.4226634149547397}
+{"sent": "futher away elephant", "ann_id": 582864, "best_split": [2, 1], "split_score": 0.4226634149547397}
+{"sent": "elephant you cant see much of", "ann_id": 582864, "best_split": [2, 1], "split_score": 0.4226634149547397}
+{"sent": "elephant looking at you", "ann_id": 581454, "best_split": [1, 3], "split_score": 0.39005430730513113}
+{"sent": "full view of him", "ann_id": 581454, "best_split": [1, 2], "split_score": 0.5357847352046992}

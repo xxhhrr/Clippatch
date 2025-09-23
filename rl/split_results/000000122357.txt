@@ -1,0 +1,5 @@
+{"sent": "green apples", "ann_id": 1049067, "best_split": [3, 2], "split_score": 0.39562272012552135}
+{"sent": "green with sun shining it", "ann_id": 1049067, "best_split": [3, 3], "split_score": 0.5108540416294124}
+{"sent": "green apples closest to you", "ann_id": 1049067, "best_split": [3, 2], "split_score": 0.39562272012552135}
+{"sent": "apples closest to us", "ann_id": 1047806, "best_split": [2, 3], "split_score": 0.6696013694734163}
+{"sent": "apples not on coca cola boxes and close", "ann_id": 1047806, "best_split": [2, 3], "split_score": 0.6696013694734163}

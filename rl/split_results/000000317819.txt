@@ -1,0 +1,5 @@
+{"sent": "2 train", "ann_id": 174933, "best_split": [1, 5], "split_score": 0.5897980870843592}
+{"sent": "train with number 2", "ann_id": 174933, "best_split": [1, 5], "split_score": 0.5897980870843592}
+{"sent": "longest train", "ann_id": 173391, "best_split": [3, 1], "split_score": 0.3603556485167178}
+{"sent": "closer train but not number 2", "ann_id": 173391, "best_split": [3, 1], "split_score": 0.3603556485167178}
+{"sent": "only train fully shown", "ann_id": 173391, "best_split": [3, 1], "split_score": 0.3603556485167178}

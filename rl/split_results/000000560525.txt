@@ -1,0 +1,5 @@
+{"sent": "comic with something green on the cover", "ann_id": 1149911, "best_split": [3, 3], "split_score": 0.5028945380691047}
+{"sent": "the green comic under the road to mars book", "ann_id": 1149911, "best_split": [3, 3], "split_score": 0.5028945380691047}
+{"sent": "the comic with the purply guy flying", "ann_id": 1145768, "best_split": [2, 2], "split_score": 0.3190637511303462}
+{"sent": "phantom magazine", "ann_id": 1145768, "best_split": [2, 2], "split_score": 0.3190637511303462}
+{"sent": "comic book with purple man", "ann_id": 1145768, "best_split": [2, 2], "split_score": 0.3190637511303462}

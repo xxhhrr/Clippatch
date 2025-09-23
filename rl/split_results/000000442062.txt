@@ -1,0 +1,11 @@
+{"sent": "panda bear pink shirt", "ann_id": 1163487, "best_split": [3, 3], "split_score": 0.5236799128302014}
+{"sent": "pink teddy", "ann_id": 1163487, "best_split": [3, 2], "split_score": 0.27647166026276}
+{"sent": "teddy bear in red", "ann_id": 1163487, "best_split": [3, 2], "split_score": 0.27647166026276}
+{"sent": "black bear", "ann_id": 1163460, "best_split": [3, 3], "split_score": 0.5966386553944312}
+{"sent": "gray bear with red hat", "ann_id": 1163460, "best_split": [3, 1], "split_score": 0.2781954887076714}
+{"sent": "dark bear", "ann_id": 1163460, "best_split": [3, 3], "split_score": 0.5966386553944312}
+{"sent": "small gray bear", "ann_id": 1163357, "best_split": [3, 2], "split_score": 0.31388219834531617}
+{"sent": "this teddy bear is sad to be the smallest one", "ann_id": 1163357, "best_split": [3, 2], "split_score": 0.31388219834531617}
+{"sent": "smallest bear", "ann_id": 1163357, "best_split": [3, 2], "split_score": 0.31388219834531617}
+{"sent": "bear with blue", "ann_id": 1162664, "best_split": [1, 3], "split_score": 0.5321803725534107}
+{"sent": "black hat", "ann_id": 1162664, "best_split": [1, 3], "split_score": 0.5321803725534107}

@@ -1,0 +1,9 @@
+{"sent": "blue colored mattress", "ann_id": 317822, "best_split": [3, 3], "split_score": 0.6912298909326375}
+{"sent": "blue striped mattress", "ann_id": 317822, "best_split": [3, 3], "split_score": 0.6912298909326375}
+{"sent": "striped bed", "ann_id": 317822, "best_split": [3, 3], "split_score": 0.6912298909326375}
+{"sent": "bed under person", "ann_id": 316143, "best_split": [1, 2], "split_score": 0.6097276782538875}
+{"sent": "bed shes laying on", "ann_id": 316143, "best_split": [1, 2], "split_score": 0.6097276782538875}
+{"sent": "the matress she is laying on", "ann_id": 316143, "best_split": [1, 2], "split_score": 0.6097276782538875}
+{"sent": "nearest bed", "ann_id": 316106, "best_split": [3, 1], "split_score": 0.6239061848548184}
+{"sent": "closest white bed cut off", "ann_id": 316106, "best_split": [5, 1], "split_score": 0.9129140304323675}
+{"sent": "duvet nearest us", "ann_id": 316106, "best_split": [3, 1], "split_score": 0.6239061848548184}

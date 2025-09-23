@@ -1,0 +1,6 @@
+{"sent": "pizza in better focus with mushroom", "ann_id": 1570888, "best_split": [3, 1], "split_score": 0.5496129486035533}
+{"sent": "one of the in focus mushrooms", "ann_id": 1570888, "best_split": [3, 1], "split_score": 0.5496129486035533}
+{"sent": "mushrooms by broccoli", "ann_id": 1570888, "best_split": [3, 1], "split_score": 0.5496129486035533}
+{"sent": "fuzzy looking food closest to you", "ann_id": 1076522, "best_split": [2, 1], "split_score": 0.5470912568715692}
+{"sent": "blurry food in corner", "ann_id": 1076522, "best_split": [2, 1], "split_score": 0.5470912568715692}
+{"sent": "blur closest to us", "ann_id": 1076522, "best_split": [1, 2], "split_score": 0.44265678009014525}

@@ -1,0 +1,6 @@
+{"sent": "stooping person", "ann_id": 455947, "best_split": [2, 2], "split_score": 0.36949936221544166}
+{"sent": "the man in a white shirt", "ann_id": 455947, "best_split": [1, 5], "split_score": 0.3972615947934373}
+{"sent": "man in white shirt", "ann_id": 455947, "best_split": [1, 5], "split_score": 0.3972615947934373}
+{"sent": "ohm lady with hand on nose", "ann_id": 431692, "best_split": [1, 2], "split_score": 0.5677788147236048}
+{"sent": "person touching the elephant", "ann_id": 431692, "best_split": [3, 1], "split_score": 0.291468713189123}
+{"sent": "yellow shirt", "ann_id": 431692, "best_split": [1, 2], "split_score": 0.5677788147236048}

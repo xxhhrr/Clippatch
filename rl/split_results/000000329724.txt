@@ -1,0 +1,6 @@
+{"sent": "whole pizza in box", "ann_id": 1072122, "best_split": [2, 1], "split_score": 0.49386160712317195}
+{"sent": "pizza with 6 white spots", "ann_id": 1072122, "best_split": [1, 2], "split_score": 0.26154571158403306}
+{"sent": "pizza without black things", "ann_id": 1072122, "best_split": [1, 2], "split_score": 0.26154571158403306}
+{"sent": "pizza in brown box", "ann_id": 1072014, "best_split": [2, 3], "split_score": 0.32190708194179973}
+{"sent": "eaten pizza", "ann_id": 1072014, "best_split": [2, 1], "split_score": 0.8808992346587652}
+{"sent": "closest pizza", "ann_id": 1072014, "best_split": [2, 3], "split_score": 0.32190708194179973}

@@ -1,0 +1,5 @@
+{"sent": "dish dark red stuff", "ann_id": 1901454, "best_split": [3, 3], "split_score": 0.5511852501227067}
+{"sent": "picture of darker reddish brown sauce", "ann_id": 1901454, "best_split": [3, 3], "split_score": 0.5511852501227067}
+{"sent": "orange sauce", "ann_id": 1899876, "best_split": [5, 1], "split_score": 0.3256899350318902}
+{"sent": "drink with straw", "ann_id": 1899876, "best_split": [3, 1], "split_score": 0.19365347489179213}
+{"sent": "lightest color jelly closest to sky", "ann_id": 1899876, "best_split": [3, 2], "split_score": 0.20423125259695943}

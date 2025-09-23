@@ -1,0 +1,6 @@
+{"sent": "the umpire is in black", "ann_id": 457050, "best_split": [1, 3], "split_score": 0.8351069787814995}
+{"sent": "ump", "ann_id": 457050, "best_split": [1, 2], "split_score": 0.6452487244640764}
+{"sent": "ump", "ann_id": 457050, "best_split": [1, 2], "split_score": 0.6452487244640764}
+{"sent": "red armor", "ann_id": 451668, "best_split": [1, 2], "split_score": 0.6645569620038569}
+{"sent": "man in red", "ann_id": 451668, "best_split": [1, 2], "split_score": 0.6645569620038569}
+{"sent": "catcher", "ann_id": 451668, "best_split": [1, 2], "split_score": 0.6645569620038569}

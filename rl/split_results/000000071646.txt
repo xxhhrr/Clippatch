@@ -1,0 +1,5 @@
+{"sent": "giraffe ignoring zebras", "ann_id": 601135, "best_split": [3, 3], "split_score": 0.41984732820096476}
+{"sent": "giraffe looking off", "ann_id": 601135, "best_split": [1, 5], "split_score": 0.5598349380536592}
+{"sent": "giraffe chasing zebra", "ann_id": 601094, "best_split": [1, 2], "split_score": 0.49365818701205094}
+{"sent": "closest giraffe", "ann_id": 601094, "best_split": [1, 2], "split_score": 0.49365818701205094}
+{"sent": "running giraffe", "ann_id": 601094, "best_split": [1, 2], "split_score": 0.49365818701205094}

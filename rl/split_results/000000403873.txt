@@ -1,0 +1,6 @@
+{"sent": "rear person", "ann_id": 211686, "best_split": [1, 2], "split_score": 0.3297193877419595}
+{"sent": "blue shirt blue jeans", "ann_id": 211686, "best_split": [1, 2], "split_score": 0.3297193877419595}
+{"sent": "woman in blue hoodie", "ann_id": 211686, "best_split": [3, 1], "split_score": 0.15079659132313836}
+{"sent": "longer hair", "ann_id": 190845, "best_split": [1, 3], "split_score": 0.4635416666458539}
+{"sent": "girl with long hair", "ann_id": 190845, "best_split": [1, 3], "split_score": 0.4635416666458539}
+{"sent": "skirt", "ann_id": 190845, "best_split": [1, 2], "split_score": 0.43493437585747924}

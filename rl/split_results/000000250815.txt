@@ -1,0 +1,11 @@
+{"sent": "orange mess", "ann_id": 2119578, "best_split": [1, 2], "split_score": 0.5079618164017982}
+{"sent": "yellow", "ann_id": 2119578, "best_split": [1, 2], "split_score": 0.5079618164017982}
+{"sent": "orange smear", "ann_id": 2119578, "best_split": [1, 2], "split_score": 0.5079618164017982}
+{"sent": "red part of cake", "ann_id": 1088736, "best_split": [2, 3], "split_score": 0.32504378280866514}
+{"sent": "2 pink stubs on cake", "ann_id": 1088736, "best_split": [5, 1], "split_score": 0.4364355753968316}
+{"sent": "cake with red pieces", "ann_id": 1088736, "best_split": [2, 3], "split_score": 0.32504378280866514}
+{"sent": "blue cake", "ann_id": 1087506, "best_split": [2, 2], "split_score": 0.3703272727003398}
+{"sent": "blue lump of leggo", "ann_id": 1087506, "best_split": [2, 2], "split_score": 0.3703272727003398}
+{"sent": "closest pile", "ann_id": 1085079, "best_split": [2, 2], "split_score": 0.7258727568857506}
+{"sent": "piece of cake closest orange icing", "ann_id": 1085079, "best_split": [3, 1], "split_score": 0.27046515504041074}
+{"sent": "nearest black blob of cake", "ann_id": 1085079, "best_split": [2, 2], "split_score": 0.7258727568857506}

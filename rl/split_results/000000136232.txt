@@ -1,0 +1,8 @@
+{"sent": "far bacon", "ann_id": 312770, "best_split": [2, 2], "split_score": 0.4435586734340275}
+{"sent": "no eggs furthest away", "ann_id": 312770, "best_split": [2, 2], "split_score": 0.4435586734340275}
+{"sent": "eggs", "ann_id": 312684, "best_split": [2, 1], "split_score": 0.43641618495450196}
+{"sent": "yellow food", "ann_id": 312684, "best_split": [2, 1], "split_score": 0.43641618495450196}
+{"sent": "yellow pieces of food", "ann_id": 312684, "best_split": [2, 1], "split_score": 0.43641618495450196}
+{"sent": "bacon closer", "ann_id": 312494, "best_split": [3, 1], "split_score": 0.3056695883553939}
+{"sent": "the closest slice of bacon", "ann_id": 312494, "best_split": [3, 1], "split_score": 0.3056695883553939}
+{"sent": "closest bacon no egg", "ann_id": 312494, "best_split": [3, 1], "split_score": 0.3056695883553939}

@@ -1,0 +1,6 @@
+{"sent": "jar with the arm around the other one", "ann_id": 1153312, "best_split": [1, 2], "split_score": 0.4522224607995431}
+{"sent": "vase 1", "ann_id": 1153312, "best_split": [3, 1], "split_score": 0.43244941559531075}
+{"sent": "pot with arm around the other one", "ann_id": 1153312, "best_split": [1, 2], "split_score": 0.4522224607995431}
+{"sent": "arms crossed", "ann_id": 1152583, "best_split": [1, 2], "split_score": 0.37777777776432414}
+{"sent": "angry one", "ann_id": 1152583, "best_split": [3, 1], "split_score": 0.32490340708092275}
+{"sent": "the pot with arms crossed", "ann_id": 1152583, "best_split": [1, 2], "split_score": 0.37777777776432414}

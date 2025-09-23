@@ -1,0 +1,6 @@
+{"sent": "dog next to womans leg", "ann_id": 15014, "best_split": [2, 3], "split_score": 0.833452465947885}
+{"sent": "animal woman is looking at", "ann_id": 15014, "best_split": [2, 3], "split_score": 0.833452465947885}
+{"sent": "light tan and white dog", "ann_id": 15014, "best_split": [2, 3], "split_score": 0.833452465947885}
+{"sent": "white and brown dog", "ann_id": 3126, "best_split": [3, 1], "split_score": 0.30388529137928505}
+{"sent": "spot smaller dog", "ann_id": 3126, "best_split": [3, 1], "split_score": 0.30388529137928505}
+{"sent": "white dog brown spot", "ann_id": 3126, "best_split": [3, 1], "split_score": 0.30388529137928505}

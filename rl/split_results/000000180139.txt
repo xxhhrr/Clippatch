@@ -1,0 +1,5 @@
+{"sent": "man in red shirt", "ann_id": 458830, "best_split": [1, 5], "split_score": 0.3640422077552717}
+{"sent": "man in red stripes", "ann_id": 458830, "best_split": [1, 5], "split_score": 0.3640422077552717}
+{"sent": "red striped shirt", "ann_id": 458830, "best_split": [1, 5], "split_score": 0.3640422077552717}
+{"sent": "man getting off bus before others", "ann_id": 434624, "best_split": [3, 2], "split_score": 0.1270848255267487}
+{"sent": "dark shirt in door", "ann_id": 434624, "best_split": [2, 3], "split_score": 0.2870997896369362}

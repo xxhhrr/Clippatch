@@ -1,0 +1,5 @@
+{"sent": "thing with stripes below beside girl", "ann_id": 502899, "best_split": [1, 2], "split_score": 0.13859215560672067}
+{"sent": "stripe hat girl", "ann_id": 502899, "best_split": [1, 2], "split_score": 0.13859215560672067}
+{"sent": "lady on phone", "ann_id": 474195, "best_split": [1, 3], "split_score": 0.5263902534672277}
+{"sent": "person on bikere", "ann_id": 474195, "best_split": [1, 3], "split_score": 0.5263902534672277}
+{"sent": "woman with white hat", "ann_id": 474195, "best_split": [1, 3], "split_score": 0.5263902534672277}

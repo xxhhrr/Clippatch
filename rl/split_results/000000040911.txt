@@ -1,0 +1,10 @@
+{"sent": "tallest man", "ann_id": 477941, "best_split": [1, 2], "split_score": 0.5037789324317518}
+{"sent": "the man standing mostly straight up across from the man leaning over", "ann_id": 477941, "best_split": [1, 3], "split_score": 0.2704321779944188}
+{"sent": "cook", "ann_id": 477941, "best_split": [1, 2], "split_score": 0.5037789324317518}
+{"sent": "chef closest to us", "ann_id": 477941, "best_split": [1, 3], "split_score": 0.2704321779944188}
+{"sent": "man walking in a blur", "ann_id": 452356, "best_split": [1, 5], "split_score": 0.631929891347692}
+{"sent": "man showing back to us", "ann_id": 452356, "best_split": [1, 5], "split_score": 0.631929891347692}
+{"sent": "cut off person in white", "ann_id": 452356, "best_split": [1, 3], "split_score": 0.42060750444189354}
+{"sent": "bald guy leaned over the most preparing food", "ann_id": 2160200, "best_split": [2, 3], "split_score": 0.30056255020757017}
+{"sent": "man bending over", "ann_id": 2160200, "best_split": [3, 2], "split_score": 0.376621535381256}
+{"sent": "bald man bending", "ann_id": 2160200, "best_split": [3, 2], "split_score": 0.376621535381256}

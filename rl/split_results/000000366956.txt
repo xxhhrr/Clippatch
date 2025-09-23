@@ -1,0 +1,6 @@
+{"sent": "partially visible zebra", "ann_id": 591138, "best_split": [1, 2], "split_score": 0.31429368621196213}
+{"sent": "xebra head up", "ann_id": 591138, "best_split": [1, 2], "split_score": 0.31429368621196213}
+{"sent": "zebra head up high", "ann_id": 591138, "best_split": [1, 2], "split_score": 0.31429368621196213}
+{"sent": "closer zeb", "ann_id": 589864, "best_split": [2, 1], "split_score": 0.6344449134432797}
+{"sent": "zebra with head down", "ann_id": 589864, "best_split": [2, 1], "split_score": 0.6344449134432797}
+{"sent": "zebra closest to camera", "ann_id": 589864, "best_split": [2, 1], "split_score": 0.6344449134432797}

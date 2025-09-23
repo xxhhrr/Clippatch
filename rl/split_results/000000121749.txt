@@ -1,0 +1,12 @@
+{"sent": "hat head", "ann_id": 552415, "best_split": [3, 3], "split_score": 0.44540853209591313}
+{"sent": "baseball hat", "ann_id": 552415, "best_split": [3, 3], "split_score": 0.44540853209591313}
+{"sent": "white cap", "ann_id": 552415, "best_split": [3, 3], "split_score": 0.44540853209591313}
+{"sent": "black shirt blond hair", "ann_id": 549603, "best_split": [1, 2], "split_score": 0.18080357142136466}
+{"sent": "blond woman", "ann_id": 549603, "best_split": [1, 5], "split_score": 0.46022727268057756}
+{"sent": "blond woman", "ann_id": 549603, "best_split": [1, 5], "split_score": 0.46022727268057756}
+{"sent": "blue shirt and dark hair behind man in tie", "ann_id": 532765, "best_split": [2, 2], "split_score": 0.26546556120332704}
+{"sent": "person by the girl", "ann_id": 532765, "best_split": [2, 1], "split_score": 0.1327327806069542}
+{"sent": "guy sitting next to girl looking at camera", "ann_id": 532765, "best_split": [1, 2], "split_score": 0.1327327806069542}
+{"sent": "man in blue", "ann_id": 453969, "best_split": [1, 3], "split_score": 0.6280682180176893}
+{"sent": "man", "ann_id": 453969, "best_split": [1, 3], "split_score": 0.6280682180176893}
+{"sent": "angry dude", "ann_id": 453969, "best_split": [1, 3], "split_score": 0.6280682180176893}

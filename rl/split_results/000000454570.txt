@@ -1,0 +1,6 @@
+{"sent": "horse with all legs visible", "ann_id": 60364, "best_split": [3, 3], "split_score": 0.4648632754388616}
+{"sent": "horse with white mark on neck", "ann_id": 60364, "best_split": [3, 3], "split_score": 0.4648632754388616}
+{"sent": "horse white patch", "ann_id": 60364, "best_split": [3, 3], "split_score": 0.4648632754388616}
+{"sent": "all brown horse with dark mane drinking", "ann_id": 60310, "best_split": [3, 2], "split_score": 0.3514304290906555}
+{"sent": "horse next to one with white spot", "ann_id": 60310, "best_split": [3, 2], "split_score": 0.3514304290906555}
+{"sent": "drinking but not on end", "ann_id": 60310, "best_split": [2, 2], "split_score": 0.18673288398817078}

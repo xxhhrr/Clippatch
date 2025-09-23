@@ -1,0 +1,8 @@
+{"sent": "the white horse", "ann_id": 59871, "best_split": [1, 3], "split_score": 0.5601436265394892}
+{"sent": "white horse", "ann_id": 59871, "best_split": [1, 3], "split_score": 0.5601436265394892}
+{"sent": "white horse", "ann_id": 59871, "best_split": [1, 3], "split_score": 0.5601436265394892}
+{"sent": "horse with purple girl", "ann_id": 59180, "best_split": [1, 3], "split_score": 0.6285440841830037}
+{"sent": "horse that the lady in purple in riding", "ann_id": 59180, "best_split": [1, 3], "split_score": 0.6285440841830037}
+{"sent": "brown horse with rider in blue", "ann_id": 54647, "best_split": [3, 1], "split_score": 0.3153083359034975}
+{"sent": "shiny brown horse", "ann_id": 54647, "best_split": [3, 1], "split_score": 0.3153083359034975}
+{"sent": "horse under black pants", "ann_id": 54647, "best_split": [3, 1], "split_score": 0.3153083359034975}

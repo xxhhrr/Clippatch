@@ -1,0 +1,6 @@
+{"sent": "back banana", "ann_id": 1045738, "best_split": [3, 2], "split_score": 0.5889346135586494}
+{"sent": "banana by wall", "ann_id": 1045738, "best_split": [3, 2], "split_score": 0.5889346135586494}
+{"sent": "banana that is over ripe by wall", "ann_id": 1045738, "best_split": [3, 2], "split_score": 0.5889346135586494}
+{"sent": "banana touching two plates", "ann_id": 1041634, "best_split": [2, 2], "split_score": 0.43413364186091213}
+{"sent": "banana near flower", "ann_id": 1041634, "best_split": [2, 2], "split_score": 0.43413364186091213}
+{"sent": "nearest banana", "ann_id": 1041634, "best_split": [2, 2], "split_score": 0.43413364186091213}

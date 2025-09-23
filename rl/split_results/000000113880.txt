@@ -1,0 +1,6 @@
+{"sent": "car nearest the bike rack thingy", "ann_id": 138839, "best_split": [2, 2], "split_score": 0.30566037733495105}
+{"sent": "car next to sidewalk near you", "ann_id": 138839, "best_split": [2, 3], "split_score": 0.444267515873036}
+{"sent": "dark gray car", "ann_id": 138839, "best_split": [2, 3], "split_score": 0.444267515873036}
+{"sent": "yellow taxi", "ann_id": 133021, "best_split": [5, 1], "split_score": 0.39402985070951213}
+{"sent": "taxi", "ann_id": 133021, "best_split": [5, 1], "split_score": 0.39402985070951213}
+{"sent": "taxi", "ann_id": 133021, "best_split": [5, 1], "split_score": 0.39402985070951213}

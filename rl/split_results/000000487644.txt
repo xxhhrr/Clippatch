@@ -1,0 +1,6 @@
+{"sent": "part elephant", "ann_id": 583625, "best_split": [3, 2], "split_score": 0.2916322976545108}
+{"sent": "elephant at rear", "ann_id": 583625, "best_split": [3, 2], "split_score": 0.2916322976545108}
+{"sent": "elephant barley seen", "ann_id": 583625, "best_split": [3, 2], "split_score": 0.2916322976545108}
+{"sent": "full elephant", "ann_id": 580825, "best_split": [1, 3], "split_score": 0.4385642737713454}
+{"sent": "elephant by the blue shirt guy", "ann_id": 580825, "best_split": [1, 3], "split_score": 0.4385642737713454}
+{"sent": "big happy elephant with dusty back", "ann_id": 580825, "best_split": [1, 3], "split_score": 0.4385642737713454}

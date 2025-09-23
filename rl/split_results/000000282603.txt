@@ -1,0 +1,6 @@
+{"sent": "gray bottle", "ann_id": 1156657, "best_split": [1, 5], "split_score": 0.33421266230375274}
+{"sent": "larger vase not white", "ann_id": 1156657, "best_split": [3, 2], "split_score": 0.20847245406839812}
+{"sent": "tall bottle beside vase of flowers", "ann_id": 1156657, "best_split": [3, 2], "split_score": 0.20847245406839812}
+{"sent": "the white vase", "ann_id": 1152723, "best_split": [3, 3], "split_score": 0.2295081966883077}
+{"sent": "white vase with flowers in it", "ann_id": 1152723, "best_split": [3, 3], "split_score": 0.2295081966883077}
+{"sent": "white vase", "ann_id": 1152723, "best_split": [3, 3], "split_score": 0.2295081966883077}

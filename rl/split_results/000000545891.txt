@@ -1,0 +1,15 @@
+{"sent": "man with glasses sitting down", "ann_id": 536306, "best_split": [1, 5], "split_score": 0.44805194800648823}
+{"sent": "man glasses on side", "ann_id": 536306, "best_split": [1, 5], "split_score": 0.44805194800648823}
+{"sent": "glasses black shirt", "ann_id": 536306, "best_split": [1, 5], "split_score": 0.44805194800648823}
+{"sent": "boy brown shirt", "ann_id": 535089, "best_split": [1, 2], "split_score": 0.258529974479491}
+{"sent": "little boy in brown", "ann_id": 535089, "best_split": [2, 3], "split_score": 0.5066285946862504}
+{"sent": "boy brown shirt", "ann_id": 535089, "best_split": [1, 2], "split_score": 0.258529974479491}
+{"sent": "older girl looking down with brown hair", "ann_id": 532766, "best_split": [3, 3], "split_score": 0.5024755976089297}
+{"sent": "woman", "ann_id": 532766, "best_split": [3, 3], "split_score": 0.5024755976089297}
+{"sent": "woman in black", "ann_id": 532766, "best_split": [3, 3], "split_score": 0.5024755976089297}
+{"sent": "guy in red", "ann_id": 532374, "best_split": [3, 2], "split_score": 0.37599330819991705}
+{"sent": "guy in red sweatshirt", "ann_id": 532374, "best_split": [3, 2], "split_score": 0.37599330819991705}
+{"sent": "red", "ann_id": 532374, "best_split": [3, 2], "split_score": 0.37599330819991705}
+{"sent": "man standing with kid", "ann_id": 512506, "best_split": [1, 3], "split_score": 0.2893943050018464}
+{"sent": "standing glasses paper in hand", "ann_id": 512506, "best_split": [1, 5], "split_score": 0.3217571711779039}
+{"sent": "waitress with head looking in air", "ann_id": 512506, "best_split": [3, 1], "split_score": 0.15610969869875535}

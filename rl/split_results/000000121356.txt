@@ -1,0 +1,5 @@
+{"sent": "elephant only feet are visible", "ann_id": 584249, "best_split": [3, 1], "split_score": 0.3293918918720203}
+{"sent": "partially visible elephant", "ann_id": 584249, "best_split": [3, 1], "split_score": 0.3293918918720203}
+{"sent": "visible head", "ann_id": 582766, "best_split": [1, 2], "split_score": 0.7083279618180892}
+{"sent": "closest elephant", "ann_id": 582766, "best_split": [1, 2], "split_score": 0.7083279618180892}
+{"sent": "elephant trunk", "ann_id": 582766, "best_split": [1, 2], "split_score": 0.7083279618180892}

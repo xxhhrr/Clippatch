@@ -1,0 +1,14 @@
+{"sent": "redvelvet doughnut", "ann_id": 2119758, "best_split": [3, 2], "split_score": 0.25220519959932625}
+{"sent": "brown donut cut off by pic closest to white one on edge", "ann_id": 2119758, "best_split": [3, 1], "split_score": 0.12854945574251364}
+{"sent": "dark donut only partially seen", "ann_id": 2119758, "best_split": [3, 1], "split_score": 0.12854945574251364}
+{"sent": "donut with powdered sugar that is only a little visible no chocolate", "ann_id": 2119335, "best_split": [2, 1], "split_score": 0.2150430484608162}
+{"sent": "white round piece on the edge", "ann_id": 2119335, "best_split": [3, 3], "split_score": 0.7935984159720181}
+{"sent": "powdered corner donut", "ann_id": 2119335, "best_split": [2, 2], "split_score": 0.4300860969044893}
+{"sent": "donut covered in powdered sugar", "ann_id": 1925548, "best_split": [2, 2], "split_score": 0.4770408162885012}
+{"sent": "white donut cut off of pic no sprinkles", "ann_id": 1925548, "best_split": [2, 1], "split_score": 0.23852040815375794}
+{"sent": "powder corner doughnut", "ann_id": 1925548, "best_split": [2, 1], "split_score": 0.23852040815375794}
+{"sent": "black donut", "ann_id": 1080559, "best_split": [2, 2], "split_score": 0.5918966529219101}
+{"sent": "dark orient", "ann_id": 1080559, "best_split": [2, 2], "split_score": 0.5918966529219101}
+{"sent": "chocolate donut", "ann_id": 1080559, "best_split": [2, 2], "split_score": 0.5918966529219101}
+{"sent": "beige donut with hole", "ann_id": 1079141, "best_split": [2, 1], "split_score": 0.6310882007114017}
+{"sent": "main donut", "ann_id": 1079141, "best_split": [2, 1], "split_score": 0.6310882007114017}

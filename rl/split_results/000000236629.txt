@@ -1,0 +1,6 @@
+{"sent": "sandwich in purple box", "ann_id": 2218961, "best_split": [3, 3], "split_score": 0.3445945945316664}
+{"sent": "bread in blue", "ann_id": 2218961, "best_split": [3, 3], "split_score": 0.3445945945316664}
+{"sent": "bread at 7 o clock", "ann_id": 2218961, "best_split": [3, 3], "split_score": 0.3445945945316664}
+{"sent": "whitest bread", "ann_id": 308897, "best_split": [3, 2], "split_score": 0.28571428567981244}
+{"sent": "sandwich in green box", "ann_id": 308897, "best_split": [3, 2], "split_score": 0.28571428567981244}
+{"sent": "white sandwich in green tray", "ann_id": 308897, "best_split": [3, 2], "split_score": 0.28571428567981244}

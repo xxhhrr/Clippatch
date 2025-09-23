@@ -1,0 +1,4 @@
+{"sent": "sandwich nearest coffee cup", "ann_id": 311035, "best_split": [1, 2], "split_score": 0.246588161886977}
+{"sent": "sandwich closer to mug", "ann_id": 311035, "best_split": [3, 2], "split_score": 0.33515226189621966}
+{"sent": "sandwich half nearer to the fork", "ann_id": 310977, "best_split": [2, 2], "split_score": 0.4112013324719827}
+{"sent": "sandwich near fork", "ann_id": 310977, "best_split": [2, 2], "split_score": 0.4112013324719827}

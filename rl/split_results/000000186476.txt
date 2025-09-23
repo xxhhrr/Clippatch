@@ -1,0 +1,9 @@
+{"sent": "partial man closest to camera", "ann_id": 1305050, "best_split": [2, 3], "split_score": 0.5468765370834356}
+{"sent": "cut off guy", "ann_id": 1305050, "best_split": [2, 3], "split_score": 0.5468765370834356}
+{"sent": "black and white sweater in corner", "ann_id": 1305050, "best_split": [1, 5], "split_score": 0.571999999948}
+{"sent": "lavender shirt", "ann_id": 1288906, "best_split": [2, 1], "split_score": 0.2554106779519321}
+{"sent": "purple shirt", "ann_id": 1288906, "best_split": [2, 1], "split_score": 0.2554106779519321}
+{"sent": "pink headscarf", "ann_id": 1288906, "best_split": [1, 5], "split_score": 0.5558794946164182}
+{"sent": "person with striped sleeves at 3 o clock", "ann_id": 1240996, "best_split": [3, 2], "split_score": 0.2923210328266383}
+{"sent": "woman in blue shirt", "ann_id": 1240996, "best_split": [3, 3], "split_score": 0.335643190079924}
+{"sent": "woman in white striped hood", "ann_id": 1240996, "best_split": [3, 2], "split_score": 0.2923210328266383}

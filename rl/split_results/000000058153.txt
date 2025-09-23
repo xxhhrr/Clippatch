@@ -1,0 +1,6 @@
+{"sent": "the black thing", "ann_id": 2183971, "best_split": [3, 3], "split_score": 0.2374252549705548}
+{"sent": "black cup", "ann_id": 2183971, "best_split": [5, 1], "split_score": 0.08249573297150618}
+{"sent": "black mug", "ann_id": 2183971, "best_split": [5, 1], "split_score": 0.08249573297150618}
+{"sent": "angel mug", "ann_id": 680101, "best_split": [3, 3], "split_score": 0.32195121945610605}
+{"sent": "ngel mug", "ann_id": 680101, "best_split": [3, 3], "split_score": 0.32195121945610605}
+{"sent": "coffee mug", "ann_id": 680101, "best_split": [3, 3], "split_score": 0.32195121945610605}

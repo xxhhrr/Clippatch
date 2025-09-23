@@ -1,0 +1,13 @@
+{"sent": "carrot half covered in bag behind the ccut carrot", "ann_id": 1066020, "best_split": [3, 3], "split_score": 0.32914110424399673}
+{"sent": "carrot under wrap closest to carrot not under wrap", "ann_id": 1066020, "best_split": [3, 3], "split_score": 0.32914110424399673}
+{"sent": "carrot stick in plastic near one that is not in plastic", "ann_id": 1066020, "best_split": [3, 3], "split_score": 0.32914110424399673}
+{"sent": "carrots in plastic bag", "ann_id": 1065905, "best_split": [3, 3], "split_score": 0.345699367910731}
+{"sent": "carrot at 1200", "ann_id": 1065905, "best_split": [3, 3], "split_score": 0.345699367910731}
+{"sent": "cleaned carrot closest to bag of carrots", "ann_id": 1065581, "best_split": [5, 1], "split_score": 0.49407459040658114}
+{"sent": "carrot next to bag", "ann_id": 1065581, "best_split": [5, 1], "split_score": 0.49407459040658114}
+{"sent": "carrot out of bag farthest from knife", "ann_id": 1065581, "best_split": [5, 1], "split_score": 0.49407459040658114}
+{"sent": "carrot closest to blade of knife", "ann_id": 1065084, "best_split": [5, 1], "split_score": 0.46158940392984016}
+{"sent": "biggest carrot next to knife", "ann_id": 1065084, "best_split": [5, 1], "split_score": 0.46158940392984016}
+{"sent": "lone carrot on dull side of blade", "ann_id": 1063178, "best_split": [1, 2], "split_score": 0.3150510203956054}
+{"sent": "lone food", "ann_id": 1063178, "best_split": [1, 2], "split_score": 0.3150510203956054}
+{"sent": "carrot not with the others", "ann_id": 1063178, "best_split": [1, 2], "split_score": 0.3150510203956054}

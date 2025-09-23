@@ -1,0 +1,7 @@
+{"sent": "donut that is surrounded by all the others", "ann_id": 1080476, "best_split": [3, 3], "split_score": 0.3179628354580243}
+{"sent": "donut surrounded by others", "ann_id": 1080476, "best_split": [3, 3], "split_score": 0.3179628354580243}
+{"sent": "the one with hole filled with jelly", "ann_id": 1079640, "best_split": [3, 3], "split_score": 0.17871840091435648}
+{"sent": "count one normally its one", "ann_id": 1079640, "best_split": [2, 3], "split_score": 0.228396461756816}
+{"sent": "donut hole or whatever it is closest to us", "ann_id": 1078441, "best_split": [3, 3], "split_score": 0.15784982932908848}
+{"sent": "closest dessert", "ann_id": 1078441, "best_split": [3, 3], "split_score": 0.15784982932908848}
+{"sent": "piece with sugar and near sauce", "ann_id": 1078441, "best_split": [5, 1], "split_score": 0.17798682971044338}

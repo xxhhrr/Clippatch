@@ -1,0 +1,14 @@
+{"sent": "closest", "ann_id": 597741, "best_split": [1, 2], "split_score": 0.5570797644353226}
+{"sent": "closest giraffe", "ann_id": 597741, "best_split": [1, 2], "split_score": 0.5570797644353226}
+{"sent": "shortest gir", "ann_id": 596901, "best_split": [2, 2], "split_score": 0.4177860120103608}
+{"sent": "smallest giraffe", "ann_id": 596901, "best_split": [2, 2], "split_score": 0.4177860120103608}
+{"sent": "smallest giraffe", "ann_id": 596901, "best_split": [2, 2], "split_score": 0.4177860120103608}
+{"sent": "animal on his own", "ann_id": 600478, "best_split": [2, 1], "split_score": 0.11734693877083278}
+{"sent": "giraffe behind the bush", "ann_id": 600478, "best_split": [5, 1], "split_score": 0.23456790121194368}
+{"sent": "animal half shown", "ann_id": 600478, "best_split": [5, 1], "split_score": 0.23456790121194368}
+{"sent": "giraffe with highest head", "ann_id": 598882, "best_split": [1, 3], "split_score": 0.6020300274581291}
+{"sent": "giraffe standing next to giraffe that has tongue sticking out", "ann_id": 598882, "best_split": [1, 3], "split_score": 0.6020300274581291}
+{"sent": "giraffe with head blocked by other giraffe", "ann_id": 598449, "best_split": [3, 2], "split_score": 0.4832697387376526}
+{"sent": "next tallest giraffe face slightly obscured", "ann_id": 598449, "best_split": [3, 2], "split_score": 0.4832697387376526}
+{"sent": "giraffe with half face blocked", "ann_id": 598449, "best_split": [3, 2], "split_score": 0.4832697387376526}
+{"sent": "face is partially covered", "ann_id": 598449, "best_split": [1, 2], "split_score": 0.4753667091647255}

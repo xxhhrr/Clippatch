@@ -1,0 +1,8 @@
+{"sent": "high sandwich", "ann_id": 312482, "best_split": [3, 1], "split_score": 0.464767846161548}
+{"sent": "high sandwich", "ann_id": 312482, "best_split": [3, 1], "split_score": 0.464767846161548}
+{"sent": "main sandwich", "ann_id": 312482, "best_split": [3, 1], "split_score": 0.464767846161548}
+{"sent": "sandwich with tomato shown", "ann_id": 312139, "best_split": [2, 2], "split_score": 0.6598373723963777}
+{"sent": "bread with tomato sticking out", "ann_id": 312139, "best_split": [2, 3], "split_score": 0.6599859704719926}
+{"sent": "the bun with the tomato", "ann_id": 312139, "best_split": [1, 2], "split_score": 0.32991868621133935}
+{"sent": "small sandwich", "ann_id": 311113, "best_split": [2, 1], "split_score": 0.3222257652932786}
+{"sent": "sandwich in between", "ann_id": 311113, "best_split": [2, 1], "split_score": 0.3222257652932786}

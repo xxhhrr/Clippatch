@@ -1,0 +1,6 @@
+{"sent": "lamb whose face you can see", "ann_id": 63454, "best_split": [1, 2], "split_score": 0.578489284576706}
+{"sent": "lamb with full ear visible", "ann_id": 63454, "best_split": [1, 2], "split_score": 0.578489284576706}
+{"sent": "animal closet to rounds remaing side", "ann_id": 63454, "best_split": [2, 1], "split_score": 0.47063515272723166}
+{"sent": "cant see this sheeps face", "ann_id": 62445, "best_split": [1, 2], "split_score": 0.8573635427079093}
+{"sent": "animal at 3 o clock", "ann_id": 62445, "best_split": [1, 2], "split_score": 0.8573635427079093}
+{"sent": "sheep u cant see face", "ann_id": 62445, "best_split": [2, 2], "split_score": 0.42512766594979245}

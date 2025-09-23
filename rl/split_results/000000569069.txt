@@ -1,0 +1,9 @@
+{"sent": "guy standing behind fence", "ann_id": 2150766, "best_split": [5, 1], "split_score": 0.3432267883996169}
+{"sent": "male spectator", "ann_id": 2150766, "best_split": [3, 3], "split_score": 0.44854253413912215}
+{"sent": "watcher not in white", "ann_id": 2150766, "best_split": [5, 1], "split_score": 0.3432267883996169}
+{"sent": "woman", "ann_id": 473056, "best_split": [3, 3], "split_score": 0.8272985147960455}
+{"sent": "white shirt spectator", "ann_id": 473056, "best_split": [3, 3], "split_score": 0.8272985147960455}
+{"sent": "white shirt spectator", "ann_id": 473056, "best_split": [3, 3], "split_score": 0.8272985147960455}
+{"sent": "boy", "ann_id": 441325, "best_split": [1, 3], "split_score": 0.5688682678052734}
+{"sent": "player", "ann_id": 441325, "best_split": [1, 3], "split_score": 0.5688682678052734}
+{"sent": "boy", "ann_id": 441325, "best_split": [1, 3], "split_score": 0.5688682678052734}

@@ -1,0 +1,6 @@
+{"sent": "the girl with dark jacket", "ann_id": 1733355, "best_split": [3, 3], "split_score": 0.3334256054901833}
+{"sent": "child in dark jacket", "ann_id": 1733355, "best_split": [3, 3], "split_score": 0.3334256054901833}
+{"sent": "girl with black jacket", "ann_id": 1733355, "best_split": [3, 3], "split_score": 0.3334256054901833}
+{"sent": "light suit kid", "ann_id": 192315, "best_split": [1, 5], "split_score": 0.3652597402226806}
+{"sent": "boy in tie", "ann_id": 192315, "best_split": [1, 5], "split_score": 0.3652597402226806}
+{"sent": "the bot", "ann_id": 192315, "best_split": [3, 2], "split_score": 0.2888117952852546}

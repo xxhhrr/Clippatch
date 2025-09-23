@@ -1,0 +1,9 @@
+{"sent": "chair that has white bear", "ann_id": 1580163, "best_split": [2, 3], "split_score": 0.47249999995078124}
+{"sent": "bookend nearest white bear", "ann_id": 1580163, "best_split": [2, 2], "split_score": 0.4275069853750771}
+{"sent": "chair with white bear", "ann_id": 1580163, "best_split": [2, 3], "split_score": 0.47249999995078124}
+{"sent": "brown toy", "ann_id": 1159472, "best_split": [3, 3], "split_score": 0.42074506931688366}
+{"sent": "monkey", "ann_id": 1159472, "best_split": [3, 1], "split_score": 0.13899613898775362}
+{"sent": "dark monkey bookend", "ann_id": 1159472, "best_split": [3, 1], "split_score": 0.13899613898775362}
+{"sent": "white bear", "ann_id": 1159465, "best_split": [3, 3], "split_score": 0.29540884713548776}
+{"sent": "white teddy bear", "ann_id": 1159465, "best_split": [3, 3], "split_score": 0.29540884713548776}
+{"sent": "white teddy", "ann_id": 1159465, "best_split": [3, 3], "split_score": 0.29540884713548776}

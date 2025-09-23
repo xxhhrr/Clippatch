@@ -1,0 +1,6 @@
+{"sent": "back sheep", "ann_id": 66443, "best_split": [1, 2], "split_score": 0.35890288771438}
+{"sent": "sheep in back", "ann_id": 66443, "best_split": [1, 2], "split_score": 0.35890288771438}
+{"sent": "sheep facing away", "ann_id": 66443, "best_split": [1, 2], "split_score": 0.35890288771438}
+{"sent": "full face looking at you", "ann_id": 64842, "best_split": [2, 1], "split_score": 0.7187299225401979}
+{"sent": "looking", "ann_id": 64842, "best_split": [2, 1], "split_score": 0.7187299225401979}
+{"sent": "sheep looking at you", "ann_id": 64842, "best_split": [2, 1], "split_score": 0.7187299225401979}

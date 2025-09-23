@@ -1,0 +1,5 @@
+{"sent": "picture of two peopple", "ann_id": 1145134, "best_split": [2, 2], "split_score": 0.2528230865548288}
+{"sent": "cover with two people", "ann_id": 1145134, "best_split": [3, 3], "split_score": 0.30462800229867776}
+{"sent": "magazine with man in yellow shirt", "ann_id": 1145134, "best_split": [2, 3], "split_score": 0.3794726929873502}
+{"sent": "mattpsyd at outlook dot com message me boog", "ann_id": 1140314, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "cartoon animals", "ann_id": 1140314, "best_split": [1, 5], "split_score": 0.11880619857290929}

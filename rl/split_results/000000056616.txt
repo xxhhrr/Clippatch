@@ -1,0 +1,6 @@
+{"sent": "skier closes to the word 2000", "ann_id": 442403, "best_split": [1, 5], "split_score": 0.2629482071475056}
+{"sent": "skier next to 2000", "ann_id": 442403, "best_split": [1, 5], "split_score": 0.2629482071475056}
+{"sent": "skier with bushes", "ann_id": 442403, "best_split": [1, 5], "split_score": 0.2629482071475056}
+{"sent": "man in trees not bushes", "ann_id": 427367, "best_split": [5, 1], "split_score": 0.2015991375256851}
+{"sent": "skiier nearest to sky", "ann_id": 427367, "best_split": [2, 2], "split_score": 0.2805325254878402}
+{"sent": "man next to banff", "ann_id": 427367, "best_split": [2, 2], "split_score": 0.2805325254878402}

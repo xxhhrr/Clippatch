@@ -1,0 +1,9 @@
+{"sent": "person catching ball", "ann_id": 1740455, "best_split": [3, 3], "split_score": 0.674829711210699}
+{"sent": "catcher", "ann_id": 1740455, "best_split": [3, 3], "split_score": 0.674829711210699}
+{"sent": "catcher", "ann_id": 1740455, "best_split": [3, 3], "split_score": 0.674829711210699}
+{"sent": "batter", "ann_id": 1200961, "best_split": [3, 2], "split_score": 0.3997526938350333}
+{"sent": "the batter", "ann_id": 1200961, "best_split": [3, 2], "split_score": 0.3997526938350333}
+{"sent": "batter", "ann_id": 1200961, "best_split": [3, 2], "split_score": 0.3997526938350333}
+{"sent": "man in black", "ann_id": 493196, "best_split": [3, 2], "split_score": 0.3534520190671459}
+{"sent": "umpire", "ann_id": 493196, "best_split": [2, 2], "split_score": 0.33322704078976184}
+{"sent": "the umpire", "ann_id": 493196, "best_split": [2, 2], "split_score": 0.33322704078976184}

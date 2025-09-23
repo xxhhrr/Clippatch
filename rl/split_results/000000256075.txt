@@ -1,0 +1,6 @@
+{"sent": "white suv", "ann_id": 144226, "best_split": [2, 3], "split_score": 0.2964527026669338}
+{"sent": "white suv", "ann_id": 144226, "best_split": [2, 3], "split_score": 0.2964527026669338}
+{"sent": "car closest to bus", "ann_id": 144226, "best_split": [2, 3], "split_score": 0.2964527026669338}
+{"sent": "the car closest to the stoplight", "ann_id": 134168, "best_split": [5, 1], "split_score": 0.23051948049609178}
+{"sent": "nearest car next to curb", "ann_id": 134168, "best_split": [5, 1], "split_score": 0.23051948049609178}
+{"sent": "smallest car", "ann_id": 134168, "best_split": [5, 1], "split_score": 0.23051948049609178}

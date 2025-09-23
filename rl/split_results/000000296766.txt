@@ -1,0 +1,6 @@
+{"sent": "closest man to us", "ann_id": 551813, "best_split": [2, 1], "split_score": 0.22505068708444467}
+{"sent": "man in blue plain shirt", "ann_id": 551813, "best_split": [1, 5], "split_score": 0.6582425562339693}
+{"sent": "man in blue paid", "ann_id": 551813, "best_split": [1, 5], "split_score": 0.6582425562339693}
+{"sent": "man with black sweater", "ann_id": 543039, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "black sweater", "ann_id": 543039, "best_split": [2, 3], "split_score": 0.32557221780529083}
+{"sent": "man standing next to crowd", "ann_id": 543039, "best_split": [1, 5], "split_score": 0.5223214285184333}

@@ -1,0 +1,6 @@
+{"sent": "any stuffed object", "ann_id": 1957727, "best_split": [2, 1], "split_score": 0.6857045240814935}
+{"sent": "stuff toy", "ann_id": 1957727, "best_split": [2, 1], "split_score": 0.6857045240814935}
+{"sent": "any object shown", "ann_id": 1957727, "best_split": [2, 1], "split_score": 0.6857045240814935}
+{"sent": "red flowered thing next to teddy", "ann_id": 318346, "best_split": [3, 1], "split_score": 0.296153846139608}
+{"sent": "pink doll bed", "ann_id": 318346, "best_split": [3, 2], "split_score": 0.4758141004998566}
+{"sent": "red bed", "ann_id": 318346, "best_split": [3, 1], "split_score": 0.296153846139608}

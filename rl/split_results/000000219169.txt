@@ -1,0 +1,7 @@
+{"sent": "elephant off screen next one and then the next one", "ann_id": 581917, "best_split": [3, 1], "split_score": 0.23025571394940847}
+{"sent": "elephant behind biggest one", "ann_id": 581178, "best_split": [3, 2], "split_score": 0.3936557974195985}
+{"sent": "1234", "ann_id": 581178, "best_split": [3, 1], "split_score": 0.262307995258971}
+{"sent": "smaller elephant facing largest elephant", "ann_id": 581178, "best_split": [3, 2], "split_score": 0.3936557974195985}
+{"sent": "biggest elephant", "ann_id": 580317, "best_split": [3, 3], "split_score": 0.6438839847863954}
+{"sent": "largest elephant at end of line", "ann_id": 580317, "best_split": [3, 3], "split_score": 0.6438839847863954}
+{"sent": "closest to edge elephant and largest one", "ann_id": 580317, "best_split": [3, 3], "split_score": 0.6438839847863954}

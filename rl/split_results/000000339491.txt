@@ -1,0 +1,4 @@
+{"sent": "closest chef", "ann_id": 2151920, "best_split": [1, 2], "split_score": 0.8863201530258961}
+{"sent": "man chopping", "ann_id": 2151920, "best_split": [1, 2], "split_score": 0.8863201530258961}
+{"sent": "cook slicing potato", "ann_id": 2151920, "best_split": [2, 1], "split_score": 0.2961218229542035}
+{"sent": "man cutting on green board", "ann_id": 2151920, "best_split": [2, 1], "split_score": 0.2961218229542035}

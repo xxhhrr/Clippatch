@@ -1,0 +1,12 @@
+{"sent": "blue shirt", "ann_id": 224176, "best_split": [3, 3], "split_score": 0.26191599808141625}
+{"sent": "lady with blue shirt standing with others", "ann_id": 224176, "best_split": [1, 5], "split_score": 0.42873388926945283}
+{"sent": "blue shirt", "ann_id": 224176, "best_split": [3, 3], "split_score": 0.26191599808141625}
+{"sent": "white shirt", "ann_id": 220035, "best_split": [1, 3], "split_score": 0.4539695945672074}
+{"sent": "white shirt", "ann_id": 220035, "best_split": [1, 3], "split_score": 0.4539695945672074}
+{"sent": "guy in white", "ann_id": 220035, "best_split": [1, 5], "split_score": 0.4975874547219035}
+{"sent": "shirt with vertical stripes blue jeans", "ann_id": 217019, "best_split": [1, 3], "split_score": 0.2870651806660438}
+{"sent": "guy in light striped shirt", "ann_id": 217019, "best_split": [1, 3], "split_score": 0.2870651806660438}
+{"sent": "long sleeves", "ann_id": 217019, "best_split": [3, 3], "split_score": 0.23255813951052187}
+{"sent": "black and yellow shirt", "ann_id": 214210, "best_split": [1, 5], "split_score": 0.745377934410063}
+{"sent": "yellow and black shirt", "ann_id": 214210, "best_split": [1, 5], "split_score": 0.745377934410063}
+{"sent": "man wearing yellow and black shirt", "ann_id": 214210, "best_split": [1, 5], "split_score": 0.745377934410063}

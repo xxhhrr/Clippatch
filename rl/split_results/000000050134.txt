@@ -1,0 +1,6 @@
+{"sent": "brown chair in corner of image", "ann_id": 112775, "best_split": [3, 3], "split_score": 0.8295454544180673}
+{"sent": "light brown chair", "ann_id": 112775, "best_split": [3, 3], "split_score": 0.8295454544180673}
+{"sent": "brown chair", "ann_id": 112775, "best_split": [3, 3], "split_score": 0.8295454544180673}
+{"sent": "far couch behind coffee table", "ann_id": 99132, "best_split": [2, 2], "split_score": 0.3039647576853395}
+{"sent": "darker chair or couch", "ann_id": 99132, "best_split": [2, 2], "split_score": 0.3039647576853395}
+{"sent": "brown couch next to lamp", "ann_id": 99132, "best_split": [2, 2], "split_score": 0.3039647576853395}

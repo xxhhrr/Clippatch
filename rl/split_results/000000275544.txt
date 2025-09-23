@@ -1,0 +1,7 @@
+{"sent": "white cycle", "ann_id": 150269, "best_split": [2, 2], "split_score": 0.7820471938152067}
+{"sent": "white bike", "ann_id": 150269, "best_split": [2, 2], "split_score": 0.7820471938152067}
+{"sent": "white bike", "ann_id": 150269, "best_split": [2, 2], "split_score": 0.7820471938152067}
+{"sent": "all black car", "ann_id": 141024, "best_split": [5, 1], "split_score": 0.20027116015879612}
+{"sent": "black car near edge", "ann_id": 141024, "best_split": [5, 1], "split_score": 0.20027116015879612}
+{"sent": "white van", "ann_id": 138246, "best_split": [3, 3], "split_score": 0.47017628586450416}
+{"sent": "white car behind the motorcycle", "ann_id": 138246, "best_split": [3, 3], "split_score": 0.47017628586450416}

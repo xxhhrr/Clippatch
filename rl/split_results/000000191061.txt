@@ -1,0 +1,8 @@
+{"sent": "woman in blue coat", "ann_id": 1220862, "best_split": [1, 5], "split_score": 0.5272692600565151}
+{"sent": "blue coat", "ann_id": 1220862, "best_split": [1, 5], "split_score": 0.5272692600565151}
+{"sent": "blue coat by black truck", "ann_id": 1220862, "best_split": [1, 5], "split_score": 0.5272692600565151}
+{"sent": "guy in blue hat", "ann_id": 1213984, "best_split": [1, 3], "split_score": 0.3576254826039077}
+{"sent": "man", "ann_id": 1213984, "best_split": [1, 3], "split_score": 0.3576254826039077}
+{"sent": "closest truck", "ann_id": 400524, "best_split": [1, 3], "split_score": 0.8209257798839438}
+{"sent": "black food truck", "ann_id": 400524, "best_split": [1, 3], "split_score": 0.8209257798839438}
+{"sent": "black truck", "ann_id": 400524, "best_split": [1, 3], "split_score": 0.8209257798839438}

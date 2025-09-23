@@ -1,0 +1,6 @@
+{"sent": "the larger computer monitor", "ann_id": 2134262, "best_split": [1, 5], "split_score": 0.244444444420194}
+{"sent": "computer screen nearest keyboard", "ann_id": 2134262, "best_split": [1, 5], "split_score": 0.244444444420194}
+{"sent": "highest computer monitor", "ann_id": 2134262, "best_split": [1, 5], "split_score": 0.244444444420194}
+{"sent": "small computer monitor", "ann_id": 2134371, "best_split": [2, 3], "split_score": 0.3149131273751311}
+{"sent": "monitor above chair", "ann_id": 2134371, "best_split": [3, 3], "split_score": 0.22496591422133524}
+{"sent": "smaller screen", "ann_id": 2134371, "best_split": [2, 3], "split_score": 0.3149131273751311}

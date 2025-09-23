@@ -1,0 +1,13 @@
+{"sent": "pepperoni pizza", "ann_id": 1073356, "best_split": [3, 3], "split_score": 0.48418334401481866}
+{"sent": "white shirt only", "ann_id": 2163579, "best_split": [2, 3], "split_score": 0.6381409897622454}
+{"sent": "the persons arms all the way on the side that is holding a piece of food but not a knife", "ann_id": 2163579, "best_split": [2, 3], "split_score": 0.6381409897622454}
+{"sent": "hand holding white pizza", "ann_id": 2163579, "best_split": [3, 2], "split_score": 0.3465883000875573}
+{"sent": "black sleeve", "ann_id": 2161861, "best_split": [3, 3], "split_score": 0.8015373863030157}
+{"sent": "person with empty plate black sleeves", "ann_id": 2161861, "best_split": [3, 3], "split_score": 0.8015373863030157}
+{"sent": "black and whte shirt", "ann_id": 2161861, "best_split": [3, 3], "split_score": 0.8015373863030157}
+{"sent": "half cheese pizza", "ann_id": 1924207, "best_split": [2, 2], "split_score": 0.2080676020242293}
+{"sent": "corner half pizza", "ann_id": 1924207, "best_split": [2, 2], "split_score": 0.2080676020242293}
+{"sent": "half pizza", "ann_id": 1924207, "best_split": [2, 2], "split_score": 0.2080676020242293}
+{"sent": "lower pizza with most slices", "ann_id": 1924128, "best_split": [2, 1], "split_score": 0.19084821427810714}
+{"sent": "mostly whole white pizza", "ann_id": 1924128, "best_split": [3, 1], "split_score": 0.24187641688996822}
+{"sent": "pizza at 7 o clock", "ann_id": 1924128, "best_split": [3, 1], "split_score": 0.030235810385772492}

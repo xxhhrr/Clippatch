@@ -1,0 +1,6 @@
+{"sent": "bear in white", "ann_id": 1160803, "best_split": [1, 2], "split_score": 0.6169965075444923}
+{"sent": "male bear with white shirt", "ann_id": 1160803, "best_split": [1, 2], "split_score": 0.6169965075444923}
+{"sent": "white shirt", "ann_id": 1160803, "best_split": [1, 2], "split_score": 0.6169965075444923}
+{"sent": "bear with dress", "ann_id": 1160290, "best_split": [3, 2], "split_score": 0.3588987684675527}
+{"sent": "bear with black and red hat", "ann_id": 1160290, "best_split": [1, 5], "split_score": 0.40355696259585844}
+{"sent": "female bear", "ann_id": 1160290, "best_split": [3, 2], "split_score": 0.3588987684675527}

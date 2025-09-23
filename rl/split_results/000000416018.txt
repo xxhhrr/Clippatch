@@ -1,0 +1,6 @@
+{"sent": "gray shirt on person alomost out of pic", "ann_id": 198505, "best_split": [2, 1], "split_score": 0.4100007669142572}
+{"sent": "person with steering wheel", "ann_id": 198505, "best_split": [2, 2], "split_score": 0.7900103442596416}
+{"sent": "partially seen dark gray shirt", "ann_id": 198505, "best_split": [2, 3], "split_score": 0.6672232425557503}
+{"sent": "biggest partial head", "ann_id": 196093, "best_split": [1, 3], "split_score": 0.6612374165444386}
+{"sent": "dark brown hair", "ann_id": 196093, "best_split": [1, 3], "split_score": 0.6612374165444386}
+{"sent": "person not holding the wii wheel", "ann_id": 196093, "best_split": [2, 1], "split_score": 0.30022650832932163}

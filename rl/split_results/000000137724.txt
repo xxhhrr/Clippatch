@@ -1,0 +1,11 @@
+{"sent": "red shirt", "ann_id": 495409, "best_split": [1, 3], "split_score": 0.3742760617534824}
+{"sent": "man longsleeve redish shirt", "ann_id": 495409, "best_split": [3, 1], "split_score": 0.16676910468311978}
+{"sent": "man plaid shirt leaning on arm", "ann_id": 495409, "best_split": [1, 3], "split_score": 0.3742760617534824}
+{"sent": "chair under man in gray", "ann_id": 387791, "best_split": [3, 1], "split_score": 0.2419936851464821}
+{"sent": "chair guy in black is sitting on", "ann_id": 387791, "best_split": [3, 1], "split_score": 0.2419936851464821}
+{"sent": "chair next to man with glassws", "ann_id": 1590494, "best_split": [3, 3], "split_score": 0.608070065591481}
+{"sent": "gray chair", "ann_id": 1590494, "best_split": [3, 3], "split_score": 0.608070065591481}
+{"sent": "chair at 700", "ann_id": 1590494, "best_split": [3, 3], "split_score": 0.608070065591481}
+{"sent": "black chair closest to the camera", "ann_id": 374126, "best_split": [3, 2], "split_score": 0.4790823211337064}
+{"sent": "black chair that is empty in forground", "ann_id": 374126, "best_split": [3, 2], "split_score": 0.4790823211337064}
+{"sent": "black empty chair near us", "ann_id": 374126, "best_split": [3, 2], "split_score": 0.4790823211337064}

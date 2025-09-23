@@ -1,0 +1,5 @@
+{"sent": "person closest to bike but not the rider", "ann_id": 217020, "best_split": [2, 1], "split_score": 0.1824332071940361}
+{"sent": "man closest to biker", "ann_id": 217020, "best_split": [2, 1], "split_score": 0.1824332071940361}
+{"sent": "hands in pockets crossing road", "ann_id": 217020, "best_split": [2, 3], "split_score": 0.4579207920319801}
+{"sent": "man in the back with the hood", "ann_id": 224463, "best_split": [2, 3], "split_score": 0.34391944225473947}
+{"sent": "trailing behind in crossing", "ann_id": 224463, "best_split": [2, 2], "split_score": 0.24419663175207126}

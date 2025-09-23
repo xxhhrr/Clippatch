@@ -1,0 +1,8 @@
+{"sent": "white shirt black pants not dancing", "ann_id": 559215, "best_split": [1, 5], "split_score": 0.31047899011668}
+{"sent": "tall man", "ann_id": 559215, "best_split": [2, 3], "split_score": 0.3350034384188031}
+{"sent": "man across from girl", "ann_id": 486977, "best_split": [3, 1], "split_score": 0.1565180102832055}
+{"sent": "white shirt black pants no face", "ann_id": 486977, "best_split": [3, 1], "split_score": 0.1565180102832055}
+{"sent": "man dancing while others look", "ann_id": 486977, "best_split": [3, 3], "split_score": 0.38644785595732556}
+{"sent": "man watching and laughing", "ann_id": 459401, "best_split": [2, 2], "split_score": 0.3758700695783157}
+{"sent": "man with hand at his side", "ann_id": 459401, "best_split": [2, 3], "split_score": 0.5436241610168179}
+{"sent": "person at 900", "ann_id": 459401, "best_split": [2, 3], "split_score": 0.5436241610168179}

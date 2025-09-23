@@ -1,0 +1,6 @@
+{"sent": "man on ri", "ann_id": 2154519, "best_split": [3, 1], "split_score": 0.19338842974293324}
+{"sent": "blue hat", "ann_id": 2154519, "best_split": [1, 2], "split_score": 0.3465401785576156}
+{"sent": "man touching horses face", "ann_id": 2154519, "best_split": [2, 2], "split_score": 0.4778373112185765}
+{"sent": "blue jacket tan pants", "ann_id": 192326, "best_split": [2, 3], "split_score": 0.5869251722010155}
+{"sent": "dude punching the horse", "ann_id": 192326, "best_split": [2, 3], "split_score": 0.5869251722010155}
+{"sent": "white lettering on jacket", "ann_id": 192326, "best_split": [2, 3], "split_score": 0.5869251722010155}

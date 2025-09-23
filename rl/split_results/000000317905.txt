@@ -1,0 +1,6 @@
+{"sent": "monitor with word document up", "ann_id": 1625356, "best_split": [3, 2], "split_score": 0.4688777297128485}
+{"sent": "screen with no people", "ann_id": 1625356, "best_split": [3, 2], "split_score": 0.4688777297128485}
+{"sent": "lower screen", "ann_id": 1625356, "best_split": [3, 2], "split_score": 0.4688777297128485}
+{"sent": "high tv", "ann_id": 30658, "best_split": [2, 2], "split_score": 0.4220125785831751}
+{"sent": "screen closer to ceiling", "ann_id": 30658, "best_split": [2, 2], "split_score": 0.4220125785831751}
+{"sent": "tv on wall", "ann_id": 30658, "best_split": [2, 2], "split_score": 0.4220125785831751}

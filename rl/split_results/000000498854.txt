@@ -1,0 +1,3 @@
+{"sent": "chair beside boot", "ann_id": 1933346, "best_split": [3, 2], "split_score": 0.4374999999538112}
+{"sent": "seat back not touching boot", "ann_id": 1598075, "best_split": [3, 1], "split_score": 0.20270270269047402}
+{"sent": "the back booth", "ann_id": 1598075, "best_split": [1, 3], "split_score": 0.19923002886193275}

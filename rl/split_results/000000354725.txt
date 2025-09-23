@@ -1,0 +1,5 @@
+{"sent": "blurry bird", "ann_id": 1814620, "best_split": [3, 1], "split_score": 0.1915444348473067}
+{"sent": "bird in background", "ann_id": 1814620, "best_split": [3, 1], "split_score": 0.1915444348473067}
+{"sent": "closest bird", "ann_id": 39122, "best_split": [1, 3], "split_score": 0.4740653245442653}
+{"sent": "main bird", "ann_id": 39122, "best_split": [1, 3], "split_score": 0.4740653245442653}
+{"sent": "bird", "ann_id": 39122, "best_split": [1, 3], "split_score": 0.4740653245442653}

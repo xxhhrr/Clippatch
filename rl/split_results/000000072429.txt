@@ -1,0 +1,6 @@
+{"sent": "man holding child", "ann_id": 486116, "best_split": [3, 3], "split_score": 0.38597768069068683}
+{"sent": "dad", "ann_id": 486116, "best_split": [3, 3], "split_score": 0.38597768069068683}
+{"sent": "person holding baby", "ann_id": 486116, "best_split": [3, 3], "split_score": 0.38597768069068683}
+{"sent": "lady in a green shirt", "ann_id": 478801, "best_split": [3, 3], "split_score": 0.39131644859569764}
+{"sent": "woman", "ann_id": 478801, "best_split": [1, 3], "split_score": 0.2728040540375963}
+{"sent": "woman in green", "ann_id": 478801, "best_split": [3, 2], "split_score": 0.2718427323002539}

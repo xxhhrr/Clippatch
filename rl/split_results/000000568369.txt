@@ -1,0 +1,7 @@
+{"sent": "man in black jacket with tie", "ann_id": 536361, "best_split": [3, 1], "split_score": 0.19205298012129354}
+{"sent": "tie and jacket", "ann_id": 536361, "best_split": [2, 2], "split_score": 0.19808167416087183}
+{"sent": "woman", "ann_id": 423861, "best_split": [1, 3], "split_score": 0.5663649634705772}
+{"sent": "woman with glasses", "ann_id": 423861, "best_split": [1, 3], "split_score": 0.5663649634705772}
+{"sent": "woman", "ann_id": 423861, "best_split": [1, 3], "split_score": 0.5663649634705772}
+{"sent": "man wearing white", "ann_id": 1707228, "best_split": [2, 3], "split_score": 0.7224317220063499}
+{"sent": "white shirt black tie man", "ann_id": 1707228, "best_split": [2, 3], "split_score": 0.7224317220063499}

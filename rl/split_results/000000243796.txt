@@ -1,0 +1,9 @@
+{"sent": "solo laptop", "ann_id": 1098974, "best_split": [5, 1], "split_score": 0.387323943630976}
+{"sent": "laptop with no one sitting near it", "ann_id": 1098974, "best_split": [2, 3], "split_score": 0.46870342767616396}
+{"sent": "laptop closest facing chair", "ann_id": 1098974, "best_split": [5, 1], "split_score": 0.387323943630976}
+{"sent": "red jacket dont quit game", "ann_id": 485183, "best_split": [3, 2], "split_score": 0.5884699942522214}
+{"sent": "red jacket", "ann_id": 485183, "best_split": [3, 2], "split_score": 0.5884699942522214}
+{"sent": "red shirt", "ann_id": 485183, "best_split": [3, 2], "split_score": 0.5884699942522214}
+{"sent": "laptop facing us", "ann_id": 1627051, "best_split": [2, 3], "split_score": 0.4668981203798757}
+{"sent": "laptop with black screen facing us", "ann_id": 1627051, "best_split": [2, 3], "split_score": 0.4668981203798757}
+{"sent": "laptop facing directly at us", "ann_id": 1627051, "best_split": [2, 3], "split_score": 0.4668981203798757}

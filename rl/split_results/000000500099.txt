@@ -1,0 +1,6 @@
+{"sent": "lol that was elephant here select the bench going round table", "ann_id": 1938823, "best_split": [2, 1], "split_score": 0.6915791238072312}
+{"sent": "booth seat", "ann_id": 1938823, "best_split": [2, 1], "split_score": 0.6915791238072312}
+{"sent": "booth", "ann_id": 1938823, "best_split": [3, 1], "split_score": 0.4644395035190555}
+{"sent": "chair", "ann_id": 101818, "best_split": [2, 2], "split_score": 0.5286129970581588}
+{"sent": "chair with back showing", "ann_id": 101818, "best_split": [2, 2], "split_score": 0.5286129970581588}
+{"sent": "close chair", "ann_id": 101818, "best_split": [2, 2], "split_score": 0.5286129970581588}

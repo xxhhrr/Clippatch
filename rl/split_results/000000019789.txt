@@ -1,0 +1,6 @@
+{"sent": "guy in back", "ann_id": 478698, "best_split": [3, 2], "split_score": 0.45818251091082274}
+{"sent": "guy behind guy", "ann_id": 478698, "best_split": [3, 2], "split_score": 0.45818251091082274}
+{"sent": "black shirt", "ann_id": 478698, "best_split": [2, 2], "split_score": 0.29743351679173463}
+{"sent": "white shirt dark pants", "ann_id": 445145, "best_split": [3, 3], "split_score": 0.4457468457105619}
+{"sent": "white shirt", "ann_id": 445145, "best_split": [3, 3], "split_score": 0.4457468457105619}
+{"sent": "man in white shirt", "ann_id": 445145, "best_split": [3, 3], "split_score": 0.4457468457105619}

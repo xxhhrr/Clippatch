@@ -1,0 +1,6 @@
+{"sent": "bread behind dark meat", "ann_id": 312672, "best_split": [3, 2], "split_score": 0.8343904157017628}
+{"sent": "lonely bread", "ann_id": 312672, "best_split": [3, 2], "split_score": 0.8343904157017628}
+{"sent": "bread piece not with toothpick", "ann_id": 312672, "best_split": [3, 1], "split_score": 0.5627542297610827}
+{"sent": "full sandwich", "ann_id": 309958, "best_split": [1, 2], "split_score": 0.8770746139097606}
+{"sent": "bacon tomato", "ann_id": 309958, "best_split": [2, 2], "split_score": 0.4302637298786312}
+{"sent": "tomatoes on sandwich", "ann_id": 309958, "best_split": [1, 2], "split_score": 0.8770746139097606}

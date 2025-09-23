@@ -1,0 +1,12 @@
+{"sent": "girl in red", "ann_id": 1265228, "best_split": [2, 3], "split_score": 0.4151366788642251}
+{"sent": "holding football", "ann_id": 1265228, "best_split": [2, 2], "split_score": 0.2996415770394522}
+{"sent": "women with the football", "ann_id": 1265228, "best_split": [1, 2], "split_score": 0.222656249991125}
+{"sent": "gray sleeves", "ann_id": 1247020, "best_split": [3, 2], "split_score": 0.2468368989824204}
+{"sent": "only shoulder", "ann_id": 1247020, "best_split": [1, 2], "split_score": 0.10172193877145559}
+{"sent": "partial gray shirt no face", "ann_id": 1247020, "best_split": [3, 2], "split_score": 0.2468368989824204}
+{"sent": "long haired guy", "ann_id": 1238208, "best_split": [2, 2], "split_score": 0.41592180228864556}
+{"sent": "man with hat", "ann_id": 1238208, "best_split": [1, 2], "split_score": 0.3609890109766144}
+{"sent": "bus on shirt", "ann_id": 1238208, "best_split": [2, 3], "split_score": 0.4600332523046404}
+{"sent": "boy in white", "ann_id": 1208005, "best_split": [1, 5], "split_score": 0.5132192845671413}
+{"sent": "indian boy white shirt", "ann_id": 1208005, "best_split": [1, 5], "split_score": 0.5132192845671413}
+{"sent": "boy in white t shirt no hat", "ann_id": 1208005, "best_split": [1, 5], "split_score": 0.5132192845671413}

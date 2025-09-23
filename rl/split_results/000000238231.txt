@@ -1,0 +1,5 @@
+{"sent": "bike woman is standing by", "ann_id": 130302, "best_split": [3, 2], "split_score": 0.4535056616203242}
+{"sent": "bicycle with woman holding seat", "ann_id": 130302, "best_split": [3, 3], "split_score": 0.6685213284996592}
+{"sent": "bicycle next to woman", "ann_id": 130302, "best_split": [3, 3], "split_score": 0.6685213284996592}
+{"sent": "bike at yellow pole", "ann_id": 128987, "best_split": [3, 1], "split_score": 0.2576600023507831}
+{"sent": "bike closest to basket or crate", "ann_id": 128987, "best_split": [3, 3], "split_score": 0.7502583532982675}

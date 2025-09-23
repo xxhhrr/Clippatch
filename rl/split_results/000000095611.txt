@@ -1,0 +1,6 @@
+{"sent": "horse mostly hidden", "ann_id": 59590, "best_split": [1, 3], "split_score": 0.3063215952319515}
+{"sent": "partial horse", "ann_id": 59590, "best_split": [1, 3], "split_score": 0.3063215952319515}
+{"sent": "furthest horse", "ann_id": 59590, "best_split": [1, 3], "split_score": 0.3063215952319515}
+{"sent": "brown horse near us", "ann_id": 59412, "best_split": [1, 3], "split_score": 0.514775243020754}
+{"sent": "horse with all four legs visible", "ann_id": 59412, "best_split": [1, 3], "split_score": 0.514775243020754}
+{"sent": "looking at camera", "ann_id": 59412, "best_split": [1, 3], "split_score": 0.514775243020754}

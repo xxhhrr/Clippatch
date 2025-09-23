@@ -1,0 +1,6 @@
+{"sent": "person with glasses", "ann_id": 2162781, "best_split": [3, 3], "split_score": 0.8295454544180673}
+{"sent": "child only showing head", "ann_id": 2162781, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "person in black shirt", "ann_id": 2162781, "best_split": [3, 1], "split_score": 0.38114385162448877}
+{"sent": "kid who is standing", "ann_id": 209311, "best_split": [1, 2], "split_score": 0.7158933250841725}
+{"sent": "child in white shirt", "ann_id": 209311, "best_split": [1, 2], "split_score": 0.7158933250841725}
+{"sent": "karate kid", "ann_id": 209311, "best_split": [1, 2], "split_score": 0.7158933250841725}

@@ -1,0 +1,8 @@
+{"sent": "piece of pizza beside the metal cutting piece", "ann_id": 1073312, "best_split": [3, 2], "split_score": 0.37062634986532567}
+{"sent": "the piece touching pizza cutter", "ann_id": 1073312, "best_split": [3, 2], "split_score": 0.37062634986532567}
+{"sent": "part of pizza closest to us", "ann_id": 1071168, "best_split": [2, 2], "split_score": 0.4787715013002769}
+{"sent": "5 to 7 o clock pizza", "ann_id": 1071168, "best_split": [2, 2], "split_score": 0.4787715013002769}
+{"sent": "pizza slice closest", "ann_id": 1071168, "best_split": [2, 2], "split_score": 0.4787715013002769}
+{"sent": "slice of pizza not whole pizza", "ann_id": 1924109, "best_split": [1, 2], "split_score": 0.3022959183552975}
+{"sent": "slice of pizza away from pizza", "ann_id": 1924109, "best_split": [1, 2], "split_score": 0.3022959183552975}
+{"sent": "piece by itself", "ann_id": 1924109, "best_split": [1, 2], "split_score": 0.3022959183552975}

@@ -1,0 +1,11 @@
+{"sent": "oven", "ann_id": 1642925, "best_split": [1, 2], "split_score": 0.567864203402827}
+{"sent": "open oven", "ann_id": 1642925, "best_split": [1, 2], "split_score": 0.567864203402827}
+{"sent": "oven with open door", "ann_id": 1642925, "best_split": [1, 2], "split_score": 0.567864203402827}
+{"sent": "low oven", "ann_id": 1642273, "best_split": [1, 5], "split_score": 0.24202420240122394}
+{"sent": "lower ovan", "ann_id": 1642273, "best_split": [1, 5], "split_score": 0.24202420240122394}
+{"sent": "lower ovan", "ann_id": 1642273, "best_split": [1, 5], "split_score": 0.24202420240122394}
+{"sent": "lady", "ann_id": 480933, "best_split": [1, 2], "split_score": 0.6674505739529875}
+{"sent": "light blue", "ann_id": 480933, "best_split": [1, 2], "split_score": 0.6674505739529875}
+{"sent": "blue jacket", "ann_id": 473285, "best_split": [1, 2], "split_score": 0.3737166324298285}
+{"sent": "blue blazer", "ann_id": 473285, "best_split": [1, 2], "split_score": 0.3737166324298285}
+{"sent": "a man in a blue jacket", "ann_id": 473285, "best_split": [1, 2], "split_score": 0.3737166324298285}

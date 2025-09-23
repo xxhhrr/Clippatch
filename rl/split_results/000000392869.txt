@@ -1,0 +1,6 @@
+{"sent": "bus that only part of it is seen", "ann_id": 166601, "best_split": [3, 3], "split_score": 0.32399299469877507}
+{"sent": "back of bus you can only see that part", "ann_id": 166601, "best_split": [3, 3], "split_score": 0.32399299469877507}
+{"sent": "bus barely shown", "ann_id": 166601, "best_split": [3, 3], "split_score": 0.32399299469877507}
+{"sent": "red bus thats fully visible", "ann_id": 163403, "best_split": [3, 1], "split_score": 0.5558744091595259}
+{"sent": "red bus closest to us", "ann_id": 163403, "best_split": [3, 1], "split_score": 0.5558744091595259}
+{"sent": "full exposed of red bus", "ann_id": 163403, "best_split": [3, 1], "split_score": 0.5558744091595259}

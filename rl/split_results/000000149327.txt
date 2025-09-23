@@ -1,0 +1,9 @@
+{"sent": "bald guy", "ann_id": 1308717, "best_split": [1, 3], "split_score": 0.4340179280361955}
+{"sent": "bald head gray shirt", "ann_id": 1308717, "best_split": [1, 2], "split_score": 0.2496486426418504}
+{"sent": "bald man", "ann_id": 1308717, "best_split": [1, 3], "split_score": 0.4340179280361955}
+{"sent": "woman standing up", "ann_id": 1307575, "best_split": [2, 1], "split_score": 0.16581738052038916}
+{"sent": "waitress", "ann_id": 1307575, "best_split": [3, 1], "split_score": 0.14355318956313484}
+{"sent": "person standing", "ann_id": 1307575, "best_split": [1, 5], "split_score": 0.6215181057954806}
+{"sent": "gray tshirt guy", "ann_id": 1300767, "best_split": [1, 3], "split_score": 0.6218849116095443}
+{"sent": "man with gray shirt sitting on blue and silver chair", "ann_id": 1300767, "best_split": [1, 3], "split_score": 0.6218849116095443}
+{"sent": "man in gray wearing pants", "ann_id": 1300767, "best_split": [1, 3], "split_score": 0.6218849116095443}

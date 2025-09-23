@@ -1,0 +1,6 @@
+{"sent": "shorter one", "ann_id": 598009, "best_split": [2, 1], "split_score": 0.4236890011033035}
+{"sent": "smaller giraffe", "ann_id": 598009, "best_split": [1, 3], "split_score": 0.46992204734262677}
+{"sent": "giraffe closest to gate", "ann_id": 598009, "best_split": [1, 3], "split_score": 0.46992204734262677}
+{"sent": "closest", "ann_id": 596439, "best_split": [1, 3], "split_score": 0.40138277811435}
+{"sent": "giraffe nearest us", "ann_id": 596439, "best_split": [1, 2], "split_score": 0.7682472029579033}
+{"sent": "closest", "ann_id": 596439, "best_split": [1, 3], "split_score": 0.40138277811435}

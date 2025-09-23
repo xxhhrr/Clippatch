@@ -1,0 +1,17 @@
+{"sent": "brown closest to us", "ann_id": 1572739, "best_split": [1, 3], "split_score": 0.17548028310538522}
+{"sent": "closest doughnut to us on rightt", "ann_id": 1572739, "best_split": [3, 1], "split_score": 0.30250406138017455}
+{"sent": "donut closest to us in the row that isnt cutoff", "ann_id": 1572739, "best_split": [3, 1], "split_score": 0.30250406138017455}
+{"sent": "upper corner glazed", "ann_id": 1572366, "best_split": [1, 3], "split_score": 0.38151544399242787}
+{"sent": "farthest donut", "ann_id": 1572366, "best_split": [1, 3], "split_score": 0.38151544399242787}
+{"sent": "most distant plain glazed", "ann_id": 1572366, "best_split": [1, 3], "split_score": 0.38151544399242787}
+{"sent": "most complete medium color donut", "ann_id": 1083150, "best_split": [1, 2], "split_score": 0.2168602919192411}
+{"sent": "highest row fourth donut in brown", "ann_id": 1083150, "best_split": [3, 1], "split_score": 0.28287064067716594}
+{"sent": "darkest donut", "ann_id": 1082893, "best_split": [3, 3], "split_score": 0.6243176177885462}
+{"sent": "darkest donut", "ann_id": 1082893, "best_split": [3, 3], "split_score": 0.6243176177885462}
+{"sent": "chocolatey donut", "ann_id": 1082893, "best_split": [3, 3], "split_score": 0.6243176177885462}
+{"sent": "regular donut with a little brown frosting and powdered sugar", "ann_id": 1082257, "best_split": [3, 3], "split_score": 0.7567567566185616}
+{"sent": "glaze donut behind the light brown one behind the choco one", "ann_id": 1081857, "best_split": [1, 2], "split_score": 0.33828922192529143}
+{"sent": "glaze donut at 12", "ann_id": 1081857, "best_split": [1, 2], "split_score": 0.33828922192529143}
+{"sent": "regular donut next to flap thingy sticking in", "ann_id": 1081857, "best_split": [1, 2], "split_score": 0.33828922192529143}
+{"sent": "donut between the crinkly one and chocolate one", "ann_id": 1081513, "best_split": [1, 5], "split_score": 0.24835061261287528}
+{"sent": "lighter donut between chocolate and medium brown donuts", "ann_id": 1081513, "best_split": [3, 3], "split_score": 0.2914197136599417}

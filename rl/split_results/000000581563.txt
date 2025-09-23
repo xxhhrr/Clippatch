@@ -1,0 +1,6 @@
+{"sent": "large dark item next to car", "ann_id": 1345868, "best_split": [3, 3], "split_score": 0.6206160413814248}
+{"sent": "black car", "ann_id": 1345868, "best_split": [3, 3], "split_score": 0.6206160413814248}
+{"sent": "truck closest to trees", "ann_id": 1345868, "best_split": [3, 3], "split_score": 0.6206160413814248}
+{"sent": "taxi", "ann_id": 344837, "best_split": [5, 1], "split_score": 0.7098005203200519}
+{"sent": "taxi", "ann_id": 344837, "best_split": [5, 1], "split_score": 0.7098005203200519}
+{"sent": "closest car", "ann_id": 344837, "best_split": [5, 1], "split_score": 0.7098005203200519}

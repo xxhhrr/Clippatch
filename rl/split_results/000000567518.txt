@@ -1,0 +1,6 @@
+{"sent": "taller guy", "ann_id": 465380, "best_split": [1, 3], "split_score": 0.5085139318604316}
+{"sent": "man", "ann_id": 465380, "best_split": [1, 3], "split_score": 0.5085139318604316}
+{"sent": "man brown shirt", "ann_id": 465380, "best_split": [1, 3], "split_score": 0.5085139318604316}
+{"sent": "shorter person", "ann_id": 445784, "best_split": [3, 3], "split_score": 0.44933207388350666}
+{"sent": "black pants", "ann_id": 445784, "best_split": [3, 3], "split_score": 0.44933207388350666}
+{"sent": "woman", "ann_id": 445784, "best_split": [3, 3], "split_score": 0.44933207388350666}

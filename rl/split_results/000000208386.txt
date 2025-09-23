@@ -1,0 +1,6 @@
+{"sent": "the lady in blue", "ann_id": 208682, "best_split": [3, 2], "split_score": 0.4305608545945669}
+{"sent": "blue shirt", "ann_id": 208682, "best_split": [3, 1], "split_score": 0.24046452161514678}
+{"sent": "woman in blue", "ann_id": 208682, "best_split": [1, 3], "split_score": 0.40480212352770256}
+{"sent": "older man", "ann_id": 200353, "best_split": [1, 2], "split_score": 0.5659083114048843}
+{"sent": "white shirt", "ann_id": 200353, "best_split": [1, 2], "split_score": 0.5659083114048843}
+{"sent": "man in white", "ann_id": 200353, "best_split": [1, 2], "split_score": 0.5659083114048843}

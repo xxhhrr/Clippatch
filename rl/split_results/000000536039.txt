@@ -1,0 +1,6 @@
+{"sent": "sammich at 7", "ann_id": 313697, "best_split": [3, 3], "split_score": 0.5284657445274259}
+{"sent": "sandwich under other sandwich", "ann_id": 313697, "best_split": [3, 3], "split_score": 0.5284657445274259}
+{"sent": "sandwich half under other one", "ann_id": 313697, "best_split": [3, 3], "split_score": 0.5284657445274259}
+{"sent": "biggest piece of toast", "ann_id": 313512, "best_split": [3, 2], "split_score": 0.37898881056993483}
+{"sent": "larger half", "ann_id": 313512, "best_split": [3, 2], "split_score": 0.37898881056993483}
+{"sent": "sandwich above the other one", "ann_id": 313512, "best_split": [3, 2], "split_score": 0.37898881056993483}

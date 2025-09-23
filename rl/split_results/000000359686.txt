@@ -1,0 +1,6 @@
+{"sent": "boy in white shirt near boy in blue hat", "ann_id": 1303953, "best_split": [2, 2], "split_score": 0.6735436892693004}
+{"sent": "boy in white without hat", "ann_id": 1303953, "best_split": [2, 3], "split_score": 0.8561600999732999}
+{"sent": "buy watching the game", "ann_id": 1303953, "best_split": [1, 3], "split_score": 0.02333241833562086}
+{"sent": "boy with blue hat", "ann_id": 1298979, "best_split": [2, 3], "split_score": 0.6490465037750589}
+{"sent": "boy with blue hat", "ann_id": 1298979, "best_split": [2, 3], "split_score": 0.6490465037750589}
+{"sent": "young boy blue cap", "ann_id": 1298979, "best_split": [2, 3], "split_score": 0.6490465037750589}

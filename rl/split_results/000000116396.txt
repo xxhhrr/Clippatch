@@ -1,0 +1,3 @@
+{"sent": "metro closest to walkway with yellow line", "ann_id": 172316, "best_split": [3, 2], "split_score": 0.46548020861725375}
+{"sent": "closer train", "ann_id": 172316, "best_split": [3, 2], "split_score": 0.46548020861725375}
+{"sent": "train where red pully", "ann_id": 172316, "best_split": [3, 1], "split_score": 0.39073923637333774}

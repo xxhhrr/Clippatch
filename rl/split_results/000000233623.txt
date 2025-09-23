@@ -1,0 +1,6 @@
+{"sent": "fat cow", "ann_id": 506037, "best_split": [2, 2], "split_score": 0.6797722342272389}
+{"sent": "taller", "ann_id": 506037, "best_split": [1, 2], "split_score": 0.4877232142662738}
+{"sent": "guy", "ann_id": 506037, "best_split": [2, 2], "split_score": 0.6797722342272389}
+{"sent": "girlfriend", "ann_id": 439538, "best_split": [1, 5], "split_score": 0.2622901225032302}
+{"sent": "woman", "ann_id": 439538, "best_split": [3, 3], "split_score": 0.27195701588427806}
+{"sent": "lady in blue", "ann_id": 439538, "best_split": [1, 5], "split_score": 0.2622901225032302}

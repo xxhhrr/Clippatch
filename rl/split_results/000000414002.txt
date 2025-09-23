@@ -1,0 +1,9 @@
+{"sent": "man without facial hair", "ann_id": 1726002, "best_split": [1, 2], "split_score": 0.5204081632445628}
+{"sent": "bald in black", "ann_id": 1726002, "best_split": [1, 5], "split_score": 0.584070796419796}
+{"sent": "balding man", "ann_id": 1726002, "best_split": [1, 5], "split_score": 0.584070796419796}
+{"sent": "woman", "ann_id": 562949, "best_split": [1, 5], "split_score": 0.9241071427633819}
+{"sent": "lady", "ann_id": 562949, "best_split": [1, 5], "split_score": 0.9241071427633819}
+{"sent": "woamn", "ann_id": 562949, "best_split": [2, 1], "split_score": 0.1666211790336169}
+{"sent": "with hand on his sides", "ann_id": 464280, "best_split": [2, 1], "split_score": 0.16806929820880773}
+{"sent": "man farthest away", "ann_id": 464280, "best_split": [1, 5], "split_score": 0.6332847778010483}
+{"sent": "guy wearing iron maiden shirt", "ann_id": 464280, "best_split": [1, 5], "split_score": 0.6332847778010483}

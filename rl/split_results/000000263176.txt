@@ -1,0 +1,6 @@
+{"sent": "white and blue boat", "ann_id": 176340, "best_split": [3, 1], "split_score": 0.42772965127181173}
+{"sent": "big white boat", "ann_id": 176340, "best_split": [3, 1], "split_score": 0.42772965127181173}
+{"sent": "side of boat closet to dock", "ann_id": 176340, "best_split": [3, 1], "split_score": 0.42772965127181173}
+{"sent": "dark boat", "ann_id": 175788, "best_split": [3, 3], "split_score": 0.3081871344578674}
+{"sent": "black boat with bulls eye", "ann_id": 175788, "best_split": [3, 3], "split_score": 0.3081871344578674}
+{"sent": "the boat near the white boat", "ann_id": 175788, "best_split": [5, 1], "split_score": 0.2147283995429522}

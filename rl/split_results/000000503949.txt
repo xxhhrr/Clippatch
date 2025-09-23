@@ -1,0 +1,4 @@
+{"sent": "zebra you can fully see with nose to a rock towars back", "ann_id": 1822926, "best_split": [3, 3], "split_score": 0.4842266461739316}
+{"sent": "smallest one by itself", "ann_id": 588838, "best_split": [1, 3], "split_score": 0.09057971014060928}
+{"sent": "closest zebra", "ann_id": 588838, "best_split": [2, 2], "split_score": 0.5022321428171052}
+{"sent": "zebra closest to camera", "ann_id": 588838, "best_split": [2, 2], "split_score": 0.5022321428171052}

@@ -1,0 +1,6 @@
+{"sent": "child", "ann_id": 2151649, "best_split": [5, 1], "split_score": 0.3091334894355024}
+{"sent": "girl with blue shirt", "ann_id": 2151649, "best_split": [2, 3], "split_score": 0.36884050924590916}
+{"sent": "girl sitting on lap", "ann_id": 2151649, "best_split": [2, 3], "split_score": 0.36884050924590916}
+{"sent": "green shirt", "ann_id": 1720525, "best_split": [2, 2], "split_score": 0.6153566494135565}
+{"sent": "green shirt", "ann_id": 1720525, "best_split": [2, 2], "split_score": 0.6153566494135565}
+{"sent": "green", "ann_id": 1720525, "best_split": [2, 2], "split_score": 0.6153566494135565}

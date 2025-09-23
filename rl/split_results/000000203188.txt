@@ -1,0 +1,5 @@
+{"sent": "white under cake", "ann_id": 2130243, "best_split": [1, 2], "split_score": 0.5493401319530091}
+{"sent": "biggest piece of plate visible", "ann_id": 2130243, "best_split": [1, 2], "split_score": 0.5493401319530091}
+{"sent": "plate above cake", "ann_id": 1617802, "best_split": [3, 1], "split_score": 0.1671378091788421}
+{"sent": "smallest part of plate shown", "ann_id": 1617802, "best_split": [2, 1], "split_score": 0.24182467709960254}
+{"sent": "corner of plate 1000", "ann_id": 1617802, "best_split": [3, 1], "split_score": 0.1671378091788421}

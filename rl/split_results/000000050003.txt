@@ -1,0 +1,6 @@
+{"sent": "blue and purple train", "ann_id": 171578, "best_split": [5, 1], "split_score": 0.21970705723870612}
+{"sent": "train with no doors showing", "ann_id": 171578, "best_split": [3, 1], "split_score": 0.20659291035185182}
+{"sent": "blue and purple train", "ann_id": 171578, "best_split": [5, 1], "split_score": 0.21970705723870612}
+{"sent": "yelow train", "ann_id": 171111, "best_split": [1, 2], "split_score": 0.5810914680855086}
+{"sent": "yellow train", "ann_id": 171111, "best_split": [1, 2], "split_score": 0.5810914680855086}
+{"sent": "yellow train", "ann_id": 171111, "best_split": [1, 2], "split_score": 0.5810914680855086}

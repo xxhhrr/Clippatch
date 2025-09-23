@@ -1,0 +1,6 @@
+{"sent": "pizza with peppers", "ann_id": 1073583, "best_split": [3, 2], "split_score": 0.5986842104700485}
+{"sent": "supreme pizza", "ann_id": 1073583, "best_split": [2, 2], "split_score": 0.38216560507070285}
+{"sent": "green pizza", "ann_id": 1073583, "best_split": [3, 2], "split_score": 0.5986842104700485}
+{"sent": "pizza with no veggies only meat", "ann_id": 1072198, "best_split": [3, 1], "split_score": 0.5004557884856167}
+{"sent": "the pizza without peppers", "ann_id": 1072198, "best_split": [3, 1], "split_score": 0.5004557884856167}
+{"sent": "biggest pizza", "ann_id": 1072198, "best_split": [3, 2], "split_score": 0.807692307611409}

@@ -1,0 +1,5 @@
+{"sent": "horse closest to fence", "ann_id": 54133, "best_split": [3, 3], "split_score": 0.3021989528479373}
+{"sent": "horse not completely visible", "ann_id": 54133, "best_split": [3, 3], "split_score": 0.3021989528479373}
+{"sent": "horse with head higher and can see spots on side", "ann_id": 53964, "best_split": [1, 3], "split_score": 0.45851528381895845}
+{"sent": "horse closest to us", "ann_id": 53964, "best_split": [1, 3], "split_score": 0.45851528381895845}
+{"sent": "horse you can see all of", "ann_id": 53964, "best_split": [1, 3], "split_score": 0.45851528381895845}

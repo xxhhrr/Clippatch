@@ -1,0 +1,12 @@
+{"sent": "yello truck", "ann_id": 399754, "best_split": [3, 3], "split_score": 0.47860696509475836}
+{"sent": "yellow car", "ann_id": 399754, "best_split": [3, 3], "split_score": 0.47860696509475836}
+{"sent": "yellow", "ann_id": 399754, "best_split": [3, 3], "split_score": 0.47860696509475836}
+{"sent": "blue truck", "ann_id": 397350, "best_split": [3, 1], "split_score": 0.4142183991520123}
+{"sent": "blue truck", "ann_id": 397350, "best_split": [3, 1], "split_score": 0.4142183991520123}
+{"sent": "truck", "ann_id": 397350, "best_split": [3, 1], "split_score": 0.4142183991520123}
+{"sent": "au4", "ann_id": 243118, "best_split": [3, 1], "split_score": 0.4153061224357364}
+{"sent": "blue car", "ann_id": 243118, "best_split": [3, 1], "split_score": 0.4153061224357364}
+{"sent": "blue truck", "ann_id": 243118, "best_split": [3, 1], "split_score": 0.4153061224357364}
+{"sent": "yellow pickup", "ann_id": 242854, "best_split": [3, 3], "split_score": 0.4612860891631748}
+{"sent": "yellow", "ann_id": 242854, "best_split": [3, 3], "split_score": 0.4612860891631748}
+{"sent": "yellow truck", "ann_id": 242854, "best_split": [3, 3], "split_score": 0.4612860891631748}

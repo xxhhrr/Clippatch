@@ -1,0 +1,13 @@
+{"sent": "lowest banana point", "ann_id": 1545180, "best_split": [1, 5], "split_score": 0.4136125654204181}
+{"sent": "the lower half of bananas", "ann_id": 1545180, "best_split": [1, 5], "split_score": 0.4136125654204181}
+{"sent": "big bruise", "ann_id": 1545000, "best_split": [1, 3], "split_score": 0.45758928568668017}
+{"sent": "banana with largest black spot", "ann_id": 1545000, "best_split": [1, 3], "split_score": 0.45758928568668017}
+{"sent": "banana with dark spot", "ann_id": 1545000, "best_split": [1, 3], "split_score": 0.45758928568668017}
+{"sent": "bruised banana at 5 o clock", "ann_id": 1543801, "best_split": [1, 3], "split_score": 0.18719835906206572}
+{"sent": "banana closest to 3 yellow", "ann_id": 1045777, "best_split": [2, 3], "split_score": 0.5289401427205996}
+{"sent": "green one at 1200", "ann_id": 1045777, "best_split": [2, 3], "split_score": 0.5289401427205996}
+{"sent": "little bit of yellow banana", "ann_id": 1044725, "best_split": [3, 3], "split_score": 0.6891891890633328}
+{"sent": "bananas in background", "ann_id": 1044725, "best_split": [3, 3], "split_score": 0.6891891890633328}
+{"sent": "bananas", "ann_id": 1044041, "best_split": [1, 5], "split_score": 0.3646302250468874}
+{"sent": "banana closet to us with less black marks", "ann_id": 1044041, "best_split": [1, 5], "split_score": 0.3646302250468874}
+{"sent": "main ban", "ann_id": 1044041, "best_split": [1, 5], "split_score": 0.3646302250468874}

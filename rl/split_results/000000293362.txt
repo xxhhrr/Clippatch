@@ -1,0 +1,6 @@
+{"sent": "the white mug", "ann_id": 1507126, "best_split": [2, 2], "split_score": 0.678013392803092}
+{"sent": "mug", "ann_id": 1507126, "best_split": [2, 2], "split_score": 0.678013392803092}
+{"sent": "white cup", "ann_id": 1507126, "best_split": [2, 2], "split_score": 0.678013392803092}
+{"sent": "water", "ann_id": 672018, "best_split": [2, 2], "split_score": 0.28759100979047236}
+{"sent": "water", "ann_id": 672018, "best_split": [2, 2], "split_score": 0.28759100979047236}
+{"sent": "glass of water", "ann_id": 672018, "best_split": [2, 2], "split_score": 0.28759100979047236}

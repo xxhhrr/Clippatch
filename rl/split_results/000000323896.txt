@@ -1,0 +1,8 @@
+{"sent": "vehicle furthest away", "ann_id": 144876, "best_split": [5, 1], "split_score": 0.22847168345340654}
+{"sent": "silver van by trees", "ann_id": 144876, "best_split": [5, 1], "split_score": 0.22847168345340654}
+{"sent": "silver crossover", "ann_id": 134796, "best_split": [2, 3], "split_score": 0.2760736196016571}
+{"sent": "sandwhiched car", "ann_id": 134796, "best_split": [2, 3], "split_score": 0.2760736196016571}
+{"sent": "car in between", "ann_id": 134796, "best_split": [2, 3], "split_score": 0.2760736196016571}
+{"sent": "little subaru looking car", "ann_id": 133130, "best_split": [3, 2], "split_score": 0.2657833203133523}
+{"sent": "silver honda accord", "ann_id": 133130, "best_split": [3, 2], "split_score": 0.2657833203133523}
+{"sent": "compact car", "ann_id": 133130, "best_split": [3, 2], "split_score": 0.2657833203133523}

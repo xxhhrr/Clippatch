@@ -1,0 +1,9 @@
+{"sent": "highest suitcase", "ann_id": 1187145, "best_split": [3, 1], "split_score": 0.7565154439698047}
+{"sent": "smallest horizontal suitcase", "ann_id": 1187145, "best_split": [3, 1], "split_score": 0.7565154439698047}
+{"sent": "smallest container", "ann_id": 1187145, "best_split": [3, 1], "split_score": 0.7565154439698047}
+{"sent": "area under two suitcases", "ann_id": 1186946, "best_split": [1, 2], "split_score": 0.3989170539939883}
+{"sent": "drawer of clothes", "ann_id": 1186946, "best_split": [1, 2], "split_score": 0.3989170539939883}
+{"sent": "base of luggages", "ann_id": 1186946, "best_split": [1, 2], "split_score": 0.3989170539939883}
+{"sent": "largest suitcase not the trunk", "ann_id": 1186496, "best_split": [2, 1], "split_score": 0.7698501275203344}
+{"sent": "trunk with extended brown handle", "ann_id": 1186496, "best_split": [2, 1], "split_score": 0.7698501275203344}
+{"sent": "biggest horizontal case", "ann_id": 1186496, "best_split": [2, 1], "split_score": 0.7698501275203344}

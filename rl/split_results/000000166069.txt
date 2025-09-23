@@ -1,0 +1,9 @@
+{"sent": "man in white hat and khaki shorts", "ann_id": 1280305, "best_split": [1, 3], "split_score": 0.5207528957214796}
+{"sent": "hat", "ann_id": 1280305, "best_split": [1, 3], "split_score": 0.5207528957214796}
+{"sent": "man in gray shirt walking", "ann_id": 1280305, "best_split": [1, 3], "split_score": 0.5207528957214796}
+{"sent": "man in shorts walking away", "ann_id": 1740616, "best_split": [5, 1], "split_score": 0.09658778205169319}
+{"sent": "guy with no shirt walking away from us", "ann_id": 1740616, "best_split": [2, 3], "split_score": 0.3379258983114945}
+{"sent": "black shorts walking away", "ann_id": 1740616, "best_split": [5, 1], "split_score": 0.09658778205169319}
+{"sent": "man with tattoo", "ann_id": 1206519, "best_split": [1, 2], "split_score": 0.5511332973370503}
+{"sent": "main guy", "ann_id": 1206519, "best_split": [1, 2], "split_score": 0.5511332973370503}
+{"sent": "guy tossing frisbee", "ann_id": 1206519, "best_split": [1, 2], "split_score": 0.5511332973370503}

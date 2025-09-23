@@ -1,0 +1,6 @@
+{"sent": "zebra cant see head", "ann_id": 592829, "best_split": [1, 3], "split_score": 0.42156990648308024}
+{"sent": "partially hidden zeeb", "ann_id": 592829, "best_split": [1, 3], "split_score": 0.42156990648308024}
+{"sent": "back ground zebra", "ann_id": 592829, "best_split": [1, 3], "split_score": 0.42156990648308024}
+{"sent": "most visible zebra", "ann_id": 589866, "best_split": [1, 2], "split_score": 0.5177222544843941}
+{"sent": "can see whole zebra", "ann_id": 589866, "best_split": [1, 2], "split_score": 0.5177222544843941}
+{"sent": "zebra whose head we can see", "ann_id": 589866, "best_split": [1, 2], "split_score": 0.5177222544843941}

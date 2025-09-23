@@ -1,0 +1,6 @@
+{"sent": "half of body closest", "ann_id": 1202496, "best_split": [1, 5], "split_score": 0.6826675809461111}
+{"sent": "chef with back turn to us", "ann_id": 1202496, "best_split": [1, 2], "split_score": 0.3895886479436548}
+{"sent": "elbow only man", "ann_id": 1202496, "best_split": [2, 2], "split_score": 0.23263006736813044}
+{"sent": "guy wearing blue gloves", "ann_id": 478578, "best_split": [3, 3], "split_score": 0.7664117270926686}
+{"sent": "apron", "ann_id": 478578, "best_split": [3, 3], "split_score": 0.7664117270926686}
+{"sent": "guy facing us", "ann_id": 478578, "best_split": [3, 3], "split_score": 0.7664117270926686}

@@ -1,0 +1,6 @@
+{"sent": "black shirt grabbing food", "ann_id": 516354, "best_split": [1, 3], "split_score": 0.6360674156946029}
+{"sent": "man in dark shirt", "ann_id": 516354, "best_split": [3, 3], "split_score": 0.43647377646768104}
+{"sent": "black short", "ann_id": 516354, "best_split": [1, 3], "split_score": 0.6360674156946029}
+{"sent": "purple shirt", "ann_id": 457359, "best_split": [1, 3], "split_score": 0.6039543797044052}
+{"sent": "the guy holding an object", "ann_id": 457359, "best_split": [1, 3], "split_score": 0.6039543797044052}
+{"sent": "violet shirt", "ann_id": 457359, "best_split": [1, 3], "split_score": 0.6039543797044052}

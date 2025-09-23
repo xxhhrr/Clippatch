@@ -1,0 +1,15 @@
+{"sent": "blurry man in yellow shirt", "ann_id": 491086, "best_split": [1, 5], "split_score": 0.45262135917935714}
+{"sent": "man in yellow shirt", "ann_id": 491086, "best_split": [3, 2], "split_score": 0.34074074070663257}
+{"sent": "chin in hand", "ann_id": 491086, "best_split": [3, 1], "split_score": 0.18623481780357617}
+{"sent": "girl with long hair", "ann_id": 484782, "best_split": [3, 3], "split_score": 0.3359720604963944}
+{"sent": "girl long hair", "ann_id": 484782, "best_split": [3, 3], "split_score": 0.3359720604963944}
+{"sent": "woman black hair", "ann_id": 484782, "best_split": [2, 3], "split_score": 0.2974936432712047}
+{"sent": "baby", "ann_id": 445918, "best_split": [1, 3], "split_score": 0.45127719960216406}
+{"sent": "baby", "ann_id": 445918, "best_split": [1, 3], "split_score": 0.45127719960216406}
+{"sent": "baby", "ann_id": 445918, "best_split": [1, 3], "split_score": 0.45127719960216406}
+{"sent": "square plate with spoon half on it", "ann_id": 1621683, "best_split": [3, 3], "split_score": 0.5719503286026387}
+{"sent": "green tray by child", "ann_id": 1621683, "best_split": [3, 2], "split_score": 0.37789575285015736}
+{"sent": "green palcmat", "ann_id": 1621683, "best_split": [3, 3], "split_score": 0.5719503286026387}
+{"sent": "exposed red table by babys arm", "ann_id": 390603, "best_split": [3, 2], "split_score": 0.4492032997571247}
+{"sent": "table under kids arm", "ann_id": 390603, "best_split": [3, 2], "split_score": 0.4492032997571247}
+{"sent": "the baby arm is on it it is red", "ann_id": 390603, "best_split": [3, 1], "split_score": 0.2672268907402625}

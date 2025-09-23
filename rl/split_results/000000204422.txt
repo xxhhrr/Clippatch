@@ -1,0 +1,11 @@
+{"sent": "person with one foot up", "ann_id": 484326, "best_split": [2, 1], "split_score": 0.1485998668156661}
+{"sent": "last person standing on one foot", "ann_id": 484326, "best_split": [2, 2], "split_score": 0.26518231282349225}
+{"sent": "one leg", "ann_id": 484326, "best_split": [1, 2], "split_score": 0.3063217474367697}
+{"sent": "blue pants", "ann_id": 479443, "best_split": [3, 3], "split_score": 0.39806347493301997}
+{"sent": "blue jacket", "ann_id": 479443, "best_split": [3, 3], "split_score": 0.39806347493301997}
+{"sent": "blue jacet black pants", "ann_id": 470328, "best_split": [1, 3], "split_score": 0.3826013513282697}
+{"sent": "man with name tag", "ann_id": 470328, "best_split": [1, 3], "split_score": 0.3826013513282697}
+{"sent": "number 2 person", "ann_id": 470328, "best_split": [1, 2], "split_score": 0.2161900708038467}
+{"sent": "red", "ann_id": 462145, "best_split": [1, 2], "split_score": 0.31289859692630345}
+{"sent": "red and white jacket", "ann_id": 462145, "best_split": [1, 5], "split_score": 0.6162482883965086}
+{"sent": "red and white outfit", "ann_id": 462145, "best_split": [1, 5], "split_score": 0.6162482883965086}

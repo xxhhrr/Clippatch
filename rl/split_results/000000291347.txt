@@ -1,0 +1,10 @@
+{"sent": "fruit near the kiwi grape green grape middle", "ann_id": 1905068, "best_split": [2, 2], "split_score": 0.14591829167747325}
+{"sent": "banana slice between grape green and purple grape", "ann_id": 1905068, "best_split": [2, 2], "split_score": 0.14591829167747325}
+{"sent": "banana slice above grape", "ann_id": 1543663, "best_split": [1, 5], "split_score": 0.24590479858875458}
+{"sent": "banana slice in the corner", "ann_id": 1543663, "best_split": [1, 5], "split_score": 0.24590479858875458}
+{"sent": "slice of banana that is lying on another banana slice", "ann_id": 1543663, "best_split": [1, 5], "split_score": 0.24590479858875458}
+{"sent": "apple slice between grape and kiwi", "ann_id": 1907761, "best_split": [2, 3], "split_score": 0.47056295654592145}
+{"sent": "apple slice at 3", "ann_id": 1907761, "best_split": [2, 2], "split_score": 0.32291359478598397}
+{"sent": "apple slive", "ann_id": 1907761, "best_split": [2, 3], "split_score": 0.47056295654592145}
+{"sent": "apple slice", "ann_id": 1050310, "best_split": [3, 3], "split_score": 0.26682838079641774}
+{"sent": "piece covering most of a cherry", "ann_id": 1050310, "best_split": [3, 3], "split_score": 0.26682838079641774}

@@ -1,0 +1,6 @@
+{"sent": "woman in white", "ann_id": 201350, "best_split": [1, 5], "split_score": 0.49779086888416046}
+{"sent": "white shirt", "ann_id": 201350, "best_split": [1, 5], "split_score": 0.49779086888416046}
+{"sent": "woman with red hair", "ann_id": 201350, "best_split": [1, 5], "split_score": 0.49779086888416046}
+{"sent": "the eating woman", "ann_id": 188298, "best_split": [3, 2], "split_score": 0.27783991050664325}
+{"sent": "woman in dark shirt", "ann_id": 188298, "best_split": [1, 3], "split_score": 0.2230056406011782}
+{"sent": "woman in black shirt", "ann_id": 188298, "best_split": [1, 3], "split_score": 0.2230056406011782}

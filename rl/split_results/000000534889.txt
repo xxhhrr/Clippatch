@@ -1,0 +1,6 @@
+{"sent": "tennis player", "ann_id": 1277988, "best_split": [2, 1], "split_score": 0.5436701593030117}
+{"sent": "player", "ann_id": 1277988, "best_split": [2, 1], "split_score": 0.5436701593030117}
+{"sent": "boy playing tennis", "ann_id": 1277988, "best_split": [2, 1], "split_score": 0.5436701593030117}
+{"sent": "next to the guy in white in the audience", "ann_id": 1260551, "best_split": [2, 1], "split_score": 0.08505034856370836}
+{"sent": "watcher with red stripe on shoulder", "ann_id": 1260551, "best_split": [3, 2], "split_score": 0.35328185323922756}
+{"sent": "blurry man next to man in white", "ann_id": 1260551, "best_split": [2, 1], "split_score": 0.08505034856370836}

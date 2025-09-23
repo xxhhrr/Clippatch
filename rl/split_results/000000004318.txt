@@ -1,0 +1,6 @@
+{"sent": "bigest zebra eating", "ann_id": 589193, "best_split": [3, 3], "split_score": 0.6364201366320043}
+{"sent": "zebra next to the one lying down", "ann_id": 589193, "best_split": [3, 3], "split_score": 0.6364201366320043}
+{"sent": "zebra next to baby laying down", "ann_id": 589193, "best_split": [3, 3], "split_score": 0.6364201366320043}
+{"sent": "zebra next to one eating", "ann_id": 588511, "best_split": [3, 2], "split_score": 0.3710973369638318}
+{"sent": "zebra in foreground with head down but not the one near the lil guy", "ann_id": 588511, "best_split": [3, 2], "split_score": 0.3710973369638318}
+{"sent": "smaller zebra standing", "ann_id": 588511, "best_split": [3, 2], "split_score": 0.3710973369638318}

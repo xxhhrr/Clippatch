@@ -1,0 +1,6 @@
+{"sent": "dog sitting up", "ann_id": 16902, "best_split": [2, 2], "split_score": 0.6650645839092021}
+{"sent": "upright dog", "ann_id": 16902, "best_split": [2, 2], "split_score": 0.6650645839092021}
+{"sent": "taller dog", "ann_id": 16902, "best_split": [2, 2], "split_score": 0.6650645839092021}
+{"sent": "dog just headlaying down", "ann_id": 12343, "best_split": [5, 1], "split_score": 0.3420912479724755}
+{"sent": "dog laying down", "ann_id": 12343, "best_split": [5, 1], "split_score": 0.3420912479724755}
+{"sent": "dog laying down", "ann_id": 12343, "best_split": [5, 1], "split_score": 0.3420912479724755}

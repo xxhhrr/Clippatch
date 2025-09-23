@@ -1,0 +1,5 @@
+{"sent": "not biggest next one down", "ann_id": 2210096, "best_split": [3, 2], "split_score": 0.44087819007679946}
+{"sent": "bench behind closest bench", "ann_id": 2210096, "best_split": [1, 5], "split_score": 0.1831388231304057}
+{"sent": "closest bench", "ann_id": 1393843, "best_split": [1, 2], "split_score": 0.3775707781574763}
+{"sent": "largest park bench", "ann_id": 1393843, "best_split": [1, 2], "split_score": 0.3775707781574763}
+{"sent": "closest bench", "ann_id": 1393843, "best_split": [1, 2], "split_score": 0.3775707781574763}

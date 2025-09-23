@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 2162862, "best_split": [1, 2], "split_score": 0.4828028747278361}
+{"sent": "white shirt woman", "ann_id": 2162862, "best_split": [1, 2], "split_score": 0.4828028747278361}
+{"sent": "women in white", "ann_id": 2162862, "best_split": [3, 1], "split_score": 0.3751550076455192}
+{"sent": "woman with gray hair", "ann_id": 495252, "best_split": [3, 3], "split_score": 0.5388843088020219}
+{"sent": "gray coat", "ann_id": 495252, "best_split": [3, 3], "split_score": 0.5388843088020219}
+{"sent": "older lady", "ann_id": 495252, "best_split": [3, 3], "split_score": 0.5388843088020219}

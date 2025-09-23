@@ -1,0 +1,6 @@
+{"sent": "playstation remote", "ann_id": 1631157, "best_split": [3, 3], "split_score": 0.677827799566991}
+{"sent": "game controller", "ann_id": 1631157, "best_split": [3, 3], "split_score": 0.677827799566991}
+{"sent": "ps3 controller", "ann_id": 1631157, "best_split": [3, 3], "split_score": 0.677827799566991}
+{"sent": "remote", "ann_id": 1108439, "best_split": [3, 3], "split_score": 0.54212454204511}
+{"sent": "tv controller", "ann_id": 1108439, "best_split": [3, 1], "split_score": 0.29685157419509134}
+{"sent": "long remote", "ann_id": 1108439, "best_split": [3, 3], "split_score": 0.54212454204511}

@@ -1,0 +1,6 @@
+{"sent": "woman in dress", "ann_id": 441528, "best_split": [1, 5], "split_score": 0.524289642486102}
+{"sent": "woman with umbrella", "ann_id": 441528, "best_split": [1, 5], "split_score": 0.524289642486102}
+{"sent": "lady holding umbrella", "ann_id": 441528, "best_split": [1, 5], "split_score": 0.524289642486102}
+{"sent": "the one without the umbrella", "ann_id": 441013, "best_split": [1, 2], "split_score": 0.12420280611749829}
+{"sent": "not umbrella", "ann_id": 441013, "best_split": [1, 2], "split_score": 0.12420280611749829}
+{"sent": "fat ass white striped shirt", "ann_id": 441013, "best_split": [1, 5], "split_score": 0.30608135317095436}

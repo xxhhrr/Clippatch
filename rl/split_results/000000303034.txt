@@ -1,0 +1,6 @@
+{"sent": "background horse", "ann_id": 56594, "best_split": [3, 3], "split_score": 0.42817932290835453}
+{"sent": "far brown horse", "ann_id": 56594, "best_split": [3, 3], "split_score": 0.42817932290835453}
+{"sent": "horse with head facing away", "ann_id": 56594, "best_split": [3, 3], "split_score": 0.42817932290835453}
+{"sent": "the one closest", "ann_id": 54106, "best_split": [1, 5], "split_score": 0.40318725095585783}
+{"sent": "closest horse", "ann_id": 54106, "best_split": [1, 5], "split_score": 0.40318725095585783}
+{"sent": "smaller horse", "ann_id": 54106, "best_split": [1, 5], "split_score": 0.40318725095585783}

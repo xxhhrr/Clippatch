@@ -1,0 +1,6 @@
+{"sent": "small luggage", "ann_id": 1187527, "best_split": [3, 1], "split_score": 0.23090790724468385}
+{"sent": "small bag", "ann_id": 1187527, "best_split": [3, 1], "split_score": 0.23090790724468385}
+{"sent": "small black bag", "ann_id": 1187527, "best_split": [2, 1], "split_score": 0.24560545036151596}
+{"sent": "tall suitcase", "ann_id": 1187071, "best_split": [1, 2], "split_score": 0.5345577904761485}
+{"sent": "the large black suitcase", "ann_id": 1187071, "best_split": [1, 2], "split_score": 0.5345577904761485}
+{"sent": "big suitcase", "ann_id": 1187071, "best_split": [1, 2], "split_score": 0.5345577904761485}

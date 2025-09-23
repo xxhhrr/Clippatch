@@ -1,0 +1,5 @@
+{"sent": "cat below", "ann_id": 273438, "best_split": [1, 5], "split_score": 0.19382726720897145}
+{"sent": "cat under", "ann_id": 273438, "best_split": [1, 5], "split_score": 0.19382726720897145}
+{"sent": "cat on ladder step", "ann_id": 46710, "best_split": [2, 3], "split_score": 0.501812810494037}
+{"sent": "lighter cat", "ann_id": 46710, "best_split": [2, 3], "split_score": 0.501812810494037}
+{"sent": "bigger cat", "ann_id": 46710, "best_split": [2, 3], "split_score": 0.501812810494037}

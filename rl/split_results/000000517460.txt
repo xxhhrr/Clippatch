@@ -1,0 +1,6 @@
+{"sent": "blue shirt guy", "ann_id": 530586, "best_split": [3, 2], "split_score": 0.5273623085934047}
+{"sent": "blue", "ann_id": 530586, "best_split": [3, 2], "split_score": 0.5273623085934047}
+{"sent": "blue shirt", "ann_id": 530586, "best_split": [3, 2], "split_score": 0.5273623085934047}
+{"sent": "player with black shirt", "ann_id": 490019, "best_split": [3, 2], "split_score": 0.41114571930203336}
+{"sent": "player with black shirt", "ann_id": 490019, "best_split": [3, 2], "split_score": 0.41114571930203336}
+{"sent": "black shirt", "ann_id": 490019, "best_split": [3, 2], "split_score": 0.41114571930203336}

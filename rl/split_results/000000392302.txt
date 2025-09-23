@@ -1,0 +1,16 @@
+{"sent": "pizza on plate not fully seen", "ann_id": 1077252, "best_split": [1, 5], "split_score": 0.24685802946106608}
+{"sent": "pizza slice further from camera", "ann_id": 1077252, "best_split": [3, 1], "split_score": 0.32142857140993575}
+{"sent": "slice of pizza on plate with bowl", "ann_id": 1077252, "best_split": [3, 1], "split_score": 0.32142857140993575}
+{"sent": "pizza closest to us", "ann_id": 1074446, "best_split": [2, 2], "split_score": 0.5368161250198733}
+{"sent": "full piece of pizza", "ann_id": 1074446, "best_split": [2, 2], "split_score": 0.5368161250198733}
+{"sent": "glass", "ann_id": 675847, "best_split": [2, 3], "split_score": 0.41312272170406245}
+{"sent": "cup of beer", "ann_id": 675847, "best_split": [2, 2], "split_score": 0.3591358418081046}
+{"sent": "glass with beer", "ann_id": 675847, "best_split": [2, 2], "split_score": 0.3591358418081046}
+{"sent": "table space next to cup", "ann_id": 1965216, "best_split": [2, 1], "split_score": 0.1855623100233449}
+{"sent": "table area next to beer glass", "ann_id": 1965216, "best_split": [2, 2], "split_score": 0.35452961669900335}
+{"sent": "table only next to beer glass", "ann_id": 1965216, "best_split": [2, 2], "split_score": 0.35452961669900335}
+{"sent": "table between plates", "ann_id": 1964088, "best_split": [1, 3], "split_score": 0.5029451744164621}
+{"sent": "blank table space at four", "ann_id": 1964088, "best_split": [1, 3], "split_score": 0.5029451744164621}
+{"sent": "white ramekin", "ann_id": 1882172, "best_split": [3, 3], "split_score": 0.3855092275486143}
+{"sent": "condiment cup", "ann_id": 1882172, "best_split": [3, 3], "split_score": 0.3855092275486143}
+{"sent": "container white", "ann_id": 1882172, "best_split": [3, 3], "split_score": 0.3855092275486143}

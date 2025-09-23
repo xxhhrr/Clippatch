@@ -1,0 +1,6 @@
+{"sent": "blue bag", "ann_id": 1827181, "best_split": [2, 3], "split_score": 0.6901544400711686}
+{"sent": "dark spot at 1100 near dark kitty", "ann_id": 1827181, "best_split": [2, 1], "split_score": 0.22799744897050392}
+{"sent": "blue purse at 11 o clock", "ann_id": 1827181, "best_split": [2, 3], "split_score": 0.6901544400711686}
+{"sent": "gray bag", "ann_id": 1421159, "best_split": [1, 5], "split_score": 0.6391678622095438}
+{"sent": "thing next to tiger cat", "ann_id": 1421159, "best_split": [2, 1], "split_score": 0.2103438312550439}
+{"sent": "black thing next to cat with face", "ann_id": 1421159, "best_split": [2, 1], "split_score": 0.2103438312550439}

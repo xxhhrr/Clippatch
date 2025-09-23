@@ -1,0 +1,6 @@
+{"sent": "zebras butt", "ann_id": 593868, "best_split": [3, 3], "split_score": 0.36182175985917603}
+{"sent": "zebra ass", "ann_id": 593868, "best_split": [3, 3], "split_score": 0.36182175985917603}
+{"sent": "facing away", "ann_id": 593868, "best_split": [1, 2], "split_score": 0.04225953329388661}
+{"sent": "closest zebra", "ann_id": 588634, "best_split": [1, 5], "split_score": 0.5697583787441779}
+{"sent": "main zebra looking at us", "ann_id": 588634, "best_split": [1, 5], "split_score": 0.5697583787441779}
+{"sent": "zebra number 1", "ann_id": 588634, "best_split": [1, 5], "split_score": 0.5697583787441779}

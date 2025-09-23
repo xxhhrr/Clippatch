@@ -1,0 +1,6 @@
+{"sent": "cart wheel", "ann_id": 501409, "best_split": [3, 1], "split_score": 0.24893473871670022}
+{"sent": "foot in air", "ann_id": 501409, "best_split": [3, 2], "split_score": 0.465018852066923}
+{"sent": "feet in air", "ann_id": 501409, "best_split": [3, 2], "split_score": 0.465018852066923}
+{"sent": "standing up", "ann_id": 467634, "best_split": [3, 1], "split_score": 0.2501630982592869}
+{"sent": "standing upright", "ann_id": 467634, "best_split": [1, 2], "split_score": 0.1794882015234579}
+{"sent": "standing up", "ann_id": 467634, "best_split": [3, 1], "split_score": 0.2501630982592869}

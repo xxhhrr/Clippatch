@@ -1,0 +1,5 @@
+{"sent": "elephant you can barely see on side", "ann_id": 581572, "best_split": [2, 3], "split_score": 0.352842609173807}
+{"sent": "cut off elephant standing closest to full shown elephant", "ann_id": 581572, "best_split": [2, 3], "split_score": 0.352842609173807}
+{"sent": "elephant with blue on back dont click blue though", "ann_id": 580438, "best_split": [2, 1], "split_score": 0.43738489869648167}
+{"sent": "elephant looking at you", "ann_id": 580438, "best_split": [2, 1], "split_score": 0.43738489869648167}
+{"sent": "main elephant", "ann_id": 580438, "best_split": [2, 1], "split_score": 0.43738489869648167}

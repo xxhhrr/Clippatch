@@ -1,0 +1,6 @@
+{"sent": "canada words", "ann_id": 161285, "best_split": [2, 2], "split_score": 0.6199962762601628}
+{"sent": "canada", "ann_id": 161285, "best_split": [2, 1], "split_score": 0.5313626817557014}
+{"sent": "canada plane", "ann_id": 161285, "best_split": [2, 2], "split_score": 0.6199962762601628}
+{"sent": "express plane", "ann_id": 160676, "best_split": [3, 1], "split_score": 0.6240506918592904}
+{"sent": "express plane", "ann_id": 160676, "best_split": [3, 1], "split_score": 0.6240506918592904}
+{"sent": "express", "ann_id": 160676, "best_split": [3, 1], "split_score": 0.6240506918592904}

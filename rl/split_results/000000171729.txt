@@ -1,0 +1,6 @@
+{"sent": "blond hair person", "ann_id": 2198710, "best_split": [3, 1], "split_score": 0.31667360295423275}
+{"sent": "gleeful woman", "ann_id": 2198710, "best_split": [1, 2], "split_score": 0.40818648805487395}
+{"sent": "man with blond hair", "ann_id": 2198710, "best_split": [3, 1], "split_score": 0.31667360295423275}
+{"sent": "old hippie man", "ann_id": 455395, "best_split": [1, 5], "split_score": 0.2794172581117194}
+{"sent": "man laying straight", "ann_id": 455395, "best_split": [2, 1], "split_score": 0.3916109025496455}
+{"sent": "the man", "ann_id": 455395, "best_split": [3, 2], "split_score": 0.46622772162185105}

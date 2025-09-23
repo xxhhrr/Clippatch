@@ -1,0 +1,6 @@
+{"sent": "guy in blue shirt", "ann_id": 1255319, "best_split": [3, 3], "split_score": 0.5381035484964946}
+{"sent": "black shirt", "ann_id": 1255319, "best_split": [3, 3], "split_score": 0.5381035484964946}
+{"sent": "guy", "ann_id": 1255319, "best_split": [3, 3], "split_score": 0.5381035484964946}
+{"sent": "woman", "ann_id": 453603, "best_split": [1, 3], "split_score": 0.5179949463730794}
+{"sent": "girl", "ann_id": 453603, "best_split": [1, 3], "split_score": 0.5179949463730794}
+{"sent": "she wants it", "ann_id": 453603, "best_split": [1, 3], "split_score": 0.5179949463730794}

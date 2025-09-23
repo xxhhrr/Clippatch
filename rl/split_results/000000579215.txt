@@ -1,0 +1,5 @@
+{"sent": "seat closest to camera", "ann_id": 1930874, "best_split": [2, 1], "split_score": 0.311224489783513}
+{"sent": "closest seat", "ann_id": 1930874, "best_split": [2, 1], "split_score": 0.311224489783513}
+{"sent": "empty chair", "ann_id": 100345, "best_split": [2, 3], "split_score": 0.6720420683021874}
+{"sent": "empty seat", "ann_id": 100345, "best_split": [2, 3], "split_score": 0.6720420683021874}
+{"sent": "empty chair", "ann_id": 100345, "best_split": [2, 3], "split_score": 0.6720420683021874}

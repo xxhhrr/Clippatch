@@ -1,0 +1,6 @@
+{"sent": "apple under ripe banana", "ann_id": 1048296, "best_split": [1, 5], "split_score": 0.21095653539173492}
+{"sent": "apple barely showing", "ann_id": 1048296, "best_split": [5, 1], "split_score": 0.35113566602199986}
+{"sent": "apple below the banana", "ann_id": 1048296, "best_split": [1, 5], "split_score": 0.21095653539173492}
+{"sent": "apple with the lable", "ann_id": 1047372, "best_split": [2, 1], "split_score": 0.3544857767914002}
+{"sent": "apple with sticker", "ann_id": 1047372, "best_split": [2, 1], "split_score": 0.3544857767914002}
+{"sent": "apple", "ann_id": 1047372, "best_split": [2, 2], "split_score": 0.4970221981255399}

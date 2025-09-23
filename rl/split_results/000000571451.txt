@@ -1,0 +1,6 @@
+{"sent": "sandwich with bite", "ann_id": 1554608, "best_split": [3, 3], "split_score": 0.5992074723182553}
+{"sent": "closest sandwich half", "ann_id": 1554608, "best_split": [3, 3], "split_score": 0.5992074723182553}
+{"sent": "bread with bite out of it", "ann_id": 1554608, "best_split": [3, 1], "split_score": 0.2635379061223185}
+{"sent": "bresd next to piece with a bite", "ann_id": 311510, "best_split": [3, 2], "split_score": 0.4579646017238571}
+{"sent": "sandwich next to one with bite in it", "ann_id": 311510, "best_split": [2, 2], "split_score": 0.495057397919718}
+{"sent": "sandwich at 8p", "ann_id": 311510, "best_split": [2, 2], "split_score": 0.495057397919718}

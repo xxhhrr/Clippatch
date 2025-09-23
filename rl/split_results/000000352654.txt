@@ -1,0 +1,11 @@
+{"sent": "blurry person in back with hat", "ann_id": 566190, "best_split": [3, 2], "split_score": 0.3951071660104885}
+{"sent": "plaid hat", "ann_id": 566190, "best_split": [3, 3], "split_score": 0.5503923679719352}
+{"sent": "plaid blurry hat", "ann_id": 566190, "best_split": [3, 3], "split_score": 0.5503923679719352}
+{"sent": "blurry mann without hat", "ann_id": 475605, "best_split": [3, 1], "split_score": 0.14503816793145047}
+{"sent": "bald man facing away", "ann_id": 475605, "best_split": [3, 1], "split_score": 0.14503816793145047}
+{"sent": "man facing away and only see his ear", "ann_id": 475605, "best_split": [3, 1], "split_score": 0.14503816793145047}
+{"sent": "red tie", "ann_id": 452767, "best_split": [2, 1], "split_score": 0.3445099484050445}
+{"sent": "man in red tie", "ann_id": 452767, "best_split": [2, 1], "split_score": 0.3445099484050445}
+{"sent": "this noi lookin guy here", "ann_id": 421868, "best_split": [1, 2], "split_score": 0.6107601385597613}
+{"sent": "man closest", "ann_id": 421868, "best_split": [1, 2], "split_score": 0.6107601385597613}
+{"sent": "closest man", "ann_id": 421868, "best_split": [1, 2], "split_score": 0.6107601385597613}

@@ -1,0 +1,15 @@
+{"sent": "the thing the man is sitting on with the boxed blue shirt", "ann_id": 384566, "best_split": [3, 1], "split_score": 0.1638598088209001}
+{"sent": "chair where plaid shirt", "ann_id": 384566, "best_split": [1, 5], "split_score": 0.35370060112804763}
+{"sent": "chair that man at 300 sitting on", "ann_id": 384566, "best_split": [3, 1], "split_score": 0.1638598088209001}
+{"sent": "empty chair at computer screen", "ann_id": 377925, "best_split": [2, 2], "split_score": 0.31815394048465545}
+{"sent": "chair by laptop", "ann_id": 377925, "best_split": [2, 2], "split_score": 0.31815394048465545}
+{"sent": "back seat of chair touching laptop screen", "ann_id": 377925, "best_split": [2, 2], "split_score": 0.31815394048465545}
+{"sent": "tan shirt big man", "ann_id": 1302520, "best_split": [1, 3], "split_score": 0.22145955739819562}
+{"sent": "tan fat", "ann_id": 1302520, "best_split": [2, 2], "split_score": 0.44585582721134837}
+{"sent": "fat man", "ann_id": 1302520, "best_split": [2, 2], "split_score": 0.44585582721134837}
+{"sent": "man with squares on shirt", "ann_id": 1274437, "best_split": [3, 2], "split_score": 0.3772943575478166}
+{"sent": "checked shirt", "ann_id": 1274437, "best_split": [1, 5], "split_score": 0.4852941176065095}
+{"sent": "plaid shirt", "ann_id": 1274437, "best_split": [1, 5], "split_score": 0.4852941176065095}
+{"sent": "person on laptop", "ann_id": 1272087, "best_split": [1, 3], "split_score": 0.566601077912285}
+{"sent": "shirt closest to us", "ann_id": 1272087, "best_split": [1, 3], "split_score": 0.566601077912285}
+{"sent": "white shirt", "ann_id": 1272087, "best_split": [1, 3], "split_score": 0.566601077912285}

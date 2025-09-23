@@ -1,0 +1,12 @@
+{"sent": "pink jacket closest to umbrella", "ann_id": 1293717, "best_split": [3, 3], "split_score": 0.21542514265836013}
+{"sent": "pink jacket gray hood", "ann_id": 1293717, "best_split": [2, 3], "split_score": 0.24462606356419322}
+{"sent": "pink coat", "ann_id": 1293717, "best_split": [2, 3], "split_score": 0.24462606356419322}
+{"sent": "teal piece of shirt man", "ann_id": 430483, "best_split": [2, 3], "split_score": 0.3141545687111278}
+{"sent": "white shirt with blue sleeves", "ann_id": 430483, "best_split": [1, 5], "split_score": 0.2910697674147842}
+{"sent": "person in white and blue shirt", "ann_id": 430483, "best_split": [1, 5], "split_score": 0.2910697674147842}
+{"sent": "pink shirt hands in back", "ann_id": 2011456, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "man pink shirt sneakers under white sticks", "ann_id": 2011456, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "man in pink with hands behind his back", "ann_id": 2011456, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "woman under british umbrealla flag", "ann_id": 1300165, "best_split": [1, 5], "split_score": 0.21405109487098073}
+{"sent": "person holding large umbrella close to us", "ann_id": 1300165, "best_split": [1, 5], "split_score": 0.21405109487098073}
+{"sent": "gray part of coat under british flag umbrella", "ann_id": 1300165, "best_split": [1, 5], "split_score": 0.21405109487098073}

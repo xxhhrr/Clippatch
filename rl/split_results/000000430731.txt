@@ -1,0 +1,5 @@
+{"sent": "smaller laptop", "ann_id": 1628304, "best_split": [3, 2], "split_score": 0.5878504672210455}
+{"sent": "laptop behind cell phones", "ann_id": 1628304, "best_split": [3, 3], "split_score": 0.8754349337377462}
+{"sent": "laptop next to one with maps", "ann_id": 1097968, "best_split": [3, 1], "split_score": 0.30903104419631755}
+{"sent": "bigger laptop", "ann_id": 1097968, "best_split": [3, 3], "split_score": 0.7796907379595582}
+{"sent": "middle laptop", "ann_id": 1097968, "best_split": [3, 1], "split_score": 0.30903104419631755}

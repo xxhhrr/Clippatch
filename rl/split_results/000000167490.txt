@@ -1,0 +1,5 @@
+{"sent": "white shirt dark pants", "ann_id": 501534, "best_split": [1, 5], "split_score": 0.4509511375931601}
+{"sent": "man", "ann_id": 501534, "best_split": [1, 2], "split_score": 0.14264509425031002}
+{"sent": "man", "ann_id": 501534, "best_split": [1, 2], "split_score": 0.14264509425031002}
+{"sent": "child in yellow shirt", "ann_id": 493704, "best_split": [3, 3], "split_score": 0.25686688797813656}
+{"sent": "little one", "ann_id": 493704, "best_split": [3, 3], "split_score": 0.25686688797813656}

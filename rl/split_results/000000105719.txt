@@ -1,0 +1,7 @@
+{"sent": "bear with head down", "ann_id": 588070, "best_split": [5, 1], "split_score": 0.2063258550748137}
+{"sent": "not scratching", "ann_id": 588070, "best_split": [1, 2], "split_score": 0.1301020408111407}
+{"sent": "the bear walking away from fence", "ann_id": 588070, "best_split": [3, 1], "split_score": 0.03733138136372836}
+{"sent": "bear with shadow covered by chainlink fence", "ann_id": 587649, "best_split": [3, 2], "split_score": 0.4224733896167592}
+{"sent": "sitting bear", "ann_id": 587649, "best_split": [3, 2], "split_score": 0.4224733896167592}
+{"sent": "bear not walking", "ann_id": 587649, "best_split": [3, 2], "split_score": 0.4224733896167592}
+{"sent": "bear looking up", "ann_id": 587649, "best_split": [3, 2], "split_score": 0.4224733896167592}

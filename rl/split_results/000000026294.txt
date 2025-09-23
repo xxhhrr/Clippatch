@@ -1,0 +1,8 @@
+{"sent": "the white plate obscured by the spoon", "ann_id": 1903848, "best_split": [3, 3], "split_score": 0.515635858145303}
+{"sent": "bowl cutoff by spoon", "ann_id": 1903848, "best_split": [3, 3], "split_score": 0.515635858145303}
+{"sent": "pot with soup", "ann_id": 1901131, "best_split": [2, 2], "split_score": 0.3374172996607806}
+{"sent": "big orange pot of gunk", "ann_id": 1901131, "best_split": [2, 2], "split_score": 0.3374172996607806}
+{"sent": "brown pot which is holding the large spoon", "ann_id": 1901131, "best_split": [2, 2], "split_score": 0.3374172996607806}
+{"sent": "white bowl half way out of screen", "ann_id": 1900371, "best_split": [2, 3], "split_score": 0.2836710369149379}
+{"sent": "bowl cut off by picture", "ann_id": 1900371, "best_split": [2, 3], "split_score": 0.2836710369149379}
+{"sent": "plate half in frame", "ann_id": 1900371, "best_split": [3, 1], "split_score": 0.14469337496878532}

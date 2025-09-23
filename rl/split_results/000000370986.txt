@@ -1,0 +1,9 @@
+{"sent": "not in the water", "ann_id": 585495, "best_split": [2, 1], "split_score": 0.07472199620034167}
+{"sent": "elephant behind the others", "ann_id": 585495, "best_split": [3, 2], "split_score": 0.5191680260482088}
+{"sent": "last elephant behind", "ann_id": 585495, "best_split": [3, 2], "split_score": 0.5191680260482088}
+{"sent": "elephant deepest in water", "ann_id": 584596, "best_split": [3, 2], "split_score": 0.433802187939964}
+{"sent": "elephant most in the water", "ann_id": 584596, "best_split": [3, 2], "split_score": 0.433802187939964}
+{"sent": "ellie 3", "ann_id": 584596, "best_split": [5, 1], "split_score": 0.24262803929620383}
+{"sent": "elephant with two feet in the water", "ann_id": 584362, "best_split": [3, 3], "split_score": 0.6953275838981429}
+{"sent": "main elephant", "ann_id": 584362, "best_split": [3, 3], "split_score": 0.6953275838981429}
+{"sent": "closest elephnat", "ann_id": 584362, "best_split": [3, 3], "split_score": 0.6953275838981429}

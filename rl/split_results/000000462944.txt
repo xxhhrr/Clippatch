@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 530177, "best_split": [3, 3], "split_score": 0.24404932603325932}
+{"sent": "boy on skateboard", "ann_id": 530177, "best_split": [1, 5], "split_score": 0.21428571426578444}
+{"sent": "blue shirt", "ann_id": 530177, "best_split": [3, 3], "split_score": 0.24404932603325932}
+{"sent": "person in jeans with white tshirt on their head", "ann_id": 436991, "best_split": [1, 5], "split_score": 0.6836626505365144}
+{"sent": "backpackb", "ann_id": 436991, "best_split": [1, 5], "split_score": 0.6836626505365144}
+{"sent": "person with backpack", "ann_id": 436991, "best_split": [1, 5], "split_score": 0.6836626505365144}

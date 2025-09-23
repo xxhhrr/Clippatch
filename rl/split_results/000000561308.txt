@@ -1,0 +1,12 @@
+{"sent": "red motorcycle", "ann_id": 1360136, "best_split": [3, 2], "split_score": 0.4169611307022289}
+{"sent": "piece of red something part of a motercycle i guess", "ann_id": 1360136, "best_split": [3, 2], "split_score": 0.4169611307022289}
+{"sent": "red scooter", "ann_id": 1360136, "best_split": [3, 2], "split_score": 0.4169611307022289}
+{"sent": "greeen shirt", "ann_id": 258395, "best_split": [1, 5], "split_score": 0.8693181817299799}
+{"sent": "green shirt blue jeans", "ann_id": 258395, "best_split": [1, 5], "split_score": 0.8693181817299799}
+{"sent": "green shirt", "ann_id": 258395, "best_split": [1, 5], "split_score": 0.8693181817299799}
+{"sent": "black jacket blue jeans blad head", "ann_id": 187442, "best_split": [3, 1], "split_score": 0.12260536397832632}
+{"sent": "man in black jacket back towards us", "ann_id": 187442, "best_split": [3, 1], "split_score": 0.12260536397832632}
+{"sent": "bald man at 3 o clock", "ann_id": 187442, "best_split": [2, 1], "split_score": 0.15907869481155168}
+{"sent": "motorcycle in full view", "ann_id": 148860, "best_split": [1, 3], "split_score": 0.47380675202001576}
+{"sent": "motorcycle completely visible", "ann_id": 148860, "best_split": [1, 3], "split_score": 0.47380675202001576}
+{"sent": "whole motorcycle", "ann_id": 148860, "best_split": [1, 3], "split_score": 0.47380675202001576}

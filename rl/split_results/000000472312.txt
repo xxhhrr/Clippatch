@@ -1,0 +1,12 @@
+{"sent": "fingers doing the cutting", "ann_id": 2010391, "best_split": [1, 2], "split_score": 0.6734693877282577}
+{"sent": "hand holding scissor not the scissor", "ann_id": 2010391, "best_split": [1, 2], "split_score": 0.6734693877282577}
+{"sent": "hand using scissors", "ann_id": 2010391, "best_split": [1, 2], "split_score": 0.6734693877282577}
+{"sent": "camera", "ann_id": 1718550, "best_split": [1, 2], "split_score": 0.7525783226064546}
+{"sent": "boy holding camera", "ann_id": 1718550, "best_split": [1, 2], "split_score": 0.7525783226064546}
+{"sent": "camera", "ann_id": 1718550, "best_split": [1, 2], "split_score": 0.7525783226064546}
+{"sent": "scissors not in reflection", "ann_id": 1158453, "best_split": [2, 1], "split_score": 0.6011787819038693}
+{"sent": "purple scissor handle not in the reflection being held by thumb", "ann_id": 1158453, "best_split": [1, 2], "split_score": 0.47562300423097664}
+{"sent": "scissors closest to us", "ann_id": 1158453, "best_split": [2, 1], "split_score": 0.6011787819038693}
+{"sent": "scissor that are clearest we can see screw", "ann_id": 1158373, "best_split": [1, 3], "split_score": 0.48926162582138527}
+{"sent": "scissors", "ann_id": 1158373, "best_split": [1, 3], "split_score": 0.48926162582138527}
+{"sent": "small scissor", "ann_id": 1158373, "best_split": [1, 3], "split_score": 0.48926162582138527}

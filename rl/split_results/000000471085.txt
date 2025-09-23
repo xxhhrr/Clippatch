@@ -1,0 +1,6 @@
+{"sent": "stanidng toliet", "ann_id": 1095269, "best_split": [2, 1], "split_score": 0.2375239158068589}
+{"sent": "urinal", "ann_id": 1095269, "best_split": [2, 3], "split_score": 0.6390934191625525}
+{"sent": "the urinal next to the toilet", "ann_id": 1095269, "best_split": [2, 3], "split_score": 0.6390934191625525}
+{"sent": "toilet", "ann_id": 1093050, "best_split": [3, 3], "split_score": 0.49751243774404835}
+{"sent": "toilet", "ann_id": 1093050, "best_split": [3, 3], "split_score": 0.49751243774404835}
+{"sent": "sit down toilet", "ann_id": 1093050, "best_split": [2, 3], "split_score": 0.660792951463175}

@@ -1,0 +1,16 @@
+{"sent": "man glasses", "ann_id": 550692, "best_split": [2, 2], "split_score": 0.702864938560514}
+{"sent": "adult man", "ann_id": 550692, "best_split": [2, 2], "split_score": 0.702864938560514}
+{"sent": "man with white sweater", "ann_id": 550692, "best_split": [2, 2], "split_score": 0.702864938560514}
+{"sent": "part of girl green shirt", "ann_id": 542515, "best_split": [1, 2], "split_score": 0.7521524234394071}
+{"sent": "green shirt", "ann_id": 542515, "best_split": [1, 2], "split_score": 0.7521524234394071}
+{"sent": "girl in green shirt", "ann_id": 542515, "best_split": [1, 2], "split_score": 0.7521524234394071}
+{"sent": "dark blob near cake", "ann_id": 2162687, "best_split": [2, 2], "split_score": 0.8408595452475195}
+{"sent": "kid in shadows near us", "ann_id": 2162687, "best_split": [1, 2], "split_score": 0.4424426020231807}
+{"sent": "boys back in black", "ann_id": 2162687, "best_split": [2, 2], "split_score": 0.8408595452475195}
+{"sent": "girl in blue", "ann_id": 539878, "best_split": [3, 3], "split_score": 0.36618556697255816}
+{"sent": "blue shirt", "ann_id": 539878, "best_split": [3, 3], "split_score": 0.36618556697255816}
+{"sent": "blue shirt", "ann_id": 539878, "best_split": [3, 3], "split_score": 0.36618556697255816}
+{"sent": "pink shirt blond hair", "ann_id": 427411, "best_split": [2, 3], "split_score": 0.6234217536634516}
+{"sent": "girl red or pink shirt blond hair", "ann_id": 427411, "best_split": [2, 3], "split_score": 0.6234217536634516}
+{"sent": "red", "ann_id": 427411, "best_split": [2, 2], "split_score": 0.4175653657834149}
+{"sent": "blond girl in pink", "ann_id": 427411, "best_split": [2, 3], "split_score": 0.6234217536634516}

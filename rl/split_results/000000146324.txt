@@ -1,0 +1,10 @@
+{"sent": "guy on bike waiting to go", "ann_id": 230164, "best_split": [1, 5], "split_score": 0.4020082481260527}
+{"sent": "biker in back", "ann_id": 230164, "best_split": [1, 5], "split_score": 0.4020082481260527}
+{"sent": "man on bike", "ann_id": 230164, "best_split": [1, 5], "split_score": 0.4020082481260527}
+{"sent": "guy looking back", "ann_id": 215951, "best_split": [3, 3], "split_score": 0.3034981905544634}
+{"sent": "head turned", "ann_id": 215951, "best_split": [5, 1], "split_score": 0.1348079509688531}
+{"sent": "bike with face turned", "ann_id": 215951, "best_split": [3, 2], "split_score": 0.2866591080605953}
+{"sent": "bike with woman turning had", "ann_id": 151527, "best_split": [3, 2], "split_score": 0.5362888808959341}
+{"sent": "leader bike", "ann_id": 151527, "best_split": [3, 1], "split_score": 0.3080714725658209}
+{"sent": "slower motorcycle", "ann_id": 148798, "best_split": [3, 2], "split_score": 0.4102284011509207}
+{"sent": "bike in rear", "ann_id": 148798, "best_split": [3, 2], "split_score": 0.4102284011509207}

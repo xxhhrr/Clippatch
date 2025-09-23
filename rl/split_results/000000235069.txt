@@ -1,0 +1,6 @@
+{"sent": "boy in gray", "ann_id": 1282908, "best_split": [3, 2], "split_score": 0.31420794770667304}
+{"sent": "gray sweater kneeling", "ann_id": 1282908, "best_split": [2, 3], "split_score": 0.3608793686177137}
+{"sent": "kneeling white pants tanb shirt", "ann_id": 1282908, "best_split": [2, 3], "split_score": 0.3608793686177137}
+{"sent": "p sweater", "ann_id": 1245583, "best_split": [2, 2], "split_score": 0.3170475044860908}
+{"sent": "kid in black jacket", "ann_id": 1245583, "best_split": [2, 3], "split_score": 0.4661803713012621}
+{"sent": "man standing by hisself", "ann_id": 1245583, "best_split": [1, 2], "split_score": 0.19842155611453996}

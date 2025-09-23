@@ -1,0 +1,6 @@
+{"sent": "broccoli", "ann_id": 1536105, "best_split": [2, 2], "split_score": 0.7058823528948344}
+{"sent": "mmmm broccoli", "ann_id": 1536105, "best_split": [2, 2], "split_score": 0.7058823528948344}
+{"sent": "brcooli", "ann_id": 1536105, "best_split": [3, 2], "split_score": 0.6033057850794491}
+{"sent": "white cup close", "ann_id": 1535172, "best_split": [3, 3], "split_score": 0.7033265443477043}
+{"sent": "white cup", "ann_id": 1535172, "best_split": [3, 3], "split_score": 0.7033265443477043}
+{"sent": "bowl on edge", "ann_id": 1535172, "best_split": [5, 1], "split_score": 0.32305433183525567}

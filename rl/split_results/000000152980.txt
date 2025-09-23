@@ -1,0 +1,5 @@
+{"sent": "elephant cut off in frame head not visible", "ann_id": 584607, "best_split": [2, 3], "split_score": 0.16265314743027856}
+{"sent": "cutoff elephant leading", "ann_id": 584607, "best_split": [3, 1], "split_score": 0.13743293437177914}
+{"sent": "largest", "ann_id": 580735, "best_split": [1, 2], "split_score": 0.6707421540117303}
+{"sent": "whole elephant", "ann_id": 580735, "best_split": [1, 2], "split_score": 0.6707421540117303}
+{"sent": "main large elephant", "ann_id": 580735, "best_split": [1, 2], "split_score": 0.6707421540117303}

@@ -1,0 +1,15 @@
+{"sent": "huge black suitcase", "ann_id": 1187595, "best_split": [1, 5], "split_score": 0.37004821779615693}
+{"sent": "black suitcase next to blue", "ann_id": 1187595, "best_split": [2, 2], "split_score": 0.36949936221544166}
+{"sent": "closest all black suitcase", "ann_id": 1187595, "best_split": [1, 5], "split_score": 0.37004821779615693}
+{"sent": "blue suitcase in the forefront", "ann_id": 1187483, "best_split": [2, 3], "split_score": 0.44232625477288534}
+{"sent": "blue suitcase", "ann_id": 1187483, "best_split": [2, 3], "split_score": 0.44232625477288534}
+{"sent": "blue luggage", "ann_id": 1187483, "best_split": [2, 3], "split_score": 0.44232625477288534}
+{"sent": "very large black suitcase on floor held by man wearing black", "ann_id": 1187146, "best_split": [3, 2], "split_score": 0.2937202347664503}
+{"sent": "gray luggage", "ann_id": 1187146, "best_split": [3, 1], "split_score": 0.15314430905161724}
+{"sent": "gray luggage 600", "ann_id": 1187146, "best_split": [3, 1], "split_score": 0.15314430905161724}
+{"sent": "person in all black", "ann_id": 1751390, "best_split": [1, 3], "split_score": 0.5266650578832851}
+{"sent": "black coat guy", "ann_id": 1751390, "best_split": [1, 3], "split_score": 0.5266650578832851}
+{"sent": "in all black", "ann_id": 1751390, "best_split": [1, 3], "split_score": 0.5266650578832851}
+{"sent": "woman in white with jeans", "ann_id": 1223653, "best_split": [1, 5], "split_score": 0.6168706961919596}
+{"sent": "lady in jeans", "ann_id": 1223653, "best_split": [3, 1], "split_score": 0.17262259280461473}
+{"sent": "white shirt lady", "ann_id": 1223653, "best_split": [1, 5], "split_score": 0.6168706961919596}

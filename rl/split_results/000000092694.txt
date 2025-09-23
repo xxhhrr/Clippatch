@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 523216, "best_split": [2, 2], "split_score": 0.7447844227576644}
+{"sent": "red", "ann_id": 523216, "best_split": [2, 2], "split_score": 0.7447844227576644}
+{"sent": "red shirt", "ann_id": 523216, "best_split": [2, 2], "split_score": 0.7447844227576644}
+{"sent": "gray shirt guy", "ann_id": 471557, "best_split": [1, 2], "split_score": 0.6257246376584882}
+{"sent": "man in gray shirt", "ann_id": 471557, "best_split": [1, 2], "split_score": 0.6257246376584882}
+{"sent": "the man wearing gray", "ann_id": 471557, "best_split": [1, 2], "split_score": 0.6257246376584882}

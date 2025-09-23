@@ -1,0 +1,5 @@
+{"sent": "man with bat in hands", "ann_id": 469960, "best_split": [1, 2], "split_score": 0.6243613874457664}
+{"sent": "holding the bat", "ann_id": 469960, "best_split": [1, 2], "split_score": 0.6243613874457664}
+{"sent": "guy not looking at screen", "ann_id": 469960, "best_split": [1, 3], "split_score": 0.2977407208062038}
+{"sent": "the one in darker hat", "ann_id": 440556, "best_split": [1, 3], "split_score": 0.3554408260367381}
+{"sent": "man with darker hat", "ann_id": 440556, "best_split": [1, 3], "split_score": 0.3554408260367381}

@@ -1,0 +1,6 @@
+{"sent": "elephant cut off", "ann_id": 583302, "best_split": [2, 2], "split_score": 0.7847576529986641}
+{"sent": "hidden elephant", "ann_id": 583302, "best_split": [2, 2], "split_score": 0.7847576529986641}
+{"sent": "oout of frame elehpant", "ann_id": 583302, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "main elephant", "ann_id": 582750, "best_split": [2, 1], "split_score": 0.45002036290216707}
+{"sent": "elepgant", "ann_id": 582750, "best_split": [2, 1], "split_score": 0.45002036290216707}
+{"sent": "main elephant", "ann_id": 582750, "best_split": [2, 1], "split_score": 0.45002036290216707}

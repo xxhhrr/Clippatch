@@ -1,0 +1,6 @@
+{"sent": "sandwich still on paper", "ann_id": 2217720, "best_split": [3, 2], "split_score": 0.49508535950206195}
+{"sent": "food thats on the table", "ann_id": 2217720, "best_split": [3, 1], "split_score": 0.4691584498699175}
+{"sent": "sandwich on the table", "ann_id": 2217720, "best_split": [3, 2], "split_score": 0.49508535950206195}
+{"sent": "the sandwich that is behing held", "ann_id": 1555235, "best_split": [3, 3], "split_score": 0.6642857141670918}
+{"sent": "sandwich in hand", "ann_id": 1555235, "best_split": [3, 3], "split_score": 0.6642857141670918}
+{"sent": "food in hands", "ann_id": 1555235, "best_split": [3, 3], "split_score": 0.6642857141670918}

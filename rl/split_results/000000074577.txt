@@ -1,0 +1,6 @@
+{"sent": "man with camera", "ann_id": 1282460, "best_split": [3, 3], "split_score": 0.6706605221704054}
+{"sent": "stripe shirt", "ann_id": 1282460, "best_split": [3, 2], "split_score": 0.48010380617645937}
+{"sent": "striped shirt", "ann_id": 1282460, "best_split": [3, 3], "split_score": 0.6706605221704054}
+{"sent": "girl in black", "ann_id": 1213288, "best_split": [2, 2], "split_score": 0.4532985787591821}
+{"sent": "lady", "ann_id": 1213288, "best_split": [2, 2], "split_score": 0.4532985787591821}
+{"sent": "woman", "ann_id": 1213288, "best_split": [3, 2], "split_score": 0.47177202546495334}

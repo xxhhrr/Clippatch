@@ -1,0 +1,6 @@
+{"sent": "oven", "ann_id": 1641495, "best_split": [3, 3], "split_score": 0.375471359243047}
+{"sent": "black dishwasher", "ann_id": 1641495, "best_split": [3, 3], "split_score": 0.375471359243047}
+{"sent": "dishwasher", "ann_id": 1641495, "best_split": [3, 3], "split_score": 0.375471359243047}
+{"sent": "the white stove by his elbow", "ann_id": 1641273, "best_split": [3, 1], "split_score": 0.19854175104458413}
+{"sent": "white appliance controls close to the man", "ann_id": 1641273, "best_split": [3, 1], "split_score": 0.19854175104458413}
+{"sent": "possibly a white stove at 700", "ann_id": 1641273, "best_split": [3, 1], "split_score": 0.19854175104458413}

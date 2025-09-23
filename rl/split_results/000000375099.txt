@@ -1,0 +1,6 @@
+{"sent": "stripes pink white", "ann_id": 105290, "best_split": [1, 5], "split_score": 0.28916396100962216}
+{"sent": "red strips", "ann_id": 105290, "best_split": [1, 2], "split_score": 0.11360012754649235}
+{"sent": "red and white striped object", "ann_id": 105290, "best_split": [1, 2], "split_score": 0.11360012754649235}
+{"sent": "high chair back", "ann_id": 101138, "best_split": [3, 3], "split_score": 0.6652966862746857}
+{"sent": "9 o clock next to girl", "ann_id": 101138, "best_split": [3, 2], "split_score": 0.4887714662682797}
+{"sent": "back of seat behind baby", "ann_id": 101138, "best_split": [3, 3], "split_score": 0.6652966862746857}

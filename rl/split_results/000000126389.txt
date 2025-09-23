@@ -1,0 +1,5 @@
+{"sent": "chair by laptop", "ann_id": 106152, "best_split": [2, 3], "split_score": 0.2729984301198588}
+{"sent": "black chair at laptop", "ann_id": 106152, "best_split": [3, 2], "split_score": 0.33789803659974443}
+{"sent": "chair white computer", "ann_id": 105976, "best_split": [2, 2], "split_score": 0.5595565805699311}
+{"sent": "closest chair", "ann_id": 105976, "best_split": [2, 2], "split_score": 0.5595565805699311}
+{"sent": "black chair under biggest mac", "ann_id": 105976, "best_split": [2, 2], "split_score": 0.5595565805699311}

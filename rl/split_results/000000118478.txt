@@ -1,0 +1,5 @@
+{"sent": "zebra that is ahead", "ann_id": 589668, "best_split": [3, 2], "split_score": 0.5663265305606481}
+{"sent": "hidden zebra", "ann_id": 589668, "best_split": [3, 2], "split_score": 0.5663265305606481}
+{"sent": "zebra closest to us", "ann_id": 588259, "best_split": [1, 3], "split_score": 0.37958685608038056}
+{"sent": "zebra fully visible", "ann_id": 588259, "best_split": [1, 3], "split_score": 0.37958685608038056}
+{"sent": "closet zebra", "ann_id": 588259, "best_split": [1, 3], "split_score": 0.37958685608038056}

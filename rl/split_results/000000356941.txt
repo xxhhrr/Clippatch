@@ -1,0 +1,6 @@
+{"sent": "child in yellow", "ann_id": 212261, "best_split": [2, 3], "split_score": 0.720769138812759}
+{"sent": "yellow shirt", "ann_id": 212261, "best_split": [2, 3], "split_score": 0.720769138812759}
+{"sent": "yellow shirt", "ann_id": 212261, "best_split": [2, 3], "split_score": 0.720769138812759}
+{"sent": "purple shirt", "ann_id": 206719, "best_split": [3, 3], "split_score": 0.5474108943569367}
+{"sent": "adult woman", "ann_id": 206719, "best_split": [3, 3], "split_score": 0.5474108943569367}
+{"sent": "the mom", "ann_id": 206719, "best_split": [3, 3], "split_score": 0.5474108943569367}

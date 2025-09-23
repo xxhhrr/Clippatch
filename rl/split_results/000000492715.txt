@@ -1,0 +1,6 @@
+{"sent": "scissors blue handle", "ann_id": 1158562, "best_split": [5, 1], "split_score": 0.27461538458897927}
+{"sent": "scissors not on the rite", "ann_id": 1158562, "best_split": [5, 1], "split_score": 0.27461538458897927}
+{"sent": "crease in bag at 900", "ann_id": 1158562, "best_split": [3, 3], "split_score": 0.5367036010151136}
+{"sent": "green scissor", "ann_id": 1157972, "best_split": [3, 2], "split_score": 0.5910328932965605}
+{"sent": "green scissors", "ann_id": 1157972, "best_split": [3, 2], "split_score": 0.5910328932965605}
+{"sent": "green cutter", "ann_id": 1157972, "best_split": [3, 2], "split_score": 0.5910328932965605}

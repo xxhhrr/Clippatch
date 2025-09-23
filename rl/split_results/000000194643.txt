@@ -1,0 +1,6 @@
+{"sent": "bicycle seat", "ann_id": 130531, "best_split": [2, 1], "split_score": 0.5153609668076887}
+{"sent": "nearest bike", "ann_id": 130531, "best_split": [2, 1], "split_score": 0.5153609668076887}
+{"sent": "seat of bike", "ann_id": 130531, "best_split": [2, 1], "split_score": 0.5153609668076887}
+{"sent": "bike green", "ann_id": 129684, "best_split": [2, 1], "split_score": 0.4001914791629559}
+{"sent": "bike", "ann_id": 129684, "best_split": [2, 1], "split_score": 0.4001914791629559}
+{"sent": "green bike", "ann_id": 129684, "best_split": [2, 1], "split_score": 0.4001914791629559}

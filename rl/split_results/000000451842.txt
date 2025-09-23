@@ -1,0 +1,6 @@
+{"sent": "player in black", "ann_id": 522834, "best_split": [2, 1], "split_score": 0.13985132921318347}
+{"sent": "person in blue", "ann_id": 522834, "best_split": [1, 5], "split_score": 0.6351435704872703}
+{"sent": "blue", "ann_id": 522834, "best_split": [1, 5], "split_score": 0.6351435704872703}
+{"sent": "player", "ann_id": 515740, "best_split": [1, 2], "split_score": 0.645212428644969}
+{"sent": "white shirt", "ann_id": 515740, "best_split": [1, 2], "split_score": 0.645212428644969}
+{"sent": "all white", "ann_id": 515740, "best_split": [1, 2], "split_score": 0.645212428644969}

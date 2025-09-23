@@ -1,0 +1,7 @@
+{"sent": "the blue scooter under in out sign", "ann_id": 155627, "best_split": [1, 5], "split_score": 0.2707808563988142}
+{"sent": "not red bike", "ann_id": 155627, "best_split": [5, 1], "split_score": 0.23457437508874546}
+{"sent": "the motorcycle behind the guy in the black shirt", "ann_id": 155627, "best_split": [5, 1], "split_score": 0.23457437508874546}
+{"sent": "biggest red bike", "ann_id": 154845, "best_split": [2, 2], "split_score": 0.7790440012045707}
+{"sent": "biggest motorcycle", "ann_id": 154845, "best_split": [2, 2], "split_score": 0.7790440012045707}
+{"sent": "one being leaned on by red sleeved man", "ann_id": 148880, "best_split": [1, 5], "split_score": 0.38329932503662695}
+{"sent": "person by red motorcycle", "ann_id": 148880, "best_split": [1, 5], "split_score": 0.38329932503662695}

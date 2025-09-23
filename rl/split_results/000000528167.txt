@@ -1,0 +1,9 @@
+{"sent": "man without skateboard", "ann_id": 1724871, "best_split": [2, 1], "split_score": 0.22833241908158486}
+{"sent": "black pants no hat", "ann_id": 1724871, "best_split": [2, 2], "split_score": 0.40062560151584303}
+{"sent": "no skateboard guy", "ann_id": 1724871, "best_split": [2, 1], "split_score": 0.22833241908158486}
+{"sent": "guy with hat", "ann_id": 467175, "best_split": [1, 5], "split_score": 0.48030495548917523}
+{"sent": "white hat", "ann_id": 467175, "best_split": [1, 5], "split_score": 0.48030495548917523}
+{"sent": "guy with hat", "ann_id": 467175, "best_split": [1, 5], "split_score": 0.48030495548917523}
+{"sent": "guy with skateboard upright", "ann_id": 426325, "best_split": [2, 3], "split_score": 0.5022207037493832}
+{"sent": "shirtless man with hand on board", "ann_id": 426325, "best_split": [1, 3], "split_score": 0.5610521235182763}
+{"sent": "guy holding the skateboard striaight up", "ann_id": 426325, "best_split": [1, 3], "split_score": 0.5610521235182763}

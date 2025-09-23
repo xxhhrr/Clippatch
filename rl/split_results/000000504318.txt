@@ -1,0 +1,9 @@
+{"sent": "sliding", "ann_id": 510832, "best_split": [3, 2], "split_score": 0.5128582645747096}
+{"sent": "sorry sliding man", "ann_id": 510832, "best_split": [3, 2], "split_score": 0.5128582645747096}
+{"sent": "man on ground", "ann_id": 510832, "best_split": [5, 1], "split_score": 0.2976463395768266}
+{"sent": "catching", "ann_id": 501991, "best_split": [2, 2], "split_score": 0.45774872445330445}
+{"sent": "man catching the ball", "ann_id": 501991, "best_split": [2, 2], "split_score": 0.45774872445330445}
+{"sent": "player with black glove", "ann_id": 501991, "best_split": [2, 2], "split_score": 0.45774872445330445}
+{"sent": "black", "ann_id": 439357, "best_split": [2, 3], "split_score": 0.40562248992281646}
+{"sent": "umpire", "ann_id": 439357, "best_split": [1, 5], "split_score": 0.26513569935392667}
+{"sent": "black shirt", "ann_id": 439357, "best_split": [2, 3], "split_score": 0.40562248992281646}

@@ -1,0 +1,13 @@
+{"sent": "rectangular pan bordered by 4 bowls", "ann_id": 1076222, "best_split": [3, 2], "split_score": 0.5534649993510032}
+{"sent": "pizza with red topping", "ann_id": 1076222, "best_split": [3, 2], "split_score": 0.5534649993510032}
+{"sent": "spinach cheese and tomatoes", "ann_id": 1076222, "best_split": [3, 2], "split_score": 0.5534649993510032}
+{"sent": "looks like no meat pizza rectangle", "ann_id": 1076193, "best_split": [3, 3], "split_score": 0.43059657406518065}
+{"sent": "closest to girl", "ann_id": 1076193, "best_split": [2, 3], "split_score": 0.19640122509605654}
+{"sent": "pizza with no pepperoni on it", "ann_id": 1076193, "best_split": [3, 3], "split_score": 0.43059657406518065}
+{"sent": "plaid shirt of person who can be seen only from waist down", "ann_id": 485358, "best_split": [3, 3], "split_score": 0.45561930468180567}
+{"sent": "blue plaid shirt", "ann_id": 485358, "best_split": [3, 3], "split_score": 0.45561930468180567}
+{"sent": "kid in blue shirt", "ann_id": 483675, "best_split": [3, 2], "split_score": 0.46111239320781067}
+{"sent": "boy", "ann_id": 483675, "best_split": [3, 3], "split_score": 0.2785565939409973}
+{"sent": "little boy", "ann_id": 483675, "best_split": [3, 2], "split_score": 0.46111239320781067}
+{"sent": "black pant legs", "ann_id": 441667, "best_split": [3, 3], "split_score": 0.5963734048696485}
+{"sent": "black pants", "ann_id": 441667, "best_split": [3, 3], "split_score": 0.5963734048696485}

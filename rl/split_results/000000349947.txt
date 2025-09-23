@@ -1,0 +1,11 @@
+{"sent": "chair near us", "ann_id": 1935484, "best_split": [2, 2], "split_score": 0.5033482142455876}
+{"sent": "sofa in corner", "ann_id": 1935484, "best_split": [2, 2], "split_score": 0.5033482142455876}
+{"sent": "small black couch", "ann_id": 1582686, "best_split": [2, 3], "split_score": 0.6310013716699815}
+{"sent": "fully visible armchair", "ann_id": 1582686, "best_split": [2, 3], "split_score": 0.6310013716699815}
+{"sent": "black chair closer to bed", "ann_id": 1582686, "best_split": [2, 3], "split_score": 0.6310013716699815}
+{"sent": "chair closest to us", "ann_id": 114462, "best_split": [2, 2], "split_score": 0.49744897955218037}
+{"sent": "closest black sofa", "ann_id": 114462, "best_split": [3, 2], "split_score": 0.6877323419275404}
+{"sent": "closest chair", "ann_id": 114462, "best_split": [2, 2], "split_score": 0.49744897955218037}
+{"sent": "leather chair looks like touching white bed", "ann_id": 2224034, "best_split": [2, 3], "split_score": 0.6374957156817667}
+{"sent": "smallest puffy dark chair", "ann_id": 2224034, "best_split": [2, 3], "split_score": 0.6374957156817667}
+{"sent": "leather chair between chair and bed", "ann_id": 2224034, "best_split": [2, 3], "split_score": 0.6374957156817667}

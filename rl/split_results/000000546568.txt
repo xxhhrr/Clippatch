@@ -1,0 +1,6 @@
+{"sent": "gap between wheel and frame of bike", "ann_id": 1766620, "best_split": [3, 1], "split_score": 0.4734555984270357}
+{"sent": "leafs behind cat", "ann_id": 1766620, "best_split": [2, 3], "split_score": 0.492968171679037}
+{"sent": "area over cats head", "ann_id": 1766620, "best_split": [2, 3], "split_score": 0.492968171679037}
+{"sent": "the chain", "ann_id": 124725, "best_split": [2, 1], "split_score": 0.8028544793852951}
+{"sent": "the bike above the cat", "ann_id": 124725, "best_split": [2, 1], "split_score": 0.8028544793852951}
+{"sent": "bike", "ann_id": 124725, "best_split": [2, 1], "split_score": 0.8028544793852951}

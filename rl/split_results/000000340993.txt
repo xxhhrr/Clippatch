@@ -1,0 +1,11 @@
+{"sent": "third blue", "ann_id": 1444325, "best_split": [1, 2], "split_score": 0.16711429423429147}
+{"sent": "tallest luggage", "ann_id": 1444325, "best_split": [3, 3], "split_score": 0.17064367353412435}
+{"sent": "last suitcase", "ann_id": 1444325, "best_split": [3, 3], "split_score": 0.17064367353412435}
+{"sent": "luggage on the side", "ann_id": 1187900, "best_split": [2, 3], "split_score": 0.6892550474948648}
+{"sent": "upright suitcase with white stripe", "ann_id": 1187900, "best_split": [2, 3], "split_score": 0.6892550474948648}
+{"sent": "luggage 900", "ann_id": 1187900, "best_split": [2, 3], "split_score": 0.6892550474948648}
+{"sent": "smallest blue case", "ann_id": 1187591, "best_split": [3, 1], "split_score": 0.6145632239011485}
+{"sent": "closest blue little luggage", "ann_id": 1187591, "best_split": [3, 1], "split_score": 0.6145632239011485}
+{"sent": "suitcase slightly lower than back one", "ann_id": 1187023, "best_split": [2, 1], "split_score": 0.4095346773041228}
+{"sent": "luggage standing that you see the most of", "ann_id": 1187023, "best_split": [2, 1], "split_score": 0.4095346773041228}
+{"sent": "blue suitcase showing the most", "ann_id": 1187023, "best_split": [2, 1], "split_score": 0.4095346773041228}

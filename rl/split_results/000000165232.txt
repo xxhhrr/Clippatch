@@ -1,0 +1,6 @@
+{"sent": "horse facing away", "ann_id": 54756, "best_split": [3, 2], "split_score": 0.579937304018423}
+{"sent": "redder horse", "ann_id": 54756, "best_split": [3, 2], "split_score": 0.579937304018423}
+{"sent": "red horse sideways", "ann_id": 54756, "best_split": [3, 2], "split_score": 0.579937304018423}
+{"sent": "the one looking straight at you", "ann_id": 54142, "best_split": [1, 5], "split_score": 0.5182524433616028}
+{"sent": "horse lookin in", "ann_id": 54142, "best_split": [1, 5], "split_score": 0.5182524433616028}
+{"sent": "horse near u", "ann_id": 54142, "best_split": [1, 5], "split_score": 0.5182524433616028}

@@ -1,0 +1,6 @@
+{"sent": "car with the bear in it", "ann_id": 152963, "best_split": [1, 2], "split_score": 0.4110042873713458}
+{"sent": "side car with bear", "ann_id": 152963, "best_split": [1, 3], "split_score": 0.3184117158481765}
+{"sent": "bike shield with all the signs", "ann_id": 152963, "best_split": [2, 1], "split_score": 0.6988776347933644}
+{"sent": "a black motorcycle", "ann_id": 150895, "best_split": [2, 2], "split_score": 0.6182921138230114}
+{"sent": "black bike headlight", "ann_id": 150895, "best_split": [2, 2], "split_score": 0.6182921138230114}
+{"sent": "bike with dressed up guys in teddy suits", "ann_id": 150895, "best_split": [2, 2], "split_score": 0.6182921138230114}

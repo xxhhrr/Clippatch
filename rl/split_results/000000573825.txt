@@ -1,0 +1,5 @@
+{"sent": "corner of table at 10 o clock", "ann_id": 1616333, "best_split": [1, 3], "split_score": 0.32722174286414896}
+{"sent": "lefty corner of table", "ann_id": 1616333, "best_split": [1, 3], "split_score": 0.32722174286414896}
+{"sent": "table under plate", "ann_id": 121129, "best_split": [3, 1], "split_score": 0.8475506756245444}
+{"sent": "table area closest to us", "ann_id": 121129, "best_split": [3, 1], "split_score": 0.8475506756245444}
+{"sent": "the table below the plate", "ann_id": 121129, "best_split": [3, 1], "split_score": 0.8475506756245444}

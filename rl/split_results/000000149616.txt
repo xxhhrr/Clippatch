@@ -1,0 +1,12 @@
+{"sent": "lighter jeans", "ann_id": 215813, "best_split": [3, 2], "split_score": 0.47995283015330537}
+{"sent": "man in lightest pants", "ann_id": 215813, "best_split": [1, 2], "split_score": 0.47002551018534655}
+{"sent": "hat with ring around it", "ann_id": 215813, "best_split": [1, 3], "split_score": 0.5263101258728984}
+{"sent": "white hat striped shirt", "ann_id": 208571, "best_split": [1, 5], "split_score": 0.5260409509051779}
+{"sent": "man on stump", "ann_id": 208571, "best_split": [1, 5], "split_score": 0.5260409509051779}
+{"sent": "darker jeans", "ann_id": 208571, "best_split": [2, 1], "split_score": 0.25754013568020623}
+{"sent": "the cow with legs tied", "ann_id": 72017, "best_split": [1, 3], "split_score": 0.6033174022810829}
+{"sent": "big animal", "ann_id": 72017, "best_split": [1, 3], "split_score": 0.6033174022810829}
+{"sent": "cow being milked", "ann_id": 72017, "best_split": [1, 3], "split_score": 0.6033174022810829}
+{"sent": "smaller horse", "ann_id": 70394, "best_split": [5, 1], "split_score": 0.1285885167367981}
+{"sent": "cow butt only showing", "ann_id": 70394, "best_split": [1, 2], "split_score": 0.20886479591004206}
+{"sent": "butt behind striped shirt", "ann_id": 70394, "best_split": [3, 3], "split_score": 0.38164002057998453}

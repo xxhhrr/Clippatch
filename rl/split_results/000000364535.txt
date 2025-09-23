@@ -1,0 +1,12 @@
+{"sent": "holding the ball", "ann_id": 1727039, "best_split": [1, 2], "split_score": 0.4409756619871757}
+{"sent": "red", "ann_id": 1727039, "best_split": [2, 1], "split_score": 0.47886898218073015}
+{"sent": "red", "ann_id": 1727039, "best_split": [2, 1], "split_score": 0.47886898218073015}
+{"sent": "half a guy", "ann_id": 569484, "best_split": [1, 2], "split_score": 0.33665497447637693}
+{"sent": "person in blue half cut off", "ann_id": 569484, "best_split": [1, 2], "split_score": 0.33665497447637693}
+{"sent": "woman you can barely see in blue socks", "ann_id": 569484, "best_split": [1, 3], "split_score": 0.5095318532511142}
+{"sent": "girl in black with blue headband", "ann_id": 509464, "best_split": [1, 3], "split_score": 0.7822410147544574}
+{"sent": "girl in black shirt", "ann_id": 509464, "best_split": [1, 2], "split_score": 0.582549425997188}
+{"sent": "woman in black with blue headband whose arm is on shoulder", "ann_id": 509464, "best_split": [1, 3], "split_score": 0.7822410147544574}
+{"sent": "blond in gray", "ann_id": 503568, "best_split": [2, 1], "split_score": 0.20610005103987686}
+{"sent": "light blue shirt woman", "ann_id": 503568, "best_split": [3, 1], "split_score": 0.2074196207663883}
+{"sent": "girl gray shirt behind one in red", "ann_id": 503568, "best_split": [1, 5], "split_score": 0.5533686600678983}

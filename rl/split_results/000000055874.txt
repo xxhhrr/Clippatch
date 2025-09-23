@@ -1,0 +1,12 @@
+{"sent": "pink shirt", "ann_id": 563844, "best_split": [1, 5], "split_score": 0.6934262080371418}
+{"sent": "red shirt guy", "ann_id": 563844, "best_split": [1, 5], "split_score": 0.6934262080371418}
+{"sent": "pink shirt", "ann_id": 563844, "best_split": [1, 5], "split_score": 0.6934262080371418}
+{"sent": "littlest", "ann_id": 560382, "best_split": [2, 3], "split_score": 0.7411547769112418}
+{"sent": "little kid", "ann_id": 560382, "best_split": [2, 3], "split_score": 0.7411547769112418}
+{"sent": "kid with eyes closed", "ann_id": 560382, "best_split": [2, 3], "split_score": 0.7411547769112418}
+{"sent": "girl partially blocked by toothbrush girl", "ann_id": 554694, "best_split": [5, 1], "split_score": 0.10279531108445218}
+{"sent": "black shirt", "ann_id": 554694, "best_split": [1, 3], "split_score": 0.43834459456815006}
+{"sent": "black shirt", "ann_id": 554694, "best_split": [1, 3], "split_score": 0.43834459456815006}
+{"sent": "woman in white", "ann_id": 424162, "best_split": [1, 2], "split_score": 0.5366188954003293}
+{"sent": "woman with toothbrush", "ann_id": 424162, "best_split": [1, 2], "split_score": 0.5366188954003293}
+{"sent": "white shirt girl standing", "ann_id": 424162, "best_split": [1, 2], "split_score": 0.5366188954003293}

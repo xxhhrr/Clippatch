@@ -1,0 +1,6 @@
+{"sent": "partial sheep", "ann_id": 63959, "best_split": [3, 2], "split_score": 0.48146157975884996}
+{"sent": "behind and to the other side", "ann_id": 63959, "best_split": [1, 2], "split_score": 0.31388535030704695}
+{"sent": "sheepe alone", "ann_id": 63959, "best_split": [3, 2], "split_score": 0.48146157975884996}
+{"sent": "sheep obscuring other one", "ann_id": 62724, "best_split": [2, 3], "split_score": 0.32414344218118635}
+{"sent": "full view main sheep", "ann_id": 62724, "best_split": [2, 3], "split_score": 0.32414344218118635}
+{"sent": "sheep with most legs up", "ann_id": 62724, "best_split": [2, 3], "split_score": 0.32414344218118635}

@@ -1,0 +1,10 @@
+{"sent": "guy in black", "ann_id": 554424, "best_split": [1, 2], "split_score": 0.4758051657973611}
+{"sent": "man at edge in black", "ann_id": 554424, "best_split": [1, 2], "split_score": 0.4758051657973611}
+{"sent": "blue shirt", "ann_id": 467134, "best_split": [3, 3], "split_score": 0.2655991164735506}
+{"sent": "blue jacket", "ann_id": 467134, "best_split": [3, 3], "split_score": 0.2655991164735506}
+{"sent": "blue shirt", "ann_id": 467134, "best_split": [3, 3], "split_score": 0.2655991164735506}
+{"sent": "person with white jacket", "ann_id": 456054, "best_split": [1, 5], "split_score": 0.38755458511758056}
+{"sent": "person holding blue bag", "ann_id": 456054, "best_split": [1, 5], "split_score": 0.38755458511758056}
+{"sent": "blue bag", "ann_id": 456054, "best_split": [1, 5], "split_score": 0.38755458511758056}
+{"sent": "woman without a hat or sunglasses", "ann_id": 439230, "best_split": [3, 2], "split_score": 0.2162056875519862}
+{"sent": "shortest gal", "ann_id": 439230, "best_split": [1, 2], "split_score": 0.16741071427904133}

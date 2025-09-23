@@ -1,0 +1,6 @@
+{"sent": "animal not pink", "ann_id": 584157, "best_split": [3, 3], "split_score": 0.3055509800188517}
+{"sent": "animal closest to boy", "ann_id": 584157, "best_split": [3, 3], "split_score": 0.3055509800188517}
+{"sent": "black elephant", "ann_id": 584157, "best_split": [3, 3], "split_score": 0.3055509800188517}
+{"sent": "the one with white face", "ann_id": 581444, "best_split": [1, 2], "split_score": 0.15820312499369407}
+{"sent": "elephant closest to the camera", "ann_id": 581444, "best_split": [2, 2], "split_score": 0.3164062499747763}
+{"sent": "white snout", "ann_id": 581444, "best_split": [2, 2], "split_score": 0.3164062499747763}

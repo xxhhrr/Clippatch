@@ -1,0 +1,6 @@
+{"sent": "that was my bad black object could be train", "ann_id": 1366419, "best_split": [2, 1], "split_score": 0.2704081632545277}
+{"sent": "not the yellow train", "ann_id": 1366419, "best_split": [2, 1], "split_score": 0.2704081632545277}
+{"sent": "black partial train", "ann_id": 1366419, "best_split": [2, 1], "split_score": 0.2704081632545277}
+{"sent": "train", "ann_id": 170335, "best_split": [3, 3], "split_score": 0.4662840745218285}
+{"sent": "train", "ann_id": 170335, "best_split": [3, 3], "split_score": 0.4662840745218285}
+{"sent": "yllow tain", "ann_id": 170335, "best_split": [1, 2], "split_score": 0.03624701670509222}

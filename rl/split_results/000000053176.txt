@@ -1,0 +1,5 @@
+{"sent": "table on the back", "ann_id": 1967011, "best_split": [3, 1], "split_score": 0.6689426856678593}
+{"sent": "white counter behind sunflower", "ann_id": 1967011, "best_split": [3, 1], "split_score": 0.6689426856678593}
+{"sent": "tablecloth under white vase with sunflower", "ann_id": 1966299, "best_split": [1, 2], "split_score": 0.3221359960839492}
+{"sent": "table under flowers", "ann_id": 1966299, "best_split": [1, 2], "split_score": 0.3221359960839492}
+{"sent": "what vase is sitting on", "ann_id": 1966299, "best_split": [1, 2], "split_score": 0.31834415583554265}

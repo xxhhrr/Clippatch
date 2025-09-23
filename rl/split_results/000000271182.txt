@@ -1,0 +1,6 @@
+{"sent": "red bus", "ann_id": 172136, "best_split": [1, 5], "split_score": 0.3753043830788043}
+{"sent": "orange train", "ann_id": 172136, "best_split": [1, 5], "split_score": 0.3753043830788043}
+{"sent": "red train on edge", "ann_id": 172136, "best_split": [1, 5], "split_score": 0.3753043830788043}
+{"sent": "train", "ann_id": 171883, "best_split": [2, 1], "split_score": 0.5854813256026964}
+{"sent": "train", "ann_id": 171883, "best_split": [2, 1], "split_score": 0.5854813256026964}
+{"sent": "train", "ann_id": 171883, "best_split": [2, 1], "split_score": 0.5854813256026964}

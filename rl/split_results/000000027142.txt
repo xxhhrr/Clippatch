@@ -1,0 +1,5 @@
+{"sent": "smiling at cup", "ann_id": 528210, "best_split": [1, 2], "split_score": 0.9651417828229225}
+{"sent": "woman can see boyth hands", "ann_id": 528210, "best_split": [1, 2], "split_score": 0.9651417828229225}
+{"sent": "smile", "ann_id": 528210, "best_split": [1, 2], "split_score": 0.9651417828229225}
+{"sent": "girl talking on phone not touching coffee", "ann_id": 2167244, "best_split": [2, 1], "split_score": 0.2851383960174553}
+{"sent": "woman not touching cup", "ann_id": 2167244, "best_split": [2, 1], "split_score": 0.2851383960174553}

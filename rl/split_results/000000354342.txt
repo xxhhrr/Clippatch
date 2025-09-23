@@ -1,0 +1,9 @@
+{"sent": "jumping guy in midair", "ann_id": 552739, "best_split": [2, 2], "split_score": 0.5948660713811491}
+{"sent": "guy jumping over other", "ann_id": 552739, "best_split": [2, 2], "split_score": 0.5948660713811491}
+{"sent": "gu on skatboard in air", "ann_id": 552739, "best_split": [1, 5], "split_score": 0.3007360672749935}
+{"sent": "dark blue hoodie near the bright blue shirt", "ann_id": 1741196, "best_split": [2, 1], "split_score": 0.11641443538575326}
+{"sent": "hoodie", "ann_id": 1741196, "best_split": [2, 1], "split_score": 0.11641443538575326}
+{"sent": "guy in black hoodie watching", "ann_id": 1741196, "best_split": [2, 1], "split_score": 0.11641443538575326}
+{"sent": "guy with his arms crossed", "ann_id": 476656, "best_split": [5, 1], "split_score": 0.08103130754386142}
+{"sent": "boy in black no cap", "ann_id": 476656, "best_split": [5, 1], "split_score": 0.08103130754386142}
+{"sent": "all black between hat guy and hoodie guy", "ann_id": 476656, "best_split": [5, 1], "split_score": 0.08103130754386142}

@@ -1,0 +1,6 @@
+{"sent": "train between green and blue trains", "ann_id": 249024, "best_split": [5, 1], "split_score": 0.4109172077505157}
+{"sent": "black train cars near blue train cars", "ann_id": 249024, "best_split": [5, 1], "split_score": 0.4109172077505157}
+{"sent": "impossible number 3 train", "ann_id": 249024, "best_split": [5, 1], "split_score": 0.4109172077505157}
+{"sent": "white train", "ann_id": 173437, "best_split": [3, 1], "split_score": 0.8744570462792919}
+{"sent": "white train", "ann_id": 173437, "best_split": [3, 1], "split_score": 0.8744570462792919}
+{"sent": "white train", "ann_id": 173437, "best_split": [3, 1], "split_score": 0.8744570462792919}

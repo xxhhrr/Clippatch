@@ -1,0 +1,6 @@
+{"sent": "couch under picture", "ann_id": 116752, "best_split": [3, 3], "split_score": 0.7130151199654587}
+{"sent": "full length couch", "ann_id": 116752, "best_split": [3, 2], "split_score": 0.6431838974561774}
+{"sent": "larger couch", "ann_id": 116752, "best_split": [3, 3], "split_score": 0.7130151199654587}
+{"sent": "little couch", "ann_id": 116552, "best_split": [5, 1], "split_score": 0.18848167537504845}
+{"sent": "couch farthest from us", "ann_id": 116552, "best_split": [3, 3], "split_score": 0.31129996847477176}
+{"sent": "loveseat", "ann_id": 116552, "best_split": [5, 1], "split_score": 0.18848167537504845}

@@ -1,0 +1,7 @@
+{"sent": "person in the back", "ann_id": 1235166, "best_split": [1, 5], "split_score": 0.4501731434734347}
+{"sent": "man figure", "ann_id": 1235166, "best_split": [1, 2], "split_score": 0.2080676020325228}
+{"sent": "man by the boxes", "ann_id": 1235166, "best_split": [2, 1], "split_score": 0.11050857393703252}
+{"sent": "woman", "ann_id": 445259, "best_split": [1, 2], "split_score": 0.6228665084033326}
+{"sent": "lady", "ann_id": 445259, "best_split": [1, 2], "split_score": 0.6228665084033326}
+{"sent": "girl", "ann_id": 445259, "best_split": [1, 2], "split_score": 0.6228665084033326}
+{"sent": "girl", "ann_id": 445259, "best_split": [1, 2], "split_score": 0.6228665084033326}

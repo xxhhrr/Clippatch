@@ -1,0 +1,6 @@
+{"sent": "man in red", "ann_id": 2190997, "best_split": [3, 2], "split_score": 0.39070025931912744}
+{"sent": "person in all orange", "ann_id": 2190997, "best_split": [3, 2], "split_score": 0.39070025931912744}
+{"sent": "red", "ann_id": 2190997, "best_split": [3, 2], "split_score": 0.39070025931912744}
+{"sent": "man in yellow vest", "ann_id": 1742625, "best_split": [3, 3], "split_score": 0.3682702457595732}
+{"sent": "man in yellow and with orange", "ann_id": 1742625, "best_split": [1, 3], "split_score": 0.21700048261239138}
+{"sent": "man in yellow", "ann_id": 1742625, "best_split": [2, 1], "split_score": 0.07281771261602148}

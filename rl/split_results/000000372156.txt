@@ -1,0 +1,6 @@
+{"sent": "cake closest", "ann_id": 1578105, "best_split": [2, 3], "split_score": 0.5245504840487076}
+{"sent": "closest cake", "ann_id": 1578105, "best_split": [2, 3], "split_score": 0.5245504840487076}
+{"sent": "train in foreground", "ann_id": 1578105, "best_split": [2, 3], "split_score": 0.5245504840487076}
+{"sent": "train cake further from camera", "ann_id": 1577998, "best_split": [5, 1], "split_score": 0.35772357720272324}
+{"sent": "cake beside flowered mat", "ann_id": 1577998, "best_split": [5, 1], "split_score": 0.35772357720272324}
+{"sent": "blue truck near the flower picture", "ann_id": 1577998, "best_split": [5, 1], "split_score": 0.35772357720272324}

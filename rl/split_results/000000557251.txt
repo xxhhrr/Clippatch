@@ -1,0 +1,6 @@
+{"sent": "the dude in the gray jacket", "ann_id": 468980, "best_split": [1, 3], "split_score": 0.24096385541016618}
+{"sent": "man in back", "ann_id": 468980, "best_split": [1, 5], "split_score": 0.4710920770517672}
+{"sent": "guy", "ann_id": 468980, "best_split": [1, 2], "split_score": 0.3738839285565257}
+{"sent": "the skier in the blue jacket", "ann_id": 448003, "best_split": [1, 3], "split_score": 0.5233333333091049}
+{"sent": "blue girl", "ann_id": 448003, "best_split": [1, 3], "split_score": 0.5233333333091049}
+{"sent": "in blue", "ann_id": 448003, "best_split": [1, 3], "split_score": 0.5233333333091049}

@@ -1,0 +1,6 @@
+{"sent": "bending man", "ann_id": 222787, "best_split": [3, 2], "split_score": 0.435853501773843}
+{"sent": "older man bending over", "ann_id": 222787, "best_split": [3, 3], "split_score": 0.45829892644394454}
+{"sent": "bending over", "ann_id": 222787, "best_split": [3, 3], "split_score": 0.45829892644394454}
+{"sent": "man in green", "ann_id": 222612, "best_split": [1, 5], "split_score": 0.4190340908665753}
+{"sent": "green shirt", "ann_id": 222612, "best_split": [1, 5], "split_score": 0.4190340908665753}
+{"sent": "man standing", "ann_id": 222612, "best_split": [1, 5], "split_score": 0.4190340908665753}

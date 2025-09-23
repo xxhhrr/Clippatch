@@ -1,0 +1,6 @@
+{"sent": "man partly offscreen", "ann_id": 2150525, "best_split": [1, 5], "split_score": 0.33592534988958733}
+{"sent": "cosest man", "ann_id": 2150525, "best_split": [2, 3], "split_score": 0.29974380867850725}
+{"sent": "guy at very edge of frame cut off by edge", "ann_id": 2150525, "best_split": [1, 5], "split_score": 0.33592534988958733}
+{"sent": "woman walking along side with man", "ann_id": 2150362, "best_split": [2, 1], "split_score": 0.13257050392461972}
+{"sent": "black pants black coat siad", "ann_id": 2150362, "best_split": [3, 2], "split_score": 0.18694054459748038}
+{"sent": "woman in black coat", "ann_id": 2150362, "best_split": [3, 2], "split_score": 0.18694054459748038}

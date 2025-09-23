@@ -1,0 +1,6 @@
+{"sent": "fridge with no handles", "ann_id": 332703, "best_split": [3, 2], "split_score": 0.32207881996749493}
+{"sent": "white fridge with freezer door above fridge", "ann_id": 332703, "best_split": [3, 3], "split_score": 0.4930184450106846}
+{"sent": "fridge thats not side by side door", "ann_id": 332703, "best_split": [3, 2], "split_score": 0.32207881996749493}
+{"sent": "white fridgefreezer with water capabilities", "ann_id": 332176, "best_split": [3, 3], "split_score": 0.5342188852823825}
+{"sent": "fridge with water", "ann_id": 332176, "best_split": [3, 3], "split_score": 0.5342188852823825}
+{"sent": "refrigerator with water unit", "ann_id": 332176, "best_split": [3, 3], "split_score": 0.5342188852823825}

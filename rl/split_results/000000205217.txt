@@ -1,0 +1,6 @@
+{"sent": "man with red tie", "ann_id": 492150, "best_split": [1, 2], "split_score": 0.867959509033781}
+{"sent": "man in red suspenders", "ann_id": 492150, "best_split": [1, 2], "split_score": 0.867959509033781}
+{"sent": "glasses guy", "ann_id": 492150, "best_split": [1, 2], "split_score": 0.867959509033781}
+{"sent": "gray coat", "ann_id": 441636, "best_split": [1, 2], "split_score": 0.8704492228773526}
+{"sent": "white guy", "ann_id": 441636, "best_split": [2, 1], "split_score": 0.36163562626606993}
+{"sent": "man with the hat on", "ann_id": 441636, "best_split": [1, 2], "split_score": 0.8704492228773526}

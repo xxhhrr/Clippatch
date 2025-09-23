@@ -1,0 +1,6 @@
+{"sent": "farthest train", "ann_id": 173872, "best_split": [3, 2], "split_score": 0.26440048089797785}
+{"sent": "oncoming train", "ann_id": 173872, "best_split": [3, 2], "split_score": 0.26440048089797785}
+{"sent": "last train", "ann_id": 173872, "best_split": [3, 2], "split_score": 0.26440048089797785}
+{"sent": "side of train", "ann_id": 173690, "best_split": [2, 1], "split_score": 0.438902892796816}
+{"sent": "499", "ann_id": 173690, "best_split": [1, 2], "split_score": 0.6027140851459752}
+{"sent": "train closest to viewer", "ann_id": 173690, "best_split": [2, 1], "split_score": 0.438902892796816}

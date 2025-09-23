@@ -1,0 +1,10 @@
+{"sent": "blue shirt", "ann_id": 542826, "best_split": [1, 5], "split_score": 0.3084415584102636}
+{"sent": "blue shirt man", "ann_id": 542826, "best_split": [1, 5], "split_score": 0.3084415584102636}
+{"sent": "man wearing blue shirt", "ann_id": 542826, "best_split": [1, 5], "split_score": 0.3084415584102636}
+{"sent": "chef", "ann_id": 531110, "best_split": [1, 3], "split_score": 0.5118269708238058}
+{"sent": "white shirt", "ann_id": 531110, "best_split": [1, 2], "split_score": 0.4545262011238495}
+{"sent": "woman in chef jacket", "ann_id": 531110, "best_split": [1, 3], "split_score": 0.5118269708238058}
+{"sent": "black sweater", "ann_id": 510108, "best_split": [1, 3], "split_score": 0.7644787644326448}
+{"sent": "black shirt", "ann_id": 510108, "best_split": [1, 3], "split_score": 0.7644787644326448}
+{"sent": "dark clothes", "ann_id": 510108, "best_split": [1, 3], "split_score": 0.7644787644326448}
+{"sent": "person facing lady in white", "ann_id": 510108, "best_split": [2, 2], "split_score": 0.2775357178904886}

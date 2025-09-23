@@ -1,0 +1,12 @@
+{"sent": "pink suit", "ann_id": 547063, "best_split": [1, 2], "split_score": 0.2683354591729777}
+{"sent": "tan suit on edge of photo", "ann_id": 547063, "best_split": [1, 3], "split_score": 0.39044323806058323}
+{"sent": "brown coat half", "ann_id": 547063, "best_split": [1, 3], "split_score": 0.39044323806058323}
+{"sent": "kid in tie", "ann_id": 539810, "best_split": [3, 1], "split_score": 0.15339966831709165}
+{"sent": "guy smiling with bad tie on", "ann_id": 539810, "best_split": [1, 5], "split_score": 0.5762987012402294}
+{"sent": "the man wearing a red tie", "ann_id": 539810, "best_split": [1, 5], "split_score": 0.5762987012402294}
+{"sent": "asian girl with pink", "ann_id": 471950, "best_split": [1, 3], "split_score": 0.6614808749174476}
+{"sent": "girl in pink and blue dress", "ann_id": 471950, "best_split": [1, 3], "split_score": 0.6614808749174476}
+{"sent": "the girl in the pink dress", "ann_id": 471950, "best_split": [1, 3], "split_score": 0.6614808749174476}
+{"sent": "girl holding wallet and cards", "ann_id": 2028554, "best_split": [1, 5], "split_score": 0.617370541664127}
+{"sent": "brown skirt girl", "ann_id": 2028554, "best_split": [1, 5], "split_score": 0.617370541664127}
+{"sent": "girl in brown skirt", "ann_id": 2028554, "best_split": [1, 5], "split_score": 0.617370541664127}

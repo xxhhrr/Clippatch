@@ -1,0 +1,6 @@
+{"sent": "a family pic guy has yellow shirt on", "ann_id": 536586, "best_split": [2, 2], "split_score": 0.21866535334777976}
+{"sent": "yellow", "ann_id": 536586, "best_split": [1, 5], "split_score": 0.6078947367849723}
+{"sent": "yellow shirt", "ann_id": 536586, "best_split": [1, 5], "split_score": 0.6078947367849723}
+{"sent": "tall guy", "ann_id": 502265, "best_split": [1, 5], "split_score": 0.8682021103015217}
+{"sent": "man", "ann_id": 502265, "best_split": [1, 2], "split_score": 0.34107940049660873}
+{"sent": "man", "ann_id": 502265, "best_split": [1, 2], "split_score": 0.34107940049660873}

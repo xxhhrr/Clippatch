@@ -1,0 +1,6 @@
+{"sent": "where man is resting his head", "ann_id": 116705, "best_split": [2, 3], "split_score": 0.6248827171491008}
+{"sent": "black couch part", "ann_id": 116705, "best_split": [2, 3], "split_score": 0.6248827171491008}
+{"sent": "black thing behind his head", "ann_id": 116705, "best_split": [2, 1], "split_score": 0.2934263401208042}
+{"sent": "pillow dog is on", "ann_id": 112383, "best_split": [2, 2], "split_score": 0.5445631377116897}
+{"sent": "what dog is sitting on", "ann_id": 112383, "best_split": [2, 2], "split_score": 0.5445631377116897}
+{"sent": "seat that dog is on", "ann_id": 112383, "best_split": [2, 2], "split_score": 0.5445631377116897}

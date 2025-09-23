@@ -1,0 +1,5 @@
+{"sent": "the chair legs just next to the helmet", "ann_id": 2123062, "best_split": [2, 1], "split_score": 0.5070422535025293}
+{"sent": "wooden things nearest blue helmet", "ann_id": 2123062, "best_split": [2, 1], "split_score": 0.5070422535025293}
+{"sent": "folded chair", "ann_id": 101287, "best_split": [2, 1], "split_score": 0.4076809453377105}
+{"sent": "chair", "ann_id": 101287, "best_split": [2, 1], "split_score": 0.4076809453377105}
+{"sent": "black back part of chair with shadow", "ann_id": 101287, "best_split": [2, 1], "split_score": 0.4266467065768468}

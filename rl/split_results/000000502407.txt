@@ -1,0 +1,9 @@
+{"sent": "the casserole dish", "ann_id": 1540229, "best_split": [3, 3], "split_score": 0.6881838073457078}
+{"sent": "casserole", "ann_id": 1540229, "best_split": [3, 3], "split_score": 0.6881838073457078}
+{"sent": "casserole in dish", "ann_id": 1540229, "best_split": [3, 3], "split_score": 0.6881838073457078}
+{"sent": "plate of meat loaf", "ann_id": 1539231, "best_split": [3, 3], "split_score": 0.5055592765565226}
+{"sent": "meat in back", "ann_id": 1539231, "best_split": [3, 3], "split_score": 0.5055592765565226}
+{"sent": "sliced meat dish at rear", "ann_id": 1539231, "best_split": [3, 3], "split_score": 0.5055592765565226}
+{"sent": "meat on plate of food", "ann_id": 2218046, "best_split": [1, 5], "split_score": 0.21256038645509312}
+{"sent": "meatloaf on plate near salad", "ann_id": 2218046, "best_split": [3, 3], "split_score": 0.317538126318418}
+{"sent": "the meat closest to you", "ann_id": 2218046, "best_split": [1, 5], "split_score": 0.21256038645509312}

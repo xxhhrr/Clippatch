@@ -1,0 +1,15 @@
+{"sent": "man white nametag by flag", "ann_id": 1189423, "best_split": [3, 2], "split_score": 0.27375520727298597}
+{"sent": "guy with rectangle badge most behind flag", "ann_id": 1189423, "best_split": [3, 2], "split_score": 0.27375520727298597}
+{"sent": "guy at 3 o clock", "ann_id": 1189423, "best_split": [2, 2], "split_score": 0.34821006147703754}
+{"sent": "red tie", "ann_id": 535078, "best_split": [1, 3], "split_score": 0.7189913126979373}
+{"sent": "white nerdy kid", "ann_id": 535078, "best_split": [1, 3], "split_score": 0.7189913126979373}
+{"sent": "guy with glasses and red striped tie", "ann_id": 535078, "best_split": [1, 3], "split_score": 0.7189913126979373}
+{"sent": "yellow tie", "ann_id": 496673, "best_split": [5, 1], "split_score": 0.26378896880234765}
+{"sent": "main man behind the flag wearing yellow tie", "ann_id": 496673, "best_split": [3, 2], "split_score": 0.1669763737574572}
+{"sent": "white tie", "ann_id": 496673, "best_split": [5, 1], "split_score": 0.26378896880234765}
+{"sent": "gray tie against wall", "ann_id": 491345, "best_split": [3, 3], "split_score": 0.669371196641418}
+{"sent": "tallest guy", "ann_id": 491345, "best_split": [3, 2], "split_score": 0.4537121905987956}
+{"sent": "tallest guy back row", "ann_id": 491345, "best_split": [3, 2], "split_score": 0.4537121905987956}
+{"sent": "shortest with glasses", "ann_id": 1752045, "best_split": [1, 3], "split_score": 0.39195604627983377}
+{"sent": "man with glasses holding flag", "ann_id": 1752045, "best_split": [1, 5], "split_score": 0.5888961784001233}
+{"sent": "boy with glasses holding flag", "ann_id": 1752045, "best_split": [1, 5], "split_score": 0.5888961784001233}

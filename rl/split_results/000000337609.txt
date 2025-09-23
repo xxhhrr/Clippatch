@@ -1,0 +1,9 @@
+{"sent": "blue blurry ares on side", "ann_id": 479712, "best_split": [2, 3], "split_score": 0.28362663370550306}
+{"sent": "arm that is the least visible", "ann_id": 479712, "best_split": [1, 2], "split_score": 0.1668128188709019}
+{"sent": "dark area behind person on phone", "ann_id": 479712, "best_split": [3, 2], "split_score": 0.19073985678370026}
+{"sent": "blurry person in front of talker", "ann_id": 458293, "best_split": [2, 1], "split_score": 0.2873595986006226}
+{"sent": "shadow of person off screen", "ann_id": 458293, "best_split": [1, 3], "split_score": 0.8192017473779188}
+{"sent": "blurry person", "ann_id": 458293, "best_split": [2, 1], "split_score": 0.2873595986006226}
+{"sent": "person on phone", "ann_id": 449160, "best_split": [1, 2], "split_score": 0.676309412835925}
+{"sent": "on phone", "ann_id": 449160, "best_split": [1, 2], "split_score": 0.676309412835925}
+{"sent": "kid on phone", "ann_id": 449160, "best_split": [1, 2], "split_score": 0.676309412835925}

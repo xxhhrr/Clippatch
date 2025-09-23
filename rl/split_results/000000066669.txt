@@ -1,0 +1,6 @@
+{"sent": "small bear", "ann_id": 1161670, "best_split": [1, 3], "split_score": 0.26460285902373365}
+{"sent": "bear shes playing with", "ann_id": 1161670, "best_split": [2, 1], "split_score": 0.31811718924200716}
+{"sent": "smaller toy", "ann_id": 1161670, "best_split": [1, 3], "split_score": 0.26460285902373365}
+{"sent": "biggest cat", "ann_id": 1161123, "best_split": [1, 2], "split_score": 0.7610012754798708}
+{"sent": "biggest teddy", "ann_id": 1161123, "best_split": [1, 2], "split_score": 0.7610012754798708}
+{"sent": "big cat", "ann_id": 1161123, "best_split": [1, 2], "split_score": 0.7610012754798708}

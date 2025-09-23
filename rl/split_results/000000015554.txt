@@ -1,0 +1,5 @@
+{"sent": "yan car", "ann_id": 359401, "best_split": [5, 1], "split_score": 0.27116704802906494}
+{"sent": "silver suv across the street", "ann_id": 359401, "best_split": [5, 1], "split_score": 0.27116704802906494}
+{"sent": "white car our side of street", "ann_id": 344678, "best_split": [2, 3], "split_score": 0.4674556212523821}
+{"sent": "white car", "ann_id": 344678, "best_split": [2, 3], "split_score": 0.4674556212523821}
+{"sent": "white car by man", "ann_id": 344678, "best_split": [2, 3], "split_score": 0.4674556212523821}

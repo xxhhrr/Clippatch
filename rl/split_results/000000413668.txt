@@ -1,0 +1,4 @@
+{"sent": "2 o clock mouse", "ann_id": 1107015, "best_split": [2, 3], "split_score": 0.6007900800394173}
+{"sent": "mouse on corner with just blade showing", "ann_id": 1107015, "best_split": [2, 3], "split_score": 0.6007900800394173}
+{"sent": "purple mouse that has scroll wheel visible", "ann_id": 1106900, "best_split": [3, 2], "split_score": 0.6522739725312576}
+{"sent": "mouse where you can see the gray scroll button", "ann_id": 1106900, "best_split": [3, 1], "split_score": 0.34181358752990215}

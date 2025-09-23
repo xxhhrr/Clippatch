@@ -1,0 +1,9 @@
+{"sent": "tan shorts", "ann_id": 1208830, "best_split": [1, 5], "split_score": 0.3099962560548487}
+{"sent": "man in tan shorts", "ann_id": 1208830, "best_split": [2, 3], "split_score": 0.3705337449966328}
+{"sent": "guy with the darker colored shorts", "ann_id": 1208830, "best_split": [1, 5], "split_score": 0.3099962560548487}
+{"sent": "woman in black shorts", "ann_id": 518250, "best_split": [5, 1], "split_score": 0.12592137591032632}
+{"sent": "female", "ann_id": 518250, "best_split": [3, 3], "split_score": 0.441904111850895}
+{"sent": "person in black holding something under one arm", "ann_id": 518250, "best_split": [2, 1], "split_score": 0.11858258928098762}
+{"sent": "blue shirt", "ann_id": 474258, "best_split": [2, 2], "split_score": 0.41886792449604404}
+{"sent": "blue shirt guy", "ann_id": 474258, "best_split": [2, 2], "split_score": 0.41886792449604404}
+{"sent": "blue shirt", "ann_id": 474258, "best_split": [2, 2], "split_score": 0.41886792449604404}

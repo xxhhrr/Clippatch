@@ -1,0 +1,10 @@
+{"sent": "white shirt only see arm", "ann_id": 525285, "best_split": [3, 3], "split_score": 0.28143515466072494}
+{"sent": "white shirt off screen", "ann_id": 525285, "best_split": [5, 1], "split_score": 0.12170385394415417}
+{"sent": "boy with only 1 arm and white tshirt showing", "ann_id": 525285, "best_split": [3, 3], "split_score": 0.28143515466072494}
+{"sent": "blue in blue", "ann_id": 465111, "best_split": [2, 2], "split_score": 0.45966198975927436}
+{"sent": "blue shirt", "ann_id": 465111, "best_split": [3, 2], "split_score": 0.4846820198093511}
+{"sent": "cake face in the blue shirt", "ann_id": 465111, "best_split": [3, 2], "split_score": 0.4846820198093511}
+{"sent": "table that is not focal point", "ann_id": 1621140, "best_split": [2, 3], "split_score": 0.3055045871209284}
+{"sent": "the green table", "ann_id": 1619818, "best_split": [2, 1], "split_score": 0.7100873477050017}
+{"sent": "table that the boy is eating off of", "ann_id": 1619818, "best_split": [3, 1], "split_score": 0.4922443622332584}
+{"sent": "table", "ann_id": 1619818, "best_split": [2, 1], "split_score": 0.7100873477050017}

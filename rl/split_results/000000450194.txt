@@ -1,0 +1,6 @@
+{"sent": "lower laptop", "ann_id": 1971120, "best_split": [1, 2], "split_score": 0.1938351531486509}
+{"sent": "the lower of the two", "ann_id": 1971120, "best_split": [5, 1], "split_score": 0.6923494302230564}
+{"sent": "laptop on table", "ann_id": 1971120, "best_split": [1, 2], "split_score": 0.1938351531486509}
+{"sent": "electronics above other one", "ann_id": 1098605, "best_split": [3, 1], "split_score": 0.8073739653441162}
+{"sent": "player above player", "ann_id": 1098605, "best_split": [3, 1], "split_score": 0.8073739653441162}
+{"sent": "box above the other", "ann_id": 1098605, "best_split": [3, 1], "split_score": 0.8073739653441162}

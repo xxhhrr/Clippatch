@@ -1,0 +1,5 @@
+{"sent": "blurry clock", "ann_id": 341256, "best_split": [2, 1], "split_score": 0.2520074119729769}
+{"sent": "clock that looks a little blurry", "ann_id": 341256, "best_split": [2, 1], "split_score": 0.2520074119729769}
+{"sent": "clock face not on the same side as black corner sign", "ann_id": 341256, "best_split": [2, 1], "split_score": 0.2520074119729769}
+{"sent": "clock face", "ann_id": 340685, "best_split": [2, 2], "split_score": 0.5085599940333091}
+{"sent": "clock facing out", "ann_id": 340685, "best_split": [2, 2], "split_score": 0.5085599940333091}

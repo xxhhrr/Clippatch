@@ -1,0 +1,8 @@
+{"sent": "person reaching for the glass", "ann_id": 262885, "best_split": [1, 2], "split_score": 0.6956189894407107}
+{"sent": "woman", "ann_id": 262885, "best_split": [1, 2], "split_score": 0.6956189894407107}
+{"sent": "brown shirt", "ann_id": 262885, "best_split": [1, 2], "split_score": 0.6956189894407107}
+{"sent": "kid in flowers", "ann_id": 261018, "best_split": [1, 5], "split_score": 0.3929480900692509}
+{"sent": "the girl in flowers", "ann_id": 261018, "best_split": [1, 5], "split_score": 0.3929480900692509}
+{"sent": "little girl standing", "ann_id": 261018, "best_split": [1, 5], "split_score": 0.3929480900692509}
+{"sent": "little boy in blue shirt", "ann_id": 188953, "best_split": [3, 3], "split_score": 0.3684584899534134}
+{"sent": "kid boy", "ann_id": 188953, "best_split": [1, 3], "split_score": 0.35370288735101924}

@@ -1,0 +1,6 @@
+{"sent": "larger cow", "ann_id": 2177173, "best_split": [2, 2], "split_score": 0.462616822396129}
+{"sent": "closest to water", "ann_id": 2177173, "best_split": [1, 2], "split_score": 0.24146341462494422}
+{"sent": "cow with all brown head", "ann_id": 2177173, "best_split": [2, 2], "split_score": 0.462616822396129}
+{"sent": "cow furthest from water", "ann_id": 71514, "best_split": [2, 1], "split_score": 0.19802295917578033}
+{"sent": "cow at 9pm", "ann_id": 71514, "best_split": [1, 5], "split_score": 0.3756495916503666}
+{"sent": "cow away from water", "ann_id": 71514, "best_split": [2, 1], "split_score": 0.19802295917578033}

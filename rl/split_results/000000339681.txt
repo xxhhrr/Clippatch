@@ -1,0 +1,5 @@
+{"sent": "closest white wine", "ann_id": 1873287, "best_split": [1, 3], "split_score": 0.20402992276761403}
+{"sent": "white wine closest", "ann_id": 1873287, "best_split": [1, 3], "split_score": 0.20402992276761403}
+{"sent": "furthest three glasses of wine", "ann_id": 665819, "best_split": [1, 3], "split_score": 0.5878333881878567}
+{"sent": "glass with the darkest wine", "ann_id": 665819, "best_split": [1, 3], "split_score": 0.5878333881878567}
+{"sent": "glass of red wine by white wine", "ann_id": 665090, "best_split": [2, 2], "split_score": 0.26504404955464805}

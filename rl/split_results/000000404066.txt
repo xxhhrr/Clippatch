@@ -1,0 +1,6 @@
+{"sent": "the zebra behind", "ann_id": 593751, "best_split": [3, 2], "split_score": 0.5812081837892749}
+{"sent": "zebra furthest from tree", "ann_id": 593751, "best_split": [3, 2], "split_score": 0.5812081837892749}
+{"sent": "zebra with tail up", "ann_id": 593751, "best_split": [3, 2], "split_score": 0.5812081837892749}
+{"sent": "zebra by tree yummy", "ann_id": 593311, "best_split": [3, 3], "split_score": 0.5592867067439454}
+{"sent": "zebra nearest to tree", "ann_id": 593311, "best_split": [3, 3], "split_score": 0.5592867067439454}
+{"sent": "the zebra closest to the tree", "ann_id": 593311, "best_split": [3, 3], "split_score": 0.5592867067439454}

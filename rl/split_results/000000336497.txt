@@ -1,0 +1,9 @@
+{"sent": "man in red with white beard", "ann_id": 514341, "best_split": [1, 5], "split_score": 0.3566494794866573}
+{"sent": "white beard", "ann_id": 514341, "best_split": [1, 5], "split_score": 0.3566494794866573}
+{"sent": "guy barely seen in marroon", "ann_id": 514341, "best_split": [3, 1], "split_score": 0.10207455601823505}
+{"sent": "man in white shirt", "ann_id": 453707, "best_split": [2, 3], "split_score": 0.3757022471533204}
+{"sent": "white shirt lady", "ann_id": 453707, "best_split": [2, 3], "split_score": 0.3757022471533204}
+{"sent": "white shirt", "ann_id": 453707, "best_split": [2, 3], "split_score": 0.3757022471533204}
+{"sent": "plaid shirt guy", "ann_id": 439919, "best_split": [3, 2], "split_score": 0.31025585892170976}
+{"sent": "checkered shirt", "ann_id": 439919, "best_split": [3, 2], "split_score": 0.31025585892170976}
+{"sent": "man with plaid shirt", "ann_id": 439919, "best_split": [3, 2], "split_score": 0.31025585892170976}

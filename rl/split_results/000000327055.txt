@@ -1,0 +1,9 @@
+{"sent": "black beanie", "ann_id": 1233776, "best_split": [1, 5], "split_score": 0.3069384554775638}
+{"sent": "kneeling person", "ann_id": 1233776, "best_split": [1, 5], "split_score": 0.3069384554775638}
+{"sent": "kneeler", "ann_id": 1233776, "best_split": [3, 2], "split_score": 0.1901294498189594}
+{"sent": "guy with sign in hand looking at us", "ann_id": 2012254, "best_split": [1, 5], "split_score": 0.6493762310618726}
+{"sent": "man holding the box sign", "ann_id": 2012254, "best_split": [1, 5], "split_score": 0.6493762310618726}
+{"sent": "guy holding sign", "ann_id": 2012254, "best_split": [1, 5], "split_score": 0.6493762310618726}
+{"sent": "guy in shorts", "ann_id": 1738487, "best_split": [1, 5], "split_score": 0.46266233761539544}
+{"sent": "person with umbrella", "ann_id": 1738487, "best_split": [1, 5], "split_score": 0.46266233761539544}
+{"sent": "man holding umbrella", "ann_id": 1738487, "best_split": [1, 5], "split_score": 0.46266233761539544}

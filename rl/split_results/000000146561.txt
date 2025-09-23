@@ -1,0 +1,6 @@
+{"sent": "laptop with fingers on keys", "ann_id": 1102447, "best_split": [3, 3], "split_score": 0.4940893169336592}
+{"sent": "laptop woman is on", "ann_id": 1102447, "best_split": [3, 3], "split_score": 0.4940893169336592}
+{"sent": "the lady in black in whites computer", "ann_id": 1102447, "best_split": [3, 1], "split_score": 0.25050525463568585}
+{"sent": "blue screen", "ann_id": 1100027, "best_split": [2, 3], "split_score": 0.8166768852629597}
+{"sent": "blue screen of laptop with paper on keyboard", "ann_id": 1100027, "best_split": [2, 3], "split_score": 0.8166768852629597}
+{"sent": "laptop with blue screen", "ann_id": 1100027, "best_split": [2, 3], "split_score": 0.8166768852629597}

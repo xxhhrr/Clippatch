@@ -1,0 +1,9 @@
+{"sent": "third", "ann_id": 1258427, "best_split": [1, 2], "split_score": 0.10503029336316046}
+{"sent": "third player in front", "ann_id": 1258427, "best_split": [3, 1], "split_score": 0.11316490902114006}
+{"sent": "third sitting player", "ann_id": 1258427, "best_split": [3, 2], "split_score": 0.21772575248408854}
+{"sent": "western most player sitting on the bench", "ann_id": 1214903, "best_split": [1, 5], "split_score": 0.29464285711296234}
+{"sent": "player sitting up the straighest", "ann_id": 1214903, "best_split": [3, 2], "split_score": 0.24618639346997145}
+{"sent": "tallest player closest row", "ann_id": 1214903, "best_split": [3, 2], "split_score": 0.24618639346997145}
+{"sent": "lower row guy on end on the side with the plaid shirt guy", "ann_id": 2156346, "best_split": [1, 5], "split_score": 0.2682597802786414}
+{"sent": "angry legs widest", "ann_id": 2156346, "best_split": [5, 1], "split_score": 0.130561759136698}
+{"sent": "sitting row on end with guy in checkered shirt", "ann_id": 2156346, "best_split": [1, 5], "split_score": 0.2682597802786414}

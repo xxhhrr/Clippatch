@@ -1,0 +1,6 @@
+{"sent": "girl with no phone", "ann_id": 231525, "best_split": [2, 2], "split_score": 0.43605075102551766}
+{"sent": "girl with red glasses", "ann_id": 231525, "best_split": [2, 1], "split_score": 0.22774011728891233}
+{"sent": "person not holing phone", "ann_id": 231525, "best_split": [2, 2], "split_score": 0.43605075102551766}
+{"sent": "girl with phone", "ann_id": 230546, "best_split": [2, 1], "split_score": 0.439709798869508}
+{"sent": "woman holding phone", "ann_id": 230546, "best_split": [2, 1], "split_score": 0.439709798869508}
+{"sent": "girl with phone", "ann_id": 230546, "best_split": [2, 1], "split_score": 0.439709798869508}

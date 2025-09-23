@@ -1,0 +1,9 @@
+{"sent": "elephant partially in photo", "ann_id": 584284, "best_split": [2, 2], "split_score": 0.5852244254717428}
+{"sent": "the elephant that we only see part of", "ann_id": 584284, "best_split": [2, 2], "split_score": 0.5852244254717428}
+{"sent": "third elephant", "ann_id": 584284, "best_split": [2, 2], "split_score": 0.5852244254717428}
+{"sent": "elephant with trunk up", "ann_id": 584109, "best_split": [1, 3], "split_score": 0.41305456397881163}
+{"sent": "elephant in between", "ann_id": 584109, "best_split": [2, 2], "split_score": 0.40806005108560156}
+{"sent": "elephant facing us with its head higher", "ann_id": 584109, "best_split": [2, 2], "split_score": 0.40806005108560156}
+{"sent": "elephant looking at camera", "ann_id": 581790, "best_split": [2, 3], "split_score": 0.5940034910571923}
+{"sent": "elephant not fighting", "ann_id": 581790, "best_split": [2, 3], "split_score": 0.5940034910571923}
+{"sent": "by itself", "ann_id": 581790, "best_split": [2, 2], "split_score": 0.43156980528106176}

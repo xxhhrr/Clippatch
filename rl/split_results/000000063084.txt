@@ -1,0 +1,6 @@
+{"sent": "sandwich touching pickles", "ann_id": 313064, "best_split": [3, 2], "split_score": 0.766839378164763}
+{"sent": "sandwich by pickles", "ann_id": 313064, "best_split": [3, 2], "split_score": 0.766839378164763}
+{"sent": "sandwich closest to pickels", "ann_id": 313064, "best_split": [3, 2], "split_score": 0.766839378164763}
+{"sent": "bread", "ann_id": 312627, "best_split": [1, 2], "split_score": 0.6562101402799662}
+{"sent": "sanwich with less green", "ann_id": 312627, "best_split": [3, 1], "split_score": 0.2923528261180382}
+{"sent": "sandwich half not next to cucumber or pickle slices", "ann_id": 312627, "best_split": [3, 1], "split_score": 0.2923528261180382}

@@ -1,0 +1,6 @@
+{"sent": "smaller giraffe", "ann_id": 601591, "best_split": [2, 3], "split_score": 0.4565923359540385}
+{"sent": "small giraffe", "ann_id": 601591, "best_split": [2, 3], "split_score": 0.4565923359540385}
+{"sent": "baby giraffe", "ann_id": 601591, "best_split": [2, 3], "split_score": 0.4565923359540385}
+{"sent": "part of giraffe no head", "ann_id": 600492, "best_split": [1, 5], "split_score": 0.5257258064092156}
+{"sent": "bigger girafee", "ann_id": 600492, "best_split": [1, 5], "split_score": 0.5257258064092156}
+{"sent": "half of giraffe", "ann_id": 600492, "best_split": [1, 5], "split_score": 0.5257258064092156}

@@ -1,0 +1,8 @@
+{"sent": "sheep with only 3 legs showing", "ann_id": 65150, "best_split": [2, 2], "split_score": 0.3839285713979649}
+{"sent": "lamb with no head black feet", "ann_id": 65150, "best_split": [2, 2], "split_score": 0.3839285713979649}
+{"sent": "whiter face", "ann_id": 63903, "best_split": [2, 2], "split_score": 0.5336879432328409}
+{"sent": "light gray sheep gg", "ann_id": 63903, "best_split": [2, 1], "split_score": 0.31485355647506363}
+{"sent": "sheep by fence not with head down", "ann_id": 63903, "best_split": [2, 2], "split_score": 0.5336879432328409}
+{"sent": "squeezing thru fence", "ann_id": 61834, "best_split": [3, 3], "split_score": 0.2662148070768397}
+{"sent": "head sticking through fence", "ann_id": 61834, "best_split": [3, 3], "split_score": 0.2662148070768397}
+{"sent": "darkest animal", "ann_id": 61834, "best_split": [1, 3], "split_score": 0.6878607202152225}

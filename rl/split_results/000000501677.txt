@@ -1,0 +1,6 @@
+{"sent": "boy in the air", "ann_id": 1716311, "best_split": [2, 3], "split_score": 0.5704467353339296}
+{"sent": "kid in air", "ann_id": 1716311, "best_split": [2, 3], "split_score": 0.5704467353339296}
+{"sent": "boy in air", "ann_id": 1716311, "best_split": [2, 3], "split_score": 0.5704467353339296}
+{"sent": "sitting", "ann_id": 462532, "best_split": [3, 3], "split_score": 0.6543060127093561}
+{"sent": "boy sitting on the ground", "ann_id": 462532, "best_split": [3, 3], "split_score": 0.6543060127093561}
+{"sent": "person about to get hit", "ann_id": 462532, "best_split": [1, 5], "split_score": 0.2787622807567016}

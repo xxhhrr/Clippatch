@@ -1,0 +1,6 @@
+{"sent": "person in blue", "ann_id": 224167, "best_split": [2, 3], "split_score": 0.5096525095910168}
+{"sent": "walker", "ann_id": 224167, "best_split": [1, 5], "split_score": 0.08108108107485557}
+{"sent": "blue shirt", "ann_id": 224167, "best_split": [2, 3], "split_score": 0.5096525095910168}
+{"sent": "child", "ann_id": 196821, "best_split": [1, 2], "split_score": 0.5510820662523043}
+{"sent": "the kid", "ann_id": 196821, "best_split": [1, 2], "split_score": 0.5510820662523043}
+{"sent": "kid on bike", "ann_id": 196821, "best_split": [1, 2], "split_score": 0.5510820662523043}

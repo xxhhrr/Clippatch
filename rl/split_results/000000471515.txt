@@ -1,0 +1,6 @@
+{"sent": "cup brown gg", "ann_id": 713181, "best_split": [3, 3], "split_score": 0.33311855664737133}
+{"sent": "cup of fruit in the back", "ann_id": 713181, "best_split": [5, 1], "split_score": 0.1344567945379655}
+{"sent": "small bowl near water glass", "ann_id": 713181, "best_split": [3, 3], "split_score": 0.33311855664737133}
+{"sent": "closest wooden bowl", "ann_id": 713107, "best_split": [2, 2], "split_score": 0.5619727942425736}
+{"sent": "bowl by fork", "ann_id": 713107, "best_split": [2, 1], "split_score": 0.3053835535276914}
+{"sent": "bowl where fries are", "ann_id": 713107, "best_split": [1, 2], "split_score": 0.30061301476341507}

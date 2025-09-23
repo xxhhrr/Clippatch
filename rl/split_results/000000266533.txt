@@ -1,0 +1,6 @@
+{"sent": "umbrella", "ann_id": 287460, "best_split": [3, 1], "split_score": 0.41403134985804196}
+{"sent": "flowers", "ann_id": 287460, "best_split": [2, 1], "split_score": 0.8191746367667481}
+{"sent": "floral stuff in higher parts", "ann_id": 287460, "best_split": [2, 1], "split_score": 0.8191746367667481}
+{"sent": "umbrella", "ann_id": 287272, "best_split": [2, 2], "split_score": 0.5859501894568252}
+{"sent": "polka dot light colored umbrella", "ann_id": 287272, "best_split": [2, 2], "split_score": 0.5859501894568252}
+{"sent": "lots of poke dotts", "ann_id": 287272, "best_split": [3, 1], "split_score": 0.2681688059715501}

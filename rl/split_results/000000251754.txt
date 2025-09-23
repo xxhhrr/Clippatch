@@ -1,0 +1,9 @@
+{"sent": "light blue jacket", "ann_id": 225371, "best_split": [1, 3], "split_score": 0.4057673744928953}
+{"sent": "light blue jacket", "ann_id": 225371, "best_split": [1, 3], "split_score": 0.4057673744928953}
+{"sent": "leftest person", "ann_id": 225371, "best_split": [5, 1], "split_score": 0.11213950368127837}
+{"sent": "green jacket", "ann_id": 224092, "best_split": [1, 3], "split_score": 0.4407298038156122}
+{"sent": "manin green jacket", "ann_id": 224092, "best_split": [1, 5], "split_score": 0.6296472076704914}
+{"sent": "lighter blue hat", "ann_id": 224092, "best_split": [1, 5], "split_score": 0.6296472076704914}
+{"sent": "red coat guy", "ann_id": 205123, "best_split": [1, 5], "split_score": 0.6477150053393563}
+{"sent": "red guy", "ann_id": 205123, "best_split": [1, 5], "split_score": 0.6477150053393563}
+{"sent": "red and black coat", "ann_id": 205123, "best_split": [1, 5], "split_score": 0.6477150053393563}

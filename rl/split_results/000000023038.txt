@@ -1,0 +1,6 @@
+{"sent": "bear laying down", "ann_id": 587364, "best_split": [3, 3], "split_score": 0.590493812814792}
+{"sent": "bear laying", "ann_id": 587364, "best_split": [3, 3], "split_score": 0.590493812814792}
+{"sent": "bear lying down", "ann_id": 587364, "best_split": [3, 3], "split_score": 0.590493812814792}
+{"sent": "standing", "ann_id": 586432, "best_split": [1, 2], "split_score": 0.213447834817707}
+{"sent": "standing bear", "ann_id": 586432, "best_split": [3, 1], "split_score": 0.32578116609439595}
+{"sent": "bear standing", "ann_id": 586432, "best_split": [3, 1], "split_score": 0.32578116609439595}

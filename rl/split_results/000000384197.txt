@@ -1,0 +1,5 @@
+{"sent": "western remote", "ann_id": 1113822, "best_split": [1, 3], "split_score": 0.5641454241201035}
+{"sent": "remote that is in better focus", "ann_id": 1113822, "best_split": [1, 3], "split_score": 0.5641454241201035}
+{"sent": "blurry one", "ann_id": 1110483, "best_split": [1, 2], "split_score": 0.5773278060994369}
+{"sent": "blurry remote", "ann_id": 1110483, "best_split": [2, 1], "split_score": 0.2403460381068096}
+{"sent": "blurry control", "ann_id": 1110483, "best_split": [2, 1], "split_score": 0.2403460381068096}

@@ -1,0 +1,6 @@
+{"sent": "dark couch near plant", "ann_id": 2122980, "best_split": [3, 3], "split_score": 0.37850548678305074}
+{"sent": "chair darker close to curtains", "ann_id": 2122980, "best_split": [3, 2], "split_score": 0.14435079482083102}
+{"sent": "armchair in corner", "ann_id": 2122980, "best_split": [3, 3], "split_score": 0.37850548678305074}
+{"sent": "light chair", "ann_id": 106745, "best_split": [5, 1], "split_score": 0.15139442229704866}
+{"sent": "small chair by window", "ann_id": 106745, "best_split": [3, 3], "split_score": 0.29360645557206605}
+{"sent": "couch with a sheet on it", "ann_id": 106745, "best_split": [2, 2], "split_score": 0.19856831619992465}

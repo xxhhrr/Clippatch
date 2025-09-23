@@ -1,0 +1,12 @@
+{"sent": "monitor with speaker", "ann_id": 1628332, "best_split": [5, 1], "split_score": 0.14608480345511568}
+{"sent": "monitor in back with windows login screen", "ann_id": 1628332, "best_split": [3, 3], "split_score": 0.4416804863955665}
+{"sent": "computer at 11 o clock", "ann_id": 1628332, "best_split": [5, 1], "split_score": 0.14608480345511568}
+{"sent": "laptop with black keys and six icons on screen", "ann_id": 1626715, "best_split": [2, 1], "split_score": 0.23822639459080508}
+{"sent": "laptop closest to rounds remaining counter", "ann_id": 1626715, "best_split": [2, 1], "split_score": 0.23822639459080508}
+{"sent": "computer closest to correct rounds remaining box", "ann_id": 1626715, "best_split": [2, 3], "split_score": 0.68400534632613}
+{"sent": "smallest laptop", "ann_id": 1103143, "best_split": [5, 1], "split_score": 0.22690672213635152}
+{"sent": "small silver laptop", "ann_id": 1103143, "best_split": [5, 1], "split_score": 0.22690672213635152}
+{"sent": "small laptop", "ann_id": 1103143, "best_split": [5, 1], "split_score": 0.22690672213635152}
+{"sent": "laptop by light", "ann_id": 1100148, "best_split": [2, 3], "split_score": 0.6729289496679395}
+{"sent": "screen with only 1 icon showing", "ann_id": 1100148, "best_split": [2, 1], "split_score": 0.27280661808315093}
+{"sent": "screen with black dot", "ann_id": 1100148, "best_split": [3, 1], "split_score": 0.1963577266767192}

@@ -1,0 +1,12 @@
+{"sent": "blue back of chair not the arm", "ann_id": 2224124, "best_split": [2, 2], "split_score": 0.47644829449482184}
+{"sent": "blue chair", "ann_id": 2224124, "best_split": [2, 2], "split_score": 0.47644829449482184}
+{"sent": "blue chair", "ann_id": 2224124, "best_split": [2, 2], "split_score": 0.47644829449482184}
+{"sent": "adult hands", "ann_id": 197269, "best_split": [3, 2], "split_score": 0.6835120500389094}
+{"sent": "hands that are feeding baby", "ann_id": 197269, "best_split": [3, 2], "split_score": 0.6835120500389094}
+{"sent": "the hands feeding the kid", "ann_id": 197269, "best_split": [3, 2], "split_score": 0.6835120500389094}
+{"sent": "baby", "ann_id": 186872, "best_split": [1, 3], "split_score": 0.5905991818163713}
+{"sent": "baby", "ann_id": 186872, "best_split": [1, 3], "split_score": 0.5905991818163713}
+{"sent": "the baby", "ann_id": 186872, "best_split": [1, 3], "split_score": 0.5905991818163713}
+{"sent": "brown couch behind baby and hands", "ann_id": 117104, "best_split": [2, 1], "split_score": 0.2971962616723232}
+{"sent": "red couch at 2", "ann_id": 117104, "best_split": [3, 2], "split_score": 0.34931506847178845}
+{"sent": "dark area next to head of child", "ann_id": 117104, "best_split": [2, 1], "split_score": 0.2971962616723232}

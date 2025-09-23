@@ -1,0 +1,9 @@
+{"sent": "blue pants leg", "ann_id": 228300, "best_split": [2, 3], "split_score": 0.6147728510061256}
+{"sent": "blue cloth", "ann_id": 228300, "best_split": [2, 3], "split_score": 0.6147728510061256}
+{"sent": "blue thing touching dog", "ann_id": 228300, "best_split": [1, 2], "split_score": 0.2604432397855372}
+{"sent": "yellow", "ann_id": 224342, "best_split": [2, 2], "split_score": 0.7357792507525991}
+{"sent": "yellow arms", "ann_id": 224342, "best_split": [2, 2], "split_score": 0.7357792507525991}
+{"sent": "girl in yellow", "ann_id": 224342, "best_split": [2, 2], "split_score": 0.7357792507525991}
+{"sent": "a partly visible person", "ann_id": 221741, "best_split": [2, 1], "split_score": 0.1470806715143708}
+{"sent": "girl in white", "ann_id": 221741, "best_split": [1, 5], "split_score": 0.5138794853937635}
+{"sent": "half woman white shirt", "ann_id": 221741, "best_split": [1, 5], "split_score": 0.5138794853937635}

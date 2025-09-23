@@ -1,0 +1,6 @@
+{"sent": "brown thing", "ann_id": 1227907, "best_split": [1, 2], "split_score": 0.275390624989023}
+{"sent": "lady in background", "ann_id": 1227907, "best_split": [1, 5], "split_score": 0.5874443707425959}
+{"sent": "person with blond hair and glasses", "ann_id": 1227907, "best_split": [3, 2], "split_score": 0.28082595867839644}
+{"sent": "man", "ann_id": 424523, "best_split": [1, 3], "split_score": 0.39076507428494517}
+{"sent": "man", "ann_id": 424523, "best_split": [1, 3], "split_score": 0.39076507428494517}
+{"sent": "man", "ann_id": 424523, "best_split": [1, 3], "split_score": 0.39076507428494517}

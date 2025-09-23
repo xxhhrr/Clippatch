@@ -1,0 +1,6 @@
+{"sent": "guy thumbs up", "ann_id": 511368, "best_split": [3, 1], "split_score": 0.23435171384899628}
+{"sent": "man holding board", "ann_id": 511368, "best_split": [1, 2], "split_score": 0.395727040800553}
+{"sent": "man with dreads", "ann_id": 511368, "best_split": [1, 5], "split_score": 0.48083832331730253}
+{"sent": "guy without dread locks", "ann_id": 467641, "best_split": [5, 1], "split_score": 0.1679831490147457}
+{"sent": "shorter hair", "ann_id": 467641, "best_split": [3, 1], "split_score": 0.21277017647170482}
+{"sent": "guy short hair", "ann_id": 467641, "best_split": [3, 2], "split_score": 0.3611578592762405}

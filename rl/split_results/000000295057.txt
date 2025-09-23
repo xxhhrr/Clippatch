@@ -1,0 +1,6 @@
+{"sent": "tilted cup", "ann_id": 676432, "best_split": [5, 1], "split_score": 0.41987620354024446}
+{"sent": "cup in cup", "ann_id": 676432, "best_split": [5, 1], "split_score": 0.41987620354024446}
+{"sent": "cup inside cup", "ann_id": 676432, "best_split": [5, 1], "split_score": 0.41987620354024446}
+{"sent": "larger mug", "ann_id": 669725, "best_split": [3, 2], "split_score": 0.332147477334076}
+{"sent": "mug with handle not showing", "ann_id": 669725, "best_split": [3, 2], "split_score": 0.332147477334076}
+{"sent": "closest cup", "ann_id": 669725, "best_split": [3, 2], "split_score": 0.332147477334076}

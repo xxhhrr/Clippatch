@@ -1,0 +1,6 @@
+{"sent": "reflection of person shaving", "ann_id": 1220882, "best_split": [1, 2], "split_score": 0.44221105526504434}
+{"sent": "man reflect on mirror", "ann_id": 1220882, "best_split": [1, 2], "split_score": 0.44221105526504434}
+{"sent": "man in mirror", "ann_id": 1220882, "best_split": [1, 2], "split_score": 0.44221105526504434}
+{"sent": "man not the mirror", "ann_id": 454713, "best_split": [2, 1], "split_score": 0.3705918848400399}
+{"sent": "the man not the reflection", "ann_id": 454713, "best_split": [2, 1], "split_score": 0.3705918848400399}
+{"sent": "real man", "ann_id": 454713, "best_split": [1, 3], "split_score": 0.4314254197686167}

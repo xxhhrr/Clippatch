@@ -1,0 +1,6 @@
+{"sent": "white long thing", "ann_id": 249237, "best_split": [2, 1], "split_score": 0.45595746897592104}
+{"sent": "big long ting pointing out", "ann_id": 249237, "best_split": [1, 2], "split_score": 0.6064178503477365}
+{"sent": "white pole", "ann_id": 249237, "best_split": [1, 2], "split_score": 0.6064178503477365}
+{"sent": "yacht", "ann_id": 177080, "best_split": [2, 3], "split_score": 0.7718383310829567}
+{"sent": "boat", "ann_id": 177080, "best_split": [2, 3], "split_score": 0.7718383310829567}
+{"sent": "blue and white ship", "ann_id": 177080, "best_split": [2, 3], "split_score": 0.7718383310829567}

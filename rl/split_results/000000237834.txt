@@ -1,0 +1,6 @@
+{"sent": "hashbrown", "ann_id": 309184, "best_split": [5, 1], "split_score": 0.19774204582639907}
+{"sent": "hashbrowns", "ann_id": 309184, "best_split": [3, 2], "split_score": 0.37627268698801764}
+{"sent": "hash brown", "ann_id": 309184, "best_split": [5, 1], "split_score": 0.19774204582639907}
+{"sent": "egg mcmuffin", "ann_id": 308393, "best_split": [3, 2], "split_score": 0.5437878787466828}
+{"sent": "cheese", "ann_id": 308393, "best_split": [3, 2], "split_score": 0.5437878787466828}
+{"sent": "breakfast sandwich", "ann_id": 308393, "best_split": [3, 2], "split_score": 0.5437878787466828}

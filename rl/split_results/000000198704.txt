@@ -1,0 +1,5 @@
+{"sent": "car with yellow plates", "ann_id": 140507, "best_split": [3, 1], "split_score": 0.15371621620694279}
+{"sent": "red part of car", "ann_id": 140507, "best_split": [3, 1], "split_score": 0.15371621620694279}
+{"sent": "silver car", "ann_id": 132041, "best_split": [2, 2], "split_score": 0.35873724486936087}
+{"sent": "silver van", "ann_id": 132041, "best_split": [2, 2], "split_score": 0.35873724486936087}
+{"sent": "van", "ann_id": 132041, "best_split": [2, 2], "split_score": 0.35873724486936087}

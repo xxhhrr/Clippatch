@@ -1,0 +1,6 @@
+{"sent": "bed nearest blue chair", "ann_id": 318099, "best_split": [3, 2], "split_score": 0.7851050550462757}
+{"sent": "bed next to blue chair", "ann_id": 318099, "best_split": [3, 2], "split_score": 0.7851050550462757}
+{"sent": "bed farthest away", "ann_id": 318099, "best_split": [3, 1], "split_score": 0.4216288682593214}
+{"sent": "closest", "ann_id": 316307, "best_split": [3, 1], "split_score": 0.320984836121931}
+{"sent": "bed closer to you", "ann_id": 316307, "best_split": [2, 1], "split_score": 0.7517778651055362}
+{"sent": "bed closest to camera", "ann_id": 316307, "best_split": [2, 1], "split_score": 0.7517778651055362}

@@ -1,0 +1,6 @@
+{"sent": "plaid man", "ann_id": 198034, "best_split": [3, 3], "split_score": 0.5145550971697637}
+{"sent": "guy in plaid", "ann_id": 198034, "best_split": [3, 3], "split_score": 0.5145550971697637}
+{"sent": "plaid shirt", "ann_id": 198034, "best_split": [3, 3], "split_score": 0.5145550971697637}
+{"sent": "man by bike", "ann_id": 190992, "best_split": [1, 3], "split_score": 0.3512974051729257}
+{"sent": "guy next to moto", "ann_id": 190992, "best_split": [1, 3], "split_score": 0.3512974051729257}
+{"sent": "closest man", "ann_id": 190992, "best_split": [1, 5], "split_score": 0.4536082473923143}

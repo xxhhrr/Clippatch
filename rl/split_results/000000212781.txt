@@ -1,0 +1,5 @@
+{"sent": "older guy", "ann_id": 507213, "best_split": [1, 2], "split_score": 0.6358951553668543}
+{"sent": "closest guy", "ann_id": 507213, "best_split": [1, 3], "split_score": 0.42851476769802177}
+{"sent": "man with collar", "ann_id": 501868, "best_split": [1, 3], "split_score": 0.4752684048851961}
+{"sent": "man holding bananas", "ann_id": 501868, "best_split": [3, 1], "split_score": 0.3419951168319674}
+{"sent": "man holding banana", "ann_id": 501868, "best_split": [3, 1], "split_score": 0.3419951168319674}

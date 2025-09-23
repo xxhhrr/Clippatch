@@ -1,0 +1,6 @@
+{"sent": "smaller plane", "ann_id": 247244, "best_split": [3, 1], "split_score": 0.4170564445079284}
+{"sent": "little plane", "ann_id": 247244, "best_split": [1, 2], "split_score": 0.3188672107139689}
+{"sent": "small plane", "ann_id": 247244, "best_split": [3, 1], "split_score": 0.4170564445079284}
+{"sent": "big plane", "ann_id": 247110, "best_split": [2, 1], "split_score": 0.8086511687881678}
+{"sent": "bigger plane", "ann_id": 247110, "best_split": [2, 1], "split_score": 0.8086511687881678}
+{"sent": "bigger plane", "ann_id": 247110, "best_split": [2, 1], "split_score": 0.8086511687881678}

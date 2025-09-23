@@ -1,0 +1,6 @@
+{"sent": "chair that man is in", "ann_id": 108199, "best_split": [3, 2], "split_score": 0.5230783460805588}
+{"sent": "rocking chair", "ann_id": 108199, "best_split": [3, 2], "split_score": 0.5230783460805588}
+{"sent": "rocking chair man is sitting in", "ann_id": 108199, "best_split": [3, 2], "split_score": 0.5230783460805588}
+{"sent": "chair with woman", "ann_id": 105241, "best_split": [2, 2], "split_score": 0.7623589975954002}
+{"sent": "chair with women in it", "ann_id": 105241, "best_split": [2, 2], "split_score": 0.7623589975954002}
+{"sent": "closest chair", "ann_id": 105241, "best_split": [2, 2], "split_score": 0.7623589975954002}

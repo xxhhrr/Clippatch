@@ -1,0 +1,6 @@
+{"sent": "bowl of whole strawberries", "ann_id": 1039075, "best_split": [3, 2], "split_score": 0.3792452829741456}
+{"sent": "bowl of strawberries", "ann_id": 1039075, "best_split": [3, 2], "split_score": 0.3792452829741456}
+{"sent": "strawberries", "ann_id": 1039075, "best_split": [3, 2], "split_score": 0.3792452829741456}
+{"sent": "largest bowl", "ann_id": 718045, "best_split": [2, 1], "split_score": 0.3676470588094498}
+{"sent": "bowl nest to spoon", "ann_id": 718045, "best_split": [5, 1], "split_score": 0.37931034480203996}
+{"sent": "largest bowl", "ann_id": 718045, "best_split": [2, 1], "split_score": 0.3676470588094498}

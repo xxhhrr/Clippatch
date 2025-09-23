@@ -1,0 +1,5 @@
+{"sent": "bowl around spoon not spoon though", "ann_id": 1537483, "best_split": [3, 1], "split_score": 0.15718429932169886}
+{"sent": "object spoon is on", "ann_id": 1537483, "best_split": [5, 1], "split_score": 0.18255578091623126}
+{"sent": "open package", "ann_id": 709305, "best_split": [3, 1], "split_score": 0.34356901542328855}
+{"sent": "thing in black tray with saran wrap", "ann_id": 709305, "best_split": [2, 3], "split_score": 0.504680942590694}
+{"sent": "dessert next to plate in container", "ann_id": 709305, "best_split": [2, 1], "split_score": 0.22700095662360487}

@@ -1,0 +1,6 @@
+{"sent": "gray fielder", "ann_id": 442569, "best_split": [1, 5], "split_score": 0.3550973653727475}
+{"sent": "gray shirt", "ann_id": 442569, "best_split": [3, 3], "split_score": 0.35842789920309603}
+{"sent": "gray uniform", "ann_id": 442569, "best_split": [3, 3], "split_score": 0.35842789920309603}
+{"sent": "white pants lisa", "ann_id": 430464, "best_split": [3, 2], "split_score": 0.33767926985121255}
+{"sent": "runner", "ann_id": 430464, "best_split": [2, 1], "split_score": 0.1377459749502484}
+{"sent": "white pants", "ann_id": 430464, "best_split": [3, 3], "split_score": 0.40501094619253086}

@@ -1,0 +1,6 @@
+{"sent": "horse with leg up", "ann_id": 58514, "best_split": [1, 5], "split_score": 0.35439714978863707}
+{"sent": "horse with feet off the ground", "ann_id": 58514, "best_split": [1, 5], "split_score": 0.35439714978863707}
+{"sent": "white on horses head", "ann_id": 58514, "best_split": [1, 5], "split_score": 0.35439714978863707}
+{"sent": "horse in fro of guy", "ann_id": 57621, "best_split": [3, 2], "split_score": 0.27494336200498926}
+{"sent": "lead horse", "ann_id": 57621, "best_split": [3, 2], "split_score": 0.27494336200498926}
+{"sent": "horse obstructing view of man", "ann_id": 57621, "best_split": [3, 2], "split_score": 0.27494336200498926}

@@ -1,0 +1,9 @@
+{"sent": "baby e", "ann_id": 1410193, "best_split": [2, 1], "split_score": 0.2727824813248747}
+{"sent": "closest elephan", "ann_id": 1410193, "best_split": [3, 1], "split_score": 0.2776573690031258}
+{"sent": "closest elephant", "ann_id": 1410193, "best_split": [3, 1], "split_score": 0.2776573690031258}
+{"sent": "farthest away elephant", "ann_id": 584760, "best_split": [1, 2], "split_score": 0.48309396087616907}
+{"sent": "biggest elephant", "ann_id": 584760, "best_split": [1, 2], "split_score": 0.48309396087616907}
+{"sent": "biggest", "ann_id": 584760, "best_split": [2, 1], "split_score": 0.259152612086174}
+{"sent": "mom elephant", "ann_id": 582287, "best_split": [3, 1], "split_score": 0.35748792268989443}
+{"sent": "medium elephant", "ann_id": 582287, "best_split": [3, 1], "split_score": 0.35748792268989443}
+{"sent": "elephant next to largest one", "ann_id": 582287, "best_split": [3, 1], "split_score": 0.35748792268989443}

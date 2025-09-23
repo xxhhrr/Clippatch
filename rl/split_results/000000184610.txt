@@ -1,0 +1,6 @@
+{"sent": "guy behind cow", "ann_id": 187895, "best_split": [3, 2], "split_score": 0.19660392796679582}
+{"sent": "blue jeans by the head of the animal", "ann_id": 187895, "best_split": [5, 1], "split_score": 0.11460258779074083}
+{"sent": "blue jeans of the guy leaning back", "ann_id": 187895, "best_split": [1, 5], "split_score": 0.31659388643146147}
+{"sent": "striped shirt", "ann_id": 185380, "best_split": [3, 3], "split_score": 0.32399999996589474}
+{"sent": "milking cow", "ann_id": 185380, "best_split": [3, 3], "split_score": 0.32399999996589474}
+{"sent": "coyboy kneeling infront of cow", "ann_id": 185380, "best_split": [3, 3], "split_score": 0.32399999996589474}

@@ -1,0 +1,6 @@
+{"sent": "bear no clothes", "ann_id": 1162715, "best_split": [2, 2], "split_score": 0.4944483817331415}
+{"sent": "brown bear", "ann_id": 1162715, "best_split": [2, 2], "split_score": 0.4944483817331415}
+{"sent": "dog", "ann_id": 1162715, "best_split": [1, 3], "split_score": 0.3028957185866541}
+{"sent": "shirt bear", "ann_id": 1162183, "best_split": [1, 3], "split_score": 0.42855073161594864}
+{"sent": "bigger", "ann_id": 1162183, "best_split": [2, 2], "split_score": 0.17364141668548663}
+{"sent": "blond teddy", "ann_id": 1162183, "best_split": [1, 3], "split_score": 0.42855073161594864}

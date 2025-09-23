@@ -1,0 +1,6 @@
+{"sent": "screen with newscasters", "ann_id": 35186, "best_split": [3, 2], "split_score": 0.5027984124857231}
+{"sent": "tv with people", "ann_id": 35186, "best_split": [3, 2], "split_score": 0.5027984124857231}
+{"sent": "monitor with people on it", "ann_id": 35186, "best_split": [3, 2], "split_score": 0.5027984124857231}
+{"sent": "universal", "ann_id": 29901, "best_split": [3, 2], "split_score": 0.6818181817374741}
+{"sent": "univer", "ann_id": 29901, "best_split": [3, 2], "split_score": 0.6818181817374741}
+{"sent": "biggest moniter", "ann_id": 29901, "best_split": [1, 3], "split_score": 0.12592592591962332}

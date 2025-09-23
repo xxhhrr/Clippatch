@@ -1,0 +1,6 @@
+{"sent": "car obstructed", "ann_id": 1339999, "best_split": [5, 1], "split_score": 0.10197775030001963}
+{"sent": "car behind zebra", "ann_id": 1339999, "best_split": [3, 2], "split_score": 0.2285263987134384}
+{"sent": "car behind butt of zebra", "ann_id": 1339999, "best_split": [3, 2], "split_score": 0.2285263987134384}
+{"sent": "white car", "ann_id": 136156, "best_split": [2, 2], "split_score": 0.6564482029164609}
+{"sent": "car zebra is mouth with mouth in hand", "ann_id": 136156, "best_split": [2, 1], "split_score": 0.3589595375592861}
+{"sent": "car by zebra", "ann_id": 136156, "best_split": [2, 2], "split_score": 0.6564482029164609}

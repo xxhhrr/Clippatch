@@ -1,0 +1,6 @@
+{"sent": "green hat and shirt", "ann_id": 453292, "best_split": [1, 2], "split_score": 0.3523671846674488}
+{"sent": "the white frisbee", "ann_id": 453292, "best_split": [3, 1], "split_score": 0.442909760574753}
+{"sent": "green with frisbee", "ann_id": 453292, "best_split": [1, 2], "split_score": 0.3523671846674488}
+{"sent": "white tank shirt", "ann_id": 447945, "best_split": [3, 1], "split_score": 0.5301614945958613}
+{"sent": "white shirt", "ann_id": 447945, "best_split": [3, 1], "split_score": 0.5301614945958613}
+{"sent": "white shirt", "ann_id": 447945, "best_split": [3, 1], "split_score": 0.5301614945958613}

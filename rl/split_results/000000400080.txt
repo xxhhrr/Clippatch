@@ -1,0 +1,8 @@
+{"sent": "loveseat", "ann_id": 1951416, "best_split": [2, 1], "split_score": 0.1985809948900438}
+{"sent": "the couch that is empty", "ann_id": 1951416, "best_split": [2, 1], "split_score": 0.1985809948900438}
+{"sent": "the empty sofa", "ann_id": 1951416, "best_split": [3, 3], "split_score": 0.4982808022208767}
+{"sent": "couch that is cut off", "ann_id": 1951416, "best_split": [2, 1], "split_score": 0.1985809948900438}
+{"sent": "couch man sitting on", "ann_id": 99478, "best_split": [2, 1], "split_score": 0.7253564785831774}
+{"sent": "couch the man is sitting on", "ann_id": 99478, "best_split": [2, 1], "split_score": 0.7253564785831774}
+{"sent": "sofa facing us", "ann_id": 99478, "best_split": [2, 1], "split_score": 0.7253564785831774}
+{"sent": "couch fully visible except for man sitting on it", "ann_id": 99478, "best_split": [2, 1], "split_score": 0.7253564785831774}

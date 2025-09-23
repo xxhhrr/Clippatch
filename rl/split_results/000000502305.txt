@@ -1,0 +1,5 @@
+{"sent": "tabby with white bib", "ann_id": 51235, "best_split": [3, 3], "split_score": 0.6510590857380062}
+{"sent": "cat with eyes closed", "ann_id": 51235, "best_split": [3, 3], "split_score": 0.6510590857380062}
+{"sent": "in a ball", "ann_id": 49720, "best_split": [2, 3], "split_score": 0.439999999947619}
+{"sent": "cat number three", "ann_id": 49720, "best_split": [5, 1], "split_score": 0.28035982006368443}
+{"sent": "sleeping cat", "ann_id": 49720, "best_split": [5, 1], "split_score": 0.28035982006368443}

@@ -1,0 +1,6 @@
+{"sent": "taller kid with blue pant", "ann_id": 515864, "best_split": [1, 2], "split_score": 0.5573979591614557}
+{"sent": "tallest girl", "ann_id": 515864, "best_split": [1, 2], "split_score": 0.5573979591614557}
+{"sent": "big kid", "ann_id": 515864, "best_split": [3, 1], "split_score": 0.2255373756727006}
+{"sent": "pink little girl", "ann_id": 430604, "best_split": [1, 5], "split_score": 0.47838879865276085}
+{"sent": "child in pink", "ann_id": 430604, "best_split": [1, 5], "split_score": 0.47838879865276085}
+{"sent": "the smaller kid", "ann_id": 430604, "best_split": [1, 5], "split_score": 0.47838879865276085}

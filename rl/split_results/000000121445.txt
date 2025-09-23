@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 222509, "best_split": [2, 1], "split_score": 0.4894339334570707}
+{"sent": "dark skinned shirtless man", "ann_id": 222509, "best_split": [2, 1], "split_score": 0.4894339334570707}
+{"sent": "darkest man", "ann_id": 222509, "best_split": [2, 1], "split_score": 0.4894339334570707}
+{"sent": "shirtless man with bat in his hand", "ann_id": 222324, "best_split": [2, 3], "split_score": 0.8121312248274567}
+{"sent": "dude with bat", "ann_id": 222324, "best_split": [2, 2], "split_score": 0.5406127258019943}
+{"sent": "man without shirt with a bat in hand", "ann_id": 222324, "best_split": [2, 3], "split_score": 0.8121312248274567}

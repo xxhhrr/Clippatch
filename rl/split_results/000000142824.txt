@@ -1,0 +1,6 @@
+{"sent": "man in white hat", "ann_id": 529126, "best_split": [1, 3], "split_score": 0.24288127411662153}
+{"sent": "white hat", "ann_id": 529126, "best_split": [1, 5], "split_score": 0.23968565813183731}
+{"sent": "the guy in the dark blue shirt", "ann_id": 529126, "best_split": [3, 2], "split_score": 0.24736628846764927}
+{"sent": "a man standing", "ann_id": 439588, "best_split": [1, 2], "split_score": 0.10634566326106722}
+{"sent": "man wearing straw hat", "ann_id": 439588, "best_split": [1, 5], "split_score": 0.27069805192058666}
+{"sent": "blue shirt farthest from group", "ann_id": 439588, "best_split": [1, 5], "split_score": 0.27069805192058666}

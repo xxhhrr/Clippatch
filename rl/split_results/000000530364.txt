@@ -1,0 +1,5 @@
+{"sent": "man with hands on table", "ann_id": 1230999, "best_split": [3, 1], "split_score": 0.34405348151684906}
+{"sent": "hand with watch", "ann_id": 1230999, "best_split": [1, 2], "split_score": 0.5862135707408557}
+{"sent": "hand with fork", "ann_id": 485268, "best_split": [1, 2], "split_score": 0.4606591448760147}
+{"sent": "arm reaching over", "ann_id": 485268, "best_split": [3, 1], "split_score": 0.20696536880426666}
+{"sent": "hand with fork", "ann_id": 485268, "best_split": [1, 2], "split_score": 0.4606591448760147}

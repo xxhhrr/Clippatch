@@ -1,0 +1,5 @@
+{"sent": "stripped shirt", "ann_id": 185181, "best_split": [2, 1], "split_score": 0.10820895521967472}
+{"sent": "woman in front of train shes gon na jump", "ann_id": 185181, "best_split": [2, 1], "split_score": 0.10820895521967472}
+{"sent": "lady in white", "ann_id": 183533, "best_split": [2, 3], "split_score": 0.34082668596904314}
+{"sent": "guy in white", "ann_id": 183533, "best_split": [2, 3], "split_score": 0.34082668596904314}
+{"sent": "man near white train", "ann_id": 183533, "best_split": [3, 2], "split_score": 0.25016903310632965}

@@ -1,0 +1,9 @@
+{"sent": "person taking a picture", "ann_id": 551154, "best_split": [2, 2], "split_score": 0.39013261083772044}
+{"sent": "man in white long sleeves taking photograph", "ann_id": 551154, "best_split": [1, 5], "split_score": 0.4236111110752362}
+{"sent": "woman with camera", "ann_id": 551154, "best_split": [1, 5], "split_score": 0.4236111110752362}
+{"sent": "women in black with blond hair", "ann_id": 527516, "best_split": [2, 2], "split_score": 0.24465880100090412}
+{"sent": "woman in black coat", "ann_id": 527516, "best_split": [5, 1], "split_score": 0.12655800574160567}
+{"sent": "black jacket blond", "ann_id": 527516, "best_split": [2, 2], "split_score": 0.24465880100090412}
+{"sent": "guy in corner", "ann_id": 526910, "best_split": [2, 3], "split_score": 0.6459613695515846}
+{"sent": "old man closest to us in corner", "ann_id": 526910, "best_split": [2, 3], "split_score": 0.6459613695515846}
+{"sent": "old man at 4 with headphones", "ann_id": 526910, "best_split": [2, 3], "split_score": 0.6459613695515846}

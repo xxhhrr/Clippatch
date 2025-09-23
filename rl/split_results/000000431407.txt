@@ -1,0 +1,5 @@
+{"sent": "tall giraffe", "ann_id": 1414635, "best_split": [1, 3], "split_score": 0.565403422961285}
+{"sent": "parent", "ann_id": 1414635, "best_split": [2, 1], "split_score": 0.3674495716947375}
+{"sent": "short one", "ann_id": 595353, "best_split": [2, 2], "split_score": 0.6596725287653321}
+{"sent": "baby", "ann_id": 595353, "best_split": [2, 2], "split_score": 0.6596725287653321}
+{"sent": "baby", "ann_id": 595353, "best_split": [2, 2], "split_score": 0.6596725287653321}

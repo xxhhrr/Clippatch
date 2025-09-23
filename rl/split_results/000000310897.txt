@@ -1,0 +1,9 @@
+{"sent": "lighter blue book", "ann_id": 1652783, "best_split": [2, 3], "split_score": 0.285552941149595}
+{"sent": "book just book though really small area the word", "ann_id": 1652783, "best_split": [2, 3], "split_score": 0.285552941149595}
+{"sent": "the book with the word edge that says book", "ann_id": 1652783, "best_split": [3, 3], "split_score": 0.29054134440326695}
+{"sent": "mouse with no cord", "ann_id": 1107142, "best_split": [3, 1], "split_score": 0.29592265656062433}
+{"sent": "whitw no cord", "ann_id": 1107142, "best_split": [3, 1], "split_score": 0.29592265656062433}
+{"sent": "white thing farther from gray thing", "ann_id": 1107142, "best_split": [3, 3], "split_score": 0.641503523783633}
+{"sent": "white object with button on it", "ann_id": 1106806, "best_split": [3, 2], "split_score": 0.735849056516999}
+{"sent": "lefty white thing", "ann_id": 1106806, "best_split": [3, 2], "split_score": 0.735849056516999}
+{"sent": "mouse with gray thing on surface", "ann_id": 1106806, "best_split": [3, 2], "split_score": 0.735849056516999}

@@ -1,0 +1,6 @@
+{"sent": "cox facing away from camera", "ann_id": 278071, "best_split": [1, 5], "split_score": 0.35283453034287465}
+{"sent": "cow with black head", "ann_id": 278071, "best_split": [2, 2], "split_score": 0.40025356574324855}
+{"sent": "bigger cow", "ann_id": 278071, "best_split": [3, 1], "split_score": 0.29132885108308637}
+{"sent": "smaller", "ann_id": 73178, "best_split": [3, 2], "split_score": 0.38235003455061267}
+{"sent": "smaller cow", "ann_id": 73178, "best_split": [3, 2], "split_score": 0.38235003455061267}
+{"sent": "facing us", "ann_id": 73178, "best_split": [3, 3], "split_score": 0.22691843229477238}

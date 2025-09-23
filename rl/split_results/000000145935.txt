@@ -1,0 +1,8 @@
+{"sent": "dounut with least amount of sugar", "ann_id": 1080611, "best_split": [2, 3], "split_score": 0.3310152989880603}
+{"sent": "half of unsugared", "ann_id": 1080611, "best_split": [1, 3], "split_score": 0.16883423976301523}
+{"sent": "donut half sugared", "ann_id": 1080611, "best_split": [3, 2], "split_score": 0.2388349514305464}
+{"sent": "count three from u donut", "ann_id": 1079653, "best_split": [2, 3], "split_score": 0.3093239062848736}
+{"sent": "donut with least hole", "ann_id": 1078643, "best_split": [3, 3], "split_score": 0.48432174497540526}
+{"sent": "below dip", "ann_id": 1078563, "best_split": [3, 3], "split_score": 0.4381752700422906}
+{"sent": "the donut under the cup", "ann_id": 1078563, "best_split": [1, 3], "split_score": 0.18032412690137387}
+{"sent": "closest sweet", "ann_id": 1078563, "best_split": [2, 2], "split_score": 0.3109746496369883}

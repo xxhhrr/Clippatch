@@ -1,0 +1,6 @@
+{"sent": "straighest facing", "ann_id": 61992, "best_split": [5, 1], "split_score": 0.09726468221260944}
+{"sent": "animal 3 away from dog", "ann_id": 61992, "best_split": [3, 1], "split_score": 0.16516911805842333}
+{"sent": "third sheep from dog", "ann_id": 61992, "best_split": [3, 3], "split_score": 0.45284795222770313}
+{"sent": "the sheep in the lead nearest us", "ann_id": 60991, "best_split": [3, 2], "split_score": 0.31876444627875977}
+{"sent": "one closest to dog", "ann_id": 60991, "best_split": [3, 3], "split_score": 0.37648388914973374}
+{"sent": "lead sheep", "ann_id": 60991, "best_split": [3, 2], "split_score": 0.31876444627875977}

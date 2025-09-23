@@ -1,0 +1,5 @@
+{"sent": "chin on bed facing camera", "ann_id": 17770, "best_split": [1, 3], "split_score": 0.4664438722146253}
+{"sent": "dog facing us", "ann_id": 17770, "best_split": [2, 3], "split_score": 0.4433335936543518}
+{"sent": "dog looking at camera", "ann_id": 17770, "best_split": [2, 3], "split_score": 0.4433335936543518}
+{"sent": "side of dog", "ann_id": 15958, "best_split": [3, 2], "split_score": 0.5512586133770736}
+{"sent": "dog", "ann_id": 15958, "best_split": [3, 2], "split_score": 0.5512586133770736}

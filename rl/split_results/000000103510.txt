@@ -1,0 +1,6 @@
+{"sent": "the bowl", "ann_id": 718119, "best_split": [1, 2], "split_score": 0.49282157675326094}
+{"sent": "bowl", "ann_id": 718119, "best_split": [1, 2], "split_score": 0.49282157675326094}
+{"sent": "the whole bowl", "ann_id": 718119, "best_split": [1, 2], "split_score": 0.49282157675326094}
+{"sent": "the white dip", "ann_id": 714021, "best_split": [3, 3], "split_score": 0.6993961668811504}
+{"sent": "white dip", "ann_id": 714021, "best_split": [3, 3], "split_score": 0.6993961668811504}
+{"sent": "stuff in bowl", "ann_id": 714021, "best_split": [3, 1], "split_score": 0.36889445517654024}

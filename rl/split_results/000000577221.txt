@@ -1,0 +1,5 @@
+{"sent": "pperoni pizza", "ann_id": 1569932, "best_split": [1, 3], "split_score": 0.15211052152817484}
+{"sent": "red chips", "ann_id": 1569932, "best_split": [5, 1], "split_score": 0.5685407453687807}
+{"sent": "pizza with red toppings", "ann_id": 1569932, "best_split": [1, 3], "split_score": 0.15211052152817484}
+{"sent": "main dish closest to us", "ann_id": 1074938, "best_split": [2, 1], "split_score": 0.7201450892570095}
+{"sent": "closest pizza", "ann_id": 1074938, "best_split": [2, 1], "split_score": 0.7201450892570095}

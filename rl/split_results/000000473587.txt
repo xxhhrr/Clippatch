@@ -1,0 +1,9 @@
+{"sent": "blue pants", "ann_id": 2157715, "best_split": [2, 1], "split_score": 0.17912946427857424}
+{"sent": "blue jeans white shirt", "ann_id": 2157715, "best_split": [2, 3], "split_score": 0.5225729600330467}
+{"sent": "long blue pants", "ann_id": 2157715, "best_split": [2, 3], "split_score": 0.5225729600330467}
+{"sent": "mans bare leg exiting", "ann_id": 1712883, "best_split": [2, 1], "split_score": 0.1737882652991953}
+{"sent": "blue shorts man", "ann_id": 1712883, "best_split": [2, 3], "split_score": 0.5260617759983033}
+{"sent": "blue short near zebra head", "ann_id": 1712883, "best_split": [2, 2], "split_score": 0.3475765305845363}
+{"sent": "child close to zebra", "ann_id": 421134, "best_split": [2, 3], "split_score": 0.3141361256322247}
+{"sent": "little gril in pink flower shrit", "ann_id": 421134, "best_split": [1, 5], "split_score": 0.43604734062198436}
+{"sent": "girl with ponytail", "ann_id": 421134, "best_split": [1, 5], "split_score": 0.43604734062198436}

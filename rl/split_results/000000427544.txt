@@ -1,0 +1,11 @@
+{"sent": "donut on edge looks filled", "ann_id": 1082715, "best_split": [5, 1], "split_score": 0.14020601003318242}
+{"sent": "large powdered doughnut", "ann_id": 1082715, "best_split": [5, 1], "split_score": 0.14020601003318242}
+{"sent": "circle pastry without a hole in plate", "ann_id": 1082715, "best_split": [5, 1], "split_score": 0.14020601003318242}
+{"sent": "glazed donut riding other one", "ann_id": 1082444, "best_split": [2, 3], "split_score": 0.3438661709637702}
+{"sent": "donut next to the glazed one", "ann_id": 1082444, "best_split": [2, 3], "split_score": 0.3438661709637702}
+{"sent": "soda at 2", "ann_id": 680100, "best_split": [5, 1], "split_score": 0.22329261997047198}
+{"sent": "drink further away", "ann_id": 680100, "best_split": [3, 3], "split_score": 0.35845410623071716}
+{"sent": "soda by big plate of donuts", "ann_id": 680100, "best_split": [1, 5], "split_score": 0.2464504820117046}
+{"sent": "closest glass to us", "ann_id": 673362, "best_split": [2, 2], "split_score": 0.376460892989477}
+{"sent": "soda glass close to green cup", "ann_id": 673362, "best_split": [2, 2], "split_score": 0.376460892989477}
+{"sent": "soda next to blue cup", "ann_id": 673362, "best_split": [2, 2], "split_score": 0.376460892989477}

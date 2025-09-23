@@ -1,0 +1,6 @@
+{"sent": "monitor near the mouse", "ann_id": 2227408, "best_split": [1, 3], "split_score": 0.23175103971357372}
+{"sent": "smaller screen", "ann_id": 2227408, "best_split": [2, 3], "split_score": 0.38381759160922985}
+{"sent": "screen that goes white black white", "ann_id": 2227408, "best_split": [2, 3], "split_score": 0.38381759160922985}
+{"sent": "the big long white screen with a picture on it and some text far underneath", "ann_id": 1625375, "best_split": [2, 2], "split_score": 0.7330495011289923}
+{"sent": "large white screen", "ann_id": 1625375, "best_split": [2, 2], "split_score": 0.7330495011289923}
+{"sent": "tall screen", "ann_id": 1625375, "best_split": [1, 2], "split_score": 0.5870934310990477}

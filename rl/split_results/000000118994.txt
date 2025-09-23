@@ -1,0 +1,6 @@
+{"sent": "boy with half of face showing", "ann_id": 1713346, "best_split": [1, 5], "split_score": 0.3103110936890715}
+{"sent": "boy half cut out", "ann_id": 1713346, "best_split": [1, 5], "split_score": 0.3103110936890715}
+{"sent": "kids face", "ann_id": 1713346, "best_split": [1, 5], "split_score": 0.3103110936890715}
+{"sent": "black shirt", "ann_id": 192197, "best_split": [1, 2], "split_score": 0.5765623898141687}
+{"sent": "hand under bird", "ann_id": 192197, "best_split": [2, 1], "split_score": 0.4466442373954744}
+{"sent": "man holding owl", "ann_id": 192197, "best_split": [2, 1], "split_score": 0.46464911130475894}

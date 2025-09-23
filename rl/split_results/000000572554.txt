@@ -1,0 +1,6 @@
+{"sent": "man with hand open", "ann_id": 215128, "best_split": [1, 2], "split_score": 0.8269885718297514}
+{"sent": "standing man reaching", "ann_id": 215128, "best_split": [1, 2], "split_score": 0.8269885718297514}
+{"sent": "man reaching to woman", "ann_id": 215128, "best_split": [2, 1], "split_score": 0.3142421602701916}
+{"sent": "lady", "ann_id": 190116, "best_split": [1, 2], "split_score": 0.6553723626989181}
+{"sent": "blond pony", "ann_id": 190116, "best_split": [1, 2], "split_score": 0.6553723626989181}
+{"sent": "catwoman rachindg and sitting", "ann_id": 190116, "best_split": [1, 2], "split_score": 0.6553723626989181}

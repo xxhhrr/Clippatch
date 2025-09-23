@@ -1,0 +1,6 @@
+{"sent": "hidden giraffe", "ann_id": 600020, "best_split": [1, 3], "split_score": 0.8286719541517877}
+{"sent": "giraffe no head", "ann_id": 600020, "best_split": [1, 3], "split_score": 0.8286719541517877}
+{"sent": "griaffe half hidden", "ann_id": 600020, "best_split": [1, 3], "split_score": 0.8286719541517877}
+{"sent": "most visible elephant", "ann_id": 598482, "best_split": [1, 5], "split_score": 0.7662921347699605}
+{"sent": "giraffe you can fullu see", "ann_id": 598482, "best_split": [1, 5], "split_score": 0.7662921347699605}
+{"sent": "unobstructed giraffe", "ann_id": 598482, "best_split": [1, 5], "split_score": 0.7662921347699605}

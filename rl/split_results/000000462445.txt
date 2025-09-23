@@ -1,0 +1,12 @@
+{"sent": "white teddy bear", "ann_id": 1161263, "best_split": [1, 5], "split_score": 0.34722222218963755}
+{"sent": "white teddybear", "ann_id": 1161263, "best_split": [1, 5], "split_score": 0.34722222218963755}
+{"sent": "white ber", "ann_id": 1161263, "best_split": [1, 5], "split_score": 0.34722222218963755}
+{"sent": "the brown teddy bear with red dress", "ann_id": 1161168, "best_split": [3, 2], "split_score": 0.35376606816596556}
+{"sent": "brown bear", "ann_id": 1161168, "best_split": [3, 2], "split_score": 0.35376606816596556}
+{"sent": "brown bear", "ann_id": 1161168, "best_split": [3, 2], "split_score": 0.35376606816596556}
+{"sent": "red", "ann_id": 477451, "best_split": [1, 3], "split_score": 0.4901293396630298}
+{"sent": "pink sweater", "ann_id": 477451, "best_split": [1, 3], "split_score": 0.4901293396630298}
+{"sent": "girl in pink shirt", "ann_id": 477451, "best_split": [1, 3], "split_score": 0.4901293396630298}
+{"sent": "smallest child", "ann_id": 458135, "best_split": [1, 3], "split_score": 0.33486539722396225}
+{"sent": "shorter person", "ann_id": 458135, "best_split": [1, 3], "split_score": 0.33486539722396225}
+{"sent": "kid in gray", "ann_id": 458135, "best_split": [1, 3], "split_score": 0.33486539722396225}

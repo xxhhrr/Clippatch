@@ -1,0 +1,6 @@
+{"sent": "meter has lines above it", "ann_id": 419359, "best_split": [2, 2], "split_score": 0.4615329970546613}
+{"sent": "meter with 0000", "ann_id": 419359, "best_split": [2, 2], "split_score": 0.4615329970546613}
+{"sent": "parking meter even with pole across street", "ann_id": 419359, "best_split": [2, 2], "split_score": 0.4615329970546613}
+{"sent": "the coin meter that is on the same side as the white writing", "ann_id": 418260, "best_split": [5, 1], "split_score": 0.18565400842483015}
+{"sent": "number 2 meter", "ann_id": 418260, "best_split": [3, 2], "split_score": 0.2974358974086597}
+{"sent": "the one directly next to that white writing in the background", "ann_id": 418260, "best_split": [2, 2], "split_score": 0.34836065571221014}

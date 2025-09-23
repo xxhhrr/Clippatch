@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 513548, "best_split": [2, 3], "split_score": 0.49500454126986776}
+{"sent": "woman in blue sweater", "ann_id": 513548, "best_split": [2, 2], "split_score": 0.33374157988872155}
+{"sent": "person in turquoise", "ann_id": 513548, "best_split": [1, 5], "split_score": 0.4951298700796337}
+{"sent": "person with dark clothing sitting on couch", "ann_id": 448127, "best_split": [5, 1], "split_score": 0.154734024744502}
+{"sent": "seated at sofa under stairs", "ann_id": 448127, "best_split": [2, 1], "split_score": 0.11736185931517}
+{"sent": "on couch guy", "ann_id": 448127, "best_split": [3, 1], "split_score": 0.15796005866196772}
+{"sent": "woman playing video game", "ann_id": 440678, "best_split": [1, 3], "split_score": 0.6057122953410957}
+{"sent": "lady playing", "ann_id": 440678, "best_split": [1, 3], "split_score": 0.6057122953410957}
+{"sent": "bowler", "ann_id": 440678, "best_split": [1, 3], "split_score": 0.6057122953410957}

@@ -1,0 +1,6 @@
+{"sent": "half of sandwich with most tomato", "ann_id": 2113004, "best_split": [3, 3], "split_score": 0.5650653693272931}
+{"sent": "back tomato", "ann_id": 2113004, "best_split": [3, 3], "split_score": 0.5650653693272931}
+{"sent": "farther sandwich", "ann_id": 2113004, "best_split": [3, 3], "split_score": 0.5650653693272931}
+{"sent": "sandwich closest to us", "ann_id": 308166, "best_split": [2, 3], "split_score": 0.5835737641292966}
+{"sent": "closet sandwich", "ann_id": 308166, "best_split": [2, 3], "split_score": 0.5835737641292966}
+{"sent": "sandwich closer to us", "ann_id": 308166, "best_split": [2, 3], "split_score": 0.5835737641292966}

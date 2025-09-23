@@ -1,0 +1,10 @@
+{"sent": "the person in black shirt", "ann_id": 441159, "best_split": [1, 5], "split_score": 0.6399482869554017}
+{"sent": "person with black shirt", "ann_id": 441159, "best_split": [1, 5], "split_score": 0.6399482869554017}
+{"sent": "partial person in black shirt", "ann_id": 441159, "best_split": [1, 5], "split_score": 0.6399482869554017}
+{"sent": "bottle half cut off side white labe", "ann_id": 91815, "best_split": [1, 3], "split_score": 0.3320463320263003}
+{"sent": "the bottle that is half cut off", "ann_id": 91815, "best_split": [1, 3], "split_score": 0.3320463320263003}
+{"sent": "blurred person in gray jacket near bottles", "ann_id": 1749805, "best_split": [3, 3], "split_score": 0.32591459169204134}
+{"sent": "blurry person near bottles in back", "ann_id": 1749805, "best_split": [3, 1], "split_score": 0.15501315567625745}
+{"sent": "black lable", "ann_id": 84923, "best_split": [1, 5], "split_score": 0.8634538151822331}
+{"sent": "brune wine", "ann_id": 84923, "best_split": [1, 5], "split_score": 0.8634538151822331}
+{"sent": "brune wine", "ann_id": 84923, "best_split": [1, 5], "split_score": 0.8634538151822331}

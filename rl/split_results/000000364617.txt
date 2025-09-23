@@ -1,0 +1,6 @@
+{"sent": "alive", "ann_id": 76869, "best_split": [2, 2], "split_score": 0.018749999998953683}
+{"sent": "gray animal", "ann_id": 76869, "best_split": [2, 3], "split_score": 0.6233766233043394}
+{"sent": "the mourning goat", "ann_id": 76869, "best_split": [3, 1], "split_score": 0.10731319554315813}
+{"sent": "the game will shut us off but black animal on ground", "ann_id": 76238, "best_split": [3, 2], "split_score": 0.43687027704369724}
+{"sent": "animal on ground", "ann_id": 76238, "best_split": [3, 2], "split_score": 0.43687027704369724}
+{"sent": "black animal", "ann_id": 76238, "best_split": [3, 2], "split_score": 0.43687027704369724}

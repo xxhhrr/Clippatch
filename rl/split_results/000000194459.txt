@@ -1,0 +1,6 @@
+{"sent": "black suitcase 9 oclock", "ann_id": 1185874, "best_split": [2, 2], "split_score": 0.69595025504656}
+{"sent": "black suitcase with dangling square tag", "ann_id": 1185874, "best_split": [2, 2], "split_score": 0.69595025504656}
+{"sent": "suitcase with a tag", "ann_id": 1185874, "best_split": [2, 2], "split_score": 0.69595025504656}
+{"sent": "closest luggage", "ann_id": 1185795, "best_split": [1, 3], "split_score": 0.5746464386436284}
+{"sent": "bag with handle up", "ann_id": 1185795, "best_split": [1, 3], "split_score": 0.5746464386436284}
+{"sent": "suitcase with colorful monkey on it", "ann_id": 1185795, "best_split": [1, 3], "split_score": 0.5746464386436284}

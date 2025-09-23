@@ -1,0 +1,6 @@
+{"sent": "dog head closet to camera", "ann_id": 17312, "best_split": [2, 2], "split_score": 0.8903982710025935}
+{"sent": "back of dog head", "ann_id": 17312, "best_split": [2, 2], "split_score": 0.8903982710025935}
+{"sent": "back of head", "ann_id": 17312, "best_split": [2, 2], "split_score": 0.8903982710025935}
+{"sent": "dog face", "ann_id": 14111, "best_split": [3, 3], "split_score": 0.5982752424365297}
+{"sent": "dog in mirror", "ann_id": 14111, "best_split": [3, 3], "split_score": 0.5982752424365297}
+{"sent": "reflection", "ann_id": 14111, "best_split": [3, 3], "split_score": 0.5982752424365297}

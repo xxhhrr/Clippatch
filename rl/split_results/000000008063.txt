@@ -1,0 +1,8 @@
+{"sent": "random blur of a person in the corner", "ann_id": 527676, "best_split": [2, 1], "split_score": 0.1619803578581333}
+{"sent": "closest person not focuses", "ann_id": 527676, "best_split": [1, 2], "split_score": 0.37707270406660265}
+{"sent": "kid sitting on carousel", "ann_id": 510646, "best_split": [3, 3], "split_score": 0.3593290170159904}
+{"sent": "person sitting diwn", "ann_id": 510646, "best_split": [3, 3], "split_score": 0.3593290170159904}
+{"sent": "little girl sitting", "ann_id": 510646, "best_split": [3, 3], "split_score": 0.3593290170159904}
+{"sent": "man in backpack", "ann_id": 506317, "best_split": [1, 5], "split_score": 0.7242136063712313}
+{"sent": "black coat yellow backpack", "ann_id": 506317, "best_split": [1, 5], "split_score": 0.7242136063712313}
+{"sent": "person with yellow backpack", "ann_id": 506317, "best_split": [1, 5], "split_score": 0.7242136063712313}

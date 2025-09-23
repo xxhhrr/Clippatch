@@ -1,0 +1,3 @@
+{"sent": "yellow orange and furry", "ann_id": 48188, "best_split": [3, 2], "split_score": 0.7958494207533965}
+{"sent": "cat on floor", "ann_id": 48188, "best_split": [3, 3], "split_score": 0.714772727171197}
+{"sent": "lighter colored cat", "ann_id": 48188, "best_split": [3, 3], "split_score": 0.714772727171197}

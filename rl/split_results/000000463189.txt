@@ -1,0 +1,5 @@
+{"sent": "half on paper", "ann_id": 311690, "best_split": [1, 2], "split_score": 0.36607142855683705}
+{"sent": "sandwich not in hand", "ann_id": 311690, "best_split": [1, 2], "split_score": 0.36607142855683705}
+{"sent": "sandwich in the hand", "ann_id": 311132, "best_split": [2, 3], "split_score": 0.5800414078194582}
+{"sent": "sandwich in hand", "ann_id": 311132, "best_split": [2, 3], "split_score": 0.5800414078194582}
+{"sent": "sanwich being held", "ann_id": 311132, "best_split": [2, 3], "split_score": 0.5800414078194582}

@@ -1,0 +1,8 @@
+{"sent": "cow with 1125", "ann_id": 75417, "best_split": [2, 3], "split_score": 0.4852704366311196}
+{"sent": "cow partially in picture", "ann_id": 75417, "best_split": [2, 3], "split_score": 0.4852704366311196}
+{"sent": "third cow", "ann_id": 75417, "best_split": [2, 3], "split_score": 0.4852704366311196}
+{"sent": "cow without ear tag", "ann_id": 73279, "best_split": [1, 5], "split_score": 0.6315789473144584}
+{"sent": "cow without ear tag", "ann_id": 73279, "best_split": [1, 5], "split_score": 0.6315789473144584}
+{"sent": "cow that you can see all of", "ann_id": 72513, "best_split": [1, 2], "split_score": 0.625717474464855}
+{"sent": "cow 1", "ann_id": 72513, "best_split": [1, 2], "split_score": 0.625717474464855}
+{"sent": "cow behind horizontal wire", "ann_id": 72513, "best_split": [1, 2], "split_score": 0.625717474464855}

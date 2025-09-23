@@ -1,0 +1,9 @@
+{"sent": "elephant behind baby elephant", "ann_id": 585774, "best_split": [3, 2], "split_score": 0.7429558457580745}
+{"sent": "elephant behind baby", "ann_id": 585774, "best_split": [3, 2], "split_score": 0.7429558457580745}
+{"sent": "elephant by tall rock", "ann_id": 585774, "best_split": [3, 2], "split_score": 0.7429558457580745}
+{"sent": "baby", "ann_id": 584946, "best_split": [2, 1], "split_score": 0.2938058035597176}
+{"sent": "smallest elephant", "ann_id": 584946, "best_split": [2, 2], "split_score": 0.3777239709181789}
+{"sent": "smallest elephant", "ann_id": 584946, "best_split": [2, 2], "split_score": 0.3777239709181789}
+{"sent": "elephant with tusk showing", "ann_id": 583150, "best_split": [3, 1], "split_score": 0.2647463535334031}
+{"sent": "tusks", "ann_id": 583150, "best_split": [3, 1], "split_score": 0.2647463535334031}
+{"sent": "elephant with visible tusks", "ann_id": 583150, "best_split": [3, 1], "split_score": 0.2647463535334031}

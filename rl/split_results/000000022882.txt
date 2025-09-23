@@ -1,0 +1,5 @@
+{"sent": "green leafy plant", "ann_id": 1952300, "best_split": [3, 1], "split_score": 0.49700124473820295}
+{"sent": "plant thing behind her", "ann_id": 1952300, "best_split": [3, 1], "split_score": 0.49700124473820295}
+{"sent": "thing between woman and chair", "ann_id": 1951972, "best_split": [1, 2], "split_score": 0.35371492345528877}
+{"sent": "flower vase in back", "ann_id": 1951972, "best_split": [3, 2], "split_score": 0.7851050550462757}
+{"sent": "flowers", "ann_id": 1951972, "best_split": [3, 2], "split_score": 0.7851050550462757}

@@ -1,0 +1,6 @@
+{"sent": "black jacket", "ann_id": 482305, "best_split": [3, 1], "split_score": 0.255348516205494}
+{"sent": "man in black out of frame", "ann_id": 482305, "best_split": [3, 1], "split_score": 0.255348516205494}
+{"sent": "the man in black suit cut off", "ann_id": 482305, "best_split": [3, 3], "split_score": 0.551403887629438}
+{"sent": "man holding cell phone", "ann_id": 464150, "best_split": [2, 1], "split_score": 0.3808439852832069}
+{"sent": "man in tan jacket", "ann_id": 464150, "best_split": [1, 2], "split_score": 0.5089934940559464}
+{"sent": "man with phone", "ann_id": 464150, "best_split": [2, 1], "split_score": 0.3808439852832069}

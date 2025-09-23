@@ -1,0 +1,6 @@
+{"sent": "banana near oranges", "ann_id": 1042066, "best_split": [1, 3], "split_score": 0.25168750979793375}
+{"sent": "single ban", "ann_id": 1042066, "best_split": [1, 5], "split_score": 0.17806999519361208}
+{"sent": "banana over 3 oranges", "ann_id": 1042066, "best_split": [3, 3], "split_score": 0.6004244163524622}
+{"sent": "4 bananas", "ann_id": 1041899, "best_split": [2, 2], "split_score": 0.5932721712214246}
+{"sent": "close bananas", "ann_id": 1041899, "best_split": [2, 2], "split_score": 0.5932721712214246}
+{"sent": "three bananas", "ann_id": 1041899, "best_split": [2, 2], "split_score": 0.5932721712214246}

@@ -1,0 +1,6 @@
+{"sent": "all brown cow", "ann_id": 72812, "best_split": [1, 5], "split_score": 0.450313664837684}
+{"sent": "cow with green and blue", "ann_id": 72812, "best_split": [1, 5], "split_score": 0.450313664837684}
+{"sent": "the animal with green collar", "ann_id": 72812, "best_split": [1, 5], "split_score": 0.450313664837684}
+{"sent": "bull thats running at an angle", "ann_id": 70310, "best_split": [3, 1], "split_score": 0.19345393703892846}
+{"sent": "smaller cow", "ann_id": 70310, "best_split": [3, 3], "split_score": 0.33766826370777225}
+{"sent": "smaller cow", "ann_id": 70310, "best_split": [3, 3], "split_score": 0.33766826370777225}

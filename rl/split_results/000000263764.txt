@@ -1,0 +1,11 @@
+{"sent": "stove empty", "ann_id": 1126468, "best_split": [2, 2], "split_score": 0.3598933649022591}
+{"sent": "oven 2", "ann_id": 1126468, "best_split": [2, 2], "split_score": 0.3598933649022591}
+{"sent": "stove next to woman in blue", "ann_id": 1126468, "best_split": [2, 2], "split_score": 0.3598933649022591}
+{"sent": "closer oven", "ann_id": 1124941, "best_split": [2, 3], "split_score": 0.5405405404753209}
+{"sent": "stove at left", "ann_id": 1124941, "best_split": [2, 3], "split_score": 0.5405405404753209}
+{"sent": "lue girl", "ann_id": 507993, "best_split": [2, 1], "split_score": 0.1366566551850906}
+{"sent": "blue shirt", "ann_id": 507993, "best_split": [1, 5], "split_score": 0.5354192983640638}
+{"sent": "blue shirt", "ann_id": 507993, "best_split": [1, 5], "split_score": 0.5354192983640638}
+{"sent": "orange shirt", "ann_id": 468763, "best_split": [1, 3], "split_score": 0.7705115829650995}
+{"sent": "orange shirt", "ann_id": 468763, "best_split": [1, 3], "split_score": 0.7705115829650995}
+{"sent": "orange jacket", "ann_id": 468763, "best_split": [1, 3], "split_score": 0.7705115829650995}

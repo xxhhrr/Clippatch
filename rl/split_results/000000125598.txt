@@ -1,0 +1,6 @@
+{"sent": "closest", "ann_id": 310373, "best_split": [1, 2], "split_score": 0.12177290381142424}
+{"sent": "pita at 6 o clock", "ann_id": 310373, "best_split": [3, 1], "split_score": 0.40441016726024276}
+{"sent": "sandwich at 6 you can see half of", "ann_id": 310373, "best_split": [5, 1], "split_score": 0.30634812284598306}
+{"sent": "taco between others", "ann_id": 309830, "best_split": [1, 2], "split_score": 0.5819913902829245}
+{"sent": "taco in between the others", "ann_id": 309830, "best_split": [1, 2], "split_score": 0.5819913902829245}
+{"sent": "middle taco", "ann_id": 309830, "best_split": [2, 2], "split_score": 0.5960136406046558}

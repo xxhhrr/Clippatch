@@ -1,0 +1,6 @@
+{"sent": "second bus", "ann_id": 169136, "best_split": [1, 5], "split_score": 0.4507345739029643}
+{"sent": "partial bus", "ann_id": 169136, "best_split": [1, 5], "split_score": 0.4507345739029643}
+{"sent": "half bus", "ann_id": 169136, "best_split": [1, 5], "split_score": 0.4507345739029643}
+{"sent": "16 bus", "ann_id": 169045, "best_split": [3, 1], "split_score": 0.45647703904830034}
+{"sent": "white and green bus with number 16", "ann_id": 169045, "best_split": [3, 1], "split_score": 0.45647703904830034}
+{"sent": "bus with yellow", "ann_id": 169045, "best_split": [3, 1], "split_score": 0.45647703904830034}

@@ -1,0 +1,6 @@
+{"sent": "red jacket", "ann_id": 2160339, "best_split": [2, 2], "split_score": 0.7050304877600971}
+{"sent": "red", "ann_id": 2160339, "best_split": [2, 2], "split_score": 0.7050304877600971}
+{"sent": "red arm", "ann_id": 2160339, "best_split": [2, 2], "split_score": 0.7050304877600971}
+{"sent": "guy with box", "ann_id": 427255, "best_split": [1, 2], "split_score": 0.5735830527363079}
+{"sent": "guy", "ann_id": 427255, "best_split": [2, 1], "split_score": 0.46598557953109576}
+{"sent": "white shirt", "ann_id": 427255, "best_split": [1, 2], "split_score": 0.5735830527363079}

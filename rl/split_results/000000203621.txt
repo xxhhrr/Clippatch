@@ -1,0 +1,6 @@
+{"sent": "cat furthest away", "ann_id": 53045, "best_split": [5, 1], "split_score": 0.3861102962462518}
+{"sent": "black cat in back", "ann_id": 53045, "best_split": [5, 1], "split_score": 0.3861102962462518}
+{"sent": "black cat behind black one", "ann_id": 53045, "best_split": [5, 1], "split_score": 0.3861102962462518}
+{"sent": "whole cat", "ann_id": 52508, "best_split": [3, 1], "split_score": 0.471076667572963}
+{"sent": "whole cat", "ann_id": 52508, "best_split": [3, 1], "split_score": 0.471076667572963}
+{"sent": "cat nearest edge of desk", "ann_id": 52508, "best_split": [3, 1], "split_score": 0.471076667572963}

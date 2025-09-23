@@ -1,0 +1,6 @@
+{"sent": "huge pizza", "ann_id": 1075918, "best_split": [3, 1], "split_score": 0.6482625673150975}
+{"sent": "pizza in pan", "ann_id": 1075918, "best_split": [2, 1], "split_score": 0.6684470662998865}
+{"sent": "pizza still in pan", "ann_id": 1075918, "best_split": [2, 1], "split_score": 0.6684470662998865}
+{"sent": "cut slice", "ann_id": 1075585, "best_split": [5, 1], "split_score": 0.4724750440052499}
+{"sent": "food in air", "ann_id": 1075585, "best_split": [3, 1], "split_score": 0.28662022578493296}
+{"sent": "being pulled out of the bowl", "ann_id": 1075585, "best_split": [1, 2], "split_score": 0.14316716871884277}

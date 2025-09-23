@@ -1,0 +1,5 @@
+{"sent": "elephant in rearmost", "ann_id": 581682, "best_split": [3, 2], "split_score": 0.8153957527973702}
+{"sent": "closest e", "ann_id": 581682, "best_split": [1, 2], "split_score": 0.2693718112137527}
+{"sent": "nearer ellie", "ann_id": 581682, "best_split": [2, 2], "split_score": 0.5387436224060312}
+{"sent": "elephant carrying two guys one girl", "ann_id": 581172, "best_split": [2, 3], "split_score": 0.43609107298962}
+{"sent": "animal behind baby elephant", "ann_id": 581172, "best_split": [2, 3], "split_score": 0.43609107298962}

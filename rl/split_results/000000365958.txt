@@ -1,0 +1,6 @@
+{"sent": "all blue person", "ann_id": 499580, "best_split": [1, 5], "split_score": 0.9955357141847062}
+{"sent": "blue shirt person", "ann_id": 499580, "best_split": [1, 5], "split_score": 0.9955357141847062}
+{"sent": "light blue jacket", "ann_id": 499580, "best_split": [1, 5], "split_score": 0.9955357141847062}
+{"sent": "number 114", "ann_id": 421259, "best_split": [1, 5], "split_score": 0.46270638011592913}
+{"sent": "skier", "ann_id": 421259, "best_split": [1, 5], "split_score": 0.46270638011592913}
+{"sent": "114", "ann_id": 421259, "best_split": [1, 5], "split_score": 0.46270638011592913}

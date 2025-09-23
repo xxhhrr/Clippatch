@@ -1,0 +1,9 @@
+{"sent": "man in blue tee shirt", "ann_id": 1727746, "best_split": [1, 2], "split_score": 0.7678464081466845}
+{"sent": "guy in blue", "ann_id": 1727746, "best_split": [1, 2], "split_score": 0.7678464081466845}
+{"sent": "blue", "ann_id": 1727746, "best_split": [1, 2], "split_score": 0.7678464081466845}
+{"sent": "blondie", "ann_id": 434537, "best_split": [1, 2], "split_score": 0.44663733499539165}
+{"sent": "pink shirt gurl", "ann_id": 434537, "best_split": [1, 3], "split_score": 0.5596940471998797}
+{"sent": "blond", "ann_id": 434537, "best_split": [1, 2], "split_score": 0.44663733499539165}
+{"sent": "ginger", "ann_id": 434347, "best_split": [1, 3], "split_score": 0.9604691313353295}
+{"sent": "redhead", "ann_id": 434347, "best_split": [1, 3], "split_score": 0.9604691313353295}
+{"sent": "girl in green shirt", "ann_id": 434347, "best_split": [1, 3], "split_score": 0.9604691313353295}

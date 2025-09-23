@@ -1,0 +1,5 @@
+{"sent": "small umbrella", "ann_id": 286500, "best_split": [3, 1], "split_score": 0.2670699720675577}
+{"sent": "bright lace", "ann_id": 286500, "best_split": [2, 1], "split_score": 0.3961668299975982}
+{"sent": "smaller one", "ann_id": 286500, "best_split": [2, 3], "split_score": 0.4029531765816363}
+{"sent": "the darker one", "ann_id": 285771, "best_split": [2, 1], "split_score": 0.5136712749503254}
+{"sent": "bigger umbralla", "ann_id": 285771, "best_split": [1, 2], "split_score": 0.5174006775371244}

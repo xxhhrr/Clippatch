@@ -1,0 +1,5 @@
+{"sent": "a chair by the table with a white paper on it its off to the side", "ann_id": 387213, "best_split": [1, 5], "split_score": 0.30005661442724507}
+{"sent": "chair at the other table", "ann_id": 387213, "best_split": [2, 1], "split_score": 0.15632971938152385}
+{"sent": "chair isolated", "ann_id": 387213, "best_split": [1, 5], "split_score": 0.30005661442724507}
+{"sent": "chair closest to you", "ann_id": 373838, "best_split": [3, 2], "split_score": 0.4062052505481855}
+{"sent": "chair closest to us", "ann_id": 373838, "best_split": [3, 2], "split_score": 0.4062052505481855}

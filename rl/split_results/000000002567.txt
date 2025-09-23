@@ -1,0 +1,9 @@
+{"sent": "girl in black behiand girl in gray", "ann_id": 514128, "best_split": [3, 3], "split_score": 0.6486207784675663}
+{"sent": "black in back", "ann_id": 514128, "best_split": [3, 1], "split_score": 0.27182708686798196}
+{"sent": "girl in the far distance", "ann_id": 514128, "best_split": [2, 3], "split_score": 0.37027929032405765}
+{"sent": "lady gray", "ann_id": 494282, "best_split": [3, 2], "split_score": 0.43716112321460215}
+{"sent": "woman in gray hoodie", "ann_id": 494282, "best_split": [3, 2], "split_score": 0.43716112321460215}
+{"sent": "gray", "ann_id": 494282, "best_split": [2, 2], "split_score": 0.3193695313245014}
+{"sent": "black man", "ann_id": 454418, "best_split": [1, 2], "split_score": 0.5262432332293385}
+{"sent": "closest person", "ann_id": 454418, "best_split": [2, 2], "split_score": 0.583112439125591}
+{"sent": "back to camera", "ann_id": 454418, "best_split": [2, 2], "split_score": 0.583112439125591}

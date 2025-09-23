@@ -1,0 +1,7 @@
+{"sent": "aplle with a bite taken out of it", "ann_id": 1049157, "best_split": [1, 5], "split_score": 0.3465851171952011}
+{"sent": "apple with some yellow", "ann_id": 1049157, "best_split": [1, 5], "split_score": 0.3465851171952011}
+{"sent": "lightest apple", "ann_id": 1049157, "best_split": [1, 5], "split_score": 0.3465851171952011}
+{"sent": "apple furthest from carrots", "ann_id": 1049136, "best_split": [1, 2], "split_score": 0.005247893937120291}
+{"sent": "upper apple not missing a chunk", "ann_id": 1049136, "best_split": [1, 5], "split_score": 0.20437196389622034}
+{"sent": "highest apple", "ann_id": 1049136, "best_split": [1, 5], "split_score": 0.20437196389622034}
+{"sent": "reddest apple between fennel and greens", "ann_id": 1049136, "best_split": [3, 3], "split_score": 0.41218424956728317}

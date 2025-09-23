@@ -1,0 +1,12 @@
+{"sent": "lady on bike buggygame", "ann_id": 206988, "best_split": [2, 1], "split_score": 0.1409200968474258}
+{"sent": "chick passenger", "ann_id": 206988, "best_split": [1, 5], "split_score": 0.37997512434857156}
+{"sent": "woman", "ann_id": 206988, "best_split": [1, 2], "split_score": 0.3147321428445977}
+{"sent": "man", "ann_id": 199994, "best_split": [1, 3], "split_score": 0.6435594343435947}
+{"sent": "man", "ann_id": 199994, "best_split": [1, 3], "split_score": 0.6435594343435947}
+{"sent": "guy", "ann_id": 199994, "best_split": [1, 3], "split_score": 0.6435594343435947}
+{"sent": "closest motorcycle", "ann_id": 153689, "best_split": [2, 1], "split_score": 0.37603635202582764}
+{"sent": "bike headlight", "ann_id": 153689, "best_split": [2, 1], "split_score": 0.37603635202582764}
+{"sent": "not the motorcycle with people on it", "ann_id": 153689, "best_split": [2, 1], "split_score": 0.37603635202582764}
+{"sent": "blue bike", "ann_id": 153080, "best_split": [2, 1], "split_score": 0.6072664359673978}
+{"sent": "the bike", "ann_id": 153080, "best_split": [2, 1], "split_score": 0.6072664359673978}
+{"sent": "part of bike that flag is attached to blue and white section", "ann_id": 153080, "best_split": [2, 1], "split_score": 0.6072664359673978}

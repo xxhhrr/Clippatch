@@ -1,0 +1,12 @@
+{"sent": "person behind green shirt wearing black", "ann_id": 2161329, "best_split": [3, 1], "split_score": 0.45485204523200323}
+{"sent": "holding a can of soda", "ann_id": 2161329, "best_split": [1, 2], "split_score": 0.34737083459387913}
+{"sent": "beer can", "ann_id": 2161329, "best_split": [3, 2], "split_score": 0.6804442825309136}
+{"sent": "man holding guitar", "ann_id": 231714, "best_split": [2, 1], "split_score": 0.4717832957012906}
+{"sent": "man holding baby", "ann_id": 231714, "best_split": [1, 2], "split_score": 0.4883974197769876}
+{"sent": "older boy", "ann_id": 231714, "best_split": [1, 2], "split_score": 0.4883974197769876}
+{"sent": "gray shirt in backgrund", "ann_id": 205563, "best_split": [2, 3], "split_score": 0.41047297292344676}
+{"sent": "man in gray shirt beside red shirt", "ann_id": 205563, "best_split": [3, 2], "split_score": 0.3555194804782561}
+{"sent": "man next to lady", "ann_id": 205563, "best_split": [2, 2], "split_score": 0.27120535712123683}
+{"sent": "child", "ann_id": 185546, "best_split": [1, 2], "split_score": 0.49154589370125507}
+{"sent": "toddler", "ann_id": 185546, "best_split": [1, 2], "split_score": 0.49154589370125507}
+{"sent": "kid", "ann_id": 185546, "best_split": [1, 2], "split_score": 0.49154589370125507}

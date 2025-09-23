@@ -1,0 +1,6 @@
+{"sent": "white rv", "ann_id": 398140, "best_split": [5, 1], "split_score": 0.7210991167103926}
+{"sent": "white truck to back", "ann_id": 398140, "best_split": [1, 5], "split_score": 0.13046280777810604}
+{"sent": "white truck", "ann_id": 398140, "best_split": [1, 5], "split_score": 0.13046280777810604}
+{"sent": "big red truck", "ann_id": 396419, "best_split": [1, 2], "split_score": 0.427672614838974}
+{"sent": "the whole truck", "ann_id": 396419, "best_split": [1, 2], "split_score": 0.427672614838974}
+{"sent": "red truck", "ann_id": 396419, "best_split": [1, 2], "split_score": 0.427672614838974}

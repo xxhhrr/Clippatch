@@ -1,0 +1,5 @@
+{"sent": "furthest hotdog bun", "ann_id": 1068560, "best_split": [1, 2], "split_score": 0.34758364311242157}
+{"sent": "other dog", "ann_id": 1068560, "best_split": [1, 3], "split_score": 0.31054060724651616}
+{"sent": "hot dog", "ann_id": 1066940, "best_split": [1, 2], "split_score": 0.4722709680407637}
+{"sent": "open faced hot dog", "ann_id": 1066940, "best_split": [1, 2], "split_score": 0.4722709680407637}
+{"sent": "hotdog", "ann_id": 1066940, "best_split": [1, 2], "split_score": 0.4722709680407637}

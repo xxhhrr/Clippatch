@@ -1,0 +1,6 @@
+{"sent": "large white shirt", "ann_id": 2151245, "best_split": [1, 5], "split_score": 0.36901732202864973}
+{"sent": "photo with umbrella not on floor", "ann_id": 2151245, "best_split": [1, 5], "split_score": 0.36901732202864973}
+{"sent": "toddler under umbrella", "ann_id": 2151245, "best_split": [1, 5], "split_score": 0.36901732202864973}
+{"sent": "partial legs with mitch match shoes", "ann_id": 510823, "best_split": [3, 3], "split_score": 0.5149744337993107}
+{"sent": "all feet", "ann_id": 510823, "best_split": [3, 3], "split_score": 0.5149744337993107}
+{"sent": "only legs", "ann_id": 510823, "best_split": [3, 3], "split_score": 0.5149744337993107}

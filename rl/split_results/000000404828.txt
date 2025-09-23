@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 1282977, "best_split": [1, 5], "split_score": 0.4240052184862543}
+{"sent": "man in blue shirt", "ann_id": 1282977, "best_split": [1, 2], "split_score": 0.21623883927709506}
+{"sent": "man with blue shirt", "ann_id": 1282977, "best_split": [1, 5], "split_score": 0.4240052184862543}
+{"sent": "gret sweatshirt", "ann_id": 1246217, "best_split": [1, 3], "split_score": 0.747466216171123}
+{"sent": "gray hoodie", "ann_id": 1246217, "best_split": [1, 3], "split_score": 0.747466216171123}
+{"sent": "man with back to camera", "ann_id": 1246217, "best_split": [1, 3], "split_score": 0.747466216171123}
+{"sent": "guy facing us", "ann_id": 1294079, "best_split": [1, 2], "split_score": 0.2566167091734448}
+{"sent": "man black jacket and blue jeans", "ann_id": 1294079, "best_split": [1, 2], "split_score": 0.2566167091734448}
+{"sent": "man with blue jacket and red shirt under", "ann_id": 1294079, "best_split": [3, 1], "split_score": 0.13503649634370504}

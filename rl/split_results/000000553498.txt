@@ -1,0 +1,6 @@
+{"sent": "man in blue", "ann_id": 196405, "best_split": [1, 5], "split_score": 0.46611688773161375}
+{"sent": "man with do rag and red frisbee", "ann_id": 196405, "best_split": [1, 5], "split_score": 0.46611688773161375}
+{"sent": "red frisbee guy", "ann_id": 196405, "best_split": [1, 5], "split_score": 0.46611688773161375}
+{"sent": "man looking at dog", "ann_id": 193237, "best_split": [3, 3], "split_score": 0.2612072008164246}
+{"sent": "guy in white", "ann_id": 193237, "best_split": [3, 2], "split_score": 0.36607773847894215}
+{"sent": "white shirt", "ann_id": 193237, "best_split": [3, 2], "split_score": 0.36607773847894215}

@@ -1,0 +1,9 @@
+{"sent": "behind the woman in the hat", "ann_id": 1734318, "best_split": [1, 2], "split_score": 0.5998086734454796}
+{"sent": "man in orange standing firmly", "ann_id": 1734318, "best_split": [1, 5], "split_score": 0.4329113923801547}
+{"sent": "man with arms and legs spread", "ann_id": 1734318, "best_split": [1, 5], "split_score": 0.4329113923801547}
+{"sent": "boy in white cap", "ann_id": 519116, "best_split": [1, 5], "split_score": 0.43318747892686066}
+{"sent": "white shirt catching frisbee", "ann_id": 519116, "best_split": [1, 5], "split_score": 0.43318747892686066}
+{"sent": "boy who threw the frisbee", "ann_id": 519116, "best_split": [1, 5], "split_score": 0.43318747892686066}
+{"sent": "running", "ann_id": 490465, "best_split": [1, 3], "split_score": 0.6764705881952615}
+{"sent": "man running in orange shirt", "ann_id": 490465, "best_split": [1, 3], "split_score": 0.6764705881952615}
+{"sent": "guy running", "ann_id": 490465, "best_split": [1, 3], "split_score": 0.6764705881952615}

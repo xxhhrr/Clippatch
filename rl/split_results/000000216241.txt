@@ -1,0 +1,6 @@
+{"sent": "1 zebra", "ann_id": 588493, "best_split": [3, 3], "split_score": 0.2906453788744496}
+{"sent": "smaller zebra", "ann_id": 588493, "best_split": [5, 1], "split_score": 0.23676206814031334}
+{"sent": "small zebra", "ann_id": 588493, "best_split": [5, 1], "split_score": 0.23676206814031334}
+{"sent": "taller zebra", "ann_id": 588453, "best_split": [2, 2], "split_score": 0.5548854040594929}
+{"sent": "zebra at 3 o clock", "ann_id": 588453, "best_split": [2, 2], "split_score": 0.5548854040594929}
+{"sent": "bigger one", "ann_id": 588453, "best_split": [2, 2], "split_score": 0.5548854040594929}

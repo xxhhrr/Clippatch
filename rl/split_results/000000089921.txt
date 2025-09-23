@@ -1,0 +1,12 @@
+{"sent": "blue shirt", "ann_id": 1723959, "best_split": [1, 5], "split_score": 0.44531249995481814}
+{"sent": "blue shirt hopping", "ann_id": 1723959, "best_split": [1, 5], "split_score": 0.44531249995481814}
+{"sent": "blue shirt", "ann_id": 1723959, "best_split": [1, 5], "split_score": 0.44531249995481814}
+{"sent": "man in white shirt", "ann_id": 568251, "best_split": [1, 5], "split_score": 0.47287433414155905}
+{"sent": "white v neck", "ann_id": 568251, "best_split": [1, 5], "split_score": 0.47287433414155905}
+{"sent": "guy on phone", "ann_id": 568251, "best_split": [1, 5], "split_score": 0.47287433414155905}
+{"sent": "girl in white", "ann_id": 502171, "best_split": [3, 3], "split_score": 0.37100701899856653}
+{"sent": "girl in white by fence", "ann_id": 502171, "best_split": [3, 1], "split_score": 0.14324428957783064}
+{"sent": "young girl in white", "ann_id": 502171, "best_split": [3, 3], "split_score": 0.37100701899856653}
+{"sent": "yellow shirt girl", "ann_id": 455223, "best_split": [1, 5], "split_score": 0.283062644984236}
+{"sent": "yellow shirt", "ann_id": 455223, "best_split": [3, 3], "split_score": 0.17619047616717057}
+{"sent": "girl in yellow", "ann_id": 455223, "best_split": [1, 5], "split_score": 0.283062644984236}

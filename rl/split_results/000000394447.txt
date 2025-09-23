@@ -1,0 +1,6 @@
+{"sent": "guy holding dog", "ann_id": 1728116, "best_split": [1, 2], "split_score": 0.6566634398016385}
+{"sent": "man with glasses", "ann_id": 1728116, "best_split": [1, 2], "split_score": 0.6566634398016385}
+{"sent": "holding hotdog", "ann_id": 1728116, "best_split": [1, 3], "split_score": 0.4421990438819481}
+{"sent": "man behind the other", "ann_id": 446096, "best_split": [2, 1], "split_score": 0.31325301203976835}
+{"sent": "dudes back", "ann_id": 446096, "best_split": [1, 2], "split_score": 0.946428571390847}
+{"sent": "man in back with white towel", "ann_id": 446096, "best_split": [1, 2], "split_score": 0.946428571390847}

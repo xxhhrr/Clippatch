@@ -1,0 +1,6 @@
+{"sent": "part of horse behind person", "ann_id": 273724, "best_split": [3, 1], "split_score": 0.44489377762199683}
+{"sent": "horse", "ann_id": 273724, "best_split": [1, 2], "split_score": 0.4218406593310018}
+{"sent": "partial horse leg", "ann_id": 273724, "best_split": [3, 1], "split_score": 0.44489377762199683}
+{"sent": "horse face", "ann_id": 55720, "best_split": [2, 2], "split_score": 0.6737859711851514}
+{"sent": "horse face close to us", "ann_id": 55720, "best_split": [2, 2], "split_score": 0.6737859711851514}
+{"sent": "horse head", "ann_id": 55720, "best_split": [2, 2], "split_score": 0.6737859711851514}

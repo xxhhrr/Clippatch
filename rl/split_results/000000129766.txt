@@ -1,0 +1,6 @@
+{"sent": "round carton with lid on", "ann_id": 2094145, "best_split": [5, 1], "split_score": 0.14198936976632598}
+{"sent": "a cup with covert at 12 o clock", "ann_id": 2094145, "best_split": [2, 2], "split_score": 0.17346938774127316}
+{"sent": "cup with lid", "ann_id": 2094145, "best_split": [2, 3], "split_score": 0.2247191010972941}
+{"sent": "bottle", "ann_id": 81048, "best_split": [3, 3], "split_score": 0.3490566037187018}
+{"sent": "bottle", "ann_id": 81048, "best_split": [3, 3], "split_score": 0.3490566037187018}
+{"sent": "bottle of wine", "ann_id": 81048, "best_split": [3, 3], "split_score": 0.3490566037187018}

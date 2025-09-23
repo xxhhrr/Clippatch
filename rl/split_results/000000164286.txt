@@ -1,0 +1,8 @@
+{"sent": "closest blue cake", "ann_id": 1578064, "best_split": [3, 3], "split_score": 0.45379839290471174}
+{"sent": "blue in absolute corner", "ann_id": 1578064, "best_split": [3, 3], "split_score": 0.45379839290471174}
+{"sent": "pink cake closest", "ann_id": 1578032, "best_split": [1, 2], "split_score": 0.635448974936249}
+{"sent": "cakes without caption bubble", "ann_id": 1578032, "best_split": [1, 2], "split_score": 0.635448974936249}
+{"sent": "hello kitty cake without bubble", "ann_id": 1578032, "best_split": [1, 2], "split_score": 0.635448974936249}
+{"sent": "cake with price", "ann_id": 1577901, "best_split": [3, 1], "split_score": 0.2824355971731595}
+{"sent": "one with the sign", "ann_id": 1577901, "best_split": [3, 2], "split_score": 0.5486806186819062}
+{"sent": "hello kitty cake with a bubble and words coming off of it", "ann_id": 1577901, "best_split": [3, 1], "split_score": 0.2824355971731595}

@@ -1,0 +1,9 @@
+{"sent": "the guy with the glove", "ann_id": 1730671, "best_split": [3, 1], "split_score": 0.2714952482555533}
+{"sent": "catcher", "ann_id": 1730671, "best_split": [3, 2], "split_score": 0.5084781463392861}
+{"sent": "catcher", "ann_id": 1730671, "best_split": [3, 2], "split_score": 0.5084781463392861}
+{"sent": "umpire", "ann_id": 460201, "best_split": [2, 1], "split_score": 0.1383248730909611}
+{"sent": "umpire", "ann_id": 460201, "best_split": [2, 1], "split_score": 0.1383248730909611}
+{"sent": "ump", "ann_id": 460201, "best_split": [2, 1], "split_score": 0.1383248730909611}
+{"sent": "batter", "ann_id": 444811, "best_split": [2, 3], "split_score": 0.3651381583550531}
+{"sent": "batter", "ann_id": 444811, "best_split": [2, 3], "split_score": 0.3651381583550531}
+{"sent": "batter", "ann_id": 444811, "best_split": [2, 3], "split_score": 0.3651381583550531}

@@ -1,0 +1,8 @@
+{"sent": "fruit in bowl", "ann_id": 1912615, "best_split": [3, 3], "split_score": 0.6039366297882937}
+{"sent": "largest group of oranges", "ann_id": 1912615, "best_split": [2, 3], "split_score": 0.45154343140240993}
+{"sent": "oranges in bowl", "ann_id": 1912615, "best_split": [2, 3], "split_score": 0.45154343140240993}
+{"sent": "this one is dumb its one of the oranges its kind of oval idk this one is just bad", "ann_id": 1555930, "best_split": [3, 3], "split_score": 0.5811965811045906}
+{"sent": "2orange", "ann_id": 1555930, "best_split": [3, 3], "split_score": 0.5811965811045906}
+{"sent": "orange closest to us", "ann_id": 1053830, "best_split": [1, 5], "split_score": 0.3471472468775727}
+{"sent": "cloeset orange", "ann_id": 1053830, "best_split": [1, 5], "split_score": 0.3471472468775727}
+{"sent": "closest orange", "ann_id": 1053830, "best_split": [1, 5], "split_score": 0.3471472468775727}

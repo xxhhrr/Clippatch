@@ -1,0 +1,6 @@
+{"sent": "small laptop on green matt", "ann_id": 1970760, "best_split": [3, 3], "split_score": 0.6732656794754174}
+{"sent": "smaller laptop on green mousepad", "ann_id": 1970760, "best_split": [3, 3], "split_score": 0.6732656794754174}
+{"sent": "laptop sitting on green mat", "ann_id": 1970760, "best_split": [3, 3], "split_score": 0.6732656794754174}
+{"sent": "whitest notebook", "ann_id": 1970203, "best_split": [2, 2], "split_score": 0.7476800706475416}
+{"sent": "closest laptop", "ann_id": 1970203, "best_split": [3, 1], "split_score": 0.18925633995076865}
+{"sent": "white laptop", "ann_id": 1970203, "best_split": [2, 2], "split_score": 0.7476800706475416}

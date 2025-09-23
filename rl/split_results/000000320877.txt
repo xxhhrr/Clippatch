@@ -1,0 +1,6 @@
+{"sent": "zebra that is cut off", "ann_id": 1822801, "best_split": [3, 2], "split_score": 0.4422145328282536}
+{"sent": "zebra whose face you cant see", "ann_id": 1822801, "best_split": [3, 2], "split_score": 0.4422145328282536}
+{"sent": "half zebra", "ann_id": 1822801, "best_split": [3, 2], "split_score": 0.4422145328282536}
+{"sent": "zebra eaten grass", "ann_id": 588333, "best_split": [3, 1], "split_score": 0.4817708333163791}
+{"sent": "full zebra", "ann_id": 588333, "best_split": [3, 1], "split_score": 0.4817708333163791}
+{"sent": "main zebra", "ann_id": 588333, "best_split": [3, 1], "split_score": 0.4817708333163791}

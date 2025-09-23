@@ -1,0 +1,9 @@
+{"sent": "man serving", "ann_id": 233971, "best_split": [1, 3], "split_score": 0.3290241431002053}
+{"sent": "bow tie dude", "ann_id": 233971, "best_split": [2, 1], "split_score": 0.30494505493650637}
+{"sent": "man standing", "ann_id": 233971, "best_split": [1, 2], "split_score": 0.7486195108843161}
+{"sent": "person sitting with candle", "ann_id": 213603, "best_split": [2, 3], "split_score": 0.6510263929022153}
+{"sent": "man cut off by edge with candle", "ann_id": 213603, "best_split": [2, 3], "split_score": 0.6510263929022153}
+{"sent": "man in glasses", "ann_id": 213603, "best_split": [1, 3], "split_score": 0.5868725868371819}
+{"sent": "woman holding tray", "ann_id": 193451, "best_split": [1, 3], "split_score": 0.47939612606915133}
+{"sent": "waiter with tray by man in suit", "ann_id": 193451, "best_split": [1, 3], "split_score": 0.47939612606915133}
+{"sent": "woman holding tray", "ann_id": 193451, "best_split": [1, 3], "split_score": 0.47939612606915133}

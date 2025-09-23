@@ -1,0 +1,6 @@
+{"sent": "beard", "ann_id": 507284, "best_split": [3, 3], "split_score": 0.5858018385360314}
+{"sent": "bearded man", "ann_id": 507284, "best_split": [3, 3], "split_score": 0.5858018385360314}
+{"sent": "man with black shirt and beard", "ann_id": 507284, "best_split": [3, 3], "split_score": 0.5858018385360314}
+{"sent": "man typing on table", "ann_id": 470131, "best_split": [5, 1], "split_score": 0.24616580675339841}
+{"sent": "guy with gray hoodie on laptop", "ann_id": 470131, "best_split": [3, 3], "split_score": 0.43079248537780257}
+{"sent": "guy typing", "ann_id": 470131, "best_split": [3, 3], "split_score": 0.43079248537780257}

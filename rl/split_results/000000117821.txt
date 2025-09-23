@@ -1,0 +1,9 @@
+{"sent": "blue empty hand", "ann_id": 222081, "best_split": [1, 3], "split_score": 0.1803209459350675}
+{"sent": "light blue shirt", "ann_id": 222081, "best_split": [3, 3], "split_score": 0.43062362676514726}
+{"sent": "boy making face", "ann_id": 222081, "best_split": [2, 2], "split_score": 0.17407407406091654}
+{"sent": "red shirt", "ann_id": 1712757, "best_split": [3, 3], "split_score": 0.3910171729869522}
+{"sent": "red shirt kid", "ann_id": 1712757, "best_split": [3, 3], "split_score": 0.3910171729869522}
+{"sent": "red shirt", "ann_id": 1712757, "best_split": [3, 3], "split_score": 0.3910171729869522}
+{"sent": "boy close by with pizza in mouth", "ann_id": 193961, "best_split": [2, 3], "split_score": 0.33343340334900096}
+{"sent": "fat bpy eating on side", "ann_id": 193961, "best_split": [2, 3], "split_score": 0.33343340334900096}
+{"sent": "closest boy", "ann_id": 193961, "best_split": [5, 1], "split_score": 0.2560512777046427}

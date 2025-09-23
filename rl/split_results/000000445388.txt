@@ -1,0 +1,12 @@
+{"sent": "red cap", "ann_id": 188084, "best_split": [2, 3], "split_score": 0.5335051545900676}
+{"sent": "guy in blue jacket and reddish hat", "ann_id": 188084, "best_split": [2, 3], "split_score": 0.5335051545900676}
+{"sent": "man", "ann_id": 188084, "best_split": [2, 3], "split_score": 0.5335051545900676}
+{"sent": "blue bus with number 75 on it", "ann_id": 165807, "best_split": [1, 5], "split_score": 0.2678571428299658}
+{"sent": "blue bus 75", "ann_id": 165807, "best_split": [1, 5], "split_score": 0.2678571428299658}
+{"sent": "blue bus", "ann_id": 165807, "best_split": [1, 5], "split_score": 0.2678571428299658}
+{"sent": "big bus", "ann_id": 164671, "best_split": [3, 3], "split_score": 0.6231933537472182}
+{"sent": "frony bus", "ann_id": 164671, "best_split": [3, 3], "split_score": 0.6231933537472182}
+{"sent": "bus nearest white car in street", "ann_id": 164671, "best_split": [3, 3], "split_score": 0.6231933537472182}
+{"sent": "person with backpack", "ann_id": 221275, "best_split": [2, 3], "split_score": 0.5992911609280108}
+{"sent": "white cap", "ann_id": 221275, "best_split": [2, 2], "split_score": 0.5263871173049754}
+{"sent": "white hat", "ann_id": 221275, "best_split": [2, 3], "split_score": 0.5992911609280108}

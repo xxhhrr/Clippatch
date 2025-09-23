@@ -1,0 +1,6 @@
+{"sent": "guy without a shirt", "ann_id": 1248268, "best_split": [1, 5], "split_score": 0.45882352936715376}
+{"sent": "shirtless man", "ann_id": 1248268, "best_split": [1, 5], "split_score": 0.45882352936715376}
+{"sent": "shirtless guy", "ann_id": 1248268, "best_split": [1, 5], "split_score": 0.45882352936715376}
+{"sent": "white shirt skatebaording", "ann_id": 1243774, "best_split": [1, 5], "split_score": 0.5923495217895791}
+{"sent": "skateboard guy with shirt", "ann_id": 1243774, "best_split": [2, 2], "split_score": 0.2770708906597591}
+{"sent": "black guy", "ann_id": 1243774, "best_split": [1, 5], "split_score": 0.5923495217895791}

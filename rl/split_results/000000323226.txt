@@ -1,0 +1,10 @@
+{"sent": "black screen under green screen with screw", "ann_id": 34994, "best_split": [1, 5], "split_score": 0.22568469948459452}
+{"sent": "black under tv", "ann_id": 34994, "best_split": [3, 3], "split_score": 0.4984626513838917}
+{"sent": "the screen", "ann_id": 29152, "best_split": [1, 5], "split_score": 0.463326071127149}
+{"sent": "tv screen", "ann_id": 29152, "best_split": [1, 5], "split_score": 0.463326071127149}
+{"sent": "screen", "ann_id": 29152, "best_split": [3, 3], "split_score": 0.5016628293039571}
+{"sent": "the plant that is closest to the tv", "ann_id": 25277, "best_split": [3, 3], "split_score": 0.5218908628613752}
+{"sent": "plant on floor", "ann_id": 25277, "best_split": [2, 3], "split_score": 0.3679567757891767}
+{"sent": "funny looking thing by bookcase", "ann_id": 25277, "best_split": [3, 1], "split_score": 0.24407839363688358}
+{"sent": "plant on shelf", "ann_id": 19549, "best_split": [2, 3], "split_score": 0.29719963862949417}
+{"sent": "highest plant", "ann_id": 19549, "best_split": [3, 3], "split_score": 0.33641404800732994}

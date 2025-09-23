@@ -1,0 +1,6 @@
+{"sent": "truck behind oranges", "ann_id": 394422, "best_split": [1, 5], "split_score": 0.3516330784962098}
+{"sent": "truck with blue tarp", "ann_id": 394422, "best_split": [2, 3], "split_score": 0.6882239381408995}
+{"sent": "white truckalso please work faster", "ann_id": 394422, "best_split": [2, 1], "split_score": 0.22735969386848853}
+{"sent": "white van", "ann_id": 2052450, "best_split": [2, 2], "split_score": 0.505049384058093}
+{"sent": "van", "ann_id": 2052450, "best_split": [2, 2], "split_score": 0.505049384058093}
+{"sent": "van", "ann_id": 2052450, "best_split": [2, 2], "split_score": 0.505049384058093}

@@ -1,0 +1,5 @@
+{"sent": "piece with spinach next to cheese", "ann_id": 1076172, "best_split": [2, 1], "split_score": 0.44055109069022846}
+{"sent": "half of the pizza", "ann_id": 1076172, "best_split": [2, 1], "split_score": 0.44055109069022846}
+{"sent": "most of the pizza not by blue spot on edge of screen", "ann_id": 1076172, "best_split": [2, 1], "split_score": 0.44055109069022846}
+{"sent": "cheese on the basil", "ann_id": 1073246, "best_split": [3, 2], "split_score": 0.5529487385061105}
+{"sent": "cheese ball on leaf", "ann_id": 1073246, "best_split": [2, 2], "split_score": 0.4360348291763968}

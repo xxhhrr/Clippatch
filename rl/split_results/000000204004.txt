@@ -1,0 +1,9 @@
+{"sent": "man in black coat and white hat", "ann_id": 1256270, "best_split": [2, 1], "split_score": 0.09354330708293136}
+{"sent": "guy with white cap and blue gloves", "ann_id": 1256270, "best_split": [1, 5], "split_score": 0.23076923074658856}
+{"sent": "white hat blue gloves", "ann_id": 1256270, "best_split": [1, 5], "split_score": 0.23076923074658856}
+{"sent": "white and yellow", "ann_id": 1251607, "best_split": [1, 5], "split_score": 0.5040871934114356}
+{"sent": "white coat", "ann_id": 1251607, "best_split": [1, 5], "split_score": 0.5040871934114356}
+{"sent": "guy white and yellow coat", "ann_id": 1251607, "best_split": [1, 5], "split_score": 0.5040871934114356}
+{"sent": "in full blue", "ann_id": 1229795, "best_split": [3, 3], "split_score": 0.4799694772376994}
+{"sent": "blue snowsuit", "ann_id": 1229795, "best_split": [3, 3], "split_score": 0.4799694772376994}
+{"sent": "blue skier", "ann_id": 1229795, "best_split": [3, 3], "split_score": 0.4799694772376994}

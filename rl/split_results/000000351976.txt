@@ -1,0 +1,6 @@
+{"sent": "trunk with two ws", "ann_id": 1844007, "best_split": [1, 3], "split_score": 0.08796193847709881}
+{"sent": "box with ww", "ann_id": 1844007, "best_split": [2, 2], "split_score": 0.17921255089913918}
+{"sent": "the luggage sitting in between the shelves thats brown", "ann_id": 1844007, "best_split": [1, 3], "split_score": 0.08796193847709881}
+{"sent": "2 lugguges on ground and big chest not circle luggage", "ann_id": 1186721, "best_split": [2, 3], "split_score": 0.5136145221177931}
+{"sent": "two bags", "ann_id": 1186721, "best_split": [2, 3], "split_score": 0.5136145221177931}
+{"sent": "trunk on floor either", "ann_id": 1186721, "best_split": [2, 3], "split_score": 0.5136145221177931}

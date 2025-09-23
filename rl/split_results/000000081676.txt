@@ -1,0 +1,6 @@
+{"sent": "person with red hat with hand up to face", "ann_id": 213323, "best_split": [3, 1], "split_score": 0.13641950019784824}
+{"sent": "person withut stick", "ann_id": 213323, "best_split": [2, 1], "split_score": 0.05963556046177403}
+{"sent": "person not holding stick", "ann_id": 213323, "best_split": [2, 1], "split_score": 0.05963556046177403}
+{"sent": "shortest man", "ann_id": 204865, "best_split": [1, 5], "split_score": 0.452922077876124}
+{"sent": "person not touching their red turban", "ann_id": 204865, "best_split": [1, 5], "split_score": 0.452922077876124}
+{"sent": "man in foreground", "ann_id": 204865, "best_split": [3, 3], "split_score": 0.24125874122861404}

@@ -1,0 +1,6 @@
+{"sent": "red bus side view", "ann_id": 168658, "best_split": [5, 1], "split_score": 0.2054054053855786}
+{"sent": "bus on other street", "ann_id": 168658, "best_split": [5, 1], "split_score": 0.2054054053855786}
+{"sent": "bus furthest from you", "ann_id": 168658, "best_split": [5, 1], "split_score": 0.2054054053855786}
+{"sent": "coller row", "ann_id": 168313, "best_split": [3, 2], "split_score": 0.3910624883746465}
+{"sent": "bus", "ann_id": 168313, "best_split": [3, 3], "split_score": 0.4611697027251714}
+{"sent": "bus infront", "ann_id": 168313, "best_split": [3, 3], "split_score": 0.4611697027251714}

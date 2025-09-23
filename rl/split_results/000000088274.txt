@@ -1,0 +1,9 @@
+{"sent": "curly hair to side", "ann_id": 523001, "best_split": [1, 5], "split_score": 0.5227272726742362}
+{"sent": "woman standing in dark jacket", "ann_id": 523001, "best_split": [1, 2], "split_score": 0.20535714284895737}
+{"sent": "dark shirt at 900", "ann_id": 523001, "best_split": [2, 2], "split_score": 0.19470699431577726}
+{"sent": "man brown shirt", "ann_id": 522440, "best_split": [1, 3], "split_score": 0.6544434857282979}
+{"sent": "brown shirt", "ann_id": 522440, "best_split": [1, 3], "split_score": 0.6544434857282979}
+{"sent": "tan sweater", "ann_id": 522440, "best_split": [1, 3], "split_score": 0.6544434857282979}
+{"sent": "woman looking down", "ann_id": 495540, "best_split": [1, 3], "split_score": 0.4475848488099395}
+{"sent": "woman in white jacket", "ann_id": 495540, "best_split": [1, 2], "split_score": 0.33553890304785}
+{"sent": "gray shirt", "ann_id": 495540, "best_split": [2, 1], "split_score": 0.1460528115971387}

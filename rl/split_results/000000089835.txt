@@ -1,0 +1,4 @@
+{"sent": "chair at birds 100", "ann_id": 103984, "best_split": [2, 1], "split_score": 0.2727063428032489}
+{"sent": "prominent chair", "ann_id": 101624, "best_split": [1, 2], "split_score": 0.6079329193083612}
+{"sent": "bigger chair", "ann_id": 101624, "best_split": [1, 2], "split_score": 0.6079329193083612}
+{"sent": "chair with small sign", "ann_id": 101624, "best_split": [1, 2], "split_score": 0.6079329193083612}

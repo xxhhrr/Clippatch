@@ -1,0 +1,12 @@
+{"sent": "sandwich closest to spoon", "ann_id": 1554339, "best_split": [2, 2], "split_score": 0.2882311030320467}
+{"sent": "melted sandwich", "ann_id": 1554339, "best_split": [2, 2], "split_score": 0.2882311030320467}
+{"sent": "sandwich next to soup", "ann_id": 1554339, "best_split": [3, 3], "split_score": 0.34462506551183797}
+{"sent": "sandwhich by glass", "ann_id": 1554098, "best_split": [3, 3], "split_score": 0.5571302036584223}
+{"sent": "less gooey sandwich half", "ann_id": 1554098, "best_split": [3, 3], "split_score": 0.5571302036584223}
+{"sent": "sandwich 9 o clock", "ann_id": 1554098, "best_split": [3, 3], "split_score": 0.5571302036584223}
+{"sent": "glass with ice", "ann_id": 681607, "best_split": [3, 3], "split_score": 0.2740279413778778}
+{"sent": "glass of water by bowl", "ann_id": 681607, "best_split": [3, 3], "split_score": 0.2740279413778778}
+{"sent": "glass next to bowl", "ann_id": 681607, "best_split": [3, 3], "split_score": 0.2740279413778778}
+{"sent": "gravy", "ann_id": 678207, "best_split": [2, 2], "split_score": 0.7188948306168215}
+{"sent": "pudding", "ann_id": 678207, "best_split": [2, 2], "split_score": 0.7188948306168215}
+{"sent": "bowl", "ann_id": 678207, "best_split": [2, 2], "split_score": 0.7188948306168215}

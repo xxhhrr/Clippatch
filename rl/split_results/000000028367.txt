@@ -1,0 +1,6 @@
+{"sent": "smaller elephant", "ann_id": 582345, "best_split": [2, 2], "split_score": 0.6675310344459293}
+{"sent": "attacking his dad", "ann_id": 582345, "best_split": [2, 2], "split_score": 0.6675310344459293}
+{"sent": "smaller elephant", "ann_id": 582345, "best_split": [2, 2], "split_score": 0.6675310344459293}
+{"sent": "bigger one", "ann_id": 581743, "best_split": [3, 1], "split_score": 0.2853470436918868}
+{"sent": "big", "ann_id": 581743, "best_split": [1, 2], "split_score": 0.6561863172978099}
+{"sent": "big elephant", "ann_id": 581743, "best_split": [1, 2], "split_score": 0.6561863172978099}

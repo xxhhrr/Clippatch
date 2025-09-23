@@ -1,0 +1,9 @@
+{"sent": "man in suit", "ann_id": 539754, "best_split": [1, 5], "split_score": 0.38384037925880676}
+{"sent": "man on side", "ann_id": 539754, "best_split": [1, 2], "split_score": 0.16557716836074707}
+{"sent": "suit guy", "ann_id": 539754, "best_split": [1, 5], "split_score": 0.38384037925880676}
+{"sent": "taller person", "ann_id": 520651, "best_split": [1, 2], "split_score": 0.3405612244762212}
+{"sent": "woman", "ann_id": 520651, "best_split": [1, 5], "split_score": 0.6058648978350615}
+{"sent": "taller girl", "ann_id": 520651, "best_split": [1, 2], "split_score": 0.3405612244762212}
+{"sent": "white outfit no hat", "ann_id": 519517, "best_split": [1, 3], "split_score": 0.34097490345433307}
+{"sent": "woman with button up shirt", "ann_id": 519517, "best_split": [1, 3], "split_score": 0.34097490345433307}
+{"sent": "woman or man with no hat holding rackets", "ann_id": 519517, "best_split": [1, 3], "split_score": 0.34097490345433307}

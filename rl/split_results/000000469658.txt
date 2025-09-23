@@ -1,0 +1,6 @@
+{"sent": "truck on trailer", "ann_id": 1800041, "best_split": [3, 2], "split_score": 0.4177057356236457}
+{"sent": "truck on the truck", "ann_id": 1800041, "best_split": [3, 2], "split_score": 0.4177057356236457}
+{"sent": "being towed", "ann_id": 1800041, "best_split": [3, 2], "split_score": 0.4177057356236457}
+{"sent": "leading truck", "ann_id": 1799484, "best_split": [1, 2], "split_score": 0.3979084042640789}
+{"sent": "big truck closer to you", "ann_id": 1799484, "best_split": [1, 2], "split_score": 0.3979084042640789}
+{"sent": "closest", "ann_id": 1799484, "best_split": [1, 2], "split_score": 0.3979084042640789}

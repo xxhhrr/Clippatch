@@ -1,0 +1,11 @@
+{"sent": "pizza next to man in the center", "ann_id": 1570337, "best_split": [2, 2], "split_score": 0.3533375117241196}
+{"sent": "pie at 200", "ann_id": 1570337, "best_split": [2, 2], "split_score": 0.3533375117241196}
+{"sent": "fourth pizza in order", "ann_id": 1570337, "best_split": [2, 2], "split_score": 0.3533375117241196}
+{"sent": "pizza closest to a corner", "ann_id": 1570057, "best_split": [2, 1], "split_score": 0.1041533800978893}
+{"sent": "pizza directly above tip jar", "ann_id": 1570057, "best_split": [2, 1], "split_score": 0.1041533800978893}
+{"sent": "pizza behind can of money", "ann_id": 1570057, "best_split": [2, 1], "split_score": 0.1041533800978893}
+{"sent": "pizza over coke", "ann_id": 1077442, "best_split": [3, 3], "split_score": 0.5976608186260729}
+{"sent": "closest pizza to hand", "ann_id": 1077442, "best_split": [3, 3], "split_score": 0.5976608186260729}
+{"sent": "main pizza", "ann_id": 1077442, "best_split": [3, 3], "split_score": 0.5976608186260729}
+{"sent": "pizza by napkin holdre", "ann_id": 1076558, "best_split": [3, 2], "split_score": 0.3818388194799275}
+{"sent": "pizza most near white paper plate", "ann_id": 1076558, "best_split": [3, 2], "split_score": 0.3818388194799275}

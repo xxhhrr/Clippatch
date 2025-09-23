@@ -1,0 +1,6 @@
+{"sent": "elephant in back", "ann_id": 584435, "best_split": [2, 1], "split_score": 0.6486766581374093}
+{"sent": "elephant that cant see head", "ann_id": 584435, "best_split": [2, 1], "split_score": 0.6486766581374093}
+{"sent": "looking away upper", "ann_id": 584435, "best_split": [1, 2], "split_score": 0.38200407630117933}
+{"sent": "the elephant", "ann_id": 584049, "best_split": [1, 2], "split_score": 0.5048751168523816}
+{"sent": "elephant holding grass", "ann_id": 584049, "best_split": [1, 2], "split_score": 0.5048751168523816}
+{"sent": "elephant", "ann_id": 584049, "best_split": [1, 2], "split_score": 0.5048751168523816}

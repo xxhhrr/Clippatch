@@ -1,0 +1,6 @@
+{"sent": "the person you can only see an arm", "ann_id": 203907, "best_split": [2, 1], "split_score": 0.19133413689680473}
+{"sent": "man cut off", "ann_id": 203907, "best_split": [1, 2], "split_score": 0.49705038263324897}
+{"sent": "person out of frame black shirt white apron", "ann_id": 203907, "best_split": [1, 2], "split_score": 0.49705038263324897}
+{"sent": "man bent making pizza", "ann_id": 191399, "best_split": [1, 3], "split_score": 0.3982263513273271}
+{"sent": "chef standing", "ann_id": 191399, "best_split": [1, 5], "split_score": 0.642907057937216}
+{"sent": "far man", "ann_id": 191399, "best_split": [1, 5], "split_score": 0.642907057937216}

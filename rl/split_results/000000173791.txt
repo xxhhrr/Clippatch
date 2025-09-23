@@ -1,0 +1,9 @@
+{"sent": "batter", "ann_id": 1251336, "best_split": [1, 5], "split_score": 0.45257142853448395}
+{"sent": "batter", "ann_id": 1251336, "best_split": [1, 5], "split_score": 0.45257142853448395}
+{"sent": "batter", "ann_id": 1251336, "best_split": [1, 5], "split_score": 0.45257142853448395}
+{"sent": "catcher", "ann_id": 475528, "best_split": [5, 1], "split_score": 0.1592994863888777}
+{"sent": "catcher", "ann_id": 475528, "best_split": [5, 1], "split_score": 0.1592994863888777}
+{"sent": "catcher", "ann_id": 475528, "best_split": [5, 1], "split_score": 0.1592994863888777}
+{"sent": "the umpire of the baseball game", "ann_id": 464482, "best_split": [3, 3], "split_score": 0.38230846769376153}
+{"sent": "umpire all black", "ann_id": 464482, "best_split": [3, 3], "split_score": 0.38230846769376153}
+{"sent": "umpire", "ann_id": 464482, "best_split": [3, 3], "split_score": 0.38230846769376153}

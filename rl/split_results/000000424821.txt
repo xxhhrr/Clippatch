@@ -1,0 +1,12 @@
+{"sent": "kid behind the batter", "ann_id": 1246889, "best_split": [3, 1], "split_score": 0.2736656179128075}
+{"sent": "boy runner", "ann_id": 1246889, "best_split": [3, 3], "split_score": 0.2561628028683349}
+{"sent": "boy running", "ann_id": 1246889, "best_split": [1, 3], "split_score": 0.16106470765014266}
+{"sent": "player on bench with legs crossed and red socks", "ann_id": 2190953, "best_split": [3, 2], "split_score": 0.5465890182378668}
+{"sent": "spectator with legs crossed", "ann_id": 2190953, "best_split": [3, 1], "split_score": 0.27535624474462}
+{"sent": "person in stands with legs crossed", "ann_id": 2190953, "best_split": [3, 3], "split_score": 0.7975330395070426}
+{"sent": "blue shirt grandpa in bleachers", "ann_id": 1708027, "best_split": [2, 3], "split_score": 0.42369308595871696}
+{"sent": "blue shirt black pants gray hair", "ann_id": 1708027, "best_split": [2, 3], "split_score": 0.42369308595871696}
+{"sent": "guy in blue shift holding hands", "ann_id": 1708027, "best_split": [3, 3], "split_score": 0.4822616407313939}
+{"sent": "boy in red", "ann_id": 464942, "best_split": [1, 3], "split_score": 0.5294229128906746}
+{"sent": "player", "ann_id": 464942, "best_split": [1, 3], "split_score": 0.5294229128906746}
+{"sent": "batter", "ann_id": 464942, "best_split": [1, 3], "split_score": 0.5294229128906746}

@@ -1,0 +1,12 @@
+{"sent": "large white box the two people are looking at", "ann_id": 1647394, "best_split": [2, 1], "split_score": 0.3649479750758153}
+{"sent": "wall by mans head", "ann_id": 1647394, "best_split": [2, 2], "split_score": 0.7089187767143348}
+{"sent": "appliance above man", "ann_id": 1647394, "best_split": [2, 1], "split_score": 0.3649479750758153}
+{"sent": "the white thing with the blue hand sign", "ann_id": 333200, "best_split": [2, 1], "split_score": 0.4386090954652414}
+{"sent": "appliance near girl", "ann_id": 333200, "best_split": [2, 2], "split_score": 0.665395095327557}
+{"sent": "air conditioner", "ann_id": 333200, "best_split": [2, 2], "split_score": 0.665395095327557}
+{"sent": "purple", "ann_id": 224707, "best_split": [2, 2], "split_score": 0.526303906043898}
+{"sent": "purple clothes", "ann_id": 224707, "best_split": [2, 2], "split_score": 0.526303906043898}
+{"sent": "purple person", "ann_id": 224707, "best_split": [2, 2], "split_score": 0.526303906043898}
+{"sent": "guy in apron", "ann_id": 196810, "best_split": [2, 1], "split_score": 0.11209043877830754}
+{"sent": "person in red apron", "ann_id": 196810, "best_split": [2, 1], "split_score": 0.11209043877830754}
+{"sent": "brown shirt", "ann_id": 196810, "best_split": [2, 2], "split_score": 0.6878418173755729}

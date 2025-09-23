@@ -1,0 +1,12 @@
+{"sent": "cake slice with silverware", "ann_id": 1085493, "best_split": [3, 1], "split_score": 0.19952195995222455}
+{"sent": "the piece closest", "ann_id": 1085493, "best_split": [3, 3], "split_score": 0.5408653845225162}
+{"sent": "slice of cake behind lollipop", "ann_id": 1085493, "best_split": [3, 1], "split_score": 0.19952195995222455}
+{"sent": "cake with piece missing", "ann_id": 1085408, "best_split": [2, 2], "split_score": 0.48444139818475385}
+{"sent": "main cake with a slice missing", "ann_id": 1085408, "best_split": [3, 2], "split_score": 0.472001353368973}
+{"sent": "whole cake", "ann_id": 1085408, "best_split": [2, 2], "split_score": 0.48444139818475385}
+{"sent": "purple stuff in the bottle blurry", "ann_id": 93691, "best_split": [3, 2], "split_score": 0.29910714282105366}
+{"sent": "purple bottle", "ann_id": 93691, "best_split": [3, 2], "split_score": 0.29910714282105366}
+{"sent": "car of purple", "ann_id": 93691, "best_split": [1, 5], "split_score": 0.2103817093307446}
+{"sent": "glass jar of green looking stuff perhaps kiwi", "ann_id": 90083, "best_split": [3, 3], "split_score": 0.534755677815768}
+{"sent": "jar with green", "ann_id": 90083, "best_split": [3, 3], "split_score": 0.534755677815768}
+{"sent": "green items in jar", "ann_id": 90083, "best_split": [3, 3], "split_score": 0.534755677815768}

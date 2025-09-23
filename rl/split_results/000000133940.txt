@@ -1,0 +1,9 @@
+{"sent": "fifty shirt", "ann_id": 1718570, "best_split": [1, 5], "split_score": 0.7315270935317094}
+{"sent": "boy in red watching", "ann_id": 1718570, "best_split": [1, 5], "split_score": 0.7315270935317094}
+{"sent": "boy in red", "ann_id": 1718570, "best_split": [3, 3], "split_score": 0.327320034663719}
+{"sent": "guy in blue jacket", "ann_id": 525466, "best_split": [1, 3], "split_score": 0.6060623070106055}
+{"sent": "purple girl no glasses", "ann_id": 525466, "best_split": [1, 2], "split_score": 0.4797512754910813}
+{"sent": "hoodie boy", "ann_id": 525466, "best_split": [1, 2], "split_score": 0.4797512754910813}
+{"sent": "harry potter lookalike", "ann_id": 512375, "best_split": [1, 3], "split_score": 0.5018049323402785}
+{"sent": "person blowing out candle", "ann_id": 512375, "best_split": [1, 3], "split_score": 0.5018049323402785}
+{"sent": "blowing candle", "ann_id": 512375, "best_split": [1, 3], "split_score": 0.5018049323402785}

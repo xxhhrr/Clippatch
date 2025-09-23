@@ -1,0 +1,11 @@
+{"sent": "wine nearest score", "ann_id": 667676, "best_split": [1, 2], "split_score": 0.4821428571236391}
+{"sent": "a glass of wine", "ann_id": 667676, "best_split": [1, 3], "split_score": 0.2947976878479589}
+{"sent": "alightly fuller glass", "ann_id": 667676, "best_split": [1, 2], "split_score": 0.4821428571236391}
+{"sent": "wine glass 700", "ann_id": 667513, "best_split": [2, 2], "split_score": 0.4156359922605449}
+{"sent": "glass near the bread", "ann_id": 667513, "best_split": [1, 5], "split_score": 0.5911949685112068}
+{"sent": "wine glass closest to bread", "ann_id": 667513, "best_split": [2, 2], "split_score": 0.4156359922605449}
+{"sent": "bottle behind other bottle", "ann_id": 88164, "best_split": [1, 3], "split_score": 0.3156576200229253}
+{"sent": "bottle furthest", "ann_id": 88164, "best_split": [1, 3], "split_score": 0.3156576200229253}
+{"sent": "closest wine bottle", "ann_id": 84101, "best_split": [1, 5], "split_score": 0.7594710151377676}
+{"sent": "wine bottle behind glasses", "ann_id": 84101, "best_split": [1, 5], "split_score": 0.7594710151377676}
+{"sent": "bottle behind glasses", "ann_id": 84101, "best_split": [1, 5], "split_score": 0.7594710151377676}

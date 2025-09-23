@@ -1,0 +1,6 @@
+{"sent": "the man without a computer", "ann_id": 469531, "best_split": [1, 2], "split_score": 0.5572864158002768}
+{"sent": "man looking at the laptop not holding it", "ann_id": 469531, "best_split": [1, 2], "split_score": 0.5572864158002768}
+{"sent": "person not holding laptop", "ann_id": 469531, "best_split": [1, 2], "split_score": 0.5572864158002768}
+{"sent": "typist", "ann_id": 458630, "best_split": [1, 2], "split_score": 0.4591875394557106}
+{"sent": "guy with laptop", "ann_id": 458630, "best_split": [2, 1], "split_score": 0.5399960014985451}
+{"sent": "darker boy", "ann_id": 458630, "best_split": [1, 2], "split_score": 0.47804025242030446}

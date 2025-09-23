@@ -1,0 +1,12 @@
+{"sent": "driver of lead cycle", "ann_id": 229283, "best_split": [1, 2], "split_score": 0.17548278756732846}
+{"sent": "person holding the handlebars", "ann_id": 229283, "best_split": [1, 2], "split_score": 0.17548278756732846}
+{"sent": "driver", "ann_id": 229283, "best_split": [1, 5], "split_score": 0.5524002704063218}
+{"sent": "lady rider", "ann_id": 227053, "best_split": [1, 5], "split_score": 0.5465373489410807}
+{"sent": "woman riding hand up", "ann_id": 227053, "best_split": [1, 5], "split_score": 0.5465373489410807}
+{"sent": "woman on back of motorcycle", "ann_id": 227053, "best_split": [1, 2], "split_score": 0.33171237243575763}
+{"sent": "red bike in rear", "ann_id": 151038, "best_split": [3, 3], "split_score": 0.4450379048164993}
+{"sent": "all red bike", "ann_id": 151038, "best_split": [3, 3], "split_score": 0.4450379048164993}
+{"sent": "red bike in background", "ann_id": 151038, "best_split": [3, 3], "split_score": 0.4450379048164993}
+{"sent": "motorcylcle", "ann_id": 148061, "best_split": [1, 2], "split_score": 0.4722283936771765}
+{"sent": "the bike", "ann_id": 148061, "best_split": [1, 2], "split_score": 0.4722283936771765}
+{"sent": "bike", "ann_id": 148061, "best_split": [1, 2], "split_score": 0.4722283936771765}

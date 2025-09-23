@@ -1,0 +1,17 @@
+{"sent": "brown shirt black hear", "ann_id": 1308905, "best_split": [1, 5], "split_score": 0.26898429988233064}
+{"sent": "back of guy with yellow shirt talking on phone", "ann_id": 1308905, "best_split": [2, 2], "split_score": 0.29889247158987153}
+{"sent": "orange shirt", "ann_id": 1308905, "best_split": [2, 1], "split_score": 0.15904513240734633}
+{"sent": "all black siloette with hat", "ann_id": 1302310, "best_split": [2, 1], "split_score": 0.13940008693887118}
+{"sent": "man with hat", "ann_id": 1302310, "best_split": [2, 2], "split_score": 0.25551128816364466}
+{"sent": "man in hat by blue skirt", "ann_id": 1302310, "best_split": [1, 2], "split_score": 0.2536670918266236}
+{"sent": "man walking toward camera with beanie", "ann_id": 1255902, "best_split": [3, 2], "split_score": 0.18436412946262815}
+{"sent": "man in corner walking toward us", "ann_id": 1255902, "best_split": [2, 1], "split_score": 0.2111501461006944}
+{"sent": "boy arm on other boy", "ann_id": 1228045, "best_split": [1, 5], "split_score": 0.5635992614358566}
+{"sent": "boy in blue suit hugging other boy", "ann_id": 1228045, "best_split": [1, 5], "split_score": 0.5635992614358566}
+{"sent": "kid touching other kid", "ann_id": 1228045, "best_split": [1, 5], "split_score": 0.5635992614358566}
+{"sent": "person with addidas pants", "ann_id": 1318523, "best_split": [1, 2], "split_score": 0.32684948978289025}
+{"sent": "person with blue jeans at edge", "ann_id": 1318523, "best_split": [1, 2], "split_score": 0.32684948978289025}
+{"sent": "man with addidas on his but closest to you", "ann_id": 1318523, "best_split": [1, 2], "split_score": 0.32684948978289025}
+{"sent": "boy in blue being held on to", "ann_id": 1314250, "best_split": [1, 5], "split_score": 0.3804788960652923}
+{"sent": "taller kid under unbrella", "ann_id": 1314250, "best_split": [1, 5], "split_score": 0.3804788960652923}
+{"sent": "tallest boy the one being hugged", "ann_id": 1314250, "best_split": [1, 5], "split_score": 0.3804788960652923}

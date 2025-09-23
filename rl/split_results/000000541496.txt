@@ -1,0 +1,13 @@
+{"sent": "blue seat cut off", "ann_id": 1950782, "best_split": [1, 5], "split_score": 0.45900974021316865}
+{"sent": "empty seat", "ann_id": 1950782, "best_split": [1, 5], "split_score": 0.45900974021316865}
+{"sent": "bblue bench", "ann_id": 1950782, "best_split": [1, 5], "split_score": 0.45900974021316865}
+{"sent": "red luggage", "ann_id": 1841789, "best_split": [2, 2], "split_score": 0.7001330941091295}
+{"sent": "red suitcase", "ann_id": 1841789, "best_split": [2, 2], "split_score": 0.7001330941091295}
+{"sent": "red baggage", "ann_id": 1841789, "best_split": [2, 2], "split_score": 0.7001330941091295}
+{"sent": "black suitcase near seat in the back", "ann_id": 1186264, "best_split": [3, 2], "split_score": 0.2589543021553155}
+{"sent": "tall black luggage in aisle", "ann_id": 1186264, "best_split": [1, 5], "split_score": 0.367961934935769}
+{"sent": "taller luggage in back", "ann_id": 1186264, "best_split": [1, 2], "split_score": 0.15720663264679502}
+{"sent": "black luggage closest to far away blue seat", "ann_id": 1186264, "best_split": [3, 2], "split_score": 0.2589543021553155}
+{"sent": "green chair closest to camera", "ann_id": 389739, "best_split": [2, 2], "split_score": 0.6222195717918647}
+{"sent": "back of seat with luggage on seat", "ann_id": 389739, "best_split": [1, 2], "split_score": 0.42615715821937}
+{"sent": "blue seat", "ann_id": 389739, "best_split": [2, 1], "split_score": 0.47928839925269684}

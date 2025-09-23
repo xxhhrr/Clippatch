@@ -1,0 +1,6 @@
+{"sent": "tipped chair", "ann_id": 105489, "best_split": [1, 2], "split_score": 0.789221938744052}
+{"sent": "leftest chair", "ann_id": 105489, "best_split": [1, 2], "split_score": 0.789221938744052}
+{"sent": "chair leaning on table", "ann_id": 105489, "best_split": [1, 2], "split_score": 0.789221938744052}
+{"sent": "chair fully on ground", "ann_id": 101584, "best_split": [2, 1], "split_score": 0.3237598671660086}
+{"sent": "chair sitting upright", "ann_id": 101584, "best_split": [2, 1], "split_score": 0.3237598671660086}
+{"sent": "chair completly on ground", "ann_id": 101584, "best_split": [2, 1], "split_score": 0.3237598671660086}

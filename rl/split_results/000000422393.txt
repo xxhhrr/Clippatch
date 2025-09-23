@@ -1,0 +1,5 @@
+{"sent": "traffic light with street light", "ann_id": 409723, "best_split": [1, 5], "split_score": 0.2988027597099429}
+{"sent": "traffic light after st", "ann_id": 409723, "best_split": [1, 5], "split_score": 0.2988027597099429}
+{"sent": "number 2 light", "ann_id": 409723, "best_split": [5, 1], "split_score": 0.1192620442319435}
+{"sent": "street light directly next to the b in burwell", "ann_id": 402545, "best_split": [3, 3], "split_score": 0.37960516083015616}
+{"sent": "the higher of the two stoplights", "ann_id": 402545, "best_split": [3, 3], "split_score": 0.37960516083015616}

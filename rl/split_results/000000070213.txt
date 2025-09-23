@@ -1,0 +1,5 @@
+{"sent": "fruit partially covered with 1 leaf", "ann_id": 1912181, "best_split": [3, 2], "split_score": 0.3396102473900142}
+{"sent": "the orange closest to us it is more covered by the lead than the other", "ann_id": 1912181, "best_split": [1, 5], "split_score": 0.3656509694929114}
+{"sent": "lemon that less shown farther from edge", "ann_id": 1912181, "best_split": [1, 5], "split_score": 0.3656509694929114}
+{"sent": "lime with leaf hat", "ann_id": 1051458, "best_split": [1, 5], "split_score": 0.2789140944329756}
+{"sent": "lemon we can mostly see", "ann_id": 1051458, "best_split": [2, 3], "split_score": 0.4613908872348452}

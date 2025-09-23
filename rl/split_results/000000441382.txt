@@ -1,0 +1,8 @@
+{"sent": "one of the partially seen pancakes", "ann_id": 1927709, "best_split": [2, 1], "split_score": 0.38117825253582677}
+{"sent": "closest one", "ann_id": 1927709, "best_split": [2, 1], "split_score": 0.38117825253582677}
+{"sent": "pancake at lower edge", "ann_id": 1927709, "best_split": [2, 1], "split_score": 0.38117825253582677}
+{"sent": "farthest pancake", "ann_id": 1927670, "best_split": [2, 2], "split_score": 0.46412627547320423}
+{"sent": "upper corner food", "ann_id": 1927670, "best_split": [1, 2], "split_score": 0.23206313774585208}
+{"sent": "pancake farthest away", "ann_id": 1927670, "best_split": [2, 2], "split_score": 0.46412627547320423}
+{"sent": "lightest pancake", "ann_id": 1927457, "best_split": [3, 1], "split_score": 0.3582810236427677}
+{"sent": "bitten pancake 200", "ann_id": 1927457, "best_split": [3, 1], "split_score": 0.3582810236427677}

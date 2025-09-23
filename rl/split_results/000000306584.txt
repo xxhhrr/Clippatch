@@ -1,0 +1,12 @@
+{"sent": "person sitting with hands folded looking at computer screen", "ann_id": 1259360, "best_split": [2, 2], "split_score": 0.5560558306711226}
+{"sent": "man sitting with laptop away from table", "ann_id": 1259360, "best_split": [1, 2], "split_score": 0.464285714267208}
+{"sent": "person with laptop on lap", "ann_id": 1259360, "best_split": [2, 2], "split_score": 0.5560558306711226}
+{"sent": "the man facing the crowd in white at the table", "ann_id": 1237908, "best_split": [3, 3], "split_score": 0.2950372468476511}
+{"sent": "man in light brown", "ann_id": 1237908, "best_split": [3, 2], "split_score": 0.42420825106435406}
+{"sent": "guy on righty with laptop open", "ann_id": 1237908, "best_split": [3, 1], "split_score": 0.24822959372513553}
+{"sent": "chair we can see the back of", "ann_id": 106450, "best_split": [1, 5], "split_score": 0.38682213581465646}
+{"sent": "back of chair", "ann_id": 106450, "best_split": [1, 5], "split_score": 0.38682213581465646}
+{"sent": "man at table his chair", "ann_id": 106450, "best_split": [3, 2], "split_score": 0.23942360980607577}
+{"sent": "closest chair", "ann_id": 102716, "best_split": [1, 5], "split_score": 0.3295605858580592}
+{"sent": "chair the man in stripe is sitting on", "ann_id": 102716, "best_split": [3, 3], "split_score": 0.7484921591151248}
+{"sent": "chair under closest guy with laptop", "ann_id": 102716, "best_split": [2, 3], "split_score": 0.7384169883278937}

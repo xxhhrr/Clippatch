@@ -1,0 +1,6 @@
+{"sent": "black", "ann_id": 278028, "best_split": [2, 2], "split_score": 0.7037358817982042}
+{"sent": "partial black cow", "ann_id": 278028, "best_split": [2, 2], "split_score": 0.7037358817982042}
+{"sent": "darker cow", "ann_id": 278028, "best_split": [2, 1], "split_score": 0.3957010258777409}
+{"sent": "horns", "ann_id": 71262, "best_split": [1, 2], "split_score": 0.5211747376053864}
+{"sent": "brown animal", "ann_id": 71262, "best_split": [1, 2], "split_score": 0.5211747376053864}
+{"sent": "brown cow", "ann_id": 71262, "best_split": [1, 2], "split_score": 0.5211747376053864}

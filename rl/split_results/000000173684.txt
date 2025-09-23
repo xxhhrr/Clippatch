@@ -1,0 +1,6 @@
+{"sent": "cup under banana", "ann_id": 674767, "best_split": [3, 3], "split_score": 0.3898831262984143}
+{"sent": "container under bananas", "ann_id": 674767, "best_split": [3, 3], "split_score": 0.3898831262984143}
+{"sent": "white container below bananas", "ann_id": 674767, "best_split": [3, 3], "split_score": 0.3898831262984143}
+{"sent": "container starts labled with co", "ann_id": 673789, "best_split": [3, 2], "split_score": 0.30152027023388994}
+{"sent": "cup closer to red matt", "ann_id": 673789, "best_split": [3, 2], "split_score": 0.30152027023388994}
+{"sent": "white bag where you can see the lette c on it", "ann_id": 673789, "best_split": [1, 5], "split_score": 0.16326146312369255}

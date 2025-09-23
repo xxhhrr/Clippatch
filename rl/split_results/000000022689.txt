@@ -1,0 +1,5 @@
+{"sent": "toilet with lid up", "ann_id": 1968103, "best_split": [2, 3], "split_score": 0.598778625893254}
+{"sent": "open toilet", "ann_id": 1968103, "best_split": [2, 3], "split_score": 0.598778625893254}
+{"sent": "toliet with seat up", "ann_id": 1968103, "best_split": [2, 3], "split_score": 0.598778625893254}
+{"sent": "the closed on closest to the guy", "ann_id": 1095236, "best_split": [1, 2], "split_score": 0.2917729591720435}
+{"sent": "toilet 900", "ann_id": 1095236, "best_split": [2, 2], "split_score": 0.4775364474503469}

@@ -1,0 +1,6 @@
+{"sent": "random brown object by guys arm", "ann_id": 2025487, "best_split": [2, 2], "split_score": 0.20902423467721426}
+{"sent": "arm of person who cant be seen", "ann_id": 2025487, "best_split": [2, 2], "split_score": 0.20902423467721426}
+{"sent": "cut off arm next to man", "ann_id": 2025487, "best_split": [1, 2], "split_score": 0.10451211734277295}
+{"sent": "man", "ann_id": 432688, "best_split": [1, 2], "split_score": 0.49966953072332143}
+{"sent": "guy", "ann_id": 432688, "best_split": [1, 2], "split_score": 0.49966953072332143}
+{"sent": "ma", "ann_id": 432688, "best_split": [1, 2], "split_score": 0.4733766233670175}

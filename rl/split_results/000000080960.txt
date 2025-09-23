@@ -1,0 +1,5 @@
+{"sent": "giraffe with head in window can only see backside", "ann_id": 596332, "best_split": [5, 1], "split_score": 0.10189573458853286}
+{"sent": "giraffe leaning head into building open window", "ann_id": 596332, "best_split": [5, 1], "split_score": 0.10189573458853286}
+{"sent": "giraffe with head in doorway", "ann_id": 596332, "best_split": [5, 1], "split_score": 0.10189573458853286}
+{"sent": "biggest giraffe", "ann_id": 595239, "best_split": [2, 3], "split_score": 0.41154090041126024}
+{"sent": "biggest animal", "ann_id": 595239, "best_split": [2, 3], "split_score": 0.41154090041126024}

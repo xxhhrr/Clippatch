@@ -1,0 +1,11 @@
+{"sent": "arm offscreen with gray striped shirt", "ann_id": 474103, "best_split": [2, 2], "split_score": 0.21028340663371434}
+{"sent": "bare arm not in maroon sleeve", "ann_id": 474103, "best_split": [2, 1], "split_score": 0.11040854189124195}
+{"sent": "red shirt", "ann_id": 469460, "best_split": [2, 3], "split_score": 0.43017806930293134}
+{"sent": "arm", "ann_id": 469460, "best_split": [2, 3], "split_score": 0.43017806930293134}
+{"sent": "arm with red sleeve", "ann_id": 469460, "best_split": [2, 3], "split_score": 0.43017806930293134}
+{"sent": "obscured man in blue", "ann_id": 464823, "best_split": [1, 2], "split_score": 0.4255420918197727}
+{"sent": "blue shirt guy hidden", "ann_id": 464823, "best_split": [1, 2], "split_score": 0.4255420918197727}
+{"sent": "guy 2", "ann_id": 464823, "best_split": [5, 1], "split_score": 0.17058152792642067}
+{"sent": "good sir in the black tie", "ann_id": 441514, "best_split": [1, 2], "split_score": 0.5010162601504787}
+{"sent": "main guy", "ann_id": 441514, "best_split": [1, 2], "split_score": 0.5010162601504787}
+{"sent": "the man white shirt", "ann_id": 441514, "best_split": [1, 2], "split_score": 0.5010162601504787}

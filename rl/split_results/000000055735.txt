@@ -1,0 +1,9 @@
+{"sent": "white corner donut", "ann_id": 1572774, "best_split": [3, 2], "split_score": 0.48974420843511773}
+{"sent": "corner of donut white icing", "ann_id": 1572774, "best_split": [2, 3], "split_score": 0.32578116607690527}
+{"sent": "lower doughnut with white icing", "ann_id": 1572774, "best_split": [2, 3], "split_score": 0.32578116607690527}
+{"sent": "brown donut", "ann_id": 1572121, "best_split": [2, 1], "split_score": 0.17610012754400112}
+{"sent": "yellow frosting in corner", "ann_id": 1572121, "best_split": [3, 3], "split_score": 0.54208229417985}
+{"sent": "yellow donut barely visible", "ann_id": 1572121, "best_split": [2, 3], "split_score": 0.37689640221316684}
+{"sent": "visible donut", "ann_id": 1078611, "best_split": [3, 1], "split_score": 0.4797254353476635}
+{"sent": "white with brown swirls", "ann_id": 1078611, "best_split": [3, 1], "split_score": 0.4797254353476635}
+{"sent": "entire donut", "ann_id": 1078611, "best_split": [3, 1], "split_score": 0.4797254353476635}

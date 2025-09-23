@@ -1,0 +1,21 @@
+{"sent": "the man with a dark blue shirt", "ann_id": 441560, "best_split": [2, 3], "split_score": 0.36768802224754393}
+{"sent": "blue shirt light pants", "ann_id": 441560, "best_split": [1, 3], "split_score": 0.26527331188187453}
+{"sent": "the navy blue wearing kid", "ann_id": 441560, "best_split": [2, 3], "split_score": 0.36768802224754393}
+{"sent": "woman rudely placing her feet on a chair", "ann_id": 431532, "best_split": [2, 1], "split_score": 0.28499278498544134}
+{"sent": "blind woman on phone", "ann_id": 431532, "best_split": [1, 2], "split_score": 0.5087284058781736}
+{"sent": "sitting woman on phone", "ann_id": 431532, "best_split": [1, 3], "split_score": 0.32267246616807904}
+{"sent": "red bench she has her feet on", "ann_id": 382615, "best_split": [2, 2], "split_score": 0.5747637576031988}
+{"sent": "brown chair that feet is on", "ann_id": 382615, "best_split": [2, 2], "split_score": 0.5747637576031988}
+{"sent": "red chair that lady has legs on", "ann_id": 382615, "best_split": [2, 2], "split_score": 0.5747637576031988}
+{"sent": "red table under black handbag", "ann_id": 1934346, "best_split": [2, 3], "split_score": 0.8035882907455631}
+{"sent": "chair with purse on it", "ann_id": 1934346, "best_split": [3, 3], "split_score": 0.7645060853715672}
+{"sent": "closest orange chair", "ann_id": 1934346, "best_split": [2, 3], "split_score": 0.8035882907455631}
+{"sent": "green shirt", "ann_id": 1738379, "best_split": [1, 5], "split_score": 0.41446834411379174}
+{"sent": "green shirt off pic mostly", "ann_id": 1738379, "best_split": [1, 5], "split_score": 0.41446834411379174}
+{"sent": "green jacket lady", "ann_id": 1738379, "best_split": [1, 5], "split_score": 0.41446834411379174}
+{"sent": "gray hoodie", "ann_id": 1721903, "best_split": [2, 3], "split_score": 0.4448979591345948}
+{"sent": "gray shirt", "ann_id": 1721903, "best_split": [1, 5], "split_score": 0.3789018427624199}
+{"sent": "boy in gray sweater", "ann_id": 1721903, "best_split": [2, 3], "split_score": 0.4448979591345948}
+{"sent": "white bench woman sitting on", "ann_id": 373923, "best_split": [2, 2], "split_score": 0.74525225393278}
+{"sent": "gray bench she is sitting on", "ann_id": 373923, "best_split": [2, 2], "split_score": 0.74525225393278}
+{"sent": "bench with lady on cell phone sitting on it just the bench", "ann_id": 373923, "best_split": [2, 1], "split_score": 0.5344143588747674}

@@ -1,0 +1,9 @@
+{"sent": "green shirt", "ann_id": 1311572, "best_split": [1, 5], "split_score": 0.42053973009552664}
+{"sent": "girl in green shirt", "ann_id": 1311572, "best_split": [1, 5], "split_score": 0.42053973009552664}
+{"sent": "green", "ann_id": 1311572, "best_split": [1, 5], "split_score": 0.42053973009552664}
+{"sent": "pink jumper", "ann_id": 1263980, "best_split": [1, 5], "split_score": 0.37682984413845194}
+{"sent": "pink polka dot shirt in air", "ann_id": 1263980, "best_split": [1, 5], "split_score": 0.37682984413845194}
+{"sent": "girl in white jumping", "ann_id": 1263980, "best_split": [2, 3], "split_score": 0.28861558376174323}
+{"sent": "number 24", "ann_id": 1234023, "best_split": [1, 3], "split_score": 0.07232077763925537}
+{"sent": "the girl with white shirt and green dots", "ann_id": 1234023, "best_split": [2, 2], "split_score": 0.43742028057737403}
+{"sent": "blond girl looking up", "ann_id": 1234023, "best_split": [3, 3], "split_score": 0.11356018282239104}

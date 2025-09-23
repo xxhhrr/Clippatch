@@ -1,0 +1,6 @@
+{"sent": "cup with spoon", "ann_id": 677082, "best_split": [3, 2], "split_score": 0.7492760616856569}
+{"sent": "blue cup", "ann_id": 677082, "best_split": [3, 2], "split_score": 0.7492760616856569}
+{"sent": "coffee mug with spoon in it", "ann_id": 677082, "best_split": [3, 1], "split_score": 0.3746380308654296}
+{"sent": "white cup", "ann_id": 674899, "best_split": [3, 2], "split_score": 0.6017435190867465}
+{"sent": "white mug", "ann_id": 674899, "best_split": [3, 2], "split_score": 0.6017435190867465}
+{"sent": "white coffee", "ann_id": 674899, "best_split": [3, 2], "split_score": 0.6017435190867465}

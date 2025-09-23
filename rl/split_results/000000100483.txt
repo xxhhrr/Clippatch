@@ -1,0 +1,6 @@
+{"sent": "this is a blue container", "ann_id": 175031, "best_split": [1, 3], "split_score": 0.9249476839022144}
+{"sent": "building", "ann_id": 175031, "best_split": [1, 3], "split_score": 0.9249476839022144}
+{"sent": "blue", "ann_id": 175031, "best_split": [1, 3], "split_score": 0.9249476839022144}
+{"sent": "train by trees", "ann_id": 174821, "best_split": [3, 2], "split_score": 0.3615447822089981}
+{"sent": "train on furthest track red", "ann_id": 174821, "best_split": [3, 2], "split_score": 0.3615447822089981}
+{"sent": "the red train we dont see start of", "ann_id": 174821, "best_split": [3, 2], "split_score": 0.3615447822089981}

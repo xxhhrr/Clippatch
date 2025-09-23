@@ -1,0 +1,6 @@
+{"sent": "hidden bear", "ann_id": 588009, "best_split": [3, 2], "split_score": 0.33204785915830637}
+{"sent": "dark tree trunks under flowers unless thats another bear", "ann_id": 588009, "best_split": [2, 3], "split_score": 0.39914831736610423}
+{"sent": "mommas legs", "ann_id": 588009, "best_split": [1, 2], "split_score": 0.2065927933591122}
+{"sent": "bear looking back", "ann_id": 587729, "best_split": [1, 5], "split_score": 0.3353247253483017}
+{"sent": "bear looking back at camera", "ann_id": 587729, "best_split": [1, 5], "split_score": 0.3353247253483017}
+{"sent": "bear facing camera", "ann_id": 587729, "best_split": [1, 5], "split_score": 0.3353247253483017}

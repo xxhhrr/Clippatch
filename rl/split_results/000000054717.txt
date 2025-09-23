@@ -1,0 +1,6 @@
+{"sent": "cat not eating the food", "ann_id": 50664, "best_split": [3, 1], "split_score": 0.47844827584813465}
+{"sent": "cat watching the other cat eat", "ann_id": 50664, "best_split": [3, 1], "split_score": 0.47844827584813465}
+{"sent": "fat cat", "ann_id": 50664, "best_split": [2, 1], "split_score": 0.7225386492873841}
+{"sent": "cat whose face is in the plate", "ann_id": 48319, "best_split": [3, 1], "split_score": 0.38323663976306604}
+{"sent": "cat cutoff", "ann_id": 48319, "best_split": [3, 1], "split_score": 0.38323663976306604}
+{"sent": "cat that is eating", "ann_id": 48319, "best_split": [3, 1], "split_score": 0.38323663976306604}

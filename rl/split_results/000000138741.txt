@@ -1,0 +1,9 @@
+{"sent": "blue shirt man", "ann_id": 562746, "best_split": [3, 3], "split_score": 0.4662592985565543}
+{"sent": "the umpire", "ann_id": 562746, "best_split": [2, 3], "split_score": 0.4055206007301075}
+{"sent": "umpire", "ann_id": 562746, "best_split": [3, 1], "split_score": 0.18842602532808536}
+{"sent": "player with bat", "ann_id": 559150, "best_split": [1, 5], "split_score": 0.5192761604663989}
+{"sent": "player holding bat", "ann_id": 559150, "best_split": [1, 5], "split_score": 0.5192761604663989}
+{"sent": "batter", "ann_id": 559150, "best_split": [1, 5], "split_score": 0.5192761604663989}
+{"sent": "catcher", "ann_id": 445401, "best_split": [5, 1], "split_score": 0.24596273290015816}
+{"sent": "catcher", "ann_id": 445401, "best_split": [5, 1], "split_score": 0.24596273290015816}
+{"sent": "the catcher", "ann_id": 445401, "best_split": [5, 1], "split_score": 0.24596273290015816}

@@ -1,0 +1,9 @@
+{"sent": "couch the girl is on", "ann_id": 1949739, "best_split": [2, 3], "split_score": 0.8974271788623567}
+{"sent": "edge of couch", "ann_id": 1949739, "best_split": [2, 3], "split_score": 0.8974271788623567}
+{"sent": "couch the woman is on not the woman", "ann_id": 1949739, "best_split": [2, 3], "split_score": 0.8974271788623567}
+{"sent": "guy closest to the tv", "ann_id": 203811, "best_split": [3, 3], "split_score": 0.32623897836329596}
+{"sent": "guy in white shirt and blue jeans playing wii", "ann_id": 203811, "best_split": [3, 3], "split_score": 0.32623897836329596}
+{"sent": "standing playing white shirt", "ann_id": 203811, "best_split": [3, 3], "split_score": 0.32623897836329596}
+{"sent": "bald mans couch", "ann_id": 115658, "best_split": [3, 1], "split_score": 0.6298262547882585}
+{"sent": "back of couch", "ann_id": 115658, "best_split": [3, 1], "split_score": 0.6298262547882585}
+{"sent": "couch back", "ann_id": 115658, "best_split": [3, 1], "split_score": 0.6298262547882585}

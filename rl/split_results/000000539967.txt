@@ -1,0 +1,9 @@
+{"sent": "umpire", "ann_id": 2157271, "best_split": [3, 2], "split_score": 0.1957163958434568}
+{"sent": "ump", "ann_id": 2157271, "best_split": [2, 2], "split_score": 0.186467767700246}
+{"sent": "umpire", "ann_id": 2157271, "best_split": [3, 2], "split_score": 0.1957163958434568}
+{"sent": "catcher", "ann_id": 1238206, "best_split": [2, 2], "split_score": 0.2886582200970342}
+{"sent": "catcher", "ann_id": 1238206, "best_split": [2, 2], "split_score": 0.2886582200970342}
+{"sent": "catcher", "ann_id": 1238206, "best_split": [2, 2], "split_score": 0.2886582200970342}
+{"sent": "18", "ann_id": 1220468, "best_split": [3, 3], "split_score": 0.36615592605158226}
+{"sent": "18", "ann_id": 1220468, "best_split": [3, 3], "split_score": 0.36615592605158226}
+{"sent": "baseball player swinging bat", "ann_id": 1220468, "best_split": [3, 3], "split_score": 0.36615592605158226}

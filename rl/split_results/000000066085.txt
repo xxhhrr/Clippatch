@@ -1,0 +1,11 @@
+{"sent": "light blue bag looking thing almost touching worn shoes", "ann_id": 1825395, "best_split": [3, 2], "split_score": 0.4676701694151595}
+{"sent": "object closest to", "ann_id": 1825395, "best_split": [3, 2], "split_score": 0.4676701694151595}
+{"sent": "black thing where hand is", "ann_id": 1164849, "best_split": [1, 5], "split_score": 0.4047676185581339}
+{"sent": "object guy is grasping", "ann_id": 1164849, "best_split": [1, 5], "split_score": 0.4047676185581339}
+{"sent": "black part in her hand", "ann_id": 1164849, "best_split": [1, 5], "split_score": 0.4047676185581339}
+{"sent": "gray shoes", "ann_id": 431481, "best_split": [2, 3], "split_score": 0.5882108758332742}
+{"sent": "shoes kicked up", "ann_id": 431481, "best_split": [2, 3], "split_score": 0.5882108758332742}
+{"sent": "white sneakers", "ann_id": 431481, "best_split": [2, 3], "split_score": 0.5882108758332742}
+{"sent": "the watch", "ann_id": 428482, "best_split": [2, 3], "split_score": 0.7755949366303194}
+{"sent": "hand opening book bag", "ann_id": 428482, "best_split": [1, 3], "split_score": 0.5577944015107508}
+{"sent": "hand with watch", "ann_id": 428482, "best_split": [2, 3], "split_score": 0.7755949366303194}

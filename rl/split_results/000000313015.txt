@@ -1,0 +1,9 @@
+{"sent": "pizzza", "ann_id": 1962593, "best_split": [2, 2], "split_score": 0.8347095251522626}
+{"sent": "pizza", "ann_id": 1962593, "best_split": [2, 2], "split_score": 0.8347095251522626}
+{"sent": "pizza", "ann_id": 1962593, "best_split": [2, 2], "split_score": 0.8347095251522626}
+{"sent": "table under bottle", "ann_id": 319957, "best_split": [1, 2], "split_score": 0.29846938774320514}
+{"sent": "white surface under bottle", "ann_id": 319957, "best_split": [1, 2], "split_score": 0.29846938774320514}
+{"sent": "table that bottle is on", "ann_id": 319957, "best_split": [1, 2], "split_score": 0.29846938774320514}
+{"sent": "coffee", "ann_id": 121948, "best_split": [2, 2], "split_score": 0.8039408866429316}
+{"sent": "cup", "ann_id": 121948, "best_split": [2, 2], "split_score": 0.8039408866429316}
+{"sent": "tea cup", "ann_id": 121948, "best_split": [2, 2], "split_score": 0.8039408866429316}

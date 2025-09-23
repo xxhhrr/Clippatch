@@ -1,0 +1,6 @@
+{"sent": "smaller zebra seen very little of", "ann_id": 592803, "best_split": [1, 2], "split_score": 0.6980380586849816}
+{"sent": "zebra eye lowest", "ann_id": 592803, "best_split": [1, 2], "split_score": 0.6980380586849816}
+{"sent": "smaller zebra head", "ann_id": 592803, "best_split": [1, 2], "split_score": 0.6980380586849816}
+{"sent": "zeb face looking straight on at us run run omg", "ann_id": 589353, "best_split": [1, 2], "split_score": 0.5156578127405059}
+{"sent": "zebra", "ann_id": 589353, "best_split": [1, 2], "split_score": 0.5156578127405059}
+{"sent": "hello", "ann_id": 589353, "best_split": [2, 1], "split_score": 0.41932834852359147}

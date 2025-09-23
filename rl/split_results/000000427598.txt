@@ -1,0 +1,5 @@
+{"sent": "shortest hair man", "ann_id": 481992, "best_split": [2, 1], "split_score": 0.2588368496559473}
+{"sent": "bald man", "ann_id": 481992, "best_split": [2, 1], "split_score": 0.2588368496559473}
+{"sent": "youmger man", "ann_id": 468747, "best_split": [2, 2], "split_score": 0.40061105106745365}
+{"sent": "man with darker hair", "ann_id": 468747, "best_split": [1, 2], "split_score": 0.8602278208281612}
+{"sent": "younger guy", "ann_id": 468747, "best_split": [2, 2], "split_score": 0.40061105106745365}

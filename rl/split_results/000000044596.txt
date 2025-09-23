@@ -1,0 +1,5 @@
+{"sent": "darker of the chairs", "ann_id": 2224092, "best_split": [5, 1], "split_score": 0.22459031071688096}
+{"sent": "darker looking chair", "ann_id": 2224092, "best_split": [5, 1], "split_score": 0.22459031071688096}
+{"sent": "chair under black horiz bar on edge of monitor", "ann_id": 2224092, "best_split": [3, 2], "split_score": 0.16447052032658743}
+{"sent": "the chair under the black wires", "ann_id": 98672, "best_split": [2, 2], "split_score": 0.303571428547228}
+{"sent": "chair uner tvnect to cables", "ann_id": 98672, "best_split": [2, 1], "split_score": 0.15178571427966414}

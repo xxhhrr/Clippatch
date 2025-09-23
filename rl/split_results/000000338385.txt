@@ -1,0 +1,6 @@
+{"sent": "horse thats been blocked", "ann_id": 274396, "best_split": [1, 2], "split_score": 0.5746848818561897}
+{"sent": "horse in background", "ann_id": 274396, "best_split": [1, 2], "split_score": 0.5746848818561897}
+{"sent": "horse that is partially hidden", "ann_id": 274396, "best_split": [1, 2], "split_score": 0.5746848818561897}
+{"sent": "closest white horse", "ann_id": 55364, "best_split": [1, 2], "split_score": 0.40145395798429684}
+{"sent": "white full horse", "ann_id": 55364, "best_split": [1, 2], "split_score": 0.40145395798429684}
+{"sent": "white horse thats fully visible", "ann_id": 55364, "best_split": [1, 2], "split_score": 0.40145395798429684}

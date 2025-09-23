@@ -1,0 +1,6 @@
+{"sent": "hand by the balls with one in it", "ann_id": 473987, "best_split": [1, 3], "split_score": 0.8035714285229506}
+{"sent": "hand with ball", "ann_id": 473987, "best_split": [1, 3], "split_score": 0.8035714285229506}
+{"sent": "hand in back", "ann_id": 473987, "best_split": [1, 2], "split_score": 0.5309311224278168}
+{"sent": "person", "ann_id": 431848, "best_split": [2, 1], "split_score": 0.3725048923587939}
+{"sent": "darker hand", "ann_id": 431848, "best_split": [1, 3], "split_score": 0.43898899502844996}
+{"sent": "person holding racket nearest us and out of view", "ann_id": 431848, "best_split": [2, 1], "split_score": 0.3725048923587939}

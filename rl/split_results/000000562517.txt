@@ -1,0 +1,15 @@
+{"sent": "jacket under umbrella", "ann_id": 1717218, "best_split": [2, 3], "split_score": 0.6418842224016023}
+{"sent": "ladie under umbrella", "ann_id": 1717218, "best_split": [2, 3], "split_score": 0.6418842224016023}
+{"sent": "blue coat and umbrella", "ann_id": 1717218, "best_split": [2, 3], "split_score": 0.6418842224016023}
+{"sent": "red jacket woman", "ann_id": 530242, "best_split": [1, 5], "split_score": 0.43297872336238113}
+{"sent": "red jacket lady", "ann_id": 530242, "best_split": [1, 5], "split_score": 0.43297872336238113}
+{"sent": "pink coat", "ann_id": 530242, "best_split": [2, 3], "split_score": 0.30185712879022725}
+{"sent": "the person in the white button up jacket near the woman in red", "ann_id": 494694, "best_split": [3, 3], "split_score": 0.5057666213524818}
+{"sent": "white jacket", "ann_id": 494694, "best_split": [3, 3], "split_score": 0.5057666213524818}
+{"sent": "white coat", "ann_id": 494694, "best_split": [3, 3], "split_score": 0.5057666213524818}
+{"sent": "woman in gray coat looking back", "ann_id": 486672, "best_split": [2, 3], "split_score": 0.6174368746286998}
+{"sent": "gray jacket lady", "ann_id": 486672, "best_split": [2, 2], "split_score": 0.42187499996636835}
+{"sent": "gray jacket", "ann_id": 486672, "best_split": [2, 2], "split_score": 0.42187499996636835}
+{"sent": "person from behind in black", "ann_id": 463334, "best_split": [2, 3], "split_score": 0.6358002186806598}
+{"sent": "man in dark coat", "ann_id": 463334, "best_split": [2, 3], "split_score": 0.6358002186806598}
+{"sent": "black coat gray hair", "ann_id": 463334, "best_split": [2, 3], "split_score": 0.6358002186806598}

@@ -1,0 +1,5 @@
+{"sent": "black notebook", "ann_id": 1102514, "best_split": [2, 3], "split_score": 0.29416023162473937}
+{"sent": "black object next to black keyboard", "ann_id": 1102514, "best_split": [5, 1], "split_score": 0.22755866198426772}
+{"sent": "laptop", "ann_id": 1102476, "best_split": [3, 3], "split_score": 0.6996035375572425}
+{"sent": "open laptop", "ann_id": 1102476, "best_split": [3, 3], "split_score": 0.6996035375572425}
+{"sent": "not main screen", "ann_id": 1102476, "best_split": [3, 3], "split_score": 0.6996035375572425}

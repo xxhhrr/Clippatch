@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 1221583, "best_split": [1, 2], "split_score": 0.708609271501848}
+{"sent": "baby", "ann_id": 1221583, "best_split": [1, 2], "split_score": 0.708609271501848}
+{"sent": "aww baby", "ann_id": 1221583, "best_split": [1, 2], "split_score": 0.708609271501848}
+{"sent": "red shirt adult", "ann_id": 439866, "best_split": [2, 1], "split_score": 0.6105311992400101}
+{"sent": "adult person", "ann_id": 439866, "best_split": [2, 1], "split_score": 0.6105311992400101}
+{"sent": "adult", "ann_id": 439866, "best_split": [3, 1], "split_score": 0.42004830916606134}

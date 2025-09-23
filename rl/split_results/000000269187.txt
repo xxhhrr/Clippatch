@@ -1,0 +1,9 @@
+{"sent": "guy with big hair green shirt", "ann_id": 1717945, "best_split": [1, 2], "split_score": 0.5907206632417602}
+{"sent": "green shirt", "ann_id": 1717945, "best_split": [1, 5], "split_score": 0.533051689827718}
+{"sent": "man with curly black hair", "ann_id": 1717945, "best_split": [1, 2], "split_score": 0.5907206632417602}
+{"sent": "man at the end", "ann_id": 544760, "best_split": [3, 1], "split_score": 0.11559726096294205}
+{"sent": "asian guy", "ann_id": 544760, "best_split": [3, 1], "split_score": 0.11559726096294205}
+{"sent": "man in gray shirt", "ann_id": 544760, "best_split": [2, 1], "split_score": 0.18153297958164402}
+{"sent": "man with donut", "ann_id": 506846, "best_split": [1, 2], "split_score": 0.8377691959490043}
+{"sent": "guy eating", "ann_id": 506846, "best_split": [1, 2], "split_score": 0.8377691959490043}
+{"sent": "guy eating", "ann_id": 506846, "best_split": [1, 2], "split_score": 0.8377691959490043}

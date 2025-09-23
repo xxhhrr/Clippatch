@@ -1,0 +1,6 @@
+{"sent": "little boy in red", "ann_id": 483636, "best_split": [1, 5], "split_score": 0.4611287609361681}
+{"sent": "red", "ann_id": 483636, "best_split": [1, 5], "split_score": 0.4611287609361681}
+{"sent": "red n white shirt", "ann_id": 483636, "best_split": [1, 5], "split_score": 0.4611287609361681}
+{"sent": "little kid holding the yellow part of bat", "ann_id": 443160, "best_split": [3, 3], "split_score": 0.32914110424399673}
+{"sent": "soccer shirt kid", "ann_id": 443160, "best_split": [3, 3], "split_score": 0.32914110424399673}
+{"sent": "soccer", "ann_id": 443160, "best_split": [3, 2], "split_score": 0.17409983631606998}

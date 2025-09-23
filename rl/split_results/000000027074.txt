@@ -1,0 +1,6 @@
+{"sent": "man with scissors", "ann_id": 1759198, "best_split": [1, 2], "split_score": 0.6339835728720306}
+{"sent": "man with arm up", "ann_id": 1759198, "best_split": [1, 2], "split_score": 0.6339835728720306}
+{"sent": "man holding scissors", "ann_id": 1759198, "best_split": [1, 2], "split_score": 0.6339835728720306}
+{"sent": "person with glasses", "ann_id": 1720409, "best_split": [3, 3], "split_score": 0.6311176039753255}
+{"sent": "man with glasses", "ann_id": 1720409, "best_split": [3, 3], "split_score": 0.6311176039753255}
+{"sent": "glasses man", "ann_id": 1720409, "best_split": [3, 3], "split_score": 0.6311176039753255}

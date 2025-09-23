@@ -1,0 +1,6 @@
+{"sent": "sandwich with less meat", "ann_id": 311437, "best_split": [3, 2], "split_score": 0.37017374512908136}
+{"sent": "half sandwich by ketchup", "ann_id": 311437, "best_split": [3, 2], "split_score": 0.37017374512908136}
+{"sent": "half sandwich by window", "ann_id": 311437, "best_split": [3, 2], "split_score": 0.37017374512908136}
+{"sent": "the half of the burger next to the chips", "ann_id": 310458, "best_split": [3, 3], "split_score": 0.48796337313720817}
+{"sent": "closest sandwich", "ann_id": 310458, "best_split": [3, 3], "split_score": 0.48796337313720817}
+{"sent": "first half of sandwich", "ann_id": 310458, "best_split": [3, 3], "split_score": 0.48796337313720817}

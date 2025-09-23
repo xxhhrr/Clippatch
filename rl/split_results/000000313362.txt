@@ -1,0 +1,5 @@
+{"sent": "bench with back against another bench", "ann_id": 579144, "best_split": [2, 1], "split_score": 0.22627737225417133}
+{"sent": "bench next to table backing other bench", "ann_id": 579144, "best_split": [3, 2], "split_score": 0.2949061661951318}
+{"sent": "bench nearest arrow", "ann_id": 578672, "best_split": [2, 3], "split_score": 0.6554668646133779}
+{"sent": "bench next to advertising board", "ann_id": 578672, "best_split": [2, 3], "split_score": 0.6554668646133779}
+{"sent": "bench near can", "ann_id": 578672, "best_split": [2, 3], "split_score": 0.6554668646133779}

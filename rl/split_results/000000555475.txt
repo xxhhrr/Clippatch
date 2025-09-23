@@ -1,0 +1,5 @@
+{"sent": "car behind motorcycle blackish", "ann_id": 137295, "best_split": [3, 1], "split_score": 0.19454109176997353}
+{"sent": "car waiting behind motorcycle", "ann_id": 137295, "best_split": [3, 1], "split_score": 0.19454109176997353}
+{"sent": "honda", "ann_id": 135333, "best_split": [2, 3], "split_score": 0.8891534963315486}
+{"sent": "honda", "ann_id": 135333, "best_split": [2, 3], "split_score": 0.8891534963315486}
+{"sent": "honda truck", "ann_id": 135333, "best_split": [2, 3], "split_score": 0.8891534963315486}

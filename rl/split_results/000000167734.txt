@@ -1,0 +1,6 @@
+{"sent": "boy", "ann_id": 556244, "best_split": [2, 3], "split_score": 0.3870967741501908}
+{"sent": "boy", "ann_id": 556244, "best_split": [2, 3], "split_score": 0.3870967741501908}
+{"sent": "thomas", "ann_id": 556244, "best_split": [2, 3], "split_score": 0.3870967741501908}
+{"sent": "the man standing", "ann_id": 425533, "best_split": [1, 5], "split_score": 0.5938783127478651}
+{"sent": "old man", "ann_id": 425533, "best_split": [1, 5], "split_score": 0.5938783127478651}
+{"sent": "man facing away from child", "ann_id": 425533, "best_split": [1, 2], "split_score": 0.18255013906519726}

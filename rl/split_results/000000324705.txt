@@ -1,0 +1,6 @@
+{"sent": "guy sitting", "ann_id": 1742260, "best_split": [2, 2], "split_score": 0.7203782680808222}
+{"sent": "man closest to us sitting down", "ann_id": 1742260, "best_split": [2, 2], "split_score": 0.7203782680808222}
+{"sent": "closest person", "ann_id": 1742260, "best_split": [2, 2], "split_score": 0.7203782680808222}
+{"sent": "the glass spinning man", "ann_id": 1733980, "best_split": [3, 2], "split_score": 0.21806083648117291}
+{"sent": "man holding weird racket thing", "ann_id": 1733980, "best_split": [1, 5], "split_score": 0.3971245385275768}
+{"sent": "man with glass", "ann_id": 1733980, "best_split": [1, 5], "split_score": 0.3971245385275768}

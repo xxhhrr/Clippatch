@@ -1,0 +1,11 @@
+{"sent": "the half eaten one", "ann_id": 1922344, "best_split": [1, 5], "split_score": 0.27682403431354813}
+{"sent": "half eaten dog", "ann_id": 1922344, "best_split": [1, 5], "split_score": 0.27682403431354813}
+{"sent": "half eaten dog", "ann_id": 1922344, "best_split": [1, 5], "split_score": 0.27682403431354813}
+{"sent": "full hot dog", "ann_id": 1066945, "best_split": [1, 2], "split_score": 0.5484693877332402}
+{"sent": "onion dog", "ann_id": 1066945, "best_split": [1, 2], "split_score": 0.5484693877332402}
+{"sent": "uneaten hotdog", "ann_id": 1066945, "best_split": [1, 2], "split_score": 0.5484693877332402}
+{"sent": "hand holding the hot dog with onions", "ann_id": 570557, "best_split": [2, 3], "split_score": 0.4250966128182431}
+{"sent": "finger holding hotdog cant see person", "ann_id": 570557, "best_split": [2, 3], "split_score": 0.4250966128182431}
+{"sent": "hand holding hot dog next to soda", "ann_id": 570557, "best_split": [2, 2], "split_score": 0.28650222151934257}
+{"sent": "black arm", "ann_id": 570458, "best_split": [2, 1], "split_score": 0.25608184917559373}
+{"sent": "arm with ulgly shirt in corner", "ann_id": 570458, "best_split": [2, 3], "split_score": 0.6855345911242876}

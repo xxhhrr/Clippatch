@@ -1,0 +1,6 @@
+{"sent": "adult", "ann_id": 495749, "best_split": [3, 1], "split_score": 0.2605481983268961}
+{"sent": "man holding bagel", "ann_id": 495749, "best_split": [2, 1], "split_score": 0.3263888888783954}
+{"sent": "man", "ann_id": 495749, "best_split": [1, 3], "split_score": 0.6358912869386545}
+{"sent": "kid with crazy hair", "ann_id": 487648, "best_split": [1, 5], "split_score": 0.5192761604663989}
+{"sent": "curly hair", "ann_id": 487648, "best_split": [1, 5], "split_score": 0.5192761604663989}
+{"sent": "curly hair", "ann_id": 487648, "best_split": [1, 5], "split_score": 0.5192761604663989}

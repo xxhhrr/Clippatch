@@ -1,0 +1,6 @@
+{"sent": "male clown", "ann_id": 492057, "best_split": [1, 2], "split_score": 0.7870310686867658}
+{"sent": "clown", "ann_id": 492057, "best_split": [1, 2], "split_score": 0.7870310686867658}
+{"sent": "clown face with xs", "ann_id": 492057, "best_split": [1, 2], "split_score": 0.7870310686867658}
+{"sent": "woman", "ann_id": 464961, "best_split": [1, 2], "split_score": 0.6837766370864918}
+{"sent": "girl clown", "ann_id": 464961, "best_split": [3, 2], "split_score": 0.45508455960602434}
+{"sent": "girl", "ann_id": 464961, "best_split": [1, 2], "split_score": 0.6837766370864918}

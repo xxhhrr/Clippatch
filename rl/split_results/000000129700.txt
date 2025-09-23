@@ -1,0 +1,9 @@
+{"sent": "red tie guy", "ann_id": 233924, "best_split": [3, 3], "split_score": 0.4947045707225885}
+{"sent": "red tie", "ann_id": 233924, "best_split": [3, 3], "split_score": 0.4947045707225885}
+{"sent": "red tie", "ann_id": 233924, "best_split": [3, 3], "split_score": 0.4947045707225885}
+{"sent": "tan tie", "ann_id": 214151, "best_split": [1, 5], "split_score": 0.5446947034537485}
+{"sent": "the man with the gold tie", "ann_id": 214151, "best_split": [1, 5], "split_score": 0.5446947034537485}
+{"sent": "man with yellow tie", "ann_id": 214151, "best_split": [1, 5], "split_score": 0.5446947034537485}
+{"sent": "the scarf", "ann_id": 194677, "best_split": [3, 3], "split_score": 0.3692574399928839}
+{"sent": "gray heair", "ann_id": 194677, "best_split": [3, 1], "split_score": 0.18865526801128377}
+{"sent": "person with scarfcoffe", "ann_id": 194677, "best_split": [3, 3], "split_score": 0.3692574399928839}

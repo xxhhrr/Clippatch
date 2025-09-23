@@ -1,0 +1,5 @@
+{"sent": "hoody boy", "ann_id": 455907, "best_split": [1, 3], "split_score": 0.6387271214310146}
+{"sent": "boy in hood", "ann_id": 455907, "best_split": [1, 3], "split_score": 0.6387271214310146}
+{"sent": "ball cap", "ann_id": 1726246, "best_split": [1, 2], "split_score": 0.53810586732549}
+{"sent": "about to take a bite", "ann_id": 1726246, "best_split": [1, 2], "split_score": 0.53810586732549}
+{"sent": "kid eating", "ann_id": 1726246, "best_split": [3, 2], "split_score": 0.44024325750659415}

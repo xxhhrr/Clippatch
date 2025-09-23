@@ -1,0 +1,6 @@
+{"sent": "farther big bench", "ann_id": 579376, "best_split": [3, 2], "split_score": 0.4784845649580818}
+{"sent": "green bench sitting closest to the person in pink jacket", "ann_id": 579376, "best_split": [3, 2], "split_score": 0.4784845649580818}
+{"sent": "bench closest to lady in pink", "ann_id": 579376, "best_split": [3, 2], "split_score": 0.4784845649580818}
+{"sent": "closer bench of two", "ann_id": 578787, "best_split": [2, 3], "split_score": 0.6317073170218124}
+{"sent": "nearest bench", "ann_id": 578787, "best_split": [2, 3], "split_score": 0.6317073170218124}
+{"sent": "closest bench", "ann_id": 578787, "best_split": [2, 3], "split_score": 0.6317073170218124}

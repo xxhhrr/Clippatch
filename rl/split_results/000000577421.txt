@@ -1,0 +1,6 @@
+{"sent": "lower horse", "ann_id": 60287, "best_split": [3, 2], "split_score": 0.46168461047643405}
+{"sent": "straighter legs", "ann_id": 60287, "best_split": [5, 1], "split_score": 0.2672064777158903}
+{"sent": "closer horse", "ann_id": 60287, "best_split": [3, 2], "split_score": 0.46168461047643405}
+{"sent": "the horse with both forefeet in the air", "ann_id": 56169, "best_split": [3, 3], "split_score": 0.4429984382557264}
+{"sent": "horse not fully visible", "ann_id": 56169, "best_split": [3, 3], "split_score": 0.4429984382557264}
+{"sent": "far horse", "ann_id": 56169, "best_split": [3, 3], "split_score": 0.4429984382557264}

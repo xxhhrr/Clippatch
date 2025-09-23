@@ -1,0 +1,8 @@
+{"sent": "dark blue shirt", "ann_id": 1273794, "best_split": [1, 2], "split_score": 0.701714866999647}
+{"sent": "purple shirt", "ann_id": 1273794, "best_split": [1, 2], "split_score": 0.701714866999647}
+{"sent": "purple", "ann_id": 1273794, "best_split": [1, 2], "split_score": 0.701714866999647}
+{"sent": "oldest guy", "ann_id": 1265479, "best_split": [1, 5], "split_score": 0.4309050324238124}
+{"sent": "old man sitting", "ann_id": 1265479, "best_split": [1, 5], "split_score": 0.4309050324238124}
+{"sent": "woman in white cutting cake", "ann_id": 1236552, "best_split": [1, 2], "split_score": 0.332299512616865}
+{"sent": "lady with long gray hair", "ann_id": 1236552, "best_split": [1, 3], "split_score": 0.7587976539192083}
+{"sent": "woman cutting cake", "ann_id": 1236552, "best_split": [1, 2], "split_score": 0.332299512616865}

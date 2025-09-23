@@ -1,0 +1,6 @@
+{"sent": "giraffe close to us", "ann_id": 600545, "best_split": [1, 5], "split_score": 0.532000644806384}
+{"sent": "closest giraffe", "ann_id": 600545, "best_split": [1, 5], "split_score": 0.532000644806384}
+{"sent": "giraffe closest to screen", "ann_id": 600545, "best_split": [1, 5], "split_score": 0.532000644806384}
+{"sent": "taller giraffe", "ann_id": 600318, "best_split": [1, 3], "split_score": 0.4102564102327179}
+{"sent": "behind the other giraffe", "ann_id": 600318, "best_split": [1, 3], "split_score": 0.4102564102327179}
+{"sent": "back giraffe", "ann_id": 600318, "best_split": [1, 3], "split_score": 0.4102564102327179}

@@ -1,0 +1,7 @@
+{"sent": "elephant mostly in water", "ann_id": 585002, "best_split": [3, 2], "split_score": 0.3366312740906574}
+{"sent": "at the corner", "ann_id": 585002, "best_split": [2, 3], "split_score": 0.13877467103836608}
+{"sent": "elephant that you can see most of its back", "ann_id": 583859, "best_split": [3, 1], "split_score": 0.4052339412934613}
+{"sent": "elephant closest to camera with back turned", "ann_id": 583859, "best_split": [3, 1], "split_score": 0.4052339412934613}
+{"sent": "elephant facing us", "ann_id": 580509, "best_split": [3, 3], "split_score": 0.42513368978273613}
+{"sent": "facing us", "ann_id": 580509, "best_split": [5, 1], "split_score": 0.31056117111270815}
+{"sent": "elephant facing us", "ann_id": 580509, "best_split": [3, 3], "split_score": 0.42513368978273613}

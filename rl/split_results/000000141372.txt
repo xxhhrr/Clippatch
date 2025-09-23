@@ -1,0 +1,5 @@
+{"sent": "clock face you cant read easily", "ann_id": 341159, "best_split": [5, 1], "split_score": 0.15137774676043095}
+{"sent": "clock face closer to white building", "ann_id": 341159, "best_split": [3, 3], "split_score": 0.3813400124637852}
+{"sent": "clock face away from us", "ann_id": 341159, "best_split": [5, 1], "split_score": 0.15137774676043095}
+{"sent": "clock by yellow house", "ann_id": 336237, "best_split": [3, 2], "split_score": 0.4201787994508138}
+{"sent": "face of clock is clearly visible", "ann_id": 336237, "best_split": [3, 2], "split_score": 0.4201787994508138}

@@ -1,0 +1,6 @@
+{"sent": "red bus no number", "ann_id": 164954, "best_split": [2, 2], "split_score": 0.1699586586916277}
+{"sent": "bus half hidden", "ann_id": 164954, "best_split": [3, 2], "split_score": 0.20161290320383468}
+{"sent": "bus that is cut off", "ann_id": 164954, "best_split": [3, 2], "split_score": 0.20161290320383468}
+{"sent": "the double decker bus", "ann_id": 162963, "best_split": [1, 3], "split_score": 0.47205346291997685}
+{"sent": "big bus", "ann_id": 162963, "best_split": [1, 3], "split_score": 0.47205346291997685}
+{"sent": "closest bus", "ann_id": 162963, "best_split": [1, 3], "split_score": 0.47205346291997685}

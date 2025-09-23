@@ -1,0 +1,6 @@
+{"sent": "wooden chair on the edge of photo not clearly seen", "ann_id": 1598275, "best_split": [2, 3], "split_score": 0.31939299793053016}
+{"sent": "chair back seen part near corner of 5pm", "ann_id": 1598275, "best_split": [2, 3], "split_score": 0.31939299793053016}
+{"sent": "the object in the darker part of the room next to table", "ann_id": 1598275, "best_split": [2, 3], "split_score": 0.31939299793053016}
+{"sent": "chair close to us", "ann_id": 102996, "best_split": [3, 1], "split_score": 0.19305019303854667}
+{"sent": "closest chair", "ann_id": 102996, "best_split": [3, 1], "split_score": 0.19305019303854667}
+{"sent": "chair at table", "ann_id": 102996, "best_split": [3, 3], "split_score": 0.5306986590453954}

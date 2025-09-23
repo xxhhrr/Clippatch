@@ -1,0 +1,6 @@
+{"sent": "thumb", "ann_id": 212742, "best_split": [3, 3], "split_score": 0.5536905965061991}
+{"sent": "hand pressing button", "ann_id": 212742, "best_split": [3, 2], "split_score": 0.5386829185255897}
+{"sent": "thumb", "ann_id": 212742, "best_split": [3, 3], "split_score": 0.5536905965061991}
+{"sent": "person on tv in corner", "ann_id": 183599, "best_split": [2, 2], "split_score": 0.247811352707723}
+{"sent": "man on tv with white in shirt", "ann_id": 183599, "best_split": [3, 1], "split_score": 0.2036153931349886}
+{"sent": "woman on tv", "ann_id": 183599, "best_split": [2, 2], "split_score": 0.247811352707723}

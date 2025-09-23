@@ -1,0 +1,5 @@
+{"sent": "man in brown shirt and sunglasses", "ann_id": 1267804, "best_split": [3, 3], "split_score": 0.33091922000962126}
+{"sent": "man in brown shirt", "ann_id": 1267804, "best_split": [3, 3], "split_score": 0.33091922000962126}
+{"sent": "man standing on goard", "ann_id": 1257390, "best_split": [3, 3], "split_score": 0.5615176151000654}
+{"sent": "skateboarder", "ann_id": 1257390, "best_split": [1, 3], "split_score": 0.36486486484285324}
+{"sent": "blue shirt", "ann_id": 1257390, "best_split": [3, 3], "split_score": 0.5615176151000654}

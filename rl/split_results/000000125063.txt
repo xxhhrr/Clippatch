@@ -1,0 +1,6 @@
+{"sent": "shorter zebra", "ann_id": 1412034, "best_split": [2, 1], "split_score": 0.4343640798960123}
+{"sent": "smaller zebra", "ann_id": 1412034, "best_split": [2, 1], "split_score": 0.4343640798960123}
+{"sent": "smaller zebra", "ann_id": 1412034, "best_split": [2, 1], "split_score": 0.4343640798960123}
+{"sent": "zebra whose back legs are not visible", "ann_id": 591765, "best_split": [1, 2], "split_score": 0.7595264668064602}
+{"sent": "closest larger appearing zebra", "ann_id": 591765, "best_split": [1, 2], "split_score": 0.7595264668064602}
+{"sent": "bigger zebra", "ann_id": 591765, "best_split": [1, 2], "split_score": 0.7595264668064602}

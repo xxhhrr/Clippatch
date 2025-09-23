@@ -1,0 +1,6 @@
+{"sent": "man driving", "ann_id": 2206034, "best_split": [1, 3], "split_score": 0.7008585629970143}
+{"sent": "bike driver", "ann_id": 2206034, "best_split": [1, 3], "split_score": 0.7008585629970143}
+{"sent": "driver", "ann_id": 2206034, "best_split": [1, 3], "split_score": 0.7008585629970143}
+{"sent": "woman in red", "ann_id": 492541, "best_split": [2, 3], "split_score": 0.4118475308848589}
+{"sent": "girl in red riding side saddle on the bike", "ann_id": 492541, "best_split": [1, 5], "split_score": 0.34755202483830827}
+{"sent": "girl riding behind", "ann_id": 492541, "best_split": [1, 5], "split_score": 0.34755202483830827}

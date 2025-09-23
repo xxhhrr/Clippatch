@@ -1,0 +1,6 @@
+{"sent": "taller giraffe", "ann_id": 597408, "best_split": [1, 2], "split_score": 0.6094109231949775}
+{"sent": "the giraffe you can see the clearest", "ann_id": 597408, "best_split": [1, 2], "split_score": 0.6094109231949775}
+{"sent": "taller", "ann_id": 597408, "best_split": [1, 2], "split_score": 0.6094109231949775}
+{"sent": "lower head", "ann_id": 595488, "best_split": [2, 2], "split_score": 0.7426800073204419}
+{"sent": "closer to us shorter", "ann_id": 595488, "best_split": [2, 1], "split_score": 0.5876352635229556}
+{"sent": "lower giraffe", "ann_id": 595488, "best_split": [2, 1], "split_score": 0.5876352635229556}

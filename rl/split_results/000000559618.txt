@@ -1,0 +1,10 @@
+{"sent": "key pad only on laptop with smaller white box", "ann_id": 1117592, "best_split": [2, 2], "split_score": 0.22425063773722492}
+{"sent": "keyboard laptop with space background", "ann_id": 1117592, "best_split": [3, 2], "split_score": 0.3394063706154191}
+{"sent": "keyboard with white screen", "ann_id": 1117275, "best_split": [3, 2], "split_score": 0.3706563706116486}
+{"sent": "keyboard of white screen", "ann_id": 1117275, "best_split": [3, 2], "split_score": 0.3706563706116486}
+{"sent": "blue screen", "ann_id": 1103554, "best_split": [1, 2], "split_score": 0.5751753826301349}
+{"sent": "laptop with picture on screen", "ann_id": 1103554, "best_split": [1, 2], "split_score": 0.5751753826301349}
+{"sent": "laptop with window open blue screen", "ann_id": 1103554, "best_split": [1, 2], "split_score": 0.5751753826301349}
+{"sent": "laptop white screen", "ann_id": 1097923, "best_split": [3, 2], "split_score": 0.5535097813180733}
+{"sent": "bright screen", "ann_id": 1097923, "best_split": [5, 1], "split_score": 0.24612736659605597}
+{"sent": "brightest screen", "ann_id": 1097923, "best_split": [3, 1], "split_score": 0.3467916366101842}

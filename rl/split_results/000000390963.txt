@@ -1,0 +1,9 @@
+{"sent": "woman with gator on back of shirt", "ann_id": 557992, "best_split": [1, 5], "split_score": 0.8035714284898974}
+{"sent": "girl with gray shirt", "ann_id": 557992, "best_split": [1, 5], "split_score": 0.8035714284898974}
+{"sent": "partial woman", "ann_id": 557992, "best_split": [1, 2], "split_score": 0.3156887754976208}
+{"sent": "long blond hair", "ann_id": 553983, "best_split": [1, 5], "split_score": 0.5153824442199137}
+{"sent": "patterned shirt red hair", "ann_id": 553983, "best_split": [1, 5], "split_score": 0.5153824442199137}
+{"sent": "wild shirt", "ann_id": 553983, "best_split": [1, 5], "split_score": 0.5153824442199137}
+{"sent": "the man", "ann_id": 486960, "best_split": [1, 2], "split_score": 0.6119260203837721}
+{"sent": "man", "ann_id": 486960, "best_split": [1, 2], "split_score": 0.6119260203837721}
+{"sent": "man in black tshirt", "ann_id": 486960, "best_split": [1, 3], "split_score": 0.8803297997125836}

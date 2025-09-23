@@ -1,0 +1,8 @@
+{"sent": "partial banana that the minion is not leaning on", "ann_id": 1905078, "best_split": [3, 2], "split_score": 0.26858108104867506}
+{"sent": "small partial banana that minion is touching", "ann_id": 1905078, "best_split": [3, 2], "split_score": 0.26858108104867506}
+{"sent": "full banana near minion", "ann_id": 1043532, "best_split": [3, 1], "split_score": 0.6342857142533528}
+{"sent": "banana touched with crossed steel wires", "ann_id": 1043532, "best_split": [3, 1], "split_score": 0.6342857142533528}
+{"sent": "up most banana", "ann_id": 1043532, "best_split": [3, 1], "split_score": 0.6342857142533528}
+{"sent": "whole banana on the side", "ann_id": 1042938, "best_split": [2, 1], "split_score": 0.4808105398653583}
+{"sent": "banana in bowl", "ann_id": 1042938, "best_split": [2, 1], "split_score": 0.4808105398653583}
+{"sent": "banana with spots", "ann_id": 1042938, "best_split": [2, 1], "split_score": 0.4808105398653583}

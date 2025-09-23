@@ -1,0 +1,9 @@
+{"sent": "beige toyota camry", "ann_id": 354553, "best_split": [5, 1], "split_score": 0.28916396100962216}
+{"sent": "silver car", "ann_id": 354553, "best_split": [3, 1], "split_score": 0.17193532817495563}
+{"sent": "silver car in the sun", "ann_id": 354553, "best_split": [3, 1], "split_score": 0.17193532817495563}
+{"sent": "hatchback", "ann_id": 352909, "best_split": [3, 3], "split_score": 0.4824120602149296}
+{"sent": "hatchback next to silver car", "ann_id": 352909, "best_split": [3, 3], "split_score": 0.4824120602149296}
+{"sent": "the suv next to silver car", "ann_id": 352909, "best_split": [3, 3], "split_score": 0.4824120602149296}
+{"sent": "car near curb", "ann_id": 351051, "best_split": [2, 2], "split_score": 0.46398005253292135}
+{"sent": "mercedes", "ann_id": 351051, "best_split": [2, 2], "split_score": 0.46398005253292135}
+{"sent": "closest car", "ann_id": 351051, "best_split": [2, 2], "split_score": 0.46398005253292135}

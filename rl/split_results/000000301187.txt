@@ -1,0 +1,5 @@
+{"sent": "horse closer to edge of frame", "ann_id": 60260, "best_split": [3, 2], "split_score": 0.594221687138233}
+{"sent": "horse at edge of picture", "ann_id": 60260, "best_split": [3, 2], "split_score": 0.594221687138233}
+{"sent": "donkey closest to trees", "ann_id": 60260, "best_split": [3, 2], "split_score": 0.594221687138233}
+{"sent": "horse looking at camera", "ann_id": 59292, "best_split": [3, 1], "split_score": 0.29897441208437925}
+{"sent": "closest horse to us", "ann_id": 59292, "best_split": [3, 1], "split_score": 0.29897441208437925}

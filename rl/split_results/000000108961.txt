@@ -1,0 +1,5 @@
+{"sent": "partial zebra", "ann_id": 589594, "best_split": [3, 2], "split_score": 0.19475582413541712}
+{"sent": "barely visible part of zebra on side", "ann_id": 589594, "best_split": [3, 2], "split_score": 0.19475582413541712}
+{"sent": "the zebra eating", "ann_id": 589594, "best_split": [3, 2], "split_score": 0.19475582413541712}
+{"sent": "main", "ann_id": 588190, "best_split": [1, 2], "split_score": 0.6163493330117333}
+{"sent": "he sees you lol", "ann_id": 588190, "best_split": [1, 3], "split_score": 0.45607250753909145}

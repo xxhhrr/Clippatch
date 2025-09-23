@@ -1,0 +1,11 @@
+{"sent": "bananas and berries", "ann_id": 1540492, "best_split": [2, 2], "split_score": 0.6159355415834127}
+{"sent": "banana", "ann_id": 1540492, "best_split": [2, 2], "split_score": 0.6159355415834127}
+{"sent": "section with blueberries in it", "ann_id": 1540492, "best_split": [2, 2], "split_score": 0.6159355415834127}
+{"sent": "orange container", "ann_id": 1538918, "best_split": [2, 1], "split_score": 0.3933252057149754}
+{"sent": "grated cheese", "ann_id": 1538918, "best_split": [2, 2], "split_score": 0.6667591564465345}
+{"sent": "rice dish beside oranges", "ann_id": 1538918, "best_split": [2, 1], "split_score": 0.3933252057149754}
+{"sent": "orange", "ann_id": 1534224, "best_split": [2, 2], "split_score": 0.4712474196054816}
+{"sent": "oranges", "ann_id": 1534224, "best_split": [2, 2], "split_score": 0.4712474196054816}
+{"sent": "sauce", "ann_id": 1533550, "best_split": [2, 2], "split_score": 0.4398915815975852}
+{"sent": "jelly bowl", "ann_id": 1533550, "best_split": [1, 2], "split_score": 0.21994579080755955}
+{"sent": "red stuff", "ann_id": 1533550, "best_split": [2, 2], "split_score": 0.4398915815975852}

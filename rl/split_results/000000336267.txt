@@ -1,0 +1,9 @@
+{"sent": "bird looking in different direction than other two", "ann_id": 44419, "best_split": [3, 1], "split_score": 0.18034118601846358}
+{"sent": "bird looking away", "ann_id": 44419, "best_split": [2, 2], "split_score": 0.2983783783582177}
+{"sent": "bird back to us", "ann_id": 44419, "best_split": [2, 3], "split_score": 0.4065438134254848}
+{"sent": "bird turned to side without head cocked funny", "ann_id": 43908, "best_split": [2, 2], "split_score": 0.6117228643313233}
+{"sent": "bird all the way lefty", "ann_id": 43908, "best_split": [3, 2], "split_score": 0.39950713920421055}
+{"sent": "bird at 8 o clock", "ann_id": 43908, "best_split": [1, 2], "split_score": 0.42178210023145324}
+{"sent": "bird not on any edge", "ann_id": 38961, "best_split": [3, 3], "split_score": 0.44554455440749624}
+{"sent": "main bird", "ann_id": 38961, "best_split": [3, 3], "split_score": 0.44554455440749624}
+{"sent": "the bird between the birds", "ann_id": 38961, "best_split": [3, 1], "split_score": 0.4023093631872465}

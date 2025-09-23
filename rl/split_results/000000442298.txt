@@ -1,0 +1,9 @@
+{"sent": "light blue shirt guy", "ann_id": 500228, "best_split": [1, 5], "split_score": 0.35325365202492376}
+{"sent": "teal shirt", "ann_id": 500228, "best_split": [1, 5], "split_score": 0.35325365202492376}
+{"sent": "blue shirt next to red shirt", "ann_id": 500228, "best_split": [1, 5], "split_score": 0.35325365202492376}
+{"sent": "man in plaid shirt", "ann_id": 428357, "best_split": [3, 3], "split_score": 0.6287111420487755}
+{"sent": "the guy in red plaid", "ann_id": 428357, "best_split": [3, 3], "split_score": 0.6287111420487755}
+{"sent": "plaid shirt", "ann_id": 428357, "best_split": [3, 3], "split_score": 0.6287111420487755}
+{"sent": "guy in pink", "ann_id": 500732, "best_split": [3, 1], "split_score": 0.1680771038923321}
+{"sent": "red shirt with blue letters", "ann_id": 500732, "best_split": [3, 3], "split_score": 0.47050938329917735}
+{"sent": "pink shirt on the courch", "ann_id": 500732, "best_split": [3, 2], "split_score": 0.32768102654357456}

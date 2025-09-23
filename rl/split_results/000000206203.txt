@@ -1,0 +1,9 @@
+{"sent": "jeep with two tires on back", "ann_id": 2053469, "best_split": [3, 3], "split_score": 0.32252729071741193}
+{"sent": "car with 2 spare tires", "ann_id": 2053469, "best_split": [3, 3], "split_score": 0.32252729071741193}
+{"sent": "jeep", "ann_id": 2053469, "best_split": [3, 3], "split_score": 0.32252729071741193}
+{"sent": "truck next to white suv", "ann_id": 396703, "best_split": [5, 1], "split_score": 0.24581115708202136}
+{"sent": "in between yellow truck and white car under awning", "ann_id": 396703, "best_split": [5, 1], "split_score": 0.24581115708202136}
+{"sent": "in between yellow truck and white truck", "ann_id": 396703, "best_split": [5, 1], "split_score": 0.24581115708202136}
+{"sent": "yellow truck", "ann_id": 395553, "best_split": [2, 3], "split_score": 0.33252895748883576}
+{"sent": "yellow truck", "ann_id": 395553, "best_split": [2, 3], "split_score": 0.33252895748883576}
+{"sent": "yellow truck", "ann_id": 395553, "best_split": [2, 3], "split_score": 0.33252895748883576}

@@ -1,0 +1,6 @@
+{"sent": "bus cut off", "ann_id": 248149, "best_split": [2, 3], "split_score": 0.19092297619562262}
+{"sent": "bus behind", "ann_id": 248149, "best_split": [5, 1], "split_score": 0.14155084124528614}
+{"sent": "bus that cant be completely seen", "ann_id": 248149, "best_split": [3, 3], "split_score": 0.341944030411998}
+{"sent": "white bus", "ann_id": 166554, "best_split": [3, 1], "split_score": 0.6310897762929686}
+{"sent": "main bus", "ann_id": 166554, "best_split": [3, 1], "split_score": 0.6310897762929686}
+{"sent": "white bus", "ann_id": 166554, "best_split": [3, 1], "split_score": 0.6310897762929686}

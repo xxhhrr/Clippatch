@@ -1,0 +1,5 @@
+{"sent": "largest plate", "ann_id": 1039629, "best_split": [1, 2], "split_score": 0.5000380836126118}
+{"sent": "big piece of broccoli", "ann_id": 1039629, "best_split": [1, 2], "split_score": 0.5000380836126118}
+{"sent": "plate not by sink", "ann_id": 1039629, "best_split": [2, 1], "split_score": 0.19727643017212973}
+{"sent": "bowl on right", "ann_id": 1039003, "best_split": [2, 2], "split_score": 0.5837759536053131}
+{"sent": "plate further from us", "ann_id": 1039003, "best_split": [2, 2], "split_score": 0.5837759536053131}

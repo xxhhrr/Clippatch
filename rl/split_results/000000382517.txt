@@ -1,0 +1,12 @@
+{"sent": "only case on floor we can see full side", "ann_id": 1447427, "best_split": [1, 5], "split_score": 0.19896640825037223}
+{"sent": "box near poster on ground", "ann_id": 1447427, "best_split": [1, 5], "split_score": 0.19896640825037223}
+{"sent": "suitcase next to the word here", "ann_id": 1447427, "best_split": [1, 5], "split_score": 0.19896640825037223}
+{"sent": "third suitcase on pile next to chair", "ann_id": 1446892, "best_split": [3, 2], "split_score": 0.1969111968874383}
+{"sent": "3 rd down near chair", "ann_id": 1446892, "best_split": [1, 2], "split_score": 0.06505102040557036}
+{"sent": "rectangle suitcase under circle box under picture", "ann_id": 1446892, "best_split": [2, 1], "split_score": 0.05362776025025127}
+{"sent": "brown suitcase", "ann_id": 1446806, "best_split": [3, 1], "split_score": 0.09411196910629151}
+{"sent": "vox behind chair", "ann_id": 1447571, "best_split": [5, 1], "split_score": 0.2678571428299658}
+{"sent": "lowest box in stack", "ann_id": 1447571, "best_split": [3, 1], "split_score": 0.04799301919459026}
+{"sent": "suitcase hidden by chair", "ann_id": 1447571, "best_split": [1, 5], "split_score": 0.1314741035737528}
+{"sent": "suit case level to the chair", "ann_id": 1447493, "best_split": [3, 2], "split_score": 0.33880308876221005}
+{"sent": "only case with vertical striping", "ann_id": 1447493, "best_split": [1, 5], "split_score": 0.04144736841764413}

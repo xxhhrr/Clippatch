@@ -1,0 +1,6 @@
+{"sent": "whole cheese pizza", "ann_id": 1074380, "best_split": [3, 3], "split_score": 0.4481989160905006}
+{"sent": "full pizza", "ann_id": 1074380, "best_split": [3, 3], "split_score": 0.4481989160905006}
+{"sent": "whole pizza", "ann_id": 1074380, "best_split": [3, 3], "split_score": 0.4481989160905006}
+{"sent": "one slice", "ann_id": 1071258, "best_split": [3, 1], "split_score": 0.2334700772059924}
+{"sent": "slice", "ann_id": 1071258, "best_split": [3, 1], "split_score": 0.2334700772059924}
+{"sent": "slice of pizza", "ann_id": 1071258, "best_split": [3, 1], "split_score": 0.2334700772059924}

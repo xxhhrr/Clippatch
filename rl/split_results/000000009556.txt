@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 513007, "best_split": [1, 3], "split_score": 0.7769672855450394}
+{"sent": "guy", "ann_id": 513007, "best_split": [1, 3], "split_score": 0.7769672855450394}
+{"sent": "man with glasses", "ann_id": 513007, "best_split": [1, 3], "split_score": 0.7769672855450394}
+{"sent": "black and white stripe skirt", "ann_id": 462221, "best_split": [1, 3], "split_score": 0.8570225310140543}
+{"sent": "woman in feathers and corset", "ann_id": 462221, "best_split": [1, 3], "split_score": 0.8570225310140543}
+{"sent": "closest woman", "ann_id": 462221, "best_split": [1, 2], "split_score": 0.7453762754804936}

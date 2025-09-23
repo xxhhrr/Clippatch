@@ -1,0 +1,12 @@
+{"sent": "laptop facing away", "ann_id": 1099088, "best_split": [1, 5], "split_score": 0.49623913250989166}
+{"sent": "back of laptop", "ann_id": 1099088, "best_split": [1, 5], "split_score": 0.49623913250989166}
+{"sent": "black laptop back", "ann_id": 1099088, "best_split": [1, 5], "split_score": 0.49623913250989166}
+{"sent": "keep calm", "ann_id": 1098065, "best_split": [2, 2], "split_score": 0.6766716026496941}
+{"sent": "keep calm", "ann_id": 1098065, "best_split": [2, 2], "split_score": 0.6766716026496941}
+{"sent": "computer screen", "ann_id": 1098065, "best_split": [1, 2], "split_score": 0.6734295280343818}
+{"sent": "man gray shirt behind screen", "ann_id": 517211, "best_split": [2, 3], "split_score": 0.538573507949826}
+{"sent": "man only chin visible", "ann_id": 517211, "best_split": [3, 1], "split_score": 0.3927364864627934}
+{"sent": "man behind screen", "ann_id": 517211, "best_split": [2, 1], "split_score": 0.2594866071325141}
+{"sent": "stripped man", "ann_id": 434646, "best_split": [2, 2], "split_score": 0.564193328756692}
+{"sent": "guy in glasses", "ann_id": 434646, "best_split": [2, 2], "split_score": 0.564193328756692}
+{"sent": "striped shirt scratching his head", "ann_id": 434646, "best_split": [2, 2], "split_score": 0.564193328756692}

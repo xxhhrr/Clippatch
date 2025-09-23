@@ -1,0 +1,5 @@
+{"sent": "oranges closest litte one", "ann_id": 1053804, "best_split": [1, 2], "split_score": 0.6709582270140722}
+{"sent": "potatoes in bowl at 3 o clock and beyond", "ann_id": 1053804, "best_split": [1, 2], "split_score": 0.6709582270140722}
+{"sent": "leaf between oranges and tomatoes", "ann_id": 1053804, "best_split": [1, 2], "split_score": 0.6709582270140722}
+{"sent": "orange in white bowl closest to west side", "ann_id": 1052973, "best_split": [2, 1], "split_score": 0.14094625703973382}
+{"sent": "western orange", "ann_id": 1052973, "best_split": [2, 1], "split_score": 0.14094625703973382}

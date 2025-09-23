@@ -1,0 +1,9 @@
+{"sent": "man playing game", "ann_id": 202755, "best_split": [2, 1], "split_score": 0.0655928718277727}
+{"sent": "man playing", "ann_id": 202755, "best_split": [3, 2], "split_score": 0.4479335493873649}
+{"sent": "man", "ann_id": 202755, "best_split": [3, 2], "split_score": 0.4479335493873649}
+{"sent": "man holding baby", "ann_id": 193564, "best_split": [2, 3], "split_score": 0.2859672421108934}
+{"sent": "man on ground hugging child", "ann_id": 193564, "best_split": [2, 3], "split_score": 0.2859672421108934}
+{"sent": "guy sitting with baby", "ann_id": 193564, "best_split": [2, 3], "split_score": 0.2859672421108934}
+{"sent": "boy in white shirt", "ann_id": 2206404, "best_split": [1, 5], "split_score": 0.40379746832248437}
+{"sent": "little boy facing tv", "ann_id": 2206404, "best_split": [2, 1], "split_score": 0.28993897667462293}
+{"sent": "kid standing", "ann_id": 2206404, "best_split": [2, 2], "split_score": 0.5692780337504395}

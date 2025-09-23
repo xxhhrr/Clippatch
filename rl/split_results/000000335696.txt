@@ -1,0 +1,6 @@
+{"sent": "blond woman", "ann_id": 2157507, "best_split": [1, 2], "split_score": 0.4355364867585442}
+{"sent": "woman in tan pants", "ann_id": 2157507, "best_split": [1, 3], "split_score": 0.4347318824126214}
+{"sent": "woman in white shirt", "ann_id": 2157507, "best_split": [1, 2], "split_score": 0.4355364867585442}
+{"sent": "lady in vest", "ann_id": 442649, "best_split": [1, 2], "split_score": 0.583545918344087}
+{"sent": "woman face visible", "ann_id": 442649, "best_split": [1, 2], "split_score": 0.583545918344087}
+{"sent": "older woman", "ann_id": 442649, "best_split": [1, 2], "split_score": 0.583545918344087}

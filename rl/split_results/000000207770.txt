@@ -1,0 +1,5 @@
+{"sent": "closest boat", "ann_id": 1801234, "best_split": [5, 1], "split_score": 0.4337788577995332}
+{"sent": "boat that look largest", "ann_id": 1801234, "best_split": [5, 1], "split_score": 0.4337788577995332}
+{"sent": "boat", "ann_id": 1801234, "best_split": [5, 1], "split_score": 0.4337788577995332}
+{"sent": "boat that is not totally visible but you can see lettering", "ann_id": 177227, "best_split": [3, 2], "split_score": 0.5624999999321307}
+{"sent": "canoe near the one you can partially see", "ann_id": 177227, "best_split": [3, 2], "split_score": 0.5624999999321307}

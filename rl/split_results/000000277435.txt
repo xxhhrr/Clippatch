@@ -1,0 +1,6 @@
+{"sent": "brown teddy", "ann_id": 1162812, "best_split": [1, 2], "split_score": 0.5185821209694915}
+{"sent": "big bear", "ann_id": 1162812, "best_split": [1, 2], "split_score": 0.5185821209694915}
+{"sent": "larger bear", "ann_id": 1162812, "best_split": [1, 2], "split_score": 0.5185821209694915}
+{"sent": "smaller", "ann_id": 1162685, "best_split": [3, 3], "split_score": 0.4214876032400612}
+{"sent": "smaller", "ann_id": 1162685, "best_split": [3, 3], "split_score": 0.4214876032400612}
+{"sent": "small white bear", "ann_id": 1162685, "best_split": [2, 2], "split_score": 0.1991701244665701}

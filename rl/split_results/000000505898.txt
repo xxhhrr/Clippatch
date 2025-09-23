@@ -1,0 +1,6 @@
+{"sent": "dog holder", "ann_id": 216617, "best_split": [1, 2], "split_score": 0.9777582907773533}
+{"sent": "blue shirt", "ann_id": 216617, "best_split": [1, 2], "split_score": 0.9777582907773533}
+{"sent": "person in blue sweater", "ann_id": 216617, "best_split": [1, 2], "split_score": 0.9777582907773533}
+{"sent": "the one with the m on their shirt", "ann_id": 207018, "best_split": [1, 5], "split_score": 0.33070712962448134}
+{"sent": "ms guy", "ann_id": 207018, "best_split": [1, 2], "split_score": 0.15246332907555551}
+{"sent": "m on shirt", "ann_id": 207018, "best_split": [1, 5], "split_score": 0.33070712962448134}

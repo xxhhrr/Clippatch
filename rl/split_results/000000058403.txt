@@ -1,0 +1,6 @@
+{"sent": "person with cake", "ann_id": 434049, "best_split": [1, 3], "split_score": 0.29241645243041386}
+{"sent": "girl in purple", "ann_id": 434049, "best_split": [1, 2], "split_score": 0.6218112244650107}
+{"sent": "purple shirt", "ann_id": 434049, "best_split": [1, 2], "split_score": 0.6218112244650107}
+{"sent": "blue shirt", "ann_id": 2155959, "best_split": [1, 2], "split_score": 0.45659279334914726}
+{"sent": "woman in blue", "ann_id": 2155959, "best_split": [1, 2], "split_score": 0.45659279334914726}
+{"sent": "blue shirt", "ann_id": 2155959, "best_split": [1, 2], "split_score": 0.45659279334914726}

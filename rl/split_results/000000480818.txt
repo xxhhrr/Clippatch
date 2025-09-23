@@ -1,0 +1,11 @@
+{"sent": "woman white shirt dark blue jacket", "ann_id": 1290642, "best_split": [3, 3], "split_score": 0.46633941085793484}
+{"sent": "woman blue jacket", "ann_id": 1290642, "best_split": [3, 3], "split_score": 0.46633941085793484}
+{"sent": "black coat lady with purple phone", "ann_id": 1290642, "best_split": [3, 3], "split_score": 0.46633941085793484}
+{"sent": "man in dark suit closest to us", "ann_id": 1278247, "best_split": [3, 1], "split_score": 0.15548051216380654}
+{"sent": "man in black with back to us", "ann_id": 1278247, "best_split": [2, 3], "split_score": 0.7648709920366111}
+{"sent": "black hair black shirt in corner", "ann_id": 1278247, "best_split": [2, 3], "split_score": 0.7648709920366111}
+{"sent": "white shirt can only see back of head", "ann_id": 1262930, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man in white where you can see the back of his head", "ann_id": 1262930, "best_split": [1, 2], "split_score": 0.28842474488646264}
+{"sent": "white shirt back of head", "ann_id": 1262930, "best_split": [3, 3], "split_score": 0.6394119163477673}
+{"sent": "black suit white hair reaching", "ann_id": 1232930, "best_split": [3, 1], "split_score": 0.306027820694081}
+{"sent": "wnite man in black coat", "ann_id": 1232930, "best_split": [3, 1], "split_score": 0.306027820694081}

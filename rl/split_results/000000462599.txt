@@ -1,0 +1,6 @@
+{"sent": "red flower", "ann_id": 1956023, "best_split": [2, 2], "split_score": 0.4661199827075578}
+{"sent": "plant by yellow and red ribbons", "ann_id": 1956023, "best_split": [3, 2], "split_score": 0.646399055435453}
+{"sent": "red plant", "ann_id": 1956023, "best_split": [3, 2], "split_score": 0.646399055435453}
+{"sent": "flowers with purple and white", "ann_id": 23620, "best_split": [2, 2], "split_score": 0.5819041986559799}
+{"sent": "purple flowers plant", "ann_id": 23620, "best_split": [2, 2], "split_score": 0.5819041986559799}
+{"sent": "the plant near rightest full", "ann_id": 23620, "best_split": [2, 1], "split_score": 0.30193310830385345}

@@ -1,0 +1,5 @@
+{"sent": "glass with no straw", "ann_id": 682517, "best_split": [3, 3], "split_score": 0.5547845141426617}
+{"sent": "other persons drink next to salad", "ann_id": 682517, "best_split": [5, 1], "split_score": 0.1953277092615808}
+{"sent": "drink", "ann_id": 681914, "best_split": [2, 2], "split_score": 0.449494949459478}
+{"sent": "milk shake with straw", "ann_id": 681914, "best_split": [2, 2], "split_score": 0.449494949459478}
+{"sent": "glass with straw", "ann_id": 681914, "best_split": [2, 3], "split_score": 0.6592592591817449}

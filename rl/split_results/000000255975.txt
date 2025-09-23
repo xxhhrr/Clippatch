@@ -1,0 +1,5 @@
+{"sent": "silver truck", "ann_id": 353642, "best_split": [1, 2], "split_score": 0.4547261543298309}
+{"sent": "closest vehicle", "ann_id": 353642, "best_split": [1, 2], "split_score": 0.4547261543298309}
+{"sent": "car", "ann_id": 353642, "best_split": [1, 2], "split_score": 0.4547261543298309}
+{"sent": "van not truck", "ann_id": 351806, "best_split": [3, 1], "split_score": 0.25496854088410226}
+{"sent": "blue car", "ann_id": 351806, "best_split": [3, 3], "split_score": 0.5720367465189293}

@@ -1,0 +1,6 @@
+{"sent": "fridge door thats closed", "ann_id": 2140874, "best_split": [3, 1], "split_score": 0.17174721188678985}
+{"sent": "white thing between woman and the frig", "ann_id": 2140874, "best_split": [3, 1], "split_score": 0.17174721188678985}
+{"sent": "closed fridge door", "ann_id": 2140874, "best_split": [3, 1], "split_score": 0.17174721188678985}
+{"sent": "open fridge", "ann_id": 331225, "best_split": [3, 3], "split_score": 0.46617561538416596}
+{"sent": "fridge", "ann_id": 331225, "best_split": [3, 3], "split_score": 0.46617561538416596}
+{"sent": "open fridge door", "ann_id": 331225, "best_split": [3, 3], "split_score": 0.46617561538416596}

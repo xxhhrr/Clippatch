@@ -1,0 +1,6 @@
+{"sent": "boy in blue shirt", "ann_id": 2149552, "best_split": [3, 3], "split_score": 0.41763668426652234}
+{"sent": "kid blue shirt", "ann_id": 2149552, "best_split": [3, 3], "split_score": 0.41763668426652234}
+{"sent": "boy with round toy", "ann_id": 2149552, "best_split": [3, 3], "split_score": 0.41763668426652234}
+{"sent": "boy crawling", "ann_id": 2149462, "best_split": [2, 3], "split_score": 0.455463316080832}
+{"sent": "kid face down", "ann_id": 2149462, "best_split": [2, 3], "split_score": 0.455463316080832}
+{"sent": "kid in sand back to us", "ann_id": 2149462, "best_split": [2, 1], "split_score": 0.16050826316805003}

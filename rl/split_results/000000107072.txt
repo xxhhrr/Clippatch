@@ -1,0 +1,12 @@
+{"sent": "girl with sunglasses", "ann_id": 1277031, "best_split": [1, 2], "split_score": 0.2804129464173942}
+{"sent": "sunglasses lady", "ann_id": 1277031, "best_split": [1, 2], "split_score": 0.2804129464173942}
+{"sent": "girl with glasses and blood on face", "ann_id": 1277031, "best_split": [2, 1], "split_score": 0.10872191350192517}
+{"sent": "large woman", "ann_id": 1267398, "best_split": [1, 3], "split_score": 0.507851880549251}
+{"sent": "large woman", "ann_id": 1267398, "best_split": [1, 3], "split_score": 0.507851880549251}
+{"sent": "lady in black hoodie", "ann_id": 1267398, "best_split": [1, 3], "split_score": 0.507851880549251}
+{"sent": "boy in black tie", "ann_id": 1239945, "best_split": [1, 3], "split_score": 0.5130912161852623}
+{"sent": "guy with black tie", "ann_id": 1239945, "best_split": [1, 3], "split_score": 0.5130912161852623}
+{"sent": "shortest boy in white shirt and blood", "ann_id": 1239945, "best_split": [1, 3], "split_score": 0.5130912161852623}
+{"sent": "man with white coat", "ann_id": 1314389, "best_split": [1, 5], "split_score": 0.4281955186645247}
+{"sent": "black glasses bloody boy with blue tie", "ann_id": 1314389, "best_split": [1, 5], "split_score": 0.4281955186645247}
+{"sent": "man in white suit with jacket", "ann_id": 1314389, "best_split": [1, 5], "split_score": 0.4281955186645247}

@@ -1,0 +1,10 @@
+{"sent": "apple by the end of the banana", "ann_id": 1048908, "best_split": [1, 3], "split_score": 0.2627118643917366}
+{"sent": "apple near low part of banana", "ann_id": 1048908, "best_split": [1, 3], "split_score": 0.2627118643917366}
+{"sent": "apple at 600 anyone", "ann_id": 1048908, "best_split": [2, 3], "split_score": 0.49999999994551003}
+{"sent": "the single apple not in a row of three", "ann_id": 1048709, "best_split": [2, 2], "split_score": 0.37954400507178376}
+{"sent": "reddest apple", "ann_id": 1048144, "best_split": [3, 2], "split_score": 0.18368107300822642}
+{"sent": "apple at banana where you peel it", "ann_id": 1048144, "best_split": [5, 1], "split_score": 0.26515420061457334}
+{"sent": "upper apple", "ann_id": 1048144, "best_split": [3, 2], "split_score": 0.18368107300822642}
+{"sent": "yellowest apple", "ann_id": 1047540, "best_split": [3, 3], "split_score": 0.6541824780309878}
+{"sent": "yellowest apple", "ann_id": 1047540, "best_split": [3, 3], "split_score": 0.6541824780309878}
+{"sent": "greenest apple by banana", "ann_id": 1047540, "best_split": [3, 3], "split_score": 0.6541824780309878}

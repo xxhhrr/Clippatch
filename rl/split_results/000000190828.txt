@@ -1,0 +1,9 @@
+{"sent": "fruit topping striped cake", "ann_id": 1088680, "best_split": [2, 2], "split_score": 0.2884247448749661}
+{"sent": "stripes", "ann_id": 1088680, "best_split": [1, 2], "split_score": 0.14421237244323132}
+{"sent": "black and white swirly pie", "ann_id": 1088680, "best_split": [2, 2], "split_score": 0.2884247448749661}
+{"sent": "cake wwhipped cream", "ann_id": 1088598, "best_split": [2, 3], "split_score": 0.3814898419433984}
+{"sent": "massive mound of whip cream", "ann_id": 1088598, "best_split": [2, 3], "split_score": 0.3814898419433984}
+{"sent": "the pie with the white frosting", "ann_id": 1088598, "best_split": [2, 1], "split_score": 0.02009273570253995}
+{"sent": "lonely piece of pie on plate with fork", "ann_id": 1084678, "best_split": [2, 3], "split_score": 0.5244755244182172}
+{"sent": "closest dessert", "ann_id": 1084678, "best_split": [2, 3], "split_score": 0.5244755244182172}
+{"sent": "cake closest to ys", "ann_id": 1084678, "best_split": [2, 3], "split_score": 0.5244755244182172}

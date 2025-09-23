@@ -1,0 +1,11 @@
+{"sent": "a gray bag", "ann_id": 2072352, "best_split": [3, 2], "split_score": 0.3572265167068135}
+{"sent": "bag on ground next to bottle", "ann_id": 2072352, "best_split": [3, 2], "split_score": 0.3572265167068135}
+{"sent": "bag near bottle and bed", "ann_id": 2072352, "best_split": [3, 3], "split_score": 0.3244793238266708}
+{"sent": "black bag with zippers", "ann_id": 1417683, "best_split": [1, 5], "split_score": 0.44137125044396464}
+{"sent": "person in corner", "ann_id": 1417683, "best_split": [1, 5], "split_score": 0.44137125044396464}
+{"sent": "bed with man packing", "ann_id": 319794, "best_split": [2, 2], "split_score": 0.7444147205014522}
+{"sent": "bed under off lamp", "ann_id": 319794, "best_split": [2, 2], "split_score": 0.7444147205014522}
+{"sent": "cutoff bed", "ann_id": 319794, "best_split": [2, 2], "split_score": 0.7444147205014522}
+{"sent": "bed man is not at", "ann_id": 319729, "best_split": [2, 1], "split_score": 0.37706135788229606}
+{"sent": "bed by the wall", "ann_id": 319729, "best_split": [2, 1], "split_score": 0.37706135788229606}
+{"sent": "bed behind man", "ann_id": 319729, "best_split": [2, 1], "split_score": 0.37706135788229606}

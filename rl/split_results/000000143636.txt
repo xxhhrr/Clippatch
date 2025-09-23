@@ -1,0 +1,9 @@
+{"sent": "woman cutting", "ann_id": 483399, "best_split": [1, 3], "split_score": 0.5156554863645983}
+{"sent": "woman cutting cake", "ann_id": 483399, "best_split": [1, 3], "split_score": 0.5156554863645983}
+{"sent": "woman", "ann_id": 483399, "best_split": [1, 3], "split_score": 0.5156554863645983}
+{"sent": "little girl", "ann_id": 466245, "best_split": [3, 2], "split_score": 0.39072847678257105}
+{"sent": "girl with braids", "ann_id": 466245, "best_split": [1, 2], "split_score": 0.23046874999081357}
+{"sent": "young girl", "ann_id": 466245, "best_split": [1, 2], "split_score": 0.23046874999081357}
+{"sent": "black woman", "ann_id": 457494, "best_split": [1, 3], "split_score": 0.8532818532303763}
+{"sent": "black woman", "ann_id": 457494, "best_split": [1, 3], "split_score": 0.8532818532303763}
+{"sent": "black girl with white hat", "ann_id": 457494, "best_split": [1, 3], "split_score": 0.8532818532303763}

@@ -1,0 +1,12 @@
+{"sent": "guy", "ann_id": 448606, "best_split": [5, 1], "split_score": 0.1862828111626293}
+{"sent": "man", "ann_id": 448606, "best_split": [5, 1], "split_score": 0.1862828111626293}
+{"sent": "dude sitting", "ann_id": 448606, "best_split": [3, 1], "split_score": 0.18563162969111585}
+{"sent": "woman", "ann_id": 425612, "best_split": [2, 1], "split_score": 0.3523539454164659}
+{"sent": "girl in the image", "ann_id": 425612, "best_split": [2, 1], "split_score": 0.3523539454164659}
+{"sent": "girl", "ann_id": 425612, "best_split": [2, 1], "split_score": 0.3523539454164659}
+{"sent": "leather chair", "ann_id": 383659, "best_split": [1, 2], "split_score": 0.6242249459039573}
+{"sent": "chair woman is sitting in", "ann_id": 383659, "best_split": [1, 2], "split_score": 0.6242249459039573}
+{"sent": "black office chiar", "ann_id": 383659, "best_split": [1, 2], "split_score": 0.6242249459039573}
+{"sent": "chair with man in classes the chair", "ann_id": 376892, "best_split": [3, 3], "split_score": 0.5812453484766502}
+{"sent": "brown chair", "ann_id": 376892, "best_split": [3, 1], "split_score": 0.24884792625424967}
+{"sent": "wooden chair with wheels", "ann_id": 376892, "best_split": [3, 3], "split_score": 0.5812453484766502}

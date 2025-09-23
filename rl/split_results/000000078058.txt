@@ -1,0 +1,9 @@
+{"sent": "costumed guy closest to you", "ann_id": 2205325, "best_split": [1, 2], "split_score": 0.6179867986639339}
+{"sent": "guy in fur leaning on red hydrant", "ann_id": 2205325, "best_split": [2, 1], "split_score": 0.4403231729608813}
+{"sent": "dog man", "ann_id": 2205325, "best_split": [1, 2], "split_score": 0.6179867986639339}
+{"sent": "person behind waving paw not the waver", "ann_id": 1189319, "best_split": [2, 2], "split_score": 0.6276359600008576}
+{"sent": "fur above the fire hydrant and to the west of the mans face in front", "ann_id": 1189319, "best_split": [1, 2], "split_score": 0.33560830859289287}
+{"sent": "rear man in dog suit", "ann_id": 1189319, "best_split": [2, 2], "split_score": 0.6276359600008576}
+{"sent": "half a guy in outfit", "ann_id": 570805, "best_split": [1, 5], "split_score": 0.32967032963798365}
+{"sent": "guy in costume at edge of pic above hydrant", "ann_id": 570805, "best_split": [1, 2], "split_score": 0.14732142856555638}
+{"sent": "guy facing us only partially in the frame in the costume", "ann_id": 570805, "best_split": [3, 2], "split_score": 0.21393841164769667}

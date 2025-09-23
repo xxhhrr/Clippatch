@@ -1,0 +1,6 @@
+{"sent": "farthest donut", "ann_id": 1080481, "best_split": [2, 3], "split_score": 0.4780900213767456}
+{"sent": "doughnut thing partially laying on other doughnut thing", "ann_id": 1080481, "best_split": [2, 3], "split_score": 0.4780900213767456}
+{"sent": "doughnut nearest the corner", "ann_id": 1080481, "best_split": [2, 3], "split_score": 0.4780900213767456}
+{"sent": "clost donut to us", "ann_id": 1080169, "best_split": [3, 2], "split_score": 0.7162774880167447}
+{"sent": "lowest donut", "ann_id": 1080169, "best_split": [3, 2], "split_score": 0.7162774880167447}
+{"sent": "closest doughnut", "ann_id": 1080169, "best_split": [3, 2], "split_score": 0.7162774880167447}

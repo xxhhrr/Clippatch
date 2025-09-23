@@ -1,0 +1,8 @@
+{"sent": "runner", "ann_id": 1269522, "best_split": [2, 3], "split_score": 0.418740703974344}
+{"sent": "number 7", "ann_id": 1269522, "best_split": [2, 3], "split_score": 0.418740703974344}
+{"sent": "person catching the ball", "ann_id": 514280, "best_split": [2, 2], "split_score": 0.4591099277000691}
+{"sent": "catching", "ann_id": 514280, "best_split": [1, 5], "split_score": 0.3469387754872158}
+{"sent": "greeb", "ann_id": 514280, "best_split": [1, 2], "split_score": 0.06032143602408321}
+{"sent": "coach", "ann_id": 512243, "best_split": [1, 5], "split_score": 0.3641486008629406}
+{"sent": "adult in black jacket", "ann_id": 512243, "best_split": [1, 5], "split_score": 0.3641486008629406}
+{"sent": "man", "ann_id": 512243, "best_split": [1, 5], "split_score": 0.3641486008629406}

@@ -1,0 +1,6 @@
+{"sent": "woman on horsie", "ann_id": 216625, "best_split": [3, 3], "split_score": 0.36290452417277336}
+{"sent": "girl on the horse", "ann_id": 216625, "best_split": [1, 5], "split_score": 0.2566034043967322}
+{"sent": "woman on horse", "ann_id": 216625, "best_split": [1, 5], "split_score": 0.2566034043967322}
+{"sent": "lady across street in floral pants", "ann_id": 212548, "best_split": [2, 3], "split_score": 0.36920849416394685}
+{"sent": "person taking picture", "ann_id": 212548, "best_split": [2, 3], "split_score": 0.36920849416394685}
+{"sent": "flower pants tourist", "ann_id": 212548, "best_split": [2, 3], "split_score": 0.36920849416394685}

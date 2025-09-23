@@ -1,0 +1,5 @@
+{"sent": "woman with sunglasses on back of motorcycle", "ann_id": 200877, "best_split": [1, 2], "split_score": 0.292251275498555}
+{"sent": "woman", "ann_id": 200877, "best_split": [1, 5], "split_score": 0.5384890797942634}
+{"sent": "white shirt", "ann_id": 190263, "best_split": [1, 3], "split_score": 0.5667396061047695}
+{"sent": "guy in white", "ann_id": 190263, "best_split": [1, 3], "split_score": 0.5667396061047695}
+{"sent": "white shirt", "ann_id": 190263, "best_split": [1, 3], "split_score": 0.5667396061047695}

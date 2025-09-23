@@ -1,0 +1,6 @@
+{"sent": "sandwich half that has a whitish thing on the tomato not green leaves on tomato", "ann_id": 309270, "best_split": [1, 2], "split_score": 0.8313206076808991}
+{"sent": "sanwich without words", "ann_id": 309270, "best_split": [2, 1], "split_score": 0.29593383872375095}
+{"sent": "sandwich without words", "ann_id": 309270, "best_split": [1, 3], "split_score": 0.5694251936172269}
+{"sent": "tomatoe with green on it", "ann_id": 308831, "best_split": [2, 1], "split_score": 0.2902046171373083}
+{"sent": "sandwich above website", "ann_id": 308831, "best_split": [1, 2], "split_score": 0.7509186649713635}
+{"sent": "sandwich half closest to 300", "ann_id": 308831, "best_split": [2, 1], "split_score": 0.2902046171373083}

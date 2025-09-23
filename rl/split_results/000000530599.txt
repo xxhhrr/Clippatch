@@ -1,0 +1,6 @@
+{"sent": "whats on the table", "ann_id": 2194438, "best_split": [3, 1], "split_score": 0.44489377762199683}
+{"sent": "ketchup bottle", "ann_id": 2194438, "best_split": [2, 1], "split_score": 0.5868870889289703}
+{"sent": "ketchup bottle", "ann_id": 2194438, "best_split": [2, 1], "split_score": 0.5868870889289703}
+{"sent": "table without food", "ann_id": 415238, "best_split": [1, 2], "split_score": 0.249043367337012}
+{"sent": "the table with no food", "ann_id": 415238, "best_split": [3, 2], "split_score": 0.6325247079253679}
+{"sent": "table with no food", "ann_id": 415238, "best_split": [1, 2], "split_score": 0.249043367337012}

@@ -1,0 +1,6 @@
+{"sent": "woman with checkered coat", "ann_id": 477177, "best_split": [2, 2], "split_score": 0.4834167709258904}
+{"sent": "taller person who is less covered by umbrella", "ann_id": 477177, "best_split": [2, 1], "split_score": 0.24399873656648774}
+{"sent": "woman not holdingthe umbrella", "ann_id": 477177, "best_split": [2, 2], "split_score": 0.4834167709258904}
+{"sent": "woman under umbrella", "ann_id": 467984, "best_split": [2, 3], "split_score": 0.5049469111359861}
+{"sent": "under umbr", "ann_id": 467984, "best_split": [2, 3], "split_score": 0.5049469111359861}
+{"sent": "the person bundling up under umbrella", "ann_id": 467984, "best_split": [2, 3], "split_score": 0.5049469111359861}

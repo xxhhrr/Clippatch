@@ -1,0 +1,6 @@
+{"sent": "uneaten donut", "ann_id": 1080888, "best_split": [2, 3], "split_score": 0.44677871143989806}
+{"sent": "not eaten donut", "ann_id": 1080888, "best_split": [2, 3], "split_score": 0.44677871143989806}
+{"sent": "uneaten donut", "ann_id": 1080888, "best_split": [2, 3], "split_score": 0.44677871143989806}
+{"sent": "donut with bite", "ann_id": 1078178, "best_split": [2, 2], "split_score": 0.37017495137668877}
+{"sent": "donut with a bite taken out of it", "ann_id": 1078178, "best_split": [2, 2], "split_score": 0.37017495137668877}
+{"sent": "donut missing a bite", "ann_id": 1078178, "best_split": [2, 2], "split_score": 0.37017495137668877}

@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 206987, "best_split": [2, 2], "split_score": 0.5189290340780963}
+{"sent": "her", "ann_id": 206987, "best_split": [3, 2], "split_score": 0.41532258061027194}
+{"sent": "ugh girl in blue", "ann_id": 206987, "best_split": [1, 2], "split_score": 0.32430730477313024}
+{"sent": "guy on couch", "ann_id": 197246, "best_split": [3, 2], "split_score": 0.4565838976330637}
+{"sent": "white tshirt", "ann_id": 197246, "best_split": [3, 2], "split_score": 0.4565838976330637}
+{"sent": "man", "ann_id": 197246, "best_split": [3, 2], "split_score": 0.4565838976330637}

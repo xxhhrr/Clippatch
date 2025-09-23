@@ -1,0 +1,5 @@
+{"sent": "dark man", "ann_id": 505687, "best_split": [3, 1], "split_score": 0.22839506171886906}
+{"sent": "man with glasses", "ann_id": 505687, "best_split": [1, 2], "split_score": 0.5132334183468896}
+{"sent": "white man", "ann_id": 471226, "best_split": [1, 2], "split_score": 0.7109374999716622}
+{"sent": "man with gray hair", "ann_id": 471226, "best_split": [1, 2], "split_score": 0.7109374999716622}
+{"sent": "man talking with his hands", "ann_id": 471226, "best_split": [1, 2], "split_score": 0.7109374999716622}

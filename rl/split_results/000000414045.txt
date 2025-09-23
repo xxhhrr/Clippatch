@@ -1,0 +1,6 @@
+{"sent": "gray monitor", "ann_id": 35947, "best_split": [1, 3], "split_score": 0.15640084957731218}
+{"sent": "white monitor", "ann_id": 35947, "best_split": [3, 1], "split_score": 0.3331107401038892}
+{"sent": "larger monitor", "ann_id": 35947, "best_split": [3, 1], "split_score": 0.3331107401038892}
+{"sent": "screen above dark keyboard", "ann_id": 32050, "best_split": [3, 2], "split_score": 0.6011288804561231}
+{"sent": "laptop", "ann_id": 32050, "best_split": [3, 2], "split_score": 0.6011288804561231}
+{"sent": "black monitor", "ann_id": 32050, "best_split": [3, 2], "split_score": 0.6011288804561231}

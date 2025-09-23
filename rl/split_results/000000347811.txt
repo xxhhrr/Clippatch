@@ -1,0 +1,6 @@
+{"sent": "not the smallest elephant", "ann_id": 583830, "best_split": [3, 3], "split_score": 0.5821909642886887}
+{"sent": "medium sized elephant fully visible", "ann_id": 583830, "best_split": [3, 3], "split_score": 0.5821909642886887}
+{"sent": "rightiest whole elephant", "ann_id": 583830, "best_split": [3, 3], "split_score": 0.5821909642886887}
+{"sent": "lead elephant", "ann_id": 582477, "best_split": [1, 2], "split_score": 0.6634264884316743}
+{"sent": "leaqd elephant", "ann_id": 582477, "best_split": [1, 2], "split_score": 0.6634264884316743}
+{"sent": "mom", "ann_id": 582477, "best_split": [2, 1], "split_score": 0.2672992362801638}

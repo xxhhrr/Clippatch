@@ -1,0 +1,6 @@
+{"sent": "sandwich furthest from soda", "ann_id": 310558, "best_split": [3, 2], "split_score": 0.3854415274079712}
+{"sent": "sandwich that is not close to the root beer", "ann_id": 310558, "best_split": [3, 2], "split_score": 0.3854415274079712}
+{"sent": "sandwich not by soda", "ann_id": 310558, "best_split": [3, 2], "split_score": 0.3854415274079712}
+{"sent": "sandwich by root beer", "ann_id": 308539, "best_split": [3, 3], "split_score": 0.32611764702045676}
+{"sent": "sandwich by rootbeer", "ann_id": 308539, "best_split": [3, 3], "split_score": 0.32611764702045676}
+{"sent": "sandwich at 3 o clock", "ann_id": 308539, "best_split": [3, 3], "split_score": 0.32611764702045676}

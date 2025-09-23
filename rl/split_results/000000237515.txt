@@ -1,0 +1,4 @@
+{"sent": "hidden chair westernmost", "ann_id": 1937131, "best_split": [1, 2], "split_score": 0.46316964283868106}
+{"sent": "the chair the cat is under", "ann_id": 109203, "best_split": [2, 1], "split_score": 0.5268450932562427}
+{"sent": "chair above cat", "ann_id": 109203, "best_split": [2, 1], "split_score": 0.5268450932562427}
+{"sent": "chair above cat", "ann_id": 109203, "best_split": [2, 1], "split_score": 0.5268450932562427}

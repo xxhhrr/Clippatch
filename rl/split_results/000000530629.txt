@@ -1,0 +1,14 @@
+{"sent": "girl with pink cami", "ann_id": 214185, "best_split": [3, 3], "split_score": 0.46508340394895625}
+{"sent": "lady in pink shirt", "ann_id": 214185, "best_split": [2, 3], "split_score": 0.3455882352588247}
+{"sent": "pink tank", "ann_id": 214185, "best_split": [3, 3], "split_score": 0.46508340394895625}
+{"sent": "girl white shirt", "ann_id": 213375, "best_split": [1, 2], "split_score": 0.4690375528308865}
+{"sent": "woman in the lead of the horse race", "ann_id": 213375, "best_split": [1, 2], "split_score": 0.4690375528308865}
+{"sent": "white shirt", "ann_id": 213375, "best_split": [1, 2], "split_score": 0.4690375528308865}
+{"sent": "black horse", "ann_id": 57663, "best_split": [3, 1], "split_score": 0.1568539827864566}
+{"sent": "dark horse", "ann_id": 57663, "best_split": [3, 1], "split_score": 0.1568539827864566}
+{"sent": "the horse lady in pink is on", "ann_id": 56985, "best_split": [3, 3], "split_score": 0.5826957032691736}
+{"sent": "tan horse", "ann_id": 56985, "best_split": [3, 1], "split_score": 0.2212784979760126}
+{"sent": "white horse", "ann_id": 56985, "best_split": [3, 1], "split_score": 0.2212784979760126}
+{"sent": "spotted horse", "ann_id": 56721, "best_split": [1, 5], "split_score": 0.5140186915512545}
+{"sent": "spotted horse in the lead", "ann_id": 56721, "best_split": [1, 5], "split_score": 0.5140186915512545}
+{"sent": "spotted horse", "ann_id": 56721, "best_split": [1, 5], "split_score": 0.5140186915512545}

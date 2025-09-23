@@ -1,0 +1,10 @@
+{"sent": "a guy with a suit and tie on", "ann_id": 501832, "best_split": [1, 5], "split_score": 0.45053773854756923}
+{"sent": "wearing a suit arms crossed", "ann_id": 501832, "best_split": [1, 5], "split_score": 0.45053773854756923}
+{"sent": "guy in suit", "ann_id": 501832, "best_split": [1, 5], "split_score": 0.45053773854756923}
+{"sent": "the man with arms crosses", "ann_id": 501832, "best_split": [2, 2], "split_score": 0.22982101816074788}
+{"sent": "bald guy", "ann_id": 489333, "best_split": [1, 5], "split_score": 0.4366928691439716}
+{"sent": "man near woman", "ann_id": 489333, "best_split": [1, 3], "split_score": 0.34364498911130437}
+{"sent": "baldy", "ann_id": 489333, "best_split": [1, 5], "split_score": 0.4366928691439716}
+{"sent": "woman holding umbrella", "ann_id": 436864, "best_split": [1, 5], "split_score": 0.4122898377910809}
+{"sent": "lady holding umbrella", "ann_id": 436864, "best_split": [1, 5], "split_score": 0.4122898377910809}
+{"sent": "woman with umbrella", "ann_id": 436864, "best_split": [1, 5], "split_score": 0.4122898377910809}

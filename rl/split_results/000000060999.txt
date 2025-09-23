@@ -1,0 +1,4 @@
+{"sent": "3 brocolli", "ann_id": 1559886, "best_split": [2, 2], "split_score": 0.25900829079567855}
+{"sent": "green next to chicken", "ann_id": 1559886, "best_split": [3, 2], "split_score": 0.29411104876117655}
+{"sent": "big broccoli", "ann_id": 1056500, "best_split": [3, 2], "split_score": 0.47455144631320473}
+{"sent": "broccoli at 900", "ann_id": 1056500, "best_split": [3, 2], "split_score": 0.47455144631320473}

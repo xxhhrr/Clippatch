@@ -1,0 +1,6 @@
+{"sent": "girafe with head held high", "ann_id": 599199, "best_split": [1, 3], "split_score": 0.6907908537502208}
+{"sent": "upright gir", "ann_id": 599199, "best_split": [1, 3], "split_score": 0.6907908537502208}
+{"sent": "giraffe not being fed", "ann_id": 599199, "best_split": [1, 3], "split_score": 0.6907908537502208}
+{"sent": "giraffe with neck down", "ann_id": 598108, "best_split": [3, 2], "split_score": 0.45945729604903085}
+{"sent": "giraffe with head near people", "ann_id": 598108, "best_split": [3, 2], "split_score": 0.45945729604903085}
+{"sent": "head down giraffe", "ann_id": 598108, "best_split": [3, 2], "split_score": 0.45945729604903085}

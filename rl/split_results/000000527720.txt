@@ -1,0 +1,4 @@
+{"sent": "vase at 300", "ann_id": 1994703, "best_split": [2, 3], "split_score": 0.35124760072561806}
+{"sent": "fat little vase 300", "ann_id": 1994703, "best_split": [2, 3], "split_score": 0.35124760072561806}
+{"sent": "large open jar near 30", "ann_id": 1994289, "best_split": [1, 3], "split_score": 0.21652832911003678}
+{"sent": "vase at 500", "ann_id": 1994289, "best_split": [1, 3], "split_score": 0.21652832911003678}

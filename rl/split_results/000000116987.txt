@@ -1,0 +1,6 @@
+{"sent": "one closest to fence", "ann_id": 75839, "best_split": [3, 3], "split_score": 0.4542664210475343}
+{"sent": "brown cow closest", "ann_id": 75839, "best_split": [3, 2], "split_score": 0.3173241852146951}
+{"sent": "closest to fence", "ann_id": 75839, "best_split": [3, 3], "split_score": 0.4542664210475343}
+{"sent": "largest sideways cow", "ann_id": 75638, "best_split": [3, 3], "split_score": 0.7938257992134469}
+{"sent": "cow with side view of largest one", "ann_id": 75638, "best_split": [3, 3], "split_score": 0.7938257992134469}
+{"sent": "side of cow eating", "ann_id": 75638, "best_split": [3, 3], "split_score": 0.7938257992134469}

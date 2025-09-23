@@ -1,0 +1,5 @@
+{"sent": "white bowl with strawberries", "ann_id": 1532000, "best_split": [3, 3], "split_score": 0.5731548006902099}
+{"sent": "part of plate above strawberries thats white", "ann_id": 1532000, "best_split": [3, 3], "split_score": 0.5731548006902099}
+{"sent": "pineapples bowl", "ann_id": 1037996, "best_split": [3, 2], "split_score": 0.5078928697669481}
+{"sent": "edge of plate under pineapple", "ann_id": 1037996, "best_split": [3, 2], "split_score": 0.5078928697669481}
+{"sent": "piece of bowl showing that contains a pineapple", "ann_id": 1037996, "best_split": [3, 2], "split_score": 0.5078928697669481}

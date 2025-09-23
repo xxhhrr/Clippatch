@@ -1,0 +1,11 @@
+{"sent": "number 1 flower arrangement", "ann_id": 1609279, "best_split": [3, 2], "split_score": 0.4169884169381047}
+{"sent": "closest pot", "ann_id": 1609279, "best_split": [3, 2], "split_score": 0.4169884169381047}
+{"sent": "rectangular planter blocking horse hind legs", "ann_id": 2128164, "best_split": [3, 2], "split_score": 0.2910231659880522}
+{"sent": "stone thing under guy with hat", "ann_id": 2128164, "best_split": [5, 1], "split_score": 0.20380728091415884}
+{"sent": "planter closest to edge cut off", "ann_id": 2128164, "best_split": [3, 1], "split_score": 0.14551158300280456}
+{"sent": "horse", "ann_id": 57127, "best_split": [3, 2], "split_score": 0.24923948387189346}
+{"sent": "horse on west", "ann_id": 57127, "best_split": [2, 2], "split_score": 0.26298929601820537}
+{"sent": "horse facing camera", "ann_id": 57127, "best_split": [2, 2], "split_score": 0.26298929601820537}
+{"sent": "horse kissing other horse", "ann_id": 54301, "best_split": [5, 1], "split_score": 0.4082129277256112}
+{"sent": "closest horse", "ann_id": 54301, "best_split": [5, 1], "split_score": 0.4082129277256112}
+{"sent": "horse you can see most of", "ann_id": 54301, "best_split": [5, 1], "split_score": 0.4082129277256112}

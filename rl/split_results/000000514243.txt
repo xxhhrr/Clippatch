@@ -1,0 +1,6 @@
+{"sent": "woman with dark hair", "ann_id": 218182, "best_split": [1, 3], "split_score": 0.684483590692297}
+{"sent": "dark hair woman", "ann_id": 218182, "best_split": [1, 3], "split_score": 0.684483590692297}
+{"sent": "girl next to blue", "ann_id": 218182, "best_split": [1, 2], "split_score": 0.4522480867166674}
+{"sent": "blue shirt", "ann_id": 192276, "best_split": [1, 3], "split_score": 0.6122191654853153}
+{"sent": "women", "ann_id": 192276, "best_split": [1, 3], "split_score": 0.6122191654853153}
+{"sent": "blue shirt", "ann_id": 192276, "best_split": [1, 3], "split_score": 0.6122191654853153}

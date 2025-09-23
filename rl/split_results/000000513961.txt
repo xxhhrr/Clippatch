@@ -1,0 +1,12 @@
+{"sent": "man in hat looking at camera", "ann_id": 1245925, "best_split": [1, 2], "split_score": 0.597297512731294}
+{"sent": "man with hat", "ann_id": 1245925, "best_split": [1, 2], "split_score": 0.597297512731294}
+{"sent": "guy with hat looking at us", "ann_id": 1245925, "best_split": [1, 2], "split_score": 0.597297512731294}
+{"sent": "checkered shoes", "ann_id": 1224738, "best_split": [1, 2], "split_score": 0.26452282156818846}
+{"sent": "man with the checkerboard slip on shoes", "ann_id": 1224738, "best_split": [1, 2], "split_score": 0.26452282156818846}
+{"sent": "checkered shoes guy", "ann_id": 1224738, "best_split": [1, 2], "split_score": 0.26452282156818846}
+{"sent": "girl hunched over", "ann_id": 1316258, "best_split": [1, 5], "split_score": 0.31592689292539544}
+{"sent": "long black haired person", "ann_id": 1316258, "best_split": [3, 2], "split_score": 0.35200143597630573}
+{"sent": "girl in white on bench", "ann_id": 1316258, "best_split": [5, 1], "split_score": 0.1739130434659858}
+{"sent": "bench arm", "ann_id": 577871, "best_split": [2, 3], "split_score": 0.7288014310400952}
+{"sent": "edge of bench near man with hat", "ann_id": 577871, "best_split": [2, 3], "split_score": 0.7288014310400952}
+{"sent": "wooden piece under heavy mans arm", "ann_id": 577871, "best_split": [2, 3], "split_score": 0.7288014310400952}

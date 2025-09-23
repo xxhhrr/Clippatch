@@ -1,0 +1,9 @@
+{"sent": "guy shaking the hand of the man in white", "ann_id": 507879, "best_split": [1, 2], "split_score": 0.3902264030456702}
+{"sent": "man in dark suit shaking hands", "ann_id": 507879, "best_split": [1, 5], "split_score": 0.5464420654481705}
+{"sent": "guy with no hat on", "ann_id": 507879, "best_split": [3, 1], "split_score": 0.18254395406429208}
+{"sent": "white", "ann_id": 505603, "best_split": [1, 3], "split_score": 0.658109684909095}
+{"sent": "white uniform", "ann_id": 505603, "best_split": [1, 3], "split_score": 0.658109684909095}
+{"sent": "white suir", "ann_id": 505603, "best_split": [1, 3], "split_score": 0.658109684909095}
+{"sent": "black jacket with hat", "ann_id": 484825, "best_split": [1, 2], "split_score": 0.5132334183468896}
+{"sent": "man touching the back of man in white", "ann_id": 484825, "best_split": [1, 2], "split_score": 0.5132334183468896}
+{"sent": "shortest guy", "ann_id": 484825, "best_split": [1, 2], "split_score": 0.5132334183468896}

@@ -1,0 +1,6 @@
+{"sent": "pizza with olives", "ann_id": 1570092, "best_split": [3, 2], "split_score": 0.5203124999419294}
+{"sent": "back pizza", "ann_id": 1570092, "best_split": [3, 2], "split_score": 0.5203124999419294}
+{"sent": "pizza with olives", "ann_id": 1570092, "best_split": [3, 2], "split_score": 0.5203124999419294}
+{"sent": "pizza with cheese", "ann_id": 1076623, "best_split": [3, 1], "split_score": 0.480505362113104}
+{"sent": "big pizza", "ann_id": 1076623, "best_split": [1, 2], "split_score": 0.40514814637136437}
+{"sent": "pizza with laves", "ann_id": 1076623, "best_split": [1, 2], "split_score": 0.40514814637136437}

@@ -1,0 +1,9 @@
+{"sent": "head of white horse only", "ann_id": 57365, "best_split": [3, 2], "split_score": 0.1970204037356126}
+{"sent": "white horse face only", "ann_id": 57365, "best_split": [3, 3], "split_score": 0.26854690369887385}
+{"sent": "white mhore head only", "ann_id": 57365, "best_split": [3, 3], "split_score": 0.26854690369887385}
+{"sent": "white horse with guard", "ann_id": 56808, "best_split": [2, 2], "split_score": 0.783057116382171}
+{"sent": "white horse with rider", "ann_id": 56808, "best_split": [2, 2], "split_score": 0.783057116382171}
+{"sent": "white horse being ridden", "ann_id": 56808, "best_split": [2, 2], "split_score": 0.783057116382171}
+{"sent": "black horse", "ann_id": 55977, "best_split": [2, 2], "split_score": 0.5743407932320883}
+{"sent": "the black one", "ann_id": 55977, "best_split": [2, 2], "split_score": 0.5743407932320883}
+{"sent": "dark horse", "ann_id": 55977, "best_split": [2, 1], "split_score": 0.4974411463482438}

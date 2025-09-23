@@ -1,0 +1,6 @@
+{"sent": "white chair somewhat out of frame", "ann_id": 111754, "best_split": [2, 2], "split_score": 0.5799585458721334}
+{"sent": "white chair", "ann_id": 111754, "best_split": [2, 2], "split_score": 0.5799585458721334}
+{"sent": "large white chair", "ann_id": 111754, "best_split": [2, 2], "split_score": 0.5799585458721334}
+{"sent": "red couch", "ann_id": 99274, "best_split": [2, 1], "split_score": 0.29687499998816663}
+{"sent": "darker sofa", "ann_id": 99274, "best_split": [2, 1], "split_score": 0.29687499998816663}
+{"sent": "brown sofa", "ann_id": 99274, "best_split": [2, 3], "split_score": 0.6456808198446266}

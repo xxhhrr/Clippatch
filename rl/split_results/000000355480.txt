@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 228394, "best_split": [1, 3], "split_score": 0.9282697875887868}
+{"sent": "man in tie", "ann_id": 228394, "best_split": [1, 3], "split_score": 0.9282697875887868}
+{"sent": "man", "ann_id": 228394, "best_split": [1, 3], "split_score": 0.9282697875887868}
+{"sent": "green shirt", "ann_id": 226442, "best_split": [1, 3], "split_score": 0.8339768339265217}
+{"sent": "in green shirt", "ann_id": 226442, "best_split": [1, 3], "split_score": 0.8339768339265217}
+{"sent": "woman in green shirt", "ann_id": 226442, "best_split": [1, 3], "split_score": 0.8339768339265217}
+{"sent": "lady in black", "ann_id": 195654, "best_split": [1, 3], "split_score": 0.8737934362407219}
+{"sent": "black sweater", "ann_id": 195654, "best_split": [1, 3], "split_score": 0.8737934362407219}
+{"sent": "lady with black sweater", "ann_id": 195654, "best_split": [1, 3], "split_score": 0.8737934362407219}

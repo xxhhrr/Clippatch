@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 504058, "best_split": [1, 2], "split_score": 0.9382971938401508}
+{"sent": "guy in blue", "ann_id": 504058, "best_split": [1, 2], "split_score": 0.9382971938401508}
+{"sent": "man", "ann_id": 504058, "best_split": [1, 2], "split_score": 0.9382971938401508}
+{"sent": "holding blender", "ann_id": 465516, "best_split": [1, 2], "split_score": 0.9605642707171705}
+{"sent": "pink", "ann_id": 465516, "best_split": [1, 2], "split_score": 0.9605642707171705}
+{"sent": "pink shirt", "ann_id": 465516, "best_split": [1, 2], "split_score": 0.9605642707171705}

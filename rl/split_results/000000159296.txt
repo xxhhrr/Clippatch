@@ -1,0 +1,6 @@
+{"sent": "white chair closest to purple", "ann_id": 1589635, "best_split": [5, 1], "split_score": 0.22675559040537902}
+{"sent": "white chair next to purple", "ann_id": 1589635, "best_split": [5, 1], "split_score": 0.22675559040537902}
+{"sent": "white chair by purple", "ann_id": 1589635, "best_split": [3, 3], "split_score": 0.3156361281457371}
+{"sent": "edge of the table is pointing to this white chair", "ann_id": 381662, "best_split": [3, 3], "split_score": 0.39724137924185493}
+{"sent": "the chair that is touching the sharp corner tip of the table", "ann_id": 381662, "best_split": [3, 2], "split_score": 0.31708494204668375}
+{"sent": "not the white chair cutoff the one next to it under umbrella", "ann_id": 381662, "best_split": [3, 3], "split_score": 0.39724137924185493}

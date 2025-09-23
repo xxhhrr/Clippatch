@@ -1,0 +1,6 @@
+{"sent": "blue jacket sorry meant to say 3pm", "ann_id": 471762, "best_split": [1, 5], "split_score": 0.3685351501727675}
+{"sent": "blue", "ann_id": 471762, "best_split": [1, 5], "split_score": 0.3685351501727675}
+{"sent": "blue jacket", "ann_id": 471762, "best_split": [1, 5], "split_score": 0.3685351501727675}
+{"sent": "with board", "ann_id": 447702, "best_split": [1, 3], "split_score": 0.7746942614784399}
+{"sent": "guy with snow board", "ann_id": 447702, "best_split": [1, 3], "split_score": 0.7746942614784399}
+{"sent": "green snow board", "ann_id": 447702, "best_split": [1, 3], "split_score": 0.7746942614784399}

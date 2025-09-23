@@ -1,0 +1,9 @@
+{"sent": "chair not at the table", "ann_id": 384264, "best_split": [5, 1], "split_score": 0.13081395347648855}
+{"sent": "chair away from table", "ann_id": 384264, "best_split": [5, 1], "split_score": 0.13081395347648855}
+{"sent": "chair against wall", "ann_id": 384264, "best_split": [3, 3], "split_score": 0.36560595796113643}
+{"sent": "chair away from window", "ann_id": 382591, "best_split": [3, 1], "split_score": 0.13026730476653045}
+{"sent": "chair by plates", "ann_id": 382591, "best_split": [3, 3], "split_score": 0.2109581013461825}
+{"sent": "chair at table 7 o clock", "ann_id": 382591, "best_split": [3, 3], "split_score": 0.2109581013461825}
+{"sent": "chair facing tv opposite end of table", "ann_id": 374187, "best_split": [3, 2], "split_score": 0.3942901234133278}
+{"sent": "closest chair", "ann_id": 374187, "best_split": [1, 5], "split_score": 0.3567134268196666}
+{"sent": "chair back at 5pm", "ann_id": 374187, "best_split": [3, 2], "split_score": 0.3942901234133278}

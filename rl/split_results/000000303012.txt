@@ -1,0 +1,5 @@
+{"sent": "whole cow", "ann_id": 2177208, "best_split": [2, 1], "split_score": 0.42217334798505013}
+{"sent": "full cow shown", "ann_id": 2177208, "best_split": [2, 1], "split_score": 0.42217334798505013}
+{"sent": "calf", "ann_id": 2177208, "best_split": [2, 1], "split_score": 0.42217334798505013}
+{"sent": "partial calf white hoofs", "ann_id": 1407318, "best_split": [1, 2], "split_score": 0.6028380101800527}
+{"sent": "cut off cow", "ann_id": 1407318, "best_split": [1, 2], "split_score": 0.6028380101800527}

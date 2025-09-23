@@ -1,0 +1,6 @@
+{"sent": "man wiping eye", "ann_id": 521386, "best_split": [1, 5], "split_score": 0.493982494490936}
+{"sent": "looking down", "ann_id": 521386, "best_split": [2, 1], "split_score": 0.21100691016037912}
+{"sent": "lookin down", "ann_id": 521386, "best_split": [2, 1], "split_score": 0.21100691016037912}
+{"sent": "guy closest to us", "ann_id": 463032, "best_split": [1, 3], "split_score": 0.5992619061215358}
+{"sent": "looking back", "ann_id": 463032, "best_split": [1, 2], "split_score": 0.2190414595881598}
+{"sent": "man with bat", "ann_id": 463032, "best_split": [1, 3], "split_score": 0.5992619061215358}

@@ -1,0 +1,4 @@
+{"sent": "only the gray of hte next train away from us", "ann_id": 174231, "best_split": [1, 3], "split_score": 0.1490866762110903}
+{"sent": "closest train", "ann_id": 172405, "best_split": [5, 1], "split_score": 0.5093499554480548}
+{"sent": "train under track", "ann_id": 172405, "best_split": [2, 1], "split_score": 0.5014180374184126}
+{"sent": "most visible train", "ann_id": 172405, "best_split": [5, 1], "split_score": 0.5093499554480548}

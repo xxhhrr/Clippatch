@@ -1,0 +1,6 @@
+{"sent": "white plaid shirt girl", "ann_id": 202772, "best_split": [1, 5], "split_score": 0.5804288433992525}
+{"sent": "person reaching up", "ann_id": 202772, "best_split": [1, 3], "split_score": 0.5570704632868563}
+{"sent": "white shirt arms up", "ann_id": 202772, "best_split": [1, 3], "split_score": 0.5570704632868563}
+{"sent": "man in black", "ann_id": 186826, "best_split": [1, 2], "split_score": 0.4324776785541901}
+{"sent": "dude in green shirt", "ann_id": 186826, "best_split": [1, 5], "split_score": 0.5920344455949536}
+{"sent": "green shirt smiling", "ann_id": 186826, "best_split": [1, 5], "split_score": 0.5920344455949536}

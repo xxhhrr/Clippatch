@@ -1,0 +1,12 @@
+{"sent": "seat behind drivers seat", "ann_id": 1582485, "best_split": [1, 3], "split_score": 0.5614454947611914}
+{"sent": "the seat thats most visible", "ann_id": 1582485, "best_split": [2, 3], "split_score": 0.7355291365488668}
+{"sent": "red seat at 4", "ann_id": 1582485, "best_split": [2, 3], "split_score": 0.7355291365488668}
+{"sent": "the largest suitcase beneath smaller one", "ann_id": 1186610, "best_split": [3, 1], "split_score": 0.49826989616683226}
+{"sent": "cant see huge luggage", "ann_id": 1186610, "best_split": [3, 1], "split_score": 0.49826989616683226}
+{"sent": "suitcase lower and partially hidden", "ann_id": 1186610, "best_split": [3, 1], "split_score": 0.49826989616683226}
+{"sent": "suitcase", "ann_id": 1185372, "best_split": [2, 3], "split_score": 0.44544346232509574}
+{"sent": "tan suitcase in trunk of car", "ann_id": 1185372, "best_split": [2, 3], "split_score": 0.44544346232509574}
+{"sent": "smaller suitcase", "ann_id": 1185372, "best_split": [2, 3], "split_score": 0.44544346232509574}
+{"sent": "seat closer to camera", "ann_id": 1933445, "best_split": [2, 1], "split_score": 0.48046874998084865}
+{"sent": "closer seat", "ann_id": 1933445, "best_split": [2, 1], "split_score": 0.48046874998084865}
+{"sent": "closest red seat", "ann_id": 1933445, "best_split": [2, 1], "split_score": 0.48046874998084865}

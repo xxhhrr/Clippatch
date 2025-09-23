@@ -1,0 +1,4 @@
+{"sent": "mountainside train", "ann_id": 172964, "best_split": [3, 1], "split_score": 0.16418258033510813}
+{"sent": "train with no track view", "ann_id": 172964, "best_split": [3, 1], "split_score": 0.16418258033510813}
+{"sent": "train closest", "ann_id": 170047, "best_split": [3, 3], "split_score": 0.5972991688716587}
+{"sent": "train by large yellow line", "ann_id": 170047, "best_split": [1, 3], "split_score": 0.2262306949670469}

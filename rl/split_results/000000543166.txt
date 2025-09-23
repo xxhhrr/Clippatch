@@ -1,0 +1,6 @@
+{"sent": "white car", "ann_id": 1783156, "best_split": [2, 2], "split_score": 0.6986329181985224}
+{"sent": "the white vehicle by parking meter", "ann_id": 1783156, "best_split": [2, 2], "split_score": 0.6986329181985224}
+{"sent": "close white car", "ann_id": 1783156, "best_split": [2, 2], "split_score": 0.6986329181985224}
+{"sent": "gray suv", "ann_id": 1781224, "best_split": [1, 5], "split_score": 0.18856827787276526}
+{"sent": "silver suv back", "ann_id": 1781224, "best_split": [1, 2], "split_score": 0.12268813775021173}
+{"sent": "suv", "ann_id": 1781224, "best_split": [5, 1], "split_score": 0.20048264338217164}

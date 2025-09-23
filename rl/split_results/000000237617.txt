@@ -1,0 +1,12 @@
+{"sent": "flowered chair by foreplace", "ann_id": 2192241, "best_split": [1, 5], "split_score": 0.23085628062704108}
+{"sent": "flowey seat by chimney", "ann_id": 2192241, "best_split": [3, 2], "split_score": 0.3700787401133287}
+{"sent": "flowery chair by chimmney", "ann_id": 2192241, "best_split": [1, 5], "split_score": 0.23085628062704108}
+{"sent": "largest white couch", "ann_id": 2190606, "best_split": [2, 1], "split_score": 0.4889867841217359}
+{"sent": "couch closest to us flowers", "ann_id": 2190606, "best_split": [2, 2], "split_score": 0.9156890940047159}
+{"sent": "pink couch closest", "ann_id": 2190606, "best_split": [2, 1], "split_score": 0.4889867841217359}
+{"sent": "striped couch next to lamp", "ann_id": 1951666, "best_split": [3, 3], "split_score": 0.5683938566716816}
+{"sent": "chair near white lamp", "ann_id": 1951666, "best_split": [3, 3], "split_score": 0.5683938566716816}
+{"sent": "plaid couch seen fully", "ann_id": 1951666, "best_split": [3, 3], "split_score": 0.5683938566716816}
+{"sent": "flower chair 1", "ann_id": 116576, "best_split": [2, 2], "split_score": 0.8996668180448533}
+{"sent": "closer floral couch", "ann_id": 116576, "best_split": [2, 2], "split_score": 0.8996668180448533}
+{"sent": "closest chair to us", "ann_id": 116576, "best_split": [2, 1], "split_score": 0.47387592039503856}

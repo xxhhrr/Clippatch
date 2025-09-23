@@ -1,0 +1,6 @@
+{"sent": "red motorcycle", "ann_id": 149412, "best_split": [3, 2], "split_score": 0.43419267295656205}
+{"sent": "riderless bike", "ann_id": 149412, "best_split": [3, 1], "split_score": 0.24078254325267212}
+{"sent": "bike with writting", "ann_id": 149412, "best_split": [2, 2], "split_score": 0.3137065636849347}
+{"sent": "motorcycle with man", "ann_id": 147907, "best_split": [3, 3], "split_score": 0.3170496765767098}
+{"sent": "the bike the man is on", "ann_id": 147907, "best_split": [3, 3], "split_score": 0.3170496765767098}
+{"sent": "green bike", "ann_id": 147907, "best_split": [3, 3], "split_score": 0.3170496765767098}

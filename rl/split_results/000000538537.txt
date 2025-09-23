@@ -1,0 +1,14 @@
+{"sent": "earring in foreground", "ann_id": 489238, "best_split": [1, 2], "split_score": 0.9689492984307657}
+{"sent": "person close to camera", "ann_id": 489238, "best_split": [2, 1], "split_score": 0.33231740208403504}
+{"sent": "hoop earring wearer", "ann_id": 489238, "best_split": [1, 2], "split_score": 0.9689492984307657}
+{"sent": "woman pouring", "ann_id": 484033, "best_split": [1, 3], "split_score": 0.5820463320112182}
+{"sent": "woman pouring wine", "ann_id": 484033, "best_split": [1, 3], "split_score": 0.5820463320112182}
+{"sent": "woman pouring wine", "ann_id": 484033, "best_split": [1, 3], "split_score": 0.5820463320112182}
+{"sent": "lady blocked by flowers", "ann_id": 2152722, "best_split": [1, 5], "split_score": 0.3340118594270279}
+{"sent": "girl behind the flowers", "ann_id": 2152722, "best_split": [1, 5], "split_score": 0.3340118594270279}
+{"sent": "woman face behind flower stems", "ann_id": 2152722, "best_split": [1, 5], "split_score": 0.3340118594270279}
+{"sent": "dark bottle with label by the man", "ann_id": 81828, "best_split": [1, 5], "split_score": 0.2767857142576313}
+{"sent": "wine bottle by woman by us", "ann_id": 81828, "best_split": [1, 5], "split_score": 0.2767857142576313}
+{"sent": "white wine bottle by bottle with tan lid", "ann_id": 79907, "best_split": [3, 3], "split_score": 0.1952154577219421}
+{"sent": "white wine bottle", "ann_id": 79907, "best_split": [3, 3], "split_score": 0.1952154577219421}
+{"sent": "empty bottle", "ann_id": 79907, "best_split": [2, 3], "split_score": 0.19477300887746163}

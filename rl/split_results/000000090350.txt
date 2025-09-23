@@ -1,0 +1,6 @@
+{"sent": "horse that does not have visible head", "ann_id": 273670, "best_split": [3, 1], "split_score": 0.2860531309128289}
+{"sent": "farthest horse", "ann_id": 273670, "best_split": [3, 1], "split_score": 0.2860531309128289}
+{"sent": "horse further away", "ann_id": 273670, "best_split": [3, 2], "split_score": 0.5624999999344099}
+{"sent": "horse looking at you", "ann_id": 57546, "best_split": [1, 2], "split_score": 0.5813280436855708}
+{"sent": "horse face", "ann_id": 57546, "best_split": [1, 2], "split_score": 0.5813280436855708}
+{"sent": "facing us", "ann_id": 57546, "best_split": [3, 1], "split_score": 0.32508670519157434}

@@ -1,0 +1,17 @@
+{"sent": "blurry cake piece far away from the piece in focus", "ann_id": 1578516, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "yellow and blue train at the very end in the back", "ann_id": 1578516, "best_split": [2, 1], "split_score": 0.11551339285253853}
+{"sent": "blurry biggest red piece", "ann_id": 1577415, "best_split": [3, 1], "split_score": 0.05591637913253925}
+{"sent": "far red piece at 1", "ann_id": 1577415, "best_split": [1, 3], "split_score": 0.10035956006237523}
+{"sent": "white frosted cake", "ann_id": 1577267, "best_split": [1, 2], "split_score": 0.02406300131165003}
+{"sent": "white icing decor", "ann_id": 1577267, "best_split": [1, 2], "split_score": 0.02406300131165003}
+{"sent": "blurry white and brown pastry thing", "ann_id": 1577267, "best_split": [1, 2], "split_score": 0.02406300131165003}
+{"sent": "yellow red blue thing blurry", "ann_id": 1576455, "best_split": [5, 1], "split_score": 0.13731394647360284}
+{"sent": "blurry dessert at 900 not at edge of plate", "ann_id": 1576455, "best_split": [2, 1], "split_score": 0.008078517520884438}
+{"sent": "half of cookie with red ladder on", "ann_id": 1576377, "best_split": [5, 1], "split_score": 0.214667925699192}
+{"sent": "900 train", "ann_id": 1576377, "best_split": [5, 1], "split_score": 0.214667925699192}
+{"sent": "green decoration", "ann_id": 1088935, "best_split": [2, 2], "split_score": 0.5828543002109853}
+{"sent": "4 chocolate chips", "ann_id": 1088935, "best_split": [2, 2], "split_score": 0.5828543002109853}
+{"sent": "closest piece", "ann_id": 1088935, "best_split": [2, 2], "split_score": 0.5828543002109853}
+{"sent": "most red frosting", "ann_id": 1088584, "best_split": [2, 3], "split_score": 0.38642979018504164}
+{"sent": "thick red stripe with blue squiggles piece of cake", "ann_id": 1088584, "best_split": [5, 1], "split_score": 0.2284162606638115}
+{"sent": "red part sandwiched between others at lower section", "ann_id": 1088584, "best_split": [2, 3], "split_score": 0.38642979018504164}

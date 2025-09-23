@@ -1,0 +1,6 @@
+{"sent": "white jacket", "ann_id": 465098, "best_split": [2, 3], "split_score": 0.7315828637470412}
+{"sent": "the woman whose back is to the foil held by man", "ann_id": 465098, "best_split": [2, 3], "split_score": 0.7315828637470412}
+{"sent": "woman with white hair tie", "ann_id": 465098, "best_split": [2, 3], "split_score": 0.7315828637470412}
+{"sent": "man eating hotdog", "ann_id": 422105, "best_split": [2, 1], "split_score": 0.5096774193400269}
+{"sent": "hotdog hog", "ann_id": 422105, "best_split": [2, 1], "split_score": 0.5096774193400269}
+{"sent": "hot dog eater", "ann_id": 422105, "best_split": [2, 1], "split_score": 0.5096774193400269}

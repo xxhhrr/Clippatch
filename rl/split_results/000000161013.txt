@@ -1,0 +1,6 @@
+{"sent": "white kitty that orange cat is hugging", "ann_id": 1816681, "best_split": [3, 2], "split_score": 0.6182410422877394}
+{"sent": "white cat with orange cats arm on it", "ann_id": 1816681, "best_split": [3, 2], "split_score": 0.6182410422877394}
+{"sent": "white cat not being hugged", "ann_id": 1816647, "best_split": [5, 1], "split_score": 0.2315849003088092}
+{"sent": "orange cat", "ann_id": 51952, "best_split": [3, 1], "split_score": 0.42701968769144505}
+{"sent": "orange kitten", "ann_id": 51952, "best_split": [3, 1], "split_score": 0.42701968769144505}
+{"sent": "cat", "ann_id": 51952, "best_split": [3, 1], "split_score": 0.42701968769144505}

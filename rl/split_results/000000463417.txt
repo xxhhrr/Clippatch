@@ -1,0 +1,5 @@
+{"sent": "not the largest not the smallest", "ann_id": 599798, "best_split": [2, 2], "split_score": 0.4603089752253002}
+{"sent": "not the tallest not the smallest giraffe", "ann_id": 599798, "best_split": [3, 2], "split_score": 0.339567843846447}
+{"sent": "giraffe extended neck", "ann_id": 597650, "best_split": [1, 2], "split_score": 0.560877308071332}
+{"sent": "giraffe with longest neck", "ann_id": 597650, "best_split": [1, 2], "split_score": 0.560877308071332}
+{"sent": "biggest giraffe", "ann_id": 597650, "best_split": [1, 2], "split_score": 0.560877308071332}

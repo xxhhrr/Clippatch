@@ -1,0 +1,6 @@
+{"sent": "beneath cat", "ann_id": 1658106, "best_split": [2, 1], "split_score": 0.8011399872129648}
+{"sent": "books under cat", "ann_id": 1658106, "best_split": [2, 3], "split_score": 0.35738535837242935}
+{"sent": "under cat", "ann_id": 1658106, "best_split": [2, 1], "split_score": 0.8011399872129648}
+{"sent": "isaac asimov", "ann_id": 1140394, "best_split": [3, 1], "split_score": 0.8816521047950951}
+{"sent": "book shelf above cat", "ann_id": 1140394, "best_split": [2, 1], "split_score": 0.6612723214022133}
+{"sent": "whole case over cat", "ann_id": 1140394, "best_split": [2, 1], "split_score": 0.6612723214022133}

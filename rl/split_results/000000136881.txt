@@ -1,0 +1,4 @@
+{"sent": "oranges", "ann_id": 1053717, "best_split": [1, 3], "split_score": 0.3795648423090403}
+{"sent": "two oranges", "ann_id": 1053717, "best_split": [1, 3], "split_score": 0.3795648423090403}
+{"sent": "north and south oranges", "ann_id": 1053717, "best_split": [1, 3], "split_score": 0.3795648423090403}
+{"sent": "least round orange", "ann_id": 1053323, "best_split": [3, 3], "split_score": 0.32332563506244216}

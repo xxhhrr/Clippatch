@@ -1,0 +1,6 @@
+{"sent": "gray car with wheel showing but not showing license plate", "ann_id": 136430, "best_split": [3, 3], "split_score": 0.6303421940622203}
+{"sent": "silver suv", "ann_id": 136430, "best_split": [3, 3], "split_score": 0.6303421940622203}
+{"sent": "car with headlight not showing", "ann_id": 136430, "best_split": [3, 3], "split_score": 0.6303421940622203}
+{"sent": "car you can see most of", "ann_id": 131798, "best_split": [2, 3], "split_score": 0.5960874567979543}
+{"sent": "porsche", "ann_id": 131798, "best_split": [2, 3], "split_score": 0.5960874567979543}
+{"sent": "porshe", "ann_id": 131798, "best_split": [2, 3], "split_score": 0.5960874567979543}

@@ -1,0 +1,6 @@
+{"sent": "horse with white", "ann_id": 56574, "best_split": [2, 1], "split_score": 0.14904741156774876}
+{"sent": "white wbrown", "ann_id": 56574, "best_split": [2, 3], "split_score": 0.44548360359352623}
+{"sent": "white and brown horse", "ann_id": 56574, "best_split": [2, 1], "split_score": 0.14904741156774876}
+{"sent": "brown horse", "ann_id": 53706, "best_split": [2, 2], "split_score": 0.6411415499895898}
+{"sent": "dark horse", "ann_id": 53706, "best_split": [2, 2], "split_score": 0.6411415499895898}
+{"sent": "brown horse", "ann_id": 53706, "best_split": [2, 2], "split_score": 0.6411415499895898}

@@ -1,0 +1,9 @@
+{"sent": "red jacket", "ann_id": 1333056, "best_split": [1, 3], "split_score": 0.5919511462312568}
+{"sent": "man clapping in red", "ann_id": 1333056, "best_split": [1, 3], "split_score": 0.5919511462312568}
+{"sent": "red shirt", "ann_id": 1333056, "best_split": [1, 3], "split_score": 0.5919511462312568}
+{"sent": "girl in purple", "ann_id": 1331780, "best_split": [1, 5], "split_score": 0.5246851888342309}
+{"sent": "woman with camera", "ann_id": 1331780, "best_split": [3, 1], "split_score": 0.1379453189655165}
+{"sent": "woman in blue and white", "ann_id": 1331780, "best_split": [1, 5], "split_score": 0.5246851888342309}
+{"sent": "green jacket", "ann_id": 1324223, "best_split": [1, 3], "split_score": 0.7645785999802781}
+{"sent": "man in green on phone", "ann_id": 1324223, "best_split": [1, 3], "split_score": 0.7645785999802781}
+{"sent": "guy in green jacket on the phone thanks for the great round", "ann_id": 1324223, "best_split": [1, 3], "split_score": 0.7645785999802781}

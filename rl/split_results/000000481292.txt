@@ -1,0 +1,6 @@
+{"sent": "train further away", "ann_id": 171510, "best_split": [1, 5], "split_score": 0.24728682168146446}
+{"sent": "further bus", "ann_id": 171510, "best_split": [2, 2], "split_score": 0.14986698195759185}
+{"sent": "train in the backgrounf", "ann_id": 171510, "best_split": [1, 5], "split_score": 0.24728682168146446}
+{"sent": "train thats closer to us", "ann_id": 171012, "best_split": [2, 1], "split_score": 0.2318762712425883}
+{"sent": "leading train", "ann_id": 171012, "best_split": [1, 3], "split_score": 0.4229609073103909}
+{"sent": "closer train", "ann_id": 171012, "best_split": [2, 1], "split_score": 0.2318762712425883}

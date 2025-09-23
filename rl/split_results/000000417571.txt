@@ -1,0 +1,6 @@
+{"sent": "person without ball", "ann_id": 531156, "best_split": [3, 3], "split_score": 0.2588661037082188}
+{"sent": "boy without ball", "ann_id": 531156, "best_split": [1, 3], "split_score": 0.26377560000799394}
+{"sent": "sry the man", "ann_id": 531156, "best_split": [3, 1], "split_score": 0.1235392320469773}
+{"sent": "man playing the ball", "ann_id": 512255, "best_split": [1, 3], "split_score": 0.49227799224829405}
+{"sent": "person closest to ball", "ann_id": 512255, "best_split": [1, 5], "split_score": 0.35908267951425143}
+{"sent": "girl with ball", "ann_id": 512255, "best_split": [1, 3], "split_score": 0.49227799224829405}

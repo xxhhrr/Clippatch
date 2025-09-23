@@ -1,0 +1,5 @@
+{"sent": "broc at 7 o clock", "ann_id": 1915436, "best_split": [3, 3], "split_score": 0.6867757326709653}
+{"sent": "darkest broccoli", "ann_id": 1915436, "best_split": [3, 3], "split_score": 0.6867757326709653}
+{"sent": "broc at 4ocloc", "ann_id": 1058561, "best_split": [2, 1], "split_score": 0.22098214284833456}
+{"sent": "broccoli thats not by other broccli", "ann_id": 1058561, "best_split": [2, 1], "split_score": 0.22098214284833456}
+{"sent": "sorrry broccoli part on side corner not all seen", "ann_id": 1058561, "best_split": [2, 1], "split_score": 0.22098214284833456}

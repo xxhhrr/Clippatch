@@ -1,0 +1,5 @@
+{"sent": "upside down broccoli", "ann_id": 1560786, "best_split": [2, 1], "split_score": 0.18395248723756566}
+{"sent": "big broc piece upper", "ann_id": 1560786, "best_split": [2, 1], "split_score": 0.18395248723756566}
+{"sent": "main piece of brocolli", "ann_id": 1055657, "best_split": [2, 2], "split_score": 0.41620321656273834}
+{"sent": "broccoli at 700", "ann_id": 1055657, "best_split": [2, 2], "split_score": 0.41620321656273834}
+{"sent": "broccoli below carrot slices close to us", "ann_id": 1055657, "best_split": [1, 5], "split_score": 0.29662921345933957}

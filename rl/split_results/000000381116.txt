@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 529602, "best_split": [1, 2], "split_score": 0.6127659574264372}
+{"sent": "guy in blue", "ann_id": 529602, "best_split": [1, 2], "split_score": 0.6127659574264372}
+{"sent": "player in blue", "ann_id": 529602, "best_split": [1, 2], "split_score": 0.6127659574264372}
+{"sent": "player in red", "ann_id": 458799, "best_split": [1, 5], "split_score": 0.5066517607318808}
+{"sent": "red shirt guy", "ann_id": 458799, "best_split": [1, 5], "split_score": 0.5066517607318808}
+{"sent": "red uniform", "ann_id": 458799, "best_split": [1, 5], "split_score": 0.5066517607318808}

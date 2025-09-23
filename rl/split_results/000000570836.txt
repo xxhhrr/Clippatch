@@ -1,0 +1,12 @@
+{"sent": "the pot with striped ridges", "ann_id": 1993200, "best_split": [5, 1], "split_score": 0.24682124156256346}
+{"sent": "vase with ridges", "ann_id": 1993200, "best_split": [3, 2], "split_score": 0.4198841698335082}
+{"sent": "round flower pot", "ann_id": 1993200, "best_split": [5, 1], "split_score": 0.24682124156256346}
+{"sent": "short planter", "ann_id": 1954651, "best_split": [3, 2], "split_score": 0.598853868123346}
+{"sent": "closest", "ann_id": 1954651, "best_split": [3, 1], "split_score": 0.30100816128774555}
+{"sent": "smallest and closest to us", "ann_id": 1954651, "best_split": [3, 2], "split_score": 0.598853868123346}
+{"sent": "plant", "ann_id": 1952970, "best_split": [1, 2], "split_score": 0.679649034191401}
+{"sent": "vase with flower", "ann_id": 1952970, "best_split": [1, 2], "split_score": 0.679649034191401}
+{"sent": "the tall plant", "ann_id": 1952970, "best_split": [1, 2], "split_score": 0.679649034191401}
+{"sent": "the tallest planter", "ann_id": 1155084, "best_split": [2, 1], "split_score": 0.34638073978211176}
+{"sent": "tall vase", "ann_id": 1155084, "best_split": [2, 3], "split_score": 0.921022855745528}
+{"sent": "largest vasesmaller anim", "ann_id": 1155084, "best_split": [1, 2], "split_score": 0.1454829082967484}

@@ -1,0 +1,6 @@
+{"sent": "cat in carrier", "ann_id": 47084, "best_split": [3, 1], "split_score": 0.24131274129818334}
+{"sent": "cat inside of crate", "ann_id": 47084, "best_split": [3, 1], "split_score": 0.24131274129818334}
+{"sent": "cat in the box", "ann_id": 47084, "best_split": [3, 3], "split_score": 0.4542664210475343}
+{"sent": "cat with red collar", "ann_id": 46677, "best_split": [2, 2], "split_score": 0.6062787135984544}
+{"sent": "closest cat", "ann_id": 46677, "best_split": [2, 2], "split_score": 0.6062787135984544}
+{"sent": "cat", "ann_id": 46677, "best_split": [2, 2], "split_score": 0.6062787135984544}

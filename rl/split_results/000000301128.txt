@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 228737, "best_split": [3, 1], "split_score": 0.16504758127651428}
+{"sent": "woman", "ann_id": 228737, "best_split": [3, 1], "split_score": 0.16504758127651428}
+{"sent": "girl behind man", "ann_id": 228737, "best_split": [1, 5], "split_score": 0.6268656715810365}
+{"sent": "man patting the horse", "ann_id": 227935, "best_split": [3, 1], "split_score": 0.3415937803574346}
+{"sent": "man touching the horse", "ann_id": 227935, "best_split": [3, 1], "split_score": 0.3415937803574346}
+{"sent": "man touching horse", "ann_id": 227935, "best_split": [3, 1], "split_score": 0.3415937803574346}
+{"sent": "background horse", "ann_id": 56621, "best_split": [2, 1], "split_score": 0.7117346938491815}
+{"sent": "furthest", "ann_id": 56621, "best_split": [2, 1], "split_score": 0.7117346938491815}
+{"sent": "horse in back", "ann_id": 56621, "best_split": [2, 1], "split_score": 0.7117346938491815}
+{"sent": "the horse being pet", "ann_id": 56561, "best_split": [1, 2], "split_score": 0.8450653698642752}
+{"sent": "all white horse", "ann_id": 56561, "best_split": [1, 2], "split_score": 0.8450653698642752}
+{"sent": "horse with hand on it", "ann_id": 56561, "best_split": [1, 2], "split_score": 0.8450653698642752}

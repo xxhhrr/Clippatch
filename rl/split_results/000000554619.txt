@@ -1,0 +1,14 @@
+{"sent": "bowl with dessert", "ann_id": 2217534, "best_split": [1, 2], "split_score": 0.4271910657822969}
+{"sent": "closest plate", "ann_id": 2217534, "best_split": [1, 2], "split_score": 0.4271910657822969}
+{"sent": "biggest white plate shown", "ann_id": 2217534, "best_split": [1, 2], "split_score": 0.4271910657822969}
+{"sent": "blurry dessert", "ann_id": 1928107, "best_split": [2, 2], "split_score": 0.2232142856964912}
+{"sent": "biscuit out of focus", "ann_id": 1928107, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "edge partial food visible", "ann_id": 1928107, "best_split": [1, 2], "split_score": 0.11160714285269423}
+{"sent": "white icing", "ann_id": 1927769, "best_split": [3, 3], "split_score": 0.679741807264183}
+{"sent": "creme", "ann_id": 1927769, "best_split": [3, 3], "split_score": 0.679741807264183}
+{"sent": "dessert in plate", "ann_id": 1927769, "best_split": [3, 3], "split_score": 0.679741807264183}
+{"sent": "empty plate or bowl", "ann_id": 1902977, "best_split": [3, 3], "split_score": 0.5480635703520963}
+{"sent": "one of the plates near the obvious one", "ann_id": 1902977, "best_split": [3, 3], "split_score": 0.5480635703520963}
+{"sent": "plate half", "ann_id": 1902977, "best_split": [3, 3], "split_score": 0.5480635703520963}
+{"sent": "blurry plate of food", "ann_id": 1899783, "best_split": [3, 2], "split_score": 0.7648520197920877}
+{"sent": "corner plate with food", "ann_id": 1899783, "best_split": [1, 3], "split_score": 0.33226940760983126}

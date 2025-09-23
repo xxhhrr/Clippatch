@@ -1,0 +1,15 @@
+{"sent": "screen near woman in white", "ann_id": 1627097, "best_split": [1, 3], "split_score": 0.20698600384851676}
+{"sent": "computer below lady", "ann_id": 1627097, "best_split": [1, 3], "split_score": 0.20698600384851676}
+{"sent": "laptop near guy", "ann_id": 1627097, "best_split": [1, 3], "split_score": 0.20698600384851676}
+{"sent": "computer screen not blocked by guys head", "ann_id": 1101259, "best_split": [3, 3], "split_score": 0.7126220241971875}
+{"sent": "computer you can see the most of", "ann_id": 1101259, "best_split": [3, 3], "split_score": 0.7126220241971875}
+{"sent": "screen partially offscreen", "ann_id": 1101259, "best_split": [3, 3], "split_score": 0.7126220241971875}
+{"sent": "man with glasses facing away from us", "ann_id": 2198301, "best_split": [1, 3], "split_score": 0.35093265885231323}
+{"sent": "mans head", "ann_id": 2198301, "best_split": [2, 3], "split_score": 0.5608893380090313}
+{"sent": "man wearing glasses", "ann_id": 2198301, "best_split": [1, 3], "split_score": 0.35093265885231323}
+{"sent": "lady in white", "ann_id": 489663, "best_split": [3, 3], "split_score": 0.5042312341461445}
+{"sent": "woman in white shirt", "ann_id": 489663, "best_split": [3, 3], "split_score": 0.5042312341461445}
+{"sent": "woman in white shirt", "ann_id": 489663, "best_split": [3, 3], "split_score": 0.5042312341461445}
+{"sent": "tallest woman", "ann_id": 459448, "best_split": [1, 3], "split_score": 0.628638020640134}
+{"sent": "green", "ann_id": 459448, "best_split": [1, 3], "split_score": 0.628638020640134}
+{"sent": "green shirt", "ann_id": 459448, "best_split": [1, 3], "split_score": 0.628638020640134}

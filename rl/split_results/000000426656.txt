@@ -1,0 +1,9 @@
+{"sent": "boy with blue shirt", "ann_id": 514649, "best_split": [2, 3], "split_score": 0.3218749999640764}
+{"sent": "kid in blue hurry up please", "ann_id": 514649, "best_split": [2, 3], "split_score": 0.3218749999640764}
+{"sent": "kid blue shirt", "ann_id": 514649, "best_split": [2, 3], "split_score": 0.3218749999640764}
+{"sent": "old navy hoodie", "ann_id": 479284, "best_split": [1, 5], "split_score": 0.39889196671953975}
+{"sent": "child closest to man", "ann_id": 479284, "best_split": [1, 5], "split_score": 0.39889196671953975}
+{"sent": "brown shirt", "ann_id": 479284, "best_split": [2, 3], "split_score": 0.3861080484690068}
+{"sent": "blue shirt brown shorts", "ann_id": 422156, "best_split": [2, 2], "split_score": 0.2925188557251805}
+{"sent": "man with black shirt", "ann_id": 422156, "best_split": [1, 5], "split_score": 0.42829660716786494}
+{"sent": "dad", "ann_id": 422156, "best_split": [1, 5], "split_score": 0.42829660716786494}

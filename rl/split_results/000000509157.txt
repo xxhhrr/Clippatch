@@ -1,0 +1,4 @@
+{"sent": "pick an orange any orange", "ann_id": 1913518, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "oranges", "ann_id": 1913518, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "orange below stickered orange", "ann_id": 1556924, "best_split": [3, 1], "split_score": 0.36686178471109415}
+{"sent": "foreground orange partial", "ann_id": 1556924, "best_split": [3, 1], "split_score": 0.36686178471109415}

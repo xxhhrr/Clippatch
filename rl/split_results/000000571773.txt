@@ -1,0 +1,6 @@
+{"sent": "couch parallel to the table in the dark", "ann_id": 115121, "best_split": [3, 2], "split_score": 0.7416032242788173}
+{"sent": "couch in corner close to you", "ann_id": 115121, "best_split": [3, 2], "split_score": 0.7416032242788173}
+{"sent": "the couch in corner", "ann_id": 115121, "best_split": [3, 2], "split_score": 0.7416032242788173}
+{"sent": "furthest couch", "ann_id": 111493, "best_split": [2, 2], "split_score": 0.4108796295999074}
+{"sent": "far couch", "ann_id": 111493, "best_split": [2, 2], "split_score": 0.4108796295999074}
+{"sent": "couch facing us", "ann_id": 111493, "best_split": [2, 2], "split_score": 0.4108796295999074}

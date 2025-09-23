@@ -1,0 +1,6 @@
+{"sent": "train closest to us", "ann_id": 1795453, "best_split": [3, 1], "split_score": 0.4478527607176317}
+{"sent": "an empty freight train", "ann_id": 1795453, "best_split": [3, 1], "split_score": 0.4478527607176317}
+{"sent": "train under enclosure", "ann_id": 1795453, "best_split": [3, 1], "split_score": 0.4478527607176317}
+{"sent": "the tanker car", "ann_id": 249018, "best_split": [3, 3], "split_score": 0.6991525422589386}
+{"sent": "not the one going into the covering", "ann_id": 249018, "best_split": [3, 1], "split_score": 0.24889765605425285}
+{"sent": "train furthest", "ann_id": 249018, "best_split": [3, 3], "split_score": 0.6991525422589386}

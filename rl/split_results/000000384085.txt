@@ -1,0 +1,11 @@
+{"sent": "alone box", "ann_id": 1983541, "best_split": [3, 1], "split_score": 0.20918490020382394}
+{"sent": "white box on ground next to blue", "ann_id": 1983541, "best_split": [3, 1], "split_score": 0.20918490020382394}
+{"sent": "white box alone", "ann_id": 1983541, "best_split": [3, 1], "split_score": 0.20918490020382394}
+{"sent": "doorless fridge", "ann_id": 333688, "best_split": [3, 2], "split_score": 0.31521992083835}
+{"sent": "lower one with no door and no shelves", "ann_id": 333688, "best_split": [3, 2], "split_score": 0.31521992083835}
+{"sent": "blue door white hinge", "ann_id": 330843, "best_split": [3, 3], "split_score": 0.3826726342099308}
+{"sent": "blue fridge", "ann_id": 330843, "best_split": [3, 3], "split_score": 0.3826726342099308}
+{"sent": "light blue one", "ann_id": 330843, "best_split": [3, 3], "split_score": 0.3826726342099308}
+{"sent": "small white fridge on blue one", "ann_id": 330632, "best_split": [2, 1], "split_score": 0.05885850178140389}
+{"sent": "above blue one", "ann_id": 330632, "best_split": [1, 3], "split_score": 0.16084809757996815}
+{"sent": "white over blue", "ann_id": 330632, "best_split": [2, 1], "split_score": 0.05885850178140389}

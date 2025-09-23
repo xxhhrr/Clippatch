@@ -1,0 +1,6 @@
+{"sent": "black bowl", "ann_id": 1040919, "best_split": [3, 3], "split_score": 0.5775276883569975}
+{"sent": "black dish", "ann_id": 1040919, "best_split": [3, 3], "split_score": 0.5775276883569975}
+{"sent": "black bowl of something orange", "ann_id": 1040919, "best_split": [3, 3], "split_score": 0.5775276883569975}
+{"sent": "white bowl with red stripe with soup inside", "ann_id": 1038647, "best_split": [2, 2], "split_score": 0.418526785680921}
+{"sent": "bowl with liquid in it", "ann_id": 1038647, "best_split": [2, 2], "split_score": 0.418526785680921}
+{"sent": "bowl next to whisk", "ann_id": 1038647, "best_split": [2, 2], "split_score": 0.418526785680921}

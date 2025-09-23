@@ -1,0 +1,6 @@
+{"sent": "walker", "ann_id": 496054, "best_split": [2, 3], "split_score": 0.34909509359252067}
+{"sent": "tan shirt person walking by", "ann_id": 496054, "best_split": [2, 2], "split_score": 0.24796274736263368}
+{"sent": "woman in brown", "ann_id": 496054, "best_split": [3, 2], "split_score": 0.293739967867803}
+{"sent": "blue shirt man", "ann_id": 425192, "best_split": [1, 3], "split_score": 0.6020597322038074}
+{"sent": "the dude", "ann_id": 425192, "best_split": [1, 3], "split_score": 0.6020597322038074}
+{"sent": "the guy", "ann_id": 425192, "best_split": [1, 3], "split_score": 0.6020597322038074}

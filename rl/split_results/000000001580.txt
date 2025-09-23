@@ -1,0 +1,9 @@
+{"sent": "bright blue", "ann_id": 523417, "best_split": [1, 5], "split_score": 0.4358327324769437}
+{"sent": "vlue", "ann_id": 523417, "best_split": [1, 5], "split_score": 0.4358327324769437}
+{"sent": "blue man", "ann_id": 523417, "best_split": [1, 5], "split_score": 0.4358327324769437}
+{"sent": "person in dark blue", "ann_id": 488772, "best_split": [3, 2], "split_score": 0.1778138637797814}
+{"sent": "person in dark suit", "ann_id": 488772, "best_split": [3, 3], "split_score": 0.3465543644185981}
+{"sent": "skier middle dark blue jacket", "ann_id": 488772, "best_split": [1, 3], "split_score": 0.20010859072151854}
+{"sent": "red jacket", "ann_id": 450991, "best_split": [1, 5], "split_score": 0.3637548891447425}
+{"sent": "red coat", "ann_id": 450991, "best_split": [1, 5], "split_score": 0.3637548891447425}
+{"sent": "red", "ann_id": 450991, "best_split": [1, 5], "split_score": 0.3637548891447425}

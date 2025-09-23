@@ -1,0 +1,9 @@
+{"sent": "boy in black shirt sitting with chips", "ann_id": 542475, "best_split": [2, 2], "split_score": 0.6294378697836884}
+{"sent": "boy in black", "ann_id": 542475, "best_split": [2, 2], "split_score": 0.6294378697836884}
+{"sent": "blue shorts", "ann_id": 542067, "best_split": [2, 2], "split_score": 0.46464424815049404}
+{"sent": "blue shorts", "ann_id": 542067, "best_split": [2, 2], "split_score": 0.46464424815049404}
+{"sent": "yellow horizontal stripe shirt", "ann_id": 504905, "best_split": [3, 3], "split_score": 0.33316658324997916}
+{"sent": "tallest standing guy", "ann_id": 504905, "best_split": [5, 1], "split_score": 0.10296274566566714}
+{"sent": "camo", "ann_id": 469249, "best_split": [1, 2], "split_score": 0.6306176961392114}
+{"sent": "closest kid", "ann_id": 469249, "best_split": [1, 2], "split_score": 0.6306176961392114}
+{"sent": "military", "ann_id": 469249, "best_split": [1, 2], "split_score": 0.6306176961392114}

@@ -1,0 +1,6 @@
+{"sent": "orange", "ann_id": 478433, "best_split": [3, 1], "split_score": 0.4407475867508345}
+{"sent": "sliding", "ann_id": 478433, "best_split": [3, 1], "split_score": 0.4407475867508345}
+{"sent": "orange shirt", "ann_id": 478433, "best_split": [3, 1], "split_score": 0.4407475867508345}
+{"sent": "umpire", "ann_id": 435326, "best_split": [1, 5], "split_score": 0.6257110352165032}
+{"sent": "black shirt", "ann_id": 435326, "best_split": [1, 5], "split_score": 0.6257110352165032}
+{"sent": "man with back to us", "ann_id": 435326, "best_split": [1, 5], "split_score": 0.6257110352165032}

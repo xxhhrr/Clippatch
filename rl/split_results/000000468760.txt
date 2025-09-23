@@ -1,0 +1,5 @@
+{"sent": "horse with head more down", "ann_id": 59789, "best_split": [1, 5], "split_score": 0.3710843373174626}
+{"sent": "horse with head down", "ann_id": 59789, "best_split": [1, 2], "split_score": 0.24218749999034647}
+{"sent": "closest horse", "ann_id": 56079, "best_split": [2, 3], "split_score": 0.6399576420190648}
+{"sent": "horse nearest", "ann_id": 56079, "best_split": [2, 3], "split_score": 0.6399576420190648}
+{"sent": "horse near us", "ann_id": 56079, "best_split": [2, 3], "split_score": 0.6399576420190648}

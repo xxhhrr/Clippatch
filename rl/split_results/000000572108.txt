@@ -1,0 +1,5 @@
+{"sent": "guy whos rear in in 7 o clock corner", "ann_id": 2025712, "best_split": [3, 1], "split_score": 0.028368449222501656}
+{"sent": "man in hat two down from white hat", "ann_id": 2022531, "best_split": [2, 3], "split_score": 0.3822393821932626}
+{"sent": "man not wearing a hat that is most visible", "ann_id": 1732215, "best_split": [3, 1], "split_score": 0.15974057169350583}
+{"sent": "man in corner closest to us not wearing hat and holding head", "ann_id": 1732215, "best_split": [3, 1], "split_score": 0.15974057169350583}
+{"sent": "man not wearing a hat with hand to his face behind standing man", "ann_id": 1732215, "best_split": [2, 1], "split_score": 0.10905612244463264}

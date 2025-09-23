@@ -1,0 +1,9 @@
+{"sent": "woman with gray hair whole face", "ann_id": 477210, "best_split": [3, 3], "split_score": 0.4624804585119228}
+{"sent": "woman in dark clothing with white hair", "ann_id": 477210, "best_split": [3, 3], "split_score": 0.4624804585119228}
+{"sent": "lady at 9 pm", "ann_id": 477210, "best_split": [3, 3], "split_score": 0.4624804585119228}
+{"sent": "has hat on", "ann_id": 449597, "best_split": [3, 1], "split_score": 0.16079597437323903}
+{"sent": "striped hat", "ann_id": 449597, "best_split": [3, 1], "split_score": 0.16079597437323903}
+{"sent": "lady wearing a striped hat or something", "ann_id": 449597, "best_split": [3, 1], "split_score": 0.16079597437323903}
+{"sent": "gray beard", "ann_id": 432687, "best_split": [1, 2], "split_score": 0.5301339285502976}
+{"sent": "purple shirt", "ann_id": 432687, "best_split": [2, 2], "split_score": 0.6685389630919659}
+{"sent": "bearded man with a maroon shirt and maroon silk tie", "ann_id": 432687, "best_split": [2, 2], "split_score": 0.6685389630919659}

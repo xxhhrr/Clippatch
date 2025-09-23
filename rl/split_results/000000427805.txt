@@ -1,0 +1,8 @@
+{"sent": "vase with blue flowers", "ann_id": 1157228, "best_split": [3, 1], "split_score": 0.1328461501169798}
+{"sent": "jar with blue flowers", "ann_id": 1157228, "best_split": [2, 1], "split_score": 0.24507547684030598}
+{"sent": "vase with pale flowers", "ann_id": 1157148, "best_split": [1, 5], "split_score": 0.3007900676958408}
+{"sent": "vase white flowers", "ann_id": 1157148, "best_split": [1, 3], "split_score": 0.3788006756528233}
+{"sent": "vase with the fluffy dull flower", "ann_id": 1157148, "best_split": [1, 2], "split_score": 0.25027901784716683}
+{"sent": "vase with red flowers", "ann_id": 1156378, "best_split": [1, 3], "split_score": 0.31370656368763833}
+{"sent": "a clear vase holding pink flowers", "ann_id": 1156378, "best_split": [1, 3], "split_score": 0.31370656368763833}
+{"sent": "vase under red flowers", "ann_id": 1156378, "best_split": [1, 3], "split_score": 0.31370656368763833}

@@ -1,0 +1,10 @@
+{"sent": "green white next closest train", "ann_id": 1795521, "best_split": [3, 1], "split_score": 0.2723214285549999}
+{"sent": "white house close to red", "ann_id": 1366602, "best_split": [5, 1], "split_score": 0.2781954886946396}
+{"sent": "white colored building with several windows", "ann_id": 1366602, "best_split": [1, 3], "split_score": 0.18608549873152402}
+{"sent": "white building with many windows", "ann_id": 1366602, "best_split": [1, 3], "split_score": 0.18608549873152402}
+{"sent": "fret next to white train", "ann_id": 173815, "best_split": [3, 3], "split_score": 0.6113523572252865}
+{"sent": "non dominant hand fret", "ann_id": 173815, "best_split": [3, 3], "split_score": 0.6113523572252865}
+{"sent": "full view of train car", "ann_id": 173815, "best_split": [3, 3], "split_score": 0.6113523572252865}
+{"sent": "train closest to us", "ann_id": 170678, "best_split": [5, 1], "split_score": 0.3992967904436263}
+{"sent": "train closest to us", "ann_id": 170678, "best_split": [5, 1], "split_score": 0.3992967904436263}
+{"sent": "train closest to you", "ann_id": 170678, "best_split": [5, 1], "split_score": 0.3992967904436263}

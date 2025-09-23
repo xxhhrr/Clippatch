@@ -1,0 +1,9 @@
+{"sent": "pizza slice less cheese", "ann_id": 1077499, "best_split": [2, 2], "split_score": 0.6629464285185789}
+{"sent": "the slice of pizza in the foreground with less olives", "ann_id": 1077499, "best_split": [2, 2], "split_score": 0.6629464285185789}
+{"sent": "slice on plate with mushroom", "ann_id": 1077499, "best_split": [2, 2], "split_score": 0.6629464285185789}
+{"sent": "almost complete pizza", "ann_id": 1077473, "best_split": [3, 1], "split_score": 0.41338053412738035}
+{"sent": "three quarters of a pizza", "ann_id": 1077473, "best_split": [3, 1], "split_score": 0.41338053412738035}
+{"sent": "large pizza", "ann_id": 1077473, "best_split": [3, 1], "split_score": 0.41338053412738035}
+{"sent": "lowest cut pizza", "ann_id": 1074661, "best_split": [2, 1], "split_score": 0.518016581612005}
+{"sent": "slice closestg to you", "ann_id": 1074661, "best_split": [2, 1], "split_score": 0.518016581612005}
+{"sent": "closest piece", "ann_id": 1074661, "best_split": [2, 1], "split_score": 0.518016581612005}

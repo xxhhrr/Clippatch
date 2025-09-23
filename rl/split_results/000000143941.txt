@@ -1,0 +1,6 @@
+{"sent": "huge white umbrella", "ann_id": 1425900, "best_split": [1, 2], "split_score": 0.5294079557849084}
+{"sent": "near umbrella", "ann_id": 1425900, "best_split": [1, 2], "split_score": 0.5294079557849084}
+{"sent": "cant see the big umbrella", "ann_id": 1425900, "best_split": [1, 2], "split_score": 0.5294079557849084}
+{"sent": "umbrella without advertising", "ann_id": 284332, "best_split": [3, 1], "split_score": 0.3056047197511334}
+{"sent": "not blue umbrella", "ann_id": 284332, "best_split": [3, 1], "split_score": 0.3056047197511334}
+{"sent": "brown umbrella", "ann_id": 284332, "best_split": [1, 2], "split_score": 0.5650485436669289}

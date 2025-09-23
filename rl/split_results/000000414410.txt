@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 1733725, "best_split": [1, 2], "split_score": 0.6045947783742469}
+{"sent": "man with beard", "ann_id": 1733725, "best_split": [1, 3], "split_score": 0.5254875812460248}
+{"sent": "man with brown coat", "ann_id": 1733725, "best_split": [1, 2], "split_score": 0.6045947783742469}
+{"sent": "red", "ann_id": 1720850, "best_split": [1, 5], "split_score": 0.688925238074769}
+{"sent": "half man with red shirt", "ann_id": 1720850, "best_split": [1, 5], "split_score": 0.688925238074769}
+{"sent": "marron shirt with hat", "ann_id": 1720850, "best_split": [1, 2], "split_score": 0.3068000637632812}
+{"sent": "woman", "ann_id": 432808, "best_split": [1, 3], "split_score": 0.7249434814982806}
+{"sent": "girl", "ann_id": 432808, "best_split": [1, 3], "split_score": 0.7249434814982806}
+{"sent": "her", "ann_id": 432808, "best_split": [1, 3], "split_score": 0.7249434814982806}

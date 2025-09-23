@@ -1,0 +1,11 @@
+{"sent": "wow strip of train cars 4 from us", "ann_id": 174527, "best_split": [2, 1], "split_score": 0.21861951271854255}
+{"sent": "fourth row", "ann_id": 174527, "best_split": [5, 1], "split_score": 0.605500569273408}
+{"sent": "purple train", "ann_id": 174215, "best_split": [5, 1], "split_score": 0.6358628733953818}
+{"sent": "purple train cars", "ann_id": 174215, "best_split": [5, 1], "split_score": 0.6358628733953818}
+{"sent": "all purple train", "ann_id": 174215, "best_split": [5, 1], "split_score": 0.6358628733953818}
+{"sent": "train with three cars visible", "ann_id": 173737, "best_split": [3, 1], "split_score": 0.8377500253407579}
+{"sent": "whole train directly next to the whole train that is closest to us", "ann_id": 173737, "best_split": [3, 1], "split_score": 0.8377500253407579}
+{"sent": "train number two between one nearest us and purple one", "ann_id": 173737, "best_split": [3, 1], "split_score": 0.8377500253407579}
+{"sent": "train closest to camera", "ann_id": 169750, "best_split": [3, 1], "split_score": 0.6841216215803498}
+{"sent": "lowest train", "ann_id": 169750, "best_split": [3, 1], "split_score": 0.6841216215803498}
+{"sent": "train in foreground", "ann_id": 169750, "best_split": [3, 1], "split_score": 0.6841216215803498}

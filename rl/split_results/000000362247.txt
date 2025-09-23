@@ -1,0 +1,6 @@
+{"sent": "more neck showing", "ann_id": 598356, "best_split": [1, 2], "split_score": 0.5619116582041505}
+{"sent": "giraffe with its mouth open", "ann_id": 598356, "best_split": [1, 2], "split_score": 0.5619116582041505}
+{"sent": "giraffe with open mouth", "ann_id": 598356, "best_split": [1, 2], "split_score": 0.5619116582041505}
+{"sent": "mouth closed", "ann_id": 597085, "best_split": [3, 1], "split_score": 0.27072468279478773}
+{"sent": "giraffe with its mouth closed", "ann_id": 597085, "best_split": [1, 2], "split_score": 0.6407047193622168}
+{"sent": "gir 1", "ann_id": 597085, "best_split": [2, 1], "split_score": 0.2479383943655124}

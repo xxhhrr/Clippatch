@@ -1,0 +1,6 @@
+{"sent": "smaller tv on the sec row", "ann_id": 35323, "best_split": [5, 1], "split_score": 0.24852071003619444}
+{"sent": "tv at 5 o clock", "ann_id": 35323, "best_split": [3, 2], "split_score": 0.4401544401013327}
+{"sent": "television nearest 5 o clock", "ann_id": 35323, "best_split": [5, 1], "split_score": 0.24852071003619444}
+{"sent": "lower tv", "ann_id": 30427, "best_split": [1, 2], "split_score": 0.07493109783891447}
+{"sent": "larger looking tv with aquos", "ann_id": 30427, "best_split": [3, 2], "split_score": 0.11868632125955526}
+{"sent": "tv closest to camera", "ann_id": 30427, "best_split": [1, 2], "split_score": 0.07493109783891447}

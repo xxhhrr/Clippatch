@@ -1,0 +1,6 @@
+{"sent": "boy in striped tie", "ann_id": 530173, "best_split": [2, 2], "split_score": 0.4667089044772083}
+{"sent": "shorter kid", "ann_id": 530173, "best_split": [1, 5], "split_score": 0.5195810260511321}
+{"sent": "striped tie", "ann_id": 530173, "best_split": [2, 2], "split_score": 0.4667089044772083}
+{"sent": "blue tie", "ann_id": 441279, "best_split": [1, 2], "split_score": 0.6354225484421072}
+{"sent": "blue tie", "ann_id": 441279, "best_split": [1, 2], "split_score": 0.6354225484421072}
+{"sent": "blue tie boy", "ann_id": 441279, "best_split": [1, 2], "split_score": 0.6354225484421072}

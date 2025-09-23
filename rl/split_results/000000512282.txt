@@ -1,0 +1,6 @@
+{"sent": "man in red shirt", "ann_id": 458249, "best_split": [2, 3], "split_score": 0.6202115723176621}
+{"sent": "red shirt", "ann_id": 458249, "best_split": [2, 3], "split_score": 0.6202115723176621}
+{"sent": "red", "ann_id": 458249, "best_split": [2, 3], "split_score": 0.6202115723176621}
+{"sent": "man on phone", "ann_id": 448727, "best_split": [1, 2], "split_score": 0.5075339025455947}
+{"sent": "talking on phone", "ann_id": 448727, "best_split": [1, 2], "split_score": 0.5075339025455947}
+{"sent": "man on call", "ann_id": 448727, "best_split": [1, 2], "split_score": 0.5075339025455947}

@@ -1,0 +1,9 @@
+{"sent": "the woman with big necklace", "ann_id": 521883, "best_split": [1, 3], "split_score": 0.41475627410625265}
+{"sent": "big hair girl", "ann_id": 521883, "best_split": [2, 3], "split_score": 0.6342961844541608}
+{"sent": "woman", "ann_id": 521883, "best_split": [2, 3], "split_score": 0.6342961844541608}
+{"sent": "red tie", "ann_id": 457126, "best_split": [1, 3], "split_score": 0.8128590143700061}
+{"sent": "man with black and green hat", "ann_id": 457126, "best_split": [1, 3], "split_score": 0.8128590143700061}
+{"sent": "man with pink tie", "ann_id": 457126, "best_split": [1, 3], "split_score": 0.8128590143700061}
+{"sent": "glasses", "ann_id": 439489, "best_split": [1, 2], "split_score": 0.9202806122082159}
+{"sent": "person holding red item in hand", "ann_id": 439489, "best_split": [1, 2], "split_score": 0.9202806122082159}
+{"sent": "wears glasses", "ann_id": 439489, "best_split": [1, 2], "split_score": 0.9202806122082159}

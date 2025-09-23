@@ -1,0 +1,6 @@
+{"sent": "monitor parallel to keyboard", "ann_id": 35285, "best_split": [2, 3], "split_score": 0.3364595544831401}
+{"sent": "monitor not facing us", "ann_id": 35285, "best_split": [2, 3], "split_score": 0.3364595544831401}
+{"sent": "monitor between speakers", "ann_id": 35285, "best_split": [2, 3], "split_score": 0.3364595544831401}
+{"sent": "screen on black background", "ann_id": 30228, "best_split": [3, 2], "split_score": 0.45918367342058}
+{"sent": "ri ght screen", "ann_id": 30228, "best_split": [3, 2], "split_score": 0.45918367342058}
+{"sent": "moniter not connected to keyboard", "ann_id": 30228, "best_split": [2, 2], "split_score": 0.4336734693531829}

@@ -1,0 +1,6 @@
+{"sent": "man in red tie", "ann_id": 227023, "best_split": [1, 3], "split_score": 0.732043010713331}
+{"sent": "the man of asian descent", "ann_id": 227023, "best_split": [1, 3], "split_score": 0.732043010713331}
+{"sent": "man", "ann_id": 227023, "best_split": [1, 3], "split_score": 0.732043010713331}
+{"sent": "her", "ann_id": 221168, "best_split": [1, 2], "split_score": 0.42940848212574106}
+{"sent": "woman", "ann_id": 221168, "best_split": [1, 3], "split_score": 0.6499155405013323}
+{"sent": "lady", "ann_id": 221168, "best_split": [1, 2], "split_score": 0.42940848212574106}

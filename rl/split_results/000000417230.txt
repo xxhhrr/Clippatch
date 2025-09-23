@@ -1,0 +1,6 @@
+{"sent": "man with shades", "ann_id": 216966, "best_split": [3, 3], "split_score": 0.4124624838627322}
+{"sent": "cop facing u", "ann_id": 216966, "best_split": [3, 1], "split_score": 0.1594739459490814}
+{"sent": "fartherest man", "ann_id": 216966, "best_split": [1, 5], "split_score": 0.3990191269839118}
+{"sent": "not looking at us", "ann_id": 194073, "best_split": [2, 2], "split_score": 0.37360840302071774}
+{"sent": "man closest to us", "ann_id": 194073, "best_split": [2, 1], "split_score": 0.2088387300844201}
+{"sent": "guy closest to us", "ann_id": 194073, "best_split": [2, 2], "split_score": 0.37360840302071774}

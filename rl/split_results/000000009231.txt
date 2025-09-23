@@ -1,0 +1,10 @@
+{"sent": "largest suitcase", "ann_id": 1843852, "best_split": [2, 2], "split_score": 0.6131655669473088}
+{"sent": "largest luggage", "ann_id": 1843852, "best_split": [2, 2], "split_score": 0.6131655669473088}
+{"sent": "suitcase with red tag", "ann_id": 1843852, "best_split": [1, 2], "split_score": 0.5750678862164117}
+{"sent": "biggest case", "ann_id": 1843852, "best_split": [1, 2], "split_score": 0.5750678862164117}
+{"sent": "medium suitcase with others", "ann_id": 1843578, "best_split": [1, 2], "split_score": 0.5451610331415353}
+{"sent": "medium size suitcase", "ann_id": 1843578, "best_split": [1, 2], "split_score": 0.5451610331415353}
+{"sent": "the smaller suitcase", "ann_id": 1843578, "best_split": [1, 2], "split_score": 0.5451610331415353}
+{"sent": "suitcase on its side not upright", "ann_id": 1842932, "best_split": [3, 2], "split_score": 0.549469111902815}
+{"sent": "corner luggage", "ann_id": 1842932, "best_split": [3, 2], "split_score": 0.549469111902815}
+{"sent": "small bag at 7 ocklock", "ann_id": 1842932, "best_split": [3, 2], "split_score": 0.549469111902815}

@@ -1,0 +1,9 @@
+{"sent": "person in black seems to looking at some sort of electronic", "ann_id": 556610, "best_split": [2, 3], "split_score": 0.3022279625118687}
+{"sent": "person barely in picture on phone", "ann_id": 556610, "best_split": [1, 5], "split_score": 0.3445154943094426}
+{"sent": "cant even see this man completely", "ann_id": 556610, "best_split": [5, 1], "split_score": 0.13522717832583875}
+{"sent": "man white shirt", "ann_id": 467260, "best_split": [1, 2], "split_score": 0.8022181145761085}
+{"sent": "bald guy", "ann_id": 467260, "best_split": [1, 2], "split_score": 0.8022181145761085}
+{"sent": "white shirt", "ann_id": 467260, "best_split": [1, 2], "split_score": 0.8022181145761085}
+{"sent": "woman", "ann_id": 425011, "best_split": [5, 1], "split_score": 0.28841111691869353}
+{"sent": "woman", "ann_id": 425011, "best_split": [5, 1], "split_score": 0.28841111691869353}
+{"sent": "woman pouring", "ann_id": 425011, "best_split": [3, 2], "split_score": 0.44392113032298863}

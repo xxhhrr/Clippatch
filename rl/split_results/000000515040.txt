@@ -1,0 +1,6 @@
+{"sent": "van in front", "ann_id": 1799955, "best_split": [2, 1], "split_score": 0.5860215053602693}
+{"sent": "white van", "ann_id": 1799955, "best_split": [2, 1], "split_score": 0.5860215053602693}
+{"sent": "white truck", "ann_id": 1799955, "best_split": [2, 1], "split_score": 0.5860215053602693}
+{"sent": "white building beside van", "ann_id": 1367913, "best_split": [5, 1], "split_score": 0.29378045283076953}
+{"sent": "white wall", "ann_id": 1367913, "best_split": [3, 2], "split_score": 0.5283648497841709}
+{"sent": "big white box", "ann_id": 1367913, "best_split": [3, 2], "split_score": 0.5283648497841709}

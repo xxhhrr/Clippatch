@@ -1,0 +1,6 @@
+{"sent": "white bottle next to cat", "ann_id": 2096001, "best_split": [2, 3], "split_score": 0.2650709219564416}
+{"sent": "milk", "ann_id": 2096001, "best_split": [2, 3], "split_score": 0.2650709219564416}
+{"sent": "milk", "ann_id": 2096001, "best_split": [2, 3], "split_score": 0.2650709219564416}
+{"sent": "the container cat is sniffing", "ann_id": 92615, "best_split": [2, 2], "split_score": 0.28518288900455807}
+{"sent": "juice", "ann_id": 92615, "best_split": [2, 3], "split_score": 0.42553191484441116}
+{"sent": "red juice", "ann_id": 92615, "best_split": [2, 3], "split_score": 0.42553191484441116}

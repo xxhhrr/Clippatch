@@ -1,0 +1,9 @@
+{"sent": "guy in white shirt biage pants running", "ann_id": 237618, "best_split": [1, 5], "split_score": 0.7387140902150954}
+{"sent": "white shirt tan jeans", "ann_id": 237618, "best_split": [1, 5], "split_score": 0.7387140902150954}
+{"sent": "white shirt tan pant", "ann_id": 237618, "best_split": [1, 5], "split_score": 0.7387140902150954}
+{"sent": "man with no shirt", "ann_id": 227637, "best_split": [3, 3], "split_score": 0.2546236558774733}
+{"sent": "no shirt", "ann_id": 227637, "best_split": [3, 3], "split_score": 0.2546236558774733}
+{"sent": "shirtless man", "ann_id": 227637, "best_split": [3, 3], "split_score": 0.2546236558774733}
+{"sent": "white wifebeater guy", "ann_id": 212432, "best_split": [3, 3], "split_score": 0.3856175090690962}
+{"sent": "black shorts white shirt", "ann_id": 212432, "best_split": [3, 3], "split_score": 0.3856175090690962}
+{"sent": "heavier white shirt", "ann_id": 212432, "best_split": [1, 3], "split_score": 0.3112934362746565}

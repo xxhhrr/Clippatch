@@ -1,0 +1,11 @@
+{"sent": "mcdonalds coffee", "ann_id": 1883748, "best_split": [2, 3], "split_score": 0.5237204953816639}
+{"sent": "coffee cup", "ann_id": 1883748, "best_split": [2, 3], "split_score": 0.5237204953816639}
+{"sent": "coffee", "ann_id": 1883748, "best_split": [2, 3], "split_score": 0.5237204953816639}
+{"sent": "logo", "ann_id": 1506435, "best_split": [2, 2], "split_score": 0.20910395406496302}
+{"sent": "mc white cup", "ann_id": 1506435, "best_split": [2, 2], "split_score": 0.20910395406496302}
+{"sent": "mcdonalds cup with m", "ann_id": 1506435, "best_split": [2, 2], "split_score": 0.20910395406496302}
+{"sent": "bottle to off main picture", "ann_id": 2131794, "best_split": [3, 3], "split_score": 0.47601255410611076}
+{"sent": "tray only partially seen", "ann_id": 2131794, "best_split": [3, 2], "split_score": 0.34435261704340403}
+{"sent": "whole meal", "ann_id": 390981, "best_split": [2, 1], "split_score": 0.5223474297180225}
+{"sent": "all the food", "ann_id": 390981, "best_split": [2, 1], "split_score": 0.5223474297180225}
+{"sent": "all food", "ann_id": 390981, "best_split": [2, 1], "split_score": 0.5223474297180225}

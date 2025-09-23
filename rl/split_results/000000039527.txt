@@ -1,0 +1,12 @@
+{"sent": "rino", "ann_id": 2147525, "best_split": [1, 2], "split_score": 0.6403459821173332}
+{"sent": "rhino", "ann_id": 2147525, "best_split": [1, 2], "split_score": 0.6403459821173332}
+{"sent": "gray rhino", "ann_id": 2147525, "best_split": [1, 2], "split_score": 0.6403459821173332}
+{"sent": "face ueddi brownp t", "ann_id": 1161867, "best_split": [1, 2], "split_score": 0.24631478838776688}
+{"sent": "orange shirt", "ann_id": 1161867, "best_split": [3, 2], "split_score": 0.7197183097746809}
+{"sent": "teddy bear orange shirt", "ann_id": 1161867, "best_split": [3, 2], "split_score": 0.7197183097746809}
+{"sent": "pink animal next to her head", "ann_id": 1161094, "best_split": [3, 3], "split_score": 0.4650630010788856}
+{"sent": "pink stuffie", "ann_id": 1161094, "best_split": [3, 3], "split_score": 0.4650630010788856}
+{"sent": "pink fuzzy", "ann_id": 1161094, "best_split": [3, 3], "split_score": 0.4650630010788856}
+{"sent": "shes holding it", "ann_id": 1160137, "best_split": [2, 2], "split_score": 0.33162743088670654}
+{"sent": "teddy bear the girl holds", "ann_id": 1160137, "best_split": [5, 1], "split_score": 0.18068441063264756}
+{"sent": "bear shes hoding", "ann_id": 1160137, "best_split": [5, 1], "split_score": 0.18068441063264756}

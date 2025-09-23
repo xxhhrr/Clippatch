@@ -1,0 +1,9 @@
+{"sent": "man holding glass of red wine", "ann_id": 528986, "best_split": [1, 3], "split_score": 0.46927437002810063}
+{"sent": "guy with red wine", "ann_id": 528986, "best_split": [1, 3], "split_score": 0.46927437002810063}
+{"sent": "white button down guy", "ann_id": 528986, "best_split": [2, 3], "split_score": 0.8628839145379611}
+{"sent": "man in white and glasses", "ann_id": 494341, "best_split": [1, 3], "split_score": 0.6022020104953206}
+{"sent": "glasses", "ann_id": 494341, "best_split": [1, 3], "split_score": 0.6022020104953206}
+{"sent": "glasses", "ann_id": 494341, "best_split": [1, 3], "split_score": 0.6022020104953206}
+{"sent": "looking at camera", "ann_id": 483815, "best_split": [1, 5], "split_score": 0.33861363889795454}
+{"sent": "woman", "ann_id": 483815, "best_split": [2, 2], "split_score": 0.7450644906064053}
+{"sent": "person looking at us", "ann_id": 483815, "best_split": [2, 2], "split_score": 0.7450644906064053}

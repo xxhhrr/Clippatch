@@ -1,0 +1,4 @@
+{"sent": "train car with door open", "ann_id": 173961, "best_split": [2, 3], "split_score": 0.4852521407605552}
+{"sent": "yellow train car before stop sign", "ann_id": 173961, "best_split": [2, 3], "split_score": 0.4852521407605552}
+{"sent": "1 cab on train", "ann_id": 173961, "best_split": [2, 3], "split_score": 0.4852521407605552}
+{"sent": "longer part of train", "ann_id": 172678, "best_split": [3, 1], "split_score": 0.3317395263927744}

@@ -1,0 +1,6 @@
+{"sent": "old man folding hands", "ann_id": 505930, "best_split": [2, 3], "split_score": 0.5806451612345771}
+{"sent": "man with blue jacket", "ann_id": 505930, "best_split": [2, 3], "split_score": 0.5806451612345771}
+{"sent": "man arms folded", "ann_id": 505930, "best_split": [1, 2], "split_score": 0.32589285712986715}
+{"sent": "alady turned away", "ann_id": 2162823, "best_split": [3, 2], "split_score": 0.3661264878555768}
+{"sent": "woman in striped jacket", "ann_id": 2162823, "best_split": [1, 2], "split_score": 0.4290497448808574}
+{"sent": "woman", "ann_id": 2162823, "best_split": [1, 3], "split_score": 0.1510609632809422}

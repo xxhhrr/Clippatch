@@ -1,0 +1,6 @@
+{"sent": "bowl or cup in foreground", "ann_id": 1877080, "best_split": [3, 2], "split_score": 0.946911196796946}
+{"sent": "coffe cup of screen near us", "ann_id": 1877080, "best_split": [3, 2], "split_score": 0.946911196796946}
+{"sent": "coffee in cup closest to camera", "ann_id": 1877080, "best_split": [3, 2], "split_score": 0.946911196796946}
+{"sent": "glass with white thingy sticking out", "ann_id": 675020, "best_split": [3, 3], "split_score": 0.5967741934754675}
+{"sent": "cup with utensils in it", "ann_id": 675020, "best_split": [1, 2], "split_score": 0.3026147959063052}
+{"sent": "drink with thing in it", "ann_id": 675020, "best_split": [3, 3], "split_score": 0.5967741934754675}

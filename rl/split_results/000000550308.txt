@@ -1,0 +1,9 @@
+{"sent": "closest sandwich", "ann_id": 1555244, "best_split": [3, 1], "split_score": 0.22102619302919688}
+{"sent": "closes food", "ann_id": 1555244, "best_split": [1, 2], "split_score": 0.4244260203912458}
+{"sent": "closest sammich", "ann_id": 1555244, "best_split": [3, 1], "split_score": 0.22102619302919688}
+{"sent": "white egg sandwich", "ann_id": 312347, "best_split": [2, 3], "split_score": 0.6005067566843018}
+{"sent": "sandwich with circular egg white", "ann_id": 312347, "best_split": [2, 3], "split_score": 0.6005067566843018}
+{"sent": "white thick cheese", "ann_id": 312347, "best_split": [2, 3], "split_score": 0.6005067566843018}
+{"sent": "french toast with small egg", "ann_id": 311410, "best_split": [3, 3], "split_score": 0.45425973729326974}
+{"sent": "sandwiched sandwichlol", "ann_id": 311410, "best_split": [3, 3], "split_score": 0.45425973729326974}
+{"sent": "number 2 item", "ann_id": 311410, "best_split": [2, 3], "split_score": 0.24815958202737595}

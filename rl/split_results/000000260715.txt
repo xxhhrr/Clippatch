@@ -1,0 +1,9 @@
+{"sent": "orange by blue blanket", "ann_id": 1556398, "best_split": [3, 3], "split_score": 0.4550831201318601}
+{"sent": "orange close to avocado", "ann_id": 1556398, "best_split": [3, 3], "split_score": 0.4550831201318601}
+{"sent": "mango that is cut off", "ann_id": 1048886, "best_split": [1, 5], "split_score": 0.46022727268057756}
+{"sent": "green apple behind two rose ones", "ann_id": 1048610, "best_split": [1, 2], "split_score": 0.40957049982922383}
+{"sent": "green apple behind banana", "ann_id": 1048610, "best_split": [1, 2], "split_score": 0.40957049982922383}
+{"sent": "pure green apple", "ann_id": 1048610, "best_split": [1, 2], "split_score": 0.40957049982922383}
+{"sent": "apple with stem", "ann_id": 1047363, "best_split": [3, 2], "split_score": 0.5507933910885986}
+{"sent": "red and green apple", "ann_id": 1047363, "best_split": [3, 2], "split_score": 0.5507933910885986}
+{"sent": "apple with green and red", "ann_id": 1047363, "best_split": [3, 2], "split_score": 0.5507933910885986}

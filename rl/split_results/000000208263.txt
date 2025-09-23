@@ -1,0 +1,6 @@
+{"sent": "the chair that is hardly visible and not metal", "ann_id": 1933211, "best_split": [3, 3], "split_score": 0.9083859331093983}
+{"sent": "chair partially visible 7 o clock corner", "ann_id": 1933211, "best_split": [3, 3], "split_score": 0.9083859331093983}
+{"sent": "chair barely visible in lower corner", "ann_id": 1933211, "best_split": [3, 3], "split_score": 0.9083859331093983}
+{"sent": "the chair the mans foot is on", "ann_id": 1593367, "best_split": [2, 2], "split_score": 0.8629563135201259}
+{"sent": "chair being stood on", "ann_id": 1593367, "best_split": [2, 2], "split_score": 0.8629563135201259}
+{"sent": "black chair with foot on it", "ann_id": 1593367, "best_split": [2, 2], "split_score": 0.8629563135201259}

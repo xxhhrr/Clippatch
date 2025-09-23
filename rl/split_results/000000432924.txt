@@ -1,0 +1,12 @@
+{"sent": "partial white shirt black strap", "ann_id": 1310884, "best_split": [3, 3], "split_score": 0.333279716851652}
+{"sent": "cut off person behind woman", "ann_id": 1310884, "best_split": [2, 3], "split_score": 0.3239117471289312}
+{"sent": "person behind main woman", "ann_id": 1310884, "best_split": [2, 3], "split_score": 0.3239117471289312}
+{"sent": "kid in green shirt", "ann_id": 233342, "best_split": [3, 3], "split_score": 0.4756977108065698}
+{"sent": "little boy green", "ann_id": 233342, "best_split": [3, 3], "split_score": 0.4756977108065698}
+{"sent": "green shirt", "ann_id": 233342, "best_split": [3, 3], "split_score": 0.4756977108065698}
+{"sent": "white shirt black shorts", "ann_id": 224290, "best_split": [3, 2], "split_score": 0.3169811320469918}
+{"sent": "guy white shirt black shorts sandals", "ann_id": 224290, "best_split": [1, 5], "split_score": 0.5255735238317437}
+{"sent": "man in plaid shorts", "ann_id": 224290, "best_split": [2, 2], "split_score": 0.38848920860457425}
+{"sent": "lady taking a picture", "ann_id": 206423, "best_split": [2, 1], "split_score": 0.5043398966360113}
+{"sent": "woman holding camera phone", "ann_id": 206423, "best_split": [2, 1], "split_score": 0.5043398966360113}
+{"sent": "girl close shooting picture white shirt", "ann_id": 206423, "best_split": [2, 1], "split_score": 0.5043398966360113}

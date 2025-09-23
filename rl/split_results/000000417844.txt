@@ -1,0 +1,6 @@
+{"sent": "zebra nearest edge", "ann_id": 591306, "best_split": [1, 3], "split_score": 0.7956685498590119}
+{"sent": "zebra on edge", "ann_id": 591306, "best_split": [1, 3], "split_score": 0.7956685498590119}
+{"sent": "zebra closest to the edge of picture", "ann_id": 591306, "best_split": [1, 3], "split_score": 0.7956685498590119}
+{"sent": "smaller zebra", "ann_id": 588628, "best_split": [1, 2], "split_score": 0.3213319302344659}
+{"sent": "zebra without mohawk", "ann_id": 588628, "best_split": [1, 2], "split_score": 0.3213319302344659}
+{"sent": "zebra smaller nose", "ann_id": 588628, "best_split": [1, 2], "split_score": 0.3213319302344659}

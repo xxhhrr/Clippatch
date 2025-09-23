@@ -1,0 +1,6 @@
+{"sent": "person not facing the camera", "ann_id": 517921, "best_split": [2, 1], "split_score": 0.21071044132768063}
+{"sent": "man in all black", "ann_id": 517921, "best_split": [1, 5], "split_score": 0.6623959000110189}
+{"sent": "man with leather jacket", "ann_id": 517921, "best_split": [1, 5], "split_score": 0.6623959000110189}
+{"sent": "woman", "ann_id": 512841, "best_split": [1, 2], "split_score": 0.7223445239121651}
+{"sent": "face", "ann_id": 512841, "best_split": [1, 2], "split_score": 0.7223445239121651}
+{"sent": "person with umbrella", "ann_id": 512841, "best_split": [1, 2], "split_score": 0.7223445239121651}

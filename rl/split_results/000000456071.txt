@@ -1,0 +1,9 @@
+{"sent": "monitor closest to window", "ann_id": 124553, "best_split": [3, 3], "split_score": 0.8067035468911969}
+{"sent": "screen closest to window", "ann_id": 124553, "best_split": [3, 3], "split_score": 0.8067035468911969}
+{"sent": "most white screen", "ann_id": 124553, "best_split": [3, 2], "split_score": 0.6790540539721218}
+{"sent": "the monitor above the little figures", "ann_id": 35887, "best_split": [3, 3], "split_score": 0.7017896273371458}
+{"sent": "smallest monitor thats on", "ann_id": 35887, "best_split": [3, 3], "split_score": 0.7017896273371458}
+{"sent": "facing the chair", "ann_id": 35887, "best_split": [1, 3], "split_score": 0.23184121620222964}
+{"sent": "monitor number one", "ann_id": 34613, "best_split": [3, 1], "split_score": 0.3411371237254457}
+{"sent": "blue on upper screen", "ann_id": 34613, "best_split": [3, 2], "split_score": 0.6754966886618381}
+{"sent": "monitor 9 o clock", "ann_id": 34613, "best_split": [3, 1], "split_score": 0.3411371237254457}

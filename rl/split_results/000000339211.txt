@@ -1,0 +1,6 @@
+{"sent": "guy with hair", "ann_id": 462753, "best_split": [3, 2], "split_score": 0.5380844194023574}
+{"sent": "guy with gray hair and polka dot tie", "ann_id": 462753, "best_split": [3, 2], "split_score": 0.5380844194023574}
+{"sent": "poka dot tie", "ann_id": 462753, "best_split": [3, 2], "split_score": 0.5380844194023574}
+{"sent": "man with hands up", "ann_id": 1742368, "best_split": [3, 3], "split_score": 0.28685162843343165}
+{"sent": "bald man", "ann_id": 1742368, "best_split": [5, 1], "split_score": 0.34645669288238573}
+{"sent": "bald guy clapping", "ann_id": 1742368, "best_split": [3, 2], "split_score": 0.5555042694950952}

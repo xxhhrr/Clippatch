@@ -1,0 +1,6 @@
+{"sent": "butt of elephant", "ann_id": 1409237, "best_split": [2, 2], "split_score": 0.4754144422256663}
+{"sent": "butt", "ann_id": 1409237, "best_split": [3, 2], "split_score": 0.45837687213006123}
+{"sent": "fartherest elephant back", "ann_id": 1409237, "best_split": [2, 2], "split_score": 0.4754144422256663}
+{"sent": "closest elephant", "ann_id": 580680, "best_split": [1, 2], "split_score": 0.41524885919388205}
+{"sent": "elephant", "ann_id": 580680, "best_split": [1, 2], "split_score": 0.41524885919388205}
+{"sent": "elephant closest to us", "ann_id": 580680, "best_split": [1, 2], "split_score": 0.41524885919388205}

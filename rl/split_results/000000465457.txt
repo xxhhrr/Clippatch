@@ -1,0 +1,6 @@
+{"sent": "cut banana in bowl", "ann_id": 1044573, "best_split": [5, 1], "split_score": 0.22241379308601772}
+{"sent": "banana slices", "ann_id": 1044573, "best_split": [5, 1], "split_score": 0.22241379308601772}
+{"sent": "sliced bananas in bowl", "ann_id": 1044573, "best_split": [5, 1], "split_score": 0.22241379308601772}
+{"sent": "banana bunch", "ann_id": 1044236, "best_split": [3, 3], "split_score": 0.5382827254775123}
+{"sent": "bananas", "ann_id": 1044236, "best_split": [3, 3], "split_score": 0.5382827254775123}
+{"sent": "bunch of bananas in corner", "ann_id": 1044236, "best_split": [3, 3], "split_score": 0.5382827254775123}

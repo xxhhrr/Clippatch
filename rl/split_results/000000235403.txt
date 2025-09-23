@@ -1,0 +1,6 @@
+{"sent": "food on plate", "ann_id": 1074981, "best_split": [2, 1], "split_score": 0.44005102039062294}
+{"sent": "in focus piece", "ann_id": 1074981, "best_split": [2, 3], "split_score": 0.5437699680076861}
+{"sent": "pizza at 12 o clock", "ann_id": 1074981, "best_split": [1, 2], "split_score": 0.16286854640907467}
+{"sent": "pizza in your face", "ann_id": 1072111, "best_split": [2, 1], "split_score": 0.813674339273191}
+{"sent": "closest glob of food", "ann_id": 1072111, "best_split": [3, 1], "split_score": 0.37844425929900816}
+{"sent": "blurry image", "ann_id": 1072111, "best_split": [2, 1], "split_score": 0.813674339273191}

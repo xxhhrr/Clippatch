@@ -1,0 +1,6 @@
+{"sent": "the table with nothing on it and no chairs", "ann_id": 1615538, "best_split": [3, 1], "split_score": 0.3938223937986352}
+{"sent": "nearest table", "ann_id": 1615538, "best_split": [3, 1], "split_score": 0.3938223937986352}
+{"sent": "nearest table mostly out of frame", "ann_id": 1615538, "best_split": [3, 1], "split_score": 0.3938223937986352}
+{"sent": "table", "ann_id": 391211, "best_split": [3, 2], "split_score": 0.5873015872460977}
+{"sent": "most visible table", "ann_id": 391211, "best_split": [3, 2], "split_score": 0.5873015872460977}
+{"sent": "closest glasstop table", "ann_id": 391211, "best_split": [3, 2], "split_score": 0.5873015872460977}

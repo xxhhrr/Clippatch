@@ -1,0 +1,6 @@
+{"sent": "brown chair facing us", "ann_id": 107348, "best_split": [3, 1], "split_score": 0.1684114701770362}
+{"sent": "chair near fireplace", "ann_id": 107348, "best_split": [3, 3], "split_score": 0.44061068695563194}
+{"sent": "chair near fireplace", "ann_id": 107348, "best_split": [3, 3], "split_score": 0.44061068695563194}
+{"sent": "chair facing tv", "ann_id": 102897, "best_split": [3, 2], "split_score": 0.4401268833822237}
+{"sent": "chair between window and legs", "ann_id": 102897, "best_split": [1, 5], "split_score": 0.3972222221877411}
+{"sent": "chair", "ann_id": 102897, "best_split": [3, 3], "split_score": 0.6102253984867749}

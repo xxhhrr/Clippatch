@@ -1,0 +1,15 @@
+{"sent": "red bike at the end of the line", "ann_id": 152714, "best_split": [2, 3], "split_score": 0.3485848052406273}
+{"sent": "red bike not maroon", "ann_id": 152714, "best_split": [2, 3], "split_score": 0.3485848052406273}
+{"sent": "the bright red bike", "ann_id": 152714, "best_split": [2, 3], "split_score": 0.3485848052406273}
+{"sent": "cut off motercycle", "ann_id": 152503, "best_split": [2, 2], "split_score": 0.37288457879363096}
+{"sent": "cycle with headlight showing", "ann_id": 152503, "best_split": [3, 1], "split_score": 0.18015617821864235}
+{"sent": "motorbike cut mostly out of frame", "ann_id": 152503, "best_split": [2, 1], "split_score": 0.2077257158925276}
+{"sent": "car in between the red motorcycles", "ann_id": 151502, "best_split": [2, 3], "split_score": 0.38040345817899823}
+{"sent": "yellow bike between red and maroon", "ann_id": 151502, "best_split": [2, 2], "split_score": 0.3282691264020436}
+{"sent": "yellow bike between red bikes", "ann_id": 151502, "best_split": [2, 3], "split_score": 0.38040345817899823}
+{"sent": "marroon bike", "ann_id": 151302, "best_split": [1, 3], "split_score": 0.4880095923052411}
+{"sent": "bike with maroon gas tank", "ann_id": 151302, "best_split": [1, 3], "split_score": 0.4880095923052411}
+{"sent": "red in between yellows", "ann_id": 151302, "best_split": [1, 3], "split_score": 0.4880095923052411}
+{"sent": "yellow bike biggest", "ann_id": 148401, "best_split": [1, 2], "split_score": 0.4917631186362365}
+{"sent": "yellow bike man in white behind", "ann_id": 148401, "best_split": [1, 2], "split_score": 0.4917631186362365}
+{"sent": "yellow motercycle closest to camera", "ann_id": 148401, "best_split": [1, 2], "split_score": 0.4917631186362365}

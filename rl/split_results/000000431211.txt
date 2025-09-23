@@ -1,0 +1,5 @@
+{"sent": "the bear thats eating", "ann_id": 587824, "best_split": [2, 1], "split_score": 0.355691056899273}
+{"sent": "eating bear", "ann_id": 587824, "best_split": [2, 1], "split_score": 0.355691056899273}
+{"sent": "bear laying down", "ann_id": 587102, "best_split": [1, 2], "split_score": 0.504995766289056}
+{"sent": "bear is looking at the camera", "ann_id": 587102, "best_split": [1, 2], "split_score": 0.504995766289056}
+{"sent": "not eating bear", "ann_id": 587102, "best_split": [1, 2], "split_score": 0.504995766289056}

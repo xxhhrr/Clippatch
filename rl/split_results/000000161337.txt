@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 516969, "best_split": [3, 2], "split_score": 0.25631142799611567}
+{"sent": "woman walking away", "ann_id": 516969, "best_split": [1, 5], "split_score": 0.48193993501603694}
+{"sent": "woman in white shirt", "ann_id": 516969, "best_split": [1, 2], "split_score": 0.18933354591082058}
+{"sent": "girl holding umbrella", "ann_id": 482406, "best_split": [2, 3], "split_score": 0.5775401068967208}
+{"sent": "the girl", "ann_id": 482406, "best_split": [2, 3], "split_score": 0.5775401068967208}
+{"sent": "little girl", "ann_id": 482406, "best_split": [2, 3], "split_score": 0.5775401068967208}

@@ -1,0 +1,9 @@
+{"sent": "slice nearest you", "ann_id": 1077304, "best_split": [2, 1], "split_score": 0.39700255100458376}
+{"sent": "closest slice", "ann_id": 1077304, "best_split": [1, 3], "split_score": 0.23102616439826376}
+{"sent": "single slice", "ann_id": 1077304, "best_split": [2, 1], "split_score": 0.39700255100458376}
+{"sent": "slice of pizza at 11 o cloch", "ann_id": 1077294, "best_split": [5, 1], "split_score": 0.27134587551814887}
+{"sent": "pizza slice that is across from single slice", "ann_id": 1076824, "best_split": [3, 2], "split_score": 0.38661541935489313}
+{"sent": "the center slice", "ann_id": 1076824, "best_split": [3, 2], "split_score": 0.38661541935489313}
+{"sent": "piece of pizza above tip of knife", "ann_id": 1076032, "best_split": [3, 3], "split_score": 0.6963613549723398}
+{"sent": "the slice of pizza next to knife", "ann_id": 1076032, "best_split": [3, 3], "split_score": 0.6963613549723398}
+{"sent": "piece of pizza between striped shirt and knife", "ann_id": 1076032, "best_split": [3, 3], "split_score": 0.6963613549723398}

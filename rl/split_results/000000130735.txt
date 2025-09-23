@@ -1,0 +1,6 @@
+{"sent": "red helmet gray shirt", "ann_id": 1261065, "best_split": [2, 2], "split_score": 0.35985331629784334}
+{"sent": "catcher", "ann_id": 1261065, "best_split": [5, 1], "split_score": 0.292963829377995}
+{"sent": "catcher and you were correct last time", "ann_id": 1261065, "best_split": [3, 2], "split_score": 0.5309734512639352}
+{"sent": "battttttttttterrrrrrrrr", "ann_id": 1211430, "best_split": [2, 3], "split_score": 0.6614969655359073}
+{"sent": "man batting", "ann_id": 1211430, "best_split": [2, 3], "split_score": 0.6614969655359073}
+{"sent": "batter", "ann_id": 1211430, "best_split": [2, 3], "split_score": 0.6614969655359073}

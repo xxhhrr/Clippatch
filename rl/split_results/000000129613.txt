@@ -1,0 +1,9 @@
+{"sent": "the sliver of brown pants the hot dog package is on", "ann_id": 2015364, "best_split": [3, 1], "split_score": 0.372466216193746}
+{"sent": "arm holding hotdog", "ann_id": 2015364, "best_split": [2, 1], "split_score": 0.24609374999019076}
+{"sent": "leg brown pants", "ann_id": 2015364, "best_split": [3, 1], "split_score": 0.372466216193746}
+{"sent": "jersey behind hot dog right", "ann_id": 1271193, "best_split": [1, 2], "split_score": 0.2948820152943685}
+{"sent": "wearing a jersey and hat can see a bit of name and number", "ann_id": 1271193, "best_split": [2, 3], "split_score": 0.6001224114454634}
+{"sent": "man barely visible in numbered jersey", "ann_id": 1271193, "best_split": [2, 3], "split_score": 0.6001224114454634}
+{"sent": "head at 9 o clock", "ann_id": 1209736, "best_split": [2, 1], "split_score": 0.006893869758647604}
+{"sent": "fan on side you cant only see part of jacket", "ann_id": 1209736, "best_split": [1, 5], "split_score": 0.34425730515987646}
+{"sent": "cut off shadow at 10 o clock", "ann_id": 1209736, "best_split": [2, 1], "split_score": 0.1264881540906345}

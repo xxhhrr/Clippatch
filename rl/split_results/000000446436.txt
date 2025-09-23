@@ -1,0 +1,6 @@
+{"sent": "the ox in background most blocked by ox in foreground", "ann_id": 278830, "best_split": [2, 2], "split_score": 0.5121731289120074}
+{"sent": "ox that is hard to see", "ann_id": 278830, "best_split": [2, 2], "split_score": 0.5121731289120074}
+{"sent": "bull in background", "ann_id": 278830, "best_split": [2, 2], "split_score": 0.5121731289120074}
+{"sent": "nearest cow", "ann_id": 71085, "best_split": [1, 2], "split_score": 0.5135366689403372}
+{"sent": "ox", "ann_id": 71085, "best_split": [1, 2], "split_score": 0.5135366689403372}
+{"sent": "cow closest to us", "ann_id": 71085, "best_split": [1, 2], "split_score": 0.5135366689403372}

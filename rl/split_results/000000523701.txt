@@ -1,0 +1,10 @@
+{"sent": "boat at 7 o clock", "ann_id": 178023, "best_split": [1, 5], "split_score": 0.35199999996799997}
+{"sent": "boat with checkered towel", "ann_id": 1378103, "best_split": [2, 2], "split_score": 0.2257653061044511}
+{"sent": "boat almost out of view docked", "ann_id": 1378103, "best_split": [2, 1], "split_score": 0.11288265305672503}
+{"sent": "gray boat", "ann_id": 1376240, "best_split": [3, 2], "split_score": 0.30741833720286776}
+{"sent": "boat by itself in water", "ann_id": 1376240, "best_split": [3, 2], "split_score": 0.30741833720286776}
+{"sent": "boat with hats", "ann_id": 177387, "best_split": [1, 5], "split_score": 0.3522012578299909}
+{"sent": "boat docked with hats", "ann_id": 177387, "best_split": [1, 5], "split_score": 0.3522012578299909}
+{"sent": "boat with person in green and another in blue", "ann_id": 176131, "best_split": [2, 3], "split_score": 0.3153409090629136}
+{"sent": "boat with 2 people", "ann_id": 176131, "best_split": [2, 2], "split_score": 0.5204081632238194}
+{"sent": "closest boat", "ann_id": 176131, "best_split": [1, 2], "split_score": 0.2602040816222814}

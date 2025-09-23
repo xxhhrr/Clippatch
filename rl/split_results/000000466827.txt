@@ -1,0 +1,6 @@
+{"sent": "bent over giraffe", "ann_id": 597846, "best_split": [1, 2], "split_score": 0.2536670918266236}
+{"sent": "small giraffe", "ann_id": 597846, "best_split": [1, 2], "split_score": 0.2536670918266236}
+{"sent": "rear giraffe", "ann_id": 597846, "best_split": [3, 1], "split_score": 0.2421485813167561}
+{"sent": "taller giraffe", "ann_id": 594777, "best_split": [1, 2], "split_score": 0.40940930474622556}
+{"sent": "taller giraffe", "ann_id": 594777, "best_split": [1, 2], "split_score": 0.40940930474622556}
+{"sent": "bigger one", "ann_id": 594777, "best_split": [1, 3], "split_score": 0.4085607940319925}

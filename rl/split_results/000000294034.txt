@@ -1,0 +1,8 @@
+{"sent": "black shirt man rowing", "ann_id": 207252, "best_split": [1, 5], "split_score": 0.28124999997146405}
+{"sent": "person with glasses", "ann_id": 207252, "best_split": [3, 3], "split_score": 0.33549222792495265}
+{"sent": "man no shirt", "ann_id": 199639, "best_split": [3, 3], "split_score": 0.44311377238337696}
+{"sent": "shirtless paddler", "ann_id": 199639, "best_split": [3, 3], "split_score": 0.44311377238337696}
+{"sent": "one with shirt off", "ann_id": 199639, "best_split": [3, 3], "split_score": 0.44311377238337696}
+{"sent": "man wearing a blue shirt", "ann_id": 199167, "best_split": [1, 5], "split_score": 0.3337693888680836}
+{"sent": "blue shirt", "ann_id": 199167, "best_split": [1, 5], "split_score": 0.3337693888680836}
+{"sent": "blue shirt", "ann_id": 199167, "best_split": [1, 5], "split_score": 0.3337693888680836}

@@ -1,0 +1,9 @@
+{"sent": "black and white", "ann_id": 1408391, "best_split": [3, 1], "split_score": 0.36912213929745497}
+{"sent": "black and white", "ann_id": 1408391, "best_split": [3, 1], "split_score": 0.36912213929745497}
+{"sent": "black and white cow", "ann_id": 1408391, "best_split": [3, 2], "split_score": 0.5798988307007298}
+{"sent": "furthest cow all brown", "ann_id": 73216, "best_split": [2, 3], "split_score": 0.5149444918323074}
+{"sent": "black cow", "ann_id": 73216, "best_split": [3, 3], "split_score": 0.3939245467425374}
+{"sent": "black calf eating", "ann_id": 73216, "best_split": [2, 3], "split_score": 0.5149444918323074}
+{"sent": "mad cow", "ann_id": 70246, "best_split": [1, 2], "split_score": 0.6278280542764484}
+{"sent": "brown cow", "ann_id": 70246, "best_split": [1, 2], "split_score": 0.6278280542764484}
+{"sent": "light brown cow", "ann_id": 70246, "best_split": [1, 2], "split_score": 0.6278280542764484}

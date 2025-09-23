@@ -1,0 +1,6 @@
+{"sent": "bear hidden behind the log all good", "ann_id": 587337, "best_split": [5, 1], "split_score": 0.3392993145145374}
+{"sent": "back bear", "ann_id": 587337, "best_split": [2, 1], "split_score": 0.16788903060555288}
+{"sent": "half hidden bear", "ann_id": 587337, "best_split": [2, 1], "split_score": 0.16788903060555288}
+{"sent": "biggest bear", "ann_id": 586994, "best_split": [1, 2], "split_score": 0.588418544966523}
+{"sent": "bear sitting up", "ann_id": 586994, "best_split": [1, 2], "split_score": 0.588418544966523}
+{"sent": "main polar bear", "ann_id": 586994, "best_split": [1, 2], "split_score": 0.588418544966523}

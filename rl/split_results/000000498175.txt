@@ -1,0 +1,7 @@
+{"sent": "kid wearing red goggles", "ann_id": 459078, "best_split": [1, 3], "split_score": 0.45228040537812014}
+{"sent": "red ski mask", "ann_id": 459078, "best_split": [3, 1], "split_score": 0.17733652857742765}
+{"sent": "boy with redgoggles", "ann_id": 459078, "best_split": [1, 5], "split_score": 0.54482328847638}
+{"sent": "skiier with red goggles on", "ann_id": 459078, "best_split": [1, 5], "split_score": 0.54482328847638}
+{"sent": "woman in red", "ann_id": 459039, "best_split": [1, 5], "split_score": 0.5855139769058217}
+{"sent": "tall skier in red", "ann_id": 459039, "best_split": [1, 5], "split_score": 0.5855139769058217}
+{"sent": "red suit", "ann_id": 459039, "best_split": [1, 5], "split_score": 0.5855139769058217}

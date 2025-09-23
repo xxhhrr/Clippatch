@@ -1,0 +1,5 @@
+{"sent": "animal near woman not with hand on", "ann_id": 2177130, "best_split": [2, 3], "split_score": 0.525392616711667}
+{"sent": "cow not being milked but close", "ann_id": 2177130, "best_split": [2, 3], "split_score": 0.525392616711667}
+{"sent": "cow being milked", "ann_id": 70148, "best_split": [1, 5], "split_score": 0.6260671598871609}
+{"sent": "cow woman is touching", "ann_id": 70148, "best_split": [1, 5], "split_score": 0.6260671598871609}
+{"sent": "the cow she is milking", "ann_id": 70148, "best_split": [1, 5], "split_score": 0.6260671598871609}

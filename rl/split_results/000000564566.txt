@@ -1,0 +1,6 @@
+{"sent": "suit", "ann_id": 494521, "best_split": [1, 3], "split_score": 0.6128286014399144}
+{"sent": "suit man", "ann_id": 494521, "best_split": [1, 3], "split_score": 0.6128286014399144}
+{"sent": "man handing over the plaque", "ann_id": 494521, "best_split": [1, 3], "split_score": 0.6128286014399144}
+{"sent": "man with stripe shirt", "ann_id": 462402, "best_split": [1, 5], "split_score": 0.5782051281587977}
+{"sent": "striped shirt", "ann_id": 462402, "best_split": [1, 5], "split_score": 0.5782051281587977}
+{"sent": "stripe shirt guy", "ann_id": 462402, "best_split": [1, 5], "split_score": 0.5782051281587977}

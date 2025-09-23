@@ -1,0 +1,9 @@
+{"sent": "the person holding the baby", "ann_id": 515886, "best_split": [2, 2], "split_score": 0.4453386157951381}
+{"sent": "mom", "ann_id": 515886, "best_split": [1, 2], "split_score": 0.3670018281395871}
+{"sent": "woman with plaid shirt", "ann_id": 515886, "best_split": [2, 2], "split_score": 0.4453386157951381}
+{"sent": "child", "ann_id": 476831, "best_split": [2, 3], "split_score": 0.639155470172846}
+{"sent": "yellow", "ann_id": 476831, "best_split": [2, 3], "split_score": 0.639155470172846}
+{"sent": "yellow shirt", "ann_id": 476831, "best_split": [2, 3], "split_score": 0.639155470172846}
+{"sent": "man", "ann_id": 421286, "best_split": [2, 2], "split_score": 0.6037260825400474}
+{"sent": "guy", "ann_id": 421286, "best_split": [2, 2], "split_score": 0.6037260825400474}
+{"sent": "man", "ann_id": 421286, "best_split": [2, 2], "split_score": 0.6037260825400474}

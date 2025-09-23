@@ -1,0 +1,6 @@
+{"sent": "blue", "ann_id": 1730006, "best_split": [1, 5], "split_score": 0.6363108085143357}
+{"sent": "blue shirt", "ann_id": 1730006, "best_split": [1, 5], "split_score": 0.6363108085143357}
+{"sent": "blue guy", "ann_id": 1730006, "best_split": [1, 5], "split_score": 0.6363108085143357}
+{"sent": "no shirt", "ann_id": 206576, "best_split": [1, 5], "split_score": 0.8279845955595099}
+{"sent": "no shirt person", "ann_id": 206576, "best_split": [1, 5], "split_score": 0.8279845955595099}
+{"sent": "man without a shirt", "ann_id": 206576, "best_split": [1, 5], "split_score": 0.8279845955595099}

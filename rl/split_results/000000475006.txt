@@ -1,0 +1,9 @@
+{"sent": "pizza being touched by glove", "ann_id": 1077452, "best_split": [3, 3], "split_score": 0.07354657949176435}
+{"sent": "piece that is being touched by hand", "ann_id": 1077452, "best_split": [3, 1], "split_score": 0.16536518143285683}
+{"sent": "the one being touched", "ann_id": 1077452, "best_split": [3, 1], "split_score": 0.16536518143285683}
+{"sent": "smaller food not being touched", "ann_id": 1077153, "best_split": [3, 3], "split_score": 0.27551844865667674}
+{"sent": "closer pizza halfway under the cooker", "ann_id": 1077153, "best_split": [3, 3], "split_score": 0.27551844865667674}
+{"sent": "middle pizza", "ann_id": 1077153, "best_split": [3, 3], "split_score": 0.27551844865667674}
+{"sent": "pzza below persons hand", "ann_id": 1076494, "best_split": [1, 2], "split_score": 0.2870739944624242}
+{"sent": "pineapples on pizza", "ann_id": 1076494, "best_split": [3, 2], "split_score": 0.4928195521815342}
+{"sent": "full pizza", "ann_id": 1076494, "best_split": [3, 1], "split_score": 0.33219761497379696}

@@ -1,0 +1,5 @@
+{"sent": "boat behind skater", "ann_id": 1377631, "best_split": [1, 2], "split_score": 0.4713602967233269}
+{"sent": "boat behind guy", "ann_id": 1377631, "best_split": [2, 2], "split_score": 0.7759495236436997}
+{"sent": "darker ship with man in blue shirt", "ann_id": 1375840, "best_split": [2, 1], "split_score": 0.3647959183528063}
+{"sent": "darker boat in background", "ann_id": 1375840, "best_split": [2, 3], "split_score": 0.7898193759452156}
+{"sent": "darker boat", "ann_id": 1375840, "best_split": [2, 1], "split_score": 0.3647959183528063}

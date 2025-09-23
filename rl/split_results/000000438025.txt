@@ -1,0 +1,6 @@
+{"sent": "closest truck", "ann_id": 400458, "best_split": [3, 2], "split_score": 0.6695933455788362}
+{"sent": "blue truck", "ann_id": 400458, "best_split": [3, 2], "split_score": 0.6695933455788362}
+{"sent": "black truck", "ann_id": 398025, "best_split": [3, 1], "split_score": 0.260617760602038}
+{"sent": "black truck", "ann_id": 398025, "best_split": [3, 1], "split_score": 0.260617760602038}
+{"sent": "white truck", "ann_id": 396767, "best_split": [3, 3], "split_score": 0.5905481056385173}
+{"sent": "white semi truck", "ann_id": 396767, "best_split": [3, 3], "split_score": 0.5905481056385173}

@@ -1,0 +1,5 @@
+{"sent": "person next to the woman", "ann_id": 2164263, "best_split": [1, 2], "split_score": 0.20507812499182565}
+{"sent": "person in white at the edge", "ann_id": 2164263, "best_split": [3, 2], "split_score": 0.2309172546292571}
+{"sent": "gray hair", "ann_id": 184896, "best_split": [2, 1], "split_score": 0.5628130635002301}
+{"sent": "woman", "ann_id": 184896, "best_split": [2, 1], "split_score": 0.5628130635002301}
+{"sent": "woman in red", "ann_id": 184896, "best_split": [2, 1], "split_score": 0.5628130635002301}

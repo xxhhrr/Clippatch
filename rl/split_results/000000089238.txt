@@ -1,0 +1,6 @@
+{"sent": "monitor you see clearly", "ann_id": 1103940, "best_split": [3, 1], "split_score": 0.3171428571266764}
+{"sent": "silver computer", "ann_id": 1103940, "best_split": [3, 3], "split_score": 0.48556430441292503}
+{"sent": "laptob with white mouse", "ann_id": 1103940, "best_split": [3, 2], "split_score": 0.5495049504464723}
+{"sent": "laptop next to water bottle", "ann_id": 1101114, "best_split": [3, 2], "split_score": 0.5321725964674325}
+{"sent": "laptop near water bottle", "ann_id": 1101114, "best_split": [3, 2], "split_score": 0.5321725964674325}
+{"sent": "computer with white screen", "ann_id": 1101114, "best_split": [3, 2], "split_score": 0.5321725964674325}

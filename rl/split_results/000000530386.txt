@@ -1,0 +1,4 @@
+{"sent": "corner of table", "ann_id": 1963325, "best_split": [2, 1], "split_score": 0.22344013490052275}
+{"sent": "table corner", "ann_id": 1963325, "best_split": [2, 1], "split_score": 0.22344013490052275}
+{"sent": "edge of table by us", "ann_id": 1958253, "best_split": [1, 2], "split_score": 0.20269265098918876}
+{"sent": "table near edge by box", "ann_id": 1958253, "best_split": [5, 1], "split_score": 0.5948163340858832}

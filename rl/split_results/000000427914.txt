@@ -1,0 +1,6 @@
+{"sent": "black animal with white spots", "ann_id": 2177301, "best_split": [3, 2], "split_score": 0.5083969465094441}
+{"sent": "cows but", "ann_id": 2177301, "best_split": [3, 2], "split_score": 0.5083969465094441}
+{"sent": "full animal", "ann_id": 2177301, "best_split": [3, 2], "split_score": 0.5083969465094441}
+{"sent": "animal facing sideways", "ann_id": 72970, "best_split": [3, 3], "split_score": 0.45809212176464986}
+{"sent": "second cow", "ann_id": 72970, "best_split": [3, 3], "split_score": 0.45809212176464986}
+{"sent": "one with tail sticking out", "ann_id": 72970, "best_split": [3, 3], "split_score": 0.45809212176464986}

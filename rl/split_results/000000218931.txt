@@ -1,0 +1,6 @@
+{"sent": "short woman next to man", "ann_id": 492593, "best_split": [2, 3], "split_score": 0.5090163933904697}
+{"sent": "woman with curly hair and glasses", "ann_id": 492593, "best_split": [1, 3], "split_score": 0.3885135134900752}
+{"sent": "woman with controller", "ann_id": 492593, "best_split": [2, 3], "split_score": 0.5090163933904697}
+{"sent": "man", "ann_id": 440160, "best_split": [1, 5], "split_score": 0.5840607210072049}
+{"sent": "tall guy", "ann_id": 440160, "best_split": [1, 5], "split_score": 0.5840607210072049}
+{"sent": "man black", "ann_id": 440160, "best_split": [1, 5], "split_score": 0.5840607210072049}

@@ -1,0 +1,4 @@
+{"sent": "something white on the ground", "ann_id": 249376, "best_split": [3, 3], "split_score": 0.5365853657601767}
+{"sent": "white boat turned over", "ann_id": 249376, "best_split": [2, 3], "split_score": 0.3601496725490938}
+{"sent": "white thing closest to us", "ann_id": 249376, "best_split": [2, 3], "split_score": 0.3601496725490938}
+{"sent": "white boat on trailer", "ann_id": 177119, "best_split": [3, 3], "split_score": 0.3520318724538594}

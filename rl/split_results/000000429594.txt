@@ -1,0 +1,6 @@
+{"sent": "horse by fense", "ann_id": 55830, "best_split": [1, 5], "split_score": 0.4754843811313281}
+{"sent": "horse with white spot", "ann_id": 55830, "best_split": [1, 5], "split_score": 0.4754843811313281}
+{"sent": "horse near picket fence", "ann_id": 55830, "best_split": [1, 5], "split_score": 0.4754843811313281}
+{"sent": "taller horse", "ann_id": 53563, "best_split": [1, 3], "split_score": 0.23936802089336137}
+{"sent": "horse by house", "ann_id": 53563, "best_split": [1, 3], "split_score": 0.23936802089336137}
+{"sent": "tallest horse", "ann_id": 53563, "best_split": [3, 3], "split_score": 0.3070128479246503}

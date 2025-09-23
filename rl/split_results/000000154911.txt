@@ -1,0 +1,14 @@
+{"sent": "a woman", "ann_id": 549810, "best_split": [3, 3], "split_score": 0.3862345472124566}
+{"sent": "blond woman", "ann_id": 549810, "best_split": [3, 3], "split_score": 0.3862345472124566}
+{"sent": "woman in orange shirt", "ann_id": 549810, "best_split": [3, 3], "split_score": 0.3862345472124566}
+{"sent": "guy standing with folded arms", "ann_id": 547068, "best_split": [2, 1], "split_score": 0.14154953850325344}
+{"sent": "man standing arms folded", "ann_id": 547068, "best_split": [2, 3], "split_score": 0.39694984422758567}
+{"sent": "bald guy", "ann_id": 464414, "best_split": [3, 1], "split_score": 0.14751552794357345}
+{"sent": "black shirt", "ann_id": 464414, "best_split": [2, 2], "split_score": 0.6816007652517856}
+{"sent": "black shirt creepy looking", "ann_id": 464414, "best_split": [2, 2], "split_score": 0.6816007652517856}
+{"sent": "standing hands together", "ann_id": 1707585, "best_split": [1, 5], "split_score": 0.41517241375219976}
+{"sent": "man in blue shirt standing by white wall", "ann_id": 1707585, "best_split": [1, 5], "split_score": 0.41517241375219976}
+{"sent": "guy in far back blue shirt no head", "ann_id": 1707585, "best_split": [1, 5], "split_score": 0.41517241375219976}
+{"sent": "checkered shirt", "ann_id": 432418, "best_split": [3, 3], "split_score": 0.5230728892864351}
+{"sent": "flannel shirt", "ann_id": 432418, "best_split": [3, 3], "split_score": 0.5230728892864351}
+{"sent": "man with beard", "ann_id": 432418, "best_split": [3, 3], "split_score": 0.5230728892864351}

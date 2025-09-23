@@ -1,0 +1,11 @@
+{"sent": "girl with striped pink pants", "ann_id": 1223056, "best_split": [2, 3], "split_score": 0.4386091621503705}
+{"sent": "girl with pink pants", "ann_id": 1223056, "best_split": [2, 3], "split_score": 0.4386091621503705}
+{"sent": "baby with pink striped pants", "ann_id": 1223056, "best_split": [2, 3], "split_score": 0.4386091621503705}
+{"sent": "mad looking girl", "ann_id": 1690382, "best_split": [2, 1], "split_score": 0.19163580592557378}
+{"sent": "older girl", "ann_id": 1690382, "best_split": [3, 2], "split_score": 0.2847512586155174}
+{"sent": "girl with bear bear has a red shirt on", "ann_id": 1690382, "best_split": [2, 2], "split_score": 0.361054337841916}
+{"sent": "person leaning over in a black jacket", "ann_id": 1688819, "best_split": [1, 2], "split_score": 0.3583386479449004}
+{"sent": "person with black coat and gray pants", "ann_id": 1688819, "best_split": [2, 2], "split_score": 0.2702925908287935}
+{"sent": "back of man in black", "ann_id": 1688819, "best_split": [1, 5], "split_score": 0.5671046066383582}
+{"sent": "red jacket holding a child", "ann_id": 1235138, "best_split": [1, 2], "split_score": 0.4000318877391569}
+{"sent": "person in red jacket", "ann_id": 1235138, "best_split": [2, 3], "split_score": 0.46591999996272637}

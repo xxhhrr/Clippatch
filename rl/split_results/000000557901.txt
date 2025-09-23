@@ -1,0 +1,6 @@
+{"sent": "a giraffe facing the picture taker", "ann_id": 596608, "best_split": [1, 2], "split_score": 0.6581632652798882}
+{"sent": "giraffe looking this way", "ann_id": 596608, "best_split": [1, 2], "split_score": 0.6581632652798882}
+{"sent": "facing camera", "ann_id": 596608, "best_split": [1, 2], "split_score": 0.6581632652798882}
+{"sent": "giraffe looking away", "ann_id": 595687, "best_split": [2, 1], "split_score": 0.43919044089386833}
+{"sent": "side view giraffe", "ann_id": 595687, "best_split": [2, 1], "split_score": 0.43919044089386833}
+{"sent": "tallest giraffe", "ann_id": 595687, "best_split": [2, 1], "split_score": 0.43919044089386833}

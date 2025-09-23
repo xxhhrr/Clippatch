@@ -1,0 +1,9 @@
+{"sent": "bus that is to the moutain", "ann_id": 267967, "best_split": [3, 2], "split_score": 0.5522388059222285}
+{"sent": "bus behind the other one", "ann_id": 267967, "best_split": [3, 2], "split_score": 0.5522388059222285}
+{"sent": "furthest bus", "ann_id": 267967, "best_split": [3, 2], "split_score": 0.5522388059222285}
+{"sent": "bus behind horses tail", "ann_id": 247885, "best_split": [1, 3], "split_score": 0.4088952653987987}
+{"sent": "bus next to horse", "ann_id": 247885, "best_split": [1, 3], "split_score": 0.4088952653987987}
+{"sent": "bus beside horse", "ann_id": 247885, "best_split": [1, 3], "split_score": 0.4088952653987987}
+{"sent": "green white bus", "ann_id": 165120, "best_split": [3, 3], "split_score": 0.6519047618271542}
+{"sent": "green and white bus", "ann_id": 165120, "best_split": [3, 3], "split_score": 0.6519047618271542}
+{"sent": "bus with green", "ann_id": 165120, "best_split": [3, 3], "split_score": 0.6519047618271542}

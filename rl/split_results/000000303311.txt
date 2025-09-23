@@ -1,0 +1,9 @@
+{"sent": "gray knit sweater", "ann_id": 1204341, "best_split": [1, 3], "split_score": 0.7207792207374316}
+{"sent": "brown hair and gray sweater girl", "ann_id": 1204341, "best_split": [1, 2], "split_score": 0.522321428550609}
+{"sent": "woman in sweater", "ann_id": 1204341, "best_split": [1, 2], "split_score": 0.522321428550609}
+{"sent": "woman in brown", "ann_id": 477227, "best_split": [1, 3], "split_score": 0.6091037902580526}
+{"sent": "tallest person", "ann_id": 477227, "best_split": [1, 3], "split_score": 0.6091037902580526}
+{"sent": "woman in tan", "ann_id": 477227, "best_split": [1, 3], "split_score": 0.6091037902580526}
+{"sent": "one in red", "ann_id": 472260, "best_split": [2, 2], "split_score": 0.5911775340128252}
+{"sent": "woman with red blouse", "ann_id": 472260, "best_split": [2, 2], "split_score": 0.5911775340128252}
+{"sent": "red shirt", "ann_id": 472260, "best_split": [1, 2], "split_score": 0.5524553571208365}

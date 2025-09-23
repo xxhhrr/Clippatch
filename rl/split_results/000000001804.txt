@@ -1,0 +1,6 @@
+{"sent": "woman feeding a cupcake to another person", "ann_id": 468429, "best_split": [1, 3], "split_score": 0.44353125542596095}
+{"sent": "girl without glasses", "ann_id": 468429, "best_split": [1, 3], "split_score": 0.44353125542596095}
+{"sent": "girl with lighter brown hair no glasses", "ann_id": 468429, "best_split": [1, 2], "split_score": 0.651014473575738}
+{"sent": "girl with glasses", "ann_id": 464557, "best_split": [1, 2], "split_score": 0.788380801059481}
+{"sent": "girl with glasses", "ann_id": 464557, "best_split": [1, 2], "split_score": 0.788380801059481}
+{"sent": "glasses", "ann_id": 464557, "best_split": [1, 2], "split_score": 0.788380801059481}

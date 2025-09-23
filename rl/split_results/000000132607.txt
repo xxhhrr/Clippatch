@@ -1,0 +1,6 @@
+{"sent": "cushion on chair", "ann_id": 1595552, "best_split": [2, 2], "split_score": 0.7044005101479273}
+{"sent": "chair cushion", "ann_id": 1595552, "best_split": [2, 2], "split_score": 0.7044005101479273}
+{"sent": "cushion behind womans back", "ann_id": 1595552, "best_split": [2, 2], "split_score": 0.7044005101479273}
+{"sent": "chair", "ann_id": 375044, "best_split": [2, 3], "split_score": 0.727229375211346}
+{"sent": "chair", "ann_id": 375044, "best_split": [2, 3], "split_score": 0.727229375211346}
+{"sent": "wooden brown chair", "ann_id": 375044, "best_split": [2, 3], "split_score": 0.727229375211346}

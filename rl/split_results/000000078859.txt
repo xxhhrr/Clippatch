@@ -1,0 +1,6 @@
+{"sent": "long gray hair", "ann_id": 480701, "best_split": [2, 3], "split_score": 0.6444256755979216}
+{"sent": "woman with blond hair facing away from us", "ann_id": 480701, "best_split": [2, 3], "split_score": 0.6444256755979216}
+{"sent": "woman back towards us", "ann_id": 480701, "best_split": [2, 3], "split_score": 0.6444256755979216}
+{"sent": "woman facing camera", "ann_id": 441364, "best_split": [3, 3], "split_score": 0.6507352940037228}
+{"sent": "black jacket", "ann_id": 441364, "best_split": [3, 3], "split_score": 0.6507352940037228}
+{"sent": "someone looking toward my dessert", "ann_id": 441364, "best_split": [1, 2], "split_score": 0.15756536989167869}

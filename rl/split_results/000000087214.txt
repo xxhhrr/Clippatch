@@ -1,0 +1,6 @@
+{"sent": "main man", "ann_id": 541905, "best_split": [1, 2], "split_score": 0.6415526652523231}
+{"sent": "a happy handicapped person", "ann_id": 541905, "best_split": [1, 2], "split_score": 0.6415526652523231}
+{"sent": "smile for the camera", "ann_id": 541905, "best_split": [1, 2], "split_score": 0.6415526652523231}
+{"sent": "person close facing away", "ann_id": 524467, "best_split": [1, 2], "split_score": 0.33577806121110576}
+{"sent": "the man not facing the camera", "ann_id": 524467, "best_split": [1, 2], "split_score": 0.33577806121110576}
+{"sent": "skier behind her facing the other way", "ann_id": 524467, "best_split": [3, 1], "split_score": 0.18192133130758692}

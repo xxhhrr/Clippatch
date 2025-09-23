@@ -1,0 +1,5 @@
+{"sent": "cup with dark liquid", "ann_id": 1510433, "best_split": [3, 2], "split_score": 0.5660418012749362}
+{"sent": "black cup", "ann_id": 1510433, "best_split": [3, 2], "split_score": 0.5660418012749362}
+{"sent": "black liquid", "ann_id": 1510433, "best_split": [3, 2], "split_score": 0.5660418012749362}
+{"sent": "clear glass", "ann_id": 670377, "best_split": [2, 3], "split_score": 0.8488372092141988}
+{"sent": "glass of water", "ann_id": 670377, "best_split": [2, 3], "split_score": 0.8488372092141988}

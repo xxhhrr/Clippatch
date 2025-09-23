@@ -1,0 +1,9 @@
+{"sent": "man lying on hiss back", "ann_id": 460771, "best_split": [3, 3], "split_score": 0.5258130298888255}
+{"sent": "black helmet red jacket", "ann_id": 460771, "best_split": [3, 1], "split_score": 0.34939502156871194}
+{"sent": "black helmet laying down", "ann_id": 460771, "best_split": [3, 3], "split_score": 0.5258130298888255}
+{"sent": "silver helmet", "ann_id": 441701, "best_split": [1, 2], "split_score": 0.6224674812525633}
+{"sent": "guy in silver helmet with red jacket", "ann_id": 441701, "best_split": [1, 2], "split_score": 0.6224674812525633}
+{"sent": "guy sitting down in very corner", "ann_id": 441701, "best_split": [1, 3], "split_score": 0.2088115512695738}
+{"sent": "standing bent", "ann_id": 423080, "best_split": [1, 3], "split_score": 0.5149365404580759}
+{"sent": "person standing wearing brown and red jacket", "ann_id": 423080, "best_split": [1, 3], "split_score": 0.5149365404580759}
+{"sent": "person bending", "ann_id": 423080, "best_split": [1, 2], "split_score": 0.42881058671760164}

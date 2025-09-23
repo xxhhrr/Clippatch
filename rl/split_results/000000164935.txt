@@ -1,0 +1,6 @@
+{"sent": "zebra closest to camera", "ann_id": 591320, "best_split": [3, 1], "split_score": 0.8102322383851214}
+{"sent": "zebra closest", "ann_id": 591320, "best_split": [3, 1], "split_score": 0.8102322383851214}
+{"sent": "closest zebra", "ann_id": 591320, "best_split": [3, 1], "split_score": 0.8102322383851214}
+{"sent": "zebra farthest", "ann_id": 591176, "best_split": [1, 2], "split_score": 0.40251090132726747}
+{"sent": "far zebra without birds", "ann_id": 591176, "best_split": [1, 2], "split_score": 0.40251090132726747}
+{"sent": "birds", "ann_id": 591176, "best_split": [3, 1], "split_score": 0.4922443622332584}

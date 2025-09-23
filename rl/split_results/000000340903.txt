@@ -1,0 +1,6 @@
+{"sent": "fully shown bus", "ann_id": 169157, "best_split": [3, 3], "split_score": 0.5204528852227076}
+{"sent": "rear bus", "ann_id": 169157, "best_split": [3, 3], "split_score": 0.5204528852227076}
+{"sent": "fully visible bus", "ann_id": 169157, "best_split": [3, 3], "split_score": 0.5204528852227076}
+{"sent": "closest bus", "ann_id": 168102, "best_split": [1, 2], "split_score": 0.8042953195115773}
+{"sent": "partial bus", "ann_id": 168102, "best_split": [1, 2], "split_score": 0.8042953195115773}
+{"sent": "bus partially visible", "ann_id": 168102, "best_split": [1, 2], "split_score": 0.8042953195115773}

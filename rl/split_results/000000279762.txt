@@ -1,0 +1,9 @@
+{"sent": "woman with glasses", "ann_id": 216680, "best_split": [3, 3], "split_score": 0.5507496493850987}
+{"sent": "woman", "ann_id": 216680, "best_split": [3, 1], "split_score": 0.5369811775737825}
+{"sent": "the girl wearing glasses", "ann_id": 216680, "best_split": [3, 3], "split_score": 0.5507496493850987}
+{"sent": "man standing", "ann_id": 209565, "best_split": [3, 2], "split_score": 0.5350389320972341}
+{"sent": "man standing", "ann_id": 209565, "best_split": [3, 2], "split_score": 0.5350389320972341}
+{"sent": "man standing", "ann_id": 209565, "best_split": [3, 2], "split_score": 0.5350389320972341}
+{"sent": "closest guy", "ann_id": 202186, "best_split": [1, 3], "split_score": 0.2772408963488361}
+{"sent": "sorry man seating", "ann_id": 202186, "best_split": [2, 1], "split_score": 0.7542696716542825}
+{"sent": "glasses man", "ann_id": 202186, "best_split": [2, 1], "split_score": 0.7542696716542825}

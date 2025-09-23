@@ -1,0 +1,8 @@
+{"sent": "the blue and yellow striped boat partially visible", "ann_id": 181977, "best_split": [3, 3], "split_score": 0.6197283773016925}
+{"sent": "bleu boat with yellow stripe", "ann_id": 181977, "best_split": [3, 3], "split_score": 0.6197283773016925}
+{"sent": "boat loaded with crates", "ann_id": 180697, "best_split": [5, 1], "split_score": 0.4673510122278763}
+{"sent": "the black boat with red rim and the shipping containers", "ann_id": 180697, "best_split": [5, 1], "split_score": 0.4673510122278763}
+{"sent": "black boat", "ann_id": 180697, "best_split": [5, 1], "split_score": 0.4673510122278763}
+{"sent": "blue boat", "ann_id": 179293, "best_split": [2, 2], "split_score": 0.5124413145138935}
+{"sent": "boat with blue and black", "ann_id": 179293, "best_split": [2, 2], "split_score": 0.5124413145138935}
+{"sent": "blue and black boat", "ann_id": 179293, "best_split": [2, 2], "split_score": 0.5124413145138935}

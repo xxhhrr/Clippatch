@@ -1,0 +1,17 @@
+{"sent": "round bun almost offscreen", "ann_id": 1555057, "best_split": [2, 1], "split_score": 0.11926020407687897}
+{"sent": "open face white chees and tomato", "ann_id": 1555057, "best_split": [5, 1], "split_score": 0.17741935482245055}
+{"sent": "part of sandwhich closest to fries main plate", "ann_id": 1554377, "best_split": [3, 3], "split_score": 0.5515536722190053}
+{"sent": "nearest sandwich half", "ann_id": 1554377, "best_split": [3, 2], "split_score": 0.3242009132049999}
+{"sent": "glass with light beer almost empty", "ann_id": 1509497, "best_split": [2, 1], "split_score": 0.12658227847600545}
+{"sent": "half empty beer glass", "ann_id": 1509497, "best_split": [2, 1], "split_score": 0.12658227847600545}
+{"sent": "glass of beer", "ann_id": 1509497, "best_split": [2, 1], "split_score": 0.12658227847600545}
+{"sent": "beer with some visible foam", "ann_id": 1503763, "best_split": [2, 3], "split_score": 0.37497092342696314}
+{"sent": "juiice at 3pm", "ann_id": 1503763, "best_split": [2, 3], "split_score": 0.37497092342696314}
+{"sent": "person wearing a blue shirt", "ann_id": 1727399, "best_split": [3, 3], "split_score": 0.5160668379633568}
+{"sent": "gray clothes", "ann_id": 1727399, "best_split": [3, 3], "split_score": 0.5160668379633568}
+{"sent": "person in gray shirt furthest back", "ann_id": 1727399, "best_split": [3, 3], "split_score": 0.5160668379633568}
+{"sent": "pair of hands", "ann_id": 449170, "best_split": [2, 3], "split_score": 0.2800612412813495}
+{"sent": "hands at nine o clock", "ann_id": 449170, "best_split": [2, 3], "split_score": 0.2800612412813495}
+{"sent": "sandwich half not touching fries", "ann_id": 309564, "best_split": [3, 2], "split_score": 0.2839694656178877}
+{"sent": "upper half of sandwich on the closest plate", "ann_id": 309564, "best_split": [3, 2], "split_score": 0.2839694656178877}
+{"sent": "sandwich half closest to salad", "ann_id": 309564, "best_split": [2, 3], "split_score": 0.40652251816909296}

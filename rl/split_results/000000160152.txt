@@ -1,0 +1,9 @@
+{"sent": "yellow shirt cropped", "ann_id": 1255982, "best_split": [1, 5], "split_score": 0.46638778086716726}
+{"sent": "yellow shirt guy", "ann_id": 1255982, "best_split": [1, 5], "split_score": 0.46638778086716726}
+{"sent": "yellow shirt tan slacks", "ann_id": 1255982, "best_split": [1, 5], "split_score": 0.46638778086716726}
+{"sent": "lite green shirt", "ann_id": 1241640, "best_split": [1, 5], "split_score": 0.61956155138115}
+{"sent": "man in green shirt", "ann_id": 1241640, "best_split": [1, 5], "split_score": 0.61956155138115}
+{"sent": "green shirt", "ann_id": 1241640, "best_split": [1, 5], "split_score": 0.61956155138115}
+{"sent": "woman", "ann_id": 1214840, "best_split": [1, 3], "split_score": 0.5857589095347948}
+{"sent": "tall hat", "ann_id": 1214840, "best_split": [1, 3], "split_score": 0.5857589095347948}
+{"sent": "lady", "ann_id": 1214840, "best_split": [1, 3], "split_score": 0.5857589095347948}

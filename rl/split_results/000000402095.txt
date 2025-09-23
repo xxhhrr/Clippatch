@@ -1,0 +1,9 @@
+{"sent": "man white shirt curly black hair", "ann_id": 1263481, "best_split": [3, 1], "split_score": 0.1561109209085866}
+{"sent": "black curley head", "ann_id": 1263481, "best_split": [3, 1], "split_score": 0.1561109209085866}
+{"sent": "head with brown and white shirt", "ann_id": 1263481, "best_split": [2, 1], "split_score": 0.14692283162679676}
+{"sent": "bald head in corner", "ann_id": 1252963, "best_split": [3, 3], "split_score": 0.5198555955740333}
+{"sent": "bald white head", "ann_id": 1252963, "best_split": [3, 1], "split_score": 0.17760617759546293}
+{"sent": "bald head", "ann_id": 1252963, "best_split": [3, 3], "split_score": 0.5198555955740333}
+{"sent": "hair", "ann_id": 1238579, "best_split": [1, 2], "split_score": 0.5482961143926637}
+{"sent": "person taking photo", "ann_id": 1238579, "best_split": [1, 3], "split_score": 0.39811625007703155}
+{"sent": "head", "ann_id": 1238579, "best_split": [1, 2], "split_score": 0.5482961143926637}

@@ -1,0 +1,9 @@
+{"sent": "small giraffe under the long neck", "ann_id": 598729, "best_split": [1, 2], "split_score": 0.457664484999736}
+{"sent": "giraffe partially covered", "ann_id": 598729, "best_split": [1, 2], "split_score": 0.457664484999736}
+{"sent": "hidden giraffe", "ann_id": 598729, "best_split": [1, 2], "split_score": 0.457664484999736}
+{"sent": "horizontal neck", "ann_id": 598421, "best_split": [3, 2], "split_score": 0.5988979450580991}
+{"sent": "giraffe head coming in from side", "ann_id": 598421, "best_split": [3, 2], "split_score": 0.5988979450580991}
+{"sent": "giraffe with horizontal neck", "ann_id": 598421, "best_split": [3, 2], "split_score": 0.5988979450580991}
+{"sent": "the one by its self", "ann_id": 597922, "best_split": [1, 2], "split_score": 0.3254145408033556}
+{"sent": "standing alone", "ann_id": 597922, "best_split": [1, 2], "split_score": 0.3254145408033556}
+{"sent": "head up", "ann_id": 597922, "best_split": [1, 3], "split_score": 0.49251930498959223}

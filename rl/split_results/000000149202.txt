@@ -1,0 +1,8 @@
+{"sent": "white cake with a bow and blue stripes", "ann_id": 1088748, "best_split": [3, 3], "split_score": 0.5814332246610043}
+{"sent": "bow and striped", "ann_id": 1088748, "best_split": [3, 2], "split_score": 0.47979201128813614}
+{"sent": "cake at 1200", "ann_id": 1088110, "best_split": [1, 5], "split_score": 0.23148064192297754}
+{"sent": "dessert with only polka dots", "ann_id": 1088110, "best_split": [1, 5], "split_score": 0.23148064192297754}
+{"sent": "colored dot", "ann_id": 1088110, "best_split": [2, 3], "split_score": 0.41424367269991247}
+{"sent": "bow tie and dots closest to us", "ann_id": 1085065, "best_split": [2, 3], "split_score": 0.5804020099894889}
+{"sent": "white cake with bowtie", "ann_id": 1085065, "best_split": [2, 3], "split_score": 0.5804020099894889}
+{"sent": "cake with swirls and bow", "ann_id": 1085065, "best_split": [2, 3], "split_score": 0.5804020099894889}

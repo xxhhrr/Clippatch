@@ -1,0 +1,5 @@
+{"sent": "egg", "ann_id": 2220216, "best_split": [2, 1], "split_score": 0.5624999999775789}
+{"sent": "a piece of bread with scrambled egg on it", "ann_id": 2220216, "best_split": [2, 1], "split_score": 0.5624999999775789}
+{"sent": "closest to us light brown thing very close", "ann_id": 2220011, "best_split": [3, 2], "split_score": 0.33041958038347685}
+{"sent": "closest sausage", "ann_id": 2220011, "best_split": [3, 3], "split_score": 0.38275251028016055}
+{"sent": "dog 600", "ann_id": 2220011, "best_split": [3, 3], "split_score": 0.38275251028016055}

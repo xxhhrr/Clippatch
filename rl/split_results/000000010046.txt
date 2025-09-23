@@ -1,0 +1,6 @@
+{"sent": "bigger hotdog", "ann_id": 2219898, "best_split": [5, 1], "split_score": 0.1678122295113379}
+{"sent": "bigger one", "ann_id": 2219898, "best_split": [3, 1], "split_score": 0.345904243233678}
+{"sent": "sandwich that is taller", "ann_id": 2219898, "best_split": [2, 1], "split_score": 0.16322798890186122}
+{"sent": "smaller dog", "ann_id": 765, "best_split": [2, 2], "split_score": 0.5270496374423418}
+{"sent": "smaller one", "ann_id": 765, "best_split": [2, 2], "split_score": 0.5270496374423418}
+{"sent": "the smaller sub", "ann_id": 765, "best_split": [2, 2], "split_score": 0.5270496374423418}

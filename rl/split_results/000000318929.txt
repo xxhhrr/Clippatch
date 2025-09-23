@@ -1,0 +1,9 @@
+{"sent": "glasses", "ann_id": 1721137, "best_split": [1, 2], "split_score": 0.43215880100318244}
+{"sent": "red hoodie", "ann_id": 1721137, "best_split": [1, 3], "split_score": 0.4914866996414357}
+{"sent": "red jacket", "ann_id": 1721137, "best_split": [3, 2], "split_score": 0.4321006138320032}
+{"sent": "sitting woman", "ann_id": 523587, "best_split": [1, 3], "split_score": 0.5280308338864733}
+{"sent": "woman", "ann_id": 523587, "best_split": [1, 3], "split_score": 0.5280308338864733}
+{"sent": "girl", "ann_id": 523587, "best_split": [1, 3], "split_score": 0.5280308338864733}
+{"sent": "the guy surrounded by friends", "ann_id": 480837, "best_split": [3, 3], "split_score": 0.44840720217725005}
+{"sent": "kind in black", "ann_id": 480837, "best_split": [3, 1], "split_score": 0.2875647668260749}
+{"sent": "guy in black", "ann_id": 480837, "best_split": [1, 3], "split_score": 0.5083459787281408}

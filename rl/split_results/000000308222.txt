@@ -1,0 +1,11 @@
+{"sent": "dish with brightest white topping", "ann_id": 1075118, "best_split": [3, 2], "split_score": 0.9732142855968612}
+{"sent": "pizza slice at 200", "ann_id": 1075118, "best_split": [3, 2], "split_score": 0.9732142855968612}
+{"sent": "closest slice with 4 pcs chicken on it", "ann_id": 1074457, "best_split": [2, 1], "split_score": 0.13199061399709508}
+{"sent": "piece with green stuff is very dark", "ann_id": 1074457, "best_split": [2, 2], "split_score": 0.6012705316430338}
+{"sent": "pizza area with least amount of cheese around 700", "ann_id": 1074457, "best_split": [2, 1], "split_score": 0.13199061399709508}
+{"sent": "pizza divided by space with less cream on it", "ann_id": 1073528, "best_split": [2, 1], "split_score": 0.17266049185012264}
+{"sent": "9 oclock slice", "ann_id": 1073528, "best_split": [2, 1], "split_score": 0.17266049185012264}
+{"sent": "piece pulled out from rest cant see crust", "ann_id": 1073528, "best_split": [2, 1], "split_score": 0.17266049185012264}
+{"sent": "slice with least meat", "ann_id": 1070835, "best_split": [1, 2], "split_score": 0.37866709182164116}
+{"sent": "quater slice less chicken", "ann_id": 1070835, "best_split": [1, 2], "split_score": 0.37866709182164116}
+{"sent": "smallest piece of pizza with large wad of cheese", "ann_id": 1070835, "best_split": [3, 2], "split_score": 0.7123604157958836}

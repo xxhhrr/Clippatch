@@ -1,0 +1,6 @@
+{"sent": "pizza with pepperoni", "ann_id": 1075625, "best_split": [3, 2], "split_score": 0.564727298147117}
+{"sent": "some eaten pizza", "ann_id": 1075625, "best_split": [3, 2], "split_score": 0.564727298147117}
+{"sent": "pizza at 9 oclock", "ann_id": 1075625, "best_split": [3, 2], "split_score": 0.564727298147117}
+{"sent": "whole pizza", "ann_id": 1075429, "best_split": [3, 3], "split_score": 0.47065237139100013}
+{"sent": "whole pizza", "ann_id": 1075429, "best_split": [3, 3], "split_score": 0.47065237139100013}
+{"sent": "pizza without knife", "ann_id": 1075429, "best_split": [3, 1], "split_score": 0.35441278663980874}

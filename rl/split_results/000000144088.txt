@@ -1,0 +1,4 @@
+{"sent": "chair leg behind cat head", "ann_id": 1932374, "best_split": [1, 3], "split_score": 0.3961495742195437}
+{"sent": "chair closest to cat", "ann_id": 1932374, "best_split": [1, 3], "split_score": 0.3961495742195437}
+{"sent": "chair you can only see 2 legs closet to the cats eye", "ann_id": 105207, "best_split": [1, 2], "split_score": 0.4950573979394508}
+{"sent": "chair with corner of leg facing you", "ann_id": 105207, "best_split": [1, 5], "split_score": 0.6916767921710452}

@@ -1,0 +1,11 @@
+{"sent": "carrot furthest away from knife", "ann_id": 1065578, "best_split": [3, 3], "split_score": 0.3718592964319083}
+{"sent": "carrot furthest from knife", "ann_id": 1065578, "best_split": [3, 3], "split_score": 0.3718592964319083}
+{"sent": "carrot closest to knife", "ann_id": 1064918, "best_split": [1, 3], "split_score": 0.3122939236744999}
+{"sent": "bent carrot", "ann_id": 1064918, "best_split": [3, 1], "split_score": 0.16204379561198937}
+{"sent": "carrot near knife", "ann_id": 1064918, "best_split": [2, 2], "split_score": 0.19195612430190936}
+{"sent": "weird carrot potato carrotato lol", "ann_id": 1062969, "best_split": [2, 3], "split_score": 0.285699545987856}
+{"sent": "knobby carrott", "ann_id": 1062969, "best_split": [2, 3], "split_score": 0.285699545987856}
+{"sent": "carrot with weird growths", "ann_id": 1062969, "best_split": [2, 3], "split_score": 0.285699545987856}
+{"sent": "fattest carrot", "ann_id": 1062559, "best_split": [1, 5], "split_score": 0.3340184994575181}
+{"sent": "fat carrot", "ann_id": 1062559, "best_split": [1, 5], "split_score": 0.3340184994575181}
+{"sent": "biggest", "ann_id": 1062559, "best_split": [1, 5], "split_score": 0.3340184994575181}

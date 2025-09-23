@@ -1,0 +1,5 @@
+{"sent": "green bench with indents back", "ann_id": 2224050, "best_split": [1, 5], "split_score": 0.3786163521672402}
+{"sent": "beaded looking seat", "ann_id": 2224050, "best_split": [1, 5], "split_score": 0.3786163521672402}
+{"sent": "rightest booth", "ann_id": 2224050, "best_split": [2, 2], "split_score": 0.3760683760396773}
+{"sent": "green seat closest to framed picture", "ann_id": 1951038, "best_split": [3, 2], "split_score": 0.29952644038086756}
+{"sent": "bench near picture", "ann_id": 1951038, "best_split": [2, 1], "split_score": 0.18223414325567078}

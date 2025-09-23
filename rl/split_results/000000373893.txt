@@ -1,0 +1,6 @@
+{"sent": "person walking past sign holding bags", "ann_id": 2151728, "best_split": [2, 2], "split_score": 0.3380102040546867}
+{"sent": "woman with glasses holding tan purse", "ann_id": 2151728, "best_split": [2, 2], "split_score": 0.3380102040546867}
+{"sent": "woman with brown purse", "ann_id": 2151728, "best_split": [2, 2], "split_score": 0.3380102040546867}
+{"sent": "baby", "ann_id": 436127, "best_split": [1, 5], "split_score": 0.39665970769854775}
+{"sent": "boy", "ann_id": 436127, "best_split": [1, 3], "split_score": 0.39082278479080185}
+{"sent": "child", "ann_id": 436127, "best_split": [1, 5], "split_score": 0.39665970769854775}

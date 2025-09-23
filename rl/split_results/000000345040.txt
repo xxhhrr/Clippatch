@@ -1,0 +1,6 @@
+{"sent": "lower clock", "ann_id": 1665832, "best_split": [3, 1], "split_score": 0.363301523507312}
+{"sent": "clock face down", "ann_id": 1665832, "best_split": [3, 1], "split_score": 0.363301523507312}
+{"sent": "clock laying sideways", "ann_id": 1665832, "best_split": [3, 1], "split_score": 0.363301523507312}
+{"sent": "clock in better view", "ann_id": 339009, "best_split": [5, 1], "split_score": 0.45277044851894654}
+{"sent": "clock upright", "ann_id": 339009, "best_split": [5, 1], "split_score": 0.45277044851894654}
+{"sent": "vertical clock", "ann_id": 339009, "best_split": [5, 1], "split_score": 0.45277044851894654}

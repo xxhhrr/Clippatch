@@ -1,0 +1,6 @@
+{"sent": "brown chair", "ann_id": 384706, "best_split": [2, 3], "split_score": 0.4483394833431343}
+{"sent": "brown chair with white cushions", "ann_id": 384706, "best_split": [2, 3], "split_score": 0.4483394833431343}
+{"sent": "wicker chair with white pillow", "ann_id": 384706, "best_split": [2, 3], "split_score": 0.4483394833431343}
+{"sent": "red and black chair", "ann_id": 377153, "best_split": [3, 3], "split_score": 0.7663981586929807}
+{"sent": "chair near man", "ann_id": 377153, "best_split": [3, 3], "split_score": 0.7663981586929807}
+{"sent": "black seat back", "ann_id": 377153, "best_split": [3, 3], "split_score": 0.7663981586929807}

@@ -1,0 +1,8 @@
+{"sent": "car window behind man in red", "ann_id": 147243, "best_split": [3, 3], "split_score": 0.3859915099475452}
+{"sent": "blue car behind red shirt", "ann_id": 147243, "best_split": [3, 3], "split_score": 0.3859915099475452}
+{"sent": "blue car with red shirted man next to it", "ann_id": 147243, "best_split": [3, 3], "split_score": 0.3859915099475452}
+{"sent": "black car", "ann_id": 145912, "best_split": [2, 2], "split_score": 0.8495483692443254}
+{"sent": "black car", "ann_id": 145912, "best_split": [2, 2], "split_score": 0.8495483692443254}
+{"sent": "black car", "ann_id": 145912, "best_split": [2, 2], "split_score": 0.8495483692443254}
+{"sent": "the window with yellow in reflection", "ann_id": 145757, "best_split": [1, 2], "split_score": 0.3081098925170337}
+{"sent": "white car", "ann_id": 145757, "best_split": [2, 1], "split_score": 0.4215162627383005}

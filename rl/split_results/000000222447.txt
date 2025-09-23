@@ -1,0 +1,9 @@
+{"sent": "sheep behind cage", "ann_id": 67271, "best_split": [2, 2], "split_score": 0.4180484693544285}
+{"sent": "inbetwwen sheep", "ann_id": 67271, "best_split": [2, 2], "split_score": 0.4180484693544285}
+{"sent": "sheep behind the fence", "ann_id": 67271, "best_split": [2, 2], "split_score": 0.4180484693544285}
+{"sent": "closest sheep with no blanket", "ann_id": 66719, "best_split": [1, 5], "split_score": 0.7035093472693088}
+{"sent": "number one animal", "ann_id": 66719, "best_split": [2, 2], "split_score": 0.26204819275698965}
+{"sent": "sheep looking away", "ann_id": 66719, "best_split": [1, 5], "split_score": 0.7035093472693088}
+{"sent": "blanket on sheep", "ann_id": 66544, "best_split": [1, 2], "split_score": 0.646325416124537}
+{"sent": "mouth open sheep", "ann_id": 66544, "best_split": [1, 3], "split_score": 0.3913436735656647}
+{"sent": "most visible sheep", "ann_id": 66544, "best_split": [1, 3], "split_score": 0.3913436735656647}

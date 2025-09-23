@@ -1,0 +1,6 @@
+{"sent": "car", "ann_id": 145353, "best_split": [2, 2], "split_score": 0.5206338725308264}
+{"sent": "black car", "ann_id": 145353, "best_split": [2, 2], "split_score": 0.5206338725308264}
+{"sent": "green car", "ann_id": 145353, "best_split": [2, 2], "split_score": 0.5206338725308264}
+{"sent": "white car behind the bus directly above women walking", "ann_id": 143429, "best_split": [3, 3], "split_score": 0.4665314400834125}
+{"sent": "white vehicle behind green car", "ann_id": 143429, "best_split": [3, 3], "split_score": 0.4665314400834125}
+{"sent": "white van behind green car", "ann_id": 143429, "best_split": [3, 3], "split_score": 0.4665314400834125}

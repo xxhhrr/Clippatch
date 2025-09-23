@@ -1,0 +1,12 @@
+{"sent": "toasting dark shirt", "ann_id": 2149882, "best_split": [1, 5], "split_score": 0.3826086956143667}
+{"sent": "lady in black toasting", "ann_id": 2149882, "best_split": [1, 5], "split_score": 0.3826086956143667}
+{"sent": "next to red shirt", "ann_id": 2149882, "best_split": [2, 2], "split_score": 0.20755809742941012}
+{"sent": "red", "ann_id": 2149859, "best_split": [1, 3], "split_score": 0.4781306171073618}
+{"sent": "woman in red", "ann_id": 2149859, "best_split": [3, 3], "split_score": 0.6174016685795707}
+{"sent": "woman in red", "ann_id": 2149859, "best_split": [3, 3], "split_score": 0.6174016685795707}
+{"sent": "oldest woman in light blue", "ann_id": 2149782, "best_split": [3, 2], "split_score": 0.3068276052421609}
+{"sent": "lady wearing blue shirt", "ann_id": 2149782, "best_split": [3, 2], "split_score": 0.3068276052421609}
+{"sent": "old lady with gray hair cant see much of her", "ann_id": 2149782, "best_split": [3, 2], "split_score": 0.3068276052421609}
+{"sent": "woman with big hair in black", "ann_id": 2148626, "best_split": [1, 5], "split_score": 0.39279414120955825}
+{"sent": "person in black near lady in blue", "ann_id": 2148626, "best_split": [1, 2], "split_score": 0.6456871810967121}
+{"sent": "woman about to sip on drink", "ann_id": 2148626, "best_split": [3, 1], "split_score": 0.28042348711644244}

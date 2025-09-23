@@ -1,0 +1,12 @@
+{"sent": "old man in black hat and outfit", "ann_id": 517000, "best_split": [3, 1], "split_score": 0.14905998208655663}
+{"sent": "guy benind fence with dark hat", "ann_id": 517000, "best_split": [1, 3], "split_score": 0.16180131250498975}
+{"sent": "old man", "ann_id": 517000, "best_split": [1, 3], "split_score": 0.16180131250498975}
+{"sent": "with white and green hat", "ann_id": 471518, "best_split": [3, 2], "split_score": 0.2371794871523375}
+{"sent": "green and white hat", "ann_id": 471518, "best_split": [3, 2], "split_score": 0.2371794871523375}
+{"sent": "white shirt with white and green hat", "ann_id": 471518, "best_split": [3, 2], "split_score": 0.2371794871523375}
+{"sent": "man with blanket on lap", "ann_id": 447290, "best_split": [3, 2], "split_score": 0.4418581114824554}
+{"sent": "black coat glasses blue blanket watching outside fence", "ann_id": 447290, "best_split": [1, 5], "split_score": 0.3908187494159864}
+{"sent": "okay so the old woman with a blue apron who is trying to hold spiders in her hand", "ann_id": 447290, "best_split": [3, 2], "split_score": 0.4418581114824554}
+{"sent": "kid with bat raised", "ann_id": 424185, "best_split": [1, 5], "split_score": 0.6530758225453258}
+{"sent": "person at bat", "ann_id": 424185, "best_split": [1, 5], "split_score": 0.6530758225453258}
+{"sent": "batter", "ann_id": 424185, "best_split": [1, 5], "split_score": 0.6530758225453258}

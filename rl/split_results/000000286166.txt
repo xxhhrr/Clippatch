@@ -1,0 +1,5 @@
+{"sent": "horse with number 7", "ann_id": 60750, "best_split": [2, 3], "split_score": 0.40339263547073556}
+{"sent": "horse number 7", "ann_id": 60750, "best_split": [2, 1], "split_score": 0.3908355795001933}
+{"sent": "white horse", "ann_id": 60327, "best_split": [3, 3], "split_score": 0.29256198343883616}
+{"sent": "gray horse on that is cutoff", "ann_id": 60327, "best_split": [2, 1], "split_score": 0.22338889104869866}
+{"sent": "last horse side", "ann_id": 60327, "best_split": [2, 1], "split_score": 0.22338889104869866}

@@ -1,0 +1,15 @@
+{"sent": "guy in all black between green jacket and pats with writing", "ann_id": 1271641, "best_split": [2, 2], "split_score": 0.24136200715115683}
+{"sent": "guy in back with blue bandana", "ann_id": 1271641, "best_split": [1, 5], "split_score": 0.3124887851863907}
+{"sent": "darker skinned guy with blue and white hat or black and white hat", "ann_id": 1271641, "best_split": [2, 1], "split_score": 0.12708537781659676}
+{"sent": "shirt color of grass bent over", "ann_id": 1250482, "best_split": [2, 1], "split_score": 0.1436814772019734}
+{"sent": "green", "ann_id": 1250482, "best_split": [1, 3], "split_score": 0.2821929921364987}
+{"sent": "bright green jacket", "ann_id": 1250482, "best_split": [1, 5], "split_score": 0.29214364118769454}
+{"sent": "gray cap woman lisa", "ann_id": 1229560, "best_split": [2, 3], "split_score": 0.34074074070663257}
+{"sent": "person in gray hat by green jacket", "ann_id": 1229560, "best_split": [1, 5], "split_score": 0.518060064882502}
+{"sent": "gray beanie but not the racoon one", "ann_id": 1229560, "best_split": [1, 5], "split_score": 0.518060064882502}
+{"sent": "guy in cardigan pants", "ann_id": 1221559, "best_split": [1, 2], "split_score": 0.20942283162430553}
+{"sent": "person with cardigan on leg", "ann_id": 1221559, "best_split": [2, 2], "split_score": 0.1965042016674619}
+{"sent": "cardigan on leg", "ann_id": 1221559, "best_split": [1, 2], "split_score": 0.20942283162430553}
+{"sent": "the man with all black blocking the tree", "ann_id": 1201568, "best_split": [1, 3], "split_score": 0.4403957528691846}
+{"sent": "man farthest from others", "ann_id": 1201568, "best_split": [1, 2], "split_score": 0.29097576529452424}
+{"sent": "leader", "ann_id": 1201568, "best_split": [1, 5], "split_score": 0.3583531274458944}

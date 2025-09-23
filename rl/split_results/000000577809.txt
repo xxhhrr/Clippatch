@@ -1,0 +1,9 @@
+{"sent": "apple number 2", "ann_id": 1549118, "best_split": [5, 1], "split_score": 0.18204225350510192}
+{"sent": "apple two", "ann_id": 1549118, "best_split": [5, 1], "split_score": 0.18204225350510192}
+{"sent": "apple at 12 and 6", "ann_id": 1549118, "best_split": [5, 1], "split_score": 0.18204225350510192}
+{"sent": "number 3 apple", "ann_id": 1548819, "best_split": [2, 3], "split_score": 0.3899426554488374}
+{"sent": "dark apple", "ann_id": 1548819, "best_split": [2, 3], "split_score": 0.3899426554488374}
+{"sent": "apple that looks a little bigger", "ann_id": 1548819, "best_split": [2, 3], "split_score": 0.3899426554488374}
+{"sent": "apple", "ann_id": 1047794, "best_split": [1, 5], "split_score": 0.23206948074037453}
+{"sent": "apple no stem", "ann_id": 1047794, "best_split": [1, 5], "split_score": 0.23206948074037453}
+{"sent": "number one", "ann_id": 1047794, "best_split": [2, 2], "split_score": 0.23366736578624506}

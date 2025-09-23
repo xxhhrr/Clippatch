@@ -1,0 +1,6 @@
+{"sent": "salesman", "ann_id": 1714605, "best_split": [1, 2], "split_score": 0.4634486606958128}
+{"sent": "cashier man", "ann_id": 1714605, "best_split": [1, 2], "split_score": 0.4634486606958128}
+{"sent": "man yellow shirt", "ann_id": 1714605, "best_split": [1, 2], "split_score": 0.4634486606958128}
+{"sent": "woman in pink", "ann_id": 427445, "best_split": [1, 2], "split_score": 0.7444717444431637}
+{"sent": "person waiting", "ann_id": 427445, "best_split": [1, 2], "split_score": 0.7444717444431637}
+{"sent": "girl in pink", "ann_id": 427445, "best_split": [1, 2], "split_score": 0.7444717444431637}

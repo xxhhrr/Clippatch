@@ -1,0 +1,6 @@
+{"sent": "the red player in the back", "ann_id": 1735701, "best_split": [3, 3], "split_score": 0.32006920411269535}
+{"sent": "man in red", "ann_id": 1735701, "best_split": [1, 3], "split_score": 0.28227468062151795}
+{"sent": "red shirt black headband", "ann_id": 1735701, "best_split": [1, 3], "split_score": 0.28227468062151795}
+{"sent": "number 8", "ann_id": 459825, "best_split": [5, 1], "split_score": 0.10918842985063608}
+{"sent": "girl with red pants", "ann_id": 459825, "best_split": [1, 5], "split_score": 0.6772231340468067}
+{"sent": "blue hat", "ann_id": 459825, "best_split": [1, 5], "split_score": 0.6772231340468067}

@@ -1,0 +1,6 @@
+{"sent": "yellow car thingie", "ann_id": 1786069, "best_split": [1, 3], "split_score": 0.4721796834947794}
+{"sent": "golf cart", "ann_id": 1786069, "best_split": [1, 3], "split_score": 0.4721796834947794}
+{"sent": "yellow car", "ann_id": 1786069, "best_split": [1, 3], "split_score": 0.4721796834947794}
+{"sent": "silver going down the street", "ann_id": 350363, "best_split": [3, 1], "split_score": 0.14770459081039516}
+{"sent": "silver car", "ann_id": 350363, "best_split": [1, 5], "split_score": 0.47676542202954897}
+{"sent": "all white car", "ann_id": 350363, "best_split": [1, 5], "split_score": 0.47676542202954897}

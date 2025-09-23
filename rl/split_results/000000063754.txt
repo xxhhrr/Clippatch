@@ -1,0 +1,6 @@
+{"sent": "blurry person", "ann_id": 544345, "best_split": [3, 1], "split_score": 0.030235810385772492}
+{"sent": "person in back", "ann_id": 544345, "best_split": [3, 1], "split_score": 0.030235810385772492}
+{"sent": "blurry man behind batter", "ann_id": 544345, "best_split": [3, 1], "split_score": 0.030235810385772492}
+{"sent": "guy in white", "ann_id": 531086, "best_split": [2, 1], "split_score": 0.5290180852015679}
+{"sent": "batter", "ann_id": 531086, "best_split": [1, 2], "split_score": 0.4794364804626931}
+{"sent": "player", "ann_id": 531086, "best_split": [2, 1], "split_score": 0.5290180852015679}

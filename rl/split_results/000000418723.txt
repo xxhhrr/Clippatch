@@ -1,0 +1,6 @@
+{"sent": "white hat", "ann_id": 450621, "best_split": [1, 2], "split_score": 0.8207908162938141}
+{"sent": "man in white hat", "ann_id": 450621, "best_split": [1, 2], "split_score": 0.8207908162938141}
+{"sent": "man", "ann_id": 450621, "best_split": [1, 2], "split_score": 0.8207908162938141}
+{"sent": "woman eating", "ann_id": 446933, "best_split": [1, 2], "split_score": 0.7133248133210021}
+{"sent": "woman chomping that burger", "ann_id": 446933, "best_split": [1, 2], "split_score": 0.7133248133210021}
+{"sent": "woman", "ann_id": 446933, "best_split": [1, 2], "split_score": 0.7133248133210021}

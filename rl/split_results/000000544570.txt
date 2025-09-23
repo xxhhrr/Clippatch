@@ -1,0 +1,20 @@
+{"sent": "pink iced", "ann_id": 1925845, "best_split": [3, 3], "split_score": 0.787602552296019}
+{"sent": "pink donut", "ann_id": 1925845, "best_split": [3, 3], "split_score": 0.787602552296019}
+{"sent": "purple donut", "ann_id": 1925845, "best_split": [3, 3], "split_score": 0.787602552296019}
+{"sent": "chocolate covered donut", "ann_id": 1925310, "best_split": [1, 5], "split_score": 0.3299999999705357}
+{"sent": "all chocolate donut", "ann_id": 1925310, "best_split": [1, 5], "split_score": 0.3299999999705357}
+{"sent": "chocolate donut", "ann_id": 1925310, "best_split": [1, 5], "split_score": 0.3299999999705357}
+{"sent": "half of a donut not in the persons hand", "ann_id": 1925247, "best_split": [1, 2], "split_score": 0.07118539151689936}
+{"sent": "broken donut small part", "ann_id": 1925247, "best_split": [1, 2], "split_score": 0.07118539151689936}
+{"sent": "half the doughnut still in the box", "ann_id": 1925247, "best_split": [1, 2], "split_score": 0.07118539151689936}
+{"sent": "glazed donut below his palm out of frame", "ann_id": 1572810, "best_split": [1, 3], "split_score": 0.18496621620505754}
+{"sent": "donut at 700", "ann_id": 1572810, "best_split": [3, 1], "split_score": 0.18496621620505754}
+{"sent": "whole donut by hand", "ann_id": 1572336, "best_split": [5, 1], "split_score": 0.24466113302887732}
+{"sent": "complete donut framed by hand", "ann_id": 1572336, "best_split": [5, 1], "split_score": 0.24466113302887732}
+{"sent": "whole glazed donut hear hand", "ann_id": 1572336, "best_split": [5, 1], "split_score": 0.24466113302887732}
+{"sent": "next to purpleish one", "ann_id": 1081130, "best_split": [2, 1], "split_score": 0.23653534594236633}
+{"sent": "regular donut touching pink one", "ann_id": 1081130, "best_split": [5, 1], "split_score": 0.24998054321348115}
+{"sent": "donut with a whole next to pink one", "ann_id": 1081130, "best_split": [5, 1], "split_score": 0.24998054321348115}
+{"sent": "half donut being held", "ann_id": 1079864, "best_split": [1, 2], "split_score": 0.04128440366830088}
+{"sent": "half doughnut in hand", "ann_id": 1079864, "best_split": [1, 2], "split_score": 0.04128440366830088}
+{"sent": "donut being taken", "ann_id": 1079864, "best_split": [1, 2], "split_score": 0.04128440366830088}

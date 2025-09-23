@@ -1,0 +1,17 @@
+{"sent": "lady closest to bride", "ann_id": 526480, "best_split": [3, 3], "split_score": 0.40558046831021666}
+{"sent": "woman next to bride", "ann_id": 526480, "best_split": [3, 3], "split_score": 0.40558046831021666}
+{"sent": "woman in dark dress nearest man", "ann_id": 503005, "best_split": [2, 2], "split_score": 0.18227990969368793}
+{"sent": "girl in purple near the man", "ann_id": 503005, "best_split": [2, 3], "split_score": 0.1625139456896138}
+{"sent": "singing bridesmaid next to groom", "ann_id": 503005, "best_split": [3, 1], "split_score": 0.1376668855254067}
+{"sent": "the skinny girl who you can see only one arm that is looking at you like she ate a spider and farted", "ann_id": 1721224, "best_split": [1, 5], "split_score": 0.41724205953666976}
+{"sent": "only girl looking at camera", "ann_id": 1721224, "best_split": [1, 3], "split_score": 0.2722007721843508}
+{"sent": "girl purple smiling wide showing teeth", "ann_id": 1721224, "best_split": [1, 5], "split_score": 0.41724205953666976}
+{"sent": "girl with hand on chest", "ann_id": 1240284, "best_split": [3, 3], "split_score": 0.3230611196298072}
+{"sent": "girl holding chest", "ann_id": 1240284, "best_split": [1, 3], "split_score": 0.2912644787469073}
+{"sent": "sec woman behind groom", "ann_id": 1240284, "best_split": [3, 1], "split_score": 0.13320626852323134}
+{"sent": "the bride", "ann_id": 488916, "best_split": [1, 5], "split_score": 0.5080461859707204}
+{"sent": "person in white dress", "ann_id": 488916, "best_split": [1, 5], "split_score": 0.5080461859707204}
+{"sent": "bride", "ann_id": 488916, "best_split": [1, 5], "split_score": 0.5080461859707204}
+{"sent": "groom", "ann_id": 426596, "best_split": [3, 3], "split_score": 0.3977564851136064}
+{"sent": "groom", "ann_id": 426596, "best_split": [3, 3], "split_score": 0.3977564851136064}
+{"sent": "the man", "ann_id": 426596, "best_split": [1, 5], "split_score": 0.5270042982127635}

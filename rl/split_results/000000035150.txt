@@ -1,0 +1,6 @@
+{"sent": "skier bending over", "ann_id": 504934, "best_split": [3, 2], "split_score": 0.3269076304892663}
+{"sent": "person bending over", "ann_id": 504934, "best_split": [3, 1], "split_score": 0.17843051292314607}
+{"sent": "bending down", "ann_id": 504934, "best_split": [5, 1], "split_score": 0.06329113923595432}
+{"sent": "black pants white hoodie", "ann_id": 1724501, "best_split": [1, 5], "split_score": 0.5019373018226543}
+{"sent": "person in white hood", "ann_id": 1724501, "best_split": [1, 5], "split_score": 0.5019373018226543}
+{"sent": "white coat", "ann_id": 1724501, "best_split": [1, 5], "split_score": 0.5019373018226543}

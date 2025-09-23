@@ -1,0 +1,6 @@
+{"sent": "bread", "ann_id": 1086421, "best_split": [3, 2], "split_score": 0.4493102228192918}
+{"sent": "pound cake", "ann_id": 1086421, "best_split": [3, 2], "split_score": 0.4493102228192918}
+{"sent": "lemon cake", "ann_id": 1086421, "best_split": [3, 2], "split_score": 0.4493102228192918}
+{"sent": "slice on its side", "ann_id": 1083975, "best_split": [1, 2], "split_score": 0.23206313774585208}
+{"sent": "slanted bar", "ann_id": 1083975, "best_split": [5, 1], "split_score": 0.29892294943670894}
+{"sent": "small piece laying down", "ann_id": 1083975, "best_split": [1, 2], "split_score": 0.23206313774585208}

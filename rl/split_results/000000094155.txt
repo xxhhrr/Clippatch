@@ -1,0 +1,6 @@
+{"sent": "standing", "ann_id": 497308, "best_split": [2, 1], "split_score": 0.12064420820552547}
+{"sent": "leg of standing player", "ann_id": 497308, "best_split": [2, 2], "split_score": 0.5646657489637521}
+{"sent": "only leg shown", "ann_id": 497308, "best_split": [2, 2], "split_score": 0.5646657489637521}
+{"sent": "dude on ground", "ann_id": 441605, "best_split": [3, 1], "split_score": 0.48763736261643037}
+{"sent": "guy sliding", "ann_id": 441605, "best_split": [3, 1], "split_score": 0.48763736261643037}
+{"sent": "man on the ground", "ann_id": 441605, "best_split": [3, 1], "split_score": 0.48763736261643037}

@@ -1,0 +1,6 @@
+{"sent": "tall g", "ann_id": 595902, "best_split": [1, 2], "split_score": 0.4853686938700511}
+{"sent": "tall giraffe", "ann_id": 595902, "best_split": [1, 2], "split_score": 0.4853686938700511}
+{"sent": "tall giraffe", "ann_id": 595902, "best_split": [1, 2], "split_score": 0.4853686938700511}
+{"sent": "smallest giraffe", "ann_id": 595316, "best_split": [2, 3], "split_score": 0.602981561337487}
+{"sent": "short one", "ann_id": 595316, "best_split": [2, 3], "split_score": 0.602981561337487}
+{"sent": "lower giraffe", "ann_id": 595316, "best_split": [2, 3], "split_score": 0.602981561337487}

@@ -1,0 +1,6 @@
+{"sent": "green motorcycle behind red one", "ann_id": 155812, "best_split": [2, 1], "split_score": 0.3132069584088772}
+{"sent": "green bike", "ann_id": 155812, "best_split": [2, 1], "split_score": 0.3132069584088772}
+{"sent": "american flag", "ann_id": 155812, "best_split": [2, 2], "split_score": 0.3887318387753118}
+{"sent": "bike", "ann_id": 154083, "best_split": [3, 1], "split_score": 0.4023145645756426}
+{"sent": "motorcycle with red fenders", "ann_id": 154083, "best_split": [3, 1], "split_score": 0.4023145645756426}
+{"sent": "motorbike with red fender", "ann_id": 154083, "best_split": [3, 1], "split_score": 0.4023145645756426}

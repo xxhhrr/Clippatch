@@ -1,0 +1,6 @@
+{"sent": "glass with water", "ann_id": 1513172, "best_split": [3, 3], "split_score": 0.4443712968327236}
+{"sent": "glass of water next to fancy coffee", "ann_id": 1513172, "best_split": [2, 2], "split_score": 0.26307397957086465}
+{"sent": "clear glass", "ann_id": 1513172, "best_split": [3, 3], "split_score": 0.4443712968327236}
+{"sent": "happy face cup", "ann_id": 670466, "best_split": [3, 2], "split_score": 0.4272182485571991}
+{"sent": "beverage tan in color", "ann_id": 670466, "best_split": [3, 2], "split_score": 0.4272182485571991}
+{"sent": "coffee with white leaf design", "ann_id": 670466, "best_split": [3, 2], "split_score": 0.4272182485571991}

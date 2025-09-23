@@ -1,0 +1,6 @@
+{"sent": "man holding white umbrella", "ann_id": 521633, "best_split": [3, 2], "split_score": 0.18126888215811282}
+{"sent": "person with clear umbrella", "ann_id": 521633, "best_split": [3, 2], "split_score": 0.18126888215811282}
+{"sent": "holding white umbrella", "ann_id": 521633, "best_split": [3, 2], "split_score": 0.18126888215811282}
+{"sent": "person with purple", "ann_id": 493867, "best_split": [1, 5], "split_score": 0.24332078176050556}
+{"sent": "person with dark umbrella", "ann_id": 493867, "best_split": [1, 5], "split_score": 0.24332078176050556}
+{"sent": "guy under dark umbrella", "ann_id": 493867, "best_split": [1, 5], "split_score": 0.24332078176050556}

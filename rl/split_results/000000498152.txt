@@ -1,0 +1,9 @@
+{"sent": "largest vaste", "ann_id": 1992424, "best_split": [1, 2], "split_score": 0.3782684948828815}
+{"sent": "tallest jar", "ann_id": 1992424, "best_split": [1, 2], "split_score": 0.3782684948828815}
+{"sent": "biggest vase", "ann_id": 1992424, "best_split": [1, 3], "split_score": 0.558784834316542}
+{"sent": "smallest dark brown pot", "ann_id": 1153782, "best_split": [3, 2], "split_score": 0.126865671628997}
+{"sent": "smallest pot", "ann_id": 1153782, "best_split": [3, 2], "split_score": 0.126865671628997}
+{"sent": "smaller green", "ann_id": 1153782, "best_split": [1, 5], "split_score": 0.29281655841184895}
+{"sent": "vase next to the biggest vase closest to us", "ann_id": 1153388, "best_split": [3, 3], "split_score": 0.3488419757789668}
+{"sent": "closest medium sized vase", "ann_id": 1153388, "best_split": [3, 3], "split_score": 0.3488419757789668}
+{"sent": "lighter colored vase close to us", "ann_id": 1153388, "best_split": [3, 3], "split_score": 0.3488419757789668}

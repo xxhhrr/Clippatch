@@ -1,0 +1,15 @@
+{"sent": "no jacket and tie", "ann_id": 436800, "best_split": [1, 3], "split_score": 0.33482142855122937}
+{"sent": "white shirt", "ann_id": 436800, "best_split": [2, 3], "split_score": 0.3955223880198142}
+{"sent": "white shirt", "ann_id": 436800, "best_split": [2, 3], "split_score": 0.3955223880198142}
+{"sent": "black car", "ann_id": 356873, "best_split": [3, 2], "split_score": 0.2505548416948306}
+{"sent": "black car", "ann_id": 356873, "best_split": [3, 2], "split_score": 0.2505548416948306}
+{"sent": "black car partially cut off", "ann_id": 356873, "best_split": [3, 3], "split_score": 0.36009648512058984}
+{"sent": "lady", "ann_id": 1735187, "best_split": [1, 5], "split_score": 0.3238636363307768}
+{"sent": "woman in black dress", "ann_id": 1735187, "best_split": [1, 5], "split_score": 0.3238636363307768}
+{"sent": "woman", "ann_id": 1735187, "best_split": [1, 5], "split_score": 0.3238636363307768}
+{"sent": "man by car", "ann_id": 473225, "best_split": [3, 3], "split_score": 0.22303760972047731}
+{"sent": "man gray suit", "ann_id": 473225, "best_split": [1, 5], "split_score": 0.24065864469006978}
+{"sent": "gray tie and gray jacket", "ann_id": 473225, "best_split": [1, 5], "split_score": 0.24065864469006978}
+{"sent": "suv limo", "ann_id": 346485, "best_split": [3, 1], "split_score": 0.48282585868895955}
+{"sent": "suv limo", "ann_id": 346485, "best_split": [3, 1], "split_score": 0.48282585868895955}
+{"sent": "limo", "ann_id": 346485, "best_split": [3, 1], "split_score": 0.48282585868895955}

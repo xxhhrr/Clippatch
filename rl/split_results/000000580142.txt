@@ -1,0 +1,6 @@
+{"sent": "the number 16", "ann_id": 1199227, "best_split": [2, 3], "split_score": 0.28273365975274284}
+{"sent": "number on it", "ann_id": 1199227, "best_split": [2, 3], "split_score": 0.28273365975274284}
+{"sent": "16", "ann_id": 1199227, "best_split": [2, 2], "split_score": 0.23981143550488052}
+{"sent": "light signal", "ann_id": 1198716, "best_split": [2, 3], "split_score": 0.38111369887983126}
+{"sent": "green light", "ann_id": 1198716, "best_split": [2, 3], "split_score": 0.38111369887983126}
+{"sent": "circle signal lights", "ann_id": 1198716, "best_split": [2, 3], "split_score": 0.38111369887983126}

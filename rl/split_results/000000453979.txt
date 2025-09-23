@@ -1,0 +1,6 @@
+{"sent": "person laying down", "ann_id": 445754, "best_split": [3, 1], "split_score": 0.5158059845248669}
+{"sent": "person lying down", "ann_id": 445754, "best_split": [3, 1], "split_score": 0.5158059845248669}
+{"sent": "sleepuing", "ann_id": 445754, "best_split": [3, 1], "split_score": 0.5158059845248669}
+{"sent": "the person standing", "ann_id": 427756, "best_split": [1, 3], "split_score": 0.6551640926245678}
+{"sent": "woman", "ann_id": 427756, "best_split": [1, 3], "split_score": 0.6551640926245678}
+{"sent": "girl", "ann_id": 427756, "best_split": [1, 3], "split_score": 0.6551640926245678}

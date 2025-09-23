@@ -1,0 +1,6 @@
+{"sent": "face", "ann_id": 1748400, "best_split": [2, 3], "split_score": 0.3410182516401275}
+{"sent": "old man face", "ann_id": 1748400, "best_split": [2, 3], "split_score": 0.3410182516401275}
+{"sent": "man", "ann_id": 1748400, "best_split": [2, 3], "split_score": 0.3410182516401275}
+{"sent": "mans arm", "ann_id": 1716652, "best_split": [3, 1], "split_score": 0.48206375399626233}
+{"sent": "person who is readings arm", "ann_id": 1716652, "best_split": [3, 1], "split_score": 0.48206375399626233}
+{"sent": "hand", "ann_id": 1716652, "best_split": [3, 1], "split_score": 0.48206375399626233}

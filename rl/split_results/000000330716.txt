@@ -1,0 +1,5 @@
+{"sent": "people on vase", "ann_id": 1667690, "best_split": [2, 1], "split_score": 0.3779947331113753}
+{"sent": "big article", "ann_id": 1667690, "best_split": [1, 2], "split_score": 0.4891372249431132}
+{"sent": "vase plain", "ann_id": 1153117, "best_split": [2, 3], "split_score": 0.6404626543187156}
+{"sent": "vase flowers", "ann_id": 1153117, "best_split": [2, 3], "split_score": 0.6404626543187156}
+{"sent": "tall vase not the pitcher", "ann_id": 1153117, "best_split": [2, 3], "split_score": 0.6404626543187156}

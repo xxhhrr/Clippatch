@@ -1,0 +1,9 @@
+{"sent": "closest zebra", "ann_id": 592678, "best_split": [1, 2], "split_score": 0.41429361347752647}
+{"sent": "zebra bent over", "ann_id": 592678, "best_split": [1, 2], "split_score": 0.41429361347752647}
+{"sent": "zebra with head down", "ann_id": 592678, "best_split": [1, 2], "split_score": 0.41429361347752647}
+{"sent": "zebra hidden", "ann_id": 589832, "best_split": [3, 3], "split_score": 0.5972929342360247}
+{"sent": "zebra blocked by another", "ann_id": 589832, "best_split": [3, 3], "split_score": 0.5972929342360247}
+{"sent": "zebra cant see face", "ann_id": 589832, "best_split": [3, 3], "split_score": 0.5972929342360247}
+{"sent": "face up", "ann_id": 588128, "best_split": [2, 1], "split_score": 0.2673788265199546}
+{"sent": "zebra head not eating", "ann_id": 588128, "best_split": [2, 3], "split_score": 0.5987206822389424}
+{"sent": "black and white head up and visable", "ann_id": 588128, "best_split": [2, 3], "split_score": 0.5987206822389424}

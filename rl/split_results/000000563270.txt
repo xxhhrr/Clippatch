@@ -1,0 +1,9 @@
+{"sent": "lady leaning on table", "ann_id": 1277315, "best_split": [1, 3], "split_score": 0.32541023164060023}
+{"sent": "woman leaning on counter", "ann_id": 1277315, "best_split": [1, 2], "split_score": 0.21500318876694025}
+{"sent": "woman with gray dress", "ann_id": 1277315, "best_split": [3, 3], "split_score": 0.6524779567265919}
+{"sent": "gray", "ann_id": 527312, "best_split": [2, 1], "split_score": 0.32005242462759587}
+{"sent": "person in gray shirt", "ann_id": 527312, "best_split": [2, 1], "split_score": 0.32005242462759587}
+{"sent": "gray shirt", "ann_id": 527312, "best_split": [2, 3], "split_score": 0.7640535372118495}
+{"sent": "boy in yellow", "ann_id": 514475, "best_split": [1, 2], "split_score": 0.9523624645357626}
+{"sent": "yellow shirt", "ann_id": 514475, "best_split": [1, 2], "split_score": 0.9523624645357626}
+{"sent": "yellow shirt", "ann_id": 514475, "best_split": [1, 2], "split_score": 0.9523624645357626}

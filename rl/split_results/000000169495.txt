@@ -1,0 +1,12 @@
+{"sent": "chair under white globe", "ann_id": 2224035, "best_split": [1, 5], "split_score": 0.23863636361215135}
+{"sent": "chair under white globe", "ann_id": 2224035, "best_split": [1, 5], "split_score": 0.23863636361215135}
+{"sent": "pink chair with blanket", "ann_id": 2224035, "best_split": [3, 1], "split_score": 0.12479201330373235}
+{"sent": "white sofa", "ann_id": 1951868, "best_split": [3, 1], "split_score": 0.6430690970409565}
+{"sent": "large couch", "ann_id": 1951868, "best_split": [2, 1], "split_score": 0.5752551020178869}
+{"sent": "couch", "ann_id": 1951868, "best_split": [2, 1], "split_score": 0.5752551020178869}
+{"sent": "pink chair no pillow", "ann_id": 1951726, "best_split": [3, 3], "split_score": 0.42827004212955544}
+{"sent": "pink chair no blanket", "ann_id": 1951726, "best_split": [3, 3], "split_score": 0.42827004212955544}
+{"sent": "red leather chair", "ann_id": 1951726, "best_split": [3, 3], "split_score": 0.42827004212955544}
+{"sent": "chair under lightswitch", "ann_id": 1940217, "best_split": [2, 1], "split_score": 0.022515527949515966}
+{"sent": "chair pink nothing on it", "ann_id": 1940217, "best_split": [3, 3], "split_score": 0.41078963224671644}
+{"sent": "chair 8pm", "ann_id": 1940217, "best_split": [2, 3], "split_score": 0.36388079762896247}

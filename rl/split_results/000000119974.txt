@@ -1,0 +1,6 @@
+{"sent": "plane with big propeller", "ann_id": 1363709, "best_split": [2, 1], "split_score": 0.6044323979350912}
+{"sent": "propellor", "ann_id": 1363709, "best_split": [3, 1], "split_score": 0.7500137839361518}
+{"sent": "plane with propeller", "ann_id": 1363709, "best_split": [2, 1], "split_score": 0.6044323979350912}
+{"sent": "hanging sub", "ann_id": 156352, "best_split": [3, 1], "split_score": 0.914816602261413}
+{"sent": "plane under plane", "ann_id": 156352, "best_split": [3, 1], "split_score": 0.914816602261413}
+{"sent": "hanging shorter wings", "ann_id": 156352, "best_split": [2, 1], "split_score": 0.25783569262654804}

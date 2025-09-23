@@ -1,0 +1,5 @@
+{"sent": "orange atop the others", "ann_id": 1054685, "best_split": [1, 5], "split_score": 0.31202642312881035}
+{"sent": "highest orange", "ann_id": 1054685, "best_split": [2, 3], "split_score": 0.44039575284261634}
+{"sent": "orange with stem", "ann_id": 1054685, "best_split": [2, 3], "split_score": 0.44039575284261634}
+{"sent": "veryclose my bad closest orange", "ann_id": 1052188, "best_split": [3, 3], "split_score": 0.2549462222473846}
+{"sent": "closest orange", "ann_id": 1052188, "best_split": [3, 3], "split_score": 0.2549462222473846}

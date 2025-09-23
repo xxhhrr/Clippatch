@@ -1,0 +1,12 @@
+{"sent": "baby", "ann_id": 2207191, "best_split": [1, 2], "split_score": 0.7234098018533821}
+{"sent": "baby", "ann_id": 2207191, "best_split": [1, 2], "split_score": 0.7234098018533821}
+{"sent": "the little guy", "ann_id": 2207191, "best_split": [1, 2], "split_score": 0.7234098018533821}
+{"sent": "both legs in view backgroun", "ann_id": 1730124, "best_split": [2, 2], "split_score": 0.5662368112129076}
+{"sent": "legs that are both in view", "ann_id": 1730124, "best_split": [5, 1], "split_score": 0.17327975890423908}
+{"sent": "two legs in background", "ann_id": 1730124, "best_split": [2, 2], "split_score": 0.5662368112129076}
+{"sent": "single leg only visible", "ann_id": 504002, "best_split": [3, 1], "split_score": 0.05959944007431897}
+{"sent": "one denim leg", "ann_id": 504002, "best_split": [3, 3], "split_score": 0.14811345997483094}
+{"sent": "slim leg in blue jeans", "ann_id": 504002, "best_split": [2, 1], "split_score": 0.12014780086137122}
+{"sent": "woman", "ann_id": 443423, "best_split": [1, 2], "split_score": 0.39402013024000815}
+{"sent": "woman holding boy", "ann_id": 443423, "best_split": [2, 2], "split_score": 0.6359374999585978}
+{"sent": "mom", "ann_id": 443423, "best_split": [1, 2], "split_score": 0.39402013024000815}

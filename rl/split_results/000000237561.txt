@@ -1,0 +1,6 @@
+{"sent": "boy in red", "ann_id": 1284686, "best_split": [1, 3], "split_score": 0.515455798360137}
+{"sent": "mohawk in red", "ann_id": 1284686, "best_split": [1, 3], "split_score": 0.515455798360137}
+{"sent": "player closest to ball", "ann_id": 1284686, "best_split": [1, 3], "split_score": 0.515455798360137}
+{"sent": "kid in all blue", "ann_id": 1256931, "best_split": [1, 5], "split_score": 0.5562060889464532}
+{"sent": "player in blue", "ann_id": 1256931, "best_split": [1, 5], "split_score": 0.5562060889464532}
+{"sent": "soccer kid in blue running", "ann_id": 1256931, "best_split": [1, 5], "split_score": 0.5562060889464532}

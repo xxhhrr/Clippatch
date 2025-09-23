@@ -1,0 +1,4 @@
+{"sent": "orange next to orange with circle", "ann_id": 1559207, "best_split": [5, 1], "split_score": 0.3350908025495781}
+{"sent": "full orange at 7", "ann_id": 1557529, "best_split": [5, 1], "split_score": 0.2050473185965865}
+{"sent": "lowest orange without navel", "ann_id": 1557529, "best_split": [3, 1], "split_score": 0.35839598995355076}
+{"sent": "middle orange rightiest", "ann_id": 1556211, "best_split": [3, 3], "split_score": 0.6680864008719065}

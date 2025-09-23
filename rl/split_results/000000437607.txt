@@ -1,0 +1,6 @@
+{"sent": "platform on side without trees", "ann_id": 1795429, "best_split": [3, 1], "split_score": 0.3714285714072188}
+{"sent": "the side rail of the bridge the side that is farthest from the red circle thing", "ann_id": 1795429, "best_split": [3, 2], "split_score": 0.7094542658713677}
+{"sent": "train", "ann_id": 174273, "best_split": [3, 3], "split_score": 0.5761758690224649}
+{"sent": "train", "ann_id": 174273, "best_split": [3, 3], "split_score": 0.5761758690224649}
+{"sent": "train car", "ann_id": 174273, "best_split": [3, 3], "split_score": 0.5761758690224649}
+{"sent": "truck", "ann_id": 174273, "best_split": [3, 3], "split_score": 0.5761758690224649}

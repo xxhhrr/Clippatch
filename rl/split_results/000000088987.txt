@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 1820419, "best_split": [2, 3], "split_score": 0.7200720071197039}
+{"sent": "baby cow", "ann_id": 1820419, "best_split": [2, 3], "split_score": 0.7200720071197039}
+{"sent": "baby", "ann_id": 1820419, "best_split": [2, 3], "split_score": 0.7200720071197039}
+{"sent": "larger cow", "ann_id": 70809, "best_split": [1, 2], "split_score": 0.5047977713447999}
+{"sent": "big boi", "ann_id": 70809, "best_split": [2, 1], "split_score": 0.4858263504957383}
+{"sent": "big cow", "ann_id": 70809, "best_split": [1, 2], "split_score": 0.5047977713447999}

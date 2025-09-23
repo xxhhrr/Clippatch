@@ -1,0 +1,5 @@
+{"sent": "head 1", "ann_id": 1292380, "best_split": [1, 2], "split_score": 0.10602678571005952}
+{"sent": "balding head at 7pm", "ann_id": 1292380, "best_split": [3, 1], "split_score": 0.1578187071049826}
+{"sent": "head shaved under the hand in air", "ann_id": 1747039, "best_split": [3, 3], "split_score": 0.6094117646034601}
+{"sent": "back of mans head in corner", "ann_id": 1747039, "best_split": [2, 1], "split_score": 0.16342474489144512}
+{"sent": "rightest corner head", "ann_id": 1747039, "best_split": [3, 2], "split_score": 0.029074597106739108}

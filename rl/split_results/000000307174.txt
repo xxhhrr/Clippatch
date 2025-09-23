@@ -1,0 +1,5 @@
+{"sent": "can only see part of side of train", "ann_id": 1795735, "best_split": [1, 5], "split_score": 0.5312499999460988}
+{"sent": "cut off train", "ann_id": 1795735, "best_split": [1, 2], "split_score": 0.20870535713453822}
+{"sent": "train engine", "ann_id": 170297, "best_split": [3, 1], "split_score": 0.4038164532929328}
+{"sent": "train", "ann_id": 170297, "best_split": [3, 1], "split_score": 0.4038164532929328}
+{"sent": "train", "ann_id": 170297, "best_split": [3, 1], "split_score": 0.4038164532929328}

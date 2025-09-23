@@ -1,0 +1,6 @@
+{"sent": "largest zebra", "ann_id": 593046, "best_split": [2, 3], "split_score": 0.6271186440141141}
+{"sent": "zebra by partly showing", "ann_id": 593046, "best_split": [1, 5], "split_score": 0.5200945626093311}
+{"sent": "zebra that is cut off and partly out of frame", "ann_id": 593046, "best_split": [1, 5], "split_score": 0.5200945626093311}
+{"sent": "main zebra", "ann_id": 591481, "best_split": [1, 3], "split_score": 0.6519485903476395}
+{"sent": "zebra fully seen", "ann_id": 591481, "best_split": [1, 3], "split_score": 0.6519485903476395}
+{"sent": "slender zebra", "ann_id": 591481, "best_split": [1, 3], "split_score": 0.6519485903476395}

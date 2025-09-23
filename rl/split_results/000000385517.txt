@@ -1,0 +1,6 @@
+{"sent": "person sitting down with beard", "ann_id": 1730106, "best_split": [3, 3], "split_score": 0.3112615587332791}
+{"sent": "man sitting", "ann_id": 1730106, "best_split": [1, 5], "split_score": 0.2501014610135855}
+{"sent": "guy sitting wearing blue jacket", "ann_id": 1730106, "best_split": [3, 3], "split_score": 0.3112615587332791}
+{"sent": "stripped shirt", "ann_id": 482895, "best_split": [1, 5], "split_score": 0.7360485607268408}
+{"sent": "man n striped shirt", "ann_id": 482895, "best_split": [1, 5], "split_score": 0.7360485607268408}
+{"sent": "striped shirt", "ann_id": 482895, "best_split": [1, 5], "split_score": 0.7360485607268408}

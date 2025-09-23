@@ -1,0 +1,9 @@
+{"sent": "white shirt", "ann_id": 493650, "best_split": [2, 3], "split_score": 0.40354637564267865}
+{"sent": "man in white shirt", "ann_id": 493650, "best_split": [2, 3], "split_score": 0.40354637564267865}
+{"sent": "white shirt man", "ann_id": 493650, "best_split": [2, 2], "split_score": 0.2852617079693346}
+{"sent": "red shirt", "ann_id": 487604, "best_split": [1, 5], "split_score": 0.6403457080494651}
+{"sent": "dark red shirt", "ann_id": 487604, "best_split": [1, 5], "split_score": 0.6403457080494651}
+{"sent": "arms crossed", "ann_id": 487604, "best_split": [1, 5], "split_score": 0.6403457080494651}
+{"sent": "dude with hand in pocket", "ann_id": 421549, "best_split": [1, 5], "split_score": 0.6400763358167866}
+{"sent": "man with hand in pocket", "ann_id": 421549, "best_split": [1, 5], "split_score": 0.6400763358167866}
+{"sent": "man with tan", "ann_id": 421549, "best_split": [1, 5], "split_score": 0.6400763358167866}

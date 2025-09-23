@@ -1,0 +1,10 @@
+{"sent": "girl", "ann_id": 516613, "best_split": [1, 3], "split_score": 0.6891921160553827}
+{"sent": "flowered arm", "ann_id": 516613, "best_split": [1, 3], "split_score": 0.6891921160553827}
+{"sent": "woman", "ann_id": 516613, "best_split": [1, 3], "split_score": 0.6891921160553827}
+{"sent": "glasses", "ann_id": 495604, "best_split": [1, 5], "split_score": 0.5184370324281935}
+{"sent": "man white pattern shirt", "ann_id": 495604, "best_split": [1, 5], "split_score": 0.5184370324281935}
+{"sent": "standing man with glasses", "ann_id": 495604, "best_split": [1, 5], "split_score": 0.5184370324281935}
+{"sent": "bearded man", "ann_id": 453172, "best_split": [1, 5], "split_score": 0.4399674097889069}
+{"sent": "man in suspenders", "ann_id": 453172, "best_split": [3, 2], "split_score": 0.416356288103942}
+{"sent": "dark shirt bending over", "ann_id": 453172, "best_split": [3, 1], "split_score": 0.251303391196666}
+{"sent": "the man in green shirt", "ann_id": 453172, "best_split": [1, 5], "split_score": 0.4399674097889069}

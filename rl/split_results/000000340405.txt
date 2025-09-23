@@ -1,0 +1,6 @@
+{"sent": "plane wing", "ann_id": 161759, "best_split": [2, 1], "split_score": 0.7487643494599504}
+{"sent": "side wing", "ann_id": 161759, "best_split": [2, 1], "split_score": 0.7487643494599504}
+{"sent": "wing", "ann_id": 161759, "best_split": [2, 1], "split_score": 0.7487643494599504}
+{"sent": "tail of the plane", "ann_id": 161429, "best_split": [3, 1], "split_score": 0.47663551400364246}
+{"sent": "plane with design", "ann_id": 161429, "best_split": [3, 1], "split_score": 0.47663551400364246}
+{"sent": "tailwing", "ann_id": 161429, "best_split": [3, 1], "split_score": 0.47663551400364246}

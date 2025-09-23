@@ -1,0 +1,10 @@
+{"sent": "gray cushion under the pizza", "ann_id": 1936205, "best_split": [2, 1], "split_score": 0.549824617325023}
+{"sent": "light armchair in the background", "ann_id": 1935084, "best_split": [3, 2], "split_score": 0.589046199647071}
+{"sent": "tan over stuffed chair", "ann_id": 1935084, "best_split": [3, 2], "split_score": 0.589046199647071}
+{"sent": "chair behind pizza", "ann_id": 1935084, "best_split": [2, 3], "split_score": 0.40249917786891654}
+{"sent": "guys legs", "ann_id": 1740048, "best_split": [2, 3], "split_score": 0.9008695651194707}
+{"sent": "jeans", "ann_id": 1740048, "best_split": [2, 3], "split_score": 0.9008695651194707}
+{"sent": "blue jeans", "ann_id": 1740048, "best_split": [2, 3], "split_score": 0.9008695651194707}
+{"sent": "object holding a slice of pizza", "ann_id": 262893, "best_split": [2, 1], "split_score": 0.3181834977527183}
+{"sent": "hand", "ann_id": 262893, "best_split": [2, 3], "split_score": 0.7462990376807643}
+{"sent": "hand holding pizza", "ann_id": 262893, "best_split": [2, 3], "split_score": 0.7462990376807643}

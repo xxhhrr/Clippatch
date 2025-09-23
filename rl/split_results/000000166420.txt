@@ -1,0 +1,6 @@
+{"sent": "not player", "ann_id": 1725816, "best_split": [1, 2], "split_score": 0.12057557397478573}
+{"sent": "sideliner not the player", "ann_id": 1725816, "best_split": [1, 2], "split_score": 0.12057557397478573}
+{"sent": "black clothes", "ann_id": 1725816, "best_split": [1, 5], "split_score": 0.3069196428260025}
+{"sent": "tennis player", "ann_id": 484821, "best_split": [1, 5], "split_score": 0.6327231120678182}
+{"sent": "player", "ann_id": 484821, "best_split": [1, 5], "split_score": 0.6327231120678182}
+{"sent": "white man", "ann_id": 484821, "best_split": [1, 5], "split_score": 0.6327231120678182}

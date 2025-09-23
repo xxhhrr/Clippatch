@@ -1,0 +1,10 @@
+{"sent": "man with blue shirt", "ann_id": 530910, "best_split": [1, 2], "split_score": 0.7125717474205767}
+{"sent": "dark shirt", "ann_id": 530910, "best_split": [1, 2], "split_score": 0.7125717474205767}
+{"sent": "player in dark", "ann_id": 530910, "best_split": [2, 1], "split_score": 0.34450494428762973}
+{"sent": "man holding bass", "ann_id": 513520, "best_split": [1, 5], "split_score": 0.456180547573824}
+{"sent": "guy with hat holding large guitar", "ann_id": 513520, "best_split": [1, 5], "split_score": 0.456180547573824}
+{"sent": "hat", "ann_id": 513520, "best_split": [1, 3], "split_score": 0.4486861675553844}
+{"sent": "dude not facing us", "ann_id": 491975, "best_split": [5, 1], "split_score": 0.1251900658815769}
+{"sent": "back to us", "ann_id": 491975, "best_split": [1, 3], "split_score": 0.4768339768052103}
+{"sent": "white print shirt with back to us", "ann_id": 491975, "best_split": [1, 5], "split_score": 0.6040462427200103}
+{"sent": "man not facing you", "ann_id": 491975, "best_split": [1, 5], "split_score": 0.6040462427200103}

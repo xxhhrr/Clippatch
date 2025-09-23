@@ -1,0 +1,6 @@
+{"sent": "yellow", "ann_id": 1654868, "best_split": [3, 2], "split_score": 0.32191119687235625}
+{"sent": "yellow book", "ann_id": 1654868, "best_split": [3, 2], "split_score": 0.32191119687235625}
+{"sent": "curious george", "ann_id": 1654868, "best_split": [3, 2], "split_score": 0.32191119687235625}
+{"sent": "fortune book", "ann_id": 1649292, "best_split": [3, 2], "split_score": 0.36608514866075337}
+{"sent": "fortune", "ann_id": 1649292, "best_split": [3, 1], "split_score": 0.1345389314392253}
+{"sent": "fortune", "ann_id": 1649292, "best_split": [3, 1], "split_score": 0.1345389314392253}

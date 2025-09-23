@@ -1,0 +1,6 @@
+{"sent": "man in a gray hoodie", "ann_id": 477499, "best_split": [1, 5], "split_score": 0.44034090904623163}
+{"sent": "white coat black pants", "ann_id": 477499, "best_split": [1, 5], "split_score": 0.44034090904623163}
+{"sent": "man with gray shirt", "ann_id": 477499, "best_split": [1, 5], "split_score": 0.44034090904623163}
+{"sent": "cop", "ann_id": 433098, "best_split": [3, 1], "split_score": 0.15468227423940833}
+{"sent": "policeman", "ann_id": 433098, "best_split": [3, 1], "split_score": 0.15468227423940833}
+{"sent": "officer", "ann_id": 433098, "best_split": [3, 1], "split_score": 0.15468227423940833}

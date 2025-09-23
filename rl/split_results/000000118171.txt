@@ -1,0 +1,6 @@
+{"sent": "shirtless", "ann_id": 468262, "best_split": [1, 2], "split_score": 0.5813953488152599}
+{"sent": "shirtless guy", "ann_id": 468262, "best_split": [1, 2], "split_score": 0.5813953488152599}
+{"sent": "man no shirt", "ann_id": 468262, "best_split": [1, 2], "split_score": 0.5813953488152599}
+{"sent": "guy with shirt", "ann_id": 433918, "best_split": [1, 3], "split_score": 0.3542663169127347}
+{"sent": "gray shirt", "ann_id": 433918, "best_split": [1, 2], "split_score": 0.5556348073981585}
+{"sent": "man with shirt on", "ann_id": 433918, "best_split": [1, 3], "split_score": 0.3542663169127347}

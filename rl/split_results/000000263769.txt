@@ -1,0 +1,6 @@
+{"sent": "openest laptop", "ann_id": 1098899, "best_split": [3, 2], "split_score": 0.495954515581024}
+{"sent": "laptop between two others shown", "ann_id": 1098899, "best_split": [3, 2], "split_score": 0.495954515581024}
+{"sent": "laptop with screen tilted back", "ann_id": 1098899, "best_split": [3, 2], "split_score": 0.495954515581024}
+{"sent": "big open screen", "ann_id": 1097785, "best_split": [1, 2], "split_score": 0.40523036764251197}
+{"sent": "closest laptop", "ann_id": 1097785, "best_split": [1, 3], "split_score": 0.3986173123894968}
+{"sent": "laptop", "ann_id": 1097785, "best_split": [1, 3], "split_score": 0.3986173123894968}

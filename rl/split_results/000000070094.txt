@@ -1,0 +1,5 @@
+{"sent": "object furthest hard to see", "ann_id": 2215731, "best_split": [2, 1], "split_score": 0.1267538265255599}
+{"sent": "something blue above the hot dog", "ann_id": 2215731, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "cola cup", "ann_id": 672275, "best_split": [3, 2], "split_score": 0.674469111887733}
+{"sent": "soda", "ann_id": 672275, "best_split": [3, 2], "split_score": 0.674469111887733}
+{"sent": "coca cola", "ann_id": 672275, "best_split": [3, 2], "split_score": 0.674469111887733}

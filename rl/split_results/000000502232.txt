@@ -1,0 +1,6 @@
+{"sent": "blue vase", "ann_id": 1668821, "best_split": [3, 3], "split_score": 0.6865473822586899}
+{"sent": "blue glass vase", "ann_id": 1668821, "best_split": [3, 3], "split_score": 0.6865473822586899}
+{"sent": "blue vase", "ann_id": 1668821, "best_split": [3, 3], "split_score": 0.6865473822586899}
+{"sent": "brown vase", "ann_id": 1152734, "best_split": [3, 3], "split_score": 0.4563934425481322}
+{"sent": "thing under the blue thing", "ann_id": 1152734, "best_split": [1, 5], "split_score": 0.3080867849794786}
+{"sent": "vase with red", "ann_id": 1152734, "best_split": [3, 3], "split_score": 0.4563934425481322}

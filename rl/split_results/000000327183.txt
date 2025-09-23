@@ -1,0 +1,6 @@
+{"sent": "pie piece not near fork that is rectangular", "ann_id": 2189715, "best_split": [2, 1], "split_score": 0.33745781776091616}
+{"sent": "ten o clock pie", "ann_id": 1928744, "best_split": [1, 3], "split_score": 0.1073025335270444}
+{"sent": "shortest piece of cake", "ann_id": 1928744, "best_split": [1, 5], "split_score": 0.32917705733095565}
+{"sent": "fork in it", "ann_id": 1086048, "best_split": [1, 5], "split_score": 0.28733674046796304}
+{"sent": "above forks tip", "ann_id": 1086048, "best_split": [1, 5], "split_score": 0.28733674046796304}
+{"sent": "slice covering fork", "ann_id": 1084527, "best_split": [2, 2], "split_score": 0.5343143996331787}

@@ -1,0 +1,6 @@
+{"sent": "biden", "ann_id": 487312, "best_split": [1, 3], "split_score": 0.5548986486151726}
+{"sent": "man in back", "ann_id": 487312, "best_split": [1, 5], "split_score": 0.933238636268949}
+{"sent": "joe biden the man behind the president", "ann_id": 487312, "best_split": [1, 5], "split_score": 0.933238636268949}
+{"sent": "obama", "ann_id": 426156, "best_split": [1, 2], "split_score": 0.5927075003808505}
+{"sent": "barry the petulant obama", "ann_id": 426156, "best_split": [1, 2], "split_score": 0.5927075003808505}
+{"sent": "obama", "ann_id": 426156, "best_split": [1, 2], "split_score": 0.5927075003808505}

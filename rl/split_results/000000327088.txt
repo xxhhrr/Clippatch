@@ -1,0 +1,8 @@
+{"sent": "black shorts man talking", "ann_id": 1276279, "best_split": [3, 3], "split_score": 0.34589235122579426}
+{"sent": "person talking", "ann_id": 1276279, "best_split": [1, 5], "split_score": 0.34203402935595184}
+{"sent": "white shirt flower shorts", "ann_id": 1248408, "best_split": [1, 5], "split_score": 0.40584415580297845}
+{"sent": "white shirt flower shorts", "ann_id": 1248408, "best_split": [1, 5], "split_score": 0.40584415580297845}
+{"sent": "person in white flower shot", "ann_id": 1248408, "best_split": [1, 5], "split_score": 0.40584415580297845}
+{"sent": "solid black clothes with hat", "ann_id": 1238628, "best_split": [2, 3], "split_score": 0.35024855008800243}
+{"sent": "overweight in black", "ann_id": 1238628, "best_split": [1, 5], "split_score": 0.48193993501603694}
+{"sent": "man with bandana in black", "ann_id": 1238628, "best_split": [3, 2], "split_score": 0.2655794991006038}

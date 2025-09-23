@@ -1,0 +1,9 @@
+{"sent": "more reflection cat", "ann_id": 50516, "best_split": [2, 3], "split_score": 0.5308595934616017}
+{"sent": "the cat we can see most of", "ann_id": 50516, "best_split": [2, 3], "split_score": 0.5308595934616017}
+{"sent": "cat reflection without person", "ann_id": 50516, "best_split": [2, 3], "split_score": 0.5308595934616017}
+{"sent": "the cat nearest the camera", "ann_id": 50099, "best_split": [3, 2], "split_score": 0.43153390384862295}
+{"sent": "cat face nearest the camera", "ann_id": 50099, "best_split": [3, 2], "split_score": 0.43153390384862295}
+{"sent": "reflection of cat with back to us", "ann_id": 50099, "best_split": [1, 5], "split_score": 0.2981927710639244}
+{"sent": "actual cat", "ann_id": 48069, "best_split": [1, 2], "split_score": 0.6066382297851693}
+{"sent": "nonreflection cat", "ann_id": 48069, "best_split": [3, 1], "split_score": 0.3565229276171488}
+{"sent": "cat not in mirror", "ann_id": 48069, "best_split": [3, 1], "split_score": 0.3565229276171488}

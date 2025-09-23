@@ -1,0 +1,9 @@
+{"sent": "elephant with longest tusks", "ann_id": 584621, "best_split": [1, 2], "split_score": 0.9041772958823271}
+{"sent": "elephant with long tusks", "ann_id": 584621, "best_split": [1, 2], "split_score": 0.9041772958823271}
+{"sent": "elephant you can see eyes", "ann_id": 584621, "best_split": [1, 2], "split_score": 0.9041772958823271}
+{"sent": "elephant in the back", "ann_id": 583351, "best_split": [1, 2], "split_score": 0.3681642481348405}
+{"sent": "elephant where you cant see its head", "ann_id": 583351, "best_split": [1, 2], "split_score": 0.3681642481348405}
+{"sent": "animal inbetween", "ann_id": 583351, "best_split": [3, 1], "split_score": 0.30318749059152056}
+{"sent": "elephant butt", "ann_id": 580939, "best_split": [2, 1], "split_score": 0.34109714985404893}
+{"sent": "the elephant you see the most of", "ann_id": 580939, "best_split": [2, 1], "split_score": 0.34109714985404893}
+{"sent": "elephant with shorter tusks", "ann_id": 580939, "best_split": [2, 1], "split_score": 0.34109714985404893}

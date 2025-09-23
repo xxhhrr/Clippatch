@@ -1,0 +1,10 @@
+{"sent": "silver door closest to television", "ann_id": 333269, "best_split": [5, 1], "split_score": 0.09110361286387099}
+{"sent": "fridge farthest from door", "ann_id": 333269, "best_split": [3, 1], "split_score": 0.11112347051662272}
+{"sent": "refridgerator nearest tv and wall", "ann_id": 333269, "best_split": [3, 2], "split_score": 0.20614940154703368}
+{"sent": "second locker", "ann_id": 333037, "best_split": [5, 1], "split_score": 0.10614345447843812}
+{"sent": "fridge number 2", "ann_id": 333037, "best_split": [3, 2], "split_score": 0.22271268055550633}
+{"sent": "locker 2 from door", "ann_id": 332856, "best_split": [3, 1], "split_score": 0.13391241403578344}
+{"sent": "number two appliance from door", "ann_id": 332856, "best_split": [1, 3], "split_score": 0.2990759388520865}
+{"sent": "close to door", "ann_id": 332565, "best_split": [1, 3], "split_score": 0.4097722302016444}
+{"sent": "fridge by the door", "ann_id": 332565, "best_split": [1, 3], "split_score": 0.4097722302016444}
+{"sent": "the steel fridge next to the door", "ann_id": 332565, "best_split": [1, 3], "split_score": 0.4097722302016444}

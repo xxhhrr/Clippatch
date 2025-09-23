@@ -1,0 +1,6 @@
+{"sent": "the bowl with the greens in it", "ann_id": 1039373, "best_split": [1, 2], "split_score": 0.46861924685192086}
+{"sent": "plate carrots", "ann_id": 1039373, "best_split": [1, 2], "split_score": 0.46861924685192086}
+{"sent": "white food with green", "ann_id": 1039373, "best_split": [1, 2], "split_score": 0.46861924685192086}
+{"sent": "red spoon dish", "ann_id": 716731, "best_split": [3, 3], "split_score": 0.5319822671735304}
+{"sent": "the soup with a spoon in the bowl", "ann_id": 716731, "best_split": [3, 3], "split_score": 0.5319822671735304}
+{"sent": "gray bowl with red spoon", "ann_id": 716731, "best_split": [3, 3], "split_score": 0.5319822671735304}

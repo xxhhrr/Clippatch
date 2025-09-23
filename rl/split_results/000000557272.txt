@@ -1,0 +1,6 @@
+{"sent": "bus shaded by tree", "ann_id": 168803, "best_split": [1, 5], "split_score": 0.17364520163888292}
+{"sent": "partially visible bus", "ann_id": 168803, "best_split": [5, 1], "split_score": 0.16948014577311718}
+{"sent": "white bus with no words on it", "ann_id": 168803, "best_split": [5, 1], "split_score": 0.16948014577311718}
+{"sent": "the brukmann bus", "ann_id": 168138, "best_split": [5, 1], "split_score": 0.41571006884095524}
+{"sent": "beckmann bus", "ann_id": 168138, "best_split": [5, 1], "split_score": 0.41571006884095524}
+{"sent": "white bus with black letters", "ann_id": 168138, "best_split": [5, 1], "split_score": 0.41571006884095524}

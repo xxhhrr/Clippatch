@@ -1,0 +1,6 @@
+{"sent": "darker dog", "ann_id": 17161, "best_split": [3, 2], "split_score": 0.598327234647326}
+{"sent": "one on the pillow", "ann_id": 17161, "best_split": [3, 1], "split_score": 0.33378592439840543}
+{"sent": "dog with head on pillow", "ann_id": 17161, "best_split": [3, 2], "split_score": 0.598327234647326}
+{"sent": "dog with head on couch", "ann_id": 13473, "best_split": [2, 2], "split_score": 0.32979214778061644}
+{"sent": "dog head closer to floor", "ann_id": 13473, "best_split": [3, 1], "split_score": 0.20413699558018894}
+{"sent": "dog with more white", "ann_id": 13473, "best_split": [3, 1], "split_score": 0.20413699558018894}

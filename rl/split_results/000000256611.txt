@@ -1,0 +1,8 @@
+{"sent": "some kind of windowsill maybe almost off screen", "ann_id": 1969992, "best_split": [2, 3], "split_score": 0.6275160821096165}
+{"sent": "large screen but is cut off", "ann_id": 1969992, "best_split": [5, 1], "split_score": 0.15969888424790302}
+{"sent": "mans face on screen", "ann_id": 124330, "best_split": [3, 3], "split_score": 0.3339983374340817}
+{"sent": "screen with face on it", "ann_id": 124330, "best_split": [3, 3], "split_score": 0.3339983374340817}
+{"sent": "small laptop screen", "ann_id": 124330, "best_split": [3, 2], "split_score": 0.30743243239533874}
+{"sent": "monitor not laptop", "ann_id": 30460, "best_split": [2, 1], "split_score": 0.4179687499833399}
+{"sent": "monitor not the laptop", "ann_id": 30460, "best_split": [2, 1], "split_score": 0.4179687499833399}
+{"sent": "desktop screen", "ann_id": 30460, "best_split": [1, 3], "split_score": 0.3458994379894614}

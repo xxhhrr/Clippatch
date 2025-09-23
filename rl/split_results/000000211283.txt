@@ -1,0 +1,6 @@
+{"sent": "12", "ann_id": 1726971, "best_split": [1, 2], "split_score": 0.4573032766182581}
+{"sent": "12", "ann_id": 1726971, "best_split": [1, 2], "split_score": 0.4573032766182581}
+{"sent": "texans football player ini blue", "ann_id": 1726971, "best_split": [2, 1], "split_score": 0.5045204827506917}
+{"sent": "white uniform", "ann_id": 433245, "best_split": [1, 3], "split_score": 0.21622033445521235}
+{"sent": "gray helmet", "ann_id": 433245, "best_split": [2, 1], "split_score": 0.2832074633406357}
+{"sent": "cowboy", "ann_id": 433245, "best_split": [3, 1], "split_score": 0.38086587948700895}

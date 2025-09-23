@@ -1,0 +1,6 @@
+{"sent": "curled", "ann_id": 49092, "best_split": [2, 3], "split_score": 0.44365438478305813}
+{"sent": "cat curled up", "ann_id": 49092, "best_split": [5, 1], "split_score": 0.26847457624843435}
+{"sent": "curled up cat", "ann_id": 49092, "best_split": [5, 1], "split_score": 0.26847457624843435}
+{"sent": "the cat whos not rolled up in a ball", "ann_id": 46796, "best_split": [2, 2], "split_score": 0.41134635371675987}
+{"sent": "cat with arm raised out", "ann_id": 46796, "best_split": [2, 2], "split_score": 0.41134635371675987}
+{"sent": "gray cat", "ann_id": 46796, "best_split": [2, 2], "split_score": 0.41134635371675987}

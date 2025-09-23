@@ -1,0 +1,6 @@
+{"sent": "horse under man in blue shirt", "ann_id": 57239, "best_split": [1, 3], "split_score": 0.5740830115483782}
+{"sent": "horse closest to bull with blue and white rider", "ann_id": 57239, "best_split": [1, 3], "split_score": 0.5740830115483782}
+{"sent": "horse", "ann_id": 57239, "best_split": [1, 3], "split_score": 0.5740830115483782}
+{"sent": "horse under red shirt", "ann_id": 56308, "best_split": [3, 1], "split_score": 0.13249078461650918}
+{"sent": "horse facing us", "ann_id": 56308, "best_split": [3, 1], "split_score": 0.13249078461650918}
+{"sent": "horse bleow red shirt", "ann_id": 56308, "best_split": [3, 1], "split_score": 0.13249078461650918}

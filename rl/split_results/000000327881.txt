@@ -1,0 +1,6 @@
+{"sent": "zebra not near gate", "ann_id": 591076, "best_split": [3, 1], "split_score": 0.17139361097009162}
+{"sent": "behind is in our face", "ann_id": 591076, "best_split": [1, 2], "split_score": 0.4077248086572176}
+{"sent": "zebra str8", "ann_id": 591076, "best_split": [3, 1], "split_score": 0.17139361097009162}
+{"sent": "zebra facing fence", "ann_id": 588651, "best_split": [1, 2], "split_score": 0.6421396683417514}
+{"sent": "zebra turned at angle", "ann_id": 588651, "best_split": [1, 2], "split_score": 0.6421396683417514}
+{"sent": "zebra with face near gate", "ann_id": 588651, "best_split": [1, 2], "split_score": 0.6421396683417514}

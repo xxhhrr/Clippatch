@@ -1,0 +1,9 @@
+{"sent": "the one thats leaning", "ann_id": 156294, "best_split": [1, 2], "split_score": 0.3077965561101803}
+{"sent": "black bike near door", "ann_id": 156294, "best_split": [3, 3], "split_score": 0.5461574507326432}
+{"sent": "motorcycle near the red and pink art", "ann_id": 156294, "best_split": [3, 3], "split_score": 0.5461574507326432}
+{"sent": "motorcycle with tall mirrors", "ann_id": 155400, "best_split": [1, 3], "split_score": 0.6208614122109076}
+{"sent": "bike parked away from the other two", "ann_id": 155400, "best_split": [1, 3], "split_score": 0.6208614122109076}
+{"sent": "bike at 9pm", "ann_id": 155400, "best_split": [1, 3], "split_score": 0.6208614122109076}
+{"sent": "bike with 2 lights", "ann_id": 155142, "best_split": [3, 1], "split_score": 0.2096317280347212}
+{"sent": "bike with widest windshield", "ann_id": 155142, "best_split": [3, 1], "split_score": 0.2096317280347212}
+{"sent": "main motorcycle", "ann_id": 155142, "best_split": [3, 1], "split_score": 0.2096317280347212}

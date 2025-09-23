@@ -1,0 +1,18 @@
+{"sent": "black spade on board", "ann_id": 1477991, "best_split": [1, 5], "split_score": 0.5509334415025433}
+{"sent": "blue yellow green and red board", "ann_id": 1477991, "best_split": [2, 1], "split_score": 0.12372045069137196}
+{"sent": "blue yellow red and black board", "ann_id": 1477991, "best_split": [2, 1], "split_score": 0.07276434195469754}
+{"sent": "white board", "ann_id": 642391, "best_split": [1, 5], "split_score": 0.8902191557538333}
+{"sent": "white board", "ann_id": 642391, "best_split": [1, 5], "split_score": 0.8902191557538333}
+{"sent": "blue and red lines one", "ann_id": 642391, "best_split": [1, 5], "split_score": 0.8902191557538333}
+{"sent": "board with pink and blue monsters", "ann_id": 1861727, "best_split": [3, 2], "split_score": 0.19270833331541032}
+{"sent": "neon totem pole", "ann_id": 1861727, "best_split": [3, 3], "split_score": 0.26095717880844366}
+{"sent": "board with five faces", "ann_id": 1861727, "best_split": [1, 5], "split_score": 0.46022727268057756}
+{"sent": "green skateboard with creepy picture", "ann_id": 1861192, "best_split": [1, 3], "split_score": 0.6255438515785697}
+{"sent": "green deck", "ann_id": 1861192, "best_split": [1, 3], "split_score": 0.6255438515785697}
+{"sent": "green monster", "ann_id": 1861192, "best_split": [1, 3], "split_score": 0.6255438515785697}
+{"sent": "man in light blue walking away", "ann_id": 546603, "best_split": [2, 3], "split_score": 0.27574681425989694}
+{"sent": "white shirt man between boards", "ann_id": 546603, "best_split": [3, 3], "split_score": 0.2328874901346856}
+{"sent": "man with blue gray shirt", "ann_id": 546603, "best_split": [2, 3], "split_score": 0.27574681425989694}
+{"sent": "man looking between boards", "ann_id": 546493, "best_split": [3, 1], "split_score": 0.10182370820116024}
+{"sent": "man in cap", "ann_id": 546493, "best_split": [3, 3], "split_score": 0.25614418347130746}
+{"sent": "man in black shirt", "ann_id": 546493, "best_split": [2, 3], "split_score": 0.31192660547051915}

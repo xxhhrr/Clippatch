@@ -1,0 +1,6 @@
+{"sent": "empty bike", "ann_id": 152786, "best_split": [2, 2], "split_score": 0.5160256409938347}
+{"sent": "blue motorcycle", "ann_id": 152786, "best_split": [2, 2], "split_score": 0.5160256409938347}
+{"sent": "blue motorcycle", "ann_id": 152786, "best_split": [2, 2], "split_score": 0.5160256409938347}
+{"sent": "bike seated on", "ann_id": 150620, "best_split": [3, 2], "split_score": 0.41582650319751746}
+{"sent": "bike guy is on", "ann_id": 150620, "best_split": [3, 2], "split_score": 0.41582650319751746}
+{"sent": "bike with man on it", "ann_id": 150620, "best_split": [3, 2], "split_score": 0.41582650319751746}

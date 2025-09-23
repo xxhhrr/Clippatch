@@ -1,0 +1,12 @@
+{"sent": "woman smiling", "ann_id": 483858, "best_split": [1, 3], "split_score": 0.8234797296800507}
+{"sent": "lady with earrings", "ann_id": 483858, "best_split": [1, 3], "split_score": 0.8234797296800507}
+{"sent": "side of face girl with dangling earing", "ann_id": 483858, "best_split": [1, 2], "split_score": 0.5440848214068844}
+{"sent": "old woman in pink", "ann_id": 463225, "best_split": [1, 3], "split_score": 0.4984314671513977}
+{"sent": "pink shirt lady", "ann_id": 463225, "best_split": [1, 2], "split_score": 0.3293207908031999}
+{"sent": "pink shirt older lady", "ann_id": 463225, "best_split": [1, 3], "split_score": 0.4984314671513977}
+{"sent": "little girl", "ann_id": 446806, "best_split": [1, 3], "split_score": 0.48478354047981226}
+{"sent": "little girl", "ann_id": 446806, "best_split": [1, 3], "split_score": 0.48478354047981226}
+{"sent": "girl with pizza", "ann_id": 446806, "best_split": [1, 3], "split_score": 0.48478354047981226}
+{"sent": "baby in cart", "ann_id": 429023, "best_split": [1, 5], "split_score": 0.5153446997394111}
+{"sent": "child pointing", "ann_id": 429023, "best_split": [1, 5], "split_score": 0.5153446997394111}
+{"sent": "baby boy in cart", "ann_id": 429023, "best_split": [1, 5], "split_score": 0.5153446997394111}

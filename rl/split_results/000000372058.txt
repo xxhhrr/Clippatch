@@ -1,0 +1,6 @@
+{"sent": "bruised banana", "ann_id": 1044762, "best_split": [5, 1], "split_score": 0.20917085425493318}
+{"sent": "banana on table closes to milk", "ann_id": 1044762, "best_split": [5, 1], "split_score": 0.20917085425493318}
+{"sent": "banana not in hand closest to milk", "ann_id": 1044762, "best_split": [5, 1], "split_score": 0.20917085425493318}
+{"sent": "banana in hand", "ann_id": 1044230, "best_split": [2, 3], "split_score": 0.4780819295101376}
+{"sent": "in hand", "ann_id": 1044230, "best_split": [2, 3], "split_score": 0.4780819295101376}
+{"sent": "in your face banana", "ann_id": 1044230, "best_split": [2, 3], "split_score": 0.4780819295101376}

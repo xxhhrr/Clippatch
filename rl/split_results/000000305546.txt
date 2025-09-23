@@ -1,0 +1,13 @@
+{"sent": "first instance of red chair", "ann_id": 1939527, "best_split": [1, 2], "split_score": 0.9645248724105339}
+{"sent": "red chair seat cats layin on", "ann_id": 1939527, "best_split": [1, 2], "split_score": 0.9645248724105339}
+{"sent": "chair under single cat", "ann_id": 1939527, "best_split": [1, 5], "split_score": 0.39211838768734697}
+{"sent": "brown stuff kitty is laying on", "ann_id": 1584156, "best_split": [1, 2], "split_score": 0.9694133312066494}
+{"sent": "chair of cat looking away not one with paw on face", "ann_id": 1584156, "best_split": [1, 3], "split_score": 0.6529497882858011}
+{"sent": "cat being held down in picture 2", "ann_id": 52136, "best_split": [1, 3], "split_score": 0.606998234835064}
+{"sent": "caut under the other with a visible head", "ann_id": 52136, "best_split": [3, 1], "split_score": 0.2780346820694453}
+{"sent": "cat with eyes visable", "ann_id": 51371, "best_split": [1, 2], "split_score": 0.5874222802824671}
+{"sent": "t op cat at 3 o clock", "ann_id": 51371, "best_split": [1, 2], "split_score": 0.5874222802824671}
+{"sent": "cat on 3pm side above other cat there", "ann_id": 51371, "best_split": [1, 2], "split_score": 0.5874222802824671}
+{"sent": "cat whose eyes can not be seen", "ann_id": 51086, "best_split": [3, 1], "split_score": 0.25843364540576486}
+{"sent": "left cat", "ann_id": 51086, "best_split": [3, 1], "split_score": 0.25843364540576486}
+{"sent": "first cat", "ann_id": 51086, "best_split": [3, 1], "split_score": 0.25843364540576486}

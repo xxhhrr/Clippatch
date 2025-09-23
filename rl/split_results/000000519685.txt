@@ -1,0 +1,6 @@
+{"sent": "woman not in black", "ann_id": 218466, "best_split": [2, 2], "split_score": 0.29305135950080646}
+{"sent": "pink shirt", "ann_id": 218466, "best_split": [1, 5], "split_score": 0.7295188555974058}
+{"sent": "smaller blond", "ann_id": 218466, "best_split": [1, 5], "split_score": 0.7295188555974058}
+{"sent": "person in black", "ann_id": 194305, "best_split": [1, 3], "split_score": 0.8648235226975909}
+{"sent": "ugly black shirt woman", "ann_id": 194305, "best_split": [1, 3], "split_score": 0.8648235226975909}
+{"sent": "woman in blk", "ann_id": 194305, "best_split": [1, 3], "split_score": 0.8648235226975909}

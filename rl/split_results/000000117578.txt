@@ -1,0 +1,8 @@
+{"sent": "slice with least amount of onions", "ann_id": 1570901, "best_split": [3, 3], "split_score": 0.4310035841907703}
+{"sent": "pizza slice cant see round sausage on", "ann_id": 1570901, "best_split": [2, 3], "split_score": 0.48216540400235436}
+{"sent": "slice cut off from picture further from us", "ann_id": 1570901, "best_split": [1, 3], "split_score": 0.6175679712806951}
+{"sent": "slice of pizza fully visible", "ann_id": 1073951, "best_split": [2, 1], "split_score": 0.4100267535067458}
+{"sent": "curled pepperoni near tip", "ann_id": 1073951, "best_split": [2, 1], "split_score": 0.4100267535067458}
+{"sent": "only piece of pizza fully visible", "ann_id": 1073951, "best_split": [2, 1], "split_score": 0.4100267535067458}
+{"sent": "slice of pizza at 9 o clock", "ann_id": 1070799, "best_split": [2, 1], "split_score": 0.3668304350518188}
+{"sent": "onion ring pointing straight up", "ann_id": 1070799, "best_split": [1, 2], "split_score": 0.6375711574705661}

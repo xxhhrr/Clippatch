@@ -1,0 +1,12 @@
+{"sent": "orange shirt", "ann_id": 234948, "best_split": [1, 5], "split_score": 0.6025914383629168}
+{"sent": "woman in pink", "ann_id": 234948, "best_split": [1, 3], "split_score": 0.5685361046067887}
+{"sent": "woman in pink", "ann_id": 234948, "best_split": [1, 3], "split_score": 0.5685361046067887}
+{"sent": "man in white shirt", "ann_id": 200594, "best_split": [3, 2], "split_score": 0.33573501447656007}
+{"sent": "man in white shirt", "ann_id": 200594, "best_split": [3, 2], "split_score": 0.33573501447656007}
+{"sent": "man in white shirt no glasses", "ann_id": 200594, "best_split": [3, 2], "split_score": 0.33573501447656007}
+{"sent": "blue", "ann_id": 2159659, "best_split": [1, 3], "split_score": 0.7134246574951548}
+{"sent": "blue guy", "ann_id": 2159659, "best_split": [1, 3], "split_score": 0.7134246574951548}
+{"sent": "blue shirt", "ann_id": 2159659, "best_split": [1, 3], "split_score": 0.7134246574951548}
+{"sent": "dark long hair", "ann_id": 1754605, "best_split": [1, 5], "split_score": 0.31896551721013267}
+{"sent": "girl in white without a scarf", "ann_id": 1754605, "best_split": [3, 2], "split_score": 0.2717553987308365}
+{"sent": "brunettes face no scarf", "ann_id": 1754605, "best_split": [3, 2], "split_score": 0.2717553987308365}

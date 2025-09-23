@@ -1,0 +1,6 @@
+{"sent": "couch", "ann_id": 112787, "best_split": [2, 3], "split_score": 0.3964524843889989}
+{"sent": "couch facing fireplace", "ann_id": 112787, "best_split": [3, 1], "split_score": 0.10064917352568604}
+{"sent": "light tan sofa", "ann_id": 112787, "best_split": [2, 2], "split_score": 0.2643120056179566}
+{"sent": "back of brown chair", "ann_id": 2224439, "best_split": [2, 3], "split_score": 0.5107384169267931}
+{"sent": "back of chair", "ann_id": 2224439, "best_split": [2, 2], "split_score": 0.20222142599769105}
+{"sent": "chair with its back to us", "ann_id": 2224439, "best_split": [2, 2], "split_score": 0.20222142599769105}

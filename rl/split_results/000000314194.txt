@@ -1,0 +1,6 @@
+{"sent": "person with blue bag", "ann_id": 257178, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "person holding blue bag", "ann_id": 257178, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "guy with blue", "ann_id": 257178, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "black jacket nearest the 47", "ann_id": 255255, "best_split": [2, 3], "split_score": 0.3623310810373635}
+{"sent": "black coat", "ann_id": 255255, "best_split": [3, 3], "split_score": 0.5160021454468081}
+{"sent": "leather jacket", "ann_id": 255255, "best_split": [2, 3], "split_score": 0.3623310810373635}

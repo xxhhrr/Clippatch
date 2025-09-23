@@ -1,0 +1,6 @@
+{"sent": "train in background", "ann_id": 1366834, "best_split": [3, 1], "split_score": 0.1795366795258484}
+{"sent": "train on other side of track in back", "ann_id": 1366834, "best_split": [2, 1], "split_score": 0.11862244897486358}
+{"sent": "silver train in background", "ann_id": 1366834, "best_split": [3, 1], "split_score": 0.1795366795258484}
+{"sent": "train by man", "ann_id": 170455, "best_split": [1, 2], "split_score": 0.6951530611967812}
+{"sent": "the train", "ann_id": 170455, "best_split": [1, 2], "split_score": 0.6951530611967812}
+{"sent": "train", "ann_id": 170455, "best_split": [1, 2], "split_score": 0.6951530611967812}

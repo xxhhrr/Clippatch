@@ -1,0 +1,6 @@
+{"sent": "man with red skateboard", "ann_id": 1693916, "best_split": [1, 3], "split_score": 0.25319937804968307}
+{"sent": "kid with skateboard looking away", "ann_id": 1693916, "best_split": [1, 3], "split_score": 0.25319937804968307}
+{"sent": "black tee shirt", "ann_id": 1693916, "best_split": [3, 3], "split_score": 0.27833981838153826}
+{"sent": "guy in white helmet and shirt", "ann_id": 1693174, "best_split": [1, 5], "split_score": 0.443372663815057}
+{"sent": "person in white helmet", "ann_id": 1693174, "best_split": [1, 5], "split_score": 0.443372663815057}
+{"sent": "skater skating", "ann_id": 1693174, "best_split": [1, 5], "split_score": 0.443372663815057}

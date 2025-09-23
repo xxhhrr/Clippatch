@@ -1,0 +1,5 @@
+{"sent": "largest elephant", "ann_id": 1410531, "best_split": [2, 2], "split_score": 0.504668497410383}
+{"sent": "elephant next to elephant in lead", "ann_id": 1410531, "best_split": [2, 2], "split_score": 0.504668497410383}
+{"sent": "elephant at 3 but not all the way over", "ann_id": 1410531, "best_split": [2, 2], "split_score": 0.504668497410383}
+{"sent": "nearest elephant", "ann_id": 1410489, "best_split": [2, 1], "split_score": 0.24202806121484263}
+{"sent": "elephant most not by water", "ann_id": 1410489, "best_split": [2, 1], "split_score": 0.24202806121484263}

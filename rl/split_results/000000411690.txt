@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 190872, "best_split": [1, 3], "split_score": 0.44656488546955125}
+{"sent": "female", "ann_id": 190872, "best_split": [1, 3], "split_score": 0.44656488546955125}
+{"sent": "lady", "ann_id": 190872, "best_split": [1, 3], "split_score": 0.44656488546955125}
+{"sent": "man in white shirt", "ann_id": 185313, "best_split": [2, 3], "split_score": 0.439003995127845}
+{"sent": "white shirt", "ann_id": 185313, "best_split": [2, 3], "split_score": 0.439003995127845}
+{"sent": "man", "ann_id": 185313, "best_split": [1, 2], "split_score": 0.22451456309828147}
+{"sent": "bike that woman has", "ann_id": 126359, "best_split": [2, 3], "split_score": 0.48857868015875827}
+{"sent": "bike under woman", "ann_id": 126359, "best_split": [2, 3], "split_score": 0.48857868015875827}
+{"sent": "ladies bike", "ann_id": 126359, "best_split": [2, 3], "split_score": 0.48857868015875827}
+{"sent": "guys bike", "ann_id": 124935, "best_split": [2, 2], "split_score": 0.5795333231218901}
+{"sent": "bike only man is on", "ann_id": 124935, "best_split": [2, 2], "split_score": 0.5795333231218901}
+{"sent": "what the man is on", "ann_id": 124935, "best_split": [2, 2], "split_score": 0.5795333231218901}

@@ -1,0 +1,9 @@
+{"sent": "corner dessert across from pie sign", "ann_id": 1929060, "best_split": [3, 2], "split_score": 0.2606177605863154}
+{"sent": "pie before sign", "ann_id": 1929000, "best_split": [2, 2], "split_score": 0.20224808671857078}
+{"sent": "pie near us", "ann_id": 1929000, "best_split": [3, 2], "split_score": 0.3061052123182788}
+{"sent": "the cake next to the sign but is covered by it less", "ann_id": 1929000, "best_split": [2, 2], "split_score": 0.20224808671857078}
+{"sent": "brown muffin 3 o clock", "ann_id": 1928089, "best_split": [3, 3], "split_score": 0.23996509595113943}
+{"sent": "number 2 fully shown pie", "ann_id": 1928089, "best_split": [1, 5], "split_score": 0.2054922473187472}
+{"sent": "snow covered looking donut", "ann_id": 1085668, "best_split": [3, 3], "split_score": 0.2918188458196094}
+{"sent": "white dessert", "ann_id": 1085668, "best_split": [5, 1], "split_score": 0.15661920628530554}
+{"sent": "white cake", "ann_id": 1085668, "best_split": [3, 3], "split_score": 0.2918188458196094}

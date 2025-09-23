@@ -1,0 +1,9 @@
+{"sent": "blue shirt in background", "ann_id": 485989, "best_split": [1, 5], "split_score": 0.4177264722737501}
+{"sent": "blue shirt and whit shorts", "ann_id": 485989, "best_split": [1, 5], "split_score": 0.4177264722737501}
+{"sent": "man in background with blue shirt", "ann_id": 485989, "best_split": [3, 1], "split_score": 0.15282608694821598}
+{"sent": "man wearing red shirt", "ann_id": 473361, "best_split": [1, 3], "split_score": 0.9562317631777388}
+{"sent": "man with gray in hair", "ann_id": 473361, "best_split": [1, 2], "split_score": 0.6487165178312853}
+{"sent": "guys head in corner of screen", "ann_id": 473361, "best_split": [1, 2], "split_score": 0.6487165178312853}
+{"sent": "man holding cake", "ann_id": 445308, "best_split": [1, 3], "split_score": 0.5973522763724026}
+{"sent": "man holding plate with bright shirt", "ann_id": 445308, "best_split": [1, 3], "split_score": 0.5973522763724026}
+{"sent": "man with stripes", "ann_id": 445308, "best_split": [1, 3], "split_score": 0.5973522763724026}

@@ -1,0 +1,14 @@
+{"sent": "ice cream has the tip of spoon over it", "ann_id": 1926951, "best_split": [3, 2], "split_score": 0.49312258681308846}
+{"sent": "ice cream with no spoon showing", "ann_id": 1926951, "best_split": [3, 2], "split_score": 0.49312258681308846}
+{"sent": "no spoon", "ann_id": 1926951, "best_split": [1, 2], "split_score": 0.16290656887105762}
+{"sent": "no spoon", "ann_id": 1903630, "best_split": [1, 2], "split_score": 0.24812659437786486}
+{"sent": "no spoon ice cream", "ann_id": 1903630, "best_split": [1, 2], "split_score": 0.24812659437786486}
+{"sent": "ice cream without visible spoon", "ann_id": 1903630, "best_split": [3, 2], "split_score": 0.554187192058879}
+{"sent": "has spoon but not close", "ann_id": 1088940, "best_split": [3, 1], "split_score": 0.15088079149668915}
+{"sent": "smallest dish of ice cream", "ann_id": 1088940, "best_split": [1, 5], "split_score": 0.17094665022543856}
+{"sent": "bowl with spoon further away", "ann_id": 1088940, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "with spoon less chocolate", "ann_id": 1085837, "best_split": [2, 3], "split_score": 0.6747166091116547}
+{"sent": "the closest ice cream", "ann_id": 1085837, "best_split": [2, 3], "split_score": 0.6747166091116547}
+{"sent": "closest", "ann_id": 711219, "best_split": [1, 5], "split_score": 0.2284527518064546}
+{"sent": "thats a stem smile xxxx closest dish with spoon", "ann_id": 711219, "best_split": [2, 1], "split_score": 0.6254826254579827}
+{"sent": "largest bowl", "ann_id": 711219, "best_split": [2, 1], "split_score": 0.6254826254579827}

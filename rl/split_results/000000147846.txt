@@ -1,0 +1,6 @@
+{"sent": "shorter person", "ann_id": 444892, "best_split": [3, 2], "split_score": 0.30434346471016716}
+{"sent": "gray shirt", "ann_id": 444892, "best_split": [3, 2], "split_score": 0.30434346471016716}
+{"sent": "the lady closest to steps", "ann_id": 444892, "best_split": [1, 3], "split_score": 0.17073573077253185}
+{"sent": "person with bags", "ann_id": 436788, "best_split": [3, 3], "split_score": 0.44285714281439603}
+{"sent": "person with luggage", "ann_id": 436788, "best_split": [1, 3], "split_score": 0.43816254414541944}
+{"sent": "man with suitcase but not the suitcase", "ann_id": 436788, "best_split": [1, 3], "split_score": 0.43816254414541944}

@@ -1,0 +1,5 @@
+{"sent": "food by drink", "ann_id": 2218829, "best_split": [3, 2], "split_score": 0.29898648645041187}
+{"sent": "sandwich with three leaves on plate", "ann_id": 2218829, "best_split": [3, 2], "split_score": 0.29898648645041187}
+{"sent": "food with green scallions atop", "ann_id": 2217848, "best_split": [3, 2], "split_score": 0.5072177795713763}
+{"sent": "pile of lettuce", "ann_id": 2217848, "best_split": [3, 2], "split_score": 0.5072177795713763}
+{"sent": "green on all white plate", "ann_id": 2217848, "best_split": [3, 1], "split_score": 0.3686895971925872}

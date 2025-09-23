@@ -1,0 +1,6 @@
+{"sent": "white laptop", "ann_id": 1102106, "best_split": [3, 1], "split_score": 0.15318279813042193}
+{"sent": "smaller comp", "ann_id": 1102106, "best_split": [3, 1], "split_score": 0.15318279813042193}
+{"sent": "small white laptop at side", "ann_id": 1102106, "best_split": [3, 1], "split_score": 0.15318279813042193}
+{"sent": "silver laptop", "ann_id": 1099755, "best_split": [1, 3], "split_score": 0.7138361244962439}
+{"sent": "silver laptop at edge", "ann_id": 1099755, "best_split": [1, 3], "split_score": 0.7138361244962439}
+{"sent": "gray laptop partial", "ann_id": 1099755, "best_split": [1, 3], "split_score": 0.7138361244962439}

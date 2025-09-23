@@ -1,0 +1,6 @@
+{"sent": "pepperoni", "ann_id": 1570062, "best_split": [1, 2], "split_score": 0.5482700892638604}
+{"sent": "pepperoni pizza", "ann_id": 1570062, "best_split": [1, 2], "split_score": 0.5482700892638604}
+{"sent": "cheese and pep pizza", "ann_id": 1570062, "best_split": [1, 2], "split_score": 0.5482700892638604}
+{"sent": "black pizza", "ann_id": 1076579, "best_split": [3, 1], "split_score": 0.33982365905860473}
+{"sent": "veggie pizza", "ann_id": 1076579, "best_split": [2, 2], "split_score": 0.4241051200484761}
+{"sent": "pizza with greens on it", "ann_id": 1076579, "best_split": [3, 2], "split_score": 0.515380150862204}

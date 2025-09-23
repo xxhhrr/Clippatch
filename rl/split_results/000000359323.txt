@@ -1,0 +1,6 @@
+{"sent": "elephant not in view", "ann_id": 582862, "best_split": [1, 2], "split_score": 0.4352678571255075}
+{"sent": "on edge at 3oclock", "ann_id": 582862, "best_split": [1, 3], "split_score": 0.6421404681890742}
+{"sent": "elephant partly showing", "ann_id": 582862, "best_split": [1, 2], "split_score": 0.4352678571255075}
+{"sent": "the elephant in the room", "ann_id": 580707, "best_split": [1, 3], "split_score": 0.4713221844633093}
+{"sent": "whole elephant", "ann_id": 580707, "best_split": [1, 3], "split_score": 0.4713221844633093}
+{"sent": "main elephant", "ann_id": 580707, "best_split": [1, 3], "split_score": 0.4713221844633093}

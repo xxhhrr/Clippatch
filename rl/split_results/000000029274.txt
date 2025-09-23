@@ -1,0 +1,6 @@
+{"sent": "hair dresser", "ann_id": 496088, "best_split": [2, 1], "split_score": 0.34645333332409456}
+{"sent": "man", "ann_id": 496088, "best_split": [1, 2], "split_score": 0.9284268418084853}
+{"sent": "man", "ann_id": 496088, "best_split": [1, 2], "split_score": 0.9284268418084853}
+{"sent": "red hair", "ann_id": 440880, "best_split": [1, 2], "split_score": 0.6911947245658963}
+{"sent": "girl", "ann_id": 440880, "best_split": [1, 2], "split_score": 0.6911947245658963}
+{"sent": "woman", "ann_id": 440880, "best_split": [1, 2], "split_score": 0.6911947245658963}

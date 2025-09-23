@@ -1,0 +1,6 @@
+{"sent": "red train", "ann_id": 174965, "best_split": [3, 3], "split_score": 0.6323097462440174}
+{"sent": "red old piece of train", "ann_id": 174965, "best_split": [3, 3], "split_score": 0.6323097462440174}
+{"sent": "red train", "ann_id": 174965, "best_split": [3, 3], "split_score": 0.6323097462440174}
+{"sent": "train nearest red one", "ann_id": 173620, "best_split": [3, 1], "split_score": 0.21846794722179658}
+{"sent": "green train on track number two", "ann_id": 173620, "best_split": [3, 3], "split_score": 0.610608020599837}
+{"sent": "train with gibberish on it", "ann_id": 173620, "best_split": [3, 3], "split_score": 0.610608020599837}

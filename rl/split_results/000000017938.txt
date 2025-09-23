@@ -1,0 +1,9 @@
+{"sent": "in air", "ann_id": 495890, "best_split": [2, 3], "split_score": 0.3334675795073029}
+{"sent": "skater in green", "ann_id": 495890, "best_split": [1, 2], "split_score": 0.1975446428492688}
+{"sent": "boy in air", "ann_id": 495890, "best_split": [2, 3], "split_score": 0.3334675795073029}
+{"sent": "hunched skater", "ann_id": 485616, "best_split": [1, 5], "split_score": 0.2854704096846102}
+{"sent": "yellow shirt", "ann_id": 485616, "best_split": [3, 3], "split_score": 0.531041388429399}
+{"sent": "person in long sleeve pants", "ann_id": 485616, "best_split": [3, 3], "split_score": 0.531041388429399}
+{"sent": "plaid shorts", "ann_id": 468257, "best_split": [3, 2], "split_score": 0.3439016833270782}
+{"sent": "black shirt", "ann_id": 468257, "best_split": [3, 3], "split_score": 0.484645611921897}
+{"sent": "black tshirt on skateboard", "ann_id": 468257, "best_split": [1, 5], "split_score": 0.24135876040853407}

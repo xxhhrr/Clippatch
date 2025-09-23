@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 526181, "best_split": [1, 2], "split_score": 0.9646045917982858}
+{"sent": "a man typing on a laptop", "ann_id": 526181, "best_split": [2, 1], "split_score": 0.31757912745087735}
+{"sent": "red shirt", "ann_id": 526181, "best_split": [1, 2], "split_score": 0.9646045917982858}
+{"sent": "guy with white shirt", "ann_id": 502871, "best_split": [1, 2], "split_score": 0.6727674907890839}
+{"sent": "the guy in white striped shirt", "ann_id": 502871, "best_split": [1, 2], "split_score": 0.6727674907890839}
+{"sent": "nosy dude", "ann_id": 502871, "best_split": [1, 2], "split_score": 0.6727674907890839}

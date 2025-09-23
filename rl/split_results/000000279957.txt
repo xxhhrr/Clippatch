@@ -1,0 +1,4 @@
+{"sent": "food northwest from bowl", "ann_id": 1909314, "best_split": [2, 1], "split_score": 0.29023079353895703}
+{"sent": "biggest taco thing", "ann_id": 1909314, "best_split": [1, 5], "split_score": 0.36105032819935523}
+{"sent": "most far piece of food on white plate", "ann_id": 1909314, "best_split": [2, 1], "split_score": 0.29023079353895703}
+{"sent": "taco nearest the bowl but not lying down", "ann_id": 308025, "best_split": [1, 2], "split_score": 0.15751789975536926}

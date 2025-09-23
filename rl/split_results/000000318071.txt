@@ -1,0 +1,5 @@
+{"sent": "books about bears", "ann_id": 1147332, "best_split": [5, 1], "split_score": 0.2702626641397502}
+{"sent": "bears book", "ann_id": 1147332, "best_split": [5, 1], "split_score": 0.2702626641397502}
+{"sent": "yellow", "ann_id": 1141529, "best_split": [3, 2], "split_score": 0.46619343385393136}
+{"sent": "book dog is reading", "ann_id": 1141529, "best_split": [3, 3], "split_score": 0.44428059822579724}
+{"sent": "the book", "ann_id": 1141529, "best_split": [3, 2], "split_score": 0.46619343385393136}

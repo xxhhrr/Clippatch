@@ -1,0 +1,6 @@
+{"sent": "slice still on plate with more green", "ann_id": 1076349, "best_split": [2, 3], "split_score": 0.6703232775974135}
+{"sent": "pizza at 900", "ann_id": 1075615, "best_split": [2, 2], "split_score": 0.8845686512086445}
+{"sent": "mostly cheese not in hand", "ann_id": 1075615, "best_split": [2, 2], "split_score": 0.8845686512086445}
+{"sent": "pizza in hand", "ann_id": 1074965, "best_split": [1, 2], "split_score": 0.5165458372159569}
+{"sent": "slice held up", "ann_id": 1074965, "best_split": [1, 2], "split_score": 0.5165458372159569}
+{"sent": "pizza slice being lifted", "ann_id": 1074965, "best_split": [1, 2], "split_score": 0.5165458372159569}

@@ -1,0 +1,6 @@
+{"sent": "blue toilet", "ann_id": 1096691, "best_split": [1, 3], "split_score": 0.3257704029642605}
+{"sent": "toilet bowl", "ann_id": 1096691, "best_split": [1, 3], "split_score": 0.3257704029642605}
+{"sent": "black toliet", "ann_id": 1096691, "best_split": [3, 1], "split_score": 0.47346631536784417}
+{"sent": "biege toilet closest to sink", "ann_id": 1095118, "best_split": [3, 3], "split_score": 0.6303972365241224}
+{"sent": "bide", "ann_id": 1095118, "best_split": [3, 2], "split_score": 0.39654320983737845}
+{"sent": "tan bidet", "ann_id": 1095118, "best_split": [3, 3], "split_score": 0.6303972365241224}

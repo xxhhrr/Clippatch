@@ -1,0 +1,6 @@
+{"sent": "computer", "ann_id": 35204, "best_split": [3, 3], "split_score": 0.5062089115218756}
+{"sent": "computer monitors", "ann_id": 35204, "best_split": [3, 3], "split_score": 0.5062089115218756}
+{"sent": "screens against wall", "ann_id": 35204, "best_split": [3, 3], "split_score": 0.5062089115218756}
+{"sent": "television", "ann_id": 29893, "best_split": [3, 2], "split_score": 0.28889915671838984}
+{"sent": "television", "ann_id": 29893, "best_split": [3, 2], "split_score": 0.28889915671838984}
+{"sent": "black box under white notebook with red thing", "ann_id": 29893, "best_split": [1, 5], "split_score": 0.29119318178863707}

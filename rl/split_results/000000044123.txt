@@ -1,0 +1,5 @@
+{"sent": "farther swan", "ann_id": 38635, "best_split": [2, 3], "split_score": 0.5576425598293058}
+{"sent": "goose farthest away", "ann_id": 38635, "best_split": [2, 3], "split_score": 0.5576425598293058}
+{"sent": "closet swan", "ann_id": 37548, "best_split": [3, 3], "split_score": 0.5145332268876629}
+{"sent": "bird closest to camera", "ann_id": 37548, "best_split": [2, 3], "split_score": 0.2984111621664319}
+{"sent": "swan 1", "ann_id": 37548, "best_split": [3, 3], "split_score": 0.5145332268876629}

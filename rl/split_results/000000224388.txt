@@ -1,0 +1,6 @@
+{"sent": "guy in flannel shirt", "ann_id": 2159613, "best_split": [1, 2], "split_score": 0.6471619897701226}
+{"sent": "the man drinking from the glass", "ann_id": 2159613, "best_split": [1, 2], "split_score": 0.6471619897701226}
+{"sent": "drinking guy", "ann_id": 2159613, "best_split": [1, 2], "split_score": 0.6471619897701226}
+{"sent": "glass structure nearest to camera", "ann_id": 80025, "best_split": [1, 2], "split_score": 0.2418686224393388}
+{"sent": "closest metal thing", "ann_id": 80025, "best_split": [1, 2], "split_score": 0.2418686224393388}
+{"sent": "taller bottle", "ann_id": 80025, "best_split": [1, 5], "split_score": 0.5148401825994254}

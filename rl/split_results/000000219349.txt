@@ -1,0 +1,18 @@
+{"sent": "chocolate creame pitcher", "ann_id": 2099621, "best_split": [3, 3], "split_score": 0.12686724172871164}
+{"sent": "cup with the chocolate syrup near ice cream", "ann_id": 2099621, "best_split": [3, 1], "split_score": 0.3097940310869036}
+{"sent": "sauce cup with chocolate", "ann_id": 2099621, "best_split": [5, 1], "split_score": 0.28947368418579345}
+{"sent": "sweet and low", "ann_id": 1535661, "best_split": [1, 5], "split_score": 0.1998857795355144}
+{"sent": "cup with sugars in it", "ann_id": 1535661, "best_split": [3, 2], "split_score": 0.3318050192649849}
+{"sent": "dark blue mug", "ann_id": 1535661, "best_split": [3, 2], "split_score": 0.3318050192649849}
+{"sent": "bowl ice cream", "ann_id": 1531900, "best_split": [3, 2], "split_score": 0.6321811679818615}
+{"sent": "bowl icecream", "ann_id": 1531900, "best_split": [3, 2], "split_score": 0.6321811679818615}
+{"sent": "dish with vanilla ice cream", "ann_id": 1531900, "best_split": [3, 2], "split_score": 0.6321811679818615}
+{"sent": "dark cup next to yellow cup", "ann_id": 2183316, "best_split": [3, 3], "split_score": 0.22761627903668366}
+{"sent": "cup with sugar packets", "ann_id": 2183316, "best_split": [3, 2], "split_score": 0.3583494208061837}
+{"sent": "dark blue cup at edge has pink sugar packet in it", "ann_id": 2183316, "best_split": [3, 2], "split_score": 0.3583494208061837}
+{"sent": "coffee that the creamer is pointing at", "ann_id": 684101, "best_split": [3, 1], "split_score": 0.31598513009317003}
+{"sent": "yellow cup coffee nearest spoon on orange saucer", "ann_id": 684101, "best_split": [3, 2], "split_score": 0.6093189963475225}
+{"sent": "cup by the fully visible sppon", "ann_id": 684101, "best_split": [3, 1], "split_score": 0.31598513009317003}
+{"sent": "coffee mug near sugar and cream", "ann_id": 680703, "best_split": [3, 2], "split_score": 0.46874999995051203}
+{"sent": "coffee cup nearest sugar packets", "ann_id": 680703, "best_split": [3, 2], "split_score": 0.46874999995051203}
+{"sent": "coffe cup 11 o clock", "ann_id": 680703, "best_split": [5, 1], "split_score": 0.2663612565227126}

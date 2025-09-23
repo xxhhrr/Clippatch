@@ -1,0 +1,6 @@
+{"sent": "sink number 1", "ann_id": 1982372, "best_split": [3, 2], "split_score": 0.5348314606140638}
+{"sent": "sink on the side the guy is facing", "ann_id": 1982372, "best_split": [3, 2], "split_score": 0.5348314606140638}
+{"sent": "sink at 7 on a clock", "ann_id": 1982372, "best_split": [1, 5], "split_score": 0.29577944177197246}
+{"sent": "the sink nearest the man", "ann_id": 1981591, "best_split": [3, 3], "split_score": 0.6515337422313598}
+{"sent": "sink closest to the man", "ann_id": 1981591, "best_split": [3, 3], "split_score": 0.6515337422313598}
+{"sent": "sink at 500", "ann_id": 1981591, "best_split": [3, 3], "split_score": 0.6515337422313598}

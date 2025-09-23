@@ -1,0 +1,14 @@
+{"sent": "laptop", "ann_id": 1970028, "best_split": [1, 3], "split_score": 0.30827702700842924}
+{"sent": "laptop blue screen", "ann_id": 1970028, "best_split": [3, 3], "split_score": 0.8391243917930639}
+{"sent": "laptop monitor", "ann_id": 1970028, "best_split": [3, 3], "split_score": 0.8391243917930639}
+{"sent": "back of monitor", "ann_id": 1969665, "best_split": [1, 3], "split_score": 0.35480953993699504}
+{"sent": "black thing behide the laptop", "ann_id": 1969665, "best_split": [1, 3], "split_score": 0.35480953993699504}
+{"sent": "the laptop with the black keyboard", "ann_id": 1628011, "best_split": [2, 3], "split_score": 0.3663107677911959}
+{"sent": "purple screen laptop", "ann_id": 1628011, "best_split": [2, 3], "split_score": 0.3663107677911959}
+{"sent": "galaxy screen", "ann_id": 1628011, "best_split": [1, 5], "split_score": 0.3795657467147356}
+{"sent": "samsung monitor", "ann_id": 1625386, "best_split": [1, 3], "split_score": 0.6360674156946029}
+{"sent": "monitor with program open", "ann_id": 1625386, "best_split": [1, 2], "split_score": 0.500079719367822}
+{"sent": "desktop", "ann_id": 1625386, "best_split": [1, 2], "split_score": 0.500079719367822}
+{"sent": "laptop with gray screen", "ann_id": 1100555, "best_split": [3, 3], "split_score": 0.43414311680431805}
+{"sent": "laptop blue screen", "ann_id": 1100555, "best_split": [3, 3], "split_score": 0.43414311680431805}
+{"sent": "dell laptop", "ann_id": 1100555, "best_split": [1, 3], "split_score": 0.37828150729544313}

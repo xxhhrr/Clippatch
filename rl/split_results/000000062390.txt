@@ -1,0 +1,5 @@
+{"sent": "pizza slice with server under it", "ann_id": 1926943, "best_split": [5, 1], "split_score": 0.1870202372481664}
+{"sent": "handle slice", "ann_id": 1926943, "best_split": [5, 1], "split_score": 0.1870202372481664}
+{"sent": "slice of pizza nearr handle of pizza tray", "ann_id": 1926943, "best_split": [5, 1], "split_score": 0.1870202372481664}
+{"sent": "slice near handle closet to beer", "ann_id": 1926933, "best_split": [5, 1], "split_score": 0.16699218748641015}
+{"sent": "slice at 12 o clock", "ann_id": 1926933, "best_split": [5, 1], "split_score": 0.20423244875678262}

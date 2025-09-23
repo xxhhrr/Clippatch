@@ -1,0 +1,6 @@
+{"sent": "mini van", "ann_id": 137602, "best_split": [2, 2], "split_score": 0.2655581947533208}
+{"sent": "car cutoff at the edge", "ann_id": 137602, "best_split": [2, 3], "split_score": 0.387600567867061}
+{"sent": "van", "ann_id": 137602, "best_split": [2, 1], "split_score": 0.13323270039988747}
+{"sent": "old school car", "ann_id": 134191, "best_split": [2, 3], "split_score": 0.31849315065084616}
+{"sent": "white car", "ann_id": 134191, "best_split": [2, 3], "split_score": 0.31849315065084616}
+{"sent": "white car by bus", "ann_id": 134191, "best_split": [2, 3], "split_score": 0.31849315065084616}

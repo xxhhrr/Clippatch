@@ -1,0 +1,14 @@
+{"sent": "bag of cat woman", "ann_id": 1179100, "best_split": [1, 5], "split_score": 0.2186282150995101}
+{"sent": "bag girl with hat is holdingman", "ann_id": 1179100, "best_split": [1, 5], "split_score": 0.2186282150995101}
+{"sent": "bag on girl in red", "ann_id": 1179100, "best_split": [2, 2], "split_score": 0.21141581630967668}
+{"sent": "woman frowning black scarf short brown hair", "ann_id": 539242, "best_split": [2, 3], "split_score": 0.22128851538402475}
+{"sent": "girl not in full view", "ann_id": 539242, "best_split": [5, 1], "split_score": 0.09821428570645613}
+{"sent": "wow lady water bottle", "ann_id": 539242, "best_split": [3, 1], "split_score": 0.11246200607292325}
+{"sent": "heart shaped girl", "ann_id": 489339, "best_split": [1, 2], "split_score": 0.7500797193578571}
+{"sent": "girl with heart", "ann_id": 489339, "best_split": [1, 2], "split_score": 0.7500797193578571}
+{"sent": "girl in striped socks holding a heart", "ann_id": 489339, "best_split": [1, 2], "split_score": 0.7500797193578571}
+{"sent": "black hat red jacket", "ann_id": 476229, "best_split": [1, 3], "split_score": 0.777870563627923}
+{"sent": "girl in hat", "ann_id": 476229, "best_split": [1, 3], "split_score": 0.777870563627923}
+{"sent": "black purse and plain white tights lady", "ann_id": 431766, "best_split": [1, 3], "split_score": 0.6780825402942302}
+{"sent": "girl with no hat texting", "ann_id": 431766, "best_split": [1, 3], "split_score": 0.6780825402942302}
+{"sent": "lady with black purse", "ann_id": 431766, "best_split": [1, 3], "split_score": 0.6780825402942302}

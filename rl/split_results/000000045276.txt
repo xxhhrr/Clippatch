@@ -1,0 +1,6 @@
+{"sent": "man in hat", "ann_id": 474341, "best_split": [1, 2], "split_score": 0.8456632652724145}
+{"sent": "man", "ann_id": 474341, "best_split": [2, 1], "split_score": 0.29196428570613936}
+{"sent": "guy", "ann_id": 474341, "best_split": [2, 1], "split_score": 0.29196428570613936}
+{"sent": "main woman", "ann_id": 450266, "best_split": [1, 2], "split_score": 0.546068308167542}
+{"sent": "woman", "ann_id": 450266, "best_split": [1, 2], "split_score": 0.546068308167542}
+{"sent": "the woman", "ann_id": 450266, "best_split": [1, 2], "split_score": 0.546068308167542}

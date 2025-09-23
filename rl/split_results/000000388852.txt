@@ -1,0 +1,12 @@
+{"sent": "beard dude", "ann_id": 465419, "best_split": [2, 2], "split_score": 0.5189136760067262}
+{"sent": "man in black", "ann_id": 465419, "best_split": [1, 5], "split_score": 0.44197901046162075}
+{"sent": "man in orange shirt", "ann_id": 465419, "best_split": [2, 2], "split_score": 0.5189136760067262}
+{"sent": "window man", "ann_id": 431210, "best_split": [2, 1], "split_score": 0.249043367337012}
+{"sent": "man closest to windows", "ann_id": 431210, "best_split": [2, 1], "split_score": 0.249043367337012}
+{"sent": "the guy with pizza in mouth on tan bed thing", "ann_id": 431210, "best_split": [1, 3], "split_score": 0.3769305019077624}
+{"sent": "green bottle on the table", "ann_id": 89637, "best_split": [2, 3], "split_score": 0.5790754257236618}
+{"sent": "green bottle", "ann_id": 89637, "best_split": [2, 3], "split_score": 0.5790754257236618}
+{"sent": "green bottle", "ann_id": 89637, "best_split": [2, 3], "split_score": 0.5790754257236618}
+{"sent": "clear bottle", "ann_id": 88768, "best_split": [2, 3], "split_score": 0.622790697602001}
+{"sent": "clear bottle", "ann_id": 88768, "best_split": [2, 3], "split_score": 0.622790697602001}
+{"sent": "lighter bottle", "ann_id": 88768, "best_split": [2, 3], "split_score": 0.622790697602001}

@@ -1,0 +1,8 @@
+{"sent": "the slice on the other side of the dark green stuff", "ann_id": 2189089, "best_split": [3, 3], "split_score": 0.5062822377322732}
+{"sent": "avocado nearest and overlapping tomato", "ann_id": 2189089, "best_split": [3, 2], "split_score": 0.4248018460494831}
+{"sent": "lime green slices closest to tomato", "ann_id": 2189089, "best_split": [3, 3], "split_score": 0.5062822377322732}
+{"sent": "melon slice just beneath the radishes", "ann_id": 2189048, "best_split": [1, 3], "split_score": 0.3976440987878749}
+{"sent": "slice under radishes", "ann_id": 2189048, "best_split": [1, 3], "split_score": 0.3976440987878749}
+{"sent": "slice nest to the radishes with a big avocado on it", "ann_id": 2189048, "best_split": [2, 3], "split_score": 0.616531572038774}
+{"sent": "slice next to very dark green one no cheese", "ann_id": 2188960, "best_split": [1, 5], "split_score": 0.3645551079923431}
+{"sent": "piece nearest dark green piece", "ann_id": 2188960, "best_split": [1, 5], "split_score": 0.3645551079923431}

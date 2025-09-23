@@ -1,0 +1,6 @@
+{"sent": "reflection of woman", "ann_id": 472594, "best_split": [3, 3], "split_score": 0.3581017795257412}
+{"sent": "reflection in mirror", "ann_id": 472594, "best_split": [3, 3], "split_score": 0.3581017795257412}
+{"sent": "reflection of girl", "ann_id": 472594, "best_split": [3, 3], "split_score": 0.3581017795257412}
+{"sent": "girl", "ann_id": 453041, "best_split": [3, 1], "split_score": 0.30790568653492123}
+{"sent": "girl not reflection", "ann_id": 453041, "best_split": [2, 1], "split_score": 0.39640306285321397}
+{"sent": "real person", "ann_id": 453041, "best_split": [2, 1], "split_score": 0.39640306285321397}

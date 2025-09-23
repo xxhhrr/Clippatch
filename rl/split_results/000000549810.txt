@@ -1,0 +1,9 @@
+{"sent": "girl standing up looking at a guy", "ann_id": 1759002, "best_split": [1, 3], "split_score": 0.5982691733453733}
+{"sent": "woman", "ann_id": 1759002, "best_split": [1, 3], "split_score": 0.5982691733453733}
+{"sent": "pick the girl", "ann_id": 1759002, "best_split": [1, 3], "split_score": 0.5982691733453733}
+{"sent": "guy sitting with glasses", "ann_id": 1756709, "best_split": [2, 3], "split_score": 0.31537861042980303}
+{"sent": "sitting sandles", "ann_id": 1756709, "best_split": [2, 2], "split_score": 0.33433644294806375}
+{"sent": "guy sitting on tree logs", "ann_id": 1756709, "best_split": [1, 3], "split_score": 0.20987105379002494}
+{"sent": "man holding yellow thing", "ann_id": 1739099, "best_split": [2, 2], "split_score": 0.6343271683167787}
+{"sent": "nearest guy in white shirt", "ann_id": 1739099, "best_split": [3, 2], "split_score": 0.49820160467599356}
+{"sent": "closest guy", "ann_id": 1739099, "best_split": [2, 2], "split_score": 0.6343271683167787}

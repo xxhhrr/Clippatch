@@ -1,0 +1,6 @@
+{"sent": "probably grandpa", "ann_id": 504751, "best_split": [1, 2], "split_score": 0.7327008928279376}
+{"sent": "grandpa", "ann_id": 504751, "best_split": [1, 2], "split_score": 0.7327008928279376}
+{"sent": "man at table", "ann_id": 504751, "best_split": [1, 2], "split_score": 0.7327008928279376}
+{"sent": "girl", "ann_id": 482315, "best_split": [1, 3], "split_score": 0.6113181182690196}
+{"sent": "girl eating doughnut", "ann_id": 482315, "best_split": [1, 3], "split_score": 0.6113181182690196}
+{"sent": "little girl", "ann_id": 482315, "best_split": [1, 3], "split_score": 0.6113181182690196}

@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 435160, "best_split": [1, 2], "split_score": 0.8418367346603222}
+{"sent": "closest lady", "ann_id": 435160, "best_split": [1, 2], "split_score": 0.8418367346603222}
+{"sent": "lady in black", "ann_id": 435160, "best_split": [1, 2], "split_score": 0.8418367346603222}
+{"sent": "dude with glasses on shirt", "ann_id": 425346, "best_split": [2, 1], "split_score": 0.35371492345528877}
+{"sent": "man with cap", "ann_id": 425346, "best_split": [2, 3], "split_score": 0.6003356955799761}
+{"sent": "man in gray shirt with ballcap and sunglasses on shirt", "ann_id": 425346, "best_split": [2, 3], "split_score": 0.6003356955799761}

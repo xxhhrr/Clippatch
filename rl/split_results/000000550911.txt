@@ -1,0 +1,6 @@
+{"sent": "person in blue", "ann_id": 512881, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "blue blurry shirt", "ann_id": 512881, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "spectator", "ann_id": 512881, "best_split": [3, 2], "split_score": 0.41566119686104475}
+{"sent": "the person playing tennis", "ann_id": 467443, "best_split": [2, 1], "split_score": 0.511390051124146}
+{"sent": "tennis player", "ann_id": 467443, "best_split": [2, 1], "split_score": 0.511390051124146}
+{"sent": "player", "ann_id": 467443, "best_split": [2, 1], "split_score": 0.511390051124146}

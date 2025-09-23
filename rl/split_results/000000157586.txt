@@ -1,0 +1,5 @@
+{"sent": "person with a beer", "ann_id": 1221650, "best_split": [2, 1], "split_score": 0.0318780318769273}
+{"sent": "person in back", "ann_id": 1221650, "best_split": [5, 1], "split_score": 0.16160970934512858}
+{"sent": "person in the background", "ann_id": 1221650, "best_split": [5, 1], "split_score": 0.16160970934512858}
+{"sent": "man eating", "ann_id": 189145, "best_split": [1, 2], "split_score": 0.5796276782442424}
+{"sent": "the dude", "ann_id": 189145, "best_split": [1, 2], "split_score": 0.5796276782442424}

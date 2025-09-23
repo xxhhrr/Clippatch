@@ -1,0 +1,12 @@
+{"sent": "guy in dark jacket with glasses", "ann_id": 1227578, "best_split": [2, 3], "split_score": 0.32102335925238895}
+{"sent": "man no backpac glasses", "ann_id": 1227578, "best_split": [1, 5], "split_score": 0.24228423579354239}
+{"sent": "purple jacket hat", "ann_id": 1202131, "best_split": [2, 3], "split_score": 0.3602992344850122}
+{"sent": "guy with blue jacket and hat", "ann_id": 1202131, "best_split": [2, 1], "split_score": 0.19710669077030274}
+{"sent": "purple", "ann_id": 1202131, "best_split": [2, 3], "split_score": 0.3602992344850122}
+{"sent": "backpack of man in black jacket", "ann_id": 1171775, "best_split": [1, 5], "split_score": 0.4158883197332642}
+{"sent": "backpack with circle blue spot is this kelly", "ann_id": 1171775, "best_split": [5, 1], "split_score": 0.15085714284482798}
+{"sent": "backpack on guy in black jacket gray hair", "ann_id": 1171775, "best_split": [1, 5], "split_score": 0.4158883197332642}
+{"sent": "pony tail boarding bus", "ann_id": 1300067, "best_split": [1, 5], "split_score": 0.30141687931871713}
+{"sent": "girl by door with ponytail", "ann_id": 1300067, "best_split": [5, 1], "split_score": 0.11996364737049654}
+{"sent": "girl with ponytail at 9 o clock", "ann_id": 1300067, "best_split": [5, 1], "split_score": 0.11996364737049654}
+{"sent": "back pack on the man in purple", "ann_id": 1171642, "best_split": [3, 2], "split_score": 0.34090909086873705}

@@ -1,0 +1,25 @@
+{"sent": "black shirt", "ann_id": 1226179, "best_split": [2, 2], "split_score": 0.4956133479166839}
+{"sent": "woman wearing black shirt", "ann_id": 1226179, "best_split": [2, 2], "split_score": 0.4956133479166839}
+{"sent": "girl black shirt", "ann_id": 1226179, "best_split": [2, 2], "split_score": 0.4956133479166839}
+{"sent": "has hand over face", "ann_id": 1220610, "best_split": [2, 3], "split_score": 0.3230293662703655}
+{"sent": "lady wiping face", "ann_id": 1220610, "best_split": [2, 3], "split_score": 0.3230293662703655}
+{"sent": "lady hand on face", "ann_id": 1220610, "best_split": [2, 3], "split_score": 0.3230293662703655}
+{"sent": "woman looking at friends phone", "ann_id": 528885, "best_split": [2, 3], "split_score": 0.7051251489028456}
+{"sent": "white sweater looks disgusted", "ann_id": 528885, "best_split": [2, 3], "split_score": 0.7051251489028456}
+{"sent": "the white shirt girl at 4 o clock", "ann_id": 528885, "best_split": [2, 3], "split_score": 0.7051251489028456}
+{"sent": "girl who looks naked", "ann_id": 526705, "best_split": [2, 3], "split_score": 0.8420573508372715}
+{"sent": "girl giving dirty look cant see her clothes", "ann_id": 526705, "best_split": [2, 2], "split_score": 0.6297831632151002}
+{"sent": "woman in white sweater in the picture where the other woman is smiling", "ann_id": 505353, "best_split": [1, 5], "split_score": 0.33795428996459775}
+{"sent": "girl with red beaded necklace looking into the camera", "ann_id": 505353, "best_split": [1, 5], "split_score": 0.33795428996459775}
+{"sent": "the pink 9 display under the woma nlooking at you", "ann_id": 1962543, "best_split": [2, 2], "split_score": 0.3482142856865263}
+{"sent": "pic 3 999 sign", "ann_id": 1962543, "best_split": [2, 1], "split_score": 0.17410714285020298}
+{"sent": "glasses in pic where woman is giving camera a mad look", "ann_id": 1962543, "best_split": [2, 1], "split_score": 0.17410714285020298}
+{"sent": "the picture of the girl with curly hair smiling with teeth", "ann_id": 503396, "best_split": [3, 2], "split_score": 0.07791292084629711}
+{"sent": "gil smiling white teeth", "ann_id": 503396, "best_split": [2, 3], "split_score": 0.29335871401296965}
+{"sent": "woman smiling with teeth showing", "ann_id": 503396, "best_split": [3, 2], "split_score": 0.3125134148623617}
+{"sent": "woman at 1000", "ann_id": 1733056, "best_split": [1, 5], "split_score": 0.3660714285342866}
+{"sent": "upper lefft girl in silver dress", "ann_id": 1733056, "best_split": [2, 3], "split_score": 0.4353281852756602}
+{"sent": "grinning woman in halter at eleven", "ann_id": 1733056, "best_split": [2, 3], "split_score": 0.4353281852756602}
+{"sent": "lady with bangs pointing her finger at something", "ann_id": 503276, "best_split": [1, 3], "split_score": 0.17809970173742545}
+{"sent": "white shirt pointing", "ann_id": 503276, "best_split": [5, 1], "split_score": 0.21951219510456824}
+{"sent": "woman in white sweater pointing", "ann_id": 503276, "best_split": [1, 2], "split_score": 0.22098214284833456}

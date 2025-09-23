@@ -1,0 +1,6 @@
+{"sent": "man holding tie blond", "ann_id": 487799, "best_split": [1, 2], "split_score": 0.7645475417320661}
+{"sent": "man in lighter suit", "ann_id": 487799, "best_split": [1, 2], "split_score": 0.7645475417320661}
+{"sent": "man holding blue object", "ann_id": 487799, "best_split": [1, 2], "split_score": 0.7645475417320661}
+{"sent": "guy in black suit full black", "ann_id": 432796, "best_split": [3, 1], "split_score": 0.28785553690846666}
+{"sent": "taller man", "ann_id": 432796, "best_split": [3, 1], "split_score": 0.28785553690846666}
+{"sent": "man taking the tie", "ann_id": 432796, "best_split": [1, 2], "split_score": 0.7651086396974272}

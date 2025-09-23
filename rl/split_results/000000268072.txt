@@ -1,0 +1,6 @@
+{"sent": "closest laying hotdog", "ann_id": 1069186, "best_split": [3, 3], "split_score": 0.3151419557862552}
+{"sent": "hot dog in basket", "ann_id": 1069186, "best_split": [3, 3], "split_score": 0.3151419557862552}
+{"sent": "hotdog in basket nearest", "ann_id": 1069186, "best_split": [3, 3], "split_score": 0.3151419557862552}
+{"sent": "dog in hand", "ann_id": 1067598, "best_split": [3, 1], "split_score": 0.2665043932399368}
+{"sent": "hot dog in hand", "ann_id": 1067598, "best_split": [3, 2], "split_score": 0.5246610565071691}
+{"sent": "sausage in hand", "ann_id": 1067598, "best_split": [1, 5], "split_score": 0.2719122638809372}

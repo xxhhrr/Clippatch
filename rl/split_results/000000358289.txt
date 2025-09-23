@@ -1,0 +1,9 @@
+{"sent": "half bluewhite bus", "ann_id": 248319, "best_split": [2, 2], "split_score": 0.37252056117406035}
+{"sent": "back bus", "ann_id": 248319, "best_split": [3, 1], "split_score": 0.2547794117513246}
+{"sent": "back end only of white and blue bus", "ann_id": 248319, "best_split": [2, 2], "split_score": 0.37252056117406035}
+{"sent": "closest bus only partially seen", "ann_id": 247823, "best_split": [3, 3], "split_score": 0.5141783395090231}
+{"sent": "small bus", "ann_id": 247823, "best_split": [3, 3], "split_score": 0.5141783395090231}
+{"sent": "small bus", "ann_id": 247823, "best_split": [3, 3], "split_score": 0.5141783395090231}
+{"sent": "highest bus", "ann_id": 165463, "best_split": [3, 2], "split_score": 0.4532244505552285}
+{"sent": "bus closest but big", "ann_id": 165463, "best_split": [3, 2], "split_score": 0.4532244505552285}
+{"sent": "closest large bus", "ann_id": 165463, "best_split": [3, 2], "split_score": 0.4532244505552285}

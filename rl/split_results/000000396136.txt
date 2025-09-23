@@ -1,0 +1,5 @@
+{"sent": "person nearrest to computer", "ann_id": 224679, "best_split": [2, 3], "split_score": 0.2312911183972768}
+{"sent": "guy closer to computer", "ann_id": 224679, "best_split": [2, 3], "split_score": 0.2312911183972768}
+{"sent": "younger man", "ann_id": 224679, "best_split": [5, 1], "split_score": 0.05613597379883549}
+{"sent": "man closest to door", "ann_id": 220367, "best_split": [3, 3], "split_score": 0.429281767896508}
+{"sent": "guy by door", "ann_id": 220367, "best_split": [3, 3], "split_score": 0.429281767896508}

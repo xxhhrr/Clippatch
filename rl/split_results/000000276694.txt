@@ -1,0 +1,6 @@
+{"sent": "orange bed", "ann_id": 319206, "best_split": [2, 3], "split_score": 0.632521818944359}
+{"sent": "partial bed", "ann_id": 319206, "best_split": [1, 5], "split_score": 0.46582466563281716}
+{"sent": "darker bed", "ann_id": 319206, "best_split": [1, 5], "split_score": 0.46582466563281716}
+{"sent": "light orange mattress", "ann_id": 316666, "best_split": [2, 2], "split_score": 0.4753116511960922}
+{"sent": "brown bed", "ann_id": 316666, "best_split": [2, 2], "split_score": 0.4753116511960922}
+{"sent": "mattress in full view", "ann_id": 316666, "best_split": [2, 2], "split_score": 0.4753116511960922}

@@ -1,0 +1,6 @@
+{"sent": "donut above 9", "ann_id": 1926454, "best_split": [3, 3], "split_score": 0.3932301043584389}
+{"sent": "lightest donut thing on box", "ann_id": 1925981, "best_split": [1, 2], "split_score": 0.0592075299810533}
+{"sent": "donut sticking out the most", "ann_id": 1925981, "best_split": [1, 5], "split_score": 0.24079874703985915}
+{"sent": "donut next to green stuff", "ann_id": 1925981, "best_split": [3, 1], "split_score": 0.17012548261521926}
+{"sent": "donut in pic at 5 o clock", "ann_id": 1925231, "best_split": [2, 2], "split_score": 0.19084821427049997}
+{"sent": "piece next to the 9 not behind it", "ann_id": 1925231, "best_split": [1, 2], "split_score": 0.0}

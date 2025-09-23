@@ -1,0 +1,6 @@
+{"sent": "any of the wineglasses with white wine", "ann_id": 662932, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "white wine", "ann_id": 662932, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "either glass 1 2 or 4 not 3", "ann_id": 662932, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "red wine lowest one", "ann_id": 661118, "best_split": [1, 2], "split_score": 0.48405612242968526}
+{"sent": "purple drink glass with lowest amount", "ann_id": 661118, "best_split": [1, 5], "split_score": 0.5822784809707797}
+{"sent": "red wine that is less full", "ann_id": 661118, "best_split": [1, 2], "split_score": 0.48405612242968526}

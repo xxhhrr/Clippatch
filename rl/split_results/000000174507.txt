@@ -1,0 +1,6 @@
+{"sent": "giraffe reaching", "ann_id": 595428, "best_split": [1, 3], "split_score": 0.5414107180452696}
+{"sent": "giraffe looking up", "ann_id": 595428, "best_split": [1, 3], "split_score": 0.5414107180452696}
+{"sent": "taller giraffe", "ann_id": 595428, "best_split": [1, 3], "split_score": 0.5414107180452696}
+{"sent": "head down", "ann_id": 595102, "best_split": [3, 2], "split_score": 0.36984352770538376}
+{"sent": "giraffe with bent neck", "ann_id": 595102, "best_split": [3, 1], "split_score": 0.21294021292931306}
+{"sent": "back giraffe", "ann_id": 595102, "best_split": [3, 1], "split_score": 0.21294021292931306}

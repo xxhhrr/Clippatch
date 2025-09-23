@@ -1,0 +1,6 @@
+{"sent": "bear next to the child", "ann_id": 1161518, "best_split": [3, 2], "split_score": 0.3519191918836445}
+{"sent": "dark brown yellow visor teddy bear", "ann_id": 1161518, "best_split": [2, 2], "split_score": 0.25533731851299907}
+{"sent": "dark brown bear", "ann_id": 1161518, "best_split": [3, 3], "split_score": 0.24449676277286678}
+{"sent": "bear in green shirt", "ann_id": 1160715, "best_split": [3, 3], "split_score": 0.5300317199907877}
+{"sent": "green shirt teddy", "ann_id": 1160715, "best_split": [3, 3], "split_score": 0.5300317199907877}
+{"sent": "teddy with green shirt", "ann_id": 1160715, "best_split": [3, 3], "split_score": 0.5300317199907877}

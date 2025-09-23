@@ -1,0 +1,6 @@
+{"sent": "giraffe closest to you", "ann_id": 1414163, "best_split": [1, 2], "split_score": 0.4587041258932594}
+{"sent": "giraffe closer", "ann_id": 1414163, "best_split": [1, 2], "split_score": 0.4587041258932594}
+{"sent": "most clear", "ann_id": 1414163, "best_split": [2, 1], "split_score": 0.21168061579168915}
+{"sent": "giraffe near more green scenery", "ann_id": 600196, "best_split": [3, 1], "split_score": 0.2525464664363884}
+{"sent": "back of tree", "ann_id": 600196, "best_split": [1, 2], "split_score": 0.290178571417005}
+{"sent": "giraffe behind tree", "ann_id": 600196, "best_split": [2, 1], "split_score": 0.15815085157584977}

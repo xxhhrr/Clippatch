@@ -1,0 +1,9 @@
+{"sent": "girl in black pointing", "ann_id": 2164178, "best_split": [2, 2], "split_score": 0.5877355005179328}
+{"sent": "the woman pointing", "ann_id": 2164178, "best_split": [3, 2], "split_score": 0.41956751052086183}
+{"sent": "person pointing", "ann_id": 2164178, "best_split": [1, 2], "split_score": 0.5279017856932438}
+{"sent": "lady in green", "ann_id": 1681977, "best_split": [1, 5], "split_score": 0.607361963131963}
+{"sent": "woman in green vest", "ann_id": 1681977, "best_split": [1, 5], "split_score": 0.607361963131963}
+{"sent": "green vest", "ann_id": 1681977, "best_split": [1, 5], "split_score": 0.607361963131963}
+{"sent": "dirty blond", "ann_id": 473939, "best_split": [1, 5], "split_score": 0.42467398760941366}
+{"sent": "older woman black shirt", "ann_id": 473939, "best_split": [2, 3], "split_score": 0.4083161640374306}
+{"sent": "black shirt older", "ann_id": 473939, "best_split": [1, 5], "split_score": 0.42467398760941366}

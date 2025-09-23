@@ -1,0 +1,6 @@
+{"sent": "sliced being picked", "ann_id": 1077567, "best_split": [3, 2], "split_score": 0.307757166915287}
+{"sent": "pizza moving toward plate", "ann_id": 1077567, "best_split": [2, 1], "split_score": 0.0441870441854645}
+{"sent": "slice being lifted", "ann_id": 1077567, "best_split": [2, 1], "split_score": 0.0441870441854645}
+{"sent": "large half of pizza", "ann_id": 1076676, "best_split": [2, 1], "split_score": 0.6040268456169009}
+{"sent": "large part of pizza", "ann_id": 1076676, "best_split": [2, 1], "split_score": 0.6040268456169009}
+{"sent": "bigger pizza", "ann_id": 1076676, "best_split": [2, 1], "split_score": 0.6040268456169009}

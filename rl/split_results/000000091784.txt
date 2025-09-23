@@ -1,0 +1,6 @@
+{"sent": "smaller giraffe", "ann_id": 599595, "best_split": [2, 3], "split_score": 0.23906603935885468}
+{"sent": "smaller animal", "ann_id": 599595, "best_split": [2, 2], "split_score": 0.29542905213857057}
+{"sent": "shorter giraffe", "ann_id": 599595, "best_split": [3, 3], "split_score": 0.2218890554485019}
+{"sent": "tallest", "ann_id": 598664, "best_split": [1, 5], "split_score": 0.6018099547016199}
+{"sent": "taller", "ann_id": 598664, "best_split": [1, 5], "split_score": 0.6018099547016199}
+{"sent": "mommy giraffe checking you out", "ann_id": 598664, "best_split": [1, 5], "split_score": 0.6018099547016199}

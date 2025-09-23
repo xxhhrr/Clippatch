@@ -1,0 +1,15 @@
+{"sent": "half glass closer to pizza", "ann_id": 1509638, "best_split": [2, 3], "split_score": 0.3012404016242134}
+{"sent": "drink you cant see rim of cup", "ann_id": 1509638, "best_split": [3, 2], "split_score": 0.480842482581129}
+{"sent": "glass nearest square slice", "ann_id": 1509638, "best_split": [3, 2], "split_score": 0.480842482581129}
+{"sent": "lip of drink glass", "ann_id": 1503251, "best_split": [2, 3], "split_score": 0.5038236616617382}
+{"sent": "fatter glass", "ann_id": 1503251, "best_split": [2, 3], "split_score": 0.5038236616617382}
+{"sent": "closest glass", "ann_id": 1503251, "best_split": [2, 3], "split_score": 0.5038236616617382}
+{"sent": "no toppings", "ann_id": 1073547, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "all cheese pizza", "ann_id": 1073547, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "cheese pizza slice", "ann_id": 1073547, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "the spinach pizza", "ann_id": 1073199, "best_split": [2, 1], "split_score": 0.49235164986611546}
+{"sent": "slice of pizza closest to us", "ann_id": 1073199, "best_split": [3, 1], "split_score": 0.36972140175741514}
+{"sent": "green topped", "ann_id": 1073199, "best_split": [2, 1], "split_score": 0.49235164986611546}
+{"sent": "highest piece of food", "ann_id": 1072202, "best_split": [2, 2], "split_score": 0.3541797611286785}
+{"sent": "pizza with meat", "ann_id": 1072202, "best_split": [2, 2], "split_score": 0.3541797611286785}
+{"sent": "the slice near the glass", "ann_id": 1072202, "best_split": [2, 2], "split_score": 0.3541797611286785}

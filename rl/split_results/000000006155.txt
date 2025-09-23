@@ -1,0 +1,15 @@
+{"sent": "lacey shirt", "ann_id": 2001486, "best_split": [1, 2], "split_score": 0.576728881812653}
+{"sent": "green shirt", "ann_id": 2001486, "best_split": [1, 2], "split_score": 0.576728881812653}
+{"sent": "person wearing green", "ann_id": 2001486, "best_split": [1, 2], "split_score": 0.576728881812653}
+{"sent": "black bracelet", "ann_id": 1712681, "best_split": [2, 3], "split_score": 0.8027015963157285}
+{"sent": "hand with black elastic band", "ann_id": 1712681, "best_split": [1, 3], "split_score": 0.43433001105014785}
+{"sent": "hand holding black phone", "ann_id": 1712681, "best_split": [3, 1], "split_score": 0.13058659217307148}
+{"sent": "white", "ann_id": 1221452, "best_split": [1, 5], "split_score": 0.5230125522515203}
+{"sent": "white shirt near orange bag", "ann_id": 1221452, "best_split": [1, 5], "split_score": 0.5230125522515203}
+{"sent": "white shirt", "ann_id": 1221452, "best_split": [1, 5], "split_score": 0.5230125522515203}
+{"sent": "hand with ring on it", "ann_id": 468825, "best_split": [3, 1], "split_score": 0.42830311623947626}
+{"sent": "female hand with ring", "ann_id": 468825, "best_split": [3, 1], "split_score": 0.42830311623947626}
+{"sent": "hand with ring", "ann_id": 468825, "best_split": [3, 1], "split_score": 0.42830311623947626}
+{"sent": "hand with white phone", "ann_id": 2160192, "best_split": [3, 1], "split_score": 0.45797855564262147}
+{"sent": "mans hand", "ann_id": 2160192, "best_split": [1, 2], "split_score": 0.4706186566529634}
+{"sent": "mans hand", "ann_id": 2160192, "best_split": [1, 2], "split_score": 0.4706186566529634}

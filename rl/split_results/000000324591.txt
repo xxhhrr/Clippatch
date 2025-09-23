@@ -1,0 +1,13 @@
+{"sent": "sheep in between", "ann_id": 1817793, "best_split": [2, 2], "split_score": 0.3788265305820451}
+{"sent": "lamb with head on blue womans dominant hand", "ann_id": 1817793, "best_split": [2, 2], "split_score": 0.3788265305820451}
+{"sent": "goat in betw others", "ann_id": 1817793, "best_split": [2, 2], "split_score": 0.3788265305820451}
+{"sent": "woman with the goats closer to her", "ann_id": 221823, "best_split": [1, 2], "split_score": 0.24166932396995897}
+{"sent": "cop behind goats", "ann_id": 221823, "best_split": [1, 5], "split_score": 0.5348052448385263}
+{"sent": "relaxing lady", "ann_id": 217035, "best_split": [2, 1], "split_score": 0.31540753413624567}
+{"sent": "person leaning on rail", "ann_id": 217035, "best_split": [2, 1], "split_score": 0.2462548909936765}
+{"sent": "half woman", "ann_id": 210683, "best_split": [1, 2], "split_score": 0.18176020407438775}
+{"sent": "polkadot shirt theywillshutusoff", "ann_id": 210683, "best_split": [1, 5], "split_score": 0.46266233761539544}
+{"sent": "cut off girl", "ann_id": 210683, "best_split": [1, 5], "split_score": 0.46266233761539544}
+{"sent": "a white colored goat", "ann_id": 63052, "best_split": [2, 3], "split_score": 0.5082046331433151}
+{"sent": "animal closest to the fence", "ann_id": 63052, "best_split": [1, 5], "split_score": 0.3967434471409111}
+{"sent": "animal closest to us with back towards us", "ann_id": 63052, "best_split": [3, 3], "split_score": 0.4161672269527602}

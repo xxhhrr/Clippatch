@@ -1,0 +1,20 @@
+{"sent": "partial apple near banana not near orange", "ann_id": 1906165, "best_split": [2, 1], "split_score": 0.15720663264679502}
+{"sent": "apple that is from the banana", "ann_id": 1906165, "best_split": [2, 2], "split_score": 0.3144132652810576}
+{"sent": "smallest partial apple", "ann_id": 1906165, "best_split": [2, 2], "split_score": 0.3144132652810576}
+{"sent": "small apple before bananas", "ann_id": 1548457, "best_split": [2, 3], "split_score": 0.30274984423754114}
+{"sent": "apple with banana and oranges as neighbors", "ann_id": 1548457, "best_split": [2, 3], "split_score": 0.30274984423754114}
+{"sent": "apple 12 o clock", "ann_id": 1548457, "best_split": [2, 3], "split_score": 0.30274984423754114}
+{"sent": "orange in corner", "ann_id": 1054696, "best_split": [3, 3], "split_score": 0.5152979065100558}
+{"sent": "orange out of frame slightly paler than the others", "ann_id": 1054696, "best_split": [3, 3], "split_score": 0.5152979065100558}
+{"sent": "closest orange partially out of photo", "ann_id": 1054407, "best_split": [1, 3], "split_score": 0.20299940010779846}
+{"sent": "orange half cut off", "ann_id": 1054407, "best_split": [1, 5], "split_score": 0.3152495560943727}
+{"sent": "closest green fruit", "ann_id": 2186563, "best_split": [2, 1], "split_score": 0.4731117824594746}
+{"sent": "big corner green apple nearest oranges", "ann_id": 2186563, "best_split": [1, 2], "split_score": 0.4315913094380655}
+{"sent": "biggest green close to us and touching oranges", "ann_id": 2186563, "best_split": [1, 2], "split_score": 0.4315913094380655}
+{"sent": "apple number one closest not shiny", "ann_id": 1907381, "best_split": [1, 2], "split_score": 0.49744897957200856}
+{"sent": "the biggest green fruit not next to the orange", "ann_id": 1907381, "best_split": [1, 2], "split_score": 0.49744897957200856}
+{"sent": "8 o clock apple", "ann_id": 1907381, "best_split": [1, 2], "split_score": 0.49744897957200856}
+{"sent": "banana farthest from oranges", "ann_id": 1045859, "best_split": [3, 2], "split_score": 0.5627376425186861}
+{"sent": "a yellow banana", "ann_id": 1045859, "best_split": [3, 2], "split_score": 0.5627376425186861}
+{"sent": "banana number 3", "ann_id": 1045750, "best_split": [3, 3], "split_score": 0.49882426704831095}
+{"sent": "banana near oranges", "ann_id": 1045750, "best_split": [3, 3], "split_score": 0.49882426704831095}

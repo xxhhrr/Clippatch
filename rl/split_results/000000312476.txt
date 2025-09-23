@@ -1,0 +1,6 @@
+{"sent": "man in red vneck sweater and gray pants", "ann_id": 1695855, "best_split": [3, 3], "split_score": 0.4792172546094533}
+{"sent": "man gray pants white shirt red sweater siting", "ann_id": 1695855, "best_split": [3, 3], "split_score": 0.4792172546094533}
+{"sent": "man by woman in red shirt", "ann_id": 1695855, "best_split": [5, 1], "split_score": 0.19252245689143624}
+{"sent": "man in yellow tie", "ann_id": 1242336, "best_split": [2, 3], "split_score": 0.41673370872719895}
+{"sent": "man reaching for a pastry", "ann_id": 1242336, "best_split": [1, 2], "split_score": 0.09679710247508}
+{"sent": "the guy in the yellow tie", "ann_id": 1242336, "best_split": [2, 3], "split_score": 0.41673370872719895}

@@ -1,0 +1,6 @@
+{"sent": "the red bottle of sauce", "ann_id": 92678, "best_split": [2, 3], "split_score": 0.26918436290188413}
+{"sent": "orange bottle", "ann_id": 92678, "best_split": [2, 3], "split_score": 0.26918436290188413}
+{"sent": "red bottle", "ann_id": 92678, "best_split": [2, 3], "split_score": 0.26918436290188413}
+{"sent": "green bottle", "ann_id": 86432, "best_split": [3, 3], "split_score": 0.33398692805000213}
+{"sent": "bottle full of grin shit", "ann_id": 86432, "best_split": [3, 3], "split_score": 0.33398692805000213}
+{"sent": "green hot sauce", "ann_id": 86432, "best_split": [2, 3], "split_score": 0.32432432428519253}

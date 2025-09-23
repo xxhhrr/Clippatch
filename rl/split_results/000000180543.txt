@@ -1,0 +1,12 @@
+{"sent": "chair with jacket", "ann_id": 1932872, "best_split": [3, 2], "split_score": 0.5649886403724753}
+{"sent": "blue chair", "ann_id": 1932872, "best_split": [3, 3], "split_score": 0.5973884656307494}
+{"sent": "chair with coat", "ann_id": 1932872, "best_split": [3, 2], "split_score": 0.5649886403724753}
+{"sent": "back of chair", "ann_id": 1930563, "best_split": [5, 1], "split_score": 0.31499623207281496}
+{"sent": "chair with its back to camera", "ann_id": 1930563, "best_split": [5, 1], "split_score": 0.31499623207281496}
+{"sent": "chair which man in blue jacket is behind", "ann_id": 1930563, "best_split": [2, 3], "split_score": 0.475940924192956}
+{"sent": "man in shirt", "ann_id": 257209, "best_split": [2, 3], "split_score": 0.5972939290905026}
+{"sent": "light shirt", "ann_id": 257209, "best_split": [2, 3], "split_score": 0.5972939290905026}
+{"sent": "man in white shirt", "ann_id": 257209, "best_split": [2, 3], "split_score": 0.5972939290905026}
+{"sent": "guy in dark suit", "ann_id": 197454, "best_split": [3, 3], "split_score": 0.4133676092013666}
+{"sent": "dark jacket", "ann_id": 197454, "best_split": [3, 3], "split_score": 0.4133676092013666}
+{"sent": "standing", "ann_id": 197454, "best_split": [2, 2], "split_score": 0.2873432154869339}

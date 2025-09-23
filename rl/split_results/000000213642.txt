@@ -1,0 +1,6 @@
+{"sent": "pink jacket", "ann_id": 508506, "best_split": [1, 5], "split_score": 0.42081101755730577}
+{"sent": "pink jacket person", "ann_id": 508506, "best_split": [1, 5], "split_score": 0.42081101755730577}
+{"sent": "red jacket", "ann_id": 508506, "best_split": [1, 5], "split_score": 0.42081101755730577}
+{"sent": "woman siting on snow", "ann_id": 496378, "best_split": [3, 3], "split_score": 0.3681555309009283}
+{"sent": "person on knees in speckled coat", "ann_id": 496378, "best_split": [2, 3], "split_score": 0.385479860727451}
+{"sent": "the one on knees", "ann_id": 496378, "best_split": [2, 3], "split_score": 0.385479860727451}

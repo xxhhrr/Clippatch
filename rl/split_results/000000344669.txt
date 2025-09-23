@@ -1,0 +1,6 @@
+{"sent": "furthest truck", "ann_id": 398122, "best_split": [3, 3], "split_score": 0.4010115606212045}
+{"sent": "fire truck partial view", "ann_id": 398122, "best_split": [3, 3], "split_score": 0.4010115606212045}
+{"sent": "truck behind firetruck", "ann_id": 398122, "best_split": [3, 3], "split_score": 0.4010115606212045}
+{"sent": "sorry fire truck ahead of other truck", "ann_id": 395176, "best_split": [3, 1], "split_score": 0.4974314132420247}
+{"sent": "closest firetruck", "ann_id": 395176, "best_split": [3, 1], "split_score": 0.4974314132420247}
+{"sent": "fire truck 1", "ann_id": 395176, "best_split": [3, 1], "split_score": 0.4974314132420247}

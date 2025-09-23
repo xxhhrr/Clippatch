@@ -1,0 +1,6 @@
+{"sent": "pizza next to hat", "ann_id": 1074185, "best_split": [3, 3], "split_score": 0.5284749869260039}
+{"sent": "pizza by the party hat", "ann_id": 1074185, "best_split": [3, 3], "split_score": 0.5284749869260039}
+{"sent": "pizza next to party hat", "ann_id": 1074185, "best_split": [3, 3], "split_score": 0.5284749869260039}
+{"sent": "tomato pizza", "ann_id": 1074047, "best_split": [2, 2], "split_score": 0.4390311803703347}
+{"sent": "tomatoes pizza", "ann_id": 1074047, "best_split": [2, 2], "split_score": 0.4390311803703347}
+{"sent": "close pizza", "ann_id": 1074047, "best_split": [2, 2], "split_score": 0.4390311803703347}

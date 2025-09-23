@@ -1,0 +1,6 @@
+{"sent": "screen with light shining on it", "ann_id": 321189, "best_split": [1, 5], "split_score": 0.20820189272395484}
+{"sent": "comp screen with keyboard", "ann_id": 321189, "best_split": [2, 2], "split_score": 0.19132653059699245}
+{"sent": "cpu at 9 o clock", "ann_id": 321189, "best_split": [5, 1], "split_score": 0.17778204880090503}
+{"sent": "black screen", "ann_id": 321112, "best_split": [2, 3], "split_score": 0.2664092663771224}
+{"sent": "monitor with no keyboard", "ann_id": 321112, "best_split": [2, 3], "split_score": 0.2664092663771224}
+{"sent": "black moniter", "ann_id": 321112, "best_split": [2, 3], "split_score": 0.2664092663771224}

@@ -1,0 +1,12 @@
+{"sent": "woman sitting lower in car", "ann_id": 2160547, "best_split": [3, 2], "split_score": 0.2221824686742234}
+{"sent": "girl sitting lower in back", "ann_id": 2160547, "best_split": [2, 3], "split_score": 0.5249999999414062}
+{"sent": "sitting", "ann_id": 2160547, "best_split": [2, 1], "split_score": 0.2142857142771729}
+{"sent": "red car only", "ann_id": 1775877, "best_split": [3, 1], "split_score": 0.7983644514114802}
+{"sent": "red car", "ann_id": 1775877, "best_split": [3, 1], "split_score": 0.7983644514114802}
+{"sent": "red auto", "ann_id": 1775877, "best_split": [3, 1], "split_score": 0.7983644514114802}
+{"sent": "woman in pink", "ann_id": 445170, "best_split": [3, 3], "split_score": 0.35117124390638416}
+{"sent": "woman holding 2 umbrellas", "ann_id": 445170, "best_split": [1, 3], "split_score": 0.34634843816837063}
+{"sent": "beauty queen", "ann_id": 445170, "best_split": [3, 3], "split_score": 0.35117124390638416}
+{"sent": "white car", "ann_id": 350098, "best_split": [2, 1], "split_score": 0.6210147691803092}
+{"sent": "white vehicle", "ann_id": 350098, "best_split": [2, 1], "split_score": 0.6210147691803092}
+{"sent": "white car", "ann_id": 350098, "best_split": [2, 1], "split_score": 0.6210147691803092}

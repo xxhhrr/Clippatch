@@ -1,0 +1,9 @@
+{"sent": "boy in black", "ann_id": 1330765, "best_split": [1, 3], "split_score": 0.665562913877503}
+{"sent": "boy", "ann_id": 1330765, "best_split": [1, 3], "split_score": 0.665562913877503}
+{"sent": "black shirt kid", "ann_id": 1330765, "best_split": [1, 3], "split_score": 0.665562913877503}
+{"sent": "littlest girl", "ann_id": 1273447, "best_split": [2, 2], "split_score": 0.5991567423182812}
+{"sent": "smaller girl", "ann_id": 1273447, "best_split": [2, 2], "split_score": 0.5991567423182812}
+{"sent": "littler girl", "ann_id": 1273447, "best_split": [2, 2], "split_score": 0.5991567423182812}
+{"sent": "girl with open mouth", "ann_id": 1269049, "best_split": [1, 3], "split_score": 0.7702161728943031}
+{"sent": "open mouth girl", "ann_id": 1269049, "best_split": [2, 1], "split_score": 0.27907956570153686}
+{"sent": "older girl", "ann_id": 1269049, "best_split": [1, 3], "split_score": 0.7702161728943031}

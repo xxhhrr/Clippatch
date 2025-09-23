@@ -1,0 +1,8 @@
+{"sent": "odd shaped brown treat", "ann_id": 1574083, "best_split": [1, 3], "split_score": 0.2933264355771688}
+{"sent": "donut at noon", "ann_id": 1574083, "best_split": [2, 3], "split_score": 0.4064972226555717}
+{"sent": "non glazed", "ann_id": 1081539, "best_split": [2, 1], "split_score": 0.008995937318303978}
+{"sent": "sugar coated only", "ann_id": 1081539, "best_split": [3, 2], "split_score": 0.3095577745709037}
+{"sent": "cinnamon", "ann_id": 1081539, "best_split": [3, 3], "split_score": 0.40191387552940633}
+{"sent": "donut with peach and 3 marshmallows", "ann_id": 1081145, "best_split": [2, 3], "split_score": 0.6094137076166997}
+{"sent": "pink with marshmellows", "ann_id": 1081145, "best_split": [2, 3], "split_score": 0.6094137076166997}
+{"sent": "white and pink on it", "ann_id": 1081145, "best_split": [2, 3], "split_score": 0.6094137076166997}

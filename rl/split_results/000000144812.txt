@@ -1,0 +1,18 @@
+{"sent": "black book small white writing", "ann_id": 1149348, "best_split": [3, 3], "split_score": 0.3053263315447204}
+{"sent": "dark book partly visible", "ann_id": 1149348, "best_split": [1, 3], "split_score": 0.28812343019446696}
+{"sent": "black cover book half shown", "ann_id": 1149348, "best_split": [3, 1], "split_score": 0.1322539949467907}
+{"sent": "red book on the end almost off screen", "ann_id": 1148671, "best_split": [1, 5], "split_score": 0.32142857139595893}
+{"sent": "red book with just letter e and n showing", "ann_id": 1148671, "best_split": [1, 5], "split_score": 0.32142857139595893}
+{"sent": "red book white letters", "ann_id": 1148671, "best_split": [1, 5], "split_score": 0.32142857139595893}
+{"sent": "twelve nick mcdonell", "ann_id": 1148301, "best_split": [2, 2], "split_score": 0.21276906237046558}
+{"sent": "twelve by nick mcdonell", "ann_id": 1148301, "best_split": [1, 5], "split_score": 0.37162827324555736}
+{"sent": "white book with twelve", "ann_id": 1148301, "best_split": [1, 5], "split_score": 0.37162827324555736}
+{"sent": "white book beside meek book", "ann_id": 1147476, "best_split": [2, 3], "split_score": 0.22745744094152032}
+{"sent": "white book next to descent book", "ann_id": 1147476, "best_split": [2, 3], "split_score": 0.22745744094152032}
+{"sent": "white book red letteing", "ann_id": 1147476, "best_split": [2, 3], "split_score": 0.22745744094152032}
+{"sent": "counterfeit", "ann_id": 1145343, "best_split": [3, 2], "split_score": 0.43150271571415616}
+{"sent": "the counterfit guest", "ann_id": 1145343, "best_split": [3, 3], "split_score": 0.5355154753356139}
+{"sent": "counterfeit guest", "ann_id": 1145343, "best_split": [2, 3], "split_score": 0.5434095556289822}
+{"sent": "plane book", "ann_id": 1137401, "best_split": [2, 1], "split_score": 0.33803556425587944}
+{"sent": "james meek", "ann_id": 1137401, "best_split": [2, 3], "split_score": 0.6217545983936299}
+{"sent": "we are no beginning our descent", "ann_id": 1137401, "best_split": [2, 3], "split_score": 0.6217545983936299}

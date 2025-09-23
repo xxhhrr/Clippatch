@@ -1,0 +1,11 @@
+{"sent": "bunch of bananas next to guy in the gray shirt", "ann_id": 1045068, "best_split": [1, 5], "split_score": 0.49857954540395905}
+{"sent": "full thing of bananas by guy in black shirt", "ann_id": 1045068, "best_split": [1, 5], "split_score": 0.49857954540395905}
+{"sent": "large banana bunch by the longer apron man", "ann_id": 1045068, "best_split": [1, 5], "split_score": 0.49857954540395905}
+{"sent": "closet man in apron", "ann_id": 1718395, "best_split": [1, 2], "split_score": 0.3945312499842741}
+{"sent": "man long apron", "ann_id": 1718395, "best_split": [1, 5], "split_score": 0.6921363713643878}
+{"sent": "man with long yellow apron", "ann_id": 1718395, "best_split": [1, 3], "split_score": 0.5971283783423547}
+{"sent": "bunch of bananas that look the brightest", "ann_id": 1041852, "best_split": [1, 3], "split_score": 0.4076503947288085}
+{"sent": "banan bunch with no one near", "ann_id": 1041852, "best_split": [1, 3], "split_score": 0.4076503947288085}
+{"sent": "man in white shirt and yellow apron", "ann_id": 431548, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "guy facing us", "ann_id": 431548, "best_split": [3, 1], "split_score": 0.12831412909003725}
+{"sent": "middle guy", "ann_id": 431548, "best_split": [3, 1], "split_score": 0.12831412909003725}

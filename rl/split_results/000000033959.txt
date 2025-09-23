@@ -1,0 +1,6 @@
+{"sent": "cow with its eye looking at you", "ann_id": 1819336, "best_split": [1, 2], "split_score": 0.729626989754905}
+{"sent": "cow closest to camera", "ann_id": 1819336, "best_split": [1, 2], "split_score": 0.729626989754905}
+{"sent": "cow with tan face", "ann_id": 1819336, "best_split": [1, 2], "split_score": 0.729626989754905}
+{"sent": "further cow", "ann_id": 71402, "best_split": [2, 1], "split_score": 0.42900342717461853}
+{"sent": "cow in the background", "ann_id": 71402, "best_split": [2, 1], "split_score": 0.42900342717461853}
+{"sent": "cow who has black on its face", "ann_id": 71402, "best_split": [2, 1], "split_score": 0.42900342717461853}

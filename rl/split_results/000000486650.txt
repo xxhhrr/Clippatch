@@ -1,0 +1,6 @@
+{"sent": "pink jacket green purse", "ann_id": 1245681, "best_split": [1, 3], "split_score": 0.500321844432072}
+{"sent": "woman in pink coat and khaki pants and purse", "ann_id": 1245681, "best_split": [1, 3], "split_score": 0.500321844432072}
+{"sent": "maroon jacket with hood on arm up near gray guy", "ann_id": 1245681, "best_split": [1, 2], "split_score": 0.36124840559784566}
+{"sent": "guy with the black hooded jacket and sunglasses", "ann_id": 1234858, "best_split": [1, 5], "split_score": 0.6864905236965277}
+{"sent": "man in sunglasses", "ann_id": 1234858, "best_split": [1, 5], "split_score": 0.6864905236965277}
+{"sent": "green clothed man", "ann_id": 1234858, "best_split": [1, 5], "split_score": 0.6864905236965277}

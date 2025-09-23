@@ -1,0 +1,3 @@
+{"sent": "giraffe that is closest to the camera", "ann_id": 595174, "best_split": [1, 2], "split_score": 0.7412208342862274}
+{"sent": "the one facing more towards us", "ann_id": 595174, "best_split": [3, 2], "split_score": 0.37777777775886995}
+{"sent": "giraffe looking at white flowers", "ann_id": 595174, "best_split": [1, 2], "split_score": 0.7412208342862274}

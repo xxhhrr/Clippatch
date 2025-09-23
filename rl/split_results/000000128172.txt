@@ -1,0 +1,9 @@
+{"sent": "white van", "ann_id": 1774221, "best_split": [3, 2], "split_score": 0.6533254855248192}
+{"sent": "white car", "ann_id": 1774221, "best_split": [3, 2], "split_score": 0.6533254855248192}
+{"sent": "white van", "ann_id": 1774221, "best_split": [3, 2], "split_score": 0.6533254855248192}
+{"sent": "car with boat on roof", "ann_id": 359402, "best_split": [3, 3], "split_score": 0.6046623407108072}
+{"sent": "car with a boat", "ann_id": 359402, "best_split": [3, 3], "split_score": 0.6046623407108072}
+{"sent": "car with yellow boat", "ann_id": 359402, "best_split": [3, 3], "split_score": 0.6046623407108072}
+{"sent": "blue car", "ann_id": 354611, "best_split": [3, 3], "split_score": 0.40140040005695904}
+{"sent": "small blue car", "ann_id": 354611, "best_split": [3, 3], "split_score": 0.40140040005695904}
+{"sent": "blue car", "ann_id": 354611, "best_split": [3, 3], "split_score": 0.40140040005695904}

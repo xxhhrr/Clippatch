@@ -1,0 +1,5 @@
+{"sent": "pizza near blue bowl", "ann_id": 1073523, "best_split": [2, 3], "split_score": 0.2626915458915155}
+{"sent": "slice far from you", "ann_id": 1073523, "best_split": [2, 3], "split_score": 0.2626915458915155}
+{"sent": "higher slice of pizza", "ann_id": 1073523, "best_split": [2, 3], "split_score": 0.2626915458915155}
+{"sent": "lower pizza", "ann_id": 1072296, "best_split": [3, 2], "split_score": 0.38627388190988643}
+{"sent": "chicken piece with a point", "ann_id": 1072296, "best_split": [3, 2], "split_score": 0.38627388190988643}

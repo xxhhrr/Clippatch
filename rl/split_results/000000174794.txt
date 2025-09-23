@@ -1,0 +1,6 @@
+{"sent": "man in turban with yellow shirt", "ann_id": 487537, "best_split": [1, 5], "split_score": 0.33117900505961817}
+{"sent": "yellow shirt", "ann_id": 487537, "best_split": [1, 5], "split_score": 0.33117900505961817}
+{"sent": "man with blue headpiece green shirt", "ann_id": 487537, "best_split": [2, 2], "split_score": 0.2518837459440348}
+{"sent": "stripes", "ann_id": 477005, "best_split": [2, 3], "split_score": 0.6015907447033992}
+{"sent": "woman in striped skirt", "ann_id": 477005, "best_split": [2, 3], "split_score": 0.6015907447033992}
+{"sent": "red striped skirt", "ann_id": 477005, "best_split": [2, 3], "split_score": 0.6015907447033992}

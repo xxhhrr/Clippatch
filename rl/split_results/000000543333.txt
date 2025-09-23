@@ -1,0 +1,6 @@
+{"sent": "nearest couch", "ann_id": 291229, "best_split": [2, 1], "split_score": 0.4386213228094326}
+{"sent": "couch closer to us", "ann_id": 291229, "best_split": [2, 1], "split_score": 0.4386213228094326}
+{"sent": "sofa facing away", "ann_id": 291229, "best_split": [2, 2], "split_score": 0.5337494645043909}
+{"sent": "saggy cushions", "ann_id": 99640, "best_split": [3, 2], "split_score": 0.80933762640187}
+{"sent": "couch you can see the pillows fully on", "ann_id": 99640, "best_split": [3, 2], "split_score": 0.80933762640187}
+{"sent": "couch farthest away", "ann_id": 99640, "best_split": [3, 2], "split_score": 0.80933762640187}

@@ -1,0 +1,5 @@
+{"sent": "playing number 1", "ann_id": 455743, "best_split": [2, 2], "split_score": 0.34329280855433275}
+{"sent": "person following her twin", "ann_id": 455743, "best_split": [1, 2], "split_score": 0.5393813775295209}
+{"sent": "pic on the side we write with", "ann_id": 421246, "best_split": [1, 2], "split_score": 0.5341198979378938}
+{"sent": "i write with my", "ann_id": 421246, "best_split": [2, 1], "split_score": 0.21847595529114902}
+{"sent": "girl on the word description", "ann_id": 421246, "best_split": [1, 5], "split_score": 0.6087437741692899}

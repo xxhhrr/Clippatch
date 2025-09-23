@@ -1,0 +1,9 @@
+{"sent": "girl with yellow orange leaves", "ann_id": 1723288, "best_split": [1, 5], "split_score": 0.30861723444684963}
+{"sent": "girl with leaves", "ann_id": 1723288, "best_split": [2, 3], "split_score": 0.5352681851088108}
+{"sent": "woman with leaf shoulders", "ann_id": 1723288, "best_split": [2, 3], "split_score": 0.5352681851088108}
+{"sent": "red hat", "ann_id": 2206369, "best_split": [3, 2], "split_score": 0.4815581143863298}
+{"sent": "red leather on head and hand in food", "ann_id": 2206369, "best_split": [3, 2], "split_score": 0.4815581143863298}
+{"sent": "man in red cap", "ann_id": 2206369, "best_split": [3, 2], "split_score": 0.4815581143863298}
+{"sent": "blue shirt", "ann_id": 188337, "best_split": [3, 3], "split_score": 0.4713893464611324}
+{"sent": "blue shirt", "ann_id": 188337, "best_split": [3, 3], "split_score": 0.4713893464611324}
+{"sent": "pilgrims hat blue on shirt", "ann_id": 188337, "best_split": [3, 3], "split_score": 0.4713893464611324}

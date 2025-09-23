@@ -1,0 +1,6 @@
+{"sent": "part of a person", "ann_id": 554237, "best_split": [2, 1], "split_score": 0.18390804597084856}
+{"sent": "standing white shirt", "ann_id": 554237, "best_split": [3, 3], "split_score": 0.23483658074836292}
+{"sent": "white sweatshirt", "ann_id": 554237, "best_split": [1, 2], "split_score": 0.4082031249837291}
+{"sent": "kid hat", "ann_id": 442068, "best_split": [1, 3], "split_score": 0.46700088468100853}
+{"sent": "boy in black", "ann_id": 442068, "best_split": [1, 3], "split_score": 0.46700088468100853}
+{"sent": "boy", "ann_id": 442068, "best_split": [1, 3], "split_score": 0.46700088468100853}

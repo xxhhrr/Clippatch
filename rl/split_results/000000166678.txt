@@ -1,0 +1,6 @@
+{"sent": "chair nearly out of frame", "ann_id": 1590689, "best_split": [2, 3], "split_score": 0.5818829942774288}
+{"sent": "darker chair", "ann_id": 1590689, "best_split": [2, 1], "split_score": 0.2107221504969731}
+{"sent": "chair more in our corner before petite", "ann_id": 1590689, "best_split": [2, 1], "split_score": 0.2107221504969731}
+{"sent": "brown chair that is showing more of", "ann_id": 383697, "best_split": [1, 5], "split_score": 0.7715175789255436}
+{"sent": "lighter chair", "ann_id": 383697, "best_split": [1, 5], "split_score": 0.7715175789255436}
+{"sent": "chair that is nearest the whole cake", "ann_id": 383697, "best_split": [1, 5], "split_score": 0.7715175789255436}

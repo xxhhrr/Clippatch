@@ -1,0 +1,6 @@
+{"sent": "the truck behind the leader", "ann_id": 398806, "best_split": [3, 3], "split_score": 0.4954842727350538}
+{"sent": "truck 2", "ann_id": 398806, "best_split": [3, 3], "split_score": 0.4954842727350538}
+{"sent": "truck 2", "ann_id": 398806, "best_split": [3, 3], "split_score": 0.4954842727350538}
+{"sent": "truck closest to us in the lead", "ann_id": 396511, "best_split": [1, 2], "split_score": 0.5074139030409991}
+{"sent": "lead truck", "ann_id": 396511, "best_split": [1, 2], "split_score": 0.5074139030409991}
+{"sent": "truck number 1", "ann_id": 396511, "best_split": [1, 2], "split_score": 0.5074139030409991}

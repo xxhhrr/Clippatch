@@ -1,0 +1,6 @@
+{"sent": "reflection", "ann_id": 195011, "best_split": [2, 3], "split_score": 0.4218146717637772}
+{"sent": "man in mirror", "ann_id": 195011, "best_split": [2, 3], "split_score": 0.4218146717637772}
+{"sent": "mirror image", "ann_id": 195011, "best_split": [2, 3], "split_score": 0.4218146717637772}
+{"sent": "man leaning on chair", "ann_id": 194743, "best_split": [2, 1], "split_score": 0.4425854223654697}
+{"sent": "man in white", "ann_id": 194743, "best_split": [1, 2], "split_score": 0.574089493305761}
+{"sent": "blue shirt", "ann_id": 194743, "best_split": [1, 2], "split_score": 0.574089493305761}

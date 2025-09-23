@@ -1,0 +1,6 @@
+{"sent": "zebra cant see eyes", "ann_id": 593669, "best_split": [2, 1], "split_score": 0.3755632122854637}
+{"sent": "zebra with its head down", "ann_id": 593669, "best_split": [2, 1], "split_score": 0.3755632122854637}
+{"sent": "zebra with head down", "ann_id": 593669, "best_split": [2, 1], "split_score": 0.3755632122854637}
+{"sent": "closest zebra", "ann_id": 593359, "best_split": [1, 2], "split_score": 0.7072928353676137}
+{"sent": "zebra face", "ann_id": 593359, "best_split": [1, 2], "split_score": 0.7072928353676137}
+{"sent": "whole face zebra", "ann_id": 593359, "best_split": [1, 2], "split_score": 0.7072928353676137}

@@ -1,0 +1,6 @@
+{"sent": "farthest elephant", "ann_id": 582016, "best_split": [3, 3], "split_score": 0.32578906846408173}
+{"sent": "leader", "ann_id": 582016, "best_split": [3, 3], "split_score": 0.32578906846408173}
+{"sent": "animal most out of water", "ann_id": 582016, "best_split": [3, 2], "split_score": 0.23345211097792332}
+{"sent": "last elephant", "ann_id": 581922, "best_split": [3, 2], "split_score": 0.40468146713263975}
+{"sent": "elephant thats more under water", "ann_id": 581922, "best_split": [5, 1], "split_score": 0.3297765250322351}
+{"sent": "closest elephant", "ann_id": 581922, "best_split": [3, 2], "split_score": 0.40468146713263975}

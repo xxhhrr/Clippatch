@@ -1,0 +1,8 @@
+{"sent": "blue shirt yellow apron", "ann_id": 505125, "best_split": [3, 3], "split_score": 0.49366244154541983}
+{"sent": "third worker", "ann_id": 505125, "best_split": [3, 3], "split_score": 0.49366244154541983}
+{"sent": "light blue shirt woman", "ann_id": 505125, "best_split": [3, 3], "split_score": 0.49366244154541983}
+{"sent": "burgandy shirt", "ann_id": 2154179, "best_split": [3, 2], "split_score": 0.6201446280351091}
+{"sent": "burgundy shirt", "ann_id": 2154179, "best_split": [3, 2], "split_score": 0.6201446280351091}
+{"sent": "lady cutting bananas", "ann_id": 438668, "best_split": [1, 5], "split_score": 0.40055349206900054}
+{"sent": "face on shirt girl", "ann_id": 438668, "best_split": [3, 2], "split_score": 0.4581854205846458}
+{"sent": "closest woman", "ann_id": 438668, "best_split": [3, 2], "split_score": 0.4581854205846458}

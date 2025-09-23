@@ -1,0 +1,5 @@
+{"sent": "couch by windows", "ann_id": 1951500, "best_split": [3, 2], "split_score": 0.374200426399339}
+{"sent": "couch near windows", "ann_id": 1951500, "best_split": [3, 2], "split_score": 0.374200426399339}
+{"sent": "couch by window", "ann_id": 1951500, "best_split": [3, 2], "split_score": 0.374200426399339}
+{"sent": "couch by table with red thing", "ann_id": 111290, "best_split": [2, 2], "split_score": 0.3741538461250651}
+{"sent": "couch against the wal", "ann_id": 111290, "best_split": [2, 2], "split_score": 0.3741538461250651}

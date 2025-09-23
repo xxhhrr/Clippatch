@@ -1,0 +1,11 @@
+{"sent": "white shirt guy", "ann_id": 226488, "best_split": [1, 3], "split_score": 0.8552122402300879}
+{"sent": "partial guy ready to take a bite", "ann_id": 226488, "best_split": [2, 1], "split_score": 0.22898209527820512}
+{"sent": "person eating off side of pic", "ann_id": 226488, "best_split": [2, 1], "split_score": 0.22149014777643194}
+{"sent": "at the bar", "ann_id": 204925, "best_split": [1, 3], "split_score": 0.5152027026716215}
+{"sent": "man sitting on bar stool", "ann_id": 204925, "best_split": [1, 3], "split_score": 0.5152027026716215}
+{"sent": "person at counter black shirt", "ann_id": 204925, "best_split": [3, 1], "split_score": 0.19782525752585725}
+{"sent": "man holding pizza", "ann_id": 203567, "best_split": [1, 2], "split_score": 0.5767299106912974}
+{"sent": "person holding pizza not in plaid", "ann_id": 203567, "best_split": [2, 2], "split_score": 0.5080109417457707}
+{"sent": "boy girl hugging", "ann_id": 203567, "best_split": [2, 1], "split_score": 0.2987818892110588}
+{"sent": "her", "ann_id": 201770, "best_split": [1, 3], "split_score": 0.4140861134636962}
+{"sent": "girl", "ann_id": 201770, "best_split": [1, 3], "split_score": 0.4140861134636962}

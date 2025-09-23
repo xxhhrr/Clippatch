@@ -1,0 +1,15 @@
+{"sent": "light brown dog touching dark dog", "ann_id": 2221356, "best_split": [1, 5], "split_score": 0.2739448051670105}
+{"sent": "long lighter hot dog touching the darker one", "ann_id": 2221356, "best_split": [1, 5], "split_score": 0.2739448051670105}
+{"sent": "middle hot dog", "ann_id": 1568186, "best_split": [1, 5], "split_score": 0.1679477324973148}
+{"sent": "third hot dog", "ann_id": 1568186, "best_split": [1, 5], "split_score": 0.1679477324973148}
+{"sent": "shortest hotdog", "ann_id": 1568186, "best_split": [1, 5], "split_score": 0.1679477324973148}
+{"sent": "hot dog closest to steak", "ann_id": 1568151, "best_split": [3, 1], "split_score": 0.03876651982165383}
+{"sent": "dog closest steak", "ann_id": 1568151, "best_split": [2, 1], "split_score": 0.09119897958820157}
+{"sent": "hot dog with char marks in sunlight closest to steak", "ann_id": 1568151, "best_split": [1, 2], "split_score": 0.09119897958820157}
+{"sent": "hotdog on very edge", "ann_id": 1070006, "best_split": [1, 5], "split_score": 0.1378495470522007}
+{"sent": "light tan hot dog on the edge", "ann_id": 1070006, "best_split": [1, 5], "split_score": 0.1378495470522007}
+{"sent": "weeny furthest from steak closest row", "ann_id": 1070006, "best_split": [1, 5], "split_score": 0.1378495470522007}
+{"sent": "hot dog cooked in corner", "ann_id": 1069976, "best_split": [2, 3], "split_score": 0.39961941003810425}
+{"sent": "bigger hotdog not close to the steak", "ann_id": 1069976, "best_split": [2, 3], "split_score": 0.39961941003810425}
+{"sent": "hotdog in rear closer to steak", "ann_id": 1069665, "best_split": [2, 3], "split_score": 0.33356449372011504}
+{"sent": "hot dog in shadow closest to steak", "ann_id": 1069665, "best_split": [2, 3], "split_score": 0.33356449372011504}

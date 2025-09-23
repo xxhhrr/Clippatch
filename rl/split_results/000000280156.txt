@@ -1,0 +1,6 @@
+{"sent": "arm only", "ann_id": 1238316, "best_split": [3, 2], "split_score": 0.7245409014161053}
+{"sent": "a persons arm", "ann_id": 1238316, "best_split": [3, 2], "split_score": 0.7245409014161053}
+{"sent": "arm on door", "ann_id": 1238316, "best_split": [3, 2], "split_score": 0.7245409014161053}
+{"sent": "biker in white shirt", "ann_id": 192637, "best_split": [3, 2], "split_score": 0.42618384396874415}
+{"sent": "man on bike", "ann_id": 192637, "best_split": [2, 2], "split_score": 0.2769230769040575}
+{"sent": "the guy on bike", "ann_id": 192637, "best_split": [2, 2], "split_score": 0.2769230769040575}

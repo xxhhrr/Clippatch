@@ -1,0 +1,6 @@
+{"sent": "sheep that is eating out of the boys hand", "ann_id": 65099, "best_split": [2, 2], "split_score": 0.7698501274896484}
+{"sent": "sheep being touched by person", "ann_id": 65099, "best_split": [3, 2], "split_score": 0.8441064637915829}
+{"sent": "sheep looking at the man", "ann_id": 65099, "best_split": [2, 2], "split_score": 0.7698501274896484}
+{"sent": "lamb closest to camera", "ann_id": 62348, "best_split": [3, 3], "split_score": 0.6287296765001376}
+{"sent": "closest sheep to us", "ann_id": 62348, "best_split": [3, 3], "split_score": 0.6287296765001376}
+{"sent": "cow with head through fence", "ann_id": 62348, "best_split": [3, 3], "split_score": 0.6287296765001376}

@@ -1,0 +1,5 @@
+{"sent": "red couch far", "ann_id": 98693, "best_split": [2, 3], "split_score": 0.5147201552479197}
+{"sent": "sofa along wall", "ann_id": 98693, "best_split": [2, 2], "split_score": 0.7103735674423}
+{"sent": "red couch on wall", "ann_id": 98693, "best_split": [2, 3], "split_score": 0.5147201552479197}
+{"sent": "the back of couch", "ann_id": 98453, "best_split": [1, 2], "split_score": 0.5973327093857432}
+{"sent": "the couch we see from behind", "ann_id": 98453, "best_split": [1, 2], "split_score": 0.5973327093857432}

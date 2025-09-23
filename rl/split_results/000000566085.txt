@@ -1,0 +1,6 @@
+{"sent": "guy with umbrella up", "ann_id": 2153170, "best_split": [1, 2], "split_score": 0.42825255100333814}
+{"sent": "guy under umbrella", "ann_id": 2153170, "best_split": [1, 2], "split_score": 0.42825255100333814}
+{"sent": "man with clear umbrella", "ann_id": 2153170, "best_split": [1, 2], "split_score": 0.42825255100333814}
+{"sent": "blue shirt covered by umbrella", "ann_id": 1738066, "best_split": [3, 3], "split_score": 0.4913151364002303}
+{"sent": "blue jacket", "ann_id": 1738066, "best_split": [3, 3], "split_score": 0.4913151364002303}
+{"sent": "person furthest away under umbrella", "ann_id": 1738066, "best_split": [2, 3], "split_score": 0.4830548925437882}

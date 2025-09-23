@@ -1,0 +1,6 @@
+{"sent": "back of white plaid shirt with brown hair", "ann_id": 1289123, "best_split": [2, 3], "split_score": 0.6579986068425819}
+{"sent": "man with checked shirt", "ann_id": 1289123, "best_split": [2, 3], "split_score": 0.6579986068425819}
+{"sent": "white plad", "ann_id": 1289123, "best_split": [1, 5], "split_score": 0.28882745159466355}
+{"sent": "blond man with gray shirt", "ann_id": 1261922, "best_split": [3, 2], "split_score": 0.42639961384816605}
+{"sent": "man face turned", "ann_id": 1261922, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man looking in gray shirt you can only see the side of his face and shoulders", "ann_id": 1261922, "best_split": [5, 1], "split_score": 0.23047233962226865}

@@ -1,0 +1,5 @@
+{"sent": "arm blurry", "ann_id": 1761781, "best_split": [2, 1], "split_score": 0.20519770407345353}
+{"sent": "finger on spoon", "ann_id": 1761781, "best_split": [2, 3], "split_score": 0.6211389960640518}
+{"sent": "the person behind the salt shaker", "ann_id": 1717799, "best_split": [3, 2], "split_score": 0.7232142856270253}
+{"sent": "a bovepepper", "ann_id": 1717799, "best_split": [3, 2], "split_score": 0.7232142856270253}
+{"sent": "black shirt", "ann_id": 1717799, "best_split": [1, 3], "split_score": 0.09712230215355229}

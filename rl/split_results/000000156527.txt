@@ -1,0 +1,6 @@
+{"sent": "man wearing glasses", "ann_id": 1737150, "best_split": [3, 2], "split_score": 0.7052096568610265}
+{"sent": "man in glasses", "ann_id": 1737150, "best_split": [3, 2], "split_score": 0.7052096568610265}
+{"sent": "asian guy", "ann_id": 1737150, "best_split": [3, 2], "split_score": 0.7052096568610265}
+{"sent": "the guy looking at the camera", "ann_id": 1743577, "best_split": [3, 2], "split_score": 0.7252292752449893}
+{"sent": "no glasses", "ann_id": 1743577, "best_split": [2, 1], "split_score": 0.13394460723653953}
+{"sent": "no glasses guy", "ann_id": 1743577, "best_split": [3, 1], "split_score": 0.4155589901898218}

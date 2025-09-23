@@ -1,0 +1,6 @@
+{"sent": "orange", "ann_id": 537141, "best_split": [1, 2], "split_score": 0.7308274872157674}
+{"sent": "orange guy", "ann_id": 537141, "best_split": [1, 2], "split_score": 0.7308274872157674}
+{"sent": "orange shirt", "ann_id": 537141, "best_split": [1, 2], "split_score": 0.7308274872157674}
+{"sent": "skateboarder in black shirt", "ann_id": 452455, "best_split": [1, 3], "split_score": 0.4892865283514197}
+{"sent": "person in black", "ann_id": 452455, "best_split": [1, 3], "split_score": 0.4892865283514197}
+{"sent": "black shirt", "ann_id": 452455, "best_split": [1, 3], "split_score": 0.4892865283514197}

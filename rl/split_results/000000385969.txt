@@ -1,0 +1,6 @@
+{"sent": "laying down", "ann_id": 1414657, "best_split": [1, 2], "split_score": 0.31713828082079404}
+{"sent": "sitting", "ann_id": 1414657, "best_split": [1, 2], "split_score": 0.31713828082079404}
+{"sent": "giraffe sitting", "ann_id": 1414657, "best_split": [3, 2], "split_score": 0.3799595456371589}
+{"sent": "bending over", "ann_id": 1414409, "best_split": [3, 3], "split_score": 0.4104947525929164}
+{"sent": "standing giraffe", "ann_id": 1414409, "best_split": [3, 3], "split_score": 0.4104947525929164}
+{"sent": "standing one", "ann_id": 1414409, "best_split": [3, 3], "split_score": 0.4104947525929164}

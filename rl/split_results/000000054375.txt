@@ -1,0 +1,9 @@
+{"sent": "man half off screen", "ann_id": 1278164, "best_split": [5, 1], "split_score": 0.10612638687160593}
+{"sent": "guy walking off screen", "ann_id": 1278164, "best_split": [2, 2], "split_score": 0.2556285178065111}
+{"sent": "the guy cutting the cake", "ann_id": 1273107, "best_split": [2, 1], "split_score": 0.3431148156887536}
+{"sent": "guy cutting the cake", "ann_id": 1273107, "best_split": [2, 1], "split_score": 0.3431148156887536}
+{"sent": "the man cuts a cake", "ann_id": 1273107, "best_split": [2, 1], "split_score": 0.3431148156887536}
+{"sent": "man standing next to cake cutter", "ann_id": 1262255, "best_split": [1, 5], "split_score": 0.5989144049604247}
+{"sent": "standing behind cake", "ann_id": 1262255, "best_split": [1, 5], "split_score": 0.5989144049604247}
+{"sent": "red hat next to table", "ann_id": 1262255, "best_split": [1, 5], "split_score": 0.5989144049604247}
+{"sent": "dont cover my chest with your head", "ann_id": 1262255, "best_split": [1, 2], "split_score": 0.370336415801565}

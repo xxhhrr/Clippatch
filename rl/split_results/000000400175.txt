@@ -1,0 +1,6 @@
+{"sent": "woman brown coat", "ann_id": 1750722, "best_split": [1, 3], "split_score": 0.8323479729227589}
+{"sent": "black woman", "ann_id": 1750722, "best_split": [1, 3], "split_score": 0.8323479729227589}
+{"sent": "brown wool coat with brown boots", "ann_id": 1750722, "best_split": [1, 3], "split_score": 0.8323479729227589}
+{"sent": "strap over chest", "ann_id": 2152559, "best_split": [1, 3], "split_score": 0.16696783519195788}
+{"sent": "woman in yellow", "ann_id": 2152559, "best_split": [3, 2], "split_score": 0.2689477882927978}
+{"sent": "yellow 2 o clock", "ann_id": 2152559, "best_split": [3, 2], "split_score": 0.2689477882927978}

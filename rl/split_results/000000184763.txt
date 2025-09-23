@@ -1,0 +1,12 @@
+{"sent": "upper shelf hard west", "ann_id": 1871144, "best_split": [1, 5], "split_score": 0.20799512984902646}
+{"sent": "bottle with green lid", "ann_id": 1871144, "best_split": [2, 2], "split_score": 0.16342474488493106}
+{"sent": "bottle with orange slices on it", "ann_id": 1871144, "best_split": [1, 5], "split_score": 0.20799512984902646}
+{"sent": "sam next to coke", "ann_id": 1494196, "best_split": [3, 2], "split_score": 0.22435897433329224}
+{"sent": "the san something bottle", "ann_id": 1494196, "best_split": [3, 2], "split_score": 0.22435897433329224}
+{"sent": "next to coke closer to outside of fridge", "ann_id": 1494196, "best_split": [3, 2], "split_score": 0.22435897433329224}
+{"sent": "bottle of cocacola in fridge", "ann_id": 1494028, "best_split": [2, 3], "split_score": 0.2253939255280436}
+{"sent": "coca cola", "ann_id": 1494028, "best_split": [2, 2], "split_score": 0.1948341836579373}
+{"sent": "coca cola lower level", "ann_id": 1494028, "best_split": [3, 2], "split_score": 0.18011875960192228}
+{"sent": "green drink not sprite", "ann_id": 1493099, "best_split": [2, 3], "split_score": 0.2635135134817189}
+{"sent": "green and white container next to sprite bottle", "ann_id": 1493099, "best_split": [2, 3], "split_score": 0.2635135134817189}
+{"sent": "the bottle next to the sprite not coke", "ann_id": 1493099, "best_split": [2, 3], "split_score": 0.2635135134817189}

@@ -1,0 +1,17 @@
+{"sent": "appliance 1 in line", "ann_id": 1983576, "best_split": [1, 3], "split_score": 0.16324806948822104}
+{"sent": "fridge coils facing us", "ann_id": 1983576, "best_split": [2, 2], "split_score": 0.21572066324810898}
+{"sent": "fridge 1", "ann_id": 1983576, "best_split": [3, 1], "split_score": 0.1339017935822463}
+{"sent": "white back between tan and black", "ann_id": 1983280, "best_split": [3, 3], "split_score": 0.3724196276865618}
+{"sent": "white appliance next to one with black square", "ann_id": 1983280, "best_split": [3, 2], "split_score": 0.252350378324656}
+{"sent": "white fridge closest to the brown object 9 o clock", "ann_id": 1983280, "best_split": [3, 3], "split_score": 0.3724196276865618}
+{"sent": "f ourth one over from left", "ann_id": 1647717, "best_split": [2, 3], "split_score": 0.3384411196502846}
+{"sent": "fourth thing in the back", "ann_id": 1647717, "best_split": [3, 3], "split_score": 0.38686987097858483}
+{"sent": "big black square", "ann_id": 1647682, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "black one", "ann_id": 1647682, "best_split": [2, 3], "split_score": 0.2869208493862306}
+{"sent": "darkest fridge", "ann_id": 1647682, "best_split": [3, 3], "split_score": 0.34187596098720724}
+{"sent": "5 box", "ann_id": 1647654, "best_split": [3, 3], "split_score": 0.2727703984388408}
+{"sent": "number 5 down the row", "ann_id": 1647654, "best_split": [2, 1], "split_score": 0.1025589923428508}
+{"sent": "refridgerator number 3 near fridge with black on it", "ann_id": 1647654, "best_split": [3, 2], "split_score": 0.24524191696339806}
+{"sent": "fridge behind the ovens", "ann_id": 1647639, "best_split": [1, 5], "split_score": 0.21315170519275267}
+{"sent": "third fridge", "ann_id": 1647639, "best_split": [1, 5], "split_score": 0.21315170519275267}
+{"sent": "fridge directly behind or next to ovens", "ann_id": 1647639, "best_split": [1, 5], "split_score": 0.21315170519275267}

@@ -1,0 +1,4 @@
+{"sent": "light not lit", "ann_id": 1381808, "best_split": [1, 2], "split_score": 0.5984933035475728}
+{"sent": "red light", "ann_id": 403459, "best_split": [1, 3], "split_score": 0.45324881138480594}
+{"sent": "red light is on", "ann_id": 403459, "best_split": [1, 3], "split_score": 0.45324881138480594}
+{"sent": "red light", "ann_id": 403459, "best_split": [1, 3], "split_score": 0.45324881138480594}

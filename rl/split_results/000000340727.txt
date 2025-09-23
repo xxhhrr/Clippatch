@@ -1,0 +1,6 @@
+{"sent": "old man in suit", "ann_id": 225143, "best_split": [3, 3], "split_score": 0.6955486079059775}
+{"sent": "man in suit", "ann_id": 225143, "best_split": [3, 3], "split_score": 0.6955486079059775}
+{"sent": "older ma i", "ann_id": 225143, "best_split": [2, 2], "split_score": 0.16067161362340135}
+{"sent": "woman writing", "ann_id": 2154785, "best_split": [1, 2], "split_score": 0.560119723383215}
+{"sent": "woman with red pen", "ann_id": 2154785, "best_split": [1, 2], "split_score": 0.560119723383215}
+{"sent": "woman writing with red pen", "ann_id": 2154785, "best_split": [1, 2], "split_score": 0.560119723383215}

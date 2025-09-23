@@ -1,0 +1,15 @@
+{"sent": "portion of chair near", "ann_id": 1951602, "best_split": [2, 2], "split_score": 0.2582908163059398}
+{"sent": "chair under man with tan hoodie", "ann_id": 1951602, "best_split": [2, 3], "split_score": 0.3909266408794731}
+{"sent": "arm of chair man is sitting on", "ann_id": 1951602, "best_split": [2, 2], "split_score": 0.2582908163059398}
+{"sent": "striped shirt", "ann_id": 235856, "best_split": [2, 3], "split_score": 0.4502617800575642}
+{"sent": "man with beard on couch", "ann_id": 235856, "best_split": [2, 3], "split_score": 0.4502617800575642}
+{"sent": "striped white slug", "ann_id": 235856, "best_split": [2, 2], "split_score": 0.3449710295390751}
+{"sent": "man in yellow", "ann_id": 229077, "best_split": [1, 5], "split_score": 0.5510876729934832}
+{"sent": "yellow sweatshirt", "ann_id": 229077, "best_split": [1, 5], "split_score": 0.5510876729934832}
+{"sent": "yellow hoodie guy", "ann_id": 229077, "best_split": [1, 5], "split_score": 0.5510876729934832}
+{"sent": "human with crossed legs", "ann_id": 204586, "best_split": [2, 3], "split_score": 0.38781575033031035}
+{"sent": "black crossed knee", "ann_id": 204586, "best_split": [2, 3], "split_score": 0.38781575033031035}
+{"sent": "guy resting head on hand legs crossed", "ann_id": 204586, "best_split": [2, 3], "split_score": 0.38781575033031035}
+{"sent": "orange couch", "ann_id": 98143, "best_split": [1, 3], "split_score": 0.4153969526626534}
+{"sent": "couch that man with beard is sitting on", "ann_id": 98143, "best_split": [2, 3], "split_score": 0.5860536989969042}
+{"sent": "one icouch the guy with long hair is sitting on", "ann_id": 98143, "best_split": [2, 2], "split_score": 0.49062860434756134}

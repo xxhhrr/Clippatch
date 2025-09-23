@@ -1,0 +1,5 @@
+{"sent": "phone at 9 o clock", "ann_id": 1631127, "best_split": [3, 2], "split_score": 0.5603281852605781}
+{"sent": "lefty remote thing", "ann_id": 1631127, "best_split": [3, 2], "split_score": 0.5603281852605781}
+{"sent": "the remote that is mostly cut off by pic", "ann_id": 1112776, "best_split": [2, 3], "split_score": 0.41617875487917566}
+{"sent": "blurry remote with red and green button", "ann_id": 1112776, "best_split": [2, 3], "split_score": 0.41617875487917566}
+{"sent": "remote with red button", "ann_id": 1112776, "best_split": [2, 3], "split_score": 0.41617875487917566}

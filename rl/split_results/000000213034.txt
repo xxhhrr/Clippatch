@@ -1,0 +1,6 @@
+{"sent": "falling", "ann_id": 1734206, "best_split": [1, 3], "split_score": 0.3931223580262126}
+{"sent": "person falling", "ann_id": 1734206, "best_split": [3, 3], "split_score": 0.7009728621734546}
+{"sent": "the person falling off the skateboard with their leg out", "ann_id": 1734206, "best_split": [1, 2], "split_score": 0.15698410465054916}
+{"sent": "skateboard", "ann_id": 481200, "best_split": [1, 2], "split_score": 0.5555245535492855}
+{"sent": "guy that managed to stay on his board", "ann_id": 481200, "best_split": [1, 2], "split_score": 0.5555245535492855}
+{"sent": "gray plaid hoodie", "ann_id": 481200, "best_split": [1, 2], "split_score": 0.5555245535492855}

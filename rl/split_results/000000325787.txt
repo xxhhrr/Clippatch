@@ -1,0 +1,6 @@
+{"sent": "woman washing her hands", "ann_id": 470026, "best_split": [1, 3], "split_score": 0.6307481847505657}
+{"sent": "woman", "ann_id": 470026, "best_split": [1, 3], "split_score": 0.6307481847505657}
+{"sent": "girl", "ann_id": 470026, "best_split": [1, 3], "split_score": 0.6307481847505657}
+{"sent": "mans back", "ann_id": 463205, "best_split": [1, 2], "split_score": 0.6501084598497022}
+{"sent": "man tying tie", "ann_id": 463205, "best_split": [1, 2], "split_score": 0.6501084598497022}
+{"sent": "back of real mans head", "ann_id": 463205, "best_split": [1, 2], "split_score": 0.6501084598497022}

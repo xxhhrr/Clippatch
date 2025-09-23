@@ -1,0 +1,6 @@
+{"sent": "black cow under tree close to us", "ann_id": 74101, "best_split": [1, 3], "split_score": 0.33488175673655396}
+{"sent": "black cow by itself", "ann_id": 74101, "best_split": [3, 3], "split_score": 0.3615261142904647}
+{"sent": "horse alone", "ann_id": 74101, "best_split": [3, 1], "split_score": 0.15250794311409407}
+{"sent": "closest animal", "ann_id": 72041, "best_split": [3, 3], "split_score": 0.4624095626828547}
+{"sent": "brown cow white face", "ann_id": 72041, "best_split": [3, 3], "split_score": 0.4624095626828547}
+{"sent": "brown animal with white face", "ann_id": 72041, "best_split": [3, 3], "split_score": 0.4624095626828547}

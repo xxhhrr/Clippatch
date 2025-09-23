@@ -1,0 +1,10 @@
+{"sent": "kid in gray blue shirt with blue letter blond hair", "ann_id": 1261472, "best_split": [2, 2], "split_score": 0.18749999998505262}
+{"sent": "baby with gray shirt has blond hair by trash can", "ann_id": 1261472, "best_split": [2, 3], "split_score": 0.28378378374954344}
+{"sent": "baby in red pants", "ann_id": 1261472, "best_split": [3, 2], "split_score": 0.22977346275661426}
+{"sent": "boy in blue shirt with blond hair", "ann_id": 1261472, "best_split": [2, 2], "split_score": 0.18749999998505262}
+{"sent": "blue shirt looking at the hydrant", "ann_id": 1256930, "best_split": [2, 2], "split_score": 0.37655321445323114}
+{"sent": "bent down drinking lady", "ann_id": 1256930, "best_split": [2, 2], "split_score": 0.37655321445323114}
+{"sent": "drinking", "ann_id": 1256930, "best_split": [2, 2], "split_score": 0.37655321445323114}
+{"sent": "the kid red shirt in the corner", "ann_id": 1312783, "best_split": [2, 3], "split_score": 0.5492487478476927}
+{"sent": "boy in red shirt cut off", "ann_id": 1312783, "best_split": [2, 3], "split_score": 0.5492487478476927}
+{"sent": "half boy red shirt hand up", "ann_id": 1312783, "best_split": [1, 5], "split_score": 0.4207650272813461}

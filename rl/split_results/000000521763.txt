@@ -1,0 +1,6 @@
+{"sent": "bundle nearest", "ann_id": 1046227, "best_split": [2, 2], "split_score": 0.44084821425057014}
+{"sent": "banana 3 o clock", "ann_id": 1046227, "best_split": [3, 3], "split_score": 0.8654237286668773}
+{"sent": "smallest bunch off edge", "ann_id": 1046227, "best_split": [3, 3], "split_score": 0.8654237286668773}
+{"sent": "bunch with stickers", "ann_id": 1043121, "best_split": [3, 3], "split_score": 0.4487496564579326}
+{"sent": "bunch of bananas with stickers", "ann_id": 1043121, "best_split": [2, 3], "split_score": 0.41539396699221987}
+{"sent": "large bunch of bananas with stickers on 2 bananas", "ann_id": 1043121, "best_split": [2, 3], "split_score": 0.41539396699221987}

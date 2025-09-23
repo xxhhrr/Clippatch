@@ -1,0 +1,7 @@
+{"sent": "paper with edges dontquit", "ann_id": 2219636, "best_split": [2, 3], "split_score": 0.39423659036237824}
+{"sent": "paper", "ann_id": 2219636, "best_split": [2, 3], "split_score": 0.39423659036237824}
+{"sent": "brown food on plate", "ann_id": 2219318, "best_split": [3, 2], "split_score": 0.35461555904347747}
+{"sent": "brown stuff on plate", "ann_id": 2219318, "best_split": [2, 3], "split_score": 0.2641549370024177}
+{"sent": "muffin or weird thing next to wrap on plate", "ann_id": 2219318, "best_split": [3, 3], "split_score": 0.5058532563057125}
+{"sent": "half of burrito where you can see meat", "ann_id": 312226, "best_split": [2, 3], "split_score": 0.6307481847173789}
+{"sent": "cross section of a burrote", "ann_id": 312226, "best_split": [2, 3], "split_score": 0.6307481847173789}

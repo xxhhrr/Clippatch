@@ -1,0 +1,6 @@
+{"sent": "man in white shirt", "ann_id": 470682, "best_split": [1, 2], "split_score": 0.8644838402402113}
+{"sent": "no hat guy", "ann_id": 470682, "best_split": [2, 1], "split_score": 0.36328728996074405}
+{"sent": "man without hat", "ann_id": 470682, "best_split": [2, 1], "split_score": 0.36328728996074405}
+{"sent": "guy with the hat", "ann_id": 470112, "best_split": [1, 2], "split_score": 0.9610203051224514}
+{"sent": "hat", "ann_id": 470112, "best_split": [1, 2], "split_score": 0.9610203051224514}
+{"sent": "man wearing hat", "ann_id": 470112, "best_split": [1, 2], "split_score": 0.9610203051224514}

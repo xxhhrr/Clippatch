@@ -1,0 +1,9 @@
+{"sent": "sheep facing forward", "ann_id": 66594, "best_split": [3, 2], "split_score": 0.39885403513650314}
+{"sent": "sheep looking at us", "ann_id": 66594, "best_split": [3, 2], "split_score": 0.39885403513650314}
+{"sent": "he is staring at you", "ann_id": 66594, "best_split": [1, 2], "split_score": 0.5871380846120845}
+{"sent": "sheep that is looking at you", "ann_id": 64590, "best_split": [1, 2], "split_score": 0.5807088660021235}
+{"sent": "looking at us", "ann_id": 64590, "best_split": [1, 2], "split_score": 0.5807088660021235}
+{"sent": "sheep facing us", "ann_id": 64590, "best_split": [3, 2], "split_score": 0.39854439590497115}
+{"sent": "sheep looking away", "ann_id": 62994, "best_split": [1, 2], "split_score": 0.7162386706678158}
+{"sent": "turn away sheep", "ann_id": 62994, "best_split": [1, 3], "split_score": 0.5026037428599429}
+{"sent": "sheep looking away", "ann_id": 62994, "best_split": [1, 2], "split_score": 0.7162386706678158}

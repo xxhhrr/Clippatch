@@ -1,0 +1,11 @@
+{"sent": "man at the end in black shirt", "ann_id": 2165239, "best_split": [3, 3], "split_score": 0.36532248410131357}
+{"sent": "person with black shirt and plaid pants", "ann_id": 2165239, "best_split": [3, 3], "split_score": 0.36532248410131357}
+{"sent": "guy in plaid pants", "ann_id": 2165239, "best_split": [2, 3], "split_score": 0.452261819620927}
+{"sent": "girl in brown", "ann_id": 2161021, "best_split": [1, 5], "split_score": 0.3507750201280553}
+{"sent": "the skier dressed in all black with sunglasses", "ann_id": 2161021, "best_split": [2, 3], "split_score": 0.2556237218576293}
+{"sent": "red shirt", "ann_id": 2154354, "best_split": [1, 5], "split_score": 0.5726027396770031}
+{"sent": "red", "ann_id": 2154354, "best_split": [2, 3], "split_score": 0.5873015872460977}
+{"sent": "red shirt guy", "ann_id": 2154354, "best_split": [1, 5], "split_score": 0.5726027396770031}
+{"sent": "woman in blue", "ann_id": 484312, "best_split": [1, 5], "split_score": 0.3278364115824673}
+{"sent": "woman blue shirt hand across shoulder", "ann_id": 484312, "best_split": [2, 2], "split_score": 0.3384615384374315}
+{"sent": "girl in blue", "ann_id": 484312, "best_split": [1, 5], "split_score": 0.3278364115824673}

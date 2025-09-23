@@ -1,0 +1,6 @@
+{"sent": "bike by door", "ann_id": 128257, "best_split": [2, 2], "split_score": 0.716757015248983}
+{"sent": "bike closer to subway door", "ann_id": 128257, "best_split": [2, 2], "split_score": 0.716757015248983}
+{"sent": "bike against door", "ann_id": 128257, "best_split": [2, 2], "split_score": 0.716757015248983}
+{"sent": "green bike", "ann_id": 127088, "best_split": [3, 2], "split_score": 0.8059936907722798}
+{"sent": "white bike", "ann_id": 127088, "best_split": [3, 2], "split_score": 0.8059936907722798}
+{"sent": "bike with neon light green frame", "ann_id": 127088, "best_split": [3, 2], "split_score": 0.8059936907722798}

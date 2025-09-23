@@ -1,0 +1,6 @@
+{"sent": "horse with brown bag on the side", "ann_id": 57208, "best_split": [2, 2], "split_score": 0.5307820299080277}
+{"sent": "leading horse", "ann_id": 57208, "best_split": [5, 1], "split_score": 0.30344827583828776}
+{"sent": "horse with man wearing hat the horse", "ann_id": 57208, "best_split": [5, 1], "split_score": 0.30344827583828776}
+{"sent": "back horse", "ann_id": 53710, "best_split": [2, 3], "split_score": 0.6054928677234944}
+{"sent": "horse behind under woman", "ann_id": 53710, "best_split": [2, 3], "split_score": 0.6054928677234944}
+{"sent": "darkest horse", "ann_id": 53710, "best_split": [2, 3], "split_score": 0.6054928677234944}

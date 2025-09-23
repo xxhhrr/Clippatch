@@ -1,0 +1,9 @@
+{"sent": "elephant not close trunk to ground", "ann_id": 584622, "best_split": [3, 3], "split_score": 0.2589269692931162}
+{"sent": "elephant with truk down near groundbaby", "ann_id": 584622, "best_split": [3, 3], "split_score": 0.2589269692931162}
+{"sent": "the furthest elephant", "ann_id": 584622, "best_split": [3, 3], "split_score": 0.2589269692931162}
+{"sent": "elephant with its trunk out", "ann_id": 583453, "best_split": [3, 1], "split_score": 0.5604284466252734}
+{"sent": "trunk touching hands", "ann_id": 583453, "best_split": [3, 1], "split_score": 0.5604284466252734}
+{"sent": "middle elephant", "ann_id": 583453, "best_split": [3, 1], "split_score": 0.5604284466252734}
+{"sent": "elephant with trunk in mouth", "ann_id": 581716, "best_split": [3, 2], "split_score": 0.47627600655019636}
+{"sent": "elephant with trunk curled towards mouth", "ann_id": 581716, "best_split": [3, 2], "split_score": 0.47627600655019636}
+{"sent": "elephant with trunk in its mouth", "ann_id": 581716, "best_split": [3, 2], "split_score": 0.47627600655019636}

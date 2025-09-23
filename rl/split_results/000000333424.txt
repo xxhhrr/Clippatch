@@ -1,0 +1,9 @@
+{"sent": "half visible zebra", "ann_id": 592798, "best_split": [2, 3], "split_score": 0.7519379844064474}
+{"sent": "zebra cutoff", "ann_id": 592798, "best_split": [2, 3], "split_score": 0.7519379844064474}
+{"sent": "closest zebra", "ann_id": 592798, "best_split": [2, 3], "split_score": 0.7519379844064474}
+{"sent": "taller zebra", "ann_id": 592654, "best_split": [2, 2], "split_score": 0.3979591836417443}
+{"sent": "furthest", "ann_id": 592654, "best_split": [2, 1], "split_score": 0.19897959182880343}
+{"sent": "upper one", "ann_id": 592654, "best_split": [2, 3], "split_score": 0.490125673194555}
+{"sent": "almost the farthest", "ann_id": 592367, "best_split": [5, 1], "split_score": 0.21842250411957903}
+{"sent": "zebra showing whole body", "ann_id": 592367, "best_split": [2, 2], "split_score": 0.4046587215288145}
+{"sent": "zebra eating with whole body showing", "ann_id": 592367, "best_split": [2, 2], "split_score": 0.4046587215288145}

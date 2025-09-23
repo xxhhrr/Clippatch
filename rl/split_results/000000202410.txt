@@ -1,0 +1,6 @@
+{"sent": "train that we can only see a bit of touching other train", "ann_id": 167150, "best_split": [3, 1], "split_score": 0.16573779883505715}
+{"sent": "orange and pink but just a bit of the side", "ann_id": 167150, "best_split": [1, 5], "split_score": 0.5889813311090725}
+{"sent": "red bus on side", "ann_id": 167150, "best_split": [5, 1], "split_score": 0.1374101241820459}
+{"sent": "most visible bus", "ann_id": 164626, "best_split": [2, 1], "split_score": 0.4225161071447339}
+{"sent": "bus", "ann_id": 164626, "best_split": [2, 1], "split_score": 0.4225161071447339}
+{"sent": "red full bus", "ann_id": 164626, "best_split": [2, 1], "split_score": 0.4225161071447339}

@@ -1,0 +1,6 @@
+{"sent": "woman on ski slope", "ann_id": 457003, "best_split": [1, 5], "split_score": 0.5624999999500622}
+{"sent": "shorter person", "ann_id": 457003, "best_split": [1, 3], "split_score": 0.46718146715328296}
+{"sent": "girl", "ann_id": 457003, "best_split": [1, 5], "split_score": 0.5624999999500622}
+{"sent": "taller person", "ann_id": 449617, "best_split": [1, 5], "split_score": 0.7420220145461084}
+{"sent": "man in skis taller person", "ann_id": 449617, "best_split": [1, 2], "split_score": 0.3578204719245129}
+{"sent": "person with tan pants", "ann_id": 449617, "best_split": [1, 5], "split_score": 0.7420220145461084}

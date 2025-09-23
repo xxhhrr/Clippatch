@@ -1,0 +1,9 @@
+{"sent": "giraffes", "ann_id": 600160, "best_split": [3, 1], "split_score": 0.5716788786010003}
+{"sent": "any giraffe", "ann_id": 600160, "best_split": [3, 1], "split_score": 0.5716788786010003}
+{"sent": "either one of the giraffes", "ann_id": 600160, "best_split": [3, 1], "split_score": 0.5716788786010003}
+{"sent": "shaded giraffe", "ann_id": 598414, "best_split": [3, 1], "split_score": 0.4186367399310718}
+{"sent": "giraffe obscured by woman", "ann_id": 598414, "best_split": [3, 1], "split_score": 0.4186367399310718}
+{"sent": "dad", "ann_id": 598414, "best_split": [3, 1], "split_score": 0.4186367399310718}
+{"sent": "smaller giraffe", "ann_id": 597444, "best_split": [3, 1], "split_score": 0.44932656213019834}
+{"sent": "giraffe profile", "ann_id": 597444, "best_split": [3, 2], "split_score": 0.8145829124606561}
+{"sent": "lefty giraffe", "ann_id": 597444, "best_split": [3, 2], "split_score": 0.8145829124606561}

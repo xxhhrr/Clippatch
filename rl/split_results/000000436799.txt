@@ -1,0 +1,5 @@
+{"sent": "street light facing away", "ann_id": 1199789, "best_split": [5, 1], "split_score": 0.39793281650074447}
+{"sent": "lights facing away", "ann_id": 1199789, "best_split": [5, 1], "split_score": 0.39793281650074447}
+{"sent": "the larger traffic signal", "ann_id": 1199760, "best_split": [3, 2], "split_score": 0.791878172501448}
+{"sent": "lights closest to corner", "ann_id": 1199760, "best_split": [3, 2], "split_score": 0.791878172501448}
+{"sent": "traffic light facing us", "ann_id": 1199760, "best_split": [3, 2], "split_score": 0.791878172501448}

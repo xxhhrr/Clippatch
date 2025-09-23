@@ -1,0 +1,12 @@
+{"sent": "pink shirt", "ann_id": 1204816, "best_split": [2, 2], "split_score": 0.41108817454946267}
+{"sent": "pink shirt kid", "ann_id": 1204816, "best_split": [2, 2], "split_score": 0.41108817454946267}
+{"sent": "pink shirt baby", "ann_id": 1204816, "best_split": [2, 2], "split_score": 0.41108817454946267}
+{"sent": "little cake", "ann_id": 1085315, "best_split": [2, 2], "split_score": 0.1375251664753349}
+{"sent": "2 candles", "ann_id": 1085315, "best_split": [5, 1], "split_score": 0.21773538958829794}
+{"sent": "smallest cake", "ann_id": 1085315, "best_split": [2, 2], "split_score": 0.1375251664753349}
+{"sent": "carrot cake", "ann_id": 1084792, "best_split": [3, 3], "split_score": 0.5961242693638689}
+{"sent": "round cake", "ann_id": 1084792, "best_split": [3, 3], "split_score": 0.5961242693638689}
+{"sent": "cake with carrots on it", "ann_id": 1084792, "best_split": [3, 3], "split_score": 0.5961242693638689}
+{"sent": "girl in white", "ann_id": 478993, "best_split": [2, 2], "split_score": 0.4782146652134344}
+{"sent": "kid in white", "ann_id": 478993, "best_split": [1, 5], "split_score": 0.3087478558935952}
+{"sent": "girl in white shirt", "ann_id": 478993, "best_split": [2, 2], "split_score": 0.4782146652134344}

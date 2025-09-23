@@ -1,0 +1,13 @@
+{"sent": "partial chair in corner", "ann_id": 2225209, "best_split": [3, 3], "split_score": 0.46028708126630186}
+{"sent": "closest chair", "ann_id": 2225209, "best_split": [3, 3], "split_score": 0.46028708126630186}
+{"sent": "wood armed chair closest to door", "ann_id": 2224933, "best_split": [2, 3], "split_score": 0.536741973776844}
+{"sent": "chair with wooden arms near door", "ann_id": 2224933, "best_split": [2, 2], "split_score": 0.3695790816031904}
+{"sent": "biggest chair visible", "ann_id": 1949825, "best_split": [3, 1], "split_score": 0.1641428097621232}
+{"sent": "fully visible chair next to tv", "ann_id": 1949825, "best_split": [3, 2], "split_score": 0.30287579030156275}
+{"sent": "armchair nearest to the tv", "ann_id": 1949825, "best_split": [3, 2], "split_score": 0.30287579030156275}
+{"sent": "white chair closest", "ann_id": 1590622, "best_split": [3, 3], "split_score": 0.40870695250021}
+{"sent": "chair in corner at 7 o clock", "ann_id": 1590622, "best_split": [3, 3], "split_score": 0.40870695250021}
+{"sent": "near chair partial tan", "ann_id": 1590622, "best_split": [3, 3], "split_score": 0.40870695250021}
+{"sent": "chair with wooden arms", "ann_id": 1581238, "best_split": [3, 3], "split_score": 0.817388205804848}
+{"sent": "pink chair with most in view", "ann_id": 1581238, "best_split": [3, 3], "split_score": 0.817388205804848}
+{"sent": "couch by the door", "ann_id": 1581238, "best_split": [1, 3], "split_score": 0.28018510726124257}

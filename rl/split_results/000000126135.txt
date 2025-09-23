@@ -1,0 +1,6 @@
+{"sent": "you can see all of this chairs back", "ann_id": 380036, "best_split": [2, 3], "split_score": 0.683431952590508}
+{"sent": "full back of chair", "ann_id": 380036, "best_split": [2, 3], "split_score": 0.683431952590508}
+{"sent": "chair 6 o clock from laptop", "ann_id": 380036, "best_split": [2, 1], "split_score": 0.30468749998785527}
+{"sent": "chair with arms", "ann_id": 373606, "best_split": [3, 2], "split_score": 0.2833158446712155}
+{"sent": "chair with arms", "ann_id": 373606, "best_split": [3, 2], "split_score": 0.2833158446712155}
+{"sent": "chair by person visible", "ann_id": 373606, "best_split": [5, 1], "split_score": 0.20801961125827179}

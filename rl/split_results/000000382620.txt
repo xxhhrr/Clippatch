@@ -1,0 +1,6 @@
+{"sent": "chair away from camera", "ann_id": 1604488, "best_split": [2, 1], "split_score": 0.03594450672519813}
+{"sent": "seat to side of black area", "ann_id": 1604488, "best_split": [3, 3], "split_score": 0.4138861280116589}
+{"sent": "chair partial 3pm", "ann_id": 1604488, "best_split": [2, 1], "split_score": 0.13234280462080328}
+{"sent": "couch under the arm hold the camara in their hand", "ann_id": 116918, "best_split": [1, 2], "split_score": 0.1862244897884955}
+{"sent": "furniture under persons higher hand", "ann_id": 116918, "best_split": [2, 3], "split_score": 0.4255857440957446}
+{"sent": "couch at 9 o clock", "ann_id": 116918, "best_split": [2, 3], "split_score": 0.4255857440957446}

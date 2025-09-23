@@ -1,0 +1,8 @@
+{"sent": "the biggest cow", "ann_id": 72658, "best_split": [1, 2], "split_score": 0.6904698962166919}
+{"sent": "closest cow", "ann_id": 72658, "best_split": [1, 2], "split_score": 0.6904698962166919}
+{"sent": "closest cow", "ann_id": 72658, "best_split": [1, 2], "split_score": 0.6904698962166919}
+{"sent": "small cow next to bent cow", "ann_id": 71022, "best_split": [1, 3], "split_score": 0.2704342778602483}
+{"sent": "shortest cow looking at camera", "ann_id": 71022, "best_split": [1, 5], "split_score": 0.24139904153913175}
+{"sent": "m iddle cow", "ann_id": 71022, "best_split": [1, 5], "split_score": 0.24139904153913175}
+{"sent": "cow with face in grass", "ann_id": 70518, "best_split": [5, 1], "split_score": 0.1782593498672807}
+{"sent": "cow head down", "ann_id": 70518, "best_split": [5, 1], "split_score": 0.1782593498672807}

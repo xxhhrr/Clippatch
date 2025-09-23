@@ -1,0 +1,7 @@
+{"sent": "sandwich in the dark", "ann_id": 309459, "best_split": [2, 3], "split_score": 0.28637382033496}
+{"sent": "darkest loaf", "ann_id": 309459, "best_split": [1, 5], "split_score": 0.13927916920423838}
+{"sent": "big sandwitch", "ann_id": 309199, "best_split": [2, 1], "split_score": 0.6200751938348839}
+{"sent": "biggest sandwitch", "ann_id": 309199, "best_split": [2, 1], "split_score": 0.6200751938348839}
+{"sent": "the medium sized sandwich inbetween the others", "ann_id": 308927, "best_split": [3, 1], "split_score": 0.44331508989233215}
+{"sent": "between others", "ann_id": 308927, "best_split": [5, 1], "split_score": 0.47466390896621874}
+{"sent": "middle sand", "ann_id": 308927, "best_split": [5, 1], "split_score": 0.47466390896621874}

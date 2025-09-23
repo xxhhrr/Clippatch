@@ -1,0 +1,6 @@
+{"sent": "there are four people around my bus i need you to click on they will shut us down chris keep going", "ann_id": 166369, "best_split": [3, 3], "split_score": 0.40502304873549144}
+{"sent": "not bus behind red shirt but next one", "ann_id": 166369, "best_split": [3, 2], "split_score": 0.2583432335826392}
+{"sent": "bus man with blue shirt is blocking", "ann_id": 166369, "best_split": [3, 2], "split_score": 0.2583432335826392}
+{"sent": "white bus with white bumper", "ann_id": 165707, "best_split": [1, 5], "split_score": 0.2917444900736137}
+{"sent": "white bus near person in red shirt", "ann_id": 165707, "best_split": [1, 5], "split_score": 0.2917444900736137}
+{"sent": "white bus by red shirt", "ann_id": 165707, "best_split": [1, 5], "split_score": 0.2917444900736137}

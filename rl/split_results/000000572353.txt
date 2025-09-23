@@ -1,0 +1,6 @@
+{"sent": "horse turned to the side", "ann_id": 58872, "best_split": [1, 3], "split_score": 0.675762784665032}
+{"sent": "the horse only partially visible", "ann_id": 58872, "best_split": [1, 3], "split_score": 0.675762784665032}
+{"sent": "side horse", "ann_id": 58872, "best_split": [1, 3], "split_score": 0.675762784665032}
+{"sent": "fully visible horse", "ann_id": 54719, "best_split": [3, 1], "split_score": 0.13710012462935708}
+{"sent": "horse facing camera", "ann_id": 54719, "best_split": [3, 1], "split_score": 0.13710012462935708}
+{"sent": "wholehorse", "ann_id": 54719, "best_split": [3, 1], "split_score": 0.13710012462935708}

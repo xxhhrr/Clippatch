@@ -1,0 +1,6 @@
+{"sent": "eyes open", "ann_id": 52980, "best_split": [2, 2], "split_score": 0.61049217313422}
+{"sent": "small cat", "ann_id": 52980, "best_split": [2, 2], "split_score": 0.61049217313422}
+{"sent": "smaller cat", "ann_id": 52980, "best_split": [2, 2], "split_score": 0.61049217313422}
+{"sent": "black and white", "ann_id": 52884, "best_split": [1, 2], "split_score": 0.7559079601755003}
+{"sent": "black and white cat", "ann_id": 52884, "best_split": [1, 2], "split_score": 0.7559079601755003}
+{"sent": "cat with raised paw", "ann_id": 52884, "best_split": [1, 2], "split_score": 0.7559079601755003}

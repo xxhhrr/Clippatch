@@ -1,0 +1,6 @@
+{"sent": "the man without an umbrella", "ann_id": 554201, "best_split": [1, 5], "split_score": 0.20284872296964238}
+{"sent": "guy sitting down", "ann_id": 554201, "best_split": [3, 2], "split_score": 0.3692885457574287}
+{"sent": "man sitting down", "ann_id": 554201, "best_split": [3, 2], "split_score": 0.3692885457574287}
+{"sent": "standing yellow jacket", "ann_id": 439106, "best_split": [2, 2], "split_score": 0.5440853466783742}
+{"sent": "man with umbrella", "ann_id": 439106, "best_split": [1, 2], "split_score": 0.2742369128469778}
+{"sent": "man yellow shirt standing", "ann_id": 439106, "best_split": [2, 2], "split_score": 0.5440853466783742}

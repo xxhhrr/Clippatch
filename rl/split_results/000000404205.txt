@@ -1,0 +1,9 @@
+{"sent": "only the leg is visible", "ann_id": 66842, "best_split": [5, 1], "split_score": 0.056858621800642294}
+{"sent": "mama sheep", "ann_id": 66842, "best_split": [2, 3], "split_score": 0.22708355562617824}
+{"sent": "leg of animal", "ann_id": 66842, "best_split": [1, 2], "split_score": 0.1279894770357147}
+{"sent": "the farther little sheep", "ann_id": 62345, "best_split": [3, 2], "split_score": 0.5542794366768921}
+{"sent": "sheep looking at you", "ann_id": 62345, "best_split": [3, 2], "split_score": 0.5542794366768921}
+{"sent": "facing camera", "ann_id": 62345, "best_split": [3, 2], "split_score": 0.5542794366768921}
+{"sent": "tail in air", "ann_id": 61237, "best_split": [2, 3], "split_score": 0.41968911914159857}
+{"sent": "the sheep looking at the othe rsheep", "ann_id": 61237, "best_split": [1, 3], "split_score": 0.40363636361652894}
+{"sent": "has tail up", "ann_id": 61237, "best_split": [2, 3], "split_score": 0.41968911914159857}

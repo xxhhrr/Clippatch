@@ -1,0 +1,9 @@
+{"sent": "elephant looks like its standing on other elephant", "ann_id": 585678, "best_split": [3, 2], "split_score": 0.36153929068001084}
+{"sent": "partial elephant", "ann_id": 585678, "best_split": [3, 2], "split_score": 0.36153929068001084}
+{"sent": "elephant farthest away", "ann_id": 585678, "best_split": [3, 2], "split_score": 0.36153929068001084}
+{"sent": "baby", "ann_id": 585068, "best_split": [3, 3], "split_score": 0.6708273893240322}
+{"sent": "the baby", "ann_id": 585068, "best_split": [3, 3], "split_score": 0.6708273893240322}
+{"sent": "baby", "ann_id": 585068, "best_split": [3, 3], "split_score": 0.6708273893240322}
+{"sent": "mama", "ann_id": 580817, "best_split": [3, 1], "split_score": 0.38031459272775603}
+{"sent": "big close elephant", "ann_id": 580817, "best_split": [1, 2], "split_score": 0.5038139216519988}
+{"sent": "bigger elephant", "ann_id": 580817, "best_split": [1, 2], "split_score": 0.5038139216519988}

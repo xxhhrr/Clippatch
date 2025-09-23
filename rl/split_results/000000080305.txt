@@ -1,0 +1,9 @@
+{"sent": "man with very little showing black shirt", "ann_id": 554496, "best_split": [3, 2], "split_score": 0.3824095652667535}
+{"sent": "black shirt", "ann_id": 554496, "best_split": [3, 1], "split_score": 0.20785372031680047}
+{"sent": "guy half out of pictue", "ann_id": 554496, "best_split": [3, 1], "split_score": 0.20785372031680047}
+{"sent": "striped tablecloth near blue shirt", "ann_id": 553625, "best_split": [3, 2], "split_score": 0.3287818900073324}
+{"sent": "part of table next to glass and mug", "ann_id": 553625, "best_split": [5, 1], "split_score": 0.2612810040580455}
+{"sent": "the table itself with the green pattern", "ann_id": 553625, "best_split": [3, 2], "split_score": 0.3287818900073324}
+{"sent": "man in blue shirt", "ann_id": 482496, "best_split": [1, 2], "split_score": 0.5510204081413018}
+{"sent": "man in blue", "ann_id": 482496, "best_split": [1, 2], "split_score": 0.5510204081413018}
+{"sent": "blue shirt", "ann_id": 482496, "best_split": [1, 2], "split_score": 0.5510204081413018}

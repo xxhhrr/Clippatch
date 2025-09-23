@@ -1,0 +1,6 @@
+{"sent": "dark brown dog face", "ann_id": 16823, "best_split": [1, 2], "split_score": 0.9403881700192395}
+{"sent": "teeth", "ann_id": 16823, "best_split": [1, 2], "split_score": 0.9403881700192395}
+{"sent": "dog with mouth open", "ann_id": 16823, "best_split": [1, 2], "split_score": 0.9403881700192395}
+{"sent": "the dog with its mouth closed", "ann_id": 11948, "best_split": [2, 2], "split_score": 0.3874632202172348}
+{"sent": "lighter dog", "ann_id": 11948, "best_split": [1, 2], "split_score": 0.7875578848839588}
+{"sent": "collar dog", "ann_id": 11948, "best_split": [2, 2], "split_score": 0.3874632202172348}

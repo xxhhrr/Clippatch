@@ -1,0 +1,6 @@
+{"sent": "groom eating cake from the bride", "ann_id": 188238, "best_split": [3, 2], "split_score": 0.26140684408575676}
+{"sent": "groom", "ann_id": 188238, "best_split": [3, 3], "split_score": 0.25329764860893733}
+{"sent": "the groom", "ann_id": 188238, "best_split": [3, 3], "split_score": 0.25329764860893733}
+{"sent": "bride", "ann_id": 186496, "best_split": [1, 2], "split_score": 0.5649411035118979}
+{"sent": "woman in white", "ann_id": 186496, "best_split": [1, 2], "split_score": 0.5649411035118979}
+{"sent": "bride", "ann_id": 186496, "best_split": [1, 2], "split_score": 0.5649411035118979}

@@ -1,0 +1,6 @@
+{"sent": "man in black hat", "ann_id": 233717, "best_split": [1, 5], "split_score": 0.3355119825375805}
+{"sent": "black jacket white pants", "ann_id": 233717, "best_split": [2, 3], "split_score": 0.3781221091144632}
+{"sent": "black hat black jacket", "ann_id": 233717, "best_split": [1, 5], "split_score": 0.3355119825375805}
+{"sent": "driver on red bike", "ann_id": 222066, "best_split": [2, 3], "split_score": 0.6404833836113777}
+{"sent": "drive of red moped", "ann_id": 222066, "best_split": [2, 3], "split_score": 0.6404833836113777}
+{"sent": "on rred bike", "ann_id": 222066, "best_split": [2, 3], "split_score": 0.6404833836113777}

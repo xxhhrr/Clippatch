@@ -1,0 +1,5 @@
+{"sent": "small elephant behind tree", "ann_id": 581710, "best_split": [5, 1], "split_score": 0.1822527887123834}
+{"sent": "elephant under green leaves", "ann_id": 581710, "best_split": [5, 1], "split_score": 0.1822527887123834}
+{"sent": "elephant from the side", "ann_id": 580803, "best_split": [3, 3], "split_score": 0.571840209486334}
+{"sent": "elephant on edge of screen facing other elephants", "ann_id": 580803, "best_split": [3, 3], "split_score": 0.571840209486334}
+{"sent": "elephant at 3 o clock", "ann_id": 580803, "best_split": [3, 3], "split_score": 0.571840209486334}

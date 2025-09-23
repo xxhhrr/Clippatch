@@ -1,0 +1,6 @@
+{"sent": "chair behind napkin despense", "ann_id": 1584476, "best_split": [5, 1], "split_score": 0.1883720930076103}
+{"sent": "chair next to napkin dispenser", "ann_id": 1584476, "best_split": [2, 3], "split_score": 0.3755128481563903}
+{"sent": "cutoff chair behind table", "ann_id": 1584476, "best_split": [5, 1], "split_score": 0.1883720930076103}
+{"sent": "chair near us", "ann_id": 1583027, "best_split": [2, 2], "split_score": 0.8088395532001608}
+{"sent": "chair at table more visible", "ann_id": 1583027, "best_split": [2, 2], "split_score": 0.8088395532001608}
+{"sent": "larger white chair closer to us", "ann_id": 1583027, "best_split": [2, 2], "split_score": 0.8088395532001608}

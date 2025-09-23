@@ -1,0 +1,8 @@
+{"sent": "most partial zebra", "ann_id": 598148, "best_split": [1, 2], "split_score": 0.6263068319743563}
+{"sent": "tallest", "ann_id": 598148, "best_split": [1, 2], "split_score": 0.6263068319743563}
+{"sent": "giraffe at 9 o clock", "ann_id": 598148, "best_split": [1, 2], "split_score": 0.6263068319743563}
+{"sent": "giraffe between giraffes", "ann_id": 597352, "best_split": [1, 2], "split_score": 0.5866056520751157}
+{"sent": "sandwiched giraffe", "ann_id": 597352, "best_split": [1, 2], "split_score": 0.5866056520751157}
+{"sent": "lightest giraffe", "ann_id": 595274, "best_split": [2, 1], "split_score": 0.4422310756834465}
+{"sent": "giraffe with face obscured by thing in the air", "ann_id": 595274, "best_split": [3, 1], "split_score": 0.3340857787692549}
+{"sent": "shortest giraffe", "ann_id": 595274, "best_split": [2, 1], "split_score": 0.4422310756834465}

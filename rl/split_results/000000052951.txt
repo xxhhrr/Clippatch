@@ -1,0 +1,6 @@
+{"sent": "giraffe that is standing up", "ann_id": 600344, "best_split": [3, 3], "split_score": 0.5464667120487995}
+{"sent": "standing giraffe", "ann_id": 600344, "best_split": [3, 3], "split_score": 0.5464667120487995}
+{"sent": "walking giraffe", "ann_id": 600344, "best_split": [3, 3], "split_score": 0.5464667120487995}
+{"sent": "big giraffe laying down", "ann_id": 599561, "best_split": [3, 1], "split_score": 0.3045267489542583}
+{"sent": "girafffe with long neck sitting down", "ann_id": 599561, "best_split": [3, 1], "split_score": 0.3045267489542583}
+{"sent": "biggest one sitting", "ann_id": 599561, "best_split": [3, 1], "split_score": 0.3045267489542583}

@@ -1,0 +1,6 @@
+{"sent": "yellow motorcycle closest to man in yellow shirt", "ann_id": 154740, "best_split": [3, 3], "split_score": 0.5578477835854686}
+{"sent": "motorbike further away from photographer", "ann_id": 154740, "best_split": [3, 3], "split_score": 0.5578477835854686}
+{"sent": "bike not closest to us next to bike that is", "ann_id": 154740, "best_split": [3, 3], "split_score": 0.5578477835854686}
+{"sent": "number one bike", "ann_id": 154081, "best_split": [2, 2], "split_score": 0.5055894657084158}
+{"sent": "close yellow bike", "ann_id": 154081, "best_split": [2, 2], "split_score": 0.5055894657084158}
+{"sent": "nearest bike", "ann_id": 154081, "best_split": [2, 2], "split_score": 0.5055894657084158}

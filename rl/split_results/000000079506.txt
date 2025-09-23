@@ -1,0 +1,12 @@
+{"sent": "part of oven with dials", "ann_id": 2139724, "best_split": [2, 1], "split_score": 0.4984853316127836}
+{"sent": "where you adjust the heat", "ann_id": 2139724, "best_split": [3, 1], "split_score": 0.549139721911834}
+{"sent": "the knobs and dials", "ann_id": 2139724, "best_split": [3, 1], "split_score": 0.549139721911834}
+{"sent": "the oven under the food", "ann_id": 1125690, "best_split": [3, 1], "split_score": 0.4955406744393399}
+{"sent": "range", "ann_id": 1125690, "best_split": [1, 2], "split_score": 0.4008936507458886}
+{"sent": "stove base", "ann_id": 1125690, "best_split": [2, 1], "split_score": 0.7375305404702481}
+{"sent": "casserole in the white corningware dish", "ann_id": 1039085, "best_split": [3, 1], "split_score": 0.3921332046095479}
+{"sent": "white plate", "ann_id": 1039085, "best_split": [3, 2], "split_score": 0.5176518882884183}
+{"sent": "white bowl", "ann_id": 1039085, "best_split": [5, 1], "split_score": 0.5066322770351297}
+{"sent": "gray pot", "ann_id": 717130, "best_split": [5, 1], "split_score": 0.4494084796495401}
+{"sent": "square casarole", "ann_id": 717130, "best_split": [5, 1], "split_score": 0.4494084796495401}
+{"sent": "casserole in silver pot", "ann_id": 717130, "best_split": [5, 1], "split_score": 0.4494084796495401}

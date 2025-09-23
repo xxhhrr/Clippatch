@@ -1,0 +1,6 @@
+{"sent": "pizza with tomatoes and green", "ann_id": 1077788, "best_split": [5, 1], "split_score": 0.2778251962890214}
+{"sent": "closest pizza with green on it", "ann_id": 1077788, "best_split": [5, 1], "split_score": 0.2778251962890214}
+{"sent": "half pizza with green", "ann_id": 1077788, "best_split": [5, 1], "split_score": 0.2778251962890214}
+{"sent": "pizza with onions", "ann_id": 1076893, "best_split": [5, 1], "split_score": 0.5277060877085391}
+{"sent": "loaded with red onions", "ann_id": 1076893, "best_split": [5, 1], "split_score": 0.5277060877085391}
+{"sent": "they ate some", "ann_id": 1076893, "best_split": [5, 1], "split_score": 0.5277060877085391}

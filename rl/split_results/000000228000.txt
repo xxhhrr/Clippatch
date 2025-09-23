@@ -1,0 +1,13 @@
+{"sent": "with a dog", "ann_id": 203909, "best_split": [1, 2], "split_score": 0.591748808649659}
+{"sent": "man with shoes", "ann_id": 203909, "best_split": [1, 3], "split_score": 0.43535620051218155}
+{"sent": "guy with dog", "ann_id": 203909, "best_split": [1, 2], "split_score": 0.591748808649659}
+{"sent": "green hat", "ann_id": 203909, "best_split": [1, 2], "split_score": 0.591748808649659}
+{"sent": "man in red", "ann_id": 202974, "best_split": [1, 2], "split_score": 0.5822704081400562}
+{"sent": "ohio state", "ann_id": 202974, "best_split": [1, 2], "split_score": 0.5822704081400562}
+{"sent": "man in red", "ann_id": 202974, "best_split": [1, 2], "split_score": 0.5822704081400562}
+{"sent": "the cushions in between the two people", "ann_id": 111364, "best_split": [3, 1], "split_score": 0.4974391805150247}
+{"sent": "beige couch behind man in red shirt", "ann_id": 111364, "best_split": [3, 2], "split_score": 0.5125541125224147}
+{"sent": "tan couch near red shirt", "ann_id": 111364, "best_split": [3, 2], "split_score": 0.5125541125224147}
+{"sent": "stripped couch", "ann_id": 99105, "best_split": [1, 2], "split_score": 0.5624385447196784}
+{"sent": "chair under dog", "ann_id": 99105, "best_split": [1, 2], "split_score": 0.5624385447196784}
+{"sent": "chair hat guy is on", "ann_id": 99105, "best_split": [1, 2], "split_score": 0.5624385447196784}

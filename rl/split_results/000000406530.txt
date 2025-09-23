@@ -1,0 +1,6 @@
+{"sent": "white balls that animal heads are hanging from", "ann_id": 1162758, "best_split": [1, 3], "split_score": 0.13875788396279573}
+{"sent": "a white stuffed animal", "ann_id": 1162758, "best_split": [3, 2], "split_score": 0.21077572883375134}
+{"sent": "the white teddy bear", "ann_id": 1162758, "best_split": [1, 3], "split_score": 0.13875788396279573}
+{"sent": "light brown hanging heads", "ann_id": 1161342, "best_split": [2, 3], "split_score": 0.29525483300799044}
+{"sent": "light stuffed bear hanging", "ann_id": 1161342, "best_split": [5, 1], "split_score": 0.31651556953916876}
+{"sent": "the tan bear that is hanging", "ann_id": 1161342, "best_split": [5, 1], "split_score": 0.31651556953916876}

@@ -1,0 +1,6 @@
+{"sent": "closest suitcase", "ann_id": 1843581, "best_split": [3, 3], "split_score": 0.8438428522872494}
+{"sent": "bag closest to corner and us", "ann_id": 1843581, "best_split": [3, 1], "split_score": 0.3033300169542149}
+{"sent": "black case closest to us at edge", "ann_id": 1843581, "best_split": [3, 3], "split_score": 0.8438428522872494}
+{"sent": "black suire case closest to the backpack", "ann_id": 1186568, "best_split": [5, 1], "split_score": 0.3690058060089595}
+{"sent": "fat suitcase", "ann_id": 1186568, "best_split": [5, 1], "split_score": 0.3690058060089595}
+{"sent": "black suitcase near brown wall", "ann_id": 1186568, "best_split": [5, 1], "split_score": 0.3690058060089595}

@@ -1,0 +1,5 @@
+{"sent": "poop sign", "ann_id": 1967620, "best_split": [1, 2], "split_score": 0.33063869587350886}
+{"sent": "tank lid", "ann_id": 1967620, "best_split": [2, 1], "split_score": 0.4760987178360595}
+{"sent": "toilet bowl", "ann_id": 1967568, "best_split": [2, 3], "split_score": 0.6170475601747184}
+{"sent": "toilet water", "ann_id": 1967568, "best_split": [2, 3], "split_score": 0.6170475601747184}
+{"sent": "toilet", "ann_id": 1967568, "best_split": [2, 3], "split_score": 0.6170475601747184}

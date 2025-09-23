@@ -1,0 +1,6 @@
+{"sent": "wine glass furthest away", "ann_id": 666597, "best_split": [3, 1], "split_score": 0.4813308301793215}
+{"sent": "half the glass is showing", "ann_id": 666597, "best_split": [3, 2], "split_score": 0.6067406756164251}
+{"sent": "wine glass 300", "ann_id": 666597, "best_split": [3, 1], "split_score": 0.4813308301793215}
+{"sent": "fall down wine glass", "ann_id": 666396, "best_split": [2, 1], "split_score": 0.6977047469745248}
+{"sent": "wine glass near us", "ann_id": 666396, "best_split": [2, 1], "split_score": 0.6977047469745248}
+{"sent": "wine glass nearest you good luck too", "ann_id": 666396, "best_split": [2, 1], "split_score": 0.6977047469745248}

@@ -1,0 +1,6 @@
+{"sent": "glass of water next to beer bottle", "ann_id": 673345, "best_split": [3, 2], "split_score": 0.5489864864202477}
+{"sent": "water glass", "ann_id": 673345, "best_split": [3, 3], "split_score": 0.7852564101165853}
+{"sent": "glass of ice water", "ann_id": 673345, "best_split": [3, 3], "split_score": 0.7852564101165853}
+{"sent": "cup with brown drink", "ann_id": 672345, "best_split": [2, 2], "split_score": 0.6108896683186472}
+{"sent": "a street", "ann_id": 672345, "best_split": [2, 2], "split_score": 0.6108896683186472}
+{"sent": "boulevard glass", "ann_id": 672345, "best_split": [2, 2], "split_score": 0.6108896683186472}

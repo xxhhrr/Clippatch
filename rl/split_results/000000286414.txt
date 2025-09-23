@@ -1,0 +1,6 @@
+{"sent": "cat laying down", "ann_id": 51358, "best_split": [3, 2], "split_score": 0.7024353119479848}
+{"sent": "laying cat", "ann_id": 51358, "best_split": [3, 2], "split_score": 0.7024353119479848}
+{"sent": "cat laying down", "ann_id": 51358, "best_split": [3, 2], "split_score": 0.7024353119479848}
+{"sent": "cat wbow", "ann_id": 50994, "best_split": [1, 5], "split_score": 0.35597365942088677}
+{"sent": "cat with yellow ribbon", "ann_id": 50994, "best_split": [2, 3], "split_score": 0.456792923513632}
+{"sent": "cat with ribbon around neck", "ann_id": 50994, "best_split": [2, 3], "split_score": 0.456792923513632}

@@ -1,0 +1,6 @@
+{"sent": "person holding baby", "ann_id": 1229767, "best_split": [1, 5], "split_score": 0.9442610214658903}
+{"sent": "person out of frame behind baby", "ann_id": 1229767, "best_split": [1, 3], "split_score": 0.613296332009333}
+{"sent": "almost not visible person holding baby", "ann_id": 1229767, "best_split": [1, 3], "split_score": 0.613296332009333}
+{"sent": "green", "ann_id": 484714, "best_split": [1, 2], "split_score": 0.5375079719173506}
+{"sent": "baby", "ann_id": 484714, "best_split": [1, 2], "split_score": 0.5375079719173506}
+{"sent": "baby", "ann_id": 484714, "best_split": [1, 2], "split_score": 0.5375079719173506}

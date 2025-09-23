@@ -1,0 +1,6 @@
+{"sent": "sanwich closest to the sauce", "ann_id": 312588, "best_split": [3, 3], "split_score": 0.3557812499444092}
+{"sent": "smaller half of sandwich on plate with salad", "ann_id": 312588, "best_split": [1, 3], "split_score": 0.1301142857068506}
+{"sent": "sandwich falling off plate", "ann_id": 312588, "best_split": [3, 3], "split_score": 0.3557812499444092}
+{"sent": "on plate closes to the screen sandwich half near coffee creamer", "ann_id": 311207, "best_split": [3, 2], "split_score": 0.5278549982733398}
+{"sent": "sandwich slice with the cut part facing us", "ann_id": 311207, "best_split": [3, 2], "split_score": 0.5278549982733398}
+{"sent": "bread closest to milk cup", "ann_id": 311207, "best_split": [3, 2], "split_score": 0.5278549982733398}

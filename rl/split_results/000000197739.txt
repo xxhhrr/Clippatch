@@ -1,0 +1,5 @@
+{"sent": "sunglasses on hairhead", "ann_id": 2164648, "best_split": [1, 3], "split_score": 0.3987924094163746}
+{"sent": "woman", "ann_id": 2164648, "best_split": [2, 1], "split_score": 0.2975871313591512}
+{"sent": "sunglasses with flower covering chest", "ann_id": 212545, "best_split": [2, 1], "split_score": 0.5533243036171802}
+{"sent": "blurry lady", "ann_id": 212545, "best_split": [2, 1], "split_score": 0.5533243036171802}
+{"sent": "balding man", "ann_id": 212545, "best_split": [1, 2], "split_score": 0.5027488961543156}

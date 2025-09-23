@@ -1,0 +1,5 @@
+{"sent": "motorcycle behind 1", "ann_id": 152875, "best_split": [1, 3], "split_score": 0.1586634653782181}
+{"sent": "bike behind closest one", "ann_id": 152875, "best_split": [1, 3], "split_score": 0.1586634653782181}
+{"sent": "bike with wheels closest to wall not number 1", "ann_id": 152875, "best_split": [3, 1], "split_score": 0.13193901484890838}
+{"sent": "large bike", "ann_id": 148480, "best_split": [3, 1], "split_score": 0.4579207920638908}
+{"sent": "motorcycle closet to us", "ann_id": 148480, "best_split": [3, 1], "split_score": 0.4579207920638908}

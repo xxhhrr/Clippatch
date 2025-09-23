@@ -1,0 +1,6 @@
+{"sent": "cow cut half off", "ann_id": 2177050, "best_split": [1, 3], "split_score": 0.1703276917434685}
+{"sent": "cow eating farther away from main cow", "ann_id": 2177050, "best_split": [3, 3], "split_score": 0.37931034476530207}
+{"sent": "cow directly under the ear tag", "ann_id": 2177050, "best_split": [1, 3], "split_score": 0.1703276917434685}
+{"sent": "cow", "ann_id": 70731, "best_split": [1, 2], "split_score": 0.5435647736189998}
+{"sent": "949", "ann_id": 70731, "best_split": [1, 2], "split_score": 0.5435647736189998}
+{"sent": "cow", "ann_id": 70731, "best_split": [1, 2], "split_score": 0.5435647736189998}

@@ -1,0 +1,8 @@
+{"sent": "the portion of cake on the clear plate", "ann_id": 1928291, "best_split": [3, 1], "split_score": 0.6243967181090494}
+{"sent": "main cake", "ann_id": 1928291, "best_split": [3, 1], "split_score": 0.6243967181090494}
+{"sent": "cake on glass", "ann_id": 1928291, "best_split": [3, 1], "split_score": 0.6243967181090494}
+{"sent": "coffee cake next to blue fork", "ann_id": 1927365, "best_split": [1, 5], "split_score": 0.16153295127493436}
+{"sent": "slice on plate without fork", "ann_id": 1927365, "best_split": [2, 1], "split_score": 0.12420280611749829}
+{"sent": "closest dessert on plate", "ann_id": 1927365, "best_split": [1, 2], "split_score": 0.08007505839696415}
+{"sent": "slice further from you", "ann_id": 1576832, "best_split": [1, 2], "split_score": 0.12436224489300214}
+{"sent": "piece cut not flat on plate", "ann_id": 1576832, "best_split": [2, 3], "split_score": 0.15278900564341258}

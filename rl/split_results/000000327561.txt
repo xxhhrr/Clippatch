@@ -1,0 +1,8 @@
+{"sent": "person closest to us", "ann_id": 503064, "best_split": [1, 3], "split_score": 0.36486486484285324}
+{"sent": "person with pointy hat", "ann_id": 503064, "best_split": [1, 3], "split_score": 0.36486486484285324}
+{"sent": "the girl closest to you", "ann_id": 503064, "best_split": [1, 2], "split_score": 0.24107142856181954}
+{"sent": "woman next to sign", "ann_id": 501958, "best_split": [1, 5], "split_score": 0.4042288556854807}
+{"sent": "man at tree trunk", "ann_id": 501958, "best_split": [1, 5], "split_score": 0.4042288556854807}
+{"sent": "woman with no hair showing", "ann_id": 501958, "best_split": [1, 3], "split_score": 0.35895270268104773}
+{"sent": "smaller guy", "ann_id": 499313, "best_split": [1, 5], "split_score": 0.5148936169714803}
+{"sent": "the guy facing you", "ann_id": 499313, "best_split": [1, 5], "split_score": 0.5148936169714803}

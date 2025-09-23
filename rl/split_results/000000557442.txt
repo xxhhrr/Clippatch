@@ -1,0 +1,6 @@
+{"sent": "walk sign", "ann_id": 1804531, "best_split": [1, 2], "split_score": 0.21344866070577773}
+{"sent": "walk light sign", "ann_id": 1804531, "best_split": [3, 2], "split_score": 0.3240489130120294}
+{"sent": "walk light", "ann_id": 1804531, "best_split": [3, 2], "split_score": 0.3240489130120294}
+{"sent": "crossing light whose face we cant see", "ann_id": 403877, "best_split": [2, 3], "split_score": 0.4126447875949994}
+{"sent": "yellow", "ann_id": 403877, "best_split": [2, 3], "split_score": 0.4126447875949994}
+{"sent": "yellow box", "ann_id": 403877, "best_split": [2, 3], "split_score": 0.4126447875949994}

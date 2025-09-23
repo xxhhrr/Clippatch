@@ -1,0 +1,11 @@
+{"sent": "kindle", "ann_id": 2227571, "best_split": [1, 2], "split_score": 0.30899234692645916}
+{"sent": "bigger tablet near to pizza", "ann_id": 2227571, "best_split": [1, 3], "split_score": 0.40950173809910184}
+{"sent": "largest device", "ann_id": 1978136, "best_split": [3, 1], "split_score": 0.2999904734543207}
+{"sent": "biggest tablet", "ann_id": 1978136, "best_split": [2, 2], "split_score": 0.5232481990489032}
+{"sent": "biggest tablet", "ann_id": 1978136, "best_split": [2, 2], "split_score": 0.5232481990489032}
+{"sent": "medium size phone no keyboard", "ann_id": 327242, "best_split": [2, 2], "split_score": 0.19713168186459376}
+{"sent": "tablet above phone", "ann_id": 327242, "best_split": [3, 3], "split_score": 0.430960222899549}
+{"sent": "tablet in between", "ann_id": 327242, "best_split": [3, 3], "split_score": 0.430960222899549}
+{"sent": "smallest device", "ann_id": 323040, "best_split": [2, 3], "split_score": 0.3928571428097421}
+{"sent": "phone nearest us", "ann_id": 323040, "best_split": [1, 3], "split_score": 0.19642857141672124}
+{"sent": "little phone", "ann_id": 323040, "best_split": [2, 3], "split_score": 0.3928571428097421}

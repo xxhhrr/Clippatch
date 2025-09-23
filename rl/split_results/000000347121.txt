@@ -1,0 +1,5 @@
+{"sent": "chair near bananas", "ann_id": 1934587, "best_split": [2, 2], "split_score": 0.7207792207314617}
+{"sent": "recliner hidden behind bananas", "ann_id": 1934587, "best_split": [2, 2], "split_score": 0.7207792207314617}
+{"sent": "white lawn chair", "ann_id": 104668, "best_split": [2, 3], "split_score": 0.6441768735058981}
+{"sent": "chair", "ann_id": 104668, "best_split": [2, 3], "split_score": 0.6441768735058981}
+{"sent": "chair closest to fence", "ann_id": 104668, "best_split": [2, 3], "split_score": 0.6441768735058981}

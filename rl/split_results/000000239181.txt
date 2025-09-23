@@ -1,0 +1,6 @@
+{"sent": "lamb behind other one", "ann_id": 65090, "best_split": [1, 3], "split_score": 0.4278531925437099}
+{"sent": "lamb behind this one", "ann_id": 65090, "best_split": [1, 3], "split_score": 0.4278531925437099}
+{"sent": "sheep not main one", "ann_id": 65090, "best_split": [1, 3], "split_score": 0.4278531925437099}
+{"sent": "lamb showing most", "ann_id": 64005, "best_split": [1, 3], "split_score": 0.39370807308437566}
+{"sent": "nearest lamb", "ann_id": 64005, "best_split": [1, 3], "split_score": 0.39370807308437566}
+{"sent": "the one that is more visible", "ann_id": 64005, "best_split": [2, 1], "split_score": 0.5195766878366838}

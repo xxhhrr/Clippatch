@@ -1,0 +1,9 @@
+{"sent": "purple shirt", "ann_id": 1718999, "best_split": [2, 1], "split_score": 0.5601830015904117}
+{"sent": "closest guy", "ann_id": 1718999, "best_split": [2, 1], "split_score": 0.5601830015904117}
+{"sent": "closest boy", "ann_id": 1718999, "best_split": [2, 1], "split_score": 0.5601830015904117}
+{"sent": "black haired man", "ann_id": 211763, "best_split": [2, 3], "split_score": 0.516746411432795}
+{"sent": "dude in black shirt", "ann_id": 211763, "best_split": [3, 3], "split_score": 0.5191067589540116}
+{"sent": "asian man", "ann_id": 211763, "best_split": [2, 3], "split_score": 0.516746411432795}
+{"sent": "man wearing eyeglasses", "ann_id": 208864, "best_split": [2, 2], "split_score": 0.5279126213271897}
+{"sent": "white shirt", "ann_id": 208864, "best_split": [2, 2], "split_score": 0.5279126213271897}
+{"sent": "guy in white", "ann_id": 208864, "best_split": [3, 2], "split_score": 0.48145001412620714}

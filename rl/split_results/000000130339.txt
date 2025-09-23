@@ -1,0 +1,13 @@
+{"sent": "tallest giraffe", "ann_id": 601487, "best_split": [3, 2], "split_score": 0.23435171383808198}
+{"sent": "giraffe on side of screen", "ann_id": 601487, "best_split": [3, 2], "split_score": 0.23435171383808198}
+{"sent": "giraffe blocked by fence pole partially", "ann_id": 601487, "best_split": [3, 2], "split_score": 0.23435171383808198}
+{"sent": "giraffe face by fence", "ann_id": 600153, "best_split": [1, 5], "split_score": 0.4874183845288373}
+{"sent": "zebra moving close to the fence the more visible one", "ann_id": 600153, "best_split": [1, 5], "split_score": 0.4874183845288373}
+{"sent": "giraffe immediately facing the person nose is cut off", "ann_id": 596499, "best_split": [1, 5], "split_score": 0.2572104329375724}
+{"sent": "closest giraffe exactly above the head", "ann_id": 596499, "best_split": [1, 5], "split_score": 0.2572104329375724}
+{"sent": "long hair", "ann_id": 495278, "best_split": [3, 3], "split_score": 0.787001476988626}
+{"sent": "person giraffes are sniffing", "ann_id": 495278, "best_split": [1, 5], "split_score": 0.11458333332558283}
+{"sent": "big head", "ann_id": 495278, "best_split": [3, 3], "split_score": 0.787001476988626}
+{"sent": "lady corner not all in", "ann_id": 471290, "best_split": [2, 2], "split_score": 0.3153698979340426}
+{"sent": "corner guy", "ann_id": 471290, "best_split": [3, 1], "split_score": 0.03691732740584226}
+{"sent": "guy", "ann_id": 471290, "best_split": [3, 1], "split_score": 0.18340057635830545}

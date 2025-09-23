@@ -1,0 +1,6 @@
+{"sent": "bowl of strawberries", "ann_id": 1040520, "best_split": [2, 3], "split_score": 0.6113783726614329}
+{"sent": "red", "ann_id": 1040520, "best_split": [2, 3], "split_score": 0.6113783726614329}
+{"sent": "strawberrys", "ann_id": 1040520, "best_split": [2, 3], "split_score": 0.6113783726614329}
+{"sent": "grits", "ann_id": 716232, "best_split": [2, 2], "split_score": 0.7351598172991467}
+{"sent": "bowl of yellow stuff", "ann_id": 716232, "best_split": [2, 2], "split_score": 0.7351598172991467}
+{"sent": "bowl next to bananas with oatmeal stuff in it", "ann_id": 716232, "best_split": [3, 1], "split_score": 0.47176079731770343}

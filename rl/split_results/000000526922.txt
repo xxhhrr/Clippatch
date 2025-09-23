@@ -1,0 +1,9 @@
+{"sent": "green bus", "ann_id": 1364963, "best_split": [2, 2], "split_score": 0.7483296213287632}
+{"sent": "green and white bus all squeezed in", "ann_id": 1364963, "best_split": [2, 2], "split_score": 0.7483296213287632}
+{"sent": "last bus with lotsa little writing on windshield", "ann_id": 1364963, "best_split": [2, 2], "split_score": 0.7483296213287632}
+{"sent": "blue bus with ri in window", "ann_id": 248285, "best_split": [1, 3], "split_score": 0.7183277026593673}
+{"sent": "bus r1", "ann_id": 248285, "best_split": [1, 3], "split_score": 0.7183277026593673}
+{"sent": "bus at 9 r1", "ann_id": 248285, "best_split": [1, 3], "split_score": 0.7183277026593673}
+{"sent": "white and blue bus next to pick up", "ann_id": 166926, "best_split": [2, 1], "split_score": 0.39121844126259003}
+{"sent": "bus rght", "ann_id": 166926, "best_split": [3, 1], "split_score": 0.30133267521281676}
+{"sent": "chula vista train", "ann_id": 166926, "best_split": [3, 1], "split_score": 0.30133267521281676}

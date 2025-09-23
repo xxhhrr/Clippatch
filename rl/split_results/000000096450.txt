@@ -1,0 +1,6 @@
+{"sent": "guy with towel", "ann_id": 477019, "best_split": [2, 1], "split_score": 0.4326195607218896}
+{"sent": "man touching raquet", "ann_id": 477019, "best_split": [1, 2], "split_score": 0.6227277448680085}
+{"sent": "man holding racket", "ann_id": 477019, "best_split": [1, 2], "split_score": 0.6227277448680085}
+{"sent": "man with backwards cap", "ann_id": 421054, "best_split": [1, 3], "split_score": 0.6372753865060429}
+{"sent": "backwards white hat", "ann_id": 421054, "best_split": [1, 2], "split_score": 0.4324776785541901}
+{"sent": "backwards hat dude", "ann_id": 421054, "best_split": [1, 3], "split_score": 0.6372753865060429}

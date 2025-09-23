@@ -1,0 +1,8 @@
+{"sent": "smile", "ann_id": 1052853, "best_split": [1, 3], "split_score": 0.6213946695590821}
+{"sent": "faces", "ann_id": 1052853, "best_split": [1, 3], "split_score": 0.6213946695590821}
+{"sent": "happy orange", "ann_id": 1052853, "best_split": [1, 3], "split_score": 0.6213946695590821}
+{"sent": "plain lemon", "ann_id": 1052294, "best_split": [2, 2], "split_score": 0.5940688775036616}
+{"sent": "plain unmarked lemon", "ann_id": 1052294, "best_split": [1, 2], "split_score": 0.29703443876367047}
+{"sent": "orange above lime", "ann_id": 1051535, "best_split": [1, 5], "split_score": 0.28893984827227553}
+{"sent": "oragne next to happy and over lime", "ann_id": 1051535, "best_split": [1, 2], "split_score": 0.18965242346182826}
+{"sent": "orange behind lime", "ann_id": 1051535, "best_split": [1, 5], "split_score": 0.28893984827227553}

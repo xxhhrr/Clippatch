@@ -1,0 +1,12 @@
+{"sent": "smallest portion", "ann_id": 2218662, "best_split": [1, 2], "split_score": 0.5384274639889839}
+{"sent": "food behind the other one closest to the sauce", "ann_id": 2218662, "best_split": [1, 2], "split_score": 0.5384274639889839}
+{"sent": "food hunk closer to 9pm", "ann_id": 2218662, "best_split": [1, 2], "split_score": 0.5384274639889839}
+{"sent": "fried thing farthest from ketchup", "ann_id": 2218518, "best_split": [2, 1], "split_score": 0.43251357392422507}
+{"sent": "meat with little green", "ann_id": 2218518, "best_split": [2, 1], "split_score": 0.43251357392422507}
+{"sent": "closer crab cake", "ann_id": 2218518, "best_split": [2, 2], "split_score": 0.47700466304850486}
+{"sent": "the sauce white", "ann_id": 718533, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "white cup after food", "ann_id": 718533, "best_split": [2, 1], "split_score": 0.19323979591066487}
+{"sent": "empty plastic container", "ann_id": 718533, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "red sauce", "ann_id": 716191, "best_split": [3, 3], "split_score": 0.4225888324202746}
+{"sent": "white bowl with red stuff in it", "ann_id": 716191, "best_split": [3, 3], "split_score": 0.4225888324202746}
+{"sent": "red sauce", "ann_id": 716191, "best_split": [3, 3], "split_score": 0.4225888324202746}

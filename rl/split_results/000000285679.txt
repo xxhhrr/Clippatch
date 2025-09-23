@@ -1,0 +1,6 @@
+{"sent": "number 13", "ann_id": 1193039, "best_split": [3, 2], "split_score": 0.31685069607334965}
+{"sent": "13", "ann_id": 1193039, "best_split": [3, 2], "split_score": 0.31685069607334965}
+{"sent": "truck with 13", "ann_id": 1193039, "best_split": [3, 2], "split_score": 0.31685069607334965}
+{"sent": "car with 12", "ann_id": 1192508, "best_split": [3, 1], "split_score": 0.18798262547128483}
+{"sent": "right car", "ann_id": 1192508, "best_split": [3, 1], "split_score": 0.18798262547128483}
+{"sent": "car with right written on door", "ann_id": 1192508, "best_split": [3, 1], "split_score": 0.18798262547128483}

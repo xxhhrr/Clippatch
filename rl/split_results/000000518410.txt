@@ -1,0 +1,8 @@
+{"sent": "man in red tee shirt with shirt over that", "ann_id": 1250090, "best_split": [3, 1], "split_score": 0.20998687051755593}
+{"sent": "red shirt under white shirt", "ann_id": 1250090, "best_split": [3, 1], "split_score": 0.20998687051755593}
+{"sent": "guy with red shirt next to boy", "ann_id": 1250090, "best_split": [1, 3], "split_score": 0.7235159265972783}
+{"sent": "kid", "ann_id": 1225863, "best_split": [2, 3], "split_score": 0.4926238594275924}
+{"sent": "kid", "ann_id": 1225863, "best_split": [2, 3], "split_score": 0.4926238594275924}
+{"sent": "man in backpack", "ann_id": 1214756, "best_split": [1, 2], "split_score": 0.48038365664678706}
+{"sent": "guy in cap", "ann_id": 1214756, "best_split": [1, 3], "split_score": 0.46208951437612245}
+{"sent": "man holding a paper", "ann_id": 1214756, "best_split": [1, 2], "split_score": 0.48038365664678706}

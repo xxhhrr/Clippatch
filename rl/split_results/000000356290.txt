@@ -1,0 +1,12 @@
+{"sent": "flatware underneath the main dish", "ann_id": 1038843, "best_split": [1, 2], "split_score": 0.4138706774516689}
+{"sent": "closest plate", "ann_id": 1038843, "best_split": [2, 1], "split_score": 0.4773002014614741}
+{"sent": "plate of food bigger", "ann_id": 1038843, "best_split": [2, 1], "split_score": 0.4773002014614741}
+{"sent": "smaller bowl", "ann_id": 1038591, "best_split": [3, 2], "split_score": 0.3793364928550392}
+{"sent": "small bowl", "ann_id": 1038591, "best_split": [3, 2], "split_score": 0.3793364928550392}
+{"sent": "plate containing only a spoon", "ann_id": 1038591, "best_split": [3, 2], "split_score": 0.3793364928550392}
+{"sent": "empty beer glass", "ann_id": 681039, "best_split": [3, 3], "split_score": 0.4056183623834158}
+{"sent": "almost empty glass", "ann_id": 681039, "best_split": [3, 3], "split_score": 0.4056183623834158}
+{"sent": "glass with least fluid", "ann_id": 681039, "best_split": [3, 3], "split_score": 0.4056183623834158}
+{"sent": "glass filled with beer", "ann_id": 674191, "best_split": [3, 3], "split_score": 0.3725346967909907}
+{"sent": "fullest glass", "ann_id": 674191, "best_split": [3, 3], "split_score": 0.3725346967909907}
+{"sent": "beer full glass", "ann_id": 674191, "best_split": [3, 3], "split_score": 0.3725346967909907}

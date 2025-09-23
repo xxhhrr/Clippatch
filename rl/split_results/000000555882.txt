@@ -1,0 +1,6 @@
+{"sent": "the elephant", "ann_id": 1821425, "best_split": [3, 1], "split_score": 0.4588738417512875}
+{"sent": "elephant", "ann_id": 1821425, "best_split": [3, 1], "split_score": 0.4588738417512875}
+{"sent": "elephant in foreground", "ann_id": 1821425, "best_split": [3, 1], "split_score": 0.4588738417512875}
+{"sent": "obscured elephant", "ann_id": 582402, "best_split": [3, 2], "split_score": 0.41807478464863457}
+{"sent": "cant see elephant", "ann_id": 582402, "best_split": [3, 2], "split_score": 0.41807478464863457}
+{"sent": "partial elephant in background", "ann_id": 582402, "best_split": [3, 2], "split_score": 0.41807478464863457}

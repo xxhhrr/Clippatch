@@ -1,0 +1,6 @@
+{"sent": "larger green sauce", "ann_id": 1056654, "best_split": [1, 5], "split_score": 0.23047233962226865}
+{"sent": "avocado at 10", "ann_id": 1056654, "best_split": [3, 2], "split_score": 0.3651270207430569}
+{"sent": "pesto on chicken near the asparagus stalks not the leafy asparagus end", "ann_id": 1056654, "best_split": [5, 1], "split_score": 0.20674116796983227}
+{"sent": "broccoli", "ann_id": 1055929, "best_split": [3, 1], "split_score": 0.46583238526864496}
+{"sent": "in a bunch", "ann_id": 1055929, "best_split": [3, 1], "split_score": 0.46583238526864496}
+{"sent": "asparsgus", "ann_id": 1055929, "best_split": [3, 1], "split_score": 0.46583238526864496}

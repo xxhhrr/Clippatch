@@ -1,0 +1,5 @@
+{"sent": "the book above margaret atwood", "ann_id": 1988744, "best_split": [3, 2], "split_score": 0.6788127412308382}
+{"sent": "over margaret", "ann_id": 1988744, "best_split": [3, 2], "split_score": 0.6788127412308382}
+{"sent": "law and order above margaret atwood", "ann_id": 1988744, "best_split": [2, 2], "split_score": 0.44850127547444985}
+{"sent": "closest law and order book", "ann_id": 1654651, "best_split": [1, 3], "split_score": 0.4857768052229122}
+{"sent": "law and order svu not on the computer screen", "ann_id": 1654651, "best_split": [2, 1], "split_score": 0.004599623667017125}

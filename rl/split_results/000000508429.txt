@@ -1,0 +1,9 @@
+{"sent": "child in light orange", "ann_id": 1278935, "best_split": [2, 3], "split_score": 0.3931324456443433}
+{"sent": "monk partially showing", "ann_id": 1278935, "best_split": [2, 3], "split_score": 0.3931324456443433}
+{"sent": "kid in orange shirt on the bench", "ann_id": 1278935, "best_split": [1, 5], "split_score": 0.32730133749731494}
+{"sent": "woman with bag on her lap", "ann_id": 1256205, "best_split": [3, 3], "split_score": 0.09086737034294776}
+{"sent": "woman in pink", "ann_id": 1256205, "best_split": [2, 1], "split_score": 0.16071428570787968}
+{"sent": "little girl", "ann_id": 1256205, "best_split": [2, 3], "split_score": 0.2664473683936629}
+{"sent": "on phone close", "ann_id": 1201383, "best_split": [2, 1], "split_score": 0.5076813760197074}
+{"sent": "man looking up", "ann_id": 1201383, "best_split": [1, 2], "split_score": 0.4175171047382451}
+{"sent": "man in dark orange sheet", "ann_id": 1201383, "best_split": [2, 1], "split_score": 0.5076813760197074}

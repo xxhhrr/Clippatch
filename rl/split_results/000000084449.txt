@@ -1,0 +1,6 @@
+{"sent": "smaller elephant", "ann_id": 583820, "best_split": [1, 3], "split_score": 0.3641751901198964}
+{"sent": "elephant with trunk lower", "ann_id": 583820, "best_split": [1, 3], "split_score": 0.3641751901198964}
+{"sent": "elephant in b ack", "ann_id": 583820, "best_split": [1, 3], "split_score": 0.3641751901198964}
+{"sent": "head higher", "ann_id": 580211, "best_split": [2, 1], "split_score": 0.391923990489313}
+{"sent": "elephant with trunk up", "ann_id": 580211, "best_split": [1, 2], "split_score": 0.5674436377376646}
+{"sent": "elephant with head in air", "ann_id": 580211, "best_split": [1, 2], "split_score": 0.5674436377376646}

@@ -1,0 +1,6 @@
+{"sent": "the lady", "ann_id": 186192, "best_split": [1, 3], "split_score": 0.5539767308528525}
+{"sent": "girl", "ann_id": 186192, "best_split": [3, 1], "split_score": 0.3014136250977792}
+{"sent": "petting cat", "ann_id": 186192, "best_split": [1, 2], "split_score": 0.29732971402382014}
+{"sent": "man reading", "ann_id": 185025, "best_split": [3, 1], "split_score": 0.33810201481768776}
+{"sent": "man readin gbook", "ann_id": 185025, "best_split": [3, 1], "split_score": 0.33810201481768776}
+{"sent": "man", "ann_id": 185025, "best_split": [2, 1], "split_score": 0.15623039932688088}

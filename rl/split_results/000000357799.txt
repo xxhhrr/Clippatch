@@ -1,0 +1,15 @@
+{"sent": "darker van next to green truck", "ann_id": 1191252, "best_split": [5, 1], "split_score": 0.1509933774691586}
+{"sent": "car we see one headlight of and license plate", "ann_id": 1191252, "best_split": [5, 1], "split_score": 0.1509933774691586}
+{"sent": "dark car by fence with plate showing behind fence pole", "ann_id": 1191252, "best_split": [5, 1], "split_score": 0.1509933774691586}
+{"sent": "little boy not standing on plate", "ann_id": 447067, "best_split": [1, 5], "split_score": 0.28536760738042716}
+{"sent": "girl with legs crossed", "ann_id": 447067, "best_split": [1, 5], "split_score": 0.28536760738042716}
+{"sent": "smiling behind", "ann_id": 447067, "best_split": [3, 3], "split_score": 0.3532942299340753}
+{"sent": "on base", "ann_id": 445559, "best_split": [1, 5], "split_score": 0.2703101919986789}
+{"sent": "closest player", "ann_id": 445559, "best_split": [3, 3], "split_score": 0.21001031989034954}
+{"sent": "girl on base", "ann_id": 445559, "best_split": [1, 5], "split_score": 0.2703101919986789}
+{"sent": "tan van", "ann_id": 352679, "best_split": [1, 2], "split_score": 0.27041942603790525}
+{"sent": "black car by white truck", "ann_id": 352679, "best_split": [3, 2], "split_score": 0.8006535946777948}
+{"sent": "car between green and white", "ann_id": 352679, "best_split": [3, 2], "split_score": 0.8006535946777948}
+{"sent": "green car", "ann_id": 351990, "best_split": [3, 2], "split_score": 0.5830204421586337}
+{"sent": "green truck", "ann_id": 351990, "best_split": [3, 2], "split_score": 0.5830204421586337}
+{"sent": "green truck parked near tree", "ann_id": 351990, "best_split": [3, 2], "split_score": 0.5830204421586337}

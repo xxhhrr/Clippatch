@@ -1,0 +1,6 @@
+{"sent": "fluffy tail cat is looking at", "ann_id": 1402208, "best_split": [1, 5], "split_score": 0.1840384137607386}
+{"sent": "animal not on the chair", "ann_id": 1402208, "best_split": [2, 1], "split_score": 0.010400273691057123}
+{"sent": "tail from not visible cat", "ann_id": 1402208, "best_split": [1, 5], "split_score": 0.1840384137607386}
+{"sent": "kitty", "ann_id": 46444, "best_split": [2, 1], "split_score": 0.4421456678550046}
+{"sent": "yellow cat", "ann_id": 46444, "best_split": [2, 1], "split_score": 0.4421456678550046}
+{"sent": "cat on the seat", "ann_id": 46444, "best_split": [1, 2], "split_score": 0.593948449741343}

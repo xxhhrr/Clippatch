@@ -1,0 +1,8 @@
+{"sent": "guy in jeans", "ann_id": 1755624, "best_split": [1, 5], "split_score": 0.6998158378788033}
+{"sent": "man in blue jeans", "ann_id": 1755624, "best_split": [2, 3], "split_score": 0.45165788654697414}
+{"sent": "walking blue jeans tan jacket", "ann_id": 1755624, "best_split": [1, 5], "split_score": 0.6998158378788033}
+{"sent": "guy talking", "ann_id": 451279, "best_split": [2, 2], "split_score": 0.2987563923582777}
+{"sent": "man pushing boxes", "ann_id": 451279, "best_split": [1, 5], "split_score": 0.4910511147815068}
+{"sent": "a officer with a hat", "ann_id": 436512, "best_split": [1, 5], "split_score": 0.5038325725171102}
+{"sent": "your initial choice was correct here cop with white cap", "ann_id": 436512, "best_split": [1, 5], "split_score": 0.5038325725171102}
+{"sent": "police with white hat", "ann_id": 436512, "best_split": [1, 5], "split_score": 0.5038325725171102}

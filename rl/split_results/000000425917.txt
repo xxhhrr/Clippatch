@@ -1,0 +1,6 @@
+{"sent": "blue shirt white short player", "ann_id": 1275520, "best_split": [2, 2], "split_score": 0.45836971184551395}
+{"sent": "white shorts", "ann_id": 1275520, "best_split": [2, 2], "split_score": 0.45836971184551395}
+{"sent": "blue shirt white shorts", "ann_id": 1275520, "best_split": [2, 2], "split_score": 0.45836971184551395}
+{"sent": "red in air", "ann_id": 1216738, "best_split": [2, 3], "split_score": 0.40855521602718853}
+{"sent": "red shirt in air", "ann_id": 1216738, "best_split": [2, 3], "split_score": 0.40855521602718853}
+{"sent": "person in red in the air", "ann_id": 1216738, "best_split": [2, 3], "split_score": 0.40855521602718853}

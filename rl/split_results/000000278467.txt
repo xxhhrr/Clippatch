@@ -1,0 +1,12 @@
+{"sent": "pizza", "ann_id": 2132240, "best_split": [2, 1], "split_score": 0.5058494885529426}
+{"sent": "sitting on the plate", "ann_id": 2132240, "best_split": [2, 1], "split_score": 0.5058494885529426}
+{"sent": "pizza", "ann_id": 2132240, "best_split": [2, 1], "split_score": 0.5058494885529426}
+{"sent": "part of table next to glass and menu", "ann_id": 1616249, "best_split": [5, 1], "split_score": 0.2814498933629143}
+{"sent": "table below hand", "ann_id": 1616249, "best_split": [5, 1], "split_score": 0.2814498933629143}
+{"sent": "table under the hand", "ann_id": 1616249, "best_split": [5, 1], "split_score": 0.2814498933629143}
+{"sent": "water glass 11 o clock", "ann_id": 680641, "best_split": [5, 1], "split_score": 0.1296569531418612}
+{"sent": "glass behind pizza", "ann_id": 680641, "best_split": [1, 5], "split_score": 0.1682242990493778}
+{"sent": "glass of water behind pizza", "ann_id": 680641, "best_split": [2, 3], "split_score": 0.2888513513164996}
+{"sent": "glass closest to green thing", "ann_id": 680313, "best_split": [1, 5], "split_score": 0.40781357089906844}
+{"sent": "glass cut off to side", "ann_id": 680313, "best_split": [1, 5], "split_score": 0.40781357089906844}
+{"sent": "glass at 3 o clock", "ann_id": 680313, "best_split": [1, 5], "split_score": 0.40781357089906844}

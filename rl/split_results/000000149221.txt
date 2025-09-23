@@ -1,0 +1,12 @@
+{"sent": "the glass with lighter colorded liguid", "ann_id": 667049, "best_split": [2, 1], "split_score": 0.2582938388529956}
+{"sent": "glass of white wine", "ann_id": 667049, "best_split": [2, 3], "split_score": 0.6656004651870117}
+{"sent": "completely empty glass", "ann_id": 667049, "best_split": [2, 1], "split_score": 0.2582938388529956}
+{"sent": "smaller wine glass", "ann_id": 664742, "best_split": [2, 3], "split_score": 0.6427589366816271}
+{"sent": "glass with some wine", "ann_id": 664742, "best_split": [2, 3], "split_score": 0.6427589366816271}
+{"sent": "the glass of red wine", "ann_id": 664742, "best_split": [2, 1], "split_score": 0.21975869632482925}
+{"sent": "bottle with red cap", "ann_id": 93744, "best_split": [1, 5], "split_score": 0.599246595146389}
+{"sent": "wine bottle", "ann_id": 93744, "best_split": [1, 5], "split_score": 0.599246595146389}
+{"sent": "green bottle", "ann_id": 93744, "best_split": [1, 5], "split_score": 0.599246595146389}
+{"sent": "clear bottle", "ann_id": 89948, "best_split": [1, 5], "split_score": 0.404816326497566}
+{"sent": "thinnest bottle", "ann_id": 89948, "best_split": [1, 5], "split_score": 0.404816326497566}
+{"sent": "thin bottle", "ann_id": 89948, "best_split": [1, 5], "split_score": 0.404816326497566}

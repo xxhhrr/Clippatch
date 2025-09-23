@@ -1,0 +1,8 @@
+{"sent": "white shirt blue shorts", "ann_id": 1262108, "best_split": [2, 3], "split_score": 0.39130434778178164}
+{"sent": "white shirt", "ann_id": 1262108, "best_split": [2, 3], "split_score": 0.39130434778178164}
+{"sent": "white shirt walking", "ann_id": 1262108, "best_split": [2, 3], "split_score": 0.39130434778178164}
+{"sent": "striped shirt", "ann_id": 1216889, "best_split": [3, 2], "split_score": 0.33738601820045744}
+{"sent": "you in your ugly striped shirt", "ann_id": 1216889, "best_split": [3, 2], "split_score": 0.33738601820045744}
+{"sent": "is landing", "ann_id": 1216889, "best_split": [2, 2], "split_score": 0.32142857140294734}
+{"sent": "black guy sitting legs hanging", "ann_id": 2015326, "best_split": [2, 2], "split_score": 0.30656934304285943}
+{"sent": "black guy sitting beside guy in journlists obama shirt", "ann_id": 2015326, "best_split": [2, 2], "split_score": 0.30656934304285943}

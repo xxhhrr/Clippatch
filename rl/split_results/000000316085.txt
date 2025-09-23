@@ -1,0 +1,6 @@
+{"sent": "pillows stacked sideways", "ann_id": 1604938, "best_split": [2, 2], "split_score": 0.7180773881065249}
+{"sent": "couch at 7 o clock", "ann_id": 1604938, "best_split": [2, 2], "split_score": 0.7180773881065249}
+{"sent": "couch part closer to plastic bags", "ann_id": 1604938, "best_split": [1, 2], "split_score": 0.6326929208931484}
+{"sent": "chair laptop", "ann_id": 97720, "best_split": [1, 2], "split_score": 0.38454784897735705}
+{"sent": "laptop", "ann_id": 97720, "best_split": [1, 2], "split_score": 0.38454784897735705}
+{"sent": "empty couch space by him", "ann_id": 97720, "best_split": [3, 1], "split_score": 0.33024893545978345}

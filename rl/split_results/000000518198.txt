@@ -1,0 +1,12 @@
+{"sent": "woman in white bent over", "ann_id": 2167045, "best_split": [2, 3], "split_score": 0.7631359465312598}
+{"sent": "woman head down", "ann_id": 2167045, "best_split": [2, 3], "split_score": 0.7631359465312598}
+{"sent": "turned woman", "ann_id": 2167045, "best_split": [2, 2], "split_score": 0.5189732142443421}
+{"sent": "bald", "ann_id": 2166114, "best_split": [1, 5], "split_score": 0.4034852546530558}
+{"sent": "bald head", "ann_id": 2166114, "best_split": [1, 5], "split_score": 0.4034852546530558}
+{"sent": "bald guy", "ann_id": 2166114, "best_split": [1, 5], "split_score": 0.4034852546530558}
+{"sent": "gray shirt", "ann_id": 1711126, "best_split": [3, 3], "split_score": 0.496366685229686}
+{"sent": "gray shirt", "ann_id": 1711126, "best_split": [3, 3], "split_score": 0.496366685229686}
+{"sent": "gray shirt with mustache", "ann_id": 1711126, "best_split": [3, 3], "split_score": 0.496366685229686}
+{"sent": "girl in stripes", "ann_id": 230213, "best_split": [3, 3], "split_score": 0.32736655372885554}
+{"sent": "lady face the camera", "ann_id": 230213, "best_split": [2, 3], "split_score": 0.19074832864020397}
+{"sent": "woman with stripped shirt", "ann_id": 230213, "best_split": [5, 1], "split_score": 0.10409735597057455}

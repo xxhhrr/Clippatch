@@ -1,0 +1,5 @@
+{"sent": "car near the man", "ann_id": 1773380, "best_split": [3, 3], "split_score": 0.6898970301910315}
+{"sent": "half cut car", "ann_id": 1773380, "best_split": [3, 3], "split_score": 0.6898970301910315}
+{"sent": "white car", "ann_id": 349221, "best_split": [5, 1], "split_score": 0.3026819923095528}
+{"sent": "white car behind dog", "ann_id": 349221, "best_split": [3, 3], "split_score": 0.540136900973843}
+{"sent": "car behind dog", "ann_id": 349221, "best_split": [3, 3], "split_score": 0.540136900973843}

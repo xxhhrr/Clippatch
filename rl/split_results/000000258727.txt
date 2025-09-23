@@ -1,0 +1,6 @@
+{"sent": "further sheep", "ann_id": 62432, "best_split": [2, 1], "split_score": 0.14999202805524586}
+{"sent": "sheep nearest building", "ann_id": 62432, "best_split": [2, 2], "split_score": 0.2999840560985344}
+{"sent": "sheep less visable", "ann_id": 62432, "best_split": [2, 1], "split_score": 0.14999202805524586}
+{"sent": "sheep facing the camera", "ann_id": 61866, "best_split": [3, 2], "split_score": 0.5083969465094441}
+{"sent": "sheep where you can see its head", "ann_id": 61866, "best_split": [3, 2], "split_score": 0.5083969465094441}
+{"sent": "closest", "ann_id": 61866, "best_split": [1, 3], "split_score": 0.1406765676495113}

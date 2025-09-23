@@ -1,0 +1,11 @@
+{"sent": "standing green coat black pants", "ann_id": 1296271, "best_split": [1, 5], "split_score": 0.6704402515120899}
+{"sent": "lime green shirt", "ann_id": 1296271, "best_split": [3, 1], "split_score": 0.16323529411014542}
+{"sent": "woman in pink shirt holding umbrella", "ann_id": 1249455, "best_split": [1, 3], "split_score": 0.4202461389707863}
+{"sent": "pink with glasses", "ann_id": 1249455, "best_split": [1, 3], "split_score": 0.4202461389707863}
+{"sent": "woman holding umbrella with glasses", "ann_id": 1249455, "best_split": [1, 3], "split_score": 0.4202461389707863}
+{"sent": "man on ground", "ann_id": 1220632, "best_split": [2, 2], "split_score": 0.45538684016953096}
+{"sent": "sitting on the ground", "ann_id": 1220632, "best_split": [2, 2], "split_score": 0.45538684016953096}
+{"sent": "sitting on grass guy", "ann_id": 1220632, "best_split": [2, 2], "split_score": 0.45538684016953096}
+{"sent": "man sitting with arms crossed", "ann_id": 1188683, "best_split": [1, 3], "split_score": 0.5206925675361551}
+{"sent": "man with sunglasses", "ann_id": 1188683, "best_split": [1, 3], "split_score": 0.5206925675361551}
+{"sent": "guy sitting wearing sunglasses arms folded", "ann_id": 1188683, "best_split": [1, 3], "split_score": 0.5206925675361551}

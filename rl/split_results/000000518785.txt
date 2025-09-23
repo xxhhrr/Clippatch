@@ -1,0 +1,9 @@
+{"sent": "dark car", "ann_id": 359545, "best_split": [1, 5], "split_score": 0.5823785064616378}
+{"sent": "black car partially showing", "ann_id": 359545, "best_split": [1, 5], "split_score": 0.5823785064616378}
+{"sent": "black car", "ann_id": 359545, "best_split": [1, 5], "split_score": 0.5823785064616378}
+{"sent": "white car", "ann_id": 358892, "best_split": [2, 2], "split_score": 0.6069834183189585}
+{"sent": "white car", "ann_id": 358892, "best_split": [2, 2], "split_score": 0.6069834183189585}
+{"sent": "whit car behind cab", "ann_id": 358892, "best_split": [2, 2], "split_score": 0.6069834183189585}
+{"sent": "yellow cab", "ann_id": 345627, "best_split": [1, 3], "split_score": 0.4692654839531098}
+{"sent": "yellow cab", "ann_id": 345627, "best_split": [1, 3], "split_score": 0.4692654839531098}
+{"sent": "cab", "ann_id": 345627, "best_split": [1, 3], "split_score": 0.4692654839531098}

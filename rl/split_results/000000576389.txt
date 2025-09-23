@@ -1,0 +1,11 @@
+{"sent": "tall wine glass on piece of paper", "ann_id": 1500619, "best_split": [1, 5], "split_score": 0.47014925368748606}
+{"sent": "tall glass", "ann_id": 1500619, "best_split": [1, 5], "split_score": 0.47014925368748606}
+{"sent": "closest and large glass", "ann_id": 1500619, "best_split": [1, 5], "split_score": 0.47014925368748606}
+{"sent": "purple wine between red and white in glasses", "ann_id": 1500391, "best_split": [3, 3], "split_score": 0.3531657651363083}
+{"sent": "of the 3 darkest one", "ann_id": 1500391, "best_split": [1, 5], "split_score": 0.2316956604634204}
+{"sent": "glass with darkest wine", "ann_id": 1500391, "best_split": [3, 3], "split_score": 0.3531657651363083}
+{"sent": "fourth red wine glass", "ann_id": 1500182, "best_split": [3, 2], "split_score": 0.2534246575071249}
+{"sent": "nearest row shorter glass with bright red wine", "ann_id": 1500182, "best_split": [3, 2], "split_score": 0.2534246575071249}
+{"sent": "closest white wine", "ann_id": 1498740, "best_split": [3, 3], "split_score": 0.3735015772281543}
+{"sent": "white wine glass", "ann_id": 1498740, "best_split": [3, 3], "split_score": 0.3735015772281543}
+{"sent": "white glass meroon square", "ann_id": 1498740, "best_split": [3, 3], "split_score": 0.3735015772281543}

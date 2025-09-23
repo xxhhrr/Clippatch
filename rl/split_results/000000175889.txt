@@ -1,0 +1,6 @@
+{"sent": "closed book", "ann_id": 1148728, "best_split": [3, 2], "split_score": 0.37596525091988836}
+{"sent": "blue book", "ann_id": 1148728, "best_split": [3, 2], "split_score": 0.37596525091988836}
+{"sent": "blue book", "ann_id": 1148728, "best_split": [3, 2], "split_score": 0.37596525091988836}
+{"sent": "open book", "ann_id": 1148566, "best_split": [2, 2], "split_score": 0.41183035711002625}
+{"sent": "open book", "ann_id": 1148566, "best_split": [2, 2], "split_score": 0.41183035711002625}
+{"sent": "open fanned out book", "ann_id": 1148566, "best_split": [2, 3], "split_score": 0.3301038061957386}

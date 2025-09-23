@@ -1,0 +1,5 @@
+{"sent": "the lead horse", "ann_id": 59795, "best_split": [3, 3], "split_score": 0.49697783739137374}
+{"sent": "lead horse", "ann_id": 59795, "best_split": [3, 3], "split_score": 0.49697783739137374}
+{"sent": "brown horse", "ann_id": 54894, "best_split": [3, 2], "split_score": 0.32429272851013646}
+{"sent": "horse closest to redheaded woman", "ann_id": 54894, "best_split": [3, 2], "split_score": 0.32429272851013646}
+{"sent": "horse on carriage by person with blac hat", "ann_id": 54894, "best_split": [3, 2], "split_score": 0.32429272851013646}

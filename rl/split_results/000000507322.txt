@@ -1,0 +1,6 @@
+{"sent": "girl in pink", "ann_id": 213161, "best_split": [3, 3], "split_score": 0.4915800787367287}
+{"sent": "pink jacket", "ann_id": 213161, "best_split": [3, 3], "split_score": 0.4915800787367287}
+{"sent": "girl with pink coat", "ann_id": 213161, "best_split": [3, 3], "split_score": 0.4915800787367287}
+{"sent": "child in pale pink", "ann_id": 197810, "best_split": [3, 2], "split_score": 0.4121565361707914}
+{"sent": "girl facing cow", "ann_id": 197810, "best_split": [1, 2], "split_score": 0.001956947162358228}
+{"sent": "baby white shirt", "ann_id": 197810, "best_split": [5, 1], "split_score": 0.26506024093890623}

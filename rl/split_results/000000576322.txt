@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 476773, "best_split": [1, 2], "split_score": 0.5664859693651751}
+{"sent": "blue", "ann_id": 476773, "best_split": [1, 2], "split_score": 0.5664859693651751}
+{"sent": "blue shirt lady", "ann_id": 476773, "best_split": [1, 2], "split_score": 0.5664859693651751}
+{"sent": "black shirt", "ann_id": 2206523, "best_split": [1, 5], "split_score": 0.5901942645308448}
+{"sent": "man in blackjacket holding skate board", "ann_id": 2206523, "best_split": [1, 2], "split_score": 0.5538333794411516}
+{"sent": "man with skateboard", "ann_id": 2206523, "best_split": [1, 2], "split_score": 0.5538333794411516}

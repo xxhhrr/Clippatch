@@ -1,0 +1,6 @@
+{"sent": "sink close to window", "ann_id": 1136117, "best_split": [5, 1], "split_score": 0.34449093441477474}
+{"sent": "sink closest to window", "ann_id": 1136117, "best_split": [5, 1], "split_score": 0.34449093441477474}
+{"sent": "sink near window", "ann_id": 1136117, "best_split": [5, 1], "split_score": 0.34449093441477474}
+{"sent": "sink with no scale", "ann_id": 1135048, "best_split": [2, 2], "split_score": 0.4280478683299889}
+{"sent": "sink furthest from window", "ann_id": 1135048, "best_split": [2, 2], "split_score": 0.4280478683299889}
+{"sent": "not the sink next to window", "ann_id": 1135048, "best_split": [2, 2], "split_score": 0.4280478683299889}

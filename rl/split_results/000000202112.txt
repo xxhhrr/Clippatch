@@ -1,0 +1,7 @@
+{"sent": "blue and green car", "ann_id": 139560, "best_split": [3, 3], "split_score": 0.4705685617942193}
+{"sent": "green blue car", "ann_id": 139560, "best_split": [3, 3], "split_score": 0.4705685617942193}
+{"sent": "blue and green car", "ann_id": 139560, "best_split": [3, 3], "split_score": 0.4705685617942193}
+{"sent": "red", "ann_id": 136604, "best_split": [3, 2], "split_score": 0.34760022582184075}
+{"sent": "red police car", "ann_id": 136604, "best_split": [3, 2], "split_score": 0.34760022582184075}
+{"sent": "red car", "ann_id": 136604, "best_split": [3, 2], "split_score": 0.34760022582184075}
+{"sent": "red car", "ann_id": 136604, "best_split": [3, 2], "split_score": 0.34760022582184075}

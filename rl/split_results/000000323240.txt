@@ -1,0 +1,6 @@
+{"sent": "black jacket", "ann_id": 208063, "best_split": [1, 3], "split_score": 0.5211535495542511}
+{"sent": "the girl without glasses", "ann_id": 208063, "best_split": [1, 3], "split_score": 0.5211535495542511}
+{"sent": "woman in black", "ann_id": 208063, "best_split": [3, 2], "split_score": 0.4925383591051259}
+{"sent": "glasses girl", "ann_id": 192943, "best_split": [3, 3], "split_score": 0.6001300389141531}
+{"sent": "girl in pink", "ann_id": 192943, "best_split": [3, 3], "split_score": 0.6001300389141531}
+{"sent": "wearing pink", "ann_id": 192943, "best_split": [3, 3], "split_score": 0.6001300389141531}

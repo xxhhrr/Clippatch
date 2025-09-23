@@ -1,0 +1,6 @@
+{"sent": "cat not looking at us", "ann_id": 51793, "best_split": [2, 1], "split_score": 0.34026365148494797}
+{"sent": "inside cat", "ann_id": 51793, "best_split": [2, 1], "split_score": 0.34026365148494797}
+{"sent": "back of cats head", "ann_id": 51793, "best_split": [1, 2], "split_score": 0.9696781457091401}
+{"sent": "cat looking at us", "ann_id": 50919, "best_split": [1, 3], "split_score": 0.7200429235292689}
+{"sent": "click cat eyes", "ann_id": 50919, "best_split": [1, 3], "split_score": 0.7200429235292689}
+{"sent": "cat outside", "ann_id": 50919, "best_split": [1, 3], "split_score": 0.7200429235292689}

@@ -1,0 +1,6 @@
+{"sent": "blue pants standing", "ann_id": 214046, "best_split": [2, 3], "split_score": 0.5559833822519016}
+{"sent": "raised arm", "ann_id": 214046, "best_split": [3, 2], "split_score": 0.3430120692370988}
+{"sent": "headless person", "ann_id": 214046, "best_split": [3, 2], "split_score": 0.3430120692370988}
+{"sent": "kids face", "ann_id": 200967, "best_split": [3, 3], "split_score": 0.5884453098688014}
+{"sent": "closest face", "ann_id": 200967, "best_split": [3, 3], "split_score": 0.5884453098688014}
+{"sent": "blue sweater", "ann_id": 200967, "best_split": [3, 2], "split_score": 0.4274385407921787}

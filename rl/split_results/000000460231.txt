@@ -1,0 +1,11 @@
+{"sent": "green", "ann_id": 1843143, "best_split": [2, 3], "split_score": 0.42933947768535524}
+{"sent": "green bag", "ann_id": 1843143, "best_split": [2, 3], "split_score": 0.42933947768535524}
+{"sent": "green", "ann_id": 1843143, "best_split": [2, 3], "split_score": 0.42933947768535524}
+{"sent": "corner brown suitcase", "ann_id": 1843060, "best_split": [3, 1], "split_score": 0.2702187324582042}
+{"sent": "tan behind backpack", "ann_id": 1843060, "best_split": [5, 1], "split_score": 0.2229729729558528}
+{"sent": "brown suitcase partially hidden by green suitcase", "ann_id": 1843060, "best_split": [3, 1], "split_score": 0.2702187324582042}
+{"sent": "blue suitcase", "ann_id": 1842516, "best_split": [3, 2], "split_score": 0.675695461129921}
+{"sent": "blue suitcase", "ann_id": 1842516, "best_split": [3, 2], "split_score": 0.675695461129921}
+{"sent": "highest luggage", "ann_id": 1184626, "best_split": [3, 1], "split_score": 0.12590651756300442}
+{"sent": "suitcase at roof", "ann_id": 1184626, "best_split": [2, 1], "split_score": 0.29846938774320514}
+{"sent": "topmost black suitcase", "ann_id": 1184626, "best_split": [1, 5], "split_score": 0.19383259910560072}

@@ -1,0 +1,6 @@
+{"sent": "blue glass", "ann_id": 663935, "best_split": [1, 5], "split_score": 0.35097493032720106}
+{"sent": "blue glass", "ann_id": 663935, "best_split": [1, 5], "split_score": 0.35097493032720106}
+{"sent": "a blue wine glass", "ann_id": 663935, "best_split": [1, 5], "split_score": 0.35097493032720106}
+{"sent": "red wine next to blue glass", "ann_id": 662562, "best_split": [2, 3], "split_score": 0.32685323645301717}
+{"sent": "clear glass", "ann_id": 662562, "best_split": [1, 5], "split_score": 0.3895510528019913}
+{"sent": "closest red wine glass", "ann_id": 662562, "best_split": [1, 5], "split_score": 0.3895510528019913}

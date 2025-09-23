@@ -1,0 +1,6 @@
+{"sent": "chair with near fan", "ann_id": 1941524, "best_split": [2, 1], "split_score": 0.13739101825506198}
+{"sent": "chair by fan", "ann_id": 1941524, "best_split": [2, 1], "split_score": 0.13739101825506198}
+{"sent": "flowered chair with suitcase closest to fan", "ann_id": 1941524, "best_split": [3, 3], "split_score": 0.5774543920091264}
+{"sent": "floral couch nearest us", "ann_id": 1941031, "best_split": [2, 2], "split_score": 0.4364100925942887}
+{"sent": "sofa portion and black bag on edge closest to us", "ann_id": 1941031, "best_split": [2, 2], "split_score": 0.4364100925942887}
+{"sent": "bag closest to us", "ann_id": 1941031, "best_split": [2, 2], "split_score": 0.4364100925942887}

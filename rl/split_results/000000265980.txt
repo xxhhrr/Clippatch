@@ -1,0 +1,6 @@
+{"sent": "brown chair", "ann_id": 375556, "best_split": [2, 1], "split_score": 0.19492574256671852}
+{"sent": "chair by blue box", "ann_id": 375556, "best_split": [2, 1], "split_score": 0.19492574256671852}
+{"sent": "brown chair", "ann_id": 375556, "best_split": [2, 1], "split_score": 0.19492574256671852}
+{"sent": "chair bigger", "ann_id": 374748, "best_split": [2, 2], "split_score": 0.6402149857223984}
+{"sent": "chair pulled out", "ann_id": 374748, "best_split": [2, 2], "split_score": 0.6402149857223984}
+{"sent": "the lighter brown chair", "ann_id": 374748, "best_split": [2, 2], "split_score": 0.6402149857223984}

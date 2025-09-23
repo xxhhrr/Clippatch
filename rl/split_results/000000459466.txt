@@ -1,0 +1,6 @@
+{"sent": "west bear", "ann_id": 1160405, "best_split": [1, 2], "split_score": 0.379078625830851}
+{"sent": "gray and white bear", "ann_id": 1160405, "best_split": [1, 3], "split_score": 0.36251653814669843}
+{"sent": "bigger bear", "ann_id": 1160405, "best_split": [1, 5], "split_score": 0.3521645147892642}
+{"sent": "all white bear", "ann_id": 1159325, "best_split": [1, 2], "split_score": 0.6508290816067112}
+{"sent": "solid color bear", "ann_id": 1159325, "best_split": [1, 2], "split_score": 0.6508290816067112}
+{"sent": "bear with bigger eyes", "ann_id": 1159325, "best_split": [1, 2], "split_score": 0.6508290816067112}

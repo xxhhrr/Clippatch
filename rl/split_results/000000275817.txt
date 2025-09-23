@@ -1,0 +1,6 @@
+{"sent": "mama sheep", "ann_id": 64863, "best_split": [1, 3], "split_score": 0.558699324290619}
+{"sent": "big sheep", "ann_id": 64863, "best_split": [1, 3], "split_score": 0.558699324290619}
+{"sent": "biggest", "ann_id": 64863, "best_split": [1, 3], "split_score": 0.558699324290619}
+{"sent": "the whitest sheeo", "ann_id": 62167, "best_split": [3, 2], "split_score": 0.30306615396795167}
+{"sent": "smaller animal", "ann_id": 62167, "best_split": [1, 5], "split_score": 0.3250582541382812}
+{"sent": "smaller white animal", "ann_id": 62167, "best_split": [1, 5], "split_score": 0.3250582541382812}

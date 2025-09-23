@@ -1,0 +1,6 @@
+{"sent": "woman in mask", "ann_id": 1258938, "best_split": [1, 3], "split_score": 0.23637665985804304}
+{"sent": "woman with mask", "ann_id": 1258938, "best_split": [3, 3], "split_score": 0.24344774643673123}
+{"sent": "dressed in black", "ann_id": 1258938, "best_split": [3, 2], "split_score": 0.2729153548373738}
+{"sent": "carrying skateboard white suit", "ann_id": 1705835, "best_split": [1, 3], "split_score": 0.6513634169491214}
+{"sent": "guy holding skateboard", "ann_id": 1705835, "best_split": [1, 3], "split_score": 0.6513634169491214}
+{"sent": "man with skateboard", "ann_id": 1705835, "best_split": [1, 3], "split_score": 0.6513634169491214}

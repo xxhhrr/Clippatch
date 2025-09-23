@@ -1,0 +1,15 @@
+{"sent": "looks like shes cutting a cake", "ann_id": 229146, "best_split": [3, 3], "split_score": 0.381969486770878}
+{"sent": "black gray shirt", "ann_id": 229146, "best_split": [2, 3], "split_score": 0.4033391915198441}
+{"sent": "strip shirt", "ann_id": 229146, "best_split": [2, 3], "split_score": 0.4033391915198441}
+{"sent": "woman with braclet and tied shirt", "ann_id": 227680, "best_split": [1, 2], "split_score": 0.26227678570383145}
+{"sent": "white tied shirt", "ann_id": 227680, "best_split": [1, 5], "split_score": 0.6676136362958995}
+{"sent": "girl on side smiling", "ann_id": 227680, "best_split": [2, 1], "split_score": 0.1104565537516496}
+{"sent": "short woman by tv", "ann_id": 225826, "best_split": [1, 2], "split_score": 0.14421237244323132}
+{"sent": "tan shirt and jeans next to monitor", "ann_id": 225826, "best_split": [1, 3], "split_score": 0.21826737450420683}
+{"sent": "girl very back next to tv", "ann_id": 225826, "best_split": [2, 2], "split_score": 0.15204219829267643}
+{"sent": "woman off screen", "ann_id": 208336, "best_split": [1, 2], "split_score": 0.19116709182911482}
+{"sent": "tallest girl", "ann_id": 208336, "best_split": [2, 1], "split_score": 0.08550671993877564}
+{"sent": "girl white and black flower shirt", "ann_id": 208336, "best_split": [1, 2], "split_score": 0.19116709182911482}
+{"sent": "girl in white with gray sweater", "ann_id": 183709, "best_split": [2, 2], "split_score": 0.2944277108212027}
+{"sent": "person with gray sweater over white shirt", "ann_id": 183709, "best_split": [2, 2], "split_score": 0.2944277108212027}
+{"sent": "girl behind table", "ann_id": 183709, "best_split": [1, 2], "split_score": 0.1851881377477205}

@@ -1,0 +1,6 @@
+{"sent": "the two slices of bread facing up", "ann_id": 313023, "best_split": [1, 3], "split_score": 0.44109522653544486}
+{"sent": "openface sandwich", "ann_id": 313023, "best_split": [1, 3], "split_score": 0.44109522653544486}
+{"sent": "the red stuff on it", "ann_id": 313023, "best_split": [1, 3], "split_score": 0.44109522653544486}
+{"sent": "sandwich with two bread pieces", "ann_id": 311393, "best_split": [3, 3], "split_score": 0.27666300161123375}
+{"sent": "sandwich", "ann_id": 311393, "best_split": [3, 3], "split_score": 0.27666300161123375}
+{"sent": "sand with point up", "ann_id": 311393, "best_split": [3, 3], "split_score": 0.27666300161123375}

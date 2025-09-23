@@ -1,0 +1,6 @@
+{"sent": "green tractor", "ann_id": 1800151, "best_split": [1, 5], "split_score": 0.47866108782969485}
+{"sent": "tractor", "ann_id": 1800151, "best_split": [3, 2], "split_score": 0.3840136317571053}
+{"sent": "green and yellow tractot", "ann_id": 1800151, "best_split": [1, 5], "split_score": 0.47866108782969485}
+{"sent": "blue ticket", "ann_id": 397101, "best_split": [1, 2], "split_score": 0.69464463906957}
+{"sent": "blue and white", "ann_id": 397101, "best_split": [1, 2], "split_score": 0.69464463906957}
+{"sent": "truck", "ann_id": 397101, "best_split": [1, 2], "split_score": 0.69464463906957}

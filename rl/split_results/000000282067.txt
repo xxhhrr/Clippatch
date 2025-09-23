@@ -1,0 +1,14 @@
+{"sent": "hair behind yellow bottle", "ann_id": 544426, "best_split": [1, 3], "split_score": 0.3415568862070924}
+{"sent": "back of person at 2 oclock", "ann_id": 544426, "best_split": [1, 3], "split_score": 0.3415568862070924}
+{"sent": "person between the blond girl and the one peeling eggs", "ann_id": 544040, "best_split": [1, 3], "split_score": 0.23648648647221968}
+{"sent": "no face gray shirt", "ann_id": 544040, "best_split": [1, 5], "split_score": 0.38202247187178745}
+{"sent": "head between women", "ann_id": 544040, "best_split": [2, 3], "split_score": 0.21195274494073735}
+{"sent": "closest girl", "ann_id": 539626, "best_split": [1, 2], "split_score": 0.4407082075061519}
+{"sent": "gray jacket", "ann_id": 539626, "best_split": [1, 2], "split_score": 0.4407082075061519}
+{"sent": "gray hoody", "ann_id": 539626, "best_split": [1, 2], "split_score": 0.4407082075061519}
+{"sent": "woman in black", "ann_id": 523328, "best_split": [3, 1], "split_score": 0.2507167057503735}
+{"sent": "pink and black", "ann_id": 523328, "best_split": [1, 2], "split_score": 0.6782924106872492}
+{"sent": "girl black and pink", "ann_id": 523328, "best_split": [3, 1], "split_score": 0.2507167057503735}
+{"sent": "color of the sun", "ann_id": 1866544, "best_split": [3, 1], "split_score": 0.30484648863046426}
+{"sent": "yellow thing", "ann_id": 1866544, "best_split": [3, 3], "split_score": 0.8781768890413119}
+{"sent": "bottle with yellow cap", "ann_id": 1866544, "best_split": [3, 3], "split_score": 0.8781768890413119}

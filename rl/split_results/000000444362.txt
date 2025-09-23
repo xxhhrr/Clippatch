@@ -1,0 +1,6 @@
+{"sent": "man smiling", "ann_id": 1724551, "best_split": [1, 2], "split_score": 0.7549027423168486}
+{"sent": "black shirt man", "ann_id": 1724551, "best_split": [1, 3], "split_score": 0.5842887094355048}
+{"sent": "black shirt", "ann_id": 1724551, "best_split": [1, 2], "split_score": 0.7549027423168486}
+{"sent": "striped shirt", "ann_id": 435206, "best_split": [1, 2], "split_score": 0.5807025688416627}
+{"sent": "striped shirt", "ann_id": 435206, "best_split": [1, 2], "split_score": 0.5807025688416627}
+{"sent": "the man in the striped shirt", "ann_id": 435206, "best_split": [1, 2], "split_score": 0.5807025688416627}

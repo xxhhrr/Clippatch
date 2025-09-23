@@ -1,0 +1,6 @@
+{"sent": "two pieces of carrot that look like they are kissing", "ann_id": 1065455, "best_split": [1, 5], "split_score": 0.27714878007677013}
+{"sent": "2 an 3", "ann_id": 1065455, "best_split": [1, 5], "split_score": 0.27714878007677013}
+{"sent": "carrot on another carrot", "ann_id": 1065455, "best_split": [1, 5], "split_score": 0.27714878007677013}
+{"sent": "carrot piece closest to onion", "ann_id": 1065281, "best_split": [3, 3], "split_score": 0.5319822671735304}
+{"sent": "end carrot piece on its side", "ann_id": 1063811, "best_split": [2, 3], "split_score": 0.3608617593823026}
+{"sent": "number 6 carrot", "ann_id": 1063811, "best_split": [2, 3], "split_score": 0.3608617593823026}

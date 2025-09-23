@@ -1,0 +1,8 @@
+{"sent": "couch under full painting", "ann_id": 100062, "best_split": [2, 2], "split_score": 0.7191835727496341}
+{"sent": "black dog farthest", "ann_id": 100062, "best_split": [1, 2], "split_score": 0.6022195798413706}
+{"sent": "awake cat", "ann_id": 48622, "best_split": [2, 2], "split_score": 0.7662627550409548}
+{"sent": "cat with eyes open", "ann_id": 48622, "best_split": [2, 2], "split_score": 0.7662627550409548}
+{"sent": "biggest cat", "ann_id": 48622, "best_split": [2, 2], "split_score": 0.7662627550409548}
+{"sent": "cat less zoomed in", "ann_id": 46238, "best_split": [5, 1], "split_score": 0.3943212067085784}
+{"sent": "sleeping kitty", "ann_id": 46238, "best_split": [5, 1], "split_score": 0.3943212067085784}
+{"sent": "smaller white cat", "ann_id": 46238, "best_split": [5, 1], "split_score": 0.3943212067085784}

@@ -1,0 +1,6 @@
+{"sent": "over mirror", "ann_id": 1403076, "best_split": [2, 1], "split_score": 0.9021479713267397}
+{"sent": "blur", "ann_id": 1403076, "best_split": [1, 2], "split_score": 0.3280566548550287}
+{"sent": "blurry dog", "ann_id": 1403076, "best_split": [2, 1], "split_score": 0.9021479713267397}
+{"sent": "dogs reflection", "ann_id": 14406, "best_split": [3, 3], "split_score": 0.5512297961277259}
+{"sent": "dog in mirror", "ann_id": 14406, "best_split": [3, 3], "split_score": 0.5512297961277259}
+{"sent": "dog in mirror", "ann_id": 14406, "best_split": [3, 3], "split_score": 0.5512297961277259}

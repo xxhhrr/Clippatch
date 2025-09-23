@@ -1,0 +1,6 @@
+{"sent": "yellow blue jacket", "ann_id": 491594, "best_split": [1, 5], "split_score": 0.39721996749216515}
+{"sent": "orange and blue jacket", "ann_id": 491594, "best_split": [3, 1], "split_score": 0.1169801035640785}
+{"sent": "kid with yellow jacket on", "ann_id": 491594, "best_split": [1, 5], "split_score": 0.39721996749216515}
+{"sent": "skier in green", "ann_id": 453897, "best_split": [1, 5], "split_score": 0.4862974319196725}
+{"sent": "hands on hips", "ann_id": 453897, "best_split": [1, 2], "split_score": 0.2254065688685664}
+{"sent": "skier in green jacket", "ann_id": 453897, "best_split": [1, 5], "split_score": 0.4862974319196725}

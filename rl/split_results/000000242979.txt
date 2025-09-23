@@ -1,0 +1,5 @@
+{"sent": "smaller truck", "ann_id": 399940, "best_split": [2, 2], "split_score": 0.3964203528306612}
+{"sent": "truck door not open", "ann_id": 399940, "best_split": [2, 2], "split_score": 0.3964203528306612}
+{"sent": "biggest truck", "ann_id": 399926, "best_split": [1, 2], "split_score": 0.7128478611667537}
+{"sent": "the truck closest to us", "ann_id": 399926, "best_split": [1, 2], "split_score": 0.7128478611667537}
+{"sent": "truck with white fender not silver fender", "ann_id": 399926, "best_split": [1, 2], "split_score": 0.7128478611667537}

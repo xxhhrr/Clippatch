@@ -1,0 +1,9 @@
+{"sent": "closest cow", "ann_id": 75385, "best_split": [2, 1], "split_score": 0.13392857142323308}
+{"sent": "smaller cow next to big cow", "ann_id": 75385, "best_split": [2, 1], "split_score": 0.13392857142323308}
+{"sent": "shorter cow next to cow", "ann_id": 75385, "best_split": [2, 1], "split_score": 0.13392857142323308}
+{"sent": "cow behind calf", "ann_id": 74041, "best_split": [3, 2], "split_score": 0.2975014526150008}
+{"sent": "biggest animal looking at the camera", "ann_id": 74041, "best_split": [3, 1], "split_score": 0.2603742880239234}
+{"sent": "the bigger animal that is partially covered and not eating", "ann_id": 74041, "best_split": [3, 1], "split_score": 0.2603742880239234}
+{"sent": "the cow eating", "ann_id": 71123, "best_split": [3, 3], "split_score": 0.5721304152788252}
+{"sent": "cow eating", "ann_id": 71123, "best_split": [3, 3], "split_score": 0.5721304152788252}
+{"sent": "huge cow not looking at us", "ann_id": 71123, "best_split": [3, 3], "split_score": 0.5721304152788252}

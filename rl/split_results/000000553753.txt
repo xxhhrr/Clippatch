@@ -1,0 +1,6 @@
+{"sent": "red with white doors", "ann_id": 174664, "best_split": [2, 1], "split_score": 0.1066738970404511}
+{"sent": "train windows", "ann_id": 174664, "best_split": [3, 3], "split_score": 0.4334399999306496}
+{"sent": "orange and tan subway train", "ann_id": 174664, "best_split": [3, 2], "split_score": 0.4202461389454336}
+{"sent": "main train", "ann_id": 173433, "best_split": [3, 1], "split_score": 0.28061762224490844}
+{"sent": "train closest", "ann_id": 173433, "best_split": [3, 1], "split_score": 0.28061762224490844}
+{"sent": "re train", "ann_id": 173433, "best_split": [3, 1], "split_score": 0.28061762224490844}

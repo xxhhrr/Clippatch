@@ -1,0 +1,14 @@
+{"sent": "blue and white stripes", "ann_id": 1240076, "best_split": [2, 3], "split_score": 0.41413247811410675}
+{"sent": "blue and white striped shirt", "ann_id": 1240076, "best_split": [2, 3], "split_score": 0.41413247811410675}
+{"sent": "blue and white striped shirt", "ann_id": 1240076, "best_split": [2, 3], "split_score": 0.41413247811410675}
+{"sent": "profile", "ann_id": 545781, "best_split": [1, 5], "split_score": 0.955458603799162}
+{"sent": "woman profile", "ann_id": 545781, "best_split": [1, 2], "split_score": 0.3753587372299363}
+{"sent": "girl not glasses", "ann_id": 545781, "best_split": [1, 2], "split_score": 0.3753587372299363}
+{"sent": "man in a black shirt with white collar", "ann_id": 545004, "best_split": [1, 3], "split_score": 0.36649372584661594}
+{"sent": "man next to cellphone", "ann_id": 545004, "best_split": [3, 3], "split_score": 0.40506021160381217}
+{"sent": "man in black behind woman", "ann_id": 545004, "best_split": [3, 2], "split_score": 0.3018218072780004}
+{"sent": "blurry guy plaid shirt", "ann_id": 517377, "best_split": [3, 2], "split_score": 0.34358300478812237}
+{"sent": "plaid shirt", "ann_id": 517377, "best_split": [2, 2], "split_score": 0.17478114880832346}
+{"sent": "talking on the phone", "ann_id": 426135, "best_split": [2, 1], "split_score": 0.46840003471507075}
+{"sent": "girl", "ann_id": 426135, "best_split": [1, 2], "split_score": 0.5225257662243457}
+{"sent": "woman in glasses", "ann_id": 426135, "best_split": [1, 2], "split_score": 0.5225257662243457}

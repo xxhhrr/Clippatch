@@ -1,0 +1,6 @@
+{"sent": "taller bird", "ann_id": 40659, "best_split": [1, 3], "split_score": 0.5072298758677428}
+{"sent": "tall bird", "ann_id": 40659, "best_split": [1, 3], "split_score": 0.5072298758677428}
+{"sent": "black bird that isnt extending wings", "ann_id": 40659, "best_split": [1, 3], "split_score": 0.5072298758677428}
+{"sent": "flapping wings", "ann_id": 39166, "best_split": [2, 2], "split_score": 0.5982676424764475}
+{"sent": "peacock with wings up", "ann_id": 39166, "best_split": [2, 2], "split_score": 0.5982676424764475}
+{"sent": "darker", "ann_id": 39166, "best_split": [2, 2], "split_score": 0.5982676424764475}

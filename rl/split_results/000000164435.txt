@@ -1,0 +1,6 @@
+{"sent": "biggest chair", "ann_id": 105406, "best_split": [5, 1], "split_score": 0.25750366029854466}
+{"sent": "chair back furthest from potted plants", "ann_id": 105406, "best_split": [2, 1], "split_score": 0.10192439339385699}
+{"sent": "chair back highest", "ann_id": 105406, "best_split": [3, 3], "split_score": 0.668805703980605}
+{"sent": "chair closet to plants", "ann_id": 104427, "best_split": [2, 1], "split_score": 0.0923674099856471}
+{"sent": "chair back touching tablet", "ann_id": 104427, "best_split": [1, 5], "split_score": 0.20118688586426822}
+{"sent": "far chair", "ann_id": 104427, "best_split": [1, 5], "split_score": 0.20118688586426822}

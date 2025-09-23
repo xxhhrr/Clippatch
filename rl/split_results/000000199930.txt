@@ -1,0 +1,6 @@
+{"sent": "rice looking dish with 2 spoons", "ann_id": 1541152, "best_split": [2, 1], "split_score": 0.5419323979375824}
+{"sent": "upper bowl", "ann_id": 1541152, "best_split": [2, 2], "split_score": 0.6395910430508943}
+{"sent": "bowl with rice in it", "ann_id": 1541152, "best_split": [2, 2], "split_score": 0.6395910430508943}
+{"sent": "the green plate", "ann_id": 1538139, "best_split": [3, 2], "split_score": 0.6074994452623697}
+{"sent": "green veggies", "ann_id": 1538139, "best_split": [3, 2], "split_score": 0.6074994452623697}
+{"sent": "green", "ann_id": 1538139, "best_split": [3, 2], "split_score": 0.6074994452623697}

@@ -1,0 +1,5 @@
+{"sent": "cow at 3 pm", "ann_id": 74538, "best_split": [3, 3], "split_score": 0.6719817766560394}
+{"sent": "brown cow with no head body only", "ann_id": 74538, "best_split": [3, 3], "split_score": 0.6719817766560394}
+{"sent": "brown cow showing all of the cow", "ann_id": 73829, "best_split": [5, 1], "split_score": 0.2571528262162288}
+{"sent": "lightest brown animal", "ann_id": 73829, "best_split": [2, 1], "split_score": 0.11042852861438311}
+{"sent": "skiny light brown cow", "ann_id": 73829, "best_split": [5, 1], "split_score": 0.2571528262162288}

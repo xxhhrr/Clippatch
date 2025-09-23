@@ -1,0 +1,11 @@
+{"sent": "table with red napkin", "ann_id": 1091531, "best_split": [2, 3], "split_score": 0.27147683394407857}
+{"sent": "red napkin at table that woman is sitting at", "ann_id": 1091531, "best_split": [5, 1], "split_score": 0.14142937958312}
+{"sent": "black table with two people sitting", "ann_id": 1091531, "best_split": [3, 3], "split_score": 0.3855810616238197}
+{"sent": "guy faceing the other way", "ann_id": 447936, "best_split": [1, 3], "split_score": 0.46874350984066754}
+{"sent": "man in vest", "ann_id": 447936, "best_split": [2, 2], "split_score": 0.734553775691179}
+{"sent": "black vest", "ann_id": 447936, "best_split": [1, 2], "split_score": 0.4668367346752696}
+{"sent": "table the man in black vest blue shirt is sitting at", "ann_id": 392966, "best_split": [3, 3], "split_score": 0.39059674495649244}
+{"sent": "plate of food that belongs to loner dude", "ann_id": 392966, "best_split": [3, 3], "split_score": 0.39059674495649244}
+{"sent": "women in black", "ann_id": 1205015, "best_split": [1, 2], "split_score": 0.41039540814690706}
+{"sent": "a woman sitting", "ann_id": 1205015, "best_split": [2, 2], "split_score": 0.7240338163704685}
+{"sent": "fat woman", "ann_id": 1205015, "best_split": [2, 2], "split_score": 0.7240338163704685}

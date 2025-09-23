@@ -1,0 +1,11 @@
+{"sent": "the groom", "ann_id": 1693166, "best_split": [1, 3], "split_score": 0.6262425446979613}
+{"sent": "man without mask", "ann_id": 1693166, "best_split": [2, 2], "split_score": 0.3301896359228177}
+{"sent": "boy", "ann_id": 1693166, "best_split": [1, 2], "split_score": 0.5456792091619228}
+{"sent": "girl", "ann_id": 1685652, "best_split": [1, 2], "split_score": 0.5094068877347973}
+{"sent": "woman in dress", "ann_id": 1685652, "best_split": [1, 5], "split_score": 0.5381897254323057}
+{"sent": "bride", "ann_id": 1685652, "best_split": [1, 5], "split_score": 0.5381897254323057}
+{"sent": "the girl next to the guy with the gas mask", "ann_id": 1685652, "best_split": [1, 5], "split_score": 0.5381897254323057}
+{"sent": "girl", "ann_id": 1685652, "best_split": [1, 2], "split_score": 0.5094068877347973}
+{"sent": "a person in a gas mask", "ann_id": 459807, "best_split": [1, 5], "split_score": 0.5049920686288147}
+{"sent": "guy in gas mask", "ann_id": 459807, "best_split": [1, 5], "split_score": 0.5049920686288147}
+{"sent": "gas mask", "ann_id": 459807, "best_split": [1, 5], "split_score": 0.5049920686288147}

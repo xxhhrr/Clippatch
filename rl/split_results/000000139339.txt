@@ -1,0 +1,6 @@
+{"sent": "lady gray long pants", "ann_id": 507892, "best_split": [3, 3], "split_score": 0.38863452728405135}
+{"sent": "lady in blue shhirt", "ann_id": 507892, "best_split": [3, 3], "split_score": 0.38863452728405135}
+{"sent": "girl in blue", "ann_id": 507892, "best_split": [1, 3], "split_score": 0.2917471042295037}
+{"sent": "black shirt glasses", "ann_id": 498613, "best_split": [1, 5], "split_score": 0.3469967532115466}
+{"sent": "yellow frisbee holder", "ann_id": 498613, "best_split": [3, 1], "split_score": 0.12488748874184927}
+{"sent": "girl with black shirt", "ann_id": 498613, "best_split": [1, 5], "split_score": 0.3469967532115466}

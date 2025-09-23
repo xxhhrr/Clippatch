@@ -1,0 +1,5 @@
+{"sent": "closer one", "ann_id": 1412282, "best_split": [1, 2], "split_score": 0.33147321427250187}
+{"sent": "closest one", "ann_id": 1412282, "best_split": [3, 2], "split_score": 0.3386004514399709}
+{"sent": "zebra closes to you", "ann_id": 1412282, "best_split": [2, 2], "split_score": 0.5204081632273755}
+{"sent": "zebra furthest away", "ann_id": 592707, "best_split": [3, 3], "split_score": 0.7238578678978244}
+{"sent": "farther zebra", "ann_id": 592707, "best_split": [3, 3], "split_score": 0.7238578678978244}

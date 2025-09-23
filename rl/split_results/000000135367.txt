@@ -1,0 +1,6 @@
+{"sent": "most visible giraffe", "ann_id": 1413808, "best_split": [1, 2], "split_score": 0.45290366272213717}
+{"sent": "giraffe bending head", "ann_id": 1413808, "best_split": [1, 2], "split_score": 0.45290366272213717}
+{"sent": "eating giraffe", "ann_id": 1413808, "best_split": [1, 2], "split_score": 0.45290366272213717}
+{"sent": "giraffe with higher head", "ann_id": 596708, "best_split": [2, 1], "split_score": 0.47638531679692586}
+{"sent": "tallest giraffe", "ann_id": 596708, "best_split": [2, 1], "split_score": 0.47638531679692586}
+{"sent": "the zebra receiving a nudge", "ann_id": 596708, "best_split": [2, 1], "split_score": 0.47638531679692586}

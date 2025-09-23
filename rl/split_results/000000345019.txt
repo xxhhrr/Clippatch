@@ -1,0 +1,6 @@
+{"sent": "guy with the yellow shirt", "ann_id": 1246346, "best_split": [1, 2], "split_score": 0.6676995621196463}
+{"sent": "green shirt", "ann_id": 1246346, "best_split": [1, 2], "split_score": 0.6676995621196463}
+{"sent": "neon shirt guy", "ann_id": 1246346, "best_split": [1, 2], "split_score": 0.6676995621196463}
+{"sent": "blue shirt", "ann_id": 505807, "best_split": [1, 3], "split_score": 0.5573888091536489}
+{"sent": "woman in blue shirt", "ann_id": 505807, "best_split": [1, 3], "split_score": 0.5573888091536489}
+{"sent": "light blue shirt", "ann_id": 505807, "best_split": [1, 3], "split_score": 0.5573888091536489}

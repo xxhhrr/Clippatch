@@ -1,0 +1,6 @@
+{"sent": "car blur slightly faster than motorcycle", "ann_id": 1339468, "best_split": [3, 2], "split_score": 0.27595686188666135}
+{"sent": "blurred car with red line", "ann_id": 1339468, "best_split": [2, 2], "split_score": 0.30133928569026314}
+{"sent": "car ahead", "ann_id": 1339468, "best_split": [3, 2], "split_score": 0.27595686188666135}
+{"sent": "blue car", "ann_id": 133321, "best_split": [3, 1], "split_score": 0.2550231839117342}
+{"sent": "blue blur car", "ann_id": 133321, "best_split": [3, 1], "split_score": 0.2550231839117342}
+{"sent": "gray car", "ann_id": 133321, "best_split": [3, 1], "split_score": 0.2550231839117342}

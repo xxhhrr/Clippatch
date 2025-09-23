@@ -1,0 +1,9 @@
+{"sent": "white dress shirt", "ann_id": 464836, "best_split": [2, 1], "split_score": 0.4869565217225898}
+{"sent": "standing light brown shirt", "ann_id": 464836, "best_split": [2, 2], "split_score": 0.6612765957095066}
+{"sent": "white shirt behind", "ann_id": 464836, "best_split": [2, 2], "split_score": 0.6612765957095066}
+{"sent": "guy in green shirt", "ann_id": 430089, "best_split": [1, 2], "split_score": 0.546949475672513}
+{"sent": "green", "ann_id": 430089, "best_split": [1, 2], "split_score": 0.546949475672513}
+{"sent": "green shirt", "ann_id": 430089, "best_split": [1, 2], "split_score": 0.546949475672513}
+{"sent": "glasses", "ann_id": 426474, "best_split": [1, 2], "split_score": 0.7929687499683925}
+{"sent": "asian guy", "ann_id": 426474, "best_split": [1, 2], "split_score": 0.7929687499683925}
+{"sent": "guy with glasses", "ann_id": 426474, "best_split": [1, 2], "split_score": 0.7929687499683925}

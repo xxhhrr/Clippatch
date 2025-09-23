@@ -1,0 +1,3 @@
+{"sent": "the table we can only see part of", "ann_id": 1965522, "best_split": [2, 3], "split_score": 0.5389488270277196}
+{"sent": "light tablecloth", "ann_id": 1965522, "best_split": [2, 3], "split_score": 0.5389488270277196}
+{"sent": "lightest part of actual table", "ann_id": 1965522, "best_split": [2, 3], "split_score": 0.5389488270277196}

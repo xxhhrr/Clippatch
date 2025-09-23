@@ -1,0 +1,9 @@
+{"sent": "guy sitting", "ann_id": 452435, "best_split": [2, 3], "split_score": 0.7369008840635737}
+{"sent": "guy sitting", "ann_id": 452435, "best_split": [2, 3], "split_score": 0.7369008840635737}
+{"sent": "sitting", "ann_id": 452435, "best_split": [2, 2], "split_score": 0.6326399771596638}
+{"sent": "girl in red", "ann_id": 435385, "best_split": [2, 2], "split_score": 0.6326139384928197}
+{"sent": "woman in red", "ann_id": 435385, "best_split": [2, 2], "split_score": 0.6326139384928197}
+{"sent": "maroon shirt", "ann_id": 435385, "best_split": [2, 2], "split_score": 0.6326139384928197}
+{"sent": "plaid couch", "ann_id": 97723, "best_split": [2, 3], "split_score": 0.48769500287914447}
+{"sent": "plaid couch", "ann_id": 97723, "best_split": [2, 3], "split_score": 0.48769500287914447}
+{"sent": "sofa in the back next to the guy standing up", "ann_id": 97723, "best_split": [2, 3], "split_score": 0.48769500287914447}

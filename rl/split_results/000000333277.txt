@@ -1,0 +1,9 @@
+{"sent": "girl in blue long hair", "ann_id": 522272, "best_split": [2, 3], "split_score": 0.904128440263288}
+{"sent": "back of girls head", "ann_id": 522272, "best_split": [2, 3], "split_score": 0.904128440263288}
+{"sent": "back of head close to us", "ann_id": 522272, "best_split": [2, 3], "split_score": 0.904128440263288}
+{"sent": "closest person facing you", "ann_id": 520901, "best_split": [3, 2], "split_score": 0.305604719738255}
+{"sent": "person with blue shirt", "ann_id": 520901, "best_split": [3, 2], "split_score": 0.305604719738255}
+{"sent": "blue shirt with sleeve rolled up", "ann_id": 520901, "best_split": [2, 2], "split_score": 0.28753993608348827}
+{"sent": "boy closest to girl", "ann_id": 481865, "best_split": [2, 2], "split_score": 0.5974654220482751}
+{"sent": "red shirt close to us", "ann_id": 481865, "best_split": [2, 3], "split_score": 0.7483600582408564}
+{"sent": "red shirt in corner", "ann_id": 481865, "best_split": [2, 3], "split_score": 0.7483600582408564}

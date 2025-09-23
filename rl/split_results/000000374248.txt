@@ -1,0 +1,6 @@
+{"sent": "solid umbrella", "ann_id": 282195, "best_split": [2, 3], "split_score": 0.6377952755198186}
+{"sent": "all red umbrella", "ann_id": 282195, "best_split": [2, 3], "split_score": 0.6377952755198186}
+{"sent": "red umbrella", "ann_id": 282195, "best_split": [2, 3], "split_score": 0.6377952755198186}
+{"sent": "umbrella with white writing", "ann_id": 279389, "best_split": [5, 1], "split_score": 0.3543019480160002}
+{"sent": "red umbrella above white blanket", "ann_id": 279389, "best_split": [5, 1], "split_score": 0.3543019480160002}
+{"sent": "full umbrella", "ann_id": 279389, "best_split": [5, 1], "split_score": 0.3543019480160002}

@@ -1,0 +1,6 @@
+{"sent": "person in black sweater and white pants", "ann_id": 201499, "best_split": [1, 5], "split_score": 0.6788551736691054}
+{"sent": "tallest man", "ann_id": 201499, "best_split": [1, 5], "split_score": 0.6788551736691054}
+{"sent": "man with no glasses", "ann_id": 201499, "best_split": [1, 3], "split_score": 0.44631252605697774}
+{"sent": "closest man", "ann_id": 194361, "best_split": [1, 3], "split_score": 0.5844474152972121}
+{"sent": "man with suit jacket", "ann_id": 194361, "best_split": [1, 3], "split_score": 0.5844474152972121}
+{"sent": "blue suit jacket", "ann_id": 194361, "best_split": [1, 3], "split_score": 0.5844474152972121}

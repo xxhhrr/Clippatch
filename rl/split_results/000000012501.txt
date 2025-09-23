@@ -1,0 +1,13 @@
+{"sent": "white shirt white shorts", "ann_id": 2205273, "best_split": [1, 5], "split_score": 0.5267204920677893}
+{"sent": "person in all white", "ann_id": 2205273, "best_split": [1, 5], "split_score": 0.5267204920677893}
+{"sent": "all white clothing", "ann_id": 2205273, "best_split": [1, 5], "split_score": 0.5267204920677893}
+{"sent": "man in green shirt", "ann_id": 526377, "best_split": [1, 5], "split_score": 0.5622970778650267}
+{"sent": "green shirt guy", "ann_id": 526377, "best_split": [1, 5], "split_score": 0.5622970778650267}
+{"sent": "man in green", "ann_id": 526377, "best_split": [1, 5], "split_score": 0.5622970778650267}
+{"sent": "black shirt", "ann_id": 498302, "best_split": [1, 5], "split_score": 0.5382165604667025}
+{"sent": "guy in black shirt", "ann_id": 498302, "best_split": [1, 5], "split_score": 0.5382165604667025}
+{"sent": "black dhirt", "ann_id": 498302, "best_split": [1, 5], "split_score": 0.5382165604667025}
+{"sent": "woman without frisbee", "ann_id": 481818, "best_split": [2, 1], "split_score": 0.32999589938730195}
+{"sent": "a girl standing on the grass", "ann_id": 481818, "best_split": [2, 1], "split_score": 0.32999589938730195}
+{"sent": "blue stripes", "ann_id": 481818, "best_split": [2, 2], "split_score": 0.5775717703003844}
+{"sent": "woman", "ann_id": 481818, "best_split": [1, 2], "split_score": 0.5513791453861855}

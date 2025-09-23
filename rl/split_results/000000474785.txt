@@ -1,0 +1,6 @@
+{"sent": "taller chair", "ann_id": 380319, "best_split": [2, 2], "split_score": 0.4962531887359492}
+{"sent": "higher chair", "ann_id": 380319, "best_split": [2, 2], "split_score": 0.4962531887359492}
+{"sent": "upright chair", "ann_id": 380319, "best_split": [2, 2], "split_score": 0.4962531887359492}
+{"sent": "short chair", "ann_id": 379480, "best_split": [5, 1], "split_score": 0.3428571428253379}
+{"sent": "short beach chair", "ann_id": 379480, "best_split": [5, 1], "split_score": 0.3428571428253379}
+{"sent": "shorter chair", "ann_id": 379480, "best_split": [5, 1], "split_score": 0.3428571428253379}

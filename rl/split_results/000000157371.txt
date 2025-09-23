@@ -1,0 +1,12 @@
+{"sent": "chair that man is sitting on", "ann_id": 374494, "best_split": [2, 2], "split_score": 0.5940594058997484}
+{"sent": "chair guy is sitting on", "ann_id": 374494, "best_split": [2, 2], "split_score": 0.5940594058997484}
+{"sent": "guys chair", "ann_id": 374494, "best_split": [2, 2], "split_score": 0.5940594058997484}
+{"sent": "chair where woman is on", "ann_id": 289709, "best_split": [1, 5], "split_score": 0.4007549027323578}
+{"sent": "chair the woman is sitting in", "ann_id": 289709, "best_split": [1, 5], "split_score": 0.4007549027323578}
+{"sent": "chair lady sitting on", "ann_id": 289709, "best_split": [1, 5], "split_score": 0.4007549027323578}
+{"sent": "man in suit", "ann_id": 213140, "best_split": [1, 5], "split_score": 0.5782051281587977}
+{"sent": "man", "ann_id": 213140, "best_split": [1, 2], "split_score": 0.3922193877394683}
+{"sent": "man", "ann_id": 213140, "best_split": [1, 2], "split_score": 0.3922193877394683}
+{"sent": "woman in skirt", "ann_id": 204643, "best_split": [1, 5], "split_score": 0.39534673997697295}
+{"sent": "woman", "ann_id": 204643, "best_split": [1, 5], "split_score": 0.39534673997697295}
+{"sent": "lady", "ann_id": 204643, "best_split": [1, 5], "split_score": 0.39534673997697295}

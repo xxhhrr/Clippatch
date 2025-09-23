@@ -1,0 +1,6 @@
+{"sent": "long couch near white wall", "ann_id": 100002, "best_split": [3, 3], "split_score": 0.5673844664205923}
+{"sent": "the largest couch", "ann_id": 100002, "best_split": [3, 3], "split_score": 0.5673844664205923}
+{"sent": "largest couch", "ann_id": 100002, "best_split": [3, 3], "split_score": 0.5673844664205923}
+{"sent": "couch with cupholders", "ann_id": 99023, "best_split": [5, 1], "split_score": 0.753471150821238}
+{"sent": "couch closest", "ann_id": 99023, "best_split": [5, 1], "split_score": 0.753471150821238}
+{"sent": "sofa with holders", "ann_id": 99023, "best_split": [5, 1], "split_score": 0.753471150821238}

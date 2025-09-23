@@ -1,0 +1,6 @@
+{"sent": "blue jeans", "ann_id": 487765, "best_split": [2, 2], "split_score": 0.6657192373888583}
+{"sent": "person with hidden face", "ann_id": 487765, "best_split": [2, 2], "split_score": 0.6657192373888583}
+{"sent": "light blue", "ann_id": 487765, "best_split": [2, 1], "split_score": 0.054221556021613056}
+{"sent": "woman whose head you can see", "ann_id": 442756, "best_split": [2, 1], "split_score": 0.536599819089399}
+{"sent": "woman in dark clothes", "ann_id": 442756, "best_split": [1, 2], "split_score": 0.5495030821314157}
+{"sent": "woman with dark long hair", "ann_id": 442756, "best_split": [1, 2], "split_score": 0.5495030821314157}

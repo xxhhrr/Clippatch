@@ -1,0 +1,6 @@
+{"sent": "person holding the microphone to their face", "ann_id": 229883, "best_split": [1, 2], "split_score": 0.3565051020266061}
+{"sent": "guy in white shirt on tv", "ann_id": 229883, "best_split": [1, 5], "split_score": 0.6737891737291855}
+{"sent": "cut off person on tv with white shirt on", "ann_id": 229883, "best_split": [1, 5], "split_score": 0.6737891737291855}
+{"sent": "woman wearing black and white on tv", "ann_id": 223785, "best_split": [1, 2], "split_score": 0.2927295918250666}
+{"sent": "woman in white overalls", "ann_id": 223785, "best_split": [3, 2], "split_score": 0.2940397350749967}
+{"sent": "apron", "ann_id": 223785, "best_split": [3, 2], "split_score": 0.2940397350749967}

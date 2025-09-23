@@ -1,0 +1,6 @@
+{"sent": "blue jacket closest to purple pants", "ann_id": 548181, "best_split": [3, 3], "split_score": 0.4201892743816736}
+{"sent": "blue jacker closest to purple", "ann_id": 548181, "best_split": [3, 3], "split_score": 0.4201892743816736}
+{"sent": "royal blue skiier", "ann_id": 548181, "best_split": [3, 3], "split_score": 0.4201892743816736}
+{"sent": "guy in purple", "ann_id": 502436, "best_split": [1, 5], "split_score": 0.4536865685737132}
+{"sent": "purple pants", "ann_id": 502436, "best_split": [1, 5], "split_score": 0.4536865685737132}
+{"sent": "purple snow pants", "ann_id": 502436, "best_split": [1, 5], "split_score": 0.4536865685737132}

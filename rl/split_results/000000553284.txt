@@ -1,0 +1,6 @@
+{"sent": "gray shirt black hat sitting", "ann_id": 1290809, "best_split": [1, 2], "split_score": 0.22640306121546544}
+{"sent": "man with leg bent back just for you", "ann_id": 1290809, "best_split": [3, 1], "split_score": 0.27702547622922735}
+{"sent": "man with arms out gray shirt", "ann_id": 1290809, "best_split": [3, 2], "split_score": 0.5282275710581807}
+{"sent": "older guy with white shirt", "ann_id": 1274458, "best_split": [3, 3], "split_score": 0.44921527976766135}
+{"sent": "belt and khakis", "ann_id": 1274458, "best_split": [3, 3], "split_score": 0.44921527976766135}
+{"sent": "man with khaki pants", "ann_id": 1274458, "best_split": [3, 3], "split_score": 0.44921527976766135}

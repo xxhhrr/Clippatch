@@ -1,0 +1,6 @@
+{"sent": "hand reaching for sandwich piece", "ann_id": 1225929, "best_split": [1, 3], "split_score": 0.44848484846057984}
+{"sent": "the hand getting the sandwich", "ann_id": 1225929, "best_split": [1, 3], "split_score": 0.44848484846057984}
+{"sent": "reaching hand", "ann_id": 1225929, "best_split": [2, 3], "split_score": 0.6036098576359241}
+{"sent": "woman", "ann_id": 446447, "best_split": [2, 2], "split_score": 0.592592592547801}
+{"sent": "lady fully in picture", "ann_id": 446447, "best_split": [2, 2], "split_score": 0.592592592547801}
+{"sent": "glasses lady", "ann_id": 446447, "best_split": [2, 2], "split_score": 0.592592592547801}

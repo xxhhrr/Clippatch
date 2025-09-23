@@ -1,0 +1,12 @@
+{"sent": "bananas in corner", "ann_id": 1542559, "best_split": [2, 1], "split_score": 0.16290656887105762}
+{"sent": "small bundle of bananas", "ann_id": 1542559, "best_split": [2, 1], "split_score": 0.16290656887105762}
+{"sent": "lower banana bunch", "ann_id": 1542559, "best_split": [1, 2], "split_score": 0.16290656887105762}
+{"sent": "bunch of bananas", "ann_id": 1043840, "best_split": [2, 3], "split_score": 0.5684057970602604}
+{"sent": "bananas between mens butts on table close to us", "ann_id": 1043840, "best_split": [2, 3], "split_score": 0.5684057970602604}
+{"sent": "banana bunch on table", "ann_id": 1043840, "best_split": [2, 3], "split_score": 0.5684057970602604}
+{"sent": "blue vest", "ann_id": 512668, "best_split": [2, 2], "split_score": 0.5044395116187265}
+{"sent": "blue vest", "ann_id": 512668, "best_split": [2, 2], "split_score": 0.5044395116187265}
+{"sent": "closest blue shirt", "ann_id": 512668, "best_split": [2, 2], "split_score": 0.5044395116187265}
+{"sent": "yellow shirt", "ann_id": 454042, "best_split": [1, 3], "split_score": 0.5191128942093439}
+{"sent": "man in yellow shirt no vest", "ann_id": 454042, "best_split": [1, 3], "split_score": 0.5191128942093439}
+{"sent": "yellow shirt", "ann_id": 454042, "best_split": [1, 3], "split_score": 0.5191128942093439}

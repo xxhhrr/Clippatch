@@ -1,0 +1,6 @@
+{"sent": "black zipped jacket", "ann_id": 466521, "best_split": [2, 3], "split_score": 0.38602941172035504}
+{"sent": "white pants black jacket", "ann_id": 466521, "best_split": [2, 3], "split_score": 0.38602941172035504}
+{"sent": "hands in pocket", "ann_id": 466521, "best_split": [2, 3], "split_score": 0.38602941172035504}
+{"sent": "man in red behind net or fence", "ann_id": 445500, "best_split": [2, 2], "split_score": 0.22018559703810217}
+{"sent": "man black and red coat", "ann_id": 445500, "best_split": [1, 5], "split_score": 0.22721366249979452}
+{"sent": "man behind in the fence in black and red", "ann_id": 445500, "best_split": [2, 3], "split_score": 0.2072930694905943}

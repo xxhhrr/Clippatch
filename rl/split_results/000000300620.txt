@@ -1,0 +1,8 @@
+{"sent": "laptop by man hands", "ann_id": 1101390, "best_split": [3, 1], "split_score": 0.2926520270093719}
+{"sent": "laptop between his hands", "ann_id": 1101390, "best_split": [3, 2], "split_score": 0.5853040539834333}
+{"sent": "the laptop his hands are near", "ann_id": 1101390, "best_split": [3, 1], "split_score": 0.2926520270093719}
+{"sent": "larger laptop of the two not being used", "ann_id": 1101030, "best_split": [3, 2], "split_score": 0.46740907228571626}
+{"sent": "3pm screen", "ann_id": 1101030, "best_split": [3, 3], "split_score": 0.6414665339432334}
+{"sent": "tablet", "ann_id": 1100528, "best_split": [2, 3], "split_score": 0.3711212246202812}
+{"sent": "tablet", "ann_id": 1100528, "best_split": [2, 3], "split_score": 0.3711212246202812}
+{"sent": "smallest screen", "ann_id": 1100528, "best_split": [2, 3], "split_score": 0.3711212246202812}

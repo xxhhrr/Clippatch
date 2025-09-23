@@ -1,0 +1,6 @@
+{"sent": "carrots", "ann_id": 1902248, "best_split": [2, 3], "split_score": 0.46032468514183544}
+{"sent": "veggies", "ann_id": 1902248, "best_split": [2, 3], "split_score": 0.46032468514183544}
+{"sent": "carrottd", "ann_id": 1902248, "best_split": [3, 1], "split_score": 0.2449367088496864}
+{"sent": "rice", "ann_id": 1899060, "best_split": [2, 3], "split_score": 0.48812664903626923}
+{"sent": "bowl of rice", "ann_id": 1899060, "best_split": [2, 3], "split_score": 0.48812664903626923}
+{"sent": "rice", "ann_id": 1899060, "best_split": [2, 3], "split_score": 0.48812664903626923}

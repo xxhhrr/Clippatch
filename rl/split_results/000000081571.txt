@@ -1,0 +1,8 @@
+{"sent": "the man with glasses and a blurry face", "ann_id": 1217512, "best_split": [2, 3], "split_score": 0.9308885753489787}
+{"sent": "kid in glasses under row of windows", "ann_id": 1217512, "best_split": [2, 3], "split_score": 0.9308885753489787}
+{"sent": "closest guy with glasses", "ann_id": 1217512, "best_split": [2, 3], "split_score": 0.9308885753489787}
+{"sent": "closest giraffe", "ann_id": 600521, "best_split": [1, 2], "split_score": 0.3339731285857663}
+{"sent": "giraffe bending toward the other one", "ann_id": 600521, "best_split": [1, 2], "split_score": 0.3339731285857663}
+{"sent": "giraffe with more face", "ann_id": 594744, "best_split": [1, 5], "split_score": 0.6133319804572512}
+{"sent": "straighter giraffe", "ann_id": 594744, "best_split": [1, 5], "split_score": 0.6133319804572512}
+{"sent": "person in white shirt blue stripes close to camera no glasses", "ann_id": 1303745, "best_split": [3, 1], "split_score": 0.21312624079101214}

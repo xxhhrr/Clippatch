@@ -1,0 +1,6 @@
+{"sent": "blue 19", "ann_id": 512664, "best_split": [1, 2], "split_score": 0.4185678491224262}
+{"sent": "man looking around him", "ann_id": 512664, "best_split": [1, 3], "split_score": 0.42017774850147394}
+{"sent": "skier closet to us", "ann_id": 512664, "best_split": [1, 2], "split_score": 0.4185678491224262}
+{"sent": "person in pink shirt", "ann_id": 509415, "best_split": [3, 1], "split_score": 0.38603812954633226}
+{"sent": "man farther away", "ann_id": 509415, "best_split": [2, 1], "split_score": 0.22494157360994088}
+{"sent": "skier gray and black hat", "ann_id": 509415, "best_split": [5, 1], "split_score": 0.1853997682405246}

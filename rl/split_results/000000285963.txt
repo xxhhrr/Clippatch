@@ -1,0 +1,6 @@
+{"sent": "brown horse with the most light on it", "ann_id": 274242, "best_split": [2, 2], "split_score": 0.3257846642569897}
+{"sent": "hoarse with white on head", "ann_id": 58113, "best_split": [2, 3], "split_score": 0.4169884169381047}
+{"sent": "horse with american flag", "ann_id": 58113, "best_split": [2, 3], "split_score": 0.4169884169381047}
+{"sent": "horse carrying guy with usa flag", "ann_id": 58113, "best_split": [2, 3], "split_score": 0.4169884169381047}
+{"sent": "horse with guy holdig office sign", "ann_id": 55791, "best_split": [2, 1], "split_score": 0.13567839195447243}
+{"sent": "horse that the person with the police officer flag is on", "ann_id": 55791, "best_split": [3, 3], "split_score": 0.16159600995491322}

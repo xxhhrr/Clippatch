@@ -1,0 +1,8 @@
+{"sent": "large vehicle", "ann_id": 1789711, "best_split": [1, 2], "split_score": 0.49761544723456974}
+{"sent": "sidecar", "ann_id": 1789711, "best_split": [1, 3], "split_score": 0.47098275388478705}
+{"sent": "big main black thing", "ann_id": 1789711, "best_split": [1, 2], "split_score": 0.49761544723456974}
+{"sent": "7820", "ann_id": 154147, "best_split": [1, 5], "split_score": 0.34093447502411256}
+{"sent": "7820 fyl", "ann_id": 154147, "best_split": [3, 1], "split_score": 0.16768916154492405}
+{"sent": "licnce plate", "ann_id": 154147, "best_split": [1, 5], "split_score": 0.34093447502411256}
+{"sent": "the motorcyle facing us", "ann_id": 152926, "best_split": [3, 3], "split_score": 0.4875294117073495}
+{"sent": "motorcycle out of frame", "ann_id": 152926, "best_split": [3, 3], "split_score": 0.4875294117073495}

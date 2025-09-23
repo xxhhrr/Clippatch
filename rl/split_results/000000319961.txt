@@ -1,0 +1,4 @@
+{"sent": "tennis righty tighty", "ann_id": 456759, "best_split": [1, 5], "split_score": 0.5009135628600904}
+{"sent": "right i g h t", "ann_id": 456759, "best_split": [1, 2], "split_score": 0.4584661989613175}
+{"sent": "woman", "ann_id": 435919, "best_split": [2, 2], "split_score": 0.25085910651573995}
+{"sent": "frame one lady", "ann_id": 435919, "best_split": [2, 2], "split_score": 0.25085910651573995}

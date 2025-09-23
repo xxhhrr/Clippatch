@@ -1,0 +1,5 @@
+{"sent": "looks like a green dip here by us", "ann_id": 1540215, "best_split": [3, 2], "split_score": 0.43353129277826274}
+{"sent": "portion behind 8pm slice crust", "ann_id": 1540215, "best_split": [3, 1], "split_score": 0.2227176718949356}
+{"sent": "shiny object at 9 o clock", "ann_id": 2185830, "best_split": [2, 1], "split_score": 0.03930255823784112}
+{"sent": "black green reflective on edge touching pizza near red bowls", "ann_id": 2185830, "best_split": [2, 1], "split_score": 0.11073774247324203}
+{"sent": "silver shiny thing on side closet to the rounds remaining box", "ann_id": 2185830, "best_split": [1, 5], "split_score": 0.340557275508847}

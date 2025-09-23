@@ -1,0 +1,5 @@
+{"sent": "bird we can see more of", "ann_id": 1815110, "best_split": [2, 1], "split_score": 0.38488120949284876}
+{"sent": "closest bird to you", "ann_id": 1815110, "best_split": [2, 1], "split_score": 0.38488120949284876}
+{"sent": "bird on east side", "ann_id": 40367, "best_split": [1, 5], "split_score": 0.5553723550044399}
+{"sent": "bird behind other bird", "ann_id": 40367, "best_split": [1, 5], "split_score": 0.5553723550044399}
+{"sent": "bird you can only see part of", "ann_id": 40367, "best_split": [1, 5], "split_score": 0.5553723550044399}

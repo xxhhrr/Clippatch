@@ -1,0 +1,8 @@
+{"sent": "closest white sheep", "ann_id": 277612, "best_split": [3, 3], "split_score": 0.5727131245767398}
+{"sent": "sheep with head missing on picture", "ann_id": 277612, "best_split": [3, 1], "split_score": 0.201296769960068}
+{"sent": "the white sheep following the brown one", "ann_id": 61704, "best_split": [3, 2], "split_score": 0.46387832694107906}
+{"sent": "whole white sheep", "ann_id": 61704, "best_split": [3, 2], "split_score": 0.46387832694107906}
+{"sent": "small light animal", "ann_id": 61704, "best_split": [3, 2], "split_score": 0.46387832694107906}
+{"sent": "sheep closest to camera", "ann_id": 61461, "best_split": [3, 1], "split_score": 0.26206322793783793}
+{"sent": "darkest sheep", "ann_id": 61461, "best_split": [3, 1], "split_score": 0.26206322793783793}
+{"sent": "brown sheep", "ann_id": 61461, "best_split": [3, 1], "split_score": 0.26206322793783793}

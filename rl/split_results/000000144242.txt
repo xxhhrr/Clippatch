@@ -1,0 +1,6 @@
+{"sent": "man with red tie", "ann_id": 507414, "best_split": [2, 3], "split_score": 0.5843722563139269}
+{"sent": "man with red tie", "ann_id": 507414, "best_split": [2, 3], "split_score": 0.5843722563139269}
+{"sent": "red tie", "ann_id": 507414, "best_split": [2, 3], "split_score": 0.5843722563139269}
+{"sent": "man with yellow bag", "ann_id": 440564, "best_split": [1, 2], "split_score": 0.6154336734448568}
+{"sent": "suit man but not red tie man", "ann_id": 440564, "best_split": [1, 2], "split_score": 0.6154336734448568}
+{"sent": "the man showing his side", "ann_id": 440564, "best_split": [1, 2], "split_score": 0.6154336734448568}

@@ -1,0 +1,3 @@
+{"sent": "player at 9 o clock", "ann_id": 1235803, "best_split": [1, 3], "split_score": 0.5968735992493908}
+{"sent": "the man to the left of the screen", "ann_id": 1235803, "best_split": [3, 1], "split_score": 0.2418195285503107}
+{"sent": "player in 1", "ann_id": 1235803, "best_split": [1, 3], "split_score": 0.5968735992493908}

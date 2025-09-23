@@ -1,0 +1,9 @@
+{"sent": "baseball player batting", "ann_id": 536403, "best_split": [1, 5], "split_score": 0.559350503874632}
+{"sent": "male batter in white uniform blue belt", "ann_id": 536403, "best_split": [1, 5], "split_score": 0.559350503874632}
+{"sent": "man in white", "ann_id": 536403, "best_split": [1, 2], "split_score": 0.3842075892703999}
+{"sent": "catcher", "ann_id": 503059, "best_split": [3, 3], "split_score": 0.5488054606572004}
+{"sent": "catcher", "ann_id": 503059, "best_split": [3, 3], "split_score": 0.5488054606572004}
+{"sent": "catcher", "ann_id": 503059, "best_split": [3, 3], "split_score": 0.5488054606572004}
+{"sent": "female", "ann_id": 443615, "best_split": [1, 5], "split_score": 0.4466800804454493}
+{"sent": "woman with bat", "ann_id": 443615, "best_split": [1, 3], "split_score": 0.22727272726109374}
+{"sent": "woman batter", "ann_id": 443615, "best_split": [1, 3], "split_score": 0.22727272726109374}

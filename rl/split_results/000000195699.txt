@@ -1,0 +1,13 @@
+{"sent": "plain chocolate bar", "ann_id": 2204266, "best_split": [3, 2], "split_score": 0.23664638266434004}
+{"sent": "choco bar", "ann_id": 2204266, "best_split": [3, 2], "split_score": 0.23664638266434004}
+{"sent": "tan chocolate one with a choco drop on it", "ann_id": 2204262, "best_split": [2, 3], "split_score": 0.4812900557699721}
+{"sent": "cake with brown ball on it", "ann_id": 2204262, "best_split": [1, 5], "split_score": 0.3350688612415965}
+{"sent": "yellow cake with chocolate layer", "ann_id": 2204262, "best_split": [2, 3], "split_score": 0.4812900557699721}
+{"sent": "dark yukky stuff with white container", "ann_id": 2204255, "best_split": [2, 3], "split_score": 0.3719662140091985}
+{"sent": "short square chocolate with three nuts", "ann_id": 2204255, "best_split": [5, 1], "split_score": 0.24309392263094837}
+{"sent": "square brownie", "ann_id": 2204255, "best_split": [2, 2], "split_score": 0.36224489793030573}
+{"sent": "light brown pastry", "ann_id": 2189542, "best_split": [2, 3], "split_score": 0.4828667953085344}
+{"sent": "600 pastry", "ann_id": 2189542, "best_split": [1, 3], "split_score": 0.24143339766883243}
+{"sent": "higher piece with marshmallow", "ann_id": 1087039, "best_split": [3, 2], "split_score": 0.4198841698335082}
+{"sent": "uppermost dessert", "ann_id": 1087039, "best_split": [3, 2], "split_score": 0.4198841698335082}
+{"sent": "pastry with a marshmallow", "ann_id": 1087039, "best_split": [3, 2], "split_score": 0.4198841698335082}

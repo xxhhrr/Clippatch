@@ -1,0 +1,6 @@
+{"sent": "orange aircraft", "ann_id": 267898, "best_split": [5, 1], "split_score": 0.4383116882672167}
+{"sent": "hanging orange plane", "ann_id": 267898, "best_split": [5, 1], "split_score": 0.4383116882672167}
+{"sent": "hanging orange airplane", "ann_id": 267898, "best_split": [5, 1], "split_score": 0.4383116882672167}
+{"sent": "white plane hanging from the ceiling", "ann_id": 159159, "best_split": [2, 2], "split_score": 0.45285584765879705}
+{"sent": "plane closest to ceiling", "ann_id": 159159, "best_split": [3, 2], "split_score": 0.6251564455010588}
+{"sent": "white and red bi plane", "ann_id": 159159, "best_split": [2, 2], "split_score": 0.45285584765879705}

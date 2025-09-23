@@ -1,0 +1,8 @@
+{"sent": "player sitting on bench", "ann_id": 2160741, "best_split": [5, 1], "split_score": 0.13346814963383877}
+{"sent": "person sitting down", "ann_id": 2160741, "best_split": [3, 2], "split_score": 0.2488976560398123}
+{"sent": "sitting player", "ann_id": 2160741, "best_split": [5, 1], "split_score": 0.13346814963383877}
+{"sent": "man swinging bat", "ann_id": 527757, "best_split": [1, 2], "split_score": 0.6510500807504019}
+{"sent": "batter", "ann_id": 527757, "best_split": [1, 2], "split_score": 0.6510500807504019}
+{"sent": "batter", "ann_id": 527757, "best_split": [1, 2], "split_score": 0.6510500807504019}
+{"sent": "background man", "ann_id": 516208, "best_split": [2, 1], "split_score": 0.15981979229689142}
+{"sent": "number nine hands on hips", "ann_id": 516208, "best_split": [5, 1], "split_score": 0.15424477974742837}

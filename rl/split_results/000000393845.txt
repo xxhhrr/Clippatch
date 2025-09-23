@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 511979, "best_split": [1, 2], "split_score": 0.9073262116985281}
+{"sent": "man", "ann_id": 511979, "best_split": [1, 2], "split_score": 0.9073262116985281}
+{"sent": "man with white shirt", "ann_id": 511979, "best_split": [1, 2], "split_score": 0.9073262116985281}
+{"sent": "woman", "ann_id": 441170, "best_split": [1, 2], "split_score": 0.5492523591772097}
+{"sent": "woman", "ann_id": 441170, "best_split": [1, 2], "split_score": 0.5492523591772097}
+{"sent": "here let me fix your tie", "ann_id": 441170, "best_split": [2, 1], "split_score": 0.5033585222370025}

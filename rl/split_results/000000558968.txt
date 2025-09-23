@@ -1,0 +1,6 @@
+{"sent": "cushions of couch", "ann_id": 117329, "best_split": [2, 3], "split_score": 0.3734189921327626}
+{"sent": "sofa cushions", "ann_id": 117329, "best_split": [2, 3], "split_score": 0.3734189921327626}
+{"sent": "couch seats", "ann_id": 117329, "best_split": [2, 3], "split_score": 0.3734189921327626}
+{"sent": "couch", "ann_id": 112498, "best_split": [2, 3], "split_score": 0.5868017090847601}
+{"sent": "the big couch", "ann_id": 112498, "best_split": [2, 3], "split_score": 0.5868017090847601}
+{"sent": "rounded sofa", "ann_id": 112498, "best_split": [2, 3], "split_score": 0.5868017090847601}

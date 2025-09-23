@@ -1,0 +1,6 @@
+{"sent": "the cat not the reflection", "ann_id": 53036, "best_split": [1, 3], "split_score": 0.7188955800068801}
+{"sent": "back of cat", "ann_id": 53036, "best_split": [1, 3], "split_score": 0.7188955800068801}
+{"sent": "back of cat", "ann_id": 53036, "best_split": [1, 3], "split_score": 0.7188955800068801}
+{"sent": "cat in reflection", "ann_id": 50907, "best_split": [3, 1], "split_score": 0.18360564939442783}
+{"sent": "reflection of the cat", "ann_id": 50907, "best_split": [3, 1], "split_score": 0.18360564939442783}
+{"sent": "cat face", "ann_id": 50907, "best_split": [3, 1], "split_score": 0.18360564939442783}

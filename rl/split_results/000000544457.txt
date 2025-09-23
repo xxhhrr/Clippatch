@@ -1,0 +1,5 @@
+{"sent": "chair next to wires on floor", "ann_id": 379124, "best_split": [3, 3], "split_score": 0.5585377139351322}
+{"sent": "chair between two vases", "ann_id": 379124, "best_split": [3, 1], "split_score": 0.21082686156859143}
+{"sent": "chair by mirrored object", "ann_id": 375197, "best_split": [2, 3], "split_score": 0.561052123484429}
+{"sent": "chair one", "ann_id": 375197, "best_split": [3, 2], "split_score": 0.400519592942139}
+{"sent": "chair below mirror", "ann_id": 375197, "best_split": [2, 3], "split_score": 0.561052123484429}

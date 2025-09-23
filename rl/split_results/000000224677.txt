@@ -1,0 +1,6 @@
+{"sent": "boy in brown shirt", "ann_id": 464535, "best_split": [1, 5], "split_score": 0.5972725702919668}
+{"sent": "boy closes to you", "ann_id": 464535, "best_split": [1, 5], "split_score": 0.5972725702919668}
+{"sent": "kid in black pants and shirt", "ann_id": 464535, "best_split": [1, 5], "split_score": 0.5972725702919668}
+{"sent": "man sitting next to woman in red", "ann_id": 1754220, "best_split": [3, 2], "split_score": 0.36499197059360033}
+{"sent": "sitting next to red", "ann_id": 1754220, "best_split": [3, 2], "split_score": 0.36499197059360033}
+{"sent": "man in jeans sitting in back", "ann_id": 1754220, "best_split": [3, 2], "split_score": 0.36499197059360033}

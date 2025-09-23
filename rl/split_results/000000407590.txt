@@ -1,0 +1,9 @@
+{"sent": "only trunk is shown", "ann_id": 582019, "best_split": [2, 3], "split_score": 0.2792762792452796}
+{"sent": "elephant tusk lady is touchin", "ann_id": 582019, "best_split": [2, 3], "split_score": 0.2792762792452796}
+{"sent": "trunk", "ann_id": 582019, "best_split": [2, 3], "split_score": 0.2792762792452796}
+{"sent": "man with camera", "ann_id": 476770, "best_split": [3, 3], "split_score": 0.46320899329800597}
+{"sent": "man taking picture", "ann_id": 476770, "best_split": [3, 2], "split_score": 0.34078947365218143}
+{"sent": "guy taking pics", "ann_id": 476770, "best_split": [3, 2], "split_score": 0.34078947365218143}
+{"sent": "woman in white shirt", "ann_id": 433420, "best_split": [1, 3], "split_score": 0.5308560780154085}
+{"sent": "feeding elephant", "ann_id": 433420, "best_split": [1, 2], "split_score": 0.26708851956515234}
+{"sent": "woman in white", "ann_id": 433420, "best_split": [1, 3], "split_score": 0.5308560780154085}

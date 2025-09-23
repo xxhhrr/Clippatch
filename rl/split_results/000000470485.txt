@@ -1,0 +1,6 @@
+{"sent": "bottle that is unreadable", "ann_id": 1494149, "best_split": [1, 5], "split_score": 0.34422039190152226}
+{"sent": "the vase with the single flower where coke is not visibile", "ann_id": 1494149, "best_split": [1, 5], "split_score": 0.34422039190152226}
+{"sent": "vase without coke label visible", "ann_id": 1494149, "best_split": [1, 5], "split_score": 0.34422039190152226}
+{"sent": "oke bottle", "ann_id": 1493902, "best_split": [2, 3], "split_score": 0.4874517373929233}
+{"sent": "the jar closet to us", "ann_id": 1493902, "best_split": [2, 3], "split_score": 0.4874517373929233}
+{"sent": "coke bottle with barcode showing", "ann_id": 1493902, "best_split": [2, 3], "split_score": 0.4874517373929233}

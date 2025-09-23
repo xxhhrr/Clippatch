@@ -1,0 +1,9 @@
+{"sent": "blue shirt walking", "ann_id": 2204912, "best_split": [3, 2], "split_score": 0.2585457978981543}
+{"sent": "man walking blue shirt brown pants", "ann_id": 2204912, "best_split": [3, 2], "split_score": 0.2585457978981543}
+{"sent": "man in navy shirt", "ann_id": 2204912, "best_split": [3, 3], "split_score": 0.37824377452447655}
+{"sent": "person holding frisbee", "ann_id": 2166891, "best_split": [1, 5], "split_score": 0.3804433887192752}
+{"sent": "woman with frisbee", "ann_id": 2166891, "best_split": [1, 5], "split_score": 0.3804433887192752}
+{"sent": "female throwing frisbee", "ann_id": 2166891, "best_split": [1, 5], "split_score": 0.3804433887192752}
+{"sent": "green shirt", "ann_id": 428110, "best_split": [1, 5], "split_score": 0.6360266863754608}
+{"sent": "man in green shirt", "ann_id": 428110, "best_split": [1, 5], "split_score": 0.6360266863754608}
+{"sent": "green shirt", "ann_id": 428110, "best_split": [1, 5], "split_score": 0.6360266863754608}

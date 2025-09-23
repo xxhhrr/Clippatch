@@ -1,0 +1,9 @@
+{"sent": "person sitting on ground", "ann_id": 498818, "best_split": [3, 2], "split_score": 0.34849715674771553}
+{"sent": "girl", "ann_id": 498818, "best_split": [2, 2], "split_score": 0.243335224032662}
+{"sent": "girl with legs up", "ann_id": 498818, "best_split": [3, 2], "split_score": 0.34849715674771553}
+{"sent": "guy in white on chair", "ann_id": 483005, "best_split": [3, 2], "split_score": 0.4047926266908025}
+{"sent": "gray shirt", "ann_id": 483005, "best_split": [3, 2], "split_score": 0.4047926266908025}
+{"sent": "white shirt next to red shirt", "ann_id": 483005, "best_split": [3, 2], "split_score": 0.4047926266908025}
+{"sent": "red shirt", "ann_id": 428999, "best_split": [3, 3], "split_score": 0.5089149260686557}
+{"sent": "a man in a red shirt", "ann_id": 428999, "best_split": [3, 3], "split_score": 0.5089149260686557}
+{"sent": "man in red tee shirt", "ann_id": 428999, "best_split": [3, 3], "split_score": 0.5089149260686557}

@@ -1,0 +1,6 @@
+{"sent": "doll thats sitting", "ann_id": 1161539, "best_split": [3, 2], "split_score": 0.48029984454883445}
+{"sent": "sitting teddy", "ann_id": 1161539, "best_split": [3, 2], "split_score": 0.48029984454883445}
+{"sent": "sitting doll", "ann_id": 1161539, "best_split": [3, 2], "split_score": 0.48029984454883445}
+{"sent": "talllest", "ann_id": 1161516, "best_split": [1, 2], "split_score": 0.09723449072170841}
+{"sent": "standing bear", "ann_id": 1161516, "best_split": [3, 3], "split_score": 0.42452830183911405}
+{"sent": "standing doll", "ann_id": 1161516, "best_split": [2, 3], "split_score": 0.5000968053726915}

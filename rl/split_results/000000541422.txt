@@ -1,0 +1,6 @@
+{"sent": "larger pizza", "ann_id": 1076652, "best_split": [2, 2], "split_score": 0.44290751285307106}
+{"sent": "pizza by bottles and plug", "ann_id": 1076652, "best_split": [2, 2], "split_score": 0.44290751285307106}
+{"sent": "large pizza", "ann_id": 1076652, "best_split": [2, 2], "split_score": 0.44290751285307106}
+{"sent": "pizza number 2", "ann_id": 1072509, "best_split": [2, 3], "split_score": 0.36592299075149254}
+{"sent": "next rolling pin", "ann_id": 1072509, "best_split": [2, 2], "split_score": 0.4523070257453746}
+{"sent": "round pizza", "ann_id": 1072509, "best_split": [1, 5], "split_score": 0.28153269101408157}

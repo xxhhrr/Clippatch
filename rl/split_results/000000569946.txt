@@ -1,0 +1,12 @@
+{"sent": "woman white with racquet touching ground", "ann_id": 1272417, "best_split": [3, 1], "split_score": 0.18032200356860098}
+{"sent": "woman with racket touching the ground", "ann_id": 1272417, "best_split": [2, 1], "split_score": 0.17700729926348102}
+{"sent": "lady closest in between guys", "ann_id": 1266925, "best_split": [3, 3], "split_score": 0.3635274382502363}
+{"sent": "woman sitting in between two men", "ann_id": 1266925, "best_split": [3, 3], "split_score": 0.3635274382502363}
+{"sent": "woman between men closest", "ann_id": 1266925, "best_split": [3, 3], "split_score": 0.3635274382502363}
+{"sent": "lady in back row next to tall man", "ann_id": 1231248, "best_split": [3, 2], "split_score": 0.2893516413304218}
+{"sent": "row 2 angry woman tall", "ann_id": 1231248, "best_split": [3, 2], "split_score": 0.2893516413304218}
+{"sent": "standing woman with tennis racket facing down", "ann_id": 1231248, "best_split": [3, 2], "split_score": 0.2893516413304218}
+{"sent": "man sitting next to woman whose racket is touching the ground", "ann_id": 1287011, "best_split": [2, 3], "split_score": 0.32847544238398074}
+{"sent": "smaller man holding racquet", "ann_id": 1287011, "best_split": [2, 3], "split_score": 0.32847544238398074}
+{"sent": "number 3 person sitting", "ann_id": 1287011, "best_split": [3, 1], "split_score": 0.17418744082390936}
+{"sent": "man sitting between two women", "ann_id": 1287011, "best_split": [1, 3], "split_score": 0.2793536186877913}

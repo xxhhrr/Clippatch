@@ -1,0 +1,4 @@
+{"sent": "highest banans bunch", "ann_id": 1904887, "best_split": [3, 2], "split_score": 0.35998316848727296}
+{"sent": "highest banana bunch", "ann_id": 1904887, "best_split": [3, 3], "split_score": 0.48546255499479257}
+{"sent": "bunch of bananas", "ann_id": 1044444, "best_split": [3, 3], "split_score": 0.32522366970252337}
+{"sent": "bananas touching leave", "ann_id": 1044444, "best_split": [3, 3], "split_score": 0.32522366970252337}

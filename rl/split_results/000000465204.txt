@@ -1,0 +1,21 @@
+{"sent": "green on spoon", "ann_id": 2216946, "best_split": [1, 3], "split_score": 0.6558880308484624}
+{"sent": "spoon with green", "ann_id": 2216946, "best_split": [1, 3], "split_score": 0.6558880308484624}
+{"sent": "white dish", "ann_id": 2215569, "best_split": [1, 3], "split_score": 0.3024717218084582}
+{"sent": "white object upper corner", "ann_id": 2215569, "best_split": [1, 3], "split_score": 0.3024717218084582}
+{"sent": "the measuring glass for liquid", "ann_id": 1885453, "best_split": [5, 1], "split_score": 0.5472425761138409}
+{"sent": "clear cup on the table", "ann_id": 1885453, "best_split": [5, 1], "split_score": 0.5472425761138409}
+{"sent": "half", "ann_id": 708006, "best_split": [2, 2], "split_score": 0.3195765715202585}
+{"sent": "dark blue tsp", "ann_id": 708006, "best_split": [1, 3], "split_score": 0.6810878269106605}
+{"sent": "blue 1 2 spoon", "ann_id": 708006, "best_split": [1, 3], "split_score": 0.6810878269106605}
+{"sent": "yellow one", "ann_id": 705825, "best_split": [1, 2], "split_score": 0.6997879430210623}
+{"sent": "spoon with yellow sticker", "ann_id": 705825, "best_split": [1, 2], "split_score": 0.6997879430210623}
+{"sent": "yellow spoon", "ann_id": 705825, "best_split": [1, 2], "split_score": 0.6997879430210623}
+{"sent": "blue smallest not fully seen", "ann_id": 705647, "best_split": [1, 2], "split_score": 0.5396014307416745}
+{"sent": "the one between red and yellow", "ann_id": 705647, "best_split": [1, 2], "split_score": 0.5396014307416745}
+{"sent": "green label behind red spoon", "ann_id": 705647, "best_split": [1, 3], "split_score": 0.31997804609063907}
+{"sent": "1 tsp", "ann_id": 704635, "best_split": [1, 3], "split_score": 0.4839403973309627}
+{"sent": "1 tbs", "ann_id": 704635, "best_split": [1, 3], "split_score": 0.4839403973309627}
+{"sent": "one with red", "ann_id": 704635, "best_split": [1, 2], "split_score": 0.2660236287807196}
+{"sent": "orange measureing spoon", "ann_id": 701357, "best_split": [1, 3], "split_score": 0.25179190750280733}
+{"sent": "spoon with orange", "ann_id": 701357, "best_split": [1, 2], "split_score": 0.31936668025068166}
+{"sent": "orange spoon", "ann_id": 701357, "best_split": [1, 2], "split_score": 0.31936668025068166}

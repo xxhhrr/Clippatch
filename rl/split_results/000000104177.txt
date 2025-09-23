@@ -1,0 +1,9 @@
+{"sent": "huge slice of pizza by the tinnest", "ann_id": 1076793, "best_split": [3, 3], "split_score": 0.2675974403333919}
+{"sent": "larger slice on pan that has two slices", "ann_id": 1076793, "best_split": [3, 2], "split_score": 0.1801801801617342}
+{"sent": "biggerslice of 2 in dish", "ann_id": 1076793, "best_split": [5, 1], "split_score": 0.17431850787533013}
+{"sent": "half a pizza closest", "ann_id": 1071903, "best_split": [2, 3], "split_score": 0.4601183431408144}
+{"sent": "half of pizza on plate", "ann_id": 1071903, "best_split": [2, 3], "split_score": 0.4601183431408144}
+{"sent": "half a cheese pizza remains", "ann_id": 1071903, "best_split": [2, 3], "split_score": 0.4601183431408144}
+{"sent": "stripes", "ann_id": 450335, "best_split": [3, 2], "split_score": 0.5845801157595825}
+{"sent": "striped shirt", "ann_id": 450335, "best_split": [3, 2], "split_score": 0.5845801157595825}
+{"sent": "white striped shirt", "ann_id": 450335, "best_split": [3, 2], "split_score": 0.5845801157595825}

@@ -1,0 +1,6 @@
+{"sent": "no one sitting on it", "ann_id": 1812622, "best_split": [1, 2], "split_score": 0.40688775508582237}
+{"sent": "empty bench", "ann_id": 1812622, "best_split": [3, 1], "split_score": 0.32123125491706633}
+{"sent": "bench empty", "ann_id": 1812622, "best_split": [3, 1], "split_score": 0.32123125491706633}
+{"sent": "the woman is snoozing on it", "ann_id": 573319, "best_split": [1, 2], "split_score": 0.6406570841654203}
+{"sent": "bench person is on", "ann_id": 573319, "best_split": [1, 2], "split_score": 0.6406570841654203}
+{"sent": "the bench the guy is on not the guy", "ann_id": 573319, "best_split": [1, 2], "split_score": 0.6406570841654203}

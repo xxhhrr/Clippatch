@@ -1,0 +1,5 @@
+{"sent": "urinal in floor", "ann_id": 1094982, "best_split": [5, 1], "split_score": 0.3021722265028925}
+{"sent": "toilet in floor", "ann_id": 1094982, "best_split": [2, 1], "split_score": 0.14237882652493708}
+{"sent": "shitter", "ann_id": 1094815, "best_split": [3, 3], "split_score": 0.5320613073925459}
+{"sent": "toilet", "ann_id": 1094815, "best_split": [3, 3], "split_score": 0.5320613073925459}
+{"sent": "toilet seat", "ann_id": 1094815, "best_split": [3, 3], "split_score": 0.5320613073925459}

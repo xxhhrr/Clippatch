@@ -1,0 +1,11 @@
+{"sent": "computer with black screen", "ann_id": 1102564, "best_split": [2, 2], "split_score": 0.8296806966016197}
+{"sent": "macbook with black screen", "ann_id": 1102564, "best_split": [2, 2], "split_score": 0.8296806966016197}
+{"sent": "turned off laptop", "ann_id": 1102564, "best_split": [2, 2], "split_score": 0.8296806966016197}
+{"sent": "laptop with stuff open on screen", "ann_id": 1099306, "best_split": [2, 1], "split_score": 0.39686468645305417}
+{"sent": "laptop with white monitor closest", "ann_id": 1099306, "best_split": [2, 1], "split_score": 0.39686468645305417}
+{"sent": "the on screen", "ann_id": 1099306, "best_split": [1, 2], "split_score": 0.4171316964119447}
+{"sent": "man half in pic", "ann_id": 518498, "best_split": [2, 2], "split_score": 0.28843861738018184}
+{"sent": "black shirt man", "ann_id": 518498, "best_split": [1, 2], "split_score": 0.1894132652985725}
+{"sent": "dude in gray jacket", "ann_id": 512470, "best_split": [2, 3], "split_score": 0.5016778522963844}
+{"sent": "guy with glasses", "ann_id": 512470, "best_split": [2, 3], "split_score": 0.5016778522963844}
+{"sent": "man in gray", "ann_id": 512470, "best_split": [2, 3], "split_score": 0.5016778522963844}

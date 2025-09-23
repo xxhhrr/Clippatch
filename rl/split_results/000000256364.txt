@@ -1,0 +1,6 @@
+{"sent": "red doors not yellow cab one", "ann_id": 174846, "best_split": [5, 1], "split_score": 0.23368421050395366}
+{"sent": "subway train hidden", "ann_id": 174846, "best_split": [3, 2], "split_score": 0.36631274126854335}
+{"sent": "train in background", "ann_id": 174846, "best_split": [3, 2], "split_score": 0.36631274126854335}
+{"sent": "train", "ann_id": 172983, "best_split": [3, 3], "split_score": 0.532063738774576}
+{"sent": "yellow train", "ann_id": 172983, "best_split": [3, 3], "split_score": 0.532063738774576}
+{"sent": "yellow train", "ann_id": 172983, "best_split": [3, 3], "split_score": 0.532063738774576}

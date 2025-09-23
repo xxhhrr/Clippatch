@@ -1,0 +1,6 @@
+{"sent": "gray sweater", "ann_id": 470030, "best_split": [3, 3], "split_score": 0.42561349689171646}
+{"sent": "person white helmet", "ann_id": 470030, "best_split": [3, 2], "split_score": 0.5127459366541706}
+{"sent": "guy with gray pants", "ann_id": 470030, "best_split": [3, 3], "split_score": 0.42561349689171646}
+{"sent": "blue vest", "ann_id": 429660, "best_split": [3, 2], "split_score": 0.46628420949249655}
+{"sent": "person in blue coat", "ann_id": 429660, "best_split": [3, 2], "split_score": 0.46628420949249655}
+{"sent": "blue jacket", "ann_id": 429660, "best_split": [3, 2], "split_score": 0.46628420949249655}

@@ -1,0 +1,8 @@
+{"sent": "computer at 12", "ann_id": 1104057, "best_split": [2, 3], "split_score": 0.2869208493862306}
+{"sent": "laptop 12 o clock", "ann_id": 1104057, "best_split": [1, 2], "split_score": 0.04688214666691256}
+{"sent": "blue screen", "ann_id": 1103759, "best_split": [3, 3], "split_score": 0.378042672505455}
+{"sent": "lapztop with darker blue screen", "ann_id": 1103759, "best_split": [3, 3], "split_score": 0.378042672505455}
+{"sent": "laptop with image of something", "ann_id": 1103759, "best_split": [3, 1], "split_score": 0.3715720355144528}
+{"sent": "white laptop white screen", "ann_id": 1100857, "best_split": [3, 2], "split_score": 0.6510263928936922}
+{"sent": "laptop with bluest screen", "ann_id": 1100857, "best_split": [3, 2], "split_score": 0.6510263928936922}
+{"sent": "bright blue screen", "ann_id": 1100857, "best_split": [3, 2], "split_score": 0.6510263928936922}

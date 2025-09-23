@@ -1,0 +1,6 @@
+{"sent": "yellow sign back", "ann_id": 1808023, "best_split": [5, 1], "split_score": 0.3053977272417413}
+{"sent": "light you cant see glass on", "ann_id": 1808023, "best_split": [3, 2], "split_score": 0.3631756756318562}
+{"sent": "yellow area at 5", "ann_id": 1808023, "best_split": [3, 2], "split_score": 0.3631756756318562}
+{"sent": "street light closest", "ann_id": 1806873, "best_split": [2, 3], "split_score": 0.6772506536536}
+{"sent": "yellow bow by no parking sign", "ann_id": 1806873, "best_split": [2, 3], "split_score": 0.6772506536536}
+{"sent": "street light with visible screen", "ann_id": 1806873, "best_split": [2, 3], "split_score": 0.6772506536536}

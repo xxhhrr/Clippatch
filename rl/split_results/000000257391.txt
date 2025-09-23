@@ -1,0 +1,6 @@
+{"sent": "elephant butt not in picture", "ann_id": 2175111, "best_split": [3, 3], "split_score": 0.2743574416804606}
+{"sent": "animal not in screen", "ann_id": 2175111, "best_split": [2, 1], "split_score": 0.08531317494271393}
+{"sent": "hidden elephant", "ann_id": 2175111, "best_split": [3, 3], "split_score": 0.2743574416804606}
+{"sent": "ellephant", "ann_id": 581138, "best_split": [1, 2], "split_score": 0.4646352680251731}
+{"sent": "whole elephant", "ann_id": 581138, "best_split": [1, 2], "split_score": 0.4646352680251731}
+{"sent": "elephant", "ann_id": 581138, "best_split": [1, 2], "split_score": 0.4646352680251731}

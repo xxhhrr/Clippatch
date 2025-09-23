@@ -1,0 +1,6 @@
+{"sent": "the girl", "ann_id": 1726565, "best_split": [2, 3], "split_score": 0.687659103410331}
+{"sent": "girl", "ann_id": 1726565, "best_split": [2, 3], "split_score": 0.687659103410331}
+{"sent": "perplexed girl", "ann_id": 1726565, "best_split": [2, 3], "split_score": 0.687659103410331}
+{"sent": "the banana", "ann_id": 217941, "best_split": [2, 1], "split_score": 0.46448863635017135}
+{"sent": "banana boy", "ann_id": 217941, "best_split": [2, 1], "split_score": 0.46448863635017135}
+{"sent": "man with banana", "ann_id": 217941, "best_split": [2, 1], "split_score": 0.46448863635017135}

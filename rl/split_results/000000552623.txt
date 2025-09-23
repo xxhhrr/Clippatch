@@ -1,0 +1,6 @@
+{"sent": "back turned", "ann_id": 521442, "best_split": [1, 5], "split_score": 0.6826675809461111}
+{"sent": "guy with back to us", "ann_id": 521442, "best_split": [1, 2], "split_score": 0.3895886479436548}
+{"sent": "man with back to us", "ann_id": 521442, "best_split": [1, 5], "split_score": 0.6826675809461111}
+{"sent": "guy in profile", "ann_id": 474587, "best_split": [1, 3], "split_score": 0.5451081359142581}
+{"sent": "the guy main guy", "ann_id": 474587, "best_split": [1, 3], "split_score": 0.5451081359142581}
+{"sent": "man facing side", "ann_id": 474587, "best_split": [3, 3], "split_score": 0.3554631488130583}

@@ -1,0 +1,6 @@
+{"sent": "the man in the red jacket", "ann_id": 218175, "best_split": [2, 1], "split_score": 0.4807266009753545}
+{"sent": "him", "ann_id": 218175, "best_split": [2, 1], "split_score": 0.48716732976381355}
+{"sent": "man in red", "ann_id": 218175, "best_split": [2, 1], "split_score": 0.4807266009753545}
+{"sent": "white shirt", "ann_id": 201817, "best_split": [2, 3], "split_score": 0.6711627906196322}
+{"sent": "blurry man in white shirt", "ann_id": 201817, "best_split": [2, 3], "split_score": 0.6711627906196322}
+{"sent": "person in white with back to camera", "ann_id": 201817, "best_split": [1, 2], "split_score": 0.24250637754135418}

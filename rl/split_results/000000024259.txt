@@ -1,0 +1,6 @@
+{"sent": "ups type truck", "ann_id": 1799956, "best_split": [1, 3], "split_score": 0.6375288925910102}
+{"sent": "big black truck", "ann_id": 1799956, "best_split": [1, 3], "split_score": 0.6375288925910102}
+{"sent": "delivery truck", "ann_id": 1799956, "best_split": [1, 3], "split_score": 0.6375288925910102}
+{"sent": "car behind the bicyclist at edge of bus", "ann_id": 1372679, "best_split": [3, 1], "split_score": 0.1672900579049656}
+{"sent": "pickup behind cyclist", "ann_id": 1372679, "best_split": [3, 1], "split_score": 0.1672900579049656}
+{"sent": "truck behind sub", "ann_id": 1372679, "best_split": [3, 1], "split_score": 0.1672900579049656}

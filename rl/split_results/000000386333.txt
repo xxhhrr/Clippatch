@@ -1,0 +1,6 @@
+{"sent": "person not standing on their skis", "ann_id": 513783, "best_split": [1, 3], "split_score": 0.29464285712508187}
+{"sent": "guy without red on his arm", "ann_id": 513783, "best_split": [3, 1], "split_score": 0.17886178860806076}
+{"sent": "skiier with no skiis on", "ann_id": 513783, "best_split": [1, 5], "split_score": 0.27940282959123314}
+{"sent": "has skis on", "ann_id": 487553, "best_split": [3, 2], "split_score": 0.31988472619186037}
+{"sent": "skiier not looking down", "ann_id": 487553, "best_split": [3, 2], "split_score": 0.31988472619186037}
+{"sent": "person weatong glasses with skiis on", "ann_id": 487553, "best_split": [3, 1], "split_score": 0.17262830481156252}

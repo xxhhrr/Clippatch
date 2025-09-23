@@ -1,0 +1,5 @@
+{"sent": "laptop with the x", "ann_id": 1970986, "best_split": [3, 3], "split_score": 0.7955801103554482}
+{"sent": "laptop hes holding", "ann_id": 1970986, "best_split": [3, 2], "split_score": 0.5431684827513868}
+{"sent": "gray laptop", "ann_id": 1098853, "best_split": [2, 3], "split_score": 0.6996782265880492}
+{"sent": "silver laptop", "ann_id": 1098853, "best_split": [2, 3], "split_score": 0.6996782265880492}
+{"sent": "gray laptop", "ann_id": 1098853, "best_split": [2, 3], "split_score": 0.6996782265880492}

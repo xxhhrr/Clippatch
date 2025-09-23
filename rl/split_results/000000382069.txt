@@ -1,0 +1,5 @@
+{"sent": "guy on board", "ann_id": 218233, "best_split": [2, 3], "split_score": 0.3505672609116234}
+{"sent": "person on skateboardc", "ann_id": 218233, "best_split": [2, 2], "split_score": 0.3530362801297913}
+{"sent": "way up dude", "ann_id": 206634, "best_split": [3, 3], "split_score": 0.23875899277891646}
+{"sent": "biker", "ann_id": 206634, "best_split": [3, 2], "split_score": 0.391829341880476}
+{"sent": "person on a bike", "ann_id": 206634, "best_split": [3, 2], "split_score": 0.391829341880476}

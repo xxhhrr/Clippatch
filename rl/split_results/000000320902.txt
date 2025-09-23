@@ -1,0 +1,6 @@
+{"sent": "nearest dog", "ann_id": 17294, "best_split": [2, 2], "split_score": 0.4795918366964611}
+{"sent": "lighter dog", "ann_id": 17294, "best_split": [2, 2], "split_score": 0.4795918366964611}
+{"sent": "dog that is white and light brown", "ann_id": 17294, "best_split": [2, 2], "split_score": 0.4795918366964611}
+{"sent": "darker dog", "ann_id": 14032, "best_split": [2, 3], "split_score": 0.39101964448187326}
+{"sent": "darker brown dog", "ann_id": 14032, "best_split": [2, 3], "split_score": 0.39101964448187326}
+{"sent": "dark brown spotted dog", "ann_id": 14032, "best_split": [2, 3], "split_score": 0.39101964448187326}

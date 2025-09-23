@@ -1,0 +1,6 @@
+{"sent": "hotdog in front of can", "ann_id": 1069556, "best_split": [2, 2], "split_score": 0.5571827985250177}
+{"sent": "smaller dog", "ann_id": 1069556, "best_split": [2, 2], "split_score": 0.5571827985250177}
+{"sent": "dog 2", "ann_id": 1069556, "best_split": [2, 2], "split_score": 0.5571827985250177}
+{"sent": "closest hot dog", "ann_id": 1068918, "best_split": [2, 3], "split_score": 0.5195345510940951}
+{"sent": "hot dog nearest glass", "ann_id": 1068918, "best_split": [2, 3], "split_score": 0.5195345510940951}
+{"sent": "hotdog with more mustard", "ann_id": 1068918, "best_split": [2, 3], "split_score": 0.5195345510940951}

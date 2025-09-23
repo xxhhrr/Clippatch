@@ -1,0 +1,5 @@
+{"sent": "food item close to camera", "ann_id": 1923460, "best_split": [3, 2], "split_score": 0.6496210303511828}
+{"sent": "closest pizza to us", "ann_id": 1923460, "best_split": [3, 2], "split_score": 0.6496210303511828}
+{"sent": "pizza with green veggies", "ann_id": 1071343, "best_split": [5, 1], "split_score": 0.23477648713175145}
+{"sent": "pizza with green stuff", "ann_id": 1071343, "best_split": [2, 2], "split_score": 0.2337662337489842}
+{"sent": "pizza with more green", "ann_id": 1071343, "best_split": [2, 2], "split_score": 0.2337662337489842}

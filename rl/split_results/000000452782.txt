@@ -1,0 +1,6 @@
+{"sent": "suit man holding drink", "ann_id": 1224657, "best_split": [1, 5], "split_score": 0.8186166649939141}
+{"sent": "black suit", "ann_id": 1224657, "best_split": [1, 5], "split_score": 0.8186166649939141}
+{"sent": "suit", "ann_id": 1224657, "best_split": [1, 5], "split_score": 0.8186166649939141}
+{"sent": "man in blue", "ann_id": 1695531, "best_split": [1, 5], "split_score": 0.6423130193349799}
+{"sent": "blue shirt", "ann_id": 1695531, "best_split": [1, 5], "split_score": 0.6423130193349799}
+{"sent": "man next to cow", "ann_id": 1695531, "best_split": [2, 1], "split_score": 0.16217593693173266}

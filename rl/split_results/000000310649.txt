@@ -1,0 +1,6 @@
+{"sent": "clear glasses left", "ann_id": 517850, "best_split": [1, 3], "split_score": 0.28185328183627817}
+{"sent": "man with black with hands in his pockets", "ann_id": 517850, "best_split": [3, 3], "split_score": 0.30437017990946397}
+{"sent": "black coat behind gray coat", "ann_id": 517850, "best_split": [1, 5], "split_score": 0.4316121402806846}
+{"sent": "partial man walking towards us", "ann_id": 2204824, "best_split": [1, 3], "split_score": 0.22562741311380144}
+{"sent": "half man gray", "ann_id": 2204824, "best_split": [1, 5], "split_score": 0.3794642856757849}
+{"sent": "man cut off screen", "ann_id": 2204824, "best_split": [2, 3], "split_score": 0.17598748531716976}

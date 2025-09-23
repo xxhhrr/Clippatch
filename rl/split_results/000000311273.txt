@@ -1,0 +1,8 @@
+{"sent": "woman", "ann_id": 1727820, "best_split": [1, 2], "split_score": 0.8330676020076105}
+{"sent": "adult", "ann_id": 1727820, "best_split": [1, 2], "split_score": 0.8330676020076105}
+{"sent": "big lady", "ann_id": 1727820, "best_split": [2, 1], "split_score": 0.22936270315896698}
+{"sent": "black thing in back", "ann_id": 1225016, "best_split": [3, 3], "split_score": 0.6581446309974169}
+{"sent": "the black figure on the black chair", "ann_id": 1225016, "best_split": [3, 3], "split_score": 0.6581446309974169}
+{"sent": "little girl", "ann_id": 468446, "best_split": [1, 2], "split_score": 0.5422591589896588}
+{"sent": "the baby next to the cake", "ann_id": 468446, "best_split": [1, 2], "split_score": 0.5422591589896588}
+{"sent": "girl in pink", "ann_id": 468446, "best_split": [1, 2], "split_score": 0.5422591589896588}

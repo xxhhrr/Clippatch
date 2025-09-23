@@ -1,0 +1,25 @@
+{"sent": "green shirt", "ann_id": 1740631, "best_split": [2, 3], "split_score": 0.40453767118958284}
+{"sent": "green", "ann_id": 1740631, "best_split": [2, 3], "split_score": 0.40453767118958284}
+{"sent": "man in green sweater", "ann_id": 1740631, "best_split": [2, 3], "split_score": 0.40453767118958284}
+{"sent": "can barely see the person in red", "ann_id": 1704537, "best_split": [3, 3], "split_score": 0.40548288829860546}
+{"sent": "red jacket", "ann_id": 1704537, "best_split": [3, 3], "split_score": 0.40548288829860546}
+{"sent": "red on edge", "ann_id": 1704537, "best_split": [3, 3], "split_score": 0.40548288829860546}
+{"sent": "the girafee furthest from the camera", "ann_id": 598321, "best_split": [1, 3], "split_score": 0.32643660211092923}
+{"sent": "bit of giraffe seen through fence no head", "ann_id": 598321, "best_split": [1, 3], "split_score": 0.32643660211092923}
+{"sent": "giraffe behind kid in green", "ann_id": 598321, "best_split": [1, 3], "split_score": 0.32643660211092923}
+{"sent": "the head of giraffe near child with white coat", "ann_id": 598321, "best_split": [1, 3], "split_score": 0.32643660211092923}
+{"sent": "giraffe head above the hand of green shirt", "ann_id": 596250, "best_split": [2, 3], "split_score": 0.7418713872162327}
+{"sent": "giraffe eating out of kids hand", "ann_id": 596250, "best_split": [2, 3], "split_score": 0.7418713872162327}
+{"sent": "large giraffe head", "ann_id": 596250, "best_split": [2, 3], "split_score": 0.7418713872162327}
+{"sent": "kid in white jacket being held by man", "ann_id": 1758587, "best_split": [2, 3], "split_score": 0.32874946279235606}
+{"sent": "baby in coat", "ann_id": 1758587, "best_split": [2, 2], "split_score": 0.22559716896007098}
+{"sent": "baby in white coat", "ann_id": 1758587, "best_split": [3, 2], "split_score": 0.38966292130453223}
+{"sent": "brown parent holding child up", "ann_id": 1753799, "best_split": [2, 2], "split_score": 0.5730215269805621}
+{"sent": "person holding baby", "ann_id": 1753799, "best_split": [2, 2], "split_score": 0.5730215269805621}
+{"sent": "brown jacket holding kid", "ann_id": 1753799, "best_split": [2, 3], "split_score": 0.8335236354380539}
+{"sent": "boy with white collar looking up behind brown hair head with no face showing", "ann_id": 1750600, "best_split": [5, 1], "split_score": 0.2506069094070395}
+{"sent": "kid in lower", "ann_id": 1750600, "best_split": [5, 1], "split_score": 0.2506069094070395}
+{"sent": "kid with fur collar close to fense", "ann_id": 1750600, "best_split": [5, 1], "split_score": 0.2506069094070395}
+{"sent": "boy looking at camera", "ann_id": 487449, "best_split": [3, 2], "split_score": 0.2432432432138944}
+{"sent": "little boy looking at camera", "ann_id": 487449, "best_split": [3, 2], "split_score": 0.2432432432138944}
+{"sent": "boy looking at camera up close", "ann_id": 487449, "best_split": [3, 2], "split_score": 0.2432432432138944}

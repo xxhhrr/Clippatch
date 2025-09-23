@@ -1,0 +1,6 @@
+{"sent": "fedex", "ann_id": 1367512, "best_split": [3, 3], "split_score": 0.3902515722656837}
+{"sent": "fedex", "ann_id": 1367512, "best_split": [3, 3], "split_score": 0.3902515722656837}
+{"sent": "fedex", "ann_id": 1367512, "best_split": [3, 3], "split_score": 0.3902515722656837}
+{"sent": "not fedex", "ann_id": 400663, "best_split": [5, 1], "split_score": 0.42225571461804473}
+{"sent": "jack knifed truck with red", "ann_id": 400663, "best_split": [3, 1], "split_score": 0.39820986476870074}
+{"sent": "truck that went off road", "ann_id": 400663, "best_split": [3, 1], "split_score": 0.39820986476870074}

@@ -1,0 +1,6 @@
+{"sent": "whiteboard", "ann_id": 1647679, "best_split": [2, 3], "split_score": 0.7796182535344868}
+{"sent": "board on the wall", "ann_id": 1647679, "best_split": [2, 3], "split_score": 0.7796182535344868}
+{"sent": "square thing not fridge", "ann_id": 1647679, "best_split": [2, 2], "split_score": 0.531483697238148}
+{"sent": "fridge behind man", "ann_id": 331430, "best_split": [1, 5], "split_score": 0.42353690464768684}
+{"sent": "smallest refrigerator", "ann_id": 331430, "best_split": [1, 3], "split_score": 0.6189671814298403}
+{"sent": "smaller fridge", "ann_id": 331430, "best_split": [1, 3], "split_score": 0.6189671814298403}

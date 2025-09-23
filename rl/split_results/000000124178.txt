@@ -1,0 +1,8 @@
+{"sent": "man in red shirt", "ann_id": 252465, "best_split": [1, 5], "split_score": 0.6552723637525965}
+{"sent": "red shirt", "ann_id": 252465, "best_split": [1, 5], "split_score": 0.6552723637525965}
+{"sent": "green shirt", "ann_id": 195826, "best_split": [1, 2], "split_score": 0.7118941326246854}
+{"sent": "blue shirt on skateboard", "ann_id": 195826, "best_split": [1, 2], "split_score": 0.7118941326246854}
+{"sent": "guy on board", "ann_id": 195826, "best_split": [1, 2], "split_score": 0.7118941326246854}
+{"sent": "man in black in background", "ann_id": 190087, "best_split": [5, 1], "split_score": 0.1717040324300479}
+{"sent": "man in all black holding phone", "ann_id": 190087, "best_split": [2, 1], "split_score": 0.03454699407164955}
+{"sent": "man in all black at 1 o clock", "ann_id": 190087, "best_split": [5, 1], "split_score": 0.1717040324300479}

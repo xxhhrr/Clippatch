@@ -1,0 +1,14 @@
+{"sent": "man in brown shirt", "ann_id": 236374, "best_split": [2, 3], "split_score": 0.6433652410078716}
+{"sent": "man brown shirt", "ann_id": 236374, "best_split": [2, 3], "split_score": 0.6433652410078716}
+{"sent": "white shirt", "ann_id": 235579, "best_split": [3, 2], "split_score": 0.4243670200795967}
+{"sent": "light shirt next to women in purple", "ann_id": 235579, "best_split": [3, 2], "split_score": 0.4243670200795967}
+{"sent": "light gray shirted man", "ann_id": 235579, "best_split": [1, 3], "split_score": 0.20085087325342305}
+{"sent": "woman in purple shirt", "ann_id": 231002, "best_split": [2, 3], "split_score": 0.2981818181479339}
+{"sent": "standing woman in purple shirt", "ann_id": 231002, "best_split": [2, 3], "split_score": 0.2981818181479339}
+{"sent": "purple shirt woman", "ann_id": 231002, "best_split": [2, 3], "split_score": 0.2981818181479339}
+{"sent": "red hat", "ann_id": 2164802, "best_split": [2, 3], "split_score": 0.32332155473461555}
+{"sent": "woman in red hat", "ann_id": 2164802, "best_split": [2, 3], "split_score": 0.32332155473461555}
+{"sent": "red hat", "ann_id": 2164802, "best_split": [2, 3], "split_score": 0.32332155473461555}
+{"sent": "man with glasses", "ann_id": 2162423, "best_split": [2, 3], "split_score": 0.6982340719617179}
+{"sent": "guy in black tshirt closest to us", "ann_id": 2162423, "best_split": [1, 2], "split_score": 0.451610331614652}
+{"sent": "man at 5 o clock", "ann_id": 2162423, "best_split": [1, 2], "split_score": 0.451610331614652}

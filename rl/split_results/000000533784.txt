@@ -1,0 +1,7 @@
+{"sent": "board closest to us but covered by dark colored board", "ann_id": 1459111, "best_split": [5, 1], "split_score": 0.10655417544671868}
+{"sent": "the blue snowboard with a rectangle on its side", "ann_id": 1459054, "best_split": [5, 1], "split_score": 0.14366837023398152}
+{"sent": "furthest dark blue board", "ann_id": 1459054, "best_split": [5, 1], "split_score": 0.14366837023398152}
+{"sent": "count nine from lower", "ann_id": 1459054, "best_split": [1, 5], "split_score": 0.4722222221790732}
+{"sent": "board closest", "ann_id": 1458347, "best_split": [5, 1], "split_score": 0.09684762363959111}
+{"sent": "board closest to us", "ann_id": 1458347, "best_split": [5, 1], "split_score": 0.09684762363959111}
+{"sent": "number one board", "ann_id": 1458347, "best_split": [5, 1], "split_score": 0.09684762363959111}

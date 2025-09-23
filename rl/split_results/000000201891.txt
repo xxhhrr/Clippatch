@@ -1,0 +1,10 @@
+{"sent": "the guy in the blue shirt", "ann_id": 517329, "best_split": [1, 5], "split_score": 0.5698263385881126}
+{"sent": "guy in blue", "ann_id": 517329, "best_split": [1, 5], "split_score": 0.5698263385881126}
+{"sent": "man in blue shirt", "ann_id": 517329, "best_split": [1, 5], "split_score": 0.5698263385881126}
+{"sent": "black shirt and earbuds", "ann_id": 513327, "best_split": [1, 2], "split_score": 0.6180380330907121}
+{"sent": "nearly bald guy", "ann_id": 513327, "best_split": [1, 2], "split_score": 0.6180380330907121}
+{"sent": "guy with earbuds in", "ann_id": 513327, "best_split": [1, 2], "split_score": 0.6180380330907121}
+{"sent": "one near camera", "ann_id": 490748, "best_split": [2, 2], "split_score": 0.32442470140369756}
+{"sent": "guy in black shirt who has hair", "ann_id": 490748, "best_split": [2, 3], "split_score": 0.5177034534788426}
+{"sent": "man next to camera", "ann_id": 490748, "best_split": [2, 2], "split_score": 0.32442470140369756}
+{"sent": "long hair", "ann_id": 490748, "best_split": [2, 3], "split_score": 0.5177034534788426}

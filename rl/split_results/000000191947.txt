@@ -1,0 +1,6 @@
+{"sent": "white cow", "ann_id": 72633, "best_split": [1, 5], "split_score": 0.866276803034476}
+{"sent": "animal barely in the picture", "ann_id": 72633, "best_split": [1, 5], "split_score": 0.866276803034476}
+{"sent": "cow looking away", "ann_id": 72633, "best_split": [2, 1], "split_score": 0.14386478572851127}
+{"sent": "calf in profile", "ann_id": 71771, "best_split": [2, 1], "split_score": 0.3652075896964774}
+{"sent": "whole animal", "ann_id": 71771, "best_split": [1, 2], "split_score": 0.6380029302198241}
+{"sent": "most visible cow", "ann_id": 71771, "best_split": [1, 2], "split_score": 0.6380029302198241}

@@ -1,0 +1,9 @@
+{"sent": "giriffe looking at you", "ann_id": 601121, "best_split": [1, 5], "split_score": 0.45150162333081356}
+{"sent": "tallest zebra", "ann_id": 601121, "best_split": [1, 5], "split_score": 0.45150162333081356}
+{"sent": "giraffe looking at us", "ann_id": 601121, "best_split": [1, 5], "split_score": 0.45150162333081356}
+{"sent": "the giraffe who is looking at the other giraffes neck", "ann_id": 600898, "best_split": [3, 1], "split_score": 0.26380255940293407}
+{"sent": "giraffe that is kissing another giraffe neck", "ann_id": 600898, "best_split": [3, 1], "split_score": 0.26380255940293407}
+{"sent": "full giraffe sideways", "ann_id": 600898, "best_split": [3, 1], "split_score": 0.26380255940293407}
+{"sent": "the giraffe leaning the most", "ann_id": 599690, "best_split": [3, 2], "split_score": 0.4523939559027495}
+{"sent": "leading giraffe thats not facing us", "ann_id": 599690, "best_split": [3, 2], "split_score": 0.4523939559027495}
+{"sent": "shorter", "ann_id": 599690, "best_split": [3, 1], "split_score": 0.2578603299648303}

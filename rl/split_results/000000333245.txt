@@ -1,0 +1,5 @@
+{"sent": "elephant with bum cut off", "ann_id": 585259, "best_split": [2, 2], "split_score": 0.8120150742029103}
+{"sent": "elephant not on stairs", "ann_id": 585259, "best_split": [2, 2], "split_score": 0.8120150742029103}
+{"sent": "elephant not on step", "ann_id": 585259, "best_split": [2, 2], "split_score": 0.8120150742029103}
+{"sent": "elephant on step", "ann_id": 583247, "best_split": [2, 1], "split_score": 0.2982658959429817}
+{"sent": "elephant closest to us", "ann_id": 583247, "best_split": [2, 1], "split_score": 0.2982658959429817}

@@ -1,0 +1,8 @@
+{"sent": "woman with glasses", "ann_id": 213282, "best_split": [1, 5], "split_score": 0.5614522786149901}
+{"sent": "woman", "ann_id": 213282, "best_split": [1, 5], "split_score": 0.5614522786149901}
+{"sent": "guy in black shirt", "ann_id": 206682, "best_split": [3, 2], "split_score": 0.5576282477883387}
+{"sent": "guy closest to us", "ann_id": 206682, "best_split": [3, 2], "split_score": 0.5576282477883387}
+{"sent": "black shirt", "ann_id": 206682, "best_split": [3, 2], "split_score": 0.5576282477883387}
+{"sent": "beard and glasses", "ann_id": 187379, "best_split": [2, 3], "split_score": 0.5505210692625145}
+{"sent": "curly hair man with glasses", "ann_id": 187379, "best_split": [2, 3], "split_score": 0.5505210692625145}
+{"sent": "guy with glasses", "ann_id": 187379, "best_split": [2, 3], "split_score": 0.5505210692625145}

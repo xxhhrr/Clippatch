@@ -1,0 +1,6 @@
+{"sent": "smaller pizza", "ann_id": 1073037, "best_split": [1, 3], "split_score": 0.2132564841388814}
+{"sent": "pizza that is farthest from us", "ann_id": 1073037, "best_split": [1, 3], "split_score": 0.2132564841388814}
+{"sent": "high pizza", "ann_id": 1073037, "best_split": [1, 3], "split_score": 0.2132564841388814}
+{"sent": "the pizza with sausage", "ann_id": 1070708, "best_split": [2, 1], "split_score": 0.6891950746054878}
+{"sent": "big pizza", "ann_id": 1070708, "best_split": [2, 1], "split_score": 0.6891950746054878}
+{"sent": "big one", "ann_id": 1070708, "best_split": [2, 1], "split_score": 0.6891950746054878}

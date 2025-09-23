@@ -1,0 +1,6 @@
+{"sent": "cat in mirror", "ann_id": 52189, "best_split": [3, 2], "split_score": 0.32986627039589617}
+{"sent": "cats reflection", "ann_id": 52189, "best_split": [3, 2], "split_score": 0.32986627039589617}
+{"sent": "refection in mirror of paws", "ann_id": 52189, "best_split": [3, 2], "split_score": 0.32986627039589617}
+{"sent": "cat looking at you", "ann_id": 51748, "best_split": [2, 3], "split_score": 0.6423443693729407}
+{"sent": "real cat", "ann_id": 51748, "best_split": [2, 3], "split_score": 0.6423443693729407}
+{"sent": "cat", "ann_id": 51748, "best_split": [2, 3], "split_score": 0.6423443693729407}

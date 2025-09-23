@@ -1,0 +1,6 @@
+{"sent": "number 225 player", "ann_id": 476344, "best_split": [5, 1], "split_score": 0.12172563624322001}
+{"sent": "player in white", "ann_id": 476344, "best_split": [1, 5], "split_score": 0.42898940373011313}
+{"sent": "25", "ann_id": 476344, "best_split": [3, 3], "split_score": 0.350330407303449}
+{"sent": "baseman", "ann_id": 459375, "best_split": [1, 2], "split_score": 0.497243660399384}
+{"sent": "14", "ann_id": 459375, "best_split": [1, 2], "split_score": 0.497243660399384}
+{"sent": "number 14", "ann_id": 459375, "best_split": [1, 2], "split_score": 0.497243660399384}

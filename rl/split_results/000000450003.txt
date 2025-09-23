@@ -1,0 +1,6 @@
+{"sent": "the little one in red", "ann_id": 531867, "best_split": [2, 2], "split_score": 0.3584499461511264}
+{"sent": "little guy", "ann_id": 531867, "best_split": [2, 2], "split_score": 0.3584499461511264}
+{"sent": "the child", "ann_id": 531867, "best_split": [2, 2], "split_score": 0.3584499461511264}
+{"sent": "adult", "ann_id": 466359, "best_split": [1, 5], "split_score": 0.5464129425443301}
+{"sent": "tall", "ann_id": 466359, "best_split": [1, 5], "split_score": 0.2887771453672555}
+{"sent": "mom or dad", "ann_id": 466359, "best_split": [1, 5], "split_score": 0.5464129425443301}

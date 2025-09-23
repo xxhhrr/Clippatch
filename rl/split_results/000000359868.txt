@@ -1,0 +1,6 @@
+{"sent": "bottle of ketchup", "ann_id": 88419, "best_split": [3, 3], "split_score": 0.43266205153671145}
+{"sent": "ketchup", "ann_id": 88419, "best_split": [3, 3], "split_score": 0.43266205153671145}
+{"sent": "ketchup bottle", "ann_id": 88419, "best_split": [3, 3], "split_score": 0.43266205153671145}
+{"sent": "yellow mustard bottle", "ann_id": 86616, "best_split": [3, 3], "split_score": 0.7003287069575732}
+{"sent": "mustard bottle", "ann_id": 86616, "best_split": [3, 3], "split_score": 0.7003287069575732}
+{"sent": "mustard", "ann_id": 86616, "best_split": [3, 3], "split_score": 0.7003287069575732}

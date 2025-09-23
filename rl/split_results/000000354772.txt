@@ -1,0 +1,9 @@
+{"sent": "man with striped shirt watching", "ann_id": 1229403, "best_split": [3, 3], "split_score": 0.3401030614822517}
+{"sent": "plaid shirt", "ann_id": 1229403, "best_split": [3, 3], "split_score": 0.3401030614822517}
+{"sent": "guy in plaid", "ann_id": 1229403, "best_split": [3, 3], "split_score": 0.3401030614822517}
+{"sent": "the woman in uniform laughing at the boy", "ann_id": 1222811, "best_split": [1, 2], "split_score": 0.35407366070017243}
+{"sent": "black woman", "ann_id": 1222811, "best_split": [1, 5], "split_score": 0.49888017913142857}
+{"sent": "black oerson near firefighter", "ann_id": 1222811, "best_split": [1, 2], "split_score": 0.35407366070017243}
+{"sent": "firefighter", "ann_id": 1718732, "best_split": [1, 3], "split_score": 0.663082437243869}
+{"sent": "kid in fireman suit", "ann_id": 1718732, "best_split": [1, 3], "split_score": 0.663082437243869}
+{"sent": "kid in firemans jacket", "ann_id": 1718732, "best_split": [1, 3], "split_score": 0.663082437243869}

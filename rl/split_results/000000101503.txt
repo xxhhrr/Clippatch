@@ -1,0 +1,6 @@
+{"sent": "blurry standing man", "ann_id": 1727701, "best_split": [2, 3], "split_score": 0.26470256233607603}
+{"sent": "person way in background with tan pants arms folded", "ann_id": 1727701, "best_split": [2, 3], "split_score": 0.26470256233607603}
+{"sent": "background person", "ann_id": 1727701, "best_split": [3, 1], "split_score": 0.10174089983598571}
+{"sent": "in black", "ann_id": 502341, "best_split": [2, 1], "split_score": 0.524126455891249}
+{"sent": "the player", "ann_id": 502341, "best_split": [2, 1], "split_score": 0.524126455891249}
+{"sent": "woman in black", "ann_id": 502341, "best_split": [2, 1], "split_score": 0.524126455891249}

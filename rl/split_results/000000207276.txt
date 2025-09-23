@@ -1,0 +1,9 @@
+{"sent": "bag touchinig red one", "ann_id": 2081694, "best_split": [2, 3], "split_score": 0.34169884165761355}
+{"sent": "black bag on cart by red bag", "ann_id": 2081694, "best_split": [2, 2], "split_score": 0.2257653061044511}
+{"sent": "black duffle by red", "ann_id": 2081694, "best_split": [2, 3], "split_score": 0.34169884165761355}
+{"sent": "black bag under bos", "ann_id": 2081347, "best_split": [5, 1], "split_score": 0.1350180505293305}
+{"sent": "black below cardboard box", "ann_id": 2081347, "best_split": [2, 3], "split_score": 0.32818532814573054}
+{"sent": "the most visible bag below the box", "ann_id": 2081347, "best_split": [1, 5], "split_score": 0.1541850220122811}
+{"sent": "black suitcase on ground with person behind it", "ann_id": 1186058, "best_split": [3, 3], "split_score": 0.4824084148562915}
+{"sent": "bag low on screen under red logo", "ann_id": 1186058, "best_split": [3, 3], "split_score": 0.4824084148562915}
+{"sent": "black bag touching floor that is not on a cart", "ann_id": 1186058, "best_split": [3, 3], "split_score": 0.4824084148562915}

@@ -1,0 +1,7 @@
+{"sent": "the cow looking at the camera", "ann_id": 2177328, "best_split": [2, 2], "split_score": 0.27341422652957825}
+{"sent": "nearest moo", "ann_id": 2177328, "best_split": [2, 2], "split_score": 0.27341422652957825}
+{"sent": "cow closest to us", "ann_id": 2177328, "best_split": [2, 1], "split_score": 0.1985809948900438}
+{"sent": "cow with nose nearest score", "ann_id": 75330, "best_split": [2, 2], "split_score": 0.37093431119491915}
+{"sent": "that cow", "ann_id": 71286, "best_split": [3, 3], "split_score": 0.5235573410292992}
+{"sent": "cow closest to tree with full side showing", "ann_id": 71286, "best_split": [3, 3], "split_score": 0.5235573410292992}
+{"sent": "black spot on head facing other direction", "ann_id": 71286, "best_split": [3, 2], "split_score": 0.345921814630077}

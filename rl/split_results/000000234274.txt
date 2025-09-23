@@ -1,0 +1,5 @@
+{"sent": "broccoli facing 300", "ann_id": 1060687, "best_split": [2, 2], "split_score": 0.3226243622191785}
+{"sent": "the broclie close to the meat that looks like it has been cut in half", "ann_id": 1060687, "best_split": [2, 2], "split_score": 0.3226243622191785}
+{"sent": "closest broccoli", "ann_id": 1059554, "best_split": [2, 3], "split_score": 0.5661196910513852}
+{"sent": "broccoli closest to us", "ann_id": 1059554, "best_split": [2, 3], "split_score": 0.5661196910513852}
+{"sent": "broccoli farthest from the meat", "ann_id": 1059554, "best_split": [1, 5], "split_score": 0.38552380948709297}

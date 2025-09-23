@@ -1,0 +1,6 @@
+{"sent": "animal walking", "ann_id": 2210387, "best_split": [3, 3], "split_score": 0.39922779917641854}
+{"sent": "walking animal", "ann_id": 2210387, "best_split": [3, 3], "split_score": 0.39922779917641854}
+{"sent": "sideways bear", "ann_id": 2210387, "best_split": [3, 3], "split_score": 0.39922779917641854}
+{"sent": "bear with head down", "ann_id": 1411626, "best_split": [3, 2], "split_score": 0.28621089220322005}
+{"sent": "animal on west side", "ann_id": 1411626, "best_split": [3, 2], "split_score": 0.28621089220322005}
+{"sent": "face down", "ann_id": 1411626, "best_split": [3, 2], "split_score": 0.28621089220322005}

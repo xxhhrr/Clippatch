@@ -1,0 +1,7 @@
+{"sent": "van with blurred lights", "ann_id": 1342579, "best_split": [3, 3], "split_score": 0.4141448486205126}
+{"sent": "van driving away", "ann_id": 1342579, "best_split": [3, 3], "split_score": 0.4141448486205126}
+{"sent": "blurry car", "ann_id": 1342579, "best_split": [1, 5], "split_score": 0.20451527222495586}
+{"sent": "black van driving by", "ann_id": 1342579, "best_split": [3, 3], "split_score": 0.4141448486205126}
+{"sent": "wheel of suv", "ann_id": 351449, "best_split": [3, 3], "split_score": 0.34769928704671105}
+{"sent": "car almost not visible", "ann_id": 351449, "best_split": [3, 3], "split_score": 0.34769928704671105}
+{"sent": "tire", "ann_id": 351449, "best_split": [3, 3], "split_score": 0.34769928704671105}

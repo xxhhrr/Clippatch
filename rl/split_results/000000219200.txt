@@ -1,0 +1,9 @@
+{"sent": "black pants half", "ann_id": 1271925, "best_split": [2, 3], "split_score": 0.771094402581323}
+{"sent": "black pants standing", "ann_id": 1271925, "best_split": [2, 3], "split_score": 0.771094402581323}
+{"sent": "legs in black pants not the cop", "ann_id": 1271925, "best_split": [3, 1], "split_score": 0.29932584267981316}
+{"sent": "cop", "ann_id": 193671, "best_split": [1, 2], "split_score": 0.5054066760547307}
+{"sent": "cop look like he is falling", "ann_id": 193671, "best_split": [1, 2], "split_score": 0.5054066760547307}
+{"sent": "man on topf the other", "ann_id": 193671, "best_split": [1, 3], "split_score": 0.4243798346084162}
+{"sent": "man on ground", "ann_id": 191299, "best_split": [3, 1], "split_score": 0.6992901508119215}
+{"sent": "held down", "ann_id": 191299, "best_split": [3, 1], "split_score": 0.6992901508119215}
+{"sent": "man on ground", "ann_id": 191299, "best_split": [3, 1], "split_score": 0.6992901508119215}

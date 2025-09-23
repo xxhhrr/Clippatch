@@ -1,0 +1,6 @@
+{"sent": "all red trolley", "ann_id": 168283, "best_split": [3, 3], "split_score": 0.5222710162292549}
+{"sent": "red 19", "ann_id": 168283, "best_split": [3, 3], "split_score": 0.5222710162292549}
+{"sent": "partial bus", "ann_id": 168283, "best_split": [3, 3], "split_score": 0.5222710162292549}
+{"sent": "close bus", "ann_id": 165006, "best_split": [1, 3], "split_score": 0.43981699232736915}
+{"sent": "lead bus", "ann_id": 165006, "best_split": [1, 3], "split_score": 0.43981699232736915}
+{"sent": "closest bus", "ann_id": 165006, "best_split": [1, 3], "split_score": 0.43981699232736915}

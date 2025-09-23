@@ -1,0 +1,10 @@
+{"sent": "girl", "ann_id": 2164563, "best_split": [3, 2], "split_score": 0.23790569502159326}
+{"sent": "girl", "ann_id": 2164563, "best_split": [3, 2], "split_score": 0.23790569502159326}
+{"sent": "empty seat", "ann_id": 1935541, "best_split": [2, 2], "split_score": 0.45758564434528165}
+{"sent": "empty seat by window", "ann_id": 1935541, "best_split": [1, 3], "split_score": 0.7026139959733552}
+{"sent": "seat next to box", "ann_id": 1935541, "best_split": [1, 3], "split_score": 0.7026139959733552}
+{"sent": "mans seat", "ann_id": 1931029, "best_split": [1, 5], "split_score": 0.4773251344660525}
+{"sent": "blue seat", "ann_id": 1931029, "best_split": [1, 5], "split_score": 0.4773251344660525}
+{"sent": "man", "ann_id": 193712, "best_split": [1, 2], "split_score": 0.6535397607134823}
+{"sent": "man", "ann_id": 193712, "best_split": [1, 2], "split_score": 0.6535397607134823}
+{"sent": "man", "ann_id": 193712, "best_split": [1, 2], "split_score": 0.6535397607134823}

@@ -1,0 +1,12 @@
+{"sent": "rose", "ann_id": 1955104, "best_split": [1, 2], "split_score": 0.8260427263179028}
+{"sent": "rose", "ann_id": 1955104, "best_split": [1, 2], "split_score": 0.8260427263179028}
+{"sent": "red rose", "ann_id": 1955104, "best_split": [1, 2], "split_score": 0.8260427263179028}
+{"sent": "purple", "ann_id": 1953756, "best_split": [1, 2], "split_score": 0.6018964479002898}
+{"sent": "blue flowers", "ann_id": 1953756, "best_split": [1, 2], "split_score": 0.6018964479002898}
+{"sent": "purple blue flowers", "ann_id": 1953756, "best_split": [1, 2], "split_score": 0.6018964479002898}
+{"sent": "vase that holds blue flowers", "ann_id": 1151846, "best_split": [2, 2], "split_score": 0.43397260270575555}
+{"sent": "shorter vase", "ann_id": 1151846, "best_split": [3, 2], "split_score": 0.5967980015218806}
+{"sent": "clear part of vase with blue flowers", "ann_id": 1151846, "best_split": [2, 2], "split_score": 0.43397260270575555}
+{"sent": "vase holding rose", "ann_id": 1151450, "best_split": [1, 5], "split_score": 0.3412784398363756}
+{"sent": "vase holding rose", "ann_id": 1151450, "best_split": [1, 5], "split_score": 0.3412784398363756}
+{"sent": "vase holding red rose", "ann_id": 1151450, "best_split": [1, 5], "split_score": 0.3412784398363756}

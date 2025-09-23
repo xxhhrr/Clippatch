@@ -1,0 +1,6 @@
+{"sent": "shes not eating", "ann_id": 2165666, "best_split": [3, 1], "split_score": 0.24556944149383714}
+{"sent": "curly hair", "ann_id": 2165666, "best_split": [1, 2], "split_score": 0.7456154336437494}
+{"sent": "curly hair", "ann_id": 2165666, "best_split": [1, 2], "split_score": 0.7456154336437494}
+{"sent": "the one eating", "ann_id": 491059, "best_split": [1, 2], "split_score": 0.7615991708880102}
+{"sent": "woman wiping mouth", "ann_id": 491059, "best_split": [1, 2], "split_score": 0.7615991708880102}
+{"sent": "woman with necklace", "ann_id": 491059, "best_split": [1, 3], "split_score": 0.667351992866345}

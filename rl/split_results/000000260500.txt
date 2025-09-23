@@ -1,0 +1,6 @@
+{"sent": "green shirt sitting down", "ann_id": 522169, "best_split": [3, 3], "split_score": 0.3463984871331617}
+{"sent": "guy in green", "ann_id": 522169, "best_split": [3, 3], "split_score": 0.3463984871331617}
+{"sent": "player in green on bench", "ann_id": 522169, "best_split": [3, 3], "split_score": 0.3463984871331617}
+{"sent": "boy", "ann_id": 450094, "best_split": [1, 2], "split_score": 0.5477067976907772}
+{"sent": "batter", "ann_id": 450094, "best_split": [1, 2], "split_score": 0.5477067976907772}
+{"sent": "boy hitting ball", "ann_id": 450094, "best_split": [1, 2], "split_score": 0.5477067976907772}

@@ -1,0 +1,8 @@
+{"sent": "orange dump truck thingy", "ann_id": 401649, "best_split": [3, 3], "split_score": 0.385138416644789}
+{"sent": "orange truck at edge", "ann_id": 401649, "best_split": [3, 2], "split_score": 0.27329749100881523}
+{"sent": "white truck", "ann_id": 399852, "best_split": [1, 2], "split_score": 0.4511950765546302}
+{"sent": "white truck", "ann_id": 399852, "best_split": [1, 2], "split_score": 0.4511950765546302}
+{"sent": "white truck", "ann_id": 399852, "best_split": [1, 2], "split_score": 0.4511950765546302}
+{"sent": "the gray semi", "ann_id": 1369146, "best_split": [3, 3], "split_score": 0.2685650474220317}
+{"sent": "gray truck", "ann_id": 1369146, "best_split": [3, 3], "split_score": 0.2685650474220317}
+{"sent": "lesser seen truck", "ann_id": 1369146, "best_split": [3, 3], "split_score": 0.2685650474220317}

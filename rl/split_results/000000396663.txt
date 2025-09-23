@@ -1,0 +1,9 @@
+{"sent": "red bus with very little showing", "ann_id": 168994, "best_split": [1, 5], "split_score": 0.4489086343008587}
+{"sent": "red bus cutoff", "ann_id": 168994, "best_split": [1, 5], "split_score": 0.4489086343008587}
+{"sent": "red bus cut off on side", "ann_id": 168994, "best_split": [1, 5], "split_score": 0.4489086343008587}
+{"sent": "yellow", "ann_id": 168783, "best_split": [1, 5], "split_score": 0.5571565801626795}
+{"sent": "yellow bus", "ann_id": 168783, "best_split": [1, 5], "split_score": 0.5571565801626795}
+{"sent": "yellow bus", "ann_id": 168783, "best_split": [1, 5], "split_score": 0.5571565801626795}
+{"sent": "whole bus", "ann_id": 163989, "best_split": [1, 2], "split_score": 0.3959142039385738}
+{"sent": "red bus you can see it all", "ann_id": 163989, "best_split": [1, 2], "split_score": 0.3959142039385738}
+{"sent": "1235", "ann_id": 163989, "best_split": [1, 3], "split_score": 0.3987506864223383}

@@ -1,0 +1,6 @@
+{"sent": "partial cat", "ann_id": 1816273, "best_split": [3, 2], "split_score": 0.4301470587741099}
+{"sent": "brown cat", "ann_id": 1816273, "best_split": [3, 2], "split_score": 0.4301470587741099}
+{"sent": "cat cut off", "ann_id": 1816273, "best_split": [3, 2], "split_score": 0.4301470587741099}
+{"sent": "black cat", "ann_id": 49991, "best_split": [1, 2], "split_score": 0.5812201455268419}
+{"sent": "cate", "ann_id": 49991, "best_split": [1, 2], "split_score": 0.5812201455268419}
+{"sent": "black cat", "ann_id": 49991, "best_split": [1, 2], "split_score": 0.5812201455268419}

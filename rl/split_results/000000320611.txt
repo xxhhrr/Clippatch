@@ -1,0 +1,6 @@
+{"sent": "couch facing windows", "ann_id": 1951655, "best_split": [1, 3], "split_score": 0.2166385135004441}
+{"sent": "the chair next to the glass coffee table that is most visible", "ann_id": 1951655, "best_split": [3, 2], "split_score": 0.4332770269747494}
+{"sent": "smaller couch closest to us", "ann_id": 1951655, "best_split": [3, 1], "split_score": 0.2166385135004441}
+{"sent": "long couch by window", "ann_id": 113723, "best_split": [3, 2], "split_score": 0.6265697289461809}
+{"sent": "white couch", "ann_id": 113723, "best_split": [3, 2], "split_score": 0.6265697289461809}
+{"sent": "couch by window", "ann_id": 113723, "best_split": [3, 2], "split_score": 0.6265697289461809}

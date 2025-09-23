@@ -1,0 +1,15 @@
+{"sent": "man with belt", "ann_id": 1723169, "best_split": [1, 2], "split_score": 0.3479751275371502}
+{"sent": "bald man", "ann_id": 1723169, "best_split": [1, 2], "split_score": 0.3479751275371502}
+{"sent": "red shirt black jacket man", "ann_id": 1723169, "best_split": [1, 2], "split_score": 0.3479751275371502}
+{"sent": "purple", "ann_id": 529993, "best_split": [1, 5], "split_score": 0.6092331465511654}
+{"sent": "woman in purple", "ann_id": 529993, "best_split": [1, 5], "split_score": 0.6092331465511654}
+{"sent": "woman in blue purplish suit", "ann_id": 529993, "best_split": [1, 5], "split_score": 0.6092331465511654}
+{"sent": "black suit red stripe tie white shirt", "ann_id": 526898, "best_split": [1, 3], "split_score": 0.4213851471914778}
+{"sent": "red tie", "ann_id": 526898, "best_split": [1, 3], "split_score": 0.4213851471914778}
+{"sent": "red tie whit t shirt", "ann_id": 526898, "best_split": [1, 2], "split_score": 0.2898596938659973}
+{"sent": "black turban", "ann_id": 518166, "best_split": [1, 3], "split_score": 0.703385789180771}
+{"sent": "beard man", "ann_id": 518166, "best_split": [1, 3], "split_score": 0.703385789180771}
+{"sent": "man hat", "ann_id": 518166, "best_split": [1, 3], "split_score": 0.703385789180771}
+{"sent": "lady with a group of people", "ann_id": 443010, "best_split": [1, 3], "split_score": 0.47068050190210664}
+{"sent": "woman with red", "ann_id": 443010, "best_split": [1, 5], "split_score": 0.6026502086946224}
+{"sent": "women in black and red", "ann_id": 443010, "best_split": [1, 5], "split_score": 0.6026502086946224}

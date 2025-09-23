@@ -1,0 +1,6 @@
+{"sent": "olive", "ann_id": 310467, "best_split": [1, 2], "split_score": 0.5591517856919981}
+{"sent": "it has an olive", "ann_id": 310467, "best_split": [1, 2], "split_score": 0.5591517856919981}
+{"sent": "sandwich with the olive", "ann_id": 310467, "best_split": [1, 2], "split_score": 0.5591517856919981}
+{"sent": "tomatoes no olive", "ann_id": 309991, "best_split": [3, 1], "split_score": 0.3169379198270169}
+{"sent": "sandwich on its side facing this way", "ann_id": 309991, "best_split": [1, 2], "split_score": 0.4136935991450422}
+{"sent": "largest slice", "ann_id": 309991, "best_split": [3, 2], "split_score": 0.41553345508317885}

@@ -1,0 +1,8 @@
+{"sent": "blue jacket single red stripe", "ann_id": 1705744, "best_split": [3, 1], "split_score": 0.20032323231513846}
+{"sent": "guy with red v on jacket", "ann_id": 1705744, "best_split": [1, 3], "split_score": 0.3464467004919123}
+{"sent": "gray", "ann_id": 533872, "best_split": [3, 1], "split_score": 0.16693522396911123}
+{"sent": "guy in gray", "ann_id": 533872, "best_split": [1, 5], "split_score": 0.44406543139436655}
+{"sent": "gray jacket", "ann_id": 533872, "best_split": [1, 5], "split_score": 0.44406543139436655}
+{"sent": "white", "ann_id": 509931, "best_split": [1, 3], "split_score": 0.5994513031207447}
+{"sent": "white jacket and shorts", "ann_id": 509931, "best_split": [1, 3], "split_score": 0.5994513031207447}
+{"sent": "guy in all white", "ann_id": 509931, "best_split": [1, 3], "split_score": 0.5994513031207447}

@@ -1,0 +1,14 @@
+{"sent": "white smaller drawer under table", "ann_id": 1647471, "best_split": [3, 3], "split_score": 0.515091270465373}
+{"sent": "white fridge with horizontal handle below table", "ann_id": 1647471, "best_split": [3, 3], "split_score": 0.515091270465373}
+{"sent": "whitest refrigerator", "ann_id": 1647323, "best_split": [5, 1], "split_score": 0.23910669972812837}
+{"sent": "white object under table", "ann_id": 1647323, "best_split": [3, 2], "split_score": 0.3055854562485844}
+{"sent": "rite side white cabinet door", "ann_id": 1647323, "best_split": [3, 2], "split_score": 0.3055854562485844}
+{"sent": "small black microwave", "ann_id": 1121060, "best_split": [1, 5], "split_score": 0.1882012305294787}
+{"sent": "completely black microwave", "ann_id": 1121060, "best_split": [1, 5], "split_score": 0.1882012305294787}
+{"sent": "black microwave", "ann_id": 1121060, "best_split": [5, 1], "split_score": 0.26756756754174055}
+{"sent": "convention oven", "ann_id": 1119592, "best_split": [2, 2], "split_score": 0.4725115740398935}
+{"sent": "largeset oven", "ann_id": 1119592, "best_split": [2, 2], "split_score": 0.4725115740398935}
+{"sent": "large microwave", "ann_id": 1119592, "best_split": [2, 2], "split_score": 0.4725115740398935}
+{"sent": "white microwave", "ann_id": 1118973, "best_split": [3, 2], "split_score": 0.4548736461580693}
+{"sent": "white one oven", "ann_id": 1118973, "best_split": [3, 2], "split_score": 0.4548736461580693}
+{"sent": "white microwave", "ann_id": 1118973, "best_split": [3, 2], "split_score": 0.4548736461580693}

@@ -1,0 +1,6 @@
+{"sent": "giraffe furthest away", "ann_id": 601008, "best_split": [1, 5], "split_score": 0.8106116432562075}
+{"sent": "other giraffe", "ann_id": 601008, "best_split": [1, 5], "split_score": 0.8106116432562075}
+{"sent": "giraffe behind", "ann_id": 601008, "best_split": [1, 5], "split_score": 0.8106116432562075}
+{"sent": "closest giraffe", "ann_id": 595886, "best_split": [1, 2], "split_score": 0.48107313486328346}
+{"sent": "giraffe being fed", "ann_id": 595886, "best_split": [1, 2], "split_score": 0.48107313486328346}
+{"sent": "giraffe eating", "ann_id": 595886, "best_split": [1, 2], "split_score": 0.48107313486328346}

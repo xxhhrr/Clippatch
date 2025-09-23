@@ -1,0 +1,18 @@
+{"sent": "blue shirt black cap", "ann_id": 1293817, "best_split": [1, 5], "split_score": 0.6504672896643613}
+{"sent": "man in blue shirt black cap near old man", "ann_id": 1293817, "best_split": [3, 1], "split_score": 0.18436310925057242}
+{"sent": "man wearing baseball cap and blue collared shirt", "ann_id": 1293817, "best_split": [1, 5], "split_score": 0.6504672896643613}
+{"sent": "woman in white shirt", "ann_id": 1269848, "best_split": [2, 3], "split_score": 0.33587228711019695}
+{"sent": "girl with white shirt green logo", "ann_id": 1269848, "best_split": [2, 3], "split_score": 0.33587228711019695}
+{"sent": "lady in white shirt by guy in uniform", "ann_id": 1269848, "best_split": [2, 3], "split_score": 0.33587228711019695}
+{"sent": "arm at edge of picture", "ann_id": 1250175, "best_split": [3, 3], "split_score": 0.46603372066360554}
+{"sent": "almost naked arm", "ann_id": 1250175, "best_split": [3, 3], "split_score": 0.46603372066360554}
+{"sent": "random pasty shoulder", "ann_id": 1250175, "best_split": [2, 3], "split_score": 0.4051343283098347}
+{"sent": "policeman standing next to the people", "ann_id": 1247365, "best_split": [1, 5], "split_score": 0.4225352112289615}
+{"sent": "policeman", "ann_id": 1247365, "best_split": [1, 5], "split_score": 0.4225352112289615}
+{"sent": "policeman", "ann_id": 1247365, "best_split": [1, 5], "split_score": 0.4225352112289615}
+{"sent": "tourist talking on cell phone", "ann_id": 1217130, "best_split": [1, 5], "split_score": 0.6624680180414811}
+{"sent": "man on phone", "ann_id": 1217130, "best_split": [1, 5], "split_score": 0.6624680180414811}
+{"sent": "guy with camera around neck and on phone", "ann_id": 1217130, "best_split": [2, 3], "split_score": 0.44122625536569243}
+{"sent": "old man in tie", "ann_id": 1742185, "best_split": [1, 5], "split_score": 0.5176470587839842}
+{"sent": "orange tie", "ann_id": 1742185, "best_split": [1, 5], "split_score": 0.5176470587839842}
+{"sent": "orange tie", "ann_id": 1742185, "best_split": [1, 5], "split_score": 0.5176470587839842}

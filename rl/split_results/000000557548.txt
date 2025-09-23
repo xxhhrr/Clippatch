@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 1285016, "best_split": [2, 2], "split_score": 0.7991086732396908}
+{"sent": "man taking picture", "ann_id": 1285016, "best_split": [2, 2], "split_score": 0.7991086732396908}
+{"sent": "man taking picture on phone", "ann_id": 1285016, "best_split": [2, 2], "split_score": 0.7991086732396908}
+{"sent": "striped shirt", "ann_id": 1270626, "best_split": [3, 3], "split_score": 0.6404678361824014}
+{"sent": "stripe shirt", "ann_id": 1270626, "best_split": [3, 1], "split_score": 0.28351042090909734}
+{"sent": "boy in striped shirt", "ann_id": 1270626, "best_split": [3, 1], "split_score": 0.28351042090909734}

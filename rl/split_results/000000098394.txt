@@ -1,0 +1,5 @@
+{"sent": "closest elephant", "ann_id": 1410509, "best_split": [1, 5], "split_score": 0.2894736841816713}
+{"sent": "little elephant closest to us", "ann_id": 1410509, "best_split": [1, 5], "split_score": 0.2894736841816713}
+{"sent": "the big one by side of pic", "ann_id": 1409904, "best_split": [3, 3], "split_score": 0.5362237761487799}
+{"sent": "big elephant big ears", "ann_id": 1409904, "best_split": [3, 3], "split_score": 0.5362237761487799}
+{"sent": "biggest elephant fully shown", "ann_id": 1409904, "best_split": [3, 3], "split_score": 0.5362237761487799}

@@ -1,0 +1,17 @@
+{"sent": "man with hat and black socks", "ann_id": 1277901, "best_split": [2, 2], "split_score": 0.20467836255885002}
+{"sent": "person with a white and red hat not santa hat", "ann_id": 1277901, "best_split": [1, 2], "split_score": 0.18973214284958018}
+{"sent": "big guy standing at end", "ann_id": 1277901, "best_split": [3, 2], "split_score": 0.2476572958263858}
+{"sent": "kneeling guy with blue sleeves", "ann_id": 1249903, "best_split": [5, 1], "split_score": 0.13733760754704424}
+{"sent": "kneeling with black pants and white sneakers", "ann_id": 1249903, "best_split": [1, 5], "split_score": 0.3678977272354}
+{"sent": "green shirt black pants white shoes", "ann_id": 1249903, "best_split": [5, 1], "split_score": 0.13733760754704424}
+{"sent": "green hat with white dot", "ann_id": 1209860, "best_split": [3, 3], "split_score": 0.2017937219448159}
+{"sent": "girl kneeling next to rainbow pants", "ann_id": 1209860, "best_split": [2, 3], "split_score": 0.3017832647117303}
+{"sent": "kneeling gren cowboy hat", "ann_id": 1209860, "best_split": [3, 3], "split_score": 0.2017937219448159}
+{"sent": "man on knee with arm on another guys shoulder", "ann_id": 1312604, "best_split": [2, 2], "split_score": 0.5261047104764398}
+{"sent": "kneeling guy black hat score side", "ann_id": 1312604, "best_split": [2, 2], "split_score": 0.5261047104764398}
+{"sent": "leaning on other player", "ann_id": 1310345, "best_split": [2, 2], "split_score": 0.3524862732694698}
+{"sent": "guy kneeling who is leaning on the guy with the straw hat", "ann_id": 1310345, "best_split": [2, 3], "split_score": 0.2504015874279125}
+{"sent": "hes leaning on anothers knee", "ann_id": 1310345, "best_split": [2, 2], "split_score": 0.3524862732694698}
+{"sent": "red shorts", "ann_id": 1206089, "best_split": [2, 3], "split_score": 0.3517645705998661}
+{"sent": "person in red shorts", "ann_id": 1206089, "best_split": [2, 3], "split_score": 0.3517645705998661}
+{"sent": "guy in red shorts kneeling", "ann_id": 1206089, "best_split": [2, 3], "split_score": 0.3517645705998661}

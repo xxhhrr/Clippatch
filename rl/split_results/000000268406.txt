@@ -1,0 +1,6 @@
+{"sent": "the one under the green peppers", "ann_id": 309117, "best_split": [1, 3], "split_score": 0.44661646101337305}
+{"sent": "purple sandwich", "ann_id": 309117, "best_split": [2, 2], "split_score": 0.6762160982566555}
+{"sent": "sandwich in the light", "ann_id": 309117, "best_split": [2, 2], "split_score": 0.6762160982566555}
+{"sent": "red things on toothpick", "ann_id": 307996, "best_split": [1, 2], "split_score": 0.5694754464058723}
+{"sent": "darker colored sandwhich", "ann_id": 307996, "best_split": [3, 1], "split_score": 0.2790832607949321}
+{"sent": "sandwich with tomatoes on toothpick", "ann_id": 307996, "best_split": [3, 3], "split_score": 0.2960194110895128}

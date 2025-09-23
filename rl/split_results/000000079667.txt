@@ -1,0 +1,9 @@
+{"sent": "pizzasome green", "ann_id": 1076820, "best_split": [2, 3], "split_score": 0.5243268775951433}
+{"sent": "pizza with spinach and mostly circular", "ann_id": 1076820, "best_split": [2, 3], "split_score": 0.5243268775951433}
+{"sent": "spinach pizza on edge of table", "ann_id": 1076820, "best_split": [2, 3], "split_score": 0.5243268775951433}
+{"sent": "full pizza farthest away", "ann_id": 1074986, "best_split": [3, 2], "split_score": 0.27240143366124536}
+{"sent": "pizza with mushrooms", "ann_id": 1074986, "best_split": [3, 3], "split_score": 0.3804909560109026}
+{"sent": "mushroom pizza", "ann_id": 1074986, "best_split": [3, 3], "split_score": 0.3804909560109026}
+{"sent": "spinach pizza above the pepperoni whitestuff", "ann_id": 1074086, "best_split": [3, 3], "split_score": 0.39024390237471257}
+{"sent": "pizza with green topping sitting on both brown papers", "ann_id": 1074086, "best_split": [3, 3], "split_score": 0.39024390237471257}
+{"sent": "pizza in between with leafs", "ann_id": 1074086, "best_split": [3, 3], "split_score": 0.39024390237471257}

@@ -1,0 +1,9 @@
+{"sent": "light blue jacket", "ann_id": 233401, "best_split": [2, 3], "split_score": 0.45921103021263776}
+{"sent": "woman in blue jacket", "ann_id": 233401, "best_split": [2, 3], "split_score": 0.45921103021263776}
+{"sent": "light blue jacket", "ann_id": 233401, "best_split": [2, 3], "split_score": 0.45921103021263776}
+{"sent": "boy holding bear", "ann_id": 229444, "best_split": [2, 2], "split_score": 0.2574311214390818}
+{"sent": "holding bear", "ann_id": 229444, "best_split": [2, 2], "split_score": 0.2574311214390818}
+{"sent": "the kid holding the giant bear", "ann_id": 229444, "best_split": [2, 2], "split_score": 0.2574311214390818}
+{"sent": "close to bus", "ann_id": 197719, "best_split": [3, 1], "split_score": 0.11589403972900798}
+{"sent": "red jacket blue hat", "ann_id": 197719, "best_split": [2, 3], "split_score": 0.4018195602294141}
+{"sent": "adult in red and black coat", "ann_id": 197719, "best_split": [2, 3], "split_score": 0.4018195602294141}

@@ -1,0 +1,6 @@
+{"sent": "food in hand", "ann_id": 313356, "best_split": [3, 3], "split_score": 0.7068830148250611}
+{"sent": "sandwich in hand", "ann_id": 313356, "best_split": [3, 3], "split_score": 0.7068830148250611}
+{"sent": "sandwich being eaten", "ann_id": 313356, "best_split": [2, 3], "split_score": 0.6554604300839987}
+{"sent": "three quarters of a burger", "ann_id": 308225, "best_split": [1, 3], "split_score": 0.40219197770281667}
+{"sent": "sandwich on plate", "ann_id": 308225, "best_split": [1, 3], "split_score": 0.40219197770281667}
+{"sent": "sandwich on plate", "ann_id": 308225, "best_split": [1, 3], "split_score": 0.40219197770281667}

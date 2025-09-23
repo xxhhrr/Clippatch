@@ -1,0 +1,8 @@
+{"sent": "tallest elephant", "ann_id": 585872, "best_split": [1, 5], "split_score": 0.4798027687768061}
+{"sent": "elephant with no people near it", "ann_id": 585872, "best_split": [1, 5], "split_score": 0.4798027687768061}
+{"sent": "second to lasst elephant", "ann_id": 585765, "best_split": [2, 2], "split_score": 0.26741634666295827}
+{"sent": "elephant next to man in white with no suspenders closest to us", "ann_id": 585765, "best_split": [2, 2], "split_score": 0.26741634666295827}
+{"sent": "elephant next to the men further up hill", "ann_id": 585765, "best_split": [2, 2], "split_score": 0.26741634666295827}
+{"sent": "elephant next to suspender man", "ann_id": 582796, "best_split": [3, 3], "split_score": 0.6051150071408854}
+{"sent": "elephant by the man with the straw hat hes lower than the others but not the lowest", "ann_id": 582796, "best_split": [3, 3], "split_score": 0.6051150071408854}
+{"sent": "low elephant", "ann_id": 582796, "best_split": [3, 3], "split_score": 0.6051150071408854}

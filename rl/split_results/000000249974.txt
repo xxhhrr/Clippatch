@@ -1,0 +1,5 @@
+{"sent": "pink apple", "ann_id": 1049954, "best_split": [1, 3], "split_score": 0.5054484492572477}
+{"sent": "apple with slight red", "ann_id": 1049954, "best_split": [3, 1], "split_score": 0.2501988862246321}
+{"sent": "red", "ann_id": 1049457, "best_split": [3, 2], "split_score": 0.4530409598207446}
+{"sent": "apple", "ann_id": 1049457, "best_split": [3, 2], "split_score": 0.4530409598207446}
+{"sent": "red apple", "ann_id": 1049457, "best_split": [3, 2], "split_score": 0.4530409598207446}

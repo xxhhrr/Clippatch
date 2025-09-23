@@ -1,0 +1,9 @@
+{"sent": "gray dog with a black collar", "ann_id": 17689, "best_split": [3, 2], "split_score": 0.5438250582054288}
+{"sent": "gray dog with short tail", "ann_id": 17689, "best_split": [3, 2], "split_score": 0.5438250582054288}
+{"sent": "black dog tallest", "ann_id": 17689, "best_split": [3, 2], "split_score": 0.5438250582054288}
+{"sent": "brown dog", "ann_id": 15576, "best_split": [2, 3], "split_score": 0.24189011810970465}
+{"sent": "brown doge", "ann_id": 15576, "best_split": [3, 3], "split_score": 0.27274945105236037}
+{"sent": "brown dog", "ann_id": 15576, "best_split": [2, 3], "split_score": 0.24189011810970465}
+{"sent": "white dog", "ann_id": 5897, "best_split": [3, 3], "split_score": 0.5080742346941342}
+{"sent": "white and brown dog", "ann_id": 5897, "best_split": [3, 3], "split_score": 0.5080742346941342}
+{"sent": "white dog", "ann_id": 5897, "best_split": [3, 3], "split_score": 0.5080742346941342}

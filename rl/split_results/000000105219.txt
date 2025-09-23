@@ -1,0 +1,9 @@
+{"sent": "man holding plush toy", "ann_id": 557438, "best_split": [1, 2], "split_score": 0.6952327805845331}
+{"sent": "man holding bear", "ann_id": 557438, "best_split": [1, 2], "split_score": 0.6952327805845331}
+{"sent": "man holding stuffed animal", "ann_id": 557438, "best_split": [1, 2], "split_score": 0.6952327805845331}
+{"sent": "man in blue shirt", "ann_id": 555240, "best_split": [3, 1], "split_score": 0.30202631324776597}
+{"sent": "blue shirt", "ann_id": 555240, "best_split": [3, 1], "split_score": 0.30202631324776597}
+{"sent": "man holding the baby", "ann_id": 555240, "best_split": [3, 3], "split_score": 0.4881992194305706}
+{"sent": "checked shirt", "ann_id": 445041, "best_split": [1, 2], "split_score": 0.7447783800723542}
+{"sent": "plaid shirt", "ann_id": 445041, "best_split": [1, 2], "split_score": 0.7447783800723542}
+{"sent": "leaner", "ann_id": 445041, "best_split": [1, 3], "split_score": 0.6346483704680057}

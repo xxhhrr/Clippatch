@@ -1,0 +1,6 @@
+{"sent": "brown bottle", "ann_id": 86276, "best_split": [2, 3], "split_score": 0.5586474849775651}
+{"sent": "bottle nearer edge", "ann_id": 86276, "best_split": [2, 3], "split_score": 0.5586474849775651}
+{"sent": "brown bottle", "ann_id": 86276, "best_split": [2, 3], "split_score": 0.5586474849775651}
+{"sent": "the green bottle", "ann_id": 78478, "best_split": [3, 3], "split_score": 0.44598214280736803}
+{"sent": "blue bottle", "ann_id": 78478, "best_split": [3, 3], "split_score": 0.44598214280736803}
+{"sent": "green", "ann_id": 78478, "best_split": [3, 3], "split_score": 0.44598214280736803}

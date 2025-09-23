@@ -1,0 +1,5 @@
+{"sent": "person standing background", "ann_id": 1741210, "best_split": [3, 3], "split_score": 0.901399176806354}
+{"sent": "blurred umpire", "ann_id": 1741210, "best_split": [3, 3], "split_score": 0.901399176806354}
+{"sent": "the catcher", "ann_id": 446418, "best_split": [2, 1], "split_score": 0.5562548953632019}
+{"sent": "cathcer", "ann_id": 446418, "best_split": [3, 1], "split_score": 0.47478952143986763}
+{"sent": "the guy kneeling", "ann_id": 446418, "best_split": [3, 1], "split_score": 0.47478952143986763}

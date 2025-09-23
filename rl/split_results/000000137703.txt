@@ -1,0 +1,12 @@
+{"sent": "purple shirt", "ann_id": 570937, "best_split": [2, 2], "split_score": 0.28513403734869114}
+{"sent": "blue shirt white woman", "ann_id": 570937, "best_split": [1, 3], "split_score": 0.37688442208800643}
+{"sent": "main blue woman", "ann_id": 570937, "best_split": [1, 3], "split_score": 0.37688442208800643}
+{"sent": "woman by green wall", "ann_id": 2207730, "best_split": [1, 2], "split_score": 0.29057716835576464}
+{"sent": "black woman in darkest green suit", "ann_id": 2207730, "best_split": [1, 3], "split_score": 0.43979247101593916}
+{"sent": "woman blue pants light", "ann_id": 569436, "best_split": [1, 5], "split_score": 0.5684133915057847}
+{"sent": "woman blue pants", "ann_id": 569436, "best_split": [1, 5], "split_score": 0.5684133915057847}
+{"sent": "wamn with light blue pants and gray sweater", "ann_id": 569436, "best_split": [1, 5], "split_score": 0.5684133915057847}
+{"sent": "light green jacket", "ann_id": 568451, "best_split": [1, 5], "split_score": 0.4320517069579009}
+{"sent": "olive green jacket near man", "ann_id": 568451, "best_split": [1, 5], "split_score": 0.4320517069579009}
+{"sent": "woman in olive jacket", "ann_id": 568451, "best_split": [1, 5], "split_score": 0.4320517069579009}
+{"sent": "woman in green shirt with white collar that is holding a bear", "ann_id": 474749, "best_split": [1, 5], "split_score": 0.3960571960067639}

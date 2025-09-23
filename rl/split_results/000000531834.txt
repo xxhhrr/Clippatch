@@ -1,0 +1,9 @@
+{"sent": "chair by tv", "ann_id": 1951350, "best_split": [3, 3], "split_score": 0.49782948419902245}
+{"sent": "only chair", "ann_id": 1951350, "best_split": [3, 3], "split_score": 0.49782948419902245}
+{"sent": "chair against the wall floral", "ann_id": 1951350, "best_split": [3, 3], "split_score": 0.49782948419902245}
+{"sent": "plain couch facing chair and tv", "ann_id": 117235, "best_split": [1, 2], "split_score": 0.23856026784763393}
+{"sent": "couch near window", "ann_id": 117235, "best_split": [1, 3], "split_score": 0.36106418916740685}
+{"sent": "sofa the is cut off", "ann_id": 117235, "best_split": [3, 1], "split_score": 0.26046147828032506}
+{"sent": "dark red couch", "ann_id": 98803, "best_split": [2, 2], "split_score": 0.5791798106798753}
+{"sent": "couch that is more red with leaves", "ann_id": 98803, "best_split": [2, 2], "split_score": 0.5791798106798753}
+{"sent": "bigger couch", "ann_id": 98803, "best_split": [2, 2], "split_score": 0.5791798106798753}

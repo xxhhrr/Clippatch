@@ -1,0 +1,6 @@
+{"sent": "slice next to beans", "ann_id": 310946, "best_split": [3, 2], "split_score": 0.30684606919634033}
+{"sent": "smallest triangle", "ann_id": 310946, "best_split": [3, 3], "split_score": 0.30606969286463964}
+{"sent": "smaller sandwich", "ann_id": 310946, "best_split": [3, 3], "split_score": 0.30606969286463964}
+{"sent": "cake nearest to us", "ann_id": 309747, "best_split": [1, 3], "split_score": 0.3759111419459557}
+{"sent": "biggest half", "ann_id": 309747, "best_split": [1, 3], "split_score": 0.3759111419459557}
+{"sent": "larger piece of sandwich", "ann_id": 309747, "best_split": [1, 3], "split_score": 0.3759111419459557}

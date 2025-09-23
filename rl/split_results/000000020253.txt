@@ -1,0 +1,11 @@
+{"sent": "tan jacket", "ann_id": 1254515, "best_split": [1, 5], "split_score": 0.579660695613718}
+{"sent": "guy with beige jacket", "ann_id": 1254515, "best_split": [1, 5], "split_score": 0.579660695613718}
+{"sent": "guy in tan", "ann_id": 1254515, "best_split": [1, 5], "split_score": 0.579660695613718}
+{"sent": "kid in leather jacket", "ann_id": 1234804, "best_split": [1, 2], "split_score": 0.4952762888792166}
+{"sent": "boy leather jacket wearing glasses", "ann_id": 1234804, "best_split": [1, 2], "split_score": 0.4952762888792166}
+{"sent": "child in black leather jacket", "ann_id": 1234804, "best_split": [1, 2], "split_score": 0.4952762888792166}
+{"sent": "darkest suit", "ann_id": 1315486, "best_split": [2, 3], "split_score": 0.41364211341698526}
+{"sent": "black suit hands crossed", "ann_id": 1315486, "best_split": [2, 3], "split_score": 0.41364211341698526}
+{"sent": "in suit closest to vertical edge of photo", "ann_id": 1315486, "best_split": [2, 3], "split_score": 0.41364211341698526}
+{"sent": "man standing slightly askew", "ann_id": 1310461, "best_split": [1, 5], "split_score": 0.49130266713458615}
+{"sent": "closest man looking at camera", "ann_id": 1310461, "best_split": [2, 2], "split_score": 0.2600834492169622}

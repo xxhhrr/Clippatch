@@ -1,0 +1,6 @@
+{"sent": "good job closest table to us cut off by picture", "ann_id": 123088, "best_split": [5, 1], "split_score": 0.45200892852556723}
+{"sent": "cut off table traingular", "ann_id": 123088, "best_split": [3, 1], "split_score": 0.2687620656208517}
+{"sent": "closest table", "ann_id": 123088, "best_split": [3, 1], "split_score": 0.2687620656208517}
+{"sent": "nearer table with salt", "ann_id": 121011, "best_split": [3, 2], "split_score": 0.5536042239952245}
+{"sent": "table with salt and pepper shakers", "ann_id": 121011, "best_split": [3, 2], "split_score": 0.5536042239952245}
+{"sent": "table with shakers nearest", "ann_id": 121011, "best_split": [3, 2], "split_score": 0.5536042239952245}

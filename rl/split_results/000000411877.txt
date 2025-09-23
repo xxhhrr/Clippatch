@@ -1,0 +1,4 @@
+{"sent": "zebra not facing us", "ann_id": 591126, "best_split": [2, 2], "split_score": 0.30899234691414285}
+{"sent": "zebra with head away from camera", "ann_id": 591126, "best_split": [2, 2], "split_score": 0.30899234691414285}
+{"sent": "zebra withe head this way", "ann_id": 588251, "best_split": [5, 1], "split_score": 0.41997063138583235}
+{"sent": "zebra clearly visible", "ann_id": 588251, "best_split": [5, 1], "split_score": 0.41997063138583235}

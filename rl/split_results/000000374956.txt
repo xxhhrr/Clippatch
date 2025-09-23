@@ -1,0 +1,5 @@
+{"sent": "brown and white cow", "ann_id": 70176, "best_split": [3, 1], "split_score": 0.21640644360761305}
+{"sent": "light brown", "ann_id": 70176, "best_split": [1, 5], "split_score": 0.4999579159582562}
+{"sent": "cow", "ann_id": 69849, "best_split": [1, 2], "split_score": 0.7088647958901122}
+{"sent": "whitest", "ann_id": 69849, "best_split": [1, 2], "split_score": 0.7088647958901122}
+{"sent": "white cow", "ann_id": 69849, "best_split": [1, 2], "split_score": 0.7088647958901122}

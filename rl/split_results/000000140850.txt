@@ -1,0 +1,9 @@
+{"sent": "this case isnt too big or too small", "ann_id": 1842159, "best_split": [2, 1], "split_score": 0.28798628825382705}
+{"sent": "not the tallest suitcase", "ann_id": 1842159, "best_split": [2, 1], "split_score": 0.28798628825382705}
+{"sent": "medium height", "ann_id": 1842159, "best_split": [1, 2], "split_score": 0.08258509782623341}
+{"sent": "smallest suitcase", "ann_id": 1187136, "best_split": [5, 1], "split_score": 0.24253731341128842}
+{"sent": "smallest case", "ann_id": 1187136, "best_split": [2, 2], "split_score": 0.3292410714023245}
+{"sent": "smallest suitcase", "ann_id": 1187136, "best_split": [5, 1], "split_score": 0.24253731341128842}
+{"sent": "the biggest", "ann_id": 1186973, "best_split": [1, 2], "split_score": 0.47791772957278705}
+{"sent": "tallest one", "ann_id": 1186973, "best_split": [2, 2], "split_score": 0.6662591686589066}
+{"sent": "big one", "ann_id": 1186973, "best_split": [2, 2], "split_score": 0.6662591686589066}

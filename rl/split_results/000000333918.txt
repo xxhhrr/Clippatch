@@ -1,0 +1,11 @@
+{"sent": "broccoli surrounded by brown", "ann_id": 1562013, "best_split": [5, 1], "split_score": 0.1901140684238535}
+{"sent": "broccoli in between meat 3 o clock", "ann_id": 1562013, "best_split": [2, 1], "split_score": 0.13113839285191572}
+{"sent": "broccolli in between brown stuff nearest corner", "ann_id": 1562013, "best_split": [5, 1], "split_score": 0.1901140684238535}
+{"sent": "biggest group of brocollli", "ann_id": 1561293, "best_split": [2, 2], "split_score": 0.7085106382507639}
+{"sent": "clump of brocolli under spoon", "ann_id": 1561293, "best_split": [2, 2], "split_score": 0.7085106382507639}
+{"sent": "main broccoli touching meat", "ann_id": 1561019, "best_split": [3, 1], "split_score": 0.23171242924797147}
+{"sent": "centermost broccoli", "ann_id": 1561019, "best_split": [3, 1], "split_score": 0.23171242924797147}
+{"sent": "broccollii is stacke and main item pictured", "ann_id": 1561019, "best_split": [3, 3], "split_score": 0.5282089183877545}
+{"sent": "small patch broccoli by the meat", "ann_id": 1560699, "best_split": [3, 1], "split_score": 0.1135055968138139}
+{"sent": "broccoli at one o clock", "ann_id": 1560699, "best_split": [3, 1], "split_score": 0.1135055968138139}
+{"sent": "2 o clock broc", "ann_id": 1560699, "best_split": [3, 1], "split_score": 0.1135055968138139}

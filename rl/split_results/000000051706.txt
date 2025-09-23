@@ -1,0 +1,6 @@
+{"sent": "28", "ann_id": 522792, "best_split": [3, 3], "split_score": 0.47448840375518575}
+{"sent": "28", "ann_id": 522792, "best_split": [3, 3], "split_score": 0.47448840375518575}
+{"sent": "closest man", "ann_id": 522792, "best_split": [3, 2], "split_score": 0.5079716562767967}
+{"sent": "middle player", "ann_id": 519421, "best_split": [1, 5], "split_score": 0.38080495352352894}
+{"sent": "person not at the ends", "ann_id": 519421, "best_split": [2, 2], "split_score": 0.1905096167211491}
+{"sent": "the baseball player in be tween the 2", "ann_id": 519421, "best_split": [1, 5], "split_score": 0.38080495352352894}

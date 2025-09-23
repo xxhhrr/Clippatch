@@ -1,0 +1,5 @@
+{"sent": "zebra whose face we can see", "ann_id": 593451, "best_split": [3, 1], "split_score": 0.5002995292896748}
+{"sent": "the one whose face we can see", "ann_id": 593451, "best_split": [3, 1], "split_score": 0.5002995292896748}
+{"sent": "hidden zebra", "ann_id": 591707, "best_split": [1, 2], "split_score": 0.8599961066435664}
+{"sent": "obscured zebra that you can see its head", "ann_id": 591707, "best_split": [1, 2], "split_score": 0.8599961066435664}
+{"sent": "zebra behind fully shown zebra", "ann_id": 591707, "best_split": [1, 2], "split_score": 0.8599961066435664}

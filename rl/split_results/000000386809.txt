@@ -1,0 +1,5 @@
+{"sent": "27668 train", "ann_id": 174320, "best_split": [1, 2], "split_score": 0.4616405627718423}
+{"sent": "back train", "ann_id": 174320, "best_split": [1, 2], "split_score": 0.4616405627718423}
+{"sent": "train not in the lead", "ann_id": 174009, "best_split": [1, 2], "split_score": 0.7045200892576323}
+{"sent": "train starting with a z", "ann_id": 174009, "best_split": [1, 2], "split_score": 0.7045200892576323}
+{"sent": "train loosing the race", "ann_id": 174009, "best_split": [1, 2], "split_score": 0.7045200892576323}

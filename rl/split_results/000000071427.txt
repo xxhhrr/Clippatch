@@ -1,0 +1,6 @@
+{"sent": "red jacket", "ann_id": 1303905, "best_split": [2, 3], "split_score": 0.43424022805818696}
+{"sent": "red", "ann_id": 1303905, "best_split": [2, 3], "split_score": 0.43424022805818696}
+{"sent": "red coat woman", "ann_id": 1303905, "best_split": [2, 3], "split_score": 0.43424022805818696}
+{"sent": "white shirt guy", "ann_id": 1272266, "best_split": [1, 2], "split_score": 0.6725790459217643}
+{"sent": "white shirt", "ann_id": 1272266, "best_split": [1, 2], "split_score": 0.6725790459217643}
+{"sent": "chef near u", "ann_id": 1272266, "best_split": [1, 2], "split_score": 0.6725790459217643}

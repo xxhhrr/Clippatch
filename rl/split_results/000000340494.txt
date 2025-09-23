@@ -1,0 +1,6 @@
+{"sent": "boy on ground", "ann_id": 1709276, "best_split": [2, 2], "split_score": 0.4945153346488406}
+{"sent": "boy", "ann_id": 1709276, "best_split": [2, 2], "split_score": 0.4945153346488406}
+{"sent": "boy sitting on floor", "ann_id": 1709276, "best_split": [2, 2], "split_score": 0.4945153346488406}
+{"sent": "red shirt again", "ann_id": 423122, "best_split": [1, 2], "split_score": 0.5194116708976637}
+{"sent": "girl", "ann_id": 423122, "best_split": [1, 2], "split_score": 0.5194116708976637}
+{"sent": "little girl", "ann_id": 423122, "best_split": [1, 2], "split_score": 0.5194116708976637}

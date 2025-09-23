@@ -1,0 +1,6 @@
+{"sent": "the glass on the end with the most wine", "ann_id": 668037, "best_split": [2, 2], "split_score": 0.2842384887629694}
+{"sent": "wine glass near small plate", "ann_id": 668037, "best_split": [1, 5], "split_score": 0.4155444401293243}
+{"sent": "wine glass 1 in row of 4", "ann_id": 668037, "best_split": [1, 5], "split_score": 0.4155444401293243}
+{"sent": "wine glass near zig zag metal", "ann_id": 667974, "best_split": [2, 2], "split_score": 0.27276779079833846}
+{"sent": "far east goblet", "ann_id": 667974, "best_split": [2, 1], "split_score": 0.14119818502879342}
+{"sent": "wine glass closest to food and infront of person in red", "ann_id": 667424, "best_split": [2, 3], "split_score": 0.4283139045273027}

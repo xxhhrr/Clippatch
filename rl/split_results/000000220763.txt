@@ -1,0 +1,12 @@
+{"sent": "all red umbrella", "ann_id": 285369, "best_split": [1, 2], "split_score": 0.8957270407806232}
+{"sent": "website on umbrella", "ann_id": 285369, "best_split": [1, 2], "split_score": 0.8957270407806232}
+{"sent": "all red umbrella", "ann_id": 285369, "best_split": [1, 2], "split_score": 0.8957270407806232}
+{"sent": "white and red umbrella", "ann_id": 283674, "best_split": [1, 3], "split_score": 0.5814667629795219}
+{"sent": "bia hanor umbrella", "ann_id": 283674, "best_split": [1, 3], "split_score": 0.5814667629795219}
+{"sent": "red and white umbrella", "ann_id": 283674, "best_split": [1, 3], "split_score": 0.5814667629795219}
+{"sent": "person standing", "ann_id": 230038, "best_split": [1, 5], "split_score": 0.39783339555492775}
+{"sent": "standing person", "ann_id": 230038, "best_split": [1, 5], "split_score": 0.39783339555492775}
+{"sent": "person standing", "ann_id": 230038, "best_split": [1, 5], "split_score": 0.39783339555492775}
+{"sent": "back to camera under white umbrella", "ann_id": 201943, "best_split": [1, 3], "split_score": 0.2569203660400773}
+{"sent": "guy in white shirt", "ann_id": 201943, "best_split": [2, 3], "split_score": 0.4606444796132441}
+{"sent": "person in white with back sitting in chair", "ann_id": 201943, "best_split": [2, 3], "split_score": 0.4606444796132441}

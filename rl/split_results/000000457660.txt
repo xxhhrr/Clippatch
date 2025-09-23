@@ -1,0 +1,6 @@
+{"sent": "mac apple", "ann_id": 1104043, "best_split": [2, 3], "split_score": 0.3891285590607066}
+{"sent": "apple laptop belonging to guy opposite", "ann_id": 1104043, "best_split": [2, 3], "split_score": 0.3891285590607066}
+{"sent": "apple on lid", "ann_id": 1104043, "best_split": [2, 3], "split_score": 0.3891285590607066}
+{"sent": "screen", "ann_id": 1099115, "best_split": [1, 2], "split_score": 0.8322056833254505}
+{"sent": "colorful laptop", "ann_id": 1099115, "best_split": [1, 2], "split_score": 0.8322056833254505}
+{"sent": "colorful keyboard", "ann_id": 1099115, "best_split": [1, 2], "split_score": 0.8322056833254505}

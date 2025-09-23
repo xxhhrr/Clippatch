@@ -1,0 +1,8 @@
+{"sent": "smallest bus", "ann_id": 1795416, "best_split": [3, 3], "split_score": 0.637545344522741}
+{"sent": "smaller bus", "ann_id": 1795416, "best_split": [3, 3], "split_score": 0.637545344522741}
+{"sent": "shortest bus", "ann_id": 1795416, "best_split": [3, 3], "split_score": 0.637545344522741}
+{"sent": "bus sticking out most", "ann_id": 1795376, "best_split": [3, 3], "split_score": 0.5471504947620122}
+{"sent": "closest", "ann_id": 1795376, "best_split": [2, 1], "split_score": 0.13809409587300503}
+{"sent": "middlest bus", "ann_id": 1365287, "best_split": [3, 1], "split_score": 0.20799999998875676}
+{"sent": "bus equal distance from both sides", "ann_id": 1365287, "best_split": [3, 1], "split_score": 0.20799999998875676}
+{"sent": "sandwiched bus", "ann_id": 1365287, "best_split": [3, 1], "split_score": 0.20799999998875676}

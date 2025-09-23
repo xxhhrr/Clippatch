@@ -1,0 +1,6 @@
+{"sent": "chair not rocking chair", "ann_id": 108632, "best_split": [5, 1], "split_score": 0.10377358489691933}
+{"sent": "chair out of frame in background", "ann_id": 108632, "best_split": [5, 1], "split_score": 0.10377358489691933}
+{"sent": "half of chair", "ann_id": 108632, "best_split": [5, 1], "split_score": 0.10377358489691933}
+{"sent": "rocking chair", "ann_id": 108581, "best_split": [3, 1], "split_score": 0.46559717416787116}
+{"sent": "rocking chair", "ann_id": 108581, "best_split": [3, 1], "split_score": 0.46559717416787116}
+{"sent": "rocker", "ann_id": 108581, "best_split": [3, 1], "split_score": 0.46559717416787116}

@@ -1,0 +1,9 @@
+{"sent": "sleevless girl", "ann_id": 1305686, "best_split": [3, 2], "split_score": 0.31689029199714974}
+{"sent": "woman with arms crossed", "ann_id": 1305686, "best_split": [2, 3], "split_score": 0.5411615286293544}
+{"sent": "woman with sleeveless blouse", "ann_id": 1305686, "best_split": [2, 3], "split_score": 0.5411615286293544}
+{"sent": "bank wshaved head", "ann_id": 1305488, "best_split": [3, 3], "split_score": 0.898837410914656}
+{"sent": "not much hair in corner", "ann_id": 1305488, "best_split": [1, 3], "split_score": 0.31294299837316436}
+{"sent": "head in lower left corner", "ann_id": 1305488, "best_split": [1, 2], "split_score": 0.21791294641988548}
+{"sent": "back of women head blond hair", "ann_id": 1258512, "best_split": [3, 2], "split_score": 0.27126099703903844}
+{"sent": "brown haired girl with back of head to us", "ann_id": 1258512, "best_split": [3, 2], "split_score": 0.27126099703903844}
+{"sent": "the back of the head of the brown haired girl", "ann_id": 1258512, "best_split": [3, 3], "split_score": 0.6815723042406108}

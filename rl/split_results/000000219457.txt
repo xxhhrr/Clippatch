@@ -1,0 +1,9 @@
+{"sent": "highest umbrella", "ann_id": 283067, "best_split": [3, 2], "split_score": 0.4121621621124322}
+{"sent": "partial umbrella", "ann_id": 283067, "best_split": [3, 2], "split_score": 0.4121621621124322}
+{"sent": "yellow umbrella partially out of picture", "ann_id": 283067, "best_split": [3, 3], "split_score": 0.6238130020774629}
+{"sent": "yellow umbrella can see whole shade", "ann_id": 282033, "best_split": [2, 3], "split_score": 0.29320017950031413}
+{"sent": "yellow umbrella nearest to clock", "ann_id": 282033, "best_split": [2, 3], "split_score": 0.29320017950031413}
+{"sent": "yellow corner umbrella", "ann_id": 282033, "best_split": [2, 3], "split_score": 0.29320017950031413}
+{"sent": "lightest umbrella", "ann_id": 281045, "best_split": [3, 3], "split_score": 0.48186366471515574}
+{"sent": "the umbrella most under the clock", "ann_id": 281045, "best_split": [3, 3], "split_score": 0.48186366471515574}
+{"sent": "lightest yellow umbrella", "ann_id": 281045, "best_split": [3, 2], "split_score": 0.27728123048458936}

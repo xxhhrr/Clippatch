@@ -1,0 +1,6 @@
+{"sent": "giraffe only partially visible", "ann_id": 600700, "best_split": [3, 3], "split_score": 0.5048641818692527}
+{"sent": "giraffe neck", "ann_id": 600700, "best_split": [3, 3], "split_score": 0.5048641818692527}
+{"sent": "giraffe cut off on the side", "ann_id": 600700, "best_split": [3, 3], "split_score": 0.5048641818692527}
+{"sent": "giraffe with tounge out", "ann_id": 594743, "best_split": [1, 2], "split_score": 0.7230851633360209}
+{"sent": "giraffe", "ann_id": 594743, "best_split": [1, 2], "split_score": 0.7230851633360209}
+{"sent": "giraffe with tongue out", "ann_id": 594743, "best_split": [1, 2], "split_score": 0.7230851633360209}

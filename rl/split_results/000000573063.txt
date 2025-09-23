@@ -1,0 +1,6 @@
+{"sent": "oven", "ann_id": 2139699, "best_split": [2, 3], "split_score": 0.7595993321297878}
+{"sent": "wall oven", "ann_id": 2139699, "best_split": [2, 3], "split_score": 0.7595993321297878}
+{"sent": "microwave oven maybe", "ann_id": 2139699, "best_split": [2, 3], "split_score": 0.7595993321297878}
+{"sent": "digital clock on oven", "ann_id": 1641498, "best_split": [2, 2], "split_score": 0.47166143259521}
+{"sent": "oven with clock", "ann_id": 1641498, "best_split": [2, 2], "split_score": 0.47166143259521}
+{"sent": "black item directly behind cake", "ann_id": 1641498, "best_split": [2, 3], "split_score": 0.5737604569910466}

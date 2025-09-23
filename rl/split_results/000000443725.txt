@@ -1,0 +1,6 @@
+{"sent": "in closest corner next to bed", "ann_id": 318101, "best_split": [2, 2], "split_score": 0.5550426955492698}
+{"sent": "bed cut off", "ann_id": 318101, "best_split": [3, 2], "split_score": 0.802349220600593}
+{"sent": "nearest bed", "ann_id": 318101, "best_split": [3, 2], "split_score": 0.802349220600593}
+{"sent": "well made white bed", "ann_id": 315003, "best_split": [2, 1], "split_score": 0.697289454570425}
+{"sent": "white bed", "ann_id": 315003, "best_split": [2, 1], "split_score": 0.697289454570425}
+{"sent": "full bed", "ann_id": 315003, "best_split": [2, 1], "split_score": 0.697289454570425}

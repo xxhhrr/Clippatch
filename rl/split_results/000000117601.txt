@@ -1,0 +1,5 @@
+{"sent": "hand holding uneaten hotdog", "ann_id": 1210531, "best_split": [3, 3], "split_score": 0.6241167083856717}
+{"sent": "hand holding whole hot dog", "ann_id": 1210531, "best_split": [3, 3], "split_score": 0.6241167083856717}
+{"sent": "hand with bitten hot dog", "ann_id": 464618, "best_split": [1, 2], "split_score": 0.5210459183465782}
+{"sent": "hand with half dog", "ann_id": 464618, "best_split": [1, 3], "split_score": 0.7522458628397017}
+{"sent": "hand more in corner", "ann_id": 464618, "best_split": [1, 3], "split_score": 0.7522458628397017}

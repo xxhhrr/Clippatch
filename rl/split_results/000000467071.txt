@@ -1,0 +1,9 @@
+{"sent": "green truck", "ann_id": 1371415, "best_split": [3, 3], "split_score": 0.3679213292017766}
+{"sent": "green semi", "ann_id": 1371415, "best_split": [3, 3], "split_score": 0.3679213292017766}
+{"sent": "green truch", "ann_id": 1371415, "best_split": [3, 3], "split_score": 0.3679213292017766}
+{"sent": "silver truck", "ann_id": 401422, "best_split": [1, 2], "split_score": 0.8283582089236842}
+{"sent": "white truck", "ann_id": 401422, "best_split": [1, 2], "split_score": 0.8283582089236842}
+{"sent": "white trunk", "ann_id": 401422, "best_split": [1, 2], "split_score": 0.8283582089236842}
+{"sent": "red big mac track", "ann_id": 399249, "best_split": [1, 2], "split_score": 0.6496832733898413}
+{"sent": "red", "ann_id": 399249, "best_split": [1, 2], "split_score": 0.6496832733898413}
+{"sent": "red truck", "ann_id": 399249, "best_split": [1, 2], "split_score": 0.6496832733898413}

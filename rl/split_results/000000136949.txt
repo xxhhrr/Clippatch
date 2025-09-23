@@ -1,0 +1,6 @@
+{"sent": "apron person", "ann_id": 507500, "best_split": [2, 3], "split_score": 0.6346820808637108}
+{"sent": "worker facing camera", "ann_id": 507500, "best_split": [1, 3], "split_score": 0.510887772163742}
+{"sent": "taller", "ann_id": 507500, "best_split": [1, 3], "split_score": 0.510887772163742}
+{"sent": "facing stove", "ann_id": 1722261, "best_split": [3, 3], "split_score": 0.26390580590094337}
+{"sent": "person with back to you", "ann_id": 1722261, "best_split": [1, 5], "split_score": 0.34958306603996286}
+{"sent": "woman facing away from camera", "ann_id": 1722261, "best_split": [3, 2], "split_score": 0.34318901792122586}

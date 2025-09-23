@@ -1,0 +1,8 @@
+{"sent": "cat has black ears but is not black and white", "ann_id": 1402030, "best_split": [5, 1], "split_score": 0.23732251519110062}
+{"sent": "sec ond cat", "ann_id": 1402030, "best_split": [3, 3], "split_score": 0.5856867215250505}
+{"sent": "cat number 2", "ann_id": 1402030, "best_split": [3, 1], "split_score": 0.2101910827899176}
+{"sent": "black and white cat", "ann_id": 48230, "best_split": [3, 3], "split_score": 0.538093611114094}
+{"sent": "black and white cat", "ann_id": 48230, "best_split": [3, 3], "split_score": 0.538093611114094}
+{"sent": "brown cat faceing you", "ann_id": 46575, "best_split": [1, 2], "split_score": 0.48079470197159274}
+{"sent": "cat facing camera", "ann_id": 46575, "best_split": [1, 2], "split_score": 0.48079470197159274}
+{"sent": "cat face", "ann_id": 46575, "best_split": [1, 2], "split_score": 0.48079470197159274}

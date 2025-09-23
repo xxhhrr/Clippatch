@@ -1,0 +1,12 @@
+{"sent": "far beige cat", "ann_id": 51939, "best_split": [3, 3], "split_score": 0.23893398679140235}
+{"sent": "light colored cat with eyes closed", "ann_id": 51939, "best_split": [3, 3], "split_score": 0.23893398679140235}
+{"sent": "white cat closest to pillow", "ann_id": 51939, "best_split": [3, 2], "split_score": 0.3030121921703308}
+{"sent": "white cat facing straight forward", "ann_id": 49852, "best_split": [3, 3], "split_score": 0.35609261444041024}
+{"sent": "light colored cat nearest the black and white one", "ann_id": 49852, "best_split": [3, 3], "split_score": 0.35609261444041024}
+{"sent": "cat in cen ter", "ann_id": 49852, "best_split": [1, 3], "split_score": 0.12381735910420066}
+{"sent": "closet black and white", "ann_id": 48850, "best_split": [1, 2], "split_score": 0.1654135338281088}
+{"sent": "black and white cat", "ann_id": 48850, "best_split": [3, 2], "split_score": 0.3325107957708708}
+{"sent": "black and white cat", "ann_id": 48850, "best_split": [3, 2], "split_score": 0.3325107957708708}
+{"sent": "orange cat", "ann_id": 46958, "best_split": [3, 2], "split_score": 0.6466726839544865}
+{"sent": "yellow cat", "ann_id": 46958, "best_split": [3, 2], "split_score": 0.6466726839544865}
+{"sent": "orange cat", "ann_id": 46958, "best_split": [3, 2], "split_score": 0.6466726839544865}

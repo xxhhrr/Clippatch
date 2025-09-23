@@ -1,0 +1,6 @@
+{"sent": "man with scarf in black", "ann_id": 1230119, "best_split": [1, 5], "split_score": 0.4360189573037993}
+{"sent": "man looking up in black", "ann_id": 1230119, "best_split": [1, 5], "split_score": 0.4360189573037993}
+{"sent": "man looking up", "ann_id": 1230119, "best_split": [1, 2], "split_score": 0.19893973213492747}
+{"sent": "woman with scarf", "ann_id": 1268978, "best_split": [1, 5], "split_score": 0.4062722736630192}
+{"sent": "stroller woman", "ann_id": 1268978, "best_split": [1, 5], "split_score": 0.4062722736630192}
+{"sent": "woman closest us with wheelchair", "ann_id": 1268978, "best_split": [1, 5], "split_score": 0.4062722736630192}

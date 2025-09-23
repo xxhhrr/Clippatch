@@ -1,0 +1,6 @@
+{"sent": "reflection of the girl", "ann_id": 505928, "best_split": [1, 3], "split_score": 0.2574257425609826}
+{"sent": "her reflection", "ann_id": 505928, "best_split": [1, 2], "split_score": 0.29145728642071855}
+{"sent": "girl nose", "ann_id": 505928, "best_split": [1, 2], "split_score": 0.29145728642071855}
+{"sent": "girl closest", "ann_id": 471742, "best_split": [1, 3], "split_score": 0.24871308587495788}
+{"sent": "woman not the reflection", "ann_id": 471742, "best_split": [1, 2], "split_score": 0.6252790178322194}
+{"sent": "girl not reflection", "ann_id": 471742, "best_split": [3, 2], "split_score": 0.34441765264709145}

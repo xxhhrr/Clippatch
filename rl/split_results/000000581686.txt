@@ -1,0 +1,6 @@
+{"sent": "sideways pigeon", "ann_id": 41223, "best_split": [2, 3], "split_score": 0.6100845947673548}
+{"sent": "bird 5 o clock", "ann_id": 41223, "best_split": [3, 3], "split_score": 0.6519705130915834}
+{"sent": "bird 2", "ann_id": 41223, "best_split": [3, 3], "split_score": 0.6519705130915834}
+{"sent": "smaller black bird", "ann_id": 38565, "best_split": [3, 3], "split_score": 0.5916055961706186}
+{"sent": "bird directly below light blue statue", "ann_id": 38565, "best_split": [1, 5], "split_score": 0.29144657582323724}
+{"sent": "balck bird under green statue", "ann_id": 38565, "best_split": [3, 3], "split_score": 0.5916055961706186}

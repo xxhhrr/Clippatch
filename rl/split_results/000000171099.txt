@@ -1,0 +1,6 @@
+{"sent": "container of blueberries and strawberries", "ann_id": 1899523, "best_split": [1, 5], "split_score": 0.4330562346764737}
+{"sent": "fruit", "ann_id": 1899523, "best_split": [3, 3], "split_score": 0.33606450769462026}
+{"sent": "berries", "ann_id": 1899523, "best_split": [1, 5], "split_score": 0.4330562346764737}
+{"sent": "bowl", "ann_id": 711911, "best_split": [1, 3], "split_score": 0.46504730968560065}
+{"sent": "glass bowl", "ann_id": 711911, "best_split": [1, 3], "split_score": 0.46504730968560065}
+{"sent": "are you paying attention corn", "ann_id": 711911, "best_split": [1, 3], "split_score": 0.46504730968560065}

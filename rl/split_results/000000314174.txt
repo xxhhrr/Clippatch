@@ -1,0 +1,8 @@
+{"sent": "dark blue above the wooden table", "ann_id": 2205812, "best_split": [2, 3], "split_score": 0.5236363635768595}
+{"sent": "blurry blue thing above table", "ann_id": 2205812, "best_split": [1, 3], "split_score": 0.2696629213325338}
+{"sent": "woman holding cake", "ann_id": 2161274, "best_split": [1, 2], "split_score": 0.7823182710891033}
+{"sent": "black shirt", "ann_id": 2161274, "best_split": [1, 2], "split_score": 0.7823182710891033}
+{"sent": "black shirt", "ann_id": 2161274, "best_split": [1, 2], "split_score": 0.7823182710891033}
+{"sent": "lady in pink", "ann_id": 445773, "best_split": [1, 3], "split_score": 0.9380429536113633}
+{"sent": "woman in pink", "ann_id": 445773, "best_split": [1, 3], "split_score": 0.9380429536113633}
+{"sent": "person on 900 side", "ann_id": 445773, "best_split": [1, 2], "split_score": 0.6197783800773367}

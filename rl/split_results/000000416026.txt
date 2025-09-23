@@ -1,0 +1,7 @@
+{"sent": "banana at edge with no tip shown", "ann_id": 2186131, "best_split": [1, 3], "split_score": 0.3344594594392821}
+{"sent": "cutoff orange at 9", "ann_id": 2186131, "best_split": [1, 2], "split_score": 0.22098214284833456}
+{"sent": "banana without black markings and bunched with others", "ann_id": 1546525, "best_split": [2, 1], "split_score": 0.49017632240270226}
+{"sent": "bananas", "ann_id": 1546525, "best_split": [2, 1], "split_score": 0.49017632240270226}
+{"sent": "bananas where black bottoms dont show", "ann_id": 1546525, "best_split": [2, 1], "split_score": 0.49017632240270226}
+{"sent": "tip of banana closet to corner", "ann_id": 1545665, "best_split": [2, 2], "split_score": 0.24465880100090412}
+{"sent": "closest banana not cut off side", "ann_id": 1544777, "best_split": [2, 3], "split_score": 0.34650455923290224}

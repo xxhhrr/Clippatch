@@ -1,0 +1,6 @@
+{"sent": "bus between busses", "ann_id": 168533, "best_split": [3, 3], "split_score": 0.36250838357436144}
+{"sent": "number 2 bus", "ann_id": 168533, "best_split": [3, 3], "split_score": 0.36250838357436144}
+{"sent": "bus in between", "ann_id": 168533, "best_split": [3, 3], "split_score": 0.36250838357436144}
+{"sent": "bus closet", "ann_id": 166115, "best_split": [1, 2], "split_score": 0.6863839285440695}
+{"sent": "white bus closest to viewer", "ann_id": 166115, "best_split": [1, 2], "split_score": 0.6863839285440695}
+{"sent": "warm up", "ann_id": 166115, "best_split": [3, 2], "split_score": 0.4380426203383672}

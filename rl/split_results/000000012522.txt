@@ -1,0 +1,6 @@
+{"sent": "person sitting wblue shirt", "ann_id": 1707243, "best_split": [3, 3], "split_score": 0.5024848149499607}
+{"sent": "woman in blue shirt", "ann_id": 1707243, "best_split": [3, 3], "split_score": 0.5024848149499607}
+{"sent": "woman with purple", "ann_id": 1707243, "best_split": [3, 2], "split_score": 0.3619729514357624}
+{"sent": "person with lettering on shirt", "ann_id": 486618, "best_split": [1, 5], "split_score": 0.578124999948675}
+{"sent": "this game sucks", "ann_id": 486618, "best_split": [1, 5], "split_score": 0.578124999948675}
+{"sent": "batter", "ann_id": 486618, "best_split": [1, 5], "split_score": 0.578124999948675}

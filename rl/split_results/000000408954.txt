@@ -1,0 +1,9 @@
+{"sent": "woman", "ann_id": 1750798, "best_split": [1, 3], "split_score": 0.5834231321577127}
+{"sent": "beige hoodie", "ann_id": 1750798, "best_split": [1, 2], "split_score": 0.38214308264247826}
+{"sent": "woman in gray", "ann_id": 1750798, "best_split": [1, 3], "split_score": 0.5834231321577127}
+{"sent": "woman in black with glasses", "ann_id": 492445, "best_split": [1, 5], "split_score": 0.7386833252533701}
+{"sent": "lady in dark shirt glasses", "ann_id": 492445, "best_split": [1, 5], "split_score": 0.7386833252533701}
+{"sent": "woman black coat", "ann_id": 492445, "best_split": [1, 5], "split_score": 0.7386833252533701}
+{"sent": "balding man", "ann_id": 488371, "best_split": [1, 3], "split_score": 0.7299839412290672}
+{"sent": "man with trenchcoat and tie", "ann_id": 488371, "best_split": [1, 3], "split_score": 0.7299839412290672}
+{"sent": "man with glasses facing us", "ann_id": 488371, "best_split": [1, 3], "split_score": 0.7299839412290672}

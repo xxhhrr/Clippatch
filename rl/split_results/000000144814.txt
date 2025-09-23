@@ -1,0 +1,5 @@
+{"sent": "partial semi", "ann_id": 1796161, "best_split": [1, 2], "split_score": 0.1618702168302826}
+{"sent": "truck next to full truck", "ann_id": 1796161, "best_split": [1, 2], "split_score": 0.1618702168302826}
+{"sent": "black truck", "ann_id": 400631, "best_split": [1, 3], "split_score": 0.4120922832022931}
+{"sent": "truck", "ann_id": 400631, "best_split": [1, 3], "split_score": 0.4120922832022931}
+{"sent": "big black truck", "ann_id": 400631, "best_split": [1, 3], "split_score": 0.4120922832022931}

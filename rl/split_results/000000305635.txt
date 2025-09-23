@@ -1,0 +1,5 @@
+{"sent": "smaller pizza", "ann_id": 1073344, "best_split": [1, 2], "split_score": 0.2037627550939189}
+{"sent": "pizza by the pepperoni box", "ann_id": 1073344, "best_split": [1, 5], "split_score": 0.26847457624843435}
+{"sent": "pizza closest to green label", "ann_id": 1073157, "best_split": [2, 2], "split_score": 0.4542410713923596}
+{"sent": "the supreme pizza out of the box", "ann_id": 1073157, "best_split": [2, 2], "split_score": 0.4542410713923596}
+{"sent": "the supreme pizza", "ann_id": 1073157, "best_split": [2, 2], "split_score": 0.4542410713923596}

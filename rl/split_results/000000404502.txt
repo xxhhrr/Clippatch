@@ -1,0 +1,5 @@
+{"sent": "brown horse with some white on the head", "ann_id": 59971, "best_split": [3, 2], "split_score": 0.48329389489036495}
+{"sent": "brown horse white face", "ann_id": 59971, "best_split": [3, 2], "split_score": 0.48329389489036495}
+{"sent": "white horse", "ann_id": 59704, "best_split": [1, 5], "split_score": 0.5305081419922986}
+{"sent": "a white horse", "ann_id": 59704, "best_split": [1, 5], "split_score": 0.5305081419922986}
+{"sent": "white", "ann_id": 59704, "best_split": [1, 5], "split_score": 0.5305081419922986}

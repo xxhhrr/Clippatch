@@ -1,0 +1,15 @@
+{"sent": "boy wearing glasses", "ann_id": 1683554, "best_split": [1, 3], "split_score": 0.5082046331739741}
+{"sent": "tan shorts", "ann_id": 1683554, "best_split": [2, 1], "split_score": 0.20807498196798577}
+{"sent": "guy 1", "ann_id": 1683554, "best_split": [2, 1], "split_score": 0.20807498196798577}
+{"sent": "guy with yellow shorts", "ann_id": 535528, "best_split": [1, 5], "split_score": 0.5813617481866208}
+{"sent": "yellow shorts", "ann_id": 535528, "best_split": [1, 5], "split_score": 0.5813617481866208}
+{"sent": "person in black and yellow hat", "ann_id": 535528, "best_split": [1, 5], "split_score": 0.5813617481866208}
+{"sent": "holding disk", "ann_id": 496491, "best_split": [2, 2], "split_score": 0.28936392073192363}
+{"sent": "man with frisbee", "ann_id": 496491, "best_split": [2, 2], "split_score": 0.28936392073192363}
+{"sent": "the guy holding the frisbee", "ann_id": 496491, "best_split": [2, 2], "split_score": 0.28936392073192363}
+{"sent": "glasses next to beard", "ann_id": 478013, "best_split": [1, 2], "split_score": 0.30691964284490914}
+{"sent": "guy with dark shirts next to guy with tan shorts", "ann_id": 478013, "best_split": [1, 5], "split_score": 0.40661805941778556}
+{"sent": "glasses blue shorts", "ann_id": 478013, "best_split": [1, 5], "split_score": 0.40661805941778556}
+{"sent": "beard next to frisbee", "ann_id": 449932, "best_split": [1, 5], "split_score": 0.6510105870403262}
+{"sent": "beard guy", "ann_id": 449932, "best_split": [1, 5], "split_score": 0.6510105870403262}
+{"sent": "third man", "ann_id": 449932, "best_split": [1, 5], "split_score": 0.6510105870403262}

@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 2157801, "best_split": [1, 3], "split_score": 0.5009477389462323}
+{"sent": "man", "ann_id": 2157801, "best_split": [1, 3], "split_score": 0.5009477389462323}
+{"sent": "the man holding a piece of paper", "ann_id": 2157801, "best_split": [1, 3], "split_score": 0.5009477389462323}
+{"sent": "black half showing", "ann_id": 1245993, "best_split": [1, 5], "split_score": 0.24619463809818376}
+{"sent": "black elbow", "ann_id": 1245993, "best_split": [3, 2], "split_score": 0.16631711407651875}
+{"sent": "black arm", "ann_id": 1245993, "best_split": [3, 2], "split_score": 0.16631711407651875}

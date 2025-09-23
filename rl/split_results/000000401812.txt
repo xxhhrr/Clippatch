@@ -1,0 +1,12 @@
+{"sent": "horse next to blue and white shirt man", "ann_id": 273741, "best_split": [3, 2], "split_score": 0.436835891344507}
+{"sent": "horse next to guy in blue button down", "ann_id": 273741, "best_split": [3, 2], "split_score": 0.436835891344507}
+{"sent": "horse 9 o clock", "ann_id": 273741, "best_split": [1, 5], "split_score": 0.4196551197604414}
+{"sent": "man in blue jeans and blue shirt", "ann_id": 225197, "best_split": [3, 3], "split_score": 0.412799999933952}
+{"sent": "man in blue jeans and blue shirt", "ann_id": 225197, "best_split": [3, 3], "split_score": 0.412799999933952}
+{"sent": "man in blue shirt and jeans", "ann_id": 225197, "best_split": [1, 5], "split_score": 0.3297765250322351}
+{"sent": "man in light blue shirt brown pants", "ann_id": 196842, "best_split": [3, 3], "split_score": 0.5027941880084952}
+{"sent": "man falling forward", "ann_id": 196842, "best_split": [3, 2], "split_score": 0.3570159857507753}
+{"sent": "guy pushing", "ann_id": 196842, "best_split": [3, 3], "split_score": 0.5027941880084952}
+{"sent": "horse with hoof up", "ann_id": 57950, "best_split": [3, 2], "split_score": 0.3591160220726358}
+{"sent": "leader", "ann_id": 57950, "best_split": [3, 2], "split_score": 0.3591160220726358}
+{"sent": "whiter horse", "ann_id": 57950, "best_split": [1, 5], "split_score": 0.4249063130278966}

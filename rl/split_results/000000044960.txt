@@ -1,0 +1,6 @@
+{"sent": "bus closest to bus stop lane", "ann_id": 168903, "best_split": [5, 1], "split_score": 0.1396006028504521}
+{"sent": "far bus", "ann_id": 168903, "best_split": [5, 1], "split_score": 0.1396006028504521}
+{"sent": "speeding bus whole bus", "ann_id": 168903, "best_split": [5, 1], "split_score": 0.1396006028504521}
+{"sent": "bus in the lead", "ann_id": 166332, "best_split": [2, 3], "split_score": 0.5180921052099}
+{"sent": "bus headed out of frame", "ann_id": 166332, "best_split": [2, 3], "split_score": 0.5180921052099}
+{"sent": "bus up to us can only see half", "ann_id": 166332, "best_split": [2, 3], "split_score": 0.5180921052099}

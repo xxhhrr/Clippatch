@@ -1,0 +1,15 @@
+{"sent": "long", "ann_id": 1574781, "best_split": [1, 2], "split_score": 0.561008217015749}
+{"sent": "only long one", "ann_id": 1574781, "best_split": [1, 2], "split_score": 0.561008217015749}
+{"sent": "long sprinkled donut", "ann_id": 1574781, "best_split": [1, 2], "split_score": 0.561008217015749}
+{"sent": "flattest donut", "ann_id": 1572647, "best_split": [2, 2], "split_score": 0.6313775509700751}
+{"sent": "donut behind round sprinkled one no hole", "ann_id": 1572647, "best_split": [2, 2], "split_score": 0.6313775509700751}
+{"sent": "donut with chocolate icing and distinct center hole", "ann_id": 1082383, "best_split": [2, 2], "split_score": 0.4433195152707813}
+{"sent": "choc old fashion", "ann_id": 1082383, "best_split": [3, 2], "split_score": 0.6709700771391204}
+{"sent": "chocolate donut", "ann_id": 1082383, "best_split": [2, 2], "split_score": 0.4433195152707813}
+{"sent": "glaze one", "ann_id": 1082320, "best_split": [3, 3], "split_score": 0.5867113343845102}
+{"sent": "white glazed donut", "ann_id": 1082320, "best_split": [3, 3], "split_score": 0.5867113343845102}
+{"sent": "glazed half off screen", "ann_id": 1082320, "best_split": [3, 3], "split_score": 0.5867113343845102}
+{"sent": "colorful doughnut", "ann_id": 1081202, "best_split": [3, 1], "split_score": 0.4376797438581757}
+{"sent": "sprinkle round", "ann_id": 1081202, "best_split": [3, 1], "split_score": 0.4376797438581757}
+{"sent": "round donut with hole and sprinkles", "ann_id": 1081202, "best_split": [3, 1], "split_score": 0.4376797438581757}
+{"sent": "sprinkle donut", "ann_id": 1081202, "best_split": [3, 1], "split_score": 0.4376797438581757}

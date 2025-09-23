@@ -1,0 +1,6 @@
+{"sent": "white car by black sign", "ann_id": 351101, "best_split": [3, 1], "split_score": 0.31358590731698927}
+{"sent": "white car with smaller back window", "ann_id": 351101, "best_split": [5, 1], "split_score": 0.493156119768582}
+{"sent": "white hood of car at 5 pm", "ann_id": 351101, "best_split": [5, 1], "split_score": 0.493156119768582}
+{"sent": "white car with back window", "ann_id": 345535, "best_split": [3, 2], "split_score": 0.3162434115577092}
+{"sent": "car in corner only trunk visible", "ann_id": 345535, "best_split": [3, 3], "split_score": 0.4768786126306216}
+{"sent": "car 800", "ann_id": 345535, "best_split": [3, 2], "split_score": 0.3162434115577092}

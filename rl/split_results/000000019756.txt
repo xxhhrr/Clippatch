@@ -1,0 +1,6 @@
+{"sent": "bed closest to window", "ann_id": 2194053, "best_split": [3, 3], "split_score": 0.3508840863980505}
+{"sent": "far bed", "ann_id": 2194053, "best_split": [5, 1], "split_score": 0.2145809224487865}
+{"sent": "red striped bed", "ann_id": 2194053, "best_split": [2, 2], "split_score": 0.1837374012405518}
+{"sent": "bed closest", "ann_id": 2193994, "best_split": [2, 2], "split_score": 0.9297672193136346}
+{"sent": "close bed", "ann_id": 2193994, "best_split": [2, 2], "split_score": 0.9297672193136346}
+{"sent": "bed neares door", "ann_id": 2193994, "best_split": [2, 2], "split_score": 0.9297672193136346}

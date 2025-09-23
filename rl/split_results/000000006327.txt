@@ -1,0 +1,6 @@
+{"sent": "woman in blue jacket", "ann_id": 497873, "best_split": [1, 5], "split_score": 0.5332792207251137}
+{"sent": "woman", "ann_id": 497873, "best_split": [1, 5], "split_score": 0.5332792207251137}
+{"sent": "lady standing in blue", "ann_id": 497873, "best_split": [1, 5], "split_score": 0.5332792207251137}
+{"sent": "red jacket", "ann_id": 491871, "best_split": [1, 5], "split_score": 0.3076214597967901}
+{"sent": "red ski suit", "ann_id": 491871, "best_split": [1, 5], "split_score": 0.3076214597967901}
+{"sent": "man in red", "ann_id": 491871, "best_split": [1, 5], "split_score": 0.3076214597967901}

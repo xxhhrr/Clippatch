@@ -1,0 +1,8 @@
+{"sent": "number 4", "ann_id": 517958, "best_split": [1, 5], "split_score": 0.5085080434108538}
+{"sent": "skier in blue with number 4", "ann_id": 517958, "best_split": [1, 2], "split_score": 0.6424984055866351}
+{"sent": "person with red around them", "ann_id": 493878, "best_split": [1, 3], "split_score": 0.7932029685008126}
+{"sent": "a1 with olympic rings on shirt", "ann_id": 493878, "best_split": [3, 3], "split_score": 0.34461666780116657}
+{"sent": "holding both hands", "ann_id": 493878, "best_split": [1, 3], "split_score": 0.7932029685008126}
+{"sent": "lady in green", "ann_id": 474360, "best_split": [1, 3], "split_score": 0.6156692056248275}
+{"sent": "green pants", "ann_id": 474360, "best_split": [1, 3], "split_score": 0.6156692056248275}
+{"sent": "skier green uniform", "ann_id": 474360, "best_split": [1, 3], "split_score": 0.6156692056248275}

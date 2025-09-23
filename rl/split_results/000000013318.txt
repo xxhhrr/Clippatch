@@ -1,0 +1,9 @@
+{"sent": "first old man", "ann_id": 1682800, "best_split": [1, 5], "split_score": 0.7008928570717438}
+{"sent": "man in brown jacket", "ann_id": 1682800, "best_split": [1, 5], "split_score": 0.7008928570717438}
+{"sent": "older man facing us", "ann_id": 1682800, "best_split": [1, 5], "split_score": 0.7008928570717438}
+{"sent": "blurry woman with black bag", "ann_id": 1703482, "best_split": [2, 2], "split_score": 0.5461956521337987}
+{"sent": "lady in a coat", "ann_id": 1703482, "best_split": [2, 2], "split_score": 0.5461956521337987}
+{"sent": "woman is closet walking away", "ann_id": 1703482, "best_split": [2, 2], "split_score": 0.5461956521337987}
+{"sent": "man in blue suit with sunglasses", "ann_id": 1231897, "best_split": [3, 3], "split_score": 0.35416968812847427}
+{"sent": "man in dark blue", "ann_id": 1231897, "best_split": [3, 1], "split_score": 0.13570436231532623}
+{"sent": "man in uniform wearing glasses", "ann_id": 1231897, "best_split": [3, 3], "split_score": 0.35416968812847427}

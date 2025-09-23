@@ -1,0 +1,9 @@
+{"sent": "object next to the lady and child", "ann_id": 546498, "best_split": [1, 2], "split_score": 0.8081154336412582}
+{"sent": "partial pic of person", "ann_id": 546498, "best_split": [1, 2], "split_score": 0.8081154336412582}
+{"sent": "blue pants", "ann_id": 546498, "best_split": [1, 2], "split_score": 0.8081154336412582}
+{"sent": "person holding the kids face", "ann_id": 535589, "best_split": [1, 3], "split_score": 0.6108461794049658}
+{"sent": "person holding child", "ann_id": 535589, "best_split": [1, 3], "split_score": 0.6108461794049658}
+{"sent": "head of person with sunglasses", "ann_id": 535589, "best_split": [1, 3], "split_score": 0.6108461794049658}
+{"sent": "boy being held", "ann_id": 484613, "best_split": [3, 3], "split_score": 0.49114451547981175}
+{"sent": "kid", "ann_id": 484613, "best_split": [3, 3], "split_score": 0.49114451547981175}
+{"sent": "yellow", "ann_id": 484613, "best_split": [3, 3], "split_score": 0.49114451547981175}

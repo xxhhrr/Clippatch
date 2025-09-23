@@ -1,0 +1,6 @@
+{"sent": "white double decker bus", "ann_id": 248301, "best_split": [3, 2], "split_score": 0.5168918918295256}
+{"sent": "white bus", "ann_id": 248301, "best_split": [3, 3], "split_score": 0.7039106144022502}
+{"sent": "white bus", "ann_id": 248301, "best_split": [3, 3], "split_score": 0.7039106144022502}
+{"sent": "red bus", "ann_id": 165214, "best_split": [3, 2], "split_score": 0.5538922155227967}
+{"sent": "red bus", "ann_id": 165214, "best_split": [3, 2], "split_score": 0.5538922155227967}
+{"sent": "falke", "ann_id": 165214, "best_split": [3, 2], "split_score": 0.5538922155227967}

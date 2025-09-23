@@ -1,0 +1,9 @@
+{"sent": "person white hat", "ann_id": 1748153, "best_split": [5, 1], "split_score": 0.07653239929277299}
+{"sent": "sitting blurry person with light blue", "ann_id": 1748153, "best_split": [2, 3], "split_score": 0.22025028438905}
+{"sent": "blurry person on side white cap", "ann_id": 1748153, "best_split": [1, 5], "split_score": 0.20837428737877192}
+{"sent": "person next to person in white shirt", "ann_id": 1741080, "best_split": [3, 2], "split_score": 0.1730074388764073}
+{"sent": "blurry man with arms across chest", "ann_id": 1741080, "best_split": [2, 3], "split_score": 0.1358304177674593}
+{"sent": "man in black", "ann_id": 1741080, "best_split": [3, 1], "split_score": 0.09198779522590192}
+{"sent": "person in fishnet and bikini", "ann_id": 464031, "best_split": [1, 2], "split_score": 0.6774217502440344}
+{"sent": "the main girl", "ann_id": 464031, "best_split": [1, 2], "split_score": 0.6774217502440344}
+{"sent": "woman with umbrella", "ann_id": 464031, "best_split": [1, 2], "split_score": 0.6774217502440344}

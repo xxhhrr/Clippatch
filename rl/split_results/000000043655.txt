@@ -1,0 +1,11 @@
+{"sent": "wood thing behind cats", "ann_id": 2192057, "best_split": [1, 5], "split_score": 0.25541795663163525}
+{"sent": "chair back cats are blocking", "ann_id": 2192057, "best_split": [1, 5], "split_score": 0.25541795663163525}
+{"sent": "chair back overlapping plant", "ann_id": 2192057, "best_split": [2, 3], "split_score": 0.3764478764024556}
+{"sent": "chaiir near cat whos paw is out", "ann_id": 104758, "best_split": [2, 2], "split_score": 0.2997461570794143}
+{"sent": "half of chair", "ann_id": 104758, "best_split": [1, 5], "split_score": 0.597504058380935}
+{"sent": "chair back at 8 o clock", "ann_id": 104758, "best_split": [1, 5], "split_score": 0.597504058380935}
+{"sent": "cat by plant", "ann_id": 48202, "best_split": [1, 5], "split_score": 0.25137262076762695}
+{"sent": "cant with paw not out", "ann_id": 48202, "best_split": [1, 5], "split_score": 0.25137262076762695}
+{"sent": "the one looking more directly into the camera", "ann_id": 48202, "best_split": [3, 1], "split_score": 0.23039333975444054}
+{"sent": "cat only closer to chairs further from plant", "ann_id": 46622, "best_split": [3, 3], "split_score": 0.42111157770949015}
+{"sent": "cat with longest shadow", "ann_id": 46622, "best_split": [3, 3], "split_score": 0.42111157770949015}

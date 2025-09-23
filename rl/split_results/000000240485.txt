@@ -1,0 +1,6 @@
+{"sent": "woman with orange", "ann_id": 2206155, "best_split": [1, 2], "split_score": 0.8079911209486684}
+{"sent": "orange", "ann_id": 2206155, "best_split": [1, 2], "split_score": 0.8079911209486684}
+{"sent": "blond", "ann_id": 2206155, "best_split": [1, 2], "split_score": 0.8079911209486684}
+{"sent": "woman holding fork", "ann_id": 427022, "best_split": [1, 2], "split_score": 0.9475264738048235}
+{"sent": "eating the green", "ann_id": 427022, "best_split": [1, 2], "split_score": 0.9475264738048235}
+{"sent": "girl eating green", "ann_id": 427022, "best_split": [1, 2], "split_score": 0.9475264738048235}

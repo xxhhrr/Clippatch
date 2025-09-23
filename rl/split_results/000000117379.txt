@@ -1,0 +1,6 @@
+{"sent": "giraffe that looks like its walking", "ann_id": 601131, "best_split": [1, 3], "split_score": 0.34729411763071555}
+{"sent": "giraffe walking in lead", "ann_id": 601131, "best_split": [1, 3], "split_score": 0.34729411763071555}
+{"sent": "small giraffe", "ann_id": 601131, "best_split": [1, 3], "split_score": 0.34729411763071555}
+{"sent": "giraffe closest to us", "ann_id": 601001, "best_split": [1, 2], "split_score": 0.599330357118968}
+{"sent": "closest", "ann_id": 601001, "best_split": [3, 2], "split_score": 0.3633387888494658}
+{"sent": "giraffe in the foregroun", "ann_id": 601001, "best_split": [1, 2], "split_score": 0.599330357118968}

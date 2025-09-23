@@ -1,0 +1,5 @@
+{"sent": "click at 12 oclock", "ann_id": 1923774, "best_split": [3, 2], "split_score": 0.660284463822726}
+{"sent": "portion of food 11 pm", "ann_id": 1923774, "best_split": [3, 1], "split_score": 0.4154802123301472}
+{"sent": "appetizer with red peppers closest to us", "ann_id": 1923545, "best_split": [2, 3], "split_score": 0.46121204081280914}
+{"sent": "good closest to you", "ann_id": 1923545, "best_split": [1, 2], "split_score": 0.20472734039938187}
+{"sent": "round disc very visible with four red peppers", "ann_id": 1923545, "best_split": [2, 3], "split_score": 0.46121204081280914}

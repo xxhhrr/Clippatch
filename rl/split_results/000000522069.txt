@@ -1,0 +1,6 @@
+{"sent": "woman on phone", "ann_id": 1234920, "best_split": [2, 1], "split_score": 0.5209248256152389}
+{"sent": "old womna phoning", "ann_id": 1234920, "best_split": [1, 2], "split_score": 0.4954913001038167}
+{"sent": "prominent woman", "ann_id": 1234920, "best_split": [1, 2], "split_score": 0.4954913001038167}
+{"sent": "blurry woman", "ann_id": 474692, "best_split": [3, 1], "split_score": 0.20328811122931034}
+{"sent": "purple bow", "ann_id": 474692, "best_split": [1, 2], "split_score": 0.47413105865457067}
+{"sent": "elderly lady not faceing us", "ann_id": 474692, "best_split": [1, 2], "split_score": 0.47413105865457067}

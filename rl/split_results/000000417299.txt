@@ -1,0 +1,9 @@
+{"sent": "dark car next to bike", "ann_id": 145494, "best_split": [3, 3], "split_score": 0.334685598320709}
+{"sent": "dark blue car behind cyclest", "ann_id": 145494, "best_split": [3, 3], "split_score": 0.334685598320709}
+{"sent": "black car cutoff", "ann_id": 145494, "best_split": [5, 1], "split_score": 0.15767634853284831}
+{"sent": "black car visible license plate", "ann_id": 144203, "best_split": [3, 2], "split_score": 0.49324752052191945}
+{"sent": "black smart car", "ann_id": 144203, "best_split": [3, 2], "split_score": 0.49324752052191945}
+{"sent": "license plate", "ann_id": 144203, "best_split": [3, 2], "split_score": 0.49324752052191945}
+{"sent": "red car", "ann_id": 142268, "best_split": [3, 3], "split_score": 0.4461629981489942}
+{"sent": "red", "ann_id": 142268, "best_split": [3, 3], "split_score": 0.4461629981489942}
+{"sent": "red car", "ann_id": 142268, "best_split": [3, 3], "split_score": 0.4461629981489942}

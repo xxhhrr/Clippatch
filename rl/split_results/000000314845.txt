@@ -1,0 +1,6 @@
+{"sent": "carrots", "ann_id": 1568284, "best_split": [2, 2], "split_score": 0.5650990568665676}
+{"sent": "the hotdog with the pickle on t", "ann_id": 1568284, "best_split": [2, 2], "split_score": 0.5650990568665676}
+{"sent": "pickle", "ann_id": 1568284, "best_split": [2, 2], "split_score": 0.5650990568665676}
+{"sent": "sandwich without pickle", "ann_id": 1068057, "best_split": [3, 1], "split_score": 0.24914534340364936}
+{"sent": "other hot dog", "ann_id": 1068057, "best_split": [3, 1], "split_score": 0.24914534340364936}
+{"sent": "food without pickle on it", "ann_id": 1068057, "best_split": [3, 1], "split_score": 0.24914534340364936}

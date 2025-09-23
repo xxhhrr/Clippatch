@@ -1,0 +1,6 @@
+{"sent": "white boat", "ann_id": 177919, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "white ship", "ann_id": 177919, "best_split": [1, 5], "split_score": 0.21202927001498936}
+{"sent": "white boat", "ann_id": 177919, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "the men and dog are on this", "ann_id": 177234, "best_split": [1, 2], "split_score": 0.25471698112456614}
+{"sent": "red boat", "ann_id": 177234, "best_split": [2, 1], "split_score": 0.6964285714008119}
+{"sent": "boat", "ann_id": 177234, "best_split": [2, 1], "split_score": 0.6964285714008119}

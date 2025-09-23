@@ -1,0 +1,9 @@
+{"sent": "bending down no tail shown", "ann_id": 593581, "best_split": [2, 2], "split_score": 0.18829113922696408}
+{"sent": "head down not looking", "ann_id": 593581, "best_split": [2, 1], "split_score": 0.04908684039381048}
+{"sent": "zebra eating grass cant see its tail", "ann_id": 593581, "best_split": [3, 2], "split_score": 0.25805128202481525}
+{"sent": "zebra 1", "ann_id": 592124, "best_split": [1, 5], "split_score": 0.43800904973772037}
+{"sent": "bending and looking at us", "ann_id": 592124, "best_split": [1, 5], "split_score": 0.43800904973772037}
+{"sent": "zebra eating and looking at camera", "ann_id": 592124, "best_split": [1, 5], "split_score": 0.43800904973772037}
+{"sent": "zebra sandwiched", "ann_id": 591632, "best_split": [3, 3], "split_score": 0.3359652585534973}
+{"sent": "zebra with head held up", "ann_id": 591632, "best_split": [3, 3], "split_score": 0.3359652585534973}
+{"sent": "middle zebra", "ann_id": 591632, "best_split": [3, 3], "split_score": 0.3359652585534973}

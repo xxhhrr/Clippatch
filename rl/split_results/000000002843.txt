@@ -1,0 +1,6 @@
+{"sent": "fuzzy food", "ann_id": 1923472, "best_split": [1, 2], "split_score": 0.16485969387097976}
+{"sent": "dish not in focus", "ann_id": 1923472, "best_split": [1, 2], "split_score": 0.16485969387097976}
+{"sent": "food on the plate in the background", "ann_id": 1923472, "best_split": [1, 2], "split_score": 0.16485969387097976}
+{"sent": "pizza near fork", "ann_id": 1071593, "best_split": [2, 2], "split_score": 0.7334183672884711}
+{"sent": "pizza", "ann_id": 1071593, "best_split": [2, 2], "split_score": 0.7334183672884711}
+{"sent": "not blurry food on plate", "ann_id": 1071593, "best_split": [2, 2], "split_score": 0.7334183672884711}

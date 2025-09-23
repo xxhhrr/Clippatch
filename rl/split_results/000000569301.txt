@@ -1,0 +1,9 @@
+{"sent": "pink tshirt", "ann_id": 1747865, "best_split": [2, 2], "split_score": 0.1861495844746434}
+{"sent": "woman in green shorts and pink shirt has camera around neck", "ann_id": 1747865, "best_split": [1, 3], "split_score": 0.26200274346859886}
+{"sent": "in pink", "ann_id": 1747865, "best_split": [1, 3], "split_score": 0.26200274346859886}
+{"sent": "a woman with hands on her hips", "ann_id": 533964, "best_split": [1, 5], "split_score": 0.7089072543026206}
+{"sent": "red mom", "ann_id": 533964, "best_split": [1, 5], "split_score": 0.7089072543026206}
+{"sent": "woman red shirt", "ann_id": 533964, "best_split": [1, 5], "split_score": 0.7089072543026206}
+{"sent": "batter", "ann_id": 533744, "best_split": [1, 3], "split_score": 0.7360038609594592}
+{"sent": "the batter", "ann_id": 533744, "best_split": [1, 3], "split_score": 0.7360038609594592}
+{"sent": "kid", "ann_id": 533744, "best_split": [1, 3], "split_score": 0.7360038609594592}

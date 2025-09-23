@@ -1,0 +1,9 @@
+{"sent": "batter in blue shirt", "ann_id": 1734994, "best_split": [1, 5], "split_score": 0.5706168830589877}
+{"sent": "one", "ann_id": 1734994, "best_split": [5, 1], "split_score": 0.11455108358308365}
+{"sent": "blue shirt", "ann_id": 1734994, "best_split": [1, 5], "split_score": 0.5706168830589877}
+{"sent": "15", "ann_id": 1714294, "best_split": [1, 2], "split_score": 0.3067602040694053}
+{"sent": "ump", "ann_id": 1714294, "best_split": [3, 2], "split_score": 0.31707317070558066}
+{"sent": "ump", "ann_id": 1714294, "best_split": [3, 2], "split_score": 0.31707317070558066}
+{"sent": "catcher", "ann_id": 484173, "best_split": [2, 3], "split_score": 0.38135593216299196}
+{"sent": "catcher", "ann_id": 484173, "best_split": [2, 3], "split_score": 0.38135593216299196}
+{"sent": "catcher", "ann_id": 484173, "best_split": [2, 3], "split_score": 0.38135593216299196}

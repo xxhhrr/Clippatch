@@ -1,0 +1,12 @@
+{"sent": "furthest wine glass closest row", "ann_id": 1500345, "best_split": [3, 3], "split_score": 0.2590626764247247}
+{"sent": "last glass with wine", "ann_id": 1500345, "best_split": [3, 3], "split_score": 0.2590626764247247}
+{"sent": "wine out of frame 9 o clock", "ann_id": 1500345, "best_split": [3, 3], "split_score": 0.2590626764247247}
+{"sent": "short glass with mostly visible base", "ann_id": 1500247, "best_split": [2, 2], "split_score": 0.2803738317569844}
+{"sent": "shortest glass", "ann_id": 1500247, "best_split": [3, 3], "split_score": 0.3451799199972035}
+{"sent": "white glass opposite corner closest to us but not going off edge", "ann_id": 1500247, "best_split": [1, 5], "split_score": 0.3317183462264439}
+{"sent": "tallest glass without base showing", "ann_id": 1499468, "best_split": [1, 3], "split_score": 0.4863324479589236}
+{"sent": "wine glass between the two small ones", "ann_id": 1499468, "best_split": [1, 3], "split_score": 0.4863324479589236}
+{"sent": "closest glass", "ann_id": 1499073, "best_split": [3, 1], "split_score": 0.20108695651320113}
+{"sent": "glass closest to you", "ann_id": 1499073, "best_split": [3, 1], "split_score": 0.20108695651320113}
+{"sent": "glass closest sorry", "ann_id": 1499073, "best_split": [5, 1], "split_score": 0.15017064845615558}
+{"sent": "glass at 530 almost six", "ann_id": 1498463, "best_split": [1, 3], "split_score": 0.3434637801653068}

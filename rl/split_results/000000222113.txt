@@ -1,0 +1,6 @@
+{"sent": "neck stretched out", "ann_id": 595656, "best_split": [2, 1], "split_score": 0.6445783132332008}
+{"sent": "giraffe with neck straight out", "ann_id": 595656, "best_split": [2, 1], "split_score": 0.6445783132332008}
+{"sent": "the animal hald between the tree", "ann_id": 595656, "best_split": [1, 2], "split_score": 0.3178336576036787}
+{"sent": "closest zebra", "ann_id": 594711, "best_split": [1, 2], "split_score": 0.763672557073281}
+{"sent": "giraffe with head towards ground", "ann_id": 594711, "best_split": [1, 2], "split_score": 0.763672557073281}
+{"sent": "lower garaf", "ann_id": 594711, "best_split": [2, 1], "split_score": 0.31157801786018136}

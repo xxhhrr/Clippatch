@@ -1,0 +1,6 @@
+{"sent": "plaid shirt", "ann_id": 1248367, "best_split": [2, 3], "split_score": 0.30874105585875644}
+{"sent": "tan pants", "ann_id": 1248367, "best_split": [1, 3], "split_score": 0.29176038828626966}
+{"sent": "plaid shirt", "ann_id": 1248367, "best_split": [2, 3], "split_score": 0.30874105585875644}
+{"sent": "black shirt blue pants", "ann_id": 495862, "best_split": [1, 3], "split_score": 0.7736562314959446}
+{"sent": "giant man", "ann_id": 495862, "best_split": [1, 3], "split_score": 0.7736562314959446}
+{"sent": "guy in black", "ann_id": 495862, "best_split": [2, 3], "split_score": 0.6161165625471219}

@@ -1,0 +1,6 @@
+{"sent": "white drink", "ann_id": 1509268, "best_split": [3, 3], "split_score": 0.5142439736095245}
+{"sent": "glass with clear stuff", "ann_id": 1509268, "best_split": [5, 1], "split_score": 0.18032786883566246}
+{"sent": "drink", "ann_id": 1509268, "best_split": [5, 1], "split_score": 0.18032786883566246}
+{"sent": "cup with dark liquid", "ann_id": 1503672, "best_split": [3, 3], "split_score": 0.5199999999063063}
+{"sent": "cola in glass", "ann_id": 1503672, "best_split": [3, 3], "split_score": 0.5199999999063063}
+{"sent": "glass of coke", "ann_id": 1503672, "best_split": [3, 3], "split_score": 0.5199999999063063}

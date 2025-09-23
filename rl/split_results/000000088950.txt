@@ -1,0 +1,5 @@
+{"sent": "salad bowl", "ann_id": 715729, "best_split": [3, 3], "split_score": 0.5209649031451532}
+{"sent": "big salad on the table", "ann_id": 715729, "best_split": [3, 3], "split_score": 0.5209649031451532}
+{"sent": "big salad", "ann_id": 715729, "best_split": [3, 3], "split_score": 0.5209649031451532}
+{"sent": "plate with knife next to it", "ann_id": 1533604, "best_split": [1, 2], "split_score": 0.32142857141575937}
+{"sent": "plated with corn below th eyellow mug", "ann_id": 1533604, "best_split": [2, 3], "split_score": 0.7681660898823349}

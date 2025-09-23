@@ -1,0 +1,5 @@
+{"sent": "the batter with back turned", "ann_id": 474702, "best_split": [1, 2], "split_score": 0.7955827981839663}
+{"sent": "man with bat above head", "ann_id": 474702, "best_split": [1, 2], "split_score": 0.7955827981839663}
+{"sent": "blurry player", "ann_id": 473418, "best_split": [2, 1], "split_score": 0.25902310616381913}
+{"sent": "facing", "ann_id": 473418, "best_split": [2, 1], "split_score": 0.2681475371120626}
+{"sent": "doh i guess should have said behind here red sleeves", "ann_id": 473418, "best_split": [1, 2], "split_score": 0.7158003826245296}

@@ -1,0 +1,6 @@
+{"sent": "tv next to guy by the van", "ann_id": 1969641, "best_split": [5, 1], "split_score": 0.21127954051301387}
+{"sent": "tv closest to guy in blue jeans", "ann_id": 1969641, "best_split": [2, 3], "split_score": 0.36305501926121436}
+{"sent": "closest screen", "ann_id": 1969641, "best_split": [2, 3], "split_score": 0.36305501926121436}
+{"sent": "tv closer to bike", "ann_id": 1968190, "best_split": [2, 2], "split_score": 0.20735012753449059}
+{"sent": "tv behind black thing", "ann_id": 1968190, "best_split": [2, 2], "split_score": 0.20735012753449059}
+{"sent": "tv with stand not visible", "ann_id": 1968190, "best_split": [2, 2], "split_score": 0.20735012753449059}

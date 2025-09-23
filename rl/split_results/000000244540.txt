@@ -1,0 +1,6 @@
+{"sent": "little case", "ann_id": 1188018, "best_split": [1, 2], "split_score": 0.8537946428231109}
+{"sent": "smaller one", "ann_id": 1188018, "best_split": [2, 1], "split_score": 0.27671022289786124}
+{"sent": "smaller breifcase", "ann_id": 1188018, "best_split": [1, 2], "split_score": 0.8537946428231109}
+{"sent": "large toate", "ann_id": 1184868, "best_split": [1, 2], "split_score": 0.865663763493358}
+{"sent": "larger case", "ann_id": 1184868, "best_split": [1, 2], "split_score": 0.865663763493358}
+{"sent": "bigger case", "ann_id": 1184868, "best_split": [2, 1], "split_score": 0.3686350435522435}

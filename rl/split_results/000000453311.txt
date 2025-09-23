@@ -1,0 +1,5 @@
+{"sent": "ox facing us", "ann_id": 1820677, "best_split": [3, 1], "split_score": 0.1818234476261687}
+{"sent": "smallest animal", "ann_id": 1820677, "best_split": [3, 2], "split_score": 0.3497103386419663}
+{"sent": "cow ahead of man", "ann_id": 72271, "best_split": [3, 1], "split_score": 0.4183471266803621}
+{"sent": "ox being held by tail", "ann_id": 72271, "best_split": [3, 2], "split_score": 0.8092446447791156}
+{"sent": "this cows tail is holded", "ann_id": 72271, "best_split": [3, 2], "split_score": 0.8092446447791156}

@@ -1,0 +1,6 @@
+{"sent": "sheep away from the woman", "ann_id": 62341, "best_split": [3, 3], "split_score": 0.3791183294077156}
+{"sent": "sheep looking", "ann_id": 62341, "best_split": [2, 2], "split_score": 0.2742346938556892}
+{"sent": "sheep alone", "ann_id": 62341, "best_split": [2, 2], "split_score": 0.2742346938556892}
+{"sent": "sheep next to girl", "ann_id": 62062, "best_split": [2, 3], "split_score": 0.48816649779094146}
+{"sent": "sheep touching human", "ann_id": 62062, "best_split": [2, 3], "split_score": 0.48816649779094146}
+{"sent": "lamb standing", "ann_id": 62062, "best_split": [2, 3], "split_score": 0.48816649779094146}

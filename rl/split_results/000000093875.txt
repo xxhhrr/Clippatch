@@ -1,0 +1,9 @@
+{"sent": "the white chair", "ann_id": 387417, "best_split": [1, 5], "split_score": 0.520055839877147}
+{"sent": "white chair", "ann_id": 387417, "best_split": [1, 5], "split_score": 0.520055839877147}
+{"sent": "whole white chair", "ann_id": 387417, "best_split": [1, 5], "split_score": 0.520055839877147}
+{"sent": "plaid thing in the corner", "ann_id": 1935461, "best_split": [3, 3], "split_score": 0.4101541250389566}
+{"sent": "pillow", "ann_id": 1935461, "best_split": [3, 3], "split_score": 0.4101541250389566}
+{"sent": "the t of pillow", "ann_id": 1935461, "best_split": [3, 3], "split_score": 0.4101541250389566}
+{"sent": "wooden horizontal slat chair at table", "ann_id": 377943, "best_split": [2, 3], "split_score": 0.7545200949731873}
+{"sent": "brown chair", "ann_id": 377943, "best_split": [2, 3], "split_score": 0.7545200949731873}
+{"sent": "light wood chair closest", "ann_id": 377943, "best_split": [2, 3], "split_score": 0.7545200949731873}

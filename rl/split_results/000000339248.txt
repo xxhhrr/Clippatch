@@ -1,0 +1,12 @@
+{"sent": "green shirt guy holding beer", "ann_id": 535785, "best_split": [2, 1], "split_score": 0.2737859643677201}
+{"sent": "guy green shirt", "ann_id": 535785, "best_split": [2, 1], "split_score": 0.2737859643677201}
+{"sent": "man with beer can", "ann_id": 535785, "best_split": [2, 1], "split_score": 0.2737859643677201}
+{"sent": "man with black shirt glasses with head turned to the side", "ann_id": 510909, "best_split": [2, 1], "split_score": 0.23433530077651818}
+{"sent": "center guy", "ann_id": 510909, "best_split": [2, 1], "split_score": 0.23433530077651818}
+{"sent": "short guy looking away", "ann_id": 510909, "best_split": [2, 3], "split_score": 0.6029938170514162}
+{"sent": "man in white shirt", "ann_id": 501227, "best_split": [2, 2], "split_score": 0.2547033284909766}
+{"sent": "white shirt", "ann_id": 501227, "best_split": [2, 2], "split_score": 0.2547033284909766}
+{"sent": "white shirt black hat", "ann_id": 501227, "best_split": [3, 3], "split_score": 0.3165854908591918}
+{"sent": "guy on phone", "ann_id": 498919, "best_split": [2, 2], "split_score": 0.6483719853884464}
+{"sent": "vegitarian on shirt", "ann_id": 498919, "best_split": [2, 2], "split_score": 0.6483719853884464}
+{"sent": "man with black shirt red letters", "ann_id": 498919, "best_split": [2, 2], "split_score": 0.6483719853884464}

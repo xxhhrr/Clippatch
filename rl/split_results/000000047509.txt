@@ -1,0 +1,11 @@
+{"sent": "lady", "ann_id": 1262165, "best_split": [3, 3], "split_score": 0.846112213450097}
+{"sent": "woman in red", "ann_id": 1262165, "best_split": [3, 3], "split_score": 0.846112213450097}
+{"sent": "woman", "ann_id": 1262165, "best_split": [3, 3], "split_score": 0.846112213450097}
+{"sent": "beneath red shirt", "ann_id": 1220839, "best_split": [2, 3], "split_score": 0.47586872581130923}
+{"sent": "man at 6 o clock position", "ann_id": 1220839, "best_split": [3, 1], "split_score": 0.23793436292000877}
+{"sent": "man at 6", "ann_id": 1220839, "best_split": [3, 1], "split_score": 0.23793436292000877}
+{"sent": "glasses guy with white background", "ann_id": 1292782, "best_split": [3, 3], "split_score": 0.8436815192031261}
+{"sent": "older man with glasses", "ann_id": 1292782, "best_split": [3, 3], "split_score": 0.8436815192031261}
+{"sent": "blackest hair with tie", "ann_id": 1271250, "best_split": [3, 1], "split_score": 0.29988081047080567}
+{"sent": "guy under the football player", "ann_id": 1271250, "best_split": [1, 3], "split_score": 0.315878378359322}
+{"sent": "man with red tie brown background", "ann_id": 1271250, "best_split": [3, 1], "split_score": 0.29988081047080567}

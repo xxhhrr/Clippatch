@@ -1,0 +1,6 @@
+{"sent": "man leading", "ann_id": 2158764, "best_split": [1, 2], "split_score": 0.6518255739536103}
+{"sent": "man no shirt", "ann_id": 2158764, "best_split": [1, 2], "split_score": 0.6518255739536103}
+{"sent": "leader", "ann_id": 2158764, "best_split": [1, 2], "split_score": 0.6518255739536103}
+{"sent": "man following suitcase", "ann_id": 555361, "best_split": [2, 2], "split_score": 0.1447236180800629}
+{"sent": "guy in hat black jacket and blue jeans", "ann_id": 555361, "best_split": [3, 3], "split_score": 0.2062499999719769}
+{"sent": "man in black jacket hat and blue jeans", "ann_id": 555361, "best_split": [3, 1], "split_score": 0.169672131137607}

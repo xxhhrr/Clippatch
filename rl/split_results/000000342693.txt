@@ -1,0 +1,6 @@
+{"sent": "bald sheep", "ann_id": 64433, "best_split": [1, 3], "split_score": 0.37264720074971963}
+{"sent": "sheep with not fuzzy head", "ann_id": 64433, "best_split": [5, 1], "split_score": 0.24200170421860703}
+{"sent": "lamb is smaller and whiter", "ann_id": 64433, "best_split": [1, 3], "split_score": 0.37264720074971963}
+{"sent": "sheep on east", "ann_id": 62411, "best_split": [3, 2], "split_score": 0.6316245904189993}
+{"sent": "sheep looking at us with more wool", "ann_id": 62411, "best_split": [3, 2], "split_score": 0.6316245904189993}
+{"sent": "fuzzy head sheep", "ann_id": 62411, "best_split": [3, 2], "split_score": 0.6316245904189993}

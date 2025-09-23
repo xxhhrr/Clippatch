@@ -1,0 +1,5 @@
+{"sent": "the island", "ann_id": 320030, "best_split": [2, 2], "split_score": 0.2065404474894908}
+{"sent": "island black counter", "ann_id": 320030, "best_split": [3, 2], "split_score": 0.40142729701143764}
+{"sent": "this object that these plants are sitting on", "ann_id": 118409, "best_split": [3, 2], "split_score": 0.7308288148014301}
+{"sent": "granite counter", "ann_id": 118409, "best_split": [1, 2], "split_score": 0.278236508394344}
+{"sent": "counter below flags", "ann_id": 118409, "best_split": [3, 2], "split_score": 0.7308288148014301}

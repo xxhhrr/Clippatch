@@ -1,0 +1,6 @@
+{"sent": "hands", "ann_id": 558548, "best_split": [5, 1], "split_score": 0.654822334966024}
+{"sent": "hands 12 o clock", "ann_id": 558548, "best_split": [5, 1], "split_score": 0.654822334966024}
+{"sent": "hands holding leash", "ann_id": 558548, "best_split": [5, 1], "split_score": 0.654822334966024}
+{"sent": "person holding bear", "ann_id": 470475, "best_split": [1, 2], "split_score": 0.756570867085588}
+{"sent": "person face", "ann_id": 470475, "best_split": [1, 2], "split_score": 0.756570867085588}
+{"sent": "woman holding bear", "ann_id": 470475, "best_split": [1, 2], "split_score": 0.756570867085588}

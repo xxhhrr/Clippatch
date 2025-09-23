@@ -1,0 +1,5 @@
+{"sent": "tall white beaded thing", "ann_id": 1156643, "best_split": [1, 3], "split_score": 0.824693685154059}
+{"sent": "large clear vase", "ann_id": 1156643, "best_split": [1, 2], "split_score": 0.573979591813856}
+{"sent": "large vase behind flowers", "ann_id": 1156643, "best_split": [1, 2], "split_score": 0.573979591813856}
+{"sent": "the vase", "ann_id": 1153361, "best_split": [1, 3], "split_score": 0.2898619704729973}
+{"sent": "vase", "ann_id": 1153361, "best_split": [1, 3], "split_score": 0.2898619704729973}

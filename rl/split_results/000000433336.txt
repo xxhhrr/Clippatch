@@ -1,0 +1,6 @@
+{"sent": "woman white goggle click on her face", "ann_id": 507160, "best_split": [1, 3], "split_score": 0.36040443572731}
+{"sent": "white goggles on head", "ann_id": 507160, "best_split": [1, 3], "split_score": 0.36040443572731}
+{"sent": "holding snowboards", "ann_id": 507160, "best_split": [3, 3], "split_score": 0.37174940894683317}
+{"sent": "man", "ann_id": 424469, "best_split": [3, 1], "split_score": 0.23051854690738433}
+{"sent": "taller person", "ann_id": 424469, "best_split": [3, 1], "split_score": 0.23051854690738433}
+{"sent": "taller man", "ann_id": 424469, "best_split": [1, 3], "split_score": 0.2113606340719305}

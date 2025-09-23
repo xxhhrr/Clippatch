@@ -1,0 +1,6 @@
+{"sent": "zebra looking away", "ann_id": 590825, "best_split": [3, 2], "split_score": 0.4968666069512171}
+{"sent": "butt toward camera", "ann_id": 590825, "best_split": [2, 3], "split_score": 0.3290937996633492}
+{"sent": "zebra facing away", "ann_id": 590825, "best_split": [3, 2], "split_score": 0.4968666069512171}
+{"sent": "sideway zebra", "ann_id": 589146, "best_split": [2, 2], "split_score": 0.5322580644865262}
+{"sent": "zebra showing more face", "ann_id": 589146, "best_split": [2, 2], "split_score": 0.5322580644865262}
+{"sent": "zebra with head not covered", "ann_id": 589146, "best_split": [2, 2], "split_score": 0.5322580644865262}

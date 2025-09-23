@@ -1,0 +1,6 @@
+{"sent": "zebra with head cut off", "ann_id": 1412547, "best_split": [2, 1], "split_score": 0.31704400508940356}
+{"sent": "partial z", "ann_id": 1412547, "best_split": [2, 1], "split_score": 0.31704400508940356}
+{"sent": "headless zebra", "ann_id": 1412547, "best_split": [2, 1], "split_score": 0.31704400508940356}
+{"sent": "zebra with head", "ann_id": 592518, "best_split": [2, 2], "split_score": 0.6409509441481064}
+{"sent": "zebra face", "ann_id": 592518, "best_split": [2, 2], "split_score": 0.6409509441481064}
+{"sent": "main zebra", "ann_id": 592518, "best_split": [2, 2], "split_score": 0.6409509441481064}

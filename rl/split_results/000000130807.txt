@@ -1,0 +1,5 @@
+{"sent": "guy with a on shirt", "ann_id": 1231535, "best_split": [1, 3], "split_score": 0.43241279067803357}
+{"sent": "man with a on jersey", "ann_id": 1231535, "best_split": [1, 3], "split_score": 0.43241279067803357}
+{"sent": "closest player", "ann_id": 425050, "best_split": [1, 2], "split_score": 0.5722154222547348}
+{"sent": "player closest to you", "ann_id": 425050, "best_split": [1, 2], "split_score": 0.5722154222547348}
+{"sent": "red sox", "ann_id": 425050, "best_split": [1, 2], "split_score": 0.5722154222547348}

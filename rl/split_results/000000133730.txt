@@ -1,0 +1,7 @@
+{"sent": "man in a suit getting an autograph", "ann_id": 1714797, "best_split": [2, 2], "split_score": 0.40904988263980685}
+{"sent": "man getting an autograph", "ann_id": 1714797, "best_split": [2, 1], "split_score": 0.31187071354472967}
+{"sent": "man in suit getting autograph", "ann_id": 1714797, "best_split": [2, 2], "split_score": 0.40904988263980685}
+{"sent": "man with side to the camera black jacket half of his face", "ann_id": 1288284, "best_split": [1, 3], "split_score": 0.7665198237429146}
+{"sent": "baseball player", "ann_id": 1242470, "best_split": [1, 2], "split_score": 0.5895248724254813}
+{"sent": "helmet", "ann_id": 1242470, "best_split": [1, 2], "split_score": 0.5895248724254813}
+{"sent": "player doing the signing", "ann_id": 1242470, "best_split": [1, 2], "split_score": 0.5895248724254813}

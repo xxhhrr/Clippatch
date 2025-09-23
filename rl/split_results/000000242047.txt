@@ -1,0 +1,6 @@
+{"sent": "flowers close to facing woman", "ann_id": 182160, "best_split": [5, 1], "split_score": 0.3706140350586925}
+{"sent": "boat with lady", "ann_id": 182160, "best_split": [5, 1], "split_score": 0.3706140350586925}
+{"sent": "boat with old lady riding", "ann_id": 182160, "best_split": [5, 1], "split_score": 0.3706140350586925}
+{"sent": "boat half filled with stuff", "ann_id": 182039, "best_split": [5, 1], "split_score": 0.48765260817926936}
+{"sent": "boat", "ann_id": 182039, "best_split": [2, 2], "split_score": 0.2777424819844482}
+{"sent": "boat by dock", "ann_id": 182039, "best_split": [1, 2], "split_score": 0.16689997454292121}

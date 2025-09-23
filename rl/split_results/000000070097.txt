@@ -1,0 +1,9 @@
+{"sent": "tan suitcase with stripes", "ann_id": 1188137, "best_split": [2, 2], "split_score": 0.47138073975834016}
+{"sent": "suitcase white handle", "ann_id": 1188137, "best_split": [2, 2], "split_score": 0.47138073975834016}
+{"sent": "light colored case next to small one", "ann_id": 1188137, "best_split": [2, 2], "split_score": 0.47138073975834016}
+{"sent": "larger chunky case near tan case thats flat", "ann_id": 1188122, "best_split": [3, 2], "split_score": 0.4816126679360753}
+{"sent": "white cube case with corner protectors", "ann_id": 1188122, "best_split": [3, 1], "split_score": 0.2584558617846226}
+{"sent": "light cube shape suitcase", "ann_id": 1188122, "best_split": [3, 2], "split_score": 0.4816126679360753}
+{"sent": "olive green suitcase on ground", "ann_id": 1186767, "best_split": [2, 2], "split_score": 0.49889135251038236}
+{"sent": "green case not in pile", "ann_id": 1186767, "best_split": [3, 2], "split_score": 0.5953028160709685}
+{"sent": "brown suitcase laying flat but at angle", "ann_id": 1186767, "best_split": [2, 3], "split_score": 0.2687651331486713}

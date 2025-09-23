@@ -1,0 +1,6 @@
+{"sent": "giraffe that u cant see well", "ann_id": 599668, "best_split": [1, 5], "split_score": 0.5726027396770031}
+{"sent": "bogiraffe u can barely see in red", "ann_id": 599668, "best_split": [1, 5], "split_score": 0.5726027396770031}
+{"sent": "giraffe you can only see part of", "ann_id": 599668, "best_split": [1, 5], "split_score": 0.5726027396770031}
+{"sent": "closest giraffe", "ann_id": 599355, "best_split": [1, 3], "split_score": 0.5060102209563805}
+{"sent": "taller giraffe", "ann_id": 599355, "best_split": [1, 3], "split_score": 0.5060102209563805}
+{"sent": "tallest", "ann_id": 599355, "best_split": [1, 3], "split_score": 0.5060102209563805}

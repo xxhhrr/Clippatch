@@ -1,0 +1,6 @@
+{"sent": "child", "ann_id": 1281228, "best_split": [2, 2], "split_score": 0.5306278713375465}
+{"sent": "the girl drawing on the cake wishing it were spiders instead of dora", "ann_id": 1281228, "best_split": [1, 2], "split_score": 0.5141458106462817}
+{"sent": "girl", "ann_id": 1281228, "best_split": [2, 2], "split_score": 0.5306278713375465}
+{"sent": "black clothed person", "ann_id": 509564, "best_split": [2, 1], "split_score": 0.5880172946036126}
+{"sent": "person in black", "ann_id": 509564, "best_split": [2, 1], "split_score": 0.5880172946036126}
+{"sent": "woman", "ann_id": 509564, "best_split": [2, 1], "split_score": 0.5880172946036126}

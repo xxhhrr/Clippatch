@@ -1,0 +1,15 @@
+{"sent": "black tee bhing guy in tie", "ann_id": 2151155, "best_split": [2, 2], "split_score": 0.2751308179375426}
+{"sent": "short dark gray shirt", "ann_id": 2151155, "best_split": [2, 2], "split_score": 0.2751308179375426}
+{"sent": "gray t shirt guy", "ann_id": 2151155, "best_split": [2, 2], "split_score": 0.2751308179375426}
+{"sent": "man with tie", "ann_id": 514568, "best_split": [1, 5], "split_score": 0.6804123710713906}
+{"sent": "tie", "ann_id": 514568, "best_split": [1, 5], "split_score": 0.6804123710713906}
+{"sent": "guy in light blue and tie", "ann_id": 514568, "best_split": [1, 5], "split_score": 0.6804123710713906}
+{"sent": "man with black and white tshirt jeans", "ann_id": 498705, "best_split": [1, 5], "split_score": 0.7242619227172349}
+{"sent": "guy with express shirt on", "ann_id": 498705, "best_split": [1, 5], "split_score": 0.7242619227172349}
+{"sent": "guy in black t shirt", "ann_id": 498705, "best_split": [1, 5], "split_score": 0.7242619227172349}
+{"sent": "the girl", "ann_id": 497906, "best_split": [1, 5], "split_score": 0.5241320106329519}
+{"sent": "woman", "ann_id": 497906, "best_split": [1, 5], "split_score": 0.5241320106329519}
+{"sent": "lady", "ann_id": 497906, "best_split": [1, 5], "split_score": 0.5241320106329519}
+{"sent": "tallest man", "ann_id": 470865, "best_split": [1, 2], "split_score": 0.3290816326399441}
+{"sent": "tallest guy", "ann_id": 470865, "best_split": [1, 2], "split_score": 0.3290816326399441}
+{"sent": "man in gray shirt", "ann_id": 470865, "best_split": [2, 1], "split_score": 0.16705750585674084}

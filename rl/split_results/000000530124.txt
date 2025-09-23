@@ -1,0 +1,8 @@
+{"sent": "blue jeans next to man with white shirt and blue jeans", "ann_id": 1731304, "best_split": [3, 1], "split_score": 0.24836452584058452}
+{"sent": "behind fence next to man with blue jeans behind helmet", "ann_id": 1731304, "best_split": [3, 3], "split_score": 0.6738694241898643}
+{"sent": "person wearing jeans sitting cross legged", "ann_id": 1731304, "best_split": [3, 1], "split_score": 0.24836452584058452}
+{"sent": "man behind fence sitting", "ann_id": 495283, "best_split": [3, 1], "split_score": 0.21731469515932605}
+{"sent": "man behind fence in tan shorts and white shirt", "ann_id": 495283, "best_split": [3, 3], "split_score": 0.6243671953046966}
+{"sent": "player in green", "ann_id": 479759, "best_split": [1, 3], "split_score": 0.5639810426301632}
+{"sent": "baseball player", "ann_id": 479759, "best_split": [1, 3], "split_score": 0.5639810426301632}
+{"sent": "boy", "ann_id": 479759, "best_split": [1, 3], "split_score": 0.5639810426301632}

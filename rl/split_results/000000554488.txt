@@ -1,0 +1,6 @@
+{"sent": "the black bike going out of frame in corner", "ann_id": 1360414, "best_split": [3, 2], "split_score": 0.6162908794823998}
+{"sent": "motorcycle barely visible", "ann_id": 1360414, "best_split": [3, 2], "split_score": 0.6162908794823998}
+{"sent": "black bike", "ann_id": 1360414, "best_split": [3, 2], "split_score": 0.6162908794823998}
+{"sent": "motorcycle that is fully visible", "ann_id": 149967, "best_split": [2, 3], "split_score": 0.5882698635885907}
+{"sent": "full motorcycle", "ann_id": 149967, "best_split": [2, 3], "split_score": 0.5882698635885907}
+{"sent": "bike full view", "ann_id": 149967, "best_split": [2, 3], "split_score": 0.5882698635885907}

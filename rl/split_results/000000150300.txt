@@ -1,0 +1,9 @@
+{"sent": "plastic gallong jug blue cap", "ann_id": 1482953, "best_split": [2, 3], "split_score": 0.4726665074632768}
+{"sent": "big juice", "ann_id": 1482953, "best_split": [3, 1], "split_score": 0.16821477117307346}
+{"sent": "jug with brown stuff", "ann_id": 1482953, "best_split": [2, 3], "split_score": 0.4726665074632768}
+{"sent": "ocean spray light", "ann_id": 80504, "best_split": [2, 1], "split_score": 0.0370426140627525}
+{"sent": "ocean spray", "ann_id": 80504, "best_split": [2, 1], "split_score": 0.0370426140627525}
+{"sent": "the drink that has light on it", "ann_id": 80504, "best_split": [2, 1], "split_score": 0.0370426140627525}
+{"sent": "coke 2 liter bottle", "ann_id": 78943, "best_split": [3, 2], "split_score": 0.38307449916913405}
+{"sent": "coke zero", "ann_id": 78943, "best_split": [3, 2], "split_score": 0.38307449916913405}
+{"sent": "zero soda", "ann_id": 78943, "best_split": [3, 2], "split_score": 0.38307449916913405}

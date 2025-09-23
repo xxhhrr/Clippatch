@@ -1,0 +1,9 @@
+{"sent": "yellow man", "ann_id": 2156752, "best_split": [3, 2], "split_score": 0.5574535808427105}
+{"sent": "yellow shirt", "ann_id": 2156752, "best_split": [3, 2], "split_score": 0.5574535808427105}
+{"sent": "yellow shire", "ann_id": 2156752, "best_split": [3, 2], "split_score": 0.5574535808427105}
+{"sent": "man drinking", "ann_id": 488717, "best_split": [2, 1], "split_score": 0.56432884345784}
+{"sent": "bare skin", "ann_id": 488717, "best_split": [2, 1], "split_score": 0.56432884345784}
+{"sent": "man drinking", "ann_id": 488717, "best_split": [2, 1], "split_score": 0.56432884345784}
+{"sent": "the guy on cocaine", "ann_id": 478341, "best_split": [3, 1], "split_score": 0.16530156365464835}
+{"sent": "guy white shirt", "ann_id": 478341, "best_split": [3, 2], "split_score": 0.2956058588267447}
+{"sent": "white shirt", "ann_id": 478341, "best_split": [1, 5], "split_score": 0.48383315419714434}

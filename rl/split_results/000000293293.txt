@@ -1,0 +1,6 @@
+{"sent": "darker dog", "ann_id": 17196, "best_split": [3, 1], "split_score": 0.34956732576608135}
+{"sent": "black dog", "ann_id": 17196, "best_split": [1, 2], "split_score": 0.5737597407386097}
+{"sent": "black dog", "ann_id": 17196, "best_split": [1, 2], "split_score": 0.5737597407386097}
+{"sent": "white puppy", "ann_id": 13538, "best_split": [1, 2], "split_score": 0.6694259011760662}
+{"sent": "white dog", "ann_id": 13538, "best_split": [1, 2], "split_score": 0.6694259011760662}
+{"sent": "white dog", "ann_id": 13538, "best_split": [1, 2], "split_score": 0.6694259011760662}

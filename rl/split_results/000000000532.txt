@@ -1,0 +1,6 @@
+{"sent": "front of bus mostly out of frame", "ann_id": 268085, "best_split": [3, 3], "split_score": 0.39573617581683274}
+{"sent": "farthest truck i know thats crazy", "ann_id": 268085, "best_split": [3, 3], "split_score": 0.39573617581683274}
+{"sent": "not full bus", "ann_id": 268085, "best_split": [3, 3], "split_score": 0.39573617581683274}
+{"sent": "full red bus", "ann_id": 164870, "best_split": [3, 1], "split_score": 0.4902073732517196}
+{"sent": "red bus with man", "ann_id": 164870, "best_split": [3, 1], "split_score": 0.4902073732517196}
+{"sent": "red bus with man walking near door", "ann_id": 164870, "best_split": [3, 1], "split_score": 0.4902073732517196}

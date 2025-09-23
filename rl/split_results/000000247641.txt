@@ -1,0 +1,5 @@
+{"sent": "horse by fence", "ann_id": 59769, "best_split": [1, 2], "split_score": 0.4966517856944893}
+{"sent": "horse closest to fence", "ann_id": 59769, "best_split": [1, 2], "split_score": 0.4966517856944893}
+{"sent": "complete horse", "ann_id": 57284, "best_split": [1, 3], "split_score": 0.46157400275444427}
+{"sent": "full side view horse", "ann_id": 57284, "best_split": [1, 3], "split_score": 0.46157400275444427}
+{"sent": "horse most seen", "ann_id": 57284, "best_split": [1, 3], "split_score": 0.46157400275444427}

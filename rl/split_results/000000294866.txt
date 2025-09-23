@@ -1,0 +1,15 @@
+{"sent": "girl with orange whale bag click on jacket", "ann_id": 569527, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "woman with tan bag", "ann_id": 569527, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "girl with white bag", "ann_id": 569527, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "furry hood", "ann_id": 567830, "best_split": [1, 2], "split_score": 0.2917705735547159}
+{"sent": "fur hood up", "ann_id": 567830, "best_split": [1, 2], "split_score": 0.2917705735547159}
+{"sent": "woman with black jacket facing man", "ann_id": 567830, "best_split": [3, 1], "split_score": 0.1443433029841936}
+{"sent": "red shoe girl", "ann_id": 567517, "best_split": [2, 3], "split_score": 0.3330751355215845}
+{"sent": "jeans red shoes girl", "ann_id": 567517, "best_split": [2, 3], "split_score": 0.3330751355215845}
+{"sent": "person in red shoe", "ann_id": 567517, "best_split": [2, 3], "split_score": 0.3330751355215845}
+{"sent": "stripped shirt", "ann_id": 567472, "best_split": [1, 5], "split_score": 0.26856240123730624}
+{"sent": "woman under umbrella bw 2 others", "ann_id": 567472, "best_split": [1, 5], "split_score": 0.26856240123730624}
+{"sent": "girl between two girls under umbrella", "ann_id": 567472, "best_split": [1, 5], "split_score": 0.26856240123730624}
+{"sent": "light blue cap", "ann_id": 515516, "best_split": [1, 3], "split_score": 0.5640072054992151}
+{"sent": "blue hat", "ann_id": 515516, "best_split": [1, 3], "split_score": 0.5640072054992151}
+{"sent": "man in blue hat", "ann_id": 515516, "best_split": [1, 3], "split_score": 0.5640072054992151}

@@ -1,0 +1,13 @@
+{"sent": "person with old style baseball uniform sitting alone near the bats", "ann_id": 1212859, "best_split": [3, 2], "split_score": 0.25298036463420576}
+{"sent": "kid at 3pm", "ann_id": 1212859, "best_split": [3, 2], "split_score": 0.25298036463420576}
+{"sent": "kid sitting closest to bats", "ann_id": 1279687, "best_split": [1, 5], "split_score": 0.2749464667858718}
+{"sent": "a little boy", "ann_id": 1279687, "best_split": [1, 5], "split_score": 0.2749464667858718}
+{"sent": "person with 2 bats", "ann_id": 1279687, "best_split": [1, 5], "split_score": 0.2749464667858718}
+{"sent": "man with ball or hat in hands", "ann_id": 1266483, "best_split": [2, 1], "split_score": 0.12942209019276862}
+{"sent": "boy on edge wearing tie with pants rolled", "ann_id": 1266483, "best_split": [1, 2], "split_score": 0.3336256377418038}
+{"sent": "guy smirking wearing tie next to boy in white shirt", "ann_id": 1266483, "best_split": [2, 2], "split_score": 0.27695689337666646}
+{"sent": "man in suit", "ann_id": 1235386, "best_split": [1, 5], "split_score": 0.5456490727045605}
+{"sent": "in the m i d d left e", "ann_id": 1235386, "best_split": [2, 3], "split_score": 0.3659043658726694}
+{"sent": "white shirt hands on knees", "ann_id": 1225821, "best_split": [3, 1], "split_score": 0.1592539454724711}
+{"sent": "boy in white shirt farther from equiptment", "ann_id": 1225821, "best_split": [5, 1], "split_score": 0.12475247523870209}
+{"sent": "white shirt no x", "ann_id": 1225821, "best_split": [1, 5], "split_score": 0.6136363635741034}

@@ -1,0 +1,6 @@
+{"sent": "person holding boy", "ann_id": 447755, "best_split": [2, 1], "split_score": 0.6016445591320555}
+{"sent": "man holding baby", "ann_id": 447755, "best_split": [2, 1], "split_score": 0.6016445591320555}
+{"sent": "hand holding kid", "ann_id": 447755, "best_split": [2, 1], "split_score": 0.6016445591320555}
+{"sent": "baby", "ann_id": 423420, "best_split": [1, 2], "split_score": 0.5171151090473056}
+{"sent": "boy", "ann_id": 423420, "best_split": [1, 2], "split_score": 0.5171151090473056}
+{"sent": "kid", "ann_id": 423420, "best_split": [1, 2], "split_score": 0.5171151090473056}

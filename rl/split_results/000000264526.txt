@@ -1,0 +1,12 @@
+{"sent": "man in black clothes alone", "ann_id": 1241081, "best_split": [3, 2], "split_score": 0.25362903223249705}
+{"sent": "black jacket open", "ann_id": 1241081, "best_split": [2, 2], "split_score": 0.16629401899341154}
+{"sent": "guy with sweater and coat looking away", "ann_id": 1241081, "best_split": [2, 2], "split_score": 0.16629401899341154}
+{"sent": "pink pants", "ann_id": 1221195, "best_split": [1, 5], "split_score": 0.5010141987406175}
+{"sent": "red pants", "ann_id": 1221195, "best_split": [1, 5], "split_score": 0.5010141987406175}
+{"sent": "red pants", "ann_id": 1221195, "best_split": [1, 5], "split_score": 0.5010141987406175}
+{"sent": "guy in sunglasses and gray black coat", "ann_id": 1733276, "best_split": [1, 3], "split_score": 0.45547823434472096}
+{"sent": "man gray and black", "ann_id": 1733276, "best_split": [1, 3], "split_score": 0.45547823434472096}
+{"sent": "man with shades careful small click area not his kid", "ann_id": 1733276, "best_split": [1, 3], "split_score": 0.45547823434472096}
+{"sent": "kid by dad", "ann_id": 1256384, "best_split": [3, 3], "split_score": 0.27505203683094676}
+{"sent": "small kid by man", "ann_id": 1256384, "best_split": [3, 3], "split_score": 0.27505203683094676}
+{"sent": "smallest kid", "ann_id": 1256384, "best_split": [3, 3], "split_score": 0.27505203683094676}

@@ -1,0 +1,6 @@
+{"sent": "purple toy", "ann_id": 1674005, "best_split": [1, 2], "split_score": 0.6310985331381099}
+{"sent": "pink animal by tag", "ann_id": 1674005, "best_split": [1, 3], "split_score": 0.9292219774433464}
+{"sent": "pink with bulging white eyes", "ann_id": 1674005, "best_split": [1, 3], "split_score": 0.9292219774433464}
+{"sent": "da bears", "ann_id": 1162830, "best_split": [1, 2], "split_score": 0.5090067757290323}
+{"sent": "main bear", "ann_id": 1162830, "best_split": [1, 2], "split_score": 0.5090067757290323}
+{"sent": "the sugar loaf toys tag on the bear", "ann_id": 1162830, "best_split": [1, 2], "split_score": 0.5090067757290323}

@@ -1,0 +1,6 @@
+{"sent": "shortest", "ann_id": 1737054, "best_split": [3, 3], "split_score": 0.5157824042115878}
+{"sent": "smaller boy", "ann_id": 1737054, "best_split": [5, 1], "split_score": 0.1869688385103604}
+{"sent": "smallest boy", "ann_id": 1737054, "best_split": [5, 1], "split_score": 0.1869688385103604}
+{"sent": "taller boy", "ann_id": 528457, "best_split": [1, 5], "split_score": 0.4350832060105247}
+{"sent": "older boy smiling", "ann_id": 528457, "best_split": [1, 5], "split_score": 0.4350832060105247}
+{"sent": "taller kid", "ann_id": 528457, "best_split": [1, 5], "split_score": 0.4350832060105247}

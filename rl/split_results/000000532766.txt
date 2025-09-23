@@ -1,0 +1,6 @@
+{"sent": "two pizzas", "ann_id": 1071744, "best_split": [1, 2], "split_score": 0.6189840082203357}
+{"sent": "pizza in a bag with another in the back of it", "ann_id": 1071744, "best_split": [1, 2], "split_score": 0.6189840082203357}
+{"sent": "two circle pizzas", "ann_id": 1071744, "best_split": [1, 2], "split_score": 0.6189840082203357}
+{"sent": "single pizza behind sign", "ann_id": 1071032, "best_split": [3, 2], "split_score": 0.6213845866186429}
+{"sent": "pizza with sign", "ann_id": 1071032, "best_split": [3, 2], "split_score": 0.6213845866186429}
+{"sent": "closest to the price thing", "ann_id": 1071032, "best_split": [1, 3], "split_score": 0.41083992961681837}

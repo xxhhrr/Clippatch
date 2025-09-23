@@ -1,0 +1,7 @@
+{"sent": "last one in line", "ann_id": 592510, "best_split": [3, 1], "split_score": 0.18987637041113387}
+{"sent": "zebra tail facing 9 o clock", "ann_id": 592261, "best_split": [3, 2], "split_score": 0.3404907975087105}
+{"sent": "the zebra under the tree but not at the end", "ann_id": 592261, "best_split": [1, 5], "split_score": 0.3491008600127931}
+{"sent": "zebra 3", "ann_id": 592261, "best_split": [3, 2], "split_score": 0.3404907975087105}
+{"sent": "lone zebra", "ann_id": 590376, "best_split": [1, 5], "split_score": 0.3519061583255218}
+{"sent": "zebra 1", "ann_id": 590376, "best_split": [1, 5], "split_score": 0.3519061583255218}
+{"sent": "zebra looking away and not eatingj", "ann_id": 590376, "best_split": [1, 5], "split_score": 0.3519061583255218}

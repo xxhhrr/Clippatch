@@ -1,0 +1,12 @@
+{"sent": "black shirt", "ann_id": 1756176, "best_split": [1, 2], "split_score": 0.7605229591533592}
+{"sent": "black shirt", "ann_id": 1756176, "best_split": [1, 2], "split_score": 0.7605229591533592}
+{"sent": "black shirt guy", "ann_id": 1756176, "best_split": [1, 2], "split_score": 0.7605229591533592}
+{"sent": "man in blue shirt", "ann_id": 562512, "best_split": [1, 2], "split_score": 0.7796012059483486}
+{"sent": "blue shirt", "ann_id": 562512, "best_split": [1, 2], "split_score": 0.7796012059483486}
+{"sent": "blue shirt", "ann_id": 562512, "best_split": [1, 2], "split_score": 0.7796012059483486}
+{"sent": "guy next to the guy in the black shirt", "ann_id": 559300, "best_split": [2, 1], "split_score": 0.19121200775360905}
+{"sent": "gray haired soldier", "ann_id": 559300, "best_split": [1, 5], "split_score": 0.5612510859678342}
+{"sent": "army man with flag on sleeve", "ann_id": 559300, "best_split": [1, 5], "split_score": 0.5612510859678342}
+{"sent": "brown hair", "ann_id": 423018, "best_split": [1, 3], "split_score": 0.4968088679640669}
+{"sent": "brown hair", "ann_id": 423018, "best_split": [1, 3], "split_score": 0.4968088679640669}
+{"sent": "camo with no flag", "ann_id": 423018, "best_split": [1, 3], "split_score": 0.4968088679640669}

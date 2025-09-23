@@ -1,0 +1,6 @@
+{"sent": "oven guy is reaching into", "ann_id": 2139653, "best_split": [3, 2], "split_score": 0.6213255575205827}
+{"sent": "oven that man is putting something into", "ann_id": 2139653, "best_split": [1, 2], "split_score": 0.4356009679854185}
+{"sent": "oven by guy in hat", "ann_id": 2139653, "best_split": [1, 2], "split_score": 0.4356009679854185}
+{"sent": "the stove", "ann_id": 1641550, "best_split": [2, 1], "split_score": 0.6623796602363164}
+{"sent": "stovetops with small pots", "ann_id": 1641550, "best_split": [2, 1], "split_score": 0.6623796602363164}
+{"sent": "stovetop", "ann_id": 1641550, "best_split": [2, 1], "split_score": 0.6623796602363164}

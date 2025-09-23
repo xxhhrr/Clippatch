@@ -1,0 +1,6 @@
+{"sent": "white bus at edge of photo", "ann_id": 169266, "best_split": [3, 3], "split_score": 0.5398230087520637}
+{"sent": "all white bus", "ann_id": 169266, "best_split": [3, 3], "split_score": 0.5398230087520637}
+{"sent": "white bus", "ann_id": 169266, "best_split": [3, 3], "split_score": 0.5398230087520637}
+{"sent": "bus with advertising", "ann_id": 169100, "best_split": [3, 1], "split_score": 0.1911196911081612}
+{"sent": "truck with blue designs", "ann_id": 169100, "best_split": [3, 2], "split_score": 0.31920773833265687}
+{"sent": "smaller bus", "ann_id": 169100, "best_split": [3, 1], "split_score": 0.1911196911081612}

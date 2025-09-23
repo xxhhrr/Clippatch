@@ -1,0 +1,9 @@
+{"sent": "little sheep facing us", "ann_id": 64405, "best_split": [3, 2], "split_score": 0.32363847041441035}
+{"sent": "little sheep looking at camera", "ann_id": 64405, "best_split": [3, 2], "split_score": 0.32363847041441035}
+{"sent": "smallest sheep", "ann_id": 64405, "best_split": [3, 2], "split_score": 0.32363847041441035}
+{"sent": "big sheep", "ann_id": 63000, "best_split": [2, 2], "split_score": 0.27787906409314195}
+{"sent": "largest", "ann_id": 63000, "best_split": [2, 2], "split_score": 0.27787906409314195}
+{"sent": "farthest sheep", "ann_id": 63000, "best_split": [2, 2], "split_score": 0.27787906409314195}
+{"sent": "sheep in between", "ann_id": 62553, "best_split": [2, 3], "split_score": 0.333043099659007}
+{"sent": "medium size sheep", "ann_id": 62553, "best_split": [2, 3], "split_score": 0.333043099659007}
+{"sent": "sheep with head turned", "ann_id": 62553, "best_split": [2, 3], "split_score": 0.333043099659007}

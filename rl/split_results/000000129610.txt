@@ -1,0 +1,15 @@
+{"sent": "shortest woman", "ann_id": 1279406, "best_split": [1, 2], "split_score": 0.32087053570149593}
+{"sent": "the closest person in white", "ann_id": 1279406, "best_split": [1, 5], "split_score": 0.7544581617916463}
+{"sent": "close lady", "ann_id": 1279406, "best_split": [1, 2], "split_score": 0.32087053570149593}
+{"sent": "person holding black and white cow", "ann_id": 1237712, "best_split": [2, 2], "split_score": 0.18182436567704072}
+{"sent": "woman touching the black and white cow", "ann_id": 1237712, "best_split": [2, 2], "split_score": 0.18182436567704072}
+{"sent": "tall blond girl standing", "ann_id": 1237712, "best_split": [3, 3], "split_score": 0.33566614821984625}
+{"sent": "brown and white cow", "ann_id": 75292, "best_split": [3, 3], "split_score": 0.3953488371471796}
+{"sent": "brown and white cow", "ann_id": 75292, "best_split": [3, 3], "split_score": 0.3953488371471796}
+{"sent": "brown cow with lots of white", "ann_id": 75292, "best_split": [3, 3], "split_score": 0.3953488371471796}
+{"sent": "black and white cow", "ann_id": 71415, "best_split": [3, 2], "split_score": 0.256264004862878}
+{"sent": "black and white cow", "ann_id": 71415, "best_split": [3, 2], "split_score": 0.256264004862878}
+{"sent": "black white cow", "ann_id": 71415, "best_split": [3, 2], "split_score": 0.256264004862878}
+{"sent": "closet cow", "ann_id": 70890, "best_split": [1, 5], "split_score": 0.5401009111725205}
+{"sent": "brown cow", "ann_id": 70890, "best_split": [1, 5], "split_score": 0.5401009111725205}
+{"sent": "brown cow in foreground", "ann_id": 70890, "best_split": [1, 5], "split_score": 0.5401009111725205}

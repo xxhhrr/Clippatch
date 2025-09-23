@@ -1,0 +1,6 @@
+{"sent": "hotdog on edge of plate", "ann_id": 1569016, "best_split": [2, 3], "split_score": 0.6278827812876814}
+{"sent": "hotdog farthest from corn", "ann_id": 1569016, "best_split": [2, 3], "split_score": 0.6278827812876814}
+{"sent": "dog on side", "ann_id": 1569016, "best_split": [2, 3], "split_score": 0.6278827812876814}
+{"sent": "hot dog nearest fork", "ann_id": 1568577, "best_split": [3, 2], "split_score": 0.4106111279712214}
+{"sent": "the in focus dog with sear marks", "ann_id": 1568577, "best_split": [3, 2], "split_score": 0.4106111279712214}
+{"sent": "in between dog", "ann_id": 1568577, "best_split": [3, 2], "split_score": 0.4106111279712214}

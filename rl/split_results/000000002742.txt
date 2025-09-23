@@ -1,0 +1,3 @@
+{"sent": "white shirt cook", "ann_id": 422956, "best_split": [3, 3], "split_score": 0.4582914572096664}
+{"sent": "person by bowl", "ann_id": 422956, "best_split": [1, 5], "split_score": 0.3277191558109051}
+{"sent": "person furthest away", "ann_id": 422956, "best_split": [1, 5], "split_score": 0.3277191558109051}

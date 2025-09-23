@@ -1,0 +1,6 @@
+{"sent": "green vase", "ann_id": 1157250, "best_split": [3, 1], "split_score": 0.24623269332799538}
+{"sent": "tallest vase", "ann_id": 1157250, "best_split": [3, 1], "split_score": 0.24623269332799538}
+{"sent": "lighter and taller vase", "ann_id": 1157250, "best_split": [3, 1], "split_score": 0.24623269332799538}
+{"sent": "blue vase", "ann_id": 1155695, "best_split": [1, 2], "split_score": 0.5389030612030092}
+{"sent": "darker blue vase", "ann_id": 1155695, "best_split": [1, 2], "split_score": 0.5389030612030092}
+{"sent": "shorter of the 2 vases", "ann_id": 1155695, "best_split": [1, 2], "split_score": 0.5389030612030092}

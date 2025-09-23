@@ -1,0 +1,15 @@
+{"sent": "green shirt", "ann_id": 1725574, "best_split": [2, 3], "split_score": 0.5845801157595825}
+{"sent": "man throwing football", "ann_id": 1725574, "best_split": [2, 2], "split_score": 0.3862404336426785}
+{"sent": "green shirt", "ann_id": 1725574, "best_split": [2, 3], "split_score": 0.5845801157595825}
+{"sent": "boy in red shirt", "ann_id": 1211770, "best_split": [1, 5], "split_score": 0.3863636363293356}
+{"sent": "red shirt", "ann_id": 1211770, "best_split": [1, 5], "split_score": 0.3863636363293356}
+{"sent": "boy in red", "ann_id": 1211770, "best_split": [1, 5], "split_score": 0.3863636363293356}
+{"sent": "white shirt and shorts", "ann_id": 568203, "best_split": [2, 3], "split_score": 0.27741319648282864}
+{"sent": "white shirt and white shorts", "ann_id": 568203, "best_split": [2, 3], "split_score": 0.27741319648282864}
+{"sent": "full white clothes man", "ann_id": 568203, "best_split": [2, 3], "split_score": 0.27741319648282864}
+{"sent": "man walking away", "ann_id": 562585, "best_split": [1, 5], "split_score": 0.428916127745496}
+{"sent": "man with camo shorts", "ann_id": 562585, "best_split": [2, 3], "split_score": 0.597128378306331}
+{"sent": "gray sleevless", "ann_id": 562585, "best_split": [3, 1], "split_score": 0.17366412212793544}
+{"sent": "white shirt big tummy", "ann_id": 556085, "best_split": [2, 3], "split_score": 0.2791538215925211}
+{"sent": "white shirt blue shorts white hat guy", "ann_id": 556085, "best_split": [2, 3], "split_score": 0.2791538215925211}
+{"sent": "blue shorts and white shirt", "ann_id": 556085, "best_split": [2, 3], "split_score": 0.2791538215925211}

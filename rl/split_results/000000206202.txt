@@ -1,0 +1,6 @@
+{"sent": "zebra facing her", "ann_id": 589240, "best_split": [3, 2], "split_score": 0.2991427726574891}
+{"sent": "zebra closest to man", "ann_id": 589240, "best_split": [3, 2], "split_score": 0.2991427726574891}
+{"sent": "zebra face toward woman", "ann_id": 589240, "best_split": [3, 2], "split_score": 0.2991427726574891}
+{"sent": "zebra near more rocks", "ann_id": 588510, "best_split": [3, 3], "split_score": 0.694021101891263}
+{"sent": "zebra closest to us", "ann_id": 588510, "best_split": [3, 3], "split_score": 0.694021101891263}
+{"sent": "but zebra", "ann_id": 588510, "best_split": [3, 3], "split_score": 0.694021101891263}

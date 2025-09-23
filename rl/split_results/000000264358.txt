@@ -1,0 +1,12 @@
+{"sent": "guy with glasses in hotdog", "ann_id": 1070475, "best_split": [3, 1], "split_score": 0.1634705771684776}
+{"sent": "last hotdog", "ann_id": 1070475, "best_split": [3, 1], "split_score": 0.1634705771684776}
+{"sent": "bun covered by hand", "ann_id": 1070475, "best_split": [3, 1], "split_score": 0.1634705771684776}
+{"sent": "the one with just mustard and ketchup sticking his head out the most", "ann_id": 1070350, "best_split": [3, 3], "split_score": 0.42035070382559264}
+{"sent": "hot dogs with no visible writing", "ann_id": 1070350, "best_split": [3, 1], "split_score": 0.17731013646331337}
+{"sent": "third hotdog boy", "ann_id": 1070350, "best_split": [3, 1], "split_score": 0.17731013646331337}
+{"sent": "leftmost short hotdog", "ann_id": 1070109, "best_split": [1, 5], "split_score": 0.45892351270724824}
+{"sent": "hot dog with just mustard and ketchup fully visable", "ann_id": 1070109, "best_split": [1, 5], "split_score": 0.45892351270724824}
+{"sent": "below book", "ann_id": 1070109, "best_split": [1, 2], "split_score": 0.2640306122343738}
+{"sent": "biggest hotdog but not the kid with glasses", "ann_id": 1069495, "best_split": [1, 3], "split_score": 0.46899131271301936}
+{"sent": "tallest dog without glasses", "ann_id": 1069495, "best_split": [1, 5], "split_score": 0.6218951241378201}
+{"sent": "lead hot dog clearly visible", "ann_id": 1069495, "best_split": [1, 3], "split_score": 0.46899131271301936}

@@ -1,0 +1,5 @@
+{"sent": "the table is holding a meal", "ann_id": 1966282, "best_split": [2, 1], "split_score": 0.700305550820452}
+{"sent": "wooden tray that pizza is on", "ann_id": 1966282, "best_split": [2, 1], "split_score": 0.700305550820452}
+{"sent": "table under pizza", "ann_id": 1966282, "best_split": [2, 1], "split_score": 0.700305550820452}
+{"sent": "edge of cutting board closest to fork", "ann_id": 1965214, "best_split": [2, 2], "split_score": 0.5336863245977915}
+{"sent": "table under lower pizza near white towel", "ann_id": 1965214, "best_split": [2, 3], "split_score": 0.5765148663472702}

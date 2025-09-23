@@ -1,0 +1,6 @@
+{"sent": "pie on board", "ann_id": 1075094, "best_split": [2, 2], "split_score": 0.2869897958954887}
+{"sent": "pizza on battered pan", "ann_id": 1075094, "best_split": [2, 3], "split_score": 0.1926163723723298}
+{"sent": "far food", "ann_id": 1075094, "best_split": [2, 1], "split_score": 0.143494897953464}
+{"sent": "pizza closest to 3 olcock", "ann_id": 1073662, "best_split": [3, 2], "split_score": 0.5083459787005912}
+{"sent": "pizza on silver pan", "ann_id": 1073662, "best_split": [3, 2], "split_score": 0.5083459787005912}
+{"sent": "dish on pan closest to us", "ann_id": 1073662, "best_split": [2, 2], "split_score": 0.2260153825242197}

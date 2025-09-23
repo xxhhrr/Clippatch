@@ -1,0 +1,11 @@
+{"sent": "carrots and pineapple", "ann_id": 2185931, "best_split": [2, 2], "split_score": 0.4620535713917368}
+{"sent": "carrots", "ann_id": 2185931, "best_split": [2, 2], "split_score": 0.4620535713917368}
+{"sent": "carrots pineapples raspberries", "ann_id": 2185931, "best_split": [2, 2], "split_score": 0.4620535713917368}
+{"sent": "has pink triangle", "ann_id": 1536890, "best_split": [3, 2], "split_score": 0.3829747888563783}
+{"sent": "grapes", "ann_id": 1536890, "best_split": [2, 2], "split_score": 0.6123225611227833}
+{"sent": "striped cookie", "ann_id": 1040562, "best_split": [2, 2], "split_score": 0.49403341285098196}
+{"sent": "container with cookie", "ann_id": 1040562, "best_split": [2, 2], "split_score": 0.49403341285098196}
+{"sent": "cookie with stripes", "ann_id": 1040562, "best_split": [2, 2], "split_score": 0.49403341285098196}
+{"sent": "strawberries and green garnish", "ann_id": 1038133, "best_split": [5, 1], "split_score": 0.350724637658055}
+{"sent": "container with strawberries", "ann_id": 1038133, "best_split": [2, 1], "split_score": 0.4244260203912458}
+{"sent": "strawberries and bread", "ann_id": 1038133, "best_split": [2, 1], "split_score": 0.4244260203912458}

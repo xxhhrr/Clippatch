@@ -1,0 +1,12 @@
+{"sent": "woman white hair", "ann_id": 510855, "best_split": [1, 5], "split_score": 0.30851718376474313}
+{"sent": "old lady in white", "ann_id": 510855, "best_split": [3, 3], "split_score": 0.4344027303161225}
+{"sent": "old lady", "ann_id": 510855, "best_split": [1, 5], "split_score": 0.30851718376474313}
+{"sent": "red shirt man", "ann_id": 494453, "best_split": [3, 3], "split_score": 0.39762443433291506}
+{"sent": "man in red brown shorts", "ann_id": 494453, "best_split": [1, 5], "split_score": 0.44724025969488224}
+{"sent": "red shirt brown shorts", "ann_id": 494453, "best_split": [1, 5], "split_score": 0.44724025969488224}
+{"sent": "orange guy", "ann_id": 465887, "best_split": [1, 2], "split_score": 0.4637493526550039}
+{"sent": "black socks", "ann_id": 465887, "best_split": [1, 2], "split_score": 0.4637493526550039}
+{"sent": "white man coaching", "ann_id": 465887, "best_split": [2, 1], "split_score": 0.35122860693299485}
+{"sent": "the man in white pants", "ann_id": 451559, "best_split": [1, 2], "split_score": 0.7762675382343643}
+{"sent": "thanks buy in blue with lighter shoes", "ann_id": 451559, "best_split": [2, 1], "split_score": 0.29909920414252106}
+{"sent": "blue shirt being patted by leland", "ann_id": 451559, "best_split": [1, 2], "split_score": 0.7762675382343643}

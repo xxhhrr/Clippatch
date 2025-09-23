@@ -1,0 +1,5 @@
+{"sent": "closest goat 7 o clock", "ann_id": 65396, "best_split": [3, 2], "split_score": 0.8742616032833057}
+{"sent": "closer sheep can see both ears", "ann_id": 65396, "best_split": [2, 2], "split_score": 0.6715239829484271}
+{"sent": "sheep at about 800", "ann_id": 64984, "best_split": [2, 2], "split_score": 0.34279336731961146}
+{"sent": "fat ear looking at you", "ann_id": 63354, "best_split": [1, 3], "split_score": 0.13114754097634318}
+{"sent": "the back of the sheep who is facing another sheeps butt", "ann_id": 63354, "best_split": [3, 2], "split_score": 0.4461391801184295}

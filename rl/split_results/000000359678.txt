@@ -1,0 +1,5 @@
+{"sent": "toothbrush with no toothpaste", "ann_id": 342583, "best_split": [2, 2], "split_score": 0.41622116996974023}
+{"sent": "b toothbrush without toothpaste on it", "ann_id": 342583, "best_split": [2, 2], "split_score": 0.41622116996974023}
+{"sent": "paste", "ann_id": 341996, "best_split": [2, 3], "split_score": 0.5723244146758414}
+{"sent": "closest toothbrush with paste", "ann_id": 341996, "best_split": [2, 3], "split_score": 0.5723244146758414}
+{"sent": "closest tooothbrush", "ann_id": 341996, "best_split": [2, 3], "split_score": 0.5723244146758414}

@@ -1,0 +1,6 @@
+{"sent": "yellow and blue boat", "ann_id": 250837, "best_split": [3, 2], "split_score": 0.48875401639362404}
+{"sent": "boat painted red yellow blue white red", "ann_id": 250837, "best_split": [3, 2], "split_score": 0.48875401639362404}
+{"sent": "larger boat under canopy", "ann_id": 250837, "best_split": [3, 2], "split_score": 0.48875401639362404}
+{"sent": "boat in water", "ann_id": 175483, "best_split": [3, 1], "split_score": 0.5999638030526083}
+{"sent": "boat near camera", "ann_id": 175483, "best_split": [3, 1], "split_score": 0.5999638030526083}
+{"sent": "brown crappy looking boat with lady sitting in it", "ann_id": 175483, "best_split": [3, 1], "split_score": 0.5999638030526083}

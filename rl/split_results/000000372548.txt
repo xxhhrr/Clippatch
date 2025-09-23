@@ -1,0 +1,5 @@
+{"sent": "elephant with its trunk up", "ann_id": 583451, "best_split": [3, 3], "split_score": 0.38829151727738453}
+{"sent": "elephant with trunk up in the air", "ann_id": 583451, "best_split": [3, 3], "split_score": 0.38829151727738453}
+{"sent": "biggest elephant", "ann_id": 580327, "best_split": [2, 2], "split_score": 0.3112228858604823}
+{"sent": "sideways elephant drinking", "ann_id": 580327, "best_split": [2, 2], "split_score": 0.3112228858604823}
+{"sent": "large elephant with trunk down", "ann_id": 580327, "best_split": [2, 2], "split_score": 0.3112228858604823}

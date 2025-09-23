@@ -1,0 +1,9 @@
+{"sent": "bowl in silver pot next to the bowl of carrots", "ann_id": 716308, "best_split": [2, 3], "split_score": 0.289213320428425}
+{"sent": "empty bowl", "ann_id": 716308, "best_split": [2, 3], "split_score": 0.289213320428425}
+{"sent": "empty bowl", "ann_id": 716308, "best_split": [2, 3], "split_score": 0.289213320428425}
+{"sent": "human hand", "ann_id": 478314, "best_split": [3, 2], "split_score": 0.5212355211726308}
+{"sent": "knife hand", "ann_id": 478314, "best_split": [3, 2], "split_score": 0.5212355211726308}
+{"sent": "hand thats holding knife", "ann_id": 478314, "best_split": [3, 2], "split_score": 0.5212355211726308}
+{"sent": "hand with ring in dark", "ann_id": 452654, "best_split": [3, 3], "split_score": 0.6166314304762806}
+{"sent": "ring hand", "ann_id": 452654, "best_split": [3, 3], "split_score": 0.6166314304762806}
+{"sent": "hand with ring", "ann_id": 452654, "best_split": [3, 3], "split_score": 0.6166314304762806}

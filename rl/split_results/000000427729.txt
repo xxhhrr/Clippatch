@@ -1,0 +1,7 @@
+{"sent": "cow with head raised", "ann_id": 2177159, "best_split": [3, 2], "split_score": 0.700680272044431}
+{"sent": "cow looking up", "ann_id": 2177159, "best_split": [3, 2], "split_score": 0.700680272044431}
+{"sent": "cow with head up", "ann_id": 2177159, "best_split": [3, 2], "split_score": 0.700680272044431}
+{"sent": "cow with its head up", "ann_id": 2177159, "best_split": [3, 2], "split_score": 0.700680272044431}
+{"sent": "cow with head down", "ann_id": 72526, "best_split": [2, 2], "split_score": 0.4840122645338832}
+{"sent": "cow eating", "ann_id": 72526, "best_split": [2, 2], "split_score": 0.4840122645338832}
+{"sent": "eating cow", "ann_id": 72526, "best_split": [2, 2], "split_score": 0.4840122645338832}

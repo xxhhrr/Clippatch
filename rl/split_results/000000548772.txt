@@ -1,0 +1,6 @@
+{"sent": "black and tan dog", "ann_id": 16735, "best_split": [2, 3], "split_score": 0.7343274177534046}
+{"sent": "dark dog", "ann_id": 16735, "best_split": [2, 3], "split_score": 0.7343274177534046}
+{"sent": "black dog", "ann_id": 16735, "best_split": [2, 3], "split_score": 0.7343274177534046}
+{"sent": "white and black dog", "ann_id": 11630, "best_split": [3, 3], "split_score": 0.42150597382307503}
+{"sent": "dog with white patch", "ann_id": 11630, "best_split": [3, 3], "split_score": 0.42150597382307503}
+{"sent": "area below the y part of the plate", "ann_id": 11630, "best_split": [1, 3], "split_score": 0.28692084940354}

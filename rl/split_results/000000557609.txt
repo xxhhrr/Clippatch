@@ -1,0 +1,12 @@
+{"sent": "box with orange", "ann_id": 1040447, "best_split": [2, 2], "split_score": 0.5472206803150249}
+{"sent": "orange", "ann_id": 1040447, "best_split": [2, 2], "split_score": 0.5472206803150249}
+{"sent": "an orange is inside", "ann_id": 1040447, "best_split": [3, 2], "split_score": 0.4169220766771689}
+{"sent": "yellow", "ann_id": 1039512, "best_split": [2, 2], "split_score": 0.7483543608921863}
+{"sent": "sliced yellow squash", "ann_id": 1039512, "best_split": [2, 2], "split_score": 0.7483543608921863}
+{"sent": "yellow", "ann_id": 1039512, "best_split": [2, 2], "split_score": 0.7483543608921863}
+{"sent": "potatoes", "ann_id": 1039067, "best_split": [1, 2], "split_score": 0.4393872764424147}
+{"sent": "yellow bowl", "ann_id": 1039067, "best_split": [1, 2], "split_score": 0.4393872764424147}
+{"sent": "meat", "ann_id": 1039067, "best_split": [2, 2], "split_score": 0.7738703469727377}
+{"sent": "carrots", "ann_id": 1037795, "best_split": [2, 3], "split_score": 0.584657423278549}
+{"sent": "carrots", "ann_id": 1037795, "best_split": [2, 3], "split_score": 0.584657423278549}
+{"sent": "carrots i think blue tray", "ann_id": 1037795, "best_split": [2, 3], "split_score": 0.584657423278549}

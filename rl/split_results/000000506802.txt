@@ -1,0 +1,5 @@
+{"sent": "shadowy i dont know what it is", "ann_id": 1319912, "best_split": [1, 5], "split_score": 0.37959183669948127}
+{"sent": "nearest black figure", "ann_id": 1319912, "best_split": [1, 5], "split_score": 0.37959183669948127}
+{"sent": "dark silhouette full person next to white shirt on side", "ann_id": 1256922, "best_split": [3, 1], "split_score": 0.09322033897811333}
+{"sent": "largest silhouetted person near white shirt", "ann_id": 1256922, "best_split": [2, 2], "split_score": 0.26277372260775744}
+{"sent": "dark figure of person at 7 o clock", "ann_id": 1256922, "best_split": [1, 2], "split_score": 0.16198979591191048}

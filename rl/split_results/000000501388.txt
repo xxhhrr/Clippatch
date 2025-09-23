@@ -1,0 +1,6 @@
+{"sent": "half persons arm", "ann_id": 475798, "best_split": [1, 5], "split_score": 0.859190254312147}
+{"sent": "hand holding banana", "ann_id": 475798, "best_split": [1, 5], "split_score": 0.859190254312147}
+{"sent": "lady", "ann_id": 475798, "best_split": [1, 2], "split_score": 0.4344706632479883}
+{"sent": "kid", "ann_id": 462158, "best_split": [1, 3], "split_score": 0.5516536743906889}
+{"sent": "baby", "ann_id": 462158, "best_split": [1, 3], "split_score": 0.5516536743906889}
+{"sent": "boy", "ann_id": 462158, "best_split": [1, 3], "split_score": 0.5516536743906889}

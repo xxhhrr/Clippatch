@@ -1,0 +1,6 @@
+{"sent": "not the banana bus just a regular bus", "ann_id": 166572, "best_split": [2, 2], "split_score": 0.7350993376986688}
+{"sent": "white bus", "ann_id": 166572, "best_split": [2, 2], "split_score": 0.7350993376986688}
+{"sent": "white bus", "ann_id": 166572, "best_split": [2, 2], "split_score": 0.7350993376986688}
+{"sent": "yellow bus", "ann_id": 164874, "best_split": [3, 1], "split_score": 0.516359508529769}
+{"sent": "banana bus", "ann_id": 164874, "best_split": [3, 1], "split_score": 0.516359508529769}
+{"sent": "banana buss", "ann_id": 164874, "best_split": [3, 1], "split_score": 0.516359508529769}

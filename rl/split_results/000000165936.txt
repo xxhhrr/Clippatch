@@ -1,0 +1,15 @@
+{"sent": "furthest blurry oranges", "ann_id": 1912009, "best_split": [1, 3], "split_score": 0.3145285934911388}
+{"sent": "cut orange in up corner", "ann_id": 1912009, "best_split": [1, 2], "split_score": 0.28850446427421456}
+{"sent": "background orange peel in corner not stacked", "ann_id": 1912009, "best_split": [1, 2], "split_score": 0.28850446427421456}
+{"sent": "peel furthes from us with most brown table showing", "ann_id": 1054381, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "ten o clock orange", "ann_id": 1054381, "best_split": [1, 3], "split_score": 0.04012345678818849}
+{"sent": "orange peel with brown spots", "ann_id": 1054077, "best_split": [2, 2], "split_score": 0.43344386543238245}
+{"sent": "half peel closest to 34", "ann_id": 1054077, "best_split": [2, 2], "split_score": 0.43344386543238245}
+{"sent": "corner one unsmiley is looking at", "ann_id": 1053223, "best_split": [1, 2], "split_score": 0.09020248724130252}
+{"sent": "lower lefty corner", "ann_id": 1053223, "best_split": [5, 1], "split_score": 0.1856961158217693}
+{"sent": "orange half at 730", "ann_id": 1053223, "best_split": [2, 1], "split_score": 0.09020248724130252}
+{"sent": "orange peel next to sad face away from numbers", "ann_id": 1051881, "best_split": [3, 2], "split_score": 0.5460985928814229}
+{"sent": "orange peel next to face with a tiny hole in it", "ann_id": 1051881, "best_split": [3, 2], "split_score": 0.5460985928814229}
+{"sent": "orange with face on it", "ann_id": 1051439, "best_split": [1, 3], "split_score": 0.4982906868072987}
+{"sent": "sad orange", "ann_id": 1051439, "best_split": [1, 3], "split_score": 0.4982906868072987}
+{"sent": "orange with sad face", "ann_id": 1051439, "best_split": [1, 3], "split_score": 0.4982906868072987}

@@ -1,0 +1,7 @@
+{"sent": "bus partially blocked by van", "ann_id": 268093, "best_split": [3, 2], "split_score": 0.20551601421202}
+{"sent": "largest bus", "ann_id": 268093, "best_split": [3, 2], "split_score": 0.20551601421202}
+{"sent": "yellow sign on fence", "ann_id": 268082, "best_split": [3, 3], "split_score": 0.2380181346764867}
+{"sent": "yellow sign", "ann_id": 268082, "best_split": [1, 5], "split_score": 0.20501002001953808}
+{"sent": "bus 6 next to last", "ann_id": 2049459, "best_split": [3, 1], "split_score": 0.07687827605842293}
+{"sent": "bus blocked by fence next to fence with yellow sign", "ann_id": 2049459, "best_split": [1, 5], "split_score": 0.1941964285517252}
+{"sent": "bus hidden by gate by blue garbage bin", "ann_id": 2049459, "best_split": [5, 1], "split_score": 0.10537190081655035}

@@ -1,0 +1,6 @@
+{"sent": "facing away wahtever it is", "ann_id": 587241, "best_split": [1, 2], "split_score": 0.24465880101065612}
+{"sent": "closest bear", "ann_id": 587241, "best_split": [3, 2], "split_score": 0.46635495014572526}
+{"sent": "closest animal also", "ann_id": 587241, "best_split": [3, 2], "split_score": 0.46635495014572526}
+{"sent": "the horizontl one", "ann_id": 587095, "best_split": [2, 1], "split_score": 0.12789218550803136}
+{"sent": "animal standing sideways", "ann_id": 587095, "best_split": [3, 1], "split_score": 0.39522196058144937}
+{"sent": "animal laying down", "ann_id": 587095, "best_split": [3, 1], "split_score": 0.39522196058144937}

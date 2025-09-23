@@ -1,0 +1,9 @@
+{"sent": "scarf woman", "ann_id": 541550, "best_split": [3, 3], "split_score": 0.28702772586021724}
+{"sent": "lady with bag", "ann_id": 541550, "best_split": [3, 3], "split_score": 0.28702772586021724}
+{"sent": "woman with peach scarf", "ann_id": 541550, "best_split": [3, 3], "split_score": 0.28702772586021724}
+{"sent": "leather jacket guy", "ann_id": 469409, "best_split": [3, 3], "split_score": 0.3084112149143204}
+{"sent": "man with black jacket", "ann_id": 469409, "best_split": [3, 3], "split_score": 0.3084112149143204}
+{"sent": "man black jacket striped white shirt", "ann_id": 469409, "best_split": [3, 3], "split_score": 0.3084112149143204}
+{"sent": "red s", "ann_id": 426896, "best_split": [3, 1], "split_score": 0.13333333332582584}
+{"sent": "red stripe shirt", "ann_id": 426896, "best_split": [1, 5], "split_score": 0.3603896103530449}
+{"sent": "red striped shirt", "ann_id": 426896, "best_split": [1, 5], "split_score": 0.3603896103530449}

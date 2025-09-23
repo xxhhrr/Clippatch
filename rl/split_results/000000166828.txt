@@ -1,0 +1,6 @@
+{"sent": "the decrated refrigerator", "ann_id": 333001, "best_split": [2, 2], "split_score": 0.9393607019007082}
+{"sent": "close up", "ann_id": 333001, "best_split": [2, 2], "split_score": 0.9393607019007082}
+{"sent": "fridge with stuff on it", "ann_id": 333001, "best_split": [2, 2], "split_score": 0.9393607019007082}
+{"sent": "clean refrigerator", "ann_id": 332889, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "full doors with no stickers", "ann_id": 332889, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "fridge in full view", "ann_id": 332889, "best_split": [1, 2], "split_score": 0.0}

@@ -1,0 +1,4 @@
+{"sent": "the train thats not the two square red ones near us", "ann_id": 169965, "best_split": [3, 2], "split_score": 0.46099290775333823}
+{"sent": "the red train car", "ann_id": 169543, "best_split": [3, 3], "split_score": 0.7238598809353787}
+{"sent": "boxcar with yellow stripe", "ann_id": 169543, "best_split": [3, 3], "split_score": 0.7238598809353787}
+{"sent": "yellow stripe", "ann_id": 169543, "best_split": [3, 3], "split_score": 0.7238598809353787}

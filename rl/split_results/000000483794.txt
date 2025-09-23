@@ -1,0 +1,5 @@
+{"sent": "part of table with nothing on it", "ann_id": 1966829, "best_split": [2, 3], "split_score": 0.6293117150986082}
+{"sent": "larger part of tan table", "ann_id": 1966829, "best_split": [3, 2], "split_score": 0.4242045296356673}
+{"sent": "part of table closest to you", "ann_id": 1965508, "best_split": [2, 1], "split_score": 0.4225924744729515}
+{"sent": "smaller area of table", "ann_id": 1965508, "best_split": [2, 2], "split_score": 0.818224666078694}
+{"sent": "table corner 7 o clock", "ann_id": 1965508, "best_split": [3, 1], "split_score": 0.42412492137790164}

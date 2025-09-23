@@ -1,0 +1,5 @@
+{"sent": "blond hair", "ann_id": 1750469, "best_split": [2, 3], "split_score": 0.6287878787235065}
+{"sent": "woman", "ann_id": 1750469, "best_split": [2, 3], "split_score": 0.6287878787235065}
+{"sent": "guy with computer", "ann_id": 183621, "best_split": [2, 1], "split_score": 0.4879352328994043}
+{"sent": "the man with a blue hat", "ann_id": 183621, "best_split": [1, 2], "split_score": 0.5209801512730012}
+{"sent": "black hat man", "ann_id": 183621, "best_split": [1, 2], "split_score": 0.5209801512730012}

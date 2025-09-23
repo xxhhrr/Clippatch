@@ -1,0 +1,6 @@
+{"sent": "the black car driving into the frame", "ann_id": 1785549, "best_split": [3, 1], "split_score": 0.365480405667318}
+{"sent": "wrecked car", "ann_id": 1785549, "best_split": [3, 3], "split_score": 0.8002471804726946}
+{"sent": "black car", "ann_id": 1785549, "best_split": [3, 3], "split_score": 0.8002471804726946}
+{"sent": "the silver car near the white bus", "ann_id": 1358080, "best_split": [2, 2], "split_score": 0.330676020381802}
+{"sent": "gray car", "ann_id": 1358080, "best_split": [2, 2], "split_score": 0.330676020381802}
+{"sent": "gray station wagon", "ann_id": 1358080, "best_split": [2, 2], "split_score": 0.330676020381802}

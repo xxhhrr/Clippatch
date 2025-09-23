@@ -1,0 +1,12 @@
+{"sent": "baby in pink", "ann_id": 559752, "best_split": [3, 3], "split_score": 0.4531956099978703}
+{"sent": "baby", "ann_id": 559752, "best_split": [3, 3], "split_score": 0.4531956099978703}
+{"sent": "baby", "ann_id": 559752, "best_split": [3, 3], "split_score": 0.4531956099978703}
+{"sent": "person next to blue lady", "ann_id": 526511, "best_split": [3, 2], "split_score": 0.33614536012458096}
+{"sent": "man", "ann_id": 526511, "best_split": [3, 1], "split_score": 0.19009174310930055}
+{"sent": "man", "ann_id": 526511, "best_split": [3, 1], "split_score": 0.19009174310930055}
+{"sent": "lady in blue", "ann_id": 515950, "best_split": [2, 2], "split_score": 0.7014943003542913}
+{"sent": "blue shirt", "ann_id": 515950, "best_split": [2, 2], "split_score": 0.7014943003542913}
+{"sent": "blue shirt", "ann_id": 515950, "best_split": [2, 2], "split_score": 0.7014943003542913}
+{"sent": "black shirt", "ann_id": 505949, "best_split": [1, 5], "split_score": 0.35522066734952334}
+{"sent": "woman in black", "ann_id": 505949, "best_split": [2, 3], "split_score": 0.26334739221650577}
+{"sent": "blond black shirt", "ann_id": 505949, "best_split": [2, 3], "split_score": 0.26334739221650577}

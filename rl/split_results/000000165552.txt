@@ -1,0 +1,9 @@
+{"sent": "the person with light colored hair behind the person with glasses", "ann_id": 1265876, "best_split": [2, 3], "split_score": 0.5965202981983719}
+{"sent": "tall person ahead of person closest to screen", "ann_id": 1265876, "best_split": [2, 1], "split_score": 0.25178737953637753}
+{"sent": "guy with back to us closely shaven hair", "ann_id": 1265876, "best_split": [2, 3], "split_score": 0.5965202981983719}
+{"sent": "red shirt with cap", "ann_id": 1229251, "best_split": [1, 5], "split_score": 0.41002083724095273}
+{"sent": "red and black hat lets kill this batch mate", "ann_id": 1229251, "best_split": [1, 5], "split_score": 0.41002083724095273}
+{"sent": "guy with hat facing sideways", "ann_id": 1229251, "best_split": [1, 5], "split_score": 0.41002083724095273}
+{"sent": "person with glasses in red closet to camera", "ann_id": 1216032, "best_split": [2, 3], "split_score": 0.6544021024185399}
+{"sent": "man closest to us", "ann_id": 1216032, "best_split": [2, 1], "split_score": 0.22165975764422594}
+{"sent": "black hair and glasses", "ann_id": 1216032, "best_split": [1, 2], "split_score": 0.08842643559471478}

@@ -1,0 +1,9 @@
+{"sent": "green shirt", "ann_id": 543538, "best_split": [1, 5], "split_score": 0.5634656164371807}
+{"sent": "lady in green", "ann_id": 543538, "best_split": [1, 5], "split_score": 0.5634656164371807}
+{"sent": "woman in green", "ann_id": 543538, "best_split": [1, 5], "split_score": 0.5634656164371807}
+{"sent": "girl in puple vest white shirt", "ann_id": 541936, "best_split": [1, 2], "split_score": 0.551857461712697}
+{"sent": "man in purple vest and white shirt", "ann_id": 541936, "best_split": [1, 3], "split_score": 0.5599712834952069}
+{"sent": "maroon and white shirt", "ann_id": 541936, "best_split": [1, 3], "split_score": 0.5599712834952069}
+{"sent": "short sunglasses", "ann_id": 533919, "best_split": [1, 5], "split_score": 0.569855121530979}
+{"sent": "girl not on ends", "ann_id": 533919, "best_split": [1, 5], "split_score": 0.569855121530979}
+{"sent": "pink shirt", "ann_id": 533919, "best_split": [1, 5], "split_score": 0.569855121530979}

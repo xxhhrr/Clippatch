@@ -1,0 +1,8 @@
+{"sent": "black jacket gray pants", "ann_id": 220581, "best_split": [2, 3], "split_score": 0.29713469967399464}
+{"sent": "blurry side of train", "ann_id": 2050946, "best_split": [1, 3], "split_score": 0.37256780216891766}
+{"sent": "really blurry part of train", "ann_id": 2050946, "best_split": [1, 3], "split_score": 0.37256780216891766}
+{"sent": "man closest to us", "ann_id": 208999, "best_split": [2, 2], "split_score": 0.25269068786331367}
+{"sent": "man closest camera", "ann_id": 208999, "best_split": [1, 2], "split_score": 0.24693080356158598}
+{"sent": "a silver subway on a rail", "ann_id": 173931, "best_split": [1, 5], "split_score": 0.44414428726806415}
+{"sent": "train", "ann_id": 173931, "best_split": [1, 5], "split_score": 0.44414428726806415}
+{"sent": "the visible side of the train with the windows", "ann_id": 173931, "best_split": [1, 5], "split_score": 0.44414428726806415}

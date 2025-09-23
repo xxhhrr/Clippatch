@@ -1,0 +1,12 @@
+{"sent": "glasses guy", "ann_id": 1713444, "best_split": [1, 5], "split_score": 0.5237633365202572}
+{"sent": "boy on sofa", "ann_id": 1713444, "best_split": [2, 2], "split_score": 0.35945265161961654}
+{"sent": "kid in gray shirt with glasses", "ann_id": 1713444, "best_split": [1, 5], "split_score": 0.5237633365202572}
+{"sent": "red", "ann_id": 514381, "best_split": [1, 5], "split_score": 0.4808841665419899}
+{"sent": "red shirt", "ann_id": 514381, "best_split": [1, 5], "split_score": 0.4808841665419899}
+{"sent": "red boy", "ann_id": 514381, "best_split": [1, 5], "split_score": 0.4808841665419899}
+{"sent": "gray shirt", "ann_id": 490216, "best_split": [2, 3], "split_score": 0.44614147906381496}
+{"sent": "boy on floor with gray shirt", "ann_id": 490216, "best_split": [2, 3], "split_score": 0.44614147906381496}
+{"sent": "silver shirt on floor", "ann_id": 490216, "best_split": [2, 2], "split_score": 0.48000798346883056}
+{"sent": "couch that no one is sitting on", "ann_id": 111757, "best_split": [1, 2], "split_score": 0.6951929208906572}
+{"sent": "empty couch", "ann_id": 111757, "best_split": [1, 2], "split_score": 0.6951929208906572}
+{"sent": "couch woth two dark brown pillows", "ann_id": 111757, "best_split": [1, 2], "split_score": 0.6951929208906572}

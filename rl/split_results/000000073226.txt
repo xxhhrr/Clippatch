@@ -1,0 +1,6 @@
+{"sent": "laptop centered more on window", "ann_id": 1099835, "best_split": [2, 3], "split_score": 0.3777041512007694}
+{"sent": "laptop all in window", "ann_id": 1099835, "best_split": [2, 3], "split_score": 0.3777041512007694}
+{"sent": "smaller laptop", "ann_id": 1099835, "best_split": [2, 3], "split_score": 0.3777041512007694}
+{"sent": "bigger laptop", "ann_id": 1099458, "best_split": [3, 1], "split_score": 0.28771384135460176}
+{"sent": "laptop not at window", "ann_id": 1099458, "best_split": [3, 2], "split_score": 0.4469167196084777}
+{"sent": "lapto with wire on it", "ann_id": 1099458, "best_split": [3, 2], "split_score": 0.4469167196084777}

@@ -1,0 +1,6 @@
+{"sent": "zebra under", "ann_id": 589172, "best_split": [2, 1], "split_score": 0.6705107083789638}
+{"sent": "zebra under other", "ann_id": 589172, "best_split": [2, 1], "split_score": 0.6705107083789638}
+{"sent": "small zebra", "ann_id": 589172, "best_split": [2, 1], "split_score": 0.6705107083789638}
+{"sent": "aggressive zebra", "ann_id": 588564, "best_split": [1, 2], "split_score": 0.7351994054763686}
+{"sent": "zebra winning", "ann_id": 588564, "best_split": [1, 2], "split_score": 0.7351994054763686}
+{"sent": "bigger zebra", "ann_id": 588564, "best_split": [1, 2], "split_score": 0.7351994054763686}

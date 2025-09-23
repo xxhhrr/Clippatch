@@ -1,0 +1,6 @@
+{"sent": "the baby on the bed", "ann_id": 2159447, "best_split": [2, 2], "split_score": 0.386934673336453}
+{"sent": "baby behind veil", "ann_id": 2159447, "best_split": [2, 2], "split_score": 0.386934673336453}
+{"sent": "girl covered", "ann_id": 2159447, "best_split": [1, 2], "split_score": 0.006396588485927619}
+{"sent": "pink jacket", "ann_id": 467601, "best_split": [1, 5], "split_score": 0.27748602403206113}
+{"sent": "girl", "ann_id": 467601, "best_split": [1, 5], "split_score": 0.27748602403206113}
+{"sent": "girl in pink jacket", "ann_id": 467601, "best_split": [1, 5], "split_score": 0.27748602403206113}

@@ -1,0 +1,8 @@
+{"sent": "tall apple", "ann_id": 1550858, "best_split": [3, 1], "split_score": 0.5282360405881886}
+{"sent": "highest apple", "ann_id": 1550858, "best_split": [3, 1], "split_score": 0.5282360405881886}
+{"sent": "highest apple", "ann_id": 1550858, "best_split": [3, 1], "split_score": 0.5282360405881886}
+{"sent": "closest one half in bowl", "ann_id": 1549825, "best_split": [3, 2], "split_score": 0.2935900240326416}
+{"sent": "the apple thats in half next to the rim", "ann_id": 1549825, "best_split": [2, 2], "split_score": 0.2820471938550664}
+{"sent": "apple in foreground", "ann_id": 1549564, "best_split": [3, 2], "split_score": 0.29979181121618736}
+{"sent": "closest apple", "ann_id": 1549564, "best_split": [3, 2], "split_score": 0.29979181121618736}
+{"sent": "apple on two oranges", "ann_id": 1549564, "best_split": [5, 1], "split_score": 0.23670053793808274}

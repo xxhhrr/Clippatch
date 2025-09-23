@@ -1,0 +1,5 @@
+{"sent": "laptop closest to camera", "ann_id": 2134361, "best_split": [2, 2], "split_score": 0.6665197266549195}
+{"sent": "closest screen", "ann_id": 2134361, "best_split": [2, 2], "split_score": 0.6665197266549195}
+{"sent": "bigger monitor screen", "ann_id": 1624980, "best_split": [2, 1], "split_score": 0.3726218546990335}
+{"sent": "largest monitor", "ann_id": 1624980, "best_split": [1, 5], "split_score": 0.3750441317206312}
+{"sent": "desktop screen", "ann_id": 1624980, "best_split": [3, 1], "split_score": 0.2891392587424931}

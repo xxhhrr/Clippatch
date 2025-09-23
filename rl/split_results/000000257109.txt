@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 196077, "best_split": [2, 1], "split_score": 0.17175163657322945}
+{"sent": "man in white pants", "ann_id": 196077, "best_split": [2, 3], "split_score": 0.495302959077583}
+{"sent": "man in black shirt", "ann_id": 196077, "best_split": [2, 3], "split_score": 0.495302959077583}
+{"sent": "lady", "ann_id": 1735600, "best_split": [2, 3], "split_score": 0.47025957391802353}
+{"sent": "blue jeans", "ann_id": 1735600, "best_split": [2, 3], "split_score": 0.47025957391802353}
+{"sent": "woman with purse but not her purse", "ann_id": 1735600, "best_split": [2, 3], "split_score": 0.47025957391802353}

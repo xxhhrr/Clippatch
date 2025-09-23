@@ -1,0 +1,5 @@
+{"sent": "bird facing camera", "ann_id": 42019, "best_split": [1, 5], "split_score": 0.49453530730218315}
+{"sent": "crow with beak open", "ann_id": 42019, "best_split": [1, 5], "split_score": 0.49453530730218315}
+{"sent": "bird with open mouth", "ann_id": 42019, "best_split": [1, 5], "split_score": 0.49453530730218315}
+{"sent": "bird in higher branch", "ann_id": 36645, "best_split": [1, 3], "split_score": 0.40361445781036487}
+{"sent": "sideways bird", "ann_id": 36645, "best_split": [1, 3], "split_score": 0.40361445781036487}

@@ -1,0 +1,6 @@
+{"sent": "boy with bear", "ann_id": 229510, "best_split": [2, 2], "split_score": 0.6086819754161149}
+{"sent": "young boy not baby", "ann_id": 229510, "best_split": [2, 2], "split_score": 0.6086819754161149}
+{"sent": "the older little boy", "ann_id": 229510, "best_split": [2, 2], "split_score": 0.6086819754161149}
+{"sent": "kid with bib", "ann_id": 194635, "best_split": [2, 3], "split_score": 0.8228317271182005}
+{"sent": "bib", "ann_id": 194635, "best_split": [2, 3], "split_score": 0.8228317271182005}
+{"sent": "younger child", "ann_id": 194635, "best_split": [2, 3], "split_score": 0.8228317271182005}

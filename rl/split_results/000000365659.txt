@@ -1,0 +1,15 @@
+{"sent": "beer in goblet with no label on it", "ann_id": 665134, "best_split": [3, 3], "split_score": 0.31652699542292523}
+{"sent": "tall beer glass without logo", "ann_id": 665134, "best_split": [3, 3], "split_score": 0.31652699542292523}
+{"sent": "stella artois glass facing away from camera", "ann_id": 665134, "best_split": [3, 2], "split_score": 0.2361623616000636}
+{"sent": "stella artois", "ann_id": 663591, "best_split": [1, 5], "split_score": 0.5714285713705937}
+{"sent": "stella artois", "ann_id": 663591, "best_split": [1, 5], "split_score": 0.5714285713705937}
+{"sent": "srella artois", "ann_id": 663591, "best_split": [1, 5], "split_score": 0.5714285713705937}
+{"sent": "tan colored table", "ann_id": 1961074, "best_split": [2, 1], "split_score": 0.46053890304286754}
+{"sent": "under bread", "ann_id": 1961074, "best_split": [2, 2], "split_score": 0.9210778060490212}
+{"sent": "table under stella", "ann_id": 1961074, "best_split": [1, 3], "split_score": 0.38667061025403376}
+{"sent": "striped shirt", "ann_id": 489249, "best_split": [2, 2], "split_score": 0.6381370712074067}
+{"sent": "man in striped shirt", "ann_id": 489249, "best_split": [2, 2], "split_score": 0.6381370712074067}
+{"sent": "man", "ann_id": 489249, "best_split": [3, 1], "split_score": 0.5687446626511131}
+{"sent": "raising hand with food", "ann_id": 477110, "best_split": [1, 3], "split_score": 0.3480983568684305}
+{"sent": "watch and ring person", "ann_id": 477110, "best_split": [3, 3], "split_score": 0.7573905627121389}
+{"sent": "hands eating above", "ann_id": 477110, "best_split": [3, 3], "split_score": 0.7573905627121389}

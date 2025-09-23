@@ -1,0 +1,6 @@
+{"sent": "lighter clothed person", "ann_id": 1747678, "best_split": [1, 2], "split_score": 0.372832369927635}
+{"sent": "persons back", "ann_id": 1747678, "best_split": [3, 2], "split_score": 0.4253534254757376}
+{"sent": "white clothes", "ann_id": 1747678, "best_split": [1, 5], "split_score": 0.39853953093676875}
+{"sent": "guy with gun", "ann_id": 195081, "best_split": [3, 2], "split_score": 0.4277108433298233}
+{"sent": "person looking at camera", "ann_id": 195081, "best_split": [2, 1], "split_score": 0.12211570006480824}
+{"sent": "person facing the camera", "ann_id": 195081, "best_split": [2, 1], "split_score": 0.12211570006480824}

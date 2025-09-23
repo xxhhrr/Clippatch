@@ -1,0 +1,5 @@
+{"sent": "you can see one of the lights", "ann_id": 135601, "best_split": [3, 3], "split_score": 0.7277978338036466}
+{"sent": "red car just coming into picture", "ann_id": 135601, "best_split": [3, 3], "split_score": 0.7277978338036466}
+{"sent": "red car in corner", "ann_id": 135601, "best_split": [2, 3], "split_score": 0.4942084941488648}
+{"sent": "back of the red car", "ann_id": 132165, "best_split": [3, 3], "split_score": 0.5068678988457066}
+{"sent": "back red car", "ann_id": 132165, "best_split": [3, 3], "split_score": 0.5068678988457066}

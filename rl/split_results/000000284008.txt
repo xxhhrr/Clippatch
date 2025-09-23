@@ -1,0 +1,6 @@
+{"sent": "sandwich half that is nearer", "ann_id": 311245, "best_split": [2, 3], "split_score": 0.37675507016082516}
+{"sent": "sandwich closest the camera", "ann_id": 311245, "best_split": [2, 3], "split_score": 0.37675507016082516}
+{"sent": "filet closest", "ann_id": 311245, "best_split": [3, 3], "split_score": 0.4213583556119514}
+{"sent": "chicken next to knife", "ann_id": 310917, "best_split": [2, 2], "split_score": 0.21338912132296853}
+{"sent": "sandwich next to knife", "ann_id": 310917, "best_split": [3, 2], "split_score": 0.4459459458921397}
+{"sent": "meat closest to cup", "ann_id": 310917, "best_split": [1, 3], "split_score": 0.17915309445212}

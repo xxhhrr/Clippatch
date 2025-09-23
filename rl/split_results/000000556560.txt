@@ -1,0 +1,5 @@
+{"sent": "seat on uneaten side of donut", "ann_id": 1942906, "best_split": [2, 3], "split_score": 0.4645925925581783}
+{"sent": "number 2 seat", "ann_id": 1942906, "best_split": [2, 1], "split_score": 0.43509653113973096}
+{"sent": "seat at 1 o clock", "ann_id": 1942906, "best_split": [2, 1], "split_score": 0.43509653113973096}
+{"sent": "seat under the jagged edge of donut", "ann_id": 1931589, "best_split": [2, 2], "split_score": 0.6010442854089613}
+{"sent": "gray seat next to donut", "ann_id": 1931589, "best_split": [2, 2], "split_score": 0.6010442854089613}

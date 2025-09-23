@@ -1,0 +1,6 @@
+{"sent": "yellow bus", "ann_id": 247836, "best_split": [3, 2], "split_score": 0.3480589022369412}
+{"sent": "yellow bus", "ann_id": 247836, "best_split": [3, 2], "split_score": 0.3480589022369412}
+{"sent": "yellow", "ann_id": 247836, "best_split": [3, 3], "split_score": 0.4925949773836775}
+{"sent": "close bus", "ann_id": 167287, "best_split": [1, 2], "split_score": 0.6522259654021153}
+{"sent": "big red bus", "ann_id": 167287, "best_split": [1, 2], "split_score": 0.6522259654021153}
+{"sent": "rd bus", "ann_id": 167287, "best_split": [1, 2], "split_score": 0.6522259654021153}

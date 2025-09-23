@@ -1,0 +1,8 @@
+{"sent": "full water glass", "ann_id": 681974, "best_split": [3, 2], "split_score": 0.2888513513164996}
+{"sent": "full glass", "ann_id": 681974, "best_split": [3, 2], "split_score": 0.2888513513164996}
+{"sent": "glass on thumb side", "ann_id": 681974, "best_split": [3, 3], "split_score": 0.42083408549903695}
+{"sent": "glass by hand", "ann_id": 681802, "best_split": [3, 3], "split_score": 0.4676331759157732}
+{"sent": "glass near melon", "ann_id": 681802, "best_split": [2, 3], "split_score": 0.389720077173055}
+{"sent": "glass of water closest", "ann_id": 681802, "best_split": [3, 3], "split_score": 0.4676331759157732}
+{"sent": "coffee mug", "ann_id": 671720, "best_split": [3, 3], "split_score": 0.4460613729126761}
+{"sent": "full coffee mug", "ann_id": 671720, "best_split": [3, 3], "split_score": 0.4460613729126761}

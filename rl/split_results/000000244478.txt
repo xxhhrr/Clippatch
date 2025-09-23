@@ -1,0 +1,6 @@
+{"sent": "red hand", "ann_id": 1805801, "best_split": [2, 2], "split_score": 0.48387096770829596}
+{"sent": "hand", "ann_id": 1805801, "best_split": [2, 2], "split_score": 0.48387096770829596}
+{"sent": "hand signal", "ann_id": 1805801, "best_split": [2, 2], "split_score": 0.48387096770829596}
+{"sent": "traffic lights", "ann_id": 403279, "best_split": [2, 2], "split_score": 0.5840242346473195}
+{"sent": "stop light", "ann_id": 403279, "best_split": [2, 2], "split_score": 0.5840242346473195}
+{"sent": "traffic light not crossing sign", "ann_id": 403279, "best_split": [2, 2], "split_score": 0.5840242346473195}

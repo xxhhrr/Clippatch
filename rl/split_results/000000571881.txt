@@ -1,0 +1,10 @@
+{"sent": "red jacket", "ann_id": 2204484, "best_split": [3, 3], "split_score": 0.25908968485603423}
+{"sent": "red shirt", "ann_id": 2204484, "best_split": [3, 3], "split_score": 0.25908968485603423}
+{"sent": "person in red shirt", "ann_id": 2204484, "best_split": [3, 3], "split_score": 0.25908968485603423}
+{"sent": "taller man in camo", "ann_id": 233505, "best_split": [1, 3], "split_score": 0.40033783781368615}
+{"sent": "number 2 in line", "ann_id": 233505, "best_split": [3, 3], "split_score": 0.3451799199972035}
+{"sent": "on bike", "ann_id": 232851, "best_split": [1, 2], "split_score": 0.24234693876585034}
+{"sent": "guy on bike", "ann_id": 232851, "best_split": [1, 2], "split_score": 0.24234693876585034}
+{"sent": "on bike", "ann_id": 232851, "best_split": [1, 2], "split_score": 0.24234693876585034}
+{"sent": "woman that is being hugged by another", "ann_id": 188315, "best_split": [1, 3], "split_score": 0.24194912863110093}
+{"sent": "woman at end", "ann_id": 188315, "best_split": [1, 3], "split_score": 0.24194912863110093}

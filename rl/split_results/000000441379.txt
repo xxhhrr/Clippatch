@@ -1,0 +1,6 @@
+{"sent": "closest red", "ann_id": 63760, "best_split": [3, 3], "split_score": 0.39138031444505234}
+{"sent": "red", "ann_id": 63760, "best_split": [3, 3], "split_score": 0.39138031444505234}
+{"sent": "red jumper", "ann_id": 63760, "best_split": [3, 3], "split_score": 0.39138031444505234}
+{"sent": "yellow shirt", "ann_id": 61053, "best_split": [2, 3], "split_score": 0.383005441567287}
+{"sent": "goat in yellow", "ann_id": 61053, "best_split": [2, 3], "split_score": 0.383005441567287}
+{"sent": "animal in yellow", "ann_id": 61053, "best_split": [2, 3], "split_score": 0.383005441567287}

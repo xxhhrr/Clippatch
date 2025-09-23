@@ -1,0 +1,12 @@
+{"sent": "red and white umbrella tilted", "ann_id": 1427303, "best_split": [1, 3], "split_score": 0.2355815636923515}
+{"sent": "red umbrella tilted to the side", "ann_id": 1427303, "best_split": [1, 3], "split_score": 0.2355815636923515}
+{"sent": "red and white umbrella at 9 o clock", "ann_id": 1425547, "best_split": [3, 3], "split_score": 0.46307864801168047}
+{"sent": "red and white umbrella neaar black and red umbrella", "ann_id": 1425547, "best_split": [3, 3], "split_score": 0.46307864801168047}
+{"sent": "yellow and white", "ann_id": 1423642, "best_split": [3, 2], "split_score": 0.5290783119327023}
+{"sent": "yellow and white", "ann_id": 1423642, "best_split": [3, 2], "split_score": 0.5290783119327023}
+{"sent": "yellow umbrella", "ann_id": 1423642, "best_split": [3, 2], "split_score": 0.5290783119327023}
+{"sent": "black umbrella most blue chairs", "ann_id": 1831322, "best_split": [3, 3], "split_score": 0.5314079421423451}
+{"sent": "fully visible black umbrella near another one", "ann_id": 1831322, "best_split": [2, 3], "split_score": 0.28363636360413225}
+{"sent": "black umbrella next to half visible black umbrella", "ann_id": 1831322, "best_split": [2, 3], "split_score": 0.28363636360413225}
+{"sent": "closest blue striped beside red", "ann_id": 1602745, "best_split": [3, 3], "split_score": 0.4866691014450933}
+{"sent": "blue chair not by umbrella", "ann_id": 1602745, "best_split": [3, 1], "split_score": 0.16077461388991465}

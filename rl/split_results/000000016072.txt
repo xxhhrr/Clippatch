@@ -1,0 +1,6 @@
+{"sent": "person in blue button down shirt", "ann_id": 1705917, "best_split": [1, 2], "split_score": 0.33973172112829275}
+{"sent": "blue shirt", "ann_id": 1705917, "best_split": [5, 1], "split_score": 0.31666666664605037}
+{"sent": "person in blue shirt", "ann_id": 1705917, "best_split": [1, 2], "split_score": 0.33973172112829275}
+{"sent": "blue shirt with white stripes", "ann_id": 452894, "best_split": [1, 3], "split_score": 0.34401508009283605}
+{"sent": "shoulder black white stripe", "ann_id": 452894, "best_split": [2, 3], "split_score": 0.6721915284677495}
+{"sent": "striped dark shirt", "ann_id": 452894, "best_split": [2, 3], "split_score": 0.6721915284677495}

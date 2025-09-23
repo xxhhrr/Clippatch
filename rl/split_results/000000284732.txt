@@ -1,0 +1,15 @@
+{"sent": "cake no candles", "ann_id": 1090080, "best_split": [3, 1], "split_score": 0.20903716214955131}
+{"sent": "white cake no candles", "ann_id": 1090080, "best_split": [3, 1], "split_score": 0.20903716214955131}
+{"sent": "small dessert white", "ann_id": 1090080, "best_split": [3, 3], "split_score": 0.5255075924713346}
+{"sent": "cake", "ann_id": 1090011, "best_split": [2, 2], "split_score": 0.392217898802162}
+{"sent": "cake", "ann_id": 1090011, "best_split": [2, 2], "split_score": 0.392217898802162}
+{"sent": "cake with candles", "ann_id": 1090011, "best_split": [2, 2], "split_score": 0.392217898802162}
+{"sent": "boy in black", "ann_id": 546029, "best_split": [1, 3], "split_score": 0.2929667903936507}
+{"sent": "boy in black", "ann_id": 546029, "best_split": [1, 3], "split_score": 0.2929667903936507}
+{"sent": "boy", "ann_id": 546029, "best_split": [1, 3], "split_score": 0.2929667903936507}
+{"sent": "girl in pink", "ann_id": 493296, "best_split": [2, 2], "split_score": 0.5317145302722613}
+{"sent": "girl in pink shirt", "ann_id": 493296, "best_split": [2, 2], "split_score": 0.5317145302722613}
+{"sent": "girl about to blow candles", "ann_id": 493296, "best_split": [1, 5], "split_score": 0.39332568051874994}
+{"sent": "black and white outfit", "ann_id": 2165319, "best_split": [2, 3], "split_score": 0.5952333663758457}
+{"sent": "striped shirt", "ann_id": 2165319, "best_split": [2, 3], "split_score": 0.5952333663758457}
+{"sent": "cutoff woman", "ann_id": 2165319, "best_split": [2, 1], "split_score": 0.2230740602819846}

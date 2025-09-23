@@ -1,0 +1,6 @@
+{"sent": "last one", "ann_id": 57190, "best_split": [2, 2], "split_score": 0.35969387752234583}
+{"sent": "horse not leading", "ann_id": 57190, "best_split": [5, 1], "split_score": 0.319375573891701}
+{"sent": "horse closest to us", "ann_id": 57190, "best_split": [5, 1], "split_score": 0.319375573891701}
+{"sent": "horse farther along the river", "ann_id": 53924, "best_split": [2, 2], "split_score": 0.4102839600606075}
+{"sent": "horse further from grass", "ann_id": 53924, "best_split": [2, 2], "split_score": 0.4102839600606075}
+{"sent": "lighter horse", "ann_id": 53924, "best_split": [2, 2], "split_score": 0.4102839600606075}

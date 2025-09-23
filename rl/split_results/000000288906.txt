@@ -1,0 +1,9 @@
+{"sent": "partial boy in blue shirt and tie", "ann_id": 1253688, "best_split": [2, 3], "split_score": 0.3203278309684488}
+{"sent": "cloest to camera half face", "ann_id": 1253688, "best_split": [1, 3], "split_score": 0.1900337837723194}
+{"sent": "boy partial face", "ann_id": 1253688, "best_split": [2, 3], "split_score": 0.3203278309684488}
+{"sent": "lady in pink", "ann_id": 1247059, "best_split": [1, 5], "split_score": 0.5002007870452011}
+{"sent": "woman smiling in pink", "ann_id": 1247059, "best_split": [1, 5], "split_score": 0.5002007870452011}
+{"sent": "purple dress", "ann_id": 1247059, "best_split": [1, 5], "split_score": 0.5002007870452011}
+{"sent": "girl in headband", "ann_id": 1297732, "best_split": [3, 3], "split_score": 0.4259634887718114}
+{"sent": "little girl with headband", "ann_id": 1297732, "best_split": [3, 3], "split_score": 0.4259634887718114}
+{"sent": "little girl with white headband", "ann_id": 1297732, "best_split": [3, 3], "split_score": 0.4259634887718114}

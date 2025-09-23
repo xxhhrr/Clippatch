@@ -1,0 +1,12 @@
+{"sent": "woman in red", "ann_id": 1699231, "best_split": [2, 3], "split_score": 0.38072262114219896}
+{"sent": "girl red shirt", "ann_id": 1699231, "best_split": [2, 3], "split_score": 0.38072262114219896}
+{"sent": "lady in red next to mans hand", "ann_id": 1699231, "best_split": [2, 3], "split_score": 0.38072262114219896}
+{"sent": "orange shirt", "ann_id": 1695000, "best_split": [3, 3], "split_score": 0.33403551003099075}
+{"sent": "orange shirt glasses", "ann_id": 1695000, "best_split": [3, 3], "split_score": 0.33403551003099075}
+{"sent": "orange glasses", "ann_id": 1695000, "best_split": [3, 3], "split_score": 0.33403551003099075}
+{"sent": "smiling man white shirt red stripes", "ann_id": 1692340, "best_split": [1, 3], "split_score": 0.621923262510743}
+{"sent": "man striped shirt", "ann_id": 1692340, "best_split": [3, 1], "split_score": 0.201779088990131}
+{"sent": "man wearing striped shirt", "ann_id": 1692340, "best_split": [3, 1], "split_score": 0.201779088990131}
+{"sent": "checkered pink girl", "ann_id": 1210879, "best_split": [1, 5], "split_score": 0.6530758225453258}
+{"sent": "smiling girl", "ann_id": 1210879, "best_split": [1, 5], "split_score": 0.6530758225453258}
+{"sent": "girl with plaid shirt on", "ann_id": 1210879, "best_split": [1, 5], "split_score": 0.6530758225453258}

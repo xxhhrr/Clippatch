@@ -1,0 +1,6 @@
+{"sent": "black jacket", "ann_id": 502184, "best_split": [2, 2], "split_score": 0.26031489201192887}
+{"sent": "black and white snowsuit", "ann_id": 502184, "best_split": [1, 5], "split_score": 0.465131798426332}
+{"sent": "black and white snowboarder", "ann_id": 502184, "best_split": [1, 5], "split_score": 0.465131798426332}
+{"sent": "kid in blue jacket staring at us flee flee flee", "ann_id": 487273, "best_split": [1, 5], "split_score": 0.6508264462198697}
+{"sent": "boy in blue jacket", "ann_id": 487273, "best_split": [1, 5], "split_score": 0.6508264462198697}
+{"sent": "blue coat boy", "ann_id": 487273, "best_split": [1, 5], "split_score": 0.6508264462198697}

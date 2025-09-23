@@ -1,0 +1,5 @@
+{"sent": "light blue shirt blond hair no face", "ann_id": 253177, "best_split": [2, 3], "split_score": 0.6493164061865901}
+{"sent": "blue", "ann_id": 253177, "best_split": [2, 2], "split_score": 0.4586782560389985}
+{"sent": "man playing", "ann_id": 216190, "best_split": [1, 5], "split_score": 0.40015186025055505}
+{"sent": "man playing", "ann_id": 216190, "best_split": [1, 5], "split_score": 0.40015186025055505}
+{"sent": "playing guy", "ann_id": 216190, "best_split": [1, 5], "split_score": 0.40015186025055505}

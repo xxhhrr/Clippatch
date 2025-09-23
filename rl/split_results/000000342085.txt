@@ -1,0 +1,6 @@
+{"sent": "cat with hat", "ann_id": 48785, "best_split": [2, 1], "split_score": 0.7040816326249968}
+{"sent": "santa cat", "ann_id": 48785, "best_split": [2, 1], "split_score": 0.7040816326249968}
+{"sent": "cat with hat", "ann_id": 48785, "best_split": [2, 1], "split_score": 0.7040816326249968}
+{"sent": "upright cat", "ann_id": 48518, "best_split": [2, 2], "split_score": 0.6769639193509736}
+{"sent": "cat sitting up", "ann_id": 48518, "best_split": [2, 2], "split_score": 0.6769639193509736}
+{"sent": "the cat with no hat", "ann_id": 48518, "best_split": [1, 2], "split_score": 0.46215745974836314}

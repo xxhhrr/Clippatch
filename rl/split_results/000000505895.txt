@@ -1,0 +1,6 @@
+{"sent": "pizza with arugala", "ann_id": 1076386, "best_split": [2, 1], "split_score": 0.3339235220968282}
+{"sent": "most green pizza", "ann_id": 1076386, "best_split": [2, 1], "split_score": 0.3380606510354665}
+{"sent": "pizza with leaves", "ann_id": 1076386, "best_split": [2, 1], "split_score": 0.3339235220968282}
+{"sent": "pizza wiht less green", "ann_id": 1074781, "best_split": [1, 2], "split_score": 0.9061058642321508}
+{"sent": "large mozzerella pizza", "ann_id": 1074781, "best_split": [1, 2], "split_score": 0.9061058642321508}
+{"sent": "closer pizza", "ann_id": 1074781, "best_split": [1, 2], "split_score": 0.9061058642321508}

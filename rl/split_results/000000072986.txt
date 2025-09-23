@@ -1,0 +1,6 @@
+{"sent": "yellow shirt", "ann_id": 460510, "best_split": [1, 2], "split_score": 0.5755702408692764}
+{"sent": "blond girl", "ann_id": 460510, "best_split": [1, 2], "split_score": 0.5755702408692764}
+{"sent": "yellow", "ann_id": 460510, "best_split": [1, 2], "split_score": 0.5755702408692764}
+{"sent": "red shirt", "ann_id": 429770, "best_split": [1, 3], "split_score": 0.4327082581885067}
+{"sent": "red", "ann_id": 429770, "best_split": [1, 2], "split_score": 0.5560107086231652}
+{"sent": "red shirt", "ann_id": 429770, "best_split": [1, 3], "split_score": 0.4327082581885067}

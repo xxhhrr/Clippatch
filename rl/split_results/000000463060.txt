@@ -1,0 +1,13 @@
+{"sent": "person in red pants", "ann_id": 1205874, "best_split": [2, 3], "split_score": 0.4245636479553538}
+{"sent": "red pants", "ann_id": 1205874, "best_split": [2, 3], "split_score": 0.4245636479553538}
+{"sent": "black coat and red pants", "ann_id": 1205874, "best_split": [2, 3], "split_score": 0.4245636479553538}
+{"sent": "person with orange hat", "ann_id": 2022958, "best_split": [1, 2], "split_score": 0.3927375637598558}
+{"sent": "blue jacket black pants", "ann_id": 2022958, "best_split": [3, 1], "split_score": 0.19788786655496135}
+{"sent": "man in blue and yellow with orange hat", "ann_id": 2022958, "best_split": [1, 5], "split_score": 0.47489336223341366}
+{"sent": "skiier in white bent a little", "ann_id": 1757741, "best_split": [2, 2], "split_score": 0.21699524131767536}
+{"sent": "skier with white coat green head band", "ann_id": 1757741, "best_split": [2, 2], "split_score": 0.21699524131767536}
+{"sent": "man in white between pink and red pants", "ann_id": 1757741, "best_split": [3, 1], "split_score": 0.14705574729907667}
+{"sent": "the guy with beige jacket and white hat in corner", "ann_id": 1753028, "best_split": [1, 2], "split_score": 0.15027104591237758}
+{"sent": "pink", "ann_id": 1702734, "best_split": [1, 3], "split_score": 0.35668599435969356}
+{"sent": "pink bunny suit", "ann_id": 1702734, "best_split": [1, 3], "split_score": 0.35668599435969356}
+{"sent": "pink bunny skier", "ann_id": 1702734, "best_split": [1, 3], "split_score": 0.35668599435969356}

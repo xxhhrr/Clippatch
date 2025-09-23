@@ -1,0 +1,6 @@
+{"sent": "man sitting on a bench", "ann_id": 234346, "best_split": [1, 2], "split_score": 0.6318346216356345}
+{"sent": "man", "ann_id": 234346, "best_split": [1, 2], "split_score": 0.6318346216356345}
+{"sent": "man", "ann_id": 234346, "best_split": [1, 2], "split_score": 0.6318346216356345}
+{"sent": "girl", "ann_id": 232415, "best_split": [3, 3], "split_score": 0.5080645160736634}
+{"sent": "girl", "ann_id": 232415, "best_split": [3, 3], "split_score": 0.5080645160736634}
+{"sent": "girl", "ann_id": 232415, "best_split": [3, 3], "split_score": 0.5080645160736634}

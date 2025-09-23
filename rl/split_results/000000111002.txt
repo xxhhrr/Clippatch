@@ -1,0 +1,11 @@
+{"sent": "one closest to the camera", "ann_id": 276941, "best_split": [1, 3], "split_score": 0.29129574677335573}
+{"sent": "closest no face", "ann_id": 276941, "best_split": [1, 2], "split_score": 0.45182917940344597}
+{"sent": "gree blue blue dots no face", "ann_id": 276941, "best_split": [2, 2], "split_score": 0.664634146300937}
+{"sent": "sheep closest to you", "ann_id": 276941, "best_split": [2, 2], "split_score": 0.664634146300937}
+{"sent": "animal looking towards camera", "ann_id": 276839, "best_split": [3, 2], "split_score": 0.5479070448978882}
+{"sent": "looking at us", "ann_id": 276839, "best_split": [1, 2], "split_score": 0.5112802933469675}
+{"sent": "sheep looking at camera", "ann_id": 276839, "best_split": [3, 2], "split_score": 0.5479070448978882}
+{"sent": "furthest sheep with blue mark", "ann_id": 275781, "best_split": [1, 5], "split_score": 0.3172794444656566}
+{"sent": "fathest sheep close to metal", "ann_id": 275781, "best_split": [1, 2], "split_score": 0.19694674744112936}
+{"sent": "blue upside down t on this sheeps back next to one with head up", "ann_id": 65844, "best_split": [2, 1], "split_score": 0.22342733187854713}
+{"sent": "sheep above sheep face", "ann_id": 65844, "best_split": [5, 1], "split_score": 0.14509803920552533}

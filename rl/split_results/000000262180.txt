@@ -1,0 +1,9 @@
+{"sent": "highest shrimp", "ann_id": 1905422, "best_split": [1, 3], "split_score": 0.08289526889937639}
+{"sent": "banana slice atop and behind other one", "ann_id": 1905422, "best_split": [2, 3], "split_score": 0.15903801394668757}
+{"sent": "uppermost banana slice on cake nearest brown stick", "ann_id": 1905422, "best_split": [2, 3], "split_score": 0.15903801394668757}
+{"sent": "fruit on cake", "ann_id": 1904651, "best_split": [2, 3], "split_score": 0.2680739363154245}
+{"sent": "the banana piece closest to us on the cake thing", "ann_id": 1904651, "best_split": [2, 3], "split_score": 0.2680739363154245}
+{"sent": "banana on chocolate", "ann_id": 1904651, "best_split": [2, 3], "split_score": 0.2680739363154245}
+{"sent": "most bananas on dish", "ann_id": 1042476, "best_split": [1, 3], "split_score": 0.4079382579773217}
+{"sent": "banana on plate", "ann_id": 1042476, "best_split": [1, 3], "split_score": 0.4079382579773217}
+{"sent": "bananas closest to camera", "ann_id": 1042476, "best_split": [1, 3], "split_score": 0.4079382579773217}

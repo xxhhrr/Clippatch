@@ -1,0 +1,6 @@
+{"sent": "bed with painting", "ann_id": 319117, "best_split": [1, 3], "split_score": 0.3383462788333418}
+{"sent": "bed near the window", "ann_id": 319117, "best_split": [1, 3], "split_score": 0.3383462788333418}
+{"sent": "far bed", "ann_id": 319117, "best_split": [1, 3], "split_score": 0.3383462788333418}
+{"sent": "i do want to sleep in that bed away from the windows", "ann_id": 318566, "best_split": [3, 2], "split_score": 0.7698681731855115}
+{"sent": "big bed", "ann_id": 318566, "best_split": [3, 2], "split_score": 0.7698681731855115}
+{"sent": "nearest bed", "ann_id": 318566, "best_split": [3, 2], "split_score": 0.7698681731855115}

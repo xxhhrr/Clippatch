@@ -1,0 +1,6 @@
+{"sent": "folded up chair gray", "ann_id": 103421, "best_split": [2, 3], "split_score": 0.6884219936646824}
+{"sent": "gray portion near the orange chair", "ann_id": 103421, "best_split": [2, 3], "split_score": 0.6884219936646824}
+{"sent": "seat in the row behind the kid", "ann_id": 103421, "best_split": [2, 2], "split_score": 0.46652529532970877}
+{"sent": "chair boy sitting on", "ann_id": 102752, "best_split": [1, 2], "split_score": 0.45312499998193856}
+{"sent": "yellow seat cushion", "ann_id": 102752, "best_split": [3, 2], "split_score": 0.5846501128196832}
+{"sent": "booster chair", "ann_id": 102752, "best_split": [3, 2], "split_score": 0.5846501128196832}

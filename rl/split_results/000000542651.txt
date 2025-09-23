@@ -1,0 +1,9 @@
+{"sent": "lady with awesome dress", "ann_id": 473423, "best_split": [1, 3], "split_score": 0.6148849190449188}
+{"sent": "old lady", "ann_id": 473423, "best_split": [1, 3], "split_score": 0.6148849190449188}
+{"sent": "black woman sitting next to the two girls", "ann_id": 473423, "best_split": [1, 2], "split_score": 0.4887197066131728}
+{"sent": "little girl with candy", "ann_id": 462305, "best_split": [1, 5], "split_score": 0.3788571984445773}
+{"sent": "smallest girl", "ann_id": 462305, "best_split": [2, 3], "split_score": 0.3125976867445454}
+{"sent": "little girl", "ann_id": 462305, "best_split": [1, 5], "split_score": 0.3788571984445773}
+{"sent": "bigger little girl", "ann_id": 431672, "best_split": [1, 3], "split_score": 0.41505791503287537}
+{"sent": "girl looking at woman", "ann_id": 431672, "best_split": [1, 3], "split_score": 0.41505791503287537}
+{"sent": "middle sized girl", "ann_id": 431672, "best_split": [1, 3], "split_score": 0.41505791503287537}

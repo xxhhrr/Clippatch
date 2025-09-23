@@ -1,0 +1,9 @@
+{"sent": "white shirt", "ann_id": 456162, "best_split": [2, 3], "split_score": 0.4203169711181689}
+{"sent": "no jacket guy background", "ann_id": 456162, "best_split": [2, 2], "split_score": 0.2862389446645002}
+{"sent": "guy by screen", "ann_id": 456162, "best_split": [2, 2], "split_score": 0.2862389446645002}
+{"sent": "woman reaching for food black shirt", "ann_id": 446114, "best_split": [1, 3], "split_score": 0.46289986747762163}
+{"sent": "woman next to table", "ann_id": 446114, "best_split": [1, 2], "split_score": 0.32399758209671575}
+{"sent": "woman at buffet", "ann_id": 446114, "best_split": [1, 2], "split_score": 0.32399758209671575}
+{"sent": "man getting pie", "ann_id": 432089, "best_split": [2, 1], "split_score": 0.4511948638553325}
+{"sent": "man in suit close to you", "ann_id": 432089, "best_split": [1, 2], "split_score": 0.6233541694166992}
+{"sent": "closest man", "ann_id": 432089, "best_split": [1, 3], "split_score": 0.38377042426253705}

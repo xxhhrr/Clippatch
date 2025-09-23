@@ -1,0 +1,5 @@
+{"sent": "yellow person in back", "ann_id": 1201505, "best_split": [2, 3], "split_score": 0.6990553305753159}
+{"sent": "the yellow in the background", "ann_id": 1201505, "best_split": [2, 3], "split_score": 0.6990553305753159}
+{"sent": "hands feeding elephant", "ann_id": 430320, "best_split": [3, 1], "split_score": 0.1995722123965604}
+{"sent": "the hands", "ann_id": 430320, "best_split": [3, 1], "split_score": 0.1995722123965604}
+{"sent": "hands touching the elephant trunk", "ann_id": 430320, "best_split": [3, 1], "split_score": 0.1995722123965604}

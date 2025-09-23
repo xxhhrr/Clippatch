@@ -1,0 +1,9 @@
+{"sent": "man in white beanie", "ann_id": 516106, "best_split": [1, 5], "split_score": 0.5202952029083953}
+{"sent": "black jacket", "ann_id": 516106, "best_split": [1, 3], "split_score": 0.4990347490046432}
+{"sent": "blk jacket white pants", "ann_id": 516106, "best_split": [1, 5], "split_score": 0.5202952029083953}
+{"sent": "man with black hat looks like a cop", "ann_id": 490594, "best_split": [1, 5], "split_score": 0.29636769477512503}
+{"sent": "officer", "ann_id": 490594, "best_split": [1, 5], "split_score": 0.29636769477512503}
+{"sent": "police in hat", "ann_id": 490594, "best_split": [1, 5], "split_score": 0.29636769477512503}
+{"sent": "red jacket", "ann_id": 445242, "best_split": [1, 5], "split_score": 0.575284090850722}
+{"sent": "woman in pink jacket", "ann_id": 445242, "best_split": [1, 5], "split_score": 0.575284090850722}
+{"sent": "lady in red", "ann_id": 445242, "best_split": [1, 5], "split_score": 0.575284090850722}

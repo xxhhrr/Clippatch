@@ -1,0 +1,6 @@
+{"sent": "white pants", "ann_id": 521980, "best_split": [1, 2], "split_score": 0.19802295917578033}
+{"sent": "the man near the yellow chair", "ann_id": 521980, "best_split": [2, 2], "split_score": 0.3960459183357744}
+{"sent": "khaki pants", "ann_id": 521980, "best_split": [1, 5], "split_score": 0.44090202173008336}
+{"sent": "player", "ann_id": 472357, "best_split": [1, 3], "split_score": 0.6804342694901797}
+{"sent": "tennis guy", "ann_id": 472357, "best_split": [1, 3], "split_score": 0.6804342694901797}
+{"sent": "man in red", "ann_id": 472357, "best_split": [1, 3], "split_score": 0.6804342694901797}

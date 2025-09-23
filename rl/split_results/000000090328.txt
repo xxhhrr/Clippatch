@@ -1,0 +1,11 @@
+{"sent": "patterned chair facing building outside window", "ann_id": 1936216, "best_split": [5, 1], "split_score": 0.24117413722320763}
+{"sent": "chair with ony edge showing", "ann_id": 1936216, "best_split": [3, 1], "split_score": 0.1551765553594057}
+{"sent": "chair closest to us 5 pm", "ann_id": 1936216, "best_split": [3, 1], "split_score": 0.1551765553594057}
+{"sent": "part of patterned chair in corner", "ann_id": 389901, "best_split": [5, 1], "split_score": 0.22956101487821576}
+{"sent": "part of couch hidden", "ann_id": 389901, "best_split": [3, 3], "split_score": 0.4142289634499406}
+{"sent": "light brown sofa next to tree patterned sofa", "ann_id": 389821, "best_split": [2, 2], "split_score": 0.27718431120239284}
+{"sent": "all tan chair facing window black throw on it", "ann_id": 389821, "best_split": [5, 1], "split_score": 0.25204244527636}
+{"sent": "the couch closest to the flower pot", "ann_id": 389821, "best_split": [2, 2], "split_score": 0.27718431120239284}
+{"sent": "white flowery chair on west side", "ann_id": 1950213, "best_split": [3, 3], "split_score": 0.6929765885128801}
+{"sent": "first floral chair", "ann_id": 1950213, "best_split": [1, 5], "split_score": 0.33652782894060745}
+{"sent": "flowers chair closest to plant", "ann_id": 1950213, "best_split": [3, 3], "split_score": 0.6929765885128801}

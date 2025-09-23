@@ -1,0 +1,6 @@
+{"sent": "red bus bumper", "ann_id": 166506, "best_split": [3, 2], "split_score": 0.4725124942778271}
+{"sent": "the one with the red bumper", "ann_id": 166506, "best_split": [3, 2], "split_score": 0.4725124942778271}
+{"sent": "red bus", "ann_id": 166506, "best_split": [3, 2], "split_score": 0.4725124942778271}
+{"sent": "white bus", "ann_id": 165651, "best_split": [1, 2], "split_score": 0.6215824494162467}
+{"sent": "bus closes to you", "ann_id": 165651, "best_split": [1, 2], "split_score": 0.6215824494162467}
+{"sent": "bus thats white", "ann_id": 165651, "best_split": [1, 2], "split_score": 0.6215824494162467}

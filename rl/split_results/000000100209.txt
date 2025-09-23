@@ -1,0 +1,6 @@
+{"sent": "red on side", "ann_id": 512468, "best_split": [1, 5], "split_score": 0.8429553263880623}
+{"sent": "polka dots", "ann_id": 512468, "best_split": [1, 5], "split_score": 0.8429553263880623}
+{"sent": "red polk a dots", "ann_id": 512468, "best_split": [1, 5], "split_score": 0.8429553263880623}
+{"sent": "the boy", "ann_id": 505823, "best_split": [1, 2], "split_score": 0.4644113095912079}
+{"sent": "boy eating donut", "ann_id": 505823, "best_split": [1, 3], "split_score": 0.43506887289114315}
+{"sent": "little boy", "ann_id": 505823, "best_split": [1, 2], "split_score": 0.4644113095912079}

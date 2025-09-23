@@ -1,0 +1,6 @@
+{"sent": "man with hat", "ann_id": 473584, "best_split": [3, 3], "split_score": 0.23495311165942429}
+{"sent": "black man", "ann_id": 473584, "best_split": [1, 3], "split_score": 0.543556949774158}
+{"sent": "darker player", "ann_id": 473584, "best_split": [1, 2], "split_score": 0.35913584182241964}
+{"sent": "main guy", "ann_id": 426833, "best_split": [1, 3], "split_score": 0.4754264972604201}
+{"sent": "asian player", "ann_id": 426833, "best_split": [1, 3], "split_score": 0.4754264972604201}
+{"sent": "azn guy", "ann_id": 426833, "best_split": [1, 3], "split_score": 0.4754264972604201}

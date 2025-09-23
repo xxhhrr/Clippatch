@@ -1,0 +1,6 @@
+{"sent": "person behind guy with red scarf", "ann_id": 234279, "best_split": [2, 1], "split_score": 0.2952176578672893}
+{"sent": "man in blue behind man in black leather jacket", "ann_id": 234279, "best_split": [2, 1], "split_score": 0.2952176578672893}
+{"sent": "person behind person wearing scarf", "ann_id": 234279, "best_split": [2, 1], "split_score": 0.2952176578672893}
+{"sent": "man with red plaid scarf", "ann_id": 208377, "best_split": [2, 2], "split_score": 0.6930617960732297}
+{"sent": "man rider", "ann_id": 208377, "best_split": [1, 2], "split_score": 0.5639182628772093}
+{"sent": "man with long scarf", "ann_id": 208377, "best_split": [2, 2], "split_score": 0.6930617960732297}

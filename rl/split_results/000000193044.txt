@@ -1,0 +1,6 @@
+{"sent": "elephant 1", "ann_id": 585036, "best_split": [3, 2], "split_score": 0.18946345674301376}
+{"sent": "tallest elephant", "ann_id": 585036, "best_split": [3, 2], "split_score": 0.18946345674301376}
+{"sent": "furthest elephant", "ann_id": 585036, "best_split": [3, 2], "split_score": 0.18946345674301376}
+{"sent": "elephant walking no tusks", "ann_id": 584486, "best_split": [2, 3], "split_score": 0.34633766807309796}
+{"sent": "big elephant that is closest to baby", "ann_id": 584486, "best_split": [2, 3], "split_score": 0.34633766807309796}
+{"sent": "big elephant by small elephant", "ann_id": 584486, "best_split": [2, 3], "split_score": 0.34633766807309796}

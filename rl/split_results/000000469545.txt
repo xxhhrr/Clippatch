@@ -1,0 +1,9 @@
+{"sent": "the umpire", "ann_id": 508046, "best_split": [2, 1], "split_score": 0.10158854676989258}
+{"sent": "umpire", "ann_id": 508046, "best_split": [2, 1], "split_score": 0.10158854676989258}
+{"sent": "man in black", "ann_id": 508046, "best_split": [2, 3], "split_score": 0.2875071306003985}
+{"sent": "catcher", "ann_id": 496994, "best_split": [3, 1], "split_score": 0.13713539398470095}
+{"sent": "catcher", "ann_id": 496994, "best_split": [3, 1], "split_score": 0.13713539398470095}
+{"sent": "catcher", "ann_id": 496994, "best_split": [3, 1], "split_score": 0.13713539398470095}
+{"sent": "batters up", "ann_id": 490671, "best_split": [3, 3], "split_score": 0.36629542126602593}
+{"sent": "batter", "ann_id": 490671, "best_split": [3, 3], "split_score": 0.36629542126602593}
+{"sent": "batter", "ann_id": 490671, "best_split": [3, 3], "split_score": 0.36629542126602593}

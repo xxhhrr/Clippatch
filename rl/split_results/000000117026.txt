@@ -1,0 +1,6 @@
+{"sent": "partially visible giraffe head", "ann_id": 596663, "best_split": [2, 1], "split_score": 0.5022218631230867}
+{"sent": "not eating", "ann_id": 596663, "best_split": [1, 2], "split_score": 0.49551578523033346}
+{"sent": "giraffe face on edge", "ann_id": 596663, "best_split": [2, 1], "split_score": 0.5022218631230867}
+{"sent": "the main giraffe", "ann_id": 595969, "best_split": [1, 2], "split_score": 0.584794216307121}
+{"sent": "closest", "ann_id": 595969, "best_split": [2, 1], "split_score": 0.46464911130475894}
+{"sent": "main giraffe", "ann_id": 595969, "best_split": [1, 2], "split_score": 0.584794216307121}

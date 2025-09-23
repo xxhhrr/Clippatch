@@ -1,0 +1,9 @@
+{"sent": "leaning woman", "ann_id": 196705, "best_split": [2, 1], "split_score": 0.172227621201014}
+{"sent": "smiling leaning girl", "ann_id": 196705, "best_split": [2, 1], "split_score": 0.172227621201014}
+{"sent": "woman leaning against the bed black short sleeved shirt", "ann_id": 196705, "best_split": [1, 5], "split_score": 0.5271317828993013}
+{"sent": "patient in bed", "ann_id": 195910, "best_split": [2, 2], "split_score": 0.5850027281483355}
+{"sent": "guy in bed", "ann_id": 195910, "best_split": [2, 2], "split_score": 0.5850027281483355}
+{"sent": "patient", "ann_id": 195910, "best_split": [2, 2], "split_score": 0.5850027281483355}
+{"sent": "woman glasses", "ann_id": 195524, "best_split": [1, 5], "split_score": 0.5911949685112068}
+{"sent": "glasses", "ann_id": 195524, "best_split": [1, 5], "split_score": 0.5911949685112068}
+{"sent": "glasses", "ann_id": 195524, "best_split": [1, 5], "split_score": 0.5911949685112068}

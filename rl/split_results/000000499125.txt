@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 2175055, "best_split": [1, 2], "split_score": 0.05113177041056549}
+{"sent": "smaller elephant", "ann_id": 2175055, "best_split": [3, 1], "split_score": 0.3690878378155714}
+{"sent": "little elephant", "ann_id": 2175055, "best_split": [3, 1], "split_score": 0.3690878378155714}
+{"sent": "tusk", "ann_id": 580715, "best_split": [2, 1], "split_score": 0.6240343670865571}
+{"sent": "elephant with tusks", "ann_id": 580715, "best_split": [2, 1], "split_score": 0.6240343670865571}
+{"sent": "elephant with tusks", "ann_id": 580715, "best_split": [2, 1], "split_score": 0.6240343670865571}

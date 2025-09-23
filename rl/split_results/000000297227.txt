@@ -1,0 +1,6 @@
+{"sent": "biker 2", "ann_id": 202720, "best_split": [3, 3], "split_score": 0.3509690937204074}
+{"sent": "the person on the phone", "ann_id": 202720, "best_split": [1, 3], "split_score": 0.29198841697080186}
+{"sent": "farthest rider", "ann_id": 202720, "best_split": [3, 3], "split_score": 0.3509690937204074}
+{"sent": "cop with back closer", "ann_id": 2155716, "best_split": [1, 5], "split_score": 0.5625347414783979}
+{"sent": "cop with both hands on handlebars", "ann_id": 2155716, "best_split": [1, 5], "split_score": 0.5625347414783979}
+{"sent": "guy on bike full back", "ann_id": 2155716, "best_split": [1, 5], "split_score": 0.5625347414783979}

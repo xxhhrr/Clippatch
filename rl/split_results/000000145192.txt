@@ -1,0 +1,6 @@
+{"sent": "piano bench", "ann_id": 1397539, "best_split": [1, 3], "split_score": 0.38603812954633226}
+{"sent": "table cat is on", "ann_id": 1397539, "best_split": [1, 3], "split_score": 0.38603812954633226}
+{"sent": "bench cat sleeps on", "ann_id": 1397539, "best_split": [1, 3], "split_score": 0.38603812954633226}
+{"sent": "piano upper part", "ann_id": 574316, "best_split": [1, 3], "split_score": 0.4354428457372369}
+{"sent": "piano", "ann_id": 574316, "best_split": [1, 3], "split_score": 0.4354428457372369}
+{"sent": "lol is that a piano", "ann_id": 574316, "best_split": [1, 3], "split_score": 0.4354428457372369}

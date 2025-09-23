@@ -1,0 +1,13 @@
+{"sent": "eyeglasses and stripe shirt man", "ann_id": 1709453, "best_split": [1, 3], "split_score": 0.8242036679039453}
+{"sent": "stripe shirt", "ann_id": 1709453, "best_split": [1, 3], "split_score": 0.8242036679039453}
+{"sent": "man in glasses looking up", "ann_id": 1709453, "best_split": [1, 3], "split_score": 0.8242036679039453}
+{"sent": "man at the end no glasses", "ann_id": 499454, "best_split": [2, 1], "split_score": 0.14676486059485913}
+{"sent": "guy at 9", "ann_id": 499454, "best_split": [1, 2], "split_score": 0.3903061224334221}
+{"sent": "the man hiding in the back", "ann_id": 482372, "best_split": [5, 1], "split_score": 0.09147609146929937}
+{"sent": "man in back", "ann_id": 482372, "best_split": [1, 5], "split_score": 0.3711407517609233}
+{"sent": "red tie", "ann_id": 471637, "best_split": [1, 5], "split_score": 0.5073940190184527}
+{"sent": "man in red tie", "ann_id": 471637, "best_split": [1, 5], "split_score": 0.5073940190184527}
+{"sent": "guy raising hand", "ann_id": 471637, "best_split": [1, 5], "split_score": 0.5073940190184527}
+{"sent": "black tie", "ann_id": 448973, "best_split": [1, 3], "split_score": 0.41871491632139546}
+{"sent": "man with black tie", "ann_id": 448973, "best_split": [1, 3], "split_score": 0.41871491632139546}
+{"sent": "black tie", "ann_id": 448973, "best_split": [1, 3], "split_score": 0.41871491632139546}

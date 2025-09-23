@@ -1,0 +1,6 @@
+{"sent": "sign with horse on it", "ann_id": 406596, "best_split": [3, 3], "split_score": 0.608734669367524}
+{"sent": "horse symbol", "ann_id": 406596, "best_split": [3, 2], "split_score": 0.30637396492332236}
+{"sent": "light man on horse", "ann_id": 406596, "best_split": [3, 3], "split_score": 0.608734669367524}
+{"sent": "the traffic light", "ann_id": 403347, "best_split": [1, 5], "split_score": 0.4027258150362795}
+{"sent": "car traffic light", "ann_id": 403347, "best_split": [1, 5], "split_score": 0.4027258150362795}
+{"sent": "stop light", "ann_id": 403347, "best_split": [1, 5], "split_score": 0.4027258150362795}

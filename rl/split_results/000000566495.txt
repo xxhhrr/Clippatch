@@ -1,0 +1,5 @@
+{"sent": "whole horse", "ann_id": 274372, "best_split": [2, 1], "split_score": 0.26598924087470155}
+{"sent": "horse with full body", "ann_id": 274372, "best_split": [2, 1], "split_score": 0.26598924087470155}
+{"sent": "smaller horse", "ann_id": 274372, "best_split": [2, 1], "split_score": 0.26598924087470155}
+{"sent": "horse head without body", "ann_id": 58713, "best_split": [2, 2], "split_score": 0.4854170915518347}
+{"sent": "closest horse", "ann_id": 58713, "best_split": [2, 2], "split_score": 0.4854170915518347}

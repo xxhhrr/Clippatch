@@ -1,0 +1,6 @@
+{"sent": "duck facing us", "ann_id": 2174428, "best_split": [2, 3], "split_score": 0.6824324323500925}
+{"sent": "blurry duck", "ann_id": 2174428, "best_split": [2, 1], "split_score": 0.22544642856244235}
+{"sent": "back duck", "ann_id": 2174428, "best_split": [2, 1], "split_score": 0.22544642856244235}
+{"sent": "full duck", "ann_id": 40236, "best_split": [3, 1], "split_score": 0.5547971729811794}
+{"sent": "main duck", "ann_id": 40236, "best_split": [3, 1], "split_score": 0.5547971729811794}
+{"sent": "whole duck", "ann_id": 40236, "best_split": [3, 1], "split_score": 0.5547971729811794}

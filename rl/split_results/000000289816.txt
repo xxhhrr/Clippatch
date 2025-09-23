@@ -1,0 +1,6 @@
+{"sent": "black shirt closest to us", "ann_id": 1752057, "best_split": [2, 2], "split_score": 0.5537955403586088}
+{"sent": "umpire", "ann_id": 1752057, "best_split": [1, 2], "split_score": 0.4691481967538363}
+{"sent": "home umpire", "ann_id": 1752057, "best_split": [3, 1], "split_score": 0.2945301542647909}
+{"sent": "red batter", "ann_id": 503491, "best_split": [1, 5], "split_score": 0.5128160720027004}
+{"sent": "batter", "ann_id": 503491, "best_split": [1, 5], "split_score": 0.5128160720027004}
+{"sent": "batter", "ann_id": 503491, "best_split": [1, 5], "split_score": 0.5128160720027004}

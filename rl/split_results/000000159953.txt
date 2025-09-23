@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 204513, "best_split": [2, 3], "split_score": 0.6389635149805907}
+{"sent": "man in black", "ann_id": 204513, "best_split": [2, 3], "split_score": 0.6389635149805907}
+{"sent": "the man", "ann_id": 204513, "best_split": [2, 3], "split_score": 0.6389635149805907}
+{"sent": "woman with solid red dress", "ann_id": 203972, "best_split": [3, 2], "split_score": 0.32862923119227977}
+{"sent": "rosy cheeked woman", "ann_id": 203972, "best_split": [3, 2], "split_score": 0.32862923119227977}
+{"sent": "lady with white sweater on", "ann_id": 203972, "best_split": [3, 2], "split_score": 0.32862923119227977}
+{"sent": "lady with gray sweater on", "ann_id": 185818, "best_split": [1, 5], "split_score": 0.5397727272179613}
+{"sent": "lady with pillow on her back", "ann_id": 185818, "best_split": [1, 5], "split_score": 0.5397727272179613}
+{"sent": "lady with pillow", "ann_id": 185818, "best_split": [1, 5], "split_score": 0.5397727272179613}

@@ -1,0 +1,6 @@
+{"sent": "girl in dress", "ann_id": 515848, "best_split": [1, 2], "split_score": 0.713109083098438}
+{"sent": "woman", "ann_id": 515848, "best_split": [1, 2], "split_score": 0.713109083098438}
+{"sent": "the gal in a dress", "ann_id": 515848, "best_split": [1, 2], "split_score": 0.713109083098438}
+{"sent": "man in hat", "ann_id": 484490, "best_split": [1, 2], "split_score": 0.4524450217952017}
+{"sent": "hat man", "ann_id": 484490, "best_split": [1, 2], "split_score": 0.4524450217952017}
+{"sent": "tie", "ann_id": 484490, "best_split": [2, 1], "split_score": 0.4572791807178569}

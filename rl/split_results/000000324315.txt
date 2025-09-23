@@ -1,0 +1,5 @@
+{"sent": "wearing sunglasses", "ann_id": 2152312, "best_split": [3, 2], "split_score": 0.5157708209668316}
+{"sent": "kid in glasses drinking", "ann_id": 2152312, "best_split": [3, 2], "split_score": 0.5157708209668316}
+{"sent": "boy drinking coffee", "ann_id": 2152312, "best_split": [3, 2], "split_score": 0.5157708209668316}
+{"sent": "umbrella nearest to building", "ann_id": 284952, "best_split": [3, 2], "split_score": 0.4358013120445901}
+{"sent": "hat on lady", "ann_id": 284952, "best_split": [3, 3], "split_score": 0.3049577933295734}

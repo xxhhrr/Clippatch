@@ -1,0 +1,9 @@
+{"sent": "black dress", "ann_id": 525892, "best_split": [2, 1], "split_score": 0.3674685499788273}
+{"sent": "girl in dark clothes with sword", "ann_id": 525892, "best_split": [2, 1], "split_score": 0.3674685499788273}
+{"sent": "woman in black holding the tie", "ann_id": 525892, "best_split": [2, 1], "split_score": 0.3674685499788273}
+{"sent": "guy", "ann_id": 483579, "best_split": [1, 3], "split_score": 0.720618969241824}
+{"sent": "man", "ann_id": 483579, "best_split": [1, 3], "split_score": 0.720618969241824}
+{"sent": "man", "ann_id": 483579, "best_split": [1, 3], "split_score": 0.720618969241824}
+{"sent": "girl leg up", "ann_id": 426937, "best_split": [2, 1], "split_score": 0.4583293782520567}
+{"sent": "woman with leg up in air", "ann_id": 426937, "best_split": [1, 2], "split_score": 0.5977017470726471}
+{"sent": "woman with skirt", "ann_id": 426937, "best_split": [1, 2], "split_score": 0.5977017470726471}

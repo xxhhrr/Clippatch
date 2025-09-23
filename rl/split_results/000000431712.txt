@@ -1,0 +1,4 @@
+{"sent": "the car theman is sitting on", "ann_id": 350115, "best_split": [5, 1], "split_score": 0.43198373704624904}
+{"sent": "van under guy", "ann_id": 350115, "best_split": [3, 1], "split_score": 0.4253137065380482}
+{"sent": "blue car barely visible", "ann_id": 346917, "best_split": [5, 1], "split_score": 0.30793157073212174}
+{"sent": "light blue car almost not visible", "ann_id": 346917, "best_split": [5, 1], "split_score": 0.30793157073212174}

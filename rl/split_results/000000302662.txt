@@ -1,0 +1,5 @@
+{"sent": "blue bus slightly hidden", "ann_id": 168933, "best_split": [3, 2], "split_score": 0.5282433270850214}
+{"sent": "blue bus cut off", "ann_id": 168933, "best_split": [3, 2], "split_score": 0.5282433270850214}
+{"sent": "whole bus", "ann_id": 163768, "best_split": [3, 2], "split_score": 0.48495477196926756}
+{"sent": "22", "ann_id": 163768, "best_split": [3, 2], "split_score": 0.48495477196926756}
+{"sent": "fully visible bus", "ann_id": 163768, "best_split": [3, 2], "split_score": 0.48495477196926756}

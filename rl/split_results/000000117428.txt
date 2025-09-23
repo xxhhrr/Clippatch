@@ -1,0 +1,6 @@
+{"sent": "light gray couch with red blanket over back", "ann_id": 115902, "best_split": [3, 2], "split_score": 0.8288278545816579}
+{"sent": "red blanket", "ann_id": 115902, "best_split": [3, 2], "split_score": 0.8288278545816579}
+{"sent": "couch with red blanket", "ann_id": 115902, "best_split": [3, 2], "split_score": 0.8288278545816579}
+{"sent": "darkest partial chair", "ann_id": 98988, "best_split": [3, 3], "split_score": 0.6647027315363858}
+{"sent": "dark chair only partial", "ann_id": 98988, "best_split": [3, 3], "split_score": 0.6647027315363858}
+{"sent": "green chair darkest", "ann_id": 98988, "best_split": [3, 3], "split_score": 0.6647027315363858}

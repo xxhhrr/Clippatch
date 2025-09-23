@@ -1,0 +1,12 @@
+{"sent": "girl sitting with hands in lap and looking away", "ann_id": 224985, "best_split": [1, 5], "split_score": 0.6839378237788263}
+{"sent": "sitting 3", "ann_id": 224985, "best_split": [1, 3], "split_score": 0.6412213740075607}
+{"sent": "woman closest to tv in black shirt", "ann_id": 223596, "best_split": [3, 2], "split_score": 0.28066568768667}
+{"sent": "back of head", "ann_id": 222387, "best_split": [1, 3], "split_score": 0.6430984555596586}
+{"sent": "girl with back facing you", "ann_id": 222387, "best_split": [1, 3], "split_score": 0.6430984555596586}
+{"sent": "woman with back to us", "ann_id": 222387, "best_split": [1, 3], "split_score": 0.6430984555596586}
+{"sent": "man with hand in chin", "ann_id": 218009, "best_split": [1, 5], "split_score": 0.4375497215157568}
+{"sent": "man lloks bored at camera", "ann_id": 218009, "best_split": [5, 1], "split_score": 0.1628056627925671}
+{"sent": "man white shirt", "ann_id": 218009, "best_split": [1, 5], "split_score": 0.4375497215157568}
+{"sent": "woman with blue shirt hands in lap", "ann_id": 2155111, "best_split": [1, 5], "split_score": 0.368442211018247}
+{"sent": "blue shirt and shorts", "ann_id": 2155111, "best_split": [1, 5], "split_score": 0.368442211018247}
+{"sent": "lady with back to window", "ann_id": 2155111, "best_split": [5, 1], "split_score": 0.14844804317236437}

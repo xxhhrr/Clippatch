@@ -1,0 +1,9 @@
+{"sent": "elephant butt", "ann_id": 585116, "best_split": [3, 1], "split_score": 0.1625386996814165}
+{"sent": "rearend of elephant", "ann_id": 585116, "best_split": [3, 1], "split_score": 0.1625386996814165}
+{"sent": "elephant behind bush", "ann_id": 585116, "best_split": [3, 1], "split_score": 0.1625386996814165}
+{"sent": "the elephant with the trunk near the mud puddle", "ann_id": 581605, "best_split": [3, 2], "split_score": 0.5995119569937031}
+{"sent": "dark elephant with tusks", "ann_id": 581605, "best_split": [3, 2], "split_score": 0.5995119569937031}
+{"sent": "elephant with legs cut off by water", "ann_id": 581605, "best_split": [3, 2], "split_score": 0.5995119569937031}
+{"sent": "big one", "ann_id": 581006, "best_split": [2, 2], "split_score": 0.7749657149498214}
+{"sent": "closest one", "ann_id": 581006, "best_split": [2, 1], "split_score": 0.4691260744817648}
+{"sent": "elephant closest to us", "ann_id": 581006, "best_split": [2, 2], "split_score": 0.7749657149498214}

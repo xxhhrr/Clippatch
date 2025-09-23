@@ -1,0 +1,6 @@
+{"sent": "blurry pizza above slice", "ann_id": 1075082, "best_split": [3, 2], "split_score": 0.5500569208765782}
+{"sent": "blurry piece", "ann_id": 1075082, "best_split": [3, 1], "split_score": 0.38012029677393333}
+{"sent": "pizza on the furthest part away of plate", "ann_id": 1075082, "best_split": [3, 2], "split_score": 0.5500569208765782}
+{"sent": "close up pizza slice", "ann_id": 1073334, "best_split": [2, 1], "split_score": 0.40803709427144425}
+{"sent": "slice of pizza in hand", "ann_id": 1073334, "best_split": [1, 2], "split_score": 0.49111275925190884}
+{"sent": "pizza slice in hand", "ann_id": 1073334, "best_split": [1, 2], "split_score": 0.49111275925190884}

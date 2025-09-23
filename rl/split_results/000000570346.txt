@@ -1,0 +1,6 @@
+{"sent": "elephant far", "ann_id": 584626, "best_split": [1, 2], "split_score": 0.41000139099979127}
+{"sent": "barely visible elephant", "ann_id": 584626, "best_split": [1, 2], "split_score": 0.41000139099979127}
+{"sent": "the elephant you can barely see", "ann_id": 584626, "best_split": [1, 2], "split_score": 0.41000139099979127}
+{"sent": "fully seen elephant", "ann_id": 582916, "best_split": [1, 3], "split_score": 0.5206056710049066}
+{"sent": "elephant", "ann_id": 582916, "best_split": [1, 3], "split_score": 0.5206056710049066}
+{"sent": "elephant", "ann_id": 582916, "best_split": [1, 3], "split_score": 0.5206056710049066}

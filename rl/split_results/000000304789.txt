@@ -1,0 +1,6 @@
+{"sent": "coffee cup", "ann_id": 2183478, "best_split": [2, 3], "split_score": 0.5695142377878064}
+{"sent": "coffee cup", "ann_id": 2183478, "best_split": [2, 3], "split_score": 0.5695142377878064}
+{"sent": "coffe mug", "ann_id": 2183478, "best_split": [2, 3], "split_score": 0.5695142377878064}
+{"sent": "purple cup", "ann_id": 681038, "best_split": [3, 3], "split_score": 0.32141130975972104}
+{"sent": "red creamer", "ann_id": 681038, "best_split": [5, 1], "split_score": 0.24009461854523018}
+{"sent": "purple jug", "ann_id": 681038, "best_split": [2, 3], "split_score": 0.32141571681806647}

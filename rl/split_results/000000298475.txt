@@ -1,0 +1,9 @@
+{"sent": "green thing", "ann_id": 1572386, "best_split": [3, 3], "split_score": 0.28244028400864424}
+{"sent": "cut off donut", "ann_id": 1572386, "best_split": [2, 2], "split_score": 0.1224581339621368}
+{"sent": "brown edge donut", "ann_id": 1572386, "best_split": [3, 3], "split_score": 0.28244028400864424}
+{"sent": "far partial donut", "ann_id": 1079167, "best_split": [3, 2], "split_score": 0.7676635513301249}
+{"sent": "the white donut that is hard to see and has brown piping", "ann_id": 1079167, "best_split": [3, 2], "split_score": 0.7676635513301249}
+{"sent": "swirly icing doughnut", "ann_id": 1079167, "best_split": [2, 2], "split_score": 0.5844901866522266}
+{"sent": "big doughnut", "ann_id": 1078618, "best_split": [3, 1], "split_score": 0.4695431471920173}
+{"sent": "white donut", "ann_id": 1078618, "best_split": [3, 1], "split_score": 0.4695431471920173}
+{"sent": "donut one", "ann_id": 1078618, "best_split": [3, 1], "split_score": 0.4695431471920173}

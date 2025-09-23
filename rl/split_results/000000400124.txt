@@ -1,0 +1,5 @@
+{"sent": "slice of blood orange closest to carrots", "ann_id": 1911593, "best_split": [3, 2], "split_score": 0.3161290322216441}
+{"sent": "blood orange most seen", "ann_id": 1911593, "best_split": [3, 2], "split_score": 0.3161290322216441}
+{"sent": "grapefruit or blood orange", "ann_id": 1050952, "best_split": [1, 5], "split_score": 0.33094416420396916}
+{"sent": "back slices of orange", "ann_id": 1050952, "best_split": [1, 3], "split_score": 0.14284964024248464}
+{"sent": "three orange slices closest to the pickle", "ann_id": 1050952, "best_split": [3, 3], "split_score": 0.17244033870312983}

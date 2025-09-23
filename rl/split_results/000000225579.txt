@@ -1,0 +1,4 @@
+{"sent": "man in black jacket next to man with plaid sleeve", "ann_id": 254798, "best_split": [2, 3], "split_score": 0.5172903836431442}
+{"sent": "man in black", "ann_id": 254798, "best_split": [3, 1], "split_score": 0.08416401191634137}
+{"sent": "guy all black clothes looking down at 10 o clock", "ann_id": 254798, "best_split": [2, 1], "split_score": 0.17303121533144386}
+{"sent": "brown bag", "ann_id": 1694784, "best_split": [2, 3], "split_score": 0.3197674418272667}

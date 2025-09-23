@@ -1,0 +1,6 @@
+{"sent": "bun in hand", "ann_id": 2219525, "best_split": [2, 2], "split_score": 0.4677127338210838}
+{"sent": "bun half held in hand", "ann_id": 2219525, "best_split": [2, 2], "split_score": 0.4677127338210838}
+{"sent": "food in hand", "ann_id": 2219525, "best_split": [2, 2], "split_score": 0.4677127338210838}
+{"sent": "bread on table", "ann_id": 1554715, "best_split": [3, 2], "split_score": 0.4829905062813498}
+{"sent": "sandwich on plate", "ann_id": 1554715, "best_split": [3, 2], "split_score": 0.4829905062813498}
+{"sent": "meat", "ann_id": 1554715, "best_split": [3, 2], "split_score": 0.4829905062813498}

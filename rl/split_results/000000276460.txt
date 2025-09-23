@@ -1,0 +1,9 @@
+{"sent": "leaning over", "ann_id": 1737239, "best_split": [1, 5], "split_score": 0.507305194753723}
+{"sent": "bending over", "ann_id": 1737239, "best_split": [1, 5], "split_score": 0.507305194753723}
+{"sent": "black shirt bent over", "ann_id": 1737239, "best_split": [1, 5], "split_score": 0.507305194753723}
+{"sent": "woman holding pastry", "ann_id": 493022, "best_split": [1, 2], "split_score": 0.7229539040168174}
+{"sent": "woman holding cake", "ann_id": 493022, "best_split": [1, 2], "split_score": 0.7229539040168174}
+{"sent": "woman holding cake", "ann_id": 493022, "best_split": [1, 2], "split_score": 0.7229539040168174}
+{"sent": "man in yellow", "ann_id": 421488, "best_split": [3, 3], "split_score": 0.4255319148324422}
+{"sent": "yellow shirt", "ann_id": 421488, "best_split": [3, 3], "split_score": 0.4255319148324422}
+{"sent": "man in yellow shirt", "ann_id": 421488, "best_split": [3, 3], "split_score": 0.4255319148324422}

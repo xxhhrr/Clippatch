@@ -1,0 +1,12 @@
+{"sent": "black and blue shirt", "ann_id": 2152046, "best_split": [1, 2], "split_score": 0.3435507015169184}
+{"sent": "partially visible female", "ann_id": 2152046, "best_split": [2, 1], "split_score": 0.1458340415356483}
+{"sent": "half girl", "ann_id": 2152046, "best_split": [2, 1], "split_score": 0.1458340415356483}
+{"sent": "light beard", "ann_id": 550995, "best_split": [1, 2], "split_score": 0.4241071428402381}
+{"sent": "a man standing behind the girl with black shirt", "ann_id": 550995, "best_split": [2, 1], "split_score": 0.20150659133032328}
+{"sent": "man in black blurry", "ann_id": 550995, "best_split": [1, 2], "split_score": 0.4241071428402381}
+{"sent": "man with hat", "ann_id": 504948, "best_split": [1, 3], "split_score": 0.8376209096090954}
+{"sent": "man in hat", "ann_id": 504948, "best_split": [1, 3], "split_score": 0.8376209096090954}
+{"sent": "gray hat", "ann_id": 504948, "best_split": [1, 3], "split_score": 0.8376209096090954}
+{"sent": "nearest girl", "ann_id": 483397, "best_split": [1, 2], "split_score": 0.8864994025953368}
+{"sent": "white shirt", "ann_id": 483397, "best_split": [2, 1], "split_score": 0.3449744463281257}
+{"sent": "girl playing", "ann_id": 483397, "best_split": [1, 2], "split_score": 0.8864994025953368}

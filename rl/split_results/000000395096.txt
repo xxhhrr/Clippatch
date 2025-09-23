@@ -1,0 +1,5 @@
+{"sent": "the scooter", "ann_id": 1195953, "best_split": [1, 2], "split_score": 0.5565056173402926}
+{"sent": "whole bike", "ann_id": 1195953, "best_split": [1, 2], "split_score": 0.5565056173402926}
+{"sent": "motorcycle with colorful print", "ann_id": 1195953, "best_split": [1, 3], "split_score": 0.521110155162951}
+{"sent": "bike facing other side", "ann_id": 1195798, "best_split": [1, 3], "split_score": 0.3698904956796}
+{"sent": "bike with tail pipe showing", "ann_id": 1195798, "best_split": [1, 3], "split_score": 0.3698904956796}

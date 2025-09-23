@@ -1,0 +1,9 @@
+{"sent": "lady standing", "ann_id": 2154138, "best_split": [3, 3], "split_score": 0.4213483145503814}
+{"sent": "woman over the stove", "ann_id": 2154138, "best_split": [3, 3], "split_score": 0.4213483145503814}
+{"sent": "woman", "ann_id": 2154138, "best_split": [3, 3], "split_score": 0.4213483145503814}
+{"sent": "sitting behind man", "ann_id": 453083, "best_split": [2, 2], "split_score": 0.3714460409376761}
+{"sent": "hand on chin", "ann_id": 453083, "best_split": [3, 1], "split_score": 0.14007055404959168}
+{"sent": "sitting in white clothes", "ann_id": 453083, "best_split": [5, 1], "split_score": 0.20925808495487808}
+{"sent": "man in dark clothes", "ann_id": 435978, "best_split": [2, 3], "split_score": 0.3705905667488515}
+{"sent": "guy black", "ann_id": 435978, "best_split": [2, 3], "split_score": 0.3705905667488515}
+{"sent": "man in black", "ann_id": 435978, "best_split": [2, 3], "split_score": 0.3705905667488515}

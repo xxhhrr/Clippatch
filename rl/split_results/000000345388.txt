@@ -1,0 +1,9 @@
+{"sent": "suitcase dog not looking at", "ann_id": 1187665, "best_split": [2, 3], "split_score": 0.6036630036138654}
+{"sent": "brown suitcase closest to dog", "ann_id": 1187665, "best_split": [2, 3], "split_score": 0.6036630036138654}
+{"sent": "suitcase dog sitting next to", "ann_id": 1187665, "best_split": [2, 3], "split_score": 0.6036630036138654}
+{"sent": "briefcase case closest to us", "ann_id": 1187623, "best_split": [3, 2], "split_score": 0.6830357142033017}
+{"sent": "corner suitcase", "ann_id": 1187623, "best_split": [3, 2], "split_score": 0.6830357142033017}
+{"sent": "cut off briefcase", "ann_id": 1187623, "best_split": [3, 2], "split_score": 0.6830357142033017}
+{"sent": "suitcase dogs paw is on", "ann_id": 1187196, "best_split": [3, 2], "split_score": 0.4541407771071}
+{"sent": "black briefcase", "ann_id": 1187196, "best_split": [2, 2], "split_score": 0.5377969762004168}
+{"sent": "briefcase dog is touching", "ann_id": 1187196, "best_split": [2, 2], "split_score": 0.5377969762004168}

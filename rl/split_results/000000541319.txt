@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 254144, "best_split": [1, 3], "split_score": 0.5586269060107178}
+{"sent": "mom", "ann_id": 254144, "best_split": [1, 3], "split_score": 0.5586269060107178}
+{"sent": "mom", "ann_id": 254144, "best_split": [1, 3], "split_score": 0.5586269060107178}
+{"sent": "baby", "ann_id": 252762, "best_split": [2, 3], "split_score": 0.49771689494645704}
+{"sent": "the person in yellow", "ann_id": 252762, "best_split": [2, 1], "split_score": 0.4175956925269183}
+{"sent": "kid", "ann_id": 252762, "best_split": [2, 3], "split_score": 0.49771689494645704}

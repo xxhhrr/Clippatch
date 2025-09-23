@@ -1,0 +1,15 @@
+{"sent": "blue pants and white shirt", "ann_id": 1737343, "best_split": [1, 3], "split_score": 0.3667953667732387}
+{"sent": "blue jeans white shirt black belt", "ann_id": 1737343, "best_split": [3, 2], "split_score": 0.2594670406504675}
+{"sent": "blue jeans", "ann_id": 1737343, "best_split": [1, 3], "split_score": 0.3667953667732387}
+{"sent": "woman orange shirt", "ann_id": 565526, "best_split": [1, 5], "split_score": 0.3823814133221315}
+{"sent": "orange jacket", "ann_id": 565526, "best_split": [1, 5], "split_score": 0.3823814133221315}
+{"sent": "orange shirt", "ann_id": 565526, "best_split": [1, 5], "split_score": 0.3823814133221315}
+{"sent": "person with red backpack", "ann_id": 564478, "best_split": [1, 5], "split_score": 0.5684754521439207}
+{"sent": "red backpack", "ann_id": 564478, "best_split": [1, 5], "split_score": 0.5684754521439207}
+{"sent": "red pack", "ann_id": 564478, "best_split": [1, 5], "split_score": 0.5684754521439207}
+{"sent": "white shirt", "ann_id": 558992, "best_split": [3, 3], "split_score": 0.46570169910860576}
+{"sent": "white shirt", "ann_id": 558992, "best_split": [3, 3], "split_score": 0.46570169910860576}
+{"sent": "person with white shirt", "ann_id": 558992, "best_split": [3, 3], "split_score": 0.46570169910860576}
+{"sent": "laying down", "ann_id": 425426, "best_split": [2, 1], "split_score": 0.422225913607235}
+{"sent": "woman", "ann_id": 425426, "best_split": [3, 1], "split_score": 0.501554222647802}
+{"sent": "person lying down", "ann_id": 425426, "best_split": [3, 1], "split_score": 0.501554222647802}

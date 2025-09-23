@@ -1,0 +1,12 @@
+{"sent": "the tallest woman", "ann_id": 535695, "best_split": [1, 5], "split_score": 0.30665119873292235}
+{"sent": "woman with long hair", "ann_id": 535695, "best_split": [1, 5], "split_score": 0.30665119873292235}
+{"sent": "lady in black and whote", "ann_id": 535695, "best_split": [1, 5], "split_score": 0.30665119873292235}
+{"sent": "shortest adult", "ann_id": 518063, "best_split": [3, 2], "split_score": 0.25084745760054583}
+{"sent": "woman in floral shirt", "ann_id": 518063, "best_split": [3, 3], "split_score": 0.35727217858218585}
+{"sent": "woman in flowers", "ann_id": 518063, "best_split": [3, 3], "split_score": 0.35727217858218585}
+{"sent": "tall blue shirt", "ann_id": 466976, "best_split": [1, 5], "split_score": 0.4318181817743691}
+{"sent": "light blue shirt", "ann_id": 466976, "best_split": [1, 5], "split_score": 0.4318181817743691}
+{"sent": "blue shirt", "ann_id": 466976, "best_split": [1, 5], "split_score": 0.4318181817743691}
+{"sent": "holding a baby", "ann_id": 445601, "best_split": [3, 3], "split_score": 0.19878533050703276}
+{"sent": "man holding baby", "ann_id": 445601, "best_split": [3, 3], "split_score": 0.19878533050703276}
+{"sent": "person holding baby on hip", "ann_id": 445601, "best_split": [3, 3], "split_score": 0.19878533050703276}

@@ -1,0 +1,6 @@
+{"sent": "black object larger than the mug", "ann_id": 1504455, "best_split": [2, 3], "split_score": 0.456081081026052}
+{"sent": "the black thing", "ann_id": 1504455, "best_split": [2, 3], "split_score": 0.456081081026052}
+{"sent": "syrup bottle", "ann_id": 1504455, "best_split": [2, 2], "split_score": 0.30133928569026314}
+{"sent": "coffe cup", "ann_id": 678389, "best_split": [2, 3], "split_score": 0.41626447871425376}
+{"sent": "coffee cup", "ann_id": 678389, "best_split": [2, 3], "split_score": 0.41626447871425376}
+{"sent": "mug", "ann_id": 678389, "best_split": [2, 3], "split_score": 0.41626447871425376}

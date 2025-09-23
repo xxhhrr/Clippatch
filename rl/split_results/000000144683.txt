@@ -1,0 +1,6 @@
+{"sent": "highest orange not sliced", "ann_id": 1050899, "best_split": [3, 2], "split_score": 0.7036679535830516}
+{"sent": "whole orange only partially in pic", "ann_id": 1050899, "best_split": [3, 2], "split_score": 0.7036679535830516}
+{"sent": "unsliced orange", "ann_id": 1050899, "best_split": [3, 2], "split_score": 0.7036679535830516}
+{"sent": "orange slices", "ann_id": 1050807, "best_split": [2, 1], "split_score": 0.48519561206472195}
+{"sent": "both slices", "ann_id": 1050807, "best_split": [2, 1], "split_score": 0.48519561206472195}
+{"sent": "orange", "ann_id": 1050807, "best_split": [2, 1], "split_score": 0.48519561206472195}

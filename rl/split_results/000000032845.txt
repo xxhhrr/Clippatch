@@ -1,0 +1,18 @@
+{"sent": "kid in orange", "ann_id": 1279219, "best_split": [1, 5], "split_score": 0.8258928570590611}
+{"sent": "orange shirt", "ann_id": 1279219, "best_split": [1, 5], "split_score": 0.8258928570590611}
+{"sent": "kid in orange shirt", "ann_id": 1279219, "best_split": [1, 5], "split_score": 0.8258928570590611}
+{"sent": "boy in stripes", "ann_id": 1270153, "best_split": [1, 5], "split_score": 0.39329685359154437}
+{"sent": "striped shirt", "ann_id": 1270153, "best_split": [1, 5], "split_score": 0.39329685359154437}
+{"sent": "striped kid", "ann_id": 1270153, "best_split": [1, 5], "split_score": 0.39329685359154437}
+{"sent": "yellow shirt", "ann_id": 1233528, "best_split": [1, 5], "split_score": 0.6172199169542418}
+{"sent": "yellow shirt kid", "ann_id": 1233528, "best_split": [1, 5], "split_score": 0.6172199169542418}
+{"sent": "yellow", "ann_id": 1233528, "best_split": [1, 5], "split_score": 0.6172199169542418}
+{"sent": "boy with white shirt and green stripe", "ann_id": 1222828, "best_split": [3, 1], "split_score": 0.15203586103137673}
+{"sent": "white and green shirt kid", "ann_id": 1222828, "best_split": [2, 1], "split_score": 0.16713562182867417}
+{"sent": "boy in white shirt with green stripe", "ann_id": 1222828, "best_split": [3, 1], "split_score": 0.15203586103137673}
+{"sent": "tallest next to red tap with light blue shirt and white pants", "ann_id": 1294946, "best_split": [1, 5], "split_score": 0.35836354217518007}
+{"sent": "videographer between the boys", "ann_id": 1294946, "best_split": [2, 3], "split_score": 0.36302424005742356}
+{"sent": "bkue shirt man blurry behind mic", "ann_id": 1294946, "best_split": [3, 2], "split_score": 0.21235455165876502}
+{"sent": "white shirt watchers", "ann_id": 1285324, "best_split": [2, 1], "split_score": 0.10938321688417912}
+{"sent": "adult white shirt in corner has blackish pocket no camer", "ann_id": 1285324, "best_split": [2, 2], "split_score": 0.2068475635596784}
+{"sent": "man in white shit at 2 o clock", "ann_id": 1285324, "best_split": [3, 2], "split_score": 0.17798334873469163}

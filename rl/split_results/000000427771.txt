@@ -1,0 +1,6 @@
+{"sent": "glass of juice", "ann_id": 675783, "best_split": [3, 3], "split_score": 0.30503550672933577}
+{"sent": "orange juice", "ann_id": 675783, "best_split": [3, 3], "split_score": 0.30503550672933577}
+{"sent": "oj", "ann_id": 675783, "best_split": [3, 3], "split_score": 0.30503550672933577}
+{"sent": "glass of water", "ann_id": 670061, "best_split": [3, 3], "split_score": 0.3135045567003306}
+{"sent": "water glass", "ann_id": 670061, "best_split": [3, 3], "split_score": 0.3135045567003306}
+{"sent": "water", "ann_id": 670061, "best_split": [3, 3], "split_score": 0.3135045567003306}

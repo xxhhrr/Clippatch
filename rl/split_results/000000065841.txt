@@ -1,0 +1,6 @@
+{"sent": "far bed", "ann_id": 318801, "best_split": [3, 1], "split_score": 0.27850327806201675}
+{"sent": "bed is completely clean", "ann_id": 318801, "best_split": [3, 1], "split_score": 0.27850327806201675}
+{"sent": "bed up against wall", "ann_id": 318801, "best_split": [3, 1], "split_score": 0.27850327806201675}
+{"sent": "bed with tray", "ann_id": 315260, "best_split": [2, 2], "split_score": 0.6741973840265043}
+{"sent": "bed with stuff", "ann_id": 315260, "best_split": [2, 2], "split_score": 0.6741973840265043}
+{"sent": "bed with tray on it", "ann_id": 315260, "best_split": [2, 2], "split_score": 0.6741973840265043}

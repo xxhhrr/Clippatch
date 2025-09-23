@@ -1,0 +1,5 @@
+{"sent": "banana closest to his cheek", "ann_id": 1547956, "best_split": [3, 2], "split_score": 0.4265754762651123}
+{"sent": "bana closest to touching his cheek", "ann_id": 1547956, "best_split": [3, 2], "split_score": 0.4265754762651123}
+{"sent": "bunch of bananas touching boys forehead", "ann_id": 1547956, "best_split": [3, 2], "split_score": 0.4265754762651123}
+{"sent": "bananas corner", "ann_id": 1041427, "best_split": [1, 3], "split_score": 0.7782192100503494}
+{"sent": "bananas edge farthest from kids head", "ann_id": 1041427, "best_split": [1, 3], "split_score": 0.7782192100503494}

@@ -1,0 +1,15 @@
+{"sent": "red", "ann_id": 2229115, "best_split": [2, 3], "split_score": 0.5954198472572256}
+{"sent": "red at 10 o clock", "ann_id": 2229115, "best_split": [1, 5], "split_score": 0.330247463029175}
+{"sent": "red shirt", "ann_id": 2229115, "best_split": [2, 3], "split_score": 0.5954198472572256}
+{"sent": "black shirt", "ann_id": 2229103, "best_split": [2, 2], "split_score": 0.49965866067773484}
+{"sent": "black shirt guy", "ann_id": 2229103, "best_split": [2, 2], "split_score": 0.49965866067773484}
+{"sent": "black shirt", "ann_id": 2229103, "best_split": [2, 2], "split_score": 0.49965866067773484}
+{"sent": "woman in stripped shirt", "ann_id": 2229075, "best_split": [1, 3], "split_score": 0.5853414491542841}
+{"sent": "woman in striped shirt", "ann_id": 2229075, "best_split": [1, 3], "split_score": 0.5853414491542841}
+{"sent": "girl", "ann_id": 2229075, "best_split": [1, 3], "split_score": 0.5853414491542841}
+{"sent": "man with white shirt black jacket looking away", "ann_id": 2229067, "best_split": [2, 3], "split_score": 0.5524650828993117}
+{"sent": "man with black jacket and gray hair", "ann_id": 2229067, "best_split": [2, 3], "split_score": 0.5524650828993117}
+{"sent": "old man standing not looking at cam", "ann_id": 2229067, "best_split": [2, 3], "split_score": 0.5524650828993117}
+{"sent": "white shirt", "ann_id": 2229057, "best_split": [1, 2], "split_score": 0.788265306091029}
+{"sent": "man in white", "ann_id": 2229057, "best_split": [1, 2], "split_score": 0.788265306091029}
+{"sent": "white", "ann_id": 2229057, "best_split": [1, 2], "split_score": 0.788265306091029}

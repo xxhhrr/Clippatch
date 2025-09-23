@@ -1,0 +1,6 @@
+{"sent": "dog", "ann_id": 1816477, "best_split": [5, 1], "split_score": 0.6384720326877156}
+{"sent": "cay laying horizontally", "ann_id": 1816477, "best_split": [5, 1], "split_score": 0.6384720326877156}
+{"sent": "fartest cat", "ann_id": 1816477, "best_split": [1, 2], "split_score": 0.16425577936446345}
+{"sent": "turned cat", "ann_id": 49989, "best_split": [2, 2], "split_score": 0.5518367346617005}
+{"sent": "rolling cat", "ann_id": 49989, "best_split": [2, 2], "split_score": 0.5518367346617005}
+{"sent": "cat closest", "ann_id": 49989, "best_split": [2, 2], "split_score": 0.5518367346617005}

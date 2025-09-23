@@ -1,0 +1,9 @@
+{"sent": "man with white beard", "ann_id": 460095, "best_split": [3, 3], "split_score": 0.4264804844504575}
+{"sent": "man with brown shirt white beard", "ann_id": 460095, "best_split": [3, 2], "split_score": 0.23452875571457152}
+{"sent": "man with white beard", "ann_id": 460095, "best_split": [3, 3], "split_score": 0.4264804844504575}
+{"sent": "headband grandma", "ann_id": 2162859, "best_split": [3, 3], "split_score": 0.3692965779028877}
+{"sent": "loady", "ann_id": 2162859, "best_split": [2, 2], "split_score": 0.295609756076961}
+{"sent": "woman", "ann_id": 2162859, "best_split": [3, 3], "split_score": 0.3692965779028877}
+{"sent": "younger guy", "ann_id": 1252631, "best_split": [1, 3], "split_score": 0.7451134169434657}
+{"sent": "guy with brown shirt", "ann_id": 1252631, "best_split": [1, 3], "split_score": 0.7451134169434657}
+{"sent": "brown shirt young man", "ann_id": 1252631, "best_split": [1, 3], "split_score": 0.7451134169434657}

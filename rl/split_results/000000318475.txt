@@ -1,0 +1,8 @@
+{"sent": "pizza slice with green sauce", "ann_id": 1075657, "best_split": [3, 1], "split_score": 0.41823968391032484}
+{"sent": "pizza slice with black on it", "ann_id": 1075657, "best_split": [1, 3], "split_score": 0.34712811423188117}
+{"sent": "only cheese topping", "ann_id": 1074864, "best_split": [1, 5], "split_score": 0.46610169487998626}
+{"sent": "cheese only slice of pizza", "ann_id": 1074864, "best_split": [1, 5], "split_score": 0.46610169487998626}
+{"sent": "cheese pizza slice", "ann_id": 1074864, "best_split": [1, 5], "split_score": 0.46610169487998626}
+{"sent": "pepporoni", "ann_id": 1074646, "best_split": [3, 1], "split_score": 0.5204571428274024}
+{"sent": "pepperoni", "ann_id": 1074646, "best_split": [3, 1], "split_score": 0.5204571428274024}
+{"sent": "pizza with papperoni", "ann_id": 1074646, "best_split": [3, 1], "split_score": 0.5204571428274024}

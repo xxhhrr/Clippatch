@@ -1,0 +1,11 @@
+{"sent": "lady in gray", "ann_id": 217409, "best_split": [1, 5], "split_score": 0.7273861509102163}
+{"sent": "woman in light coat standing by herself", "ann_id": 217409, "best_split": [1, 5], "split_score": 0.7273861509102163}
+{"sent": "woman light gray", "ann_id": 217409, "best_split": [1, 5], "split_score": 0.7273861509102163}
+{"sent": "puffy black jacket", "ann_id": 206157, "best_split": [2, 1], "split_score": 0.17414248020533832}
+{"sent": "man in light pants with hand in pocket", "ann_id": 206157, "best_split": [1, 5], "split_score": 0.8978755124023597}
+{"sent": "guy bending over", "ann_id": 205395, "best_split": [1, 2], "split_score": 0.11097852028225766}
+{"sent": "man with tie", "ann_id": 205395, "best_split": [3, 3], "split_score": 0.42537104446578394}
+{"sent": "guy reaching down for a suitcase his tie is flying in the air", "ann_id": 205395, "best_split": [1, 3], "split_score": 0.28378378376666363}
+{"sent": "reaching", "ann_id": 183997, "best_split": [1, 5], "split_score": 0.6087252896550166}
+{"sent": "arm up", "ann_id": 183997, "best_split": [2, 1], "split_score": 0.154304277201059}
+{"sent": "woman with her arm up", "ann_id": 183997, "best_split": [2, 1], "split_score": 0.154304277201059}

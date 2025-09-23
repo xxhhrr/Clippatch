@@ -1,0 +1,8 @@
+{"sent": "adult with orange jacket", "ann_id": 1312327, "best_split": [1, 5], "split_score": 0.49358712519454395}
+{"sent": "big guy", "ann_id": 1312327, "best_split": [1, 2], "split_score": 0.33589764029273367}
+{"sent": "tall person", "ann_id": 1312327, "best_split": [1, 5], "split_score": 0.49358712519454395}
+{"sent": "kid all the way", "ann_id": 1214682, "best_split": [5, 1], "split_score": 0.11775200712693601}
+{"sent": "closest kid", "ann_id": 1214682, "best_split": [5, 1], "split_score": 0.11775200712693601}
+{"sent": "child in red shoes", "ann_id": 1214682, "best_split": [3, 3], "split_score": 0.24460622101328838}
+{"sent": "boy next to man", "ann_id": 1200896, "best_split": [3, 3], "split_score": 0.29537853446406526}
+{"sent": "blue shoes", "ann_id": 1200896, "best_split": [1, 5], "split_score": 0.30894886360501733}

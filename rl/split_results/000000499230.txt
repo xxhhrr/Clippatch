@@ -1,0 +1,8 @@
+{"sent": "man in black standing", "ann_id": 1709654, "best_split": [1, 3], "split_score": 0.778835386294578}
+{"sent": "black shirt", "ann_id": 1709654, "best_split": [1, 3], "split_score": 0.778835386294578}
+{"sent": "hand holding dog", "ann_id": 1704465, "best_split": [3, 3], "split_score": 0.5210204081101}
+{"sent": "hand holding hot dog", "ann_id": 1704465, "best_split": [3, 3], "split_score": 0.5210204081101}
+{"sent": "hand holding hot dog", "ann_id": 1704465, "best_split": [3, 3], "split_score": 0.5210204081101}
+{"sent": "mans face wearing glasses", "ann_id": 543554, "best_split": [3, 3], "split_score": 0.5318419627400609}
+{"sent": "person wish glasses in red", "ann_id": 543554, "best_split": [3, 3], "split_score": 0.5318419627400609}
+{"sent": "man with head above bread", "ann_id": 543554, "best_split": [2, 2], "split_score": 0.2403539540624718}

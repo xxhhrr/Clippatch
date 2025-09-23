@@ -1,0 +1,6 @@
+{"sent": "small light cow", "ann_id": 75367, "best_split": [3, 3], "split_score": 0.6457023059668584}
+{"sent": "smaller cow", "ann_id": 75367, "best_split": [3, 3], "split_score": 0.6457023059668584}
+{"sent": "small buffalo", "ann_id": 75367, "best_split": [3, 3], "split_score": 0.6457023059668584}
+{"sent": "the bigger cow", "ann_id": 74805, "best_split": [2, 3], "split_score": 0.3527227722499441}
+{"sent": "blacck cow", "ann_id": 74805, "best_split": [2, 3], "split_score": 0.3527227722499441}
+{"sent": "bull", "ann_id": 74805, "best_split": [2, 3], "split_score": 0.3527227722499441}

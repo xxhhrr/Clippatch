@@ -1,0 +1,8 @@
+{"sent": "darkest cat", "ann_id": 1816703, "best_split": [1, 2], "split_score": 0.35028698978195605}
+{"sent": "black cat", "ann_id": 1816703, "best_split": [1, 2], "split_score": 0.35028698978195605}
+{"sent": "blackest cat", "ann_id": 1816703, "best_split": [1, 3], "split_score": 0.2818517208125612}
+{"sent": "cat with tail on table", "ann_id": 1816655, "best_split": [3, 3], "split_score": 0.6002115903843644}
+{"sent": "cat with his tail on the table", "ann_id": 1816655, "best_split": [3, 3], "split_score": 0.6002115903843644}
+{"sent": "middle cat", "ann_id": 1816510, "best_split": [1, 5], "split_score": 0.47709578123509905}
+{"sent": "cat", "ann_id": 1816510, "best_split": [1, 5], "split_score": 0.47709578123509905}
+{"sent": "cat no 2", "ann_id": 1816510, "best_split": [1, 5], "split_score": 0.47709578123509905}

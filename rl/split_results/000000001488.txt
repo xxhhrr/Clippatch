@@ -1,0 +1,5 @@
+{"sent": "kid not scateboarding", "ann_id": 513940, "best_split": [3, 1], "split_score": 0.08571428570955796}
+{"sent": "guy wearing green pants", "ann_id": 513940, "best_split": [1, 5], "split_score": 0.31534090905891426}
+{"sent": "animal being bottled fed", "ann_id": 504526, "best_split": [5, 1], "split_score": 0.18267530935601978}
+{"sent": "skateboarder", "ann_id": 504526, "best_split": [3, 2], "split_score": 0.46343434338753187}
+{"sent": "skateboarder on ramp", "ann_id": 504526, "best_split": [3, 2], "split_score": 0.46343434338753187}

@@ -1,0 +1,8 @@
+{"sent": "baby with blue and red", "ann_id": 2167053, "best_split": [5, 1], "split_score": 0.2654448262492978}
+{"sent": "kid with red in shirt", "ann_id": 2167053, "best_split": [3, 3], "split_score": 0.539073349256524}
+{"sent": "the baby wearing the green bib", "ann_id": 481772, "best_split": [3, 3], "split_score": 0.7063788344901186}
+{"sent": "yellow bib", "ann_id": 481772, "best_split": [3, 2], "split_score": 0.4956785272762736}
+{"sent": "green bib child", "ann_id": 481772, "best_split": [3, 3], "split_score": 0.7063788344901186}
+{"sent": "white shirt lady", "ann_id": 1236968, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "lady in back with white shirt", "ann_id": 1236968, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "fat woman in white", "ann_id": 1236968, "best_split": [1, 5], "split_score": 0.3124187859372175}

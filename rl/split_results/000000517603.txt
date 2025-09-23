@@ -1,0 +1,4 @@
+{"sent": "white suv covered by horse", "ann_id": 1368300, "best_split": [3, 2], "split_score": 0.6016260161940643}
+{"sent": "van behind horse", "ann_id": 1368300, "best_split": [3, 2], "split_score": 0.6016260161940643}
+{"sent": "white van behind cart you can see its tail light", "ann_id": 2051885, "best_split": [3, 3], "split_score": 0.6405545926099558}
+{"sent": "white vehicle that is closer to man in red shirt", "ann_id": 2051885, "best_split": [3, 3], "split_score": 0.6405545926099558}

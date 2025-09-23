@@ -1,0 +1,9 @@
+{"sent": "a man kneeling and facing camera", "ann_id": 1216324, "best_split": [2, 3], "split_score": 0.2914993690155444}
+{"sent": "green shirt kneeling", "ann_id": 1216324, "best_split": [3, 3], "split_score": 0.19075144505981229}
+{"sent": "kneeling", "ann_id": 1216324, "best_split": [2, 3], "split_score": 0.2914993690155444}
+{"sent": "black pants guy at 9 pm", "ann_id": 498503, "best_split": [5, 1], "split_score": 0.15862129603810593}
+{"sent": "angry looking dude", "ann_id": 498503, "best_split": [3, 2], "split_score": 0.30394249126092976}
+{"sent": "man looks like getting ready to start a running race", "ann_id": 498503, "best_split": [5, 1], "split_score": 0.15862129603810593}
+{"sent": "man in black with goggles", "ann_id": 492627, "best_split": [3, 1], "split_score": 0.20195643518159834}
+{"sent": "jumper with blue", "ann_id": 492627, "best_split": [2, 3], "split_score": 0.2999392835154888}
+{"sent": "person in air with orange goggles", "ann_id": 492627, "best_split": [2, 1], "split_score": 0.05467999572895941}

@@ -1,0 +1,9 @@
+{"sent": "girl with blue clothing on", "ann_id": 1250878, "best_split": [1, 5], "split_score": 0.5067978895589693}
+{"sent": "little girl in all black", "ann_id": 1250878, "best_split": [1, 5], "split_score": 0.5067978895589693}
+{"sent": "girl in all black", "ann_id": 1250878, "best_split": [1, 5], "split_score": 0.5067978895589693}
+{"sent": "red lady", "ann_id": 550320, "best_split": [3, 3], "split_score": 0.3058617234085844}
+{"sent": "lady in red sweater", "ann_id": 550320, "best_split": [3, 3], "split_score": 0.3058617234085844}
+{"sent": "red", "ann_id": 550320, "best_split": [3, 3], "split_score": 0.3058617234085844}
+{"sent": "boy beside lil girl", "ann_id": 508646, "best_split": [1, 2], "split_score": 0.3128587372324275}
+{"sent": "child with hands on knees", "ann_id": 508646, "best_split": [1, 2], "split_score": 0.3128587372324275}
+{"sent": "white shirt", "ann_id": 508646, "best_split": [1, 5], "split_score": 0.3588917030962551}

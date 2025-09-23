@@ -1,0 +1,12 @@
+{"sent": "guy in tan hat looking down at something", "ann_id": 1297664, "best_split": [1, 5], "split_score": 0.3534602418844477}
+{"sent": "person with round hat", "ann_id": 1297664, "best_split": [1, 5], "split_score": 0.3534602418844477}
+{"sent": "guy in hat looking down", "ann_id": 1297664, "best_split": [1, 5], "split_score": 0.3534602418844477}
+{"sent": "cop sitting on motorcycle", "ann_id": 1279639, "best_split": [2, 2], "split_score": 0.39933690742104}
+{"sent": "african american cop", "ann_id": 1279639, "best_split": [2, 3], "split_score": 0.4718496126514406}
+{"sent": "black police man", "ann_id": 1279639, "best_split": [2, 3], "split_score": 0.4718496126514406}
+{"sent": "bike that has bald officer on it", "ann_id": 153674, "best_split": [2, 2], "split_score": 0.8307116623358941}
+{"sent": "gray police bike", "ann_id": 153674, "best_split": [2, 2], "split_score": 0.8307116623358941}
+{"sent": "bike with the cop on it", "ann_id": 153674, "best_split": [2, 2], "split_score": 0.8307116623358941}
+{"sent": "motorcycle without a rider", "ann_id": 151097, "best_split": [1, 5], "split_score": 0.36227069187041233}
+{"sent": "riderless bike", "ann_id": 151097, "best_split": [2, 1], "split_score": 0.32966732965447265}
+{"sent": "no rider", "ann_id": 151097, "best_split": [1, 5], "split_score": 0.36227069187041233}

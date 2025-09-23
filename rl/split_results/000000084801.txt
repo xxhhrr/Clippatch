@@ -1,0 +1,16 @@
+{"sent": "man with his hands in his pockets", "ann_id": 239193, "best_split": [5, 1], "split_score": 0.1137140475103198}
+{"sent": "guy near dog5", "ann_id": 239193, "best_split": [1, 3], "split_score": 0.21132963319188408}
+{"sent": "man with hands in pockets", "ann_id": 239193, "best_split": [5, 1], "split_score": 0.1137140475103198}
+{"sent": "guy with back shirt balder", "ann_id": 236279, "best_split": [2, 3], "split_score": 0.22070844684421148}
+{"sent": "shorter bald man near dog", "ann_id": 236279, "best_split": [3, 2], "split_score": 0.20670391059390422}
+{"sent": "shorter bald guy", "ann_id": 236279, "best_split": [2, 3], "split_score": 0.22070844684421148}
+{"sent": "tallest guy", "ann_id": 234664, "best_split": [2, 2], "split_score": 0.23000483056862847}
+{"sent": "tallet bald", "ann_id": 234664, "best_split": [2, 3], "split_score": 0.31269349842175953}
+{"sent": "tallest bald dude", "ann_id": 234664, "best_split": [2, 3], "split_score": 0.31269349842175953}
+{"sent": "black shirt legs hidden by instructor", "ann_id": 231880, "best_split": [1, 3], "split_score": 0.37596525094256966}
+{"sent": "guy behind dude bending over", "ann_id": 231880, "best_split": [1, 3], "split_score": 0.37596525094256966}
+{"sent": "guy behind guy holding dog", "ann_id": 231880, "best_split": [3, 1], "split_score": 0.1406281256180922}
+{"sent": "bendin over", "ann_id": 225365, "best_split": [2, 2], "split_score": 0.5823110892675226}
+{"sent": "guy pulling the dog", "ann_id": 225365, "best_split": [2, 1], "split_score": 0.32910427064860287}
+{"sent": "guy holding the dog leash", "ann_id": 225365, "best_split": [2, 1], "split_score": 0.32910427064860287}
+{"sent": "person bending over", "ann_id": 225365, "best_split": [2, 2], "split_score": 0.5823110892675226}

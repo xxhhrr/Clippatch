@@ -1,0 +1,6 @@
+{"sent": "red pillows", "ann_id": 114774, "best_split": [5, 1], "split_score": 0.27534418020066653}
+{"sent": "sofa without sheet", "ann_id": 114774, "best_split": [3, 3], "split_score": 0.7259078211023205}
+{"sent": "the brighter red pillow with two white", "ann_id": 114774, "best_split": [3, 3], "split_score": 0.7259078211023205}
+{"sent": "couch on wall", "ann_id": 112278, "best_split": [2, 3], "split_score": 0.8343519493325234}
+{"sent": "white sofa", "ann_id": 112278, "best_split": [2, 3], "split_score": 0.8343519493325234}
+{"sent": "big couch", "ann_id": 112278, "best_split": [2, 3], "split_score": 0.8343519493325234}

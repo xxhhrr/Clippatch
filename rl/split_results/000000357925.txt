@@ -1,0 +1,6 @@
+{"sent": "apple with stem not showing", "ann_id": 1049860, "best_split": [2, 2], "split_score": 0.5853229822333877}
+{"sent": "apple farther", "ann_id": 1049860, "best_split": [2, 2], "split_score": 0.5853229822333877}
+{"sent": "fallen apple", "ann_id": 1049860, "best_split": [1, 2], "split_score": 0.30506145506126187}
+{"sent": "closest apple", "ann_id": 1049584, "best_split": [2, 3], "split_score": 0.5078638832922602}
+{"sent": "apple near us", "ann_id": 1049584, "best_split": [2, 3], "split_score": 0.5078638832922602}
+{"sent": "main apple", "ann_id": 1049584, "best_split": [2, 3], "split_score": 0.5078638832922602}

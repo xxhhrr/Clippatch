@@ -1,0 +1,8 @@
+{"sent": "trunk at the far edge of picture", "ann_id": 1409102, "best_split": [2, 1], "split_score": 0.15233949945075015}
+{"sent": "elephant trunk seen the least", "ann_id": 1409102, "best_split": [2, 1], "split_score": 0.15233949945075015}
+{"sent": "trunk at 9pm", "ann_id": 1409102, "best_split": [3, 3], "split_score": 0.2615765287856507}
+{"sent": "elephant that you can see its face", "ann_id": 580946, "best_split": [1, 5], "split_score": 0.42290227046283796}
+{"sent": "elephant underneath elephant", "ann_id": 580946, "best_split": [1, 2], "split_score": 0.402648669285539}
+{"sent": "baby elephant", "ann_id": 580946, "best_split": [1, 3], "split_score": 0.6246800730975923}
+{"sent": "nearest elephant", "ann_id": 580734, "best_split": [1, 2], "split_score": 0.5765623898141687}
+{"sent": "big trunk", "ann_id": 580734, "best_split": [1, 2], "split_score": 0.5765623898141687}

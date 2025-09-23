@@ -1,0 +1,9 @@
+{"sent": "dark purple shirt", "ann_id": 512025, "best_split": [3, 3], "split_score": 0.19836483042509517}
+{"sent": "blue jeans most visible", "ann_id": 512025, "best_split": [1, 5], "split_score": 0.28692879912212066}
+{"sent": "blue shirt and jeans cut off", "ann_id": 512025, "best_split": [2, 3], "split_score": 0.20754135413464075}
+{"sent": "the woman", "ann_id": 487480, "best_split": [2, 1], "split_score": 0.12384046079756737}
+{"sent": "woman", "ann_id": 487480, "best_split": [2, 1], "split_score": 0.12384046079756737}
+{"sent": "woman", "ann_id": 487480, "best_split": [2, 1], "split_score": 0.12384046079756737}
+{"sent": "purple shirt", "ann_id": 477615, "best_split": [1, 5], "split_score": 0.4472243940360035}
+{"sent": "man cooking", "ann_id": 477615, "best_split": [1, 3], "split_score": 0.6072186836249461}
+{"sent": "purple shirt chef", "ann_id": 477615, "best_split": [1, 3], "split_score": 0.6072186836249461}

@@ -1,0 +1,6 @@
+{"sent": "cow kissing the other", "ann_id": 75471, "best_split": [2, 2], "split_score": 0.8410340216282102}
+{"sent": "cow with whte on legs closest", "ann_id": 75471, "best_split": [2, 2], "split_score": 0.8410340216282102}
+{"sent": "the cow not facing us in the corner", "ann_id": 75471, "best_split": [3, 1], "split_score": 0.18946586311444458}
+{"sent": "cow closest to us facing camera", "ann_id": 73681, "best_split": [1, 3], "split_score": 0.5248552123235488}
+{"sent": "cow nearest camera facing our direction", "ann_id": 73681, "best_split": [1, 3], "split_score": 0.5248552123235488}
+{"sent": "cow with face closest to us", "ann_id": 73681, "best_split": [1, 3], "split_score": 0.5248552123235488}

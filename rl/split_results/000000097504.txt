@@ -1,0 +1,9 @@
+{"sent": "old man", "ann_id": 253012, "best_split": [2, 3], "split_score": 0.6747166091116547}
+{"sent": "old man brown hat", "ann_id": 253012, "best_split": [2, 3], "split_score": 0.6747166091116547}
+{"sent": "man in black squatting", "ann_id": 253012, "best_split": [2, 3], "split_score": 0.6747166091116547}
+{"sent": "smiley horse rider", "ann_id": 252188, "best_split": [2, 1], "split_score": 0.21811224488926528}
+{"sent": "woman on horse", "ann_id": 252188, "best_split": [2, 1], "split_score": 0.21811224488926528}
+{"sent": "smiling jockey", "ann_id": 252188, "best_split": [2, 3], "split_score": 0.4478114477643296}
+{"sent": "gray vest", "ann_id": 194740, "best_split": [1, 2], "split_score": 0.6698309630282023}
+{"sent": "the person we see partially", "ann_id": 194740, "best_split": [1, 2], "split_score": 0.6698309630282023}
+{"sent": "man facing horse not asian man", "ann_id": 194740, "best_split": [3, 1], "split_score": 0.3296100870167337}

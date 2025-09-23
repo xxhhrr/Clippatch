@@ -1,0 +1,6 @@
+{"sent": "boat at a angle and not straight", "ann_id": 180705, "best_split": [2, 2], "split_score": 0.4289786222938259}
+{"sent": "boat 2", "ann_id": 180705, "best_split": [2, 2], "split_score": 0.4289786222938259}
+{"sent": "boat that is between the boat and the dock", "ann_id": 180705, "best_split": [2, 2], "split_score": 0.4289786222938259}
+{"sent": "shadier boat", "ann_id": 178692, "best_split": [2, 3], "split_score": 0.3702245397073295}
+{"sent": "boat in shade", "ann_id": 178692, "best_split": [2, 3], "split_score": 0.3702245397073295}
+{"sent": "darker boat in more shadow", "ann_id": 178692, "best_split": [2, 3], "split_score": 0.3702245397073295}

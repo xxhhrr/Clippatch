@@ -1,0 +1,6 @@
+{"sent": "without hat", "ann_id": 1160549, "best_split": [2, 1], "split_score": 0.2986795221049392}
+{"sent": "bear with no hat", "ann_id": 1160549, "best_split": [2, 1], "split_score": 0.2986795221049392}
+{"sent": "lighter colored bear", "ann_id": 1160549, "best_split": [1, 2], "split_score": 0.8550898203272795}
+{"sent": "bear in red", "ann_id": 1159080, "best_split": [1, 2], "split_score": 0.8669412098527782}
+{"sent": "red clothing", "ann_id": 1159080, "best_split": [1, 2], "split_score": 0.8669412098527782}
+{"sent": "bear in res", "ann_id": 1159080, "best_split": [2, 2], "split_score": 0.450239026493907}

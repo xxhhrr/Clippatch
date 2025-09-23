@@ -1,0 +1,8 @@
+{"sent": "person next to the bottle half off the screen", "ann_id": 501180, "best_split": [3, 2], "split_score": 0.24333679471760672}
+{"sent": "person next to smiling man on same side as bottle", "ann_id": 501180, "best_split": [5, 1], "split_score": 0.11721817161264594}
+{"sent": "half of person near bottle", "ann_id": 501180, "best_split": [3, 2], "split_score": 0.24333679471760672}
+{"sent": "person at 9 o clock partly cut off", "ann_id": 499412, "best_split": [3, 1], "split_score": 0.1855777420182844}
+{"sent": "peroson with leg sticking out not main person", "ann_id": 499412, "best_split": [1, 2], "split_score": 0.3380102040681597}
+{"sent": "beer bottle", "ann_id": 468196, "best_split": [1, 3], "split_score": 0.4777892561829226}
+{"sent": "man holding a bottle", "ann_id": 468196, "best_split": [1, 3], "split_score": 0.4777892561829226}
+{"sent": "the person in the photo holding his drink", "ann_id": 468196, "best_split": [1, 3], "split_score": 0.4777892561829226}

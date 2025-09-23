@@ -1,0 +1,6 @@
+{"sent": "guy with sunglasses", "ann_id": 513335, "best_split": [1, 2], "split_score": 0.3009406887635148}
+{"sent": "man leaning toward the kids", "ann_id": 513335, "best_split": [2, 2], "split_score": 0.3863667724309116}
+{"sent": "bald man", "ann_id": 513335, "best_split": [3, 2], "split_score": 0.30482781345321897}
+{"sent": "boy with striped shorts", "ann_id": 449484, "best_split": [2, 3], "split_score": 0.490798581758332}
+{"sent": "closest kid", "ann_id": 449484, "best_split": [2, 3], "split_score": 0.490798581758332}
+{"sent": "boy closest to camera", "ann_id": 449484, "best_split": [2, 3], "split_score": 0.490798581758332}

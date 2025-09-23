@@ -1,0 +1,5 @@
+{"sent": "biggest orange slice next to pomegranate", "ann_id": 1051914, "best_split": [3, 2], "split_score": 0.33165949302586567}
+{"sent": "wedge of orange barely showing at edge not the semi circle one", "ann_id": 1051914, "best_split": [3, 1], "split_score": 0.1665865961946561}
+{"sent": "grapefuit next to the pomegranites", "ann_id": 1051087, "best_split": [2, 1], "split_score": 0.3593406593283193}
+{"sent": "grapefruit next to the weird fruit full of things", "ann_id": 1051087, "best_split": [2, 2], "split_score": 0.6100988447892045}
+{"sent": "full orange", "ann_id": 1051087, "best_split": [2, 2], "split_score": 0.6100988447892045}

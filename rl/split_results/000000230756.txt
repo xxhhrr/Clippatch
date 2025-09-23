@@ -1,0 +1,12 @@
+{"sent": "bald man with glasses", "ann_id": 252254, "best_split": [2, 3], "split_score": 0.49951737445710453}
+{"sent": "balding man glasses", "ann_id": 252254, "best_split": [2, 3], "split_score": 0.49951737445710453}
+{"sent": "bald gotee", "ann_id": 252254, "best_split": [5, 1], "split_score": 0.1690611426520998}
+{"sent": "guy riding bike", "ann_id": 226324, "best_split": [1, 2], "split_score": 0.5256696428361898}
+{"sent": "man on bike", "ann_id": 226324, "best_split": [1, 2], "split_score": 0.5256696428361898}
+{"sent": "bicyclist", "ann_id": 226324, "best_split": [1, 2], "split_score": 0.5256696428361898}
+{"sent": "old man with white beard", "ann_id": 224507, "best_split": [1, 5], "split_score": 0.3588103613400375}
+{"sent": "old guy sitting beard", "ann_id": 224507, "best_split": [1, 5], "split_score": 0.3588103613400375}
+{"sent": "old man sitting", "ann_id": 224507, "best_split": [1, 5], "split_score": 0.3588103613400375}
+{"sent": "sexy girl", "ann_id": 217468, "best_split": [1, 5], "split_score": 0.40973871730490846}
+{"sent": "woman with that look", "ann_id": 217468, "best_split": [1, 5], "split_score": 0.40973871730490846}
+{"sent": "the girl", "ann_id": 217468, "best_split": [1, 5], "split_score": 0.40973871730490846}

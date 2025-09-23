@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 223268, "best_split": [1, 2], "split_score": 0.5078610171956661}
+{"sent": "guy standing with glasses", "ann_id": 223268, "best_split": [1, 2], "split_score": 0.5078610171956661}
+{"sent": "person with glasses", "ann_id": 223268, "best_split": [1, 2], "split_score": 0.5078610171956661}
+{"sent": "man no glasses", "ann_id": 217889, "best_split": [2, 1], "split_score": 0.2900705371597919}
+{"sent": "man closest", "ann_id": 217889, "best_split": [2, 2], "split_score": 0.4857191359128413}
+{"sent": "guy with shorter hair closest", "ann_id": 217889, "best_split": [1, 2], "split_score": 0.8494088363079726}

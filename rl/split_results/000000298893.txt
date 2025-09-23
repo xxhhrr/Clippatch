@@ -1,0 +1,5 @@
+{"sent": "taller gir", "ann_id": 598380, "best_split": [1, 3], "split_score": 0.5425413338035231}
+{"sent": "giraffe 3 o clock", "ann_id": 598380, "best_split": [1, 3], "split_score": 0.5425413338035231}
+{"sent": "smaller giraffe", "ann_id": 596118, "best_split": [1, 2], "split_score": 0.4176498724323322}
+{"sent": "shorter one", "ann_id": 596118, "best_split": [1, 2], "split_score": 0.4176498724323322}
+{"sent": "giraffe on grass", "ann_id": 596118, "best_split": [1, 2], "split_score": 0.4176498724323322}

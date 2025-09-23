@@ -1,0 +1,6 @@
+{"sent": "purple", "ann_id": 494868, "best_split": [1, 3], "split_score": 0.3546890598182695}
+{"sent": "pink pants", "ann_id": 494868, "best_split": [1, 3], "split_score": 0.3546890598182695}
+{"sent": "purple jacket", "ann_id": 494868, "best_split": [1, 3], "split_score": 0.3546890598182695}
+{"sent": "person in blue jacket red pants", "ann_id": 460221, "best_split": [1, 5], "split_score": 0.310344827558907}
+{"sent": "tallest person", "ann_id": 460221, "best_split": [1, 3], "split_score": 0.304054054035711}
+{"sent": "girl with red pants", "ann_id": 460221, "best_split": [1, 5], "split_score": 0.310344827558907}

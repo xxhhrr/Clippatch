@@ -1,0 +1,6 @@
+{"sent": "woman holding board", "ann_id": 475804, "best_split": [1, 5], "split_score": 0.3836671802445072}
+{"sent": "woman with visible arm", "ann_id": 475804, "best_split": [1, 3], "split_score": 0.22152236574028383}
+{"sent": "girl with arm holding board", "ann_id": 475804, "best_split": [2, 2], "split_score": 0.2882328823091272}
+{"sent": "guy holding surfboard", "ann_id": 457698, "best_split": [1, 5], "split_score": 0.4999579159582562}
+{"sent": "man with one arm up", "ann_id": 457698, "best_split": [1, 5], "split_score": 0.4999579159582562}
+{"sent": "dude", "ann_id": 457698, "best_split": [3, 2], "split_score": 0.3672919996325993}

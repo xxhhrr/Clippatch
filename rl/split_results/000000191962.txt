@@ -1,0 +1,6 @@
+{"sent": "fruit closest to stuff on table", "ann_id": 1054121, "best_split": [3, 1], "split_score": 0.40483644605393304}
+{"sent": "oranges on the edges", "ann_id": 1054121, "best_split": [3, 1], "split_score": 0.40483644605393304}
+{"sent": "partially showing orange with some green", "ann_id": 1054121, "best_split": [3, 1], "split_score": 0.40483644605393304}
+{"sent": "orange up front", "ann_id": 1050835, "best_split": [3, 3], "split_score": 0.397379912601781}
+{"sent": "closest orange", "ann_id": 1050835, "best_split": [3, 3], "split_score": 0.397379912601781}
+{"sent": "larger orange in bowl", "ann_id": 1050835, "best_split": [3, 3], "split_score": 0.397379912601781}

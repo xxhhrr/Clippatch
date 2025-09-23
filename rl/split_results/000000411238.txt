@@ -1,0 +1,14 @@
+{"sent": "bike green shirt", "ann_id": 263381, "best_split": [1, 5], "split_score": 0.6396103895454941}
+{"sent": "bicyclist with light green shirt", "ann_id": 263381, "best_split": [1, 5], "split_score": 0.6396103895454941}
+{"sent": "biker in bright yellow shirt", "ann_id": 263381, "best_split": [1, 5], "split_score": 0.6396103895454941}
+{"sent": "green jacket with a blue backpackf", "ann_id": 254641, "best_split": [1, 3], "split_score": 0.6126470412245388}
+{"sent": "green jacket blue backpack", "ann_id": 254641, "best_split": [1, 3], "split_score": 0.6126470412245388}
+{"sent": "guy in blue jacket", "ann_id": 189797, "best_split": [2, 2], "split_score": 0.3478751410086577}
+{"sent": "man facing camera", "ann_id": 189797, "best_split": [1, 3], "split_score": 0.35714285712387633}
+{"sent": "man with paper bag and bottle", "ann_id": 189797, "best_split": [2, 3], "split_score": 0.37041156837991324}
+{"sent": "bus", "ann_id": 168566, "best_split": [2, 2], "split_score": 0.601376760749482}
+{"sent": "gaytime truck", "ann_id": 168566, "best_split": [2, 2], "split_score": 0.601376760749482}
+{"sent": "red bus", "ann_id": 168566, "best_split": [2, 2], "split_score": 0.601376760749482}
+{"sent": "white bus", "ann_id": 168052, "best_split": [2, 1], "split_score": 0.2781221152486443}
+{"sent": "white bus hidden", "ann_id": 168052, "best_split": [2, 1], "split_score": 0.2781221152486443}
+{"sent": "white bus", "ann_id": 168052, "best_split": [2, 1], "split_score": 0.2781221152486443}

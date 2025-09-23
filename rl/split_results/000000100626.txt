@@ -1,0 +1,6 @@
+{"sent": "medium vase", "ann_id": 1156179, "best_split": [1, 2], "split_score": 0.11798469387284818}
+{"sent": "vase with lots of yellow flowers", "ann_id": 1156179, "best_split": [3, 3], "split_score": 0.13999999998108106}
+{"sent": "medium vase", "ann_id": 1156179, "best_split": [1, 2], "split_score": 0.11798469387284818}
+{"sent": "big vase", "ann_id": 1153539, "best_split": [1, 5], "split_score": 0.409192370088353}
+{"sent": "tall flower vase", "ann_id": 1153539, "best_split": [1, 5], "split_score": 0.409192370088353}
+{"sent": "large vase", "ann_id": 1153539, "best_split": [1, 5], "split_score": 0.409192370088353}

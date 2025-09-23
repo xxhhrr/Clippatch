@@ -1,0 +1,5 @@
+{"sent": "gray elephant", "ann_id": 581182, "best_split": [1, 5], "split_score": 0.3678929765606649}
+{"sent": "the lighter coloured elephant", "ann_id": 581182, "best_split": [3, 1], "split_score": 0.2846153846005917}
+{"sent": "brownest elephant", "ann_id": 580882, "best_split": [3, 2], "split_score": 0.4954782608264801}
+{"sent": "brown elephant", "ann_id": 580882, "best_split": [3, 2], "split_score": 0.4954782608264801}
+{"sent": "brown", "ann_id": 580882, "best_split": [2, 2], "split_score": 0.28621103115790103}

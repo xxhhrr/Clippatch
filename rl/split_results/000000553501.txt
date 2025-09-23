@@ -1,0 +1,9 @@
+{"sent": "biggest loaf", "ann_id": 1577433, "best_split": [3, 2], "split_score": 0.49527767279039686}
+{"sent": "bigger bread", "ann_id": 1577433, "best_split": [3, 2], "split_score": 0.49527767279039686}
+{"sent": "bread 1", "ann_id": 1577433, "best_split": [3, 2], "split_score": 0.49527767279039686}
+{"sent": "loaf below banana", "ann_id": 1576349, "best_split": [3, 2], "split_score": 0.39864864860054916}
+{"sent": "loaf nearest bananas", "ann_id": 1576349, "best_split": [3, 2], "split_score": 0.39864864860054916}
+{"sent": "bread by bananas", "ann_id": 1576349, "best_split": [5, 1], "split_score": 0.24574024988207682}
+{"sent": "medium loaf", "ann_id": 1088710, "best_split": [5, 1], "split_score": 0.24169071778775805}
+{"sent": "closest bread to the biggest bread", "ann_id": 1088710, "best_split": [5, 1], "split_score": 0.24169071778775805}
+{"sent": "bread near the bigger bread", "ann_id": 1088710, "best_split": [5, 1], "split_score": 0.24169071778775805}

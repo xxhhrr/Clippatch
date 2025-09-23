@@ -1,0 +1,6 @@
+{"sent": "the boat not covered with a white canopy", "ann_id": 1802716, "best_split": [3, 1], "split_score": 0.3064629024552926}
+{"sent": "boat with sunroof", "ann_id": 1802716, "best_split": [3, 1], "split_score": 0.3064629024552926}
+{"sent": "boat thats cut off", "ann_id": 1802716, "best_split": [3, 1], "split_score": 0.3064629024552926}
+{"sent": "boat with white covering and fewer people inside", "ann_id": 177650, "best_split": [1, 3], "split_score": 0.3806021604010226}
+{"sent": "boat with one man with a black shirt", "ann_id": 177650, "best_split": [3, 2], "split_score": 0.2608138416965064}
+{"sent": "boat with 1 guy", "ann_id": 177650, "best_split": [3, 2], "split_score": 0.2608138416965064}

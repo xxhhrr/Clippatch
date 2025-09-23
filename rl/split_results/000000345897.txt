@@ -1,0 +1,6 @@
+{"sent": "tail facing camera", "ann_id": 582645, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "elephant butt", "ann_id": 582645, "best_split": [3, 1], "split_score": 0.2882068857965335}
+{"sent": "the elephant facing away from us", "ann_id": 582645, "best_split": [3, 1], "split_score": 0.2882068857965335}
+{"sent": "facing us", "ann_id": 581660, "best_split": [1, 2], "split_score": 0.7078417765167768}
+{"sent": "elephant facing us", "ann_id": 581660, "best_split": [1, 2], "split_score": 0.7078417765167768}
+{"sent": "elephant at 9 0 clock", "ann_id": 581660, "best_split": [1, 2], "split_score": 0.7078417765167768}

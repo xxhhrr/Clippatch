@@ -1,0 +1,12 @@
+{"sent": "boy in white looking at his hand with head raised", "ann_id": 500628, "best_split": [3, 2], "split_score": 0.3286802030158919}
+{"sent": "boy in white shirt and jeans with arms propped up", "ann_id": 500628, "best_split": [2, 3], "split_score": 0.33145608135784754}
+{"sent": "boy with head up", "ann_id": 500628, "best_split": [3, 1], "split_score": 0.1876811594105755}
+{"sent": "girl hand on face", "ann_id": 473276, "best_split": [3, 3], "split_score": 0.3308609656296014}
+{"sent": "red jacket", "ann_id": 473276, "best_split": [3, 3], "split_score": 0.3308609656296014}
+{"sent": "red jacket", "ann_id": 473276, "best_split": [3, 3], "split_score": 0.3308609656296014}
+{"sent": "girl with leg crossed", "ann_id": 430424, "best_split": [1, 5], "split_score": 0.41779891300799943}
+{"sent": "woman with legs crossed", "ann_id": 430424, "best_split": [1, 5], "split_score": 0.41779891300799943}
+{"sent": "woman with crossed legs", "ann_id": 430424, "best_split": [1, 5], "split_score": 0.41779891300799943}
+{"sent": "boy with water bottle", "ann_id": 1726522, "best_split": [3, 3], "split_score": 0.4230036815509707}
+{"sent": "boy with head down", "ann_id": 1726522, "best_split": [3, 3], "split_score": 0.4230036815509707}
+{"sent": "face cant be seen", "ann_id": 1726522, "best_split": [3, 1], "split_score": 0.17558096642379822}

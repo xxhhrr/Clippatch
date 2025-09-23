@@ -1,0 +1,6 @@
+{"sent": "orange colored drink on correct rounds side", "ann_id": 675921, "best_split": [3, 3], "split_score": 0.32327374113116714}
+{"sent": "drink out of the picture near soup", "ann_id": 675921, "best_split": [2, 2], "split_score": 0.11762534149615111}
+{"sent": "glass with orange liquid at edge", "ann_id": 675921, "best_split": [3, 3], "split_score": 0.32327374113116714}
+{"sent": "drink that looks like tea", "ann_id": 672191, "best_split": [3, 2], "split_score": 0.48420623594006457}
+{"sent": "glass with ice", "ann_id": 672191, "best_split": [3, 2], "split_score": 0.48420623594006457}
+{"sent": "glass", "ann_id": 672191, "best_split": [3, 2], "split_score": 0.48420623594006457}

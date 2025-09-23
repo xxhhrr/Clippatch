@@ -1,0 +1,6 @@
+{"sent": "empty chair", "ann_id": 377939, "best_split": [2, 2], "split_score": 0.6141581632163458}
+{"sent": "chair with noone in it", "ann_id": 377939, "best_split": [2, 2], "split_score": 0.6141581632163458}
+{"sent": "empty char", "ann_id": 377939, "best_split": [2, 2], "split_score": 0.6141581632163458}
+{"sent": "chair with man in it", "ann_id": 1930593, "best_split": [2, 1], "split_score": 0.5129942601836338}
+{"sent": "black chair that is being sat on", "ann_id": 1930593, "best_split": [2, 2], "split_score": 0.6381332989146491}
+{"sent": "black sofa", "ann_id": 1930593, "best_split": [2, 1], "split_score": 0.5129942601836338}

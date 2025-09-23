@@ -1,0 +1,6 @@
+{"sent": "train behind train with words", "ann_id": 175232, "best_split": [3, 2], "split_score": 0.4943588630403169}
+{"sent": "train in back", "ann_id": 175232, "best_split": [3, 2], "split_score": 0.4943588630403169}
+{"sent": "farther train", "ann_id": 175232, "best_split": [3, 3], "split_score": 0.49420744166632036}
+{"sent": "train", "ann_id": 175139, "best_split": [2, 1], "split_score": 0.7464315168195638}
+{"sent": "locomotive", "ann_id": 175139, "best_split": [2, 1], "split_score": 0.7464315168195638}
+{"sent": "the close train", "ann_id": 175139, "best_split": [2, 1], "split_score": 0.7464315168195638}

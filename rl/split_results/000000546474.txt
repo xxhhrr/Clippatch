@@ -1,0 +1,6 @@
+{"sent": "z head down", "ann_id": 593454, "best_split": [1, 2], "split_score": 0.2927694515189425}
+{"sent": "zebra face", "ann_id": 593454, "best_split": [3, 2], "split_score": 0.4444239119981129}
+{"sent": "zebra head you can fully see", "ann_id": 593454, "best_split": [3, 2], "split_score": 0.4444239119981129}
+{"sent": "whole zebra", "ann_id": 591008, "best_split": [1, 3], "split_score": 0.4269627153544641}
+{"sent": "forefront zebra", "ann_id": 591008, "best_split": [1, 3], "split_score": 0.4269627153544641}
+{"sent": "zebra whose whole body we see", "ann_id": 591008, "best_split": [1, 3], "split_score": 0.4269627153544641}

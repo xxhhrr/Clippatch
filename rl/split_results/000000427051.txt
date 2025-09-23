@@ -1,0 +1,5 @@
+{"sent": "the window of the train next to the bus", "ann_id": 1366089, "best_split": [3, 1], "split_score": 0.15161859916706188}
+{"sent": "station glass windows", "ann_id": 1366089, "best_split": [5, 1], "split_score": 0.16718153732807728}
+{"sent": "the bus", "ann_id": 365676, "best_split": [3, 1], "split_score": 0.5116279069537745}
+{"sent": "bus", "ann_id": 365676, "best_split": [3, 1], "split_score": 0.5116279069537745}
+{"sent": "bus", "ann_id": 365676, "best_split": [3, 1], "split_score": 0.5116279069537745}

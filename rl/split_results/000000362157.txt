@@ -1,0 +1,8 @@
+{"sent": "partial person on couch next to standing man", "ann_id": 1744194, "best_split": [3, 3], "split_score": 0.6512549536573224}
+{"sent": "shadow at 7 o clock", "ann_id": 1744194, "best_split": [2, 2], "split_score": 0.3606505101753308}
+{"sent": "man with arms up", "ann_id": 230253, "best_split": [1, 2], "split_score": 0.758557499455136}
+{"sent": "person standing up in black", "ann_id": 230253, "best_split": [1, 2], "split_score": 0.758557499455136}
+{"sent": "man with hands up", "ann_id": 230253, "best_split": [1, 2], "split_score": 0.758557499455136}
+{"sent": "person in white", "ann_id": 216874, "best_split": [1, 5], "split_score": 0.23939064198356982}
+{"sent": "awkward looking person sitting on chair", "ann_id": 216874, "best_split": [5, 1], "split_score": 0.31589371180756776}
+{"sent": "white shirt", "ann_id": 216874, "best_split": [1, 5], "split_score": 0.23939064198356982}

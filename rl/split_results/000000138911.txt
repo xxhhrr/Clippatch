@@ -1,0 +1,5 @@
+{"sent": "monitor sitting on blue tub", "ann_id": 321133, "best_split": [3, 3], "split_score": 0.6148778478431406}
+{"sent": "computer with blue bin under it", "ann_id": 321133, "best_split": [2, 3], "split_score": 0.5953162616989148}
+{"sent": "the computer screen not behind plastic", "ann_id": 32850, "best_split": [1, 2], "split_score": 0.36304209182226393}
+{"sent": "monitor that is sitting on a wood box", "ann_id": 32850, "best_split": [1, 2], "split_score": 0.36304209182226393}
+{"sent": "screen with larger pic", "ann_id": 32850, "best_split": [2, 2], "split_score": 0.7260841836155864}

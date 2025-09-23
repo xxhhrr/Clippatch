@@ -1,0 +1,5 @@
+{"sent": "jeep on screen", "ann_id": 1969607, "best_split": [3, 3], "split_score": 0.5505843680513907}
+{"sent": "screen with jeep on it", "ann_id": 1969607, "best_split": [3, 3], "split_score": 0.5505843680513907}
+{"sent": "mostly white screen", "ann_id": 1969132, "best_split": [3, 2], "split_score": 0.2869626830081527}
+{"sent": "screen with file box open", "ann_id": 1969132, "best_split": [3, 2], "split_score": 0.2869626830081527}
+{"sent": "screem with file window open", "ann_id": 1969132, "best_split": [3, 2], "split_score": 0.2869626830081527}

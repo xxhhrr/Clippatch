@@ -1,0 +1,6 @@
+{"sent": "crouching person", "ann_id": 1281934, "best_split": [1, 3], "split_score": 0.561255605347608}
+{"sent": "man", "ann_id": 1281934, "best_split": [3, 1], "split_score": 0.22155688621718014}
+{"sent": "man bending down", "ann_id": 1281934, "best_split": [2, 3], "split_score": 0.6552748884978385}
+{"sent": "girl", "ann_id": 1261084, "best_split": [1, 3], "split_score": 0.5470768184675783}
+{"sent": "girl", "ann_id": 1261084, "best_split": [1, 3], "split_score": 0.5470768184675783}
+{"sent": "girl", "ann_id": 1261084, "best_split": [1, 3], "split_score": 0.5470768184675783}

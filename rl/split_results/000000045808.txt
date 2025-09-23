@@ -1,0 +1,9 @@
+{"sent": "food next to whote sauce which is next to fork", "ann_id": 2219700, "best_split": [1, 2], "split_score": 0.021090801449674727}
+{"sent": "the patty nearest us", "ann_id": 2219700, "best_split": [3, 3], "split_score": 0.28277634956896264}
+{"sent": "ball closest to fork", "ann_id": 2219700, "best_split": [3, 3], "split_score": 0.28277634956896264}
+{"sent": "patty nearest the prongs of the fork", "ann_id": 2219600, "best_split": [2, 1], "split_score": 0.08171237244572256}
+{"sent": "breaded piece near yellow food", "ann_id": 2219600, "best_split": [2, 3], "split_score": 0.24734555981571602}
+{"sent": "upper muffin looking thing", "ann_id": 2219600, "best_split": [3, 3], "split_score": 0.2439669421084352}
+{"sent": "salad", "ann_id": 2218441, "best_split": [2, 2], "split_score": 0.40604899408744705}
+{"sent": "meat with greens", "ann_id": 2218441, "best_split": [2, 2], "split_score": 0.40604899408744705}
+{"sent": "food bunched up in the corner", "ann_id": 2218441, "best_split": [2, 2], "split_score": 0.40604899408744705}

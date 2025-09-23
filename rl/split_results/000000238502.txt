@@ -1,0 +1,18 @@
+{"sent": "chair hes sitting on", "ann_id": 2190144, "best_split": [3, 2], "split_score": 0.5643859842418054}
+{"sent": "chair being sat in", "ann_id": 2190144, "best_split": [3, 2], "split_score": 0.5643859842418054}
+{"sent": "chair where boy sitting", "ann_id": 2190144, "best_split": [3, 2], "split_score": 0.5643859842418054}
+{"sent": "tan couch", "ann_id": 1938709, "best_split": [2, 3], "split_score": 0.5419354838085327}
+{"sent": "brown couch obscured by seat with boy", "ann_id": 1938709, "best_split": [2, 2], "split_score": 0.3636363636082532}
+{"sent": "couch with pillow that has circles on it", "ann_id": 1938709, "best_split": [2, 3], "split_score": 0.5419354838085327}
+{"sent": "chair behind boy hes not sittn on that one", "ann_id": 1604660, "best_split": [2, 2], "split_score": 0.3592398021972157}
+{"sent": "pillow with circles", "ann_id": 1604660, "best_split": [2, 3], "split_score": 0.5352209944135334}
+{"sent": "behind kid checker board looking spot on floor", "ann_id": 1604660, "best_split": [2, 2], "split_score": 0.3592398021972157}
+{"sent": "brown couch dark", "ann_id": 114729, "best_split": [5, 1], "split_score": 0.2710044219621759}
+{"sent": "dark brown sofa", "ann_id": 114729, "best_split": [1, 5], "split_score": 0.27989821880726}
+{"sent": "dark brown couch", "ann_id": 114729, "best_split": [5, 1], "split_score": 0.2710044219621759}
+{"sent": "chair facing away", "ann_id": 1590239, "best_split": [3, 3], "split_score": 0.899999999847973}
+{"sent": "gray chair without child", "ann_id": 1590239, "best_split": [1, 3], "split_score": 0.3356442744241188}
+{"sent": "empty gray chair", "ann_id": 1590239, "best_split": [3, 3], "split_score": 0.899999999847973}
+{"sent": "chair he is on", "ann_id": 98834, "best_split": [3, 2], "split_score": 0.5533526397245095}
+{"sent": "chair below boy", "ann_id": 98834, "best_split": [3, 2], "split_score": 0.5533526397245095}
+{"sent": "chair kid is sitting in", "ann_id": 98834, "best_split": [3, 2], "split_score": 0.5533526397245095}

@@ -1,0 +1,6 @@
+{"sent": "the ghost looking sail", "ann_id": 176537, "best_split": [1, 5], "split_score": 0.3909686247296483}
+{"sent": "sailboat", "ann_id": 176537, "best_split": [1, 5], "split_score": 0.3909686247296483}
+{"sent": "sail boar", "ann_id": 176537, "best_split": [1, 5], "split_score": 0.3909686247296483}
+{"sent": "boat below lighthouse", "ann_id": 176074, "best_split": [5, 1], "split_score": 0.34706089402084994}
+{"sent": "biggest boat no sail", "ann_id": 176074, "best_split": [5, 1], "split_score": 0.34706089402084994}
+{"sent": "the large boat", "ann_id": 176074, "best_split": [5, 1], "split_score": 0.34706089402084994}

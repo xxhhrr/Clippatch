@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 234584, "best_split": [2, 3], "split_score": 0.6310517528462852}
+{"sent": "blue shirt", "ann_id": 234584, "best_split": [2, 3], "split_score": 0.6310517528462852}
+{"sent": "wall person", "ann_id": 234584, "best_split": [2, 1], "split_score": 0.21011673150916713}
+{"sent": "woman with leg up", "ann_id": 223391, "best_split": [1, 2], "split_score": 0.5555644132431615}
+{"sent": "tennis player", "ann_id": 223391, "best_split": [1, 2], "split_score": 0.5555644132431615}
+{"sent": "player", "ann_id": 223391, "best_split": [1, 2], "split_score": 0.5555644132431615}

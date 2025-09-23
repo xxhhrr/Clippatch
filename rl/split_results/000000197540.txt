@@ -1,0 +1,6 @@
+{"sent": "man in black facing away", "ann_id": 464859, "best_split": [3, 2], "split_score": 0.4604810996135896}
+{"sent": "black walking away", "ann_id": 464859, "best_split": [1, 2], "split_score": 0.29643654335553105}
+{"sent": "blurry black clothed person walking", "ann_id": 464859, "best_split": [1, 2], "split_score": 0.29643654335553105}
+{"sent": "woman eating", "ann_id": 447827, "best_split": [2, 2], "split_score": 0.5875297430880625}
+{"sent": "eating girl", "ann_id": 447827, "best_split": [2, 1], "split_score": 0.49817844603238465}
+{"sent": "eating girl", "ann_id": 447827, "best_split": [2, 1], "split_score": 0.49817844603238465}

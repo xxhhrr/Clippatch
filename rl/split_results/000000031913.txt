@@ -1,0 +1,6 @@
+{"sent": "ctcher", "ann_id": 503845, "best_split": [1, 2], "split_score": 0.9419642856767393}
+{"sent": "man with mask", "ann_id": 503845, "best_split": [1, 2], "split_score": 0.9419642856767393}
+{"sent": "catcher", "ann_id": 503845, "best_split": [1, 2], "split_score": 0.9419642856767393}
+{"sent": "with glove", "ann_id": 440514, "best_split": [1, 3], "split_score": 0.7624196674098531}
+{"sent": "man with glove", "ann_id": 440514, "best_split": [1, 3], "split_score": 0.7624196674098531}
+{"sent": "man wearing jacket", "ann_id": 440514, "best_split": [2, 1], "split_score": 0.24109510085760533}

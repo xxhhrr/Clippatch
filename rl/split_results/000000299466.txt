@@ -1,0 +1,4 @@
+{"sent": "book that says peter", "ann_id": 1149741, "best_split": [3, 2], "split_score": 0.3360607831350028}
+{"sent": "book 2 in stack behind oj", "ann_id": 1149741, "best_split": [3, 2], "split_score": 0.3360607831350028}
+{"sent": "book thats out of place", "ann_id": 1144357, "best_split": [3, 1], "split_score": 0.17018581080054382}
+{"sent": "book on stack", "ann_id": 1144357, "best_split": [3, 1], "split_score": 0.17018581080054382}

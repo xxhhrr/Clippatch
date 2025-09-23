@@ -1,0 +1,6 @@
+{"sent": "sandwich most veggies showing", "ann_id": 310099, "best_split": [1, 2], "split_score": 0.6015037593754218}
+{"sent": "sandwich closest to screen", "ann_id": 310099, "best_split": [1, 2], "split_score": 0.6015037593754218}
+{"sent": "half with the most lettuce showing", "ann_id": 310099, "best_split": [1, 2], "split_score": 0.6015037593754218}
+{"sent": "one with most turkey", "ann_id": 308558, "best_split": [3, 2], "split_score": 0.46187245587097203}
+{"sent": "less lettece", "ann_id": 308558, "best_split": [3, 1], "split_score": 0.3386575735670021}
+{"sent": "sandwich with more meat showing", "ann_id": 308558, "best_split": [3, 1], "split_score": 0.3386575735670021}

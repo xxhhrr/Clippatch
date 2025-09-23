@@ -1,0 +1,7 @@
+{"sent": "red light with bike and pedestrian", "ann_id": 1385828, "best_split": [3, 3], "split_score": 0.39157674897466466}
+{"sent": "crosswalk signal", "ann_id": 1385828, "best_split": [3, 3], "split_score": 0.39157674897466466}
+{"sent": "pedestrian dont walk sign", "ann_id": 1385828, "best_split": [3, 3], "split_score": 0.39157674897466466}
+{"sent": "area over red and white sign", "ann_id": 1385462, "best_split": [1, 3], "split_score": 0.3641256590309685}
+{"sent": "green", "ann_id": 409114, "best_split": [2, 2], "split_score": 0.5501242750295819}
+{"sent": "green street light", "ann_id": 409114, "best_split": [2, 2], "split_score": 0.5501242750295819}
+{"sent": "green stoplight", "ann_id": 409114, "best_split": [2, 2], "split_score": 0.5501242750295819}

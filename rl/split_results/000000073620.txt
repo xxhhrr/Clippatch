@@ -1,0 +1,13 @@
+{"sent": "blue and pink tie", "ann_id": 1281232, "best_split": [1, 2], "split_score": 0.9512515943498385}
+{"sent": "man in tie", "ann_id": 1281232, "best_split": [1, 2], "split_score": 0.9512515943498385}
+{"sent": "striped tie", "ann_id": 1281232, "best_split": [1, 2], "split_score": 0.9512515943498385}
+{"sent": "shoulder of white shirt", "ann_id": 1259200, "best_split": [3, 1], "split_score": 0.1416418545224563}
+{"sent": "person wearing white", "ann_id": 1259200, "best_split": [1, 5], "split_score": 0.41846153842130174}
+{"sent": "green shirt", "ann_id": 1237811, "best_split": [1, 5], "split_score": 0.4146341463086289}
+{"sent": "green shirt woman", "ann_id": 1237811, "best_split": [1, 5], "split_score": 0.4146341463086289}
+{"sent": "the white table", "ann_id": 1091694, "best_split": [3, 1], "split_score": 0.7059314953630546}
+{"sent": "cake", "ann_id": 1091694, "best_split": [3, 1], "split_score": 0.7059314953630546}
+{"sent": "table", "ann_id": 1091694, "best_split": [3, 1], "split_score": 0.7059314953630546}
+{"sent": "hat guy", "ann_id": 1306100, "best_split": [1, 5], "split_score": 0.4219409282417828}
+{"sent": "man with yellow vest", "ann_id": 1306100, "best_split": [1, 5], "split_score": 0.4219409282417828}
+{"sent": "black hat guy", "ann_id": 1306100, "best_split": [1, 5], "split_score": 0.4219409282417828}

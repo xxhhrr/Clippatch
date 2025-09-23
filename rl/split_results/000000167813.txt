@@ -1,0 +1,9 @@
+{"sent": "girl with ponytail", "ann_id": 234899, "best_split": [2, 2], "split_score": 0.08973051710926944}
+{"sent": "lady in black jacket at the order window", "ann_id": 234899, "best_split": [5, 1], "split_score": 0.10278526504018101}
+{"sent": "long hair woman buying", "ann_id": 234899, "best_split": [5, 1], "split_score": 0.10278526504018101}
+{"sent": "woman with brown purse", "ann_id": 195087, "best_split": [1, 5], "split_score": 0.4450081168379659}
+{"sent": "man purse", "ann_id": 195087, "best_split": [2, 3], "split_score": 0.42404494377257923}
+{"sent": "brown bag", "ann_id": 195087, "best_split": [1, 5], "split_score": 0.4450081168379659}
+{"sent": "bending over tall man", "ann_id": 185922, "best_split": [1, 5], "split_score": 0.4992435703007523}
+{"sent": "hand in back pocket", "ann_id": 185922, "best_split": [1, 5], "split_score": 0.4992435703007523}
+{"sent": "blue jacket", "ann_id": 185922, "best_split": [1, 5], "split_score": 0.4992435703007523}

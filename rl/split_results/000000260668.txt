@@ -1,0 +1,5 @@
+{"sent": "pizza with spinach", "ann_id": 1075645, "best_split": [3, 1], "split_score": 0.34839349135424164}
+{"sent": "the redder pizza", "ann_id": 1075645, "best_split": [1, 2], "split_score": 0.5786001917323643}
+{"sent": "pizza 9 o clock", "ann_id": 1075645, "best_split": [3, 1], "split_score": 0.34839349135424164}
+{"sent": "smaller pizza slice", "ann_id": 1074586, "best_split": [1, 2], "split_score": 0.5485092474271162}
+{"sent": "pizza slice most triangular", "ann_id": 1074586, "best_split": [1, 2], "split_score": 0.5485092474271162}

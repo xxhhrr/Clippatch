@@ -1,0 +1,12 @@
+{"sent": "man near lamp", "ann_id": 202223, "best_split": [1, 3], "split_score": 0.2831091862159158}
+{"sent": "striped shirt", "ann_id": 202223, "best_split": [3, 3], "split_score": 0.4248627058880601}
+{"sent": "man beside lamp", "ann_id": 202223, "best_split": [1, 3], "split_score": 0.2831091862159158}
+{"sent": "crossing legs", "ann_id": 184955, "best_split": [2, 2], "split_score": 0.4468245020389061}
+{"sent": "blue pants man black shirt", "ann_id": 184955, "best_split": [2, 2], "split_score": 0.4468245020389061}
+{"sent": "laid back man", "ann_id": 184955, "best_split": [2, 2], "split_score": 0.4468245020389061}
+{"sent": "small girl", "ann_id": 184857, "best_split": [2, 3], "split_score": 0.692004812349119}
+{"sent": "woman in gray with white sleeves", "ann_id": 184857, "best_split": [2, 3], "split_score": 0.692004812349119}
+{"sent": "ponytail girl", "ann_id": 184857, "best_split": [2, 3], "split_score": 0.692004812349119}
+{"sent": "old lady in the chare", "ann_id": 2167652, "best_split": [3, 3], "split_score": 0.5087499999205077}
+{"sent": "woman in dark shirt", "ann_id": 2167652, "best_split": [3, 1], "split_score": 0.186057142846511}
+{"sent": "woman siting by herself", "ann_id": 2167652, "best_split": [3, 2], "split_score": 0.3534520190671459}

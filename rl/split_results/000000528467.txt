@@ -1,0 +1,5 @@
+{"sent": "white frame bike at 3 o clock", "ann_id": 130506, "best_split": [2, 1], "split_score": 0.14504547629949238}
+{"sent": "bike with whit fender near us", "ann_id": 130506, "best_split": [2, 1], "split_score": 0.14504547629949238}
+{"sent": "closet wheel on right", "ann_id": 129356, "best_split": [2, 1], "split_score": 0.1004464285674248}
+{"sent": "wheel cut by horizontal and vertical edge of picture", "ann_id": 129356, "best_split": [5, 1], "split_score": 0.10776942354925086}
+{"sent": "nearest wheel", "ann_id": 129356, "best_split": [2, 1], "split_score": 0.1004464285674248}

@@ -1,0 +1,6 @@
+{"sent": "man sitting closest to us", "ann_id": 1731621, "best_split": [2, 3], "split_score": 0.42375539000159196}
+{"sent": "man seated on blue drum", "ann_id": 1731621, "best_split": [2, 2], "split_score": 0.3157747267921144}
+{"sent": "crossed legs guy", "ann_id": 1731621, "best_split": [2, 3], "split_score": 0.42375539000159196}
+{"sent": "man with white shirt standing", "ann_id": 1203408, "best_split": [1, 5], "split_score": 0.2796610169222206}
+{"sent": "man standing", "ann_id": 1203408, "best_split": [1, 5], "split_score": 0.2796610169222206}
+{"sent": "man in tan jacket", "ann_id": 1203408, "best_split": [1, 5], "split_score": 0.2796610169222206}

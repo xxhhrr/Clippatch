@@ -1,0 +1,6 @@
+{"sent": "player", "ann_id": 2167775, "best_split": [1, 2], "split_score": 0.48809933379763865}
+{"sent": "man playing tennis", "ann_id": 2167775, "best_split": [1, 2], "split_score": 0.48809933379763865}
+{"sent": "man playing tennis and will hit the ball", "ann_id": 2167775, "best_split": [1, 2], "split_score": 0.48809933379763865}
+{"sent": "man without head", "ann_id": 517624, "best_split": [3, 2], "split_score": 0.45153119957960725}
+{"sent": "umpire", "ann_id": 517624, "best_split": [3, 2], "split_score": 0.45153119957960725}
+{"sent": "man with white shirt", "ann_id": 517624, "best_split": [2, 3], "split_score": 0.3288364249231833}

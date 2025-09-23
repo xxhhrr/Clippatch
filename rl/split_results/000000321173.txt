@@ -1,0 +1,15 @@
+{"sent": "table behind plate", "ann_id": 1958617, "best_split": [1, 3], "split_score": 0.24960805737804131}
+{"sent": "portion of table behind cake", "ann_id": 1958617, "best_split": [1, 3], "split_score": 0.24960805737804131}
+{"sent": "part of table showing closest to mug edge is over white rug", "ann_id": 1958617, "best_split": [3, 1], "split_score": 0.5868122586518574}
+{"sent": "pie slice light", "ann_id": 1928009, "best_split": [3, 1], "split_score": 0.5030211480125084}
+{"sent": "light big piece", "ann_id": 1928009, "best_split": [3, 1], "split_score": 0.5030211480125084}
+{"sent": "white slice of cake", "ann_id": 1928009, "best_split": [3, 1], "split_score": 0.5030211480125084}
+{"sent": "frosting", "ann_id": 1578203, "best_split": [2, 2], "split_score": 0.47764849965725287}
+{"sent": "icing", "ann_id": 1578203, "best_split": [2, 2], "split_score": 0.47764849965725287}
+{"sent": "brownie bite by spoon", "ann_id": 1578203, "best_split": [1, 2], "split_score": 0.2694515306015046}
+{"sent": "cake thing with purple thing on it", "ann_id": 1086158, "best_split": [2, 2], "split_score": 0.4694546262096271}
+{"sent": "purple food", "ann_id": 1086158, "best_split": [2, 2], "split_score": 0.4694546262096271}
+{"sent": "purple stuff", "ann_id": 1086158, "best_split": [2, 2], "split_score": 0.4694546262096271}
+{"sent": "table below mug handle", "ann_id": 390269, "best_split": [1, 5], "split_score": 0.557212953821667}
+{"sent": "wood under mug", "ann_id": 390269, "best_split": [1, 5], "split_score": 0.557212953821667}
+{"sent": "table under mug", "ann_id": 390269, "best_split": [1, 5], "split_score": 0.557212953821667}

@@ -1,0 +1,11 @@
+{"sent": "closest corner plant", "ann_id": 26767, "best_split": [1, 3], "split_score": 0.6978967494802882}
+{"sent": "big plant", "ann_id": 26767, "best_split": [1, 3], "split_score": 0.6978967494802882}
+{"sent": "houseplant by white seat", "ann_id": 26767, "best_split": [1, 3], "split_score": 0.6978967494802882}
+{"sent": "black loveseat", "ann_id": 114036, "best_split": [5, 1], "split_score": 0.2824778760811966}
+{"sent": "small sofa", "ann_id": 114036, "best_split": [3, 3], "split_score": 0.6870203535724023}
+{"sent": "black couch not by window", "ann_id": 111920, "best_split": [2, 3], "split_score": 0.849650349557512}
+{"sent": "black sofa opposite screen on wall", "ann_id": 111920, "best_split": [2, 3], "split_score": 0.849650349557512}
+{"sent": "long couch not love seat", "ann_id": 111920, "best_split": [2, 3], "split_score": 0.849650349557512}
+{"sent": "big plant in the corner", "ann_id": 26764, "best_split": [1, 3], "split_score": 0.6246712885115544}
+{"sent": "plant near tv closest to us", "ann_id": 26764, "best_split": [1, 3], "split_score": 0.6246712885115544}
+{"sent": "plant closest to you", "ann_id": 26764, "best_split": [1, 3], "split_score": 0.6246712885115544}

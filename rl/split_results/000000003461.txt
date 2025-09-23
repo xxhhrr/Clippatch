@@ -1,0 +1,6 @@
+{"sent": "closest man", "ann_id": 1241620, "best_split": [1, 5], "split_score": 0.624837571874435}
+{"sent": "dark jacket", "ann_id": 1241620, "best_split": [1, 5], "split_score": 0.624837571874435}
+{"sent": "closest skiier", "ann_id": 1241620, "best_split": [2, 2], "split_score": 0.32471792178399905}
+{"sent": "man looking away", "ann_id": 1217420, "best_split": [1, 2], "split_score": 0.13264669163028064}
+{"sent": "skier in light jacket", "ann_id": 1217420, "best_split": [2, 3], "split_score": 0.2523804648047117}
+{"sent": "light coat", "ann_id": 1217420, "best_split": [3, 1], "split_score": 0.11679547185605772}

@@ -1,0 +1,12 @@
+{"sent": "green shirt man", "ann_id": 516430, "best_split": [3, 3], "split_score": 0.33019335642907865}
+{"sent": "man by door", "ann_id": 516430, "best_split": [1, 3], "split_score": 0.31708494206581295}
+{"sent": "man wearing stripped hoodie", "ann_id": 516430, "best_split": [1, 5], "split_score": 0.37082728588798736}
+{"sent": "lady stripes", "ann_id": 504815, "best_split": [1, 5], "split_score": 0.6331168830526464}
+{"sent": "striped shirt", "ann_id": 504815, "best_split": [1, 5], "split_score": 0.6331168830526464}
+{"sent": "person with hand on hip in white shirt", "ann_id": 504815, "best_split": [1, 3], "split_score": 0.37644787642516603}
+{"sent": "all black", "ann_id": 473309, "best_split": [1, 3], "split_score": 0.4891913530544898}
+{"sent": "dark person", "ann_id": 473309, "best_split": [1, 3], "split_score": 0.4891913530544898}
+{"sent": "woman in all black", "ann_id": 473309, "best_split": [1, 3], "split_score": 0.4891913530544898}
+{"sent": "chubby man white shirt", "ann_id": 423970, "best_split": [1, 2], "split_score": 0.7692920918060709}
+{"sent": "man in white shirt", "ann_id": 423970, "best_split": [1, 2], "split_score": 0.7692920918060709}
+{"sent": "white shirt", "ann_id": 423970, "best_split": [1, 2], "split_score": 0.7692920918060709}

@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 227781, "best_split": [1, 5], "split_score": 0.4051565377299058}
+{"sent": "woman in blue", "ann_id": 227781, "best_split": [1, 2], "split_score": 0.550688360429025}
+{"sent": "blue shirt", "ann_id": 227781, "best_split": [1, 5], "split_score": 0.4051565377299058}
+{"sent": "old man", "ann_id": 227234, "best_split": [1, 3], "split_score": 0.9561800428104203}
+{"sent": "man with glasses", "ann_id": 227234, "best_split": [1, 3], "split_score": 0.9561800428104203}
+{"sent": "man partially off camera", "ann_id": 227234, "best_split": [1, 3], "split_score": 0.9561800428104203}
+{"sent": "happy kid", "ann_id": 215292, "best_split": [1, 3], "split_score": 0.344522968178858}
+{"sent": "kid in black", "ann_id": 215292, "best_split": [3, 3], "split_score": 0.5228683060764343}
+{"sent": "kid", "ann_id": 215292, "best_split": [3, 3], "split_score": 0.5228683060764343}

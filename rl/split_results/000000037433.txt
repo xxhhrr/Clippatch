@@ -1,0 +1,6 @@
+{"sent": "small couch facing sliding doors", "ann_id": 115422, "best_split": [3, 2], "split_score": 0.4772136953391719}
+{"sent": "the sofa with its back to us", "ann_id": 115422, "best_split": [3, 2], "split_score": 0.4772136953391719}
+{"sent": "sofa nearest to tv cabinet", "ann_id": 115422, "best_split": [5, 1], "split_score": 0.379310344790428}
+{"sent": "larger sofa", "ann_id": 112674, "best_split": [5, 1], "split_score": 0.2246817930063935}
+{"sent": "sofa", "ann_id": 112674, "best_split": [5, 1], "split_score": 0.2246817930063935}
+{"sent": "couch at 700", "ann_id": 112674, "best_split": [5, 1], "split_score": 0.2246817930063935}

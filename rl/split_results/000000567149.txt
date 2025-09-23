@@ -1,0 +1,6 @@
+{"sent": "passenger", "ann_id": 1721397, "best_split": [1, 5], "split_score": 0.49287833824236804}
+{"sent": "passenger on motorcyel", "ann_id": 1721397, "best_split": [1, 5], "split_score": 0.49287833824236804}
+{"sent": "person behind", "ann_id": 1721397, "best_split": [1, 5], "split_score": 0.49287833824236804}
+{"sent": "male biker", "ann_id": 197887, "best_split": [1, 3], "split_score": 0.7818962594201663}
+{"sent": "driver", "ann_id": 197887, "best_split": [1, 2], "split_score": 0.2367746517946705}
+{"sent": "driver", "ann_id": 197887, "best_split": [1, 2], "split_score": 0.2367746517946705}

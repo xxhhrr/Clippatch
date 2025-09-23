@@ -1,0 +1,6 @@
+{"sent": "man with arms out", "ann_id": 507789, "best_split": [1, 5], "split_score": 0.5543601358611013}
+{"sent": "man in jersey", "ann_id": 507789, "best_split": [1, 5], "split_score": 0.5543601358611013}
+{"sent": "the man", "ann_id": 507789, "best_split": [1, 2], "split_score": 0.48246173467464676}
+{"sent": "green shirt and frisbee", "ann_id": 475453, "best_split": [1, 3], "split_score": 0.4089975349009348}
+{"sent": "girl in green shirt", "ann_id": 475453, "best_split": [1, 3], "split_score": 0.4089975349009348}
+{"sent": "girl", "ann_id": 475453, "best_split": [1, 2], "split_score": 0.3546879710448188}

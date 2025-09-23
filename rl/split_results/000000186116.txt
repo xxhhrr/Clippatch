@@ -1,0 +1,6 @@
+{"sent": "partial zebra", "ann_id": 591166, "best_split": [3, 1], "split_score": 0.27488855867965784}
+{"sent": "zebra looking away from camera", "ann_id": 591166, "best_split": [3, 1], "split_score": 0.27488855867965784}
+{"sent": "further zebra", "ann_id": 591166, "best_split": [3, 1], "split_score": 0.27488855867965784}
+{"sent": "zebra whos body is not blocked", "ann_id": 590853, "best_split": [1, 2], "split_score": 0.484262001498579}
+{"sent": "zebra full view", "ann_id": 590853, "best_split": [1, 2], "split_score": 0.484262001498579}
+{"sent": "zebra closest to us", "ann_id": 590853, "best_split": [1, 2], "split_score": 0.484262001498579}

@@ -1,0 +1,5 @@
+{"sent": "car with dirty windows", "ann_id": 140821, "best_split": [5, 1], "split_score": 0.2857142856901911}
+{"sent": "car lesser seen", "ann_id": 140821, "best_split": [5, 1], "split_score": 0.2857142856901911}
+{"sent": "the car infront of the bike that is out of frame", "ann_id": 140821, "best_split": [2, 3], "split_score": 0.5685779815861722}
+{"sent": "black car by 3", "ann_id": 132352, "best_split": [2, 2], "split_score": 0.6734693877014134}
+{"sent": "black car under the no parking", "ann_id": 132352, "best_split": [2, 2], "split_score": 0.6734693877014134}

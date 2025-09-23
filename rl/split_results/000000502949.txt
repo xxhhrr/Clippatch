@@ -1,0 +1,6 @@
+{"sent": "man sitting gray", "ann_id": 515916, "best_split": [3, 3], "split_score": 0.5745978923218804}
+{"sent": "person in black at 10 o clock", "ann_id": 515916, "best_split": [3, 1], "split_score": 0.22629969417724444}
+{"sent": "man 7 o clock from the man in green", "ann_id": 515916, "best_split": [3, 2], "split_score": 0.41340782118780844}
+{"sent": "woman sipping", "ann_id": 431247, "best_split": [1, 5], "split_score": 0.4815071339187209}
+{"sent": "person with glasses", "ann_id": 431247, "best_split": [1, 5], "split_score": 0.4815071339187209}
+{"sent": "woman drinking", "ann_id": 431247, "best_split": [1, 5], "split_score": 0.4815071339187209}

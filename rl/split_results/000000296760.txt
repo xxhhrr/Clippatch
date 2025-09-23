@@ -1,0 +1,9 @@
+{"sent": "white and black dog next to the black lab", "ann_id": 18296, "best_split": [2, 2], "split_score": 0.6643456017717532}
+{"sent": "black and white dog with black dog", "ann_id": 18296, "best_split": [2, 2], "split_score": 0.6643456017717532}
+{"sent": "white and black dog closest to us", "ann_id": 18296, "best_split": [2, 3], "split_score": 0.7381211461064453}
+{"sent": "black do", "ann_id": 15956, "best_split": [2, 3], "split_score": 0.5491166077307329}
+{"sent": "all black dog", "ann_id": 15956, "best_split": [2, 3], "split_score": 0.5491166077307329}
+{"sent": "black dog", "ann_id": 15956, "best_split": [2, 1], "split_score": 0.3650224215110231}
+{"sent": "brown doggy", "ann_id": 8070, "best_split": [3, 2], "split_score": 0.7546445879690383}
+{"sent": "golden retriever", "ann_id": 8070, "best_split": [3, 2], "split_score": 0.7546445879690383}
+{"sent": "light brown dog", "ann_id": 8070, "best_split": [3, 2], "split_score": 0.7546445879690383}

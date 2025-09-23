@@ -1,0 +1,12 @@
+{"sent": "heavy sugar powdered at 5pm", "ann_id": 1082789, "best_split": [2, 3], "split_score": 0.7677946323491488}
+{"sent": "more white powdered donut", "ann_id": 1082789, "best_split": [2, 3], "split_score": 0.7677946323491488}
+{"sent": "donut with lots of sugar", "ann_id": 1082789, "best_split": [1, 2], "split_score": 0.2735172193768528}
+{"sent": "non powdered one without a hole", "ann_id": 1082048, "best_split": [3, 1], "split_score": 0.32578116609439595}
+{"sent": "squres on less powder", "ann_id": 1082048, "best_split": [2, 3], "split_score": 0.47020342320367386}
+{"sent": "non sugared with squares", "ann_id": 1082048, "best_split": [3, 1], "split_score": 0.32578116609439595}
+{"sent": "darker doughnut", "ann_id": 1081823, "best_split": [2, 3], "split_score": 0.691819463972865}
+{"sent": "dark brown donut", "ann_id": 1081823, "best_split": [2, 3], "split_score": 0.691819463972865}
+{"sent": "closest", "ann_id": 1081823, "best_split": [2, 3], "split_score": 0.691819463972865}
+{"sent": "yellow donut with hole", "ann_id": 1081224, "best_split": [2, 2], "split_score": 0.661235914687344}
+{"sent": "lightest donut", "ann_id": 1081224, "best_split": [2, 2], "split_score": 0.661235914687344}
+{"sent": "lightest doughnut brown glazed", "ann_id": 1081224, "best_split": [2, 2], "split_score": 0.661235914687344}

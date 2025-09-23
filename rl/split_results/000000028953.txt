@@ -1,0 +1,10 @@
+{"sent": "closest person", "ann_id": 544579, "best_split": [2, 2], "split_score": 0.4980907667919818}
+{"sent": "darkest clothes with white shirt carrying green bag click on white shirt", "ann_id": 544579, "best_split": [2, 2], "split_score": 0.4980907667919818}
+{"sent": "no umbrella long hair", "ann_id": 483473, "best_split": [5, 1], "split_score": 0.11258278145029667}
+{"sent": "female with brown boots on blond hair balck hat", "ann_id": 483473, "best_split": [2, 3], "split_score": 0.30984204128874226}
+{"sent": "woman with gray purse", "ann_id": 483473, "best_split": [2, 1], "split_score": 0.20158102766087024}
+{"sent": "brown thing lady is arrying closest", "ann_id": 1710361, "best_split": [2, 1], "split_score": 0.11456907078730826}
+{"sent": "blur behind green bag", "ann_id": 1710361, "best_split": [1, 5], "split_score": 0.5104504869611961}
+{"sent": "person in back with no umbrella", "ann_id": 1707041, "best_split": [5, 1], "split_score": 0.07580862533054172}
+{"sent": "man walking alone off to sid", "ann_id": 1707041, "best_split": [1, 2], "split_score": 0.11623086734230585}
+{"sent": "guy at 9 o clock no umbrella", "ann_id": 1707041, "best_split": [5, 1], "split_score": 0.07580862533054172}

@@ -1,0 +1,15 @@
+{"sent": "very close white shirt", "ann_id": 535012, "best_split": [3, 2], "split_score": 0.3880410111616153}
+{"sent": "9 o clock woman", "ann_id": 535012, "best_split": [1, 3], "split_score": 0.5699203667609846}
+{"sent": "lady white shirt", "ann_id": 535012, "best_split": [1, 3], "split_score": 0.5699203667609846}
+{"sent": "striped shirt", "ann_id": 485150, "best_split": [2, 3], "split_score": 0.7154397656553125}
+{"sent": "woman in striped shirt", "ann_id": 485150, "best_split": [2, 3], "split_score": 0.7154397656553125}
+{"sent": "stripped shirt", "ann_id": 485150, "best_split": [2, 3], "split_score": 0.7154397656553125}
+{"sent": "person barely visible next to large ladys camera hand", "ann_id": 2020294, "best_split": [1, 5], "split_score": 0.3760683760318504}
+{"sent": "light brown item just out of frame", "ann_id": 2020294, "best_split": [3, 3], "split_score": 0.5884453098688014}
+{"sent": "person with hat thats cut off", "ann_id": 2020294, "best_split": [3, 1], "split_score": 0.03145523677687743}
+{"sent": "man in the hat", "ann_id": 485125, "best_split": [2, 1], "split_score": 0.25921120912375967}
+{"sent": "white shirt and shades", "ann_id": 485125, "best_split": [2, 3], "split_score": 0.4636038185762356}
+{"sent": "man in hat", "ann_id": 485125, "best_split": [1, 5], "split_score": 0.35750507096801615}
+{"sent": "girl with tank", "ann_id": 477910, "best_split": [2, 3], "split_score": 0.5454545454183243}
+{"sent": "girl with hula doll", "ann_id": 477910, "best_split": [2, 1], "split_score": 0.4439680022901424}
+{"sent": "girl", "ann_id": 477910, "best_split": [1, 2], "split_score": 0.28036935266533425}

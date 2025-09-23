@@ -1,0 +1,6 @@
+{"sent": "trunk up elephant", "ann_id": 582421, "best_split": [3, 3], "split_score": 0.4693756193786545}
+{"sent": "trunk up", "ann_id": 582421, "best_split": [3, 3], "split_score": 0.4693756193786545}
+{"sent": "elephant getting rained on", "ann_id": 582421, "best_split": [3, 3], "split_score": 0.4693756193786545}
+{"sent": "elephant in full view", "ann_id": 581671, "best_split": [3, 2], "split_score": 0.5071774883061909}
+{"sent": "trunk down", "ann_id": 581671, "best_split": [3, 2], "split_score": 0.5071774883061909}
+{"sent": "closer elephant", "ann_id": 581671, "best_split": [3, 2], "split_score": 0.5071774883061909}

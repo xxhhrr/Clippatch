@@ -1,0 +1,6 @@
+{"sent": "the apple with the stem", "ann_id": 2186608, "best_split": [2, 1], "split_score": 0.43278484940884876}
+{"sent": "apple nearest", "ann_id": 2186608, "best_split": [2, 1], "split_score": 0.43278484940884876}
+{"sent": "apple", "ann_id": 2186608, "best_split": [2, 1], "split_score": 0.43278484940884876}
+{"sent": "back apple", "ann_id": 1048104, "best_split": [1, 2], "split_score": 0.29218514701227766}
+{"sent": "high apple", "ann_id": 1048104, "best_split": [3, 2], "split_score": 0.5888028947041106}
+{"sent": "fruit not apple not banana", "ann_id": 1048104, "best_split": [3, 1], "split_score": 0.32967275534850876}

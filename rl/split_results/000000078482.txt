@@ -1,0 +1,5 @@
+{"sent": "guy cutting cake closest", "ann_id": 460731, "best_split": [1, 2], "split_score": 0.7759149940706387}
+{"sent": "dark skinned man", "ann_id": 460731, "best_split": [1, 2], "split_score": 0.7759149940706387}
+{"sent": "older man", "ann_id": 456569, "best_split": [1, 5], "split_score": 0.5225196849982268}
+{"sent": "man in tux", "ann_id": 456569, "best_split": [1, 5], "split_score": 0.5225196849982268}
+{"sent": "tallest man", "ann_id": 456569, "best_split": [2, 3], "split_score": 0.24985931343205828}

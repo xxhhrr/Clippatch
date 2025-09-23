@@ -1,0 +1,16 @@
+{"sent": "hot dog that looks like its part of a parentheses", "ann_id": 1070424, "best_split": [2, 3], "split_score": 0.33528876298823823}
+{"sent": "closest hot dog to us", "ann_id": 1070346, "best_split": [3, 3], "split_score": 0.6027507009476898}
+{"sent": "closest hotdog", "ann_id": 1070346, "best_split": [3, 3], "split_score": 0.6027507009476898}
+{"sent": "dog closest to us", "ann_id": 1070346, "best_split": [2, 3], "split_score": 0.43820988249313564}
+{"sent": "hot dog closest to the word hot on the back cup", "ann_id": 1069973, "best_split": [1, 3], "split_score": 0.18380134600929443}
+{"sent": "straightest hot dog", "ann_id": 1069973, "best_split": [1, 3], "split_score": 0.18380134600929443}
+{"sent": "3 dogs away from us", "ann_id": 1069973, "best_split": [1, 3], "split_score": 0.18380134600929443}
+{"sent": "the furthest hotdog", "ann_id": 1069369, "best_split": [1, 3], "split_score": 0.19605324613521408}
+{"sent": "farthest hot dog from us", "ann_id": 1069369, "best_split": [1, 3], "split_score": 0.19605324613521408}
+{"sent": "hot dog farthest away", "ann_id": 1069369, "best_split": [1, 3], "split_score": 0.19605324613521408}
+{"sent": "furthest drink", "ann_id": 675197, "best_split": [2, 3], "split_score": 0.697635135050961}
+{"sent": "furthest drink from us", "ann_id": 675197, "best_split": [2, 3], "split_score": 0.697635135050961}
+{"sent": "cup near back", "ann_id": 675197, "best_split": [2, 3], "split_score": 0.697635135050961}
+{"sent": "soda close to us", "ann_id": 674289, "best_split": [2, 1], "split_score": 0.0736604083844847}
+{"sent": "lowest drink", "ann_id": 674289, "best_split": [1, 5], "split_score": 0.5185743918047733}
+{"sent": "drink closest to us", "ann_id": 674289, "best_split": [1, 5], "split_score": 0.5185743918047733}

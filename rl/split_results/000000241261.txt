@@ -1,0 +1,11 @@
+{"sent": "white shirt", "ann_id": 499353, "best_split": [2, 3], "split_score": 0.4053511705298279}
+{"sent": "man in white shirt and green tie", "ann_id": 499353, "best_split": [2, 2], "split_score": 0.2970588235090931}
+{"sent": "man with pea green tie", "ann_id": 499353, "best_split": [2, 2], "split_score": 0.2970588235090931}
+{"sent": "black jacket next to man with green tie", "ann_id": 436888, "best_split": [3, 2], "split_score": 0.3933380580799665}
+{"sent": "man in dark coat by man in yellow tie", "ann_id": 436888, "best_split": [3, 2], "split_score": 0.3933380580799665}
+{"sent": "black suit no glasses", "ann_id": 436888, "best_split": [3, 1], "split_score": 0.22680833672727788}
+{"sent": "purple shirt", "ann_id": 426165, "best_split": [1, 5], "split_score": 0.5415617127976284}
+{"sent": "purple shirt", "ann_id": 426165, "best_split": [1, 5], "split_score": 0.5415617127976284}
+{"sent": "purple", "ann_id": 426165, "best_split": [1, 5], "split_score": 0.5415617127976284}
+{"sent": "man with glasses", "ann_id": 2152479, "best_split": [1, 5], "split_score": 0.6878106080520637}
+{"sent": "man glasses black suit", "ann_id": 2152479, "best_split": [1, 5], "split_score": 0.6878106080520637}

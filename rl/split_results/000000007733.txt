@@ -1,0 +1,6 @@
+{"sent": "fat lady", "ann_id": 511173, "best_split": [2, 2], "split_score": 0.6113098279332703}
+{"sent": "woman", "ann_id": 511173, "best_split": [2, 2], "split_score": 0.6113098279332703}
+{"sent": "the large woman", "ann_id": 511173, "best_split": [2, 2], "split_score": 0.6113098279332703}
+{"sent": "man", "ann_id": 427702, "best_split": [1, 3], "split_score": 0.5832282471396899}
+{"sent": "husband", "ann_id": 427702, "best_split": [1, 3], "split_score": 0.5832282471396899}
+{"sent": "the man", "ann_id": 427702, "best_split": [1, 3], "split_score": 0.5832282471396899}

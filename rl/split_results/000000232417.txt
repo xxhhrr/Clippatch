@@ -1,0 +1,6 @@
+{"sent": "elephant beside trailer", "ann_id": 581608, "best_split": [3, 2], "split_score": 0.41102581991032494}
+{"sent": "elephant walking away", "ann_id": 581608, "best_split": [3, 2], "split_score": 0.41102581991032494}
+{"sent": "elephant with backside to us", "ann_id": 581608, "best_split": [3, 2], "split_score": 0.41102581991032494}
+{"sent": "tusks", "ann_id": 580832, "best_split": [1, 3], "split_score": 0.5001469291591392}
+{"sent": "elephant with tusks", "ann_id": 580832, "best_split": [1, 3], "split_score": 0.5001469291591392}
+{"sent": "elephant", "ann_id": 580832, "best_split": [1, 3], "split_score": 0.5001469291591392}

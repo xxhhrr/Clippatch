@@ -1,0 +1,6 @@
+{"sent": "half of pizza that has most greens", "ann_id": 1569902, "best_split": [1, 2], "split_score": 0.3363184608345163}
+{"sent": "meat topping only", "ann_id": 1569902, "best_split": [3, 1], "split_score": 0.6529497882858011}
+{"sent": "the half of the pizza with meat on it", "ann_id": 1569902, "best_split": [1, 2], "split_score": 0.3363184608345163}
+{"sent": "part of pizza with least toppings", "ann_id": 1077854, "best_split": [2, 2], "split_score": 0.9156915690882319}
+{"sent": "8 7 oclock", "ann_id": 1077854, "best_split": [2, 2], "split_score": 0.022417934346580546}
+{"sent": "bigger slice", "ann_id": 1077854, "best_split": [2, 2], "split_score": 0.9156915690882319}

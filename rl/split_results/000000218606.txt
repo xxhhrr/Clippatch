@@ -1,0 +1,9 @@
+{"sent": "girrafe sitting in foreground", "ann_id": 599539, "best_split": [1, 2], "split_score": 0.7447783800723542}
+{"sent": "girafe sitting", "ann_id": 599539, "best_split": [1, 2], "split_score": 0.7447783800723542}
+{"sent": "close girraffe sitting", "ann_id": 599539, "best_split": [1, 2], "split_score": 0.7447783800723542}
+{"sent": "can barely see this giraffe", "ann_id": 599146, "best_split": [3, 1], "split_score": 0.2857142856970491}
+{"sent": "giraffe in background laying down", "ann_id": 599146, "best_split": [3, 1], "split_score": 0.2857142856970491}
+{"sent": "partial giraffe laying down", "ann_id": 599146, "best_split": [3, 1], "split_score": 0.2857142856970491}
+{"sent": "baby giraffe touch other giraffes nose", "ann_id": 595508, "best_split": [2, 2], "split_score": 0.31656728025938013}
+{"sent": "standing giraffe", "ann_id": 595508, "best_split": [2, 2], "split_score": 0.31656728025938013}
+{"sent": "little giraffe bent neck", "ann_id": 595508, "best_split": [2, 2], "split_score": 0.31656728025938013}

@@ -1,0 +1,9 @@
+{"sent": "suv", "ann_id": 147264, "best_split": [2, 1], "split_score": 0.17534279336035782}
+{"sent": "suv in background", "ann_id": 147264, "best_split": [3, 1], "split_score": 0.26538368724267714}
+{"sent": "van partly obscured by biker", "ann_id": 147264, "best_split": [2, 2], "split_score": 0.3337794221574605}
+{"sent": "car in ahead of bicyclist black", "ann_id": 146283, "best_split": [2, 1], "split_score": 0.21308992346089406}
+{"sent": "black car traveling before biker", "ann_id": 146283, "best_split": [2, 1], "split_score": 0.21308992346089406}
+{"sent": "black car", "ann_id": 146283, "best_split": [2, 3], "split_score": 0.5581714285076376}
+{"sent": "ib92a", "ann_id": 140939, "best_split": [1, 5], "split_score": 0.47676542202954897}
+{"sent": "the white car thats barely in the picture closest to us", "ann_id": 140939, "best_split": [1, 5], "split_score": 0.47676542202954897}
+{"sent": "bumper partial with license plate", "ann_id": 140939, "best_split": [1, 5], "split_score": 0.47676542202954897}

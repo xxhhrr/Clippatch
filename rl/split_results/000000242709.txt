@@ -1,0 +1,9 @@
+{"sent": "stew", "ann_id": 2185964, "best_split": [2, 1], "split_score": 0.5745774872219954}
+{"sent": "veggies with sauce", "ann_id": 2185964, "best_split": [1, 5], "split_score": 0.20278507358130804}
+{"sent": "dish with meat and veggies", "ann_id": 2185964, "best_split": [1, 5], "split_score": 0.20278507358130804}
+{"sent": "white rice", "ann_id": 1039371, "best_split": [2, 2], "split_score": 0.7602739725562455}
+{"sent": "rice", "ann_id": 1039371, "best_split": [2, 2], "split_score": 0.7602739725562455}
+{"sent": "white rice", "ann_id": 1039371, "best_split": [2, 2], "split_score": 0.7602739725562455}
+{"sent": "bowl with broccoli and carrots", "ann_id": 718203, "best_split": [2, 2], "split_score": 0.7037468000521441}
+{"sent": "container full of raw veggies", "ann_id": 718203, "best_split": [2, 2], "split_score": 0.7037468000521441}
+{"sent": "raw veggies", "ann_id": 718203, "best_split": [2, 2], "split_score": 0.7037468000521441}

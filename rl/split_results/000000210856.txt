@@ -1,0 +1,6 @@
+{"sent": "pizza facing the greens", "ann_id": 1075778, "best_split": [3, 2], "split_score": 0.5111430624989987}
+{"sent": "slice below tomaatoes", "ann_id": 1075778, "best_split": [3, 2], "split_score": 0.5111430624989987}
+{"sent": "pizza closer to knife", "ann_id": 1075778, "best_split": [3, 2], "split_score": 0.5111430624989987}
+{"sent": "pizza touching onion", "ann_id": 1073766, "best_split": [2, 1], "split_score": 0.3259194879972378}
+{"sent": "pizza with tip near edge of board", "ann_id": 1073766, "best_split": [2, 1], "split_score": 0.3259194879972378}
+{"sent": "number 1 slice", "ann_id": 1073766, "best_split": [2, 1], "split_score": 0.3259194879972378}

@@ -1,0 +1,9 @@
+{"sent": "white shirt female", "ann_id": 512208, "best_split": [3, 3], "split_score": 0.5949339206393245}
+{"sent": "she is watching the game black pants white shirt", "ann_id": 512208, "best_split": [3, 1], "split_score": 0.2962099716104474}
+{"sent": "woman in white", "ann_id": 512208, "best_split": [3, 3], "split_score": 0.5949339206393245}
+{"sent": "girl in pink shirt", "ann_id": 485031, "best_split": [1, 5], "split_score": 0.6156751651973839}
+{"sent": "red shirt", "ann_id": 485031, "best_split": [1, 5], "split_score": 0.6156751651973839}
+{"sent": "girl in pink behind him", "ann_id": 485031, "best_split": [1, 5], "split_score": 0.6156751651973839}
+{"sent": "boy with bat", "ann_id": 421232, "best_split": [1, 3], "split_score": 0.40075880425907173}
+{"sent": "boy", "ann_id": 421232, "best_split": [1, 2], "split_score": 0.48369906811456564}
+{"sent": "batter", "ann_id": 421232, "best_split": [1, 3], "split_score": 0.40075880425907173}

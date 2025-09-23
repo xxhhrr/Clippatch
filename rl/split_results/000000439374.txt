@@ -1,0 +1,6 @@
+{"sent": "zebra with its head up", "ann_id": 591818, "best_split": [2, 2], "split_score": 0.409090909058626}
+{"sent": "zebra not eating grass", "ann_id": 591818, "best_split": [2, 2], "split_score": 0.409090909058626}
+{"sent": "zebra not eating", "ann_id": 591818, "best_split": [2, 2], "split_score": 0.409090909058626}
+{"sent": "zebra with head down", "ann_id": 588289, "best_split": [5, 1], "split_score": 0.22631578945241393}
+{"sent": "zebra eating", "ann_id": 588289, "best_split": [5, 1], "split_score": 0.22631578945241393}
+{"sent": "zebra eating", "ann_id": 588289, "best_split": [5, 1], "split_score": 0.22631578945241393}

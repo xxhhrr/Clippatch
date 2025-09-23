@@ -1,0 +1,6 @@
+{"sent": "pizza with most meat", "ann_id": 1075140, "best_split": [3, 1], "split_score": 0.36650615300899997}
+{"sent": "burger pizza", "ann_id": 1075140, "best_split": [3, 1], "split_score": 0.36650615300899997}
+{"sent": "closer pie", "ann_id": 1075140, "best_split": [2, 2], "split_score": 0.5895380298331727}
+{"sent": "far pizza", "ann_id": 1074499, "best_split": [2, 2], "split_score": 0.7575031703003027}
+{"sent": "less burned", "ann_id": 1074499, "best_split": [2, 2], "split_score": 0.7575031703003027}
+{"sent": "farthest pizza", "ann_id": 1074499, "best_split": [2, 2], "split_score": 0.7575031703003027}

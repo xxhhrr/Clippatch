@@ -1,0 +1,8 @@
+{"sent": "woman in gray shirt black pants 6 o clock", "ann_id": 1243171, "best_split": [2, 3], "split_score": 0.5358459647136578}
+{"sent": "woman in charcoal gray sweater across from woman in glasses", "ann_id": 1243171, "best_split": [2, 2], "split_score": 0.29277464408455717}
+{"sent": "woman with gray hair and blacvk pants", "ann_id": 1243171, "best_split": [2, 1], "split_score": 0.21693202693597166}
+{"sent": "woman in blue", "ann_id": 1200857, "best_split": [2, 3], "split_score": 0.696346026777862}
+{"sent": "granny blue swater", "ann_id": 1200857, "best_split": [3, 1], "split_score": 0.13668409188352193}
+{"sent": "woman at 900", "ann_id": 1200857, "best_split": [2, 1], "split_score": 0.24441783202331693}
+{"sent": "black suit head of table", "ann_id": 1292143, "best_split": [2, 3], "split_score": 0.5165816325981525}
+{"sent": "person half in picture", "ann_id": 1292143, "best_split": [1, 5], "split_score": 0.5455787623906325}

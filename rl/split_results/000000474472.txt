@@ -1,0 +1,11 @@
+{"sent": "laptop that is cutoff", "ann_id": 1970802, "best_split": [3, 3], "split_score": 0.4442338071968035}
+{"sent": "laptop cut off in picture", "ann_id": 1970802, "best_split": [3, 3], "split_score": 0.4442338071968035}
+{"sent": "righty laptop", "ann_id": 1970802, "best_split": [3, 3], "split_score": 0.4442338071968035}
+{"sent": "monitor cut off at edge", "ann_id": 1969996, "best_split": [2, 3], "split_score": 0.31998069494208725}
+{"sent": "screen partially not seen", "ann_id": 1969996, "best_split": [2, 3], "split_score": 0.31998069494208725}
+{"sent": "screen furthest 900", "ann_id": 1969996, "best_split": [2, 3], "split_score": 0.31998069494208725}
+{"sent": "screen by water bottle", "ann_id": 1969968, "best_split": [2, 3], "split_score": 0.35044305161546974}
+{"sent": "pc with a water bottle", "ann_id": 1969968, "best_split": [3, 1], "split_score": 0.05251164674637879}
+{"sent": "computer near key board red soda", "ann_id": 1969924, "best_split": [1, 5], "split_score": 0.19391488540401358}
+{"sent": "middlest", "ann_id": 1969924, "best_split": [2, 3], "split_score": 0.30694980691277146}
+{"sent": "computer screen with data on it", "ann_id": 1969924, "best_split": [5, 1], "split_score": 0.1215629522321307}

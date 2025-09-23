@@ -1,0 +1,8 @@
+{"sent": "300", "ann_id": 590731, "best_split": [3, 1], "split_score": 0.19593262350313037}
+{"sent": "farthest rightier", "ann_id": 590731, "best_split": [2, 3], "split_score": 0.2005751924853349}
+{"sent": "one behind the one on the ground", "ann_id": 589781, "best_split": [3, 3], "split_score": 0.5214606021112799}
+{"sent": "last zebra standing", "ann_id": 589781, "best_split": [3, 3], "split_score": 0.5214606021112799}
+{"sent": "closest standing zebra", "ann_id": 589781, "best_split": [3, 3], "split_score": 0.5214606021112799}
+{"sent": "feet in the air", "ann_id": 588835, "best_split": [3, 1], "split_score": 0.444404864869757}
+{"sent": "on his back", "ann_id": 588835, "best_split": [3, 1], "split_score": 0.444404864869757}
+{"sent": "zebra on its back", "ann_id": 588835, "best_split": [3, 1], "split_score": 0.444404864869757}

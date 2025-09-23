@@ -1,0 +1,6 @@
+{"sent": "ill take the high guy", "ann_id": 477146, "best_split": [3, 2], "split_score": 0.31069229330932147}
+{"sent": "man", "ann_id": 477146, "best_split": [1, 5], "split_score": 0.46987951802806105}
+{"sent": "male skier", "ann_id": 477146, "best_split": [1, 5], "split_score": 0.46987951802806105}
+{"sent": "person on skis with long pants", "ann_id": 421894, "best_split": [2, 3], "split_score": 0.3088983050520235}
+{"sent": "woman", "ann_id": 421894, "best_split": [1, 5], "split_score": 0.36576753306858584}
+{"sent": "woman with backpack", "ann_id": 421894, "best_split": [1, 5], "split_score": 0.36576753306858584}

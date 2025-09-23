@@ -1,0 +1,9 @@
+{"sent": "tall", "ann_id": 1267307, "best_split": [3, 3], "split_score": 0.37839860309573475}
+{"sent": "tallest person", "ann_id": 1267307, "best_split": [3, 3], "split_score": 0.37839860309573475}
+{"sent": "man", "ann_id": 1267307, "best_split": [3, 3], "split_score": 0.37839860309573475}
+{"sent": "whte shirt boy", "ann_id": 1305420, "best_split": [2, 3], "split_score": 0.2842556667057121}
+{"sent": "boy white shirt full view", "ann_id": 1305420, "best_split": [2, 3], "split_score": 0.2842556667057121}
+{"sent": "white shirt black pants", "ann_id": 1305420, "best_split": [2, 3], "split_score": 0.2842556667057121}
+{"sent": "boy closest to man", "ann_id": 1289935, "best_split": [3, 3], "split_score": 0.3217768146909836}
+{"sent": "gray kid", "ann_id": 1289935, "best_split": [3, 2], "split_score": 0.2597194388517315}
+{"sent": "gray shirt young boy", "ann_id": 1289935, "best_split": [3, 3], "split_score": 0.3217768146909836}

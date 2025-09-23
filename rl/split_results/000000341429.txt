@@ -1,0 +1,9 @@
+{"sent": "pizza over edge plate", "ann_id": 1073756, "best_split": [2, 2], "split_score": 0.41905768646790564}
+{"sent": "pizza across from knife", "ann_id": 1073756, "best_split": [2, 2], "split_score": 0.41905768646790564}
+{"sent": "ri ght side of pizza", "ann_id": 1073756, "best_split": [2, 2], "split_score": 0.41905768646790564}
+{"sent": "pizza on plate", "ann_id": 1959656, "best_split": [2, 1], "split_score": 0.9244260203713159}
+{"sent": "pizza and stand", "ann_id": 1959656, "best_split": [2, 1], "split_score": 0.9244260203713159}
+{"sent": "any food", "ann_id": 1959656, "best_split": [2, 1], "split_score": 0.9244260203713159}
+{"sent": "table where the base of the tray is", "ann_id": 1959095, "best_split": [3, 1], "split_score": 0.5237640314948792}
+{"sent": "dark part below small plate with one slice on it", "ann_id": 1959095, "best_split": [3, 1], "split_score": 0.5237640314948792}
+{"sent": "dark area under pizza and plate", "ann_id": 1959095, "best_split": [3, 1], "split_score": 0.5237640314948792}

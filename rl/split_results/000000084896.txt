@@ -1,0 +1,5 @@
+{"sent": "bag that is closest to fence", "ann_id": 1185409, "best_split": [2, 1], "split_score": 0.2140066964200412}
+{"sent": "suitcase without handle", "ann_id": 1185409, "best_split": [3, 2], "split_score": 0.46991712404801234}
+{"sent": "bag at 8 pm", "ann_id": 1182943, "best_split": [1, 5], "split_score": 0.3986408088514304}
+{"sent": "the luggage that has a bag on it", "ann_id": 1182943, "best_split": [1, 5], "split_score": 0.3986408088514304}
+{"sent": "largest suitcase", "ann_id": 1182943, "best_split": [1, 5], "split_score": 0.3986408088514304}

@@ -1,0 +1,6 @@
+{"sent": "happy birthday cake", "ann_id": 1088892, "best_split": [1, 2], "split_score": 0.6072257689855185}
+{"sent": "happy birthday word", "ann_id": 1088892, "best_split": [1, 2], "split_score": 0.6072257689855185}
+{"sent": "manos", "ann_id": 1088892, "best_split": [1, 2], "split_score": 0.6072257689855185}
+{"sent": "dark brown with no writing pastry", "ann_id": 1085888, "best_split": [1, 2], "split_score": 0.5976562499761776}
+{"sent": "brown cake", "ann_id": 1085888, "best_split": [1, 2], "split_score": 0.5976562499761776}
+{"sent": "food with no writing in corner", "ann_id": 1085888, "best_split": [3, 1], "split_score": 0.31421197234559106}

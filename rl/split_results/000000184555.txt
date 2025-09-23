@@ -1,0 +1,6 @@
+{"sent": "pink pants", "ann_id": 498009, "best_split": [2, 1], "split_score": 0.12858496857764648}
+{"sent": "girl looking up", "ann_id": 498009, "best_split": [1, 2], "split_score": 0.22906950071759807}
+{"sent": "pink pants", "ann_id": 498009, "best_split": [2, 1], "split_score": 0.12858496857764648}
+{"sent": "girl brushing her teeth", "ann_id": 492156, "best_split": [1, 2], "split_score": 0.6570870535452372}
+{"sent": "girl brushing teeth", "ann_id": 492156, "best_split": [1, 2], "split_score": 0.6570870535452372}
+{"sent": "little girl", "ann_id": 492156, "best_split": [1, 2], "split_score": 0.6570870535452372}

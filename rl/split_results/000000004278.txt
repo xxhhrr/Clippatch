@@ -1,0 +1,3 @@
+{"sent": "leader", "ann_id": 582931, "best_split": [1, 2], "split_score": 0.3888594766151543}
+{"sent": "momma leading the way", "ann_id": 582931, "best_split": [3, 2], "split_score": 0.5104221935488197}
+{"sent": "leading elephant", "ann_id": 582931, "best_split": [3, 1], "split_score": 0.3701257708750485}

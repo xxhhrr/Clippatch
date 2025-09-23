@@ -1,0 +1,6 @@
+{"sent": "blue", "ann_id": 1158732, "best_split": [1, 2], "split_score": 0.5219326538342817}
+{"sent": "blue scissors", "ann_id": 1158732, "best_split": [1, 2], "split_score": 0.5219326538342817}
+{"sent": "blue scissors", "ann_id": 1158732, "best_split": [1, 2], "split_score": 0.5219326538342817}
+{"sent": "red scissors", "ann_id": 1158681, "best_split": [2, 1], "split_score": 0.6003264306691746}
+{"sent": "red", "ann_id": 1158681, "best_split": [2, 1], "split_score": 0.6003264306691746}
+{"sent": "red", "ann_id": 1158681, "best_split": [2, 1], "split_score": 0.6003264306691746}

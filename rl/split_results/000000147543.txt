@@ -1,0 +1,6 @@
+{"sent": "person wearing red shirt", "ann_id": 506944, "best_split": [1, 5], "split_score": 0.4120398772690153}
+{"sent": "red shirt", "ann_id": 506944, "best_split": [1, 2], "split_score": 0.34107940049660873}
+{"sent": "orange", "ann_id": 506944, "best_split": [1, 5], "split_score": 0.4120398772690153}
+{"sent": "tennis player", "ann_id": 500856, "best_split": [1, 3], "split_score": 0.6137043414930796}
+{"sent": "tennis player", "ann_id": 500856, "best_split": [1, 3], "split_score": 0.6137043414930796}
+{"sent": "player", "ann_id": 500856, "best_split": [1, 2], "split_score": 0.3691233514237665}

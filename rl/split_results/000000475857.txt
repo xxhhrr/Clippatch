@@ -1,0 +1,6 @@
+{"sent": "the egg", "ann_id": 1909902, "best_split": [3, 2], "split_score": 0.5156739811463189}
+{"sent": "eggy bread looking thing", "ann_id": 1909902, "best_split": [2, 2], "split_score": 0.4544111722536316}
+{"sent": "eggs near between strawberry and bread", "ann_id": 1909902, "best_split": [3, 2], "split_score": 0.5156739811463189}
+{"sent": "bread", "ann_id": 1553373, "best_split": [3, 1], "split_score": 0.5154798761324922}
+{"sent": "toast", "ann_id": 1553373, "best_split": [3, 1], "split_score": 0.5154798761324922}
+{"sent": "stacked bread", "ann_id": 1553373, "best_split": [3, 1], "split_score": 0.5154798761324922}

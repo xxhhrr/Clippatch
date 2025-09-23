@@ -1,0 +1,6 @@
+{"sent": "blue", "ann_id": 2164583, "best_split": [2, 3], "split_score": 0.4518581736013765}
+{"sent": "adult", "ann_id": 2164583, "best_split": [2, 3], "split_score": 0.4518581736013765}
+{"sent": "mother in blue", "ann_id": 2164583, "best_split": [2, 3], "split_score": 0.4518581736013765}
+{"sent": "little ine", "ann_id": 469297, "best_split": [1, 5], "split_score": 0.6057483293933058}
+{"sent": "kid", "ann_id": 469297, "best_split": [1, 5], "split_score": 0.6057483293933058}
+{"sent": "yellow vest", "ann_id": 469297, "best_split": [1, 2], "split_score": 0.4021444515145829}

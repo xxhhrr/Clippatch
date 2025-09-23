@@ -1,0 +1,6 @@
+{"sent": "green shirt jumping", "ann_id": 523505, "best_split": [2, 3], "split_score": 0.4655999999467886}
+{"sent": "green shirt", "ann_id": 523505, "best_split": [2, 3], "split_score": 0.4655999999467886}
+{"sent": "green shirt", "ann_id": 523505, "best_split": [2, 3], "split_score": 0.4655999999467886}
+{"sent": "throwing the disc", "ann_id": 482434, "best_split": [1, 2], "split_score": 0.6447748572812073}
+{"sent": "jumping", "ann_id": 482434, "best_split": [1, 2], "split_score": 0.6447748572812073}
+{"sent": "guy with frisbee", "ann_id": 482434, "best_split": [1, 2], "split_score": 0.6447748572812073}

@@ -1,0 +1,12 @@
+{"sent": "red tomatoes", "ann_id": 2217452, "best_split": [2, 2], "split_score": 0.2970344387518308}
+{"sent": "tomatoes", "ann_id": 2217452, "best_split": [2, 2], "split_score": 0.2970344387518308}
+{"sent": "tomatoes", "ann_id": 2217452, "best_split": [2, 2], "split_score": 0.2970344387518308}
+{"sent": "compartment with sour cream", "ann_id": 2217275, "best_split": [5, 1], "split_score": 0.3104240982710722}
+{"sent": "section with fish and white sauce", "ann_id": 2217275, "best_split": [5, 1], "split_score": 0.3104240982710722}
+{"sent": "white sauce", "ann_id": 2217275, "best_split": [5, 1], "split_score": 0.3104240982710722}
+{"sent": "rice that is next to carrots and next to the chicken", "ann_id": 2108772, "best_split": [2, 3], "split_score": 0.5249343831648624}
+{"sent": "brown rice", "ann_id": 2108772, "best_split": [2, 3], "split_score": 0.5249343831648624}
+{"sent": "rice", "ann_id": 2108772, "best_split": [2, 3], "split_score": 0.5249343831648624}
+{"sent": "carrots", "ann_id": 1038927, "best_split": [3, 2], "split_score": 0.4331595411435704}
+{"sent": "carrots", "ann_id": 1038927, "best_split": [3, 2], "split_score": 0.4331595411435704}
+{"sent": "carrots", "ann_id": 1038927, "best_split": [3, 2], "split_score": 0.4331595411435704}

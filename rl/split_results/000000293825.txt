@@ -1,0 +1,6 @@
+{"sent": "3h86", "ann_id": 137475, "best_split": [1, 2], "split_score": 0.4690389021921922}
+{"sent": "taxi closest with bright white numbers", "ann_id": 137475, "best_split": [2, 1], "split_score": 0.623631811812307}
+{"sent": "3h86 cab", "ann_id": 137475, "best_split": [1, 2], "split_score": 0.4690389021921922}
+{"sent": "car with 4m5z on plate", "ann_id": 133762, "best_split": [1, 5], "split_score": 0.2615933412409636}
+{"sent": "taxi 4m52", "ann_id": 133762, "best_split": [3, 3], "split_score": 0.41147467498750845}
+{"sent": "cab with off light not 3h or 5l", "ann_id": 133762, "best_split": [3, 3], "split_score": 0.41147467498750845}

@@ -1,0 +1,17 @@
+{"sent": "plain donut under wraper", "ann_id": 2189411, "best_split": [1, 5], "split_score": 0.18129218899085717}
+{"sent": "item wrapped in paper but not the paper", "ann_id": 2189411, "best_split": [3, 3], "split_score": 0.4714447499641733}
+{"sent": "donut with brown sugar topping", "ann_id": 2189411, "best_split": [1, 5], "split_score": 0.18129218899085717}
+{"sent": "spiral glazed brown doughnut under cinnamon one under paper", "ann_id": 2189407, "best_split": [2, 2], "split_score": 0.6015624999520438}
+{"sent": "cinnamon roll", "ann_id": 2189407, "best_split": [2, 2], "split_score": 0.6015624999520438}
+{"sent": "circle dounut many circles brown", "ann_id": 2189407, "best_split": [2, 2], "split_score": 0.6015624999520438}
+{"sent": "longest donut", "ann_id": 2189366, "best_split": [1, 3], "split_score": 0.3349984389503981}
+{"sent": "eclair", "ann_id": 2189366, "best_split": [1, 3], "split_score": 0.3349984389503981}
+{"sent": "long", "ann_id": 2189366, "best_split": [3, 1], "split_score": 0.48989547036193837}
+{"sent": "donut standing on edge in corner of box", "ann_id": 2189331, "best_split": [5, 1], "split_score": 0.10949729685229587}
+{"sent": "donut side at 3pm", "ann_id": 2189331, "best_split": [5, 1], "split_score": 0.10949729685229587}
+{"sent": "doughnut at 12", "ann_id": 1080239, "best_split": [1, 3], "split_score": 0.11597374178745203}
+{"sent": "plain behind stick", "ann_id": 1080239, "best_split": [2, 3], "split_score": 0.22746781113241296}
+{"sent": "plain donut behind long donut touching back of box", "ann_id": 1080239, "best_split": [1, 3], "split_score": 0.11597374178745203}
+{"sent": "round glazed donut", "ann_id": 1078262, "best_split": [2, 3], "split_score": 0.36213431816871083}
+{"sent": "glazed donut at 5 to 6 o clock", "ann_id": 1078262, "best_split": [2, 3], "split_score": 0.36213431816871083}
+{"sent": "nearest round donut with hole", "ann_id": 1078262, "best_split": [2, 3], "split_score": 0.36213431816871083}

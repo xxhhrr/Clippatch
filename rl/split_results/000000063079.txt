@@ -1,0 +1,5 @@
+{"sent": "smaller meter", "ann_id": 419430, "best_split": [2, 3], "split_score": 0.4345062428564692}
+{"sent": "the meter that has more black", "ann_id": 419430, "best_split": [2, 3], "split_score": 0.4345062428564692}
+{"sent": "closest box", "ann_id": 419156, "best_split": [2, 2], "split_score": 0.48142538261468226}
+{"sent": "meter closest to camera", "ann_id": 419156, "best_split": [2, 2], "split_score": 0.48142538261468226}
+{"sent": "closest meter", "ann_id": 419156, "best_split": [2, 2], "split_score": 0.48142538261468226}

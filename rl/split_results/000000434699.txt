@@ -1,0 +1,12 @@
+{"sent": "darkest beverage", "ann_id": 1876229, "best_split": [3, 3], "split_score": 0.7310189104246374}
+{"sent": "glass with dark liquid", "ann_id": 1876229, "best_split": [3, 3], "split_score": 0.7310189104246374}
+{"sent": "mug with black coffee", "ann_id": 1876229, "best_split": [1, 3], "split_score": 0.4096283783536662}
+{"sent": "goblet with brown milk stuff", "ann_id": 1497197, "best_split": [2, 3], "split_score": 0.3293918918521486}
+{"sent": "baileys and chocolate drink tall glass two shades of brown", "ann_id": 1497197, "best_split": [3, 3], "split_score": 0.3117007672136028}
+{"sent": "glass with light brown liquid", "ann_id": 1497197, "best_split": [2, 3], "split_score": 0.3293918918521486}
+{"sent": "glass with brown liwuid", "ann_id": 680231, "best_split": [3, 3], "split_score": 0.295755045181671}
+{"sent": "brown drink next to white cloth", "ann_id": 680231, "best_split": [3, 2], "split_score": 0.19859813081792077}
+{"sent": "glass with light brown liquid", "ann_id": 680231, "best_split": [3, 3], "split_score": 0.295755045181671}
+{"sent": "grape juice", "ann_id": 672805, "best_split": [3, 1], "split_score": 0.2763620386491453}
+{"sent": "mug with purplish liquid", "ann_id": 672805, "best_split": [3, 3], "split_score": 0.7079347213410333}
+{"sent": "glass or red wine", "ann_id": 672805, "best_split": [2, 3], "split_score": 0.3335711737126676}

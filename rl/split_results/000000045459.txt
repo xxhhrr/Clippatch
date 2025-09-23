@@ -1,0 +1,9 @@
+{"sent": "heart on head", "ann_id": 76087, "best_split": [3, 2], "split_score": 0.19111392632421373}
+{"sent": "cow facing camera", "ann_id": 76087, "best_split": [2, 2], "split_score": 0.21141943110011688}
+{"sent": "facing camera", "ann_id": 76087, "best_split": [1, 2], "split_score": 0.1540654007566897}
+{"sent": "cow with spot on neck", "ann_id": 75562, "best_split": [2, 1], "split_score": 0.2278579644455546}
+{"sent": "number 1 cow face", "ann_id": 75562, "best_split": [2, 1], "split_score": 0.2278579644455546}
+{"sent": "cow without tag in ear", "ann_id": 73307, "best_split": [2, 2], "split_score": 0.39807692304958264}
+{"sent": "cow head no ear tag", "ann_id": 73307, "best_split": [2, 2], "split_score": 0.39807692304958264}
+{"sent": "cow that doesnt look like it has an ear tag next to one that looks like heart on head", "ann_id": 73307, "best_split": [2, 2], "split_score": 0.39807692304958264}
+{"sent": "cow number 2 in line", "ann_id": 73072, "best_split": [3, 1], "split_score": 0.2458402901579918}

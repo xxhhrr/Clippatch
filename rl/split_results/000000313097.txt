@@ -1,0 +1,14 @@
+{"sent": "boy looking down", "ann_id": 1302851, "best_split": [2, 3], "split_score": 0.36655948549371387}
+{"sent": "boy with head down", "ann_id": 1302851, "best_split": [3, 3], "split_score": 0.5818181817328713}
+{"sent": "big head boy looking down at 300", "ann_id": 1302851, "best_split": [3, 3], "split_score": 0.5818181817328713}
+{"sent": "woman red necklace", "ann_id": 1272545, "best_split": [2, 3], "split_score": 0.47562690409238023}
+{"sent": "the woman wearing the red necklace", "ann_id": 1272545, "best_split": [2, 3], "split_score": 0.47562690409238023}
+{"sent": "llady with red ncklace", "ann_id": 1272545, "best_split": [2, 3], "split_score": 0.47562690409238023}
+{"sent": "closest head with glasses", "ann_id": 1261696, "best_split": [5, 1], "split_score": 0.1975733256713888}
+{"sent": "man in foreground with sunglasses", "ann_id": 1261696, "best_split": [3, 2], "split_score": 0.3157768445931881}
+{"sent": "girl raised hand", "ann_id": 1755704, "best_split": [3, 2], "split_score": 0.19758378797763212}
+{"sent": "woman at 7 holding flag", "ann_id": 1755704, "best_split": [1, 3], "split_score": 0.1031894934278644}
+{"sent": "naked arm beiing held high by woman with dark hair", "ann_id": 1755704, "best_split": [2, 2], "split_score": 0.3029921259603943}
+{"sent": "person wearing i love ny shirt", "ann_id": 1715171, "best_split": [1, 5], "split_score": 0.6044034090295857}
+{"sent": "i heart new york t shirt", "ann_id": 1715171, "best_split": [1, 5], "split_score": 0.6044034090295857}
+{"sent": "i heart ny shirt", "ann_id": 1715171, "best_split": [1, 5], "split_score": 0.6044034090295857}

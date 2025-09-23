@@ -1,0 +1,5 @@
+{"sent": "pizza", "ann_id": 413414, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "pizza", "ann_id": 413414, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "tabletop", "ann_id": 412823, "best_split": [3, 1], "split_score": 0.7466216215765793}
+{"sent": "table area behind pizza", "ann_id": 412823, "best_split": [3, 1], "split_score": 0.7466216215765793}
+{"sent": "table with split", "ann_id": 412823, "best_split": [5, 1], "split_score": 0.7774224495700813}

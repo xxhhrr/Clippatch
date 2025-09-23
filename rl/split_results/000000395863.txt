@@ -1,0 +1,8 @@
+{"sent": "portion of table with nothing on it closest to us", "ann_id": 413928, "best_split": [2, 1], "split_score": 0.7660639777202342}
+{"sent": "table area near us", "ann_id": 413928, "best_split": [2, 1], "split_score": 0.7660639777202342}
+{"sent": "wooden table under food", "ann_id": 413928, "best_split": [2, 1], "split_score": 0.7660639777202342}
+{"sent": "all the food on the table", "ann_id": 1965891, "best_split": [2, 1], "split_score": 0.662230380889679}
+{"sent": "chopsticks near bowl with spoon", "ann_id": 1965891, "best_split": [2, 1], "split_score": 0.662230380889679}
+{"sent": "boy green", "ann_id": 1268772, "best_split": [2, 2], "split_score": 0.26395089283610085}
+{"sent": "greend shirt", "ann_id": 1268772, "best_split": [5, 1], "split_score": 0.16780487803389757}
+{"sent": "boy", "ann_id": 1268772, "best_split": [1, 5], "split_score": 0.33593749996591543}

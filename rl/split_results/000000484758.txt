@@ -1,0 +1,9 @@
+{"sent": "donut with froot loops", "ann_id": 1081845, "best_split": [2, 3], "split_score": 0.4048021235032816}
+{"sent": "frootloops", "ann_id": 1081845, "best_split": [2, 3], "split_score": 0.4048021235032816}
+{"sent": "cherios", "ann_id": 1081845, "best_split": [2, 3], "split_score": 0.4048021235032816}
+{"sent": "donut with pink icing", "ann_id": 1080753, "best_split": [1, 5], "split_score": 0.24705424089521333}
+{"sent": "pink donut", "ann_id": 1080753, "best_split": [1, 5], "split_score": 0.24705424089521333}
+{"sent": "pink donut", "ann_id": 1080753, "best_split": [1, 5], "split_score": 0.24705424089521333}
+{"sent": "yellow", "ann_id": 1079943, "best_split": [3, 3], "split_score": 0.3072342958756722}
+{"sent": "the yellow glazed one", "ann_id": 1079943, "best_split": [3, 3], "split_score": 0.3072342958756722}
+{"sent": "yellow donut", "ann_id": 1079943, "best_split": [3, 3], "split_score": 0.3072342958756722}

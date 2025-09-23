@@ -1,0 +1,5 @@
+{"sent": "hot do no ketchup", "ann_id": 1567450, "best_split": [1, 2], "split_score": 0.5236608672279415}
+{"sent": "dog smothered in onions", "ann_id": 1567450, "best_split": [1, 2], "split_score": 0.5236608672279415}
+{"sent": "half eaten frankfurter", "ann_id": 1070023, "best_split": [3, 1], "split_score": 0.4121287128530707}
+{"sent": "had a bite", "ann_id": 1070023, "best_split": [3, 1], "split_score": 0.4121287128530707}
+{"sent": "hot dog with a bite out of it", "ann_id": 1070023, "best_split": [3, 1], "split_score": 0.4121287128530707}

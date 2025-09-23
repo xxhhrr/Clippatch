@@ -1,0 +1,5 @@
+{"sent": "pizza round blurry farthest", "ann_id": 1077791, "best_split": [3, 2], "split_score": 0.4387065636536309}
+{"sent": "furthest pizza", "ann_id": 1077791, "best_split": [3, 2], "split_score": 0.4387065636536309}
+{"sent": "slice of blurry pizza", "ann_id": 1073585, "best_split": [1, 2], "split_score": 0.37810905610737766}
+{"sent": "food on closest plate", "ann_id": 1073585, "best_split": [3, 3], "split_score": 0.5067472305632681}
+{"sent": "the slice of pizza", "ann_id": 1073585, "best_split": [1, 2], "split_score": 0.37810905610737766}

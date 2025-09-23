@@ -1,0 +1,6 @@
+{"sent": "sandwich number 2", "ann_id": 311340, "best_split": [2, 2], "split_score": 0.41863699580674363}
+{"sent": "the sandwich half closest to score", "ann_id": 311340, "best_split": [2, 2], "split_score": 0.41863699580674363}
+{"sent": "sandwich half closet to pickels", "ann_id": 311340, "best_split": [2, 2], "split_score": 0.41863699580674363}
+{"sent": "sandwich furthest away from the water glass", "ann_id": 309661, "best_split": [1, 2], "split_score": 0.5027469528650993}
+{"sent": "half on left", "ann_id": 309661, "best_split": [2, 2], "split_score": 0.45666818616944393}
+{"sent": "one not by pickle", "ann_id": 309661, "best_split": [2, 2], "split_score": 0.45666818616944393}

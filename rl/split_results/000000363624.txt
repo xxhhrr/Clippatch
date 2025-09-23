@@ -1,0 +1,6 @@
+{"sent": "man jumping", "ann_id": 476766, "best_split": [1, 2], "split_score": 0.5083179297401295}
+{"sent": "guy jumping", "ann_id": 476766, "best_split": [1, 2], "split_score": 0.5083179297401295}
+{"sent": "man jumping", "ann_id": 476766, "best_split": [1, 2], "split_score": 0.5083179297401295}
+{"sent": "person not jumping", "ann_id": 440861, "best_split": [2, 1], "split_score": 0.34076052294560105}
+{"sent": "man on the ground", "ann_id": 440861, "best_split": [3, 2], "split_score": 0.5154815481084175}
+{"sent": "guy on the grass", "ann_id": 440861, "best_split": [2, 1], "split_score": 0.34076052294560105}

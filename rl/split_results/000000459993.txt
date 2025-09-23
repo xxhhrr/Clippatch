@@ -1,0 +1,9 @@
+{"sent": "shirt of person holding baby", "ann_id": 1254994, "best_split": [2, 1], "split_score": 0.2896359657765314}
+{"sent": "person holding the baby", "ann_id": 1254994, "best_split": [2, 1], "split_score": 0.2896359657765314}
+{"sent": "man holding baby", "ann_id": 1254994, "best_split": [2, 1], "split_score": 0.2896359657765314}
+{"sent": "sleeper", "ann_id": 459774, "best_split": [1, 2], "split_score": 0.5588690937122659}
+{"sent": "baby", "ann_id": 459774, "best_split": [1, 2], "split_score": 0.5588690937122659}
+{"sent": "baby", "ann_id": 459774, "best_split": [1, 2], "split_score": 0.5588690937122659}
+{"sent": "black tie on baby", "ann_id": 295028, "best_split": [3, 3], "split_score": 0.5526118843657218}
+{"sent": "tie", "ann_id": 295028, "best_split": [3, 3], "split_score": 0.5526118843657218}
+{"sent": "tie", "ann_id": 295028, "best_split": [3, 3], "split_score": 0.5526118843657218}

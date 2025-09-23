@@ -1,0 +1,6 @@
+{"sent": "man closest to us", "ann_id": 1258410, "best_split": [2, 2], "split_score": 0.4286183346185567}
+{"sent": "green jacket guy close to us", "ann_id": 1258410, "best_split": [1, 5], "split_score": 0.4808170238831301}
+{"sent": "man in jeans and green jacket", "ann_id": 1258410, "best_split": [1, 5], "split_score": 0.4808170238831301}
+{"sent": "red jacket", "ann_id": 1258533, "best_split": [2, 1], "split_score": 0.6408526713221515}
+{"sent": "white shirt", "ann_id": 1258533, "best_split": [2, 1], "split_score": 0.6408526713221515}
+{"sent": "person in red jacket", "ann_id": 1258533, "best_split": [2, 1], "split_score": 0.6408526713221515}

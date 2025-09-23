@@ -1,0 +1,6 @@
+{"sent": "couch at 3 olcok", "ann_id": 112549, "best_split": [2, 1], "split_score": 0.18945312499244846}
+{"sent": "sofa under wreath", "ann_id": 112549, "best_split": [1, 5], "split_score": 0.4127260419289502}
+{"sent": "smaller couch", "ann_id": 112549, "best_split": [2, 1], "split_score": 0.18945312499244846}
+{"sent": "couch under mirror", "ann_id": 98555, "best_split": [2, 2], "split_score": 0.603751465374543}
+{"sent": "brown couch", "ann_id": 98555, "best_split": [2, 2], "split_score": 0.603751465374543}
+{"sent": "big sofa close to mirror", "ann_id": 98555, "best_split": [2, 2], "split_score": 0.603751465374543}

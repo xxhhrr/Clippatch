@@ -1,0 +1,9 @@
+{"sent": "bear with gray jacket", "ann_id": 1163224, "best_split": [3, 2], "split_score": 0.3957219251050931}
+{"sent": "bear in gray jacket", "ann_id": 1163224, "best_split": [3, 2], "split_score": 0.3957219251050931}
+{"sent": "white bear gray jacket", "ann_id": 1163224, "best_split": [1, 2], "split_score": 0.4394929846763595}
+{"sent": "standing teddy without jacket", "ann_id": 1163049, "best_split": [1, 2], "split_score": 0.1833944515233022}
+{"sent": "farthest one on stage", "ann_id": 1163049, "best_split": [3, 3], "split_score": 0.2705837851127747}
+{"sent": "bear on stage white shirt no jacket", "ann_id": 1163049, "best_split": [1, 2], "split_score": 0.1833944515233022}
+{"sent": "sunglasses", "ann_id": 1162994, "best_split": [1, 5], "split_score": 0.47143126527706664}
+{"sent": "bear with sunglasses", "ann_id": 1162994, "best_split": [1, 5], "split_score": 0.47143126527706664}
+{"sent": "teddy in sunglasses", "ann_id": 1162994, "best_split": [1, 5], "split_score": 0.47143126527706664}

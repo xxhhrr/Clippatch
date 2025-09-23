@@ -1,0 +1,12 @@
+{"sent": "seat guy on", "ann_id": 1951811, "best_split": [2, 2], "split_score": 0.668287627497745}
+{"sent": "boys chair", "ann_id": 1951811, "best_split": [3, 2], "split_score": 0.77369932963361}
+{"sent": "seat for man", "ann_id": 1951811, "best_split": [3, 2], "split_score": 0.77369932963361}
+{"sent": "seat behind woman", "ann_id": 1950898, "best_split": [1, 2], "split_score": 0.5797193877319946}
+{"sent": "banch that lady is sitting on", "ann_id": 1950898, "best_split": [1, 2], "split_score": 0.5797193877319946}
+{"sent": "brick wall behind red shirt", "ann_id": 1950898, "best_split": [2, 1], "split_score": 0.32837271659700445}
+{"sent": "man", "ann_id": 189905, "best_split": [1, 2], "split_score": 0.47305484691991967}
+{"sent": "guy", "ann_id": 189905, "best_split": [1, 2], "split_score": 0.47305484691991967}
+{"sent": "not girl", "ann_id": 189905, "best_split": [2, 1], "split_score": 0.05239776739798389}
+{"sent": "red", "ann_id": 184910, "best_split": [3, 3], "split_score": 0.3726388093341959}
+{"sent": "red", "ann_id": 184910, "best_split": [3, 3], "split_score": 0.3726388093341959}
+{"sent": "red shirt", "ann_id": 184910, "best_split": [3, 3], "split_score": 0.3726388093341959}

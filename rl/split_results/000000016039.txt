@@ -1,0 +1,5 @@
+{"sent": "car window in rearview mirror", "ann_id": 1774928, "best_split": [2, 3], "split_score": 0.41288610033628304}
+{"sent": "car reflected in mirror", "ann_id": 1774928, "best_split": [2, 3], "split_score": 0.41288610033628304}
+{"sent": "red car cef 163", "ann_id": 347986, "best_split": [3, 3], "split_score": 0.3813002190684258}
+{"sent": "back of car", "ann_id": 347986, "best_split": [3, 3], "split_score": 0.3813002190684258}
+{"sent": "red car", "ann_id": 347986, "best_split": [3, 3], "split_score": 0.3813002190684258}

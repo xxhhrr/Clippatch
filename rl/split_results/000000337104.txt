@@ -1,0 +1,6 @@
+{"sent": "horse near green shirt person", "ann_id": 58157, "best_split": [1, 5], "split_score": 0.3232401907970752}
+{"sent": "the browner horse", "ann_id": 58157, "best_split": [1, 5], "split_score": 0.3232401907970752}
+{"sent": "horse against green shirt girl", "ann_id": 58157, "best_split": [1, 5], "split_score": 0.3232401907970752}
+{"sent": "horse not closest to kids", "ann_id": 55717, "best_split": [2, 3], "split_score": 0.3652058432530759}
+{"sent": "horse with head raised up", "ann_id": 55717, "best_split": [2, 3], "split_score": 0.3652058432530759}
+{"sent": "darker black horse", "ann_id": 55717, "best_split": [2, 3], "split_score": 0.3652058432530759}

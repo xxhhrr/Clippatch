@@ -1,0 +1,6 @@
+{"sent": "flowers in box", "ann_id": 26687, "best_split": [3, 2], "split_score": 0.552449150563537}
+{"sent": "box", "ann_id": 26687, "best_split": [3, 2], "split_score": 0.552449150563537}
+{"sent": "flowers in box", "ann_id": 26687, "best_split": [3, 2], "split_score": 0.552449150563537}
+{"sent": "potted plant not in box", "ann_id": 23804, "best_split": [1, 2], "split_score": 0.6175330847182301}
+{"sent": "tall flowers", "ann_id": 23804, "best_split": [1, 2], "split_score": 0.6175330847182301}
+{"sent": "pink and yellow flowers", "ann_id": 23804, "best_split": [1, 2], "split_score": 0.6175330847182301}

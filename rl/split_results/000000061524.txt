@@ -1,0 +1,6 @@
+{"sent": "silver car", "ann_id": 355318, "best_split": [3, 3], "split_score": 0.554935472522683}
+{"sent": "white car", "ann_id": 355318, "best_split": [3, 3], "split_score": 0.554935472522683}
+{"sent": "car parked away from photo", "ann_id": 355318, "best_split": [3, 3], "split_score": 0.554935472522683}
+{"sent": "car nearest to camera", "ann_id": 351732, "best_split": [2, 3], "split_score": 0.4443432733389092}
+{"sent": "closest car", "ann_id": 351732, "best_split": [2, 3], "split_score": 0.4443432733389092}
+{"sent": "white car closest to wood thing", "ann_id": 351732, "best_split": [2, 3], "split_score": 0.4443432733389092}

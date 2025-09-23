@@ -1,0 +1,5 @@
+{"sent": "hair near horses head", "ann_id": 230678, "best_split": [3, 2], "split_score": 0.4285029365421907}
+{"sent": "back of dark haired head", "ann_id": 230678, "best_split": [3, 3], "split_score": 0.6463568973700312}
+{"sent": "rider", "ann_id": 208924, "best_split": [1, 2], "split_score": 0.784000318846301}
+{"sent": "jocky", "ann_id": 208924, "best_split": [1, 2], "split_score": 0.784000318846301}
+{"sent": "rider", "ann_id": 208924, "best_split": [1, 2], "split_score": 0.784000318846301}

@@ -1,0 +1,6 @@
+{"sent": "the engine portion of the plane that is out of frame", "ann_id": 1363637, "best_split": [3, 1], "split_score": 0.12808349145350548}
+{"sent": "plane thats half off screen", "ann_id": 1363637, "best_split": [3, 2], "split_score": 0.25186567161242235}
+{"sent": "jet next to main jet", "ann_id": 1363637, "best_split": [3, 3], "split_score": 0.3747397639877273}
+{"sent": "main aircraft in photo", "ann_id": 157742, "best_split": [3, 1], "split_score": 0.4906941526798547}
+{"sent": "jet in full view", "ann_id": 157742, "best_split": [3, 1], "split_score": 0.4906941526798547}
+{"sent": "main plane", "ann_id": 157742, "best_split": [3, 1], "split_score": 0.4906941526798547}

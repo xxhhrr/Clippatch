@@ -1,0 +1,6 @@
+{"sent": "book next the the purple book", "ann_id": 1652059, "best_split": [3, 2], "split_score": 0.16893374285114812}
+{"sent": "neverwhere book", "ann_id": 1652059, "best_split": [3, 3], "split_score": 0.39971448957892314}
+{"sent": "book with never on it", "ann_id": 1652059, "best_split": [3, 3], "split_score": 0.39971448957892314}
+{"sent": "purple", "ann_id": 1650948, "best_split": [1, 5], "split_score": 0.35308441554859127}
+{"sent": "purple bible", "ann_id": 1650948, "best_split": [1, 5], "split_score": 0.35308441554859127}
+{"sent": "bible", "ann_id": 1650948, "best_split": [1, 5], "split_score": 0.35308441554859127}

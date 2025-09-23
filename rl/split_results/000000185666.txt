@@ -1,0 +1,9 @@
+{"sent": "back motorcycle", "ann_id": 151851, "best_split": [3, 2], "split_score": 0.31896551720422117}
+{"sent": "policeman on bike furthest from you", "ann_id": 151851, "best_split": [3, 2], "split_score": 0.31896551720422117}
+{"sent": "slowest biker", "ann_id": 151851, "best_split": [3, 2], "split_score": 0.31896551720422117}
+{"sent": "bike obscuring the other bike", "ann_id": 148599, "best_split": [3, 3], "split_score": 0.5996088291981546}
+{"sent": "bike closer to edge", "ann_id": 148599, "best_split": [3, 3], "split_score": 0.5996088291981546}
+{"sent": "bike where man has black on helmet", "ann_id": 148599, "best_split": [3, 3], "split_score": 0.5996088291981546}
+{"sent": "closest motorcycle", "ann_id": 148309, "best_split": [2, 2], "split_score": 0.41987981970331245}
+{"sent": "leading bike", "ann_id": 148309, "best_split": [2, 2], "split_score": 0.41987981970331245}
+{"sent": "motorcycle leading the others", "ann_id": 148309, "best_split": [2, 2], "split_score": 0.41987981970331245}

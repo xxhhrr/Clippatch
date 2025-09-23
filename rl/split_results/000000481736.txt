@@ -1,0 +1,9 @@
+{"sent": "girl in jeans", "ann_id": 1742646, "best_split": [1, 5], "split_score": 0.36799918827435074}
+{"sent": "lady with black shirt blue jeans", "ann_id": 1742646, "best_split": [5, 1], "split_score": 0.11255054046434933}
+{"sent": "lady in black with blue jeans", "ann_id": 1742646, "best_split": [5, 1], "split_score": 0.11255054046434933}
+{"sent": "woman in purple shirt", "ann_id": 187210, "best_split": [1, 5], "split_score": 0.36280428428794503}
+{"sent": "purple shirt walking out of frame", "ann_id": 187210, "best_split": [1, 5], "split_score": 0.36280428428794503}
+{"sent": "woman dressed up in purple dress", "ann_id": 187210, "best_split": [1, 5], "split_score": 0.36280428428794503}
+{"sent": "guy hholding bord", "ann_id": 183105, "best_split": [1, 3], "split_score": 0.49697900663097905}
+{"sent": "surfer dude", "ann_id": 183105, "best_split": [1, 3], "split_score": 0.49697900663097905}
+{"sent": "guy holding board", "ann_id": 183105, "best_split": [1, 3], "split_score": 0.49697900663097905}

@@ -1,0 +1,11 @@
+{"sent": "clostest car to us", "ann_id": 1338900, "best_split": [3, 2], "split_score": 0.7065637064784551}
+{"sent": "car with cloudy back window", "ann_id": 1338900, "best_split": [3, 2], "split_score": 0.7065637064784551}
+{"sent": "car", "ann_id": 1338900, "best_split": [3, 2], "split_score": 0.7065637064784551}
+{"sent": "steering wheel", "ann_id": 1192162, "best_split": [3, 3], "split_score": 0.46508379880148676}
+{"sent": "small portion of dashboard", "ann_id": 1192162, "best_split": [3, 3], "split_score": 0.46508379880148676}
+{"sent": "giraffe with head behind another", "ann_id": 596331, "best_split": [1, 3], "split_score": 0.3982529739441266}
+{"sent": "not the main giraffe", "ann_id": 596331, "best_split": [1, 3], "split_score": 0.3982529739441266}
+{"sent": "giraffe looking directly forward", "ann_id": 596331, "best_split": [1, 3], "split_score": 0.3982529739441266}
+{"sent": "closest giraffe", "ann_id": 596091, "best_split": [1, 5], "split_score": 0.44190074550478947}
+{"sent": "the closest giraffe", "ann_id": 596091, "best_split": [1, 5], "split_score": 0.44190074550478947}
+{"sent": "closest giraffe", "ann_id": 596091, "best_split": [1, 5], "split_score": 0.44190074550478947}

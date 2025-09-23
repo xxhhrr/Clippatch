@@ -1,0 +1,6 @@
+{"sent": "boy", "ann_id": 450411, "best_split": [1, 3], "split_score": 0.5522388059423033}
+{"sent": "little boy", "ann_id": 450411, "best_split": [1, 3], "split_score": 0.5522388059423033}
+{"sent": "child", "ann_id": 450411, "best_split": [1, 3], "split_score": 0.5522388059423033}
+{"sent": "man in orange", "ann_id": 2158182, "best_split": [1, 3], "split_score": 0.9007506254676069}
+{"sent": "asian man", "ann_id": 2158182, "best_split": [1, 3], "split_score": 0.9007506254676069}
+{"sent": "the man", "ann_id": 2158182, "best_split": [1, 2], "split_score": 0.6110491071185009}

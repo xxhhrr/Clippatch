@@ -1,0 +1,9 @@
+{"sent": "cow under white sign", "ann_id": 2177350, "best_split": [1, 2], "split_score": 0.43227531680687226}
+{"sent": "cow with visible head", "ann_id": 2177350, "best_split": [1, 2], "split_score": 0.43227531680687226}
+{"sent": "closest cow", "ann_id": 2177350, "best_split": [1, 2], "split_score": 0.43227531680687226}
+{"sent": "cow farthest away", "ann_id": 278650, "best_split": [3, 2], "split_score": 0.23397976388764968}
+{"sent": "most skinny butt", "ann_id": 278650, "best_split": [3, 1], "split_score": 0.12488748874184927}
+{"sent": "least seen butt", "ann_id": 278650, "best_split": [2, 1], "split_score": 0.07707420280802954}
+{"sent": "cow in between others", "ann_id": 278202, "best_split": [3, 2], "split_score": 0.40659340655351317}
+{"sent": "cow standing between two others", "ann_id": 278202, "best_split": [3, 2], "split_score": 0.40659340655351317}
+{"sent": "m iddle cow", "ann_id": 278202, "best_split": [3, 2], "split_score": 0.40659340655351317}

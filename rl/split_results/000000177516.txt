@@ -1,0 +1,6 @@
+{"sent": "smaller meatball", "ann_id": 1058478, "best_split": [1, 5], "split_score": 0.23666720698357374}
+{"sent": "less visible broccli", "ann_id": 1058478, "best_split": [2, 2], "split_score": 0.32286598847686376}
+{"sent": "upper part of broccoli floret", "ann_id": 1058478, "best_split": [2, 2], "split_score": 0.32286598847686376}
+{"sent": "closest green", "ann_id": 1056080, "best_split": [3, 3], "split_score": 0.6528256632209825}
+{"sent": "green bit closest", "ann_id": 1056080, "best_split": [3, 3], "split_score": 0.6528256632209825}
+{"sent": "largest green patch of food", "ann_id": 1056080, "best_split": [3, 3], "split_score": 0.6528256632209825}

@@ -1,0 +1,6 @@
+{"sent": "woman in red shirt blue skirt", "ann_id": 465301, "best_split": [1, 5], "split_score": 0.31941031938653786}
+{"sent": "red shirt", "ann_id": 465301, "best_split": [1, 5], "split_score": 0.31941031938653786}
+{"sent": "red shirt", "ann_id": 465301, "best_split": [1, 5], "split_score": 0.31941031938653786}
+{"sent": "woman in blue shirt", "ann_id": 447947, "best_split": [3, 1], "split_score": 0.25517241378121286}
+{"sent": "blue", "ann_id": 447947, "best_split": [1, 5], "split_score": 0.43824701192101256}
+{"sent": "woman in blue shirt", "ann_id": 447947, "best_split": [3, 1], "split_score": 0.25517241378121286}

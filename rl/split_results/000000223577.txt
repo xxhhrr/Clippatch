@@ -1,0 +1,10 @@
+{"sent": "has the lowest head", "ann_id": 1413600, "best_split": [5, 1], "split_score": 0.14416775883806934}
+{"sent": "giraffe bending head down", "ann_id": 1413600, "best_split": [3, 1], "split_score": 0.18621888725355878}
+{"sent": "giraffe with head that is lowest", "ann_id": 1413600, "best_split": [3, 1], "split_score": 0.18621888725355878}
+{"sent": "zebra closest to v shaped tree", "ann_id": 601382, "best_split": [1, 2], "split_score": 0.23927774233740123}
+{"sent": "facing us but the bigger one", "ann_id": 601382, "best_split": [2, 1], "split_score": 0.11665409617797456}
+{"sent": "number 3 giraffe", "ann_id": 601382, "best_split": [2, 1], "split_score": 0.11665409617797456}
+{"sent": "giraffe number 2 from westernmost", "ann_id": 600763, "best_split": [1, 5], "split_score": 0.5301047119923238}
+{"sent": "giraffe facing camera with darker spots", "ann_id": 600763, "best_split": [1, 5], "split_score": 0.5301047119923238}
+{"sent": "2 nd giraffe", "ann_id": 600763, "best_split": [1, 5], "split_score": 0.5301047119923238}
+{"sent": "1 2 3 4 5", "ann_id": 600091, "best_split": [1, 3], "split_score": 0.6932915057496808}

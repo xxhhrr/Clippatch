@@ -1,0 +1,6 @@
+{"sent": "guy sitting on floor", "ann_id": 229482, "best_split": [2, 3], "split_score": 0.27950310556453206}
+{"sent": "guy with glasses", "ann_id": 229482, "best_split": [1, 3], "split_score": 0.2520215633281659}
+{"sent": "guy on floor", "ann_id": 229482, "best_split": [2, 3], "split_score": 0.27950310556453206}
+{"sent": "woman", "ann_id": 188357, "best_split": [1, 2], "split_score": 0.4272397721249599}
+{"sent": "girl", "ann_id": 188357, "best_split": [1, 2], "split_score": 0.4272397721249599}
+{"sent": "lady in green shirt", "ann_id": 188357, "best_split": [1, 2], "split_score": 0.4272397721249599}

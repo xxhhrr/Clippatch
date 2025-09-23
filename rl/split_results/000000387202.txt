@@ -1,0 +1,6 @@
+{"sent": "hotdog not next to fish crackers", "ann_id": 1567916, "best_split": [2, 1], "split_score": 0.6391900509949302}
+{"sent": "hot dog farther from goldfish", "ann_id": 1567916, "best_split": [2, 1], "split_score": 0.6391900509949302}
+{"sent": "hotdog partially cut off", "ann_id": 1567916, "best_split": [2, 1], "split_score": 0.6391900509949302}
+{"sent": "hotdog near gold fish", "ann_id": 1068397, "best_split": [3, 1], "split_score": 0.6893631436022458}
+{"sent": "closest hotdog", "ann_id": 1068397, "best_split": [3, 1], "split_score": 0.6893631436022458}
+{"sent": "hotdog most seen", "ann_id": 1068397, "best_split": [3, 1], "split_score": 0.6893631436022458}

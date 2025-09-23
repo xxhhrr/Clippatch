@@ -1,0 +1,8 @@
+{"sent": "red and blue hat kid", "ann_id": 511019, "best_split": [1, 3], "split_score": 0.2851110038438036}
+{"sent": "kid in red and blue striped hat", "ann_id": 511019, "best_split": [1, 3], "split_score": 0.2851110038438036}
+{"sent": "young woman", "ann_id": 509754, "best_split": [1, 5], "split_score": 0.6361607142211687}
+{"sent": "woman with long black coat", "ann_id": 509754, "best_split": [1, 5], "split_score": 0.6361607142211687}
+{"sent": "kid wearing long coat", "ann_id": 509754, "best_split": [1, 2], "split_score": 0.24992028060228316}
+{"sent": "guy in black pants silver coar", "ann_id": 467678, "best_split": [1, 3], "split_score": 0.32220955023939063}
+{"sent": "man with leather jacket", "ann_id": 467678, "best_split": [1, 5], "split_score": 0.4287249283360512}
+{"sent": "man holding ski poles", "ann_id": 467678, "best_split": [1, 2], "split_score": 0.4021444515145829}

@@ -1,0 +1,5 @@
+{"sent": "man under pic with animal", "ann_id": 252805, "best_split": [1, 2], "split_score": 0.4433992346762038}
+{"sent": "shaving his nose area", "ann_id": 252805, "best_split": [1, 2], "split_score": 0.4433992346762038}
+{"sent": "half shaved face", "ann_id": 198880, "best_split": [2, 2], "split_score": 0.9048146097790486}
+{"sent": "11 o clock half shaved", "ann_id": 198880, "best_split": [2, 2], "split_score": 0.9048146097790486}
+{"sent": "facing camera without cat", "ann_id": 198880, "best_split": [2, 1], "split_score": 0.4603794642673637}

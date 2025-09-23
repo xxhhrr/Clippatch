@@ -1,0 +1,11 @@
+{"sent": "toilet in reflection", "ann_id": 1967740, "best_split": [3, 3], "split_score": 0.735860782980755}
+{"sent": "toilet in the mirror", "ann_id": 1967740, "best_split": [3, 3], "split_score": 0.735860782980755}
+{"sent": "toilet seat in reflection", "ann_id": 1967740, "best_split": [3, 3], "split_score": 0.735860782980755}
+{"sent": "what cat is standing on", "ann_id": 1092278, "best_split": [1, 5], "split_score": 0.2960876369095393}
+{"sent": "real toilet tank", "ann_id": 1092278, "best_split": [3, 2], "split_score": 0.5987206822389424}
+{"sent": "toilet tank real cat is standing on", "ann_id": 1092278, "best_split": [3, 2], "split_score": 0.5987206822389424}
+{"sent": "the cat in the mirror", "ann_id": 49708, "best_split": [3, 1], "split_score": 0.20777673784532558}
+{"sent": "mirror version of cat", "ann_id": 49708, "best_split": [3, 1], "split_score": 0.20777673784532558}
+{"sent": "the real one", "ann_id": 47564, "best_split": [1, 2], "split_score": 0.6633848851776393}
+{"sent": "real cat not reflection", "ann_id": 47564, "best_split": [1, 2], "split_score": 0.6633848851776393}
+{"sent": "real kitty not reflection kitty", "ann_id": 47564, "best_split": [1, 2], "split_score": 0.6633848851776393}

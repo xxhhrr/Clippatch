@@ -1,0 +1,6 @@
+{"sent": "empty glass", "ann_id": 674486, "best_split": [1, 5], "split_score": 0.5292909534934679}
+{"sent": "glass without toothbrush", "ann_id": 674486, "best_split": [1, 2], "split_score": 0.2304288902969376}
+{"sent": "glass with not teeth brushes", "ann_id": 674486, "best_split": [1, 2], "split_score": 0.2304288902969376}
+{"sent": "the glass holding the pink toothbrush", "ann_id": 672551, "best_split": [1, 3], "split_score": 0.36142983228766856}
+{"sent": "glass with tootbrush", "ann_id": 672551, "best_split": [1, 3], "split_score": 0.36142983228766856}
+{"sent": "full glass", "ann_id": 672551, "best_split": [1, 3], "split_score": 0.36142983228766856}

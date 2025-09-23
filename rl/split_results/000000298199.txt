@@ -1,0 +1,6 @@
+{"sent": "getting out of taxi", "ann_id": 479897, "best_split": [3, 3], "split_score": 0.3235470341037227}
+{"sent": "the guy in the background", "ann_id": 479897, "best_split": [3, 2], "split_score": 0.22765598648528076}
+{"sent": "man in striped shirt", "ann_id": 479897, "best_split": [3, 2], "split_score": 0.22765598648528076}
+{"sent": "close person", "ann_id": 477099, "best_split": [1, 3], "split_score": 0.6661448140574293}
+{"sent": "guy", "ann_id": 477099, "best_split": [1, 3], "split_score": 0.6661448140574293}
+{"sent": "man white shirt", "ann_id": 477099, "best_split": [1, 3], "split_score": 0.6661448140574293}

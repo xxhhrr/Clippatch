@@ -1,0 +1,6 @@
+{"sent": "woman in pink", "ann_id": 1221062, "best_split": [1, 2], "split_score": 0.7047193877270121}
+{"sent": "pink shirt", "ann_id": 1221062, "best_split": [1, 2], "split_score": 0.7047193877270121}
+{"sent": "woman", "ann_id": 1221062, "best_split": [1, 2], "split_score": 0.7047193877270121}
+{"sent": "man", "ann_id": 534832, "best_split": [1, 5], "split_score": 0.8032670453730452}
+{"sent": "the man reading", "ann_id": 534832, "best_split": [1, 5], "split_score": 0.8032670453730452}
+{"sent": "mean reading", "ann_id": 534832, "best_split": [1, 5], "split_score": 0.8032670453730452}

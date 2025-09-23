@@ -1,0 +1,6 @@
+{"sent": "red sauce", "ann_id": 1074662, "best_split": [3, 1], "split_score": 0.403117441529915}
+{"sent": "pizza at 2 o clock", "ann_id": 1074662, "best_split": [3, 1], "split_score": 0.403117441529915}
+{"sent": "slice with tomatoes", "ann_id": 1074662, "best_split": [3, 2], "split_score": 0.5311710753335657}
+{"sent": "slice with broccoli", "ann_id": 1074240, "best_split": [3, 1], "split_score": 0.5811586546722607}
+{"sent": "pizza with broccoli on it", "ann_id": 1074240, "best_split": [3, 1], "split_score": 0.5811586546722607}
+{"sent": "broccoli", "ann_id": 1074240, "best_split": [3, 1], "split_score": 0.5811586546722607}

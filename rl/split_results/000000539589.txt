@@ -1,0 +1,6 @@
+{"sent": "woman looking down", "ann_id": 453327, "best_split": [1, 5], "split_score": 0.40852575485156417}
+{"sent": "woman", "ann_id": 453327, "best_split": [5, 1], "split_score": 0.19427710842043558}
+{"sent": "woman", "ann_id": 453327, "best_split": [5, 1], "split_score": 0.19427710842043558}
+{"sent": "dude wearing glasses", "ann_id": 423069, "best_split": [1, 2], "split_score": 0.4049190161815792}
+{"sent": "guy", "ann_id": 423069, "best_split": [1, 2], "split_score": 0.4049190161815792}
+{"sent": "man in glasses", "ann_id": 423069, "best_split": [1, 2], "split_score": 0.4049190161815792}

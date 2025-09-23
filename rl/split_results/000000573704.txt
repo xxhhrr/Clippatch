@@ -1,0 +1,9 @@
+{"sent": "person holding bat and one knee up", "ann_id": 1746124, "best_split": [1, 3], "split_score": 0.5698913605499281}
+{"sent": "knee up", "ann_id": 1746124, "best_split": [1, 2], "split_score": 0.5488679846719998}
+{"sent": "tallest man", "ann_id": 1746124, "best_split": [1, 2], "split_score": 0.5488679846719998}
+{"sent": "guy both players locking at", "ann_id": 516151, "best_split": [3, 1], "split_score": 0.24823446326587947}
+{"sent": "batter closest to pole", "ann_id": 516151, "best_split": [3, 1], "split_score": 0.24823446326587947}
+{"sent": "plater other two are looking at", "ann_id": 516151, "best_split": [2, 2], "split_score": 0.48360254524696505}
+{"sent": "batter covering logo", "ann_id": 438108, "best_split": [1, 2], "split_score": 0.25303062153132116}
+{"sent": "malcolm in the", "ann_id": 438108, "best_split": [1, 3], "split_score": 0.5018185825800827}
+{"sent": "middle player", "ann_id": 438108, "best_split": [3, 3], "split_score": 0.3618887014871932}

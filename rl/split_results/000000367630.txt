@@ -1,0 +1,12 @@
+{"sent": "white shorts", "ann_id": 500410, "best_split": [5, 1], "split_score": 0.6109586762608332}
+{"sent": "upper bunk kid", "ann_id": 500410, "best_split": [2, 1], "split_score": 0.3794244260052844}
+{"sent": "girl on upper bunk", "ann_id": 500410, "best_split": [5, 1], "split_score": 0.6109586762608332}
+{"sent": "little girl sleeping", "ann_id": 490597, "best_split": [5, 1], "split_score": 0.5680284191325019}
+{"sent": "girl in dark pants", "ann_id": 490597, "best_split": [3, 2], "split_score": 0.21071643586614114}
+{"sent": "person under other person", "ann_id": 490597, "best_split": [5, 1], "split_score": 0.5680284191325019}
+{"sent": "girls bed above other girls head", "ann_id": 318293, "best_split": [3, 1], "split_score": 0.6072555204705241}
+{"sent": "bed tall", "ann_id": 318293, "best_split": [3, 1], "split_score": 0.6072555204705241}
+{"sent": "upper bunk bed not the person", "ann_id": 318293, "best_split": [3, 1], "split_score": 0.6072555204705241}
+{"sent": "girl with oranges in her bunk", "ann_id": 316111, "best_split": [5, 1], "split_score": 0.4215739045956737}
+{"sent": "white shirt", "ann_id": 316111, "best_split": [1, 5], "split_score": 0.18334976251530827}
+{"sent": "white shirt girl", "ann_id": 316111, "best_split": [1, 3], "split_score": 0.2621914050494441}

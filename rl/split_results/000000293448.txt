@@ -1,0 +1,7 @@
+{"sent": "closest zebra", "ann_id": 591302, "best_split": [3, 1], "split_score": 0.44811320752684536}
+{"sent": "zebra closes to you", "ann_id": 591302, "best_split": [3, 1], "split_score": 0.44811320752684536}
+{"sent": "zebra looking toward bush", "ann_id": 591302, "best_split": [3, 1], "split_score": 0.44811320752684536}
+{"sent": "a zebra facing the ground to eat", "ann_id": 590426, "best_split": [2, 2], "split_score": 0.3842041312038758}
+{"sent": "background zebra", "ann_id": 590426, "best_split": [2, 2], "split_score": 0.3842041312038758}
+{"sent": "zebra blocked by other one", "ann_id": 590426, "best_split": [2, 2], "split_score": 0.3842041312038758}
+{"sent": "zebra behind", "ann_id": 590426, "best_split": [2, 2], "split_score": 0.3842041312038758}

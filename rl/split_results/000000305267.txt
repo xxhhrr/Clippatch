@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 2155039, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "white shirt", "ann_id": 2155039, "best_split": [1, 2], "split_score": 0.492195024067171}
+{"sent": "man", "ann_id": 2155039, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "man in orange", "ann_id": 486240, "best_split": [1, 5], "split_score": 0.4900492970156975}
+{"sent": "orange shirt", "ann_id": 486240, "best_split": [1, 5], "split_score": 0.4900492970156975}
+{"sent": "orange shirt", "ann_id": 486240, "best_split": [1, 5], "split_score": 0.4900492970156975}

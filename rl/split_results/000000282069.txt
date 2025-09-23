@@ -1,0 +1,15 @@
+{"sent": "closest row between two shorter boys", "ann_id": 1222682, "best_split": [1, 5], "split_score": 0.253920171039387}
+{"sent": "small player on bench holging glove", "ann_id": 1213205, "best_split": [2, 3], "split_score": 0.3362127755926105}
+{"sent": "person on corner at 400", "ann_id": 1213205, "best_split": [5, 1], "split_score": 0.09807153452298735}
+{"sent": "shortest seated player on end", "ann_id": 1213205, "best_split": [3, 2], "split_score": 0.17301935739642593}
+{"sent": "man sitting by person with bat and legs bent under bench", "ann_id": 1314616, "best_split": [5, 1], "split_score": 0.11924119240182578}
+{"sent": "feet on ground third p", "ann_id": 1314616, "best_split": [1, 3], "split_score": 0.19513218630806714}
+{"sent": "glove in lap on end", "ann_id": 1275620, "best_split": [3, 3], "split_score": 0.31155778890240965}
+{"sent": "player sitting straight up on end of bench", "ann_id": 1275620, "best_split": [3, 3], "split_score": 0.31155778890240965}
+{"sent": "boy 900", "ann_id": 1275620, "best_split": [5, 1], "split_score": 0.13119510031983278}
+{"sent": "row closest to us and number 2 player nearest old guy in white", "ann_id": 1275415, "best_split": [3, 2], "split_score": 0.22562674092462925}
+{"sent": "middle person closest row", "ann_id": 1266759, "best_split": [1, 3], "split_score": 0.20644305018059586}
+{"sent": "holding bat", "ann_id": 1266759, "best_split": [1, 5], "split_score": 0.34719967528944806}
+{"sent": "player with bat", "ann_id": 1266759, "best_split": [1, 5], "split_score": 0.34719967528944806}
+{"sent": "lowest row 2 from the person closest to our score", "ann_id": 1226630, "best_split": [3, 3], "split_score": 0.16684578181530818}
+{"sent": "smallest guy with mit", "ann_id": 1226630, "best_split": [5, 1], "split_score": 0.09558946838037989}

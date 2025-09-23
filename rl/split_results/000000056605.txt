@@ -1,0 +1,6 @@
+{"sent": "white ram", "ann_id": 2177147, "best_split": [1, 2], "split_score": 0.5741832473417409}
+{"sent": "horns", "ann_id": 2177147, "best_split": [1, 2], "split_score": 0.5741832473417409}
+{"sent": "white male", "ann_id": 2177147, "best_split": [1, 2], "split_score": 0.5741832473417409}
+{"sent": "brown animal laying down", "ann_id": 75154, "best_split": [3, 2], "split_score": 0.43798262542978006}
+{"sent": "sitting cow near car", "ann_id": 75154, "best_split": [3, 1], "split_score": 0.21899131272810138}
+{"sent": "brown yak at 11 o clock", "ann_id": 75154, "best_split": [2, 1], "split_score": 0.14469068876974286}

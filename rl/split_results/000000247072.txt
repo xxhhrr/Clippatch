@@ -1,0 +1,6 @@
+{"sent": "child in purple", "ann_id": 488680, "best_split": [3, 3], "split_score": 0.36032602938918956}
+{"sent": "smaller chid", "ann_id": 488680, "best_split": [3, 3], "split_score": 0.36032602938918956}
+{"sent": "all purple", "ann_id": 488680, "best_split": [3, 3], "split_score": 0.36032602938918956}
+{"sent": "tall girl", "ann_id": 423174, "best_split": [1, 2], "split_score": 0.3986118567221945}
+{"sent": "the taller girl", "ann_id": 423174, "best_split": [1, 2], "split_score": 0.3986118567221945}
+{"sent": "a taller kid playing", "ann_id": 423174, "best_split": [1, 3], "split_score": 0.32951357518284846}

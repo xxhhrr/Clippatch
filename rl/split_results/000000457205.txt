@@ -1,0 +1,4 @@
+{"sent": "bottle with white label", "ann_id": 89438, "best_split": [2, 2], "split_score": 0.42710472276128597}
+{"sent": "brown tag", "ann_id": 89225, "best_split": [3, 3], "split_score": 0.45945945941573474}
+{"sent": "wine bottle beige label", "ann_id": 89225, "best_split": [2, 3], "split_score": 0.7231295099959049}
+{"sent": "bottle with brown lable", "ann_id": 89225, "best_split": [2, 3], "split_score": 0.7231295099959049}

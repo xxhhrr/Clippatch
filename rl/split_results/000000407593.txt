@@ -1,0 +1,6 @@
+{"sent": "zebra almost completely out of frame", "ann_id": 591088, "best_split": [3, 1], "split_score": 0.15823235922216514}
+{"sent": "zebra with only partial body in frame", "ann_id": 591088, "best_split": [3, 1], "split_score": 0.15823235922216514}
+{"sent": "zebra mostly out of frame", "ann_id": 591088, "best_split": [3, 1], "split_score": 0.15823235922216514}
+{"sent": "full zebra", "ann_id": 590462, "best_split": [1, 2], "split_score": 0.5595854922150355}
+{"sent": "zebra mostly in picture", "ann_id": 590462, "best_split": [1, 2], "split_score": 0.5595854922150355}
+{"sent": "zebra full", "ann_id": 590462, "best_split": [1, 2], "split_score": 0.5595854922150355}

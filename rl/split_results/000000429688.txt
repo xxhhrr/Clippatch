@@ -1,0 +1,9 @@
+{"sent": "number 10 player", "ann_id": 570924, "best_split": [1, 2], "split_score": 0.2539859693776313}
+{"sent": "small guy in red jersey with numbers not showing", "ann_id": 570924, "best_split": [1, 2], "split_score": 0.2539859693776313}
+{"sent": "goalie", "ann_id": 570924, "best_split": [1, 5], "split_score": 0.15059557571252158}
+{"sent": "kid wearing white", "ann_id": 570482, "best_split": [2, 3], "split_score": 0.4898288666055999}
+{"sent": "player in white and green", "ann_id": 570482, "best_split": [2, 1], "split_score": 0.4052933673307839}
+{"sent": "guy on the ground", "ann_id": 570482, "best_split": [2, 3], "split_score": 0.4898288666055999}
+{"sent": "11", "ann_id": 570322, "best_split": [2, 2], "split_score": 0.3442480440285788}
+{"sent": "boy jumping in the air", "ann_id": 570322, "best_split": [1, 2], "split_score": 0.43459106088131205}
+{"sent": "11", "ann_id": 570322, "best_split": [2, 2], "split_score": 0.3442480440285788}

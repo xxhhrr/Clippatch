@@ -1,0 +1,5 @@
+{"sent": "bleacher man is sitting on", "ann_id": 1812056, "best_split": [2, 2], "split_score": 0.4168526785381973}
+{"sent": "bench that man is sitting on with blue jacket and drinking coffee", "ann_id": 1812056, "best_split": [2, 2], "split_score": 0.4168526785381973}
+{"sent": "seat closest to corner", "ann_id": 576857, "best_split": [2, 3], "split_score": 0.276878820534954}
+{"sent": "bench behind bench man in dark blue is sitting on behind him", "ann_id": 576857, "best_split": [2, 3], "split_score": 0.276878820534954}
+{"sent": "bench behind blue jacket", "ann_id": 576857, "best_split": [2, 3], "split_score": 0.276878820534954}

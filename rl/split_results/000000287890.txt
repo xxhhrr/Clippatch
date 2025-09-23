@@ -1,0 +1,6 @@
+{"sent": "half zebra", "ann_id": 593614, "best_split": [3, 2], "split_score": 0.6031347961909769}
+{"sent": "smallest part of zebra showing", "ann_id": 593614, "best_split": [3, 2], "split_score": 0.6031347961909769}
+{"sent": "closest zebra", "ann_id": 593614, "best_split": [3, 2], "split_score": 0.6031347961909769}
+{"sent": "zebra farthest", "ann_id": 592157, "best_split": [3, 1], "split_score": 0.49766885338541617}
+{"sent": "farthest zebra", "ann_id": 592157, "best_split": [3, 1], "split_score": 0.49766885338541617}
+{"sent": "the zebra closest to the wood", "ann_id": 592157, "best_split": [3, 1], "split_score": 0.49766885338541617}

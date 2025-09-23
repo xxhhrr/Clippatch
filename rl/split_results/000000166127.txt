@@ -1,0 +1,6 @@
+{"sent": "elephant behind other elephant", "ann_id": 584944, "best_split": [1, 2], "split_score": 0.2403539540720522}
+{"sent": "a group elephants in a row", "ann_id": 584944, "best_split": [2, 2], "split_score": 0.4573558257781596}
+{"sent": "not full elephant", "ann_id": 584944, "best_split": [1, 2], "split_score": 0.2403539540720522}
+{"sent": "closest elephant", "ann_id": 584025, "best_split": [1, 3], "split_score": 0.3974857142743575}
+{"sent": "elephant", "ann_id": 584025, "best_split": [1, 3], "split_score": 0.3974857142743575}
+{"sent": "main elephant", "ann_id": 584025, "best_split": [1, 3], "split_score": 0.3974857142743575}

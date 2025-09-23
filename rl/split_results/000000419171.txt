@@ -1,0 +1,6 @@
+{"sent": "biggest piece of bananas on the table", "ann_id": 1044154, "best_split": [3, 1], "split_score": 0.14744208493319003}
+{"sent": "small batch near big batch", "ann_id": 1044154, "best_split": [3, 2], "split_score": 0.15708894877012516}
+{"sent": "bananas on table in foreground", "ann_id": 1044154, "best_split": [3, 1], "split_score": 0.14744208493319003}
+{"sent": "hanging bananas", "ann_id": 1043026, "best_split": [1, 2], "split_score": 0.6839923469115118}
+{"sent": "large banan sstalk", "ann_id": 1043026, "best_split": [1, 2], "split_score": 0.6839923469115118}
+{"sent": "biggest piece where the man working on", "ann_id": 1043026, "best_split": [1, 2], "split_score": 0.6839923469115118}

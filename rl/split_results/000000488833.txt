@@ -1,0 +1,6 @@
+{"sent": "girafe standing", "ann_id": 598919, "best_split": [1, 3], "split_score": 0.4041374379873939}
+{"sent": "tallest giraffe", "ann_id": 598919, "best_split": [1, 3], "split_score": 0.4041374379873939}
+{"sent": "tallest", "ann_id": 598919, "best_split": [1, 3], "split_score": 0.4041374379873939}
+{"sent": "giraffe bending over", "ann_id": 598830, "best_split": [3, 3], "split_score": 0.33534743198798583}
+{"sent": "giraffe with head down", "ann_id": 598830, "best_split": [3, 3], "split_score": 0.33534743198798583}
+{"sent": "smaller giraffee", "ann_id": 598830, "best_split": [3, 3], "split_score": 0.33534743198798583}

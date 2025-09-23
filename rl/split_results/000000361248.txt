@@ -1,0 +1,12 @@
+{"sent": "brown and white cow near us", "ann_id": 76966, "best_split": [2, 3], "split_score": 0.6945066298695964}
+{"sent": "nearest cow", "ann_id": 76966, "best_split": [2, 3], "split_score": 0.6945066298695964}
+{"sent": "closest cow butt", "ann_id": 76966, "best_split": [2, 3], "split_score": 0.6945066298695964}
+{"sent": "light colored plaid shirt back facing us", "ann_id": 1321526, "best_split": [1, 3], "split_score": 0.35237693048067226}
+{"sent": "white striped shirt", "ann_id": 1321526, "best_split": [2, 3], "split_score": 0.704753860918828}
+{"sent": "the man closest to us", "ann_id": 1321526, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man with his arms crossed", "ann_id": 1295860, "best_split": [1, 5], "split_score": 0.5105519480001469}
+{"sent": "farmer behind cows with plaid shirt", "ann_id": 1295860, "best_split": [2, 1], "split_score": 0.14472484037151395}
+{"sent": "guy dark plaid holding cow on leash", "ann_id": 1295860, "best_split": [2, 1], "split_score": 0.14472484037151395}
+{"sent": "cow with black tail", "ann_id": 73919, "best_split": [3, 3], "split_score": 0.5362955921900563}
+{"sent": "all brown between 2 spotted cows", "ann_id": 73919, "best_split": [3, 3], "split_score": 0.5362955921900563}
+{"sent": "cow with darkest brown patches against white", "ann_id": 73266, "best_split": [3, 1], "split_score": 0.2804913155992471}

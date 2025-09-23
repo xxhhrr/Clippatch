@@ -1,0 +1,6 @@
+{"sent": "teddy with purple", "ann_id": 1161885, "best_split": [3, 3], "split_score": 0.35858585853691155}
+{"sent": "bear with purple", "ann_id": 1161885, "best_split": [3, 3], "split_score": 0.35858585853691155}
+{"sent": "the bear with flowers on it", "ann_id": 1161885, "best_split": [3, 3], "split_score": 0.35858585853691155}
+{"sent": "bear by water bottle", "ann_id": 1161576, "best_split": [2, 3], "split_score": 0.43512371751809253}
+{"sent": "teddy bear", "ann_id": 1161576, "best_split": [2, 2], "split_score": 0.40674362086826066}
+{"sent": "bear by bottle", "ann_id": 1161576, "best_split": [2, 3], "split_score": 0.43512371751809253}

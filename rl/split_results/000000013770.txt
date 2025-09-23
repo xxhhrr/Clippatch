@@ -1,0 +1,6 @@
+{"sent": "book 1 o clock", "ann_id": 1148293, "best_split": [1, 5], "split_score": 0.30785791170292026}
+{"sent": "book that is closest to score box", "ann_id": 1148293, "best_split": [1, 5], "split_score": 0.30785791170292026}
+{"sent": "book at two", "ann_id": 1148293, "best_split": [1, 5], "split_score": 0.30785791170292026}
+{"sent": "the memory cathedral book", "ann_id": 1143326, "best_split": [2, 2], "split_score": 0.2339435308537121}
+{"sent": "memory cathedral book", "ann_id": 1143326, "best_split": [2, 2], "split_score": 0.2339435308537121}
+{"sent": "tan book the cathderal", "ann_id": 1143326, "best_split": [2, 2], "split_score": 0.2339435308537121}

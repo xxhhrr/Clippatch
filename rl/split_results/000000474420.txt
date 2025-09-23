@@ -1,0 +1,6 @@
+{"sent": "beet", "ann_id": 2218272, "best_split": [3, 1], "split_score": 0.5322335862575971}
+{"sent": "main part of sandwich", "ann_id": 2218272, "best_split": [3, 1], "split_score": 0.5322335862575971}
+{"sent": "inside sandwich", "ann_id": 2218272, "best_split": [3, 1], "split_score": 0.5322335862575971}
+{"sent": "upper bun", "ann_id": 311655, "best_split": [2, 1], "split_score": 0.9167330994532552}
+{"sent": "bagel", "ann_id": 311655, "best_split": [2, 1], "split_score": 0.9167330994532552}
+{"sent": "upper bagel", "ann_id": 311655, "best_split": [2, 1], "split_score": 0.9167330994532552}

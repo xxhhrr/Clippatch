@@ -1,0 +1,6 @@
+{"sent": "zebra with no face", "ann_id": 593450, "best_split": [2, 1], "split_score": 0.7199856504815056}
+{"sent": "rear z", "ann_id": 593450, "best_split": [2, 1], "split_score": 0.7199856504815056}
+{"sent": "zebra belly", "ann_id": 593450, "best_split": [3, 1], "split_score": 0.9098527870700859}
+{"sent": "zebra head down", "ann_id": 591435, "best_split": [1, 2], "split_score": 0.5128212137640016}
+{"sent": "zebra eating", "ann_id": 591435, "best_split": [1, 2], "split_score": 0.5128212137640016}
+{"sent": "zebra with face showing", "ann_id": 591435, "best_split": [1, 2], "split_score": 0.5128212137640016}

@@ -1,0 +1,6 @@
+{"sent": "man with tan colored cap along black donkey", "ann_id": 230482, "best_split": [1, 2], "split_score": 0.19570905284459486}
+{"sent": "man in hat closest to head of donkey", "ann_id": 230482, "best_split": [1, 2], "split_score": 0.19570905284459486}
+{"sent": "man in white", "ann_id": 230482, "best_split": [3, 3], "split_score": 0.4511137162425423}
+{"sent": "womans back", "ann_id": 206246, "best_split": [1, 3], "split_score": 0.33869993960863853}
+{"sent": "woman", "ann_id": 206246, "best_split": [1, 5], "split_score": 0.37386018234499446}
+{"sent": "flowery dress", "ann_id": 206246, "best_split": [1, 5], "split_score": 0.37386018234499446}

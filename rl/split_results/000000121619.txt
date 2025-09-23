@@ -1,0 +1,6 @@
+{"sent": "car behind meter", "ann_id": 1775119, "best_split": [1, 2], "split_score": 0.762914540785917}
+{"sent": "car behind parkingmeter", "ann_id": 1775119, "best_split": [1, 2], "split_score": 0.762914540785917}
+{"sent": "black car blurry", "ann_id": 1775119, "best_split": [2, 2], "split_score": 0.6088148674414129}
+{"sent": "white car back window", "ann_id": 351073, "best_split": [1, 5], "split_score": 0.6447849025319821}
+{"sent": "white car", "ann_id": 351073, "best_split": [1, 5], "split_score": 0.6447849025319821}
+{"sent": "car behind man", "ann_id": 351073, "best_split": [1, 5], "split_score": 0.6447849025319821}

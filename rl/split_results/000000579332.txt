@@ -1,0 +1,12 @@
+{"sent": "man in striped shirt", "ann_id": 515214, "best_split": [1, 3], "split_score": 0.614814814782285}
+{"sent": "guy not cooking", "ann_id": 515214, "best_split": [1, 3], "split_score": 0.614814814782285}
+{"sent": "closest man", "ann_id": 515214, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "red shirt in back", "ann_id": 511270, "best_split": [3, 3], "split_score": 0.3379991159071756}
+{"sent": "guy cooking", "ann_id": 511270, "best_split": [3, 2], "split_score": 0.27840481562093894}
+{"sent": "farthest man", "ann_id": 511270, "best_split": [3, 2], "split_score": 0.27840481562093894}
+{"sent": "woman in red blouse", "ann_id": 439647, "best_split": [1, 3], "split_score": 0.4692676796258844}
+{"sent": "woman in solid maroon shirt", "ann_id": 439647, "best_split": [2, 3], "split_score": 0.4888547270912243}
+{"sent": "the woman in red", "ann_id": 439647, "best_split": [1, 3], "split_score": 0.4692676796258844}
+{"sent": "woman in black shirt", "ann_id": 437136, "best_split": [2, 2], "split_score": 0.4342550228476722}
+{"sent": "black shirt", "ann_id": 437136, "best_split": [1, 3], "split_score": 0.3813112283140644}
+{"sent": "black shirt", "ann_id": 437136, "best_split": [1, 3], "split_score": 0.3813112283140644}

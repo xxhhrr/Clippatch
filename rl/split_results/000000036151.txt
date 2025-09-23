@@ -1,0 +1,8 @@
+{"sent": "the umpire", "ann_id": 560629, "best_split": [1, 3], "split_score": 0.39261744964560796}
+{"sent": "ump", "ann_id": 560629, "best_split": [1, 3], "split_score": 0.39261744964560796}
+{"sent": "the umpire", "ann_id": 560629, "best_split": [1, 3], "split_score": 0.39261744964560796}
+{"sent": "batter", "ann_id": 555875, "best_split": [1, 5], "split_score": 0.4158759243232854}
+{"sent": "player 8 in green", "ann_id": 555875, "best_split": [1, 5], "split_score": 0.4158759243232854}
+{"sent": "catcher", "ann_id": 477485, "best_split": [2, 3], "split_score": 0.45490071816065686}
+{"sent": "catcher", "ann_id": 477485, "best_split": [2, 3], "split_score": 0.45490071816065686}
+{"sent": "blue chest guard", "ann_id": 477485, "best_split": [2, 3], "split_score": 0.45490071816065686}

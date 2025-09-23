@@ -1,0 +1,8 @@
+{"sent": "blue bird below next to bird eating seeds", "ann_id": 44468, "best_split": [3, 2], "split_score": 0.44534412950162605}
+{"sent": "bright blue", "ann_id": 44468, "best_split": [3, 3], "split_score": 0.6494517154847096}
+{"sent": "pigion on ground behind thumb", "ann_id": 40336, "best_split": [2, 1], "split_score": 0.20930325254267765}
+{"sent": "bird by thumb on ground", "ann_id": 40336, "best_split": [2, 1], "split_score": 0.20930325254267765}
+{"sent": "bird by thumb", "ann_id": 40336, "best_split": [3, 1], "split_score": 0.3167833011391902}
+{"sent": "bidr in hand", "ann_id": 38299, "best_split": [2, 2], "split_score": 0.27283996527377957}
+{"sent": "bird in hand", "ann_id": 38299, "best_split": [3, 2], "split_score": 0.3924050632575774}
+{"sent": "bird eating off hand", "ann_id": 38299, "best_split": [3, 2], "split_score": 0.3924050632575774}

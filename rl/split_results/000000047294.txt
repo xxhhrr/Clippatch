@@ -1,0 +1,16 @@
+{"sent": "policeman looking at the camera", "ann_id": 1299790, "best_split": [3, 1], "split_score": 0.12457912457257055}
+{"sent": "back cop", "ann_id": 1299790, "best_split": [2, 1], "split_score": 0.11455847254942726}
+{"sent": "guy on white motorcycle closest to remaining rounds box", "ann_id": 1299790, "best_split": [2, 1], "split_score": 0.11455847254942726}
+{"sent": "cop in front", "ann_id": 1271226, "best_split": [2, 3], "split_score": 0.47362296349169675}
+{"sent": "man on bike farthest rightish towards us", "ann_id": 1271226, "best_split": [2, 2], "split_score": 0.3352553541779753}
+{"sent": "brown jacket blue hoodie", "ann_id": 1270173, "best_split": [3, 2], "split_score": 0.2594064033349607}
+{"sent": "brown coat hood up hat", "ann_id": 1270173, "best_split": [3, 2], "split_score": 0.2594064033349607}
+{"sent": "brown jacket", "ann_id": 1270173, "best_split": [3, 2], "split_score": 0.2594064033349607}
+{"sent": "blond woman lisa", "ann_id": 1231416, "best_split": [3, 3], "split_score": 0.21655156265754985}
+{"sent": "the woman with out a hat and with long blond hair", "ann_id": 1231416, "best_split": [3, 2], "split_score": 0.22688841398988308}
+{"sent": "women between the motorcycle and the white sign has something in her hand and blond hair", "ann_id": 1231416, "best_split": [2, 1], "split_score": 0.1305576488270325}
+{"sent": "motorcycle facing us", "ann_id": 155048, "best_split": [2, 3], "split_score": 0.6347962381823279}
+{"sent": "bike near girl", "ann_id": 155048, "best_split": [2, 3], "split_score": 0.6347962381823279}
+{"sent": "bike with police man looking at you", "ann_id": 155048, "best_split": [1, 5], "split_score": 0.39614561024807693}
+{"sent": "white bike in the lead", "ann_id": 154514, "best_split": [2, 2], "split_score": 0.7706131077714975}
+{"sent": "the motorbike at the head of the parade", "ann_id": 154514, "best_split": [2, 2], "split_score": 0.7706131077714975}

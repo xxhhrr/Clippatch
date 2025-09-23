@@ -1,0 +1,6 @@
+{"sent": "seant underone face us the", "ann_id": 581273, "best_split": [1, 3], "split_score": 0.3578394598481883}
+{"sent": "elephant facing us", "ann_id": 581273, "best_split": [1, 2], "split_score": 0.4936224489599162}
+{"sent": "elephant toward us", "ann_id": 581273, "best_split": [1, 2], "split_score": 0.4936224489599162}
+{"sent": "not cosest elephant", "ann_id": 580854, "best_split": [2, 3], "split_score": 0.41319056687819805}
+{"sent": "bigger elephant", "ann_id": 580854, "best_split": [2, 3], "split_score": 0.41319056687819805}
+{"sent": "sideways elephant", "ann_id": 580854, "best_split": [2, 3], "split_score": 0.41319056687819805}

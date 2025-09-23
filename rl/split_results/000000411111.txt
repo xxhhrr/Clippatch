@@ -1,0 +1,6 @@
+{"sent": "main red bus", "ann_id": 163019, "best_split": [1, 5], "split_score": 0.3417233966014221}
+{"sent": "red 12 bus", "ann_id": 163019, "best_split": [1, 5], "split_score": 0.3417233966014221}
+{"sent": "number 12", "ann_id": 163019, "best_split": [1, 5], "split_score": 0.3417233966014221}
+{"sent": "smaller bus", "ann_id": 248529, "best_split": [2, 3], "split_score": 0.24988662128686093}
+{"sent": "black mini bus", "ann_id": 248529, "best_split": [2, 3], "split_score": 0.24988662128686093}
+{"sent": "casablanca", "ann_id": 248529, "best_split": [1, 5], "split_score": 0.14514368860084179}

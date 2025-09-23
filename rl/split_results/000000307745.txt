@@ -1,0 +1,6 @@
+{"sent": "train going away", "ann_id": 172154, "best_split": [3, 2], "split_score": 0.24675324672463436}
+{"sent": "black train", "ann_id": 172154, "best_split": [3, 2], "split_score": 0.24675324672463436}
+{"sent": "back of train", "ann_id": 172154, "best_split": [3, 2], "split_score": 0.24675324672463436}
+{"sent": "red train", "ann_id": 171137, "best_split": [3, 3], "split_score": 0.4042400286733309}
+{"sent": "the train moving forward", "ann_id": 171137, "best_split": [3, 3], "split_score": 0.4042400286733309}
+{"sent": "red train", "ann_id": 171137, "best_split": [3, 3], "split_score": 0.4042400286733309}

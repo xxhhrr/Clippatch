@@ -1,0 +1,6 @@
+{"sent": "guy in black shirt", "ann_id": 1706415, "best_split": [1, 5], "split_score": 0.5076923076574387}
+{"sent": "man with glasses and untucked shirt", "ann_id": 1706415, "best_split": [3, 1], "split_score": 0.22823851952415017}
+{"sent": "man with glasses", "ann_id": 1706415, "best_split": [1, 5], "split_score": 0.5076923076574387}
+{"sent": "arm raised man", "ann_id": 422298, "best_split": [2, 2], "split_score": 0.3426833389513905}
+{"sent": "guy with arm high", "ann_id": 422298, "best_split": [2, 2], "split_score": 0.3426833389513905}
+{"sent": "man with belt showing", "ann_id": 422298, "best_split": [1, 2], "split_score": 0.7669005101735132}

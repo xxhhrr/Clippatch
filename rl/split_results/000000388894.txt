@@ -1,0 +1,6 @@
+{"sent": "non reflection arm", "ann_id": 1232509, "best_split": [2, 1], "split_score": 0.21484765234094505}
+{"sent": "hand", "ann_id": 1232509, "best_split": [2, 3], "split_score": 0.44130874011332144}
+{"sent": "man in mirror", "ann_id": 422876, "best_split": [3, 2], "split_score": 0.3305175173101087}
+{"sent": "reflection of man", "ann_id": 422876, "best_split": [3, 2], "split_score": 0.3305175173101087}
+{"sent": "guys refection", "ann_id": 422876, "best_split": [2, 2], "split_score": 0.2760772856864699}
+{"sent": "reflection of man", "ann_id": 422876, "best_split": [3, 2], "split_score": 0.3305175173101087}

@@ -1,0 +1,6 @@
+{"sent": "image man", "ann_id": 1213412, "best_split": [2, 3], "split_score": 0.4088646598235524}
+{"sent": "peron on screen", "ann_id": 1213412, "best_split": [3, 1], "split_score": 0.19980970503093423}
+{"sent": "face on tv screen", "ann_id": 1213412, "best_split": [3, 1], "split_score": 0.19980970503093423}
+{"sent": "head", "ann_id": 207461, "best_split": [3, 2], "split_score": 0.6699271591394457}
+{"sent": "hat", "ann_id": 207461, "best_split": [3, 2], "split_score": 0.6699271591394457}
+{"sent": "hat", "ann_id": 207461, "best_split": [3, 2], "split_score": 0.6699271591394457}

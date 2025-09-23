@@ -1,0 +1,6 @@
+{"sent": "the chair the woman in red and black is sitting on", "ann_id": 1587848, "best_split": [2, 2], "split_score": 0.4613134619081194}
+{"sent": "chair under red dress", "ann_id": 1587848, "best_split": [2, 2], "split_score": 0.4613134619081194}
+{"sent": "chair under woman", "ann_id": 1587848, "best_split": [2, 2], "split_score": 0.4613134619081194}
+{"sent": "empty chair across from lady", "ann_id": 1939066, "best_split": [5, 1], "split_score": 0.27047127568714646}
+{"sent": "empty chair across from woman", "ann_id": 1939066, "best_split": [5, 1], "split_score": 0.23998222352122195}
+{"sent": "empty chair", "ann_id": 1939066, "best_split": [3, 3], "split_score": 0.49413755584502145}

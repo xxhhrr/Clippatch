@@ -1,0 +1,6 @@
+{"sent": "blue eyed boy", "ann_id": 490300, "best_split": [1, 2], "split_score": 0.6458195698214116}
+{"sent": "boy not smiling", "ann_id": 490300, "best_split": [1, 2], "split_score": 0.6458195698214116}
+{"sent": "hes not smiling", "ann_id": 490300, "best_split": [1, 3], "split_score": 0.4702549574880512}
+{"sent": "smiley boy", "ann_id": 453885, "best_split": [1, 2], "split_score": 0.586073500946875}
+{"sent": "smiling kid", "ann_id": 453885, "best_split": [1, 2], "split_score": 0.586073500946875}
+{"sent": "boy smiling", "ann_id": 453885, "best_split": [1, 2], "split_score": 0.586073500946875}

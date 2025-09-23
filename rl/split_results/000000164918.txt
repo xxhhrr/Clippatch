@@ -1,0 +1,6 @@
+{"sent": "under the bananas", "ann_id": 1534976, "best_split": [2, 1], "split_score": 0.3758769132503238}
+{"sent": "cutting board", "ann_id": 1534976, "best_split": [1, 3], "split_score": 0.15060614104280126}
+{"sent": "just part of wood bowl showing", "ann_id": 1534976, "best_split": [1, 2], "split_score": 0.1414682539635758}
+{"sent": "the pot holding bananas", "ann_id": 716218, "best_split": [3, 1], "split_score": 0.504763356432255}
+{"sent": "wood bowl", "ann_id": 716218, "best_split": [3, 1], "split_score": 0.504763356432255}
+{"sent": "bowl that is holding bananas", "ann_id": 716218, "best_split": [3, 1], "split_score": 0.504763356432255}

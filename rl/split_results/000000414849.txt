@@ -1,0 +1,21 @@
+{"sent": "hand", "ann_id": 1269089, "best_split": [1, 5], "split_score": 0.4438676183884428}
+{"sent": "hand on dark cup", "ann_id": 1269089, "best_split": [1, 5], "split_score": 0.06357552580827809}
+{"sent": "someones hand reaching for mug with stick", "ann_id": 1269089, "best_split": [2, 3], "split_score": 0.46241386505925935}
+{"sent": "the hand holding the glass", "ann_id": 1264515, "best_split": [1, 2], "split_score": 0.16689253825865383}
+{"sent": "hand by bowl of yellow stuff", "ann_id": 1264515, "best_split": [3, 3], "split_score": 0.5540366676497207}
+{"sent": "hand in on light cup", "ann_id": 1264515, "best_split": [1, 5], "split_score": 0.18837268340624755}
+{"sent": "donut no sprinkles", "ann_id": 1081879, "best_split": [3, 3], "split_score": 0.5812455260233991}
+{"sent": "further donut", "ann_id": 1081879, "best_split": [3, 3], "split_score": 0.5812455260233991}
+{"sent": "donut by coffee", "ann_id": 1081879, "best_split": [3, 3], "split_score": 0.5812455260233991}
+{"sent": "closest doughnut", "ann_id": 1081171, "best_split": [2, 3], "split_score": 0.448962355158185}
+{"sent": "donut not touching cup", "ann_id": 1081171, "best_split": [2, 3], "split_score": 0.448962355158185}
+{"sent": "doghnut closest to us", "ann_id": 1081171, "best_split": [2, 3], "split_score": 0.448962355158185}
+{"sent": "orange juice behind plate", "ann_id": 676857, "best_split": [3, 3], "split_score": 0.49146757670794067}
+{"sent": "juie", "ann_id": 676857, "best_split": [3, 3], "split_score": 0.49146757670794067}
+{"sent": "glass by brown cup", "ann_id": 676857, "best_split": [3, 3], "split_score": 0.49146757670794067}
+{"sent": "coffee cup partially offscreen", "ann_id": 673504, "best_split": [3, 3], "split_score": 0.5898997133614076}
+{"sent": "white coffee cup", "ann_id": 673504, "best_split": [3, 2], "split_score": 0.39232968075365293}
+{"sent": "cup at 3 o clock", "ann_id": 673504, "best_split": [1, 2], "split_score": 0.13560267856602348}
+{"sent": "black cup with spoon in it", "ann_id": 668815, "best_split": [2, 2], "split_score": 0.3577806122163759}
+{"sent": "mug with spoon in it", "ann_id": 668815, "best_split": [1, 5], "split_score": 0.26356589144965065}
+{"sent": "cup where spoon in it", "ann_id": 668815, "best_split": [3, 3], "split_score": 0.14318494720706917}

@@ -1,0 +1,5 @@
+{"sent": "catcher", "ann_id": 1707551, "best_split": [3, 2], "split_score": 0.35612903221977105}
+{"sent": "umpire", "ann_id": 1707551, "best_split": [3, 2], "split_score": 0.35612903221977105}
+{"sent": "hitter", "ann_id": 488800, "best_split": [1, 3], "split_score": 0.5754248917673691}
+{"sent": "white shirt", "ann_id": 488800, "best_split": [1, 3], "split_score": 0.5754248917673691}
+{"sent": "batter", "ann_id": 488800, "best_split": [1, 3], "split_score": 0.5754248917673691}

@@ -1,0 +1,9 @@
+{"sent": "es", "ann_id": 1797397, "best_split": [1, 3], "split_score": 0.3955115829877225}
+{"sent": "part of truck that says efs", "ann_id": 1797397, "best_split": [1, 5], "split_score": 0.6651785713610817}
+{"sent": "efs on it", "ann_id": 1797397, "best_split": [1, 3], "split_score": 0.3955115829877225}
+{"sent": "27305", "ann_id": 399488, "best_split": [1, 2], "split_score": 0.13822206297471148}
+{"sent": "white shuttle buss", "ann_id": 399488, "best_split": [1, 2], "split_score": 0.13822206297471148}
+{"sent": "delta truck at 700", "ann_id": 399488, "best_split": [3, 2], "split_score": 0.4173578554613105}
+{"sent": "truc with circle", "ann_id": 398797, "best_split": [3, 1], "split_score": 0.04793117574518992}
+{"sent": "white truck door", "ann_id": 398797, "best_split": [3, 2], "split_score": 0.3200346920728497}
+{"sent": "truck under plane", "ann_id": 398797, "best_split": [1, 2], "split_score": 0.15497448978974113}

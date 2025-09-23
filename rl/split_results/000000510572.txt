@@ -1,0 +1,9 @@
+{"sent": "toddler looking at us", "ann_id": 260662, "best_split": [3, 2], "split_score": 0.5050014022151069}
+{"sent": "baby in blue", "ann_id": 260662, "best_split": [1, 5], "split_score": 0.3632996372896597}
+{"sent": "boy looking at camera", "ann_id": 260662, "best_split": [3, 2], "split_score": 0.5050014022151069}
+{"sent": "adult", "ann_id": 258410, "best_split": [1, 3], "split_score": 0.5321725964926111}
+{"sent": "the mother", "ann_id": 258410, "best_split": [1, 3], "split_score": 0.5321725964926111}
+{"sent": "mom", "ann_id": 258410, "best_split": [1, 3], "split_score": 0.5321725964926111}
+{"sent": "boy in white shirt not baby", "ann_id": 255352, "best_split": [3, 3], "split_score": 0.5127934581228181}
+{"sent": "toddler that mom is touching with her face", "ann_id": 255352, "best_split": [3, 3], "split_score": 0.5127934581228181}
+{"sent": "blond kid looking down", "ann_id": 255352, "best_split": [3, 3], "split_score": 0.5127934581228181}

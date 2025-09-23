@@ -1,0 +1,6 @@
+{"sent": "man in red shirt", "ann_id": 524716, "best_split": [1, 5], "split_score": 0.29578828462999934}
+{"sent": "red", "ann_id": 524716, "best_split": [1, 3], "split_score": 0.2665406427072979}
+{"sent": "goalie", "ann_id": 524716, "best_split": [1, 5], "split_score": 0.29578828462999934}
+{"sent": "the number 6", "ann_id": 468654, "best_split": [1, 5], "split_score": 0.4570209420887642}
+{"sent": "playing who just kicked ball wearing white shirt", "ann_id": 468654, "best_split": [1, 2], "split_score": 0.6295255806342925}
+{"sent": "white jersey", "ann_id": 468654, "best_split": [1, 2], "split_score": 0.6295255806342925}

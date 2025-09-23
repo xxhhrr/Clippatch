@@ -1,0 +1,6 @@
+{"sent": "short one", "ann_id": 41967, "best_split": [1, 2], "split_score": 0.2792968749888673}
+{"sent": "smaller bird", "ann_id": 41967, "best_split": [5, 1], "split_score": 0.1465968586287756}
+{"sent": "stork with legs straight", "ann_id": 41967, "best_split": [1, 5], "split_score": 0.5952133194025907}
+{"sent": "larger bird", "ann_id": 37292, "best_split": [1, 3], "split_score": 0.43315454904483736}
+{"sent": "bigger bird", "ann_id": 37292, "best_split": [1, 3], "split_score": 0.43315454904483736}
+{"sent": "gray with long legs closet to picture", "ann_id": 37292, "best_split": [1, 3], "split_score": 0.43315454904483736}

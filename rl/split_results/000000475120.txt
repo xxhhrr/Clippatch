@@ -1,0 +1,15 @@
+{"sent": "red shirt on ground", "ann_id": 223470, "best_split": [2, 2], "split_score": 0.40785929326510384}
+{"sent": "black pants", "ann_id": 223470, "best_split": [2, 2], "split_score": 0.40785929326510384}
+{"sent": "gray pants", "ann_id": 223470, "best_split": [2, 2], "split_score": 0.40785929326510384}
+{"sent": "man standing by the motorcycle", "ann_id": 214070, "best_split": [2, 1], "split_score": 0.16609237677935296}
+{"sent": "guy in red standing next to bike", "ann_id": 214070, "best_split": [2, 1], "split_score": 0.16609237677935296}
+{"sent": "man standing", "ann_id": 214070, "best_split": [1, 5], "split_score": 0.5104504869611961}
+{"sent": "guy in blue jeans laying down", "ann_id": 210618, "best_split": [2, 2], "split_score": 0.4431465716067349}
+{"sent": "the man in blue jeans laying down", "ann_id": 210618, "best_split": [2, 2], "split_score": 0.4431465716067349}
+{"sent": "laying in blue jeans", "ann_id": 210618, "best_split": [2, 2], "split_score": 0.4431465716067349}
+{"sent": "motorcycle with headlight", "ann_id": 152426, "best_split": [5, 1], "split_score": 0.22099587157966163}
+{"sent": "black motorcyle facing us", "ann_id": 152426, "best_split": [5, 1], "split_score": 0.22099587157966163}
+{"sent": "bike beside red jacket", "ann_id": 152426, "best_split": [5, 1], "split_score": 0.1613110024712468}
+{"sent": "motorcycle can see complete side", "ann_id": 150741, "best_split": [2, 2], "split_score": 0.5719999999591429}
+{"sent": "bike missing a wheel in pic", "ann_id": 150741, "best_split": [2, 2], "split_score": 0.5719999999591429}
+{"sent": "bike above guy in white shirt", "ann_id": 150741, "best_split": [2, 2], "split_score": 0.5719999999591429}

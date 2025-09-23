@@ -1,0 +1,11 @@
+{"sent": "man shaving not the reflection", "ann_id": 1709058, "best_split": [1, 2], "split_score": 0.5161830356937108}
+{"sent": "guy shaving not in mirror", "ann_id": 1709058, "best_split": [1, 2], "split_score": 0.5161830356937108}
+{"sent": "real guy", "ann_id": 1709058, "best_split": [1, 2], "split_score": 0.5161830356937108}
+{"sent": "man with white hat in reflection", "ann_id": 512819, "best_split": [1, 3], "split_score": 0.4506515443743574}
+{"sent": "man in shirt", "ann_id": 512819, "best_split": [1, 3], "split_score": 0.4506515443743574}
+{"sent": "fedora bro in mirror", "ann_id": 512819, "best_split": [1, 3], "split_score": 0.4506515443743574}
+{"sent": "face on side", "ann_id": 488085, "best_split": [2, 2], "split_score": 0.3813684548421864}
+{"sent": "dude with hat not in mirror and blurry", "ann_id": 488085, "best_split": [1, 3], "split_score": 0.5403595559519571}
+{"sent": "reflection in the mirror shaving", "ann_id": 440744, "best_split": [1, 3], "split_score": 0.35023464046872893}
+{"sent": "man shaving reflection", "ann_id": 440744, "best_split": [1, 3], "split_score": 0.35023464046872893}
+{"sent": "reflection of shaving man", "ann_id": 440744, "best_split": [1, 3], "split_score": 0.35023464046872893}

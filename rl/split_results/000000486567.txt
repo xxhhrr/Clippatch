@@ -1,0 +1,6 @@
+{"sent": "mostly white umbrella", "ann_id": 285281, "best_split": [2, 1], "split_score": 0.2863284608682493}
+{"sent": "blue and white umbrella", "ann_id": 285281, "best_split": [1, 3], "split_score": 0.7775884106956973}
+{"sent": "blue white umbrella", "ann_id": 285281, "best_split": [1, 3], "split_score": 0.7775884106956973}
+{"sent": "red yellow umbrella", "ann_id": 283219, "best_split": [1, 2], "split_score": 0.8343583435549283}
+{"sent": "a big yellow and red umbrella", "ann_id": 283219, "best_split": [1, 2], "split_score": 0.8343583435549283}
+{"sent": "red and yellow umbrella", "ann_id": 283219, "best_split": [1, 2], "split_score": 0.8343583435549283}

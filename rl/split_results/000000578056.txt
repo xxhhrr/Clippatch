@@ -1,0 +1,6 @@
+{"sent": "full man closest to pilot", "ann_id": 1729682, "best_split": [3, 2], "split_score": 0.2074303405372068}
+{"sent": "man with arm leaning on plane", "ann_id": 1729682, "best_split": [2, 1], "split_score": 0.12269938649836275}
+{"sent": "man with no snaps on clothes", "ann_id": 1729682, "best_split": [3, 3], "split_score": 0.2849548112327279}
+{"sent": "far eastern guy", "ann_id": 224910, "best_split": [1, 5], "split_score": 0.3408134642014813}
+{"sent": "man near back of plane", "ann_id": 224910, "best_split": [2, 1], "split_score": 0.10845986984395492}
+{"sent": "guy 4", "ann_id": 224910, "best_split": [2, 1], "split_score": 0.10845986984395492}

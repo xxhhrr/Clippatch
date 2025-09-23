@@ -1,0 +1,6 @@
+{"sent": "food above fries on side with score", "ann_id": 313523, "best_split": [1, 5], "split_score": 0.2712467240479926}
+{"sent": "tilted bread", "ann_id": 313523, "best_split": [2, 2], "split_score": 0.2970344387518308}
+{"sent": "part of sandwich not close to drink", "ann_id": 313523, "best_split": [1, 5], "split_score": 0.2712467240479926}
+{"sent": "sandwich half near beer", "ann_id": 312365, "best_split": [2, 3], "split_score": 0.41976351346286633}
+{"sent": "sandwich closest to bottle", "ann_id": 312365, "best_split": [2, 3], "split_score": 0.41976351346286633}
+{"sent": "sandwich closest to the bottle", "ann_id": 312365, "best_split": [2, 3], "split_score": 0.41976351346286633}

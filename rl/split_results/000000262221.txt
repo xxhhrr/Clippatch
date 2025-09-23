@@ -1,0 +1,6 @@
+{"sent": "judge", "ann_id": 1201925, "best_split": [2, 2], "split_score": 0.30644132650618294}
+{"sent": "referee", "ann_id": 1201925, "best_split": [2, 1], "split_score": 0.15322066325919878}
+{"sent": "referee", "ann_id": 1201925, "best_split": [2, 1], "split_score": 0.15322066325919878}
+{"sent": "playrr in white", "ann_id": 424164, "best_split": [3, 2], "split_score": 0.3110655737386203}
+{"sent": "white shirt and shorts", "ann_id": 424164, "best_split": [3, 2], "split_score": 0.3110655737386203}
+{"sent": "tennis player", "ann_id": 424164, "best_split": [3, 2], "split_score": 0.3110655737386203}

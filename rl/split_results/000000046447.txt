@@ -1,0 +1,9 @@
+{"sent": "photographer", "ann_id": 1287843, "best_split": [1, 2], "split_score": 0.107621173465098}
+{"sent": "man taking photo", "ann_id": 1287843, "best_split": [3, 2], "split_score": 0.06545137204834177}
+{"sent": "person holding camera", "ann_id": 1287843, "best_split": [3, 3], "split_score": 0.08998800158778988}
+{"sent": "man with most medsals", "ann_id": 1238026, "best_split": [2, 3], "split_score": 0.44127708091588014}
+{"sent": "the man with all the badges", "ann_id": 1238026, "best_split": [2, 3], "split_score": 0.44127708091588014}
+{"sent": "the graud", "ann_id": 1238026, "best_split": [3, 1], "split_score": 0.15694978789795058}
+{"sent": "bald man", "ann_id": 1227629, "best_split": [3, 3], "split_score": 0.2497398542947933}
+{"sent": "back to camera", "ann_id": 1227629, "best_split": [1, 5], "split_score": 0.37097654116039464}
+{"sent": "no hat man", "ann_id": 1227629, "best_split": [3, 1], "split_score": 0.1472323155987338}

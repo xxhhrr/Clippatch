@@ -1,0 +1,4 @@
+{"sent": "animal next to sheep closest to you", "ann_id": 67076, "best_split": [2, 1], "split_score": 0.26466836733638915}
+{"sent": "sheep without horns", "ann_id": 61147, "best_split": [2, 1], "split_score": 0.2953603316208801}
+{"sent": "sheep in foreground photo is focused on", "ann_id": 61147, "best_split": [2, 1], "split_score": 0.2953603316208801}
+{"sent": "closest white sheep", "ann_id": 61147, "best_split": [2, 1], "split_score": 0.2953603316208801}

@@ -1,0 +1,3 @@
+{"sent": "bagel in the bag will be the one you grab next", "ann_id": 1573901, "best_split": [3, 2], "split_score": 0.5302547770097527}
+{"sent": "bagel", "ann_id": 1573901, "best_split": [3, 2], "split_score": 0.5302547770097527}
+{"sent": "bagel closest to the opening of the package", "ann_id": 1573901, "best_split": [3, 2], "split_score": 0.5302547770097527}

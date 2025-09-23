@@ -1,0 +1,5 @@
+{"sent": "dog with ears down", "ann_id": 16773, "best_split": [3, 1], "split_score": 0.2607794361390558}
+{"sent": "closer and shaggier dog", "ann_id": 16773, "best_split": [3, 2], "split_score": 0.45712209298172946}
+{"sent": "dog with floppy ears", "ann_id": 16773, "best_split": [3, 1], "split_score": 0.2607794361390558}
+{"sent": "dog with ears up", "ann_id": 11755, "best_split": [1, 5], "split_score": 0.369114714266096}
+{"sent": "dog face", "ann_id": 11755, "best_split": [1, 5], "split_score": 0.369114714266096}

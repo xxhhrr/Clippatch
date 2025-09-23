@@ -1,0 +1,6 @@
+{"sent": "wood part of chair", "ann_id": 104268, "best_split": [2, 3], "split_score": 0.6126970130483085}
+{"sent": "wood chair", "ann_id": 104268, "best_split": [2, 3], "split_score": 0.6126970130483085}
+{"sent": "wooden chair back", "ann_id": 104268, "best_split": [2, 3], "split_score": 0.6126970130483085}
+{"sent": "black chair", "ann_id": 100847, "best_split": [2, 3], "split_score": 0.7074063086416091}
+{"sent": "green chair", "ann_id": 100847, "best_split": [2, 3], "split_score": 0.7074063086416091}
+{"sent": "darker chair", "ann_id": 100847, "best_split": [2, 3], "split_score": 0.7074063086416091}

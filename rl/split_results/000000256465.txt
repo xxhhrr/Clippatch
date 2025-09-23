@@ -1,0 +1,6 @@
+{"sent": "face missing man on couch", "ann_id": 233636, "best_split": [2, 3], "split_score": 0.23798456816603286}
+{"sent": "man sitted close to tv", "ann_id": 233636, "best_split": [5, 1], "split_score": 0.16134820939678957}
+{"sent": "man with arms crossed", "ann_id": 233636, "best_split": [3, 2], "split_score": 0.28592120507088437}
+{"sent": "player", "ann_id": 230229, "best_split": [2, 1], "split_score": 0.3452180665088256}
+{"sent": "guy playing", "ann_id": 230229, "best_split": [2, 1], "split_score": 0.3452180665088256}
+{"sent": "the man is playing", "ann_id": 230229, "best_split": [2, 1], "split_score": 0.3452180665088256}

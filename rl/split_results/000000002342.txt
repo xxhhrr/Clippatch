@@ -1,0 +1,6 @@
+{"sent": "shorter giraffe", "ann_id": 599412, "best_split": [2, 3], "split_score": 0.7795552086637187}
+{"sent": "giraffe looking towards other giraffe", "ann_id": 599412, "best_split": [2, 3], "split_score": 0.7795552086637187}
+{"sent": "giraffe with lower head", "ann_id": 599412, "best_split": [2, 3], "split_score": 0.7795552086637187}
+{"sent": "nearest giraffe", "ann_id": 599080, "best_split": [1, 5], "split_score": 0.5271591326330644}
+{"sent": "head over rail", "ann_id": 599080, "best_split": [2, 2], "split_score": 0.45186239324020155}
+{"sent": "closer giraffe", "ann_id": 599080, "best_split": [1, 5], "split_score": 0.5271591326330644}

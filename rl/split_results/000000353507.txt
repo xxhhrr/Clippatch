@@ -1,0 +1,12 @@
+{"sent": "child with blue shirt reaching", "ann_id": 569909, "best_split": [3, 1], "split_score": 0.3012295081820243}
+{"sent": "kid whose hands almost touch cake", "ann_id": 569909, "best_split": [5, 1], "split_score": 0.275738585479234}
+{"sent": "little boy in blck reaching", "ann_id": 569909, "best_split": [1, 5], "split_score": 0.2939421455251043}
+{"sent": "kid raising fist", "ann_id": 538963, "best_split": [3, 1], "split_score": 0.25458807385200455}
+{"sent": "boy with arm curled upward next to girl with glasses", "ann_id": 538963, "best_split": [1, 3], "split_score": 0.32384169882216207}
+{"sent": "kid with arm up", "ann_id": 538963, "best_split": [1, 3], "split_score": 0.32384169882216207}
+{"sent": "child with glasses standing", "ann_id": 518479, "best_split": [2, 2], "split_score": 0.557776975780745}
+{"sent": "girl with glasses", "ann_id": 518479, "best_split": [2, 2], "split_score": 0.557776975780745}
+{"sent": "girl with glasses", "ann_id": 518479, "best_split": [2, 2], "split_score": 0.557776975780745}
+{"sent": "red shirt", "ann_id": 495512, "best_split": [1, 3], "split_score": 0.21959459458134684}
+{"sent": "red shirt girl", "ann_id": 495512, "best_split": [2, 3], "split_score": 0.4391891891361982}
+{"sent": "red", "ann_id": 495512, "best_split": [1, 5], "split_score": 0.35679099222310334}

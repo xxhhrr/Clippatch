@@ -1,0 +1,6 @@
+{"sent": "bus at the back", "ann_id": 365998, "best_split": [5, 1], "split_score": 0.2227645270998467}
+{"sent": "bus furtthest away", "ann_id": 365998, "best_split": [3, 2], "split_score": 0.40289924518954123}
+{"sent": "farther double decker bus", "ann_id": 365998, "best_split": [3, 2], "split_score": 0.40289924518954123}
+{"sent": "bus closest to you", "ann_id": 365845, "best_split": [3, 1], "split_score": 0.41415417943608257}
+{"sent": "bus with james bond", "ann_id": 365845, "best_split": [3, 1], "split_score": 0.41415417943608257}
+{"sent": "red bus closest to us", "ann_id": 365845, "best_split": [3, 1], "split_score": 0.41415417943608257}

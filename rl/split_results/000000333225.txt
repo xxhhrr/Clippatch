@@ -1,0 +1,4 @@
+{"sent": "fartest piece of broccoli", "ann_id": 1059644, "best_split": [2, 3], "split_score": 0.3637789574850653}
+{"sent": "broccoli floret above carrot slices", "ann_id": 1059482, "best_split": [3, 2], "split_score": 0.33517241376420925}
+{"sent": "most prominent broccoli", "ann_id": 1059482, "best_split": [3, 3], "split_score": 0.5040341717484534}
+{"sent": "broccoli piece above carrots", "ann_id": 1059482, "best_split": [3, 3], "split_score": 0.5040341717484534}

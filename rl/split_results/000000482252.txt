@@ -1,0 +1,5 @@
+{"sent": "bike that has rider", "ann_id": 151886, "best_split": [1, 2], "split_score": 0.42721637163241405}
+{"sent": "motorcycle beneath cop", "ann_id": 151886, "best_split": [3, 2], "split_score": 0.43687105860479863}
+{"sent": "not riding moto", "ann_id": 148089, "best_split": [5, 1], "split_score": 0.22892819977699477}
+{"sent": "motorbike with no cop", "ann_id": 148089, "best_split": [3, 1], "split_score": 0.300568643364106}
+{"sent": "bike withno rider", "ann_id": 148089, "best_split": [5, 1], "split_score": 0.22892819977699477}

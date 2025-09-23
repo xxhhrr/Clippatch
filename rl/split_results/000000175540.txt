@@ -1,0 +1,6 @@
+{"sent": "kid with donut", "ann_id": 1740313, "best_split": [1, 2], "split_score": 0.9041772958823271}
+{"sent": "boy eating", "ann_id": 1740313, "best_split": [1, 2], "split_score": 0.9041772958823271}
+{"sent": "boy red shirt", "ann_id": 1740313, "best_split": [1, 2], "split_score": 0.9041772958823271}
+{"sent": "blue parka", "ann_id": 476285, "best_split": [1, 3], "split_score": 0.596098265865189}
+{"sent": "child in blue and white jacket", "ann_id": 476285, "best_split": [1, 3], "split_score": 0.596098265865189}
+{"sent": "boy in blue coat", "ann_id": 476285, "best_split": [1, 3], "split_score": 0.596098265865189}

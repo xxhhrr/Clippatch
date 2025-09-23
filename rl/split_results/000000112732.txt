@@ -1,0 +1,6 @@
+{"sent": "the bear holding the cup", "ann_id": 1161757, "best_split": [2, 3], "split_score": 0.4383130807406495}
+{"sent": "girl teddy bear", "ann_id": 1161757, "best_split": [2, 3], "split_score": 0.4383130807406495}
+{"sent": "teddy holding cup", "ann_id": 1161757, "best_split": [2, 1], "split_score": 0.3841943465402941}
+{"sent": "bear not touching cup", "ann_id": 1161579, "best_split": [3, 2], "split_score": 0.4264965803099595}
+{"sent": "bear that does not have a bow", "ann_id": 1161579, "best_split": [3, 2], "split_score": 0.4264965803099595}
+{"sent": "brown bear not holding cup", "ann_id": 1161579, "best_split": [3, 2], "split_score": 0.4264965803099595}

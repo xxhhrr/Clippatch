@@ -1,0 +1,6 @@
+{"sent": "cat not visible", "ann_id": 52587, "best_split": [3, 1], "split_score": 0.5581551765285536}
+{"sent": "cat behind", "ann_id": 52587, "best_split": [3, 1], "split_score": 0.5581551765285536}
+{"sent": "cant see face", "ann_id": 52587, "best_split": [1, 2], "split_score": 0.3770431156125297}
+{"sent": "whole cat", "ann_id": 50026, "best_split": [3, 2], "split_score": 0.47703464944877205}
+{"sent": "cat face", "ann_id": 50026, "best_split": [3, 2], "split_score": 0.47703464944877205}
+{"sent": "cat head", "ann_id": 50026, "best_split": [3, 2], "split_score": 0.47703464944877205}

@@ -1,0 +1,6 @@
+{"sent": "dog", "ann_id": 1816555, "best_split": [3, 1], "split_score": 0.44711301198403725}
+{"sent": "can laying on belly", "ann_id": 1816555, "best_split": [3, 1], "split_score": 0.44711301198403725}
+{"sent": "cat lying on belly", "ann_id": 1816555, "best_split": [3, 1], "split_score": 0.44711301198403725}
+{"sent": "close animal", "ann_id": 53091, "best_split": [2, 2], "split_score": 0.4674144037504478}
+{"sent": "kitty not blured", "ann_id": 53091, "best_split": [2, 2], "split_score": 0.4674144037504478}
+{"sent": "cat on back", "ann_id": 53091, "best_split": [2, 2], "split_score": 0.4674144037504478}

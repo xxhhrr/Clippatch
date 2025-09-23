@@ -1,0 +1,9 @@
+{"sent": "girrafe looking away", "ann_id": 1823549, "best_split": [3, 1], "split_score": 0.22564473615041372}
+{"sent": "giraffe walkin away", "ann_id": 1823549, "best_split": [3, 1], "split_score": 0.22564473615041372}
+{"sent": "giraffe by itself", "ann_id": 1823549, "best_split": [3, 1], "split_score": 0.22564473615041372}
+{"sent": "tallest giraffe", "ann_id": 1823466, "best_split": [1, 2], "split_score": 0.5857780612011408}
+{"sent": "tallest giraffe feeding baby", "ann_id": 1823466, "best_split": [1, 2], "split_score": 0.5857780612011408}
+{"sent": "sry tallest one", "ann_id": 1823466, "best_split": [1, 2], "split_score": 0.5857780612011408}
+{"sent": "shorter touching larger giraffe", "ann_id": 1823277, "best_split": [2, 1], "split_score": 0.1783430016295425}
+{"sent": "shortest giraffe", "ann_id": 1823277, "best_split": [2, 1], "split_score": 0.1783430016295425}
+{"sent": "smaller giraffe head to head with bigger", "ann_id": 1823277, "best_split": [2, 2], "split_score": 0.20599722815887633}

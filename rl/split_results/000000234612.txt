@@ -1,0 +1,9 @@
+{"sent": "man in chair", "ann_id": 542447, "best_split": [2, 2], "split_score": 0.4615384615067625}
+{"sent": "man with wine", "ann_id": 542447, "best_split": [2, 2], "split_score": 0.4615384615067625}
+{"sent": "guy with wine", "ann_id": 542447, "best_split": [2, 2], "split_score": 0.4615384615067625}
+{"sent": "woman with glasses", "ann_id": 534654, "best_split": [1, 3], "split_score": 0.5256439222477607}
+{"sent": "old woman in yellow shirt", "ann_id": 534654, "best_split": [2, 3], "split_score": 0.6148007589602552}
+{"sent": "woman in green", "ann_id": 534654, "best_split": [2, 3], "split_score": 0.6148007589602552}
+{"sent": "bue", "ann_id": 478966, "best_split": [1, 2], "split_score": 0.8112244897635832}
+{"sent": "blue shirt", "ann_id": 478966, "best_split": [1, 2], "split_score": 0.8112244897635832}
+{"sent": "blue shirt", "ann_id": 478966, "best_split": [1, 2], "split_score": 0.8112244897635832}

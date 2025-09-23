@@ -1,0 +1,6 @@
+{"sent": "mom", "ann_id": 209610, "best_split": [3, 1], "split_score": 0.5878333881878567}
+{"sent": "lady", "ann_id": 209610, "best_split": [3, 1], "split_score": 0.5878333881878567}
+{"sent": "woman", "ann_id": 209610, "best_split": [3, 1], "split_score": 0.5878333881878567}
+{"sent": "kid", "ann_id": 201954, "best_split": [3, 3], "split_score": 0.39621258394670583}
+{"sent": "kid", "ann_id": 201954, "best_split": [3, 3], "split_score": 0.39621258394670583}
+{"sent": "boy", "ann_id": 201954, "best_split": [3, 3], "split_score": 0.39621258394670583}

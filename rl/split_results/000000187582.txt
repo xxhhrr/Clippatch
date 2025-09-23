@@ -1,0 +1,6 @@
+{"sent": "small case", "ann_id": 1445846, "best_split": [3, 3], "split_score": 0.5640781323768368}
+{"sent": "small bag", "ann_id": 1445846, "best_split": [3, 3], "split_score": 0.5640781323768368}
+{"sent": "ignored bag", "ann_id": 1445846, "best_split": [2, 1], "split_score": 0.2882209457751113}
+{"sent": "suitcase being held by child", "ann_id": 1183235, "best_split": [2, 2], "split_score": 0.6066382297649534}
+{"sent": "rolling luggage", "ann_id": 1183235, "best_split": [2, 2], "split_score": 0.6066382297649534}
+{"sent": "black object child is holding", "ann_id": 1183235, "best_split": [3, 1], "split_score": 0.23814133590433242}

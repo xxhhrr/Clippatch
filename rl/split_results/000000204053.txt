@@ -1,0 +1,6 @@
+{"sent": "this one is smaller with less writing", "ann_id": 175140, "best_split": [5, 1], "split_score": 0.2044609665308747}
+{"sent": "bus 70 039", "ann_id": 175140, "best_split": [3, 1], "split_score": 0.27488855867965784}
+{"sent": "train further away", "ann_id": 175140, "best_split": [3, 1], "split_score": 0.27488855867965784}
+{"sent": "079", "ann_id": 174943, "best_split": [1, 2], "split_score": 0.7049747272943041}
+{"sent": "79 train", "ann_id": 174943, "best_split": [1, 2], "split_score": 0.7049747272943041}
+{"sent": "train away from passanger on sidewalk", "ann_id": 174943, "best_split": [1, 2], "split_score": 0.7049747272943041}

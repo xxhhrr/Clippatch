@@ -1,0 +1,9 @@
+{"sent": "bike hidden by piller", "ann_id": 246670, "best_split": [3, 3], "split_score": 0.701006512625665}
+{"sent": "bike by wall and dark blue something", "ann_id": 246670, "best_split": [3, 3], "split_score": 0.701006512625665}
+{"sent": "bike hidden by pole", "ann_id": 246670, "best_split": [3, 3], "split_score": 0.701006512625665}
+{"sent": "bike by the black one", "ann_id": 245821, "best_split": [1, 5], "split_score": 0.41186516183458083}
+{"sent": "dark green bike", "ann_id": 245821, "best_split": [1, 5], "split_score": 0.41186516183458083}
+{"sent": "dark green motorcycle not the sidecar", "ann_id": 245821, "best_split": [1, 5], "split_score": 0.41186516183458083}
+{"sent": "mint green bike", "ann_id": 245746, "best_split": [2, 3], "split_score": 0.6472012916534624}
+{"sent": "light blue", "ann_id": 245746, "best_split": [2, 3], "split_score": 0.6472012916534624}
+{"sent": "bike with light green", "ann_id": 245746, "best_split": [2, 1], "split_score": 0.25815800771940184}

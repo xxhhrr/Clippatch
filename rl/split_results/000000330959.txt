@@ -1,0 +1,6 @@
+{"sent": "rhombus at 6", "ann_id": 1923705, "best_split": [2, 1], "split_score": 0.13018176019889263}
+{"sent": "closest piece no meat", "ann_id": 1571734, "best_split": [2, 3], "split_score": 0.27690637062296014}
+{"sent": "piece on corner close to us", "ann_id": 1571734, "best_split": [3, 2], "split_score": 0.27690637062296014}
+{"sent": "square piece of pizza closest to us", "ann_id": 1571734, "best_split": [1, 3], "split_score": 0.1384531853198327}
+{"sent": "slice at 5 o clock", "ann_id": 1571659, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "triangle pizza on biggest burner", "ann_id": 1571659, "best_split": [1, 2], "split_score": 0.0}

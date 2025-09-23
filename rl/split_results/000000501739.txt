@@ -1,0 +1,7 @@
+{"sent": "green apple with underside showing and directly touching other green apple", "ann_id": 1049959, "best_split": [2, 3], "split_score": 0.30405405401736796}
+{"sent": "apple at noon", "ann_id": 1049959, "best_split": [2, 3], "split_score": 0.30405405401736796}
+{"sent": "green apple part on table", "ann_id": 1049959, "best_split": [2, 3], "split_score": 0.30405405401736796}
+{"sent": "red corner apple", "ann_id": 1049207, "best_split": [2, 2], "split_score": 0.279017857120614}
+{"sent": "largest fruit surronded by all other fruits", "ann_id": 1047727, "best_split": [3, 3], "split_score": 0.6362308253038292}
+{"sent": "fruit surrounds the pick", "ann_id": 1047727, "best_split": [3, 3], "split_score": 0.6362308253038292}
+{"sent": "surround apple", "ann_id": 1047727, "best_split": [3, 3], "split_score": 0.6362308253038292}

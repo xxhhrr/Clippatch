@@ -1,0 +1,21 @@
+{"sent": "apple near the smooth slightly lighter orange", "ann_id": 1551167, "best_split": [2, 2], "split_score": 0.1912661278752824}
+{"sent": "apple row next to oranges apple below the one with sticker", "ann_id": 1551167, "best_split": [1, 2], "split_score": 0.05621536025134185}
+{"sent": "green apple below red apple", "ann_id": 1550999, "best_split": [1, 3], "split_score": 0.1998149861124066}
+{"sent": "apple below red one", "ann_id": 1550999, "best_split": [1, 5], "split_score": 0.25824964129678535}
+{"sent": "green apple below red apple", "ann_id": 1550999, "best_split": [1, 3], "split_score": 0.1998149861124066}
+{"sent": "red", "ann_id": 1548687, "best_split": [2, 3], "split_score": 0.5090825476535891}
+{"sent": "red", "ann_id": 1548687, "best_split": [2, 3], "split_score": 0.5090825476535891}
+{"sent": "red apple", "ann_id": 1548687, "best_split": [2, 3], "split_score": 0.5090825476535891}
+{"sent": "fourth orange up next to apple", "ann_id": 1053092, "best_split": [1, 3], "split_score": 0.13135068152880447}
+{"sent": "next to orange with quarter of sticker", "ann_id": 1053092, "best_split": [1, 3], "split_score": 0.13135068152880447}
+{"sent": "half of green apple next to orange", "ann_id": 1551892, "best_split": [5, 1], "split_score": 0.17926221334204762}
+{"sent": "apple close to us 6p", "ann_id": 1551892, "best_split": [1, 2], "split_score": 0.028428093644404528}
+{"sent": "600 appple", "ann_id": 1551892, "best_split": [1, 5], "split_score": 0.13730769229448964}
+{"sent": "above red apple", "ann_id": 1551767, "best_split": [3, 3], "split_score": 0.3030200203082762}
+{"sent": "between apple and orange above one with sticker", "ann_id": 1551723, "best_split": [3, 1], "split_score": 0.19594594593412487}
+{"sent": "apple 2 under red", "ann_id": 1551577, "best_split": [1, 5], "split_score": 0.19072212485560064}
+{"sent": "green apple in the 7 o clock position", "ann_id": 1551577, "best_split": [1, 3], "split_score": 0.13598750071546858}
+{"sent": "number 2 green apple next to oranges", "ann_id": 1551425, "best_split": [1, 2], "split_score": 0.08660767846106}
+{"sent": "row of all green next to red one", "ann_id": 1551425, "best_split": [1, 2], "split_score": 0.05781443900803655}
+{"sent": "orange next to orange with 2 stickers", "ann_id": 1052780, "best_split": [1, 3], "split_score": 0.18789144048983647}
+{"sent": "orange 3 o clock not the one with a sticker", "ann_id": 1052780, "best_split": [1, 3], "split_score": 0.18789144048983647}

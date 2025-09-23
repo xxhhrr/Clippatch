@@ -1,0 +1,9 @@
+{"sent": "bowl the green apples are in", "ann_id": 1898082, "best_split": [1, 2], "split_score": 0.22323336233982616}
+{"sent": "glass bowl with ridged sides", "ann_id": 1898082, "best_split": [2, 2], "split_score": 0.3204916265132975}
+{"sent": "clear glass holder", "ann_id": 1898082, "best_split": [3, 2], "split_score": 0.46173759962082034}
+{"sent": "the lone muffin also the biggest", "ann_id": 1090104, "best_split": [2, 2], "split_score": 0.2656009836869351}
+{"sent": "cookie below", "ann_id": 1090104, "best_split": [2, 2], "split_score": 0.2656009836869351}
+{"sent": "lowest cupcake", "ann_id": 1090104, "best_split": [2, 2], "split_score": 0.2656009836869351}
+{"sent": "muffin above others", "ann_id": 1928041, "best_split": [3, 3], "split_score": 0.6266760761067967}
+{"sent": "cupcake at peak nearest yellow fruit", "ann_id": 1928041, "best_split": [3, 2], "split_score": 0.4517374516829467}
+{"sent": "highest cupcake", "ann_id": 1928041, "best_split": [3, 3], "split_score": 0.6266760761067967}

@@ -1,0 +1,9 @@
+{"sent": "bear feet", "ann_id": 1996153, "best_split": [2, 3], "split_score": 0.3442048230803989}
+{"sent": "teddy bears legs", "ann_id": 1996153, "best_split": [3, 2], "split_score": 0.2770488493866523}
+{"sent": "both feet of teddy bear", "ann_id": 1996153, "best_split": [2, 3], "split_score": 0.3442048230803989}
+{"sent": "head of the bear", "ann_id": 1162241, "best_split": [3, 3], "split_score": 0.4083272460905173}
+{"sent": "face of bear", "ann_id": 1162241, "best_split": [3, 3], "split_score": 0.4083272460905173}
+{"sent": "bear head", "ann_id": 1162241, "best_split": [3, 3], "split_score": 0.4083272460905173}
+{"sent": "bears arms", "ann_id": 1161269, "best_split": [3, 2], "split_score": 0.3903598098675764}
+{"sent": "bear torso", "ann_id": 1161269, "best_split": [3, 2], "split_score": 0.3903598098675764}
+{"sent": "arm of a teddy bear", "ann_id": 1161269, "best_split": [3, 2], "split_score": 0.3903598098675764}

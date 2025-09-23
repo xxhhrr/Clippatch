@@ -1,0 +1,10 @@
+{"sent": "short phone near blue one", "ann_id": 1977653, "best_split": [3, 2], "split_score": 0.26593195971898276}
+{"sent": "shortest standing phone", "ann_id": 1977653, "best_split": [3, 2], "split_score": 0.26593195971898276}
+{"sent": "blue phone next to pink one", "ann_id": 1977341, "best_split": [1, 5], "split_score": 0.22321428569163815}
+{"sent": "phone next to pink phone", "ann_id": 1977341, "best_split": [3, 3], "split_score": 0.2168674698451383}
+{"sent": "black phone by the pink", "ann_id": 1977341, "best_split": [1, 5], "split_score": 0.22321428569163815}
+{"sent": "tallest pink phone", "ann_id": 1639078, "best_split": [3, 3], "split_score": 0.37859961988326274}
+{"sent": "pink phone", "ann_id": 1639078, "best_split": [3, 3], "split_score": 0.37859961988326274}
+{"sent": "phone closest to us", "ann_id": 1638497, "best_split": [3, 1], "split_score": 0.09504132230901455}
+{"sent": "phone closer to us like in exact same place as vase was", "ann_id": 1638497, "best_split": [2, 3], "split_score": 0.46949916918235235}
+{"sent": "red face forward", "ann_id": 1638497, "best_split": [2, 3], "split_score": 0.46949916918235235}

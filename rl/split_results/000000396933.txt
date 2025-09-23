@@ -1,0 +1,3 @@
+{"sent": "multicolored cat", "ann_id": 48863, "best_split": [2, 1], "split_score": 0.41876594386085914}
+{"sent": "stripped cat", "ann_id": 48863, "best_split": [2, 2], "split_score": 0.8375318876883345}
+{"sent": "striped cat", "ann_id": 48863, "best_split": [2, 1], "split_score": 0.41876594386085914}

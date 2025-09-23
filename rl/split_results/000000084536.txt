@@ -1,0 +1,6 @@
+{"sent": "bear bending over", "ann_id": 587137, "best_split": [2, 1], "split_score": 0.14345503825958805}
+{"sent": "bear on log", "ann_id": 587137, "best_split": [3, 1], "split_score": 0.037648511030311756}
+{"sent": "bear with head on the log", "ann_id": 587137, "best_split": [3, 1], "split_score": 0.037648511030311756}
+{"sent": "tall bear statue by upright tree", "ann_id": 586569, "best_split": [1, 2], "split_score": 0.6276705994647771}
+{"sent": "bear sitting up", "ann_id": 586569, "best_split": [1, 2], "split_score": 0.6276705994647771}
+{"sent": "the bear sitting up", "ann_id": 586569, "best_split": [1, 2], "split_score": 0.6276705994647771}

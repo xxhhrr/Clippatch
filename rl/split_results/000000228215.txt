@@ -1,0 +1,6 @@
+{"sent": "brown couch no blanket", "ann_id": 113402, "best_split": [3, 2], "split_score": 0.35339473116798087}
+{"sent": "couch thats brown", "ann_id": 113402, "best_split": [3, 2], "split_score": 0.35339473116798087}
+{"sent": "couch at 8 o clock", "ann_id": 113402, "best_split": [3, 2], "split_score": 0.35339473116798087}
+{"sent": "couch with blue cloth draped over it", "ann_id": 113304, "best_split": [3, 2], "split_score": 0.8633990409309111}
+{"sent": "furniture with blue blanket on it", "ann_id": 113304, "best_split": [3, 2], "split_score": 0.8633990409309111}
+{"sent": "chair with blanket", "ann_id": 113304, "best_split": [3, 2], "split_score": 0.8633990409309111}

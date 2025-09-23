@@ -1,0 +1,6 @@
+{"sent": "big brocoli", "ann_id": 1040333, "best_split": [3, 2], "split_score": 0.6602316601519991}
+{"sent": "a bunch of broccoli", "ann_id": 1040333, "best_split": [3, 2], "split_score": 0.6602316601519991}
+{"sent": "broccoli", "ann_id": 1040333, "best_split": [3, 2], "split_score": 0.6602316601519991}
+{"sent": "large plate with brown stuff", "ann_id": 710179, "best_split": [3, 2], "split_score": 0.7007420533059318}
+{"sent": "the meat dish", "ann_id": 710179, "best_split": [3, 2], "split_score": 0.7007420533059318}
+{"sent": "plate with brown food", "ann_id": 710179, "best_split": [3, 2], "split_score": 0.7007420533059318}

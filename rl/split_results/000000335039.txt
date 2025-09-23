@@ -1,0 +1,6 @@
+{"sent": "one not facing forward", "ann_id": 1406570, "best_split": [3, 2], "split_score": 0.27859945667377}
+{"sent": "back of head", "ann_id": 1406570, "best_split": [3, 1], "split_score": 0.5792540792299677}
+{"sent": "the sheep closest to us", "ann_id": 1406570, "best_split": [3, 1], "split_score": 0.5792540792299677}
+{"sent": "lamb looking at you", "ann_id": 62982, "best_split": [3, 2], "split_score": 0.47313947754184754}
+{"sent": "the animal looking at us", "ann_id": 62982, "best_split": [3, 2], "split_score": 0.47313947754184754}
+{"sent": "looking at us", "ann_id": 62982, "best_split": [3, 1], "split_score": 0.46781568763037956}

@@ -1,0 +1,6 @@
+{"sent": "wine glass being filled with wine", "ann_id": 664508, "best_split": [2, 3], "split_score": 0.46413307144921645}
+{"sent": "glass at tip of mans fingers", "ann_id": 664508, "best_split": [1, 5], "split_score": 0.25444777168800004}
+{"sent": "glass with wine being poured into", "ann_id": 664508, "best_split": [2, 3], "split_score": 0.46413307144921645}
+{"sent": "wine glass not being poured into", "ann_id": 661399, "best_split": [2, 3], "split_score": 0.5579339226898634}
+{"sent": "wine glass with out wine", "ann_id": 661399, "best_split": [2, 3], "split_score": 0.5579339226898634}
+{"sent": "the glass that is not filled", "ann_id": 661399, "best_split": [2, 3], "split_score": 0.5579339226898634}

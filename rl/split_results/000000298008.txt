@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 223301, "best_split": [2, 3], "split_score": 0.41567597453582555}
+{"sent": "red shirt man on bike", "ann_id": 223301, "best_split": [2, 3], "split_score": 0.41567597453582555}
+{"sent": "red shirt", "ann_id": 223301, "best_split": [2, 3], "split_score": 0.41567597453582555}
+{"sent": "man in white", "ann_id": 198598, "best_split": [3, 2], "split_score": 0.3938072716232776}
+{"sent": "white shirt white hat riding in back", "ann_id": 198598, "best_split": [3, 2], "split_score": 0.3938072716232776}
+{"sent": "guy on back", "ann_id": 198598, "best_split": [3, 2], "split_score": 0.3938072716232776}

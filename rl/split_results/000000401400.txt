@@ -1,0 +1,6 @@
+{"sent": "longer hair guy", "ann_id": 206672, "best_split": [1, 5], "split_score": 0.43762113636449956}
+{"sent": "man in plain shirt", "ann_id": 206672, "best_split": [1, 5], "split_score": 0.43762113636449956}
+{"sent": "guy in plain white shirt", "ann_id": 206672, "best_split": [1, 5], "split_score": 0.43762113636449956}
+{"sent": "black pants", "ann_id": 194841, "best_split": [2, 1], "split_score": 0.29826763744984097}
+{"sent": "guy with shorter hair", "ann_id": 194841, "best_split": [1, 2], "split_score": 0.648915816300665}
+{"sent": "man in striped shirt", "ann_id": 194841, "best_split": [1, 2], "split_score": 0.648915816300665}

@@ -1,0 +1,6 @@
+{"sent": "white plate", "ann_id": 2108676, "best_split": [3, 1], "split_score": 0.8264290790523693}
+{"sent": "white part of plate", "ann_id": 2108676, "best_split": [3, 1], "split_score": 0.8264290790523693}
+{"sent": "the portion of white plate showing at 6 o clock", "ann_id": 2108676, "best_split": [3, 1], "split_score": 0.8264290790523693}
+{"sent": "the dipping sauce in back", "ann_id": 1532583, "best_split": [2, 3], "split_score": 0.2213184931269993}
+{"sent": "white dish behind chicken", "ann_id": 1532583, "best_split": [1, 5], "split_score": 0.11742424241413359}
+{"sent": "the empty plate", "ann_id": 1532583, "best_split": [1, 2], "split_score": 0.10323791646710316}

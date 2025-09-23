@@ -1,0 +1,9 @@
+{"sent": "person u can barely see", "ann_id": 534795, "best_split": [3, 1], "split_score": 0.10234565168719044}
+{"sent": "partial person", "ann_id": 534795, "best_split": [3, 2], "split_score": 0.1890069472630765}
+{"sent": "dude 3", "ann_id": 534795, "best_split": [3, 1], "split_score": 0.10234565168719044}
+{"sent": "dude with the white shirt", "ann_id": 532731, "best_split": [1, 2], "split_score": 0.7885304659245862}
+{"sent": "man in white", "ann_id": 532731, "best_split": [1, 2], "split_score": 0.7885304659245862}
+{"sent": "blond man", "ann_id": 532731, "best_split": [1, 2], "split_score": 0.7885304659245862}
+{"sent": "dark gray shirt", "ann_id": 515608, "best_split": [2, 1], "split_score": 0.28350243076824394}
+{"sent": "gray shirt", "ann_id": 515608, "best_split": [2, 1], "split_score": 0.28350243076824394}
+{"sent": "man in blue", "ann_id": 515608, "best_split": [1, 3], "split_score": 0.42695348670037203}

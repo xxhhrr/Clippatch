@@ -1,0 +1,6 @@
+{"sent": "stache", "ann_id": 2159924, "best_split": [1, 3], "split_score": 0.5457227138425527}
+{"sent": "man with facial hair", "ann_id": 2159924, "best_split": [1, 3], "split_score": 0.5457227138425527}
+{"sent": "man closest to banana", "ann_id": 2159924, "best_split": [1, 2], "split_score": 0.4473112355630854}
+{"sent": "man without glasses", "ann_id": 503083, "best_split": [2, 1], "split_score": 0.23445333014339778}
+{"sent": "the creeper with short hair", "ann_id": 503083, "best_split": [2, 1], "split_score": 0.23445333014339778}
+{"sent": "guy without glasses", "ann_id": 503083, "best_split": [2, 1], "split_score": 0.23445333014339778}

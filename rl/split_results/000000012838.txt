@@ -1,0 +1,15 @@
+{"sent": "green shirt", "ann_id": 1680271, "best_split": [3, 1], "split_score": 0.10802077321938715}
+{"sent": "the cut off gray shirt", "ann_id": 1680271, "best_split": [2, 1], "split_score": 0.1046715561182768}
+{"sent": "dark gray shirt can barely see this person", "ann_id": 1680271, "best_split": [2, 3], "split_score": 0.3168436293054001}
+{"sent": "person in brown shirt and green pants its okay", "ann_id": 1289924, "best_split": [3, 2], "split_score": 0.6810856657462802}
+{"sent": "person holding camera in gray brown shirt", "ann_id": 1289924, "best_split": [3, 2], "split_score": 0.6810856657462802}
+{"sent": "man holding a gun", "ann_id": 1289924, "best_split": [2, 2], "split_score": 0.6033163264825162}
+{"sent": "person in red shirt", "ann_id": 1257460, "best_split": [3, 3], "split_score": 0.3769781775150794}
+{"sent": "red shirt", "ann_id": 1257460, "best_split": [3, 3], "split_score": 0.3769781775150794}
+{"sent": "red shirt blue jeans", "ann_id": 1257460, "best_split": [3, 3], "split_score": 0.3769781775150794}
+{"sent": "white shirt other table", "ann_id": 1239038, "best_split": [3, 1], "split_score": 0.11383417315099248}
+{"sent": "white shirt head cut off", "ann_id": 1239038, "best_split": [3, 1], "split_score": 0.11383417315099248}
+{"sent": "gray shirt sitting next row", "ann_id": 1239038, "best_split": [1, 2], "split_score": 0.30847417090607165}
+{"sent": "guy closer to us", "ann_id": 1222683, "best_split": [2, 1], "split_score": 0.4564511620808744}
+{"sent": "guy closest", "ann_id": 1222683, "best_split": [2, 1], "split_score": 0.4564511620808744}
+{"sent": "man with t shirt with writing on it", "ann_id": 1222683, "best_split": [1, 2], "split_score": 0.5677158065131286}

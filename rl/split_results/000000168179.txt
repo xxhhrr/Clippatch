@@ -1,0 +1,5 @@
+{"sent": "elephant tail face 7 oclock", "ann_id": 585629, "best_split": [2, 1], "split_score": 0.3603169396058362}
+{"sent": "tail not swinging", "ann_id": 585629, "best_split": [1, 2], "split_score": 0.8418750853887564}
+{"sent": "taqil swinging", "ann_id": 583507, "best_split": [1, 3], "split_score": 0.35998914058821785}
+{"sent": "elephant with curled tail", "ann_id": 583507, "best_split": [1, 2], "split_score": 0.8439757792319557}
+{"sent": "an elephants back end", "ann_id": 583507, "best_split": [1, 2], "split_score": 0.8439757792319557}

@@ -1,0 +1,5 @@
+{"sent": "blue shirt sitting in chair", "ann_id": 2156463, "best_split": [3, 3], "split_score": 0.3594676927433914}
+{"sent": "blue shirt woman back", "ann_id": 2156463, "best_split": [5, 1], "split_score": 0.15399802565251744}
+{"sent": "girl", "ann_id": 439057, "best_split": [1, 2], "split_score": 0.7205278415049967}
+{"sent": "girl", "ann_id": 439057, "best_split": [1, 2], "split_score": 0.7205278415049967}
+{"sent": "woman with hot dog", "ann_id": 439057, "best_split": [1, 2], "split_score": 0.7205278415049967}

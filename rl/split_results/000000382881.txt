@@ -1,0 +1,11 @@
+{"sent": "blue", "ann_id": 1214224, "best_split": [3, 2], "split_score": 0.5552872174784124}
+{"sent": "girl in blue", "ann_id": 1214224, "best_split": [3, 2], "split_score": 0.5552872174784124}
+{"sent": "girl in blue", "ann_id": 1214224, "best_split": [3, 2], "split_score": 0.5552872174784124}
+{"sent": "girl in pink", "ann_id": 511044, "best_split": [1, 2], "split_score": 0.5683593749773453}
+{"sent": "little girl in pink", "ann_id": 511044, "best_split": [1, 2], "split_score": 0.5683593749773453}
+{"sent": "pink jacket", "ann_id": 511044, "best_split": [1, 2], "split_score": 0.5683593749773453}
+{"sent": "black shirt next to girl with blue jacket", "ann_id": 1710308, "best_split": [3, 2], "split_score": 0.22149837130973726}
+{"sent": "black near girl in light blue", "ann_id": 1710308, "best_split": [3, 2], "split_score": 0.22149837130973726}
+{"sent": "mom", "ann_id": 476957, "best_split": [1, 5], "split_score": 0.574066558383313}
+{"sent": "the adult", "ann_id": 476957, "best_split": [1, 5], "split_score": 0.574066558383313}
+{"sent": "woman", "ann_id": 476957, "best_split": [1, 5], "split_score": 0.574066558383313}

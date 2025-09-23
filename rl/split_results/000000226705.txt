@@ -1,0 +1,6 @@
+{"sent": "back of white car", "ann_id": 244191, "best_split": [3, 3], "split_score": 0.22580645157979376}
+{"sent": "rear of white care driving away from camera", "ann_id": 244191, "best_split": [1, 5], "split_score": 0.14857554993251212}
+{"sent": "white suv obscured by other vehiclwe", "ann_id": 244191, "best_split": [3, 3], "split_score": 0.22580645157979376}
+{"sent": "car with tan stipe", "ann_id": 139918, "best_split": [2, 3], "split_score": 0.8769451758586371}
+{"sent": "old wooden car", "ann_id": 139918, "best_split": [2, 3], "split_score": 0.8769451758586371}
+{"sent": "car wheel", "ann_id": 139918, "best_split": [2, 2], "split_score": 0.5809674860760533}

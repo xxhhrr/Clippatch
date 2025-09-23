@@ -1,0 +1,5 @@
+{"sent": "broccoli at 9 oclock", "ann_id": 1058695, "best_split": [3, 1], "split_score": 0.3371147833703834}
+{"sent": "broc on side of plate with sauce", "ann_id": 1058695, "best_split": [3, 1], "split_score": 0.3371147833703834}
+{"sent": "bunch on the spoon", "ann_id": 1057589, "best_split": [1, 2], "split_score": 0.5249511498374811}
+{"sent": "broccoli on spoon", "ann_id": 1057589, "best_split": [1, 2], "split_score": 0.5249511498374811}
+{"sent": "brocolli farthest from coffee", "ann_id": 1057589, "best_split": [1, 2], "split_score": 0.5249511498374811}

@@ -1,0 +1,4 @@
+{"sent": "red umbrella closest to viewer in corner", "ann_id": 284172, "best_split": [3, 3], "split_score": 0.9004834137522114}
+{"sent": "11 o clock red umbrella", "ann_id": 284172, "best_split": [3, 3], "split_score": 0.9004834137522114}
+{"sent": "whole red umbrella", "ann_id": 280788, "best_split": [1, 3], "split_score": 0.422679872115355}
+{"sent": "the red umbrella above the man smoking", "ann_id": 280788, "best_split": [1, 3], "split_score": 0.422679872115355}

@@ -1,0 +1,6 @@
+{"sent": "screen above coffee cup", "ann_id": 1969267, "best_split": [1, 5], "split_score": 0.3110307413823661}
+{"sent": "news report", "ann_id": 1969267, "best_split": [2, 2], "split_score": 0.3702168367051804}
+{"sent": "screen with two people", "ann_id": 1969267, "best_split": [2, 2], "split_score": 0.3702168367051804}
+{"sent": "monitor at 12 o clock with keyboard", "ann_id": 1625914, "best_split": [3, 3], "split_score": 0.3161434977224054}
+{"sent": "monitor above keyboard", "ann_id": 1625914, "best_split": [3, 3], "split_score": 0.3161434977224054}
+{"sent": "screen with game on it", "ann_id": 1625914, "best_split": [2, 3], "split_score": 0.3845861084315332}

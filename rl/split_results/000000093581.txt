@@ -1,0 +1,5 @@
+{"sent": "green vegetables", "ann_id": 1561812, "best_split": [3, 1], "split_score": 0.3502720348109284}
+{"sent": "broccoli closest to edge", "ann_id": 1561812, "best_split": [3, 1], "split_score": 0.3502720348109284}
+{"sent": "broccoli at 3 o clock", "ann_id": 1561736, "best_split": [3, 3], "split_score": 0.44950645400537753}
+{"sent": "broccoli piece with gravy and gravy drip on plate", "ann_id": 1561425, "best_split": [2, 3], "split_score": 0.2592373981514299}
+{"sent": "broccoli with a dot of sauce falling", "ann_id": 1561425, "best_split": [2, 3], "split_score": 0.2592373981514299}

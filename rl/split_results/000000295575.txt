@@ -1,0 +1,5 @@
+{"sent": "person that is watching", "ann_id": 546093, "best_split": [1, 5], "split_score": 0.4287780884917757}
+{"sent": "man standing alone at side", "ann_id": 546093, "best_split": [1, 5], "split_score": 0.4287780884917757}
+{"sent": "guy with racket on his back", "ann_id": 437841, "best_split": [1, 5], "split_score": 0.3101945003093398}
+{"sent": "player facing away in beige pants and black jacket", "ann_id": 437841, "best_split": [2, 2], "split_score": 0.17515719234087276}
+{"sent": "boy with long beige pants", "ann_id": 437841, "best_split": [3, 2], "split_score": 0.25827814567225005}

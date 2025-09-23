@@ -1,0 +1,15 @@
+{"sent": "person in line slightly in view", "ann_id": 1717325, "best_split": [2, 1], "split_score": 0.08524614362369008}
+{"sent": "partially visible person 9 0 clock", "ann_id": 1717325, "best_split": [1, 2], "split_score": 0.1721938775441568}
+{"sent": "the person next to the one with the hat that is complete covered", "ann_id": 1717325, "best_split": [1, 2], "split_score": 0.1721938775441568}
+{"sent": "fatty wearing pink shirt button", "ann_id": 510240, "best_split": [2, 3], "split_score": 0.41228281848307397}
+{"sent": "purple shirt guy behind capped guy", "ann_id": 510240, "best_split": [3, 2], "split_score": 0.2328839266660118}
+{"sent": "man in purple shirt wating on line", "ann_id": 510240, "best_split": [3, 3], "split_score": 0.6239956171249095}
+{"sent": "man with arms crossed", "ann_id": 2155357, "best_split": [2, 1], "split_score": 0.15310282348810572}
+{"sent": "guy in black t shirt with arms crossed", "ann_id": 2155357, "best_split": [1, 5], "split_score": 0.49046321521112657}
+{"sent": "arms folded eagle emblem", "ann_id": 2155357, "best_split": [2, 1], "split_score": 0.15310282348810572}
+{"sent": "guy in blue dress shirt", "ann_id": 486659, "best_split": [3, 3], "split_score": 0.6866015970387574}
+{"sent": "man with blue shirt not tshirt in background", "ann_id": 486659, "best_split": [3, 3], "split_score": 0.6866015970387574}
+{"sent": "ban in blue button up shirt", "ann_id": 486659, "best_split": [3, 3], "split_score": 0.6866015970387574}
+{"sent": "girl getting food", "ann_id": 429106, "best_split": [1, 2], "split_score": 0.6908191151233171}
+{"sent": "pink shirt", "ann_id": 429106, "best_split": [1, 2], "split_score": 0.6908191151233171}
+{"sent": "lady with food", "ann_id": 429106, "best_split": [1, 2], "split_score": 0.6908191151233171}

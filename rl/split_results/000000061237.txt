@@ -1,0 +1,5 @@
+{"sent": "bench arm", "ann_id": 2063199, "best_split": [1, 2], "split_score": 0.8957257107528517}
+{"sent": "ornate bench arm", "ann_id": 2063199, "best_split": [1, 2], "split_score": 0.8957257107528517}
+{"sent": "empty spot near the cat", "ann_id": 573924, "best_split": [3, 2], "split_score": 0.30956919554807766}
+{"sent": "hcoucc", "ann_id": 573924, "best_split": [1, 5], "split_score": 0.37021124235855607}
+{"sent": "bench part 3 o clock from cat", "ann_id": 573924, "best_split": [2, 3], "split_score": 0.45427603720848053}

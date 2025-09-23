@@ -1,0 +1,6 @@
+{"sent": "girl gray polka dot shirt", "ann_id": 567609, "best_split": [1, 5], "split_score": 0.7364042207045044}
+{"sent": "polka dot shirt", "ann_id": 567609, "best_split": [1, 5], "split_score": 0.7364042207045044}
+{"sent": "standing girl", "ann_id": 567609, "best_split": [1, 5], "split_score": 0.7364042207045044}
+{"sent": "girl i think looking at hands", "ann_id": 442208, "best_split": [1, 5], "split_score": 0.4968818472529174}
+{"sent": "hands", "ann_id": 442208, "best_split": [2, 1], "split_score": 0.1842360288509301}
+{"sent": "girl doing nails in black sitting down", "ann_id": 442208, "best_split": [1, 5], "split_score": 0.4968818472529174}

@@ -1,0 +1,6 @@
+{"sent": "tan comp", "ann_id": 1104304, "best_split": [1, 3], "split_score": 0.39642857140644927}
+{"sent": "yellow screen", "ann_id": 1104304, "best_split": [3, 3], "split_score": 0.6482007574990293}
+{"sent": "full screen laptop", "ann_id": 1104304, "best_split": [3, 1], "split_score": 0.3517718236629337}
+{"sent": "dark electronic", "ann_id": 1101303, "best_split": [3, 2], "split_score": 0.722190638552}
+{"sent": "laptop with black background", "ann_id": 1101303, "best_split": [3, 2], "split_score": 0.722190638552}
+{"sent": "comp 2", "ann_id": 1101303, "best_split": [3, 1], "split_score": 0.40452181294955303}

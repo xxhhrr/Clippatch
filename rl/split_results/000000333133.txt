@@ -1,0 +1,6 @@
+{"sent": "cow at edge", "ann_id": 2177141, "best_split": [1, 5], "split_score": 0.630752833966597}
+{"sent": "cut off cow", "ann_id": 2177141, "best_split": [1, 5], "split_score": 0.630752833966597}
+{"sent": "the half of the cows body his ass", "ann_id": 2177141, "best_split": [1, 5], "split_score": 0.630752833966597}
+{"sent": "full cow", "ann_id": 69931, "best_split": [3, 2], "split_score": 0.3926613714741401}
+{"sent": "cow entirely visible", "ann_id": 69931, "best_split": [3, 2], "split_score": 0.3926613714741401}
+{"sent": "animal eating grass", "ann_id": 69931, "best_split": [3, 2], "split_score": 0.3926613714741401}

@@ -1,0 +1,12 @@
+{"sent": "calzone not on tray", "ann_id": 1554480, "best_split": [2, 2], "split_score": 0.3652946678854619}
+{"sent": "sandwich showing food inside", "ann_id": 1554480, "best_split": [2, 3], "split_score": 0.5348460291115019}
+{"sent": "sandwich by coins", "ann_id": 1554480, "best_split": [2, 3], "split_score": 0.5348460291115019}
+{"sent": "nearest cup", "ann_id": 1513029, "best_split": [1, 5], "split_score": 0.20339947948898832}
+{"sent": "cup with the drinker not shown", "ann_id": 1513029, "best_split": [3, 3], "split_score": 0.4750778815526652}
+{"sent": "half a lid with straw", "ann_id": 1513029, "best_split": [1, 5], "split_score": 0.20339947948898832}
+{"sent": "cup by gray shirt", "ann_id": 1504731, "best_split": [2, 3], "split_score": 0.5410697229535495}
+{"sent": "shake by gray shirt", "ann_id": 1504731, "best_split": [2, 2], "split_score": 0.358771374259122}
+{"sent": "cup closer to coins and lone sandwich half", "ann_id": 1504731, "best_split": [1, 3], "split_score": 0.2787162161994018}
+{"sent": "the milkshake thing in the back", "ann_id": 672887, "best_split": [3, 3], "split_score": 0.4787754457189876}
+{"sent": "milkshake closer to the tray", "ann_id": 672887, "best_split": [3, 3], "split_score": 0.4787754457189876}
+{"sent": "cup next to black shirt", "ann_id": 672887, "best_split": [3, 3], "split_score": 0.4787754457189876}

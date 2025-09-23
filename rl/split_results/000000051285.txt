@@ -1,0 +1,7 @@
+{"sent": "guy", "ann_id": 1201148, "best_split": [1, 2], "split_score": 0.5229263266150308}
+{"sent": "lady with headband", "ann_id": 1201148, "best_split": [1, 5], "split_score": 0.37940057086230966}
+{"sent": "girl with pants", "ann_id": 1201148, "best_split": [2, 1], "split_score": 0.2517263843566213}
+{"sent": "white headband girl", "ann_id": 1201148, "best_split": [1, 2], "split_score": 0.5229263266150308}
+{"sent": "white dress", "ann_id": 448818, "best_split": [1, 2], "split_score": 0.7182596017067007}
+{"sent": "white dress", "ann_id": 448818, "best_split": [1, 2], "split_score": 0.7182596017067007}
+{"sent": "girl in skirt", "ann_id": 448818, "best_split": [1, 2], "split_score": 0.7182596017067007}

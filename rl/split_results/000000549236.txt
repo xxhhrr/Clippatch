@@ -1,0 +1,6 @@
+{"sent": "blurry dog", "ann_id": 16191, "best_split": [3, 1], "split_score": 0.25716759667802735}
+{"sent": "white dog out of focus", "ann_id": 16191, "best_split": [2, 1], "split_score": 0.2590304527851214}
+{"sent": "animal near tv", "ann_id": 16191, "best_split": [1, 3], "split_score": 0.11028974423866557}
+{"sent": "dog by us", "ann_id": 9251, "best_split": [1, 2], "split_score": 0.775589923438473}
+{"sent": "brown dog", "ann_id": 9251, "best_split": [1, 2], "split_score": 0.775589923438473}
+{"sent": "dog with red collar close", "ann_id": 9251, "best_split": [1, 2], "split_score": 0.775589923438473}

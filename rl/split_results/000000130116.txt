@@ -1,0 +1,6 @@
+{"sent": "couch at 800", "ann_id": 291143, "best_split": [3, 2], "split_score": 0.621621621546619}
+{"sent": "sofa half seen", "ann_id": 291143, "best_split": [3, 1], "split_score": 0.31081081079206013}
+{"sent": "couch in 700 corner", "ann_id": 291143, "best_split": [3, 3], "split_score": 0.6391116593708958}
+{"sent": "sofa", "ann_id": 291070, "best_split": [2, 3], "split_score": 0.8021253984269792}
+{"sent": "couch at 400", "ann_id": 291070, "best_split": [2, 3], "split_score": 0.8021253984269792}
+{"sent": "white covered chair near pink item", "ann_id": 291070, "best_split": [2, 3], "split_score": 0.8021253984269792}

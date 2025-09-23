@@ -1,0 +1,6 @@
+{"sent": "black and white dog", "ann_id": 15349, "best_split": [2, 3], "split_score": 0.38892609953238155}
+{"sent": "dog sitting not lying down", "ann_id": 15349, "best_split": [2, 3], "split_score": 0.38892609953238155}
+{"sent": "sitting dog", "ann_id": 15349, "best_split": [2, 3], "split_score": 0.38892609953238155}
+{"sent": "closest dog", "ann_id": 4765, "best_split": [3, 1], "split_score": 0.6420736698148937}
+{"sent": "black dog closer to plate", "ann_id": 4765, "best_split": [3, 1], "split_score": 0.6420736698148937}
+{"sent": "black dog panting", "ann_id": 4765, "best_split": [3, 1], "split_score": 0.6420736698148937}

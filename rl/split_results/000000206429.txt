@@ -1,0 +1,6 @@
+{"sent": "largest giraffe sitting down", "ann_id": 598453, "best_split": [1, 2], "split_score": 0.6307692307473746}
+{"sent": "giraffe thats sitting", "ann_id": 598453, "best_split": [1, 2], "split_score": 0.6307692307473746}
+{"sent": "big giraffe", "ann_id": 598453, "best_split": [1, 2], "split_score": 0.6307692307473746}
+{"sent": "gif bending", "ann_id": 597279, "best_split": [3, 2], "split_score": 0.5050991728495062}
+{"sent": "the bending one", "ann_id": 597279, "best_split": [1, 5], "split_score": 0.36324585540215815}
+{"sent": "standing giraffe", "ann_id": 597279, "best_split": [1, 5], "split_score": 0.36324585540215815}

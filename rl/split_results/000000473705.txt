@@ -1,0 +1,6 @@
+{"sent": "not the biggest but you can see it all", "ann_id": 576975, "best_split": [2, 2], "split_score": 0.14533607194947687}
+{"sent": "bench that is surrounded by five other benches", "ann_id": 576975, "best_split": [3, 2], "split_score": 0.3311361858640223}
+{"sent": "center bench", "ann_id": 576975, "best_split": [3, 2], "split_score": 0.3311361858640223}
+{"sent": "table on slab", "ann_id": 573120, "best_split": [2, 2], "split_score": 0.6381370712074067}
+{"sent": "nearest table", "ann_id": 573120, "best_split": [2, 2], "split_score": 0.6381370712074067}
+{"sent": "bench in forefront", "ann_id": 573120, "best_split": [2, 2], "split_score": 0.6381370712074067}

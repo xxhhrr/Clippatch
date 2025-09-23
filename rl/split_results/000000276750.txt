@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 436180, "best_split": [2, 1], "split_score": 0.07784431137481773}
+{"sent": "happy lady", "ann_id": 436180, "best_split": [2, 2], "split_score": 0.41264035929338205}
+{"sent": "lady", "ann_id": 436180, "best_split": [1, 2], "split_score": 0.3380827009316214}
+{"sent": "man", "ann_id": 432137, "best_split": [1, 5], "split_score": 0.4932352940813797}
+{"sent": "man", "ann_id": 432137, "best_split": [1, 5], "split_score": 0.4932352940813797}
+{"sent": "guy", "ann_id": 432137, "best_split": [1, 5], "split_score": 0.4932352940813797}

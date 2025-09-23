@@ -1,0 +1,5 @@
+{"sent": "elephant on our side of arch but not closest", "ann_id": 583055, "best_split": [5, 1], "split_score": 0.16256157634037988}
+{"sent": "elephant next", "ann_id": 583055, "best_split": [5, 1], "split_score": 0.16256157634037988}
+{"sent": "closest elephant", "ann_id": 582610, "best_split": [1, 2], "split_score": 0.5847417091603658}
+{"sent": "lead elephant", "ann_id": 582610, "best_split": [1, 2], "split_score": 0.5847417091603658}
+{"sent": "nearest elephant", "ann_id": 582610, "best_split": [1, 2], "split_score": 0.5847417091603658}

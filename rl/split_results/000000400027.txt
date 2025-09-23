@@ -1,0 +1,6 @@
+{"sent": "small gray elephant with tusk showing", "ann_id": 581282, "best_split": [2, 3], "split_score": 0.29962366107308464}
+{"sent": "elephant with tusk by the tree and baby elephant", "ann_id": 581282, "best_split": [2, 3], "split_score": 0.29962366107308464}
+{"sent": "elephant standing highest in water", "ann_id": 581282, "best_split": [5, 1], "split_score": 0.27640067909368415}
+{"sent": "elephant with branch blocking face", "ann_id": 580338, "best_split": [3, 3], "split_score": 0.8763949947791012}
+{"sent": "nearest us", "ann_id": 580338, "best_split": [3, 1], "split_score": 0.3159236423810811}
+{"sent": "rightiest one", "ann_id": 580338, "best_split": [2, 1], "split_score": 0.09075087021060059}

@@ -1,0 +1,6 @@
+{"sent": "giraffe with eyes closed", "ann_id": 595436, "best_split": [3, 1], "split_score": 0.3646541000686703}
+{"sent": "giraffe looking down", "ann_id": 595436, "best_split": [3, 1], "split_score": 0.3646541000686703}
+{"sent": "eyes closed", "ann_id": 595436, "best_split": [3, 2], "split_score": 0.3919383683868525}
+{"sent": "hes looking at us", "ann_id": 595368, "best_split": [2, 2], "split_score": 0.6292080275879797}
+{"sent": "mean mugging giraffe", "ann_id": 595368, "best_split": [1, 2], "split_score": 0.7037228953801131}
+{"sent": "looking at us", "ann_id": 595368, "best_split": [1, 2], "split_score": 0.7037228953801131}

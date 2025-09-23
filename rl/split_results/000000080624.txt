@@ -1,0 +1,5 @@
+{"sent": "pizza being finished", "ann_id": 1571402, "best_split": [3, 1], "split_score": 0.3284869690921521}
+{"sent": "cheese pile being added to", "ann_id": 1571402, "best_split": [3, 2], "split_score": 0.6569739381446701}
+{"sent": "pizza being topped", "ann_id": 1571402, "best_split": [3, 1], "split_score": 0.3284869690921521}
+{"sent": "two pieces of pepperoni", "ann_id": 1570761, "best_split": [3, 2], "split_score": 0.5944954127758606}
+{"sent": "slices of pepperoni", "ann_id": 1570761, "best_split": [3, 2], "split_score": 0.5944954127758606}

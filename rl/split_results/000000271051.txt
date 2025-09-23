@@ -1,0 +1,6 @@
+{"sent": "bed with blue duffle bag", "ann_id": 318351, "best_split": [1, 2], "split_score": 0.6518430084818743}
+{"sent": "the bed with the blue bag on it", "ann_id": 318351, "best_split": [1, 2], "split_score": 0.6518430084818743}
+{"sent": "bed with the dufflebag on it", "ann_id": 318351, "best_split": [1, 2], "split_score": 0.6518430084818743}
+{"sent": "the bed nearer the suitcase", "ann_id": 318125, "best_split": [3, 1], "split_score": 0.47841763673233656}
+{"sent": "bed furthest from camera", "ann_id": 318125, "best_split": [3, 1], "split_score": 0.47841763673233656}
+{"sent": "bed behind luggage", "ann_id": 318125, "best_split": [3, 1], "split_score": 0.47841763673233656}

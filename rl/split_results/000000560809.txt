@@ -1,0 +1,6 @@
+{"sent": "bed furthest from us", "ann_id": 319433, "best_split": [2, 1], "split_score": 0.41032963157375885}
+{"sent": "bed near window", "ann_id": 319433, "best_split": [1, 2], "split_score": 0.44963038119837545}
+{"sent": "bed next to glass door", "ann_id": 319433, "best_split": [2, 2], "split_score": 0.544605692398211}
+{"sent": "bigger bed", "ann_id": 319146, "best_split": [2, 1], "split_score": 0.6446160806410091}
+{"sent": "bed farthest from window", "ann_id": 319146, "best_split": [2, 1], "split_score": 0.6446160806410091}
+{"sent": "bed closet to us", "ann_id": 319146, "best_split": [2, 1], "split_score": 0.6446160806410091}

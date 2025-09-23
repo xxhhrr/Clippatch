@@ -1,0 +1,5 @@
+{"sent": "camo vehicle", "ann_id": 1773299, "best_split": [3, 2], "split_score": 0.38008867388350576}
+{"sent": "car with grafitti", "ann_id": 1773299, "best_split": [3, 2], "split_score": 0.38008867388350576}
+{"sent": "car", "ann_id": 1773299, "best_split": [3, 2], "split_score": 0.38008867388350576}
+{"sent": "back end of car under brake service sign", "ann_id": 243286, "best_split": [1, 5], "split_score": 0.26084367243068546}
+{"sent": "car with license plate showing", "ann_id": 243286, "best_split": [1, 5], "split_score": 0.26084367243068546}

@@ -1,0 +1,6 @@
+{"sent": "big lamb", "ann_id": 65098, "best_split": [3, 1], "split_score": 0.4331147309627983}
+{"sent": "mama sheep", "ann_id": 65098, "best_split": [3, 1], "split_score": 0.4331147309627983}
+{"sent": "mama sheep", "ann_id": 65098, "best_split": [3, 1], "split_score": 0.4331147309627983}
+{"sent": "smallest animal", "ann_id": 63476, "best_split": [3, 1], "split_score": 0.28346456691518385}
+{"sent": "baby", "ann_id": 63476, "best_split": [2, 3], "split_score": 0.45335729452267953}
+{"sent": "smaller one", "ann_id": 63476, "best_split": [2, 1], "split_score": 0.26285046728012373}

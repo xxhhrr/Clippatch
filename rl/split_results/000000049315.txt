@@ -1,0 +1,6 @@
+{"sent": "cut off table", "ann_id": 1958959, "best_split": [3, 3], "split_score": 0.7454422686115053}
+{"sent": "tabletop cut off by pictures edge but not the one closest to portrait", "ann_id": 1958959, "best_split": [3, 3], "split_score": 0.7454422686115053}
+{"sent": "smaller table closer to camera", "ann_id": 1958959, "best_split": [3, 3], "split_score": 0.7454422686115053}
+{"sent": "table closest to us", "ann_id": 391099, "best_split": [3, 1], "split_score": 0.31554778043321957}
+{"sent": "table with bench seats", "ann_id": 391099, "best_split": [3, 1], "split_score": 0.31554778043321957}
+{"sent": "the table closest to us", "ann_id": 391099, "best_split": [3, 1], "split_score": 0.31554778043321957}

@@ -1,0 +1,6 @@
+{"sent": "suv parked by trash can", "ann_id": 364177, "best_split": [3, 2], "split_score": 0.42850872375414145}
+{"sent": "partial suv", "ann_id": 364177, "best_split": [3, 2], "split_score": 0.42850872375414145}
+{"sent": "black suv", "ann_id": 364177, "best_split": [3, 2], "split_score": 0.42850872375414145}
+{"sent": "gray car", "ann_id": 358097, "best_split": [1, 3], "split_score": 0.55533959612594}
+{"sent": "car", "ann_id": 358097, "best_split": [1, 3], "split_score": 0.55533959612594}
+{"sent": "silver car", "ann_id": 358097, "best_split": [1, 3], "split_score": 0.55533959612594}

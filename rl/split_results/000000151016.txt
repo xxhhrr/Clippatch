@@ -1,0 +1,9 @@
+{"sent": "black head", "ann_id": 1299192, "best_split": [3, 2], "split_score": 0.6912804398281583}
+{"sent": "hair of person", "ann_id": 1299192, "best_split": [3, 2], "split_score": 0.6912804398281583}
+{"sent": "the black furry next to cake", "ann_id": 1299192, "best_split": [2, 1], "split_score": 0.2703683035606518}
+{"sent": "person in white", "ann_id": 1292999, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "foot above cake", "ann_id": 1292999, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "just legs with white shoes", "ann_id": 1292999, "best_split": [3, 3], "split_score": 0.7381829342022432}
+{"sent": "hand holding knife", "ann_id": 1206041, "best_split": [3, 3], "split_score": 0.5563825827370819}
+{"sent": "hand cutting cake", "ann_id": 1206041, "best_split": [3, 3], "split_score": 0.5563825827370819}
+{"sent": "hand cutting cake", "ann_id": 1206041, "best_split": [3, 3], "split_score": 0.5563825827370819}

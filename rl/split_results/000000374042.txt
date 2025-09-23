@@ -1,0 +1,6 @@
+{"sent": "white bench", "ann_id": 575245, "best_split": [1, 5], "split_score": 0.2821576763219391}
+{"sent": "bench barely visibile", "ann_id": 575245, "best_split": [2, 3], "split_score": 0.439444710335155}
+{"sent": "empty bench", "ann_id": 575245, "best_split": [2, 3], "split_score": 0.439444710335155}
+{"sent": "bench with stuff on it but not the stuff", "ann_id": 574905, "best_split": [5, 1], "split_score": 0.5594855305057377}
+{"sent": "bench with bags", "ann_id": 574905, "best_split": [5, 1], "split_score": 0.5594855305057377}
+{"sent": "bench", "ann_id": 574905, "best_split": [5, 1], "split_score": 0.5594855305057377}

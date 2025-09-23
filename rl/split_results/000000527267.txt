@@ -1,0 +1,6 @@
+{"sent": "solid green shirt not facing us", "ann_id": 1734096, "best_split": [2, 1], "split_score": 0.5186414461857171}
+{"sent": "girl not facing us", "ann_id": 1734096, "best_split": [2, 1], "split_score": 0.14435568073854854}
+{"sent": "close green shirt", "ann_id": 1734096, "best_split": [1, 2], "split_score": 0.5576414595267833}
+{"sent": "crazy lady with fruit", "ann_id": 521181, "best_split": [1, 2], "split_score": 0.7074298469105775}
+{"sent": "woman in plaid", "ann_id": 521181, "best_split": [1, 2], "split_score": 0.7074298469105775}
+{"sent": "person with green bananas", "ann_id": 521181, "best_split": [1, 2], "split_score": 0.7074298469105775}

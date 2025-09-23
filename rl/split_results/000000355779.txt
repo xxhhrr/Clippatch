@@ -1,0 +1,6 @@
+{"sent": "dog", "ann_id": 192293, "best_split": [1, 3], "split_score": 0.6870748298965639}
+{"sent": "black shirt", "ann_id": 192293, "best_split": [1, 3], "split_score": 0.6870748298965639}
+{"sent": "lady holding cat", "ann_id": 192293, "best_split": [1, 3], "split_score": 0.6870748298965639}
+{"sent": "pink skirt", "ann_id": 185773, "best_split": [1, 3], "split_score": 0.7783701874072079}
+{"sent": "bent over lady", "ann_id": 185773, "best_split": [1, 3], "split_score": 0.7783701874072079}
+{"sent": "woman bending", "ann_id": 185773, "best_split": [1, 3], "split_score": 0.7783701874072079}

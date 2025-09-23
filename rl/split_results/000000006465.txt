@@ -1,0 +1,6 @@
+{"sent": "green blob", "ann_id": 251872, "best_split": [3, 3], "split_score": 0.7545617172174308}
+{"sent": "green next to plate", "ann_id": 251872, "best_split": [3, 3], "split_score": 0.7545617172174308}
+{"sent": "faintly striped thing next to hands", "ann_id": 251872, "best_split": [5, 1], "split_score": 0.30837329395902124}
+{"sent": "hands", "ann_id": 186717, "best_split": [2, 2], "split_score": 0.7256338027658005}
+{"sent": "hands", "ann_id": 186717, "best_split": [2, 2], "split_score": 0.7256338027658005}
+{"sent": "hands", "ann_id": 186717, "best_split": [2, 2], "split_score": 0.7256338027658005}

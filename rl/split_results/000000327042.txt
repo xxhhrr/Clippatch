@@ -1,0 +1,9 @@
+{"sent": "guy with d on shirt", "ann_id": 1720820, "best_split": [3, 1], "split_score": 0.1558988763966744}
+{"sent": "man in d", "ann_id": 1720820, "best_split": [3, 1], "split_score": 0.1558988763966744}
+{"sent": "man with d", "ann_id": 1720820, "best_split": [3, 1], "split_score": 0.1558988763966744}
+{"sent": "16", "ann_id": 520971, "best_split": [1, 3], "split_score": 0.6529497882858011}
+{"sent": "lady with blue", "ann_id": 520971, "best_split": [1, 2], "split_score": 0.46904852325468}
+{"sent": "girl in blue shirt", "ann_id": 520971, "best_split": [1, 3], "split_score": 0.6529497882858011}
+{"sent": "white", "ann_id": 433046, "best_split": [1, 2], "split_score": 0.8326998732802328}
+{"sent": "woman in white", "ann_id": 433046, "best_split": [1, 2], "split_score": 0.8326998732802328}
+{"sent": "whitish shirt reading teabags", "ann_id": 433046, "best_split": [1, 2], "split_score": 0.8326998732802328}

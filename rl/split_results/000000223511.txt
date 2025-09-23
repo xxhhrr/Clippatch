@@ -1,0 +1,9 @@
+{"sent": "brownest cow", "ann_id": 76984, "best_split": [3, 2], "split_score": 0.3057158410118981}
+{"sent": "brown cow", "ann_id": 76984, "best_split": [3, 2], "split_score": 0.3057158410118981}
+{"sent": "dark brown cow", "ann_id": 76984, "best_split": [3, 2], "split_score": 0.3057158410118981}
+{"sent": "light brown cow behind white one", "ann_id": 75928, "best_split": [1, 3], "split_score": 0.42745918792685395}
+{"sent": "tan colored cow looking at us", "ann_id": 75928, "best_split": [1, 3], "split_score": 0.42745918792685395}
+{"sent": "cow behind white cow", "ann_id": 75928, "best_split": [1, 3], "split_score": 0.42745918792685395}
+{"sent": "closest cow", "ann_id": 74244, "best_split": [1, 3], "split_score": 0.38535856571786065}
+{"sent": "white cow eats", "ann_id": 74244, "best_split": [1, 3], "split_score": 0.38535856571786065}
+{"sent": "lighter cow", "ann_id": 74244, "best_split": [1, 3], "split_score": 0.38535856571786065}

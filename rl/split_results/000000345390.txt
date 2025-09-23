@@ -1,0 +1,15 @@
+{"sent": "slice of pizza with knife cutting it", "ann_id": 1077622, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "slice on plate by black shirt person", "ann_id": 1077622, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "pizza being cut and eaten with knife and fork", "ann_id": 1077622, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "largest piece of pizza", "ann_id": 1077136, "best_split": [2, 1], "split_score": 0.5604272958960289}
+{"sent": "big slice of pizza", "ann_id": 1077136, "best_split": [2, 1], "split_score": 0.5604272958960289}
+{"sent": "biggest piece", "ann_id": 1077136, "best_split": [2, 1], "split_score": 0.5604272958960289}
+{"sent": "slice next to larger pie", "ann_id": 1076347, "best_split": [1, 3], "split_score": 0.23026315788121104}
+{"sent": "separated pizza slice", "ann_id": 1076347, "best_split": [1, 3], "split_score": 0.23026315788121104}
+{"sent": "slice by whole pizza", "ann_id": 1076347, "best_split": [1, 3], "split_score": 0.23026315788121104}
+{"sent": "pink shirt", "ann_id": 1717939, "best_split": [5, 1], "split_score": 0.48549107137931297}
+{"sent": "pink shirt", "ann_id": 1717939, "best_split": [5, 1], "split_score": 0.48549107137931297}
+{"sent": "pink shirt", "ann_id": 1717939, "best_split": [5, 1], "split_score": 0.48549107137931297}
+{"sent": "person with ring on hand", "ann_id": 198229, "best_split": [3, 3], "split_score": 0.63855203608352}
+{"sent": "hand with ring on finger cutting in pizza with knife", "ann_id": 198229, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "hand coming from dark shirt", "ann_id": 198229, "best_split": [3, 3], "split_score": 0.63855203608352}

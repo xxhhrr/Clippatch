@@ -1,0 +1,9 @@
+{"sent": "red wine glass in corner", "ann_id": 1874977, "best_split": [3, 3], "split_score": 0.546082587447624}
+{"sent": "red wine further from plate", "ann_id": 1874977, "best_split": [3, 3], "split_score": 0.546082587447624}
+{"sent": "wine glass touching napkin", "ann_id": 1874977, "best_split": [3, 3], "split_score": 0.546082587447624}
+{"sent": "green drink", "ann_id": 1498751, "best_split": [2, 2], "split_score": 0.22976171688261307}
+{"sent": "glass with green", "ann_id": 1498751, "best_split": [2, 3], "split_score": 0.3282532238771098}
+{"sent": "glass with green liquid to the side", "ann_id": 1498751, "best_split": [2, 3], "split_score": 0.3282532238771098}
+{"sent": "dark color wine next to white", "ann_id": 663032, "best_split": [3, 2], "split_score": 0.43948901832816123}
+{"sent": "wine next to lime", "ann_id": 663032, "best_split": [3, 2], "split_score": 0.43948901832816123}
+{"sent": "glass with darker wine close to noon", "ann_id": 663032, "best_split": [3, 2], "split_score": 0.43948901832816123}

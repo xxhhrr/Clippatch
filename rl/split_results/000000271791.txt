@@ -1,0 +1,4 @@
+{"sent": "reddish vehicle part behind blue part", "ann_id": 1800380, "best_split": [1, 2], "split_score": 0.4520089285534116}
+{"sent": "the destroyed blue thing", "ann_id": 1800208, "best_split": [1, 2], "split_score": 0.5168314606625432}
+{"sent": "blue thing", "ann_id": 1800208, "best_split": [1, 2], "split_score": 0.5168314606625432}
+{"sent": "light blue", "ann_id": 1800208, "best_split": [1, 2], "split_score": 0.5168314606625432}

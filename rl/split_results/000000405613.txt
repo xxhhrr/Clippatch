@@ -1,0 +1,6 @@
+{"sent": "guy cutting cake it looks like", "ann_id": 519782, "best_split": [1, 3], "split_score": 0.4449999999752778}
+{"sent": "white shirt guy reaching towards table", "ann_id": 519782, "best_split": [1, 5], "split_score": 0.40066802204467994}
+{"sent": "bald man in white shirt getting food", "ann_id": 519782, "best_split": [1, 3], "split_score": 0.4449999999752778}
+{"sent": "guy in white shirt and blue jeans", "ann_id": 512871, "best_split": [1, 3], "split_score": 0.8994932431889784}
+{"sent": "man in white shirt facing the camera", "ann_id": 512871, "best_split": [1, 3], "split_score": 0.8994932431889784}
+{"sent": "blurry man in foreground", "ann_id": 512871, "best_split": [3, 3], "split_score": 0.29303564630895373}

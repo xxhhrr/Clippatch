@@ -1,0 +1,5 @@
+{"sent": "couch no pillow", "ann_id": 291152, "best_split": [2, 1], "split_score": 0.27197802196792475}
+{"sent": "couch with no pillow", "ann_id": 291152, "best_split": [2, 1], "split_score": 0.27197802196792475}
+{"sent": "couch with pillow", "ann_id": 290928, "best_split": [2, 3], "split_score": 0.7188948305954639}
+{"sent": "blue long couch with pillow", "ann_id": 290928, "best_split": [2, 3], "split_score": 0.7188948305954639}
+{"sent": "couch with pillow", "ann_id": 290928, "best_split": [2, 3], "split_score": 0.7188948305954639}

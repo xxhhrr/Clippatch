@@ -1,0 +1,12 @@
+{"sent": "plate", "ann_id": 1967127, "best_split": [2, 1], "split_score": 0.5718458440696524}
+{"sent": "the main plate with food", "ann_id": 1967127, "best_split": [2, 1], "split_score": 0.5718458440696524}
+{"sent": "plate closest to camera", "ann_id": 1967127, "best_split": [2, 1], "split_score": 0.5718458440696524}
+{"sent": "menu", "ann_id": 1966181, "best_split": [2, 2], "split_score": 0.8406409438105357}
+{"sent": "paper with chinese letters", "ann_id": 1966181, "best_split": [2, 2], "split_score": 0.8406409438105357}
+{"sent": "paper under plate", "ann_id": 1966181, "best_split": [2, 2], "split_score": 0.8406409438105357}
+{"sent": "oblong bowl", "ann_id": 1040035, "best_split": [5, 1], "split_score": 0.288840262553328}
+{"sent": "white bowl with yellow stuff", "ann_id": 1040035, "best_split": [3, 2], "split_score": 0.37427606173090294}
+{"sent": "white bowl behind main plate", "ann_id": 1040035, "best_split": [3, 2], "split_score": 0.37427606173090294}
+{"sent": "the plate with the small yellow bowl on it", "ann_id": 2107549, "best_split": [2, 3], "split_score": 0.5438186812813312}
+{"sent": "plate with bowl and plants", "ann_id": 2107549, "best_split": [2, 3], "split_score": 0.5438186812813312}
+{"sent": "the huge bowl at 6 o cock", "ann_id": 2107549, "best_split": [3, 1], "split_score": 0.19549251990691693}

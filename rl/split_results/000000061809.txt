@@ -1,0 +1,9 @@
+{"sent": "umpire", "ann_id": 2165748, "best_split": [3, 2], "split_score": 0.24235580261967027}
+{"sent": "black shirt", "ann_id": 2165748, "best_split": [3, 3], "split_score": 0.42202970291806563}
+{"sent": "umpire", "ann_id": 2165748, "best_split": [3, 2], "split_score": 0.24235580261967027}
+{"sent": "full player not throwing ball", "ann_id": 495957, "best_split": [2, 1], "split_score": 0.15164520743363613}
+{"sent": "only gray jersey shown", "ann_id": 495957, "best_split": [3, 1], "split_score": 0.20684563049381122}
+{"sent": "blue hat", "ann_id": 495957, "best_split": [3, 3], "split_score": 0.49891871256851306}
+{"sent": "pitcher", "ann_id": 471479, "best_split": [1, 2], "split_score": 0.5565210458961846}
+{"sent": "number 37", "ann_id": 471479, "best_split": [1, 2], "split_score": 0.5565210458961846}
+{"sent": "throwing baseball we win cool thanks bye friend", "ann_id": 471479, "best_split": [1, 2], "split_score": 0.5565210458961846}

@@ -1,0 +1,6 @@
+{"sent": "red sauce", "ann_id": 2187220, "best_split": [2, 2], "split_score": 0.5707529080550459}
+{"sent": "bread", "ann_id": 2187220, "best_split": [2, 2], "split_score": 0.5707529080550459}
+{"sent": "toast with red on it", "ann_id": 2187220, "best_split": [2, 2], "split_score": 0.5707529080550459}
+{"sent": "chicken salad on bread", "ann_id": 2112381, "best_split": [2, 2], "split_score": 0.5133267521849297}
+{"sent": "bread with meat on it", "ann_id": 2112381, "best_split": [2, 1], "split_score": 0.3554687499858311}
+{"sent": "tuna salad on bread", "ann_id": 2112381, "best_split": [2, 2], "split_score": 0.5133267521849297}

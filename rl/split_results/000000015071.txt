@@ -1,0 +1,6 @@
+{"sent": "green", "ann_id": 2204823, "best_split": [2, 2], "split_score": 0.5038167938538856}
+{"sent": "boy in green", "ann_id": 2204823, "best_split": [2, 2], "split_score": 0.5038167938538856}
+{"sent": "green baby", "ann_id": 2204823, "best_split": [2, 2], "split_score": 0.5038167938538856}
+{"sent": "girl", "ann_id": 498539, "best_split": [3, 2], "split_score": 0.5958023019058127}
+{"sent": "girl not green shirt", "ann_id": 498539, "best_split": [3, 1], "split_score": 0.36770954034278486}
+{"sent": "little girl", "ann_id": 498539, "best_split": [3, 2], "split_score": 0.5958023019058127}

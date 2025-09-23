@@ -1,0 +1,5 @@
+{"sent": "wurst of some kind not touching white glob", "ann_id": 1046090, "best_split": [3, 2], "split_score": 0.4368224784982376}
+{"sent": "sausage closest to glass", "ann_id": 1046090, "best_split": [1, 5], "split_score": 0.41070317358348607}
+{"sent": "inter sausage", "ann_id": 1045203, "best_split": [1, 5], "split_score": 0.4316109422127988}
+{"sent": "banana by white stuff", "ann_id": 1045203, "best_split": [3, 2], "split_score": 0.3165639972350647}
+{"sent": "long meat near white glob", "ann_id": 1045203, "best_split": [1, 5], "split_score": 0.4316109422127988}

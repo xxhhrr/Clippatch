@@ -1,0 +1,6 @@
+{"sent": "boy with white shirt", "ann_id": 556963, "best_split": [1, 2], "split_score": 0.49147002549061425}
+{"sent": "white shirt", "ann_id": 556963, "best_split": [1, 2], "split_score": 0.49147002549061425}
+{"sent": "white shirt", "ann_id": 556963, "best_split": [1, 2], "split_score": 0.49147002549061425}
+{"sent": "green shorts", "ann_id": 482036, "best_split": [1, 2], "split_score": 0.518596596878535}
+{"sent": "black shirt", "ann_id": 482036, "best_split": [1, 2], "split_score": 0.518596596878535}
+{"sent": "black shirt green shorts", "ann_id": 482036, "best_split": [1, 2], "split_score": 0.518596596878535}

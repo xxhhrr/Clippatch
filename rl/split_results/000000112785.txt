@@ -1,0 +1,6 @@
+{"sent": "ally video", "ann_id": 1141102, "best_split": [3, 2], "split_score": 0.3413173652301569}
+{"sent": "ally mcbeal", "ann_id": 1141102, "best_split": [1, 3], "split_score": 0.13015873015135154}
+{"sent": "book with ally mcbeal", "ann_id": 1141102, "best_split": [3, 2], "split_score": 0.3413173652301569}
+{"sent": "video with orange triangle", "ann_id": 1655997, "best_split": [3, 3], "split_score": 0.3901296829268498}
+{"sent": "purple triangle", "ann_id": 1655997, "best_split": [1, 5], "split_score": 0.22747564932756942}
+{"sent": "dvd cover with orange purple triange", "ann_id": 1655997, "best_split": [3, 3], "split_score": 0.3901296829268498}

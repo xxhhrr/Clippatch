@@ -1,0 +1,9 @@
+{"sent": "person with red jacket", "ann_id": 1279347, "best_split": [3, 3], "split_score": 0.24652970568482374}
+{"sent": "red bag of person cut off", "ann_id": 1279347, "best_split": [3, 3], "split_score": 0.24652970568482374}
+{"sent": "woman black coat with red bag", "ann_id": 1279347, "best_split": [3, 3], "split_score": 0.24652970568482374}
+{"sent": "person closest to the train", "ann_id": 1271603, "best_split": [2, 1], "split_score": 0.1329450493747804}
+{"sent": "guy with satchel", "ann_id": 1271603, "best_split": [1, 5], "split_score": 0.5752056403667053}
+{"sent": "person with black bag", "ann_id": 1271603, "best_split": [1, 5], "split_score": 0.5752056403667053}
+{"sent": "man closest to us", "ann_id": 1250871, "best_split": [1, 3], "split_score": 0.5351434201590134}
+{"sent": "man looking at phone", "ann_id": 1250871, "best_split": [1, 3], "split_score": 0.5351434201590134}
+{"sent": "dude closest to us", "ann_id": 1250871, "best_split": [1, 3], "split_score": 0.5351434201590134}

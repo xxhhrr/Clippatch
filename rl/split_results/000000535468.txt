@@ -1,0 +1,6 @@
+{"sent": "brown coat", "ann_id": 1712812, "best_split": [1, 3], "split_score": 0.5659387065295645}
+{"sent": "shorter one", "ann_id": 1712812, "best_split": [1, 2], "split_score": 0.3739237882504016}
+{"sent": "brown jacket", "ann_id": 1712812, "best_split": [1, 3], "split_score": 0.5659387065295645}
+{"sent": "guy in blue", "ann_id": 459418, "best_split": [1, 3], "split_score": 0.4988160197416444}
+{"sent": "taller person", "ann_id": 459418, "best_split": [1, 3], "split_score": 0.4988160197416444}
+{"sent": "blue", "ann_id": 459418, "best_split": [1, 3], "split_score": 0.4988160197416444}

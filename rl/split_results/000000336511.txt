@@ -1,0 +1,5 @@
+{"sent": "bench with brown cat on it", "ann_id": 577276, "best_split": [1, 3], "split_score": 0.35325318244548914}
+{"sent": "bench with orange kitty", "ann_id": 577276, "best_split": [2, 3], "split_score": 0.4595371943744583}
+{"sent": "bench under black and white cat", "ann_id": 575985, "best_split": [2, 1], "split_score": 0.5925850218311933}
+{"sent": "closest bench", "ann_id": 575985, "best_split": [1, 2], "split_score": 0.4232964925003814}
+{"sent": "bench with black and white cat", "ann_id": 575985, "best_split": [2, 1], "split_score": 0.5925850218311933}

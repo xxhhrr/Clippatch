@@ -1,0 +1,6 @@
+{"sent": "getting hair cut", "ann_id": 2159201, "best_split": [1, 2], "split_score": 0.45531197300483883}
+{"sent": "black and white shirt", "ann_id": 2159201, "best_split": [2, 1], "split_score": 0.6162129623230482}
+{"sent": "fat girl", "ann_id": 2159201, "best_split": [2, 1], "split_score": 0.6162129623230482}
+{"sent": "blond haired woman click black smock", "ann_id": 515455, "best_split": [1, 2], "split_score": 0.6174636174475711}
+{"sent": "lady standing", "ann_id": 515455, "best_split": [2, 1], "split_score": 0.4310677825707931}
+{"sent": "dryer in hand", "ann_id": 515455, "best_split": [1, 3], "split_score": 0.42348452733087416}

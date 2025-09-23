@@ -1,0 +1,3 @@
+{"sent": "part of the bed occupied by a black phamplet", "ann_id": 314521, "best_split": [3, 2], "split_score": 0.5314484426571326}
+{"sent": "white pillow and bedspread", "ann_id": 314521, "best_split": [1, 3], "split_score": 0.4850691915261123}
+{"sent": "white pillow on the bed", "ann_id": 314521, "best_split": [1, 3], "split_score": 0.4850691915261123}

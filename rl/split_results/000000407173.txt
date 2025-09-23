@@ -1,0 +1,5 @@
+{"sent": "wine glass with door behind it", "ann_id": 664724, "best_split": [2, 3], "split_score": 0.4799710424131309}
+{"sent": "glass with least amount of wine", "ann_id": 664724, "best_split": [2, 3], "split_score": 0.4799710424131309}
+{"sent": "tall wineglass", "ann_id": 663894, "best_split": [2, 2], "split_score": 0.3702168367051804}
+{"sent": "wine glass underneath girls chin", "ann_id": 663894, "best_split": [2, 2], "split_score": 0.3702168367051804}
+{"sent": "glass closest", "ann_id": 663894, "best_split": [2, 1], "split_score": 0.18510841835996858}

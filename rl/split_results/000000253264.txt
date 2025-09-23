@@ -1,0 +1,5 @@
+{"sent": "man holding mitt", "ann_id": 474112, "best_split": [1, 5], "split_score": 0.30990041005022173}
+{"sent": "the man in plaid shirt", "ann_id": 474112, "best_split": [1, 5], "split_score": 0.30990041005022173}
+{"sent": "man", "ann_id": 474112, "best_split": [1, 5], "split_score": 0.30990041005022173}
+{"sent": "boy", "ann_id": 442154, "best_split": [2, 3], "split_score": 0.5376233080365195}
+{"sent": "child", "ann_id": 442154, "best_split": [2, 3], "split_score": 0.5376233080365195}

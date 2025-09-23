@@ -1,0 +1,9 @@
+{"sent": "red shirt", "ann_id": 227466, "best_split": [1, 3], "split_score": 0.25590460901995504}
+{"sent": "pink", "ann_id": 227466, "best_split": [1, 5], "split_score": 0.4328301886384122}
+{"sent": "woman in pink shirt", "ann_id": 227466, "best_split": [1, 5], "split_score": 0.4328301886384122}
+{"sent": "a woman wearing blue pants and is standing", "ann_id": 212086, "best_split": [2, 2], "split_score": 0.26412556051837627}
+{"sent": "lady in white shirt blue pants", "ann_id": 212086, "best_split": [2, 3], "split_score": 0.2827320632060466}
+{"sent": "blue pants woman", "ann_id": 212086, "best_split": [2, 2], "split_score": 0.26412556051837627}
+{"sent": "woman cutting cake", "ann_id": 1760415, "best_split": [2, 1], "split_score": 0.36320780876370673}
+{"sent": "black shirt cutting cake", "ann_id": 1760415, "best_split": [2, 1], "split_score": 0.36320780876370673}
+{"sent": "lady cuttin cake", "ann_id": 1760415, "best_split": [2, 1], "split_score": 0.36320780876370673}

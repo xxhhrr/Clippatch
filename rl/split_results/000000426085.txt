@@ -1,0 +1,6 @@
+{"sent": "blue jeans", "ann_id": 1228268, "best_split": [2, 3], "split_score": 0.6943191139566941}
+{"sent": "jeans", "ann_id": 1228268, "best_split": [2, 3], "split_score": 0.6943191139566941}
+{"sent": "blue jeans", "ann_id": 1228268, "best_split": [2, 3], "split_score": 0.6943191139566941}
+{"sent": "man in glasses", "ann_id": 522383, "best_split": [1, 2], "split_score": 0.5097257652858049}
+{"sent": "red", "ann_id": 522383, "best_split": [1, 2], "split_score": 0.5097257652858049}
+{"sent": "man in pink", "ann_id": 522383, "best_split": [1, 2], "split_score": 0.5097257652858049}

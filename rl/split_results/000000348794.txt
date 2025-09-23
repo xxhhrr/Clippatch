@@ -1,0 +1,6 @@
+{"sent": "elephant with two people in white riding it man and girl", "ann_id": 1821070, "best_split": [2, 1], "split_score": 0.1956912028653614}
+{"sent": "elephant with father and daughter in white", "ann_id": 1821070, "best_split": [2, 1], "split_score": 0.1956912028653614}
+{"sent": "elephant in between", "ann_id": 582038, "best_split": [3, 3], "split_score": 0.34157236445182065}
+{"sent": "partially hidden elephant", "ann_id": 582038, "best_split": [3, 3], "split_score": 0.34157236445182065}
+{"sent": "elephant pink girl riding on", "ann_id": 581877, "best_split": [2, 2], "split_score": 0.5689585302871161}
+{"sent": "elephant with pink girl on", "ann_id": 581877, "best_split": [2, 2], "split_score": 0.5689585302871161}

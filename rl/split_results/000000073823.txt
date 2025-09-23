@@ -1,0 +1,5 @@
+{"sent": "this meter has part of red tagged scraped off", "ann_id": 419259, "best_split": [2, 3], "split_score": 0.6476209636205994}
+{"sent": "thing", "ann_id": 419259, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "15 min at 5", "ann_id": 419259, "best_split": [2, 3], "split_score": 0.6476209636205994}
+{"sent": "west 15", "ann_id": 418395, "best_split": [2, 2], "split_score": 0.7042253520620706}
+{"sent": "if numbered meter 1", "ann_id": 418395, "best_split": [2, 2], "split_score": 0.7042253520620706}

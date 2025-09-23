@@ -1,0 +1,9 @@
+{"sent": "striped shirt", "ann_id": 1724061, "best_split": [3, 3], "split_score": 0.5370705243151771}
+{"sent": "shirt", "ann_id": 1724061, "best_split": [3, 3], "split_score": 0.5370705243151771}
+{"sent": "white striped shirt", "ann_id": 1724061, "best_split": [3, 3], "split_score": 0.5370705243151771}
+{"sent": "man in shorts", "ann_id": 505686, "best_split": [3, 3], "split_score": 0.6995273462694923}
+{"sent": "khaki shorts", "ann_id": 505686, "best_split": [3, 3], "split_score": 0.6995273462694923}
+{"sent": "khaki", "ann_id": 505686, "best_split": [3, 3], "split_score": 0.6995273462694923}
+{"sent": "upper part of closest red chair", "ann_id": 383249, "best_split": [3, 2], "split_score": 0.5030036760958483}
+{"sent": "red bakc to chair", "ann_id": 383249, "best_split": [3, 2], "split_score": 0.5030036760958483}
+{"sent": "the chair thats closest", "ann_id": 383249, "best_split": [1, 2], "split_score": 0.3259194879972378}

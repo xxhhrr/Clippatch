@@ -1,0 +1,9 @@
+{"sent": "child wearing a pink shirt", "ann_id": 509446, "best_split": [3, 2], "split_score": 0.5051903113640581}
+{"sent": "baby in pinkish purple shirt", "ann_id": 509446, "best_split": [3, 2], "split_score": 0.5051903113640581}
+{"sent": "baby", "ann_id": 509446, "best_split": [1, 5], "split_score": 0.33333333330463727}
+{"sent": "kid with black shirt", "ann_id": 1732673, "best_split": [1, 5], "split_score": 0.5189481824710993}
+{"sent": "kid last", "ann_id": 1732673, "best_split": [1, 5], "split_score": 0.5189481824710993}
+{"sent": "boy in blue shirt", "ann_id": 1732673, "best_split": [1, 5], "split_score": 0.5189481824710993}
+{"sent": "mom gray shirt", "ann_id": 506489, "best_split": [2, 3], "split_score": 0.8518439564216751}
+{"sent": "mom", "ann_id": 506489, "best_split": [2, 3], "split_score": 0.8518439564216751}
+{"sent": "mom", "ann_id": 506489, "best_split": [2, 3], "split_score": 0.8518439564216751}

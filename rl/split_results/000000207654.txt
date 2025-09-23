@@ -1,0 +1,6 @@
+{"sent": "shredded carrots", "ann_id": 716846, "best_split": [2, 1], "split_score": 0.41039540814690706}
+{"sent": "knife", "ann_id": 716846, "best_split": [2, 2], "split_score": 0.8207908162610976}
+{"sent": "shredded carrots and knife", "ann_id": 716846, "best_split": [2, 2], "split_score": 0.8207908162610976}
+{"sent": "cartot basket", "ann_id": 713630, "best_split": [1, 2], "split_score": 0.5690463783035095}
+{"sent": "carrots", "ann_id": 713630, "best_split": [1, 2], "split_score": 0.5690463783035095}
+{"sent": "colander", "ann_id": 713630, "best_split": [1, 2], "split_score": 0.5690463783035095}

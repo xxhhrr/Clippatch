@@ -1,0 +1,6 @@
+{"sent": "man on bike", "ann_id": 1276136, "best_split": [2, 3], "split_score": 0.5439189188532916}
+{"sent": "guy on bike", "ann_id": 1276136, "best_split": [2, 3], "split_score": 0.5439189188532916}
+{"sent": "man in whitish shirt riding a bicycle", "ann_id": 1276136, "best_split": [2, 3], "split_score": 0.5439189188532916}
+{"sent": "woman in orange", "ann_id": 1253402, "best_split": [3, 3], "split_score": 0.6145801290964964}
+{"sent": "yellow full headdress", "ann_id": 1253402, "best_split": [3, 3], "split_score": 0.6145801290964964}
+{"sent": "orange and larger", "ann_id": 1253402, "best_split": [2, 3], "split_score": 0.6059362933631833}

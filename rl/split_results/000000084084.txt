@@ -1,0 +1,6 @@
+{"sent": "man sitting closest to player", "ann_id": 1228267, "best_split": [2, 2], "split_score": 0.15290519876562508}
+{"sent": "the man that is sitting on the court", "ann_id": 1228267, "best_split": [1, 2], "split_score": 0.13113839285191572}
+{"sent": "blurry referee", "ann_id": 1228267, "best_split": [3, 1], "split_score": 0.1452784503548208}
+{"sent": "tennis player", "ann_id": 1204306, "best_split": [2, 1], "split_score": 0.42205323192662625}
+{"sent": "tennis player", "ann_id": 1204306, "best_split": [2, 1], "split_score": 0.42205323192662625}
+{"sent": "player", "ann_id": 1204306, "best_split": [1, 2], "split_score": 0.5825454545261969}

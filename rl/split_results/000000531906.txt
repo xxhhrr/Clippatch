@@ -1,0 +1,7 @@
+{"sent": "brown suitcase like thing nearest us lighter color", "ann_id": 2081450, "best_split": [2, 3], "split_score": 0.3642193719190381}
+{"sent": "brown suitcase", "ann_id": 2081450, "best_split": [2, 3], "split_score": 0.3642193719190381}
+{"sent": "black suitcase next to clear suitcase", "ann_id": 1445924, "best_split": [5, 1], "split_score": 0.21553966188105173}
+{"sent": "sanwiched", "ann_id": 1445924, "best_split": [3, 3], "split_score": 0.2880282547450946}
+{"sent": "suitcase on side", "ann_id": 1444098, "best_split": [3, 3], "split_score": 0.5773229904972235}
+{"sent": "suitcase directly under stairs on its side has handle", "ann_id": 1444098, "best_split": [2, 2], "split_score": 0.18512974050576492}
+{"sent": "sideways suitcase", "ann_id": 1444098, "best_split": [3, 3], "split_score": 0.5773229904972235}

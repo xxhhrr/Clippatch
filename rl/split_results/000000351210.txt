@@ -1,0 +1,6 @@
+{"sent": "blue pillow on green sofa", "ann_id": 111336, "best_split": [2, 3], "split_score": 0.5849420848715079}
+{"sent": "green couch", "ann_id": 111336, "best_split": [2, 3], "split_score": 0.5849420848715079}
+{"sent": "green cushion", "ann_id": 111336, "best_split": [2, 3], "split_score": 0.5849420848715079}
+{"sent": "sofa wred on it", "ann_id": 99331, "best_split": [2, 3], "split_score": 0.5391422736096714}
+{"sent": "brown couch", "ann_id": 99331, "best_split": [2, 3], "split_score": 0.5391422736096714}
+{"sent": "sofa red deco", "ann_id": 99331, "best_split": [2, 3], "split_score": 0.5391422736096714}

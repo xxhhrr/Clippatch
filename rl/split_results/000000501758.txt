@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 477928, "best_split": [3, 3], "split_score": 0.3773103887225445}
+{"sent": "her", "ann_id": 477928, "best_split": [1, 5], "split_score": 0.32142857139595893}
+{"sent": "her", "ann_id": 477928, "best_split": [1, 5], "split_score": 0.32142857139595893}
+{"sent": "man", "ann_id": 2158034, "best_split": [1, 2], "split_score": 0.30492665815111103}
+{"sent": "red plaid", "ann_id": 2158034, "best_split": [1, 5], "split_score": 0.6051714651929972}
+{"sent": "guy", "ann_id": 2158034, "best_split": [1, 5], "split_score": 0.6051714651929972}

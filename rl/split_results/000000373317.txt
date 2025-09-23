@@ -1,0 +1,6 @@
+{"sent": "jumping sheep", "ann_id": 62094, "best_split": [3, 3], "split_score": 0.6714099026177711}
+{"sent": "goat thats jumping", "ann_id": 62094, "best_split": [3, 3], "split_score": 0.6714099026177711}
+{"sent": "sheep with legs up", "ann_id": 62094, "best_split": [3, 3], "split_score": 0.6714099026177711}
+{"sent": "black faced lamb", "ann_id": 61188, "best_split": [3, 2], "split_score": 0.3523349735073498}
+{"sent": "animal walking across the path with all its feet on the ground", "ann_id": 61188, "best_split": [3, 2], "split_score": 0.3523349735073498}
+{"sent": "crossing the road", "ann_id": 61188, "best_split": [5, 1], "split_score": 0.2624413145334553}

@@ -1,0 +1,6 @@
+{"sent": "elephant whose trunk is visible", "ann_id": 580416, "best_split": [1, 2], "split_score": 0.7596310363280103}
+{"sent": "elephant with visible trunk", "ann_id": 580416, "best_split": [1, 2], "split_score": 0.7596310363280103}
+{"sent": "elephants looking at eachother", "ann_id": 580012, "best_split": [2, 1], "split_score": 0.3680379158550264}
+{"sent": "shorter one", "ann_id": 580012, "best_split": [1, 2], "split_score": 0.7603236606839794}
+{"sent": "elephant with no truck showing", "ann_id": 580012, "best_split": [2, 1], "split_score": 0.3680379158550264}
+{"sent": "elephant with no trunk", "ann_id": 580012, "best_split": [2, 1], "split_score": 0.3680379158550264}

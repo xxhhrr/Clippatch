@@ -1,0 +1,15 @@
+{"sent": "guy cut off in white shirt", "ann_id": 1286302, "best_split": [2, 3], "split_score": 0.24014924012738653}
+{"sent": "arms crossed", "ann_id": 1286302, "best_split": [1, 2], "split_score": 0.21285076529763827}
+{"sent": "white shirt", "ann_id": 1286302, "best_split": [1, 3], "split_score": 0.3081055270199292}
+{"sent": "woman in red shirt holding bag and scratching head", "ann_id": 1284142, "best_split": [3, 3], "split_score": 0.24324324321362997}
+{"sent": "red shirt", "ann_id": 1284142, "best_split": [3, 3], "split_score": 0.24324324321362997}
+{"sent": "woman red shirt", "ann_id": 1284142, "best_split": [3, 3], "split_score": 0.24324324321362997}
+{"sent": "little boy blue shirt", "ann_id": 1275987, "best_split": [2, 3], "split_score": 0.3731021858110152}
+{"sent": "boy in blue", "ann_id": 1275987, "best_split": [2, 3], "split_score": 0.3731021858110152}
+{"sent": "child in blue shirt", "ann_id": 1275987, "best_split": [2, 3], "split_score": 0.3731021858110152}
+{"sent": "dad", "ann_id": 1236882, "best_split": [1, 3], "split_score": 0.5949170124260923}
+{"sent": "old person plaid shirt", "ann_id": 1236882, "best_split": [1, 2], "split_score": 0.470259481024515}
+{"sent": "plaid shirt", "ann_id": 1236882, "best_split": [1, 2], "split_score": 0.470259481024515}
+{"sent": "woman in black shirt holding a glass", "ann_id": 1302227, "best_split": [1, 5], "split_score": 0.3357717629539345}
+{"sent": "woman all in black holding glass", "ann_id": 1302227, "best_split": [1, 5], "split_score": 0.3357717629539345}
+{"sent": "lady all black chubby", "ann_id": 1302227, "best_split": [2, 1], "split_score": 0.028823610535483945}

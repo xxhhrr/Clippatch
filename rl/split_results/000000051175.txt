@@ -1,0 +1,6 @@
+{"sent": "skier bending over", "ann_id": 553347, "best_split": [2, 1], "split_score": 0.22929936304863135}
+{"sent": "black jacket boot adjuster", "ann_id": 553347, "best_split": [3, 2], "split_score": 0.347826086926516}
+{"sent": "person bending over", "ann_id": 553347, "best_split": [1, 5], "split_score": 0.4543608831355756}
+{"sent": "lady in tan coat white pants", "ann_id": 553008, "best_split": [1, 5], "split_score": 0.6390252016435977}
+{"sent": "woman in tan jacket in foreground", "ann_id": 553008, "best_split": [1, 5], "split_score": 0.6390252016435977}
+{"sent": "white pants", "ann_id": 553008, "best_split": [1, 5], "split_score": 0.6390252016435977}

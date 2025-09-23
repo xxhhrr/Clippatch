@@ -1,0 +1,12 @@
+{"sent": "back umbrella", "ann_id": 282941, "best_split": [1, 3], "split_score": 0.37874015746167616}
+{"sent": "blue white", "ann_id": 282941, "best_split": [3, 1], "split_score": 0.40953914266404007}
+{"sent": "farthest sun cover", "ann_id": 282941, "best_split": [1, 5], "split_score": 0.2736842105099471}
+{"sent": "umbrella", "ann_id": 280682, "best_split": [1, 2], "split_score": 0.5612181921629031}
+{"sent": "close umbrella", "ann_id": 280682, "best_split": [1, 2], "split_score": 0.5612181921629031}
+{"sent": "closest umbrella", "ann_id": 280682, "best_split": [1, 2], "split_score": 0.5612181921629031}
+{"sent": "man with cap", "ann_id": 260157, "best_split": [1, 3], "split_score": 0.4819248264016085}
+{"sent": "waiter serving", "ann_id": 260157, "best_split": [2, 3], "split_score": 0.6166454018434934}
+{"sent": "waiter", "ann_id": 260157, "best_split": [2, 3], "split_score": 0.6166454018434934}
+{"sent": "back of womans head", "ann_id": 210612, "best_split": [3, 3], "split_score": 0.7098121084360104}
+{"sent": "head of brown hair", "ann_id": 210612, "best_split": [3, 3], "split_score": 0.7098121084360104}
+{"sent": "woman receiving food", "ann_id": 210612, "best_split": [3, 3], "split_score": 0.7098121084360104}

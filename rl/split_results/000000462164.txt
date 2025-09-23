@@ -1,0 +1,9 @@
+{"sent": "teddy bear slightly leaning", "ann_id": 1674023, "best_split": [2, 3], "split_score": 0.5907021326874308}
+{"sent": "brown teddy without pink hat", "ann_id": 1674023, "best_split": [3, 1], "split_score": 0.11051601606187475}
+{"sent": "brown teddy bear facing away from us without hat", "ann_id": 1674023, "best_split": [2, 3], "split_score": 0.5907021326874308}
+{"sent": "bear with red and white hat", "ann_id": 1996510, "best_split": [2, 3], "split_score": 0.3716216215767831}
+{"sent": "bear santa", "ann_id": 1996510, "best_split": [2, 3], "split_score": 0.3716216215767831}
+{"sent": "red hat", "ann_id": 1996510, "best_split": [2, 3], "split_score": 0.3716216215767831}
+{"sent": "pink hat", "ann_id": 1673813, "best_split": [3, 2], "split_score": 0.5266654013544633}
+{"sent": "pink hat bear", "ann_id": 1673813, "best_split": [3, 2], "split_score": 0.5266654013544633}
+{"sent": "the pink blob", "ann_id": 1673813, "best_split": [3, 2], "split_score": 0.5266654013544633}

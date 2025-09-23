@@ -1,0 +1,6 @@
+{"sent": "girl on bench", "ann_id": 495075, "best_split": [3, 2], "split_score": 0.5567761331456087}
+{"sent": "lady", "ann_id": 495075, "best_split": [1, 2], "split_score": 0.18920936811579656}
+{"sent": "blue pants", "ann_id": 495075, "best_split": [3, 2], "split_score": 0.5567761331456087}
+{"sent": "man holding phone", "ann_id": 472952, "best_split": [1, 5], "split_score": 0.5540284749770366}
+{"sent": "guy", "ann_id": 472952, "best_split": [1, 5], "split_score": 0.5540284749770366}
+{"sent": "man", "ann_id": 472952, "best_split": [1, 5], "split_score": 0.5540284749770366}

@@ -1,0 +1,12 @@
+{"sent": "man in white", "ann_id": 1202437, "best_split": [1, 5], "split_score": 0.6040677965589772}
+{"sent": "man in suit with woman", "ann_id": 1202437, "best_split": [2, 1], "split_score": 0.21513944222342277}
+{"sent": "man in white shirt and badge with woman in blue", "ann_id": 1202437, "best_split": [1, 5], "split_score": 0.6040677965589772}
+{"sent": "white obstruction", "ann_id": 624247, "best_split": [1, 2], "split_score": 0.8258928571099373}
+{"sent": "white kite man is holding", "ann_id": 624247, "best_split": [3, 1], "split_score": 0.2857142857044362}
+{"sent": "white kite in corner", "ann_id": 624247, "best_split": [1, 2], "split_score": 0.8258928571099373}
+{"sent": "woman blue", "ann_id": 1711508, "best_split": [2, 3], "split_score": 0.42161520185851}
+{"sent": "blue shirt", "ann_id": 1711508, "best_split": [2, 3], "split_score": 0.42161520185851}
+{"sent": "blue woman", "ann_id": 1711508, "best_split": [2, 3], "split_score": 0.42161520185851}
+{"sent": "doted kite", "ann_id": 622303, "best_split": [2, 2], "split_score": 0.728953522308612}
+{"sent": "piece of fabric with yellow dots", "ann_id": 622303, "best_split": [2, 2], "split_score": 0.728953522308612}
+{"sent": "kite gold dots", "ann_id": 622303, "best_split": [2, 2], "split_score": 0.728953522308612}

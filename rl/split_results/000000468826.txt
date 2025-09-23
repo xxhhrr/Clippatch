@@ -1,0 +1,8 @@
+{"sent": "green shirt yellow hair band", "ann_id": 1277244, "best_split": [2, 1], "split_score": 0.06624271329902935}
+{"sent": "green shirt", "ann_id": 1277244, "best_split": [2, 1], "split_score": 0.06624271329902935}
+{"sent": "boy in hoodie closest", "ann_id": 1270213, "best_split": [2, 2], "split_score": 0.4391033325078456}
+{"sent": "closest boy in black", "ann_id": 1270213, "best_split": [1, 5], "split_score": 0.43543826575767886}
+{"sent": "hoodie", "ann_id": 1270213, "best_split": [2, 2], "split_score": 0.4391033325078456}
+{"sent": "kid at head of table closest end", "ann_id": 1289680, "best_split": [2, 2], "split_score": 0.5698596308441733}
+{"sent": "person at head of table", "ann_id": 1289680, "best_split": [2, 2], "split_score": 0.5698596308441733}
+{"sent": "head of the table glasses", "ann_id": 1289680, "best_split": [2, 2], "split_score": 0.5698596308441733}

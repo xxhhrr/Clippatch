@@ -1,0 +1,8 @@
+{"sent": "dog closest to the pink cup", "ann_id": 1070456, "best_split": [2, 2], "split_score": 0.2980132450114247}
+{"sent": "dog closest to cup", "ann_id": 1070456, "best_split": [2, 2], "split_score": 0.2980132450114247}
+{"sent": "hotdog closest to red cup", "ann_id": 1070456, "best_split": [2, 2], "split_score": 0.2980132450114247}
+{"sent": "dog number 2", "ann_id": 1070246, "best_split": [3, 3], "split_score": 0.7292983563954964}
+{"sent": "bulls eye sandwich", "ann_id": 1070246, "best_split": [3, 3], "split_score": 0.7292983563954964}
+{"sent": "hotdog with onion and relish", "ann_id": 1070246, "best_split": [3, 3], "split_score": 0.7292983563954964}
+{"sent": "hot dog closest to the black bag", "ann_id": 1069637, "best_split": [2, 3], "split_score": 0.44442441175115616}
+{"sent": "hot dog most closed up and closest to black bag", "ann_id": 1069637, "best_split": [2, 3], "split_score": 0.44442441175115616}

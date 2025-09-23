@@ -1,0 +1,5 @@
+{"sent": "laptop", "ann_id": 1104056, "best_split": [3, 2], "split_score": 0.6625290922553793}
+{"sent": "sorry bout that here laptop from ahnd with bracelets", "ann_id": 1104056, "best_split": [3, 2], "split_score": 0.6625290922553793}
+{"sent": "laptop with hand touching visible", "ann_id": 1104056, "best_split": [3, 2], "split_score": 0.6625290922553793}
+{"sent": "laptop turned off", "ann_id": 1100231, "best_split": [3, 1], "split_score": 0.49205055031785855}
+{"sent": "laptop with apple symbol cut off", "ann_id": 1100231, "best_split": [3, 1], "split_score": 0.49205055031785855}

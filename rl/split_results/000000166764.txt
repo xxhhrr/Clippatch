@@ -1,0 +1,9 @@
+{"sent": "boy standing", "ann_id": 1721735, "best_split": [2, 2], "split_score": 0.18588270184726902}
+{"sent": "standing player", "ann_id": 1721735, "best_split": [3, 1], "split_score": 0.09288364985304062}
+{"sent": "kid standing in doorway", "ann_id": 1721735, "best_split": [1, 5], "split_score": 0.3500405843800689}
+{"sent": "boy looking at his mitt", "ann_id": 449601, "best_split": [3, 3], "split_score": 0.4004944375153748}
+{"sent": "boy with glove sitting", "ann_id": 449601, "best_split": [3, 3], "split_score": 0.4004944375153748}
+{"sent": "guy with glove sitting", "ann_id": 449601, "best_split": [3, 3], "split_score": 0.4004944375153748}
+{"sent": "black and white striped shoes taller", "ann_id": 448852, "best_split": [1, 3], "split_score": 0.2609797297139853}
+{"sent": "bigger black kid", "ann_id": 448852, "best_split": [3, 3], "split_score": 0.4642963847528688}
+{"sent": "boy sitting with no glove", "ann_id": 448852, "best_split": [3, 3], "split_score": 0.4642963847528688}

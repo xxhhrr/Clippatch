@@ -1,0 +1,6 @@
+{"sent": "sliced apple", "ann_id": 1906403, "best_split": [2, 2], "split_score": 0.525214081788391}
+{"sent": "slices of apple", "ann_id": 1906403, "best_split": [2, 2], "split_score": 0.525214081788391}
+{"sent": "apple slices", "ann_id": 1906403, "best_split": [2, 2], "split_score": 0.525214081788391}
+{"sent": "apple", "ann_id": 1049699, "best_split": [3, 3], "split_score": 0.3796087934257211}
+{"sent": "the apple that is whole", "ann_id": 1049699, "best_split": [3, 3], "split_score": 0.3796087934257211}
+{"sent": "whole apple", "ann_id": 1049699, "best_split": [3, 3], "split_score": 0.3796087934257211}

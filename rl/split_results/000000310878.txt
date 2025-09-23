@@ -1,0 +1,6 @@
+{"sent": "person with blue jeans", "ann_id": 500090, "best_split": [2, 3], "split_score": 0.3711952486614492}
+{"sent": "taller person", "ann_id": 500090, "best_split": [2, 3], "split_score": 0.3711952486614492}
+{"sent": "man", "ann_id": 500090, "best_split": [2, 3], "split_score": 0.3711952486614492}
+{"sent": "white hat pls dont quit", "ann_id": 444543, "best_split": [1, 2], "split_score": 0.17610012754400112}
+{"sent": "white hatted person", "ann_id": 444543, "best_split": [1, 5], "split_score": 0.28849972916695255}
+{"sent": "person with white hat", "ann_id": 444543, "best_split": [1, 5], "split_score": 0.28849972916695255}

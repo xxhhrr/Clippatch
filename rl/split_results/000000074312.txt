@@ -1,0 +1,9 @@
+{"sent": "zebra furthest back", "ann_id": 592079, "best_split": [5, 1], "split_score": 0.23467230442066414}
+{"sent": "zebra with head down", "ann_id": 592079, "best_split": [5, 1], "split_score": 0.23467230442066414}
+{"sent": "leading zeb head deep in grass", "ann_id": 592079, "best_split": [2, 3], "split_score": 0.36720554268830147}
+{"sent": "closest zebra", "ann_id": 590056, "best_split": [3, 2], "split_score": 0.5239294709970774}
+{"sent": "zebra closest to us", "ann_id": 590056, "best_split": [3, 2], "split_score": 0.5239294709970774}
+{"sent": "the tallest zebra", "ann_id": 590056, "best_split": [3, 2], "split_score": 0.5239294709970774}
+{"sent": "zebra with face towards the camara", "ann_id": 589659, "best_split": [3, 3], "split_score": 0.6320830007140086}
+{"sent": "zebra facing directly into camera", "ann_id": 589659, "best_split": [3, 3], "split_score": 0.6320830007140086}
+{"sent": "zebra looking at you with no mane", "ann_id": 589659, "best_split": [3, 1], "split_score": 0.3216830675081052}

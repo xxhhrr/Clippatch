@@ -1,0 +1,6 @@
+{"sent": "closest large elephant", "ann_id": 581520, "best_split": [3, 3], "split_score": 0.45521380338256356}
+{"sent": "mama elephant standing next to baby", "ann_id": 581520, "best_split": [3, 3], "split_score": 0.45521380338256356}
+{"sent": "the biggest animal closest to us", "ann_id": 581520, "best_split": [3, 3], "split_score": 0.45521380338256356}
+{"sent": "sideview", "ann_id": 580476, "best_split": [2, 1], "split_score": 0.08156320521253849}
+{"sent": "elephant whose nose is leaving frame", "ann_id": 580476, "best_split": [3, 2], "split_score": 0.5514884743945918}
+{"sent": "elephant with trunk out of frame", "ann_id": 580476, "best_split": [3, 2], "split_score": 0.5514884743945918}

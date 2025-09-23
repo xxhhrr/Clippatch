@@ -1,0 +1,6 @@
+{"sent": "the bigger man not taller", "ann_id": 462553, "best_split": [2, 2], "split_score": 0.6024096385171865}
+{"sent": "older man", "ann_id": 462553, "best_split": [2, 2], "split_score": 0.6024096385171865}
+{"sent": "older fella", "ann_id": 462553, "best_split": [3, 2], "split_score": 0.3861209964167437}
+{"sent": "younger guy", "ann_id": 457848, "best_split": [2, 1], "split_score": 0.2871431782315448}
+{"sent": "taller man", "ann_id": 457848, "best_split": [2, 1], "split_score": 0.2871431782315448}
+{"sent": "man with darker hair", "ann_id": 457848, "best_split": [2, 1], "split_score": 0.2871431782315448}

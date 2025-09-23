@@ -1,0 +1,6 @@
+{"sent": "hand giving the money", "ann_id": 1746908, "best_split": [2, 3], "split_score": 0.43837585334310986}
+{"sent": "hand with money in it to give to the yellow glove", "ann_id": 1746908, "best_split": [5, 1], "split_score": 0.1993816254240829}
+{"sent": "unloved hand", "ann_id": 1746908, "best_split": [5, 1], "split_score": 0.1993816254240829}
+{"sent": "gloved hand", "ann_id": 501715, "best_split": [2, 2], "split_score": 0.48470123753058225}
+{"sent": "yellow glow", "ann_id": 501715, "best_split": [2, 2], "split_score": 0.48470123753058225}
+{"sent": "orange sleeve", "ann_id": 501715, "best_split": [2, 2], "split_score": 0.48470123753058225}

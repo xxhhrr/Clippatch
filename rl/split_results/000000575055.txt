@@ -1,0 +1,9 @@
+{"sent": "green shirt person", "ann_id": 481962, "best_split": [3, 3], "split_score": 0.5752714708075923}
+{"sent": "green shirt", "ann_id": 481962, "best_split": [3, 3], "split_score": 0.5752714708075923}
+{"sent": "person holding camera", "ann_id": 481962, "best_split": [3, 3], "split_score": 0.5752714708075923}
+{"sent": "striped shirt", "ann_id": 2166213, "best_split": [3, 3], "split_score": 0.5897996969214274}
+{"sent": "striped shirt no head", "ann_id": 2166213, "best_split": [3, 3], "split_score": 0.5897996969214274}
+{"sent": "white stripe shirt", "ann_id": 2166213, "best_split": [3, 3], "split_score": 0.5897996969214274}
+{"sent": "girl", "ann_id": 1743980, "best_split": [1, 2], "split_score": 0.6762758083177618}
+{"sent": "pink shirt", "ann_id": 1743980, "best_split": [1, 2], "split_score": 0.6762758083177618}
+{"sent": "girl in pink", "ann_id": 1743980, "best_split": [1, 2], "split_score": 0.6762758083177618}

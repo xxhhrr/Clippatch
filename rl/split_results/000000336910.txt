@@ -1,0 +1,9 @@
+{"sent": "pink shirt", "ann_id": 546065, "best_split": [1, 5], "split_score": 0.4368766515696124}
+{"sent": "pink shirt", "ann_id": 546065, "best_split": [1, 5], "split_score": 0.4368766515696124}
+{"sent": "woman in pink", "ann_id": 546065, "best_split": [1, 5], "split_score": 0.4368766515696124}
+{"sent": "woman standing against wall", "ann_id": 542275, "best_split": [5, 1], "split_score": 0.1492346938656541}
+{"sent": "person in black", "ann_id": 542275, "best_split": [3, 3], "split_score": 0.44278320867700066}
+{"sent": "older woman in black", "ann_id": 542275, "best_split": [3, 3], "split_score": 0.44278320867700066}
+{"sent": "white shirt man", "ann_id": 510924, "best_split": [3, 3], "split_score": 0.43186753522911675}
+{"sent": "man", "ann_id": 510924, "best_split": [5, 1], "split_score": 0.1413500496795849}
+{"sent": "person in all white", "ann_id": 510924, "best_split": [2, 3], "split_score": 0.2748783512761303}

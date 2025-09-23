@@ -1,0 +1,6 @@
+{"sent": "man with the vest", "ann_id": 519104, "best_split": [3, 1], "split_score": 0.19821428570322464}
+{"sent": "legs farthest away", "ann_id": 519104, "best_split": [2, 2], "split_score": 0.3903061224178646}
+{"sent": "person walking furthest from us", "ann_id": 519104, "best_split": [1, 5], "split_score": 0.34377846599163975}
+{"sent": "legs toting suitcases", "ann_id": 503182, "best_split": [2, 1], "split_score": 0.25730641758597067}
+{"sent": "dude closest to us", "ann_id": 503182, "best_split": [2, 3], "split_score": 0.6439333861375958}
+{"sent": "black pants", "ann_id": 503182, "best_split": [2, 3], "split_score": 0.6439333861375958}

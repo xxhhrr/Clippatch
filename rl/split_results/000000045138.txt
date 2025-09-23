@@ -1,0 +1,4 @@
+{"sent": "bench over by white car", "ann_id": 579927, "best_split": [5, 1], "split_score": 0.2705515088193594}
+{"sent": "bench touching huge pot", "ann_id": 579927, "best_split": [5, 1], "split_score": 0.2705515088193594}
+{"sent": "bench under yellow umbrella on end", "ann_id": 578329, "best_split": [1, 2], "split_score": 0.16804846938105675}
+{"sent": "closet bench", "ann_id": 578329, "best_split": [3, 3], "split_score": 0.42299221840801754}

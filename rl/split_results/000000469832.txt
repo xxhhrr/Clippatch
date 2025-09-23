@@ -1,0 +1,5 @@
+{"sent": "white sofa", "ann_id": 1604251, "best_split": [1, 5], "split_score": 0.3091334894355024}
+{"sent": "white couch with yellow pillows", "ann_id": 1604251, "best_split": [3, 1], "split_score": 0.25558424064117274}
+{"sent": "beige couch", "ann_id": 98029, "best_split": [2, 3], "split_score": 0.7672902190521336}
+{"sent": "brown couch", "ann_id": 98029, "best_split": [2, 3], "split_score": 0.7672902190521336}
+{"sent": "patterned sofa", "ann_id": 98029, "best_split": [2, 3], "split_score": 0.7672902190521336}

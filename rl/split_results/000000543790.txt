@@ -1,0 +1,6 @@
+{"sent": "coffee cake", "ann_id": 1926988, "best_split": [3, 2], "split_score": 0.587198356958138}
+{"sent": "larger food", "ann_id": 1926988, "best_split": [3, 2], "split_score": 0.587198356958138}
+{"sent": "bigger side of cake", "ann_id": 1926988, "best_split": [3, 2], "split_score": 0.587198356958138}
+{"sent": "sliced piece of bread or cake", "ann_id": 1577703, "best_split": [3, 3], "split_score": 0.611386510348297}
+{"sent": "piece at 12 o clock", "ann_id": 1577703, "best_split": [2, 1], "split_score": 0.20930325254267765}
+{"sent": "small piece", "ann_id": 1577703, "best_split": [5, 1], "split_score": 0.2504759539565867}

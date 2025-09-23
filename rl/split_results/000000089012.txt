@@ -1,0 +1,6 @@
+{"sent": "woman holding leash", "ann_id": 519213, "best_split": [1, 5], "split_score": 0.547889610334021}
+{"sent": "woman pulling kid", "ann_id": 519213, "best_split": [3, 2], "split_score": 0.24165457182133032}
+{"sent": "woman in hat toting kid", "ann_id": 519213, "best_split": [1, 5], "split_score": 0.547889610334021}
+{"sent": "tall guy", "ann_id": 432859, "best_split": [3, 2], "split_score": 0.2573798269635798}
+{"sent": "guy next to kid", "ann_id": 432859, "best_split": [1, 2], "split_score": 0.2316246811132165}
+{"sent": "dad", "ann_id": 432859, "best_split": [1, 2], "split_score": 0.2316246811132165}

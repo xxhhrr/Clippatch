@@ -1,0 +1,5 @@
+{"sent": "dog on its back", "ann_id": 1956922, "best_split": [1, 2], "split_score": 0.9202806122082159}
+{"sent": "dog on his back", "ann_id": 1956922, "best_split": [1, 2], "split_score": 0.9202806122082159}
+{"sent": "dog belly bed", "ann_id": 1956922, "best_split": [1, 2], "split_score": 0.9202806122082159}
+{"sent": "bed with checkered pillow ontop", "ann_id": 315603, "best_split": [3, 1], "split_score": 0.3028649385972912}
+{"sent": "bed not the light red blanket one", "ann_id": 315603, "best_split": [3, 2], "split_score": 0.4361493123540514}

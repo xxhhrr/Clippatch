@@ -1,0 +1,6 @@
+{"sent": "train 1", "ann_id": 171667, "best_split": [3, 1], "split_score": 0.3667908709614118}
+{"sent": "bi train", "ann_id": 171667, "best_split": [3, 1], "split_score": 0.3667908709614118}
+{"sent": "bi", "ann_id": 171667, "best_split": [3, 2], "split_score": 0.7088208820084585}
+{"sent": "train 69621", "ann_id": 171585, "best_split": [2, 2], "split_score": 0.6734006733570707}
+{"sent": "train with steam", "ann_id": 171585, "best_split": [2, 2], "split_score": 0.6734006733570707}
+{"sent": "train head", "ann_id": 171585, "best_split": [2, 2], "split_score": 0.6734006733570707}

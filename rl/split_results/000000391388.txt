@@ -1,0 +1,5 @@
+{"sent": "broccoli closest to us", "ann_id": 1058151, "best_split": [3, 3], "split_score": 0.4350056098036535}
+{"sent": "broccoli closest", "ann_id": 1058151, "best_split": [3, 3], "split_score": 0.4350056098036535}
+{"sent": "broccoli closer to me", "ann_id": 1058151, "best_split": [3, 3], "split_score": 0.4350056098036535}
+{"sent": "charred broccoli", "ann_id": 1056590, "best_split": [3, 2], "split_score": 0.3215959881912574}
+{"sent": "black broccoli", "ann_id": 1056590, "best_split": [3, 2], "split_score": 0.3215959881912574}

@@ -1,0 +1,5 @@
+{"sent": "man in white closest to you", "ann_id": 550633, "best_split": [2, 3], "split_score": 0.4453018610580752}
+{"sent": "man glasses", "ann_id": 550633, "best_split": [1, 3], "split_score": 0.4195742684325588}
+{"sent": "man with drink", "ann_id": 488450, "best_split": [2, 2], "split_score": 0.2578259968034119}
+{"sent": "guy standing apart holding drink", "ann_id": 488450, "best_split": [2, 2], "split_score": 0.2578259968034119}
+{"sent": "black pants 2 o clock", "ann_id": 488450, "best_split": [2, 1], "split_score": 0.06686560949141658}

@@ -1,0 +1,12 @@
+{"sent": "tray of food", "ann_id": 2226065, "best_split": [3, 1], "split_score": 0.7756197874571221}
+{"sent": "green tray", "ann_id": 2226065, "best_split": [3, 1], "split_score": 0.7756197874571221}
+{"sent": "blue tray", "ann_id": 2226065, "best_split": [3, 1], "split_score": 0.7756197874571221}
+{"sent": "two empty plates", "ann_id": 2133035, "best_split": [3, 3], "split_score": 0.7343419553059473}
+{"sent": "table with two black empty plates", "ann_id": 2133035, "best_split": [3, 3], "split_score": 0.7343419553059473}
+{"sent": "two empty plates", "ann_id": 2133035, "best_split": [3, 3], "split_score": 0.7343419553059473}
+{"sent": "guy sitting", "ann_id": 453124, "best_split": [3, 1], "split_score": 0.30523728176720816}
+{"sent": "man with cup", "ann_id": 453124, "best_split": [2, 2], "split_score": 0.6499425738590375}
+{"sent": "man with cup in hand", "ann_id": 453124, "best_split": [2, 2], "split_score": 0.6499425738590375}
+{"sent": "blurry dude red shirt", "ann_id": 452175, "best_split": [2, 2], "split_score": 0.5066483892730193}
+{"sent": "red shirt", "ann_id": 452175, "best_split": [2, 2], "split_score": 0.5066483892730193}
+{"sent": "walking by", "ann_id": 452175, "best_split": [2, 2], "split_score": 0.5066483892730193}

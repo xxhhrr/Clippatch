@@ -1,0 +1,6 @@
+{"sent": "lower donut", "ann_id": 1081965, "best_split": [2, 3], "split_score": 0.2705682781731798}
+{"sent": "donut in contact with wood", "ann_id": 1081965, "best_split": [3, 3], "split_score": 0.38549848936774944}
+{"sent": "donut with shadows on it", "ann_id": 1081965, "best_split": [3, 3], "split_score": 0.38549848936774944}
+{"sent": "higher donut", "ann_id": 1081546, "best_split": [2, 3], "split_score": 0.4455549710287958}
+{"sent": "upper donut", "ann_id": 1081546, "best_split": [2, 3], "split_score": 0.4455549710287958}
+{"sent": "highest doughnut", "ann_id": 1081546, "best_split": [2, 3], "split_score": 0.4455549710287958}

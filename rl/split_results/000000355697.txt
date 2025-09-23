@@ -1,0 +1,9 @@
+{"sent": "red cap", "ann_id": 198995, "best_split": [1, 2], "split_score": 0.47439839570606956}
+{"sent": "man with cap", "ann_id": 198995, "best_split": [1, 2], "split_score": 0.47439839570606956}
+{"sent": "chair red cap", "ann_id": 198995, "best_split": [1, 2], "split_score": 0.47439839570606956}
+{"sent": "woman with beer", "ann_id": 2150575, "best_split": [2, 2], "split_score": 0.4640411996083586}
+{"sent": "holding bottle", "ann_id": 2150575, "best_split": [2, 2], "split_score": 0.4640411996083586}
+{"sent": "girl", "ann_id": 2150575, "best_split": [2, 2], "split_score": 0.4640411996083586}
+{"sent": "bald guy", "ann_id": 2148875, "best_split": [1, 5], "split_score": 0.40046983182489676}
+{"sent": "man with glasses", "ann_id": 2148875, "best_split": [1, 3], "split_score": 0.6178673716337372}
+{"sent": "man with reading glasses", "ann_id": 2148875, "best_split": [1, 3], "split_score": 0.6178673716337372}

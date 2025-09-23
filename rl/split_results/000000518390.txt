@@ -1,0 +1,6 @@
+{"sent": "back of head with hair up", "ann_id": 1746155, "best_split": [2, 2], "split_score": 0.6923876631227684}
+{"sent": "mom", "ann_id": 1746155, "best_split": [2, 1], "split_score": 0.4168754655509963}
+{"sent": "woman", "ann_id": 1746155, "best_split": [2, 2], "split_score": 0.6923876631227684}
+{"sent": "orange shirt", "ann_id": 427029, "best_split": [1, 5], "split_score": 0.4309603439780841}
+{"sent": "red hat", "ann_id": 427029, "best_split": [1, 5], "split_score": 0.4309603439780841}
+{"sent": "orange", "ann_id": 427029, "best_split": [1, 5], "split_score": 0.4309603439780841}

@@ -1,0 +1,6 @@
+{"sent": "empty bench with the white sign", "ann_id": 577538, "best_split": [3, 2], "split_score": 0.5220649458240981}
+{"sent": "bench with white sign", "ann_id": 577538, "best_split": [3, 2], "split_score": 0.5220649458240981}
+{"sent": "empty bench", "ann_id": 577538, "best_split": [3, 2], "split_score": 0.5220649458240981}
+{"sent": "bench with people on it", "ann_id": 577012, "best_split": [3, 2], "split_score": 0.4484536082002468}
+{"sent": "sign behind the people", "ann_id": 577012, "best_split": [3, 1], "split_score": 0.23957513767339692}
+{"sent": "back part of bench being used", "ann_id": 577012, "best_split": [2, 2], "split_score": 0.31809872026924324}

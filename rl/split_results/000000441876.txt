@@ -1,0 +1,6 @@
+{"sent": "blurry toothbrush", "ann_id": 1998009, "best_split": [1, 3], "split_score": 0.3565058414181528}
+{"sent": "light blue brush", "ann_id": 1998009, "best_split": [1, 3], "split_score": 0.3565058414181528}
+{"sent": "blurry brush", "ann_id": 1998009, "best_split": [1, 3], "split_score": 0.3565058414181528}
+{"sent": "closest toothbrush", "ann_id": 343372, "best_split": [1, 5], "split_score": 0.4789602446190238}
+{"sent": "closest bush", "ann_id": 343372, "best_split": [1, 3], "split_score": 0.4218469608235473}
+{"sent": "toothbrush closest to you", "ann_id": 343372, "best_split": [1, 5], "split_score": 0.4789602446190238}

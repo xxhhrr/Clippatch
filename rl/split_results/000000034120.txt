@@ -1,0 +1,9 @@
+{"sent": "man in gray playing wii", "ann_id": 2204063, "best_split": [3, 3], "split_score": 0.3826063899797685}
+{"sent": "bald man", "ann_id": 2204063, "best_split": [1, 5], "split_score": 0.3013181019067383}
+{"sent": "gray and black man on workout bench", "ann_id": 2204063, "best_split": [3, 3], "split_score": 0.3826063899797685}
+{"sent": "red shirt sitting", "ann_id": 2204008, "best_split": [1, 5], "split_score": 0.4543201717781001}
+{"sent": "red shirt", "ann_id": 2204008, "best_split": [1, 5], "split_score": 0.4543201717781001}
+{"sent": "guy in red shirt", "ann_id": 2204008, "best_split": [1, 5], "split_score": 0.4543201717781001}
+{"sent": "backward hat", "ann_id": 2203923, "best_split": [1, 5], "split_score": 0.3372103115756262}
+{"sent": "hat guy", "ann_id": 2203923, "best_split": [1, 3], "split_score": 0.3259423503130615}
+{"sent": "man on couch", "ann_id": 2203923, "best_split": [3, 2], "split_score": 0.26351351348945273}

@@ -1,0 +1,9 @@
+{"sent": "the orange nearest to the correct rounds remaining box", "ann_id": 2187613, "best_split": [5, 1], "split_score": 0.20100412406302634}
+{"sent": "orange at 900", "ann_id": 2187613, "best_split": [5, 1], "split_score": 0.20100412406302634}
+{"sent": "orange 900", "ann_id": 2187613, "best_split": [5, 1], "split_score": 0.20100412406302634}
+{"sent": "1200 orange", "ann_id": 1054387, "best_split": [2, 3], "split_score": 0.4784025095947873}
+{"sent": "fruit at 12 o clock", "ann_id": 1054387, "best_split": [2, 3], "split_score": 0.4784025095947873}
+{"sent": "once closest to you", "ann_id": 1054075, "best_split": [2, 3], "split_score": 0.41175136111481947}
+{"sent": "southern orange", "ann_id": 1054075, "best_split": [1, 5], "split_score": 0.23929961087377966}
+{"sent": "orange forground", "ann_id": 1054075, "best_split": [1, 5], "split_score": 0.23929961087377966}
+{"sent": "smallest orange about to fall off", "ann_id": 1052513, "best_split": [3, 2], "split_score": 0.4096789649724869}

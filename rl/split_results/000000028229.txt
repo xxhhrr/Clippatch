@@ -1,0 +1,5 @@
+{"sent": "couch on rite side", "ann_id": 113687, "best_split": [2, 1], "split_score": 0.12723214285207143}
+{"sent": "sofa we can barely see", "ann_id": 113687, "best_split": [3, 1], "split_score": 0.18357082982974668}
+{"sent": "couch with no picture above it", "ann_id": 113687, "best_split": [2, 1], "split_score": 0.12723214285207143}
+{"sent": "couch by stand with lamp", "ann_id": 111383, "best_split": [2, 2], "split_score": 0.5227200254685331}
+{"sent": "whole couch", "ann_id": 111383, "best_split": [2, 2], "split_score": 0.5227200254685331}

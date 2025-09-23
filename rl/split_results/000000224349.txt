@@ -1,0 +1,6 @@
+{"sent": "red part flying", "ann_id": 1464469, "best_split": [3, 2], "split_score": 0.4942366025789447}
+{"sent": "red kite", "ann_id": 1464469, "best_split": [5, 1], "split_score": 0.30809859152464}
+{"sent": "red octopus kite", "ann_id": 1464469, "best_split": [5, 1], "split_score": 0.30809859152464}
+{"sent": "blue kite", "ann_id": 621064, "best_split": [3, 1], "split_score": 0.19815510760743907}
+{"sent": "blue octopus kite", "ann_id": 621064, "best_split": [3, 1], "split_score": 0.19815510760743907}
+{"sent": "blue octopus", "ann_id": 621064, "best_split": [3, 3], "split_score": 0.3728251863611122}

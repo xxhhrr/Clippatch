@@ -1,0 +1,11 @@
+{"sent": "bowl with white stuff", "ann_id": 1532957, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "bowl of greens", "ann_id": 1532957, "best_split": [3, 3], "split_score": 0.6708507669681222}
+{"sent": "the slices in this white bowl", "ann_id": 1532957, "best_split": [3, 2], "split_score": 0.45016378094874077}
+{"sent": "farther most pizza", "ann_id": 1077524, "best_split": [1, 3], "split_score": 0.02177951146922172}
+{"sent": "further pizza", "ann_id": 1077524, "best_split": [1, 3], "split_score": 0.02177951146922172}
+{"sent": "far pizza", "ann_id": 1077524, "best_split": [1, 3], "split_score": 0.02177951146922172}
+{"sent": "pizza closer to you", "ann_id": 1071283, "best_split": [2, 1], "split_score": 0.4646111428511277}
+{"sent": "closer pizza", "ann_id": 1071283, "best_split": [2, 1], "split_score": 0.4646111428511277}
+{"sent": "biggest pizza pie", "ann_id": 1071283, "best_split": [2, 1], "split_score": 0.4646111428511277}
+{"sent": "bowl with spoon", "ann_id": 709036, "best_split": [3, 2], "split_score": 0.41228281848307397}
+{"sent": "bowl", "ann_id": 709036, "best_split": [3, 2], "split_score": 0.41228281848307397}

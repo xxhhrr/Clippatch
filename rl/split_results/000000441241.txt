@@ -1,0 +1,5 @@
+{"sent": "figure above shiny silver thing", "ann_id": 1993270, "best_split": [1, 2], "split_score": 0.302814094375685}
+{"sent": "next to the pillar in the back", "ann_id": 1993270, "best_split": [2, 1], "split_score": 0.302814094375685}
+{"sent": "glass bowl on tabe", "ann_id": 1670947, "best_split": [2, 3], "split_score": 0.3345210647312386}
+{"sent": "ridged vase below flowers", "ann_id": 1670947, "best_split": [1, 5], "split_score": 0.18965230409335782}
+{"sent": "white thingy looks warped", "ann_id": 1670947, "best_split": [2, 3], "split_score": 0.3345210647312386}

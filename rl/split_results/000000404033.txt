@@ -1,0 +1,8 @@
+{"sent": "brown hair white shirt darker skin", "ann_id": 1226915, "best_split": [1, 5], "split_score": 0.5061265544526219}
+{"sent": "boy in white plaid shirt", "ann_id": 1226915, "best_split": [2, 2], "split_score": 0.3964285713996772}
+{"sent": "white shirt no hat", "ann_id": 1226915, "best_split": [2, 2], "split_score": 0.3964285713996772}
+{"sent": "man with glasses and blue shirt with white stripes", "ann_id": 533715, "best_split": [1, 3], "split_score": 0.5362076182182498}
+{"sent": "man with glasses", "ann_id": 533715, "best_split": [2, 3], "split_score": 0.45343689965309975}
+{"sent": "man on cellphone", "ann_id": 532124, "best_split": [1, 2], "split_score": 0.8132174744573814}
+{"sent": "guy with fingers in ears", "ann_id": 532124, "best_split": [1, 2], "split_score": 0.8132174744573814}
+{"sent": "guy with phone on ear", "ann_id": 532124, "best_split": [1, 2], "split_score": 0.8132174744573814}

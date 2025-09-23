@@ -1,0 +1,6 @@
+{"sent": "woman in red", "ann_id": 2161653, "best_split": [2, 3], "split_score": 0.3869204291975177}
+{"sent": "red gown", "ann_id": 2161653, "best_split": [2, 3], "split_score": 0.3869204291975177}
+{"sent": "woman", "ann_id": 2161653, "best_split": [3, 3], "split_score": 0.27958632033381287}
+{"sent": "guy carrying sack", "ann_id": 462345, "best_split": [2, 1], "split_score": 0.3229293872450639}
+{"sent": "guy with sack", "ann_id": 462345, "best_split": [3, 1], "split_score": 0.2503200741578597}
+{"sent": "man carrying large white bag", "ann_id": 462345, "best_split": [2, 2], "split_score": 0.5877238854368072}

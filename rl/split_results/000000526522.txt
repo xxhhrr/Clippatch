@@ -1,0 +1,8 @@
+{"sent": "guy holding cup down", "ann_id": 223974, "best_split": [2, 1], "split_score": 0.23655913977737586}
+{"sent": "bald", "ann_id": 223974, "best_split": [1, 3], "split_score": 0.7614593077197462}
+{"sent": "bald guy", "ann_id": 223974, "best_split": [1, 3], "split_score": 0.7614593077197462}
+{"sent": "woman with glasses", "ann_id": 212380, "best_split": [2, 3], "split_score": 0.47840327528368437}
+{"sent": "man between 2 others", "ann_id": 212380, "best_split": [2, 3], "split_score": 0.47840327528368437}
+{"sent": "striped shirt", "ann_id": 212380, "best_split": [2, 3], "split_score": 0.47840327528368437}
+{"sent": "young man with striped shirt", "ann_id": 211248, "best_split": [1, 2], "split_score": 0.6380739795664033}
+{"sent": "man in stripe shirt", "ann_id": 211248, "best_split": [1, 2], "split_score": 0.6380739795664033}

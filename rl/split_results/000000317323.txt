@@ -1,0 +1,9 @@
+{"sent": "case between 2 tohers", "ann_id": 1184816, "best_split": [5, 1], "split_score": 0.2155758683571791}
+{"sent": "lightest tallest brown case standing upright", "ann_id": 1184816, "best_split": [3, 2], "split_score": 0.2800782246169477}
+{"sent": "third briefcase", "ann_id": 1184816, "best_split": [2, 3], "split_score": 0.3402474850582883}
+{"sent": "darker brown suitcase", "ann_id": 1183451, "best_split": [3, 3], "split_score": 0.6502295081114453}
+{"sent": "suitcase next to the upper one", "ann_id": 1183451, "best_split": [3, 3], "split_score": 0.6502295081114453}
+{"sent": "darkest luggage", "ann_id": 1183451, "best_split": [3, 3], "split_score": 0.6502295081114453}
+{"sent": "the suitcase on its side", "ann_id": 1183438, "best_split": [2, 1], "split_score": 0.3631678871570705}
+{"sent": "luggage thats higher than the others", "ann_id": 1183438, "best_split": [2, 1], "split_score": 0.3631678871570705}
+{"sent": "suitcase on a slant", "ann_id": 1183438, "best_split": [2, 1], "split_score": 0.3631678871570705}

@@ -1,0 +1,5 @@
+{"sent": "gray chair kinda out of pic", "ann_id": 104120, "best_split": [2, 3], "split_score": 0.7175936435053809}
+{"sent": "empty gray chair", "ann_id": 104120, "best_split": [2, 3], "split_score": 0.7175936435053809}
+{"sent": "empty chair", "ann_id": 104120, "best_split": [2, 3], "split_score": 0.7175936435053809}
+{"sent": "the chair the person with the white laptop is sitting in not the person just their chair", "ann_id": 1932080, "best_split": [2, 1], "split_score": 0.1324093073625611}
+{"sent": "lace couch", "ann_id": 1932080, "best_split": [3, 3], "split_score": 0.35009806663629894}

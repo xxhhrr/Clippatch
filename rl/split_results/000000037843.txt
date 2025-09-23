@@ -1,0 +1,14 @@
+{"sent": "the whole pizza with tomatoes", "ann_id": 1076066, "best_split": [5, 1], "split_score": 0.3327300930498494}
+{"sent": "whole pizza", "ann_id": 1076066, "best_split": [5, 1], "split_score": 0.3327300930498494}
+{"sent": "pizza with only a few toppings behind glass", "ann_id": 1076066, "best_split": [5, 1], "split_score": 0.3327300930498494}
+{"sent": "pizza with ham", "ann_id": 1073085, "best_split": [2, 3], "split_score": 0.5730612244313202}
+{"sent": "whole pizzawith ham", "ann_id": 1073085, "best_split": [2, 3], "split_score": 0.5730612244313202}
+{"sent": "colorful shirt person", "ann_id": 2152639, "best_split": [3, 3], "split_score": 0.7997457087095127}
+{"sent": "multicolored shirt", "ann_id": 2152639, "best_split": [3, 3], "split_score": 0.7997457087095127}
+{"sent": "flower dress", "ann_id": 2152639, "best_split": [3, 3], "split_score": 0.7997457087095127}
+{"sent": "one piece missing", "ann_id": 1077855, "best_split": [3, 1], "split_score": 0.16239316238378418}
+{"sent": "pizza with one slice gone", "ann_id": 1077855, "best_split": [3, 1], "split_score": 0.16239316238378418}
+{"sent": "pizza with only one piece gone", "ann_id": 1077855, "best_split": [3, 1], "split_score": 0.16239316238378418}
+{"sent": "elbows", "ann_id": 564112, "best_split": [3, 2], "split_score": 0.45354951791700815}
+{"sent": "elbows on table", "ann_id": 564112, "best_split": [1, 2], "split_score": 0.028739564799892585}
+{"sent": "person with elbows on table", "ann_id": 564112, "best_split": [1, 2], "split_score": 0.028739564799892585}

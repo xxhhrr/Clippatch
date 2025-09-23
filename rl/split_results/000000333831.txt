@@ -1,0 +1,10 @@
+{"sent": "grandma in purple with white hair", "ann_id": 226834, "best_split": [1, 5], "split_score": 0.5131463199576634}
+{"sent": "woman with gray hair", "ann_id": 226834, "best_split": [1, 5], "split_score": 0.5131463199576634}
+{"sent": "older lady", "ann_id": 226834, "best_split": [1, 5], "split_score": 0.5131463199576634}
+{"sent": "blond girl pink shirt", "ann_id": 218142, "best_split": [3, 3], "split_score": 0.6358887951750819}
+{"sent": "little girl watching", "ann_id": 218142, "best_split": [3, 3], "split_score": 0.6358887951750819}
+{"sent": "mom serving kids", "ann_id": 208588, "best_split": [2, 3], "split_score": 0.4702675072013744}
+{"sent": "woman in gray shirt", "ann_id": 208588, "best_split": [2, 1], "split_score": 0.22908697220393046}
+{"sent": "woman in gray", "ann_id": 208588, "best_split": [2, 1], "split_score": 0.22908697220393046}
+{"sent": "child next to the woman in gray", "ann_id": 2161788, "best_split": [3, 2], "split_score": 0.27357032455008906}
+{"sent": "reaching for cake boy", "ann_id": 2161788, "best_split": [2, 3], "split_score": 0.30089153043268096}

@@ -1,0 +1,12 @@
+{"sent": "guy closest to guy all in blue", "ann_id": 1716702, "best_split": [1, 5], "split_score": 0.3577516233403255}
+{"sent": "rightest", "ann_id": 1716702, "best_split": [2, 1], "split_score": 0.13313796926448843}
+{"sent": "white shirt standing", "ann_id": 1716702, "best_split": [2, 3], "split_score": 0.3977756743495296}
+{"sent": "blue jeans and jacket on bench sleeping", "ann_id": 1300562, "best_split": [2, 3], "split_score": 0.5508819538136381}
+{"sent": "the white hair guy", "ann_id": 1300562, "best_split": [1, 3], "split_score": 0.4653716215935466}
+{"sent": "man in jean jacket", "ann_id": 1300562, "best_split": [2, 3], "split_score": 0.5508819538136381}
+{"sent": "standing blond woman", "ann_id": 1289426, "best_split": [3, 2], "split_score": 0.30918303846482503}
+{"sent": "woman in brown", "ann_id": 1289426, "best_split": [3, 2], "split_score": 0.30918303846482503}
+{"sent": "woman", "ann_id": 1289426, "best_split": [3, 2], "split_score": 0.30918303846482503}
+{"sent": "guy in white shirt sitting", "ann_id": 1271585, "best_split": [1, 5], "split_score": 0.555399719439451}
+{"sent": "man in white sleeping", "ann_id": 1271585, "best_split": [1, 5], "split_score": 0.555399719439451}
+{"sent": "white shirt drunk guy", "ann_id": 1271585, "best_split": [1, 5], "split_score": 0.555399719439451}

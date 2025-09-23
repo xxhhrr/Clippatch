@@ -1,0 +1,6 @@
+{"sent": "bananas", "ann_id": 1535995, "best_split": [1, 2], "split_score": 0.6175813501499893}
+{"sent": "bananas", "ann_id": 1535995, "best_split": [1, 2], "split_score": 0.6175813501499893}
+{"sent": "sliced bananas", "ann_id": 1535995, "best_split": [1, 2], "split_score": 0.6175813501499893}
+{"sent": "the veggies closest to yogurt not banana tray", "ann_id": 1533165, "best_split": [2, 1], "split_score": 0.40642799022415355}
+{"sent": "tray without carrot", "ann_id": 1533165, "best_split": [2, 1], "split_score": 0.40642799022415355}
+{"sent": "noodles", "ann_id": 1533165, "best_split": [1, 2], "split_score": 0.7369988873869648}

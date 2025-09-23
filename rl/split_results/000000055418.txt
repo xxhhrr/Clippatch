@@ -1,0 +1,6 @@
+{"sent": "boxcar with red stripe", "ann_id": 2050957, "best_split": [2, 1], "split_score": 0.2795698924620663}
+{"sent": "train with red stripe", "ann_id": 2050957, "best_split": [5, 1], "split_score": 0.36433121016207554}
+{"sent": "red and white strip train", "ann_id": 2050957, "best_split": [5, 1], "split_score": 0.36433121016207554}
+{"sent": "yellow door", "ann_id": 170483, "best_split": [3, 2], "split_score": 0.55743324029036}
+{"sent": "yellow", "ann_id": 170483, "best_split": [3, 2], "split_score": 0.55743324029036}
+{"sent": "47845", "ann_id": 170483, "best_split": [3, 2], "split_score": 0.55743324029036}

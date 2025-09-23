@@ -1,0 +1,9 @@
+{"sent": "pizza with pepperonis not the one the guy is eating", "ann_id": 1075921, "best_split": [2, 3], "split_score": 0.4331857877218344}
+{"sent": "pizza with no spatula on dish", "ann_id": 1075921, "best_split": [2, 3], "split_score": 0.4331857877218344}
+{"sent": "lonely pizza", "ann_id": 1075921, "best_split": [2, 3], "split_score": 0.4331857877218344}
+{"sent": "two pieces missing", "ann_id": 1073289, "best_split": [3, 1], "split_score": 0.2493967181316725}
+{"sent": "pizza with only sauce", "ann_id": 1073289, "best_split": [3, 2], "split_score": 0.4987934362332537}
+{"sent": "pizza near round cutter not person smelling", "ann_id": 1073289, "best_split": [3, 2], "split_score": 0.4987934362332537}
+{"sent": "pizza beneath guy", "ann_id": 1071492, "best_split": [3, 3], "split_score": 0.46254071654389384}
+{"sent": "whats being eaten", "ann_id": 1071492, "best_split": [3, 3], "split_score": 0.46254071654389384}
+{"sent": "pizza person is eatting", "ann_id": 1071492, "best_split": [3, 3], "split_score": 0.46254071654389384}

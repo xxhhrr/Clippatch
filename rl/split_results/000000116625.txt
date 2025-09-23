@@ -1,0 +1,10 @@
+{"sent": "the plate", "ann_id": 1959497, "best_split": [1, 2], "split_score": 0.48332664525514996}
+{"sent": "anywhere", "ann_id": 1959497, "best_split": [1, 2], "split_score": 0.5033247249628215}
+{"sent": "plate of shrimp", "ann_id": 1959497, "best_split": [1, 2], "split_score": 0.5033247249628215}
+{"sent": "round white plate", "ann_id": 1902793, "best_split": [2, 1], "split_score": 0.6482116151343403}
+{"sent": "shrimp", "ann_id": 1902793, "best_split": [2, 1], "split_score": 0.6482116151343403}
+{"sent": "white plate", "ann_id": 1902793, "best_split": [2, 1], "split_score": 0.6482116151343403}
+{"sent": "bread", "ann_id": 1901809, "best_split": [3, 2], "split_score": 0.7199466902958732}
+{"sent": "bread and cheese", "ann_id": 1901809, "best_split": [3, 2], "split_score": 0.7199466902958732}
+{"sent": "place mat", "ann_id": 415099, "best_split": [2, 1], "split_score": 0.6769807519953843}
+{"sent": "brown mat by water", "ann_id": 415099, "best_split": [3, 1], "split_score": 0.4600840336003837}

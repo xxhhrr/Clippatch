@@ -1,0 +1,15 @@
+{"sent": "red book with yellow levine on it", "ann_id": 1147045, "best_split": [2, 1], "split_score": 0.20165962109747693}
+{"sent": "levine book to rear of bear", "ann_id": 1147045, "best_split": [2, 3], "split_score": 0.40859343327841574}
+{"sent": "red book behind bears ear", "ann_id": 1147045, "best_split": [2, 3], "split_score": 0.40859343327841574}
+{"sent": "red book with yellow science", "ann_id": 1145852, "best_split": [2, 1], "split_score": 0.11394137550416525}
+{"sent": "red book above bears foot", "ann_id": 1145852, "best_split": [2, 1], "split_score": 0.11394137550416525}
+{"sent": "science and beha", "ann_id": 1145852, "best_split": [3, 3], "split_score": 0.2554101334384592}
+{"sent": "foot touching book", "ann_id": 1651354, "best_split": [2, 1], "split_score": 0.11222444889377954}
+{"sent": "red book white title near foot", "ann_id": 1651354, "best_split": [2, 1], "split_score": 0.11222444889377954}
+{"sent": "slim red book with white title", "ann_id": 1651354, "best_split": [2, 1], "split_score": 0.11222444889377954}
+{"sent": "whie book at bears foot", "ann_id": 1141080, "best_split": [2, 1], "split_score": 0.14774744026799497}
+{"sent": "white book 3 o clock side", "ann_id": 1141080, "best_split": [2, 1], "split_score": 0.14774744026799497}
+{"sent": "what is my type", "ann_id": 1141080, "best_split": [2, 1], "split_score": 0.14774744026799497}
+{"sent": "white book on writing", "ann_id": 1139725, "best_split": [1, 5], "split_score": 0.6079545453928618}
+{"sent": "writing vail book", "ann_id": 1139725, "best_split": [1, 5], "split_score": 0.6079545453928618}
+{"sent": "book with ar and writing vail", "ann_id": 1139725, "best_split": [1, 5], "split_score": 0.6079545453928618}

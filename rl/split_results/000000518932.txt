@@ -1,0 +1,11 @@
+{"sent": "man with black watch", "ann_id": 569281, "best_split": [1, 2], "split_score": 0.22656249999096928}
+{"sent": "man with black wrist band", "ann_id": 569281, "best_split": [2, 2], "split_score": 0.3647798741865244}
+{"sent": "watch on wrist", "ann_id": 569281, "best_split": [1, 5], "split_score": 0.3720642768521928}
+{"sent": "man in purple", "ann_id": 562079, "best_split": [3, 2], "split_score": 0.5572519083394624}
+{"sent": "purple shirt", "ann_id": 562079, "best_split": [3, 2], "split_score": 0.5572519083394624}
+{"sent": "purple shirt", "ann_id": 562079, "best_split": [3, 2], "split_score": 0.5572519083394624}
+{"sent": "blue shirt mustache at the side", "ann_id": 559147, "best_split": [3, 1], "split_score": 0.128373168845009}
+{"sent": "man in blue at 3 o clock", "ann_id": 559147, "best_split": [2, 1], "split_score": 0.13865905848292942}
+{"sent": "man in suit", "ann_id": 1725638, "best_split": [2, 1], "split_score": 0.5530963196311973}
+{"sent": "man in brown suit", "ann_id": 1725638, "best_split": [2, 1], "split_score": 0.5530963196311973}
+{"sent": "foreground guy", "ann_id": 1725638, "best_split": [1, 2], "split_score": 0.48347464192142486}

@@ -1,0 +1,6 @@
+{"sent": "taller elephant", "ann_id": 583489, "best_split": [1, 5], "split_score": 0.5426356588646516}
+{"sent": "fartherest elephant", "ann_id": 583489, "best_split": [1, 5], "split_score": 0.5426356588646516}
+{"sent": "tallest elephant", "ann_id": 583489, "best_split": [1, 5], "split_score": 0.5426356588646516}
+{"sent": "trunk out", "ann_id": 580945, "best_split": [3, 2], "split_score": 0.4407260351360801}
+{"sent": "dont get your nose to close", "ann_id": 580945, "best_split": [1, 2], "split_score": 0.40776699027579766}
+{"sent": "elephant butt", "ann_id": 580945, "best_split": [3, 2], "split_score": 0.4407260351360801}

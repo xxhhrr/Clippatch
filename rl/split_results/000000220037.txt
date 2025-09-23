@@ -1,0 +1,18 @@
+{"sent": "big smile", "ann_id": 535782, "best_split": [1, 5], "split_score": 0.5665236050949548}
+{"sent": "woman in white or yellow shirt", "ann_id": 535782, "best_split": [1, 5], "split_score": 0.5665236050949548}
+{"sent": "girl in pale dress", "ann_id": 535782, "best_split": [1, 5], "split_score": 0.5665236050949548}
+{"sent": "lady with glasses", "ann_id": 507650, "best_split": [3, 3], "split_score": 0.39349775778451346}
+{"sent": "glasses woman", "ann_id": 507650, "best_split": [3, 3], "split_score": 0.39349775778451346}
+{"sent": "woman with glasses", "ann_id": 507650, "best_split": [3, 3], "split_score": 0.39349775778451346}
+{"sent": "empty seat back between both used tables", "ann_id": 2224011, "best_split": [3, 2], "split_score": 0.3686213070312644}
+{"sent": "empty seat of booth", "ann_id": 2224011, "best_split": [3, 2], "split_score": 0.3686213070312644}
+{"sent": "empty seat section against wall", "ann_id": 2224011, "best_split": [3, 2], "split_score": 0.3686213070312644}
+{"sent": "booth backs around woman in floral shirt", "ann_id": 2223810, "best_split": [3, 3], "split_score": 0.3943062391387114}
+{"sent": "seat in back of woman in floral shirt", "ann_id": 2223810, "best_split": [3, 3], "split_score": 0.3943062391387114}
+{"sent": "seat", "ann_id": 2223810, "best_split": [2, 1], "split_score": 0.14335106382434076}
+{"sent": "couch backing glasses girl sits on", "ann_id": 1811890, "best_split": [3, 3], "split_score": 0.38785282253177256}
+{"sent": "seat woman in glasses sitting", "ann_id": 1811890, "best_split": [3, 3], "split_score": 0.38785282253177256}
+{"sent": "padding behind girl with glasses", "ann_id": 1811890, "best_split": [3, 3], "split_score": 0.38785282253177256}
+{"sent": "back of seat half way between the woman in glasses and the woman in black shirt", "ann_id": 1811709, "best_split": [5, 1], "split_score": 0.18105340159280783}
+{"sent": "empty seat back under largest frame", "ann_id": 1811709, "best_split": [3, 2], "split_score": 0.3122109157825843}
+{"sent": "back section of bench with no person", "ann_id": 1811709, "best_split": [2, 2], "split_score": 0.1453317674585047}

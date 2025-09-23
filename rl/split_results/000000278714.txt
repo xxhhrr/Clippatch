@@ -1,0 +1,6 @@
+{"sent": "the couch by the christmas tree", "ann_id": 112666, "best_split": [2, 1], "split_score": 0.30791613519180816}
+{"sent": "the couch near the tree", "ann_id": 112666, "best_split": [2, 2], "split_score": 0.5046395961320882}
+{"sent": "ouch", "ann_id": 112666, "best_split": [2, 2], "split_score": 0.5046395961320882}
+{"sent": "recliner", "ann_id": 98191, "best_split": [2, 3], "split_score": 0.9138032824520246}
+{"sent": "what looks like a shadowed couch by curtain and coffee table", "ann_id": 98191, "best_split": [2, 3], "split_score": 0.9138032824520246}
+{"sent": "couch nearest window", "ann_id": 98191, "best_split": [2, 3], "split_score": 0.9138032824520246}

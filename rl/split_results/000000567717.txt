@@ -1,0 +1,4 @@
+{"sent": "batter", "ann_id": 1217701, "best_split": [1, 3], "split_score": 0.2956081080902746}
+{"sent": "the batter", "ann_id": 1217701, "best_split": [1, 3], "split_score": 0.2956081080902746}
+{"sent": "number 4", "ann_id": 1206231, "best_split": [3, 2], "split_score": 0.28239516431031403}
+{"sent": "player number 4", "ann_id": 1206231, "best_split": [1, 5], "split_score": 0.30783179342821587}

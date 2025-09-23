@@ -1,0 +1,6 @@
+{"sent": "black and white cat", "ann_id": 51242, "best_split": [3, 1], "split_score": 0.57974778999624}
+{"sent": "closest cat", "ann_id": 51242, "best_split": [3, 1], "split_score": 0.57974778999624}
+{"sent": "white strip cat", "ann_id": 51242, "best_split": [3, 1], "split_score": 0.57974778999624}
+{"sent": "full black cat", "ann_id": 48496, "best_split": [2, 2], "split_score": 0.6713893305861364}
+{"sent": "all black cat", "ann_id": 48496, "best_split": [2, 2], "split_score": 0.6713893305861364}
+{"sent": "black kitten with face to camera", "ann_id": 48496, "best_split": [2, 2], "split_score": 0.6713893305861364}

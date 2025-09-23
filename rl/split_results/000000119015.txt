@@ -1,0 +1,6 @@
+{"sent": "bed white pillow", "ann_id": 318944, "best_split": [3, 2], "split_score": 0.8029347937580928}
+{"sent": "closest bed", "ann_id": 318944, "best_split": [3, 2], "split_score": 0.8029347937580928}
+{"sent": "white pilloow bed near us", "ann_id": 318944, "best_split": [3, 2], "split_score": 0.8029347937580928}
+{"sent": "bed farthest away", "ann_id": 318750, "best_split": [2, 3], "split_score": 0.41742491340547344}
+{"sent": "bed by window", "ann_id": 318750, "best_split": [2, 3], "split_score": 0.41742491340547344}
+{"sent": "back bed", "ann_id": 318750, "best_split": [2, 3], "split_score": 0.41742491340547344}

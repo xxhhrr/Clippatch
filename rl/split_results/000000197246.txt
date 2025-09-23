@@ -1,0 +1,6 @@
+{"sent": "woman in back", "ann_id": 447389, "best_split": [3, 3], "split_score": 0.3998850904337999}
+{"sent": "jumping in distance", "ann_id": 447389, "best_split": [3, 1], "split_score": 0.1921537229673937}
+{"sent": "farthest", "ann_id": 447389, "best_split": [2, 1], "split_score": 0.1384364820793223}
+{"sent": "player at net", "ann_id": 445461, "best_split": [2, 2], "split_score": 0.5174976182586537}
+{"sent": "closest to net", "ann_id": 445461, "best_split": [2, 2], "split_score": 0.5174976182586537}
+{"sent": "player in pink hat", "ann_id": 445461, "best_split": [3, 2], "split_score": 0.5170735475496698}

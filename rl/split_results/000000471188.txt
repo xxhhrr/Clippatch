@@ -1,0 +1,6 @@
+{"sent": "red bus near bus stop", "ann_id": 1794691, "best_split": [3, 3], "split_score": 0.2758132955665111}
+{"sent": "red bus coming toward you", "ann_id": 1794691, "best_split": [3, 3], "split_score": 0.2758132955665111}
+{"sent": "red bus nex to phone booth", "ann_id": 1794691, "best_split": [3, 3], "split_score": 0.2758132955665111}
+{"sent": "red bus near the building", "ann_id": 169064, "best_split": [5, 1], "split_score": 0.1047565118813933}
+{"sent": "red bus on same side as white bus", "ann_id": 169064, "best_split": [5, 1], "split_score": 0.1047565118813933}
+{"sent": "the back of the tall red bus not the one with headlights", "ann_id": 169064, "best_split": [5, 1], "split_score": 0.1047565118813933}

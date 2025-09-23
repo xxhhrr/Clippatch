@@ -1,0 +1,13 @@
+{"sent": "cat mostly out of frame", "ann_id": 52467, "best_split": [3, 2], "split_score": 0.751689189098493}
+{"sent": "white cat", "ann_id": 52467, "best_split": [3, 2], "split_score": 0.751689189098493}
+{"sent": "cat in corner white", "ann_id": 52467, "best_split": [3, 2], "split_score": 0.751689189098493}
+{"sent": "cat with black collar", "ann_id": 51943, "best_split": [5, 1], "split_score": 0.2873051224744359}
+{"sent": "fullest cat", "ann_id": 51943, "best_split": [1, 2], "split_score": 0.3443877550883136}
+{"sent": "cat on box", "ann_id": 51943, "best_split": [2, 2], "split_score": 0.39957716699262835}
+{"sent": "black and white dog", "ann_id": 17079, "best_split": [2, 2], "split_score": 0.6862321967639046}
+{"sent": "dog mostly black", "ann_id": 17079, "best_split": [2, 2], "split_score": 0.6862321967639046}
+{"sent": "black dog", "ann_id": 17079, "best_split": [2, 2], "split_score": 0.6862321967639046}
+{"sent": "dog in the northwest corner", "ann_id": 13129, "best_split": [3, 1], "split_score": 0.3053097344950185}
+{"sent": "dog with multi colored eyes", "ann_id": 13129, "best_split": [3, 1], "split_score": 0.3053097344950185}
+{"sent": "tan dog", "ann_id": 13129, "best_split": [3, 1], "split_score": 0.3053097344950185}
+{"sent": "colorful dog", "ann_id": 13129, "best_split": [3, 1], "split_score": 0.3053097344950185}

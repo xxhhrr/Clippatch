@@ -1,0 +1,9 @@
+{"sent": "old guy with hat", "ann_id": 480657, "best_split": [3, 3], "split_score": 0.667872648214929}
+{"sent": "man wearing glasses", "ann_id": 480657, "best_split": [3, 3], "split_score": 0.667872648214929}
+{"sent": "man with hat and glasses", "ann_id": 480657, "best_split": [3, 3], "split_score": 0.667872648214929}
+{"sent": "woman", "ann_id": 454829, "best_split": [2, 3], "split_score": 0.6430752367773369}
+{"sent": "woman oin pink", "ann_id": 454829, "best_split": [2, 3], "split_score": 0.6430752367773369}
+{"sent": "in pink", "ann_id": 454829, "best_split": [2, 3], "split_score": 0.6430752367773369}
+{"sent": "striped shirt", "ann_id": 1724691, "best_split": [1, 3], "split_score": 0.6384186960446424}
+{"sent": "white shirt green stripes", "ann_id": 1724691, "best_split": [1, 3], "split_score": 0.6384186960446424}
+{"sent": "man with stripes shirt", "ann_id": 1724691, "best_split": [1, 3], "split_score": 0.6384186960446424}

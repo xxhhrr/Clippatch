@@ -1,0 +1,12 @@
+{"sent": "girl with both hands on table", "ann_id": 476031, "best_split": [2, 1], "split_score": 0.35512597739992785}
+{"sent": "girl with darkest hair and shortest sleeves", "ann_id": 476031, "best_split": [1, 2], "split_score": 0.740792410684758}
+{"sent": "sideways girl", "ann_id": 476031, "best_split": [1, 2], "split_score": 0.740792410684758}
+{"sent": "boy with collared shirt playing with phone", "ann_id": 474332, "best_split": [1, 5], "split_score": 0.42804557402032906}
+{"sent": "guy looking down at phone", "ann_id": 474332, "best_split": [3, 2], "split_score": 0.35125711136435517}
+{"sent": "boy looking at phone", "ann_id": 474332, "best_split": [3, 2], "split_score": 0.35125711136435517}
+{"sent": "lady face", "ann_id": 456198, "best_split": [1, 5], "split_score": 0.38040345817899823}
+{"sent": "lady in black dress", "ann_id": 456198, "best_split": [3, 3], "split_score": 0.6130838366563895}
+{"sent": "girl facing camera", "ann_id": 456198, "best_split": [3, 3], "split_score": 0.6130838366563895}
+{"sent": "man in suit", "ann_id": 454142, "best_split": [1, 5], "split_score": 0.4759095378138992}
+{"sent": "a man wearing glasses", "ann_id": 454142, "best_split": [1, 5], "split_score": 0.4759095378138992}
+{"sent": "man in suite", "ann_id": 454142, "best_split": [2, 2], "split_score": 0.292513800976672}

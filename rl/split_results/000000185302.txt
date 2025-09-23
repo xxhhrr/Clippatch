@@ -1,0 +1,10 @@
+{"sent": "boat with orca written on it", "ann_id": 250760, "best_split": [2, 2], "split_score": 0.24609247268026338}
+{"sent": "black boat says orca", "ann_id": 250760, "best_split": [3, 2], "split_score": 0.26219720229766313}
+{"sent": "black and white orca", "ann_id": 250760, "best_split": [5, 1], "split_score": 0.21897810217347102}
+{"sent": "blue boat with red box", "ann_id": 250447, "best_split": [2, 2], "split_score": 0.40252987735507295}
+{"sent": "boat closest", "ann_id": 250447, "best_split": [2, 2], "split_score": 0.40252987735507295}
+{"sent": "lh248", "ann_id": 250447, "best_split": [1, 2], "split_score": 0.22038424744019514}
+{"sent": "blue boat on le", "ann_id": 179395, "best_split": [5, 1], "split_score": 0.21256251837212692}
+{"sent": "blue boat with red lettering", "ann_id": 179395, "best_split": [3, 1], "split_score": 0.28167458299559955}
+{"sent": "white boat", "ann_id": 176941, "best_split": [3, 1], "split_score": 0.32935560857223417}
+{"sent": "white boat with black trim", "ann_id": 176941, "best_split": [3, 1], "split_score": 0.32935560857223417}

@@ -1,0 +1,15 @@
+{"sent": "man no shirt", "ann_id": 565028, "best_split": [2, 1], "split_score": 0.17663167502751287}
+{"sent": "person at 3 o clock from colorful umbrella", "ann_id": 565028, "best_split": [2, 3], "split_score": 0.4892541086715914}
+{"sent": "man with pink on head", "ann_id": 565028, "best_split": [3, 3], "split_score": 0.32104526361163727}
+{"sent": "person with white shirt", "ann_id": 564333, "best_split": [1, 5], "split_score": 0.22841604348563502}
+{"sent": "out of focus person in white shirt", "ann_id": 564333, "best_split": [1, 5], "split_score": 0.22841604348563502}
+{"sent": "white shirt", "ann_id": 564333, "best_split": [1, 5], "split_score": 0.22841604348563502}
+{"sent": "person with brown hair and brown hat", "ann_id": 500258, "best_split": [1, 2], "split_score": 0.8950095662908558}
+{"sent": "woman with hat", "ann_id": 500258, "best_split": [1, 2], "split_score": 0.8950095662908558}
+{"sent": "person in red shirt", "ann_id": 500258, "best_split": [1, 2], "split_score": 0.8950095662908558}
+{"sent": "the green above rainbow umbrella", "ann_id": 282484, "best_split": [1, 2], "split_score": 0.1545205479391577}
+{"sent": "bigger green umbrella", "ann_id": 282484, "best_split": [5, 1], "split_score": 0.3337696334766483}
+{"sent": "big green umbrella", "ann_id": 282484, "best_split": [5, 1], "split_score": 0.3337696334766483}
+{"sent": "umbrella", "ann_id": 280811, "best_split": [2, 2], "split_score": 0.4819035215973789}
+{"sent": "rainbow umbrella", "ann_id": 280811, "best_split": [2, 2], "split_score": 0.4819035215973789}
+{"sent": "pink umbrela", "ann_id": 280811, "best_split": [2, 2], "split_score": 0.4819035215973789}

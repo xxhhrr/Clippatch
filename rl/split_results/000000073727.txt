@@ -1,0 +1,6 @@
+{"sent": "the boat cut in half", "ann_id": 1802033, "best_split": [1, 5], "split_score": 0.4945736433629289}
+{"sent": "half boat", "ann_id": 1802033, "best_split": [1, 5], "split_score": 0.4945736433629289}
+{"sent": "half a boat", "ann_id": 1802033, "best_split": [1, 5], "split_score": 0.4945736433629289}
+{"sent": "boat below bird", "ann_id": 249958, "best_split": [3, 3], "split_score": 0.2943925233214964}
+{"sent": "blurry whole ship not partial one", "ann_id": 249958, "best_split": [5, 1], "split_score": 0.19444444442690798}
+{"sent": "boat under bird", "ann_id": 249958, "best_split": [3, 3], "split_score": 0.2943925233214964}

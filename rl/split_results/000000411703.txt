@@ -1,0 +1,6 @@
+{"sent": "glass next to water", "ann_id": 2100078, "best_split": [2, 3], "split_score": 0.42048745168671725}
+{"sent": "black object on table dontquit", "ann_id": 2100078, "best_split": [2, 3], "split_score": 0.42048745168671725}
+{"sent": "dark object next to water glass", "ann_id": 2100078, "best_split": [2, 3], "split_score": 0.42048745168671725}
+{"sent": "glass of water", "ann_id": 672457, "best_split": [1, 5], "split_score": 0.32467532464238275}
+{"sent": "clear glass", "ann_id": 672457, "best_split": [1, 5], "split_score": 0.32467532464238275}
+{"sent": "glass", "ann_id": 672457, "best_split": [1, 5], "split_score": 0.32467532464238275}

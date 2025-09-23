@@ -1,0 +1,6 @@
+{"sent": "3 rectangles", "ann_id": 377990, "best_split": [5, 1], "split_score": 0.2035308441351937}
+{"sent": "white chair", "ann_id": 377990, "best_split": [5, 1], "split_score": 0.2035308441351937}
+{"sent": "white thing next to kid", "ann_id": 377990, "best_split": [5, 1], "split_score": 0.2035308441351937}
+{"sent": "brown thing behind little girl", "ann_id": 377144, "best_split": [1, 2], "split_score": 0.13616071428028695}
+{"sent": "wooden chair behind girl", "ann_id": 377144, "best_split": [1, 3], "split_score": 0.20608108106864859}
+{"sent": "tan brown chair", "ann_id": 377144, "best_split": [1, 5], "split_score": 0.3465909090557436}

@@ -1,0 +1,6 @@
+{"sent": "suv that is half cut off", "ann_id": 2168866, "best_split": [1, 5], "split_score": 0.29766555499784036}
+{"sent": "suv", "ann_id": 2168866, "best_split": [3, 3], "split_score": 0.6551415262172803}
+{"sent": "silver car", "ann_id": 2168866, "best_split": [3, 1], "split_score": 0.2192183191332443}
+{"sent": "white car with boards", "ann_id": 354079, "best_split": [3, 1], "split_score": 0.501124859372444}
+{"sent": "car with surfboards", "ann_id": 354079, "best_split": [3, 1], "split_score": 0.501124859372444}
+{"sent": "white car", "ann_id": 354079, "best_split": [3, 1], "split_score": 0.501124859372444}

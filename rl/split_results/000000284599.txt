@@ -1,0 +1,6 @@
+{"sent": "zebra behind tree", "ann_id": 592011, "best_split": [3, 3], "split_score": 0.3928494040744475}
+{"sent": "zebra with tree blocking body", "ann_id": 592011, "best_split": [3, 3], "split_score": 0.3928494040744475}
+{"sent": "the zebra cut in half by tree 300", "ann_id": 592011, "best_split": [3, 3], "split_score": 0.3928494040744475}
+{"sent": "zebra not behind tree", "ann_id": 591179, "best_split": [3, 2], "split_score": 0.5644067796012281}
+{"sent": "zebra that by largest tree", "ann_id": 591179, "best_split": [3, 2], "split_score": 0.5644067796012281}
+{"sent": "under tree looking at camera", "ann_id": 591179, "best_split": [2, 1], "split_score": 0.10594170403216291}

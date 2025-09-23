@@ -1,0 +1,4 @@
+{"sent": "smallest zebra with head up", "ann_id": 1822679, "best_split": [2, 1], "split_score": 0.31653580216740745}
+{"sent": "zebra with face down eating", "ann_id": 591422, "best_split": [2, 2], "split_score": 0.6365082658479277}
+{"sent": "eating grass", "ann_id": 591422, "best_split": [2, 1], "split_score": 0.3903909670331672}
+{"sent": "zebra closet to camera that is eating", "ann_id": 591422, "best_split": [2, 2], "split_score": 0.6365082658479277}

@@ -1,0 +1,13 @@
+{"sent": "a man slicing red peppers", "ann_id": 535146, "best_split": [2, 2], "split_score": 0.638744257225211}
+{"sent": "hands cutting in shot with pizza", "ann_id": 535146, "best_split": [2, 2], "split_score": 0.638744257225211}
+{"sent": "person cutting", "ann_id": 535146, "best_split": [2, 2], "split_score": 0.638744257225211}
+{"sent": "hands only", "ann_id": 535146, "best_split": [2, 2], "split_score": 0.638744257225211}
+{"sent": "girl in glasses", "ann_id": 534546, "best_split": [2, 3], "split_score": 0.3038117859626952}
+{"sent": "lady in black standing next to taller man with goatee", "ann_id": 534546, "best_split": [2, 3], "split_score": 0.3038117859626952}
+{"sent": "woman in yeloyw", "ann_id": 534546, "best_split": [2, 2], "split_score": 0.25821109691819105}
+{"sent": "man between girls", "ann_id": 510372, "best_split": [2, 3], "split_score": 0.4587871144722243}
+{"sent": "man in glasses", "ann_id": 510372, "best_split": [2, 3], "split_score": 0.4587871144722243}
+{"sent": "the happy man", "ann_id": 510372, "best_split": [2, 3], "split_score": 0.4587871144722243}
+{"sent": "girl with blue jacket", "ann_id": 474193, "best_split": [3, 3], "split_score": 0.5835907997625144}
+{"sent": "girl in brown shirt", "ann_id": 474193, "best_split": [3, 3], "split_score": 0.5835907997625144}
+{"sent": "girl blue on jacket", "ann_id": 474193, "best_split": [3, 3], "split_score": 0.5835907997625144}

@@ -1,0 +1,9 @@
+{"sent": "man bald", "ann_id": 526865, "best_split": [1, 3], "split_score": 0.5259361408440683}
+{"sent": "man with blue spotted tie", "ann_id": 526865, "best_split": [2, 2], "split_score": 0.6901004303689212}
+{"sent": "bald man", "ann_id": 526865, "best_split": [2, 3], "split_score": 0.6695467883379893}
+{"sent": "black hair in corner", "ann_id": 487076, "best_split": [3, 3], "split_score": 0.6239956171249095}
+{"sent": "brown hair in corner", "ann_id": 487076, "best_split": [1, 2], "split_score": 0.1362005739741629}
+{"sent": "brunette facing person speaking", "ann_id": 487076, "best_split": [3, 1], "split_score": 0.20614140925397312}
+{"sent": "man in orange striped tie", "ann_id": 475342, "best_split": [2, 3], "split_score": 0.4520863751285571}
+{"sent": "taller guy", "ann_id": 475342, "best_split": [2, 3], "split_score": 0.4520863751285571}
+{"sent": "guy in blue and gold striped tie", "ann_id": 475342, "best_split": [2, 3], "split_score": 0.4520863751285571}

@@ -1,0 +1,6 @@
+{"sent": "street lights facing away from the camera", "ann_id": 408883, "best_split": [1, 2], "split_score": 0.576132015283158}
+{"sent": "light facing the other direction", "ann_id": 408883, "best_split": [2, 1], "split_score": 0.22992223949518126}
+{"sent": "traffic light facing away", "ann_id": 408883, "best_split": [2, 1], "split_score": 0.22992223949518126}
+{"sent": "green man", "ann_id": 402825, "best_split": [1, 3], "split_score": 0.4425814437381094}
+{"sent": "walk light", "ann_id": 402825, "best_split": [1, 3], "split_score": 0.4425814437381094}
+{"sent": "light with the guy in it", "ann_id": 402825, "best_split": [1, 3], "split_score": 0.4425814437381094}

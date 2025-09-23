@@ -1,0 +1,6 @@
+{"sent": "smaller animal", "ann_id": 600176, "best_split": [2, 3], "split_score": 0.5743243242550284}
+{"sent": "giraffe with head not in picture", "ann_id": 600176, "best_split": [2, 1], "split_score": 0.18973214284958018}
+{"sent": "missing head giraffe", "ann_id": 600176, "best_split": [3, 1], "split_score": 0.04383561643621156}
+{"sent": "giraffe with head", "ann_id": 598551, "best_split": [1, 2], "split_score": 0.5976071784475827}
+{"sent": "closest giraffe", "ann_id": 598551, "best_split": [1, 2], "split_score": 0.5976071784475827}
+{"sent": "giraffe by camera", "ann_id": 598551, "best_split": [1, 2], "split_score": 0.5976071784475827}

@@ -1,0 +1,6 @@
+{"sent": "unfriendly dog", "ann_id": 16003, "best_split": [3, 2], "split_score": 0.532773780921985}
+{"sent": "dog looks away", "ann_id": 16003, "best_split": [3, 2], "split_score": 0.532773780921985}
+{"sent": "dog turned away from camera", "ann_id": 16003, "best_split": [3, 2], "split_score": 0.532773780921985}
+{"sent": "dog facing us", "ann_id": 8370, "best_split": [1, 3], "split_score": 0.40097205344554016}
+{"sent": "dog", "ann_id": 8370, "best_split": [1, 3], "split_score": 0.40097205344554016}
+{"sent": "dog facing camera", "ann_id": 8370, "best_split": [1, 3], "split_score": 0.40097205344554016}

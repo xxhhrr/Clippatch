@@ -1,0 +1,6 @@
+{"sent": "blue bowl with the sandwich", "ann_id": 2108038, "best_split": [3, 3], "split_score": 0.332602979805806}
+{"sent": "the blue spot inbetween the sandwich and tinfoil", "ann_id": 2108038, "best_split": [5, 1], "split_score": 0.30555555553144287}
+{"sent": "blue part of tin foil", "ann_id": 2108038, "best_split": [2, 3], "split_score": 0.4279176200964991}
+{"sent": "red gravy", "ann_id": 717528, "best_split": [1, 2], "split_score": 0.6558216479968559}
+{"sent": "soup", "ann_id": 717528, "best_split": [1, 2], "split_score": 0.6558216479968559}
+{"sent": "soup", "ann_id": 717528, "best_split": [1, 2], "split_score": 0.6558216479968559}

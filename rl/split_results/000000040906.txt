@@ -1,0 +1,6 @@
+{"sent": "flower shirt", "ann_id": 447679, "best_split": [2, 3], "split_score": 0.550733040623645}
+{"sent": "hawaii shirt", "ann_id": 447679, "best_split": [2, 3], "split_score": 0.550733040623645}
+{"sent": "blue shirt", "ann_id": 447679, "best_split": [2, 3], "split_score": 0.550733040623645}
+{"sent": "man with suit", "ann_id": 2159942, "best_split": [1, 3], "split_score": 0.6969178081818858}
+{"sent": "man in suit", "ann_id": 2159942, "best_split": [1, 3], "split_score": 0.6969178081818858}
+{"sent": "tie man", "ann_id": 2159942, "best_split": [1, 3], "split_score": 0.6969178081818858}

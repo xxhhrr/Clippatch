@@ -1,0 +1,9 @@
+{"sent": "child", "ann_id": 471917, "best_split": [1, 3], "split_score": 0.32186919967671856}
+{"sent": "little kid", "ann_id": 471917, "best_split": [3, 3], "split_score": 0.33029011966623145}
+{"sent": "kid", "ann_id": 471917, "best_split": [3, 3], "split_score": 0.33029011966623145}
+{"sent": "lady in black", "ann_id": 427713, "best_split": [1, 3], "split_score": 0.3372467645750425}
+{"sent": "black shirt female", "ann_id": 427713, "best_split": [1, 3], "split_score": 0.3372467645750425}
+{"sent": "woman in black", "ann_id": 427713, "best_split": [1, 3], "split_score": 0.3372467645750425}
+{"sent": "dark chair by black shirt", "ann_id": 380532, "best_split": [2, 1], "split_score": 0.17075892856462216}
+{"sent": "chair mom is gon na sit on", "ann_id": 380532, "best_split": [2, 1], "split_score": 0.17075892856462216}
+{"sent": "chair womans getting up from", "ann_id": 380532, "best_split": [2, 1], "split_score": 0.17075892856462216}

@@ -1,0 +1,6 @@
+{"sent": "person behind the fence", "ann_id": 546729, "best_split": [1, 5], "split_score": 0.2528409090652556}
+{"sent": "person on other side of fence", "ann_id": 546729, "best_split": [1, 5], "split_score": 0.2528409090652556}
+{"sent": "person behind cage and racket", "ann_id": 546729, "best_split": [1, 3], "split_score": 0.15033783782876822}
+{"sent": "white outfit", "ann_id": 451205, "best_split": [1, 2], "split_score": 0.7537302827641846}
+{"sent": "woman", "ann_id": 451205, "best_split": [1, 2], "split_score": 0.7537302827641846}
+{"sent": "girl playing", "ann_id": 451205, "best_split": [1, 2], "split_score": 0.7537302827641846}

@@ -1,0 +1,12 @@
+{"sent": "black laptop", "ann_id": 1970741, "best_split": [1, 2], "split_score": 0.5498410535668392}
+{"sent": "the black one", "ann_id": 1970741, "best_split": [1, 2], "split_score": 0.5498410535668392}
+{"sent": "black laptop", "ann_id": 1970741, "best_split": [1, 2], "split_score": 0.5498410535668392}
+{"sent": "brightest monitor", "ann_id": 1970541, "best_split": [3, 3], "split_score": 0.2751221584581345}
+{"sent": "little laptop", "ann_id": 1970541, "best_split": [3, 3], "split_score": 0.2751221584581345}
+{"sent": "just a white screen", "ann_id": 1970541, "best_split": [3, 3], "split_score": 0.2751221584581345}
+{"sent": "smaller keyboard", "ann_id": 1116663, "best_split": [5, 1], "split_score": 0.2662337662067539}
+{"sent": "keys on smaller", "ann_id": 1116663, "best_split": [5, 1], "split_score": 0.2662337662067539}
+{"sent": "smaller keyboard", "ann_id": 1116663, "best_split": [5, 1], "split_score": 0.2662337662067539}
+{"sent": "keyboard of large laptop", "ann_id": 1115123, "best_split": [2, 2], "split_score": 0.49061105121666837}
+{"sent": "biggest laptop keyboard", "ann_id": 1115123, "best_split": [2, 2], "split_score": 0.49061105121666837}
+{"sent": "closest keyboard", "ann_id": 1115123, "best_split": [2, 2], "split_score": 0.49061105121666837}

@@ -1,0 +1,6 @@
+{"sent": "woman cutting the mans hair", "ann_id": 2207659, "best_split": [2, 1], "split_score": 0.6956132497567252}
+{"sent": "barber", "ann_id": 2207659, "best_split": [3, 1], "split_score": 0.4605809128501575}
+{"sent": "cutter", "ann_id": 2207659, "best_split": [3, 1], "split_score": 0.4605809128501575}
+{"sent": "guy", "ann_id": 431462, "best_split": [2, 1], "split_score": 0.7194612993719266}
+{"sent": "guy", "ann_id": 431462, "best_split": [2, 1], "split_score": 0.7194612993719266}
+{"sent": "man", "ann_id": 431462, "best_split": [2, 1], "split_score": 0.7194612993719266}

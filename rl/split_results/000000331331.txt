@@ -1,0 +1,12 @@
+{"sent": "pizza slice being cut", "ann_id": 1923208, "best_split": [2, 1], "split_score": 0.24083227039856375}
+{"sent": "pizza being sliced", "ann_id": 1923208, "best_split": [2, 1], "split_score": 0.24083227039856375}
+{"sent": "piece of pizza being cut", "ann_id": 1923208, "best_split": [2, 1], "split_score": 0.24083227039856375}
+{"sent": "not the part of the pizza being eaten but the rest", "ann_id": 1075644, "best_split": [1, 2], "split_score": 0.5753855938758027}
+{"sent": "biggest piece of food", "ann_id": 1075644, "best_split": [1, 2], "split_score": 0.5753855938758027}
+{"sent": "large not cut pizza", "ann_id": 1075644, "best_split": [1, 2], "split_score": 0.5753855938758027}
+{"sent": "hand with fork", "ann_id": 256023, "best_split": [3, 3], "split_score": 0.7199444057123098}
+{"sent": "hand", "ann_id": 256023, "best_split": [3, 3], "split_score": 0.7199444057123098}
+{"sent": "fingers", "ann_id": 256023, "best_split": [3, 3], "split_score": 0.7199444057123098}
+{"sent": "shirt at rear of pic", "ann_id": 254215, "best_split": [3, 3], "split_score": 0.5053471088444178}
+{"sent": "checked shirt", "ann_id": 254215, "best_split": [3, 3], "split_score": 0.5053471088444178}
+{"sent": "plaid shirt barely visible", "ann_id": 254215, "best_split": [3, 3], "split_score": 0.5053471088444178}

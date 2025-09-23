@@ -1,0 +1,6 @@
+{"sent": "man with tie", "ann_id": 1222051, "best_split": [1, 3], "split_score": 0.4412917982670381}
+{"sent": "closest man", "ann_id": 1222051, "best_split": [1, 3], "split_score": 0.4412917982670381}
+{"sent": "old man", "ann_id": 1222051, "best_split": [1, 3], "split_score": 0.4412917982670381}
+{"sent": "red shirt", "ann_id": 441490, "best_split": [3, 2], "split_score": 0.19170984454184772}
+{"sent": "red sweater", "ann_id": 441490, "best_split": [3, 3], "split_score": 0.24758364309199707}
+{"sent": "red guy", "ann_id": 441490, "best_split": [5, 1], "split_score": 0.09322033897599724}

@@ -1,0 +1,5 @@
+{"sent": "all bottles", "ann_id": 81250, "best_split": [2, 1], "split_score": 0.7686710072523723}
+{"sent": "bottles", "ann_id": 81250, "best_split": [2, 1], "split_score": 0.7686710072523723}
+{"sent": "bottles all together", "ann_id": 81250, "best_split": [2, 1], "split_score": 0.7686710072523723}
+{"sent": "bottle furthest from guy", "ann_id": 80333, "best_split": [3, 3], "split_score": 0.32896344846917414}
+{"sent": "reading like a book bottle number 1", "ann_id": 80333, "best_split": [3, 3], "split_score": 0.32896344846917414}

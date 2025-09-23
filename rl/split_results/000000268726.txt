@@ -1,0 +1,6 @@
+{"sent": "flower blanket on back of couch", "ann_id": 1950767, "best_split": [2, 1], "split_score": 0.7444196428274705}
+{"sent": "couch back", "ann_id": 1950767, "best_split": [1, 2], "split_score": 0.2729493891718165}
+{"sent": "sheet on couch", "ann_id": 1950767, "best_split": [2, 1], "split_score": 0.7444196428274705}
+{"sent": "couch beneath dog", "ann_id": 114780, "best_split": [3, 1], "split_score": 0.4392069873686674}
+{"sent": "visible couch", "ann_id": 114780, "best_split": [2, 1], "split_score": 0.6334552102169805}
+{"sent": "seat of the couch", "ann_id": 114780, "best_split": [2, 1], "split_score": 0.6334552102169805}

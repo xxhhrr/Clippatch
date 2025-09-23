@@ -1,0 +1,9 @@
+{"sent": "bread slice above bread with notch cut out", "ann_id": 2219162, "best_split": [1, 3], "split_score": 0.36920849418622054}
+{"sent": "large single slice on the counter", "ann_id": 2219162, "best_split": [3, 3], "split_score": 0.5185961235570199}
+{"sent": "bare bread above the notched piece", "ann_id": 2219162, "best_split": [1, 3], "split_score": 0.36920849418622054}
+{"sent": "plain bread up near spoon", "ann_id": 1554523, "best_split": [2, 3], "split_score": 0.778219210004882}
+{"sent": "piace of bread by self", "ann_id": 1554523, "best_split": [2, 3], "split_score": 0.778219210004882}
+{"sent": "lightest bread", "ann_id": 1554523, "best_split": [2, 3], "split_score": 0.778219210004882}
+{"sent": "bread with spread", "ann_id": 1552973, "best_split": [5, 1], "split_score": 0.2644018908529443}
+{"sent": "bread with topping", "ann_id": 1552973, "best_split": [5, 1], "split_score": 0.2644018908529443}
+{"sent": "bread slice with topping", "ann_id": 1552973, "best_split": [5, 1], "split_score": 0.2644018908529443}

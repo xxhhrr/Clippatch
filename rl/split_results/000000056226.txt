@@ -1,0 +1,15 @@
+{"sent": "suitcase under them all", "ann_id": 1186550, "best_split": [2, 1], "split_score": 0.4896763392661959}
+{"sent": "lowest suitcase", "ann_id": 1186550, "best_split": [2, 1], "split_score": 0.4896763392661959}
+{"sent": "suitcase carrying all the other cases", "ann_id": 1186550, "best_split": [2, 1], "split_score": 0.4896763392661959}
+{"sent": "highest suitcase", "ann_id": 1186473, "best_split": [1, 3], "split_score": 0.13384615383971893}
+{"sent": "the highest luggage", "ann_id": 1186473, "best_split": [1, 3], "split_score": 0.13384615383971893}
+{"sent": "suitcase closest to sky", "ann_id": 1186473, "best_split": [1, 3], "split_score": 0.13384615383971893}
+{"sent": "fifth suitcase starting from below", "ann_id": 1186416, "best_split": [1, 5], "split_score": 0.10401891252186621}
+{"sent": "under highest bag", "ann_id": 1186416, "best_split": [2, 1], "split_score": 0.2028061224408958}
+{"sent": "not the most but the suitcase almost at twelve", "ann_id": 1186416, "best_split": [1, 5], "split_score": 0.10401891252186621}
+{"sent": "third luggage counting from skywards", "ann_id": 1186279, "best_split": [3, 1], "split_score": 0.23404946153828401}
+{"sent": "number 3 from the sky", "ann_id": 1186279, "best_split": [1, 2], "split_score": 0.11683309557357942}
+{"sent": "fourth down", "ann_id": 1185671, "best_split": [1, 2], "split_score": 0.12833417211415868}
+{"sent": "from floor number 2", "ann_id": 1185572, "best_split": [1, 2], "split_score": 0.17229729729135765}
+{"sent": "suitcase with most studs", "ann_id": 1185572, "best_split": [5, 1], "split_score": 0.6867924527684822}
+{"sent": "5 down", "ann_id": 1185572, "best_split": [5, 1], "split_score": 0.6867924527684822}

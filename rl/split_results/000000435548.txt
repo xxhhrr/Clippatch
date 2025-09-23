@@ -1,0 +1,7 @@
+{"sent": "white shirt black oants", "ann_id": 1325369, "best_split": [1, 5], "split_score": 0.3588676947687837}
+{"sent": "person in white shirt", "ann_id": 1325369, "best_split": [2, 1], "split_score": 0.11694240673806218}
+{"sent": "red shirt lady next to woman with cane", "ann_id": 1310237, "best_split": [2, 3], "split_score": 0.1769718155804051}
+{"sent": "woman with blue pants and red shirt", "ann_id": 1310237, "best_split": [2, 3], "split_score": 0.1769718155804051}
+{"sent": "red blue", "ann_id": 1310237, "best_split": [2, 2], "split_score": 0.15172413791940811}
+{"sent": "woman speaking wearing black shirt", "ann_id": 1242820, "best_split": [3, 3], "split_score": 0.546082587447624}
+{"sent": "presenter person", "ann_id": 1242820, "best_split": [3, 2], "split_score": 0.3788258359243191}

@@ -1,0 +1,6 @@
+{"sent": "crouching player", "ann_id": 1211228, "best_split": [2, 3], "split_score": 0.6614351657019357}
+{"sent": "catcherslice", "ann_id": 1211228, "best_split": [2, 1], "split_score": 0.06346623270767562}
+{"sent": "catcher", "ann_id": 1211228, "best_split": [2, 1], "split_score": 0.3418891170305849}
+{"sent": "batter", "ann_id": 423994, "best_split": [1, 2], "split_score": 0.7773437499690153}
+{"sent": "the batter", "ann_id": 423994, "best_split": [1, 2], "split_score": 0.7773437499690153}
+{"sent": "batter", "ann_id": 423994, "best_split": [1, 2], "split_score": 0.7773437499690153}

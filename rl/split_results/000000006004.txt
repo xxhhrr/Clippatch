@@ -1,0 +1,6 @@
+{"sent": "ship with lots of windows", "ann_id": 1376069, "best_split": [5, 1], "split_score": 0.14934676798314858}
+{"sent": "big boat at 10", "ann_id": 1376069, "best_split": [3, 2], "split_score": 0.2649718114812284}
+{"sent": "boat laots of windows", "ann_id": 1376069, "best_split": [5, 1], "split_score": 0.14934676798314858}
+{"sent": "big boat closer", "ann_id": 181250, "best_split": [3, 3], "split_score": 0.40266807087917605}
+{"sent": "black and white ship", "ann_id": 181250, "best_split": [2, 3], "split_score": 0.4514983008610211}
+{"sent": "darker ship", "ann_id": 181250, "best_split": [3, 3], "split_score": 0.40266807087917605}

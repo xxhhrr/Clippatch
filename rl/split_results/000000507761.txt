@@ -1,0 +1,6 @@
+{"sent": "not woman", "ann_id": 1711535, "best_split": [1, 3], "split_score": 0.3404352689748584}
+{"sent": "person behind woman", "ann_id": 1711535, "best_split": [1, 3], "split_score": 0.3404352689748584}
+{"sent": "man", "ann_id": 1711535, "best_split": [1, 3], "split_score": 0.3404352689748584}
+{"sent": "girl", "ann_id": 477088, "best_split": [1, 2], "split_score": 0.6260464130384114}
+{"sent": "woman", "ann_id": 477088, "best_split": [1, 2], "split_score": 0.6260464130384114}
+{"sent": "woman", "ann_id": 477088, "best_split": [1, 2], "split_score": 0.6260464130384114}

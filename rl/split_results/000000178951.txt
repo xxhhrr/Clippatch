@@ -1,0 +1,9 @@
+{"sent": "second largest suitcase in the row with the small ones", "ann_id": 1446742, "best_split": [2, 2], "split_score": 0.33577806119772174}
+{"sent": "gray suitcase two behind the small black ones", "ann_id": 1446742, "best_split": [2, 2], "split_score": 0.33577806119772174}
+{"sent": "bag with white tag", "ann_id": 1446517, "best_split": [3, 2], "split_score": 0.5581395348252525}
+{"sent": "black bag with tag", "ann_id": 1446517, "best_split": [3, 2], "split_score": 0.5581395348252525}
+{"sent": "black lugguage with with tag", "ann_id": 1446517, "best_split": [3, 1], "split_score": 0.3973214285474589}
+{"sent": "closest black luggage", "ann_id": 1446269, "best_split": [3, 3], "split_score": 0.5693240900390923}
+{"sent": "small dark suit case near u", "ann_id": 1446269, "best_split": [2, 2], "split_score": 0.42968749996574557}
+{"sent": "cutoff suitcase with handle that has to be pulled", "ann_id": 1842142, "best_split": [3, 2], "split_score": 0.3857965450592854}
+{"sent": "5 o clock", "ann_id": 1842142, "best_split": [1, 2], "split_score": 0.0}

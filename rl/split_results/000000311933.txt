@@ -1,0 +1,6 @@
+{"sent": "crazy girl", "ann_id": 1756156, "best_split": [1, 3], "split_score": 0.6612374165444386}
+{"sent": "woman", "ann_id": 1756156, "best_split": [1, 3], "split_score": 0.6612374165444386}
+{"sent": "girl", "ann_id": 1756156, "best_split": [1, 3], "split_score": 0.6612374165444386}
+{"sent": "the person wearing the blue shirt", "ann_id": 1750663, "best_split": [1, 2], "split_score": 0.6264501159865701}
+{"sent": "blue shirt", "ann_id": 1750663, "best_split": [1, 2], "split_score": 0.6264501159865701}
+{"sent": "the guy", "ann_id": 1750663, "best_split": [1, 2], "split_score": 0.6264501159865701}

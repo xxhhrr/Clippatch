@@ -1,0 +1,5 @@
+{"sent": "man with his back to you", "ann_id": 474302, "best_split": [3, 3], "split_score": 0.5494157740324469}
+{"sent": "man who is facing away", "ann_id": 474302, "best_split": [3, 3], "split_score": 0.5494157740324469}
+{"sent": "woman", "ann_id": 461242, "best_split": [1, 2], "split_score": 0.576132015283158}
+{"sent": "pizza glasses", "ann_id": 461242, "best_split": [1, 2], "split_score": 0.576132015283158}
+{"sent": "girl", "ann_id": 461242, "best_split": [1, 2], "split_score": 0.576132015283158}

@@ -1,0 +1,13 @@
+{"sent": "silver phone with qwerty keyboard", "ann_id": 330454, "best_split": [3, 3], "split_score": 0.39061412054162176}
+{"sent": "with antenna", "ann_id": 330454, "best_split": [1, 3], "split_score": 0.27208011581370173}
+{"sent": "phone with small antennae", "ann_id": 330454, "best_split": [3, 3], "split_score": 0.39061412054162176}
+{"sent": "blackberry at 700", "ann_id": 330356, "best_split": [2, 2], "split_score": 0.5165861768255414}
+{"sent": "blackberry with a black spot on the side", "ann_id": 330356, "best_split": [2, 2], "split_score": 0.5165861768255414}
+{"sent": "blackberry lighter screen", "ann_id": 330356, "best_split": [2, 2], "split_score": 0.5165861768255414}
+{"sent": "phone 300", "ann_id": 329814, "best_split": [5, 1], "split_score": 0.18850141374445192}
+{"sent": "silver phone with few keys thats closest to another", "ann_id": 329814, "best_split": [5, 1], "split_score": 0.18850141374445192}
+{"sent": "row 1 seat 2", "ann_id": 328963, "best_split": [2, 2], "split_score": 0.5524553570988158}
+{"sent": "blue phone with silver keys", "ann_id": 328963, "best_split": [2, 1], "split_score": 0.27622767856041824}
+{"sent": "square silver phone that is the shiniest", "ann_id": 324467, "best_split": [1, 5], "split_score": 0.253485424565138}
+{"sent": "the phone on side close to the dark buttons", "ann_id": 324467, "best_split": [3, 2], "split_score": 0.31021235723933277}
+{"sent": "sivler on upper level near 9pm", "ann_id": 324467, "best_split": [2, 3], "split_score": 0.27909157200967893}

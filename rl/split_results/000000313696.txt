@@ -1,0 +1,6 @@
+{"sent": "back of mans head closest to us", "ann_id": 1733936, "best_split": [1, 3], "split_score": 0.1268780314606129}
+{"sent": "head", "ann_id": 1733936, "best_split": [1, 3], "split_score": 0.1268780314606129}
+{"sent": "closest dark head", "ann_id": 1733936, "best_split": [1, 5], "split_score": 0.09794319293936932}
+{"sent": "closer movie screen", "ann_id": 258861, "best_split": [3, 3], "split_score": 0.5056856186445341}
+{"sent": "person on tv screen closest to us", "ann_id": 258861, "best_split": [3, 3], "split_score": 0.5056856186445341}
+{"sent": "woman on tv closest to you", "ann_id": 258861, "best_split": [3, 3], "split_score": 0.5056856186445341}

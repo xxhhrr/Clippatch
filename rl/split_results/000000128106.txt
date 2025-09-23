@@ -1,0 +1,6 @@
+{"sent": "surfer", "ann_id": 1712098, "best_split": [3, 1], "split_score": 0.33465593468231175}
+{"sent": "child on surfboard", "ann_id": 1712098, "best_split": [3, 3], "split_score": 0.617624122612734}
+{"sent": "kid", "ann_id": 1712098, "best_split": [3, 3], "split_score": 0.617624122612734}
+{"sent": "adult", "ann_id": 495851, "best_split": [2, 1], "split_score": 0.3019346653860635}
+{"sent": "red pants", "ann_id": 495851, "best_split": [2, 2], "split_score": 0.60063091477913}
+{"sent": "person in orange shorts", "ann_id": 495851, "best_split": [2, 2], "split_score": 0.60063091477913}

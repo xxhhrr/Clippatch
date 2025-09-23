@@ -1,0 +1,6 @@
+{"sent": "guy in black", "ann_id": 1716615, "best_split": [1, 2], "split_score": 0.7736988847326839}
+{"sent": "boy with pizza", "ann_id": 1716615, "best_split": [1, 2], "split_score": 0.7736988847326839}
+{"sent": "boy", "ann_id": 1716615, "best_split": [1, 2], "split_score": 0.7736988847326839}
+{"sent": "blond lady holding pizza", "ann_id": 462917, "best_split": [1, 2], "split_score": 0.7772763471964323}
+{"sent": "girl", "ann_id": 462917, "best_split": [3, 1], "split_score": 0.29803364130713667}
+{"sent": "woman", "ann_id": 462917, "best_split": [1, 2], "split_score": 0.7772763471964323}

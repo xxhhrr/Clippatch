@@ -1,0 +1,6 @@
+{"sent": "man in green with green hat under umbrella", "ann_id": 485355, "best_split": [1, 5], "split_score": 0.3183384726720172}
+{"sent": "green hat", "ann_id": 485355, "best_split": [3, 3], "split_score": 0.5968553458181045}
+{"sent": "the guy under the umbrella", "ann_id": 485355, "best_split": [1, 5], "split_score": 0.3183384726720172}
+{"sent": "man with red fez", "ann_id": 469327, "best_split": [3, 3], "split_score": 0.4809500246807335}
+{"sent": "man with red hat", "ann_id": 469327, "best_split": [3, 3], "split_score": 0.4809500246807335}
+{"sent": "blue pants", "ann_id": 469327, "best_split": [2, 3], "split_score": 0.384269662885368}

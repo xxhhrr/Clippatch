@@ -1,0 +1,12 @@
+{"sent": "purple food", "ann_id": 1908583, "best_split": [2, 3], "split_score": 0.40211640208765076}
+{"sent": "brown stuff next to sandwich", "ann_id": 1908583, "best_split": [2, 3], "split_score": 0.40211640208765076}
+{"sent": "meat", "ann_id": 1908583, "best_split": [2, 3], "split_score": 0.40211640208765076}
+{"sent": "bowl of veggies", "ann_id": 1898151, "best_split": [3, 3], "split_score": 0.5051546390898842}
+{"sent": "blurry bowl of food", "ann_id": 1898151, "best_split": [1, 5], "split_score": 0.193710691806495}
+{"sent": "black bowl", "ann_id": 1898151, "best_split": [1, 5], "split_score": 0.193710691806495}
+{"sent": "pile of sandwichmeat", "ann_id": 1535819, "best_split": [3, 3], "split_score": 0.44534808064042386}
+{"sent": "meat in sandwich", "ann_id": 1535819, "best_split": [3, 3], "split_score": 0.44534808064042386}
+{"sent": "meat on plate", "ann_id": 1535819, "best_split": [3, 3], "split_score": 0.44534808064042386}
+{"sent": "sandwhich", "ann_id": 1909097, "best_split": [3, 2], "split_score": 0.4213649851228711}
+{"sent": "sandwich back one", "ann_id": 1909097, "best_split": [3, 2], "split_score": 0.4213649851228711}
+{"sent": "sandwich at 1 o clock", "ann_id": 1909097, "best_split": [3, 2], "split_score": 0.4213649851228711}

@@ -1,0 +1,6 @@
+{"sent": "peeled orange", "ann_id": 1911604, "best_split": [2, 3], "split_score": 0.6071428570696015}
+{"sent": "peeled one on counter", "ann_id": 1911604, "best_split": [3, 3], "split_score": 0.6347230863978339}
+{"sent": "lone uncut piece of fruit", "ann_id": 1911604, "best_split": [3, 3], "split_score": 0.6347230863978339}
+{"sent": "bag of oranges", "ann_id": 1052016, "best_split": [3, 2], "split_score": 0.7687920145886339}
+{"sent": "bag of oranges", "ann_id": 1052016, "best_split": [3, 2], "split_score": 0.7687920145886339}
+{"sent": "oranges", "ann_id": 1052016, "best_split": [3, 2], "split_score": 0.7687920145886339}

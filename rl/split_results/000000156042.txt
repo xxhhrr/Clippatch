@@ -1,0 +1,6 @@
+{"sent": "english tea", "ann_id": 1986413, "best_split": [2, 3], "split_score": 0.46112759640496087}
+{"sent": "red tea box", "ann_id": 1986413, "best_split": [3, 1], "split_score": 0.2560143626456008}
+{"sent": "maroon tea box", "ann_id": 1986413, "best_split": [2, 1], "split_score": 0.39938650305217077}
+{"sent": "books", "ann_id": 1984877, "best_split": [2, 2], "split_score": 0.7653061223879698}
+{"sent": "red book", "ann_id": 1984877, "best_split": [2, 2], "split_score": 0.7653061223879698}
+{"sent": "red book", "ann_id": 1984877, "best_split": [2, 2], "split_score": 0.7653061223879698}

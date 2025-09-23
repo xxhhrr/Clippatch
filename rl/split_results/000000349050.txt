@@ -1,0 +1,6 @@
+{"sent": "brown paper bag", "ann_id": 1040768, "best_split": [3, 3], "split_score": 0.2672692058961799}
+{"sent": "bag of fries", "ann_id": 1040768, "best_split": [3, 3], "split_score": 0.2672692058961799}
+{"sent": "thingy tan on plate near man", "ann_id": 1040768, "best_split": [2, 1], "split_score": 0.07214241099031299}
+{"sent": "bowl of soup", "ann_id": 1038496, "best_split": [3, 2], "split_score": 0.46786389408460965}
+{"sent": "bowl of soup", "ann_id": 1038496, "best_split": [3, 2], "split_score": 0.46786389408460965}
+{"sent": "little bowl of red soup", "ann_id": 1038496, "best_split": [3, 2], "split_score": 0.46786389408460965}

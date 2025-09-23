@@ -1,0 +1,6 @@
+{"sent": "the slice of pizza where you can see the green tray underneath it", "ann_id": 1569690, "best_split": [1, 2], "split_score": 0.5368754716819056}
+{"sent": "piece with the most blue cheese on it", "ann_id": 1569690, "best_split": [1, 2], "split_score": 0.5368754716819056}
+{"sent": "slice with most cheese crumbles", "ann_id": 1569690, "best_split": [1, 2], "split_score": 0.5368754716819056}
+{"sent": "food closest with crust", "ann_id": 1074410, "best_split": [2, 1], "split_score": 0.46410535695454735}
+{"sent": "lower corner pizza", "ann_id": 1074410, "best_split": [2, 1], "split_score": 0.34921069439845764}
+{"sent": "slice closest to us", "ann_id": 1074410, "best_split": [2, 1], "split_score": 0.34921069439845764}

@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 1413851, "best_split": [2, 2], "split_score": 0.4594847774936516}
+{"sent": "the baby lifting its head", "ann_id": 1413851, "best_split": [2, 2], "split_score": 0.4594847774936516}
+{"sent": "head", "ann_id": 1413851, "best_split": [2, 2], "split_score": 0.4594847774936516}
+{"sent": "belly", "ann_id": 599584, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "the huge giraffe", "ann_id": 599584, "best_split": [1, 2], "split_score": 0.49442713325953924}
+{"sent": "mamma giraffe", "ann_id": 599584, "best_split": [1, 2], "split_score": 0.49442713325953924}

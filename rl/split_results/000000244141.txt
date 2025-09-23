@@ -1,0 +1,5 @@
+{"sent": "the white phone in the ring with black gloves", "ann_id": 330090, "best_split": [1, 3], "split_score": 0.1864899651910907}
+{"sent": "white phone", "ann_id": 330090, "best_split": [1, 3], "split_score": 0.1864899651910907}
+{"sent": "phone with red gloves", "ann_id": 324346, "best_split": [1, 5], "split_score": 0.6113565174996902}
+{"sent": "ipod with red fist on it", "ann_id": 324346, "best_split": [1, 5], "split_score": 0.6113565174996902}
+{"sent": "iphone", "ann_id": 324346, "best_split": [1, 5], "split_score": 0.6113565174996902}

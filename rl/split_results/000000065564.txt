@@ -1,0 +1,6 @@
+{"sent": "lowest giraffe", "ann_id": 596656, "best_split": [2, 3], "split_score": 0.36897506922287493}
+{"sent": "no head showing giraffe", "ann_id": 596656, "best_split": [2, 3], "split_score": 0.36897506922287493}
+{"sent": "smaller giraffe", "ann_id": 596656, "best_split": [2, 3], "split_score": 0.36897506922287493}
+{"sent": "giraffe", "ann_id": 596315, "best_split": [1, 2], "split_score": 0.557779540029888}
+{"sent": "giraffe in full view looking at camera", "ann_id": 596315, "best_split": [1, 2], "split_score": 0.557779540029888}
+{"sent": "giraffe head", "ann_id": 596315, "best_split": [1, 2], "split_score": 0.557779540029888}

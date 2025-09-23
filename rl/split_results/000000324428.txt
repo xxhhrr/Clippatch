@@ -1,0 +1,6 @@
+{"sent": "mostly blue boat closest", "ann_id": 1379192, "best_split": [3, 2], "split_score": 0.44965277774989754}
+{"sent": "blue boat closest and yamaha", "ann_id": 1379192, "best_split": [3, 2], "split_score": 0.44965277774989754}
+{"sent": "blue boat", "ann_id": 1379192, "best_split": [1, 2], "split_score": 0.6015624999760218}
+{"sent": "boat next to blue boat", "ann_id": 1376444, "best_split": [3, 1], "split_score": 0.34866754481970474}
+{"sent": "closest white boat with all white seats", "ann_id": 1376444, "best_split": [3, 3], "split_score": 0.364275668041115}
+{"sent": "old white boat in between", "ann_id": 1376444, "best_split": [3, 2], "split_score": 0.41778808968153225}

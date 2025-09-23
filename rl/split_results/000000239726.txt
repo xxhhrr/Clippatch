@@ -1,0 +1,6 @@
+{"sent": "left jar", "ann_id": 1154883, "best_split": [3, 1], "split_score": 0.2865589606809394}
+{"sent": "vase by green tree", "ann_id": 1154883, "best_split": [1, 2], "split_score": 0.570870535691531}
+{"sent": "vase near greener tree", "ann_id": 1154883, "best_split": [1, 2], "split_score": 0.570870535691531}
+{"sent": "vase with bright light behind it", "ann_id": 1154171, "best_split": [1, 2], "split_score": 0.5534119897738595}
+{"sent": "the jug with the orange looking spot", "ann_id": 1154171, "best_split": [1, 2], "split_score": 0.5534119897738595}
+{"sent": "vase closer up", "ann_id": 1154171, "best_split": [1, 2], "split_score": 0.5534119897738595}

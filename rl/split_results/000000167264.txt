@@ -1,0 +1,6 @@
+{"sent": "yellow tail lights closest to us", "ann_id": 1782953, "best_split": [3, 1], "split_score": 0.3546016563423188}
+{"sent": "wider tail lights", "ann_id": 1782953, "best_split": [3, 1], "split_score": 0.3546016563423188}
+{"sent": "car with orange lights", "ann_id": 1782953, "best_split": [3, 2], "split_score": 0.6863851884526546}
+{"sent": "less blurry car", "ann_id": 345404, "best_split": [2, 3], "split_score": 0.3854545454107438}
+{"sent": "two taillights", "ann_id": 345404, "best_split": [3, 3], "split_score": 0.42900670316438044}
+{"sent": "blurred car going away leading", "ann_id": 345404, "best_split": [3, 3], "split_score": 0.42900670316438044}

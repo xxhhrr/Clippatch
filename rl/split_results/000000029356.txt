@@ -1,0 +1,5 @@
+{"sent": "piece by itself", "ann_id": 1075454, "best_split": [3, 3], "split_score": 0.49981238269232525}
+{"sent": "single piece", "ann_id": 1075454, "best_split": [5, 1], "split_score": 0.1841860465009194}
+{"sent": "pizza slice by spoon", "ann_id": 1075222, "best_split": [5, 1], "split_score": 0.2043343653137807}
+{"sent": "pizza closet to slice already cut", "ann_id": 1075222, "best_split": [1, 3], "split_score": 0.583907534975333}
+{"sent": "pizza above spoon", "ann_id": 1074159, "best_split": [1, 2], "split_score": 0.2799259699821559}

@@ -1,0 +1,6 @@
+{"sent": "lying down sheep", "ann_id": 63305, "best_split": [2, 3], "split_score": 0.32430587160624647}
+{"sent": "lamb laying down", "ann_id": 63305, "best_split": [2, 3], "split_score": 0.32430587160624647}
+{"sent": "the one lying down", "ann_id": 63305, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "standing sheep", "ann_id": 62095, "best_split": [5, 1], "split_score": 0.17209908733729753}
+{"sent": "standing up sheep", "ann_id": 62095, "best_split": [5, 1], "split_score": 0.17209908733729753}
+{"sent": "standing sheep", "ann_id": 62095, "best_split": [5, 1], "split_score": 0.17209908733729753}

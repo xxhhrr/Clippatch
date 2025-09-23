@@ -1,0 +1,9 @@
+{"sent": "oj", "ann_id": 679060, "best_split": [3, 3], "split_score": 0.5303140977848221}
+{"sent": "glass furthest from us", "ann_id": 679060, "best_split": [3, 2], "split_score": 0.35038610034382406}
+{"sent": "beverage next to empty glass", "ann_id": 679060, "best_split": [3, 2], "split_score": 0.35038610034382406}
+{"sent": "ice water", "ann_id": 676206, "best_split": [3, 3], "split_score": 0.5872899925881501}
+{"sent": "water glass with perspiration", "ann_id": 676206, "best_split": [2, 3], "split_score": 0.3880308879840696}
+{"sent": "above glass", "ann_id": 676206, "best_split": [2, 3], "split_score": 0.3880308879840696}
+{"sent": "closest cup", "ann_id": 675185, "best_split": [1, 3], "split_score": 0.3045970077036319}
+{"sent": "the glass on the plate", "ann_id": 675185, "best_split": [3, 1], "split_score": 0.21141672734236644}
+{"sent": "has ice inside", "ann_id": 675185, "best_split": [3, 3], "split_score": 0.5590282920220666}

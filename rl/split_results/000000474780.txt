@@ -1,0 +1,6 @@
+{"sent": "one not eatting the fruit", "ann_id": 39193, "best_split": [2, 1], "split_score": 0.11162349968061834}
+{"sent": "out of focus bird", "ann_id": 39193, "best_split": [2, 1], "split_score": 0.2296135839483749}
+{"sent": "blurry one", "ann_id": 39193, "best_split": [3, 1], "split_score": 0.20765818773387987}
+{"sent": "bird near apple", "ann_id": 38424, "best_split": [1, 2], "split_score": 0.7013711734414313}
+{"sent": "bird close to us eating apple", "ann_id": 38424, "best_split": [1, 2], "split_score": 0.7013711734414313}
+{"sent": "bird with big white belly showing by orange flower", "ann_id": 38424, "best_split": [1, 2], "split_score": 0.7013711734414313}

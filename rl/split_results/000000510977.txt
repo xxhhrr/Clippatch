@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 1752225, "best_split": [1, 3], "split_score": 0.4429562022034328}
+{"sent": "ghirl", "ann_id": 1752225, "best_split": [1, 2], "split_score": 0.5128259374699099}
+{"sent": "girl holding glass", "ann_id": 1752225, "best_split": [1, 2], "split_score": 0.5128259374699099}
+{"sent": "black shirt person", "ann_id": 451212, "best_split": [1, 5], "split_score": 0.5191468734348864}
+{"sent": "black shirt", "ann_id": 451212, "best_split": [1, 5], "split_score": 0.5191468734348864}
+{"sent": "black shirt", "ann_id": 451212, "best_split": [1, 5], "split_score": 0.5191468734348864}

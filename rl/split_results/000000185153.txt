@@ -1,0 +1,5 @@
+{"sent": "one without the frisbee", "ann_id": 195009, "best_split": [5, 1], "split_score": 0.11621785785812122}
+{"sent": "guy in dark brown pants", "ann_id": 195009, "best_split": [5, 1], "split_score": 0.11621785785812122}
+{"sent": "guy holding frisbee", "ann_id": 1715422, "best_split": [1, 2], "split_score": 0.7171724873906827}
+{"sent": "holding frisbee", "ann_id": 1715422, "best_split": [1, 2], "split_score": 0.7171724873906827}
+{"sent": "guy with frisbee in hand", "ann_id": 1715422, "best_split": [1, 2], "split_score": 0.7171724873906827}

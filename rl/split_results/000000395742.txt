@@ -1,0 +1,6 @@
+{"sent": "girl in white", "ann_id": 508891, "best_split": [2, 2], "split_score": 0.2638056168930415}
+{"sent": "woman in white", "ann_id": 508891, "best_split": [2, 2], "split_score": 0.2638056168930415}
+{"sent": "white uniform", "ann_id": 508891, "best_split": [2, 2], "split_score": 0.2638056168930415}
+{"sent": "girl in red kicking ball", "ann_id": 438442, "best_split": [1, 5], "split_score": 0.29803102623075545}
+{"sent": "with ball", "ann_id": 438442, "best_split": [1, 5], "split_score": 0.29803102623075545}
+{"sent": "woman in red", "ann_id": 438442, "best_split": [1, 5], "split_score": 0.29803102623075545}

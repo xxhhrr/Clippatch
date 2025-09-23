@@ -1,0 +1,6 @@
+{"sent": "black foot", "ann_id": 2156697, "best_split": [3, 3], "split_score": 0.6525146961703927}
+{"sent": "black in the upper corner", "ann_id": 2156697, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "shoes in corner", "ann_id": 2156697, "best_split": [2, 3], "split_score": 0.5603281852605781}
+{"sent": "arm", "ann_id": 442839, "best_split": [2, 2], "split_score": 0.4720534629046132}
+{"sent": "hand", "ann_id": 442839, "best_split": [2, 2], "split_score": 0.4720534629046132}
+{"sent": "arm and hand", "ann_id": 442839, "best_split": [2, 2], "split_score": 0.4720534629046132}

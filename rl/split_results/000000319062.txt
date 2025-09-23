@@ -1,0 +1,6 @@
+{"sent": "dog you can only see part of face", "ann_id": 16743, "best_split": [2, 1], "split_score": 0.20432692306924854}
+{"sent": "partial dog face", "ann_id": 16743, "best_split": [2, 1], "split_score": 0.20432692306924854}
+{"sent": "dog resting head on seat", "ann_id": 16743, "best_split": [2, 1], "split_score": 0.20432692306924854}
+{"sent": "fuller dog closer", "ann_id": 11655, "best_split": [1, 3], "split_score": 0.4536585365704134}
+{"sent": "big dog", "ann_id": 11655, "best_split": [1, 3], "split_score": 0.4536585365704134}
+{"sent": "closest dog", "ann_id": 11655, "best_split": [1, 3], "split_score": 0.4536585365704134}

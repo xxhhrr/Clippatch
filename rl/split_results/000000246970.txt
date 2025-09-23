@@ -1,0 +1,5 @@
+{"sent": "black shirt", "ann_id": 463549, "best_split": [3, 2], "split_score": 0.42681297035754284}
+{"sent": "black", "ann_id": 463549, "best_split": [3, 2], "split_score": 0.42681297035754284}
+{"sent": "stumbler", "ann_id": 463549, "best_split": [1, 2], "split_score": 0.39906439806847005}
+{"sent": "guy wearing red numbers cap", "ann_id": 460281, "best_split": [1, 5], "split_score": 0.4174450246070865}
+{"sent": "red uniform", "ann_id": 460281, "best_split": [1, 5], "split_score": 0.4174450246070865}

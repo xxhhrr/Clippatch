@@ -1,0 +1,7 @@
+{"sent": "woman in purple shirt", "ann_id": 2164992, "best_split": [1, 5], "split_score": 0.2328042327849864}
+{"sent": "woman with maroon sweater", "ann_id": 2164992, "best_split": [2, 3], "split_score": 0.41355932199008905}
+{"sent": "person in back", "ann_id": 2164992, "best_split": [2, 3], "split_score": 0.41355932199008905}
+{"sent": "girl under umbrella", "ann_id": 1724358, "best_split": [3, 2], "split_score": 0.44650293189032864}
+{"sent": "little girl", "ann_id": 1724358, "best_split": [3, 2], "split_score": 0.44650293189032864}
+{"sent": "girl blocked by the umbrella", "ann_id": 1724358, "best_split": [3, 2], "split_score": 0.44650293189032864}
+{"sent": "what looks like a hand", "ann_id": 1712067, "best_split": [3, 1], "split_score": 0.17518248174183493}

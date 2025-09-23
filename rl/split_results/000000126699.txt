@@ -1,0 +1,6 @@
+{"sent": "meter closest to white line", "ann_id": 418875, "best_split": [3, 2], "split_score": 0.2218543046128048}
+{"sent": "meter close to edge of photo", "ann_id": 418875, "best_split": [3, 3], "split_score": 0.31290134262800623}
+{"sent": "meter 9pm", "ann_id": 418875, "best_split": [3, 3], "split_score": 0.31290134262800623}
+{"sent": "closest meter", "ann_id": 418775, "best_split": [1, 5], "split_score": 0.44673295450012857}
+{"sent": "closest meter", "ann_id": 418775, "best_split": [1, 5], "split_score": 0.44673295450012857}
+{"sent": "side of parking meter", "ann_id": 418775, "best_split": [1, 5], "split_score": 0.44673295450012857}

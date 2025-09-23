@@ -1,0 +1,9 @@
+{"sent": "orange jacket", "ann_id": 1236945, "best_split": [2, 3], "split_score": 0.6239238784975165}
+{"sent": "orange jacjet", "ann_id": 1236945, "best_split": [2, 3], "split_score": 0.6239238784975165}
+{"sent": "orange coat", "ann_id": 1236945, "best_split": [2, 3], "split_score": 0.6239238784975165}
+{"sent": "e the short guy", "ann_id": 1223214, "best_split": [3, 3], "split_score": 0.3934116375869567}
+{"sent": "man sitting is closest", "ann_id": 1223214, "best_split": [3, 1], "split_score": 0.19757365683470823}
+{"sent": "crouching guy in blue", "ann_id": 1223214, "best_split": [3, 2], "split_score": 0.36816335031064035}
+{"sent": "allyguy in button down shirt", "ann_id": 1222590, "best_split": [2, 3], "split_score": 0.4009433961913921}
+{"sent": "his foor behind letter a", "ann_id": 1222590, "best_split": [2, 1], "split_score": 0.0707577931371215}
+{"sent": "man in dark blue shirt with brown hair", "ann_id": 1222590, "best_split": [2, 3], "split_score": 0.4009433961913921}

@@ -1,0 +1,5 @@
+{"sent": "the train in the back", "ann_id": 172825, "best_split": [3, 3], "split_score": 0.6374599296844055}
+{"sent": "train visible between two cars", "ann_id": 172825, "best_split": [3, 3], "split_score": 0.6374599296844055}
+{"sent": "red train behind the two large trains facing each other", "ann_id": 172825, "best_split": [3, 2], "split_score": 0.24496551721885373}
+{"sent": "silver train car", "ann_id": 171766, "best_split": [2, 1], "split_score": 0.5063233657901068}
+{"sent": "red train", "ann_id": 171766, "best_split": [1, 2], "split_score": 0.44828414249807275}

@@ -1,0 +1,6 @@
+{"sent": "zebra whose head is hidden", "ann_id": 593613, "best_split": [3, 1], "split_score": 0.389473684192224}
+{"sent": "full body but no head", "ann_id": 593613, "best_split": [1, 2], "split_score": 0.3893753648427694}
+{"sent": "no head zebra", "ann_id": 593613, "best_split": [3, 1], "split_score": 0.389473684192224}
+{"sent": "completely seen zebra", "ann_id": 590393, "best_split": [2, 2], "split_score": 0.4171749206869252}
+{"sent": "animal facing screen", "ann_id": 590393, "best_split": [3, 2], "split_score": 0.4210841569016858}
+{"sent": "zeb close to u", "ann_id": 590393, "best_split": [3, 2], "split_score": 0.4210841569016858}

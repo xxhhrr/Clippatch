@@ -1,0 +1,6 @@
+{"sent": "the recliner chair", "ann_id": 1949802, "best_split": [3, 2], "split_score": 0.8228317271182005}
+{"sent": "recliner", "ann_id": 1949802, "best_split": [3, 2], "split_score": 0.8228317271182005}
+{"sent": "chair", "ann_id": 1949802, "best_split": [2, 2], "split_score": 0.7114955356575657}
+{"sent": "the gray couch", "ann_id": 113632, "best_split": [3, 2], "split_score": 0.4477547495198883}
+{"sent": "dark brown sofa", "ann_id": 113632, "best_split": [1, 5], "split_score": 0.3275434242885906}
+{"sent": "couch", "ann_id": 113632, "best_split": [3, 2], "split_score": 0.4477547495198883}

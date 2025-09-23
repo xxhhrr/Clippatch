@@ -1,0 +1,6 @@
+{"sent": "little one", "ann_id": 584318, "best_split": [1, 2], "split_score": 0.5234154668055732}
+{"sent": "the elephants whose tusks arent showing", "ann_id": 584318, "best_split": [1, 3], "split_score": 0.3126134484162554}
+{"sent": "smallest elephant", "ann_id": 584318, "best_split": [1, 3], "split_score": 0.3126134484162554}
+{"sent": "tallest elephant", "ann_id": 580114, "best_split": [1, 2], "split_score": 0.5454799106925431}
+{"sent": "eastern most one", "ann_id": 580114, "best_split": [1, 2], "split_score": 0.5454799106925431}
+{"sent": "biggest elephant", "ann_id": 580114, "best_split": [1, 2], "split_score": 0.5454799106925431}

@@ -1,0 +1,6 @@
+{"sent": "boat thats tan and blue", "ann_id": 180304, "best_split": [2, 2], "split_score": 0.2652631578747922}
+{"sent": "light brown or tan boat", "ann_id": 180304, "best_split": [1, 5], "split_score": 0.26838894866627294}
+{"sent": "yellow boat thing", "ann_id": 180304, "best_split": [2, 2], "split_score": 0.2652631578747922}
+{"sent": "white and green boat", "ann_id": 177059, "best_split": [5, 1], "split_score": 0.32374969797512987}
+{"sent": "green stripe boat", "ann_id": 177059, "best_split": [5, 1], "split_score": 0.32374969797512987}
+{"sent": "green and white boat", "ann_id": 177059, "best_split": [5, 1], "split_score": 0.32374969797512987}

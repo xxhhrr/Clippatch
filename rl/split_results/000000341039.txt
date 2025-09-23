@@ -1,0 +1,6 @@
+{"sent": "sign man", "ann_id": 271587, "best_split": [3, 2], "split_score": 0.5513913823438744}
+{"sent": "stop sign guy is near", "ann_id": 271587, "best_split": [3, 2], "split_score": 0.5513913823438744}
+{"sent": "stop above man", "ann_id": 271587, "best_split": [3, 2], "split_score": 0.5513913823438744}
+{"sent": "stop sign by white truck", "ann_id": 271428, "best_split": [1, 5], "split_score": 0.22415116053863887}
+{"sent": "stop sign far righ", "ann_id": 271428, "best_split": [5, 1], "split_score": 0.21332826312260403}
+{"sent": "stop sign with no one under it", "ann_id": 271428, "best_split": [5, 1], "split_score": 0.21332826312260403}

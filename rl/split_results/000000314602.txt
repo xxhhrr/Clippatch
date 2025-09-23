@@ -1,0 +1,6 @@
+{"sent": "head on elephant", "ann_id": 581176, "best_split": [1, 5], "split_score": 0.39005957140659203}
+{"sent": "elephant looking straight on", "ann_id": 581176, "best_split": [1, 5], "split_score": 0.39005957140659203}
+{"sent": "looking at us", "ann_id": 581176, "best_split": [1, 5], "split_score": 0.39005957140659203}
+{"sent": "closer elephant", "ann_id": 581124, "best_split": [3, 2], "split_score": 0.5108200455165295}
+{"sent": "dad", "ann_id": 581124, "best_split": [1, 3], "split_score": 0.1444458647516108}
+{"sent": "the elephant looking the other 7 o clock", "ann_id": 581124, "best_split": [3, 2], "split_score": 0.5108200455165295}

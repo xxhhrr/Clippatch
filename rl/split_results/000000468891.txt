@@ -1,0 +1,6 @@
+{"sent": "sheep directly behind partial sheep", "ann_id": 64800, "best_split": [3, 3], "split_score": 0.5741083834444062}
+{"sent": "the topmost sheep", "ann_id": 64800, "best_split": [3, 3], "split_score": 0.5741083834444062}
+{"sent": "sheep one leg showing", "ann_id": 64800, "best_split": [3, 3], "split_score": 0.5741083834444062}
+{"sent": "sheep closest to us", "ann_id": 64263, "best_split": [3, 3], "split_score": 0.4490994517962902}
+{"sent": "closest one", "ann_id": 64263, "best_split": [3, 1], "split_score": 0.339954479601699}
+{"sent": "closest sheep", "ann_id": 64263, "best_split": [3, 3], "split_score": 0.4490994517962902}

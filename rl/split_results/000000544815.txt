@@ -1,0 +1,11 @@
+{"sent": "lower blue clock", "ann_id": 1666883, "best_split": [2, 3], "split_score": 0.26359550558836004}
+{"sent": "blue clock next to black clock on hanger", "ann_id": 1666883, "best_split": [2, 3], "split_score": 0.26359550558836004}
+{"sent": "the small blue cloudy clock", "ann_id": 1666883, "best_split": [2, 3], "split_score": 0.26359550558836004}
+{"sent": "balck and white clock 1 o clock", "ann_id": 1665571, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "clock is small above larger in corner", "ann_id": 1665571, "best_split": [3, 1], "split_score": 0.13881515443177997}
+{"sent": "funky clock above the black and red record", "ann_id": 1665043, "best_split": [2, 2], "split_score": 0.3263736263512106}
+{"sent": "clock saying 155", "ann_id": 1665043, "best_split": [2, 2], "split_score": 0.3263736263512106}
+{"sent": "clock at 3", "ann_id": 1665043, "best_split": [1, 5], "split_score": 0.33119795000550944}
+{"sent": "wood coat hanger", "ann_id": 1663863, "best_split": [1, 2], "split_score": 0.3333079934496443}
+{"sent": "black clock on wooden hanger", "ann_id": 1663863, "best_split": [1, 2], "split_score": 0.3333079934496443}
+{"sent": "large black and silver clock next to blue clock", "ann_id": 1663863, "best_split": [3, 1], "split_score": 0.33457249068951206}

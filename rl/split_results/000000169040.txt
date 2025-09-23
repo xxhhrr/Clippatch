@@ -1,0 +1,6 @@
+{"sent": "orange vehicle", "ann_id": 401069, "best_split": [2, 3], "split_score": 0.36470037450337855}
+{"sent": "tractor with orange", "ann_id": 401069, "best_split": [2, 3], "split_score": 0.36470037450337855}
+{"sent": "red backho", "ann_id": 401069, "best_split": [3, 1], "split_score": 0.26611001963329517}
+{"sent": "large vehicle shown", "ann_id": 400918, "best_split": [3, 1], "split_score": 0.5271703114427116}
+{"sent": "white truck", "ann_id": 400918, "best_split": [3, 1], "split_score": 0.5271703114427116}
+{"sent": "mercedes", "ann_id": 400918, "best_split": [3, 1], "split_score": 0.5271703114427116}

@@ -1,0 +1,6 @@
+{"sent": "wristwatch with visible strap", "ann_id": 2197038, "best_split": [1, 2], "split_score": 0.14827806121857948}
+{"sent": "watch with completely metallic face", "ann_id": 2197038, "best_split": [1, 5], "split_score": 0.1149802890838551}
+{"sent": "light faced watch", "ann_id": 2197038, "best_split": [1, 2], "split_score": 0.14827806121857948}
+{"sent": "clock", "ann_id": 1991489, "best_split": [2, 1], "split_score": 0.7804756101127941}
+{"sent": "alarm clock", "ann_id": 1991489, "best_split": [2, 1], "split_score": 0.7804756101127941}
+{"sent": "clock face", "ann_id": 1991489, "best_split": [2, 1], "split_score": 0.7804756101127941}

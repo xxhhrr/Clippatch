@@ -1,0 +1,8 @@
+{"sent": "giraffee with no body", "ann_id": 600444, "best_split": [2, 1], "split_score": 0.19800655561582692}
+{"sent": "big head of giraffe", "ann_id": 600444, "best_split": [3, 1], "split_score": 0.2508474576156277}
+{"sent": "closest girrafe", "ann_id": 600444, "best_split": [3, 3], "split_score": 0.3949044585647354}
+{"sent": "giraffe obscured by other giraffe", "ann_id": 600278, "best_split": [1, 2], "split_score": 0.6486766581374093}
+{"sent": "farthest girffe", "ann_id": 600278, "best_split": [1, 2], "split_score": 0.6486766581374093}
+{"sent": "last garaf", "ann_id": 600278, "best_split": [1, 5], "split_score": 0.3624986964040829}
+{"sent": "giraffe closest to 3 o clock", "ann_id": 600264, "best_split": [2, 2], "split_score": 0.4863896847888667}
+{"sent": "not nearest not farthest but in between", "ann_id": 600264, "best_split": [2, 1], "split_score": 0.44644595908866164}

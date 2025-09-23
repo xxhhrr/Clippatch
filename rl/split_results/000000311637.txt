@@ -1,0 +1,5 @@
+{"sent": "cow with white on hus head", "ann_id": 75528, "best_split": [1, 5], "split_score": 0.4037493832852739}
+{"sent": "white portion of cow", "ann_id": 75528, "best_split": [1, 5], "split_score": 0.4037493832852739}
+{"sent": "short cow from your pov", "ann_id": 73931, "best_split": [2, 2], "split_score": 0.33181580712502307}
+{"sent": "cow with red earing", "ann_id": 73931, "best_split": [2, 2], "split_score": 0.33181580712502307}
+{"sent": "closer cow", "ann_id": 73931, "best_split": [2, 2], "split_score": 0.33181580712502307}

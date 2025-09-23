@@ -1,0 +1,6 @@
+{"sent": "green shirt persons elbow", "ann_id": 1751577, "best_split": [5, 1], "split_score": 0.4200582855572246}
+{"sent": "green shirt", "ann_id": 1751577, "best_split": [5, 1], "split_score": 0.4200582855572246}
+{"sent": "arm green shirt", "ann_id": 1751577, "best_split": [5, 1], "split_score": 0.4200582855572246}
+{"sent": "person with arms folded", "ann_id": 464471, "best_split": [3, 2], "split_score": 0.631095560831938}
+{"sent": "purple shirt with folded arms", "ann_id": 464471, "best_split": [3, 2], "split_score": 0.631095560831938}
+{"sent": "lady in blue near wine glass arms folded", "ann_id": 464471, "best_split": [3, 1], "split_score": 0.3310772054416039}

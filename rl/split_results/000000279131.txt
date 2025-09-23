@@ -1,0 +1,17 @@
+{"sent": "black suit blue undershirt", "ann_id": 1698656, "best_split": [1, 5], "split_score": 0.7638611160912687}
+{"sent": "blue shirt and glasses", "ann_id": 1698656, "best_split": [1, 5], "split_score": 0.7638611160912687}
+{"sent": "man in blue shirt chuckling", "ann_id": 1698656, "best_split": [1, 2], "split_score": 0.38066007651543926}
+{"sent": "girl red hair white shirt", "ann_id": 1269887, "best_split": [1, 2], "split_score": 0.6096585772682825}
+{"sent": "blond girl smiling legs crossed", "ann_id": 1269887, "best_split": [1, 2], "split_score": 0.6096585772682825}
+{"sent": "young woman", "ann_id": 1269887, "best_split": [1, 2], "split_score": 0.6096585772682825}
+{"sent": "woman in pink", "ann_id": 1260138, "best_split": [1, 3], "split_score": 0.4159800727949423}
+{"sent": "woman in pink cardigan", "ann_id": 1260138, "best_split": [1, 3], "split_score": 0.4159800727949423}
+{"sent": "woman in pink smiling", "ann_id": 1260138, "best_split": [1, 3], "split_score": 0.4159800727949423}
+{"sent": "red bowtie", "ann_id": 1255896, "best_split": [1, 2], "split_score": 0.736607142827782}
+{"sent": "gray haired man sitting with women", "ann_id": 1255896, "best_split": [2, 1], "split_score": 0.18574966659810713}
+{"sent": "old man", "ann_id": 1255896, "best_split": [1, 2], "split_score": 0.736607142827782}
+{"sent": "the lady with glasses and white shirt", "ann_id": 2206319, "best_split": [3, 2], "split_score": 0.36066695165791646}
+{"sent": "woman with glasses and white shirt", "ann_id": 2206319, "best_split": [1, 5], "split_score": 0.35975420034538313}
+{"sent": "woman in white holding a pen and smiling", "ann_id": 2206319, "best_split": [3, 2], "split_score": 0.36066695165791646}
+{"sent": "edge black shirt", "ann_id": 2028293, "best_split": [1, 3], "split_score": 0.5289061792939064}
+{"sent": "pink tie", "ann_id": 2028293, "best_split": [1, 2], "split_score": 0.6864636479318215}

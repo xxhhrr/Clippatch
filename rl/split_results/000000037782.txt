@@ -1,0 +1,9 @@
+{"sent": "turtle neck", "ann_id": 570930, "best_split": [2, 3], "split_score": 0.5746189973569809}
+{"sent": "turtleneck", "ann_id": 570930, "best_split": [2, 3], "split_score": 0.5746189973569809}
+{"sent": "glass in light", "ann_id": 570930, "best_split": [1, 5], "split_score": 0.5670498083797414}
+{"sent": "lady in black", "ann_id": 570594, "best_split": [2, 2], "split_score": 0.5279199493629352}
+{"sent": "black shirt blond", "ann_id": 570594, "best_split": [1, 2], "split_score": 0.5590322066103702}
+{"sent": "long blond", "ann_id": 570594, "best_split": [1, 2], "split_score": 0.5590322066103702}
+{"sent": "woman black white", "ann_id": 455444, "best_split": [2, 2], "split_score": 0.5877355005179328}
+{"sent": "woman wearing a striped shirt", "ann_id": 455444, "best_split": [2, 2], "split_score": 0.5877355005179328}
+{"sent": "striped", "ann_id": 455444, "best_split": [2, 2], "split_score": 0.5877355005179328}

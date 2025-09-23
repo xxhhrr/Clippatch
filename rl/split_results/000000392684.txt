@@ -1,0 +1,14 @@
+{"sent": "we can only see the shoulder and arm of person", "ann_id": 557284, "best_split": [2, 1], "split_score": 0.2116827234221209}
+{"sent": "back of man we cant see", "ann_id": 557284, "best_split": [2, 3], "split_score": 0.5694879832215791}
+{"sent": "mans shoulder in dark suit", "ann_id": 557284, "best_split": [2, 3], "split_score": 0.5694879832215791}
+{"sent": "long blond hair", "ann_id": 535370, "best_split": [3, 2], "split_score": 0.477786525646408}
+{"sent": "girls hair", "ann_id": 535370, "best_split": [3, 2], "split_score": 0.477786525646408}
+{"sent": "woman", "ann_id": 535370, "best_split": [3, 1], "split_score": 0.014920424402476297}
+{"sent": "man", "ann_id": 531767, "best_split": [1, 5], "split_score": 0.5674227894605236}
+{"sent": "man", "ann_id": 531767, "best_split": [1, 5], "split_score": 0.5674227894605236}
+{"sent": "man", "ann_id": 531767, "best_split": [1, 5], "split_score": 0.5674227894605236}
+{"sent": "umbrella of guy in light jacket", "ann_id": 285360, "best_split": [3, 2], "split_score": 0.5331412103106218}
+{"sent": "umbrella of the man", "ann_id": 285360, "best_split": [3, 2], "split_score": 0.5331412103106218}
+{"sent": "umbrella by mans head", "ann_id": 285360, "best_split": [3, 2], "split_score": 0.5331412103106218}
+{"sent": "girls umbrella", "ann_id": 283743, "best_split": [3, 2], "split_score": 0.8303532489282214}
+{"sent": "lowerumbrella", "ann_id": 283743, "best_split": [3, 2], "split_score": 0.8303532489282214}

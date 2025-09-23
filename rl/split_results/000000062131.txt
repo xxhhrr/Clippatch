@@ -1,0 +1,6 @@
+{"sent": "back of chair not the edge tho", "ann_id": 289585, "best_split": [3, 1], "split_score": 0.5016891891589231}
+{"sent": "lattice portion on the chair the bird is on", "ann_id": 289585, "best_split": [3, 2], "split_score": 0.802431610855142}
+{"sent": "weaved back", "ann_id": 289585, "best_split": [3, 2], "split_score": 0.802431610855142}
+{"sent": "farthest chair", "ann_id": 106054, "best_split": [1, 2], "split_score": 0.5238095237934728}
+{"sent": "out of focus chair back", "ann_id": 106054, "best_split": [1, 3], "split_score": 0.38215962440032997}
+{"sent": "chair bird is not on", "ann_id": 106054, "best_split": [3, 1], "split_score": 0.4030501089187415}

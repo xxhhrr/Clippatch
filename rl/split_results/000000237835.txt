@@ -1,0 +1,6 @@
+{"sent": "red and white bench next to girl", "ann_id": 376362, "best_split": [3, 2], "split_score": 0.3257485029661464}
+{"sent": "booth next to girl", "ann_id": 376362, "best_split": [3, 2], "split_score": 0.3257485029661464}
+{"sent": "seat beside the girl", "ann_id": 376362, "best_split": [3, 2], "split_score": 0.3257485029661464}
+{"sent": "back of seat near you", "ann_id": 2192515, "best_split": [2, 2], "split_score": 0.39830737979700015}
+{"sent": "seat in booth on edge", "ann_id": 2192515, "best_split": [3, 1], "split_score": 0.188893705139484}
+{"sent": "red seat opposite where girl is and barely visible", "ann_id": 2192515, "best_split": [2, 1], "split_score": 0.21538405212655107}

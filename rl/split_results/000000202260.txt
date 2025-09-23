@@ -1,0 +1,6 @@
+{"sent": "brown couch closest to us", "ann_id": 113771, "best_split": [3, 2], "split_score": 0.8418171227907026}
+{"sent": "couch with one pillow", "ann_id": 113771, "best_split": [3, 2], "split_score": 0.8418171227907026}
+{"sent": "part of a sofa", "ann_id": 113771, "best_split": [3, 2], "split_score": 0.8418171227907026}
+{"sent": "full shown couch", "ann_id": 98221, "best_split": [2, 3], "split_score": 0.5241126849813693}
+{"sent": "couch with two pillows", "ann_id": 98221, "best_split": [2, 3], "split_score": 0.5241126849813693}
+{"sent": "couch 2 pillows", "ann_id": 98221, "best_split": [2, 3], "split_score": 0.5241126849813693}

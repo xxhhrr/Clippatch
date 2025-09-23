@@ -1,0 +1,6 @@
+{"sent": "main bowl", "ann_id": 1038879, "best_split": [2, 3], "split_score": 0.6415257910150389}
+{"sent": "biggest plate", "ann_id": 1038879, "best_split": [2, 3], "split_score": 0.6415257910150389}
+{"sent": "largest bowl", "ann_id": 1038879, "best_split": [2, 3], "split_score": 0.6415257910150389}
+{"sent": "soup", "ann_id": 717588, "best_split": [3, 3], "split_score": 0.4694689008137647}
+{"sent": "bowl of soup", "ann_id": 717588, "best_split": [3, 3], "split_score": 0.4694689008137647}
+{"sent": "middle sized round bowl", "ann_id": 717588, "best_split": [3, 3], "split_score": 0.4694689008137647}

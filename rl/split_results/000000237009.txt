@@ -1,0 +1,6 @@
+{"sent": "purple bear", "ann_id": 1162345, "best_split": [1, 2], "split_score": 0.6627616164057272}
+{"sent": "purple", "ann_id": 1162345, "best_split": [1, 2], "split_score": 0.6627616164057272}
+{"sent": "purple bear", "ann_id": 1162345, "best_split": [1, 2], "split_score": 0.6627616164057272}
+{"sent": "orange bear", "ann_id": 1160449, "best_split": [3, 2], "split_score": 0.4003181862980692}
+{"sent": "orange teddy", "ann_id": 1160449, "best_split": [3, 2], "split_score": 0.4003181862980692}
+{"sent": "orange bear", "ann_id": 1160449, "best_split": [3, 2], "split_score": 0.4003181862980692}

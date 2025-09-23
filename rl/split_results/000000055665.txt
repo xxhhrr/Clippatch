@@ -1,0 +1,6 @@
+{"sent": "hand holding the wheel", "ann_id": 557324, "best_split": [2, 1], "split_score": 0.4052044609530933}
+{"sent": "hand not holding phone", "ann_id": 557324, "best_split": [2, 1], "split_score": 0.4052044609530933}
+{"sent": "hand on wheel", "ann_id": 557324, "best_split": [2, 1], "split_score": 0.4052044609530933}
+{"sent": "hand holding phone", "ann_id": 475697, "best_split": [2, 2], "split_score": 0.6894132652511629}
+{"sent": "hand holding thing", "ann_id": 475697, "best_split": [2, 2], "split_score": 0.6894132652511629}
+{"sent": "hand typing", "ann_id": 475697, "best_split": [2, 2], "split_score": 0.6894132652511629}

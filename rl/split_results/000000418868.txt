@@ -1,0 +1,6 @@
+{"sent": "light sweater", "ann_id": 1707377, "best_split": [5, 1], "split_score": 0.21842250411957903}
+{"sent": "man in white hat", "ann_id": 1707377, "best_split": [3, 3], "split_score": 0.3939127153321704}
+{"sent": "squating white shirt", "ann_id": 1707377, "best_split": [5, 1], "split_score": 0.21842250411957903}
+{"sent": "person with red cloth", "ann_id": 210657, "best_split": [2, 3], "split_score": 0.377251370362446}
+{"sent": "black jacket", "ann_id": 210657, "best_split": [3, 2], "split_score": 0.3346613545499278}
+{"sent": "guy milking", "ann_id": 210657, "best_split": [2, 2], "split_score": 0.2808219177885923}

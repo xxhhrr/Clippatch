@@ -1,0 +1,5 @@
+{"sent": "gray sweater", "ann_id": 189176, "best_split": [1, 2], "split_score": 0.6373950198674895}
+{"sent": "red hair", "ann_id": 189176, "best_split": [1, 2], "split_score": 0.6373950198674895}
+{"sent": "older lady with paper", "ann_id": 188134, "best_split": [1, 2], "split_score": 0.6524234693617497}
+{"sent": "red shirt", "ann_id": 188134, "best_split": [3, 2], "split_score": 0.3799742541904083}
+{"sent": "old lady reading", "ann_id": 188134, "best_split": [1, 2], "split_score": 0.6524234693617497}

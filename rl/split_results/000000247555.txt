@@ -1,0 +1,9 @@
+{"sent": "pizza near apron", "ann_id": 1077732, "best_split": [3, 2], "split_score": 0.5304777594181963}
+{"sent": "furthest food", "ann_id": 1077732, "best_split": [1, 2], "split_score": 0.2045039561699443}
+{"sent": "pizza at 12", "ann_id": 1077732, "best_split": [3, 2], "split_score": 0.5304777594181963}
+{"sent": "food in between other foods", "ann_id": 1077200, "best_split": [3, 3], "split_score": 0.4877680964330147}
+{"sent": "pizza sandwiched", "ann_id": 1077200, "best_split": [3, 3], "split_score": 0.4877680964330147}
+{"sent": "pizza closest to blurry pizza", "ann_id": 1077200, "best_split": [3, 3], "split_score": 0.4877680964330147}
+{"sent": "lowest pizza", "ann_id": 1076619, "best_split": [2, 3], "split_score": 0.33748055984642467}
+{"sent": "blurry pizza closest to camera", "ann_id": 1076619, "best_split": [2, 3], "split_score": 0.33748055984642467}
+{"sent": "food nearest", "ann_id": 1076619, "best_split": [2, 3], "split_score": 0.33748055984642467}

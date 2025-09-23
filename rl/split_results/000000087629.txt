@@ -1,0 +1,9 @@
+{"sent": "chair by window", "ann_id": 109809, "best_split": [1, 3], "split_score": 0.15281276237538607}
+{"sent": "the back chair", "ann_id": 109809, "best_split": [1, 3], "split_score": 0.15281276237538607}
+{"sent": "end chair", "ann_id": 109809, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "chair whose back is only partially visible", "ann_id": 106086, "best_split": [2, 3], "split_score": 0.6746143056912154}
+{"sent": "chair closest to cat head", "ann_id": 106086, "best_split": [2, 2], "split_score": 0.862244897890446}
+{"sent": "chair beside the cats head", "ann_id": 106086, "best_split": [2, 2], "split_score": 0.862244897890446}
+{"sent": "chair the cat is touching", "ann_id": 105985, "best_split": [2, 1], "split_score": 0.4539565016046157}
+{"sent": "chair near cats tail", "ann_id": 105985, "best_split": [2, 1], "split_score": 0.4539565016046157}
+{"sent": "chair at cats feet", "ann_id": 105985, "best_split": [2, 1], "split_score": 0.4539565016046157}

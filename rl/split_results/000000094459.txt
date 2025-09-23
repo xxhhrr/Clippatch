@@ -1,0 +1,6 @@
+{"sent": "open can of food", "ann_id": 1882073, "best_split": [2, 3], "split_score": 0.5040467625332681}
+{"sent": "empty can", "ann_id": 1882073, "best_split": [3, 3], "split_score": 0.7039664623179673}
+{"sent": "can", "ann_id": 1882073, "best_split": [2, 2], "split_score": 0.405931122416619}
+{"sent": "teal cup", "ann_id": 1883835, "best_split": [3, 1], "split_score": 0.17193532817495563}
+{"sent": "blue cup on side", "ann_id": 1883835, "best_split": [3, 1], "split_score": 0.17193532817495563}
+{"sent": "plastic cup on its side", "ann_id": 1883835, "best_split": [3, 1], "split_score": 0.17193532817495563}

@@ -1,0 +1,7 @@
+{"sent": "broccoli at 5 o clock", "ann_id": 1561754, "best_split": [2, 3], "split_score": 0.2509225091993724}
+{"sent": "one broc floret above lowest floret under orange thing", "ann_id": 1057310, "best_split": [3, 3], "split_score": 0.24584717604422254}
+{"sent": "broc under carrott", "ann_id": 1057310, "best_split": [3, 3], "split_score": 0.24584717604422254}
+{"sent": "light colored broccoli just above one in foreground", "ann_id": 1057310, "best_split": [3, 2], "split_score": 0.23309973043308896}
+{"sent": "closest broccoli", "ann_id": 1055959, "best_split": [3, 3], "split_score": 0.6608322323875772}
+{"sent": "broccoli way away from utensil", "ann_id": 1055959, "best_split": [3, 3], "split_score": 0.6608322323875772}
+{"sent": "brocolli next to end of plate", "ann_id": 1055959, "best_split": [3, 3], "split_score": 0.6608322323875772}

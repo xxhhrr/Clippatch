@@ -1,0 +1,9 @@
+{"sent": "blond in white", "ann_id": 251413, "best_split": [2, 2], "split_score": 0.5038330219349461}
+{"sent": "blond girl", "ann_id": 251413, "best_split": [2, 2], "split_score": 0.5038330219349461}
+{"sent": "girl with blond hair", "ann_id": 251413, "best_split": [2, 2], "split_score": 0.5038330219349461}
+{"sent": "darker hair girl", "ann_id": 229872, "best_split": [1, 3], "split_score": 0.43042494938516696}
+{"sent": "brunette girl", "ann_id": 229872, "best_split": [1, 3], "split_score": 0.43042494938516696}
+{"sent": "woman with dark brown hair", "ann_id": 229872, "best_split": [1, 2], "split_score": 0.2972735969269263}
+{"sent": "tie", "ann_id": 195934, "best_split": [2, 2], "split_score": 0.5661657134880858}
+{"sent": "man", "ann_id": 195934, "best_split": [1, 2], "split_score": 0.43877551018659217}
+{"sent": "wearing suit and tie", "ann_id": 195934, "best_split": [2, 2], "split_score": 0.5661657134880858}

@@ -1,0 +1,6 @@
+{"sent": "man that is balding", "ann_id": 490311, "best_split": [2, 2], "split_score": 0.23912838410342757}
+{"sent": "short sleeve shirt", "ann_id": 490311, "best_split": [3, 3], "split_score": 0.294244507326173}
+{"sent": "man not in plaid pants", "ann_id": 490311, "best_split": [2, 1], "split_score": 0.2870880031737155}
+{"sent": "plaid pants", "ann_id": 439526, "best_split": [1, 2], "split_score": 0.623487598282536}
+{"sent": "guy with plaid pants", "ann_id": 439526, "best_split": [1, 2], "split_score": 0.623487598282536}
+{"sent": "man in plaid pants", "ann_id": 439526, "best_split": [1, 2], "split_score": 0.623487598282536}

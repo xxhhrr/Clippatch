@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 1722807, "best_split": [1, 2], "split_score": 0.8914620535358951}
+{"sent": "boy", "ann_id": 1722807, "best_split": [1, 2], "split_score": 0.8914620535358951}
+{"sent": "boy", "ann_id": 1722807, "best_split": [1, 2], "split_score": 0.8914620535358951}
+{"sent": "woman with glasses", "ann_id": 559867, "best_split": [1, 5], "split_score": 0.6707102952377725}
+{"sent": "mom", "ann_id": 559867, "best_split": [1, 5], "split_score": 0.6707102952377725}
+{"sent": "glasses", "ann_id": 559867, "best_split": [1, 5], "split_score": 0.6707102952377725}
+{"sent": "little girl", "ann_id": 464282, "best_split": [2, 2], "split_score": 0.661555375496959}
+{"sent": "young girl", "ann_id": 464282, "best_split": [2, 2], "split_score": 0.661555375496959}
+{"sent": "girl with bow", "ann_id": 464282, "best_split": [2, 2], "split_score": 0.661555375496959}

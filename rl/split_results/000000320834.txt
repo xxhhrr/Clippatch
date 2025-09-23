@@ -1,0 +1,9 @@
+{"sent": "the glass aligned with the bucket", "ann_id": 664027, "best_split": [1, 5], "split_score": 0.5223214285184333}
+{"sent": "glass immediately next to one with wine in it", "ann_id": 664027, "best_split": [3, 1], "split_score": 0.15320097674099156}
+{"sent": "glass next to used wine glass", "ann_id": 664027, "best_split": [3, 1], "split_score": 0.15320097674099156}
+{"sent": "glass with wine in it", "ann_id": 662835, "best_split": [3, 3], "split_score": 0.40072202161242815}
+{"sent": "wine glass with red wine", "ann_id": 662835, "best_split": [3, 3], "split_score": 0.40072202161242815}
+{"sent": "red drink", "ann_id": 662835, "best_split": [3, 3], "split_score": 0.40072202161242815}
+{"sent": "wine glass number 3", "ann_id": 662071, "best_split": [3, 1], "split_score": 0.17022166456659235}
+{"sent": "glass closest to pitcher", "ann_id": 662071, "best_split": [3, 1], "split_score": 0.17022166456659235}
+{"sent": "empty glass near glass pitcher", "ann_id": 662071, "best_split": [3, 1], "split_score": 0.17022166456659235}

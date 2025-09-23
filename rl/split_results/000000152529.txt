@@ -1,0 +1,6 @@
+{"sent": "boy in blue shirt sitting his back is to us", "ann_id": 1281549, "best_split": [2, 2], "split_score": 0.33593749997321926}
+{"sent": "blue shirt back to us", "ann_id": 1281549, "best_split": [2, 3], "split_score": 0.5084459458845987}
+{"sent": "blue shirt sitting down", "ann_id": 1281549, "best_split": [3, 3], "split_score": 0.4505988023277546}
+{"sent": "number two child back", "ann_id": 1248011, "best_split": [2, 2], "split_score": 0.28365532043210245}
+{"sent": "person with back towards us next to kid in bright blue shirt", "ann_id": 1248011, "best_split": [2, 2], "split_score": 0.28365532043210245}
+{"sent": "person on bench in black with back facing", "ann_id": 1248011, "best_split": [2, 1], "split_score": 0.16741071427904133}

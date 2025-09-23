@@ -1,0 +1,9 @@
+{"sent": "the white remote", "ann_id": 1633916, "best_split": [1, 3], "split_score": 0.8192017473779188}
+{"sent": "white remote", "ann_id": 1633916, "best_split": [1, 3], "split_score": 0.8192017473779188}
+{"sent": "white controller", "ann_id": 1633916, "best_split": [1, 3], "split_score": 0.8192017473779188}
+{"sent": "remote two away from white one", "ann_id": 1112220, "best_split": [2, 1], "split_score": 0.19748020388556792}
+{"sent": "remote with orange rectangle button", "ann_id": 1112220, "best_split": [1, 5], "split_score": 0.797140303777956}
+{"sent": "remote 1", "ann_id": 1112220, "best_split": [1, 5], "split_score": 0.797140303777956}
+{"sent": "remote conrtol with only dark gray buttons", "ann_id": 1112136, "best_split": [2, 1], "split_score": 0.260682740503083}
+{"sent": "darker gray remote", "ann_id": 1112136, "best_split": [1, 2], "split_score": 0.4327183939082773}
+{"sent": "full gray remote", "ann_id": 1112136, "best_split": [1, 2], "split_score": 0.4327183939082773}

@@ -1,0 +1,6 @@
+{"sent": "bus but not the one you can read the plate on", "ann_id": 1364779, "best_split": [3, 3], "split_score": 0.3165443628558131}
+{"sent": "bus behind bus", "ann_id": 1364779, "best_split": [3, 3], "split_score": 0.3165443628558131}
+{"sent": "back bus", "ann_id": 1364779, "best_split": [3, 3], "split_score": 0.3165443628558131}
+{"sent": "bus", "ann_id": 168749, "best_split": [2, 1], "split_score": 0.4317994221927414}
+{"sent": "the bus", "ann_id": 168749, "best_split": [2, 1], "split_score": 0.4317994221927414}
+{"sent": "transportation", "ann_id": 168749, "best_split": [2, 1], "split_score": 0.4317994221927414}

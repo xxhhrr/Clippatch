@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 518575, "best_split": [1, 2], "split_score": 0.48979591835277575}
+{"sent": "woman on bed", "ann_id": 518575, "best_split": [2, 1], "split_score": 0.36645928835498637}
+{"sent": "woman", "ann_id": 518575, "best_split": [1, 2], "split_score": 0.48979591835277575}
+{"sent": "girl", "ann_id": 461526, "best_split": [3, 2], "split_score": 0.4407924358066342}
+{"sent": "child", "ann_id": 461526, "best_split": [3, 2], "split_score": 0.4407924358066342}
+{"sent": "kid", "ann_id": 461526, "best_split": [3, 2], "split_score": 0.4407924358066342}

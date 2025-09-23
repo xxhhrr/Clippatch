@@ -1,0 +1,5 @@
+{"sent": "girl", "ann_id": 458917, "best_split": [1, 5], "split_score": 0.514964788691184}
+{"sent": "closest dude", "ann_id": 458917, "best_split": [1, 5], "split_score": 0.514964788691184}
+{"sent": "man nearest", "ann_id": 458917, "best_split": [1, 5], "split_score": 0.514964788691184}
+{"sent": "man with beard", "ann_id": 457668, "best_split": [2, 1], "split_score": 0.13745704466817177}
+{"sent": "the skier not closest to us", "ann_id": 457668, "best_split": [2, 1], "split_score": 0.018176733780125253}

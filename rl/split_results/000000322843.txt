@@ -1,0 +1,9 @@
+{"sent": "boy in green shirt", "ann_id": 474180, "best_split": [1, 2], "split_score": 0.9692599470161105}
+{"sent": "green shirt", "ann_id": 474180, "best_split": [1, 2], "split_score": 0.9692599470161105}
+{"sent": "boy bending", "ann_id": 474180, "best_split": [1, 2], "split_score": 0.9692599470161105}
+{"sent": "boy in stripe shirt", "ann_id": 433936, "best_split": [2, 2], "split_score": 0.5179647658485185}
+{"sent": "stripe shirt", "ann_id": 433936, "best_split": [2, 2], "split_score": 0.5179647658485185}
+{"sent": "kid holding phone", "ann_id": 433936, "best_split": [2, 2], "split_score": 0.5179647658485185}
+{"sent": "person with hat", "ann_id": 427216, "best_split": [1, 2], "split_score": 0.8274075254772238}
+{"sent": "guy in blue", "ann_id": 427216, "best_split": [2, 1], "split_score": 0.2926382270760809}
+{"sent": "adult", "ann_id": 427216, "best_split": [2, 2], "split_score": 0.4527766871503391}

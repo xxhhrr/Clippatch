@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 64745, "best_split": [1, 5], "split_score": 0.31392045451360384}
+{"sent": "small one", "ann_id": 64745, "best_split": [5, 1], "split_score": 0.1306093940867287}
+{"sent": "baby sheep", "ann_id": 64745, "best_split": [2, 3], "split_score": 0.26438569203905954}
+{"sent": "bigger one", "ann_id": 62512, "best_split": [3, 2], "split_score": 0.3985260770692654}
+{"sent": "big sheep", "ann_id": 62512, "best_split": [3, 3], "split_score": 0.4056478404978698}
+{"sent": "big sheep", "ann_id": 62512, "best_split": [3, 3], "split_score": 0.4056478404978698}

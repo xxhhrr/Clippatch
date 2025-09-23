@@ -1,0 +1,17 @@
+{"sent": "pizza", "ann_id": 2132089, "best_split": [1, 2], "split_score": 0.4930702755484047}
+{"sent": "visible table surface", "ann_id": 2132089, "best_split": [2, 1], "split_score": 0.48979093792219575}
+{"sent": "table of food anywhere", "ann_id": 2132089, "best_split": [1, 2], "split_score": 0.4930702755484047}
+{"sent": "pizza near hands", "ann_id": 1073467, "best_split": [5, 1], "split_score": 0.4427266338276552}
+{"sent": "small pizza", "ann_id": 1073467, "best_split": [2, 3], "split_score": 0.3307348508127289}
+{"sent": "pizza being cut", "ann_id": 1073467, "best_split": [2, 3], "split_score": 0.3307348508127289}
+{"sent": "closest pizza", "ann_id": 1073380, "best_split": [2, 1], "split_score": 0.5380848748430714}
+{"sent": "pizza not being cut", "ann_id": 1073380, "best_split": [2, 1], "split_score": 0.5380848748430714}
+{"sent": "pizza not to cut", "ann_id": 1073380, "best_split": [2, 1], "split_score": 0.5380848748430714}
+{"sent": "corner table by white plate closet to camera", "ann_id": 420923, "best_split": [2, 2], "split_score": 0.8564310183076588}
+{"sent": "corner of table by plate of pizza closest to us", "ann_id": 420923, "best_split": [2, 2], "split_score": 0.8564310183076588}
+{"sent": "bottle blocking the pizza", "ann_id": 90024, "best_split": [2, 2], "split_score": 0.341996173442124}
+{"sent": "closest bottle", "ann_id": 90024, "best_split": [1, 2], "split_score": 0.17099808672787795}
+{"sent": "half of bottle brown", "ann_id": 90024, "best_split": [1, 5], "split_score": 0.25831702541733526}
+{"sent": "beer bottle furthest from us", "ann_id": 86867, "best_split": [3, 3], "split_score": 0.40243902432392237}
+{"sent": "beer bottle in the back", "ann_id": 86867, "best_split": [3, 3], "split_score": 0.40243902432392237}
+{"sent": "beer next to in motion pizza", "ann_id": 86867, "best_split": [3, 2], "split_score": 0.2749999999690315}

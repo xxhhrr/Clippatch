@@ -1,0 +1,6 @@
+{"sent": "leftmost motorcycle", "ann_id": 155286, "best_split": [2, 3], "split_score": 0.41810296892937804}
+{"sent": "bike with red helmet", "ann_id": 155286, "best_split": [2, 3], "split_score": 0.41810296892937804}
+{"sent": "ted bike with helmet", "ann_id": 155286, "best_split": [2, 3], "split_score": 0.41810296892937804}
+{"sent": "third bike red and white", "ann_id": 152687, "best_split": [5, 1], "split_score": 0.23999999998016527}
+{"sent": "third", "ann_id": 152687, "best_split": [5, 1], "split_score": 0.23999999998016527}
+{"sent": "motorcycle with yellow stripe", "ann_id": 152687, "best_split": [5, 1], "split_score": 0.23999999998016527}

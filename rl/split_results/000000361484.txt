@@ -1,0 +1,5 @@
+{"sent": "less visible duck", "ann_id": 43042, "best_split": [2, 1], "split_score": 0.2008928571348496}
+{"sent": "half duck", "ann_id": 43042, "best_split": [2, 1], "split_score": 0.2008928571348496}
+{"sent": "whole duck", "ann_id": 41789, "best_split": [3, 1], "split_score": 0.5337190823302344}
+{"sent": "main duck", "ann_id": 41789, "best_split": [3, 1], "split_score": 0.5337190823302344}
+{"sent": "bird visible", "ann_id": 41789, "best_split": [3, 1], "split_score": 0.5337190823302344}

@@ -1,0 +1,6 @@
+{"sent": "smaller screen", "ann_id": 1969677, "best_split": [3, 3], "split_score": 0.4243002543854484}
+{"sent": "tiny laptop screen", "ann_id": 1969677, "best_split": [2, 3], "split_score": 0.32701849342275385}
+{"sent": "the monitor on the white laptop", "ann_id": 1969677, "best_split": [2, 3], "split_score": 0.32701849342275385}
+{"sent": "the big computer screen", "ann_id": 34656, "best_split": [2, 3], "split_score": 0.6591448930557223}
+{"sent": "biggest monitor", "ann_id": 34656, "best_split": [1, 3], "split_score": 0.4401117087070691}
+{"sent": "large moniter", "ann_id": 34656, "best_split": [1, 3], "split_score": 0.4401117087070691}

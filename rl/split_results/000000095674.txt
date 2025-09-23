@@ -1,0 +1,5 @@
+{"sent": "pizza thingy", "ann_id": 1922995, "best_split": [3, 1], "split_score": 0.917095806637027}
+{"sent": "whole pizza", "ann_id": 1922995, "best_split": [3, 1], "split_score": 0.917095806637027}
+{"sent": "pizza", "ann_id": 1922995, "best_split": [3, 1], "split_score": 0.917095806637027}
+{"sent": "closest piece of pizza with visible edge", "ann_id": 1077010, "best_split": [3, 3], "split_score": 0.30752630155010435}
+{"sent": "piece of pizza directly next to the greens not under", "ann_id": 1077010, "best_split": [1, 2], "split_score": 0.1421778782390608}

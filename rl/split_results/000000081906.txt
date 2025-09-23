@@ -1,0 +1,6 @@
+{"sent": "what pizza is sitting on", "ann_id": 1902841, "best_split": [2, 1], "split_score": 0.5335618622236303}
+{"sent": "platter pizza sits on", "ann_id": 1902841, "best_split": [2, 1], "split_score": 0.5335618622236303}
+{"sent": "silver stand which holds pizza", "ann_id": 1902841, "best_split": [2, 1], "split_score": 0.5335618622236303}
+{"sent": "salad", "ann_id": 714159, "best_split": [3, 3], "split_score": 0.47033285085558374}
+{"sent": "corner salad", "ann_id": 714159, "best_split": [3, 3], "split_score": 0.47033285085558374}
+{"sent": "salad in bowl", "ann_id": 714159, "best_split": [3, 3], "split_score": 0.47033285085558374}

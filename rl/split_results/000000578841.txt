@@ -1,0 +1,5 @@
+{"sent": "black suit", "ann_id": 544253, "best_split": [1, 5], "split_score": 0.2617694804929211}
+{"sent": "kid in dark cloths", "ann_id": 544253, "best_split": [1, 5], "split_score": 0.2617694804929211}
+{"sent": "blue jacket and pink hat kid", "ann_id": 544253, "best_split": [1, 5], "split_score": 0.2617694804929211}
+{"sent": "the tallest person", "ann_id": 493487, "best_split": [2, 3], "split_score": 0.23275862066875372}
+{"sent": "adult standing", "ann_id": 493487, "best_split": [2, 2], "split_score": 0.2378854625386918}

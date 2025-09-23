@@ -1,0 +1,6 @@
+{"sent": "picture of person black shirt", "ann_id": 490936, "best_split": [3, 3], "split_score": 0.48366013063576535}
+{"sent": "person in back ground in black", "ann_id": 490936, "best_split": [3, 3], "split_score": 0.48366013063576535}
+{"sent": "woman in back", "ann_id": 490936, "best_split": [3, 3], "split_score": 0.48366013063576535}
+{"sent": "man", "ann_id": 431172, "best_split": [1, 2], "split_score": 0.7980870712137834}
+{"sent": "man in hoody", "ann_id": 431172, "best_split": [1, 2], "split_score": 0.7980870712137834}
+{"sent": "man on laptop", "ann_id": 431172, "best_split": [2, 1], "split_score": 0.3650658520615688}

@@ -1,0 +1,12 @@
+{"sent": "biker in white", "ann_id": 221564, "best_split": [2, 2], "split_score": 0.5386245705957301}
+{"sent": "rider of bike number 24", "ann_id": 221564, "best_split": [5, 1], "split_score": 0.17588679727392195}
+{"sent": "rar biker", "ann_id": 221564, "best_split": [3, 1], "split_score": 0.17219626167419644}
+{"sent": "red and black", "ann_id": 198318, "best_split": [1, 3], "split_score": 0.6194144837954685}
+{"sent": "rider in black", "ann_id": 198318, "best_split": [1, 3], "split_score": 0.6194144837954685}
+{"sent": "black motorcyclist", "ann_id": 198318, "best_split": [1, 3], "split_score": 0.6194144837954685}
+{"sent": "bike 24", "ann_id": 152862, "best_split": [3, 1], "split_score": 0.2163742689945502}
+{"sent": "24 moto", "ann_id": 152862, "best_split": [3, 1], "split_score": 0.2163742689945502}
+{"sent": "24 bike", "ann_id": 152862, "best_split": [3, 1], "split_score": 0.2163742689945502}
+{"sent": "40 bike", "ann_id": 150557, "best_split": [1, 2], "split_score": 0.5582759672909127}
+{"sent": "40", "ann_id": 150557, "best_split": [3, 1], "split_score": 0.33867276886660924}
+{"sent": "most visible moto", "ann_id": 150557, "best_split": [1, 2], "split_score": 0.5582759672909127}

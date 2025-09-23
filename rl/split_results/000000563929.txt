@@ -1,0 +1,7 @@
+{"sent": "closest zebra", "ann_id": 593330, "best_split": [1, 5], "split_score": 0.5325545298151658}
+{"sent": "zebra 2", "ann_id": 593330, "best_split": [1, 5], "split_score": 0.5325545298151658}
+{"sent": "thinnest zebra", "ann_id": 593289, "best_split": [1, 3], "split_score": 0.4654359779818619}
+{"sent": "tallest zebra", "ann_id": 593289, "best_split": [1, 3], "split_score": 0.4654359779818619}
+{"sent": "tail swooshing", "ann_id": 588395, "best_split": [1, 2], "split_score": 0.3072385203959168}
+{"sent": "zebra with tail showing", "ann_id": 588395, "best_split": [1, 2], "split_score": 0.3072385203959168}
+{"sent": "number one zebra", "ann_id": 588395, "best_split": [1, 2], "split_score": 0.3072385203959168}

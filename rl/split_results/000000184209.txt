@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 2166892, "best_split": [2, 3], "split_score": 0.47695371770893835}
+{"sent": "little kid", "ann_id": 2166892, "best_split": [2, 1], "split_score": 0.1839160327609744}
+{"sent": "boy", "ann_id": 2166892, "best_split": [2, 1], "split_score": 0.1839160327609744}
+{"sent": "white couch", "ann_id": 1605099, "best_split": [3, 2], "split_score": 0.46887065631408414}
+{"sent": "sofa with lots of things", "ann_id": 1605099, "best_split": [3, 2], "split_score": 0.46887065631408414}
+{"sent": "couch without person on it", "ann_id": 1605099, "best_split": [3, 2], "split_score": 0.46887065631408414}

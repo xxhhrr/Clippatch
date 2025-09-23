@@ -1,0 +1,11 @@
+{"sent": "lowest corner red light", "ann_id": 1387693, "best_split": [3, 1], "split_score": 0.25760135133581075}
+{"sent": "one light at 1 pm", "ann_id": 1387586, "best_split": [1, 5], "split_score": 0.19712525665511244}
+{"sent": "2 red 1 green cut in perfect halves", "ann_id": 1387459, "best_split": [2, 2], "split_score": 0.22544642855345612}
+{"sent": "lights at 4 oclock", "ann_id": 1387459, "best_split": [3, 2], "split_score": 0.2291021671573306}
+{"sent": "light closest to score box that is almost out of the picture", "ann_id": 1387459, "best_split": [3, 2], "split_score": 0.2291021671573306}
+{"sent": "2 lights one with orange on", "ann_id": 1387252, "best_split": [2, 3], "split_score": 0.5239035953650826}
+{"sent": "stoplight with orange light most prominent", "ann_id": 1387252, "best_split": [2, 3], "split_score": 0.5239035953650826}
+{"sent": "redlight in foreground", "ann_id": 1387252, "best_split": [2, 3], "split_score": 0.5239035953650826}
+{"sent": "omg idkgreen light lit up", "ann_id": 1387114, "best_split": [1, 2], "split_score": 0.16322544642206532}
+{"sent": "light with all three beside one with one", "ann_id": 1386537, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "the lights at 9", "ann_id": 1386537, "best_split": [1, 2], "split_score": 0.0}

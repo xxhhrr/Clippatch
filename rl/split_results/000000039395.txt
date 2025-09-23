@@ -1,0 +1,6 @@
+{"sent": "partially obscured zebra", "ann_id": 592290, "best_split": [1, 2], "split_score": 0.6715561224222115}
+{"sent": "barely seen zebra", "ann_id": 592290, "best_split": [1, 2], "split_score": 0.6715561224222115}
+{"sent": "background zebra", "ann_id": 592290, "best_split": [1, 2], "split_score": 0.6715561224222115}
+{"sent": "zebra head", "ann_id": 588168, "best_split": [1, 2], "split_score": 0.4625503867397715}
+{"sent": "zebra closest to camera", "ann_id": 588168, "best_split": [1, 2], "split_score": 0.4625503867397715}
+{"sent": "whole zebra", "ann_id": 588168, "best_split": [1, 2], "split_score": 0.4625503867397715}

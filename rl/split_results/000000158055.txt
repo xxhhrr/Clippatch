@@ -1,0 +1,12 @@
+{"sent": "old guy", "ann_id": 1298151, "best_split": [5, 1], "split_score": 0.18857142855459183}
+{"sent": "old man between women", "ann_id": 1298151, "best_split": [2, 3], "split_score": 0.39278937376745854}
+{"sent": "guy with white hair brown shirt", "ann_id": 1298151, "best_split": [5, 1], "split_score": 0.18857142855459183}
+{"sent": "woman with glasses", "ann_id": 1285047, "best_split": [1, 5], "split_score": 0.3034196107780635}
+{"sent": "older lady with glasses", "ann_id": 1285047, "best_split": [1, 5], "split_score": 0.3034196107780635}
+{"sent": "woman with glasses on", "ann_id": 1285047, "best_split": [1, 5], "split_score": 0.3034196107780635}
+{"sent": "blue plaid shirt", "ann_id": 1257338, "best_split": [1, 5], "split_score": 0.3937657113731759}
+{"sent": "man in blue and white shirt", "ann_id": 1257338, "best_split": [5, 1], "split_score": 0.16665263865275207}
+{"sent": "man holding a glass", "ann_id": 1257338, "best_split": [5, 1], "split_score": 0.16665263865275207}
+{"sent": "man in dark shirt white pants", "ann_id": 1233607, "best_split": [1, 3], "split_score": 0.7119788442743499}
+{"sent": "leaninf blue shirt", "ann_id": 1233607, "best_split": [1, 3], "split_score": 0.7119788442743499}
+{"sent": "dark blue shirt", "ann_id": 1233607, "best_split": [1, 3], "split_score": 0.7119788442743499}

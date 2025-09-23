@@ -1,0 +1,9 @@
+{"sent": "woman next to men", "ann_id": 533359, "best_split": [1, 3], "split_score": 0.3386528983607925}
+{"sent": "woman", "ann_id": 533359, "best_split": [1, 3], "split_score": 0.3386528983607925}
+{"sent": "woman", "ann_id": 533359, "best_split": [1, 3], "split_score": 0.3386528983607925}
+{"sent": "old guy", "ann_id": 512096, "best_split": [1, 5], "split_score": 0.5390154051792518}
+{"sent": "guy in navy blue hat and gray pants", "ann_id": 512096, "best_split": [1, 5], "split_score": 0.5390154051792518}
+{"sent": "dark hat", "ann_id": 512096, "best_split": [1, 5], "split_score": 0.5390154051792518}
+{"sent": "green shirt", "ann_id": 508546, "best_split": [1, 5], "split_score": 0.664146868185338}
+{"sent": "the kid with the white hat and green shirt", "ann_id": 508546, "best_split": [1, 5], "split_score": 0.664146868185338}
+{"sent": "green shirt", "ann_id": 508546, "best_split": [1, 5], "split_score": 0.664146868185338}

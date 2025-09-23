@@ -1,0 +1,15 @@
+{"sent": "cup by girl on box", "ann_id": 2214416, "best_split": [3, 2], "split_score": 0.3603556484978707}
+{"sent": "drink closest to camera", "ann_id": 2214416, "best_split": [3, 3], "split_score": 0.42799103384309456}
+{"sent": "cup nearest me", "ann_id": 2214416, "best_split": [3, 3], "split_score": 0.42799103384309456}
+{"sent": "table with no food on it", "ann_id": 2131951, "best_split": [1, 2], "split_score": 0.7337372448687126}
+{"sent": "corner of table at 11 o clock", "ann_id": 2131951, "best_split": [1, 2], "split_score": 0.7337372448687126}
+{"sent": "table without food tray on it", "ann_id": 2131951, "best_split": [1, 2], "split_score": 0.7337372448687126}
+{"sent": "cartoon lady", "ann_id": 1622014, "best_split": [2, 1], "split_score": 0.5011442591076605}
+{"sent": "table tray is on", "ann_id": 1622014, "best_split": [2, 1], "split_score": 0.5011442591076605}
+{"sent": "tray", "ann_id": 1622014, "best_split": [2, 1], "split_score": 0.5011442591076605}
+{"sent": "cup in corner of tray", "ann_id": 672603, "best_split": [2, 2], "split_score": 0.22855548467565723}
+{"sent": "drink not showing logo", "ann_id": 672603, "best_split": [2, 2], "split_score": 0.22855548467565723}
+{"sent": "cup closest to dark area", "ann_id": 672603, "best_split": [2, 2], "split_score": 0.22855548467565723}
+{"sent": "ice tea by donut things", "ann_id": 672508, "best_split": [2, 3], "split_score": 0.37011961178400815}
+{"sent": "tea next to donuts", "ann_id": 672508, "best_split": [3, 3], "split_score": 0.2132639791660255}
+{"sent": "noon cuo", "ann_id": 672508, "best_split": [1, 3], "split_score": 0.19697679867606183}

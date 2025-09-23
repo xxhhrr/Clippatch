@@ -1,0 +1,12 @@
+{"sent": "black and green item hanging off back of cart", "ann_id": 1423194, "best_split": [1, 5], "split_score": 0.4549431320723023}
+{"sent": "green item", "ann_id": 1423194, "best_split": [1, 5], "split_score": 0.4549431320723023}
+{"sent": "has smth green on it", "ann_id": 1423194, "best_split": [1, 5], "split_score": 0.4549431320723023}
+{"sent": "the black suitcase under bright red suitcase", "ann_id": 1186225, "best_split": [3, 2], "split_score": 0.2546981207262397}
+{"sent": "black bag pink wheels", "ann_id": 1186225, "best_split": [2, 2], "split_score": 0.27140695913226875}
+{"sent": "black suitcase rectangulaar", "ann_id": 1186225, "best_split": [3, 2], "split_score": 0.2546981207262397}
+{"sent": "the crimson red luggage", "ann_id": 1183151, "best_split": [3, 3], "split_score": 0.5747687131076924}
+{"sent": "red luggage", "ann_id": 1183151, "best_split": [3, 3], "split_score": 0.5747687131076924}
+{"sent": "dark red luggage", "ann_id": 1183151, "best_split": [3, 3], "split_score": 0.5747687131076924}
+{"sent": "black bag of luggage above the rest", "ann_id": 1170012, "best_split": [2, 3], "split_score": 0.37748982647488866}
+{"sent": "black bag above orange bag", "ann_id": 1170012, "best_split": [2, 3], "split_score": 0.37748982647488866}
+{"sent": "roundish black bag", "ann_id": 1170012, "best_split": [3, 3], "split_score": 0.4866144060809622}

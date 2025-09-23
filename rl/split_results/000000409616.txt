@@ -1,0 +1,6 @@
+{"sent": "man with bald spot on his head", "ann_id": 475018, "best_split": [3, 3], "split_score": 0.6607012416616689}
+{"sent": "man looking up", "ann_id": 475018, "best_split": [2, 3], "split_score": 0.43653474898207834}
+{"sent": "back of head", "ann_id": 475018, "best_split": [3, 3], "split_score": 0.6607012416616689}
+{"sent": "man with tie", "ann_id": 438240, "best_split": [1, 3], "split_score": 0.6714527026621951}
+{"sent": "person tying tie", "ann_id": 438240, "best_split": [1, 3], "split_score": 0.6714527026621951}
+{"sent": "standing man", "ann_id": 438240, "best_split": [1, 3], "split_score": 0.6714527026621951}

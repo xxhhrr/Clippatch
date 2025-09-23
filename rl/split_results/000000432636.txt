@@ -1,0 +1,6 @@
+{"sent": "apple stem in bowl closest", "ann_id": 1550666, "best_split": [3, 2], "split_score": 0.4343629343105257}
+{"sent": "apple in the bowl closest to you", "ann_id": 1550666, "best_split": [3, 2], "split_score": 0.4343629343105257}
+{"sent": "light apple in bowl", "ann_id": 1550666, "best_split": [3, 2], "split_score": 0.4343629343105257}
+{"sent": "not in bowl", "ann_id": 1550374, "best_split": [2, 1], "split_score": 0.2115353953997315}
+{"sent": "lone apple", "ann_id": 1550374, "best_split": [2, 3], "split_score": 0.40444214871854933}
+{"sent": "apple on table", "ann_id": 1550374, "best_split": [1, 5], "split_score": 0.3377150418758081}

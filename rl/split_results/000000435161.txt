@@ -1,0 +1,5 @@
+{"sent": "number 2 frame yellow", "ann_id": 1315216, "best_split": [1, 5], "split_score": 0.5685039369519189}
+{"sent": "3pm yellow", "ann_id": 1315216, "best_split": [3, 2], "split_score": 0.2594670406504675}
+{"sent": "goalie closest to us", "ann_id": 1206492, "best_split": [3, 1], "split_score": 0.13391241403578344}
+{"sent": "goal keeper with sock less visible", "ann_id": 1206492, "best_split": [3, 1], "split_score": 0.13391241403578344}
+{"sent": "with player with yellow vest", "ann_id": 1206492, "best_split": [3, 1], "split_score": 0.13391241403578344}

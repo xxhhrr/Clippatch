@@ -1,0 +1,9 @@
+{"sent": "food on plate behind ramikan with orange slice", "ann_id": 1076175, "best_split": [2, 3], "split_score": 0.44665547824902235}
+{"sent": "blurry pizza behind bowl", "ann_id": 1076175, "best_split": [3, 1], "split_score": 0.05057803467947058}
+{"sent": "blurry food close to water glasses", "ann_id": 1076175, "best_split": [2, 3], "split_score": 0.44665547824902235}
+{"sent": "pizza with knife", "ann_id": 1074438, "best_split": [2, 2], "split_score": 0.5120943952550593}
+{"sent": "pizza close", "ann_id": 1074438, "best_split": [2, 2], "split_score": 0.5120943952550593}
+{"sent": "pizza", "ann_id": 1074438, "best_split": [2, 2], "split_score": 0.5120943952550593}
+{"sent": "small white cup", "ann_id": 711885, "best_split": [3, 3], "split_score": 0.7466185751584096}
+{"sent": "the cup of fruit", "ann_id": 711885, "best_split": [2, 1], "split_score": 0.08103022028408434}
+{"sent": "dish with fruit", "ann_id": 711885, "best_split": [1, 5], "split_score": 0.2752742768813787}

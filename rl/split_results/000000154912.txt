@@ -1,0 +1,6 @@
+{"sent": "hotdog by the fries", "ann_id": 1068988, "best_split": [3, 1], "split_score": 0.3087309413521683}
+{"sent": "hotdog nearest fries", "ann_id": 1068988, "best_split": [3, 1], "split_score": 0.3087309413521683}
+{"sent": "hot dog by fries", "ann_id": 1068988, "best_split": [3, 1], "split_score": 0.3087309413521683}
+{"sent": "the hotdog farthest away", "ann_id": 1067070, "best_split": [3, 1], "split_score": 0.3481442759932737}
+{"sent": "hot dog with the longer end and less onions", "ann_id": 1067070, "best_split": [3, 1], "split_score": 0.3481442759932737}
+{"sent": "hot dog away from us", "ann_id": 1067070, "best_split": [3, 1], "split_score": 0.3481442759932737}

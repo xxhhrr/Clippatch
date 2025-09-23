@@ -1,0 +1,5 @@
+{"sent": "whatever it is it is closest to us on the plate", "ann_id": 2186283, "best_split": [2, 3], "split_score": 0.32570422531627374}
+{"sent": "berry closest to camera", "ann_id": 2186283, "best_split": [5, 1], "split_score": 0.33072713053843555}
+{"sent": "banana", "ann_id": 1044172, "best_split": [3, 3], "split_score": 0.5163714438383827}
+{"sent": "some white fish", "ann_id": 1044172, "best_split": [3, 3], "split_score": 0.5163714438383827}
+{"sent": "horizontal banana slice near green leaves", "ann_id": 1044172, "best_split": [3, 3], "split_score": 0.5163714438383827}

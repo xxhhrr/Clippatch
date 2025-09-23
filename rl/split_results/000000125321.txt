@@ -1,0 +1,10 @@
+{"sent": "red plaid shirt", "ann_id": 231866, "best_split": [3, 2], "split_score": 0.5321725964674325}
+{"sent": "red shirt", "ann_id": 231866, "best_split": [3, 2], "split_score": 0.5321725964674325}
+{"sent": "man", "ann_id": 231866, "best_split": [3, 2], "split_score": 0.5321725964674325}
+{"sent": "girl", "ann_id": 200759, "best_split": [3, 3], "split_score": 0.6965526637557498}
+{"sent": "woman", "ann_id": 200759, "best_split": [3, 3], "split_score": 0.6965526637557498}
+{"sent": "women", "ann_id": 200759, "best_split": [3, 3], "split_score": 0.6965526637557498}
+{"sent": "chair in front of woman", "ann_id": 107799, "best_split": [1, 2], "split_score": 0.15744579081005078}
+{"sent": "chair near girl", "ann_id": 107799, "best_split": [1, 2], "split_score": 0.15744579081005078}
+{"sent": "chair closes to camera man side", "ann_id": 107252, "best_split": [2, 3], "split_score": 0.3863690904264016}
+{"sent": "chair across the man", "ann_id": 107252, "best_split": [1, 3], "split_score": 0.19371916735689332}

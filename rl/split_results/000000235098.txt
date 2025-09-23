@@ -1,0 +1,6 @@
+{"sent": "half of the guy", "ann_id": 214429, "best_split": [1, 5], "split_score": 0.32437094152553053}
+{"sent": "person in the hat", "ann_id": 214429, "best_split": [1, 5], "split_score": 0.32437094152553053}
+{"sent": "only half a person", "ann_id": 214429, "best_split": [1, 2], "split_score": 0.12743144132145123}
+{"sent": "lady with sunglasses", "ann_id": 205816, "best_split": [2, 3], "split_score": 0.5753271027499695}
+{"sent": "purple shirt", "ann_id": 205816, "best_split": [2, 3], "split_score": 0.5753271027499695}
+{"sent": "girl", "ann_id": 205816, "best_split": [2, 3], "split_score": 0.5753271027499695}

@@ -1,0 +1,4 @@
+{"sent": "the tennis player", "ann_id": 1234533, "best_split": [1, 3], "split_score": 0.2250306748355813}
+{"sent": "tennis player", "ann_id": 1234533, "best_split": [1, 3], "split_score": 0.2250306748355813}
+{"sent": "last girl as you read", "ann_id": 1212704, "best_split": [3, 3], "split_score": 0.5227373067855698}
+{"sent": "woman hitting ball again", "ann_id": 1212704, "best_split": [3, 3], "split_score": 0.5227373067855698}

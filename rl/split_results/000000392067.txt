@@ -1,0 +1,12 @@
+{"sent": "girl", "ann_id": 511644, "best_split": [3, 2], "split_score": 0.4302325580948679}
+{"sent": "asian woman", "ann_id": 511644, "best_split": [3, 2], "split_score": 0.4302325580948679}
+{"sent": "woman", "ann_id": 511644, "best_split": [3, 2], "split_score": 0.4302325580948679}
+{"sent": "blurry man", "ann_id": 495775, "best_split": [2, 1], "split_score": 0.26419783388260676}
+{"sent": "blurry man with dark shirt", "ann_id": 495775, "best_split": [2, 1], "split_score": 0.22270690524280523}
+{"sent": "arms near us", "ann_id": 495775, "best_split": [1, 3], "split_score": 0.857922255009211}
+{"sent": "man stiped sleeves", "ann_id": 436371, "best_split": [1, 3], "split_score": 0.7667712354749776}
+{"sent": "coat with striped arms", "ann_id": 436371, "best_split": [1, 3], "split_score": 0.7667712354749776}
+{"sent": "arms crossed", "ann_id": 436371, "best_split": [2, 1], "split_score": 0.21287382876996297}
+{"sent": "black jacket man", "ann_id": 435767, "best_split": [1, 5], "split_score": 0.3798080242814855}
+{"sent": "man looking down", "ann_id": 435767, "best_split": [3, 2], "split_score": 0.3760556011975147}
+{"sent": "man in dark clothing balding", "ann_id": 435767, "best_split": [1, 5], "split_score": 0.3798080242814855}

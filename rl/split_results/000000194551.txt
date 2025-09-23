@@ -1,0 +1,6 @@
+{"sent": "far zebra", "ann_id": 592443, "best_split": [2, 2], "split_score": 0.7963079339515862}
+{"sent": "zebra behind", "ann_id": 592443, "best_split": [2, 2], "split_score": 0.7963079339515862}
+{"sent": "zebra you only see half of", "ann_id": 592443, "best_split": [2, 2], "split_score": 0.7963079339515862}
+{"sent": "close zebra", "ann_id": 591141, "best_split": [2, 1], "split_score": 0.5170294349690698}
+{"sent": "closest zebra", "ann_id": 591141, "best_split": [2, 1], "split_score": 0.5170294349690698}
+{"sent": "full zebra", "ann_id": 591141, "best_split": [2, 1], "split_score": 0.5170294349690698}

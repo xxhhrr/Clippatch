@@ -1,0 +1,6 @@
+{"sent": "man with tennis racket", "ann_id": 1245455, "best_split": [1, 2], "split_score": 0.5631776147734703}
+{"sent": "man pointing down", "ann_id": 1245455, "best_split": [2, 1], "split_score": 0.2156917449327105}
+{"sent": "man", "ann_id": 1245455, "best_split": [1, 5], "split_score": 0.5749556766317581}
+{"sent": "boy", "ann_id": 1208945, "best_split": [1, 5], "split_score": 0.30438311685223385}
+{"sent": "kid", "ann_id": 1208945, "best_split": [1, 5], "split_score": 0.30438311685223385}
+{"sent": "boy", "ann_id": 1208945, "best_split": [1, 5], "split_score": 0.30438311685223385}

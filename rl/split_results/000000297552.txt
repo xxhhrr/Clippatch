@@ -1,0 +1,6 @@
+{"sent": "sandwich only showing lettuce", "ann_id": 313644, "best_split": [2, 1], "split_score": 0.3407253124129893}
+{"sent": "sandwich hdden", "ann_id": 313644, "best_split": [2, 1], "split_score": 0.3407253124129893}
+{"sent": "leftest sammich", "ann_id": 313644, "best_split": [2, 2], "split_score": 0.4921636085391741}
+{"sent": "that half", "ann_id": 313477, "best_split": [1, 2], "split_score": 0.7113464651675881}
+{"sent": "white meat", "ann_id": 313477, "best_split": [1, 2], "split_score": 0.7113464651675881}
+{"sent": "sandwich with white stuff maybe turkey in it", "ann_id": 313477, "best_split": [1, 2], "split_score": 0.7113464651675881}

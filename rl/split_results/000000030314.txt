@@ -1,0 +1,6 @@
+{"sent": "sheep with three legs showing", "ann_id": 63192, "best_split": [1, 5], "split_score": 0.39759036140835935}
+{"sent": "white sheep with back facing us", "ann_id": 63192, "best_split": [1, 5], "split_score": 0.39759036140835935}
+{"sent": "closer than one facing same way", "ann_id": 63192, "best_split": [2, 2], "split_score": 0.3979591836417443}
+{"sent": "sheep sideways not butt facing camera", "ann_id": 63184, "best_split": [2, 2], "split_score": 0.44416114224199305}
+{"sent": "the animal facing us the most", "ann_id": 63184, "best_split": [2, 1], "split_score": 0.290178571417005}
+{"sent": "sheep looking at camera", "ann_id": 63184, "best_split": [2, 2], "split_score": 0.44416114224199305}

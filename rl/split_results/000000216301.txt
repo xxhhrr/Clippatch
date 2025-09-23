@@ -1,0 +1,6 @@
+{"sent": "red roofed train", "ann_id": 173449, "best_split": [3, 2], "split_score": 0.6516679596024767}
+{"sent": "red and black train", "ann_id": 173449, "best_split": [3, 2], "split_score": 0.6516679596024767}
+{"sent": "train red cap", "ann_id": 173449, "best_split": [3, 2], "split_score": 0.6516679596024767}
+{"sent": "full black train car thing", "ann_id": 172810, "best_split": [2, 1], "split_score": 0.09757653060835553}
+{"sent": "toy train", "ann_id": 172810, "best_split": [2, 1], "split_score": 0.09757653060835553}
+{"sent": "most visible black train", "ann_id": 172810, "best_split": [2, 1], "split_score": 0.09757653060835553}

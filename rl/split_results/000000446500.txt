@@ -1,0 +1,6 @@
+{"sent": "umbrella closest to score side of screen", "ann_id": 1425050, "best_split": [1, 2], "split_score": 0.849227202440138}
+{"sent": "umbrella handle showing", "ann_id": 1425050, "best_split": [1, 2], "split_score": 0.849227202440138}
+{"sent": "umbrella with portion of handle showing", "ann_id": 1425050, "best_split": [1, 2], "split_score": 0.849227202440138}
+{"sent": "umbrella with strap showing", "ann_id": 1423802, "best_split": [3, 2], "split_score": 0.4011754572426825}
+{"sent": "umbrella with point", "ann_id": 1423802, "best_split": [3, 2], "split_score": 0.4011754572426825}
+{"sent": "umbrela with buckle", "ann_id": 1423802, "best_split": [2, 1], "split_score": 0.355666016090642}

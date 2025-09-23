@@ -1,0 +1,9 @@
+{"sent": "man with blue shirt with a streak of blond hair", "ann_id": 517134, "best_split": [1, 2], "split_score": 0.5526575157923831}
+{"sent": "man", "ann_id": 517134, "best_split": [1, 2], "split_score": 0.5526575157923831}
+{"sent": "man with blond", "ann_id": 517134, "best_split": [1, 2], "split_score": 0.5526575157923831}
+{"sent": "man in green shirt", "ann_id": 507021, "best_split": [3, 3], "split_score": 0.5588020451864861}
+{"sent": "green shirt", "ann_id": 507021, "best_split": [3, 3], "split_score": 0.5588020451864861}
+{"sent": "green and glasses", "ann_id": 507021, "best_split": [1, 5], "split_score": 0.2569093032058282}
+{"sent": "arm with watch", "ann_id": 499509, "best_split": [1, 5], "split_score": 0.2735470941687985}
+{"sent": "facing away", "ann_id": 499509, "best_split": [3, 2], "split_score": 0.40314769972300696}
+{"sent": "guy after main", "ann_id": 499509, "best_split": [1, 5], "split_score": 0.3009211872860856}

@@ -1,0 +1,6 @@
+{"sent": "big pile of broccoli", "ann_id": 1059021, "best_split": [2, 2], "split_score": 0.7662859294109272}
+{"sent": "lower broccoli", "ann_id": 1059021, "best_split": [2, 2], "split_score": 0.7662859294109272}
+{"sent": "closest green", "ann_id": 1059021, "best_split": [2, 2], "split_score": 0.7662859294109272}
+{"sent": "3 brocolli", "ann_id": 1058664, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "lots of small brocoli", "ann_id": 1058664, "best_split": [3, 3], "split_score": 0.45256198343367254}
+{"sent": "few vgetables", "ann_id": 1058664, "best_split": [5, 1], "split_score": 0.28277634959787473}

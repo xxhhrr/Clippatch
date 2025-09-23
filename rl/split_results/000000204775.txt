@@ -1,0 +1,6 @@
+{"sent": "woman on phone", "ann_id": 1682886, "best_split": [1, 2], "split_score": 0.4928847577425992}
+{"sent": "lady on a phone", "ann_id": 1682886, "best_split": [1, 2], "split_score": 0.4928847577425992}
+{"sent": "white shirt", "ann_id": 1682886, "best_split": [2, 1], "split_score": 0.5138674563015835}
+{"sent": "gray shirt woman", "ann_id": 525198, "best_split": [2, 1], "split_score": 0.17845277645290597}
+{"sent": "partial gray shirt", "ann_id": 525198, "best_split": [1, 2], "split_score": 0.28663105866204436}
+{"sent": "blurry woman greyish short very edge of frame", "ann_id": 525198, "best_split": [2, 1], "split_score": 0.17845277645290597}

@@ -1,0 +1,5 @@
+{"sent": "large skier", "ann_id": 493724, "best_split": [1, 5], "split_score": 0.47014925368748606}
+{"sent": "green jacket", "ann_id": 493724, "best_split": [1, 5], "split_score": 0.47014925368748606}
+{"sent": "person in green", "ann_id": 493724, "best_split": [1, 5], "split_score": 0.47014925368748606}
+{"sent": "dark coat on side", "ann_id": 460733, "best_split": [5, 1], "split_score": 0.11291702308788265}
+{"sent": "small skier in corner", "ann_id": 460733, "best_split": [2, 1], "split_score": 0.14153786707335633}

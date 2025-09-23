@@ -1,0 +1,6 @@
+{"sent": "sideways", "ann_id": 42049, "best_split": [1, 5], "split_score": 0.39853953093676875}
+{"sent": "hunched bird", "ann_id": 42049, "best_split": [3, 2], "split_score": 0.4335937499661255}
+{"sent": "side profile bird", "ann_id": 42049, "best_split": [3, 2], "split_score": 0.4335937499661255}
+{"sent": "skinny", "ann_id": 40340, "best_split": [3, 1], "split_score": 0.10931772172077925}
+{"sent": "standing straight", "ann_id": 40340, "best_split": [3, 3], "split_score": 0.2783892991112736}
+{"sent": "stork standing tallest", "ann_id": 40340, "best_split": [2, 3], "split_score": 0.25781741865080615}

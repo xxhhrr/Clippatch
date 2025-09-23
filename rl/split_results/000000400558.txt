@@ -1,0 +1,10 @@
+{"sent": "umpire in white", "ann_id": 470492, "best_split": [2, 1], "split_score": 0.09751990201708818}
+{"sent": "umpire", "ann_id": 470492, "best_split": [3, 1], "split_score": 0.10548245613456785}
+{"sent": "umpire", "ann_id": 470492, "best_split": [3, 1], "split_score": 0.10548245613456785}
+{"sent": "umpire", "ann_id": 470492, "best_split": [3, 1], "split_score": 0.10548245613456785}
+{"sent": "catcher", "ann_id": 461686, "best_split": [2, 1], "split_score": 0.2587022249686525}
+{"sent": "catcher about to get real bad headache", "ann_id": 461686, "best_split": [3, 1], "split_score": 0.15782352371905753}
+{"sent": "catcher", "ann_id": 461686, "best_split": [2, 1], "split_score": 0.2587022249686525}
+{"sent": "batter", "ann_id": 437433, "best_split": [1, 5], "split_score": 0.5672645739512847}
+{"sent": "swinging", "ann_id": 437433, "best_split": [1, 5], "split_score": 0.5672645739512847}
+{"sent": "player in white", "ann_id": 437433, "best_split": [1, 5], "split_score": 0.5672645739512847}

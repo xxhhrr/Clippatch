@@ -1,0 +1,16 @@
+{"sent": "yellow jacket", "ann_id": 1725453, "best_split": [2, 3], "split_score": 0.8625080940144066}
+{"sent": "hand in yellow coat", "ann_id": 1725453, "best_split": [2, 3], "split_score": 0.8625080940144066}
+{"sent": "yellow coat not fully visible", "ann_id": 1725453, "best_split": [2, 3], "split_score": 0.8625080940144066}
+{"sent": "white", "ann_id": 1696305, "best_split": [2, 3], "split_score": 0.3814212328358924}
+{"sent": "white hat", "ann_id": 1696305, "best_split": [1, 5], "split_score": 0.33591731263049857}
+{"sent": "mr happy hat", "ann_id": 1696305, "best_split": [1, 5], "split_score": 0.33591731263049857}
+{"sent": "guy with blue stripe on coat", "ann_id": 1219086, "best_split": [1, 2], "split_score": 0.5261479591627014}
+{"sent": "big man in black and blue coat", "ann_id": 1219086, "best_split": [1, 2], "split_score": 0.5261479591627014}
+{"sent": "bmw symbol on arm", "ann_id": 1219086, "best_split": [1, 2], "split_score": 0.5261479591627014}
+{"sent": "the man with a blue stripe on his jacket", "ann_id": 1219086, "best_split": [1, 2], "split_score": 0.5261479591627014}
+{"sent": "young elephant", "ann_id": 580670, "best_split": [1, 5], "split_score": 0.5527200790749041}
+{"sent": "baby elephant", "ann_id": 580670, "best_split": [1, 5], "split_score": 0.5527200790749041}
+{"sent": "small elephant", "ann_id": 580670, "best_split": [1, 5], "split_score": 0.5527200790749041}
+{"sent": "the huge elephant", "ann_id": 580385, "best_split": [1, 2], "split_score": 0.6672208367737871}
+{"sent": "big elephant", "ann_id": 580385, "best_split": [1, 2], "split_score": 0.6672208367737871}
+{"sent": "big elephant", "ann_id": 580385, "best_split": [1, 2], "split_score": 0.6672208367737871}

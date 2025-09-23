@@ -1,0 +1,6 @@
+{"sent": "short hair", "ann_id": 516365, "best_split": [3, 3], "split_score": 0.622197309329849}
+{"sent": "just a head", "ann_id": 516365, "best_split": [1, 3], "split_score": 0.24854090957777}
+{"sent": "head of hair only", "ann_id": 516365, "best_split": [3, 3], "split_score": 0.622197309329849}
+{"sent": "more complete person", "ann_id": 492247, "best_split": [1, 3], "split_score": 0.40397022331253196}
+{"sent": "brown shirt main", "ann_id": 492247, "best_split": [1, 3], "split_score": 0.40397022331253196}
+{"sent": "main dude", "ann_id": 492247, "best_split": [1, 3], "split_score": 0.40397022331253196}

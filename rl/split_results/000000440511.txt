@@ -1,0 +1,6 @@
+{"sent": "elephant sitting with hooves on ground", "ann_id": 583868, "best_split": [3, 3], "split_score": 0.4733887003774256}
+{"sent": "elephant sitting not near man", "ann_id": 583868, "best_split": [3, 3], "split_score": 0.4733887003774256}
+{"sent": "elephant sitting and leaning forward", "ann_id": 583868, "best_split": [3, 3], "split_score": 0.4733887003774256}
+{"sent": "elephant sitting", "ann_id": 2175144, "best_split": [3, 2], "split_score": 0.3899662731460828}
+{"sent": "elphient on his back legs", "ann_id": 2175144, "best_split": [1, 3], "split_score": 0.2956081080902746}
+{"sent": "vertical elephant", "ann_id": 2175144, "best_split": [3, 2], "split_score": 0.3899662731460828}

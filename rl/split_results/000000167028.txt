@@ -1,0 +1,11 @@
+{"sent": "guy", "ann_id": 1710952, "best_split": [1, 5], "split_score": 0.4212765957166704}
+{"sent": "asian man", "ann_id": 1710952, "best_split": [2, 2], "split_score": 0.40758072061256545}
+{"sent": "man in pink shirt", "ann_id": 1710952, "best_split": [1, 5], "split_score": 0.4212765957166704}
+{"sent": "chair in back", "ann_id": 1279808, "best_split": [2, 3], "split_score": 0.4213320462812099}
+{"sent": "back of person in gray", "ann_id": 1279808, "best_split": [2, 3], "split_score": 0.4213320462812099}
+{"sent": "in black shirt", "ann_id": 1272666, "best_split": [3, 3], "split_score": 0.6009022555487364}
+{"sent": "person with black shirt and fork in hand", "ann_id": 1272666, "best_split": [3, 1], "split_score": 0.23025571394940847}
+{"sent": "man in black facing us", "ann_id": 1272666, "best_split": [3, 3], "split_score": 0.6009022555487364}
+{"sent": "woman", "ann_id": 1201172, "best_split": [1, 2], "split_score": 0.386240433658074}
+{"sent": "red shirt girl", "ann_id": 1201172, "best_split": [3, 1], "split_score": 0.3148778534083461}
+{"sent": "confused girl in redf", "ann_id": 1201172, "best_split": [3, 2], "split_score": 0.53815879529961}

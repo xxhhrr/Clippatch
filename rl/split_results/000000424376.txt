@@ -1,0 +1,9 @@
+{"sent": "zebra standing over baby zebra", "ann_id": 593263, "best_split": [3, 1], "split_score": 0.44285475698817417}
+{"sent": "main zebra", "ann_id": 593263, "best_split": [3, 1], "split_score": 0.44285475698817417}
+{"sent": "adult nursing zebra", "ann_id": 593263, "best_split": [3, 1], "split_score": 0.44285475698817417}
+{"sent": "zebra highest adult", "ann_id": 592919, "best_split": [2, 2], "split_score": 0.6818181817658309}
+{"sent": "zebra high head", "ann_id": 592919, "best_split": [2, 2], "split_score": 0.6818181817658309}
+{"sent": "zebra head hanging over", "ann_id": 592919, "best_split": [2, 2], "split_score": 0.6818181817658309}
+{"sent": "tiny z", "ann_id": 592667, "best_split": [2, 1], "split_score": 0.6871014030338368}
+{"sent": "baby zebra", "ann_id": 592667, "best_split": [3, 1], "split_score": 0.1975068172894604}
+{"sent": "baby", "ann_id": 592667, "best_split": [2, 1], "split_score": 0.6871014030338368}

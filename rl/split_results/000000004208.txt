@@ -1,0 +1,9 @@
+{"sent": "elephant beside grass", "ann_id": 584547, "best_split": [3, 1], "split_score": 0.44313570224472254}
+{"sent": "elephant that cant be seen", "ann_id": 584547, "best_split": [3, 1], "split_score": 0.44313570224472254}
+{"sent": "elephant that only trunk and eye is showing next to tree", "ann_id": 584547, "best_split": [3, 1], "split_score": 0.44313570224472254}
+{"sent": "elephant not on the end", "ann_id": 583777, "best_split": [1, 2], "split_score": 0.4889535652702423}
+{"sent": "elephant in between", "ann_id": 583777, "best_split": [1, 2], "split_score": 0.4889535652702423}
+{"sent": "walks between", "ann_id": 583777, "best_split": [2, 1], "split_score": 0.3242344912691051}
+{"sent": "closest elephant", "ann_id": 581993, "best_split": [1, 3], "split_score": 0.8433938370175499}
+{"sent": "elephant closest to us", "ann_id": 581993, "best_split": [1, 3], "split_score": 0.8433938370175499}
+{"sent": "close elephant", "ann_id": 581993, "best_split": [1, 3], "split_score": 0.8433938370175499}

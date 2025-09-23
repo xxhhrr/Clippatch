@@ -1,0 +1,5 @@
+{"sent": "elephant at 3", "ann_id": 584380, "best_split": [2, 2], "split_score": 0.5847157631300953}
+{"sent": "elephant on ri ght", "ann_id": 584380, "best_split": [2, 2], "split_score": 0.5847157631300953}
+{"sent": "elephant not drinking water", "ann_id": 582999, "best_split": [3, 2], "split_score": 0.6646539711257949}
+{"sent": "elephant closet to you", "ann_id": 582180, "best_split": [2, 3], "split_score": 0.36484537731414474}
+{"sent": "bigger tusk elephant", "ann_id": 582180, "best_split": [2, 3], "split_score": 0.36484537731414474}

@@ -1,0 +1,9 @@
+{"sent": "guy with hat", "ann_id": 489243, "best_split": [1, 5], "split_score": 0.41724137927764565}
+{"sent": "man in lighter shirt", "ann_id": 489243, "best_split": [3, 2], "split_score": 0.43817485192980016}
+{"sent": "hat man", "ann_id": 489243, "best_split": [1, 5], "split_score": 0.41724137927764565}
+{"sent": "brown jacket", "ann_id": 461275, "best_split": [1, 2], "split_score": 0.7351655215203324}
+{"sent": "man brown blazer", "ann_id": 461275, "best_split": [1, 2], "split_score": 0.7351655215203324}
+{"sent": "tan jacket", "ann_id": 461275, "best_split": [1, 2], "split_score": 0.7351655215203324}
+{"sent": "thumbs up", "ann_id": 457320, "best_split": [1, 2], "split_score": 0.21008808146813623}
+{"sent": "black shirt", "ann_id": 457320, "best_split": [1, 3], "split_score": 0.5172453044668613}
+{"sent": "man with dark shirt", "ann_id": 457320, "best_split": [1, 3], "split_score": 0.5172453044668613}

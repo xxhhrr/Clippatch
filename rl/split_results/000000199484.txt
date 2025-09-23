@@ -1,0 +1,6 @@
+{"sent": "leading zebra", "ann_id": 1412165, "best_split": [2, 2], "split_score": 0.40005192105399456}
+{"sent": "larger zebra", "ann_id": 1412165, "best_split": [2, 2], "split_score": 0.40005192105399456}
+{"sent": "cloest to camera", "ann_id": 1412165, "best_split": [1, 5], "split_score": 0.3846605073775729}
+{"sent": "smaller zebra", "ann_id": 591102, "best_split": [3, 1], "split_score": 0.20016406889867902}
+{"sent": "zebra with tail not visible", "ann_id": 591102, "best_split": [3, 1], "split_score": 0.20016406889867902}
+{"sent": "rightiest one", "ann_id": 591102, "best_split": [3, 1], "split_score": 0.20016406889867902}

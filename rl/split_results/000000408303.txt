@@ -1,0 +1,6 @@
+{"sent": "side view window close up", "ann_id": 346186, "best_split": [1, 2], "split_score": 0.6149368260694934}
+{"sent": "car we are in", "ann_id": 346186, "best_split": [1, 2], "split_score": 0.6149368260694934}
+{"sent": "mirror", "ann_id": 346186, "best_split": [2, 2], "split_score": 0.5212578616133644}
+{"sent": "vehicle with tail light", "ann_id": 345516, "best_split": [5, 1], "split_score": 0.3793103447983905}
+{"sent": "car that closest to red light", "ann_id": 345516, "best_split": [5, 1], "split_score": 0.3793103447983905}
+{"sent": "taxi", "ann_id": 345516, "best_split": [5, 1], "split_score": 0.3793103447983905}

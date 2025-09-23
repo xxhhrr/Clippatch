@@ -1,0 +1,11 @@
+{"sent": "black chair by table", "ann_id": 116865, "best_split": [2, 3], "split_score": 0.5593629342954436}
+{"sent": "the big recliner chair that is close to the tan chair", "ann_id": 116865, "best_split": [2, 3], "split_score": 0.5593629342954436}
+{"sent": "the closest of two chair beside one another", "ann_id": 116865, "best_split": [2, 3], "split_score": 0.5593629342954436}
+{"sent": "light brown chair", "ann_id": 108703, "best_split": [3, 2], "split_score": 0.37463803084282843}
+{"sent": "small brown chair in foreground", "ann_id": 108703, "best_split": [3, 2], "split_score": 0.37463803084282843}
+{"sent": "different chair", "ann_id": 108703, "best_split": [3, 2], "split_score": 0.37463803084282843}
+{"sent": "wright close leather chair", "ann_id": 2222700, "best_split": [2, 3], "split_score": 0.5667229729045942}
+{"sent": "closest ri ght leather chair", "ann_id": 2222700, "best_split": [2, 3], "split_score": 0.5667229729045942}
+{"sent": "closest black arm chair", "ann_id": 2222700, "best_split": [2, 3], "split_score": 0.5667229729045942}
+{"sent": "big sofa", "ann_id": 99893, "best_split": [1, 5], "split_score": 0.38984051975446454}
+{"sent": "couch", "ann_id": 99893, "best_split": [1, 5], "split_score": 0.38984051975446454}

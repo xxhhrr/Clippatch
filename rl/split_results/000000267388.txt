@@ -1,0 +1,14 @@
+{"sent": "closest row lightest color", "ann_id": 1905658, "best_split": [3, 1], "split_score": 0.11746294217696433}
+{"sent": "your dominant hand nearest food", "ann_id": 1905658, "best_split": [3, 1], "split_score": 0.11746294217696433}
+{"sent": "furthers food from fork", "ann_id": 1905658, "best_split": [3, 1], "split_score": 0.11746294217696433}
+{"sent": "closest piece to us in the column up the", "ann_id": 1904984, "best_split": [1, 2], "split_score": 0.06508228119981697}
+{"sent": "the one at 6 o clock", "ann_id": 1904984, "best_split": [3, 1], "split_score": 0.11736641220674103}
+{"sent": "banana slice closest to su", "ann_id": 1904984, "best_split": [3, 2], "split_score": 0.16985779865974046}
+{"sent": "nearst food", "ann_id": 2222181, "best_split": [2, 2], "split_score": 0.22419695533365888}
+{"sent": "row closest to us number 2", "ann_id": 2222181, "best_split": [1, 5], "split_score": 0.2749683944125909}
+{"sent": "not edge", "ann_id": 2119923, "best_split": [1, 5], "split_score": 0.21609241184862651}
+{"sent": "piece by itself", "ann_id": 2119923, "best_split": [3, 1], "split_score": 0.08257090575923084}
+{"sent": "the one surrounded by all the others", "ann_id": 2119923, "best_split": [2, 3], "split_score": 0.2842664092321107}
+{"sent": "banana slice with black spots on it", "ann_id": 2119849, "best_split": [3, 2], "split_score": 0.35817655567932843}
+{"sent": "lower food with dark spot", "ann_id": 2119849, "best_split": [3, 3], "split_score": 0.5049548235929824}
+{"sent": "cake at 7 o clock", "ann_id": 2119849, "best_split": [1, 3], "split_score": 0.2926520270093719}

@@ -1,0 +1,6 @@
+{"sent": "closer broccoli", "ann_id": 1057631, "best_split": [2, 3], "split_score": 0.7253620628112538}
+{"sent": "closest broccoli", "ann_id": 1057631, "best_split": [2, 3], "split_score": 0.7253620628112538}
+{"sent": "corner broccoli", "ann_id": 1057631, "best_split": [2, 3], "split_score": 0.7253620628112538}
+{"sent": "small far away brocolli", "ann_id": 1055924, "best_split": [2, 1], "split_score": 0.030908631684318094}
+{"sent": "out of focus broccoli", "ann_id": 1055924, "best_split": [3, 1], "split_score": 0.22047522749138143}
+{"sent": "smaller group of broccoli", "ann_id": 1055924, "best_split": [3, 1], "split_score": 0.22047522749138143}

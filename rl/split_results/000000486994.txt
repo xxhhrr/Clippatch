@@ -1,0 +1,6 @@
+{"sent": "white bread no ham", "ann_id": 311491, "best_split": [1, 5], "split_score": 0.31543726233342684}
+{"sent": "bread between carrots and apple", "ann_id": 311491, "best_split": [2, 3], "split_score": 0.31203603300425087}
+{"sent": "sandwich half closest to apple", "ann_id": 311491, "best_split": [3, 2], "split_score": 0.3222932077738489}
+{"sent": "larger slice of bread", "ann_id": 310741, "best_split": [2, 2], "split_score": 0.39555765592792613}
+{"sent": "sandwich with ham sticking out", "ann_id": 310741, "best_split": [2, 3], "split_score": 0.42913111610402827}
+{"sent": "sandwich with most ham exposed", "ann_id": 310741, "best_split": [2, 3], "split_score": 0.42913111610402827}

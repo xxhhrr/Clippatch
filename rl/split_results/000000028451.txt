@@ -1,0 +1,4 @@
+{"sent": "east lemon", "ann_id": 1911860, "best_split": [2, 2], "split_score": 0.24553571426614032}
+{"sent": "lemon that is looking at brown spot on banana", "ann_id": 1911860, "best_split": [1, 5], "split_score": 0.1968911916916274}
+{"sent": "lemon that appears closest to us", "ann_id": 1052506, "best_split": [2, 3], "split_score": 0.26348228040243427}
+{"sent": "lemon without shine", "ann_id": 1052506, "best_split": [2, 3], "split_score": 0.26348228040243427}

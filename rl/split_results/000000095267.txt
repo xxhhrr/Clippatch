@@ -1,0 +1,18 @@
+{"sent": "green jacket", "ann_id": 1721513, "best_split": [3, 3], "split_score": 0.2570255762145523}
+{"sent": "green coat", "ann_id": 1721513, "best_split": [3, 3], "split_score": 0.2570255762145523}
+{"sent": "person with green shirt and arms crossed", "ann_id": 1721513, "best_split": [3, 3], "split_score": 0.2570255762145523}
+{"sent": "colorful dress", "ann_id": 238802, "best_split": [3, 3], "split_score": 0.2718922228610085}
+{"sent": "crazy dress", "ann_id": 238802, "best_split": [1, 5], "split_score": 0.20106020444897196}
+{"sent": "polkadot skirt lady", "ann_id": 238802, "best_split": [3, 3], "split_score": 0.2718922228610085}
+{"sent": "biker", "ann_id": 238103, "best_split": [1, 3], "split_score": 0.29353577177975987}
+{"sent": "person on motorcycle", "ann_id": 238103, "best_split": [1, 3], "split_score": 0.29353577177975987}
+{"sent": "guy on bike", "ann_id": 238103, "best_split": [1, 3], "split_score": 0.29353577177975987}
+{"sent": "pink hat", "ann_id": 193151, "best_split": [2, 3], "split_score": 0.17759562839797075}
+{"sent": "man in white shorts", "ann_id": 193151, "best_split": [1, 5], "split_score": 0.38352272723381464}
+{"sent": "man in white short", "ann_id": 193151, "best_split": [1, 5], "split_score": 0.38352272723381464}
+{"sent": "white van", "ann_id": 143630, "best_split": [3, 3], "split_score": 0.7421511626828269}
+{"sent": "white vehicle", "ann_id": 143630, "best_split": [3, 3], "split_score": 0.7421511626828269}
+{"sent": "white van", "ann_id": 143630, "best_split": [3, 3], "split_score": 0.7421511626828269}
+{"sent": "silver suv parked after wheel of bike", "ann_id": 141101, "best_split": [3, 3], "split_score": 0.35625517806855755}
+{"sent": "ford behind motorcycle", "ann_id": 141101, "best_split": [3, 2], "split_score": 0.24302023281982363}
+{"sent": "gray ford", "ann_id": 141101, "best_split": [3, 3], "split_score": 0.35625517806855755}

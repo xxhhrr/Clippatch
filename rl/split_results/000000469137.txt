@@ -1,0 +1,5 @@
+{"sent": "taller", "ann_id": 597750, "best_split": [2, 1], "split_score": 0.391675025062949}
+{"sent": "giraffe with head high", "ann_id": 597750, "best_split": [3, 1], "split_score": 0.4140267927338839}
+{"sent": "tallest giraffe", "ann_id": 597750, "best_split": [3, 1], "split_score": 0.4140267927338839}
+{"sent": "small giraffe", "ann_id": 595619, "best_split": [3, 1], "split_score": 0.5287907426799691}
+{"sent": "smaller giraffe", "ann_id": 595619, "best_split": [3, 1], "split_score": 0.5287907426799691}

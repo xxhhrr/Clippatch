@@ -1,0 +1,6 @@
+{"sent": "bunk with pillow at window", "ann_id": 1957532, "best_split": [3, 1], "split_score": 0.4257370249733361}
+{"sent": "upper bunk", "ann_id": 1957532, "best_split": [5, 1], "split_score": 0.6829706886636423}
+{"sent": "mattress above", "ann_id": 1957532, "best_split": [1, 2], "split_score": 0.14117647058348987}
+{"sent": "the bed under", "ann_id": 319193, "best_split": [2, 1], "split_score": 0.6846699617074031}
+{"sent": "bed you can fully see", "ann_id": 319193, "best_split": [2, 1], "split_score": 0.6846699617074031}
+{"sent": "lower bunk", "ann_id": 319193, "best_split": [1, 2], "split_score": 0.24352712721420716}

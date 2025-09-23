@@ -1,0 +1,11 @@
+{"sent": "white dress with brown bag", "ann_id": 1302072, "best_split": [2, 3], "split_score": 0.5535797846802082}
+{"sent": "shorter person in white", "ann_id": 1302072, "best_split": [2, 3], "split_score": 0.5535797846802082}
+{"sent": "the lady with white dress", "ann_id": 1302072, "best_split": [2, 3], "split_score": 0.5535797846802082}
+{"sent": "man in suit head near white balloons but not brown jacket", "ann_id": 1286286, "best_split": [3, 3], "split_score": 0.3020363748947557}
+{"sent": "man in blue suit at 1 o clock", "ann_id": 1286286, "best_split": [3, 3], "split_score": 0.3020363748947557}
+{"sent": "the bald guy with his hands in his pockets", "ann_id": 1268815, "best_split": [1, 5], "split_score": 0.4265849863451395}
+{"sent": "bald man with hands in pockets", "ann_id": 1268815, "best_split": [1, 5], "split_score": 0.4265849863451395}
+{"sent": "bald man in brown coat", "ann_id": 1268815, "best_split": [1, 5], "split_score": 0.4265849863451395}
+{"sent": "girl without purse", "ann_id": 1268675, "best_split": [2, 3], "split_score": 0.321453528968608}
+{"sent": "girl in white without the tan bag", "ann_id": 1268675, "best_split": [2, 3], "split_score": 0.321453528968608}
+{"sent": "nun with black bag", "ann_id": 1268675, "best_split": [2, 2], "split_score": 0.34716981129401847}

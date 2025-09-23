@@ -1,0 +1,6 @@
+{"sent": "three banans", "ann_id": 1045052, "best_split": [2, 3], "split_score": 0.46557377044410103}
+{"sent": "three bananas", "ann_id": 1045052, "best_split": [2, 3], "split_score": 0.46557377044410103}
+{"sent": "3 visible bananas", "ann_id": 1045052, "best_split": [2, 3], "split_score": 0.46557377044410103}
+{"sent": "2 bananas", "ann_id": 1044967, "best_split": [3, 2], "split_score": 0.31142885120836067}
+{"sent": "2 bananas", "ann_id": 1044967, "best_split": [3, 2], "split_score": 0.31142885120836067}
+{"sent": "close blannana", "ann_id": 1044967, "best_split": [1, 5], "split_score": 0.2274554853345815}

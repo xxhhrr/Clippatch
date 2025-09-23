@@ -1,0 +1,6 @@
+{"sent": "police car with headlights showing", "ann_id": 348244, "best_split": [2, 1], "split_score": 0.3112228858727121}
+{"sent": "police on car", "ann_id": 348244, "best_split": [2, 1], "split_score": 0.3112228858727121}
+{"sent": "headlights of cop car", "ann_id": 348244, "best_split": [2, 1], "split_score": 0.3112228858727121}
+{"sent": "1890 car", "ann_id": 345895, "best_split": [2, 2], "split_score": 0.6661759709734925}
+{"sent": "larger car", "ann_id": 345895, "best_split": [2, 1], "split_score": 0.5115240564494553}
+{"sent": "trunk", "ann_id": 345895, "best_split": [2, 2], "split_score": 0.6661759709734925}

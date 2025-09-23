@@ -1,0 +1,4 @@
+{"sent": "person with blue jeans and black and white shirt", "ann_id": 219473, "best_split": [1, 3], "split_score": 0.7071208767096517}
+{"sent": "leg behind the dog", "ann_id": 219473, "best_split": [1, 2], "split_score": 0.5996890943638516}
+{"sent": "person sitting with watch", "ann_id": 211106, "best_split": [2, 3], "split_score": 0.4686192468089314}
+{"sent": "part of hand showing watch", "ann_id": 211106, "best_split": [1, 5], "split_score": 0.47676542202954897}

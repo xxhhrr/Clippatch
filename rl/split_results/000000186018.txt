@@ -1,0 +1,4 @@
+{"sent": "umbrella nearest to us", "ann_id": 1425812, "best_split": [3, 2], "split_score": 0.3008474575926652}
+{"sent": "the closest blue umbrella fully visible", "ann_id": 1425812, "best_split": [3, 2], "split_score": 0.3008474575926652}
+{"sent": "umbrella with man under it", "ann_id": 1423844, "best_split": [5, 1], "split_score": 0.2301931414830318}
+{"sent": "close to us umbrella 4 to 5 p", "ann_id": 1423844, "best_split": [3, 1], "split_score": 0.15854247103290647}

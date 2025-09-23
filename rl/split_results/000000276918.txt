@@ -1,0 +1,9 @@
+{"sent": "giraffe facing us but head not visible", "ann_id": 599854, "best_split": [1, 5], "split_score": 0.43262987008597503}
+{"sent": "giraffe standing along side of tree barley seen", "ann_id": 599854, "best_split": [1, 5], "split_score": 0.43262987008597503}
+{"sent": "half giraffe in between trees", "ann_id": 599854, "best_split": [1, 5], "split_score": 0.43262987008597503}
+{"sent": "large giraffe with small one", "ann_id": 599679, "best_split": [1, 2], "split_score": 0.4498647023282522}
+{"sent": "adult giraffe near the baby", "ann_id": 599679, "best_split": [1, 2], "split_score": 0.4498647023282522}
+{"sent": "tallest animal", "ann_id": 599679, "best_split": [1, 2], "split_score": 0.4498647023282522}
+{"sent": "small giraffe", "ann_id": 598893, "best_split": [2, 3], "split_score": 0.6308714090877113}
+{"sent": "smaller giraffe", "ann_id": 598893, "best_split": [2, 3], "split_score": 0.6308714090877113}
+{"sent": "baby", "ann_id": 598893, "best_split": [2, 3], "split_score": 0.6308714090877113}

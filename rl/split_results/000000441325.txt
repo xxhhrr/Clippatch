@@ -1,0 +1,6 @@
+{"sent": "hand holding the bottle", "ann_id": 510800, "best_split": [3, 2], "split_score": 0.2957942300750961}
+{"sent": "hand with bottle", "ann_id": 510800, "best_split": [3, 2], "split_score": 0.2957942300750961}
+{"sent": "hand pouring the wine", "ann_id": 510800, "best_split": [3, 2], "split_score": 0.2957942300750961}
+{"sent": "man", "ann_id": 449375, "best_split": [1, 2], "split_score": 0.6803651147687992}
+{"sent": "old man", "ann_id": 449375, "best_split": [1, 2], "split_score": 0.6803651147687992}
+{"sent": "man", "ann_id": 449375, "best_split": [1, 2], "split_score": 0.6803651147687992}

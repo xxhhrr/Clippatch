@@ -1,0 +1,5 @@
+{"sent": "chair folded up behind open one", "ann_id": 105862, "best_split": [3, 3], "split_score": 0.3827877507414483}
+{"sent": "folded up chair", "ann_id": 105862, "best_split": [3, 2], "split_score": 0.2791682710551436}
+{"sent": "closest folded chair", "ann_id": 105862, "best_split": [3, 2], "split_score": 0.2791682710551436}
+{"sent": "chair with cusion", "ann_id": 103221, "best_split": [3, 2], "split_score": 0.5278858624734204}
+{"sent": "closest chair", "ann_id": 103221, "best_split": [3, 2], "split_score": 0.5278858624734204}

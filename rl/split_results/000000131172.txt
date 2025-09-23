@@ -1,0 +1,6 @@
+{"sent": "man next to woman closest", "ann_id": 1320376, "best_split": [1, 3], "split_score": 0.3172517364221301}
+{"sent": "man in black shirt", "ann_id": 1320376, "best_split": [1, 5], "split_score": 0.49810526312293996}
+{"sent": "guy in black shirt and blk hat", "ann_id": 1320376, "best_split": [1, 5], "split_score": 0.49810526312293996}
+{"sent": "lady with long blond hair", "ann_id": 1261412, "best_split": [1, 3], "split_score": 0.47374756388434325}
+{"sent": "the blond woman with sunglasses", "ann_id": 1261412, "best_split": [1, 3], "split_score": 0.47374756388434325}
+{"sent": "mother between", "ann_id": 1261412, "best_split": [1, 3], "split_score": 0.47374756388434325}

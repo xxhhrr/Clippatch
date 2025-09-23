@@ -1,0 +1,4 @@
+{"sent": "empty bench seat next to lady", "ann_id": 574818, "best_split": [3, 3], "split_score": 0.5255175733599521}
+{"sent": "bench under bird", "ann_id": 574617, "best_split": [2, 1], "split_score": 0.5462001093307066}
+{"sent": "bench", "ann_id": 574617, "best_split": [2, 1], "split_score": 0.5462001093307066}
+{"sent": "birds bench", "ann_id": 574617, "best_split": [2, 1], "split_score": 0.5462001093307066}

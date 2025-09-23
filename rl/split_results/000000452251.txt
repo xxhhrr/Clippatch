@@ -1,0 +1,5 @@
+{"sent": "the green boat with red seats", "ann_id": 1378464, "best_split": [3, 2], "split_score": 0.3692498568076685}
+{"sent": "boat with red interior 4 o clock", "ann_id": 1378464, "best_split": [3, 1], "split_score": 0.20617073429573854}
+{"sent": "orange", "ann_id": 1374685, "best_split": [2, 3], "split_score": 0.668734825944723}
+{"sent": "green and yellow boat", "ann_id": 1374685, "best_split": [2, 3], "split_score": 0.668734825944723}
+{"sent": "orange boat", "ann_id": 1374685, "best_split": [2, 3], "split_score": 0.668734825944723}

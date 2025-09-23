@@ -1,0 +1,6 @@
+{"sent": "the woman", "ann_id": 235419, "best_split": [1, 3], "split_score": 0.7097343181176422}
+{"sent": "girl", "ann_id": 235419, "best_split": [1, 3], "split_score": 0.7097343181176422}
+{"sent": "woman", "ann_id": 235419, "best_split": [1, 3], "split_score": 0.7097343181176422}
+{"sent": "mustache guy", "ann_id": 197903, "best_split": [1, 2], "split_score": 0.7719626912957605}
+{"sent": "chunky dude with stache", "ann_id": 197903, "best_split": [1, 2], "split_score": 0.7719626912957605}
+{"sent": "man mustache", "ann_id": 197903, "best_split": [1, 2], "split_score": 0.7719626912957605}

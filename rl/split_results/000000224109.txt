@@ -1,0 +1,6 @@
+{"sent": "first giraffe", "ann_id": 597890, "best_split": [3, 3], "split_score": 0.5919999999210667}
+{"sent": "lead giraffe", "ann_id": 597890, "best_split": [3, 3], "split_score": 0.5919999999210667}
+{"sent": "giraffe furthest away from baby", "ann_id": 597890, "best_split": [3, 3], "split_score": 0.5919999999210667}
+{"sent": "tallest giraffe", "ann_id": 594930, "best_split": [2, 3], "split_score": 0.3214100569965949}
+{"sent": "giraffewith tallest head", "ann_id": 594930, "best_split": [2, 3], "split_score": 0.3214100569965949}
+{"sent": "giraffe that is the focus of attention if you zeroed in", "ann_id": 594930, "best_split": [3, 1], "split_score": 0.24154996313353955}

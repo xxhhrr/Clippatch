@@ -1,0 +1,6 @@
+{"sent": "the truck with no ladder", "ann_id": 401466, "best_split": [3, 1], "split_score": 0.2373262814247833}
+{"sent": "truck farthest", "ann_id": 401466, "best_split": [3, 1], "split_score": 0.2373262814247833}
+{"sent": "2 nd fire truck", "ann_id": 401466, "best_split": [3, 1], "split_score": 0.2373262814247833}
+{"sent": "city of", "ann_id": 398029, "best_split": [1, 2], "split_score": 0.4360377660286114}
+{"sent": "firetruck 1", "ann_id": 398029, "best_split": [3, 1], "split_score": 0.4437120279377472}
+{"sent": "truck with white ladder", "ann_id": 398029, "best_split": [3, 1], "split_score": 0.4437120279377472}

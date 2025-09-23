@@ -1,0 +1,6 @@
+{"sent": "animal facing opposite way", "ann_id": 61487, "best_split": [3, 1], "split_score": 0.25679601575758476}
+{"sent": "baby lamb", "ann_id": 61487, "best_split": [3, 1], "split_score": 0.25679601575758476}
+{"sent": "smaller sheep", "ann_id": 61487, "best_split": [3, 1], "split_score": 0.25679601575758476}
+{"sent": "closest animal", "ann_id": 61119, "best_split": [1, 2], "split_score": 0.46315343016479815}
+{"sent": "hes looking at us", "ann_id": 61119, "best_split": [3, 1], "split_score": 0.44077526077276785}
+{"sent": "snout", "ann_id": 61119, "best_split": [3, 1], "split_score": 0.44077526077276785}

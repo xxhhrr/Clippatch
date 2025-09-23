@@ -1,0 +1,6 @@
+{"sent": "fallen player", "ann_id": 437189, "best_split": [2, 2], "split_score": 0.4012008733350709}
+{"sent": "sliding player", "ann_id": 437189, "best_split": [5, 1], "split_score": 0.3311455847008394}
+{"sent": "15", "ann_id": 437189, "best_split": [3, 3], "split_score": 0.22214156077839006}
+{"sent": "guy standing", "ann_id": 423570, "best_split": [1, 2], "split_score": 0.548628826508744}
+{"sent": "player hoping to get the ball", "ann_id": 423570, "best_split": [1, 2], "split_score": 0.548628826508744}
+{"sent": "catcher", "ann_id": 423570, "best_split": [1, 2], "split_score": 0.548628826508744}

@@ -1,0 +1,4 @@
+{"sent": "full shelf of books under lone blue book", "ann_id": 1662754, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "books with brightly colored lower bindings", "ann_id": 1662754, "best_split": [2, 1], "split_score": 0.11615114795455392}
+{"sent": "books on shelf at 7", "ann_id": 1662229, "best_split": [1, 5], "split_score": 0.18801633271408066}
+{"sent": "books at 7 close to edge", "ann_id": 1662229, "best_split": [1, 5], "split_score": 0.18801633271408066}

@@ -1,0 +1,6 @@
+{"sent": "water glass not coke", "ann_id": 676931, "best_split": [2, 3], "split_score": 0.26037735845986115}
+{"sent": "glass no straw", "ann_id": 676931, "best_split": [1, 5], "split_score": 0.24350649348178707}
+{"sent": "glass with ice and very little liquid", "ann_id": 676931, "best_split": [2, 3], "split_score": 0.26037735845986115}
+{"sent": "glass 3 o clock near man", "ann_id": 674732, "best_split": [2, 2], "split_score": 0.15712691325278005}
+{"sent": "cup and straw", "ann_id": 674732, "best_split": [2, 2], "split_score": 0.15712691325278005}
+{"sent": "drink with more liquid", "ann_id": 674732, "best_split": [2, 3], "split_score": 0.22700633892751987}

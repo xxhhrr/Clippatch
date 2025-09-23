@@ -1,0 +1,6 @@
+{"sent": "three pepperoni", "ann_id": 1075535, "best_split": [2, 2], "split_score": 0.45401573271564455}
+{"sent": "pepperoni", "ann_id": 1075535, "best_split": [2, 2], "split_score": 0.45401573271564455}
+{"sent": "pepperoni slice", "ann_id": 1075535, "best_split": [2, 2], "split_score": 0.45401573271564455}
+{"sent": "pizza with french fry on it", "ann_id": 1072705, "best_split": [1, 2], "split_score": 0.49169435214376134}
+{"sent": "cheesy", "ann_id": 1072705, "best_split": [1, 2], "split_score": 0.49169435214376134}
+{"sent": "pizza with fry on it", "ann_id": 1072705, "best_split": [1, 3], "split_score": 0.4021739130287098}

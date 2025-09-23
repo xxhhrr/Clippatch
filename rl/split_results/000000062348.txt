@@ -1,0 +1,8 @@
+{"sent": "chair by green bottle", "ann_id": 1940654, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "chair where person with green bottle would sit", "ann_id": 1940654, "best_split": [1, 5], "split_score": 0.023666771850452288}
+{"sent": "white stripe in low corner", "ann_id": 1940654, "best_split": [3, 1], "split_score": 0.18450805868507889}
+{"sent": "upside down chair on table", "ann_id": 1588168, "best_split": [3, 1], "split_score": 0.3019564002067101}
+{"sent": "upside down chair nearest food", "ann_id": 1588168, "best_split": [1, 3], "split_score": 0.40516409263964986}
+{"sent": "chair on table near pink box", "ann_id": 1588168, "best_split": [2, 1], "split_score": 0.26769770407096233}
+{"sent": "begining of seat closest to green chair", "ann_id": 101493, "best_split": [2, 3], "split_score": 0.34837861521161495}
+{"sent": "chair by plate", "ann_id": 101493, "best_split": [3, 2], "split_score": 0.33957335651506604}

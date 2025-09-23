@@ -1,0 +1,6 @@
+{"sent": "chair wit no cat", "ann_id": 115321, "best_split": [2, 1], "split_score": 0.5940688775273409}
+{"sent": "chair with blue sweater", "ann_id": 115321, "best_split": [2, 2], "split_score": 0.7509568767063691}
+{"sent": "blue blanket", "ann_id": 115321, "best_split": [2, 2], "split_score": 0.7509568767063691}
+{"sent": "couch", "ann_id": 114718, "best_split": [1, 2], "split_score": 0.5535597427382701}
+{"sent": "the chair the dog on", "ann_id": 114718, "best_split": [1, 2], "split_score": 0.5535597427382701}
+{"sent": "couch the dog is lying on", "ann_id": 114718, "best_split": [1, 2], "split_score": 0.5535597427382701}

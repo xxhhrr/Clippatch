@@ -1,0 +1,6 @@
+{"sent": "girl holding the sign", "ann_id": 1233828, "best_split": [1, 2], "split_score": 0.7863530472388084}
+{"sent": "big toothy smile", "ann_id": 1233828, "best_split": [2, 1], "split_score": 0.3166246642023699}
+{"sent": "kid holding sign", "ann_id": 1233828, "best_split": [1, 2], "split_score": 0.7863530472388084}
+{"sent": "boy holding cake", "ann_id": 506534, "best_split": [1, 2], "split_score": 0.9040178571068233}
+{"sent": "holding cake", "ann_id": 506534, "best_split": [1, 2], "split_score": 0.9040178571068233}
+{"sent": "boy with cake", "ann_id": 506534, "best_split": [1, 2], "split_score": 0.9040178571068233}

@@ -1,0 +1,6 @@
+{"sent": "not his food other food", "ann_id": 1075001, "best_split": [5, 1], "split_score": 0.6951095778515514}
+{"sent": "pizza closest viewer", "ann_id": 1075001, "best_split": [5, 1], "split_score": 0.6951095778515514}
+{"sent": "plate with asparagus", "ann_id": 1075001, "best_split": [5, 1], "split_score": 0.6951095778515514}
+{"sent": "the pizza the man is cutting", "ann_id": 1074863, "best_split": [3, 3], "split_score": 0.2664152236813963}
+{"sent": "his food", "ann_id": 1074863, "best_split": [3, 3], "split_score": 0.2664152236813963}
+{"sent": "he is cutting it", "ann_id": 1074863, "best_split": [1, 3], "split_score": 0.09177346010206262}

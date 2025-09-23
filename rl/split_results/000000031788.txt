@@ -1,0 +1,8 @@
+{"sent": "standing in dark clothes", "ann_id": 224937, "best_split": [3, 1], "split_score": 0.15587897356588093}
+{"sent": "man at edge", "ann_id": 224937, "best_split": [3, 2], "split_score": 0.25841269839218944}
+{"sent": "red dressed monk", "ann_id": 208158, "best_split": [1, 3], "split_score": 0.4863785394642993}
+{"sent": "red", "ann_id": 208158, "best_split": [1, 3], "split_score": 0.4863785394642993}
+{"sent": "monk in red", "ann_id": 208158, "best_split": [1, 3], "split_score": 0.4863785394642993}
+{"sent": "man on motorcycle", "ann_id": 191608, "best_split": [1, 5], "split_score": 0.7024554195964471}
+{"sent": "man on scooter", "ann_id": 191608, "best_split": [1, 5], "split_score": 0.7024554195964471}
+{"sent": "man on moped", "ann_id": 191608, "best_split": [1, 5], "split_score": 0.7024554195964471}

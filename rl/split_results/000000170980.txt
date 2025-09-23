@@ -1,0 +1,7 @@
+{"sent": "bears at 3 o clock", "ann_id": 1162825, "best_split": [3, 1], "split_score": 0.49888143175225586}
+{"sent": "3 o clock", "ann_id": 1162825, "best_split": [2, 1], "split_score": 0.45937798320706985}
+{"sent": "fourth bear", "ann_id": 1161433, "best_split": [3, 1], "split_score": 0.25045285536035594}
+{"sent": "not one not two but three", "ann_id": 1161349, "best_split": [3, 2], "split_score": 0.4054623619315972}
+{"sent": "number 3", "ann_id": 1161349, "best_split": [3, 1], "split_score": 0.2386978313612874}
+{"sent": "one eye", "ann_id": 1159657, "best_split": [3, 1], "split_score": 0.26422108093596375}
+{"sent": "number 2 from lefty", "ann_id": 1159657, "best_split": [3, 1], "split_score": 0.26422108093596375}

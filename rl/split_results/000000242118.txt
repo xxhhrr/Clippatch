@@ -1,0 +1,5 @@
+{"sent": "not next to the pickle sandwich", "ann_id": 312265, "best_split": [3, 1], "split_score": 0.46579300379394317}
+{"sent": "half of sandwich by score", "ann_id": 312265, "best_split": [3, 2], "split_score": 0.5369691414194188}
+{"sent": "cake behind sausage looking thing", "ann_id": 311488, "best_split": [1, 2], "split_score": 0.402448762296964}
+{"sent": "broken sandwich", "ann_id": 311488, "best_split": [3, 1], "split_score": 0.5327136868720287}
+{"sent": "sandwich missing bread", "ann_id": 311488, "best_split": [3, 1], "split_score": 0.5327136868720287}

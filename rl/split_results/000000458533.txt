@@ -1,0 +1,6 @@
+{"sent": "camera shy elephant", "ann_id": 585831, "best_split": [2, 1], "split_score": 0.32930578778981323}
+{"sent": "cutoff elephant", "ann_id": 585831, "best_split": [2, 1], "split_score": 0.32930578778981323}
+{"sent": "partially shown elephant", "ann_id": 585831, "best_split": [2, 1], "split_score": 0.32930578778981323}
+{"sent": "elephant facing us", "ann_id": 585133, "best_split": [1, 2], "split_score": 0.7016031090386932}
+{"sent": "facing us", "ann_id": 585133, "best_split": [2, 1], "split_score": 0.3815510525962246}
+{"sent": "full elephant face", "ann_id": 585133, "best_split": [1, 2], "split_score": 0.7016031090386932}

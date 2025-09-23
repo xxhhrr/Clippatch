@@ -1,0 +1,6 @@
+{"sent": "small girafe", "ann_id": 1823385, "best_split": [1, 5], "split_score": 0.40416411509017897}
+{"sent": "shorter giraffe not in the shade", "ann_id": 1823385, "best_split": [1, 5], "split_score": 0.40416411509017897}
+{"sent": "small giraffe closest to camera", "ann_id": 1823385, "best_split": [1, 5], "split_score": 0.40416411509017897}
+{"sent": "tallest spider", "ann_id": 598588, "best_split": [3, 2], "split_score": 0.43463855418413866}
+{"sent": "tallest giraffe", "ann_id": 598588, "best_split": [1, 2], "split_score": 0.4290497448808574}
+{"sent": "mom", "ann_id": 598588, "best_split": [3, 1], "split_score": 0.26761869434960966}

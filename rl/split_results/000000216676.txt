@@ -1,0 +1,6 @@
+{"sent": "borad standing up agaist the wall", "ann_id": 1862700, "best_split": [3, 1], "split_score": 0.08671874999516078}
+{"sent": "white structure cut off", "ann_id": 1862700, "best_split": [1, 5], "split_score": 0.2940340908792579}
+{"sent": "white board to the side", "ann_id": 1862700, "best_split": [1, 5], "split_score": 0.2940340908792579}
+{"sent": "surface on which man is working on", "ann_id": 654206, "best_split": [3, 2], "split_score": 0.29058778330460333}
+{"sent": "surfboard on table", "ann_id": 654206, "best_split": [3, 3], "split_score": 0.4766128180259093}
+{"sent": "the board that is being sanded", "ann_id": 654206, "best_split": [3, 1], "split_score": 0.44682200943322053}

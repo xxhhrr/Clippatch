@@ -1,0 +1,6 @@
+{"sent": "woman reaching forward", "ann_id": 256850, "best_split": [2, 3], "split_score": 0.3985637342461216}
+{"sent": "thrower", "ann_id": 256850, "best_split": [5, 1], "split_score": 0.1771812080388271}
+{"sent": "woman in gray pointing", "ann_id": 256850, "best_split": [1, 5], "split_score": 0.36352152362612755}
+{"sent": "blue shirt", "ann_id": 188931, "best_split": [2, 3], "split_score": 0.2684266103201239}
+{"sent": "navy sweater", "ann_id": 188931, "best_split": [2, 3], "split_score": 0.2684266103201239}
+{"sent": "navy blue shirt", "ann_id": 188931, "best_split": [3, 3], "split_score": 0.22242891307169427}

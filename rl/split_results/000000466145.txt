@@ -1,0 +1,6 @@
+{"sent": "chair above the far end of the sandwich", "ann_id": 1933111, "best_split": [3, 3], "split_score": 0.7007930784605636}
+{"sent": "chair closest to the one behind the cup", "ann_id": 1933111, "best_split": [3, 2], "split_score": 0.47779922774157824}
+{"sent": "chair turned on edge", "ann_id": 1933111, "best_split": [3, 3], "split_score": 0.7007930784605636}
+{"sent": "chair above white cup", "ann_id": 1930369, "best_split": [3, 3], "split_score": 0.77613703473477}
+{"sent": "dark object behind cup", "ann_id": 1930369, "best_split": [3, 3], "split_score": 0.77613703473477}
+{"sent": "chair between other chairs", "ann_id": 1930369, "best_split": [3, 1], "split_score": 0.3952702702464243}

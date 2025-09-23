@@ -1,0 +1,6 @@
+{"sent": "person with arm out", "ann_id": 476161, "best_split": [2, 3], "split_score": 0.5110725140565487}
+{"sent": "lady in white glasses holding red pole", "ann_id": 476161, "best_split": [2, 3], "split_score": 0.5110725140565487}
+{"sent": "closest woman", "ann_id": 476161, "best_split": [2, 3], "split_score": 0.5110725140565487}
+{"sent": "guy closest to snowy peak", "ann_id": 426481, "best_split": [2, 3], "split_score": 0.24874371856692382}
+{"sent": "glasses no pole", "ann_id": 426481, "best_split": [5, 1], "split_score": 0.09545454544679752}
+{"sent": "goggles no pole", "ann_id": 426481, "best_split": [2, 2], "split_score": 0.22978723402509216}

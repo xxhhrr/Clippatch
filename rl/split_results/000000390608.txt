@@ -1,0 +1,6 @@
+{"sent": "partially hidden sandwich half", "ann_id": 312849, "best_split": [3, 3], "split_score": 0.5706222104790467}
+{"sent": "half of sandwich farther away", "ann_id": 312849, "best_split": [3, 3], "split_score": 0.5706222104790467}
+{"sent": "sandwich half close to saucer", "ann_id": 312849, "best_split": [3, 3], "split_score": 0.5706222104790467}
+{"sent": "closest", "ann_id": 308360, "best_split": [1, 3], "split_score": 0.24234100991747617}
+{"sent": "closest sanwich half", "ann_id": 308360, "best_split": [2, 3], "split_score": 0.401803791606681}
+{"sent": "closest sandwich half", "ann_id": 308360, "best_split": [2, 3], "split_score": 0.401803791606681}

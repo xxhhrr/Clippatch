@@ -1,0 +1,18 @@
+{"sent": "green scarf bear", "ann_id": 2228788, "best_split": [1, 3], "split_score": 0.7086669806459805}
+{"sent": "tan bear with green scarf", "ann_id": 2228788, "best_split": [1, 3], "split_score": 0.7086669806459805}
+{"sent": "tall bear with green scarf", "ann_id": 2228788, "best_split": [1, 3], "split_score": 0.7086669806459805}
+{"sent": "darkest brown bear", "ann_id": 2228777, "best_split": [1, 2], "split_score": 0.25594283213300484}
+{"sent": "no scarf brown", "ann_id": 2228777, "best_split": [1, 3], "split_score": 0.5153073147630692}
+{"sent": "brown bear between others", "ann_id": 2228777, "best_split": [1, 2], "split_score": 0.25594283213300484}
+{"sent": "gray and white bear", "ann_id": 2228763, "best_split": [2, 1], "split_score": 0.2973023026020957}
+{"sent": "white and gray big toy", "ann_id": 2228763, "best_split": [2, 2], "split_score": 0.48514153316786834}
+{"sent": "black head", "ann_id": 2228763, "best_split": [1, 2], "split_score": 0.675302933646552}
+{"sent": "taller white bear", "ann_id": 2228755, "best_split": [1, 2], "split_score": 0.36579241069970536}
+{"sent": "teddy bear white one near the one with gray on face", "ann_id": 2228755, "best_split": [3, 1], "split_score": 0.19586719293262747}
+{"sent": "leftest white bear", "ann_id": 2228755, "best_split": [3, 1], "split_score": 0.19586719293262747}
+{"sent": "little bear between his two little friends", "ann_id": 1162665, "best_split": [3, 1], "split_score": 0.13349466613327268}
+{"sent": "tan bear", "ann_id": 1162665, "best_split": [5, 1], "split_score": 0.1315532626790607}
+{"sent": "yellow small teddy", "ann_id": 1162665, "best_split": [1, 5], "split_score": 0.36901147095403075}
+{"sent": "white bear infront of brown bear", "ann_id": 1160928, "best_split": [1, 5], "split_score": 0.5275244849267541}
+{"sent": "shorter white bear", "ann_id": 1160928, "best_split": [1, 5], "split_score": 0.5275244849267541}
+{"sent": "the shortest all white one", "ann_id": 1160928, "best_split": [2, 1], "split_score": 0.2341308051168754}

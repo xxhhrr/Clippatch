@@ -1,0 +1,17 @@
+{"sent": "closest pizza", "ann_id": 1076803, "best_split": [5, 1], "split_score": 0.6118102613154104}
+{"sent": "pizza near enough to touch", "ann_id": 1076803, "best_split": [5, 1], "split_score": 0.6118102613154104}
+{"sent": "closest pizza", "ann_id": 1076803, "best_split": [5, 1], "split_score": 0.6118102613154104}
+{"sent": "farthest pizza", "ann_id": 1076485, "best_split": [2, 1], "split_score": 0.08669483418021784}
+{"sent": "pizza furthest from us", "ann_id": 1076485, "best_split": [1, 2], "split_score": 0.08669483418021784}
+{"sent": "pizza in front of hungry guy in gray", "ann_id": 1073985, "best_split": [3, 3], "split_score": 0.3707760428372435}
+{"sent": "pizza in front of big guy", "ann_id": 1073985, "best_split": [3, 3], "split_score": 0.3707760428372435}
+{"sent": "whole pizza", "ann_id": 1073985, "best_split": [3, 3], "split_score": 0.3707760428372435}
+{"sent": "woman", "ann_id": 557594, "best_split": [1, 2], "split_score": 0.26977040815251235}
+{"sent": "woman", "ann_id": 557594, "best_split": [1, 2], "split_score": 0.26977040815251235}
+{"sent": "woman", "ann_id": 557594, "best_split": [1, 2], "split_score": 0.26977040815251235}
+{"sent": "he has his arm across his body", "ann_id": 1700514, "best_split": [3, 3], "split_score": 0.6189809629592692}
+{"sent": "black shiry", "ann_id": 1700514, "best_split": [3, 3], "split_score": 0.6189809629592692}
+{"sent": "man with hand to shoulder", "ann_id": 1700514, "best_split": [3, 3], "split_score": 0.6189809629592692}
+{"sent": "beard", "ann_id": 442324, "best_split": [1, 3], "split_score": 0.5779585975482854}
+{"sent": "man gray shirt sideburns", "ann_id": 442324, "best_split": [1, 3], "split_score": 0.5779585975482854}
+{"sent": "fat man", "ann_id": 442324, "best_split": [1, 2], "split_score": 0.39054528059667787}

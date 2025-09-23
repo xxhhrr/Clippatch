@@ -1,0 +1,6 @@
+{"sent": "blue stripe woman", "ann_id": 457672, "best_split": [1, 5], "split_score": 0.5354192983640638}
+{"sent": "close player", "ann_id": 457672, "best_split": [1, 3], "split_score": 0.34686920636643326}
+{"sent": "woman out of frame", "ann_id": 457672, "best_split": [3, 1], "split_score": 0.15326710363819812}
+{"sent": "lady with raquet", "ann_id": 445172, "best_split": [1, 3], "split_score": 0.4714565583638682}
+{"sent": "player white shoes", "ann_id": 445172, "best_split": [1, 3], "split_score": 0.4714565583638682}
+{"sent": "woman wholly in picture", "ann_id": 445172, "best_split": [1, 3], "split_score": 0.4714565583638682}

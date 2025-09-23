@@ -1,0 +1,9 @@
+{"sent": "last donut", "ann_id": 1080629, "best_split": [2, 3], "split_score": 0.31469764543981976}
+{"sent": "white donut", "ann_id": 1080629, "best_split": [5, 1], "split_score": 0.37070541811464675}
+{"sent": "white donut on paper", "ann_id": 1080629, "best_split": [5, 1], "split_score": 0.37070541811464675}
+{"sent": "upper donut", "ann_id": 1080372, "best_split": [3, 3], "split_score": 0.3247776365533955}
+{"sent": "chocolate donut", "ann_id": 1080372, "best_split": [2, 3], "split_score": 0.36643270020990576}
+{"sent": "chocolate", "ann_id": 1080372, "best_split": [2, 3], "split_score": 0.36643270020990576}
+{"sent": "yellow donut", "ann_id": 1078517, "best_split": [3, 3], "split_score": 0.543252171718677}
+{"sent": "sprinkles", "ann_id": 1078517, "best_split": [3, 3], "split_score": 0.543252171718677}
+{"sent": "sprinkle donut", "ann_id": 1078517, "best_split": [3, 3], "split_score": 0.543252171718677}

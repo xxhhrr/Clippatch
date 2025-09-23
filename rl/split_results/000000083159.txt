@@ -1,0 +1,6 @@
+{"sent": "plate with pizza just plate", "ann_id": 1040275, "best_split": [2, 1], "split_score": 0.6990189818105584}
+{"sent": "plate", "ann_id": 1040275, "best_split": [2, 1], "split_score": 0.6990189818105584}
+{"sent": "the plate", "ann_id": 1040275, "best_split": [2, 1], "split_score": 0.6990189818105584}
+{"sent": "dipping sauce", "ann_id": 715851, "best_split": [1, 2], "split_score": 0.3029871977123914}
+{"sent": "sauce", "ann_id": 715851, "best_split": [1, 5], "split_score": 0.20108135941033203}
+{"sent": "marinara", "ann_id": 715851, "best_split": [1, 2], "split_score": 0.3029871977123914}

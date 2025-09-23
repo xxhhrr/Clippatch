@@ -1,0 +1,6 @@
+{"sent": "far white table", "ann_id": 1958379, "best_split": [5, 1], "split_score": 0.2989690721353123}
+{"sent": "furthest table", "ann_id": 1958379, "best_split": [3, 2], "split_score": 0.36877076407584586}
+{"sent": "table in back by wall", "ann_id": 1958379, "best_split": [3, 2], "split_score": 0.36877076407584586}
+{"sent": "close table", "ann_id": 120681, "best_split": [1, 2], "split_score": 0.4001790510198607}
+{"sent": "table closest to camera", "ann_id": 120681, "best_split": [1, 2], "split_score": 0.4001790510198607}
+{"sent": "spoon", "ann_id": 120681, "best_split": [2, 1], "split_score": 0.7300884955533936}

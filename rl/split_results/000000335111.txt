@@ -1,0 +1,11 @@
+{"sent": "bike laying down", "ann_id": 131374, "best_split": [2, 2], "split_score": 0.337398971319809}
+{"sent": "bike on its side wheels over another wheel", "ann_id": 131374, "best_split": [2, 2], "split_score": 0.337398971319809}
+{"sent": "black bike behind yellow", "ann_id": 129880, "best_split": [3, 2], "split_score": 0.5339383275734847}
+{"sent": "bike with black wheels near yellow sign", "ann_id": 129880, "best_split": [3, 2], "split_score": 0.5339383275734847}
+{"sent": "rear bike behind the yellow bike", "ann_id": 129880, "best_split": [3, 2], "split_score": 0.5339383275734847}
+{"sent": "big bike layed down", "ann_id": 128611, "best_split": [5, 1], "split_score": 0.3812545764961402}
+{"sent": "bike on ground blue", "ann_id": 128611, "best_split": [5, 1], "split_score": 0.3812545764961402}
+{"sent": "blue bike lying down", "ann_id": 128611, "best_split": [5, 1], "split_score": 0.3812545764961402}
+{"sent": "closest bike standing up", "ann_id": 125300, "best_split": [3, 2], "split_score": 0.5262812088923882}
+{"sent": "bike standing up closest to us", "ann_id": 125300, "best_split": [3, 2], "split_score": 0.5262812088923882}
+{"sent": "upright bike", "ann_id": 125300, "best_split": [3, 2], "split_score": 0.5262812088923882}

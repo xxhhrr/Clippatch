@@ -1,0 +1,6 @@
+{"sent": "chair with back fully facing viewer", "ann_id": 1601329, "best_split": [2, 3], "split_score": 0.46983590727921865}
+{"sent": "complete back of chair", "ann_id": 1601329, "best_split": [2, 2], "split_score": 0.3104272958936203}
+{"sent": "chair back facing you", "ann_id": 1601329, "best_split": [2, 3], "split_score": 0.46983590727921865}
+{"sent": "tan chair sitting at closest red table", "ann_id": 1591027, "best_split": [2, 1], "split_score": 0.146683673463541}
+{"sent": "chair facing us", "ann_id": 1591027, "best_split": [2, 1], "split_score": 0.146683673463541}
+{"sent": "chair closest", "ann_id": 1591027, "best_split": [3, 2], "split_score": 0.27210884350849185}

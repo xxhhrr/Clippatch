@@ -1,0 +1,9 @@
+{"sent": "guy in white shorts and no shirt", "ann_id": 546136, "best_split": [2, 2], "split_score": 0.5765829004228146}
+{"sent": "no shirt white shorts", "ann_id": 546136, "best_split": [2, 2], "split_score": 0.5765829004228146}
+{"sent": "guy with no shirt", "ann_id": 546136, "best_split": [2, 2], "split_score": 0.5765829004228146}
+{"sent": "21", "ann_id": 483236, "best_split": [1, 2], "split_score": 0.6457270407905881}
+{"sent": "21", "ann_id": 483236, "best_split": [1, 2], "split_score": 0.6457270407905881}
+{"sent": "man with 21", "ann_id": 483236, "best_split": [2, 2], "split_score": 0.6829039812246543}
+{"sent": "bald man in white and black shirt", "ann_id": 465527, "best_split": [1, 3], "split_score": 0.5471276595453656}
+{"sent": "white shirt guy", "ann_id": 465527, "best_split": [2, 3], "split_score": 0.6527336299544871}
+{"sent": "and1 shorts", "ann_id": 465527, "best_split": [2, 1], "split_score": 0.3618516371935}

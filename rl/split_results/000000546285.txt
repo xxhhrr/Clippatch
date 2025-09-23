@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 449562, "best_split": [1, 5], "split_score": 0.4849023090155504}
+{"sent": "thrower", "ann_id": 449562, "best_split": [3, 1], "split_score": 0.16131589376925703}
+{"sent": "blue shirt", "ann_id": 449562, "best_split": [1, 5], "split_score": 0.4849023090155504}
+{"sent": "woman holding an orange frisbee", "ann_id": 442844, "best_split": [3, 1], "split_score": 0.09050374223204502}
+{"sent": "girl", "ann_id": 442844, "best_split": [2, 3], "split_score": 0.38064661480447826}
+{"sent": "girl in green", "ann_id": 442844, "best_split": [2, 3], "split_score": 0.38064661480447826}

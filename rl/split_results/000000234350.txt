@@ -1,0 +1,6 @@
+{"sent": "boy in red", "ann_id": 446544, "best_split": [1, 3], "split_score": 0.5315255142696801}
+{"sent": "kid in red shirt", "ann_id": 446544, "best_split": [1, 3], "split_score": 0.5315255142696801}
+{"sent": "kid red outfit", "ann_id": 446544, "best_split": [1, 3], "split_score": 0.5315255142696801}
+{"sent": "boy in stripes", "ann_id": 445021, "best_split": [2, 1], "split_score": 0.5496183205905161}
+{"sent": "boy with stripe shirt", "ann_id": 445021, "best_split": [2, 1], "split_score": 0.5496183205905161}
+{"sent": "boy bent over", "ann_id": 445021, "best_split": [2, 1], "split_score": 0.5496183205905161}

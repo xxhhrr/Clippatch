@@ -1,0 +1,9 @@
+{"sent": "man brown shirt", "ann_id": 236740, "best_split": [3, 2], "split_score": 0.5192982455570945}
+{"sent": "sitting on table", "ann_id": 236740, "best_split": [1, 5], "split_score": 0.3301138323275169}
+{"sent": "brown shirt", "ann_id": 236740, "best_split": [1, 5], "split_score": 0.3301138323275169}
+{"sent": "no shirt guy", "ann_id": 234543, "best_split": [3, 2], "split_score": 0.46423068451857463}
+{"sent": "man no shirt", "ann_id": 234543, "best_split": [3, 2], "split_score": 0.46423068451857463}
+{"sent": "shirtless guy", "ann_id": 234543, "best_split": [3, 2], "split_score": 0.46423068451857463}
+{"sent": "person in white shirt", "ann_id": 224846, "best_split": [3, 3], "split_score": 0.49922898992875586}
+{"sent": "lady", "ann_id": 224846, "best_split": [3, 3], "split_score": 0.49922898992875586}
+{"sent": "white shirt", "ann_id": 224846, "best_split": [3, 3], "split_score": 0.49922898992875586}

@@ -1,0 +1,10 @@
+{"sent": "green person", "ann_id": 237700, "best_split": [3, 3], "split_score": 0.5655091916303605}
+{"sent": "green shirt striped green panst", "ann_id": 237700, "best_split": [3, 3], "split_score": 0.5655091916303605}
+{"sent": "man in green", "ann_id": 237700, "best_split": [3, 3], "split_score": 0.5655091916303605}
+{"sent": "person with white shirt", "ann_id": 220157, "best_split": [2, 3], "split_score": 0.43420546359809487}
+{"sent": "white shirt no helmet", "ann_id": 220157, "best_split": [3, 2], "split_score": 0.4822546972380699}
+{"sent": "white helmet", "ann_id": 220157, "best_split": [2, 3], "split_score": 0.43420546359809487}
+{"sent": "guy with white shirt", "ann_id": 220157, "best_split": [3, 2], "split_score": 0.4822546972380699}
+{"sent": "guy on pink bike", "ann_id": 205670, "best_split": [1, 2], "split_score": 0.37469949969544863}
+{"sent": "man on pink trike", "ann_id": 205670, "best_split": [1, 2], "split_score": 0.37469949969544863}
+{"sent": "man in black shirt", "ann_id": 205670, "best_split": [1, 3], "split_score": 0.46973913041435916}

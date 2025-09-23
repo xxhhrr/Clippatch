@@ -1,0 +1,6 @@
+{"sent": "dog behind lady", "ann_id": 16063, "best_split": [3, 2], "split_score": 0.5993551937878937}
+{"sent": "dog beh person", "ann_id": 16063, "best_split": [3, 1], "split_score": 0.36286598427217964}
+{"sent": "dog by legs", "ann_id": 16063, "best_split": [3, 2], "split_score": 0.5993551937878937}
+{"sent": "dog looking up", "ann_id": 8665, "best_split": [2, 3], "split_score": 0.41054330280682694}
+{"sent": "dog fully seen", "ann_id": 8665, "best_split": [2, 3], "split_score": 0.41054330280682694}
+{"sent": "dog standing alone", "ann_id": 8665, "best_split": [2, 3], "split_score": 0.41054330280682694}

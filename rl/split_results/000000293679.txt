@@ -1,0 +1,6 @@
+{"sent": "couch near lamp with rectangular shade", "ann_id": 1951075, "best_split": [3, 1], "split_score": 0.15343824836839556}
+{"sent": "sofa with floor lamp", "ann_id": 1951075, "best_split": [2, 1], "split_score": 0.3989906954581694}
+{"sent": "couch next to the round side table", "ann_id": 1951075, "best_split": [2, 1], "split_score": 0.3989906954581694}
+{"sent": "couch window", "ann_id": 1950774, "best_split": [2, 3], "split_score": 0.5766180020029178}
+{"sent": "sofa by the window", "ann_id": 1950774, "best_split": [2, 3], "split_score": 0.5766180020029178}
+{"sent": "couch with pillow falling", "ann_id": 1950774, "best_split": [2, 3], "split_score": 0.5766180020029178}

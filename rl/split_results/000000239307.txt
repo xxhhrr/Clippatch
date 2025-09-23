@@ -1,0 +1,6 @@
+{"sent": "blurry man", "ann_id": 467839, "best_split": [3, 2], "split_score": 0.3449776230516548}
+{"sent": "man blurred", "ann_id": 467839, "best_split": [1, 2], "split_score": 0.5321269132440957}
+{"sent": "blurry dude", "ann_id": 467839, "best_split": [1, 2], "split_score": 0.5321269132440957}
+{"sent": "man with brown shirt", "ann_id": 439880, "best_split": [1, 2], "split_score": 0.4977185465333671}
+{"sent": "man on phone", "ann_id": 439880, "best_split": [1, 3], "split_score": 0.48855312857649685}
+{"sent": "guy", "ann_id": 439880, "best_split": [1, 2], "split_score": 0.4977185465333671}

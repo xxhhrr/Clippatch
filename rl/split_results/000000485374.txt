@@ -1,0 +1,6 @@
+{"sent": "apples", "ann_id": 717496, "best_split": [1, 2], "split_score": 0.5460058001376217}
+{"sent": "the bowl with three bowls within it", "ann_id": 717496, "best_split": [3, 1], "split_score": 0.34135883903605874}
+{"sent": "round dish four compartments", "ann_id": 717496, "best_split": [2, 2], "split_score": 0.6191774596330847}
+{"sent": "yellow red purple", "ann_id": 716017, "best_split": [2, 2], "split_score": 0.5535904964926861}
+{"sent": "purple red yellow", "ann_id": 716017, "best_split": [2, 2], "split_score": 0.5535904964926861}
+{"sent": "bowl", "ann_id": 716017, "best_split": [2, 2], "split_score": 0.5535904964926861}

@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 564047, "best_split": [5, 1], "split_score": 0.1858261978333188}
+{"sent": "red", "ann_id": 564047, "best_split": [3, 3], "split_score": 0.4430337453319355}
+{"sent": "red shirt", "ann_id": 564047, "best_split": [5, 1], "split_score": 0.1858261978333188}
+{"sent": "person holding large case", "ann_id": 423613, "best_split": [1, 3], "split_score": 0.36921791791551917}
+{"sent": "man with long package", "ann_id": 423613, "best_split": [1, 2], "split_score": 0.724981975460527}
+{"sent": "closest person", "ann_id": 423613, "best_split": [1, 2], "split_score": 0.724981975460527}

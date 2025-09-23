@@ -1,0 +1,5 @@
+{"sent": "red shirt", "ann_id": 1742306, "best_split": [3, 2], "split_score": 0.8161309641828577}
+{"sent": "orange shirt behind cat", "ann_id": 1742306, "best_split": [3, 1], "split_score": 0.5386671314543799}
+{"sent": "red above cat corner", "ann_id": 1742306, "best_split": [3, 1], "split_score": 0.5386671314543799}
+{"sent": "hand", "ann_id": 485523, "best_split": [3, 3], "split_score": 0.7326515703556151}
+{"sent": "hand", "ann_id": 485523, "best_split": [3, 3], "split_score": 0.7326515703556151}

@@ -1,0 +1,11 @@
+{"sent": "giraffe on edge close to little one", "ann_id": 600436, "best_split": [3, 2], "split_score": 0.5289654626943044}
+{"sent": "9 o clock not small giraffe", "ann_id": 600436, "best_split": [3, 2], "split_score": 0.5289654626943044}
+{"sent": "animal facing 9 o clock", "ann_id": 600349, "best_split": [3, 3], "split_score": 0.29980276130837136}
+{"sent": "the medium sized giraffe with head facing the other giraffe", "ann_id": 600349, "best_split": [3, 3], "split_score": 0.29980276130837136}
+{"sent": "small giraffe looking at teeniest one", "ann_id": 600349, "best_split": [3, 3], "split_score": 0.29980276130837136}
+{"sent": "giraffe head turned", "ann_id": 597970, "best_split": [5, 1], "split_score": 0.2014242115825153}
+{"sent": "giraffe closest to bush on ground", "ann_id": 597970, "best_split": [1, 2], "split_score": 0.26618303570367574}
+{"sent": "giraffe closet to 3", "ann_id": 597970, "best_split": [5, 1], "split_score": 0.2014242115825153}
+{"sent": "shortest giraffe", "ann_id": 596390, "best_split": [2, 2], "split_score": 0.4275069853750771}
+{"sent": "shortest", "ann_id": 596390, "best_split": [2, 1], "split_score": 0.21661160924112743}
+{"sent": "smallest giraffe", "ann_id": 596390, "best_split": [2, 2], "split_score": 0.4275069853750771}

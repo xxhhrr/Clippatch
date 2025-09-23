@@ -1,0 +1,5 @@
+{"sent": "table cut off of pic", "ann_id": 1615713, "best_split": [5, 1], "split_score": 0.2249999999814967}
+{"sent": "slab above that red candy bar", "ann_id": 1615713, "best_split": [3, 3], "split_score": 0.5528647370713431}
+{"sent": "part of a granite surface", "ann_id": 1615713, "best_split": [3, 3], "split_score": 0.5528647370713431}
+{"sent": "the food is sitting on it", "ann_id": 1615077, "best_split": [1, 2], "split_score": 0.5478359908753835}
+{"sent": "anywhere on table with food", "ann_id": 1615077, "best_split": [1, 2], "split_score": 0.5478359908753835}

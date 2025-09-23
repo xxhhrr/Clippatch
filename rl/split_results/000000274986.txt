@@ -1,0 +1,8 @@
+{"sent": "very partially shown bike", "ann_id": 154402, "best_split": [3, 1], "split_score": 0.11186133225275313}
+{"sent": "bike with blue cutoff", "ann_id": 154402, "best_split": [3, 1], "split_score": 0.11186133225275313}
+{"sent": "black cropped motorcycle", "ann_id": 154049, "best_split": [3, 3], "split_score": 0.5380667236379313}
+{"sent": "black motorcycle", "ann_id": 154049, "best_split": [1, 3], "split_score": 0.5374034748710543}
+{"sent": "not the red bike", "ann_id": 154049, "best_split": [3, 2], "split_score": 0.41367971058749753}
+{"sent": "the red motorcycle", "ann_id": 153121, "best_split": [1, 2], "split_score": 0.49814618642748554}
+{"sent": "red motorcycle", "ann_id": 153121, "best_split": [1, 2], "split_score": 0.49814618642748554}
+{"sent": "main bike", "ann_id": 153121, "best_split": [1, 2], "split_score": 0.49814618642748554}

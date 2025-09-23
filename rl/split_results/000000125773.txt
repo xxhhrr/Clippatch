@@ -1,0 +1,5 @@
+{"sent": "back of chair nearest you", "ann_id": 290293, "best_split": [3, 2], "split_score": 0.5129274394718304}
+{"sent": "big chair", "ann_id": 290293, "best_split": [3, 2], "split_score": 0.5129274394718304}
+{"sent": "closest chair", "ann_id": 290293, "best_split": [3, 2], "split_score": 0.5129274394718304}
+{"sent": "chair on edge of table black no one in it", "ann_id": 107343, "best_split": [3, 3], "split_score": 0.5543071160183666}
+{"sent": "chair next to man in striped shirt", "ann_id": 107343, "best_split": [2, 1], "split_score": 0.1787308673398146}

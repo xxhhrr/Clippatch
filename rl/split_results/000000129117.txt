@@ -1,0 +1,5 @@
+{"sent": "hand holding the puppy face", "ann_id": 192898, "best_split": [3, 1], "split_score": 0.38968585434947856}
+{"sent": "the hand holding the dryer", "ann_id": 192898, "best_split": [1, 2], "split_score": 0.5227493869722201}
+{"sent": "hand with ring", "ann_id": 192621, "best_split": [1, 3], "split_score": 0.5894805761354496}
+{"sent": "hand with ring", "ann_id": 192621, "best_split": [1, 3], "split_score": 0.5894805761354496}
+{"sent": "big hand on dog with silver ring", "ann_id": 192621, "best_split": [1, 2], "split_score": 0.5004783163065817}

@@ -1,0 +1,12 @@
+{"sent": "girl smiling", "ann_id": 2191041, "best_split": [1, 5], "split_score": 0.525986224123268}
+{"sent": "girl", "ann_id": 2191041, "best_split": [1, 5], "split_score": 0.525986224123268}
+{"sent": "girl", "ann_id": 2191041, "best_split": [1, 5], "split_score": 0.525986224123268}
+{"sent": "elephant behind red stripe guy", "ann_id": 585930, "best_split": [3, 3], "split_score": 0.5272070211123173}
+{"sent": "tarp behind man", "ann_id": 585930, "best_split": [2, 1], "split_score": 0.2897094657810793}
+{"sent": "elephant closest near the edge", "ann_id": 585930, "best_split": [2, 1], "split_score": 0.2897094657810793}
+{"sent": "curled up trunk", "ann_id": 585851, "best_split": [1, 3], "split_score": 0.36999105099085255}
+{"sent": "elephant", "ann_id": 585851, "best_split": [2, 3], "split_score": 0.43011949822384626}
+{"sent": "elephant smile", "ann_id": 585851, "best_split": [2, 3], "split_score": 0.43011949822384626}
+{"sent": "adult", "ann_id": 486522, "best_split": [2, 1], "split_score": 0.2792173453093897}
+{"sent": "red shirt", "ann_id": 486522, "best_split": [1, 5], "split_score": 0.4578313252653864}
+{"sent": "red shirt tan hat", "ann_id": 486522, "best_split": [2, 2], "split_score": 0.530653266293564}

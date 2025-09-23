@@ -1,0 +1,6 @@
+{"sent": "hot dog with more toppings", "ann_id": 2220283, "best_split": [3, 3], "split_score": 0.4604889140903228}
+{"sent": "hot dog near dirt", "ann_id": 2220283, "best_split": [3, 3], "split_score": 0.4604889140903228}
+{"sent": "messier more full one towards the fence", "ann_id": 2220283, "best_split": [2, 1], "split_score": 0.11572345826057476}
+{"sent": "hotdog with less filling", "ann_id": 1569312, "best_split": [3, 3], "split_score": 0.35348837204466643}
+{"sent": "hotdog closest to fence post", "ann_id": 1569312, "best_split": [3, 3], "split_score": 0.35348837204466643}
+{"sent": "the chili dog with less stuff in it", "ann_id": 1569312, "best_split": [3, 3], "split_score": 0.35348837204466643}

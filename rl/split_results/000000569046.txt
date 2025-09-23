@@ -1,0 +1,9 @@
+{"sent": "man in dark uniform", "ann_id": 1207076, "best_split": [1, 3], "split_score": 0.5452515629448775}
+{"sent": "cutting cake", "ann_id": 1207076, "best_split": [1, 2], "split_score": 0.4979044425668212}
+{"sent": "man in black", "ann_id": 1207076, "best_split": [1, 3], "split_score": 0.5452515629448775}
+{"sent": "army man next to elderly man", "ann_id": 489059, "best_split": [3, 3], "split_score": 0.3516938824821236}
+{"sent": "soldier with legs crossed", "ann_id": 489059, "best_split": [3, 3], "split_score": 0.3516938824821236}
+{"sent": "younger military man leaning back and grinning", "ann_id": 489059, "best_split": [3, 3], "split_score": 0.3516938824821236}
+{"sent": "sitting man not crossed leg", "ann_id": 1741807, "best_split": [1, 3], "split_score": 0.26049710423138894}
+{"sent": "soldier sitting with his legs not crossed", "ann_id": 1741807, "best_split": [3, 3], "split_score": 0.345699367910731}
+{"sent": "smiling older man", "ann_id": 1741807, "best_split": [5, 1], "split_score": 0.10907668230758398}

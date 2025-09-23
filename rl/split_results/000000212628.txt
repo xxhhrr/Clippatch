@@ -1,0 +1,12 @@
+{"sent": "far muffin", "ann_id": 2119237, "best_split": [1, 5], "split_score": 0.11655093608890296}
+{"sent": "muffin in back", "ann_id": 2119237, "best_split": [1, 5], "split_score": 0.11655093608890296}
+{"sent": "blurry muffin", "ann_id": 2119237, "best_split": [1, 5], "split_score": 0.11655093608890296}
+{"sent": "close muffin", "ann_id": 2119189, "best_split": [2, 3], "split_score": 0.4726756564460432}
+{"sent": "non blurry muffin", "ann_id": 2119189, "best_split": [2, 3], "split_score": 0.4726756564460432}
+{"sent": "closest muffin", "ann_id": 2119189, "best_split": [2, 3], "split_score": 0.4726756564460432}
+{"sent": "half cup", "ann_id": 679280, "best_split": [3, 1], "split_score": 0.1798992564056189}
+{"sent": "tea 9 o clock", "ann_id": 679280, "best_split": [3, 3], "split_score": 0.5380200859867252}
+{"sent": "closer cup", "ann_id": 679280, "best_split": [5, 1], "split_score": 0.20453700258418211}
+{"sent": "coffee cup closer to rose", "ann_id": 673777, "best_split": [2, 2], "split_score": 0.32007334181121866}
+{"sent": "mug closest to rose", "ann_id": 673777, "best_split": [2, 2], "split_score": 0.32007334181121866}
+{"sent": "cup of coffe at 2 o clock", "ann_id": 673777, "best_split": [2, 2], "split_score": 0.32007334181121866}

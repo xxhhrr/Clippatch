@@ -1,0 +1,6 @@
+{"sent": "red shirt woman", "ann_id": 484697, "best_split": [2, 2], "split_score": 0.5583677685589896}
+{"sent": "red shirt", "ann_id": 484697, "best_split": [2, 2], "split_score": 0.5583677685589896}
+{"sent": "granny", "ann_id": 484697, "best_split": [2, 2], "split_score": 0.5583677685589896}
+{"sent": "white shirt", "ann_id": 445483, "best_split": [2, 2], "split_score": 0.5515772958731676}
+{"sent": "man white shirt", "ann_id": 445483, "best_split": [2, 2], "split_score": 0.5515772958731676}
+{"sent": "man holding glass", "ann_id": 445483, "best_split": [2, 2], "split_score": 0.5515772958731676}

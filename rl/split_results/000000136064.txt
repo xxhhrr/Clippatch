@@ -1,0 +1,9 @@
+{"sent": "black shirt light pants", "ann_id": 251976, "best_split": [1, 5], "split_score": 0.6332931241915136}
+{"sent": "darkest shirt", "ann_id": 251976, "best_split": [2, 1], "split_score": 0.20312499999285175}
+{"sent": "guy 2", "ann_id": 251976, "best_split": [2, 1], "split_score": 0.20312499999285175}
+{"sent": "guy in green shirt", "ann_id": 226638, "best_split": [1, 2], "split_score": 0.6206154336487318}
+{"sent": "green shirt holding controller", "ann_id": 226638, "best_split": [1, 2], "split_score": 0.6206154336487318}
+{"sent": "man with logo on shirt", "ann_id": 226638, "best_split": [1, 2], "split_score": 0.6206154336487318}
+{"sent": "man with cup sorry", "ann_id": 218440, "best_split": [2, 1], "split_score": 0.21159277039637134}
+{"sent": "man in glasses", "ann_id": 218440, "best_split": [1, 3], "split_score": 0.49536500576504255}
+{"sent": "man with cup", "ann_id": 218440, "best_split": [3, 2], "split_score": 0.2954310217140743}

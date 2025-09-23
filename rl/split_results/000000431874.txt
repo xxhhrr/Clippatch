@@ -1,0 +1,6 @@
+{"sent": "table", "ann_id": 2194082, "best_split": [5, 1], "split_score": 0.927658279126658}
+{"sent": "wooden table", "ann_id": 2194082, "best_split": [5, 1], "split_score": 0.927658279126658}
+{"sent": "brown table", "ann_id": 2194082, "best_split": [5, 1], "split_score": 0.927658279126658}
+{"sent": "red plate", "ann_id": 1958575, "best_split": [2, 1], "split_score": 0.538647342983122}
+{"sent": "red plate", "ann_id": 1958575, "best_split": [2, 1], "split_score": 0.538647342983122}
+{"sent": "burger", "ann_id": 1958575, "best_split": [1, 2], "split_score": 0.46861924685192086}

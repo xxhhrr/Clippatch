@@ -1,0 +1,5 @@
+{"sent": "the blue area at 10ish 1100ish", "ann_id": 1957851, "best_split": [1, 2], "split_score": 0.2710035700011502}
+{"sent": "bed upper lefty", "ann_id": 1957851, "best_split": [2, 2], "split_score": 0.4868079914223877}
+{"sent": "blue thing in picture number 2", "ann_id": 1957414, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "blanket in half where kids face isnt visible", "ann_id": 1957414, "best_split": [5, 1], "split_score": 0.3014376996564347}
+{"sent": "blanket by baby in pic where you barely see bowl of food", "ann_id": 1957414, "best_split": [1, 2], "split_score": 0.2566167091734448}

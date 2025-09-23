@@ -1,0 +1,14 @@
+{"sent": "third goat", "ann_id": 1818873, "best_split": [2, 3], "split_score": 0.2753757031084396}
+{"sent": "white sheep looking up between white and brown sheep", "ann_id": 1818873, "best_split": [1, 3], "split_score": 0.25677122362398186}
+{"sent": "unsheared sheep head through fence", "ann_id": 1406895, "best_split": [2, 3], "split_score": 0.30481927707782935}
+{"sent": "sheep most hidden by pole", "ann_id": 1406854, "best_split": [2, 3], "split_score": 0.148201075979472}
+{"sent": "animal blocked by post", "ann_id": 1406854, "best_split": [1, 5], "split_score": 0.5449472402044493}
+{"sent": "sheep partially hidden by fencing", "ann_id": 1406854, "best_split": [5, 1], "split_score": 0.1343961856414813}
+{"sent": "closest animal no head", "ann_id": 1819078, "best_split": [1, 5], "split_score": 0.27500248284089757}
+{"sent": "lamb closest no face", "ann_id": 1819078, "best_split": [1, 3], "split_score": 0.17486634227339062}
+{"sent": "sheep no head close to you edge", "ann_id": 1819078, "best_split": [1, 5], "split_score": 0.27500248284089757}
+{"sent": "the full body horizontal sheep", "ann_id": 1406494, "best_split": [3, 2], "split_score": 0.4945690792310863}
+{"sent": "sheep not facing forward whole side visible", "ann_id": 1406494, "best_split": [3, 2], "split_score": 0.4945690792310863}
+{"sent": "there are three white sheep staring the third sheep", "ann_id": 63526, "best_split": [1, 2], "split_score": 0.184669961727333}
+{"sent": "sheep looking up next to furriest one", "ann_id": 63526, "best_split": [1, 2], "split_score": 0.184669961727333}
+{"sent": "sheep between white and shaggy", "ann_id": 63526, "best_split": [1, 2], "split_score": 0.184669961727333}

@@ -1,0 +1,9 @@
+{"sent": "blue jean leg with hand on it", "ann_id": 1755705, "best_split": [1, 3], "split_score": 0.44612693047501645}
+{"sent": "blue jeans", "ann_id": 1755705, "best_split": [1, 5], "split_score": 0.5868825314518551}
+{"sent": "leg with blue jeans", "ann_id": 1755705, "best_split": [3, 3], "split_score": 0.4148620423859666}
+{"sent": "white pants", "ann_id": 224310, "best_split": [2, 2], "split_score": 0.40924560405493154}
+{"sent": "white pants i think", "ann_id": 224310, "best_split": [3, 2], "split_score": 0.2926183382743613}
+{"sent": "white pants", "ann_id": 224310, "best_split": [2, 2], "split_score": 0.40924560405493154}
+{"sent": "man cat on lap", "ann_id": 184971, "best_split": [1, 2], "split_score": 0.5998820870443186}
+{"sent": "brown legs", "ann_id": 184971, "best_split": [2, 1], "split_score": 0.4322660098427105}
+{"sent": "brown pants", "ann_id": 184971, "best_split": [2, 1], "split_score": 0.4322660098427105}

@@ -1,0 +1,9 @@
+{"sent": "cow with rear cut off on edge", "ann_id": 76733, "best_split": [1, 3], "split_score": 0.7109308283138914}
+{"sent": "darkest cow closest", "ann_id": 76733, "best_split": [1, 3], "split_score": 0.7109308283138914}
+{"sent": "darker cow", "ann_id": 76733, "best_split": [1, 3], "split_score": 0.7109308283138914}
+{"sent": "cow with white spot on head", "ann_id": 75391, "best_split": [2, 1], "split_score": 0.4654017856957349}
+{"sent": "cow partially covered in back", "ann_id": 75391, "best_split": [2, 1], "split_score": 0.4654017856957349}
+{"sent": "not facing us", "ann_id": 75391, "best_split": [2, 1], "split_score": 0.4654017856957349}
+{"sent": "closest cow", "ann_id": 70438, "best_split": [1, 2], "split_score": 0.4474651702642071}
+{"sent": "lead cow", "ann_id": 70438, "best_split": [1, 2], "split_score": 0.4474651702642071}
+{"sent": "cow blocking view of the other", "ann_id": 70438, "best_split": [1, 2], "split_score": 0.4474651702642071}

@@ -1,0 +1,6 @@
+{"sent": "elephant not in water", "ann_id": 583657, "best_split": [1, 3], "split_score": 0.3981660231420025}
+{"sent": "the tallest elephant", "ann_id": 583657, "best_split": [1, 3], "split_score": 0.3981660231420025}
+{"sent": "elephant with feet on dry land where more grass is", "ann_id": 583657, "best_split": [1, 3], "split_score": 0.3981660231420025}
+{"sent": "elephant bigger ears", "ann_id": 580958, "best_split": [1, 5], "split_score": 0.45833333329603404}
+{"sent": "elephant in water", "ann_id": 580958, "best_split": [1, 2], "split_score": 0.32142857141575937}
+{"sent": "elephant ears extended", "ann_id": 580958, "best_split": [1, 5], "split_score": 0.45833333329603404}

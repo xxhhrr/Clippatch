@@ -1,0 +1,4 @@
+{"sent": "chair with no one in it", "ann_id": 379190, "best_split": [3, 3], "split_score": 0.4368151934921813}
+{"sent": "chair", "ann_id": 376350, "best_split": [1, 3], "split_score": 0.7597046915480051}
+{"sent": "back of chair", "ann_id": 376350, "best_split": [1, 3], "split_score": 0.7597046915480051}
+{"sent": "chair back the boy is sitting on", "ann_id": 376350, "best_split": [1, 2], "split_score": 0.5173788265099897}

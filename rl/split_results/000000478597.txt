@@ -1,0 +1,7 @@
+{"sent": "pizza by blue shirt", "ann_id": 1077690, "best_split": [2, 2], "split_score": 0.607142857094456}
+{"sent": "pizza close to the blue thing", "ann_id": 1077690, "best_split": [2, 2], "split_score": 0.607142857094456}
+{"sent": "pizza near one o clock", "ann_id": 1077326, "best_split": [2, 1], "split_score": 0.27024872447902387}
+{"sent": "pizza behind wraps", "ann_id": 1077326, "best_split": [2, 1], "split_score": 0.27024872447902387}
+{"sent": "pizza with green black red on topping", "ann_id": 1075349, "best_split": [3, 1], "split_score": 0.5560552023282134}
+{"sent": "pizza above 320", "ann_id": 1075349, "best_split": [3, 1], "split_score": 0.5560552023282134}
+{"sent": "closest pizza", "ann_id": 1075349, "best_split": [3, 1], "split_score": 0.5560552023282134}

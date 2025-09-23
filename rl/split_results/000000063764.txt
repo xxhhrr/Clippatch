@@ -1,0 +1,7 @@
+{"sent": "full banana in corner", "ann_id": 1044198, "best_split": [2, 3], "split_score": 0.5081368970797774}
+{"sent": "ri ght banana", "ann_id": 1044198, "best_split": [1, 5], "split_score": 0.6363195185250587}
+{"sent": "banana bundle with less gray stuff on the stem", "ann_id": 1042627, "best_split": [2, 1], "split_score": 0.4085460239602381}
+{"sent": "banana bunch with smaller stems", "ann_id": 1042627, "best_split": [2, 1], "split_score": 0.4085460239602381}
+{"sent": "largest bunch of bananas", "ann_id": 1042074, "best_split": [1, 2], "split_score": 0.3306889352719747}
+{"sent": "bananas near the fron", "ann_id": 1042074, "best_split": [1, 2], "split_score": 0.3306889352719747}
+{"sent": "closest bunch", "ann_id": 1042074, "best_split": [1, 2], "split_score": 0.3306889352719747}

@@ -1,0 +1,9 @@
+{"sent": "girl in dark gray", "ann_id": 1743950, "best_split": [1, 2], "split_score": 0.3549904336593196}
+{"sent": "darkest shirt", "ann_id": 1743950, "best_split": [1, 2], "split_score": 0.3549904336593196}
+{"sent": "girl in dark shirt", "ann_id": 1743950, "best_split": [1, 2], "split_score": 0.3549904336593196}
+{"sent": "all gray girl", "ann_id": 528629, "best_split": [3, 3], "split_score": 0.16583108367405852}
+{"sent": "girl in white dress", "ann_id": 528629, "best_split": [3, 2], "split_score": 0.3514511873085977}
+{"sent": "girl in the long white dress", "ann_id": 528629, "best_split": [3, 2], "split_score": 0.3514511873085977}
+{"sent": "woman in white v neck", "ann_id": 524843, "best_split": [1, 3], "split_score": 0.5815262471512308}
+{"sent": "white shirt black skirt", "ann_id": 524843, "best_split": [1, 3], "split_score": 0.5815262471512308}
+{"sent": "white shirt", "ann_id": 524843, "best_split": [1, 3], "split_score": 0.5815262471512308}

@@ -1,0 +1,7 @@
+{"sent": "brocoli at 9 pm not 8 m", "ann_id": 1560689, "best_split": [3, 2], "split_score": 0.18942101499137945}
+{"sent": "smaller broccolis", "ann_id": 1560492, "best_split": [1, 3], "split_score": 0.28096343814077834}
+{"sent": "broccoli 800", "ann_id": 1560492, "best_split": [1, 2], "split_score": 0.48611965686466685}
+{"sent": "broccoli far left lowest corner", "ann_id": 1560492, "best_split": [1, 3], "split_score": 0.28096343814077834}
+{"sent": "green up high", "ann_id": 1058321, "best_split": [3, 3], "split_score": 0.6693046918217489}
+{"sent": "longest piece of broccoli", "ann_id": 1058321, "best_split": [3, 3], "split_score": 0.6693046918217489}
+{"sent": "broc noon", "ann_id": 1058321, "best_split": [3, 3], "split_score": 0.6693046918217489}

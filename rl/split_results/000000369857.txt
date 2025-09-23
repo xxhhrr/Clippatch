@@ -1,0 +1,6 @@
+{"sent": "beer glass in focus", "ann_id": 683061, "best_split": [1, 5], "split_score": 0.6545924967053601}
+{"sent": "the in focus beer", "ann_id": 683061, "best_split": [1, 5], "split_score": 0.6545924967053601}
+{"sent": "glass", "ann_id": 683061, "best_split": [1, 5], "split_score": 0.6545924967053601}
+{"sent": "glass near hand", "ann_id": 681952, "best_split": [2, 1], "split_score": 0.19365582869969644}
+{"sent": "glass by hand", "ann_id": 681952, "best_split": [2, 1], "split_score": 0.19365582869969644}
+{"sent": "glass nearest to hand", "ann_id": 681952, "best_split": [2, 1], "split_score": 0.19365582869969644}

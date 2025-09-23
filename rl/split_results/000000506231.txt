@@ -1,0 +1,10 @@
+{"sent": "man with hands in lap", "ann_id": 2152134, "best_split": [2, 3], "split_score": 0.8000847995759927}
+{"sent": "black shirt guy next to the guy looking at you", "ann_id": 2152134, "best_split": [1, 2], "split_score": 0.3465401785576156}
+{"sent": "depressed looking guy", "ann_id": 2152134, "best_split": [1, 2], "split_score": 0.3465401785576156}
+{"sent": "plaid shirt", "ann_id": 1682867, "best_split": [2, 3], "split_score": 0.8905030354628682}
+{"sent": "woman in plaid", "ann_id": 1682867, "best_split": [2, 3], "split_score": 0.8905030354628682}
+{"sent": "woman in plaid shirt", "ann_id": 1682867, "best_split": [2, 3], "split_score": 0.8905030354628682}
+{"sent": "man turned", "ann_id": 1678535, "best_split": [2, 3], "split_score": 0.6869842459970945}
+{"sent": "the man at the head of the table in a gray jacket with white lined hood", "ann_id": 1678535, "best_split": [2, 3], "split_score": 0.6869842459970945}
+{"sent": "guy looking back at you", "ann_id": 1678535, "best_split": [2, 3], "split_score": 0.6869842459970945}
+{"sent": "man at head of table turning to face camera", "ann_id": 1678535, "best_split": [2, 3], "split_score": 0.6869842459970945}

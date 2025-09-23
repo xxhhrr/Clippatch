@@ -1,0 +1,10 @@
+{"sent": "light brown hair under black phone", "ann_id": 2152869, "best_split": [1, 3], "split_score": 0.3291481335325067}
+{"sent": "light brown hair", "ann_id": 2152869, "best_split": [3, 3], "split_score": 0.7788365807454364}
+{"sent": "head under black phone", "ann_id": 2152869, "best_split": [1, 3], "split_score": 0.3291481335325067}
+{"sent": "person in black under silver phone", "ann_id": 558705, "best_split": [3, 1], "split_score": 0.14585187381855771}
+{"sent": "head by silver flip", "ann_id": 558705, "best_split": [3, 1], "split_score": 0.14585187381855771}
+{"sent": "dark hair in corner", "ann_id": 555188, "best_split": [2, 3], "split_score": 0.7027027026179171}
+{"sent": "long dark hair", "ann_id": 555188, "best_split": [2, 3], "split_score": 0.7027027026179171}
+{"sent": "man holding black phone", "ann_id": 430627, "best_split": [1, 2], "split_score": 0.8188775509877679}
+{"sent": "head cut off on the side", "ann_id": 430627, "best_split": [1, 2], "split_score": 0.8188775509877679}
+{"sent": "the black cell phone holder", "ann_id": 430627, "best_split": [1, 2], "split_score": 0.8188775509877679}

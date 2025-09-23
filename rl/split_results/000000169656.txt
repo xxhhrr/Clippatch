@@ -1,0 +1,9 @@
+{"sent": "hidden bus", "ann_id": 168568, "best_split": [3, 3], "split_score": 0.41692789961391014}
+{"sent": "dark area next to green bus", "ann_id": 168568, "best_split": [3, 2], "split_score": 0.2798690670703917}
+{"sent": "most cut off bus", "ann_id": 168568, "best_split": [3, 3], "split_score": 0.41692789961391014}
+{"sent": "green bus", "ann_id": 168025, "best_split": [3, 2], "split_score": 0.5357744107180372}
+{"sent": "green bus", "ann_id": 168025, "best_split": [3, 2], "split_score": 0.5357744107180372}
+{"sent": "short bus", "ann_id": 168025, "best_split": [3, 2], "split_score": 0.5357744107180372}
+{"sent": "red bus", "ann_id": 166879, "best_split": [1, 5], "split_score": 0.3173115276907348}
+{"sent": "red double decker", "ann_id": 166879, "best_split": [1, 5], "split_score": 0.3173115276907348}
+{"sent": "red bus", "ann_id": 166879, "best_split": [1, 5], "split_score": 0.3173115276907348}

@@ -1,0 +1,5 @@
+{"sent": "standing cow facing camera", "ann_id": 77757, "best_split": [3, 2], "split_score": 0.3568491272633785}
+{"sent": "full animal looking at us", "ann_id": 77757, "best_split": [3, 2], "split_score": 0.3568491272633785}
+{"sent": "standing looking back", "ann_id": 1820652, "best_split": [2, 2], "split_score": 0.37658323278222383}
+{"sent": "cow that is standing with its back turn next to white bird", "ann_id": 1820652, "best_split": [2, 3], "split_score": 0.5355850421608087}
+{"sent": "cutoff cow with horns not sitting", "ann_id": 1820652, "best_split": [2, 3], "split_score": 0.5355850421608087}

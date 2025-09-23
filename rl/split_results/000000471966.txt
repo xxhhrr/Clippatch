@@ -1,0 +1,6 @@
+{"sent": "batter", "ann_id": 498000, "best_split": [2, 3], "split_score": 0.5467904098390465}
+{"sent": "heeeeeeeeeey batter batter batter", "ann_id": 498000, "best_split": [2, 3], "split_score": 0.5467904098390465}
+{"sent": "batter", "ann_id": 498000, "best_split": [2, 3], "split_score": 0.5467904098390465}
+{"sent": "black shirt", "ann_id": 469965, "best_split": [3, 3], "split_score": 0.5789821545639487}
+{"sent": "umpire", "ann_id": 469965, "best_split": [3, 1], "split_score": 0.20429104476420878}
+{"sent": "ump", "ann_id": 469965, "best_split": [3, 1], "split_score": 0.20429104476420878}

@@ -1,0 +1,5 @@
+{"sent": "man", "ann_id": 1254732, "best_split": [1, 5], "split_score": 0.1326002587244149}
+{"sent": "guy with stache", "ann_id": 1254732, "best_split": [1, 3], "split_score": 0.1857514490353817}
+{"sent": "woman with blond hair", "ann_id": 422628, "best_split": [1, 2], "split_score": 0.5612159999820411}
+{"sent": "girl in green", "ann_id": 422628, "best_split": [1, 2], "split_score": 0.5612159999820411}
+{"sent": "lady", "ann_id": 422628, "best_split": [1, 2], "split_score": 0.5612159999820411}

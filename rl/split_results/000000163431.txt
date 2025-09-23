@@ -1,0 +1,5 @@
+{"sent": "sorry red suitcase", "ann_id": 1445666, "best_split": [3, 1], "split_score": 0.3839265850731965}
+{"sent": "pinkinsh bag behind back suitcase", "ann_id": 1445666, "best_split": [1, 3], "split_score": 0.16253971219573257}
+{"sent": "open suitcase", "ann_id": 1183172, "best_split": [2, 1], "split_score": 0.6016140395631329}
+{"sent": "opened suitcase", "ann_id": 1183172, "best_split": [2, 1], "split_score": 0.6016140395631329}
+{"sent": "black suitcase", "ann_id": 1183172, "best_split": [2, 1], "split_score": 0.6016140395631329}

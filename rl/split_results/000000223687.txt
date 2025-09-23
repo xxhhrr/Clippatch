@@ -1,0 +1,8 @@
+{"sent": "apple surrounded by other apples directly behind stick with a lot of candy on it", "ann_id": 2112286, "best_split": [2, 2], "split_score": 0.1161954793588031}
+{"sent": "cen ter", "ann_id": 2112286, "best_split": [5, 1], "split_score": 0.11868351062843388}
+{"sent": "the apple with a stem and crooked stick", "ann_id": 2112259, "best_split": [2, 3], "split_score": 0.481485862950256}
+{"sent": "apple with stem", "ann_id": 2112259, "best_split": [2, 3], "split_score": 0.481485862950256}
+{"sent": "closest row to you western most apple", "ann_id": 2112224, "best_split": [3, 3], "split_score": 0.7273055403848934}
+{"sent": "7 o clock cherry", "ann_id": 2112224, "best_split": [3, 3], "split_score": 0.7273055403848934}
+{"sent": "third column 3 up", "ann_id": 2111907, "best_split": [5, 1], "split_score": 0.30656934303663197}
+{"sent": "apple at 6", "ann_id": 2111654, "best_split": [3, 1], "split_score": 0.32577257723817743}

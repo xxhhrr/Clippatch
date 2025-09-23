@@ -1,0 +1,10 @@
+{"sent": "jean", "ann_id": 1200636, "best_split": [3, 2], "split_score": 0.6840849438458501}
+{"sent": "folded and rumpled dark blue cloth touching pizza box", "ann_id": 1200636, "best_split": [3, 2], "split_score": 0.6840849438458501}
+{"sent": "jeans touching pizza corner", "ann_id": 1200636, "best_split": [3, 3], "split_score": 0.6648011781053311}
+{"sent": "upper section of pizza", "ann_id": 1074257, "best_split": [3, 3], "split_score": 0.3007341373491434}
+{"sent": "the pizza near the feet", "ann_id": 1074257, "best_split": [3, 3], "split_score": 0.3007341373491434}
+{"sent": "pizza at the 300 position", "ann_id": 1073513, "best_split": [5, 1], "split_score": 0.2773701762479876}
+{"sent": "pizza furthest away from person", "ann_id": 1073513, "best_split": [5, 1], "split_score": 0.2773701762479876}
+{"sent": "white legs", "ann_id": 542942, "best_split": [3, 2], "split_score": 0.6533933517439929}
+{"sent": "feet", "ann_id": 542942, "best_split": [3, 2], "split_score": 0.6533933517439929}
+{"sent": "legs", "ann_id": 542942, "best_split": [3, 2], "split_score": 0.6533933517439929}

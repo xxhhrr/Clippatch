@@ -1,0 +1,5 @@
+{"sent": "big brown chunk", "ann_id": 2222080, "best_split": [2, 3], "split_score": 0.2835424710082598}
+{"sent": "dark blob in corner nearest", "ann_id": 2222080, "best_split": [1, 5], "split_score": 0.23843344153424983}
+{"sent": "upper level chocolate yellow wrapper", "ann_id": 1086104, "best_split": [2, 2], "split_score": 0.19330265035761762}
+{"sent": "cupcake yellow wrapper", "ann_id": 1086104, "best_split": [2, 3], "split_score": 0.2654929577153177}
+{"sent": "muffin with yellow wrapper", "ann_id": 1086104, "best_split": [2, 3], "split_score": 0.2654929577153177}

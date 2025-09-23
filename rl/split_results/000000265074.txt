@@ -1,0 +1,9 @@
+{"sent": "largest brocoli", "ann_id": 2187699, "best_split": [2, 1], "split_score": 0.4804311561503775}
+{"sent": "larger broc", "ann_id": 2187699, "best_split": [2, 1], "split_score": 0.4804311561503775}
+{"sent": "biggest and closest brocolli", "ann_id": 2187699, "best_split": [2, 1], "split_score": 0.4804311561503775}
+{"sent": "white space near carrots", "ann_id": 1961347, "best_split": [2, 2], "split_score": 0.7402515722688481}
+{"sent": "floret near carrot at 3", "ann_id": 1058473, "best_split": [2, 1], "split_score": 0.11574489465901931}
+{"sent": "brocolli at 3 by carrots", "ann_id": 1058473, "best_split": [3, 1], "split_score": 0.32597204273898905}
+{"sent": "smaller brocolli", "ann_id": 1058473, "best_split": [3, 1], "split_score": 0.32597204273898905}
+{"sent": "broccoli stem", "ann_id": 1058206, "best_split": [3, 2], "split_score": 0.5449039983108592}
+{"sent": "broccoli with the stem up and at an angle", "ann_id": 1058206, "best_split": [3, 2], "split_score": 0.5449039983108592}

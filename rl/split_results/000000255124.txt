@@ -1,0 +1,8 @@
+{"sent": "muffin on side nearest us", "ann_id": 2119517, "best_split": [2, 2], "split_score": 0.19754464284139472}
+{"sent": "muffin near blue flower on plate", "ann_id": 2119517, "best_split": [2, 2], "split_score": 0.19754464284139472}
+{"sent": "big thing on plate", "ann_id": 2119089, "best_split": [2, 1], "split_score": 0.4484611626614397}
+{"sent": "big cake on plate", "ann_id": 2119089, "best_split": [2, 3], "split_score": 0.4780476133222845}
+{"sent": "bread at main view", "ann_id": 2119089, "best_split": [2, 3], "split_score": 0.4780476133222845}
+{"sent": "cake inside pan", "ann_id": 1088253, "best_split": [2, 3], "split_score": 0.4327441258425583}
+{"sent": "loaf inside pan", "ann_id": 1088253, "best_split": [2, 3], "split_score": 0.4327441258425583}
+{"sent": "cake in pan", "ann_id": 1088253, "best_split": [2, 3], "split_score": 0.4327441258425583}

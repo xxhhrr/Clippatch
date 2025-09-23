@@ -1,0 +1,8 @@
+{"sent": "horse at 3", "ann_id": 56192, "best_split": [2, 1], "split_score": 0.17290438829637358}
+{"sent": "horse at 300", "ann_id": 56192, "best_split": [3, 1], "split_score": 0.16639302205405884}
+{"sent": "horse with white spot on forehead", "ann_id": 54816, "best_split": [1, 5], "split_score": 0.35792951538565254}
+{"sent": "horse with white spot on head", "ann_id": 54816, "best_split": [1, 5], "split_score": 0.35792951538565254}
+{"sent": "animal closest to you", "ann_id": 54816, "best_split": [3, 3], "split_score": 0.3299284984256986}
+{"sent": "horse above writing", "ann_id": 54398, "best_split": [2, 2], "split_score": 0.2895045441007399}
+{"sent": "leftest horse", "ann_id": 54398, "best_split": [2, 2], "split_score": 0.2895045441007399}
+{"sent": "horse touching photos by", "ann_id": 54398, "best_split": [2, 2], "split_score": 0.2895045441007399}

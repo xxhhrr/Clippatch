@@ -1,0 +1,5 @@
+{"sent": "monitor that does not have black sticker but still has stickers everywhere else", "ann_id": 2134255, "best_split": [3, 3], "split_score": 0.1891891891678841}
+{"sent": "screen with 3 thumbnail pics", "ann_id": 2134255, "best_split": [3, 3], "split_score": 0.4426229507592045}
+{"sent": "screen with 3 black dots", "ann_id": 2134255, "best_split": [2, 3], "split_score": 0.5821107429505311}
+{"sent": "monitor with couple of tabs on it", "ann_id": 321223, "best_split": [3, 1], "split_score": 0.10270270269807645}
+{"sent": "the computer screen closest to us", "ann_id": 321223, "best_split": [2, 1], "split_score": 0.3150510203956054}

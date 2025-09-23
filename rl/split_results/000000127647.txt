@@ -1,0 +1,6 @@
+{"sent": "bigger one", "ann_id": 583012, "best_split": [1, 2], "split_score": 0.7615991708880102}
+{"sent": "mom", "ann_id": 583012, "best_split": [2, 1], "split_score": 0.33093416851379465}
+{"sent": "elephant whose face you can not see", "ann_id": 583012, "best_split": [1, 2], "split_score": 0.7615991708880102}
+{"sent": "baby elephant", "ann_id": 582836, "best_split": [1, 2], "split_score": 0.5347842495743244}
+{"sent": "let me put my trunk on your butt", "ann_id": 582836, "best_split": [1, 3], "split_score": 0.4016142499164482}
+{"sent": "smaller elephant", "ann_id": 582836, "best_split": [3, 1], "split_score": 0.3873278236781223}

@@ -1,0 +1,6 @@
+{"sent": "white car parked in by other white vehicles", "ann_id": 1770299, "best_split": [3, 3], "split_score": 0.47787610611917253}
+{"sent": "white car directly behind van", "ann_id": 1770299, "best_split": [3, 3], "split_score": 0.47787610611917253}
+{"sent": "white car not by cop", "ann_id": 1770299, "best_split": [3, 3], "split_score": 0.47787610611917253}
+{"sent": "two door white car", "ann_id": 133868, "best_split": [3, 2], "split_score": 0.365691489326967}
+{"sent": "white car before motorcycle", "ann_id": 133868, "best_split": [3, 2], "split_score": 0.365691489326967}
+{"sent": "closest white car", "ann_id": 133868, "best_split": [3, 2], "split_score": 0.365691489326967}

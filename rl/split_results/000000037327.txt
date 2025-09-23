@@ -1,0 +1,8 @@
+{"sent": "suitcase in between on ground", "ann_id": 2080939, "best_split": [2, 2], "split_score": 0.2078493888857626}
+{"sent": "suitcase partially hidden between the other two", "ann_id": 2080939, "best_split": [2, 3], "split_score": 0.2857142856827673}
+{"sent": "green", "ann_id": 1183713, "best_split": [1, 5], "split_score": 0.4504209240761891}
+{"sent": "luggage in persons hand", "ann_id": 1183713, "best_split": [2, 1], "split_score": 0.2970765852217583}
+{"sent": "green case hand on", "ann_id": 1183713, "best_split": [1, 5], "split_score": 0.4504209240761891}
+{"sent": "the black suitcase", "ann_id": 1182819, "best_split": [2, 3], "split_score": 0.6700376759200835}
+{"sent": "black suitcase", "ann_id": 1182819, "best_split": [2, 3], "split_score": 0.6700376759200835}
+{"sent": "black suitcase", "ann_id": 1182819, "best_split": [2, 3], "split_score": 0.6700376759200835}

@@ -1,0 +1,6 @@
+{"sent": "the baby cow", "ann_id": 70589, "best_split": [2, 3], "split_score": 0.22026237457609277}
+{"sent": "baby cow", "ann_id": 70589, "best_split": [5, 1], "split_score": 0.2821631493220208}
+{"sent": "the baby cow", "ann_id": 70589, "best_split": [2, 3], "split_score": 0.22026237457609277}
+{"sent": "big cow", "ann_id": 70179, "best_split": [3, 2], "split_score": 0.5666887856131682}
+{"sent": "cow", "ann_id": 70179, "best_split": [3, 2], "split_score": 0.5666887856131682}
+{"sent": "larger older bull", "ann_id": 70179, "best_split": [3, 2], "split_score": 0.5666887856131682}

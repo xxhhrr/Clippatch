@@ -1,0 +1,20 @@
+{"sent": "fridge in the beginning of the row", "ann_id": 1983796, "best_split": [3, 3], "split_score": 0.34674996992109214}
+{"sent": "tallest single fridge", "ann_id": 1983796, "best_split": [3, 2], "split_score": 0.25918275704901816}
+{"sent": "one she is touching", "ann_id": 1983781, "best_split": [3, 2], "split_score": 0.19366197180967626}
+{"sent": "refridgerator woman is touching", "ann_id": 1983781, "best_split": [3, 2], "split_score": 0.19366197180967626}
+{"sent": "refridgerator that woman is touching", "ann_id": 1983781, "best_split": [3, 2], "split_score": 0.19366197180967626}
+{"sent": "furthest door from person that is fully visible", "ann_id": 1983739, "best_split": [2, 1], "split_score": 0.12695682091426264}
+{"sent": "thin fridge with visible door handle that is long and thin", "ann_id": 1983739, "best_split": [3, 1], "split_score": 0.143052477714977}
+{"sent": "tall and short count 1 from 300", "ann_id": 1983739, "best_split": [2, 3], "split_score": 0.33202537983536273}
+{"sent": "fridge with 3 vents showing", "ann_id": 1983722, "best_split": [5, 1], "split_score": 0.08136094673803985}
+{"sent": "lowest panel at end of row", "ann_id": 1983722, "best_split": [5, 1], "split_score": 0.08136094673803985}
+{"sent": "hmm small fridge closest to edge with two above it", "ann_id": 1983722, "best_split": [5, 1], "split_score": 0.08136094673803985}
+{"sent": "no handle middle way down other side of black not woman side", "ann_id": 1983674, "best_split": [3, 1], "split_score": 0.15039388874729087}
+{"sent": "fride 6th stack closest to ceiling", "ann_id": 1983284, "best_split": [1, 5], "split_score": 0.2075892856932235}
+{"sent": "small square fridge nex to woman", "ann_id": 1647804, "best_split": [1, 5], "split_score": 0.4465086482615074}
+{"sent": "fridge small at his foot", "ann_id": 1647804, "best_split": [1, 5], "split_score": 0.4465086482615074}
+{"sent": "the fridge with red tag", "ann_id": 1647059, "best_split": [2, 3], "split_score": 0.378087831612753}
+{"sent": "fridge with red tag", "ann_id": 1647059, "best_split": [2, 3], "split_score": 0.378087831612753}
+{"sent": "red tag", "ann_id": 1647059, "best_split": [2, 3], "split_score": 0.378087831612753}
+{"sent": "fridge partially covered by man on his side", "ann_id": 1983816, "best_split": [3, 3], "split_score": 0.2950383933409571}
+{"sent": "short thing next to woman with two levels", "ann_id": 1983816, "best_split": [3, 3], "split_score": 0.2950383933409571}

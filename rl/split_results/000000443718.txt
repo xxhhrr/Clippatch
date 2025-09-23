@@ -1,0 +1,5 @@
+{"sent": "player", "ann_id": 1718412, "best_split": [1, 2], "split_score": 0.4243465524891746}
+{"sent": "tennis player", "ann_id": 1718412, "best_split": [1, 3], "split_score": 0.4864635611618554}
+{"sent": "in white", "ann_id": 1718412, "best_split": [1, 2], "split_score": 0.4243465524891746}
+{"sent": "red shirt", "ann_id": 421487, "best_split": [3, 3], "split_score": 0.5231494315881412}
+{"sent": "red shirt", "ann_id": 421487, "best_split": [3, 3], "split_score": 0.5231494315881412}

@@ -1,0 +1,6 @@
+{"sent": "has a lot of open screens", "ann_id": 35136, "best_split": [2, 3], "split_score": 0.2354014598271668}
+{"sent": "monitor with windows open", "ann_id": 35136, "best_split": [3, 3], "split_score": 0.23918417796057104}
+{"sent": "monitor with many windows open", "ann_id": 35136, "best_split": [3, 3], "split_score": 0.23918417796057104}
+{"sent": "black monitor white box on it", "ann_id": 29688, "best_split": [2, 2], "split_score": 0.32853566956128477}
+{"sent": "the main desktop computer biggest", "ann_id": 29688, "best_split": [2, 2], "split_score": 0.32853566956128477}
+{"sent": "desktop with blue bg", "ann_id": 29688, "best_split": [2, 2], "split_score": 0.32853566956128477}

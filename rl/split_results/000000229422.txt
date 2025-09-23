@@ -1,0 +1,6 @@
+{"sent": "blue 24", "ann_id": 1714484, "best_split": [3, 2], "split_score": 0.48210885030749634}
+{"sent": "orange pants", "ann_id": 1714484, "best_split": [3, 2], "split_score": 0.48210885030749634}
+{"sent": "red pants", "ann_id": 1714484, "best_split": [3, 2], "split_score": 0.48210885030749634}
+{"sent": "yellow scarf", "ann_id": 1188519, "best_split": [3, 3], "split_score": 0.46399315314048256}
+{"sent": "yellow", "ann_id": 1188519, "best_split": [3, 3], "split_score": 0.46399315314048256}
+{"sent": "yellow guy", "ann_id": 1188519, "best_split": [3, 3], "split_score": 0.46399315314048256}

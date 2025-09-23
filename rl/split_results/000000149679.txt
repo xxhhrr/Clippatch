@@ -1,0 +1,11 @@
+{"sent": "red shirt", "ann_id": 237240, "best_split": [2, 3], "split_score": 0.36077586203008877}
+{"sent": "red shirt woman", "ann_id": 237240, "best_split": [3, 3], "split_score": 0.28380852729743544}
+{"sent": "woman red shirt", "ann_id": 237240, "best_split": [2, 3], "split_score": 0.36077586203008877}
+{"sent": "blue jean red shoe", "ann_id": 236519, "best_split": [2, 3], "split_score": 0.5090909090520175}
+{"sent": "lower leg", "ann_id": 236519, "best_split": [2, 3], "split_score": 0.5090909090520175}
+{"sent": "leg", "ann_id": 236519, "best_split": [2, 3], "split_score": 0.5090909090520175}
+{"sent": "man in blue shirt and shorts", "ann_id": 220390, "best_split": [1, 2], "split_score": 0.2227359693788769}
+{"sent": "blue shirt", "ann_id": 220390, "best_split": [2, 1], "split_score": 0.02198827292037619}
+{"sent": "man standing next to woman in red", "ann_id": 220390, "best_split": [2, 3], "split_score": 0.49461439029571147}
+{"sent": "car you can see the passenger door", "ann_id": 145331, "best_split": [5, 1], "split_score": 0.35036266159331736}
+{"sent": "four door car", "ann_id": 145331, "best_split": [2, 3], "split_score": 0.5207193119115794}

@@ -1,0 +1,17 @@
+{"sent": "blurry man in navy blue", "ann_id": 1706007, "best_split": [1, 5], "split_score": 0.4284699674889945}
+{"sent": "gray hair man facing away", "ann_id": 1706007, "best_split": [1, 3], "split_score": 0.2547659266255571}
+{"sent": "laptop facing away from us", "ann_id": 1099484, "best_split": [2, 3], "split_score": 0.4117124124445258}
+{"sent": "black back of laptop", "ann_id": 1099484, "best_split": [2, 3], "split_score": 0.4117124124445258}
+{"sent": "back of laptop hp screen", "ann_id": 1099484, "best_split": [2, 3], "split_score": 0.4117124124445258}
+{"sent": "partial dark jacket", "ann_id": 512695, "best_split": [2, 2], "split_score": 0.7399553570838683}
+{"sent": "black shirted shoulder obscuring the view", "ann_id": 512695, "best_split": [2, 2], "split_score": 0.7399553570838683}
+{"sent": "shoulder of jacket barely showing", "ann_id": 512695, "best_split": [1, 3], "split_score": 0.40441016726024276}
+{"sent": "partial person in white", "ann_id": 467619, "best_split": [1, 5], "split_score": 0.6199237526421413}
+{"sent": "partial person white shirt", "ann_id": 467619, "best_split": [1, 5], "split_score": 0.6199237526421413}
+{"sent": "blurred gray hair closest", "ann_id": 467619, "best_split": [1, 5], "split_score": 0.6199237526421413}
+{"sent": "older lady", "ann_id": 452031, "best_split": [1, 2], "split_score": 0.5810885864835779}
+{"sent": "woman with the glasses", "ann_id": 452031, "best_split": [1, 2], "split_score": 0.5810885864835779}
+{"sent": "woman with red hair typing at computer", "ann_id": 452031, "best_split": [1, 2], "split_score": 0.5810885864835779}
+{"sent": "girl in gray facing us", "ann_id": 443094, "best_split": [2, 3], "split_score": 0.4287682918545332}
+{"sent": "chunky girl", "ann_id": 443094, "best_split": [2, 3], "split_score": 0.4287682918545332}
+{"sent": "hand on face", "ann_id": 443094, "best_split": [1, 3], "split_score": 0.46703430772207144}

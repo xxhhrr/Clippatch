@@ -1,0 +1,11 @@
+{"sent": "leader partial", "ann_id": 401839, "best_split": [3, 1], "split_score": 0.23927570595821968}
+{"sent": "teal not blue bus on the side", "ann_id": 401839, "best_split": [3, 3], "split_score": 0.595493562151892}
+{"sent": "white truck in front", "ann_id": 401826, "best_split": [3, 1], "split_score": 0.1478040540451373}
+{"sent": "white truck", "ann_id": 401826, "best_split": [3, 1], "split_score": 0.1478040540451373}
+{"sent": "the white truck", "ann_id": 401826, "best_split": [3, 1], "split_score": 0.1478040540451373}
+{"sent": "blue truck closest to white truck and pallets", "ann_id": 401655, "best_split": [5, 1], "split_score": 0.14825907898275373}
+{"sent": "blue bus closest to white bus", "ann_id": 401655, "best_split": [5, 1], "split_score": 0.14825907898275373}
+{"sent": "red and blue truck next to white truck", "ann_id": 401655, "best_split": [5, 1], "split_score": 0.14825907898275373}
+{"sent": "blue trunk with white behind", "ann_id": 395786, "best_split": [3, 2], "split_score": 0.22319517413668075}
+{"sent": "blue and red", "ann_id": 395786, "best_split": [3, 2], "split_score": 0.22319517413668075}
+{"sent": "blue red sandwiched between bl and red", "ann_id": 395786, "best_split": [3, 2], "split_score": 0.22319517413668075}

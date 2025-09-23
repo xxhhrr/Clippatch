@@ -1,0 +1,12 @@
+{"sent": "white shirt girl", "ann_id": 1716038, "best_split": [1, 5], "split_score": 0.3068181817870517}
+{"sent": "girl with white tee shirt on", "ann_id": 1716038, "best_split": [1, 5], "split_score": 0.3068181817870517}
+{"sent": "person wearing white shirt", "ann_id": 1716038, "best_split": [1, 5], "split_score": 0.3068181817870517}
+{"sent": "man with black shirt next to man with red hat", "ann_id": 1702423, "best_split": [1, 3], "split_score": 0.21694015442706682}
+{"sent": "man next to man in red hat", "ann_id": 1702423, "best_split": [1, 3], "split_score": 0.21694015442706682}
+{"sent": "man next to red hat person", "ann_id": 1702423, "best_split": [3, 3], "split_score": 0.3098469534637818}
+{"sent": "hands on his hips", "ann_id": 1227254, "best_split": [2, 3], "split_score": 0.40228780155702315}
+{"sent": "guy with hands on hip", "ann_id": 1227254, "best_split": [3, 2], "split_score": 0.29578966065946083}
+{"sent": "hands on hips black shirt", "ann_id": 1227254, "best_split": [3, 2], "split_score": 0.29578966065946083}
+{"sent": "man with the ball", "ann_id": 1224959, "best_split": [1, 3], "split_score": 0.20077220076008856}
+{"sent": "guy with ball", "ann_id": 1224959, "best_split": [3, 2], "split_score": 0.1985142385267732}
+{"sent": "man holding ball", "ann_id": 1224959, "best_split": [3, 2], "split_score": 0.1985142385267732}

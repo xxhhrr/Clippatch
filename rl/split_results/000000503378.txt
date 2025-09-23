@@ -1,0 +1,6 @@
+{"sent": "yellow car", "ann_id": 141828, "best_split": [3, 3], "split_score": 0.3952041280322956}
+{"sent": "yellow cab", "ann_id": 141828, "best_split": [3, 3], "split_score": 0.3952041280322956}
+{"sent": "taxi", "ann_id": 141828, "best_split": [3, 3], "split_score": 0.3952041280322956}
+{"sent": "the car not the cab", "ann_id": 141356, "best_split": [5, 1], "split_score": 0.16543164133332422}
+{"sent": "gray car", "ann_id": 141356, "best_split": [3, 3], "split_score": 0.44809322025987053}
+{"sent": "tan car", "ann_id": 141356, "best_split": [3, 3], "split_score": 0.44809322025987053}

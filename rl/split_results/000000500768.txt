@@ -1,0 +1,15 @@
+{"sent": "partial chair next to table with lamp", "ann_id": 1949893, "best_split": [1, 3], "split_score": 0.19932432431229943}
+{"sent": "cutoff couch", "ann_id": 1949893, "best_split": [2, 3], "split_score": 0.22485207098215848}
+{"sent": "arm of black sofa in the corner", "ann_id": 1949893, "best_split": [3, 1], "split_score": 0.11635220125132793}
+{"sent": "girl on couch", "ann_id": 224774, "best_split": [3, 2], "split_score": 0.36031235642073384}
+{"sent": "girl", "ann_id": 224774, "best_split": [3, 2], "split_score": 0.36031235642073384}
+{"sent": "girl", "ann_id": 224774, "best_split": [3, 2], "split_score": 0.36031235642073384}
+{"sent": "ponytail guy", "ann_id": 219298, "best_split": [1, 3], "split_score": 0.43194842404942924}
+{"sent": "man with goatee", "ann_id": 219298, "best_split": [1, 3], "split_score": 0.43194842404942924}
+{"sent": "guy watching tv", "ann_id": 219298, "best_split": [2, 3], "split_score": 0.45740820465850246}
+{"sent": "striped polo", "ann_id": 191755, "best_split": [1, 2], "split_score": 0.6021432344501493}
+{"sent": "pinstripe shirt", "ann_id": 191755, "best_split": [1, 2], "split_score": 0.6021432344501493}
+{"sent": "guy with stripes", "ann_id": 191755, "best_split": [1, 2], "split_score": 0.6021432344501493}
+{"sent": "back of couch", "ann_id": 111232, "best_split": [3, 1], "split_score": 0.6719722476955426}
+{"sent": "sofa", "ann_id": 111232, "best_split": [3, 1], "split_score": 0.6719722476955426}
+{"sent": "black couch", "ann_id": 111232, "best_split": [3, 1], "split_score": 0.6719722476955426}

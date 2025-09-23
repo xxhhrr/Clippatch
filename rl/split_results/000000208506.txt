@@ -1,0 +1,6 @@
+{"sent": "guy not facing camera", "ann_id": 223723, "best_split": [1, 2], "split_score": 0.8988360969029482}
+{"sent": "guy wearing glasses", "ann_id": 223723, "best_split": [1, 2], "split_score": 0.8988360969029482}
+{"sent": "guy with glasses", "ann_id": 223723, "best_split": [1, 2], "split_score": 0.8988360969029482}
+{"sent": "man facing camera", "ann_id": 211418, "best_split": [1, 3], "split_score": 0.5955244169928096}
+{"sent": "striped shirt", "ann_id": 211418, "best_split": [1, 3], "split_score": 0.5955244169928096}
+{"sent": "guy without glasses", "ann_id": 211418, "best_split": [1, 3], "split_score": 0.5955244169928096}

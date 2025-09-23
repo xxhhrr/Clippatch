@@ -1,0 +1,5 @@
+{"sent": "zebra butt nearest you", "ann_id": 590647, "best_split": [3, 1], "split_score": 0.2818864523711693}
+{"sent": "zebra closest to tree trunk", "ann_id": 590647, "best_split": [3, 1], "split_score": 0.2818864523711693}
+{"sent": "zebra farthest from wood beam", "ann_id": 590647, "best_split": [3, 1], "split_score": 0.2818864523711693}
+{"sent": "profile zebra", "ann_id": 588626, "best_split": [3, 2], "split_score": 0.6461148647869069}
+{"sent": "zebra with rock cover his hea", "ann_id": 588626, "best_split": [3, 2], "split_score": 0.6461148647869069}

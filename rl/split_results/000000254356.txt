@@ -1,0 +1,11 @@
+{"sent": "chair by plant", "ann_id": 1930486, "best_split": [2, 3], "split_score": 0.5380389346067074}
+{"sent": "chair by tree", "ann_id": 1930486, "best_split": [2, 3], "split_score": 0.5380389346067074}
+{"sent": "seat near plant", "ann_id": 1930486, "best_split": [2, 3], "split_score": 0.5380389346067074}
+{"sent": "that mirror like rectangle in which you can see two reflections", "ann_id": 1625086, "best_split": [2, 3], "split_score": 0.3978985837827891}
+{"sent": "item above the monitor", "ann_id": 1625086, "best_split": [3, 3], "split_score": 0.2160454017520901}
+{"sent": "chair near marker", "ann_id": 103695, "best_split": [2, 3], "split_score": 0.48646057986023716}
+{"sent": "chair with the jacket on it", "ann_id": 103695, "best_split": [5, 1], "split_score": 0.22342847135147711}
+{"sent": "black chair", "ann_id": 103695, "best_split": [5, 1], "split_score": 0.22342847135147711}
+{"sent": "screen", "ann_id": 34119, "best_split": [3, 3], "split_score": 0.8627914834635364}
+{"sent": "the smaller screen", "ann_id": 34119, "best_split": [3, 3], "split_score": 0.8627914834635364}
+{"sent": "monitor", "ann_id": 34119, "best_split": [3, 3], "split_score": 0.8627914834635364}

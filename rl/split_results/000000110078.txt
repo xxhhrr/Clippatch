@@ -1,0 +1,6 @@
+{"sent": "closest", "ann_id": 1096394, "best_split": [2, 1], "split_score": 0.36165040569095463}
+{"sent": "closest toilet", "ann_id": 1096394, "best_split": [1, 3], "split_score": 0.5136948529175691}
+{"sent": "closest toilet", "ann_id": 1096394, "best_split": [1, 3], "split_score": 0.5136948529175691}
+{"sent": "toilet furthest from viewer", "ann_id": 1094559, "best_split": [1, 2], "split_score": 0.5133928571223935}
+{"sent": "the smaller toilet", "ann_id": 1094559, "best_split": [1, 2], "split_score": 0.5133928571223935}
+{"sent": "further toilet", "ann_id": 1094559, "best_split": [1, 2], "split_score": 0.5133928571223935}

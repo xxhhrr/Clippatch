@@ -1,0 +1,4 @@
+{"sent": "guy on very end he is furthest from license plate", "ann_id": 527973, "best_split": [1, 5], "split_score": 0.2965706168530265}
+{"sent": "guy on edge 3 o clock", "ann_id": 527973, "best_split": [1, 3], "split_score": 0.1177414731947411}
+{"sent": "the soldier outside of the truck frame but still standing on it", "ann_id": 451395, "best_split": [1, 3], "split_score": 0.08628519527212278}
+{"sent": "leftest person", "ann_id": 451395, "best_split": [3, 3], "split_score": 0.20173470910696353}

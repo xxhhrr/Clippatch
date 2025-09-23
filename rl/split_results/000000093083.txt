@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 450248, "best_split": [1, 2], "split_score": 0.5169680792973916}
+{"sent": "here lem me fix your tie", "ann_id": 450248, "best_split": [2, 1], "split_score": 0.5391864256745927}
+{"sent": "woman", "ann_id": 450248, "best_split": [1, 2], "split_score": 0.5169680792973916}
+{"sent": "man", "ann_id": 432343, "best_split": [1, 2], "split_score": 0.8593749999657455}
+{"sent": "guy", "ann_id": 432343, "best_split": [1, 2], "split_score": 0.8593749999657455}
+{"sent": "man", "ann_id": 432343, "best_split": [1, 2], "split_score": 0.8593749999657455}

@@ -1,0 +1,6 @@
+{"sent": "man standing gray shirt", "ann_id": 1293235, "best_split": [2, 2], "split_score": 0.24776785712310523}
+{"sent": "man with head cut off from photo arms up", "ann_id": 1293235, "best_split": [2, 1], "split_score": 0.1238839285664906}
+{"sent": "person in background in gray shirt dark pants", "ann_id": 1293235, "best_split": [3, 2], "split_score": 0.22222222219838886}
+{"sent": "striped had", "ann_id": 1256040, "best_split": [2, 3], "split_score": 0.3215184969667327}
+{"sent": "person in striped hat", "ann_id": 1256040, "best_split": [1, 5], "split_score": 0.37335259068664445}
+{"sent": "girl in bed", "ann_id": 1256040, "best_split": [3, 2], "split_score": 0.25734819863103764}

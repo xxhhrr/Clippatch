@@ -1,0 +1,6 @@
+{"sent": "car with plates showing", "ann_id": 354367, "best_split": [2, 2], "split_score": 0.5359534438348251}
+{"sent": "vehicle 3 o clock", "ann_id": 354367, "best_split": [2, 2], "split_score": 0.5359534438348251}
+{"sent": "efo3tvv", "ann_id": 354367, "best_split": [2, 2], "split_score": 0.5359534438348251}
+{"sent": "tail light", "ann_id": 351150, "best_split": [2, 1], "split_score": 0.5026816520171257}
+{"sent": "partial car light on", "ann_id": 351150, "best_split": [1, 2], "split_score": 0.5539070227301855}
+{"sent": "black car", "ann_id": 351150, "best_split": [2, 2], "split_score": 0.6346433769684631}

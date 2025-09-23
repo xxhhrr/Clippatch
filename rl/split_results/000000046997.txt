@@ -1,0 +1,9 @@
+{"sent": "large soup", "ann_id": 1037915, "best_split": [2, 2], "split_score": 0.566174496606297}
+{"sent": "cheese soup", "ann_id": 1037915, "best_split": [5, 1], "split_score": 0.4338888888587577}
+{"sent": "bowl of soup featurede", "ann_id": 1037915, "best_split": [5, 1], "split_score": 0.4338888888587577}
+{"sent": "back bowl with noodles", "ann_id": 709932, "best_split": [3, 1], "split_score": 0.22297297295952143}
+{"sent": "you cant see the face of this half", "ann_id": 311799, "best_split": [2, 1], "split_score": 0.4087263830226748}
+{"sent": "half next to bowl with just bread showing", "ann_id": 311799, "best_split": [3, 1], "split_score": 0.36470588233783324}
+{"sent": "sandwich facing away", "ann_id": 311799, "best_split": [2, 1], "split_score": 0.4087263830226748}
+{"sent": "the half you can see inside", "ann_id": 308191, "best_split": [1, 2], "split_score": 0.5184224182475193}
+{"sent": "sandwhich showing whats inside the sandwich", "ann_id": 308191, "best_split": [1, 2], "split_score": 0.5184224182475193}

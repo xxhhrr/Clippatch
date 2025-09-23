@@ -1,0 +1,8 @@
+{"sent": "man in black with glasses", "ann_id": 2206538, "best_split": [1, 5], "split_score": 0.29281655841184895}
+{"sent": "blue shirt and sunglasses", "ann_id": 2206538, "best_split": [1, 5], "split_score": 0.29281655841184895}
+{"sent": "blurry spectator with sunglasses", "ann_id": 2206538, "best_split": [2, 1], "split_score": 0.026719518460444854}
+{"sent": "woman in green", "ann_id": 2155000, "best_split": [2, 3], "split_score": 0.41253138820847407}
+{"sent": "spectator with green shirt", "ann_id": 2155000, "best_split": [2, 3], "split_score": 0.41253138820847407}
+{"sent": "tennis player", "ann_id": 500925, "best_split": [2, 1], "split_score": 0.4417603553581902}
+{"sent": "tennis player", "ann_id": 500925, "best_split": [2, 1], "split_score": 0.4417603553581902}
+{"sent": "player", "ann_id": 500925, "best_split": [1, 2], "split_score": 0.5714784865585635}

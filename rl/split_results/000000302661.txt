@@ -1,0 +1,9 @@
+{"sent": "part sheep", "ann_id": 1406545, "best_split": [1, 3], "split_score": 0.3186534748842511}
+{"sent": "the sheep only his ear is in the picture", "ann_id": 1406545, "best_split": [1, 3], "split_score": 0.3186534748842511}
+{"sent": "sheep 8 o clock", "ann_id": 1406545, "best_split": [1, 3], "split_score": 0.3186534748842511}
+{"sent": "drinking sheep", "ann_id": 67726, "best_split": [1, 3], "split_score": 0.6819906754482278}
+{"sent": "one drinking from blue bowl", "ann_id": 67726, "best_split": [1, 3], "split_score": 0.6819906754482278}
+{"sent": "drinking", "ann_id": 67726, "best_split": [1, 3], "split_score": 0.6819906754482278}
+{"sent": "sheep not at a bowl", "ann_id": 67556, "best_split": [1, 2], "split_score": 0.4537943354626598}
+{"sent": "sheep not eating", "ann_id": 67556, "best_split": [1, 2], "split_score": 0.4537943354626598}
+{"sent": "not drinking like the other of its kind", "ann_id": 67556, "best_split": [2, 1], "split_score": 0.16770297739544113}

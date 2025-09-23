@@ -1,0 +1,6 @@
+{"sent": "reflected version of puppy", "ann_id": 1403140, "best_split": [1, 2], "split_score": 0.6340767034248755}
+{"sent": "mirror image of the dog", "ann_id": 1403140, "best_split": [1, 2], "split_score": 0.6340767034248755}
+{"sent": "dog looking at us", "ann_id": 1403140, "best_split": [1, 2], "split_score": 0.6340767034248755}
+{"sent": "real puppy", "ann_id": 8808, "best_split": [3, 1], "split_score": 0.4087346024493024}
+{"sent": "dog not reflection", "ann_id": 8808, "best_split": [3, 1], "split_score": 0.4087346024493024}
+{"sent": "actual dog not reflection", "ann_id": 8808, "best_split": [3, 1], "split_score": 0.4087346024493024}

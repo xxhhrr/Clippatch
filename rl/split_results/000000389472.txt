@@ -1,0 +1,11 @@
+{"sent": "skinnest banana", "ann_id": 2186189, "best_split": [2, 2], "split_score": 0.31838507727619875}
+{"sent": "banana closest to oj", "ann_id": 2186189, "best_split": [2, 2], "split_score": 0.31838507727619875}
+{"sent": "closest orange", "ann_id": 1053693, "best_split": [3, 3], "split_score": 0.6031516028612295}
+{"sent": "orange on border of of brown and white", "ann_id": 1053693, "best_split": [3, 3], "split_score": 0.6031516028612295}
+{"sent": "closest orange in the corner", "ann_id": 1053693, "best_split": [3, 3], "split_score": 0.6031516028612295}
+{"sent": "banana with sticker", "ann_id": 1044508, "best_split": [2, 3], "split_score": 0.511883163959372}
+{"sent": "nana with sticker", "ann_id": 1044508, "best_split": [1, 5], "split_score": 0.5496728137545956}
+{"sent": "banana in corner", "ann_id": 1044508, "best_split": [2, 3], "split_score": 0.511883163959372}
+{"sent": "middle banana", "ann_id": 1044093, "best_split": [1, 5], "split_score": 0.5151120972901437}
+{"sent": "banana number two", "ann_id": 1044093, "best_split": [1, 5], "split_score": 0.5151120972901437}
+{"sent": "banana without sticker and not near advil", "ann_id": 1044093, "best_split": [1, 5], "split_score": 0.5151120972901437}

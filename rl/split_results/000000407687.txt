@@ -1,0 +1,5 @@
+{"sent": "clear glass of water by pancakes", "ann_id": 670834, "best_split": [3, 3], "split_score": 0.5505843680513907}
+{"sent": "glass of water", "ann_id": 670834, "best_split": [3, 3], "split_score": 0.5505843680513907}
+{"sent": "glass of water", "ann_id": 670834, "best_split": [3, 3], "split_score": 0.5505843680513907}
+{"sent": "black mug nearest to plate with egg", "ann_id": 668199, "best_split": [2, 2], "split_score": 0.2104591836566917}
+{"sent": "black mug with coffe", "ann_id": 668199, "best_split": [2, 3], "split_score": 0.31853281849438553}

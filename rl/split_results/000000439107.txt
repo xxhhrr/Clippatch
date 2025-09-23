@@ -1,0 +1,6 @@
+{"sent": "the ship with sails", "ann_id": 1801099, "best_split": [2, 2], "split_score": 0.366026587860707}
+{"sent": "kite", "ann_id": 1801099, "best_split": [2, 2], "split_score": 0.366026587860707}
+{"sent": "boat on the air", "ann_id": 1801099, "best_split": [2, 2], "split_score": 0.366026587860707}
+{"sent": "small boat", "ann_id": 175579, "best_split": [3, 3], "split_score": 0.5902408507053111}
+{"sent": "ship with stripe", "ann_id": 175579, "best_split": [1, 2], "split_score": 0.18702168366601477}
+{"sent": "boat on the water", "ann_id": 175579, "best_split": [3, 3], "split_score": 0.5902408507053111}

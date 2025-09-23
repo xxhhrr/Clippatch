@@ -1,0 +1,4 @@
+{"sent": "umbrella near two blue glasses", "ann_id": 285364, "best_split": [3, 2], "split_score": 0.39225181594670944}
+{"sent": "the umbrella next to the chair with a bottle in it", "ann_id": 285364, "best_split": [1, 5], "split_score": 0.22320686788817454}
+{"sent": "umbrella on side of 2 blue glasses", "ann_id": 285364, "best_split": [3, 2], "split_score": 0.39225181594670944}
+{"sent": "umbrella closest to clear glass", "ann_id": 282413, "best_split": [2, 1], "split_score": 0.1417313798193745}

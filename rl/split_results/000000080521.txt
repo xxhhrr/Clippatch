@@ -1,0 +1,6 @@
+{"sent": "guy without board", "ann_id": 498045, "best_split": [3, 1], "split_score": 0.17590532064657569}
+{"sent": "not holding board", "ann_id": 498045, "best_split": [3, 1], "split_score": 0.17590532064657569}
+{"sent": "arm up guy", "ann_id": 498045, "best_split": [1, 5], "split_score": 0.4299307958105596}
+{"sent": "person holding snowboard horizontally", "ann_id": 473278, "best_split": [1, 5], "split_score": 0.30949651703469744}
+{"sent": "holding snowboard horizontally", "ann_id": 473278, "best_split": [1, 5], "split_score": 0.30949651703469744}
+{"sent": "man with snowboard", "ann_id": 473278, "best_split": [1, 5], "split_score": 0.30949651703469744}

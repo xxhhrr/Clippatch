@@ -1,0 +1,9 @@
+{"sent": "woman on phone", "ann_id": 1201428, "best_split": [2, 3], "split_score": 0.624732854029072}
+{"sent": "lady on phone", "ann_id": 1201428, "best_split": [2, 3], "split_score": 0.624732854029072}
+{"sent": "girl on phone", "ann_id": 1201428, "best_split": [2, 3], "split_score": 0.624732854029072}
+{"sent": "pink shirt in distance", "ann_id": 452686, "best_split": [2, 3], "split_score": 0.33249617816854155}
+{"sent": "person in pink", "ann_id": 452686, "best_split": [2, 3], "split_score": 0.33249617816854155}
+{"sent": "person in pink", "ann_id": 452686, "best_split": [2, 3], "split_score": 0.33249617816854155}
+{"sent": "blue shirt", "ann_id": 441503, "best_split": [1, 5], "split_score": 0.4599211563444139}
+{"sent": "guy holding umbrella", "ann_id": 441503, "best_split": [1, 5], "split_score": 0.4599211563444139}
+{"sent": "man with umbrella", "ann_id": 441503, "best_split": [1, 5], "split_score": 0.4599211563444139}

@@ -1,0 +1,10 @@
+{"sent": "9 o clock piece", "ann_id": 2218738, "best_split": [1, 3], "split_score": 0.14909090908358275}
+{"sent": "smallest piece", "ann_id": 2218738, "best_split": [1, 2], "split_score": 0.2602133543950923}
+{"sent": "food under the rest of the pieces", "ann_id": 2218738, "best_split": [3, 2], "split_score": 0.5908947201400679}
+{"sent": "the one you can see the most", "ann_id": 2218385, "best_split": [2, 1], "split_score": 0.11717112921661318}
+{"sent": "crab cake closest", "ann_id": 2218385, "best_split": [2, 2], "split_score": 0.4166209845183302}
+{"sent": "closest food item", "ann_id": 2218385, "best_split": [3, 2], "split_score": 0.4698352171816808}
+{"sent": "piece of meat nearest red white towel", "ann_id": 1911106, "best_split": [2, 2], "split_score": 0.26770591319285725}
+{"sent": "one closest to the red white towel", "ann_id": 1911106, "best_split": [2, 2], "split_score": 0.26770591319285725}
+{"sent": "upper one on the right", "ann_id": 310130, "best_split": [2, 1], "split_score": 0.3106522061985347}
+{"sent": "one that looks bitten aready", "ann_id": 310130, "best_split": [2, 2], "split_score": 0.5816411682488427}

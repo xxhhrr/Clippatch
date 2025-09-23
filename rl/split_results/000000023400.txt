@@ -1,0 +1,6 @@
+{"sent": "dark orange in the corner", "ann_id": 1555751, "best_split": [1, 5], "split_score": 0.34648187630184063}
+{"sent": "fully visible orange only the highest part", "ann_id": 1053445, "best_split": [1, 2], "split_score": 0.183918507362204}
+{"sent": "darker", "ann_id": 1052779, "best_split": [1, 3], "split_score": 0.5041626447572296}
+{"sent": "closest fruit", "ann_id": 1052667, "best_split": [3, 1], "split_score": 0.41415417943608257}
+{"sent": "orange in full view", "ann_id": 1052667, "best_split": [1, 3], "split_score": 0.3909260410019122}
+{"sent": "orange", "ann_id": 1052667, "best_split": [1, 3], "split_score": 0.3909260410019122}

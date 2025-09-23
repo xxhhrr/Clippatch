@@ -1,0 +1,6 @@
+{"sent": "white shirt facing away", "ann_id": 476913, "best_split": [3, 1], "split_score": 0.278414575272779}
+{"sent": "man backwards white shirt", "ann_id": 476913, "best_split": [3, 1], "split_score": 0.278414575272779}
+{"sent": "white shirt back", "ann_id": 476913, "best_split": [3, 1], "split_score": 0.278414575272779}
+{"sent": "player", "ann_id": 453006, "best_split": [1, 2], "split_score": 0.7572675493469462}
+{"sent": "woman", "ann_id": 453006, "best_split": [1, 2], "split_score": 0.7572675493469462}
+{"sent": "player", "ann_id": 453006, "best_split": [1, 2], "split_score": 0.7572675493469462}

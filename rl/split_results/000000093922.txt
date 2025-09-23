@@ -1,0 +1,6 @@
+{"sent": "the giraffe with its head up", "ann_id": 1823627, "best_split": [3, 3], "split_score": 0.4814814814332851}
+{"sent": "mom", "ann_id": 1823627, "best_split": [3, 3], "split_score": 0.4814814814332851}
+{"sent": "tallest", "ann_id": 1823627, "best_split": [3, 3], "split_score": 0.4814814814332851}
+{"sent": "giraffe looks down", "ann_id": 599894, "best_split": [3, 1], "split_score": 0.16896551723227557}
+{"sent": "giraffe bent over", "ann_id": 599894, "best_split": [3, 1], "split_score": 0.16896551723227557}
+{"sent": "giraffe with lower head", "ann_id": 599894, "best_split": [3, 1], "split_score": 0.16896551723227557}

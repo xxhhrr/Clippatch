@@ -1,0 +1,9 @@
+{"sent": "light brown bear next to panda", "ann_id": 1995713, "best_split": [2, 2], "split_score": 0.26927138329542377}
+{"sent": "naked lighter bear", "ann_id": 1995713, "best_split": [5, 1], "split_score": 0.13977107849913178}
+{"sent": "naked white bear", "ann_id": 1995713, "best_split": [3, 2], "split_score": 0.25444023146533223}
+{"sent": "big black bear", "ann_id": 1995519, "best_split": [3, 3], "split_score": 0.37405993285039224}
+{"sent": "large dark brown bear", "ann_id": 1995519, "best_split": [3, 3], "split_score": 0.37405993285039224}
+{"sent": "brown large bear", "ann_id": 1995519, "best_split": [3, 3], "split_score": 0.37405993285039224}
+{"sent": "panda", "ann_id": 1162120, "best_split": [2, 3], "split_score": 0.27131782942894217}
+{"sent": "has white shirt", "ann_id": 1162120, "best_split": [2, 2], "split_score": 0.28544542030383896}
+{"sent": "bear with white t shirt", "ann_id": 1162120, "best_split": [2, 2], "split_score": 0.28544542030383896}

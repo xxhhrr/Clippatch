@@ -1,0 +1,6 @@
+{"sent": "burger cake", "ann_id": 1577168, "best_split": [1, 5], "split_score": 0.23296621241058743}
+{"sent": "burger", "ann_id": 1577168, "best_split": [1, 5], "split_score": 0.23296621241058743}
+{"sent": "black and yellow", "ann_id": 1577168, "best_split": [1, 5], "split_score": 0.23296621241058743}
+{"sent": "cake", "ann_id": 1088499, "best_split": [1, 2], "split_score": 0.5095180393030716}
+{"sent": "white cake", "ann_id": 1088499, "best_split": [1, 2], "split_score": 0.5095180393030716}
+{"sent": "white cake", "ann_id": 1088499, "best_split": [1, 2], "split_score": 0.5095180393030716}

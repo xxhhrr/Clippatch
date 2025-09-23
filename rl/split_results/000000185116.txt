@@ -1,0 +1,6 @@
+{"sent": "closest chair that is sideways", "ann_id": 108052, "best_split": [2, 2], "split_score": 0.25709502548970864}
+{"sent": "chair out of picture frame near closes door", "ann_id": 108052, "best_split": [1, 2], "split_score": 0.12854751274997817}
+{"sent": "side of wicker chair", "ann_id": 108052, "best_split": [2, 3], "split_score": 0.38911679531984594}
+{"sent": "seat next to us", "ann_id": 105701, "best_split": [2, 2], "split_score": 0.628587372398869}
+{"sent": "chair facing you", "ann_id": 105701, "best_split": [1, 2], "split_score": 0.31429368621196213}
+{"sent": "closest wicker bench", "ann_id": 105701, "best_split": [2, 2], "split_score": 0.628587372398869}

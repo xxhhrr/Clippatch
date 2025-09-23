@@ -1,0 +1,16 @@
+{"sent": "man with blue hat light blue hoodie and gray jacket", "ann_id": 1263679, "best_split": [2, 3], "split_score": 0.1383945841258806}
+{"sent": "man in gray hoodie and blue hat", "ann_id": 1263679, "best_split": [2, 3], "split_score": 0.1383945841258806}
+{"sent": "putting on gloves", "ann_id": 1262864, "best_split": [3, 1], "split_score": 0.12140435305034429}
+{"sent": "dark lacket", "ann_id": 1262864, "best_split": [3, 2], "split_score": 0.22204440885956747}
+{"sent": "person in black coat and pulling on gray gloves", "ann_id": 1262864, "best_split": [3, 3], "split_score": 0.3089340383650245}
+{"sent": "dark jacket man near pats sign", "ann_id": 1754791, "best_split": [3, 2], "split_score": 0.27611940295722875}
+{"sent": "guy in ear muffs next to lets go pats", "ann_id": 1754791, "best_split": [3, 2], "split_score": 0.27611940295722875}
+{"sent": "black jacket guy next to orange sign", "ann_id": 1754791, "best_split": [3, 2], "split_score": 0.27611940295722875}
+{"sent": "man and blue white at edge of picture", "ann_id": 1699566, "best_split": [1, 5], "split_score": 0.37723214281886847}
+{"sent": "leftmost person", "ann_id": 1699566, "best_split": [3, 2], "split_score": 0.19083515173667573}
+{"sent": "red covered face adidas pants", "ann_id": 1239218, "best_split": [2, 3], "split_score": 0.24607431968730378}
+{"sent": "person in green overalls red hood arm on rail", "ann_id": 1239218, "best_split": [3, 3], "split_score": 0.2744947556568822}
+{"sent": "person with red hood", "ann_id": 1239218, "best_split": [3, 3], "split_score": 0.2744947556568822}
+{"sent": "brown coat by sign", "ann_id": 1214633, "best_split": [1, 5], "split_score": 0.3405405405076698}
+{"sent": "woman with camera next to sign for deflatriots", "ann_id": 1214633, "best_split": [3, 3], "split_score": 0.3316526610179758}
+{"sent": "woman in brown by orange sign", "ann_id": 1214633, "best_split": [1, 5], "split_score": 0.3405405405076698}

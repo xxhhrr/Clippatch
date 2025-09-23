@@ -1,0 +1,4 @@
+{"sent": "wine bottle above silver glass rectangle", "ann_id": 84298, "best_split": [2, 2], "split_score": 0.2716836734477293}
+{"sent": "wine bottle", "ann_id": 80143, "best_split": [2, 3], "split_score": 0.37730575736419164}
+{"sent": "bottle turned", "ann_id": 80143, "best_split": [2, 3], "split_score": 0.37730575736419164}
+{"sent": "wine bottle back of sandwich", "ann_id": 80143, "best_split": [3, 3], "split_score": 0.28608142833949934}

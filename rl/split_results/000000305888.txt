@@ -1,0 +1,6 @@
+{"sent": "cow with head raised", "ann_id": 72465, "best_split": [3, 2], "split_score": 0.6322856270497188}
+{"sent": "cow with the tagged ear", "ann_id": 72465, "best_split": [3, 2], "split_score": 0.6322856270497188}
+{"sent": "cow with yellow tag", "ann_id": 72465, "best_split": [3, 2], "split_score": 0.6322856270497188}
+{"sent": "cow with his head down", "ann_id": 70225, "best_split": [3, 1], "split_score": 0.34556370912295986}
+{"sent": "cow 3 o clock", "ann_id": 70225, "best_split": [3, 1], "split_score": 0.34556370912295986}
+{"sent": "calf without tag", "ann_id": 70225, "best_split": [3, 1], "split_score": 0.34556370912295986}

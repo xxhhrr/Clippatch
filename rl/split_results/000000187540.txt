@@ -1,0 +1,9 @@
+{"sent": "small sheep being licked by mom", "ann_id": 68455, "best_split": [2, 3], "split_score": 0.3364232421053105}
+{"sent": "little one being licked", "ann_id": 68455, "best_split": [3, 3], "split_score": 0.4932051706176325}
+{"sent": "baby getting kissed", "ann_id": 68455, "best_split": [3, 3], "split_score": 0.4932051706176325}
+{"sent": "baby by itself", "ann_id": 66452, "best_split": [2, 3], "split_score": 0.4492086653441229}
+{"sent": "baby lamb without mom", "ann_id": 66452, "best_split": [2, 1], "split_score": 0.18427136478857337}
+{"sent": "apart baby", "ann_id": 66452, "best_split": [5, 1], "split_score": 0.25565865924415415}
+{"sent": "big", "ann_id": 64788, "best_split": [1, 2], "split_score": 0.510066648135585}
+{"sent": "the big one", "ann_id": 64788, "best_split": [1, 2], "split_score": 0.510066648135585}
+{"sent": "mom", "ann_id": 64788, "best_split": [1, 2], "split_score": 0.510066648135585}

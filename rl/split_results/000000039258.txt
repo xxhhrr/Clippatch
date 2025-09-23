@@ -1,0 +1,6 @@
+{"sent": "blurry man in back", "ann_id": 195102, "best_split": [3, 3], "split_score": 0.36722408020614977}
+{"sent": "guy walking to skater", "ann_id": 195102, "best_split": [3, 2], "split_score": 0.24977252044474835}
+{"sent": "man standing", "ann_id": 195102, "best_split": [3, 2], "split_score": 0.24977252044474835}
+{"sent": "skateboarder in air", "ann_id": 192785, "best_split": [2, 3], "split_score": 0.5513179571209788}
+{"sent": "guy jumping", "ann_id": 192785, "best_split": [2, 3], "split_score": 0.5513179571209788}
+{"sent": "sk8er boi", "ann_id": 192785, "best_split": [2, 3], "split_score": 0.5513179571209788}

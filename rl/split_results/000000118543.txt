@@ -1,0 +1,9 @@
+{"sent": "apple next to plastic bag", "ann_id": 1049848, "best_split": [3, 3], "split_score": 0.44323218540006265}
+{"sent": "apple under leek farthest from cabbage", "ann_id": 1049848, "best_split": [1, 2], "split_score": 0.11918048468912705}
+{"sent": "the apple facing me", "ann_id": 1049848, "best_split": [3, 3], "split_score": 0.44323218540006265}
+{"sent": "green apple on its side", "ann_id": 1049798, "best_split": [3, 3], "split_score": 0.6765887507895199}
+{"sent": "green apple next to luttuce", "ann_id": 1049798, "best_split": [3, 3], "split_score": 0.6765887507895199}
+{"sent": "apple 6 o clock", "ann_id": 1049798, "best_split": [2, 3], "split_score": 0.447031853227916}
+{"sent": "green apple all alone", "ann_id": 1048993, "best_split": [1, 5], "split_score": 0.2010906611937783}
+{"sent": "green tomato", "ann_id": 1048993, "best_split": [1, 5], "split_score": 0.2010906611937783}
+{"sent": "a green fruit near a potato", "ann_id": 1048993, "best_split": [1, 5], "split_score": 0.2010906611937783}

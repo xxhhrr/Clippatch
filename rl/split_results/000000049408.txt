@@ -1,0 +1,18 @@
+{"sent": "blue pursee", "ann_id": 568525, "best_split": [1, 5], "split_score": 0.5433238635812374}
+{"sent": "black dress purse with fower", "ann_id": 568525, "best_split": [2, 2], "split_score": 0.2708747514718209}
+{"sent": "person in the black dress", "ann_id": 568525, "best_split": [2, 2], "split_score": 0.2708747514718209}
+{"sent": "blue shirt white skirt", "ann_id": 565934, "best_split": [2, 3], "split_score": 0.3474025973673496}
+{"sent": "blue shirt white dress", "ann_id": 565934, "best_split": [2, 3], "split_score": 0.3474025973673496}
+{"sent": "white skirt", "ann_id": 565934, "best_split": [2, 3], "split_score": 0.3474025973673496}
+{"sent": "pink dress", "ann_id": 565090, "best_split": [1, 5], "split_score": 0.43283279216387655}
+{"sent": "pink dress", "ann_id": 565090, "best_split": [1, 5], "split_score": 0.43283279216387655}
+{"sent": "girl in pink", "ann_id": 565090, "best_split": [1, 5], "split_score": 0.43283279216387655}
+{"sent": "old man", "ann_id": 533408, "best_split": [3, 3], "split_score": 0.4498189342408408}
+{"sent": "man talking", "ann_id": 533408, "best_split": [3, 3], "split_score": 0.4498189342408408}
+{"sent": "man in black jacket and glasses", "ann_id": 533408, "best_split": [3, 3], "split_score": 0.4498189342408408}
+{"sent": "woman next to woman in brown shirt she has a dress", "ann_id": 514427, "best_split": [2, 3], "split_score": 0.2659390533535834}
+{"sent": "woman nearest other woman in pink", "ann_id": 514427, "best_split": [2, 3], "split_score": 0.2659390533535834}
+{"sent": "woman next to woman in pink", "ann_id": 514427, "best_split": [2, 3], "split_score": 0.2659390533535834}
+{"sent": "lady with brown sleeveless shirt and khaki pants", "ann_id": 463324, "best_split": [1, 5], "split_score": 0.4026988635955054}
+{"sent": "brown shirt and pants", "ann_id": 463324, "best_split": [2, 3], "split_score": 0.13923227064418325}
+{"sent": "woman with brown shirt", "ann_id": 463324, "best_split": [2, 2], "split_score": 0.21205226070081823}

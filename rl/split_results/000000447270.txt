@@ -1,0 +1,11 @@
+{"sent": "suitcase highest on pile not baskets", "ann_id": 1842210, "best_split": [2, 1], "split_score": 0.4017857142696992}
+{"sent": "case with strap", "ann_id": 1842210, "best_split": [1, 5], "split_score": 0.1615008156512759}
+{"sent": "suitcase just under basket", "ann_id": 1842210, "best_split": [1, 3], "split_score": 0.21196690005401622}
+{"sent": "count from grass 2", "ann_id": 1444129, "best_split": [2, 1], "split_score": 0.3938934948822587}
+{"sent": "number 3 suitcase from baskets", "ann_id": 1444129, "best_split": [5, 1], "split_score": 0.5652656621280518}
+{"sent": "luggage not on ground but next one up", "ann_id": 1444129, "best_split": [5, 1], "split_score": 0.5652656621280518}
+{"sent": "suitecast small black one", "ann_id": 1187221, "best_split": [1, 5], "split_score": 0.13414634145411958}
+{"sent": "two dots together", "ann_id": 1187221, "best_split": [1, 3], "split_score": 0.16417910446933345}
+{"sent": "the one beneath the one with baskets", "ann_id": 1187221, "best_split": [1, 3], "split_score": 0.16417910446933345}
+{"sent": "case on fllor", "ann_id": 1185672, "best_split": [3, 1], "split_score": 0.7324993200580636}
+{"sent": "lowest trunk", "ann_id": 1185672, "best_split": [3, 1], "split_score": 0.7324993200580636}

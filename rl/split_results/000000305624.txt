@@ -1,0 +1,6 @@
+{"sent": "bench away from couple", "ann_id": 577286, "best_split": [3, 1], "split_score": 0.27539816600655176}
+{"sent": "empty bench", "ann_id": 577286, "best_split": [5, 1], "split_score": 0.32887946919195726}
+{"sent": "ledge at the water", "ann_id": 577286, "best_split": [2, 3], "split_score": 0.4633951952108169}
+{"sent": "bench with people", "ann_id": 573697, "best_split": [3, 2], "split_score": 0.5977675511017558}
+{"sent": "bench under people", "ann_id": 573697, "best_split": [3, 2], "split_score": 0.5977675511017558}
+{"sent": "the wooden bench exactly behind them", "ann_id": 573697, "best_split": [3, 2], "split_score": 0.5977675511017558}

@@ -1,0 +1,15 @@
+{"sent": "strip brown and blue shirt", "ann_id": 1319087, "best_split": [3, 2], "split_score": 0.2642857142602041}
+{"sent": "striped shirt", "ann_id": 1319087, "best_split": [1, 5], "split_score": 0.4134541248637766}
+{"sent": "striped shirt person", "ann_id": 1319087, "best_split": [3, 3], "split_score": 0.36274509799115723}
+{"sent": "baldish guy with long sleeves closer to the camera", "ann_id": 1309978, "best_split": [3, 1], "split_score": 0.18301731243904487}
+{"sent": "man in blue getting ready to pick up white paper plate", "ann_id": 1309978, "best_split": [1, 2], "split_score": 0.25446428570414287}
+{"sent": "man in blue not holding paper", "ann_id": 1309978, "best_split": [3, 2], "split_score": 0.31942446040292943}
+{"sent": "blue hawaiian shirt", "ann_id": 1283094, "best_split": [1, 5], "split_score": 0.41956219593297756}
+{"sent": "man in the dark blue haiwaian shirt", "ann_id": 1283094, "best_split": [1, 5], "split_score": 0.41956219593297756}
+{"sent": "hawaiian blue", "ann_id": 1283094, "best_split": [1, 5], "split_score": 0.41956219593297756}
+{"sent": "man with pink on face", "ann_id": 1281766, "best_split": [1, 5], "split_score": 0.36337377235591534}
+{"sent": "red thing on face", "ann_id": 1281766, "best_split": [1, 5], "split_score": 0.36337377235591534}
+{"sent": "pink on face", "ann_id": 1281766, "best_split": [2, 2], "split_score": 0.29433962262167523}
+{"sent": "the fat man whose hand pointing towards nose", "ann_id": 1241748, "best_split": [3, 2], "split_score": 0.2659956865325309}
+{"sent": "chubby dude looks like hes about to pick his nose", "ann_id": 1241748, "best_split": [1, 5], "split_score": 0.5884740259143187}
+{"sent": "fat man with beard", "ann_id": 1241748, "best_split": [1, 5], "split_score": 0.5884740259143187}

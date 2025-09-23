@@ -1,0 +1,9 @@
+{"sent": "red", "ann_id": 1976003, "best_split": [1, 2], "split_score": 0.7705676020101018}
+{"sent": "red device", "ann_id": 1976003, "best_split": [1, 2], "split_score": 0.7705676020101018}
+{"sent": "orange one", "ann_id": 1976003, "best_split": [1, 2], "split_score": 0.7705676020101018}
+{"sent": "hand playing orange one", "ann_id": 521099, "best_split": [2, 2], "split_score": 0.6650843881355422}
+{"sent": "fingers on orange phone", "ann_id": 521099, "best_split": [2, 2], "split_score": 0.6650843881355422}
+{"sent": "hand holding the orange phone", "ann_id": 521099, "best_split": [2, 2], "split_score": 0.6650843881355422}
+{"sent": "pink", "ann_id": 322226, "best_split": [1, 2], "split_score": 0.6147560586489654}
+{"sent": "the light purple one", "ann_id": 322226, "best_split": [1, 2], "split_score": 0.6147560586489654}
+{"sent": "purple one", "ann_id": 322226, "best_split": [1, 2], "split_score": 0.6147560586489654}

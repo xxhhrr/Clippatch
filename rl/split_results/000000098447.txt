@@ -1,0 +1,6 @@
+{"sent": "person close to trash can", "ann_id": 566728, "best_split": [2, 2], "split_score": 0.5278793418302508}
+{"sent": "man sitting next to the trash can", "ann_id": 566728, "best_split": [2, 2], "split_score": 0.5278793418302508}
+{"sent": "man in dark shirt", "ann_id": 566728, "best_split": [2, 2], "split_score": 0.5278793418302508}
+{"sent": "guy in jeans", "ann_id": 460063, "best_split": [1, 3], "split_score": 0.46264621493805747}
+{"sent": "person sitting in gray shirt and jeans", "ann_id": 460063, "best_split": [1, 3], "split_score": 0.46264621493805747}
+{"sent": "man with leg out near person with a blurry green flame", "ann_id": 460063, "best_split": [3, 1], "split_score": 0.2737975109185624}

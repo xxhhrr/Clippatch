@@ -1,0 +1,12 @@
+{"sent": "lady with glasses", "ann_id": 569334, "best_split": [1, 2], "split_score": 0.5606557376870712}
+{"sent": "woman with glasses", "ann_id": 569334, "best_split": [1, 2], "split_score": 0.5606557376870712}
+{"sent": "glasses", "ann_id": 569334, "best_split": [1, 2], "split_score": 0.5606557376870712}
+{"sent": "glasses in the hair of girl", "ann_id": 568955, "best_split": [3, 1], "split_score": 0.3132938187810492}
+{"sent": "woman between man and dark hair woman", "ann_id": 568955, "best_split": [3, 2], "split_score": 0.4285220397209575}
+{"sent": "the blond girl next to man and women in maroon shit", "ann_id": 568955, "best_split": [3, 2], "split_score": 0.4285220397209575}
+{"sent": "girl in red shirt", "ann_id": 568803, "best_split": [3, 2], "split_score": 0.7138263664775119}
+{"sent": "a lady with a red shirt on with other people", "ann_id": 568803, "best_split": [3, 2], "split_score": 0.7138263664775119}
+{"sent": "woman in red", "ann_id": 568803, "best_split": [3, 1], "split_score": 0.36573311365228683}
+{"sent": "man drinking", "ann_id": 556827, "best_split": [3, 1], "split_score": 0.29458598724648755}
+{"sent": "man drinking", "ann_id": 556827, "best_split": [3, 1], "split_score": 0.29458598724648755}
+{"sent": "man with stripe shirt", "ann_id": 556827, "best_split": [1, 5], "split_score": 0.3027275182080254}

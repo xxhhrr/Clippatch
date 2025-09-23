@@ -1,0 +1,6 @@
+{"sent": "hot dog with less chili", "ann_id": 1068936, "best_split": [3, 1], "split_score": 0.34784849264532824}
+{"sent": "sandwich with mustard", "ann_id": 1068936, "best_split": [3, 1], "split_score": 0.34784849264532824}
+{"sent": "farthest hot dog", "ann_id": 1068936, "best_split": [1, 2], "split_score": 0.32265265921673925}
+{"sent": "closest one", "ann_id": 1067564, "best_split": [2, 1], "split_score": 0.7490217805066304}
+{"sent": "hotdog nearest us", "ann_id": 1067564, "best_split": [2, 1], "split_score": 0.7490217805066304}
+{"sent": "closest dog", "ann_id": 1067564, "best_split": [2, 1], "split_score": 0.7490217805066304}

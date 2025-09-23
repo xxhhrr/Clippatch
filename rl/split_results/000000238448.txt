@@ -1,0 +1,6 @@
+{"sent": "closest face", "ann_id": 336245, "best_split": [1, 3], "split_score": 0.3568374124121173}
+{"sent": "closest clock", "ann_id": 336245, "best_split": [1, 3], "split_score": 0.3568374124121173}
+{"sent": "lower face", "ann_id": 336245, "best_split": [1, 3], "split_score": 0.3568374124121173}
+{"sent": "blue one", "ann_id": 333943, "best_split": [3, 2], "split_score": 0.4405333332941748}
+{"sent": "blue circle above blue and white circle", "ann_id": 333943, "best_split": [3, 2], "split_score": 0.4405333332941748}
+{"sent": "furthest watch", "ann_id": 333943, "best_split": [3, 2], "split_score": 0.4405333332941748}

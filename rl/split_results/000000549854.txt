@@ -1,0 +1,5 @@
+{"sent": "broccoli nearest the grilled peppers", "ann_id": 1057232, "best_split": [2, 3], "split_score": 0.5843503229838631}
+{"sent": "broccoli closest to red vegetable", "ann_id": 1057232, "best_split": [2, 3], "split_score": 0.5843503229838631}
+{"sent": "broccoli by pepper", "ann_id": 1057232, "best_split": [2, 3], "split_score": 0.5843503229838631}
+{"sent": "closest broccoli", "ann_id": 1056422, "best_split": [3, 3], "split_score": 0.36490208072752417}
+{"sent": "broccoli 4 o clock", "ann_id": 1056422, "best_split": [3, 3], "split_score": 0.36490208072752417}

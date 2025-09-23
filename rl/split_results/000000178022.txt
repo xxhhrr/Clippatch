@@ -1,0 +1,6 @@
+{"sent": "closest dessert", "ann_id": 1085228, "best_split": [2, 3], "split_score": 0.5538127412459203}
+{"sent": "cake with red beneath it", "ann_id": 1085228, "best_split": [3, 3], "split_score": 0.5611042182752629}
+{"sent": "cake closest to us and edge", "ann_id": 1085228, "best_split": [5, 1], "split_score": 0.19685169840954003}
+{"sent": "chocolate with pineapple rings", "ann_id": 1086575, "best_split": [3, 3], "split_score": 0.3190121785657963}
+{"sent": "the dounut with pinapple on it", "ann_id": 1086575, "best_split": [3, 3], "split_score": 0.3190121785657963}
+{"sent": "chocolate cake with pineapple rings", "ann_id": 1086575, "best_split": [3, 3], "split_score": 0.3190121785657963}

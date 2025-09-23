@@ -1,0 +1,6 @@
+{"sent": "the donkey closest to 3 o clock", "ann_id": 58336, "best_split": [1, 5], "split_score": 0.4785894206118577}
+{"sent": "donkey farthest away", "ann_id": 58336, "best_split": [1, 5], "split_score": 0.4785894206118577}
+{"sent": "horse near car", "ann_id": 58336, "best_split": [1, 5], "split_score": 0.4785894206118577}
+{"sent": "horse closest to camera", "ann_id": 56153, "best_split": [2, 3], "split_score": 0.5522919800053604}
+{"sent": "donkey in foreground", "ann_id": 56153, "best_split": [2, 1], "split_score": 0.2996001998893553}
+{"sent": "closest donkey", "ann_id": 56153, "best_split": [2, 3], "split_score": 0.5522919800053604}

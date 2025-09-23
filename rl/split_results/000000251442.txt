@@ -1,0 +1,10 @@
+{"sent": "poodle thats really long and white near far corner", "ann_id": 18466, "best_split": [2, 2], "split_score": 0.4642857142487017}
+{"sent": "poodle most hair", "ann_id": 18466, "best_split": [2, 2], "split_score": 0.4642857142487017}
+{"sent": "farthest away dog", "ann_id": 18220, "best_split": [3, 1], "split_score": 0.22297297295952143}
+{"sent": "bigger dog at 1 o clock", "ann_id": 18220, "best_split": [3, 1], "split_score": 0.22297297295952143}
+{"sent": "brown and white closer to us", "ann_id": 17585, "best_split": [3, 3], "split_score": 0.3364022662492443}
+{"sent": "closest brown and white dog", "ann_id": 17585, "best_split": [3, 3], "split_score": 0.3364022662492443}
+{"sent": "brown closest one", "ann_id": 17585, "best_split": [3, 3], "split_score": 0.3364022662492443}
+{"sent": "lower white dog not eating", "ann_id": 15289, "best_split": [1, 3], "split_score": 0.3228506516607168}
+{"sent": "little white dog not eatting", "ann_id": 15289, "best_split": [2, 3], "split_score": 0.6399620762455603}
+{"sent": "white dog 6 o clock not eating", "ann_id": 15289, "best_split": [2, 3], "split_score": 0.6399620762455603}

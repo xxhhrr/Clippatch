@@ -1,0 +1,5 @@
+{"sent": "the big long wall with reflections on it", "ann_id": 174458, "best_split": [1, 3], "split_score": 0.796332046284005}
+{"sent": "reflections", "ann_id": 174458, "best_split": [1, 3], "split_score": 0.796332046284005}
+{"sent": "train in your face", "ann_id": 174458, "best_split": [1, 3], "split_score": 0.796332046284005}
+{"sent": "train 2", "ann_id": 172875, "best_split": [3, 2], "split_score": 0.6453488371541254}
+{"sent": "bus with fuller view", "ann_id": 172875, "best_split": [3, 2], "split_score": 0.6453488371541254}

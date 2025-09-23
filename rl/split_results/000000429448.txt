@@ -1,0 +1,6 @@
+{"sent": "back half of table", "ann_id": 1964860, "best_split": [1, 3], "split_score": 0.19283150596426415}
+{"sent": "back end of table", "ann_id": 1964860, "best_split": [1, 2], "split_score": 0.12971389175699022}
+{"sent": "pizzas on table furtherst from us", "ann_id": 1964860, "best_split": [1, 3], "split_score": 0.19283150596426415}
+{"sent": "part of table twards us", "ann_id": 1958527, "best_split": [2, 1], "split_score": 0.8440920715824691}
+{"sent": "close table", "ann_id": 1958527, "best_split": [2, 1], "split_score": 0.8440920715824691}
+{"sent": "anywhere close to us", "ann_id": 1958527, "best_split": [3, 1], "split_score": 0.36830725802923914}

@@ -1,0 +1,6 @@
+{"sent": "black shirtman", "ann_id": 475629, "best_split": [2, 2], "split_score": 0.3562499999831321}
+{"sent": "dark shirted person", "ann_id": 475629, "best_split": [1, 2], "split_score": 0.4769076305049875}
+{"sent": "black shirt", "ann_id": 475629, "best_split": [1, 2], "split_score": 0.4769076305049875}
+{"sent": "the person in the white shirt", "ann_id": 427614, "best_split": [1, 2], "split_score": 0.8428730867010972}
+{"sent": "young boy", "ann_id": 427614, "best_split": [2, 1], "split_score": 0.3000224946490827}
+{"sent": "white shirt", "ann_id": 427614, "best_split": [1, 2], "split_score": 0.8428730867010972}

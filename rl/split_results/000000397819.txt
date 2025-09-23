@@ -1,0 +1,6 @@
+{"sent": "girl with hat", "ann_id": 1715770, "best_split": [1, 2], "split_score": 0.8444613049755515}
+{"sent": "the woman brushing the teeth of the other wearing a ballcap", "ann_id": 1715770, "best_split": [1, 2], "split_score": 0.8444613049755515}
+{"sent": "person in blue hat", "ann_id": 1715770, "best_split": [1, 2], "split_score": 0.8444613049755515}
+{"sent": "woman no hat", "ann_id": 522563, "best_split": [2, 1], "split_score": 0.2778844853164376}
+{"sent": "no hat", "ann_id": 522563, "best_split": [2, 1], "split_score": 0.2778844853164376}
+{"sent": "not wearing the hat", "ann_id": 522563, "best_split": [2, 1], "split_score": 0.2778844853164376}

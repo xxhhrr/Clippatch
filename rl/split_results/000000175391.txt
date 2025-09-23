@@ -1,0 +1,6 @@
+{"sent": "boy inside", "ann_id": 526541, "best_split": [5, 1], "split_score": 0.486717267506004}
+{"sent": "boy", "ann_id": 526541, "best_split": [5, 1], "split_score": 0.486717267506004}
+{"sent": "boy in case", "ann_id": 526541, "best_split": [5, 1], "split_score": 0.486717267506004}
+{"sent": "man with checkered shirt", "ann_id": 515814, "best_split": [2, 1], "split_score": 0.7634327168063045}
+{"sent": "arms holding suitcase", "ann_id": 515814, "best_split": [1, 2], "split_score": 0.35355667736412555}
+{"sent": "plaid", "ann_id": 515814, "best_split": [2, 1], "split_score": 0.7634327168063045}

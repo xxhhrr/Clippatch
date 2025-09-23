@@ -1,0 +1,6 @@
+{"sent": "blue jean jacket", "ann_id": 223114, "best_split": [1, 5], "split_score": 0.5438311687759911}
+{"sent": "woman in blue face covered", "ann_id": 223114, "best_split": [1, 5], "split_score": 0.5438311687759911}
+{"sent": "woman", "ann_id": 223114, "best_split": [3, 1], "split_score": 0.15598650926665333}
+{"sent": "man", "ann_id": 192449, "best_split": [1, 5], "split_score": 0.5471391416980543}
+{"sent": "man in black", "ann_id": 192449, "best_split": [1, 5], "split_score": 0.5471391416980543}
+{"sent": "guy", "ann_id": 192449, "best_split": [1, 5], "split_score": 0.5471391416980543}

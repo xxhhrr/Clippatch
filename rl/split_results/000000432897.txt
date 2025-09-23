@@ -1,0 +1,6 @@
+{"sent": "far away person", "ann_id": 494512, "best_split": [2, 2], "split_score": 0.2545865085905598}
+{"sent": "woman watching", "ann_id": 494512, "best_split": [2, 1], "split_score": 0.135050157204108}
+{"sent": "player not swinging", "ann_id": 494512, "best_split": [2, 2], "split_score": 0.2545865085905598}
+{"sent": "swinging the bat", "ann_id": 448922, "best_split": [2, 1], "split_score": 0.24358974358277272}
+{"sent": "woman swinging", "ann_id": 448922, "best_split": [1, 2], "split_score": 0.4641509433805879}
+{"sent": "batter", "ann_id": 448922, "best_split": [2, 1], "split_score": 0.24358974358277272}

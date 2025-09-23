@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 524116, "best_split": [1, 2], "split_score": 0.4418048469211653}
+{"sent": "female in gray", "ann_id": 524116, "best_split": [1, 5], "split_score": 0.5209180708511826}
+{"sent": "blue shirt woman wearing white pendant", "ann_id": 524116, "best_split": [2, 1], "split_score": 0.25771905423304176}
+{"sent": "person in black", "ann_id": 487172, "best_split": [1, 5], "split_score": 0.7120653740817124}
+{"sent": "man", "ann_id": 487172, "best_split": [1, 5], "split_score": 0.7120653740817124}
+{"sent": "man", "ann_id": 487172, "best_split": [1, 5], "split_score": 0.7120653740817124}
+{"sent": "green shirt", "ann_id": 424727, "best_split": [1, 2], "split_score": 0.4872847576336382}
+{"sent": "lightest shirt", "ann_id": 424727, "best_split": [1, 2], "split_score": 0.4872847576336382}
+{"sent": "woman with light shirt", "ann_id": 424727, "best_split": [1, 2], "split_score": 0.4872847576336382}

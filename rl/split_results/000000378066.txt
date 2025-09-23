@@ -1,0 +1,9 @@
+{"sent": "zebra looking at camera half out of frame", "ann_id": 2191576, "best_split": [1, 3], "split_score": 0.3990709459218707}
+{"sent": "zebra popping into frame", "ann_id": 2191576, "best_split": [3, 3], "split_score": 0.3800935965780055}
+{"sent": "zebra looking at camera", "ann_id": 2191576, "best_split": [1, 3], "split_score": 0.3990709459218707}
+{"sent": "obscured zebra far away", "ann_id": 591448, "best_split": [2, 2], "split_score": 0.47035082269665623}
+{"sent": "zebra facing away farthest away", "ann_id": 591448, "best_split": [2, 2], "split_score": 0.47035082269665623}
+{"sent": "head of the pack going other way", "ann_id": 591448, "best_split": [2, 2], "split_score": 0.47035082269665623}
+{"sent": "zebra with no head four legs", "ann_id": 589899, "best_split": [3, 3], "split_score": 0.3759525825173632}
+{"sent": "side of the zebra", "ann_id": 589899, "best_split": [1, 2], "split_score": 0.2999043367227398}
+{"sent": "small zebra between two bigger ones", "ann_id": 589899, "best_split": [3, 2], "split_score": 0.36380886662378736}

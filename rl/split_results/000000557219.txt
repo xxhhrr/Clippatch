@@ -1,0 +1,6 @@
+{"sent": "sleepy dog", "ann_id": 16290, "best_split": [2, 3], "split_score": 0.76013513504342}
+{"sent": "dog not on woman", "ann_id": 16290, "best_split": [2, 3], "split_score": 0.76013513504342}
+{"sent": "dog furtherest from woman", "ann_id": 16290, "best_split": [2, 3], "split_score": 0.76013513504342}
+{"sent": "dog being cuddled", "ann_id": 9644, "best_split": [1, 5], "split_score": 0.3155886029929862}
+{"sent": "animal being petted", "ann_id": 9644, "best_split": [3, 2], "split_score": 0.5962054924546301}
+{"sent": "animal with the woman", "ann_id": 9644, "best_split": [3, 1], "split_score": 0.34703242396515394}

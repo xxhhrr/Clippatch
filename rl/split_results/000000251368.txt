@@ -1,0 +1,11 @@
+{"sent": "khaki shorts blocked by dog", "ann_id": 255649, "best_split": [1, 5], "split_score": 0.6491803278204783}
+{"sent": "shoe behind dog", "ann_id": 255649, "best_split": [1, 2], "split_score": 0.48931760202131225}
+{"sent": "khaki pants behind the dog", "ann_id": 255649, "best_split": [1, 2], "split_score": 0.48931760202131225}
+{"sent": "hairy leg", "ann_id": 202157, "best_split": [1, 2], "split_score": 0.867743819316031}
+{"sent": "hairy ass leg", "ann_id": 202157, "best_split": [1, 2], "split_score": 0.867743819316031}
+{"sent": "mans leg on skateboard", "ann_id": 202157, "best_split": [1, 2], "split_score": 0.867743819316031}
+{"sent": "wheel next to person with black shoes and orange thing on the toe", "ann_id": 130637, "best_split": [2, 1], "split_score": 0.10408745246794923}
+{"sent": "bike tire behind dogs leg", "ann_id": 130637, "best_split": [1, 2], "split_score": 0.2963169642739032}
+{"sent": "space between dog and the leg", "ann_id": 129736, "best_split": [3, 1], "split_score": 0.29495397763416525}
+{"sent": "space between mans leg and dogs head", "ann_id": 129736, "best_split": [3, 1], "split_score": 0.29495397763416525}
+{"sent": "next to leg either side", "ann_id": 129736, "best_split": [1, 2], "split_score": 0.5954241071191237}

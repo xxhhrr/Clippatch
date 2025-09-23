@@ -1,0 +1,5 @@
+{"sent": "red shorts second instance", "ann_id": 1302481, "best_split": [1, 5], "split_score": 0.6803455722874194}
+{"sent": "player with racket higher in number 2", "ann_id": 1302481, "best_split": [3, 1], "split_score": 0.1582118561633522}
+{"sent": "red shorts left", "ann_id": 1210688, "best_split": [1, 3], "split_score": 0.28581805988568293}
+{"sent": "girl in red shorts on the left", "ann_id": 1210688, "best_split": [2, 2], "split_score": 0.2619015957272672}
+{"sent": "woman in red shorts at 700", "ann_id": 1210688, "best_split": [2, 2], "split_score": 0.2619015957272672}

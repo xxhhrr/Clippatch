@@ -1,0 +1,5 @@
+{"sent": "the cop at the head of the line with only one foot on the ground", "ann_id": 1791766, "best_split": [1, 5], "split_score": 0.32802608859313004}
+{"sent": "lead bike on 9pm side", "ann_id": 1791766, "best_split": [1, 5], "split_score": 0.32802608859313004}
+{"sent": "bike near curb closest to us", "ann_id": 1360352, "best_split": [2, 3], "split_score": 0.4519056260830415}
+{"sent": "bike edge", "ann_id": 1360352, "best_split": [2, 3], "split_score": 0.4519056260830415}
+{"sent": "moto closest to standi8ng woman", "ann_id": 1360352, "best_split": [2, 3], "split_score": 0.4519056260830415}

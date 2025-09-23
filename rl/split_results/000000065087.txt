@@ -1,0 +1,9 @@
+{"sent": "caught the frisbee", "ann_id": 1711043, "best_split": [2, 1], "split_score": 0.28404415310904785}
+{"sent": "person catching frisbee", "ann_id": 1711043, "best_split": [2, 1], "split_score": 0.28404415310904785}
+{"sent": "person with frisbee in hand", "ann_id": 1711043, "best_split": [2, 1], "split_score": 0.28404415310904785}
+{"sent": "dude with adidas and blk socks and white hoodie", "ann_id": 1705966, "best_split": [3, 2], "split_score": 0.5511514424662999}
+{"sent": "guy running in white shirt", "ann_id": 1705966, "best_split": [3, 2], "split_score": 0.5511514424662999}
+{"sent": "white sweatshirt", "ann_id": 1705966, "best_split": [3, 2], "split_score": 0.5511514424662999}
+{"sent": "light yellow", "ann_id": 1214688, "best_split": [1, 2], "split_score": 0.4750356633192647}
+{"sent": "red hat", "ann_id": 1214688, "best_split": [2, 1], "split_score": 0.13786146603479058}
+{"sent": "yellow shirt hat", "ann_id": 1214688, "best_split": [1, 2], "split_score": 0.4750356633192647}

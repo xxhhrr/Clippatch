@@ -1,0 +1,6 @@
+{"sent": "nearest giraffe", "ann_id": 595944, "best_split": [1, 3], "split_score": 0.5201620108094489}
+{"sent": "one looking at you", "ann_id": 595944, "best_split": [1, 2], "split_score": 0.35658482141435804}
+{"sent": "looking at camera", "ann_id": 595944, "best_split": [1, 2], "split_score": 0.35658482141435804}
+{"sent": "giraffes rear", "ann_id": 595444, "best_split": [1, 5], "split_score": 0.5204951298173198}
+{"sent": "taller guy", "ann_id": 595444, "best_split": [1, 5], "split_score": 0.5204951298173198}
+{"sent": "tallest", "ann_id": 595444, "best_split": [1, 5], "split_score": 0.5204951298173198}

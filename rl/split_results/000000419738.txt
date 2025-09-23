@@ -1,0 +1,6 @@
+{"sent": "closer giraffe", "ann_id": 597573, "best_split": [1, 2], "split_score": 0.6770612020876889}
+{"sent": "tallest", "ann_id": 597573, "best_split": [1, 2], "split_score": 0.6770612020876889}
+{"sent": "giraffe closest to us", "ann_id": 597573, "best_split": [1, 2], "split_score": 0.6770612020876889}
+{"sent": "giraffe behind the fisrt one", "ann_id": 594761, "best_split": [2, 1], "split_score": 0.5335188464288667}
+{"sent": "giraffe furthest away", "ann_id": 594761, "best_split": [2, 1], "split_score": 0.5335188464288667}
+{"sent": "further", "ann_id": 594761, "best_split": [1, 2], "split_score": 0.3071698113124752}

@@ -1,0 +1,6 @@
+{"sent": "jeans", "ann_id": 504214, "best_split": [2, 1], "split_score": 0.8945824972644474}
+{"sent": "legs", "ann_id": 504214, "best_split": [1, 2], "split_score": 0.29333052364626144}
+{"sent": "black jeans", "ann_id": 504214, "best_split": [2, 2], "split_score": 0.41667958454438536}
+{"sent": "baby on phone", "ann_id": 480166, "best_split": [1, 2], "split_score": 0.5849103585449306}
+{"sent": "baby", "ann_id": 480166, "best_split": [1, 2], "split_score": 0.5849103585449306}
+{"sent": "baby", "ann_id": 480166, "best_split": [1, 2], "split_score": 0.5849103585449306}

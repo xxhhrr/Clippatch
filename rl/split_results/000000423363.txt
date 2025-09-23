@@ -1,0 +1,6 @@
+{"sent": "man in suit", "ann_id": 1732777, "best_split": [1, 2], "split_score": 0.4985809246210105}
+{"sent": "man in tux", "ann_id": 1732777, "best_split": [1, 2], "split_score": 0.4985809246210105}
+{"sent": "groom", "ann_id": 1732777, "best_split": [1, 2], "split_score": 0.4985809246210105}
+{"sent": "girl", "ann_id": 1233820, "best_split": [2, 1], "split_score": 0.40353523758228}
+{"sent": "woman facing us next to man facing us", "ann_id": 1233820, "best_split": [3, 1], "split_score": 0.33015207944094693}
+{"sent": "wife", "ann_id": 1233820, "best_split": [1, 2], "split_score": 0.5620848236892443}

@@ -1,0 +1,9 @@
+{"sent": "woman in orange", "ann_id": 1727661, "best_split": [1, 5], "split_score": 0.33411120126480204}
+{"sent": "orange shirt", "ann_id": 1727661, "best_split": [1, 5], "split_score": 0.33411120126480204}
+{"sent": "orange shirt in stands", "ann_id": 1727661, "best_split": [1, 5], "split_score": 0.33411120126480204}
+{"sent": "spectator in purple shirt", "ann_id": 513241, "best_split": [3, 3], "split_score": 0.4629469683083525}
+{"sent": "blue shirt sitting", "ann_id": 513241, "best_split": [3, 3], "split_score": 0.4629469683083525}
+{"sent": "purple shirt", "ann_id": 513241, "best_split": [5, 1], "split_score": 0.16333182434012386}
+{"sent": "batter", "ann_id": 479958, "best_split": [1, 3], "split_score": 0.4909766454166296}
+{"sent": "batter", "ann_id": 479958, "best_split": [1, 3], "split_score": 0.4909766454166296}
+{"sent": "batter", "ann_id": 479958, "best_split": [1, 3], "split_score": 0.4909766454166296}

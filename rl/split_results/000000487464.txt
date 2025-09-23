@@ -1,0 +1,7 @@
+{"sent": "big truck number one", "ann_id": 1783077, "best_split": [2, 2], "split_score": 0.34972234352344655}
+{"sent": "old truck", "ann_id": 1783077, "best_split": [2, 2], "split_score": 0.34972234352344655}
+{"sent": "car between others", "ann_id": 1783077, "best_split": [2, 2], "split_score": 0.34972234352344655}
+{"sent": "silver suv", "ann_id": 1773854, "best_split": [2, 3], "split_score": 0.5017814043786023}
+{"sent": "last car in line", "ann_id": 1773854, "best_split": [2, 1], "split_score": 0.19048947703322347}
+{"sent": "third car parked", "ann_id": 1773854, "best_split": [2, 1], "split_score": 0.19048947703322347}
+{"sent": "premier positioned car", "ann_id": 132685, "best_split": [3, 3], "split_score": 0.6350841056239127}

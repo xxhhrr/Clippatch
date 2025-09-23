@@ -1,0 +1,14 @@
+{"sent": "table cloth draping down near you", "ann_id": 1966469, "best_split": [2, 2], "split_score": 0.7384164580466139}
+{"sent": "tablecloth down part only by women in red spaghetti straps", "ann_id": 1966469, "best_split": [2, 2], "split_score": 0.7384164580466139}
+{"sent": "table", "ann_id": 118149, "best_split": [2, 2], "split_score": 0.42655059844759585}
+{"sent": "teh table holding food", "ann_id": 118149, "best_split": [2, 2], "split_score": 0.42655059844759585}
+{"sent": "the table they eating on", "ann_id": 118149, "best_split": [2, 2], "split_score": 0.42655059844759585}
+{"sent": "blue shirt", "ann_id": 1315354, "best_split": [2, 2], "split_score": 0.5245811757219262}
+{"sent": "guy blue shirt", "ann_id": 1315354, "best_split": [2, 2], "split_score": 0.5245811757219262}
+{"sent": "blue shirt guy", "ann_id": 1315354, "best_split": [2, 2], "split_score": 0.5245811757219262}
+{"sent": "person standing in red", "ann_id": 1278467, "best_split": [5, 1], "split_score": 0.15402567093231992}
+{"sent": "red standing", "ann_id": 1278467, "best_split": [2, 1], "split_score": 0.005811138014326837}
+{"sent": "red shirt standing", "ann_id": 1278467, "best_split": [2, 2], "split_score": 0.3006607929278901}
+{"sent": "red tank", "ann_id": 1260134, "best_split": [2, 3], "split_score": 0.5022624433905591}
+{"sent": "woman with back facing", "ann_id": 1260134, "best_split": [3, 3], "split_score": 0.37341636242501436}
+{"sent": "red spaghetti straps", "ann_id": 1260134, "best_split": [2, 3], "split_score": 0.5022624433905591}

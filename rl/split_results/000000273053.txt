@@ -1,0 +1,6 @@
+{"sent": "closest hotdog", "ann_id": 1069283, "best_split": [2, 2], "split_score": 0.468039987847013}
+{"sent": "hot dogs with onions", "ann_id": 1069283, "best_split": [2, 2], "split_score": 0.468039987847013}
+{"sent": "hotdog with white stuff on it", "ann_id": 1069283, "best_split": [2, 2], "split_score": 0.468039987847013}
+{"sent": "the weiner no slaw", "ann_id": 1069031, "best_split": [3, 3], "split_score": 0.4813157894103532}
+{"sent": "chili dog with no sauerkraut", "ann_id": 1069031, "best_split": [3, 3], "split_score": 0.4813157894103532}
+{"sent": "hot dog with chili only", "ann_id": 1069031, "best_split": [3, 3], "split_score": 0.4813157894103532}

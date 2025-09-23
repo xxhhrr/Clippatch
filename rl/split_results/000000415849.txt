@@ -1,0 +1,8 @@
+{"sent": "the beginning zebra", "ann_id": 593612, "best_split": [1, 5], "split_score": 0.18761412049698614}
+{"sent": "zebra with foot in the water", "ann_id": 592954, "best_split": [1, 2], "split_score": 0.4300413040112833}
+{"sent": "best zebra", "ann_id": 592954, "best_split": [1, 2], "split_score": 0.4300413040112833}
+{"sent": "zebra with thickest stripes", "ann_id": 592954, "best_split": [1, 2], "split_score": 0.4300413040112833}
+{"sent": "the zebra on this end", "ann_id": 591617, "best_split": [2, 2], "split_score": 0.4138794938986672}
+{"sent": "zebra head at 3", "ann_id": 591617, "best_split": [2, 2], "split_score": 0.4138794938986672}
+{"sent": "zebra between two others closest to another", "ann_id": 589356, "best_split": [1, 5], "split_score": 0.4208094621677315}
+{"sent": "one in from side not closest", "ann_id": 589356, "best_split": [2, 1], "split_score": 0.035173160171970606}

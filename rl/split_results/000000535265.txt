@@ -1,0 +1,6 @@
+{"sent": "person in far background can see face barely", "ann_id": 1725814, "best_split": [3, 3], "split_score": 0.4653376970447281}
+{"sent": "girl on couch", "ann_id": 1725814, "best_split": [3, 1], "split_score": 0.21252459774206942}
+{"sent": "woman", "ann_id": 1725814, "best_split": [3, 1], "split_score": 0.21252459774206942}
+{"sent": "dude", "ann_id": 204832, "best_split": [3, 2], "split_score": 0.5300859598379221}
+{"sent": "man in black", "ann_id": 204832, "best_split": [3, 2], "split_score": 0.5300859598379221}
+{"sent": "man in black with dog", "ann_id": 204832, "best_split": [3, 2], "split_score": 0.5300859598379221}

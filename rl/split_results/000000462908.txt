@@ -1,0 +1,6 @@
+{"sent": "beer near fries", "ann_id": 1504129, "best_split": [3, 3], "split_score": 0.5122718690194663}
+{"sent": "beer", "ann_id": 1504129, "best_split": [3, 3], "split_score": 0.5122718690194663}
+{"sent": "beer", "ann_id": 1504129, "best_split": [3, 3], "split_score": 0.5122718690194663}
+{"sent": "oj", "ann_id": 668600, "best_split": [3, 3], "split_score": 0.40224655191209346}
+{"sent": "glass of milk", "ann_id": 668600, "best_split": [3, 3], "split_score": 0.40224655191209346}
+{"sent": "orange juice", "ann_id": 668600, "best_split": [3, 3], "split_score": 0.40224655191209346}

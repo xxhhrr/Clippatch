@@ -1,0 +1,6 @@
+{"sent": "girl no scarf", "ann_id": 462243, "best_split": [5, 1], "split_score": 0.17599999998899998}
+{"sent": "woman with cap on", "ann_id": 462243, "best_split": [1, 5], "split_score": 0.48672566367835607}
+{"sent": "not white shirt", "ann_id": 462243, "best_split": [2, 2], "split_score": 0.23076923075602282}
+{"sent": "girl no hat", "ann_id": 428396, "best_split": [1, 5], "split_score": 0.2630230571956352}
+{"sent": "scarf", "ann_id": 428396, "best_split": [1, 5], "split_score": 0.2630230571956352}
+{"sent": "white shirt skiier", "ann_id": 428396, "best_split": [1, 3], "split_score": 0.25829228241607594}

@@ -1,0 +1,6 @@
+{"sent": "brown horsey", "ann_id": 54922, "best_split": [1, 3], "split_score": 0.4344827586004435}
+{"sent": "browner one", "ann_id": 54922, "best_split": [1, 2], "split_score": 0.3650131999317419}
+{"sent": "closer horse", "ann_id": 54922, "best_split": [1, 3], "split_score": 0.4344827586004435}
+{"sent": "cant see the horse", "ann_id": 54085, "best_split": [1, 3], "split_score": 0.39683197875282666}
+{"sent": "black horse", "ann_id": 54085, "best_split": [1, 3], "split_score": 0.39683197875282666}
+{"sent": "black one", "ann_id": 54085, "best_split": [1, 2], "split_score": 0.4334533595885096}

@@ -1,0 +1,8 @@
+{"sent": "person in orange and black between batter and umpire", "ann_id": 1263357, "best_split": [1, 3], "split_score": 0.17352923750378996}
+{"sent": "orange shirt arms on the railing", "ann_id": 1263357, "best_split": [1, 3], "split_score": 0.17352923750378996}
+{"sent": "coach in background watching", "ann_id": 1263357, "best_split": [3, 2], "split_score": 0.2587412587129872}
+{"sent": "catcher", "ann_id": 1234151, "best_split": [2, 1], "split_score": 0.15619636113484392}
+{"sent": "catcher", "ann_id": 1234151, "best_split": [2, 1], "split_score": 0.15619636113484392}
+{"sent": "catcher", "ann_id": 1234151, "best_split": [2, 1], "split_score": 0.15619636113484392}
+{"sent": "player hitting ball with bat", "ann_id": 489036, "best_split": [1, 3], "split_score": 0.6685198053913951}
+{"sent": "batter", "ann_id": 489036, "best_split": [1, 3], "split_score": 0.6685198053913951}

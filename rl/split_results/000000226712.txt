@@ -1,0 +1,6 @@
+{"sent": "yellow coat", "ann_id": 1163405, "best_split": [2, 3], "split_score": 0.7609979050884595}
+{"sent": "yellow", "ann_id": 1163405, "best_split": [2, 3], "split_score": 0.7609979050884595}
+{"sent": "yellow material", "ann_id": 1163405, "best_split": [2, 3], "split_score": 0.7609979050884595}
+{"sent": "teddy bear looking at me", "ann_id": 1163280, "best_split": [3, 3], "split_score": 0.4333649888862484}
+{"sent": "teddy bear looking at us", "ann_id": 1163280, "best_split": [3, 3], "split_score": 0.4333649888862484}
+{"sent": "teddy", "ann_id": 1163280, "best_split": [3, 3], "split_score": 0.4333649888862484}

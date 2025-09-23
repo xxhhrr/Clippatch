@@ -1,0 +1,5 @@
+{"sent": "blurry image behind woman", "ann_id": 1229016, "best_split": [1, 2], "split_score": 0.2254065688685664}
+{"sent": "blurry background person", "ann_id": 1229016, "best_split": [3, 2], "split_score": 0.261011124151125}
+{"sent": "girl talking on phone", "ann_id": 220138, "best_split": [1, 3], "split_score": 0.4203126757276934}
+{"sent": "lady", "ann_id": 220138, "best_split": [1, 3], "split_score": 0.4203126757276934}
+{"sent": "phone", "ann_id": 220138, "best_split": [1, 3], "split_score": 0.4203126757276934}

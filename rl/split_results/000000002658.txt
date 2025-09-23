@@ -1,0 +1,12 @@
+{"sent": "person in yellow in shorts", "ann_id": 1707683, "best_split": [2, 1], "split_score": 0.20415879016324065}
+{"sent": "man in yellow shirt with shorts", "ann_id": 1707683, "best_split": [2, 1], "split_score": 0.20415879016324065}
+{"sent": "black short white stripe", "ann_id": 1707683, "best_split": [1, 3], "split_score": 0.6385135134749932}
+{"sent": "taller guy in yellow", "ann_id": 547441, "best_split": [1, 3], "split_score": 0.6624895571868665}
+{"sent": "man with blue jeans on and yellow shirt", "ann_id": 547441, "best_split": [1, 3], "split_score": 0.6624895571868665}
+{"sent": "yellow shirt blue jeans", "ann_id": 547441, "best_split": [1, 3], "split_score": 0.6624895571868665}
+{"sent": "overdressed man", "ann_id": 541573, "best_split": [1, 3], "split_score": 0.8156370655878598}
+{"sent": "man with blue shirt and black jacket and tie", "ann_id": 541573, "best_split": [1, 3], "split_score": 0.8156370655878598}
+{"sent": "blue shirt", "ann_id": 541573, "best_split": [2, 3], "split_score": 0.4246145805837069}
+{"sent": "guy wearing a black shirt and shorts", "ann_id": 537264, "best_split": [1, 2], "split_score": 0.2694515306015046}
+{"sent": "black shirt with a grin", "ann_id": 537264, "best_split": [2, 2], "split_score": 0.2613695765642074}
+{"sent": "guy in all black next to the guy in the tie", "ann_id": 537264, "best_split": [1, 3], "split_score": 0.24306184412491014}

@@ -1,0 +1,3 @@
+{"sent": "yay blue fuzzy car behind her", "ann_id": 361663, "best_split": [5, 1], "split_score": 0.3144129103843619}
+{"sent": "black car", "ann_id": 361663, "best_split": [1, 2], "split_score": 0.3560076287207562}
+{"sent": "black car with brake lights on", "ann_id": 361663, "best_split": [3, 2], "split_score": 0.5361702127184246}

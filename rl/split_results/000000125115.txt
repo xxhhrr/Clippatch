@@ -1,0 +1,6 @@
+{"sent": "man in red", "ann_id": 479291, "best_split": [1, 5], "split_score": 0.7194968552812671}
+{"sent": "man", "ann_id": 479291, "best_split": [1, 5], "split_score": 0.7194968552812671}
+{"sent": "the man in red", "ann_id": 479291, "best_split": [1, 5], "split_score": 0.7194968552812671}
+{"sent": "lady", "ann_id": 473827, "best_split": [1, 2], "split_score": 0.5219086946376329}
+{"sent": "girl", "ann_id": 473827, "best_split": [1, 2], "split_score": 0.5219086946376329}
+{"sent": "her", "ann_id": 473827, "best_split": [1, 3], "split_score": 0.4475020037232357}

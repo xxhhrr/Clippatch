@@ -1,0 +1,6 @@
+{"sent": "horse closest to you", "ann_id": 275340, "best_split": [1, 2], "split_score": 0.5279017856932438}
+{"sent": "closest horse", "ann_id": 275340, "best_split": [1, 2], "split_score": 0.5279017856932438}
+{"sent": "full view horse", "ann_id": 275340, "best_split": [1, 2], "split_score": 0.5279017856932438}
+{"sent": "horse with man on it", "ann_id": 53711, "best_split": [3, 3], "split_score": 0.4664649520339807}
+{"sent": "a horse being ridden by a man", "ann_id": 53711, "best_split": [3, 3], "split_score": 0.4664649520339807}
+{"sent": "horse partially visible", "ann_id": 53711, "best_split": [3, 3], "split_score": 0.4664649520339807}

@@ -1,0 +1,7 @@
+{"sent": "skier in red", "ann_id": 1727973, "best_split": [1, 5], "split_score": 0.5169417897072157}
+{"sent": "red suit", "ann_id": 1727973, "best_split": [1, 2], "split_score": 0.3726881377402468}
+{"sent": "red pants", "ann_id": 1727973, "best_split": [1, 2], "split_score": 0.3726881377402468}
+{"sent": "15", "ann_id": 542940, "best_split": [1, 2], "split_score": 0.22110172192996247}
+{"sent": "third person in line", "ann_id": 542940, "best_split": [3, 3], "split_score": 0.4058155846950879}
+{"sent": "15", "ann_id": 542940, "best_split": [1, 2], "split_score": 0.22110172192996247}
+{"sent": "number 6", "ann_id": 488345, "best_split": [2, 1], "split_score": 0.3030367835664476}

@@ -1,0 +1,9 @@
+{"sent": "woman facing man", "ann_id": 492532, "best_split": [1, 3], "split_score": 0.7559121621165593}
+{"sent": "girl in maroon", "ann_id": 492532, "best_split": [1, 3], "split_score": 0.7559121621165593}
+{"sent": "woman", "ann_id": 492532, "best_split": [2, 1], "split_score": 0.2544351073677993}
+{"sent": "this dummys head on the side", "ann_id": 479498, "best_split": [1, 3], "split_score": 0.5205920973785011}
+{"sent": "person in black out of picture", "ann_id": 479498, "best_split": [1, 5], "split_score": 0.7169534968219559}
+{"sent": "half black man", "ann_id": 479498, "best_split": [1, 5], "split_score": 0.7169534968219559}
+{"sent": "man pouring", "ann_id": 470140, "best_split": [3, 1], "split_score": 0.37090909089086443}
+{"sent": "man", "ann_id": 470140, "best_split": [1, 2], "split_score": 0.3553454437032703}
+{"sent": "man", "ann_id": 470140, "best_split": [1, 2], "split_score": 0.3553454437032703}

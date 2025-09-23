@@ -1,0 +1,5 @@
+{"sent": "blurred hotdog", "ann_id": 2220368, "best_split": [3, 1], "split_score": 0.26443314387143996}
+{"sent": "partial dog", "ann_id": 2220368, "best_split": [3, 1], "split_score": 0.26443314387143996}
+{"sent": "hotdog", "ann_id": 566, "best_split": [2, 1], "split_score": 0.5612181921629031}
+{"sent": "uneaten hot dog", "ann_id": 566, "best_split": [2, 1], "split_score": 0.5612181921629031}
+{"sent": "full dog", "ann_id": 566, "best_split": [2, 1], "split_score": 0.5612181921629031}

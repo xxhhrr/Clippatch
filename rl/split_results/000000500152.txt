@@ -1,0 +1,9 @@
+{"sent": "girl sitting", "ann_id": 220626, "best_split": [1, 5], "split_score": 0.4581049333929028}
+{"sent": "girl eating", "ann_id": 220626, "best_split": [1, 3], "split_score": 0.304054054035711}
+{"sent": "girl sitting in striped shirt", "ann_id": 220626, "best_split": [1, 5], "split_score": 0.4581049333929028}
+{"sent": "girl standing in all pink sweater", "ann_id": 2167527, "best_split": [1, 5], "split_score": 0.6560568602707002}
+{"sent": "woman standing", "ann_id": 2167527, "best_split": [1, 5], "split_score": 0.6560568602707002}
+{"sent": "girl in pink standing up", "ann_id": 2167527, "best_split": [1, 5], "split_score": 0.6560568602707002}
+{"sent": "man in black shirt only arm showing", "ann_id": 1721681, "best_split": [2, 3], "split_score": 0.3324459234240215}
+{"sent": "man in black on side of picture", "ann_id": 1721681, "best_split": [2, 2], "split_score": 0.23617021274801137}
+{"sent": "person with arm only in picture corner at 5", "ann_id": 1721681, "best_split": [3, 2], "split_score": 0.1563342317908804}

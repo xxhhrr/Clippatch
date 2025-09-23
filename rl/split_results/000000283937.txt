@@ -1,0 +1,6 @@
+{"sent": "skater no hand on skate", "ann_id": 458180, "best_split": [2, 3], "split_score": 0.4753521126237509}
+{"sent": "not in the air", "ann_id": 458180, "best_split": [2, 1], "split_score": 0.2040816326449266}
+{"sent": "not as high in the air", "ann_id": 458180, "best_split": [3, 1], "split_score": 0.09708737863586735}
+{"sent": "in air", "ann_id": 439720, "best_split": [2, 3], "split_score": 0.4697674418108068}
+{"sent": "after phoo uy in air", "ann_id": 439720, "best_split": [2, 3], "split_score": 0.4697674418108068}
+{"sent": "guy at 3", "ann_id": 439720, "best_split": [3, 3], "split_score": 0.27260211102884324}

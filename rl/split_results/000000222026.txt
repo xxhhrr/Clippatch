@@ -1,0 +1,8 @@
+{"sent": "item next to dog", "ann_id": 2127276, "best_split": [2, 1], "split_score": 0.2313856299274831}
+{"sent": "red object", "ann_id": 2127276, "best_split": [2, 3], "split_score": 0.6501831501131025}
+{"sent": "red seat", "ann_id": 2127276, "best_split": [2, 3], "split_score": 0.6501831501131025}
+{"sent": "boy", "ann_id": 257197, "best_split": [2, 2], "split_score": 0.6199659003692183}
+{"sent": "kid", "ann_id": 257197, "best_split": [2, 2], "split_score": 0.6199659003692183}
+{"sent": "kid", "ann_id": 257197, "best_split": [2, 2], "split_score": 0.6199659003692183}
+{"sent": "woman", "ann_id": 214737, "best_split": [1, 2], "split_score": 0.8602519132310167}
+{"sent": "girl", "ann_id": 214737, "best_split": [1, 2], "split_score": 0.8602519132310167}

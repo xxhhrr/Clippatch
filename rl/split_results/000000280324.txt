@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 1096790, "best_split": [3, 2], "split_score": 0.5413254721540206}
+{"sent": "the red toilet", "ann_id": 1096790, "best_split": [3, 2], "split_score": 0.5413254721540206}
+{"sent": "red toilet", "ann_id": 1096790, "best_split": [3, 2], "split_score": 0.5413254721540206}
+{"sent": "blue toilet", "ann_id": 1096657, "best_split": [3, 2], "split_score": 0.545843099369513}
+{"sent": "toilet", "ann_id": 1096657, "best_split": [1, 2], "split_score": 0.4513431510230392}
+{"sent": "blue shitter", "ann_id": 1096657, "best_split": [3, 2], "split_score": 0.545843099369513}

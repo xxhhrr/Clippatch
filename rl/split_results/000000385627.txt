@@ -1,0 +1,9 @@
+{"sent": "potatoes", "ann_id": 1040516, "best_split": [1, 2], "split_score": 0.7776370472678552}
+{"sent": "white diced partially in frame", "ann_id": 1040516, "best_split": [1, 2], "split_score": 0.7776370472678552}
+{"sent": "big bowl of cut potatoes", "ann_id": 1040516, "best_split": [1, 2], "split_score": 0.7776370472678552}
+{"sent": "a bowl of carrots", "ann_id": 1037726, "best_split": [2, 2], "split_score": 0.8330853911906363}
+{"sent": "haha sorry carrots", "ann_id": 1037726, "best_split": [2, 2], "split_score": 0.8330853911906363}
+{"sent": "carrots", "ann_id": 1037726, "best_split": [2, 2], "split_score": 0.8330853911906363}
+{"sent": "the smaller bowl", "ann_id": 714171, "best_split": [2, 3], "split_score": 0.7049448303325557}
+{"sent": "small glass container", "ann_id": 714171, "best_split": [1, 3], "split_score": 0.38172161980627783}
+{"sent": "onions", "ann_id": 714171, "best_split": [3, 1], "split_score": 0.10396039603500883}

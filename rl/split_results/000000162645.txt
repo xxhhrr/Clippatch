@@ -1,0 +1,9 @@
+{"sent": "woman with glasses", "ann_id": 211745, "best_split": [2, 3], "split_score": 0.289213320428425}
+{"sent": "lady", "ann_id": 211745, "best_split": [2, 3], "split_score": 0.289213320428425}
+{"sent": "woman with long hair glasses white sweater", "ann_id": 211745, "best_split": [2, 3], "split_score": 0.289213320428425}
+{"sent": "man in black", "ann_id": 1730396, "best_split": [2, 3], "split_score": 0.48624517368650516}
+{"sent": "dark shirt with glasses", "ann_id": 1730396, "best_split": [2, 3], "split_score": 0.48624517368650516}
+{"sent": "black shirt", "ann_id": 1730396, "best_split": [2, 3], "split_score": 0.48624517368650516}
+{"sent": "man in light gray shirt", "ann_id": 1719438, "best_split": [2, 3], "split_score": 0.4010318948873086}
+{"sent": "no glassses guy", "ann_id": 1719438, "best_split": [2, 1], "split_score": 0.14588647958602174}
+{"sent": "gray guy", "ann_id": 1719438, "best_split": [2, 3], "split_score": 0.4010318948873086}

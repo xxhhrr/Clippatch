@@ -1,0 +1,6 @@
+{"sent": "white cat", "ann_id": 53037, "best_split": [2, 1], "split_score": 0.8396491868869121}
+{"sent": "black and white fur", "ann_id": 53037, "best_split": [2, 1], "split_score": 0.8396491868869121}
+{"sent": "back of cat", "ann_id": 53037, "best_split": [2, 2], "split_score": 0.48361267023261717}
+{"sent": "tan cat", "ann_id": 52748, "best_split": [2, 1], "split_score": 0.8182246661108317}
+{"sent": "orange cat", "ann_id": 52748, "best_split": [2, 1], "split_score": 0.8182246661108317}
+{"sent": "tan and white head", "ann_id": 52748, "best_split": [1, 3], "split_score": 0.28748636858344173}

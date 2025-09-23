@@ -1,0 +1,5 @@
+{"sent": "closest heron", "ann_id": 39086, "best_split": [1, 5], "split_score": 0.39001772805195567}
+{"sent": "bird mostly by trees", "ann_id": 39086, "best_split": [1, 5], "split_score": 0.39001772805195567}
+{"sent": "bird whose head is taller but neck is shorter", "ann_id": 37737, "best_split": [2, 2], "split_score": 0.303379177279023}
+{"sent": "bird no neck", "ann_id": 37737, "best_split": [2, 2], "split_score": 0.303379177279023}
+{"sent": "bird at 9", "ann_id": 37737, "best_split": [3, 1], "split_score": 0.2856995778706013}

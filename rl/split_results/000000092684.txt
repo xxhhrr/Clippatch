@@ -1,0 +1,6 @@
+{"sent": "which one is wearing blue", "ann_id": 506018, "best_split": [1, 3], "split_score": 0.4426229507937574}
+{"sent": "blue shirt", "ann_id": 506018, "best_split": [1, 3], "split_score": 0.4426229507937574}
+{"sent": "blue", "ann_id": 506018, "best_split": [1, 3], "split_score": 0.4426229507937574}
+{"sent": "white shirt", "ann_id": 429737, "best_split": [1, 3], "split_score": 0.714486309342705}
+{"sent": "white shirt", "ann_id": 429737, "best_split": [1, 3], "split_score": 0.714486309342705}
+{"sent": "person in white shirt", "ann_id": 429737, "best_split": [1, 3], "split_score": 0.714486309342705}

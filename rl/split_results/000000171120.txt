@@ -1,0 +1,14 @@
+{"sent": "farthest black luggage", "ann_id": 2175602, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "farthest luggage", "ann_id": 2175602, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "small bag on black bag", "ann_id": 1833785, "best_split": [3, 3], "split_score": 0.26585820891389017}
+{"sent": "purse on luggage", "ann_id": 1833785, "best_split": [3, 3], "split_score": 0.26585820891389017}
+{"sent": "the bag on the suitcase", "ann_id": 1833785, "best_split": [3, 3], "split_score": 0.26585820891389017}
+{"sent": "luggage nearest us", "ann_id": 1445695, "best_split": [2, 2], "split_score": 0.7325938009309889}
+{"sent": "suitcase with purse on it", "ann_id": 1445695, "best_split": [2, 2], "split_score": 0.7325938009309889}
+{"sent": "black suitcase closest to you", "ann_id": 1445695, "best_split": [2, 2], "split_score": 0.7325938009309889}
+{"sent": "largest luggage", "ann_id": 1186413, "best_split": [3, 1], "split_score": 0.2698760029052755}
+{"sent": "tallest suitcase", "ann_id": 1186413, "best_split": [3, 1], "split_score": 0.2698760029052755}
+{"sent": "big bag standing", "ann_id": 1186413, "best_split": [3, 1], "split_score": 0.2698760029052755}
+{"sent": "bag with white writing", "ann_id": 1171640, "best_split": [3, 1], "split_score": 0.04518664046904679}
+{"sent": "small mans face", "ann_id": 1171640, "best_split": [1, 5], "split_score": 0.19999999998069498}
+{"sent": "logo visible", "ann_id": 1171640, "best_split": [2, 3], "split_score": 0.2516129031968188}

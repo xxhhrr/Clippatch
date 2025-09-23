@@ -1,0 +1,6 @@
+{"sent": "the piece of cake", "ann_id": 2189659, "best_split": [1, 5], "split_score": 0.22306163019651473}
+{"sent": "cake slice", "ann_id": 2189659, "best_split": [1, 5], "split_score": 0.22306163019651473}
+{"sent": "cake slice", "ann_id": 2189659, "best_split": [1, 5], "split_score": 0.22306163019651473}
+{"sent": "cake", "ann_id": 1927045, "best_split": [3, 1], "split_score": 0.5747041419814717}
+{"sent": "cake with strawberries", "ann_id": 1927045, "best_split": [3, 1], "split_score": 0.5747041419814717}
+{"sent": "the whole cake", "ann_id": 1927045, "best_split": [3, 1], "split_score": 0.5747041419814717}

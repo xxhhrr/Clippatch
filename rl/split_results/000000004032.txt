@@ -1,0 +1,9 @@
+{"sent": "school bus 3", "ann_id": 248461, "best_split": [1, 3], "split_score": 0.6102846054087046}
+{"sent": "third bus", "ann_id": 248461, "best_split": [1, 3], "split_score": 0.6102846054087046}
+{"sent": "bus 3 in", "ann_id": 248461, "best_split": [1, 3], "split_score": 0.6102846054087046}
+{"sent": "bus under word description that looks like its sticking out more", "ann_id": 247788, "best_split": [1, 2], "split_score": 0.39190821254559527}
+{"sent": "yellow bus next to bus with paper in the back window", "ann_id": 247788, "best_split": [1, 2], "split_score": 0.39190821254559527}
+{"sent": "bus with most space on both sides", "ann_id": 247788, "best_split": [1, 2], "split_score": 0.39190821254559527}
+{"sent": "bus on end u can see most of", "ann_id": 164266, "best_split": [1, 5], "split_score": 0.601472134549987}
+{"sent": "bus in corner closest to us", "ann_id": 164266, "best_split": [1, 5], "split_score": 0.601472134549987}
+{"sent": "bus closest", "ann_id": 164266, "best_split": [1, 5], "split_score": 0.601472134549987}

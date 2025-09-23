@@ -1,0 +1,5 @@
+{"sent": "the blue one", "ann_id": 1161227, "best_split": [3, 3], "split_score": 0.5883672487440527}
+{"sent": "blue thing", "ann_id": 1161227, "best_split": [3, 3], "split_score": 0.5883672487440527}
+{"sent": "orange or yellow thing", "ann_id": 1159605, "best_split": [2, 2], "split_score": 0.3164865276056868}
+{"sent": "orange one", "ann_id": 1159605, "best_split": [2, 2], "split_score": 0.3164865276056868}
+{"sent": "orange", "ann_id": 1159605, "best_split": [2, 2], "split_score": 0.3164865276056868}

@@ -1,0 +1,6 @@
+{"sent": "green", "ann_id": 1799198, "best_split": [1, 5], "split_score": 0.4898911352556482}
+{"sent": "green truck", "ann_id": 1799198, "best_split": [2, 3], "split_score": 0.31460781500768054}
+{"sent": "truck with green", "ann_id": 1799198, "best_split": [2, 2], "split_score": 0.23110564437398484}
+{"sent": "big white truck", "ann_id": 394310, "best_split": [1, 2], "split_score": 0.4991207899251742}
+{"sent": "white truck", "ann_id": 394310, "best_split": [1, 2], "split_score": 0.4991207899251742}
+{"sent": "white truck", "ann_id": 394310, "best_split": [1, 2], "split_score": 0.4991207899251742}

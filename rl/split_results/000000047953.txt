@@ -1,0 +1,9 @@
+{"sent": "red", "ann_id": 542642, "best_split": [1, 5], "split_score": 0.6746666666024127}
+{"sent": "red shorts", "ann_id": 542642, "best_split": [1, 5], "split_score": 0.6746666666024127}
+{"sent": "man with red shorts", "ann_id": 542642, "best_split": [1, 5], "split_score": 0.6746666666024127}
+{"sent": "man in black tanktop", "ann_id": 499541, "best_split": [1, 5], "split_score": 0.7248062014865393}
+{"sent": "behind kicker", "ann_id": 499541, "best_split": [1, 5], "split_score": 0.7248062014865393}
+{"sent": "white shorts", "ann_id": 499541, "best_split": [1, 5], "split_score": 0.7248062014865393}
+{"sent": "man with ball", "ann_id": 444328, "best_split": [1, 2], "split_score": 0.47067822537806225}
+{"sent": "man in white tanktop", "ann_id": 444328, "best_split": [1, 2], "split_score": 0.47067822537806225}
+{"sent": "man near ball", "ann_id": 444328, "best_split": [1, 2], "split_score": 0.47067822537806225}

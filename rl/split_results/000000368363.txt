@@ -1,0 +1,6 @@
+{"sent": "the zebra nearest the camera", "ann_id": 591727, "best_split": [1, 2], "split_score": 0.8734057284136212}
+{"sent": "closest zebra", "ann_id": 591727, "best_split": [1, 2], "split_score": 0.8734057284136212}
+{"sent": "zebra closer to camera", "ann_id": 591727, "best_split": [1, 2], "split_score": 0.8734057284136212}
+{"sent": "zebra that is blocked", "ann_id": 590619, "best_split": [1, 3], "split_score": 0.5318302870916117}
+{"sent": "back zebra", "ann_id": 590619, "best_split": [1, 3], "split_score": 0.5318302870916117}
+{"sent": "zebra behind other zebra", "ann_id": 590619, "best_split": [1, 3], "split_score": 0.5318302870916117}

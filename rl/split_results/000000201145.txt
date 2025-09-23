@@ -1,0 +1,4 @@
+{"sent": "chair nearest score box", "ann_id": 1934159, "best_split": [3, 2], "split_score": 0.745294401454477}
+{"sent": "close chair almost out of pic", "ann_id": 1934159, "best_split": [3, 2], "split_score": 0.745294401454477}
+{"sent": "chair straight from light facing away", "ann_id": 387215, "best_split": [2, 3], "split_score": 0.42428212682342153}
+{"sent": "this is a wooden chair", "ann_id": 387215, "best_split": [2, 3], "split_score": 0.42428212682342153}

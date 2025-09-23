@@ -1,0 +1,6 @@
+{"sent": "taller bottle of wine", "ann_id": 1484177, "best_split": [2, 3], "split_score": 0.3459915611419784}
+{"sent": "big wine bottle", "ann_id": 1484177, "best_split": [2, 3], "split_score": 0.3459915611419784}
+{"sent": "bottle closest to wine glass", "ann_id": 1484177, "best_split": [2, 3], "split_score": 0.3459915611419784}
+{"sent": "bottle", "ann_id": 82604, "best_split": [3, 3], "split_score": 0.17926988263049706}
+{"sent": "smaller bottle", "ann_id": 82604, "best_split": [3, 3], "split_score": 0.17926988263049706}
+{"sent": "shorter wine bottle", "ann_id": 82604, "best_split": [3, 3], "split_score": 0.17926988263049706}

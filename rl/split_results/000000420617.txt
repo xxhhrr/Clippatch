@@ -1,0 +1,13 @@
+{"sent": "man on keyboard", "ann_id": 1204224, "best_split": [2, 2], "split_score": 0.4343601683337351}
+{"sent": "the man on computer", "ann_id": 1204224, "best_split": [2, 1], "split_score": 0.27814094844090426}
+{"sent": "partial black shirt dude", "ann_id": 1204224, "best_split": [1, 3], "split_score": 0.815970998398068}
+{"sent": "hot girl in white", "ann_id": 537128, "best_split": [1, 3], "split_score": 0.47472249031885116}
+{"sent": "girl", "ann_id": 537128, "best_split": [1, 2], "split_score": 0.2674306810649759}
+{"sent": "girl", "ann_id": 537128, "best_split": [1, 2], "split_score": 0.2674306810649759}
+{"sent": "person in the shadow by the kid in a white shirt and gray hoodie", "ann_id": 499017, "best_split": [2, 1], "split_score": 0.2449123081033978}
+{"sent": "guy in black shirt behind screen", "ann_id": 499017, "best_split": [2, 2], "split_score": 0.4802021903591788}
+{"sent": "man next to woman in white dress and guy with headphones", "ann_id": 458201, "best_split": [1, 3], "split_score": 0.385617760594497}
+{"sent": "man tall by woman", "ann_id": 458201, "best_split": [1, 3], "split_score": 0.385617760594497}
+{"sent": "guy with blue stripe on shoulders of shirt", "ann_id": 428668, "best_split": [1, 2], "split_score": 0.7636320152756843}
+{"sent": "white and blue shirt", "ann_id": 428668, "best_split": [1, 2], "split_score": 0.7636320152756843}
+{"sent": "blu n white shirt", "ann_id": 428668, "best_split": [1, 2], "split_score": 0.7636320152756843}

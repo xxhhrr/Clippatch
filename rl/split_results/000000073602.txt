@@ -1,0 +1,6 @@
+{"sent": "lid of suitcase", "ann_id": 1842329, "best_split": [1, 2], "split_score": 0.3686891053928064}
+{"sent": "large silver object", "ann_id": 1842329, "best_split": [2, 1], "split_score": 0.8371911573160992}
+{"sent": "interior of the suitcase lid", "ann_id": 1842329, "best_split": [1, 2], "split_score": 0.3686891053928064}
+{"sent": "buckle", "ann_id": 1184009, "best_split": [3, 2], "split_score": 0.7053111136907672}
+{"sent": "silver buclkes", "ann_id": 1184009, "best_split": [2, 2], "split_score": 0.46701595614296926}
+{"sent": "metal piece 500", "ann_id": 1184009, "best_split": [1, 2], "split_score": 0.23400023864468397}

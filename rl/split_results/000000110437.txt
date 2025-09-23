@@ -1,0 +1,4 @@
+{"sent": "chair below bald head", "ann_id": 105845, "best_split": [3, 2], "split_score": 0.345921814630077}
+{"sent": "back of metal seat that balding man is sitting on", "ann_id": 105845, "best_split": [2, 2], "split_score": 0.22855548467565723}
+{"sent": "seat by wall", "ann_id": 103022, "best_split": [3, 3], "split_score": 0.6230783142298646}
+{"sent": "seat at 5 o clock", "ann_id": 103022, "best_split": [5, 1], "split_score": 0.21157684628818935}

@@ -1,0 +1,6 @@
+{"sent": "green toothbrush", "ann_id": 1745539, "best_split": [2, 2], "split_score": 0.6610720086115653}
+{"sent": "smaller child", "ann_id": 1745539, "best_split": [2, 3], "split_score": 0.91205862748034}
+{"sent": "little stripey child", "ann_id": 1745539, "best_split": [2, 3], "split_score": 0.91205862748034}
+{"sent": "kid with blue toothbrush", "ann_id": 513208, "best_split": [1, 2], "split_score": 0.8632812499655899}
+{"sent": "blue tooth brush", "ann_id": 513208, "best_split": [1, 2], "split_score": 0.8632812499655899}
+{"sent": "blue toothbrush child", "ann_id": 513208, "best_split": [1, 2], "split_score": 0.8632812499655899}

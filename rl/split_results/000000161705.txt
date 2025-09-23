@@ -1,0 +1,13 @@
+{"sent": "lemon farthest", "ann_id": 1913724, "best_split": [3, 1], "split_score": 0.041823791564629814}
+{"sent": "the lemon whose stem side is pointing towards the other four lemons", "ann_id": 1913724, "best_split": [1, 5], "split_score": 0.18867924526760768}
+{"sent": "lemon at 10", "ann_id": 1913724, "best_split": [3, 1], "split_score": 0.041823791564629814}
+{"sent": "fruit with nub up", "ann_id": 1913303, "best_split": [1, 3], "split_score": 0.26557377047625447}
+{"sent": "small lemon on bullseye", "ann_id": 1913303, "best_split": [5, 1], "split_score": 0.20361990948580963}
+{"sent": "fruit with the stem turned up", "ann_id": 1913303, "best_split": [5, 1], "split_score": 0.20361990948580963}
+{"sent": "small lemon closesest to you", "ann_id": 1912795, "best_split": [2, 1], "split_score": 0.19993622448182652}
+{"sent": "foreground lemon", "ann_id": 1912795, "best_split": [2, 1], "split_score": 0.19993622448182652}
+{"sent": "smaller lime", "ann_id": 1912795, "best_split": [2, 1], "split_score": 0.19993622448182652}
+{"sent": "biggest fruit", "ann_id": 1912624, "best_split": [2, 2], "split_score": 0.6314278880273004}
+{"sent": "the huge green ball of death that completely dwarfs the others", "ann_id": 1912624, "best_split": [2, 2], "split_score": 0.6314278880273004}
+{"sent": "big one", "ann_id": 1912624, "best_split": [2, 2], "split_score": 0.6314278880273004}
+{"sent": "fruit on side between others small fruits", "ann_id": 1911889, "best_split": [1, 5], "split_score": 0.2243966079399546}

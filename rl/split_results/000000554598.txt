@@ -1,0 +1,5 @@
+{"sent": "purple sofa next to lamp", "ann_id": 116739, "best_split": [3, 2], "split_score": 0.4927992798725473}
+{"sent": "purple couch closest to window", "ann_id": 116739, "best_split": [3, 2], "split_score": 0.4927992798725473}
+{"sent": "couch closest to us", "ann_id": 114445, "best_split": [2, 1], "split_score": 0.6360289798066956}
+{"sent": "purple couch", "ann_id": 114445, "best_split": [2, 1], "split_score": 0.6360289798066956}
+{"sent": "large sofa", "ann_id": 114445, "best_split": [2, 1], "split_score": 0.6360289798066956}

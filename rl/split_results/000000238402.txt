@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 2158074, "best_split": [2, 2], "split_score": 0.300232738537611}
+{"sent": "taller person", "ann_id": 2158074, "best_split": [2, 2], "split_score": 0.300232738537611}
+{"sent": "black clothed man", "ann_id": 2158074, "best_split": [1, 5], "split_score": 0.3276440109472993}
+{"sent": "lady", "ann_id": 429488, "best_split": [1, 5], "split_score": 0.559354707735455}
+{"sent": "the lady that is partially blocked by the kite", "ann_id": 429488, "best_split": [1, 5], "split_score": 0.559354707735455}
+{"sent": "the girl", "ann_id": 429488, "best_split": [1, 5], "split_score": 0.559354707735455}

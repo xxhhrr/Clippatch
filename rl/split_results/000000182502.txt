@@ -1,0 +1,6 @@
+{"sent": "man in hat", "ann_id": 2203761, "best_split": [1, 5], "split_score": 0.4966863301655607}
+{"sent": "guy in the hat", "ann_id": 2203761, "best_split": [1, 5], "split_score": 0.4966863301655607}
+{"sent": "hat", "ann_id": 2203761, "best_split": [1, 5], "split_score": 0.4966863301655607}
+{"sent": "man with legs crossed", "ann_id": 483770, "best_split": [1, 3], "split_score": 0.49608230154338884}
+{"sent": "checkered shirt", "ann_id": 483770, "best_split": [1, 5], "split_score": 0.524289642486102}
+{"sent": "old man", "ann_id": 483770, "best_split": [1, 5], "split_score": 0.524289642486102}

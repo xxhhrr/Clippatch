@@ -1,0 +1,6 @@
+{"sent": "truck obstructed by tree", "ann_id": 401759, "best_split": [5, 1], "split_score": 0.3775999999725382}
+{"sent": "truck behind tree", "ann_id": 401759, "best_split": [5, 1], "split_score": 0.3775999999725382}
+{"sent": "hidden truck", "ann_id": 401759, "best_split": [5, 1], "split_score": 0.3775999999725382}
+{"sent": "truck closest to you", "ann_id": 399976, "best_split": [2, 2], "split_score": 0.6031363917323656}
+{"sent": "more truck showing", "ann_id": 399976, "best_split": [2, 2], "split_score": 0.6031363917323656}
+{"sent": "closest truck", "ann_id": 399976, "best_split": [2, 2], "split_score": 0.6031363917323656}

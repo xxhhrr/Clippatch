@@ -1,0 +1,6 @@
+{"sent": "slice of bread with sauce", "ann_id": 310349, "best_split": [1, 2], "split_score": 0.5078124999797587}
+{"sent": "bread with jam", "ann_id": 310349, "best_split": [1, 2], "split_score": 0.5078124999797587}
+{"sent": "blueberries", "ann_id": 310349, "best_split": [1, 2], "split_score": 0.5078124999797587}
+{"sent": "bananas", "ann_id": 309279, "best_split": [2, 3], "split_score": 0.7911670662678689}
+{"sent": "bananas", "ann_id": 309279, "best_split": [2, 3], "split_score": 0.7911670662678689}
+{"sent": "bread with banana", "ann_id": 309279, "best_split": [2, 3], "split_score": 0.7911670662678689}

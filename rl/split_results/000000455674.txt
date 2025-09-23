@@ -1,0 +1,6 @@
+{"sent": "bear on railing", "ann_id": 2147070, "best_split": [2, 3], "split_score": 0.3441119690704498}
+{"sent": "bear on bannister", "ann_id": 2147070, "best_split": [2, 2], "split_score": 0.22735969385942603}
+{"sent": "on handrail", "ann_id": 2147070, "best_split": [2, 3], "split_score": 0.3441119690704498}
+{"sent": "brown teddy bear above pillow on lower steps", "ann_id": 1675808, "best_split": [1, 5], "split_score": 0.20841227735805112}
+{"sent": "dark bear near us", "ann_id": 1675808, "best_split": [1, 5], "split_score": 0.20841227735805112}
+{"sent": "brown bear with pink collar", "ann_id": 1675808, "best_split": [1, 5], "split_score": 0.20841227735805112}

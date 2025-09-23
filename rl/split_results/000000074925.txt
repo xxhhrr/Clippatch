@@ -1,0 +1,6 @@
+{"sent": "back view of woman", "ann_id": 477285, "best_split": [1, 2], "split_score": 0.6548150509943075}
+{"sent": "cut off person", "ann_id": 477285, "best_split": [1, 2], "split_score": 0.6548150509943075}
+{"sent": "person facing away from camera in gray shirt", "ann_id": 477285, "best_split": [1, 3], "split_score": 0.991071428511639}
+{"sent": "person in black looking down", "ann_id": 468482, "best_split": [1, 3], "split_score": 0.3820224718886504}
+{"sent": "lady in back", "ann_id": 468482, "best_split": [3, 3], "split_score": 0.3775510203696376}
+{"sent": "person serving food in black", "ann_id": 468482, "best_split": [1, 3], "split_score": 0.3820224718886504}

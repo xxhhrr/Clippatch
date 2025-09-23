@@ -1,0 +1,6 @@
+{"sent": "sheep blanket near us", "ann_id": 68000, "best_split": [3, 1], "split_score": 0.4233051609169031}
+{"sent": "the jacket of the sheep who isnt looking at the camera", "ann_id": 68000, "best_split": [3, 2], "split_score": 0.7715759311436589}
+{"sent": "the sheet on the main animal", "ann_id": 68000, "best_split": [3, 2], "split_score": 0.7715759311436589}
+{"sent": "goat facing us", "ann_id": 67478, "best_split": [2, 3], "split_score": 0.3709695926137728}
+{"sent": "facing us", "ann_id": 67478, "best_split": [2, 3], "split_score": 0.3709695926137728}
+{"sent": "one looking at us", "ann_id": 67478, "best_split": [2, 3], "split_score": 0.3709695926137728}

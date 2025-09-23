@@ -1,0 +1,6 @@
+{"sent": "guy on bed", "ann_id": 539003, "best_split": [3, 1], "split_score": 0.4781466694432577}
+{"sent": "red and black shirt", "ann_id": 539003, "best_split": [3, 1], "split_score": 0.4781466694432577}
+{"sent": "red shirt", "ann_id": 539003, "best_split": [2, 1], "split_score": 0.4608577805938752}
+{"sent": "white hat girl", "ann_id": 526738, "best_split": [2, 3], "split_score": 0.33571428568188083}
+{"sent": "girl white hat", "ann_id": 526738, "best_split": [2, 3], "split_score": 0.33571428568188083}
+{"sent": "lady in hat", "ann_id": 526738, "best_split": [2, 3], "split_score": 0.33571428568188083}

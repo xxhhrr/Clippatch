@@ -1,0 +1,9 @@
+{"sent": "boy with blue phone in hand", "ann_id": 513797, "best_split": [1, 2], "split_score": 0.8164515758121835}
+{"sent": "guy without cap", "ann_id": 513797, "best_split": [1, 5], "split_score": 0.3416524311344672}
+{"sent": "boy with blue phone", "ann_id": 513797, "best_split": [1, 2], "split_score": 0.8164515758121835}
+{"sent": "red", "ann_id": 487838, "best_split": [1, 3], "split_score": 0.5120205542066425}
+{"sent": "kid with hat backwards", "ann_id": 487838, "best_split": [1, 3], "split_score": 0.5120205542066425}
+{"sent": "red shirt", "ann_id": 487838, "best_split": [1, 3], "split_score": 0.5120205542066425}
+{"sent": "brown hat", "ann_id": 427212, "best_split": [1, 5], "split_score": 0.5884815000344482}
+{"sent": "brown stocking hat gray hoodie", "ann_id": 427212, "best_split": [1, 5], "split_score": 0.5884815000344482}
+{"sent": "guy with brown hat", "ann_id": 427212, "best_split": [1, 5], "split_score": 0.5884815000344482}

@@ -1,0 +1,6 @@
+{"sent": "guy in all white", "ann_id": 566613, "best_split": [1, 3], "split_score": 0.41498361000238004}
+{"sent": "giant player on line", "ann_id": 566613, "best_split": [1, 3], "split_score": 0.41498361000238004}
+{"sent": "giants", "ann_id": 566613, "best_split": [1, 3], "split_score": 0.41498361000238004}
+{"sent": "player in blue standing up not at the base", "ann_id": 544099, "best_split": [1, 5], "split_score": 0.19572617244745402}
+{"sent": "guy on field in blue standing", "ann_id": 544099, "best_split": [1, 5], "split_score": 0.19572617244745402}
+{"sent": "far guy", "ann_id": 544099, "best_split": [3, 1], "split_score": 0.026285108636656857}

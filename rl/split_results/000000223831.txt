@@ -1,0 +1,6 @@
+{"sent": "person in red closest to us", "ann_id": 521777, "best_split": [2, 2], "split_score": 0.5606539359417053}
+{"sent": "closest person", "ann_id": 521777, "best_split": [2, 3], "split_score": 0.46145322142936096}
+{"sent": "gray hair woman", "ann_id": 521777, "best_split": [2, 2], "split_score": 0.5606539359417053}
+{"sent": "woman with glasses in black", "ann_id": 520730, "best_split": [2, 3], "split_score": 0.25028879473909427}
+{"sent": "girl with red hat", "ann_id": 520730, "best_split": [2, 1], "split_score": 0.18734056121702244}
+{"sent": "orange hat glasses", "ann_id": 520730, "best_split": [2, 3], "split_score": 0.25028879473909427}

@@ -1,0 +1,6 @@
+{"sent": "cat standing", "ann_id": 52124, "best_split": [1, 3], "split_score": 0.4955891182626396}
+{"sent": "cat reaching up", "ann_id": 52124, "best_split": [1, 3], "split_score": 0.4955891182626396}
+{"sent": "up rite cat", "ann_id": 52124, "best_split": [1, 3], "split_score": 0.4955891182626396}
+{"sent": "small kitty", "ann_id": 51852, "best_split": [1, 5], "split_score": 0.6957007257867391}
+{"sent": "shorter cat", "ann_id": 51852, "best_split": [1, 5], "split_score": 0.6957007257867391}
+{"sent": "smaller cat", "ann_id": 51852, "best_split": [1, 5], "split_score": 0.6957007257867391}

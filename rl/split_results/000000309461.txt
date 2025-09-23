@@ -1,0 +1,6 @@
+{"sent": "leg sitting behind runner", "ann_id": 496177, "best_split": [3, 3], "split_score": 0.5267570210246252}
+{"sent": "white pants in dugout seen more", "ann_id": 496177, "best_split": [3, 1], "split_score": 0.25567210122815687}
+{"sent": "white leg behind the runner", "ann_id": 496177, "best_split": [3, 1], "split_score": 0.25567210122815687}
+{"sent": "this dude", "ann_id": 494658, "best_split": [1, 3], "split_score": 0.4109346496294953}
+{"sent": "player", "ann_id": 494658, "best_split": [1, 2], "split_score": 0.611360160312975}
+{"sent": "guty running", "ann_id": 494658, "best_split": [1, 2], "split_score": 0.611360160312975}

@@ -1,0 +1,8 @@
+{"sent": "bus nearest red sign", "ann_id": 169374, "best_split": [3, 3], "split_score": 0.36170531034230285}
+{"sent": "bus around stop sign cut off", "ann_id": 169374, "best_split": [3, 3], "split_score": 0.36170531034230285}
+{"sent": "260 bus", "ann_id": 169262, "best_split": [1, 5], "split_score": 0.3500368459515441}
+{"sent": "saids 260 on it", "ann_id": 169262, "best_split": [1, 5], "split_score": 0.3500368459515441}
+{"sent": "bus with number on it", "ann_id": 169262, "best_split": [1, 5], "split_score": 0.3500368459515441}
+{"sent": "bus with one numer 6", "ann_id": 165751, "best_split": [5, 1], "split_score": 0.20930232556522427}
+{"sent": "bus number 6", "ann_id": 165751, "best_split": [5, 1], "split_score": 0.20930232556522427}
+{"sent": "yellow double decker with just a 6", "ann_id": 165751, "best_split": [1, 5], "split_score": 0.34884522575414983}

@@ -1,0 +1,5 @@
+{"sent": "man in black slumped over", "ann_id": 1718343, "best_split": [3, 2], "split_score": 0.30887333480369455}
+{"sent": "person in black", "ann_id": 1718343, "best_split": [3, 2], "split_score": 0.30887333480369455}
+{"sent": "black shirt", "ann_id": 1718343, "best_split": [3, 2], "split_score": 0.30887333480369455}
+{"sent": "person out of focus wearing a watch", "ann_id": 520874, "best_split": [3, 3], "split_score": 0.5113221328503794}
+{"sent": "man with watch in blue shirt", "ann_id": 520874, "best_split": [3, 3], "split_score": 0.5113221328503794}

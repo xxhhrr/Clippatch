@@ -1,0 +1,6 @@
+{"sent": "big bowl brown liuid next to rice bowl", "ann_id": 1540710, "best_split": [2, 3], "split_score": 0.34459459455301705}
+{"sent": "bowl of soup next to the rice", "ann_id": 1540710, "best_split": [3, 2], "split_score": 0.3228869895153268}
+{"sent": "bowl with clear broth and black stuff", "ann_id": 1540710, "best_split": [3, 3], "split_score": 0.48467569485305134}
+{"sent": "the rice bowl", "ann_id": 1537242, "best_split": [3, 3], "split_score": 0.450335570394239}
+{"sent": "larger bowl looks like maybe grits", "ann_id": 1537242, "best_split": [3, 2], "split_score": 0.22028121003192572}
+{"sent": "bowl of rice", "ann_id": 1537242, "best_split": [3, 3], "split_score": 0.450335570394239}

@@ -1,0 +1,12 @@
+{"sent": "bird farthest from ear", "ann_id": 1815539, "best_split": [2, 3], "split_score": 0.605431124451035}
+{"sent": "lowest bird", "ann_id": 1815539, "best_split": [2, 3], "split_score": 0.605431124451035}
+{"sent": "the parakeet that is not near the womans ear", "ann_id": 1815539, "best_split": [2, 3], "split_score": 0.605431124451035}
+{"sent": "bird closest to baby", "ann_id": 1815001, "best_split": [2, 3], "split_score": 0.6057160417326658}
+{"sent": "bird near her ear", "ann_id": 1815001, "best_split": [2, 1], "split_score": 0.2610671015742052}
+{"sent": "bird by her ear", "ann_id": 1815001, "best_split": [5, 1], "split_score": 0.2687072327077693}
+{"sent": "baby", "ann_id": 189787, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "baby", "ann_id": 189787, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "baby", "ann_id": 189787, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "woman", "ann_id": 187979, "best_split": [1, 2], "split_score": 0.7543780870885118}
+{"sent": "adult", "ann_id": 187979, "best_split": [1, 2], "split_score": 0.7543780870885118}
+{"sent": "woman", "ann_id": 187979, "best_split": [1, 2], "split_score": 0.7543780870885118}

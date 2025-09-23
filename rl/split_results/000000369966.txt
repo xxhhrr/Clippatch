@@ -1,0 +1,18 @@
+{"sent": "woman in all white", "ann_id": 1328362, "best_split": [1, 5], "split_score": 0.2536633663115185}
+{"sent": "woman in between everyone", "ann_id": 1328362, "best_split": [2, 3], "split_score": 0.23252971889428622}
+{"sent": "the woman holding a tennis racket to her chest", "ann_id": 1328362, "best_split": [1, 5], "split_score": 0.2536633663115185}
+{"sent": "man in long pants next to lady in dark clothes", "ann_id": 1325335, "best_split": [1, 5], "split_score": 0.46948168896643167}
+{"sent": "taller man next to woman in vest", "ann_id": 1325335, "best_split": [3, 1], "split_score": 0.137648809516494}
+{"sent": "tall guy next to woman with dark jacket", "ann_id": 1325335, "best_split": [3, 1], "split_score": 0.137648809516494}
+{"sent": "lady next to a black dressed lady", "ann_id": 1319478, "best_split": [3, 1], "split_score": 0.10819165378073572}
+{"sent": "person next to one in black not holding racket", "ann_id": 1319478, "best_split": [3, 1], "split_score": 0.10819165378073572}
+{"sent": "wearing jacket rachet down", "ann_id": 1279238, "best_split": [3, 3], "split_score": 0.2050618348856684}
+{"sent": "dark shirt", "ann_id": 1279238, "best_split": [3, 2], "split_score": 0.15333882933292056}
+{"sent": "smallest person on team", "ann_id": 1279238, "best_split": [2, 3], "split_score": 0.24258909734177983}
+{"sent": "guy smiling with glasses", "ann_id": 1272817, "best_split": [3, 2], "split_score": 0.20963172802411656}
+{"sent": "guy with glass", "ann_id": 1272817, "best_split": [3, 1], "split_score": 0.11402157164241572}
+{"sent": "tall guy not on end", "ann_id": 1272817, "best_split": [2, 3], "split_score": 0.18189007511052885}
+{"sent": "skirt", "ann_id": 1245428, "best_split": [2, 2], "split_score": 0.15093912648782234}
+{"sent": "woman not holding racket", "ann_id": 1245428, "best_split": [3, 3], "split_score": 0.23176417502906238}
+{"sent": "man all the way to the end not next to dark clothing", "ann_id": 1232402, "best_split": [3, 2], "split_score": 0.18864021062736128}
+{"sent": "shorter man at 9", "ann_id": 1232402, "best_split": [2, 1], "split_score": 0.12323540632875866}

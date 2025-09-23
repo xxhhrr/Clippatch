@@ -1,0 +1,8 @@
+{"sent": "cooper vase next to cat", "ann_id": 1954459, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "tall by cat", "ann_id": 1954459, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "incense burner next to cat", "ann_id": 1954459, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "plant touching cds", "ann_id": 27340, "best_split": [1, 2], "split_score": 0.6664540816060884}
+{"sent": "large leaf plant", "ann_id": 27340, "best_split": [1, 3], "split_score": 0.7309211893984757}
+{"sent": "cactus near red and white container", "ann_id": 21628, "best_split": [3, 3], "split_score": 0.5691141885851693}
+{"sent": "cactus furthest from the cat", "ann_id": 21628, "best_split": [3, 2], "split_score": 0.4162048537725774}
+{"sent": "spiky cactus with long leaves next to pot of red stuff", "ann_id": 21628, "best_split": [3, 3], "split_score": 0.5691141885851693}

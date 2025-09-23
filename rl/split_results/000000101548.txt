@@ -1,0 +1,6 @@
+{"sent": "thin white towel under black jacket", "ann_id": 1957862, "best_split": [2, 3], "split_score": 0.5536532757782655}
+{"sent": "leftish part of bed", "ann_id": 1957862, "best_split": [2, 1], "split_score": 0.5147483654966265}
+{"sent": "bedsheet section under the red purse", "ann_id": 1957862, "best_split": [2, 1], "split_score": 0.5147483654966265}
+{"sent": "purse", "ann_id": 1957828, "best_split": [2, 1], "split_score": 0.516063456612083}
+{"sent": "white cloth by blue bag", "ann_id": 1957828, "best_split": [2, 2], "split_score": 0.7234128861656809}
+{"sent": "blue purse", "ann_id": 1957828, "best_split": [3, 2], "split_score": 0.5348753161882995}

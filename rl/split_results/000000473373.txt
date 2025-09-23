@@ -1,0 +1,6 @@
+{"sent": "wood chair back", "ann_id": 1582431, "best_split": [1, 5], "split_score": 0.4542641654946563}
+{"sent": "the wooden chair behind the baby", "ann_id": 1582431, "best_split": [1, 5], "split_score": 0.4542641654946563}
+{"sent": "wooden chair next to baby chair", "ann_id": 1582431, "best_split": [1, 5], "split_score": 0.4542641654946563}
+{"sent": "seat back", "ann_id": 382824, "best_split": [1, 3], "split_score": 0.7000052254428591}
+{"sent": "baby chair", "ann_id": 382824, "best_split": [1, 3], "split_score": 0.7000052254428591}
+{"sent": "high chair seat", "ann_id": 382824, "best_split": [1, 3], "split_score": 0.7000052254428591}

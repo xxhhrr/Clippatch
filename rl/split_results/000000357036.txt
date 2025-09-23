@@ -1,0 +1,10 @@
+{"sent": "table bench thingy at 1 o clock", "ann_id": 579881, "best_split": [1, 5], "split_score": 0.3324937027408696}
+{"sent": "the bench as it is starting to fold down", "ann_id": 579881, "best_split": [1, 5], "split_score": 0.3324937027408696}
+{"sent": "third stage of table evolution", "ann_id": 579014, "best_split": [3, 1], "split_score": 0.3701252658727177}
+{"sent": "bench with dude sitting on it", "ann_id": 578741, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man two thirds done turning it into a picnic table", "ann_id": 535646, "best_split": [2, 1], "split_score": 0.146683673463541}
+{"sent": "man in third box", "ann_id": 535646, "best_split": [2, 2], "split_score": 0.29336734691538846}
+{"sent": "7 o clock man", "ann_id": 535646, "best_split": [1, 2], "split_score": 0.146683673463541}
+{"sent": "man folding the furniture", "ann_id": 463047, "best_split": [1, 3], "split_score": 0.2564990317319113}
+{"sent": "man at 1 o clock", "ann_id": 463047, "best_split": [3, 3], "split_score": 0.4491287239391331}
+{"sent": "picture of man standing just starting to unfold bench", "ann_id": 463047, "best_split": [1, 3], "split_score": 0.2564990317319113}

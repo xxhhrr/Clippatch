@@ -1,0 +1,9 @@
+{"sent": "girl with green toothbrush", "ann_id": 491411, "best_split": [2, 1], "split_score": 0.5384885148010261}
+{"sent": "light blue toothbrush", "ann_id": 491411, "best_split": [2, 1], "split_score": 0.5384885148010261}
+{"sent": "middle girl", "ann_id": 491411, "best_split": [2, 1], "split_score": 0.5384885148010261}
+{"sent": "lowest girl", "ann_id": 458496, "best_split": [2, 1], "split_score": 0.3233411397219617}
+{"sent": "lefty girl", "ann_id": 458496, "best_split": [2, 1], "split_score": 0.3233411397219617}
+{"sent": "shortest girl", "ann_id": 458496, "best_split": [2, 1], "split_score": 0.3233411397219617}
+{"sent": "highest head", "ann_id": 437397, "best_split": [1, 2], "split_score": 0.6392299106888062}
+{"sent": "girl 3", "ann_id": 437397, "best_split": [1, 3], "split_score": 0.8539594110139299}
+{"sent": "purple and white toothbrush", "ann_id": 437397, "best_split": [1, 3], "split_score": 0.8539594110139299}

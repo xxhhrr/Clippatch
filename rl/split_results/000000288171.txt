@@ -1,0 +1,6 @@
+{"sent": "leg rest", "ann_id": 117593, "best_split": [2, 1], "split_score": 0.3288026147828124}
+{"sent": "smaller couch thing close to table", "ann_id": 117593, "best_split": [2, 2], "split_score": 0.6480145834470941}
+{"sent": "chaise lounge close to you", "ann_id": 117593, "best_split": [2, 1], "split_score": 0.3288026147828124}
+{"sent": "sofa", "ann_id": 117208, "best_split": [2, 3], "split_score": 0.5336538461080311}
+{"sent": "couch", "ann_id": 117208, "best_split": [2, 3], "split_score": 0.5336538461080311}
+{"sent": "sofa facing television", "ann_id": 117208, "best_split": [3, 1], "split_score": 0.26902173911738053}

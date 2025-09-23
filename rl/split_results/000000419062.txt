@@ -1,0 +1,6 @@
+{"sent": "shorter elephant standing fully in water", "ann_id": 582515, "best_split": [3, 2], "split_score": 0.672040729669915}
+{"sent": "smaller elephant", "ann_id": 582515, "best_split": [3, 2], "split_score": 0.672040729669915}
+{"sent": "sideways", "ann_id": 582515, "best_split": [2, 1], "split_score": 0.10244430902219363}
+{"sent": "bigger one", "ann_id": 580921, "best_split": [3, 2], "split_score": 0.38532110088060767}
+{"sent": "elephant with its feet not in the water", "ann_id": 580921, "best_split": [1, 5], "split_score": 0.361817565245692}
+{"sent": "elephant standing on dirt", "ann_id": 580921, "best_split": [1, 5], "split_score": 0.361817565245692}

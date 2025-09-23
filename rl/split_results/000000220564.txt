@@ -1,0 +1,6 @@
+{"sent": "banana not under bird", "ann_id": 1543041, "best_split": [3, 2], "split_score": 0.5090041740597491}
+{"sent": "fruit not stand on", "ann_id": 1543041, "best_split": [3, 2], "split_score": 0.5090041740597491}
+{"sent": "yellow fruit with no bird feet on it", "ann_id": 1543041, "best_split": [3, 2], "split_score": 0.5090041740597491}
+{"sent": "thing bird is sitting on", "ann_id": 1041633, "best_split": [1, 3], "split_score": 0.15057653175725885}
+{"sent": "the banana the bird is standing on", "ann_id": 1041633, "best_split": [5, 1], "split_score": 0.3406744665872899}
+{"sent": "banana that the bird is perched on", "ann_id": 1041633, "best_split": [5, 1], "split_score": 0.3406744665872899}

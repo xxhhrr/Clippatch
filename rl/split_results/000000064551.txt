@@ -1,0 +1,9 @@
+{"sent": "bmw bike", "ann_id": 245918, "best_split": [2, 2], "split_score": 0.5018516664747347}
+{"sent": "sideways bike engine and wheel", "ann_id": 245918, "best_split": [2, 2], "split_score": 0.5018516664747347}
+{"sent": "bike underneath man", "ann_id": 245918, "best_split": [2, 2], "split_score": 0.5018516664747347}
+{"sent": "black bike with headlight facing us", "ann_id": 245437, "best_split": [2, 3], "split_score": 0.24304860969763467}
+{"sent": "far away bike", "ann_id": 245437, "best_split": [2, 3], "split_score": 0.24304860969763467}
+{"sent": "furthest bike", "ann_id": 245437, "best_split": [2, 3], "split_score": 0.24304860969763467}
+{"sent": "closest motorcycle", "ann_id": 246536, "best_split": [2, 1], "split_score": 0.3259431540059219}
+{"sent": "closest bike", "ann_id": 246536, "best_split": [2, 1], "split_score": 0.3259431540059219}
+{"sent": "closer moto", "ann_id": 246536, "best_split": [2, 1], "split_score": 0.3259431540059219}

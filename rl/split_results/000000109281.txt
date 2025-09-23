@@ -1,0 +1,6 @@
+{"sent": "chair behind the guy in blue", "ann_id": 1949743, "best_split": [2, 2], "split_score": 0.4539221938413646}
+{"sent": "couch behind man", "ann_id": 1949743, "best_split": [5, 1], "split_score": 0.2832150519654056}
+{"sent": "chair behind boy", "ann_id": 1949743, "best_split": [2, 2], "split_score": 0.4539221938413646}
+{"sent": "couch", "ann_id": 98106, "best_split": [2, 2], "split_score": 0.9025829080913119}
+{"sent": "long sofa", "ann_id": 98106, "best_split": [2, 2], "split_score": 0.9025829080913119}
+{"sent": "couch", "ann_id": 98106, "best_split": [2, 2], "split_score": 0.9025829080913119}

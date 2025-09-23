@@ -1,0 +1,6 @@
+{"sent": "umbrella over man", "ann_id": 1425546, "best_split": [2, 3], "split_score": 0.5952740069959582}
+{"sent": "umbrella next to man sitting", "ann_id": 1425546, "best_split": [2, 3], "split_score": 0.5952740069959582}
+{"sent": "umbrella", "ann_id": 1425546, "best_split": [2, 3], "split_score": 0.5952740069959582}
+{"sent": "half umbrella that says rmf", "ann_id": 1426268, "best_split": [3, 2], "split_score": 0.4459459458921397}
+{"sent": "closest umbrella", "ann_id": 1426268, "best_split": [5, 1], "split_score": 0.3333333333005378}
+{"sent": "yellow umbrella over sunflowers closest to camera", "ann_id": 1426268, "best_split": [2, 3], "split_score": 0.42125237186654974}

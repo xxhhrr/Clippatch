@@ -1,0 +1,6 @@
+{"sent": "red toothbrush", "ann_id": 343037, "best_split": [1, 5], "split_score": 0.5646698433828565}
+{"sent": "red", "ann_id": 343037, "best_split": [1, 5], "split_score": 0.5646698433828565}
+{"sent": "red one", "ann_id": 343037, "best_split": [1, 5], "split_score": 0.5646698433828565}
+{"sent": "green toothbrush not reflection", "ann_id": 342633, "best_split": [2, 3], "split_score": 0.21984551394138982}
+{"sent": "green toothbrush with side to us", "ann_id": 342633, "best_split": [2, 3], "split_score": 0.21984551394138982}
+{"sent": "green toothbrush closest to white thing in the corner", "ann_id": 342633, "best_split": [2, 3], "split_score": 0.21984551394138982}

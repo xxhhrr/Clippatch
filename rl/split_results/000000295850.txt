@@ -1,0 +1,6 @@
+{"sent": "the salad", "ann_id": 312931, "best_split": [3, 2], "split_score": 0.5116825479368435}
+{"sent": "the salad", "ann_id": 312931, "best_split": [3, 2], "split_score": 0.5116825479368435}
+{"sent": "salad", "ann_id": 312931, "best_split": [3, 2], "split_score": 0.5116825479368435}
+{"sent": "sandwich with bun", "ann_id": 310263, "best_split": [3, 3], "split_score": 0.8419535049843299}
+{"sent": "sandwich with sesame seeds on bun", "ann_id": 310263, "best_split": [3, 3], "split_score": 0.8419535049843299}
+{"sent": "food inside hamburger bun", "ann_id": 310263, "best_split": [3, 3], "split_score": 0.8419535049843299}

@@ -1,0 +1,6 @@
+{"sent": "tan car", "ann_id": 356435, "best_split": [3, 3], "split_score": 0.5751072960344944}
+{"sent": "car next to the van", "ann_id": 356435, "best_split": [5, 1], "split_score": 0.2934484111128434}
+{"sent": "brown car facing away from us", "ann_id": 356435, "best_split": [3, 3], "split_score": 0.5751072960344944}
+{"sent": "dark blue van", "ann_id": 353337, "best_split": [5, 1], "split_score": 0.32173269156592627}
+{"sent": "blue van", "ann_id": 353337, "best_split": [5, 1], "split_score": 0.32173269156592627}
+{"sent": "mini van blue", "ann_id": 353337, "best_split": [3, 3], "split_score": 0.5137614678113515}

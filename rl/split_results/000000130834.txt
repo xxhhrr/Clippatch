@@ -1,0 +1,11 @@
+{"sent": "black laptop", "ann_id": 1101002, "best_split": [2, 2], "split_score": 0.5850115074377868}
+{"sent": "black computer next to blue cup", "ann_id": 1101002, "best_split": [2, 2], "split_score": 0.5850115074377868}
+{"sent": "black laptop", "ann_id": 1101002, "best_split": [2, 2], "split_score": 0.5850115074377868}
+{"sent": "laptop with no one on it", "ann_id": 1099758, "best_split": [2, 2], "split_score": 0.5728592888975426}
+{"sent": "unoccupied laptop", "ann_id": 1099758, "best_split": [2, 2], "split_score": 0.5728592888975426}
+{"sent": "nobodys working laptop", "ann_id": 1099758, "best_split": [2, 2], "split_score": 0.5728592888975426}
+{"sent": "gray jacket", "ann_id": 215277, "best_split": [1, 3], "split_score": 0.6681949806546696}
+{"sent": "asian", "ann_id": 215277, "best_split": [1, 3], "split_score": 0.6681949806546696}
+{"sent": "shes at a black laptop", "ann_id": 215277, "best_split": [2, 2], "split_score": 0.31661092528892915}
+{"sent": "blue shirt sunglasses on head", "ann_id": 214336, "best_split": [3, 3], "split_score": 0.5523193095346615}
+{"sent": "woman in blue", "ann_id": 214336, "best_split": [3, 3], "split_score": 0.5523193095346615}

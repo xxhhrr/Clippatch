@@ -1,0 +1,6 @@
+{"sent": "smaller bird", "ann_id": 39608, "best_split": [2, 2], "split_score": 0.24650712406650246}
+{"sent": "lef bird", "ann_id": 39608, "best_split": [2, 2], "split_score": 0.24650712406650246}
+{"sent": "background", "ann_id": 39608, "best_split": [2, 3], "split_score": 0.18061749569634497}
+{"sent": "bird", "ann_id": 38578, "best_split": [2, 3], "split_score": 0.4981263011451682}
+{"sent": "main parrot", "ann_id": 38578, "best_split": [2, 3], "split_score": 0.4981263011451682}
+{"sent": "the clearest parrot", "ann_id": 38578, "best_split": [2, 3], "split_score": 0.4981263011451682}

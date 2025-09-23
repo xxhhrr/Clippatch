@@ -1,0 +1,5 @@
+{"sent": "black guys bike", "ann_id": 154399, "best_split": [1, 5], "split_score": 0.3956230459673405}
+{"sent": "bike further from police car", "ann_id": 154399, "best_split": [1, 5], "split_score": 0.3956230459673405}
+{"sent": "bike near curb", "ann_id": 154399, "best_split": [5, 1], "split_score": 0.18723404253896397}
+{"sent": "cop bike closest to suv", "ann_id": 148616, "best_split": [2, 3], "split_score": 0.5940390544028732}
+{"sent": "9pm moto", "ann_id": 148616, "best_split": [2, 3], "split_score": 0.5940390544028732}

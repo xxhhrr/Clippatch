@@ -1,0 +1,9 @@
+{"sent": "pinl dress", "ann_id": 1755720, "best_split": [3, 3], "split_score": 0.5224646982641252}
+{"sent": "girl in pink dress", "ann_id": 1755720, "best_split": [3, 3], "split_score": 0.5224646982641252}
+{"sent": "woman holding the pink umbrella but not the umbrella itself just the woman", "ann_id": 1755720, "best_split": [2, 3], "split_score": 0.45961002780942994}
+{"sent": "man with hair", "ann_id": 1754229, "best_split": [2, 1], "split_score": 0.15134255491830342}
+{"sent": "man with dark hair and glasses", "ann_id": 1754229, "best_split": [1, 3], "split_score": 0.699333551802724}
+{"sent": "person in glasses", "ann_id": 1754229, "best_split": [1, 3], "split_score": 0.699333551802724}
+{"sent": "man with red strip on shoulders", "ann_id": 490090, "best_split": [1, 5], "split_score": 0.494728819986363}
+{"sent": "man in blue shirt with red stripe", "ann_id": 490090, "best_split": [1, 3], "split_score": 0.8046045567932361}
+{"sent": "bald guy", "ann_id": 490090, "best_split": [1, 3], "split_score": 0.8046045567932361}

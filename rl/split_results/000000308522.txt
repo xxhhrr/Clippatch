@@ -1,0 +1,5 @@
+{"sent": "the person in the striped shirt", "ann_id": 485290, "best_split": [3, 2], "split_score": 0.3786430402916014}
+{"sent": "person in background with what looks like a pinkish striped shirt with arms bent up", "ann_id": 485290, "best_split": [2, 3], "split_score": 0.23586581667511067}
+{"sent": "woman with monkey", "ann_id": 478079, "best_split": [2, 1], "split_score": 0.6314446688468309}
+{"sent": "monkey lady", "ann_id": 478079, "best_split": [2, 1], "split_score": 0.6314446688468309}
+{"sent": "lady holding monkey", "ann_id": 478079, "best_split": [2, 1], "split_score": 0.6314446688468309}

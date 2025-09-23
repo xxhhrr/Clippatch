@@ -1,0 +1,4 @@
+{"sent": "zebra with other one", "ann_id": 590833, "best_split": [1, 2], "split_score": 0.864821040108174}
+{"sent": "numer 2 zebra", "ann_id": 590833, "best_split": [1, 2], "split_score": 0.864821040108174}
+{"sent": "zebra on left", "ann_id": 588601, "best_split": [3, 3], "split_score": 0.272519159934681}
+{"sent": "zebra not already eating", "ann_id": 588601, "best_split": [3, 1], "split_score": 0.2591854954927826}

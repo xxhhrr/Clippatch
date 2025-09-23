@@ -1,0 +1,6 @@
+{"sent": "bowl with food", "ann_id": 1539240, "best_split": [3, 2], "split_score": 0.4365221544922343}
+{"sent": "green bowel", "ann_id": 1539240, "best_split": [3, 2], "split_score": 0.4365221544922343}
+{"sent": "cat food", "ann_id": 1539240, "best_split": [1, 5], "split_score": 0.16603773583481665}
+{"sent": "water bowl", "ann_id": 1538945, "best_split": [2, 2], "split_score": 0.2822066326305639}
+{"sent": "water bowl", "ann_id": 1538945, "best_split": [2, 2], "split_score": 0.2822066326305639}
+{"sent": "water bowl by face", "ann_id": 1538945, "best_split": [2, 2], "split_score": 0.2822066326305639}

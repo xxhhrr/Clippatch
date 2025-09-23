@@ -1,0 +1,6 @@
+{"sent": "the catcher", "ann_id": 492310, "best_split": [2, 3], "split_score": 0.7078952792508869}
+{"sent": "catcher", "ann_id": 492310, "best_split": [1, 3], "split_score": 0.38176764867249763}
+{"sent": "catcher", "ann_id": 492310, "best_split": [1, 3], "split_score": 0.38176764867249763}
+{"sent": "umpire behind cathcer", "ann_id": 472188, "best_split": [2, 2], "split_score": 0.3918611268930093}
+{"sent": "ump", "ann_id": 472188, "best_split": [2, 1], "split_score": 0.20706766916514782}
+{"sent": "umpire", "ann_id": 472188, "best_split": [2, 2], "split_score": 0.3918611268930093}

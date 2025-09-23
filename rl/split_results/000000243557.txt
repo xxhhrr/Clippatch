@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 1711693, "best_split": [2, 2], "split_score": 0.7137229913274794}
+{"sent": "female", "ann_id": 1711693, "best_split": [1, 2], "split_score": 0.5978153682546531}
+{"sent": "woman", "ann_id": 1711693, "best_split": [2, 2], "split_score": 0.7137229913274794}
+{"sent": "the man", "ann_id": 470807, "best_split": [1, 2], "split_score": 0.6719124950981664}
+{"sent": "man in tie", "ann_id": 470807, "best_split": [1, 2], "split_score": 0.6719124950981664}
+{"sent": "black man standing", "ann_id": 470807, "best_split": [1, 2], "split_score": 0.6719124950981664}

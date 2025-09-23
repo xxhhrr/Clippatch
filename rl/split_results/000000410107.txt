@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 446571, "best_split": [1, 2], "split_score": 0.522872991840542}
+{"sent": "male tennis player", "ann_id": 446571, "best_split": [1, 2], "split_score": 0.522872991840542}
+{"sent": "guy fist bumping", "ann_id": 446571, "best_split": [1, 2], "split_score": 0.522872991840542}
+{"sent": "girl with white shirt", "ann_id": 434545, "best_split": [3, 1], "split_score": 0.1790528862683792}
+{"sent": "girl", "ann_id": 434545, "best_split": [1, 5], "split_score": 0.4017156862416899}
+{"sent": "woman", "ann_id": 434545, "best_split": [1, 5], "split_score": 0.4017156862416899}

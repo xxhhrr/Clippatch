@@ -1,0 +1,12 @@
+{"sent": "blue cover", "ann_id": 1803556, "best_split": [5, 1], "split_score": 0.4710479573293918}
+{"sent": "blue tarp above the red striped tarp", "ann_id": 1803556, "best_split": [2, 2], "split_score": 0.3336104183753387}
+{"sent": "blue covered up boat", "ann_id": 1803556, "best_split": [1, 2], "split_score": 0.17850259450783904}
+{"sent": "tan tarped boat next to blue one", "ann_id": 1803470, "best_split": [3, 2], "split_score": 0.3845273517527435}
+{"sent": "fourthest gray boat in frontest of man", "ann_id": 1803470, "best_split": [1, 2], "split_score": 0.13156864280164585}
+{"sent": "gray cover next to blue", "ann_id": 1803470, "best_split": [3, 2], "split_score": 0.3845273517527435}
+{"sent": "red and blue striped cover", "ann_id": 1376318, "best_split": [3, 1], "split_score": 0.7193520139711388}
+{"sent": "stripes", "ann_id": 1376318, "best_split": [3, 1], "split_score": 0.7193520139711388}
+{"sent": "striped one", "ann_id": 1376318, "best_split": [3, 1], "split_score": 0.7193520139711388}
+{"sent": "boat without cover", "ann_id": 1376228, "best_split": [3, 1], "split_score": 0.8537700733354371}
+{"sent": "uncovered boat", "ann_id": 1376228, "best_split": [3, 1], "split_score": 0.8537700733354371}
+{"sent": "blue boat that isnt covered", "ann_id": 1376228, "best_split": [3, 1], "split_score": 0.8537700733354371}

@@ -1,0 +1,6 @@
+{"sent": "the wooden chair", "ann_id": 2190143, "best_split": [3, 3], "split_score": 0.38933528115607463}
+{"sent": "wodden chair back", "ann_id": 2190143, "best_split": [3, 3], "split_score": 0.38933528115607463}
+{"sent": "wood chair not railing", "ann_id": 2190143, "best_split": [3, 3], "split_score": 0.38933528115607463}
+{"sent": "railing only closest to pepper", "ann_id": 1584387, "best_split": [3, 1], "split_score": 0.24403006373113736}
+{"sent": "small railing", "ann_id": 1584387, "best_split": [5, 1], "split_score": 0.3479467258360192}
+{"sent": "railing", "ann_id": 1584387, "best_split": [5, 1], "split_score": 0.3479467258360192}

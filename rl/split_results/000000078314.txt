@@ -1,0 +1,6 @@
+{"sent": "truck farthest from us thats cut off says power on it", "ann_id": 397853, "best_split": [3, 2], "split_score": 0.3242352940795017}
+{"sent": "half of a truck", "ann_id": 397853, "best_split": [3, 2], "split_score": 0.3242352940795017}
+{"sent": "truck without anything in the bed", "ann_id": 397853, "best_split": [3, 2], "split_score": 0.3242352940795017}
+{"sent": "motorztv", "ann_id": 396407, "best_split": [1, 2], "split_score": 0.5320361212499453}
+{"sent": "closest truck", "ann_id": 396407, "best_split": [1, 3], "split_score": 0.44562365846513163}
+{"sent": "main truck", "ann_id": 396407, "best_split": [1, 3], "split_score": 0.44562365846513163}

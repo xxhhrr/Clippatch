@@ -1,0 +1,6 @@
+{"sent": "bike by bench", "ann_id": 245589, "best_split": [3, 1], "split_score": 0.15468227423940833}
+{"sent": "black box", "ann_id": 245589, "best_split": [3, 2], "split_score": 0.27286135690700025}
+{"sent": "the motorbike with the box on back", "ann_id": 245589, "best_split": [3, 1], "split_score": 0.15468227423940833}
+{"sent": "bike without something on the back", "ann_id": 150954, "best_split": [3, 3], "split_score": 0.4771828013087335}
+{"sent": "bike with plain walls", "ann_id": 150954, "best_split": [3, 3], "split_score": 0.4771828013087335}
+{"sent": "motorcycle without box on back", "ann_id": 150954, "best_split": [3, 3], "split_score": 0.4771828013087335}

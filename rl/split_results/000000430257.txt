@@ -1,0 +1,12 @@
+{"sent": "red napkin in lap", "ann_id": 504354, "best_split": [2, 1], "split_score": 0.2324075132307537}
+{"sent": "woman most hidden", "ann_id": 504354, "best_split": [2, 3], "split_score": 0.6457076319841528}
+{"sent": "girl with bow looking down", "ann_id": 493600, "best_split": [2, 1], "split_score": 0.23488818362112007}
+{"sent": "lady with head down", "ann_id": 493600, "best_split": [2, 1], "split_score": 0.23488818362112007}
+{"sent": "girl nearest yellow wall", "ann_id": 493600, "best_split": [1, 5], "split_score": 0.43201633803848744}
+{"sent": "darkest haired girl with white kimono", "ann_id": 463679, "best_split": [2, 3], "split_score": 0.5247524752049381}
+{"sent": "woman with darkest hair", "ann_id": 463679, "best_split": [1, 3], "split_score": 0.4607250755038452}
+{"sent": "brunette hair", "ann_id": 463679, "best_split": [1, 3], "split_score": 0.4607250755038452}
+{"sent": "closest girl", "ann_id": 439276, "best_split": [2, 2], "split_score": 0.4993058254845723}
+{"sent": "girl closest to you", "ann_id": 439276, "best_split": [2, 2], "split_score": 0.4993058254845723}
+{"sent": "girl with arms up", "ann_id": 439276, "best_split": [1, 2], "split_score": 0.4266849473074511}
+{"sent": "table with ashtray", "ann_id": 414822, "best_split": [3, 2], "split_score": 0.8585491619760284}

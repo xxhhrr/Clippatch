@@ -1,0 +1,6 @@
+{"sent": "walking", "ann_id": 410763, "best_split": [5, 1], "split_score": 0.23453576297046388}
+{"sent": "walk", "ann_id": 410763, "best_split": [1, 5], "split_score": 0.34854434662501393}
+{"sent": "walk sign", "ann_id": 410763, "best_split": [3, 1], "split_score": 0.31389957579590116}
+{"sent": "yellow side of light turned away from us", "ann_id": 407112, "best_split": [1, 2], "split_score": 0.6166754458342736}
+{"sent": "yellow", "ann_id": 407112, "best_split": [1, 2], "split_score": 0.6166754458342736}
+{"sent": "signal turned away", "ann_id": 407112, "best_split": [1, 2], "split_score": 0.6166754458342736}

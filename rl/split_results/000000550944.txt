@@ -1,0 +1,13 @@
+{"sent": "8th person", "ann_id": 1309974, "best_split": [3, 2], "split_score": 0.15094339621188455}
+{"sent": "woman in line", "ann_id": 1289366, "best_split": [1, 3], "split_score": 0.22804054052678327}
+{"sent": "black woman in black dress", "ann_id": 1289366, "best_split": [2, 3], "split_score": 0.33436532504042843}
+{"sent": "woman in black", "ann_id": 1289366, "best_split": [2, 3], "split_score": 0.33436532504042843}
+{"sent": "no hat holding scissors", "ann_id": 1281510, "best_split": [1, 5], "split_score": 0.36223267367448464}
+{"sent": "blond hair sunglasses", "ann_id": 1250556, "best_split": [1, 3], "split_score": 0.5938103281495046}
+{"sent": "curly hair shades", "ann_id": 1250556, "best_split": [2, 3], "split_score": 0.30457619799218766}
+{"sent": "sunglasses guy next to hat", "ann_id": 1250556, "best_split": [1, 3], "split_score": 0.5938103281495046}
+{"sent": "black dude in the hat", "ann_id": 1715970, "best_split": [1, 5], "split_score": 0.5836233741909119}
+{"sent": "black guy with hat", "ann_id": 1715970, "best_split": [1, 5], "split_score": 0.5836233741909119}
+{"sent": "dude closest to us head down", "ann_id": 1250229, "best_split": [1, 5], "split_score": 0.5889813311090725}
+{"sent": "man closest to us looking down", "ann_id": 1250229, "best_split": [1, 3], "split_score": 0.3502051158089886}
+{"sent": "closest man", "ann_id": 1250229, "best_split": [1, 5], "split_score": 0.5889813311090725}

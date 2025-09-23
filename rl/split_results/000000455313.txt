@@ -1,0 +1,6 @@
+{"sent": "white jacket", "ann_id": 502191, "best_split": [2, 2], "split_score": 0.3659119897667481}
+{"sent": "white coat", "ann_id": 502191, "best_split": [2, 2], "split_score": 0.3659119897667481}
+{"sent": "person in white", "ann_id": 502191, "best_split": [2, 2], "split_score": 0.3659119897667481}
+{"sent": "black jacket", "ann_id": 448413, "best_split": [1, 5], "split_score": 0.45643153523588975}
+{"sent": "darker", "ann_id": 448413, "best_split": [1, 5], "split_score": 0.45643153523588975}
+{"sent": "gray coat", "ann_id": 448413, "best_split": [1, 5], "split_score": 0.45643153523588975}

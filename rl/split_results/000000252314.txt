@@ -1,0 +1,10 @@
+{"sent": "big orange closest", "ann_id": 1054612, "best_split": [2, 3], "split_score": 0.32236842102233376}
+{"sent": "closest orange", "ann_id": 1054612, "best_split": [2, 3], "split_score": 0.32236842102233376}
+{"sent": "closest orange with the stem", "ann_id": 1054420, "best_split": [2, 3], "split_score": 0.4581323980208097}
+{"sent": "5 ockock orange", "ann_id": 1054420, "best_split": [2, 3], "split_score": 0.4581323980208097}
+{"sent": "orange exactly at 5 clock", "ann_id": 1054420, "best_split": [2, 3], "split_score": 0.4581323980208097}
+{"sent": "orange blocked by branch", "ann_id": 1053766, "best_split": [3, 3], "split_score": 0.27042253517664244}
+{"sent": "orange behind the others", "ann_id": 1053766, "best_split": [1, 5], "split_score": 0.2276394849590009}
+{"sent": "orange by edge of bowl", "ann_id": 1053290, "best_split": [2, 2], "split_score": 0.10178083971780964}
+{"sent": "has green leave covering half of it", "ann_id": 1053290, "best_split": [3, 1], "split_score": 0.21900778434884352}
+{"sent": "orange in focus with full leaf on its head", "ann_id": 1053290, "best_split": [3, 1], "split_score": 0.21900778434884352}

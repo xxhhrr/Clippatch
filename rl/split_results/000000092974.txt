@@ -1,0 +1,6 @@
+{"sent": "woman with back turned walking away", "ann_id": 2203893, "best_split": [3, 3], "split_score": 0.6001247659700366}
+{"sent": "person in dark clothes walking away", "ann_id": 2203893, "best_split": [3, 1], "split_score": 0.21973503881796852}
+{"sent": "gray coat walking away", "ann_id": 2203893, "best_split": [3, 2], "split_score": 0.41717259318981215}
+{"sent": "man", "ann_id": 2203802, "best_split": [1, 2], "split_score": 0.27061891037907854}
+{"sent": "white shirt", "ann_id": 2203802, "best_split": [2, 3], "split_score": 0.6678480177476429}
+{"sent": "main man", "ann_id": 2203802, "best_split": [2, 3], "split_score": 0.6678480177476429}

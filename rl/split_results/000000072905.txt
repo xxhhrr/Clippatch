@@ -1,0 +1,4 @@
+{"sent": "partial animal at 2 o clock", "ann_id": 76470, "best_split": [2, 2], "split_score": 0.37438423642438545}
+{"sent": "cow looking at us", "ann_id": 75738, "best_split": [3, 2], "split_score": 0.2958754208442892}
+{"sent": "facing camera", "ann_id": 75738, "best_split": [3, 1], "split_score": 0.158048561142196}
+{"sent": "cow facing you", "ann_id": 75738, "best_split": [3, 2], "split_score": 0.2958754208442892}

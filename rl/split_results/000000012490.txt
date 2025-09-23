@@ -1,0 +1,12 @@
+{"sent": "bowl with brown food in it", "ann_id": 1039021, "best_split": [2, 3], "split_score": 0.9383259910777085}
+{"sent": "brown soup", "ann_id": 1039021, "best_split": [2, 3], "split_score": 0.9383259910777085}
+{"sent": "bowl soup or chili next to salad", "ann_id": 1039021, "best_split": [2, 3], "split_score": 0.9383259910777085}
+{"sent": "bowl with salad and chicken", "ann_id": 718474, "best_split": [1, 3], "split_score": 0.4188424319691965}
+{"sent": "white bowl with salad", "ann_id": 718474, "best_split": [1, 3], "split_score": 0.4188424319691965}
+{"sent": "salad", "ann_id": 718474, "best_split": [1, 3], "split_score": 0.4188424319691965}
+{"sent": "coke looking drink", "ann_id": 672697, "best_split": [3, 3], "split_score": 0.5259313366461046}
+{"sent": "soda with less", "ann_id": 672697, "best_split": [3, 3], "split_score": 0.5259313366461046}
+{"sent": "cup on leftish side", "ann_id": 672697, "best_split": [3, 2], "split_score": 0.34749034744842056}
+{"sent": "panera drink without straw", "ann_id": 671467, "best_split": [3, 2], "split_score": 0.2994691119329791}
+{"sent": "fuller glass", "ann_id": 671467, "best_split": [3, 2], "split_score": 0.2994691119329791}
+{"sent": "cup fuller", "ann_id": 671467, "best_split": [1, 2], "split_score": 0.0}

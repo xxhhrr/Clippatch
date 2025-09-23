@@ -1,0 +1,6 @@
+{"sent": "farthest truck", "ann_id": 396251, "best_split": [3, 2], "split_score": 0.6443792025149749}
+{"sent": "lead truck", "ann_id": 396251, "best_split": [3, 2], "split_score": 0.6443792025149749}
+{"sent": "fartest car", "ann_id": 396251, "best_split": [3, 1], "split_score": 0.42284224537259585}
+{"sent": "truck where entire back is seen", "ann_id": 394234, "best_split": [1, 2], "split_score": 0.386240433658074}
+{"sent": "the shorter truck", "ann_id": 394234, "best_split": [1, 2], "split_score": 0.386240433658074}
+{"sent": "closer truck", "ann_id": 394234, "best_split": [1, 2], "split_score": 0.386240433658074}

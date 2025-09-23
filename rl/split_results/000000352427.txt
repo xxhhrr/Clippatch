@@ -1,0 +1,5 @@
+{"sent": "white shorts", "ann_id": 502884, "best_split": [1, 5], "split_score": 0.2315789473466561}
+{"sent": "white pants", "ann_id": 502884, "best_split": [1, 5], "split_score": 0.2315789473466561}
+{"sent": "person in background white pants", "ann_id": 502884, "best_split": [3, 2], "split_score": 0.3918918918446076}
+{"sent": "man in green", "ann_id": 481923, "best_split": [1, 2], "split_score": 0.5758260042614741}
+{"sent": "the guy", "ann_id": 481923, "best_split": [1, 2], "split_score": 0.5758260042614741}

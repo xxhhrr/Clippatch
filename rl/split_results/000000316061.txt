@@ -1,0 +1,9 @@
+{"sent": "smallest piece", "ann_id": 313343, "best_split": [2, 3], "split_score": 0.16701287908527077}
+{"sent": "smaller piece of pie", "ann_id": 313343, "best_split": [5, 1], "split_score": 0.1781376518054713}
+{"sent": "bite taken", "ann_id": 313343, "best_split": [2, 3], "split_score": 0.16701287908527077}
+{"sent": "brown roll on plate", "ann_id": 313011, "best_split": [2, 3], "split_score": 0.459894277124811}
+{"sent": "brown sandwich", "ann_id": 313011, "best_split": [2, 1], "split_score": 0.1760204081562492}
+{"sent": "loaf 3 ocklock", "ann_id": 313011, "best_split": [2, 3], "split_score": 0.459894277124811}
+{"sent": "bigger white sandwich triangle", "ann_id": 310356, "best_split": [3, 3], "split_score": 0.3906330416479019}
+{"sent": "half sandwich near cup", "ann_id": 310356, "best_split": [3, 3], "split_score": 0.3906330416479019}
+{"sent": "bigger sandwich", "ann_id": 310356, "best_split": [3, 3], "split_score": 0.3906330416479019}

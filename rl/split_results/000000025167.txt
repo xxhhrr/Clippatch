@@ -1,0 +1,6 @@
+{"sent": "blue shirt and arm", "ann_id": 476536, "best_split": [1, 5], "split_score": 0.7177914109741381}
+{"sent": "blue shirt", "ann_id": 476536, "best_split": [1, 5], "split_score": 0.7177914109741381}
+{"sent": "person in blue", "ann_id": 476536, "best_split": [1, 2], "split_score": 0.32142857141575937}
+{"sent": "wman", "ann_id": 448125, "best_split": [1, 2], "split_score": 0.5175139603907096}
+{"sent": "woman", "ann_id": 448125, "best_split": [1, 2], "split_score": 0.5175139603907096}
+{"sent": "black apron", "ann_id": 448125, "best_split": [1, 2], "split_score": 0.5175139603907096}

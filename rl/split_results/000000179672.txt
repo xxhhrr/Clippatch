@@ -1,0 +1,9 @@
+{"sent": "green backpack blue jacket", "ann_id": 1321031, "best_split": [2, 2], "split_score": 0.38149804357312056}
+{"sent": "blue jacket and helmet", "ann_id": 1321031, "best_split": [1, 5], "split_score": 0.5576221735450746}
+{"sent": "white pants gray pack", "ann_id": 1321031, "best_split": [1, 5], "split_score": 0.5576221735450746}
+{"sent": "man on bike in dark jacket", "ann_id": 1300461, "best_split": [3, 2], "split_score": 0.23196628300924246}
+{"sent": "person on bike on west side", "ann_id": 1300461, "best_split": [3, 2], "split_score": 0.23196628300924246}
+{"sent": "man riding with the white and blue bakpack close to us", "ann_id": 1300461, "best_split": [1, 5], "split_score": 0.48863636359298324}
+{"sent": "biker in green shirt", "ann_id": 1252671, "best_split": [1, 5], "split_score": 0.37202235071345724}
+{"sent": "guy on bike wearing yellow jacket", "ann_id": 1252671, "best_split": [1, 5], "split_score": 0.37202235071345724}
+{"sent": "yellow jacket", "ann_id": 1252671, "best_split": [1, 5], "split_score": 0.37202235071345724}

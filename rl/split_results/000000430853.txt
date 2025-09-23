@@ -1,0 +1,6 @@
+{"sent": "singing", "ann_id": 2158291, "best_split": [3, 1], "split_score": 0.2670103092685195}
+{"sent": "singer", "ann_id": 2158291, "best_split": [3, 1], "split_score": 0.2670103092685195}
+{"sent": "singer", "ann_id": 2158291, "best_split": [3, 1], "split_score": 0.2670103092685195}
+{"sent": "the man with glasses", "ann_id": 476219, "best_split": [3, 2], "split_score": 0.5656606850973022}
+{"sent": "head down", "ann_id": 476219, "best_split": [3, 2], "split_score": 0.5656606850973022}
+{"sent": "not main singer", "ann_id": 476219, "best_split": [1, 5], "split_score": 0.3000460900061418}

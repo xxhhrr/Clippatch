@@ -1,0 +1,8 @@
+{"sent": "white area the guy in redyellow is looking at", "ann_id": 1796504, "best_split": [2, 3], "split_score": 0.5358004826492557}
+{"sent": "western half of conveyor", "ann_id": 1796504, "best_split": [1, 2], "split_score": 0.2783801020297202}
+{"sent": "truck in the distance", "ann_id": 1368292, "best_split": [3, 1], "split_score": 0.1478040540451373}
+{"sent": "tanker", "ann_id": 1368292, "best_split": [3, 2], "split_score": 0.2956081080724411}
+{"sent": "the blue truck next to plane", "ann_id": 1368292, "best_split": [2, 3], "split_score": 0.2956081080724411}
+{"sent": "baggage car", "ann_id": 1799529, "best_split": [3, 2], "split_score": 0.5088348057585569}
+{"sent": "trailer behind the three men", "ann_id": 1799529, "best_split": [3, 2], "split_score": 0.5088348057585569}
+{"sent": "smaller luggage cart closest to plane", "ann_id": 1799529, "best_split": [3, 2], "split_score": 0.5088348057585569}

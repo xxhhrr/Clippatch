@@ -1,0 +1,11 @@
+{"sent": "no marks on this dog at all", "ann_id": 1070586, "best_split": [5, 1], "split_score": 0.3035581912246518}
+{"sent": "hot dog with no marks on it above the big black thing", "ann_id": 1070586, "best_split": [5, 1], "split_score": 0.3035581912246518}
+{"sent": "hot dog number 2 in closest row", "ann_id": 1070586, "best_split": [5, 1], "split_score": 0.3035581912246518}
+{"sent": "foremost hot dog", "ann_id": 1070534, "best_split": [1, 3], "split_score": 0.23002975507953594}
+{"sent": "lower hotdog", "ann_id": 1070534, "best_split": [1, 3], "split_score": 0.23002975507953594}
+{"sent": "fourth hardly any grill marks", "ann_id": 1070093, "best_split": [2, 1], "split_score": 0.28914221937622997}
+{"sent": "hot dot with end at corner of spatula", "ann_id": 1070093, "best_split": [1, 5], "split_score": 0.14051459804422645}
+{"sent": "hot dog with largest edge against spatula", "ann_id": 1070053, "best_split": [3, 2], "split_score": 0.5423414633617227}
+{"sent": "three chars dark", "ann_id": 1070053, "best_split": [3, 2], "split_score": 0.5423414633617227}
+{"sent": "hotdog with darkest grill marks", "ann_id": 1070053, "best_split": [3, 2], "split_score": 0.5423414633617227}
+{"sent": "the one between the two at 9 o clock", "ann_id": 1068351, "best_split": [3, 2], "split_score": 0.550796331979875}

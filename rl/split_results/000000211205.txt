@@ -1,0 +1,15 @@
+{"sent": "man in white", "ann_id": 1267108, "best_split": [2, 2], "split_score": 0.5058786935921693}
+{"sent": "man in white", "ann_id": 1267108, "best_split": [2, 2], "split_score": 0.5058786935921693}
+{"sent": "the man", "ann_id": 1267108, "best_split": [1, 2], "split_score": 0.4648836096753474}
+{"sent": "kid on luggage", "ann_id": 1236480, "best_split": [2, 2], "split_score": 0.24112149531100657}
+{"sent": "the child", "ann_id": 1236480, "best_split": [2, 3], "split_score": 0.6463022507296391}
+{"sent": "baby", "ann_id": 1236480, "best_split": [2, 3], "split_score": 0.6463022507296391}
+{"sent": "adult lady", "ann_id": 2166570, "best_split": [2, 2], "split_score": 0.6045127696129114}
+{"sent": "blond", "ann_id": 2166570, "best_split": [2, 2], "split_score": 0.6045127696129114}
+{"sent": "woman", "ann_id": 2166570, "best_split": [2, 2], "split_score": 0.6045127696129114}
+{"sent": "green tag", "ann_id": 1446139, "best_split": [2, 3], "split_score": 0.42761093675172446}
+{"sent": "green and white tag", "ann_id": 1446139, "best_split": [1, 5], "split_score": 0.18424101968347614}
+{"sent": "suit caase by lil girls elbow", "ann_id": 1446139, "best_split": [2, 2], "split_score": 0.354910714257421}
+{"sent": "space between little girls legs", "ann_id": 1445610, "best_split": [3, 2], "split_score": 0.7398335314221363}
+{"sent": "suitcases", "ann_id": 1445610, "best_split": [3, 2], "split_score": 0.7398335314221363}
+{"sent": "suitcase child sits", "ann_id": 1445610, "best_split": [3, 2], "split_score": 0.7398335314221363}

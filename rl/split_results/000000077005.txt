@@ -1,0 +1,14 @@
+{"sent": "large section of empty table", "ann_id": 2132479, "best_split": [2, 1], "split_score": 0.6823979591564733}
+{"sent": "end of table closet", "ann_id": 2132479, "best_split": [2, 3], "split_score": 0.45271583759561373}
+{"sent": "the actual table", "ann_id": 2132479, "best_split": [2, 1], "split_score": 0.6823979591564733}
+{"sent": "the girl in the bandana", "ann_id": 1310910, "best_split": [1, 5], "split_score": 0.4417670682327704}
+{"sent": "lady with hat", "ann_id": 1310910, "best_split": [1, 5], "split_score": 0.4417670682327704}
+{"sent": "woman in blue shirt with bandana", "ann_id": 1310910, "best_split": [1, 5], "split_score": 0.4417670682327704}
+{"sent": "boy with purple shirt", "ann_id": 1255434, "best_split": [1, 5], "split_score": 0.5371980675856655}
+{"sent": "man with purple shirt looking down at his food", "ann_id": 1255434, "best_split": [1, 3], "split_score": 0.4612089768061529}
+{"sent": "woman in gray looking at camera", "ann_id": 1210631, "best_split": [1, 3], "split_score": 0.709781172781013}
+{"sent": "the older woman with glasses", "ann_id": 1210631, "best_split": [1, 3], "split_score": 0.709781172781013}
+{"sent": "glasses woman looking at us", "ann_id": 1210631, "best_split": [1, 3], "split_score": 0.709781172781013}
+{"sent": "any of the plates", "ann_id": 419935, "best_split": [1, 3], "split_score": 0.5097056981641473}
+{"sent": "table area occupied by plates", "ann_id": 419935, "best_split": [1, 3], "split_score": 0.5097056981641473}
+{"sent": "close red basket", "ann_id": 419935, "best_split": [1, 3], "split_score": 0.5097056981641473}

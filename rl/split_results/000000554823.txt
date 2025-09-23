@@ -1,0 +1,6 @@
+{"sent": "the giraffe turned backwards", "ann_id": 596130, "best_split": [1, 3], "split_score": 0.6850868725455426}
+{"sent": "the one you cant see the head", "ann_id": 596130, "best_split": [1, 3], "split_score": 0.6850868725455426}
+{"sent": "head cut off", "ann_id": 596130, "best_split": [1, 2], "split_score": 0.45264668365542704}
+{"sent": "giraffe facing", "ann_id": 594436, "best_split": [2, 1], "split_score": 0.3042671613995648}
+{"sent": "g closest to human in white", "ann_id": 594436, "best_split": [1, 5], "split_score": 0.4224920207508297}
+{"sent": "giraffe head you can see", "ann_id": 594436, "best_split": [1, 5], "split_score": 0.36869994578378396}

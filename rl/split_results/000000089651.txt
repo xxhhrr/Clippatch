@@ -1,0 +1,7 @@
+{"sent": "no hat", "ann_id": 469483, "best_split": [2, 1], "split_score": 0.42999641189702204}
+{"sent": "person with no hat", "ann_id": 469483, "best_split": [2, 1], "split_score": 0.42999641189702204}
+{"sent": "face you can see", "ann_id": 469483, "best_split": [2, 2], "split_score": 0.7819391882564309}
+{"sent": "with hat", "ann_id": 450350, "best_split": [2, 2], "split_score": 0.5984447306617793}
+{"sent": "blue shirt", "ann_id": 450350, "best_split": [2, 2], "split_score": 0.5984447306617793}
+{"sent": "man in tan hat", "ann_id": 450350, "best_split": [2, 2], "split_score": 0.5984447306617793}
+{"sent": "person in blue shirt", "ann_id": 450350, "best_split": [2, 2], "split_score": 0.5984447306617793}

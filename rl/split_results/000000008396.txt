@@ -1,0 +1,6 @@
+{"sent": "kneeling white shirt", "ann_id": 486070, "best_split": [3, 1], "split_score": 0.3683561336416037}
+{"sent": "person using oven", "ann_id": 486070, "best_split": [3, 2], "split_score": 0.6881022202882172}
+{"sent": "bending down to take it out", "ann_id": 486070, "best_split": [3, 1], "split_score": 0.3683561336416037}
+{"sent": "standing", "ann_id": 461195, "best_split": [1, 3], "split_score": 0.9245758825696597}
+{"sent": "boy standing", "ann_id": 461195, "best_split": [1, 3], "split_score": 0.9245758825696597}
+{"sent": "sideways person", "ann_id": 461195, "best_split": [1, 3], "split_score": 0.9245758825696597}

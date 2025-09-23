@@ -1,0 +1,8 @@
+{"sent": "last in line", "ann_id": 161197, "best_split": [3, 2], "split_score": 0.347606007771338}
+{"sent": "plane less visible", "ann_id": 161197, "best_split": [2, 1], "split_score": 0.23648067062473407}
+{"sent": "the most centralized plane", "ann_id": 161141, "best_split": [3, 1], "split_score": 0.2970141947970135}
+{"sent": "2 plane", "ann_id": 161141, "best_split": [3, 3], "split_score": 0.5519048578359298}
+{"sent": "plane in between", "ann_id": 161141, "best_split": [3, 1], "split_score": 0.2970141947970135}
+{"sent": "jet in the lead", "ann_id": 160897, "best_split": [3, 1], "split_score": 0.2883394265783943}
+{"sent": "plane in the lead", "ann_id": 160897, "best_split": [2, 2], "split_score": 0.3844936708626769}
+{"sent": "lead plane", "ann_id": 160897, "best_split": [3, 3], "split_score": 0.53654712908715}

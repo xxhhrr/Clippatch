@@ -1,0 +1,9 @@
+{"sent": "guy standing", "ann_id": 518213, "best_split": [1, 5], "split_score": 0.550540257881619}
+{"sent": "man", "ann_id": 518213, "best_split": [1, 5], "split_score": 0.550540257881619}
+{"sent": "man playing", "ann_id": 518213, "best_split": [1, 5], "split_score": 0.550540257881619}
+{"sent": "woman sitting near girl", "ann_id": 491974, "best_split": [1, 5], "split_score": 0.4275027069172652}
+{"sent": "lady sitting on couch", "ann_id": 491974, "best_split": [1, 5], "split_score": 0.4275027069172652}
+{"sent": "girl sitting with scoop neck shirt", "ann_id": 491974, "best_split": [2, 3], "split_score": 0.40602239369431214}
+{"sent": "girl standing", "ann_id": 485936, "best_split": [1, 2], "split_score": 0.5606060605843921}
+{"sent": "lady standing", "ann_id": 485936, "best_split": [1, 2], "split_score": 0.5606060605843921}
+{"sent": "girl in white shirt", "ann_id": 485936, "best_split": [1, 2], "split_score": 0.5606060605843921}

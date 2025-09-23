@@ -1,0 +1,6 @@
+{"sent": "bigger sandwhich", "ann_id": 1553783, "best_split": [1, 5], "split_score": 0.38398738807589733}
+{"sent": "part of burger closest to us", "ann_id": 1553783, "best_split": [1, 2], "split_score": 0.42811535976655013}
+{"sent": "part of sandwich we see side view", "ann_id": 1553783, "best_split": [1, 3], "split_score": 0.3650080676653871}
+{"sent": "smaller sandwich", "ann_id": 1552519, "best_split": [3, 2], "split_score": 0.5911949685032131}
+{"sent": "sandwich showning white", "ann_id": 1552519, "best_split": [3, 2], "split_score": 0.5911949685032131}
+{"sent": "sun exposed sandwich", "ann_id": 1552519, "best_split": [3, 2], "split_score": 0.5911949685032131}

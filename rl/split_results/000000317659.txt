@@ -1,0 +1,6 @@
+{"sent": "yellow couch with white pillow on it", "ann_id": 2223838, "best_split": [3, 3], "split_score": 0.36338609766631347}
+{"sent": "tan chair with pillow", "ann_id": 2223838, "best_split": [3, 3], "split_score": 0.36338609766631347}
+{"sent": "tan chair", "ann_id": 2223838, "best_split": [3, 3], "split_score": 0.36338609766631347}
+{"sent": "pink sofa", "ann_id": 99845, "best_split": [2, 2], "split_score": 0.5769122212406921}
+{"sent": "colorful sofa", "ann_id": 99845, "best_split": [2, 2], "split_score": 0.5769122212406921}
+{"sent": "pink couch", "ann_id": 99845, "best_split": [2, 2], "split_score": 0.5769122212406921}

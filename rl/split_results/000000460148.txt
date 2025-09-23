@@ -1,0 +1,9 @@
+{"sent": "smallest milkshake", "ann_id": 683283, "best_split": [3, 3], "split_score": 0.27399103135941805}
+{"sent": "milk with straw closest to wall", "ann_id": 683283, "best_split": [2, 1], "split_score": 0.20099255582347267}
+{"sent": "glass not showing letters", "ann_id": 683283, "best_split": [1, 5], "split_score": 0.3252525252251471}
+{"sent": "could easily read glass", "ann_id": 680373, "best_split": [3, 1], "split_score": 0.17142040854381121}
+{"sent": "closest shake", "ann_id": 680373, "best_split": [2, 3], "split_score": 0.537077169458487}
+{"sent": "biggest glass of milk", "ann_id": 680373, "best_split": [2, 3], "split_score": 0.537077169458487}
+{"sent": "blender cup", "ann_id": 677613, "best_split": [1, 5], "split_score": 0.2696159019377062}
+{"sent": "blender", "ann_id": 677613, "best_split": [1, 5], "split_score": 0.2696159019377062}
+{"sent": "juicer", "ann_id": 677613, "best_split": [2, 2], "split_score": 0.43718959973435656}

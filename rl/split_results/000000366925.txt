@@ -1,0 +1,6 @@
+{"sent": "man leaning over", "ann_id": 512681, "best_split": [1, 3], "split_score": 0.2681934931411175}
+{"sent": "leaning over", "ann_id": 512681, "best_split": [1, 2], "split_score": 0.6841984557494}
+{"sent": "white man", "ann_id": 512681, "best_split": [3, 2], "split_score": 0.37257073807408264}
+{"sent": "man with laptop", "ann_id": 427827, "best_split": [1, 2], "split_score": 0.6313775509952416}
+{"sent": "french beard", "ann_id": 427827, "best_split": [1, 3], "split_score": 0.6508453859925216}
+{"sent": "man with a beard smiling", "ann_id": 427827, "best_split": [1, 3], "split_score": 0.6508453859925216}

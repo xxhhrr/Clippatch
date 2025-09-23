@@ -1,0 +1,6 @@
+{"sent": "running kid", "ann_id": 440510, "best_split": [3, 3], "split_score": 0.37589828629409916}
+{"sent": "blue jacket", "ann_id": 440510, "best_split": [2, 3], "split_score": 0.34569983132950044}
+{"sent": "child walking", "ann_id": 440510, "best_split": [3, 3], "split_score": 0.37589828629409916}
+{"sent": "bending", "ann_id": 424258, "best_split": [2, 3], "split_score": 0.4981549814923714}
+{"sent": "kid sitting on skate", "ann_id": 424258, "best_split": [2, 3], "split_score": 0.4981549814923714}
+{"sent": "skater", "ann_id": 424258, "best_split": [2, 3], "split_score": 0.4981549814923714}

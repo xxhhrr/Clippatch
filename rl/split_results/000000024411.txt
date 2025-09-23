@@ -1,0 +1,19 @@
+{"sent": "black shirt", "ann_id": 539814, "best_split": [2, 3], "split_score": 0.44288855451418946}
+{"sent": "guy looking miserable on edge", "ann_id": 539814, "best_split": [1, 5], "split_score": 0.38408440978364217}
+{"sent": "guy with glasses", "ann_id": 535429, "best_split": [2, 3], "split_score": 0.5709662505119086}
+{"sent": "glasses", "ann_id": 535429, "best_split": [1, 3], "split_score": 0.31998069496139114}
+{"sent": "glasses guy", "ann_id": 535429, "best_split": [2, 3], "split_score": 0.5709662505119086}
+{"sent": "tall man in white shirt at counter", "ann_id": 2024833, "best_split": [3, 3], "split_score": 0.3645224170947819}
+{"sent": "white shirt back turned", "ann_id": 2024833, "best_split": [2, 3], "split_score": 0.25022301513712947}
+{"sent": "person with face partial cover by pizza", "ann_id": 470433, "best_split": [5, 1], "split_score": 0.2179295811556827}
+{"sent": "plaid shirt behind pizza tower", "ann_id": 470433, "best_split": [1, 5], "split_score": 0.21133525454446464}
+{"sent": "head of man in plaid behind pizza", "ann_id": 470433, "best_split": [1, 5], "split_score": 0.21133525454446464}
+{"sent": "biggest darkest pizza", "ann_id": 1077028, "best_split": [3, 2], "split_score": 0.7830598454653643}
+{"sent": "lowest pizza", "ann_id": 1077028, "best_split": [3, 2], "split_score": 0.7830598454653643}
+{"sent": "closer rack of pizza lowest pizza on rack", "ann_id": 1077028, "best_split": [2, 2], "split_score": 0.5173788264893671}
+{"sent": "pizza in stack nearest you missing a slice", "ann_id": 1075210, "best_split": [2, 2], "split_score": 0.5031886284669083}
+{"sent": "pizze without a lot of red on it its missing one slice", "ann_id": 1075210, "best_split": [2, 2], "split_score": 0.5031886284669083}
+{"sent": "pizza on rack closest with white and green slice missing", "ann_id": 1075210, "best_split": [2, 2], "split_score": 0.5031886284669083}
+{"sent": "closest rack highest pizza", "ann_id": 1074133, "best_split": [3, 2], "split_score": 0.29971042467426273}
+{"sent": "pizza next to plaid shirt closest", "ann_id": 1074133, "best_split": [3, 2], "split_score": 0.29971042467426273}
+{"sent": "pizza highest near you", "ann_id": 1074133, "best_split": [3, 3], "split_score": 0.2608902264753857}

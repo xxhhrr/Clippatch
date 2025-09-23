@@ -1,0 +1,9 @@
+{"sent": "old school monitor", "ann_id": 1625657, "best_split": [2, 3], "split_score": 0.7297297296416831}
+{"sent": "old school monitor", "ann_id": 1625657, "best_split": [2, 3], "split_score": 0.7297297296416831}
+{"sent": "old monitor", "ann_id": 1625657, "best_split": [2, 3], "split_score": 0.7297297296416831}
+{"sent": "computer that is brightest", "ann_id": 1624598, "best_split": [3, 3], "split_score": 0.5962480985978962}
+{"sent": "flat screen", "ann_id": 1624598, "best_split": [2, 1], "split_score": 0.10811532300708888}
+{"sent": "computer in between", "ann_id": 1624598, "best_split": [3, 3], "split_score": 0.5962480985978962}
+{"sent": "tv", "ann_id": 30348, "best_split": [1, 2], "split_score": 0.3320312499867653}
+{"sent": "tv", "ann_id": 30348, "best_split": [1, 2], "split_score": 0.3320312499867653}
+{"sent": "television", "ann_id": 30348, "best_split": [1, 3], "split_score": 0.5025337837534668}

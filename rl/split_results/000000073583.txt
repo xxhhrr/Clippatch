@@ -1,0 +1,6 @@
+{"sent": "table", "ann_id": 1962876, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "all of the table", "ann_id": 1962876, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "bananas", "ann_id": 1962876, "best_split": [1, 2], "split_score": 0.4976973418336896}
+{"sent": "table area near bananas", "ann_id": 1962311, "best_split": [2, 1], "split_score": 0.879982461699618}
+{"sent": "white table by stack of plates", "ann_id": 1962311, "best_split": [1, 2], "split_score": 0.3037649270150441}
+{"sent": "table", "ann_id": 1962311, "best_split": [1, 2], "split_score": 0.3037649270150441}

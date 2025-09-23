@@ -1,0 +1,6 @@
+{"sent": "chair by table close to dog", "ann_id": 108748, "best_split": [2, 2], "split_score": 0.27718431120239284}
+{"sent": "shorter chair closest to us", "ann_id": 108748, "best_split": [2, 2], "split_score": 0.27718431120239284}
+{"sent": "chair back to us", "ann_id": 108748, "best_split": [2, 2], "split_score": 0.27718431120239284}
+{"sent": "nearest chair", "ann_id": 108193, "best_split": [2, 3], "split_score": 0.6974628524514845}
+{"sent": "chair next to pot", "ann_id": 108193, "best_split": [2, 3], "split_score": 0.6974628524514845}
+{"sent": "chair in forefront", "ann_id": 108193, "best_split": [2, 3], "split_score": 0.6974628524514845}

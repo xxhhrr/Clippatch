@@ -1,0 +1,11 @@
+{"sent": "oranges in bowl", "ann_id": 1039393, "best_split": [2, 3], "split_score": 0.22714236546665798}
+{"sent": "bowl of oranges", "ann_id": 1039393, "best_split": [2, 3], "split_score": 0.22714236546665798}
+{"sent": "the bowl of eggs", "ann_id": 1039393, "best_split": [2, 3], "split_score": 0.22714236546665798}
+{"sent": "bowl brown spice", "ann_id": 716225, "best_split": [2, 3], "split_score": 0.24758687255699965}
+{"sent": "browm sugar", "ann_id": 716225, "best_split": [2, 3], "split_score": 0.24758687255699965}
+{"sent": "container with heavy on it", "ann_id": 95937, "best_split": [5, 1], "split_score": 0.14040534712027553}
+{"sent": "heavy cream", "ann_id": 95937, "best_split": [3, 3], "split_score": 0.32777777772856187}
+{"sent": "yelloe bottle cap", "ann_id": 95937, "best_split": [3, 3], "split_score": 0.32777777772856187}
+{"sent": "virginia bottle", "ann_id": 88776, "best_split": [1, 5], "split_score": 0.4638798700828044}
+{"sent": "tall bottle", "ann_id": 88776, "best_split": [1, 5], "split_score": 0.4638798700828044}
+{"sent": "tallest bottle", "ann_id": 88776, "best_split": [1, 5], "split_score": 0.4638798700828044}

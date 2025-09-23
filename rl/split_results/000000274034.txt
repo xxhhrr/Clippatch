@@ -1,0 +1,6 @@
+{"sent": "car mostly blocked by officer", "ann_id": 141348, "best_split": [5, 1], "split_score": 0.5093786635031229}
+{"sent": "small car shown behind motorcycle", "ann_id": 141348, "best_split": [3, 2], "split_score": 0.2657621707724287}
+{"sent": "black car", "ann_id": 141348, "best_split": [5, 1], "split_score": 0.5093786635031229}
+{"sent": "following too close", "ann_id": 139078, "best_split": [2, 3], "split_score": 0.7966908430647449}
+{"sent": "black suv behind cop", "ann_id": 139078, "best_split": [2, 2], "split_score": 0.5834645668831917}
+{"sent": "mercedes behind cop", "ann_id": 139078, "best_split": [1, 2], "split_score": 0.3015784438655302}

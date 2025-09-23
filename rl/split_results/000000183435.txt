@@ -1,0 +1,5 @@
+{"sent": "chair near carrots", "ann_id": 1936071, "best_split": [2, 3], "split_score": 0.22178139255883936}
+{"sent": "chair that is half hidden", "ann_id": 1936071, "best_split": [1, 5], "split_score": 0.4088879869715008}
+{"sent": "brown and white wall", "ann_id": 1592328, "best_split": [3, 3], "split_score": 0.5463087247405521}
+{"sent": "brown wood stripes in background", "ann_id": 1592328, "best_split": [3, 3], "split_score": 0.5463087247405521}
+{"sent": "strips of wood above table", "ann_id": 1592328, "best_split": [3, 3], "split_score": 0.5463087247405521}

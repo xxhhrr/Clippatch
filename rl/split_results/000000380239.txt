@@ -1,0 +1,6 @@
+{"sent": "monitor next to cork board", "ann_id": 1626127, "best_split": [1, 3], "split_score": 0.23262220136955677}
+{"sent": "small monitor", "ann_id": 1626127, "best_split": [1, 3], "split_score": 0.23262220136955677}
+{"sent": "screen with 3", "ann_id": 1626127, "best_split": [2, 3], "split_score": 0.4523592431670436}
+{"sent": "monitor not with 3", "ann_id": 1625473, "best_split": [5, 1], "split_score": 0.16928849760648806}
+{"sent": "screen without 3", "ann_id": 1625473, "best_split": [5, 1], "split_score": 0.23055893072368172}
+{"sent": "monitor behind white phone leaning on it", "ann_id": 1625473, "best_split": [5, 1], "split_score": 0.16928849760648806}

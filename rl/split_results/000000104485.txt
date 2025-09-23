@@ -1,0 +1,6 @@
+{"sent": "man in white dancing", "ann_id": 1234315, "best_split": [2, 1], "split_score": 0.30940343780480273}
+{"sent": "white shirt jumper", "ann_id": 1234315, "best_split": [2, 2], "split_score": 0.5551475409472034}
+{"sent": "player white shirt", "ann_id": 1234315, "best_split": [2, 1], "split_score": 0.30940343780480273}
+{"sent": "28", "ann_id": 1209347, "best_split": [3, 1], "split_score": 0.23716935172697023}
+{"sent": "person with red shirt", "ann_id": 1209347, "best_split": [1, 3], "split_score": 0.4687737811136536}
+{"sent": "got frisbee him him", "ann_id": 1209347, "best_split": [1, 3], "split_score": 0.4687737811136536}

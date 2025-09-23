@@ -1,0 +1,15 @@
+{"sent": "sitting on floor presant in hands", "ann_id": 530765, "best_split": [2, 3], "split_score": 0.6037943359358634}
+{"sent": "blue shirt", "ann_id": 530765, "best_split": [2, 1], "split_score": 0.08280717262019172}
+{"sent": "half on someone holding a present", "ann_id": 530765, "best_split": [2, 2], "split_score": 0.43436407988169284}
+{"sent": "white hair", "ann_id": 508634, "best_split": [2, 2], "split_score": 0.43271683670019795}
+{"sent": "old man in back", "ann_id": 508634, "best_split": [2, 3], "split_score": 0.6549227798437592}
+{"sent": "white beard", "ann_id": 508634, "best_split": [1, 2], "split_score": 0.21635841835872296}
+{"sent": "man with crossed legs and red shirt", "ann_id": 488543, "best_split": [2, 1], "split_score": 0.2705729780632347}
+{"sent": "man with blue jeans and red shirt", "ann_id": 488543, "best_split": [1, 3], "split_score": 0.8297017135165167}
+{"sent": "man on chair blue jeans", "ann_id": 488543, "best_split": [1, 3], "split_score": 0.8297017135165167}
+{"sent": "girl in plaid and santa hat", "ann_id": 479903, "best_split": [2, 3], "split_score": 0.8082524271027253}
+{"sent": "child in santa hat", "ann_id": 479903, "best_split": [2, 3], "split_score": 0.8082524271027253}
+{"sent": "child in santa hat", "ann_id": 479903, "best_split": [2, 3], "split_score": 0.8082524271027253}
+{"sent": "man bending over", "ann_id": 467370, "best_split": [2, 3], "split_score": 0.4324324324024648}
+{"sent": "man bending", "ann_id": 467370, "best_split": [2, 1], "split_score": 0.2659639164718574}
+{"sent": "man in plaid bending", "ann_id": 467370, "best_split": [1, 3], "split_score": 0.5127200543011691}

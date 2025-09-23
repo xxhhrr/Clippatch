@@ -1,0 +1,6 @@
+{"sent": "lady with fluffy hair", "ann_id": 507144, "best_split": [1, 2], "split_score": 0.6059015874530378}
+{"sent": "woman with black hair", "ann_id": 507144, "best_split": [1, 2], "split_score": 0.6059015874530378}
+{"sent": "curly black hair", "ann_id": 507144, "best_split": [1, 2], "split_score": 0.6059015874530378}
+{"sent": "laying down", "ann_id": 449814, "best_split": [1, 2], "split_score": 0.38652219087180784}
+{"sent": "girl lying down", "ann_id": 449814, "best_split": [3, 2], "split_score": 0.6305106247517832}
+{"sent": "laying down", "ann_id": 449814, "best_split": [1, 2], "split_score": 0.38652219087180784}

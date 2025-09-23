@@ -1,0 +1,6 @@
+{"sent": "woman with black hair", "ann_id": 502727, "best_split": [2, 1], "split_score": 0.6626538987461472}
+{"sent": "woman", "ann_id": 502727, "best_split": [2, 1], "split_score": 0.6626538987461472}
+{"sent": "girl", "ann_id": 502727, "best_split": [2, 1], "split_score": 0.6626538987461472}
+{"sent": "hand holding banana", "ann_id": 461947, "best_split": [2, 1], "split_score": 0.7603379279398126}
+{"sent": "hand holding bun", "ann_id": 461947, "best_split": [2, 1], "split_score": 0.7603379279398126}
+{"sent": "hand holding hotdog", "ann_id": 461947, "best_split": [2, 1], "split_score": 0.7603379279398126}

@@ -1,0 +1,6 @@
+{"sent": "the man", "ann_id": 1751658, "best_split": [1, 2], "split_score": 0.4167958558469091}
+{"sent": "man", "ann_id": 1751658, "best_split": [1, 5], "split_score": 0.4260613056030485}
+{"sent": "him", "ann_id": 1751658, "best_split": [1, 2], "split_score": 0.4167958558469091}
+{"sent": "child", "ann_id": 1729648, "best_split": [3, 3], "split_score": 0.45529261719494224}
+{"sent": "baby", "ann_id": 1729648, "best_split": [3, 2], "split_score": 0.3255649001595334}
+{"sent": "kid", "ann_id": 1729648, "best_split": [1, 2], "split_score": 0.1910873724413629}

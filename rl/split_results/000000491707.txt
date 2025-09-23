@@ -1,0 +1,6 @@
+{"sent": "woman whos walking foot", "ann_id": 492803, "best_split": [2, 3], "split_score": 0.4039856582669903}
+{"sent": "person entering photo", "ann_id": 492803, "best_split": [1, 5], "split_score": 0.5590377773539693}
+{"sent": "lady walking out of screen white pants", "ann_id": 492803, "best_split": [1, 5], "split_score": 0.5590377773539693}
+{"sent": "woman with suitcase", "ann_id": 468376, "best_split": [2, 3], "split_score": 0.5379442842903032}
+{"sent": "person in black next to luggage", "ann_id": 468376, "best_split": [2, 3], "split_score": 0.5379442842903032}
+{"sent": "full body", "ann_id": 468376, "best_split": [2, 3], "split_score": 0.5379442842903032}

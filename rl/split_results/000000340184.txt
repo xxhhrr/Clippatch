@@ -1,0 +1,5 @@
+{"sent": "pillows closest tro us", "ann_id": 117717, "best_split": [3, 1], "split_score": 0.20169379541103408}
+{"sent": "pillows close to us", "ann_id": 117717, "best_split": [5, 1], "split_score": 0.3188089329708378}
+{"sent": "couch near window with lots of pillows aligned neatly", "ann_id": 99324, "best_split": [2, 3], "split_score": 0.6862934362106305}
+{"sent": "couch with white pillows in a line", "ann_id": 99324, "best_split": [2, 3], "split_score": 0.6862934362106305}
+{"sent": "sofa with repetitive pillows", "ann_id": 99324, "best_split": [2, 3], "split_score": 0.6862934362106305}

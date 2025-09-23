@@ -1,0 +1,6 @@
+{"sent": "boy in blue tee shirt", "ann_id": 2165459, "best_split": [2, 3], "split_score": 0.6264056642413155}
+{"sent": "blue shirt", "ann_id": 2165459, "best_split": [2, 3], "split_score": 0.6264056642413155}
+{"sent": "boy with blue shirt", "ann_id": 2165459, "best_split": [2, 3], "split_score": 0.6264056642413155}
+{"sent": "girl", "ann_id": 183641, "best_split": [2, 3], "split_score": 0.627413127337426}
+{"sent": "white shirt", "ann_id": 183641, "best_split": [2, 3], "split_score": 0.627413127337426}
+{"sent": "the girl in the lighter shirt", "ann_id": 183641, "best_split": [2, 3], "split_score": 0.627413127337426}

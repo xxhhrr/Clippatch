@@ -1,0 +1,9 @@
+{"sent": "fattest guy in the pit", "ann_id": 1257348, "best_split": [2, 3], "split_score": 0.06860385143839375}
+{"sent": "man in dugout leaning on fence", "ann_id": 1257348, "best_split": [2, 1], "split_score": 0.02806696679698695}
+{"sent": "man standing at bank of america sign", "ann_id": 1257348, "best_split": [1, 2], "split_score": 0.16509885203423552}
+{"sent": "kneeling behind batter", "ann_id": 1248488, "best_split": [3, 3], "split_score": 0.20037781673183405}
+{"sent": "baseball player praying", "ann_id": 1248488, "best_split": [3, 3], "split_score": 0.20037781673183405}
+{"sent": "blurry coach with hands clasped", "ann_id": 1248488, "best_split": [1, 3], "split_score": 0.18593203249001056}
+{"sent": "other batter number 4", "ann_id": 1241780, "best_split": [1, 2], "split_score": 0.34761639029226654}
+{"sent": "player in back head down", "ann_id": 1241780, "best_split": [1, 2], "split_score": 0.34761639029226654}
+{"sent": "standing behind the one closest to us", "ann_id": 1241780, "best_split": [1, 2], "split_score": 0.34761639029226654}

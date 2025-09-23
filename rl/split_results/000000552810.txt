@@ -1,0 +1,6 @@
+{"sent": "yellow cap", "ann_id": 2206405, "best_split": [1, 2], "split_score": 0.647156184146586}
+{"sent": "green shirt", "ann_id": 2206405, "best_split": [1, 2], "split_score": 0.647156184146586}
+{"sent": "green", "ann_id": 2206405, "best_split": [1, 2], "split_score": 0.647156184146586}
+{"sent": "elks", "ann_id": 450168, "best_split": [1, 2], "split_score": 0.564492984671377}
+{"sent": "blue uniform running", "ann_id": 450168, "best_split": [1, 2], "split_score": 0.564492984671377}
+{"sent": "boy in blue shirt", "ann_id": 450168, "best_split": [1, 2], "split_score": 0.564492984671377}

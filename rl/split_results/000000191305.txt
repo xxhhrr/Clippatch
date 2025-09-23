@@ -1,0 +1,6 @@
+{"sent": "side of elepant", "ann_id": 582554, "best_split": [2, 1], "split_score": 0.134258956050355}
+{"sent": "half elephant", "ann_id": 582554, "best_split": [1, 3], "split_score": 0.5761341698494128}
+{"sent": "partial elephant", "ann_id": 582554, "best_split": [1, 3], "split_score": 0.5761341698494128}
+{"sent": "main elephant", "ann_id": 582500, "best_split": [2, 1], "split_score": 0.4135007026555153}
+{"sent": "facing elephant", "ann_id": 582500, "best_split": [2, 1], "split_score": 0.4135007026555153}
+{"sent": "full elephant", "ann_id": 582500, "best_split": [2, 1], "split_score": 0.4135007026555153}

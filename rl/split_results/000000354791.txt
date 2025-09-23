@@ -1,0 +1,12 @@
+{"sent": "white pants behind batter", "ann_id": 1712576, "best_split": [1, 3], "split_score": 0.1714770797862258}
+{"sent": "blurry player in white", "ann_id": 1712576, "best_split": [1, 3], "split_score": 0.1714770797862258}
+{"sent": "blurred taller legs in the background", "ann_id": 1712576, "best_split": [2, 3], "split_score": 0.270264412627843}
+{"sent": "out of focus player with arm up", "ann_id": 525269, "best_split": [2, 1], "split_score": 0.02881331815492269}
+{"sent": "closest full blurry body", "ann_id": 525269, "best_split": [3, 1], "split_score": 0.0988478518305778}
+{"sent": "blury player wearing blue", "ann_id": 525269, "best_split": [3, 1], "split_score": 0.1085161850907823}
+{"sent": "disembodied head cantquitme", "ann_id": 516311, "best_split": [1, 3], "split_score": 0.0867970660098468}
+{"sent": "only the head", "ann_id": 516311, "best_split": [1, 3], "split_score": 0.0867970660098468}
+{"sent": "guy with only a head", "ann_id": 516311, "best_split": [1, 3], "split_score": 0.0867970660098468}
+{"sent": "batter", "ann_id": 443150, "best_split": [1, 2], "split_score": 0.49032211467245695}
+{"sent": "batter", "ann_id": 443150, "best_split": [1, 2], "split_score": 0.49032211467245695}
+{"sent": "guy in blue with bat", "ann_id": 443150, "best_split": [1, 2], "split_score": 0.49032211467245695}

@@ -1,0 +1,8 @@
+{"sent": "row 1 boat 2", "ann_id": 1378961, "best_split": [2, 2], "split_score": 0.9134253449722847}
+{"sent": "7clock boat", "ann_id": 1378961, "best_split": [2, 2], "split_score": 0.9134253449722847}
+{"sent": "sixth boat in third row", "ann_id": 2172270, "best_split": [5, 1], "split_score": 0.3013698629868911}
+{"sent": "boat cut off beside the one with box", "ann_id": 1378068, "best_split": [3, 2], "split_score": 0.7410013531131256}
+{"sent": "boat at 5 clock", "ann_id": 1378068, "best_split": [2, 1], "split_score": 0.4388950892682201}
+{"sent": "closest row middle boat", "ann_id": 1377452, "best_split": [1, 2], "split_score": 0.2649350649264631}
+{"sent": "boat with wooden box", "ann_id": 1377452, "best_split": [2, 1], "split_score": 0.552933673447348}
+{"sent": "canoe with box close to you", "ann_id": 1377452, "best_split": [2, 1], "split_score": 0.552933673447348}

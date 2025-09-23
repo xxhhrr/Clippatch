@@ -1,0 +1,6 @@
+{"sent": "bike hanging up on wall", "ann_id": 126742, "best_split": [3, 3], "split_score": 0.5849310459830254}
+{"sent": "bike hanging up", "ann_id": 126742, "best_split": [3, 3], "split_score": 0.5849310459830254}
+{"sent": "bike on wall in air", "ann_id": 126742, "best_split": [3, 3], "split_score": 0.5849310459830254}
+{"sent": "lowest bike on the wall", "ann_id": 1764755, "best_split": [1, 3], "split_score": 0.5012065636763268}
+{"sent": "bike on floor", "ann_id": 1764755, "best_split": [1, 3], "split_score": 0.5012065636763268}
+{"sent": "bike that is lowest", "ann_id": 1764755, "best_split": [1, 3], "split_score": 0.5012065636763268}

@@ -1,0 +1,9 @@
+{"sent": "man white tee", "ann_id": 570535, "best_split": [1, 3], "split_score": 0.4563526361032653}
+{"sent": "man in white shirt and jeans", "ann_id": 570535, "best_split": [1, 3], "split_score": 0.4563526361032653}
+{"sent": "man with white shirt black straps", "ann_id": 570535, "best_split": [1, 3], "split_score": 0.4563526361032653}
+{"sent": "blue jeans black shirt", "ann_id": 569519, "best_split": [3, 1], "split_score": 0.1635909265588432}
+{"sent": "guy dark", "ann_id": 569519, "best_split": [1, 2], "split_score": 0.30436862243684754}
+{"sent": "man black shirt", "ann_id": 569519, "best_split": [2, 1], "split_score": 0.13388773388309466}
+{"sent": "white shirt girl", "ann_id": 561533, "best_split": [1, 5], "split_score": 0.6602896006441167}
+{"sent": "girl in black tights and shorts", "ann_id": 561533, "best_split": [1, 5], "split_score": 0.6602896006441167}
+{"sent": "girl walking with sweater on shoulders", "ann_id": 561533, "best_split": [1, 5], "split_score": 0.6602896006441167}

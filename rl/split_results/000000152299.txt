@@ -1,0 +1,12 @@
+{"sent": "girl petting dog", "ann_id": 225907, "best_split": [3, 2], "split_score": 0.3243140243593451}
+{"sent": "girl in wyhite", "ann_id": 225907, "best_split": [2, 2], "split_score": 0.24237032980413506}
+{"sent": "girl", "ann_id": 225907, "best_split": [3, 2], "split_score": 0.3243140243593451}
+{"sent": "green shirt", "ann_id": 222218, "best_split": [1, 2], "split_score": 0.3774149124384255}
+{"sent": "green shirt black hair", "ann_id": 222218, "best_split": [1, 2], "split_score": 0.3774149124384255}
+{"sent": "woman in green", "ann_id": 222218, "best_split": [1, 2], "split_score": 0.009429065743672749}
+{"sent": "blue shirt long braid", "ann_id": 209768, "best_split": [1, 5], "split_score": 0.6334010420707056}
+{"sent": "the girl in blue braided hair", "ann_id": 209768, "best_split": [1, 5], "split_score": 0.6334010420707056}
+{"sent": "girl in blue with braid", "ann_id": 209768, "best_split": [1, 5], "split_score": 0.6334010420707056}
+{"sent": "man in dark shirt", "ann_id": 196089, "best_split": [1, 5], "split_score": 0.4237288135272602}
+{"sent": "brown shirt", "ann_id": 196089, "best_split": [1, 5], "split_score": 0.4237288135272602}
+{"sent": "older guy", "ann_id": 196089, "best_split": [1, 5], "split_score": 0.4237288135272602}

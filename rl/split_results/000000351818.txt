@@ -1,0 +1,6 @@
+{"sent": "red bus 2y", "ann_id": 167903, "best_split": [1, 5], "split_score": 0.3764204545072625}
+{"sent": "orange bus taller one", "ann_id": 167903, "best_split": [1, 5], "split_score": 0.3764204545072625}
+{"sent": "bus next to big bus", "ann_id": 167903, "best_split": [1, 5], "split_score": 0.3764204545072625}
+{"sent": "bus", "ann_id": 163871, "best_split": [3, 1], "split_score": 0.4065934065783118}
+{"sent": "classified", "ann_id": 163871, "best_split": [3, 1], "split_score": 0.4065934065783118}
+{"sent": "bus with classified lady on it", "ann_id": 163871, "best_split": [3, 1], "split_score": 0.4065934065783118}

@@ -1,0 +1,7 @@
+{"sent": "piece at 2 o clock", "ann_id": 1074529, "best_split": [3, 3], "split_score": 0.5280580074829668}
+{"sent": "pizza slice at 2pm", "ann_id": 1074529, "best_split": [3, 3], "split_score": 0.5280580074829668}
+{"sent": "both piece of pizza not separated", "ann_id": 1073103, "best_split": [3, 1], "split_score": 0.43256287872405413}
+{"sent": "pizza half together", "ann_id": 1073103, "best_split": [3, 1], "split_score": 0.43256287872405413}
+{"sent": "pizza half on side of rounds remaining", "ann_id": 1073103, "best_split": [3, 1], "split_score": 0.43256287872405413}
+{"sent": "darker pizza slice", "ann_id": 1070912, "best_split": [3, 2], "split_score": 0.4667201282611547}
+{"sent": "pizza 3 to 5 pm area", "ann_id": 1070912, "best_split": [3, 2], "split_score": 0.4667201282611547}

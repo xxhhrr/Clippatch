@@ -1,0 +1,6 @@
+{"sent": "mom", "ann_id": 599718, "best_split": [1, 3], "split_score": 0.6681949806546696}
+{"sent": "biggin", "ann_id": 599718, "best_split": [1, 5], "split_score": 0.8107266435284838}
+{"sent": "big leg", "ann_id": 599718, "best_split": [1, 3], "split_score": 0.6681949806546696}
+{"sent": "small giraffe", "ann_id": 598918, "best_split": [1, 5], "split_score": 0.8253034202992549}
+{"sent": "baby", "ann_id": 598918, "best_split": [1, 5], "split_score": 0.8253034202992549}
+{"sent": "little one", "ann_id": 598918, "best_split": [1, 5], "split_score": 0.8253034202992549}

@@ -1,0 +1,4 @@
+{"sent": "red fruit all the way up", "ann_id": 1912725, "best_split": [3, 1], "split_score": 0.2727056585667674}
+{"sent": "fruit aboves oranges that are red", "ann_id": 1912725, "best_split": [5, 1], "split_score": 0.16751430386462854}
+{"sent": "oranges by 500 sign", "ann_id": 1911909, "best_split": [3, 1], "split_score": 0.3357679686495306}
+{"sent": "oranges behind apples closest to us", "ann_id": 1911909, "best_split": [3, 1], "split_score": 0.3357679686495306}

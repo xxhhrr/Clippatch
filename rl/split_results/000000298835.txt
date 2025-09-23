@@ -1,0 +1,11 @@
+{"sent": "black shirt", "ann_id": 1708931, "best_split": [1, 5], "split_score": 0.5339258245997328}
+{"sent": "dark shirt guy at end", "ann_id": 1708931, "best_split": [1, 5], "split_score": 0.5339258245997328}
+{"sent": "black shirt man with arm on bag", "ann_id": 1708931, "best_split": [1, 5], "split_score": 0.5339258245997328}
+{"sent": "sunglasses guy", "ann_id": 522225, "best_split": [3, 2], "split_score": 0.2533333333105105}
+{"sent": "man white hair gray shirt", "ann_id": 522225, "best_split": [3, 2], "split_score": 0.2533333333105105}
+{"sent": "lady in white", "ann_id": 512856, "best_split": [1, 5], "split_score": 0.33377521064920224}
+{"sent": "woman in white", "ann_id": 512856, "best_split": [1, 5], "split_score": 0.33377521064920224}
+{"sent": "woman", "ann_id": 512856, "best_split": [1, 5], "split_score": 0.33377521064920224}
+{"sent": "elderly man blue shirt", "ann_id": 499143, "best_split": [1, 5], "split_score": 0.5944405558849675}
+{"sent": "blue shirt", "ann_id": 499143, "best_split": [3, 1], "split_score": 0.15891195417941958}
+{"sent": "blue", "ann_id": 499143, "best_split": [3, 3], "split_score": 0.3674627571095456}

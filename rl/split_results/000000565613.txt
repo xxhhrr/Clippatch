@@ -1,0 +1,6 @@
+{"sent": "person with 67 on shirt", "ann_id": 507759, "best_split": [1, 2], "split_score": 0.6017219387515258}
+{"sent": "boy in blue 67 shirt", "ann_id": 507759, "best_split": [3, 2], "split_score": 0.47663551398859333}
+{"sent": "67", "ann_id": 507759, "best_split": [1, 2], "split_score": 0.6017219387515258}
+{"sent": "girl with no hat", "ann_id": 506081, "best_split": [1, 3], "split_score": 0.46809680966487566}
+{"sent": "girl", "ann_id": 506081, "best_split": [1, 3], "split_score": 0.46809680966487566}
+{"sent": "girl", "ann_id": 506081, "best_split": [1, 3], "split_score": 0.46809680966487566}

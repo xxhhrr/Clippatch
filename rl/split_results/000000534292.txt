@@ -1,0 +1,6 @@
+{"sent": "hat woman", "ann_id": 1189409, "best_split": [3, 3], "split_score": 0.6090534978746465}
+{"sent": "the woman", "ann_id": 1189409, "best_split": [3, 3], "split_score": 0.6090534978746465}
+{"sent": "woman", "ann_id": 1189409, "best_split": [3, 3], "split_score": 0.6090534978746465}
+{"sent": "boy with black only", "ann_id": 565491, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "boy with hanging suspenders", "ann_id": 565491, "best_split": [2, 3], "split_score": 0.2952425923391285}
+{"sent": "boy with darker towel", "ann_id": 565491, "best_split": [2, 3], "split_score": 0.2952425923391285}

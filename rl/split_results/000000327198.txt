@@ -1,0 +1,10 @@
+{"sent": "keyboard that is blacker than the other", "ann_id": 1116837, "best_split": [3, 3], "split_score": 0.3082003301722344}
+{"sent": "keyboard closest to laptop", "ann_id": 1116837, "best_split": [5, 1], "split_score": 0.2955223880321341}
+{"sent": "keyboard next to headphones", "ann_id": 1116837, "best_split": [5, 1], "split_score": 0.2955223880321341}
+{"sent": "keyboard half with enter on it", "ann_id": 1114665, "best_split": [3, 2], "split_score": 0.5299227798588413}
+{"sent": "the half of keyboard near the mouse", "ann_id": 1114665, "best_split": [3, 2], "split_score": 0.5299227798588413}
+{"sent": "back of monitor", "ann_id": 124572, "best_split": [3, 1], "split_score": 0.21806066175217942}
+{"sent": "back of the monitor", "ann_id": 124572, "best_split": [3, 1], "split_score": 0.21806066175217942}
+{"sent": "backside of black monitor", "ann_id": 124572, "best_split": [3, 2], "split_score": 0.41622807012979957}
+{"sent": "larger screen", "ann_id": 1968616, "best_split": [3, 3], "split_score": 0.6768013841704608}
+{"sent": "largest monitor", "ann_id": 1968616, "best_split": [3, 3], "split_score": 0.6768013841704608}

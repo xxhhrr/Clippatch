@@ -1,0 +1,6 @@
+{"sent": "pillow behind babys head", "ann_id": 1957474, "best_split": [2, 3], "split_score": 0.5290322580013104}
+{"sent": "pillow", "ann_id": 1957474, "best_split": [1, 2], "split_score": 0.17976721938058962}
+{"sent": "behind babies head", "ann_id": 1957474, "best_split": [2, 3], "split_score": 0.5290322580013104}
+{"sent": "bed under keyboard", "ann_id": 1957217, "best_split": [2, 2], "split_score": 0.6300484652302072}
+{"sent": "the bed in corner by keyboard", "ann_id": 1957217, "best_split": [2, 2], "split_score": 0.6300484652302072}
+{"sent": "bed next to keyboard", "ann_id": 1957217, "best_split": [2, 2], "split_score": 0.6300484652302072}

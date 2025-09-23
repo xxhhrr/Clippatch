@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 1706496, "best_split": [1, 5], "split_score": 0.4780196021563837}
+{"sent": "girl", "ann_id": 1706496, "best_split": [1, 3], "split_score": 0.6426761582623868}
+{"sent": "woman in sun glasses", "ann_id": 1706496, "best_split": [1, 3], "split_score": 0.6426761582623868}
+{"sent": "hat sitting", "ann_id": 445312, "best_split": [1, 3], "split_score": 0.4704397981012236}
+{"sent": "women hat", "ann_id": 445312, "best_split": [1, 3], "split_score": 0.4704397981012236}
+{"sent": "person with hat eating something", "ann_id": 445312, "best_split": [1, 3], "split_score": 0.4704397981012236}

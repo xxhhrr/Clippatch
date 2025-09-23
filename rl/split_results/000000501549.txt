@@ -1,0 +1,9 @@
+{"sent": "guy in purple", "ann_id": 231520, "best_split": [2, 3], "split_score": 0.5644259126854037}
+{"sent": "man sitting", "ann_id": 231520, "best_split": [2, 3], "split_score": 0.5644259126854037}
+{"sent": "man sitting in purple chair", "ann_id": 231520, "best_split": [2, 3], "split_score": 0.5644259126854037}
+{"sent": "second person", "ann_id": 219268, "best_split": [2, 1], "split_score": 0.1410924531889175}
+{"sent": "green chair man", "ann_id": 219268, "best_split": [2, 2], "split_score": 0.1902630106190359}
+{"sent": "guy in the green chair", "ann_id": 219268, "best_split": [2, 2], "split_score": 0.1902630106190359}
+{"sent": "standing yellow", "ann_id": 210557, "best_split": [1, 5], "split_score": 0.6087662337044677}
+{"sent": "one standing", "ann_id": 210557, "best_split": [1, 5], "split_score": 0.6087662337044677}
+{"sent": "standing", "ann_id": 210557, "best_split": [1, 5], "split_score": 0.6087662337044677}

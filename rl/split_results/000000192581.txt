@@ -1,0 +1,6 @@
+{"sent": "closest hand", "ann_id": 495955, "best_split": [3, 2], "split_score": 0.7528957528049112}
+{"sent": "hand nearest us", "ann_id": 495955, "best_split": [3, 2], "split_score": 0.7528957528049112}
+{"sent": "closest hand", "ann_id": 495955, "best_split": [3, 2], "split_score": 0.7528957528049112}
+{"sent": "person with two forks", "ann_id": 430152, "best_split": [1, 3], "split_score": 0.5246362928501086}
+{"sent": "blue arm with hand creeping towards cake", "ann_id": 430152, "best_split": [1, 2], "split_score": 0.3543526785573042}
+{"sent": "hand coming from striped shirt", "ann_id": 430152, "best_split": [2, 3], "split_score": 0.8177777776912404}

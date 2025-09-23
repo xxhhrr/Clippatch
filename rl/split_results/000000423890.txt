@@ -1,0 +1,10 @@
+{"sent": "table behind the man", "ann_id": 1616399, "best_split": [1, 2], "split_score": 0.38552295916830664}
+{"sent": "pizza being handled", "ann_id": 1077585, "best_split": [3, 2], "split_score": 0.47299201497498916}
+{"sent": "pizza with mozzarella", "ann_id": 1077585, "best_split": [3, 2], "split_score": 0.47299201497498916}
+{"sent": "pizza with white shit on it", "ann_id": 1077585, "best_split": [2, 2], "split_score": 0.3392857142586666}
+{"sent": "pizza with no cheese", "ann_id": 1076655, "best_split": [3, 2], "split_score": 0.555260617693622}
+{"sent": "pizza he isnt touching", "ann_id": 1076655, "best_split": [3, 1], "split_score": 0.27763030886355994}
+{"sent": "pizza he is not toucjing", "ann_id": 1076655, "best_split": [3, 2], "split_score": 0.555260617693622}
+{"sent": "pizza", "ann_id": 320576, "best_split": [3, 1], "split_score": 0.8809049285816911}
+{"sent": "table closest to man", "ann_id": 320576, "best_split": [3, 1], "split_score": 0.8809049285816911}
+{"sent": "the food", "ann_id": 320576, "best_split": [3, 1], "split_score": 0.8809049285816911}

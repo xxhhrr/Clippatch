@@ -1,0 +1,5 @@
+{"sent": "pretezels", "ann_id": 2107599, "best_split": [1, 2], "split_score": 0.2734374999891009}
+{"sent": "pink container that has pretzels and orange crackers", "ann_id": 2107599, "best_split": [2, 3], "split_score": 0.5841874084308526}
+{"sent": "bread and carrots blue", "ann_id": 2106878, "best_split": [2, 2], "split_score": 0.5408163265015673}
+{"sent": "sandwich with carrots", "ann_id": 2106878, "best_split": [2, 1], "split_score": 0.4661499075356937}
+{"sent": "the burger", "ann_id": 2106878, "best_split": [1, 2], "split_score": 0.4301470588086103}

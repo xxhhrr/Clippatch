@@ -1,0 +1,9 @@
+{"sent": "person under pink umbrella", "ann_id": 1202698, "best_split": [2, 1], "split_score": 0.03707220862569589}
+{"sent": "light color pants", "ann_id": 1202698, "best_split": [5, 1], "split_score": 0.10735318861624153}
+{"sent": "woman in white pants", "ann_id": 1202698, "best_split": [5, 1], "split_score": 0.10735318861624153}
+{"sent": "purple pants", "ann_id": 508017, "best_split": [1, 5], "split_score": 0.5256637167718694}
+{"sent": "pink pants", "ann_id": 508017, "best_split": [1, 5], "split_score": 0.5256637167718694}
+{"sent": "lady in pink pants", "ann_id": 508017, "best_split": [1, 5], "split_score": 0.5256637167718694}
+{"sent": "man in coat", "ann_id": 475215, "best_split": [3, 3], "split_score": 0.35902964954730054}
+{"sent": "blu jacket walking blue pants", "ann_id": 475215, "best_split": [3, 3], "split_score": 0.35902964954730054}
+{"sent": "hoody behind woman", "ann_id": 475215, "best_split": [3, 3], "split_score": 0.35902964954730054}

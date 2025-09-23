@@ -1,0 +1,5 @@
+{"sent": "white car near guy walking on sidewalk", "ann_id": 143068, "best_split": [2, 3], "split_score": 0.41573293283865853}
+{"sent": "white car with circle on hood", "ann_id": 143068, "best_split": [2, 3], "split_score": 0.41573293283865853}
+{"sent": "white car closest to blue vehicle", "ann_id": 135367, "best_split": [2, 3], "split_score": 0.4138300404173018}
+{"sent": "white car with writing", "ann_id": 135367, "best_split": [2, 3], "split_score": 0.4138300404173018}
+{"sent": "white car close to motorcycles", "ann_id": 135367, "best_split": [1, 5], "split_score": 0.22927141418509264}

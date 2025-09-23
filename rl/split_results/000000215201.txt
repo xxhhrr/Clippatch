@@ -1,0 +1,5 @@
+{"sent": "vehicle behind biker", "ann_id": 140924, "best_split": [1, 2], "split_score": 0.17984693876834157}
+{"sent": "blurry navy blue vehicle closest to motorcycle", "ann_id": 140924, "best_split": [2, 3], "split_score": 0.3730959021268938}
+{"sent": "very blurry white car", "ann_id": 131835, "best_split": [3, 2], "split_score": 0.5605012155825227}
+{"sent": "gray car that is blurred", "ann_id": 131835, "best_split": [3, 2], "split_score": 0.5605012155825227}
+{"sent": "white car", "ann_id": 131835, "best_split": [3, 2], "split_score": 0.5605012155825227}

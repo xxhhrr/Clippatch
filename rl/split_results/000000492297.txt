@@ -1,0 +1,6 @@
+{"sent": "cup", "ann_id": 1707442, "best_split": [1, 2], "split_score": 0.8177614795592411}
+{"sent": "guy in blue jeans holding cup", "ann_id": 1707442, "best_split": [1, 2], "split_score": 0.8177614795592411}
+{"sent": "guy with blue jeans and blue shirt", "ann_id": 1707442, "best_split": [1, 5], "split_score": 0.47723735406239115}
+{"sent": "hair", "ann_id": 470111, "best_split": [1, 2], "split_score": 0.603587351477886}
+{"sent": "lady look down", "ann_id": 470111, "best_split": [2, 1], "split_score": 0.4398370973611663}
+{"sent": "gray hair", "ann_id": 470111, "best_split": [1, 2], "split_score": 0.603587351477886}

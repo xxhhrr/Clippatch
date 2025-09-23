@@ -1,0 +1,6 @@
+{"sent": "person lagging", "ann_id": 496023, "best_split": [1, 2], "split_score": 0.17099808672787795}
+{"sent": "number 2 skier", "ann_id": 496023, "best_split": [3, 1], "split_score": 0.242319599890312}
+{"sent": "red and white skier in corner", "ann_id": 496023, "best_split": [3, 3], "split_score": 0.7145365167284873}
+{"sent": "guy in the lead", "ann_id": 472756, "best_split": [2, 3], "split_score": 0.5061772286457935}
+{"sent": "blue hat", "ann_id": 472756, "best_split": [3, 3], "split_score": 0.47567341820049347}
+{"sent": "blue hat", "ann_id": 472756, "best_split": [3, 3], "split_score": 0.47567341820049347}

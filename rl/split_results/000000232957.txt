@@ -1,0 +1,6 @@
+{"sent": "kid", "ann_id": 564805, "best_split": [1, 5], "split_score": 0.3920454545056772}
+{"sent": "yellow jacket", "ann_id": 564805, "best_split": [1, 5], "split_score": 0.3920454545056772}
+{"sent": "kid in yellow jacket", "ann_id": 564805, "best_split": [1, 5], "split_score": 0.3920454545056772}
+{"sent": "girl bending down", "ann_id": 473041, "best_split": [3, 1], "split_score": 0.2193536048852862}
+{"sent": "girl in black hair tied up", "ann_id": 473041, "best_split": [3, 1], "split_score": 0.2193536048852862}
+{"sent": "woman in black not with child", "ann_id": 473041, "best_split": [3, 1], "split_score": 0.2193536048852862}

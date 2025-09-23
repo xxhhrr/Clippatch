@@ -1,0 +1,6 @@
+{"sent": "parking meter", "ann_id": 2173433, "best_split": [2, 1], "split_score": 0.4545716833537593}
+{"sent": "gass filler", "ann_id": 2173433, "best_split": [2, 1], "split_score": 0.4545716833537593}
+{"sent": "main object", "ann_id": 2173433, "best_split": [2, 1], "split_score": 0.4545716833537593}
+{"sent": "partial meter", "ann_id": 1389558, "best_split": [2, 2], "split_score": 0.23946784920735395}
+{"sent": "object partially visible", "ann_id": 1389558, "best_split": [2, 1], "split_score": 0.12811387899880955}
+{"sent": "meter mostly obscured", "ann_id": 1389558, "best_split": [3, 1], "split_score": 0.12111292961737352}

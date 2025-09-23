@@ -1,0 +1,9 @@
+{"sent": "yellow shirt", "ann_id": 1725659, "best_split": [2, 3], "split_score": 0.44795293547269144}
+{"sent": "person with yellow shirt", "ann_id": 1725659, "best_split": [2, 3], "split_score": 0.44795293547269144}
+{"sent": "girl", "ann_id": 1725659, "best_split": [2, 3], "split_score": 0.44795293547269144}
+{"sent": "chick in black running", "ann_id": 536516, "best_split": [2, 3], "split_score": 0.6008864499154827}
+{"sent": "lady in black", "ann_id": 536516, "best_split": [2, 3], "split_score": 0.6008864499154827}
+{"sent": "woman in black", "ann_id": 536516, "best_split": [2, 3], "split_score": 0.6008864499154827}
+{"sent": "guy without shirt", "ann_id": 514701, "best_split": [3, 2], "split_score": 0.5238405207059528}
+{"sent": "no shirt", "ann_id": 514701, "best_split": [3, 2], "split_score": 0.5238405207059528}
+{"sent": "guy without a shirt", "ann_id": 514701, "best_split": [3, 2], "split_score": 0.5238405207059528}

@@ -1,0 +1,6 @@
+{"sent": "chair not couch by tree", "ann_id": 1938458, "best_split": [2, 2], "split_score": 0.23915816324624056}
+{"sent": "small couch closest to tree", "ann_id": 1938458, "best_split": [5, 1], "split_score": 0.20645645643708177}
+{"sent": "chair near blue thingy", "ann_id": 1938458, "best_split": [2, 2], "split_score": 0.23915816324624056}
+{"sent": "chair that cant reach gifts", "ann_id": 1935195, "best_split": [5, 1], "split_score": 0.23804296689367704}
+{"sent": "chair farthest from tree", "ann_id": 1935195, "best_split": [5, 1], "split_score": 0.23804296689367704}
+{"sent": "nearest couch", "ann_id": 1935195, "best_split": [2, 3], "split_score": 0.7159749033885165}

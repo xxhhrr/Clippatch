@@ -1,0 +1,6 @@
+{"sent": "raised red hood in foreground", "ann_id": 1778011, "best_split": [2, 3], "split_score": 0.7314405887769253}
+{"sent": "nearest raised red vehicle hood", "ann_id": 1778011, "best_split": [2, 3], "split_score": 0.7314405887769253}
+{"sent": "red hood", "ann_id": 1778011, "best_split": [2, 3], "split_score": 0.7314405887769253}
+{"sent": "the yellow and red vehicle with the board", "ann_id": 363860, "best_split": [3, 1], "split_score": 0.4370117316692616}
+{"sent": "wood panel doors", "ann_id": 363860, "best_split": [3, 1], "split_score": 0.4370117316692616}
+{"sent": "wooden door", "ann_id": 363860, "best_split": [2, 1], "split_score": 0.45477509210783584}

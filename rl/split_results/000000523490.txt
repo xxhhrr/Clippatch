@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 501253, "best_split": [1, 2], "split_score": 0.559660545740008}
+{"sent": "woman in red", "ann_id": 501253, "best_split": [1, 2], "split_score": 0.559660545740008}
+{"sent": "woman in red", "ann_id": 501253, "best_split": [1, 2], "split_score": 0.559660545740008}
+{"sent": "the woman in the gray vest", "ann_id": 440969, "best_split": [3, 1], "split_score": 0.3201483312590434}
+{"sent": "woman with gray vest", "ann_id": 440969, "best_split": [3, 1], "split_score": 0.3201483312590434}
+{"sent": "vest", "ann_id": 440969, "best_split": [1, 2], "split_score": 0.5312499999788245}

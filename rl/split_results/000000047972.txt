@@ -1,0 +1,9 @@
+{"sent": "yellow shirt", "ann_id": 1234522, "best_split": [2, 3], "split_score": 0.35463258781896023}
+{"sent": "yellow shirt", "ann_id": 1234522, "best_split": [2, 3], "split_score": 0.35463258781896023}
+{"sent": "yellow", "ann_id": 1234522, "best_split": [2, 3], "split_score": 0.35463258781896023}
+{"sent": "tallest girl in pink", "ann_id": 1226186, "best_split": [1, 3], "split_score": 0.5129645118584679}
+{"sent": "tall girl in pink", "ann_id": 1226186, "best_split": [1, 3], "split_score": 0.5129645118584679}
+{"sent": "tallest pink shirt girl", "ann_id": 1226186, "best_split": [1, 3], "split_score": 0.5129645118584679}
+{"sent": "black and white designed coat", "ann_id": 1678509, "best_split": [1, 5], "split_score": 0.4598058251980771}
+{"sent": "woman on the side leopard print jacket", "ann_id": 1678509, "best_split": [1, 5], "split_score": 0.4598058251980771}
+{"sent": "woman behind taller girl in pink", "ann_id": 1678509, "best_split": [3, 3], "split_score": 0.30909090905293723}

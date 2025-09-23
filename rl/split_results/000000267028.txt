@@ -1,0 +1,12 @@
+{"sent": "person in white shirt in doorway", "ann_id": 1707705, "best_split": [3, 2], "split_score": 0.2777539648223581}
+{"sent": "man furthest away in white and black", "ann_id": 1707705, "best_split": [3, 2], "split_score": 0.2777539648223581}
+{"sent": "cutoff man in back", "ann_id": 1707705, "best_split": [3, 2], "split_score": 0.2777539648223581}
+{"sent": "white and blue shirt", "ann_id": 1227919, "best_split": [2, 3], "split_score": 0.7263382466324342}
+{"sent": "white and blue back", "ann_id": 1227919, "best_split": [1, 3], "split_score": 0.561340514628286}
+{"sent": "mans back sitting with white and blue shirt", "ann_id": 1227919, "best_split": [1, 3], "split_score": 0.561340514628286}
+{"sent": "man standing that is looking towards the bunks", "ann_id": 516132, "best_split": [1, 2], "split_score": 0.15720663264679502}
+{"sent": "standinf by guy sitting", "ann_id": 516132, "best_split": [1, 2], "split_score": 0.15720663264679502}
+{"sent": "taller", "ann_id": 516132, "best_split": [2, 2], "split_score": 0.3023696682225616}
+{"sent": "guy sitting facing camera", "ann_id": 426354, "best_split": [2, 3], "split_score": 0.6403940886042289}
+{"sent": "man in dark shirt", "ann_id": 426354, "best_split": [2, 3], "split_score": 0.6403940886042289}
+{"sent": "man in gray sitting", "ann_id": 426354, "best_split": [2, 3], "split_score": 0.6403940886042289}

@@ -1,0 +1,6 @@
+{"sent": "gray shirt", "ann_id": 529362, "best_split": [2, 3], "split_score": 0.3316274308920944}
+{"sent": "girl on computer", "ann_id": 529362, "best_split": [1, 2], "split_score": 0.42880488843154735}
+{"sent": "brunette with gray sweatshirt", "ann_id": 529362, "best_split": [1, 2], "split_score": 0.42880488843154735}
+{"sent": "blond", "ann_id": 517123, "best_split": [1, 2], "split_score": 0.8746811224141151}
+{"sent": "tallest girl with white shirt only", "ann_id": 517123, "best_split": [1, 3], "split_score": 0.6218947368159202}
+{"sent": "white shirt deer design cute one", "ann_id": 517123, "best_split": [2, 2], "split_score": 0.4829721362021426}

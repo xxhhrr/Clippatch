@@ -1,0 +1,5 @@
+{"sent": "peach next to grapes", "ann_id": 1048531, "best_split": [3, 3], "split_score": 0.6866859622491522}
+{"sent": "grapefruit", "ann_id": 1048531, "best_split": [2, 3], "split_score": 0.4642857142296952}
+{"sent": "closest pink fruit", "ann_id": 1047096, "best_split": [3, 3], "split_score": 0.1774992713235938}
+{"sent": "red fruit half cut off", "ann_id": 1047096, "best_split": [3, 3], "split_score": 0.1774992713235938}
+{"sent": "fruit half in pic closest to us", "ann_id": 1047096, "best_split": [3, 3], "split_score": 0.1774992713235938}

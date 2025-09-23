@@ -1,0 +1,5 @@
+{"sent": "child with cup", "ann_id": 220722, "best_split": [3, 3], "split_score": 0.5943412019765041}
+{"sent": "boy holding blue cup", "ann_id": 220722, "best_split": [3, 3], "split_score": 0.5943412019765041}
+{"sent": "girl", "ann_id": 219013, "best_split": [2, 2], "split_score": 0.5989208632708812}
+{"sent": "child in white shirt", "ann_id": 219013, "best_split": [2, 2], "split_score": 0.5989208632708812}
+{"sent": "girl", "ann_id": 219013, "best_split": [2, 2], "split_score": 0.5989208632708812}

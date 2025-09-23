@@ -1,0 +1,6 @@
+{"sent": "pink coat", "ann_id": 511338, "best_split": [3, 2], "split_score": 0.39969135798063365}
+{"sent": "tallest", "ann_id": 511338, "best_split": [3, 2], "split_score": 0.39969135798063365}
+{"sent": "pink", "ann_id": 511338, "best_split": [3, 2], "split_score": 0.39969135798063365}
+{"sent": "white jacket", "ann_id": 499331, "best_split": [3, 2], "split_score": 0.36397670545299743}
+{"sent": "shorter", "ann_id": 499331, "best_split": [5, 1], "split_score": 0.19674001628388427}
+{"sent": "white shirt", "ann_id": 499331, "best_split": [2, 2], "split_score": 0.27810476748983926}

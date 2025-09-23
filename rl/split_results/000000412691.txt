@@ -1,0 +1,5 @@
+{"sent": "guy wih gray pants", "ann_id": 463602, "best_split": [3, 2], "split_score": 0.33885170831817085}
+{"sent": "guy with rake", "ann_id": 463602, "best_split": [1, 2], "split_score": 0.27566964284615475}
+{"sent": "snowboarder next to sun", "ann_id": 458742, "best_split": [2, 3], "split_score": 0.6712036926652617}
+{"sent": "the one on the board", "ann_id": 458742, "best_split": [2, 3], "split_score": 0.6712036926652617}
+{"sent": "man on pink barrell", "ann_id": 458742, "best_split": [1, 5], "split_score": 0.367026838587746}

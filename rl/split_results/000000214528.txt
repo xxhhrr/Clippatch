@@ -1,0 +1,6 @@
+{"sent": "body of person holding baby", "ann_id": 474951, "best_split": [3, 2], "split_score": 0.730117340218838}
+{"sent": "part of body holding child not child", "ann_id": 474951, "best_split": [3, 2], "split_score": 0.730117340218838}
+{"sent": "hand of mother holding kid", "ann_id": 474951, "best_split": [3, 2], "split_score": 0.730117340218838}
+{"sent": "boy", "ann_id": 438181, "best_split": [1, 2], "split_score": 0.5768748432224456}
+{"sent": "baby", "ann_id": 438181, "best_split": [1, 2], "split_score": 0.5768748432224456}
+{"sent": "baby", "ann_id": 438181, "best_split": [1, 2], "split_score": 0.5768748432224456}

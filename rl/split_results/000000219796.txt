@@ -1,0 +1,6 @@
+{"sent": "green broccoli on plate", "ann_id": 2187667, "best_split": [3, 3], "split_score": 0.3146633102085174}
+{"sent": "lowest piece of broc", "ann_id": 1559501, "best_split": [2, 3], "split_score": 0.369872537616469}
+{"sent": "broccoli closest to us", "ann_id": 1559501, "best_split": [2, 3], "split_score": 0.369872537616469}
+{"sent": "broccoli floret closest to mean", "ann_id": 1055498, "best_split": [3, 2], "split_score": 0.3298186418884628}
+{"sent": "piece of broccoli closest to meat", "ann_id": 1055498, "best_split": [3, 2], "split_score": 0.3298186418884628}
+{"sent": "broccoli touching meat", "ann_id": 1055498, "best_split": [3, 2], "split_score": 0.3298186418884628}

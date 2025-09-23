@@ -1,0 +1,15 @@
+{"sent": "the half donut with crumbled topping", "ann_id": 1083078, "best_split": [2, 2], "split_score": 0.2192418532314164}
+{"sent": "donut closest to us barely visible", "ann_id": 1083078, "best_split": [1, 5], "split_score": 0.15872483220144926}
+{"sent": "closet crumb doughnut that is cut off", "ann_id": 1083078, "best_split": [1, 5], "split_score": 0.15872483220144926}
+{"sent": "fully visible donut with nuts on", "ann_id": 1083036, "best_split": [1, 3], "split_score": 0.16040325846525932}
+{"sent": "corner with nuts", "ann_id": 1083036, "best_split": [2, 2], "split_score": 0.7339764030027123}
+{"sent": "full view crumb donut", "ann_id": 1083036, "best_split": [1, 3], "split_score": 0.16040325846525932}
+{"sent": "powered donut close to you", "ann_id": 1082867, "best_split": [1, 2], "split_score": 0.40704719386132626}
+{"sent": "donut with a lot of powder", "ann_id": 1082867, "best_split": [1, 2], "split_score": 0.40704719386132626}
+{"sent": "less covered powder donut", "ann_id": 1082845, "best_split": [3, 1], "split_score": 0.3076749689897625}
+{"sent": "cinnamon frosted donut closest to table", "ann_id": 1082845, "best_split": [3, 1], "split_score": 0.3076749689897625}
+{"sent": "middle donut rght", "ann_id": 1082845, "best_split": [3, 1], "split_score": 0.3076749689897625}
+{"sent": "the glazed on with the smallest seen hole", "ann_id": 1082658, "best_split": [3, 3], "split_score": 0.5508729680085983}
+{"sent": "glazed closet to noon", "ann_id": 1082658, "best_split": [3, 3], "split_score": 0.5508729680085983}
+{"sent": "glazed donut above donut out of picture", "ann_id": 1080360, "best_split": [2, 2], "split_score": 0.35414469518708114}
+{"sent": "biggest yellow donut", "ann_id": 1080360, "best_split": [1, 3], "split_score": 0.40516409263964986}

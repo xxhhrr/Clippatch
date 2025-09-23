@@ -1,0 +1,6 @@
+{"sent": "sandwich closest to fries", "ann_id": 312831, "best_split": [3, 3], "split_score": 0.42926928552521176}
+{"sent": "sandwich closer to fries", "ann_id": 312831, "best_split": [3, 3], "split_score": 0.42926928552521176}
+{"sent": "orange toothpick", "ann_id": 312831, "best_split": [3, 3], "split_score": 0.42926928552521176}
+{"sent": "diamond shaped sandwhich", "ann_id": 312648, "best_split": [1, 5], "split_score": 0.44512787306206475}
+{"sent": "sandwhich closest to pickle", "ann_id": 312648, "best_split": [1, 5], "split_score": 0.44512787306206475}
+{"sent": "sandwich slice beside green thing", "ann_id": 312648, "best_split": [1, 5], "split_score": 0.44512787306206475}

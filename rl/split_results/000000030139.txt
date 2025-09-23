@@ -1,0 +1,5 @@
+{"sent": "brown turtleneck sweater", "ann_id": 260201, "best_split": [2, 3], "split_score": 0.7028654686058411}
+{"sent": "brown guying no face sitter", "ann_id": 260201, "best_split": [2, 1], "split_score": 0.3307104926419353}
+{"sent": "brown shirt sitting", "ann_id": 260201, "best_split": [2, 3], "split_score": 0.7028654686058411}
+{"sent": "man with red sweatshirt", "ann_id": 213561, "best_split": [3, 3], "split_score": 0.43431022152475907}
+{"sent": "red hoddie", "ann_id": 213561, "best_split": [3, 3], "split_score": 0.43431022152475907}

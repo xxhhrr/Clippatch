@@ -1,0 +1,14 @@
+{"sent": "blue", "ann_id": 1808941, "best_split": [2, 2], "split_score": 0.31855867344399247}
+{"sent": "blue", "ann_id": 1808941, "best_split": [2, 2], "split_score": 0.31855867344399247}
+{"sent": "a blue firehydrant", "ann_id": 1808941, "best_split": [2, 2], "split_score": 0.31855867344399247}
+{"sent": "blue hydrant", "ann_id": 1808941, "best_split": [2, 2], "split_score": 0.31855867344399247}
+{"sent": "yellow hydrant", "ann_id": 418010, "best_split": [3, 2], "split_score": 0.4403573914550525}
+{"sent": "yellow", "ann_id": 418010, "best_split": [3, 2], "split_score": 0.4403573914550525}
+{"sent": "yellow hydrant", "ann_id": 418010, "best_split": [3, 2], "split_score": 0.4403573914550525}
+{"sent": "red hydrant", "ann_id": 417845, "best_split": [3, 2], "split_score": 0.43618739898036146}
+{"sent": "red", "ann_id": 417845, "best_split": [3, 2], "split_score": 0.43618739898036146}
+{"sent": "red", "ann_id": 417845, "best_split": [3, 2], "split_score": 0.43618739898036146}
+{"sent": "lower red hydrant", "ann_id": 417845, "best_split": [3, 2], "split_score": 0.43618739898036146}
+{"sent": "green", "ann_id": 417016, "best_split": [2, 3], "split_score": 0.324022951139545}
+{"sent": "green", "ann_id": 417016, "best_split": [2, 3], "split_score": 0.324022951139545}
+{"sent": "green hydrant", "ann_id": 417016, "best_split": [2, 3], "split_score": 0.324022951139545}

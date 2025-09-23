@@ -1,0 +1,6 @@
+{"sent": "guy sitting down full view", "ann_id": 502759, "best_split": [3, 3], "split_score": 0.4987745097529846}
+{"sent": "white hat", "ann_id": 502759, "best_split": [3, 1], "split_score": 0.41735400855507787}
+{"sent": "white coat", "ann_id": 502759, "best_split": [3, 2], "split_score": 0.35209525279479703}
+{"sent": "guy standing next to person sitting", "ann_id": 426108, "best_split": [3, 3], "split_score": 0.5135883675759757}
+{"sent": "bananaphone dark jacket standing over person", "ann_id": 426108, "best_split": [3, 3], "split_score": 0.5135883675759757}
+{"sent": "guy standing overtop of fallen man", "ann_id": 426108, "best_split": [3, 2], "split_score": 0.23620025671414202}

@@ -1,0 +1,6 @@
+{"sent": "object just beyond yellow hydrant", "ann_id": 352120, "best_split": [2, 2], "split_score": 0.2963883049686994}
+{"sent": "blurry black car", "ann_id": 352120, "best_split": [2, 1], "split_score": 0.23855421685848816}
+{"sent": "closest car thats under the stop sign", "ann_id": 352120, "best_split": [3, 3], "split_score": 0.3528872593591112}
+{"sent": "silver car", "ann_id": 346031, "best_split": [2, 3], "split_score": 0.30405405401736796}
+{"sent": "silver car", "ann_id": 346031, "best_split": [2, 3], "split_score": 0.30405405401736796}
+{"sent": "this is a car", "ann_id": 346031, "best_split": [2, 3], "split_score": 0.30405405401736796}

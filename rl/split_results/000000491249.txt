@@ -1,0 +1,5 @@
+{"sent": "person north of pizza", "ann_id": 2031382, "best_split": [1, 3], "split_score": 0.2062607204006078}
+{"sent": "person directly behind pizza", "ann_id": 2031382, "best_split": [1, 3], "split_score": 0.2062607204006078}
+{"sent": "person in black and white behind pizza not the woman", "ann_id": 2031382, "best_split": [1, 3], "split_score": 0.2062607204006078}
+{"sent": "blurry figure in white", "ann_id": 440041, "best_split": [1, 5], "split_score": 0.2844597927691702}
+{"sent": "the girl in white near coke", "ann_id": 440041, "best_split": [2, 3], "split_score": 0.3661854193573338}

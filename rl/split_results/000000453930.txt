@@ -1,0 +1,9 @@
+{"sent": "bear hat", "ann_id": 1255057, "best_split": [1, 3], "split_score": 0.369671403176639}
+{"sent": "bear hat", "ann_id": 1255057, "best_split": [1, 3], "split_score": 0.369671403176639}
+{"sent": "person with bear hat", "ann_id": 1255057, "best_split": [1, 3], "split_score": 0.369671403176639}
+{"sent": "black coat no hat", "ann_id": 1223382, "best_split": [1, 2], "split_score": 0.3938137754945068}
+{"sent": "woman in black no head covering", "ann_id": 1223382, "best_split": [1, 2], "split_score": 0.3938137754945068}
+{"sent": "woman in black", "ann_id": 1223382, "best_split": [1, 3], "split_score": 0.5960424710065129}
+{"sent": "woman hat and glasses", "ann_id": 1210714, "best_split": [1, 3], "split_score": 0.4985422740297676}
+{"sent": "hat and glasses", "ann_id": 1210714, "best_split": [1, 3], "split_score": 0.4985422740297676}
+{"sent": "woman striped hat closest to us", "ann_id": 1210714, "best_split": [1, 3], "split_score": 0.4985422740297676}

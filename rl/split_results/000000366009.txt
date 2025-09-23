@@ -1,0 +1,14 @@
+{"sent": "table with tissue box", "ann_id": 290882, "best_split": [5, 1], "split_score": 0.3134819144762987}
+{"sent": "tissue box next to woman", "ann_id": 290882, "best_split": [3, 3], "split_score": 0.7519271197000827}
+{"sent": "lounging man in gray", "ann_id": 227382, "best_split": [3, 1], "split_score": 0.2901809055583927}
+{"sent": "man in corner", "ann_id": 227382, "best_split": [2, 1], "split_score": 0.1021153654533884}
+{"sent": "hand on head", "ann_id": 227382, "best_split": [1, 2], "split_score": 0.32286352039529403}
+{"sent": "black shirt man", "ann_id": 222015, "best_split": [5, 1], "split_score": 0.12211421627365233}
+{"sent": "guy in blue shirt", "ann_id": 222015, "best_split": [3, 1], "split_score": 0.26967636658854083}
+{"sent": "man with shorts on", "ann_id": 222015, "best_split": [3, 2], "split_score": 0.49103694161720934}
+{"sent": "black shirt woman", "ann_id": 199769, "best_split": [2, 2], "split_score": 0.7718431121833671}
+{"sent": "lady", "ann_id": 199769, "best_split": [1, 2], "split_score": 0.38592155610706624}
+{"sent": "woman", "ann_id": 199769, "best_split": [1, 2], "split_score": 0.38592155610706624}
+{"sent": "red couch", "ann_id": 98828, "best_split": [3, 1], "split_score": 0.5050010418574181}
+{"sent": "maroon couch", "ann_id": 98828, "best_split": [3, 1], "split_score": 0.5050010418574181}
+{"sent": "sofa guys sitting on", "ann_id": 98828, "best_split": [3, 1], "split_score": 0.5050010418574181}

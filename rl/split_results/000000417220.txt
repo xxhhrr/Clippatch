@@ -1,0 +1,6 @@
+{"sent": "red luggage", "ann_id": 1186999, "best_split": [2, 3], "split_score": 0.359204921877974}
+{"sent": "pink suitcase", "ann_id": 1186999, "best_split": [2, 3], "split_score": 0.359204921877974}
+{"sent": "red case", "ann_id": 1186999, "best_split": [2, 3], "split_score": 0.359204921877974}
+{"sent": "gray case", "ann_id": 1185116, "best_split": [3, 3], "split_score": 0.40464240897041365}
+{"sent": "brown luggage on red luggage", "ann_id": 1185116, "best_split": [1, 5], "split_score": 0.15005174196705315}
+{"sent": "the brown suitcase sitting above the red", "ann_id": 1185116, "best_split": [3, 2], "split_score": 0.37028411732996225}

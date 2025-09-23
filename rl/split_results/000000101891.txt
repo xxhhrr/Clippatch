@@ -1,0 +1,14 @@
+{"sent": "white car near blue garbage can", "ann_id": 143013, "best_split": [1, 3], "split_score": 0.17296090732547292}
+{"sent": "beige car near red and white car", "ann_id": 143013, "best_split": [3, 1], "split_score": 0.17296090732547292}
+{"sent": "yellow car", "ann_id": 137098, "best_split": [2, 2], "split_score": 0.5553815489354085}
+{"sent": "yellow", "ann_id": 137098, "best_split": [2, 2], "split_score": 0.5553815489354085}
+{"sent": "yellow car", "ann_id": 137098, "best_split": [2, 2], "split_score": 0.5553815489354085}
+{"sent": "red car", "ann_id": 134190, "best_split": [2, 3], "split_score": 0.5704584040141704}
+{"sent": "red car", "ann_id": 134190, "best_split": [2, 3], "split_score": 0.5704584040141704}
+{"sent": "the red car", "ann_id": 134190, "best_split": [2, 3], "split_score": 0.5704584040141704}
+{"sent": "blue bike near yellow car", "ann_id": 128081, "best_split": [1, 3], "split_score": 0.3880579154967059}
+{"sent": "blue shorter bike by yellow car", "ann_id": 128081, "best_split": [2, 2], "split_score": 0.34304932733022353}
+{"sent": "blue bike at 4 olock", "ann_id": 128081, "best_split": [2, 2], "split_score": 0.34304932733022353}
+{"sent": "bigger bike", "ann_id": 127142, "best_split": [2, 3], "split_score": 0.5226367257766537}
+{"sent": "bike near red car", "ann_id": 127142, "best_split": [1, 3], "split_score": 0.5144787644477269}
+{"sent": "blue bike next to trash bin", "ann_id": 127142, "best_split": [2, 1], "split_score": 0.20729780203249182}

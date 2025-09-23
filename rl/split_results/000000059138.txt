@@ -1,0 +1,9 @@
+{"sent": "standing half body", "ann_id": 212341, "best_split": [1, 5], "split_score": 0.6303724927956257}
+{"sent": "cant be seen", "ann_id": 212341, "best_split": [1, 3], "split_score": 0.8906882590562819}
+{"sent": "person in black shirt cutoff", "ann_id": 212341, "best_split": [1, 3], "split_score": 0.8906882590562819}
+{"sent": "guy sitting down", "ann_id": 205356, "best_split": [5, 1], "split_score": 0.10657312285086669}
+{"sent": "sitting by pole", "ann_id": 205356, "best_split": [5, 1], "split_score": 0.10657312285086669}
+{"sent": "guy siting", "ann_id": 205356, "best_split": [1, 2], "split_score": 0.13524394132113982}
+{"sent": "man looking out subway door", "ann_id": 195365, "best_split": [2, 2], "split_score": 0.25007346457781987}
+{"sent": "full man", "ann_id": 195365, "best_split": [1, 3], "split_score": 0.6119109947310258}
+{"sent": "man main", "ann_id": 195365, "best_split": [1, 3], "split_score": 0.6119109947310258}

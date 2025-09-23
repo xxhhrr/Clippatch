@@ -1,0 +1,8 @@
+{"sent": "brown cows asshole", "ann_id": 74598, "best_split": [1, 5], "split_score": 0.3855623100010971}
+{"sent": "small cow white face", "ann_id": 74598, "best_split": [1, 5], "split_score": 0.3855623100010971}
+{"sent": "black and white cow", "ann_id": 73436, "best_split": [2, 2], "split_score": 0.24503311257084956}
+{"sent": "black and white cow closest to the fence", "ann_id": 73436, "best_split": [3, 1], "split_score": 0.22699386502126537}
+{"sent": "black and white cow", "ann_id": 73436, "best_split": [2, 2], "split_score": 0.24503311257084956}
+{"sent": "cow not brown or black", "ann_id": 70269, "best_split": [1, 2], "split_score": 0.49705038263324897}
+{"sent": "light brown cow", "ann_id": 70269, "best_split": [1, 2], "split_score": 0.49705038263324897}
+{"sent": "light brown cow near gate", "ann_id": 70269, "best_split": [1, 2], "split_score": 0.49705038263324897}

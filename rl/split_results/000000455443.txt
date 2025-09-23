@@ -1,0 +1,9 @@
+{"sent": "black cow no head visible beind brown cow", "ann_id": 71915, "best_split": [2, 1], "split_score": 0.2619579081528237}
+{"sent": "black cow near main brown cow", "ann_id": 71915, "best_split": [2, 1], "split_score": 0.2619579081528237}
+{"sent": "dark brown cow that is not showing face", "ann_id": 71915, "best_split": [2, 1], "split_score": 0.2619579081528237}
+{"sent": "looking and camera", "ann_id": 71684, "best_split": [2, 3], "split_score": 0.8246600551247664}
+{"sent": "brown cow looking at you", "ann_id": 71684, "best_split": [2, 3], "split_score": 0.8246600551247664}
+{"sent": "foreground brown animal", "ann_id": 71684, "best_split": [2, 3], "split_score": 0.8246600551247664}
+{"sent": "the cow with white and black", "ann_id": 70806, "best_split": [2, 2], "split_score": 0.3271683673208571}
+{"sent": "brown cow with white on head only see half", "ann_id": 70806, "best_split": [2, 2], "split_score": 0.3271683673208571}
+{"sent": "dark brown cow with white half off screen", "ann_id": 70806, "best_split": [2, 2], "split_score": 0.3271683673208571}

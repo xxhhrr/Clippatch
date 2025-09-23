@@ -1,0 +1,5 @@
+{"sent": "blue piece of background around the white", "ann_id": 2157144, "best_split": [1, 5], "split_score": 0.6473214285057507}
+{"sent": "person wearing jeans and gray shirt near white thing on fence", "ann_id": 2157144, "best_split": [1, 5], "split_score": 0.6473214285057507}
+{"sent": "woman in white", "ann_id": 485398, "best_split": [2, 2], "split_score": 0.37321549963895223}
+{"sent": "person", "ann_id": 485398, "best_split": [1, 5], "split_score": 0.41901501182387313}
+{"sent": "woman", "ann_id": 485398, "best_split": [1, 2], "split_score": 0.3990567472843809}

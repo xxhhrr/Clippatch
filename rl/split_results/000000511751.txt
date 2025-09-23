@@ -1,0 +1,9 @@
+{"sent": "closest wine glass", "ann_id": 665748, "best_split": [1, 2], "split_score": 0.5806667409805812}
+{"sent": "empty glass closest", "ann_id": 665748, "best_split": [2, 1], "split_score": 0.47877333888393725}
+{"sent": "glass next to book", "ann_id": 665139, "best_split": [1, 5], "split_score": 0.507305194753723}
+{"sent": "least wine in glass that can fully see", "ann_id": 665139, "best_split": [3, 2], "split_score": 0.28659953521624715}
+{"sent": "lmoat empty glass on menu", "ann_id": 665139, "best_split": [3, 3], "split_score": 0.3938265034068884}
+{"sent": "half hidden glass behind empty one", "ann_id": 662557, "best_split": [2, 2], "split_score": 0.30728381300024366}
+{"sent": "closest dark wine glass", "ann_id": 661428, "best_split": [1, 5], "split_score": 0.53224969734288}
+{"sent": "whole glass with lamp above", "ann_id": 661428, "best_split": [1, 5], "split_score": 0.53224969734288}
+{"sent": "most center wine glass", "ann_id": 661428, "best_split": [1, 5], "split_score": 0.53224969734288}

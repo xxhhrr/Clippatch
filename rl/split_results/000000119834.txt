@@ -1,0 +1,9 @@
+{"sent": "guy in red", "ann_id": 515910, "best_split": [1, 3], "split_score": 0.9366552118592981}
+{"sent": "man in red sweatshirt", "ann_id": 515910, "best_split": [1, 3], "split_score": 0.9366552118592981}
+{"sent": "mans blue jeans", "ann_id": 515910, "best_split": [1, 3], "split_score": 0.9366552118592981}
+{"sent": "person with green jacket", "ann_id": 463720, "best_split": [2, 2], "split_score": 0.3673798358464698}
+{"sent": "person with no head", "ann_id": 463720, "best_split": [1, 2], "split_score": 0.2438616071331369}
+{"sent": "green jacket and jeans", "ann_id": 463720, "best_split": [2, 2], "split_score": 0.3673798358464698}
+{"sent": "child", "ann_id": 440319, "best_split": [1, 5], "split_score": 0.41195795002703606}
+{"sent": "boy with hat", "ann_id": 440319, "best_split": [1, 5], "split_score": 0.41195795002703606}
+{"sent": "boy wearing straw hat and holding doll", "ann_id": 440319, "best_split": [1, 5], "split_score": 0.41195795002703606}

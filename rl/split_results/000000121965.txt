@@ -1,0 +1,6 @@
+{"sent": "blond cat", "ann_id": 51971, "best_split": [5, 1], "split_score": 0.32602674682867555}
+{"sent": "light colored cat", "ann_id": 51971, "best_split": [5, 1], "split_score": 0.32602674682867555}
+{"sent": "lighter kitty", "ann_id": 51971, "best_split": [5, 1], "split_score": 0.32602674682867555}
+{"sent": "cat with glow", "ann_id": 49832, "best_split": [2, 1], "split_score": 0.6247707715959666}
+{"sent": "fluffy tail", "ann_id": 49832, "best_split": [2, 1], "split_score": 0.6247707715959666}
+{"sent": "cat with tail over edge", "ann_id": 49832, "best_split": [2, 1], "split_score": 0.6247707715959666}

@@ -1,0 +1,12 @@
+{"sent": "green shirt", "ann_id": 1307337, "best_split": [3, 3], "split_score": 0.29244388234390706}
+{"sent": "green shirt blue jeans", "ann_id": 1307337, "best_split": [3, 3], "split_score": 0.29244388234390706}
+{"sent": "guy 1", "ann_id": 1307337, "best_split": [1, 3], "split_score": 0.16288610037627377}
+{"sent": "white shirt glasses playing", "ann_id": 1251384, "best_split": [3, 3], "split_score": 0.3735277621461683}
+{"sent": "woman in white sweater standing closer to brown couch", "ann_id": 1251384, "best_split": [3, 2], "split_score": 0.20512330336406773}
+{"sent": "the woman in a creme sweater", "ann_id": 1251384, "best_split": [3, 3], "split_score": 0.3735277621461683}
+{"sent": "half lady by sofa", "ann_id": 1729419, "best_split": [1, 3], "split_score": 0.3803692084712615}
+{"sent": "girl in black jacket thats sitting on couch", "ann_id": 1729419, "best_split": [3, 3], "split_score": 0.5327868851765825}
+{"sent": "black jacket boy sitting", "ann_id": 1729419, "best_split": [3, 3], "split_score": 0.5327868851765825}
+{"sent": "woman in brown shirt jeans", "ann_id": 1202256, "best_split": [2, 2], "split_score": 0.2649892933441522}
+{"sent": "lady in jeans standing", "ann_id": 1202256, "best_split": [2, 2], "split_score": 0.2649892933441522}
+{"sent": "woman in brown sweater", "ann_id": 1202256, "best_split": [3, 3], "split_score": 0.23086522460161552}

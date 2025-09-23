@@ -1,0 +1,6 @@
+{"sent": "dog not near woman", "ann_id": 16764, "best_split": [3, 3], "split_score": 0.5458864715496515}
+{"sent": "german shepard dog with black and beige", "ann_id": 16764, "best_split": [3, 3], "split_score": 0.5458864715496515}
+{"sent": "dog looking at us", "ann_id": 16764, "best_split": [3, 3], "split_score": 0.5458864715496515}
+{"sent": "dog near person", "ann_id": 11721, "best_split": [5, 1], "split_score": 0.21143225990020567}
+{"sent": "dog head in lap", "ann_id": 11721, "best_split": [5, 1], "split_score": 0.21143225990020567}
+{"sent": "dog by woman", "ann_id": 11721, "best_split": [5, 1], "split_score": 0.21143225990020567}

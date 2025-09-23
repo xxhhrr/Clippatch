@@ -1,0 +1,11 @@
+{"sent": "the edge around the plate the table", "ann_id": 1090995, "best_split": [2, 1], "split_score": 0.5011235954954727}
+{"sent": "smallest chunk of table seen", "ann_id": 1090995, "best_split": [2, 1], "split_score": 0.5011235954954727}
+{"sent": "biggest part of the table", "ann_id": 420148, "best_split": [5, 1], "split_score": 0.29314675275447194}
+{"sent": "empty spot on table between sandwiches", "ann_id": 420148, "best_split": [3, 1], "split_score": 0.27509652507992904}
+{"sent": "upper corner of blk thing", "ann_id": 420148, "best_split": [3, 1], "split_score": 0.27509652507992904}
+{"sent": "half of sanwich facing camera", "ann_id": 309529, "best_split": [2, 1], "split_score": 0.5868905295286553}
+{"sent": "piece with open end facing us", "ann_id": 309529, "best_split": [2, 1], "split_score": 0.5868905295286553}
+{"sent": "sandwich where u see al the insides", "ann_id": 309529, "best_split": [2, 1], "split_score": 0.5868905295286553}
+{"sent": "sandwich showing just lettuce", "ann_id": 308030, "best_split": [1, 2], "split_score": 0.6461144890758522}
+{"sent": "sandwich with open end facing away from us i swear we just played together lol", "ann_id": 308030, "best_split": [1, 2], "split_score": 0.6461144890758522}
+{"sent": "close sandwich half", "ann_id": 308030, "best_split": [1, 2], "split_score": 0.6461144890758522}

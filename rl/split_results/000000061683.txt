@@ -1,0 +1,8 @@
+{"sent": "psu", "ann_id": 287653, "best_split": [1, 2], "split_score": 0.6945153060947657}
+{"sent": "umbrella with smiley face", "ann_id": 287653, "best_split": [1, 3], "split_score": 0.7572875749040062}
+{"sent": "sce umbrella", "ann_id": 287608, "best_split": [2, 1], "split_score": 0.28114186850342493}
+{"sent": "orange umbrella", "ann_id": 287608, "best_split": [1, 3], "split_score": 0.6047915854789252}
+{"sent": "sce umbrella", "ann_id": 287608, "best_split": [2, 1], "split_score": 0.28114186850342493}
+{"sent": "blue buildings on umbrella", "ann_id": 284945, "best_split": [3, 1], "split_score": 0.22964828639787496}
+{"sent": "furthest away umbrealla", "ann_id": 284945, "best_split": [5, 1], "split_score": 0.17265696086370239}
+{"sent": "ratnn", "ann_id": 284945, "best_split": [1, 3], "split_score": 0.6493725868334114}

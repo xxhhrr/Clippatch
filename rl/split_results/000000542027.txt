@@ -1,0 +1,5 @@
+{"sent": "closed labtop", "ann_id": 1101398, "best_split": [1, 5], "split_score": 0.16841404558425577}
+{"sent": "silver laptop with the screen closed", "ann_id": 1101398, "best_split": [2, 2], "split_score": 0.3239949350804056}
+{"sent": "closed laptop silver closest to us", "ann_id": 1101398, "best_split": [2, 2], "split_score": 0.3239949350804056}
+{"sent": "black keyboard", "ann_id": 1099566, "best_split": [3, 2], "split_score": 0.7558192605253515}
+{"sent": "laptop open closest", "ann_id": 1099566, "best_split": [3, 2], "split_score": 0.7558192605253515}

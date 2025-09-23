@@ -1,0 +1,6 @@
+{"sent": "guy behind the woman", "ann_id": 477611, "best_split": [3, 2], "split_score": 0.2816756087204214}
+{"sent": "man in white shirt", "ann_id": 477611, "best_split": [1, 5], "split_score": 0.3333968737768398}
+{"sent": "guy in background", "ann_id": 477611, "best_split": [1, 5], "split_score": 0.3333968737768398}
+{"sent": "woman", "ann_id": 464155, "best_split": [1, 3], "split_score": 0.599381473634118}
+{"sent": "woman eating", "ann_id": 464155, "best_split": [1, 3], "split_score": 0.599381473634118}
+{"sent": "woman", "ann_id": 464155, "best_split": [1, 3], "split_score": 0.599381473634118}

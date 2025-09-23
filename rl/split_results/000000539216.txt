@@ -1,0 +1,6 @@
+{"sent": "bear head down", "ann_id": 1161423, "best_split": [2, 3], "split_score": 0.5480285234324634}
+{"sent": "bear face on table", "ann_id": 1161423, "best_split": [2, 3], "split_score": 0.5480285234324634}
+{"sent": "bear with face down", "ann_id": 1161423, "best_split": [2, 3], "split_score": 0.5480285234324634}
+{"sent": "bear with head up", "ann_id": 1159208, "best_split": [2, 2], "split_score": 0.549019607801086}
+{"sent": "teddy upright", "ann_id": 1159208, "best_split": [2, 3], "split_score": 0.791741472083512}
+{"sent": "teddy bear head up", "ann_id": 1159208, "best_split": [2, 3], "split_score": 0.791741472083512}

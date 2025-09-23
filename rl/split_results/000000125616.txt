@@ -1,0 +1,5 @@
+{"sent": "reflection of the train", "ann_id": 268105, "best_split": [1, 2], "split_score": 0.5612244897735481}
+{"sent": "side train with door", "ann_id": 268105, "best_split": [1, 2], "split_score": 0.5612244897735481}
+{"sent": "train with yellow", "ann_id": 174495, "best_split": [3, 3], "split_score": 0.511974454428955}
+{"sent": "yellow train", "ann_id": 174495, "best_split": [3, 3], "split_score": 0.511974454428955}
+{"sent": "red and yellow train", "ann_id": 174495, "best_split": [3, 3], "split_score": 0.511974454428955}

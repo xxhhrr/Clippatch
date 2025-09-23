@@ -1,0 +1,6 @@
+{"sent": "mouth open with glasses", "ann_id": 1289724, "best_split": [1, 5], "split_score": 0.5990259739651962}
+{"sent": "man not holding stop sign", "ann_id": 1289724, "best_split": [2, 1], "split_score": 0.12167933405278034}
+{"sent": "guy in blue hoodie", "ann_id": 1289724, "best_split": [1, 5], "split_score": 0.5990259739651962}
+{"sent": "man holding sign", "ann_id": 1277435, "best_split": [1, 5], "split_score": 0.5768863418792318}
+{"sent": "holding stop sign", "ann_id": 1277435, "best_split": [1, 2], "split_score": 0.3310347576398663}
+{"sent": "man in green", "ann_id": 1277435, "best_split": [1, 5], "split_score": 0.5768863418792318}

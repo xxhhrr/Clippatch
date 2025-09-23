@@ -1,0 +1,6 @@
+{"sent": "red scarf", "ann_id": 1719458, "best_split": [1, 5], "split_score": 0.5948660713682157}
+{"sent": "person cut off", "ann_id": 1719458, "best_split": [3, 1], "split_score": 0.14187573150771585}
+{"sent": "woman in red scarf at edge", "ann_id": 1719458, "best_split": [1, 5], "split_score": 0.5948660713682157}
+{"sent": "girl holding up phone", "ann_id": 474135, "best_split": [2, 1], "split_score": 0.6193033684268614}
+{"sent": "gril", "ann_id": 474135, "best_split": [1, 2], "split_score": 0.44173630453942114}
+{"sent": "woman with phone", "ann_id": 474135, "best_split": [2, 1], "split_score": 0.6193033684268614}

@@ -1,0 +1,5 @@
+{"sent": "animal facing ahead", "ann_id": 588061, "best_split": [3, 2], "split_score": 0.4482132040799331}
+{"sent": "whitest face", "ann_id": 588061, "best_split": [1, 5], "split_score": 0.40064274233677843}
+{"sent": "animal looking at other one", "ann_id": 587567, "best_split": [3, 1], "split_score": 0.2525597269489889}
+{"sent": "bear not looking straight", "ann_id": 587567, "best_split": [3, 2], "split_score": 0.45259938833595187}
+{"sent": "animals realaxing", "ann_id": 587567, "best_split": [3, 2], "split_score": 0.45259938833595187}

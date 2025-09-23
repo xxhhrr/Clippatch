@@ -1,0 +1,9 @@
+{"sent": "the bike whose seat is half out of view", "ann_id": 131658, "best_split": [1, 2], "split_score": 0.5420900630938579}
+{"sent": "farther bike", "ann_id": 131658, "best_split": [1, 2], "split_score": 0.5420900630938579}
+{"sent": "wheel from other bike showing under seat", "ann_id": 1766309, "best_split": [1, 3], "split_score": 0.23226351349950147}
+{"sent": "closest tire", "ann_id": 131557, "best_split": [3, 1], "split_score": 0.7065139584403177}
+{"sent": "closest tires in the spokes", "ann_id": 131557, "best_split": [3, 1], "split_score": 0.7065139584403177}
+{"sent": "back tire", "ann_id": 131557, "best_split": [3, 1], "split_score": 0.7065139584403177}
+{"sent": "bike seat", "ann_id": 126490, "best_split": [1, 2], "split_score": 0.5825892856910638}
+{"sent": "clearest black seat", "ann_id": 126490, "best_split": [2, 1], "split_score": 0.2322016013831481}
+{"sent": "bike seat", "ann_id": 126490, "best_split": [1, 2], "split_score": 0.5825892856910638}

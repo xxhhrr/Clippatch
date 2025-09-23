@@ -1,0 +1,9 @@
+{"sent": "lead elephant", "ann_id": 581432, "best_split": [2, 3], "split_score": 0.3324076645068585}
+{"sent": "biggest elephant", "ann_id": 581432, "best_split": [2, 3], "split_score": 0.3324076645068585}
+{"sent": "elephant leading", "ann_id": 581432, "best_split": [5, 1], "split_score": 0.24334008410629848}
+{"sent": "the elephant that isnt having his tail held because it has spiders on it", "ann_id": 580867, "best_split": [3, 3], "split_score": 0.9348986124270902}
+{"sent": "smallest", "ann_id": 580867, "best_split": [2, 1], "split_score": 0.09719673251656423}
+{"sent": "third", "ann_id": 580867, "best_split": [2, 1], "split_score": 0.09719673251656423}
+{"sent": "elephant sandwiched between two others", "ann_id": 580129, "best_split": [3, 1], "split_score": 0.29209783629514946}
+{"sent": "main elephant", "ann_id": 580129, "best_split": [3, 1], "split_score": 0.29209783629514946}
+{"sent": "elephant two", "ann_id": 580129, "best_split": [3, 1], "split_score": 0.29209783629514946}

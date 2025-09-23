@@ -1,0 +1,6 @@
+{"sent": "ice cream", "ann_id": 2119287, "best_split": [3, 3], "split_score": 0.6409722221109423}
+{"sent": "ice cream", "ann_id": 2119287, "best_split": [3, 3], "split_score": 0.6409722221109423}
+{"sent": "cream", "ann_id": 2119287, "best_split": [3, 3], "split_score": 0.6409722221109423}
+{"sent": "pie", "ann_id": 1087320, "best_split": [1, 2], "split_score": 0.4741264926873657}
+{"sent": "chocolate cake", "ann_id": 1087320, "best_split": [1, 2], "split_score": 0.4741264926873657}
+{"sent": "cake", "ann_id": 1087320, "best_split": [1, 2], "split_score": 0.4741264926873657}

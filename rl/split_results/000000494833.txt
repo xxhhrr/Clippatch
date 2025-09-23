@@ -1,0 +1,9 @@
+{"sent": "red car", "ann_id": 144360, "best_split": [3, 2], "split_score": 0.5800671892033221}
+{"sent": "red suv", "ann_id": 144360, "best_split": [3, 2], "split_score": 0.5800671892033221}
+{"sent": "red van", "ann_id": 144360, "best_split": [3, 2], "split_score": 0.5800671892033221}
+{"sent": "gray suv near gas pump", "ann_id": 141890, "best_split": [2, 3], "split_score": 0.27152637158697074}
+{"sent": "gray suv or van beside gas pump", "ann_id": 141890, "best_split": [1, 2], "split_score": 0.19527264029833893}
+{"sent": "silver suv", "ann_id": 141890, "best_split": [3, 2], "split_score": 0.30797460818210926}
+{"sent": "white car", "ann_id": 134158, "best_split": [3, 3], "split_score": 0.48908045969984476}
+{"sent": "white car", "ann_id": 134158, "best_split": [3, 3], "split_score": 0.48908045969984476}
+{"sent": "white car", "ann_id": 134158, "best_split": [3, 3], "split_score": 0.48908045969984476}

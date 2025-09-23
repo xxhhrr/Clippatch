@@ -1,0 +1,6 @@
+{"sent": "bear eating fish", "ann_id": 587438, "best_split": [1, 3], "split_score": 0.35847790662520473}
+{"sent": "bear with fish", "ann_id": 587438, "best_split": [1, 3], "split_score": 0.35847790662520473}
+{"sent": "bear eating fish", "ann_id": 587438, "best_split": [1, 3], "split_score": 0.35847790662520473}
+{"sent": "has no fish", "ann_id": 586560, "best_split": [1, 5], "split_score": 0.3270105379740981}
+{"sent": "bear without fish", "ann_id": 586560, "best_split": [1, 3], "split_score": 0.4320560747461656}
+{"sent": "bear without a fish", "ann_id": 586560, "best_split": [1, 3], "split_score": 0.4320560747461656}

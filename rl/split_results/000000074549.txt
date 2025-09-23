@@ -1,0 +1,6 @@
+{"sent": "half that has been bitten", "ann_id": 309956, "best_split": [3, 1], "split_score": 0.3908450704039377}
+{"sent": "piece with a bite taken out", "ann_id": 309956, "best_split": [1, 2], "split_score": 0.504384566306426}
+{"sent": "bitten sandwhich", "ann_id": 309956, "best_split": [3, 3], "split_score": 0.43274853797749735}
+{"sent": "sandwich half that is not bitten", "ann_id": 309805, "best_split": [1, 2], "split_score": 0.5131141835506972}
+{"sent": "half without bite taken out", "ann_id": 309805, "best_split": [1, 2], "split_score": 0.5131141835506972}
+{"sent": "sandwich with no bite taken", "ann_id": 309805, "best_split": [1, 2], "split_score": 0.5131141835506972}

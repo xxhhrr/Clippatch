@@ -1,0 +1,6 @@
+{"sent": "the one not catching the frisbee", "ann_id": 561617, "best_split": [2, 3], "split_score": 0.1913580246789241}
+{"sent": "guy in brown", "ann_id": 561617, "best_split": [1, 5], "split_score": 0.5072321090111903}
+{"sent": "brown shirt", "ann_id": 561617, "best_split": [1, 5], "split_score": 0.5072321090111903}
+{"sent": "flying", "ann_id": 556707, "best_split": [3, 2], "split_score": 0.6754940314298832}
+{"sent": "matrix man in white", "ann_id": 556707, "best_split": [3, 2], "split_score": 0.6754940314298832}
+{"sent": "boy flying", "ann_id": 556707, "best_split": [3, 2], "split_score": 0.6754940314298832}

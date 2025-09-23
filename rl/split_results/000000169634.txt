@@ -1,0 +1,6 @@
+{"sent": "cat with most white", "ann_id": 273459, "best_split": [3, 3], "split_score": 0.4390893678325152}
+{"sent": "mostly white", "ann_id": 273459, "best_split": [3, 1], "split_score": 0.30176710464987727}
+{"sent": "whiter cat", "ann_id": 273459, "best_split": [3, 3], "split_score": 0.4390893678325152}
+{"sent": "black and white cat", "ann_id": 50606, "best_split": [3, 2], "split_score": 0.5067406819481819}
+{"sent": "most black cat", "ann_id": 50606, "best_split": [3, 2], "split_score": 0.5067406819481819}
+{"sent": "cat with more black", "ann_id": 50606, "best_split": [3, 2], "split_score": 0.5067406819481819}

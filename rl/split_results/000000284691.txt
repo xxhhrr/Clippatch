@@ -1,0 +1,6 @@
+{"sent": "lady in pink shirt", "ann_id": 1757714, "best_split": [2, 3], "split_score": 0.355047076816833}
+{"sent": "red shrit", "ann_id": 1757714, "best_split": [2, 2], "split_score": 0.24219566839117285}
+{"sent": "red shirt", "ann_id": 1757714, "best_split": [2, 3], "split_score": 0.355047076816833}
+{"sent": "backpack", "ann_id": 495656, "best_split": [3, 1], "split_score": 0.22298122846701204}
+{"sent": "man going up", "ann_id": 495656, "best_split": [2, 1], "split_score": 0.06728887024373291}
+{"sent": "man with white sleeves bag on back", "ann_id": 495656, "best_split": [3, 1], "split_score": 0.22298122846701204}

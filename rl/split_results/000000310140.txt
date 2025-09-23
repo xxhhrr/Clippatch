@@ -1,0 +1,6 @@
+{"sent": "highest microwave oven", "ann_id": 1120206, "best_split": [3, 2], "split_score": 0.3964768339289965}
+{"sent": "micro on micro", "ann_id": 1120206, "best_split": [3, 2], "split_score": 0.3964768339289965}
+{"sent": "king of the toasters", "ann_id": 1120206, "best_split": [3, 2], "split_score": 0.3964768339289965}
+{"sent": "microwave with glare on door", "ann_id": 1119882, "best_split": [5, 1], "split_score": 0.2654849631283126}
+{"sent": "microwav with something in it", "ann_id": 1119882, "best_split": [2, 3], "split_score": 0.17460986923506855}
+{"sent": "microwave that is sort of lit inside", "ann_id": 1119882, "best_split": [5, 1], "split_score": 0.2654849631283126}

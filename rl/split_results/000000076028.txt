@@ -1,0 +1,9 @@
+{"sent": "last bus", "ann_id": 366566, "best_split": [3, 1], "split_score": 0.16764839147215402}
+{"sent": "40", "ann_id": 366566, "best_split": [3, 3], "split_score": 0.45149481384205387}
+{"sent": "bus 40", "ann_id": 366566, "best_split": [3, 1], "split_score": 0.16764839147215402}
+{"sent": "bus not on either edge", "ann_id": 366473, "best_split": [3, 1], "split_score": 0.20788679636833385}
+{"sent": "bus sandwiched", "ann_id": 366473, "best_split": [3, 3], "split_score": 0.3449500554556104}
+{"sent": "bus in between", "ann_id": 366473, "best_split": [3, 1], "split_score": 0.20788679636833385}
+{"sent": "bus ahead", "ann_id": 366454, "best_split": [1, 2], "split_score": 0.523424494628481}
+{"sent": "bus 254 that you can see whole side of", "ann_id": 366454, "best_split": [1, 2], "split_score": 0.523424494628481}
+{"sent": "bus with ad on side", "ann_id": 366454, "best_split": [1, 2], "split_score": 0.523424494628481}

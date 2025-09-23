@@ -1,0 +1,12 @@
+{"sent": "cop standing up", "ann_id": 1271606, "best_split": [1, 3], "split_score": 0.5142052950780981}
+{"sent": "black pointed hat closest", "ann_id": 1271606, "best_split": [1, 3], "split_score": 0.5142052950780981}
+{"sent": "man in all dark wearing beret bendind down", "ann_id": 1271606, "best_split": [1, 3], "split_score": 0.5142052950780981}
+{"sent": "corner jacket", "ann_id": 1263650, "best_split": [1, 2], "split_score": 0.3616071428427293}
+{"sent": "person with gray jacket", "ann_id": 1263650, "best_split": [2, 1], "split_score": 0.1466165413484621}
+{"sent": "lady fur collar", "ann_id": 1263650, "best_split": [3, 2], "split_score": 0.15671641790000557}
+{"sent": "white hair", "ann_id": 1255894, "best_split": [2, 3], "split_score": 0.5876508161221078}
+{"sent": "the man standing directly over the woman", "ann_id": 1255894, "best_split": [3, 3], "split_score": 0.4470601486317796}
+{"sent": "gray hair glasses", "ann_id": 1255894, "best_split": [2, 3], "split_score": 0.5876508161221078}
+{"sent": "squatter", "ann_id": 1240816, "best_split": [1, 2], "split_score": 0.4326328800821758}
+{"sent": "woman squatting", "ann_id": 1240816, "best_split": [2, 2], "split_score": 0.6459227467378003}
+{"sent": "woman crouching down", "ann_id": 1240816, "best_split": [2, 2], "split_score": 0.6459227467378003}

@@ -1,0 +1,5 @@
+{"sent": "batter haha jk far mush in bowl", "ann_id": 1533369, "best_split": [5, 1], "split_score": 0.3877840908697459}
+{"sent": "bowl behind the broccli", "ann_id": 1533369, "best_split": [3, 3], "split_score": 0.5021001614697738}
+{"sent": "bowl of mush in upper corner", "ann_id": 1533369, "best_split": [3, 3], "split_score": 0.5021001614697738}
+{"sent": "brocolli", "ann_id": 1901465, "best_split": [2, 2], "split_score": 0.5459183673034185}
+{"sent": "the bowl with only brocolli in it", "ann_id": 1901465, "best_split": [2, 2], "split_score": 0.5459183673034185}

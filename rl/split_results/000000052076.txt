@@ -1,0 +1,6 @@
+{"sent": "horse which is not fully visible", "ann_id": 57292, "best_split": [1, 5], "split_score": 0.32049125165540954}
+{"sent": "furthest horse", "ann_id": 57292, "best_split": [1, 5], "split_score": 0.32049125165540954}
+{"sent": "horse with blue harness bending toward ground", "ann_id": 57292, "best_split": [1, 5], "split_score": 0.32049125165540954}
+{"sent": "hrse closest", "ann_id": 55267, "best_split": [2, 1], "split_score": 0.5010447137353468}
+{"sent": "nearest horse", "ann_id": 55267, "best_split": [1, 2], "split_score": 0.5590277777626131}
+{"sent": "brown horse", "ann_id": 55267, "best_split": [1, 2], "split_score": 0.5590277777626131}

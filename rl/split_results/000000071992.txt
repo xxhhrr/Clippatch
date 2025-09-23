@@ -1,0 +1,17 @@
+{"sent": "in front of donuts holding something", "ann_id": 536660, "best_split": [2, 2], "split_score": 0.43168048465946424}
+{"sent": "guy with gray shirt facing the food", "ann_id": 536660, "best_split": [2, 2], "split_score": 0.43168048465946424}
+{"sent": "guy looking away with gray shirt on", "ann_id": 536660, "best_split": [1, 5], "split_score": 0.3651886286102996}
+{"sent": "gray shirt dark sleeves", "ann_id": 535167, "best_split": [2, 3], "split_score": 0.49811320748843}
+{"sent": "guy by counter part visible", "ann_id": 535167, "best_split": [1, 2], "split_score": 0.14108910890543436}
+{"sent": "itchy guy", "ann_id": 522600, "best_split": [2, 1], "split_score": 0.09948979591440171}
+{"sent": "man in black touching his eye", "ann_id": 522600, "best_split": [2, 1], "split_score": 0.09948979591440171}
+{"sent": "guy with hand on his face", "ann_id": 522600, "best_split": [1, 3], "split_score": 0.0794657006973361}
+{"sent": "guy licking food and squinting", "ann_id": 522087, "best_split": [2, 1], "split_score": 0.43518813773775555}
+{"sent": "person eatin", "ann_id": 522087, "best_split": [2, 1], "split_score": 0.43518813773775555}
+{"sent": "man with food in mouth", "ann_id": 522087, "best_split": [2, 1], "split_score": 0.43518813773775555}
+{"sent": "only half face with glasses", "ann_id": 471185, "best_split": [1, 3], "split_score": 0.31038851349478835}
+{"sent": "face with only side of glasses showing", "ann_id": 471185, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "glasses person looking away", "ann_id": 471185, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man holding donut but mouth closed", "ann_id": 422452, "best_split": [2, 2], "split_score": 0.7617187499392762}
+{"sent": "man in glasses that is not eating", "ann_id": 422452, "best_split": [2, 2], "split_score": 0.7617187499392762}
+{"sent": "fatter man hair down forehead corner closest us", "ann_id": 422452, "best_split": [2, 2], "split_score": 0.7617187499392762}

@@ -1,0 +1,4 @@
+{"sent": "the banana slices beneath", "ann_id": 1045584, "best_split": [1, 5], "split_score": 0.2699640287527011}
+{"sent": "two slice banana facing same direction", "ann_id": 1045584, "best_split": [1, 5], "split_score": 0.2699640287527011}
+{"sent": "banana slices cost in most shadow", "ann_id": 1045584, "best_split": [1, 5], "split_score": 0.2699640287527011}
+{"sent": "banana balanced on two parallel pieces", "ann_id": 1043911, "best_split": [3, 3], "split_score": 0.38333333327069713}

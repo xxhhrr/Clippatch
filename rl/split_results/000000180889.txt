@@ -1,0 +1,6 @@
+{"sent": "black remote", "ann_id": 1110577, "best_split": [1, 3], "split_score": 0.5578093305982232}
+{"sent": "lol super hard its the big black tv remote", "ann_id": 1110577, "best_split": [1, 3], "split_score": 0.5578093305982232}
+{"sent": "remote", "ann_id": 1110577, "best_split": [1, 2], "split_score": 0.47193877549139274}
+{"sent": "white remote", "ann_id": 1109023, "best_split": [3, 3], "split_score": 0.4491282277147287}
+{"sent": "whatever the phone is strapped to", "ann_id": 1109023, "best_split": [3, 3], "split_score": 0.4491282277147287}
+{"sent": "white controller", "ann_id": 1109023, "best_split": [3, 3], "split_score": 0.4491282277147287}

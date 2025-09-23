@@ -1,0 +1,9 @@
+{"sent": "gal brown shirt", "ann_id": 424893, "best_split": [1, 3], "split_score": 0.40941602976634256}
+{"sent": "blond", "ann_id": 424893, "best_split": [1, 3], "split_score": 0.40941602976634256}
+{"sent": "blond with beige sweater", "ann_id": 424893, "best_split": [1, 3], "split_score": 0.40941602976634256}
+{"sent": "long brown hair", "ann_id": 2203875, "best_split": [1, 5], "split_score": 0.5112693920859332}
+{"sent": "yellow shirt", "ann_id": 2203875, "best_split": [1, 5], "split_score": 0.5112693920859332}
+{"sent": "half lady log brown hair", "ann_id": 2203875, "best_split": [2, 1], "split_score": 0.18591005596657362}
+{"sent": "man in sweater", "ann_id": 2203832, "best_split": [1, 5], "split_score": 0.5172442588294577}
+{"sent": "guy", "ann_id": 2203832, "best_split": [1, 2], "split_score": 0.33135363519087396}
+{"sent": "male gray striped sweater", "ann_id": 2203832, "best_split": [1, 5], "split_score": 0.5172442588294577}

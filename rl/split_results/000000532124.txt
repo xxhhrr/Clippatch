@@ -1,0 +1,6 @@
+{"sent": "big zebra", "ann_id": 589786, "best_split": [3, 3], "split_score": 0.5085910652448601}
+{"sent": "zebra walking away", "ann_id": 589786, "best_split": [3, 3], "split_score": 0.5085910652448601}
+{"sent": "mama zebra", "ann_id": 589786, "best_split": [3, 3], "split_score": 0.5085910652448601}
+{"sent": "zebra facing forward", "ann_id": 589528, "best_split": [3, 3], "split_score": 0.37960516083015616}
+{"sent": "zebra looking at you", "ann_id": 589528, "best_split": [3, 3], "split_score": 0.37960516083015616}
+{"sent": "lookin at us", "ann_id": 589528, "best_split": [1, 3], "split_score": 0.2050555019181313}

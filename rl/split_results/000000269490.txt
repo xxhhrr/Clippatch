@@ -1,0 +1,15 @@
+{"sent": "sunglasses and on surf", "ann_id": 1246688, "best_split": [1, 3], "split_score": 0.31111111109242573}
+{"sent": "shirtless man sitting", "ann_id": 1215820, "best_split": [3, 1], "split_score": 0.22592847316634268}
+{"sent": "guy without shirt", "ann_id": 1215820, "best_split": [3, 1], "split_score": 0.22592847316634268}
+{"sent": "man with sunglasses", "ann_id": 1215820, "best_split": [1, 5], "split_score": 0.47258338040276315}
+{"sent": "behind sunglasses guy", "ann_id": 563992, "best_split": [2, 2], "split_score": 0.4428411989442888}
+{"sent": "small plaid blue shirt", "ann_id": 563992, "best_split": [2, 2], "split_score": 0.4428411989442888}
+{"sent": "stripes behind man in glasses", "ann_id": 563992, "best_split": [2, 2], "split_score": 0.4428411989442888}
+{"sent": "man in black standing", "ann_id": 495178, "best_split": [2, 2], "split_score": 0.6570291221109874}
+{"sent": "person in black whose head is cut off", "ann_id": 495178, "best_split": [2, 2], "split_score": 0.6570291221109874}
+{"sent": "black pants metal in toolbelt", "ann_id": 495178, "best_split": [2, 2], "split_score": 0.6570291221109874}
+{"sent": "white teeshirt in back", "ann_id": 1710084, "best_split": [3, 1], "split_score": 0.09916492692593085}
+{"sent": "white shirt person in background between plaids", "ann_id": 1710084, "best_split": [2, 3], "split_score": 0.46065873736726226}
+{"sent": "crouching", "ann_id": 457056, "best_split": [2, 2], "split_score": 0.5368805107609073}
+{"sent": "guy facedown", "ann_id": 457056, "best_split": [2, 2], "split_score": 0.5368805107609073}
+{"sent": "guy with his head down", "ann_id": 457056, "best_split": [2, 2], "split_score": 0.5368805107609073}

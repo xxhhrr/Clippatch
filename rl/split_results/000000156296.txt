@@ -1,0 +1,6 @@
+{"sent": "the woman under the red umbrella", "ann_id": 487528, "best_split": [1, 5], "split_score": 0.3093385213706869}
+{"sent": "person holding the red umbrella", "ann_id": 487528, "best_split": [1, 5], "split_score": 0.3093385213706869}
+{"sent": "person under red umbrella", "ann_id": 487528, "best_split": [1, 5], "split_score": 0.3093385213706869}
+{"sent": "person with blue backpack", "ann_id": 422973, "best_split": [2, 3], "split_score": 0.5619909501626706}
+{"sent": "blue person carrying white umbrella", "ann_id": 422973, "best_split": [1, 5], "split_score": 0.29253530596061406}
+{"sent": "woman under striped umbrella", "ann_id": 422973, "best_split": [1, 5], "split_score": 0.29253530596061406}

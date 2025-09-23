@@ -1,0 +1,12 @@
+{"sent": "little boy", "ann_id": 225031, "best_split": [3, 2], "split_score": 0.37372687587053344}
+{"sent": "boy", "ann_id": 225031, "best_split": [3, 2], "split_score": 0.37372687587053344}
+{"sent": "young boy", "ann_id": 225031, "best_split": [3, 2], "split_score": 0.37372687587053344}
+{"sent": "man in green", "ann_id": 190208, "best_split": [1, 2], "split_score": 0.555638202895134}
+{"sent": "green jacket", "ann_id": 190208, "best_split": [1, 2], "split_score": 0.555638202895134}
+{"sent": "green jacket", "ann_id": 190208, "best_split": [1, 2], "split_score": 0.555638202895134}
+{"sent": "chair near display", "ann_id": 108144, "best_split": [3, 2], "split_score": 0.5499787775307747}
+{"sent": "chair man is on", "ann_id": 108144, "best_split": [3, 2], "split_score": 0.5499787775307747}
+{"sent": "guys chair", "ann_id": 108144, "best_split": [3, 2], "split_score": 0.5499787775307747}
+{"sent": "chair kid is sitting on", "ann_id": 102686, "best_split": [2, 2], "split_score": 0.6568080356619254}
+{"sent": "backof pink chair", "ann_id": 102686, "best_split": [3, 2], "split_score": 0.8731723902444551}
+{"sent": "pink chair with little boy", "ann_id": 102686, "best_split": [3, 2], "split_score": 0.8731723902444551}

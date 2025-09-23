@@ -1,0 +1,6 @@
+{"sent": "bright screen", "ann_id": 2227434, "best_split": [1, 5], "split_score": 0.2628344895676081}
+{"sent": "monitor off screen", "ann_id": 2227434, "best_split": [1, 5], "split_score": 0.2628344895676081}
+{"sent": "partial screen", "ann_id": 2227434, "best_split": [2, 3], "split_score": 0.3020274993821921}
+{"sent": "laptop screen", "ann_id": 1969528, "best_split": [2, 2], "split_score": 0.6352040815820149}
+{"sent": "laptop screen", "ann_id": 1969528, "best_split": [2, 2], "split_score": 0.6352040815820149}
+{"sent": "laptop screen", "ann_id": 1969528, "best_split": [2, 2], "split_score": 0.6352040815820149}

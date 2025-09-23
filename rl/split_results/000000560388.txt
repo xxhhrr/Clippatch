@@ -1,0 +1,6 @@
+{"sent": "dark jacket", "ann_id": 514192, "best_split": [3, 3], "split_score": 0.36471168058591524}
+{"sent": "male skiier", "ann_id": 514192, "best_split": [2, 3], "split_score": 0.3766851704622636}
+{"sent": "man", "ann_id": 514192, "best_split": [3, 3], "split_score": 0.36471168058591524}
+{"sent": "girl in pink", "ann_id": 477431, "best_split": [1, 5], "split_score": 0.5499999999553571}
+{"sent": "beige jacket", "ann_id": 477431, "best_split": [1, 5], "split_score": 0.5499999999553571}
+{"sent": "girl pinkish coat", "ann_id": 477431, "best_split": [1, 5], "split_score": 0.5499999999553571}

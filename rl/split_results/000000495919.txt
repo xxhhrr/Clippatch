@@ -1,0 +1,9 @@
+{"sent": "green vehicle not b", "ann_id": 400650, "best_split": [1, 3], "split_score": 0.46742277989458114}
+{"sent": "van partly out of frame", "ann_id": 400650, "best_split": [1, 5], "split_score": 0.5934105719955276}
+{"sent": "ambulance on side", "ann_id": 400650, "best_split": [1, 3], "split_score": 0.46742277989458114}
+{"sent": "the vehicle with the entire back showing", "ann_id": 399378, "best_split": [1, 2], "split_score": 0.3123488749093292}
+{"sent": "door on truck", "ann_id": 399378, "best_split": [1, 3], "split_score": 0.5623987706897131}
+{"sent": "main vehicle letter b", "ann_id": 399378, "best_split": [1, 3], "split_score": 0.5623987706897131}
+{"sent": "white truck", "ann_id": 2051372, "best_split": [3, 3], "split_score": 0.5162398500130794}
+{"sent": "white pickup", "ann_id": 2051372, "best_split": [3, 3], "split_score": 0.5162398500130794}
+{"sent": "whit etruck on the side", "ann_id": 2051372, "best_split": [5, 1], "split_score": 0.2090269435207631}

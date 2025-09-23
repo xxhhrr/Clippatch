@@ -1,0 +1,7 @@
+{"sent": "part of broccoli blurred at corner lighted side", "ann_id": 1562451, "best_split": [1, 3], "split_score": 0.23683263345909822}
+{"sent": "brocoli that is blurry on side near black spot", "ann_id": 1562058, "best_split": [3, 1], "split_score": 0.09207797593881802}
+{"sent": "out of focus brocoli that is cut off", "ann_id": 1562058, "best_split": [3, 1], "split_score": 0.09207797593881802}
+{"sent": "broccoli above biggest piece", "ann_id": 1060436, "best_split": [1, 5], "split_score": 0.20138089757377345}
+{"sent": "broccoli on west side", "ann_id": 1059329, "best_split": [2, 1], "split_score": 0.4123253546947816}
+{"sent": "clear broccoli with a gap showing", "ann_id": 1059329, "best_split": [2, 1], "split_score": 0.4123253546947816}
+{"sent": "littler piece focused on", "ann_id": 1058415, "best_split": [1, 2], "split_score": 0.5554525909794851}

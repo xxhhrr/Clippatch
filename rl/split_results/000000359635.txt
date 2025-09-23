@@ -1,0 +1,6 @@
+{"sent": "birds looking away", "ann_id": 43673, "best_split": [3, 2], "split_score": 0.4956242185662061}
+{"sent": "bird looking to sea further away", "ann_id": 43673, "best_split": [3, 2], "split_score": 0.4956242185662061}
+{"sent": "bird closer to the water", "ann_id": 43673, "best_split": [3, 3], "split_score": 0.3713835858717395}
+{"sent": "bird with white upper half", "ann_id": 40270, "best_split": [1, 2], "split_score": 0.5873100914397723}
+{"sent": "main bird", "ann_id": 40270, "best_split": [1, 2], "split_score": 0.5873100914397723}
+{"sent": "bird closest to us", "ann_id": 40270, "best_split": [1, 2], "split_score": 0.5873100914397723}

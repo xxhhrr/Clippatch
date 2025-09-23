@@ -1,0 +1,14 @@
+{"sent": "portion of bench below the word off", "ann_id": 1944959, "best_split": [1, 3], "split_score": 0.3413566739404248}
+{"sent": "chair under off", "ann_id": 1944959, "best_split": [1, 5], "split_score": 0.3591927105203787}
+{"sent": "red chair under the word off", "ann_id": 1944959, "best_split": [2, 3], "split_score": 0.6398541642201374}
+{"sent": "farthest chair", "ann_id": 1939949, "best_split": [2, 3], "split_score": 0.5292910872430714}
+{"sent": "red chair by entrance", "ann_id": 1939949, "best_split": [3, 3], "split_score": 0.3415127750643166}
+{"sent": "red chair beneath lowest bird", "ann_id": 1939949, "best_split": [3, 3], "split_score": 0.3415127750643166}
+{"sent": "chair 3", "ann_id": 1931610, "best_split": [2, 2], "split_score": 0.3960459183357744}
+{"sent": "red chair mostly blocking white chair", "ann_id": 1931610, "best_split": [3, 2], "split_score": 0.34551360126415814}
+{"sent": "third red chair section", "ann_id": 1931610, "best_split": [2, 3], "split_score": 0.35265306118850476}
+{"sent": "red seat 10", "ann_id": 1591931, "best_split": [2, 2], "split_score": 0.44363839282177625}
+{"sent": "chair at 9", "ann_id": 1591931, "best_split": [2, 1], "split_score": 0.22181919641972977}
+{"sent": "white chair in window", "ann_id": 1582102, "best_split": [3, 3], "split_score": 0.3340402968804294}
+{"sent": "pink pillows just past off", "ann_id": 1582102, "best_split": [2, 3], "split_score": 0.4112231476971478}
+{"sent": "love seat in window", "ann_id": 1582102, "best_split": [3, 3], "split_score": 0.3340402968804294}

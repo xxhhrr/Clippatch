@@ -1,0 +1,5 @@
+{"sent": "part of suitcase at 9 pm", "ann_id": 1444235, "best_split": [2, 2], "split_score": 0.22654462240942902}
+{"sent": "foot board of bed", "ann_id": 1444235, "best_split": [1, 5], "split_score": 0.4675324674850312}
+{"sent": "luggage without clothes", "ann_id": 1183072, "best_split": [2, 2], "split_score": 0.6929108910342249}
+{"sent": "suitcase without clothes on it", "ann_id": 1183072, "best_split": [2, 2], "split_score": 0.6929108910342249}
+{"sent": "suitcase without anything on it", "ann_id": 1183072, "best_split": [2, 2], "split_score": 0.6929108910342249}

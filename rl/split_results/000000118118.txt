@@ -1,0 +1,8 @@
+{"sent": "bowl next to red knife", "ann_id": 1040429, "best_split": [3, 3], "split_score": 0.34468664844266234}
+{"sent": "number one bowl", "ann_id": 1040429, "best_split": [3, 3], "split_score": 0.34468664844266234}
+{"sent": "red bowl at ten", "ann_id": 1040429, "best_split": [3, 3], "split_score": 0.34468664844266234}
+{"sent": "white bowl", "ann_id": 718509, "best_split": [3, 2], "split_score": 0.508928571367166}
+{"sent": "food in white dish", "ann_id": 718509, "best_split": [3, 2], "split_score": 0.508928571367166}
+{"sent": "white bowl of something grilled", "ann_id": 718509, "best_split": [3, 2], "split_score": 0.508928571367166}
+{"sent": "red bowl next to the white rectangle thing", "ann_id": 716902, "best_split": [3, 2], "split_score": 0.2890342169462765}
+{"sent": "red bowl closest to pizza", "ann_id": 716902, "best_split": [2, 2], "split_score": 0.01831014048749516}

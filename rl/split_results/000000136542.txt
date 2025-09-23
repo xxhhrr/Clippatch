@@ -1,0 +1,9 @@
+{"sent": "elephant can only see head and sholders", "ann_id": 583291, "best_split": [2, 3], "split_score": 0.2645442051918754}
+{"sent": "least seen elephant", "ann_id": 583291, "best_split": [2, 3], "split_score": 0.2645442051918754}
+{"sent": "alone elephant", "ann_id": 583291, "best_split": [2, 3], "split_score": 0.2645442051918754}
+{"sent": "lead elephant", "ann_id": 582426, "best_split": [3, 2], "split_score": 0.533898305023603}
+{"sent": "lead elephant", "ann_id": 582426, "best_split": [3, 2], "split_score": 0.533898305023603}
+{"sent": "elephant by tree", "ann_id": 582426, "best_split": [3, 2], "split_score": 0.533898305023603}
+{"sent": "elephant near baby", "ann_id": 581912, "best_split": [3, 3], "split_score": 0.33301539714770195}
+{"sent": "large elephant behind baby elephant", "ann_id": 581912, "best_split": [3, 3], "split_score": 0.33301539714770195}
+{"sent": "elephant behind baby elephant", "ann_id": 581912, "best_split": [3, 3], "split_score": 0.33301539714770195}

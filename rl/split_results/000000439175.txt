@@ -1,0 +1,9 @@
+{"sent": "man in white shirt blue jeans", "ann_id": 1223295, "best_split": [1, 5], "split_score": 0.7024554195964471}
+{"sent": "standing guy with white shirt and jeans", "ann_id": 1223295, "best_split": [1, 5], "split_score": 0.7024554195964471}
+{"sent": "person wearing white shirt standing up", "ann_id": 1223295, "best_split": [1, 5], "split_score": 0.7024554195964471}
+{"sent": "man with glasses", "ann_id": 1204271, "best_split": [1, 2], "split_score": 0.768057860272142}
+{"sent": "glasses", "ann_id": 1204271, "best_split": [1, 2], "split_score": 0.768057860272142}
+{"sent": "glasses guy", "ann_id": 1204271, "best_split": [1, 2], "split_score": 0.768057860272142}
+{"sent": "close girl", "ann_id": 1289375, "best_split": [1, 5], "split_score": 0.46884323583080356}
+{"sent": "person next toman in glasses", "ann_id": 1289375, "best_split": [1, 5], "split_score": 0.46884323583080356}
+{"sent": "girl biting pizza", "ann_id": 1289375, "best_split": [2, 1], "split_score": 0.1457664207762762}

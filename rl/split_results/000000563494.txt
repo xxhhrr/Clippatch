@@ -1,0 +1,15 @@
+{"sent": "object next to the cat thats more white", "ann_id": 1900061, "best_split": [1, 2], "split_score": 0.311264349477389}
+{"sent": "canister nearest the cat food", "ann_id": 1900061, "best_split": [1, 2], "split_score": 0.311264349477389}
+{"sent": "bowl next to whiter kitty", "ann_id": 1900061, "best_split": [1, 2], "split_score": 0.311264349477389}
+{"sent": "more black cat", "ann_id": 1816328, "best_split": [2, 3], "split_score": 0.34316217588058195}
+{"sent": "mostly black cat", "ann_id": 1816328, "best_split": [2, 3], "split_score": 0.34316217588058195}
+{"sent": "the primarily black cat", "ann_id": 1816328, "best_split": [2, 2], "split_score": 0.4776536312571198}
+{"sent": "container cut in half by screen", "ann_id": 1040710, "best_split": [1, 5], "split_score": 0.4675324674850312}
+{"sent": "round thing at edge on side with darker cat", "ann_id": 1040710, "best_split": [3, 1], "split_score": 0.14384449243283776}
+{"sent": "item cut off with least amount showing", "ann_id": 1040710, "best_split": [1, 5], "split_score": 0.4675324674850312}
+{"sent": "food", "ann_id": 714153, "best_split": [2, 3], "split_score": 0.6716879103252522}
+{"sent": "cat food", "ann_id": 714153, "best_split": [1, 3], "split_score": 0.37309590214690536}
+{"sent": "food bowl", "ann_id": 714153, "best_split": [2, 3], "split_score": 0.6716879103252522}
+{"sent": "white cat", "ann_id": 51192, "best_split": [1, 2], "split_score": 0.7562181122147553}
+{"sent": "white body", "ann_id": 51192, "best_split": [1, 2], "split_score": 0.7562181122147553}
+{"sent": "white cat", "ann_id": 51192, "best_split": [1, 2], "split_score": 0.7562181122147553}

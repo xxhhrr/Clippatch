@@ -1,0 +1,9 @@
+{"sent": "gray tee", "ann_id": 540658, "best_split": [2, 3], "split_score": 0.3623753295469018}
+{"sent": "partial gray", "ann_id": 540658, "best_split": [5, 1], "split_score": 0.08161132105157101}
+{"sent": "gray shirt black pants", "ann_id": 540658, "best_split": [2, 1], "split_score": 0.12384907729797245}
+{"sent": "onlooker in all black", "ann_id": 528930, "best_split": [2, 3], "split_score": 0.5210325047178498}
+{"sent": "black shirt", "ann_id": 528930, "best_split": [2, 3], "split_score": 0.5210325047178498}
+{"sent": "black shirt", "ann_id": 528930, "best_split": [2, 3], "split_score": 0.5210325047178498}
+{"sent": "guy setting the volleyball", "ann_id": 506976, "best_split": [1, 3], "split_score": 0.4125778448569269}
+{"sent": "man in red", "ann_id": 506976, "best_split": [1, 5], "split_score": 0.45485871809693257}
+{"sent": "red shirt", "ann_id": 506976, "best_split": [1, 5], "split_score": 0.45485871809693257}

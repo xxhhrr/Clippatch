@@ -1,0 +1,9 @@
+{"sent": "woman holding pizza", "ann_id": 511630, "best_split": [1, 2], "split_score": 0.6380113236410596}
+{"sent": "the lady holding the pizza", "ann_id": 511630, "best_split": [1, 2], "split_score": 0.6380113236410596}
+{"sent": "woman in dark dress", "ann_id": 511630, "best_split": [1, 2], "split_score": 0.6380113236410596}
+{"sent": "girl next to guy", "ann_id": 458591, "best_split": [1, 2], "split_score": 0.1912409791923291}
+{"sent": "girl looking down at pizza", "ann_id": 458591, "best_split": [1, 5], "split_score": 0.5264029133813605}
+{"sent": "white floral girl", "ann_id": 458591, "best_split": [1, 5], "split_score": 0.5264029133813605}
+{"sent": "guy", "ann_id": 452629, "best_split": [1, 2], "split_score": 0.6927614795642235}
+{"sent": "guy with checkered shirt", "ann_id": 452629, "best_split": [1, 2], "split_score": 0.6927614795642235}
+{"sent": "plaid shrit", "ann_id": 452629, "best_split": [1, 2], "split_score": 0.6927614795642235}

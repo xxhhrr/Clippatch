@@ -1,0 +1,9 @@
+{"sent": "red shorts", "ann_id": 554353, "best_split": [1, 3], "split_score": 0.4452220076951483}
+{"sent": "white shirt red shorts", "ann_id": 554353, "best_split": [1, 3], "split_score": 0.4452220076951483}
+{"sent": "red shorts", "ann_id": 554353, "best_split": [1, 3], "split_score": 0.4452220076951483}
+{"sent": "darker", "ann_id": 527248, "best_split": [1, 2], "split_score": 0.3538743622307926}
+{"sent": "wearing hat", "ann_id": 527248, "best_split": [1, 5], "split_score": 0.8291349345021348}
+{"sent": "man with the hat on backward", "ann_id": 527248, "best_split": [1, 5], "split_score": 0.8291349345021348}
+{"sent": "white shirt with paw print", "ann_id": 431170, "best_split": [1, 3], "split_score": 0.4642857142599664}
+{"sent": "back to us white shirt", "ann_id": 431170, "best_split": [1, 3], "split_score": 0.4642857142599664}
+{"sent": "white shirt with paw", "ann_id": 431170, "best_split": [1, 3], "split_score": 0.4642857142599664}

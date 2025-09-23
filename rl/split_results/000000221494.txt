@@ -1,0 +1,15 @@
+{"sent": "lady in white sitting with hat", "ann_id": 1299810, "best_split": [5, 1], "split_score": 0.2341809579956992}
+{"sent": "woman in white wearing hat", "ann_id": 1299810, "best_split": [5, 1], "split_score": 0.208453966400662}
+{"sent": "woman in hat facing the camera", "ann_id": 1299810, "best_split": [3, 1], "split_score": 0.20800660337350357}
+{"sent": "man", "ann_id": 1232491, "best_split": [2, 2], "split_score": 0.08311161788400408}
+{"sent": "man in suit sitting", "ann_id": 1232491, "best_split": [3, 3], "split_score": 0.5137337759562731}
+{"sent": "man in the suit", "ann_id": 1232491, "best_split": [3, 3], "split_score": 0.5137337759562731}
+{"sent": "fur coat", "ann_id": 1229999, "best_split": [1, 3], "split_score": 0.5335424710102834}
+{"sent": "lady holding solid umbrella", "ann_id": 1229999, "best_split": [1, 3], "split_score": 0.5335424710102834}
+{"sent": "woman fur coat", "ann_id": 1229999, "best_split": [1, 3], "split_score": 0.5335424710102834}
+{"sent": "lady in black coat under umbrella", "ann_id": 1316616, "best_split": [2, 1], "split_score": 0.04699664309524332}
+{"sent": "old lady with umbrella", "ann_id": 1316616, "best_split": [2, 1], "split_score": 0.04699664309524332}
+{"sent": "older woman in black", "ann_id": 1316616, "best_split": [2, 1], "split_score": 0.04699664309524332}
+{"sent": "plaid umbrella", "ann_id": 284283, "best_split": [2, 3], "split_score": 0.41447368416183344}
+{"sent": "plaid umbrella", "ann_id": 284283, "best_split": [2, 3], "split_score": 0.41447368416183344}
+{"sent": "the umbrella of the old white womanyeah sometimes the people did a bad job boxing the pics", "ann_id": 284283, "best_split": [5, 1], "split_score": 0.19117647057150064}

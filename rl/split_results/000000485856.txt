@@ -1,0 +1,6 @@
+{"sent": "the couch with the folded red towel", "ann_id": 112888, "best_split": [2, 2], "split_score": 0.4103954081305488}
+{"sent": "chair with folded red shirt on", "ann_id": 112888, "best_split": [2, 2], "split_score": 0.4103954081305488}
+{"sent": "couch", "ann_id": 112888, "best_split": [2, 2], "split_score": 0.4103954081305488}
+{"sent": "closest chair", "ann_id": 98167, "best_split": [2, 3], "split_score": 0.3474178403464606}
+{"sent": "chair back by camera", "ann_id": 98167, "best_split": [5, 1], "split_score": 0.5307185004745992}
+{"sent": "shadowed something at 600", "ann_id": 98167, "best_split": [1, 2], "split_score": 0.11174242423864507}

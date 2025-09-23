@@ -1,0 +1,9 @@
+{"sent": "dark hair girl", "ann_id": 516841, "best_split": [2, 3], "split_score": 0.23596445371291536}
+{"sent": "woman far", "ann_id": 516841, "best_split": [3, 2], "split_score": 0.42639961384816605}
+{"sent": "girl furthest away at counter", "ann_id": 516841, "best_split": [3, 3], "split_score": 0.628411349967755}
+{"sent": "girl with fist up", "ann_id": 485264, "best_split": [3, 1], "split_score": 0.44712990934445196}
+{"sent": "closest girl", "ann_id": 485264, "best_split": [3, 1], "split_score": 0.44712990934445196}
+{"sent": "girl holding wine glass", "ann_id": 485264, "best_split": [1, 2], "split_score": 0.3433020097282632}
+{"sent": "boy with both hands on table", "ann_id": 476183, "best_split": [2, 1], "split_score": 0.4499720514148972}
+{"sent": "closest boy", "ann_id": 476183, "best_split": [1, 2], "split_score": 0.5708518368850714}
+{"sent": "guy in tshirt", "ann_id": 476183, "best_split": [1, 2], "split_score": 0.5708518368850714}

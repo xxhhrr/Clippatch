@@ -1,0 +1,15 @@
+{"sent": "woman holding red cup", "ann_id": 539750, "best_split": [2, 3], "split_score": 0.42209897607319974}
+{"sent": "pink dress", "ann_id": 539750, "best_split": [2, 3], "split_score": 0.42209897607319974}
+{"sent": "girl", "ann_id": 539750, "best_split": [2, 3], "split_score": 0.42209897607319974}
+{"sent": "white shirt", "ann_id": 539077, "best_split": [1, 3], "split_score": 0.5444015443687016}
+{"sent": "white tee guy", "ann_id": 539077, "best_split": [1, 3], "split_score": 0.5444015443687016}
+{"sent": "guy white shirt", "ann_id": 539077, "best_split": [1, 3], "split_score": 0.5444015443687016}
+{"sent": "crazy pants guy", "ann_id": 532558, "best_split": [2, 3], "split_score": 0.5028189600644374}
+{"sent": "man with folorful pajamas", "ann_id": 532558, "best_split": [2, 3], "split_score": 0.5028189600644374}
+{"sent": "black patterened pants black tshirt under white", "ann_id": 532558, "best_split": [1, 5], "split_score": 0.36404033495436333}
+{"sent": "hat", "ann_id": 469014, "best_split": [2, 2], "split_score": 0.5877710458715106}
+{"sent": "back gray head", "ann_id": 469014, "best_split": [2, 2], "split_score": 0.5877710458715106}
+{"sent": "guy closest to us in hat", "ann_id": 469014, "best_split": [2, 2], "split_score": 0.5877710458715106}
+{"sent": "dark blue shirt", "ann_id": 449821, "best_split": [3, 3], "split_score": 0.4269862405207516}
+{"sent": "dark gray shirt", "ann_id": 449821, "best_split": [3, 1], "split_score": 0.19132856005413043}
+{"sent": "man in blue with redish hair", "ann_id": 449821, "best_split": [1, 3], "split_score": 0.4454633204364465}

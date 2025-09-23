@@ -1,0 +1,6 @@
+{"sent": "partially seen giraffe towards corner", "ann_id": 596149, "best_split": [1, 5], "split_score": 0.6061057333762001}
+{"sent": "giraffe at edge of screen", "ann_id": 596149, "best_split": [1, 5], "split_score": 0.6061057333762001}
+{"sent": "giraffe with half face off screen", "ann_id": 596149, "best_split": [1, 5], "split_score": 0.6061057333762001}
+{"sent": "giraffe being petted", "ann_id": 595682, "best_split": [3, 2], "split_score": 0.4070127191124946}
+{"sent": "giraffe being touched", "ann_id": 595682, "best_split": [3, 2], "split_score": 0.4070127191124946}
+{"sent": "giraffe closest to woman", "ann_id": 595682, "best_split": [3, 2], "split_score": 0.4070127191124946}

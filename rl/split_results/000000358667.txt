@@ -1,0 +1,6 @@
+{"sent": "blue suitcase near to us", "ann_id": 2080934, "best_split": [2, 2], "split_score": 0.8093437752626692}
+{"sent": "closest blue bag", "ann_id": 2080934, "best_split": [2, 2], "split_score": 0.8093437752626692}
+{"sent": "luggage in corner by us", "ann_id": 2080934, "best_split": [3, 1], "split_score": 0.24947317230306884}
+{"sent": "black luggage by couch", "ann_id": 1183982, "best_split": [1, 5], "split_score": 0.5458630457608808}
+{"sent": "black suitcase on floor by tan couch", "ann_id": 1183982, "best_split": [1, 5], "split_score": 0.5458630457608808}
+{"sent": "black suitcase", "ann_id": 1183982, "best_split": [1, 5], "split_score": 0.5458630457608808}

@@ -1,0 +1,6 @@
+{"sent": "obscured bus", "ann_id": 168431, "best_split": [3, 3], "split_score": 0.3489430893741556}
+{"sent": "bus in background", "ann_id": 168431, "best_split": [3, 3], "split_score": 0.3489430893741556}
+{"sent": "bus furthest from you", "ann_id": 168431, "best_split": [3, 3], "split_score": 0.3489430893741556}
+{"sent": "main bus", "ann_id": 167386, "best_split": [1, 3], "split_score": 0.5028976174942491}
+{"sent": "big red bus", "ann_id": 167386, "best_split": [1, 3], "split_score": 0.5028976174942491}
+{"sent": "24 bus", "ann_id": 167386, "best_split": [1, 3], "split_score": 0.5028976174942491}

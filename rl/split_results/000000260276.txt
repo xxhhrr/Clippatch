@@ -1,0 +1,6 @@
+{"sent": "woman standing and looking up at baby", "ann_id": 201200, "best_split": [1, 2], "split_score": 0.2227359693788769}
+{"sent": "person with gray jacket with arms down", "ann_id": 201200, "best_split": [2, 3], "split_score": 0.5208241998552363}
+{"sent": "woman in black coat", "ann_id": 201200, "best_split": [2, 3], "split_score": 0.5208241998552363}
+{"sent": "man", "ann_id": 199912, "best_split": [2, 1], "split_score": 0.19224397589637635}
+{"sent": "guy looking at the girl on horse", "ann_id": 199912, "best_split": [2, 1], "split_score": 0.19224397589637635}
+{"sent": "jockey with brown hat", "ann_id": 199912, "best_split": [2, 1], "split_score": 0.19224397589637635}

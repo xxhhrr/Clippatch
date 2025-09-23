@@ -1,0 +1,5 @@
+{"sent": "man wiyh laptop", "ann_id": 230391, "best_split": [3, 3], "split_score": 0.6254185934260216}
+{"sent": "hes holding the laptop", "ann_id": 230391, "best_split": [3, 3], "split_score": 0.6254185934260216}
+{"sent": "man with laptop", "ann_id": 230391, "best_split": [3, 3], "split_score": 0.6254185934260216}
+{"sent": "a guy watching his friend", "ann_id": 197112, "best_split": [3, 2], "split_score": 0.3384146341140992}
+{"sent": "man without computer", "ann_id": 197112, "best_split": [3, 2], "split_score": 0.3384146341140992}

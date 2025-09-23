@@ -1,0 +1,4 @@
+{"sent": "long couch", "ann_id": 117566, "best_split": [3, 2], "split_score": 0.547166874179081}
+{"sent": "chair corner", "ann_id": 117394, "best_split": [1, 2], "split_score": 0.33330676019079614}
+{"sent": "the recliner", "ann_id": 117394, "best_split": [3, 1], "split_score": 0.14625850339463786}
+{"sent": "partial chair", "ann_id": 117394, "best_split": [1, 5], "split_score": 0.20116041404357088}

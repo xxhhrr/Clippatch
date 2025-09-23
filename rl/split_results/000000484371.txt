@@ -1,0 +1,5 @@
+{"sent": "pizza beside silverware", "ann_id": 1073748, "best_split": [5, 1], "split_score": 0.4017857142449487}
+{"sent": "second pizza", "ann_id": 1073748, "best_split": [1, 2], "split_score": 0.12163101397321681}
+{"sent": "closest food", "ann_id": 1072841, "best_split": [1, 2], "split_score": 0.24374999999319893}
+{"sent": "closest pizza", "ann_id": 1072841, "best_split": [2, 1], "split_score": 0.7767857142547518}
+{"sent": "pizza closest to camera", "ann_id": 1072841, "best_split": [2, 1], "split_score": 0.7767857142547518}

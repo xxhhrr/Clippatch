@@ -1,0 +1,6 @@
+{"sent": "the small black piece of luggage", "ann_id": 1444759, "best_split": [1, 5], "split_score": 0.41724137927764565}
+{"sent": "closed suitcase", "ann_id": 1444759, "best_split": [1, 5], "split_score": 0.41724137927764565}
+{"sent": "suitcase behind open suitcase", "ann_id": 1444759, "best_split": [1, 5], "split_score": 0.41724137927764565}
+{"sent": "open suitcase", "ann_id": 1183436, "best_split": [1, 3], "split_score": 0.5435495898380481}
+{"sent": "open suitcase", "ann_id": 1183436, "best_split": [1, 3], "split_score": 0.5435495898380481}
+{"sent": "suitcase", "ann_id": 1183436, "best_split": [1, 3], "split_score": 0.5435495898380481}

@@ -1,0 +1,5 @@
+{"sent": "part of sandwich that crust is facing us", "ann_id": 1553114, "best_split": [1, 5], "split_score": 0.27714878007677013}
+{"sent": "crusts closest to camera", "ann_id": 1553114, "best_split": [3, 2], "split_score": 0.37987012983385504}
+{"sent": "sandwich closest to us flat on plate", "ann_id": 1553114, "best_split": [1, 2], "split_score": 0.24561543366367922}
+{"sent": "the sandwich looks good", "ann_id": 310567, "best_split": [3, 1], "split_score": 0.45762711862909405}
+{"sent": "half that shows whats inside", "ann_id": 310567, "best_split": [3, 1], "split_score": 0.45762711862909405}

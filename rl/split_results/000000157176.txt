@@ -1,0 +1,6 @@
+{"sent": "clock turned away", "ann_id": 338194, "best_split": [3, 3], "split_score": 0.279707063515272}
+{"sent": "clock not facing sun", "ann_id": 338194, "best_split": [3, 3], "split_score": 0.279707063515272}
+{"sent": "clock closest to other buildings wall", "ann_id": 338194, "best_split": [3, 3], "split_score": 0.279707063515272}
+{"sent": "the clock facing 3 o clock", "ann_id": 336978, "best_split": [1, 2], "split_score": 0.44311424718769865}
+{"sent": "clock facing towards", "ann_id": 336978, "best_split": [1, 2], "split_score": 0.44311424718769865}
+{"sent": "clock face fully visible", "ann_id": 336978, "best_split": [1, 2], "split_score": 0.44311424718769865}

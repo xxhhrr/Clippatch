@@ -1,0 +1,6 @@
+{"sent": "salad with white dressing", "ann_id": 1074770, "best_split": [2, 1], "split_score": 0.7242417019032167}
+{"sent": "pizza in foreground", "ann_id": 1074770, "best_split": [2, 1], "split_score": 0.7242417019032167}
+{"sent": "the green", "ann_id": 1074770, "best_split": [2, 1], "split_score": 0.7242417019032167}
+{"sent": "blurred food", "ann_id": 1073957, "best_split": [5, 1], "split_score": 0.2371977240187413}
+{"sent": "meal in back", "ann_id": 1073957, "best_split": [5, 1], "split_score": 0.2371977240187413}
+{"sent": "blurry food", "ann_id": 1073957, "best_split": [3, 2], "split_score": 0.2699784017000948}

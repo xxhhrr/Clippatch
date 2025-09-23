@@ -1,0 +1,6 @@
+{"sent": "old man with fedora hat", "ann_id": 500490, "best_split": [5, 1], "split_score": 0.12311135981231733}
+{"sent": "guy with hands on hips", "ann_id": 500490, "best_split": [1, 5], "split_score": 0.6038357805809773}
+{"sent": "man in blue shirt and khakis behind fence", "ann_id": 500490, "best_split": [1, 5], "split_score": 0.6038357805809773}
+{"sent": "boy in green", "ann_id": 496092, "best_split": [1, 5], "split_score": 0.5651547875661308}
+{"sent": "boy at bat", "ann_id": 496092, "best_split": [1, 5], "split_score": 0.5651547875661308}
+{"sent": "hid green shirt", "ann_id": 496092, "best_split": [1, 5], "split_score": 0.5651547875661308}

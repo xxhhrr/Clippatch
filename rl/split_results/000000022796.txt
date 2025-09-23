@@ -1,0 +1,6 @@
+{"sent": "man behind cart", "ann_id": 492237, "best_split": [1, 2], "split_score": 0.12268813775021173}
+{"sent": "man not with dog", "ann_id": 492237, "best_split": [3, 1], "split_score": 0.07059592547823314}
+{"sent": "man without skateboard", "ann_id": 492237, "best_split": [1, 2], "split_score": 0.12268813775021173}
+{"sent": "man holding puppy", "ann_id": 437551, "best_split": [1, 3], "split_score": 0.6046852122670631}
+{"sent": "man in camo shorts", "ann_id": 437551, "best_split": [1, 3], "split_score": 0.6046852122670631}
+{"sent": "camo pants", "ann_id": 437551, "best_split": [1, 3], "split_score": 0.6046852122670631}

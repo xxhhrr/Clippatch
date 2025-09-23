@@ -1,0 +1,8 @@
+{"sent": "tallest girafe", "ann_id": 601151, "best_split": [1, 3], "split_score": 0.42608910888979756}
+{"sent": "tallest girafe", "ann_id": 601151, "best_split": [1, 3], "split_score": 0.42608910888979756}
+{"sent": "tallest giraffe", "ann_id": 601151, "best_split": [1, 3], "split_score": 0.42608910888979756}
+{"sent": "garad nex to tallest one", "ann_id": 600621, "best_split": [3, 2], "split_score": 0.44334900648844616}
+{"sent": "following short one", "ann_id": 600621, "best_split": [1, 2], "split_score": 0.42825255100333814}
+{"sent": "lead giraffe", "ann_id": 600146, "best_split": [3, 1], "split_score": 0.29761668320270024}
+{"sent": "leader of the pack with head visible", "ann_id": 600146, "best_split": [1, 2], "split_score": 0.3617640122489677}
+{"sent": "the zebra on the road that is the leader", "ann_id": 600146, "best_split": [3, 1], "split_score": 0.29761668320270024}

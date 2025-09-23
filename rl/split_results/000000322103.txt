@@ -1,0 +1,11 @@
+{"sent": "blurry light blue shirt", "ann_id": 1728915, "best_split": [1, 3], "split_score": 0.20074696544113288}
+{"sent": "the guy behind the woman barely visible wearing a blue cap", "ann_id": 1728915, "best_split": [3, 3], "split_score": 0.37412993034017833}
+{"sent": "man holding hand over face", "ann_id": 565631, "best_split": [3, 1], "split_score": 0.17952127658536532}
+{"sent": "fan with white shoes", "ann_id": 565631, "best_split": [5, 1], "split_score": 0.11763744791131137}
+{"sent": "blurry man maybe with hand to mouth blue shirt", "ann_id": 565631, "best_split": [5, 1], "split_score": 0.16921630628414525}
+{"sent": "blurry man behind tennis racket", "ann_id": 561081, "best_split": [2, 2], "split_score": 0.2522123893606027}
+{"sent": "fuzzy guy behind racket", "ann_id": 561081, "best_split": [2, 2], "split_score": 0.2522123893606027}
+{"sent": "black shirt partially covered by racket", "ann_id": 561081, "best_split": [2, 2], "split_score": 0.2522123893606027}
+{"sent": "the tennis player", "ann_id": 470745, "best_split": [1, 3], "split_score": 0.47831496620697145}
+{"sent": "lady tennis player", "ann_id": 470745, "best_split": [1, 3], "split_score": 0.47831496620697145}
+{"sent": "woman", "ann_id": 470745, "best_split": [1, 3], "split_score": 0.47831496620697145}

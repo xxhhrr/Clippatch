@@ -1,0 +1,5 @@
+{"sent": "black cat", "ann_id": 50635, "best_split": [2, 3], "split_score": 0.6377457150539609}
+{"sent": "black cat", "ann_id": 50635, "best_split": [2, 3], "split_score": 0.6377457150539609}
+{"sent": "cat on yellow blanket", "ann_id": 49387, "best_split": [3, 1], "split_score": 0.2670019680588781}
+{"sent": "gray and white cat", "ann_id": 49387, "best_split": [3, 1], "split_score": 0.2670019680588781}
+{"sent": "cat on persons lap", "ann_id": 49387, "best_split": [3, 1], "split_score": 0.2670019680588781}

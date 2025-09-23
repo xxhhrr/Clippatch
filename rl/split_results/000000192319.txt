@@ -1,0 +1,3 @@
+{"sent": "person with red and white", "ann_id": 1268218, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man wearing white jacket", "ann_id": 454945, "best_split": [1, 5], "split_score": 0.3354301947711617}
+{"sent": "blurry white thing near fruit", "ann_id": 454945, "best_split": [3, 1], "split_score": 0.02547967815011968}

@@ -1,0 +1,6 @@
+{"sent": "green pizza", "ann_id": 1077131, "best_split": [2, 1], "split_score": 0.7186813186566386}
+{"sent": "pizza with veggies", "ann_id": 1077131, "best_split": [2, 1], "split_score": 0.7186813186566386}
+{"sent": "pizza with vegies", "ann_id": 1077131, "best_split": [2, 1], "split_score": 0.7186813186566386}
+{"sent": "pizza slice with only cheese", "ann_id": 1073790, "best_split": [2, 1], "split_score": 0.6924689115309324}
+{"sent": "cheese pizza", "ann_id": 1073790, "best_split": [2, 1], "split_score": 0.6924689115309324}
+{"sent": "pizza slice with no green stuff", "ann_id": 1073790, "best_split": [2, 1], "split_score": 0.6924689115309324}

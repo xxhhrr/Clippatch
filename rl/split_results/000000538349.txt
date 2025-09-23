@@ -1,0 +1,6 @@
+{"sent": "black coat behind boy", "ann_id": 564146, "best_split": [1, 2], "split_score": 0.5493730877512336}
+{"sent": "black behind boy", "ann_id": 564146, "best_split": [1, 2], "split_score": 0.5493730877512336}
+{"sent": "person behind boy", "ann_id": 564146, "best_split": [1, 2], "split_score": 0.5493730877512336}
+{"sent": "boy", "ann_id": 464902, "best_split": [1, 3], "split_score": 0.4145748284367856}
+{"sent": "boy with plaid shirt", "ann_id": 464902, "best_split": [1, 3], "split_score": 0.4145748284367856}
+{"sent": "boy", "ann_id": 464902, "best_split": [1, 3], "split_score": 0.4145748284367856}

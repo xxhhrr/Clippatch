@@ -1,0 +1,6 @@
+{"sent": "sitting guy", "ann_id": 1714226, "best_split": [2, 2], "split_score": 0.7192865254379527}
+{"sent": "sitting down", "ann_id": 1714226, "best_split": [2, 2], "split_score": 0.7192865254379527}
+{"sent": "guy sitting", "ann_id": 1714226, "best_split": [2, 2], "split_score": 0.7192865254379527}
+{"sent": "standing", "ann_id": 223263, "best_split": [1, 3], "split_score": 0.4996138250386361}
+{"sent": "man with arm up", "ann_id": 223263, "best_split": [1, 3], "split_score": 0.4996138250386361}
+{"sent": "man standing up", "ann_id": 223263, "best_split": [1, 3], "split_score": 0.4996138250386361}

@@ -1,0 +1,5 @@
+{"sent": "man green shirt", "ann_id": 193704, "best_split": [1, 2], "split_score": 0.4777666749788357}
+{"sent": "green", "ann_id": 193704, "best_split": [1, 2], "split_score": 0.4777666749788357}
+{"sent": "green shirt", "ann_id": 193704, "best_split": [1, 2], "split_score": 0.4777666749788357}
+{"sent": "man with arms crossed", "ann_id": 191409, "best_split": [1, 3], "split_score": 0.4162578836512034}
+{"sent": "guy without hat", "ann_id": 191409, "best_split": [1, 3], "split_score": 0.4162578836512034}

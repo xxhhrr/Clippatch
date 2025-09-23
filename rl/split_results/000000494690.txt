@@ -1,0 +1,5 @@
+{"sent": "one with yellow and red", "ann_id": 2209370, "best_split": [3, 3], "split_score": 0.4430009742703798}
+{"sent": "rear vehicle", "ann_id": 2209370, "best_split": [3, 1], "split_score": 0.1580716189501639}
+{"sent": "truck", "ann_id": 395369, "best_split": [2, 2], "split_score": 0.48999005219535}
+{"sent": "pick em up", "ann_id": 395369, "best_split": [2, 2], "split_score": 0.48999005219535}
+{"sent": "truck", "ann_id": 395369, "best_split": [2, 2], "split_score": 0.48999005219535}

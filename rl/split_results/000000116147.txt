@@ -1,0 +1,9 @@
+{"sent": "person on couch", "ann_id": 2156325, "best_split": [2, 2], "split_score": 0.6618855761127109}
+{"sent": "loungin on couch", "ann_id": 2156325, "best_split": [2, 2], "split_score": 0.6618855761127109}
+{"sent": "shes on the green couch", "ann_id": 2156325, "best_split": [2, 2], "split_score": 0.6618855761127109}
+{"sent": "guys back in blue shirt", "ann_id": 223406, "best_split": [1, 3], "split_score": 0.6557062025912401}
+{"sent": "guy in blue", "ann_id": 223406, "best_split": [1, 3], "split_score": 0.6557062025912401}
+{"sent": "blue shirt", "ann_id": 223406, "best_split": [1, 3], "split_score": 0.6557062025912401}
+{"sent": "girl with long hair", "ann_id": 215879, "best_split": [1, 3], "split_score": 0.6937499999612863}
+{"sent": "center girl", "ann_id": 215879, "best_split": [1, 3], "split_score": 0.6937499999612863}
+{"sent": "shes watching tv", "ann_id": 215879, "best_split": [2, 1], "split_score": 0.27766454072333274}

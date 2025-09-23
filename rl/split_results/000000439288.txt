@@ -1,0 +1,6 @@
+{"sent": "half giraffe", "ann_id": 596148, "best_split": [2, 1], "split_score": 0.187893560830527}
+{"sent": "large giraffe almost off screen", "ann_id": 596148, "best_split": [2, 3], "split_score": 0.42330142420240474}
+{"sent": "partial animal", "ann_id": 596148, "best_split": [3, 3], "split_score": 0.3006134969072516}
+{"sent": "lying down giraffe", "ann_id": 595277, "best_split": [2, 1], "split_score": 0.4459999014037068}
+{"sent": "whole giraffe", "ann_id": 595277, "best_split": [2, 1], "split_score": 0.4459999014037068}
+{"sent": "sitting giraffe", "ann_id": 595277, "best_split": [2, 1], "split_score": 0.4459999014037068}

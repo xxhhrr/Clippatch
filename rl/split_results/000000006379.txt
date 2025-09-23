@@ -1,0 +1,5 @@
+{"sent": "person with glasses", "ann_id": 2159972, "best_split": [3, 3], "split_score": 0.36797143945327404}
+{"sent": "overweight sunglasses", "ann_id": 2159972, "best_split": [3, 3], "split_score": 0.36797143945327404}
+{"sent": "white sweater", "ann_id": 2159972, "best_split": [1, 5], "split_score": 0.23591002043060041}
+{"sent": "person the full gear", "ann_id": 479118, "best_split": [1, 5], "split_score": 0.35789958541152467}
+{"sent": "person in coat holding both poles", "ann_id": 479118, "best_split": [1, 5], "split_score": 0.35789958541152467}

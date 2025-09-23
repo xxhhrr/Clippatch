@@ -1,0 +1,6 @@
+{"sent": "chair not at this table", "ann_id": 382371, "best_split": [2, 1], "split_score": 0.00160256410251169}
+{"sent": "chair with white cushion", "ann_id": 382371, "best_split": [2, 3], "split_score": 0.6362883180688498}
+{"sent": "chair which is visible with legs", "ann_id": 382371, "best_split": [1, 5], "split_score": 0.4771135207295736}
+{"sent": "chair at table", "ann_id": 382345, "best_split": [1, 5], "split_score": 0.07877033125446901}
+{"sent": "chair at table", "ann_id": 382345, "best_split": [1, 5], "split_score": 0.07877033125446901}
+{"sent": "chair correctly at table", "ann_id": 382345, "best_split": [3, 1], "split_score": 0.1696428571326229}

@@ -1,0 +1,6 @@
+{"sent": "bench the lady is sitting on", "ann_id": 578040, "best_split": [2, 2], "split_score": 0.3233128834107889}
+{"sent": "background bench", "ann_id": 578040, "best_split": [2, 1], "split_score": 0.187818877543534}
+{"sent": "furthest bench", "ann_id": 578040, "best_split": [2, 1], "split_score": 0.187818877543534}
+{"sent": "unoccupied bench", "ann_id": 576184, "best_split": [1, 3], "split_score": 0.4673491290156299}
+{"sent": "empty bench", "ann_id": 576184, "best_split": [1, 3], "split_score": 0.4673491290156299}
+{"sent": "closest chair", "ann_id": 576184, "best_split": [1, 3], "split_score": 0.4673491290156299}

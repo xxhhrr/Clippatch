@@ -1,0 +1,6 @@
+{"sent": "brocoli", "ann_id": 1039545, "best_split": [2, 3], "split_score": 0.794955628118291}
+{"sent": "bowl of spinnach", "ann_id": 1039545, "best_split": [1, 3], "split_score": 0.4039876572273921}
+{"sent": "bowl with broccoli", "ann_id": 1039545, "best_split": [2, 3], "split_score": 0.794955628118291}
+{"sent": "mushroom", "ann_id": 713882, "best_split": [2, 1], "split_score": 0.5733794295450456}
+{"sent": "fully visible dish", "ann_id": 713882, "best_split": [1, 2], "split_score": 0.44949494948472346}
+{"sent": "closest bowl of food", "ann_id": 713882, "best_split": [1, 2], "split_score": 0.44949494948472346}

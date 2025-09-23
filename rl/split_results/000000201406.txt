@@ -1,0 +1,6 @@
+{"sent": "blob in lower shelf", "ann_id": 48269, "best_split": [2, 2], "split_score": 0.21922831630905387}
+{"sent": "in the corner on lower shelf", "ann_id": 48269, "best_split": [2, 2], "split_score": 0.21922831630905387}
+{"sent": "mush object by beer", "ann_id": 48269, "best_split": [1, 5], "split_score": 0.23758099349719408}
+{"sent": "brown thing next to water", "ann_id": 47702, "best_split": [3, 3], "split_score": 0.4349061966408604}
+{"sent": "dark thing by water bottles", "ann_id": 47702, "best_split": [5, 1], "split_score": 0.19874130505144572}
+{"sent": "brown stuff beside water", "ann_id": 47702, "best_split": [3, 3], "split_score": 0.4349061966408604}

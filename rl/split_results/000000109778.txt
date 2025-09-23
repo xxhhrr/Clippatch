@@ -1,0 +1,12 @@
+{"sent": "slice of pizza at 5 o clock", "ann_id": 1077361, "best_split": [1, 5], "split_score": 0.4028202346511369}
+{"sent": "pizza slice at 4 clock", "ann_id": 1077361, "best_split": [1, 5], "split_score": 0.4028202346511369}
+{"sent": "man", "ann_id": 522844, "best_split": [2, 3], "split_score": 0.8252788103260044}
+{"sent": "man in red", "ann_id": 522844, "best_split": [2, 3], "split_score": 0.8252788103260044}
+{"sent": "man in red", "ann_id": 522844, "best_split": [2, 3], "split_score": 0.8252788103260044}
+{"sent": "pizza the half on the guy in reds side", "ann_id": 1570388, "best_split": [2, 3], "split_score": 0.6964705881767671}
+{"sent": "part of the pizza with the most meat", "ann_id": 1570388, "best_split": [2, 3], "split_score": 0.6964705881767671}
+{"sent": "high pizza", "ann_id": 1570388, "best_split": [2, 3], "split_score": 0.6964705881767671}
+{"sent": "blond with red smiling", "ann_id": 504349, "best_split": [2, 3], "split_score": 0.647131654906404}
+{"sent": "woman laughing", "ann_id": 504349, "best_split": [2, 3], "split_score": 0.647131654906404}
+{"sent": "girl", "ann_id": 504349, "best_split": [2, 3], "split_score": 0.647131654906404}
+{"sent": "girl", "ann_id": 504349, "best_split": [2, 3], "split_score": 0.647131654906404}

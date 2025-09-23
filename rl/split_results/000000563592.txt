@@ -1,0 +1,4 @@
+{"sent": "not eating big beard", "ann_id": 1407668, "best_split": [3, 1], "split_score": 0.18973405056609854}
+{"sent": "cow at 8 clock", "ann_id": 1407668, "best_split": [3, 1], "split_score": 0.18973405056609854}
+{"sent": "nearest cow", "ann_id": 71974, "best_split": [1, 3], "split_score": 0.6134137151139297}
+{"sent": "big cow closest to us", "ann_id": 71974, "best_split": [1, 3], "split_score": 0.6134137151139297}

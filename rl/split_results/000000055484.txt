@@ -1,0 +1,9 @@
+{"sent": "ship in third place with m34 on sail", "ann_id": 250655, "best_split": [3, 3], "split_score": 0.39560439554564825}
+{"sent": "ae 34", "ann_id": 250655, "best_split": [3, 3], "split_score": 0.39560439554564825}
+{"sent": "sail with m34", "ann_id": 250655, "best_split": [3, 3], "split_score": 0.39560439554564825}
+{"sent": "k 453", "ann_id": 249273, "best_split": [1, 5], "split_score": 0.4029297999832993}
+{"sent": "sail closest to us and closest to buoy", "ann_id": 249273, "best_split": [1, 5], "split_score": 0.4029297999832993}
+{"sent": "k453", "ann_id": 249273, "best_split": [1, 5], "split_score": 0.4029297999832993}
+{"sent": "k 214", "ann_id": 180590, "best_split": [3, 3], "split_score": 0.41501294214678464}
+{"sent": "k214 boat", "ann_id": 180590, "best_split": [1, 3], "split_score": 0.4611486486208284}
+{"sent": "k214", "ann_id": 180590, "best_split": [3, 3], "split_score": 0.41501294214678464}

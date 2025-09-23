@@ -1,0 +1,15 @@
+{"sent": "red shirt", "ann_id": 1292596, "best_split": [2, 2], "split_score": 0.19703114238296493}
+{"sent": "woman red shirt", "ann_id": 1292596, "best_split": [2, 3], "split_score": 0.2921820038247836}
+{"sent": "red shirt", "ann_id": 1292596, "best_split": [2, 2], "split_score": 0.19703114238296493}
+{"sent": "woman with skirt", "ann_id": 1287233, "best_split": [2, 3], "split_score": 0.4293357110533509}
+{"sent": "woman with black under shirt white over flower skirt", "ann_id": 1287233, "best_split": [2, 3], "split_score": 0.4293357110533509}
+{"sent": "in skirt", "ann_id": 1287233, "best_split": [2, 3], "split_score": 0.4293357110533509}
+{"sent": "woman in white shirt and blue jeans", "ann_id": 1268711, "best_split": [2, 2], "split_score": 0.26277372260775744}
+{"sent": "woman white shirt jeans back to us", "ann_id": 1268711, "best_split": [2, 2], "split_score": 0.26277372260775744}
+{"sent": "white shirt", "ann_id": 1268711, "best_split": [2, 3], "split_score": 0.26557377046459285}
+{"sent": "man black jacket", "ann_id": 1221446, "best_split": [1, 5], "split_score": 0.23922009746538994}
+{"sent": "man talking to woman with long brown hair", "ann_id": 1221446, "best_split": [3, 3], "split_score": 0.24000561085145103}
+{"sent": "man in jeans", "ann_id": 1221446, "best_split": [3, 3], "split_score": 0.229998608566857}
+{"sent": "the man wearing a flannel shirt and glasses", "ann_id": 1203083, "best_split": [1, 5], "split_score": 0.4200487012560827}
+{"sent": "man in shorts and blue shirt", "ann_id": 1203083, "best_split": [1, 5], "split_score": 0.4200487012560827}
+{"sent": "man in blue shirt", "ann_id": 1203083, "best_split": [1, 5], "split_score": 0.4200487012560827}

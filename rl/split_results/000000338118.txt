@@ -1,0 +1,6 @@
+{"sent": "yellow clock", "ann_id": 335303, "best_split": [3, 3], "split_score": 0.4688036633559239}
+{"sent": "biggest clock", "ann_id": 335303, "best_split": [3, 3], "split_score": 0.4688036633559239}
+{"sent": "antique clock", "ann_id": 335303, "best_split": [3, 3], "split_score": 0.4688036633559239}
+{"sent": "clock on the wheel", "ann_id": 334811, "best_split": [5, 1], "split_score": 0.19872115094427803}
+{"sent": "clock at bottomist close to us", "ann_id": 334811, "best_split": [1, 3], "split_score": 0.0022488755620984754}
+{"sent": "roman numerals", "ann_id": 334811, "best_split": [5, 1], "split_score": 0.19872115094427803}

@@ -1,0 +1,3 @@
+{"sent": "small container", "ann_id": 1039300, "best_split": [3, 3], "split_score": 0.3413068844309646}
+{"sent": "cup of mayo or mustard", "ann_id": 1039300, "best_split": [1, 5], "split_score": 0.20825916694479715}
+{"sent": "silver cup", "ann_id": 1039300, "best_split": [3, 2], "split_score": 0.4180444024069385}

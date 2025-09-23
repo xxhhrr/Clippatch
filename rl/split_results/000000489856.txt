@@ -1,0 +1,14 @@
+{"sent": "table with mom", "ann_id": 553667, "best_split": [2, 3], "split_score": 0.7981418917955909}
+{"sent": "part of table where woman is", "ann_id": 553667, "best_split": [2, 3], "split_score": 0.7981418917955909}
+{"sent": "table with the most food on it", "ann_id": 391925, "best_split": [2, 1], "split_score": 0.8729272958835728}
+{"sent": "table section with two plates", "ann_id": 391925, "best_split": [2, 1], "split_score": 0.8729272958835728}
+{"sent": "table with most food on it", "ann_id": 391925, "best_split": [2, 1], "split_score": 0.8729272958835728}
+{"sent": "black shirt and shorts", "ann_id": 1318010, "best_split": [2, 3], "split_score": 0.43962133451401275}
+{"sent": "person standing", "ann_id": 1318010, "best_split": [2, 3], "split_score": 0.43962133451401275}
+{"sent": "man in black shirt tan shorts", "ann_id": 1318010, "best_split": [2, 3], "split_score": 0.43962133451401275}
+{"sent": "hat woman", "ann_id": 1262270, "best_split": [2, 2], "split_score": 0.3924888409733347}
+{"sent": "blue shirt person with cowboy hat", "ann_id": 1262270, "best_split": [2, 3], "split_score": 0.46402877692932404}
+{"sent": "lady with glasses on her hat", "ann_id": 1262270, "best_split": [2, 2], "split_score": 0.3924888409733347}
+{"sent": "girl in straw hat with star", "ann_id": 1258154, "best_split": [2, 3], "split_score": 0.5562763875444057}
+{"sent": "kid red", "ann_id": 1258154, "best_split": [2, 3], "split_score": 0.5562763875444057}
+{"sent": "kid", "ann_id": 1258154, "best_split": [2, 3], "split_score": 0.5562763875444057}

@@ -1,0 +1,12 @@
+{"sent": "close bird", "ann_id": 1815701, "best_split": [3, 2], "split_score": 0.17461787863596784}
+{"sent": "head of bird showing only", "ann_id": 1815701, "best_split": [3, 2], "split_score": 0.17461787863596784}
+{"sent": "bird facing way", "ann_id": 1815658, "best_split": [2, 1], "split_score": 0.26530612243840457}
+{"sent": "oddball facing other way", "ann_id": 1815658, "best_split": [2, 3], "split_score": 0.4639498432147384}
+{"sent": "duck missing head", "ann_id": 1815658, "best_split": [2, 3], "split_score": 0.4639498432147384}
+{"sent": "fourth one from us", "ann_id": 272420, "best_split": [5, 1], "split_score": 0.2889643463252152}
+{"sent": "number 4 bird from you", "ann_id": 272420, "best_split": [2, 3], "split_score": 0.2432432432210333}
+{"sent": "furthest pointing out beek", "ann_id": 36616, "best_split": [3, 1], "split_score": 0.6891845786029123}
+{"sent": "bird jutting out most", "ann_id": 36616, "best_split": [3, 1], "split_score": 0.6891845786029123}
+{"sent": "bird close with mostly black beak", "ann_id": 36494, "best_split": [1, 3], "split_score": 0.29299166408093363}
+{"sent": "number 2 closest bird", "ann_id": 36494, "best_split": [1, 3], "split_score": 0.29299166408093363}
+{"sent": "bird closest not blurry", "ann_id": 36494, "best_split": [2, 3], "split_score": 0.41165413531071066}

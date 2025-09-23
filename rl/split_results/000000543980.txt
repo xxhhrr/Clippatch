@@ -1,0 +1,6 @@
+{"sent": "small one", "ann_id": 71881, "best_split": [2, 3], "split_score": 0.5143573381364679}
+{"sent": "smaller animal", "ann_id": 71881, "best_split": [2, 3], "split_score": 0.5143573381364679}
+{"sent": "baby animal", "ann_id": 71881, "best_split": [2, 3], "split_score": 0.5143573381364679}
+{"sent": "the animal with a dark black tail", "ann_id": 71130, "best_split": [3, 1], "split_score": 0.25581931319106826}
+{"sent": "highest cow", "ann_id": 71130, "best_split": [3, 1], "split_score": 0.25581931319106826}
+{"sent": "animal closest to our remaining round counter", "ann_id": 71130, "best_split": [3, 1], "split_score": 0.25581931319106826}

@@ -1,0 +1,6 @@
+{"sent": "zebra next to fence", "ann_id": 590258, "best_split": [3, 1], "split_score": 0.4596273291732572}
+{"sent": "zebra closest to the fence", "ann_id": 590258, "best_split": [3, 1], "split_score": 0.4596273291732572}
+{"sent": "zebra looking through fence", "ann_id": 590258, "best_split": [3, 1], "split_score": 0.4596273291732572}
+{"sent": "zebra at 9 o clock", "ann_id": 590206, "best_split": [1, 2], "split_score": 0.5414277683940014}
+{"sent": "closest zebro", "ann_id": 590206, "best_split": [3, 1], "split_score": 0.38180733670200395}
+{"sent": "closer zebra", "ann_id": 590206, "best_split": [1, 2], "split_score": 0.5414277683940014}

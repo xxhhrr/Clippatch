@@ -1,0 +1,9 @@
+{"sent": "little zebra", "ann_id": 593240, "best_split": [3, 1], "split_score": 0.2294898918529919}
+{"sent": "baby zebra", "ann_id": 593240, "best_split": [3, 1], "split_score": 0.2294898918529919}
+{"sent": "baby", "ann_id": 593240, "best_split": [3, 3], "split_score": 0.4510933805480063}
+{"sent": "partly hidden zebra", "ann_id": 590634, "best_split": [2, 2], "split_score": 0.8075851392563789}
+{"sent": "out of frame zebra", "ann_id": 590634, "best_split": [2, 2], "split_score": 0.8075851392563789}
+{"sent": "z in corner", "ann_id": 590634, "best_split": [3, 1], "split_score": 0.1591467027783312}
+{"sent": "adult zebra fully shown", "ann_id": 589262, "best_split": [1, 5], "split_score": 0.37615706618854095}
+{"sent": "full body adult zebra", "ann_id": 589262, "best_split": [1, 5], "split_score": 0.37615706618854095}
+{"sent": "zebra butt", "ann_id": 589262, "best_split": [1, 5], "split_score": 0.37615706618854095}

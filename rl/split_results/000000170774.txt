@@ -1,0 +1,6 @@
+{"sent": "giraffe head near blue", "ann_id": 597789, "best_split": [1, 3], "split_score": 0.4387650787031935}
+{"sent": "giraffe 1", "ann_id": 597789, "best_split": [1, 3], "split_score": 0.4387650787031935}
+{"sent": "giraffe face on blue", "ann_id": 597789, "best_split": [1, 3], "split_score": 0.4387650787031935}
+{"sent": "giraffe closest to door", "ann_id": 597256, "best_split": [1, 3], "split_score": 0.4616027458450499}
+{"sent": "giraffe near the door", "ann_id": 597256, "best_split": [1, 3], "split_score": 0.4616027458450499}
+{"sent": "taller giraffe", "ann_id": 597256, "best_split": [1, 3], "split_score": 0.4616027458450499}

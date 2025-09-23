@@ -1,0 +1,10 @@
+{"sent": "thing the two people are touching", "ann_id": 622901, "best_split": [1, 5], "split_score": 0.2829314166532591}
+{"sent": "red thing that woman is holding", "ann_id": 622901, "best_split": [2, 2], "split_score": 0.4402723606504745}
+{"sent": "the red thing", "ann_id": 622901, "best_split": [2, 3], "split_score": 0.5647090324379945}
+{"sent": "blue umbrella", "ann_id": 1468610, "best_split": [3, 2], "split_score": 0.4988579259366311}
+{"sent": "hat guy", "ann_id": 440065, "best_split": [1, 2], "split_score": 0.7382812499705723}
+{"sent": "dude", "ann_id": 440065, "best_split": [1, 2], "split_score": 0.7382812499705723}
+{"sent": "man", "ann_id": 440065, "best_split": [1, 2], "split_score": 0.7382812499705723}
+{"sent": "woman", "ann_id": 429146, "best_split": [1, 2], "split_score": 0.8619260203738072}
+{"sent": "woman", "ann_id": 429146, "best_split": [1, 2], "split_score": 0.8619260203738072}
+{"sent": "woman", "ann_id": 429146, "best_split": [1, 2], "split_score": 0.8619260203738072}

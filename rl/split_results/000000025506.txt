@@ -1,0 +1,4 @@
+{"sent": "bike wheel closes to bike with red on it", "ann_id": 241719, "best_split": [2, 3], "split_score": 0.3366312740906574}
+{"sent": "big wheel", "ann_id": 241719, "best_split": [3, 1], "split_score": 0.03197271661345131}
+{"sent": "red bike facing camera", "ann_id": 2167890, "best_split": [3, 3], "split_score": 0.48268941288476047}
+{"sent": "red bike with tire pointed in our direction", "ann_id": 2167890, "best_split": [3, 3], "split_score": 0.48268941288476047}

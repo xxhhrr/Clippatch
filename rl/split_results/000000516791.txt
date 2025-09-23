@@ -1,0 +1,5 @@
+{"sent": "cup above cake", "ann_id": 681275, "best_split": [1, 2], "split_score": 0.1702008928503587}
+{"sent": "furthest cup of coffee", "ann_id": 681275, "best_split": [3, 1], "split_score": 0.25760135133581075}
+{"sent": "dirty coffee cup near green napikin", "ann_id": 670661, "best_split": [3, 3], "split_score": 0.6144317125093788}
+{"sent": "coffee behind napkin", "ann_id": 670661, "best_split": [3, 3], "split_score": 0.6144317125093788}
+{"sent": "cup closer to cake", "ann_id": 670661, "best_split": [3, 1], "split_score": 0.034903846152168086}

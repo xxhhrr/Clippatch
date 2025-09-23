@@ -1,0 +1,6 @@
+{"sent": "the arm with a watch", "ann_id": 1263525, "best_split": [2, 1], "split_score": 0.6744260203812809}
+{"sent": "wristwatch", "ann_id": 1263525, "best_split": [2, 1], "split_score": 0.6744260203812809}
+{"sent": "watch", "ann_id": 1263525, "best_split": [2, 1], "split_score": 0.6744260203812809}
+{"sent": "hand holding food", "ann_id": 443751, "best_split": [3, 2], "split_score": 0.6830005033828662}
+{"sent": "hand holding food", "ann_id": 443751, "best_split": [3, 2], "split_score": 0.6830005033828662}
+{"sent": "hand holding pita sandwhich thing", "ann_id": 443751, "best_split": [3, 2], "split_score": 0.6830005033828662}

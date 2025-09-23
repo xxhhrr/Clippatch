@@ -1,0 +1,6 @@
+{"sent": "the smaller pot", "ann_id": 292128, "best_split": [3, 3], "split_score": 0.5703051273088542}
+{"sent": "the planter with a large green plant in it", "ann_id": 292128, "best_split": [3, 3], "split_score": 0.5703051273088542}
+{"sent": "smaller pot", "ann_id": 292128, "best_split": [3, 3], "split_score": 0.5703051273088542}
+{"sent": "clay pot closer to dog", "ann_id": 20286, "best_split": [3, 2], "split_score": 0.361177077918309}
+{"sent": "pot closest to the dog", "ann_id": 20286, "best_split": [3, 2], "split_score": 0.361177077918309}
+{"sent": "clay pot closest to dog", "ann_id": 20286, "best_split": [3, 2], "split_score": 0.361177077918309}

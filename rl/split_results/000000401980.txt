@@ -1,0 +1,11 @@
+{"sent": "man in black jacket", "ann_id": 252427, "best_split": [1, 5], "split_score": 0.7639248958469695}
+{"sent": "the man", "ann_id": 252427, "best_split": [1, 5], "split_score": 0.7639248958469695}
+{"sent": "black shirt", "ann_id": 252427, "best_split": [1, 5], "split_score": 0.7639248958469695}
+{"sent": "woman in white", "ann_id": 216664, "best_split": [1, 3], "split_score": 0.5153707052149994}
+{"sent": "woman", "ann_id": 216664, "best_split": [1, 3], "split_score": 0.5153707052149994}
+{"sent": "girl", "ann_id": 216664, "best_split": [1, 3], "split_score": 0.5153707052149994}
+{"sent": "bike with woman", "ann_id": 130038, "best_split": [1, 3], "split_score": 0.4182778657993514}
+{"sent": "only bike holded by woman", "ann_id": 130038, "best_split": [1, 3], "split_score": 0.4182778657993514}
+{"sent": "bike of the guy in white", "ann_id": 130038, "best_split": [1, 3], "split_score": 0.4182778657993514}
+{"sent": "mans bike", "ann_id": 125724, "best_split": [2, 2], "split_score": 0.7649122806538275}
+{"sent": "mans 2 wheeler", "ann_id": 125724, "best_split": [2, 2], "split_score": 0.7649122806538275}

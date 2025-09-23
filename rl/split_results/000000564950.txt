@@ -1,0 +1,6 @@
+{"sent": "man in blue", "ann_id": 465344, "best_split": [2, 3], "split_score": 0.6910966823186786}
+{"sent": "blue shirt", "ann_id": 465344, "best_split": [2, 3], "split_score": 0.6910966823186786}
+{"sent": "person cut off", "ann_id": 465344, "best_split": [2, 3], "split_score": 0.6910966823186786}
+{"sent": "man", "ann_id": 450455, "best_split": [2, 1], "split_score": 0.5055968624784378}
+{"sent": "man with a white and black shirt", "ann_id": 450455, "best_split": [1, 2], "split_score": 0.4822232947135975}
+{"sent": "man", "ann_id": 450455, "best_split": [2, 1], "split_score": 0.5055968624784378}

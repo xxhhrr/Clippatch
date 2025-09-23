@@ -1,0 +1,5 @@
+{"sent": "the larger piece of food", "ann_id": 1072739, "best_split": [1, 3], "split_score": 0.43590462831352816}
+{"sent": "unsliced section of izza", "ann_id": 1072739, "best_split": [1, 3], "split_score": 0.43590462831352816}
+{"sent": "pacman big peice", "ann_id": 1072739, "best_split": [1, 3], "split_score": 0.43590462831352816}
+{"sent": "slice of pizza with 4 green peppers on it", "ann_id": 1071206, "best_split": [3, 3], "split_score": 0.2538894405545747}
+{"sent": "pizza slice by oregano seasoning", "ann_id": 1071206, "best_split": [5, 1], "split_score": 0.21782178216136897}

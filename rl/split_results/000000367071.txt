@@ -1,0 +1,12 @@
+{"sent": "pink writing", "ann_id": 1088661, "best_split": [3, 1], "split_score": 0.023975588490556254}
+{"sent": "cake with pink writing in far away corner", "ann_id": 1088661, "best_split": [1, 3], "split_score": 0.27539816600655176}
+{"sent": "the special slice of white cake with pink writing on it", "ann_id": 1088661, "best_split": [1, 3], "split_score": 0.27539816600655176}
+{"sent": "habe visiable cake", "ann_id": 1086654, "best_split": [1, 2], "split_score": 0.03159073935655001}
+{"sent": "cake you see least of", "ann_id": 1086654, "best_split": [1, 2], "split_score": 0.03159073935655001}
+{"sent": "cake on blue plate", "ann_id": 1086654, "best_split": [1, 2], "split_score": 0.03159073935655001}
+{"sent": "strawberry cake with fruit on plate", "ann_id": 1086279, "best_split": [2, 3], "split_score": 0.691177771817434}
+{"sent": "slice with red and no writing", "ann_id": 1086279, "best_split": [2, 3], "split_score": 0.691177771817434}
+{"sent": "a lot of red closest to us", "ann_id": 1086279, "best_split": [2, 3], "split_score": 0.691177771817434}
+{"sent": "piece of cake next to fork", "ann_id": 1084664, "best_split": [2, 1], "split_score": 0.2602423542895181}
+{"sent": "the dessert with fork", "ann_id": 1084664, "best_split": [2, 1], "split_score": 0.2602423542895181}
+{"sent": "pink cake with 50 or so", "ann_id": 1084664, "best_split": [2, 1], "split_score": 0.2602423542895181}

@@ -1,0 +1,6 @@
+{"sent": "elephant with trunk out", "ann_id": 582581, "best_split": [3, 1], "split_score": 0.4797357905700181}
+{"sent": "nearest water elephant", "ann_id": 582581, "best_split": [3, 1], "split_score": 0.4797357905700181}
+{"sent": "larger", "ann_id": 582581, "best_split": [1, 2], "split_score": 0.42633388512586484}
+{"sent": "youngest elephant", "ann_id": 581535, "best_split": [3, 3], "split_score": 0.4621112044599362}
+{"sent": "smaller", "ann_id": 581535, "best_split": [2, 3], "split_score": 0.5398130072393083}
+{"sent": "baby elephant", "ann_id": 581535, "best_split": [3, 3], "split_score": 0.4621112044599362}

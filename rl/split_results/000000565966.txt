@@ -1,0 +1,6 @@
+{"sent": "urinal", "ann_id": 1097451, "best_split": [1, 5], "split_score": 0.2209686831140859}
+{"sent": "urinal", "ann_id": 1097451, "best_split": [1, 5], "split_score": 0.2209686831140859}
+{"sent": "urinal", "ann_id": 1097451, "best_split": [1, 5], "split_score": 0.2209686831140859}
+{"sent": "toilet", "ann_id": 1095246, "best_split": [1, 5], "split_score": 0.4268292682588827}
+{"sent": "toilet not urinal", "ann_id": 1095246, "best_split": [1, 3], "split_score": 0.4261501210408077}
+{"sent": "toilet", "ann_id": 1095246, "best_split": [1, 5], "split_score": 0.4268292682588827}

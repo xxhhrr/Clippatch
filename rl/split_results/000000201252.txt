@@ -1,0 +1,9 @@
+{"sent": "woman walking in shorts", "ann_id": 1307260, "best_split": [2, 1], "split_score": 0.11673503179480167}
+{"sent": "woman in shorts", "ann_id": 1307260, "best_split": [2, 3], "split_score": 0.2804574838109938}
+{"sent": "woman in purple skirt", "ann_id": 1227193, "best_split": [1, 5], "split_score": 0.3398944804849945}
+{"sent": "purple dress", "ann_id": 1227193, "best_split": [1, 5], "split_score": 0.3398944804849945}
+{"sent": "woman in long purple skirt", "ann_id": 1227193, "best_split": [1, 5], "split_score": 0.3398944804849945}
+{"sent": "girl pink jacket white pants", "ann_id": 2166075, "best_split": [1, 5], "split_score": 0.45080707144016074}
+{"sent": "girl in pink jacket", "ann_id": 2166075, "best_split": [1, 5], "split_score": 0.45080707144016074}
+{"sent": "pink jacket", "ann_id": 2166075, "best_split": [1, 5], "split_score": 0.45080707144016074}
+{"sent": "pink coat", "ann_id": 2166075, "best_split": [1, 5], "split_score": 0.45080707144016074}

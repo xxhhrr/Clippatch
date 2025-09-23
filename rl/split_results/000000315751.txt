@@ -1,0 +1,9 @@
+{"sent": "tall man", "ann_id": 2162322, "best_split": [1, 5], "split_score": 0.619153294586962}
+{"sent": "blue everything", "ann_id": 2162322, "best_split": [1, 5], "split_score": 0.619153294586962}
+{"sent": "tallest", "ann_id": 2162322, "best_split": [1, 5], "split_score": 0.619153294586962}
+{"sent": "gray shirt", "ann_id": 496559, "best_split": [3, 3], "split_score": 0.33651659841558473}
+{"sent": "girl in gray", "ann_id": 496559, "best_split": [1, 5], "split_score": 0.6371753246106762}
+{"sent": "one with red beanie", "ann_id": 496559, "best_split": [1, 5], "split_score": 0.6371753246106762}
+{"sent": "girl in turquoise shirt", "ann_id": 478931, "best_split": [1, 5], "split_score": 0.5291529152386085}
+{"sent": "green shirt woman", "ann_id": 478931, "best_split": [1, 5], "split_score": 0.5291529152386085}
+{"sent": "woman in blue", "ann_id": 478931, "best_split": [2, 1], "split_score": 0.1570128885459813}

@@ -1,0 +1,14 @@
+{"sent": "the white van you can barley see", "ann_id": 1786329, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "white van hidden", "ann_id": 1786329, "best_split": [1, 3], "split_score": 0.19714640931874094}
+{"sent": "white work van", "ann_id": 1786329, "best_split": [1, 2], "split_score": 0.14528858417788232}
+{"sent": "red", "ann_id": 138616, "best_split": [1, 5], "split_score": 0.4632152588105084}
+{"sent": "red car", "ann_id": 138616, "best_split": [1, 5], "split_score": 0.4632152588105084}
+{"sent": "red car", "ann_id": 138616, "best_split": [1, 5], "split_score": 0.4632152588105084}
+{"sent": "minivan behind weird car", "ann_id": 136412, "best_split": [1, 2], "split_score": 0.03652173912913854}
+{"sent": "silver minivan", "ann_id": 136412, "best_split": [1, 2], "split_score": 0.03652173912913854}
+{"sent": "brown car", "ann_id": 135968, "best_split": [2, 1], "split_score": 0.11932253125416807}
+{"sent": "brown car near vans", "ann_id": 135968, "best_split": [2, 1], "split_score": 0.11932253125416807}
+{"sent": "car next to the funny looking car not red one", "ann_id": 135968, "best_split": [2, 1], "split_score": 0.11932253125416807}
+{"sent": "car that is decorated", "ann_id": 133343, "best_split": [2, 1], "split_score": 0.5365131242841253}
+{"sent": "wow what a car yes that one", "ann_id": 133343, "best_split": [2, 1], "split_score": 0.5365131242841253}
+{"sent": "weird car", "ann_id": 133343, "best_split": [2, 1], "split_score": 0.5365131242841253}

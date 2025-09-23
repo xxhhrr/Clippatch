@@ -1,0 +1,6 @@
+{"sent": "bed without sheep", "ann_id": 1611786, "best_split": [3, 2], "split_score": 0.48746968467184015}
+{"sent": "bed nearest the blue and white sign", "ann_id": 1611786, "best_split": [3, 3], "split_score": 0.6809712026142051}
+{"sent": "bed in background", "ann_id": 1611786, "best_split": [3, 2], "split_score": 0.48746968467184015}
+{"sent": "big stuff animal", "ann_id": 314750, "best_split": [1, 2], "split_score": 0.541287395838904}
+{"sent": "bed with sheep", "ann_id": 314750, "best_split": [1, 2], "split_score": 0.541287395838904}
+{"sent": "white bed", "ann_id": 314750, "best_split": [1, 2], "split_score": 0.541287395838904}

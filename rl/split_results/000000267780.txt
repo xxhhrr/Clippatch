@@ -1,0 +1,6 @@
+{"sent": "half a pizza next to heart", "ann_id": 1077439, "best_split": [2, 2], "split_score": 0.2561383928367236}
+{"sent": "larger piece not heart", "ann_id": 1077439, "best_split": [2, 2], "split_score": 0.2561383928367236}
+{"sent": "half a pizza not the slice", "ann_id": 1077439, "best_split": [2, 2], "split_score": 0.2561383928367236}
+{"sent": "heart", "ann_id": 1076394, "best_split": [1, 3], "split_score": 0.354474037154892}
+{"sent": "heart shaped pizza", "ann_id": 1076394, "best_split": [3, 3], "split_score": 0.4680341879941851}
+{"sent": "heart piza", "ann_id": 1076394, "best_split": [3, 3], "split_score": 0.4680341879941851}

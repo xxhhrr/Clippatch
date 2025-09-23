@@ -1,0 +1,15 @@
+{"sent": "red jockey", "ann_id": 213372, "best_split": [2, 2], "split_score": 0.48543689316706334}
+{"sent": "purple helmet", "ann_id": 213372, "best_split": [1, 5], "split_score": 0.40145985398129896}
+{"sent": "striped rider", "ann_id": 213372, "best_split": [2, 2], "split_score": 0.48543689316706334}
+{"sent": "jockey at 900", "ann_id": 205891, "best_split": [5, 1], "split_score": 0.20809248553351156}
+{"sent": "jockey nearest camera", "ann_id": 205891, "best_split": [5, 1], "split_score": 0.20809248553351156}
+{"sent": "blue rider on closest horse", "ann_id": 205891, "best_split": [5, 1], "split_score": 0.20809248553351156}
+{"sent": "t on head", "ann_id": 60358, "best_split": [1, 2], "split_score": 0.6406249999744649}
+{"sent": "horse with blue head cover", "ann_id": 60358, "best_split": [3, 1], "split_score": 0.2855567805841252}
+{"sent": "closest horse", "ann_id": 60358, "best_split": [2, 1], "split_score": 0.35922330095901117}
+{"sent": "horse 2", "ann_id": 56185, "best_split": [2, 1], "split_score": 0.35350318470188796}
+{"sent": "horse without a blue face mask but with white bridle", "ann_id": 56185, "best_split": [3, 1], "split_score": 0.28015143319631647}
+{"sent": "white bridle", "ann_id": 56185, "best_split": [3, 1], "split_score": 0.28015143319631647}
+{"sent": "horse with number 4 jockey", "ann_id": 55564, "best_split": [1, 2], "split_score": 0.5601871269378872}
+{"sent": "horse farthest to you", "ann_id": 55564, "best_split": [1, 2], "split_score": 0.5601871269378872}
+{"sent": "horse with red and white rider", "ann_id": 55564, "best_split": [1, 2], "split_score": 0.5601871269378872}

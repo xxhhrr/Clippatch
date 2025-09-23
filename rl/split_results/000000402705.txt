@@ -1,0 +1,9 @@
+{"sent": "male spectator with green stripe on breast", "ann_id": 475696, "best_split": [3, 3], "split_score": 0.4065378899841697}
+{"sent": "man in all black with a green strip on chest", "ann_id": 475696, "best_split": [1, 2], "split_score": 0.15904017856508929}
+{"sent": "man wearing black and green jacket", "ann_id": 475696, "best_split": [3, 3], "split_score": 0.4065378899841697}
+{"sent": "just leg showing", "ann_id": 2026711, "best_split": [2, 1], "split_score": 0.21751673204794536}
+{"sent": "leg of person just going out of frame wearing skies", "ann_id": 2026711, "best_split": [2, 3], "split_score": 0.5996768981583547}
+{"sent": "skier just a leg", "ann_id": 2026711, "best_split": [3, 2], "split_score": 0.28731149243479703}
+{"sent": "skier in full view", "ann_id": 460985, "best_split": [1, 2], "split_score": 0.4414784394124607}
+{"sent": "skier", "ann_id": 460985, "best_split": [1, 2], "split_score": 0.4414784394124607}
+{"sent": "man skying in plain view", "ann_id": 460985, "best_split": [2, 1], "split_score": 0.36325385693269896}

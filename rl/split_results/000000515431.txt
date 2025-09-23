@@ -1,0 +1,6 @@
+{"sent": "little girl", "ann_id": 505626, "best_split": [1, 3], "split_score": 0.5504664970022017}
+{"sent": "the little girl", "ann_id": 505626, "best_split": [1, 3], "split_score": 0.5504664970022017}
+{"sent": "girl", "ann_id": 505626, "best_split": [1, 3], "split_score": 0.5504664970022017}
+{"sent": "man wearing jeans", "ann_id": 502557, "best_split": [1, 3], "split_score": 0.7086071655337817}
+{"sent": "man on toilet", "ann_id": 502557, "best_split": [1, 2], "split_score": 0.6242825254853204}
+{"sent": "man sitting", "ann_id": 502557, "best_split": [1, 3], "split_score": 0.7086071655337817}

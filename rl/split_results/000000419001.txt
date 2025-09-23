@@ -1,0 +1,9 @@
+{"sent": "elephant in back", "ann_id": 583050, "best_split": [3, 3], "split_score": 0.3001690140506852}
+{"sent": "elephant at rear", "ann_id": 583050, "best_split": [3, 3], "split_score": 0.3001690140506852}
+{"sent": "fartest elephant", "ann_id": 583050, "best_split": [3, 3], "split_score": 0.3001690140506852}
+{"sent": "tallest", "ann_id": 582996, "best_split": [1, 2], "split_score": 0.7318239795626664}
+{"sent": "elephant standng tallest with more legs on other one", "ann_id": 582996, "best_split": [1, 2], "split_score": 0.7318239795626664}
+{"sent": "elephant that is being stood on", "ann_id": 582883, "best_split": [3, 3], "split_score": 0.43883153959599913}
+{"sent": "not standing", "ann_id": 582883, "best_split": [1, 2], "split_score": 0.209121821399722}
+{"sent": "small elephant", "ann_id": 582883, "best_split": [3, 3], "split_score": 0.43883153959599913}
+{"sent": "rightt elephant on back legs", "ann_id": 582314, "best_split": [2, 1], "split_score": 0.3480517855917177}

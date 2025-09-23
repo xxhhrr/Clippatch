@@ -1,0 +1,6 @@
+{"sent": "lady in black", "ann_id": 1720198, "best_split": [1, 2], "split_score": 0.6775346775104556}
+{"sent": "large lady", "ann_id": 1720198, "best_split": [1, 2], "split_score": 0.6775346775104556}
+{"sent": "big lady", "ann_id": 1720198, "best_split": [1, 2], "split_score": 0.6775346775104556}
+{"sent": "white shirt", "ann_id": 204788, "best_split": [2, 3], "split_score": 0.5171224014045439}
+{"sent": "man in white", "ann_id": 204788, "best_split": [1, 5], "split_score": 0.49644559014948475}
+{"sent": "white shirt and tie", "ann_id": 204788, "best_split": [2, 3], "split_score": 0.5171224014045439}

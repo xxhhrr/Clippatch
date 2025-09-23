@@ -1,0 +1,9 @@
+{"sent": "light gray suitcase", "ann_id": 1187559, "best_split": [2, 3], "split_score": 0.6805019304198235}
+{"sent": "gray bag", "ann_id": 1187559, "best_split": [2, 3], "split_score": 0.6805019304198235}
+{"sent": "gray suitcase at 3 o clock", "ann_id": 1187559, "best_split": [2, 3], "split_score": 0.6805019304198235}
+{"sent": "closest suitcase", "ann_id": 1187275, "best_split": [3, 1], "split_score": 0.4966265601879778}
+{"sent": "luggage closest", "ann_id": 1187275, "best_split": [3, 1], "split_score": 0.4966265601879778}
+{"sent": "nearest case", "ann_id": 1187275, "best_split": [3, 1], "split_score": 0.4966265601879778}
+{"sent": "ogi", "ann_id": 1843773, "best_split": [3, 2], "split_score": 0.3373578919240894}
+{"sent": "red and black luggage", "ann_id": 1843773, "best_split": [5, 1], "split_score": 0.2166993677627571}
+{"sent": "ogi", "ann_id": 1843773, "best_split": [3, 2], "split_score": 0.3373578919240894}

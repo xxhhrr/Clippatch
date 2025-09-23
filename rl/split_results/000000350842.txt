@@ -1,0 +1,17 @@
+{"sent": "furthest lemon", "ann_id": 1913315, "best_split": [2, 2], "split_score": 0.5376106194318576}
+{"sent": "high lemon", "ann_id": 1913315, "best_split": [2, 2], "split_score": 0.5376106194318576}
+{"sent": "lemon closes bananas", "ann_id": 1913315, "best_split": [2, 2], "split_score": 0.5376106194318576}
+{"sent": "orange", "ann_id": 1053073, "best_split": [3, 2], "split_score": 0.7828867569982482}
+{"sent": "an orange", "ann_id": 1053073, "best_split": [1, 3], "split_score": 0.15800189393191277}
+{"sent": "orange", "ann_id": 1053073, "best_split": [3, 2], "split_score": 0.7828867569982482}
+{"sent": "green apple half", "ann_id": 1048786, "best_split": [3, 2], "split_score": 0.5321407274261013}
+{"sent": "green apple further from banana", "ann_id": 1048786, "best_split": [3, 2], "split_score": 0.5321407274261013}
+{"sent": "half green apple under lemon", "ann_id": 1048786, "best_split": [1, 2], "split_score": 0.1817203443805118}
+{"sent": "apple with lemons touching it", "ann_id": 1047430, "best_split": [1, 3], "split_score": 0.5086046139640575}
+{"sent": "green apple in focus", "ann_id": 1047430, "best_split": [2, 3], "split_score": 0.6438479848441395}
+{"sent": "green apple with dimple", "ann_id": 1047430, "best_split": [2, 3], "split_score": 0.6438479848441395}
+{"sent": "banana closest to green apple and orange", "ann_id": 1046716, "best_split": [2, 2], "split_score": 0.40309633025596825}
+{"sent": "banana with black", "ann_id": 1046716, "best_split": [1, 2], "split_score": 0.6235230310067206}
+{"sent": "banana brown tip hard ones like apples just skip past it", "ann_id": 1046716, "best_split": [1, 2], "split_score": 0.6235230310067206}
+{"sent": "corner banana", "ann_id": 1044721, "best_split": [2, 2], "split_score": 0.788265306059609}
+{"sent": "furthest banana", "ann_id": 1044721, "best_split": [2, 2], "split_score": 0.788265306059609}

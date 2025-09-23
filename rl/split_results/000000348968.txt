@@ -1,0 +1,8 @@
+{"sent": "moose shirt", "ann_id": 1708435, "best_split": [1, 3], "split_score": 0.22442748090379347}
+{"sent": "black shirt only", "ann_id": 1708435, "best_split": [3, 2], "split_score": 0.39284309866370004}
+{"sent": "blue shirt", "ann_id": 484274, "best_split": [1, 3], "split_score": 0.26604729728124715}
+{"sent": "man in blue t shir", "ann_id": 484274, "best_split": [3, 3], "split_score": 0.354989035039064}
+{"sent": "blue shirt", "ann_id": 484274, "best_split": [1, 3], "split_score": 0.26604729728124715}
+{"sent": "hat", "ann_id": 478326, "best_split": [1, 3], "split_score": 0.57915057911564}
+{"sent": "ranger", "ann_id": 478326, "best_split": [1, 3], "split_score": 0.57915057911564}
+{"sent": "park ranger", "ann_id": 478326, "best_split": [1, 3], "split_score": 0.57915057911564}

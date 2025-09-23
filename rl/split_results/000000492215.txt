@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 465047, "best_split": [2, 3], "split_score": 0.25964912277854724}
+{"sent": "woman", "ann_id": 465047, "best_split": [2, 3], "split_score": 0.25964912277854724}
+{"sent": "maid", "ann_id": 465047, "best_split": [3, 3], "split_score": 0.29647340103160885}
+{"sent": "man", "ann_id": 448366, "best_split": [5, 1], "split_score": 0.15940745510350152}
+{"sent": "man in white shirt", "ann_id": 448366, "best_split": [3, 3], "split_score": 0.39083969460224294}
+{"sent": "man", "ann_id": 448366, "best_split": [5, 1], "split_score": 0.15940745510350152}

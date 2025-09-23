@@ -1,0 +1,6 @@
+{"sent": "couch by window", "ann_id": 114962, "best_split": [2, 1], "split_score": 0.11506849314618127}
+{"sent": "sofa can only see the side", "ann_id": 114962, "best_split": [2, 1], "split_score": 0.11506849314618127}
+{"sent": "red couch along side wall", "ann_id": 114962, "best_split": [2, 1], "split_score": 0.11506849314618127}
+{"sent": "nearest couch", "ann_id": 114394, "best_split": [3, 2], "split_score": 0.508474576215224}
+{"sent": "close brown couch", "ann_id": 114394, "best_split": [5, 1], "split_score": 0.52969454175967}
+{"sent": "couch closet", "ann_id": 114394, "best_split": [5, 1], "split_score": 0.52969454175967}

@@ -1,0 +1,9 @@
+{"sent": "guy with red tie", "ann_id": 486444, "best_split": [1, 5], "split_score": 0.8271334791299847}
+{"sent": "red tie", "ann_id": 486444, "best_split": [1, 3], "split_score": 0.5136341698531832}
+{"sent": "man with red tie", "ann_id": 486444, "best_split": [1, 5], "split_score": 0.8271334791299847}
+{"sent": "lady cutting cake", "ann_id": 425631, "best_split": [1, 5], "split_score": 0.34282416310669256}
+{"sent": "teal jacket", "ann_id": 425631, "best_split": [3, 3], "split_score": 0.41548463350835035}
+{"sent": "woman in sky blue", "ann_id": 425631, "best_split": [3, 3], "split_score": 0.41548463350835035}
+{"sent": "pasley shirt", "ann_id": 1713720, "best_split": [2, 1], "split_score": 0.09625823260851639}
+{"sent": "lady no sleves", "ann_id": 1713720, "best_split": [3, 1], "split_score": 0.14823405376129498}
+{"sent": "she is reaching", "ann_id": 1713720, "best_split": [3, 1], "split_score": 0.14823405376129498}

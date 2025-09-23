@@ -1,0 +1,5 @@
+{"sent": "sandwich behind other", "ann_id": 312027, "best_split": [2, 3], "split_score": 0.5125541125224147}
+{"sent": "smaller sandwich", "ann_id": 312027, "best_split": [2, 2], "split_score": 0.6936416184561967}
+{"sent": "smaller visable part of sandwich", "ann_id": 312027, "best_split": [2, 3], "split_score": 0.5125541125224147}
+{"sent": "sandwich mostly shown", "ann_id": 309442, "best_split": [1, 2], "split_score": 0.587568603234905}
+{"sent": "biggest closet half", "ann_id": 309442, "best_split": [1, 2], "split_score": 0.587568603234905}

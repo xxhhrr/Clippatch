@@ -1,0 +1,5 @@
+{"sent": "food closest to us", "ann_id": 2112878, "best_split": [1, 3], "split_score": 0.17103040539508746}
+{"sent": "bread with raisins", "ann_id": 2112878, "best_split": [2, 3], "split_score": 0.2729457541459206}
+{"sent": "white food near mug", "ann_id": 1552705, "best_split": [3, 2], "split_score": 0.3441119690704498}
+{"sent": "dough or food next to cup looks white", "ann_id": 1552705, "best_split": [3, 2], "split_score": 0.3441119690704498}
+{"sent": "bread next to mug on plate at 900", "ann_id": 1552705, "best_split": [3, 2], "split_score": 0.3441119690704498}

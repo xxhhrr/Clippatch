@@ -1,0 +1,6 @@
+{"sent": "giraffe walking away", "ann_id": 600005, "best_split": [1, 2], "split_score": 0.28124999998878947}
+{"sent": "giraffe fully visible and also not bent over", "ann_id": 600005, "best_split": [1, 2], "split_score": 0.28124999998878947}
+{"sent": "giraffe walking away full body", "ann_id": 600005, "best_split": [1, 2], "split_score": 0.28124999998878947}
+{"sent": "closest partial giraffe", "ann_id": 598332, "best_split": [1, 3], "split_score": 0.6956126391966576}
+{"sent": "big giraffe", "ann_id": 598332, "best_split": [1, 3], "split_score": 0.6956126391966576}
+{"sent": "closest zebra", "ann_id": 598332, "best_split": [1, 3], "split_score": 0.6956126391966576}

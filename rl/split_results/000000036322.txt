@@ -1,0 +1,5 @@
+{"sent": "arm of the couch opposite red toy", "ann_id": 1603829, "best_split": [3, 1], "split_score": 0.20509977826238915}
+{"sent": "couch behind kid only on side near arm", "ann_id": 1603829, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "the red game controller", "ann_id": 112665, "best_split": [1, 2], "split_score": 0.6947544642580216}
+{"sent": "red controller", "ann_id": 112665, "best_split": [1, 2], "split_score": 0.6947544642580216}
+{"sent": "thing red controller is on", "ann_id": 112665, "best_split": [1, 2], "split_score": 0.6947544642580216}

@@ -1,0 +1,6 @@
+{"sent": "the train with no insides", "ann_id": 175060, "best_split": [3, 1], "split_score": 0.22207314937746758}
+{"sent": "weird train", "ann_id": 175060, "best_split": [3, 1], "split_score": 0.22207314937746758}
+{"sent": "train with green", "ann_id": 175060, "best_split": [3, 1], "split_score": 0.22207314937746758}
+{"sent": "train in lead", "ann_id": 170648, "best_split": [3, 2], "split_score": 0.38080398874199606}
+{"sent": "train with light gray cars", "ann_id": 170648, "best_split": [3, 2], "split_score": 0.38080398874199606}
+{"sent": "longer train", "ann_id": 170648, "best_split": [3, 2], "split_score": 0.38080398874199606}

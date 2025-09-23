@@ -1,0 +1,6 @@
+{"sent": "red bus with no trees by it", "ann_id": 1795264, "best_split": [3, 3], "split_score": 0.6562000289786015}
+{"sent": "tallest bus", "ann_id": 1795264, "best_split": [3, 2], "split_score": 0.46579300376991095}
+{"sent": "red bus with no white stripe", "ann_id": 1795264, "best_split": [3, 3], "split_score": 0.6562000289786015}
+{"sent": "red with streak", "ann_id": 164009, "best_split": [3, 3], "split_score": 0.581371841071282}
+{"sent": "shorter red bus", "ann_id": 164009, "best_split": [3, 1], "split_score": 0.2795798758034248}
+{"sent": "bus with man in doorway", "ann_id": 164009, "best_split": [3, 1], "split_score": 0.2795798758034248}

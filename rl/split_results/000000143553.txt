@@ -1,0 +1,6 @@
+{"sent": "guy in black", "ann_id": 498070, "best_split": [3, 2], "split_score": 0.21891206000012003}
+{"sent": "the man looking at his cell phone", "ann_id": 498070, "best_split": [3, 1], "split_score": 0.11434499451822114}
+{"sent": "black jacket and pants looking at hands", "ann_id": 498070, "best_split": [3, 2], "split_score": 0.21891206000012003}
+{"sent": "playing wii", "ann_id": 451453, "best_split": [1, 3], "split_score": 0.7144827585854935}
+{"sent": "man in main", "ann_id": 451453, "best_split": [1, 3], "split_score": 0.7144827585854935}
+{"sent": "man playing wii", "ann_id": 451453, "best_split": [1, 3], "split_score": 0.7144827585854935}

@@ -1,0 +1,6 @@
+{"sent": "motorcycle not the main one", "ann_id": 152541, "best_split": [1, 2], "split_score": 0.5681554812247739}
+{"sent": "bike behind the main one", "ann_id": 152541, "best_split": [1, 2], "split_score": 0.5681554812247739}
+{"sent": "bike you can barely see", "ann_id": 152541, "best_split": [1, 2], "split_score": 0.5681554812247739}
+{"sent": "motorcycle", "ann_id": 152032, "best_split": [2, 1], "split_score": 0.4324864972886456}
+{"sent": "bike in front", "ann_id": 152032, "best_split": [2, 1], "split_score": 0.4324864972886456}
+{"sent": "motorcycle", "ann_id": 152032, "best_split": [2, 1], "split_score": 0.4324864972886456}

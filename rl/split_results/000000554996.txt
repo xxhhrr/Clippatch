@@ -1,0 +1,5 @@
+{"sent": "donut by fork", "ann_id": 1927668, "best_split": [3, 2], "split_score": 0.2571780869951402}
+{"sent": "lower roll", "ann_id": 1927668, "best_split": [2, 3], "split_score": 0.48162756897637243}
+{"sent": "biscuit next to fork", "ann_id": 1927668, "best_split": [2, 3], "split_score": 0.48162756897637243}
+{"sent": "muffin away from fork", "ann_id": 1928590, "best_split": [2, 3], "split_score": 0.5357142856496484}
+{"sent": "roll furthest from fork", "ann_id": 1928590, "best_split": [5, 1], "split_score": 0.18974700397888256}

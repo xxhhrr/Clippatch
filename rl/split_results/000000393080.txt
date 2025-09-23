@@ -1,0 +1,6 @@
+{"sent": "donut whose hole can clearly be seen", "ann_id": 1080082, "best_split": [1, 5], "split_score": 0.342796033410189}
+{"sent": "donut with a hole", "ann_id": 1080082, "best_split": [1, 5], "split_score": 0.342796033410189}
+{"sent": "doughnut next to powdered one", "ann_id": 1080082, "best_split": [3, 3], "split_score": 0.5646980755533015}
+{"sent": "corner doughnut", "ann_id": 1079459, "best_split": [3, 2], "split_score": 0.6468453079271009}
+{"sent": "donut at 4 o clock", "ann_id": 1079459, "best_split": [3, 2], "split_score": 0.6468453079271009}
+{"sent": "doughnut in corner closest", "ann_id": 1079459, "best_split": [3, 2], "split_score": 0.6468453079271009}

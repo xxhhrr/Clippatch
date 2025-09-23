@@ -1,0 +1,6 @@
+{"sent": "brown area above bowl", "ann_id": 1966704, "best_split": [1, 2], "split_score": 0.18277955479526145}
+{"sent": "blurry part of table", "ann_id": 1966704, "best_split": [1, 2], "split_score": 0.18277955479526145}
+{"sent": "area behind plate at 1200", "ann_id": 1966704, "best_split": [2, 1], "split_score": 0.4444355867169788}
+{"sent": "the table under the plate", "ann_id": 1959759, "best_split": [3, 1], "split_score": 0.9341549085590192}
+{"sent": "section of table under plate", "ann_id": 1959759, "best_split": [3, 1], "split_score": 0.9341549085590192}
+{"sent": "table", "ann_id": 1959759, "best_split": [3, 1], "split_score": 0.9341549085590192}

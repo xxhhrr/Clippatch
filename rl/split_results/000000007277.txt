@@ -1,0 +1,6 @@
+{"sent": "man in striped shirt", "ann_id": 517330, "best_split": [1, 2], "split_score": 0.7534246575079178}
+{"sent": "man", "ann_id": 517330, "best_split": [1, 2], "split_score": 0.7534246575079178}
+{"sent": "man", "ann_id": 517330, "best_split": [1, 2], "split_score": 0.7534246575079178}
+{"sent": "woman with bag", "ann_id": 501712, "best_split": [2, 2], "split_score": 0.6540682101866515}
+{"sent": "the girl", "ann_id": 501712, "best_split": [2, 2], "split_score": 0.6540682101866515}
+{"sent": "girl with bag", "ann_id": 501712, "best_split": [2, 2], "split_score": 0.6540682101866515}

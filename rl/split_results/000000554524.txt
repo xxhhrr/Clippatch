@@ -1,0 +1,12 @@
+{"sent": "full pizza by glass", "ann_id": 1571039, "best_split": [2, 2], "split_score": 0.2937659438541322}
+{"sent": "pizza at 11 0clock", "ann_id": 1571039, "best_split": [3, 2], "split_score": 0.3672490578546021}
+{"sent": "pizza near hand", "ann_id": 1074200, "best_split": [3, 3], "split_score": 0.3184638108835356}
+{"sent": "pizza by the hands", "ann_id": 1074200, "best_split": [3, 3], "split_score": 0.3184638108835356}
+{"sent": "food near hand", "ann_id": 1074200, "best_split": [3, 3], "split_score": 0.3184638108835356}
+{"sent": "disembodied hands", "ann_id": 495676, "best_split": [3, 2], "split_score": 0.3943050192574439}
+{"sent": "white shirt see hands", "ann_id": 495676, "best_split": [3, 2], "split_score": 0.3943050192574439}
+{"sent": "hands", "ann_id": 495676, "best_split": [3, 2], "split_score": 0.3943050192574439}
+{"sent": "gray pants", "ann_id": 464683, "best_split": [3, 2], "split_score": 0.30025020847131534}
+{"sent": "blue clothing no hands", "ann_id": 464683, "best_split": [5, 1], "split_score": 0.26633522724570463}
+{"sent": "blue clothing", "ann_id": 464683, "best_split": [3, 2], "split_score": 0.30025020847131534}
+{"sent": "blue shirt behind pizza", "ann_id": 464683, "best_split": [3, 2], "split_score": 0.30025020847131534}

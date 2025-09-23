@@ -1,0 +1,6 @@
+{"sent": "cat thats partially out of photo", "ann_id": 52521, "best_split": [3, 1], "split_score": 0.3342708599533678}
+{"sent": "gray cat", "ann_id": 52521, "best_split": [1, 2], "split_score": 0.5872927295684274}
+{"sent": "cat at 900", "ann_id": 52521, "best_split": [1, 2], "split_score": 0.5872927295684274}
+{"sent": "no face cat", "ann_id": 50335, "best_split": [3, 1], "split_score": 0.44866833597448313}
+{"sent": "cat xlosest to us", "ann_id": 50335, "best_split": [2, 1], "split_score": 0.6539384682318525}
+{"sent": "cat closest to us", "ann_id": 50335, "best_split": [3, 1], "split_score": 0.44866833597448313}

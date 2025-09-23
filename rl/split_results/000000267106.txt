@@ -1,0 +1,5 @@
+{"sent": "small yellow", "ann_id": 1186428, "best_split": [2, 2], "split_score": 0.4410377358201626}
+{"sent": "sunlight case", "ann_id": 1186428, "best_split": [2, 2], "split_score": 0.4410377358201626}
+{"sent": "brightest case", "ann_id": 1186428, "best_split": [3, 2], "split_score": 0.3959710418322339}
+{"sent": "tall yellow case", "ann_id": 1185468, "best_split": [1, 3], "split_score": 0.5418809698502075}
+{"sent": "big case", "ann_id": 1185468, "best_split": [1, 5], "split_score": 0.45513654093762806}

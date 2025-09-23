@@ -1,0 +1,12 @@
+{"sent": "man on hike", "ann_id": 206462, "best_split": [1, 5], "split_score": 0.45454545449933587}
+{"sent": "man", "ann_id": 206462, "best_split": [1, 5], "split_score": 0.45454545449933587}
+{"sent": "blue shirt", "ann_id": 206462, "best_split": [1, 5], "split_score": 0.45454545449933587}
+{"sent": "woman", "ann_id": 199151, "best_split": [1, 5], "split_score": 0.4306551498997184}
+{"sent": "woman in black tank3", "ann_id": 199151, "best_split": [1, 5], "split_score": 0.4306551498997184}
+{"sent": "black shirt", "ann_id": 199151, "best_split": [3, 2], "split_score": 0.30896438802218873}
+{"sent": "the standing cow", "ann_id": 77022, "best_split": [2, 3], "split_score": 0.6519419546892934}
+{"sent": "standing cow", "ann_id": 77022, "best_split": [2, 3], "split_score": 0.6519419546892934}
+{"sent": "animal standing", "ann_id": 77022, "best_split": [2, 3], "split_score": 0.6519419546892934}
+{"sent": "sitting down", "ann_id": 76240, "best_split": [2, 3], "split_score": 0.5328777864307295}
+{"sent": "sitting its all good", "ann_id": 76240, "best_split": [2, 3], "split_score": 0.5328777864307295}
+{"sent": "sitting animal", "ann_id": 76240, "best_split": [3, 3], "split_score": 0.7779231396928988}

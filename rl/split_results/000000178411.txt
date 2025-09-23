@@ -1,0 +1,8 @@
+{"sent": "lady not looking at the truck", "ann_id": 512846, "best_split": [3, 1], "split_score": 0.11580594678538979}
+{"sent": "lady closest to street", "ann_id": 512846, "best_split": [1, 5], "split_score": 0.34374999996512273}
+{"sent": "woman pointing hand", "ann_id": 476340, "best_split": [1, 5], "split_score": 0.5019920318270561}
+{"sent": "woman purse", "ann_id": 476340, "best_split": [1, 5], "split_score": 0.5019920318270561}
+{"sent": "lady in black coat arm out", "ann_id": 476340, "best_split": [2, 2], "split_score": 0.4052635415611822}
+{"sent": "white plaid jacket", "ann_id": 440297, "best_split": [1, 5], "split_score": 0.5030438311177918}
+{"sent": "plaid shirt", "ann_id": 440297, "best_split": [1, 5], "split_score": 0.5030438311177918}
+{"sent": "man in whitest shirt", "ann_id": 440297, "best_split": [1, 5], "split_score": 0.5030438311177918}

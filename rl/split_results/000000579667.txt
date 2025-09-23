@@ -1,0 +1,6 @@
+{"sent": "cat drinking from faucet", "ann_id": 50194, "best_split": [1, 5], "split_score": 0.18154311647300084}
+{"sent": "cat by faucet", "ann_id": 50194, "best_split": [1, 5], "split_score": 0.18154311647300084}
+{"sent": "higher cat", "ann_id": 50194, "best_split": [1, 5], "split_score": 0.18154311647300084}
+{"sent": "cat under sink", "ann_id": 49369, "best_split": [3, 3], "split_score": 0.4841432532878158}
+{"sent": "black cat under piped", "ann_id": 49369, "best_split": [3, 3], "split_score": 0.4841432532878158}
+{"sent": "laying down cat", "ann_id": 49369, "best_split": [3, 3], "split_score": 0.4841432532878158}

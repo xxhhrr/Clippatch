@@ -1,0 +1,6 @@
+{"sent": "the bear you can only see the head of", "ann_id": 586616, "best_split": [3, 1], "split_score": 0.33766233764540626}
+{"sent": "small bear", "ann_id": 586616, "best_split": [3, 1], "split_score": 0.33766233764540626}
+{"sent": "bear with eyes closed", "ann_id": 586616, "best_split": [3, 1], "split_score": 0.33766233764540626}
+{"sent": "big bear", "ann_id": 586555, "best_split": [1, 2], "split_score": 0.5862758161086353}
+{"sent": "nearest bear", "ann_id": 586555, "best_split": [1, 2], "split_score": 0.5862758161086353}
+{"sent": "bear closest to us", "ann_id": 586555, "best_split": [1, 2], "split_score": 0.5862758161086353}

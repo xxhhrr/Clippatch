@@ -1,0 +1,6 @@
+{"sent": "partial pizza", "ann_id": 1075603, "best_split": [5, 1], "split_score": 0.7778631820928263}
+{"sent": "partially visible pizza", "ann_id": 1075603, "best_split": [5, 1], "split_score": 0.7778631820928263}
+{"sent": "pizza closest to us", "ann_id": 1075603, "best_split": [5, 1], "split_score": 0.7778631820928263}
+{"sent": "pizza further away", "ann_id": 1075512, "best_split": [3, 2], "split_score": 0.34477379091321886}
+{"sent": "whole pizza", "ann_id": 1075512, "best_split": [2, 2], "split_score": 0.2510729613541483}
+{"sent": "farther away pizza", "ann_id": 1075512, "best_split": [3, 2], "split_score": 0.34477379091321886}

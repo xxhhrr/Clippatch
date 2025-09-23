@@ -1,0 +1,6 @@
+{"sent": "stripe shirt", "ann_id": 2206772, "best_split": [1, 5], "split_score": 0.38311688307801167}
+{"sent": "man with striped shirt", "ann_id": 2206772, "best_split": [1, 5], "split_score": 0.38311688307801167}
+{"sent": "white shirt whole body shown", "ann_id": 2206772, "best_split": [2, 2], "split_score": 0.16704805490796282}
+{"sent": "person with arms crossed", "ann_id": 539775, "best_split": [3, 3], "split_score": 0.2712462665936402}
+{"sent": "blue shirt", "ann_id": 539775, "best_split": [3, 2], "split_score": 0.2800672834020114}
+{"sent": "person with arms crossed", "ann_id": 539775, "best_split": [3, 3], "split_score": 0.2712462665936402}

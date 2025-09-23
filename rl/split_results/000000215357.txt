@@ -1,0 +1,6 @@
+{"sent": "rear giraffe", "ann_id": 598843, "best_split": [1, 5], "split_score": 0.4516075016366705}
+{"sent": "giraffe behind other one", "ann_id": 598843, "best_split": [1, 5], "split_score": 0.4516075016366705}
+{"sent": "giraffe looking away", "ann_id": 598843, "best_split": [1, 5], "split_score": 0.4516075016366705}
+{"sent": "the giraffe closest to the grass", "ann_id": 594597, "best_split": [1, 3], "split_score": 0.6655764513151279}
+{"sent": "closer", "ann_id": 594597, "best_split": [1, 2], "split_score": 0.3007594936613684}
+{"sent": "closer giraffe", "ann_id": 594597, "best_split": [1, 3], "split_score": 0.6655764513151279}

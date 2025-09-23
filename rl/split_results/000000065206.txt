@@ -1,0 +1,6 @@
+{"sent": "taller kid", "ann_id": 1743835, "best_split": [2, 2], "split_score": 0.27375749942420874}
+{"sent": "kid with striped sleeves", "ann_id": 1743835, "best_split": [2, 3], "split_score": 0.39978366680370103}
+{"sent": "man", "ann_id": 1743835, "best_split": [2, 2], "split_score": 0.27375749942420874}
+{"sent": "kid with bat", "ann_id": 423998, "best_split": [3, 2], "split_score": 0.2723149336523479}
+{"sent": "toddler in pink", "ann_id": 423998, "best_split": [1, 5], "split_score": 0.593310712497013}
+{"sent": "child in pink sweater", "ann_id": 423998, "best_split": [1, 5], "split_score": 0.593310712497013}

@@ -1,0 +1,9 @@
+{"sent": "the kid", "ann_id": 2207942, "best_split": [3, 3], "split_score": 0.2457761732497074}
+{"sent": "kid", "ann_id": 2207942, "best_split": [3, 3], "split_score": 0.2457761732497074}
+{"sent": "boy", "ann_id": 2207942, "best_split": [3, 3], "split_score": 0.2457761732497074}
+{"sent": "the guys leg in blury view", "ann_id": 1719864, "best_split": [1, 5], "split_score": 0.9374999999048802}
+{"sent": "pants pocket close to us", "ann_id": 1719864, "best_split": [1, 5], "split_score": 0.9374999999048802}
+{"sent": "leg wearing long jeans", "ann_id": 1719864, "best_split": [1, 2], "split_score": 0.368303571413891}
+{"sent": "blue shirt man", "ann_id": 507015, "best_split": [1, 5], "split_score": 0.5714285713705937}
+{"sent": "guy blue shirt", "ann_id": 507015, "best_split": [1, 5], "split_score": 0.5714285713705937}
+{"sent": "dad", "ann_id": 507015, "best_split": [1, 5], "split_score": 0.5714285713705937}

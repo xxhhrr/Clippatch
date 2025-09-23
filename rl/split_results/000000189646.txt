@@ -1,0 +1,6 @@
+{"sent": "part of sandwich by fork", "ann_id": 311734, "best_split": [3, 2], "split_score": 0.4903339191025556}
+{"sent": "sandwich not cut", "ann_id": 311734, "best_split": [3, 2], "split_score": 0.4903339191025556}
+{"sent": "smallest half of sandwich", "ann_id": 311734, "best_split": [3, 2], "split_score": 0.4903339191025556}
+{"sent": "toast with insides showing", "ann_id": 310081, "best_split": [2, 2], "split_score": 0.47890783007231236}
+{"sent": "sandwich sitting on another sandwich", "ann_id": 310081, "best_split": [2, 2], "split_score": 0.47890783007231236}
+{"sent": "grill cheese oozing outwith bacon", "ann_id": 310081, "best_split": [2, 2], "split_score": 0.47890783007231236}

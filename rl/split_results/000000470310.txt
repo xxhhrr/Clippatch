@@ -1,0 +1,6 @@
+{"sent": "largest gray jacket", "ann_id": 216560, "best_split": [1, 2], "split_score": 0.6322729991772499}
+{"sent": "man closest to camera in gray jaket", "ann_id": 216560, "best_split": [1, 2], "split_score": 0.6322729991772499}
+{"sent": "gray bck", "ann_id": 216560, "best_split": [2, 1], "split_score": 0.4260134520899379}
+{"sent": "person in beige suit", "ann_id": 214631, "best_split": [1, 2], "split_score": 0.8304876644733726}
+{"sent": "tan long coat", "ann_id": 214631, "best_split": [1, 2], "split_score": 0.8304876644733726}
+{"sent": "yellow jacket", "ann_id": 214631, "best_split": [1, 2], "split_score": 0.8304876644733726}

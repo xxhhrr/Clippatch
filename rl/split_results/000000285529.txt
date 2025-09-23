@@ -1,0 +1,6 @@
+{"sent": "apple peel full ring next to blade", "ann_id": 2111582, "best_split": [2, 2], "split_score": 0.2619579081423822}
+{"sent": "circular slice near and above knife", "ann_id": 2111582, "best_split": [1, 2], "split_score": 0.13097895407641186}
+{"sent": "approx 1000", "ann_id": 2111582, "best_split": [2, 3], "split_score": 0.3964768339289965}
+{"sent": "huge apple", "ann_id": 1047386, "best_split": [1, 5], "split_score": 0.32018158753453624}
+{"sent": "apple cored", "ann_id": 1047386, "best_split": [1, 5], "split_score": 0.32018158753453624}
+{"sent": "apple core", "ann_id": 1047386, "best_split": [1, 5], "split_score": 0.32018158753453624}

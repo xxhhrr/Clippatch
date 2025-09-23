@@ -1,0 +1,9 @@
+{"sent": "white carpet", "ann_id": 2129476, "best_split": [1, 2], "split_score": 0.5045030019908168}
+{"sent": "white rug", "ann_id": 2129476, "best_split": [1, 2], "split_score": 0.5045030019908168}
+{"sent": "floor", "ann_id": 2129476, "best_split": [1, 2], "split_score": 0.5045030019908168}
+{"sent": "reflected cat", "ann_id": 1402085, "best_split": [3, 2], "split_score": 0.5264227641894292}
+{"sent": "reflection", "ann_id": 1402085, "best_split": [1, 2], "split_score": 0.5078124999797587}
+{"sent": "cats mirror reflection", "ann_id": 1402085, "best_split": [3, 2], "split_score": 0.5264227641894292}
+{"sent": "cat", "ann_id": 48697, "best_split": [3, 1], "split_score": 0.41301508133199694}
+{"sent": "cat looking this way", "ann_id": 48697, "best_split": [3, 1], "split_score": 0.41301508133199694}
+{"sent": "cat not in mirror", "ann_id": 48697, "best_split": [3, 1], "split_score": 0.41301508133199694}

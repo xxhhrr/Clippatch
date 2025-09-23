@@ -1,0 +1,10 @@
+{"sent": "hot dog in container of three next to the one thats on the corner of counter", "ann_id": 2221631, "best_split": [5, 1], "split_score": 0.1400131622128979}
+{"sent": "hot dog between other 2", "ann_id": 2221631, "best_split": [3, 1], "split_score": 0.12867485738653603}
+{"sent": "hot dog closest to us", "ann_id": 2220337, "best_split": [2, 3], "split_score": 0.3730522456034541}
+{"sent": "dog at 7 o clock", "ann_id": 2220337, "best_split": [2, 3], "split_score": 0.3730522456034541}
+{"sent": "two hot dogs", "ann_id": 1898391, "best_split": [2, 2], "split_score": 0.5772319319402637}
+{"sent": "horizontal dogs", "ann_id": 1898391, "best_split": [2, 2], "split_score": 0.5772319319402637}
+{"sent": "hot dogs bacon", "ann_id": 1898391, "best_split": [2, 2], "split_score": 0.5772319319402637}
+{"sent": "hotdog closest to spatula", "ann_id": 1569398, "best_split": [3, 3], "split_score": 0.5544877014897397}
+{"sent": "bacon wrapped hot dog closest to spatula", "ann_id": 1569398, "best_split": [3, 3], "split_score": 0.5544877014897397}
+{"sent": "bacon dog close to spatula no cheese", "ann_id": 1569398, "best_split": [3, 3], "split_score": 0.5544877014897397}

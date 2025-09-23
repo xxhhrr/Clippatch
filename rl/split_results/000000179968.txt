@@ -1,0 +1,12 @@
+{"sent": "gray shirt", "ann_id": 1325795, "best_split": [3, 1], "split_score": 0.09265106150829336}
+{"sent": "gray sweatshirt", "ann_id": 1325795, "best_split": [3, 3], "split_score": 0.23411279226490883}
+{"sent": "the mom the little girl is standing next ot", "ann_id": 1325795, "best_split": [1, 3], "split_score": 0.21090733589461225}
+{"sent": "purple", "ann_id": 1312739, "best_split": [1, 5], "split_score": 0.5164482340904022}
+{"sent": "purple sweatshirt", "ann_id": 1312739, "best_split": [1, 2], "split_score": 0.6952655888877881}
+{"sent": "purple hoodie", "ann_id": 1312739, "best_split": [1, 2], "split_score": 0.6952655888877881}
+{"sent": "little girl standing", "ann_id": 2163208, "best_split": [1, 5], "split_score": 0.3060064934754458}
+{"sent": "little girl standing on the side", "ann_id": 2163208, "best_split": [1, 5], "split_score": 0.3060064934754458}
+{"sent": "little girl", "ann_id": 2163208, "best_split": [2, 1], "split_score": 0.023228719142822808}
+{"sent": "child in plane", "ann_id": 2162398, "best_split": [1, 3], "split_score": 0.2736160188295868}
+{"sent": "boy in plane", "ann_id": 2162398, "best_split": [1, 3], "split_score": 0.2736160188295868}
+{"sent": "kid in airplane", "ann_id": 2162398, "best_split": [1, 3], "split_score": 0.2736160188295868}

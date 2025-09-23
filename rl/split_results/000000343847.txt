@@ -1,0 +1,5 @@
+{"sent": "elephant closest to camera", "ann_id": 584869, "best_split": [1, 2], "split_score": 0.48130580355224384}
+{"sent": "only head visible", "ann_id": 584869, "best_split": [2, 1], "split_score": 0.27870488248705555}
+{"sent": "elephant", "ann_id": 583377, "best_split": [1, 2], "split_score": 0.4405780005789694}
+{"sent": "elephant", "ann_id": 583377, "best_split": [1, 2], "split_score": 0.4405780005789694}
+{"sent": "waiting for other player", "ann_id": 583377, "best_split": [2, 1], "split_score": 0.5257678292419113}

@@ -1,0 +1,6 @@
+{"sent": "bench not by guy", "ann_id": 574483, "best_split": [5, 1], "split_score": 0.31788845002235927}
+{"sent": "bench away from man", "ann_id": 574483, "best_split": [5, 1], "split_score": 0.31788845002235927}
+{"sent": "bench not near man", "ann_id": 574483, "best_split": [5, 1], "split_score": 0.31788845002235927}
+{"sent": "bench by man", "ann_id": 572189, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "bench man is walking past", "ann_id": 572189, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "bench with man walking by", "ann_id": 572189, "best_split": [2, 2], "split_score": 0.27463329079443294}

@@ -1,0 +1,6 @@
+{"sent": "ump", "ann_id": 1728406, "best_split": [3, 1], "split_score": 0.23138954412028145}
+{"sent": "umpire", "ann_id": 1728406, "best_split": [3, 2], "split_score": 0.4243033899583238}
+{"sent": "sorry umpire", "ann_id": 1728406, "best_split": [3, 1], "split_score": 0.23138954412028145}
+{"sent": "batter", "ann_id": 446106, "best_split": [1, 3], "split_score": 0.4831614336723938}
+{"sent": "getting ready to run", "ann_id": 446106, "best_split": [1, 3], "split_score": 0.4831614336723938}
+{"sent": "batter", "ann_id": 446106, "best_split": [1, 3], "split_score": 0.4831614336723938}

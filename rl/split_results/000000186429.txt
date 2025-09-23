@@ -1,0 +1,12 @@
+{"sent": "zebra orange", "ann_id": 591375, "best_split": [2, 1], "split_score": 0.8330676020076105}
+{"sent": "side zebra", "ann_id": 591375, "best_split": [1, 2], "split_score": 0.32195009772559646}
+{"sent": "zebra stripes look pink", "ann_id": 591375, "best_split": [1, 2], "split_score": 0.32195009772559646}
+{"sent": "the zebra whose head and neck you can not see at all", "ann_id": 589732, "best_split": [2, 1], "split_score": 0.3997555012089189}
+{"sent": "closest big stripes", "ann_id": 589732, "best_split": [3, 1], "split_score": 0.327327327314044}
+{"sent": "cornerzebra without head", "ann_id": 589732, "best_split": [2, 1], "split_score": 0.3997555012089189}
+{"sent": "closest zebra", "ann_id": 589444, "best_split": [1, 2], "split_score": 0.6420295157750326}
+{"sent": "zebra looking at us", "ann_id": 589444, "best_split": [1, 2], "split_score": 0.6420295157750326}
+{"sent": "looking at us", "ann_id": 589444, "best_split": [1, 2], "split_score": 0.6420295157750326}
+{"sent": "zebra farthest away in corner", "ann_id": 589194, "best_split": [1, 3], "split_score": 0.21324443438731808}
+{"sent": "blurry animal", "ann_id": 589194, "best_split": [1, 2], "split_score": 0.19515306121671105}
+{"sent": "fartest zebra mouth", "ann_id": 589194, "best_split": [1, 2], "split_score": 0.19515306121671105}

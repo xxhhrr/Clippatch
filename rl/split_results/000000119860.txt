@@ -1,0 +1,5 @@
+{"sent": "closest desert", "ann_id": 1088760, "best_split": [3, 3], "split_score": 0.7948717947282643}
+{"sent": "dessert on white plate", "ann_id": 1088760, "best_split": [3, 3], "split_score": 0.7948717947282643}
+{"sent": "dish in round plate that looks likd dog food", "ann_id": 1086426, "best_split": [2, 3], "split_score": 0.23636763409890416}
+{"sent": "round pie partially eaten", "ann_id": 1086426, "best_split": [3, 2], "split_score": 0.3163993912774904}
+{"sent": "brown cake pie below the chase on cutting board", "ann_id": 1086426, "best_split": [1, 5], "split_score": 0.24868446694127028}

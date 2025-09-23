@@ -1,0 +1,6 @@
+{"sent": "zebra looking at us", "ann_id": 590918, "best_split": [1, 5], "split_score": 0.447739065944623}
+{"sent": "mr zebra", "ann_id": 590918, "best_split": [1, 5], "split_score": 0.447739065944623}
+{"sent": "zebra looking straight", "ann_id": 590918, "best_split": [1, 5], "split_score": 0.447739065944623}
+{"sent": "zebra closest to score box", "ann_id": 589945, "best_split": [2, 3], "split_score": 0.3937115515678438}
+{"sent": "zebra with head turned", "ann_id": 589945, "best_split": [2, 3], "split_score": 0.3937115515678438}
+{"sent": "zebra looking at other zebra", "ann_id": 589945, "best_split": [2, 3], "split_score": 0.3937115515678438}

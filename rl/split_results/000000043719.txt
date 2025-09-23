@@ -1,0 +1,6 @@
+{"sent": "red car", "ann_id": 1341846, "best_split": [3, 3], "split_score": 0.36991990501781075}
+{"sent": "red car", "ann_id": 1341846, "best_split": [3, 3], "split_score": 0.36991990501781075}
+{"sent": "pink car", "ann_id": 1341846, "best_split": [3, 3], "split_score": 0.36991990501781075}
+{"sent": "black car behind red", "ann_id": 344674, "best_split": [2, 3], "split_score": 0.34169884165761355}
+{"sent": "black car near curb", "ann_id": 344674, "best_split": [2, 3], "split_score": 0.34169884165761355}
+{"sent": "parked black car", "ann_id": 344674, "best_split": [2, 3], "split_score": 0.34169884165761355}

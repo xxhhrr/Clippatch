@@ -1,0 +1,6 @@
+{"sent": "recliner in front of clock on shelf", "ann_id": 1943373, "best_split": [1, 5], "split_score": 0.3293298520165944}
+{"sent": "chair nearest big window", "ann_id": 1943373, "best_split": [2, 2], "split_score": 0.4319196428227105}
+{"sent": "chair 300", "ann_id": 1943373, "best_split": [5, 1], "split_score": 0.2217245240584127}
+{"sent": "chair with stripped pillow", "ann_id": 1943051, "best_split": [2, 2], "split_score": 0.4700255101666115}
+{"sent": "brown chair at 8 o clock", "ann_id": 1943051, "best_split": [2, 2], "split_score": 0.4700255101666115}
+{"sent": "chair not next to window", "ann_id": 1943051, "best_split": [3, 1], "split_score": 0.24498614957091489}

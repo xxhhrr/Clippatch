@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 1204605, "best_split": [1, 5], "split_score": 0.42977250244623066}
+{"sent": "hat", "ann_id": 1204605, "best_split": [1, 5], "split_score": 0.42977250244623066}
+{"sent": "boy with red shirt", "ann_id": 1204605, "best_split": [1, 5], "split_score": 0.42977250244623066}
+{"sent": "woman with hair up", "ann_id": 464693, "best_split": [2, 2], "split_score": 0.7051450809417303}
+{"sent": "stripe shirt", "ann_id": 464693, "best_split": [2, 2], "split_score": 0.7051450809417303}
+{"sent": "woman", "ann_id": 464693, "best_split": [1, 2], "split_score": 0.6481625661535284}

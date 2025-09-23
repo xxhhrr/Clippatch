@@ -1,0 +1,12 @@
+{"sent": "yellow flower", "ann_id": 2127472, "best_split": [1, 3], "split_score": 0.6808150363672848}
+{"sent": "green leaves by yellow flower", "ann_id": 2127472, "best_split": [1, 3], "split_score": 0.6808150363672848}
+{"sent": "yellow flower", "ann_id": 2127472, "best_split": [1, 3], "split_score": 0.6808150363672848}
+{"sent": "plant highest", "ann_id": 1607409, "best_split": [1, 2], "split_score": 0.5848174079606979}
+{"sent": "yellow vase", "ann_id": 1607409, "best_split": [1, 2], "split_score": 0.5848174079606979}
+{"sent": "yellow vase with a plant", "ann_id": 1607409, "best_split": [1, 2], "split_score": 0.5848174079606979}
+{"sent": "the green planter", "ann_id": 1155723, "best_split": [3, 1], "split_score": 0.12439401752839639}
+{"sent": "green vase", "ann_id": 1155723, "best_split": [3, 1], "split_score": 0.12439401752839639}
+{"sent": "little green vase", "ann_id": 1155723, "best_split": [3, 1], "split_score": 0.12439401752839639}
+{"sent": "yellow pot", "ann_id": 1151945, "best_split": [3, 3], "split_score": 0.5040500735913062}
+{"sent": "tall planter", "ann_id": 1151945, "best_split": [3, 1], "split_score": 0.35425920440458697}
+{"sent": "yellow pot", "ann_id": 1151945, "best_split": [3, 3], "split_score": 0.5040500735913062}

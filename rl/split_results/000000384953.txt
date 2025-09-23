@@ -1,0 +1,6 @@
+{"sent": "white mug not close to you", "ann_id": 675908, "best_split": [5, 1], "split_score": 0.2363050483120491}
+{"sent": "mug that doesnt show coffee", "ann_id": 675908, "best_split": [5, 1], "split_score": 0.2363050483120491}
+{"sent": "cup cutoff", "ann_id": 675908, "best_split": [5, 1], "split_score": 0.2363050483120491}
+{"sent": "close cup", "ann_id": 674381, "best_split": [3, 3], "split_score": 0.5064377681627165}
+{"sent": "coffee mug with coffee", "ann_id": 674381, "best_split": [3, 3], "split_score": 0.5064377681627165}
+{"sent": "cup near soup", "ann_id": 674381, "best_split": [3, 3], "split_score": 0.5064377681627165}

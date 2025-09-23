@@ -1,0 +1,6 @@
+{"sent": "black cat", "ann_id": 51302, "best_split": [2, 3], "split_score": 0.6558684023962187}
+{"sent": "black cat", "ann_id": 51302, "best_split": [2, 3], "split_score": 0.6558684023962187}
+{"sent": "black kitty", "ann_id": 51302, "best_split": [2, 3], "split_score": 0.6558684023962187}
+{"sent": "brown white", "ann_id": 50945, "best_split": [2, 2], "split_score": 0.5603403816038975}
+{"sent": "white and orange cat", "ann_id": 50945, "best_split": [2, 2], "split_score": 0.5603403816038975}
+{"sent": "brown and white cat", "ann_id": 50945, "best_split": [2, 2], "split_score": 0.5603403816038975}

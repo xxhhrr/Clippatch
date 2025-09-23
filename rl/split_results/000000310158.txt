@@ -1,0 +1,6 @@
+{"sent": "elephant with o butt", "ann_id": 584732, "best_split": [2, 2], "split_score": 0.6680412370703581}
+{"sent": "curled tail", "ann_id": 584732, "best_split": [3, 1], "split_score": 0.27384196184120224}
+{"sent": "butt of elehpant", "ann_id": 584732, "best_split": [2, 1], "split_score": 0.36944127706779356}
+{"sent": "the one she is on", "ann_id": 584117, "best_split": [1, 2], "split_score": 0.5419998584480221}
+{"sent": "elephant woman is on", "ann_id": 584117, "best_split": [2, 1], "split_score": 0.49718290502620643}
+{"sent": "elephant with rider", "ann_id": 584117, "best_split": [1, 2], "split_score": 0.5419998584480221}

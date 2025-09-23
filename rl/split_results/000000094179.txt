@@ -1,0 +1,6 @@
+{"sent": "man without the laptop", "ann_id": 508374, "best_split": [1, 2], "split_score": 0.4414519906230877}
+{"sent": "guy 1", "ann_id": 508374, "best_split": [1, 2], "split_score": 0.49212121211056015}
+{"sent": "man without computer", "ann_id": 508374, "best_split": [1, 2], "split_score": 0.4414519906230877}
+{"sent": "person with computer", "ann_id": 505704, "best_split": [1, 2], "split_score": 0.5657255889025095}
+{"sent": "guy with laptop", "ann_id": 505704, "best_split": [1, 2], "split_score": 0.5657255889025095}
+{"sent": "man with laptop on lap", "ann_id": 505704, "best_split": [1, 2], "split_score": 0.5657255889025095}

@@ -1,0 +1,11 @@
+{"sent": "chair pulled out closest", "ann_id": 1592369, "best_split": [3, 1], "split_score": 0.12569227064015817}
+{"sent": "chair not fully visible away from table", "ann_id": 1592369, "best_split": [2, 1], "split_score": 0.08466198979254376}
+{"sent": "nearest chair with back to us pushed up to table", "ann_id": 1589659, "best_split": [2, 3], "split_score": 0.6167364015999119}
+{"sent": "chair", "ann_id": 1589659, "best_split": [3, 3], "split_score": 0.798824517078283}
+{"sent": "wooden chair from behind can see most of it", "ann_id": 1589659, "best_split": [2, 3], "split_score": 0.6167364015999119}
+{"sent": "closest table without birds", "ann_id": 121473, "best_split": [2, 3], "split_score": 0.9046711152401488}
+{"sent": "table next to the one with birds", "ann_id": 121473, "best_split": [2, 2], "split_score": 0.6135204081143558}
+{"sent": "half table next to birds", "ann_id": 121473, "best_split": [2, 2], "split_score": 0.6135204081143558}
+{"sent": "table with birds on it", "ann_id": 119970, "best_split": [2, 1], "split_score": 0.6070640176361138}
+{"sent": "table with birds", "ann_id": 119970, "best_split": [2, 1], "split_score": 0.6070640176361138}
+{"sent": "birds", "ann_id": 119970, "best_split": [2, 1], "split_score": 0.6070640176361138}

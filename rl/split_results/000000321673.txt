@@ -1,0 +1,6 @@
+{"sent": "giraffe butt", "ann_id": 599557, "best_split": [1, 5], "split_score": 0.7465006361801035}
+{"sent": "giraffe facing away from us", "ann_id": 599557, "best_split": [1, 2], "split_score": 0.37304687498513045}
+{"sent": "body of giraffe", "ann_id": 599557, "best_split": [1, 2], "split_score": 0.37304687498513045}
+{"sent": "big head", "ann_id": 598886, "best_split": [3, 1], "split_score": 0.39256069399012167}
+{"sent": "giraffe head", "ann_id": 598886, "best_split": [3, 1], "split_score": 0.39256069399012167}
+{"sent": "face on fence", "ann_id": 598886, "best_split": [1, 3], "split_score": 0.37666584401602093}

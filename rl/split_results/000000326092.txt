@@ -1,0 +1,6 @@
+{"sent": "hands touching cake", "ann_id": 192392, "best_split": [2, 2], "split_score": 0.32204425136948256}
+{"sent": "hands reaching in", "ann_id": 192392, "best_split": [3, 3], "split_score": 0.6204465334090029}
+{"sent": "hands on cake", "ann_id": 192392, "best_split": [2, 2], "split_score": 0.32204425136948256}
+{"sent": "chef", "ann_id": 191002, "best_split": [2, 1], "split_score": 0.6009566886661366}
+{"sent": "chef", "ann_id": 191002, "best_split": [2, 1], "split_score": 0.6009566886661366}
+{"sent": "chef", "ann_id": 191002, "best_split": [2, 1], "split_score": 0.6009566886661366}

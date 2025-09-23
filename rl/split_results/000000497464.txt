@@ -1,0 +1,9 @@
+{"sent": "guy by the blue surfboard", "ann_id": 1679477, "best_split": [1, 3], "split_score": 0.28384006662412326}
+{"sent": "tall man in white", "ann_id": 1679477, "best_split": [1, 2], "split_score": 0.3222257652932786}
+{"sent": "taller white shirt", "ann_id": 1679477, "best_split": [1, 2], "split_score": 0.3222257652932786}
+{"sent": "girl", "ann_id": 502156, "best_split": [1, 5], "split_score": 0.60329505735364}
+{"sent": "woman in white tshirt", "ann_id": 502156, "best_split": [1, 5], "split_score": 0.60329505735364}
+{"sent": "woman", "ann_id": 502156, "best_split": [1, 5], "split_score": 0.60329505735364}
+{"sent": "blue shirt", "ann_id": 490850, "best_split": [1, 5], "split_score": 0.6713532512560029}
+{"sent": "blue stripes", "ann_id": 490850, "best_split": [1, 3], "split_score": 0.1930407161327827}
+{"sent": "man in blue shirt", "ann_id": 490850, "best_split": [1, 5], "split_score": 0.6713532512560029}

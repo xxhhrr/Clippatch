@@ -1,0 +1,3 @@
+{"sent": "woman next to man", "ann_id": 551004, "best_split": [3, 2], "split_score": 0.4805194804755332}
+{"sent": "bride", "ann_id": 551004, "best_split": [1, 5], "split_score": 0.32943995205679544}
+{"sent": "woman in white", "ann_id": 551004, "best_split": [1, 5], "split_score": 0.32943995205679544}

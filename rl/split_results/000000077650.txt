@@ -1,0 +1,6 @@
+{"sent": "woman hair down pink shirt red shoes", "ann_id": 475600, "best_split": [1, 5], "split_score": 0.2835249041898707}
+{"sent": "long hair woman", "ann_id": 475600, "best_split": [3, 3], "split_score": 0.23893805306877086}
+{"sent": "holding umbrella", "ann_id": 475600, "best_split": [1, 5], "split_score": 0.2835249041898707}
+{"sent": "woman in purple", "ann_id": 491419, "best_split": [1, 5], "split_score": 0.33265116275975337}
+{"sent": "girl no umbrella", "ann_id": 491419, "best_split": [1, 5], "split_score": 0.33265116275975337}
+{"sent": "woman with large bag", "ann_id": 491419, "best_split": [2, 3], "split_score": 0.34040764862992146}

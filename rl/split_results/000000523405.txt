@@ -1,0 +1,6 @@
+{"sent": "bird casting shadow on bird", "ann_id": 41564, "best_split": [1, 5], "split_score": 0.3785294117368728}
+{"sent": "bird with most light on it", "ann_id": 41564, "best_split": [1, 5], "split_score": 0.3785294117368728}
+{"sent": "bird closest to us", "ann_id": 41564, "best_split": [1, 5], "split_score": 0.3785294117368728}
+{"sent": "bird with shadow on body", "ann_id": 39273, "best_split": [1, 3], "split_score": 0.4244666956669315}
+{"sent": "bid in between", "ann_id": 39273, "best_split": [1, 3], "split_score": 0.4244666956669315}
+{"sent": "closest bird eye open", "ann_id": 39273, "best_split": [1, 3], "split_score": 0.4244666956669315}

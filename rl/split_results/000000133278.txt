@@ -1,0 +1,6 @@
+{"sent": "bear horizontal in the water", "ann_id": 587886, "best_split": [2, 2], "split_score": 0.29604643863382124}
+{"sent": "bear half under", "ann_id": 587886, "best_split": [1, 2], "split_score": 0.14921714375497322}
+{"sent": "half bear", "ann_id": 587886, "best_split": [1, 2], "split_score": 0.14921714375497322}
+{"sent": "larger bear head", "ann_id": 586946, "best_split": [3, 2], "split_score": 0.4819014391101285}
+{"sent": "the bear next to the submerged bear", "ann_id": 586946, "best_split": [3, 2], "split_score": 0.4819014391101285}
+{"sent": "looking at the other bear", "ann_id": 586946, "best_split": [3, 2], "split_score": 0.4819014391101285}

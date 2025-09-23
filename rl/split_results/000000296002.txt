@@ -1,0 +1,12 @@
+{"sent": "glass absolute corner word hall leads to it", "ann_id": 1500991, "best_split": [1, 3], "split_score": 0.39584704683167693}
+{"sent": "closest wine partially out", "ann_id": 1500991, "best_split": [1, 5], "split_score": 0.5569098068107153}
+{"sent": "wine closest to corner of 7pm", "ann_id": 1500746, "best_split": [2, 3], "split_score": 0.6918194639641527}
+{"sent": "wine glass at 700", "ann_id": 1500746, "best_split": [2, 3], "split_score": 0.6918194639641527}
+{"sent": "glass at 8pm", "ann_id": 1500746, "best_split": [3, 1], "split_score": 0.18446280990864403}
+{"sent": "glass closest to green and white striped cloth", "ann_id": 1500431, "best_split": [1, 3], "split_score": 0.4591578185051184}
+{"sent": "drink straight ahead", "ann_id": 1499749, "best_split": [3, 1], "split_score": 0.183927091954022}
+{"sent": "the wine glass in main focus", "ann_id": 1499749, "best_split": [3, 1], "split_score": 0.183927091954022}
+{"sent": "glass focus is on", "ann_id": 1499749, "best_split": [3, 1], "split_score": 0.183927091954022}
+{"sent": "glass at 2 o clock", "ann_id": 1497240, "best_split": [3, 3], "split_score": 0.49741046826474816}
+{"sent": "glass at 2", "ann_id": 1497240, "best_split": [3, 3], "split_score": 0.49741046826474816}
+{"sent": "wine glass diagonal of hall nearer lighter food", "ann_id": 1497240, "best_split": [3, 3], "split_score": 0.49741046826474816}

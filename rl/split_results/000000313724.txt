@@ -1,0 +1,6 @@
+{"sent": "bear with head showing", "ann_id": 586760, "best_split": [1, 2], "split_score": 0.4185267856976034}
+{"sent": "bear rising out of the water", "ann_id": 586760, "best_split": [1, 2], "split_score": 0.4185267856976034}
+{"sent": "the taller bear", "ann_id": 586760, "best_split": [1, 2], "split_score": 0.4185267856976034}
+{"sent": "bear without face showing", "ann_id": 586652, "best_split": [3, 2], "split_score": 0.4211536001776983}
+{"sent": "bear with head in water", "ann_id": 586652, "best_split": [3, 1], "split_score": 0.33730715286039153}
+{"sent": "bear with back to us", "ann_id": 586652, "best_split": [3, 2], "split_score": 0.4211536001776983}

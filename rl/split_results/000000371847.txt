@@ -1,0 +1,9 @@
+{"sent": "something wicker looking on someones lap off the table where the two water glasses are", "ann_id": 2163340, "best_split": [2, 3], "split_score": 0.6326042786383884}
+{"sent": "lap of person closest to our score not the person holding the fork", "ann_id": 2163340, "best_split": [2, 1], "split_score": 0.21412627550166907}
+{"sent": "legs of person holding fork", "ann_id": 2163340, "best_split": [2, 1], "split_score": 0.21412627550166907}
+{"sent": "checkered shirt", "ann_id": 255968, "best_split": [1, 5], "split_score": 0.8907532371976332}
+{"sent": "red shirt", "ann_id": 255968, "best_split": [1, 5], "split_score": 0.8907532371976332}
+{"sent": "red plaid shirt", "ann_id": 255968, "best_split": [1, 5], "split_score": 0.8907532371976332}
+{"sent": "shirt with writting", "ann_id": 187722, "best_split": [3, 3], "split_score": 0.49816936335205275}
+{"sent": "guy", "ann_id": 187722, "best_split": [3, 3], "split_score": 0.49816936335205275}
+{"sent": "guy in black", "ann_id": 187722, "best_split": [3, 3], "split_score": 0.49816936335205275}

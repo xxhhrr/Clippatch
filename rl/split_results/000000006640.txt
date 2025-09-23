@@ -1,0 +1,12 @@
+{"sent": "lighter blue shirt reaching in pizza", "ann_id": 523803, "best_split": [3, 2], "split_score": 0.4323115758793861}
+{"sent": "man reaching with straight arm", "ann_id": 523803, "best_split": [3, 2], "split_score": 0.4323115758793861}
+{"sent": "guy reaching over other guy", "ann_id": 523803, "best_split": [3, 2], "split_score": 0.4323115758793861}
+{"sent": "man without hat and white tag on shirt", "ann_id": 2164567, "best_split": [5, 1], "split_score": 0.1779945625957145}
+{"sent": "number 3 man", "ann_id": 2164567, "best_split": [2, 1], "split_score": 0.048205415236542176}
+{"sent": "man without hat and without mustache", "ann_id": 2164567, "best_split": [5, 1], "split_score": 0.1779945625957145}
+{"sent": "pizza maker in blue", "ann_id": 2163940, "best_split": [1, 3], "split_score": 0.5841481172985152}
+{"sent": "colored man fixing pizza", "ann_id": 2163940, "best_split": [1, 3], "split_score": 0.5841481172985152}
+{"sent": "blue shirt prepping pizza", "ann_id": 2163940, "best_split": [1, 3], "split_score": 0.5841481172985152}
+{"sent": "man no hat mustache", "ann_id": 505736, "best_split": [2, 3], "split_score": 0.35807774952548566}
+{"sent": "man on side no ha", "ann_id": 505736, "best_split": [5, 1], "split_score": 0.1580838323234967}
+{"sent": "guy by register", "ann_id": 505736, "best_split": [3, 1], "split_score": 0.19055793990394002}

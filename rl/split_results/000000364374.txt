@@ -1,0 +1,6 @@
+{"sent": "sblack and white sign", "ann_id": 1200244, "best_split": [3, 2], "split_score": 0.30405405401736796}
+{"sent": "a stop sign", "ann_id": 1200244, "best_split": [1, 5], "split_score": 0.19045786839260698}
+{"sent": "the actual stop word", "ann_id": 1200244, "best_split": [3, 2], "split_score": 0.30405405401736796}
+{"sent": "red sign", "ann_id": 1200026, "best_split": [2, 2], "split_score": 0.39875637751923176}
+{"sent": "the stop sign", "ann_id": 1200026, "best_split": [2, 2], "split_score": 0.39875637751923176}
+{"sent": "red stop sign", "ann_id": 1200026, "best_split": [2, 2], "split_score": 0.39875637751923176}

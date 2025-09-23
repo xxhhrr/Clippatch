@@ -1,0 +1,6 @@
+{"sent": "cat with head on the others butt", "ann_id": 52395, "best_split": [1, 2], "split_score": 0.517491254354341}
+{"sent": "cat laying on other cats butt", "ann_id": 52395, "best_split": [1, 2], "split_score": 0.517491254354341}
+{"sent": "kitty laying on other kitty", "ann_id": 52395, "best_split": [1, 2], "split_score": 0.517491254354341}
+{"sent": "cat not the one with white paws", "ann_id": 47423, "best_split": [3, 2], "split_score": 0.47502944637956246}
+{"sent": "cat under", "ann_id": 47423, "best_split": [3, 2], "split_score": 0.47502944637956246}
+{"sent": "cat whos head is not on other cats butt", "ann_id": 47423, "best_split": [3, 2], "split_score": 0.47502944637956246}

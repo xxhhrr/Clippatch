@@ -1,0 +1,12 @@
+{"sent": "man with shirt", "ann_id": 493420, "best_split": [2, 1], "split_score": 0.5579190470232794}
+{"sent": "laying guy", "ann_id": 493420, "best_split": [2, 1], "split_score": 0.5579190470232794}
+{"sent": "man gray shirt", "ann_id": 493420, "best_split": [2, 1], "split_score": 0.5579190470232794}
+{"sent": "naked", "ann_id": 446750, "best_split": [1, 2], "split_score": 0.5078587992598425}
+{"sent": "shirtless", "ann_id": 446750, "best_split": [1, 2], "split_score": 0.5078587992598425}
+{"sent": "no shirt", "ann_id": 446750, "best_split": [1, 2], "split_score": 0.5078587992598425}
+{"sent": "sofa", "ann_id": 116057, "best_split": [2, 1], "split_score": 0.6879443780064196}
+{"sent": "couch", "ann_id": 116057, "best_split": [2, 1], "split_score": 0.6879443780064196}
+{"sent": "only sofa", "ann_id": 116057, "best_split": [2, 1], "split_score": 0.6879443780064196}
+{"sent": "chair with no people", "ann_id": 114383, "best_split": [1, 5], "split_score": 0.5797047280340399}
+{"sent": "couch with no homoeroticism", "ann_id": 114383, "best_split": [1, 5], "split_score": 0.5797047280340399}
+{"sent": "empty couch behind glasses guy", "ann_id": 114383, "best_split": [2, 3], "split_score": 0.5054966626908621}

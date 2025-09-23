@@ -1,0 +1,6 @@
+{"sent": "side of screen farthest away", "ann_id": 1969087, "best_split": [2, 2], "split_score": 0.2660235969175683}
+{"sent": "the reflection of the tv", "ann_id": 1969087, "best_split": [2, 1], "split_score": 0.13301179846408595}
+{"sent": "farthest monitor", "ann_id": 1969087, "best_split": [2, 2], "split_score": 0.2660235969175683}
+{"sent": "screen next to banana", "ann_id": 1969069, "best_split": [2, 1], "split_score": 0.5545280612023865}
+{"sent": "a screen close to banana", "ann_id": 1969069, "best_split": [2, 1], "split_score": 0.5545280612023865}
+{"sent": "the big tv near the banana", "ann_id": 1969069, "best_split": [2, 1], "split_score": 0.5545280612023865}

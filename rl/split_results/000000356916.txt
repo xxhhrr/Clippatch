@@ -1,0 +1,7 @@
+{"sent": "the table thats further away", "ann_id": 123586, "best_split": [3, 2], "split_score": 0.5589991762192134}
+{"sent": "far table", "ann_id": 123586, "best_split": [3, 3], "split_score": 0.5183497536307451}
+{"sent": "far table", "ann_id": 123586, "best_split": [3, 3], "split_score": 0.5183497536307451}
+{"sent": "table with flowers", "ann_id": 123497, "best_split": [2, 1], "split_score": 0.6969068877273236}
+{"sent": "table with flowers on it", "ann_id": 123497, "best_split": [2, 1], "split_score": 0.6969068877273236}
+{"sent": "table supporting flowers near us", "ann_id": 123497, "best_split": [2, 1], "split_score": 0.6969068877273236}
+{"sent": "the table with the flowers on it", "ann_id": 123497, "best_split": [2, 1], "split_score": 0.6969068877273236}

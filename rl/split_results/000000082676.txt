@@ -1,0 +1,6 @@
+{"sent": "partial bike", "ann_id": 148661, "best_split": [2, 3], "split_score": 0.8489757026144621}
+{"sent": "bike partially hidden by one with denim clad man on it", "ann_id": 148661, "best_split": [2, 2], "split_score": 0.5768494897499322}
+{"sent": "silver bike farthest", "ann_id": 148661, "best_split": [2, 3], "split_score": 0.8489757026144621}
+{"sent": "honda", "ann_id": 147912, "best_split": [2, 1], "split_score": 0.6074179164801836}
+{"sent": "closest bike", "ann_id": 147912, "best_split": [2, 1], "split_score": 0.6074179164801836}
+{"sent": "orange bike", "ann_id": 147912, "best_split": [2, 1], "split_score": 0.6074179164801836}

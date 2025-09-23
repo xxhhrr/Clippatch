@@ -1,0 +1,9 @@
+{"sent": "last place animal", "ann_id": 1817781, "best_split": [2, 1], "split_score": 0.05466572749656492}
+{"sent": "the lowest one", "ann_id": 1817781, "best_split": [3, 1], "split_score": 0.2298278070191249}
+{"sent": "animal closest", "ann_id": 1817781, "best_split": [2, 1], "split_score": 0.05466572749656492}
+{"sent": "the animal on the higher part of the ground", "ann_id": 275612, "best_split": [3, 2], "split_score": 0.4490405116792068}
+{"sent": "highest one", "ann_id": 275612, "best_split": [3, 2], "split_score": 0.4490405116792068}
+{"sent": "animal above them all", "ann_id": 275612, "best_split": [3, 2], "split_score": 0.4490405116792068}
+{"sent": "animal half way up", "ann_id": 63592, "best_split": [1, 2], "split_score": 0.19442984760174048}
+{"sent": "animal inbetween", "ann_id": 63592, "best_split": [1, 2], "split_score": 0.19442984760174048}
+{"sent": "animal following one and leading one", "ann_id": 63592, "best_split": [3, 3], "split_score": 0.5111386137981264}

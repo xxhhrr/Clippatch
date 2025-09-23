@@ -1,0 +1,5 @@
+{"sent": "horse with less of a mane", "ann_id": 54536, "best_split": [3, 2], "split_score": 0.34285714284156904}
+{"sent": "white nose", "ann_id": 54536, "best_split": [1, 2], "split_score": 0.6863565270910283}
+{"sent": "horse long white face", "ann_id": 54536, "best_split": [1, 2], "split_score": 0.6863565270910283}
+{"sent": "horse least white on face", "ann_id": 53802, "best_split": [3, 1], "split_score": 0.32498689039312445}
+{"sent": "horse with thin white stripe on head", "ann_id": 53802, "best_split": [1, 3], "split_score": 0.43636751224201065}

@@ -1,0 +1,5 @@
+{"sent": "largest black area", "ann_id": 2074218, "best_split": [2, 1], "split_score": 0.7629120512223772}
+{"sent": "black background area directly above bike", "ann_id": 2074218, "best_split": [1, 2], "split_score": 0.35610707593470453}
+{"sent": "dark semicircular thing", "ann_id": 2074218, "best_split": [2, 1], "split_score": 0.7629120512223772}
+{"sent": "pink umbrella", "ann_id": 286499, "best_split": [5, 1], "split_score": 0.6733629514512881}
+{"sent": "the red umbrella", "ann_id": 286499, "best_split": [5, 1], "split_score": 0.6733629514512881}

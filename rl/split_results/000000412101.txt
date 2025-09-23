@@ -1,0 +1,6 @@
+{"sent": "the kitchen chair", "ann_id": 104344, "best_split": [1, 2], "split_score": 0.24244370559761055}
+{"sent": "chair near us nearer wood floor", "ann_id": 104344, "best_split": [3, 2], "split_score": 0.6637360363401184}
+{"sent": "chair closest to us not most in corner near the silverware", "ann_id": 104344, "best_split": [3, 1], "split_score": 0.47037886097548387}
+{"sent": "chair with its back to camera", "ann_id": 103736, "best_split": [3, 2], "split_score": 0.532094594530394}
+{"sent": "chair not facing us with less of seat showing", "ann_id": 103736, "best_split": [3, 2], "split_score": 0.532094594530394}
+{"sent": "chair in corner not fully seen", "ann_id": 103736, "best_split": [1, 3], "split_score": 0.03880803880611781}

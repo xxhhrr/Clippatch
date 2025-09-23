@@ -1,0 +1,6 @@
+{"sent": "kid", "ann_id": 200470, "best_split": [2, 3], "split_score": 0.4719208071128954}
+{"sent": "child", "ann_id": 200470, "best_split": [2, 3], "split_score": 0.4719208071128954}
+{"sent": "little boy", "ann_id": 200470, "best_split": [2, 3], "split_score": 0.4719208071128954}
+{"sent": "man puts down birthday cake", "ann_id": 200239, "best_split": [1, 2], "split_score": 0.5918494862332737}
+{"sent": "standing man", "ann_id": 200239, "best_split": [1, 2], "split_score": 0.5918494862332737}
+{"sent": "black shirt", "ann_id": 200239, "best_split": [1, 2], "split_score": 0.5918494862332737}

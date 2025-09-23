@@ -1,0 +1,6 @@
+{"sent": "bus that is not in full view", "ann_id": 366143, "best_split": [3, 2], "split_score": 0.2493557977949102}
+{"sent": "partial butt of bus", "ann_id": 366143, "best_split": [3, 2], "split_score": 0.2493557977949102}
+{"sent": "end of the green and blue bus", "ann_id": 366143, "best_split": [2, 3], "split_score": 0.2607260725811855}
+{"sent": "green bus you can see all of", "ann_id": 365719, "best_split": [3, 1], "split_score": 0.42156990648308024}
+{"sent": "reading station bus", "ann_id": 365719, "best_split": [3, 1], "split_score": 0.42156990648308024}
+{"sent": "closest bus", "ann_id": 365719, "best_split": [3, 1], "split_score": 0.42156990648308024}

@@ -1,0 +1,5 @@
+{"sent": "chair bird is on", "ann_id": 109798, "best_split": [1, 3], "split_score": 0.25717287641408015}
+{"sent": "chair bird perches on", "ann_id": 109798, "best_split": [1, 3], "split_score": 0.25717287641408015}
+{"sent": "chair at table", "ann_id": 101308, "best_split": [1, 3], "split_score": 0.7250879598828143}
+{"sent": "empty chair", "ann_id": 101308, "best_split": [1, 3], "split_score": 0.7250879598828143}
+{"sent": "chair on oppisit of bird", "ann_id": 101308, "best_split": [1, 2], "split_score": 0.4923469387558854}

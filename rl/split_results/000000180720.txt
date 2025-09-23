@@ -1,0 +1,8 @@
+{"sent": "blue chair closest to white sofa", "ann_id": 1939221, "best_split": [2, 3], "split_score": 0.7320430106739738}
+{"sent": "furthest away green chair", "ann_id": 1939221, "best_split": [2, 3], "split_score": 0.7320430106739738}
+{"sent": "couch over by smaller picture on wall", "ann_id": 114708, "best_split": [5, 1], "split_score": 0.37053452704808665}
+{"sent": "couch by light that is off", "ann_id": 114708, "best_split": [5, 1], "split_score": 0.37053452704808665}
+{"sent": "white couch opposite of blue couches", "ann_id": 114708, "best_split": [5, 1], "split_score": 0.37053452704808665}
+{"sent": "white couch below the colorful painting", "ann_id": 98595, "best_split": [3, 2], "split_score": 0.5914491722766884}
+{"sent": "sofa near painting", "ann_id": 98595, "best_split": [3, 2], "split_score": 0.5914491722766884}
+{"sent": "couch facing tv", "ann_id": 98595, "best_split": [3, 2], "split_score": 0.5914491722766884}

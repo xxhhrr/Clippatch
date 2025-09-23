@@ -1,0 +1,9 @@
+{"sent": "car behind arm", "ann_id": 1774389, "best_split": [1, 3], "split_score": 0.9295366794806023}
+{"sent": "white van", "ann_id": 1774389, "best_split": [1, 3], "split_score": 0.9295366794806023}
+{"sent": "zeebra in back", "ann_id": 591985, "best_split": [3, 2], "split_score": 0.4136622390564783}
+{"sent": "zeeb not nearer", "ann_id": 591985, "best_split": [1, 2], "split_score": 0.38233418365822963}
+{"sent": "zebra in background", "ann_id": 591985, "best_split": [1, 2], "split_score": 0.38233418365822963}
+{"sent": "zebra", "ann_id": 591663, "best_split": [1, 2], "split_score": 0.6300234864095112}
+{"sent": "main zebra", "ann_id": 591663, "best_split": [1, 2], "split_score": 0.6300234864095112}
+{"sent": "zebra that we can see the clearest", "ann_id": 591663, "best_split": [1, 2], "split_score": 0.6300234864095112}
+{"sent": "zebra", "ann_id": 591663, "best_split": [1, 2], "split_score": 0.6300234864095112}

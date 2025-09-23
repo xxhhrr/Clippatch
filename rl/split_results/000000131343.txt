@@ -1,0 +1,10 @@
+{"sent": "lower part of veggie pizza", "ann_id": 1922930, "best_split": [1, 2], "split_score": 0.2967846016828887}
+{"sent": "corner of the closest pizza", "ann_id": 1922930, "best_split": [1, 2], "split_score": 0.2967846016828887}
+{"sent": "far pizza", "ann_id": 1077245, "best_split": [2, 2], "split_score": 0.038229376255141514}
+{"sent": "plate near red shirt", "ann_id": 1077245, "best_split": [5, 1], "split_score": 0.25993437839410005}
+{"sent": "pizza by red", "ann_id": 1077245, "best_split": [2, 3], "split_score": 0.17484662575011056}
+{"sent": "pizza with bacon stuff not infront of person", "ann_id": 1076591, "best_split": [2, 2], "split_score": 0.5722103259122682}
+{"sent": "pizza with ham", "ann_id": 1076591, "best_split": [2, 2], "split_score": 0.5722103259122682}
+{"sent": "clear portion of closest pizza to us", "ann_id": 1075717, "best_split": [1, 2], "split_score": 0.3447555369738624}
+{"sent": "pizza with big black spot on crust", "ann_id": 1075717, "best_split": [1, 2], "split_score": 0.3447555369738624}
+{"sent": "half of greens pizza closed to ham pizza", "ann_id": 1075717, "best_split": [1, 2], "split_score": 0.3447555369738624}

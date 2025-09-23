@@ -1,0 +1,9 @@
+{"sent": "laptop", "ann_id": 1103429, "best_split": [2, 2], "split_score": 0.6221492075362615}
+{"sent": "screen", "ann_id": 1103429, "best_split": [1, 2], "split_score": 0.4424518201115612}
+{"sent": "laptop", "ann_id": 1103429, "best_split": [2, 2], "split_score": 0.6221492075362615}
+{"sent": "bowl of dark beans", "ann_id": 1038958, "best_split": [2, 3], "split_score": 0.38768199671970394}
+{"sent": "chocolate cake", "ann_id": 1038958, "best_split": [2, 3], "split_score": 0.38768199671970394}
+{"sent": "chili with cheese swirl", "ann_id": 1038958, "best_split": [2, 3], "split_score": 0.38768199671970394}
+{"sent": "bowl with mushrooms and carrots", "ann_id": 717812, "best_split": [2, 3], "split_score": 0.49372586866629753}
+{"sent": "salad", "ann_id": 717812, "best_split": [2, 3], "split_score": 0.49372586866629753}
+{"sent": "plate of food", "ann_id": 717812, "best_split": [2, 3], "split_score": 0.49372586866629753}

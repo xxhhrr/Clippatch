@@ -1,0 +1,6 @@
+{"sent": "car hood you can see", "ann_id": 142191, "best_split": [3, 1], "split_score": 0.2667712355051417}
+{"sent": "car bumper", "ann_id": 142191, "best_split": [3, 1], "split_score": 0.2667712355051417}
+{"sent": "black sedan behind yellow pole", "ann_id": 142191, "best_split": [3, 1], "split_score": 0.2667712355051417}
+{"sent": "van", "ann_id": 139706, "best_split": [3, 2], "split_score": 0.6505787900811633}
+{"sent": "the suv", "ann_id": 139706, "best_split": [3, 2], "split_score": 0.6505787900811633}
+{"sent": "black van", "ann_id": 139706, "best_split": [3, 2], "split_score": 0.6505787900811633}

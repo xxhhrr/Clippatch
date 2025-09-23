@@ -1,0 +1,11 @@
+{"sent": "bird closest to us", "ann_id": 44179, "best_split": [1, 2], "split_score": 0.5189732142650282}
+{"sent": "brown bird closest to apple", "ann_id": 44179, "best_split": [1, 2], "split_score": 0.5189732142650282}
+{"sent": "bird in back", "ann_id": 42629, "best_split": [1, 2], "split_score": 0.28400031886623084}
+{"sent": "300 bird", "ann_id": 42629, "best_split": [3, 1], "split_score": 0.2164964327764463}
+{"sent": "bird with the highest head", "ann_id": 42629, "best_split": [3, 1], "split_score": 0.2164964327764463}
+{"sent": "bird with yellow beak", "ann_id": 40243, "best_split": [2, 3], "split_score": 0.6734336716246557}
+{"sent": "bird near apple", "ann_id": 40243, "best_split": [2, 3], "split_score": 0.6734336716246557}
+{"sent": "black bird", "ann_id": 40243, "best_split": [2, 3], "split_score": 0.6734336716246557}
+{"sent": "number two dark brown bird", "ann_id": 36395, "best_split": [3, 1], "split_score": 0.3364301027795926}
+{"sent": "brown bird between two ther brown birds", "ann_id": 36395, "best_split": [3, 2], "split_score": 0.6179945470445325}
+{"sent": "bird looking up body hidden by other bird", "ann_id": 36395, "best_split": [3, 1], "split_score": 0.3364301027795926}

@@ -1,0 +1,9 @@
+{"sent": "biggest bus on side", "ann_id": 1794302, "best_split": [1, 3], "split_score": 0.5596939080193881}
+{"sent": "bus not facing same way as others", "ann_id": 1794302, "best_split": [1, 3], "split_score": 0.5596939080193881}
+{"sent": "large bus", "ann_id": 1794302, "best_split": [1, 3], "split_score": 0.5596939080193881}
+{"sent": "smallest red bus", "ann_id": 168490, "best_split": [3, 1], "split_score": 0.2593320235629012}
+{"sent": "carousel", "ann_id": 168490, "best_split": [3, 1], "split_score": 0.2593320235629012}
+{"sent": "short square bus", "ann_id": 168490, "best_split": [3, 1], "split_score": 0.2593320235629012}
+{"sent": "bus with white words above windshield", "ann_id": 168195, "best_split": [3, 3], "split_score": 0.3891968727513008}
+{"sent": "bus with black sign", "ann_id": 168195, "best_split": [3, 3], "split_score": 0.3891968727513008}
+{"sent": "tall bus next to short bus", "ann_id": 168195, "best_split": [3, 1], "split_score": 0.33965728272689033}

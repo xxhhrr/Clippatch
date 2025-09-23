@@ -1,0 +1,6 @@
+{"sent": "the elephant that does not have his truck in his mouth", "ann_id": 583875, "best_split": [2, 1], "split_score": 0.3966652040223539}
+{"sent": "elephant unclurled trunk", "ann_id": 583875, "best_split": [2, 2], "split_score": 0.617402269822358}
+{"sent": "elephant with trunk down", "ann_id": 583875, "best_split": [2, 2], "split_score": 0.617402269822358}
+{"sent": "elephant with smaller tusks", "ann_id": 582865, "best_split": [2, 2], "split_score": 0.5929401876598305}
+{"sent": "elephant with small trunk", "ann_id": 582865, "best_split": [2, 2], "split_score": 0.5929401876598305}
+{"sent": "tusks are hidden on this elephant", "ann_id": 582865, "best_split": [2, 2], "split_score": 0.5929401876598305}

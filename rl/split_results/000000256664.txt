@@ -1,0 +1,6 @@
+{"sent": "person in green jacket", "ann_id": 2153998, "best_split": [3, 3], "split_score": 0.7586705200941707}
+{"sent": "olive colored shirt in the corner", "ann_id": 2153998, "best_split": [3, 3], "split_score": 0.7586705200941707}
+{"sent": "green person", "ann_id": 2153998, "best_split": [3, 3], "split_score": 0.7586705200941707}
+{"sent": "background white shirt holding phone", "ann_id": 440800, "best_split": [3, 2], "split_score": 0.36631274126854335}
+{"sent": "blue shit man", "ann_id": 440800, "best_split": [3, 3], "split_score": 0.18353726360073175}
+{"sent": "holding phone", "ann_id": 440800, "best_split": [5, 1], "split_score": 0.2989420654610638}

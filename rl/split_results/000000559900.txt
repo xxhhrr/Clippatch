@@ -1,0 +1,6 @@
+{"sent": "boy with no hat", "ann_id": 215962, "best_split": [1, 2], "split_score": 0.4493464052112766}
+{"sent": "child in blue striped shirt", "ann_id": 215962, "best_split": [1, 2], "split_score": 0.4493464052112766}
+{"sent": "boy without hat", "ann_id": 215962, "best_split": [1, 2], "split_score": 0.4493464052112766}
+{"sent": "boy with hat", "ann_id": 1719286, "best_split": [1, 3], "split_score": 0.37869292746314387}
+{"sent": "boy wearing hat", "ann_id": 1719286, "best_split": [1, 3], "split_score": 0.37869292746314387}
+{"sent": "boy with white hat", "ann_id": 1719286, "best_split": [1, 3], "split_score": 0.37869292746314387}

@@ -1,0 +1,4 @@
+{"sent": "peeled orange slices 4 in row", "ann_id": 1557821, "best_split": [3, 2], "split_score": 0.44410704114214206}
+{"sent": "group of tangerine segments", "ann_id": 1557821, "best_split": [3, 3], "split_score": 0.35112175992690897}
+{"sent": "orange with most skin", "ann_id": 1050938, "best_split": [2, 2], "split_score": 0.5435294117247405}
+{"sent": "orange slice you see all of and is closest to us", "ann_id": 1050938, "best_split": [2, 2], "split_score": 0.5435294117247405}

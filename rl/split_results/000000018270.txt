@@ -1,0 +1,9 @@
+{"sent": "spiderman", "ann_id": 1699080, "best_split": [2, 2], "split_score": 0.5255087619753032}
+{"sent": "kid in spider man", "ann_id": 1699080, "best_split": [2, 2], "split_score": 0.5255087619753032}
+{"sent": "kid in spiderman shirt", "ann_id": 1699080, "best_split": [2, 2], "split_score": 0.5255087619753032}
+{"sent": "guy who just kicked the ball and is about to fall over", "ann_id": 1695811, "best_split": [1, 2], "split_score": 0.4871520342449427}
+{"sent": "kicker", "ann_id": 1695811, "best_split": [1, 2], "split_score": 0.4871520342449427}
+{"sent": "kicking", "ann_id": 1695811, "best_split": [1, 2], "split_score": 0.4871520342449427}
+{"sent": "boy in blue shirt with back to camera", "ann_id": 1232499, "best_split": [2, 3], "split_score": 0.6085409252083734}
+{"sent": "black shirt white collar", "ann_id": 1232499, "best_split": [2, 3], "split_score": 0.6085409252083734}
+{"sent": "white collar", "ann_id": 1232499, "best_split": [3, 3], "split_score": 0.4267254640112065}

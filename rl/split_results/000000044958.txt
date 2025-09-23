@@ -1,0 +1,6 @@
+{"sent": "red car", "ann_id": 141290, "best_split": [3, 3], "split_score": 0.4879120878525138}
+{"sent": "red vehicle", "ann_id": 141290, "best_split": [3, 3], "split_score": 0.4879120878525138}
+{"sent": "red car", "ann_id": 141290, "best_split": [3, 3], "split_score": 0.4879120878525138}
+{"sent": "mercedes", "ann_id": 140802, "best_split": [1, 2], "split_score": 0.5645716533745311}
+{"sent": "mercedes", "ann_id": 140802, "best_split": [1, 2], "split_score": 0.5645716533745311}
+{"sent": "the benz", "ann_id": 140802, "best_split": [1, 2], "split_score": 0.5645716533745311}

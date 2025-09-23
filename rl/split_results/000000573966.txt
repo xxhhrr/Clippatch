@@ -1,0 +1,6 @@
+{"sent": "big elephant foot", "ann_id": 581193, "best_split": [1, 2], "split_score": 0.6682876275243826}
+{"sent": "the big elephant leg", "ann_id": 581193, "best_split": [1, 2], "split_score": 0.6682876275243826}
+{"sent": "big elephant", "ann_id": 581193, "best_split": [1, 2], "split_score": 0.6682876275243826}
+{"sent": "baby", "ann_id": 581033, "best_split": [1, 3], "split_score": 0.5299479166420225}
+{"sent": "baby", "ann_id": 581033, "best_split": [1, 3], "split_score": 0.5299479166420225}
+{"sent": "baby ellie", "ann_id": 581033, "best_split": [1, 3], "split_score": 0.5299479166420225}

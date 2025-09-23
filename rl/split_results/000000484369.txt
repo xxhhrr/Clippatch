@@ -1,0 +1,5 @@
+{"sent": "brown planter with grass", "ann_id": 1608005, "best_split": [2, 3], "split_score": 0.4180830972122187}
+{"sent": "bench", "ann_id": 1608005, "best_split": [2, 3], "split_score": 0.4180830972122187}
+{"sent": "wooden planter", "ann_id": 1608005, "best_split": [2, 3], "split_score": 0.4180830972122187}
+{"sent": "grass under blue teddy feet", "ann_id": 19096, "best_split": [3, 3], "split_score": 0.6238267146888399}
+{"sent": "plant that looks like grass without flowers", "ann_id": 19096, "best_split": [3, 3], "split_score": 0.6238267146888399}

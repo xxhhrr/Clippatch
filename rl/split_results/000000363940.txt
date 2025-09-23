@@ -1,0 +1,6 @@
+{"sent": "the girl", "ann_id": 218155, "best_split": [1, 5], "split_score": 0.549999999946289}
+{"sent": "lady", "ann_id": 218155, "best_split": [1, 5], "split_score": 0.549999999946289}
+{"sent": "woman", "ann_id": 218155, "best_split": [3, 2], "split_score": 0.32126362457775137}
+{"sent": "man", "ann_id": 215092, "best_split": [1, 3], "split_score": 0.6952220076800663}
+{"sent": "dude with hand on knee", "ann_id": 215092, "best_split": [1, 3], "split_score": 0.6952220076800663}
+{"sent": "guy", "ann_id": 215092, "best_split": [1, 3], "split_score": 0.6952220076800663}

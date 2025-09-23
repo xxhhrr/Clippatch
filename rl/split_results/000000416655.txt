@@ -1,0 +1,6 @@
+{"sent": "girl with red vest close to screen", "ann_id": 1292031, "best_split": [2, 3], "split_score": 0.7408633943535348}
+{"sent": "kid red", "ann_id": 1292031, "best_split": [1, 5], "split_score": 0.41737011570643373}
+{"sent": "girl in red vest", "ann_id": 1292031, "best_split": [2, 3], "split_score": 0.7408633943535348}
+{"sent": "adult standing", "ann_id": 1270503, "best_split": [2, 3], "split_score": 0.30526315786655}
+{"sent": "she is standing", "ann_id": 1270503, "best_split": [3, 3], "split_score": 0.3303571428183321}
+{"sent": "teacher", "ann_id": 1270503, "best_split": [3, 3], "split_score": 0.3303571428183321}

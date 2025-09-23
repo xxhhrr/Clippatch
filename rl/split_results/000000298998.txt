@@ -1,0 +1,9 @@
+{"sent": "the shortest vase", "ann_id": 1154624, "best_split": [2, 3], "split_score": 0.3912886099913986}
+{"sent": "small vase on the side", "ann_id": 1154624, "best_split": [2, 2], "split_score": 0.2585299744691861}
+{"sent": "the short round vase", "ann_id": 1154624, "best_split": [2, 3], "split_score": 0.3912886099913986}
+{"sent": "vase beside the biggest one", "ann_id": 1154067, "best_split": [2, 3], "split_score": 0.31708494204668375}
+{"sent": "vase in between the other two", "ann_id": 1154067, "best_split": [2, 3], "split_score": 0.31708494204668375}
+{"sent": "vase in 2 position", "ann_id": 1154067, "best_split": [2, 3], "split_score": 0.31708494204668375}
+{"sent": "largest glass vase", "ann_id": 1153428, "best_split": [1, 5], "split_score": 0.39646378779356817}
+{"sent": "green vase", "ann_id": 1153428, "best_split": [1, 5], "split_score": 0.39646378779356817}
+{"sent": "biggest glass for u", "ann_id": 1153428, "best_split": [2, 2], "split_score": 0.40579496981866486}

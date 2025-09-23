@@ -1,0 +1,6 @@
+{"sent": "man blue shirt with white hair", "ann_id": 1320365, "best_split": [2, 2], "split_score": 0.40704719384510146}
+{"sent": "bright blue shirt", "ann_id": 1320365, "best_split": [2, 1], "split_score": 0.20352359693066313}
+{"sent": "light blue", "ann_id": 1320365, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "dark shirt man", "ann_id": 1218833, "best_split": [3, 3], "split_score": 0.29676601136703135}
+{"sent": "older with plaid shirt", "ann_id": 1218833, "best_split": [2, 3], "split_score": 0.32625482621546154}
+{"sent": "man dark shirt plaid", "ann_id": 1218833, "best_split": [2, 3], "split_score": 0.32625482621546154}

@@ -1,0 +1,6 @@
+{"sent": "the man driving the motorcycle", "ann_id": 212180, "best_split": [1, 5], "split_score": 0.45451120734088235}
+{"sent": "man on bike", "ann_id": 212180, "best_split": [3, 3], "split_score": 0.4170081966679036}
+{"sent": "man on bike", "ann_id": 212180, "best_split": [3, 3], "split_score": 0.4170081966679036}
+{"sent": "person on back of bike", "ann_id": 205036, "best_split": [3, 3], "split_score": 0.2802345467529643}
+{"sent": "person on tail of bike", "ann_id": 205036, "best_split": [3, 3], "split_score": 0.2802345467529643}
+{"sent": "white on back", "ann_id": 205036, "best_split": [3, 3], "split_score": 0.2802345467529643}

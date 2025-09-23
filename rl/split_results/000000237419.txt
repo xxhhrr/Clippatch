@@ -1,0 +1,6 @@
+{"sent": "couch where dog is", "ann_id": 290777, "best_split": [3, 1], "split_score": 0.6600161632154755}
+{"sent": "couch", "ann_id": 290777, "best_split": [3, 1], "split_score": 0.6600161632154755}
+{"sent": "boxes on sofa", "ann_id": 290777, "best_split": [3, 1], "split_score": 0.6600161632154755}
+{"sent": "the cushion that the dog appears to be looking at", "ann_id": 111427, "best_split": [2, 2], "split_score": 0.2807017543639801}
+{"sent": "cushion lowest in photo under dog", "ann_id": 111427, "best_split": [2, 2], "split_score": 0.2807017543639801}
+{"sent": "lower white part lefty side", "ann_id": 111427, "best_split": [2, 3], "split_score": 0.24342105260655622}

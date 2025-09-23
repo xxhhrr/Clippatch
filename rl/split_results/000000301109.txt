@@ -1,0 +1,9 @@
+{"sent": "sitting", "ann_id": 2161826, "best_split": [2, 3], "split_score": 0.8004343628377854}
+{"sent": "person too lazy to get up and play wii", "ann_id": 2161826, "best_split": [2, 3], "split_score": 0.8004343628377854}
+{"sent": "plaid", "ann_id": 2161826, "best_split": [2, 3], "split_score": 0.8004343628377854}
+{"sent": "woman", "ann_id": 1743420, "best_split": [2, 1], "split_score": 0.1542989754866616}
+{"sent": "woman", "ann_id": 1743420, "best_split": [2, 1], "split_score": 0.1542989754866616}
+{"sent": "woman", "ann_id": 1743420, "best_split": [2, 1], "split_score": 0.1542989754866616}
+{"sent": "man with glasses and white shirt", "ann_id": 491155, "best_split": [1, 2], "split_score": 0.6760563380038784}
+{"sent": "white shirt", "ann_id": 491155, "best_split": [1, 3], "split_score": 0.44585987259456095}
+{"sent": "man wearing white shirt", "ann_id": 491155, "best_split": [1, 2], "split_score": 0.6760563380038784}

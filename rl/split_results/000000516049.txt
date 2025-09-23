@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 1712397, "best_split": [2, 1], "split_score": 0.10126200108383364}
+{"sent": "girl", "ann_id": 1712397, "best_split": [2, 3], "split_score": 0.632321221118938}
+{"sent": "woman with cal", "ann_id": 1712397, "best_split": [2, 3], "split_score": 0.632321221118938}
+{"sent": "part of red jacket showing thru kite", "ann_id": 433480, "best_split": [1, 2], "split_score": 0.8922938260142597}
+{"sent": "red jacket and hat", "ann_id": 433480, "best_split": [1, 2], "split_score": 0.8922938260142597}
+{"sent": "red", "ann_id": 433480, "best_split": [2, 1], "split_score": 0.3271175726841783}

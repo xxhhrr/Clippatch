@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 501778, "best_split": [2, 3], "split_score": 0.4621388747630878}
+{"sent": "man", "ann_id": 501778, "best_split": [2, 3], "split_score": 0.4621388747630878}
+{"sent": "man standing", "ann_id": 501778, "best_split": [2, 3], "split_score": 0.4621388747630878}
+{"sent": "woman sitting", "ann_id": 488530, "best_split": [1, 2], "split_score": 0.5029912738443397}
+{"sent": "sitting girl", "ann_id": 488530, "best_split": [1, 2], "split_score": 0.5029912738443397}
+{"sent": "woman", "ann_id": 488530, "best_split": [1, 2], "split_score": 0.5029912738443397}

@@ -1,0 +1,7 @@
+{"sent": "black and stainlees stove", "ann_id": 1124742, "best_split": [5, 1], "split_score": 0.217821782158962}
+{"sent": "black stove", "ann_id": 1124742, "best_split": [5, 1], "split_score": 0.217821782158962}
+{"sent": "black oven", "ann_id": 1124742, "best_split": [5, 1], "split_score": 0.217821782158962}
+{"sent": "closest blurry white stove", "ann_id": 1122079, "best_split": [3, 1], "split_score": 0.26395121388425086}
+{"sent": "stove under microwave that has black window", "ann_id": 1122079, "best_split": [2, 1], "split_score": 0.0861602052420838}
+{"sent": "white microwave with black glass not on floor", "ann_id": 1119316, "best_split": [3, 3], "split_score": 0.3604821036595175}
+{"sent": "white microwave with black window", "ann_id": 1119316, "best_split": [3, 3], "split_score": 0.3604821036595175}

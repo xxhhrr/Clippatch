@@ -1,0 +1,9 @@
+{"sent": "black suit", "ann_id": 507972, "best_split": [3, 1], "split_score": 0.22702927563688682}
+{"sent": "man black jacket", "ann_id": 507972, "best_split": [3, 2], "split_score": 0.3989765146304508}
+{"sent": "man in black suit who is not looking at camera", "ann_id": 507972, "best_split": [3, 2], "split_score": 0.3989765146304508}
+{"sent": "dark suit white handkerchief in suit pocket", "ann_id": 505762, "best_split": [1, 5], "split_score": 0.6351435704872703}
+{"sent": "white hanky in pocket", "ann_id": 505762, "best_split": [1, 5], "split_score": 0.6351435704872703}
+{"sent": "dark suit apron facing camera", "ann_id": 505762, "best_split": [1, 5], "split_score": 0.6351435704872703}
+{"sent": "light gray suit with apron", "ann_id": 434774, "best_split": [1, 3], "split_score": 0.5016891891589231}
+{"sent": "man in a light gray suit", "ann_id": 434774, "best_split": [1, 3], "split_score": 0.5016891891589231}
+{"sent": "light gray suit with apron", "ann_id": 434774, "best_split": [1, 3], "split_score": 0.5016891891589231}

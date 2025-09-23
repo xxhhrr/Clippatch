@@ -1,0 +1,13 @@
+{"sent": "laptop with small white windows sign", "ann_id": 1628265, "best_split": [3, 1], "split_score": 0.28633704254408987}
+{"sent": "laptop can see reflection of window in screen", "ann_id": 1628265, "best_split": [3, 3], "split_score": 0.34098981762479397}
+{"sent": "small laptop screen with design on destop", "ann_id": 1627005, "best_split": [3, 2], "split_score": 0.47098001897348}
+{"sent": "smallest laptop", "ann_id": 1627005, "best_split": [3, 2], "split_score": 0.47098001897348}
+{"sent": "screen at 3 pm", "ann_id": 124657, "best_split": [2, 3], "split_score": 0.3375982042269811}
+{"sent": "almost out of frame monitor", "ann_id": 124657, "best_split": [2, 3], "split_score": 0.3375982042269811}
+{"sent": "fartest monitor from guy", "ann_id": 124657, "best_split": [2, 3], "split_score": 0.3375982042269811}
+{"sent": "white monitor screen", "ann_id": 124617, "best_split": [5, 1], "split_score": 0.21619654229151988}
+{"sent": "brightest screen", "ann_id": 124617, "best_split": [2, 2], "split_score": 0.27981505099810144}
+{"sent": "big screen by wall hes blocking par of", "ann_id": 124617, "best_split": [5, 1], "split_score": 0.21619654229151988}
+{"sent": "black with reflections on it", "ann_id": 35909, "best_split": [2, 2], "split_score": 0.3063616071184342}
+{"sent": "dark screen that is not cut off by picture", "ann_id": 35909, "best_split": [3, 2], "split_score": 0.341331269312104}
+{"sent": "whole monitor black screen", "ann_id": 35909, "best_split": [3, 2], "split_score": 0.341331269312104}

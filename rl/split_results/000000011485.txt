@@ -1,0 +1,6 @@
+{"sent": "bed next to phone", "ann_id": 1957212, "best_split": [2, 2], "split_score": 0.5450245506308832}
+{"sent": "near bed", "ann_id": 1957212, "best_split": [2, 2], "split_score": 0.5450245506308832}
+{"sent": "bed with multiple items closest to us", "ann_id": 1957212, "best_split": [2, 2], "split_score": 0.5450245506308832}
+{"sent": "the bed nearest to the chair", "ann_id": 317914, "best_split": [3, 1], "split_score": 0.3856244384373035}
+{"sent": "bed by alarm clock", "ann_id": 317914, "best_split": [3, 1], "split_score": 0.3856244384373035}
+{"sent": "furthest bed", "ann_id": 317914, "best_split": [3, 1], "split_score": 0.3856244384373035}

@@ -1,0 +1,6 @@
+{"sent": "blue seat near red", "ann_id": 1930822, "best_split": [2, 2], "split_score": 0.5250305249904585}
+{"sent": "the part of the seat by red seat", "ann_id": 1930822, "best_split": [2, 2], "split_score": 0.5250305249904585}
+{"sent": "blue chair next to red seat", "ann_id": 1930822, "best_split": [2, 2], "split_score": 0.5250305249904585}
+{"sent": "blue chair by door", "ann_id": 1583180, "best_split": [2, 3], "split_score": 0.6241428104251504}
+{"sent": "chair next to pole", "ann_id": 1583180, "best_split": [2, 3], "split_score": 0.6241428104251504}
+{"sent": "the bench closest to divider", "ann_id": 1583180, "best_split": [2, 3], "split_score": 0.6241428104251504}

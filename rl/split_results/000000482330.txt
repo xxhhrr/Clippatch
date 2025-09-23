@@ -1,0 +1,15 @@
+{"sent": "metal crib", "ann_id": 1611140, "best_split": [2, 3], "split_score": 0.48734549729401466}
+{"sent": "swirly footboard", "ann_id": 1611140, "best_split": [2, 3], "split_score": 0.48734549729401466}
+{"sent": "crib", "ann_id": 1611140, "best_split": [2, 3], "split_score": 0.48734549729401466}
+{"sent": "brown shirt", "ann_id": 1286823, "best_split": [2, 3], "split_score": 0.5521702837487301}
+{"sent": "woman sitting on the bed in brown clothes", "ann_id": 1286823, "best_split": [2, 3], "split_score": 0.5521702837487301}
+{"sent": "person in brown", "ann_id": 1286823, "best_split": [2, 3], "split_score": 0.5521702837487301}
+{"sent": "boy on bed", "ann_id": 1258164, "best_split": [1, 5], "split_score": 0.3666666666319444}
+{"sent": "sitting boy white shirt", "ann_id": 1258164, "best_split": [2, 3], "split_score": 0.5358166188472043}
+{"sent": "kid in white shirt sitting", "ann_id": 1258164, "best_split": [2, 3], "split_score": 0.5358166188472043}
+{"sent": "girl blue", "ann_id": 1253918, "best_split": [1, 5], "split_score": 0.29933774831793925}
+{"sent": "girl in blue dress", "ann_id": 1253918, "best_split": [1, 5], "split_score": 0.29933774831793925}
+{"sent": "child in blue dress", "ann_id": 1253918, "best_split": [2, 3], "split_score": 0.5699785048280417}
+{"sent": "blue vest", "ann_id": 1214979, "best_split": [1, 2], "split_score": 0.1463647959125333}
+{"sent": "blue vest man", "ann_id": 1214979, "best_split": [1, 2], "split_score": 0.1463647959125333}
+{"sent": "guy in vest", "ann_id": 1214979, "best_split": [3, 2], "split_score": 0.28657487088139255}

@@ -1,0 +1,6 @@
+{"sent": "sheep farther from man", "ann_id": 63806, "best_split": [2, 3], "split_score": 0.6837799382637206}
+{"sent": "the slow sheep smelling butt", "ann_id": 63806, "best_split": [2, 3], "split_score": 0.6837799382637206}
+{"sent": "sheep fartest away from man", "ann_id": 63806, "best_split": [2, 3], "split_score": 0.6837799382637206}
+{"sent": "animal touching man", "ann_id": 62349, "best_split": [2, 3], "split_score": 0.6332611608791359}
+{"sent": "animal near man", "ann_id": 62349, "best_split": [3, 3], "split_score": 0.4912441340859283}
+{"sent": "sheep touching his knee", "ann_id": 62349, "best_split": [2, 1], "split_score": 0.30106026784514267}

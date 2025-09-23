@@ -1,0 +1,9 @@
+{"sent": "dark suit", "ann_id": 450530, "best_split": [2, 1], "split_score": 0.4350055800490247}
+{"sent": "dark pinstripes", "ann_id": 450530, "best_split": [1, 2], "split_score": 0.6259220231634526}
+{"sent": "dark jacket", "ann_id": 450530, "best_split": [2, 1], "split_score": 0.4350055800490247}
+{"sent": "white blouse", "ann_id": 430723, "best_split": [3, 3], "split_score": 0.3651703278629146}
+{"sent": "lady in white in background", "ann_id": 430723, "best_split": [3, 3], "split_score": 0.3651703278629146}
+{"sent": "person in white short sleeved shirt", "ann_id": 430723, "best_split": [3, 3], "split_score": 0.3651703278629146}
+{"sent": "gray suit", "ann_id": 426202, "best_split": [1, 2], "split_score": 0.7968749999682367}
+{"sent": "guy in beige suit", "ann_id": 426202, "best_split": [1, 2], "split_score": 0.7968749999682367}
+{"sent": "tan suit", "ann_id": 426202, "best_split": [1, 2], "split_score": 0.7968749999682367}

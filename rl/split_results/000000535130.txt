@@ -1,0 +1,6 @@
+{"sent": "on table", "ann_id": 488727, "best_split": [1, 3], "split_score": 0.5800475059037976}
+{"sent": "person sitting", "ann_id": 488727, "best_split": [1, 3], "split_score": 0.5800475059037976}
+{"sent": "patient", "ann_id": 488727, "best_split": [5, 1], "split_score": 0.2021276595622505}
+{"sent": "standing woman", "ann_id": 440248, "best_split": [1, 2], "split_score": 0.708280159120626}
+{"sent": "doctor", "ann_id": 440248, "best_split": [1, 2], "split_score": 0.708280159120626}
+{"sent": "lady in white coat", "ann_id": 440248, "best_split": [1, 2], "split_score": 0.708280159120626}

@@ -1,0 +1,13 @@
+{"sent": "girl", "ann_id": 478967, "best_split": [1, 2], "split_score": 0.534331426749932}
+{"sent": "girl eating", "ann_id": 478967, "best_split": [1, 2], "split_score": 0.534331426749932}
+{"sent": "girl wearing striped shirt", "ann_id": 478967, "best_split": [1, 2], "split_score": 0.534331426749932}
+{"sent": "adult woman", "ann_id": 461567, "best_split": [2, 2], "split_score": 0.6801553114918306}
+{"sent": "woman in pink spagetti straps", "ann_id": 461567, "best_split": [3, 1], "split_score": 0.308180768583697}
+{"sent": "pink tanktop", "ann_id": 461567, "best_split": [2, 2], "split_score": 0.6801553114918306}
+{"sent": "paper by tank lady", "ann_id": 391808, "best_split": [3, 3], "split_score": 0.9343907712807514}
+{"sent": "paper at the edge", "ann_id": 391808, "best_split": [3, 3], "split_score": 0.9343907712807514}
+{"sent": "blue shirt", "ann_id": 1720161, "best_split": [1, 5], "split_score": 0.36647727269008956}
+{"sent": "blue shirt person", "ann_id": 1720161, "best_split": [3, 3], "split_score": 0.5387741279141933}
+{"sent": "guy blue shoulder", "ann_id": 1720161, "best_split": [3, 3], "split_score": 0.5387741279141933}
+{"sent": "table near the full fork side of the girl", "ann_id": 390247, "best_split": [5, 1], "split_score": 0.23000100875315233}
+{"sent": "part of table with reflection of girl", "ann_id": 390247, "best_split": [3, 3], "split_score": 0.42677136588262027}

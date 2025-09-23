@@ -1,0 +1,6 @@
+{"sent": "all light brown pony", "ann_id": 59032, "best_split": [2, 2], "split_score": 0.7389987244308833}
+{"sent": "smaller horse", "ann_id": 59032, "best_split": [2, 2], "split_score": 0.7389987244308833}
+{"sent": "pony cutoff", "ann_id": 59032, "best_split": [2, 1], "split_score": 0.3694993622301698}
+{"sent": "brown and white", "ann_id": 55369, "best_split": [2, 1], "split_score": 0.47438803262289897}
+{"sent": "brown and white pony", "ann_id": 55369, "best_split": [2, 1], "split_score": 0.47438803262289897}
+{"sent": "brownand white", "ann_id": 55369, "best_split": [2, 1], "split_score": 0.47438803262289897}

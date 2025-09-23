@@ -1,0 +1,9 @@
+{"sent": "elephant behind baby", "ann_id": 585908, "best_split": [1, 2], "split_score": 0.6505711318584316}
+{"sent": "large elephant blocked by baby", "ann_id": 585908, "best_split": [1, 2], "split_score": 0.6505711318584316}
+{"sent": "large elephant over little elephant", "ann_id": 585908, "best_split": [1, 2], "split_score": 0.6505711318584316}
+{"sent": "half elphant on edge", "ann_id": 585500, "best_split": [2, 2], "split_score": 0.5049127268232046}
+{"sent": "elephant with trunk showing a tusk", "ann_id": 585500, "best_split": [2, 2], "split_score": 0.5049127268232046}
+{"sent": "elephant at 2 pm", "ann_id": 585500, "best_split": [2, 2], "split_score": 0.5049127268232046}
+{"sent": "baby elephant", "ann_id": 584423, "best_split": [3, 3], "split_score": 0.45962664305096357}
+{"sent": "baby elephant", "ann_id": 584423, "best_split": [3, 3], "split_score": 0.45962664305096357}
+{"sent": "small elephant", "ann_id": 584423, "best_split": [3, 3], "split_score": 0.45962664305096357}

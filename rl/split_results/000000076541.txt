@@ -1,0 +1,15 @@
+{"sent": "kid in solid red shirt next to arm", "ann_id": 2229170, "best_split": [2, 1], "split_score": 0.35357615668034975}
+{"sent": "orange shirt behind the arm", "ann_id": 2229170, "best_split": [2, 2], "split_score": 0.6157848063484608}
+{"sent": "closest orange shirt behind hand", "ann_id": 2229170, "best_split": [2, 2], "split_score": 0.6157848063484608}
+{"sent": "kid cutting cake", "ann_id": 2229134, "best_split": [1, 3], "split_score": 0.6021959459096166}
+{"sent": "little boy with red and white shirt", "ann_id": 2229134, "best_split": [2, 3], "split_score": 0.6131025957431483}
+{"sent": "boy in red and white", "ann_id": 2229134, "best_split": [2, 3], "split_score": 0.6131025957431483}
+{"sent": "blurred baby", "ann_id": 2229095, "best_split": [2, 2], "split_score": 0.3869213608207668}
+{"sent": "blurry child closest", "ann_id": 2229095, "best_split": [1, 2], "split_score": 0.29296874998832234}
+{"sent": "blurriest child sitting", "ann_id": 2229095, "best_split": [2, 2], "split_score": 0.3869213608207668}
+{"sent": "aqua shirt", "ann_id": 2229077, "best_split": [1, 2], "split_score": 0.4464285714107769}
+{"sent": "boy in blue green", "ann_id": 2229077, "best_split": [2, 2], "split_score": 0.4929577464478774}
+{"sent": "kid with blue shirt", "ann_id": 2229077, "best_split": [2, 2], "split_score": 0.4929577464478774}
+{"sent": "adult arm", "ann_id": 2229072, "best_split": [2, 2], "split_score": 0.8157480314425362}
+{"sent": "arm sticking into picture", "ann_id": 2229072, "best_split": [2, 2], "split_score": 0.8157480314425362}
+{"sent": "big arm", "ann_id": 2229072, "best_split": [2, 2], "split_score": 0.8157480314425362}

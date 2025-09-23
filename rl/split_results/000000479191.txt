@@ -1,0 +1,9 @@
+{"sent": "cake near us", "ann_id": 1928297, "best_split": [2, 3], "split_score": 0.33774834433091905}
+{"sent": "food closer to us", "ann_id": 1928297, "best_split": [3, 3], "split_score": 0.32978723399095944}
+{"sent": "lower cake", "ann_id": 1928297, "best_split": [2, 3], "split_score": 0.33774834433091905}
+{"sent": "food at 3 o clock", "ann_id": 1927213, "best_split": [3, 1], "split_score": 0.14885496182318375}
+{"sent": "large slice near forks", "ann_id": 1927213, "best_split": [3, 2], "split_score": 0.2943396226067996}
+{"sent": "the cake next to fork", "ann_id": 1927213, "best_split": [3, 2], "split_score": 0.2943396226067996}
+{"sent": "cake closest to forks", "ann_id": 1084310, "best_split": [3, 2], "split_score": 0.2943396226067996}
+{"sent": "cake further from you", "ann_id": 1084310, "best_split": [3, 2], "split_score": 0.2943396226067996}
+{"sent": "slice of cake with end peice showing the most", "ann_id": 1084310, "best_split": [3, 2], "split_score": 0.2943396226067996}

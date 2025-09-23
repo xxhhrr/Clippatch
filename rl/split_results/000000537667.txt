@@ -1,0 +1,8 @@
+{"sent": "jackie robinson sliding into home plate", "ann_id": 492340, "best_split": [3, 2], "split_score": 0.44406614781672504}
+{"sent": "player on ground face visible", "ann_id": 492340, "best_split": [3, 2], "split_score": 0.44406614781672504}
+{"sent": "slider", "ann_id": 492340, "best_split": [3, 2], "split_score": 0.44406614781672504}
+{"sent": "player with bat", "ann_id": 463515, "best_split": [2, 3], "split_score": 0.2804395604087429}
+{"sent": "batter", "ann_id": 463515, "best_split": [2, 3], "split_score": 0.2804395604087429}
+{"sent": "black clothes", "ann_id": 442819, "best_split": [2, 3], "split_score": 0.3091611729587223}
+{"sent": "umpire", "ann_id": 442819, "best_split": [5, 1], "split_score": 0.10003362473940537}
+{"sent": "darkest clothed guy with back to us", "ann_id": 442819, "best_split": [2, 3], "split_score": 0.3091611729587223}

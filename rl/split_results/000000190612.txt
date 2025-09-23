@@ -1,0 +1,8 @@
+{"sent": "pitcher", "ann_id": 541689, "best_split": [1, 5], "split_score": 0.5170535969821544}
+{"sent": "player throwing a ball", "ann_id": 541689, "best_split": [1, 5], "split_score": 0.5170535969821544}
+{"sent": "pitcher", "ann_id": 541689, "best_split": [1, 5], "split_score": 0.5170535969821544}
+{"sent": "guy batting", "ann_id": 519083, "best_split": [3, 1], "split_score": 0.19892473117444032}
+{"sent": "batter", "ann_id": 519083, "best_split": [3, 1], "split_score": 0.19892473117444032}
+{"sent": "batter", "ann_id": 519083, "best_split": [3, 1], "split_score": 0.19892473117444032}
+{"sent": "umpire", "ann_id": 451928, "best_split": [2, 1], "split_score": 0.39552567774610514}
+{"sent": "ump", "ann_id": 451928, "best_split": [3, 1], "split_score": 0.23588109512238978}

@@ -1,0 +1,9 @@
+{"sent": "nearest orange vegetable", "ann_id": 1066080, "best_split": [2, 2], "split_score": 0.4003974167624443}
+{"sent": "closest carrot piece", "ann_id": 1066080, "best_split": [2, 3], "split_score": 0.4526938238734096}
+{"sent": "flat carrot", "ann_id": 1066080, "best_split": [2, 2], "split_score": 0.4003974167624443}
+{"sent": "carrot nearest red onion furthest from us", "ann_id": 1065843, "best_split": [5, 1], "split_score": 0.2949275362051696}
+{"sent": "fartest carrot", "ann_id": 1065843, "best_split": [5, 1], "split_score": 0.2949275362051696}
+{"sent": "highest carrot", "ann_id": 1065843, "best_split": [5, 1], "split_score": 0.2949275362051696}
+{"sent": "huge stick of carrot sideway", "ann_id": 1065611, "best_split": [3, 1], "split_score": 0.3249237268056252}
+{"sent": "closest big carrot", "ann_id": 1065611, "best_split": [3, 3], "split_score": 0.6217514123415605}
+{"sent": "long orange by huge potato", "ann_id": 1065611, "best_split": [3, 2], "split_score": 0.3665391969056846}

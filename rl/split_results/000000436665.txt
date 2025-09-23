@@ -1,0 +1,6 @@
+{"sent": "little carrot", "ann_id": 1065104, "best_split": [3, 2], "split_score": 0.38504889769724443}
+{"sent": "lower carrot", "ann_id": 1065104, "best_split": [3, 2], "split_score": 0.38504889769724443}
+{"sent": "number one carrot with another on it", "ann_id": 1065104, "best_split": [3, 2], "split_score": 0.38504889769724443}
+{"sent": "whole carrot", "ann_id": 1064719, "best_split": [3, 2], "split_score": 0.5643310177767796}
+{"sent": "higher of the two closest carrots", "ann_id": 1064719, "best_split": [3, 2], "split_score": 0.5643310177767796}
+{"sent": "carrot with no root on the end", "ann_id": 1064719, "best_split": [3, 2], "split_score": 0.5643310177767796}

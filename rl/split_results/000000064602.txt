@@ -1,0 +1,12 @@
+{"sent": "lady with sunglasses", "ann_id": 1202638, "best_split": [3, 3], "split_score": 0.3361910593655653}
+{"sent": "white cap lady", "ann_id": 1202638, "best_split": [2, 3], "split_score": 0.6048435922699451}
+{"sent": "girl 1", "ann_id": 1202638, "best_split": [3, 1], "split_score": 0.1644204851672882}
+{"sent": "bearded man", "ann_id": 542479, "best_split": [2, 1], "split_score": 0.11758474575826329}
+{"sent": "tall bald man", "ann_id": 542479, "best_split": [3, 1], "split_score": 0.10930576070324405}
+{"sent": "tall white dude next to girl", "ann_id": 542479, "best_split": [2, 3], "split_score": 0.3226744185711509}
+{"sent": "man in jeans and blue button up shirt", "ann_id": 506281, "best_split": [3, 3], "split_score": 0.3045776762820404}
+{"sent": "man next to man with stripe shirt", "ann_id": 506281, "best_split": [2, 3], "split_score": 0.4513217963211252}
+{"sent": "chubby man in button down shirt and jeans hands by hips", "ann_id": 506281, "best_split": [1, 5], "split_score": 0.5460633116329076}
+{"sent": "black guy", "ann_id": 484341, "best_split": [2, 2], "split_score": 0.3157055540582178}
+{"sent": "man touching bananas", "ann_id": 484341, "best_split": [2, 2], "split_score": 0.3157055540582178}
+{"sent": "white shirt", "ann_id": 484341, "best_split": [2, 1], "split_score": 0.17219886939512252}

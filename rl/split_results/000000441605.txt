@@ -1,0 +1,6 @@
+{"sent": "3 carrots in blue bowl pointing different dirrections", "ann_id": 2109940, "best_split": [3, 3], "split_score": 0.6504322765633382}
+{"sent": "3 carrots in blue bowl", "ann_id": 2109940, "best_split": [3, 3], "split_score": 0.6504322765633382}
+{"sent": "3 carrots blue bucket", "ann_id": 2109940, "best_split": [3, 3], "split_score": 0.6504322765633382}
+{"sent": "white strainer", "ann_id": 1535291, "best_split": [3, 2], "split_score": 0.5282231495137026}
+{"sent": "white bowl", "ann_id": 1535291, "best_split": [3, 2], "split_score": 0.5282231495137026}
+{"sent": "carrots in pink strainer", "ann_id": 1535291, "best_split": [1, 5], "split_score": 0.3135391923724517}

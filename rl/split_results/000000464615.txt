@@ -1,0 +1,6 @@
+{"sent": "guy in blue socks", "ann_id": 2156173, "best_split": [1, 2], "split_score": 0.5685324845856039}
+{"sent": "ball player with glove throwing", "ann_id": 2156173, "best_split": [1, 2], "split_score": 0.5685324845856039}
+{"sent": "blue", "ann_id": 2156173, "best_split": [1, 2], "split_score": 0.5685324845856039}
+{"sent": "the guy in the backfield", "ann_id": 470892, "best_split": [2, 2], "split_score": 0.6801909307368592}
+{"sent": "blurry guy", "ann_id": 470892, "best_split": [5, 1], "split_score": 0.29979035637448964}
+{"sent": "blurry player", "ann_id": 470892, "best_split": [5, 1], "split_score": 0.29979035637448964}

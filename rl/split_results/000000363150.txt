@@ -1,0 +1,6 @@
+{"sent": "person in white", "ann_id": 1217802, "best_split": [3, 2], "split_score": 0.23566878978546288}
+{"sent": "shortest person in white", "ann_id": 1217802, "best_split": [1, 5], "split_score": 0.41883116878867377}
+{"sent": "man with both hands up", "ann_id": 1217802, "best_split": [3, 2], "split_score": 0.23566878978546288}
+{"sent": "gray jacket", "ann_id": 537530, "best_split": [3, 3], "split_score": 0.2730302308649095}
+{"sent": "black jacket hamd on head", "ann_id": 537530, "best_split": [3, 3], "split_score": 0.2730302308649095}
+{"sent": "away from others", "ann_id": 537530, "best_split": [3, 3], "split_score": 0.2730302308649095}

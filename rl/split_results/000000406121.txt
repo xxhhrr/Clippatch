@@ -1,0 +1,6 @@
+{"sent": "woman holding cupcakes", "ann_id": 468336, "best_split": [2, 1], "split_score": 0.6182868423712833}
+{"sent": "blue shirt", "ann_id": 468336, "best_split": [2, 1], "split_score": 0.6182868423712833}
+{"sent": "woma n", "ann_id": 468336, "best_split": [3, 1], "split_score": 0.28839639638600373}
+{"sent": "kitty", "ann_id": 441911, "best_split": [1, 3], "split_score": 0.70626826500231}
+{"sent": "red", "ann_id": 441911, "best_split": [1, 3], "split_score": 0.70626826500231}
+{"sent": "red shirt", "ann_id": 441911, "best_split": [1, 3], "split_score": 0.70626826500231}

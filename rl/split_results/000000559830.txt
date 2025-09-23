@@ -1,0 +1,5 @@
+{"sent": "elephant butt", "ann_id": 584976, "best_split": [3, 2], "split_score": 0.22222222220418617}
+{"sent": "elephants butt", "ann_id": 584976, "best_split": [1, 5], "split_score": 0.5979817394908234}
+{"sent": "full elephant", "ann_id": 582271, "best_split": [1, 2], "split_score": 0.49330057025144186}
+{"sent": "elephant", "ann_id": 582271, "best_split": [1, 2], "split_score": 0.49330057025144186}
+{"sent": "elephant with blue headband", "ann_id": 582271, "best_split": [1, 2], "split_score": 0.38927708763825747}

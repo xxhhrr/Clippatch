@@ -1,0 +1,9 @@
+{"sent": "girl not with dog", "ann_id": 225824, "best_split": [5, 1], "split_score": 0.07727748690560017}
+{"sent": "green", "ann_id": 225824, "best_split": [2, 3], "split_score": 0.3572197748059501}
+{"sent": "woman black shirt", "ann_id": 225824, "best_split": [2, 3], "split_score": 0.3572197748059501}
+{"sent": "girl being pulled by dog", "ann_id": 209202, "best_split": [2, 1], "split_score": 0.17386940976686102}
+{"sent": "girl in purple on skateboard", "ann_id": 209202, "best_split": [1, 5], "split_score": 0.4352773826176595}
+{"sent": "girl hold leash", "ann_id": 209202, "best_split": [2, 1], "split_score": 0.17386940976686102}
+{"sent": "man in black shirt", "ann_id": 197946, "best_split": [1, 5], "split_score": 0.46214788728696}
+{"sent": "man", "ann_id": 197946, "best_split": [1, 3], "split_score": 0.436181828605472}
+{"sent": "black shirt man", "ann_id": 197946, "best_split": [1, 5], "split_score": 0.46214788728696}

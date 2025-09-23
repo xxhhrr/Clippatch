@@ -1,0 +1,9 @@
+{"sent": "dark shoes with white shoestrings not closest", "ann_id": 513267, "best_split": [2, 3], "split_score": 0.3995026000000562}
+{"sent": "dark blue shirt", "ann_id": 513267, "best_split": [3, 1], "split_score": 0.18699747299638195}
+{"sent": "skater black shoes and blue jeans", "ann_id": 513267, "best_split": [1, 3], "split_score": 0.20625656588033986}
+{"sent": "tan pants", "ann_id": 511363, "best_split": [2, 3], "split_score": 0.621391143468469}
+{"sent": "gray pants", "ann_id": 511363, "best_split": [2, 3], "split_score": 0.621391143468469}
+{"sent": "khaki border", "ann_id": 511363, "best_split": [2, 3], "split_score": 0.621391143468469}
+{"sent": "red shoes person", "ann_id": 456674, "best_split": [1, 2], "split_score": 0.48963647957232}
+{"sent": "red shoes", "ann_id": 456674, "best_split": [1, 2], "split_score": 0.48963647957232}
+{"sent": "shorts", "ann_id": 456674, "best_split": [2, 3], "split_score": 0.6209912535953832}

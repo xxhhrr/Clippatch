@@ -1,0 +1,11 @@
+{"sent": "white bench", "ann_id": 1390418, "best_split": [2, 2], "split_score": 0.7121584157851756}
+{"sent": "white bench against pole", "ann_id": 1390418, "best_split": [2, 2], "split_score": 0.7121584157851756}
+{"sent": "white bench by brown pole", "ann_id": 1390418, "best_split": [2, 1], "split_score": 0.3616071428427293}
+{"sent": "empty bench of dark wood", "ann_id": 577565, "best_split": [2, 2], "split_score": 0.6234853315829492}
+{"sent": "bench with a man in a striped shirt", "ann_id": 577565, "best_split": [1, 5], "split_score": 0.32700247726694676}
+{"sent": "bench that guy in striped shirt is sitting on", "ann_id": 577565, "best_split": [1, 5], "split_score": 0.32700247726694676}
+{"sent": "stripe shirt", "ann_id": 514521, "best_split": [3, 3], "split_score": 0.38164002057998453}
+{"sent": "man in striped shirt", "ann_id": 514521, "best_split": [2, 2], "split_score": 0.25028121483054827}
+{"sent": "striped shirt", "ann_id": 514521, "best_split": [3, 3], "split_score": 0.38164002057998453}
+{"sent": "long gray hair", "ann_id": 510289, "best_split": [1, 5], "split_score": 0.5360433603920989}
+{"sent": "person sitting alone", "ann_id": 510289, "best_split": [3, 1], "split_score": 0.2088302230219012}

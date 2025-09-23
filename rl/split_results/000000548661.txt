@@ -1,0 +1,6 @@
+{"sent": "the more complete chair", "ann_id": 1592558, "best_split": [2, 3], "split_score": 0.6422872339713778}
+{"sent": "chair behind cats tail", "ann_id": 1592558, "best_split": [2, 2], "split_score": 0.5207270407748145}
+{"sent": "chair next to cat tail", "ann_id": 1592558, "best_split": [2, 2], "split_score": 0.5207270407748145}
+{"sent": "chair behind bowl", "ann_id": 1588306, "best_split": [3, 2], "split_score": 0.3909266408794731}
+{"sent": "part of chair by bowl", "ann_id": 1588306, "best_split": [3, 2], "split_score": 0.3909266408794731}
+{"sent": "chair beyond the colorful bowl", "ann_id": 1588306, "best_split": [3, 2], "split_score": 0.3909266408794731}

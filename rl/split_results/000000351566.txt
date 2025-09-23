@@ -1,0 +1,6 @@
+{"sent": "black cat", "ann_id": 1816361, "best_split": [1, 2], "split_score": 0.5437410756653084}
+{"sent": "mad cat", "ann_id": 1816361, "best_split": [2, 1], "split_score": 0.3880555496033198}
+{"sent": "black kitten looking at the camera", "ann_id": 1816361, "best_split": [2, 1], "split_score": 0.3880555496033198}
+{"sent": "cat no face", "ann_id": 273486, "best_split": [3, 3], "split_score": 0.46293686577467064}
+{"sent": "animal furthest", "ann_id": 273486, "best_split": [2, 3], "split_score": 0.33155026238074786}
+{"sent": "small cat", "ann_id": 273486, "best_split": [2, 3], "split_score": 0.33155026238074786}

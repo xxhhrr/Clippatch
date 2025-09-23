@@ -1,0 +1,11 @@
+{"sent": "lemons", "ann_id": 1913560, "best_split": [3, 3], "split_score": 0.6033057850472593}
+{"sent": "lemons not near apple", "ann_id": 1913560, "best_split": [3, 3], "split_score": 0.6033057850472593}
+{"sent": "cluster of 3 lemons", "ann_id": 1913560, "best_split": [3, 3], "split_score": 0.6033057850472593}
+{"sent": "lemon under the apple", "ann_id": 1911757, "best_split": [1, 5], "split_score": 0.29561830571610337}
+{"sent": "lemon closest to apple", "ann_id": 1911757, "best_split": [3, 2], "split_score": 0.3281285358307164}
+{"sent": "not in bowl", "ann_id": 1549149, "best_split": [2, 1], "split_score": 0.07485604606238556}
+{"sent": "3 o clock apple out of frame", "ann_id": 1549149, "best_split": [2, 3], "split_score": 0.2010723860374185}
+{"sent": "fruit not in bowl", "ann_id": 1549149, "best_split": [2, 3], "split_score": 0.2010723860374185}
+{"sent": "far upper red apple", "ann_id": 1050134, "best_split": [2, 2], "split_score": 0.29129464283392104}
+{"sent": "upside down apple", "ann_id": 1050134, "best_split": [2, 2], "split_score": 0.29129464283392104}
+{"sent": "apple atop the bowl farthest away", "ann_id": 1050134, "best_split": [3, 2], "split_score": 0.44087837832518356}

@@ -1,0 +1,6 @@
+{"sent": "mama elephant", "ann_id": 581376, "best_split": [2, 1], "split_score": 0.8784159251264932}
+{"sent": "big elephant", "ann_id": 581376, "best_split": [2, 1], "split_score": 0.8784159251264932}
+{"sent": "big elephant leg", "ann_id": 581376, "best_split": [2, 1], "split_score": 0.8784159251264932}
+{"sent": "baby", "ann_id": 580720, "best_split": [1, 3], "split_score": 0.40303254758385115}
+{"sent": "baby elephant", "ann_id": 580720, "best_split": [1, 3], "split_score": 0.40303254758385115}
+{"sent": "baby", "ann_id": 580720, "best_split": [1, 3], "split_score": 0.40303254758385115}

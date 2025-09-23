@@ -1,0 +1,4 @@
+{"sent": "horse in the background", "ann_id": 1832348, "best_split": [3, 2], "split_score": 0.4428063480667066}
+{"sent": "horse next to womans face", "ann_id": 1832348, "best_split": [3, 2], "split_score": 0.4428063480667066}
+{"sent": "horse", "ann_id": 56047, "best_split": [1, 3], "split_score": 0.7545849420394193}
+{"sent": "animal being petted", "ann_id": 56047, "best_split": [1, 3], "split_score": 0.7545849420394193}

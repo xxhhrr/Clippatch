@@ -1,0 +1,15 @@
+{"sent": "camoflauge guy pulling foot barely seen edge cant see face", "ann_id": 2148777, "best_split": [2, 2], "split_score": 0.3048771597065774}
+{"sent": "man pulling on zebra cant be seen", "ann_id": 2148777, "best_split": [2, 2], "split_score": 0.3048771597065774}
+{"sent": "man in uniform seated", "ann_id": 2148777, "best_split": [1, 5], "split_score": 0.4362194315516741}
+{"sent": "guy over zebras head", "ann_id": 1757744, "best_split": [1, 5], "split_score": 0.43979057588632686}
+{"sent": "army man with white hat bending over", "ann_id": 1757744, "best_split": [2, 2], "split_score": 0.3977039770164761}
+{"sent": "white hat", "ann_id": 1757744, "best_split": [1, 2], "split_score": 0.3939962476396984}
+{"sent": "standing camo no zebra", "ann_id": 534490, "best_split": [1, 3], "split_score": 0.22026569185893966}
+{"sent": "man standing with his back facing us with camo", "ann_id": 534490, "best_split": [1, 5], "split_score": 0.638996904956829}
+{"sent": "closest man camo hat", "ann_id": 534490, "best_split": [2, 2], "split_score": 0.27365491649712675}
+{"sent": "man standing on truck", "ann_id": 516189, "best_split": [2, 1], "split_score": 0.09622130101657281}
+{"sent": "man in truck", "ann_id": 516189, "best_split": [2, 1], "split_score": 0.09622130101657281}
+{"sent": "man standing on truck", "ann_id": 516189, "best_split": [2, 1], "split_score": 0.09622130101657281}
+{"sent": "guy closest to car tire", "ann_id": 488618, "best_split": [1, 3], "split_score": 0.43899919657758524}
+{"sent": "standing up no camoflauge", "ann_id": 488618, "best_split": [1, 5], "split_score": 0.440138082501166}
+{"sent": "guy with white shirt not helping out", "ann_id": 488618, "best_split": [2, 1], "split_score": 0.1667361400525658}

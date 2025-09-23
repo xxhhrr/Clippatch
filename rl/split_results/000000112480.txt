@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 256172, "best_split": [1, 2], "split_score": 0.4462604093530134}
+{"sent": "orange coat", "ann_id": 256172, "best_split": [2, 1], "split_score": 0.35815823130428803}
+{"sent": "the woman in the red jacket", "ann_id": 256172, "best_split": [2, 1], "split_score": 0.35815823130428803}
+{"sent": "man in yellow", "ann_id": 188475, "best_split": [2, 2], "split_score": 0.6638220054456676}
+{"sent": "man in yellow", "ann_id": 188475, "best_split": [2, 2], "split_score": 0.6638220054456676}
+{"sent": "yellow jacket", "ann_id": 188475, "best_split": [2, 2], "split_score": 0.6638220054456676}

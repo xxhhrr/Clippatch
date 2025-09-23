@@ -1,0 +1,6 @@
+{"sent": "umpire", "ann_id": 1740923, "best_split": [2, 2], "split_score": 0.2470852017752552}
+{"sent": "ump", "ann_id": 1740923, "best_split": [5, 1], "split_score": 0.13564822325688397}
+{"sent": "umpure", "ann_id": 1740923, "best_split": [5, 1], "split_score": 0.12868892113137487}
+{"sent": "batetr", "ann_id": 541143, "best_split": [3, 3], "split_score": 0.41198084841198296}
+{"sent": "batter", "ann_id": 541143, "best_split": [3, 3], "split_score": 0.41198084841198296}
+{"sent": "10", "ann_id": 541143, "best_split": [3, 3], "split_score": 0.41198084841198296}

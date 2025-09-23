@@ -1,0 +1,9 @@
+{"sent": "white car with red roof", "ann_id": 144190, "best_split": [1, 5], "split_score": 0.4117881321772413}
+{"sent": "license plate car", "ann_id": 144190, "best_split": [3, 1], "split_score": 0.19455875627603117}
+{"sent": "silver car with red roof", "ann_id": 144190, "best_split": [3, 1], "split_score": 0.19455875627603117}
+{"sent": "car closest to yellow van", "ann_id": 141885, "best_split": [3, 1], "split_score": 0.3004528885286395}
+{"sent": "silver car near yellow van", "ann_id": 141885, "best_split": [3, 1], "split_score": 0.3004528885286395}
+{"sent": "car being blocked by motorcycle and car with red roof", "ann_id": 141885, "best_split": [3, 2], "split_score": 0.554084334838655}
+{"sent": "silver car near rear of motorcycle", "ann_id": 135610, "best_split": [3, 1], "split_score": 0.3713979585873006}
+{"sent": "silver car next to bike", "ann_id": 135610, "best_split": [3, 1], "split_score": 0.3713979585873006}
+{"sent": "car at 3 o clock", "ann_id": 135610, "best_split": [3, 3], "split_score": 0.7072194239045306}

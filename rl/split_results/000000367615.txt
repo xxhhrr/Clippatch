@@ -1,0 +1,5 @@
+{"sent": "bin with carrots", "ann_id": 1898613, "best_split": [1, 2], "split_score": 0.6208186384303794}
+{"sent": "side with the most compartments", "ann_id": 1898613, "best_split": [1, 2], "split_score": 0.6208186384303794}
+{"sent": "star", "ann_id": 1898613, "best_split": [3, 1], "split_score": 0.3515310969688105}
+{"sent": "crackers", "ann_id": 1038994, "best_split": [2, 2], "split_score": 0.4558858501422207}
+{"sent": "round crackers", "ann_id": 1038994, "best_split": [2, 3], "split_score": 0.512163755169632}

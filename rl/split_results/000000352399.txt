@@ -1,0 +1,6 @@
+{"sent": "empty couch", "ann_id": 1604583, "best_split": [3, 2], "split_score": 0.7228532484412933}
+{"sent": "gray chair", "ann_id": 1604583, "best_split": [2, 2], "split_score": 0.5484693877113784}
+{"sent": "sofa with no one on it", "ann_id": 1604583, "best_split": [3, 2], "split_score": 0.7228532484412933}
+{"sent": "couch", "ann_id": 99796, "best_split": [2, 3], "split_score": 0.41805063977552065}
+{"sent": "couch", "ann_id": 99796, "best_split": [2, 3], "split_score": 0.41805063977552065}
+{"sent": "couch not man", "ann_id": 99796, "best_split": [2, 3], "split_score": 0.41805063977552065}

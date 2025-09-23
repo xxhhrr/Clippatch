@@ -1,0 +1,6 @@
+{"sent": "man nearest camera", "ann_id": 1287468, "best_split": [1, 2], "split_score": 0.24071269131693587}
+{"sent": "person in white closest to us", "ann_id": 1287468, "best_split": [3, 1], "split_score": 0.15589062099893225}
+{"sent": "white shirt back towards you", "ann_id": 1287468, "best_split": [2, 2], "split_score": 0.3869980593829677}
+{"sent": "old woman in the blue chair", "ann_id": 1270528, "best_split": [2, 2], "split_score": 0.42346176818821224}
+{"sent": "floral clothing", "ann_id": 1270528, "best_split": [2, 2], "split_score": 0.42346176818821224}
+{"sent": "lady in foreground with floral shirt", "ann_id": 1270528, "best_split": [2, 2], "split_score": 0.42346176818821224}

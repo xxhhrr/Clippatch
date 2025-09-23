@@ -1,0 +1,5 @@
+{"sent": "train with pointy front", "ann_id": 172975, "best_split": [2, 2], "split_score": 0.46003717469065075}
+{"sent": "closest train", "ann_id": 172975, "best_split": [2, 2], "split_score": 0.46003717469065075}
+{"sent": "closest train", "ann_id": 172975, "best_split": [2, 2], "split_score": 0.46003717469065075}
+{"sent": "farther train", "ann_id": 170732, "best_split": [5, 1], "split_score": 0.2973405028122845}
+{"sent": "train close to building", "ann_id": 170732, "best_split": [5, 1], "split_score": 0.2973405028122845}

@@ -1,0 +1,13 @@
+{"sent": "elephant behind the one with big tusks", "ann_id": 584629, "best_split": [2, 1], "split_score": 0.2628138860085099}
+{"sent": "elephant near large tusk with no face showing", "ann_id": 584629, "best_split": [2, 1], "split_score": 0.2628138860085099}
+{"sent": "covered by tusk elephant", "ann_id": 584629, "best_split": [2, 1], "split_score": 0.2628138860085099}
+{"sent": "medium size elephant next to baby", "ann_id": 583810, "best_split": [2, 2], "split_score": 0.5062940808630348}
+{"sent": "elephant shoulder hidden by tree", "ann_id": 583810, "best_split": [1, 2], "split_score": 0.8450255101703992}
+{"sent": "elephant by branch leafs but only partially viewed", "ann_id": 583810, "best_split": [1, 2], "split_score": 0.8450255101703992}
+{"sent": "short elephant out more", "ann_id": 583630, "best_split": [2, 2], "split_score": 0.753047954432874}
+{"sent": "elephant near you", "ann_id": 583630, "best_split": [2, 2], "split_score": 0.753047954432874}
+{"sent": "baby on right", "ann_id": 583630, "best_split": [2, 2], "split_score": 0.753047954432874}
+{"sent": "back of elephant in background barely visible", "ann_id": 581328, "best_split": [1, 2], "split_score": 0.44592180986521446}
+{"sent": "smallest elephant least shown", "ann_id": 580159, "best_split": [1, 5], "split_score": 0.5803571427982592}
+{"sent": "smallest elephant", "ann_id": 580159, "best_split": [1, 5], "split_score": 0.5803571427982592}
+{"sent": "little half elephant", "ann_id": 580159, "best_split": [1, 5], "split_score": 0.5803571427982592}

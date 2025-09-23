@@ -1,0 +1,6 @@
+{"sent": "biggest body of cow", "ann_id": 73650, "best_split": [3, 1], "split_score": 0.4795199999808192}
+{"sent": "side if cow", "ann_id": 73650, "best_split": [3, 1], "split_score": 0.4795199999808192}
+{"sent": "cow in back", "ann_id": 73650, "best_split": [3, 1], "split_score": 0.4795199999808192}
+{"sent": "larger cow face", "ann_id": 71377, "best_split": [3, 2], "split_score": 0.5132821723352065}
+{"sent": "nearest calf", "ann_id": 71377, "best_split": [3, 2], "split_score": 0.5132821723352065}
+{"sent": "cow with less body", "ann_id": 71377, "best_split": [1, 3], "split_score": 0.43363536789636387}

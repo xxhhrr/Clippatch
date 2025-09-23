@@ -1,0 +1,6 @@
+{"sent": "sandwich piece closest to us", "ann_id": 311506, "best_split": [3, 2], "split_score": 0.44390724322285724}
+{"sent": "snadwich by ketchup packet", "ann_id": 311506, "best_split": [3, 2], "split_score": 0.44390724322285724}
+{"sent": "nex to ketchup read", "ann_id": 311506, "best_split": [3, 2], "split_score": 0.44390724322285724}
+{"sent": "sandwich in which we can only see bread", "ann_id": 309881, "best_split": [2, 3], "split_score": 0.6069296499348086}
+{"sent": "fartest sandwich", "ann_id": 309881, "best_split": [2, 3], "split_score": 0.6069296499348086}
+{"sent": "farthest slice", "ann_id": 309881, "best_split": [5, 1], "split_score": 0.2256410256229454}

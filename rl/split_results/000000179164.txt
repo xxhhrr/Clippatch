@@ -1,0 +1,8 @@
+{"sent": "leather jacket and beanie cut off", "ann_id": 219392, "best_split": [3, 2], "split_score": 0.21443298966615887}
+{"sent": "last person", "ann_id": 219392, "best_split": [3, 3], "split_score": 0.3005008346743738}
+{"sent": "black leather jacket closest to driver side of bus", "ann_id": 219392, "best_split": [2, 3], "split_score": 0.2656082129323614}
+{"sent": "man in black shirt", "ann_id": 208121, "best_split": [2, 3], "split_score": 0.5830945558043106}
+{"sent": "man closest to bus with black shirt", "ann_id": 208121, "best_split": [1, 5], "split_score": 0.39269277727127894}
+{"sent": "man with blue hoodie", "ann_id": 201513, "best_split": [2, 3], "split_score": 0.794884169788262}
+{"sent": "blue shirt guy", "ann_id": 201513, "best_split": [2, 3], "split_score": 0.794884169788262}
+{"sent": "person next to wall", "ann_id": 201513, "best_split": [2, 3], "split_score": 0.794884169788262}

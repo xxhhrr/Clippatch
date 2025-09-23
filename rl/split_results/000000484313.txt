@@ -1,0 +1,6 @@
+{"sent": "partially visible person behind player", "ann_id": 1735069, "best_split": [5, 1], "split_score": 0.1327384272063789}
+{"sent": "in the audience a person in all black not fully visible", "ann_id": 1735069, "best_split": [2, 2], "split_score": 0.2777777777567817}
+{"sent": "person in dark clothes behind fence", "ann_id": 1735069, "best_split": [2, 1], "split_score": 0.023850085178046446}
+{"sent": "man swinging tennis racket", "ann_id": 487018, "best_split": [2, 1], "split_score": 0.3849774465487111}
+{"sent": "tennis player", "ann_id": 487018, "best_split": [2, 1], "split_score": 0.3849774465487111}
+{"sent": "main person", "ann_id": 487018, "best_split": [1, 2], "split_score": 0.6910919540023021}

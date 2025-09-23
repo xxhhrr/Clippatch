@@ -1,0 +1,6 @@
+{"sent": "black and white dog", "ann_id": 1817228, "best_split": [2, 3], "split_score": 0.4235841737311776}
+{"sent": "animal with shorter hair", "ann_id": 1817228, "best_split": [2, 3], "split_score": 0.4235841737311776}
+{"sent": "darker brown dog", "ann_id": 1817228, "best_split": [2, 3], "split_score": 0.4235841737311776}
+{"sent": "dog near bushes", "ann_id": 15947, "best_split": [2, 3], "split_score": 0.30758540818673014}
+{"sent": "smallest of the two", "ann_id": 15947, "best_split": [1, 5], "split_score": 0.28103207807521097}
+{"sent": "smaller dog", "ann_id": 15947, "best_split": [2, 2], "split_score": 0.21385071828436517}

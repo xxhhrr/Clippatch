@@ -1,0 +1,9 @@
+{"sent": "red friut", "ann_id": 1904301, "best_split": [3, 2], "split_score": 0.4410032130988037}
+{"sent": "red banana slices", "ann_id": 1904301, "best_split": [3, 2], "split_score": 0.4410032130988037}
+{"sent": "red", "ann_id": 1904301, "best_split": [3, 2], "split_score": 0.4410032130988037}
+{"sent": "cucumbers", "ann_id": 1543566, "best_split": [2, 2], "split_score": 0.43873264503818205}
+{"sent": "green", "ann_id": 1543566, "best_split": [2, 2], "split_score": 0.43873264503818205}
+{"sent": "green", "ann_id": 1543566, "best_split": [2, 2], "split_score": 0.43873264503818205}
+{"sent": "waiting for other player", "ann_id": 1045120, "best_split": [3, 1], "split_score": 0.5338983050564673}
+{"sent": "banana", "ann_id": 1045120, "best_split": [3, 1], "split_score": 0.5338983050564673}
+{"sent": "banana", "ann_id": 1045120, "best_split": [3, 1], "split_score": 0.5338983050564673}

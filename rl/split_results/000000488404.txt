@@ -1,0 +1,6 @@
+{"sent": "fritter donut", "ann_id": 1573374, "best_split": [2, 3], "split_score": 0.4808743169033945}
+{"sent": "fritter", "ann_id": 1573374, "best_split": [2, 3], "split_score": 0.4808743169033945}
+{"sent": "closer donut", "ann_id": 1573374, "best_split": [2, 3], "split_score": 0.4808743169033945}
+{"sent": "smaller pastry", "ann_id": 1078452, "best_split": [3, 2], "split_score": 0.3782577219620828}
+{"sent": "donut with hole", "ann_id": 1078452, "best_split": [5, 1], "split_score": 0.2289281997702272}
+{"sent": "donut next to fritter", "ann_id": 1078452, "best_split": [5, 1], "split_score": 0.2289281997702272}

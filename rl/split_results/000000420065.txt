@@ -1,0 +1,6 @@
+{"sent": "woman in black", "ann_id": 1237836, "best_split": [2, 2], "split_score": 0.5134135059790265}
+{"sent": "her", "ann_id": 1237836, "best_split": [1, 2], "split_score": 0.41294642855496866}
+{"sent": "woman", "ann_id": 1237836, "best_split": [2, 2], "split_score": 0.5134135059790265}
+{"sent": "man eating", "ann_id": 1208939, "best_split": [2, 1], "split_score": 0.3770710687510751}
+{"sent": "him", "ann_id": 1208939, "best_split": [3, 1], "split_score": 0.29670793471100493}
+{"sent": "man eating", "ann_id": 1208939, "best_split": [2, 1], "split_score": 0.3770710687510751}

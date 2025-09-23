@@ -1,0 +1,10 @@
+{"sent": "sandwich half nearer to soup", "ann_id": 2219586, "best_split": [3, 3], "split_score": 0.6100713011798049}
+{"sent": "smallest sandwich half", "ann_id": 2219586, "best_split": [3, 3], "split_score": 0.6100713011798049}
+{"sent": "sandwich half farthest from us", "ann_id": 2219586, "best_split": [3, 3], "split_score": 0.6100713011798049}
+{"sent": "pie with more stuffing", "ann_id": 2219392, "best_split": [2, 3], "split_score": 0.5009080402426195}
+{"sent": "sandwitch clostest to us", "ann_id": 2219392, "best_split": [2, 2], "split_score": 0.5942873383121865}
+{"sent": "half of sandwich nearest you", "ann_id": 2219392, "best_split": [2, 2], "split_score": 0.5942873383121865}
+{"sent": "the plate under the soup bowl", "ann_id": 1618252, "best_split": [2, 1], "split_score": 0.5011235954954727}
+{"sent": "plate of food", "ann_id": 1618252, "best_split": [1, 2], "split_score": 0.4910714285615534}
+{"sent": "table inbetween soup and glass", "ann_id": 1615573, "best_split": [3, 1], "split_score": 0.3111124517186829}
+{"sent": "the wood of the table almost there", "ann_id": 1615573, "best_split": [5, 1], "split_score": 0.52323457786899}

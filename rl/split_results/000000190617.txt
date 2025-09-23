@@ -1,0 +1,5 @@
+{"sent": "highest bird", "ann_id": 42437, "best_split": [3, 3], "split_score": 0.2665782493047289}
+{"sent": "full back of bird", "ann_id": 42437, "best_split": [3, 2], "split_score": 0.3096970888759149}
+{"sent": "side view", "ann_id": 37640, "best_split": [1, 3], "split_score": 0.09819133308399783}
+{"sent": "eagle with most white", "ann_id": 37640, "best_split": [1, 3], "split_score": 0.2782794549677649}
+{"sent": "hawk on the lower branch", "ann_id": 37640, "best_split": [1, 3], "split_score": 0.2782794549677649}

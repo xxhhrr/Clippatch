@@ -1,0 +1,5 @@
+{"sent": "zebra with head turned looking at you", "ann_id": 589468, "best_split": [3, 2], "split_score": 0.4652757930504947}
+{"sent": "largest main zebra", "ann_id": 589468, "best_split": [3, 2], "split_score": 0.4652757930504947}
+{"sent": "smaller zebra", "ann_id": 589184, "best_split": [3, 3], "split_score": 0.43669527891138743}
+{"sent": "faced forward", "ann_id": 589184, "best_split": [3, 2], "split_score": 0.24530386738072707}
+{"sent": "smallest zebra", "ann_id": 589184, "best_split": [3, 3], "split_score": 0.43669527891138743}

@@ -1,0 +1,6 @@
+{"sent": "white monitor", "ann_id": 35812, "best_split": [2, 3], "split_score": 0.24017053526288837}
+{"sent": "screen closer to pc", "ann_id": 35812, "best_split": [3, 3], "split_score": 0.2720026568794416}
+{"sent": "monitor near weird blue thing", "ann_id": 35812, "best_split": [3, 3], "split_score": 0.2720026568794416}
+{"sent": "nearest monitor", "ann_id": 32520, "best_split": [3, 2], "split_score": 0.39360963181365943}
+{"sent": "darker monitor", "ann_id": 32520, "best_split": [3, 2], "split_score": 0.39360963181365943}
+{"sent": "black monitor", "ann_id": 32520, "best_split": [3, 2], "split_score": 0.39360963181365943}

@@ -1,0 +1,6 @@
+{"sent": "woman on surfboard", "ann_id": 1731429, "best_split": [2, 3], "split_score": 0.35714285711015176}
+{"sent": "woman", "ann_id": 1731429, "best_split": [2, 3], "split_score": 0.35714285711015176}
+{"sent": "her", "ann_id": 1731429, "best_split": [3, 1], "split_score": 0.23019591140171444}
+{"sent": "man", "ann_id": 493308, "best_split": [3, 2], "split_score": 0.49211151928980856}
+{"sent": "man", "ann_id": 493308, "best_split": [3, 2], "split_score": 0.49211151928980856}
+{"sent": "man", "ann_id": 493308, "best_split": [3, 2], "split_score": 0.49211151928980856}

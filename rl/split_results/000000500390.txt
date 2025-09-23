@@ -1,0 +1,9 @@
+{"sent": "girl", "ann_id": 556949, "best_split": [2, 2], "split_score": 0.18905472635911524}
+{"sent": "blue shoes", "ann_id": 556949, "best_split": [1, 2], "split_score": 0.4907525510008469}
+{"sent": "girl in blue", "ann_id": 556949, "best_split": [2, 2], "split_score": 0.5067895247025467}
+{"sent": "kicking ball", "ann_id": 514894, "best_split": [1, 3], "split_score": 0.6157697876076393}
+{"sent": "closest boy", "ann_id": 514894, "best_split": [1, 3], "split_score": 0.6157697876076393}
+{"sent": "boy with ball in blue", "ann_id": 514894, "best_split": [1, 3], "split_score": 0.6157697876076393}
+{"sent": "orange shirt", "ann_id": 483673, "best_split": [1, 5], "split_score": 0.5239898120379989}
+{"sent": "orange", "ann_id": 483673, "best_split": [1, 5], "split_score": 0.5239898120379989}
+{"sent": "orange shirt", "ann_id": 483673, "best_split": [1, 5], "split_score": 0.5239898120379989}

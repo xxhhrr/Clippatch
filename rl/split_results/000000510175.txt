@@ -1,0 +1,6 @@
+{"sent": "hidden horse", "ann_id": 57470, "best_split": [1, 2], "split_score": 0.4718844984639443}
+{"sent": "obscured animal", "ann_id": 57470, "best_split": [1, 2], "split_score": 0.4718844984639443}
+{"sent": "back goat", "ann_id": 57470, "best_split": [3, 1], "split_score": 0.38042422278252813}
+{"sent": "closest horse", "ann_id": 53883, "best_split": [3, 1], "split_score": 0.3994292095669615}
+{"sent": "full side of horse", "ann_id": 53883, "best_split": [3, 1], "split_score": 0.3994292095669615}
+{"sent": "closer animal", "ann_id": 53883, "best_split": [3, 1], "split_score": 0.3994292095669615}

@@ -1,0 +1,6 @@
+{"sent": "bike with only one wheel showing", "ann_id": 153905, "best_split": [3, 2], "split_score": 0.2562814070121786}
+{"sent": "no color on this motorcycle", "ann_id": 153905, "best_split": [3, 2], "split_score": 0.2562814070121786}
+{"sent": "bike not in full view", "ann_id": 153905, "best_split": [3, 2], "split_score": 0.2562814070121786}
+{"sent": "big bike", "ann_id": 152789, "best_split": [1, 3], "split_score": 0.4741784037408267}
+{"sent": "close motorcycle", "ann_id": 152789, "best_split": [1, 3], "split_score": 0.4741784037408267}
+{"sent": "closer bike", "ann_id": 152789, "best_split": [1, 3], "split_score": 0.4741784037408267}

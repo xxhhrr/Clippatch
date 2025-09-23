@@ -1,0 +1,4 @@
+{"sent": "closest sheet cant see its face just its back", "ann_id": 275477, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "the sheep head closest to us", "ann_id": 62924, "best_split": [3, 2], "split_score": 0.6336716417153825}
+{"sent": "smiley goat head", "ann_id": 62924, "best_split": [3, 3], "split_score": 0.7101950911406237}
+{"sent": "sheep head closest to us", "ann_id": 62924, "best_split": [2, 3], "split_score": 0.5045084670657017}

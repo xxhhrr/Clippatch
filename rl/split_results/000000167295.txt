@@ -1,0 +1,6 @@
+{"sent": "man in red shirt", "ann_id": 1738437, "best_split": [2, 1], "split_score": 0.6928256928032626}
+{"sent": "red shirt", "ann_id": 1738437, "best_split": [2, 1], "split_score": 0.6928256928032626}
+{"sent": "guy sitting", "ann_id": 1738437, "best_split": [2, 1], "split_score": 0.6928256928032626}
+{"sent": "person in black standing", "ann_id": 1240553, "best_split": [2, 3], "split_score": 0.4408163264819838}
+{"sent": "woman in black", "ann_id": 1240553, "best_split": [1, 5], "split_score": 0.48427353891190406}
+{"sent": "person in black", "ann_id": 1240553, "best_split": [2, 1], "split_score": 0.1544944906184228}

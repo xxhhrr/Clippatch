@@ -1,0 +1,9 @@
+{"sent": "person in the checkered shirt", "ann_id": 475247, "best_split": [3, 3], "split_score": 0.6358887951750819}
+{"sent": "plaid shirt", "ann_id": 475247, "best_split": [3, 3], "split_score": 0.6358887951750819}
+{"sent": "man on phone", "ann_id": 475247, "best_split": [3, 1], "split_score": 0.221543880233546}
+{"sent": "guy in black", "ann_id": 425729, "best_split": [3, 3], "split_score": 0.6014540646725951}
+{"sent": "man with dark shirt", "ann_id": 425729, "best_split": [3, 2], "split_score": 0.27931246160432655}
+{"sent": "furthest man in blue short sleeve shirt", "ann_id": 425729, "best_split": [3, 3], "split_score": 0.6014540646725951}
+{"sent": "hand reaching for something", "ann_id": 1203745, "best_split": [5, 1], "split_score": 0.17688808005669807}
+{"sent": "random arm grabbing for something on table", "ann_id": 1203745, "best_split": [3, 1], "split_score": 0.1856901544289521}
+{"sent": "arm reaching in from corner", "ann_id": 1203745, "best_split": [1, 2], "split_score": 0.12268813775021173}

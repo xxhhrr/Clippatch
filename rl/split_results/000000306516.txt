@@ -1,0 +1,9 @@
+{"sent": "wearing white", "ann_id": 515049, "best_split": [2, 2], "split_score": 0.42561487699268036}
+{"sent": "girl with white shirt", "ann_id": 515049, "best_split": [3, 3], "split_score": 0.381767700094659}
+{"sent": "white in background", "ann_id": 515049, "best_split": [2, 3], "split_score": 0.6251101320897455}
+{"sent": "man with black shirt on", "ann_id": 505464, "best_split": [2, 2], "split_score": 0.7125318876982994}
+{"sent": "man in black shirt", "ann_id": 505464, "best_split": [2, 3], "split_score": 0.6120157214474999}
+{"sent": "background man", "ann_id": 505464, "best_split": [2, 1], "split_score": 0.35626594386335037}
+{"sent": "eating woman", "ann_id": 472695, "best_split": [3, 1], "split_score": 0.42604074400946523}
+{"sent": "eating", "ann_id": 472695, "best_split": [3, 1], "split_score": 0.42604074400946523}
+{"sent": "orange shirt", "ann_id": 472695, "best_split": [3, 1], "split_score": 0.42604074400946523}

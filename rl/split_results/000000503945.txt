@@ -1,0 +1,6 @@
+{"sent": "red peppers", "ann_id": 1076631, "best_split": [1, 2], "split_score": 0.6360809948726052}
+{"sent": "pizza on this side", "ann_id": 1076631, "best_split": [1, 2], "split_score": 0.6360809948726052}
+{"sent": "pizza at 9 o clock", "ann_id": 1076631, "best_split": [1, 2], "split_score": 0.6360809948726052}
+{"sent": "pizza with mushrooms", "ann_id": 1075704, "best_split": [1, 2], "split_score": 0.623604910689429}
+{"sent": "pizza with lime maybe", "ann_id": 1075704, "best_split": [2, 2], "split_score": 0.41695988738227807}
+{"sent": "pizza with no tomatoes", "ann_id": 1075704, "best_split": [3, 1], "split_score": 0.3177784139578022}

@@ -1,0 +1,6 @@
+{"sent": "shorter man striped shirt", "ann_id": 1747396, "best_split": [2, 3], "split_score": 0.5618858560236342}
+{"sent": "striped shirt", "ann_id": 1747396, "best_split": [3, 3], "split_score": 0.4124590163483651}
+{"sent": "guy in hat", "ann_id": 1747396, "best_split": [1, 5], "split_score": 0.3973996607932327}
+{"sent": "blue shirt", "ann_id": 1746357, "best_split": [2, 3], "split_score": 0.5083652677345205}
+{"sent": "man in blue shirt", "ann_id": 1746357, "best_split": [2, 3], "split_score": 0.5083652677345205}
+{"sent": "man in blue", "ann_id": 1746357, "best_split": [2, 3], "split_score": 0.5083652677345205}

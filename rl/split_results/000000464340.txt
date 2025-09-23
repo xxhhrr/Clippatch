@@ -1,0 +1,6 @@
+{"sent": "girl cutting cake", "ann_id": 200328, "best_split": [1, 3], "split_score": 0.5516391793769289}
+{"sent": "cake cutter girl", "ann_id": 200328, "best_split": [1, 3], "split_score": 0.5516391793769289}
+{"sent": "woman cutting cake", "ann_id": 200328, "best_split": [1, 3], "split_score": 0.5516391793769289}
+{"sent": "dark shirt and shorts", "ann_id": 188871, "best_split": [1, 5], "split_score": 0.43193717273448606}
+{"sent": "black shirt", "ann_id": 188871, "best_split": [1, 5], "split_score": 0.43193717273448606}
+{"sent": "woman in black", "ann_id": 188871, "best_split": [1, 5], "split_score": 0.43193717273448606}

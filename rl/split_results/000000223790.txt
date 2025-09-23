@@ -1,0 +1,5 @@
+{"sent": "tall glass next to lidded jar", "ann_id": 1513592, "best_split": [3, 3], "split_score": 0.2423076922671726}
+{"sent": "tall jar by the glass of drink", "ann_id": 1513592, "best_split": [3, 2], "split_score": 0.23564189186346018}
+{"sent": "glass behind pie", "ann_id": 669961, "best_split": [2, 3], "split_score": 0.597404075987999}
+{"sent": "drink", "ann_id": 669961, "best_split": [2, 3], "split_score": 0.597404075987999}
+{"sent": "glass of beverage", "ann_id": 669961, "best_split": [2, 3], "split_score": 0.597404075987999}

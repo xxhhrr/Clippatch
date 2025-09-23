@@ -1,0 +1,6 @@
+{"sent": "closest half of sandwich", "ann_id": 311874, "best_split": [2, 3], "split_score": 0.5743051913398736}
+{"sent": "closest sandwich half", "ann_id": 311874, "best_split": [2, 3], "split_score": 0.5743051913398736}
+{"sent": "sammi closer", "ann_id": 311874, "best_split": [2, 3], "split_score": 0.5743051913398736}
+{"sent": "bread by tea ketle", "ann_id": 311270, "best_split": [3, 2], "split_score": 0.7966940153478892}
+{"sent": "sandwich half entirely in frame", "ann_id": 311270, "best_split": [3, 2], "split_score": 0.7966940153478892}
+{"sent": "the nothern sandwich half", "ann_id": 311270, "best_split": [3, 2], "split_score": 0.7966940153478892}

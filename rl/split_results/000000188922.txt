@@ -1,0 +1,5 @@
+{"sent": "elephant azz", "ann_id": 584646, "best_split": [2, 3], "split_score": 0.6039831864887927}
+{"sent": "elephant looking away", "ann_id": 584646, "best_split": [2, 3], "split_score": 0.6039831864887927}
+{"sent": "large elephant walking away", "ann_id": 584646, "best_split": [2, 3], "split_score": 0.6039831864887927}
+{"sent": "baby", "ann_id": 583259, "best_split": [1, 5], "split_score": 0.3894455577497123}
+{"sent": "elephant closes to you", "ann_id": 583259, "best_split": [3, 3], "split_score": 0.5827523882542277}

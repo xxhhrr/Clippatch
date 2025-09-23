@@ -1,0 +1,6 @@
+{"sent": "bed by window", "ann_id": 319684, "best_split": [3, 1], "split_score": 0.4754464285427457}
+{"sent": "bed near window", "ann_id": 319684, "best_split": [3, 1], "split_score": 0.4754464285427457}
+{"sent": "smaller bed", "ann_id": 319684, "best_split": [3, 1], "split_score": 0.4754464285427457}
+{"sent": "bed closest", "ann_id": 319555, "best_split": [2, 1], "split_score": 0.6200715563284411}
+{"sent": "nearest bed", "ann_id": 319555, "best_split": [2, 1], "split_score": 0.6200715563284411}
+{"sent": "bed near us", "ann_id": 319555, "best_split": [2, 1], "split_score": 0.6200715563284411}

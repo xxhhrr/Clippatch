@@ -1,0 +1,11 @@
+{"sent": "green and yellow banana", "ann_id": 1543529, "best_split": [1, 3], "split_score": 0.18138225788692888}
+{"sent": "click the green below the yellow fruit", "ann_id": 1543529, "best_split": [5, 1], "split_score": 0.4079110012000785}
+{"sent": "banana pointing northwest", "ann_id": 1045365, "best_split": [3, 2], "split_score": 0.44583560147568474}
+{"sent": "the yellowest banana weird", "ann_id": 1045365, "best_split": [3, 2], "split_score": 0.44583560147568474}
+{"sent": "fully visible yellow banana", "ann_id": 1045365, "best_split": [3, 2], "split_score": 0.44583560147568474}
+{"sent": "green banana closest to us", "ann_id": 1044375, "best_split": [5, 1], "split_score": 0.13691683569111834}
+{"sent": "fruit pointing to 700", "ann_id": 1044375, "best_split": [1, 3], "split_score": 0.37053918841742417}
+{"sent": "green banana with brown thing", "ann_id": 1044375, "best_split": [5, 1], "split_score": 0.13691683569111834}
+{"sent": "the one in straight line with stem pointing toward", "ann_id": 1042898, "best_split": [1, 5], "split_score": 0.2515219155588959}
+{"sent": "banana pointing at you", "ann_id": 1042898, "best_split": [1, 2], "split_score": 0.09881218111851035}
+{"sent": "smaller banana closest to camera", "ann_id": 1042898, "best_split": [1, 2], "split_score": 0.09881218111851035}

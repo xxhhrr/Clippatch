@@ -1,0 +1,10 @@
+{"sent": "the leg behind the car", "ann_id": 240283, "best_split": [1, 2], "split_score": 0.39907142856192684}
+{"sent": "man cut off screen closest", "ann_id": 240283, "best_split": [2, 1], "split_score": 0.6730062921540584}
+{"sent": "person cut in half", "ann_id": 240283, "best_split": [2, 1], "split_score": 0.6730062921540584}
+{"sent": "frontrow man", "ann_id": 219039, "best_split": [2, 2], "split_score": 0.46420940168184893}
+{"sent": "lead cop mostly visible", "ann_id": 219039, "best_split": [2, 2], "split_score": 0.46420940168184893}
+{"sent": "closest guy", "ann_id": 219039, "best_split": [1, 2], "split_score": 0.3612188162864431}
+{"sent": "nearest motorcycle glass", "ann_id": 153929, "best_split": [2, 1], "split_score": 0.249446290135332}
+{"sent": "leading bike not cop", "ann_id": 153929, "best_split": [2, 1], "split_score": 0.249446290135332}
+{"sent": "windshield closest to camera", "ann_id": 153929, "best_split": [2, 1], "split_score": 0.11790933861413459}
+{"sent": "behind main motorcycle", "ann_id": 148942, "best_split": [1, 2], "split_score": 0.5510602678351778}

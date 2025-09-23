@@ -1,0 +1,11 @@
+{"sent": "chair with pillow and throw", "ann_id": 111285, "best_split": [2, 2], "split_score": 0.40178571425368415}
+{"sent": "couch not far from glass table", "ann_id": 111285, "best_split": [2, 2], "split_score": 0.40178571425368415}
+{"sent": "couch without blanket", "ann_id": 1947499, "best_split": [3, 3], "split_score": 0.817388205804848}
+{"sent": "nearest light tan couch", "ann_id": 1947499, "best_split": [3, 3], "split_score": 0.817388205804848}
+{"sent": "couch with one pillow", "ann_id": 1947499, "best_split": [3, 3], "split_score": 0.817388205804848}
+{"sent": "couch closest to door", "ann_id": 1942143, "best_split": [1, 5], "split_score": 0.3207111110826035}
+{"sent": "chair with striped blanket", "ann_id": 1942143, "best_split": [1, 5], "split_score": 0.3207111110826035}
+{"sent": "comfy tan chair that is completely shown", "ann_id": 1942143, "best_split": [2, 2], "split_score": 0.39875637751923176}
+{"sent": "chair with remote on it", "ann_id": 112724, "best_split": [1, 2], "split_score": 0.18331473213555027}
+{"sent": "cut off chair", "ann_id": 112724, "best_split": [1, 2], "split_score": 0.18331473213555027}
+{"sent": "cutoff beige arm chair", "ann_id": 112724, "best_split": [3, 3], "split_score": 0.7955801103554482}

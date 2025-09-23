@@ -1,0 +1,8 @@
+{"sent": "player", "ann_id": 2161560, "best_split": [3, 1], "split_score": 0.39296694360868545}
+{"sent": "the batter", "ann_id": 2161560, "best_split": [1, 2], "split_score": 0.38941295190440917}
+{"sent": "batter", "ann_id": 2161560, "best_split": [1, 2], "split_score": 0.38941295190440917}
+{"sent": "blurry person at 7", "ann_id": 1274897, "best_split": [2, 3], "split_score": 0.7142857141995311}
+{"sent": "blurry part of pic at 7 o clock", "ann_id": 1274897, "best_split": [1, 3], "split_score": 0.35714285712131133}
+{"sent": "person in red shirt", "ann_id": 1217543, "best_split": [1, 5], "split_score": 0.37373053483182794}
+{"sent": "red shirt back pants blurry", "ann_id": 1217543, "best_split": [1, 5], "split_score": 0.37373053483182794}
+{"sent": "man in red", "ann_id": 1217543, "best_split": [1, 5], "split_score": 0.37373053483182794}

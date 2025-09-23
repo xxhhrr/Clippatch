@@ -1,0 +1,6 @@
+{"sent": "standing cow", "ann_id": 1819895, "best_split": [1, 3], "split_score": 0.307552027445422}
+{"sent": "golden brown cow that is standing", "ann_id": 1819895, "best_split": [1, 3], "split_score": 0.307552027445422}
+{"sent": "biggest standing ciw", "ann_id": 1819895, "best_split": [3, 3], "split_score": 0.39827295699259974}
+{"sent": "cow facing us sitting down", "ann_id": 70023, "best_split": [3, 2], "split_score": 0.48599682943413625}
+{"sent": "cow sitting down facing us", "ann_id": 70023, "best_split": [3, 2], "split_score": 0.48599682943413625}
+{"sent": "ment his bike close cow", "ann_id": 70023, "best_split": [3, 2], "split_score": 0.48599682943413625}

@@ -1,0 +1,5 @@
+{"sent": "pizza that is cut off", "ann_id": 1075851, "best_split": [2, 1], "split_score": 0.2589073634132766}
+{"sent": "smaller half of the pizza", "ann_id": 1075851, "best_split": [2, 1], "split_score": 0.2589073634132766}
+{"sent": "western side of pizza", "ann_id": 1075419, "best_split": [1, 2], "split_score": 0.6514775266745878}
+{"sent": "slightly larger half", "ann_id": 1075419, "best_split": [1, 2], "split_score": 0.6514775266745878}
+{"sent": "big half of pizza", "ann_id": 1075419, "best_split": [1, 2], "split_score": 0.6514775266745878}

@@ -1,0 +1,6 @@
+{"sent": "red black yellow flag", "ann_id": 1464734, "best_split": [2, 3], "split_score": 0.5758089367815247}
+{"sent": "flag 2", "ann_id": 1464734, "best_split": [2, 1], "split_score": 0.2725533731760016}
+{"sent": "black red yellow", "ann_id": 1464734, "best_split": [1, 3], "split_score": 0.6569814366045785}
+{"sent": "kite at 9 colock big", "ann_id": 1855894, "best_split": [3, 1], "split_score": 0.17010727485035124}
+{"sent": "rainbow flag close to us", "ann_id": 1855894, "best_split": [1, 5], "split_score": 0.7264895907460077}
+{"sent": "flag red yellow green blue", "ann_id": 1855894, "best_split": [1, 5], "split_score": 0.7264895907460077}

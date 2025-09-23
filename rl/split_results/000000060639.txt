@@ -1,0 +1,5 @@
+{"sent": "the swimming bird furthest from the camera", "ann_id": 40805, "best_split": [5, 1], "split_score": 0.29545454542456834}
+{"sent": "duck with beak in water", "ann_id": 40805, "best_split": [5, 1], "split_score": 0.29545454542456834}
+{"sent": "one with beak lowered into water", "ann_id": 40805, "best_split": [5, 1], "split_score": 0.29545454542456834}
+{"sent": "closest bird", "ann_id": 40666, "best_split": [3, 2], "split_score": 0.6043557168098508}
+{"sent": "closer bird", "ann_id": 40666, "best_split": [3, 2], "split_score": 0.6043557168098508}

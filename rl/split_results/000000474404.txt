@@ -1,0 +1,6 @@
+{"sent": "girl holding box", "ann_id": 490895, "best_split": [1, 5], "split_score": 0.6004366811817388}
+{"sent": "woman holding box", "ann_id": 490895, "best_split": [1, 5], "split_score": 0.6004366811817388}
+{"sent": "woman head holding donuts", "ann_id": 490895, "best_split": [1, 5], "split_score": 0.6004366811817388}
+{"sent": "red shirt", "ann_id": 487944, "best_split": [1, 2], "split_score": 0.6863839285440695}
+{"sent": "red shirt hand in mouth", "ann_id": 487944, "best_split": [1, 2], "split_score": 0.6863839285440695}
+{"sent": "red hoodie", "ann_id": 487944, "best_split": [1, 2], "split_score": 0.6863839285440695}

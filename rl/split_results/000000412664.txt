@@ -1,0 +1,6 @@
+{"sent": "the plant that is half the size of the tallest one", "ann_id": 1610982, "best_split": [1, 5], "split_score": 0.30438311685223385}
+{"sent": "shorter plant next to the flag", "ann_id": 1610982, "best_split": [1, 5], "split_score": 0.30438311685223385}
+{"sent": "blue vase behind striped flag", "ann_id": 1610982, "best_split": [1, 5], "split_score": 0.30438311685223385}
+{"sent": "green leaves", "ann_id": 1610894, "best_split": [1, 2], "split_score": 0.5263674270112348}
+{"sent": "tree climbing window", "ann_id": 1610894, "best_split": [1, 2], "split_score": 0.5263674270112348}
+{"sent": "green plant climbing window", "ann_id": 1610894, "best_split": [1, 2], "split_score": 0.5263674270112348}

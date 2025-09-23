@@ -1,0 +1,6 @@
+{"sent": "elephant with mouth closed", "ann_id": 583703, "best_split": [1, 2], "split_score": 0.719919487076192}
+{"sent": "light gray elephant", "ann_id": 583703, "best_split": [1, 2], "split_score": 0.719919487076192}
+{"sent": "smaller elephant", "ann_id": 583703, "best_split": [1, 2], "split_score": 0.719919487076192}
+{"sent": "darker elephant", "ann_id": 583278, "best_split": [3, 1], "split_score": 0.3177570093357616}
+{"sent": "darker animal", "ann_id": 583278, "best_split": [1, 2], "split_score": 0.7017068544872085}
+{"sent": "darker elephant", "ann_id": 583278, "best_split": [3, 1], "split_score": 0.3177570093357616}

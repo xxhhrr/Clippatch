@@ -1,0 +1,6 @@
+{"sent": "dog closer to lady", "ann_id": 15810, "best_split": [3, 3], "split_score": 0.4014820695512131}
+{"sent": "dog closest to woman", "ann_id": 15810, "best_split": [3, 3], "split_score": 0.4014820695512131}
+{"sent": "dog whose face we can see", "ann_id": 15810, "best_split": [3, 3], "split_score": 0.4014820695512131}
+{"sent": "dog under stewie", "ann_id": 7250, "best_split": [2, 2], "split_score": 0.6224434511294566}
+{"sent": "the dog close to us", "ann_id": 7250, "best_split": [2, 2], "split_score": 0.6224434511294566}
+{"sent": "close dog", "ann_id": 7250, "best_split": [2, 2], "split_score": 0.6224434511294566}

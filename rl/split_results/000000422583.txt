@@ -1,0 +1,6 @@
+{"sent": "partial person", "ann_id": 557463, "best_split": [2, 1], "split_score": 0.18872326635811007}
+{"sent": "leopard spots", "ann_id": 557463, "best_split": [1, 5], "split_score": 0.8429553263880623}
+{"sent": "leopard print", "ann_id": 557463, "best_split": [1, 5], "split_score": 0.8429553263880623}
+{"sent": "male doing a skateboard trick", "ann_id": 455340, "best_split": [1, 5], "split_score": 0.37606032042708626}
+{"sent": "skateboarder", "ann_id": 455340, "best_split": [1, 5], "split_score": 0.37606032042708626}
+{"sent": "man jumping on skateboard", "ann_id": 455340, "best_split": [1, 5], "split_score": 0.37606032042708626}

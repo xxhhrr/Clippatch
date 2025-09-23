@@ -1,0 +1,5 @@
+{"sent": "black bird sitting on hill", "ann_id": 41027, "best_split": [3, 2], "split_score": 0.683154775395127}
+{"sent": "number 3 bird", "ann_id": 41027, "best_split": [3, 2], "split_score": 0.683154775395127}
+{"sent": "number 1 bird", "ann_id": 37477, "best_split": [3, 1], "split_score": 0.1934662706728115}
+{"sent": "flapping bird", "ann_id": 37477, "best_split": [1, 5], "split_score": 0.3953323903469473}
+{"sent": "duck with wings open", "ann_id": 37477, "best_split": [3, 1], "split_score": 0.1934662706728115}

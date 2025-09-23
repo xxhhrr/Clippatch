@@ -1,0 +1,6 @@
+{"sent": "man in red", "ann_id": 1752786, "best_split": [1, 5], "split_score": 0.3529056906944595}
+{"sent": "man in maroon jacket", "ann_id": 1752786, "best_split": [3, 3], "split_score": 0.37598544566767955}
+{"sent": "red jacket", "ann_id": 1752786, "best_split": [3, 3], "split_score": 0.37598544566767955}
+{"sent": "child with light blue on", "ann_id": 1752511, "best_split": [1, 5], "split_score": 0.2736905237631257}
+{"sent": "blue", "ann_id": 1752511, "best_split": [1, 5], "split_score": 0.2736905237631257}
+{"sent": "child in blue", "ann_id": 1752511, "best_split": [1, 5], "split_score": 0.2736905237631257}

@@ -1,0 +1,6 @@
+{"sent": "umbrella in background", "ann_id": 1425130, "best_split": [5, 1], "split_score": 0.17480998912641965}
+{"sent": "farther white umbrella", "ann_id": 1425130, "best_split": [3, 1], "split_score": 0.14425087107176243}
+{"sent": "smaller umbrella", "ann_id": 1425130, "best_split": [3, 1], "split_score": 0.14425087107176243}
+{"sent": "closer u", "ann_id": 282045, "best_split": [2, 1], "split_score": 0.18764208684967526}
+{"sent": "close umbrella", "ann_id": 282045, "best_split": [3, 1], "split_score": 0.6650826445937457}
+{"sent": "big umbrella", "ann_id": 282045, "best_split": [3, 1], "split_score": 0.6650826445937457}

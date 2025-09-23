@@ -1,0 +1,5 @@
+{"sent": "table behind cola", "ann_id": 414874, "best_split": [2, 2], "split_score": 0.22526315787779977}
+{"sent": "table in background", "ann_id": 414874, "best_split": [2, 3], "split_score": 0.1716621253238943}
+{"sent": "back table", "ann_id": 414874, "best_split": [3, 3], "split_score": 0.23633440511303128}
+{"sent": "the table", "ann_id": 413947, "best_split": [3, 1], "split_score": 0.4733520738777651}
+{"sent": "sectionon sides of coke cup", "ann_id": 413947, "best_split": [3, 1], "split_score": 0.4733520738777651}

@@ -1,0 +1,6 @@
+{"sent": "tennis player serving ball", "ann_id": 462089, "best_split": [2, 3], "split_score": 0.49411764699950567}
+{"sent": "serving", "ann_id": 462089, "best_split": [1, 3], "split_score": 0.25084459457946157}
+{"sent": "the player with his arm up", "ann_id": 462089, "best_split": [2, 3], "split_score": 0.49411764699950567}
+{"sent": "man with legs far apart", "ann_id": 428928, "best_split": [3, 2], "split_score": 0.4264471587608572}
+{"sent": "waiting for ball", "ann_id": 428928, "best_split": [1, 3], "split_score": 0.348795071555137}
+{"sent": "the man that holding his tennis racket", "ann_id": 428928, "best_split": [3, 3], "split_score": 0.3766769865563411}

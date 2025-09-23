@@ -1,0 +1,6 @@
+{"sent": "partial chair seat", "ann_id": 289538, "best_split": [2, 2], "split_score": 0.1723067370248132}
+{"sent": "seat part", "ann_id": 289538, "best_split": [1, 2], "split_score": 0.08730533270067227}
+{"sent": "chair you can barely see at five o clock", "ann_id": 289538, "best_split": [2, 1], "split_score": 0.1020408163224633}
+{"sent": "visible chair back", "ann_id": 100431, "best_split": [1, 5], "split_score": 0.7278376895697461}
+{"sent": "chair back", "ann_id": 100431, "best_split": [1, 5], "split_score": 0.7278376895697461}
+{"sent": "chair", "ann_id": 100431, "best_split": [1, 5], "split_score": 0.7278376895697461}

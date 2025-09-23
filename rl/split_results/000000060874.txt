@@ -1,0 +1,9 @@
+{"sent": "chair 9 o clock", "ann_id": 112259, "best_split": [3, 3], "split_score": 0.359709802537589}
+{"sent": "chair furthest", "ann_id": 112259, "best_split": [3, 3], "split_score": 0.359709802537589}
+{"sent": "chair closest to tv", "ann_id": 101228, "best_split": [2, 2], "split_score": 0.2647480867135883}
+{"sent": "chair in full view", "ann_id": 101228, "best_split": [3, 3], "split_score": 0.4740281500546199}
+{"sent": "can see entire chair", "ann_id": 101228, "best_split": [3, 3], "split_score": 0.4740281500546199}
+{"sent": "chair at 3", "ann_id": 1931123, "best_split": [3, 2], "split_score": 0.383141762406233}
+{"sent": "chair half in picture", "ann_id": 98057, "best_split": [3, 2], "split_score": 0.3724662161712758}
+{"sent": "chair by bookshelf", "ann_id": 98057, "best_split": [2, 3], "split_score": 0.3643996641040662}
+{"sent": "arm chair not fully visible", "ann_id": 98057, "best_split": [3, 3], "split_score": 0.5498642532941422}

@@ -1,0 +1,8 @@
+{"sent": "corner black", "ann_id": 212573, "best_split": [2, 2], "split_score": 0.34151785711563154}
+{"sent": "person holding phone up", "ann_id": 212573, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "person taking pictures", "ann_id": 202788, "best_split": [2, 3], "split_score": 0.5542814869100905}
+{"sent": "man in black", "ann_id": 202788, "best_split": [2, 3], "split_score": 0.5542814869100905}
+{"sent": "guy black shirt", "ann_id": 202788, "best_split": [2, 3], "split_score": 0.5542814869100905}
+{"sent": "man riding horse", "ann_id": 198100, "best_split": [3, 1], "split_score": 0.2137587238178585}
+{"sent": "adult on horse", "ann_id": 198100, "best_split": [3, 1], "split_score": 0.2137587238178585}
+{"sent": "guy on horse", "ann_id": 198100, "best_split": [3, 1], "split_score": 0.2137587238178585}

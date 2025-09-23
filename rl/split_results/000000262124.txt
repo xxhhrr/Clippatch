@@ -1,0 +1,11 @@
+{"sent": "person facing away from us looking up white capris and dark jacket with hood on", "ann_id": 1213657, "best_split": [5, 1], "split_score": 0.13506139153009367}
+{"sent": "white pants", "ann_id": 1213657, "best_split": [1, 5], "split_score": 0.3506493506137734}
+{"sent": "woman holding purse over sholder", "ann_id": 1755248, "best_split": [5, 1], "split_score": 0.0957215373372261}
+{"sent": "ladyb with pocketbook and umbrella", "ann_id": 1755248, "best_split": [2, 1], "split_score": 0.08172315489065081}
+{"sent": "person with the handbag", "ann_id": 1755248, "best_split": [5, 1], "split_score": 0.0957215373372261}
+{"sent": "man with cane", "ann_id": 1306947, "best_split": [1, 5], "split_score": 0.39082792203826827}
+{"sent": "person with crossed legs looking at something", "ann_id": 1306947, "best_split": [1, 5], "split_score": 0.39082792203826827}
+{"sent": "person leaning on pole", "ann_id": 1306947, "best_split": [1, 5], "split_score": 0.39082792203826827}
+{"sent": "person blocking menu with umbrella", "ann_id": 1300701, "best_split": [3, 3], "split_score": 0.3743852458632802}
+{"sent": "closest person holding umbrella", "ann_id": 1300701, "best_split": [2, 2], "split_score": 0.47035175876020446}
+{"sent": "gray embrella white shirt", "ann_id": 1300701, "best_split": [2, 3], "split_score": 0.6772793052845483}

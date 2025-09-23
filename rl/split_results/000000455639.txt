@@ -1,0 +1,7 @@
+{"sent": "a person sitting with a blanket over them", "ann_id": 498295, "best_split": [3, 3], "split_score": 0.5565177756886375}
+{"sent": "covered in blanket", "ann_id": 498295, "best_split": [3, 3], "split_score": 0.5565177756886375}
+{"sent": "woman sitting down with red shawl", "ann_id": 498295, "best_split": [3, 3], "split_score": 0.5565177756886375}
+{"sent": "the woman with a blanket", "ann_id": 498295, "best_split": [3, 3], "split_score": 0.5565177756886375}
+{"sent": "player", "ann_id": 427056, "best_split": [1, 3], "split_score": 0.6202614378831592}
+{"sent": "batter", "ann_id": 427056, "best_split": [1, 3], "split_score": 0.6202614378831592}
+{"sent": "hitter", "ann_id": 427056, "best_split": [1, 3], "split_score": 0.6202614378831592}

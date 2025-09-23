@@ -1,0 +1,6 @@
+{"sent": "swing batter batter batter", "ann_id": 493719, "best_split": [1, 5], "split_score": 0.4110320284436304}
+{"sent": "baseball hitter", "ann_id": 493719, "best_split": [1, 5], "split_score": 0.4110320284436304}
+{"sent": "hitter", "ann_id": 493719, "best_split": [1, 5], "split_score": 0.4110320284436304}
+{"sent": "catcher", "ann_id": 481025, "best_split": [2, 3], "split_score": 0.41096138189283155}
+{"sent": "catcher", "ann_id": 481025, "best_split": [2, 3], "split_score": 0.41096138189283155}
+{"sent": "cather", "ann_id": 481025, "best_split": [3, 3], "split_score": 0.5158231598298183}

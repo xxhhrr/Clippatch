@@ -1,0 +1,6 @@
+{"sent": "man in suit", "ann_id": 1224275, "best_split": [1, 5], "split_score": 0.7139423076386762}
+{"sent": "man", "ann_id": 1224275, "best_split": [1, 5], "split_score": 0.7139423076386762}
+{"sent": "suit", "ann_id": 1224275, "best_split": [1, 5], "split_score": 0.7139423076386762}
+{"sent": "person with umbrella", "ann_id": 474454, "best_split": [1, 2], "split_score": 0.17061271343913714}
+{"sent": "umbrella lady", "ann_id": 474454, "best_split": [1, 2], "split_score": 0.17061271343913714}
+{"sent": "the kid under the imbrella", "ann_id": 474454, "best_split": [1, 2], "split_score": 0.17061271343913714}

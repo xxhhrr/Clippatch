@@ -1,0 +1,6 @@
+{"sent": "lightest bus", "ann_id": 2171696, "best_split": [1, 2], "split_score": 0.793421186327673}
+{"sent": "white train", "ann_id": 2171696, "best_split": [1, 2], "split_score": 0.793421186327673}
+{"sent": "white train", "ann_id": 2171696, "best_split": [1, 2], "split_score": 0.793421186327673}
+{"sent": "train with grafiti", "ann_id": 174893, "best_split": [1, 3], "split_score": 0.8438596490765428}
+{"sent": "train 900", "ann_id": 174893, "best_split": [2, 1], "split_score": 0.27864077669057524}
+{"sent": "bus with pictures", "ann_id": 174893, "best_split": [1, 3], "split_score": 0.8438596490765428}

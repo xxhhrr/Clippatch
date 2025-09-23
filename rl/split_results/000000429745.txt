@@ -1,0 +1,6 @@
+{"sent": "woman with pink and white skirt", "ann_id": 255915, "best_split": [1, 5], "split_score": 0.38171536283251517}
+{"sent": "flower skirt", "ann_id": 255915, "best_split": [1, 5], "split_score": 0.38171536283251517}
+{"sent": "woman with flowered skirt", "ann_id": 255915, "best_split": [1, 5], "split_score": 0.38171536283251517}
+{"sent": "woman in blue pants", "ann_id": 205146, "best_split": [2, 1], "split_score": 0.10747185260610206}
+{"sent": "blue shirt", "ann_id": 205146, "best_split": [3, 1], "split_score": 0.1051136363583039}
+{"sent": "woman in blue", "ann_id": 205146, "best_split": [2, 2], "split_score": 0.1464737793757121}

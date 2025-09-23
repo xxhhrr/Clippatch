@@ -1,0 +1,11 @@
+{"sent": "white shirt", "ann_id": 1726761, "best_split": [1, 3], "split_score": 0.52076855093055}
+{"sent": "man in white shirt", "ann_id": 1726761, "best_split": [1, 3], "split_score": 0.52076855093055}
+{"sent": "monitor by man in blue", "ann_id": 1103807, "best_split": [3, 1], "split_score": 0.2736486486321399}
+{"sent": "younger guys device", "ann_id": 1103807, "best_split": [3, 1], "split_score": 0.2736486486321399}
+{"sent": "closest laptop", "ann_id": 1103807, "best_split": [5, 1], "split_score": 0.32914665678526533}
+{"sent": "the laptop they are looking at", "ann_id": 1101513, "best_split": [3, 3], "split_score": 0.7951133351788175}
+{"sent": "laptop the guy is looking at", "ann_id": 1101513, "best_split": [3, 3], "split_score": 0.7951133351788175}
+{"sent": "comp man in white is looking at", "ann_id": 1101513, "best_split": [3, 3], "split_score": 0.7951133351788175}
+{"sent": "american flag on shirt", "ann_id": 428390, "best_split": [1, 2], "split_score": 0.5436862244681248}
+{"sent": "man in black", "ann_id": 428390, "best_split": [2, 1], "split_score": 0.2113856740628281}
+{"sent": "the man with a flag on his shoulder", "ann_id": 428390, "best_split": [1, 3], "split_score": 0.8228764478268052}

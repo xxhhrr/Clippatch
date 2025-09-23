@@ -1,0 +1,12 @@
+{"sent": "man at end with hand in jacket", "ann_id": 535015, "best_split": [3, 1], "split_score": 0.1794601433899483}
+{"sent": "main in black on side", "ann_id": 535015, "best_split": [3, 2], "split_score": 0.3187265917304563}
+{"sent": "man nearest tree", "ann_id": 535015, "best_split": [3, 1], "split_score": 0.1794601433899483}
+{"sent": "man next to man reaching into breast pocket", "ann_id": 521723, "best_split": [3, 3], "split_score": 0.4314365671138716}
+{"sent": "man with light hat", "ann_id": 521723, "best_split": [1, 5], "split_score": 0.416326530576843}
+{"sent": "man white hat on leg", "ann_id": 521723, "best_split": [1, 5], "split_score": 0.416326530576843}
+{"sent": "third guy in", "ann_id": 462028, "best_split": [3, 3], "split_score": 0.44111922135752807}
+{"sent": "man with black hat on knee", "ann_id": 462028, "best_split": [3, 3], "split_score": 0.44111922135752807}
+{"sent": "legs not crossed", "ann_id": 462028, "best_split": [1, 5], "split_score": 0.405335180979964}
+{"sent": "guy light suit", "ann_id": 429331, "best_split": [1, 2], "split_score": 0.38552295916830664}
+{"sent": "light suit", "ann_id": 429331, "best_split": [1, 2], "split_score": 0.38552295916830664}
+{"sent": "man in lighter colored suit", "ann_id": 429331, "best_split": [1, 2], "split_score": 0.38552295916830664}

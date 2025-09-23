@@ -1,0 +1,9 @@
+{"sent": "man behind military man in black", "ann_id": 1256584, "best_split": [1, 2], "split_score": 0.23389668366414634}
+{"sent": "man in business suit behind solider in dark", "ann_id": 1256584, "best_split": [1, 2], "split_score": 0.23389668366414634}
+{"sent": "all black suit behind officer", "ann_id": 1256584, "best_split": [1, 2], "split_score": 0.23389668366414634}
+{"sent": "man in dark uniform", "ann_id": 1233912, "best_split": [1, 2], "split_score": 0.33580806053041884}
+{"sent": "man in blue uniform", "ann_id": 1233912, "best_split": [1, 2], "split_score": 0.33580806053041884}
+{"sent": "guy in dark suit shaking hands", "ann_id": 1233912, "best_split": [1, 3], "split_score": 0.7059613920049285}
+{"sent": "in white", "ann_id": 1229255, "best_split": [1, 3], "split_score": 0.7773642731623597}
+{"sent": "white uniform", "ann_id": 1229255, "best_split": [1, 3], "split_score": 0.7773642731623597}
+{"sent": "white suit", "ann_id": 1229255, "best_split": [1, 3], "split_score": 0.7773642731623597}

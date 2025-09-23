@@ -1,0 +1,6 @@
+{"sent": "bidet not the toilet", "ann_id": 1093137, "best_split": [2, 2], "split_score": 0.429621334049862}
+{"sent": "urinal", "ann_id": 1093137, "best_split": [2, 2], "split_score": 0.429621334049862}
+{"sent": "sink", "ann_id": 1093137, "best_split": [2, 2], "split_score": 0.429621334049862}
+{"sent": "toilet with lid", "ann_id": 1092635, "best_split": [1, 5], "split_score": 0.46610169487998626}
+{"sent": "toilet with lid", "ann_id": 1092635, "best_split": [1, 5], "split_score": 0.46610169487998626}
+{"sent": "toilet", "ann_id": 1092635, "best_split": [3, 2], "split_score": 0.3938634940205179}

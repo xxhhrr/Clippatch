@@ -1,0 +1,12 @@
+{"sent": "guy following 42", "ann_id": 1271599, "best_split": [1, 5], "split_score": 0.4210115972691734}
+{"sent": "player furrthest away from suits", "ann_id": 1271599, "best_split": [5, 1], "split_score": 0.11808910358729476}
+{"sent": "guy closest edge behind 42", "ann_id": 1271599, "best_split": [3, 1], "split_score": 0.1384212495249628}
+{"sent": "white pants dark shirt", "ann_id": 1217516, "best_split": [1, 5], "split_score": 0.395698051907904}
+{"sent": "black shirt light pants", "ann_id": 1217516, "best_split": [1, 5], "split_score": 0.395698051907904}
+{"sent": "man in black closest to us", "ann_id": 1211054, "best_split": [2, 3], "split_score": 0.49832950506386203}
+{"sent": "the closest guy in a suit", "ann_id": 1211054, "best_split": [2, 3], "split_score": 0.49832950506386203}
+{"sent": "umpire furthest from players", "ann_id": 1725077, "best_split": [3, 1], "split_score": 0.14949494948678707}
+{"sent": "man in back with white hair showing under cap", "ann_id": 1725077, "best_split": [3, 2], "split_score": 0.2730627306000735}
+{"sent": "guy between 27 and 42 going to shake hands", "ann_id": 1285864, "best_split": [2, 3], "split_score": 0.22804856587822905}
+{"sent": "the guy in white closest to us", "ann_id": 1285864, "best_split": [2, 3], "split_score": 0.22804856587822905}
+{"sent": "player with high black socks", "ann_id": 1285864, "best_split": [1, 5], "split_score": 0.4291237113007066}

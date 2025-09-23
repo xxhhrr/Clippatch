@@ -1,0 +1,6 @@
+{"sent": "short carrot", "ann_id": 1062539, "best_split": [5, 1], "split_score": 0.3109296482167926}
+{"sent": "carrot with white part facing us", "ann_id": 1062539, "best_split": [5, 1], "split_score": 0.3109296482167926}
+{"sent": "carrot with white circle", "ann_id": 1062539, "best_split": [5, 1], "split_score": 0.3109296482167926}
+{"sent": "longer", "ann_id": 1062072, "best_split": [2, 2], "split_score": 0.6509589040586333}
+{"sent": "big carrot", "ann_id": 1062072, "best_split": [2, 2], "split_score": 0.6509589040586333}
+{"sent": "longest carrot", "ann_id": 1062072, "best_split": [2, 2], "split_score": 0.6509589040586333}

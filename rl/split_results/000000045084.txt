@@ -1,0 +1,6 @@
+{"sent": "man in aqua shirt", "ann_id": 2159991, "best_split": [2, 3], "split_score": 0.5060585821480719}
+{"sent": "light blue shirt", "ann_id": 2159991, "best_split": [2, 3], "split_score": 0.5060585821480719}
+{"sent": "blue shirt walking", "ann_id": 2159991, "best_split": [2, 3], "split_score": 0.5060585821480719}
+{"sent": "the taller one sitting down", "ann_id": 449676, "best_split": [5, 1], "split_score": 0.16626753334192032}
+{"sent": "taller person sitting", "ann_id": 449676, "best_split": [2, 3], "split_score": 0.33436532504042843}
+{"sent": "adult sitting on ground", "ann_id": 449676, "best_split": [2, 3], "split_score": 0.33436532504042843}

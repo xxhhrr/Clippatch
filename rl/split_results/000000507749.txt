@@ -1,0 +1,12 @@
+{"sent": "kid", "ann_id": 452294, "best_split": [1, 5], "split_score": 0.396563119592431}
+{"sent": "child standing", "ann_id": 452294, "best_split": [3, 3], "split_score": 0.5016587335206031}
+{"sent": "kid", "ann_id": 452294, "best_split": [1, 5], "split_score": 0.396563119592431}
+{"sent": "mom", "ann_id": 426952, "best_split": [2, 3], "split_score": 0.7275579149701306}
+{"sent": "adult", "ann_id": 426952, "best_split": [3, 3], "split_score": 0.7219395389521192}
+{"sent": "woman", "ann_id": 426952, "best_split": [2, 3], "split_score": 0.7275579149701306}
+{"sent": "stovetop", "ann_id": 2228502, "best_split": [3, 2], "split_score": 0.5915884601501922}
+{"sent": "stove burners", "ann_id": 2228502, "best_split": [3, 2], "split_score": 0.5915884601501922}
+{"sent": "the stovetop", "ann_id": 2228502, "best_split": [3, 2], "split_score": 0.5915884601501922}
+{"sent": "oven door", "ann_id": 2228228, "best_split": [1, 5], "split_score": 0.4012158054330152}
+{"sent": "the oven", "ann_id": 2228228, "best_split": [1, 5], "split_score": 0.4012158054330152}
+{"sent": "oven door", "ann_id": 2228228, "best_split": [1, 5], "split_score": 0.4012158054330152}

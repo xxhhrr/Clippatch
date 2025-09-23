@@ -1,0 +1,17 @@
+{"sent": "highest guy on bike", "ann_id": 216732, "best_split": [1, 3], "split_score": 0.276423745157069}
+{"sent": "third cyclist away with hat", "ann_id": 216732, "best_split": [1, 2], "split_score": 0.08681318681000684}
+{"sent": "sleeveless rider", "ann_id": 216732, "best_split": [1, 3], "split_score": 0.276423745157069}
+{"sent": "white guy with no hat but on a motorcycle", "ann_id": 213467, "best_split": [2, 1], "split_score": 0.08512096497549444}
+{"sent": "bald biker", "ann_id": 213467, "best_split": [2, 1], "split_score": 0.08512096497549444}
+{"sent": "red shirt looking away", "ann_id": 213467, "best_split": [1, 3], "split_score": 0.3968388030648625}
+{"sent": "man in red shirt closest to us", "ann_id": 188474, "best_split": [1, 2], "split_score": 0.44575463727925957}
+{"sent": "red shirt black man", "ann_id": 188474, "best_split": [1, 2], "split_score": 0.44575463727925957}
+{"sent": "closest man", "ann_id": 188474, "best_split": [1, 2], "split_score": 0.44575463727925957}
+{"sent": "wheel of cycle", "ann_id": 155686, "best_split": [1, 3], "split_score": 0.7008953987526062}
+{"sent": "bike whose wheel touches 9s edge", "ann_id": 155686, "best_split": [1, 3], "split_score": 0.7008953987526062}
+{"sent": "black windshield with red sticker on it", "ann_id": 155686, "best_split": [1, 2], "split_score": 0.6491948341577968}
+{"sent": "bit of flesh behind rider secont from us", "ann_id": 240615, "best_split": [2, 1], "split_score": 0.026413446844705906}
+{"sent": "girl in red shirt", "ann_id": 240615, "best_split": [3, 3], "split_score": 0.20973413979325725}
+{"sent": "motorcycle", "ann_id": 155566, "best_split": [2, 1], "split_score": 0.8402024872114078}
+{"sent": "bike of man closest", "ann_id": 155566, "best_split": [2, 1], "split_score": 0.8402024872114078}
+{"sent": "closest bike", "ann_id": 155566, "best_split": [2, 1], "split_score": 0.8402024872114078}

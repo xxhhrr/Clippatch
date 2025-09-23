@@ -1,0 +1,6 @@
+{"sent": "standing bird", "ann_id": 43102, "best_split": [2, 3], "split_score": 0.4657039710665947}
+{"sent": "standing bird", "ann_id": 43102, "best_split": [2, 3], "split_score": 0.4657039710665947}
+{"sent": "standing", "ann_id": 43102, "best_split": [2, 3], "split_score": 0.4657039710665947}
+{"sent": "one laying down", "ann_id": 39461, "best_split": [3, 3], "split_score": 0.41546762582455615}
+{"sent": "bird sitting down", "ann_id": 39461, "best_split": [5, 1], "split_score": 0.15435356199073186}
+{"sent": "sitting bird", "ann_id": 39461, "best_split": [5, 1], "split_score": 0.15435356199073186}

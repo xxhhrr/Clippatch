@@ -1,0 +1,6 @@
+{"sent": "the mans arm sticking out the side", "ann_id": 456655, "best_split": [1, 5], "split_score": 0.39174107138882497}
+{"sent": "arm off screen", "ann_id": 456655, "best_split": [3, 2], "split_score": 0.1873534010762946}
+{"sent": "person cut off mostly out of frame", "ann_id": 456655, "best_split": [1, 2], "split_score": 0.15389827805509015}
+{"sent": "cookin man", "ann_id": 444729, "best_split": [3, 3], "split_score": 0.46242774560399}
+{"sent": "cooking man", "ann_id": 444729, "best_split": [3, 3], "split_score": 0.46242774560399}
+{"sent": "woman", "ann_id": 444729, "best_split": [2, 3], "split_score": 0.4201038801894181}

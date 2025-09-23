@@ -1,0 +1,6 @@
+{"sent": "piece of donut closest to fingers", "ann_id": 1924721, "best_split": [2, 2], "split_score": 0.23366834169019562}
+{"sent": "the food that is being cut", "ann_id": 1924721, "best_split": [1, 5], "split_score": 0.24631578945011331}
+{"sent": "whatever the hands are cutting and forking into", "ann_id": 1924721, "best_split": [1, 2], "split_score": 0.12627551019904834}
+{"sent": "donut with purple drizzle", "ann_id": 1080158, "best_split": [3, 2], "split_score": 0.5732569888368763}
+{"sent": "brown food with red on it", "ann_id": 1080158, "best_split": [3, 2], "split_score": 0.5732569888368763}
+{"sent": "food with purple drizzle", "ann_id": 1080158, "best_split": [3, 2], "split_score": 0.5732569888368763}

@@ -1,0 +1,9 @@
+{"sent": "person cut off at edge white and black sleeve", "ann_id": 490262, "best_split": [3, 3], "split_score": 0.371972581816912}
+{"sent": "person with white sleeve barely visiible", "ann_id": 490262, "best_split": [1, 3], "split_score": 0.21301882238097136}
+{"sent": "person whose face we cant see", "ann_id": 490262, "best_split": [1, 3], "split_score": 0.21301882238097136}
+{"sent": "red shirt and glasses", "ann_id": 486253, "best_split": [1, 2], "split_score": 0.7055165816045313}
+{"sent": "boy glasses red shirt", "ann_id": 486253, "best_split": [1, 2], "split_score": 0.7055165816045313}
+{"sent": "the guy holding the pizza", "ann_id": 486253, "best_split": [1, 2], "split_score": 0.7055165816045313}
+{"sent": "boy in black", "ann_id": 457019, "best_split": [1, 2], "split_score": 0.8623880596693139}
+{"sent": "black shirt", "ann_id": 457019, "best_split": [1, 2], "split_score": 0.8623880596693139}
+{"sent": "dark shirt with i", "ann_id": 457019, "best_split": [1, 2], "split_score": 0.8623880596693139}

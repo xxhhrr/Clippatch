@@ -1,0 +1,6 @@
+{"sent": "white little cup", "ann_id": 1503488, "best_split": [3, 3], "split_score": 0.8735671512620072}
+{"sent": "coffee", "ann_id": 1503488, "best_split": [3, 3], "split_score": 0.8735671512620072}
+{"sent": "bowl 12 o clock", "ann_id": 1503488, "best_split": [1, 3], "split_score": 0.306648494885835}
+{"sent": "clear glass", "ann_id": 675557, "best_split": [3, 3], "split_score": 0.7369942195200516}
+{"sent": "empty clear glass", "ann_id": 675557, "best_split": [3, 3], "split_score": 0.7369942195200516}
+{"sent": "glass", "ann_id": 675557, "best_split": [3, 3], "split_score": 0.7369942195200516}

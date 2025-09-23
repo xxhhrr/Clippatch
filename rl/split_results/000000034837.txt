@@ -1,0 +1,6 @@
+{"sent": "the child with the zebra striped jacket", "ann_id": 1325279, "best_split": [1, 3], "split_score": 0.6669278996491868}
+{"sent": "zebra child", "ann_id": 1325279, "best_split": [1, 3], "split_score": 0.6669278996491868}
+{"sent": "zebra girl", "ann_id": 1325279, "best_split": [1, 3], "split_score": 0.6669278996491868}
+{"sent": "man in black", "ann_id": 1266135, "best_split": [1, 3], "split_score": 0.5884134797106932}
+{"sent": "old man in black jacket", "ann_id": 1266135, "best_split": [1, 3], "split_score": 0.5884134797106932}
+{"sent": "sweater man", "ann_id": 1266135, "best_split": [3, 1], "split_score": 0.280804291870685}

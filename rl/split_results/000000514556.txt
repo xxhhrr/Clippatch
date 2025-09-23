@@ -1,0 +1,8 @@
+{"sent": "old man in hat", "ann_id": 518929, "best_split": [1, 2], "split_score": 0.2080676020325228}
+{"sent": "old man in a hat", "ann_id": 518929, "best_split": [1, 2], "split_score": 0.2080676020325228}
+{"sent": "white hat", "ann_id": 512321, "best_split": [1, 3], "split_score": 0.6351610622722831}
+{"sent": "woman in white cap", "ann_id": 512321, "best_split": [1, 3], "split_score": 0.6351610622722831}
+{"sent": "she is facing the guy with a bat", "ann_id": 512321, "best_split": [1, 3], "split_score": 0.6351610622722831}
+{"sent": "man with bat", "ann_id": 505494, "best_split": [1, 2], "split_score": 0.719825496827441}
+{"sent": "man holding bat", "ann_id": 505494, "best_split": [1, 2], "split_score": 0.719825496827441}
+{"sent": "blue shirt holding bat", "ann_id": 505494, "best_split": [1, 2], "split_score": 0.719825496827441}

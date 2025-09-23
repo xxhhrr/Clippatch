@@ -1,0 +1,6 @@
+{"sent": "elephant who is not fully visible", "ann_id": 582526, "best_split": [1, 2], "split_score": 0.8710937499652784}
+{"sent": "elephant barely visible", "ann_id": 582526, "best_split": [1, 2], "split_score": 0.8710937499652784}
+{"sent": "back", "ann_id": 582526, "best_split": [1, 2], "split_score": 0.8710937499652784}
+{"sent": "the face", "ann_id": 582460, "best_split": [2, 1], "split_score": 0.45906334230839235}
+{"sent": "elephant face", "ann_id": 582460, "best_split": [2, 1], "split_score": 0.47773417504526244}
+{"sent": "main elephant", "ann_id": 582460, "best_split": [2, 1], "split_score": 0.47773417504526244}

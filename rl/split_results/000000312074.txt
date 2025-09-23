@@ -1,0 +1,13 @@
+{"sent": "yellow black shirt", "ann_id": 238325, "best_split": [1, 2], "split_score": 0.4911460805253516}
+{"sent": "yellow and black", "ann_id": 238325, "best_split": [1, 2], "split_score": 0.4911460805253516}
+{"sent": "yellow on black shirt", "ann_id": 238325, "best_split": [1, 2], "split_score": 0.4911460805253516}
+{"sent": "guy in white hoodie", "ann_id": 236220, "best_split": [1, 5], "split_score": 0.4880275973530816}
+{"sent": "person in white jacket behind woman in black", "ann_id": 236220, "best_split": [1, 5], "split_score": 0.4880275973530816}
+{"sent": "man in gray sunglasses on head", "ann_id": 236220, "best_split": [5, 1], "split_score": 0.08460286939176136}
+{"sent": "blue shirt man behind black and yellow shirt", "ann_id": 224821, "best_split": [1, 5], "split_score": 0.4177840507747191}
+{"sent": "blue shirt", "ann_id": 224821, "best_split": [1, 5], "split_score": 0.4177840507747191}
+{"sent": "bright blue shirt", "ann_id": 224821, "best_split": [1, 5], "split_score": 0.4177840507747191}
+{"sent": "guy in blue", "ann_id": 224821, "best_split": [1, 3], "split_score": 0.3508771929616597}
+{"sent": "woman in an orange hat", "ann_id": 213305, "best_split": [1, 3], "split_score": 0.5592576028309896}
+{"sent": "woman with orange cap", "ann_id": 213305, "best_split": [1, 3], "split_score": 0.5592576028309896}
+{"sent": "orange cap", "ann_id": 213305, "best_split": [1, 3], "split_score": 0.5592576028309896}

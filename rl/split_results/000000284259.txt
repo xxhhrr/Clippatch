@@ -1,0 +1,4 @@
+{"sent": "green thing closest to us", "ann_id": 1055286, "best_split": [2, 3], "split_score": 0.390043159651707}
+{"sent": "brocolli closest", "ann_id": 1055286, "best_split": [2, 3], "split_score": 0.390043159651707}
+{"sent": "broccoli next to coca cola by brown stew", "ann_id": 1055244, "best_split": [3, 3], "split_score": 0.4382761138717538}
+{"sent": "broccoli underneath the coca cola sign", "ann_id": 1055244, "best_split": [3, 3], "split_score": 0.4382761138717538}

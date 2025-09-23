@@ -1,0 +1,6 @@
+{"sent": "man standing", "ann_id": 473903, "best_split": [1, 3], "split_score": 0.4583909635512684}
+{"sent": "man bent over", "ann_id": 473903, "best_split": [1, 3], "split_score": 0.4583909635512684}
+{"sent": "man standing in plaid shorts", "ann_id": 473903, "best_split": [1, 3], "split_score": 0.4583909635512684}
+{"sent": "woman sitting on the red sofa", "ann_id": 466635, "best_split": [1, 2], "split_score": 0.5616050353830997}
+{"sent": "woman laughing in chair", "ann_id": 466635, "best_split": [1, 2], "split_score": 0.5616050353830997}
+{"sent": "closest sitting person", "ann_id": 466635, "best_split": [1, 2], "split_score": 0.5616050353830997}

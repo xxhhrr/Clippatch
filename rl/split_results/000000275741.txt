@@ -1,0 +1,11 @@
+{"sent": "blurry person closest to us", "ann_id": 1704929, "best_split": [1, 3], "split_score": 0.5813223937873236}
+{"sent": "blurry person lower lefty", "ann_id": 1704929, "best_split": [2, 1], "split_score": 0.26739178041216904}
+{"sent": "afro hair", "ann_id": 1697258, "best_split": [3, 2], "split_score": 0.24572348558606122}
+{"sent": "white shirt no letters", "ann_id": 1697258, "best_split": [2, 1], "split_score": 0.0511148733816824}
+{"sent": "man between two women", "ann_id": 1697258, "best_split": [3, 3], "split_score": 0.27641408747646556}
+{"sent": "woman sleeveless long hair", "ann_id": 1697125, "best_split": [1, 5], "split_score": 0.5136778115028389}
+{"sent": "girl dark shirt", "ann_id": 1697125, "best_split": [2, 1], "split_score": 0.16796990261994799}
+{"sent": "girl with ponytail", "ann_id": 1697125, "best_split": [1, 5], "split_score": 0.5136778115028389}
+{"sent": "person with letters on shirt", "ann_id": 1686173, "best_split": [2, 3], "split_score": 0.2126471174733047}
+{"sent": "shirt with writing", "ann_id": 1686173, "best_split": [1, 3], "split_score": 0.1962321553828556}
+{"sent": "shirt with letter on it", "ann_id": 1686173, "best_split": [1, 5], "split_score": 0.39265422073938167}

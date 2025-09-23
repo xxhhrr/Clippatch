@@ -1,0 +1,6 @@
+{"sent": "32 meter", "ann_id": 419107, "best_split": [3, 3], "split_score": 0.34263959385427667}
+{"sent": "meter 32", "ann_id": 419107, "best_split": [3, 3], "split_score": 0.34263959385427667}
+{"sent": "meter in back", "ann_id": 419107, "best_split": [3, 3], "split_score": 0.34263959385427667}
+{"sent": "closest meter", "ann_id": 418856, "best_split": [1, 2], "split_score": 0.6177536231650909}
+{"sent": "click meter closest front", "ann_id": 418856, "best_split": [1, 2], "split_score": 0.6177536231650909}
+{"sent": "coin slot closest to you", "ann_id": 418856, "best_split": [1, 2], "split_score": 0.6177536231650909}

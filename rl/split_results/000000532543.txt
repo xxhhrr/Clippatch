@@ -1,0 +1,6 @@
+{"sent": "brown horse legs", "ann_id": 274450, "best_split": [1, 5], "split_score": 0.38104941413773247}
+{"sent": "brown", "ann_id": 274450, "best_split": [1, 2], "split_score": 0.3609554703494192}
+{"sent": "brown horse", "ann_id": 274450, "best_split": [1, 5], "split_score": 0.38104941413773247}
+{"sent": "main horse", "ann_id": 56472, "best_split": [2, 1], "split_score": 0.3765517241298157}
+{"sent": "white horse", "ann_id": 56472, "best_split": [2, 1], "split_score": 0.3765517241298157}
+{"sent": "white horse", "ann_id": 56472, "best_split": [2, 1], "split_score": 0.3765517241298157}

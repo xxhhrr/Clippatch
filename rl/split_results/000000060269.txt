@@ -1,0 +1,6 @@
+{"sent": "orange under orange beside cheese", "ann_id": 1912570, "best_split": [3, 3], "split_score": 0.4345998382482458}
+{"sent": "the cutoff lemon", "ann_id": 1912570, "best_split": [1, 5], "split_score": 0.3130882789742308}
+{"sent": "orange next to square", "ann_id": 1912570, "best_split": [3, 3], "split_score": 0.4345998382482458}
+{"sent": "the orange that is cut off picture and isnt behind banana", "ann_id": 1912182, "best_split": [1, 3], "split_score": 0.23781370654935968}
+{"sent": "whole lemon", "ann_id": 1912182, "best_split": [3, 3], "split_score": 0.7198685170343556}
+{"sent": "high lemon", "ann_id": 1912182, "best_split": [3, 3], "split_score": 0.7198685170343556}

@@ -1,0 +1,6 @@
+{"sent": "woman with empty plate", "ann_id": 1731723, "best_split": [2, 2], "split_score": 0.6057188590944617}
+{"sent": "empty plate", "ann_id": 1731723, "best_split": [2, 2], "split_score": 0.6057188590944617}
+{"sent": "woman", "ann_id": 1731723, "best_split": [1, 5], "split_score": 0.40513303846841636}
+{"sent": "guy", "ann_id": 443588, "best_split": [1, 2], "split_score": 0.5639109956016634}
+{"sent": "man eatng", "ann_id": 443588, "best_split": [2, 1], "split_score": 0.4544375633762502}
+{"sent": "manre", "ann_id": 443588, "best_split": [1, 2], "split_score": 0.5639109956016634}

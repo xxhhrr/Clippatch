@@ -1,0 +1,5 @@
+{"sent": "black screen", "ann_id": 1101157, "best_split": [1, 2], "split_score": 0.6552999030598622}
+{"sent": "darker screen", "ann_id": 1101157, "best_split": [1, 2], "split_score": 0.6552999030598622}
+{"sent": "smaller laptop closer to window", "ann_id": 1099389, "best_split": [3, 3], "split_score": 0.4244632198725321}
+{"sent": "smaller laptop", "ann_id": 1099389, "best_split": [3, 3], "split_score": 0.4244632198725321}
+{"sent": "lighter screen", "ann_id": 1099389, "best_split": [1, 2], "split_score": 0.5142299106937886}

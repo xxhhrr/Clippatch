@@ -1,0 +1,11 @@
+{"sent": "banana with bigger chain", "ann_id": 2110311, "best_split": [1, 5], "split_score": 0.46516040009786475}
+{"sent": "complete banana", "ann_id": 2110311, "best_split": [1, 5], "split_score": 0.46516040009786475}
+{"sent": "partial banana face", "ann_id": 2110281, "best_split": [3, 3], "split_score": 0.278644432453114}
+{"sent": "banana behind pole", "ann_id": 2110281, "best_split": [1, 5], "split_score": 0.40909090904940226}
+{"sent": "partially obscured banana", "ann_id": 2110281, "best_split": [1, 5], "split_score": 0.40909090904940226}
+{"sent": "the brown bear", "ann_id": 1996790, "best_split": [1, 5], "split_score": 0.4231939934635558}
+{"sent": "brown ape", "ann_id": 1996790, "best_split": [2, 3], "split_score": 0.3492527614956408}
+{"sent": "brown bear", "ann_id": 1996790, "best_split": [1, 5], "split_score": 0.4231939934635558}
+{"sent": "gorilla behind bannana", "ann_id": 1996455, "best_split": [3, 2], "split_score": 0.178429817587388}
+{"sent": "stuffed animal next to bananas", "ann_id": 1996455, "best_split": [2, 3], "split_score": 0.36330275225191483}
+{"sent": "white gorilla behind bananas", "ann_id": 1996455, "best_split": [2, 2], "split_score": 0.24414303327341683}

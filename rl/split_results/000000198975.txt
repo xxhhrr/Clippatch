@@ -1,0 +1,6 @@
+{"sent": "red bus", "ann_id": 167401, "best_split": [3, 3], "split_score": 0.45483664310460653}
+{"sent": "red bus", "ann_id": 167401, "best_split": [3, 3], "split_score": 0.45483664310460653}
+{"sent": "partial red bus", "ann_id": 167401, "best_split": [3, 3], "split_score": 0.45483664310460653}
+{"sent": "the big bus", "ann_id": 164601, "best_split": [3, 1], "split_score": 0.4849279161007156}
+{"sent": "yello and red bus", "ann_id": 164601, "best_split": [3, 1], "split_score": 0.4849279161007156}
+{"sent": "bbus", "ann_id": 164601, "best_split": [3, 1], "split_score": 0.4849279161007156}

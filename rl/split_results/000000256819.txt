@@ -1,0 +1,9 @@
+{"sent": "person standing at edge of photo next to green and red shirt", "ann_id": 1235560, "best_split": [1, 2], "split_score": 0.9212372448612389}
+{"sent": "green shirt that is barely in frame with black jacket", "ann_id": 1235560, "best_split": [1, 2], "split_score": 0.9212372448612389}
+{"sent": "dark area on side", "ann_id": 1235560, "best_split": [1, 2], "split_score": 0.9212372448612389}
+{"sent": "a man wearing green and black holding a donut hanging from a string", "ann_id": 445247, "best_split": [1, 2], "split_score": 0.5642139668142453}
+{"sent": "green and red", "ann_id": 445247, "best_split": [1, 2], "split_score": 0.5642139668142453}
+{"sent": "red and green shirt", "ann_id": 445247, "best_split": [1, 2], "split_score": 0.5642139668142453}
+{"sent": "blindfold", "ann_id": 433055, "best_split": [2, 1], "split_score": 0.7517401391838842}
+{"sent": "gray thing on face", "ann_id": 433055, "best_split": [2, 1], "split_score": 0.7517401391838842}
+{"sent": "person with eyes covered", "ann_id": 433055, "best_split": [2, 1], "split_score": 0.7517401391838842}

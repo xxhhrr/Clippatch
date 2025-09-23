@@ -1,0 +1,5 @@
+{"sent": "pizza at 3 o clock", "ann_id": 1077470, "best_split": [3, 2], "split_score": 0.8202220076230426}
+{"sent": "pizza that looks slightly browner", "ann_id": 1077470, "best_split": [3, 2], "split_score": 0.8202220076230426}
+{"sent": "closer pizza", "ann_id": 1074805, "best_split": [5, 1], "split_score": 0.37218354664479497}
+{"sent": "pizza closest to the edge", "ann_id": 1074805, "best_split": [5, 1], "split_score": 0.37218354664479497}
+{"sent": "pizza 1", "ann_id": 1074805, "best_split": [5, 1], "split_score": 0.37218354664479497}

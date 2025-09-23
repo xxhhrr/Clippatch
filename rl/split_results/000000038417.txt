@@ -1,0 +1,6 @@
+{"sent": "smaller traffic signal", "ann_id": 407706, "best_split": [3, 3], "split_score": 0.375750115344553}
+{"sent": "smaller stop light", "ann_id": 407706, "best_split": [3, 3], "split_score": 0.375750115344553}
+{"sent": "smaller redlight", "ann_id": 407706, "best_split": [3, 3], "split_score": 0.375750115344553}
+{"sent": "yellow street light", "ann_id": 406934, "best_split": [1, 5], "split_score": 0.39008142113341215}
+{"sent": "street light ontop of bmw", "ann_id": 406934, "best_split": [1, 5], "split_score": 0.39008142113341215}
+{"sent": "larger light", "ann_id": 406934, "best_split": [1, 5], "split_score": 0.39008142113341215}

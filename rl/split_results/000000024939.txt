@@ -1,0 +1,6 @@
+{"sent": "pink and white shirt", "ann_id": 1736704, "best_split": [1, 5], "split_score": 0.45809659086261195}
+{"sent": "striped shirt guy the one with no hat", "ann_id": 1736704, "best_split": [3, 3], "split_score": 0.3499527090460812}
+{"sent": "pink shirt not reflection", "ann_id": 1736704, "best_split": [1, 5], "split_score": 0.45809659086261195}
+{"sent": "white shirt and hat", "ann_id": 183385, "best_split": [1, 5], "split_score": 0.4766943814262601}
+{"sent": "him", "ann_id": 183385, "best_split": [1, 5], "split_score": 0.4766943814262601}
+{"sent": "player", "ann_id": 183385, "best_split": [3, 1], "split_score": 0.24039805904102318}

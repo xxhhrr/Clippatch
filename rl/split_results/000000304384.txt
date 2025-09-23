@@ -1,0 +1,9 @@
+{"sent": "cut fruit next to uncut fruit", "ann_id": 1907422, "best_split": [5, 1], "split_score": 0.33394178111884504}
+{"sent": "half apple", "ann_id": 1907422, "best_split": [5, 1], "split_score": 0.33394178111884504}
+{"sent": "peeled apple that is next to the unpeeled apple", "ann_id": 1907422, "best_split": [5, 1], "split_score": 0.33394178111884504}
+{"sent": "cheese full view", "ann_id": 1907289, "best_split": [1, 2], "split_score": 0.5832560210567687}
+{"sent": "cheese", "ann_id": 1907289, "best_split": [1, 2], "split_score": 0.5832560210567687}
+{"sent": "fruit that knife is on", "ann_id": 1907289, "best_split": [2, 1], "split_score": 0.21646897809601764}
+{"sent": "red apple", "ann_id": 1049139, "best_split": [2, 3], "split_score": 0.7625864947789803}
+{"sent": "purple onion", "ann_id": 1049139, "best_split": [2, 3], "split_score": 0.7625864947789803}
+{"sent": "red apple", "ann_id": 1049139, "best_split": [2, 3], "split_score": 0.7625864947789803}

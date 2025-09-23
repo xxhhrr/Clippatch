@@ -1,0 +1,5 @@
+{"sent": "the single deck red bus", "ann_id": 365814, "best_split": [5, 1], "split_score": 0.33866118053974825}
+{"sent": "red single bus", "ann_id": 365814, "best_split": [5, 1], "split_score": 0.33866118053974825}
+{"sent": "double decker bys", "ann_id": 365687, "best_split": [1, 2], "split_score": 0.5817522321196686}
+{"sent": "double decker", "ann_id": 365687, "best_split": [1, 2], "split_score": 0.5817522321196686}
+{"sent": "white bus", "ann_id": 365687, "best_split": [1, 2], "split_score": 0.5817522321196686}

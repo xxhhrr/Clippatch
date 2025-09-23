@@ -1,0 +1,5 @@
+{"sent": "keypad", "ann_id": 327337, "best_split": [2, 3], "split_score": 0.4069549797648552}
+{"sent": "dial pad", "ann_id": 327337, "best_split": [2, 3], "split_score": 0.4069549797648552}
+{"sent": "red part of cell phone", "ann_id": 326004, "best_split": [3, 3], "split_score": 0.547863358806616}
+{"sent": "orange cell phone", "ann_id": 326004, "best_split": [3, 3], "split_score": 0.547863358806616}
+{"sent": "phone with blue screen", "ann_id": 326004, "best_split": [3, 3], "split_score": 0.547863358806616}

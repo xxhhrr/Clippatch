@@ -1,0 +1,6 @@
+{"sent": "part of the table below the plates", "ann_id": 2225931, "best_split": [2, 2], "split_score": 0.4006458966375073}
+{"sent": "what the plates are sitting onlower part", "ann_id": 2225931, "best_split": [1, 2], "split_score": 0.2510714285639562}
+{"sent": "table part nearest you", "ann_id": 2225931, "best_split": [1, 2], "split_score": 0.2510714285639562}
+{"sent": "space above plate with donut", "ann_id": 1961929, "best_split": [2, 1], "split_score": 0.7288743622158452}
+{"sent": "part of table the brown wallet is sitting on", "ann_id": 1961929, "best_split": [3, 1], "split_score": 0.8988017428704356}
+{"sent": "areas all above plates of food", "ann_id": 1961929, "best_split": [2, 1], "split_score": 0.7288743622158452}

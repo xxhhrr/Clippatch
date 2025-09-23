@@ -1,0 +1,15 @@
+{"sent": "old lady with glasses", "ann_id": 1726906, "best_split": [1, 5], "split_score": 0.561202293794621}
+{"sent": "old lady with glasses sitting in background", "ann_id": 1726906, "best_split": [1, 5], "split_score": 0.561202293794621}
+{"sent": "white haired woman", "ann_id": 1726906, "best_split": [1, 5], "split_score": 0.561202293794621}
+{"sent": "young girl in background her face is blurry", "ann_id": 543085, "best_split": [1, 3], "split_score": 0.15474179535746008}
+{"sent": "blurry blond woman", "ann_id": 543085, "best_split": [3, 3], "split_score": 0.3885339318962987}
+{"sent": "blond sitting at table in background", "ann_id": 543085, "best_split": [3, 1], "split_score": 0.1332070333234736}
+{"sent": "jeans", "ann_id": 525333, "best_split": [1, 3], "split_score": 0.7767857142388522}
+{"sent": "person in jeans standing closest to little girl", "ann_id": 525333, "best_split": [1, 3], "split_score": 0.7767857142388522}
+{"sent": "one where you only see jeans", "ann_id": 525333, "best_split": [1, 3], "split_score": 0.7767857142388522}
+{"sent": "girl on the floor", "ann_id": 473813, "best_split": [2, 2], "split_score": 0.3816767699655909}
+{"sent": "girl", "ann_id": 473813, "best_split": [2, 2], "split_score": 0.3816767699655909}
+{"sent": "girl in white jacket", "ann_id": 473813, "best_split": [2, 2], "split_score": 0.3816767699655909}
+{"sent": "woman in background black shirt looking up", "ann_id": 451756, "best_split": [5, 1], "split_score": 0.19904429331014112}
+{"sent": "lady black shirt", "ann_id": 451756, "best_split": [2, 1], "split_score": 0.12723214285207143}
+{"sent": "the woman wearing black sitting down looking up at a person", "ann_id": 451756, "best_split": [2, 2], "split_score": 0.254464285694}

@@ -1,0 +1,15 @@
+{"sent": "guy in red pants", "ann_id": 2157909, "best_split": [2, 1], "split_score": 0.09321901792310136}
+{"sent": "red pants", "ann_id": 2157909, "best_split": [5, 1], "split_score": 0.09797875984087198}
+{"sent": "standing side to us", "ann_id": 2157909, "best_split": [2, 1], "split_score": 0.09321901792310136}
+{"sent": "black and red", "ann_id": 1740534, "best_split": [3, 3], "split_score": 0.39866255138906087}
+{"sent": "red jacket", "ann_id": 1740534, "best_split": [3, 3], "split_score": 0.39866255138906087}
+{"sent": "skier in red", "ann_id": 1740534, "best_split": [1, 5], "split_score": 0.38138355664782836}
+{"sent": "man in dark green jacket next to women", "ann_id": 1209089, "best_split": [3, 2], "split_score": 0.21800996033966766}
+{"sent": "person under tallest tree", "ann_id": 1209089, "best_split": [3, 2], "split_score": 0.21800996033966766}
+{"sent": "number 2 person", "ann_id": 1209089, "best_split": [1, 2], "split_score": 0.14732142856555638}
+{"sent": "black and green jacket", "ann_id": 561786, "best_split": [1, 5], "split_score": 0.36688311684589253}
+{"sent": "green and black jacket", "ann_id": 561786, "best_split": [1, 5], "split_score": 0.36688311684589253}
+{"sent": "center", "ann_id": 561786, "best_split": [3, 3], "split_score": 0.2907438954726371}
+{"sent": "yellow highlighter", "ann_id": 531244, "best_split": [1, 5], "split_score": 0.42412070143782493}
+{"sent": "yellow jacket", "ann_id": 531244, "best_split": [1, 5], "split_score": 0.42412070143782493}
+{"sent": "yellow jacket", "ann_id": 531244, "best_split": [1, 5], "split_score": 0.42412070143782493}

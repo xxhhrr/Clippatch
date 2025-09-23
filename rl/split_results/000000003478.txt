@@ -1,0 +1,20 @@
+{"sent": "blue shirt and pants", "ann_id": 1721639, "best_split": [2, 3], "split_score": 0.27796646144364606}
+{"sent": "person in bright blue coat", "ann_id": 1721639, "best_split": [3, 2], "split_score": 0.1989445384647073}
+{"sent": "person in all blue you can barley see", "ann_id": 1721639, "best_split": [3, 3], "split_score": 0.2763103304831544}
+{"sent": "red shirt under blue umbrella", "ann_id": 1714332, "best_split": [1, 5], "split_score": 0.3849388752679766}
+{"sent": "red coat", "ann_id": 1714332, "best_split": [2, 3], "split_score": 0.4224556646986947}
+{"sent": "red coat", "ann_id": 1714332, "best_split": [2, 3], "split_score": 0.4224556646986947}
+{"sent": "solid blue umbrella", "ann_id": 1424047, "best_split": [5, 1], "split_score": 0.21047510943647843}
+{"sent": "solid dark blue umbrella", "ann_id": 1424047, "best_split": [5, 1], "split_score": 0.21047510943647843}
+{"sent": "blue jeans under peacock", "ann_id": 512245, "best_split": [1, 5], "split_score": 0.5846185064341904}
+{"sent": "blue jeans red shirt", "ann_id": 512245, "best_split": [1, 5], "split_score": 0.5846185064341904}
+{"sent": "person with peacock umbrella", "ann_id": 512245, "best_split": [2, 1], "split_score": 0.03312012323655872}
+{"sent": "person with multi color umbrella", "ann_id": 489905, "best_split": [1, 3], "split_score": 0.38911679534332066}
+{"sent": "green coat", "ann_id": 489905, "best_split": [2, 3], "split_score": 0.5782822873657868}
+{"sent": "green coat", "ann_id": 489905, "best_split": [2, 3], "split_score": 0.5782822873657868}
+{"sent": "peacock umbrella", "ann_id": 283561, "best_split": [2, 1], "split_score": 0.2378499185485113}
+{"sent": "peacock feather umbrella", "ann_id": 283561, "best_split": [2, 1], "split_score": 0.2378499185485113}
+{"sent": "gray umbr", "ann_id": 283561, "best_split": [2, 1], "split_score": 0.2378499185485113}
+{"sent": "colorful umbrella", "ann_id": 283459, "best_split": [2, 2], "split_score": 0.7346141581047023}
+{"sent": "most colorful umbrella", "ann_id": 283459, "best_split": [2, 2], "split_score": 0.7346141581047023}
+{"sent": "rainbow umbrella", "ann_id": 283459, "best_split": [2, 2], "split_score": 0.7346141581047023}

@@ -1,0 +1,6 @@
+{"sent": "ugly stove", "ann_id": 1121547, "best_split": [1, 3], "split_score": 0.18098455597363752}
+{"sent": "white stove", "ann_id": 1121547, "best_split": [1, 3], "split_score": 0.18098455597363752}
+{"sent": "white oven", "ann_id": 1121547, "best_split": [1, 3], "split_score": 0.18098455597363752}
+{"sent": "chrome stove", "ann_id": 1121281, "best_split": [3, 3], "split_score": 0.34971305589137136}
+{"sent": "black oven on floor not microwave", "ann_id": 1121281, "best_split": [3, 3], "split_score": 0.34971305589137136}
+{"sent": "fancy oven", "ann_id": 1121281, "best_split": [3, 3], "split_score": 0.34971305589137136}

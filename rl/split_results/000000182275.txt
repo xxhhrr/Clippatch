@@ -1,0 +1,6 @@
+{"sent": "black apron woman", "ann_id": 198215, "best_split": [3, 1], "split_score": 0.13160163827702082}
+{"sent": "lady shearer wearing black", "ann_id": 198215, "best_split": [3, 2], "split_score": 0.23782625630718482}
+{"sent": "woman in black", "ann_id": 198215, "best_split": [3, 2], "split_score": 0.23782625630718482}
+{"sent": "man touching the sheep", "ann_id": 1756462, "best_split": [1, 3], "split_score": 0.40608710271811627}
+{"sent": "man", "ann_id": 1756462, "best_split": [2, 3], "split_score": 0.4760984182358437}
+{"sent": "man in hat", "ann_id": 1756462, "best_split": [2, 3], "split_score": 0.4760984182358437}

@@ -1,0 +1,6 @@
+{"sent": "woman in black tank", "ann_id": 447606, "best_split": [2, 3], "split_score": 0.7171052630941407}
+{"sent": "her", "ann_id": 447606, "best_split": [2, 1], "split_score": 0.08928032816283765}
+{"sent": "lady", "ann_id": 447606, "best_split": [2, 3], "split_score": 0.7171052630941407}
+{"sent": "dude with glasses", "ann_id": 447194, "best_split": [1, 2], "split_score": 0.42095822702403707}
+{"sent": "man with light blue shirt", "ann_id": 447194, "best_split": [1, 5], "split_score": 0.5828358787051061}
+{"sent": "blue hirt", "ann_id": 447194, "best_split": [1, 5], "split_score": 0.5828358787051061}

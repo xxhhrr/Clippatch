@@ -1,0 +1,6 @@
+{"sent": "bystander with back turned", "ann_id": 432419, "best_split": [2, 1], "split_score": 0.23092589214447912}
+{"sent": "person watching in hat", "ann_id": 432419, "best_split": [1, 3], "split_score": 0.9045435597627259}
+{"sent": "man wearing white striped shirt", "ann_id": 432419, "best_split": [1, 3], "split_score": 0.9045435597627259}
+{"sent": "man in green shirt", "ann_id": 427612, "best_split": [1, 2], "split_score": 0.44472407628680294}
+{"sent": "yellow shirt", "ann_id": 427612, "best_split": [1, 2], "split_score": 0.44472407628680294}
+{"sent": "skater on rail", "ann_id": 427612, "best_split": [1, 2], "split_score": 0.44472407628680294}

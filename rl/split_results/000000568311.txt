@@ -1,0 +1,3 @@
+{"sent": "open topped bus", "ann_id": 167390, "best_split": [3, 1], "split_score": 0.17304720008482657}
+{"sent": "biggest one in front", "ann_id": 165133, "best_split": [1, 3], "split_score": 0.40538233953087266}
+{"sent": "close bus", "ann_id": 165133, "best_split": [3, 3], "split_score": 0.4495363955611706}

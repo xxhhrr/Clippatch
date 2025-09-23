@@ -1,0 +1,6 @@
+{"sent": "white couch", "ann_id": 2223596, "best_split": [3, 1], "split_score": 0.4482854443145509}
+{"sent": "white chair", "ann_id": 2223596, "best_split": [3, 1], "split_score": 0.4482854443145509}
+{"sent": "odd shaped chair white", "ann_id": 2223596, "best_split": [3, 1], "split_score": 0.4482854443145509}
+{"sent": "blue chair", "ann_id": 99778, "best_split": [2, 3], "split_score": 0.8394481348145684}
+{"sent": "chair", "ann_id": 99778, "best_split": [2, 3], "split_score": 0.8394481348145684}
+{"sent": "blue seat", "ann_id": 99778, "best_split": [2, 3], "split_score": 0.8394481348145684}

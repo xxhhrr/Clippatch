@@ -1,0 +1,6 @@
+{"sent": "woman painted with dark hair behind the giraffe", "ann_id": 1718559, "best_split": [2, 2], "split_score": 0.23809523807683247}
+{"sent": "drawing black hair white dress", "ann_id": 1718559, "best_split": [3, 3], "split_score": 0.2908251586424084}
+{"sent": "picture of woman in white dress black hair", "ann_id": 1718559, "best_split": [3, 3], "split_score": 0.2908251586424084}
+{"sent": "man the giraffe is licking", "ann_id": 1205410, "best_split": [2, 1], "split_score": 0.13720018101760445}
+{"sent": "jacket that giraffe is licking", "ann_id": 1205410, "best_split": [3, 2], "split_score": 0.23214615240522732}
+{"sent": "body on the edge of the picture", "ann_id": 1205410, "best_split": [2, 1], "split_score": 0.04971106314663681}

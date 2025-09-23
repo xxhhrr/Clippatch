@@ -1,0 +1,9 @@
+{"sent": "the old guy", "ann_id": 1201561, "best_split": [2, 1], "split_score": 0.2802624531239869}
+{"sent": "person in black shirt", "ann_id": 1201561, "best_split": [1, 3], "split_score": 0.5525848563680112}
+{"sent": "guy with cap and glasses", "ann_id": 1201561, "best_split": [3, 1], "split_score": 0.2969813295979331}
+{"sent": "wearing helmet", "ann_id": 471434, "best_split": [2, 1], "split_score": 0.25309568479350486}
+{"sent": "yellow shirt", "ann_id": 471434, "best_split": [2, 3], "split_score": 0.6072639224593449}
+{"sent": "green yellow tee shirt", "ann_id": 471434, "best_split": [2, 3], "split_score": 0.6072639224593449}
+{"sent": "no shirt making weird face", "ann_id": 471206, "best_split": [2, 2], "split_score": 0.4763018065634271}
+{"sent": "no shirt", "ann_id": 471206, "best_split": [2, 2], "split_score": 0.4763018065634271}
+{"sent": "man without shirt", "ann_id": 471206, "best_split": [2, 2], "split_score": 0.4763018065634271}

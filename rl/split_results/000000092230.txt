@@ -1,0 +1,15 @@
+{"sent": "red shirt", "ann_id": 1709000, "best_split": [3, 3], "split_score": 0.5426949114934816}
+{"sent": "red sh", "ann_id": 1709000, "best_split": [3, 3], "split_score": 0.5426949114934816}
+{"sent": "red shirt guy", "ann_id": 1709000, "best_split": [3, 3], "split_score": 0.5426949114934816}
+{"sent": "gray hair man", "ann_id": 538725, "best_split": [2, 3], "split_score": 0.6424028267794578}
+{"sent": "man with food plate in his lap", "ann_id": 538725, "best_split": [2, 2], "split_score": 0.45089285710691224}
+{"sent": "wearing blue shirt", "ann_id": 538725, "best_split": [2, 3], "split_score": 0.6424028267794578}
+{"sent": "brown long sleeves", "ann_id": 519707, "best_split": [3, 2], "split_score": 0.4118182737618316}
+{"sent": "man with head cut off paritally", "ann_id": 519707, "best_split": [2, 2], "split_score": 0.4516103315966509}
+{"sent": "brown sweater blue jeans", "ann_id": 519707, "best_split": [3, 2], "split_score": 0.4118182737618316}
+{"sent": "darkest outfit guy glasses", "ann_id": 511552, "best_split": [1, 5], "split_score": 0.4888888888464506}
+{"sent": "curly haired man looking at camera", "ann_id": 511552, "best_split": [1, 5], "split_score": 0.4888888888464506}
+{"sent": "man in glasses and black jacket", "ann_id": 511552, "best_split": [1, 5], "split_score": 0.4888888888464506}
+{"sent": "girl with the black shirt", "ann_id": 2191223, "best_split": [3, 2], "split_score": 0.6881798403928125}
+{"sent": "woman", "ann_id": 2191223, "best_split": [2, 2], "split_score": 0.6383928570919648}
+{"sent": "girl lookin at us from around 700ish", "ann_id": 2191223, "best_split": [3, 2], "split_score": 0.6881798403928125}

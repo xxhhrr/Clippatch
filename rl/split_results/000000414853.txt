@@ -1,0 +1,6 @@
+{"sent": "smaller horse", "ann_id": 274016, "best_split": [3, 2], "split_score": 0.31730284174228157}
+{"sent": "baby horse", "ann_id": 274016, "best_split": [3, 3], "split_score": 0.3708679888706688}
+{"sent": "foal", "ann_id": 274016, "best_split": [3, 3], "split_score": 0.3708679888706688}
+{"sent": "older horse", "ann_id": 57413, "best_split": [1, 2], "split_score": 0.59941007650672}
+{"sent": "big horsie", "ann_id": 57413, "best_split": [1, 2], "split_score": 0.59941007650672}
+{"sent": "large horse", "ann_id": 57413, "best_split": [1, 2], "split_score": 0.59941007650672}

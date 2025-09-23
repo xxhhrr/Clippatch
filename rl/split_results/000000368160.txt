@@ -1,0 +1,12 @@
+{"sent": "google", "ann_id": 569340, "best_split": [2, 2], "split_score": 0.5744345081158315}
+{"sent": "orange blindfolded person", "ann_id": 569340, "best_split": [1, 2], "split_score": 0.39865072062256013}
+{"sent": "guy with google shirt", "ann_id": 569340, "best_split": [2, 2], "split_score": 0.5744345081158315}
+{"sent": "person with brown shirt", "ann_id": 565023, "best_split": [3, 3], "split_score": 0.6444265808354198}
+{"sent": "person in brown", "ann_id": 565023, "best_split": [3, 3], "split_score": 0.6444265808354198}
+{"sent": "brown shirt arms out blocked by red green shirt", "ann_id": 565023, "best_split": [3, 2], "split_score": 0.47872966080388846}
+{"sent": "clown", "ann_id": 561168, "best_split": [2, 2], "split_score": 0.5364059137546744}
+{"sent": "arm with red coat", "ann_id": 561168, "best_split": [2, 3], "split_score": 0.742083211464281}
+{"sent": "man in red green coat only see his arm", "ann_id": 561168, "best_split": [2, 3], "split_score": 0.742083211464281}
+{"sent": "boy with mouth open", "ann_id": 518699, "best_split": [2, 1], "split_score": 0.47904254480252373}
+{"sent": "gray sweater on face", "ann_id": 518699, "best_split": [1, 2], "split_score": 0.5814834563303263}
+{"sent": "closest person", "ann_id": 518699, "best_split": [1, 3], "split_score": 0.4008667388831698}

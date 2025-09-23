@@ -1,0 +1,9 @@
+{"sent": "the huge window", "ann_id": 1795597, "best_split": [2, 1], "split_score": 0.7541973668089685}
+{"sent": "the window", "ann_id": 1795597, "best_split": [2, 1], "split_score": 0.7541973668089685}
+{"sent": "window", "ann_id": 1795597, "best_split": [2, 1], "split_score": 0.7541973668089685}
+{"sent": "mlady", "ann_id": 205556, "best_split": [3, 1], "split_score": 0.2704019488325821}
+{"sent": "woman with pink scarf", "ann_id": 205556, "best_split": [1, 2], "split_score": 0.6696428571161653}
+{"sent": "woman", "ann_id": 205556, "best_split": [1, 2], "split_score": 0.6696428571161653}
+{"sent": "man", "ann_id": 185259, "best_split": [1, 2], "split_score": 0.7897561830980615}
+{"sent": "suit", "ann_id": 185259, "best_split": [1, 2], "split_score": 0.7897561830980615}
+{"sent": "him", "ann_id": 185259, "best_split": [1, 2], "split_score": 0.7897561830980615}

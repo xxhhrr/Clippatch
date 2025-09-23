@@ -1,0 +1,14 @@
+{"sent": "orange", "ann_id": 1253608, "best_split": [1, 3], "split_score": 0.8986531242603967}
+{"sent": "red shirt", "ann_id": 1253608, "best_split": [1, 3], "split_score": 0.8986531242603967}
+{"sent": "orange shirt", "ann_id": 1253608, "best_split": [1, 3], "split_score": 0.8986531242603967}
+{"sent": "white shirt behind orange strip lady his head is cut off", "ann_id": 1251437, "best_split": [5, 1], "split_score": 0.14884763123008582}
+{"sent": "gray shirt with backpack", "ann_id": 1251437, "best_split": [1, 5], "split_score": 0.2984804630699638}
+{"sent": "guy in white shirt with shoulder strap bag", "ann_id": 1251437, "best_split": [1, 5], "split_score": 0.2984804630699638}
+{"sent": "blond in striped dress", "ann_id": 1230896, "best_split": [1, 5], "split_score": 0.8029197079625979}
+{"sent": "striped dress", "ann_id": 1230896, "best_split": [1, 5], "split_score": 0.8029197079625979}
+{"sent": "stripes girl", "ann_id": 1230896, "best_split": [1, 3], "split_score": 0.7166988416556045}
+{"sent": "man with mouth open", "ann_id": 1223627, "best_split": [1, 2], "split_score": 0.5989364377636831}
+{"sent": "man in hat", "ann_id": 1223627, "best_split": [1, 2], "split_score": 0.5989364377636831}
+{"sent": "black man in hat", "ann_id": 1223627, "best_split": [1, 2], "split_score": 0.5989364377636831}
+{"sent": "man in blue jeans and jacket ahead", "ann_id": 1255766, "best_split": [3, 3], "split_score": 0.16996205310865167}
+{"sent": "brown shirt next to 14", "ann_id": 1255766, "best_split": [1, 2], "split_score": 0.24872448978600428}

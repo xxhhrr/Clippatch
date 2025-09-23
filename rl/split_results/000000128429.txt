@@ -1,0 +1,6 @@
+{"sent": "cat on the laptop screen", "ann_id": 1402452, "best_split": [1, 5], "split_score": 0.3343346880778994}
+{"sent": "cat on screen", "ann_id": 1402452, "best_split": [3, 3], "split_score": 0.6618102912799426}
+{"sent": "cat on screen", "ann_id": 1402452, "best_split": [3, 3], "split_score": 0.6618102912799426}
+{"sent": "cat", "ann_id": 51986, "best_split": [1, 2], "split_score": 0.7546781436890382}
+{"sent": "the white cat", "ann_id": 51986, "best_split": [1, 2], "split_score": 0.7546781436890382}
+{"sent": "white cat", "ann_id": 51986, "best_split": [1, 2], "split_score": 0.7546781436890382}

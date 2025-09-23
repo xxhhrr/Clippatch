@@ -1,0 +1,5 @@
+{"sent": "funky pattern chair", "ann_id": 116252, "best_split": [2, 3], "split_score": 0.6538108355623088}
+{"sent": "patterned piece of furniture", "ann_id": 116252, "best_split": [2, 3], "split_score": 0.6538108355623088}
+{"sent": "chair with stripes and circles", "ann_id": 116252, "best_split": [3, 2], "split_score": 0.6389282102488445}
+{"sent": "gray couch", "ann_id": 113595, "best_split": [2, 3], "split_score": 0.6802313570873547}
+{"sent": "sofa", "ann_id": 113595, "best_split": [2, 3], "split_score": 0.6802313570873547}

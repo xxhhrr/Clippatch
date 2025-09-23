@@ -1,0 +1,6 @@
+{"sent": "zebra eating", "ann_id": 590296, "best_split": [1, 3], "split_score": 0.5063039809140125}
+{"sent": "zebra head down", "ann_id": 590296, "best_split": [1, 3], "split_score": 0.5063039809140125}
+{"sent": "closest zebra", "ann_id": 590296, "best_split": [1, 3], "split_score": 0.5063039809140125}
+{"sent": "small zebra", "ann_id": 588539, "best_split": [3, 3], "split_score": 0.17131432177509057}
+{"sent": "smaller zebra", "ann_id": 588539, "best_split": [3, 3], "split_score": 0.17131432177509057}
+{"sent": "little zebra", "ann_id": 588539, "best_split": [3, 3], "split_score": 0.17131432177509057}

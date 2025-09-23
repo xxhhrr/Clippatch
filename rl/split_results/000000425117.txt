@@ -1,0 +1,6 @@
+{"sent": "the small black laptop", "ann_id": 1103728, "best_split": [2, 3], "split_score": 0.4247104246591807}
+{"sent": "open laptop", "ann_id": 1103728, "best_split": [2, 3], "split_score": 0.4247104246591807}
+{"sent": "small open laptop on desk", "ann_id": 1103728, "best_split": [2, 3], "split_score": 0.4247104246591807}
+{"sent": "high laptop", "ann_id": 1626894, "best_split": [2, 2], "split_score": 0.3526785714004561}
+{"sent": "laptop at 9 o clock", "ann_id": 1626894, "best_split": [3, 1], "split_score": 0.09011627906508948}
+{"sent": "laptop thats higjlh", "ann_id": 1626894, "best_split": [3, 1], "split_score": 0.09011627906508948}

@@ -1,0 +1,6 @@
+{"sent": "pizza on plate nearest knifenapkin", "ann_id": 1077321, "best_split": [1, 2], "split_score": 0.10618622448556336}
+{"sent": "furthest pizza", "ann_id": 1077321, "best_split": [1, 3], "split_score": 0.11704598234341348}
+{"sent": "upper pie", "ann_id": 1077321, "best_split": [1, 3], "split_score": 0.11704598234341348}
+{"sent": "pizza by the coke", "ann_id": 1072640, "best_split": [2, 2], "split_score": 0.7460661963682809}
+{"sent": "pizza closer to us", "ann_id": 1072640, "best_split": [2, 2], "split_score": 0.7460661963682809}
+{"sent": "close pizza", "ann_id": 1072640, "best_split": [2, 2], "split_score": 0.7460661963682809}

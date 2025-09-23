@@ -1,0 +1,9 @@
+{"sent": "the farthest slice", "ann_id": 1569908, "best_split": [3, 1], "split_score": 0.314551158282182}
+{"sent": "farthest slice", "ann_id": 1569908, "best_split": [3, 1], "split_score": 0.314551158282182}
+{"sent": "slice with purple spot on crust", "ann_id": 1074699, "best_split": [1, 3], "split_score": 0.20093457943086887}
+{"sent": "the slice away from the scissors", "ann_id": 1074699, "best_split": [2, 1], "split_score": 0.0394938543426658}
+{"sent": "slice parallel with scissors", "ann_id": 1072269, "best_split": [5, 1], "split_score": 0.24690898255274027}
+{"sent": "2 green chuncks no circle", "ann_id": 1072269, "best_split": [3, 3], "split_score": 0.3994112984943494}
+{"sent": "pizza with white onion 2 yellow peppers", "ann_id": 1071371, "best_split": [3, 1], "split_score": 0.25608285154697485}
+{"sent": "pizza closer to scissors", "ann_id": 1071371, "best_split": [1, 2], "split_score": 0.424911660761745}
+{"sent": "biggest piece", "ann_id": 1071371, "best_split": [2, 2], "split_score": 0.6514988955095299}

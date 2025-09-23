@@ -1,0 +1,9 @@
+{"sent": "food closest to us", "ann_id": 1074392, "best_split": [1, 2], "split_score": 0.5057921938868012}
+{"sent": "nearest pizza", "ann_id": 1074392, "best_split": [1, 2], "split_score": 0.5057921938868012}
+{"sent": "tray of food closest to us", "ann_id": 1074392, "best_split": [1, 2], "split_score": 0.5057921938868012}
+{"sent": "red shirt woman", "ann_id": 522098, "best_split": [3, 3], "split_score": 0.6194302409387453}
+{"sent": "woman red shirt", "ann_id": 522098, "best_split": [3, 3], "split_score": 0.6194302409387453}
+{"sent": "woman in red", "ann_id": 522098, "best_split": [3, 3], "split_score": 0.6194302409387453}
+{"sent": "person with both hand on counter", "ann_id": 472760, "best_split": [2, 3], "split_score": 0.8530884806996079}
+{"sent": "woman in corner by your mouse hand", "ann_id": 472760, "best_split": [2, 3], "split_score": 0.8530884806996079}
+{"sent": "hands closest to us", "ann_id": 472760, "best_split": [2, 3], "split_score": 0.8530884806996079}

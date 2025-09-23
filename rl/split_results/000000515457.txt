@@ -1,0 +1,6 @@
+{"sent": "car closest to us", "ann_id": 360607, "best_split": [3, 1], "split_score": 0.9078185327637658}
+{"sent": "the car closest to us", "ann_id": 360607, "best_split": [3, 1], "split_score": 0.9078185327637658}
+{"sent": "closest car", "ann_id": 360607, "best_split": [3, 1], "split_score": 0.9078185327637658}
+{"sent": "light car", "ann_id": 345986, "best_split": [3, 2], "split_score": 0.7191780821148139}
+{"sent": "white car", "ann_id": 345986, "best_split": [3, 2], "split_score": 0.7191780821148139}
+{"sent": "white car", "ann_id": 345986, "best_split": [3, 2], "split_score": 0.7191780821148139}

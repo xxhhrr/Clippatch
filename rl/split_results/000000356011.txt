@@ -1,0 +1,20 @@
+{"sent": "food", "ann_id": 1091914, "best_split": [2, 1], "split_score": 0.8482342266594}
+{"sent": "serving tool", "ann_id": 1091914, "best_split": [2, 1], "split_score": 0.8482342266594}
+{"sent": "anything on table", "ann_id": 1091914, "best_split": [2, 1], "split_score": 0.8482342266594}
+{"sent": "pizza on circular metal pan", "ann_id": 1076466, "best_split": [3, 3], "split_score": 0.5295836375950358}
+{"sent": "food not plated", "ann_id": 1076466, "best_split": [2, 2], "split_score": 0.15133442670707212}
+{"sent": "sausage pizza", "ann_id": 1076466, "best_split": [3, 3], "split_score": 0.5295836375950358}
+{"sent": "man sitting in chair with red on it", "ann_id": 510116, "best_split": [2, 3], "split_score": 0.33638996134937377}
+{"sent": "mans back in corner", "ann_id": 510116, "best_split": [2, 1], "split_score": 0.11112882652618268}
+{"sent": "blue plaid shirt", "ann_id": 510116, "best_split": [3, 3], "split_score": 0.4377174668688731}
+{"sent": "woman white blouse blue jacket around stomach", "ann_id": 489416, "best_split": [2, 2], "split_score": 0.7340581385816903}
+{"sent": "woman leaning against blue coat", "ann_id": 489416, "best_split": [2, 2], "split_score": 0.7340581385816903}
+{"sent": "girl behind boy", "ann_id": 479776, "best_split": [3, 2], "split_score": 0.4421209857631365}
+{"sent": "back of girl", "ann_id": 479776, "best_split": [3, 2], "split_score": 0.4421209857631365}
+{"sent": "woman black shirt", "ann_id": 479776, "best_split": [2, 2], "split_score": 0.3541333333063517}
+{"sent": "pizza on tray but close to plate", "ann_id": 1570711, "best_split": [3, 2], "split_score": 0.2613026819637326}
+{"sent": "food above plate", "ann_id": 1570711, "best_split": [2, 2], "split_score": 0.25781249997944733}
+{"sent": "slice of whatever next to the pizza on the pan", "ann_id": 1570711, "best_split": [3, 2], "split_score": 0.2613026819637326}
+{"sent": "boy in brown shirt", "ann_id": 459346, "best_split": [1, 2], "split_score": 0.756935902666498}
+{"sent": "boy", "ann_id": 459346, "best_split": [1, 2], "split_score": 0.756935902666498}
+{"sent": "blond boy", "ann_id": 459346, "best_split": [1, 2], "split_score": 0.756935902666498}

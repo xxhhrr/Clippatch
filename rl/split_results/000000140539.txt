@@ -1,0 +1,6 @@
+{"sent": "biggest goat", "ann_id": 2174762, "best_split": [3, 2], "split_score": 0.5430725729931128}
+{"sent": "goat showing whole body", "ann_id": 2174762, "best_split": [3, 2], "split_score": 0.5430725729931128}
+{"sent": "sheep leading the others", "ann_id": 2174762, "best_split": [3, 1], "split_score": 0.30489998940073554}
+{"sent": "smallest with black face standing alone", "ann_id": 62098, "best_split": [3, 3], "split_score": 0.36820276492039894}
+{"sent": "blackest face not close to edge", "ann_id": 62098, "best_split": [3, 3], "split_score": 0.36820276492039894}
+{"sent": "center sheep", "ann_id": 62098, "best_split": [1, 5], "split_score": 0.2380730525309287}

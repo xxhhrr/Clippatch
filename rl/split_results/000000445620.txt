@@ -1,0 +1,12 @@
+{"sent": "old dude in blue", "ann_id": 1735327, "best_split": [1, 2], "split_score": 0.6669323979326}
+{"sent": "man all in blue", "ann_id": 1735327, "best_split": [1, 2], "split_score": 0.6669323979326}
+{"sent": "older guy with blue shirt on", "ann_id": 1735327, "best_split": [1, 2], "split_score": 0.6669323979326}
+{"sent": "boy", "ann_id": 1203176, "best_split": [1, 3], "split_score": 0.5460907335577889}
+{"sent": "boy", "ann_id": 1203176, "best_split": [1, 3], "split_score": 0.5460907335577889}
+{"sent": "boy", "ann_id": 1203176, "best_split": [1, 3], "split_score": 0.5460907335577889}
+{"sent": "man in gray shirt", "ann_id": 498104, "best_split": [2, 1], "split_score": 0.23397435896693405}
+{"sent": "man with glasses and gray shirt", "ann_id": 498104, "best_split": [2, 1], "split_score": 0.23397435896693405}
+{"sent": "dad by kids", "ann_id": 498104, "best_split": [1, 2], "split_score": 0.44135962634586107}
+{"sent": "girl on the floor", "ann_id": 496453, "best_split": [2, 3], "split_score": 0.4730759773401298}
+{"sent": "girl on the floor", "ann_id": 496453, "best_split": [2, 3], "split_score": 0.4730759773401298}
+{"sent": "girl on floor", "ann_id": 496453, "best_split": [2, 3], "split_score": 0.4730759773401298}

@@ -1,0 +1,12 @@
+{"sent": "black open laptop", "ann_id": 1101253, "best_split": [3, 2], "split_score": 0.42281006066535015}
+{"sent": "darl laptop", "ann_id": 1101253, "best_split": [5, 1], "split_score": 0.2362840794146513}
+{"sent": "black computer", "ann_id": 1101253, "best_split": [3, 2], "split_score": 0.42281006066535015}
+{"sent": "white cp", "ann_id": 1098332, "best_split": [3, 2], "split_score": 0.4474004520563901}
+{"sent": "white laptop", "ann_id": 1098332, "best_split": [3, 2], "split_score": 0.4474004520563901}
+{"sent": "white laptop", "ann_id": 1098332, "best_split": [3, 2], "split_score": 0.4474004520563901}
+{"sent": "black shirt one hand near paper booklet", "ann_id": 510951, "best_split": [2, 3], "split_score": 0.6457789381368821}
+{"sent": "person with one hand", "ann_id": 510951, "best_split": [1, 5], "split_score": 0.4625087595950851}
+{"sent": "black suit by white laptop", "ann_id": 510951, "best_split": [2, 2], "split_score": 0.4528556437975674}
+{"sent": "hands touching black laptop", "ann_id": 480684, "best_split": [3, 2], "split_score": 0.40728509952894176}
+{"sent": "black shirt hands on laptop", "ann_id": 480684, "best_split": [3, 2], "split_score": 0.40728509952894176}
+{"sent": "hands by the black laptop", "ann_id": 480684, "best_split": [3, 2], "split_score": 0.40728509952894176}

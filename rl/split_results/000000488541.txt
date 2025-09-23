@@ -1,0 +1,6 @@
+{"sent": "smaller elephant", "ann_id": 583960, "best_split": [3, 1], "split_score": 0.19613904116434508}
+{"sent": "elephant with the blue shirt man", "ann_id": 583960, "best_split": [3, 1], "split_score": 0.19613904116434508}
+{"sent": "farther elephant", "ann_id": 583960, "best_split": [3, 1], "split_score": 0.19613904116434508}
+{"sent": "the biggest", "ann_id": 583740, "best_split": [1, 3], "split_score": 0.5227454909557743}
+{"sent": "elephant near boy in red hat", "ann_id": 583740, "best_split": [1, 3], "split_score": 0.5227454909557743}
+{"sent": "elephant saying hi to kid in green", "ann_id": 583740, "best_split": [1, 3], "split_score": 0.5227454909557743}

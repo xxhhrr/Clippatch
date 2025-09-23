@@ -1,0 +1,6 @@
+{"sent": "cats reflectioin", "ann_id": 1816639, "best_split": [3, 2], "split_score": 0.6571428570733182}
+{"sent": "reflection of dog", "ann_id": 1816639, "best_split": [3, 2], "split_score": 0.6571428570733182}
+{"sent": "cat no red collar", "ann_id": 1816639, "best_split": [3, 1], "split_score": 0.38788756879815195}
+{"sent": "one with red colar", "ann_id": 51055, "best_split": [3, 2], "split_score": 0.42946896032689086}
+{"sent": "red collar", "ann_id": 51055, "best_split": [3, 2], "split_score": 0.42946896032689086}
+{"sent": "real animal", "ann_id": 51055, "best_split": [2, 2], "split_score": 0.3881430438167908}

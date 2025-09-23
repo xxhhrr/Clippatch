@@ -1,0 +1,9 @@
+{"sent": "brightest purple umbrella", "ann_id": 287459, "best_split": [3, 3], "split_score": 0.7820189273214481}
+{"sent": "cant see whole umbrella", "ann_id": 287459, "best_split": [2, 2], "split_score": 0.46412627547320423}
+{"sent": "umbrella that is only partially shown", "ann_id": 287459, "best_split": [2, 2], "split_score": 0.46412627547320423}
+{"sent": "smallest purple umbrella", "ann_id": 287380, "best_split": [1, 3], "split_score": 0.24826122832439812}
+{"sent": "purple umbrella number", "ann_id": 287380, "best_split": [1, 3], "split_score": 0.24826122832439812}
+{"sent": "furthest umbrella", "ann_id": 287380, "best_split": [2, 3], "split_score": 0.48536529148589935}
+{"sent": "low purple umbrella", "ann_id": 285424, "best_split": [1, 5], "split_score": 0.32195121948765615}
+{"sent": "most visible purple umbrella", "ann_id": 285424, "best_split": [1, 5], "split_score": 0.32195121948765615}
+{"sent": "closest umbrella", "ann_id": 285424, "best_split": [3, 2], "split_score": 0.4524028723575398}

@@ -1,0 +1,6 @@
+{"sent": "tallest glass", "ann_id": 1510306, "best_split": [3, 3], "split_score": 0.5062379194330983}
+{"sent": "tall glass", "ann_id": 1510306, "best_split": [3, 3], "split_score": 0.5062379194330983}
+{"sent": "the glass of beer closest to the man", "ann_id": 1510306, "best_split": [3, 3], "split_score": 0.5062379194330983}
+{"sent": "cup nearest pizza", "ann_id": 1508339, "best_split": [3, 1], "split_score": 0.16590250964250106}
+{"sent": "glass half cut off", "ann_id": 1508339, "best_split": [3, 3], "split_score": 0.4752510759549406}
+{"sent": "glass closest to us", "ann_id": 1508339, "best_split": [3, 3], "split_score": 0.4752510759549406}

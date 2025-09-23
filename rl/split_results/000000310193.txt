@@ -1,0 +1,6 @@
+{"sent": "pizza with white cheese on it", "ann_id": 1071172, "best_split": [1, 5], "split_score": 0.1046532681418927}
+{"sent": "pizza with marshmallow looking things", "ann_id": 1071172, "best_split": [1, 5], "split_score": 0.1046532681418927}
+{"sent": "far pizza", "ann_id": 1071172, "best_split": [1, 5], "split_score": 0.1046532681418927}
+{"sent": "larger pie", "ann_id": 1070859, "best_split": [3, 1], "split_score": 0.43569873746470617}
+{"sent": "the pizza closer to you", "ann_id": 1070859, "best_split": [3, 1], "split_score": 0.43569873746470617}
+{"sent": "big pizza", "ann_id": 1070859, "best_split": [3, 1], "split_score": 0.43569873746470617}

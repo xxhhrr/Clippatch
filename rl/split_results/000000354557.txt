@@ -1,0 +1,3 @@
+{"sent": "the woman facing outside the frame wearing a dark red jacket", "ann_id": 1679072, "best_split": [2, 2], "split_score": 0.49077389145615713}
+{"sent": "woman at 900", "ann_id": 1679072, "best_split": [3, 1], "split_score": 0.2042385596303339}
+{"sent": "red jacket person with sunglasses on", "ann_id": 1679072, "best_split": [2, 1], "split_score": 0.26333678142960926}

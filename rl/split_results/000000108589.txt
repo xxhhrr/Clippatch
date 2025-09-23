@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 450447, "best_split": [1, 2], "split_score": 0.6139140998851599}
+{"sent": "man eating cake", "ann_id": 450447, "best_split": [1, 2], "split_score": 0.6139140998851599}
+{"sent": "him", "ann_id": 450447, "best_split": [1, 2], "split_score": 0.6139140998851599}
+{"sent": "her", "ann_id": 428378, "best_split": [2, 2], "split_score": 0.5004851320985968}
+{"sent": "girl", "ann_id": 428378, "best_split": [2, 2], "split_score": 0.5004851320985968}
+{"sent": "female", "ann_id": 428378, "best_split": [1, 2], "split_score": 0.4736642379905258}

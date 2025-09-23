@@ -1,0 +1,14 @@
+{"sent": "cow behind white cow with head pointed up", "ann_id": 2177216, "best_split": [1, 5], "split_score": 0.37067030926230166}
+{"sent": "cow at edge with head way up", "ann_id": 2177216, "best_split": [1, 5], "split_score": 0.37067030926230166}
+{"sent": "white cow closest to us", "ann_id": 76436, "best_split": [3, 3], "split_score": 0.462633451898496}
+{"sent": "brown between black and white", "ann_id": 73503, "best_split": [2, 3], "split_score": 0.4601142856617012}
+{"sent": "number 4 cow", "ann_id": 73503, "best_split": [2, 3], "split_score": 0.4601142856617012}
+{"sent": "dark tan cow", "ann_id": 73503, "best_split": [2, 3], "split_score": 0.4601142856617012}
+{"sent": "white cow in peering at the camera", "ann_id": 73387, "best_split": [3, 2], "split_score": 0.3656613443361264}
+{"sent": "white cow with dark nose", "ann_id": 73387, "best_split": [3, 2], "split_score": 0.3656613443361264}
+{"sent": "light brown cow with two white cows touching it", "ann_id": 73136, "best_split": [3, 2], "split_score": 0.5010683760148431}
+{"sent": "yellow cow between whites", "ann_id": 73136, "best_split": [3, 2], "split_score": 0.5010683760148431}
+{"sent": "tan cow between whites", "ann_id": 73136, "best_split": [3, 2], "split_score": 0.5010683760148431}
+{"sent": "tan cow at the far end of the row", "ann_id": 71005, "best_split": [3, 3], "split_score": 0.4117578849244251}
+{"sent": "furthest cow", "ann_id": 71005, "best_split": [2, 2], "split_score": 0.5340401785288552}
+{"sent": "tan cow at end", "ann_id": 71005, "best_split": [3, 3], "split_score": 0.4117578849244251}

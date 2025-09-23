@@ -1,0 +1,22 @@
+{"sent": "light blue shirt", "ann_id": 1711654, "best_split": [3, 3], "split_score": 0.3025700934137602}
+{"sent": "the kid in blue with glasses near edge", "ann_id": 1711654, "best_split": [1, 5], "split_score": 0.3494318181463645}
+{"sent": "boy in blue with glasses", "ann_id": 1711654, "best_split": [1, 5], "split_score": 0.3494318181463645}
+{"sent": "pink hat", "ann_id": 1291701, "best_split": [2, 3], "split_score": 0.45299064533185385}
+{"sent": "red hat", "ann_id": 1291701, "best_split": [2, 3], "split_score": 0.45299064533185385}
+{"sent": "guy with back to camera", "ann_id": 1278131, "best_split": [2, 3], "split_score": 0.4449262792393086}
+{"sent": "man with yellow collar", "ann_id": 1278131, "best_split": [2, 3], "split_score": 0.4449262792393086}
+{"sent": "yellow shirt man", "ann_id": 1278131, "best_split": [2, 2], "split_score": 0.42534681398863466}
+{"sent": "pink and black shirt", "ann_id": 1275246, "best_split": [2, 3], "split_score": 0.4257110778044806}
+{"sent": "asian girl", "ann_id": 1275246, "best_split": [2, 3], "split_score": 0.4257110778044806}
+{"sent": "girl black and pink shirt", "ann_id": 1275246, "best_split": [2, 3], "split_score": 0.4257110778044806}
+{"sent": "older man with glasses", "ann_id": 2164174, "best_split": [3, 2], "split_score": 0.5067567566956133}
+{"sent": "glasses man by yellow scarf guy", "ann_id": 2164174, "best_split": [3, 3], "split_score": 0.26549829972985894}
+{"sent": "closest man with glasses", "ann_id": 2164174, "best_split": [3, 2], "split_score": 0.5067567566956133}
+{"sent": "kid in red", "ann_id": 1999816, "best_split": [3, 3], "split_score": 0.35727217858218585}
+{"sent": "red shirted boy", "ann_id": 1999816, "best_split": [3, 1], "split_score": 0.13357400721268198}
+{"sent": "red shirt kid no hat", "ann_id": 1999816, "best_split": [1, 5], "split_score": 0.357142857106621}
+{"sent": "shirtless man near pink hat", "ann_id": 1742833, "best_split": [2, 3], "split_score": 0.4257425742194503}
+{"sent": "blue trunks", "ann_id": 1742833, "best_split": [3, 3], "split_score": 0.31851851848663476}
+{"sent": "mans naked back", "ann_id": 1742833, "best_split": [2, 3], "split_score": 0.4257425742194503}
+{"sent": "woman holding a child in the lake", "ann_id": 1203072, "best_split": [1, 5], "split_score": 0.5339258245997328}
+{"sent": "woman holding baby", "ann_id": 1203072, "best_split": [1, 5], "split_score": 0.5339258245997328}

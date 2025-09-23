@@ -1,0 +1,5 @@
+{"sent": "person in corner behind glass", "ann_id": 1683144, "best_split": [5, 1], "split_score": 0.19532908702998175}
+{"sent": "arm behind glass", "ann_id": 1683144, "best_split": [3, 3], "split_score": 0.4620160700398071}
+{"sent": "person at 11 o clock", "ann_id": 1683144, "best_split": [3, 2], "split_score": 0.3052606177237861}
+{"sent": "person by score", "ann_id": 192869, "best_split": [3, 1], "split_score": 0.3063716138711303}
+{"sent": "blue pattern shirt", "ann_id": 192869, "best_split": [2, 3], "split_score": 0.8283582088586335}

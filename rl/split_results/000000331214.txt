@@ -1,0 +1,6 @@
+{"sent": "closest gray ar", "ann_id": 1777210, "best_split": [2, 2], "split_score": 0.25074985001119154}
+{"sent": "car 2", "ann_id": 1777210, "best_split": [2, 3], "split_score": 0.46786389408460965}
+{"sent": "car behind blue car", "ann_id": 1777210, "best_split": [2, 3], "split_score": 0.46786389408460965}
+{"sent": "dark blue suv", "ann_id": 1774271, "best_split": [2, 2], "split_score": 0.9230769230064807}
+{"sent": "close suv", "ann_id": 1774271, "best_split": [2, 2], "split_score": 0.9230769230064807}
+{"sent": "blue van", "ann_id": 1774271, "best_split": [2, 2], "split_score": 0.9230769230064807}

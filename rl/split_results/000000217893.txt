@@ -1,0 +1,6 @@
+{"sent": "the monitor with the man on it", "ann_id": 124421, "best_split": [3, 3], "split_score": 0.6172388603693866}
+{"sent": "bruce laa", "ann_id": 124421, "best_split": [1, 2], "split_score": 0.08955909368916262}
+{"sent": "monitor with man on it", "ann_id": 124421, "best_split": [3, 3], "split_score": 0.6172388603693866}
+{"sent": "gray comp screen", "ann_id": 31315, "best_split": [1, 5], "split_score": 0.2625965428224902}
+{"sent": "the monitor turned off", "ann_id": 31315, "best_split": [5, 1], "split_score": 0.16997529179773577}
+{"sent": "gray television that is not on", "ann_id": 31315, "best_split": [3, 2], "split_score": 0.29804716675935894}

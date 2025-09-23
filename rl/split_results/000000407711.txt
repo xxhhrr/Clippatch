@@ -1,0 +1,6 @@
+{"sent": "black", "ann_id": 2163374, "best_split": [2, 1], "split_score": 0.05251432208598506}
+{"sent": "black figure", "ann_id": 2163374, "best_split": [5, 1], "split_score": 0.1998183469408126}
+{"sent": "black coat", "ann_id": 2163374, "best_split": [3, 1], "split_score": 0.19481614752081322}
+{"sent": "red jacket", "ann_id": 490862, "best_split": [3, 3], "split_score": 0.35244228045351933}
+{"sent": "red coat", "ann_id": 490862, "best_split": [3, 3], "split_score": 0.35244228045351933}
+{"sent": "red", "ann_id": 490862, "best_split": [3, 3], "split_score": 0.35244228045351933}

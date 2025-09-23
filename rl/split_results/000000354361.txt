@@ -1,0 +1,5 @@
+{"sent": "upper part of chair in background", "ann_id": 381724, "best_split": [3, 3], "split_score": 0.5127830532299519}
+{"sent": "chair", "ann_id": 381724, "best_split": [3, 3], "split_score": 0.5127830532299519}
+{"sent": "back of chair", "ann_id": 376972, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "chair near us", "ann_id": 376972, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "the chair closest to us", "ann_id": 376972, "best_split": [1, 2], "split_score": 0.0}

@@ -1,0 +1,6 @@
+{"sent": "propellar", "ann_id": 156777, "best_split": [2, 1], "split_score": 0.1272798459940853}
+{"sent": "the closest plane", "ann_id": 156777, "best_split": [3, 3], "split_score": 0.5787359965568869}
+{"sent": "the propeller", "ann_id": 156777, "best_split": [3, 3], "split_score": 0.5787359965568869}
+{"sent": "red on plane", "ann_id": 156607, "best_split": [3, 1], "split_score": 0.5101358268886036}
+{"sent": "colombia plane", "ann_id": 156607, "best_split": [3, 1], "split_score": 0.5101358268886036}
+{"sent": "columbia", "ann_id": 156607, "best_split": [3, 1], "split_score": 0.5101358268886036}

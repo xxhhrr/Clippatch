@@ -1,0 +1,6 @@
+{"sent": "white shirt and glasses", "ann_id": 1717285, "best_split": [3, 2], "split_score": 0.5695579402806382}
+{"sent": "white shirt", "ann_id": 1717285, "best_split": [3, 2], "split_score": 0.5695579402806382}
+{"sent": "man in white clothes", "ann_id": 1717285, "best_split": [3, 2], "split_score": 0.5695579402806382}
+{"sent": "longer hair", "ann_id": 488821, "best_split": [2, 2], "split_score": 0.37987538938443144}
+{"sent": "black shirt eating", "ann_id": 488821, "best_split": [3, 2], "split_score": 0.5529033937546304}
+{"sent": "man without glasses", "ann_id": 488821, "best_split": [3, 1], "split_score": 0.35019856617926665}

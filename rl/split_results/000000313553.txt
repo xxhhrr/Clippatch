@@ -1,0 +1,12 @@
+{"sent": "black case", "ann_id": 1837526, "best_split": [5, 1], "split_score": 0.5034146341016927}
+{"sent": "case on lap", "ann_id": 1837526, "best_split": [5, 1], "split_score": 0.5034146341016927}
+{"sent": "black suitcase", "ann_id": 1837526, "best_split": [5, 1], "split_score": 0.5034146341016927}
+{"sent": "bag not suitcase", "ann_id": 1173568, "best_split": [3, 2], "split_score": 0.4162812210434457}
+{"sent": "gray purse in lap", "ann_id": 1173568, "best_split": [3, 2], "split_score": 0.4162812210434457}
+{"sent": "small bag on woman", "ann_id": 1173568, "best_split": [3, 2], "split_score": 0.4162812210434457}
+{"sent": "man glasses", "ann_id": 478313, "best_split": [3, 3], "split_score": 0.510530612161546}
+{"sent": "manred", "ann_id": 478313, "best_split": [3, 3], "split_score": 0.510530612161546}
+{"sent": "the guy", "ann_id": 478313, "best_split": [3, 1], "split_score": 0.0329391463212232}
+{"sent": "woman on cellphone", "ann_id": 452073, "best_split": [1, 2], "split_score": 0.7878927911015351}
+{"sent": "woman smiling", "ann_id": 452073, "best_split": [1, 2], "split_score": 0.7878927911015351}
+{"sent": "lady", "ann_id": 452073, "best_split": [1, 2], "split_score": 0.7878927911015351}

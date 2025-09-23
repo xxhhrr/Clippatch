@@ -1,0 +1,12 @@
+{"sent": "bowl", "ann_id": 1619639, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "broccoli", "ann_id": 1619639, "best_split": [2, 1], "split_score": 0.5011135410505184}
+{"sent": "anywhere", "ann_id": 1619639, "best_split": [1, 2], "split_score": 0.49442713325953924}
+{"sent": "table", "ann_id": 1616547, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "table", "ann_id": 1616547, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "brown table", "ann_id": 1616547, "best_split": [2, 1], "split_score": 0.5011135410505184}
+{"sent": "broccoli", "ann_id": 1056143, "best_split": [1, 2], "split_score": 0.46173773962150577}
+{"sent": "food in boel", "ann_id": 1056143, "best_split": [2, 1], "split_score": 0.5200524737509358}
+{"sent": "broccoli", "ann_id": 1056143, "best_split": [1, 2], "split_score": 0.46173773962150577}
+{"sent": "stem up broccoli", "ann_id": 1056123, "best_split": [2, 3], "split_score": 0.45701509217920455}
+{"sent": "upper broccoli", "ann_id": 1056123, "best_split": [2, 3], "split_score": 0.45701509217920455}
+{"sent": "brocoolli noon", "ann_id": 1056123, "best_split": [2, 3], "split_score": 0.45701509217920455}

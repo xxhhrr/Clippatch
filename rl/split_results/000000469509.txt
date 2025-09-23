@@ -1,0 +1,10 @@
+{"sent": "brown thing by dog", "ann_id": 1945361, "best_split": [2, 2], "split_score": 0.19858099488212844}
+{"sent": "brown thing sideways", "ann_id": 1945361, "best_split": [2, 2], "split_score": 0.19858099488212844}
+{"sent": "brown cap pouring into cup", "ann_id": 1945361, "best_split": [2, 3], "split_score": 0.30055501926875544}
+{"sent": "a brown sofa", "ann_id": 1590267, "best_split": [2, 1], "split_score": 0.4490849180019419}
+{"sent": "white door", "ann_id": 1590267, "best_split": [1, 2], "split_score": 0.4549186862063569}
+{"sent": "blurry cup in foreground", "ann_id": 1504047, "best_split": [2, 3], "split_score": 0.6588261155573943}
+{"sent": "cup or vase cut off", "ann_id": 1504047, "best_split": [2, 3], "split_score": 0.6588261155573943}
+{"sent": "the cup with a straw in it", "ann_id": 1503210, "best_split": [3, 3], "split_score": 0.5836376916392187}
+{"sent": "yellow glass", "ann_id": 1503210, "best_split": [3, 3], "split_score": 0.5836376916392187}
+{"sent": "orange juice", "ann_id": 1503210, "best_split": [3, 2], "split_score": 0.38561776057123337}

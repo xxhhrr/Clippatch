@@ -1,0 +1,9 @@
+{"sent": "carrots", "ann_id": 1902595, "best_split": [2, 3], "split_score": 0.4643693229268312}
+{"sent": "caroots", "ann_id": 1902595, "best_split": [2, 3], "split_score": 0.4643693229268312}
+{"sent": "carrots", "ann_id": 1902595, "best_split": [2, 3], "split_score": 0.4643693229268312}
+{"sent": "closest tray", "ann_id": 1902509, "best_split": [2, 3], "split_score": 0.49465240637578106}
+{"sent": "white dish of food", "ann_id": 1902509, "best_split": [2, 3], "split_score": 0.49465240637578106}
+{"sent": "nuts", "ann_id": 1902509, "best_split": [2, 3], "split_score": 0.49465240637578106}
+{"sent": "red bowl with green stuff", "ann_id": 1539422, "best_split": [2, 3], "split_score": 0.6038348082002128}
+{"sent": "orange container with peas", "ann_id": 1539422, "best_split": [1, 3], "split_score": 0.4640518985558831}
+{"sent": "peas in orange tray next to organic", "ann_id": 1539422, "best_split": [1, 3], "split_score": 0.4640518985558831}

@@ -1,0 +1,6 @@
+{"sent": "closet chair next to white tablecloth", "ann_id": 290718, "best_split": [3, 2], "split_score": 0.2802241793114235}
+{"sent": "chair at white table", "ann_id": 290718, "best_split": [3, 1], "split_score": 0.14385532263849127}
+{"sent": "chair by white table cloth", "ann_id": 290718, "best_split": [3, 2], "split_score": 0.2802241793114235}
+{"sent": "chair covering the plant", "ann_id": 102924, "best_split": [1, 5], "split_score": 0.3674402250028621}
+{"sent": "chair by plant", "ann_id": 102924, "best_split": [2, 3], "split_score": 0.6877413126583324}
+{"sent": "number 2 chair with back facing us", "ann_id": 102924, "best_split": [3, 3], "split_score": 0.6444967627068132}

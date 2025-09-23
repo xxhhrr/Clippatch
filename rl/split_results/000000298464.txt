@@ -1,0 +1,21 @@
+{"sent": "person above green shirt guy", "ann_id": 1309112, "best_split": [2, 3], "split_score": 0.6057866183763804}
+{"sent": "blurry person behind green shirt", "ann_id": 1309112, "best_split": [2, 3], "split_score": 0.6057866183763804}
+{"sent": "above guy in green shirt not fully visible", "ann_id": 1309112, "best_split": [3, 2], "split_score": 0.6134453780815983}
+{"sent": "women behind the man in blue nd glasses", "ann_id": 1306111, "best_split": [3, 3], "split_score": 0.6582822084879935}
+{"sent": "black shirt black coat woman", "ann_id": 1306111, "best_split": [2, 3], "split_score": 0.6438223937447125}
+{"sent": "woman in black jacket behind man in blue", "ann_id": 1306111, "best_split": [3, 3], "split_score": 0.6582822084879935}
+{"sent": "dude in bright red shift", "ann_id": 1263337, "best_split": [1, 5], "split_score": 0.5782264609802935}
+{"sent": "red jacket", "ann_id": 1263337, "best_split": [1, 5], "split_score": 0.5782264609802935}
+{"sent": "red shirt", "ann_id": 1263337, "best_split": [1, 5], "split_score": 0.5782264609802935}
+{"sent": "douchebag in black shirt", "ann_id": 1228357, "best_split": [2, 1], "split_score": 0.22727272726585854}
+{"sent": "black jacket", "ann_id": 1228357, "best_split": [1, 3], "split_score": 0.6471312737017791}
+{"sent": "white guy", "ann_id": 1228357, "best_split": [2, 1], "split_score": 0.22727272726585854}
+{"sent": "partial person jeans gray shirt", "ann_id": 1223251, "best_split": [2, 3], "split_score": 0.275880700207923}
+{"sent": "partial arm and leg", "ann_id": 1223251, "best_split": [2, 2], "split_score": 0.18897113248046105}
+{"sent": "man with only arm showing", "ann_id": 1223251, "best_split": [3, 2], "split_score": 0.1684314695528519}
+{"sent": "green sweater dark shirt", "ann_id": 1207847, "best_split": [1, 3], "split_score": 0.7905405404928486}
+{"sent": "green hoodie with glasses", "ann_id": 1207847, "best_split": [1, 3], "split_score": 0.7905405404928486}
+{"sent": "green sweater", "ann_id": 1207847, "best_split": [1, 3], "split_score": 0.7905405404928486}
+{"sent": "man in blue shirt hands together", "ann_id": 1203030, "best_split": [1, 3], "split_score": 0.5098684210264254}
+{"sent": "kid in blue shirt", "ann_id": 1203030, "best_split": [1, 3], "split_score": 0.5098684210264254}
+{"sent": "blue shirt", "ann_id": 1203030, "best_split": [1, 3], "split_score": 0.5098684210264254}

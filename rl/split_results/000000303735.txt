@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 2159414, "best_split": [2, 2], "split_score": 0.627664201787879}
+{"sent": "blue", "ann_id": 2159414, "best_split": [2, 2], "split_score": 0.627664201787879}
+{"sent": "blue shirt", "ann_id": 2159414, "best_split": [2, 2], "split_score": 0.627664201787879}
+{"sent": "man", "ann_id": 1202109, "best_split": [2, 2], "split_score": 0.27781675317259596}
+{"sent": "man behind woman with yellow flower in hair", "ann_id": 1202109, "best_split": [1, 2], "split_score": 0.1876592787015345}
+{"sent": "boy", "ann_id": 1202109, "best_split": [1, 3], "split_score": 0.3420608107901749}
+{"sent": "blond", "ann_id": 530225, "best_split": [1, 2], "split_score": 0.8575015943535753}
+{"sent": "blond", "ann_id": 530225, "best_split": [1, 2], "split_score": 0.8575015943535753}
+{"sent": "blondie", "ann_id": 530225, "best_split": [1, 2], "split_score": 0.8575015943535753}

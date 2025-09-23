@@ -1,0 +1,6 @@
+{"sent": "the guy not red hood", "ann_id": 1745847, "best_split": [2, 1], "split_score": 0.36670918365885247}
+{"sent": "kid with crutch", "ann_id": 1745847, "best_split": [2, 1], "split_score": 0.36670918365885247}
+{"sent": "the guy not wearing flippers", "ann_id": 1745847, "best_split": [2, 3], "split_score": 0.7335448056370395}
+{"sent": "guy jumping in hole", "ann_id": 1718643, "best_split": [2, 1], "split_score": 0.21603856265841262}
+{"sent": "the person holding the bars", "ann_id": 1718643, "best_split": [1, 2], "split_score": 0.5128799236570506}
+{"sent": "red hat", "ann_id": 1718643, "best_split": [1, 2], "split_score": 0.5128799236570506}

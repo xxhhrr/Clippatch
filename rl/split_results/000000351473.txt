@@ -1,0 +1,5 @@
+{"sent": "chair with a black back facing a red napkin", "ann_id": 109135, "best_split": [3, 3], "split_score": 0.48210372525892914}
+{"sent": "lowest chair", "ann_id": 109135, "best_split": [1, 5], "split_score": 0.23771790805886311}
+{"sent": "chair closest to us", "ann_id": 109135, "best_split": [3, 2], "split_score": 0.18166089963433596}
+{"sent": "empty chair pulled out", "ann_id": 106495, "best_split": [3, 3], "split_score": 0.7618963380927124}
+{"sent": "green chair nearest us in corner", "ann_id": 106495, "best_split": [3, 3], "split_score": 0.7618963380927124}

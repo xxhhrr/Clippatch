@@ -1,0 +1,6 @@
+{"sent": "truck closest to us", "ann_id": 395780, "best_split": [3, 1], "split_score": 0.45098039214192565}
+{"sent": "blue car", "ann_id": 395780, "best_split": [3, 1], "split_score": 0.45098039214192565}
+{"sent": "darker blue truck", "ann_id": 395780, "best_split": [3, 1], "split_score": 0.45098039214192565}
+{"sent": "light blue truck", "ann_id": 395327, "best_split": [2, 2], "split_score": 0.5038759689523907}
+{"sent": "light blue truck", "ann_id": 395327, "best_split": [2, 2], "split_score": 0.5038759689523907}
+{"sent": "light bluevehicle", "ann_id": 395327, "best_split": [3, 2], "split_score": 0.34955185656214083}

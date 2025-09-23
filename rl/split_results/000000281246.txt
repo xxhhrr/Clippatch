@@ -1,0 +1,5 @@
+{"sent": "green chair", "ann_id": 113946, "best_split": [2, 3], "split_score": 0.33892374513285184}
+{"sent": "chair in corner", "ann_id": 113946, "best_split": [5, 1], "split_score": 0.22568469948459452}
+{"sent": "chair by window", "ann_id": 113946, "best_split": [3, 3], "split_score": 0.18137744186776308}
+{"sent": "long couch", "ann_id": 99405, "best_split": [2, 3], "split_score": 0.5600816395475736}
+{"sent": "gray couch", "ann_id": 99405, "best_split": [2, 3], "split_score": 0.5600816395475736}

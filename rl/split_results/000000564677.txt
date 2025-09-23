@@ -1,0 +1,12 @@
+{"sent": "foreground pizza", "ann_id": 1074512, "best_split": [3, 3], "split_score": 0.3116343489765176}
+{"sent": "partial pizza cant see eater", "ann_id": 1074512, "best_split": [3, 3], "split_score": 0.3116343489765176}
+{"sent": "pizza thats not on kids plate", "ann_id": 1074512, "best_split": [3, 3], "split_score": 0.3116343489765176}
+{"sent": "boys pizza", "ann_id": 1073286, "best_split": [5, 1], "split_score": 0.477588295547704}
+{"sent": "fork", "ann_id": 1073286, "best_split": [5, 1], "split_score": 0.477588295547704}
+{"sent": "pizza", "ann_id": 1073286, "best_split": [5, 1], "split_score": 0.477588295547704}
+{"sent": "boy in black", "ann_id": 233212, "best_split": [2, 1], "split_score": 0.30656651694647025}
+{"sent": "kid wearing dark sweater with stripes and pattern", "ann_id": 233212, "best_split": [2, 1], "split_score": 0.30656651694647025}
+{"sent": "facing away black shirt", "ann_id": 233212, "best_split": [2, 1], "split_score": 0.30656651694647025}
+{"sent": "kid", "ann_id": 232036, "best_split": [1, 3], "split_score": 0.43140047169990653}
+{"sent": "kid", "ann_id": 232036, "best_split": [1, 3], "split_score": 0.43140047169990653}
+{"sent": "boy green shirt", "ann_id": 232036, "best_split": [1, 3], "split_score": 0.43140047169990653}

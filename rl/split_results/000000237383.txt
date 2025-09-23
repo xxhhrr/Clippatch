@@ -1,0 +1,9 @@
+{"sent": "guy sitting", "ann_id": 1707180, "best_split": [3, 3], "split_score": 0.5458798127841166}
+{"sent": "sitting dude", "ann_id": 1707180, "best_split": [3, 2], "split_score": 0.3624850656675645}
+{"sent": "sitting", "ann_id": 1707180, "best_split": [3, 3], "split_score": 0.5458798127841166}
+{"sent": "black shirt playing wii", "ann_id": 1228980, "best_split": [2, 3], "split_score": 0.4584305979117947}
+{"sent": "person wearing dark blue shirt", "ann_id": 1228980, "best_split": [2, 1], "split_score": 0.2067341050941557}
+{"sent": "black shirt", "ann_id": 1228980, "best_split": [2, 3], "split_score": 0.4584305979117947}
+{"sent": "man in a blue shirt", "ann_id": 533112, "best_split": [2, 1], "split_score": 0.38102220359144706}
+{"sent": "blue plaid man", "ann_id": 533112, "best_split": [1, 3], "split_score": 0.5337190823302344}
+{"sent": "blue shirt", "ann_id": 533112, "best_split": [2, 1], "split_score": 0.38102220359144706}

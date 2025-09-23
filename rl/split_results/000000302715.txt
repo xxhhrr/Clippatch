@@ -1,0 +1,5 @@
+{"sent": "bear with guitar but not the guitar", "ann_id": 1162625, "best_split": [1, 5], "split_score": 0.568086168730431}
+{"sent": "the bear holding the guitar", "ann_id": 1162625, "best_split": [1, 5], "split_score": 0.568086168730431}
+{"sent": "bear no guitar", "ann_id": 1159475, "best_split": [3, 1], "split_score": 0.27801372099485405}
+{"sent": "darker bear", "ann_id": 1159475, "best_split": [1, 2], "split_score": 0.5766793409150555}
+{"sent": "creepy bear looking", "ann_id": 1159475, "best_split": [1, 3], "split_score": 0.2490421455839303}

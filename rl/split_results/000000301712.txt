@@ -1,0 +1,9 @@
+{"sent": "striped suit man", "ann_id": 501026, "best_split": [1, 5], "split_score": 0.8661417322059644}
+{"sent": "man closest to us", "ann_id": 501026, "best_split": [1, 5], "split_score": 0.8661417322059644}
+{"sent": "man closest to camera", "ann_id": 501026, "best_split": [2, 2], "split_score": 0.3120820329741372}
+{"sent": "man with red pin", "ann_id": 488367, "best_split": [2, 2], "split_score": 0.30435704440239814}
+{"sent": "man with red apple", "ann_id": 488367, "best_split": [2, 3], "split_score": 0.23412770600726895}
+{"sent": "bald man with red flower on suit", "ann_id": 488367, "best_split": [1, 5], "split_score": 0.716791979893735}
+{"sent": "man in blue shirt with black tie", "ann_id": 462335, "best_split": [1, 3], "split_score": 0.6134615384278318}
+{"sent": "blue shirt suit", "ann_id": 462335, "best_split": [2, 3], "split_score": 0.32501414469573053}
+{"sent": "guy with the remote", "ann_id": 462335, "best_split": [1, 2], "split_score": 0.3272013735475244}

@@ -1,0 +1,6 @@
+{"sent": "looking slightly toward us", "ann_id": 583756, "best_split": [1, 2], "split_score": 0.5479436587758505}
+{"sent": "farther elephant obscured by closer one", "ann_id": 583756, "best_split": [2, 1], "split_score": 0.40443568006749725}
+{"sent": "higher elephant head", "ann_id": 583756, "best_split": [2, 1], "split_score": 0.40443568006749725}
+{"sent": "sideway elephant", "ann_id": 583672, "best_split": [1, 2], "split_score": 0.6080290144920453}
+{"sent": "closest elephant", "ann_id": 583672, "best_split": [1, 2], "split_score": 0.6080290144920453}
+{"sent": "closer", "ann_id": 583672, "best_split": [2, 1], "split_score": 0.4300108992942142}

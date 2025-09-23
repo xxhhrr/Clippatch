@@ -1,0 +1,6 @@
+{"sent": "closest boat", "ann_id": 1802354, "best_split": [2, 1], "split_score": 0.5699936224262598}
+{"sent": "red boat in foreground", "ann_id": 1802354, "best_split": [3, 1], "split_score": 0.8382948320529713}
+{"sent": "boat closest to camera", "ann_id": 1802354, "best_split": [3, 1], "split_score": 0.8382948320529713}
+{"sent": "boat next to big red one", "ann_id": 1375689, "best_split": [2, 1], "split_score": 0.15768494897330657}
+{"sent": "boat number 2", "ann_id": 1375689, "best_split": [2, 2], "split_score": 0.18500430909329185}
+{"sent": "not the closest but next", "ann_id": 1375689, "best_split": [2, 2], "split_score": 0.0912698412638049}

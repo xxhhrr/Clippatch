@@ -1,0 +1,9 @@
+{"sent": "duck with foot going over the edge", "ann_id": 41409, "best_split": [3, 3], "split_score": 0.47691586589208856}
+{"sent": "duck with light beak", "ann_id": 41409, "best_split": [3, 3], "split_score": 0.47691586589208856}
+{"sent": "duck 2", "ann_id": 41409, "best_split": [3, 3], "split_score": 0.47691586589208856}
+{"sent": "duck taking a step", "ann_id": 40145, "best_split": [3, 2], "split_score": 0.4403320995858425}
+{"sent": "duck with foot in the air", "ann_id": 40145, "best_split": [3, 2], "split_score": 0.4403320995858425}
+{"sent": "one foot off ground", "ann_id": 40145, "best_split": [5, 1], "split_score": 0.1986337361910792}
+{"sent": "bird apart from others", "ann_id": 39994, "best_split": [3, 1], "split_score": 0.21084845925438747}
+{"sent": "duck nearest us", "ann_id": 39994, "best_split": [3, 1], "split_score": 0.21084845925438747}
+{"sent": "loner", "ann_id": 39994, "best_split": [5, 1], "split_score": 0.17152757723278028}

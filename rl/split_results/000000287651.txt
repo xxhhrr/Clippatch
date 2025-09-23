@@ -1,0 +1,8 @@
+{"sent": "small giraffe", "ann_id": 600973, "best_split": [1, 3], "split_score": 0.47093023253369337}
+{"sent": "smallest giraffee", "ann_id": 600973, "best_split": [1, 3], "split_score": 0.47093023253369337}
+{"sent": "little", "ann_id": 600973, "best_split": [1, 3], "split_score": 0.47093023253369337}
+{"sent": "animal behind butt", "ann_id": 600513, "best_split": [1, 2], "split_score": 0.415716856613088}
+{"sent": "middle giraffe", "ann_id": 600513, "best_split": [1, 2], "split_score": 0.415716856613088}
+{"sent": "between both girrafees", "ann_id": 600513, "best_split": [1, 2], "split_score": 0.415716856613088}
+{"sent": "headless", "ann_id": 596526, "best_split": [1, 3], "split_score": 0.8475506756245444}
+{"sent": "giraffe whose head and neck are not visible", "ann_id": 596526, "best_split": [1, 3], "split_score": 0.8475506756245444}

@@ -1,0 +1,6 @@
+{"sent": "woman pointing at plate", "ann_id": 1717195, "best_split": [2, 1], "split_score": 0.8260427263179028}
+{"sent": "woman pointing", "ann_id": 1717195, "best_split": [2, 1], "split_score": 0.8260427263179028}
+{"sent": "person pointing", "ann_id": 1717195, "best_split": [2, 1], "split_score": 0.8260427263179028}
+{"sent": "the woman not behind the tray", "ann_id": 211314, "best_split": [2, 3], "split_score": 0.9423262547125572}
+{"sent": "older woman", "ann_id": 211314, "best_split": [2, 3], "split_score": 0.9423262547125572}
+{"sent": "half of lady", "ann_id": 211314, "best_split": [1, 2], "split_score": 0.311304209171265}

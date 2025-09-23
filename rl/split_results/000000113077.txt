@@ -1,0 +1,6 @@
+{"sent": "giraffe with head down", "ann_id": 597153, "best_split": [3, 1], "split_score": 0.2527893188808744}
+{"sent": "bending giraffe", "ann_id": 597153, "best_split": [3, 1], "split_score": 0.2527893188808744}
+{"sent": "he sees a bug on the ground", "ann_id": 597153, "best_split": [2, 1], "split_score": 0.30517298673318416}
+{"sent": "tall garaff", "ann_id": 595504, "best_split": [1, 2], "split_score": 0.6517154548059602}
+{"sent": "tall guy", "ann_id": 595504, "best_split": [1, 2], "split_score": 0.6517154548059602}
+{"sent": "giraffe with head looking up", "ann_id": 595504, "best_split": [1, 2], "split_score": 0.6517154548059602}

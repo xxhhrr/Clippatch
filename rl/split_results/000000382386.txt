@@ -1,0 +1,12 @@
+{"sent": "zebra tail", "ann_id": 1822259, "best_split": [2, 3], "split_score": 0.2613065326398684}
+{"sent": "tail of zebra", "ann_id": 1822259, "best_split": [2, 3], "split_score": 0.2613065326398684}
+{"sent": "zebra cut off we see very little of", "ann_id": 1822259, "best_split": [2, 1], "split_score": 0.10420841682993814}
+{"sent": "baby", "ann_id": 592137, "best_split": [3, 3], "split_score": 0.6870668235011028}
+{"sent": "small seated z", "ann_id": 592137, "best_split": [3, 3], "split_score": 0.6870668235011028}
+{"sent": "laying zebra", "ann_id": 592137, "best_split": [3, 3], "split_score": 0.6870668235011028}
+{"sent": "big zebra laying down", "ann_id": 589302, "best_split": [2, 1], "split_score": 0.2516741071328255}
+{"sent": "zebras back", "ann_id": 589302, "best_split": [2, 1], "split_score": 0.2516741071328255}
+{"sent": "zebra not facing us sitting", "ann_id": 589302, "best_split": [2, 1], "split_score": 0.2516741071328255}
+{"sent": "half of a zebra", "ann_id": 588515, "best_split": [2, 3], "split_score": 0.3165119095360807}
+{"sent": "zebra head on side standing", "ann_id": 588515, "best_split": [2, 3], "split_score": 0.3165119095360807}
+{"sent": "giraffe on side without tail", "ann_id": 588515, "best_split": [2, 3], "split_score": 0.3165119095360807}

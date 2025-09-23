@@ -1,0 +1,9 @@
+{"sent": "man in red", "ann_id": 451835, "best_split": [2, 3], "split_score": 0.9200228179212752}
+{"sent": "red shirt on adult", "ann_id": 451835, "best_split": [1, 3], "split_score": 0.5046426645597171}
+{"sent": "red shirt arms", "ann_id": 451835, "best_split": [3, 1], "split_score": 0.1428246428181443}
+{"sent": "girl", "ann_id": 449660, "best_split": [1, 5], "split_score": 0.8941088738913022}
+{"sent": "the girl in jeans", "ann_id": 449660, "best_split": [1, 5], "split_score": 0.8941088738913022}
+{"sent": "girl hat", "ann_id": 449660, "best_split": [1, 3], "split_score": 0.6312741312360476}
+{"sent": "red shirt boy", "ann_id": 429831, "best_split": [1, 5], "split_score": 0.614507165793031}
+{"sent": "kid in red", "ann_id": 429831, "best_split": [1, 5], "split_score": 0.614507165793031}
+{"sent": "red shirt", "ann_id": 429831, "best_split": [1, 5], "split_score": 0.614507165793031}

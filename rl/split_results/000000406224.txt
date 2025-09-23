@@ -1,0 +1,7 @@
+{"sent": "boy in yellow with a brown mitt", "ann_id": 487444, "best_split": [1, 5], "split_score": 0.6085723815369769}
+{"sent": "nearest boy", "ann_id": 487444, "best_split": [2, 1], "split_score": 0.187833327592202}
+{"sent": "hes on base", "ann_id": 487444, "best_split": [2, 1], "split_score": 0.187833327592202}
+{"sent": "close player", "ann_id": 487444, "best_split": [2, 1], "split_score": 0.187833327592202}
+{"sent": "pink glove", "ann_id": 460716, "best_split": [3, 3], "split_score": 0.37552238800365334}
+{"sent": "girl with pink mitt", "ann_id": 460716, "best_split": [3, 3], "split_score": 0.37552238800365334}
+{"sent": "girl bent over", "ann_id": 460716, "best_split": [2, 3], "split_score": 0.2510921572445296}

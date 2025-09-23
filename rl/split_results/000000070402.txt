@@ -1,0 +1,6 @@
+{"sent": "closest pizza", "ann_id": 1077314, "best_split": [5, 1], "split_score": 0.6170906718348752}
+{"sent": "closet pizza", "ann_id": 1077314, "best_split": [5, 1], "split_score": 0.6170906718348752}
+{"sent": "foreground pizza", "ann_id": 1077314, "best_split": [5, 1], "split_score": 0.6170906718348752}
+{"sent": "smaller pizza", "ann_id": 2188850, "best_split": [2, 2], "split_score": 0.15540540539319567}
+{"sent": "pizza the guy is eating", "ann_id": 2188850, "best_split": [2, 2], "split_score": 0.15540540539319567}
+{"sent": "pizza by man", "ann_id": 2188850, "best_split": [2, 2], "split_score": 0.15540540539319567}

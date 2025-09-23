@@ -1,0 +1,6 @@
+{"sent": "the red shirt", "ann_id": 1710695, "best_split": [2, 3], "split_score": 0.4713173529531533}
+{"sent": "red shirt", "ann_id": 1710695, "best_split": [2, 3], "split_score": 0.4713173529531533}
+{"sent": "woman", "ann_id": 1710695, "best_split": [2, 3], "split_score": 0.4713173529531533}
+{"sent": "man", "ann_id": 519738, "best_split": [1, 2], "split_score": 0.5590322066103702}
+{"sent": "man", "ann_id": 519738, "best_split": [1, 2], "split_score": 0.5590322066103702}
+{"sent": "man in suit", "ann_id": 519738, "best_split": [1, 2], "split_score": 0.5590322066103702}

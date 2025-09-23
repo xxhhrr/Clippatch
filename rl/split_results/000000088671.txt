@@ -1,0 +1,6 @@
+{"sent": "pants bare feet", "ann_id": 225942, "best_split": [2, 3], "split_score": 0.5381165918707969}
+{"sent": "barefoot person", "ann_id": 225942, "best_split": [3, 3], "split_score": 0.29701308867915727}
+{"sent": "barefoot person", "ann_id": 225942, "best_split": [3, 3], "split_score": 0.29701308867915727}
+{"sent": "knee of person standing", "ann_id": 219532, "best_split": [2, 3], "split_score": 0.4036568213428572}
+{"sent": "jeans standing person", "ann_id": 219532, "best_split": [2, 3], "split_score": 0.4036568213428572}
+{"sent": "pair of legs by dog", "ann_id": 219532, "best_split": [2, 1], "split_score": 0.1962616822358257}

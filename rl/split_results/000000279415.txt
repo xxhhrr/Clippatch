@@ -1,0 +1,9 @@
+{"sent": "black lady", "ann_id": 508653, "best_split": [1, 3], "split_score": 0.6440660420969895}
+{"sent": "not white person", "ann_id": 508653, "best_split": [1, 3], "split_score": 0.6440660420969895}
+{"sent": "darker woman toasting", "ann_id": 508653, "best_split": [1, 3], "split_score": 0.6440660420969895}
+{"sent": "woman the guy has his arm around", "ann_id": 459261, "best_split": [1, 2], "split_score": 0.7063536351759265}
+{"sent": "girl 1", "ann_id": 459261, "best_split": [1, 2], "split_score": 0.7063536351759265}
+{"sent": "the white woman", "ann_id": 459261, "best_split": [3, 1], "split_score": 0.2716250787782572}
+{"sent": "guy wearing gray", "ann_id": 438069, "best_split": [1, 3], "split_score": 0.8164816601824033}
+{"sent": "white guy", "ann_id": 438069, "best_split": [1, 3], "split_score": 0.8164816601824033}
+{"sent": "guy", "ann_id": 438069, "best_split": [1, 2], "split_score": 0.24804498157280278}

@@ -1,0 +1,9 @@
+{"sent": "book laying near clock", "ann_id": 1147046, "best_split": [3, 2], "split_score": 0.4821428570846835}
+{"sent": "laying down book", "ann_id": 1147046, "best_split": [3, 2], "split_score": 0.4821428570846835}
+{"sent": "horizontal book", "ann_id": 1147046, "best_split": [3, 2], "split_score": 0.4821428570846835}
+{"sent": "red book", "ann_id": 1146759, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "red book", "ann_id": 1146759, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "red book", "ann_id": 1146759, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "microsoft windows", "ann_id": 1137054, "best_split": [1, 2], "split_score": 0.36294222447140523}
+{"sent": "micosoft windows", "ann_id": 1137054, "best_split": [1, 2], "split_score": 0.36294222447140523}
+{"sent": "book with computer information", "ann_id": 1137054, "best_split": [1, 2], "split_score": 0.36294222447140523}

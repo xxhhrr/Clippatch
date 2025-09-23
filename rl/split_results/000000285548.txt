@@ -1,0 +1,6 @@
+{"sent": "plant blue vase", "ann_id": 25446, "best_split": [1, 5], "split_score": 0.49846200011265196}
+{"sent": "plant in blue pot", "ann_id": 25446, "best_split": [1, 2], "split_score": 0.4032605229431098}
+{"sent": "blue pot", "ann_id": 25446, "best_split": [1, 5], "split_score": 0.49846200011265196}
+{"sent": "plant with brown pot", "ann_id": 20044, "best_split": [1, 5], "split_score": 0.46814044209459194}
+{"sent": "plant in brown planter", "ann_id": 20044, "best_split": [1, 5], "split_score": 0.46814044209459194}
+{"sent": "brown planter", "ann_id": 20044, "best_split": [1, 5], "split_score": 0.46814044209459194}

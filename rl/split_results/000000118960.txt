@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 257420, "best_split": [1, 3], "split_score": 0.49107142854180313}
+{"sent": "man in red", "ann_id": 257420, "best_split": [1, 3], "split_score": 0.49107142854180313}
+{"sent": "red shirt", "ann_id": 257420, "best_split": [1, 3], "split_score": 0.49107142854180313}
+{"sent": "man with backpack", "ann_id": 186355, "best_split": [1, 2], "split_score": 0.6650191326265538}
+{"sent": "person with backpack", "ann_id": 186355, "best_split": [1, 2], "split_score": 0.6650191326265538}
+{"sent": "boy without hat", "ann_id": 186355, "best_split": [1, 2], "split_score": 0.6650191326265538}

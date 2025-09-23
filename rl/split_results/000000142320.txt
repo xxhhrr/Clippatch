@@ -1,0 +1,12 @@
+{"sent": "tiny yellow bear", "ann_id": 1162102, "best_split": [1, 2], "split_score": 0.16665338009539807}
+{"sent": "tiniest bear", "ann_id": 1162102, "best_split": [1, 2], "split_score": 0.16665338009539807}
+{"sent": "smallest", "ann_id": 1162102, "best_split": [3, 1], "split_score": 0.12424849698725839}
+{"sent": "white teddy", "ann_id": 1162088, "best_split": [1, 3], "split_score": 0.41264478761989354}
+{"sent": "white bear", "ann_id": 1162088, "best_split": [5, 1], "split_score": 0.12423405830420617}
+{"sent": "whiteest", "ann_id": 1162088, "best_split": [1, 3], "split_score": 0.41264478761989354}
+{"sent": "show white", "ann_id": 1162088, "best_split": [1, 3], "split_score": 0.41264478761989354}
+{"sent": "bear with plaid foot", "ann_id": 1161640, "best_split": [1, 3], "split_score": 0.48117154808994844}
+{"sent": "brown not wearing anything on neck", "ann_id": 1161640, "best_split": [1, 3], "split_score": 0.48117154808994844}
+{"sent": "yellow tall bear", "ann_id": 1161640, "best_split": [1, 3], "split_score": 0.48117154808994844}
+{"sent": "scarf", "ann_id": 1160963, "best_split": [1, 2], "split_score": 0.4017857142696992}
+{"sent": "bear with blue ribbon", "ann_id": 1160963, "best_split": [1, 2], "split_score": 0.4017857142696992}

@@ -1,0 +1,11 @@
+{"sent": "beans i think", "ann_id": 1900154, "best_split": [2, 2], "split_score": 0.5703703703373628}
+{"sent": "nasty food in purple tray", "ann_id": 1900154, "best_split": [1, 2], "split_score": 0.4744351961773768}
+{"sent": "purple plate in try", "ann_id": 1900154, "best_split": [1, 2], "split_score": 0.4744351961773768}
+{"sent": "yellow container", "ann_id": 1539796, "best_split": [3, 1], "split_score": 0.4156626505800526}
+{"sent": "yellow container", "ann_id": 1539796, "best_split": [3, 1], "split_score": 0.4156626505800526}
+{"sent": "yellow tray", "ann_id": 1539796, "best_split": [3, 1], "split_score": 0.4156626505800526}
+{"sent": "pineapple", "ann_id": 715071, "best_split": [3, 2], "split_score": 0.49146757673939123}
+{"sent": "pineapple in blue box", "ann_id": 715071, "best_split": [3, 2], "split_score": 0.49146757673939123}
+{"sent": "baby carrots", "ann_id": 710455, "best_split": [2, 2], "split_score": 0.44291338579563316}
+{"sent": "carrot", "ann_id": 710455, "best_split": [2, 2], "split_score": 0.44291338579563316}
+{"sent": "carrots", "ann_id": 710455, "best_split": [2, 2], "split_score": 0.44291338579563316}

@@ -1,0 +1,9 @@
+{"sent": "piece of cake with 4 jelly beans", "ann_id": 1089659, "best_split": [3, 1], "split_score": 0.6716879103576822}
+{"sent": "far cake at 9pm", "ann_id": 1089659, "best_split": [3, 1], "split_score": 0.6716879103576822}
+{"sent": "the cake with jelly benas on it", "ann_id": 1089659, "best_split": [3, 1], "split_score": 0.6716879103576822}
+{"sent": "green", "ann_id": 1088420, "best_split": [3, 3], "split_score": 0.5662725574725773}
+{"sent": "cake with black candy", "ann_id": 1088420, "best_split": [3, 3], "split_score": 0.5662725574725773}
+{"sent": "cake with green and black", "ann_id": 1088420, "best_split": [3, 3], "split_score": 0.5662725574725773}
+{"sent": "the front cake with marshmellows", "ann_id": 1086588, "best_split": [1, 3], "split_score": 0.4750126029079142}
+{"sent": "train engine", "ann_id": 1086588, "best_split": [1, 3], "split_score": 0.4750126029079142}
+{"sent": "marshmellows", "ann_id": 1086588, "best_split": [1, 3], "split_score": 0.4750126029079142}

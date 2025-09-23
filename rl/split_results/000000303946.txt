@@ -1,0 +1,6 @@
+{"sent": "bike with the guy in red", "ann_id": 152114, "best_split": [3, 3], "split_score": 0.7998539078159507}
+{"sent": "white helmet mans bike", "ann_id": 152114, "best_split": [3, 3], "split_score": 0.7998539078159507}
+{"sent": "scooter with orange shirt", "ann_id": 152114, "best_split": [3, 3], "split_score": 0.7998539078159507}
+{"sent": "scooter not being ridden", "ann_id": 151308, "best_split": [2, 1], "split_score": 0.23915816325577335}
+{"sent": "the scooter with no one riding it", "ann_id": 151308, "best_split": [2, 1], "split_score": 0.23915816325577335}
+{"sent": "cycle no rider", "ann_id": 151308, "best_split": [2, 1], "split_score": 0.23915816325577335}

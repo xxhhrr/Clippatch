@@ -1,0 +1,6 @@
+{"sent": "larger zebra", "ann_id": 589768, "best_split": [3, 2], "split_score": 0.4103250477619192}
+{"sent": "standing", "ann_id": 589768, "best_split": [3, 3], "split_score": 0.35190217387319944}
+{"sent": "zebra standing", "ann_id": 589768, "best_split": [3, 2], "split_score": 0.4103250477619192}
+{"sent": "zebra on ground", "ann_id": 589425, "best_split": [2, 3], "split_score": 0.2721436343555883}
+{"sent": "zebra laying", "ann_id": 589425, "best_split": [2, 3], "split_score": 0.2721436343555883}
+{"sent": "zebra laying", "ann_id": 589425, "best_split": [2, 3], "split_score": 0.2721436343555883}

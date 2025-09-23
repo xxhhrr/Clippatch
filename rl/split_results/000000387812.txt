@@ -1,0 +1,9 @@
+{"sent": "red orange surfboard", "ann_id": 647208, "best_split": [1, 5], "split_score": 0.43609671844875525}
+{"sent": "board with x", "ann_id": 647208, "best_split": [1, 2], "split_score": 0.4025829081472185}
+{"sent": "orange board", "ann_id": 647208, "best_split": [1, 5], "split_score": 0.43609671844875525}
+{"sent": "whitest guy with orange board", "ann_id": 492175, "best_split": [1, 2], "split_score": 0.5717474489568022}
+{"sent": "guy with black shorts", "ann_id": 492175, "best_split": [1, 2], "split_score": 0.5717474489568022}
+{"sent": "guy with taller board", "ann_id": 492175, "best_split": [1, 2], "split_score": 0.5717474489568022}
+{"sent": "darker man", "ann_id": 435671, "best_split": [3, 1], "split_score": 0.2670069523775848}
+{"sent": "blue pants", "ann_id": 435671, "best_split": [2, 1], "split_score": 0.09904548668103212}
+{"sent": "man with blue trunks", "ann_id": 435671, "best_split": [2, 2], "split_score": 0.5567710297650716}

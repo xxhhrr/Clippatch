@@ -1,0 +1,6 @@
+{"sent": "side view cat", "ann_id": 52434, "best_split": [1, 2], "split_score": 0.7084124910737232}
+{"sent": "close up cat", "ann_id": 52434, "best_split": [1, 3], "split_score": 0.4802149044556393}
+{"sent": "cat looking away", "ann_id": 52434, "best_split": [1, 2], "split_score": 0.7084124910737232}
+{"sent": "cat looking at us", "ann_id": 51964, "best_split": [3, 2], "split_score": 0.3289863663168352}
+{"sent": "cat facing camera", "ann_id": 51964, "best_split": [3, 2], "split_score": 0.3289863663168352}
+{"sent": "the kitty looking at the camera ps sorry im cooking while im doing this so spare with me please", "ann_id": 51964, "best_split": [3, 2], "split_score": 0.3289863663168352}

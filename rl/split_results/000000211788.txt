@@ -1,0 +1,6 @@
+{"sent": "partially hidden train", "ann_id": 1366742, "best_split": [2, 2], "split_score": 0.37919355866961507}
+{"sent": "hidden train", "ann_id": 1366742, "best_split": [2, 2], "split_score": 0.37919355866961507}
+{"sent": "train partly hidden", "ann_id": 1366742, "best_split": [2, 2], "split_score": 0.37919355866961507}
+{"sent": "engine", "ann_id": 169806, "best_split": [1, 2], "split_score": 0.4988913525386015}
+{"sent": "the train", "ann_id": 169806, "best_split": [2, 1], "split_score": 0.44444444443475395}
+{"sent": "train", "ann_id": 169806, "best_split": [2, 1], "split_score": 0.44444444443475395}

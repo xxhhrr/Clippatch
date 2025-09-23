@@ -1,0 +1,20 @@
+{"sent": "white bike", "ann_id": 1697173, "best_split": [2, 2], "split_score": 0.24345692473804137}
+{"sent": "white motorcycle", "ann_id": 1697173, "best_split": [2, 2], "split_score": 0.24345692473804137}
+{"sent": "white bike", "ann_id": 1697173, "best_split": [2, 2], "split_score": 0.24345692473804137}
+{"sent": "man in blue gray", "ann_id": 1276081, "best_split": [1, 5], "split_score": 0.8861433186764737}
+{"sent": "blue man standing", "ann_id": 1276081, "best_split": [1, 5], "split_score": 0.8861433186764737}
+{"sent": "the man on the side in blue and gray", "ann_id": 1276081, "best_split": [1, 5], "split_score": 0.8861433186764737}
+{"sent": "man riding 1", "ann_id": 1236499, "best_split": [1, 5], "split_score": 0.47993966813876776}
+{"sent": "guy on 1 bike", "ann_id": 1236499, "best_split": [1, 5], "split_score": 0.47993966813876776}
+{"sent": "rider 1 not the moto", "ann_id": 1236499, "best_split": [1, 5], "split_score": 0.47993966813876776}
+{"sent": "man on yellow bike", "ann_id": 1223855, "best_split": [1, 3], "split_score": 0.4768282564610153}
+{"sent": "biker in orange and black", "ann_id": 1223855, "best_split": [1, 3], "split_score": 0.4768282564610153}
+{"sent": "man on yellow bike", "ann_id": 1223855, "best_split": [1, 3], "split_score": 0.4768282564610153}
+{"sent": "number one bike", "ann_id": 1791398, "best_split": [1, 5], "split_score": 0.4413047269805246}
+{"sent": "bike with 1", "ann_id": 1791398, "best_split": [1, 5], "split_score": 0.4413047269805246}
+{"sent": "yellow motorcycle", "ann_id": 155497, "best_split": [2, 3], "split_score": 0.5063520870569019}
+{"sent": "yellow bike", "ann_id": 155497, "best_split": [2, 3], "split_score": 0.5063520870569019}
+{"sent": "yellow motorcycle", "ann_id": 155497, "best_split": [2, 3], "split_score": 0.5063520870569019}
+{"sent": "white motorcycle", "ann_id": 154789, "best_split": [2, 2], "split_score": 0.2565395524537867}
+{"sent": "24", "ann_id": 154789, "best_split": [1, 3], "split_score": 0.20535714284475404}
+{"sent": "white motor bike 24", "ann_id": 154789, "best_split": [5, 1], "split_score": 0.1399587345134148}

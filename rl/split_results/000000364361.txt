@@ -1,0 +1,9 @@
+{"sent": "sold red shirt", "ann_id": 1223764, "best_split": [3, 3], "split_score": 0.26791510608390573}
+{"sent": "old lady wearing sunglasses", "ann_id": 1223764, "best_split": [3, 2], "split_score": 0.3455073666377353}
+{"sent": "granny", "ann_id": 1223764, "best_split": [3, 2], "split_score": 0.3455073666377353}
+{"sent": "big man black shirt nearest us", "ann_id": 1702274, "best_split": [1, 5], "split_score": 0.719866071355533}
+{"sent": "large man in black shirt", "ann_id": 1702274, "best_split": [1, 5], "split_score": 0.719866071355533}
+{"sent": "closest black shirt man", "ann_id": 1702274, "best_split": [1, 5], "split_score": 0.719866071355533}
+{"sent": "glasses on head", "ann_id": 1222662, "best_split": [1, 3], "split_score": 0.2559827265485526}
+{"sent": "man gray shirt black sleeves", "ann_id": 1222662, "best_split": [3, 1], "split_score": 0.18908636646476143}
+{"sent": "man in gray shirt", "ann_id": 1222662, "best_split": [3, 2], "split_score": 0.3571811648227844}

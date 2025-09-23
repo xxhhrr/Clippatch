@@ -1,0 +1,6 @@
+{"sent": "person in brown shoes", "ann_id": 545070, "best_split": [1, 2], "split_score": 0.8799177920992396}
+{"sent": "person with brown shoes", "ann_id": 545070, "best_split": [1, 2], "split_score": 0.8799177920992396}
+{"sent": "lighter jeans legs", "ann_id": 545070, "best_split": [1, 2], "split_score": 0.8799177920992396}
+{"sent": "dark jeans", "ann_id": 531457, "best_split": [2, 1], "split_score": 0.43447522528038124}
+{"sent": "no socks", "ann_id": 531457, "best_split": [3, 1], "split_score": 0.3267164076827053}
+{"sent": "darker jeans", "ann_id": 531457, "best_split": [2, 1], "split_score": 0.43447522528038124}

@@ -1,0 +1,6 @@
+{"sent": "boat with wheels", "ann_id": 178447, "best_split": [1, 2], "split_score": 0.14738817641077923}
+{"sent": "larger boat", "ann_id": 178447, "best_split": [1, 2], "split_score": 0.14738817641077923}
+{"sent": "big boat", "ann_id": 178447, "best_split": [1, 2], "split_score": 0.14738817641077923}
+{"sent": "boat filled with bags", "ann_id": 176341, "best_split": [3, 1], "split_score": 0.4628992628785839}
+{"sent": "boat the man is on", "ann_id": 176341, "best_split": [2, 2], "split_score": 0.3980719606408261}
+{"sent": "boat with yellow stuff in the back", "ann_id": 176341, "best_split": [2, 2], "split_score": 0.3980719606408261}

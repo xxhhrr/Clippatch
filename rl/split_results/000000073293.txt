@@ -1,0 +1,9 @@
+{"sent": "farthest small girl", "ann_id": 1749809, "best_split": [3, 2], "split_score": 0.4444938820417693}
+{"sent": "smallest girl", "ann_id": 1749809, "best_split": [3, 2], "split_score": 0.4444938820417693}
+{"sent": "smallest girl", "ann_id": 1749809, "best_split": [3, 2], "split_score": 0.4444938820417693}
+{"sent": "adult", "ann_id": 449431, "best_split": [1, 2], "split_score": 0.8516965046597886}
+{"sent": "the dad", "ann_id": 449431, "best_split": [1, 2], "split_score": 0.8516965046597886}
+{"sent": "tall man", "ann_id": 449431, "best_split": [1, 2], "split_score": 0.8516965046597886}
+{"sent": "girl closest to you", "ann_id": 433027, "best_split": [2, 1], "split_score": 0.591916454058039}
+{"sent": "girl near you", "ann_id": 433027, "best_split": [2, 1], "split_score": 0.591916454058039}
+{"sent": "girl eating", "ann_id": 433027, "best_split": [2, 1], "split_score": 0.591916454058039}

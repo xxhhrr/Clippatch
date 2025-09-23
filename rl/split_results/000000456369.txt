@@ -1,0 +1,4 @@
+{"sent": "greasy weiner at five but not in the corner", "ann_id": 1069919, "best_split": [3, 1], "split_score": 0.3384411196707022}
+{"sent": "horizontal hotdog number 2 from plate of bread", "ann_id": 1069337, "best_split": [5, 1], "split_score": 0.2504137270054513}
+{"sent": "fattest", "ann_id": 1069198, "best_split": [1, 2], "split_score": 0.157614638763665}
+{"sent": "hot dog above nearest", "ann_id": 1069198, "best_split": [3, 2], "split_score": 0.40662027455269695}

@@ -1,0 +1,6 @@
+{"sent": "the box with handles at 3o clock", "ann_id": 1642483, "best_split": [1, 5], "split_score": 0.14795964735545217}
+{"sent": "oven person is grabbing", "ann_id": 1642483, "best_split": [5, 1], "split_score": 0.25295109609632466}
+{"sent": "shortest metal object with a handle", "ann_id": 1642483, "best_split": [1, 5], "split_score": 0.14795964735545217}
+{"sent": "oven that is on", "ann_id": 1124016, "best_split": [3, 3], "split_score": 0.7663430419471936}
+{"sent": "bread oven with lights", "ann_id": 1124016, "best_split": [3, 3], "split_score": 0.7663430419471936}
+{"sent": "what the baking sign is resting on", "ann_id": 1124016, "best_split": [2, 2], "split_score": 0.4336734693531829}

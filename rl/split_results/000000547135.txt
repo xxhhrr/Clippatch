@@ -1,0 +1,8 @@
+{"sent": "on the back of closest motorcycle", "ann_id": 209689, "best_split": [2, 3], "split_score": 0.3447185325431717}
+{"sent": "woman holding the guy", "ann_id": 209689, "best_split": [2, 2], "split_score": 0.3144230769014819}
+{"sent": "woman on lead bike", "ann_id": 209689, "best_split": [2, 3], "split_score": 0.3447185325431717}
+{"sent": "nearest motorcycle with only one person", "ann_id": 155381, "best_split": [2, 3], "split_score": 0.4346716402832363}
+{"sent": "bike with one rider helmet thingy open", "ann_id": 155381, "best_split": [2, 3], "split_score": 0.4346716402832363}
+{"sent": "motorcycle is facing camera and mostly visible", "ann_id": 155381, "best_split": [2, 3], "split_score": 0.4346716402832363}
+{"sent": "bike that has two people on it", "ann_id": 149782, "best_split": [3, 1], "split_score": 0.37683416180290863}
+{"sent": "closest motorcycle handles", "ann_id": 149782, "best_split": [3, 3], "split_score": 0.2587612493108776}

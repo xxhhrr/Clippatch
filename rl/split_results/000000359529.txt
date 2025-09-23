@@ -1,0 +1,6 @@
+{"sent": "dog on screen", "ann_id": 15104, "best_split": [2, 2], "split_score": 0.6476952719247299}
+{"sent": "dog on tv", "ann_id": 15104, "best_split": [2, 2], "split_score": 0.6476952719247299}
+{"sent": "tv dog", "ann_id": 15104, "best_split": [2, 2], "split_score": 0.6476952719247299}
+{"sent": "black dog", "ann_id": 3579, "best_split": [1, 5], "split_score": 0.45771312580702694}
+{"sent": "black dog watching tv", "ann_id": 3579, "best_split": [1, 5], "split_score": 0.45771312580702694}
+{"sent": "black dog", "ann_id": 3579, "best_split": [1, 5], "split_score": 0.45771312580702694}

@@ -1,0 +1,6 @@
+{"sent": "meter covering truck", "ann_id": 419453, "best_split": [2, 2], "split_score": 0.44682716833172614}
+{"sent": "meter next to car", "ann_id": 419453, "best_split": [2, 2], "split_score": 0.44682716833172614}
+{"sent": "parking meter near white truck", "ann_id": 419453, "best_split": [2, 2], "split_score": 0.44682716833172614}
+{"sent": "meter nearer palm tree", "ann_id": 418175, "best_split": [1, 5], "split_score": 0.2150520668811098}
+{"sent": "meter closest to palm tree", "ann_id": 418175, "best_split": [1, 5], "split_score": 0.2150520668811098}
+{"sent": "meter at 5 o clock", "ann_id": 418175, "best_split": [3, 1], "split_score": 0.24176255962718143}

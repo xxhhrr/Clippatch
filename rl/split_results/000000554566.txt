@@ -1,0 +1,6 @@
+{"sent": "black cow", "ann_id": 75167, "best_split": [2, 2], "split_score": 0.8456853594205738}
+{"sent": "black animal behind fence", "ann_id": 75167, "best_split": [2, 2], "split_score": 0.8456853594205738}
+{"sent": "black cow", "ann_id": 75167, "best_split": [2, 2], "split_score": 0.8456853594205738}
+{"sent": "white horse", "ann_id": 73841, "best_split": [2, 1], "split_score": 0.6731668224698422}
+{"sent": "light brown cow", "ann_id": 73841, "best_split": [2, 1], "split_score": 0.6731668224698422}
+{"sent": "horse light", "ann_id": 73841, "best_split": [2, 1], "split_score": 0.6731668224698422}

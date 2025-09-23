@@ -1,0 +1,4 @@
+{"sent": "orange by the teapot", "ann_id": 1557266, "best_split": [2, 1], "split_score": 0.47154867794347666}
+{"sent": "the orange touching the teapot", "ann_id": 1557266, "best_split": [2, 1], "split_score": 0.47154867794347666}
+{"sent": "oranges", "ann_id": 1557266, "best_split": [2, 1], "split_score": 0.47154867794347666}
+{"sent": "orange on edge at four", "ann_id": 1556911, "best_split": [1, 5], "split_score": 0.14781072788437197}

@@ -1,0 +1,6 @@
+{"sent": "black shirt blue jeans facing away", "ann_id": 1284134, "best_split": [1, 3], "split_score": 0.6418918918531678}
+{"sent": "black shirt facing away", "ann_id": 1284134, "best_split": [1, 2], "split_score": 0.4241071428402381}
+{"sent": "black shirt with back to us", "ann_id": 1284134, "best_split": [1, 2], "split_score": 0.4241071428402381}
+{"sent": "man on bike", "ann_id": 1266172, "best_split": [1, 3], "split_score": 0.6695029108447434}
+{"sent": "man on bike", "ann_id": 1266172, "best_split": [1, 3], "split_score": 0.6695029108447434}
+{"sent": "white shirt", "ann_id": 1266172, "best_split": [1, 3], "split_score": 0.6695029108447434}

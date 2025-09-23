@@ -1,0 +1,9 @@
+{"sent": "partial rear view of white car", "ann_id": 2169498, "best_split": [1, 5], "split_score": 0.26101332293484264}
+{"sent": "barely visible car", "ann_id": 2169498, "best_split": [1, 5], "split_score": 0.26101332293484264}
+{"sent": "the meter with mostly yellow", "ann_id": 419268, "best_split": [3, 2], "split_score": 0.37466494585777177}
+{"sent": "parking meter with dark green sticker", "ann_id": 418782, "best_split": [3, 2], "split_score": 0.3507109004442526}
+{"sent": "green sticker", "ann_id": 418782, "best_split": [3, 2], "split_score": 0.3507109004442526}
+{"sent": "green sticker", "ann_id": 418782, "best_split": [3, 2], "split_score": 0.3507109004442526}
+{"sent": "main car", "ann_id": 349374, "best_split": [1, 2], "split_score": 0.5405398724343565}
+{"sent": "huge white car", "ann_id": 349374, "best_split": [1, 2], "split_score": 0.5405398724343565}
+{"sent": "car behind parking meter", "ann_id": 349374, "best_split": [1, 2], "split_score": 0.5405398724343565}

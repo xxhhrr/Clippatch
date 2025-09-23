@@ -1,0 +1,9 @@
+{"sent": "green 2pm", "ann_id": 1549579, "best_split": [2, 3], "split_score": 0.4924953095107299}
+{"sent": "big apple a smidge below the one next to it", "ann_id": 1549579, "best_split": [2, 2], "split_score": 0.35395408160443603}
+{"sent": "apple eye number two", "ann_id": 1549579, "best_split": [2, 3], "split_score": 0.4924953095107299}
+{"sent": "lone apple", "ann_id": 1548832, "best_split": [3, 3], "split_score": 0.5865517240368014}
+{"sent": "apple above kiwis", "ann_id": 1548832, "best_split": [3, 3], "split_score": 0.5865517240368014}
+{"sent": "nose", "ann_id": 1548832, "best_split": [3, 3], "split_score": 0.5865517240368014}
+{"sent": "apple 1", "ann_id": 1047173, "best_split": [3, 2], "split_score": 0.4999999999396718}
+{"sent": "apple closest to 11 oclock", "ann_id": 1047173, "best_split": [3, 2], "split_score": 0.4999999999396718}
+{"sent": "biggest apple at 11", "ann_id": 1047173, "best_split": [3, 2], "split_score": 0.4999999999396718}

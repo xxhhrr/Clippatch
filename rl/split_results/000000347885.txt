@@ -1,0 +1,6 @@
+{"sent": "taxi behind motorcycle at crosswalk", "ann_id": 1344340, "best_split": [5, 1], "split_score": 0.2019704433319871}
+{"sent": "yellow taxi closest to camera", "ann_id": 1344340, "best_split": [3, 3], "split_score": 0.4329371815970154}
+{"sent": "sedan taxi not cut off", "ann_id": 1344340, "best_split": [3, 3], "split_score": 0.4329371815970154}
+{"sent": "taxi suv", "ann_id": 1346244, "best_split": [5, 1], "split_score": 0.14717013588962927}
+{"sent": "yellow suv", "ann_id": 1346244, "best_split": [5, 1], "split_score": 0.14717013588962927}
+{"sent": "yellow suv", "ann_id": 1346244, "best_split": [5, 1], "split_score": 0.14717013588962927}

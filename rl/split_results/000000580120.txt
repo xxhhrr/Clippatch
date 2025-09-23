@@ -1,0 +1,6 @@
+{"sent": "kid in white bent over desk", "ann_id": 1320948, "best_split": [3, 2], "split_score": 0.43248053387847823}
+{"sent": "white shirt leaning over", "ann_id": 1320948, "best_split": [3, 3], "split_score": 0.6293298801182696}
+{"sent": "child wearing white leaning forward over table", "ann_id": 1320948, "best_split": [3, 1], "split_score": 0.2250260446680735}
+{"sent": "man in white shirt and glasses standing", "ann_id": 1208097, "best_split": [1, 5], "split_score": 0.28977272724332664}
+{"sent": "man in white shirt", "ann_id": 1208097, "best_split": [1, 5], "split_score": 0.28977272724332664}
+{"sent": "white shirt standing", "ann_id": 1208097, "best_split": [1, 5], "split_score": 0.28977272724332664}

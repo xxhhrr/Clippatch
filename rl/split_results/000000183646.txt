@@ -1,0 +1,6 @@
+{"sent": "plane behind plane", "ann_id": 158454, "best_split": [2, 2], "split_score": 0.4859410735580559}
+{"sent": "smaller plane", "ann_id": 158454, "best_split": [2, 2], "split_score": 0.4859410735580559}
+{"sent": "blocked plane", "ann_id": 158454, "best_split": [2, 2], "split_score": 0.4859410735580559}
+{"sent": "plane closer to us", "ann_id": 158204, "best_split": [1, 3], "split_score": 0.41900706647857366}
+{"sent": "closest plane", "ann_id": 158204, "best_split": [1, 3], "split_score": 0.41900706647857366}
+{"sent": "plane closes to you", "ann_id": 158204, "best_split": [1, 3], "split_score": 0.41900706647857366}

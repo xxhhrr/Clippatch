@@ -1,0 +1,12 @@
+{"sent": "highest plane", "ann_id": 161928, "best_split": [5, 1], "split_score": 0.8429553263880623}
+{"sent": "highest jet", "ann_id": 161928, "best_split": [5, 1], "split_score": 0.8429553263880623}
+{"sent": "12 o clock plane", "ann_id": 161928, "best_split": [5, 1], "split_score": 0.8429553263880623}
+{"sent": "plane with 3", "ann_id": 161858, "best_split": [2, 1], "split_score": 0.5469664305302215}
+{"sent": "plane under one with 3", "ann_id": 161041, "best_split": [3, 1], "split_score": 0.3950568850335888}
+{"sent": "middle plane", "ann_id": 161041, "best_split": [3, 1], "split_score": 0.3950568850335888}
+{"sent": "fourth plane", "ann_id": 160817, "best_split": [1, 2], "split_score": 0.14659067212947138}
+{"sent": "plane number 4", "ann_id": 160817, "best_split": [1, 2], "split_score": 0.14659067212947138}
+{"sent": "plane two down from 3", "ann_id": 160817, "best_split": [1, 2], "split_score": 0.14659067212947138}
+{"sent": "lowest plane", "ann_id": 160356, "best_split": [1, 2], "split_score": 0.10833810068262521}
+{"sent": "half", "ann_id": 160356, "best_split": [2, 1], "split_score": 0.23557079080693674}
+{"sent": "lowest", "ann_id": 160356, "best_split": [5, 1], "split_score": 0.5091413802518291}

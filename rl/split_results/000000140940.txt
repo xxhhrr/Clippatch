@@ -1,0 +1,14 @@
+{"sent": "the player thats kneeling", "ann_id": 1741176, "best_split": [2, 3], "split_score": 0.7795906258499367}
+{"sent": "kneeling", "ann_id": 1741176, "best_split": [2, 3], "split_score": 0.7795906258499367}
+{"sent": "man kneeling", "ann_id": 1741176, "best_split": [2, 3], "split_score": 0.7795906258499367}
+{"sent": "guy behind the kneeling one", "ann_id": 534167, "best_split": [1, 3], "split_score": 0.2892133204458727}
+{"sent": "player behind kneeler", "ann_id": 534167, "best_split": [1, 2], "split_score": 0.1910873724413629}
+{"sent": "third from west side", "ann_id": 502753, "best_split": [1, 3], "split_score": 0.33559612091639496}
+{"sent": "man with both hands on bat standing", "ann_id": 502753, "best_split": [2, 3], "split_score": 0.34122550320641787}
+{"sent": "guy that looks shorest", "ann_id": 502753, "best_split": [2, 2], "split_score": 0.2999530484740792}
+{"sent": "j looking down straight close together legs", "ann_id": 497206, "best_split": [2, 3], "split_score": 0.3846710704565495}
+{"sent": "the guy that has the bat aimed at", "ann_id": 497206, "best_split": [2, 3], "split_score": 0.3846710704565495}
+{"sent": "player standing with his arm down and no undershirt showing", "ann_id": 497206, "best_split": [2, 3], "split_score": 0.3846710704565495}
+{"sent": "slouching holding bat one hand visible", "ann_id": 484427, "best_split": [2, 1], "split_score": 0.15380233551147102}
+{"sent": "tallest player", "ann_id": 484427, "best_split": [2, 1], "split_score": 0.15380233551147102}
+{"sent": "bat behind him", "ann_id": 484427, "best_split": [3, 1], "split_score": 0.1413832632718101}

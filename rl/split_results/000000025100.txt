@@ -1,0 +1,8 @@
+{"sent": "person with red on their suit", "ann_id": 510754, "best_split": [3, 3], "split_score": 0.39710470480505367}
+{"sent": "person by yellow person", "ann_id": 510754, "best_split": [3, 3], "split_score": 0.39710470480505367}
+{"sent": "girl with kinda red suit", "ann_id": 510754, "best_split": [3, 3], "split_score": 0.39710470480505367}
+{"sent": "man jumping", "ann_id": 465947, "best_split": [1, 3], "split_score": 0.29661016947454133}
+{"sent": "man", "ann_id": 465947, "best_split": [1, 3], "split_score": 0.29661016947454133}
+{"sent": "guy in blue and black", "ann_id": 465947, "best_split": [2, 3], "split_score": 0.2973070666638978}
+{"sent": "surfer with raised arm", "ann_id": 432018, "best_split": [1, 3], "split_score": 0.37741312739035876}
+{"sent": "person with their arm raised", "ann_id": 432018, "best_split": [2, 3], "split_score": 0.4041320717895219}

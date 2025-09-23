@@ -1,0 +1,6 @@
+{"sent": "hillary looking woman", "ann_id": 2150707, "best_split": [1, 5], "split_score": 0.421889055440638}
+{"sent": "woman in blue", "ann_id": 2150707, "best_split": [1, 5], "split_score": 0.421889055440638}
+{"sent": "a woman in a blue outfit", "ann_id": 2150707, "best_split": [1, 5], "split_score": 0.421889055440638}
+{"sent": "black suit solid tie", "ann_id": 1205321, "best_split": [3, 1], "split_score": 0.21905998440825447}
+{"sent": "gray hair guy in tie next to lady in blue", "ann_id": 1205321, "best_split": [3, 1], "split_score": 0.21905998440825447}
+{"sent": "man next to woman", "ann_id": 1205321, "best_split": [3, 1], "split_score": 0.21905998440825447}

@@ -1,0 +1,6 @@
+{"sent": "furtherest pizza", "ann_id": 1072187, "best_split": [1, 3], "split_score": 0.13309352517237558}
+{"sent": "pizza she is going to eat", "ann_id": 1072187, "best_split": [1, 3], "split_score": 0.13309352517237558}
+{"sent": "not the nearest pizza", "ann_id": 1072187, "best_split": [1, 3], "split_score": 0.13309352517237558}
+{"sent": "closest plate", "ann_id": 1070932, "best_split": [2, 1], "split_score": 0.6550542091575632}
+{"sent": "closest food", "ann_id": 1070932, "best_split": [3, 1], "split_score": 0.7601578329550945}
+{"sent": "pizza we are eating", "ann_id": 1070932, "best_split": [3, 1], "split_score": 0.7601578329550945}

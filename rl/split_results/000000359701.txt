@@ -1,0 +1,6 @@
+{"sent": "red train out of frame", "ann_id": 174699, "best_split": [3, 3], "split_score": 0.3296466973379959}
+{"sent": "red train", "ann_id": 174699, "best_split": [3, 3], "split_score": 0.3296466973379959}
+{"sent": "red train", "ann_id": 174699, "best_split": [3, 3], "split_score": 0.3296466973379959}
+{"sent": "train nearest to us", "ann_id": 174094, "best_split": [3, 2], "split_score": 0.4550985319101244}
+{"sent": "the yellow train", "ann_id": 174094, "best_split": [3, 2], "split_score": 0.4550985319101244}
+{"sent": "train see all", "ann_id": 174094, "best_split": [3, 2], "split_score": 0.4550985319101244}

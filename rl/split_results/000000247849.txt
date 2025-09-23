@@ -1,0 +1,9 @@
+{"sent": "watch", "ann_id": 463624, "best_split": [1, 2], "split_score": 0.39455238562486006}
+{"sent": "wearing watch", "ann_id": 463624, "best_split": [1, 2], "split_score": 0.39455238562486006}
+{"sent": "guy with ust", "ann_id": 463624, "best_split": [1, 2], "split_score": 0.39455238562486006}
+{"sent": "man in blue shoulder strap", "ann_id": 2166776, "best_split": [2, 1], "split_score": 0.4312036372190475}
+{"sent": "low man", "ann_id": 2166776, "best_split": [2, 1], "split_score": 0.4312036372190475}
+{"sent": "man in blue tanktop", "ann_id": 2166776, "best_split": [2, 2], "split_score": 0.621219660495316}
+{"sent": "person closest to camera", "ann_id": 450239, "best_split": [1, 2], "split_score": 0.9321263481921369}
+{"sent": "side of head", "ann_id": 450239, "best_split": [1, 2], "split_score": 0.9321263481921369}
+{"sent": "guy with patch on arm about to nom the end of wahtever that is", "ann_id": 450239, "best_split": [2, 1], "split_score": 0.3331738564087613}

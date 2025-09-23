@@ -1,0 +1,6 @@
+{"sent": "area above bike but not on side", "ann_id": 153208, "best_split": [2, 1], "split_score": 0.2080676020325228}
+{"sent": "blurry tag", "ann_id": 153208, "best_split": [1, 5], "split_score": 0.21228690895687624}
+{"sent": "box with numbers", "ann_id": 153208, "best_split": [1, 5], "split_score": 0.21228690895687624}
+{"sent": "motocycle", "ann_id": 152528, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "bike", "ann_id": 152528, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "motorcycle", "ann_id": 152528, "best_split": [2, 1], "split_score": 0.5079313430304252}

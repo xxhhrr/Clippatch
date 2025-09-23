@@ -1,0 +1,11 @@
+{"sent": "leader of the pack", "ann_id": 2177052, "best_split": [2, 1], "split_score": 0.7211814412977845}
+{"sent": "big cow one ocklock", "ann_id": 2177052, "best_split": [2, 1], "split_score": 0.7211814412977845}
+{"sent": "goat with seal", "ann_id": 77517, "best_split": [2, 2], "split_score": 0.6981945252942228}
+{"sent": "cow closest to camera with no horns", "ann_id": 77517, "best_split": [1, 3], "split_score": 0.21905531476459797}
+{"sent": "cow without horns", "ann_id": 77517, "best_split": [1, 2], "split_score": 0.6076329992055655}
+{"sent": "cow barely showing little horns", "ann_id": 76565, "best_split": [5, 1], "split_score": 0.1026552689233183}
+{"sent": "cow with hidden face and visible horns", "ann_id": 76565, "best_split": [5, 1], "split_score": 0.1026552689233183}
+{"sent": "calf exactly 300", "ann_id": 76565, "best_split": [2, 2], "split_score": 0.19136015456549857}
+{"sent": "animal with head down and facing the camera", "ann_id": 75804, "best_split": [1, 3], "split_score": 0.3463008462890288}
+{"sent": "its all good cow with horns looking down", "ann_id": 75804, "best_split": [1, 2], "split_score": 0.6712195121717345}
+{"sent": "cow with horns", "ann_id": 75804, "best_split": [1, 2], "split_score": 0.6712195121717345}

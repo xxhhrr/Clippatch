@@ -1,0 +1,6 @@
+{"sent": "green scarf", "ann_id": 232178, "best_split": [1, 2], "split_score": 0.6572356214995615}
+{"sent": "lady closest to us with green scarf", "ann_id": 232178, "best_split": [1, 2], "split_score": 0.6572356214995615}
+{"sent": "brown hair woman near us wearing green thing", "ann_id": 232178, "best_split": [1, 2], "split_score": 0.6572356214995615}
+{"sent": "red shirt", "ann_id": 203004, "best_split": [3, 3], "split_score": 0.397093348194847}
+{"sent": "person in red shirt", "ann_id": 203004, "best_split": [3, 3], "split_score": 0.397093348194847}
+{"sent": "lady red shirt", "ann_id": 203004, "best_split": [3, 3], "split_score": 0.397093348194847}

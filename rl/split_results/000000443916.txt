@@ -1,0 +1,12 @@
+{"sent": "bear with orange bow", "ann_id": 1674457, "best_split": [2, 2], "split_score": 0.32058767226643436}
+{"sent": "bear with bow on head", "ann_id": 1674457, "best_split": [2, 1], "split_score": 0.20032894736243034}
+{"sent": "bear with bow", "ann_id": 1674457, "best_split": [1, 2], "split_score": 0.5999282525271075}
+{"sent": "pumpkin bear", "ann_id": 1674436, "best_split": [1, 2], "split_score": 0.5888871173234659}
+{"sent": "bear with jack o lantern bucket", "ann_id": 1674436, "best_split": [1, 2], "split_score": 0.5888871173234659}
+{"sent": "bear with bucket", "ann_id": 1674436, "best_split": [1, 2], "split_score": 0.5888871173234659}
+{"sent": "bear with sign", "ann_id": 2210474, "best_split": [2, 1], "split_score": 0.1928185535566123}
+{"sent": "bear with happy sign", "ann_id": 2210474, "best_split": [3, 1], "split_score": 0.24999006397798218}
+{"sent": "bear with bow", "ann_id": 2210474, "best_split": [1, 2], "split_score": 0.5929129464049381}
+{"sent": "pumpkin", "ann_id": 2210352, "best_split": [1, 2], "split_score": 0.5924346300784266}
+{"sent": "teddy wants some candy", "ann_id": 2210352, "best_split": [1, 2], "split_score": 0.5924346300784266}
+{"sent": "yellow shirt and bucket", "ann_id": 2210352, "best_split": [1, 2], "split_score": 0.5924346300784266}

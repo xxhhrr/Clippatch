@@ -1,0 +1,9 @@
+{"sent": "carrots in tupperware not in dish", "ann_id": 1903390, "best_split": [3, 3], "split_score": 0.467494521463204}
+{"sent": "clear plastic in corner", "ann_id": 1903390, "best_split": [1, 5], "split_score": 0.25974025971390624}
+{"sent": "plastic container with carrots", "ann_id": 1903390, "best_split": [3, 3], "split_score": 0.467494521463204}
+{"sent": "orange bowl of mac n chese", "ann_id": 1898126, "best_split": [1, 5], "split_score": 0.19459459457815922}
+{"sent": "orange bowl with mac", "ann_id": 1898126, "best_split": [1, 5], "split_score": 0.19459459457815922}
+{"sent": "orange bowl", "ann_id": 1898126, "best_split": [2, 1], "split_score": 0.15854235683236542}
+{"sent": "blue bowl", "ann_id": 714353, "best_split": [3, 2], "split_score": 0.37869179195699476}
+{"sent": "mac and cheese in blue bowl", "ann_id": 714353, "best_split": [2, 2], "split_score": 0.38329308137638207}
+{"sent": "blue bowl", "ann_id": 714353, "best_split": [3, 2], "split_score": 0.37869179195699476}

@@ -1,0 +1,5 @@
+{"sent": "apples hidden by the orange", "ann_id": 1048469, "best_split": [1, 2], "split_score": 0.5475709669816649}
+{"sent": "apple near orange", "ann_id": 1048469, "best_split": [3, 1], "split_score": 0.37705568267346895}
+{"sent": "apple with hole facing us", "ann_id": 1047750, "best_split": [1, 3], "split_score": 0.5907335906979528}
+{"sent": "biggest apple", "ann_id": 1047750, "best_split": [1, 3], "split_score": 0.5907335906979528}
+{"sent": "apple at 900", "ann_id": 1047750, "best_split": [1, 3], "split_score": 0.5907335906979528}

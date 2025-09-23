@@ -1,0 +1,6 @@
+{"sent": "lazy giraffe", "ann_id": 595819, "best_split": [3, 2], "split_score": 0.5152244254114972}
+{"sent": "giraffe laying down", "ann_id": 595819, "best_split": [3, 2], "split_score": 0.5152244254114972}
+{"sent": "giraffe laying", "ann_id": 595819, "best_split": [3, 2], "split_score": 0.5152244254114972}
+{"sent": "standing giraffe", "ann_id": 595450, "best_split": [3, 1], "split_score": 0.34842574532082665}
+{"sent": "giraffe standing", "ann_id": 595450, "best_split": [3, 1], "split_score": 0.34842574532082665}
+{"sent": "standing giraffe", "ann_id": 595450, "best_split": [3, 1], "split_score": 0.34842574532082665}

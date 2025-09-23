@@ -1,0 +1,5 @@
+{"sent": "the red motor cycle between 2 others", "ann_id": 152038, "best_split": [2, 2], "split_score": 0.4520615995705016}
+{"sent": "morotcycle 2", "ann_id": 152038, "best_split": [2, 2], "split_score": 0.4520615995705016}
+{"sent": "motorcycle just behind foreground motorcycle", "ann_id": 152038, "best_split": [2, 2], "split_score": 0.4520615995705016}
+{"sent": "red bike full view", "ann_id": 151890, "best_split": [2, 2], "split_score": 0.4381326400554161}
+{"sent": "nearest bike", "ann_id": 151890, "best_split": [2, 2], "split_score": 0.4381326400554161}

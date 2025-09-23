@@ -1,0 +1,6 @@
+{"sent": "all brown horse", "ann_id": 58286, "best_split": [1, 2], "split_score": 0.5732621173240887}
+{"sent": "very small white patch", "ann_id": 58286, "best_split": [2, 1], "split_score": 0.2924034053604321}
+{"sent": "not white face", "ann_id": 58286, "best_split": [3, 1], "split_score": 0.28980918255604493}
+{"sent": "white faced horse", "ann_id": 56166, "best_split": [1, 3], "split_score": 0.4106280193081738}
+{"sent": "horse with white nose", "ann_id": 56166, "best_split": [1, 2], "split_score": 0.5689277899149027}
+{"sent": "white face", "ann_id": 56166, "best_split": [1, 2], "split_score": 0.5689277899149027}

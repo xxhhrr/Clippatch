@@ -1,0 +1,9 @@
+{"sent": "black car obstructed view because of people", "ann_id": 360250, "best_split": [5, 1], "split_score": 0.521327014173889}
+{"sent": "farthest car", "ann_id": 360250, "best_split": [5, 1], "split_score": 0.521327014173889}
+{"sent": "black car behind kids", "ann_id": 360250, "best_split": [5, 1], "split_score": 0.521327014173889}
+{"sent": "red car", "ann_id": 360064, "best_split": [3, 3], "split_score": 0.5197324413846601}
+{"sent": "red car", "ann_id": 360064, "best_split": [3, 3], "split_score": 0.5197324413846601}
+{"sent": "red car hood", "ann_id": 360064, "best_split": [3, 3], "split_score": 0.5197324413846601}
+{"sent": "black car with headlights", "ann_id": 354030, "best_split": [2, 2], "split_score": 0.7678571427959298}
+{"sent": "car next to purple car", "ann_id": 354030, "best_split": [2, 2], "split_score": 0.7678571427959298}
+{"sent": "black car near purple car", "ann_id": 354030, "best_split": [2, 2], "split_score": 0.7678571427959298}

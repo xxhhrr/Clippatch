@@ -1,0 +1,6 @@
+{"sent": "bigger cow", "ann_id": 70412, "best_split": [2, 2], "split_score": 0.32611066673990324}
+{"sent": "big one", "ann_id": 70412, "best_split": [3, 2], "split_score": 0.26453830150451857}
+{"sent": "larger animal", "ann_id": 70412, "best_split": [2, 2], "split_score": 0.32611066673990324}
+{"sent": "smallest cow", "ann_id": 70036, "best_split": [3, 2], "split_score": 0.4095940958937276}
+{"sent": "smaller", "ann_id": 70036, "best_split": [3, 2], "split_score": 0.4095940958937276}
+{"sent": "cow laying down", "ann_id": 70036, "best_split": [3, 3], "split_score": 0.36484918788212745}

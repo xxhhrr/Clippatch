@@ -1,0 +1,9 @@
+{"sent": "smling girl", "ann_id": 564898, "best_split": [1, 2], "split_score": 0.7182644385547396}
+{"sent": "closest girl", "ann_id": 564898, "best_split": [1, 2], "split_score": 0.7182644385547396}
+{"sent": "girl with teddy bear", "ann_id": 564898, "best_split": [1, 2], "split_score": 0.7182644385547396}
+{"sent": "boy in orange", "ann_id": 564417, "best_split": [1, 5], "split_score": 0.4768392370108175}
+{"sent": "boy in orange shirt", "ann_id": 564417, "best_split": [1, 5], "split_score": 0.4768392370108175}
+{"sent": "orange shirt", "ann_id": 564417, "best_split": [1, 5], "split_score": 0.4768392370108175}
+{"sent": "girl with pink shirt", "ann_id": 434945, "best_split": [3, 1], "split_score": 0.16709327325857}
+{"sent": "girl in pink shirt", "ann_id": 434945, "best_split": [3, 1], "split_score": 0.16709327325857}
+{"sent": "pink shirt", "ann_id": 434945, "best_split": [3, 2], "split_score": 0.27571654648534233}

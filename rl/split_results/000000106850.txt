@@ -1,0 +1,6 @@
+{"sent": "dog under blanket", "ann_id": 15096, "best_split": [2, 2], "split_score": 0.42570153057830823}
+{"sent": "dog sleeping on white pillow", "ann_id": 15096, "best_split": [2, 2], "split_score": 0.42570153057830823}
+{"sent": "dog under blanket", "ann_id": 15096, "best_split": [2, 2], "split_score": 0.42570153057830823}
+{"sent": "cat", "ann_id": 3476, "best_split": [3, 2], "split_score": 0.6012009889967148}
+{"sent": "the cat", "ann_id": 3476, "best_split": [3, 2], "split_score": 0.6012009889967148}
+{"sent": "dog on red pillow", "ann_id": 3476, "best_split": [3, 1], "split_score": 0.3471344074879087}

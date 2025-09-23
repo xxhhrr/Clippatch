@@ -1,0 +1,6 @@
+{"sent": "white care going other way", "ann_id": 142955, "best_split": [3, 2], "split_score": 0.6618911173994877}
+{"sent": "back of white car with tail liht", "ann_id": 142955, "best_split": [3, 3], "split_score": 0.7232392180075644}
+{"sent": "white car", "ann_id": 142955, "best_split": [3, 3], "split_score": 0.7232392180075644}
+{"sent": "small dark car", "ann_id": 141004, "best_split": [5, 1], "split_score": 0.25387870237216614}
+{"sent": "dark car ahead", "ann_id": 141004, "best_split": [1, 2], "split_score": 0.10323660713874216}
+{"sent": "black car", "ann_id": 141004, "best_split": [1, 3], "split_score": 0.1536748329528878}

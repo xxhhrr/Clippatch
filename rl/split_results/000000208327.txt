@@ -1,0 +1,6 @@
+{"sent": "brown cow", "ann_id": 75311, "best_split": [1, 2], "split_score": 0.4183166720277873}
+{"sent": "brown cow", "ann_id": 75311, "best_split": [1, 2], "split_score": 0.4183166720277873}
+{"sent": "brown animal", "ann_id": 75311, "best_split": [1, 2], "split_score": 0.4183166720277873}
+{"sent": "white animal", "ann_id": 70065, "best_split": [2, 1], "split_score": 0.4505065260741685}
+{"sent": "white goat", "ann_id": 70065, "best_split": [2, 1], "split_score": 0.4505065260741685}
+{"sent": "what he say", "ann_id": 70065, "best_split": [2, 1], "split_score": 0.4505065260741685}

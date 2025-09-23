@@ -1,0 +1,6 @@
+{"sent": "long plane farthest away", "ann_id": 159755, "best_split": [3, 3], "split_score": 0.3861480075290721}
+{"sent": "fartest plane", "ann_id": 159755, "best_split": [2, 3], "split_score": 0.28816199373740964}
+{"sent": "the plane hidden sideways", "ann_id": 159755, "best_split": [2, 3], "split_score": 0.28816199373740964}
+{"sent": "plane in full view", "ann_id": 158759, "best_split": [3, 1], "split_score": 0.70832933035314}
+{"sent": "red and white plane", "ann_id": 158759, "best_split": [3, 1], "split_score": 0.70832933035314}
+{"sent": "plane nearest you", "ann_id": 158759, "best_split": [3, 1], "split_score": 0.70832933035314}

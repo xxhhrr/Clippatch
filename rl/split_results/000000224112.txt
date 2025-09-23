@@ -1,0 +1,11 @@
+{"sent": "woman at table", "ann_id": 1693414, "best_split": [1, 2], "split_score": 0.36806441325063516}
+{"sent": "looking cross", "ann_id": 1693414, "best_split": [3, 2], "split_score": 0.519951422578075}
+{"sent": "woman wearing a red dress", "ann_id": 1693414, "best_split": [3, 2], "split_score": 0.519951422578075}
+{"sent": "back of person in dark shirt without writing on it", "ann_id": 1686747, "best_split": [2, 3], "split_score": 0.33011583007599954}
+{"sent": "back to us with white tie on chair", "ann_id": 1686747, "best_split": [1, 5], "split_score": 0.22110162914845793}
+{"sent": "man at table with fork in hand", "ann_id": 1685663, "best_split": [1, 2], "split_score": 0.22341358417476828}
+{"sent": "man in black partially hidden", "ann_id": 1685663, "best_split": [3, 3], "split_score": 0.632199145583709}
+{"sent": "male in dark shirt partially visible at nearest table", "ann_id": 1685663, "best_split": [1, 2], "split_score": 0.22341358417476828}
+{"sent": "man in red", "ann_id": 1682170, "best_split": [1, 5], "split_score": 0.40982404689350677}
+{"sent": "the man in the red shirt", "ann_id": 1682170, "best_split": [1, 5], "split_score": 0.40982404689350677}
+{"sent": "guy in red shirt", "ann_id": 1682170, "best_split": [1, 5], "split_score": 0.40982404689350677}

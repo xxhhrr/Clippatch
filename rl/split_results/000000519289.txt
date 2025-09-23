@@ -1,0 +1,9 @@
+{"sent": "the closest one to you", "ann_id": 584277, "best_split": [2, 1], "split_score": 0.3203420002071329}
+{"sent": "gold mask on rounds remaining side", "ann_id": 584277, "best_split": [1, 2], "split_score": 0.9346717780130944}
+{"sent": "closest elephant", "ann_id": 584277, "best_split": [1, 2], "split_score": 0.9346717780130944}
+{"sent": "elephant trunk third", "ann_id": 585041, "best_split": [2, 2], "split_score": 0.2537335073036296}
+{"sent": "profile no gold", "ann_id": 585041, "best_split": [5, 1], "split_score": 0.17733354826879466}
+{"sent": "third elephant", "ann_id": 585041, "best_split": [2, 2], "split_score": 0.2537335073036296}
+{"sent": "not the biggest", "ann_id": 584691, "best_split": [1, 2], "split_score": 0.35553252950403375}
+{"sent": "elephant not closest but the next one", "ann_id": 584691, "best_split": [2, 1], "split_score": 0.3655226949117342}
+{"sent": "elephant number 2", "ann_id": 584691, "best_split": [2, 1], "split_score": 0.3655226949117342}

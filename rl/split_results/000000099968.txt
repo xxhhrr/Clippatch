@@ -1,0 +1,5 @@
+{"sent": "large grilltop", "ann_id": 1122898, "best_split": [1, 3], "split_score": 0.4028716215973171}
+{"sent": "stove with red and black butons", "ann_id": 1122898, "best_split": [3, 3], "split_score": 0.419362372951143}
+{"sent": "stove with knobs", "ann_id": 1122898, "best_split": [3, 3], "split_score": 0.419362372951143}
+{"sent": "closest dishwasher", "ann_id": 1122440, "best_split": [1, 2], "split_score": 0.22480867346042696}
+{"sent": "stainless steel square appliance", "ann_id": 1122440, "best_split": [1, 2], "split_score": 0.22480867346042696}

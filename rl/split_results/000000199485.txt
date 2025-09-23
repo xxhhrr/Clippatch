@@ -1,0 +1,6 @@
+{"sent": "smaller elephant", "ann_id": 584071, "best_split": [1, 3], "split_score": 0.24352795029845822}
+{"sent": "elephant behind the closer one", "ann_id": 584071, "best_split": [1, 3], "split_score": 0.24352795029845822}
+{"sent": "larger elephant not eating", "ann_id": 584071, "best_split": [1, 3], "split_score": 0.24352795029845822}
+{"sent": "closest elephant", "ann_id": 582004, "best_split": [1, 5], "split_score": 0.48421174828858765}
+{"sent": "bigger elephant", "ann_id": 582004, "best_split": [1, 5], "split_score": 0.48421174828858765}
+{"sent": "biggest elephant", "ann_id": 582004, "best_split": [1, 5], "split_score": 0.48421174828858765}

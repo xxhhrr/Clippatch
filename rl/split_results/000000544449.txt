@@ -1,0 +1,16 @@
+{"sent": "apples on the upper lefty of picture", "ann_id": 1907736, "best_split": [1, 3], "split_score": 0.17845659162962468}
+{"sent": "apple under orange next to yellow apple", "ann_id": 1551364, "best_split": [1, 3], "split_score": 0.314448912961797}
+{"sent": "apple under orange", "ann_id": 1551364, "best_split": [1, 3], "split_score": 0.314448912961797}
+{"sent": "partial apple hidden 3 clock", "ann_id": 1550750, "best_split": [5, 1], "split_score": 0.1930144015731655}
+{"sent": "partial apple behind orange", "ann_id": 1550750, "best_split": [2, 2], "split_score": 0.2975720788848579}
+{"sent": "apple below orange that is niot as green", "ann_id": 1550467, "best_split": [1, 2], "split_score": 0.2818080357030529}
+{"sent": "apple with red on it near tous", "ann_id": 1550467, "best_split": [1, 2], "split_score": 0.2818080357030529}
+{"sent": "green a 5 o clock from orange", "ann_id": 1550467, "best_split": [2, 1], "split_score": 0.2818080357030529}
+{"sent": "only able with sticker closer to orange", "ann_id": 1550387, "best_split": [2, 3], "split_score": 0.2999112688221039}
+{"sent": "apple directly above orange", "ann_id": 1550387, "best_split": [2, 3], "split_score": 0.2999112688221039}
+{"sent": "apple next to apple with sticker", "ann_id": 1907816, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "half green apple in corner", "ann_id": 1907816, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "green apple at 200 corner", "ann_id": 1907816, "best_split": [5, 1], "split_score": 0.03941513032108907}
+{"sent": "green apple closest", "ann_id": 1047844, "best_split": [2, 3], "split_score": 0.731813471426755}
+{"sent": "full visible apple closest to us", "ann_id": 1047844, "best_split": [2, 2], "split_score": 0.6612264299903956}
+{"sent": "apple at 7pm", "ann_id": 1047844, "best_split": [2, 3], "split_score": 0.731813471426755}

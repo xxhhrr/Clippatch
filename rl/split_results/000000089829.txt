@@ -1,0 +1,6 @@
+{"sent": "peanuts on the donut", "ann_id": 1080791, "best_split": [2, 1], "split_score": 0.5582297832088813}
+{"sent": "donut with nuts", "ann_id": 1080791, "best_split": [2, 1], "split_score": 0.5582297832088813}
+{"sent": "topping on apple", "ann_id": 1080791, "best_split": [2, 1], "split_score": 0.5582297832088813}
+{"sent": "white powder", "ann_id": 1080232, "best_split": [3, 3], "split_score": 0.5026242666972703}
+{"sent": "white donut", "ann_id": 1080232, "best_split": [3, 3], "split_score": 0.5026242666972703}
+{"sent": "powder sugar", "ann_id": 1080232, "best_split": [3, 3], "split_score": 0.5026242666972703}

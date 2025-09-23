@@ -1,0 +1,9 @@
+{"sent": "the batter by the dugout", "ann_id": 2151753, "best_split": [3, 2], "split_score": 0.2707736389442359}
+{"sent": "batter warming up", "ann_id": 2151753, "best_split": [3, 2], "split_score": 0.2707736389442359}
+{"sent": "blurry player behind catcher", "ann_id": 2151753, "best_split": [3, 2], "split_score": 0.2707736389442359}
+{"sent": "catcher", "ann_id": 505192, "best_split": [2, 2], "split_score": 0.3850668850406042}
+{"sent": "umpire", "ann_id": 505192, "best_split": [2, 2], "split_score": 0.3850668850406042}
+{"sent": "catcer", "ann_id": 505192, "best_split": [1, 2], "split_score": 0.30891262753870724}
+{"sent": "batter", "ann_id": 463590, "best_split": [1, 3], "split_score": 0.7557915057459103}
+{"sent": "13", "ann_id": 463590, "best_split": [1, 3], "split_score": 0.7557915057459103}
+{"sent": "batter", "ann_id": 463590, "best_split": [1, 3], "split_score": 0.7557915057459103}

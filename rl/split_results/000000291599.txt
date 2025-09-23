@@ -1,0 +1,6 @@
+{"sent": "fence horse", "ann_id": 55736, "best_split": [1, 5], "split_score": 0.37763055335369927}
+{"sent": "horse by fence", "ann_id": 55736, "best_split": [1, 5], "split_score": 0.37763055335369927}
+{"sent": "horse close to fence looking at you", "ann_id": 55736, "best_split": [1, 5], "split_score": 0.37763055335369927}
+{"sent": "horse with hole body", "ann_id": 54663, "best_split": [1, 5], "split_score": 0.39888423984868654}
+{"sent": "the one that is near but not next to the fence", "ann_id": 54663, "best_split": [2, 1], "split_score": 0.12358946802319838}
+{"sent": "horse facing camera not near fence", "ann_id": 54663, "best_split": [3, 2], "split_score": 0.2661388550277975}

@@ -1,0 +1,9 @@
+{"sent": "head cut off in black", "ann_id": 1238418, "best_split": [1, 2], "split_score": 0.5958757364528321}
+{"sent": "person in black with no head near woman", "ann_id": 1238418, "best_split": [2, 1], "split_score": 0.3424194638321881}
+{"sent": "person in black behind woman", "ann_id": 1238418, "best_split": [1, 2], "split_score": 0.5958757364528321}
+{"sent": "woman", "ann_id": 471652, "best_split": [2, 3], "split_score": 0.5780933062321942}
+{"sent": "girl", "ann_id": 471652, "best_split": [2, 3], "split_score": 0.5780933062321942}
+{"sent": "girls face", "ann_id": 471652, "best_split": [2, 3], "split_score": 0.5780933062321942}
+{"sent": "guy", "ann_id": 470237, "best_split": [1, 2], "split_score": 0.7576675849171207}
+{"sent": "guy", "ann_id": 470237, "best_split": [1, 2], "split_score": 0.7576675849171207}
+{"sent": "man with glasses", "ann_id": 470237, "best_split": [1, 2], "split_score": 0.7576675849171207}

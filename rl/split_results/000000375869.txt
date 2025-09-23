@@ -1,0 +1,6 @@
+{"sent": "half cow", "ann_id": 72596, "best_split": [1, 2], "split_score": 0.42075892855465724}
+{"sent": "butt", "ann_id": 72596, "best_split": [1, 3], "split_score": 0.6368243242859059}
+{"sent": "half cow", "ann_id": 72596, "best_split": [1, 2], "split_score": 0.42075892855465724}
+{"sent": "cow facing us", "ann_id": 70708, "best_split": [1, 3], "split_score": 0.4910760279842709}
+{"sent": "main cow", "ann_id": 70708, "best_split": [1, 3], "split_score": 0.4910760279842709}
+{"sent": "hello moo cow", "ann_id": 70708, "best_split": [1, 3], "split_score": 0.4910760279842709}

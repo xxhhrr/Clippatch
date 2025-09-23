@@ -1,0 +1,6 @@
+{"sent": "he is looking at you", "ann_id": 529922, "best_split": [2, 2], "split_score": 0.4237288135431467}
+{"sent": "man holding mit", "ann_id": 529922, "best_split": [1, 2], "split_score": 0.7966834895170626}
+{"sent": "guy with arms spread", "ann_id": 529922, "best_split": [1, 2], "split_score": 0.7966834895170626}
+{"sent": "man shoes touching", "ann_id": 524809, "best_split": [1, 2], "split_score": 0.6629464285450037}
+{"sent": "man arms on lap", "ann_id": 524809, "best_split": [2, 2], "split_score": 0.41431964707866015}
+{"sent": "man looking away", "ann_id": 524809, "best_split": [1, 2], "split_score": 0.6629464285450037}

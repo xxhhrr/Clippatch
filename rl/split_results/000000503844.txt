@@ -1,0 +1,5 @@
+{"sent": "skier wearing backpack", "ann_id": 557854, "best_split": [1, 3], "split_score": 0.16234314670835284}
+{"sent": "person on right trailing behind", "ann_id": 557854, "best_split": [3, 3], "split_score": 0.23686203237363893}
+{"sent": "blue with red stripes", "ann_id": 427048, "best_split": [1, 5], "split_score": 0.7130736597847017}
+{"sent": "person in purple", "ann_id": 427048, "best_split": [1, 5], "split_score": 0.7130736597847017}
+{"sent": "man closet to us", "ann_id": 427048, "best_split": [1, 5], "split_score": 0.7130736597847017}

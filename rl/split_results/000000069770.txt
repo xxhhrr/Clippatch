@@ -1,0 +1,6 @@
+{"sent": "seated guy in black shirt", "ann_id": 504499, "best_split": [3, 1], "split_score": 0.2705719111805881}
+{"sent": "man in black sitting", "ann_id": 504499, "best_split": [3, 3], "split_score": 0.8190284877978399}
+{"sent": "black shirt under arm", "ann_id": 504499, "best_split": [3, 2], "split_score": 0.54114382232853}
+{"sent": "man", "ann_id": 433083, "best_split": [2, 1], "split_score": 0.4870552864423619}
+{"sent": "man in cap", "ann_id": 433083, "best_split": [1, 2], "split_score": 0.41007308187410746}
+{"sent": "man", "ann_id": 433083, "best_split": [2, 1], "split_score": 0.4870552864423619}

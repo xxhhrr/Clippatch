@@ -1,0 +1,10 @@
+{"sent": "man wearing hat", "ann_id": 2205017, "best_split": [2, 3], "split_score": 0.2971708620742737}
+{"sent": "man in hat", "ann_id": 2205017, "best_split": [2, 3], "split_score": 0.2971708620742737}
+{"sent": "man with hat", "ann_id": 2205017, "best_split": [2, 3], "split_score": 0.2971708620742737}
+{"sent": "truck", "ann_id": 243483, "best_split": [3, 1], "split_score": 0.6566552900743747}
+{"sent": "closet car", "ann_id": 243270, "best_split": [1, 2], "split_score": 0.3856386109362673}
+{"sent": "green car with no one leaning on it", "ann_id": 243270, "best_split": [2, 1], "split_score": 0.5322832595504985}
+{"sent": "green car closest", "ann_id": 243270, "best_split": [2, 1], "split_score": 0.5322832595504985}
+{"sent": "checkered shirt", "ann_id": 221004, "best_split": [3, 3], "split_score": 0.48807339442078385}
+{"sent": "blue checkered shirt", "ann_id": 221004, "best_split": [3, 3], "split_score": 0.48807339442078385}
+{"sent": "main blue and white shirt", "ann_id": 221004, "best_split": [3, 3], "split_score": 0.48807339442078385}

@@ -1,0 +1,6 @@
+{"sent": "red chair without a bag next to it", "ann_id": 382405, "best_split": [5, 1], "split_score": 0.18421052629847645}
+{"sent": "chair closest to yellowgreen tent", "ann_id": 382405, "best_split": [3, 3], "split_score": 0.3555408970389939}
+{"sent": "chair that the blond is sitting in", "ann_id": 382405, "best_split": [1, 5], "split_score": 0.22282608693489653}
+{"sent": "chair close to red bag", "ann_id": 381707, "best_split": [3, 3], "split_score": 0.5078716317729531}
+{"sent": "chair with all blk lady siiting", "ann_id": 381707, "best_split": [3, 3], "split_score": 0.5078716317729531}
+{"sent": "closest red chair", "ann_id": 381707, "best_split": [3, 3], "split_score": 0.5078716317729531}

@@ -1,0 +1,9 @@
+{"sent": "the woman closest to the man", "ann_id": 535024, "best_split": [1, 5], "split_score": 0.4900568181320965}
+{"sent": "hat on head dontquit", "ann_id": 535024, "best_split": [1, 2], "split_score": 0.19252232142089754}
+{"sent": "woman touching hat", "ann_id": 535024, "best_split": [1, 5], "split_score": 0.4900568181320965}
+{"sent": "manin a suit", "ann_id": 533994, "best_split": [3, 3], "split_score": 0.38354012872882987}
+{"sent": "man in hat", "ann_id": 533994, "best_split": [1, 5], "split_score": 0.2729466267471338}
+{"sent": "man about to step on sidewalk", "ann_id": 533994, "best_split": [1, 5], "split_score": 0.2729466267471338}
+{"sent": "umbrella person", "ann_id": 1722562, "best_split": [1, 5], "split_score": 0.37164487264067986}
+{"sent": "person under umbrella", "ann_id": 1722562, "best_split": [1, 5], "split_score": 0.37164487264067986}
+{"sent": "woman by herself", "ann_id": 1722562, "best_split": [5, 1], "split_score": 0.14025337146381256}

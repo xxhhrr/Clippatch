@@ -1,0 +1,5 @@
+{"sent": "center train", "ann_id": 170791, "best_split": [5, 1], "split_score": 0.5076923076574387}
+{"sent": "smaller train", "ann_id": 170791, "best_split": [5, 1], "split_score": 0.5076923076574387}
+{"sent": "longer train", "ann_id": 170305, "best_split": [1, 2], "split_score": 0.4670608290255905}
+{"sent": "big train", "ann_id": 170305, "best_split": [1, 2], "split_score": 0.4670608290255905}
+{"sent": "longer train", "ann_id": 170305, "best_split": [1, 2], "split_score": 0.4670608290255905}

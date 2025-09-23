@@ -1,0 +1,9 @@
+{"sent": "person in corner of pic", "ann_id": 1680652, "best_split": [2, 3], "split_score": 0.3057851239332468}
+{"sent": "lady in white and pink purple dress", "ann_id": 1680652, "best_split": [1, 5], "split_score": 0.30690561991751186}
+{"sent": "flower skirt or dres", "ann_id": 1680652, "best_split": [1, 5], "split_score": 0.30690561991751186}
+{"sent": "gril on her knees with blond hair", "ann_id": 1269975, "best_split": [2, 3], "split_score": 0.3365238706272296}
+{"sent": "woman getting touched by elephant trunk", "ann_id": 1269975, "best_split": [3, 1], "split_score": 0.045002117744334914}
+{"sent": "woman sitting with dress", "ann_id": 1269975, "best_split": [2, 3], "split_score": 0.3365238706272296}
+{"sent": "small boy in red", "ann_id": 1244718, "best_split": [2, 3], "split_score": 0.5194256756130037}
+{"sent": "red shirt kid", "ann_id": 1244718, "best_split": [2, 3], "split_score": 0.5194256756130037}
+{"sent": "little boy in red polo shirt beside elephant", "ann_id": 1244718, "best_split": [1, 5], "split_score": 0.43678977268295555}

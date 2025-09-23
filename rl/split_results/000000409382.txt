@@ -1,0 +1,6 @@
+{"sent": "doing stunt", "ann_id": 487037, "best_split": [2, 2], "split_score": 0.24511652460629635}
+{"sent": "kid in the air", "ann_id": 487037, "best_split": [3, 3], "split_score": 0.4158668265723055}
+{"sent": "boy doing a trickk in the air", "ann_id": 487037, "best_split": [2, 3], "split_score": 0.3321374211424073}
+{"sent": "boy siting down next to boy with skateboard on head", "ann_id": 454376, "best_split": [2, 3], "split_score": 0.1807228915468241}
+{"sent": "sitting skate punk without skate hat", "ann_id": 454376, "best_split": [2, 3], "split_score": 0.1807228915468241}
+{"sent": "person with skateboard in lap", "ann_id": 454376, "best_split": [5, 1], "split_score": 0.23076923074658856}

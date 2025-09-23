@@ -1,0 +1,5 @@
+{"sent": "laptop screen on", "ann_id": 1971388, "best_split": [2, 2], "split_score": 0.6101721938289084}
+{"sent": "closest laptop", "ann_id": 1971388, "best_split": [2, 2], "split_score": 0.6101721938289084}
+{"sent": "closer screen", "ann_id": 1971388, "best_split": [3, 2], "split_score": 0.7039333047558857}
+{"sent": "pink laptop off", "ann_id": 1971611, "best_split": [2, 2], "split_score": 0.5056093437447664}
+{"sent": "nearest laptop turned", "ann_id": 1971611, "best_split": [2, 3], "split_score": 0.3355973528095091}

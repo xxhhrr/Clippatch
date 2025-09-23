@@ -1,0 +1,4 @@
+{"sent": "brown part of chair by cats paws", "ann_id": 2121556, "best_split": [1, 2], "split_score": 0.232043165011632}
+{"sent": "white chair legs", "ann_id": 107334, "best_split": [2, 1], "split_score": 0.47435845046431924}
+{"sent": "straw chair", "ann_id": 107334, "best_split": [2, 1], "split_score": 0.47435845046431924}
+{"sent": "chair arm", "ann_id": 107334, "best_split": [2, 1], "split_score": 0.47435845046431924}

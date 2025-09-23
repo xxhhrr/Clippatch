@@ -1,0 +1,6 @@
+{"sent": "smallest train shown", "ann_id": 173310, "best_split": [3, 3], "split_score": 0.4974619288657618}
+{"sent": "second bus", "ann_id": 173310, "best_split": [3, 3], "split_score": 0.4974619288657618}
+{"sent": "train sandwiched", "ann_id": 173310, "best_split": [3, 3], "split_score": 0.4974619288657618}
+{"sent": "2 on it", "ann_id": 170010, "best_split": [3, 2], "split_score": 0.7615502517230621}
+{"sent": "longer train", "ann_id": 170010, "best_split": [3, 2], "split_score": 0.7615502517230621}
+{"sent": "length of train in the back", "ann_id": 170010, "best_split": [3, 1], "split_score": 0.39926529672831673}

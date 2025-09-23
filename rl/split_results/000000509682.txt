@@ -1,0 +1,6 @@
+{"sent": "old man", "ann_id": 2160473, "best_split": [1, 5], "split_score": 0.3835997219958652}
+{"sent": "older man black coat walking away", "ann_id": 2160473, "best_split": [2, 3], "split_score": 0.4743326488219371}
+{"sent": "old guy in black", "ann_id": 2160473, "best_split": [1, 5], "split_score": 0.3835997219958652}
+{"sent": "person with red jacket and backpack", "ann_id": 2154349, "best_split": [2, 3], "split_score": 0.52421746287488}
+{"sent": "man with cane", "ann_id": 2154349, "best_split": [2, 3], "split_score": 0.52421746287488}
+{"sent": "the person with the cane", "ann_id": 2154349, "best_split": [2, 3], "split_score": 0.52421746287488}

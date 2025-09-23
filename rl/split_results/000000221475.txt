@@ -1,0 +1,6 @@
+{"sent": "next bus", "ann_id": 168891, "best_split": [3, 2], "split_score": 0.29387379084593807}
+{"sent": "not gunther but the next one", "ann_id": 168891, "best_split": [5, 1], "split_score": 0.1781376518054713}
+{"sent": "bud next to tree", "ann_id": 168891, "best_split": [2, 3], "split_score": 0.22556719020227234}
+{"sent": "gunther", "ann_id": 165555, "best_split": [1, 2], "split_score": 0.592480854009269}
+{"sent": "biggest bus", "ann_id": 165555, "best_split": [1, 2], "split_score": 0.592480854009269}
+{"sent": "gunther", "ann_id": 165555, "best_split": [1, 2], "split_score": 0.592480854009269}

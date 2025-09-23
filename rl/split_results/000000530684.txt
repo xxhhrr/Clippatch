@@ -1,0 +1,9 @@
+{"sent": "yellow bowl", "ann_id": 2183966, "best_split": [1, 2], "split_score": 0.43271683671744593}
+{"sent": "coffee", "ann_id": 2183966, "best_split": [2, 2], "split_score": 0.7868051312777332}
+{"sent": "green cup", "ann_id": 2183966, "best_split": [2, 2], "split_score": 0.7868051312777332}
+{"sent": "a bowl with toast in it", "ann_id": 1039124, "best_split": [1, 2], "split_score": 0.25518176019391015}
+{"sent": "multiple toast", "ann_id": 1039124, "best_split": [3, 2], "split_score": 0.7724420848488849}
+{"sent": "toast blurry background", "ann_id": 1039124, "best_split": [1, 2], "split_score": 0.25518176019391015}
+{"sent": "drink", "ann_id": 674134, "best_split": [2, 3], "split_score": 0.5912162161448822}
+{"sent": "cup", "ann_id": 674134, "best_split": [1, 5], "split_score": 0.34684191307531564}
+{"sent": "smoothie", "ann_id": 674134, "best_split": [2, 3], "split_score": 0.5912162161448822}

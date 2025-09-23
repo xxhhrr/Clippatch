@@ -1,0 +1,11 @@
+{"sent": "pizza slice 300", "ann_id": 2117419, "best_split": [2, 2], "split_score": 0.47375908943457484}
+{"sent": "pizza near knife", "ann_id": 1570456, "best_split": [2, 3], "split_score": 0.39637015456011987}
+{"sent": "furthest slice", "ann_id": 1570456, "best_split": [3, 3], "split_score": 0.5477870428884241}
+{"sent": "slice near bottle", "ann_id": 1570456, "best_split": [3, 3], "split_score": 0.5477870428884241}
+{"sent": "slice no olives closest", "ann_id": 1077989, "best_split": [5, 1], "split_score": 0.2704779756072654}
+{"sent": "pizza slice closest to us with no black olives", "ann_id": 1077989, "best_split": [5, 1], "split_score": 0.2704779756072654}
+{"sent": "blurry pizza closest to camera", "ann_id": 1076596, "best_split": [1, 2], "split_score": 0.30221735558631974}
+{"sent": "pizza portion near camera", "ann_id": 1076596, "best_split": [1, 2], "split_score": 0.30221735558631974}
+{"sent": "slice of pizza thats been removed", "ann_id": 1076596, "best_split": [1, 2], "split_score": 0.30221735558631974}
+{"sent": "slice at 2 o clock", "ann_id": 2117607, "best_split": [2, 2], "split_score": 0.3262117346678721}
+{"sent": "main pizza click at 1 or 2 on a clock", "ann_id": 2117607, "best_split": [2, 2], "split_score": 0.3262117346678721}

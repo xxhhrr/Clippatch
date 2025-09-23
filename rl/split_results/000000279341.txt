@@ -1,0 +1,6 @@
+{"sent": "partially seen black dog", "ann_id": 1402899, "best_split": [3, 3], "split_score": 0.6895218001600699}
+{"sent": "black dog", "ann_id": 1402899, "best_split": [3, 3], "split_score": 0.6895218001600699}
+{"sent": "black dog", "ann_id": 1402899, "best_split": [3, 3], "split_score": 0.6895218001600699}
+{"sent": "dog facing camera", "ann_id": 14246, "best_split": [1, 2], "split_score": 0.37955687233094304}
+{"sent": "dog sleeping", "ann_id": 14246, "best_split": [1, 2], "split_score": 0.37955687233094304}
+{"sent": "furry animal", "ann_id": 14246, "best_split": [1, 3], "split_score": 0.4411789402787312}

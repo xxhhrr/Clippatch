@@ -1,0 +1,10 @@
+{"sent": "sheep by looking away", "ann_id": 64979, "best_split": [3, 1], "split_score": 0.32561044859025495}
+{"sent": "sittting lamb back turned", "ann_id": 64979, "best_split": [1, 2], "split_score": 0.26977040815251235}
+{"sent": "laying facing away from camera", "ann_id": 64979, "best_split": [1, 2], "split_score": 0.26977040815251235}
+{"sent": "standing lamb", "ann_id": 62455, "best_split": [2, 1], "split_score": 0.4287756074150875}
+{"sent": "sheep eating", "ann_id": 62455, "best_split": [2, 2], "split_score": 0.6312273865411058}
+{"sent": "small lamb looking", "ann_id": 62066, "best_split": [3, 3], "split_score": 0.36571428567248976}
+{"sent": "sheep looking at camera but not close", "ann_id": 62066, "best_split": [3, 3], "split_score": 0.36571428567248976}
+{"sent": "main sheep", "ann_id": 61609, "best_split": [1, 3], "split_score": 0.33484162894574815}
+{"sent": "bigger sheep looking at camera", "ann_id": 61609, "best_split": [1, 3], "split_score": 0.33484162894574815}
+{"sent": "sheep closest", "ann_id": 61609, "best_split": [1, 3], "split_score": 0.33484162894574815}

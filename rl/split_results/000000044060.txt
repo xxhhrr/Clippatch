@@ -1,0 +1,14 @@
+{"sent": "pink next to gold dress", "ann_id": 2155958, "best_split": [1, 5], "split_score": 0.3165584415263232}
+{"sent": "pink dress next to yellow", "ann_id": 2155958, "best_split": [1, 5], "split_score": 0.3165584415263232}
+{"sent": "yellow dress", "ann_id": 1723812, "best_split": [3, 3], "split_score": 0.3219804950754718}
+{"sent": "yellow dress", "ann_id": 1723812, "best_split": [3, 3], "split_score": 0.3219804950754718}
+{"sent": "yellow", "ann_id": 1723812, "best_split": [3, 3], "split_score": 0.3219804950754718}
+{"sent": "pink crown pincess", "ann_id": 523966, "best_split": [2, 3], "split_score": 0.4424916573478875}
+{"sent": "girl closet to score side", "ann_id": 523966, "best_split": [2, 3], "split_score": 0.4424916573478875}
+{"sent": "blond girl in pink dress alone", "ann_id": 523966, "best_split": [2, 3], "split_score": 0.4424916573478875}
+{"sent": "a boy watching an elephant", "ann_id": 522848, "best_split": [1, 3], "split_score": 0.2057191119567013}
+{"sent": "red hoodie", "ann_id": 522848, "best_split": [2, 3], "split_score": 0.3855264715876434}
+{"sent": "kid in black jacket with red hood", "ann_id": 522848, "best_split": [2, 3], "split_score": 0.3855264715876434}
+{"sent": "shorter girl in white", "ann_id": 481327, "best_split": [2, 2], "split_score": 0.17745382383014396}
+{"sent": "pink cape brown hair", "ann_id": 481327, "best_split": [2, 2], "split_score": 0.17745382383014396}
+{"sent": "pink cape", "ann_id": 481327, "best_split": [2, 2], "split_score": 0.17745382383014396}

@@ -1,0 +1,6 @@
+{"sent": "shorter animal", "ann_id": 74233, "best_split": [3, 2], "split_score": 0.2885747938468223}
+{"sent": "cow with big whit mark on head", "ann_id": 74233, "best_split": [3, 2], "split_score": 0.2885747938468223}
+{"sent": "the bull with white face", "ann_id": 74233, "best_split": [3, 2], "split_score": 0.2885747938468223}
+{"sent": "taller animal", "ann_id": 72074, "best_split": [1, 5], "split_score": 0.29713114751330744}
+{"sent": "cow closest to fence", "ann_id": 72074, "best_split": [3, 3], "split_score": 0.4021739129844045}
+{"sent": "biggest cow", "ann_id": 72074, "best_split": [3, 3], "split_score": 0.4021739129844045}

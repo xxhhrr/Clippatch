@@ -1,0 +1,5 @@
+{"sent": "black director chair", "ann_id": 109886, "best_split": [2, 3], "split_score": 0.5734797296605357}
+{"sent": "blue chair against dresser", "ann_id": 109886, "best_split": [2, 3], "split_score": 0.5734797296605357}
+{"sent": "dark thing on wall", "ann_id": 105370, "best_split": [2, 3], "split_score": 0.7005405404648064}
+{"sent": "brown chair back abovew white bag", "ann_id": 105370, "best_split": [2, 1], "split_score": 0.2539511217233077}
+{"sent": "bown wood chair back", "ann_id": 105370, "best_split": [2, 1], "split_score": 0.2539511217233077}

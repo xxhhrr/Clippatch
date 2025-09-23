@@ -1,0 +1,6 @@
+{"sent": "green shirt", "ann_id": 1715783, "best_split": [2, 2], "split_score": 0.6708074533736337}
+{"sent": "the girl in the green shirt", "ann_id": 1715783, "best_split": [2, 2], "split_score": 0.6708074533736337}
+{"sent": "woman in green", "ann_id": 1715783, "best_split": [1, 2], "split_score": 0.550781249978046}
+{"sent": "the man in yello", "ann_id": 184388, "best_split": [2, 2], "split_score": 0.5024166263592064}
+{"sent": "woman with cross", "ann_id": 184388, "best_split": [3, 1], "split_score": 0.253578554686667}
+{"sent": "yellow shirt", "ann_id": 184388, "best_split": [2, 2], "split_score": 0.5024166263592064}

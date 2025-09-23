@@ -1,0 +1,12 @@
+{"sent": "person on horse", "ann_id": 217107, "best_split": [2, 2], "split_score": 0.2262436224309436}
+{"sent": "man on horse", "ann_id": 217107, "best_split": [2, 2], "split_score": 0.2262436224309436}
+{"sent": "man on horse", "ann_id": 217107, "best_split": [2, 2], "split_score": 0.2262436224309436}
+{"sent": "woman", "ann_id": 209022, "best_split": [1, 5], "split_score": 0.4386406544651793}
+{"sent": "woman standing alone", "ann_id": 209022, "best_split": [1, 5], "split_score": 0.4386406544651793}
+{"sent": "woman in polkadots", "ann_id": 209022, "best_split": [1, 5], "split_score": 0.4386406544651793}
+{"sent": "woman in jeans", "ann_id": 206294, "best_split": [1, 5], "split_score": 0.2801539777348029}
+{"sent": "woman yellow shirt", "ann_id": 206294, "best_split": [1, 5], "split_score": 0.2801539777348029}
+{"sent": "older lady in black next to chick in white pants", "ann_id": 206294, "best_split": [3, 1], "split_score": 0.153518804183546}
+{"sent": "woman with white pants", "ann_id": 185733, "best_split": [2, 1], "split_score": 0.14165792234516347}
+{"sent": "white riding pants", "ann_id": 185733, "best_split": [2, 3], "split_score": 0.382436260584537}
+{"sent": "white pants woman", "ann_id": 185733, "best_split": [2, 1], "split_score": 0.14165792234516347}

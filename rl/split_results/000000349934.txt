@@ -1,0 +1,9 @@
+{"sent": "man in blue s hirt", "ann_id": 2205485, "best_split": [2, 2], "split_score": 0.17813051145262468}
+{"sent": "man in blue", "ann_id": 2205485, "best_split": [2, 2], "split_score": 0.17813051145262468}
+{"sent": "not n green", "ann_id": 2205485, "best_split": [1, 5], "split_score": 0.4591836734275525}
+{"sent": "woman green and blue shorts", "ann_id": 498352, "best_split": [1, 5], "split_score": 0.5853161114319397}
+{"sent": "blue shorts", "ann_id": 498352, "best_split": [1, 5], "split_score": 0.5853161114319397}
+{"sent": "blue shorts running", "ann_id": 498352, "best_split": [1, 5], "split_score": 0.5853161114319397}
+{"sent": "girl white red hat", "ann_id": 490320, "best_split": [1, 5], "split_score": 0.39154150194533266}
+{"sent": "the one with frisbee", "ann_id": 490320, "best_split": [2, 3], "split_score": 0.5011233850869572}
+{"sent": "player about to throw the frisbee", "ann_id": 490320, "best_split": [2, 3], "split_score": 0.5011233850869572}

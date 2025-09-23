@@ -1,0 +1,7 @@
+{"sent": "the cup by the laptop", "ann_id": 2215413, "best_split": [2, 3], "split_score": 0.27264556074376856}
+{"sent": "beer on the green thing on table", "ann_id": 2215413, "best_split": [3, 2], "split_score": 0.2631839809413973}
+{"sent": "a guiness pint glass is half full of dark beer", "ann_id": 2214213, "best_split": [1, 5], "split_score": 0.5292909534934679}
+{"sent": "cup neares edge", "ann_id": 2214213, "best_split": [3, 2], "split_score": 0.3283920309386845}
+{"sent": "glass that is the most full", "ann_id": 684447, "best_split": [2, 3], "split_score": 0.36140205326543584}
+{"sent": "fullest cup", "ann_id": 684447, "best_split": [5, 1], "split_score": 0.15172413791914388}
+{"sent": "glass that says guinn", "ann_id": 684447, "best_split": [2, 3], "split_score": 0.36140205326543584}

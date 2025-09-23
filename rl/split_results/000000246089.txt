@@ -1,0 +1,6 @@
+{"sent": "burners", "ann_id": 1127232, "best_split": [5, 1], "split_score": 0.3030303030042157}
+{"sent": "stove", "ann_id": 1127232, "best_split": [2, 3], "split_score": 0.32138683284754704}
+{"sent": "clever spellingfull stove", "ann_id": 1127232, "best_split": [5, 1], "split_score": 0.3030303030042157}
+{"sent": "oven door", "ann_id": 1124527, "best_split": [3, 2], "split_score": 0.47999999994285714}
+{"sent": "door of the oven", "ann_id": 1124527, "best_split": [3, 2], "split_score": 0.47999999994285714}
+{"sent": "oven door", "ann_id": 1124527, "best_split": [3, 2], "split_score": 0.47999999994285714}

@@ -1,0 +1,8 @@
+{"sent": "lady hands", "ann_id": 1714654, "best_split": [1, 2], "split_score": 0.8334661989463701}
+{"sent": "green sleeve", "ann_id": 1714654, "best_split": [1, 3], "split_score": 0.6797813227872477}
+{"sent": "glasses guy", "ann_id": 568520, "best_split": [3, 3], "split_score": 0.6063698205617857}
+{"sent": "guy glasses", "ann_id": 568520, "best_split": [3, 3], "split_score": 0.6063698205617857}
+{"sent": "man with red glasses", "ann_id": 568520, "best_split": [3, 3], "split_score": 0.6063698205617857}
+{"sent": "red", "ann_id": 514530, "best_split": [3, 3], "split_score": 0.5275665398612682}
+{"sent": "red shirt", "ann_id": 514530, "best_split": [3, 3], "split_score": 0.5275665398612682}
+{"sent": "mustache", "ann_id": 514530, "best_split": [1, 3], "split_score": 0.4452220076951483}

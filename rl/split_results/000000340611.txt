@@ -1,0 +1,8 @@
+{"sent": "open book", "ann_id": 1137845, "best_split": [5, 1], "split_score": 0.2231577041260947}
+{"sent": "open book near laptop", "ann_id": 1137845, "best_split": [5, 1], "split_score": 0.2231577041260947}
+{"sent": "laptop with black keyboard", "ann_id": 1103588, "best_split": [2, 2], "split_score": 0.4037076757772554}
+{"sent": "laptop closest to us", "ann_id": 1103588, "best_split": [2, 2], "split_score": 0.4037076757772554}
+{"sent": "keyboard", "ann_id": 1103588, "best_split": [2, 2], "split_score": 0.4037076757772554}
+{"sent": "laptop by bowl", "ann_id": 1101035, "best_split": [2, 1], "split_score": 0.16222895407516624}
+{"sent": "laptop open", "ann_id": 1101035, "best_split": [2, 1], "split_score": 0.16222895407516624}
+{"sent": "laptop 12 o clcok", "ann_id": 1101035, "best_split": [2, 1], "split_score": 0.16222895407516624}

@@ -1,0 +1,6 @@
+{"sent": "couch nearest picture frame on side table", "ann_id": 99870, "best_split": [1, 2], "split_score": 0.3336256377418038}
+{"sent": "loveseat with side facing us", "ann_id": 99870, "best_split": [1, 2], "split_score": 0.3336256377418038}
+{"sent": "love seat", "ann_id": 99870, "best_split": [2, 2], "split_score": 0.34807270849889954}
+{"sent": "sofa facing camera", "ann_id": 98675, "best_split": [3, 2], "split_score": 0.616917329186999}
+{"sent": "green couch by score", "ann_id": 98675, "best_split": [3, 2], "split_score": 0.616917329186999}
+{"sent": "sofa facing us", "ann_id": 98675, "best_split": [3, 2], "split_score": 0.616917329186999}

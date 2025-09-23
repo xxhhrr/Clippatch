@@ -1,0 +1,13 @@
+{"sent": "number two couch", "ann_id": 290007, "best_split": [2, 2], "split_score": 0.4253826530273132}
+{"sent": "chair without a person", "ann_id": 290007, "best_split": [2, 2], "split_score": 0.4253826530273132}
+{"sent": "chair without girl", "ann_id": 290007, "best_split": [2, 2], "split_score": 0.4253826530273132}
+{"sent": "chair with back to us", "ann_id": 2223869, "best_split": [3, 3], "split_score": 0.35943728014543525}
+{"sent": "chair with girl in", "ann_id": 2223869, "best_split": [3, 2], "split_score": 0.4798685291208023}
+{"sent": "couch by door", "ann_id": 2223869, "best_split": [3, 2], "split_score": 0.4798685291208023}
+{"sent": "chair with someone in it", "ann_id": 1945990, "best_split": [3, 2], "split_score": 0.49774040982682705}
+{"sent": "chair close to u", "ann_id": 1945990, "best_split": [3, 2], "split_score": 0.49774040982682705}
+{"sent": "chair facing away", "ann_id": 1945990, "best_split": [3, 3], "split_score": 0.36097560971314985}
+{"sent": "couch without girl", "ann_id": 114354, "best_split": [2, 2], "split_score": 0.44212372445455006}
+{"sent": "couch near wall", "ann_id": 114354, "best_split": [2, 2], "split_score": 0.44212372445455006}
+{"sent": "chair or sofa with dewalt case behind it", "ann_id": 114354, "best_split": [2, 2], "split_score": 0.44212372445455006}
+{"sent": "couch with no one onit", "ann_id": 114354, "best_split": [2, 2], "split_score": 0.44212372445455006}

@@ -1,0 +1,6 @@
+{"sent": "standing", "ann_id": 544506, "best_split": [1, 5], "split_score": 0.7299270072387254}
+{"sent": "man standing white shirt brown pants", "ann_id": 544506, "best_split": [1, 5], "split_score": 0.7299270072387254}
+{"sent": "man standing", "ann_id": 544506, "best_split": [1, 5], "split_score": 0.7299270072387254}
+{"sent": "man with tan shirt", "ann_id": 439199, "best_split": [2, 1], "split_score": 0.3867768594908135}
+{"sent": "closest man", "ann_id": 439199, "best_split": [3, 1], "split_score": 0.3198138297739439}
+{"sent": "man in olive shirt", "ann_id": 439199, "best_split": [2, 1], "split_score": 0.3867768594908135}

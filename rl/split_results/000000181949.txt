@@ -1,0 +1,6 @@
+{"sent": "kid with cat", "ann_id": 211549, "best_split": [2, 2], "split_score": 0.4975341693322859}
+{"sent": "boy", "ann_id": 211549, "best_split": [2, 2], "split_score": 0.4975341693322859}
+{"sent": "head on pillow", "ann_id": 211549, "best_split": [2, 2], "split_score": 0.4975341693322859}
+{"sent": "girl in white shirt", "ann_id": 202590, "best_split": [1, 5], "split_score": 0.538048134548014}
+{"sent": "girl wearing shorts", "ann_id": 202590, "best_split": [1, 5], "split_score": 0.538048134548014}
+{"sent": "girl", "ann_id": 202590, "best_split": [1, 5], "split_score": 0.538048134548014}

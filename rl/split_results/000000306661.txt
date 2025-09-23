@@ -1,0 +1,7 @@
+{"sent": "woman holding remote", "ann_id": 1733566, "best_split": [3, 3], "split_score": 0.5057833858430884}
+{"sent": "smaller person", "ann_id": 1733566, "best_split": [3, 1], "split_score": 0.205687406446136}
+{"sent": "couch person", "ann_id": 1733566, "best_split": [3, 2], "split_score": 0.2454608938333222}
+{"sent": "man", "ann_id": 190105, "best_split": [1, 2], "split_score": 0.5903113517552139}
+{"sent": "neckbeard", "ann_id": 190105, "best_split": [1, 2], "split_score": 0.5903113517552139}
+{"sent": "man with glasses", "ann_id": 190105, "best_split": [1, 2], "split_score": 0.5903113517552139}
+{"sent": "the person wearing glasses", "ann_id": 190105, "best_split": [1, 2], "split_score": 0.5903113517552139}

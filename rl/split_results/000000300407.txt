@@ -1,0 +1,6 @@
+{"sent": "black chair not by window", "ann_id": 2224121, "best_split": [1, 3], "split_score": 0.2683103698193147}
+{"sent": "chair under us", "ann_id": 2224121, "best_split": [2, 3], "split_score": 0.47013977124068435}
+{"sent": "black chair closest to us", "ann_id": 2224121, "best_split": [3, 3], "split_score": 0.5087917041807043}
+{"sent": "sofa", "ann_id": 97839, "best_split": [3, 2], "split_score": 0.6568047336584103}
+{"sent": "white couch", "ann_id": 97839, "best_split": [3, 2], "split_score": 0.6568047336584103}
+{"sent": "white couch", "ann_id": 97839, "best_split": [3, 2], "split_score": 0.6568047336584103}

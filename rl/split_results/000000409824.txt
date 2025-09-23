@@ -1,0 +1,6 @@
+{"sent": "taller one", "ann_id": 601322, "best_split": [1, 2], "split_score": 0.4155574043137759}
+{"sent": "taller giraffe", "ann_id": 601322, "best_split": [1, 2], "split_score": 0.4155574043137759}
+{"sent": "head in our face we do not see body", "ann_id": 601322, "best_split": [2, 1], "split_score": 0.5550478179797288}
+{"sent": "zebra looking at you", "ann_id": 599682, "best_split": [2, 1], "split_score": 0.6423504120156808}
+{"sent": "looking at camera giraffe", "ann_id": 599682, "best_split": [2, 1], "split_score": 0.6423504120156808}
+{"sent": "short giraffe", "ann_id": 599682, "best_split": [2, 1], "split_score": 0.6423504120156808}

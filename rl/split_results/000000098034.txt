@@ -1,0 +1,6 @@
+{"sent": "cat legs", "ann_id": 49089, "best_split": [1, 5], "split_score": 0.33961099102040665}
+{"sent": "legs", "ann_id": 49089, "best_split": [2, 3], "split_score": 0.6296449214874438}
+{"sent": "cats legs only", "ann_id": 49089, "best_split": [1, 5], "split_score": 0.33961099102040665}
+{"sent": "cat", "ann_id": 46323, "best_split": [2, 3], "split_score": 0.5172921265160695}
+{"sent": "cat face", "ann_id": 46323, "best_split": [2, 3], "split_score": 0.5172921265160695}
+{"sent": "cat looking at us", "ann_id": 46323, "best_split": [2, 3], "split_score": 0.5172921265160695}

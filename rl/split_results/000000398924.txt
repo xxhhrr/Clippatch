@@ -1,0 +1,6 @@
+{"sent": "red sandwich", "ann_id": 1553028, "best_split": [2, 3], "split_score": 0.42998256824302855}
+{"sent": "half cut sandwhich", "ann_id": 1553028, "best_split": [2, 3], "split_score": 0.42998256824302855}
+{"sent": "red meat sandwich", "ann_id": 1553028, "best_split": [2, 3], "split_score": 0.42998256824302855}
+{"sent": "sanwich closest to screen", "ann_id": 1908801, "best_split": [2, 2], "split_score": 0.6818489289356342}
+{"sent": "full sandwich", "ann_id": 1908801, "best_split": [2, 2], "split_score": 0.6818489289356342}
+{"sent": "sandwich without meat showing", "ann_id": 1908801, "best_split": [2, 2], "split_score": 0.6818489289356342}

@@ -1,0 +1,9 @@
+{"sent": "blue coat", "ann_id": 525009, "best_split": [1, 5], "split_score": 0.6772241992280049}
+{"sent": "blue jacket", "ann_id": 525009, "best_split": [1, 5], "split_score": 0.6772241992280049}
+{"sent": "blue jacket man", "ann_id": 525009, "best_split": [1, 5], "split_score": 0.6772241992280049}
+{"sent": "woman in white hat holding childs arm", "ann_id": 492842, "best_split": [1, 2], "split_score": 0.35857780610815615}
+{"sent": "woman on skis", "ann_id": 492842, "best_split": [1, 2], "split_score": 0.35857780610815615}
+{"sent": "red coat", "ann_id": 492842, "best_split": [1, 2], "split_score": 0.35857780610815615}
+{"sent": "child", "ann_id": 437779, "best_split": [3, 3], "split_score": 0.30119794633468366}
+{"sent": "child", "ann_id": 437779, "best_split": [3, 3], "split_score": 0.30119794633468366}
+{"sent": "kid", "ann_id": 437779, "best_split": [3, 3], "split_score": 0.30119794633468366}

@@ -1,0 +1,9 @@
+{"sent": "boy pointing", "ann_id": 1753739, "best_split": [3, 1], "split_score": 0.27299373356210865}
+{"sent": "baby pointing to cake", "ann_id": 1753739, "best_split": [1, 2], "split_score": 0.1488273793240787}
+{"sent": "blue shirt pointing", "ann_id": 1753739, "best_split": [3, 3], "split_score": 0.6080803468833508}
+{"sent": "kid smiling with teeth showing on end", "ann_id": 467149, "best_split": [3, 3], "split_score": 0.4569932684432321}
+{"sent": "lowest boy", "ann_id": 467149, "best_split": [3, 1], "split_score": 0.19358533790414745}
+{"sent": "little boy looking at girl", "ann_id": 467149, "best_split": [3, 3], "split_score": 0.4569932684432321}
+{"sent": "a boy in a white shirt", "ann_id": 428968, "best_split": [1, 2], "split_score": 0.573979591813856}
+{"sent": "boy white shirt mouth closed", "ann_id": 428968, "best_split": [1, 2], "split_score": 0.573979591813856}
+{"sent": "white shirt", "ann_id": 428968, "best_split": [1, 2], "split_score": 0.573979591813856}

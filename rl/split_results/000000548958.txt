@@ -1,0 +1,8 @@
+{"sent": "1000", "ann_id": 1054057, "best_split": [1, 2], "split_score": 0.21256358625973495}
+{"sent": "orange slices behind others", "ann_id": 1054057, "best_split": [2, 1], "split_score": 0.8110482370776365}
+{"sent": "slice above", "ann_id": 1054057, "best_split": [1, 2], "split_score": 0.21256358625973495}
+{"sent": "orange slice with what looks like light on it", "ann_id": 1053816, "best_split": [3, 1], "split_score": 0.07163323781868434}
+{"sent": "orange slice that is darker than others", "ann_id": 1053453, "best_split": [3, 2], "split_score": 0.4473485800077617}
+{"sent": "orange slice on rim", "ann_id": 1053076, "best_split": [2, 1], "split_score": 0.382332592929311}
+{"sent": "peach closest to us", "ann_id": 1053076, "best_split": [5, 1], "split_score": 0.319192153657989}
+{"sent": "closest slice", "ann_id": 1053076, "best_split": [2, 2], "split_score": 0.5391462306667184}

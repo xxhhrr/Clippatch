@@ -1,0 +1,6 @@
+{"sent": "giraffe whose head is closest to the man", "ann_id": 597685, "best_split": [2, 2], "split_score": 0.6133423180179688}
+{"sent": "giraffe close to us but not looking at us", "ann_id": 597685, "best_split": [2, 2], "split_score": 0.6133423180179688}
+{"sent": "lighter tall giraffe", "ann_id": 597685, "best_split": [3, 2], "split_score": 0.44558672342153127}
+{"sent": "giraffe looking at camera", "ann_id": 597230, "best_split": [2, 3], "split_score": 0.4121491162622791}
+{"sent": "giraffe looking at us", "ann_id": 597230, "best_split": [2, 3], "split_score": 0.4121491162622791}
+{"sent": "griafee closes to you", "ann_id": 597230, "best_split": [2, 3], "split_score": 0.4121491162622791}

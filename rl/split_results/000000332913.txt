@@ -1,0 +1,7 @@
+{"sent": "guy", "ann_id": 2154455, "best_split": [2, 2], "split_score": 0.4103758534611463}
+{"sent": "man", "ann_id": 2154455, "best_split": [1, 2], "split_score": 0.38097895406644694}
+{"sent": "is the man wearing a shirt", "ann_id": 2154455, "best_split": [1, 5], "split_score": 0.5801725540794259}
+{"sent": "man in a blue shirt", "ann_id": 2154455, "best_split": [1, 5], "split_score": 0.5801725540794259}
+{"sent": "the woman", "ann_id": 447210, "best_split": [3, 2], "split_score": 0.3589135589179873}
+{"sent": "woman", "ann_id": 447210, "best_split": [3, 2], "split_score": 0.3589135589179873}
+{"sent": "woman", "ann_id": 447210, "best_split": [3, 2], "split_score": 0.3589135589179873}

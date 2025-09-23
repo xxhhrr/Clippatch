@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 207708, "best_split": [3, 3], "split_score": 0.2424639580338069}
+{"sent": "guy", "ann_id": 207708, "best_split": [1, 5], "split_score": 0.3874603733367858}
+{"sent": "maneating", "ann_id": 207708, "best_split": [2, 2], "split_score": 0.1681550446406894}
+{"sent": "woman", "ann_id": 207219, "best_split": [3, 2], "split_score": 0.4216969184865242}
+{"sent": "greeen", "ann_id": 207219, "best_split": [3, 2], "split_score": 0.4216969184865242}
+{"sent": "woman in green blazer", "ann_id": 207219, "best_split": [3, 2], "split_score": 0.4216969184865242}

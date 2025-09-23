@@ -1,0 +1,6 @@
+{"sent": "meat", "ann_id": 1909688, "best_split": [2, 3], "split_score": 0.5016722407573287}
+{"sent": "chicken", "ann_id": 1909688, "best_split": [2, 3], "split_score": 0.5016722407573287}
+{"sent": "meat", "ann_id": 1909688, "best_split": [2, 3], "split_score": 0.5016722407573287}
+{"sent": "tomato and lettuce", "ann_id": 1552732, "best_split": [3, 2], "split_score": 0.5234413554430464}
+{"sent": "tomatos lettuce", "ann_id": 1552732, "best_split": [3, 2], "split_score": 0.5234413554430464}
+{"sent": "veggis on the bun", "ann_id": 1552732, "best_split": [3, 2], "split_score": 0.5234413554430464}

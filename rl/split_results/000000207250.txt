@@ -1,0 +1,7 @@
+{"sent": "bear far right", "ann_id": 1163171, "best_split": [3, 2], "split_score": 0.4666539269571322}
+{"sent": "bear with tag", "ann_id": 1163171, "best_split": [2, 2], "split_score": 0.23744004037885383}
+{"sent": "teddy with tag", "ann_id": 1163171, "best_split": [3, 1], "split_score": 0.2604244427716527}
+{"sent": "teddy bear with hand down next to book", "ann_id": 1162739, "best_split": [3, 3], "split_score": 0.3939429787774822}
+{"sent": "bear between bears", "ann_id": 1162739, "best_split": [3, 3], "split_score": 0.3939429787774822}
+{"sent": "centerbear", "ann_id": 1162739, "best_split": [3, 3], "split_score": 0.3939429787774822}
+{"sent": "bear number 1 in order", "ann_id": 1160565, "best_split": [3, 2], "split_score": 0.48079265812711824}

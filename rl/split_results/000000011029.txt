@@ -1,0 +1,6 @@
+{"sent": "lady with glasses", "ann_id": 478101, "best_split": [1, 3], "split_score": 0.7585037733370609}
+{"sent": "she has blond hair", "ann_id": 478101, "best_split": [1, 2], "split_score": 0.6210140305874915}
+{"sent": "lady blond", "ann_id": 478101, "best_split": [1, 2], "split_score": 0.6210140305874915}
+{"sent": "woman in dark blue shirt", "ann_id": 458374, "best_split": [2, 1], "split_score": 0.2587624544462399}
+{"sent": "woman in blue", "ann_id": 458374, "best_split": [2, 1], "split_score": 0.2587624544462399}
+{"sent": "woman with coat on black hair", "ann_id": 458374, "best_split": [2, 3], "split_score": 0.35013053242971703}

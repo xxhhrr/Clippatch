@@ -1,0 +1,9 @@
+{"sent": "polkadot shirt and white hat", "ann_id": 1728917, "best_split": [2, 2], "split_score": 0.7361608371842356}
+{"sent": "woman in white hat", "ann_id": 1728917, "best_split": [2, 2], "split_score": 0.7361608371842356}
+{"sent": "older woman white hat", "ann_id": 1728917, "best_split": [2, 2], "split_score": 0.7361608371842356}
+{"sent": "woman wearing glasses", "ann_id": 2156806, "best_split": [2, 3], "split_score": 0.3376901408070208}
+{"sent": "darker watcher", "ann_id": 2156806, "best_split": [2, 2], "split_score": 0.23870967740102075}
+{"sent": "black shirt next to woman with umbrella", "ann_id": 2156806, "best_split": [3, 2], "split_score": 0.1428571428433907}
+{"sent": "orange shirt", "ann_id": 493499, "best_split": [2, 2], "split_score": 0.6735470648021119}
+{"sent": "person holding umbrella", "ann_id": 493499, "best_split": [1, 2], "split_score": 0.41135204079993015}
+{"sent": "orange shirt", "ann_id": 493499, "best_split": [2, 2], "split_score": 0.6735470648021119}

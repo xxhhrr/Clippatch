@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 505386, "best_split": [2, 1], "split_score": 0.32572554168547013}
+{"sent": "man", "ann_id": 505386, "best_split": [1, 2], "split_score": 0.9127320954561299}
+{"sent": "man", "ann_id": 505386, "best_split": [1, 2], "split_score": 0.9127320954561299}
+{"sent": "woman holding laptop", "ann_id": 456459, "best_split": [1, 2], "split_score": 0.6296032311499303}
+{"sent": "not man", "ann_id": 456459, "best_split": [1, 3], "split_score": 0.43114379912209183}
+{"sent": "woman", "ann_id": 456459, "best_split": [1, 2], "split_score": 0.6296032311499303}

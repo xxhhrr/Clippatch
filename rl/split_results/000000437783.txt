@@ -1,0 +1,9 @@
+{"sent": "man in white shirt with black tshirt under", "ann_id": 1238876, "best_split": [3, 3], "split_score": 0.4850434989292047}
+{"sent": "man in white", "ann_id": 1238876, "best_split": [3, 3], "split_score": 0.4850434989292047}
+{"sent": "most teeth", "ann_id": 1238876, "best_split": [1, 5], "split_score": 0.49657869008294864}
+{"sent": "black teeshirt", "ann_id": 489309, "best_split": [1, 3], "split_score": 0.760813046516142}
+{"sent": "arm up", "ann_id": 489309, "best_split": [1, 3], "split_score": 0.760813046516142}
+{"sent": "black shirt", "ann_id": 489309, "best_split": [1, 3], "split_score": 0.760813046516142}
+{"sent": "phone guy", "ann_id": 458178, "best_split": [2, 2], "split_score": 0.5466624485633944}
+{"sent": "the man in the hoodie", "ann_id": 458178, "best_split": [2, 2], "split_score": 0.5466624485633944}
+{"sent": "guy with the letter on his shirt", "ann_id": 458178, "best_split": [2, 2], "split_score": 0.5466624485633944}

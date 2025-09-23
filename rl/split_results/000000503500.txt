@@ -1,0 +1,9 @@
+{"sent": "largest man", "ann_id": 549114, "best_split": [2, 3], "split_score": 0.3690970545273687}
+{"sent": "smaller group holding bucket", "ann_id": 549114, "best_split": [1, 3], "split_score": 0.35527268337625045}
+{"sent": "tall man holding bucket", "ann_id": 549114, "best_split": [2, 3], "split_score": 0.3690970545273687}
+{"sent": "man without a bucket next to sign", "ann_id": 541997, "best_split": [2, 2], "split_score": 0.2171209601462569}
+{"sent": "closest man to buy on white bike", "ann_id": 541997, "best_split": [3, 1], "split_score": 0.13254450715737384}
+{"sent": "man next to girl in white the older guy", "ann_id": 541997, "best_split": [1, 5], "split_score": 0.29827459615471047}
+{"sent": "man 12 o clock younger next to female", "ann_id": 502306, "best_split": [2, 3], "split_score": 0.25892857140104925}
+{"sent": "skinny guy holding buckrt", "ann_id": 502306, "best_split": [1, 3], "split_score": 0.214527027014085}
+{"sent": "man holding red bucket closest to bike", "ann_id": 502306, "best_split": [3, 1], "split_score": 0.11472868216419}

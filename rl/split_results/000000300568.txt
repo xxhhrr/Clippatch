@@ -1,0 +1,6 @@
+{"sent": "womans chairback", "ann_id": 379707, "best_split": [2, 3], "split_score": 0.28902701407016174}
+{"sent": "chair lady is sitting on", "ann_id": 379707, "best_split": [2, 3], "split_score": 0.28902701407016174}
+{"sent": "chair woman sitting on", "ann_id": 379707, "best_split": [2, 2], "split_score": 0.19897959182087216}
+{"sent": "chair woman isnt sitting in", "ann_id": 378517, "best_split": [3, 3], "split_score": 0.16815176772518658}
+{"sent": "empty chair", "ann_id": 378517, "best_split": [3, 2], "split_score": 0.2720930232241752}
+{"sent": "the gray square behind the laptop", "ann_id": 378517, "best_split": [1, 5], "split_score": 0.19487963314913262}

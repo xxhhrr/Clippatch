@@ -1,0 +1,14 @@
+{"sent": "the red bike next to the guy in blue", "ann_id": 155251, "best_split": [2, 3], "split_score": 0.44232625477288534}
+{"sent": "red tail behind post", "ann_id": 155251, "best_split": [1, 5], "split_score": 0.2713426099782491}
+{"sent": "the person with a bun on their head", "ann_id": 1223709, "best_split": [1, 5], "split_score": 0.38673200147128417}
+{"sent": "tied up hair lady with patterned shirt", "ann_id": 1223709, "best_split": [3, 3], "split_score": 0.3946835784111883}
+{"sent": "girl with hair up gray and black dress", "ann_id": 1223709, "best_split": [1, 5], "split_score": 0.38673200147128417}
+{"sent": "blue shirt with strap", "ann_id": 1221579, "best_split": [1, 3], "split_score": 0.4436042114802161}
+{"sent": "man with blue shirt and khakis", "ann_id": 1221579, "best_split": [3, 3], "split_score": 0.5025742139881066}
+{"sent": "tan pants blue shirt", "ann_id": 1221579, "best_split": [3, 3], "split_score": 0.5025742139881066}
+{"sent": "closest one", "ann_id": 151659, "best_split": [3, 3], "split_score": 0.6883586405118657}
+{"sent": "one bike", "ann_id": 151659, "best_split": [3, 3], "split_score": 0.6883586405118657}
+{"sent": "bike closest to us in corner blue seat no rider", "ann_id": 151659, "best_split": [3, 3], "split_score": 0.6883586405118657}
+{"sent": "lion bike", "ann_id": 148130, "best_split": [3, 2], "split_score": 0.5581714285076376}
+{"sent": "blue bike with lion fully shown", "ann_id": 148130, "best_split": [3, 2], "split_score": 0.5581714285076376}
+{"sent": "rear of bike with rider closest to us", "ann_id": 148130, "best_split": [3, 2], "split_score": 0.5581714285076376}

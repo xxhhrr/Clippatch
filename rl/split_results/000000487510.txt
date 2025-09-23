@@ -1,0 +1,6 @@
+{"sent": "chair", "ann_id": 114456, "best_split": [2, 3], "split_score": 0.7747068675905876}
+{"sent": "chair", "ann_id": 114456, "best_split": [2, 3], "split_score": 0.7747068675905876}
+{"sent": "smaller couch", "ann_id": 114456, "best_split": [1, 3], "split_score": 0.502023327749225}
+{"sent": "back of couch with laptop on it", "ann_id": 113175, "best_split": [2, 2], "split_score": 0.7985074626257609}
+{"sent": "couch with laptop on it", "ann_id": 113175, "best_split": [2, 1], "split_score": 0.4083969465489797}
+{"sent": "brown pillow", "ann_id": 113175, "best_split": [2, 1], "split_score": 0.4083969465489797}

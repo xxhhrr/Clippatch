@@ -1,0 +1,11 @@
+{"sent": "red tie", "ann_id": 1694412, "best_split": [1, 5], "split_score": 0.6005061460050157}
+{"sent": "man where you see hint of red tie", "ann_id": 1694412, "best_split": [1, 5], "split_score": 0.6005061460050157}
+{"sent": "older guy with stripes on sleeve", "ann_id": 1200544, "best_split": [1, 5], "split_score": 0.37596471881567955}
+{"sent": "farthest pilote", "ann_id": 1200544, "best_split": [1, 2], "split_score": 0.11663774821219827}
+{"sent": "balding man with uniform", "ann_id": 1200544, "best_split": [3, 3], "split_score": 0.33925501427804367}
+{"sent": "second man in group", "ann_id": 2153721, "best_split": [2, 3], "split_score": 0.3219814241130051}
+{"sent": "man with glasses cutting cake", "ann_id": 2153721, "best_split": [1, 5], "split_score": 0.27081375678718156}
+{"sent": "tall guy of the 4", "ann_id": 2153721, "best_split": [2, 3], "split_score": 0.3219814241130051}
+{"sent": "man closest to us", "ann_id": 1717983, "best_split": [1, 2], "split_score": 0.7693525407325728}
+{"sent": "man reaching out close to us", "ann_id": 1717983, "best_split": [1, 2], "split_score": 0.7693525407325728}
+{"sent": "man closest bending down near cake", "ann_id": 1717983, "best_split": [1, 5], "split_score": 0.3674151048261544}

@@ -1,0 +1,11 @@
+{"sent": "hotdog with white toppings", "ann_id": 1568960, "best_split": [3, 2], "split_score": 0.496323529368319}
+{"sent": "weinder smothered in onion and mustard", "ann_id": 1568960, "best_split": [3, 2], "split_score": 0.496323529368319}
+{"sent": "hot dog with mustard", "ann_id": 1568960, "best_split": [3, 2], "split_score": 0.496323529368319}
+{"sent": "chili dog", "ann_id": 1568040, "best_split": [5, 1], "split_score": 0.3774097664223006}
+{"sent": "hot dog with chili", "ann_id": 1568040, "best_split": [5, 1], "split_score": 0.3774097664223006}
+{"sent": "chili dog", "ann_id": 1568040, "best_split": [5, 1], "split_score": 0.3774097664223006}
+{"sent": "darker cup", "ann_id": 679774, "best_split": [2, 3], "split_score": 0.42109473198250547}
+{"sent": "darker lemonade", "ann_id": 679774, "best_split": [3, 3], "split_score": 0.4415817854341549}
+{"sent": "cup by the hotdog with chilifries", "ann_id": 679774, "best_split": [2, 2], "split_score": 0.025055268974143008}
+{"sent": "lemonade next to hot dog that has onions on it", "ann_id": 674210, "best_split": [3, 2], "split_score": 0.4864864864277888}
+{"sent": "lemonade at three", "ann_id": 674210, "best_split": [3, 3], "split_score": 0.7162454872353347}

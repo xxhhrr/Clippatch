@@ -1,0 +1,12 @@
+{"sent": "hair of person behing baseball cap", "ann_id": 1249943, "best_split": [2, 3], "split_score": 0.6728389935503746}
+{"sent": "person with head obscured", "ann_id": 1249943, "best_split": [3, 1], "split_score": 0.25061576353577514}
+{"sent": "behind boy with cap", "ann_id": 1249943, "best_split": [2, 3], "split_score": 0.6728389935503746}
+{"sent": "woman", "ann_id": 1211435, "best_split": [2, 2], "split_score": 0.4175122639326986}
+{"sent": "woman", "ann_id": 1211435, "best_split": [2, 2], "split_score": 0.4175122639326986}
+{"sent": "woman", "ann_id": 1211435, "best_split": [2, 2], "split_score": 0.4175122639326986}
+{"sent": "kid in cap", "ann_id": 494855, "best_split": [2, 2], "split_score": 0.5239498894298729}
+{"sent": "boy baseball cap", "ann_id": 494855, "best_split": [2, 2], "split_score": 0.5239498894298729}
+{"sent": "kid in ball cap", "ann_id": 494855, "best_split": [2, 2], "split_score": 0.5239498894298729}
+{"sent": "man glasses", "ann_id": 447472, "best_split": [1, 3], "split_score": 0.6815299446058616}
+{"sent": "old man", "ann_id": 447472, "best_split": [1, 3], "split_score": 0.6815299446058616}
+{"sent": "older man", "ann_id": 447472, "best_split": [1, 3], "split_score": 0.6815299446058616}

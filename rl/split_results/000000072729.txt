@@ -1,0 +1,6 @@
+{"sent": "black area above bowl of apples", "ann_id": 1060636, "best_split": [5, 1], "split_score": 0.39326298697308615}
+{"sent": "the darkest veg not sure what it is not the one with stalks", "ann_id": 1060636, "best_split": [1, 2], "split_score": 0.03776424220574116}
+{"sent": "background veggie", "ann_id": 1060636, "best_split": [1, 5], "split_score": 0.12226217717209364}
+{"sent": "brocoli with leaf", "ann_id": 1057580, "best_split": [3, 3], "split_score": 0.5356448476125008}
+{"sent": "broccoli near carrots", "ann_id": 1056428, "best_split": [5, 1], "split_score": 0.32305433183525567}
+{"sent": "the broccoli under swiss chard", "ann_id": 1056428, "best_split": [5, 1], "split_score": 0.32305433183525567}

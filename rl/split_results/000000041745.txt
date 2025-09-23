@@ -1,0 +1,8 @@
+{"sent": "white shirt", "ann_id": 203337, "best_split": [1, 2], "split_score": 0.5225589739475319}
+{"sent": "person in white shirt", "ann_id": 203337, "best_split": [1, 2], "split_score": 0.5225589739475319}
+{"sent": "white shirt", "ann_id": 203337, "best_split": [1, 2], "split_score": 0.5225589739475319}
+{"sent": "llady in red naxt to man in white", "ann_id": 2009060, "best_split": [2, 3], "split_score": 0.29486586490577404}
+{"sent": "long black hair pink shirt", "ann_id": 2009060, "best_split": [3, 2], "split_score": 0.14757122359627267}
+{"sent": "yellow", "ann_id": 187744, "best_split": [1, 5], "split_score": 0.44041189598614444}
+{"sent": "yellow shirt", "ann_id": 187744, "best_split": [1, 5], "split_score": 0.44041189598614444}
+{"sent": "yellow", "ann_id": 187744, "best_split": [1, 5], "split_score": 0.44041189598614444}

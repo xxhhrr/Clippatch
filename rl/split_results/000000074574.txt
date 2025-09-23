@@ -1,0 +1,6 @@
+{"sent": "horse with rider that has blue helmet", "ann_id": 275017, "best_split": [1, 2], "split_score": 0.6612488048591142}
+{"sent": "horse without number visible", "ann_id": 275017, "best_split": [1, 2], "split_score": 0.6612488048591142}
+{"sent": "horse blocked by horse 7", "ann_id": 275017, "best_split": [1, 2], "split_score": 0.6612488048591142}
+{"sent": "nose only", "ann_id": 55916, "best_split": [5, 1], "split_score": 0.17981045124947304}
+{"sent": "black horse head", "ann_id": 55916, "best_split": [5, 1], "split_score": 0.11596348382959425}
+{"sent": "horse", "ann_id": 54470, "best_split": [3, 1], "split_score": 0.43546488817924495}

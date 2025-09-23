@@ -1,0 +1,15 @@
+{"sent": "white shirt and jeans", "ann_id": 238291, "best_split": [1, 5], "split_score": 0.5622970778650267}
+{"sent": "white shirt", "ann_id": 238291, "best_split": [1, 5], "split_score": 0.5622970778650267}
+{"sent": "white shirt", "ann_id": 238291, "best_split": [1, 5], "split_score": 0.5622970778650267}
+{"sent": "all brown person in back", "ann_id": 230294, "best_split": [1, 5], "split_score": 0.4350649350207929}
+{"sent": "person in the background that is standing and all in picture", "ann_id": 230294, "best_split": [3, 3], "split_score": 0.3201730664791545}
+{"sent": "man facing away on side", "ann_id": 230294, "best_split": [1, 3], "split_score": 0.25868725867165254}
+{"sent": "lady in black suit", "ann_id": 223564, "best_split": [1, 3], "split_score": 0.33976833974784215}
+{"sent": "woman in gray", "ann_id": 223564, "best_split": [3, 3], "split_score": 0.270938215071975}
+{"sent": "woman suit jacket", "ann_id": 223564, "best_split": [1, 3], "split_score": 0.33976833974784215}
+{"sent": "person in cowboy hat", "ann_id": 217930, "best_split": [1, 3], "split_score": 0.3170116694823778}
+{"sent": "man in black suit by horsse", "ann_id": 217930, "best_split": [3, 1], "split_score": 0.13883677297607439}
+{"sent": "man with hat", "ann_id": 217930, "best_split": [1, 3], "split_score": 0.3170116694823778}
+{"sent": "man in brown vest", "ann_id": 189277, "best_split": [1, 3], "split_score": 0.4280284748776527}
+{"sent": "brown vest", "ann_id": 189277, "best_split": [1, 3], "split_score": 0.4280284748776527}
+{"sent": "man by woman in white", "ann_id": 189277, "best_split": [1, 2], "split_score": 0.2111165468629392}

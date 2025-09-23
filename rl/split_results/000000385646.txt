@@ -1,0 +1,5 @@
+{"sent": "pizza half with more green stuff", "ann_id": 1076496, "best_split": [1, 3], "split_score": 0.38838807286174154}
+{"sent": "the slice with more broccoli showing", "ann_id": 1076496, "best_split": [1, 2], "split_score": 0.7439777025435006}
+{"sent": "pizza half with cheese that has sauce on it", "ann_id": 1076496, "best_split": [1, 3], "split_score": 0.38838807286174154}
+{"sent": "haf pizza not showing greens", "ann_id": 1076129, "best_split": [1, 2], "split_score": 0.6268656716235173}
+{"sent": "pizza 8 o clock", "ann_id": 1076129, "best_split": [1, 2], "split_score": 0.6268656716235173}

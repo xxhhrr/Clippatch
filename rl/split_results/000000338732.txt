@@ -1,0 +1,6 @@
+{"sent": "the black dog behind the brown one", "ann_id": 16627, "best_split": [2, 1], "split_score": 0.23467020217896106}
+{"sent": "black dog", "ann_id": 16627, "best_split": [2, 1], "split_score": 0.23467020217896106}
+{"sent": "darkest dog", "ann_id": 16627, "best_split": [2, 1], "split_score": 0.23467020217896106}
+{"sent": "brown dog", "ann_id": 11033, "best_split": [3, 2], "split_score": 0.5688502673321482}
+{"sent": "light brown dog", "ann_id": 11033, "best_split": [3, 2], "split_score": 0.5688502673321482}
+{"sent": "reddish dog", "ann_id": 11033, "best_split": [3, 2], "split_score": 0.5688502673321482}

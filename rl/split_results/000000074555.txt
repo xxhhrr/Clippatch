@@ -1,0 +1,8 @@
+{"sent": "the tallest piece of the three big vases", "ann_id": 1157205, "best_split": [3, 1], "split_score": 0.16691729322523885}
+{"sent": "tallest", "ann_id": 1157205, "best_split": [1, 2], "split_score": 0.3290816326399441}
+{"sent": "tall jar", "ann_id": 1157205, "best_split": [3, 1], "split_score": 0.16691729322523885}
+{"sent": "vase on stand", "ann_id": 1155734, "best_split": [1, 3], "split_score": 0.5093315235545}
+{"sent": "dude walkin on vase", "ann_id": 1155734, "best_split": [1, 3], "split_score": 0.5093315235545}
+{"sent": "blue and whit one", "ann_id": 1155452, "best_split": [1, 5], "split_score": 0.4351549120009999}
+{"sent": "dolphins", "ann_id": 1155452, "best_split": [1, 5], "split_score": 0.4351549120009999}
+{"sent": "vase with blue in it", "ann_id": 1155452, "best_split": [1, 5], "split_score": 0.4351549120009999}

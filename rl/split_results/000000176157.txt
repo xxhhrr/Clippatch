@@ -1,0 +1,6 @@
+{"sent": "woman holding baby", "ann_id": 1718521, "best_split": [1, 5], "split_score": 0.5117920744014285}
+{"sent": "woman holding child", "ann_id": 1718521, "best_split": [1, 5], "split_score": 0.5117920744014285}
+{"sent": "adult carrying a child", "ann_id": 1718521, "best_split": [1, 5], "split_score": 0.5117920744014285}
+{"sent": "child wearing long sleeves", "ann_id": 481750, "best_split": [2, 3], "split_score": 0.5617529879873207}
+{"sent": "baby", "ann_id": 481750, "best_split": [2, 3], "split_score": 0.5617529879873207}
+{"sent": "baby", "ann_id": 481750, "best_split": [2, 3], "split_score": 0.5617529879873207}

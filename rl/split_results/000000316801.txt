@@ -1,0 +1,6 @@
+{"sent": "darkest car", "ann_id": 361188, "best_split": [3, 3], "split_score": 0.7030679326692717}
+{"sent": "darkest color vehicle", "ann_id": 361188, "best_split": [3, 3], "split_score": 0.7030679326692717}
+{"sent": "closer car", "ann_id": 361188, "best_split": [3, 3], "split_score": 0.7030679326692717}
+{"sent": "not black or white car", "ann_id": 360497, "best_split": [5, 1], "split_score": 0.11249999998901367}
+{"sent": "car behind premier car", "ann_id": 360497, "best_split": [5, 1], "split_score": 0.11249999998901367}
+{"sent": "the car nearest the mini cooper", "ann_id": 360497, "best_split": [5, 1], "split_score": 0.11249999998901367}

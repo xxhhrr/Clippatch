@@ -1,0 +1,5 @@
+{"sent": "all the food", "ann_id": 1614971, "best_split": [2, 1], "split_score": 0.6869652742581435}
+{"sent": "it all looks yummy", "ann_id": 1614971, "best_split": [2, 1], "split_score": 0.6869652742581435}
+{"sent": "a meal", "ann_id": 1614971, "best_split": [2, 1], "split_score": 0.6869652742581435}
+{"sent": "table brown close to plate", "ann_id": 121215, "best_split": [1, 2], "split_score": 0.23469387754166557}
+{"sent": "part of table without anything on it", "ann_id": 121215, "best_split": [2, 2], "split_score": 0.4693877550646215}

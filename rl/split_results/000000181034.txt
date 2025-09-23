@@ -1,0 +1,9 @@
+{"sent": "reddish bird", "ann_id": 44498, "best_split": [3, 2], "split_score": 0.41151079131756463}
+{"sent": "brown pigeon", "ann_id": 44498, "best_split": [3, 3], "split_score": 0.32114420520183656}
+{"sent": "brown and white bird", "ann_id": 44498, "best_split": [3, 2], "split_score": 0.41151079131756463}
+{"sent": "black bird by brown and white bird", "ann_id": 44305, "best_split": [3, 3], "split_score": 0.5380041779627183}
+{"sent": "solid dark bird between gray speckled one and reddish one", "ann_id": 44305, "best_split": [3, 2], "split_score": 0.3250936329240135}
+{"sent": "middle bord", "ann_id": 44305, "best_split": [5, 1], "split_score": 0.25786673877397287}
+{"sent": "pigeon with pattern on wings", "ann_id": 38025, "best_split": [3, 3], "split_score": 0.7293127628596988}
+{"sent": "dark gray wings with light gray specks", "ann_id": 38025, "best_split": [3, 3], "split_score": 0.7293127628596988}
+{"sent": "closest bird", "ann_id": 38025, "best_split": [3, 3], "split_score": 0.7293127628596988}

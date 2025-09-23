@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 497193, "best_split": [2, 2], "split_score": 0.4044313934647928}
+{"sent": "man swinging", "ann_id": 497193, "best_split": [1, 2], "split_score": 0.36676752039238786}
+{"sent": "guy in white", "ann_id": 497193, "best_split": [2, 2], "split_score": 0.4044313934647928}
+{"sent": "black shirt", "ann_id": 493666, "best_split": [5, 1], "split_score": 0.22232179786141446}
+{"sent": "black outfit", "ann_id": 493666, "best_split": [2, 1], "split_score": 0.05522120494093024}
+{"sent": "black shrit", "ann_id": 493666, "best_split": [2, 1], "split_score": 0.05522120494093024}

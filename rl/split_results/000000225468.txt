@@ -1,0 +1,6 @@
+{"sent": "the plate with carrots", "ann_id": 2107518, "best_split": [1, 2], "split_score": 0.8637981574237926}
+{"sent": "carrots", "ann_id": 2107518, "best_split": [1, 2], "split_score": 0.8637981574237926}
+{"sent": "plate with carrots", "ann_id": 2107518, "best_split": [1, 2], "split_score": 0.8637981574237926}
+{"sent": "smaller plate", "ann_id": 2109357, "best_split": [1, 2], "split_score": 0.700653698951664}
+{"sent": "peppers and noodles tray", "ann_id": 2109357, "best_split": [1, 2], "split_score": 0.700653698951664}
+{"sent": "noodles", "ann_id": 2109357, "best_split": [1, 2], "split_score": 0.700653698951664}

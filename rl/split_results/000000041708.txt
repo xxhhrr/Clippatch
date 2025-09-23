@@ -1,0 +1,5 @@
+{"sent": "headless horse", "ann_id": 57820, "best_split": [3, 1], "split_score": 0.4025577847939365}
+{"sent": "horse with no head", "ann_id": 57820, "best_split": [3, 1], "split_score": 0.4025577847939365}
+{"sent": "no head horse", "ann_id": 57820, "best_split": [3, 1], "split_score": 0.4025577847939365}
+{"sent": "large animal", "ann_id": 55605, "best_split": [2, 2], "split_score": 0.672807226011837}
+{"sent": "main horse", "ann_id": 55605, "best_split": [2, 2], "split_score": 0.672807226011837}

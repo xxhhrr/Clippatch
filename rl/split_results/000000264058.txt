@@ -1,0 +1,6 @@
+{"sent": "couch by black desk that has pillows on it", "ann_id": 319494, "best_split": [2, 2], "split_score": 0.22404202717675817}
+{"sent": "fouton by desk", "ann_id": 319494, "best_split": [3, 2], "split_score": 0.234341712799921}
+{"sent": "bed closest to the table", "ann_id": 319494, "best_split": [5, 1], "split_score": 0.16879886281371723}
+{"sent": "bed with a black headboard", "ann_id": 315251, "best_split": [2, 1], "split_score": 0.7488042091538264}
+{"sent": "bed with striped bedspread", "ann_id": 315251, "best_split": [2, 1], "split_score": 0.7488042091538264}
+{"sent": "main bed", "ann_id": 315251, "best_split": [2, 1], "split_score": 0.7488042091538264}

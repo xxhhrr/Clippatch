@@ -1,0 +1,11 @@
+{"sent": "green plant above cats head", "ann_id": 1608816, "best_split": [2, 3], "split_score": 0.674469111887733}
+{"sent": "flowers behind cats", "ann_id": 1608816, "best_split": [2, 3], "split_score": 0.674469111887733}
+{"sent": "window pane behind tallest cat head", "ann_id": 1608816, "best_split": [2, 3], "split_score": 0.674469111887733}
+{"sent": "plant outside window by chair", "ann_id": 1607279, "best_split": [3, 3], "split_score": 0.6412066751217576}
+{"sent": "windowpane next to cat tail", "ann_id": 1607279, "best_split": [2, 1], "split_score": 0.1894132652985725}
+{"sent": "darker cat", "ann_id": 52223, "best_split": [3, 1], "split_score": 0.5449323919740976}
+{"sent": "cat with blacker fur", "ann_id": 52223, "best_split": [3, 1], "split_score": 0.5449323919740976}
+{"sent": "longest cat", "ann_id": 52223, "best_split": [3, 1], "split_score": 0.5449323919740976}
+{"sent": "cat on the edge", "ann_id": 51518, "best_split": [2, 3], "split_score": 0.5144053600909209}
+{"sent": "orange and white cat", "ann_id": 51518, "best_split": [2, 3], "split_score": 0.5144053600909209}
+{"sent": "orange and white cat", "ann_id": 51518, "best_split": [2, 3], "split_score": 0.5144053600909209}

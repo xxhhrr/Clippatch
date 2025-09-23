@@ -1,0 +1,6 @@
+{"sent": "meter closest to dog", "ann_id": 419553, "best_split": [1, 5], "split_score": 0.4951298700796337}
+{"sent": "meter by dog", "ann_id": 419553, "best_split": [1, 5], "split_score": 0.4951298700796337}
+{"sent": "meter that looks rusty", "ann_id": 419553, "best_split": [1, 5], "split_score": 0.4951298700796337}
+{"sent": "meter under t", "ann_id": 419513, "best_split": [2, 2], "split_score": 0.23258096171088033}
+{"sent": "parking meter near tails", "ann_id": 419513, "best_split": [2, 2], "split_score": 0.23258096171088033}
+{"sent": "meter under ail", "ann_id": 419513, "best_split": [3, 2], "split_score": 0.30410958901133955}

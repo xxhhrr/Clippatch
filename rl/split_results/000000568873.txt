@@ -1,0 +1,12 @@
+{"sent": "man in gray shirt", "ann_id": 545096, "best_split": [1, 5], "split_score": 0.415178571386447}
+{"sent": "not on team", "ann_id": 545096, "best_split": [2, 2], "split_score": 0.2548842120951283}
+{"sent": "gray shirt", "ann_id": 545096, "best_split": [2, 3], "split_score": 0.37540273298795657}
+{"sent": "boy next to khaki guy", "ann_id": 536768, "best_split": [2, 2], "split_score": 0.29377913750773754}
+{"sent": "purple shirt with sunglasses", "ann_id": 536768, "best_split": [2, 2], "split_score": 0.29377913750773754}
+{"sent": "boy in purple wearing glasses", "ann_id": 536768, "best_split": [2, 2], "split_score": 0.29377913750773754}
+{"sent": "person whose face is not shown", "ann_id": 528289, "best_split": [1, 5], "split_score": 0.5862944161905099}
+{"sent": "purple shirt with back to the camera", "ann_id": 528289, "best_split": [1, 5], "split_score": 0.5862944161905099}
+{"sent": "middle person", "ann_id": 528289, "best_split": [1, 5], "split_score": 0.5862944161905099}
+{"sent": "player with white shorts sitting", "ann_id": 518232, "best_split": [3, 3], "split_score": 0.43036087079773916}
+{"sent": "white shorts", "ann_id": 518232, "best_split": [3, 1], "split_score": 0.21246923706712356}
+{"sent": "sitting", "ann_id": 518232, "best_split": [3, 3], "split_score": 0.43036087079773916}

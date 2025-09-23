@@ -1,0 +1,12 @@
+{"sent": "a glass of milk", "ann_id": 1879805, "best_split": [3, 3], "split_score": 0.6851716580195084}
+{"sent": "glass of milk", "ann_id": 1879805, "best_split": [3, 3], "split_score": 0.6851716580195084}
+{"sent": "milk", "ann_id": 1879805, "best_split": [3, 1], "split_score": 0.226351351337696}
+{"sent": "bread in the row furthest down under the milk", "ann_id": 1555538, "best_split": [3, 2], "split_score": 0.41385135130141754}
+{"sent": "pastry southeast", "ann_id": 1555538, "best_split": [3, 3], "split_score": 0.6263696127417148}
+{"sent": "sandwich below milk", "ann_id": 1555538, "best_split": [1, 3], "split_score": 0.20692567566319223}
+{"sent": "white cup black coffee", "ann_id": 1507594, "best_split": [3, 3], "split_score": 0.8064280495240269}
+{"sent": "coffee black", "ann_id": 1507594, "best_split": [3, 3], "split_score": 0.8064280495240269}
+{"sent": "black coffee", "ann_id": 1507594, "best_split": [3, 3], "split_score": 0.8064280495240269}
+{"sent": "sandwich over milk", "ann_id": 309175, "best_split": [3, 3], "split_score": 0.7586705200941707}
+{"sent": "sandwich next to banana", "ann_id": 309175, "best_split": [3, 2], "split_score": 0.5139961389341221}
+{"sent": "sandwich", "ann_id": 309175, "best_split": [3, 3], "split_score": 0.7586705200941707}

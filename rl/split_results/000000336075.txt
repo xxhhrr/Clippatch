@@ -1,0 +1,6 @@
+{"sent": "blue item that man in red shirt is on", "ann_id": 116185, "best_split": [5, 1], "split_score": 0.49215295235479467}
+{"sent": "couch", "ann_id": 116185, "best_split": [5, 1], "split_score": 0.49215295235479467}
+{"sent": "blue couch man is sitting on", "ann_id": 116185, "best_split": [5, 1], "split_score": 0.49215295235479467}
+{"sent": "chair under light", "ann_id": 99171, "best_split": [3, 3], "split_score": 0.48142741273618367}
+{"sent": "blue chair sad face", "ann_id": 99171, "best_split": [3, 3], "split_score": 0.48142741273618367}
+{"sent": "single blue chair", "ann_id": 99171, "best_split": [3, 3], "split_score": 0.48142741273618367}

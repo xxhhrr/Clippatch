@@ -1,0 +1,6 @@
+{"sent": "red bottle", "ann_id": 1867685, "best_split": [2, 3], "split_score": 0.3438706563291662}
+{"sent": "water bottle", "ann_id": 1867685, "best_split": [2, 3], "split_score": 0.3438706563291662}
+{"sent": "reddish bottle", "ann_id": 1867685, "best_split": [2, 3], "split_score": 0.3438706563291662}
+{"sent": "mostly empty ketchup bottle", "ann_id": 95612, "best_split": [3, 3], "split_score": 0.36173184351226745}
+{"sent": "seriouslyketchup bottle", "ann_id": 95612, "best_split": [3, 3], "split_score": 0.36173184351226745}
+{"sent": "ketchup", "ann_id": 95612, "best_split": [3, 3], "split_score": 0.36173184351226745}

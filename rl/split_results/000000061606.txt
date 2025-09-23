@@ -1,0 +1,6 @@
+{"sent": "the boy standing", "ann_id": 1730575, "best_split": [1, 5], "split_score": 0.5314057826141998}
+{"sent": "boy in shorts", "ann_id": 1730575, "best_split": [1, 5], "split_score": 0.5314057826141998}
+{"sent": "on counter", "ann_id": 1730575, "best_split": [1, 2], "split_score": 0.464285714267208}
+{"sent": "kid in funny costume", "ann_id": 426794, "best_split": [1, 2], "split_score": 0.49488103819412826}
+{"sent": "wearing costume", "ann_id": 426794, "best_split": [1, 2], "split_score": 0.49488103819412826}
+{"sent": "costume", "ann_id": 426794, "best_split": [1, 2], "split_score": 0.49488103819412826}

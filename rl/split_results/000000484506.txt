@@ -1,0 +1,15 @@
+{"sent": "partial person near curly haired woman", "ann_id": 232359, "best_split": [5, 1], "split_score": 0.2364944884543596}
+{"sent": "man farthest from you no head", "ann_id": 232359, "best_split": [1, 2], "split_score": 0.1481584821369516}
+{"sent": "only u can see his arms guy in the back", "ann_id": 232359, "best_split": [5, 1], "split_score": 0.2364944884543596}
+{"sent": "tble", "ann_id": 1960475, "best_split": [2, 1], "split_score": 0.5973850315431305}
+{"sent": "table", "ann_id": 1960475, "best_split": [2, 1], "split_score": 0.5973850315431305}
+{"sent": "area of table between two sides", "ann_id": 1960475, "best_split": [2, 1], "split_score": 0.5973850315431305}
+{"sent": "the table at the very end near blue paper", "ann_id": 1616383, "best_split": [3, 3], "split_score": 0.7320727790345928}
+{"sent": "back table", "ann_id": 1616383, "best_split": [2, 3], "split_score": 0.49766774303340894}
+{"sent": "table without the cellphones", "ann_id": 1616383, "best_split": [1, 5], "split_score": 0.2952748666762939}
+{"sent": "curly hair", "ann_id": 225734, "best_split": [2, 3], "split_score": 0.6717440974227205}
+{"sent": "woman curly hair", "ann_id": 225734, "best_split": [2, 3], "split_score": 0.6717440974227205}
+{"sent": "girl", "ann_id": 225734, "best_split": [2, 3], "split_score": 0.6717440974227205}
+{"sent": "male", "ann_id": 202097, "best_split": [2, 1], "split_score": 0.2885397829936556}
+{"sent": "man with phone", "ann_id": 202097, "best_split": [2, 1], "split_score": 0.2885397829936556}
+{"sent": "man blurry face", "ann_id": 202097, "best_split": [2, 1], "split_score": 0.2885397829936556}

@@ -1,0 +1,11 @@
+{"sent": "black short", "ann_id": 546013, "best_split": [3, 3], "split_score": 0.6165962788932089}
+{"sent": "man with black trunks", "ann_id": 546013, "best_split": [3, 2], "split_score": 0.46677611678330805}
+{"sent": "woman", "ann_id": 543095, "best_split": [1, 2], "split_score": 0.2421476402964705}
+{"sent": "shortest person looking down", "ann_id": 543095, "best_split": [5, 1], "split_score": 0.25529903078911836}
+{"sent": "girl in bikini", "ann_id": 543095, "best_split": [3, 3], "split_score": 0.4566204286939949}
+{"sent": "man with one arm up near man with 2 arms up", "ann_id": 541826, "best_split": [3, 3], "split_score": 0.4528239477009159}
+{"sent": "man with light shorts one hand in air", "ann_id": 541826, "best_split": [1, 3], "split_score": 0.559538704207173}
+{"sent": "no shirt flower shorts", "ann_id": 541826, "best_split": [1, 3], "split_score": 0.559538704207173}
+{"sent": "man with 2 hands up", "ann_id": 480845, "best_split": [1, 3], "split_score": 0.41409266406768264}
+{"sent": "guy with surfboard next to his leg", "ann_id": 480845, "best_split": [2, 2], "split_score": 0.33296703294416435}
+{"sent": "the guy with jeans shorts", "ann_id": 480845, "best_split": [2, 1], "split_score": 0.17886658795089777}

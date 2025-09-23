@@ -1,0 +1,5 @@
+{"sent": "i wont lol person in background", "ann_id": 2152602, "best_split": [2, 3], "split_score": 0.30405405401736796}
+{"sent": "person leaning back in the booth", "ann_id": 2152602, "best_split": [3, 1], "split_score": 0.1235584843419888}
+{"sent": "lady in green", "ann_id": 439339, "best_split": [2, 1], "split_score": 0.6195164376197768}
+{"sent": "person by spatula", "ann_id": 439339, "best_split": [2, 1], "split_score": 0.6195164376197768}
+{"sent": "woman wearing scarf", "ann_id": 439339, "best_split": [2, 1], "split_score": 0.6195164376197768}

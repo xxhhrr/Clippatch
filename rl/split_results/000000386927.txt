@@ -1,0 +1,9 @@
+{"sent": "bear laying down", "ann_id": 1162301, "best_split": [1, 2], "split_score": 0.07771269850619791}
+{"sent": "bear closest to screen", "ann_id": 1162301, "best_split": [1, 2], "split_score": 0.07771269850619791}
+{"sent": "bear laying down with glass in hand", "ann_id": 1162301, "best_split": [2, 1], "split_score": 0.42283163263620727}
+{"sent": "the smaller bear in a blue sweater", "ann_id": 1160217, "best_split": [3, 1], "split_score": 0.2568453528589695}
+{"sent": "small teddybear", "ann_id": 1160217, "best_split": [3, 1], "split_score": 0.2568453528589695}
+{"sent": "small bear with shirt", "ann_id": 1160217, "best_split": [3, 1], "split_score": 0.2568453528589695}
+{"sent": "biggest bear", "ann_id": 1160056, "best_split": [1, 2], "split_score": 0.6971261267933921}
+{"sent": "bear with tie", "ann_id": 1160056, "best_split": [1, 2], "split_score": 0.6971261267933921}
+{"sent": "big bear", "ann_id": 1160056, "best_split": [1, 2], "split_score": 0.6971261267933921}

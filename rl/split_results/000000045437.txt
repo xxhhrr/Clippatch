@@ -1,0 +1,6 @@
+{"sent": "purple closest to tree", "ann_id": 210331, "best_split": [3, 1], "split_score": 0.28605566487608747}
+{"sent": "person partially hidden by leaves", "ann_id": 210331, "best_split": [3, 1], "split_score": 0.28605566487608747}
+{"sent": "facing back shirt", "ann_id": 210331, "best_split": [1, 2], "split_score": 0.7979910713967637}
+{"sent": "man on phone", "ann_id": 210043, "best_split": [1, 3], "split_score": 0.4049016223480003}
+{"sent": "phone", "ann_id": 210043, "best_split": [1, 3], "split_score": 0.4049016223480003}
+{"sent": "phone", "ann_id": 210043, "best_split": [1, 3], "split_score": 0.4049016223480003}

@@ -1,0 +1,17 @@
+{"sent": "hot dog with chips", "ann_id": 1899252, "best_split": [3, 2], "split_score": 0.3594638504915248}
+{"sent": "dog closest edge at 3 and sorry i do know what a toilet seat is that was my bad", "ann_id": 1899252, "best_split": [3, 2], "split_score": 0.3594638504915248}
+{"sent": "dog t 3p", "ann_id": 1899252, "best_split": [3, 2], "split_score": 0.3594638504915248}
+{"sent": "largest fries", "ann_id": 1532219, "best_split": [2, 3], "split_score": 0.5277599338783372}
+{"sent": "fries not by salt shaker", "ann_id": 1532219, "best_split": [2, 3], "split_score": 0.5277599338783372}
+{"sent": "fries", "ann_id": 1532219, "best_split": [2, 3], "split_score": 0.5277599338783372}
+{"sent": "hot dog with alot of stuff on it", "ann_id": 1068691, "best_split": [3, 2], "split_score": 0.2255839821773544}
+{"sent": "hotdog with chip looking stuff on it", "ann_id": 1068691, "best_split": [3, 2], "split_score": 0.2255839821773544}
+{"sent": "hotdog has most onions on it", "ann_id": 1068691, "best_split": [3, 2], "split_score": 0.2255839821773544}
+{"sent": "hotdog near the fries not sideways", "ann_id": 1068471, "best_split": [3, 3], "split_score": 0.27970749538700374}
+{"sent": "hotdog closest", "ann_id": 1068471, "best_split": [3, 3], "split_score": 0.27970749538700374}
+{"sent": "hot dog near fries", "ann_id": 1068471, "best_split": [3, 3], "split_score": 0.27970749538700374}
+{"sent": "wiener with circles on it", "ann_id": 716572, "best_split": [3, 3], "split_score": 0.43746910523511257}
+{"sent": "hot dog with banana on it", "ann_id": 716572, "best_split": [3, 3], "split_score": 0.43746910523511257}
+{"sent": "dog in the back behind two", "ann_id": 1902104, "best_split": [2, 3], "split_score": 0.2563025209792979}
+{"sent": "frankfurter closest to ketchup", "ann_id": 1902104, "best_split": [3, 2], "split_score": 0.13898898382178637}
+{"sent": "sausage furthest away", "ann_id": 1902104, "best_split": [1, 5], "split_score": 0.140290692413082}

@@ -1,0 +1,6 @@
+{"sent": "silver laptop", "ann_id": 1103241, "best_split": [2, 2], "split_score": 0.5195924177328544}
+{"sent": "gray laptop", "ann_id": 1103241, "best_split": [2, 1], "split_score": 0.267853694323593}
+{"sent": "white laptop", "ann_id": 1103241, "best_split": [2, 2], "split_score": 0.5195924177328544}
+{"sent": "black laptop", "ann_id": 1102786, "best_split": [1, 2], "split_score": 0.6309680822764078}
+{"sent": "black laptop", "ann_id": 1102786, "best_split": [1, 2], "split_score": 0.6309680822764078}
+{"sent": "blsck lsptop", "ann_id": 1102786, "best_split": [1, 2], "split_score": 0.6309680822764078}

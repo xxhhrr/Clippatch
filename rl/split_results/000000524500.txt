@@ -1,0 +1,6 @@
+{"sent": "red apples by green jif", "ann_id": 1551651, "best_split": [5, 1], "split_score": 0.41672918225649574}
+{"sent": "darkest smallest with green box", "ann_id": 1551651, "best_split": [1, 2], "split_score": 0.2093431122365536}
+{"sent": "lowest dark red apples", "ann_id": 1551651, "best_split": [2, 2], "split_score": 0.4186862244564185}
+{"sent": "darkest apples most dark", "ann_id": 1552095, "best_split": [1, 2], "split_score": 0.23801948696607597}
+{"sent": "red apples under the yellow green ones", "ann_id": 1552095, "best_split": [1, 2], "split_score": 0.23801948696607597}
+{"sent": "middle dark red apples", "ann_id": 1552095, "best_split": [2, 2], "split_score": 0.32087271691273733}

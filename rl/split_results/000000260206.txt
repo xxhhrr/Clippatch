@@ -1,0 +1,8 @@
+{"sent": "green and white medium sized vase", "ann_id": 1157044, "best_split": [3, 3], "split_score": 0.3907992019257365}
+{"sent": "the shorter odd shaped one not the round one either", "ann_id": 1157044, "best_split": [1, 5], "split_score": 0.38359901113429384}
+{"sent": "shortest vase", "ann_id": 1157011, "best_split": [2, 3], "split_score": 0.4835537866693721}
+{"sent": "smallest jar", "ann_id": 1157011, "best_split": [2, 3], "split_score": 0.4835537866693721}
+{"sent": "smallest", "ann_id": 1157011, "best_split": [2, 3], "split_score": 0.4835537866693721}
+{"sent": "tallest", "ann_id": 1156901, "best_split": [1, 3], "split_score": 0.4256756756499954}
+{"sent": "tallest urn", "ann_id": 1156901, "best_split": [1, 3], "split_score": 0.4256756756499954}
+{"sent": "tall vase", "ann_id": 1156901, "best_split": [1, 2], "split_score": 0.28124999998878947}

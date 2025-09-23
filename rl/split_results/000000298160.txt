@@ -1,0 +1,5 @@
+{"sent": "the black bus only a small part is visible in the picture", "ann_id": 2171500, "best_split": [1, 5], "split_score": 0.3322849025636886}
+{"sent": "tail end of dark suv nefore bus", "ann_id": 2171500, "best_split": [1, 5], "split_score": 0.3322849025636886}
+{"sent": "bus in background", "ann_id": 163622, "best_split": [2, 2], "split_score": 0.5024875621499931}
+{"sent": "bus", "ann_id": 163622, "best_split": [2, 2], "split_score": 0.5024875621499931}
+{"sent": "bus with atlantic", "ann_id": 163622, "best_split": [2, 2], "split_score": 0.5024875621499931}

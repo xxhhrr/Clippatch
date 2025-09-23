@@ -1,0 +1,6 @@
+{"sent": "bed further away", "ann_id": 315470, "best_split": [3, 2], "split_score": 0.535772674150582}
+{"sent": "far bed", "ann_id": 315470, "best_split": [3, 2], "split_score": 0.535772674150582}
+{"sent": "white sheets on bed its empty", "ann_id": 315470, "best_split": [3, 2], "split_score": 0.535772674150582}
+{"sent": "bed closest", "ann_id": 315004, "best_split": [1, 2], "split_score": 0.4487040439042762}
+{"sent": "bed with flowers", "ann_id": 315004, "best_split": [2, 1], "split_score": 0.6082117057199811}
+{"sent": "bed with candy", "ann_id": 315004, "best_split": [2, 1], "split_score": 0.6082117057199811}

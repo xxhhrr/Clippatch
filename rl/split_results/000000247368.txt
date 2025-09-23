@@ -1,0 +1,5 @@
+{"sent": "darker zebra", "ann_id": 591274, "best_split": [2, 1], "split_score": 0.36004706496404604}
+{"sent": "facing 9", "ann_id": 591274, "best_split": [2, 1], "split_score": 0.36004706496404604}
+{"sent": "zebra behind the duck", "ann_id": 590780, "best_split": [1, 2], "split_score": 0.6454097116598858}
+{"sent": "zebra closest to duck", "ann_id": 590780, "best_split": [1, 2], "split_score": 0.6454097116598858}
+{"sent": "zebra closer to goose", "ann_id": 590780, "best_split": [1, 2], "split_score": 0.6454097116598858}

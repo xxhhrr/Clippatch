@@ -1,0 +1,6 @@
+{"sent": "seat 2", "ann_id": 1623948, "best_split": [3, 3], "split_score": 0.5709739019005762}
+{"sent": "toilet number 2", "ann_id": 1623948, "best_split": [3, 3], "split_score": 0.5709739019005762}
+{"sent": "toilet 2", "ann_id": 1623948, "best_split": [3, 3], "split_score": 0.5709739019005762}
+{"sent": "commode leaning", "ann_id": 1623440, "best_split": [2, 1], "split_score": 0.5256696428361898}
+{"sent": "something blue in toilet bowl", "ann_id": 1623440, "best_split": [2, 1], "split_score": 0.5256696428361898}
+{"sent": "closest toilet", "ann_id": 1623440, "best_split": [2, 1], "split_score": 0.5256696428361898}

@@ -1,0 +1,6 @@
+{"sent": "woman in white shirt red shirt no head", "ann_id": 2151496, "best_split": [2, 3], "split_score": 0.5903454803038007}
+{"sent": "red", "ann_id": 2151496, "best_split": [2, 3], "split_score": 0.5903454803038007}
+{"sent": "white red and black", "ann_id": 2151496, "best_split": [2, 3], "split_score": 0.5903454803038007}
+{"sent": "woman in black", "ann_id": 539452, "best_split": [1, 3], "split_score": 0.7283224280679429}
+{"sent": "girl feeding the giraffe a carrot", "ann_id": 539452, "best_split": [3, 1], "split_score": 0.24285318887181792}
+{"sent": "young girl", "ann_id": 539452, "best_split": [1, 5], "split_score": 0.46777929557119563}

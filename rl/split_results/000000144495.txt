@@ -1,0 +1,5 @@
+{"sent": "banana with stem", "ann_id": 1046269, "best_split": [2, 3], "split_score": 0.5690004046368878}
+{"sent": "upper banana", "ann_id": 1046269, "best_split": [2, 3], "split_score": 0.5690004046368878}
+{"sent": "butt of the banana", "ann_id": 1046083, "best_split": [3, 3], "split_score": 0.5807848443057124}
+{"sent": "piece without the stalk", "ann_id": 1046083, "best_split": [3, 3], "split_score": 0.5807848443057124}
+{"sent": "half without stem", "ann_id": 1046083, "best_split": [3, 3], "split_score": 0.5807848443057124}

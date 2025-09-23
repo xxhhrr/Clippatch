@@ -1,0 +1,7 @@
+{"sent": "girl driving the bike", "ann_id": 260170, "best_split": [3, 3], "split_score": 0.26908477432843897}
+{"sent": "woman with hand to cheek", "ann_id": 260170, "best_split": [2, 3], "split_score": 0.40659340655488885}
+{"sent": "woman with hand showing", "ann_id": 260170, "best_split": [2, 3], "split_score": 0.40659340655488885}
+{"sent": "person between the other two", "ann_id": 260170, "best_split": [2, 3], "split_score": 0.40659340655488885}
+{"sent": "woman not on the bike", "ann_id": 258844, "best_split": [3, 1], "split_score": 0.1541345964005262}
+{"sent": "woman passenger", "ann_id": 258844, "best_split": [2, 2], "split_score": 0.4926754047422764}
+{"sent": "girl n black", "ann_id": 258844, "best_split": [2, 2], "split_score": 0.4926754047422764}

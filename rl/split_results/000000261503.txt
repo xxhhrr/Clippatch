@@ -1,0 +1,5 @@
+{"sent": "10 o clock apple", "ann_id": 1906451, "best_split": [3, 1], "split_score": 0.15818050192095917}
+{"sent": "red apple split", "ann_id": 1906451, "best_split": [2, 1], "split_score": 0.10451211734277295}
+{"sent": "two apples together", "ann_id": 1049266, "best_split": [1, 2], "split_score": 0.3654571159140175}
+{"sent": "apples together", "ann_id": 1049266, "best_split": [1, 2], "split_score": 0.3654571159140175}
+{"sent": "two red apples together", "ann_id": 1049266, "best_split": [3, 2], "split_score": 0.6277173912474894}

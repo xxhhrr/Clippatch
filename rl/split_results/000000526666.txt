@@ -1,0 +1,6 @@
+{"sent": "person with book", "ann_id": 200094, "best_split": [1, 2], "split_score": 0.710832733672047}
+{"sent": "man with book", "ann_id": 200094, "best_split": [1, 2], "split_score": 0.710832733672047}
+{"sent": "old man reading a book", "ann_id": 200094, "best_split": [1, 2], "split_score": 0.710832733672047}
+{"sent": "person partially out of photo", "ann_id": 194352, "best_split": [2, 1], "split_score": 0.21616161615479287}
+{"sent": "man arms folded", "ann_id": 194352, "best_split": [2, 1], "split_score": 0.2064128256448393}
+{"sent": "very blurry person", "ann_id": 194352, "best_split": [2, 1], "split_score": 0.21616161615479287}

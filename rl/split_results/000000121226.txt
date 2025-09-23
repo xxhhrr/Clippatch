@@ -1,0 +1,6 @@
+{"sent": "man in white and black shirt", "ann_id": 1231955, "best_split": [1, 3], "split_score": 0.5967904723154627}
+{"sent": "guy", "ann_id": 1231955, "best_split": [1, 3], "split_score": 0.5967904723154627}
+{"sent": "person in apron", "ann_id": 1231955, "best_split": [3, 3], "split_score": 0.3568031703859443}
+{"sent": "girl with black short bangs", "ann_id": 455625, "best_split": [1, 2], "split_score": 0.5950052132318404}
+{"sent": "the woman", "ann_id": 455625, "best_split": [1, 2], "split_score": 0.5950052132318404}
+{"sent": "woman", "ann_id": 455625, "best_split": [1, 2], "split_score": 0.5950052132318404}

@@ -1,0 +1,6 @@
+{"sent": "orange at 3 o clock", "ann_id": 1054340, "best_split": [3, 2], "split_score": 0.5172043010355449}
+{"sent": "oranges in the foreground", "ann_id": 1054340, "best_split": [3, 2], "split_score": 0.5172043010355449}
+{"sent": "cluster of orange slices with an arc of cherry stem intersecting", "ann_id": 1054340, "best_split": [3, 1], "split_score": 0.3488215488047705}
+{"sent": "orange bunch with less", "ann_id": 1052981, "best_split": [3, 3], "split_score": 0.6869465865914101}
+{"sent": "orange section by itself", "ann_id": 1052981, "best_split": [3, 1], "split_score": 0.2709119147841739}
+{"sent": "orange that two cherry stems point toward", "ann_id": 1052981, "best_split": [3, 1], "split_score": 0.2709119147841739}

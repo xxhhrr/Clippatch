@@ -1,0 +1,6 @@
+{"sent": "player on stairs", "ann_id": 441213, "best_split": [1, 2], "split_score": 0.3974885408614045}
+{"sent": "person by the stairs", "ann_id": 441213, "best_split": [1, 2], "split_score": 0.3974885408614045}
+{"sent": "player standing without bat", "ann_id": 441213, "best_split": [3, 1], "split_score": 0.4922443622332584}
+{"sent": "player at home plate", "ann_id": 435189, "best_split": [1, 3], "split_score": 0.658526490032154}
+{"sent": "batter", "ann_id": 435189, "best_split": [1, 3], "split_score": 0.658526490032154}
+{"sent": "batter", "ann_id": 435189, "best_split": [1, 3], "split_score": 0.658526490032154}

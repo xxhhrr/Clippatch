@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 458960, "best_split": [1, 2], "split_score": 0.9068661268324728}
+{"sent": "father", "ann_id": 458960, "best_split": [1, 2], "split_score": 0.9068661268324728}
+{"sent": "adult", "ann_id": 458960, "best_split": [2, 1], "split_score": 0.3513019761128216}
+{"sent": "baby", "ann_id": 444311, "best_split": [2, 3], "split_score": 0.6628634894322634}
+{"sent": "baby", "ann_id": 444311, "best_split": [2, 3], "split_score": 0.6628634894322634}
+{"sent": "baby", "ann_id": 444311, "best_split": [2, 3], "split_score": 0.6628634894322634}

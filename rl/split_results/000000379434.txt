@@ -1,0 +1,6 @@
+{"sent": "blue shirt dark hair", "ann_id": 1200730, "best_split": [2, 3], "split_score": 0.40659340657272114}
+{"sent": "gray shirt in the conner", "ann_id": 1200730, "best_split": [2, 1], "split_score": 0.27518935046261217}
+{"sent": "cutoff man", "ann_id": 1200730, "best_split": [2, 1], "split_score": 0.27518935046261217}
+{"sent": "guy with white undershirt", "ann_id": 442962, "best_split": [3, 3], "split_score": 0.30562725860794693}
+{"sent": "farthest person", "ann_id": 442962, "best_split": [3, 2], "split_score": 0.2969502407406751}
+{"sent": "guy with frisbee", "ann_id": 442962, "best_split": [3, 3], "split_score": 0.30562725860794693}

@@ -1,0 +1,6 @@
+{"sent": "red street light", "ann_id": 407182, "best_split": [1, 5], "split_score": 0.2840909090620849}
+{"sent": "red light", "ann_id": 407182, "best_split": [1, 5], "split_score": 0.2840909090620849}
+{"sent": "red light", "ann_id": 407182, "best_split": [1, 5], "split_score": 0.2840909090620849}
+{"sent": "green light", "ann_id": 402019, "best_split": [2, 3], "split_score": 0.29922779919169545}
+{"sent": "green arrow", "ann_id": 402019, "best_split": [2, 3], "split_score": 0.29922779919169545}
+{"sent": "green light", "ann_id": 402019, "best_split": [2, 3], "split_score": 0.29922779919169545}

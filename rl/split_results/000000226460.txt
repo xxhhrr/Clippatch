@@ -1,0 +1,7 @@
+{"sent": "not the nearest canoe", "ann_id": 180488, "best_split": [2, 1], "split_score": 0.23939441727490166}
+{"sent": "furthest boat behind lady", "ann_id": 180488, "best_split": [3, 3], "split_score": 0.3228910270392827}
+{"sent": "empty boat", "ann_id": 180488, "best_split": [5, 1], "split_score": 0.3330042776955409}
+{"sent": "the boat the boys are standing in", "ann_id": 179872, "best_split": [3, 2], "split_score": 0.43933750689917284}
+{"sent": "smaller boat", "ann_id": 179872, "best_split": [3, 1], "split_score": 0.45327179822793956}
+{"sent": "canoe they are standing on", "ann_id": 179872, "best_split": [3, 1], "split_score": 0.45327179822793956}
+{"sent": "canoe with the men in it", "ann_id": 179872, "best_split": [3, 2], "split_score": 0.43933750689917284}

@@ -1,0 +1,19 @@
+{"sent": "spiral binding", "ann_id": 1654736, "best_split": [1, 5], "split_score": 0.624837571874435}
+{"sent": "spiral binding", "ann_id": 1654736, "best_split": [1, 5], "split_score": 0.624837571874435}
+{"sent": "spiral notebook", "ann_id": 1654736, "best_split": [1, 5], "split_score": 0.624837571874435}
+{"sent": "white book", "ann_id": 1652216, "best_split": [3, 3], "split_score": 0.33824830428513}
+{"sent": "white book", "ann_id": 1652216, "best_split": [3, 3], "split_score": 0.33824830428513}
+{"sent": "book with london", "ann_id": 1143041, "best_split": [2, 2], "split_score": 0.29764651590100555}
+{"sent": "blue book no spirals", "ann_id": 1143041, "best_split": [3, 3], "split_score": 0.545510229015618}
+{"sent": "blue book", "ann_id": 1143041, "best_split": [2, 3], "split_score": 0.7098525988352152}
+{"sent": "red book", "ann_id": 1142326, "best_split": [2, 2], "split_score": 0.7356755985792706}
+{"sent": "red book", "ann_id": 1142326, "best_split": [2, 2], "split_score": 0.7356755985792706}
+{"sent": "red", "ann_id": 1142326, "best_split": [1, 5], "split_score": 0.3475340506034247}
+{"sent": "banana with label", "ann_id": 1043768, "best_split": [2, 1], "split_score": 0.6665836515394714}
+{"sent": "banana with sticker", "ann_id": 1043768, "best_split": [2, 1], "split_score": 0.6665836515394714}
+{"sent": "sticker", "ann_id": 1043768, "best_split": [2, 1], "split_score": 0.6665836515394714}
+{"sent": "banana number 1", "ann_id": 1043538, "best_split": [2, 2], "split_score": 0.7728521238727019}
+{"sent": "banana on corner", "ann_id": 1043538, "best_split": [2, 2], "split_score": 0.7728521238727019}
+{"sent": "no sticker fruit mostly in frame", "ann_id": 1041653, "best_split": [2, 1], "split_score": 0.49238182404187625}
+{"sent": "banana closest to books", "ann_id": 1041653, "best_split": [2, 1], "split_score": 0.49238182404187625}
+{"sent": "banana by the books", "ann_id": 1041653, "best_split": [2, 1], "split_score": 0.49238182404187625}

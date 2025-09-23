@@ -1,0 +1,6 @@
+{"sent": "piece of cake close by", "ann_id": 1576937, "best_split": [3, 1], "split_score": 0.18805110670097466}
+{"sent": "piece of cake", "ann_id": 1576937, "best_split": [3, 1], "split_score": 0.18805110670097466}
+{"sent": "single piece of cake", "ann_id": 1576937, "best_split": [3, 1], "split_score": 0.18805110670097466}
+{"sent": "big black cake", "ann_id": 1088354, "best_split": [2, 2], "split_score": 0.5715054176153458}
+{"sent": "cake on double plate", "ann_id": 1088354, "best_split": [2, 2], "split_score": 0.5715054176153458}
+{"sent": "big cake", "ann_id": 1088354, "best_split": [2, 2], "split_score": 0.5715054176153458}

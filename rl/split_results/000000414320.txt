@@ -1,0 +1,6 @@
+{"sent": "orange us embassy", "ann_id": 1302613, "best_split": [1, 3], "split_score": 0.5355272639665852}
+{"sent": "us embassy", "ann_id": 1302613, "best_split": [1, 3], "split_score": 0.5355272639665852}
+{"sent": "man in jeans pulling the luggage", "ann_id": 1302613, "best_split": [1, 3], "split_score": 0.5355272639665852}
+{"sent": "floral shirt", "ann_id": 1261641, "best_split": [3, 2], "split_score": 0.4614319198315116}
+{"sent": "woman with ugly floral shirt", "ann_id": 1261641, "best_split": [3, 2], "split_score": 0.4614319198315116}
+{"sent": "woman pink floral shirt", "ann_id": 1261641, "best_split": [3, 2], "split_score": 0.4614319198315116}

@@ -1,0 +1,8 @@
+{"sent": "the one grabbing something i think its the bartender", "ann_id": 1301701, "best_split": [3, 2], "split_score": 0.5208007506630591}
+{"sent": "person pouring drink", "ann_id": 1301701, "best_split": [3, 2], "split_score": 0.5208007506630591}
+{"sent": "man in green button down shirt", "ann_id": 1295154, "best_split": [5, 1], "split_score": 0.16616314198499335}
+{"sent": "man not serving drinks", "ann_id": 1295154, "best_split": [1, 5], "split_score": 0.5196850393335429}
+{"sent": "bald headed man", "ann_id": 1295154, "best_split": [1, 5], "split_score": 0.5196850393335429}
+{"sent": "head and shoulders with sunglasses", "ann_id": 1291158, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "woman with glasses on her head", "ann_id": 1291158, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "back of head", "ann_id": 1291158, "best_split": [2, 2], "split_score": 0.8534757652380839}

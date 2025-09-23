@@ -1,0 +1,6 @@
+{"sent": "sanwich portion closest to fries", "ann_id": 311419, "best_split": [5, 1], "split_score": 0.254437869798961}
+{"sent": "sandwich half closest to fries", "ann_id": 311419, "best_split": [5, 1], "split_score": 0.254437869798961}
+{"sent": "the half of the sandwich closest to the french fries", "ann_id": 311419, "best_split": [5, 1], "split_score": 0.254437869798961}
+{"sent": "half sand clise to fork", "ann_id": 310748, "best_split": [3, 2], "split_score": 0.579937304018423}
+{"sent": "half of sandwich with meat hanging out", "ann_id": 310748, "best_split": [3, 2], "split_score": 0.579937304018423}
+{"sent": "sandwich closest to pickle", "ann_id": 310748, "best_split": [3, 2], "split_score": 0.579937304018423}

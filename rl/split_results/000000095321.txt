@@ -1,0 +1,6 @@
+{"sent": "green shirt", "ann_id": 443836, "best_split": [3, 3], "split_score": 0.47019408497340637}
+{"sent": "green jersey", "ann_id": 443836, "best_split": [3, 3], "split_score": 0.47019408497340637}
+{"sent": "green", "ann_id": 443836, "best_split": [3, 3], "split_score": 0.47019408497340637}
+{"sent": "ball kicker", "ann_id": 434188, "best_split": [1, 5], "split_score": 0.5128160720027004}
+{"sent": "kicker", "ann_id": 434188, "best_split": [1, 5], "split_score": 0.5128160720027004}
+{"sent": "she has the ball", "ann_id": 434188, "best_split": [1, 5], "split_score": 0.5128160720027004}

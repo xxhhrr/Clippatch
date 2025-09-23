@@ -1,0 +1,12 @@
+{"sent": "blue shirt boy with back to us", "ann_id": 1258400, "best_split": [2, 2], "split_score": 0.2688839615470152}
+{"sent": "blue shirt gray shorts", "ann_id": 1258400, "best_split": [2, 2], "split_score": 0.2688839615470152}
+{"sent": "boy in the solid blue shirt", "ann_id": 1258400, "best_split": [2, 2], "split_score": 0.2688839615470152}
+{"sent": "blue striped shirt", "ann_id": 1256580, "best_split": [1, 5], "split_score": 0.36647727269008956}
+{"sent": "boy in striped shirt", "ann_id": 1256580, "best_split": [1, 5], "split_score": 0.36647727269008956}
+{"sent": "boy in blue stripes", "ann_id": 1256580, "best_split": [1, 5], "split_score": 0.36647727269008956}
+{"sent": "white shirt blue shorts near boy with striped shirt", "ann_id": 1226106, "best_split": [2, 3], "split_score": 0.3011953752399377}
+{"sent": "white shirt", "ann_id": 1226106, "best_split": [2, 3], "split_score": 0.3011953752399377}
+{"sent": "white shirt facing backward", "ann_id": 1226106, "best_split": [1, 3], "split_score": 0.2654306500665671}
+{"sent": "red shirt boy", "ann_id": 1289958, "best_split": [3, 3], "split_score": 0.28959039912736884}
+{"sent": "red shirt", "ann_id": 1289958, "best_split": [2, 3], "split_score": 0.3383220910267367}
+{"sent": "red jacket", "ann_id": 1289958, "best_split": [2, 2], "split_score": 0.2335564609841708}

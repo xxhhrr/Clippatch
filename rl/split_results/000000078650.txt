@@ -1,0 +1,5 @@
+{"sent": "glasses", "ann_id": 1740124, "best_split": [1, 2], "split_score": 0.2614795918263122}
+{"sent": "guy in tank with shades", "ann_id": 1740124, "best_split": [1, 5], "split_score": 0.6132075471095512}
+{"sent": "guy blackshirt out of frame", "ann_id": 499620, "best_split": [1, 2], "split_score": 0.27120535713204696}
+{"sent": "hes wearing a black shirt and is almost entirely off screen", "ann_id": 499620, "best_split": [3, 1], "split_score": 0.12859625409690112}
+{"sent": "man cut off at 300", "ann_id": 499620, "best_split": [1, 3], "split_score": 0.39457202502865657}

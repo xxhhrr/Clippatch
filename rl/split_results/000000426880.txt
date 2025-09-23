@@ -1,0 +1,9 @@
+{"sent": "broccolle", "ann_id": 1536098, "best_split": [2, 2], "split_score": 0.73692946053723}
+{"sent": "brocoli", "ann_id": 1536098, "best_split": [2, 2], "split_score": 0.73692946053723}
+{"sent": "bowl of broccoli", "ann_id": 1536098, "best_split": [2, 2], "split_score": 0.73692946053723}
+{"sent": "chilli", "ann_id": 1532130, "best_split": [1, 2], "split_score": 0.6428571428318156}
+{"sent": "chilli", "ann_id": 1532130, "best_split": [1, 2], "split_score": 0.6428571428318156}
+{"sent": "lookichili", "ann_id": 1532130, "best_split": [2, 2], "split_score": 0.21793800650773087}
+{"sent": "small bowl of chopped green onions", "ann_id": 715866, "best_split": [1, 5], "split_score": 0.16753926700004307}
+{"sent": "little white bowl", "ann_id": 715866, "best_split": [2, 2], "split_score": 0.20982142855470173}
+{"sent": "smallest bowl back", "ann_id": 715866, "best_split": [2, 1], "split_score": 0.10491071428153258}

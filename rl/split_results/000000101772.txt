@@ -1,0 +1,7 @@
+{"sent": "near us", "ann_id": 593584, "best_split": [2, 1], "split_score": 0.35681130170643766}
+{"sent": "zebra closest to us", "ann_id": 593584, "best_split": [1, 3], "split_score": 0.5264684064830242}
+{"sent": "hidden zebra whose head you can see", "ann_id": 590896, "best_split": [1, 2], "split_score": 0.603378378357994}
+{"sent": "darker drinking zebra", "ann_id": 590896, "best_split": [1, 2], "split_score": 0.603378378357994}
+{"sent": "zebra drinking showing less body", "ann_id": 590896, "best_split": [1, 2], "split_score": 0.603378378357994}
+{"sent": "smallest zebra with no head", "ann_id": 590142, "best_split": [3, 1], "split_score": 0.19948083066096842}
+{"sent": "smalles zebra", "ann_id": 590142, "best_split": [3, 1], "split_score": 0.19948083066096842}

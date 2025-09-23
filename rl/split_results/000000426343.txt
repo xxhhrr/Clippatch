@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 475788, "best_split": [1, 5], "split_score": 0.5674227894605236}
+{"sent": "her", "ann_id": 475788, "best_split": [1, 5], "split_score": 0.5674227894605236}
+{"sent": "girl", "ann_id": 475788, "best_split": [1, 5], "split_score": 0.5674227894605236}
+{"sent": "boy in brown", "ann_id": 470428, "best_split": [1, 2], "split_score": 0.5650111606917645}
+{"sent": "bot shirt", "ann_id": 470428, "best_split": [1, 2], "split_score": 0.5650111606917645}
+{"sent": "guy", "ann_id": 470428, "best_split": [1, 5], "split_score": 0.5291759465142108}

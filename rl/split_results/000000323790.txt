@@ -1,0 +1,6 @@
+{"sent": "sorry lower pizza", "ann_id": 1074001, "best_split": [2, 2], "split_score": 0.701257677642512}
+{"sent": "slice underneath", "ann_id": 1074001, "best_split": [2, 2], "split_score": 0.701257677642512}
+{"sent": "piece underneath", "ann_id": 1074001, "best_split": [2, 2], "split_score": 0.701257677642512}
+{"sent": "upper piece", "ann_id": 1072128, "best_split": [2, 1], "split_score": 0.4809399718543242}
+{"sent": "piece most seen", "ann_id": 1072128, "best_split": [2, 1], "split_score": 0.4809399718543242}
+{"sent": "food on the other food", "ann_id": 1072128, "best_split": [2, 1], "split_score": 0.4809399718543242}

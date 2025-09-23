@@ -1,0 +1,6 @@
+{"sent": "ba ba black sheep", "ann_id": 63997, "best_split": [5, 1], "split_score": 0.2664642521313913}
+{"sent": "darkest of the two", "ann_id": 63997, "best_split": [3, 2], "split_score": 0.5025433307740633}
+{"sent": "black sheep", "ann_id": 63997, "best_split": [5, 1], "split_score": 0.2664642521313913}
+{"sent": "hes looking at me", "ann_id": 61952, "best_split": [1, 3], "split_score": 0.4726613816320425}
+{"sent": "close sheep", "ann_id": 61952, "best_split": [1, 3], "split_score": 0.4726613816320425}
+{"sent": "sheep facing us", "ann_id": 61952, "best_split": [1, 3], "split_score": 0.4726613816320425}

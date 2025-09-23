@@ -1,0 +1,12 @@
+{"sent": "man in green", "ann_id": 1289273, "best_split": [2, 3], "split_score": 0.39769230765406804}
+{"sent": "man with green shirt", "ann_id": 1289273, "best_split": [2, 3], "split_score": 0.39769230765406804}
+{"sent": "green shrit", "ann_id": 1289273, "best_split": [3, 3], "split_score": 0.384506376903105}
+{"sent": "older man in shorts", "ann_id": 1275758, "best_split": [2, 3], "split_score": 0.39143938654843835}
+{"sent": "pokadot shirt", "ann_id": 1275758, "best_split": [3, 3], "split_score": 0.29526806785486476}
+{"sent": "older man green shorts dotted shirt", "ann_id": 1275758, "best_split": [2, 3], "split_score": 0.39143938654843835}
+{"sent": "woman red shirt", "ann_id": 1232501, "best_split": [2, 3], "split_score": 0.5953578335981279}
+{"sent": "woman red shirt", "ann_id": 1232501, "best_split": [2, 3], "split_score": 0.5953578335981279}
+{"sent": "woman in red", "ann_id": 1232501, "best_split": [3, 3], "split_score": 0.4283924842976626}
+{"sent": "man in blue shirt", "ann_id": 1302165, "best_split": [2, 3], "split_score": 0.39670306140048134}
+{"sent": "blue shirt with white stripes", "ann_id": 1302165, "best_split": [2, 3], "split_score": 0.39670306140048134}
+{"sent": "boy in striped shirt", "ann_id": 1302165, "best_split": [2, 3], "split_score": 0.39670306140048134}

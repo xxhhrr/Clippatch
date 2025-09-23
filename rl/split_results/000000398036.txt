@@ -1,0 +1,12 @@
+{"sent": "orange", "ann_id": 1710152, "best_split": [3, 2], "split_score": 0.4249617151201223}
+{"sent": "orange shirt", "ann_id": 1710152, "best_split": [3, 2], "split_score": 0.4249617151201223}
+{"sent": "orange shirt", "ann_id": 1710152, "best_split": [3, 2], "split_score": 0.4249617151201223}
+{"sent": "girl", "ann_id": 233978, "best_split": [2, 2], "split_score": 0.3442518118271812}
+{"sent": "little girl", "ann_id": 233978, "best_split": [2, 2], "split_score": 0.3442518118271812}
+{"sent": "small girl", "ann_id": 233978, "best_split": [2, 2], "split_score": 0.3442518118271812}
+{"sent": "red blanket", "ann_id": 114269, "best_split": [3, 3], "split_score": 0.4584780548692014}
+{"sent": "blanket", "ann_id": 114269, "best_split": [3, 3], "split_score": 0.4584780548692014}
+{"sent": "red blanket on sofa", "ann_id": 114269, "best_split": [3, 3], "split_score": 0.4584780548692014}
+{"sent": "black couch", "ann_id": 99357, "best_split": [1, 2], "split_score": 0.27104060230203814}
+{"sent": "black leather couch", "ann_id": 99357, "best_split": [3, 2], "split_score": 0.5905673273517656}
+{"sent": "black couch pillows", "ann_id": 99357, "best_split": [3, 2], "split_score": 0.5905673273517656}

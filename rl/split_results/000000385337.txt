@@ -1,0 +1,6 @@
+{"sent": "number 55", "ann_id": 491332, "best_split": [1, 3], "split_score": 0.2593302581765213}
+{"sent": "high five", "ann_id": 491332, "best_split": [1, 5], "split_score": 0.3397658079307011}
+{"sent": "catcher", "ann_id": 491332, "best_split": [3, 2], "split_score": 0.2785140561969363}
+{"sent": "pitcher", "ann_id": 467037, "best_split": [1, 5], "split_score": 0.5158279220255856}
+{"sent": "red shirt facing us", "ann_id": 467037, "best_split": [3, 3], "split_score": 0.3955332363690322}
+{"sent": "48", "ann_id": 467037, "best_split": [3, 1], "split_score": 0.16033642255529348}

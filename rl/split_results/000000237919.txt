@@ -1,0 +1,6 @@
+{"sent": "shorter player", "ann_id": 502610, "best_split": [3, 3], "split_score": 0.4173813607179272}
+{"sent": "man n white not holding the tennise racket", "ann_id": 502610, "best_split": [3, 3], "split_score": 0.4173813607179272}
+{"sent": "player without racket showing", "ann_id": 502610, "best_split": [2, 3], "split_score": 0.30303030299928024}
+{"sent": "man with racket in hand", "ann_id": 421201, "best_split": [1, 5], "split_score": 0.2957351290447543}
+{"sent": "guy 2", "ann_id": 421201, "best_split": [1, 5], "split_score": 0.2957351290447543}
+{"sent": "player on nearest side", "ann_id": 421201, "best_split": [3, 2], "split_score": 0.367469315059733}

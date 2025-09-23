@@ -1,0 +1,12 @@
+{"sent": "standing man", "ann_id": 1732500, "best_split": [1, 2], "split_score": 0.6995709741586075}
+{"sent": "person cutting cake", "ann_id": 1732500, "best_split": [1, 3], "split_score": 0.333321462898995}
+{"sent": "cutting the cake", "ann_id": 1732500, "best_split": [1, 3], "split_score": 0.333321462898995}
+{"sent": "girl with glasses", "ann_id": 541279, "best_split": [2, 3], "split_score": 0.6259591383354017}
+{"sent": "glasses", "ann_id": 541279, "best_split": [2, 3], "split_score": 0.6259591383354017}
+{"sent": "girl with glasses", "ann_id": 541279, "best_split": [2, 3], "split_score": 0.6259591383354017}
+{"sent": "green", "ann_id": 477804, "best_split": [1, 5], "split_score": 0.5117920744014285}
+{"sent": "green dress", "ann_id": 477804, "best_split": [1, 5], "split_score": 0.5117920744014285}
+{"sent": "green shirt", "ann_id": 477804, "best_split": [1, 5], "split_score": 0.5117920744014285}
+{"sent": "blond hair", "ann_id": 465027, "best_split": [1, 2], "split_score": 0.7231345662977067}
+{"sent": "blond hair", "ann_id": 465027, "best_split": [1, 2], "split_score": 0.7231345662977067}
+{"sent": "blond girl", "ann_id": 465027, "best_split": [1, 2], "split_score": 0.7231345662977067}

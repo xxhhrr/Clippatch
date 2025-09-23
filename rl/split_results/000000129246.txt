@@ -1,0 +1,9 @@
+{"sent": "boy in blue", "ann_id": 1718832, "best_split": [3, 1], "split_score": 0.2417095410197285}
+{"sent": "child in the blue shirt", "ann_id": 1718832, "best_split": [3, 3], "split_score": 0.55620677522492}
+{"sent": "child with blue tshirt", "ann_id": 1718832, "best_split": [3, 3], "split_score": 0.55620677522492}
+{"sent": "kid in gray", "ann_id": 190037, "best_split": [3, 2], "split_score": 0.3192750677236386}
+{"sent": "child in white", "ann_id": 190037, "best_split": [3, 2], "split_score": 0.3192750677236386}
+{"sent": "gray shirt kid", "ann_id": 190037, "best_split": [3, 2], "split_score": 0.3192750677236386}
+{"sent": "woman", "ann_id": 2157026, "best_split": [1, 2], "split_score": 0.8158083545593189}
+{"sent": "adult", "ann_id": 2157026, "best_split": [2, 1], "split_score": 0.31316479777714207}
+{"sent": "adult", "ann_id": 2157026, "best_split": [2, 1], "split_score": 0.31316479777714207}

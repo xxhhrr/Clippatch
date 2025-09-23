@@ -1,0 +1,9 @@
+{"sent": "white shirt man", "ann_id": 212764, "best_split": [1, 3], "split_score": 0.6507254164039211}
+{"sent": "bald guy", "ann_id": 212764, "best_split": [1, 3], "split_score": 0.6507254164039211}
+{"sent": "man with white shirt", "ann_id": 212764, "best_split": [1, 3], "split_score": 0.6507254164039211}
+{"sent": "man black shirt", "ann_id": 212743, "best_split": [1, 5], "split_score": 0.3800813007762213}
+{"sent": "black shirt cacasian", "ann_id": 212743, "best_split": [1, 5], "split_score": 0.3800813007762213}
+{"sent": "man in black", "ann_id": 212743, "best_split": [1, 5], "split_score": 0.3800813007762213}
+{"sent": "girl in white", "ann_id": 191807, "best_split": [2, 2], "split_score": 0.3207067496936121}
+{"sent": "lady cooking", "ann_id": 191807, "best_split": [2, 1], "split_score": 0.17844260555278157}
+{"sent": "only girl in picture", "ann_id": 191807, "best_split": [3, 1], "split_score": 0.20916179336212662}

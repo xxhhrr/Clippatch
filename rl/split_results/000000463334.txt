@@ -1,0 +1,6 @@
+{"sent": "man in lightest shirt", "ann_id": 459837, "best_split": [3, 1], "split_score": 0.2875568416582242}
+{"sent": "man with arms crossed", "ann_id": 459837, "best_split": [2, 1], "split_score": 0.2597839898265634}
+{"sent": "crossed arms", "ann_id": 459837, "best_split": [2, 1], "split_score": 0.2597839898265634}
+{"sent": "darker shirt", "ann_id": 439725, "best_split": [1, 2], "split_score": 0.7337372448687126}
+{"sent": "black shirt", "ann_id": 439725, "best_split": [1, 2], "split_score": 0.7337372448687126}
+{"sent": "black darker shirt", "ann_id": 439725, "best_split": [1, 2], "split_score": 0.7337372448687126}

@@ -1,0 +1,9 @@
+{"sent": "white shirt facing away", "ann_id": 1735346, "best_split": [1, 5], "split_score": 0.41233766229582614}
+{"sent": "far background white shirt", "ann_id": 1735346, "best_split": [2, 1], "split_score": 0.13874999999458007}
+{"sent": "man in white shirt in background looking down", "ann_id": 1735346, "best_split": [2, 1], "split_score": 0.13874999999458007}
+{"sent": "girl", "ann_id": 1733572, "best_split": [3, 1], "split_score": 0.25951586689506817}
+{"sent": "girl on cell phone", "ann_id": 1733572, "best_split": [2, 2], "split_score": 0.5196699748583241}
+{"sent": "girl", "ann_id": 1733572, "best_split": [3, 1], "split_score": 0.25951586689506817}
+{"sent": "man", "ann_id": 515824, "best_split": [1, 2], "split_score": 0.7051394491946977}
+{"sent": "man", "ann_id": 515824, "best_split": [1, 2], "split_score": 0.7051394491946977}
+{"sent": "man", "ann_id": 515824, "best_split": [1, 2], "split_score": 0.7051394491946977}

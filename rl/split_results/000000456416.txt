@@ -1,0 +1,5 @@
+{"sent": "bus with destination displayed in lights", "ann_id": 248454, "best_split": [3, 2], "split_score": 0.433802187939964}
+{"sent": "bus with orange letters showing the route", "ann_id": 248454, "best_split": [3, 2], "split_score": 0.433802187939964}
+{"sent": "bus slightly ahead of other buses", "ann_id": 248454, "best_split": [3, 2], "split_score": 0.433802187939964}
+{"sent": "bus behind the orange pole", "ann_id": 168637, "best_split": [3, 3], "split_score": 0.5957801220716573}
+{"sent": "yellow pole bus", "ann_id": 168637, "best_split": [3, 3], "split_score": 0.5957801220716573}

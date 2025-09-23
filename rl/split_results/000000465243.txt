@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 1239760, "best_split": [1, 3], "split_score": 0.79519097772129}
+{"sent": "old lady", "ann_id": 1239760, "best_split": [1, 3], "split_score": 0.79519097772129}
+{"sent": "lady", "ann_id": 1239760, "best_split": [1, 3], "split_score": 0.79519097772129}
+{"sent": "person in blue mostly out of picture", "ann_id": 2165242, "best_split": [5, 1], "split_score": 0.1856141856009142}
+{"sent": "guy in corner", "ann_id": 2165242, "best_split": [1, 5], "split_score": 0.43368493857568}
+{"sent": "man with only arm showing", "ann_id": 2165242, "best_split": [3, 3], "split_score": 0.5426042982879135}
+{"sent": "cloth chair back", "ann_id": 374717, "best_split": [2, 1], "split_score": 0.08227040815998603}
+{"sent": "chair back closest to grandma", "ann_id": 374717, "best_split": [2, 1], "split_score": 0.08227040815998603}
+{"sent": "chair next to the old lady", "ann_id": 374717, "best_split": [1, 2], "split_score": 0.059962523420519886}
+{"sent": "the chair the man is touching", "ann_id": 373633, "best_split": [3, 3], "split_score": 0.4647955091475869}
+{"sent": "chair with hand on it", "ann_id": 373633, "best_split": [3, 3], "split_score": 0.4647955091475869}
+{"sent": "chair with mans hand on it", "ann_id": 373633, "best_split": [3, 3], "split_score": 0.4647955091475869}

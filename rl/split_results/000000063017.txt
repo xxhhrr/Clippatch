@@ -1,0 +1,3 @@
+{"sent": "bird not with the bread", "ann_id": 41373, "best_split": [3, 2], "split_score": 0.34687499996128623}
+{"sent": "bird with chest facing us", "ann_id": 41373, "best_split": [3, 1], "split_score": 0.1801948051843579}
+{"sent": "chest at ya", "ann_id": 41373, "best_split": [1, 2], "split_score": 0.1506696428511372}

@@ -1,0 +1,6 @@
+{"sent": "blue partial cabinet", "ann_id": 1798241, "best_split": [1, 5], "split_score": 0.5615868505923715}
+{"sent": "box with red dot", "ann_id": 1798241, "best_split": [1, 5], "split_score": 0.5615868505923715}
+{"sent": "partial truck", "ann_id": 1798241, "best_split": [3, 2], "split_score": 0.22980427044218824}
+{"sent": "red box", "ann_id": 1798035, "best_split": [2, 3], "split_score": 0.4986202138238513}
+{"sent": "red container", "ann_id": 1798035, "best_split": [2, 3], "split_score": 0.4986202138238513}
+{"sent": "red box thing", "ann_id": 1798035, "best_split": [2, 3], "split_score": 0.4986202138238513}

@@ -1,0 +1,12 @@
+{"sent": "the woman in the reddish tanktop", "ann_id": 512244, "best_split": [1, 5], "split_score": 0.4389173371946857}
+{"sent": "girl in orange", "ann_id": 512244, "best_split": [1, 5], "split_score": 0.4389173371946857}
+{"sent": "girl in back", "ann_id": 512244, "best_split": [1, 5], "split_score": 0.4389173371946857}
+{"sent": "khaki vest man in corner", "ann_id": 505663, "best_split": [3, 2], "split_score": 0.18483927017975246}
+{"sent": "brown and yellow plaid shirt", "ann_id": 505663, "best_split": [2, 2], "split_score": 0.20460683080185807}
+{"sent": "older man with badge in background", "ann_id": 505663, "best_split": [2, 1], "split_score": 0.10249065011130379}
+{"sent": "closest person in red", "ann_id": 485253, "best_split": [2, 1], "split_score": 0.4723798397765275}
+{"sent": "arm of lady holding phone", "ann_id": 485253, "best_split": [2, 1], "split_score": 0.4723798397765275}
+{"sent": "the hands using the phone", "ann_id": 485253, "best_split": [2, 1], "split_score": 0.4723798397765275}
+{"sent": "guy leaning in", "ann_id": 430385, "best_split": [2, 1], "split_score": 0.46418102941540096}
+{"sent": "gray shirt", "ann_id": 430385, "best_split": [1, 3], "split_score": 0.4285714285566543}
+{"sent": "gray and blue shirt", "ann_id": 430385, "best_split": [1, 3], "split_score": 0.4285714285566543}

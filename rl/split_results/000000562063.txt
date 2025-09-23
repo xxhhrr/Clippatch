@@ -1,0 +1,15 @@
+{"sent": "lady with no umbrella", "ann_id": 1269751, "best_split": [5, 1], "split_score": 0.1788617886049026}
+{"sent": "girl all the way", "ann_id": 1269751, "best_split": [3, 1], "split_score": 0.21301775146803584}
+{"sent": "woman in back row looking away", "ann_id": 1269751, "best_split": [1, 2], "split_score": 0.25446428570414287}
+{"sent": "standing woman with short dress and visible legs", "ann_id": 454257, "best_split": [3, 2], "split_score": 0.3086623338530738}
+{"sent": "woman standing holding the dark umbrella", "ann_id": 454257, "best_split": [2, 3], "split_score": 0.3039822153195455}
+{"sent": "woman with dark umbrella", "ann_id": 454257, "best_split": [2, 3], "split_score": 0.3039822153195455}
+{"sent": "woman on ground", "ann_id": 434937, "best_split": [3, 3], "split_score": 0.7181088312937691}
+{"sent": "lady sitting", "ann_id": 434937, "best_split": [3, 3], "split_score": 0.7181088312937691}
+{"sent": "woman wearing polka dot dress", "ann_id": 434937, "best_split": [3, 3], "split_score": 0.7181088312937691}
+{"sent": "lowest umbrella", "ann_id": 287188, "best_split": [2, 1], "split_score": 0.14007884362154763}
+{"sent": "the umbrella the lady sitting down is holding", "ann_id": 287188, "best_split": [2, 1], "split_score": 0.14007884362154763}
+{"sent": "white umbrella", "ann_id": 287188, "best_split": [2, 1], "split_score": 0.14007884362154763}
+{"sent": "highest umbrella", "ann_id": 286973, "best_split": [3, 3], "split_score": 0.652267047366607}
+{"sent": "darker umbrella", "ann_id": 286973, "best_split": [3, 3], "split_score": 0.652267047366607}
+{"sent": "white umbrealla in back", "ann_id": 281181, "best_split": [3, 3], "split_score": 0.6276901003178461}

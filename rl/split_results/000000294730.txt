@@ -1,0 +1,9 @@
+{"sent": "half a person with a hand very back", "ann_id": 1737660, "best_split": [3, 1], "split_score": 0.186233108096873}
+{"sent": "black blob at end of table", "ann_id": 1737660, "best_split": [2, 2], "split_score": 0.24609374998038155}
+{"sent": "black leg in corner", "ann_id": 1737660, "best_split": [3, 2], "split_score": 0.3724662161712758}
+{"sent": "person with black shirt sitting", "ann_id": 451535, "best_split": [3, 3], "split_score": 0.6795887408259583}
+{"sent": "guy eating with black shirt on", "ann_id": 451535, "best_split": [3, 3], "split_score": 0.6795887408259583}
+{"sent": "smaller man", "ann_id": 451535, "best_split": [1, 3], "split_score": 0.2505936831957615}
+{"sent": "person cutting the cake", "ann_id": 440390, "best_split": [1, 3], "split_score": 0.47948628543469646}
+{"sent": "woman in pink", "ann_id": 440390, "best_split": [1, 2], "split_score": 0.724908573729468}
+{"sent": "closest person", "ann_id": 440390, "best_split": [1, 2], "split_score": 0.724908573729468}

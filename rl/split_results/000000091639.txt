@@ -1,0 +1,6 @@
+{"sent": "table in back checked cloth", "ann_id": 1961472, "best_split": [2, 3], "split_score": 0.7579815622748198}
+{"sent": "far table", "ann_id": 1961472, "best_split": [2, 3], "split_score": 0.7579815622748198}
+{"sent": "table part on side", "ann_id": 1961472, "best_split": [2, 3], "split_score": 0.7579815622748198}
+{"sent": "pizza and tomatoes and peppers sitting on table", "ann_id": 390459, "best_split": [2, 1], "split_score": 0.4702098366770269}
+{"sent": "pizza", "ann_id": 390459, "best_split": [2, 1], "split_score": 0.4702098366770269}
+{"sent": "pizza pie", "ann_id": 390459, "best_split": [2, 1], "split_score": 0.4702098366770269}

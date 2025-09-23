@@ -1,0 +1,3 @@
+{"sent": "kid picking giraffes nose", "ann_id": 493225, "best_split": [3, 1], "split_score": 0.2342624490969414}
+{"sent": "kid", "ann_id": 493225, "best_split": [2, 3], "split_score": 0.4751203851964289}
+{"sent": "baby", "ann_id": 493225, "best_split": [2, 3], "split_score": 0.4751203851964289}

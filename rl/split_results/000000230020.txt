@@ -1,0 +1,6 @@
+{"sent": "bag laying", "ann_id": 1445399, "best_split": [2, 3], "split_score": 0.42294106707353213}
+{"sent": "long rectangle luggage behind bookbag", "ann_id": 1445399, "best_split": [3, 1], "split_score": 0.15916683041073065}
+{"sent": "long case", "ann_id": 1445399, "best_split": [3, 1], "split_score": 0.15916683041073065}
+{"sent": "standing suitcase", "ann_id": 1184446, "best_split": [3, 3], "split_score": 0.4121162726959907}
+{"sent": "luggage by person at 3", "ann_id": 1184446, "best_split": [3, 3], "split_score": 0.4121162726959907}
+{"sent": "bag sandwiched at 3 o clock", "ann_id": 1184446, "best_split": [3, 2], "split_score": 0.29821112637131797}

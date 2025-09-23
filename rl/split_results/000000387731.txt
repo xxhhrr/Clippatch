@@ -1,0 +1,6 @@
+{"sent": "black and white ship", "ann_id": 1802162, "best_split": [5, 1], "split_score": 0.4743111757320804}
+{"sent": "boat that isnt green", "ann_id": 1802162, "best_split": [2, 2], "split_score": 0.19046419347543841}
+{"sent": "big boat not green", "ann_id": 1802162, "best_split": [2, 2], "split_score": 0.19046419347543841}
+{"sent": "long green", "ann_id": 177187, "best_split": [5, 1], "split_score": 0.7122564934342271}
+{"sent": "green boat", "ann_id": 177187, "best_split": [5, 1], "split_score": 0.7122564934342271}
+{"sent": "green boat", "ann_id": 177187, "best_split": [5, 1], "split_score": 0.7122564934342271}

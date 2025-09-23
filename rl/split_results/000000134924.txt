@@ -1,0 +1,6 @@
+{"sent": "man in tan coat", "ann_id": 2153750, "best_split": [1, 2], "split_score": 0.8681441326184572}
+{"sent": "wearing jacket", "ann_id": 2153750, "best_split": [1, 2], "split_score": 0.8681441326184572}
+{"sent": "man half out of frame", "ann_id": 2153750, "best_split": [2, 1], "split_score": 0.3062794392177519}
+{"sent": "tie", "ann_id": 1732416, "best_split": [2, 1], "split_score": 0.46863508837554446}
+{"sent": "man doing the tie", "ann_id": 1732416, "best_split": [2, 1], "split_score": 0.46863508837554446}
+{"sent": "man tying tie", "ann_id": 1732416, "best_split": [2, 1], "split_score": 0.46863508837554446}

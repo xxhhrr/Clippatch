@@ -1,0 +1,8 @@
+{"sent": "blurry carrots", "ann_id": 1566294, "best_split": [2, 1], "split_score": 0.7047518719726461}
+{"sent": "carrots", "ann_id": 1566294, "best_split": [2, 1], "split_score": 0.7047518719726461}
+{"sent": "blurry carrots", "ann_id": 1566294, "best_split": [2, 1], "split_score": 0.7047518719726461}
+{"sent": "carrot row 2 no 3", "ann_id": 1566173, "best_split": [2, 3], "split_score": 0.22623978504128067}
+{"sent": "third carrot", "ann_id": 1566173, "best_split": [3, 1], "split_score": 0.13952386591617175}
+{"sent": "lowest row biggest carrot", "ann_id": 1062328, "best_split": [5, 1], "split_score": 0.3462157809635451}
+{"sent": "red thing in the mi", "ann_id": 1061804, "best_split": [3, 2], "split_score": 0.14303405571279318}
+{"sent": "small orange under big orange", "ann_id": 1061804, "best_split": [2, 1], "split_score": 0.11112882652618268}

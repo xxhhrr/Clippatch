@@ -1,0 +1,5 @@
+{"sent": "yellow boat", "ann_id": 177472, "best_split": [3, 1], "split_score": 0.07530312699125306}
+{"sent": "boat with orange trim", "ann_id": 177472, "best_split": [1, 2], "split_score": 0.017672710580167755}
+{"sent": "white boat", "ann_id": 177342, "best_split": [1, 2], "split_score": 0.4854793526575409}
+{"sent": "anywhere on boat closest", "ann_id": 177342, "best_split": [1, 2], "split_score": 0.4854793526575409}
+{"sent": "boat in foreground", "ann_id": 177342, "best_split": [1, 2], "split_score": 0.4854793526575409}

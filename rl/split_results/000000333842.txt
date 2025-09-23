@@ -1,0 +1,6 @@
+{"sent": "above yellow", "ann_id": 124379, "best_split": [2, 2], "split_score": 0.7559789540213665}
+{"sent": "black csamung moniter", "ann_id": 124379, "best_split": [3, 2], "split_score": 0.8311179803368245}
+{"sent": "smagung laptop in the corner", "ann_id": 124379, "best_split": [3, 2], "split_score": 0.8311179803368245}
+{"sent": "tv", "ann_id": 31832, "best_split": [1, 2], "split_score": 0.5743781887526157}
+{"sent": "monitor with keyboard", "ann_id": 31832, "best_split": [2, 1], "split_score": 0.4533078224868162}
+{"sent": "monitor with very little grass showing", "ann_id": 31832, "best_split": [2, 1], "split_score": 0.4533078224868162}

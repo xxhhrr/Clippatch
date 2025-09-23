@@ -1,0 +1,9 @@
+{"sent": "boy near tree", "ann_id": 457989, "best_split": [3, 2], "split_score": 0.1311230114875474}
+{"sent": "bigger boy", "ann_id": 457989, "best_split": [1, 2], "split_score": 0.2421476402964705}
+{"sent": "kid in black", "ann_id": 457989, "best_split": [3, 3], "split_score": 0.40506021160381217}
+{"sent": "yellow frisbee", "ann_id": 423516, "best_split": [1, 5], "split_score": 0.5451842061337201}
+{"sent": "girl with yellow frisbee", "ann_id": 423516, "best_split": [1, 5], "split_score": 0.5451842061337201}
+{"sent": "girl in printed coat", "ann_id": 423516, "best_split": [1, 2], "split_score": 0.3527582908022657}
+{"sent": "boy in blue hood", "ann_id": 421183, "best_split": [1, 2], "split_score": 0.4949921956134563}
+{"sent": "kid holding bird", "ann_id": 421183, "best_split": [1, 2], "split_score": 0.4949921956134563}
+{"sent": "kid closest", "ann_id": 421183, "best_split": [1, 2], "split_score": 0.4949921956134563}

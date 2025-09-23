@@ -1,0 +1,6 @@
+{"sent": "the smaller laptop", "ann_id": 1103087, "best_split": [3, 1], "split_score": 0.2844664099600904}
+{"sent": "laptop beside the closest one to us", "ann_id": 1103087, "best_split": [3, 2], "split_score": 0.5431800723644047}
+{"sent": "screen with face", "ann_id": 1103087, "best_split": [3, 1], "split_score": 0.2844664099600904}
+{"sent": "laptop", "ann_id": 1102432, "best_split": [1, 2], "split_score": 0.45055099317573694}
+{"sent": "dell laptop near mouse", "ann_id": 1102432, "best_split": [1, 2], "split_score": 0.45055099317573694}
+{"sent": "closest laptop", "ann_id": 1102432, "best_split": [1, 2], "split_score": 0.45055099317573694}

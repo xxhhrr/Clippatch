@@ -1,0 +1,11 @@
+{"sent": "elephant with tusks most of body is off screen", "ann_id": 1410620, "best_split": [3, 2], "split_score": 0.17309131734907454}
+{"sent": "elephant at 3 oclick mostly out of frame", "ann_id": 1410620, "best_split": [3, 2], "split_score": 0.17309131734907454}
+{"sent": "next to half elephant", "ann_id": 1410217, "best_split": [3, 3], "split_score": 0.4802595997187318}
+{"sent": "not the littlest but next up", "ann_id": 1410217, "best_split": [1, 2], "split_score": 0.21811224488926528}
+{"sent": "baby elephant at 300", "ann_id": 1410217, "best_split": [3, 3], "split_score": 0.4802595997187318}
+{"sent": "lead elephant", "ann_id": 1410171, "best_split": [1, 2], "split_score": 0.5112005739592155}
+{"sent": "the leader", "ann_id": 1410171, "best_split": [3, 1], "split_score": 0.23269464591703934}
+{"sent": "biggest elephant at 9 o clock", "ann_id": 1410171, "best_split": [1, 2], "split_score": 0.5112005739592155}
+{"sent": "not the tallest and not the smallest elephant", "ann_id": 1409466, "best_split": [1, 3], "split_score": 0.5119061863999099}
+{"sent": "closest elephant", "ann_id": 1409466, "best_split": [3, 1], "split_score": 0.2262228260759791}
+{"sent": "medium elephant near you", "ann_id": 1409466, "best_split": [1, 3], "split_score": 0.5119061863999099}

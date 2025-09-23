@@ -1,0 +1,5 @@
+{"sent": "yellow and white umbrella closest", "ann_id": 284484, "best_split": [3, 3], "split_score": 0.41431463613024716}
+{"sent": "between blue the yellow one", "ann_id": 284484, "best_split": [3, 2], "split_score": 0.3271889400626015}
+{"sent": "smallest yellow cone", "ann_id": 283548, "best_split": [2, 1], "split_score": 0.2947624362127407}
+{"sent": "tallest umbrella", "ann_id": 283548, "best_split": [1, 3], "split_score": 0.35375840061253977}
+{"sent": "highest umbrella", "ann_id": 283548, "best_split": [1, 3], "split_score": 0.35375840061253977}

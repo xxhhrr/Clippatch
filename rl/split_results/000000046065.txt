@@ -1,0 +1,18 @@
+{"sent": "largest chocolate furthest from orange", "ann_id": 2118617, "best_split": [5, 1], "split_score": 0.359808252621505}
+{"sent": "highest piece of chocolat", "ann_id": 2118248, "best_split": [3, 1], "split_score": 0.173745173734692}
+{"sent": "furthest chocolate", "ann_id": 2118248, "best_split": [3, 1], "split_score": 0.173745173734692}
+{"sent": "candy at back of plate with lest topping", "ann_id": 2118164, "best_split": [3, 3], "split_score": 0.4554419283317308}
+{"sent": "12 o clock chocolate", "ann_id": 1928359, "best_split": [3, 1], "split_score": 0.16324806948822104}
+{"sent": "chocolate closest to orange", "ann_id": 1928359, "best_split": [1, 5], "split_score": 0.1501556491347596}
+{"sent": "chocolate with drizzle going different way", "ann_id": 1927470, "best_split": [5, 1], "split_score": 0.34057013400598735}
+{"sent": "candy with horizontal stripes", "ann_id": 1927470, "best_split": [3, 1], "split_score": 0.07590249922472989}
+{"sent": "chocolate that is furthest away from oranges the one closest to us and the edge", "ann_id": 1088709, "best_split": [1, 2], "split_score": 0.14062499999439473}
+{"sent": "chocolate desert at 500", "ann_id": 1088709, "best_split": [2, 3], "split_score": 0.39273927388110097}
+{"sent": "higher row number 2", "ann_id": 1087894, "best_split": [2, 1], "split_score": 0.03956753509874737}
+{"sent": "chocolate candy with one zigzag", "ann_id": 1087894, "best_split": [3, 3], "split_score": 0.47552958355085284}
+{"sent": "chocalate at 300", "ann_id": 1087894, "best_split": [3, 3], "split_score": 0.47552958355085284}
+{"sent": "uncut orange", "ann_id": 1051583, "best_split": [5, 1], "split_score": 0.37654770571954227}
+{"sent": "the orange that is not cut", "ann_id": 1051583, "best_split": [5, 1], "split_score": 0.37654770571954227}
+{"sent": "an orange at the edge", "ann_id": 1051583, "best_split": [5, 1], "split_score": 0.37654770571954227}
+{"sent": "slice orange", "ann_id": 1050611, "best_split": [3, 2], "split_score": 0.47690217386676026}
+{"sent": "orange slice", "ann_id": 1050611, "best_split": [3, 2], "split_score": 0.47690217386676026}

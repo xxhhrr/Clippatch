@@ -1,0 +1,9 @@
+{"sent": "stainless steel fridge door that is cut off", "ann_id": 1647159, "best_split": [1, 2], "split_score": 0.3300382652929672}
+{"sent": "900", "ann_id": 1647159, "best_split": [2, 1], "split_score": 0.14524986270780993}
+{"sent": "steal being cut off", "ann_id": 1647159, "best_split": [1, 5], "split_score": 0.7445171218983727}
+{"sent": "black", "ann_id": 1646828, "best_split": [1, 5], "split_score": 0.5676917638239933}
+{"sent": "black fridge", "ann_id": 1646828, "best_split": [1, 3], "split_score": 0.46274369091838635}
+{"sent": "black fridge", "ann_id": 1646828, "best_split": [1, 3], "split_score": 0.46274369091838635}
+{"sent": "not cut off", "ann_id": 332481, "best_split": [2, 1], "split_score": 0.33790672450276826}
+{"sent": "fridge in main focus", "ann_id": 332481, "best_split": [1, 3], "split_score": 0.4881906983347357}
+{"sent": "steel appliance", "ann_id": 332481, "best_split": [1, 3], "split_score": 0.4881906983347357}

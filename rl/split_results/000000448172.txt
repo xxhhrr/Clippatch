@@ -1,0 +1,12 @@
+{"sent": "coffee cup", "ann_id": 1506461, "best_split": [3, 3], "split_score": 0.4506590665388922}
+{"sent": "esspresso", "ann_id": 1506461, "best_split": [3, 3], "split_score": 0.4506590665388922}
+{"sent": "coffee cup", "ann_id": 1506461, "best_split": [3, 3], "split_score": 0.4506590665388922}
+{"sent": "orange juice", "ann_id": 679667, "best_split": [2, 3], "split_score": 0.35907335903003457}
+{"sent": "glass with orange juice in it", "ann_id": 679667, "best_split": [2, 3], "split_score": 0.35907335903003457}
+{"sent": "cup of juice", "ann_id": 679667, "best_split": [2, 3], "split_score": 0.35907335903003457}
+{"sent": "sandwich half by fries", "ann_id": 312671, "best_split": [3, 3], "split_score": 0.43909555062887007}
+{"sent": "sandwich closest to fries", "ann_id": 312671, "best_split": [3, 3], "split_score": 0.43909555062887007}
+{"sent": "sandwich half that is by salad", "ann_id": 312671, "best_split": [2, 3], "split_score": 0.381388253200241}
+{"sent": "lower half of sandwich", "ann_id": 311885, "best_split": [3, 3], "split_score": 0.6082491302620094}
+{"sent": "closest sandwich", "ann_id": 311885, "best_split": [3, 3], "split_score": 0.6082491302620094}
+{"sent": "closest sandwich", "ann_id": 311885, "best_split": [3, 3], "split_score": 0.6082491302620094}

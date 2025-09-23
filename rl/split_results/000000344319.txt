@@ -1,0 +1,12 @@
+{"sent": "horse in between white and black horse", "ann_id": 275108, "best_split": [1, 2], "split_score": 0.36758609692412364}
+{"sent": "dark horse by white horse", "ann_id": 275108, "best_split": [1, 5], "split_score": 0.39540667053866246}
+{"sent": "black horse next to white", "ann_id": 275108, "best_split": [1, 5], "split_score": 0.39540667053866246}
+{"sent": "white horse looking straight ahead", "ann_id": 274921, "best_split": [3, 1], "split_score": 0.14285714284968917}
+{"sent": "white horse not tethered to the others", "ann_id": 274921, "best_split": [3, 1], "split_score": 0.14285714284968917}
+{"sent": "horse at 3 o clock", "ann_id": 274921, "best_split": [3, 1], "split_score": 0.14285714284968917}
+{"sent": "white horse looking down nearest us", "ann_id": 274694, "best_split": [3, 3], "split_score": 0.47791666661688365}
+{"sent": "white horse closest to the black one", "ann_id": 274694, "best_split": [3, 3], "split_score": 0.47791666661688365}
+{"sent": "white horse with head down", "ann_id": 274694, "best_split": [3, 3], "split_score": 0.47791666661688365}
+{"sent": "darkest all over horse", "ann_id": 53500, "best_split": [1, 3], "split_score": 0.49251930498959223}
+{"sent": "the black horse with black feet", "ann_id": 53500, "best_split": [1, 2], "split_score": 0.3254145408033556}
+{"sent": "fartherest horse", "ann_id": 53500, "best_split": [1, 2], "split_score": 0.3254145408033556}

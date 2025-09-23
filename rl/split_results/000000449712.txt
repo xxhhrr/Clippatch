@@ -1,0 +1,7 @@
+{"sent": "a woman carrying a suitcase with a black bag over her shoulder", "ann_id": 1295645, "best_split": [2, 2], "split_score": 0.2835744928173072}
+{"sent": "woman dragging large gray bag", "ann_id": 1295645, "best_split": [2, 3], "split_score": 0.16526050272547094}
+{"sent": "woman pulling black bag", "ann_id": 1295645, "best_split": [2, 3], "split_score": 0.16526050272547094}
+{"sent": "man in all gray with backpack", "ann_id": 1273806, "best_split": [2, 3], "split_score": 0.35770456956878804}
+{"sent": "hooded shirt and tan back pack", "ann_id": 1273806, "best_split": [2, 3], "split_score": 0.35770456956878804}
+{"sent": "woman carrying purse on the side", "ann_id": 1223699, "best_split": [2, 2], "split_score": 0.19831882762788672}
+{"sent": "person closest to 9pm", "ann_id": 1223699, "best_split": [3, 3], "split_score": 0.2867919157007128}

@@ -1,0 +1,4 @@
+{"sent": "broccoli on sideways piece", "ann_id": 1058874, "best_split": [3, 3], "split_score": 0.3929824560714066}
+{"sent": "broccoli at seven oclock", "ann_id": 1058639, "best_split": [2, 2], "split_score": 0.21548150508486275}
+{"sent": "closest broccoli", "ann_id": 1058639, "best_split": [1, 5], "split_score": 0.21754726124890478}
+{"sent": "closest muffin with broc", "ann_id": 1058639, "best_split": [1, 5], "split_score": 0.21754726124890478}

@@ -1,0 +1,8 @@
+{"sent": "small bus carlisle 95", "ann_id": 1794826, "best_split": [3, 1], "split_score": 0.18460424709311027}
+{"sent": "bus in between", "ann_id": 1794826, "best_split": [3, 1], "split_score": 0.18460424709311027}
+{"sent": "bus with headlights on", "ann_id": 1794826, "best_split": [3, 1], "split_score": 0.18460424709311027}
+{"sent": "half bus", "ann_id": 366596, "best_split": [3, 3], "split_score": 0.3563426092597863}
+{"sent": "blue bus on side", "ann_id": 366596, "best_split": [3, 3], "split_score": 0.3563426092597863}
+{"sent": "x95", "ann_id": 366449, "best_split": [3, 2], "split_score": 0.5742870499696786}
+{"sent": "x95 bus", "ann_id": 366449, "best_split": [3, 2], "split_score": 0.5742870499696786}
+{"sent": "bus closest to us", "ann_id": 366449, "best_split": [3, 2], "split_score": 0.5742870499696786}

@@ -1,0 +1,5 @@
+{"sent": "bunch at 630", "ann_id": 1546785, "best_split": [1, 2], "split_score": 0.024363833242272474}
+{"sent": "bananas 6pm lots of them", "ann_id": 1546785, "best_split": [1, 3], "split_score": 0.08626198082636471}
+{"sent": "bunch above large bunch closer to the two bunches together", "ann_id": 1546636, "best_split": [1, 5], "split_score": 0.22043010750571906}
+{"sent": "bananas separate from others", "ann_id": 1546636, "best_split": [2, 3], "split_score": 0.11029191988539484}
+{"sent": "bananas row 2 2 from 9pm", "ann_id": 1546636, "best_split": [2, 1], "split_score": 0.02814673093093393}

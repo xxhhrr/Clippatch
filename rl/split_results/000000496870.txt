@@ -1,0 +1,12 @@
+{"sent": "horse looking towards wall", "ann_id": 274565, "best_split": [2, 2], "split_score": 0.5250245338245201}
+{"sent": "horse turning", "ann_id": 274565, "best_split": [2, 2], "split_score": 0.5250245338245201}
+{"sent": "horse 1", "ann_id": 274565, "best_split": [2, 2], "split_score": 0.5250245338245201}
+{"sent": "the man riding with one hand on the horse facing the camera", "ann_id": 214797, "best_split": [2, 3], "split_score": 0.21230673443890144}
+{"sent": "man on the horse closest to the street", "ann_id": 214797, "best_split": [2, 2], "split_score": 0.2566225165360594}
+{"sent": "person on horse rightest", "ann_id": 214797, "best_split": [2, 3], "split_score": 0.21230673443890144}
+{"sent": "man in suit", "ann_id": 201951, "best_split": [2, 3], "split_score": 0.6435286743463233}
+{"sent": "man with arms out", "ann_id": 201951, "best_split": [2, 3], "split_score": 0.6435286743463233}
+{"sent": "guy on ground", "ann_id": 201951, "best_split": [2, 3], "split_score": 0.6435286743463233}
+{"sent": "horse closest to road", "ann_id": 57904, "best_split": [1, 2], "split_score": 0.4703045280424783}
+{"sent": "the horse the man is looking at", "ann_id": 57904, "best_split": [1, 2], "split_score": 0.4703045280424783}
+{"sent": "horse with all brown face", "ann_id": 57904, "best_split": [1, 3], "split_score": 0.43127364436664445}

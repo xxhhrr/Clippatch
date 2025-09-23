@@ -1,0 +1,12 @@
+{"sent": "apples", "ann_id": 1903880, "best_split": [3, 2], "split_score": 0.5656941452353932}
+{"sent": "blue", "ann_id": 1903880, "best_split": [3, 2], "split_score": 0.5656941452353932}
+{"sent": "bowl of apples", "ann_id": 1903880, "best_split": [3, 2], "split_score": 0.5656941452353932}
+{"sent": "purple container with flowers", "ann_id": 1903758, "best_split": [3, 2], "split_score": 0.6096059112764245}
+{"sent": "purple container", "ann_id": 1903758, "best_split": [3, 2], "split_score": 0.6096059112764245}
+{"sent": "container with purple flowers and almonds", "ann_id": 1903758, "best_split": [3, 2], "split_score": 0.6096059112764245}
+{"sent": "red container", "ann_id": 1903387, "best_split": [5, 1], "split_score": 0.3999999999715909}
+{"sent": "red", "ann_id": 1903387, "best_split": [2, 2], "split_score": 0.4849187934713345}
+{"sent": "banana cut up", "ann_id": 1903387, "best_split": [2, 1], "split_score": 0.3928571428414837}
+{"sent": "white bin", "ann_id": 1903024, "best_split": [2, 3], "split_score": 0.4472071138351716}
+{"sent": "orange white dish", "ann_id": 1903024, "best_split": [2, 3], "split_score": 0.4472071138351716}
+{"sent": "clear container", "ann_id": 1903024, "best_split": [5, 1], "split_score": 0.37218354664479497}

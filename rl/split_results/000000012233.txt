@@ -1,0 +1,6 @@
+{"sent": "black moped", "ann_id": 150821, "best_split": [2, 3], "split_score": 0.5591013022607514}
+{"sent": "black bike", "ann_id": 150821, "best_split": [1, 3], "split_score": 0.36719329262720624}
+{"sent": "all black scooter", "ann_id": 150821, "best_split": [2, 3], "split_score": 0.5591013022607514}
+{"sent": "red motorcycle", "ann_id": 149694, "best_split": [1, 2], "split_score": 0.44617213032469616}
+{"sent": "orange cycle", "ann_id": 149694, "best_split": [2, 1], "split_score": 0.4752475247404716}
+{"sent": "orange bike", "ann_id": 149694, "best_split": [2, 1], "split_score": 0.4752475247404716}

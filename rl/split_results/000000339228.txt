@@ -1,0 +1,6 @@
+{"sent": "near open chair", "ann_id": 1582326, "best_split": [2, 3], "split_score": 0.3826771653166656}
+{"sent": "seat closest to us", "ann_id": 1582326, "best_split": [3, 2], "split_score": 0.45635496574161777}
+{"sent": "chair closest to us", "ann_id": 1582326, "best_split": [3, 3], "split_score": 0.5179681166552326}
+{"sent": "of the two closest chairs one with back facing camera", "ann_id": 1936352, "best_split": [2, 1], "split_score": 0.21141581631810363}
+{"sent": "chair with back facing closest", "ann_id": 1936352, "best_split": [2, 1], "split_score": 0.21141581631810363}
+{"sent": "chair nearest with back to us", "ann_id": 1936352, "best_split": [2, 2], "split_score": 0.42283163261935336}

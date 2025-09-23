@@ -1,0 +1,5 @@
+{"sent": "couch under tv", "ann_id": 115879, "best_split": [3, 3], "split_score": 0.4099270072394267}
+{"sent": "couch with back against wall", "ann_id": 115879, "best_split": [3, 3], "split_score": 0.4099270072394267}
+{"sent": "sofa facing us", "ann_id": 115879, "best_split": [3, 3], "split_score": 0.4099270072394267}
+{"sent": "couch facing screen", "ann_id": 111582, "best_split": [2, 1], "split_score": 0.49744897957200856}
+{"sent": "couch close to us", "ann_id": 111582, "best_split": [3, 1], "split_score": 0.7528957528503321}

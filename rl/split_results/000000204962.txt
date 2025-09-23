@@ -1,0 +1,6 @@
+{"sent": "half of sandwich covered by more fries", "ann_id": 312661, "best_split": [1, 5], "split_score": 0.2984388551345673}
+{"sent": "really toasted", "ann_id": 312661, "best_split": [1, 5], "split_score": 0.2984388551345673}
+{"sent": "half of sandwich partly covered by fries", "ann_id": 312661, "best_split": [1, 5], "split_score": 0.2984388551345673}
+{"sent": "sandwich with orange toothpick", "ann_id": 312043, "best_split": [2, 2], "split_score": 0.5370753621454204}
+{"sent": "half of sandwich with cut side facing us", "ann_id": 312043, "best_split": [2, 2], "split_score": 0.5370753621454204}
+{"sent": "light colored sandwich half", "ann_id": 312043, "best_split": [2, 2], "split_score": 0.5370753621454204}

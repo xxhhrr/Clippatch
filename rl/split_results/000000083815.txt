@@ -1,0 +1,6 @@
+{"sent": "long silver train", "ann_id": 170460, "best_split": [2, 2], "split_score": 0.5630101532574816}
+{"sent": "long silver train", "ann_id": 170460, "best_split": [2, 2], "split_score": 0.5630101532574816}
+{"sent": "moving train", "ann_id": 170460, "best_split": [2, 2], "split_score": 0.5630101532574816}
+{"sent": "train with tail lights", "ann_id": 169652, "best_split": [1, 5], "split_score": 0.16525423727222127}
+{"sent": "train with lights", "ann_id": 169652, "best_split": [1, 5], "split_score": 0.16525423727222127}
+{"sent": "front of train", "ann_id": 169652, "best_split": [5, 1], "split_score": 0.14107883816096956}

@@ -1,0 +1,6 @@
+{"sent": "upwards skater", "ann_id": 470235, "best_split": [2, 1], "split_score": 0.25966026970112616}
+{"sent": "guy with gray jacket", "ann_id": 470235, "best_split": [1, 2], "split_score": 0.5488679846719998}
+{"sent": "gray jacket", "ann_id": 470235, "best_split": [1, 2], "split_score": 0.5488679846719998}
+{"sent": "white shirt skater", "ann_id": 448619, "best_split": [1, 2], "split_score": 0.3510071089917429}
+{"sent": "white", "ann_id": 448619, "best_split": [3, 2], "split_score": 0.4223378124243362}
+{"sent": "man in white shirt bent over on a skateboard", "ann_id": 448619, "best_split": [1, 2], "split_score": 0.3510071089917429}

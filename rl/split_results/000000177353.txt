@@ -1,0 +1,6 @@
+{"sent": "the tallest giraffe", "ann_id": 601155, "best_split": [2, 2], "split_score": 0.5620985010330501}
+{"sent": "giraffe behind suv head higher", "ann_id": 601155, "best_split": [2, 3], "split_score": 0.4584352077889337}
+{"sent": "tallest giraffe", "ann_id": 601155, "best_split": [2, 2], "split_score": 0.5620985010330501}
+{"sent": "giraffe closest to camera", "ann_id": 598590, "best_split": [1, 2], "split_score": 0.6417172093436209}
+{"sent": "giraffe that can be fully seen", "ann_id": 598590, "best_split": [1, 2], "split_score": 0.6417172093436209}
+{"sent": "giraffe closest to camera", "ann_id": 598590, "best_split": [1, 2], "split_score": 0.6417172093436209}

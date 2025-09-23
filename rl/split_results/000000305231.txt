@@ -1,0 +1,3 @@
+{"sent": "bowl near eggs and sandwich", "ann_id": 716148, "best_split": [3, 2], "split_score": 0.286903690336757}
+{"sent": "bowl between eggs and oatmeal", "ann_id": 716148, "best_split": [3, 2], "split_score": 0.286903690336757}
+{"sent": "small bowl of food near sandwich and cup of something", "ann_id": 716148, "best_split": [3, 1], "split_score": 0.14846297157961905}

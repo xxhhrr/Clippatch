@@ -1,0 +1,6 @@
+{"sent": "chair by cup", "ann_id": 383039, "best_split": [1, 3], "split_score": 0.6254371648038333}
+{"sent": "the chair underneath the coffee cup", "ann_id": 383039, "best_split": [1, 3], "split_score": 0.6254371648038333}
+{"sent": "chair not blue side with cup", "ann_id": 383039, "best_split": [1, 3], "split_score": 0.6254371648038333}
+{"sent": "closest chair", "ann_id": 374161, "best_split": [3, 2], "split_score": 0.8073741431331394}
+{"sent": "closest chair", "ann_id": 374161, "best_split": [3, 2], "split_score": 0.8073741431331394}
+{"sent": "chair near us", "ann_id": 374161, "best_split": [3, 2], "split_score": 0.8073741431331394}

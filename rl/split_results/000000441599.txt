@@ -1,0 +1,6 @@
+{"sent": "the giraffe walking towards the trees", "ann_id": 598350, "best_split": [3, 1], "split_score": 0.1860788614741812}
+{"sent": "shortest giraffe", "ann_id": 598350, "best_split": [3, 1], "split_score": 0.1860788614741812}
+{"sent": "giraffe eating", "ann_id": 598350, "best_split": [3, 1], "split_score": 0.1860788614741812}
+{"sent": "giraffe not in bushes", "ann_id": 595603, "best_split": [1, 3], "split_score": 0.5088967971271532}
+{"sent": "bigger giraffe", "ann_id": 595603, "best_split": [1, 3], "split_score": 0.5088967971271532}
+{"sent": "giraffe not eating", "ann_id": 595603, "best_split": [1, 3], "split_score": 0.5088967971271532}

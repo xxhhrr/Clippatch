@@ -1,0 +1,6 @@
+{"sent": "back of toilet", "ann_id": 2133554, "best_split": [2, 3], "split_score": 0.2823359073018417}
+{"sent": "toilet tank", "ann_id": 2133554, "best_split": [2, 3], "split_score": 0.2823359073018417}
+{"sent": "back part of toilet", "ann_id": 2133554, "best_split": [2, 3], "split_score": 0.2823359073018417}
+{"sent": "toilet seat", "ann_id": 1092775, "best_split": [3, 2], "split_score": 0.3559362933933474}
+{"sent": "the toilet seat", "ann_id": 1092775, "best_split": [3, 2], "split_score": 0.3559362933933474}
+{"sent": "toilet bowl", "ann_id": 1092775, "best_split": [3, 2], "split_score": 0.3559362933933474}

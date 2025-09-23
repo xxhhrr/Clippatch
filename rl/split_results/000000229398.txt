@@ -1,0 +1,6 @@
+{"sent": "leg with black shoe white laces", "ann_id": 512490, "best_split": [2, 2], "split_score": 0.6402204562522289}
+{"sent": "black shoe with white laces", "ann_id": 512490, "best_split": [1, 2], "split_score": 0.520169005081307}
+{"sent": "dark shoes", "ann_id": 512490, "best_split": [1, 2], "split_score": 0.520169005081307}
+{"sent": "white shoes", "ann_id": 461580, "best_split": [1, 5], "split_score": 0.6376811593677799}
+{"sent": "legs and feet", "ann_id": 461580, "best_split": [1, 5], "split_score": 0.6376811593677799}
+{"sent": "white shoes", "ann_id": 461580, "best_split": [1, 5], "split_score": 0.6376811593677799}

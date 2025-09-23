@@ -1,0 +1,6 @@
+{"sent": "empty chair darker", "ann_id": 380309, "best_split": [2, 3], "split_score": 0.45843828709866397}
+{"sent": "chair behind other chair", "ann_id": 380309, "best_split": [2, 3], "split_score": 0.45843828709866397}
+{"sent": "smaller chair", "ann_id": 380309, "best_split": [2, 3], "split_score": 0.45843828709866397}
+{"sent": "empty chair in light", "ann_id": 378762, "best_split": [2, 2], "split_score": 0.3507653060944862}
+{"sent": "empty chair behind computer", "ann_id": 378762, "best_split": [2, 2], "split_score": 0.3507653060944862}
+{"sent": "whitest vhair closest", "ann_id": 378762, "best_split": [3, 2], "split_score": 0.25586459464952344}

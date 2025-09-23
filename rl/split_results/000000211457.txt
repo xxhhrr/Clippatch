@@ -1,0 +1,6 @@
+{"sent": "closest sofa", "ann_id": 114700, "best_split": [2, 3], "split_score": 0.6430690970068812}
+{"sent": "leather couch nearest you", "ann_id": 114700, "best_split": [2, 3], "split_score": 0.6430690970068812}
+{"sent": "couch in corner 5pm", "ann_id": 114700, "best_split": [2, 3], "split_score": 0.6430690970068812}
+{"sent": "sofa near window", "ann_id": 111474, "best_split": [3, 3], "split_score": 0.7099186990715579}
+{"sent": "chair facing", "ann_id": 111474, "best_split": [3, 3], "split_score": 0.7099186990715579}
+{"sent": "leather sofa under window", "ann_id": 111474, "best_split": [3, 3], "split_score": 0.7099186990715579}

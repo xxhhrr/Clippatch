@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 521472, "best_split": [1, 2], "split_score": 0.3565051020266061}
+{"sent": "small kid", "ann_id": 521472, "best_split": [2, 3], "split_score": 0.7136038185447888}
+{"sent": "little kid", "ann_id": 521472, "best_split": [2, 3], "split_score": 0.7136038185447888}
+{"sent": "white shirt", "ann_id": 495964, "best_split": [1, 2], "split_score": 0.8808992346587652}
+{"sent": "boy", "ann_id": 495964, "best_split": [2, 2], "split_score": 0.4777341750350736}
+{"sent": "boy", "ann_id": 495964, "best_split": [2, 2], "split_score": 0.4777341750350736}

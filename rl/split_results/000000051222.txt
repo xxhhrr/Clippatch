@@ -1,0 +1,6 @@
+{"sent": "kid looking at us", "ann_id": 1734003, "best_split": [1, 2], "split_score": 0.9688695790430137}
+{"sent": "baby looking at camera", "ann_id": 1734003, "best_split": [1, 2], "split_score": 0.9688695790430137}
+{"sent": "face", "ann_id": 1734003, "best_split": [1, 2], "split_score": 0.9688695790430137}
+{"sent": "only the hands with apple", "ann_id": 1206707, "best_split": [2, 2], "split_score": 0.9074268566461045}
+{"sent": "hands only", "ann_id": 1206707, "best_split": [2, 2], "split_score": 0.9074268566461045}
+{"sent": "hand with orange on side", "ann_id": 1206707, "best_split": [2, 2], "split_score": 0.9074268566461045}

@@ -1,0 +1,5 @@
+{"sent": "oddly shaped pizza with lots of spinach bigger", "ann_id": 1073607, "best_split": [3, 2], "split_score": 0.5816839713999283}
+{"sent": "biggest pizzza", "ann_id": 1073607, "best_split": [3, 2], "split_score": 0.5816839713999283}
+{"sent": "smaller pizza", "ann_id": 1071175, "best_split": [3, 1], "split_score": 0.3462622617912807}
+{"sent": "small pizza", "ann_id": 1071175, "best_split": [3, 1], "split_score": 0.3462622617912807}
+{"sent": "full tomatoes pizza", "ann_id": 1071175, "best_split": [3, 1], "split_score": 0.3462622617912807}

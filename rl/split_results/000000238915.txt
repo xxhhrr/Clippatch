@@ -1,0 +1,9 @@
+{"sent": "black", "ann_id": 16138, "best_split": [2, 3], "split_score": 0.3565710732605447}
+{"sent": "black dog", "ann_id": 16138, "best_split": [3, 3], "split_score": 0.4891691243273498}
+{"sent": "black animal", "ann_id": 16138, "best_split": [2, 3], "split_score": 0.3565710732605447}
+{"sent": "brown dog", "ann_id": 9056, "best_split": [1, 5], "split_score": 0.5801526717053996}
+{"sent": "tan", "ann_id": 9056, "best_split": [1, 5], "split_score": 0.5801526717053996}
+{"sent": "brown dog", "ann_id": 9056, "best_split": [1, 5], "split_score": 0.5801526717053996}
+{"sent": "light dog", "ann_id": 9012, "best_split": [1, 5], "split_score": 0.5801526717053996}
+{"sent": "light dog", "ann_id": 9012, "best_split": [1, 5], "split_score": 0.5801526717053996}
+{"sent": "brown dog in pool", "ann_id": 9012, "best_split": [1, 3], "split_score": 0.5043436293132032}

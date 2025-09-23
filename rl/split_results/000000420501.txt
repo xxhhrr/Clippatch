@@ -1,0 +1,6 @@
+{"sent": "man in black facing away", "ann_id": 2163470, "best_split": [1, 5], "split_score": 0.8277227722027252}
+{"sent": "tall", "ann_id": 2163470, "best_split": [2, 1], "split_score": 0.1733359746377002}
+{"sent": "man looking away", "ann_id": 2163470, "best_split": [2, 1], "split_score": 0.1733359746377002}
+{"sent": "tie and briefcase man", "ann_id": 426968, "best_split": [1, 3], "split_score": 0.5087490441046849}
+{"sent": "gray coat", "ann_id": 426968, "best_split": [1, 3], "split_score": 0.5087490441046849}
+{"sent": "man briefcase", "ann_id": 426968, "best_split": [1, 3], "split_score": 0.5087490441046849}

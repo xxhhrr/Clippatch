@@ -1,0 +1,6 @@
+{"sent": "horse with white on face", "ann_id": 58573, "best_split": [3, 3], "split_score": 0.3263294422404242}
+{"sent": "taller horse", "ann_id": 58573, "best_split": [3, 3], "split_score": 0.3263294422404242}
+{"sent": "horse with white on face", "ann_id": 58573, "best_split": [3, 3], "split_score": 0.3263294422404242}
+{"sent": "horse looking at you", "ann_id": 58343, "best_split": [1, 5], "split_score": 0.43422422766103574}
+{"sent": "horse closest to camera", "ann_id": 58343, "best_split": [2, 3], "split_score": 0.553156146121973}
+{"sent": "cant see hind legs", "ann_id": 58343, "best_split": [2, 3], "split_score": 0.553156146121973}

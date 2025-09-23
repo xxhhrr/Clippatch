@@ -1,0 +1,5 @@
+{"sent": "glassware by edge", "ann_id": 1497389, "best_split": [2, 3], "split_score": 0.6486486485703851}
+{"sent": "partially visible glass", "ann_id": 1497389, "best_split": [2, 3], "split_score": 0.6486486485703851}
+{"sent": "glass showing stem only or least visible glass", "ann_id": 1497389, "best_split": [2, 3], "split_score": 0.6486486485703851}
+{"sent": "farthest glass", "ann_id": 661474, "best_split": [3, 2], "split_score": 0.4827301661578769}
+{"sent": "wine glass where you can see entire glass", "ann_id": 661474, "best_split": [3, 2], "split_score": 0.4827301661578769}

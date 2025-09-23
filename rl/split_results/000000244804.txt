@@ -1,0 +1,11 @@
+{"sent": "close horse", "ann_id": 274895, "best_split": [1, 5], "split_score": 0.33846153843195265}
+{"sent": "closest horse", "ann_id": 274895, "best_split": [1, 5], "split_score": 0.33846153843195265}
+{"sent": "horse that is the closest to winning the race", "ann_id": 274836, "best_split": [3, 3], "split_score": 0.46768060828770364}
+{"sent": "horse under arch", "ann_id": 274836, "best_split": [3, 3], "split_score": 0.46768060828770364}
+{"sent": "horse partly seen has jockey with ass in air", "ann_id": 274836, "best_split": [3, 3], "split_score": 0.46768060828770364}
+{"sent": "horse with guy with brown coat in front of sign", "ann_id": 274790, "best_split": [3, 3], "split_score": 0.31826255444562207}
+{"sent": "horse uncer letter c", "ann_id": 274790, "best_split": [3, 3], "split_score": 0.31826255444562207}
+{"sent": "rear of horse under the c on arched sign", "ann_id": 274790, "best_split": [3, 3], "split_score": 0.31826255444562207}
+{"sent": "horse being stood on", "ann_id": 60076, "best_split": [2, 1], "split_score": 0.27318295738278575}
+{"sent": "horse with rider standing", "ann_id": 60076, "best_split": [1, 3], "split_score": 0.4181044670043663}
+{"sent": "horse man is standing on", "ann_id": 60076, "best_split": [1, 3], "split_score": 0.4181044670043663}

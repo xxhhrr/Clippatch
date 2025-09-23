@@ -1,0 +1,6 @@
+{"sent": "far zebra", "ann_id": 590450, "best_split": [2, 2], "split_score": 0.5611058749166583}
+{"sent": "zebra facing away", "ann_id": 590450, "best_split": [3, 2], "split_score": 0.3170320404454442}
+{"sent": "lone zebra", "ann_id": 590450, "best_split": [3, 2], "split_score": 0.3170320404454442}
+{"sent": "the one looking at us", "ann_id": 589960, "best_split": [2, 1], "split_score": 0.3125672516673753}
+{"sent": "smaller one", "ann_id": 589960, "best_split": [2, 3], "split_score": 0.6445329791372701}
+{"sent": "closest zebra", "ann_id": 589960, "best_split": [2, 3], "split_score": 0.6445329791372701}

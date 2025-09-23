@@ -1,0 +1,9 @@
+{"sent": "black shirt", "ann_id": 202409, "best_split": [2, 3], "split_score": 0.6037735848430672}
+{"sent": "person wearing eye glasses", "ann_id": 202409, "best_split": [2, 3], "split_score": 0.6037735848430672}
+{"sent": "person with glasses", "ann_id": 202409, "best_split": [2, 3], "split_score": 0.6037735848430672}
+{"sent": "small girl", "ann_id": 201900, "best_split": [1, 5], "split_score": 0.21894060993427442}
+{"sent": "little girl", "ann_id": 201900, "best_split": [1, 5], "split_score": 0.21894060993427442}
+{"sent": "baby", "ann_id": 201900, "best_split": [3, 3], "split_score": 0.3151618398253636}
+{"sent": "kid standing", "ann_id": 196080, "best_split": [1, 2], "split_score": 0.5590322066103702}
+{"sent": "striped shirt", "ann_id": 196080, "best_split": [1, 2], "split_score": 0.5590322066103702}
+{"sent": "standing on chair white and stripes", "ann_id": 196080, "best_split": [1, 2], "split_score": 0.5590322066103702}

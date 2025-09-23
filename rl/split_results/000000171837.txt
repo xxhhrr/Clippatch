@@ -1,0 +1,6 @@
+{"sent": "man in white t shirt", "ann_id": 494093, "best_split": [1, 5], "split_score": 0.6133828995764292}
+{"sent": "man with white shirt", "ann_id": 494093, "best_split": [1, 5], "split_score": 0.6133828995764292}
+{"sent": "man with white shirt with writing on the back of the shirt", "ann_id": 494093, "best_split": [1, 5], "split_score": 0.6133828995764292}
+{"sent": "black shirt", "ann_id": 478526, "best_split": [2, 1], "split_score": 0.5153727147818759}
+{"sent": "dude in the stupid hat", "ann_id": 478526, "best_split": [1, 2], "split_score": 0.4666371420037404}
+{"sent": "man", "ann_id": 478526, "best_split": [1, 2], "split_score": 0.47294292067196986}

@@ -1,0 +1,6 @@
+{"sent": "the zebra looking at something", "ann_id": 591976, "best_split": [1, 2], "split_score": 0.6129584351864144}
+{"sent": "largest z", "ann_id": 591976, "best_split": [1, 2], "split_score": 0.6129584351864144}
+{"sent": "zebra looking at us", "ann_id": 591976, "best_split": [1, 2], "split_score": 0.6129584351864144}
+{"sent": "full view zebra eating grass", "ann_id": 588524, "best_split": [3, 1], "split_score": 0.3476029055521742}
+{"sent": "zebra head down", "ann_id": 588524, "best_split": [3, 1], "split_score": 0.3476029055521742}
+{"sent": "zebra eating grass", "ann_id": 588524, "best_split": [3, 1], "split_score": 0.3476029055521742}

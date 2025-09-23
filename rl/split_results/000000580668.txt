@@ -1,0 +1,11 @@
+{"sent": "guy in blue hat jacket", "ann_id": 2151630, "best_split": [1, 5], "split_score": 0.43963463061560415}
+{"sent": "man", "ann_id": 2151630, "best_split": [1, 5], "split_score": 0.43963463061560415}
+{"sent": "man on bench", "ann_id": 2151630, "best_split": [1, 5], "split_score": 0.43963463061560415}
+{"sent": "yellow boots", "ann_id": 428963, "best_split": [1, 5], "split_score": 0.433138401517238}
+{"sent": "brown boots", "ann_id": 428963, "best_split": [1, 5], "split_score": 0.433138401517238}
+{"sent": "yellow boots", "ann_id": 428963, "best_split": [1, 5], "split_score": 0.433138401517238}
+{"sent": "dark car", "ann_id": 356741, "best_split": [2, 2], "split_score": 0.6706948640052263}
+{"sent": "blue car in back of the man with hat", "ann_id": 356741, "best_split": [2, 2], "split_score": 0.6706948640052263}
+{"sent": "white car", "ann_id": 344471, "best_split": [2, 3], "split_score": 0.6231884057360764}
+{"sent": "white car", "ann_id": 344471, "best_split": [2, 3], "split_score": 0.6231884057360764}
+{"sent": "the white car", "ann_id": 344471, "best_split": [2, 3], "split_score": 0.6231884057360764}

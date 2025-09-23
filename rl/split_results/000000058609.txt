@@ -1,0 +1,12 @@
+{"sent": "wine glass next to olives", "ann_id": 665846, "best_split": [2, 1], "split_score": 0.18534499665848095}
+{"sent": "wine glass by water glass", "ann_id": 665846, "best_split": [2, 1], "split_score": 0.18534499665848095}
+{"sent": "starting from apple peals fourth glass", "ann_id": 665846, "best_split": [2, 1], "split_score": 0.18534499665848095}
+{"sent": "glass 10 0clock", "ann_id": 664902, "best_split": [3, 3], "split_score": 0.35502049175780986}
+{"sent": "wind glass by spread card fruit", "ann_id": 664902, "best_split": [2, 2], "split_score": 0.33656467734500417}
+{"sent": "glass where apples are", "ann_id": 664902, "best_split": [1, 3], "split_score": 0.30791505789648194}
+{"sent": "wine glass closest to knife and apples", "ann_id": 661867, "best_split": [2, 2], "split_score": 0.2865533230072215}
+{"sent": "number two wine glass from edge of table", "ann_id": 661867, "best_split": [2, 2], "split_score": 0.2865533230072215}
+{"sent": "glass 2", "ann_id": 661867, "best_split": [1, 5], "split_score": 0.26955256454442045}
+{"sent": "wine glass above the square cheese block", "ann_id": 661161, "best_split": [1, 5], "split_score": 0.29881217517642794}
+{"sent": "glass of wine near white block of cheese", "ann_id": 661161, "best_split": [1, 5], "split_score": 0.29881217517642794}
+{"sent": "glass two over from the water", "ann_id": 661161, "best_split": [3, 3], "split_score": 0.3216052775808679}

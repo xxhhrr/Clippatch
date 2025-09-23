@@ -1,0 +1,9 @@
+{"sent": "brown donut", "ann_id": 1081351, "best_split": [2, 2], "split_score": 0.8529769136654787}
+{"sent": "brown donut", "ann_id": 1081351, "best_split": [2, 2], "split_score": 0.8529769136654787}
+{"sent": "chocolate one", "ann_id": 1081351, "best_split": [2, 2], "split_score": 0.8529769136654787}
+{"sent": "red", "ann_id": 1081293, "best_split": [2, 2], "split_score": 0.8973655323116383}
+{"sent": "pink dessert", "ann_id": 1081293, "best_split": [2, 2], "split_score": 0.8973655323116383}
+{"sent": "drizzled with frosting", "ann_id": 1081293, "best_split": [2, 2], "split_score": 0.8973655323116383}
+{"sent": "tan donut", "ann_id": 1079243, "best_split": [3, 2], "split_score": 0.5071470530313199}
+{"sent": "plainest donut", "ann_id": 1079243, "best_split": [3, 2], "split_score": 0.5071470530313199}
+{"sent": "orange donut", "ann_id": 1079243, "best_split": [1, 2], "split_score": 0.5262855830836285}

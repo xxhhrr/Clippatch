@@ -1,0 +1,9 @@
+{"sent": "laptop screen", "ann_id": 1969370, "best_split": [3, 3], "split_score": 0.6507352940037228}
+{"sent": "laptop", "ann_id": 1969370, "best_split": [3, 3], "split_score": 0.6507352940037228}
+{"sent": "laptop", "ann_id": 1969370, "best_split": [3, 3], "split_score": 0.6507352940037228}
+{"sent": "largest screen", "ann_id": 35715, "best_split": [1, 5], "split_score": 0.4212358572338606}
+{"sent": "laqrgest monitor with largest kb", "ann_id": 35715, "best_split": [3, 1], "split_score": 0.2513561470088032}
+{"sent": "largest monitor", "ann_id": 35715, "best_split": [3, 1], "split_score": 0.2513561470088032}
+{"sent": "screen with blue box", "ann_id": 32891, "best_split": [2, 3], "split_score": 0.7416032242788173}
+{"sent": "screen blue square behind white square", "ann_id": 32891, "best_split": [2, 3], "split_score": 0.7416032242788173}
+{"sent": "laptop centered", "ann_id": 32891, "best_split": [2, 1], "split_score": 0.28970025509049346}

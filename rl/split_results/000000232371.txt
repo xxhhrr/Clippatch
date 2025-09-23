@@ -1,0 +1,6 @@
+{"sent": "the tallest animal", "ann_id": 595816, "best_split": [1, 2], "split_score": 0.502232142837124}
+{"sent": "tall giraffe", "ann_id": 595816, "best_split": [1, 2], "split_score": 0.502232142837124}
+{"sent": "taller", "ann_id": 595816, "best_split": [1, 2], "split_score": 0.502232142837124}
+{"sent": "head down", "ann_id": 595039, "best_split": [1, 2], "split_score": 0.251319330365522}
+{"sent": "giraffe behind other", "ann_id": 595039, "best_split": [1, 3], "split_score": 0.4601679952672319}
+{"sent": "giraffe behind", "ann_id": 595039, "best_split": [1, 3], "split_score": 0.4601679952672319}

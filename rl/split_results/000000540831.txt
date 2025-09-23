@@ -1,0 +1,9 @@
+{"sent": "man in jacket", "ann_id": 1723817, "best_split": [1, 3], "split_score": 0.7117734723867795}
+{"sent": "man wearing a tie", "ann_id": 1723817, "best_split": [1, 3], "split_score": 0.7117734723867795}
+{"sent": "man with tie", "ann_id": 1723817, "best_split": [1, 3], "split_score": 0.7117734723867795}
+{"sent": "woman in red", "ann_id": 483938, "best_split": [1, 2], "split_score": 0.5585704831032219}
+{"sent": "red shirt", "ann_id": 483938, "best_split": [1, 2], "split_score": 0.5585704831032219}
+{"sent": "red shirt", "ann_id": 483938, "best_split": [1, 2], "split_score": 0.5585704831032219}
+{"sent": "boy in bed", "ann_id": 481778, "best_split": [3, 3], "split_score": 0.5858307209296764}
+{"sent": "guy in bed", "ann_id": 481778, "best_split": [3, 3], "split_score": 0.5858307209296764}
+{"sent": "guy in bed", "ann_id": 481778, "best_split": [3, 3], "split_score": 0.5858307209296764}

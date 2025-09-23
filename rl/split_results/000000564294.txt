@@ -1,0 +1,6 @@
+{"sent": "woman wearing white jacket", "ann_id": 564395, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "white", "ann_id": 564395, "best_split": [3, 3], "split_score": 0.26916620029810207}
+{"sent": "girl white jacker", "ann_id": 564395, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "skiier in black", "ann_id": 539222, "best_split": [1, 5], "split_score": 0.49257153333707154}
+{"sent": "guy in all black", "ann_id": 539222, "best_split": [1, 5], "split_score": 0.49257153333707154}
+{"sent": "tha man with sticks in his hands", "ann_id": 539222, "best_split": [3, 2], "split_score": 0.32722678455669824}

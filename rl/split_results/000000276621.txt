@@ -1,0 +1,6 @@
+{"sent": "tallest person", "ann_id": 501461, "best_split": [3, 3], "split_score": 0.5058488775678393}
+{"sent": "tall person", "ann_id": 501461, "best_split": [1, 5], "split_score": 0.29394249555281077}
+{"sent": "man", "ann_id": 501461, "best_split": [1, 5], "split_score": 0.29394249555281077}
+{"sent": "woman", "ann_id": 465601, "best_split": [3, 2], "split_score": 0.27459376369404986}
+{"sent": "person nearest car", "ann_id": 465601, "best_split": [3, 2], "split_score": 0.27459376369404986}
+{"sent": "woman", "ann_id": 465601, "best_split": [3, 2], "split_score": 0.27459376369404986}

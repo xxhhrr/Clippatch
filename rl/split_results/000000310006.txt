@@ -1,0 +1,9 @@
+{"sent": "plane most under", "ann_id": 161681, "best_split": [1, 5], "split_score": 0.38174807194876703}
+{"sent": "next to red plane white", "ann_id": 161681, "best_split": [1, 2], "split_score": 0.2927295918250666}
+{"sent": "white close to red", "ann_id": 161681, "best_split": [1, 5], "split_score": 0.38174807194876703}
+{"sent": "big white plane", "ann_id": 161509, "best_split": [2, 2], "split_score": 0.47313200053359333}
+{"sent": "leading plan", "ann_id": 161509, "best_split": [2, 2], "split_score": 0.47313200053359333}
+{"sent": "plane ahead of others", "ann_id": 161509, "best_split": [2, 1], "split_score": 0.2504315196904153}
+{"sent": "red", "ann_id": 160684, "best_split": [2, 3], "split_score": 0.725277346925292}
+{"sent": "red plane", "ann_id": 160684, "best_split": [2, 3], "split_score": 0.725277346925292}
+{"sent": "red plane", "ann_id": 160684, "best_split": [2, 3], "split_score": 0.725277346925292}

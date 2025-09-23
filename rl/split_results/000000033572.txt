@@ -1,0 +1,6 @@
+{"sent": "white shirt and jeans", "ann_id": 235706, "best_split": [1, 5], "split_score": 0.8842345772197034}
+{"sent": "man wit white tee on", "ann_id": 235706, "best_split": [1, 5], "split_score": 0.8842345772197034}
+{"sent": "white shirt", "ann_id": 235706, "best_split": [1, 5], "split_score": 0.8842345772197034}
+{"sent": "person on the bike", "ann_id": 213648, "best_split": [1, 3], "split_score": 0.5440512263138728}
+{"sent": "person on bike", "ann_id": 213648, "best_split": [1, 3], "split_score": 0.5440512263138728}
+{"sent": "girl on bike", "ann_id": 213648, "best_split": [1, 3], "split_score": 0.5440512263138728}

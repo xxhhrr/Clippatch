@@ -1,0 +1,22 @@
+{"sent": "denim partial", "ann_id": 557475, "best_split": [3, 3], "split_score": 0.30882825035171296}
+{"sent": "person wearing jean jacket", "ann_id": 557475, "best_split": [3, 3], "split_score": 0.30882825035171296}
+{"sent": "blue shirt", "ann_id": 535147, "best_split": [2, 3], "split_score": 0.6010123835667529}
+{"sent": "purple shirt man", "ann_id": 535147, "best_split": [2, 3], "split_score": 0.6010123835667529}
+{"sent": "man in purple", "ann_id": 535147, "best_split": [2, 3], "split_score": 0.6010123835667529}
+{"sent": "round table with no beers", "ann_id": 1964228, "best_split": [3, 3], "split_score": 0.5928893339020381}
+{"sent": "table with one cigarette holder only", "ann_id": 1964228, "best_split": [3, 3], "split_score": 0.5928893339020381}
+{"sent": "table without glasses on it", "ann_id": 1964228, "best_split": [2, 1], "split_score": 0.16210937499353836}
+{"sent": "tree 1", "ann_id": 1956363, "best_split": [5, 1], "split_score": 0.17927864213408073}
+{"sent": "plant in by of visible chair", "ann_id": 1956363, "best_split": [1, 5], "split_score": 0.26733802011520635}
+{"sent": "plant number 2", "ann_id": 1954731, "best_split": [3, 3], "split_score": 0.5450304986463884}
+{"sent": "bush closest to woman", "ann_id": 1954731, "best_split": [3, 3], "split_score": 0.5450304986463884}
+{"sent": "middle plant", "ann_id": 1954731, "best_split": [3, 3], "split_score": 0.5450304986463884}
+{"sent": "chick", "ann_id": 470648, "best_split": [2, 3], "split_score": 0.17356330728025654}
+{"sent": "woman", "ann_id": 470648, "best_split": [3, 3], "split_score": 0.4395015720927563}
+{"sent": "girl black shirt", "ann_id": 470648, "best_split": [2, 3], "split_score": 0.44065704515375453}
+{"sent": "the laughing man in the black shirt", "ann_id": 460565, "best_split": [3, 1], "split_score": 0.23262312258706536}
+{"sent": "smiling guy black shirt", "ann_id": 460565, "best_split": [1, 5], "split_score": 0.4612009425155439}
+{"sent": "guy black shirt", "ann_id": 460565, "best_split": [1, 5], "split_score": 0.4612009425155439}
+{"sent": "table with man in purple", "ann_id": 390839, "best_split": [2, 2], "split_score": 0.2927264613793897}
+{"sent": "table near man with hands together", "ann_id": 390839, "best_split": [5, 1], "split_score": 0.4391772771362216}
+{"sent": "table of purple shirted guy", "ann_id": 390839, "best_split": [2, 2], "split_score": 0.2927264613793897}

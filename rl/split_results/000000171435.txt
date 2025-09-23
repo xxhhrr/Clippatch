@@ -1,0 +1,6 @@
+{"sent": "dog closer to laptop", "ann_id": 16484, "best_split": [3, 2], "split_score": 0.37791888566387555}
+{"sent": "dog next to laptop", "ann_id": 16484, "best_split": [3, 2], "split_score": 0.37791888566387555}
+{"sent": "closest dog", "ann_id": 16484, "best_split": [3, 3], "split_score": 0.39879074653012736}
+{"sent": "far black dog", "ann_id": 10095, "best_split": [2, 2], "split_score": 0.2760995460732431}
+{"sent": "black dog furtherest away from computer", "ann_id": 10095, "best_split": [3, 2], "split_score": 0.2561242572442276}
+{"sent": "dog up high", "ann_id": 10095, "best_split": [2, 2], "split_score": 0.2760995460732431}

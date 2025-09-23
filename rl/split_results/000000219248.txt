@@ -1,0 +1,6 @@
+{"sent": "the horse being ridden by the smoking boy", "ann_id": 274465, "best_split": [1, 2], "split_score": 0.5262675382443293}
+{"sent": "horse being ridden by adidas", "ann_id": 274465, "best_split": [3, 1], "split_score": 0.25200756778423344}
+{"sent": "horse being rode by adidas", "ann_id": 274465, "best_split": [3, 1], "split_score": 0.25200756778423344}
+{"sent": "the horse that has lighter colored mane", "ann_id": 58355, "best_split": [1, 2], "split_score": 0.5263882198951907}
+{"sent": "lead horse", "ann_id": 58355, "best_split": [1, 2], "split_score": 0.5263882198951907}
+{"sent": "horse with light jacket man on it", "ann_id": 58355, "best_split": [1, 2], "split_score": 0.5263882198951907}

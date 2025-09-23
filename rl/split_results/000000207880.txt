@@ -1,0 +1,6 @@
+{"sent": "adult zebra", "ann_id": 591240, "best_split": [2, 2], "split_score": 0.5386040765535238}
+{"sent": "big zebra", "ann_id": 591240, "best_split": [2, 2], "split_score": 0.5386040765535238}
+{"sent": "adult zebr", "ann_id": 591240, "best_split": [2, 2], "split_score": 0.5386040765535238}
+{"sent": "zebra laying", "ann_id": 589913, "best_split": [3, 3], "split_score": 0.39620442810118117}
+{"sent": "animal on ground", "ann_id": 589913, "best_split": [2, 3], "split_score": 0.3445791811328396}
+{"sent": "animal on side", "ann_id": 589913, "best_split": [3, 3], "split_score": 0.39620442810118117}

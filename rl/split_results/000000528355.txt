@@ -1,0 +1,7 @@
+{"sent": "portion of pizza next to bottle", "ann_id": 1075904, "best_split": [5, 1], "split_score": 0.43338898159988404}
+{"sent": "the piece of food next to the water", "ann_id": 1075904, "best_split": [2, 1], "split_score": 0.29161352039653965}
+{"sent": "part of pizza not near the cut", "ann_id": 1075459, "best_split": [3, 2], "split_score": 0.4977578474937734}
+{"sent": "slice 3 o clock", "ann_id": 1075459, "best_split": [1, 2], "split_score": 0.4151785714120225}
+{"sent": "slice at 3 ocloc", "ann_id": 1075459, "best_split": [3, 2], "split_score": 0.4977578474937734}
+{"sent": "triangle slice nearer us", "ann_id": 1075262, "best_split": [1, 3], "split_score": 0.3041666666495402}
+{"sent": "closest slice not the little edge showing", "ann_id": 1075262, "best_split": [2, 3], "split_score": 0.5348261272794524}

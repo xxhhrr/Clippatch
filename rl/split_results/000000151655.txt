@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 525025, "best_split": [2, 2], "split_score": 0.5278104959738378}
+{"sent": "man in stocking cap", "ann_id": 525025, "best_split": [1, 5], "split_score": 0.4512503511905556}
+{"sent": "red hat", "ann_id": 525025, "best_split": [1, 5], "split_score": 0.4512503511905556}
+{"sent": "herky jerk in white", "ann_id": 505114, "best_split": [1, 5], "split_score": 0.5239898120379989}
+{"sent": "white", "ann_id": 505114, "best_split": [1, 5], "split_score": 0.5239898120379989}
+{"sent": "white shirt", "ann_id": 505114, "best_split": [1, 5], "split_score": 0.5239898120379989}

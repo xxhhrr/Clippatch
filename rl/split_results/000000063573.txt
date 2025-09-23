@@ -1,0 +1,6 @@
+{"sent": "open toilet", "ann_id": 1096370, "best_split": [3, 3], "split_score": 0.4802405497456631}
+{"sent": "the open toilet bowl", "ann_id": 1096370, "best_split": [3, 3], "split_score": 0.4802405497456631}
+{"sent": "white toilet bowl", "ann_id": 1096370, "best_split": [3, 3], "split_score": 0.4802405497456631}
+{"sent": "closest item", "ann_id": 1093294, "best_split": [2, 3], "split_score": 0.19999999997929607}
+{"sent": "toilet seat", "ann_id": 1093294, "best_split": [5, 1], "split_score": 0.2889324191685668}
+{"sent": "the toilet with lid closed", "ann_id": 1093294, "best_split": [5, 1], "split_score": 0.2889324191685668}

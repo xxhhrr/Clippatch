@@ -1,0 +1,9 @@
+{"sent": "girl blue shirt", "ann_id": 1276758, "best_split": [1, 5], "split_score": 0.44982698958400225}
+{"sent": "girl in blue shirt", "ann_id": 1276758, "best_split": [1, 5], "split_score": 0.44982698958400225}
+{"sent": "girl with green shirt by teacher", "ann_id": 1276758, "best_split": [1, 5], "split_score": 0.44982698958400225}
+{"sent": "boy closest to us with gray jacket", "ann_id": 1262313, "best_split": [1, 2], "split_score": 0.44463488518635863}
+{"sent": "kid getting scraps", "ann_id": 1262313, "best_split": [2, 1], "split_score": 0.4065665385800999}
+{"sent": "boy being handed food", "ann_id": 1262313, "best_split": [2, 2], "split_score": 0.7922559176592108}
+{"sent": "older woman in black shirt with short hair", "ann_id": 1248415, "best_split": [1, 5], "split_score": 0.3831705484336336}
+{"sent": "woman reaching", "ann_id": 1248415, "best_split": [1, 2], "split_score": 0.36931270017484225}
+{"sent": "woman in black", "ann_id": 1248415, "best_split": [1, 5], "split_score": 0.3831705484336336}

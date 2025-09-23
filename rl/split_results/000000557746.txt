@@ -1,0 +1,14 @@
+{"sent": "man", "ann_id": 1240788, "best_split": [1, 2], "split_score": 0.5028698979391394}
+{"sent": "the guy holding the phone", "ann_id": 1240788, "best_split": [1, 2], "split_score": 0.5028698979391394}
+{"sent": "zipped jacket", "ann_id": 1240788, "best_split": [1, 2], "split_score": 0.5028698979391394}
+{"sent": "woman at table", "ann_id": 1221816, "best_split": [2, 2], "split_score": 0.4200965739008912}
+{"sent": "woman in glasses", "ann_id": 1221816, "best_split": [2, 2], "split_score": 0.4200965739008912}
+{"sent": "girl next to guy", "ann_id": 1221816, "best_split": [3, 2], "split_score": 0.43676222593895714}
+{"sent": "pizza back of dark soda", "ann_id": 1075231, "best_split": [3, 3], "split_score": 0.4571114943614377}
+{"sent": "pizza closest to window", "ann_id": 1075231, "best_split": [3, 3], "split_score": 0.4571114943614377}
+{"sent": "mans pizza", "ann_id": 1075231, "best_split": [3, 3], "split_score": 0.4571114943614377}
+{"sent": "table", "ann_id": 2194442, "best_split": [3, 1], "split_score": 0.7662721893086288}
+{"sent": "the pizza", "ann_id": 2194442, "best_split": [3, 1], "split_score": 0.7662721893086288}
+{"sent": "table with pizzas", "ann_id": 2194442, "best_split": [3, 1], "split_score": 0.7662721893086288}
+{"sent": "soda cans", "ann_id": 419871, "best_split": [3, 3], "split_score": 0.8552005437023792}
+{"sent": "table showing next to the blue soda can", "ann_id": 419871, "best_split": [3, 3], "split_score": 0.8552005437023792}

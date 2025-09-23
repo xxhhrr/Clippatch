@@ -1,0 +1,6 @@
+{"sent": "girl hugging bear", "ann_id": 193094, "best_split": [1, 3], "split_score": 0.4078185327939299}
+{"sent": "redhead", "ann_id": 193094, "best_split": [1, 5], "split_score": 0.5249632892322904}
+{"sent": "younger girl", "ann_id": 193094, "best_split": [1, 5], "split_score": 0.5249632892322904}
+{"sent": "older woman", "ann_id": 192483, "best_split": [1, 2], "split_score": 0.6038743622208277}
+{"sent": "older lady", "ann_id": 192483, "best_split": [1, 2], "split_score": 0.6038743622208277}
+{"sent": "women", "ann_id": 192483, "best_split": [1, 2], "split_score": 0.6038743622208277}

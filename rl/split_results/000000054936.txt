@@ -1,0 +1,6 @@
+{"sent": "just the head", "ann_id": 592773, "best_split": [3, 1], "split_score": 0.2974276527160411}
+{"sent": "half zebra", "ann_id": 592773, "best_split": [3, 2], "split_score": 0.5674846625145175}
+{"sent": "zebra out of view", "ann_id": 592773, "best_split": [3, 1], "split_score": 0.2974276527160411}
+{"sent": "zebra", "ann_id": 590608, "best_split": [2, 1], "split_score": 0.5111775290337864}
+{"sent": "full zebra", "ann_id": 590608, "best_split": [2, 1], "split_score": 0.5111775290337864}
+{"sent": "full body zebra", "ann_id": 590608, "best_split": [2, 1], "split_score": 0.5111775290337864}

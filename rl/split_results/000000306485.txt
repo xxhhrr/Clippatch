@@ -1,0 +1,11 @@
+{"sent": "laptop that is cut off", "ann_id": 1102654, "best_split": [2, 2], "split_score": 0.7397923389406628}
+{"sent": "large laptop", "ann_id": 1102654, "best_split": [2, 2], "split_score": 0.7397923389406628}
+{"sent": "laptop you could touch the soonest", "ann_id": 1102654, "best_split": [2, 2], "split_score": 0.7397923389406628}
+{"sent": "small tablet with keyboard", "ann_id": 1099204, "best_split": [3, 3], "split_score": 0.4189811140423772}
+{"sent": "little laptop", "ann_id": 1099204, "best_split": [3, 3], "split_score": 0.4189811140423772}
+{"sent": "main screen with red stripe", "ann_id": 124065, "best_split": [3, 3], "split_score": 0.39198711491926846}
+{"sent": "red bar", "ann_id": 124065, "best_split": [1, 5], "split_score": 0.3894993894696658}
+{"sent": "computer monitor", "ann_id": 124065, "best_split": [2, 3], "split_score": 0.4386996368287481}
+{"sent": "screen with face on it", "ann_id": 31274, "best_split": [2, 3], "split_score": 0.207338586356893}
+{"sent": "screen with man in tie on it", "ann_id": 31274, "best_split": [2, 3], "split_score": 0.207338586356893}
+{"sent": "monitor with male news anchor", "ann_id": 31274, "best_split": [2, 3], "split_score": 0.207338586356893}

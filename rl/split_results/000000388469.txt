@@ -1,0 +1,11 @@
+{"sent": "pink", "ann_id": 342491, "best_split": [1, 2], "split_score": 0.6723134566058548}
+{"sent": "red", "ann_id": 342491, "best_split": [1, 3], "split_score": 0.5736401279609618}
+{"sent": "red", "ann_id": 342491, "best_split": [1, 3], "split_score": 0.5736401279609618}
+{"sent": "blue", "ann_id": 342087, "best_split": [1, 2], "split_score": 0.6744260203812809}
+{"sent": "blue", "ann_id": 342087, "best_split": [1, 2], "split_score": 0.6744260203812809}
+{"sent": "blue", "ann_id": 342087, "best_split": [1, 2], "split_score": 0.6744260203812809}
+{"sent": "yellow parts", "ann_id": 341931, "best_split": [1, 2], "split_score": 0.7436281858842937}
+{"sent": "yellow grips", "ann_id": 341931, "best_split": [1, 2], "split_score": 0.7436281858842937}
+{"sent": "grren brush", "ann_id": 341582, "best_split": [2, 1], "split_score": 0.4497612823683864}
+{"sent": "green striped toothbrush", "ann_id": 341582, "best_split": [2, 1], "split_score": 0.46182499399956817}
+{"sent": "white blury with green stripes tooth brush", "ann_id": 341582, "best_split": [2, 1], "split_score": 0.46182499399956817}

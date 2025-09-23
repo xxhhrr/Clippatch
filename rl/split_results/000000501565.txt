@@ -1,0 +1,9 @@
+{"sent": "person cutting the cake in the red shirt", "ann_id": 1314149, "best_split": [1, 3], "split_score": 0.8016378997148376}
+{"sent": "arms by cake", "ann_id": 1314149, "best_split": [1, 3], "split_score": 0.8016378997148376}
+{"sent": "arm cutting cake", "ann_id": 1314149, "best_split": [1, 3], "split_score": 0.8016378997148376}
+{"sent": "kid holding plate", "ann_id": 1245593, "best_split": [1, 2], "split_score": 0.2611607142753045}
+{"sent": "boy with hands on table", "ann_id": 1245593, "best_split": [1, 2], "split_score": 0.2611607142753045}
+{"sent": "boy in black and red marvin", "ann_id": 1245593, "best_split": [1, 5], "split_score": 0.45719360564323325}
+{"sent": "girl touching her mouth", "ann_id": 1230250, "best_split": [1, 5], "split_score": 0.8448857249114944}
+{"sent": "taller girl", "ann_id": 1230250, "best_split": [1, 3], "split_score": 0.593629343593531}
+{"sent": "little girl standing", "ann_id": 1230250, "best_split": [1, 2], "split_score": 0.3922193877394683}

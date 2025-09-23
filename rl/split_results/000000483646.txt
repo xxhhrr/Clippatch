@@ -1,0 +1,14 @@
+{"sent": "woman", "ann_id": 1759256, "best_split": [1, 5], "split_score": 0.6338246702255794}
+{"sent": "only woman there", "ann_id": 1759256, "best_split": [1, 5], "split_score": 0.6338246702255794}
+{"sent": "real tall guy", "ann_id": 1756947, "best_split": [1, 5], "split_score": 0.701937809760979}
+{"sent": "man with black shirt and gray tie", "ann_id": 1756947, "best_split": [1, 2], "split_score": 0.359813456618311}
+{"sent": "gray tie", "ann_id": 1756947, "best_split": [1, 2], "split_score": 0.359813456618311}
+{"sent": "lightest suit with tie", "ann_id": 1754324, "best_split": [2, 1], "split_score": 0.18484254153184906}
+{"sent": "gray suit number 4 person", "ann_id": 1754324, "best_split": [2, 1], "split_score": 0.18484254153184906}
+{"sent": "gray suit dark tie", "ann_id": 1754324, "best_split": [2, 1], "split_score": 0.18484254153184906}
+{"sent": "white guy black suit", "ann_id": 1749968, "best_split": [2, 1], "split_score": 0.1592450604482732}
+{"sent": "goat closeyoungest guy patterned tie", "ann_id": 1749968, "best_split": [2, 1], "split_score": 0.1592450604482732}
+{"sent": "white kid in black suit", "ann_id": 1749968, "best_split": [2, 1], "split_score": 0.1592450604482732}
+{"sent": "man in black with blue tie", "ann_id": 1745514, "best_split": [1, 5], "split_score": 0.6198281207920768}
+{"sent": "blur tie", "ann_id": 1745514, "best_split": [1, 3], "split_score": 0.5083856177299477}
+{"sent": "man with blue tie", "ann_id": 1745514, "best_split": [2, 3], "split_score": 0.5431129984727554}

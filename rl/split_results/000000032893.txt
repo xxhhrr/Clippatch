@@ -1,0 +1,5 @@
+{"sent": "green above the chickeb", "ann_id": 1059785, "best_split": [3, 3], "split_score": 0.6970091026175212}
+{"sent": "on the large chicken breast", "ann_id": 1059785, "best_split": [1, 3], "split_score": 0.2769741522245095}
+{"sent": "green mush", "ann_id": 1059785, "best_split": [3, 3], "split_score": 0.6970091026175212}
+{"sent": "broccoli closest to you", "ann_id": 1059355, "best_split": [3, 1], "split_score": 0.26665434721118664}
+{"sent": "broccoli near 3pm", "ann_id": 1059355, "best_split": [3, 1], "split_score": 0.26665434721118664}

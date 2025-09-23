@@ -1,0 +1,5 @@
+{"sent": "red hidden trail", "ann_id": 1366853, "best_split": [5, 1], "split_score": 0.16517121404823557}
+{"sent": "red car", "ann_id": 1366853, "best_split": [2, 3], "split_score": 0.3396566214023704}
+{"sent": "train", "ann_id": 169660, "best_split": [3, 3], "split_score": 0.4367571112028234}
+{"sent": "black engine", "ann_id": 169660, "best_split": [3, 3], "split_score": 0.4367571112028234}
+{"sent": "engine by itself", "ann_id": 169660, "best_split": [3, 3], "split_score": 0.4367571112028234}

@@ -1,0 +1,12 @@
+{"sent": "range", "ann_id": 1123881, "best_split": [2, 2], "split_score": 0.3959571937874586}
+{"sent": "empty burner", "ann_id": 1123881, "best_split": [2, 2], "split_score": 0.3959571937874586}
+{"sent": "white stovetop", "ann_id": 1123881, "best_split": [3, 2], "split_score": 0.5064288676372429}
+{"sent": "towels on stove", "ann_id": 1123395, "best_split": [3, 2], "split_score": 0.6235453314728421}
+{"sent": "oven door", "ann_id": 1123395, "best_split": [2, 2], "split_score": 0.45969170216728816}
+{"sent": "entire area by towels", "ann_id": 1123395, "best_split": [3, 2], "split_score": 0.6235453314728421}
+{"sent": "dad", "ann_id": 481127, "best_split": [1, 3], "split_score": 0.7413127412680193}
+{"sent": "man", "ann_id": 481127, "best_split": [1, 3], "split_score": 0.7413127412680193}
+{"sent": "father", "ann_id": 481127, "best_split": [1, 3], "split_score": 0.7413127412680193}
+{"sent": "boy", "ann_id": 2167153, "best_split": [3, 3], "split_score": 0.435951875365189}
+{"sent": "baby", "ann_id": 2167153, "best_split": [3, 3], "split_score": 0.435951875365189}
+{"sent": "baby", "ann_id": 2167153, "best_split": [3, 3], "split_score": 0.435951875365189}

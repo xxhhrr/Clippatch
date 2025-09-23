@@ -1,0 +1,6 @@
+{"sent": "trunk up", "ann_id": 583890, "best_split": [2, 1], "split_score": 0.5976562499761776}
+{"sent": "elephant with raised trunk", "ann_id": 583890, "best_split": [2, 2], "split_score": 0.45166051658135686}
+{"sent": "the trunk of the elephant going toward the sky", "ann_id": 583890, "best_split": [2, 1], "split_score": 0.5976562499761776}
+{"sent": "elephant not being sprayed", "ann_id": 581903, "best_split": [2, 1], "split_score": 0.4965445865023021}
+{"sent": "that was 4 nearest elephant", "ann_id": 581903, "best_split": [1, 3], "split_score": 0.4071921258464236}
+{"sent": "elephant with trunk down", "ann_id": 581903, "best_split": [1, 3], "split_score": 0.4071921258464236}

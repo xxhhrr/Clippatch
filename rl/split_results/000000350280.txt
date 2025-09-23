@@ -1,0 +1,6 @@
+{"sent": "white and purple jacket", "ann_id": 475589, "best_split": [1, 3], "split_score": 0.7867398648174022}
+{"sent": "white shirt", "ann_id": 475589, "best_split": [1, 3], "split_score": 0.7867398648174022}
+{"sent": "lady in white jacket", "ann_id": 475589, "best_split": [1, 3], "split_score": 0.7867398648174022}
+{"sent": "woman reddish hair", "ann_id": 461539, "best_split": [1, 5], "split_score": 0.4226614387114778}
+{"sent": "lady in black", "ann_id": 461539, "best_split": [3, 2], "split_score": 0.3517051613147915}
+{"sent": "girl", "ann_id": 461539, "best_split": [3, 2], "split_score": 0.3517051613147915}

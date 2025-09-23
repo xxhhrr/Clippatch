@@ -1,0 +1,12 @@
+{"sent": "adult man green striped shirt nearest us", "ann_id": 1296672, "best_split": [1, 5], "split_score": 0.7903025674534406}
+{"sent": "standing man", "ann_id": 1296672, "best_split": [1, 5], "split_score": 0.7903025674534406}
+{"sent": "man looking at sheep", "ann_id": 1296672, "best_split": [1, 5], "split_score": 0.7903025674534406}
+{"sent": "boy green shirt no glasses holding white sheep", "ann_id": 1679623, "best_split": [3, 1], "split_score": 0.11127819548274553}
+{"sent": "boy 2 in green", "ann_id": 1679623, "best_split": [3, 3], "split_score": 0.18244575934634544}
+{"sent": "boy with with sheep looking up", "ann_id": 1679623, "best_split": [3, 2], "split_score": 0.14470284236390707}
+{"sent": "black goat", "ann_id": 63686, "best_split": [1, 5], "split_score": 0.42804557402032906}
+{"sent": "gray animal", "ann_id": 63686, "best_split": [2, 2], "split_score": 0.4723859757623033}
+{"sent": "dark calf", "ann_id": 63686, "best_split": [2, 1], "split_score": 0.23942443779527345}
+{"sent": "white goat all on boy", "ann_id": 63319, "best_split": [2, 3], "split_score": 0.47920395909453467}
+{"sent": "white goat inbetween", "ann_id": 63319, "best_split": [2, 3], "split_score": 0.47920395909453467}
+{"sent": "middle white goat", "ann_id": 63319, "best_split": [2, 3], "split_score": 0.47920395909453467}

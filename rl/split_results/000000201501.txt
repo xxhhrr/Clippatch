@@ -1,0 +1,9 @@
+{"sent": "board that blue is holding", "ann_id": 651959, "best_split": [3, 3], "split_score": 0.5964797912978357}
+{"sent": "dirty white board with blue shirt man", "ann_id": 651959, "best_split": [3, 3], "split_score": 0.5964797912978357}
+{"sent": "surfboard that man in blue shirt is carrying", "ann_id": 651959, "best_split": [3, 3], "split_score": 0.5964797912978357}
+{"sent": "board held by green shirt", "ann_id": 651635, "best_split": [3, 3], "split_score": 0.655023923366624}
+{"sent": "yellow board", "ann_id": 651635, "best_split": [3, 3], "split_score": 0.655023923366624}
+{"sent": "yellow board only", "ann_id": 651635, "best_split": [3, 3], "split_score": 0.655023923366624}
+{"sent": "white board held by white guy with black hair", "ann_id": 649566, "best_split": [3, 1], "split_score": 0.4068961431123351}
+{"sent": "white surfboard", "ann_id": 649566, "best_split": [3, 2], "split_score": 0.79944127566064}
+{"sent": "board being hold by white shirt", "ann_id": 649566, "best_split": [3, 2], "split_score": 0.79944127566064}

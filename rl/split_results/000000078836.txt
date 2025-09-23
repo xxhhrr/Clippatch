@@ -1,0 +1,18 @@
+{"sent": "person with brown pants behind woman in red", "ann_id": 1329639, "best_split": [1, 2], "split_score": 0.3749999999850526}
+{"sent": "man with white collar behind woman", "ann_id": 1329639, "best_split": [1, 2], "split_score": 0.3749999999850526}
+{"sent": "man behind woman in red clapping", "ann_id": 1329639, "best_split": [1, 2], "split_score": 0.3749999999850526}
+{"sent": "man with red tie", "ann_id": 1322253, "best_split": [1, 2], "split_score": 0.4764030612055005}
+{"sent": "man in bright red tie", "ann_id": 1322253, "best_split": [1, 2], "split_score": 0.4764030612055005}
+{"sent": "man overhead of the cake with red tie", "ann_id": 1322253, "best_split": [1, 2], "split_score": 0.4764030612055005}
+{"sent": "woman in red", "ann_id": 1299839, "best_split": [1, 3], "split_score": 0.3725787690096304}
+{"sent": "woman in red", "ann_id": 1299839, "best_split": [1, 3], "split_score": 0.3725787690096304}
+{"sent": "woman in red jacket", "ann_id": 1299839, "best_split": [1, 3], "split_score": 0.3725787690096304}
+{"sent": "man in stripe suit next to woman", "ann_id": 1331670, "best_split": [3, 3], "split_score": 0.48521205350373714}
+{"sent": "man cutting cake next to woman in red jacket", "ann_id": 1331670, "best_split": [3, 3], "split_score": 0.48521205350373714}
+{"sent": "man with striped suit beside lady in red", "ann_id": 1331670, "best_split": [3, 3], "split_score": 0.48521205350373714}
+{"sent": "smiling guy next to the red tie guy", "ann_id": 1331351, "best_split": [1, 3], "split_score": 0.2746742277826572}
+{"sent": "man to the side with mustach and tie", "ann_id": 1331351, "best_split": [1, 3], "split_score": 0.2746742277826572}
+{"sent": "mustache guy smiling", "ann_id": 1331351, "best_split": [1, 2], "split_score": 0.181481186217256}
+{"sent": "man clapping", "ann_id": 1330579, "best_split": [1, 5], "split_score": 0.9955357141847062}
+{"sent": "bald man half off pic", "ann_id": 1330579, "best_split": [1, 5], "split_score": 0.9955357141847062}
+{"sent": "the man cut off clapping", "ann_id": 1330579, "best_split": [1, 3], "split_score": 0.5919401544044438}

@@ -1,0 +1,6 @@
+{"sent": "cup of syrup on plate", "ann_id": 1882863, "best_split": [1, 5], "split_score": 0.23291233281640858}
+{"sent": "white bowl", "ann_id": 1882863, "best_split": [1, 5], "split_score": 0.23291233281640858}
+{"sent": "ketchup", "ann_id": 1882863, "best_split": [3, 2], "split_score": 0.4126447875949994}
+{"sent": "coffee cup", "ann_id": 669042, "best_split": [3, 2], "split_score": 0.532094594530394}
+{"sent": "mug", "ann_id": 669042, "best_split": [3, 2], "split_score": 0.532094594530394}
+{"sent": "coffee cup", "ann_id": 669042, "best_split": [3, 2], "split_score": 0.532094594530394}

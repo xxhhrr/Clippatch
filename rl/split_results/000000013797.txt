@@ -1,0 +1,12 @@
+{"sent": "man at mike", "ann_id": 1756663, "best_split": [1, 5], "split_score": 0.5385169186112627}
+{"sent": "speaker", "ann_id": 1756663, "best_split": [1, 2], "split_score": 0.5327002967148289}
+{"sent": "white man speaking", "ann_id": 1756663, "best_split": [1, 5], "split_score": 0.5385169186112627}
+{"sent": "hat and uniform", "ann_id": 1257329, "best_split": [1, 3], "split_score": 0.6826737451325607}
+{"sent": "man with hat", "ann_id": 1257329, "best_split": [1, 3], "split_score": 0.6826737451325607}
+{"sent": "man with beret", "ann_id": 1257329, "best_split": [1, 3], "split_score": 0.6826737451325607}
+{"sent": "white shirt in front", "ann_id": 1237219, "best_split": [1, 3], "split_score": 0.380347807511984}
+{"sent": "man in white", "ann_id": 1237219, "best_split": [2, 3], "split_score": 0.40906905941282895}
+{"sent": "man in all white near cake", "ann_id": 1237219, "best_split": [2, 2], "split_score": 0.35913389743907825}
+{"sent": "white shirt and tie", "ann_id": 1763218, "best_split": [1, 5], "split_score": 0.6592938311019385}
+{"sent": "the asian behind the speaker", "ann_id": 1763218, "best_split": [1, 5], "split_score": 0.6592938311019385}
+{"sent": "asian man holding paper", "ann_id": 1763218, "best_split": [1, 5], "split_score": 0.6592938311019385}

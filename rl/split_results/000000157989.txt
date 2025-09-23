@@ -1,0 +1,5 @@
+{"sent": "face and hand only", "ann_id": 2205059, "best_split": [2, 3], "split_score": 0.2918261652452346}
+{"sent": "kid with glasses near truck", "ann_id": 2205059, "best_split": [2, 3], "split_score": 0.2918261652452346}
+{"sent": "kid", "ann_id": 566107, "best_split": [1, 2], "split_score": 0.6127301322782641}
+{"sent": "boy", "ann_id": 566107, "best_split": [1, 2], "split_score": 0.6127301322782641}
+{"sent": "grinning boy", "ann_id": 566107, "best_split": [1, 2], "split_score": 0.6127301322782641}

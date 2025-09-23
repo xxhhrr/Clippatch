@@ -1,0 +1,6 @@
+{"sent": "smaller man", "ann_id": 481046, "best_split": [2, 3], "split_score": 0.6941955589507016}
+{"sent": "dudes reflection", "ann_id": 481046, "best_split": [2, 3], "split_score": 0.6941955589507016}
+{"sent": "man in reflection", "ann_id": 481046, "best_split": [2, 3], "split_score": 0.6941955589507016}
+{"sent": "man not in mirror", "ann_id": 471532, "best_split": [2, 1], "split_score": 0.4827994252285775}
+{"sent": "man not reflection", "ann_id": 471532, "best_split": [2, 1], "split_score": 0.4827994252285775}
+{"sent": "man not the reflection", "ann_id": 471532, "best_split": [2, 1], "split_score": 0.4827994252285775}

@@ -1,0 +1,9 @@
+{"sent": "rice", "ann_id": 1037735, "best_split": [3, 2], "split_score": 0.5388513512863354}
+{"sent": "bowl of rice", "ann_id": 1037735, "best_split": [3, 2], "split_score": 0.5388513512863354}
+{"sent": "rice", "ann_id": 1037735, "best_split": [3, 2], "split_score": 0.5388513512863354}
+{"sent": "bowl that is cut", "ann_id": 718365, "best_split": [5, 1], "split_score": 0.1745593733154211}
+{"sent": "bowl with noodle and dumplings", "ann_id": 718365, "best_split": [2, 3], "split_score": 0.38515606380924994}
+{"sent": "bowl at 10pm", "ann_id": 718365, "best_split": [2, 1], "split_score": 0.1283242041705039}
+{"sent": "bowl by rice bowl", "ann_id": 713856, "best_split": [2, 2], "split_score": 0.2663401193734624}
+{"sent": "small bowl directly behind plate without rice", "ann_id": 713856, "best_split": [3, 1], "split_score": 0.24143339766883243}
+{"sent": "smaller bowl without rice or noodles", "ann_id": 713856, "best_split": [1, 5], "split_score": 0.17740016990846216}

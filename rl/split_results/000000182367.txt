@@ -1,0 +1,9 @@
+{"sent": "arm with watch", "ann_id": 2159433, "best_split": [2, 3], "split_score": 0.3196367260693724}
+{"sent": "arm with a watch on it only", "ann_id": 2159433, "best_split": [2, 3], "split_score": 0.3196367260693724}
+{"sent": "the arm", "ann_id": 2159433, "best_split": [2, 3], "split_score": 0.3196367260693724}
+{"sent": "guy in orange shirt", "ann_id": 546274, "best_split": [3, 1], "split_score": 0.18025918346583555}
+{"sent": "man in red", "ann_id": 546274, "best_split": [1, 2], "split_score": 0.30492665815111103}
+{"sent": "orange shirt", "ann_id": 546274, "best_split": [1, 5], "split_score": 0.32400544544516674}
+{"sent": "man in black shirt no hat", "ann_id": 542986, "best_split": [1, 2], "split_score": 0.8528742173857117}
+{"sent": "man in black at blender", "ann_id": 542986, "best_split": [1, 2], "split_score": 0.8528742173857117}
+{"sent": "guy reaching in black", "ann_id": 542986, "best_split": [1, 2], "split_score": 0.8528742173857117}

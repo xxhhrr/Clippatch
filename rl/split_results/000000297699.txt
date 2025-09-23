@@ -1,0 +1,6 @@
+{"sent": "guy with white shirt alone", "ann_id": 218772, "best_split": [2, 2], "split_score": 0.32236549575201084}
+{"sent": "man in white shirt", "ann_id": 218772, "best_split": [5, 1], "split_score": 0.16980549551020332}
+{"sent": "man with white shirt", "ann_id": 218772, "best_split": [5, 1], "split_score": 0.16980549551020332}
+{"sent": "guy in black", "ann_id": 189736, "best_split": [1, 2], "split_score": 0.9695260477489414}
+{"sent": "man in black", "ann_id": 189736, "best_split": [1, 2], "split_score": 0.9695260477489414}
+{"sent": "black shirt", "ann_id": 189736, "best_split": [1, 2], "split_score": 0.9695260477489414}

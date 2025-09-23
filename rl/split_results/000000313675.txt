@@ -1,0 +1,6 @@
+{"sent": "person in white shirt", "ann_id": 463322, "best_split": [1, 3], "split_score": 0.7793296088996743}
+{"sent": "blurry person in pic", "ann_id": 463322, "best_split": [2, 1], "split_score": 0.2740484428986722}
+{"sent": "white shirt", "ann_id": 463322, "best_split": [1, 3], "split_score": 0.7793296088996743}
+{"sent": "skateboarder", "ann_id": 448592, "best_split": [1, 2], "split_score": 0.5842108581693609}
+{"sent": "guy on board", "ann_id": 448592, "best_split": [1, 2], "split_score": 0.5842108581693609}
+{"sent": "skateboarder", "ann_id": 448592, "best_split": [1, 2], "split_score": 0.5842108581693609}

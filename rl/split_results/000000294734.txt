@@ -1,0 +1,8 @@
+{"sent": "rice", "ann_id": 1038689, "best_split": [2, 3], "split_score": 0.7480874316258572}
+{"sent": "white food", "ann_id": 1038689, "best_split": [2, 3], "split_score": 0.7480874316258572}
+{"sent": "bowl with broccoli", "ann_id": 715745, "best_split": [2, 2], "split_score": 0.5759662767573492}
+{"sent": "brocolli", "ann_id": 715745, "best_split": [2, 2], "split_score": 0.5759662767573492}
+{"sent": "bowl closest with broc", "ann_id": 715745, "best_split": [2, 2], "split_score": 0.5759662767573492}
+{"sent": "carrots", "ann_id": 712350, "best_split": [1, 2], "split_score": 0.5820312499768004}
+{"sent": "carrots", "ann_id": 712350, "best_split": [1, 2], "split_score": 0.5820312499768004}
+{"sent": "bowl of carrots", "ann_id": 712350, "best_split": [1, 2], "split_score": 0.5820312499768004}

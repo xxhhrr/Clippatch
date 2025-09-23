@@ -1,0 +1,9 @@
+{"sent": "chair nothing on it", "ann_id": 1941315, "best_split": [2, 3], "split_score": 0.48773006129626095}
+{"sent": "smallest red chair", "ann_id": 1941315, "best_split": [2, 3], "split_score": 0.48773006129626095}
+{"sent": "red chair without bag", "ann_id": 1941315, "best_split": [2, 3], "split_score": 0.48773006129626095}
+{"sent": "red couch with bagback", "ann_id": 1936143, "best_split": [3, 3], "split_score": 0.4888691005507763}
+{"sent": "chair with something on it", "ann_id": 1936143, "best_split": [3, 3], "split_score": 0.4888691005507763}
+{"sent": "chair with luggage on it", "ann_id": 1936143, "best_split": [3, 3], "split_score": 0.4888691005507763}
+{"sent": "bed with white sheets", "ann_id": 317415, "best_split": [2, 1], "split_score": 0.5128029710586199}
+{"sent": "bed", "ann_id": 317415, "best_split": [2, 1], "split_score": 0.5128029710586199}
+{"sent": "bed with blue", "ann_id": 317415, "best_split": [2, 1], "split_score": 0.5128029710586199}

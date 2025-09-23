@@ -1,0 +1,6 @@
+{"sent": "the skateboarder", "ann_id": 532281, "best_split": [3, 3], "split_score": 0.41334798126704914}
+{"sent": "jumper", "ann_id": 532281, "best_split": [3, 3], "split_score": 0.41334798126704914}
+{"sent": "guy on skateboard", "ann_id": 532281, "best_split": [3, 2], "split_score": 0.3439999999647179}
+{"sent": "person in shopping cart", "ann_id": 508158, "best_split": [2, 2], "split_score": 0.5939524837554804}
+{"sent": "guy in cart", "ann_id": 508158, "best_split": [2, 2], "split_score": 0.5939524837554804}
+{"sent": "in basket", "ann_id": 508158, "best_split": [2, 2], "split_score": 0.5939524837554804}

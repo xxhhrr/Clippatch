@@ -1,0 +1,6 @@
+{"sent": "large duck", "ann_id": 1466456, "best_split": [3, 2], "split_score": 0.5144053600909209}
+{"sent": "duck", "ann_id": 1466456, "best_split": [3, 2], "split_score": 0.5144053600909209}
+{"sent": "big yellow duck", "ann_id": 1466456, "best_split": [3, 2], "split_score": 0.5144053600909209}
+{"sent": "yellow kite near duck", "ann_id": 1855346, "best_split": [5, 1], "split_score": 0.29418103446011534}
+{"sent": "yellow kite not ducky", "ann_id": 1855346, "best_split": [5, 1], "split_score": 0.29418103446011534}
+{"sent": "the yellow forward of duck beak more in sky than others", "ann_id": 1855346, "best_split": [3, 1], "split_score": 0.28320610685478703}

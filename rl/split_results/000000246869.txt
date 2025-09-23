@@ -1,0 +1,4 @@
+{"sent": "open bun", "ann_id": 1908603, "best_split": [1, 2], "split_score": 0.22544642856244235}
+{"sent": "meat", "ann_id": 309084, "best_split": [3, 1], "split_score": 0.40753472707985355}
+{"sent": "sorry the other one big ugly thin with gravy on the bun", "ann_id": 309084, "best_split": [3, 1], "split_score": 0.40753472707985355}
+{"sent": "dead bullseye", "ann_id": 309084, "best_split": [3, 1], "split_score": 0.40753472707985355}

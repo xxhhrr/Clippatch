@@ -1,0 +1,6 @@
+{"sent": "red and white food truck", "ann_id": 397100, "best_split": [3, 3], "split_score": 0.41933605119112755}
+{"sent": "vendor truck that is red and white", "ann_id": 397100, "best_split": [3, 3], "split_score": 0.41933605119112755}
+{"sent": "red and white truck", "ann_id": 397100, "best_split": [3, 3], "split_score": 0.41933605119112755}
+{"sent": "white food truck", "ann_id": 395214, "best_split": [1, 2], "split_score": 0.5727963131061665}
+{"sent": "all white truck", "ann_id": 395214, "best_split": [1, 2], "split_score": 0.5727963131061665}
+{"sent": "white vehicle in the lead", "ann_id": 395214, "best_split": [1, 3], "split_score": 0.40167011682391246}

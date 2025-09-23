@@ -1,0 +1,9 @@
+{"sent": "end of hot dog", "ann_id": 2219552, "best_split": [1, 5], "split_score": 0.4518683493905055}
+{"sent": "hot dog with red stuff", "ann_id": 2219552, "best_split": [1, 2], "split_score": 0.5425701530395978}
+{"sent": "hot dog with red peppers", "ann_id": 2219552, "best_split": [1, 2], "split_score": 0.5425701530395978}
+{"sent": "bun cheese etc", "ann_id": 1910174, "best_split": [2, 2], "split_score": 0.6991799740613367}
+{"sent": "sandwich with no red", "ann_id": 1910174, "best_split": [2, 2], "split_score": 0.6991799740613367}
+{"sent": "sandwich by fork tongs", "ann_id": 1910174, "best_split": [2, 2], "split_score": 0.6991799740613367}
+{"sent": "sandwich with a slice of cheese showing", "ann_id": 2220786, "best_split": [2, 2], "split_score": 0.7291423659691115}
+{"sent": "biggest side bun", "ann_id": 2220786, "best_split": [2, 2], "split_score": 0.7291423659691115}
+{"sent": "hot dog closest", "ann_id": 2220786, "best_split": [2, 2], "split_score": 0.7291423659691115}

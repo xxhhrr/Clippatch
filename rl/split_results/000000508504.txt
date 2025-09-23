@@ -1,0 +1,12 @@
+{"sent": "women in black", "ann_id": 463834, "best_split": [3, 2], "split_score": 0.6098901098377498}
+{"sent": "on couch", "ann_id": 463834, "best_split": [3, 2], "split_score": 0.6098901098377498}
+{"sent": "woman", "ann_id": 463834, "best_split": [2, 1], "split_score": 0.16701680671720665}
+{"sent": "person in white shirt on floor", "ann_id": 449835, "best_split": [1, 2], "split_score": 0.1556122448917565}
+{"sent": "guy", "ann_id": 449835, "best_split": [2, 3], "split_score": 0.2989558917218244}
+{"sent": "man", "ann_id": 449835, "best_split": [3, 3], "split_score": 0.5727699529556053}
+{"sent": "couch under woman", "ann_id": 98409, "best_split": [3, 2], "split_score": 0.7418291677431265}
+{"sent": "couch under girl", "ann_id": 98409, "best_split": [3, 2], "split_score": 0.7418291677431265}
+{"sent": "she is sitting on it", "ann_id": 98409, "best_split": [3, 2], "split_score": 0.7418291677431265}
+{"sent": "couch behind the guy on the west", "ann_id": 97874, "best_split": [3, 1], "split_score": 0.46062164054331495}
+{"sent": "couch behind man", "ann_id": 97874, "best_split": [3, 1], "split_score": 0.46062164054331495}
+{"sent": "sofa by man", "ann_id": 97874, "best_split": [3, 1], "split_score": 0.46062164054331495}

@@ -1,0 +1,6 @@
+{"sent": "sandwich half near the sink", "ann_id": 311322, "best_split": [2, 2], "split_score": 0.42243557349148664}
+{"sent": "the sandwich with less tomato", "ann_id": 311322, "best_split": [2, 3], "split_score": 0.24128233968815022}
+{"sent": "sandwich at 900", "ann_id": 311322, "best_split": [2, 2], "split_score": 0.42243557349148664}
+{"sent": "sandwich with tomatos sticking out", "ann_id": 310610, "best_split": [3, 2], "split_score": 0.5034308414135581}
+{"sent": "sandwich far from gold handle", "ann_id": 310610, "best_split": [3, 2], "split_score": 0.5034308414135581}
+{"sent": "sandwich with tomato sticking out", "ann_id": 310610, "best_split": [3, 2], "split_score": 0.5034308414135581}

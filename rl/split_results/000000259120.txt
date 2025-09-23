@@ -1,0 +1,6 @@
+{"sent": "tannish chair", "ann_id": 110725, "best_split": [2, 1], "split_score": 0.30468749998785527}
+{"sent": "tan chair", "ann_id": 110725, "best_split": [3, 1], "split_score": 0.37793707684030625}
+{"sent": "white couoch", "ann_id": 110725, "best_split": [2, 2], "split_score": 0.5472103003872463}
+{"sent": "dining chair back", "ann_id": 106774, "best_split": [3, 3], "split_score": 0.41599707808327296}
+{"sent": "wood chair", "ann_id": 106774, "best_split": [3, 3], "split_score": 0.41599707808327296}
+{"sent": "chair for kitchen table", "ann_id": 106774, "best_split": [2, 3], "split_score": 0.2748552123220493}

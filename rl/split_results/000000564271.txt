@@ -1,0 +1,6 @@
+{"sent": "the white fridge", "ann_id": 1983348, "best_split": [2, 1], "split_score": 0.19842997045707952}
+{"sent": "white in lower corner", "ann_id": 1983348, "best_split": [1, 2], "split_score": 0.2291932397867828}
+{"sent": "refrigerator partial view", "ann_id": 1983348, "best_split": [2, 1], "split_score": 0.19842997045707952}
+{"sent": "black appliance", "ann_id": 332835, "best_split": [2, 3], "split_score": 0.4194802536914794}
+{"sent": "dark fridge", "ann_id": 332835, "best_split": [2, 3], "split_score": 0.4194802536914794}
+{"sent": "black cabinet", "ann_id": 332835, "best_split": [2, 3], "split_score": 0.4194802536914794}

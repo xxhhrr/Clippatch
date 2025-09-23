@@ -1,0 +1,6 @@
+{"sent": "chef with bowl", "ann_id": 1739318, "best_split": [2, 1], "split_score": 0.32811473614166536}
+{"sent": "person all in white not wearing yankees hat", "ann_id": 1739318, "best_split": [2, 1], "split_score": 0.3087711727179639}
+{"sent": "person clsoest to camera looking down", "ann_id": 1739318, "best_split": [1, 2], "split_score": 0.9341517856770507}
+{"sent": "man with new york hat", "ann_id": 543161, "best_split": [2, 3], "split_score": 0.6189849623478397}
+{"sent": "man with hat", "ann_id": 543161, "best_split": [2, 3], "split_score": 0.6189849623478397}
+{"sent": "ny", "ann_id": 543161, "best_split": [2, 3], "split_score": 0.6189849623478397}

@@ -1,0 +1,12 @@
+{"sent": "man holding the pizza box", "ann_id": 2205802, "best_split": [2, 1], "split_score": 0.5916600406222087}
+{"sent": "guy holding box", "ann_id": 2205802, "best_split": [1, 2], "split_score": 0.4894179894045024}
+{"sent": "shirt", "ann_id": 2205802, "best_split": [2, 1], "split_score": 0.5916600406222087}
+{"sent": "partly shown fingers holding pizza with cream on it", "ann_id": 2031468, "best_split": [3, 3], "split_score": 0.2872440944429537}
+{"sent": "hand holding slice", "ann_id": 2031468, "best_split": [3, 3], "split_score": 0.2872440944429537}
+{"sent": "small hand", "ann_id": 2031468, "best_split": [3, 3], "split_score": 0.2872440944429537}
+{"sent": "pizza piece on someones hand", "ann_id": 1076841, "best_split": [3, 3], "split_score": 0.9010461325842829}
+{"sent": "slice in hand white stuff on it", "ann_id": 1076841, "best_split": [3, 3], "split_score": 0.9010461325842829}
+{"sent": "pizza in hand", "ann_id": 1076841, "best_split": [3, 3], "split_score": 0.9010461325842829}
+{"sent": "third of pizza", "ann_id": 1076767, "best_split": [3, 2], "split_score": 0.4844811369542814}
+{"sent": "pizza in box", "ann_id": 1076767, "best_split": [3, 2], "split_score": 0.4844811369542814}
+{"sent": "pizza piece still in box", "ann_id": 1076767, "best_split": [3, 2], "split_score": 0.4844811369542814}

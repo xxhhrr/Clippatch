@@ -1,0 +1,6 @@
+{"sent": "the woman in the brown hat is also lagging", "ann_id": 477163, "best_split": [2, 2], "split_score": 0.4878455462708273}
+{"sent": "white hat", "ann_id": 477163, "best_split": [2, 2], "split_score": 0.4878455462708273}
+{"sent": "girl 1", "ann_id": 477163, "best_split": [2, 1], "split_score": 0.3146544404733499}
+{"sent": "lady with black hat", "ann_id": 421840, "best_split": [1, 3], "split_score": 0.7817850637115906}
+{"sent": "black hat", "ann_id": 421840, "best_split": [1, 3], "split_score": 0.7817850637115906}
+{"sent": "black hat", "ann_id": 421840, "best_split": [1, 3], "split_score": 0.7817850637115906}

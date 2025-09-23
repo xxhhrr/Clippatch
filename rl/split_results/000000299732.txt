@@ -1,0 +1,5 @@
+{"sent": "smaller weird looking bear", "ann_id": 1162827, "best_split": [2, 1], "split_score": 0.3006881046361668}
+{"sent": "bear that you can see both eyes", "ann_id": 1162827, "best_split": [2, 1], "split_score": 0.3006881046361668}
+{"sent": "teddy bear that is not facing the camera", "ann_id": 1161680, "best_split": [1, 2], "split_score": 0.6147640483381022}
+{"sent": "bigger bear", "ann_id": 1161680, "best_split": [1, 2], "split_score": 0.6147640483381022}
+{"sent": "big bear", "ann_id": 1161680, "best_split": [1, 2], "split_score": 0.6147640483381022}

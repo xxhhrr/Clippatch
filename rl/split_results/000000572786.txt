@@ -1,0 +1,5 @@
+{"sent": "smaller cab", "ann_id": 140371, "best_split": [2, 1], "split_score": 0.14475854828491458}
+{"sent": "cab leading", "ann_id": 140371, "best_split": [3, 2], "split_score": 0.6374150470206968}
+{"sent": "taxi car", "ann_id": 140371, "best_split": [5, 1], "split_score": 0.34917555768017144}
+{"sent": "car closest to us", "ann_id": 135995, "best_split": [2, 2], "split_score": 0.6371359222817706}
+{"sent": "the bigger cab", "ann_id": 135995, "best_split": [3, 2], "split_score": 0.6174740968339891}

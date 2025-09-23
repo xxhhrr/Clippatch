@@ -1,0 +1,6 @@
+{"sent": "meter closest", "ann_id": 418948, "best_split": [1, 2], "split_score": 0.5125231910776397}
+{"sent": "closest meter", "ann_id": 418948, "best_split": [1, 3], "split_score": 0.47799442895033845}
+{"sent": "parking meter where you can read the display", "ann_id": 418948, "best_split": [1, 3], "split_score": 0.47799442895033845}
+{"sent": "meter farthest away from viewer", "ann_id": 418356, "best_split": [2, 2], "split_score": 0.515837829148238}
+{"sent": "parking meter that looks smaller", "ann_id": 418356, "best_split": [1, 2], "split_score": 0.6311383928319859}
+{"sent": "meter farthest", "ann_id": 418356, "best_split": [2, 2], "split_score": 0.515837829148238}

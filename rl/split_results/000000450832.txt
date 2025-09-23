@@ -1,0 +1,6 @@
+{"sent": "black shirt", "ann_id": 205532, "best_split": [3, 2], "split_score": 0.41077441073118953}
+{"sent": "man with cat on shirt", "ann_id": 205532, "best_split": [3, 2], "split_score": 0.41077441073118953}
+{"sent": "man in black", "ann_id": 205532, "best_split": [3, 2], "split_score": 0.41077441073118953}
+{"sent": "gray long sleeve shirt", "ann_id": 205245, "best_split": [1, 5], "split_score": 0.33670288140418486}
+{"sent": "man in gray with arm near chain", "ann_id": 205245, "best_split": [1, 5], "split_score": 0.33670288140418486}
+{"sent": "man in gray shirt smiling has sunglasses on", "ann_id": 205245, "best_split": [5, 1], "split_score": 0.17108094684894215}

@@ -1,0 +1,9 @@
+{"sent": "blue jacket", "ann_id": 1280211, "best_split": [1, 2], "split_score": 0.22122130101159035}
+{"sent": "partial guy in blue jacket", "ann_id": 1280211, "best_split": [1, 2], "split_score": 0.22122130101159035}
+{"sent": "guy in sweater looking away", "ann_id": 1280211, "best_split": [1, 3], "split_score": 0.31718061672120607}
+{"sent": "dark tie with stripes on it", "ann_id": 1271672, "best_split": [5, 1], "split_score": 0.10554536474491708}
+{"sent": "man with hands in his pockets", "ann_id": 1271672, "best_split": [1, 2], "split_score": 0.23174426019484437}
+{"sent": "man with dark tie", "ann_id": 1271672, "best_split": [5, 1], "split_score": 0.10554536474491708}
+{"sent": "red tie", "ann_id": 1254391, "best_split": [1, 3], "split_score": 0.6358093126134063}
+{"sent": "man in the foreground", "ann_id": 1254391, "best_split": [1, 3], "split_score": 0.6358093126134063}
+{"sent": "main guy", "ann_id": 1254391, "best_split": [1, 3], "split_score": 0.6358093126134063}

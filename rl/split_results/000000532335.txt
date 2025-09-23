@@ -1,0 +1,6 @@
+{"sent": "mask guy", "ann_id": 1707456, "best_split": [1, 2], "split_score": 0.4548395445036482}
+{"sent": "man in black with mustach", "ann_id": 1707456, "best_split": [2, 1], "split_score": 0.5796276782442424}
+{"sent": "person in mask", "ann_id": 1707456, "best_split": [1, 2], "split_score": 0.46082550131099603}
+{"sent": "guy behind mask dude closest", "ann_id": 1696271, "best_split": [3, 2], "split_score": 0.22408249249095435}
+{"sent": "closest person to the mask", "ann_id": 1696271, "best_split": [3, 2], "split_score": 0.22408249249095435}
+{"sent": "girl by mask", "ann_id": 1696271, "best_split": [3, 2], "split_score": 0.22408249249095435}

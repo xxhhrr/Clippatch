@@ -1,0 +1,5 @@
+{"sent": "darkest auto", "ann_id": 1772721, "best_split": [1, 3], "split_score": 0.8799469111438256}
+{"sent": "partial end of vehicle", "ann_id": 1772721, "best_split": [1, 3], "split_score": 0.8799469111438256}
+{"sent": "back end of van", "ann_id": 1772721, "best_split": [1, 3], "split_score": 0.8799469111438256}
+{"sent": "car with snow", "ann_id": 355568, "best_split": [2, 2], "split_score": 0.35156249997197364}
+{"sent": "light blue car with snow", "ann_id": 355568, "best_split": [2, 2], "split_score": 0.35156249997197364}

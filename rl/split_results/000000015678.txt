@@ -1,0 +1,10 @@
+{"sent": "man on the far side", "ann_id": 550030, "best_split": [1, 5], "split_score": 0.4489086343008587}
+{"sent": "black suit white hat", "ann_id": 550030, "best_split": [1, 5], "split_score": 0.4489086343008587}
+{"sent": "man standing over woman", "ann_id": 544841, "best_split": [3, 2], "split_score": 0.2080868806159132}
+{"sent": "guy in white standing next to biggest bucket", "ann_id": 544841, "best_split": [3, 3], "split_score": 0.49218870835387646}
+{"sent": "white shirt no hat standing", "ann_id": 544841, "best_split": [3, 3], "split_score": 0.49218870835387646}
+{"sent": "leanin on table", "ann_id": 535792, "best_split": [2, 1], "split_score": 0.14015151514598517}
+{"sent": "child sitted", "ann_id": 535792, "best_split": [2, 3], "split_score": 0.41573033702999407}
+{"sent": "sitting down", "ann_id": 535792, "best_split": [2, 1], "split_score": 0.14015151514598517}
+{"sent": "modern suit near door", "ann_id": 1735814, "best_split": [1, 3], "split_score": 0.36938947874219413}
+{"sent": "standing man suit and long tie", "ann_id": 1735814, "best_split": [2, 3], "split_score": 0.4293790914075204}

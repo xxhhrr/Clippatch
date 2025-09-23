@@ -1,0 +1,6 @@
+{"sent": "couch between both lamps", "ann_id": 1951394, "best_split": [3, 2], "split_score": 0.40355871882530614}
+{"sent": "couch at window", "ann_id": 1951394, "best_split": [3, 2], "split_score": 0.40355871882530614}
+{"sent": "couch by the window", "ann_id": 1951394, "best_split": [3, 2], "split_score": 0.40355871882530614}
+{"sent": "couch furthest away", "ann_id": 1950344, "best_split": [3, 3], "split_score": 0.42701812184068894}
+{"sent": "couch near tall case", "ann_id": 1950344, "best_split": [3, 3], "split_score": 0.42701812184068894}
+{"sent": "leather couch against far wall", "ann_id": 1950344, "best_split": [3, 3], "split_score": 0.42701812184068894}

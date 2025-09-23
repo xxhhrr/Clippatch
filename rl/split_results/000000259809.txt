@@ -1,0 +1,14 @@
+{"sent": "the man flipping pancakes", "ann_id": 1258004, "best_split": [1, 3], "split_score": 0.4431524547599136}
+{"sent": "man in apron", "ann_id": 1258004, "best_split": [1, 2], "split_score": 0.4604316546593587}
+{"sent": "guy", "ann_id": 1258004, "best_split": [1, 5], "split_score": 0.4690117252650747}
+{"sent": "blond woman by bald guy", "ann_id": 1225528, "best_split": [1, 3], "split_score": 0.49123408140647395}
+{"sent": "blond", "ann_id": 1225528, "best_split": [1, 3], "split_score": 0.49123408140647395}
+{"sent": "blond with sunglasses", "ann_id": 1225528, "best_split": [1, 3], "split_score": 0.49123408140647395}
+{"sent": "blue table cloth", "ann_id": 393630, "best_split": [3, 3], "split_score": 0.5757858698139144}
+{"sent": "leg of person off camera", "ann_id": 393630, "best_split": [1, 5], "split_score": 0.3929325907054991}
+{"sent": "photobomer on the side", "ann_id": 1303931, "best_split": [1, 5], "split_score": 0.8181818181049791}
+{"sent": "person with sunglasses only a corner of the person purple shirt", "ann_id": 1303931, "best_split": [1, 5], "split_score": 0.8181818181049791}
+{"sent": "pink", "ann_id": 1303931, "best_split": [1, 5], "split_score": 0.8181818181049791}
+{"sent": "pick a pancake any pancake", "ann_id": 391544, "best_split": [5, 1], "split_score": 0.4686561185190611}
+{"sent": "pancakes on griddle", "ann_id": 391544, "best_split": [5, 1], "split_score": 0.4686561185190611}
+{"sent": "the grill with pancakes", "ann_id": 391544, "best_split": [5, 1], "split_score": 0.4686561185190611}

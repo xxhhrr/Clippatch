@@ -1,0 +1,6 @@
+{"sent": "the medium sized giraffe eating", "ann_id": 600166, "best_split": [3, 1], "split_score": 0.3317120072206486}
+{"sent": "medium giraffe", "ann_id": 600166, "best_split": [3, 1], "split_score": 0.3317120072206486}
+{"sent": "one head bent over", "ann_id": 600166, "best_split": [3, 1], "split_score": 0.3317120072206486}
+{"sent": "big girafffe", "ann_id": 597131, "best_split": [1, 2], "split_score": 0.5916400344799969}
+{"sent": "giraffe head", "ann_id": 597131, "best_split": [1, 2], "split_score": 0.5916400344799969}
+{"sent": "giraffe that is closest", "ann_id": 597131, "best_split": [1, 2], "split_score": 0.5916400344799969}

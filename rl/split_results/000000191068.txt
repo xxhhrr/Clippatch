@@ -1,0 +1,9 @@
+{"sent": "pepperoni pizza kindda deformed", "ann_id": 1571465, "best_split": [3, 3], "split_score": 0.28065201979435644}
+{"sent": "smaller pizza on north side", "ann_id": 1571465, "best_split": [3, 3], "split_score": 0.28065201979435644}
+{"sent": "pizza with piece missing", "ann_id": 1571465, "best_split": [3, 3], "split_score": 0.28065201979435644}
+{"sent": "candy", "ann_id": 1090617, "best_split": [2, 1], "split_score": 0.9556760203700703}
+{"sent": "brown cake", "ann_id": 1090617, "best_split": [2, 1], "split_score": 0.9556760203700703}
+{"sent": "cake with person behind", "ann_id": 1090617, "best_split": [2, 1], "split_score": 0.9556760203700703}
+{"sent": "pizza with what looks like chicken on it", "ann_id": 1071518, "best_split": [2, 2], "split_score": 0.7189707365778455}
+{"sent": "chicken pizza", "ann_id": 1071518, "best_split": [2, 2], "split_score": 0.7189707365778455}
+{"sent": "big pizza", "ann_id": 1071518, "best_split": [2, 2], "split_score": 0.7189707365778455}

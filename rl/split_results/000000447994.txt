@@ -1,0 +1,8 @@
+{"sent": "glass with the least amount of wine", "ann_id": 1499384, "best_split": [3, 3], "split_score": 0.36163895481567115}
+{"sent": "glass on the edge", "ann_id": 1499384, "best_split": [3, 3], "split_score": 0.36163895481567115}
+{"sent": "glass with least wine", "ann_id": 1499384, "best_split": [3, 3], "split_score": 0.36163895481567115}
+{"sent": "most full glass", "ann_id": 662040, "best_split": [5, 1], "split_score": 0.1430274135754276}
+{"sent": "wine glass in the row of three most in line with papers", "ann_id": 662040, "best_split": [2, 3], "split_score": 0.29907975456846186}
+{"sent": "wine glass at 6 o clock", "ann_id": 662040, "best_split": [5, 1], "split_score": 0.1430274135754276}
+{"sent": "wine glass 1", "ann_id": 661688, "best_split": [1, 5], "split_score": 0.3083734359664703}
+{"sent": "glass 1", "ann_id": 661688, "best_split": [3, 2], "split_score": 0.23775216135881513}

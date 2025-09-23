@@ -1,0 +1,16 @@
+{"sent": "dark blue blurriest vase", "ann_id": 2193772, "best_split": [1, 2], "split_score": 0.6640624999735306}
+{"sent": "blurry blue", "ann_id": 2193772, "best_split": [1, 2], "split_score": 0.6640624999735306}
+{"sent": "blue vase further", "ann_id": 2193772, "best_split": [1, 2], "split_score": 0.6640624999735306}
+{"sent": "yellow and black vase", "ann_id": 2193625, "best_split": [1, 2], "split_score": 0.4121492346774494}
+{"sent": "the green round vase", "ann_id": 2193625, "best_split": [2, 2], "split_score": 0.22708992438055178}
+{"sent": "yellow swirl", "ann_id": 2193625, "best_split": [1, 5], "split_score": 0.6172325431920858}
+{"sent": "darker blue vase", "ann_id": 1669706, "best_split": [2, 2], "split_score": 0.36399816314373196}
+{"sent": "green vase", "ann_id": 1669259, "best_split": [5, 1], "split_score": 0.18649517683524588}
+{"sent": "light green object", "ann_id": 1669259, "best_split": [2, 2], "split_score": 0.31948124387676186}
+{"sent": "green vase", "ann_id": 1669259, "best_split": [5, 1], "split_score": 0.18649517683524588}
+{"sent": "lighter blue vase", "ann_id": 1153995, "best_split": [2, 3], "split_score": 0.6800693240311898}
+{"sent": "blue vase thats not blurry", "ann_id": 1153995, "best_split": [2, 3], "split_score": 0.6800693240311898}
+{"sent": "blue base", "ann_id": 1153995, "best_split": [2, 3], "split_score": 0.6800693240311898}
+{"sent": "blue vase with tag", "ann_id": 22538, "best_split": [1, 3], "split_score": 0.8830645160809141}
+{"sent": "closest blue vase", "ann_id": 22538, "best_split": [1, 3], "split_score": 0.8830645160809141}
+{"sent": "light blue vase", "ann_id": 22538, "best_split": [1, 3], "split_score": 0.8830645160809141}

@@ -1,0 +1,8 @@
+{"sent": "slice at 1210", "ann_id": 1076928, "best_split": [2, 1], "split_score": 0.23501275509267328}
+{"sent": "pizza next to the scooper thing with white on it", "ann_id": 1076928, "best_split": [2, 1], "split_score": 0.23501275509267328}
+{"sent": "piece with burnt cheese", "ann_id": 1076716, "best_split": [1, 5], "split_score": 0.284769164368994}
+{"sent": "spatula is pointing at these slices", "ann_id": 1076059, "best_split": [1, 2], "split_score": 0.6343804863234701}
+{"sent": "slice at 9 o clock", "ann_id": 1076059, "best_split": [1, 2], "split_score": 0.6343804863234701}
+{"sent": "closest piece with split in crust", "ann_id": 1075900, "best_split": [2, 1], "split_score": 0.6971460458905793}
+{"sent": "600", "ann_id": 1075900, "best_split": [2, 1], "split_score": 0.6971460458905793}
+{"sent": "6pm slice", "ann_id": 1075900, "best_split": [3, 1], "split_score": 0.2041285214306978}

@@ -1,0 +1,6 @@
+{"sent": "person with big white section on jacket", "ann_id": 555843, "best_split": [1, 3], "split_score": 0.71531129339314}
+{"sent": "black and white", "ann_id": 555843, "best_split": [1, 3], "split_score": 0.71531129339314}
+{"sent": "man in black arm raised", "ann_id": 555843, "best_split": [1, 2], "split_score": 0.4726163902872841}
+{"sent": "man facing camera", "ann_id": 555163, "best_split": [1, 3], "split_score": 0.529335000786834}
+{"sent": "man with hat raising hand", "ann_id": 555163, "best_split": [1, 3], "split_score": 0.529335000786834}
+{"sent": "guy facing us", "ann_id": 555163, "best_split": [1, 3], "split_score": 0.529335000786834}

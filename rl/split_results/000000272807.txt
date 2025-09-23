@@ -1,0 +1,12 @@
+{"sent": "bike closest to the people", "ann_id": 153988, "best_split": [2, 3], "split_score": 0.5360872591626726}
+{"sent": "bike with people next to it", "ann_id": 153988, "best_split": [2, 1], "split_score": 0.18176095679511522}
+{"sent": "bike 4", "ann_id": 153988, "best_split": [2, 1], "split_score": 0.18176095679511522}
+{"sent": "bike by rear view mirror", "ann_id": 153667, "best_split": [2, 2], "split_score": 0.36708860756727785}
+{"sent": "bike near car mirror", "ann_id": 153667, "best_split": [2, 2], "split_score": 0.36708860756727785}
+{"sent": "bike near driver side door of white car", "ann_id": 153667, "best_split": [2, 2], "split_score": 0.36708860756727785}
+{"sent": "blue bike", "ann_id": 152976, "best_split": [2, 3], "split_score": 0.4135906786077034}
+{"sent": "blue cycle", "ann_id": 152976, "best_split": [2, 3], "split_score": 0.4135906786077034}
+{"sent": "faster blue bike", "ann_id": 152976, "best_split": [2, 3], "split_score": 0.4135906786077034}
+{"sent": "close bike", "ann_id": 149383, "best_split": [1, 3], "split_score": 0.594835907300022}
+{"sent": "bleach harley farthest from car", "ann_id": 149383, "best_split": [3, 3], "split_score": 0.4883540372196861}
+{"sent": "bike off edge", "ann_id": 149383, "best_split": [2, 3], "split_score": 0.5992245329045449}

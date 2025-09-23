@@ -1,0 +1,11 @@
+{"sent": "desk", "ann_id": 2133762, "best_split": [2, 1], "split_score": 0.7569355867045227}
+{"sent": "desk", "ann_id": 2133762, "best_split": [2, 1], "split_score": 0.7569355867045227}
+{"sent": "desk space not occupied by cats or notebook", "ann_id": 2133762, "best_split": [1, 2], "split_score": 0.2598033611449696}
+{"sent": "cat not on notebook", "ann_id": 49237, "best_split": [2, 1], "split_score": 0.3936717663284537}
+{"sent": "cat not laying on the notebook", "ann_id": 49237, "best_split": [2, 1], "split_score": 0.3936717663284537}
+{"sent": "body of cat with tail over the edge", "ann_id": 49237, "best_split": [3, 1], "split_score": 0.30314538098311133}
+{"sent": "cat with head on other cat", "ann_id": 48064, "best_split": [3, 1], "split_score": 0.3778080326569188}
+{"sent": "cat under the white cup", "ann_id": 48064, "best_split": [3, 1], "split_score": 0.3778080326569188}
+{"sent": "asleep", "ann_id": 48064, "best_split": [3, 1], "split_score": 0.3778080326569188}
+{"sent": "computer screen not covered by junk", "ann_id": 31058, "best_split": [3, 3], "split_score": 0.8131848062795498}
+{"sent": "monitor in corner", "ann_id": 31058, "best_split": [3, 3], "split_score": 0.8131848062795498}

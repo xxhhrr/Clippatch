@@ -1,0 +1,10 @@
+{"sent": "the girl sitting next to the girl in blue jacket", "ann_id": 536631, "best_split": [3, 3], "split_score": 0.24178013944839252}
+{"sent": "girl whos staring", "ann_id": 534513, "best_split": [2, 3], "split_score": 0.39089389316639844}
+{"sent": "girl in blue", "ann_id": 534513, "best_split": [2, 3], "split_score": 0.39089389316639844}
+{"sent": "girl in blue", "ann_id": 534513, "best_split": [2, 3], "split_score": 0.39089389316639844}
+{"sent": "waitress", "ann_id": 500235, "best_split": [1, 3], "split_score": 0.45103926094393537}
+{"sent": "woman in white shirt", "ann_id": 500235, "best_split": [3, 3], "split_score": 0.49754535747091294}
+{"sent": "server in white", "ann_id": 500235, "best_split": [3, 3], "split_score": 0.49754535747091294}
+{"sent": "bald man in black", "ann_id": 472058, "best_split": [1, 2], "split_score": 0.4813319878758409}
+{"sent": "man with mouth open", "ann_id": 472058, "best_split": [1, 2], "split_score": 0.4813319878758409}
+{"sent": "man in black", "ann_id": 472058, "best_split": [1, 2], "split_score": 0.4813319878758409}

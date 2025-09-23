@@ -1,0 +1,6 @@
+{"sent": "catcher", "ann_id": 467790, "best_split": [3, 1], "split_score": 0.35979055849568686}
+{"sent": "legs open", "ann_id": 467790, "best_split": [1, 2], "split_score": 0.48068083882215307}
+{"sent": "catcher", "ann_id": 467790, "best_split": [3, 1], "split_score": 0.35979055849568686}
+{"sent": "boston shirt", "ann_id": 441144, "best_split": [3, 2], "split_score": 0.5382273341899334}
+{"sent": "player sliding into base", "ann_id": 441144, "best_split": [1, 2], "split_score": 0.32590571470646107}
+{"sent": "boston", "ann_id": 441144, "best_split": [3, 2], "split_score": 0.5382273341899334}

@@ -1,0 +1,6 @@
+{"sent": "green cover at 9pm", "ann_id": 2052228, "best_split": [3, 3], "split_score": 0.6195652172826849}
+{"sent": "dark green truck covered", "ann_id": 2052228, "best_split": [3, 3], "split_score": 0.6195652172826849}
+{"sent": "green tarp", "ann_id": 2052228, "best_split": [3, 3], "split_score": 0.6195652172826849}
+{"sent": "row of red cars", "ann_id": 1374424, "best_split": [3, 3], "split_score": 0.30145797595396034}
+{"sent": "blue truck holding red items", "ann_id": 1374424, "best_split": [2, 3], "split_score": 0.30312009758557434}
+{"sent": "blue seni cab", "ann_id": 1374424, "best_split": [3, 1], "split_score": 0.28596724212671715}

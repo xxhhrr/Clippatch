@@ -1,0 +1,6 @@
+{"sent": "bus behing the 52 bus", "ann_id": 168927, "best_split": [5, 1], "split_score": 0.18851892103660517}
+{"sent": "bus in back", "ann_id": 168927, "best_split": [3, 3], "split_score": 0.31788421772607095}
+{"sent": "bus behind the bus", "ann_id": 168927, "best_split": [3, 3], "split_score": 0.31788421772607095}
+{"sent": "sign says london bridge", "ann_id": 168298, "best_split": [3, 1], "split_score": 0.4289611275046055}
+{"sent": "lead bus", "ann_id": 168298, "best_split": [3, 2], "split_score": 0.8109153415544783}
+{"sent": "frontest most bus", "ann_id": 168298, "best_split": [3, 2], "split_score": 0.8109153415544783}

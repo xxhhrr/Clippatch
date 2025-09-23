@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 483531, "best_split": [3, 1], "split_score": 0.2740740740650108}
+{"sent": "girl", "ann_id": 483531, "best_split": [1, 2], "split_score": 0.6666666666430461}
+{"sent": "asian girl", "ann_id": 483531, "best_split": [1, 2], "split_score": 0.6666666666430461}
+{"sent": "man eating hot dog", "ann_id": 425568, "best_split": [1, 2], "split_score": 0.7537069515005697}
+{"sent": "the man", "ann_id": 425568, "best_split": [1, 2], "split_score": 0.7537069515005697}
+{"sent": "guy", "ann_id": 425568, "best_split": [1, 2], "split_score": 0.7537069515005697}

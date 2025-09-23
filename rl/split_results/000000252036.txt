@@ -1,0 +1,6 @@
+{"sent": "red guy", "ann_id": 1734646, "best_split": [1, 2], "split_score": 0.4385245901539498}
+{"sent": "man in red", "ann_id": 1734646, "best_split": [1, 2], "split_score": 0.4385245901539498}
+{"sent": "man", "ann_id": 1734646, "best_split": [1, 2], "split_score": 0.4385245901539498}
+{"sent": "girl in blue and do funny descriptions", "ann_id": 436861, "best_split": [1, 3], "split_score": 0.477799227770403}
+{"sent": "girl in backround in black", "ann_id": 436861, "best_split": [1, 5], "split_score": 0.6903765689720067}
+{"sent": "cutoff person with watch", "ann_id": 436861, "best_split": [1, 2], "split_score": 0.3156887754976208}

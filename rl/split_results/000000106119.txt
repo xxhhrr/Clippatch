@@ -1,0 +1,6 @@
+{"sent": "man sitting", "ann_id": 1721149, "best_split": [3, 3], "split_score": 0.8356792142658462}
+{"sent": "obscured man", "ann_id": 1721149, "best_split": [2, 3], "split_score": 0.6759856630016743}
+{"sent": "man sitting", "ann_id": 1721149, "best_split": [3, 3], "split_score": 0.8356792142658462}
+{"sent": "pitching", "ann_id": 450422, "best_split": [2, 3], "split_score": 0.3447055036735834}
+{"sent": "baseball player", "ann_id": 450422, "best_split": [2, 3], "split_score": 0.3447055036735834}
+{"sent": "person thowing ball", "ann_id": 450422, "best_split": [2, 3], "split_score": 0.3447055036735834}

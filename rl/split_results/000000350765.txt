@@ -1,0 +1,6 @@
+{"sent": "hand foreground", "ann_id": 481568, "best_split": [3, 3], "split_score": 0.5465668370075663}
+{"sent": "hand only", "ann_id": 481568, "best_split": [3, 3], "split_score": 0.5465668370075663}
+{"sent": "cutoff hand", "ann_id": 481568, "best_split": [3, 3], "split_score": 0.5465668370075663}
+{"sent": "reaching stripes", "ann_id": 472773, "best_split": [1, 3], "split_score": 0.5582365844225436}
+{"sent": "kid in stripes", "ann_id": 472773, "best_split": [1, 3], "split_score": 0.5582365844225436}
+{"sent": "kid reaching", "ann_id": 472773, "best_split": [1, 3], "split_score": 0.5582365844225436}

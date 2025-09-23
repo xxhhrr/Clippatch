@@ -1,0 +1,6 @@
+{"sent": "polar bear facing away", "ann_id": 587930, "best_split": [1, 3], "split_score": 0.06071136549158262}
+{"sent": "cant see any of his face", "ann_id": 587930, "best_split": [1, 3], "split_score": 0.06071136549158262}
+{"sent": "bear face away from camera", "ann_id": 587930, "best_split": [1, 3], "split_score": 0.06071136549158262}
+{"sent": "polar bear turned to its side", "ann_id": 587744, "best_split": [5, 1], "split_score": 0.38775820167164654}
+{"sent": "lower polar bear", "ann_id": 587744, "best_split": [5, 1], "split_score": 0.38775820167164654}
+{"sent": "bear eating", "ann_id": 587744, "best_split": [5, 1], "split_score": 0.38775820167164654}

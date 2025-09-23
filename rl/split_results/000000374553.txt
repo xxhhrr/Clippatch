@@ -1,0 +1,10 @@
+{"sent": "person in white near umpire", "ann_id": 2161289, "best_split": [1, 3], "split_score": 0.34299836932618233}
+{"sent": "catcher hidden behind umpire", "ann_id": 2161289, "best_split": [2, 3], "split_score": 0.48284635583692986}
+{"sent": "yellow helmet", "ann_id": 500888, "best_split": [1, 3], "split_score": 0.7327157704059695}
+{"sent": "yellow helmet", "ann_id": 500888, "best_split": [1, 3], "split_score": 0.7327157704059695}
+{"sent": "ump", "ann_id": 463040, "best_split": [3, 2], "split_score": 0.24480594110844284}
+{"sent": "ump", "ann_id": 463040, "best_split": [3, 2], "split_score": 0.24480594110844284}
+{"sent": "closest man", "ann_id": 463040, "best_split": [1, 2], "split_score": 0.23788546254851636}
+{"sent": "21", "ann_id": 461751, "best_split": [2, 3], "split_score": 0.4990488871505565}
+{"sent": "player running away from view", "ann_id": 461751, "best_split": [2, 3], "split_score": 0.4990488871505565}
+{"sent": "21", "ann_id": 461751, "best_split": [2, 3], "split_score": 0.4990488871505565}

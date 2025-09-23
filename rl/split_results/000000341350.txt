@@ -1,0 +1,6 @@
+{"sent": "clearest monitor", "ann_id": 35916, "best_split": [2, 3], "split_score": 0.2490347490047014}
+{"sent": "monitor near computer box", "ann_id": 35916, "best_split": [2, 3], "split_score": 0.2490347490047014}
+{"sent": "computer monitor facing chair", "ann_id": 35916, "best_split": [1, 5], "split_score": 0.1919999999808}
+{"sent": "screen wiht keyboard", "ann_id": 32460, "best_split": [1, 5], "split_score": 0.22777777775518077}
+{"sent": "computer screen nearest white cup", "ann_id": 32460, "best_split": [1, 5], "split_score": 0.22777777775518077}
+{"sent": "computer closer to score", "ann_id": 32460, "best_split": [1, 5], "split_score": 0.22777777775518077}

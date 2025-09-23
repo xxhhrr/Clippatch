@@ -1,0 +1,14 @@
+{"sent": "white shirt with blue scarf on head", "ann_id": 1249197, "best_split": [1, 5], "split_score": 0.4083806817767471}
+{"sent": "girl in white holding umbrella", "ann_id": 1249197, "best_split": [3, 2], "split_score": 0.1618229854536872}
+{"sent": "lady with blue head wrap and umbrella", "ann_id": 1249197, "best_split": [3, 2], "split_score": 0.1618229854536872}
+{"sent": "blue hoodie pulled up", "ann_id": 1235976, "best_split": [2, 3], "split_score": 0.3348765431754242}
+{"sent": "blue shirt next to orange", "ann_id": 1235976, "best_split": [3, 3], "split_score": 0.218146949512388}
+{"sent": "blue sweatshirt not covered by umbrella", "ann_id": 1235976, "best_split": [5, 1], "split_score": 0.11912273950603133}
+{"sent": "light blue umbrella on edge", "ann_id": 285917, "best_split": [3, 3], "split_score": 0.46998745736069025}
+{"sent": "light blue half umbrella", "ann_id": 285917, "best_split": [3, 3], "split_score": 0.46998745736069025}
+{"sent": "blue umbrella with pink under", "ann_id": 285917, "best_split": [3, 3], "split_score": 0.46998745736069025}
+{"sent": "purple umbrella", "ann_id": 285605, "best_split": [3, 3], "split_score": 0.5414123800546254}
+{"sent": "purple umbrella", "ann_id": 285605, "best_split": [3, 3], "split_score": 0.5414123800546254}
+{"sent": "purple umbrella", "ann_id": 285605, "best_split": [3, 3], "split_score": 0.5414123800546254}
+{"sent": "woman under blue umbrella face not visible", "ann_id": 1680187, "best_split": [1, 5], "split_score": 0.467422096275901}
+{"sent": "woman in jean long skirt", "ann_id": 1680187, "best_split": [2, 3], "split_score": 0.6857239132106342}

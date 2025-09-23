@@ -1,0 +1,5 @@
+{"sent": "car behind guy", "ann_id": 1800301, "best_split": [3, 3], "split_score": 0.7420904421497282}
+{"sent": "car behind man", "ann_id": 1800301, "best_split": [3, 3], "split_score": 0.7420904421497282}
+{"sent": "the small suv", "ann_id": 1797379, "best_split": [1, 5], "split_score": 0.5369318181273405}
+{"sent": "vehicle closest to man", "ann_id": 1797379, "best_split": [1, 5], "split_score": 0.5369318181273405}
+{"sent": "closer car", "ann_id": 1797379, "best_split": [1, 5], "split_score": 0.5369318181273405}

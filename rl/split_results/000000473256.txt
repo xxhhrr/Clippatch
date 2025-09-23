@@ -1,0 +1,5 @@
+{"sent": "triangle portion of bed only near 8pm", "ann_id": 1957621, "best_split": [2, 3], "split_score": 0.5505144994679005}
+{"sent": "portion of bed at far 900 to boots", "ann_id": 1957621, "best_split": [2, 3], "split_score": 0.5505144994679005}
+{"sent": "blanket area near the knees", "ann_id": 317451, "best_split": [2, 1], "split_score": 0.6782077392859531}
+{"sent": "bed she is on", "ann_id": 317451, "best_split": [2, 1], "split_score": 0.6782077392859531}
+{"sent": "bed by her boots", "ann_id": 317451, "best_split": [2, 1], "split_score": 0.6782077392859531}

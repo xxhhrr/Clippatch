@@ -1,0 +1,9 @@
+{"sent": "exactly between the buses", "ann_id": 166086, "best_split": [3, 3], "split_score": 0.3662524525235035}
+{"sent": "red bus", "ann_id": 166086, "best_split": [3, 1], "split_score": 0.13011152415601118}
+{"sent": "red bus between blue and yellow", "ann_id": 166086, "best_split": [3, 3], "split_score": 0.3662524525235035}
+{"sent": "yellow bus", "ann_id": 163921, "best_split": [1, 2], "split_score": 0.6107700892613692}
+{"sent": "yellow bus", "ann_id": 163921, "best_split": [1, 2], "split_score": 0.6107700892613692}
+{"sent": "yellow", "ann_id": 163921, "best_split": [1, 2], "split_score": 0.6107700892613692}
+{"sent": "blue swanage 50", "ann_id": 163291, "best_split": [1, 2], "split_score": 0.6740274234425212}
+{"sent": "blue", "ann_id": 163291, "best_split": [1, 2], "split_score": 0.6740274234425212}
+{"sent": "blue bus", "ann_id": 163291, "best_split": [1, 2], "split_score": 0.6740274234425212}

@@ -1,0 +1,6 @@
+{"sent": "guy in black vest", "ann_id": 1713434, "best_split": [1, 5], "split_score": 0.6392045453896911}
+{"sent": "man behind bride", "ann_id": 1713434, "best_split": [1, 3], "split_score": 0.3800675675446388}
+{"sent": "man", "ann_id": 1713434, "best_split": [3, 1], "split_score": 0.1572237960260409}
+{"sent": "woman in white", "ann_id": 217354, "best_split": [1, 2], "split_score": 0.5005627174007428}
+{"sent": "woman", "ann_id": 217354, "best_split": [1, 2], "split_score": 0.5005627174007428}
+{"sent": "main girl", "ann_id": 217354, "best_split": [1, 2], "split_score": 0.5005627174007428}

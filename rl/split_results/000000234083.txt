@@ -1,0 +1,6 @@
+{"sent": "jug of milk", "ann_id": 1487059, "best_split": [3, 2], "split_score": 0.2948841698485902}
+{"sent": "jug of white milk", "ann_id": 1487059, "best_split": [3, 3], "split_score": 0.30952380947263164}
+{"sent": "white milk jug", "ann_id": 1487059, "best_split": [3, 3], "split_score": 0.30952380947263164}
+{"sent": "chocolate milk", "ann_id": 81987, "best_split": [2, 3], "split_score": 0.36920849416394685}
+{"sent": "chocolate milk", "ann_id": 81987, "best_split": [2, 3], "split_score": 0.36920849416394685}
+{"sent": "chocolate milk", "ann_id": 81987, "best_split": [2, 3], "split_score": 0.36920849416394685}

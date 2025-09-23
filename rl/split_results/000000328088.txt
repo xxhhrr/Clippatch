@@ -1,0 +1,5 @@
+{"sent": "the suv", "ann_id": 1786584, "best_split": [2, 2], "split_score": 0.6719782895642629}
+{"sent": "suv", "ann_id": 1786584, "best_split": [2, 2], "split_score": 0.6719782895642629}
+{"sent": "car closest to us", "ann_id": 1352276, "best_split": [3, 1], "split_score": 0.6630824372388506}
+{"sent": "black car", "ann_id": 1352276, "best_split": [3, 1], "split_score": 0.6630824372388506}
+{"sent": "closest car", "ann_id": 1352276, "best_split": [3, 1], "split_score": 0.6630824372388506}

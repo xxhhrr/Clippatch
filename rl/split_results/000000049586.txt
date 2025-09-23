@@ -1,0 +1,6 @@
+{"sent": "bike with wheel showing but not the rest", "ann_id": 1789691, "best_split": [1, 2], "split_score": 0.48788265304177764}
+{"sent": "motorcycle father", "ann_id": 1789691, "best_split": [1, 2], "split_score": 0.48788265304177764}
+{"sent": "obscured bike with blue", "ann_id": 1789691, "best_split": [2, 2], "split_score": 0.5182553295443362}
+{"sent": "whole bike", "ann_id": 154296, "best_split": [2, 1], "split_score": 0.46153846152839834}
+{"sent": "bike in foreground", "ann_id": 154296, "best_split": [2, 1], "split_score": 0.46153846152839834}
+{"sent": "the motorcycle with picture leaned against it", "ann_id": 154296, "best_split": [2, 1], "split_score": 0.46153846152839834}

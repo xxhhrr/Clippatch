@@ -1,0 +1,5 @@
+{"sent": "spoon nearest cup", "ann_id": 704443, "best_split": [2, 3], "split_score": 0.27091191476914667}
+{"sent": "spoon close to cup", "ann_id": 704443, "best_split": [2, 3], "split_score": 0.27091191476914667}
+{"sent": "spoon farthest from the coffee cup", "ann_id": 704091, "best_split": [1, 2], "split_score": 0.3221207952881668}
+{"sent": "spoon", "ann_id": 704091, "best_split": [2, 1], "split_score": 0.6857461734420541}
+{"sent": "spoon nearest you", "ann_id": 704091, "best_split": [2, 1], "split_score": 0.6857461734420541}

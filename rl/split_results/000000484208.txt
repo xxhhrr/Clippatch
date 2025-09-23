@@ -1,0 +1,9 @@
+{"sent": "smallest sheep", "ann_id": 63343, "best_split": [1, 5], "split_score": 0.4212358572338606}
+{"sent": "baby", "ann_id": 63343, "best_split": [2, 2], "split_score": 0.4946080914457112}
+{"sent": "baby sheep", "ann_id": 63343, "best_split": [1, 5], "split_score": 0.4212358572338606}
+{"sent": "sheep with black head", "ann_id": 63045, "best_split": [1, 2], "split_score": 0.5499658236312384}
+{"sent": "sheep with horns", "ann_id": 63045, "best_split": [1, 2], "split_score": 0.5499658236312384}
+{"sent": "black face", "ann_id": 63045, "best_split": [2, 2], "split_score": 0.4907306433801013}
+{"sent": "sheep facing camara", "ann_id": 62831, "best_split": [3, 1], "split_score": 0.44244726054065175}
+{"sent": "sheep looking at camera", "ann_id": 62831, "best_split": [3, 1], "split_score": 0.44244726054065175}
+{"sent": "all white adult sheep", "ann_id": 62831, "best_split": [3, 1], "split_score": 0.44244726054065175}

@@ -1,0 +1,5 @@
+{"sent": "cow next to the cows head", "ann_id": 1819953, "best_split": [1, 2], "split_score": 0.6791414009642818}
+{"sent": "not a whole cow", "ann_id": 1819953, "best_split": [3, 2], "split_score": 0.4133872013360573}
+{"sent": "cow you can see the whole face", "ann_id": 70029, "best_split": [1, 2], "split_score": 0.603135399318762}
+{"sent": "moo", "ann_id": 70029, "best_split": [1, 2], "split_score": 0.603135399318762}
+{"sent": "i love you", "ann_id": 70029, "best_split": [1, 2], "split_score": 0.603135399318762}

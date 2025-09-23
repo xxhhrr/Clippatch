@@ -1,0 +1,5 @@
+{"sent": "group of oranges far from woman", "ann_id": 1556068, "best_split": [3, 2], "split_score": 0.30067567563939723}
+{"sent": "pile of oranges in corner above white thing on floor", "ann_id": 1556068, "best_split": [3, 2], "split_score": 0.30067567563939723}
+{"sent": "oranges at edge of table", "ann_id": 1556068, "best_split": [3, 2], "split_score": 0.30067567563939723}
+{"sent": "oranges next to the vertical pole", "ann_id": 1913278, "best_split": [3, 3], "split_score": 0.713624760575363}
+{"sent": "stack of oranges closet to 9", "ann_id": 1913278, "best_split": [3, 3], "split_score": 0.713624760575363}

@@ -1,0 +1,6 @@
+{"sent": "book under the other", "ann_id": 1140193, "best_split": [1, 2], "split_score": 0.7093928199724063}
+{"sent": "white", "ann_id": 1140193, "best_split": [1, 2], "split_score": 0.7093928199724063}
+{"sent": "book with not bird on it", "ann_id": 1140193, "best_split": [2, 1], "split_score": 0.2971994665569714}
+{"sent": "book with a bird perched on the cover", "ann_id": 1137836, "best_split": [1, 2], "split_score": 0.6230339776496868}
+{"sent": "bird", "ann_id": 1137836, "best_split": [1, 2], "split_score": 0.6230339776496868}
+{"sent": "book with bird on it", "ann_id": 1137836, "best_split": [1, 2], "split_score": 0.6230339776496868}

@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 1711014, "best_split": [1, 5], "split_score": 0.4407216494439689}
+{"sent": "blue whte zipper", "ann_id": 1711014, "best_split": [1, 5], "split_score": 0.4407216494439689}
+{"sent": "blue man", "ann_id": 1711014, "best_split": [1, 5], "split_score": 0.4407216494439689}
+{"sent": "boy not under umbrella", "ann_id": 516705, "best_split": [3, 1], "split_score": 0.16513761467100832}
+{"sent": "white shirt can see both arms", "ann_id": 516705, "best_split": [2, 2], "split_score": 0.4859813083757315}
+{"sent": "shortest person white shirt on end", "ann_id": 516705, "best_split": [2, 2], "split_score": 0.4859813083757315}
+{"sent": "guy holding umbrella", "ann_id": 515532, "best_split": [3, 1], "split_score": 0.1681581276345679}
+{"sent": "man with arms around others", "ann_id": 515532, "best_split": [1, 3], "split_score": 0.4332770270008882}
+{"sent": "the taller man with white shirt", "ann_id": 515532, "best_split": [2, 3], "split_score": 0.6021126759939817}

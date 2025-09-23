@@ -1,0 +1,6 @@
+{"sent": "yellow on train", "ann_id": 173146, "best_split": [1, 2], "split_score": 0.8444276147622597}
+{"sent": "yellow", "ann_id": 173146, "best_split": [1, 2], "split_score": 0.8444276147622597}
+{"sent": "big side of bus", "ann_id": 173146, "best_split": [1, 2], "split_score": 0.8444276147622597}
+{"sent": "view of train facing you", "ann_id": 172043, "best_split": [3, 1], "split_score": 0.17482281470638722}
+{"sent": "bus at 3", "ann_id": 172043, "best_split": [3, 1], "split_score": 0.17482281470638722}
+{"sent": "train running head on", "ann_id": 172043, "best_split": [2, 1], "split_score": 0.16695652173320474}

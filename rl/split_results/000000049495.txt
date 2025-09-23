@@ -1,0 +1,8 @@
+{"sent": "black car behind siver car", "ann_id": 362139, "best_split": [3, 3], "split_score": 0.5531195018875193}
+{"sent": "dark suv behind light colored car", "ann_id": 362139, "best_split": [3, 3], "split_score": 0.5531195018875193}
+{"sent": "cream car", "ann_id": 361409, "best_split": [3, 3], "split_score": 0.6469131433492105}
+{"sent": "gold car behind parking sign", "ann_id": 361409, "best_split": [3, 2], "split_score": 0.4437827536393779}
+{"sent": "you had that one weird here white car", "ann_id": 361409, "best_split": [3, 3], "split_score": 0.6469131433492105}
+{"sent": "dark car closest to sign", "ann_id": 354912, "best_split": [2, 2], "split_score": 0.6815650435041007}
+{"sent": "car half out of puc", "ann_id": 354912, "best_split": [2, 3], "split_score": 0.741201949039776}
+{"sent": "black car mirror visible", "ann_id": 354912, "best_split": [2, 3], "split_score": 0.741201949039776}

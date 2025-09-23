@@ -1,0 +1,10 @@
+{"sent": "man with glasses", "ann_id": 223298, "best_split": [2, 1], "split_score": 0.01855307164166333}
+{"sent": "partial person", "ann_id": 223298, "best_split": [2, 1], "split_score": 0.01855307164166333}
+{"sent": "man almost off screen", "ann_id": 223298, "best_split": [2, 2], "split_score": 0.2537678830805778}
+{"sent": "full man in black", "ann_id": 192882, "best_split": [1, 2], "split_score": 0.5406976744025659}
+{"sent": "guy in black holding controller", "ann_id": 192882, "best_split": [1, 2], "split_score": 0.5406976744025659}
+{"sent": "guy with remote", "ann_id": 192882, "best_split": [1, 2], "split_score": 0.5406976744025659}
+{"sent": "blue shirt", "ann_id": 188218, "best_split": [1, 2], "split_score": 0.8214779960966828}
+{"sent": "girl", "ann_id": 188218, "best_split": [1, 2], "split_score": 0.8214779960966828}
+{"sent": "girl", "ann_id": 188218, "best_split": [1, 2], "split_score": 0.8214779960966828}
+{"sent": "woman", "ann_id": 188218, "best_split": [1, 2], "split_score": 0.8214779960966828}

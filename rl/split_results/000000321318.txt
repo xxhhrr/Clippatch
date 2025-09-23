@@ -1,0 +1,6 @@
+{"sent": "dark coat with hood", "ann_id": 480832, "best_split": [1, 5], "split_score": 0.3863636363244355}
+{"sent": "person in black jacket with hood up", "ann_id": 480832, "best_split": [1, 5], "split_score": 0.3863636363244355}
+{"sent": "closest person with jeans", "ann_id": 480832, "best_split": [3, 2], "split_score": 0.2115384615172738}
+{"sent": "the kid with bat", "ann_id": 442536, "best_split": [1, 5], "split_score": 0.6623959000110189}
+{"sent": "batter", "ann_id": 442536, "best_split": [1, 5], "split_score": 0.6623959000110189}
+{"sent": "kid with bat", "ann_id": 442536, "best_split": [1, 5], "split_score": 0.6623959000110189}

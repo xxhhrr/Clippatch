@@ -1,0 +1,11 @@
+{"sent": "purple passenger", "ann_id": 1238021, "best_split": [1, 2], "split_score": 0.522321428550609}
+{"sent": "purple", "ann_id": 1238021, "best_split": [1, 2], "split_score": 0.522321428550609}
+{"sent": "guy in purple", "ann_id": 1238021, "best_split": [1, 2], "split_score": 0.522321428550609}
+{"sent": "rickshaw with no one in it", "ann_id": 1766275, "best_split": [1, 3], "split_score": 0.5997130559182381}
+{"sent": "red and blue cart", "ann_id": 1766275, "best_split": [1, 3], "split_score": 0.5997130559182381}
+{"sent": "man on bike with scarf", "ann_id": 1301725, "best_split": [1, 5], "split_score": 0.3545541873762506}
+{"sent": "white shirt with scarf", "ann_id": 1301725, "best_split": [3, 3], "split_score": 0.2187671082646702}
+{"sent": "man the you can see his face with a checkered scarf", "ann_id": 1301725, "best_split": [3, 3], "split_score": 0.2187671082646702}
+{"sent": "the bicycle coming toward us", "ann_id": 125540, "best_split": [2, 2], "split_score": 0.5640329031345533}
+{"sent": "bike with man with scarf", "ann_id": 125540, "best_split": [2, 2], "split_score": 0.5640329031345533}
+{"sent": "bike with 2 ladys in back", "ann_id": 125540, "best_split": [2, 2], "split_score": 0.5640329031345533}

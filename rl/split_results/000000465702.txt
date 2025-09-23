@@ -1,0 +1,5 @@
+{"sent": "red hat kid", "ann_id": 463716, "best_split": [1, 3], "split_score": 0.23564189187767604}
+{"sent": "gray player", "ann_id": 463716, "best_split": [1, 5], "split_score": 0.17163289629051312}
+{"sent": "red hat", "ann_id": 463716, "best_split": [1, 5], "split_score": 0.17163289629051312}
+{"sent": "guy in red", "ann_id": 426265, "best_split": [1, 5], "split_score": 0.3379923760849752}
+{"sent": "red shirt", "ann_id": 426265, "best_split": [1, 5], "split_score": 0.3379923760849752}

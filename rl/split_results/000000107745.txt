@@ -1,0 +1,5 @@
+{"sent": "man with sunglasses by heavy man", "ann_id": 1298909, "best_split": [2, 3], "split_score": 0.28259653046641336}
+{"sent": "thin sunglass guy", "ann_id": 1298909, "best_split": [1, 5], "split_score": 0.2745059674941786}
+{"sent": "the guy standing closest", "ann_id": 1296134, "best_split": [2, 3], "split_score": 0.33753906698257446}
+{"sent": "man wearing black hat", "ann_id": 1296134, "best_split": [2, 3], "split_score": 0.33753906698257446}
+{"sent": "black jacket hands in pockets", "ann_id": 1296134, "best_split": [2, 3], "split_score": 0.33753906698257446}

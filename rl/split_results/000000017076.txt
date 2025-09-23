@@ -1,0 +1,9 @@
+{"sent": "plate of food", "ann_id": 1040153, "best_split": [3, 3], "split_score": 0.6795730949764739}
+{"sent": "plate with vegetables", "ann_id": 1040153, "best_split": [3, 3], "split_score": 0.6795730949764739}
+{"sent": "main food plate", "ann_id": 1040153, "best_split": [3, 3], "split_score": 0.6795730949764739}
+{"sent": "the yellow sauce", "ann_id": 1039394, "best_split": [3, 3], "split_score": 0.3898607639432594}
+{"sent": "orange sauce cup", "ann_id": 1039394, "best_split": [3, 3], "split_score": 0.3898607639432594}
+{"sent": "orange sauce", "ann_id": 1039394, "best_split": [3, 2], "split_score": 0.2595673876563385}
+{"sent": "beige stuff in bowl", "ann_id": 716309, "best_split": [3, 3], "split_score": 0.6077428779021653}
+{"sent": "white food", "ann_id": 716309, "best_split": [3, 3], "split_score": 0.6077428779021653}
+{"sent": "bowl with white dip in it", "ann_id": 716309, "best_split": [3, 3], "split_score": 0.6077428779021653}

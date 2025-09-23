@@ -1,0 +1,5 @@
+{"sent": "hes wearing black with his back to us", "ann_id": 195310, "best_split": [1, 5], "split_score": 0.27577848216709133}
+{"sent": "person in black sitting", "ann_id": 195310, "best_split": [1, 5], "split_score": 0.27577848216709133}
+{"sent": "man that is turned around in black", "ann_id": 195310, "best_split": [1, 5], "split_score": 0.27577848216709133}
+{"sent": "woman", "ann_id": 187339, "best_split": [1, 3], "split_score": 0.6690166780307772}
+{"sent": "woman in white coat", "ann_id": 187339, "best_split": [1, 3], "split_score": 0.6690166780307772}

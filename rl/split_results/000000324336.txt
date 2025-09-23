@@ -1,0 +1,9 @@
+{"sent": "man with umbrella", "ann_id": 1734772, "best_split": [1, 2], "split_score": 0.39293686222923563}
+{"sent": "woman with umbrella", "ann_id": 1734772, "best_split": [1, 2], "split_score": 0.39293686222923563}
+{"sent": "black jacket with shorts", "ann_id": 1734772, "best_split": [1, 5], "split_score": 0.7098005203200519}
+{"sent": "man holding white sleeping bag", "ann_id": 459605, "best_split": [1, 5], "split_score": 0.5570211038395879}
+{"sent": "man with rolled white thing", "ann_id": 459605, "best_split": [1, 5], "split_score": 0.5570211038395879}
+{"sent": "man in the bus stop holding white thing", "ann_id": 459605, "best_split": [1, 5], "split_score": 0.5570211038395879}
+{"sent": "far guy in black no umbrella", "ann_id": 452947, "best_split": [5, 1], "split_score": 0.09795443205571641}
+{"sent": "inside bus stop with hands in pocket", "ann_id": 452947, "best_split": [1, 5], "split_score": 0.2970530451574604}
+{"sent": "small man by sign", "ann_id": 452947, "best_split": [3, 3], "split_score": 0.35130168447912685}

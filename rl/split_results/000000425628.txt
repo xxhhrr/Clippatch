@@ -1,0 +1,5 @@
+{"sent": "mom", "ann_id": 211022, "best_split": [3, 1], "split_score": 0.325885822781872}
+{"sent": "woman", "ann_id": 211022, "best_split": [3, 1], "split_score": 0.325885822781872}
+{"sent": "child", "ann_id": 197544, "best_split": [1, 2], "split_score": 0.7194870982776838}
+{"sent": "boy in multicolors", "ann_id": 197544, "best_split": [1, 2], "split_score": 0.7194870982776838}
+{"sent": "kid", "ann_id": 197544, "best_split": [1, 2], "split_score": 0.7194870982776838}

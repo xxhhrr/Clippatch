@@ -1,0 +1,9 @@
+{"sent": "highest duck", "ann_id": 44917, "best_split": [3, 2], "split_score": 0.5776235905705092}
+{"sent": "farthest bird", "ann_id": 44917, "best_split": [3, 1], "split_score": 0.30424851528641794}
+{"sent": "bird farthest out", "ann_id": 44917, "best_split": [3, 1], "split_score": 0.30424851528641794}
+{"sent": "bird with one leg showing", "ann_id": 43947, "best_split": [3, 1], "split_score": 0.5034263581039117}
+{"sent": "duck between other two ducks", "ann_id": 43947, "best_split": [3, 1], "split_score": 0.5034263581039117}
+{"sent": "middle duck", "ann_id": 43947, "best_split": [3, 1], "split_score": 0.5034263581039117}
+{"sent": "shortest duck", "ann_id": 40361, "best_split": [2, 3], "split_score": 0.4702154625612362}
+{"sent": "bird standing differently", "ann_id": 40361, "best_split": [2, 3], "split_score": 0.4702154625612362}
+{"sent": "the white bird without visible wings", "ann_id": 40361, "best_split": [2, 3], "split_score": 0.4702154625612362}

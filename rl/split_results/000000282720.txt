@@ -1,0 +1,12 @@
+{"sent": "black keys", "ann_id": 1634557, "best_split": [2, 2], "split_score": 0.24020532949043516}
+{"sent": "keyboard with black keys", "ann_id": 1634557, "best_split": [2, 1], "split_score": 0.024867350547404764}
+{"sent": "black keyboard", "ann_id": 1634557, "best_split": [2, 1], "split_score": 0.024867350547404764}
+{"sent": "white keyboard the keys", "ann_id": 1634230, "best_split": [2, 3], "split_score": 0.4430501929967362}
+{"sent": "white keyboard", "ann_id": 1634230, "best_split": [2, 3], "split_score": 0.4430501929967362}
+{"sent": "white keyboard", "ann_id": 1634230, "best_split": [2, 3], "split_score": 0.4430501929967362}
+{"sent": "arm with no decorations", "ann_id": 1210816, "best_split": [2, 1], "split_score": 0.559445967778969}
+{"sent": "dark arm", "ann_id": 1210816, "best_split": [2, 1], "split_score": 0.559445967778969}
+{"sent": "black hand", "ann_id": 1210816, "best_split": [2, 1], "split_score": 0.559445967778969}
+{"sent": "hand with bracelet", "ann_id": 500430, "best_split": [1, 2], "split_score": 0.7102997448696469}
+{"sent": "bracelet wearer", "ann_id": 500430, "best_split": [1, 2], "split_score": 0.7102997448696469}
+{"sent": "the arm with a bracelet", "ann_id": 500430, "best_split": [1, 2], "split_score": 0.7102997448696469}

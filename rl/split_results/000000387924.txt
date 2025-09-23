@@ -1,0 +1,6 @@
+{"sent": "half black car", "ann_id": 2041603, "best_split": [3, 3], "split_score": 0.27557411269377063}
+{"sent": "blue car near parking meter not the one closest to us", "ann_id": 2041603, "best_split": [3, 3], "split_score": 0.27557411269377063}
+{"sent": "cut off car", "ann_id": 2041603, "best_split": [3, 3], "split_score": 0.27557411269377063}
+{"sent": "car next to us", "ann_id": 344517, "best_split": [3, 1], "split_score": 0.44654394732273117}
+{"sent": "black car", "ann_id": 344517, "best_split": [2, 1], "split_score": 0.530569834831823}
+{"sent": "car with stickers on it", "ann_id": 344517, "best_split": [2, 1], "split_score": 0.530569834831823}

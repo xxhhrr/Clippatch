@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 523848, "best_split": [3, 3], "split_score": 0.48391938245241}
+{"sent": "man", "ann_id": 523848, "best_split": [3, 3], "split_score": 0.48391938245241}
+{"sent": "man bending over", "ann_id": 523848, "best_split": [3, 2], "split_score": 0.4608771929420283}
+{"sent": "girl", "ann_id": 509205, "best_split": [1, 2], "split_score": 0.12304687499509538}
+{"sent": "woman white skirt", "ann_id": 509205, "best_split": [1, 5], "split_score": 0.2647058823270758}
+{"sent": "woman", "ann_id": 509205, "best_split": [5, 1], "split_score": 0.14773432649217572}

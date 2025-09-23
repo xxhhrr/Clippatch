@@ -1,0 +1,6 @@
+{"sent": "black new jersy", "ann_id": 2053331, "best_split": [3, 2], "split_score": 0.4144477515554301}
+{"sent": "black stuff on truck", "ann_id": 2053331, "best_split": [3, 1], "split_score": 0.340952677119113}
+{"sent": "obscured truck", "ann_id": 2053331, "best_split": [3, 1], "split_score": 0.340952677119113}
+{"sent": "the truck", "ann_id": 396865, "best_split": [2, 1], "split_score": 0.5657548075599992}
+{"sent": "flatbed", "ann_id": 396865, "best_split": [2, 1], "split_score": 0.5657548075599992}
+{"sent": "truck closest to us", "ann_id": 396865, "best_split": [2, 1], "split_score": 0.5657548075599992}

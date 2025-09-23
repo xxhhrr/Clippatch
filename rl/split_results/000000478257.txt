@@ -1,0 +1,14 @@
+{"sent": "girl by yellow cup", "ann_id": 206324, "best_split": [5, 1], "split_score": 0.22925764189864453}
+{"sent": "girl with pink blouse donut in both hands", "ann_id": 206324, "best_split": [2, 3], "split_score": 0.3052606177237861}
+{"sent": "girl sitting at 2 o clock", "ann_id": 202905, "best_split": [2, 3], "split_score": 0.3068181817846571}
+{"sent": "girl in white sitting closest to the baby in the booster", "ann_id": 202905, "best_split": [3, 1], "split_score": 0.12890276538085957}
+{"sent": "the girl in the white with the lime green cup", "ann_id": 202905, "best_split": [2, 3], "split_score": 0.3068181817846571}
+{"sent": "baby in blue seat", "ann_id": 198943, "best_split": [2, 3], "split_score": 0.31932773105516715}
+{"sent": "kid in booster seat", "ann_id": 198943, "best_split": [2, 2], "split_score": 0.2179085785677905}
+{"sent": "kid in blue booster chair", "ann_id": 198943, "best_split": [2, 3], "split_score": 0.31932773105516715}
+{"sent": "boy with red pants", "ann_id": 235009, "best_split": [2, 1], "split_score": 0.4479942693249286}
+{"sent": "the boy going to grab green cup", "ann_id": 235009, "best_split": [3, 1], "split_score": 0.2850700595794383}
+{"sent": "boy with red shorts", "ann_id": 235009, "best_split": [2, 1], "split_score": 0.4479942693249286}
+{"sent": "chair with blue seat", "ann_id": 104771, "best_split": [3, 2], "split_score": 0.7178405735219484}
+{"sent": "chair that has booster seat", "ann_id": 104771, "best_split": [3, 2], "split_score": 0.7178405735219484}
+{"sent": "what type of chair is the baby seat on", "ann_id": 104771, "best_split": [3, 2], "split_score": 0.7178405735219484}

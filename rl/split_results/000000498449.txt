@@ -1,0 +1,6 @@
+{"sent": "little girl in snow", "ann_id": 479683, "best_split": [1, 2], "split_score": 0.3593749999856754}
+{"sent": "the girl with the white pants", "ann_id": 479683, "best_split": [1, 2], "split_score": 0.3593749999856754}
+{"sent": "red visor", "ann_id": 479683, "best_split": [1, 3], "split_score": 0.26199516740164724}
+{"sent": "boy blue pants", "ann_id": 438913, "best_split": [1, 3], "split_score": 0.2285743505712531}
+{"sent": "smiling with teeth", "ann_id": 438913, "best_split": [3, 2], "split_score": 0.30736002655695627}
+{"sent": "skier with black pants", "ann_id": 438913, "best_split": [1, 5], "split_score": 0.4138888888550744}

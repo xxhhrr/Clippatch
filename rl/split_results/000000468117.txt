@@ -1,0 +1,5 @@
+{"sent": "piece above empty space", "ann_id": 1570269, "best_split": [3, 2], "split_score": 0.3233180927234391}
+{"sent": "three slices of pizza", "ann_id": 1570269, "best_split": [1, 3], "split_score": 0.12490815576208174}
+{"sent": "largest portion of pizza", "ann_id": 1074717, "best_split": [2, 1], "split_score": 0.5643336529107302}
+{"sent": "largest portion of the pizza", "ann_id": 1074717, "best_split": [2, 1], "split_score": 0.5643336529107302}
+{"sent": "half of pizza", "ann_id": 1074717, "best_split": [2, 1], "split_score": 0.5643336529107302}

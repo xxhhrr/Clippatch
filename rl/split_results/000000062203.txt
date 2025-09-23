@@ -1,0 +1,6 @@
+{"sent": "man with white cap", "ann_id": 1727501, "best_split": [2, 3], "split_score": 0.34772529698177096}
+{"sent": "man in checkered shirt", "ann_id": 1727501, "best_split": [3, 3], "split_score": 0.397341025912788}
+{"sent": "striped shirt", "ann_id": 1727501, "best_split": [2, 3], "split_score": 0.34772529698177096}
+{"sent": "red", "ann_id": 463321, "best_split": [1, 5], "split_score": 0.5451033416510427}
+{"sent": "red shirt", "ann_id": 463321, "best_split": [1, 5], "split_score": 0.5451033416510427}
+{"sent": "a man with a red shirt on", "ann_id": 463321, "best_split": [1, 5], "split_score": 0.5451033416510427}

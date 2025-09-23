@@ -1,0 +1,5 @@
+{"sent": "car roof near", "ann_id": 1343758, "best_split": [3, 1], "split_score": 0.703486969069529}
+{"sent": "roof of nearest vehicle", "ann_id": 1343758, "best_split": [3, 1], "split_score": 0.703486969069529}
+{"sent": "black car with mirror totally visible", "ann_id": 1788614, "best_split": [3, 3], "split_score": 0.5384615383652126}
+{"sent": "black suv corner slightly out of view closest to us", "ann_id": 1788614, "best_split": [3, 2], "split_score": 0.36965914541890793}
+{"sent": "dark car only half is showing in foreground", "ann_id": 1788614, "best_split": [3, 3], "split_score": 0.5384615383652126}

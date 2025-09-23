@@ -1,0 +1,4 @@
+{"sent": "the biggest battleship", "ann_id": 179951, "best_split": [2, 1], "split_score": 0.4456807848634338}
+{"sent": "white boat in water", "ann_id": 175321, "best_split": [3, 3], "split_score": 0.503834808185275}
+{"sent": "small boat", "ann_id": 175321, "best_split": [2, 3], "split_score": 0.382506111129503}
+{"sent": "smaller boat 2 o clock", "ann_id": 175321, "best_split": [3, 2], "split_score": 0.5253283301447785}

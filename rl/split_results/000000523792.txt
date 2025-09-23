@@ -1,0 +1,6 @@
+{"sent": "man in blue shirt with lanyard around neck", "ann_id": 513088, "best_split": [2, 2], "split_score": 0.607270724276558}
+{"sent": "something around his neck", "ann_id": 513088, "best_split": [2, 2], "split_score": 0.607270724276558}
+{"sent": "blue shirt", "ann_id": 513088, "best_split": [2, 2], "split_score": 0.607270724276558}
+{"sent": "man holding basket", "ann_id": 440068, "best_split": [1, 2], "split_score": 0.18791725948750804}
+{"sent": "man holding bread", "ann_id": 440068, "best_split": [2, 3], "split_score": 0.5529064038864131}
+{"sent": "holding bread", "ann_id": 440068, "best_split": [2, 3], "split_score": 0.5529064038864131}

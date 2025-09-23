@@ -1,0 +1,14 @@
+{"sent": "pizza at 3 clock", "ann_id": 1571547, "best_split": [2, 3], "split_score": 0.5445493205534125}
+{"sent": "largest widest piece", "ann_id": 1571547, "best_split": [2, 3], "split_score": 0.5445493205534125}
+{"sent": "largest two pizza slices on edge", "ann_id": 1571547, "best_split": [2, 3], "split_score": 0.5445493205534125}
+{"sent": "pizza slice number 7", "ann_id": 1571384, "best_split": [2, 2], "split_score": 0.429292929259052}
+{"sent": "slice of pizza at 5 narrow crust", "ann_id": 1571384, "best_split": [2, 2], "split_score": 0.429292929259052}
+{"sent": "big long slice", "ann_id": 1571018, "best_split": [1, 5], "split_score": 0.39671401673825823}
+{"sent": "largest slice end piece", "ann_id": 1571018, "best_split": [1, 5], "split_score": 0.39671401673825823}
+{"sent": "longest piece", "ann_id": 1571018, "best_split": [1, 5], "split_score": 0.39671401673825823}
+{"sent": "jar with more grain in it", "ann_id": 1870359, "best_split": [3, 2], "split_score": 0.36783386718570266}
+{"sent": "fullest spice canister", "ann_id": 1870359, "best_split": [3, 2], "split_score": 0.36783386718570266}
+{"sent": "clear glass with higher contents", "ann_id": 1870359, "best_split": [3, 2], "split_score": 0.36783386718570266}
+{"sent": "rice in glass container next to black square container", "ann_id": 90965, "best_split": [3, 3], "split_score": 0.44562522131675075}
+{"sent": "lower powder in conrainer", "ann_id": 90965, "best_split": [3, 3], "split_score": 0.44562522131675075}
+{"sent": "half full jar", "ann_id": 90965, "best_split": [3, 3], "split_score": 0.44562522131675075}

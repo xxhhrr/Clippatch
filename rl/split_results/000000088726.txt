@@ -1,0 +1,6 @@
+{"sent": "bird thats splashing more water", "ann_id": 39960, "best_split": [1, 5], "split_score": 0.3708400973649716}
+{"sent": "the bird nearest the reeds", "ann_id": 39960, "best_split": [2, 1], "split_score": 0.11139896372626251}
+{"sent": "the bird farthest", "ann_id": 39960, "best_split": [5, 1], "split_score": 0.15429303715042347}
+{"sent": "duck that is fully visible", "ann_id": 38630, "best_split": [3, 3], "split_score": 0.5455867081468757}
+{"sent": "whole bird", "ann_id": 38630, "best_split": [3, 3], "split_score": 0.5455867081468757}
+{"sent": "bird that isnt cut off", "ann_id": 38630, "best_split": [3, 3], "split_score": 0.5455867081468757}

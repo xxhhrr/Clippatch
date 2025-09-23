@@ -1,0 +1,13 @@
+{"sent": "meter two over from 15 min meter", "ann_id": 419606, "best_split": [3, 2], "split_score": 0.11112254346011703}
+{"sent": "meter under fire alarm and handicap permit sign", "ann_id": 419606, "best_split": [1, 2], "split_score": 0.0722638797127991}
+{"sent": "meter under fire alarm", "ann_id": 419479, "best_split": [2, 3], "split_score": 0.056155293646018095}
+{"sent": "meter with red sign that means out of money", "ann_id": 419479, "best_split": [2, 3], "split_score": 0.056155293646018095}
+{"sent": "five over", "ann_id": 419479, "best_split": [1, 2], "split_score": 0.09470663264928625}
+{"sent": "full one next to the 15 min one", "ann_id": 419350, "best_split": [1, 5], "split_score": 0.25894652188792255}
+{"sent": "next to 15 min third in", "ann_id": 419350, "best_split": [1, 2], "split_score": 0.10634566326106722}
+{"sent": "3 from rightest", "ann_id": 419350, "best_split": [1, 5], "split_score": 0.25894652188792255}
+{"sent": "15 min meter not the sign", "ann_id": 419321, "best_split": [1, 3], "split_score": 0.22170608106770595}
+{"sent": "meter with 15 min sign", "ann_id": 419321, "best_split": [1, 3], "split_score": 0.22170608106770595}
+{"sent": "meter with 15 min sign", "ann_id": 419321, "best_split": [1, 3], "split_score": 0.22170608106770595}
+{"sent": "nearest partial meter", "ann_id": 418594, "best_split": [2, 3], "split_score": 0.23207948897183822}
+{"sent": "meter split in half vertically", "ann_id": 418594, "best_split": [1, 3], "split_score": 0.12080536912027771}

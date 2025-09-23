@@ -1,0 +1,5 @@
+{"sent": "pizza most toppings", "ann_id": 1074590, "best_split": [3, 3], "split_score": 0.31779141099420377}
+{"sent": "meat pizza", "ann_id": 1074590, "best_split": [3, 3], "split_score": 0.31779141099420377}
+{"sent": "dough with sauce and green leaves by cheese", "ann_id": 1074220, "best_split": [2, 3], "split_score": 0.39398350311557656}
+{"sent": "nearest pizz", "ann_id": 1074220, "best_split": [2, 3], "split_score": 0.39398350311557656}
+{"sent": "pizza next to the cheese pan", "ann_id": 1074220, "best_split": [2, 3], "split_score": 0.39398350311557656}

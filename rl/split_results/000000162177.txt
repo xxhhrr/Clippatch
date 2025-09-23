@@ -1,0 +1,6 @@
+{"sent": "guy in darker blue", "ann_id": 499435, "best_split": [5, 1], "split_score": 0.1282327586108195}
+{"sent": "dark blue shirt leaning", "ann_id": 499435, "best_split": [1, 5], "split_score": 0.365058670109419}
+{"sent": "21", "ann_id": 499435, "best_split": [3, 2], "split_score": 0.38313609463407267}
+{"sent": "light blue shirt", "ann_id": 448120, "best_split": [3, 3], "split_score": 0.5501040736618935}
+{"sent": "blue shirt not on base", "ann_id": 448120, "best_split": [3, 3], "split_score": 0.5501040736618935}
+{"sent": "light blue", "ann_id": 448120, "best_split": [1, 3], "split_score": 0.2986245173565019}

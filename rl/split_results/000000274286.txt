@@ -1,0 +1,6 @@
+{"sent": "elephant father away from girl", "ann_id": 584768, "best_split": [3, 2], "split_score": 0.517161049812303}
+{"sent": "elephant not eating hay", "ann_id": 584768, "best_split": [3, 2], "split_score": 0.517161049812303}
+{"sent": "elephant furthest from lady", "ann_id": 584768, "best_split": [3, 2], "split_score": 0.517161049812303}
+{"sent": "elephant closest to woman", "ann_id": 583897, "best_split": [3, 3], "split_score": 0.5676964544300542}
+{"sent": "elephant closest to lady", "ann_id": 583897, "best_split": [3, 3], "split_score": 0.5676964544300542}
+{"sent": "elephant being feed", "ann_id": 583897, "best_split": [3, 3], "split_score": 0.5676964544300542}

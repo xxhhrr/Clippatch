@@ -1,0 +1,12 @@
+{"sent": "guy eith tumbler", "ann_id": 542046, "best_split": [1, 2], "split_score": 0.43734056120705755}
+{"sent": "man holding glass with red tie", "ann_id": 542046, "best_split": [2, 2], "split_score": 0.29123654731543835}
+{"sent": "guy with arm on man with black tie", "ann_id": 487556, "best_split": [1, 2], "split_score": 0.3903061224334221}
+{"sent": "guy with arm around striped suit", "ann_id": 487556, "best_split": [1, 2], "split_score": 0.3903061224334221}
+{"sent": "man with arm around the only one with closed jacket", "ann_id": 487556, "best_split": [3, 1], "split_score": 0.15568022439710377}
+{"sent": "no tie man holding drink", "ann_id": 468981, "best_split": [1, 3], "split_score": 0.5861028592375556}
+{"sent": "holding a drink", "ann_id": 468981, "best_split": [1, 3], "split_score": 0.5861028592375556}
+{"sent": "count to three in either dirction", "ann_id": 468981, "best_split": [1, 3], "split_score": 0.5861028592375556}
+{"sent": "the man in between the men holding glasses", "ann_id": 2161918, "best_split": [1, 2], "split_score": 0.39843749998411837}
+{"sent": "last", "ann_id": 1711767, "best_split": [1, 3], "split_score": 0.5348093629020988}
+{"sent": "man without red tie on end", "ann_id": 1711767, "best_split": [1, 5], "split_score": 0.6663106363447876}
+{"sent": "man with closed suit and blk tie", "ann_id": 1711767, "best_split": [1, 5], "split_score": 0.6663106363447876}

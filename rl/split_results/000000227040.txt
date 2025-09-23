@@ -1,0 +1,9 @@
+{"sent": "the person in the blue jacket", "ann_id": 564637, "best_split": [2, 2], "split_score": 0.7527124773474094}
+{"sent": "blue sweater", "ann_id": 564637, "best_split": [2, 2], "split_score": 0.7527124773474094}
+{"sent": "blue jacket", "ann_id": 564637, "best_split": [2, 2], "split_score": 0.7527124773474094}
+{"sent": "woman white and blue", "ann_id": 563007, "best_split": [1, 5], "split_score": 0.37195616879342974}
+{"sent": "lady in white next to blue shirt dude", "ann_id": 563007, "best_split": [1, 5], "split_score": 0.37195616879342974}
+{"sent": "woman in white and light blue", "ann_id": 563007, "best_split": [1, 5], "split_score": 0.37195616879342974}
+{"sent": "woman in red", "ann_id": 433574, "best_split": [3, 3], "split_score": 0.447199999928448}
+{"sent": "red shirt", "ann_id": 433574, "best_split": [3, 3], "split_score": 0.447199999928448}
+{"sent": "red jacket flower pattern", "ann_id": 433574, "best_split": [3, 3], "split_score": 0.447199999928448}

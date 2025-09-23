@@ -1,0 +1,8 @@
+{"sent": "red train nearest us", "ann_id": 248975, "best_split": [3, 2], "split_score": 0.37914406265027684}
+{"sent": "really long orange train", "ann_id": 248975, "best_split": [3, 2], "split_score": 0.37914406265027684}
+{"sent": "forefront red train", "ann_id": 248975, "best_split": [3, 2], "split_score": 0.37914406265027684}
+{"sent": "train closest to you", "ann_id": 172727, "best_split": [3, 1], "split_score": 0.8151081327639806}
+{"sent": "black train procor", "ann_id": 172727, "best_split": [3, 1], "split_score": 0.8151081327639806}
+{"sent": "trainnearest", "ann_id": 172727, "best_split": [3, 1], "split_score": 0.8151081327639806}
+{"sent": "roof of black train next to black train", "ann_id": 172662, "best_split": [5, 1], "split_score": 0.45809659086261195}
+{"sent": "dark train above procor", "ann_id": 172662, "best_split": [5, 1], "split_score": 0.45809659086261195}

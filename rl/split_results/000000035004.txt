@@ -1,0 +1,11 @@
+{"sent": "gray and white striped shirt", "ann_id": 563615, "best_split": [1, 2], "split_score": 0.6047411707580088}
+{"sent": "striped shirt", "ann_id": 563615, "best_split": [1, 2], "split_score": 0.6047411707580088}
+{"sent": "stripe shirt glasses", "ann_id": 563615, "best_split": [1, 2], "split_score": 0.6047411707580088}
+{"sent": "black shirt closest to strpied shirt", "ann_id": 562987, "best_split": [1, 5], "split_score": 0.7268668830431344}
+{"sent": "person on side black shirt", "ann_id": 562987, "best_split": [3, 3], "split_score": 0.26704089812880505}
+{"sent": "man behind woman", "ann_id": 443660, "best_split": [1, 5], "split_score": 0.3753753753401487}
+{"sent": "man in blue", "ann_id": 443660, "best_split": [2, 3], "split_score": 0.4529307281912821}
+{"sent": "guy wearing blue shirt", "ann_id": 443660, "best_split": [2, 3], "split_score": 0.4529307281912821}
+{"sent": "woman", "ann_id": 442217, "best_split": [2, 3], "split_score": 0.694267515863809}
+{"sent": "woman looking down brown hair", "ann_id": 442217, "best_split": [2, 3], "split_score": 0.694267515863809}
+{"sent": "black and white dress", "ann_id": 442217, "best_split": [2, 3], "split_score": 0.694267515863809}

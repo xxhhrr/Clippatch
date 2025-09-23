@@ -1,0 +1,5 @@
+{"sent": "chair at end closest to us", "ann_id": 382606, "best_split": [2, 2], "split_score": 0.788265306059609}
+{"sent": "chair closest to camera", "ann_id": 382606, "best_split": [2, 2], "split_score": 0.788265306059609}
+{"sent": "chair near purse", "ann_id": 378750, "best_split": [2, 1], "split_score": 0.31818361301803816}
+{"sent": "chair closest to purse on floor", "ann_id": 378750, "best_split": [3, 2], "split_score": 0.3785850860105923}
+{"sent": "chair closest to pocketbook", "ann_id": 378750, "best_split": [2, 1], "split_score": 0.31818361301803816}

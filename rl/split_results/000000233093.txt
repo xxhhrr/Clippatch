@@ -1,0 +1,9 @@
+{"sent": "arm showing with white sleeve", "ann_id": 559156, "best_split": [3, 1], "split_score": 0.1455721795306122}
+{"sent": "white shirt arm showing only", "ann_id": 559156, "best_split": [3, 1], "split_score": 0.1455721795306122}
+{"sent": "white shirt onle arm", "ann_id": 559156, "best_split": [3, 1], "split_score": 0.1455721795306122}
+{"sent": "dad", "ann_id": 464747, "best_split": [1, 2], "split_score": 0.615234374975477}
+{"sent": "adult man with kid on lap", "ann_id": 464747, "best_split": [1, 2], "split_score": 0.615234374975477}
+{"sent": "man holding kid", "ann_id": 464747, "best_split": [1, 2], "split_score": 0.615234374975477}
+{"sent": "kid", "ann_id": 449239, "best_split": [2, 3], "split_score": 0.7653429602024658}
+{"sent": "kid", "ann_id": 449239, "best_split": [2, 3], "split_score": 0.7653429602024658}
+{"sent": "child", "ann_id": 449239, "best_split": [2, 3], "split_score": 0.7653429602024658}

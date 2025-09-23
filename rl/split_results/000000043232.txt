@@ -1,0 +1,4 @@
+{"sent": "the man with glasses hat and black jacket holding the line", "ann_id": 1285752, "best_split": [2, 1], "split_score": 0.20045018361961656}
+{"sent": "guy in coat and blue gloves looking at kite", "ann_id": 1285752, "best_split": [2, 1], "split_score": 0.20045018361961656}
+{"sent": "man in shiny coat", "ann_id": 1230552, "best_split": [1, 5], "split_score": 0.7508264092959147}
+{"sent": "nearest", "ann_id": 1230552, "best_split": [2, 3], "split_score": 0.44474717521878776}

@@ -1,0 +1,6 @@
+{"sent": "bigger phone lis", "ann_id": 328778, "best_split": [1, 5], "split_score": 0.5898282694361106}
+{"sent": "open flip phone", "ann_id": 328778, "best_split": [1, 5], "split_score": 0.5898282694361106}
+{"sent": "open phone", "ann_id": 328778, "best_split": [1, 5], "split_score": 0.5898282694361106}
+{"sent": "non flip phone", "ann_id": 323586, "best_split": [3, 3], "split_score": 0.4220159150633931}
+{"sent": "small one", "ann_id": 323586, "best_split": [2, 3], "split_score": 0.23553039983243285}
+{"sent": "smaller phone", "ann_id": 323586, "best_split": [3, 3], "split_score": 0.4220159150633931}

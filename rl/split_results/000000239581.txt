@@ -1,0 +1,6 @@
+{"sent": "one thats bending", "ann_id": 597544, "best_split": [5, 1], "split_score": 0.24444444442680777}
+{"sent": "giraffe bent over", "ann_id": 597544, "best_split": [3, 1], "split_score": 0.2639350313629734}
+{"sent": "leaning girafffe", "ann_id": 597544, "best_split": [3, 1], "split_score": 0.2639350313629734}
+{"sent": "closest giraffe", "ann_id": 597411, "best_split": [1, 2], "split_score": 0.6066977732973038}
+{"sent": "animal standing upright", "ann_id": 597411, "best_split": [1, 2], "split_score": 0.6066977732973038}
+{"sent": "giraffe nearest us", "ann_id": 597411, "best_split": [1, 2], "split_score": 0.6066977732973038}

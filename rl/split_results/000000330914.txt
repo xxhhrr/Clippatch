@@ -1,0 +1,5 @@
+{"sent": "bananas closest to the edge", "ann_id": 1904835, "best_split": [1, 5], "split_score": 0.316103031337296}
+{"sent": "banana piece in the corner", "ann_id": 1904835, "best_split": [1, 5], "split_score": 0.316103031337296}
+{"sent": "middle piece", "ann_id": 1904798, "best_split": [1, 2], "split_score": 0.27473872204409516}
+{"sent": "largest banana slice viewable", "ann_id": 1904798, "best_split": [2, 1], "split_score": 0.22697609269324878}
+{"sent": "round slice of banana", "ann_id": 1904798, "best_split": [1, 2], "split_score": 0.27473872204409516}

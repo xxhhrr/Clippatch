@@ -1,0 +1,6 @@
+{"sent": "man with tie", "ann_id": 544147, "best_split": [1, 2], "split_score": 0.679994215867255}
+{"sent": "asian in white tie", "ann_id": 544147, "best_split": [1, 2], "split_score": 0.679994215867255}
+{"sent": "white tied man", "ann_id": 544147, "best_split": [1, 2], "split_score": 0.679994215867255}
+{"sent": "black outfit", "ann_id": 510194, "best_split": [1, 2], "split_score": 0.5493861606923873}
+{"sent": "black clothes man", "ann_id": 510194, "best_split": [1, 2], "split_score": 0.5493861606923873}
+{"sent": "man with something in his mouth", "ann_id": 510194, "best_split": [3, 2], "split_score": 0.34801197090649166}

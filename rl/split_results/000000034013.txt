@@ -1,0 +1,6 @@
+{"sent": "mouth open", "ann_id": 16951, "best_split": [1, 2], "split_score": 0.6155931122203606}
+{"sent": "teeth showing", "ann_id": 16951, "best_split": [2, 2], "split_score": 0.6283453571894144}
+{"sent": "dog with teeth", "ann_id": 16951, "best_split": [3, 2], "split_score": 0.5077509529537643}
+{"sent": "dog that has firmest grip on frisbee", "ann_id": 12609, "best_split": [1, 2], "split_score": 0.4972586252842585}
+{"sent": "dog with most frisbee in its mouth", "ann_id": 12609, "best_split": [1, 2], "split_score": 0.4972586252842585}
+{"sent": "dog that has most of frisbee", "ann_id": 12609, "best_split": [1, 2], "split_score": 0.4972586252842585}

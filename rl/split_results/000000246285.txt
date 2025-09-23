@@ -1,0 +1,6 @@
+{"sent": "batter diving for base", "ann_id": 475559, "best_split": [2, 2], "split_score": 0.5252918287579158}
+{"sent": "the guy leaping for the base", "ann_id": 475559, "best_split": [2, 2], "split_score": 0.5252918287579158}
+{"sent": "guy sliding in", "ann_id": 475559, "best_split": [2, 2], "split_score": 0.5252918287579158}
+{"sent": "blue player", "ann_id": 428408, "best_split": [1, 5], "split_score": 0.4194212041956233}
+{"sent": "catcher", "ann_id": 428408, "best_split": [3, 2], "split_score": 0.36409013117768896}
+{"sent": "blue guy", "ann_id": 428408, "best_split": [1, 5], "split_score": 0.4194212041956233}

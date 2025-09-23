@@ -1,0 +1,6 @@
+{"sent": "elephant at 3 pm", "ann_id": 583494, "best_split": [1, 2], "split_score": 0.6603954081369421}
+{"sent": "tusks", "ann_id": 583494, "best_split": [1, 2], "split_score": 0.6603954081369421}
+{"sent": "tusked", "ann_id": 583494, "best_split": [1, 2], "split_score": 0.6603954081369421}
+{"sent": "elephant with its trunk higher that the other elephant", "ann_id": 580033, "best_split": [3, 1], "split_score": 0.46638655460435224}
+{"sent": "smaller ears", "ann_id": 580033, "best_split": [3, 1], "split_score": 0.46638655460435224}
+{"sent": "no tusks", "ann_id": 580033, "best_split": [3, 1], "split_score": 0.46638655460435224}

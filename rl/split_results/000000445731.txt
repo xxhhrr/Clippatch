@@ -1,0 +1,6 @@
+{"sent": "black and white", "ann_id": 52042, "best_split": [1, 2], "split_score": 0.6406017393778656}
+{"sent": "black and white cat", "ann_id": 52042, "best_split": [1, 2], "split_score": 0.6406017393778656}
+{"sent": "black and white cat", "ann_id": 52042, "best_split": [1, 2], "split_score": 0.6406017393778656}
+{"sent": "cat in bed", "ann_id": 52015, "best_split": [3, 3], "split_score": 0.3931425624654366}
+{"sent": "smaller animal", "ann_id": 52015, "best_split": [3, 2], "split_score": 0.4759427827832745}
+{"sent": "sleeping on bed", "ann_id": 52015, "best_split": [2, 2], "split_score": 0.1751249013821243}

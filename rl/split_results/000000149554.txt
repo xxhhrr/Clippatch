@@ -1,0 +1,7 @@
+{"sent": "bright blue shirt", "ann_id": 2167052, "best_split": [1, 2], "split_score": 0.15485491070811325}
+{"sent": "blue shirt behind tree", "ann_id": 2167052, "best_split": [2, 3], "split_score": 0.4242424241927878}
+{"sent": "far away blue shirt", "ann_id": 2167052, "best_split": [1, 5], "split_score": 0.36509040330169973}
+{"sent": "blue shirt by tree", "ann_id": 2167052, "best_split": [2, 3], "split_score": 0.4242424241927878}
+{"sent": "man eating donut", "ann_id": 435157, "best_split": [2, 1], "split_score": 0.45563315059809184}
+{"sent": "man eating donut", "ann_id": 435157, "best_split": [2, 1], "split_score": 0.45563315059809184}
+{"sent": "eating donut", "ann_id": 435157, "best_split": [2, 1], "split_score": 0.45563315059809184}

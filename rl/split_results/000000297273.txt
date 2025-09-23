@@ -1,0 +1,10 @@
+{"sent": "green shirt", "ann_id": 1315624, "best_split": [1, 5], "split_score": 0.37034763254007}
+{"sent": "guy in green shirt", "ann_id": 1315624, "best_split": [1, 5], "split_score": 0.37034763254007}
+{"sent": "green shirt", "ann_id": 1315624, "best_split": [1, 5], "split_score": 0.37034763254007}
+{"sent": "half chair back at empty table", "ann_id": 2190523, "best_split": [3, 2], "split_score": 0.38169402175851275}
+{"sent": "empty chair at empty table", "ann_id": 2190523, "best_split": [2, 2], "split_score": 0.25868941324468353}
+{"sent": "empty chair at table closest to us", "ann_id": 2190523, "best_split": [3, 1], "split_score": 0.1915238953897491}
+{"sent": "white jacket grandpa", "ann_id": 2010077, "best_split": [2, 3], "split_score": 0.409953822430995}
+{"sent": "man in tan jacket and glasses", "ann_id": 2010077, "best_split": [2, 3], "split_score": 0.409953822430995}
+{"sent": "empty chair in front of beer glassguy with tan coat", "ann_id": 1937736, "best_split": [2, 2], "split_score": 0.3204719387499624}
+{"sent": "empty chair by white jacket guy", "ann_id": 1937736, "best_split": [2, 3], "split_score": 0.485038609980087}

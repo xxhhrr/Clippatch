@@ -1,0 +1,6 @@
+{"sent": "blue shirt glasses", "ann_id": 190064, "best_split": [1, 5], "split_score": 0.5362739407564652}
+{"sent": "blue shirt and glasses", "ann_id": 190064, "best_split": [1, 5], "split_score": 0.5362739407564652}
+{"sent": "kid with controller in hands wearing glasses", "ann_id": 190064, "best_split": [2, 3], "split_score": 0.6289857855715534}
+{"sent": "light blue shirt and shorts", "ann_id": 188524, "best_split": [1, 5], "split_score": 0.5291005290567873}
+{"sent": "light blue", "ann_id": 188524, "best_split": [1, 5], "split_score": 0.5291005290567873}
+{"sent": "light blue shirt and blue jean shorts not blond not black", "ann_id": 188524, "best_split": [1, 5], "split_score": 0.5291005290567873}

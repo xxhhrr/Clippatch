@@ -1,0 +1,9 @@
+{"sent": "man in blue and short on side edge", "ann_id": 1277848, "best_split": [3, 1], "split_score": 0.15010141987006734}
+{"sent": "blue shirt light blue shorts", "ann_id": 1277848, "best_split": [1, 5], "split_score": 0.3961617545876665}
+{"sent": "man in blue tshirt and shorts", "ann_id": 1277848, "best_split": [1, 5], "split_score": 0.3961617545876665}
+{"sent": "red shirt guy", "ann_id": 1216002, "best_split": [1, 3], "split_score": 0.9562317631777388}
+{"sent": "man in red shirt", "ann_id": 1216002, "best_split": [1, 3], "split_score": 0.9562317631777388}
+{"sent": "red shirt man", "ann_id": 1216002, "best_split": [1, 3], "split_score": 0.9562317631777388}
+{"sent": "man in striped shirt and red hair", "ann_id": 422268, "best_split": [1, 3], "split_score": 0.6143969870489431}
+{"sent": "colorful shirt man", "ann_id": 422268, "best_split": [1, 3], "split_score": 0.6143969870489431}
+{"sent": "glasses bald striped", "ann_id": 422268, "best_split": [1, 3], "split_score": 0.6143969870489431}

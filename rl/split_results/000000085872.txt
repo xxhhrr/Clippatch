@@ -1,0 +1,8 @@
+{"sent": "blue shirt", "ann_id": 485782, "best_split": [3, 3], "split_score": 0.47837954310036207}
+{"sent": "ump", "ann_id": 485782, "best_split": [2, 1], "split_score": 0.06918621281217155}
+{"sent": "shortest one", "ann_id": 485782, "best_split": [3, 2], "split_score": 0.34073467713693495}
+{"sent": "number 5", "ann_id": 473157, "best_split": [3, 3], "split_score": 0.31084754135027826}
+{"sent": "number 5", "ann_id": 473157, "best_split": [3, 3], "split_score": 0.31084754135027826}
+{"sent": "pitcher", "ann_id": 471317, "best_split": [1, 5], "split_score": 0.608146332207416}
+{"sent": "guy throwing the ball", "ann_id": 471317, "best_split": [1, 5], "split_score": 0.608146332207416}
+{"sent": "man on one foot", "ann_id": 471317, "best_split": [1, 5], "split_score": 0.608146332207416}

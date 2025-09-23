@@ -1,0 +1,9 @@
+{"sent": "yellow", "ann_id": 1706988, "best_split": [1, 5], "split_score": 0.5660312256908452}
+{"sent": "girl", "ann_id": 1706988, "best_split": [1, 5], "split_score": 0.5660312256908452}
+{"sent": "person in yellow", "ann_id": 1706988, "best_split": [1, 5], "split_score": 0.5660312256908452}
+{"sent": "father with tan shirt", "ann_id": 515777, "best_split": [1, 5], "split_score": 0.57871544928704}
+{"sent": "tan shirt", "ann_id": 515777, "best_split": [1, 5], "split_score": 0.57871544928704}
+{"sent": "guy in tan", "ann_id": 515777, "best_split": [1, 5], "split_score": 0.57871544928704}
+{"sent": "blue and white shirt", "ann_id": 424760, "best_split": [1, 5], "split_score": 0.4828481364284398}
+{"sent": "blue kid boy", "ann_id": 424760, "best_split": [1, 5], "split_score": 0.4828481364284398}
+{"sent": "blue jacket", "ann_id": 424760, "best_split": [1, 5], "split_score": 0.4828481364284398}

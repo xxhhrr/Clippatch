@@ -1,0 +1,11 @@
+{"sent": "broccoli", "ann_id": 1075588, "best_split": [2, 3], "split_score": 0.5873015872385992}
+{"sent": "pizza with green veggies and not red", "ann_id": 1075588, "best_split": [2, 1], "split_score": 0.259566326520266}
+{"sent": "pizza with a bunch of green stuff", "ann_id": 1075588, "best_split": [2, 1], "split_score": 0.259566326520266}
+{"sent": "pizza in the back behind pepper has red peppers on it", "ann_id": 1071362, "best_split": [2, 1], "split_score": 0.21635841835872296}
+{"sent": "veggie pizza far from u", "ann_id": 1071362, "best_split": [2, 1], "split_score": 0.21635841835872296}
+{"sent": "the pizza with red sauce", "ann_id": 1071295, "best_split": [2, 2], "split_score": 0.6033820521472848}
+{"sent": "cloosest pizza", "ann_id": 1071295, "best_split": [2, 2], "split_score": 0.6033820521472848}
+{"sent": "red pizza in corner close to us", "ann_id": 1071295, "best_split": [2, 2], "split_score": 0.6033820521472848}
+{"sent": "the table the meal is served on", "ann_id": 1959876, "best_split": [2, 1], "split_score": 0.5011235954954727}
+{"sent": "table", "ann_id": 1959876, "best_split": [2, 1], "split_score": 0.5011235954954727}
+{"sent": "the table itself", "ann_id": 1959876, "best_split": [2, 1], "split_score": 0.5011235954954727}

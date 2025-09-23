@@ -1,0 +1,6 @@
+{"sent": "glasses", "ann_id": 195979, "best_split": [1, 5], "split_score": 0.456221198123832}
+{"sent": "blue shirt and helmet", "ann_id": 195979, "best_split": [1, 5], "split_score": 0.456221198123832}
+{"sent": "girl with helmet", "ann_id": 195979, "best_split": [1, 5], "split_score": 0.456221198123832}
+{"sent": "woman in blue and no helmet", "ann_id": 191211, "best_split": [1, 3], "split_score": 0.43127364436664445}
+{"sent": "girl with sign", "ann_id": 191211, "best_split": [3, 2], "split_score": 0.25410501340737307}
+{"sent": "girl holding the hand", "ann_id": 191211, "best_split": [1, 3], "split_score": 0.43127364436664445}

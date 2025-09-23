@@ -1,0 +1,6 @@
+{"sent": "bus to the east", "ann_id": 166773, "best_split": [3, 2], "split_score": 0.628224582641481}
+{"sent": "bus with white trim", "ann_id": 166773, "best_split": [3, 2], "split_score": 0.628224582641481}
+{"sent": "red and white bus", "ann_id": 166773, "best_split": [3, 1], "split_score": 0.45762711861786376}
+{"sent": "red and yeloow bus", "ann_id": 164500, "best_split": [3, 2], "split_score": 0.30694980691277146}
+{"sent": "buss with yellow", "ann_id": 164500, "best_split": [3, 2], "split_score": 0.30694980691277146}
+{"sent": "yellow bus", "ann_id": 164500, "best_split": [3, 2], "split_score": 0.30694980691277146}

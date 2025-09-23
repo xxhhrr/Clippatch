@@ -1,0 +1,15 @@
+{"sent": "white shirt blue shorts", "ann_id": 1288268, "best_split": [3, 3], "split_score": 0.2672413792792123}
+{"sent": "okay kid holding light skateboard", "ann_id": 1288268, "best_split": [1, 3], "split_score": 0.25933990372110133}
+{"sent": "blueshorts", "ann_id": 1288268, "best_split": [3, 3], "split_score": 0.2672413792792123}
+{"sent": "blue shirt tan shorts", "ann_id": 1251273, "best_split": [1, 5], "split_score": 0.4311144075253927}
+{"sent": "blue shirt", "ann_id": 1251273, "best_split": [1, 5], "split_score": 0.4311144075253927}
+{"sent": "boy in blue shirt standing on skateboard", "ann_id": 1251273, "best_split": [2, 1], "split_score": 0.09512926724413907}
+{"sent": "white shirt not the green one", "ann_id": 1242743, "best_split": [1, 5], "split_score": 0.5106094370205785}
+{"sent": "skatboarder closest to us", "ann_id": 1242743, "best_split": [1, 5], "split_score": 0.5106094370205785}
+{"sent": "man in black hat", "ann_id": 1242743, "best_split": [1, 5], "split_score": 0.5106094370205785}
+{"sent": "plaid shorts", "ann_id": 2153798, "best_split": [1, 3], "split_score": 0.4061753762200158}
+{"sent": "plaid shorts", "ann_id": 2153798, "best_split": [1, 3], "split_score": 0.4061753762200158}
+{"sent": "plaid shorts", "ann_id": 2153798, "best_split": [1, 3], "split_score": 0.4061753762200158}
+{"sent": "kid back towards us", "ann_id": 1306069, "best_split": [1, 5], "split_score": 0.5042613635852007}
+{"sent": "shortie with back to us", "ann_id": 1306069, "best_split": [1, 5], "split_score": 0.5042613635852007}
+{"sent": "boy in light gray shirt dark gray shorts", "ann_id": 1306069, "best_split": [1, 5], "split_score": 0.5042613635852007}

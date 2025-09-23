@@ -1,0 +1,6 @@
+{"sent": "sandwich with round edge", "ann_id": 312151, "best_split": [2, 2], "split_score": 0.4059568640598455}
+{"sent": "bigger half of sandwich", "ann_id": 312151, "best_split": [5, 1], "split_score": 0.30167760756369966}
+{"sent": "sandwich half closest to word potato", "ann_id": 312151, "best_split": [5, 1], "split_score": 0.30167760756369966}
+{"sent": "panini bot faggot", "ann_id": 311563, "best_split": [3, 2], "split_score": 0.43207486282413077}
+{"sent": "food towards us ahead of matching food", "ann_id": 311563, "best_split": [2, 2], "split_score": 0.5408527619869178}
+{"sent": "sandwich that is not touching the napkin", "ann_id": 311563, "best_split": [2, 2], "split_score": 0.5408527619869178}

@@ -1,0 +1,5 @@
+{"sent": "khaki pants", "ann_id": 512287, "best_split": [1, 5], "split_score": 0.5582666405857636}
+{"sent": "black jacket", "ann_id": 512287, "best_split": [1, 5], "split_score": 0.5582666405857636}
+{"sent": "skier in yellow", "ann_id": 506027, "best_split": [3, 3], "split_score": 0.3684749231872473}
+{"sent": "yellow shirt orange pants", "ann_id": 506027, "best_split": [3, 3], "split_score": 0.3684749231872473}
+{"sent": "yellow", "ann_id": 506027, "best_split": [3, 3], "split_score": 0.3684749231872473}

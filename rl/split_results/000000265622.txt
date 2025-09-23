@@ -1,0 +1,6 @@
+{"sent": "man with goatee behind blue couch", "ann_id": 202121, "best_split": [2, 1], "split_score": 0.09422183507207382}
+{"sent": "shortest", "ann_id": 202121, "best_split": [1, 5], "split_score": 0.5133928570907678}
+{"sent": "man beside blue couch", "ann_id": 202121, "best_split": [2, 1], "split_score": 0.09422183507207382}
+{"sent": "leg up guy", "ann_id": 184274, "best_split": [1, 3], "split_score": 0.27777777776222123}
+{"sent": "leg up", "ann_id": 184274, "best_split": [1, 3], "split_score": 0.27777777776222123}
+{"sent": "jumper", "ann_id": 184274, "best_split": [1, 5], "split_score": 0.3133159268673861}

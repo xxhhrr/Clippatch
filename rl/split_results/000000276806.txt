@@ -1,0 +1,6 @@
+{"sent": "brown shirt", "ann_id": 487475, "best_split": [2, 2], "split_score": 0.2620546354420305}
+{"sent": "woman in button shirt", "ann_id": 487475, "best_split": [3, 3], "split_score": 0.5614438440554725}
+{"sent": "woman in brown", "ann_id": 487475, "best_split": [3, 2], "split_score": 0.4335052898108328}
+{"sent": "woman cutting cake", "ann_id": 477525, "best_split": [1, 3], "split_score": 0.4295154184766332}
+{"sent": "woman cutting cake", "ann_id": 477525, "best_split": [1, 3], "split_score": 0.4295154184766332}
+{"sent": "lady in gray slicing", "ann_id": 477525, "best_split": [2, 3], "split_score": 0.3521066207779788}

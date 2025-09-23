@@ -1,0 +1,6 @@
+{"sent": "numberone in line", "ann_id": 591396, "best_split": [3, 2], "split_score": 0.2542955326187397}
+{"sent": "number 1 in line", "ann_id": 591396, "best_split": [3, 2], "split_score": 0.2542955326187397}
+{"sent": "can see head down", "ann_id": 590810, "best_split": [3, 2], "split_score": 0.4444239119981129}
+{"sent": "can see almost all of this zebra", "ann_id": 588150, "best_split": [3, 3], "split_score": 0.5652279339760877}
+{"sent": "zebra standing", "ann_id": 588150, "best_split": [3, 3], "split_score": 0.5652279339760877}
+{"sent": "zebra in gate", "ann_id": 588150, "best_split": [3, 3], "split_score": 0.5652279339760877}

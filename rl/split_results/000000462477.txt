@@ -1,0 +1,9 @@
+{"sent": "red shirt black apron", "ann_id": 263172, "best_split": [1, 3], "split_score": 0.47223545097284336}
+{"sent": "red short dark apron", "ann_id": 263172, "best_split": [1, 3], "split_score": 0.47223545097284336}
+{"sent": "maroon shirt black apron man", "ann_id": 263172, "best_split": [1, 3], "split_score": 0.47223545097284336}
+{"sent": "guy with striped shirt", "ann_id": 259946, "best_split": [3, 3], "split_score": 0.5675254642819022}
+{"sent": "guy alone", "ann_id": 259946, "best_split": [3, 3], "split_score": 0.5675254642819022}
+{"sent": "navy blue shirt with stripes", "ann_id": 259946, "best_split": [3, 3], "split_score": 0.5675254642819022}
+{"sent": "man in apron with woman on it", "ann_id": 257767, "best_split": [1, 3], "split_score": 0.8403418034157667}
+{"sent": "woman apron", "ann_id": 257767, "best_split": [1, 3], "split_score": 0.8403418034157667}
+{"sent": "girl shirt", "ann_id": 257767, "best_split": [1, 3], "split_score": 0.8403418034157667}

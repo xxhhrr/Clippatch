@@ -1,0 +1,6 @@
+{"sent": "container by the fish", "ann_id": 2215476, "best_split": [2, 3], "split_score": 0.19429024581462667}
+{"sent": "sauce touching the main entry", "ann_id": 2215476, "best_split": [2, 3], "split_score": 0.19429024581462667}
+{"sent": "coleslaw cup on the meat", "ann_id": 2215476, "best_split": [2, 1], "split_score": 0.08984374999641885}
+{"sent": "the drink", "ann_id": 1508938, "best_split": [2, 3], "split_score": 0.583969465579202}
+{"sent": "cup", "ann_id": 1508938, "best_split": [2, 3], "split_score": 0.583969465579202}
+{"sent": "drink", "ann_id": 1508938, "best_split": [2, 3], "split_score": 0.583969465579202}

@@ -1,0 +1,6 @@
+{"sent": "kid in green with unseen head", "ann_id": 1761865, "best_split": [2, 1], "split_score": 0.2445790816229042}
+{"sent": "object 11 o clock exactly", "ann_id": 1761865, "best_split": [2, 3], "split_score": 0.7403474902581627}
+{"sent": "part of person in corner of 11pm", "ann_id": 1761865, "best_split": [2, 2], "split_score": 0.4891581632263107}
+{"sent": "kid", "ann_id": 451353, "best_split": [1, 2], "split_score": 0.700305550820452}
+{"sent": "kid", "ann_id": 451353, "best_split": [1, 2], "split_score": 0.700305550820452}
+{"sent": "boy", "ann_id": 451353, "best_split": [1, 2], "split_score": 0.700305550820452}

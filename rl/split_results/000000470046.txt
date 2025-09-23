@@ -1,0 +1,6 @@
+{"sent": "jacket", "ann_id": 472450, "best_split": [1, 3], "split_score": 0.7138030887600263}
+{"sent": "man with jacket", "ann_id": 472450, "best_split": [1, 3], "split_score": 0.7138030887600263}
+{"sent": "man in jacket and cap", "ann_id": 472450, "best_split": [1, 3], "split_score": 0.7138030887600263}
+{"sent": "man with blue striped short sleeves", "ann_id": 463749, "best_split": [1, 5], "split_score": 0.5897435896921556}
+{"sent": "man in blue striped shirt", "ann_id": 463749, "best_split": [1, 5], "split_score": 0.5897435896921556}
+{"sent": "stripped blue shirt", "ann_id": 463749, "best_split": [1, 5], "split_score": 0.5897435896921556}

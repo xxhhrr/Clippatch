@@ -1,0 +1,8 @@
+{"sent": "black bag with silver duct tape", "ann_id": 1187489, "best_split": [3, 2], "split_score": 0.4075246131730515}
+{"sent": "duct taped", "ann_id": 1187489, "best_split": [1, 3], "split_score": 0.20235768022022643}
+{"sent": "black luggage with duct tape", "ann_id": 1187489, "best_split": [3, 2], "split_score": 0.4075246131730515}
+{"sent": "black luggage with brown handles", "ann_id": 1187416, "best_split": [3, 3], "split_score": 0.3870458135305119}
+{"sent": "black with brown handle", "ann_id": 1187416, "best_split": [3, 3], "split_score": 0.3870458135305119}
+{"sent": "gray suitcase beside red one", "ann_id": 1187190, "best_split": [5, 1], "split_score": 0.458325161751488}
+{"sent": "gray suitcase with visible gray handle", "ann_id": 1187190, "best_split": [3, 2], "split_score": 0.5063405796528146}
+{"sent": "nearest light gray suitcase", "ann_id": 1187190, "best_split": [3, 2], "split_score": 0.5063405796528146}

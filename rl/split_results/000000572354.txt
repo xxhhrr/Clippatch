@@ -1,0 +1,5 @@
+{"sent": "male across from female in foreground", "ann_id": 509618, "best_split": [2, 1], "split_score": 0.13045009784225245}
+{"sent": "man on phone", "ann_id": 509618, "best_split": [1, 2], "split_score": 0.15126753825927663}
+{"sent": "black woman", "ann_id": 479104, "best_split": [1, 5], "split_score": 0.5605220811227855}
+{"sent": "black girl on phone", "ann_id": 479104, "best_split": [1, 5], "split_score": 0.5605220811227855}
+{"sent": "lady closest", "ann_id": 479104, "best_split": [1, 2], "split_score": 0.18615284127345405}

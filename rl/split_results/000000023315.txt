@@ -1,0 +1,12 @@
+{"sent": "adult", "ann_id": 1254413, "best_split": [3, 1], "split_score": 0.2194070080778049}
+{"sent": "man", "ann_id": 1254413, "best_split": [2, 1], "split_score": 0.25491910799378725}
+{"sent": "standing man", "ann_id": 1254413, "best_split": [1, 2], "split_score": 0.6015624999760218}
+{"sent": "kids white plate", "ann_id": 1091822, "best_split": [3, 2], "split_score": 0.6849427167875467}
+{"sent": "white plate", "ann_id": 1091822, "best_split": [3, 2], "split_score": 0.6849427167875467}
+{"sent": "cake", "ann_id": 1091822, "best_split": [3, 2], "split_score": 0.6849427167875467}
+{"sent": "baby", "ann_id": 436855, "best_split": [1, 3], "split_score": 0.5424954791736836}
+{"sent": "young boy", "ann_id": 436855, "best_split": [1, 3], "split_score": 0.5424954791736836}
+{"sent": "baby", "ann_id": 436855, "best_split": [1, 3], "split_score": 0.5424954791736836}
+{"sent": "balloon table", "ann_id": 415043, "best_split": [1, 3], "split_score": 0.632604278676192}
+{"sent": "tablecloth", "ann_id": 415043, "best_split": [1, 3], "split_score": 0.632604278676192}
+{"sent": "the table clothe with the balloons on it", "ann_id": 415043, "best_split": [1, 3], "split_score": 0.632604278676192}

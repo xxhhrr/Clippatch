@@ -1,0 +1,6 @@
+{"sent": "animal by itself", "ann_id": 76317, "best_split": [5, 1], "split_score": 0.3427886535814234}
+{"sent": "alone", "ann_id": 76317, "best_split": [2, 1], "split_score": 0.14301658162695247}
+{"sent": "dear thats alone", "ann_id": 76317, "best_split": [1, 2], "split_score": 0.14301658162695247}
+{"sent": "deer with head turned toward back", "ann_id": 75393, "best_split": [2, 2], "split_score": 0.2777423469166341}
+{"sent": "biggest", "ann_id": 75393, "best_split": [3, 3], "split_score": 0.16333419888816744}
+{"sent": "deer looking back", "ann_id": 75393, "best_split": [2, 2], "split_score": 0.2777423469166341}

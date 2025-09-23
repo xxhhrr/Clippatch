@@ -1,0 +1,10 @@
+{"sent": "tan foot stool", "ann_id": 2224326, "best_split": [3, 2], "split_score": 0.5271856286793789}
+{"sent": "tan ottoman", "ann_id": 2224326, "best_split": [2, 3], "split_score": 0.18777943366358238}
+{"sent": "foot chair", "ann_id": 2224326, "best_split": [2, 3], "split_score": 0.18777943366358238}
+{"sent": "chair nearest to the patio doors", "ann_id": 117109, "best_split": [2, 3], "split_score": 0.3210702340753619}
+{"sent": "seat bearly seen", "ann_id": 104448, "best_split": [2, 1], "split_score": 0.11049107142416728}
+{"sent": "chair next to pale ottoman", "ann_id": 104448, "best_split": [2, 1], "split_score": 0.11049107142416728}
+{"sent": "chair that you can only see half of", "ann_id": 104448, "best_split": [2, 3], "split_score": 0.3210702340753619}
+{"sent": "arm chair", "ann_id": 104422, "best_split": [3, 2], "split_score": 0.3692750050966035}
+{"sent": "armchair", "ann_id": 104422, "best_split": [3, 2], "split_score": 0.3692750050966035}
+{"sent": "chair by tv", "ann_id": 104422, "best_split": [3, 2], "split_score": 0.3692750050966035}

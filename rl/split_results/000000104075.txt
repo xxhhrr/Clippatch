@@ -1,0 +1,4 @@
+{"sent": "the tennis player about to hit the ball", "ann_id": 550704, "best_split": [1, 2], "split_score": 0.690090880074534}
+{"sent": "girl in later photo", "ann_id": 550704, "best_split": [1, 5], "split_score": 0.47553359037226234}
+{"sent": "girl playing tennis", "ann_id": 542156, "best_split": [2, 1], "split_score": 0.24233941363426828}
+{"sent": "woman", "ann_id": 542156, "best_split": [2, 2], "split_score": 0.3949502306193275}

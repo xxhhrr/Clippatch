@@ -1,0 +1,9 @@
+{"sent": "girl", "ann_id": 487933, "best_split": [1, 5], "split_score": 0.37430167595389147}
+{"sent": "little girl", "ann_id": 487933, "best_split": [1, 5], "split_score": 0.37430167595389147}
+{"sent": "babby", "ann_id": 487933, "best_split": [2, 2], "split_score": 0.38241308791283724}
+{"sent": "the green shirt", "ann_id": 447848, "best_split": [1, 2], "split_score": 0.6765513453913868}
+{"sent": "green shirt", "ann_id": 447848, "best_split": [1, 2], "split_score": 0.6765513453913868}
+{"sent": "green shirt", "ann_id": 447848, "best_split": [1, 2], "split_score": 0.6765513453913868}
+{"sent": "yellow jacket", "ann_id": 446109, "best_split": [1, 2], "split_score": 0.5333596525727062}
+{"sent": "yellow jacket", "ann_id": 446109, "best_split": [1, 2], "split_score": 0.5333596525727062}
+{"sent": "woman holding child", "ann_id": 446109, "best_split": [2, 1], "split_score": 0.48698315465909786}

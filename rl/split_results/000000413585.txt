@@ -1,0 +1,6 @@
+{"sent": "girl in pink", "ann_id": 496693, "best_split": [1, 2], "split_score": 0.8751340584926025}
+{"sent": "pink jacket", "ann_id": 496693, "best_split": [1, 2], "split_score": 0.8751340584926025}
+{"sent": "girl looking down", "ann_id": 496693, "best_split": [1, 2], "split_score": 0.8751340584926025}
+{"sent": "girl in stripes", "ann_id": 422858, "best_split": [1, 2], "split_score": 0.9167298075118681}
+{"sent": "girl with a red necklace", "ann_id": 422858, "best_split": [1, 2], "split_score": 0.9167298075118681}
+{"sent": "woman with hand up", "ann_id": 422858, "best_split": [2, 1], "split_score": 0.3453346451366678}

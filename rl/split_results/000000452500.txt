@@ -1,0 +1,9 @@
+{"sent": "white coat skier", "ann_id": 1279913, "best_split": [2, 1], "split_score": 0.37316094515233056}
+{"sent": "any of the background people", "ann_id": 1279913, "best_split": [3, 1], "split_score": 0.6449322143058048}
+{"sent": "all the people other then the two closest", "ann_id": 1279913, "best_split": [3, 1], "split_score": 0.6449322143058048}
+{"sent": "plaid", "ann_id": 1268488, "best_split": [1, 5], "split_score": 0.49186114919671886}
+{"sent": "plaid coat", "ann_id": 1268488, "best_split": [1, 5], "split_score": 0.49186114919671886}
+{"sent": "woman red plain arms in a what me gesture", "ann_id": 1268488, "best_split": [1, 5], "split_score": 0.49186114919671886}
+{"sent": "skier in foreground with two ski poles", "ann_id": 1267934, "best_split": [1, 3], "split_score": 0.5097731659924123}
+{"sent": "green jacket", "ann_id": 1267934, "best_split": [1, 3], "split_score": 0.5097731659924123}
+{"sent": "skier wearing green", "ann_id": 1267934, "best_split": [1, 3], "split_score": 0.5097731659924123}

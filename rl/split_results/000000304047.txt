@@ -1,0 +1,13 @@
+{"sent": "women wearing glasses", "ann_id": 1236645, "best_split": [1, 3], "split_score": 0.8147321428079916}
+{"sent": "person with hand on her chin", "ann_id": 1236645, "best_split": [1, 5], "split_score": 0.5347874646518108}
+{"sent": "the lady with her hand on her chin", "ann_id": 1236645, "best_split": [1, 3], "split_score": 0.8147321428079916}
+{"sent": "entire table", "ann_id": 2226174, "best_split": [2, 1], "split_score": 0.5938583456973174}
+{"sent": "any part of the table", "ann_id": 2226174, "best_split": [2, 1], "split_score": 0.5938583456973174}
+{"sent": "table", "ann_id": 2226174, "best_split": [2, 1], "split_score": 0.5938583456973174}
+{"sent": "table", "ann_id": 2131489, "best_split": [2, 1], "split_score": 0.6148036253582955}
+{"sent": "any of the things on table", "ann_id": 2131489, "best_split": [2, 1], "split_score": 0.6148036253582955}
+{"sent": "anywhere on table", "ann_id": 2131489, "best_split": [2, 1], "split_score": 0.6148036253582955}
+{"sent": "person you can only see hands closest to us", "ann_id": 1719884, "best_split": [1, 5], "split_score": 0.8497854076424322}
+{"sent": "person out of view near plate", "ann_id": 1719884, "best_split": [2, 1], "split_score": 0.17552423512631404}
+{"sent": "person cut off side", "ann_id": 1719884, "best_split": [3, 1], "split_score": 0.15278276480463274}
+{"sent": "part of table that older man and woman are usiing", "ann_id": 419660, "best_split": [3, 1], "split_score": 0.4711800030554237}

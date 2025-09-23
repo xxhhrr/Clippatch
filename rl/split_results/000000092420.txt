@@ -1,0 +1,6 @@
+{"sent": "person on chair", "ann_id": 228078, "best_split": [2, 2], "split_score": 0.32802737278131305}
+{"sent": "black shirt", "ann_id": 228078, "best_split": [2, 2], "split_score": 0.32802737278131305}
+{"sent": "woman laughing", "ann_id": 228078, "best_split": [3, 2], "split_score": 0.22747788407406772}
+{"sent": "pink halter shirt with controls", "ann_id": 209679, "best_split": [1, 2], "split_score": 0.6994579081353851}
+{"sent": "the woman playing the game", "ann_id": 209679, "best_split": [3, 2], "split_score": 0.44190199796618473}
+{"sent": "woman playing", "ann_id": 209679, "best_split": [1, 2], "split_score": 0.6994579081353851}

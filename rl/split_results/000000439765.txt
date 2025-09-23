@@ -1,0 +1,6 @@
+{"sent": "beard man", "ann_id": 212638, "best_split": [1, 2], "split_score": 0.8944515305765923}
+{"sent": "guy not looking at camera", "ann_id": 212638, "best_split": [1, 2], "split_score": 0.8944515305765923}
+{"sent": "man with beard", "ann_id": 212638, "best_split": [1, 2], "split_score": 0.8944515305765923}
+{"sent": "man without the beard", "ann_id": 206583, "best_split": [1, 3], "split_score": 0.5825088466605579}
+{"sent": "blue shirt", "ann_id": 206583, "best_split": [1, 3], "split_score": 0.5825088466605579}
+{"sent": "tie guy", "ann_id": 206583, "best_split": [1, 3], "split_score": 0.5825088466605579}

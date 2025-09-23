@@ -1,0 +1,6 @@
+{"sent": "person sitting in chair", "ann_id": 1723565, "best_split": [3, 2], "split_score": 0.7010135134289317}
+{"sent": "space above dog carrier", "ann_id": 1723565, "best_split": [1, 2], "split_score": 0.23158482141934053}
+{"sent": "bag next to trash can farther away from camera", "ann_id": 1723565, "best_split": [1, 2], "split_score": 0.23158482141934053}
+{"sent": "white pants and leg", "ann_id": 210485, "best_split": [2, 3], "split_score": 0.43962133451401275}
+{"sent": "leg with shor and shoe can see laces", "ann_id": 210485, "best_split": [1, 5], "split_score": 0.424310064892014}
+{"sent": "leg partially seen in upper corner", "ann_id": 210485, "best_split": [2, 3], "split_score": 0.43962133451401275}

@@ -1,0 +1,9 @@
+{"sent": "red shirt", "ann_id": 544242, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man sitting down in red", "ann_id": 544242, "best_split": [3, 3], "split_score": 0.48319941554360857}
+{"sent": "red squatter", "ann_id": 544242, "best_split": [3, 1], "split_score": 0.1596283783687483}
+{"sent": "hands in pocket hoodie guy", "ann_id": 478089, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "blurry man standing black shirt", "ann_id": 478089, "best_split": [3, 1], "split_score": 0.06036302236912394}
+{"sent": "guy standing in background in blue", "ann_id": 478089, "best_split": [1, 5], "split_score": 0.3248811410137796}
+{"sent": "guy in air", "ann_id": 422471, "best_split": [1, 2], "split_score": 0.5028537790048155}
+{"sent": "a man off the ground", "ann_id": 422471, "best_split": [1, 2], "split_score": 0.5028537790048155}
+{"sent": "man in air", "ann_id": 422471, "best_split": [1, 2], "split_score": 0.5028537790048155}

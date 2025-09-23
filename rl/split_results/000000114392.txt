@@ -1,0 +1,9 @@
+{"sent": "guy with hand to nose in green shirt", "ann_id": 490180, "best_split": [3, 3], "split_score": 0.5924006907439722}
+{"sent": "guy wearing green shirt", "ann_id": 490180, "best_split": [3, 3], "split_score": 0.5924006907439722}
+{"sent": "man with green shirt", "ann_id": 490180, "best_split": [3, 3], "split_score": 0.5924006907439722}
+{"sent": "man with dark blue jacket", "ann_id": 477115, "best_split": [1, 5], "split_score": 0.5518465908531}
+{"sent": "dark shirt dark hair", "ann_id": 477115, "best_split": [2, 1], "split_score": 0.15061626021821203}
+{"sent": "red scarf man", "ann_id": 477115, "best_split": [1, 5], "split_score": 0.5518465908531}
+{"sent": "white shirt", "ann_id": 429351, "best_split": [1, 5], "split_score": 0.3969289826874348}
+{"sent": "lady", "ann_id": 429351, "best_split": [1, 5], "split_score": 0.3969289826874348}
+{"sent": "woman in white", "ann_id": 429351, "best_split": [1, 5], "split_score": 0.3969289826874348}

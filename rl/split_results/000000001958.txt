@@ -1,0 +1,12 @@
+{"sent": "kid in white shirt", "ann_id": 261456, "best_split": [3, 2], "split_score": 0.4852271850277538}
+{"sent": "woman in shorts", "ann_id": 261456, "best_split": [1, 2], "split_score": 0.4370615433499258}
+{"sent": "white shirt", "ann_id": 261456, "best_split": [3, 2], "split_score": 0.4852271850277538}
+{"sent": "long hair woman", "ann_id": 218797, "best_split": [1, 5], "split_score": 0.49999999996310507}
+{"sent": "dark shadow woman", "ann_id": 218797, "best_split": [1, 5], "split_score": 0.49999999996310507}
+{"sent": "gray lady", "ann_id": 218797, "best_split": [2, 1], "split_score": 0.25724791400589564}
+{"sent": "thing touching black pants bakc", "ann_id": 115360, "best_split": [3, 1], "split_score": 0.29867046531940467}
+{"sent": "chair", "ann_id": 115360, "best_split": [3, 1], "split_score": 0.009411330503348804}
+{"sent": "chair behind woman in black and gray", "ann_id": 115360, "best_split": [2, 3], "split_score": 0.6399613898841745}
+{"sent": "blue chair", "ann_id": 113050, "best_split": [3, 3], "split_score": 0.8692918595517386}
+{"sent": "couch", "ann_id": 113050, "best_split": [1, 2], "split_score": 0.23206313774585208}
+{"sent": "blue chair", "ann_id": 113050, "best_split": [3, 3], "split_score": 0.8692918595517386}

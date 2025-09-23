@@ -1,0 +1,5 @@
+{"sent": "player with 0 on shirt", "ann_id": 515023, "best_split": [1, 5], "split_score": 0.3683360258210944}
+{"sent": "0 player on base", "ann_id": 515023, "best_split": [2, 2], "split_score": 0.4504761904455458}
+{"sent": "scooping for ball", "ann_id": 476347, "best_split": [2, 3], "split_score": 0.3700819671878359}
+{"sent": "catcher", "ann_id": 476347, "best_split": [2, 3], "split_score": 0.3700819671878359}
+{"sent": "catcher", "ann_id": 476347, "best_split": [2, 3], "split_score": 0.3700819671878359}

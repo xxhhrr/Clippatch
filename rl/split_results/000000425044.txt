@@ -1,0 +1,6 @@
+{"sent": "person on couch", "ann_id": 521354, "best_split": [2, 3], "split_score": 0.4920405209395766}
+{"sent": "child falling off the couch", "ann_id": 521354, "best_split": [2, 3], "split_score": 0.4920405209395766}
+{"sent": "kid on the couch", "ann_id": 521354, "best_split": [2, 3], "split_score": 0.4920405209395766}
+{"sent": "guy in jean jacket", "ann_id": 484367, "best_split": [3, 3], "split_score": 0.36345776026971294}
+{"sent": "denim jacket", "ann_id": 484367, "best_split": [3, 3], "split_score": 0.36345776026971294}
+{"sent": "blue man", "ann_id": 484367, "best_split": [3, 3], "split_score": 0.36345776026971294}

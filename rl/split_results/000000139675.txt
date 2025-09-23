@@ -1,0 +1,6 @@
+{"sent": "zebra whose face cant see", "ann_id": 593609, "best_split": [2, 1], "split_score": 0.1945788964106649}
+{"sent": "smaller", "ann_id": 593609, "best_split": [2, 2], "split_score": 0.37836006321976057}
+{"sent": "baby", "ann_id": 593609, "best_split": [2, 2], "split_score": 0.37836006321976057}
+{"sent": "zebras head", "ann_id": 593193, "best_split": [3, 1], "split_score": 0.4075433911712473}
+{"sent": "bigger zebra", "ann_id": 593193, "best_split": [3, 1], "split_score": 0.4075433911712473}
+{"sent": "zebra you can see his face", "ann_id": 593193, "best_split": [3, 1], "split_score": 0.4075433911712473}

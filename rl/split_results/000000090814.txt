@@ -1,0 +1,6 @@
+{"sent": "bike with handle bars by blue boat", "ann_id": 127532, "best_split": [3, 1], "split_score": 0.2729427700511372}
+{"sent": "bike touching boat with blue cover", "ann_id": 127532, "best_split": [1, 5], "split_score": 0.31629156867206637}
+{"sent": "bike nearest boats", "ann_id": 127532, "best_split": [3, 1], "split_score": 0.2729427700511372}
+{"sent": "bigger bike", "ann_id": 126084, "best_split": [3, 3], "split_score": 0.42354474365513195}
+{"sent": "big bike", "ann_id": 126084, "best_split": [3, 3], "split_score": 0.42354474365513195}
+{"sent": "bicycle thats leaning towards the water", "ann_id": 126084, "best_split": [3, 3], "split_score": 0.42354474365513195}

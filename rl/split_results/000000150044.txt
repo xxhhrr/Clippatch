@@ -1,0 +1,8 @@
+{"sent": "train between others", "ann_id": 248650, "best_split": [3, 2], "split_score": 0.4540510388750487}
+{"sent": "thomas the train", "ann_id": 248650, "best_split": [3, 2], "split_score": 0.4540510388750487}
+{"sent": "round train", "ann_id": 248650, "best_split": [3, 2], "split_score": 0.4540510388750487}
+{"sent": "brown train", "ann_id": 173801, "best_split": [3, 3], "split_score": 0.3921241447702112}
+{"sent": "least visible train", "ann_id": 173801, "best_split": [3, 2], "split_score": 0.26689381030472525}
+{"sent": "train hidden", "ann_id": 173801, "best_split": [3, 2], "split_score": 0.26689381030472525}
+{"sent": "squarer train", "ann_id": 170758, "best_split": [3, 1], "split_score": 0.11302927795911412}
+{"sent": "train next to score", "ann_id": 170758, "best_split": [5, 1], "split_score": 0.12053652346197784}

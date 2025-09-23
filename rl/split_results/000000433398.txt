@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 205698, "best_split": [2, 3], "split_score": 0.551253200857356}
+{"sent": "man with no hat", "ann_id": 205698, "best_split": [2, 1], "split_score": 0.07259263578109698}
+{"sent": "man in white pants", "ann_id": 205698, "best_split": [2, 2], "split_score": 0.6128109617791133}
+{"sent": "the one with hand on chin", "ann_id": 183753, "best_split": [2, 1], "split_score": 0.23049749778368792}
+{"sent": "person with hand up", "ann_id": 183753, "best_split": [2, 1], "split_score": 0.23049749778368792}
+{"sent": "woman with arm up", "ann_id": 183753, "best_split": [2, 1], "split_score": 0.23049749778368792}
+{"sent": "guy with brown shirt", "ann_id": 183205, "best_split": [1, 2], "split_score": 0.7381409782496623}
+{"sent": "boy with huge smile", "ann_id": 183205, "best_split": [1, 2], "split_score": 0.7381409782496623}
+{"sent": "one closest to us", "ann_id": 183205, "best_split": [1, 3], "split_score": 0.5282360405881886}

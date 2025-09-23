@@ -1,0 +1,6 @@
+{"sent": "zebra closest to the camera", "ann_id": 592530, "best_split": [3, 3], "split_score": 0.2923293454901718}
+{"sent": "zebra furthest from antelope", "ann_id": 592530, "best_split": [3, 3], "split_score": 0.2923293454901718}
+{"sent": "zebra closest slightly curved posture", "ann_id": 592530, "best_split": [3, 3], "split_score": 0.2923293454901718}
+{"sent": "zebra closest to ostrich", "ann_id": 590153, "best_split": [1, 5], "split_score": 0.28538769286669957}
+{"sent": "zebra next to the gazelle", "ann_id": 590153, "best_split": [1, 5], "split_score": 0.28538769286669957}
+{"sent": "giraffe nearest brown animal facing away from us", "ann_id": 590153, "best_split": [1, 5], "split_score": 0.28538769286669957}

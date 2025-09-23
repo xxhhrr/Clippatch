@@ -1,0 +1,6 @@
+{"sent": "kid in red", "ann_id": 2205296, "best_split": [3, 3], "split_score": 0.33813400119941545}
+{"sent": "red", "ann_id": 2205296, "best_split": [3, 3], "split_score": 0.33813400119941545}
+{"sent": "red guy", "ann_id": 2205296, "best_split": [3, 3], "split_score": 0.33813400119941545}
+{"sent": "person in yellow coat", "ann_id": 503408, "best_split": [1, 5], "split_score": 0.44875346255948223}
+{"sent": "yellow", "ann_id": 503408, "best_split": [1, 5], "split_score": 0.44875346255948223}
+{"sent": "yellow coat", "ann_id": 503408, "best_split": [1, 5], "split_score": 0.44875346255948223}

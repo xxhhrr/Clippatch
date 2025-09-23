@@ -1,0 +1,6 @@
+{"sent": "woman in mirror", "ann_id": 221130, "best_split": [2, 1], "split_score": 0.1975446428492688}
+{"sent": "refelection woman", "ann_id": 221130, "best_split": [2, 1], "split_score": 0.1975446428492688}
+{"sent": "ladies reflection", "ann_id": 221130, "best_split": [2, 2], "split_score": 0.39508928568278945}
+{"sent": "i see youre back", "ann_id": 208771, "best_split": [2, 2], "split_score": 0.20875143937289228}
+{"sent": "back of head not reflection", "ann_id": 208771, "best_split": [5, 1], "split_score": 0.21647230319713592}
+{"sent": "woman not reflection", "ann_id": 208771, "best_split": [1, 2], "split_score": 0.6715561224222115}

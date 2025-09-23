@@ -1,0 +1,6 @@
+{"sent": "bike above without basket", "ann_id": 129832, "best_split": [1, 2], "split_score": 0.15005560454998446}
+{"sent": "farthest bike", "ann_id": 129832, "best_split": [1, 2], "split_score": 0.15005560454998446}
+{"sent": "bike highest", "ann_id": 129832, "best_split": [1, 2], "split_score": 0.15005560454998446}
+{"sent": "bike with basket blue towel in it", "ann_id": 128529, "best_split": [2, 1], "split_score": 0.6330711354092657}
+{"sent": "bike basket with blue thing in it", "ann_id": 128529, "best_split": [2, 1], "split_score": 0.6330711354092657}
+{"sent": "blue in basket", "ann_id": 128529, "best_split": [2, 1], "split_score": 0.6330711354092657}

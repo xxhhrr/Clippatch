@@ -1,0 +1,5 @@
+{"sent": "elephant by three with 3 limbs", "ann_id": 583749, "best_split": [3, 1], "split_score": 0.13555729107801198}
+{"sent": "elephant turned to the side behind a tree trunk", "ann_id": 583749, "best_split": [2, 2], "split_score": 0.2528012279161319}
+{"sent": "elephant with trees covering its head", "ann_id": 583749, "best_split": [3, 1], "split_score": 0.13555729107801198}
+{"sent": "elephannt in full view", "ann_id": 580233, "best_split": [3, 2], "split_score": 0.34247135839377335}
+{"sent": "the largest elephant", "ann_id": 580233, "best_split": [3, 2], "split_score": 0.34247135839377335}

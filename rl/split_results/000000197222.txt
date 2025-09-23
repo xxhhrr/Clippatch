@@ -1,0 +1,6 @@
+{"sent": "zebra closest to us all their heads are pointing towards ihm", "ann_id": 593105, "best_split": [3, 3], "split_score": 0.6317289422685672}
+{"sent": "zebra at head of line", "ann_id": 593105, "best_split": [3, 3], "split_score": 0.6317289422685672}
+{"sent": "zebra at three", "ann_id": 593105, "best_split": [3, 3], "split_score": 0.6317289422685672}
+{"sent": "tallest zebra", "ann_id": 592571, "best_split": [2, 3], "split_score": 0.5255791505157361}
+{"sent": "zebra at tail end of line", "ann_id": 592571, "best_split": [2, 3], "split_score": 0.5255791505157361}
+{"sent": "one farthest to correct rounds remaining", "ann_id": 592571, "best_split": [2, 1], "split_score": 0.17362882652369144}

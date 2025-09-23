@@ -1,0 +1,6 @@
+{"sent": "empty glass", "ann_id": 2099027, "best_split": [3, 2], "split_score": 0.3362743131806422}
+{"sent": "a glass dish not drinking glass", "ann_id": 2099027, "best_split": [3, 2], "split_score": 0.3362743131806422}
+{"sent": "glass cut off by pic filled with water", "ann_id": 2099027, "best_split": [3, 2], "split_score": 0.3362743131806422}
+{"sent": "glass with ice cubes", "ann_id": 1507945, "best_split": [2, 2], "split_score": 0.5388481675016511}
+{"sent": "ice", "ann_id": 1507945, "best_split": [2, 2], "split_score": 0.5388481675016511}
+{"sent": "cup of juice", "ann_id": 1507945, "best_split": [2, 2], "split_score": 0.5388481675016511}

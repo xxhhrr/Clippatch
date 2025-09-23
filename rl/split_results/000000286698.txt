@@ -1,0 +1,6 @@
+{"sent": "dude with orange thing on his head", "ann_id": 527122, "best_split": [1, 5], "split_score": 0.37581115391932557}
+{"sent": "guy with dark blue shirt", "ann_id": 527122, "best_split": [1, 5], "split_score": 0.37581115391932557}
+{"sent": "guy in black adidas shirt", "ann_id": 527122, "best_split": [3, 3], "split_score": 0.45026178004099876}
+{"sent": "man running", "ann_id": 456890, "best_split": [3, 3], "split_score": 0.3720046755739327}
+{"sent": "blue", "ann_id": 456890, "best_split": [3, 3], "split_score": 0.3720046755739327}
+{"sent": "man wearing blue shirt", "ann_id": 456890, "best_split": [3, 3], "split_score": 0.3720046755739327}

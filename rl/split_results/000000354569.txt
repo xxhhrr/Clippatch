@@ -1,0 +1,12 @@
+{"sent": "black dog by 3 on clock", "ann_id": 53395, "best_split": [2, 2], "split_score": 0.3864103413731249}
+{"sent": "black dog on clock", "ann_id": 53395, "best_split": [2, 2], "split_score": 0.3864103413731249}
+{"sent": "black dog next to white one", "ann_id": 53395, "best_split": [3, 1], "split_score": 0.2819774911207165}
+{"sent": "dog with red collar", "ann_id": 53382, "best_split": [3, 2], "split_score": 0.4287971904803514}
+{"sent": "red collar dog", "ann_id": 53382, "best_split": [3, 2], "split_score": 0.4287971904803514}
+{"sent": "the dog with the pink collar closest to the clock", "ann_id": 53382, "best_split": [3, 2], "split_score": 0.4287971904803514}
+{"sent": "black dog in danger of falling off", "ann_id": 53364, "best_split": [3, 3], "split_score": 0.39585021877194837}
+{"sent": "black dog with no collar under tan curtain", "ann_id": 53364, "best_split": [3, 3], "split_score": 0.39585021877194837}
+{"sent": "black dog far to the side", "ann_id": 53364, "best_split": [3, 3], "split_score": 0.39585021877194837}
+{"sent": "the white dog", "ann_id": 2679, "best_split": [1, 5], "split_score": 0.3143339990540533}
+{"sent": "white dog", "ann_id": 2679, "best_split": [1, 5], "split_score": 0.3143339990540533}
+{"sent": "white dog", "ann_id": 2679, "best_split": [1, 5], "split_score": 0.3143339990540533}

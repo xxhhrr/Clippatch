@@ -1,0 +1,5 @@
+{"sent": "bike with box under ing of no parking", "ann_id": 1766227, "best_split": [3, 2], "split_score": 0.37037987677294787}
+{"sent": "pi z bike", "ann_id": 1766227, "best_split": [3, 1], "split_score": 0.36911139846808094}
+{"sent": "closest bike", "ann_id": 127717, "best_split": [2, 2], "split_score": 0.5477883572045446}
+{"sent": "bike closest to us", "ann_id": 127717, "best_split": [2, 2], "split_score": 0.5477883572045446}
+{"sent": "bike without red basket", "ann_id": 127717, "best_split": [2, 2], "split_score": 0.5477883572045446}

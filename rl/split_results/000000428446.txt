@@ -1,0 +1,6 @@
+{"sent": "pie", "ann_id": 1965752, "best_split": [2, 1], "split_score": 0.6666575244599254}
+{"sent": "pie", "ann_id": 1965752, "best_split": [2, 1], "split_score": 0.6666575244599254}
+{"sent": "pie", "ann_id": 1965752, "best_split": [2, 1], "split_score": 0.6666575244599254}
+{"sent": "empty placemat", "ann_id": 1620016, "best_split": [1, 2], "split_score": 0.21720362839483254}
+{"sent": "green empty mat", "ann_id": 1620016, "best_split": [3, 1], "split_score": 0.8340974902971707}
+{"sent": "the placemat farthest away", "ann_id": 1620016, "best_split": [2, 2], "split_score": 0.3574590754474694}

@@ -1,0 +1,9 @@
+{"sent": "bald man", "ann_id": 2166949, "best_split": [1, 3], "split_score": 0.8674144699457423}
+{"sent": "man in gray shirt", "ann_id": 2166949, "best_split": [1, 3], "split_score": 0.8674144699457423}
+{"sent": "bald", "ann_id": 2166949, "best_split": [1, 3], "split_score": 0.8674144699457423}
+{"sent": "green tank", "ann_id": 485494, "best_split": [1, 2], "split_score": 0.39460892618962257}
+{"sent": "tanktop guy", "ann_id": 485494, "best_split": [1, 2], "split_score": 0.39460892618962257}
+{"sent": "green wife beater", "ann_id": 485494, "best_split": [1, 5], "split_score": 0.4435093088215054}
+{"sent": "man cutting food", "ann_id": 483552, "best_split": [1, 2], "split_score": 0.4301050532769686}
+{"sent": "black shirt", "ann_id": 483552, "best_split": [3, 2], "split_score": 0.3989354442200808}
+{"sent": "man in black", "ann_id": 483552, "best_split": [1, 2], "split_score": 0.4301050532769686}

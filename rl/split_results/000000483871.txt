@@ -1,0 +1,6 @@
+{"sent": "dog in mirror", "ann_id": 16234, "best_split": [3, 1], "split_score": 0.29406092232718467}
+{"sent": "dogs reflection", "ann_id": 16234, "best_split": [3, 2], "split_score": 0.5549727009361982}
+{"sent": "reflection", "ann_id": 16234, "best_split": [3, 2], "split_score": 0.5549727009361982}
+{"sent": "dog at 3 oclcok", "ann_id": 9425, "best_split": [3, 2], "split_score": 0.59500867213384}
+{"sent": "dog not the relection", "ann_id": 9425, "best_split": [3, 2], "split_score": 0.59500867213384}
+{"sent": "th puppy looking in mirror", "ann_id": 9425, "best_split": [3, 2], "split_score": 0.59500867213384}

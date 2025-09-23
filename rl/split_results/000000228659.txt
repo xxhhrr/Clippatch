@@ -1,0 +1,6 @@
+{"sent": "yellow pants", "ann_id": 501113, "best_split": [1, 5], "split_score": 0.4330858556602812}
+{"sent": "neon yellow pants", "ann_id": 501113, "best_split": [1, 5], "split_score": 0.4330858556602812}
+{"sent": "yellow pants", "ann_id": 501113, "best_split": [1, 5], "split_score": 0.4330858556602812}
+{"sent": "blue coat", "ann_id": 450867, "best_split": [3, 3], "split_score": 0.45295247234122027}
+{"sent": "the boy skiing in bright blue jacket", "ann_id": 450867, "best_split": [3, 3], "split_score": 0.45295247234122027}
+{"sent": "bright blue person", "ann_id": 450867, "best_split": [3, 3], "split_score": 0.45295247234122027}

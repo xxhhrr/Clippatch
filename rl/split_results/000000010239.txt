@@ -1,0 +1,5 @@
+{"sent": "larger truck", "ann_id": 1794665, "best_split": [1, 5], "split_score": 0.5730877716465}
+{"sent": "biggest bus", "ann_id": 1794665, "best_split": [1, 5], "split_score": 0.5730877716465}
+{"sent": "bus", "ann_id": 1794665, "best_split": [1, 5], "split_score": 0.5730877716465}
+{"sent": "smaller truck behind man near pole", "ann_id": 1366308, "best_split": [2, 3], "split_score": 0.4414796846127471}
+{"sent": "truck less visible", "ann_id": 1366308, "best_split": [5, 1], "split_score": 0.19219762010903768}

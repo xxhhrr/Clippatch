@@ -1,0 +1,8 @@
+{"sent": "couch with white pillow", "ann_id": 117581, "best_split": [3, 3], "split_score": 0.5579710143916718}
+{"sent": "sofa close to window", "ann_id": 117581, "best_split": [3, 3], "split_score": 0.5579710143916718}
+{"sent": "dark couch", "ann_id": 117581, "best_split": [3, 3], "split_score": 0.5579710143916718}
+{"sent": "chair next to floor lamp", "ann_id": 116336, "best_split": [1, 5], "split_score": 0.2692046226794984}
+{"sent": "chair 800", "ann_id": 116336, "best_split": [2, 2], "split_score": 0.2561383928367236}
+{"sent": "little couch at 8 o clock with sun on it", "ann_id": 116336, "best_split": [3, 2], "split_score": 0.3072289156277303}
+{"sent": "couch on the side of the stairs", "ann_id": 114390, "best_split": [1, 5], "split_score": 0.4101029916223538}
+{"sent": "couch next to staircase", "ann_id": 114390, "best_split": [1, 5], "split_score": 0.4101029916223538}

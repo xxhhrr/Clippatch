@@ -1,0 +1,5 @@
+{"sent": "chair in corner", "ann_id": 103903, "best_split": [2, 2], "split_score": 0.6577777777429747}
+{"sent": "chair the bird is on", "ann_id": 103903, "best_split": [1, 2], "split_score": 0.4522706209303498}
+{"sent": "chair without bird", "ann_id": 102064, "best_split": [1, 2], "split_score": 0.5173661360230335}
+{"sent": "chair back that we can see", "ann_id": 102064, "best_split": [1, 2], "split_score": 0.5173661360230335}
+{"sent": "sorry meant lead big chair", "ann_id": 102064, "best_split": [1, 2], "split_score": 0.5173661360230335}

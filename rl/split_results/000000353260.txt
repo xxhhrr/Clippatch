@@ -1,0 +1,6 @@
+{"sent": "second car", "ann_id": 1773259, "best_split": [2, 2], "split_score": 0.206896551708213}
+{"sent": "the car behind the red car", "ann_id": 1773259, "best_split": [3, 2], "split_score": 0.274999999969308}
+{"sent": "car behind the red car closet to us", "ann_id": 1773259, "best_split": [2, 2], "split_score": 0.206896551708213}
+{"sent": "red car with license plate hv03 jke", "ann_id": 1338991, "best_split": [2, 3], "split_score": 0.7394312066828339}
+{"sent": "red car", "ann_id": 1338991, "best_split": [2, 3], "split_score": 0.7394312066828339}
+{"sent": "car you can see most of closest", "ann_id": 1338991, "best_split": [2, 3], "split_score": 0.7394312066828339}

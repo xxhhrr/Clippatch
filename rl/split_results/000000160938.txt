@@ -1,0 +1,9 @@
+{"sent": "last person", "ann_id": 220737, "best_split": [5, 1], "split_score": 0.15978593270644248}
+{"sent": "yellow shirt bending over", "ann_id": 220737, "best_split": [2, 3], "split_score": 0.27509652506333293}
+{"sent": "man in picture where woman is looking away from him", "ann_id": 218151, "best_split": [3, 2], "split_score": 0.3385617760209264}
+{"sent": "man in small picture closest to remaining rounds box", "ann_id": 218151, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "woman looking to side away from man", "ann_id": 205129, "best_split": [3, 3], "split_score": 0.4260407439457855}
+{"sent": "woman looking to the side not down", "ann_id": 205129, "best_split": [3, 3], "split_score": 0.4260407439457855}
+{"sent": "man by himself", "ann_id": 204483, "best_split": [2, 2], "split_score": 0.5710852516714466}
+{"sent": "man by himself", "ann_id": 204483, "best_split": [2, 2], "split_score": 0.5710852516714466}
+{"sent": "big man in blue shirt", "ann_id": 204483, "best_split": [2, 2], "split_score": 0.5710852516714466}

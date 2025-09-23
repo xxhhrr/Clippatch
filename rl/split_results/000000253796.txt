@@ -1,0 +1,6 @@
+{"sent": "giraffe with head down", "ann_id": 1414035, "best_split": [1, 3], "split_score": 0.4461304237276767}
+{"sent": "giraffe with nose down", "ann_id": 1414035, "best_split": [1, 3], "split_score": 0.4461304237276767}
+{"sent": "giraffe with head down", "ann_id": 1414035, "best_split": [1, 3], "split_score": 0.4461304237276767}
+{"sent": "giraffe looking up", "ann_id": 594970, "best_split": [1, 2], "split_score": 0.547712053549597}
+{"sent": "head not looking at you", "ann_id": 594970, "best_split": [1, 2], "split_score": 0.547712053549597}
+{"sent": "giraffe not as direct at us", "ann_id": 594970, "best_split": [1, 2], "split_score": 0.547712053549597}

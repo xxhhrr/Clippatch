@@ -1,0 +1,6 @@
+{"sent": "weird train looking thing", "ann_id": 1795504, "best_split": [1, 2], "split_score": 0.44472023993058435}
+{"sent": "red big train", "ann_id": 1795504, "best_split": [1, 2], "split_score": 0.44472023993058435}
+{"sent": "main locomotive", "ann_id": 1795504, "best_split": [1, 2], "split_score": 0.44472023993058435}
+{"sent": "red train behind main train", "ann_id": 169878, "best_split": [5, 1], "split_score": 0.20994475136050267}
+{"sent": "not the main train but the one behind it", "ann_id": 169878, "best_split": [5, 1], "split_score": 0.20994475136050267}
+{"sent": "passenger train in background", "ann_id": 169878, "best_split": [5, 1], "split_score": 0.20994475136050267}

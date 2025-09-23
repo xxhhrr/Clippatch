@@ -1,0 +1,9 @@
+{"sent": "australia box", "ann_id": 1843861, "best_split": [5, 1], "split_score": 0.12391111110009678}
+{"sent": "box with writing", "ann_id": 1843861, "best_split": [2, 3], "split_score": 0.14397851682049384}
+{"sent": "trunk with white writing on it", "ann_id": 1843861, "best_split": [2, 3], "split_score": 0.14397851682049384}
+{"sent": "chest that isnt open but is under the open one", "ann_id": 1444445, "best_split": [1, 5], "split_score": 0.0846217180418423}
+{"sent": "longer black box", "ann_id": 1444445, "best_split": [3, 3], "split_score": 0.21541212807422985}
+{"sent": "larger black chest under open container", "ann_id": 1444445, "best_split": [1, 5], "split_score": 0.0846217180418423}
+{"sent": "red box", "ann_id": 1186244, "best_split": [3, 2], "split_score": 0.5058979896572605}
+{"sent": "deep red chest", "ann_id": 1186244, "best_split": [3, 2], "split_score": 0.5058979896572605}
+{"sent": "brown chest", "ann_id": 1186244, "best_split": [3, 2], "split_score": 0.5058979896572605}

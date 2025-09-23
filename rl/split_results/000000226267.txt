@@ -1,0 +1,6 @@
+{"sent": "the tallest basket on table", "ann_id": 1954071, "best_split": [3, 1], "split_score": 0.1346525096443863}
+{"sent": "number 1 basket", "ann_id": 1954071, "best_split": [3, 1], "split_score": 0.1346525096443863}
+{"sent": "square basket", "ann_id": 1954071, "best_split": [3, 1], "split_score": 0.1346525096443863}
+{"sent": "flowers next to the stuff that looks like bread", "ann_id": 1605475, "best_split": [3, 3], "split_score": 0.40337001368580294}
+{"sent": "low sided basket with flowers", "ann_id": 1605475, "best_split": [3, 3], "split_score": 0.40337001368580294}
+{"sent": "flowers by bread", "ann_id": 1605475, "best_split": [3, 3], "split_score": 0.40337001368580294}

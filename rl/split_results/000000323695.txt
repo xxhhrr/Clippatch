@@ -1,0 +1,6 @@
+{"sent": "gray car", "ann_id": 357753, "best_split": [2, 2], "split_score": 0.5051020407760601}
+{"sent": "light car", "ann_id": 357753, "best_split": [2, 2], "split_score": 0.5051020407760601}
+{"sent": "silver car closest to us", "ann_id": 357753, "best_split": [2, 2], "split_score": 0.5051020407760601}
+{"sent": "blue mercedes", "ann_id": 344889, "best_split": [2, 3], "split_score": 0.5685745139774757}
+{"sent": "car with full license plate showing", "ann_id": 344889, "best_split": [2, 3], "split_score": 0.5685745139774757}
+{"sent": "bj", "ann_id": 344889, "best_split": [2, 3], "split_score": 0.5685745139774757}

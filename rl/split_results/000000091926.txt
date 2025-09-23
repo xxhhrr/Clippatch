@@ -1,0 +1,9 @@
+{"sent": "standing up blue shirtt", "ann_id": 200764, "best_split": [1, 2], "split_score": 0.2461734693779427}
+{"sent": "standing person with light blue shirt", "ann_id": 200764, "best_split": [1, 5], "split_score": 0.5084681971670617}
+{"sent": "blue shirt standing", "ann_id": 200764, "best_split": [1, 2], "split_score": 0.2461734693779427}
+{"sent": "the woman eating from a plate", "ann_id": 192948, "best_split": [3, 2], "split_score": 0.3579506744544249}
+{"sent": "polka dots", "ann_id": 192948, "best_split": [1, 5], "split_score": 0.505180621639234}
+{"sent": "woman polka dots", "ann_id": 192948, "best_split": [1, 5], "split_score": 0.505180621639234}
+{"sent": "blue shirt eating", "ann_id": 184556, "best_split": [2, 3], "split_score": 0.5099176646229493}
+{"sent": "blue plate special girl", "ann_id": 184556, "best_split": [2, 3], "split_score": 0.5099176646229493}
+{"sent": "blue shirt eating", "ann_id": 184556, "best_split": [2, 3], "split_score": 0.5099176646229493}

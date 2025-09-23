@@ -1,0 +1,4 @@
+{"sent": "herb not wrapped", "ann_id": 2231146, "best_split": [3, 3], "split_score": 0.7373704662018506}
+{"sent": "unwrapped green vegetable", "ann_id": 2231146, "best_split": [3, 3], "split_score": 0.7373704662018506}
+{"sent": "green leafs inbetween squash and other green leafs", "ann_id": 2231126, "best_split": [2, 3], "split_score": 0.34849379795056185}
+{"sent": "bag of greens by squash", "ann_id": 2231126, "best_split": [2, 3], "split_score": 0.34849379795056185}

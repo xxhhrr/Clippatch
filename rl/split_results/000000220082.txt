@@ -1,0 +1,6 @@
+{"sent": "hot dog with onions", "ann_id": 1069994, "best_split": [1, 2], "split_score": 0.7472098213987879}
+{"sent": "hot dog with purple onions", "ann_id": 1069994, "best_split": [1, 2], "split_score": 0.7472098213987879}
+{"sent": "with relish", "ann_id": 1069994, "best_split": [1, 2], "split_score": 0.7472098213987879}
+{"sent": "hot dog with no red onions on it", "ann_id": 1069918, "best_split": [3, 1], "split_score": 0.27570429438931615}
+{"sent": "hot dog with kraut and no red onions", "ann_id": 1069918, "best_split": [3, 1], "split_score": 0.27570429438931615}
+{"sent": "sausage with cloe slaw", "ann_id": 1069918, "best_split": [2, 1], "split_score": 0.3626619282253049}

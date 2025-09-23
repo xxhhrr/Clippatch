@@ -1,0 +1,6 @@
+{"sent": "smaller head", "ann_id": 592243, "best_split": [2, 3], "split_score": 0.2810483870684427}
+{"sent": "zebra closest to tree", "ann_id": 592243, "best_split": [2, 3], "split_score": 0.2810483870684427}
+{"sent": "zebra closer to tree", "ann_id": 592243, "best_split": [2, 3], "split_score": 0.2810483870684427}
+{"sent": "the zebra with overall more black stripes", "ann_id": 592128, "best_split": [2, 2], "split_score": 0.4011479591516942}
+{"sent": "zebra not near tree", "ann_id": 592128, "best_split": [2, 2], "split_score": 0.4011479591516942}
+{"sent": "closer zebra", "ann_id": 592128, "best_split": [2, 2], "split_score": 0.4011479591516942}

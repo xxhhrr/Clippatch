@@ -1,0 +1,10 @@
+{"sent": "green hat brown coat", "ann_id": 2152358, "best_split": [1, 5], "split_score": 0.5103092783035429}
+{"sent": "blue hat", "ann_id": 2152358, "best_split": [1, 5], "split_score": 0.5103092783035429}
+{"sent": "green hat", "ann_id": 2152358, "best_split": [1, 5], "split_score": 0.5103092783035429}
+{"sent": "woman in black", "ann_id": 215404, "best_split": [3, 2], "split_score": 0.30286493857894514}
+{"sent": "woman in black coat", "ann_id": 215404, "best_split": [3, 2], "split_score": 0.30286493857894514}
+{"sent": "black suit woman", "ann_id": 215404, "best_split": [1, 5], "split_score": 0.4116424116035114}
+{"sent": "light blue jacket", "ann_id": 206153, "best_split": [3, 3], "split_score": 0.633721746366177}
+{"sent": "the man in the blue coat", "ann_id": 206153, "best_split": [3, 3], "split_score": 0.633721746366177}
+{"sent": "blue coat", "ann_id": 206153, "best_split": [3, 3], "split_score": 0.633721746366177}
+{"sent": "blue coat", "ann_id": 206153, "best_split": [3, 3], "split_score": 0.633721746366177}

@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 523530, "best_split": [1, 5], "split_score": 0.2507745580234395}
+{"sent": "pink shirt girl", "ann_id": 523530, "best_split": [1, 5], "split_score": 0.2507745580234395}
+{"sent": "girl with long hair", "ann_id": 523530, "best_split": [1, 5], "split_score": 0.2507745580234395}
+{"sent": "guy", "ann_id": 519614, "best_split": [1, 5], "split_score": 0.4276199803694789}
+{"sent": "striped shirt", "ann_id": 519614, "best_split": [1, 5], "split_score": 0.4276199803694789}
+{"sent": "man", "ann_id": 519614, "best_split": [1, 5], "split_score": 0.4276199803694789}

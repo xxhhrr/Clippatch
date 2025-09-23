@@ -1,0 +1,6 @@
+{"sent": "res cake", "ann_id": 1928061, "best_split": [3, 2], "split_score": 0.6685303513709534}
+{"sent": "cake", "ann_id": 1928061, "best_split": [3, 2], "split_score": 0.6685303513709534}
+{"sent": "the cake", "ann_id": 1928061, "best_split": [3, 2], "split_score": 0.6685303513709534}
+{"sent": "cupcake least wrapper showing", "ann_id": 1088028, "best_split": [2, 1], "split_score": 0.09291294642486794}
+{"sent": "muffin at 6 o clock", "ann_id": 1088028, "best_split": [3, 3], "split_score": 0.4094601912963603}
+{"sent": "white dessert at 6 o clock", "ann_id": 1088028, "best_split": [3, 3], "split_score": 0.4094601912963603}

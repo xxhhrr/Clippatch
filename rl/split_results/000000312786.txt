@@ -1,0 +1,6 @@
+{"sent": "man black jacket", "ann_id": 1708325, "best_split": [3, 2], "split_score": 0.19196847436742648}
+{"sent": "man", "ann_id": 1708325, "best_split": [3, 3], "split_score": 0.47114812604533785}
+{"sent": "guy with glasses middle", "ann_id": 1708325, "best_split": [3, 3], "split_score": 0.47114812604533785}
+{"sent": "woman with short hair", "ann_id": 475740, "best_split": [1, 3], "split_score": 0.7135197242045456}
+{"sent": "woman with shorter hair", "ann_id": 475740, "best_split": [1, 3], "split_score": 0.7135197242045456}
+{"sent": "older woman", "ann_id": 475740, "best_split": [1, 3], "split_score": 0.7135197242045456}

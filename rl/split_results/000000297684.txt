@@ -1,0 +1,5 @@
+{"sent": "dark brown horse", "ann_id": 274118, "best_split": [1, 3], "split_score": 0.7819396397004688}
+{"sent": "brown horse", "ann_id": 274118, "best_split": [1, 3], "split_score": 0.7819396397004688}
+{"sent": "prancing horse", "ann_id": 59603, "best_split": [1, 2], "split_score": 0.6242808272187731}
+{"sent": "pretty prancing gray horse with blue halter", "ann_id": 59603, "best_split": [1, 2], "split_score": 0.6242808272187731}
+{"sent": "gray horse", "ann_id": 59603, "best_split": [1, 2], "split_score": 0.6242808272187731}

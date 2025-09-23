@@ -1,0 +1,5 @@
+{"sent": "closest broccoli", "ann_id": 1560668, "best_split": [1, 2], "split_score": 0.7224022466832577}
+{"sent": "broccoli about 2 o clock", "ann_id": 1560496, "best_split": [1, 3], "split_score": 0.14525662783722967}
+{"sent": "broccoli by squash", "ann_id": 1560371, "best_split": [1, 5], "split_score": 0.28720626629510393}
+{"sent": "green over the pumpkin", "ann_id": 1560371, "best_split": [1, 3], "split_score": 0.2770208900841836}
+{"sent": "broccoli cluster on orange veg", "ann_id": 1560371, "best_split": [1, 5], "split_score": 0.28720626629510393}

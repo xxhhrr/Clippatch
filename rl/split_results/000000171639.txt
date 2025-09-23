@@ -1,0 +1,9 @@
+{"sent": "baby", "ann_id": 1412562, "best_split": [1, 2], "split_score": 0.7315945052779831}
+{"sent": "baby zeb", "ann_id": 1412562, "best_split": [1, 2], "split_score": 0.7315945052779831}
+{"sent": "small zebra", "ann_id": 1412562, "best_split": [1, 3], "split_score": 0.36332111363111985}
+{"sent": "zebra half cut off by thing", "ann_id": 593952, "best_split": [2, 2], "split_score": 0.5962325961977166}
+{"sent": "zebra face 3 o clock", "ann_id": 593952, "best_split": [2, 2], "split_score": 0.5962325961977166}
+{"sent": "zebra partilaly hidden by tree", "ann_id": 593952, "best_split": [1, 3], "split_score": 0.620175892363157}
+{"sent": "zebra stomach", "ann_id": 593195, "best_split": [1, 3], "split_score": 0.5044811974265693}
+{"sent": "zebra with no head", "ann_id": 593195, "best_split": [1, 3], "split_score": 0.5044811974265693}
+{"sent": "in between zebra u cant see head", "ann_id": 593195, "best_split": [1, 3], "split_score": 0.5044811974265693}

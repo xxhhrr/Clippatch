@@ -1,0 +1,5 @@
+{"sent": "refrigerator closes to cabinets", "ann_id": 333460, "best_split": [1, 3], "split_score": 0.3291505791307221}
+{"sent": "fridge by microwave", "ann_id": 333460, "best_split": [1, 3], "split_score": 0.3291505791307221}
+{"sent": "fridge closer to microwave", "ann_id": 333460, "best_split": [1, 3], "split_score": 0.3291505791307221}
+{"sent": "fridge door at 300", "ann_id": 333427, "best_split": [1, 5], "split_score": 0.5000960245342715}
+{"sent": "fridge with sticker", "ann_id": 333427, "best_split": [1, 5], "split_score": 0.5000960245342715}

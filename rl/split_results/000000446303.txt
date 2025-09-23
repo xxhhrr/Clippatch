@@ -1,0 +1,14 @@
+{"sent": "green cup in corner", "ann_id": 1877145, "best_split": [3, 3], "split_score": 0.9096085407634148}
+{"sent": "green cup in corner", "ann_id": 1877145, "best_split": [3, 3], "split_score": 0.9096085407634148}
+{"sent": "green dish", "ann_id": 1877145, "best_split": [3, 3], "split_score": 0.9096085407634148}
+{"sent": "a white cup", "ann_id": 1510720, "best_split": [1, 5], "split_score": 0.19894249832886957}
+{"sent": "white cup with green leaves", "ann_id": 1510720, "best_split": [1, 5], "split_score": 0.19894249832886957}
+{"sent": "1pm cup", "ann_id": 1510720, "best_split": [1, 2], "split_score": 0.11328124999548464}
+{"sent": "partially showing bisquit under", "ann_id": 1080744, "best_split": [2, 3], "split_score": 0.4618072890279741}
+{"sent": "donut under the other donut", "ann_id": 1080744, "best_split": [3, 2], "split_score": 0.5082417581981248}
+{"sent": "donut under other donut", "ann_id": 1080744, "best_split": [2, 2], "split_score": 0.3791708796524791}
+{"sent": "bagel under the other one", "ann_id": 1080744, "best_split": [3, 2], "split_score": 0.5082417581981248}
+{"sent": "donut below donut", "ann_id": 1080744, "best_split": [2, 2], "split_score": 0.3791708796524791}
+{"sent": "hole visible in bagel", "ann_id": 1080180, "best_split": [2, 3], "split_score": 0.5637760702112129}
+{"sent": "sandwich above the other", "ann_id": 1080180, "best_split": [2, 1], "split_score": 0.40595992336798437}
+{"sent": "bagel in forefront", "ann_id": 1080180, "best_split": [2, 3], "split_score": 0.5637760702112129}

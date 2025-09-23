@@ -1,0 +1,6 @@
+{"sent": "older girl", "ann_id": 507270, "best_split": [3, 1], "split_score": 0.30119144526377595}
+{"sent": "mouth open girl", "ann_id": 507270, "best_split": [2, 1], "split_score": 0.3831781619993927}
+{"sent": "open mouth", "ann_id": 507270, "best_split": [1, 2], "split_score": 0.7409917091541378}
+{"sent": "younger girl", "ann_id": 446969, "best_split": [1, 2], "split_score": 0.6104887983512446}
+{"sent": "youngest girl", "ann_id": 446969, "best_split": [1, 2], "split_score": 0.6104887983512446}
+{"sent": "youngest", "ann_id": 446969, "best_split": [1, 2], "split_score": 0.6104887983512446}

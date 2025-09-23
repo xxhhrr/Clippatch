@@ -1,0 +1,5 @@
+{"sent": "fridhe with no green dot", "ann_id": 333039, "best_split": [2, 2], "split_score": 0.3137121211883551}
+{"sent": "white fridge farthest away", "ann_id": 333039, "best_split": [1, 5], "split_score": 0.48670860384672193}
+{"sent": "fridge with circle on freezer", "ann_id": 332867, "best_split": [2, 2], "split_score": 0.39669421484676104}
+{"sent": "fridge behind guy", "ann_id": 332867, "best_split": [2, 2], "split_score": 0.39669421484676104}
+{"sent": "frige behind the man", "ann_id": 332867, "best_split": [1, 2], "split_score": 0.25446428570414287}

@@ -1,0 +1,12 @@
+{"sent": "blue", "ann_id": 261125, "best_split": [2, 3], "split_score": 0.5120481927160017}
+{"sent": "dark blue", "ann_id": 261125, "best_split": [2, 3], "split_score": 0.5120481927160017}
+{"sent": "navy blue woman", "ann_id": 261125, "best_split": [2, 3], "split_score": 0.5120481927160017}
+{"sent": "white shirt", "ann_id": 254316, "best_split": [2, 3], "split_score": 0.8124999999019666}
+{"sent": "man white shirt playing wii", "ann_id": 254316, "best_split": [2, 3], "split_score": 0.8124999999019666}
+{"sent": "white shirt man", "ann_id": 254316, "best_split": [2, 3], "split_score": 0.8124999999019666}
+{"sent": "red shirt", "ann_id": 208630, "best_split": [1, 2], "split_score": 0.18765943876803015}
+{"sent": "red shirt", "ann_id": 208630, "best_split": [1, 2], "split_score": 0.18765943876803015}
+{"sent": "woman in orange shirt and gray jacket", "ann_id": 208630, "best_split": [1, 5], "split_score": 0.43107005989672104}
+{"sent": "man in gray shirt", "ann_id": 204139, "best_split": [3, 3], "split_score": 0.40479291476884693}
+{"sent": "he is next to green pillow", "ann_id": 204139, "best_split": [1, 2], "split_score": 0.18928012518821283}
+{"sent": "gray shirt wii remote", "ann_id": 204139, "best_split": [1, 3], "split_score": 0.2927347902957629}

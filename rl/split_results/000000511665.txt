@@ -1,0 +1,6 @@
+{"sent": "red bus behind brown bus", "ann_id": 366027, "best_split": [3, 2], "split_score": 0.44477205710537854}
+{"sent": "second bus", "ann_id": 366027, "best_split": [3, 2], "split_score": 0.44477205710537854}
+{"sent": "red double decker squeezed", "ann_id": 366027, "best_split": [3, 2], "split_score": 0.44477205710537854}
+{"sent": "fontest bus", "ann_id": 365527, "best_split": [3, 1], "split_score": 0.3436532507596162}
+{"sent": "milwards", "ann_id": 365527, "best_split": [1, 2], "split_score": 0.5098855358811548}
+{"sent": "blue bus", "ann_id": 365527, "best_split": [3, 1], "split_score": 0.3436532507596162}

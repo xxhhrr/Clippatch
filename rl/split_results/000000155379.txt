@@ -1,0 +1,9 @@
+{"sent": "woman in white", "ann_id": 223858, "best_split": [1, 2], "split_score": 0.6340880101788071}
+{"sent": "woman in white", "ann_id": 223858, "best_split": [1, 2], "split_score": 0.6340880101788071}
+{"sent": "woman holding fork", "ann_id": 223858, "best_split": [2, 1], "split_score": 0.35618115053901284}
+{"sent": "flowers short hair", "ann_id": 219305, "best_split": [1, 3], "split_score": 0.6085526315476689}
+{"sent": "white pants shorter hair", "ann_id": 219305, "best_split": [2, 1], "split_score": 0.33673606446149307}
+{"sent": "woman with flowers on dress", "ann_id": 219305, "best_split": [1, 3], "split_score": 0.6085526315476689}
+{"sent": "oldest lady black shirt with white dots", "ann_id": 199207, "best_split": [3, 3], "split_score": 0.34961439583071746}
+{"sent": "the woman with the gray hair", "ann_id": 199207, "best_split": [3, 3], "split_score": 0.34961439583071746}
+{"sent": "lady in black and white", "ann_id": 199207, "best_split": [3, 3], "split_score": 0.34961439583071746}

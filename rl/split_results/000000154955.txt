@@ -1,0 +1,5 @@
+{"sent": "comforter", "ann_id": 1957606, "best_split": [3, 2], "split_score": 0.366290643632524}
+{"sent": "gray comforter", "ann_id": 1957606, "best_split": [3, 2], "split_score": 0.366290643632524}
+{"sent": "the black portion at end of bed", "ann_id": 1956614, "best_split": [2, 1], "split_score": 0.39791932396373086}
+{"sent": "end of the bed", "ann_id": 1956614, "best_split": [3, 1], "split_score": 0.5333410310875041}
+{"sent": "black shadow at foot of bed", "ann_id": 1956614, "best_split": [3, 1], "split_score": 0.5333410310875041}

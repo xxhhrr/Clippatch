@@ -1,0 +1,9 @@
+{"sent": "bananas no spots", "ann_id": 1043101, "best_split": [1, 5], "split_score": 0.2461430574788476}
+{"sent": "full bunch of bananas very close to kids neck", "ann_id": 1043101, "best_split": [3, 2], "split_score": 0.1882172914866961}
+{"sent": "bunch closest to ear and neck", "ann_id": 1043101, "best_split": [3, 2], "split_score": 0.1882172914866961}
+{"sent": "arm in pic barely", "ann_id": 2157065, "best_split": [1, 5], "split_score": 0.462211236765642}
+{"sent": "all you see is the arm", "ann_id": 2157065, "best_split": [1, 5], "split_score": 0.462211236765642}
+{"sent": "arm body off screen", "ann_id": 2157065, "best_split": [1, 5], "split_score": 0.462211236765642}
+{"sent": "child", "ann_id": 442450, "best_split": [1, 3], "split_score": 0.7181508689769963}
+{"sent": "boy", "ann_id": 442450, "best_split": [1, 3], "split_score": 0.7181508689769963}
+{"sent": "the boy", "ann_id": 442450, "best_split": [1, 3], "split_score": 0.7181508689769963}

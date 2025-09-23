@@ -1,0 +1,6 @@
+{"sent": "umpire", "ann_id": 486287, "best_split": [3, 2], "split_score": 0.24712134629682003}
+{"sent": "white shirt", "ann_id": 486287, "best_split": [3, 3], "split_score": 0.3588424436722118}
+{"sent": "fat guy", "ann_id": 486287, "best_split": [3, 3], "split_score": 0.3588424436722118}
+{"sent": "standing player 1", "ann_id": 458409, "best_split": [3, 3], "split_score": 0.5616480792190756}
+{"sent": "blue shirt no helmet", "ann_id": 458409, "best_split": [3, 2], "split_score": 0.2249667489810976}
+{"sent": "12", "ann_id": 458409, "best_split": [1, 5], "split_score": 0.31664238890052415}

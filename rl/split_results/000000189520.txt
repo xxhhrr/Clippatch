@@ -1,0 +1,6 @@
+{"sent": "teddy bear with red shirt", "ann_id": 1674876, "best_split": [1, 2], "split_score": 0.46475027411870845}
+{"sent": "bear with red shirt", "ann_id": 1674876, "best_split": [1, 2], "split_score": 0.46475027411870845}
+{"sent": "sweater", "ann_id": 1674876, "best_split": [1, 2], "split_score": 0.45869732784218276}
+{"sent": "all brown bear", "ann_id": 1162215, "best_split": [2, 1], "split_score": 0.757533482112662}
+{"sent": "teddy we can see its face", "ann_id": 1162215, "best_split": [2, 1], "split_score": 0.757533482112662}
+{"sent": "shirtless teddy", "ann_id": 1162215, "best_split": [2, 1], "split_score": 0.757533482112662}

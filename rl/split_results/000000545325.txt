@@ -1,0 +1,9 @@
+{"sent": "toothbrush with blue head", "ann_id": 343511, "best_split": [2, 3], "split_score": 0.6040594204585925}
+{"sent": "toothbrush with some blue bristles", "ann_id": 343511, "best_split": [2, 1], "split_score": 0.3595774647760712}
+{"sent": "blue", "ann_id": 343511, "best_split": [2, 2], "split_score": 0.6440464177192201}
+{"sent": "yellow", "ann_id": 343265, "best_split": [1, 5], "split_score": 0.6477304115046745}
+{"sent": "yellow toothbrush", "ann_id": 343265, "best_split": [1, 5], "split_score": 0.6477304115046745}
+{"sent": "yellow", "ann_id": 343265, "best_split": [1, 5], "split_score": 0.6477304115046745}
+{"sent": "orange brush", "ann_id": 342984, "best_split": [1, 5], "split_score": 0.6949806949197104}
+{"sent": "red", "ann_id": 342984, "best_split": [1, 5], "split_score": 0.6949806949197104}
+{"sent": "red", "ann_id": 342984, "best_split": [1, 5], "split_score": 0.6949806949197104}

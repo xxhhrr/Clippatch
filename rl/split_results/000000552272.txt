@@ -1,0 +1,15 @@
+{"sent": "kid in the orange shirt", "ann_id": 1716667, "best_split": [3, 3], "split_score": 0.3188846640913961}
+{"sent": "orange shirt", "ann_id": 1716667, "best_split": [3, 3], "split_score": 0.3188846640913961}
+{"sent": "orange shirt boy", "ann_id": 1716667, "best_split": [3, 3], "split_score": 0.3188846640913961}
+{"sent": "standing", "ann_id": 1206290, "best_split": [1, 2], "split_score": 0.36895326590524524}
+{"sent": "standing", "ann_id": 1206290, "best_split": [1, 2], "split_score": 0.36895326590524524}
+{"sent": "boy stnding", "ann_id": 1206290, "best_split": [1, 3], "split_score": 0.370303468188981}
+{"sent": "blurred person near striped shirt", "ann_id": 547153, "best_split": [3, 3], "split_score": 0.3952675449858473}
+{"sent": "kid on his knees wearing bright blue shirt", "ann_id": 547153, "best_split": [3, 3], "split_score": 0.3952675449858473}
+{"sent": "blurry kid in blue", "ann_id": 547153, "best_split": [3, 3], "split_score": 0.3952675449858473}
+{"sent": "striped blur", "ann_id": 2165777, "best_split": [1, 5], "split_score": 0.43130135673310704}
+{"sent": "striped shirt", "ann_id": 2165777, "best_split": [3, 2], "split_score": 0.30163043475333556}
+{"sent": "blue stripes", "ann_id": 2165777, "best_split": [1, 5], "split_score": 0.43130135673310704}
+{"sent": "guy in black sitting", "ann_id": 538087, "best_split": [3, 3], "split_score": 0.5019883040348552}
+{"sent": "leaning back with leg out", "ann_id": 538087, "best_split": [1, 3], "split_score": 0.44437741310060463}
+{"sent": "man in black sitting", "ann_id": 538087, "best_split": [3, 3], "split_score": 0.5019883040348552}

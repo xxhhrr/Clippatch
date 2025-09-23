@@ -1,0 +1,10 @@
+{"sent": "farthest meat", "ann_id": 2219311, "best_split": [3, 1], "split_score": 0.45317220541361825}
+{"sent": "the piece closest to pickles", "ann_id": 2219311, "best_split": [2, 3], "split_score": 0.25999999998243245}
+{"sent": "closest portion of sandwich", "ann_id": 1908499, "best_split": [2, 1], "split_score": 0.69018653687521}
+{"sent": "closest piece of meat", "ann_id": 1908499, "best_split": [2, 1], "split_score": 0.69018653687521}
+{"sent": "dog where you see the bun", "ann_id": 1908499, "best_split": [2, 1], "split_score": 0.69018653687521}
+{"sent": "bacon sitting on ground meat in bun", "ann_id": 312534, "best_split": [2, 1], "split_score": 0.36772216546323666}
+{"sent": "hamburger not ends", "ann_id": 312534, "best_split": [2, 1], "split_score": 0.36772216546323666}
+{"sent": "blurry pickle", "ann_id": 311409, "best_split": [2, 2], "split_score": 0.6557142856717069}
+{"sent": "sandwich with pickles on it", "ann_id": 311409, "best_split": [2, 2], "split_score": 0.6557142856717069}
+{"sent": "the bun with pickles", "ann_id": 311409, "best_split": [2, 2], "split_score": 0.6557142856717069}

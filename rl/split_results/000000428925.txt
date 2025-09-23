@@ -1,0 +1,9 @@
+{"sent": "person in read sweatshirt", "ann_id": 2164909, "best_split": [2, 2], "split_score": 0.282279142689344}
+{"sent": "red guy", "ann_id": 2164909, "best_split": [1, 5], "split_score": 0.7183441557712719}
+{"sent": "red", "ann_id": 2164909, "best_split": [1, 5], "split_score": 0.7183441557712719}
+{"sent": "girl in beige", "ann_id": 2158172, "best_split": [1, 3], "split_score": 0.6175848287509762}
+{"sent": "lady in a sweatshirt", "ann_id": 2158172, "best_split": [1, 3], "split_score": 0.6175848287509762}
+{"sent": "main woman washington u", "ann_id": 2158172, "best_split": [1, 3], "split_score": 0.6175848287509762}
+{"sent": "the lady with a yellow shirt on", "ann_id": 556122, "best_split": [2, 3], "split_score": 0.3925770039800481}
+{"sent": "yellow shirt", "ann_id": 556122, "best_split": [2, 2], "split_score": 0.27899388169415407}
+{"sent": "girl in green shirt", "ann_id": 556122, "best_split": [1, 2], "split_score": 0.24992028060228316}

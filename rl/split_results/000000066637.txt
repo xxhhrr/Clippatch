@@ -1,0 +1,9 @@
+{"sent": "woman in yellow shirt", "ann_id": 1258942, "best_split": [3, 3], "split_score": 0.4914865353832283}
+{"sent": "woman in yellow tee shirt wearing glasses", "ann_id": 1258942, "best_split": [3, 3], "split_score": 0.4914865353832283}
+{"sent": "yellow shirt", "ann_id": 1258942, "best_split": [1, 5], "split_score": 0.4897159646968466}
+{"sent": "woman closest and talles in blue shirt and sunglasses", "ann_id": 1220673, "best_split": [1, 5], "split_score": 0.60025380705899}
+{"sent": "blue with sunglasses", "ann_id": 1220673, "best_split": [1, 5], "split_score": 0.60025380705899}
+{"sent": "lady in blue shirt and sunglasses", "ann_id": 1220673, "best_split": [1, 5], "split_score": 0.60025380705899}
+{"sent": "person closest to the one in red", "ann_id": 1319835, "best_split": [1, 5], "split_score": 0.3668069753089991}
+{"sent": "green", "ann_id": 1319835, "best_split": [1, 5], "split_score": 0.3668069753089991}
+{"sent": "green shirt", "ann_id": 1319835, "best_split": [1, 5], "split_score": 0.3668069753089991}

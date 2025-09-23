@@ -1,0 +1,6 @@
+{"sent": "dad", "ann_id": 1319258, "best_split": [1, 2], "split_score": 0.6967474489518197}
+{"sent": "man on knees", "ann_id": 1319258, "best_split": [3, 2], "split_score": 0.3613693998118465}
+{"sent": "orange hat", "ann_id": 1319258, "best_split": [1, 2], "split_score": 0.6967474489518197}
+{"sent": "boy holding kite", "ann_id": 1235303, "best_split": [3, 2], "split_score": 0.4716179469347707}
+{"sent": "kid with rainbow kite", "ann_id": 1235303, "best_split": [3, 2], "split_score": 0.4716179469347707}
+{"sent": "boy with kite", "ann_id": 1235303, "best_split": [3, 2], "split_score": 0.4716179469347707}

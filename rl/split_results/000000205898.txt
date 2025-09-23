@@ -1,0 +1,6 @@
+{"sent": "tomato and beans", "ann_id": 712051, "best_split": [3, 3], "split_score": 0.6749452153625008}
+{"sent": "below black pouch tomatoes maybe", "ann_id": 712051, "best_split": [3, 3], "split_score": 0.6749452153625008}
+{"sent": "black bowl with tomatoes", "ann_id": 712051, "best_split": [3, 3], "split_score": 0.6749452153625008}
+{"sent": "the dish with dip", "ann_id": 709171, "best_split": [2, 2], "split_score": 0.4373650107653992}
+{"sent": "cucumbers", "ann_id": 709171, "best_split": [5, 1], "split_score": 0.31589371180756776}
+{"sent": "biggest bowl with vegetables", "ann_id": 709171, "best_split": [2, 2], "split_score": 0.4373650107653992}

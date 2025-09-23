@@ -1,0 +1,6 @@
+{"sent": "the taller one", "ann_id": 580700, "best_split": [3, 3], "split_score": 0.3170123391550259}
+{"sent": "the taller elephant", "ann_id": 580700, "best_split": [3, 2], "split_score": 0.357248520672311}
+{"sent": "taller elephant", "ann_id": 580700, "best_split": [3, 2], "split_score": 0.357248520672311}
+{"sent": "shorter elephant", "ann_id": 580413, "best_split": [3, 3], "split_score": 0.3553918095004404}
+{"sent": "shortest elephant", "ann_id": 580413, "best_split": [3, 3], "split_score": 0.3553918095004404}
+{"sent": "short elephant", "ann_id": 580413, "best_split": [3, 3], "split_score": 0.3553918095004404}

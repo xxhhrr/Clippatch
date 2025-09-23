@@ -1,0 +1,4 @@
+{"sent": "number 9", "ann_id": 464646, "best_split": [1, 5], "split_score": 0.6056962024837266}
+{"sent": "darker shirt", "ann_id": 423724, "best_split": [2, 1], "split_score": 0.149441624360425}
+{"sent": "cathcher", "ann_id": 423724, "best_split": [1, 2], "split_score": 0.2222382151773214}
+{"sent": "green shirt", "ann_id": 423724, "best_split": [1, 5], "split_score": 0.539106145207106}

@@ -1,0 +1,9 @@
+{"sent": "woman", "ann_id": 1730947, "best_split": [1, 3], "split_score": 0.5578934783574695}
+{"sent": "purple shirt woman", "ann_id": 1730947, "best_split": [2, 3], "split_score": 0.5803325330683442}
+{"sent": "purple", "ann_id": 1730947, "best_split": [2, 3], "split_score": 0.5803325330683442}
+{"sent": "asian man", "ann_id": 514054, "best_split": [1, 5], "split_score": 0.5254186151361127}
+{"sent": "brown shirt glasses guy", "ann_id": 514054, "best_split": [2, 1], "split_score": 0.2505643340769412}
+{"sent": "man with glasses", "ann_id": 514054, "best_split": [3, 2], "split_score": 0.33314277545139753}
+{"sent": "man in green", "ann_id": 482816, "best_split": [1, 3], "split_score": 0.49437503530474447}
+{"sent": "a man in a green polo shirt", "ann_id": 482816, "best_split": [1, 3], "split_score": 0.49437503530474447}
+{"sent": "man in green", "ann_id": 482816, "best_split": [1, 3], "split_score": 0.49437503530474447}

@@ -1,0 +1,12 @@
+{"sent": "horse between two women", "ann_id": 274872, "best_split": [2, 1], "split_score": 0.3876383809031238}
+{"sent": "lighter horse", "ann_id": 274872, "best_split": [2, 1], "split_score": 0.3876383809031238}
+{"sent": "white horse", "ann_id": 274872, "best_split": [2, 1], "split_score": 0.3876383809031238}
+{"sent": "woman with white pocket linin", "ann_id": 184833, "best_split": [1, 2], "split_score": 0.5721859055894377}
+{"sent": "lady in zipped up jacket", "ann_id": 184833, "best_split": [1, 2], "split_score": 0.5721859055894377}
+{"sent": "woman between two horses", "ann_id": 183186, "best_split": [1, 2], "split_score": 0.4188911704158517}
+{"sent": "lady between the horses", "ann_id": 183186, "best_split": [1, 2], "split_score": 0.4188911704158517}
+{"sent": "woman between horses", "ann_id": 183186, "best_split": [1, 2], "split_score": 0.4188911704158517}
+{"sent": "lady with darker jacket and hat", "ann_id": 183186, "best_split": [3, 1], "split_score": 0.24778834227995913}
+{"sent": "horse not between two women", "ann_id": 56729, "best_split": [1, 5], "split_score": 0.58876003563468}
+{"sent": "brown horse", "ann_id": 56729, "best_split": [1, 5], "split_score": 0.58876003563468}
+{"sent": "horse with white nose", "ann_id": 56729, "best_split": [1, 5], "split_score": 0.58876003563468}

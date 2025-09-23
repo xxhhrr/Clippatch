@@ -1,0 +1,6 @@
+{"sent": "black refrigerator next to main stainless steel one", "ann_id": 2140958, "best_split": [1, 3], "split_score": 0.26914817464393054}
+{"sent": "fridge next to main fridge barely visible", "ann_id": 2140958, "best_split": [1, 3], "split_score": 0.26914817464393054}
+{"sent": "black", "ann_id": 2140958, "best_split": [1, 5], "split_score": 0.3969289826874348}
+{"sent": "refrigerator", "ann_id": 333498, "best_split": [2, 1], "split_score": 0.46861924685192086}
+{"sent": "fridge", "ann_id": 333498, "best_split": [2, 1], "split_score": 0.46861924685192086}
+{"sent": "stainless fridge", "ann_id": 333498, "best_split": [2, 1], "split_score": 0.46249999999016794}

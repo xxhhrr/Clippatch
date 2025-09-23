@@ -1,0 +1,14 @@
+{"sent": "highest fruit", "ann_id": 1914130, "best_split": [1, 3], "split_score": 0.1835205992401966}
+{"sent": "darker fruit in back", "ann_id": 1914130, "best_split": [1, 3], "split_score": 0.1835205992401966}
+{"sent": "whole exactly at edge and near a slice", "ann_id": 1914089, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "partial whole fruit with slice perfectly by it", "ann_id": 1914089, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "fourth potato in line", "ann_id": 1913188, "best_split": [3, 3], "split_score": 0.6437682494784435}
+{"sent": "slice not with the other slices", "ann_id": 1557019, "best_split": [2, 1], "split_score": 0.0582614056697649}
+{"sent": "the slice of fruit near the whole fruit", "ann_id": 1557019, "best_split": [2, 1], "split_score": 0.0582614056697649}
+{"sent": "furthest away cut", "ann_id": 1557019, "best_split": [2, 2], "split_score": 0.11276849641163719}
+{"sent": "slice closest to us on the 900 sie", "ann_id": 1053620, "best_split": [2, 3], "split_score": 0.2040587395264064}
+{"sent": "lefty slice closest to us", "ann_id": 1053620, "best_split": [2, 3], "split_score": 0.2040587395264064}
+{"sent": "slices orange with most skin showing", "ann_id": 1053620, "best_split": [2, 3], "split_score": 0.2040587395264064}
+{"sent": "the closest slice to you", "ann_id": 1050779, "best_split": [3, 3], "split_score": 0.39757188493321766}
+{"sent": "its a dark slice", "ann_id": 1050779, "best_split": [3, 3], "split_score": 0.39757188493321766}
+{"sent": "slice closest to you", "ann_id": 1050779, "best_split": [3, 3], "split_score": 0.39757188493321766}

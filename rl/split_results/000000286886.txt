@@ -1,0 +1,9 @@
+{"sent": "blue bike", "ann_id": 1792665, "best_split": [3, 2], "split_score": 0.6718146717336131}
+{"sent": "blue and white bike", "ann_id": 1792665, "best_split": [3, 2], "split_score": 0.6718146717336131}
+{"sent": "blue bike 3 down", "ann_id": 1792665, "best_split": [3, 2], "split_score": 0.6718146717336131}
+{"sent": "white cycle", "ann_id": 1791725, "best_split": [3, 2], "split_score": 0.40063801835235147}
+{"sent": "white bike with blue and red logo", "ann_id": 1791725, "best_split": [3, 3], "split_score": 0.4657633679572026}
+{"sent": "white motorcycle", "ann_id": 1791725, "best_split": [3, 3], "split_score": 0.4657633679572026}
+{"sent": "red one", "ann_id": 1361369, "best_split": [2, 2], "split_score": 0.5386314783533179}
+{"sent": "orange bike", "ann_id": 1361369, "best_split": [2, 2], "split_score": 0.5386314783533179}
+{"sent": "red bike", "ann_id": 1361369, "best_split": [2, 2], "split_score": 0.5386314783533179}

@@ -1,0 +1,12 @@
+{"sent": "guy with blue adidas logo", "ann_id": 566349, "best_split": [1, 2], "split_score": 0.7943638392540512}
+{"sent": "boy with the collared shirt", "ann_id": 566349, "best_split": [2, 1], "split_score": 0.2859428114295443}
+{"sent": "blue adidas logo", "ann_id": 566349, "best_split": [3, 2], "split_score": 0.3134571521522386}
+{"sent": "boy in red shirt", "ann_id": 517780, "best_split": [3, 3], "split_score": 0.5236799128302014}
+{"sent": "red shirt", "ann_id": 517780, "best_split": [3, 3], "split_score": 0.5236799128302014}
+{"sent": "red shirt", "ann_id": 517780, "best_split": [3, 3], "split_score": 0.5236799128302014}
+{"sent": "dude with the gray shirt mixing some yellow shit", "ann_id": 488546, "best_split": [1, 2], "split_score": 0.24298469386786573}
+{"sent": "american flag kid", "ann_id": 488546, "best_split": [3, 2], "split_score": 0.327917282096758}
+{"sent": "tiny boy", "ann_id": 488546, "best_split": [3, 1], "split_score": 0.18577405856768964}
+{"sent": "guy in shirt with big green and yellow on it", "ann_id": 431669, "best_split": [1, 3], "split_score": 0.5839237473579731}
+{"sent": "green shirt", "ann_id": 431669, "best_split": [1, 3], "split_score": 0.5839237473579731}
+{"sent": "man with green on shirt", "ann_id": 431669, "best_split": [1, 3], "split_score": 0.5839237473579731}

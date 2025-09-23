@@ -1,0 +1,9 @@
+{"sent": "gray cup", "ann_id": 2217613, "best_split": [1, 3], "split_score": 0.2761370348357877}
+{"sent": "second", "ann_id": 2217613, "best_split": [1, 3], "split_score": 0.2761370348357877}
+{"sent": "white rice container with the gray circle", "ann_id": 2217613, "best_split": [1, 3], "split_score": 0.2761370348357877}
+{"sent": "white box with no rice", "ann_id": 1904106, "best_split": [1, 2], "split_score": 0.40250318875946656}
+{"sent": "plate 4", "ann_id": 1904106, "best_split": [1, 3], "split_score": 0.6091940154072638}
+{"sent": "white box all veggies no rice", "ann_id": 1904106, "best_split": [2, 2], "split_score": 0.28501702609052115}
+{"sent": "carrots and grapes in darker container", "ann_id": 1904089, "best_split": [1, 3], "split_score": 0.5834942084590073}
+{"sent": "carrot dish 900", "ann_id": 1904089, "best_split": [2, 3], "split_score": 0.3794162826129481}
+{"sent": "dark container with carrots greens and grapes", "ann_id": 1904089, "best_split": [1, 3], "split_score": 0.5834942084590073}

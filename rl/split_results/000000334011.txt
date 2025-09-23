@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 212024, "best_split": [3, 1], "split_score": 0.12277580070491682}
+{"sent": "woman in white dress", "ann_id": 212024, "best_split": [2, 3], "split_score": 0.2739726027104053}
+{"sent": "woman standing", "ann_id": 212024, "best_split": [3, 1], "split_score": 0.12277580070491682}
+{"sent": "he has a cool cape", "ann_id": 195367, "best_split": [3, 2], "split_score": 0.3340720221298179}
+{"sent": "man on horse", "ann_id": 195367, "best_split": [3, 3], "split_score": 0.2992407324364403}
+{"sent": "guy on horse", "ann_id": 195367, "best_split": [3, 3], "split_score": 0.2992407324364403}

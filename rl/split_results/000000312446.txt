@@ -1,0 +1,6 @@
+{"sent": "full cow near edge", "ann_id": 1820190, "best_split": [3, 2], "split_score": 0.5116756958236806}
+{"sent": "animal fully visible in profile", "ann_id": 1820190, "best_split": [3, 1], "split_score": 0.29289940826854927}
+{"sent": "no horns", "ann_id": 1820190, "best_split": [1, 2], "split_score": 0.3098244777893009}
+{"sent": "leader of the herd", "ann_id": 278038, "best_split": [1, 5], "split_score": 0.3943661971470307}
+{"sent": "the cow looking straight", "ann_id": 278038, "best_split": [1, 5], "split_score": 0.3943661971470307}
+{"sent": "animal at 6 ocklock", "ann_id": 278038, "best_split": [1, 5], "split_score": 0.3943661971470307}

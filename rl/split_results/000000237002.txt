@@ -1,0 +1,6 @@
+{"sent": "colorful umbrella with more showing", "ann_id": 284925, "best_split": [3, 3], "split_score": 0.7645122679885529}
+{"sent": "umbrella at 1 o clock", "ann_id": 284925, "best_split": [3, 3], "split_score": 0.7645122679885529}
+{"sent": "upper ri ght umb", "ann_id": 284925, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "closest umbrella", "ann_id": 286229, "best_split": [3, 1], "split_score": 0.5707395498064572}
+{"sent": "the umbrella thats over the ocean", "ann_id": 286229, "best_split": [3, 2], "split_score": 0.6937289038289457}
+{"sent": "umbrella at 1100 corner", "ann_id": 286229, "best_split": [3, 2], "split_score": 0.6937289038289457}

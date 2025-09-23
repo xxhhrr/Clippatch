@@ -1,0 +1,12 @@
+{"sent": "closest man", "ann_id": 1203866, "best_split": [2, 1], "split_score": 0.20103584137642871}
+{"sent": "closest man", "ann_id": 1203866, "best_split": [2, 1], "split_score": 0.20103584137642871}
+{"sent": "largest man", "ann_id": 1203866, "best_split": [1, 2], "split_score": 0.5066565688573559}
+{"sent": "the person with hand on face", "ann_id": 519478, "best_split": [1, 5], "split_score": 0.3354474982086463}
+{"sent": "black tee shirt with text", "ann_id": 519478, "best_split": [1, 5], "split_score": 0.3354474982086463}
+{"sent": "number 3 person", "ann_id": 519478, "best_split": [3, 3], "split_score": 0.22751081755551003}
+{"sent": "light blue shirt guy", "ann_id": 479653, "best_split": [2, 2], "split_score": 0.17350617472014218}
+{"sent": "blue shirt", "ann_id": 479653, "best_split": [2, 2], "split_score": 0.17350617472014218}
+{"sent": "light blue shirt", "ann_id": 479653, "best_split": [5, 1], "split_score": 0.11257168062526937}
+{"sent": "man in blue shirt and jeans", "ann_id": 449555, "best_split": [1, 5], "split_score": 0.6939935064230932}
+{"sent": "navy shirt man", "ann_id": 449555, "best_split": [1, 5], "split_score": 0.6939935064230932}
+{"sent": "guy in short sleeve dark polo", "ann_id": 449555, "best_split": [1, 5], "split_score": 0.6939935064230932}

@@ -1,0 +1,6 @@
+{"sent": "baby elephant we can see all of him", "ann_id": 583878, "best_split": [2, 3], "split_score": 0.40306733759848223}
+{"sent": "smaller elephant its butt is facing the big one", "ann_id": 583878, "best_split": [2, 3], "split_score": 0.40306733759848223}
+{"sent": "small elephant closer to the other ones", "ann_id": 583878, "best_split": [2, 3], "split_score": 0.40306733759848223}
+{"sent": "mama elephant", "ann_id": 581226, "best_split": [2, 2], "split_score": 0.30619027833359713}
+{"sent": "big elephant following baby", "ann_id": 581226, "best_split": [3, 2], "split_score": 0.27692307689887036}
+{"sent": "biggest elephant", "ann_id": 581226, "best_split": [2, 2], "split_score": 0.30619027833359713}

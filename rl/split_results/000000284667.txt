@@ -1,0 +1,12 @@
+{"sent": "happy cop", "ann_id": 1294758, "best_split": [1, 5], "split_score": 0.38268105336661656}
+{"sent": "smiling cop", "ann_id": 1294758, "best_split": [1, 5], "split_score": 0.38268105336661656}
+{"sent": "cop in the parade on a horse", "ann_id": 1294758, "best_split": [1, 5], "split_score": 0.38268105336661656}
+{"sent": "chubby walker in green outfit", "ann_id": 2206167, "best_split": [1, 5], "split_score": 0.4255196304440416}
+{"sent": "in between two horses", "ann_id": 2206167, "best_split": [1, 2], "split_score": 0.1976243622370207}
+{"sent": "man in green between horses", "ann_id": 2206167, "best_split": [1, 2], "split_score": 0.1976243622370207}
+{"sent": "dark mane", "ann_id": 58145, "best_split": [3, 1], "split_score": 0.29398812941346025}
+{"sent": "furthest horse", "ann_id": 58145, "best_split": [3, 1], "split_score": 0.29398812941346025}
+{"sent": "partial horse", "ann_id": 58145, "best_split": [3, 1], "split_score": 0.29398812941346025}
+{"sent": "closest horse", "ann_id": 57040, "best_split": [1, 2], "split_score": 0.4928171558753349}
+{"sent": "horse closest", "ann_id": 57040, "best_split": [1, 2], "split_score": 0.4928171558753349}
+{"sent": "close horse", "ann_id": 57040, "best_split": [1, 2], "split_score": 0.4928171558753349}

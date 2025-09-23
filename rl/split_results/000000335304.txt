@@ -1,0 +1,5 @@
+{"sent": "smaller couchb", "ann_id": 1950236, "best_split": [2, 3], "split_score": 0.36196911192543807}
+{"sent": "white couch near staircase", "ann_id": 1950236, "best_split": [1, 2], "split_score": 0.06361708572918748}
+{"sent": "farther back couch", "ann_id": 1950236, "best_split": [5, 1], "split_score": 0.20645645643708177}
+{"sent": "light couch with several pillows closest to us", "ann_id": 115535, "best_split": [3, 2], "split_score": 0.6689662272787308}
+{"sent": "beige sofa fully visible", "ann_id": 115535, "best_split": [3, 2], "split_score": 0.6689662272787308}

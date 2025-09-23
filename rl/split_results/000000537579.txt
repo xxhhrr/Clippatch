@@ -1,0 +1,6 @@
+{"sent": "laying down", "ann_id": 491612, "best_split": [2, 2], "split_score": 0.31993905920650423}
+{"sent": "kid on ground", "ann_id": 491612, "best_split": [3, 2], "split_score": 0.6321555467200793}
+{"sent": "player on ground", "ann_id": 491612, "best_split": [3, 2], "split_score": 0.6321555467200793}
+{"sent": "kid with blue baseball hat", "ann_id": 461912, "best_split": [2, 3], "split_score": 0.43932817508592864}
+{"sent": "crouching player", "ann_id": 461912, "best_split": [3, 1], "split_score": 0.19127618661110837}
+{"sent": "pitcher", "ann_id": 461912, "best_split": [2, 3], "split_score": 0.43932817508592864}

@@ -1,0 +1,15 @@
+{"sent": "blue table cover", "ann_id": 1091722, "best_split": [3, 3], "split_score": 0.5915906126806404}
+{"sent": "blue table", "ann_id": 1091722, "best_split": [3, 3], "split_score": 0.5915906126806404}
+{"sent": "blue table", "ann_id": 1091722, "best_split": [3, 3], "split_score": 0.5915906126806404}
+{"sent": "under the three plates and green", "ann_id": 1091515, "best_split": [2, 2], "split_score": 0.5564012578936055}
+{"sent": "green table", "ann_id": 1091515, "best_split": [2, 2], "split_score": 0.5564012578936055}
+{"sent": "green table", "ann_id": 1091515, "best_split": [2, 2], "split_score": 0.5564012578936055}
+{"sent": "brown shorts", "ann_id": 542603, "best_split": [2, 2], "split_score": 0.5212044420868149}
+{"sent": "you had that one but just missed shorts and white shirt hand in pocket", "ann_id": 542603, "best_split": [5, 1], "split_score": 0.20672749555993955}
+{"sent": "man with shorts and white shirt", "ann_id": 542603, "best_split": [1, 3], "split_score": 0.2582106455133218}
+{"sent": "dark kid", "ann_id": 508251, "best_split": [1, 3], "split_score": 0.5422188969355377}
+{"sent": "black boy in white shirt", "ann_id": 508251, "best_split": [1, 3], "split_score": 0.5422188969355377}
+{"sent": "black kid", "ann_id": 508251, "best_split": [1, 3], "split_score": 0.5422188969355377}
+{"sent": "blond hair", "ann_id": 423191, "best_split": [1, 2], "split_score": 0.8244977678242786}
+{"sent": "boy blond", "ann_id": 423191, "best_split": [1, 2], "split_score": 0.8244977678242786}
+{"sent": "the boy by the cake", "ann_id": 423191, "best_split": [2, 1], "split_score": 0.34160853507410727}

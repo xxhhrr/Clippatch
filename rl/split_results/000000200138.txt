@@ -1,0 +1,15 @@
+{"sent": "red head tan shirt", "ann_id": 545143, "best_split": [1, 2], "split_score": 0.1965880101962457}
+{"sent": "woman 2", "ann_id": 545143, "best_split": [2, 1], "split_score": 0.12098581030168089}
+{"sent": "girl with glasses", "ann_id": 545143, "best_split": [2, 1], "split_score": 0.12098581030168089}
+{"sent": "woman in black and purple", "ann_id": 539628, "best_split": [1, 5], "split_score": 0.45308310988161166}
+{"sent": "woman on the side with pupr undershirt", "ann_id": 539628, "best_split": [1, 2], "split_score": 0.29846938774320514}
+{"sent": "the al in black suit with purple girl", "ann_id": 539628, "best_split": [1, 5], "split_score": 0.45308310988161166}
+{"sent": "woman with lanyard", "ann_id": 528138, "best_split": [1, 3], "split_score": 0.3718725008356065}
+{"sent": "tallest woman with a blue lanyard", "ann_id": 528138, "best_split": [1, 3], "split_score": 0.3718725008356065}
+{"sent": "girl with name tag", "ann_id": 528138, "best_split": [1, 3], "split_score": 0.3718725008356065}
+{"sent": "flower shirt", "ann_id": 481789, "best_split": [1, 5], "split_score": 0.6092030995303546}
+{"sent": "black shirt with flwoers", "ann_id": 481789, "best_split": [1, 3], "split_score": 0.35511167393765186}
+{"sent": "woman under wall clock", "ann_id": 481789, "best_split": [1, 5], "split_score": 0.6092030995303546}
+{"sent": "lime green shirt and black jeans", "ann_id": 432133, "best_split": [1, 5], "split_score": 0.5277480370692588}
+{"sent": "all green shirt", "ann_id": 432133, "best_split": [1, 5], "split_score": 0.5277480370692588}
+{"sent": "the lady with the green shirt and blue jeans", "ann_id": 432133, "best_split": [1, 5], "split_score": 0.5277480370692588}

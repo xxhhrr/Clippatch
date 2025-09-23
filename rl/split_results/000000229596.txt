@@ -1,0 +1,5 @@
+{"sent": "the bacon pizza next to the stella artois partially visible", "ann_id": 1071348, "best_split": [3, 3], "split_score": 0.7089824327628468}
+{"sent": "pizza at 7 o clock", "ann_id": 1071348, "best_split": [3, 3], "split_score": 0.7089824327628468}
+{"sent": "pizza missing a couple slices", "ann_id": 1071208, "best_split": [5, 1], "split_score": 0.3906685236428736}
+{"sent": "pizza with slices gone", "ann_id": 1071208, "best_split": [5, 1], "split_score": 0.3906685236428736}
+{"sent": "pizza missing 2 slices", "ann_id": 1071208, "best_split": [5, 1], "split_score": 0.3906685236428736}

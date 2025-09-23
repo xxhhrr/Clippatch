@@ -1,0 +1,6 @@
+{"sent": "giraffe with the taller head", "ann_id": 597929, "best_split": [1, 2], "split_score": 0.4703045280424783}
+{"sent": "taller giraff", "ann_id": 597929, "best_split": [1, 2], "split_score": 0.4703045280424783}
+{"sent": "tall giraffe", "ann_id": 597929, "best_split": [1, 2], "split_score": 0.4703045280424783}
+{"sent": "shorter girafe", "ann_id": 594886, "best_split": [1, 3], "split_score": 0.4837294743764066}
+{"sent": "the giraffe with the mouth on the others head", "ann_id": 594886, "best_split": [1, 3], "split_score": 0.4837294743764066}
+{"sent": "shorter", "ann_id": 594886, "best_split": [1, 3], "split_score": 0.4837294743764066}

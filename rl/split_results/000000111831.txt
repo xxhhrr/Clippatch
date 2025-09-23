@@ -1,0 +1,5 @@
+{"sent": "blurry bus", "ann_id": 165957, "best_split": [5, 1], "split_score": 0.1656430299492236}
+{"sent": "yellow bus lit in street", "ann_id": 165957, "best_split": [5, 1], "split_score": 0.1656430299492236}
+{"sent": "yellow jeep", "ann_id": 165281, "best_split": [2, 3], "split_score": 0.39363484082392497}
+{"sent": "yellow bus cut off on the side", "ann_id": 165281, "best_split": [2, 3], "split_score": 0.39363484082392497}
+{"sent": "bus in focus", "ann_id": 165281, "best_split": [2, 3], "split_score": 0.39363484082392497}

@@ -1,0 +1,6 @@
+{"sent": "guy eating", "ann_id": 2207620, "best_split": [1, 2], "split_score": 0.559989701318229}
+{"sent": "man in white shirt", "ann_id": 2207620, "best_split": [1, 2], "split_score": 0.559989701318229}
+{"sent": "man", "ann_id": 2207620, "best_split": [1, 2], "split_score": 0.559989701318229}
+{"sent": "leg", "ann_id": 562342, "best_split": [2, 1], "split_score": 0.17400388001141606}
+{"sent": "leg cut of on side", "ann_id": 562342, "best_split": [2, 1], "split_score": 0.17400388001141606}
+{"sent": "man cut off", "ann_id": 562342, "best_split": [2, 1], "split_score": 0.17400388001141606}

@@ -1,0 +1,6 @@
+{"sent": "laptop", "ann_id": 1971036, "best_split": [3, 3], "split_score": 0.9083859331093983}
+{"sent": "laptop", "ann_id": 1971036, "best_split": [3, 3], "split_score": 0.9083859331093983}
+{"sent": "laptop", "ann_id": 1971036, "best_split": [3, 3], "split_score": 0.9083859331093983}
+{"sent": "computer monitor on books", "ann_id": 1970370, "best_split": [1, 5], "split_score": 0.26565112388392614}
+{"sent": "screen on the books", "ann_id": 1970370, "best_split": [1, 2], "split_score": 0.15027104591237758}
+{"sent": "tv inback", "ann_id": 1970370, "best_split": [2, 2], "split_score": 0.30054209181277564}

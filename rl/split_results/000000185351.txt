@@ -1,0 +1,6 @@
+{"sent": "black dude", "ann_id": 485390, "best_split": [1, 3], "split_score": 0.676042301053317}
+{"sent": "dark shirt", "ann_id": 485390, "best_split": [2, 3], "split_score": 0.5965574841603197}
+{"sent": "a ganster rapper", "ann_id": 485390, "best_split": [1, 2], "split_score": 0.5458785076313026}
+{"sent": "white guy", "ann_id": 479244, "best_split": [1, 3], "split_score": 0.43697659436233155}
+{"sent": "guy playing wii", "ann_id": 479244, "best_split": [1, 3], "split_score": 0.43697659436233155}
+{"sent": "white male with glasses", "ann_id": 479244, "best_split": [1, 2], "split_score": 0.6586826347129309}

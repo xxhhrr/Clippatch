@@ -1,0 +1,6 @@
+{"sent": "red shirt near eagle butt", "ann_id": 1332589, "best_split": [1, 2], "split_score": 0.1288265306071099}
+{"sent": "man in red shirt under eagles butt", "ann_id": 1332589, "best_split": [1, 2], "split_score": 0.1288265306071099}
+{"sent": "red shirt", "ann_id": 1332589, "best_split": [3, 1], "split_score": 0.13577981650597593}
+{"sent": "man", "ann_id": 1235052, "best_split": [1, 2], "split_score": 0.5580451999073361}
+{"sent": "guy holding a bald eagle", "ann_id": 1235052, "best_split": [1, 3], "split_score": 0.4117889529969441}
+{"sent": "guy holding bird", "ann_id": 1235052, "best_split": [1, 3], "split_score": 0.4117889529969441}

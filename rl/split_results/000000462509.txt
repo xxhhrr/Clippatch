@@ -1,0 +1,9 @@
+{"sent": "the man behind the catcher in black hunched over", "ann_id": 1304027, "best_split": [2, 2], "split_score": 0.21864928738676148}
+{"sent": "umpire", "ann_id": 1304027, "best_split": [2, 2], "split_score": 0.21864928738676148}
+{"sent": "12", "ann_id": 1304027, "best_split": [2, 1], "split_score": 0.11517712301976168}
+{"sent": "catcher", "ann_id": 2158775, "best_split": [2, 3], "split_score": 0.3690878377988716}
+{"sent": "catcher", "ann_id": 2158775, "best_split": [2, 3], "split_score": 0.3690878377988716}
+{"sent": "catcher", "ann_id": 2158775, "best_split": [2, 3], "split_score": 0.3690878377988716}
+{"sent": "batter", "ann_id": 1267815, "best_split": [3, 2], "split_score": 0.2994177439751882}
+{"sent": "batter", "ann_id": 1267815, "best_split": [3, 2], "split_score": 0.2994177439751882}
+{"sent": "hitter", "ann_id": 1267815, "best_split": [3, 2], "split_score": 0.2994177439751882}

@@ -1,0 +1,9 @@
+{"sent": "vase at 2 o clock", "ann_id": 1156763, "best_split": [2, 1], "split_score": 0.34191204883136594}
+{"sent": "lightest vase", "ann_id": 1156763, "best_split": [5, 1], "split_score": 0.21700586838450456}
+{"sent": "vase mostly covered by bigger vase", "ann_id": 1156763, "best_split": [2, 1], "split_score": 0.34191204883136594}
+{"sent": "smallest one", "ann_id": 1156469, "best_split": [5, 1], "split_score": 0.10261477652002016}
+{"sent": "the vase with the least visible portion", "ann_id": 1156469, "best_split": [2, 2], "split_score": 0.3706951530316729}
+{"sent": "pot in background like main one", "ann_id": 1156469, "best_split": [3, 1], "split_score": 0.28052606175913813}
+{"sent": "full vase", "ann_id": 1152238, "best_split": [2, 1], "split_score": 0.4802524624538526}
+{"sent": "octopus", "ann_id": 1152238, "best_split": [2, 1], "split_score": 0.4802524624538526}
+{"sent": "vase closest", "ann_id": 1152238, "best_split": [2, 1], "split_score": 0.4802524624538526}

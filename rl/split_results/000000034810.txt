@@ -1,0 +1,6 @@
+{"sent": "man with frisbee", "ann_id": 506547, "best_split": [1, 5], "split_score": 0.634915136765248}
+{"sent": "jumping person", "ann_id": 506547, "best_split": [1, 5], "split_score": 0.634915136765248}
+{"sent": "a man catching a frisbee", "ann_id": 506547, "best_split": [1, 5], "split_score": 0.634915136765248}
+{"sent": "man not jumping", "ann_id": 495308, "best_split": [2, 1], "split_score": 0.014142293226800662}
+{"sent": "black shirt player", "ann_id": 495308, "best_split": [2, 1], "split_score": 0.27737540616695866}
+{"sent": "person not holding onto frisbee", "ann_id": 495308, "best_split": [2, 1], "split_score": 0.014142293226800662}

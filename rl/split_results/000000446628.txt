@@ -1,0 +1,6 @@
+{"sent": "the surfboard the guy is holding", "ann_id": 653208, "best_split": [3, 1], "split_score": 0.3148018647835197}
+{"sent": "surf board with head over it", "ann_id": 653208, "best_split": [1, 3], "split_score": 0.2848519362024572}
+{"sent": "closest standing surf board", "ann_id": 653208, "best_split": [1, 3], "split_score": 0.2848519362024572}
+{"sent": "laying surfboard", "ann_id": 651779, "best_split": [3, 2], "split_score": 0.41993985232662534}
+{"sent": "horizontal", "ann_id": 651779, "best_split": [1, 3], "split_score": 0.18780791240667788}
+{"sent": "board on the sand", "ann_id": 651779, "best_split": [3, 2], "split_score": 0.41993985232662534}

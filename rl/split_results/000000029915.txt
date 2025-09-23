@@ -1,0 +1,9 @@
+{"sent": "see only back tire", "ann_id": 246280, "best_split": [3, 3], "split_score": 0.4646781788909453}
+{"sent": "bike with the yellow license plate", "ann_id": 246280, "best_split": [3, 3], "split_score": 0.4646781788909453}
+{"sent": "wheel partly cut off in picture", "ann_id": 246280, "best_split": [3, 3], "split_score": 0.4646781788909453}
+{"sent": "silver bike", "ann_id": 154227, "best_split": [3, 1], "split_score": 0.20673327334595704}
+{"sent": "gray bike next to blue one", "ann_id": 154227, "best_split": [3, 1], "split_score": 0.20673327334595704}
+{"sent": "motorcycle next to blue motorcycle", "ann_id": 154227, "best_split": [3, 1], "split_score": 0.20673327334595704}
+{"sent": "blue motorcycle", "ann_id": 148706, "best_split": [2, 1], "split_score": 0.4350225328696077}
+{"sent": "blue bike", "ann_id": 148706, "best_split": [2, 1], "split_score": 0.4350225328696077}
+{"sent": "blue bike", "ann_id": 148706, "best_split": [2, 1], "split_score": 0.4350225328696077}

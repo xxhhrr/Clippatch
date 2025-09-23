@@ -1,0 +1,6 @@
+{"sent": "blue in boat", "ann_id": 249590, "best_split": [3, 1], "split_score": 0.3096234309448364}
+{"sent": "boat closest to us and closest corner with shrubbery", "ann_id": 249590, "best_split": [2, 1], "split_score": 0.2625159438670872}
+{"sent": "closest boat near dock", "ann_id": 249590, "best_split": [3, 1], "split_score": 0.3096234309448364}
+{"sent": "frontmost boat not by pier", "ann_id": 182613, "best_split": [2, 3], "split_score": 0.46111411568835975}
+{"sent": "boat with red box", "ann_id": 182613, "best_split": [2, 3], "split_score": 0.46111411568835975}
+{"sent": "boat with a solid ceiling", "ann_id": 182613, "best_split": [3, 3], "split_score": 0.5128712870561709}

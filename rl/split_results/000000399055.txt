@@ -1,0 +1,9 @@
+{"sent": "darkest bus", "ann_id": 248634, "best_split": [1, 2], "split_score": 0.3928571428414837}
+{"sent": "bust not 1 but", "ann_id": 248634, "best_split": [1, 3], "split_score": 0.16256157634752982}
+{"sent": "bus on the right", "ann_id": 248520, "best_split": [1, 2], "split_score": 0.3424744897822674}
+{"sent": "last bus", "ann_id": 248520, "best_split": [3, 1], "split_score": 0.16432272390061423}
+{"sent": "the third full faced schoolbus", "ann_id": 248248, "best_split": [2, 1], "split_score": 0.19589081494917945}
+{"sent": "bus 3", "ann_id": 248248, "best_split": [2, 1], "split_score": 0.19589081494917945}
+{"sent": "fourth bus", "ann_id": 165009, "best_split": [3, 1], "split_score": 0.18138901497133958}
+{"sent": "fourth bus", "ann_id": 165009, "best_split": [3, 1], "split_score": 0.18138901497133958}
+{"sent": "fullbus 4", "ann_id": 165009, "best_split": [3, 2], "split_score": 0.2907873671742987}

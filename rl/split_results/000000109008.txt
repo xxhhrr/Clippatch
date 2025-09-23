@@ -1,0 +1,6 @@
+{"sent": "man on computer", "ann_id": 1701660, "best_split": [2, 1], "split_score": 0.23748660645042527}
+{"sent": "man in khaki pants and dark gray sweatrhit", "ann_id": 1701660, "best_split": [2, 2], "split_score": 0.4567265233693901}
+{"sent": "brown shirt", "ann_id": 1701660, "best_split": [1, 2], "split_score": 0.28898278060072613}
+{"sent": "woman standing with orange shirt", "ann_id": 1682791, "best_split": [3, 3], "split_score": 0.4165269861856307}
+{"sent": "woman standing", "ann_id": 1682791, "best_split": [3, 3], "split_score": 0.4165269861856307}
+{"sent": "orange shirt standing", "ann_id": 1682791, "best_split": [3, 3], "split_score": 0.4165269861856307}

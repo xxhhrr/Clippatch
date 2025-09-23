@@ -1,0 +1,6 @@
+{"sent": "chair with pink pillow", "ann_id": 1934812, "best_split": [3, 3], "split_score": 0.5925174380986027}
+{"sent": "arm chair with pink pillow", "ann_id": 1934812, "best_split": [3, 3], "split_score": 0.5925174380986027}
+{"sent": "pink pillow", "ann_id": 1934812, "best_split": [3, 3], "split_score": 0.5925174380986027}
+{"sent": "the black chair that is turned away from us closer to sofa", "ann_id": 100603, "best_split": [2, 3], "split_score": 0.39888996134183274}
+{"sent": "chair at table closed to us", "ann_id": 100603, "best_split": [2, 3], "split_score": 0.39888996134183274}
+{"sent": "black chair", "ann_id": 100603, "best_split": [2, 3], "split_score": 0.39888996134183274}

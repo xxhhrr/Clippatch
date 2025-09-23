@@ -1,0 +1,5 @@
+{"sent": "man white shirt and brown pants standing", "ann_id": 482477, "best_split": [3, 2], "split_score": 0.2012000749858241}
+{"sent": "standing man with hand exposed", "ann_id": 482477, "best_split": [1, 5], "split_score": 0.45900974021316865}
+{"sent": "man sitting with insignia on shirt", "ann_id": 2023023, "best_split": [2, 3], "split_score": 0.2800642440995719}
+{"sent": "guy white shirt cross on shirt smiling", "ann_id": 2023023, "best_split": [1, 2], "split_score": 0.17793367346229538}
+{"sent": "man with crest on shirt", "ann_id": 2023023, "best_split": [1, 2], "split_score": 0.17793367346229538}

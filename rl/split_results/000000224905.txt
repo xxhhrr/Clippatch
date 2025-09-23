@@ -1,0 +1,4 @@
+{"sent": "short train on side", "ann_id": 170221, "best_split": [3, 1], "split_score": 0.18328731524349165}
+{"sent": "longer train", "ann_id": 170045, "best_split": [1, 2], "split_score": 0.5939585730554097}
+{"sent": "4 cars", "ann_id": 170045, "best_split": [1, 2], "split_score": 0.5939585730554097}
+{"sent": "train at 3 o clock", "ann_id": 170045, "best_split": [1, 2], "split_score": 0.5939585730554097}

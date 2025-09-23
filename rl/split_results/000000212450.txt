@@ -1,0 +1,6 @@
+{"sent": "filled donut", "ann_id": 1925038, "best_split": [3, 1], "split_score": 0.23039333975444054}
+{"sent": "no hole", "ann_id": 1925038, "best_split": [3, 1], "split_score": 0.23039333975444054}
+{"sent": "no hole nit", "ann_id": 1925038, "best_split": [3, 1], "split_score": 0.23039333975444054}
+{"sent": "donut whole", "ann_id": 1078493, "best_split": [3, 3], "split_score": 0.5732339597256587}
+{"sent": "donut with a hole", "ann_id": 1078493, "best_split": [3, 3], "split_score": 0.5732339597256587}
+{"sent": "doughnut with hole", "ann_id": 1078493, "best_split": [3, 3], "split_score": 0.5732339597256587}

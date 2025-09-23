@@ -1,0 +1,5 @@
+{"sent": "bigger one", "ann_id": 601902, "best_split": [3, 3], "split_score": 0.33277121975522095}
+{"sent": "taller giraffe", "ann_id": 601902, "best_split": [3, 3], "split_score": 0.33277121975522095}
+{"sent": "giraffe closer to hill", "ann_id": 599183, "best_split": [3, 3], "split_score": 0.42320890086064167}
+{"sent": "animal over other animal", "ann_id": 599183, "best_split": [3, 3], "split_score": 0.42320890086064167}
+{"sent": "giraffe not looking at us straight on", "ann_id": 599183, "best_split": [3, 3], "split_score": 0.42320890086064167}

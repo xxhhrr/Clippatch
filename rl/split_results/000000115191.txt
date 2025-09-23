@@ -1,0 +1,6 @@
+{"sent": "zebra whose butt is near tree", "ann_id": 593498, "best_split": [3, 1], "split_score": 0.36152183310153385}
+{"sent": "animal turned to side", "ann_id": 593498, "best_split": [2, 2], "split_score": 0.44488292552250025}
+{"sent": "zebra at 3", "ann_id": 593498, "best_split": [3, 1], "split_score": 0.36152183310153385}
+{"sent": "zebra facing us", "ann_id": 590024, "best_split": [1, 2], "split_score": 0.4534438775329463}
+{"sent": "forward facing guy", "ann_id": 590024, "best_split": [1, 2], "split_score": 0.4534438775329463}
+{"sent": "zebra facing camera", "ann_id": 590024, "best_split": [1, 2], "split_score": 0.4534438775329463}

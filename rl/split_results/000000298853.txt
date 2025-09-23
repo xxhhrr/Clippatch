@@ -1,0 +1,6 @@
+{"sent": "coat", "ann_id": 435482, "best_split": [1, 5], "split_score": 0.5022055579784844}
+{"sent": "green coat", "ann_id": 435482, "best_split": [1, 5], "split_score": 0.5022055579784844}
+{"sent": "green", "ann_id": 435482, "best_split": [1, 5], "split_score": 0.5022055579784844}
+{"sent": "man in white shirt", "ann_id": 427935, "best_split": [1, 3], "split_score": 0.6049120234382364}
+{"sent": "man", "ann_id": 427935, "best_split": [1, 2], "split_score": 0.4983954154584987}
+{"sent": "white shirt", "ann_id": 427935, "best_split": [1, 3], "split_score": 0.6049120234382364}

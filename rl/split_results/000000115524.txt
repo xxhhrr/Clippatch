@@ -1,0 +1,6 @@
+{"sent": "the animals reflection", "ann_id": 50754, "best_split": [2, 1], "split_score": 0.5779655612014523}
+{"sent": "mirror image of cat", "ann_id": 50754, "best_split": [1, 2], "split_score": 0.24147014550171003}
+{"sent": "reflection", "ann_id": 50754, "best_split": [2, 1], "split_score": 0.5779655612014523}
+{"sent": "kitten not reflection", "ann_id": 48934, "best_split": [2, 2], "split_score": 0.6341331408602963}
+{"sent": "the black and white cat", "ann_id": 48934, "best_split": [2, 2], "split_score": 0.6341331408602963}
+{"sent": "the real cat", "ann_id": 48934, "best_split": [2, 2], "split_score": 0.6341331408602963}

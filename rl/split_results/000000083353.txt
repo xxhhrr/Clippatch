@@ -1,0 +1,10 @@
+{"sent": "the person closest to the camera", "ann_id": 208560, "best_split": [2, 3], "split_score": 0.636895475756933}
+{"sent": "person with white sweater at 9 o clock", "ann_id": 208560, "best_split": [2, 3], "split_score": 0.636895475756933}
+{"sent": "woman with brown hair wearing white and black", "ann_id": 208560, "best_split": [2, 1], "split_score": 0.30347718098791227}
+{"sent": "woman facing away white shirt black hair", "ann_id": 1734886, "best_split": [2, 3], "split_score": 0.808397683300145}
+{"sent": "facing away woman with white shirt dark hair up", "ann_id": 1734886, "best_split": [2, 3], "split_score": 0.808397683300145}
+{"sent": "woman with black hair", "ann_id": 1734886, "best_split": [2, 3], "split_score": 0.808397683300145}
+{"sent": "tallest plant", "ann_id": 25166, "best_split": [1, 3], "split_score": 0.8153957528465615}
+{"sent": "short house plant", "ann_id": 19338, "best_split": [3, 3], "split_score": 0.5084617326965822}
+{"sent": "green veg close to 6 o clock", "ann_id": 19338, "best_split": [1, 5], "split_score": 0.292682926806091}
+{"sent": "plant on floor", "ann_id": 19338, "best_split": [2, 3], "split_score": 0.5319767441308163}

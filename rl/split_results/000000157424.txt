@@ -1,0 +1,6 @@
+{"sent": "orange brown jacket", "ann_id": 536225, "best_split": [1, 5], "split_score": 0.5142667551000111}
+{"sent": "man without strings on hat", "ann_id": 536225, "best_split": [1, 5], "split_score": 0.5142667551000111}
+{"sent": "man with yellow coat", "ann_id": 536225, "best_split": [1, 5], "split_score": 0.5142667551000111}
+{"sent": "man with feet together", "ann_id": 500369, "best_split": [5, 1], "split_score": 0.08231660231024582}
+{"sent": "black jacket", "ann_id": 500369, "best_split": [1, 5], "split_score": 0.24079320111182778}
+{"sent": "all black coat", "ann_id": 500369, "best_split": [1, 5], "split_score": 0.24079320111182778}

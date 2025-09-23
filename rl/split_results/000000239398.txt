@@ -1,0 +1,6 @@
+{"sent": "brown bed footboard", "ann_id": 1612425, "best_split": [2, 2], "split_score": 0.7554209183071252}
+{"sent": "footboard", "ann_id": 1612425, "best_split": [2, 2], "split_score": 0.7554209183071252}
+{"sent": "footboard", "ann_id": 1612425, "best_split": [2, 2], "split_score": 0.7554209183071252}
+{"sent": "small bet", "ann_id": 317252, "best_split": [3, 3], "split_score": 0.35696979480585206}
+{"sent": "tiny bed on floor", "ann_id": 317252, "best_split": [3, 2], "split_score": 0.35291988412730213}
+{"sent": "small bed", "ann_id": 317252, "best_split": [3, 1], "split_score": 0.17645994207429658}

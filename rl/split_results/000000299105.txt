@@ -1,0 +1,6 @@
+{"sent": "red phone", "ann_id": 324242, "best_split": [3, 3], "split_score": 0.4099653482602503}
+{"sent": "red cell phone", "ann_id": 324242, "best_split": [3, 3], "split_score": 0.4099653482602503}
+{"sent": "red cellphone", "ann_id": 324242, "best_split": [3, 3], "split_score": 0.4099653482602503}
+{"sent": "silver thingy next to pinky", "ann_id": 323332, "best_split": [2, 3], "split_score": 0.22502870262449565}
+{"sent": "remote", "ann_id": 323332, "best_split": [1, 5], "split_score": 0.5149544863040512}
+{"sent": "shite speaker thing", "ann_id": 323332, "best_split": [2, 2], "split_score": 0.47130242822355806}

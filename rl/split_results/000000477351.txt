@@ -1,0 +1,12 @@
+{"sent": "elephant", "ann_id": 584613, "best_split": [2, 1], "split_score": 0.6276692118342284}
+{"sent": "elephant face we can see", "ann_id": 584613, "best_split": [2, 1], "split_score": 0.6276692118342284}
+{"sent": "elephant near us", "ann_id": 584613, "best_split": [2, 1], "split_score": 0.6276692118342284}
+{"sent": "man in suit next to elephants", "ann_id": 474487, "best_split": [2, 2], "split_score": 0.2650203861631648}
+{"sent": "man in black holding elephant", "ann_id": 474487, "best_split": [2, 2], "split_score": 0.2650203861631648}
+{"sent": "suit", "ann_id": 474487, "best_split": [2, 3], "split_score": 0.3157724279050229}
+{"sent": "withe outreach girl", "ann_id": 466468, "best_split": [2, 1], "split_score": 0.1283713692904444}
+{"sent": "woman with hand up", "ann_id": 466468, "best_split": [3, 2], "split_score": 0.5868875572270984}
+{"sent": "girl with arm extended", "ann_id": 466468, "best_split": [3, 1], "split_score": 0.33917294762990563}
+{"sent": "lady higher up", "ann_id": 459599, "best_split": [3, 2], "split_score": 0.38734177211687687}
+{"sent": "girl whose face you cant see on elephant", "ann_id": 459599, "best_split": [3, 2], "split_score": 0.38734177211687687}
+{"sent": "lady on bigger elephant", "ann_id": 459599, "best_split": [3, 2], "split_score": 0.38734177211687687}

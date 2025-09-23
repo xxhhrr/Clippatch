@@ -1,0 +1,5 @@
+{"sent": "moustache", "ann_id": 543651, "best_split": [1, 3], "split_score": 0.4258449303933062}
+{"sent": "guy closest to us", "ann_id": 543651, "best_split": [2, 2], "split_score": 0.4286682939769007}
+{"sent": "man standing apart from group", "ann_id": 536345, "best_split": [2, 1], "split_score": 0.1566847704725584}
+{"sent": "tallest all red", "ann_id": 536345, "best_split": [2, 2], "split_score": 0.2937648207355444}
+{"sent": "man wearing white color gloves", "ann_id": 536345, "best_split": [1, 5], "split_score": 0.49275362314203336}

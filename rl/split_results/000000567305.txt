@@ -1,0 +1,6 @@
+{"sent": "white skirt", "ann_id": 1761451, "best_split": [2, 1], "split_score": 0.16839916839291658}
+{"sent": "black shirt white skirt", "ann_id": 1761451, "best_split": [2, 1], "split_score": 0.16839916839291658}
+{"sent": "lady in black shirt white skirt", "ann_id": 1761451, "best_split": [2, 1], "split_score": 0.16839916839291658}
+{"sent": "woman with back to camera in all black", "ann_id": 1747437, "best_split": [1, 5], "split_score": 0.4054383116471755}
+{"sent": "girl in all black facing away", "ann_id": 1747437, "best_split": [1, 5], "split_score": 0.4054383116471755}
+{"sent": "back of lady long hiar", "ann_id": 1747437, "best_split": [1, 2], "split_score": 0.15927933672834504}

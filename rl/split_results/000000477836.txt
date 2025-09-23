@@ -1,0 +1,12 @@
+{"sent": "man with little beard", "ann_id": 516816, "best_split": [1, 2], "split_score": 0.472696109675036}
+{"sent": "guy with beard and brown hair", "ann_id": 516816, "best_split": [1, 2], "split_score": 0.472696109675036}
+{"sent": "facial stubble", "ann_id": 516816, "best_split": [3, 2], "split_score": 0.326420435820237}
+{"sent": "dude with glasses", "ann_id": 498622, "best_split": [1, 2], "split_score": 0.6572635861865775}
+{"sent": "bald goatie", "ann_id": 498622, "best_split": [1, 2], "split_score": 0.6572635861865775}
+{"sent": "glasses", "ann_id": 498622, "best_split": [1, 2], "split_score": 0.6572635861865775}
+{"sent": "tallest guy", "ann_id": 483014, "best_split": [1, 5], "split_score": 0.5462880427514142}
+{"sent": "tallest man", "ann_id": 483014, "best_split": [1, 2], "split_score": 0.5049889557275882}
+{"sent": "black tie", "ann_id": 483014, "best_split": [1, 5], "split_score": 0.5462880427514142}
+{"sent": "youngest person in picture", "ann_id": 478201, "best_split": [1, 3], "split_score": 0.5814430501579728}
+{"sent": "alfred e newman kid", "ann_id": 478201, "best_split": [1, 3], "split_score": 0.5814430501579728}
+{"sent": "little boy", "ann_id": 478201, "best_split": [1, 3], "split_score": 0.5814430501579728}

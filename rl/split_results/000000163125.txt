@@ -1,0 +1,5 @@
+{"sent": "open fridge", "ann_id": 332531, "best_split": [1, 2], "split_score": 0.5617825254878116}
+{"sent": "open fridge", "ann_id": 332531, "best_split": [1, 2], "split_score": 0.5617825254878116}
+{"sent": "open refrig", "ann_id": 332531, "best_split": [1, 2], "split_score": 0.5617825254878116}
+{"sent": "silver closed fridge", "ann_id": 332328, "best_split": [2, 3], "split_score": 0.3075349696286926}
+{"sent": "closed fridge", "ann_id": 332328, "best_split": [3, 1], "split_score": 0.1988653329267216}

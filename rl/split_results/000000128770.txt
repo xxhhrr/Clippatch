@@ -1,0 +1,12 @@
+{"sent": "man with white shirt and helmet", "ann_id": 1744848, "best_split": [1, 5], "split_score": 0.5576791808329908}
+{"sent": "smart", "ann_id": 1744848, "best_split": [3, 2], "split_score": 0.3093982911916562}
+{"sent": "guy in back with white shirt and helmet", "ann_id": 1744848, "best_split": [1, 5], "split_score": 0.5576791808329908}
+{"sent": "white shirt guy no helmet", "ann_id": 1739087, "best_split": [1, 5], "split_score": 0.3160919539946038}
+{"sent": "man with white tee shirt no helmet", "ann_id": 1739087, "best_split": [3, 3], "split_score": 0.5818965516345602}
+{"sent": "man in white behind man in purple", "ann_id": 1739087, "best_split": [2, 3], "split_score": 0.5791505790807009}
+{"sent": "kid in black", "ann_id": 495981, "best_split": [1, 3], "split_score": 0.57915057911564}
+{"sent": "kid watcher", "ann_id": 495981, "best_split": [1, 3], "split_score": 0.57915057911564}
+{"sent": "small kid in band shirt flipping skateboard up without his hands", "ann_id": 495981, "best_split": [1, 3], "split_score": 0.57915057911564}
+{"sent": "blue white hat guy", "ann_id": 430854, "best_split": [1, 2], "split_score": 0.5131176770086247}
+{"sent": "guy with blue and white ball cap", "ann_id": 430854, "best_split": [1, 2], "split_score": 0.5131176770086247}
+{"sent": "man in jersey", "ann_id": 430854, "best_split": [1, 2], "split_score": 0.5131176770086247}

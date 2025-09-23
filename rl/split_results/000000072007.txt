@@ -1,0 +1,6 @@
+{"sent": "that sandwich half", "ann_id": 311479, "best_split": [3, 2], "split_score": 0.6306818181258272}
+{"sent": "the half of sandwich on the plate", "ann_id": 311479, "best_split": [3, 2], "split_score": 0.6306818181258272}
+{"sent": "sandwich on plate", "ann_id": 311479, "best_split": [3, 2], "split_score": 0.6306818181258272}
+{"sent": "sandwich in hand", "ann_id": 311216, "best_split": [3, 1], "split_score": 0.30170496662598195}
+{"sent": "piece of sandwich being held", "ann_id": 311216, "best_split": [3, 1], "split_score": 0.30170496662598195}
+{"sent": "sand half in hand", "ann_id": 311216, "best_split": [3, 2], "split_score": 0.4958692857999018}

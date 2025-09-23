@@ -1,0 +1,5 @@
+{"sent": "motorcycle inches ahead", "ann_id": 151614, "best_split": [1, 2], "split_score": 0.28220663264181256}
+{"sent": "furthest away motorcycle", "ann_id": 151614, "best_split": [2, 2], "split_score": 0.24289062003655135}
+{"sent": "motorcycle with all black wheel", "ann_id": 151614, "best_split": [2, 2], "split_score": 0.24289062003655135}
+{"sent": "only full visible moto", "ann_id": 149568, "best_split": [3, 2], "split_score": 0.3847318196522059}
+{"sent": "closest motorcycle not rider", "ann_id": 149568, "best_split": [3, 1], "split_score": 0.3793444010544446}

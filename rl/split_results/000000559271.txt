@@ -1,0 +1,5 @@
+{"sent": "young elephant at edge", "ann_id": 1409280, "best_split": [3, 2], "split_score": 0.2757452574292221}
+{"sent": "baby elephant", "ann_id": 1409280, "best_split": [3, 2], "split_score": 0.2757452574292221}
+{"sent": "farthest elephant", "ann_id": 584793, "best_split": [3, 1], "split_score": 0.2738712065010237}
+{"sent": "elephant farest away", "ann_id": 584793, "best_split": [3, 1], "split_score": 0.2738712065010237}
+{"sent": "elephant with face covered", "ann_id": 584793, "best_split": [3, 1], "split_score": 0.2738712065010237}

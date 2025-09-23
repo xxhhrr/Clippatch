@@ -1,0 +1,6 @@
+{"sent": "apple laptop", "ann_id": 1970971, "best_split": [3, 3], "split_score": 0.5409954750152044}
+{"sent": "apple laptop", "ann_id": 1970971, "best_split": [3, 3], "split_score": 0.5409954750152044}
+{"sent": "behind cats ear weird box", "ann_id": 1970971, "best_split": [2, 3], "split_score": 0.35852225016690387}
+{"sent": "blue heart", "ann_id": 1103052, "best_split": [2, 1], "split_score": 0.6692044004835298}
+{"sent": "object exactly 900", "ann_id": 1103052, "best_split": [2, 1], "split_score": 0.6692044004835298}
+{"sent": "keybpard", "ann_id": 1103052, "best_split": [3, 1], "split_score": 0.16506040924069207}

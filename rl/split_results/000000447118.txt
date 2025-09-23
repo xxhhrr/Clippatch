@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 454070, "best_split": [1, 2], "split_score": 0.857860331598459}
+{"sent": "guy in red", "ann_id": 454070, "best_split": [1, 2], "split_score": 0.857860331598459}
+{"sent": "12", "ann_id": 454070, "best_split": [2, 1], "split_score": 0.30949036353572257}
+{"sent": "white jersey", "ann_id": 452705, "best_split": [2, 1], "split_score": 0.5028651619546584}
+{"sent": "player closest to us", "ann_id": 452705, "best_split": [2, 1], "split_score": 0.5028651619546584}
+{"sent": "orange shorts", "ann_id": 452705, "best_split": [2, 1], "split_score": 0.5028651619546584}

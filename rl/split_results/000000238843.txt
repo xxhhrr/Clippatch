@@ -1,0 +1,6 @@
+{"sent": "giraffe not visible fully", "ann_id": 596062, "best_split": [1, 3], "split_score": 0.3706820194657505}
+{"sent": "headless giraffe", "ann_id": 596062, "best_split": [1, 3], "split_score": 0.3706820194657505}
+{"sent": "giraffe thats more hidden", "ann_id": 596062, "best_split": [1, 3], "split_score": 0.3706820194657505}
+{"sent": "zebra eating", "ann_id": 594811, "best_split": [1, 3], "split_score": 0.6103490189004016}
+{"sent": "eating giraffe", "ann_id": 594811, "best_split": [1, 3], "split_score": 0.6103490189004016}
+{"sent": "closest giraffe", "ann_id": 594811, "best_split": [1, 3], "split_score": 0.6103490189004016}

@@ -1,0 +1,9 @@
+{"sent": "face with cowboy hat and braids", "ann_id": 2161794, "best_split": [3, 3], "split_score": 0.3775510203574716}
+{"sent": "woman with gray hat and dark long hair behind man", "ann_id": 2161794, "best_split": [3, 1], "split_score": 0.18957451547173232}
+{"sent": "girl just behind guy", "ann_id": 2161794, "best_split": [3, 1], "split_score": 0.18957451547173232}
+{"sent": "lady thats eating", "ann_id": 2160029, "best_split": [1, 2], "split_score": 0.4544706449744766}
+{"sent": "girl in black dress", "ann_id": 2160029, "best_split": [2, 1], "split_score": 0.6564438986344221}
+{"sent": "woman", "ann_id": 2160029, "best_split": [1, 2], "split_score": 0.4544706449744766}
+{"sent": "closest man", "ann_id": 458320, "best_split": [1, 2], "split_score": 0.5109242665855246}
+{"sent": "man with eyes closed", "ann_id": 458320, "best_split": [1, 2], "split_score": 0.5109242665855246}
+{"sent": "man", "ann_id": 458320, "best_split": [1, 2], "split_score": 0.5109242665855246}

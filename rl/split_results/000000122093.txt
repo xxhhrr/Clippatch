@@ -1,0 +1,9 @@
+{"sent": "suit", "ann_id": 1261637, "best_split": [1, 3], "split_score": 0.7306765929094221}
+{"sent": "man in gray suit jacket", "ann_id": 1261637, "best_split": [1, 3], "split_score": 0.7306765929094221}
+{"sent": "man in suit", "ann_id": 1261637, "best_split": [1, 3], "split_score": 0.7306765929094221}
+{"sent": "shorter man", "ann_id": 1254867, "best_split": [2, 2], "split_score": 0.35604395601950245}
+{"sent": "sunglasses guy", "ann_id": 1254867, "best_split": [1, 5], "split_score": 0.5220417632944814}
+{"sent": "short guy", "ann_id": 1254867, "best_split": [1, 5], "split_score": 0.5220417632944814}
+{"sent": "taller player", "ann_id": 1225744, "best_split": [1, 3], "split_score": 0.7007575757217057}
+{"sent": "44", "ann_id": 1225744, "best_split": [1, 3], "split_score": 0.7007575757217057}
+{"sent": "44", "ann_id": 1225744, "best_split": [1, 3], "split_score": 0.7007575757217057}

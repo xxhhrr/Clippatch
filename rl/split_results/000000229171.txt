@@ -1,0 +1,6 @@
+{"sent": "computer with picture", "ann_id": 1103309, "best_split": [2, 3], "split_score": 0.3850494686416233}
+{"sent": "computer that doesnt have program up but home page", "ann_id": 1103309, "best_split": [3, 1], "split_score": 0.2828292360551678}
+{"sent": "okay so the computer that shows a tennis shoe squashing a spider", "ann_id": 1103309, "best_split": [3, 3], "split_score": 0.5160682310323185}
+{"sent": "close computer", "ann_id": 1099351, "best_split": [1, 2], "split_score": 0.5703839122300084}
+{"sent": "laptop with writing", "ann_id": 1099351, "best_split": [1, 2], "split_score": 0.5703839122300084}
+{"sent": "closest pc", "ann_id": 1099351, "best_split": [3, 1], "split_score": 0.34419773204508053}

@@ -1,0 +1,6 @@
+{"sent": "blond head lady", "ann_id": 219649, "best_split": [1, 5], "split_score": 0.39721996749216515}
+{"sent": "woman beside man without a scarf", "ann_id": 219649, "best_split": [3, 3], "split_score": 0.2962042787720905}
+{"sent": "woman blond", "ann_id": 219649, "best_split": [2, 1], "split_score": 0.04711531518351089}
+{"sent": "woman by door", "ann_id": 202489, "best_split": [2, 2], "split_score": 0.08696764291552835}
+{"sent": "mom", "ann_id": 202489, "best_split": [3, 2], "split_score": 0.24603950711460595}
+{"sent": "woman closest to closed door", "ann_id": 202489, "best_split": [1, 5], "split_score": 0.45190746748661653}

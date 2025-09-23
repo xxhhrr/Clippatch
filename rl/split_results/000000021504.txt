@@ -1,0 +1,3 @@
+{"sent": "tub of food close to you", "ann_id": 1535143, "best_split": [3, 2], "split_score": 0.40468146713263975}
+{"sent": "pot with pink looking food in it", "ann_id": 1532378, "best_split": [3, 3], "split_score": 0.6499909697218726}
+{"sent": "pot closet to the door", "ann_id": 1532378, "best_split": [1, 2], "split_score": 0.0}

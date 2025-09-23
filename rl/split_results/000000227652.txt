@@ -1,0 +1,12 @@
+{"sent": "person in animal print", "ann_id": 1706940, "best_split": [1, 3], "split_score": 0.70626826500231}
+{"sent": "girl", "ann_id": 1706940, "best_split": [1, 3], "split_score": 0.70626826500231}
+{"sent": "young girl with blond hair", "ann_id": 1706940, "best_split": [1, 3], "split_score": 0.70626826500231}
+{"sent": "boy", "ann_id": 540909, "best_split": [1, 5], "split_score": 0.37329646450984627}
+{"sent": "kid next to man", "ann_id": 540909, "best_split": [1, 5], "split_score": 0.37329646450984627}
+{"sent": "little bitty guy", "ann_id": 540909, "best_split": [1, 5], "split_score": 0.37329646450984627}
+{"sent": "man wearing black", "ann_id": 486046, "best_split": [1, 3], "split_score": 0.7122580644778356}
+{"sent": "dark shirt opening oven", "ann_id": 486046, "best_split": [1, 3], "split_score": 0.7122580644778356}
+{"sent": "black", "ann_id": 486046, "best_split": [2, 1], "split_score": 0.24598666336607844}
+{"sent": "man with blue hoodie", "ann_id": 429686, "best_split": [1, 5], "split_score": 0.5792682926277374}
+{"sent": "standing in blue", "ann_id": 429686, "best_split": [1, 5], "split_score": 0.5792682926277374}
+{"sent": "man in blue shirt", "ann_id": 429686, "best_split": [1, 5], "split_score": 0.5792682926277374}

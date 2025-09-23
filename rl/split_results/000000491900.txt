@@ -1,0 +1,6 @@
+{"sent": "batter", "ann_id": 1235130, "best_split": [1, 5], "split_score": 0.5201277954856128}
+{"sent": "batter blue shirt", "ann_id": 1235130, "best_split": [1, 5], "split_score": 0.5201277954856128}
+{"sent": "man swinging bat", "ann_id": 1235130, "best_split": [1, 5], "split_score": 0.5201277954856128}
+{"sent": "ump", "ann_id": 1317146, "best_split": [3, 2], "split_score": 0.3211736716572984}
+{"sent": "umpire", "ann_id": 1317146, "best_split": [3, 3], "split_score": 0.4452996151119709}
+{"sent": "official", "ann_id": 1317146, "best_split": [2, 1], "split_score": 0.12805152013898263}

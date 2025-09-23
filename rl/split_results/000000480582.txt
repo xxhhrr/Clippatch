@@ -1,0 +1,6 @@
+{"sent": "tallest man", "ann_id": 214849, "best_split": [1, 5], "split_score": 0.30823863633236215}
+{"sent": "black outfit dude on sheep", "ann_id": 214849, "best_split": [5, 1], "split_score": 0.06667769688396114}
+{"sent": "tallest man", "ann_id": 214849, "best_split": [1, 5], "split_score": 0.30823863633236215}
+{"sent": "person lookin at me", "ann_id": 194393, "best_split": [1, 5], "split_score": 0.3993887880432252}
+{"sent": "shepherd looking at you", "ann_id": 194393, "best_split": [2, 1], "split_score": 0.16229775979455904}
+{"sent": "man not in black", "ann_id": 194393, "best_split": [2, 3], "split_score": 0.4682450627840838}

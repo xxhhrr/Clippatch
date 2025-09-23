@@ -1,0 +1,8 @@
+{"sent": "blue and white bowl", "ann_id": 1039162, "best_split": [3, 3], "split_score": 0.5494886777667113}
+{"sent": "white and blue bowl", "ann_id": 1039162, "best_split": [3, 3], "split_score": 0.5494886777667113}
+{"sent": "striped cup near salad", "ann_id": 711914, "best_split": [3, 1], "split_score": 0.15371621620694279}
+{"sent": "brown and black bowl with soup in it", "ann_id": 711914, "best_split": [3, 2], "split_score": 0.30743243239533874}
+{"sent": "brown bowl with soup", "ann_id": 711914, "best_split": [1, 5], "split_score": 0.226176354267875}
+{"sent": "bowl closer to uswith flowers red", "ann_id": 711584, "best_split": [3, 3], "split_score": 0.47313904486075503}
+{"sent": "bowl with red", "ann_id": 711584, "best_split": [3, 3], "split_score": 0.47313904486075503}
+{"sent": "glass dish with red flower", "ann_id": 711584, "best_split": [3, 3], "split_score": 0.47313904486075503}

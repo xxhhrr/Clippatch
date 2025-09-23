@@ -1,0 +1,6 @@
+{"sent": "taller one lisa", "ann_id": 598195, "best_split": [1, 2], "split_score": 0.5471938775292094}
+{"sent": "taller one", "ann_id": 598195, "best_split": [1, 2], "split_score": 0.5471938775292094}
+{"sent": "giraffe above debbie", "ann_id": 598195, "best_split": [1, 2], "split_score": 0.5471938775292094}
+{"sent": "shorter one lisa", "ann_id": 598056, "best_split": [2, 2], "split_score": 0.4033771106671551}
+{"sent": "farthest giraffe", "ann_id": 598056, "best_split": [3, 1], "split_score": 0.244072524395095}
+{"sent": "shorter giraffe", "ann_id": 598056, "best_split": [3, 1], "split_score": 0.244072524395095}

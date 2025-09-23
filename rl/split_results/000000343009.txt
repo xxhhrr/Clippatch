@@ -1,0 +1,6 @@
+{"sent": "lower lady", "ann_id": 534740, "best_split": [3, 2], "split_score": 0.44564183831651016}
+{"sent": "woman older", "ann_id": 534740, "best_split": [3, 2], "split_score": 0.44564183831651016}
+{"sent": "older woman", "ann_id": 534740, "best_split": [3, 2], "split_score": 0.44564183831651016}
+{"sent": "woman with dark hair", "ann_id": 489430, "best_split": [1, 5], "split_score": 0.4012158054434087}
+{"sent": "taller lady", "ann_id": 489430, "best_split": [3, 1], "split_score": 0.2763021079366527}
+{"sent": "younger woman", "ann_id": 489430, "best_split": [3, 1], "split_score": 0.2763021079366527}

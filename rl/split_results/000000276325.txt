@@ -1,0 +1,6 @@
+{"sent": "teller guy", "ann_id": 598316, "best_split": [1, 5], "split_score": 0.41961540463705166}
+{"sent": "behind the tree", "ann_id": 598316, "best_split": [1, 2], "split_score": 0.5360940325303402}
+{"sent": "tallest giraffe", "ann_id": 598316, "best_split": [1, 5], "split_score": 0.41961540463705166}
+{"sent": "giraffe closest to you", "ann_id": 595378, "best_split": [2, 2], "split_score": 0.6248242361865765}
+{"sent": "lighter giraffe", "ann_id": 595378, "best_split": [2, 2], "split_score": 0.6248242361865765}
+{"sent": "giraffe with most white head", "ann_id": 595378, "best_split": [2, 2], "split_score": 0.6248242361865765}

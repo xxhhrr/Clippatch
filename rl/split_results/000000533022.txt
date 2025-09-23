@@ -1,0 +1,9 @@
+{"sent": "number 1 person closest partially out of photo", "ann_id": 1721655, "best_split": [1, 2], "split_score": 0.36065051018970623}
+{"sent": "just the leg in jeans", "ann_id": 1721655, "best_split": [2, 3], "split_score": 0.900460425246606}
+{"sent": "pants on the corner", "ann_id": 1721655, "best_split": [2, 3], "split_score": 0.900460425246606}
+{"sent": "person with tablet", "ann_id": 474914, "best_split": [1, 2], "split_score": 0.7187299225401979}
+{"sent": "kid holding green skateboard", "ann_id": 474914, "best_split": [3, 1], "split_score": 0.30011060586518035}
+{"sent": "man with possible phone to ear", "ann_id": 474914, "best_split": [1, 2], "split_score": 0.7187299225401979}
+{"sent": "black shirt", "ann_id": 472635, "best_split": [1, 2], "split_score": 0.29838367939044785}
+{"sent": "man wearing khakis in back", "ann_id": 472635, "best_split": [2, 1], "split_score": 0.7098214285431353}
+{"sent": "tan pants", "ann_id": 472635, "best_split": [2, 1], "split_score": 0.7098214285431353}

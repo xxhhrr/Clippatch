@@ -1,0 +1,6 @@
+{"sent": "batter", "ann_id": 2166656, "best_split": [1, 5], "split_score": 0.36832412519937013}
+{"sent": "white batter", "ann_id": 2166656, "best_split": [1, 5], "split_score": 0.36832412519937013}
+{"sent": "batter", "ann_id": 2166656, "best_split": [1, 5], "split_score": 0.36832412519937013}
+{"sent": "ump", "ann_id": 469608, "best_split": [2, 1], "split_score": 0.21048444832509408}
+{"sent": "player in black", "ann_id": 469608, "best_split": [2, 3], "split_score": 0.6343802444696259}
+{"sent": "the umpire or as you say some person on some field", "ann_id": 469608, "best_split": [2, 1], "split_score": 0.21048444832509408}

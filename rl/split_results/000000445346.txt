@@ -1,0 +1,5 @@
+{"sent": "pizza side with onions", "ann_id": 1076107, "best_split": [3, 1], "split_score": 0.4836458271578741}
+{"sent": "back half of pizza", "ann_id": 1076107, "best_split": [3, 1], "split_score": 0.4836458271578741}
+{"sent": "part of pizza with pepperoni and onions", "ann_id": 1076107, "best_split": [3, 1], "split_score": 0.4836458271578741}
+{"sent": "pizza slice with largest burn mark on crust", "ann_id": 1075521, "best_split": [2, 1], "split_score": 0.5182963407124214}
+{"sent": "closrst", "ann_id": 1075521, "best_split": [2, 2], "split_score": 0.5896269335424461}

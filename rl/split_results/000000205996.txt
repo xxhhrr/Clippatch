@@ -1,0 +1,6 @@
+{"sent": "boat next to blue boat", "ann_id": 1376623, "best_split": [1, 5], "split_score": 0.3443971068716539}
+{"sent": "larger white boat next to light blue boat", "ann_id": 1376623, "best_split": [1, 5], "split_score": 0.3443971068716539}
+{"sent": "big white", "ann_id": 1376623, "best_split": [1, 5], "split_score": 0.3443971068716539}
+{"sent": "blue roof boat", "ann_id": 2209374, "best_split": [3, 3], "split_score": 0.5298061242018832}
+{"sent": "boat with light blue roof at about 4 o clock", "ann_id": 2209374, "best_split": [3, 3], "split_score": 0.5298061242018832}
+{"sent": "boat with blue roof close to wall", "ann_id": 2209374, "best_split": [3, 3], "split_score": 0.5298061242018832}

@@ -1,0 +1,6 @@
+{"sent": "book nearest his hand", "ann_id": 1145938, "best_split": [2, 3], "split_score": 0.4977075288974774}
+{"sent": "upside down book nearest sleeper", "ann_id": 1145938, "best_split": [2, 3], "split_score": 0.4977075288974774}
+{"sent": "book closest to mans arm", "ann_id": 1145938, "best_split": [2, 3], "split_score": 0.4977075288974774}
+{"sent": "openbook", "ann_id": 1137243, "best_split": [2, 2], "split_score": 0.4022640305801766}
+{"sent": "book with cover slightly open", "ann_id": 1137243, "best_split": [2, 2], "split_score": 0.4022640305801766}
+{"sent": "book with cover slightly lifted", "ann_id": 1137243, "best_split": [2, 2], "split_score": 0.4022640305801766}

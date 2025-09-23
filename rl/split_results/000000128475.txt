@@ -1,0 +1,4 @@
+{"sent": "dish with brown stuff in it", "ann_id": 1040865, "best_split": [1, 2], "split_score": 0.05453043238589471}
+{"sent": "dark bowl of stuff", "ann_id": 1040865, "best_split": [3, 3], "split_score": 0.6101694914362698}
+{"sent": "creme sauce", "ann_id": 718010, "best_split": [2, 2], "split_score": 0.4519774010954361}
+{"sent": "mustard bowl closest", "ann_id": 718010, "best_split": [3, 2], "split_score": 0.2666895486299391}

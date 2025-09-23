@@ -1,0 +1,11 @@
+{"sent": "bear at 8 o clock", "ann_id": 1995944, "best_split": [2, 3], "split_score": 0.46464820226521175}
+{"sent": "full teddy bear face on said with the box closest to you", "ann_id": 1995944, "best_split": [2, 2], "split_score": 0.6237412266841821}
+{"sent": "bear under another", "ann_id": 1995873, "best_split": [3, 2], "split_score": 0.335162601591955}
+{"sent": "roll behind one closest", "ann_id": 1162911, "best_split": [1, 2], "split_score": 0.25513766562504414}
+{"sent": "teddy bear head looking at the nearest teddy bear head", "ann_id": 1162911, "best_split": [3, 2], "split_score": 0.4776416691088894}
+{"sent": "bear above corner one", "ann_id": 1162911, "best_split": [3, 2], "split_score": 0.4776416691088894}
+{"sent": "bear with nose between his friends ears", "ann_id": 1160767, "best_split": [3, 1], "split_score": 0.22586872585509962}
+{"sent": "2 row number one", "ann_id": 1160767, "best_split": [2, 2], "split_score": 0.2693266832707819}
+{"sent": "this head sits on others", "ann_id": 1160441, "best_split": [3, 2], "split_score": 0.09570904449707217}
+{"sent": "bear above the rest", "ann_id": 1160441, "best_split": [1, 2], "split_score": 0.13998805434746947}
+{"sent": "bear over other bears", "ann_id": 1160441, "best_split": [1, 2], "split_score": 0.13998805434746947}

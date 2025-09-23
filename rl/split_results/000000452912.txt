@@ -1,0 +1,17 @@
+{"sent": "arms folded on end", "ann_id": 1684537, "best_split": [3, 2], "split_score": 0.24262295079481322}
+{"sent": "man next to man sitting down", "ann_id": 1684537, "best_split": [3, 1], "split_score": 0.13120567375159542}
+{"sent": "man next to other man sitting down", "ann_id": 1684537, "best_split": [3, 1], "split_score": 0.13120567375159542}
+{"sent": "person wbat", "ann_id": 1682229, "best_split": [1, 5], "split_score": 0.373226627830736}
+{"sent": "the man with the bat", "ann_id": 1682229, "best_split": [3, 3], "split_score": 0.46528157456734803}
+{"sent": "guy showing off with the bat", "ann_id": 1682229, "best_split": [3, 3], "split_score": 0.46528157456734803}
+{"sent": "black outfit", "ann_id": 1714285, "best_split": [1, 5], "split_score": 0.597504058380935}
+{"sent": "the guy in black", "ann_id": 1714285, "best_split": [1, 5], "split_score": 0.597504058380935}
+{"sent": "black suit", "ann_id": 1714285, "best_split": [1, 5], "split_score": 0.597504058380935}
+{"sent": "player next to suit guy", "ann_id": 1708622, "best_split": [3, 3], "split_score": 0.3076009500730996}
+{"sent": "player next to manager", "ann_id": 1708622, "best_split": [3, 2], "split_score": 0.21700879763123074}
+{"sent": "player standing next to man in suit", "ann_id": 1708622, "best_split": [3, 3], "split_score": 0.3076009500730996}
+{"sent": "taller man with arms folded over chest", "ann_id": 1698271, "best_split": [3, 1], "split_score": 0.15071283094893417}
+{"sent": "man with arms folded next to guy with bat", "ann_id": 1698271, "best_split": [1, 5], "split_score": 0.3897325364563797}
+{"sent": "player 2 counting from suit", "ann_id": 1694425, "best_split": [3, 2], "split_score": 0.2052590702091136}
+{"sent": "two over from the coach", "ann_id": 1694425, "best_split": [3, 2], "split_score": 0.2052590702091136}
+{"sent": "guy with glove on", "ann_id": 1694425, "best_split": [3, 1], "split_score": 0.10693023524033696}

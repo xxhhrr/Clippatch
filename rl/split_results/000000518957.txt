@@ -1,0 +1,15 @@
+{"sent": "girl in yellow running into the frame", "ann_id": 1730568, "best_split": [2, 3], "split_score": 0.3180387609476529}
+{"sent": "girl by herself in yellow", "ann_id": 1730568, "best_split": [2, 3], "split_score": 0.3180387609476529}
+{"sent": "a girl with blue short", "ann_id": 1730568, "best_split": [1, 2], "split_score": 0.30397002549808794}
+{"sent": "kids with orange on shorts", "ann_id": 1327777, "best_split": [3, 3], "split_score": 0.2977673935231351}
+{"sent": "girl glasses white shirt", "ann_id": 1327777, "best_split": [1, 5], "split_score": 0.43938332160983246}
+{"sent": "white shirt girl with red orange cloth", "ann_id": 1327777, "best_split": [1, 5], "split_score": 0.43938332160983246}
+{"sent": "white shirt black pants boy if map california dontquit", "ann_id": 1292394, "best_split": [3, 3], "split_score": 0.34101382484231985}
+{"sent": "boy white shirt with glasses", "ann_id": 1292394, "best_split": [1, 2], "split_score": 0.21089764029771613}
+{"sent": "white shirt boy with glasses", "ann_id": 1292394, "best_split": [2, 3], "split_score": 0.24829931970506533}
+{"sent": "gurk in yellow shirt picking nose", "ann_id": 1251774, "best_split": [1, 5], "split_score": 0.6344358765590061}
+{"sent": "girl in yellow shirt blocked by kicker", "ann_id": 1251774, "best_split": [1, 5], "split_score": 0.6344358765590061}
+{"sent": "girl behind boy kicking ball", "ann_id": 1251774, "best_split": [1, 5], "split_score": 0.6344358765590061}
+{"sent": "girl kicking the ball", "ann_id": 1227482, "best_split": [1, 5], "split_score": 0.5115838428635273}
+{"sent": "kicking ball", "ann_id": 1227482, "best_split": [1, 5], "split_score": 0.5115838428635273}
+{"sent": "boy kicking ball", "ann_id": 1227482, "best_split": [1, 5], "split_score": 0.5115838428635273}

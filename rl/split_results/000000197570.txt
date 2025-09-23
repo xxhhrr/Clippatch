@@ -1,0 +1,6 @@
+{"sent": "horse closest to the other side of road", "ann_id": 58512, "best_split": [3, 2], "split_score": 0.5396892505507146}
+{"sent": "fartherest horse", "ann_id": 58512, "best_split": [3, 2], "split_score": 0.5396892505507146}
+{"sent": "horse at 9 o clock", "ann_id": 58512, "best_split": [3, 2], "split_score": 0.5396892505507146}
+{"sent": "bigger horse", "ann_id": 55800, "best_split": [3, 3], "split_score": 0.6763833991259408}
+{"sent": "horse with man over back", "ann_id": 55800, "best_split": [3, 3], "split_score": 0.6763833991259408}
+{"sent": "the horse closer to wheel", "ann_id": 55800, "best_split": [3, 3], "split_score": 0.6763833991259408}

@@ -1,0 +1,8 @@
+{"sent": "single chair facing tv", "ann_id": 109298, "best_split": [2, 2], "split_score": 0.406568877518609}
+{"sent": "srtiped chair facing tv", "ann_id": 109298, "best_split": [2, 2], "split_score": 0.406568877518609}
+{"sent": "chair facing tv", "ann_id": 109298, "best_split": [2, 2], "split_score": 0.406568877518609}
+{"sent": "number two chair", "ann_id": 1934272, "best_split": [2, 2], "split_score": 0.21066412757195396}
+{"sent": "chair 6 o clock", "ann_id": 1934272, "best_split": [2, 2], "split_score": 0.21066412757195396}
+{"sent": "chair at table behind striped chair", "ann_id": 105221, "best_split": [2, 3], "split_score": 0.30357142853480074}
+{"sent": "fartherest chair at table", "ann_id": 105221, "best_split": [2, 3], "split_score": 0.30357142853480074}
+{"sent": "leftest chair at table", "ann_id": 105221, "best_split": [2, 3], "split_score": 0.30357142853480074}

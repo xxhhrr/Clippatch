@@ -1,0 +1,6 @@
+{"sent": "black car not parked", "ann_id": 144745, "best_split": [3, 3], "split_score": 0.2617750720503404}
+{"sent": "black car", "ann_id": 144745, "best_split": [3, 3], "split_score": 0.2617750720503404}
+{"sent": "car by police sign", "ann_id": 144745, "best_split": [3, 2], "split_score": 0.20577617326198372}
+{"sent": "gray van behind police sign", "ann_id": 141452, "best_split": [3, 3], "split_score": 0.2777448070804533}
+{"sent": "gray van", "ann_id": 141452, "best_split": [3, 2], "split_score": 0.2526315789196676}
+{"sent": "minivan on curb", "ann_id": 141452, "best_split": [3, 2], "split_score": 0.2526315789196676}

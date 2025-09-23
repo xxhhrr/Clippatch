@@ -1,0 +1,6 @@
+{"sent": "boy with red shirt", "ann_id": 1712248, "best_split": [1, 5], "split_score": 0.43412228792562896}
+{"sent": "red shirt boy", "ann_id": 1712248, "best_split": [1, 5], "split_score": 0.43412228792562896}
+{"sent": "red shirt kid", "ann_id": 1712248, "best_split": [1, 5], "split_score": 0.43412228792562896}
+{"sent": "purple sweater", "ann_id": 448935, "best_split": [3, 3], "split_score": 0.3127044710587916}
+{"sent": "kid flying kite", "ann_id": 448935, "best_split": [1, 2], "split_score": 0.1352589486708883}
+{"sent": "blue boy", "ann_id": 448935, "best_split": [1, 5], "split_score": 0.38384037925880676}

@@ -1,0 +1,8 @@
+{"sent": "dark spot at noon", "ann_id": 1684208, "best_split": [3, 3], "split_score": 0.7182249816073365}
+{"sent": "part of wall at 1 clock from child heat", "ann_id": 1684208, "best_split": [3, 1], "split_score": 0.23727075288143878}
+{"sent": "hand reaching for the cake", "ann_id": 488330, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "hand", "ann_id": 488330, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "hand of someone reaching", "ann_id": 488330, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "boy", "ann_id": 481777, "best_split": [2, 1], "split_score": 0.46728321398610173}
+{"sent": "boy", "ann_id": 481777, "best_split": [2, 1], "split_score": 0.46728321398610173}
+{"sent": "boy", "ann_id": 481777, "best_split": [2, 1], "split_score": 0.46728321398610173}

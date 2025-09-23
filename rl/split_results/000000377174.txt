@@ -1,0 +1,6 @@
+{"sent": "train red", "ann_id": 249013, "best_split": [2, 1], "split_score": 0.6055639421853549}
+{"sent": "foreground train", "ann_id": 249013, "best_split": [2, 1], "split_score": 0.6055639421853549}
+{"sent": "main train", "ann_id": 249013, "best_split": [2, 1], "split_score": 0.6055639421853549}
+{"sent": "not this one but", "ann_id": 248855, "best_split": [2, 2], "split_score": 0.05659083113887099}
+{"sent": "train with with", "ann_id": 248855, "best_split": [2, 3], "split_score": 0.5212231369056748}
+{"sent": "train furthest from you", "ann_id": 248855, "best_split": [2, 3], "split_score": 0.5212231369056748}

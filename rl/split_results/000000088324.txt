@@ -1,0 +1,6 @@
+{"sent": "round", "ann_id": 1577204, "best_split": [3, 3], "split_score": 0.46673819736229366}
+{"sent": "fruit cake", "ann_id": 1577204, "best_split": [3, 3], "split_score": 0.46673819736229366}
+{"sent": "round fruitcake", "ann_id": 1577204, "best_split": [3, 3], "split_score": 0.46673819736229366}
+{"sent": "on board near us", "ann_id": 1084574, "best_split": [2, 1], "split_score": 0.4251036351871371}
+{"sent": "long cake", "ann_id": 1084574, "best_split": [2, 3], "split_score": 0.44602121000640715}
+{"sent": "thing closest to us yellow with stripes", "ann_id": 1084574, "best_split": [2, 3], "split_score": 0.44602121000640715}

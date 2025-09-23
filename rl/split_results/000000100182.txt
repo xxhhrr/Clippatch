@@ -1,0 +1,7 @@
+{"sent": "boat 3 o clock", "ann_id": 180802, "best_split": [2, 3], "split_score": 0.8753277710518084}
+{"sent": "boat with cloudy window", "ann_id": 180124, "best_split": [2, 1], "split_score": 0.2750717474380153}
+{"sent": "number one boat", "ann_id": 180124, "best_split": [2, 1], "split_score": 0.2750717474380153}
+{"sent": "the boat with the lightest colored window", "ann_id": 180124, "best_split": [2, 1], "split_score": 0.2750717474380153}
+{"sent": "boat with two next to it", "ann_id": 176230, "best_split": [2, 1], "split_score": 0.33446855693273925}
+{"sent": "in between boat", "ann_id": 176230, "best_split": [2, 1], "split_score": 0.33446855693273925}
+{"sent": "boat touching two boats", "ann_id": 176230, "best_split": [2, 1], "split_score": 0.33446855693273925}

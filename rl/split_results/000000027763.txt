@@ -1,0 +1,6 @@
+{"sent": "only wheel no bike", "ann_id": 130459, "best_split": [1, 5], "split_score": 0.48670860384672193}
+{"sent": "wheel mostly offscreen", "ann_id": 130459, "best_split": [3, 3], "split_score": 0.41911866274083176}
+{"sent": "bike wheel hidden", "ann_id": 130459, "best_split": [3, 3], "split_score": 0.41911866274083176}
+{"sent": "bicycle behind dog", "ann_id": 130180, "best_split": [2, 1], "split_score": 0.587334074013586}
+{"sent": "bike with stickers", "ann_id": 130180, "best_split": [2, 1], "split_score": 0.587334074013586}
+{"sent": "full bicycle", "ann_id": 130180, "best_split": [2, 1], "split_score": 0.587334074013586}

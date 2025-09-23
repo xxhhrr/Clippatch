@@ -1,0 +1,6 @@
+{"sent": "red bus is barely in the picture its closest to us", "ann_id": 168771, "best_split": [3, 3], "split_score": 0.3012964748418197}
+{"sent": "edge of bus red", "ann_id": 168771, "best_split": [3, 3], "split_score": 0.3012964748418197}
+{"sent": "beige build", "ann_id": 166689, "best_split": [3, 2], "split_score": 0.3947056499017477}
+{"sent": "white bus", "ann_id": 166689, "best_split": [3, 1], "split_score": 0.2170323701815646}
+{"sent": "double decker bus", "ann_id": 166555, "best_split": [1, 3], "split_score": 0.5458377238993739}
+{"sent": "full bus", "ann_id": 166555, "best_split": [1, 3], "split_score": 0.5458377238993739}

@@ -1,0 +1,12 @@
+{"sent": "lady with back to us", "ann_id": 231630, "best_split": [1, 2], "split_score": 0.10582748724067971}
+{"sent": "the girl in the vest", "ann_id": 231630, "best_split": [3, 3], "split_score": 0.41285838394216184}
+{"sent": "woman", "ann_id": 231630, "best_split": [1, 2], "split_score": 0.10582748724067971}
+{"sent": "red coat standing", "ann_id": 192639, "best_split": [3, 2], "split_score": 0.34003842238218573}
+{"sent": "man in red and white", "ann_id": 192639, "best_split": [3, 2], "split_score": 0.34003842238218573}
+{"sent": "man in white and red", "ann_id": 192639, "best_split": [3, 2], "split_score": 0.34003842238218573}
+{"sent": "blue bike", "ann_id": 153850, "best_split": [1, 3], "split_score": 0.39698379770157627}
+{"sent": "blue bike", "ann_id": 153850, "best_split": [1, 3], "split_score": 0.39698379770157627}
+{"sent": "blue bike next silver and black bike", "ann_id": 153850, "best_split": [1, 3], "split_score": 0.39698379770157627}
+{"sent": "black motorcycle", "ann_id": 153110, "best_split": [2, 1], "split_score": 0.5528516294877559}
+{"sent": "black silver bike", "ann_id": 153110, "best_split": [2, 1], "split_score": 0.5528516294877559}
+{"sent": "motorcycle", "ann_id": 153110, "best_split": [2, 1], "split_score": 0.5528516294877559}

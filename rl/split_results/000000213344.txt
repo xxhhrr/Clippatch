@@ -1,0 +1,9 @@
+{"sent": "gray shirt", "ann_id": 228377, "best_split": [1, 5], "split_score": 0.6638503318750867}
+{"sent": "white shirt", "ann_id": 228377, "best_split": [1, 5], "split_score": 0.6638503318750867}
+{"sent": "man white shirt", "ann_id": 228377, "best_split": [1, 5], "split_score": 0.6638503318750867}
+{"sent": "man with cap", "ann_id": 221554, "best_split": [1, 3], "split_score": 0.8250428816024312}
+{"sent": "purple shirt with hat on", "ann_id": 221554, "best_split": [1, 3], "split_score": 0.8250428816024312}
+{"sent": "guy in hat", "ann_id": 221554, "best_split": [1, 3], "split_score": 0.8250428816024312}
+{"sent": "man with mic", "ann_id": 207933, "best_split": [1, 5], "split_score": 0.6427764325550624}
+{"sent": "man with mic", "ann_id": 207933, "best_split": [1, 5], "split_score": 0.6427764325550624}
+{"sent": "guy with microphone", "ann_id": 207933, "best_split": [1, 5], "split_score": 0.6427764325550624}

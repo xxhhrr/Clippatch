@@ -1,0 +1,9 @@
+{"sent": "girl eating", "ann_id": 532140, "best_split": [1, 5], "split_score": 0.42620526468306674}
+{"sent": "woman in black shirt raising food to mouth", "ann_id": 532140, "best_split": [3, 2], "split_score": 0.42995480951985515}
+{"sent": "woman eating", "ann_id": 532140, "best_split": [1, 5], "split_score": 0.42620526468306674}
+{"sent": "darker", "ann_id": 1727457, "best_split": [1, 2], "split_score": 0.6505102040557035}
+{"sent": "person wearing hood and glasses holding plate", "ann_id": 1727457, "best_split": [1, 2], "split_score": 0.6505102040557035}
+{"sent": "man with specs", "ann_id": 1727457, "best_split": [1, 2], "split_score": 0.6505102040557035}
+{"sent": "man light blue shirt", "ann_id": 480083, "best_split": [1, 5], "split_score": 0.45495129865513884}
+{"sent": "light blue shirt", "ann_id": 480083, "best_split": [1, 5], "split_score": 0.45495129865513884}
+{"sent": "blue", "ann_id": 480083, "best_split": [3, 1], "split_score": 0.15409907934271705}

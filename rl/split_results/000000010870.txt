@@ -1,0 +1,5 @@
+{"sent": "small white laptop on desk", "ann_id": 1103652, "best_split": [2, 1], "split_score": 0.4466122362303411}
+{"sent": "laptop turned on", "ann_id": 1103652, "best_split": [2, 1], "split_score": 0.4466122362303411}
+{"sent": "main laptop", "ann_id": 1103652, "best_split": [2, 1], "split_score": 0.4466122362303411}
+{"sent": "the computer looking at spider porn obscured by the pole", "ann_id": 2134523, "best_split": [2, 3], "split_score": 0.4964432796240693}
+{"sent": "laptop behind closest one", "ann_id": 2134523, "best_split": [1, 5], "split_score": 0.3017944534849626}

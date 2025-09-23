@@ -1,0 +1,6 @@
+{"sent": "sofa at 7 o clock", "ann_id": 114144, "best_split": [2, 1], "split_score": 0.23596938774569637}
+{"sent": "chari closest to camera", "ann_id": 114144, "best_split": [1, 2], "split_score": 0.23596938774569637}
+{"sent": "nearest white chair or couch", "ann_id": 114144, "best_split": [2, 3], "split_score": 0.7142857141995311}
+{"sent": "full white couch", "ann_id": 98921, "best_split": [3, 2], "split_score": 0.43510169842366303}
+{"sent": "couch furthest", "ann_id": 98921, "best_split": [3, 2], "split_score": 0.43510169842366303}
+{"sent": "couch facing you", "ann_id": 98921, "best_split": [3, 2], "split_score": 0.43510169842366303}

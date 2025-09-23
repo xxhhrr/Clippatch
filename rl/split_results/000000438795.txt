@@ -1,0 +1,9 @@
+{"sent": "last in line elephant", "ann_id": 581046, "best_split": [2, 2], "split_score": 0.2724029680170945}
+{"sent": "last elephant", "ann_id": 581046, "best_split": [2, 2], "split_score": 0.2724029680170945}
+{"sent": "elephant in back", "ann_id": 581046, "best_split": [2, 2], "split_score": 0.2724029680170945}
+{"sent": "tallest elephant", "ann_id": 580346, "best_split": [1, 5], "split_score": 0.5803159973189338}
+{"sent": "elephant climbing and being climbed", "ann_id": 580346, "best_split": [1, 5], "split_score": 0.5803159973189338}
+{"sent": "sandwiched elephant", "ann_id": 580346, "best_split": [1, 5], "split_score": 0.5803159973189338}
+{"sent": "elephant closest", "ann_id": 580011, "best_split": [1, 2], "split_score": 0.3940727699385977}
+{"sent": "lead elephant", "ann_id": 580011, "best_split": [1, 2], "split_score": 0.3940727699385977}
+{"sent": "elephant with all feet on ground", "ann_id": 580011, "best_split": [1, 2], "split_score": 0.3940727699385977}

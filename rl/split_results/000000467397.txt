@@ -1,0 +1,9 @@
+{"sent": "donut that looks like a pretzel", "ann_id": 1573411, "best_split": [1, 3], "split_score": 0.10963178697162305}
+{"sent": "pretzel", "ann_id": 1573411, "best_split": [2, 1], "split_score": 0.18973214284958018}
+{"sent": "pretzel", "ann_id": 1573411, "best_split": [2, 1], "split_score": 0.18973214284958018}
+{"sent": "light brown pastry", "ann_id": 1081806, "best_split": [2, 2], "split_score": 0.4742810554051081}
+{"sent": "lightest donut under brown one", "ann_id": 1081806, "best_split": [2, 2], "split_score": 0.4742810554051081}
+{"sent": "white with brown specs", "ann_id": 1081806, "best_split": [3, 3], "split_score": 0.39790690064342016}
+{"sent": "light brown with pink dots", "ann_id": 1081146, "best_split": [1, 5], "split_score": 0.34581233499245184}
+{"sent": "brown pink donut lisa", "ann_id": 1081146, "best_split": [3, 2], "split_score": 0.461269085273759}
+{"sent": "tan round one", "ann_id": 1081146, "best_split": [3, 2], "split_score": 0.461269085273759}

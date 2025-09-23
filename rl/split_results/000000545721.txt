@@ -1,0 +1,9 @@
+{"sent": "closest pizza", "ann_id": 1070642, "best_split": [2, 2], "split_score": 0.6792822767108738}
+{"sent": "whole pizza", "ann_id": 1070642, "best_split": [2, 2], "split_score": 0.6792822767108738}
+{"sent": "egg pizza", "ann_id": 1070642, "best_split": [2, 2], "split_score": 0.6792822767108738}
+{"sent": "pizza near purdue shirt", "ann_id": 1075306, "best_split": [3, 3], "split_score": 0.47626582270945156}
+{"sent": "blurry pie piece missing", "ann_id": 1075306, "best_split": [2, 2], "split_score": 0.16728359907693027}
+{"sent": "pizza by guy in gray shirt", "ann_id": 1075306, "best_split": [1, 3], "split_score": 0.19194865809848607}
+{"sent": "half pizza", "ann_id": 1075161, "best_split": [3, 3], "split_score": 0.7018713149574632}
+{"sent": "pepperoni pizza", "ann_id": 1075161, "best_split": [3, 3], "split_score": 0.7018713149574632}
+{"sent": "23 remining", "ann_id": 1075161, "best_split": [2, 1], "split_score": 0.1345682845170731}

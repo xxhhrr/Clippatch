@@ -1,0 +1,6 @@
+{"sent": "girl standing in background", "ann_id": 517011, "best_split": [2, 3], "split_score": 0.19042889388799739}
+{"sent": "lady with black coat and large bag", "ann_id": 517011, "best_split": [2, 1], "split_score": 0.15376327535194076}
+{"sent": "black jacket facing away", "ann_id": 517011, "best_split": [2, 1], "split_score": 0.15376327535194076}
+{"sent": "main person", "ann_id": 514389, "best_split": [2, 2], "split_score": 0.6897161098683322}
+{"sent": "person eating", "ann_id": 514389, "best_split": [2, 2], "split_score": 0.6897161098683322}
+{"sent": "womans face", "ann_id": 514389, "best_split": [2, 2], "split_score": 0.6897161098683322}

@@ -1,0 +1,9 @@
+{"sent": "paraplegic", "ann_id": 531299, "best_split": [1, 3], "split_score": 0.5284288697767214}
+{"sent": "guy sitting", "ann_id": 531299, "best_split": [1, 3], "split_score": 0.5284288697767214}
+{"sent": "guy in orange coat on sled", "ann_id": 531299, "best_split": [1, 3], "split_score": 0.5284288697767214}
+{"sent": "all black", "ann_id": 513886, "best_split": [1, 5], "split_score": 0.6737891737291855}
+{"sent": "man with white sunglasses", "ann_id": 513886, "best_split": [2, 1], "split_score": 0.20203447300783997}
+{"sent": "white goggles", "ann_id": 513886, "best_split": [2, 1], "split_score": 0.20203447300783997}
+{"sent": "white and red guy", "ann_id": 489617, "best_split": [1, 3], "split_score": 0.4017857142614753}
+{"sent": "skier in white", "ann_id": 489617, "best_split": [1, 3], "split_score": 0.4017857142614753}
+{"sent": "tallest", "ann_id": 489617, "best_split": [2, 2], "split_score": 0.2473369706256601}

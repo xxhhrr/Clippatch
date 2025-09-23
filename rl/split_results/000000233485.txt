@@ -1,0 +1,5 @@
+{"sent": "the mac laptop", "ann_id": 1970665, "best_split": [3, 3], "split_score": 0.5588020451864861}
+{"sent": "exact middle", "ann_id": 1970665, "best_split": [3, 1], "split_score": 0.18460424709311027}
+{"sent": "largest solid black rectangle", "ann_id": 1627332, "best_split": [2, 3], "split_score": 0.32432432428519253}
+{"sent": "tablet in corner", "ann_id": 1627332, "best_split": [3, 2], "split_score": 0.32432432428519253}
+{"sent": "big screen", "ann_id": 1627332, "best_split": [1, 2], "split_score": 0.10714285713858646}

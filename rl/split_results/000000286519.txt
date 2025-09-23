@@ -1,0 +1,6 @@
+{"sent": "laptop that aint apple", "ann_id": 1104437, "best_split": [3, 3], "split_score": 0.2648793565399593}
+{"sent": "vaio laptop", "ann_id": 1104437, "best_split": [3, 2], "split_score": 0.44309425010441666}
+{"sent": "vaio laptop", "ann_id": 1104437, "best_split": [3, 2], "split_score": 0.44309425010441666}
+{"sent": "apple laptop", "ann_id": 1104359, "best_split": [3, 2], "split_score": 0.3569794049971937}
+{"sent": "mac laptop", "ann_id": 1104359, "best_split": [3, 2], "split_score": 0.3569794049971937}
+{"sent": "apple", "ann_id": 1104359, "best_split": [3, 2], "split_score": 0.3569794049971937}

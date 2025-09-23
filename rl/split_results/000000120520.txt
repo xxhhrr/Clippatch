@@ -1,0 +1,6 @@
+{"sent": "sign facing camera with person lit up", "ann_id": 1804374, "best_split": [3, 3], "split_score": 0.28823529407054976}
+{"sent": "the red girl", "ann_id": 1804374, "best_split": [1, 5], "split_score": 0.24431818179339304}
+{"sent": "red walking light", "ann_id": 1804374, "best_split": [1, 5], "split_score": 0.24431818179339304}
+{"sent": "light thats red", "ann_id": 402161, "best_split": [2, 3], "split_score": 0.2450532724238907}
+{"sent": "traffic light", "ann_id": 402161, "best_split": [2, 3], "split_score": 0.2450532724238907}
+{"sent": "traffic signal red", "ann_id": 402161, "best_split": [2, 3], "split_score": 0.2450532724238907}

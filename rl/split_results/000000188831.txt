@@ -1,0 +1,13 @@
+{"sent": "sheep just behind the cat", "ann_id": 276986, "best_split": [2, 1], "split_score": 0.3000224946490827}
+{"sent": "the goat behind cat you can see side of face", "ann_id": 276986, "best_split": [3, 1], "split_score": 0.6143969870489431}
+{"sent": "farthest sheep with whole head visible", "ann_id": 276631, "best_split": [3, 2], "split_score": 0.8449287509466017}
+{"sent": "sheep in background looking at camera", "ann_id": 276631, "best_split": [3, 2], "split_score": 0.8449287509466017}
+{"sent": "white goat", "ann_id": 276631, "best_split": [3, 2], "split_score": 0.8449287509466017}
+{"sent": "goat with spot on back of neck", "ann_id": 66381, "best_split": [3, 1], "split_score": 0.3005818786200841}
+{"sent": "sheep closes to our current score", "ann_id": 66381, "best_split": [3, 1], "split_score": 0.3005818786200841}
+{"sent": "sheep with two brown dots on neck", "ann_id": 66381, "best_split": [3, 1], "split_score": 0.3005818786200841}
+{"sent": "closest sheep", "ann_id": 65021, "best_split": [1, 2], "split_score": 0.29292371163322195}
+{"sent": "back of head closer than cat", "ann_id": 65021, "best_split": [2, 1], "split_score": 0.39903539539225785}
+{"sent": "animal nearest us ears out", "ann_id": 65021, "best_split": [2, 3], "split_score": 0.35127750698927207}
+{"sent": "the animal in front of the cat that is not the sheeps head", "ann_id": 63833, "best_split": [2, 2], "split_score": 0.38158279692937513}
+{"sent": "sheep back in lower corner", "ann_id": 63833, "best_split": [1, 2], "split_score": 0.03722158059603294}

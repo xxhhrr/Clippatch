@@ -1,0 +1,6 @@
+{"sent": "woman in sandals and black dress", "ann_id": 487313, "best_split": [1, 5], "split_score": 0.5069314349468966}
+{"sent": "woman", "ann_id": 487313, "best_split": [1, 5], "split_score": 0.5069314349468966}
+{"sent": "person running away from us with umbrella", "ann_id": 487313, "best_split": [1, 5], "split_score": 0.5069314349468966}
+{"sent": "blurry guy", "ann_id": 468510, "best_split": [1, 5], "split_score": 0.47058823524917986}
+{"sent": "man", "ann_id": 468510, "best_split": [1, 5], "split_score": 0.47058823524917986}
+{"sent": "person with black shirt and dark gray pants", "ann_id": 468510, "best_split": [3, 1], "split_score": 0.13692434209822552}

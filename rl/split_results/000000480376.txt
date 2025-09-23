@@ -1,0 +1,11 @@
+{"sent": "blue sheet next to boys leg", "ann_id": 2225550, "best_split": [2, 3], "split_score": 0.2107383482523624}
+{"sent": "floor of tent", "ann_id": 2225550, "best_split": [1, 2], "split_score": 0.15493100306505175}
+{"sent": "orange car", "ann_id": 2225487, "best_split": [5, 1], "split_score": 0.7014001622664975}
+{"sent": "cars", "ann_id": 2225487, "best_split": [5, 1], "split_score": 0.7014001622664975}
+{"sent": "cars mat on the floor", "ann_id": 2225487, "best_split": [5, 1], "split_score": 0.7014001622664975}
+{"sent": "farthest boy", "ann_id": 562165, "best_split": [3, 1], "split_score": 0.25760135133581075}
+{"sent": "kid with fire hat", "ann_id": 562165, "best_split": [3, 2], "split_score": 0.5152027026405402}
+{"sent": "fireman boy", "ann_id": 562165, "best_split": [3, 2], "split_score": 0.5152027026405402}
+{"sent": "boy with yellow helmet", "ann_id": 492064, "best_split": [3, 1], "split_score": 0.38775152337084073}
+{"sent": "the child with the yellow bowl on his head", "ann_id": 492064, "best_split": [3, 1], "split_score": 0.38775152337084073}
+{"sent": "boy with yellow hat", "ann_id": 492064, "best_split": [3, 1], "split_score": 0.38775152337084073}

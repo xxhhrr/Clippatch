@@ -1,0 +1,5 @@
+{"sent": "man standing", "ann_id": 202856, "best_split": [1, 2], "split_score": 0.45954241069596846}
+{"sent": "man standing in blue with back turned", "ann_id": 202856, "best_split": [1, 5], "split_score": 0.6039150978321521}
+{"sent": "standing looking down at bike", "ann_id": 202856, "best_split": [2, 1], "split_score": 0.15271044512520587}
+{"sent": "the elephant covered in blue", "ann_id": 200289, "best_split": [2, 2], "split_score": 0.676923076874863}
+{"sent": "person bending near bike", "ann_id": 200289, "best_split": [2, 2], "split_score": 0.676923076874863}

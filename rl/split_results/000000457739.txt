@@ -1,0 +1,6 @@
+{"sent": "man in black", "ann_id": 512549, "best_split": [3, 3], "split_score": 0.5592471124256029}
+{"sent": "black shirt near abel", "ann_id": 512549, "best_split": [3, 3], "split_score": 0.5592471124256029}
+{"sent": "white hat by wall", "ann_id": 512549, "best_split": [3, 1], "split_score": 0.21652956438930437}
+{"sent": "white shorts", "ann_id": 503472, "best_split": [2, 2], "split_score": 0.6702455036127849}
+{"sent": "player", "ann_id": 503472, "best_split": [2, 2], "split_score": 0.6702455036127849}
+{"sent": "player in light blue and white", "ann_id": 503472, "best_split": [2, 2], "split_score": 0.6702455036127849}

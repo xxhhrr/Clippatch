@@ -1,0 +1,9 @@
+{"sent": "gray sweat shirt", "ann_id": 1230808, "best_split": [2, 3], "split_score": 0.5791505790807009}
+{"sent": "headless person", "ann_id": 1230808, "best_split": [3, 1], "split_score": 0.28461538459828034}
+{"sent": "loose dark gray hoodie", "ann_id": 1230808, "best_split": [2, 3], "split_score": 0.5791505790807009}
+{"sent": "lady wearing white jacket", "ann_id": 445125, "best_split": [1, 2], "split_score": 0.8487324617008637}
+{"sent": "taller girl", "ann_id": 445125, "best_split": [2, 1], "split_score": 0.2511059559707837}
+{"sent": "black girl", "ann_id": 445125, "best_split": [1, 2], "split_score": 0.8487324617008637}
+{"sent": "white girl", "ann_id": 439708, "best_split": [1, 2], "split_score": 0.6709693434072556}
+{"sent": "closest woman", "ann_id": 439708, "best_split": [1, 2], "split_score": 0.6709693434072556}
+{"sent": "woman", "ann_id": 439708, "best_split": [1, 2], "split_score": 0.6709693434072556}

@@ -1,0 +1,6 @@
+{"sent": "behind redwhite buses a series of windows on building", "ann_id": 174286, "best_split": [3, 1], "split_score": 0.15720831863722193}
+{"sent": "windows closest purple line", "ann_id": 174286, "best_split": [5, 1], "split_score": 0.3167613636042247}
+{"sent": "windows on longer train", "ann_id": 174286, "best_split": [5, 1], "split_score": 0.3167613636042247}
+{"sent": "red and white bus", "ann_id": 173930, "best_split": [3, 1], "split_score": 0.5521235520902436}
+{"sent": "red and white train car", "ann_id": 173930, "best_split": [3, 1], "split_score": 0.5521235520902436}
+{"sent": "red and white train", "ann_id": 173930, "best_split": [3, 1], "split_score": 0.5521235520902436}

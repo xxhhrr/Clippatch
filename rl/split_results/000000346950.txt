@@ -1,0 +1,17 @@
+{"sent": "man in uniform", "ann_id": 2167457, "best_split": [1, 3], "split_score": 0.8395530983160819}
+{"sent": "dad", "ann_id": 2167457, "best_split": [1, 3], "split_score": 0.8395530983160819}
+{"sent": "army dad", "ann_id": 2167457, "best_split": [1, 3], "split_score": 0.8395530983160819}
+{"sent": "army guy", "ann_id": 2167457, "best_split": [1, 3], "split_score": 0.8395530983160819}
+{"sent": "the bear the kid is holding brown", "ann_id": 1162554, "best_split": [2, 2], "split_score": 0.6198581559844072}
+{"sent": "brown bear", "ann_id": 1162554, "best_split": [2, 2], "split_score": 0.6198581559844072}
+{"sent": "brown bear", "ann_id": 1162554, "best_split": [2, 2], "split_score": 0.6198581559844072}
+{"sent": "white bear", "ann_id": 1160354, "best_split": [3, 3], "split_score": 0.5719806762495541}
+{"sent": "white bear", "ann_id": 1160354, "best_split": [3, 3], "split_score": 0.5719806762495541}
+{"sent": "white bear", "ann_id": 1160354, "best_split": [3, 3], "split_score": 0.5719806762495541}
+{"sent": "littlest person", "ann_id": 492533, "best_split": [1, 2], "split_score": 0.6301817601789628}
+{"sent": "child holding brown", "ann_id": 492533, "best_split": [1, 3], "split_score": 0.6351610622722831}
+{"sent": "boy holding brown bear", "ann_id": 492533, "best_split": [1, 3], "split_score": 0.6351610622722831}
+{"sent": "kid without hat", "ann_id": 475536, "best_split": [1, 5], "split_score": 0.42494180573399326}
+{"sent": "child holding white animal", "ann_id": 475536, "best_split": [1, 2], "split_score": 0.7539461096638255}
+{"sent": "boy holding white bear", "ann_id": 475536, "best_split": [2, 1], "split_score": 0.32010320102240714}
+{"sent": "kid no hat", "ann_id": 475536, "best_split": [2, 1], "split_score": 0.23057777279963707}

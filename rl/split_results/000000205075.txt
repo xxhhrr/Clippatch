@@ -1,0 +1,11 @@
+{"sent": "a man with his back to the camera", "ann_id": 1295054, "best_split": [1, 2], "split_score": 0.6399872448724495}
+{"sent": "man facing away from the camera", "ann_id": 1295054, "best_split": [2, 2], "split_score": 0.3926762757892152}
+{"sent": "guy with back to you", "ann_id": 1295054, "best_split": [1, 2], "split_score": 0.6399872448724495}
+{"sent": "tan suit 1", "ann_id": 1286093, "best_split": [1, 5], "split_score": 0.5554009738094603}
+{"sent": "lefty pic yellower suit", "ann_id": 1286093, "best_split": [1, 5], "split_score": 0.5554009738094603}
+{"sent": "bald guy looking at something in his hands", "ann_id": 1264948, "best_split": [1, 5], "split_score": 0.4079922370846866}
+{"sent": "the man holding something in the picture with more men", "ann_id": 1264948, "best_split": [3, 3], "split_score": 0.2672064777035555}
+{"sent": "man in tan suit number one pic number two from 9pm in it", "ann_id": 1264948, "best_split": [2, 3], "split_score": 0.34137931031301216}
+{"sent": "man looking down in yellow", "ann_id": 1296449, "best_split": [1, 3], "split_score": 0.8458149779232161}
+{"sent": "beard lapel pin", "ann_id": 1296449, "best_split": [1, 3], "split_score": 0.8458149779232161}
+{"sent": "groom in more yellow suit in the one where you can see his boutenniere", "ann_id": 1296449, "best_split": [1, 3], "split_score": 0.8458149779232161}

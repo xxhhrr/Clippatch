@@ -1,0 +1,6 @@
+{"sent": "batter", "ann_id": 1272043, "best_split": [3, 1], "split_score": 0.19640669660083673}
+{"sent": "man pretending to swing bat", "ann_id": 1272043, "best_split": [3, 1], "split_score": 0.19640669660083673}
+{"sent": "man hitting", "ann_id": 1272043, "best_split": [2, 1], "split_score": 0.06591940218621832}
+{"sent": "catcher", "ann_id": 1243881, "best_split": [1, 2], "split_score": 0.3077965561101803}
+{"sent": "man with red hat near us", "ann_id": 1243881, "best_split": [1, 5], "split_score": 0.4141592920020789}
+{"sent": "red hat catcher", "ann_id": 1243881, "best_split": [1, 5], "split_score": 0.4141592920020789}

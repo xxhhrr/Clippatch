@@ -1,0 +1,4 @@
+{"sent": "lol apple at opposite end of banana", "ann_id": 1048439, "best_split": [1, 5], "split_score": 0.2925110131900871}
+{"sent": "apple by banana stem", "ann_id": 1047591, "best_split": [2, 3], "split_score": 0.31647369486934046}
+{"sent": "apple with dent", "ann_id": 1047591, "best_split": [2, 2], "split_score": 0.3726084183376428}
+{"sent": "number one apple", "ann_id": 1047591, "best_split": [2, 2], "split_score": 0.3726084183376428}

@@ -1,0 +1,9 @@
+{"sent": "gray part of seat next to the main one", "ann_id": 1584353, "best_split": [2, 3], "split_score": 0.49304500286463526}
+{"sent": "half seati", "ann_id": 1584353, "best_split": [2, 1], "split_score": 0.17148629376598454}
+{"sent": "seat next to one with screen", "ann_id": 2223083, "best_split": [1, 5], "split_score": 0.5386111650905844}
+{"sent": "closest row headrest cushion in windowseat", "ann_id": 2223083, "best_split": [1, 3], "split_score": 0.3482473979932858}
+{"sent": "spoil yourself", "ann_id": 1946853, "best_split": [2, 1], "split_score": 0.5725657517489472}
+{"sent": "seat that says spoil yourself", "ann_id": 1946853, "best_split": [2, 1], "split_score": 0.5725657517489472}
+{"sent": "spoil yourself", "ann_id": 1946853, "best_split": [2, 1], "split_score": 0.5725657517489472}
+{"sent": "seat nearest window with monitor", "ann_id": 1936495, "best_split": [1, 5], "split_score": 0.34296977658155636}
+{"sent": "the seat in the next row on the side by the window", "ann_id": 1936495, "best_split": [1, 5], "split_score": 0.34296977658155636}

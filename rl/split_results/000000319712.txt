@@ -1,0 +1,9 @@
+{"sent": "person holding umbrella", "ann_id": 226868, "best_split": [1, 2], "split_score": 0.21065848213446037}
+{"sent": "lady with umbrella", "ann_id": 226868, "best_split": [1, 5], "split_score": 0.5362215908546852}
+{"sent": "lady with umbrella", "ann_id": 226868, "best_split": [1, 5], "split_score": 0.5362215908546852}
+{"sent": "man carrying target bag", "ann_id": 193692, "best_split": [3, 3], "split_score": 0.32691185050687216}
+{"sent": "whitest shirt no head", "ann_id": 193692, "best_split": [1, 5], "split_score": 0.3362428089331241}
+{"sent": "white shirt guy carrying bag", "ann_id": 193692, "best_split": [1, 5], "split_score": 0.3362428089331241}
+{"sent": "blurred checkers", "ann_id": 1225787, "best_split": [1, 5], "split_score": 0.6905438310987678}
+{"sent": "half man", "ann_id": 1225787, "best_split": [2, 3], "split_score": 0.4316608175631546}
+{"sent": "checkered shirt", "ann_id": 1225787, "best_split": [1, 5], "split_score": 0.6905438310987678}

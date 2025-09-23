@@ -1,0 +1,10 @@
+{"sent": "folded black laptop", "ann_id": 1103937, "best_split": [1, 5], "split_score": 0.3104240982710722}
+{"sent": "black laptop mostly closed", "ann_id": 1103937, "best_split": [1, 5], "split_score": 0.3104240982710722}
+{"sent": "black folded laptop", "ann_id": 1103937, "best_split": [1, 5], "split_score": 0.3104240982710722}
+{"sent": "red laptop", "ann_id": 1102629, "best_split": [2, 2], "split_score": 0.723692601983124}
+{"sent": "color stands out the most", "ann_id": 1102629, "best_split": [2, 2], "split_score": 0.723692601983124}
+{"sent": "red", "ann_id": 1102629, "best_split": [2, 2], "split_score": 0.723692601983124}
+{"sent": "silver laptop that is mostly closed", "ann_id": 1098174, "best_split": [1, 2], "split_score": 0.4512914540636443}
+{"sent": "silver laptop", "ann_id": 1098174, "best_split": [3, 2], "split_score": 0.6562499999445734}
+{"sent": "black open laptop", "ann_id": 1097934, "best_split": [2, 2], "split_score": 0.7576530611640901}
+{"sent": "black laptop with screen showing", "ann_id": 1097934, "best_split": [2, 2], "split_score": 0.7576530611640901}

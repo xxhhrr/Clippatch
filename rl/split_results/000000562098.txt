@@ -1,0 +1,12 @@
+{"sent": "penal", "ann_id": 1659920, "best_split": [2, 2], "split_score": 0.8293207907502136}
+{"sent": "red book on cover", "ann_id": 1659920, "best_split": [2, 2], "split_score": 0.8293207907502136}
+{"sent": "diretto penal", "ann_id": 1659920, "best_split": [2, 2], "split_score": 0.8293207907502136}
+{"sent": "red book covered by white and orange book", "ann_id": 1657732, "best_split": [3, 1], "split_score": 0.36920849418622054}
+{"sent": "red book under orange and white book", "ann_id": 1657732, "best_split": [3, 1], "split_score": 0.36920849418622054}
+{"sent": "red box at five o clock", "ann_id": 1657732, "best_split": [3, 1], "split_score": 0.36920849418622054}
+{"sent": "orange and white paper not thick books", "ann_id": 1657311, "best_split": [5, 1], "split_score": 0.38143674503846725}
+{"sent": "the white slender book on redbook", "ann_id": 1657311, "best_split": [5, 1], "split_score": 0.38143674503846725}
+{"sent": "thin book", "ann_id": 1657311, "best_split": [5, 1], "split_score": 0.38143674503846725}
+{"sent": "white book with the word penal on it", "ann_id": 1139347, "best_split": [1, 3], "split_score": 0.24836452584058452}
+{"sent": "book with pencil lying on it with black binder", "ann_id": 1139347, "best_split": [1, 3], "split_score": 0.24836452584058452}
+{"sent": "book with black spine", "ann_id": 1139347, "best_split": [1, 3], "split_score": 0.24836452584058452}

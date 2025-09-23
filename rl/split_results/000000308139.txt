@@ -1,0 +1,6 @@
+{"sent": "man in dark shirt", "ann_id": 222765, "best_split": [1, 2], "split_score": 0.292251275498555}
+{"sent": "man in black shirt", "ann_id": 222765, "best_split": [1, 2], "split_score": 0.292251275498555}
+{"sent": "black shirt", "ann_id": 222765, "best_split": [1, 3], "split_score": 0.44232625479957005}
+{"sent": "girl with brown bag on back", "ann_id": 214384, "best_split": [1, 3], "split_score": 0.35714285712131133}
+{"sent": "woman with lots of bags", "ann_id": 214384, "best_split": [1, 3], "split_score": 0.35714285712131133}
+{"sent": "the woman", "ann_id": 214384, "best_split": [3, 2], "split_score": 0.26315789471344614}

@@ -1,0 +1,6 @@
+{"sent": "umbrella held by person in focus", "ann_id": 282066, "best_split": [1, 2], "split_score": 0.8083311362770784}
+{"sent": "fully visible green and orange umbrella", "ann_id": 282066, "best_split": [1, 2], "split_score": 0.8083311362770784}
+{"sent": "umbrella the guy is holding", "ann_id": 282066, "best_split": [1, 2], "split_score": 0.8083311362770784}
+{"sent": "not the umbrella he is holding", "ann_id": 280891, "best_split": [2, 1], "split_score": 0.26036352039778526}
+{"sent": "not the umbrella hes holding the other one in corner", "ann_id": 280891, "best_split": [2, 1], "split_score": 0.26036352039778526}
+{"sent": "green and orange umbrella thats not totally in frame", "ann_id": 280891, "best_split": [3, 1], "split_score": 0.3940637065399334}

@@ -1,0 +1,4 @@
+{"sent": "black dishwasher", "ann_id": 1124052, "best_split": [2, 3], "split_score": 0.29502982104423164}
+{"sent": "dishwasher", "ann_id": 1124052, "best_split": [2, 3], "split_score": 0.29502982104423164}
+{"sent": "stove man is leaning on", "ann_id": 1123958, "best_split": [1, 2], "split_score": 0.35479113518993977}
+{"sent": "stove", "ann_id": 1123958, "best_split": [2, 1], "split_score": 0.0379271383626614}

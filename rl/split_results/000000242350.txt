@@ -1,0 +1,9 @@
+{"sent": "dark brown bear", "ann_id": 1162603, "best_split": [2, 2], "split_score": 0.45899657462160004}
+{"sent": "darkest brown bear", "ann_id": 1162603, "best_split": [2, 3], "split_score": 0.6427160725437114}
+{"sent": "dark brown teddy bear", "ann_id": 1162603, "best_split": [1, 5], "split_score": 0.4634427615542829}
+{"sent": "white teddy", "ann_id": 1161613, "best_split": [1, 2], "split_score": 0.5935093509117747}
+{"sent": "white bear", "ann_id": 1161613, "best_split": [1, 2], "split_score": 0.5935093509117747}
+{"sent": "white teddy", "ann_id": 1161613, "best_split": [1, 2], "split_score": 0.5935093509117747}
+{"sent": "light brown ted touchn white one", "ann_id": 1161110, "best_split": [1, 2], "split_score": 0.7789459935747748}
+{"sent": "tan bear between red thing and white bear", "ann_id": 1161110, "best_split": [1, 2], "split_score": 0.7789459935747748}
+{"sent": "light brown bear next to red thing", "ann_id": 1161110, "best_split": [1, 2], "split_score": 0.7789459935747748}

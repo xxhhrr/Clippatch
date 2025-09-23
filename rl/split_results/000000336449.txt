@@ -1,0 +1,7 @@
+{"sent": "the big gross gooey thing that isnt a slice of pie", "ann_id": 1077735, "best_split": [1, 2], "split_score": 0.7611208545614987}
+{"sent": "hogie beside of pizza", "ann_id": 1077735, "best_split": [1, 2], "split_score": 0.7611208545614987}
+{"sent": "slice on the side of the plate", "ann_id": 1077735, "best_split": [1, 2], "split_score": 0.7611208545614987}
+{"sent": "food edge of the plate not sushi", "ann_id": 1077735, "best_split": [2, 1], "split_score": 0.2465931213428154}
+{"sent": "whole pizza slice", "ann_id": 1075027, "best_split": [1, 2], "split_score": 0.5393095802500751}
+{"sent": "pizza", "ann_id": 1075027, "best_split": [1, 2], "split_score": 0.5393095802500751}
+{"sent": "pizza slice", "ann_id": 1075027, "best_split": [1, 2], "split_score": 0.5393095802500751}

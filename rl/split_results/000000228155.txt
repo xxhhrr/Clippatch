@@ -1,0 +1,6 @@
+{"sent": "blank laptop near edge", "ann_id": 1103906, "best_split": [3, 1], "split_score": 0.20968708786658152}
+{"sent": "comp 1", "ann_id": 1103906, "best_split": [3, 2], "split_score": 0.4167262329739425}
+{"sent": "full visible black screen laptop", "ann_id": 1103906, "best_split": [3, 1], "split_score": 0.20968708786658152}
+{"sent": "wide open laptop on", "ann_id": 1102426, "best_split": [2, 2], "split_score": 0.5763733809307449}
+{"sent": "the laptop closest to us", "ann_id": 1102426, "best_split": [2, 2], "split_score": 0.5763733809307449}
+{"sent": "closest laptop", "ann_id": 1102426, "best_split": [2, 2], "split_score": 0.5763733809307449}

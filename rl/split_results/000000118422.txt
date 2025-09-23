@@ -1,0 +1,5 @@
+{"sent": "apples completely red", "ann_id": 1049022, "best_split": [3, 3], "split_score": 0.3170673648753788}
+{"sent": "red apples in basket", "ann_id": 1049022, "best_split": [3, 2], "split_score": 0.3134582623212703}
+{"sent": "apples closest any one of them", "ann_id": 1048693, "best_split": [5, 1], "split_score": 0.5708499461698089}
+{"sent": "any apple in cloest basket", "ann_id": 1048693, "best_split": [5, 1], "split_score": 0.5708499461698089}
+{"sent": "closest apples", "ann_id": 1048693, "best_split": [5, 1], "split_score": 0.5708499461698089}

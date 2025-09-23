@@ -1,0 +1,10 @@
+{"sent": "bus following other bus", "ann_id": 1365162, "best_split": [3, 3], "split_score": 0.4925984251192758}
+{"sent": "taller yellow buw", "ann_id": 1365162, "best_split": [2, 1], "split_score": 0.04980151569650662}
+{"sent": "doubledecker bus", "ann_id": 1365162, "best_split": [3, 3], "split_score": 0.4925984251192758}
+{"sent": "aly bus", "ann_id": 168753, "best_split": [1, 2], "split_score": 0.2145248724404287}
+{"sent": "bus less seen", "ann_id": 168753, "best_split": [3, 1], "split_score": 0.151321308716898}
+{"sent": "least visible bus out of the three shown", "ann_id": 168753, "best_split": [3, 1], "split_score": 0.151321308716898}
+{"sent": "bus with 4b on it", "ann_id": 167869, "best_split": [1, 3], "split_score": 0.44416873447642113}
+{"sent": "yellow bus nearest the camera", "ann_id": 167869, "best_split": [1, 3], "split_score": 0.44416873447642113}
+{"sent": "big bus", "ann_id": 167869, "best_split": [1, 3], "split_score": 0.44416873447642113}
+{"sent": "biggest bus", "ann_id": 167869, "best_split": [1, 3], "split_score": 0.44416873447642113}

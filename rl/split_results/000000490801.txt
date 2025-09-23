@@ -1,0 +1,12 @@
+{"sent": "kid in red sweatshirt", "ann_id": 542599, "best_split": [2, 3], "split_score": 0.4517334440054252}
+{"sent": "red", "ann_id": 542599, "best_split": [2, 3], "split_score": 0.4517334440054252}
+{"sent": "boy in red shirt", "ann_id": 542599, "best_split": [2, 3], "split_score": 0.4517334440054252}
+{"sent": "lady in back", "ann_id": 539144, "best_split": [3, 2], "split_score": 0.4441219157797422}
+{"sent": "black shirt", "ann_id": 539144, "best_split": [3, 2], "split_score": 0.4441219157797422}
+{"sent": "standing in back", "ann_id": 539144, "best_split": [3, 2], "split_score": 0.4441219157797422}
+{"sent": "boy with glasses", "ann_id": 449795, "best_split": [2, 3], "split_score": 0.7553901926392491}
+{"sent": "little boy with glasses sucking thumb", "ann_id": 449795, "best_split": [2, 1], "split_score": 0.31603544321546206}
+{"sent": "boy in glasses and white", "ann_id": 449795, "best_split": [2, 3], "split_score": 0.7553901926392491}
+{"sent": "lady icing cupcake", "ann_id": 447650, "best_split": [1, 3], "split_score": 0.4771673620585239}
+{"sent": "woman in blue", "ann_id": 447650, "best_split": [1, 2], "split_score": 0.5082110017580832}
+{"sent": "woman in blue", "ann_id": 447650, "best_split": [1, 2], "split_score": 0.5082110017580832}

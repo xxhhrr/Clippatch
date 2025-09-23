@@ -1,0 +1,6 @@
+{"sent": "standing", "ann_id": 1224574, "best_split": [1, 2], "split_score": 0.4502958933453794}
+{"sent": "guy with glove", "ann_id": 1224574, "best_split": [1, 3], "split_score": 0.5243828100988882}
+{"sent": "player with the glove", "ann_id": 1224574, "best_split": [1, 3], "split_score": 0.5243828100988882}
+{"sent": "player sliding into base", "ann_id": 486611, "best_split": [2, 3], "split_score": 0.547166874179081}
+{"sent": "fallen to ground", "ann_id": 486611, "best_split": [2, 3], "split_score": 0.547166874179081}
+{"sent": "zero", "ann_id": 486611, "best_split": [1, 5], "split_score": 0.2420942893407799}

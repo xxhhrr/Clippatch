@@ -1,0 +1,12 @@
+{"sent": "elephant by baby that has its trunk lowered", "ann_id": 585399, "best_split": [1, 2], "split_score": 0.5919911276352837}
+{"sent": "huge elephant with 1 ear showing", "ann_id": 585399, "best_split": [1, 2], "split_score": 0.5919911276352837}
+{"sent": "two elephants not the one nuzziling its mother", "ann_id": 585399, "best_split": [1, 2], "split_score": 0.5919911276352837}
+{"sent": "elephant looking directly at us", "ann_id": 585354, "best_split": [3, 1], "split_score": 0.24235807859317068}
+{"sent": "elephant looking straight at us", "ann_id": 585354, "best_split": [3, 1], "split_score": 0.24235807859317068}
+{"sent": "elephant looking at you", "ann_id": 585354, "best_split": [3, 1], "split_score": 0.24235807859317068}
+{"sent": "little one touching big one", "ann_id": 584859, "best_split": [3, 3], "split_score": 0.2396547346738189}
+{"sent": "baby ellephant trunk touching mom", "ann_id": 584859, "best_split": [3, 2], "split_score": 0.22389802469359754}
+{"sent": "baby elephant with tusk", "ann_id": 584859, "best_split": [5, 1], "split_score": 0.1344935439783067}
+{"sent": "baby elephant not cuddling mother", "ann_id": 583927, "best_split": [1, 5], "split_score": 0.40736842101364895}
+{"sent": "baby not snuggled up to its mother", "ann_id": 583927, "best_split": [1, 5], "split_score": 0.40736842101364895}
+{"sent": "closest baby elephant", "ann_id": 583927, "best_split": [1, 5], "split_score": 0.40736842101364895}

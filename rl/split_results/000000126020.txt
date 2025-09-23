@@ -1,0 +1,8 @@
+{"sent": "nearest bike", "ann_id": 1765377, "best_split": [3, 3], "split_score": 0.2922975641388582}
+{"sent": "part of bike below white rack", "ann_id": 1765377, "best_split": [3, 3], "split_score": 0.2922975641388582}
+{"sent": "back tire of bike furthest away", "ann_id": 130308, "best_split": [3, 3], "split_score": 0.3715572491994531}
+{"sent": "bike tire closest to street", "ann_id": 130308, "best_split": [3, 3], "split_score": 0.3715572491994531}
+{"sent": "bike tire furthest from u", "ann_id": 130308, "best_split": [3, 3], "split_score": 0.3715572491994531}
+{"sent": "bike with white tail thingy", "ann_id": 129686, "best_split": [5, 1], "split_score": 0.50893795999341}
+{"sent": "the white frame above the bike wheel", "ann_id": 129686, "best_split": [5, 1], "split_score": 0.50893795999341}
+{"sent": "bike with white shelf over tire", "ann_id": 129686, "best_split": [5, 1], "split_score": 0.50893795999341}

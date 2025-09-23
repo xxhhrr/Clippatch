@@ -1,0 +1,5 @@
+{"sent": "glass closer to the visible corner of table", "ann_id": 1876307, "best_split": [3, 2], "split_score": 0.25624116812809217}
+{"sent": "smaller glass of beer", "ann_id": 1876307, "best_split": [3, 1], "split_score": 0.12967818831169975}
+{"sent": "smaller glass of eer", "ann_id": 1876307, "best_split": [3, 1], "split_score": 0.12967818831169975}
+{"sent": "tall frosty one", "ann_id": 1876093, "best_split": [2, 3], "split_score": 0.542040623459844}
+{"sent": "beer 1", "ann_id": 1876093, "best_split": [2, 3], "split_score": 0.542040623459844}

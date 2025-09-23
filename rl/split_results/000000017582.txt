@@ -1,0 +1,6 @@
+{"sent": "man in suit", "ann_id": 517371, "best_split": [1, 5], "split_score": 0.7674418603953995}
+{"sent": "man in black suite", "ann_id": 517371, "best_split": [1, 5], "split_score": 0.7674418603953995}
+{"sent": "black suit", "ann_id": 517371, "best_split": [1, 5], "split_score": 0.7674418603953995}
+{"sent": "man without a jacket", "ann_id": 455297, "best_split": [1, 3], "split_score": 0.426694473387555}
+{"sent": "white shirt man no coat", "ann_id": 455297, "best_split": [1, 5], "split_score": 0.6087905236433299}
+{"sent": "no jacket", "ann_id": 455297, "best_split": [1, 3], "split_score": 0.426694473387555}

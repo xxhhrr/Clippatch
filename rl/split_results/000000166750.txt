@@ -1,0 +1,5 @@
+{"sent": "wheel of motorcycle not fully in picture", "ann_id": 152157, "best_split": [2, 2], "split_score": 0.23301977038958707}
+{"sent": "motorcycle where you only see one tire", "ann_id": 152157, "best_split": [2, 2], "split_score": 0.23301977038958707}
+{"sent": "full red motorcycle", "ann_id": 152128, "best_split": [3, 2], "split_score": 0.3931923554909881}
+{"sent": "full red bike with black coat man", "ann_id": 152128, "best_split": [3, 2], "split_score": 0.3931923554909881}
+{"sent": "the motorcycle sitting on the arrow", "ann_id": 152128, "best_split": [3, 2], "split_score": 0.3931923554909881}

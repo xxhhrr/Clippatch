@@ -1,0 +1,5 @@
+{"sent": "man", "ann_id": 218995, "best_split": [1, 3], "split_score": 0.8809049285816911}
+{"sent": "man holding kid", "ann_id": 218995, "best_split": [1, 3], "split_score": 0.8809049285816911}
+{"sent": "baby", "ann_id": 189445, "best_split": [1, 2], "split_score": 0.6027108433508015}
+{"sent": "kid", "ann_id": 189445, "best_split": [1, 2], "split_score": 0.6027108433508015}
+{"sent": "baby", "ann_id": 189445, "best_split": [1, 2], "split_score": 0.6027108433508015}

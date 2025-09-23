@@ -1,0 +1,6 @@
+{"sent": "longest train", "ann_id": 174886, "best_split": [2, 2], "split_score": 0.6370741237857447}
+{"sent": "train with people", "ann_id": 174886, "best_split": [2, 2], "split_score": 0.6370741237857447}
+{"sent": "red and yellow train mostly visible", "ann_id": 174886, "best_split": [2, 2], "split_score": 0.6370741237857447}
+{"sent": "train with track in front of it", "ann_id": 171535, "best_split": [2, 3], "split_score": 0.5426391381796859}
+{"sent": "yellow with 3 windows", "ann_id": 171535, "best_split": [5, 1], "split_score": 0.22960822091926716}
+{"sent": "bus headlight", "ann_id": 171535, "best_split": [2, 3], "split_score": 0.5426391381796859}

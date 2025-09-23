@@ -1,0 +1,12 @@
+{"sent": "foreground kit not on doorknob side of picture", "ann_id": 2164296, "best_split": [3, 1], "split_score": 0.04850533338973244}
+{"sent": "person facing away from us with hand sticking out", "ann_id": 2164296, "best_split": [2, 2], "split_score": 0.42629310341765136}
+{"sent": "hair on head", "ann_id": 2164296, "best_split": [3, 1], "split_score": 0.3509416887986572}
+{"sent": "boy in blue", "ann_id": 517646, "best_split": [2, 3], "split_score": 0.4618312539160677}
+{"sent": "mirror image of boy with brush", "ann_id": 517646, "best_split": [2, 3], "split_score": 0.4618312539160677}
+{"sent": "boy in blue", "ann_id": 517646, "best_split": [2, 3], "split_score": 0.4618312539160677}
+{"sent": "back of head with bald spot", "ann_id": 510179, "best_split": [3, 2], "split_score": 0.5173745173120928}
+{"sent": "back of head close to doorknob", "ann_id": 510179, "best_split": [1, 5], "split_score": 0.2633083243780539}
+{"sent": "kid in pink not reflection", "ann_id": 510179, "best_split": [2, 2], "split_score": 0.3418367346666265}
+{"sent": "girl in pink in mirror", "ann_id": 488626, "best_split": [3, 2], "split_score": 0.30535557503903815}
+{"sent": "pink refection", "ann_id": 488626, "best_split": [3, 2], "split_score": 0.30535557503903815}
+{"sent": "pink shirt in mirror", "ann_id": 488626, "best_split": [3, 2], "split_score": 0.30535557503903815}

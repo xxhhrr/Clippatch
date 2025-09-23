@@ -1,0 +1,19 @@
+{"sent": "read them like a printed page num 8", "ann_id": 1551404, "best_split": [3, 2], "split_score": 0.17932369347838736}
+{"sent": "apple at 300", "ann_id": 1551404, "best_split": [2, 1], "split_score": 0.0825095663232418}
+{"sent": "apple that has white tag with small hole under it", "ann_id": 1551404, "best_split": [2, 1], "split_score": 0.0825095663232418}
+{"sent": "yellowist bightest", "ann_id": 1551297, "best_split": [2, 2], "split_score": 0.202806122432812}
+{"sent": "apple 1 row 2", "ann_id": 1551297, "best_split": [1, 2], "split_score": 0.1014030612204479}
+{"sent": "number two row number one apple", "ann_id": 1550848, "best_split": [2, 2], "split_score": 0.20312499998380698}
+{"sent": "row 2 column 1", "ann_id": 1550848, "best_split": [2, 1], "split_score": 0.10156249999595175}
+{"sent": "row 3 apple 1", "ann_id": 1550848, "best_split": [2, 2], "split_score": 0.20312499998380698}
+{"sent": "last apple", "ann_id": 1550667, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "dark one in corner its small pme", "ann_id": 1550667, "best_split": [3, 3], "split_score": 0.3697954710792923}
+{"sent": "darkest smallest apple in corner", "ann_id": 1550667, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "4 o clock apple", "ann_id": 1550363, "best_split": [2, 1], "split_score": 0.0017247706421385405}
+{"sent": "apple 4 across 3 down", "ann_id": 1550363, "best_split": [2, 1], "split_score": 0.0017247706421385405}
+{"sent": "3 across 3 down", "ann_id": 1550196, "best_split": [3, 1], "split_score": 0.1116108415131015}
+{"sent": "apple 15", "ann_id": 1551913, "best_split": [1, 3], "split_score": 0.09183673468855306}
+{"sent": "low 3", "ann_id": 1551913, "best_split": [3, 3], "split_score": 0.2576447624824911}
+{"sent": "highest row third one", "ann_id": 1551719, "best_split": [2, 2], "split_score": 0.20312499998380698}
+{"sent": "row 1 donut 3", "ann_id": 1551719, "best_split": [3, 3], "split_score": 0.2933591230990717}
+{"sent": "apple in 2 column number 2 from above", "ann_id": 1549215, "best_split": [2, 3], "split_score": 0.20725508315535407}

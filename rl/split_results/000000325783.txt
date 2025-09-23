@@ -1,0 +1,8 @@
+{"sent": "brown jar at 3", "ann_id": 1993748, "best_split": [5, 1], "split_score": 0.19027484141934703}
+{"sent": "red vase under the shorter white one", "ann_id": 1993748, "best_split": [5, 1], "split_score": 0.19027484141934703}
+{"sent": "darker vase around 200ish 300ish", "ann_id": 1993748, "best_split": [1, 3], "split_score": 0.032310352278349344}
+{"sent": "red vase number 1", "ann_id": 1154868, "best_split": [2, 2], "split_score": 0.20663265304475187}
+{"sent": "brown pot edge of wood matches others", "ann_id": 1154868, "best_split": [2, 3], "split_score": 0.3127413127035785}
+{"sent": "red vase close to rounds remaining", "ann_id": 1154868, "best_split": [2, 2], "split_score": 0.20663265304475187}
+{"sent": "pink flower", "ann_id": 1154764, "best_split": [2, 3], "split_score": 0.5454706926691412}
+{"sent": "white vase with pink flower", "ann_id": 1154764, "best_split": [2, 3], "split_score": 0.5454706926691412}

@@ -1,0 +1,6 @@
+{"sent": "giraffe that is behind the other", "ann_id": 599283, "best_split": [1, 2], "split_score": 0.656631002713659}
+{"sent": "giraffe in back", "ann_id": 599283, "best_split": [1, 2], "split_score": 0.656631002713659}
+{"sent": "giraffe partially showed", "ann_id": 599283, "best_split": [1, 2], "split_score": 0.656631002713659}
+{"sent": "smaller girraf", "ann_id": 599148, "best_split": [2, 1], "split_score": 0.702498707540841}
+{"sent": "giraffe with bent neck", "ann_id": 599148, "best_split": [2, 1], "split_score": 0.702498707540841}
+{"sent": "lower", "ann_id": 599148, "best_split": [2, 1], "split_score": 0.702498707540841}

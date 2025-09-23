@@ -1,0 +1,5 @@
+{"sent": "clear container behind carrots", "ann_id": 1899660, "best_split": [2, 2], "split_score": 0.18570536827514783}
+{"sent": "empty container", "ann_id": 1899660, "best_split": [3, 2], "split_score": 0.2780373831450891}
+{"sent": "yellow veggie", "ann_id": 710917, "best_split": [3, 3], "split_score": 0.5543113101127783}
+{"sent": "bowl with carrots", "ann_id": 710917, "best_split": [3, 3], "split_score": 0.5543113101127783}
+{"sent": "bowl of carrots", "ann_id": 710917, "best_split": [3, 3], "split_score": 0.5543113101127783}

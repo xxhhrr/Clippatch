@@ -1,0 +1,6 @@
+{"sent": "the rotisserie oven", "ann_id": 1127641, "best_split": [3, 2], "split_score": 0.344847982923832}
+{"sent": "rotisserie", "ann_id": 1127641, "best_split": [3, 2], "split_score": 0.344847982923832}
+{"sent": "oven with glass", "ann_id": 1127641, "best_split": [3, 2], "split_score": 0.344847982923832}
+{"sent": "two ovens", "ann_id": 1125107, "best_split": [1, 5], "split_score": 0.5437262356944584}
+{"sent": "double oven", "ann_id": 1125107, "best_split": [1, 5], "split_score": 0.5437262356944584}
+{"sent": "two ovens on the patterned wall", "ann_id": 1125107, "best_split": [1, 5], "split_score": 0.5437262356944584}

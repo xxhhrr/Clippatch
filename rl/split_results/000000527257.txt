@@ -1,0 +1,6 @@
+{"sent": "girl in pink", "ann_id": 2207197, "best_split": [2, 1], "split_score": 0.6857045240814935}
+{"sent": "girl", "ann_id": 2207197, "best_split": [2, 1], "split_score": 0.6857045240814935}
+{"sent": "gril", "ann_id": 2207197, "best_split": [1, 2], "split_score": 0.40221201211627955}
+{"sent": "boy zzzzzz", "ann_id": 519449, "best_split": [2, 1], "split_score": 0.4026931814307874}
+{"sent": "boy", "ann_id": 519449, "best_split": [1, 2], "split_score": 0.4387410509104842}
+{"sent": "boy", "ann_id": 519449, "best_split": [1, 2], "split_score": 0.4387410509104842}

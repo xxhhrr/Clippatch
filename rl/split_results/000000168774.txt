@@ -1,0 +1,9 @@
+{"sent": "kid in black", "ann_id": 534904, "best_split": [3, 3], "split_score": 0.4952805902702453}
+{"sent": "kid inbetween behind two kids heads", "ann_id": 534904, "best_split": [3, 3], "split_score": 0.4952805902702453}
+{"sent": "kid behind inbetween two kids head", "ann_id": 534904, "best_split": [3, 3], "split_score": 0.4952805902702453}
+{"sent": "blue shirt", "ann_id": 499611, "best_split": [2, 2], "split_score": 0.5499495458735801}
+{"sent": "boy in blue shirt", "ann_id": 499611, "best_split": [1, 5], "split_score": 0.4271844659870157}
+{"sent": "blue shirt", "ann_id": 499611, "best_split": [2, 2], "split_score": 0.5499495458735801}
+{"sent": "kid in white", "ann_id": 438142, "best_split": [2, 2], "split_score": 0.42508417505435714}
+{"sent": "kid in white shity", "ann_id": 438142, "best_split": [2, 2], "split_score": 0.42508417505435714}
+{"sent": "boy in white shirt", "ann_id": 438142, "best_split": [2, 2], "split_score": 0.42508417505435714}

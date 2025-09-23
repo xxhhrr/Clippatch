@@ -1,0 +1,9 @@
+{"sent": "sunglasses guy", "ann_id": 231215, "best_split": [1, 2], "split_score": 0.580010520758197}
+{"sent": "sunglasses", "ann_id": 231215, "best_split": [1, 2], "split_score": 0.580010520758197}
+{"sent": "man reaching for hot dog in glasses", "ann_id": 231215, "best_split": [2, 1], "split_score": 0.33303745782788813}
+{"sent": "man with a hotdog in each hand", "ann_id": 215734, "best_split": [1, 3], "split_score": 0.5550718327952181}
+{"sent": "big guy with two hotdogs in hands", "ann_id": 215734, "best_split": [1, 3], "split_score": 0.5550718327952181}
+{"sent": "back of hand on mouth", "ann_id": 215734, "best_split": [1, 3], "split_score": 0.5550718327952181}
+{"sent": "person in tshirt with head offscreen", "ann_id": 196443, "best_split": [1, 5], "split_score": 0.5905497333525878}
+{"sent": "man eating without face", "ann_id": 196443, "best_split": [3, 2], "split_score": 0.315551839438499}
+{"sent": "man whose head is missing in photo", "ann_id": 196443, "best_split": [1, 3], "split_score": 0.4492036679265683}

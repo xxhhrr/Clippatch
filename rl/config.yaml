@@ -3,6 +3,7 @@ data:
   val_images: "../data/images/mscoco/val2014/"
   texts: "../data/text/"
   masks: "../data/instances/"
+  pt:    "../data/pt/"
 
 train_steps: 200000
 model_save_path: "./grid_policy.pt"

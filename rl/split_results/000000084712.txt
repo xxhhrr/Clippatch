@@ -1,0 +1,9 @@
+{"sent": "leg belonging to person cut off in photo", "ann_id": 519465, "best_split": [2, 2], "split_score": 0.6617393799754779}
+{"sent": "skier in red and yellow you can barely see", "ann_id": 519465, "best_split": [2, 3], "split_score": 0.7093506962643018}
+{"sent": "part visible skiier", "ann_id": 519465, "best_split": [1, 2], "split_score": 0.423070790799463}
+{"sent": "blue coat", "ann_id": 512850, "best_split": [2, 2], "split_score": 0.3488902401680685}
+{"sent": "blue jacket", "ann_id": 512850, "best_split": [2, 3], "split_score": 0.47110141761492896}
+{"sent": "blue coagt", "ann_id": 512850, "best_split": [2, 2], "split_score": 0.3488902401680685}
+{"sent": "person skiing in white shirt", "ann_id": 452027, "best_split": [2, 1], "split_score": 0.4329827701825637}
+{"sent": "white shirt", "ann_id": 452027, "best_split": [3, 1], "split_score": 0.4243798346084162}
+{"sent": "whole skier", "ann_id": 452027, "best_split": [2, 1], "split_score": 0.4329827701825637}

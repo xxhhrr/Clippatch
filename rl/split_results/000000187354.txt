@@ -1,0 +1,9 @@
+{"sent": "little girl", "ann_id": 1712734, "best_split": [2, 3], "split_score": 0.37604407318499694}
+{"sent": "girl", "ann_id": 1712734, "best_split": [2, 3], "split_score": 0.37604407318499694}
+{"sent": "small girl", "ann_id": 1712734, "best_split": [2, 3], "split_score": 0.37604407318499694}
+{"sent": "orange shirt", "ann_id": 506300, "best_split": [3, 1], "split_score": 0.6545623835745715}
+{"sent": "standing person", "ann_id": 506300, "best_split": [3, 1], "split_score": 0.6545623835745715}
+{"sent": "guy in back", "ann_id": 506300, "best_split": [3, 1], "split_score": 0.6545623835745715}
+{"sent": "chair with mans ring hand on it", "ann_id": 375870, "best_split": [2, 2], "split_score": 0.42068089830801675}
+{"sent": "empty chair", "ann_id": 375870, "best_split": [1, 5], "split_score": 0.37335259068664445}
+{"sent": "empty chair", "ann_id": 375870, "best_split": [1, 5], "split_score": 0.37335259068664445}

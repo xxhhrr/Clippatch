@@ -1,0 +1,6 @@
+{"sent": "closest zebra head lower", "ann_id": 1413038, "best_split": [3, 3], "split_score": 0.3366390682980039}
+{"sent": "zebra closet to us", "ann_id": 1413038, "best_split": [1, 2], "split_score": 0.3078770779202426}
+{"sent": "zebra who is head butting", "ann_id": 1413038, "best_split": [3, 3], "split_score": 0.3366390682980039}
+{"sent": "a fast zebra", "ann_id": 1412017, "best_split": [2, 1], "split_score": 0.2918279646165491}
+{"sent": "zebra in gallop being bitten by other zebra", "ann_id": 1412017, "best_split": [2, 1], "split_score": 0.2918279646165491}
+{"sent": "closest zebra running righty", "ann_id": 1412017, "best_split": [2, 1], "split_score": 0.2918279646165491}

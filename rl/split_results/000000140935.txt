@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 1706373, "best_split": [1, 2], "split_score": 0.4061007112634523}
+{"sent": "girl", "ann_id": 1706373, "best_split": [2, 2], "split_score": 0.4381446025049905}
+{"sent": "woman", "ann_id": 1706373, "best_split": [2, 2], "split_score": 0.4381446025049905}
+{"sent": "man holding glass", "ann_id": 439642, "best_split": [1, 2], "split_score": 0.5999999999781341}
+{"sent": "man", "ann_id": 439642, "best_split": [1, 2], "split_score": 0.5999999999781341}
+{"sent": "man", "ann_id": 439642, "best_split": [1, 2], "split_score": 0.5999999999781341}

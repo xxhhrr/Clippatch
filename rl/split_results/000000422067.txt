@@ -1,0 +1,7 @@
+{"sent": "person in black hat", "ann_id": 490709, "best_split": [1, 5], "split_score": 0.5420148913127173}
+{"sent": "the person ordering", "ann_id": 490709, "best_split": [1, 5], "split_score": 0.5420148913127173}
+{"sent": "customer", "ann_id": 490709, "best_split": [2, 1], "split_score": 0.2307052791938927}
+{"sent": "guy behind the counter", "ann_id": 475361, "best_split": [3, 2], "split_score": 0.4118037134888401}
+{"sent": "the cook", "ann_id": 475361, "best_split": [3, 3], "split_score": 0.23201548805461428}
+{"sent": "white shirt", "ann_id": 475361, "best_split": [3, 2], "split_score": 0.4118037134888401}
+{"sent": "man behind the counter", "ann_id": 475361, "best_split": [3, 2], "split_score": 0.4118037134888401}

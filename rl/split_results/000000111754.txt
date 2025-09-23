@@ -1,0 +1,6 @@
+{"sent": "closest", "ann_id": 490486, "best_split": [1, 5], "split_score": 0.3731953801507943}
+{"sent": "closest man", "ann_id": 490486, "best_split": [2, 2], "split_score": 0.5677070532951765}
+{"sent": "man with sunglasses", "ann_id": 490486, "best_split": [1, 2], "split_score": 0.45178516934498836}
+{"sent": "woman", "ann_id": 428442, "best_split": [3, 3], "split_score": 0.530178432811454}
+{"sent": "light purple shirt woman", "ann_id": 428442, "best_split": [3, 3], "split_score": 0.530178432811454}
+{"sent": "purple chick", "ann_id": 428442, "best_split": [3, 3], "split_score": 0.530178432811454}

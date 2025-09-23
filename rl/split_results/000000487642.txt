@@ -1,0 +1,6 @@
+{"sent": "white shirt boy", "ann_id": 503495, "best_split": [1, 2], "split_score": 0.5556441326309134}
+{"sent": "player in white", "ann_id": 503495, "best_split": [1, 2], "split_score": 0.5556441326309134}
+{"sent": "tallest guy", "ann_id": 503495, "best_split": [1, 5], "split_score": 0.43522316040800824}
+{"sent": "black shorts", "ann_id": 484764, "best_split": [2, 2], "split_score": 0.5061958613747476}
+{"sent": "purple soccer kid", "ann_id": 484764, "best_split": [1, 2], "split_score": 0.498046874980148}
+{"sent": "person in dark clothes", "ann_id": 484764, "best_split": [1, 5], "split_score": 0.407227853654396}

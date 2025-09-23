@@ -1,0 +1,6 @@
+{"sent": "the guy with the gray shirt", "ann_id": 192936, "best_split": [2, 2], "split_score": 0.2760222394062902}
+{"sent": "biggest guy", "ann_id": 192936, "best_split": [2, 2], "split_score": 0.2760222394062902}
+{"sent": "bearded man", "ann_id": 192936, "best_split": [1, 5], "split_score": 0.5668628246178101}
+{"sent": "man in green shirt", "ann_id": 186876, "best_split": [1, 5], "split_score": 0.5324675324135077}
+{"sent": "green shirt", "ann_id": 186876, "best_split": [1, 5], "split_score": 0.5324675324135077}
+{"sent": "the man in the green shirt", "ann_id": 186876, "best_split": [1, 5], "split_score": 0.5324675324135077}

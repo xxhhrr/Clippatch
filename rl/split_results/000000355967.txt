@@ -1,0 +1,5 @@
+{"sent": "motorcycle with mirror below handle bar", "ann_id": 154889, "best_split": [3, 3], "split_score": 0.40962924814500135}
+{"sent": "full bike shown", "ann_id": 154889, "best_split": [3, 3], "split_score": 0.40962924814500135}
+{"sent": "closest motorcycle", "ann_id": 151693, "best_split": [1, 3], "split_score": 0.45645685479682774}
+{"sent": "motorcycle in beginning", "ann_id": 151693, "best_split": [1, 2], "split_score": 0.6211118669030637}
+{"sent": "closest bike", "ann_id": 151693, "best_split": [1, 3], "split_score": 0.45645685479682774}

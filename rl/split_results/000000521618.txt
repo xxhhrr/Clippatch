@@ -1,0 +1,12 @@
+{"sent": "adult", "ann_id": 213595, "best_split": [1, 3], "split_score": 0.7677364864401703}
+{"sent": "gray woman", "ann_id": 213595, "best_split": [2, 3], "split_score": 0.5055165496127298}
+{"sent": "woman", "ann_id": 213595, "best_split": [1, 3], "split_score": 0.7677364864401703}
+{"sent": "kid", "ann_id": 196013, "best_split": [1, 5], "split_score": 0.4546843955024695}
+{"sent": "blue shirt", "ann_id": 196013, "best_split": [1, 5], "split_score": 0.4546843955024695}
+{"sent": "lol boy in blue", "ann_id": 196013, "best_split": [1, 5], "split_score": 0.4546843955024695}
+{"sent": "sheep laying down", "ann_id": 65175, "best_split": [2, 3], "split_score": 0.6910272025283163}
+{"sent": "closest sheep", "ann_id": 65175, "best_split": [2, 3], "split_score": 0.6910272025283163}
+{"sent": "sheep that is not really visible", "ann_id": 65175, "best_split": [2, 3], "split_score": 0.6910272025283163}
+{"sent": "sheep being fed", "ann_id": 63837, "best_split": [3, 3], "split_score": 0.3486323597185173}
+{"sent": "sheep boy is feeding", "ann_id": 63837, "best_split": [2, 3], "split_score": 0.363790824960941}
+{"sent": "goat eating", "ann_id": 63837, "best_split": [2, 3], "split_score": 0.363790824960941}

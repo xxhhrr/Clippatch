@@ -1,0 +1,12 @@
+{"sent": "computer that is on", "ann_id": 1100194, "best_split": [3, 3], "split_score": 0.5122352080876122}
+{"sent": "laptop closest to black shirt", "ann_id": 1100194, "best_split": [3, 3], "split_score": 0.5122352080876122}
+{"sent": "laptop without people on screen", "ann_id": 1100194, "best_split": [3, 3], "split_score": 0.5122352080876122}
+{"sent": "the laptop by the guy with green shirt", "ann_id": 1100101, "best_split": [2, 2], "split_score": 0.2155612244726115}
+{"sent": "laptop with reflection of people", "ann_id": 1100101, "best_split": [3, 1], "split_score": 0.15949001682947497}
+{"sent": "photo on laptop", "ann_id": 1100101, "best_split": [1, 5], "split_score": 0.22274143300012253}
+{"sent": "black jacket", "ann_id": 491011, "best_split": [1, 5], "split_score": 0.4959382207906992}
+{"sent": "boy with black jacket on", "ann_id": 491011, "best_split": [1, 5], "split_score": 0.4959382207906992}
+{"sent": "man in black shirt", "ann_id": 491011, "best_split": [3, 2], "split_score": 0.3226317875225295}
+{"sent": "man in green shirt", "ann_id": 437664, "best_split": [3, 3], "split_score": 0.4503745317824936}
+{"sent": "man in green shirt", "ann_id": 437664, "best_split": [3, 3], "split_score": 0.4503745317824936}
+{"sent": "green", "ann_id": 437664, "best_split": [3, 3], "split_score": 0.4503745317824936}

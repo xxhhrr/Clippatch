@@ -1,0 +1,9 @@
+{"sent": "sitting with black pants", "ann_id": 1730569, "best_split": [3, 2], "split_score": 0.3770100302199482}
+{"sent": "person sitting behind dude with tie", "ann_id": 1730569, "best_split": [3, 3], "split_score": 0.27629955944702206}
+{"sent": "the hidden girl on the couch next to the man with the tie", "ann_id": 1730569, "best_split": [3, 1], "split_score": 0.2700287898208067}
+{"sent": "red socks reclining", "ann_id": 198866, "best_split": [2, 2], "split_score": 0.4630043277632972}
+{"sent": "laying person", "ann_id": 198866, "best_split": [3, 2], "split_score": 0.47072290213342227}
+{"sent": "gray pants crossed legs", "ann_id": 198866, "best_split": [2, 2], "split_score": 0.4630043277632972}
+{"sent": "man in suit", "ann_id": 192026, "best_split": [1, 2], "split_score": 0.7249775918462438}
+{"sent": "standing man", "ann_id": 192026, "best_split": [1, 2], "split_score": 0.7249775918462438}
+{"sent": "guy", "ann_id": 192026, "best_split": [1, 2], "split_score": 0.7249775918462438}

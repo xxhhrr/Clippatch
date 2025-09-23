@@ -1,0 +1,6 @@
+{"sent": "he wants that frisbee bad", "ann_id": 1743426, "best_split": [2, 1], "split_score": 0.20898230239246288}
+{"sent": "hat kid", "ann_id": 1743426, "best_split": [1, 5], "split_score": 0.687615526744445}
+{"sent": "women in hat", "ann_id": 1743426, "best_split": [1, 5], "split_score": 0.687615526744445}
+{"sent": "guy with blue shirt", "ann_id": 431473, "best_split": [1, 2], "split_score": 0.618526622880433}
+{"sent": "person with frisbee", "ann_id": 431473, "best_split": [1, 2], "split_score": 0.618526622880433}
+{"sent": "blue shirt", "ann_id": 431473, "best_split": [1, 2], "split_score": 0.618526622880433}

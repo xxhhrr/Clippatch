@@ -1,0 +1,6 @@
+{"sent": "motorcycle closest to the crowd", "ann_id": 156048, "best_split": [5, 1], "split_score": 0.18803418802163233}
+{"sent": "white motorcycle nearest to the crowd", "ann_id": 156048, "best_split": [5, 1], "split_score": 0.18803418802163233}
+{"sent": "motorcycle partially seen", "ann_id": 156048, "best_split": [5, 1], "split_score": 0.18803418802163233}
+{"sent": "motorcycle in the foreground", "ann_id": 155131, "best_split": [1, 2], "split_score": 0.4474463127260077}
+{"sent": "closer bike", "ann_id": 155131, "best_split": [1, 2], "split_score": 0.4474463127260077}
+{"sent": "fully visable motorcycle", "ann_id": 155131, "best_split": [1, 2], "split_score": 0.4474463127260077}

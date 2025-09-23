@@ -1,0 +1,6 @@
+{"sent": "chair with black cushion full of stuff", "ann_id": 108545, "best_split": [3, 2], "split_score": 0.36219275273568774}
+{"sent": "chair holding kid with red jacket", "ann_id": 108545, "best_split": [2, 2], "split_score": 0.48965870054157284}
+{"sent": "chair with children on it", "ann_id": 108545, "best_split": [2, 2], "split_score": 0.48965870054157284}
+{"sent": "blue manatee on chair yellow with glasses", "ann_id": 108359, "best_split": [1, 5], "split_score": 0.26243093920455124}
+{"sent": "farthest chair", "ann_id": 108359, "best_split": [2, 3], "split_score": 0.3700699583929768}
+{"sent": "chair with no kids", "ann_id": 108359, "best_split": [2, 3], "split_score": 0.3700699583929768}

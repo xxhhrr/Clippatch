@@ -1,0 +1,6 @@
+{"sent": "tall jar", "ann_id": 1878787, "best_split": [2, 3], "split_score": 0.6030405404677799}
+{"sent": "tall glass bottle filled with clear liquid at 10 o clock", "ann_id": 1878787, "best_split": [2, 3], "split_score": 0.6030405404677799}
+{"sent": "bottle", "ann_id": 1878787, "best_split": [2, 3], "split_score": 0.6030405404677799}
+{"sent": "smaller glass", "ann_id": 669188, "best_split": [2, 3], "split_score": 0.32255244751720363}
+{"sent": "water glass", "ann_id": 669188, "best_split": [2, 3], "split_score": 0.32255244751720363}
+{"sent": "small clear glass", "ann_id": 669188, "best_split": [2, 3], "split_score": 0.32255244751720363}

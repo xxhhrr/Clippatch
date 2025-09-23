@@ -1,0 +1,6 @@
+{"sent": "man in brown hoodie", "ann_id": 255677, "best_split": [1, 3], "split_score": 0.5709459459115018}
+{"sent": "gray jacket", "ann_id": 255677, "best_split": [1, 3], "split_score": 0.5709459459115018}
+{"sent": "man in hoodie", "ann_id": 255677, "best_split": [1, 3], "split_score": 0.5709459459115018}
+{"sent": "tan hat guy", "ann_id": 224780, "best_split": [5, 1], "split_score": 0.1208692820998804}
+{"sent": "beige carhart on", "ann_id": 224780, "best_split": [1, 5], "split_score": 0.1965418368062784}
+{"sent": "tan jacket", "ann_id": 224780, "best_split": [3, 2], "split_score": 0.3346822705529167}

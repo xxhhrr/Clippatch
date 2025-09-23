@@ -1,0 +1,6 @@
+{"sent": "pizza far", "ann_id": 1073981, "best_split": [3, 2], "split_score": 0.42053600965914456}
+{"sent": "smaller pizza", "ann_id": 1073981, "best_split": [3, 2], "split_score": 0.42053600965914456}
+{"sent": "further pizza", "ann_id": 1073981, "best_split": [3, 2], "split_score": 0.42053600965914456}
+{"sent": "bigger pizza closest to us", "ann_id": 1073000, "best_split": [2, 1], "split_score": 0.5822704081400562}
+{"sent": "pizza closest", "ann_id": 1073000, "best_split": [2, 1], "split_score": 0.5822704081400562}
+{"sent": "closer pizza", "ann_id": 1073000, "best_split": [2, 1], "split_score": 0.5822704081400562}

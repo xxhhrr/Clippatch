@@ -1,0 +1,5 @@
+{"sent": "blue tee shirt", "ann_id": 258040, "best_split": [3, 3], "split_score": 0.40013108300833505}
+{"sent": "blue shirt", "ann_id": 258040, "best_split": [3, 3], "split_score": 0.40013108300833505}
+{"sent": "woman sitting on red motorcycle", "ann_id": 199362, "best_split": [1, 5], "split_score": 0.24873096444445875}
+{"sent": "girl sitting with the man in dark blue", "ann_id": 199362, "best_split": [3, 3], "split_score": 0.45089561450727367}
+{"sent": "white shirt girl", "ann_id": 199362, "best_split": [3, 3], "split_score": 0.45089561450727367}

@@ -1,0 +1,6 @@
+{"sent": "part donut", "ann_id": 1078378, "best_split": [3, 1], "split_score": 0.19984567900133127}
+{"sent": "cutoff sweet", "ann_id": 1078378, "best_split": [3, 2], "split_score": 0.3678977272354}
+{"sent": "partial donut", "ann_id": 1078378, "best_split": [3, 1], "split_score": 0.19984567900133127}
+{"sent": "cake with powder sugar", "ann_id": 1078317, "best_split": [1, 2], "split_score": 0.40771015986571146}
+{"sent": "whole doughnut", "ann_id": 1078317, "best_split": [3, 1], "split_score": 0.40979042372924}
+{"sent": "powder sugar", "ann_id": 1078317, "best_split": [3, 1], "split_score": 0.40979042372924}

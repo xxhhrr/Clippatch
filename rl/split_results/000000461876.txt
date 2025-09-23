@@ -1,0 +1,6 @@
+{"sent": "player with hands together", "ann_id": 527069, "best_split": [1, 3], "split_score": 0.5973794609161899}
+{"sent": "not batter guy", "ann_id": 527069, "best_split": [1, 3], "split_score": 0.5973794609161899}
+{"sent": "player with hands no bat", "ann_id": 527069, "best_split": [1, 3], "split_score": 0.5973794609161899}
+{"sent": "holding bat", "ann_id": 480122, "best_split": [2, 2], "split_score": 0.5122250220995556}
+{"sent": "man holding bat", "ann_id": 480122, "best_split": [2, 2], "split_score": 0.5122250220995556}
+{"sent": "batter", "ann_id": 480122, "best_split": [2, 2], "split_score": 0.5122250220995556}

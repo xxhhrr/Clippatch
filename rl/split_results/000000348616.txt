@@ -1,0 +1,8 @@
+{"sent": "jar alone", "ann_id": 1154731, "best_split": [1, 2], "split_score": 0.39540816324954525}
+{"sent": "leftest vase", "ann_id": 1154731, "best_split": [1, 2], "split_score": 0.39540816324954525}
+{"sent": "glass vase 2", "ann_id": 1154662, "best_split": [1, 3], "split_score": 0.6043074323959756}
+{"sent": "closest vase", "ann_id": 1154662, "best_split": [1, 3], "split_score": 0.6043074323959756}
+{"sent": "vase you can see two pots through", "ann_id": 1154662, "best_split": [1, 3], "split_score": 0.6043074323959756}
+{"sent": "glass mostly hidden", "ann_id": 1153681, "best_split": [3, 1], "split_score": 0.11298987727687666}
+{"sent": "smallest glass vase", "ann_id": 1153681, "best_split": [3, 1], "split_score": 0.11298987727687666}
+{"sent": "vase half hidden", "ann_id": 1153681, "best_split": [3, 1], "split_score": 0.11298987727687666}

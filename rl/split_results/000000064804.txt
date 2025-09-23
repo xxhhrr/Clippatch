@@ -1,0 +1,9 @@
+{"sent": "mama", "ann_id": 43570, "best_split": [5, 1], "split_score": 0.13827883519666617}
+{"sent": "brown and yellow duck", "ann_id": 43570, "best_split": [3, 2], "split_score": 0.47894616610987994}
+{"sent": "duck yellow and brown", "ann_id": 43570, "best_split": [3, 2], "split_score": 0.47894616610987994}
+{"sent": "duckling next to all yellow duckling", "ann_id": 43400, "best_split": [3, 1], "split_score": 0.24793544428068823}
+{"sent": "in between duckling", "ann_id": 43400, "best_split": [3, 1], "split_score": 0.24793544428068823}
+{"sent": "mostly brown duck", "ann_id": 43400, "best_split": [3, 1], "split_score": 0.24793544428068823}
+{"sent": "yellow duckling", "ann_id": 41813, "best_split": [2, 2], "split_score": 0.5090935757913543}
+{"sent": "orange chick", "ann_id": 41813, "best_split": [2, 2], "split_score": 0.5090935757913543}
+{"sent": "pale yellow only", "ann_id": 41813, "best_split": [2, 2], "split_score": 0.5090935757913543}

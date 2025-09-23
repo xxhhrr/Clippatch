@@ -1,0 +1,6 @@
+{"sent": "person at laptop", "ann_id": 214366, "best_split": [1, 2], "split_score": 0.8554687499659013}
+{"sent": "shadowy figure on computer", "ann_id": 214366, "best_split": [1, 2], "split_score": 0.8554687499659013}
+{"sent": "what person is sitting on", "ann_id": 214366, "best_split": [1, 2], "split_score": 0.8554687499659013}
+{"sent": "white shirt", "ann_id": 199196, "best_split": [1, 5], "split_score": 0.540734603663302}
+{"sent": "guy in white shirt", "ann_id": 199196, "best_split": [1, 5], "split_score": 0.540734603663302}
+{"sent": "white shirt person", "ann_id": 199196, "best_split": [1, 5], "split_score": 0.540734603663302}

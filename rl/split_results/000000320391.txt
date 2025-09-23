@@ -1,0 +1,6 @@
+{"sent": "red chair near black dresser", "ann_id": 107172, "best_split": [3, 2], "split_score": 0.25055828492625654}
+{"sent": "chair most facing us", "ann_id": 107172, "best_split": [2, 3], "split_score": 0.5123690179850525}
+{"sent": "chair closest to wall", "ann_id": 107172, "best_split": [1, 5], "split_score": 0.4631578946933122}
+{"sent": "red chair next to plant", "ann_id": 101957, "best_split": [3, 3], "split_score": 0.5007765697247862}
+{"sent": "chair near plant", "ann_id": 101957, "best_split": [3, 3], "split_score": 0.5007765697247862}
+{"sent": "chair near plant", "ann_id": 101957, "best_split": [3, 3], "split_score": 0.5007765697247862}

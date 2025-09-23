@@ -1,0 +1,8 @@
+{"sent": "half horse on the edge", "ann_id": 1403555, "best_split": [1, 3], "split_score": 0.37276785712036875}
+{"sent": "horse near the leader", "ann_id": 1403555, "best_split": [1, 3], "split_score": 0.37276785712036875}
+{"sent": "lead horse", "ann_id": 275396, "best_split": [1, 2], "split_score": 0.4404496173293826}
+{"sent": "leading horse", "ann_id": 275396, "best_split": [1, 5], "split_score": 0.5571279606318242}
+{"sent": "lead horse", "ann_id": 275396, "best_split": [1, 2], "split_score": 0.4404496173293826}
+{"sent": "horse with person looking sidways", "ann_id": 58567, "best_split": [3, 1], "split_score": 0.16275659823194613}
+{"sent": "guy looking back is on it", "ann_id": 58567, "best_split": [5, 1], "split_score": 0.13552361395310034}
+{"sent": "brown horse looking away", "ann_id": 58567, "best_split": [1, 5], "split_score": 0.5294350058742162}

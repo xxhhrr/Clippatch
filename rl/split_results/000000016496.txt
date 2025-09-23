@@ -1,0 +1,12 @@
+{"sent": "black bike in lead", "ann_id": 1362140, "best_split": [2, 3], "split_score": 0.4466738325036816}
+{"sent": "yellow bike", "ann_id": 1361813, "best_split": [2, 3], "split_score": 0.5444015443358589}
+{"sent": "yellow bike", "ann_id": 1361813, "best_split": [2, 3], "split_score": 0.5444015443358589}
+{"sent": "yellow bike", "ann_id": 1361813, "best_split": [2, 3], "split_score": 0.5444015443358589}
+{"sent": "red bike next to white bike", "ann_id": 1361787, "best_split": [3, 3], "split_score": 0.45398772999171966}
+{"sent": "red sport bike infront", "ann_id": 1361787, "best_split": [3, 3], "split_score": 0.45398772999171966}
+{"sent": "red bike by yellow 9 clock", "ann_id": 1361787, "best_split": [3, 3], "split_score": 0.45398772999171966}
+{"sent": "white bike", "ann_id": 2047834, "best_split": [2, 3], "split_score": 0.5291988416349904}
+{"sent": "white", "ann_id": 2047834, "best_split": [2, 3], "split_score": 0.5291988416349904}
+{"sent": "white scooter", "ann_id": 2047834, "best_split": [2, 3], "split_score": 0.5291988416349904}
+{"sent": "closest red between yellow and black bikes", "ann_id": 1790861, "best_split": [3, 2], "split_score": 0.40138845057311573}
+{"sent": "red cycle between yellow and black", "ann_id": 1790861, "best_split": [2, 2], "split_score": 0.4013871173149404}

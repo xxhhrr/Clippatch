@@ -1,0 +1,5 @@
+{"sent": "the smallest glass", "ann_id": 667799, "best_split": [2, 1], "split_score": 0.038882138516142084}
+{"sent": "water glass cut off near salt and pepper", "ann_id": 667799, "best_split": [2, 1], "split_score": 0.038882138516142084}
+{"sent": "the wine glass near the spoon", "ann_id": 664383, "best_split": [3, 3], "split_score": 0.7571678320354601}
+{"sent": "empty wine glass in very corner", "ann_id": 664383, "best_split": [3, 3], "split_score": 0.7571678320354601}
+{"sent": "glass at 5 o clock", "ann_id": 664383, "best_split": [3, 3], "split_score": 0.7571678320354601}

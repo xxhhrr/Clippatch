@@ -1,0 +1,9 @@
+{"sent": "woman in raincoat pushing someone", "ann_id": 1720022, "best_split": [1, 5], "split_score": 0.404829545413471}
+{"sent": "gray rainjacket", "ann_id": 1720022, "best_split": [1, 5], "split_score": 0.404829545413471}
+{"sent": "perspn pushing wheelchair", "ann_id": 1720022, "best_split": [1, 5], "split_score": 0.404829545413471}
+{"sent": "purple umbrella the person under it", "ann_id": 1715836, "best_split": [1, 2], "split_score": 0.23596938774569637}
+{"sent": "guy under blue umbrella", "ann_id": 1715836, "best_split": [1, 3], "split_score": 0.35714285712131133}
+{"sent": "person holding blue umbrella", "ann_id": 1715836, "best_split": [1, 3], "split_score": 0.35714285712131133}
+{"sent": "dude with mutli colored umbrella", "ann_id": 465178, "best_split": [1, 5], "split_score": 0.5409902596853703}
+{"sent": "person holding multi colored umb", "ann_id": 465178, "best_split": [3, 1], "split_score": 0.11695727540955658}
+{"sent": "person with multicolored umbrella", "ann_id": 465178, "best_split": [1, 5], "split_score": 0.5409902596853703}

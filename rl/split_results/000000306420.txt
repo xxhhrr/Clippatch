@@ -1,0 +1,9 @@
+{"sent": "woman", "ann_id": 543486, "best_split": [1, 5], "split_score": 0.39016052315768723}
+{"sent": "woman in brown and yellow", "ann_id": 543486, "best_split": [1, 2], "split_score": 0.3527582908022657}
+{"sent": "the lady", "ann_id": 543486, "best_split": [2, 2], "split_score": 0.36519686041955224}
+{"sent": "man in dark outfit", "ann_id": 531777, "best_split": [1, 3], "split_score": 0.4585987260885692}
+{"sent": "tall man", "ann_id": 531777, "best_split": [1, 3], "split_score": 0.4585987260885692}
+{"sent": "man in black", "ann_id": 531777, "best_split": [1, 3], "split_score": 0.4585987260885692}
+{"sent": "kid", "ann_id": 516436, "best_split": [1, 5], "split_score": 0.6098698270244929}
+{"sent": "jean jacket kid", "ann_id": 516436, "best_split": [1, 5], "split_score": 0.6098698270244929}
+{"sent": "jean jacket", "ann_id": 516436, "best_split": [3, 2], "split_score": 0.2934482758367717}

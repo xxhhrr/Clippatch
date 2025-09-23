@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 481825, "best_split": [1, 3], "split_score": 0.7929536679058304}
+{"sent": "main person", "ann_id": 481825, "best_split": [1, 3], "split_score": 0.7929536679058304}
+{"sent": "teal shirt", "ann_id": 481825, "best_split": [1, 3], "split_score": 0.7929536679058304}
+{"sent": "partial child", "ann_id": 455428, "best_split": [1, 2], "split_score": 0.39604591835156067}
+{"sent": "guy in background", "ann_id": 455428, "best_split": [1, 5], "split_score": 0.6922024623211182}
+{"sent": "boy not seen claerly", "ann_id": 455428, "best_split": [1, 2], "split_score": 0.39604591835156067}

@@ -1,0 +1,5 @@
+{"sent": "red chair", "ann_id": 105995, "best_split": [2, 2], "split_score": 0.317123724464515}
+{"sent": "chair by the drink", "ann_id": 105995, "best_split": [3, 1], "split_score": 0.22491060785310424}
+{"sent": "green chair closest to us", "ann_id": 103059, "best_split": [3, 3], "split_score": 0.63855203608352}
+{"sent": "green chair with pillow on it", "ann_id": 103059, "best_split": [3, 3], "split_score": 0.63855203608352}
+{"sent": "chair with pillow", "ann_id": 103059, "best_split": [3, 3], "split_score": 0.63855203608352}

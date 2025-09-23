@@ -1,0 +1,9 @@
+{"sent": "man in the mirror", "ann_id": 1750882, "best_split": [1, 5], "split_score": 0.5608562183223383}
+{"sent": "that was a skirt striped person in mirror", "ann_id": 1750882, "best_split": [1, 5], "split_score": 0.5608562183223383}
+{"sent": "camera guy", "ann_id": 1750882, "best_split": [1, 5], "split_score": 0.5608562183223383}
+{"sent": "toothbrush", "ann_id": 1748566, "best_split": [2, 3], "split_score": 0.5748502993546811}
+{"sent": "woman in the mirror", "ann_id": 1748566, "best_split": [2, 3], "split_score": 0.5748502993546811}
+{"sent": "girl", "ann_id": 1748566, "best_split": [2, 3], "split_score": 0.5748502993546811}
+{"sent": "her real hair", "ann_id": 1233465, "best_split": [2, 1], "split_score": 0.28371278457956867}
+{"sent": "hair not reflection", "ann_id": 1233465, "best_split": [1, 3], "split_score": 0.7609872266312521}
+{"sent": "woman but not reflection", "ann_id": 1233465, "best_split": [2, 1], "split_score": 0.28371278457956867}

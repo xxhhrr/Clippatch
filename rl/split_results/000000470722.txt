@@ -1,0 +1,5 @@
+{"sent": "broccoli inbetween leg and open turkey", "ann_id": 1914383, "best_split": [2, 3], "split_score": 0.404624277423235}
+{"sent": "broc at 630", "ann_id": 1914383, "best_split": [2, 2], "split_score": 0.5499999999599126}
+{"sent": "large green area around rim of pan", "ann_id": 1061107, "best_split": [2, 1], "split_score": 0.4063457062230079}
+{"sent": "broccoli on ri ght", "ann_id": 1061107, "best_split": [2, 1], "split_score": 0.4063457062230079}
+{"sent": "line of broccoli next to chicken leg closest to us", "ann_id": 1061107, "best_split": [1, 2], "split_score": 0.6837782340611698}

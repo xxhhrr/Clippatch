@@ -1,0 +1,10 @@
+{"sent": "white and black motorcyle partially hidden", "ann_id": 1195916, "best_split": [1, 3], "split_score": 0.6705477798823269}
+{"sent": "motorcycle parked next to the red one", "ann_id": 1195916, "best_split": [1, 3], "split_score": 0.6705477798823269}
+{"sent": "black bike behind the blue one in the foreground", "ann_id": 1195863, "best_split": [3, 1], "split_score": 0.1933279742668143}
+{"sent": "the motorcycle directly behind the blue and silver one", "ann_id": 1195863, "best_split": [3, 1], "split_score": 0.1933279742668143}
+{"sent": "blue bike", "ann_id": 1195800, "best_split": [2, 1], "split_score": 0.23660650844690184}
+{"sent": "blue and white bike", "ann_id": 1195800, "best_split": [1, 2], "split_score": 0.38743622447435283}
+{"sent": "blue and white 0ne", "ann_id": 1195800, "best_split": [1, 5], "split_score": 0.5726221079231505}
+{"sent": "red bike", "ann_id": 365283, "best_split": [1, 2], "split_score": 0.5416135203865747}
+{"sent": "red moto", "ann_id": 365283, "best_split": [1, 2], "split_score": 0.5416135203865747}
+{"sent": "red moto", "ann_id": 365283, "best_split": [1, 2], "split_score": 0.5416135203865747}

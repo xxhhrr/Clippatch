@@ -1,0 +1,6 @@
+{"sent": "4 white groups of flowers", "ann_id": 27387, "best_split": [2, 1], "split_score": 0.666892538238724}
+{"sent": "plants close to us", "ann_id": 27387, "best_split": [2, 1], "split_score": 0.666892538238724}
+{"sent": "yellow flowers not the white ones in the pot", "ann_id": 27387, "best_split": [2, 1], "split_score": 0.666892538238724}
+{"sent": "white flowers", "ann_id": 22401, "best_split": [1, 3], "split_score": 0.19395437042733438}
+{"sent": "roses", "ann_id": 22401, "best_split": [1, 5], "split_score": 0.19819282241938516}
+{"sent": "green plant in basket closest to window", "ann_id": 22401, "best_split": [1, 5], "split_score": 0.19819282241938516}

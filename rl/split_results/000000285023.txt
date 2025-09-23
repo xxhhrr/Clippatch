@@ -1,0 +1,5 @@
+{"sent": "the upright giraffe", "ann_id": 599848, "best_split": [1, 2], "split_score": 0.6480129260588505}
+{"sent": "far away giraffe looking at camera", "ann_id": 599848, "best_split": [1, 2], "split_score": 0.6480129260588505}
+{"sent": "tall guy", "ann_id": 599848, "best_split": [1, 2], "split_score": 0.6480129260588505}
+{"sent": "nearest", "ann_id": 599119, "best_split": [2, 1], "split_score": 0.770041109944436}
+{"sent": "giraffe resting head", "ann_id": 599119, "best_split": [2, 1], "split_score": 0.770041109944436}

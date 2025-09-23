@@ -1,0 +1,9 @@
+{"sent": "red", "ann_id": 533411, "best_split": [3, 3], "split_score": 0.8376492478155296}
+{"sent": "red shirt", "ann_id": 533411, "best_split": [3, 3], "split_score": 0.8376492478155296}
+{"sent": "person in red shirt", "ann_id": 533411, "best_split": [3, 3], "split_score": 0.8376492478155296}
+{"sent": "man", "ann_id": 502029, "best_split": [1, 5], "split_score": 0.5327876476111256}
+{"sent": "the man", "ann_id": 502029, "best_split": [1, 5], "split_score": 0.5327876476111256}
+{"sent": "man", "ann_id": 502029, "best_split": [1, 5], "split_score": 0.5327876476111256}
+{"sent": "woman", "ann_id": 2155794, "best_split": [1, 2], "split_score": 0.3616071428427293}
+{"sent": "the girl", "ann_id": 2155794, "best_split": [1, 2], "split_score": 0.3616071428427293}
+{"sent": "woman with long hair", "ann_id": 2155794, "best_split": [1, 5], "split_score": 0.6040677965589772}

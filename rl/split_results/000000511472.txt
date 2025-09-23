@@ -1,0 +1,9 @@
+{"sent": "dqrk jacket next to girl", "ann_id": 1261039, "best_split": [1, 2], "split_score": 0.3578517587827308}
+{"sent": "man in black jacket", "ann_id": 1261039, "best_split": [2, 3], "split_score": 0.40471888615130625}
+{"sent": "guy holding can", "ann_id": 1261039, "best_split": [1, 3], "split_score": 0.7042308824627352}
+{"sent": "woman", "ann_id": 1260160, "best_split": [1, 2], "split_score": 0.6180665609938567}
+{"sent": "petting sheep", "ann_id": 1260160, "best_split": [2, 1], "split_score": 0.29077117571926964}
+{"sent": "woman petting sheep", "ann_id": 1260160, "best_split": [2, 1], "split_score": 0.29077117571926964}
+{"sent": "old lady", "ann_id": 1237970, "best_split": [1, 5], "split_score": 0.8475059381617571}
+{"sent": "old woman", "ann_id": 1237970, "best_split": [1, 5], "split_score": 0.8475059381617571}
+{"sent": "older woman white hair", "ann_id": 1237970, "best_split": [1, 5], "split_score": 0.8475059381617571}

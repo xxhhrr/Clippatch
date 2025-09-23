@@ -1,0 +1,15 @@
+{"sent": "kernel", "ann_id": 1146650, "best_split": [3, 3], "split_score": 0.5472996215088923}
+{"sent": "unux kernel", "ann_id": 1146650, "best_split": [3, 3], "split_score": 0.5472996215088923}
+{"sent": "linux kernel", "ann_id": 1146650, "best_split": [3, 3], "split_score": 0.5472996215088923}
+{"sent": "rhcsa sign", "ann_id": 1145868, "best_split": [2, 3], "split_score": 0.4201135441524605}
+{"sent": "book rhcsa", "ann_id": 1145868, "best_split": [2, 3], "split_score": 0.4201135441524605}
+{"sent": "rhcsa race", "ann_id": 1145868, "best_split": [2, 3], "split_score": 0.4201135441524605}
+{"sent": "ubuntu linux", "ann_id": 1145433, "best_split": [3, 3], "split_score": 0.6350841056239127}
+{"sent": "practical guide to ubuntu linux", "ann_id": 1145433, "best_split": [3, 3], "split_score": 0.6350841056239127}
+{"sent": "ubuntu linux", "ann_id": 1145433, "best_split": [3, 3], "split_score": 0.6350841056239127}
+{"sent": "monitor at 3 o clock", "ann_id": 321324, "best_split": [1, 2], "split_score": 0.47448979589945434}
+{"sent": "screen with one keyboard", "ann_id": 321324, "best_split": [1, 2], "split_score": 0.47448979589945434}
+{"sent": "monitor at three o clock", "ann_id": 321324, "best_split": [1, 2], "split_score": 0.47448979589945434}
+{"sent": "the monitor behind the lamp", "ann_id": 321269, "best_split": [2, 1], "split_score": 0.433706694435541}
+{"sent": "monitor near book", "ann_id": 321269, "best_split": [1, 2], "split_score": 0.45410628017609805}
+{"sent": "anime screen", "ann_id": 321269, "best_split": [2, 2], "split_score": 0.6709967845227655}

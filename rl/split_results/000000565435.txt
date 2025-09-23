@@ -1,0 +1,4 @@
+{"sent": "black chair near doors", "ann_id": 384956, "best_split": [2, 3], "split_score": 0.4092047215441511}
+{"sent": "chair closest to lettuce boowl", "ann_id": 384956, "best_split": [2, 3], "split_score": 0.4092047215441511}
+{"sent": "chair at 10 o clock", "ann_id": 384956, "best_split": [1, 5], "split_score": 0.35825892853507924}
+{"sent": "chair that is nearest the salad and strawberries", "ann_id": 382893, "best_split": [2, 2], "split_score": 0.2520727040615376}

@@ -1,0 +1,9 @@
+{"sent": "man in blue jacket", "ann_id": 507151, "best_split": [1, 3], "split_score": 0.7905982905526335}
+{"sent": "man in blue", "ann_id": 507151, "best_split": [1, 3], "split_score": 0.7905982905526335}
+{"sent": "blue jacket", "ann_id": 507151, "best_split": [1, 3], "split_score": 0.7905982905526335}
+{"sent": "bald cuz the spiders ate his hair", "ann_id": 475982, "best_split": [1, 3], "split_score": 0.9132610508213237}
+{"sent": "bald guy", "ann_id": 475982, "best_split": [1, 3], "split_score": 0.9132610508213237}
+{"sent": "baldy", "ann_id": 475982, "best_split": [1, 3], "split_score": 0.9132610508213237}
+{"sent": "the woman", "ann_id": 443845, "best_split": [1, 3], "split_score": 0.5484285127080717}
+{"sent": "lady", "ann_id": 443845, "best_split": [1, 3], "split_score": 0.5484285127080717}
+{"sent": "woman", "ann_id": 443845, "best_split": [1, 3], "split_score": 0.5484285127080717}

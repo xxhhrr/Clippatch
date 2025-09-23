@@ -1,0 +1,6 @@
+{"sent": "white shirt beside stripes shirt", "ann_id": 1233770, "best_split": [2, 3], "split_score": 0.5703312529320294}
+{"sent": "white shirt", "ann_id": 1233770, "best_split": [2, 3], "split_score": 0.5703312529320294}
+{"sent": "man in white", "ann_id": 1233770, "best_split": [2, 3], "split_score": 0.5703312529320294}
+{"sent": "blue and white striped shirt", "ann_id": 1207356, "best_split": [2, 2], "split_score": 0.44786352037245986}
+{"sent": "man in striped shirt", "ann_id": 1207356, "best_split": [2, 2], "split_score": 0.44786352037245986}
+{"sent": "striped blue shirt", "ann_id": 1207356, "best_split": [2, 2], "split_score": 0.44786352037245986}

@@ -1,0 +1,6 @@
+{"sent": "man without hat", "ann_id": 235140, "best_split": [2, 1], "split_score": 0.27520972917416786}
+{"sent": "guy without hat", "ann_id": 235140, "best_split": [2, 1], "split_score": 0.27520972917416786}
+{"sent": "holding puppy", "ann_id": 235140, "best_split": [1, 2], "split_score": 0.8055644132331966}
+{"sent": "cap", "ann_id": 202179, "best_split": [1, 2], "split_score": 0.5754555808451218}
+{"sent": "person with the hat", "ann_id": 202179, "best_split": [1, 2], "split_score": 0.5754555808451218}
+{"sent": "hat", "ann_id": 202179, "best_split": [1, 2], "split_score": 0.5754555808451218}

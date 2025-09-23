@@ -1,0 +1,12 @@
+{"sent": "white shirt with umbrella", "ann_id": 511718, "best_split": [1, 5], "split_score": 0.6034951455724762}
+{"sent": "white formal shirt closest to camera", "ann_id": 511718, "best_split": [1, 5], "split_score": 0.6034951455724762}
+{"sent": "white shirt under umbrella", "ann_id": 511718, "best_split": [1, 5], "split_score": 0.6034951455724762}
+{"sent": "person with arms crossed", "ann_id": 464238, "best_split": [2, 2], "split_score": 0.262937265086518}
+{"sent": "woman arms crossed", "ann_id": 464238, "best_split": [1, 5], "split_score": 0.500202922027171}
+{"sent": "woman with hoodie and no umbrella", "ann_id": 464238, "best_split": [3, 1], "split_score": 0.13249078461650918}
+{"sent": "black umbrella not person holding", "ann_id": 1426402, "best_split": [2, 2], "split_score": 0.581951530565852}
+{"sent": "umbrella closest", "ann_id": 1426402, "best_split": [2, 2], "split_score": 0.581951530565852}
+{"sent": "umbrella held by girl with white shirt", "ann_id": 1426402, "best_split": [2, 2], "split_score": 0.581951530565852}
+{"sent": "umbrella over suv", "ann_id": 282533, "best_split": [3, 1], "split_score": 0.20615950355055393}
+{"sent": "umbrella over trash bags", "ann_id": 282533, "best_split": [3, 1], "split_score": 0.20615950355055393}
+{"sent": "black umbrella 3 o clock", "ann_id": 282533, "best_split": [3, 1], "split_score": 0.20615950355055393}

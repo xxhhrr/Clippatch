@@ -1,0 +1,9 @@
+{"sent": "guy", "ann_id": 198455, "best_split": [1, 5], "split_score": 0.47595484765146473}
+{"sent": "male", "ann_id": 198455, "best_split": [1, 5], "split_score": 0.47595484765146473}
+{"sent": "man", "ann_id": 198455, "best_split": [1, 5], "split_score": 0.47595484765146473}
+{"sent": "dudes bike", "ann_id": 150961, "best_split": [1, 5], "split_score": 0.5359477123784947}
+{"sent": "the mans bike", "ann_id": 150961, "best_split": [1, 5], "split_score": 0.5359477123784947}
+{"sent": "bike the man is on", "ann_id": 150961, "best_split": [1, 5], "split_score": 0.5359477123784947}
+{"sent": "bike with name plate", "ann_id": 149450, "best_split": [1, 2], "split_score": 0.5746970663036234}
+{"sent": "ladys cycle", "ann_id": 149450, "best_split": [1, 2], "split_score": 0.5746970663036234}
+{"sent": "girls cycle", "ann_id": 149450, "best_split": [1, 2], "split_score": 0.5746970663036234}

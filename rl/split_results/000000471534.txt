@@ -1,0 +1,6 @@
+{"sent": "smaller zebra", "ann_id": 592987, "best_split": [3, 3], "split_score": 0.5406143343787347}
+{"sent": "back zebra", "ann_id": 592987, "best_split": [3, 3], "split_score": 0.5406143343787347}
+{"sent": "looking at us", "ann_id": 592987, "best_split": [5, 1], "split_score": 0.1869688385103604}
+{"sent": "zebra you see the most of but see no ground", "ann_id": 590986, "best_split": [3, 2], "split_score": 0.3698630136652971}
+{"sent": "zebra closes to us", "ann_id": 590986, "best_split": [3, 2], "split_score": 0.3698630136652971}
+{"sent": "sideways on zebra", "ann_id": 590986, "best_split": [3, 2], "split_score": 0.3698630136652971}

@@ -1,0 +1,5 @@
+{"sent": "banana by brown nut", "ann_id": 1905167, "best_split": [3, 2], "split_score": 0.4492976891301044}
+{"sent": "yellow on rightest side", "ann_id": 1905167, "best_split": [3, 2], "split_score": 0.4492976891301044}
+{"sent": "banana on closest side", "ann_id": 1904848, "best_split": [1, 3], "split_score": 0.4397680028517288}
+{"sent": "squash closest to us fully visible", "ann_id": 1904848, "best_split": [1, 3], "split_score": 0.4397680028517288}
+{"sent": "bigger banana", "ann_id": 1904848, "best_split": [1, 3], "split_score": 0.4397680028517288}

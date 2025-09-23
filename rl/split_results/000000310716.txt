@@ -1,0 +1,6 @@
+{"sent": "zebra with head down", "ann_id": 590942, "best_split": [3, 1], "split_score": 0.33766233764540626}
+{"sent": "zebra we can see whole thing", "ann_id": 590942, "best_split": [3, 1], "split_score": 0.33766233764540626}
+{"sent": "zebra looking down", "ann_id": 590942, "best_split": [3, 1], "split_score": 0.33766233764540626}
+{"sent": "in behind zebra", "ann_id": 588866, "best_split": [3, 2], "split_score": 0.490066225130286}
+{"sent": "tail in the air", "ann_id": 588866, "best_split": [3, 2], "split_score": 0.490066225130286}
+{"sent": "zebra with head behind other zebra", "ann_id": 588866, "best_split": [3, 2], "split_score": 0.490066225130286}

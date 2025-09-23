@@ -1,0 +1,5 @@
+{"sent": "table", "ann_id": 1958558, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "table cloth", "ann_id": 1958558, "best_split": [2, 1], "split_score": 0.5079313430304252}
+{"sent": "white part of the table by coffee and blue plates", "ann_id": 414802, "best_split": [1, 2], "split_score": 0.47066326528736196}
+{"sent": "tablecloth between the two blue plates", "ann_id": 414802, "best_split": [1, 2], "split_score": 0.47066326528736196}
+{"sent": "under oj", "ann_id": 414802, "best_split": [1, 2], "split_score": 0.47066326528736196}

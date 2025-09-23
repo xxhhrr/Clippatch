@@ -1,0 +1,10 @@
+{"sent": "giraffe in back", "ann_id": 597643, "best_split": [3, 1], "split_score": 0.4764327159813833}
+{"sent": "furthest away", "ann_id": 597643, "best_split": [3, 1], "split_score": 0.4764327159813833}
+{"sent": "furthest giraffe", "ann_id": 597643, "best_split": [3, 1], "split_score": 0.4764327159813833}
+{"sent": "baby giraffe", "ann_id": 596853, "best_split": [2, 2], "split_score": 0.4611005692326197}
+{"sent": "baby one", "ann_id": 596853, "best_split": [2, 3], "split_score": 0.534939758995863}
+{"sent": "baby", "ann_id": 596853, "best_split": [2, 3], "split_score": 0.534939758995863}
+{"sent": "adult kissing baby", "ann_id": 594498, "best_split": [2, 1], "split_score": 0.5550731828158313}
+{"sent": "head down", "ann_id": 594498, "best_split": [3, 1], "split_score": 0.4665727368627484}
+{"sent": "giraffe in the foreground with neck bent", "ann_id": 594498, "best_split": [3, 1], "split_score": 0.4665727368627484}
+{"sent": "giraffe leaning over", "ann_id": 594498, "best_split": [3, 1], "split_score": 0.4665727368627484}

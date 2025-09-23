@@ -1,0 +1,6 @@
+{"sent": "bed nearest window", "ann_id": 317366, "best_split": [3, 2], "split_score": 0.4058544303396109}
+{"sent": "warmest bed because of window", "ann_id": 317366, "best_split": [3, 2], "split_score": 0.4058544303396109}
+{"sent": "mattress closest to window", "ann_id": 317366, "best_split": [3, 2], "split_score": 0.4058544303396109}
+{"sent": "side near night stand", "ann_id": 317090, "best_split": [2, 3], "split_score": 0.6073177757987787}
+{"sent": "bed furthest from window", "ann_id": 317090, "best_split": [2, 3], "split_score": 0.6073177757987787}
+{"sent": "bed closer to night stand", "ann_id": 317090, "best_split": [2, 3], "split_score": 0.6073177757987787}

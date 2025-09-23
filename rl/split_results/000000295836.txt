@@ -1,0 +1,6 @@
+{"sent": "fries", "ann_id": 1536888, "best_split": [1, 2], "split_score": 0.5485254691505186}
+{"sent": "burger half", "ann_id": 1536888, "best_split": [1, 3], "split_score": 0.43570993295110794}
+{"sent": "fries", "ann_id": 1536888, "best_split": [1, 2], "split_score": 0.5485254691505186}
+{"sent": "no fries", "ann_id": 713645, "best_split": [3, 1], "split_score": 0.32297653514009866}
+{"sent": "burger bun in lid", "ann_id": 713645, "best_split": [1, 2], "split_score": 0.5595902423246337}
+{"sent": "sandwhich bun with no meat", "ann_id": 713645, "best_split": [1, 2], "split_score": 0.5595902423246337}

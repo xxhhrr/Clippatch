@@ -1,0 +1,15 @@
+{"sent": "red tie", "ann_id": 1710821, "best_split": [1, 3], "split_score": 0.43584379356266967}
+{"sent": "guy in red tie", "ann_id": 1710821, "best_split": [1, 3], "split_score": 0.43584379356266967}
+{"sent": "man with red tie", "ann_id": 1710821, "best_split": [1, 3], "split_score": 0.43584379356266967}
+{"sent": "colorful striped scarf", "ann_id": 1703208, "best_split": [1, 5], "split_score": 0.7255496587636894}
+{"sent": "woman wearing red green white scar", "ann_id": 1703208, "best_split": [1, 5], "split_score": 0.7255496587636894}
+{"sent": "stripes on the person in half view", "ann_id": 1703208, "best_split": [1, 5], "split_score": 0.7255496587636894}
+{"sent": "man with out scraf or tie facing", "ann_id": 1687603, "best_split": [2, 1], "split_score": 0.21679687499243872}
+{"sent": "glasses behind guy with hand up", "ann_id": 1687603, "best_split": [1, 5], "split_score": 0.64402810299063}
+{"sent": "young man with face obscured by mans arm", "ann_id": 1687603, "best_split": [1, 2], "split_score": 0.3906249999844298}
+{"sent": "man with back of head visible next to stripes", "ann_id": 1276935, "best_split": [3, 1], "split_score": 0.2363422423837476}
+{"sent": "the black hair not visable face", "ann_id": 1276935, "best_split": [2, 3], "split_score": 0.37390286714947646}
+{"sent": "back of head with green coat and black stripe", "ann_id": 1276935, "best_split": [1, 2], "split_score": 0.5119579081428588}
+{"sent": "man hand up", "ann_id": 1271311, "best_split": [1, 2], "split_score": 0.6574118950128985}
+{"sent": "man with scarf holding bar", "ann_id": 1271311, "best_split": [1, 3], "split_score": 0.4073650339503981}
+{"sent": "man with plaid scarf", "ann_id": 1271311, "best_split": [1, 3], "split_score": 0.4073650339503981}

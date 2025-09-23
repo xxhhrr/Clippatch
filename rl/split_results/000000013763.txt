@@ -1,0 +1,6 @@
+{"sent": "tail of elephant", "ann_id": 583857, "best_split": [1, 2], "split_score": 0.9082031249637993}
+{"sent": "the tail", "ann_id": 583857, "best_split": [1, 2], "split_score": 0.9082031249637993}
+{"sent": "leading elephant", "ann_id": 583857, "best_split": [1, 2], "split_score": 0.9082031249637993}
+{"sent": "elephant trunk", "ann_id": 580524, "best_split": [2, 1], "split_score": 0.3148469493886705}
+{"sent": "trunk of elephant", "ann_id": 580524, "best_split": [2, 1], "split_score": 0.3148469493886705}
+{"sent": "trunk", "ann_id": 580524, "best_split": [2, 1], "split_score": 0.3148469493886705}

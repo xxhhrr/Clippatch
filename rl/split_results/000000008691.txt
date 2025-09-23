@@ -1,0 +1,8 @@
+{"sent": "green fruit below white", "ann_id": 1551663, "best_split": [3, 3], "split_score": 0.5176943284627269}
+{"sent": "green apples", "ann_id": 1551663, "best_split": [3, 3], "split_score": 0.5176943284627269}
+{"sent": "red apples", "ann_id": 1551505, "best_split": [5, 1], "split_score": 0.2521723709654041}
+{"sent": "dark red apples next to green", "ann_id": 1551505, "best_split": [5, 1], "split_score": 0.2521723709654041}
+{"sent": "all red apples at 11 o clock", "ann_id": 1551505, "best_split": [5, 1], "split_score": 0.2521723709654041}
+{"sent": "pink apples", "ann_id": 1551339, "best_split": [3, 2], "split_score": 0.7157991708065639}
+{"sent": "soft pink apples", "ann_id": 1551339, "best_split": [3, 2], "split_score": 0.7157991708065639}
+{"sent": "lighter red apples at 1 o clock", "ann_id": 1551339, "best_split": [3, 2], "split_score": 0.7157991708065639}

@@ -1,0 +1,12 @@
+{"sent": "laying down", "ann_id": 1818629, "best_split": [2, 3], "split_score": 0.7592389679490746}
+{"sent": "brown goat laying", "ann_id": 1818629, "best_split": [2, 3], "split_score": 0.7592389679490746}
+{"sent": "brown goat", "ann_id": 1818629, "best_split": [2, 3], "split_score": 0.7592389679490746}
+{"sent": "sheep nearest white rock", "ann_id": 65303, "best_split": [3, 1], "split_score": 0.2517227401556707}
+{"sent": "sheep pointing toward the big rock", "ann_id": 65303, "best_split": [3, 1], "split_score": 0.2517227401556707}
+{"sent": "white lamb closest to edge", "ann_id": 65303, "best_split": [3, 1], "split_score": 0.2517227401556707}
+{"sent": "white goat", "ann_id": 62170, "best_split": [3, 3], "split_score": 0.5633852690220634}
+{"sent": "sheep with purple collar", "ann_id": 62170, "best_split": [3, 3], "split_score": 0.5633852690220634}
+{"sent": "blue belt sheep", "ann_id": 62170, "best_split": [3, 2], "split_score": 0.3761229313976214}
+{"sent": "sheep facing our direction", "ann_id": 61676, "best_split": [3, 3], "split_score": 0.8004148761593695}
+{"sent": "sheep facing the goat", "ann_id": 61676, "best_split": [2, 3], "split_score": 0.3399301513083254}
+{"sent": "sheep looking at brown sheep", "ann_id": 61676, "best_split": [3, 3], "split_score": 0.8004148761593695}

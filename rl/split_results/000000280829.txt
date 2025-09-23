@@ -1,0 +1,6 @@
+{"sent": "chair that is empty and closest to the people at the same table", "ann_id": 387865, "best_split": [3, 3], "split_score": 0.33800978787308156}
+{"sent": "empty chair next to lady with hair in bun", "ann_id": 387865, "best_split": [2, 3], "split_score": 0.3140062037325213}
+{"sent": "empty chair partially seen beside girl", "ann_id": 387865, "best_split": [3, 3], "split_score": 0.33800978787308156}
+{"sent": "chair girl is sititng on", "ann_id": 377694, "best_split": [2, 3], "split_score": 0.4591951861170369}
+{"sent": "chair girl is sitting on", "ann_id": 377694, "best_split": [2, 3], "split_score": 0.4591951861170369}
+{"sent": "chair that woman is sitting on", "ann_id": 377694, "best_split": [2, 3], "split_score": 0.4591951861170369}

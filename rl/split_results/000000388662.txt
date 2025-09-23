@@ -1,0 +1,5 @@
+{"sent": "cap", "ann_id": 463329, "best_split": [1, 2], "split_score": 0.8297455968376583}
+{"sent": "girl in hat", "ann_id": 463329, "best_split": [1, 2], "split_score": 0.8297455968376583}
+{"sent": "woman with hat", "ann_id": 463329, "best_split": [1, 2], "split_score": 0.8297455968376583}
+{"sent": "teeth girl squinting", "ann_id": 430533, "best_split": [1, 2], "split_score": 0.6503807106369719}
+{"sent": "woman without hat", "ann_id": 430533, "best_split": [2, 1], "split_score": 0.27771409856782614}

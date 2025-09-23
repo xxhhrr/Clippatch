@@ -1,0 +1,6 @@
+{"sent": "horse with just butt showing", "ann_id": 60770, "best_split": [3, 2], "split_score": 0.32872618599843795}
+{"sent": "horse that you can barely see", "ann_id": 60770, "best_split": [3, 2], "split_score": 0.32872618599843795}
+{"sent": "horse whos face cant be seen", "ann_id": 60770, "best_split": [3, 2], "split_score": 0.32872618599843795}
+{"sent": "sideways horse", "ann_id": 57723, "best_split": [1, 2], "split_score": 0.40990385260505935}
+{"sent": "horse closest on screen whose head you can see", "ann_id": 57723, "best_split": [1, 2], "split_score": 0.40990385260505935}
+{"sent": "closest horse", "ann_id": 57723, "best_split": [1, 3], "split_score": 0.4023157276334138}

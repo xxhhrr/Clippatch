@@ -1,0 +1,6 @@
+{"sent": "the giraffe that has its head held highest proud and free", "ann_id": 595610, "best_split": [1, 2], "split_score": 0.58035714283401}
+{"sent": "taller giraffe", "ann_id": 595610, "best_split": [1, 2], "split_score": 0.58035714283401}
+{"sent": "tallest giraffe", "ann_id": 595610, "best_split": [1, 2], "split_score": 0.58035714283401}
+{"sent": "tall giraffe bent over", "ann_id": 594546, "best_split": [1, 3], "split_score": 0.595542715611043}
+{"sent": "bending giraffe", "ann_id": 594546, "best_split": [1, 3], "split_score": 0.595542715611043}
+{"sent": "center positioned giraffe", "ann_id": 594546, "best_split": [1, 5], "split_score": 0.3957564575417576}

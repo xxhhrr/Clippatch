@@ -1,0 +1,6 @@
+{"sent": "pizza in box marked susan", "ann_id": 1077299, "best_split": [2, 2], "split_score": 0.40557939911054725}
+{"sent": "pizza in box with slice missing", "ann_id": 1077299, "best_split": [2, 2], "split_score": 0.40557939911054725}
+{"sent": "partially eaten in box", "ann_id": 1077299, "best_split": [2, 3], "split_score": 0.24504950492883226}
+{"sent": "slices of pizza on a plat", "ann_id": 1073735, "best_split": [2, 3], "split_score": 0.5029857601627256}
+{"sent": "pizza on paper plate", "ann_id": 1073735, "best_split": [2, 3], "split_score": 0.5029857601627256}
+{"sent": "pizza on white plate", "ann_id": 1073735, "best_split": [2, 3], "split_score": 0.5029857601627256}

@@ -1,0 +1,5 @@
+{"sent": "fluffy part of brocoli closest to orange stuff", "ann_id": 1563009, "best_split": [2, 1], "split_score": 0.19252232142089754}
+{"sent": "greens above brocolli", "ann_id": 1563009, "best_split": [2, 3], "split_score": 0.3504220712013154}
+{"sent": "furtherest bunch of broccoli", "ann_id": 1563009, "best_split": [2, 2], "split_score": 0.20401940400526544}
+{"sent": "nearer broccli", "ann_id": 1562934, "best_split": [5, 1], "split_score": 0.3363309352301946}
+{"sent": "large piece of broccoli closest to fork and white stuff under it", "ann_id": 1562934, "best_split": [3, 1], "split_score": 0.275794938338936}

@@ -1,0 +1,5 @@
+{"sent": "orangetomato not directly above peanut butter but next to that one", "ann_id": 1053889, "best_split": [3, 1], "split_score": 0.2706627360917861}
+{"sent": "really blurry orange can not see the stem", "ann_id": 1053889, "best_split": [3, 1], "split_score": 0.2706627360917861}
+{"sent": "orange behind spoon in btween one", "ann_id": 1053889, "best_split": [3, 1], "split_score": 0.2706627360917861}
+{"sent": "closest orange", "ann_id": 1053584, "best_split": [2, 3], "split_score": 0.841087741572011}
+{"sent": "red fruit at 3 o clock", "ann_id": 1053584, "best_split": [2, 3], "split_score": 0.841087741572011}

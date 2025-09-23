@@ -1,0 +1,5 @@
+{"sent": "sandwich 3 o clock", "ann_id": 312647, "best_split": [1, 5], "split_score": 0.4618973560981826}
+{"sent": "sammich nearest our score counter", "ann_id": 312647, "best_split": [1, 5], "split_score": 0.4618973560981826}
+{"sent": "click on darker sandwithc", "ann_id": 309520, "best_split": [3, 2], "split_score": 0.4412880840896359}
+{"sent": "sandwich away from coffee", "ann_id": 309520, "best_split": [3, 1], "split_score": 0.2324253326347767}
+{"sent": "slice which does not have two fries in triangle on it", "ann_id": 309520, "best_split": [3, 2], "split_score": 0.4412880840896359}

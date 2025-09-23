@@ -1,0 +1,13 @@
+{"sent": "pizzas folded over on the half plate on the side", "ann_id": 1532886, "best_split": [5, 1], "split_score": 0.1273972602630653}
+{"sent": "plate with bread edge cut off", "ann_id": 1532886, "best_split": [1, 5], "split_score": 0.29964469006122735}
+{"sent": "bread like things in the small bowl", "ann_id": 1532886, "best_split": [1, 5], "split_score": 0.29964469006122735}
+{"sent": "lighter cheese pizza", "ann_id": 1074123, "best_split": [1, 2], "split_score": 0.22730649234039124}
+{"sent": "the lighter colored pizza", "ann_id": 1074123, "best_split": [1, 2], "split_score": 0.22730649234039124}
+{"sent": "pizza lighter", "ann_id": 1074123, "best_split": [1, 2], "split_score": 0.22730649234039124}
+{"sent": "dish with spoon in it", "ann_id": 711838, "best_split": [1, 3], "split_score": 0.28625723936497}
+{"sent": "bowl of chili", "ann_id": 711838, "best_split": [3, 3], "split_score": 0.8419535049843299}
+{"sent": "the white bowl", "ann_id": 711838, "best_split": [1, 3], "split_score": 0.28625723936497}
+{"sent": "bowl of chili like substance", "ann_id": 711838, "best_split": [3, 3], "split_score": 0.8419535049843299}
+{"sent": "big bowl", "ann_id": 711646, "best_split": [2, 3], "split_score": 0.8003137064671436}
+{"sent": "brown bowl", "ann_id": 711646, "best_split": [2, 3], "split_score": 0.8003137064671436}
+{"sent": "large bowl", "ann_id": 711646, "best_split": [2, 3], "split_score": 0.8003137064671436}

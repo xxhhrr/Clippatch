@@ -1,0 +1,9 @@
+{"sent": "the man in lighter jacket and pants away from table", "ann_id": 232464, "best_split": [2, 1], "split_score": 0.19612782495335657}
+{"sent": "man near window", "ann_id": 232464, "best_split": [1, 2], "split_score": 0.32485650508909214}
+{"sent": "the taller of the two men", "ann_id": 232464, "best_split": [1, 2], "split_score": 0.32485650508909214}
+{"sent": "person almost too dark to make details", "ann_id": 231524, "best_split": [1, 3], "split_score": 0.4220559845305227}
+{"sent": "guy talking to another", "ann_id": 231524, "best_split": [1, 5], "split_score": 0.6308913190137528}
+{"sent": "man standing to next to table not podium", "ann_id": 231524, "best_split": [1, 5], "split_score": 0.6308913190137528}
+{"sent": "man sitting with his back toward us", "ann_id": 215089, "best_split": [2, 3], "split_score": 0.6877413126583324}
+{"sent": "man sitting in black jacket", "ann_id": 215089, "best_split": [2, 3], "split_score": 0.6877413126583324}
+{"sent": "man sitting", "ann_id": 215089, "best_split": [2, 3], "split_score": 0.6877413126583324}

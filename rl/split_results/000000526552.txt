@@ -1,0 +1,15 @@
+{"sent": "person in striped shirt", "ann_id": 1740197, "best_split": [2, 1], "split_score": 0.37607621171970357}
+{"sent": "darker arm reaching for food in plate", "ann_id": 1740197, "best_split": [1, 2], "split_score": 0.37607621171970357}
+{"sent": "purple striped shirt", "ann_id": 1740197, "best_split": [2, 1], "split_score": 0.37607621171970357}
+{"sent": "closest pizza", "ann_id": 1570700, "best_split": [2, 2], "split_score": 0.7744227352972327}
+{"sent": "pizza nearest you", "ann_id": 1570700, "best_split": [2, 2], "split_score": 0.7744227352972327}
+{"sent": "food", "ann_id": 1570700, "best_split": [2, 2], "split_score": 0.7744227352972327}
+{"sent": "skinny pizza", "ann_id": 1923025, "best_split": [1, 3], "split_score": 0.2901181525085866}
+{"sent": "boys arm is reaching over this pizza", "ann_id": 1923025, "best_split": [1, 3], "split_score": 0.2901181525085866}
+{"sent": "middle pizza", "ann_id": 1923025, "best_split": [1, 3], "split_score": 0.2901181525085866}
+{"sent": "light blue blouse", "ann_id": 484178, "best_split": [2, 1], "split_score": 0.45208864794116355}
+{"sent": "hands with red bracelet", "ann_id": 484178, "best_split": [2, 1], "split_score": 0.45208864794116355}
+{"sent": "short arm with light blue shirt", "ann_id": 484178, "best_split": [2, 1], "split_score": 0.45208864794116355}
+{"sent": "woman with blue and white shirt", "ann_id": 461432, "best_split": [2, 1], "split_score": 0.7013880045619066}
+{"sent": "lady reaching", "ann_id": 461432, "best_split": [2, 1], "split_score": 0.7013880045619066}
+{"sent": "white t shirt long hand", "ann_id": 461432, "best_split": [2, 1], "split_score": 0.7013880045619066}

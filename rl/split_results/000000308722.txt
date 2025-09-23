@@ -1,0 +1,6 @@
+{"sent": "man in black shirt", "ann_id": 527313, "best_split": [1, 3], "split_score": 0.8699802117989768}
+{"sent": "man in black shirt", "ann_id": 527313, "best_split": [1, 3], "split_score": 0.8699802117989768}
+{"sent": "man", "ann_id": 527313, "best_split": [1, 3], "split_score": 0.8699802117989768}
+{"sent": "woman holding frisbee", "ann_id": 455752, "best_split": [3, 1], "split_score": 0.29133858266692425}
+{"sent": "red shirt", "ann_id": 455752, "best_split": [1, 3], "split_score": 0.5688418175363494}
+{"sent": "pink shirt", "ann_id": 455752, "best_split": [1, 3], "split_score": 0.5688418175363494}

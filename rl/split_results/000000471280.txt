@@ -1,0 +1,6 @@
+{"sent": "closest train", "ann_id": 172030, "best_split": [3, 1], "split_score": 0.5070801218629198}
+{"sent": "train with the two lights on", "ann_id": 172030, "best_split": [3, 1], "split_score": 0.5070801218629198}
+{"sent": "train coming closer to us", "ann_id": 172030, "best_split": [3, 1], "split_score": 0.5070801218629198}
+{"sent": "slower train", "ann_id": 170102, "best_split": [5, 1], "split_score": 0.17867231636840816}
+{"sent": "orange short tarin", "ann_id": 170102, "best_split": [5, 1], "split_score": 0.17867231636840816}
+{"sent": "center most train", "ann_id": 170102, "best_split": [3, 2], "split_score": 0.3261309925358844}

@@ -1,0 +1,9 @@
+{"sent": "red shirt", "ann_id": 2156472, "best_split": [1, 5], "split_score": 0.339691558407093}
+{"sent": "red scarf", "ann_id": 2156472, "best_split": [1, 5], "split_score": 0.339691558407093}
+{"sent": "lady with red scarf", "ann_id": 2156472, "best_split": [1, 5], "split_score": 0.339691558407093}
+{"sent": "black coat white pants", "ann_id": 1726482, "best_split": [1, 5], "split_score": 0.25468384072811273}
+{"sent": "guy with white pants", "ann_id": 1726482, "best_split": [1, 5], "split_score": 0.25468384072811273}
+{"sent": "black shirt white pants", "ann_id": 1726482, "best_split": [1, 5], "split_score": 0.25468384072811273}
+{"sent": "light blue coat", "ann_id": 469716, "best_split": [2, 1], "split_score": 0.562460140283703}
+{"sent": "sitting down", "ann_id": 469716, "best_split": [2, 2], "split_score": 0.6095042569525086}
+{"sent": "skier sitting down", "ann_id": 469716, "best_split": [2, 2], "split_score": 0.6095042569525086}

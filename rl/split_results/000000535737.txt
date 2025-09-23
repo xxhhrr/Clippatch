@@ -1,0 +1,6 @@
+{"sent": "man in black shirt blue jeans", "ann_id": 1271930, "best_split": [1, 5], "split_score": 0.5255681817648571}
+{"sent": "black shirt", "ann_id": 1271930, "best_split": [1, 5], "split_score": 0.5255681817648571}
+{"sent": "blue jeans", "ann_id": 1271930, "best_split": [1, 5], "split_score": 0.5255681817648571}
+{"sent": "man with sign", "ann_id": 1721694, "best_split": [2, 3], "split_score": 0.4837027378949802}
+{"sent": "man with sign", "ann_id": 1721694, "best_split": [2, 3], "split_score": 0.4837027378949802}
+{"sent": "vender", "ann_id": 1721694, "best_split": [1, 5], "split_score": 0.4725681588293026}

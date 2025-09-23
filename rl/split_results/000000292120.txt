@@ -1,0 +1,9 @@
+{"sent": "yellow coat", "ann_id": 236823, "best_split": [1, 5], "split_score": 0.5415990259190747}
+{"sent": "yellow shirt man", "ann_id": 236823, "best_split": [1, 5], "split_score": 0.5415990259190747}
+{"sent": "yellow man", "ann_id": 236823, "best_split": [1, 5], "split_score": 0.5415990259190747}
+{"sent": "lady in pink", "ann_id": 213694, "best_split": [1, 5], "split_score": 0.6276150627018243}
+{"sent": "pink shirt", "ann_id": 213694, "best_split": [1, 2], "split_score": 0.28938137753948573}
+{"sent": "pink jacket", "ann_id": 213694, "best_split": [1, 5], "split_score": 0.6276150627018243}
+{"sent": "closest man cutting ribbon", "ann_id": 204614, "best_split": [1, 5], "split_score": 0.6656826567651584}
+{"sent": "cutting the ribbon", "ann_id": 204614, "best_split": [1, 5], "split_score": 0.6656826567651584}
+{"sent": "black man in suit", "ann_id": 204614, "best_split": [1, 5], "split_score": 0.6656826567651584}

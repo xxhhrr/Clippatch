@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 496555, "best_split": [2, 1], "split_score": 0.08562532433517588}
+{"sent": "red uniform", "ann_id": 496555, "best_split": [3, 3], "split_score": 0.297746781075946}
+{"sent": "player in red shirt", "ann_id": 496555, "best_split": [3, 3], "split_score": 0.297746781075946}
+{"sent": "the one throwing the ball", "ann_id": 467729, "best_split": [3, 2], "split_score": 0.3060886829660747}
+{"sent": "black shirt", "ann_id": 467729, "best_split": [1, 5], "split_score": 0.5488131357711215}
+{"sent": "black helmet close to bat", "ann_id": 467729, "best_split": [1, 5], "split_score": 0.5488131357711215}

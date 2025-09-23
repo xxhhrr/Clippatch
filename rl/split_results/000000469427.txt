@@ -1,0 +1,12 @@
+{"sent": "dark pants", "ann_id": 220076, "best_split": [2, 2], "split_score": 0.3283443912723079}
+{"sent": "black pants", "ann_id": 220076, "best_split": [2, 2], "split_score": 0.3283443912723079}
+{"sent": "black pants white shirt", "ann_id": 220076, "best_split": [2, 2], "split_score": 0.3283443912723079}
+{"sent": "the woman eating", "ann_id": 1735567, "best_split": [3, 3], "split_score": 0.7080371786894427}
+{"sent": "woman", "ann_id": 1735567, "best_split": [3, 3], "split_score": 0.7080371786894427}
+{"sent": "woman", "ann_id": 1735567, "best_split": [3, 3], "split_score": 0.7080371786894427}
+{"sent": "clear wine bottle", "ann_id": 80745, "best_split": [2, 1], "split_score": 0.1560130010773869}
+{"sent": "tallest clear bottle of wine near shake cheese", "ann_id": 80745, "best_split": [5, 1], "split_score": 0.12128637058795663}
+{"sent": "bottle of wine", "ann_id": 80320, "best_split": [2, 3], "split_score": 0.27284337625997407}
+{"sent": "bottle of wine", "ann_id": 80320, "best_split": [2, 3], "split_score": 0.27284337625997407}
+{"sent": "green bottle of wine", "ann_id": 80320, "best_split": [2, 3], "split_score": 0.27284337625997407}
+{"sent": "green bottle with white label", "ann_id": 80320, "best_split": [2, 3], "split_score": 0.27284337625997407}

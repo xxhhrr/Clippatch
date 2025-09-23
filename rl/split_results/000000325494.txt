@@ -1,0 +1,6 @@
+{"sent": "man with baseball glove", "ann_id": 2204764, "best_split": [1, 5], "split_score": 0.5313351498120538}
+{"sent": "man with blue shirt and glove", "ann_id": 2204764, "best_split": [1, 5], "split_score": 0.5313351498120538}
+{"sent": "gray shirt", "ann_id": 2204764, "best_split": [1, 5], "split_score": 0.5313351498120538}
+{"sent": "person swinging bat", "ann_id": 435499, "best_split": [1, 5], "split_score": 0.4813841064810971}
+{"sent": "person batting", "ann_id": 435499, "best_split": [3, 2], "split_score": 0.3785658544716409}
+{"sent": "batter", "ann_id": 435499, "best_split": [1, 2], "split_score": 0.3033721300899485}

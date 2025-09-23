@@ -1,0 +1,9 @@
+{"sent": "the man with curly hair", "ann_id": 225628, "best_split": [1, 2], "split_score": 0.6935586734417427}
+{"sent": "the curly haired boy facing away from the camera", "ann_id": 225628, "best_split": [1, 2], "split_score": 0.6935586734417427}
+{"sent": "guy with curly hair", "ann_id": 225628, "best_split": [1, 2], "split_score": 0.6935586734417427}
+{"sent": "brown shirt", "ann_id": 224712, "best_split": [1, 3], "split_score": 0.4273508954254148}
+{"sent": "person farthest away", "ann_id": 224712, "best_split": [1, 5], "split_score": 0.2715797777745329}
+{"sent": "medium brown shirt", "ann_id": 224712, "best_split": [1, 3], "split_score": 0.4273508954254148}
+{"sent": "guy with purple strap", "ann_id": 187868, "best_split": [1, 2], "split_score": 0.6314572703829936}
+{"sent": "gray shirt purple strap", "ann_id": 187868, "best_split": [1, 2], "split_score": 0.6314572703829936}
+{"sent": "purple guitar straop", "ann_id": 187868, "best_split": [1, 3], "split_score": 0.44400890866619114}

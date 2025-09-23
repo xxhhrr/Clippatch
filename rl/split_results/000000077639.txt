@@ -1,0 +1,5 @@
+{"sent": "the chair his strap touches", "ann_id": 290225, "best_split": [2, 1], "split_score": 0.6718749999732193}
+{"sent": "recliner chair touching light pole", "ann_id": 290225, "best_split": [2, 1], "split_score": 0.6718749999732193}
+{"sent": "chair behind pole", "ann_id": 102900, "best_split": [2, 2], "split_score": 0.6708386479057048}
+{"sent": "nearest chair back", "ann_id": 102900, "best_split": [2, 2], "split_score": 0.6708386479057048}
+{"sent": "half visible chair at 8", "ann_id": 102900, "best_split": [2, 2], "split_score": 0.6708386479057048}

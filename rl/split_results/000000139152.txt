@@ -1,0 +1,6 @@
+{"sent": "white blurry car", "ann_id": 140266, "best_split": [1, 3], "split_score": 0.3737151684169856}
+{"sent": "blurry minivan be serious or go to bed", "ann_id": 140266, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "blurry white car", "ann_id": 140266, "best_split": [1, 3], "split_score": 0.3737151684169856}
+{"sent": "car", "ann_id": 132460, "best_split": [3, 1], "split_score": 0.9211789661202869}
+{"sent": "car roof", "ann_id": 132460, "best_split": [3, 1], "split_score": 0.9211789661202869}
+{"sent": "blue car", "ann_id": 132460, "best_split": [3, 1], "split_score": 0.9211789661202869}

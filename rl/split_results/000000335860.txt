@@ -1,0 +1,8 @@
+{"sent": "banana being sliced", "ann_id": 1045701, "best_split": [2, 2], "split_score": 0.8583386478907574}
+{"sent": "3 o clock banana", "ann_id": 1045701, "best_split": [2, 2], "split_score": 0.8583386478907574}
+{"sent": "corner banana with round mouth", "ann_id": 1045701, "best_split": [2, 2], "split_score": 0.8583386478907574}
+{"sent": "banana no face", "ann_id": 1044308, "best_split": [2, 1], "split_score": 0.28922495272986287}
+{"sent": "banana without face under banana with face", "ann_id": 1044308, "best_split": [5, 1], "split_score": 0.3426356588894326}
+{"sent": "banana no face under measure tape one", "ann_id": 1044308, "best_split": [2, 1], "split_score": 0.28922495272986287}
+{"sent": "the kissing bananas either one", "ann_id": 1043969, "best_split": [2, 1], "split_score": 0.4104698176906233}
+{"sent": "yellow one eye", "ann_id": 1043969, "best_split": [2, 1], "split_score": 0.4104698176906233}

@@ -1,0 +1,6 @@
+{"sent": "most bananas", "ann_id": 1041933, "best_split": [2, 2], "split_score": 0.5676133954764936}
+{"sent": "larger banana bunch", "ann_id": 1041933, "best_split": [2, 2], "split_score": 0.5676133954764936}
+{"sent": "bushel at 9 o clock", "ann_id": 1041933, "best_split": [1, 2], "split_score": 0.5397660818516167}
+{"sent": "smallest full piece", "ann_id": 1041529, "best_split": [1, 2], "split_score": 0.4603794642673637}
+{"sent": "bananas at three o clock", "ann_id": 1041529, "best_split": [2, 1], "split_score": 0.34757981461131454}
+{"sent": "smaller bunch of bananas hanging", "ann_id": 1041529, "best_split": [2, 1], "split_score": 0.34757981461131454}

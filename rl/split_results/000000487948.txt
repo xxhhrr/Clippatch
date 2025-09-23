@@ -1,0 +1,13 @@
+{"sent": "man in the hat", "ann_id": 1254557, "best_split": [1, 3], "split_score": 0.48648648645713766}
+{"sent": "visor", "ann_id": 1254557, "best_split": [1, 3], "split_score": 0.48648648645713766}
+{"sent": "lady with hat", "ann_id": 1254557, "best_split": [1, 5], "split_score": 0.27708095779097197}
+{"sent": "woman with hat", "ann_id": 1254557, "best_split": [1, 5], "split_score": 0.27708095779097197}
+{"sent": "woman sitting next to man", "ann_id": 527758, "best_split": [2, 3], "split_score": 0.37714285711116446}
+{"sent": "woman not wearing hat", "ann_id": 527758, "best_split": [1, 3], "split_score": 0.3651250276407875}
+{"sent": "woman white shirt", "ann_id": 527758, "best_split": [1, 3], "split_score": 0.3651250276407875}
+{"sent": "crossed llegs guy", "ann_id": 523125, "best_split": [1, 2], "split_score": 0.4045758928410166}
+{"sent": "blue jacket", "ann_id": 523125, "best_split": [3, 3], "split_score": 0.4647544056557223}
+{"sent": "man with blue jacket", "ann_id": 523125, "best_split": [3, 3], "split_score": 0.4647544056557223}
+{"sent": "guy next to blue shirt", "ann_id": 497309, "best_split": [2, 3], "split_score": 0.26923436475000145}
+{"sent": "man with gray hoodie", "ann_id": 497309, "best_split": [3, 2], "split_score": 0.2877738783754364}
+{"sent": "bald head by fat girl", "ann_id": 497309, "best_split": [3, 3], "split_score": 0.2820054781133732}

@@ -1,0 +1,6 @@
+{"sent": "person closest to screen", "ann_id": 554240, "best_split": [1, 3], "split_score": 0.40091094096970276}
+{"sent": "big man", "ann_id": 554240, "best_split": [1, 2], "split_score": 0.7285842801209947}
+{"sent": "bigger person", "ann_id": 554240, "best_split": [1, 2], "split_score": 0.7285842801209947}
+{"sent": "person with mouth open", "ann_id": 541126, "best_split": [3, 2], "split_score": 0.3285459494669533}
+{"sent": "the woman", "ann_id": 541126, "best_split": [3, 2], "split_score": 0.3285459494669533}
+{"sent": "man with mouth open", "ann_id": 541126, "best_split": [3, 2], "split_score": 0.3285459494669533}

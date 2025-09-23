@@ -1,0 +1,9 @@
+{"sent": "taxi that is cut off", "ann_id": 1777418, "best_split": [3, 2], "split_score": 0.22715851984614452}
+{"sent": "the half of car by score", "ann_id": 1777418, "best_split": [5, 1], "split_score": 0.14507579278851707}
+{"sent": "yellow cab on the side", "ann_id": 1777418, "best_split": [3, 3], "split_score": 0.3232693911053762}
+{"sent": "black car", "ann_id": 361077, "best_split": [3, 2], "split_score": 0.6944558100762627}
+{"sent": "black car", "ann_id": 361077, "best_split": [3, 2], "split_score": 0.6944558100762627}
+{"sent": "black car", "ann_id": 361077, "best_split": [3, 2], "split_score": 0.6944558100762627}
+{"sent": "taxi", "ann_id": 349851, "best_split": [2, 2], "split_score": 0.34526466833982267}
+{"sent": "whole taxi", "ann_id": 349851, "best_split": [2, 2], "split_score": 0.34526466833982267}
+{"sent": "yellow taxi", "ann_id": 349851, "best_split": [2, 2], "split_score": 0.34526466833982267}

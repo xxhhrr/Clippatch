@@ -1,0 +1,3 @@
+{"sent": "chair without arms", "ann_id": 100915, "best_split": [2, 3], "split_score": 0.40963587917299776}
+{"sent": "armless chair", "ann_id": 100915, "best_split": [2, 3], "split_score": 0.40963587917299776}
+{"sent": "chair not sofa", "ann_id": 100915, "best_split": [2, 3], "split_score": 0.40963587917299776}

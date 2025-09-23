@@ -1,0 +1,6 @@
+{"sent": "guy on groung", "ann_id": 1268232, "best_split": [1, 5], "split_score": 0.34875474880972945}
+{"sent": "black shirt man", "ann_id": 1268232, "best_split": [1, 5], "split_score": 0.34875474880972945}
+{"sent": "man with black shirt", "ann_id": 1268232, "best_split": [1, 5], "split_score": 0.34875474880972945}
+{"sent": "man inside bed of truck", "ann_id": 444741, "best_split": [1, 3], "split_score": 0.2723672367073287}
+{"sent": "man in pick up bed", "ann_id": 444741, "best_split": [3, 2], "split_score": 0.21676872348405382}
+{"sent": "man on pickup", "ann_id": 444741, "best_split": [1, 3], "split_score": 0.2723672367073287}

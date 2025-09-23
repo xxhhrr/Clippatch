@@ -1,0 +1,6 @@
+{"sent": "girl in white under umbrella", "ann_id": 479808, "best_split": [1, 5], "split_score": 0.5005319583844396}
+{"sent": "woman", "ann_id": 479808, "best_split": [2, 3], "split_score": 0.518199927515556}
+{"sent": "girl", "ann_id": 479808, "best_split": [2, 3], "split_score": 0.518199927515556}
+{"sent": "boyfriend", "ann_id": 465158, "best_split": [1, 2], "split_score": 0.4816645407971275}
+{"sent": "man under umbrella", "ann_id": 465158, "best_split": [1, 3], "split_score": 0.1917335440063315}
+{"sent": "man with checked shirt", "ann_id": 465158, "best_split": [1, 2], "split_score": 0.4816645407971275}

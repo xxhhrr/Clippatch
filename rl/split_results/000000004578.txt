@@ -1,0 +1,5 @@
+{"sent": "the table covering", "ann_id": 412663, "best_split": [2, 3], "split_score": 0.6937499999225725}
+{"sent": "white tablecloth", "ann_id": 412663, "best_split": [3, 3], "split_score": 0.7950058070855102}
+{"sent": "empty table facing us", "ann_id": 390956, "best_split": [3, 3], "split_score": 0.6662454587480263}
+{"sent": "table with dishes but no man", "ann_id": 390956, "best_split": [3, 3], "split_score": 0.6662454587480263}
+{"sent": "table with two chairs lines up", "ann_id": 390956, "best_split": [3, 3], "split_score": 0.6662454587480263}

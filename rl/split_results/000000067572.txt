@@ -1,0 +1,9 @@
+{"sent": "giraffe with splayed leg", "ann_id": 601037, "best_split": [3, 1], "split_score": 0.24749163878305333}
+{"sent": "number 1 giraffe laying down", "ann_id": 601037, "best_split": [2, 1], "split_score": 0.15261958997178887}
+{"sent": "visible giraffe lying down with head up", "ann_id": 601037, "best_split": [2, 1], "split_score": 0.10239651415773432}
+{"sent": "cut off", "ann_id": 600817, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "giraffee laying down no head", "ann_id": 600817, "best_split": [2, 3], "split_score": 0.6123179755774268}
+{"sent": "giraffe with no head", "ann_id": 600817, "best_split": [3, 3], "split_score": 0.5175936435133948}
+{"sent": "neck bending over", "ann_id": 595541, "best_split": [1, 2], "split_score": 0.5799585458952504}
+{"sent": "bending giraffe", "ann_id": 595541, "best_split": [1, 2], "split_score": 0.5799585458952504}
+{"sent": "animal with head down", "ann_id": 595541, "best_split": [1, 2], "split_score": 0.5799585458952504}

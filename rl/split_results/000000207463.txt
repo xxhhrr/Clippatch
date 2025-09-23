@@ -1,0 +1,12 @@
+{"sent": "standing black shirt tan pants", "ann_id": 535910, "best_split": [1, 3], "split_score": 0.47731660228780665}
+{"sent": "person black shirt standing", "ann_id": 535910, "best_split": [3, 2], "split_score": 0.2660206314265379}
+{"sent": "standing girlw ith dark tshirt", "ann_id": 535910, "best_split": [1, 5], "split_score": 0.4487932158799092}
+{"sent": "sitting boy", "ann_id": 531712, "best_split": [1, 5], "split_score": 0.4281401978510699}
+{"sent": "sitting down", "ann_id": 531712, "best_split": [1, 5], "split_score": 0.4281401978510699}
+{"sent": "person sitting", "ann_id": 531712, "best_split": [1, 5], "split_score": 0.4281401978510699}
+{"sent": "guy with shirt unbuttones", "ann_id": 502453, "best_split": [1, 5], "split_score": 0.6772231340468067}
+{"sent": "tallest guy", "ann_id": 502453, "best_split": [1, 5], "split_score": 0.6772231340468067}
+{"sent": "standing guy", "ann_id": 502453, "best_split": [1, 5], "split_score": 0.6772231340468067}
+{"sent": "girl in white shirt", "ann_id": 453931, "best_split": [1, 5], "split_score": 0.6679450303077704}
+{"sent": "woman in white shirt", "ann_id": 453931, "best_split": [1, 5], "split_score": 0.6679450303077704}
+{"sent": "girl in white", "ann_id": 453931, "best_split": [1, 5], "split_score": 0.6679450303077704}

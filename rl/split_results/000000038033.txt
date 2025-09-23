@@ -1,0 +1,10 @@
+{"sent": "half of sandwich 2 near pretzels", "ann_id": 2217874, "best_split": [2, 3], "split_score": 0.23760241480836541}
+{"sent": "half of sandwich closest to pretzels", "ann_id": 2217874, "best_split": [2, 2], "split_score": 0.254464285694}
+{"sent": "half sand at 9", "ann_id": 1554909, "best_split": [3, 3], "split_score": 0.4002582310522501}
+{"sent": "sandwich piece 800", "ann_id": 1554909, "best_split": [3, 2], "split_score": 0.27531083478293616}
+{"sent": "sandwich most seeds", "ann_id": 1554909, "best_split": [3, 2], "split_score": 0.27531083478293616}
+{"sent": "container opposite of the grapes", "ann_id": 1539168, "best_split": [2, 1], "split_score": 0.3633872293636853}
+{"sent": "pineapples and strawberries", "ann_id": 1539168, "best_split": [2, 2], "split_score": 0.7140549272471686}
+{"sent": "strawberries", "ann_id": 1539168, "best_split": [2, 2], "split_score": 0.7140549272471686}
+{"sent": "sandwich 1 piece 2", "ann_id": 313187, "best_split": [3, 2], "split_score": 0.30637915540135}
+{"sent": "larger sandwich half under grapes", "ann_id": 313187, "best_split": [1, 5], "split_score": 0.27069695800243576}

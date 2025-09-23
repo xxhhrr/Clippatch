@@ -1,0 +1,6 @@
+{"sent": "pesron near large light blue wall", "ann_id": 1262399, "best_split": [3, 1], "split_score": 0.15966386553702866}
+{"sent": "person standing", "ann_id": 1262399, "best_split": [3, 3], "split_score": 0.44214217398116956}
+{"sent": "weird looking object on the score side close to answer box", "ann_id": 234014, "best_split": [1, 2], "split_score": 0.19937818876756305}
+{"sent": "striped shirt kid", "ann_id": 234014, "best_split": [3, 3], "split_score": 0.7353428286294562}
+{"sent": "person on laptop", "ann_id": 234014, "best_split": [3, 2], "split_score": 0.5143573381364679}
+{"sent": "man reaching", "ann_id": 225429, "best_split": [3, 3], "split_score": 0.76885852536737}

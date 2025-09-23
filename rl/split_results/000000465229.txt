@@ -1,0 +1,6 @@
+{"sent": "girl again", "ann_id": 1740196, "best_split": [2, 3], "split_score": 0.5382320029337717}
+{"sent": "girl", "ann_id": 1740196, "best_split": [1, 5], "split_score": 0.47005208329508036}
+{"sent": "girl", "ann_id": 1740196, "best_split": [1, 5], "split_score": 0.47005208329508036}
+{"sent": "man", "ann_id": 458562, "best_split": [2, 2], "split_score": 0.22076416336122454}
+{"sent": "brushing teeth", "ann_id": 458562, "best_split": [2, 2], "split_score": 0.22076416336122454}
+{"sent": "brushing", "ann_id": 458562, "best_split": [1, 2], "split_score": 0.42330994896271884}

@@ -1,0 +1,5 @@
+{"sent": "chair in sun light near shadow", "ann_id": 388959, "best_split": [3, 2], "split_score": 0.6866597724133449}
+{"sent": "empty chair nearest us and next to girl", "ann_id": 388959, "best_split": [3, 2], "split_score": 0.6866597724133449}
+{"sent": "empty chair nearest empty place setting", "ann_id": 385152, "best_split": [3, 2], "split_score": 0.6341698840933675}
+{"sent": "green chair that is dark", "ann_id": 385152, "best_split": [3, 3], "split_score": 0.8619014571717728}
+{"sent": "chair opposite to woman", "ann_id": 385152, "best_split": [3, 1], "split_score": 0.31708494206581295}

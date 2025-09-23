@@ -1,0 +1,6 @@
+{"sent": "girl doing hair", "ann_id": 555870, "best_split": [1, 2], "split_score": 0.8743223851692314}
+{"sent": "woman working on hair", "ann_id": 555870, "best_split": [1, 2], "split_score": 0.8743223851692314}
+{"sent": "girl", "ann_id": 555870, "best_split": [1, 2], "split_score": 0.8743223851692314}
+{"sent": "guy with guitar", "ann_id": 421971, "best_split": [3, 2], "split_score": 0.5136278990592832}
+{"sent": "man with guitar", "ann_id": 421971, "best_split": [3, 2], "split_score": 0.5136278990592832}
+{"sent": "reflection in the mirror playing guitar", "ann_id": 421971, "best_split": [1, 3], "split_score": 0.4944038373404292}

@@ -1,0 +1,6 @@
+{"sent": "glass with dark beer", "ann_id": 1884179, "best_split": [1, 3], "split_score": 0.49951737448723954}
+{"sent": "tall glass of beer", "ann_id": 1884179, "best_split": [1, 3], "split_score": 0.49951737448723954}
+{"sent": "tall half empty beer glass", "ann_id": 1884179, "best_split": [1, 3], "split_score": 0.49951737448723954}
+{"sent": "black mug", "ann_id": 671832, "best_split": [1, 2], "split_score": 0.2774234693766971}
+{"sent": "mug", "ann_id": 671832, "best_split": [3, 3], "split_score": 0.5138161898339846}
+{"sent": "coffee mug", "ann_id": 671832, "best_split": [3, 3], "split_score": 0.5138161898339846}

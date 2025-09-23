@@ -1,0 +1,6 @@
+{"sent": "dog on bed", "ann_id": 16258, "best_split": [2, 1], "split_score": 0.41260502041539}
+{"sent": "black dog", "ann_id": 16258, "best_split": [1, 2], "split_score": 0.6206815233869626}
+{"sent": "all black dog on bed", "ann_id": 16258, "best_split": [1, 2], "split_score": 0.6206815233869626}
+{"sent": "brown white and black dog", "ann_id": 9466, "best_split": [2, 1], "split_score": 0.238418286265786}
+{"sent": "dog with red leash", "ann_id": 9466, "best_split": [1, 2], "split_score": 0.6153539540571048}
+{"sent": "red collar", "ann_id": 9466, "best_split": [1, 2], "split_score": 0.6153539540571048}

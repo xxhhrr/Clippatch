@@ -1,0 +1,6 @@
+{"sent": "the man holding the child", "ann_id": 512432, "best_split": [1, 2], "split_score": 0.6219706632405145}
+{"sent": "parent", "ann_id": 512432, "best_split": [1, 2], "split_score": 0.6219706632405145}
+{"sent": "dad", "ann_id": 512432, "best_split": [1, 2], "split_score": 0.6219706632405145}
+{"sent": "little boy", "ann_id": 454233, "best_split": [1, 3], "split_score": 0.42467335593645156}
+{"sent": "younger person", "ann_id": 454233, "best_split": [1, 3], "split_score": 0.42467335593645156}
+{"sent": "kid", "ann_id": 454233, "best_split": [1, 3], "split_score": 0.42467335593645156}

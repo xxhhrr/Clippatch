@@ -1,0 +1,14 @@
+{"sent": "biggest guy in blur", "ann_id": 223463, "best_split": [2, 3], "split_score": 0.027918781723919994}
+{"sent": "fat guy", "ann_id": 223463, "best_split": [3, 1], "split_score": 0.11966314139641289}
+{"sent": "man in solid pink shirt at a distance", "ann_id": 223463, "best_split": [2, 3], "split_score": 0.5105677579247236}
+{"sent": "lady on back of bike", "ann_id": 194836, "best_split": [2, 1], "split_score": 0.20327464676792129}
+{"sent": "girl not driving", "ann_id": 194836, "best_split": [1, 5], "split_score": 0.6018518518096344}
+{"sent": "passenger on motorcycle wearing lei", "ann_id": 194836, "best_split": [2, 1], "split_score": 0.20327464676792129}
+{"sent": "driving the moto", "ann_id": 191879, "best_split": [2, 1], "split_score": 0.3962035541081178}
+{"sent": "person steering the motorcycle", "ann_id": 191879, "best_split": [2, 1], "split_score": 0.3962035541081178}
+{"sent": "motorcycle rider with short hair", "ann_id": 191879, "best_split": [2, 1], "split_score": 0.3962035541081178}
+{"sent": "lower corner by woman", "ann_id": 156212, "best_split": [1, 3], "split_score": 0.2369747899017422}
+{"sent": "windshield of bike but you cant see almost any other part of it", "ann_id": 156212, "best_split": [3, 1], "split_score": 0.19813953487220118}
+{"sent": "corner bike barely visible", "ann_id": 156212, "best_split": [3, 1], "split_score": 0.19813953487220118}
+{"sent": "motorcycle headlight", "ann_id": 155280, "best_split": [2, 2], "split_score": 0.585750171238539}
+{"sent": "handlebars or headlight", "ann_id": 155280, "best_split": [2, 2], "split_score": 0.585750171238539}

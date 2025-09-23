@@ -1,0 +1,6 @@
+{"sent": "smaller screen", "ann_id": 1969073, "best_split": [3, 3], "split_score": 0.5189495672159132}
+{"sent": "smaller computer", "ann_id": 1969073, "best_split": [3, 3], "split_score": 0.5189495672159132}
+{"sent": "laptop screen", "ann_id": 1969073, "best_split": [3, 3], "split_score": 0.5189495672159132}
+{"sent": "bigger screen", "ann_id": 31914, "best_split": [5, 1], "split_score": 0.449106011512804}
+{"sent": "bigger monitor", "ann_id": 31914, "best_split": [3, 1], "split_score": 0.2696921789142708}
+{"sent": "large screen", "ann_id": 31914, "best_split": [5, 1], "split_score": 0.449106011512804}

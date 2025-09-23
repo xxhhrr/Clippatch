@@ -1,0 +1,5 @@
+{"sent": "closest underneath doughnut", "ann_id": 1082267, "best_split": [2, 2], "split_score": 0.35275829078820486}
+{"sent": "donut nearest edge of plate", "ann_id": 1082267, "best_split": [2, 2], "split_score": 0.35275829078820486}
+{"sent": "closest donut underneath", "ann_id": 1082267, "best_split": [2, 2], "split_score": 0.35275829078820486}
+{"sent": "most visible donut", "ann_id": 1080273, "best_split": [3, 2], "split_score": 0.437783049338173}
+{"sent": "topest donut", "ann_id": 1080273, "best_split": [3, 2], "split_score": 0.437783049338173}

@@ -1,0 +1,6 @@
+{"sent": "the darker suv", "ann_id": 1775050, "best_split": [3, 2], "split_score": 0.5772200771504319}
+{"sent": "black suv", "ann_id": 1775050, "best_split": [3, 2], "split_score": 0.5772200771504319}
+{"sent": "car in back", "ann_id": 1775050, "best_split": [3, 2], "split_score": 0.5772200771504319}
+{"sent": "white car", "ann_id": 1357539, "best_split": [3, 2], "split_score": 0.4197080291492121}
+{"sent": "silver suv", "ann_id": 1357539, "best_split": [5, 1], "split_score": 0.35080956049047707}
+{"sent": "car behind bikes", "ann_id": 1357539, "best_split": [3, 2], "split_score": 0.4197080291492121}

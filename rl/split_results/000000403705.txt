@@ -1,0 +1,6 @@
+{"sent": "animal at bush", "ann_id": 598896, "best_split": [3, 1], "split_score": 0.2243589743461333}
+{"sent": "smaller giraffe", "ann_id": 598896, "best_split": [3, 1], "split_score": 0.2243589743461333}
+{"sent": "small giraffe", "ann_id": 598896, "best_split": [3, 1], "split_score": 0.2243589743461333}
+{"sent": "closest giraffe", "ann_id": 595296, "best_split": [3, 2], "split_score": 0.3521463998330643}
+{"sent": "taller", "ann_id": 595296, "best_split": [3, 2], "split_score": 0.3521463998330643}
+{"sent": "bigger giraffe", "ann_id": 595296, "best_split": [3, 2], "split_score": 0.3521463998330643}

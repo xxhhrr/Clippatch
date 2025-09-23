@@ -1,0 +1,12 @@
+{"sent": "2 pizzas in back", "ann_id": 1075479, "best_split": [3, 1], "split_score": 0.6011100385737748}
+{"sent": "the two meals without mussels", "ann_id": 1075479, "best_split": [2, 1], "split_score": 0.3971619897800876}
+{"sent": "either of the father pizzas", "ann_id": 1075479, "best_split": [3, 1], "split_score": 0.6011100385737748}
+{"sent": "mussels", "ann_id": 1072746, "best_split": [3, 1], "split_score": 0.42943115057925807}
+{"sent": "clams", "ann_id": 1072746, "best_split": [3, 1], "split_score": 0.42943115057925807}
+{"sent": "whole closest pizza", "ann_id": 1072746, "best_split": [2, 1], "split_score": 0.37179123929359686}
+{"sent": "fork", "ann_id": 1959974, "best_split": [2, 3], "split_score": 0.5446564057506333}
+{"sent": "part of the table where the fork is", "ann_id": 1959974, "best_split": [2, 3], "split_score": 0.5446564057506333}
+{"sent": "fork", "ann_id": 1959974, "best_split": [2, 3], "split_score": 0.5446564057506333}
+{"sent": "table", "ann_id": 393863, "best_split": [1, 2], "split_score": 0.40835770209394495}
+{"sent": "table under pizza", "ann_id": 393863, "best_split": [1, 2], "split_score": 0.40835770209394495}
+{"sent": "table surrounding pizza with gross stuff", "ann_id": 393863, "best_split": [1, 2], "split_score": 0.40835770209394495}

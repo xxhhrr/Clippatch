@@ -1,0 +1,6 @@
+{"sent": "whole pizza with slice missing haha its you", "ann_id": 1071770, "best_split": [3, 2], "split_score": 0.461556734463413}
+{"sent": "pacman pizza", "ann_id": 1071770, "best_split": [3, 2], "split_score": 0.461556734463413}
+{"sent": "bigger pizza", "ann_id": 1071770, "best_split": [3, 2], "split_score": 0.461556734463413}
+{"sent": "slice of pizza", "ann_id": 1070695, "best_split": [5, 1], "split_score": 0.2139269010727588}
+{"sent": "pizza on plate", "ann_id": 1070695, "best_split": [5, 1], "split_score": 0.2139269010727588}
+{"sent": "slice of pizza on a plate", "ann_id": 1070695, "best_split": [5, 1], "split_score": 0.2139269010727588}

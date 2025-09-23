@@ -1,0 +1,8 @@
+{"sent": "purple", "ann_id": 1730279, "best_split": [3, 3], "split_score": 0.32014228541275497}
+{"sent": "purple jacket", "ann_id": 1730279, "best_split": [3, 2], "split_score": 0.4059988001912419}
+{"sent": "purple coat", "ann_id": 1730279, "best_split": [3, 2], "split_score": 0.4059988001912419}
+{"sent": "purpleish shirt guy near guy in black hoodie", "ann_id": 1211899, "best_split": [1, 3], "split_score": 0.22592905404042415}
+{"sent": "gray shirt white collar by guy in black jacket", "ann_id": 1211899, "best_split": [1, 5], "split_score": 0.26969753544905734}
+{"sent": "black jacket", "ann_id": 1204501, "best_split": [1, 3], "split_score": 0.26978764477136896}
+{"sent": "black hoodie dude", "ann_id": 1204501, "best_split": [2, 3], "split_score": 0.5395752895101864}
+{"sent": "black coat back to us", "ann_id": 1204501, "best_split": [2, 3], "split_score": 0.5395752895101864}

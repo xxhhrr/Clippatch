@@ -1,0 +1,9 @@
+{"sent": "man in wheelchair", "ann_id": 570049, "best_split": [1, 5], "split_score": 0.48643216075957674}
+{"sent": "man in chair", "ann_id": 570049, "best_split": [1, 5], "split_score": 0.48643216075957674}
+{"sent": "wheel chair man", "ann_id": 570049, "best_split": [1, 5], "split_score": 0.48643216075957674}
+{"sent": "gray shirt orange hat", "ann_id": 2165485, "best_split": [3, 2], "split_score": 0.22364002684489254}
+{"sent": "guy with gray shirt blue jeans and red hat", "ann_id": 2165485, "best_split": [3, 2], "split_score": 0.22364002684489254}
+{"sent": "man in black shirt with orange hat", "ann_id": 2165485, "best_split": [1, 2], "split_score": 0.17689422354925377}
+{"sent": "black shirt", "ann_id": 2154129, "best_split": [1, 5], "split_score": 0.7612456746806192}
+{"sent": "person in corner", "ann_id": 2154129, "best_split": [2, 1], "split_score": 0.19777176507408015}
+{"sent": "person in all black", "ann_id": 2154129, "best_split": [2, 1], "split_score": 0.19777176507408015}

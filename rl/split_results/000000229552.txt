@@ -1,0 +1,5 @@
+{"sent": "horse standing with a man rider", "ann_id": 57634, "best_split": [1, 5], "split_score": 0.4840341999228726}
+{"sent": "horse closest to you", "ann_id": 57634, "best_split": [1, 5], "split_score": 0.4840341999228726}
+{"sent": "horse carrying man with no hat", "ann_id": 57634, "best_split": [1, 5], "split_score": 0.4840341999228726}
+{"sent": "horse with woman", "ann_id": 56482, "best_split": [5, 1], "split_score": 0.1554111330774646}
+{"sent": "horse sideview", "ann_id": 56482, "best_split": [5, 1], "split_score": 0.1554111330774646}

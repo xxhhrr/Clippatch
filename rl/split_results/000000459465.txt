@@ -1,0 +1,6 @@
+{"sent": "close sheep", "ann_id": 65872, "best_split": [3, 2], "split_score": 0.5665071769947705}
+{"sent": "cloest lamb", "ann_id": 65872, "best_split": [3, 2], "split_score": 0.5665071769947705}
+{"sent": "closest sheep", "ann_id": 65872, "best_split": [3, 2], "split_score": 0.5665071769947705}
+{"sent": "sheep near green pole", "ann_id": 65566, "best_split": [3, 1], "split_score": 0.2755411481608522}
+{"sent": "animal by the green post", "ann_id": 65566, "best_split": [2, 2], "split_score": 0.3619582664284404}
+{"sent": "sheep by green post", "ann_id": 65566, "best_split": [3, 1], "split_score": 0.2755411481608522}

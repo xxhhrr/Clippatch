@@ -1,0 +1,6 @@
+{"sent": "bunk bed", "ann_id": 319075, "best_split": [1, 2], "split_score": 0.6586415816063999}
+{"sent": "bunkbed", "ann_id": 319075, "best_split": [1, 5], "split_score": 0.37024724702003703}
+{"sent": "bunk bed", "ann_id": 319075, "best_split": [1, 2], "split_score": 0.6586415816063999}
+{"sent": "a queen size bed", "ann_id": 314383, "best_split": [1, 2], "split_score": 0.5942667389335096}
+{"sent": "main bed", "ann_id": 314383, "best_split": [1, 2], "split_score": 0.5942667389335096}
+{"sent": "whole bed", "ann_id": 314383, "best_split": [1, 2], "split_score": 0.5942667389335096}

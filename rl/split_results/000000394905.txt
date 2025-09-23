@@ -1,0 +1,9 @@
+{"sent": "lion on shirt", "ann_id": 516233, "best_split": [2, 2], "split_score": 0.39565016193589936}
+{"sent": "white shirt with lion", "ann_id": 516233, "best_split": [2, 2], "split_score": 0.39565016193589936}
+{"sent": "lion shirt", "ann_id": 516233, "best_split": [2, 2], "split_score": 0.39565016193589936}
+{"sent": "kid in yellow", "ann_id": 483186, "best_split": [3, 2], "split_score": 0.3103689455927287}
+{"sent": "boy with yellow shirt and helmet", "ann_id": 483186, "best_split": [2, 1], "split_score": 0.18886977334920824}
+{"sent": "yellow at 2 pm", "ann_id": 483186, "best_split": [1, 5], "split_score": 0.5530956847511167}
+{"sent": "kid on board", "ann_id": 442812, "best_split": [3, 1], "split_score": 0.40425531913440715}
+{"sent": "skateboarder", "ann_id": 442812, "best_split": [1, 2], "split_score": 0.3947707820261821}
+{"sent": "skater", "ann_id": 442812, "best_split": [1, 2], "split_score": 0.3947707820261821}

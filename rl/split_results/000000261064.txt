@@ -1,0 +1,6 @@
+{"sent": "single banana slice on pizza", "ann_id": 1542493, "best_split": [2, 2], "split_score": 0.0838110441851962}
+{"sent": "banana piece in pancake", "ann_id": 1542493, "best_split": [3, 2], "split_score": 0.19143239623031766}
+{"sent": "yellow spot only on pancake", "ann_id": 1542493, "best_split": [3, 2], "split_score": 0.19143239623031766}
+{"sent": "sliced banana", "ann_id": 1541762, "best_split": [3, 1], "split_score": 0.7822132986428361}
+{"sent": "banana slices", "ann_id": 1541762, "best_split": [3, 1], "split_score": 0.7822132986428361}
+{"sent": "white thing cut into slices maybe banana", "ann_id": 1541762, "best_split": [3, 1], "split_score": 0.7822132986428361}

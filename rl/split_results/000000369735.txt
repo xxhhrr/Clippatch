@@ -1,0 +1,4 @@
+{"sent": "sandwich 3 o clock", "ann_id": 309771, "best_split": [3, 1], "split_score": 0.3308302044049421}
+{"sent": "closest half of sandwich", "ann_id": 309515, "best_split": [3, 2], "split_score": 0.5612894486955649}
+{"sent": "closest sandwich", "ann_id": 309515, "best_split": [3, 2], "split_score": 0.5612894486955649}
+{"sent": "sandwich half closest to us", "ann_id": 309515, "best_split": [3, 2], "split_score": 0.5612894486955649}

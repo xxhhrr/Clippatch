@@ -1,0 +1,6 @@
+{"sent": "guy farhtest back behind that saw looking thng", "ann_id": 454160, "best_split": [3, 3], "split_score": 0.48434125263440314}
+{"sent": "brown shirt", "ann_id": 454160, "best_split": [2, 2], "split_score": 0.44005102037308264}
+{"sent": "brown shirt", "ann_id": 454160, "best_split": [2, 2], "split_score": 0.44005102037308264}
+{"sent": "hands cutting cake", "ann_id": 435737, "best_split": [3, 1], "split_score": 0.027540198425096637}
+{"sent": "hands belonging to person cutting cake", "ann_id": 435737, "best_split": [5, 1], "split_score": 0.2448216340445324}
+{"sent": "blue shirt hands", "ann_id": 435737, "best_split": [3, 2], "split_score": 0.7622033138421178}

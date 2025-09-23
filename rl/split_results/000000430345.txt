@@ -1,0 +1,13 @@
+{"sent": "man holding legs", "ann_id": 255844, "best_split": [1, 3], "split_score": 0.35279922777794404}
+{"sent": "tallest person", "ann_id": 255844, "best_split": [1, 3], "split_score": 0.35279922777794404}
+{"sent": "tallest guy", "ann_id": 255844, "best_split": [1, 3], "split_score": 0.35279922777794404}
+{"sent": "person being carried", "ann_id": 200508, "best_split": [3, 3], "split_score": 0.45293367341161556}
+{"sent": "horizontal one", "ann_id": 200508, "best_split": [5, 1], "split_score": 0.2903780068490936}
+{"sent": "black shirt white writing hat on", "ann_id": 195808, "best_split": [3, 2], "split_score": 0.21365372075871716}
+{"sent": "man with cap and white logo on his shirt", "ann_id": 195808, "best_split": [3, 2], "split_score": 0.21365372075871716}
+{"sent": "long pants black shirt", "ann_id": 195808, "best_split": [1, 5], "split_score": 0.3745410036367064}
+{"sent": "tan shorts", "ann_id": 183950, "best_split": [3, 1], "split_score": 0.12171052630953379}
+{"sent": "person beige shorts", "ann_id": 183950, "best_split": [3, 1], "split_score": 0.12171052630953379}
+{"sent": "blond guy gray shorts leaning in", "ann_id": 183950, "best_split": [1, 2], "split_score": 0.20918367346104977}
+{"sent": "kid standing furthest from water", "ann_id": 1206434, "best_split": [5, 1], "split_score": 0.10094936708062109}
+{"sent": "man next to her feet", "ann_id": 1206434, "best_split": [2, 2], "split_score": 0.11924502864042838}

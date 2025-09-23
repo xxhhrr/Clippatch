@@ -1,0 +1,5 @@
+{"sent": "the blurry corner where the brocolli is", "ann_id": 1057928, "best_split": [3, 1], "split_score": 0.26557377047625447}
+{"sent": "floret at 5 pm", "ann_id": 1057928, "best_split": [1, 2], "split_score": 0.2008928571348496}
+{"sent": "broccoli closest and not blurry", "ann_id": 1057419, "best_split": [2, 2], "split_score": 0.8155293366696803}
+{"sent": "biggest broccoli", "ann_id": 1057419, "best_split": [2, 2], "split_score": 0.8155293366696803}
+{"sent": "fullest bud no flowers", "ann_id": 1057419, "best_split": [2, 2], "split_score": 0.8155293366696803}

@@ -1,0 +1,15 @@
+{"sent": "red cup", "ann_id": 1324274, "best_split": [1, 2], "split_score": 0.295440051008632}
+{"sent": "black shorts", "ann_id": 1324274, "best_split": [1, 5], "split_score": 0.48862068961304994}
+{"sent": "woman in short black dress", "ann_id": 1324274, "best_split": [1, 5], "split_score": 0.48862068961304994}
+{"sent": "woman holding cup dont click cup", "ann_id": 1292493, "best_split": [1, 3], "split_score": 0.27845424716447487}
+{"sent": "nearest girl", "ann_id": 1292493, "best_split": [2, 1], "split_score": 0.30604171660554896}
+{"sent": "one shoulder shirt", "ann_id": 1292493, "best_split": [1, 2], "split_score": 0.709690074511193}
+{"sent": "woman in white", "ann_id": 1271216, "best_split": [1, 3], "split_score": 0.818532818483438}
+{"sent": "white dress", "ann_id": 1271216, "best_split": [1, 3], "split_score": 0.818532818483438}
+{"sent": "nipples", "ann_id": 1271216, "best_split": [1, 3], "split_score": 0.818532818483438}
+{"sent": "black lady", "ann_id": 1262631, "best_split": [1, 2], "split_score": 0.5943080356905968}
+{"sent": "the fattest", "ann_id": 1262631, "best_split": [1, 3], "split_score": 0.8994932431889784}
+{"sent": "black girl in brown shirt", "ann_id": 1262631, "best_split": [1, 3], "split_score": 0.8994932431889784}
+{"sent": "guy in plaid shirt", "ann_id": 1251830, "best_split": [1, 5], "split_score": 0.6490357074041402}
+{"sent": "man in plaid shirt", "ann_id": 1251830, "best_split": [1, 5], "split_score": 0.6490357074041402}
+{"sent": "guy", "ann_id": 1251830, "best_split": [1, 2], "split_score": 0.29559948978413586}

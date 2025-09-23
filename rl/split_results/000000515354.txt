@@ -1,0 +1,6 @@
+{"sent": "woman greeb", "ann_id": 1712549, "best_split": [3, 1], "split_score": 0.4265224967415878}
+{"sent": "woman in green", "ann_id": 1712549, "best_split": [3, 2], "split_score": 0.44254592051976893}
+{"sent": "scarved woman", "ann_id": 1712549, "best_split": [1, 2], "split_score": 0.40525419604527035}
+{"sent": "skier wearing white sweater", "ann_id": 1248594, "best_split": [1, 2], "split_score": 0.5136548518116772}
+{"sent": "white sweater", "ann_id": 1248594, "best_split": [1, 3], "split_score": 0.28438661708935925}
+{"sent": "man in white", "ann_id": 1248594, "best_split": [1, 2], "split_score": 0.5136548518116772}

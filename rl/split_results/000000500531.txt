@@ -1,0 +1,6 @@
+{"sent": "chair with built in pillow", "ann_id": 112590, "best_split": [2, 1], "split_score": 0.404177295902257}
+{"sent": "closest furniture with pillow", "ann_id": 112590, "best_split": [2, 1], "split_score": 0.404177295902257}
+{"sent": "chair closest to you", "ann_id": 112590, "best_split": [2, 1], "split_score": 0.404177295902257}
+{"sent": "couch with many pillows", "ann_id": 98195, "best_split": [3, 3], "split_score": 0.6373722626806756}
+{"sent": "white couch with pillows", "ann_id": 98195, "best_split": [3, 3], "split_score": 0.6373722626806756}
+{"sent": "couch with green pillows", "ann_id": 98195, "best_split": [3, 3], "split_score": 0.6373722626806756}

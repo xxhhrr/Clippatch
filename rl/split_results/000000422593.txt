@@ -1,0 +1,8 @@
+{"sent": "girl with purple shirt", "ann_id": 225602, "best_split": [2, 1], "split_score": 0.3326000567579974}
+{"sent": "a child at 3 ocklock", "ann_id": 225602, "best_split": [3, 1], "split_score": 0.27093725386055234}
+{"sent": "girl with blue shirt on", "ann_id": 225376, "best_split": [3, 2], "split_score": 0.30896438802218873}
+{"sent": "girl blue shirt", "ann_id": 225376, "best_split": [3, 2], "split_score": 0.30896438802218873}
+{"sent": "blue shirt", "ann_id": 225376, "best_split": [2, 3], "split_score": 0.3955660294670886}
+{"sent": "hand on foot", "ann_id": 204710, "best_split": [2, 1], "split_score": 0.19909245603378145}
+{"sent": "girl with finger in mouth", "ann_id": 204710, "best_split": [1, 3], "split_score": 0.5270270269952324}
+{"sent": "pink bigger girl", "ann_id": 204710, "best_split": [1, 3], "split_score": 0.5270270269952324}

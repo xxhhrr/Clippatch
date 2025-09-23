@@ -1,0 +1,8 @@
+{"sent": "red motorcycle facing horizonal close to us", "ann_id": 1791488, "best_split": [2, 2], "split_score": 0.5860071998289241}
+{"sent": "red bike not on edge of photo but nex to", "ann_id": 1791488, "best_split": [3, 2], "split_score": 0.41306266545339254}
+{"sent": "motorcycle with tale end towards us", "ann_id": 1361187, "best_split": [2, 1], "split_score": 0.15002381329774472}
+{"sent": "back of motorcycle facing camera", "ann_id": 1361187, "best_split": [2, 1], "split_score": 0.15002381329774472}
+{"sent": "red bike closest to us facing toward the hill", "ann_id": 1361187, "best_split": [2, 3], "split_score": 0.45021438775009354}
+{"sent": "bike half off picture with wheel facing camera", "ann_id": 1360385, "best_split": [2, 3], "split_score": 0.5375626042764652}
+{"sent": "bike half out of pic", "ann_id": 1360385, "best_split": [2, 3], "split_score": 0.5375626042764652}
+{"sent": "bike at 400", "ann_id": 1360385, "best_split": [2, 3], "split_score": 0.5375626042764652}

@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 479043, "best_split": [2, 2], "split_score": 0.4531409601345032}
+{"sent": "woman", "ann_id": 479043, "best_split": [2, 2], "split_score": 0.4531409601345032}
+{"sent": "lady", "ann_id": 479043, "best_split": [2, 2], "split_score": 0.4531409601345032}
+{"sent": "man excited for pizza", "ann_id": 465031, "best_split": [1, 2], "split_score": 0.6402224136330087}
+{"sent": "man with fork", "ann_id": 465031, "best_split": [1, 2], "split_score": 0.6402224136330087}
+{"sent": "man", "ann_id": 465031, "best_split": [1, 2], "split_score": 0.6402224136330087}
+{"sent": "side of guys pizza nearest water glass", "ann_id": 1074714, "best_split": [3, 2], "split_score": 0.30405405401736796}
+{"sent": "portion of pizza closest to cups", "ann_id": 1074714, "best_split": [3, 2], "split_score": 0.30405405401736796}
+{"sent": "half of pizza man is not cutting into", "ann_id": 1074714, "best_split": [3, 2], "split_score": 0.30405405401736796}
+{"sent": "pizza near woman", "ann_id": 1071326, "best_split": [5, 1], "split_score": 0.20741088178166878}
+{"sent": "her pizza", "ann_id": 1071326, "best_split": [5, 1], "split_score": 0.20741088178166878}
+{"sent": "ladies pizza", "ann_id": 1071326, "best_split": [5, 1], "split_score": 0.20741088178166878}

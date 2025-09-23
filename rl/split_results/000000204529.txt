@@ -1,0 +1,16 @@
+{"sent": "the glass of wine beside the last glass of wine", "ann_id": 666622, "best_split": [3, 1], "split_score": 0.1315065351908102}
+{"sent": "glass closest to blue label bottle", "ann_id": 666556, "best_split": [1, 3], "split_score": 0.23588320461897422}
+{"sent": "glass nearest blanc", "ann_id": 666556, "best_split": [3, 3], "split_score": 0.36622998539065066}
+{"sent": "glass in direct line of pinot blanc blue label and lol", "ann_id": 666556, "best_split": [3, 3], "split_score": 0.36622998539065066}
+{"sent": "largest wine glass", "ann_id": 664235, "best_split": [1, 5], "split_score": 0.544709897557805}
+{"sent": "glass closest", "ann_id": 664235, "best_split": [3, 1], "split_score": 0.13082051024355568}
+{"sent": "glass closest to us", "ann_id": 664235, "best_split": [2, 1], "split_score": 0.032908951898650105}
+{"sent": "wine bottle 3", "ann_id": 2093348, "best_split": [3, 3], "split_score": 0.4182222982671309}
+{"sent": "strewn bottle clear", "ann_id": 2093348, "best_split": [3, 3], "split_score": 0.4182222982671309}
+{"sent": "empty clear wine bottle", "ann_id": 2093348, "best_split": [3, 3], "split_score": 0.4182222982671309}
+{"sent": "pinot blanc", "ann_id": 94460, "best_split": [2, 3], "split_score": 0.3610594795203476}
+{"sent": "green bottle tan lid", "ann_id": 94460, "best_split": [2, 2], "split_score": 0.2970765852115649}
+{"sent": "wine with blue words", "ann_id": 94460, "best_split": [2, 3], "split_score": 0.3610594795203476}
+{"sent": "chardonnay", "ann_id": 91365, "best_split": [1, 5], "split_score": 0.4520060944259348}
+{"sent": "chardonnay bottle", "ann_id": 91365, "best_split": [1, 5], "split_score": 0.4520060944259348}
+{"sent": "chardonnay", "ann_id": 91365, "best_split": [1, 5], "split_score": 0.4520060944259348}

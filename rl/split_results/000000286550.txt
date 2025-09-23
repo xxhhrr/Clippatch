@@ -1,0 +1,18 @@
+{"sent": "blue shirt white mustache", "ann_id": 458153, "best_split": [2, 3], "split_score": 0.6120401337061586}
+{"sent": "moustache", "ann_id": 458153, "best_split": [2, 3], "split_score": 0.6120401337061586}
+{"sent": "man in blue", "ann_id": 458153, "best_split": [2, 3], "split_score": 0.6120401337061586}
+{"sent": "man with beard", "ann_id": 454340, "best_split": [1, 5], "split_score": 0.5566265059761939}
+{"sent": "man in white shirt", "ann_id": 454340, "best_split": [3, 1], "split_score": 0.2005420054103493}
+{"sent": "man with white shirt", "ann_id": 454340, "best_split": [3, 1], "split_score": 0.2005420054103493}
+{"sent": "black laptop", "ann_id": 1101729, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "black laptop", "ann_id": 1101729, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "black computer", "ann_id": 1101729, "best_split": [2, 2], "split_score": 0.27463329079443294}
+{"sent": "blue shirts laptop", "ann_id": 1101575, "best_split": [3, 3], "split_score": 0.46557632391501924}
+{"sent": "laptop used by guy in glasses", "ann_id": 1101575, "best_split": [3, 2], "split_score": 0.38246606330515087}
+{"sent": "apple laptop facing us", "ann_id": 1101575, "best_split": [3, 2], "split_score": 0.38246606330515087}
+{"sent": "silver mac with keyboard showing", "ann_id": 1098609, "best_split": [3, 3], "split_score": 0.5645263826184795}
+{"sent": "silver mac near man with light shirt", "ann_id": 1098609, "best_split": [2, 1], "split_score": 0.17410714285020298}
+{"sent": "macbook next to the man with the beard", "ann_id": 1098609, "best_split": [2, 3], "split_score": 0.5270270269634378}
+{"sent": "woman", "ann_id": 431571, "best_split": [3, 3], "split_score": 0.5464989058333563}
+{"sent": "woman", "ann_id": 431571, "best_split": [3, 3], "split_score": 0.5464989058333563}
+{"sent": "woman in black", "ann_id": 431571, "best_split": [3, 3], "split_score": 0.5464989058333563}

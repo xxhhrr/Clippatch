@@ -1,0 +1,9 @@
+{"sent": "highest piece of luggage", "ann_id": 1842277, "best_split": [3, 1], "split_score": 0.7530767374063057}
+{"sent": "smallest one", "ann_id": 1842277, "best_split": [1, 2], "split_score": 0.1981312583647512}
+{"sent": "suit case above", "ann_id": 1842277, "best_split": [3, 1], "split_score": 0.7530767374063057}
+{"sent": "last", "ann_id": 1842025, "best_split": [1, 2], "split_score": 0.2873595986006226}
+{"sent": "the end", "ann_id": 1842025, "best_split": [2, 1], "split_score": 0.7999840560905619}
+{"sent": "lowest case", "ann_id": 1842025, "best_split": [1, 2], "split_score": 0.2873595986006226}
+{"sent": "case 2", "ann_id": 1184414, "best_split": [2, 1], "split_score": 0.44443811746022727}
+{"sent": "luggage with lighter gray strap and shiny button in corner kind of squished", "ann_id": 1184414, "best_split": [2, 1], "split_score": 0.44443811746022727}
+{"sent": "accordion topped trunk", "ann_id": 1184414, "best_split": [2, 1], "split_score": 0.44443811746022727}

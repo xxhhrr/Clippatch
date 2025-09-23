@@ -1,0 +1,15 @@
+{"sent": "man with glasses and white shirt", "ann_id": 1284708, "best_split": [1, 2], "split_score": 0.36579241069970536}
+{"sent": "guy with hat", "ann_id": 1284708, "best_split": [1, 2], "split_score": 0.36579241069970536}
+{"sent": "guy standing way back wearing glasses", "ann_id": 1284708, "best_split": [3, 1], "split_score": 0.19586719293262747}
+{"sent": "man sitting solid shirt glasses", "ann_id": 1255501, "best_split": [3, 2], "split_score": 0.4826475561250787}
+{"sent": "man sitting with glasses", "ann_id": 1255501, "best_split": [3, 2], "split_score": 0.4826475561250787}
+{"sent": "black shirt", "ann_id": 1255501, "best_split": [5, 1], "split_score": 0.21709203872710653}
+{"sent": "peace sign", "ann_id": 1306461, "best_split": [2, 3], "split_score": 0.4704677731762807}
+{"sent": "woman with peace sign", "ann_id": 1306461, "best_split": [2, 3], "split_score": 0.4704677731762807}
+{"sent": "woman with peace sign", "ann_id": 1306461, "best_split": [2, 3], "split_score": 0.4704677731762807}
+{"sent": "woman in striped shawl standing", "ann_id": 1305251, "best_split": [1, 5], "split_score": 0.5216947421710316}
+{"sent": "leaqning lady behind seated man", "ann_id": 1305251, "best_split": [3, 2], "split_score": 0.33229915085464573}
+{"sent": "women in scarf", "ann_id": 1305251, "best_split": [2, 1], "split_score": 0.1666196984582704}
+{"sent": "man in green white plaid shirt hands folded", "ann_id": 1297222, "best_split": [3, 3], "split_score": 0.4903085442553097}
+{"sent": "man plaid shirt", "ann_id": 1297222, "best_split": [3, 3], "split_score": 0.4903085442553097}
+{"sent": "oldest man with plaid", "ann_id": 1297222, "best_split": [3, 3], "split_score": 0.4903085442553097}

@@ -1,0 +1,7 @@
+{"sent": "smallest partial cow", "ann_id": 1819437, "best_split": [3, 3], "split_score": 0.4885993484457837}
+{"sent": "small cow out of view", "ann_id": 1819437, "best_split": [3, 2], "split_score": 0.32381866151069577}
+{"sent": "cow with large white spot", "ann_id": 72573, "best_split": [5, 1], "split_score": 0.4088905920282726}
+{"sent": "the larger of the cut off cows white square on it", "ann_id": 72573, "best_split": [5, 1], "split_score": 0.4088905920282726}
+{"sent": "only head we see", "ann_id": 72050, "best_split": [1, 5], "split_score": 0.155364730864433}
+{"sent": "cow under the barn opening", "ann_id": 72050, "best_split": [2, 3], "split_score": 0.26214552646052475}
+{"sent": "middle cow", "ann_id": 72050, "best_split": [3, 3], "split_score": 0.3129921259368576}

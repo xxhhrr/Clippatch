@@ -1,0 +1,6 @@
+{"sent": "glass with lemon and lime", "ann_id": 1515394, "best_split": [3, 3], "split_score": 0.27413568162522245}
+{"sent": "iced tea with lemon", "ann_id": 1515394, "best_split": [3, 3], "split_score": 0.27413568162522245}
+{"sent": "beer", "ann_id": 1515394, "best_split": [3, 3], "split_score": 0.27413568162522245}
+{"sent": "container holding pink flowers", "ann_id": 1512177, "best_split": [1, 3], "split_score": 0.17397926306754266}
+{"sent": "green flower pot", "ann_id": 1512177, "best_split": [2, 3], "split_score": 0.3381532505592447}
+{"sent": "green vase with flower", "ann_id": 1512177, "best_split": [1, 3], "split_score": 0.17397926306754266}

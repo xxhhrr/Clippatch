@@ -1,0 +1,15 @@
+{"sent": "black hat", "ann_id": 1730763, "best_split": [1, 2], "split_score": 0.2959582270290195}
+{"sent": "lady on side cut off", "ann_id": 1730763, "best_split": [3, 1], "split_score": 0.16872808725317842}
+{"sent": "black hat", "ann_id": 1730763, "best_split": [1, 2], "split_score": 0.2959582270290195}
+{"sent": "purple clothes", "ann_id": 561137, "best_split": [1, 5], "split_score": 0.5547150781244352}
+{"sent": "woman in purple", "ann_id": 561137, "best_split": [1, 5], "split_score": 0.5547150781244352}
+{"sent": "purple jacket", "ann_id": 561137, "best_split": [1, 5], "split_score": 0.5547150781244352}
+{"sent": "green shirt", "ann_id": 553796, "best_split": [1, 5], "split_score": 0.6406185736085697}
+{"sent": "person in green puma", "ann_id": 553796, "best_split": [1, 5], "split_score": 0.6406185736085697}
+{"sent": "man in teal", "ann_id": 553796, "best_split": [1, 5], "split_score": 0.6406185736085697}
+{"sent": "light blue jacket", "ann_id": 507560, "best_split": [2, 3], "split_score": 0.4922779922185958}
+{"sent": "girls in blue with head band", "ann_id": 507560, "best_split": [3, 3], "split_score": 0.6240652616206551}
+{"sent": "girl on knees", "ann_id": 507560, "best_split": [3, 3], "split_score": 0.6240652616206551}
+{"sent": "yellow pants", "ann_id": 482077, "best_split": [1, 5], "split_score": 0.6162162161567358}
+{"sent": "glove over face", "ann_id": 482077, "best_split": [1, 3], "split_score": 0.1574585635281443}
+{"sent": "person in blue coat and striped pants", "ann_id": 482077, "best_split": [1, 5], "split_score": 0.6162162161567358}

@@ -1,0 +1,6 @@
+{"sent": "tallest person", "ann_id": 2151917, "best_split": [3, 1], "split_score": 0.23872350021207017}
+{"sent": "sleeveless shirt", "ann_id": 2151917, "best_split": [2, 3], "split_score": 0.6508204632419377}
+{"sent": "man in blue sleeveless", "ann_id": 2151917, "best_split": [2, 3], "split_score": 0.6508204632419377}
+{"sent": "guy in blue shirt with sleeves", "ann_id": 506475, "best_split": [3, 3], "split_score": 0.6852384556116217}
+{"sent": "blue shirt and hat", "ann_id": 506475, "best_split": [3, 3], "split_score": 0.6852384556116217}
+{"sent": "guy in blue with stripe", "ann_id": 506475, "best_split": [3, 3], "split_score": 0.6852384556116217}

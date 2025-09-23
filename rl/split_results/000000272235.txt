@@ -1,0 +1,9 @@
+{"sent": "lol blurryness", "ann_id": 1680366, "best_split": [1, 2], "split_score": 0.5262675382443293}
+{"sent": "blurry person", "ann_id": 1680366, "best_split": [2, 1], "split_score": 0.13438009183426514}
+{"sent": "orange shirt in corner", "ann_id": 1680366, "best_split": [1, 2], "split_score": 0.5262675382443293}
+{"sent": "the tallests head in picture", "ann_id": 480910, "best_split": [2, 2], "split_score": 0.348294679375969}
+{"sent": "head looking at computer", "ann_id": 480910, "best_split": [2, 2], "split_score": 0.348294679375969}
+{"sent": "mom looking at laptop", "ann_id": 480910, "best_split": [2, 2], "split_score": 0.348294679375969}
+{"sent": "head of hear in front by lady", "ann_id": 442937, "best_split": [1, 3], "split_score": 0.43335675799757806}
+{"sent": "the head of the person using the laptop", "ann_id": 442937, "best_split": [1, 2], "split_score": 0.31489158162010156}
+{"sent": "head of hair man", "ann_id": 442937, "best_split": [1, 3], "split_score": 0.43335675799757806}

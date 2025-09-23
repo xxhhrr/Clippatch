@@ -1,0 +1,6 @@
+{"sent": "person in black jacket", "ann_id": 455205, "best_split": [1, 3], "split_score": 0.5412190192244858}
+{"sent": "person closest", "ann_id": 455205, "best_split": [1, 3], "split_score": 0.5412190192244858}
+{"sent": "black jacket", "ann_id": 455205, "best_split": [1, 3], "split_score": 0.5412190192244858}
+{"sent": "red skier", "ann_id": 446661, "best_split": [1, 5], "split_score": 0.4659931444645505}
+{"sent": "orange", "ann_id": 446661, "best_split": [1, 5], "split_score": 0.4659931444645505}
+{"sent": "skier wearing a brown coat", "ann_id": 446661, "best_split": [2, 2], "split_score": 0.2421301154090943}

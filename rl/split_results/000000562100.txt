@@ -1,0 +1,20 @@
+{"sent": "all green apple", "ann_id": 1549327, "best_split": [3, 1], "split_score": 0.32580896918257735}
+{"sent": "totally green apple", "ann_id": 1549327, "best_split": [3, 1], "split_score": 0.32580896918257735}
+{"sent": "green apple", "ann_id": 1549327, "best_split": [3, 1], "split_score": 0.32580896918257735}
+{"sent": "the banana underneath", "ann_id": 1545645, "best_split": [1, 2], "split_score": 0.5676020407937021}
+{"sent": "lowest banana", "ann_id": 1545645, "best_split": [1, 2], "split_score": 0.5676020407937021}
+{"sent": "the banana at 1o clock", "ann_id": 1543488, "best_split": [3, 2], "split_score": 0.5120810599585702}
+{"sent": "short banana next to sticker", "ann_id": 1543488, "best_split": [3, 2], "split_score": 0.5120810599585702}
+{"sent": "half banana 1 clock", "ann_id": 1543488, "best_split": [3, 2], "split_score": 0.5120810599585702}
+{"sent": "apple touching the green apple", "ann_id": 1049203, "best_split": [2, 1], "split_score": 0.08428058629657939}
+{"sent": "deep red apple above yellowest apple", "ann_id": 1049203, "best_split": [2, 1], "split_score": 0.08428058629657939}
+{"sent": "red apple next to green apple", "ann_id": 1049203, "best_split": [2, 1], "split_score": 0.08428058629657939}
+{"sent": "apple on side understicker", "ann_id": 1049188, "best_split": [2, 2], "split_score": 0.6561391656445342}
+{"sent": "closest apple", "ann_id": 1049188, "best_split": [2, 2], "split_score": 0.6561391656445342}
+{"sent": "apple wtih stem", "ann_id": 1049188, "best_split": [2, 2], "split_score": 0.6561391656445342}
+{"sent": "longest banana", "ann_id": 1046253, "best_split": [1, 2], "split_score": 0.47154017855263314}
+{"sent": "next to sticker almost see full banana", "ann_id": 1046253, "best_split": [1, 3], "split_score": 0.23794996948322367}
+{"sent": "most salient banana", "ann_id": 1046253, "best_split": [1, 2], "split_score": 0.47154017855263314}
+{"sent": "banana sticker", "ann_id": 1045225, "best_split": [2, 3], "split_score": 0.6142926277936528}
+{"sent": "banana label", "ann_id": 1045225, "best_split": [2, 3], "split_score": 0.6142926277936528}
+{"sent": "the banana with the lable on it", "ann_id": 1045225, "best_split": [2, 3], "split_score": 0.6142926277936528}

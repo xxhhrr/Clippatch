@@ -1,0 +1,6 @@
+{"sent": "slice without shells on it", "ann_id": 1076310, "best_split": [3, 1], "split_score": 0.323650107973885}
+{"sent": "slice with no black things on it", "ann_id": 1076310, "best_split": [3, 1], "split_score": 0.323650107973885}
+{"sent": "slice with nothing on it", "ann_id": 1076310, "best_split": [5, 1], "split_score": 0.18311170211548458}
+{"sent": "the slice of pizza with the most mussels", "ann_id": 1075338, "best_split": [2, 1], "split_score": 0.5356744259990563}
+{"sent": "12 pizza", "ann_id": 1075338, "best_split": [5, 1], "split_score": 0.3990150741457561}
+{"sent": "pizza slice with three clams", "ann_id": 1073582, "best_split": [1, 2], "split_score": 0.6642617984429104}

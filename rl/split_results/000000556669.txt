@@ -1,0 +1,9 @@
+{"sent": "red shirt", "ann_id": 463725, "best_split": [1, 2], "split_score": 0.7268813775220472}
+{"sent": "red back", "ann_id": 463725, "best_split": [1, 2], "split_score": 0.7268813775220472}
+{"sent": "red shirt", "ann_id": 463725, "best_split": [1, 2], "split_score": 0.7268813775220472}
+{"sent": "guy with bat", "ann_id": 449021, "best_split": [1, 5], "split_score": 0.4784043191002996}
+{"sent": "man with bat", "ann_id": 449021, "best_split": [1, 5], "split_score": 0.4784043191002996}
+{"sent": "swinging", "ann_id": 449021, "best_split": [1, 5], "split_score": 0.4784043191002996}
+{"sent": "light blue shirt", "ann_id": 447714, "best_split": [1, 5], "split_score": 0.38213226309700465}
+{"sent": "light blue in jeans", "ann_id": 447714, "best_split": [1, 5], "split_score": 0.38213226309700465}
+{"sent": "man with hands on hips", "ann_id": 447714, "best_split": [1, 5], "split_score": 0.38213226309700465}

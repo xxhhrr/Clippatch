@@ -1,0 +1,6 @@
+{"sent": "zebra wearing blue", "ann_id": 273797, "best_split": [3, 2], "split_score": 0.8206701273217708}
+{"sent": "wearin blankie", "ann_id": 273797, "best_split": [3, 2], "split_score": 0.8206701273217708}
+{"sent": "horse with blue blanket", "ann_id": 273797, "best_split": [3, 1], "split_score": 0.41493676924272627}
+{"sent": "spotted horse", "ann_id": 58748, "best_split": [2, 2], "split_score": 0.5420235545675841}
+{"sent": "naked horse", "ann_id": 58748, "best_split": [2, 2], "split_score": 0.5420235545675841}
+{"sent": "brown white horsie", "ann_id": 58748, "best_split": [2, 2], "split_score": 0.5420235545675841}

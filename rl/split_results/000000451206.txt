@@ -1,0 +1,12 @@
+{"sent": "blue bag sitting on tan luggage with pink stickers", "ann_id": 1184811, "best_split": [1, 5], "split_score": 0.2057522123704137}
+{"sent": "blue bag", "ann_id": 1184811, "best_split": [3, 3], "split_score": 0.5887509129677226}
+{"sent": "blue bag with purple spots", "ann_id": 1184811, "best_split": [3, 3], "split_score": 0.5887509129677226}
+{"sent": "brown suitcase", "ann_id": 2177788, "best_split": [3, 3], "split_score": 0.5512572532960578}
+{"sent": "brown suitcase", "ann_id": 2177788, "best_split": [3, 3], "split_score": 0.5512572532960578}
+{"sent": "tanish suitcase", "ann_id": 2177788, "best_split": [3, 3], "split_score": 0.5512572532960578}
+{"sent": "nigger", "ann_id": 482745, "best_split": [1, 5], "split_score": 0.7130600571355351}
+{"sent": "black man", "ann_id": 482745, "best_split": [1, 5], "split_score": 0.7130600571355351}
+{"sent": "black man", "ann_id": 482745, "best_split": [1, 5], "split_score": 0.7130600571355351}
+{"sent": "red shirt", "ann_id": 441425, "best_split": [1, 5], "split_score": 0.426264800819428}
+{"sent": "red jacket", "ann_id": 441425, "best_split": [1, 5], "split_score": 0.426264800819428}
+{"sent": "red vest", "ann_id": 441425, "best_split": [3, 1], "split_score": 0.15677114454034596}

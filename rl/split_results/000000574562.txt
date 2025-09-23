@@ -1,0 +1,5 @@
+{"sent": "tan car on far side of street", "ann_id": 350703, "best_split": [5, 1], "split_score": 0.32748091599928614}
+{"sent": "car with people getting it look near umbrella", "ann_id": 350703, "best_split": [5, 1], "split_score": 0.32748091599928614}
+{"sent": "closest white car", "ann_id": 345406, "best_split": [2, 3], "split_score": 0.5769230768570371}
+{"sent": "car approaching lady", "ann_id": 345406, "best_split": [2, 2], "split_score": 0.3879310344528994}
+{"sent": "white vehicle closest to person", "ann_id": 345406, "best_split": [2, 3], "split_score": 0.5769230768570371}

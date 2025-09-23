@@ -1,0 +1,9 @@
+{"sent": "boy in black hat", "ann_id": 1223853, "best_split": [1, 5], "split_score": 0.39712556728468934}
+{"sent": "boy in dark hat center portion", "ann_id": 1223853, "best_split": [3, 2], "split_score": 0.2020385875316674}
+{"sent": "man sitting in chair with hat and tie type thing", "ann_id": 1223853, "best_split": [3, 3], "split_score": 0.4121162726959907}
+{"sent": "girl ground next to boy", "ann_id": 1201134, "best_split": [5, 1], "split_score": 0.20947308963047906}
+{"sent": "sitting on ground legs out toward us", "ann_id": 1201134, "best_split": [2, 2], "split_score": 0.37052256160873603}
+{"sent": "oldest girl sitting on ground", "ann_id": 1201134, "best_split": [5, 1], "split_score": 0.20947308963047906}
+{"sent": "little girl sitting by herself", "ann_id": 1256959, "best_split": [2, 3], "split_score": 0.3482142856722714}
+{"sent": "girl all by herself", "ann_id": 1256959, "best_split": [2, 3], "split_score": 0.3482142856722714}
+{"sent": "smallest girl", "ann_id": 1256959, "best_split": [2, 3], "split_score": 0.3482142856722714}

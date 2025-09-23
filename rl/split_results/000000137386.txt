@@ -1,0 +1,5 @@
+{"sent": "section of red apples", "ann_id": 1552372, "best_split": [1, 2], "split_score": 0.5484693877332402}
+{"sent": "apples at 7 0clock", "ann_id": 1552372, "best_split": [1, 2], "split_score": 0.5484693877332402}
+{"sent": "apples that are the color green and red mix", "ann_id": 1552051, "best_split": [1, 2], "split_score": 0.40385841835124925}
+{"sent": "the apples between the stacks of green ones on each side", "ann_id": 1552051, "best_split": [1, 2], "split_score": 0.40385841835124925}
+{"sent": "red and green mixed apples", "ann_id": 1552051, "best_split": [1, 2], "split_score": 0.40385841835124925}

@@ -1,0 +1,12 @@
+{"sent": "slightly visible person next to white shirt", "ann_id": 1759653, "best_split": [2, 3], "split_score": 0.696741606348743}
+{"sent": "shadowed person in black pants", "ann_id": 1759653, "best_split": [2, 1], "split_score": 0.26155333307574996}
+{"sent": "partial person at 1 o clock", "ann_id": 1759653, "best_split": [2, 1], "split_score": 0.26155333307574996}
+{"sent": "bent over", "ann_id": 1734785, "best_split": [1, 2], "split_score": 0.5280612244687476}
+{"sent": "bent", "ann_id": 1734785, "best_split": [1, 2], "split_score": 0.5280612244687476}
+{"sent": "plaid shirt hand reaching under something", "ann_id": 1734785, "best_split": [1, 2], "split_score": 0.5280612244687476}
+{"sent": "pants of back figure closest to one in hat", "ann_id": 526093, "best_split": [2, 1], "split_score": 0.21768042244405708}
+{"sent": "guy in back with legs crossed", "ann_id": 526093, "best_split": [2, 3], "split_score": 0.4294264338723764}
+{"sent": "crossed legs", "ann_id": 526093, "best_split": [1, 5], "split_score": 0.2512198960923013}
+{"sent": "white shirt with black pocket", "ann_id": 517301, "best_split": [1, 2], "split_score": 0.7068543451382017}
+{"sent": "person in white", "ann_id": 517301, "best_split": [1, 2], "split_score": 0.7068543451382017}
+{"sent": "white shirt s", "ann_id": 517301, "best_split": [1, 2], "split_score": 0.7068543451382017}

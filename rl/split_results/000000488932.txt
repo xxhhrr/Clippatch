@@ -1,0 +1,8 @@
+{"sent": "green bus only partially visible", "ann_id": 168918, "best_split": [3, 3], "split_score": 0.24246395802851062}
+{"sent": "green bus you dont see as much of", "ann_id": 168918, "best_split": [3, 2], "split_score": 0.18557098763642255}
+{"sent": "bus covered by pole but dont click on ploe", "ann_id": 168268, "best_split": [3, 1], "split_score": 0.1743177613220214}
+{"sent": "yellow part of a bus", "ann_id": 168268, "best_split": [3, 1], "split_score": 0.1743177613220214}
+{"sent": "small bus behind corner", "ann_id": 168268, "best_split": [3, 1], "split_score": 0.1743177613220214}
+{"sent": "green bus", "ann_id": 166106, "best_split": [1, 3], "split_score": 0.5394757251225579}
+{"sent": "full viewed bus", "ann_id": 166106, "best_split": [1, 3], "split_score": 0.5394757251225579}
+{"sent": "green bus", "ann_id": 166106, "best_split": [1, 3], "split_score": 0.5394757251225579}

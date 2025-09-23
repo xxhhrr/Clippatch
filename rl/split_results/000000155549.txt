@@ -1,0 +1,5 @@
+{"sent": "red lounge chair", "ann_id": 116846, "best_split": [5, 1], "split_score": 0.26666666664141414}
+{"sent": "small close red chair", "ann_id": 116846, "best_split": [5, 1], "split_score": 0.26666666664141414}
+{"sent": "armchair not facing tv", "ann_id": 116846, "best_split": [3, 3], "split_score": 0.23775454041858082}
+{"sent": "the red couch below the painting", "ann_id": 115398, "best_split": [2, 2], "split_score": 0.4285714285372631}
+{"sent": "sofa facing tv", "ann_id": 115398, "best_split": [2, 2], "split_score": 0.4285714285372631}

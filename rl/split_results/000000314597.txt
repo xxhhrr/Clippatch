@@ -1,0 +1,6 @@
+{"sent": "the larger zebra", "ann_id": 592306, "best_split": [1, 2], "split_score": 0.6208854417701085}
+{"sent": "nose isnt as black", "ann_id": 592306, "best_split": [1, 2], "split_score": 0.6208854417701085}
+{"sent": "bigger zebra", "ann_id": 592306, "best_split": [1, 2], "split_score": 0.6208854417701085}
+{"sent": "the one whose face is turned more towards us", "ann_id": 592055, "best_split": [1, 2], "split_score": 0.5004384566127057}
+{"sent": "zeb with face closest to side edge of frame", "ann_id": 592055, "best_split": [1, 3], "split_score": 0.5669409929230842}
+{"sent": "z nearest 9 o clock", "ann_id": 592055, "best_split": [3, 1], "split_score": 0.2590655659653773}

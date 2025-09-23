@@ -1,0 +1,6 @@
+{"sent": "flame bike", "ann_id": 153465, "best_split": [1, 2], "split_score": 0.7478475765008032}
+{"sent": "the flames", "ann_id": 153465, "best_split": [1, 2], "split_score": 0.7478475765008032}
+{"sent": "flames bike", "ann_id": 153465, "best_split": [1, 2], "split_score": 0.7478475765008032}
+{"sent": "white and black", "ann_id": 153159, "best_split": [1, 2], "split_score": 0.6764530846862455}
+{"sent": "closest bike", "ann_id": 153159, "best_split": [2, 1], "split_score": 0.41229975886522546}
+{"sent": "bike with side wheels", "ann_id": 153159, "best_split": [2, 1], "split_score": 0.41229975886522546}

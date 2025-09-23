@@ -1,0 +1,5 @@
+{"sent": "horse in backround with three feet showing", "ann_id": 368659, "best_split": [2, 1], "split_score": 0.2551020408061582}
+{"sent": "white horse with lighter saddle", "ann_id": 368659, "best_split": [2, 1], "split_score": 0.2551020408061582}
+{"sent": "horse man is riding", "ann_id": 58402, "best_split": [3, 1], "split_score": 0.3963721205219555}
+{"sent": "dark horse walking", "ann_id": 58402, "best_split": [3, 1], "split_score": 0.3963721205219555}
+{"sent": "horse running", "ann_id": 58402, "best_split": [3, 1], "split_score": 0.3963721205219555}

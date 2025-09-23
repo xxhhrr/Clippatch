@@ -1,0 +1,7 @@
+{"sent": "chicken on side of cheese bag", "ann_id": 1570000, "best_split": [2, 2], "split_score": 0.291613520384916}
+{"sent": "pizza thats not a triangle", "ann_id": 1570000, "best_split": [2, 1], "split_score": 0.14580676019826982}
+{"sent": "pizza with largest tomato", "ann_id": 1071205, "best_split": [2, 3], "split_score": 0.4557268056470439}
+{"sent": "slice closest to you", "ann_id": 1071205, "best_split": [2, 3], "split_score": 0.4557268056470439}
+{"sent": "pizza with largest tomato round", "ann_id": 1071205, "best_split": [2, 3], "split_score": 0.4557268056470439}
+{"sent": "whole pizza slice closest to cheese bag", "ann_id": 1071056, "best_split": [3, 2], "split_score": 0.5575638506328523}
+{"sent": "pizza slice closest to weight info on bag", "ann_id": 1071056, "best_split": [3, 2], "split_score": 0.5575638506328523}

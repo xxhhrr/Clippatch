@@ -1,0 +1,5 @@
+{"sent": "blue shirt", "ann_id": 521251, "best_split": [2, 1], "split_score": 0.2639195979823713}
+{"sent": "pitcher with leg up", "ann_id": 521251, "best_split": [1, 2], "split_score": 0.754464285684213}
+{"sent": "light blue sock", "ann_id": 508570, "best_split": [1, 2], "split_score": 0.6033163265065642}
+{"sent": "20", "ann_id": 508570, "best_split": [3, 1], "split_score": 0.25106517278479307}
+{"sent": "light blue cap", "ann_id": 508570, "best_split": [1, 2], "split_score": 0.6033163265065642}

@@ -1,0 +1,6 @@
+{"sent": "pony tail", "ann_id": 1726860, "best_split": [5, 1], "split_score": 0.05712530712092097}
+{"sent": "white shirt ponytail", "ann_id": 1726860, "best_split": [1, 5], "split_score": 0.330884485226594}
+{"sent": "girl in white shirt with ponytail facing away", "ann_id": 1726860, "best_split": [1, 5], "split_score": 0.330884485226594}
+{"sent": "him", "ann_id": 462833, "best_split": [1, 2], "split_score": 0.7049687306472074}
+{"sent": "man", "ann_id": 462833, "best_split": [1, 2], "split_score": 0.7049687306472074}
+{"sent": "boy with glasses", "ann_id": 462833, "best_split": [1, 2], "split_score": 0.7049687306472074}

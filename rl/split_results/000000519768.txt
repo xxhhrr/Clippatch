@@ -1,0 +1,6 @@
+{"sent": "person in patterned shirt", "ann_id": 1305065, "best_split": [3, 2], "split_score": 0.5406102277029856}
+{"sent": "man in pattern shirt", "ann_id": 1305065, "best_split": [3, 2], "split_score": 0.5406102277029856}
+{"sent": "green emblems shirt", "ann_id": 1305065, "best_split": [3, 2], "split_score": 0.5406102277029856}
+{"sent": "balding closest to you", "ann_id": 1227810, "best_split": [2, 2], "split_score": 0.3482142856865263}
+{"sent": "black shirt back touching laptop screen", "ann_id": 1227810, "best_split": [3, 2], "split_score": 0.39015817218913024}
+{"sent": "black shirt closest to camera balding man", "ann_id": 1227810, "best_split": [2, 1], "split_score": 0.17410714285020298}

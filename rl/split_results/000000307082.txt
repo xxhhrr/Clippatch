@@ -1,0 +1,5 @@
+{"sent": "truck on small incline", "ann_id": 401571, "best_split": [5, 1], "split_score": 0.2546296296085789}
+{"sent": "truck on hill", "ann_id": 401571, "best_split": [5, 1], "split_score": 0.2546296296085789}
+{"sent": "trucks back towards us", "ann_id": 401571, "best_split": [2, 2], "split_score": 0.3347280334477938}
+{"sent": "truck 5", "ann_id": 399352, "best_split": [3, 2], "split_score": 0.37468671675285226}
+{"sent": "the number 5 car", "ann_id": 399352, "best_split": [3, 2], "split_score": 0.37468671675285226}

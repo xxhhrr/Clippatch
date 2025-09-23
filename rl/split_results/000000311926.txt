@@ -1,0 +1,6 @@
+{"sent": "last bus", "ann_id": 167377, "best_split": [2, 3], "split_score": 0.2193064667034552}
+{"sent": "bus further away in the picture", "ann_id": 167377, "best_split": [2, 3], "split_score": 0.2193064667034552}
+{"sent": "back bus", "ann_id": 167377, "best_split": [2, 3], "split_score": 0.2193064667034552}
+{"sent": "bigger bus", "ann_id": 167299, "best_split": [3, 1], "split_score": 0.636316931120201}
+{"sent": "full bus", "ann_id": 167299, "best_split": [3, 1], "split_score": 0.636316931120201}
+{"sent": "bus in full view", "ann_id": 167299, "best_split": [3, 1], "split_score": 0.636316931120201}

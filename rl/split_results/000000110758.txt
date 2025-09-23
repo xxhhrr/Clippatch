@@ -1,0 +1,6 @@
+{"sent": "guy in hat", "ann_id": 218962, "best_split": [2, 2], "split_score": 0.686523286346393}
+{"sent": "guy in striped shirt", "ann_id": 218962, "best_split": [2, 2], "split_score": 0.686523286346393}
+{"sent": "man with hat", "ann_id": 218962, "best_split": [2, 2], "split_score": 0.686523286346393}
+{"sent": "man sitting down", "ann_id": 209238, "best_split": [2, 3], "split_score": 0.7567434047271274}
+{"sent": "man with no hat", "ann_id": 209238, "best_split": [2, 1], "split_score": 0.36917960087230045}
+{"sent": "man without hat", "ann_id": 209238, "best_split": [1, 2], "split_score": 0.11272001801613026}

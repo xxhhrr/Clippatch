@@ -1,0 +1,8 @@
+{"sent": "slice nearly touching largest piece", "ann_id": 1083279, "best_split": [3, 2], "split_score": 0.44128646218761347}
+{"sent": "medium size yellow piece", "ann_id": 1083279, "best_split": [3, 2], "split_score": 0.44128646218761347}
+{"sent": "donut fragment touching the big one", "ann_id": 1083279, "best_split": [5, 1], "split_score": 0.24516129030460693}
+{"sent": "fartest piece", "ann_id": 1082299, "best_split": [2, 3], "split_score": 0.2236842105064292}
+{"sent": "upper piece of food", "ann_id": 1082299, "best_split": [1, 3], "split_score": 0.12878787878128645}
+{"sent": "biggest piece", "ann_id": 1081638, "best_split": [2, 1], "split_score": 0.493690903683534}
+{"sent": "largest part of the doughnut", "ann_id": 1081638, "best_split": [2, 1], "split_score": 0.493690903683534}
+{"sent": "largest part of donut", "ann_id": 1081638, "best_split": [2, 1], "split_score": 0.493690903683534}

@@ -1,0 +1,5 @@
+{"sent": "the longest neck", "ann_id": 2071027, "best_split": [3, 3], "split_score": 0.6224859873685318}
+{"sent": "giraffe not the head", "ann_id": 2071027, "best_split": [3, 3], "split_score": 0.6224859873685318}
+{"sent": "giraffe neck", "ann_id": 2071027, "best_split": [3, 3], "split_score": 0.6224859873685318}
+{"sent": "giraffe head", "ann_id": 594765, "best_split": [2, 2], "split_score": 0.31366331171145295}
+{"sent": "giraffe head", "ann_id": 594765, "best_split": [2, 2], "split_score": 0.31366331171145295}

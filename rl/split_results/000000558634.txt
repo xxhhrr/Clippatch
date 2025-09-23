@@ -1,0 +1,6 @@
+{"sent": "fatter shadow silhouette nearer edge", "ann_id": 212832, "best_split": [3, 3], "split_score": 0.29040697670197574}
+{"sent": "bigger guy", "ann_id": 212832, "best_split": [3, 3], "split_score": 0.29040697670197574}
+{"sent": "fatter silhouette", "ann_id": 212832, "best_split": [3, 3], "split_score": 0.29040697670197574}
+{"sent": "person closer to road", "ann_id": 209000, "best_split": [1, 5], "split_score": 0.34874874871383893}
+{"sent": "arms crossed silhouette", "ann_id": 209000, "best_split": [1, 5], "split_score": 0.34874874871383893}
+{"sent": "person that is standing almost to street", "ann_id": 209000, "best_split": [1, 5], "split_score": 0.34874874871383893}

@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 468321, "best_split": [3, 3], "split_score": 0.4371257484676221}
+{"sent": "girl", "ann_id": 468321, "best_split": [1, 3], "split_score": 0.7238083860516181}
+{"sent": "woman", "ann_id": 468321, "best_split": [3, 3], "split_score": 0.4371257484676221}
+{"sent": "man is stripes", "ann_id": 1733627, "best_split": [1, 3], "split_score": 0.5157956791443009}
+{"sent": "man", "ann_id": 1733627, "best_split": [1, 3], "split_score": 0.5157956791443009}
+{"sent": "man", "ann_id": 1733627, "best_split": [1, 3], "split_score": 0.5157956791443009}

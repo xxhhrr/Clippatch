@@ -1,0 +1,7 @@
+{"sent": "the big chair", "ann_id": 1939239, "best_split": [1, 2], "split_score": 0.41496402044866154}
+{"sent": "the chair", "ann_id": 1939239, "best_split": [1, 2], "split_score": 0.41496402044866154}
+{"sent": "chair", "ann_id": 1939239, "best_split": [1, 2], "split_score": 0.41496402044866154}
+{"sent": "back of a wooden chair", "ann_id": 103150, "best_split": [2, 3], "split_score": 0.29243697475480945}
+{"sent": "closest chair at table next to woman", "ann_id": 103150, "best_split": [2, 2], "split_score": 0.19354838708139613}
+{"sent": "back of wooden chair", "ann_id": 103150, "best_split": [2, 3], "split_score": 0.29243697475480945}
+{"sent": "chair by the table", "ann_id": 103150, "best_split": [2, 3], "split_score": 0.29243697475480945}

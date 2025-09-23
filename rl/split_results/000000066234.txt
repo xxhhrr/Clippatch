@@ -1,0 +1,6 @@
+{"sent": "boat not covered in leaves", "ann_id": 177623, "best_split": [3, 2], "split_score": 0.4512195121579417}
+{"sent": "big white boat", "ann_id": 177623, "best_split": [3, 2], "split_score": 0.4512195121579417}
+{"sent": "boat that is not covered by branches", "ann_id": 177623, "best_split": [3, 2], "split_score": 0.4512195121579417}
+{"sent": "boat covered by more leaves", "ann_id": 175814, "best_split": [3, 1], "split_score": 0.2928759894338359}
+{"sent": "most in weeds", "ann_id": 175814, "best_split": [1, 2], "split_score": 0.5892857142622255}
+{"sent": "bat covered by leaves", "ann_id": 175814, "best_split": [1, 2], "split_score": 0.5892857142622255}

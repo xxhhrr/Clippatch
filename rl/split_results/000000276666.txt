@@ -1,0 +1,6 @@
+{"sent": "taller", "ann_id": 595914, "best_split": [3, 3], "split_score": 0.33982365904299927}
+{"sent": "giraffe closest to tree", "ann_id": 595914, "best_split": [1, 5], "split_score": 0.3161254509911098}
+{"sent": "giraffe near tree", "ann_id": 595914, "best_split": [1, 5], "split_score": 0.3161254509911098}
+{"sent": "giraffe not near the tree", "ann_id": 595150, "best_split": [3, 3], "split_score": 0.4752794496479708}
+{"sent": "smaller giraffe away from tree", "ann_id": 595150, "best_split": [3, 3], "split_score": 0.4752794496479708}
+{"sent": "giraffe not closest to tree", "ann_id": 595150, "best_split": [3, 3], "split_score": 0.4752794496479708}

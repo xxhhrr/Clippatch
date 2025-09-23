@@ -1,0 +1,6 @@
+{"sent": "stove surface", "ann_id": 1980534, "best_split": [5, 1], "split_score": 0.3842421889788238}
+{"sent": "gray stove grill", "ann_id": 1980534, "best_split": [5, 1], "split_score": 0.3842421889788238}
+{"sent": "the stovetop", "ann_id": 1980534, "best_split": [5, 1], "split_score": 0.3842421889788238}
+{"sent": "oven in wall", "ann_id": 1124172, "best_split": [3, 1], "split_score": 0.12721122386029993}
+{"sent": "wall ovens", "ann_id": 1124172, "best_split": [5, 1], "split_score": 0.10581064607023075}
+{"sent": "oven", "ann_id": 1124172, "best_split": [5, 1], "split_score": 0.10581064607023075}

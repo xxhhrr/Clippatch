@@ -1,0 +1,6 @@
+{"sent": "furthest train", "ann_id": 366978, "best_split": [3, 3], "split_score": 0.5841080511166272}
+{"sent": "white train", "ann_id": 366978, "best_split": [3, 3], "split_score": 0.5841080511166272}
+{"sent": "silver train", "ann_id": 366978, "best_split": [3, 3], "split_score": 0.5841080511166272}
+{"sent": "blue train", "ann_id": 366955, "best_split": [3, 2], "split_score": 0.41953772346058243}
+{"sent": "blue white train", "ann_id": 366955, "best_split": [3, 2], "split_score": 0.41953772346058243}
+{"sent": "blue train", "ann_id": 366955, "best_split": [3, 2], "split_score": 0.41953772346058243}

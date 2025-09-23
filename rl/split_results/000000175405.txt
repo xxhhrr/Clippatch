@@ -1,0 +1,6 @@
+{"sent": "blackwhite cat", "ann_id": 51356, "best_split": [1, 5], "split_score": 0.4438466711126558}
+{"sent": "black and white cat", "ann_id": 51356, "best_split": [1, 5], "split_score": 0.4438466711126558}
+{"sent": "black cat on toilet", "ann_id": 51356, "best_split": [1, 5], "split_score": 0.4438466711126558}
+{"sent": "cat on tub", "ann_id": 46333, "best_split": [3, 2], "split_score": 0.48524590158962644}
+{"sent": "cat on tub", "ann_id": 46333, "best_split": [3, 2], "split_score": 0.48524590158962644}
+{"sent": "can on tub", "ann_id": 46333, "best_split": [1, 3], "split_score": 0.2501508916186474}

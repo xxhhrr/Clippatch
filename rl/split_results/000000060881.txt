@@ -1,0 +1,6 @@
+{"sent": "man holding baby", "ann_id": 1238163, "best_split": [1, 2], "split_score": 0.507903494163168}
+{"sent": "parent", "ann_id": 1238163, "best_split": [1, 2], "split_score": 0.507903494163168}
+{"sent": "man holding baby", "ann_id": 1238163, "best_split": [1, 2], "split_score": 0.507903494163168}
+{"sent": "baby girl", "ann_id": 423615, "best_split": [1, 2], "split_score": 0.558002511335893}
+{"sent": "chilkd", "ann_id": 423615, "best_split": [2, 1], "split_score": 0.4460531623908276}
+{"sent": "baby", "ann_id": 423615, "best_split": [2, 1], "split_score": 0.43409646587165823}

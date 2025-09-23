@@ -1,0 +1,8 @@
+{"sent": "the darkest pastry", "ann_id": 1083161, "best_split": [1, 5], "split_score": 0.3745212474580958}
+{"sent": "darkest one", "ann_id": 1083161, "best_split": [1, 5], "split_score": 0.3745212474580958}
+{"sent": "chocolate donut", "ann_id": 1083161, "best_split": [1, 5], "split_score": 0.3745212474580958}
+{"sent": "doughnut next to the chocolate one", "ann_id": 1082858, "best_split": [3, 3], "split_score": 0.5722784056257766}
+{"sent": "lighter donut", "ann_id": 1082858, "best_split": [3, 3], "split_score": 0.5722784056257766}
+{"sent": "lightest donut", "ann_id": 1082858, "best_split": [3, 3], "split_score": 0.5722784056257766}
+{"sent": "the brown one on the side", "ann_id": 1082664, "best_split": [3, 3], "split_score": 0.2624113474886512}
+{"sent": "rightiest one", "ann_id": 1082664, "best_split": [3, 3], "split_score": 0.2624113474886512}

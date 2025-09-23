@@ -1,0 +1,5 @@
+{"sent": "chair farthest from fence", "ann_id": 1588209, "best_split": [2, 2], "split_score": 0.40704719384510146}
+{"sent": "chair at lower 5pm corner", "ann_id": 1588209, "best_split": [3, 2], "split_score": 0.48360655732348173}
+{"sent": "chair mostly covered by umbrella shade", "ann_id": 385548, "best_split": [2, 3], "split_score": 0.24357349744355777}
+{"sent": "closest chair to the camera", "ann_id": 385548, "best_split": [3, 1], "split_score": 0.31011717121809806}
+{"sent": "chair with back to us", "ann_id": 385548, "best_split": [3, 1], "split_score": 0.31011717121809806}

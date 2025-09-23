@@ -1,0 +1,12 @@
+{"sent": "plate with bread and cheese", "ann_id": 1040991, "best_split": [2, 3], "split_score": 0.7027584912082231}
+{"sent": "bowl with bread and cheese", "ann_id": 1040991, "best_split": [2, 3], "split_score": 0.7027584912082231}
+{"sent": "bread and white things", "ann_id": 1040991, "best_split": [2, 3], "split_score": 0.7027584912082231}
+{"sent": "carrots", "ann_id": 1040882, "best_split": [2, 3], "split_score": 0.6296449214874438}
+{"sent": "carrots", "ann_id": 1040882, "best_split": [2, 3], "split_score": 0.6296449214874438}
+{"sent": "plate with carrots", "ann_id": 1040882, "best_split": [2, 3], "split_score": 0.6296449214874438}
+{"sent": "the noodles", "ann_id": 1040263, "best_split": [3, 2], "split_score": 0.4822707125398678}
+{"sent": "pasta", "ann_id": 1040263, "best_split": [3, 2], "split_score": 0.4822707125398678}
+{"sent": "peas", "ann_id": 1040263, "best_split": [3, 2], "split_score": 0.4822707125398678}
+{"sent": "greens in a bowl", "ann_id": 713116, "best_split": [2, 3], "split_score": 0.5562579013466926}
+{"sent": "spinach", "ann_id": 713116, "best_split": [2, 3], "split_score": 0.5562579013466926}
+{"sent": "green", "ann_id": 713116, "best_split": [2, 3], "split_score": 0.5562579013466926}

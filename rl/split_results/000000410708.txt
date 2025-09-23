@@ -1,0 +1,3 @@
+{"sent": "tea cup next to saucer", "ann_id": 676127, "best_split": [3, 3], "split_score": 0.5261827373553299}
+{"sent": "white mug with flowers", "ann_id": 676127, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "white picture in upper corner", "ann_id": 676127, "best_split": [3, 2], "split_score": 0.35907335903003457}

@@ -1,0 +1,5 @@
+{"sent": "sighbus that is arranged vertically and close to wall", "ann_id": 1366470, "best_split": [2, 3], "split_score": 0.40174326461379406}
+{"sent": "extended bus which begins the parked busses", "ann_id": 1366470, "best_split": [3, 3], "split_score": 0.255871932783641}
+{"sent": "bus that is perpendicular to others", "ann_id": 1366274, "best_split": [2, 3], "split_score": 0.6956155142605801}
+{"sent": "bus separate from otgers", "ann_id": 1366274, "best_split": [2, 3], "split_score": 0.6956155142605801}
+{"sent": "bus by itself", "ann_id": 1366274, "best_split": [2, 3], "split_score": 0.6956155142605801}

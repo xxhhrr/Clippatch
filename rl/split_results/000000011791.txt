@@ -1,0 +1,12 @@
+{"sent": "man with blue shirt", "ann_id": 565558, "best_split": [3, 3], "split_score": 0.23294415526333603}
+{"sent": "light blue shirt", "ann_id": 565558, "best_split": [1, 2], "split_score": 0.13109853315803977}
+{"sent": "blue shirt showing", "ann_id": 565558, "best_split": [3, 3], "split_score": 0.23294415526333603}
+{"sent": "woman wearing shades", "ann_id": 563112, "best_split": [3, 3], "split_score": 0.2619702806463992}
+{"sent": "woman in black with white tag on her", "ann_id": 563112, "best_split": [2, 3], "split_score": 0.30487804874729113}
+{"sent": "black lady coat", "ann_id": 563112, "best_split": [2, 3], "split_score": 0.30487804874729113}
+{"sent": "man giving a thumbs up", "ann_id": 557268, "best_split": [1, 5], "split_score": 0.37286931814398644}
+{"sent": "blue tie", "ann_id": 557268, "best_split": [1, 5], "split_score": 0.37286931814398644}
+{"sent": "man in coat next to guy and girl", "ann_id": 557268, "best_split": [2, 3], "split_score": 0.2914822411430981}
+{"sent": "short woman", "ann_id": 520898, "best_split": [2, 2], "split_score": 0.2370751646175857}
+{"sent": "lady with smile", "ann_id": 520898, "best_split": [2, 1], "split_score": 0.12160745485841166}
+{"sent": "shortest", "ann_id": 520898, "best_split": [1, 5], "split_score": 0.3854504869738788}

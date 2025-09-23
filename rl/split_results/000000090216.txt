@@ -1,0 +1,6 @@
+{"sent": "red clothing", "ann_id": 1722453, "best_split": [2, 3], "split_score": 0.2776141384096766}
+{"sent": "red suit man", "ann_id": 1722453, "best_split": [2, 3], "split_score": 0.2776141384096766}
+{"sent": "red skier", "ann_id": 1722453, "best_split": [1, 5], "split_score": 0.24065864469006978}
+{"sent": "all black person", "ann_id": 437618, "best_split": [1, 5], "split_score": 0.41043193208538065}
+{"sent": "blackest coat guy", "ann_id": 437618, "best_split": [1, 2], "split_score": 0.1902503188699677}
+{"sent": "skier in black", "ann_id": 437618, "best_split": [1, 5], "split_score": 0.41043193208538065}

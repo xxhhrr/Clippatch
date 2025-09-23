@@ -1,0 +1,9 @@
+{"sent": "pink coat", "ann_id": 199036, "best_split": [3, 3], "split_score": 0.37252354654554665}
+{"sent": "girl in pink", "ann_id": 199036, "best_split": [3, 3], "split_score": 0.37252354654554665}
+{"sent": "little girl pink jacket", "ann_id": 199036, "best_split": [3, 3], "split_score": 0.37252354654554665}
+{"sent": "man facing sideways", "ann_id": 186497, "best_split": [2, 1], "split_score": 0.05087549979143542}
+{"sent": "man with bow by head", "ann_id": 186497, "best_split": [1, 5], "split_score": 0.5246851888342309}
+{"sent": "man not showing face", "ann_id": 186497, "best_split": [1, 5], "split_score": 0.5246851888342309}
+{"sent": "tallest man", "ann_id": 2162156, "best_split": [1, 5], "split_score": 0.6589088133671396}
+{"sent": "blue patch on beret", "ann_id": 2162156, "best_split": [1, 5], "split_score": 0.6589088133671396}
+{"sent": "man smiling holding object", "ann_id": 2162156, "best_split": [1, 5], "split_score": 0.6589088133671396}

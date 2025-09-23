@@ -1,0 +1,6 @@
+{"sent": "dark object behind carrots", "ann_id": 1708329, "best_split": [2, 3], "split_score": 0.36361463060439697}
+{"sent": "corner above carrot", "ann_id": 1708329, "best_split": [3, 3], "split_score": 0.5054290717153364}
+{"sent": "black near carrots", "ann_id": 1708329, "best_split": [2, 3], "split_score": 0.36361463060439697}
+{"sent": "green shirt in background", "ann_id": 430060, "best_split": [3, 3], "split_score": 0.5974723537760707}
+{"sent": "elbow green shirt", "ann_id": 430060, "best_split": [3, 3], "split_score": 0.5974723537760707}
+{"sent": "arm barely seen", "ann_id": 430060, "best_split": [2, 2], "split_score": 0.22644203310776398}

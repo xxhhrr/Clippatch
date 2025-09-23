@@ -1,0 +1,6 @@
+{"sent": "skier with goggles on head", "ann_id": 443926, "best_split": [3, 1], "split_score": 0.4501607716783325}
+{"sent": "girl on ground", "ann_id": 443926, "best_split": [3, 1], "split_score": 0.4501607716783325}
+{"sent": "person in light colored clothing", "ann_id": 443926, "best_split": [2, 2], "split_score": 0.22554567500718642}
+{"sent": "wearing black jacket", "ann_id": 423971, "best_split": [3, 2], "split_score": 0.5422290782354194}
+{"sent": "skiier in darker clothes", "ann_id": 423971, "best_split": [3, 2], "split_score": 0.5422290782354194}
+{"sent": "boy", "ann_id": 423971, "best_split": [1, 3], "split_score": 0.1941384736332544}

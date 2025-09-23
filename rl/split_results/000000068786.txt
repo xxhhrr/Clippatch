@@ -1,0 +1,6 @@
+{"sent": "woman looking at man", "ann_id": 225162, "best_split": [1, 5], "split_score": 0.5282061687775764}
+{"sent": "woman standing", "ann_id": 225162, "best_split": [2, 3], "split_score": 0.4029943854852366}
+{"sent": "person walking by", "ann_id": 225162, "best_split": [3, 1], "split_score": 0.14593855218087445}
+{"sent": "squatting", "ann_id": 190362, "best_split": [1, 5], "split_score": 0.4192807956862154}
+{"sent": "man", "ann_id": 190362, "best_split": [1, 5], "split_score": 0.4192807956862154}
+{"sent": "man", "ann_id": 190362, "best_split": [1, 5], "split_score": 0.4192807956862154}

@@ -1,0 +1,6 @@
+{"sent": "blue and silver food truck", "ann_id": 1371247, "best_split": [3, 3], "split_score": 0.3982389100517961}
+{"sent": "blue truck", "ann_id": 1371247, "best_split": [3, 3], "split_score": 0.3982389100517961}
+{"sent": "truck next to red one", "ann_id": 1371247, "best_split": [5, 1], "split_score": 0.18306213016058967}
+{"sent": "red", "ann_id": 400449, "best_split": [3, 2], "split_score": 0.6496788895121526}
+{"sent": "red thingy", "ann_id": 400449, "best_split": [3, 2], "split_score": 0.6496788895121526}
+{"sent": "red truck", "ann_id": 400449, "best_split": [3, 2], "split_score": 0.6496788895121526}

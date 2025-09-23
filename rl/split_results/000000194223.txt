@@ -1,0 +1,8 @@
+{"sent": "red train", "ann_id": 1367388, "best_split": [5, 1], "split_score": 0.4782223653105046}
+{"sent": "red train", "ann_id": 1367388, "best_split": [5, 1], "split_score": 0.4782223653105046}
+{"sent": "red train", "ann_id": 1367388, "best_split": [5, 1], "split_score": 0.4782223653105046}
+{"sent": "gray train this side of red train", "ann_id": 1367366, "best_split": [2, 1], "split_score": 0.5164221938569666}
+{"sent": "train our way by red train", "ann_id": 1367366, "best_split": [2, 1], "split_score": 0.5164221938569666}
+{"sent": "train next to shortest train", "ann_id": 1367331, "best_split": [5, 1], "split_score": 0.36227069187041233}
+{"sent": "not the shortest gray train", "ann_id": 1367331, "best_split": [5, 1], "split_score": 0.36227069187041233}
+{"sent": "number 2 from 3 o clock", "ann_id": 1367331, "best_split": [2, 1], "split_score": 0.010132732874788672}

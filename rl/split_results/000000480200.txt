@@ -1,0 +1,6 @@
+{"sent": "girl in green", "ann_id": 519001, "best_split": [3, 3], "split_score": 0.5761245673743729}
+{"sent": "her", "ann_id": 519001, "best_split": [3, 2], "split_score": 0.015675583573379146}
+{"sent": "green shirt jacket", "ann_id": 519001, "best_split": [3, 3], "split_score": 0.5761245673743729}
+{"sent": "guy with tie", "ann_id": 484343, "best_split": [3, 2], "split_score": 0.5627047261859259}
+{"sent": "man", "ann_id": 484343, "best_split": [3, 2], "split_score": 0.5627047261859259}
+{"sent": "man", "ann_id": 484343, "best_split": [3, 2], "split_score": 0.5627047261859259}

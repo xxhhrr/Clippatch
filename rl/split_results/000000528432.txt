@@ -1,0 +1,15 @@
+{"sent": "not writing bat", "ann_id": 1477343, "best_split": [3, 1], "split_score": 0.5893060295551232}
+{"sent": "bat next to bat with blue stripe", "ann_id": 1477343, "best_split": [3, 1], "split_score": 0.5893060295551232}
+{"sent": "bat with no writing", "ann_id": 1477343, "best_split": [3, 1], "split_score": 0.5893060295551232}
+{"sent": "closest bat", "ann_id": 1477333, "best_split": [1, 3], "split_score": 0.3582220918161133}
+{"sent": "clsoest bat", "ann_id": 1477333, "best_split": [1, 3], "split_score": 0.3582220918161133}
+{"sent": "closer bat", "ann_id": 1477333, "best_split": [1, 3], "split_score": 0.3582220918161133}
+{"sent": "2 bat", "ann_id": 1477284, "best_split": [3, 1], "split_score": 0.4795510216588772}
+{"sent": "2 from us", "ann_id": 1477284, "best_split": [2, 1], "split_score": 0.6810870604914767}
+{"sent": "bat next to lowest bat", "ann_id": 1477284, "best_split": [3, 1], "split_score": 0.4795510216588772}
+{"sent": "third baseball bat", "ann_id": 1476631, "best_split": [3, 1], "split_score": 0.48341591187290006}
+{"sent": "bat second under 2 blue pens", "ann_id": 1476631, "best_split": [3, 1], "split_score": 0.48341591187290006}
+{"sent": "count three either way", "ann_id": 1476631, "best_split": [3, 1], "split_score": 0.48341591187290006}
+{"sent": "farthest wooden object", "ann_id": 628005, "best_split": [2, 1], "split_score": 0.6564094387493459}
+{"sent": "bat with strip", "ann_id": 628005, "best_split": [2, 1], "split_score": 0.6564094387493459}
+{"sent": "blue stripe", "ann_id": 628005, "best_split": [2, 1], "split_score": 0.6564094387493459}

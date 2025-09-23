@@ -1,0 +1,3 @@
+{"sent": "3 meter", "ann_id": 419499, "best_split": [3, 1], "split_score": 0.23886910061003622}
+{"sent": "meter with 3 on it", "ann_id": 419499, "best_split": [1, 5], "split_score": 0.38403990021517276}
+{"sent": "big number 4 meter", "ann_id": 419100, "best_split": [3, 2], "split_score": 0.3821109749359259}

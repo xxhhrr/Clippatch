@@ -1,0 +1,9 @@
+{"sent": "bowl with carrots", "ann_id": 1532678, "best_split": [1, 2], "split_score": 0.46707589283852535}
+{"sent": "green stuff on plate", "ann_id": 1532678, "best_split": [2, 2], "split_score": 0.7176637167633513}
+{"sent": "dish with orange white and green food", "ann_id": 1532678, "best_split": [2, 2], "split_score": 0.7176637167633513}
+{"sent": "a bowl of delicious red strawberrys", "ann_id": 1040716, "best_split": [2, 2], "split_score": 0.6254228541582809}
+{"sent": "bowl of strawberries", "ann_id": 1040716, "best_split": [2, 2], "split_score": 0.6254228541582809}
+{"sent": "strawberry", "ann_id": 1040716, "best_split": [2, 2], "split_score": 0.6254228541582809}
+{"sent": "blue bowl", "ann_id": 1040428, "best_split": [2, 2], "split_score": 0.7368421052066255}
+{"sent": "empty bowl with silverware in it", "ann_id": 1040428, "best_split": [2, 2], "split_score": 0.7368421052066255}
+{"sent": "bowl with cutlery", "ann_id": 1040428, "best_split": [2, 2], "split_score": 0.7368421052066255}

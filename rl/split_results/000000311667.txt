@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 489193, "best_split": [3, 1], "split_score": 0.3024390243802756}
+{"sent": "evil lady", "ann_id": 489193, "best_split": [1, 3], "split_score": 0.3056234718725427}
+{"sent": "woman", "ann_id": 489193, "best_split": [3, 1], "split_score": 0.3024390243802756}
+{"sent": "boy", "ann_id": 444012, "best_split": [1, 2], "split_score": 0.5340488526875846}
+{"sent": "the kid", "ann_id": 444012, "best_split": [1, 2], "split_score": 0.5340488526875846}
+{"sent": "boy", "ann_id": 444012, "best_split": [1, 2], "split_score": 0.5340488526875846}

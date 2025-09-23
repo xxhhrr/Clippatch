@@ -1,0 +1,9 @@
+{"sent": "piece across from spatula", "ann_id": 1076106, "best_split": [3, 1], "split_score": 0.29645270268481827}
+{"sent": "lone white onion on the 4 piece pizza plate", "ann_id": 1076106, "best_split": [3, 3], "split_score": 0.44225430310351826}
+{"sent": "slice of quiche the pie server is about to grab has white thing on it", "ann_id": 1076106, "best_split": [2, 3], "split_score": 0.3180910542813407}
+{"sent": "pizza close to paper on table", "ann_id": 1073300, "best_split": [2, 3], "split_score": 0.2581536173102992}
+{"sent": "slice not alone nearest to glass and brochure on table", "ann_id": 1073300, "best_split": [3, 2], "split_score": 0.22878190493579767}
+{"sent": "pizza slice at 700", "ann_id": 1073300, "best_split": [2, 2], "split_score": 0.21373642941693785}
+{"sent": "piece by itself", "ann_id": 1072895, "best_split": [2, 3], "split_score": 0.4742017339316767}
+{"sent": "single serving", "ann_id": 1072895, "best_split": [2, 1], "split_score": 0.2254065688685664}
+{"sent": "slice that is alone", "ann_id": 1072895, "best_split": [1, 3], "split_score": 0.2527330102415906}

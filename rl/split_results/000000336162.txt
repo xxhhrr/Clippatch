@@ -1,0 +1,9 @@
+{"sent": "guy in yellow", "ann_id": 1723807, "best_split": [3, 3], "split_score": 0.4251811141112689}
+{"sent": "yellow jacket", "ann_id": 1723807, "best_split": [3, 3], "split_score": 0.4251811141112689}
+{"sent": "yellow with arm up", "ann_id": 1723807, "best_split": [3, 3], "split_score": 0.4251811141112689}
+{"sent": "woman in red blue hat next to yellow", "ann_id": 500201, "best_split": [3, 2], "split_score": 0.2257521565089678}
+{"sent": "female wearing orange jacket beside yellow", "ann_id": 500201, "best_split": [1, 5], "split_score": 0.3413149350303049}
+{"sent": "person next to yellow jacket", "ann_id": 500201, "best_split": [3, 2], "split_score": 0.2257521565089678}
+{"sent": "orange vest black pants", "ann_id": 497146, "best_split": [3, 3], "split_score": 0.3060192984674499}
+{"sent": "man with orange vest", "ann_id": 497146, "best_split": [3, 3], "split_score": 0.3060192984674499}
+{"sent": "man in red", "ann_id": 497146, "best_split": [3, 3], "split_score": 0.3060192984674499}

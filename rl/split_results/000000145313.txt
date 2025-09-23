@@ -1,0 +1,4 @@
+{"sent": "table next to bowl next blue stuff but above it", "ann_id": 1960457, "best_split": [1, 2], "split_score": 0.7729591836426595}
+{"sent": "counter to side of bowl with nothing on it", "ann_id": 1960214, "best_split": [1, 2], "split_score": 0.7716836734386286}
+{"sent": "part of table no utensil", "ann_id": 1960214, "best_split": [2, 1], "split_score": 0.27197802197023874}
+{"sent": "table spots at 3", "ann_id": 1960214, "best_split": [1, 5], "split_score": 0.4954954954701323}

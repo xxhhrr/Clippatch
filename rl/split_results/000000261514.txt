@@ -1,0 +1,9 @@
+{"sent": "mustache", "ann_id": 254842, "best_split": [2, 2], "split_score": 0.17322372282932885}
+{"sent": "man in white shirt", "ann_id": 254842, "best_split": [3, 2], "split_score": 0.2848378614937732}
+{"sent": "man with mustache", "ann_id": 254842, "best_split": [2, 2], "split_score": 0.17322372282932885}
+{"sent": "man wearing hat", "ann_id": 207759, "best_split": [1, 5], "split_score": 0.4800884955309653}
+{"sent": "wearing a hat and thinking", "ann_id": 207759, "best_split": [1, 5], "split_score": 0.4800884955309653}
+{"sent": "hat guy", "ann_id": 207759, "best_split": [1, 5], "split_score": 0.4800884955309653}
+{"sent": "stripe t shirt", "ann_id": 205833, "best_split": [3, 3], "split_score": 0.5563909773782435}
+{"sent": "striped shirt", "ann_id": 205833, "best_split": [3, 3], "split_score": 0.5563909773782435}
+{"sent": "man in stripes", "ann_id": 205833, "best_split": [3, 3], "split_score": 0.5563909773782435}

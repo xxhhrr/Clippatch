@@ -1,0 +1,9 @@
+{"sent": "young man in cap", "ann_id": 208853, "best_split": [3, 2], "split_score": 0.34036066422286193}
+{"sent": "white shirt guy sitting", "ann_id": 208853, "best_split": [2, 2], "split_score": 0.7515287832465363}
+{"sent": "white shirt", "ann_id": 208853, "best_split": [2, 2], "split_score": 0.7515287832465363}
+{"sent": "man sitting", "ann_id": 262324, "best_split": [1, 2], "split_score": 0.5005243838302298}
+{"sent": "man in a short sleeved blue shirt sitting down behind children", "ann_id": 262324, "best_split": [1, 2], "split_score": 0.5005243838302298}
+{"sent": "man with a beard and timepiece", "ann_id": 262324, "best_split": [1, 2], "split_score": 0.5005243838302298}
+{"sent": "boy in striped sweater", "ann_id": 217456, "best_split": [3, 2], "split_score": 0.29602558242393495}
+{"sent": "smallest child", "ann_id": 217456, "best_split": [3, 2], "split_score": 0.29602558242393495}
+{"sent": "child in blue", "ann_id": 217456, "best_split": [3, 2], "split_score": 0.29602558242393495}

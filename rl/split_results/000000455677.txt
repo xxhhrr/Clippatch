@@ -1,0 +1,6 @@
+{"sent": "woman in black", "ann_id": 473421, "best_split": [1, 3], "split_score": 0.6937499999707031}
+{"sent": "older person", "ann_id": 473421, "best_split": [2, 1], "split_score": 0.3230652008184645}
+{"sent": "adult", "ann_id": 473421, "best_split": [2, 1], "split_score": 0.31547619046765485}
+{"sent": "little girl", "ann_id": 436980, "best_split": [1, 2], "split_score": 0.5141278412497134}
+{"sent": "girl", "ann_id": 436980, "best_split": [1, 2], "split_score": 0.5141278412497134}
+{"sent": "little girl", "ann_id": 436980, "best_split": [1, 2], "split_score": 0.5141278412497134}

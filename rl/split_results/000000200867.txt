@@ -1,0 +1,3 @@
+{"sent": "woman", "ann_id": 465347, "best_split": [1, 5], "split_score": 0.754975977972291}
+{"sent": "woman in elephant trunk", "ann_id": 465347, "best_split": [2, 1], "split_score": 0.1562611372053698}
+{"sent": "the woman being hugged by an elephant", "ann_id": 465347, "best_split": [2, 1], "split_score": 0.1562611372053698}

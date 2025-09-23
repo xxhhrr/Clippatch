@@ -1,0 +1,6 @@
+{"sent": "man reaching for orange", "ann_id": 466293, "best_split": [2, 1], "split_score": 0.2636366918066627}
+{"sent": "man", "ann_id": 466293, "best_split": [1, 2], "split_score": 0.3952487244740414}
+{"sent": "man in striped shirt reaching", "ann_id": 466293, "best_split": [2, 3], "split_score": 0.6534059944910621}
+{"sent": "white shirt black pants", "ann_id": 431040, "best_split": [1, 5], "split_score": 0.6091720778602707}
+{"sent": "main person", "ann_id": 431040, "best_split": [1, 5], "split_score": 0.6091720778602707}
+{"sent": "white shirt", "ann_id": 431040, "best_split": [1, 5], "split_score": 0.6091720778602707}

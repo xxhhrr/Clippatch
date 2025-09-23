@@ -1,0 +1,6 @@
+{"sent": "black object near purple flower", "ann_id": 1926526, "best_split": [2, 3], "split_score": 0.21315028899533955}
+{"sent": "black and green eclair", "ann_id": 1926526, "best_split": [3, 2], "split_score": 0.29253271744280956}
+{"sent": "brown bismark above the row of donuts", "ann_id": 1926526, "best_split": [1, 2], "split_score": 0.10273046769000384}
+{"sent": "brown doughnut", "ann_id": 1081573, "best_split": [5, 1], "split_score": 0.2306094182597339}
+{"sent": "donut i think leaning on the powdered sugar one upper shelf", "ann_id": 1081573, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "tan donut leanin on white donut", "ann_id": 1081573, "best_split": [1, 2], "split_score": 0.0}

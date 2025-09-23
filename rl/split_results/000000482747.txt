@@ -1,0 +1,6 @@
+{"sent": "guy light blue shirt", "ann_id": 522309, "best_split": [1, 5], "split_score": 0.7565200078880628}
+{"sent": "geeky guy in light blue shirt", "ann_id": 522309, "best_split": [1, 5], "split_score": 0.7565200078880628}
+{"sent": "guy in light blue", "ann_id": 522309, "best_split": [1, 5], "split_score": 0.7565200078880628}
+{"sent": "person furthest away from us", "ann_id": 447183, "best_split": [3, 1], "split_score": 0.2280341339985764}
+{"sent": "black shirt farthest", "ann_id": 447183, "best_split": [2, 1], "split_score": 0.2734289573463231}
+{"sent": "man with black shirt", "ann_id": 447183, "best_split": [2, 1], "split_score": 0.2734289573463231}

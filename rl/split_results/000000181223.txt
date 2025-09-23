@@ -1,0 +1,11 @@
+{"sent": "man with fist to mouth", "ann_id": 444158, "best_split": [3, 3], "split_score": 0.49860594789746676}
+{"sent": "guy with hand over mouth", "ann_id": 444158, "best_split": [3, 3], "split_score": 0.49860594789746676}
+{"sent": "man in black eating fist", "ann_id": 444158, "best_split": [3, 3], "split_score": 0.49860594789746676}
+{"sent": "older guy with black striped shirt", "ann_id": 2204525, "best_split": [3, 1], "split_score": 0.2263348885315534}
+{"sent": "guy with gray hair and glasses infront of the blue hat", "ann_id": 2204525, "best_split": [3, 3], "split_score": 0.5193610841578701}
+{"sent": "old man closest to camera", "ann_id": 2204525, "best_split": [3, 1], "split_score": 0.2263348885315534}
+{"sent": "gray shirt man looking at us", "ann_id": 1731678, "best_split": [3, 3], "split_score": 0.3296511627427832}
+{"sent": "man in glasses looking at us", "ann_id": 1731678, "best_split": [3, 1], "split_score": 0.1682437110449894}
+{"sent": "man in gray t shirt looking this way", "ann_id": 1731678, "best_split": [3, 2], "split_score": 0.29157667383460295}
+{"sent": "gray lump beside man with glasses and no hat", "ann_id": 1202120, "best_split": [1, 5], "split_score": 0.29726978248058583}
+{"sent": "knee close to camera", "ann_id": 1202120, "best_split": [1, 2], "split_score": 0.0}

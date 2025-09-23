@@ -1,0 +1,6 @@
+{"sent": "sandwich with stick leaning", "ann_id": 312376, "best_split": [3, 3], "split_score": 0.4267788602853884}
+{"sent": "sandwich furthest from glass", "ann_id": 312376, "best_split": [3, 3], "split_score": 0.4267788602853884}
+{"sent": "sand closer to corner", "ann_id": 312376, "best_split": [3, 1], "split_score": 0.16174331430224106}
+{"sent": "piece of sandwich closest to the glass", "ann_id": 310554, "best_split": [3, 2], "split_score": 0.21841820149312913}
+{"sent": "sandwich by wine", "ann_id": 310554, "best_split": [5, 1], "split_score": 0.14594884634716965}
+{"sent": "small piece sandwich", "ann_id": 310554, "best_split": [3, 2], "split_score": 0.21841820149312913}

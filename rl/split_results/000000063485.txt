@@ -1,0 +1,16 @@
+{"sent": "big tomato in sandwich", "ann_id": 1911507, "best_split": [3, 2], "split_score": 0.4673103158288057}
+{"sent": "sandwhich with tomote closest to lettuce", "ann_id": 1911507, "best_split": [2, 2], "split_score": 0.3230322814419273}
+{"sent": "yellow sandwich on edge of plate", "ann_id": 1911450, "best_split": [3, 3], "split_score": 0.32811114390657536}
+{"sent": "sandwhich with yellow at 8 o clock", "ann_id": 1911450, "best_split": [3, 3], "split_score": 0.32811114390657536}
+{"sent": "sandwich on furthest end of plate next to sandwich with yellow stuff", "ann_id": 1911381, "best_split": [1, 3], "split_score": 0.21579391890590047}
+{"sent": "fartest sandwich with red", "ann_id": 1911381, "best_split": [1, 3], "split_score": 0.21579391890590047}
+{"sent": "sandwich half that is standing", "ann_id": 1910775, "best_split": [3, 1], "split_score": 0.17719651899418867}
+{"sent": "sandwich with yellow in it in front", "ann_id": 1910775, "best_split": [2, 3], "split_score": 0.5680088140456722}
+{"sent": "perhaps it is egg salad the yellow one diagonal", "ann_id": 1910775, "best_split": [2, 3], "split_score": 0.5680088140456722}
+{"sent": "bread red showing closest", "ann_id": 1909378, "best_split": [2, 2], "split_score": 0.5280612244476992}
+{"sent": "sandwich at closest edge of plate", "ann_id": 1909378, "best_split": [2, 3], "split_score": 0.3983495873594946}
+{"sent": "closest sandwich with red", "ann_id": 1909378, "best_split": [1, 2], "split_score": 0.2640306122343738}
+{"sent": "sandwich between egg sandwiches", "ann_id": 2219647, "best_split": [3, 2], "split_score": 0.6212686566439751}
+{"sent": "sandwich that looks like a square only", "ann_id": 311478, "best_split": [3, 1], "split_score": 0.26642335765109376}
+{"sent": "sandwich up leaning upright against lettuce", "ann_id": 311478, "best_split": [1, 3], "split_score": 0.4623006833449715}
+{"sent": "3 o clock slightly in from edge of picture", "ann_id": 311478, "best_split": [1, 3], "split_score": 0.4623006833449715}

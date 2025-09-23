@@ -1,0 +1,11 @@
+{"sent": "bread on furthest plate closest piece", "ann_id": 1910973, "best_split": [1, 5], "split_score": 0.26578737007735936}
+{"sent": "bread on sandwich next to fries and other plate", "ann_id": 1910973, "best_split": [1, 5], "split_score": 0.26578737007735936}
+{"sent": "sandwich with a small hole", "ann_id": 1910973, "best_split": [2, 3], "split_score": 0.32158590304541185}
+{"sent": "sandwich closest to us", "ann_id": 2219524, "best_split": [3, 3], "split_score": 0.5040175309525169}
+{"sent": "food in corner at seven o clock", "ann_id": 2219524, "best_split": [3, 3], "split_score": 0.5040175309525169}
+{"sent": "sandwich on corner plate largest chunk", "ann_id": 2219205, "best_split": [1, 5], "split_score": 0.3102592114102434}
+{"sent": "toasted half sandwich in best shape", "ann_id": 2219205, "best_split": [2, 3], "split_score": 0.40263030883172896}
+{"sent": "sandwich at 8 o clock", "ann_id": 2219205, "best_split": [1, 5], "split_score": 0.3102592114102434}
+{"sent": "pile of mushrooms beside a tomato", "ann_id": 2219054, "best_split": [3, 2], "split_score": 0.3425735156075507}
+{"sent": "mushrooms", "ann_id": 2219054, "best_split": [3, 2], "split_score": 0.3425735156075507}
+{"sent": "the mushrooms on burger", "ann_id": 2219054, "best_split": [3, 2], "split_score": 0.3425735156075507}

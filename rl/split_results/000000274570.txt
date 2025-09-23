@@ -1,0 +1,3 @@
+{"sent": "elephant with only tail visible", "ann_id": 1821123, "best_split": [1, 5], "split_score": 0.6535993670867891}
+{"sent": "just butt showing", "ann_id": 1821123, "best_split": [1, 2], "split_score": 0.35702327804699363}
+{"sent": "elephant not in full view", "ann_id": 1821123, "best_split": [1, 5], "split_score": 0.6535993670867891}

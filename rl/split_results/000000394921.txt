@@ -1,0 +1,9 @@
+{"sent": "strip shirt", "ann_id": 533962, "best_split": [3, 2], "split_score": 0.6235216819388472}
+{"sent": "girl in purple pants", "ann_id": 533962, "best_split": [3, 2], "split_score": 0.6235216819388472}
+{"sent": "purple pants and stripe shirt", "ann_id": 533962, "best_split": [3, 2], "split_score": 0.6235216819388472}
+{"sent": "the girl closest to us", "ann_id": 502339, "best_split": [1, 5], "split_score": 0.3142101989805496}
+{"sent": "woman on end in green", "ann_id": 502339, "best_split": [3, 3], "split_score": 0.510612638626313}
+{"sent": "person who is half cropped out", "ann_id": 502339, "best_split": [3, 3], "split_score": 0.510612638626313}
+{"sent": "man with no shirt", "ann_id": 455014, "best_split": [3, 3], "split_score": 0.5139648717947071}
+{"sent": "guy holding something up in hand", "ann_id": 455014, "best_split": [3, 3], "split_score": 0.5139648717947071}
+{"sent": "knife weilding guy", "ann_id": 455014, "best_split": [3, 3], "split_score": 0.5139648717947071}

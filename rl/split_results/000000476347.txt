@@ -1,0 +1,9 @@
+{"sent": "ahead of the rest", "ann_id": 39457, "best_split": [1, 2], "split_score": 0.2699351117422518}
+{"sent": "duck with head that is clearest to see", "ann_id": 39457, "best_split": [3, 2], "split_score": 0.6136602451301523}
+{"sent": "duck you cant see all of because of other ducks head", "ann_id": 39457, "best_split": [3, 2], "split_score": 0.6136602451301523}
+{"sent": "duck looking at the others", "ann_id": 38371, "best_split": [3, 1], "split_score": 0.35467614010431775}
+{"sent": "the duck closest to us", "ann_id": 38371, "best_split": [3, 1], "split_score": 0.35467614010431775}
+{"sent": "duck closest to camera", "ann_id": 38371, "best_split": [3, 1], "split_score": 0.35467614010431775}
+{"sent": "geese far away", "ann_id": 37834, "best_split": [2, 3], "split_score": 0.423535791724238}
+{"sent": "duck thats head is almost cut off", "ann_id": 37834, "best_split": [2, 3], "split_score": 0.423535791724238}
+{"sent": "duck thats furthest", "ann_id": 37834, "best_split": [2, 3], "split_score": 0.423535791724238}

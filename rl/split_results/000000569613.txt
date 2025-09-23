@@ -1,0 +1,6 @@
+{"sent": "elephant sun shining on it", "ann_id": 582574, "best_split": [3, 2], "split_score": 0.5628830957416082}
+{"sent": "elephant on path", "ann_id": 582574, "best_split": [3, 2], "split_score": 0.5628830957416082}
+{"sent": "elephant on path", "ann_id": 582574, "best_split": [3, 2], "split_score": 0.5628830957416082}
+{"sent": "elephant behind", "ann_id": 581925, "best_split": [3, 1], "split_score": 0.35724137929274674}
+{"sent": "elephant that is standing in grass", "ann_id": 581925, "best_split": [1, 2], "split_score": 0.370212765943381}
+{"sent": "elephant in back", "ann_id": 581925, "best_split": [3, 1], "split_score": 0.35724137929274674}

@@ -1,0 +1,9 @@
+{"sent": "empty table", "ann_id": 1966119, "best_split": [5, 1], "split_score": 0.24999999997728925}
+{"sent": "white surface 2at 2 close to edge", "ann_id": 1966119, "best_split": [3, 2], "split_score": 0.47104247098563673}
+{"sent": "table without any food", "ann_id": 1966119, "best_split": [5, 1], "split_score": 0.24999999997728925}
+{"sent": "long sandwich", "ann_id": 313093, "best_split": [1, 3], "split_score": 0.19466164686771592}
+{"sent": "long sandwich", "ann_id": 313093, "best_split": [1, 3], "split_score": 0.19466164686771592}
+{"sent": "sub sandwich", "ann_id": 313093, "best_split": [2, 1], "split_score": 0.32585299743599117}
+{"sent": "6 laying on doritos", "ann_id": 312459, "best_split": [1, 2], "split_score": 0.2353591160128114}
+{"sent": "burger in wraper", "ann_id": 312459, "best_split": [3, 2], "split_score": 0.5679999999385946}
+{"sent": "round sandwich", "ann_id": 312459, "best_split": [3, 2], "split_score": 0.5679999999385946}

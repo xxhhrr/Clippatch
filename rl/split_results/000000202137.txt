@@ -1,0 +1,5 @@
+{"sent": "bottle of wine", "ann_id": 89721, "best_split": [2, 3], "split_score": 0.2478551000657942}
+{"sent": "partial wine bottle", "ann_id": 89721, "best_split": [2, 3], "split_score": 0.2478551000657942}
+{"sent": "hf sauce", "ann_id": 85502, "best_split": [2, 3], "split_score": 0.4167446210925228}
+{"sent": "bottle hp", "ann_id": 85502, "best_split": [2, 3], "split_score": 0.4167446210925228}
+{"sent": "sauce", "ann_id": 85502, "best_split": [2, 3], "split_score": 0.4167446210925228}

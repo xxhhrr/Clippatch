@@ -1,0 +1,8 @@
+{"sent": "portion of sandwich not nearest", "ann_id": 1554508, "best_split": [1, 5], "split_score": 0.22613531045360727}
+{"sent": "half of sandwhich behind half", "ann_id": 1554508, "best_split": [2, 2], "split_score": 0.374441964255864}
+{"sent": "lettuce", "ann_id": 310911, "best_split": [1, 2], "split_score": 0.6006309148028143}
+{"sent": "red leaf", "ann_id": 310911, "best_split": [1, 2], "split_score": 0.6006309148028143}
+{"sent": "purple", "ann_id": 310911, "best_split": [1, 2], "split_score": 0.6006309148028143}
+{"sent": "sandwich with filling", "ann_id": 310216, "best_split": [1, 2], "split_score": 0.5638672985568202}
+{"sent": "sandwich half in foreground", "ann_id": 310216, "best_split": [1, 2], "split_score": 0.5638672985568202}
+{"sent": "close sandwich half", "ann_id": 310216, "best_split": [1, 2], "split_score": 0.5638672985568202}

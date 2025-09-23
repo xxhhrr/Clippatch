@@ -1,0 +1,5 @@
+{"sent": "bread with black dot", "ann_id": 312734, "best_split": [3, 2], "split_score": 0.5372754490615812}
+{"sent": "sandwich half with more pointed end facing us", "ann_id": 312734, "best_split": [3, 2], "split_score": 0.5372754490615812}
+{"sent": "toat close to glass", "ann_id": 312734, "best_split": [1, 2], "split_score": 0.48090270890092796}
+{"sent": "beard close to fruits", "ann_id": 310804, "best_split": [1, 5], "split_score": 0.28673743443619787}
+{"sent": "sandwich half closer to plate with grapefruit", "ann_id": 310804, "best_split": [1, 3], "split_score": 0.3830379224864469}

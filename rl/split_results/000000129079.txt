@@ -1,0 +1,5 @@
+{"sent": "pic on box", "ann_id": 321851, "best_split": [2, 1], "split_score": 0.2242424242343347}
+{"sent": "phone with stripy screen", "ann_id": 321851, "best_split": [2, 2], "split_score": 0.4095940959139698}
+{"sent": "actual cell phone", "ann_id": 321706, "best_split": [1, 3], "split_score": 0.8626930501410055}
+{"sent": "phone", "ann_id": 321706, "best_split": [1, 3], "split_score": 0.8626930501410055}
+{"sent": "actual phone", "ann_id": 321706, "best_split": [1, 3], "split_score": 0.8626930501410055}

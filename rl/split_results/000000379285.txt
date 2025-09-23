@@ -1,0 +1,6 @@
+{"sent": "sandwich resting on other sandwich", "ann_id": 1554659, "best_split": [3, 2], "split_score": 0.5579268292151365}
+{"sent": "sandwich above other one", "ann_id": 1554659, "best_split": [3, 2], "split_score": 0.5579268292151365}
+{"sent": "eat this one", "ann_id": 1554659, "best_split": [3, 2], "split_score": 0.5579268292151365}
+{"sent": "bread under other bread", "ann_id": 313354, "best_split": [3, 2], "split_score": 0.335615266101693}
+{"sent": "sandwich under sandwich", "ann_id": 313354, "best_split": [3, 2], "split_score": 0.335615266101693}
+{"sent": "sandwhich under the other", "ann_id": 313354, "best_split": [3, 2], "split_score": 0.335615266101693}

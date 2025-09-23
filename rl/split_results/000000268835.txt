@@ -1,0 +1,6 @@
+{"sent": "older boy", "ann_id": 1732575, "best_split": [2, 1], "split_score": 0.2818547337282157}
+{"sent": "adult", "ann_id": 1732575, "best_split": [2, 1], "split_score": 0.27224965548138924}
+{"sent": "man", "ann_id": 1732575, "best_split": [1, 2], "split_score": 0.7663823341531257}
+{"sent": "baby", "ann_id": 1225541, "best_split": [1, 2], "split_score": 0.5115846646805572}
+{"sent": "kid", "ann_id": 1225541, "best_split": [1, 2], "split_score": 0.5115846646805572}
+{"sent": "child in red", "ann_id": 1225541, "best_split": [2, 1], "split_score": 0.46155847841451647}

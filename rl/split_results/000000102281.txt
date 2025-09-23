@@ -1,0 +1,6 @@
+{"sent": "black shirt", "ann_id": 483416, "best_split": [1, 2], "split_score": 0.8044084821107936}
+{"sent": "man", "ann_id": 483416, "best_split": [1, 2], "split_score": 0.8044084821107936}
+{"sent": "man", "ann_id": 483416, "best_split": [1, 2], "split_score": 0.8044084821107936}
+{"sent": "the girl", "ann_id": 445417, "best_split": [1, 2], "split_score": 0.7874367566598516}
+{"sent": "girl in stripes", "ann_id": 445417, "best_split": [1, 2], "split_score": 0.7874367566598516}
+{"sent": "person who is suiting the tie", "ann_id": 445417, "best_split": [2, 1], "split_score": 0.3783092240169658}

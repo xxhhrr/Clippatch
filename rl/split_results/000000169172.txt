@@ -1,0 +1,6 @@
+{"sent": "man in black pants", "ann_id": 2155894, "best_split": [2, 2], "split_score": 0.8428730866675005}
+{"sent": "man with no shirt", "ann_id": 2155894, "best_split": [1, 2], "split_score": 0.4214365433505486}
+{"sent": "shirtless dude", "ann_id": 2155894, "best_split": [2, 2], "split_score": 0.8428730866675005}
+{"sent": "blurry pink skirt woman near man without shirt", "ann_id": 444114, "best_split": [2, 3], "split_score": 0.6301750485662522}
+{"sent": "blurry image of woman i think", "ann_id": 444114, "best_split": [2, 3], "split_score": 0.6301750485662522}
+{"sent": "red and white dress", "ann_id": 444114, "best_split": [2, 3], "split_score": 0.6301750485662522}

@@ -1,0 +1,6 @@
+{"sent": "boat one in from closest", "ann_id": 1380390, "best_split": [5, 1], "split_score": 0.6250937733847436}
+{"sent": "boat with red inside", "ann_id": 1380390, "best_split": [5, 1], "split_score": 0.6250937733847436}
+{"sent": "red boat near one closest to us", "ann_id": 1380390, "best_split": [2, 1], "split_score": 0.29791135202894165}
+{"sent": "boat closer to us", "ann_id": 1376403, "best_split": [3, 1], "split_score": 0.7802847489876759}
+{"sent": "boat nearer", "ann_id": 1376403, "best_split": [2, 1], "split_score": 0.5155452805916955}
+{"sent": "half canoe blue inside on land", "ann_id": 1376403, "best_split": [2, 1], "split_score": 0.5155452805916955}

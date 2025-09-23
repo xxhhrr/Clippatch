@@ -1,0 +1,6 @@
+{"sent": "car after the red one", "ann_id": 144324, "best_split": [3, 2], "split_score": 0.5253588516117992}
+{"sent": "black car", "ann_id": 144324, "best_split": [3, 3], "split_score": 0.7916366256684144}
+{"sent": "black car", "ann_id": 144324, "best_split": [3, 3], "split_score": 0.7916366256684144}
+{"sent": "burgundy ride", "ann_id": 143624, "best_split": [5, 1], "split_score": 0.21141649046594113}
+{"sent": "car in corner", "ann_id": 143624, "best_split": [3, 3], "split_score": 0.4885993484457837}
+{"sent": "red car", "ann_id": 143624, "best_split": [3, 2], "split_score": 0.32381866151069577}

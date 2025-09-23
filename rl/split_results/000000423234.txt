@@ -1,0 +1,6 @@
+{"sent": "eating green", "ann_id": 1284882, "best_split": [1, 5], "split_score": 0.18170740447410885}
+{"sent": "on ground", "ann_id": 1284882, "best_split": [2, 3], "split_score": 0.4758607043454827}
+{"sent": "man on ground", "ann_id": 1284882, "best_split": [2, 3], "split_score": 0.4758607043454827}
+{"sent": "maroon jersey", "ann_id": 1271788, "best_split": [1, 5], "split_score": 0.4063807531077121}
+{"sent": "the one that is standing", "ann_id": 1271788, "best_split": [1, 5], "split_score": 0.4063807531077121}
+{"sent": "guy standing", "ann_id": 1271788, "best_split": [5, 1], "split_score": 0.16630522336165157}

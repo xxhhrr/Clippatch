@@ -1,0 +1,7 @@
+{"sent": "pasta", "ann_id": 1899636, "best_split": [1, 2], "split_score": 0.7042570609699942}
+{"sent": "bowl full of pasta", "ann_id": 1899636, "best_split": [1, 2], "split_score": 0.7042570609699942}
+{"sent": "bowl of pasta", "ann_id": 1899636, "best_split": [1, 2], "split_score": 0.7042570609699942}
+{"sent": "noodle dish", "ann_id": 1899636, "best_split": [1, 2], "split_score": 0.7042570609699942}
+{"sent": "rice", "ann_id": 1039017, "best_split": [2, 3], "split_score": 0.751888303873668}
+{"sent": "rice", "ann_id": 1039017, "best_split": [2, 3], "split_score": 0.751888303873668}
+{"sent": "cheese", "ann_id": 1039017, "best_split": [3, 3], "split_score": 0.7435468116724505}

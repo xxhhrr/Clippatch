@@ -1,0 +1,9 @@
+{"sent": "car with tree blocking passenger window", "ann_id": 140681, "best_split": [3, 2], "split_score": 0.7738925237826995}
+{"sent": "car by tree", "ann_id": 140681, "best_split": [3, 2], "split_score": 0.7738925237826995}
+{"sent": "car seperated by tree", "ann_id": 140681, "best_split": [3, 2], "split_score": 0.7738925237826995}
+{"sent": "car with headlights facing camera", "ann_id": 135030, "best_split": [5, 1], "split_score": 0.16806327086262468}
+{"sent": "pic of the car where its lights are most facing you", "ann_id": 135030, "best_split": [5, 1], "split_score": 0.16806327086262468}
+{"sent": "car with nothing else", "ann_id": 135030, "best_split": [5, 1], "split_score": 0.16806327086262468}
+{"sent": "gold car at 1 o clock", "ann_id": 132956, "best_split": [5, 1], "split_score": 0.40959945337692377}
+{"sent": "car with driver in white shirt", "ann_id": 132956, "best_split": [5, 1], "split_score": 0.40959945337692377}
+{"sent": "tan car on large brown tiles", "ann_id": 132956, "best_split": [5, 1], "split_score": 0.40959945337692377}

@@ -1,0 +1,6 @@
+{"sent": "person with the knife", "ann_id": 478911, "best_split": [2, 2], "split_score": 0.8983050846759209}
+{"sent": "hands", "ann_id": 478911, "best_split": [2, 2], "split_score": 0.8983050846759209}
+{"sent": "hands", "ann_id": 478911, "best_split": [2, 2], "split_score": 0.8983050846759209}
+{"sent": "person in doorway", "ann_id": 445972, "best_split": [3, 2], "split_score": 0.46911196905536773}
+{"sent": "legs in foreground", "ann_id": 445972, "best_split": [3, 2], "split_score": 0.46911196905536773}
+{"sent": "black next to chair", "ann_id": 445972, "best_split": [3, 2], "split_score": 0.46911196905536773}

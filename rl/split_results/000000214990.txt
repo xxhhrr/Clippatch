@@ -1,0 +1,6 @@
+{"sent": "computer screen water and rocks", "ann_id": 35841, "best_split": [3, 3], "split_score": 0.5943335478759927}
+{"sent": "screen 2", "ann_id": 35841, "best_split": [3, 3], "split_score": 0.5943335478759927}
+{"sent": "smaller monitor", "ann_id": 35841, "best_split": [3, 2], "split_score": 0.26931523255447043}
+{"sent": "largest computer screen", "ann_id": 32311, "best_split": [2, 2], "split_score": 0.6401058330888441}
+{"sent": "large mac computer screen", "ann_id": 32311, "best_split": [2, 2], "split_score": 0.6401058330888441}
+{"sent": "larger screen", "ann_id": 32311, "best_split": [2, 2], "split_score": 0.6401058330888441}

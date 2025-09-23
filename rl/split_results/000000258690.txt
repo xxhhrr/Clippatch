@@ -1,0 +1,9 @@
+{"sent": "the elephant facing sideways", "ann_id": 581348, "best_split": [5, 1], "split_score": 0.2538985616764649}
+{"sent": "number 3", "ann_id": 581348, "best_split": [2, 2], "split_score": 0.3427256241914684}
+{"sent": "elephant standing sideways", "ann_id": 581348, "best_split": [5, 1], "split_score": 0.2538985616764649}
+{"sent": "elephant curved snout", "ann_id": 580499, "best_split": [3, 2], "split_score": 0.33270605943425796}
+{"sent": "elephant walking towards us", "ann_id": 580499, "best_split": [3, 2], "split_score": 0.33270605943425796}
+{"sent": "amaial next to man", "ann_id": 580281, "best_split": [1, 2], "split_score": 0.07435104623303548}
+{"sent": "trainers got him", "ann_id": 580281, "best_split": [5, 1], "split_score": 0.18088021923417055}
+{"sent": "elephant directly behind the man", "ann_id": 580281, "best_split": [3, 3], "split_score": 0.47663551395016024}
+{"sent": "elephant closes to man", "ann_id": 580281, "best_split": [3, 3], "split_score": 0.47663551395016024}

@@ -1,0 +1,9 @@
+{"sent": "black shirt white shorts leaning over", "ann_id": 1756852, "best_split": [2, 3], "split_score": 0.37422911601810604}
+{"sent": "his raqcket is on ground", "ann_id": 1756852, "best_split": [2, 3], "split_score": 0.37422911601810604}
+{"sent": "player with racket touching ground", "ann_id": 1756852, "best_split": [3, 1], "split_score": 0.18720636066977095}
+{"sent": "guy in all white", "ann_id": 1756454, "best_split": [2, 3], "split_score": 0.3594764905128961}
+{"sent": "dude in white by the net", "ann_id": 1756454, "best_split": [1, 3], "split_score": 0.33351264118501506}
+{"sent": "white shirt by net", "ann_id": 1756454, "best_split": [2, 3], "split_score": 0.3594764905128961}
+{"sent": "guy with big belly in brown", "ann_id": 1736746, "best_split": [1, 5], "split_score": 0.4787946428085638}
+{"sent": "large tennis player black shirt", "ann_id": 1736746, "best_split": [3, 2], "split_score": 0.23114055842582673}
+{"sent": "fat guy", "ann_id": 1736746, "best_split": [1, 5], "split_score": 0.4787946428085638}

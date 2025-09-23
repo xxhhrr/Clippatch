@@ -1,0 +1,9 @@
+{"sent": "animal at edge", "ann_id": 76840, "best_split": [3, 1], "split_score": 0.15744680850158443}
+{"sent": "animal on the west side of screen", "ann_id": 76840, "best_split": [3, 1], "split_score": 0.15744680850158443}
+{"sent": "the cow at 9", "ann_id": 76840, "best_split": [3, 1], "split_score": 0.15744680850158443}
+{"sent": "medium cow looking with body showing", "ann_id": 76342, "best_split": [5, 1], "split_score": 0.20101217774782443}
+{"sent": "there are two animals behind this animla", "ann_id": 76342, "best_split": [5, 1], "split_score": 0.21894060993427442}
+{"sent": "fully visible cow not near the others", "ann_id": 76342, "best_split": [3, 3], "split_score": 0.2184892897160666}
+{"sent": "cow in lead", "ann_id": 74290, "best_split": [2, 2], "split_score": 0.4615053763110032}
+{"sent": "leading cow", "ann_id": 74290, "best_split": [2, 2], "split_score": 0.4615053763110032}
+{"sent": "cow ahead of the herd", "ann_id": 74290, "best_split": [2, 2], "split_score": 0.4615053763110032}

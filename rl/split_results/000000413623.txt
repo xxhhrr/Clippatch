@@ -1,0 +1,12 @@
+{"sent": "person holding cup", "ann_id": 1758097, "best_split": [3, 3], "split_score": 0.4741125540715054}
+{"sent": "man holding clear glass", "ann_id": 1758097, "best_split": [2, 3], "split_score": 0.7066414314601994}
+{"sent": "man barely showing holding a cup", "ann_id": 1758097, "best_split": [2, 3], "split_score": 0.7066414314601994}
+{"sent": "man in dark shirt", "ann_id": 1757732, "best_split": [2, 3], "split_score": 0.445521292173713}
+{"sent": "guy with black shirt facing us", "ann_id": 1757732, "best_split": [1, 2], "split_score": 0.2582110969284833}
+{"sent": "man who most looks like ed helms", "ann_id": 1757732, "best_split": [2, 3], "split_score": 0.445521292173713}
+{"sent": "curly mustache", "ann_id": 1746896, "best_split": [1, 5], "split_score": 0.5314094667841448}
+{"sent": "man with british flag on apron", "ann_id": 1746896, "best_split": [1, 5], "split_score": 0.5314094667841448}
+{"sent": "man with british flag bag", "ann_id": 1746896, "best_split": [1, 5], "split_score": 0.5314094667841448}
+{"sent": "guy with the white shirt with his back to us", "ann_id": 1728715, "best_split": [2, 2], "split_score": 0.5965463107973402}
+{"sent": "man in white back of head", "ann_id": 1728715, "best_split": [2, 2], "split_score": 0.5965463107973402}
+{"sent": "man in white shirt not facing us", "ann_id": 1728715, "best_split": [2, 2], "split_score": 0.5965463107973402}

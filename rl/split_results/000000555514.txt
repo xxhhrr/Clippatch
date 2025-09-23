@@ -1,0 +1,6 @@
+{"sent": "a glass of wine", "ann_id": 1874286, "best_split": [3, 2], "split_score": 0.4222972972463444}
+{"sent": "glass were looking at from overhead not one near light", "ann_id": 1874286, "best_split": [3, 1], "split_score": 0.21114864863591043}
+{"sent": "wine glass below pizza", "ann_id": 1874286, "best_split": [1, 5], "split_score": 0.29972752040679956}
+{"sent": "glass by pizza cutter", "ann_id": 662475, "best_split": [2, 2], "split_score": 0.19462983080904625}
+{"sent": "cut off glass", "ann_id": 662475, "best_split": [2, 3], "split_score": 0.2906141366986542}
+{"sent": "leftist glass", "ann_id": 662475, "best_split": [2, 3], "split_score": 0.2906141366986542}

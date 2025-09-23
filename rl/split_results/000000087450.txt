@@ -1,0 +1,4 @@
+{"sent": "smaller black umbrella", "ann_id": 1427632, "best_split": [3, 3], "split_score": 0.23239436616160525}
+{"sent": "closest black umbrella", "ann_id": 1427632, "best_split": [2, 3], "split_score": 0.16245719176343565}
+{"sent": "black umbrella cut off edge", "ann_id": 1425646, "best_split": [3, 2], "split_score": 0.3385617760209264}
+{"sent": "umbrella at 2 o clock", "ann_id": 1425646, "best_split": [5, 1], "split_score": 0.2536633663115185}

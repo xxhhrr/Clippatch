@@ -1,0 +1,6 @@
+{"sent": "ice cream with spoon", "ann_id": 1886408, "best_split": [2, 3], "split_score": 0.41976351346286633}
+{"sent": "ice cream", "ann_id": 1886408, "best_split": [2, 3], "split_score": 0.41976351346286633}
+{"sent": "ice cream", "ann_id": 1886408, "best_split": [2, 3], "split_score": 0.41976351346286633}
+{"sent": "veggie drink", "ann_id": 677490, "best_split": [2, 3], "split_score": 0.3147996729032298}
+{"sent": "drink", "ann_id": 677490, "best_split": [3, 2], "split_score": 0.42679680563145556}
+{"sent": "drink", "ann_id": 677490, "best_split": [3, 2], "split_score": 0.42679680563145556}

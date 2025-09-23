@@ -1,0 +1,12 @@
+{"sent": "mystery head", "ann_id": 505869, "best_split": [3, 1], "split_score": 0.28040540538848907}
+{"sent": "backpack", "ann_id": 505869, "best_split": [5, 1], "split_score": 0.33652782894060745}
+{"sent": "closest head", "ann_id": 505869, "best_split": [2, 2], "split_score": 0.3705357142561754}
+{"sent": "yellow shirt", "ann_id": 472718, "best_split": [3, 3], "split_score": 0.7894904457341575}
+{"sent": "woman in green in corner of picture", "ann_id": 472718, "best_split": [1, 3], "split_score": 0.34761100384003313}
+{"sent": "yellow rain coat", "ann_id": 472718, "best_split": [3, 3], "split_score": 0.7894904457341575}
+{"sent": "guy in plad", "ann_id": 467767, "best_split": [2, 3], "split_score": 0.4944320712301597}
+{"sent": "man holding umbrella", "ann_id": 467767, "best_split": [2, 1], "split_score": 0.4185267856976034}
+{"sent": "man in checked shirt with umbrells", "ann_id": 467767, "best_split": [3, 3], "split_score": 0.5215238094741406}
+{"sent": "man in black shirt", "ann_id": 441133, "best_split": [2, 3], "split_score": 0.4368590682257194}
+{"sent": "man black shirt", "ann_id": 441133, "best_split": [2, 3], "split_score": 0.4368590682257194}
+{"sent": "dark shirt only see his upper half", "ann_id": 441133, "best_split": [2, 3], "split_score": 0.4368590682257194}

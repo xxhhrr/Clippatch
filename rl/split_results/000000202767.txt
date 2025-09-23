@@ -1,0 +1,18 @@
+{"sent": "skinny boy crossed legs", "ann_id": 1210750, "best_split": [1, 3], "split_score": 0.7366071428127047}
+{"sent": "boy without plate", "ann_id": 1210750, "best_split": [2, 2], "split_score": 0.49661426841012}
+{"sent": "smiling boy", "ann_id": 1210750, "best_split": [1, 3], "split_score": 0.7366071428127047}
+{"sent": "man with blue sweater against red wall", "ann_id": 1717108, "best_split": [1, 5], "split_score": 0.5697583787441779}
+{"sent": "man inblue", "ann_id": 1717108, "best_split": [1, 5], "split_score": 0.5697583787441779}
+{"sent": "blue shirt", "ann_id": 1717108, "best_split": [1, 5], "split_score": 0.5697583787441779}
+{"sent": "far boy facing forward", "ann_id": 1328901, "best_split": [1, 5], "split_score": 0.3890016233371549}
+{"sent": "little boy furthest away eating pizza", "ann_id": 1328901, "best_split": [1, 3], "split_score": 0.23129826253430874}
+{"sent": "child in maroon vest partially off screen", "ann_id": 1328901, "best_split": [3, 3], "split_score": 0.2732494529166781}
+{"sent": "eats pizza looks at you", "ann_id": 1327801, "best_split": [2, 3], "split_score": 0.5795117820954203}
+{"sent": "kid with plate in lap", "ann_id": 1327801, "best_split": [3, 3], "split_score": 0.38836879429869725}
+{"sent": "blond kid eating", "ann_id": 1327801, "best_split": [1, 3], "split_score": 0.5670208418181947}
+{"sent": "green empty chair between boys", "ann_id": 374399, "best_split": [1, 5], "split_score": 0.40034038093864366}
+{"sent": "empty seat by the boys", "ann_id": 374399, "best_split": [2, 2], "split_score": 0.49348796821548696}
+{"sent": "empty seat by plate", "ann_id": 374399, "best_split": [2, 2], "split_score": 0.49348796821548696}
+{"sent": "bench below blond boys hand but not the napkin", "ann_id": 374173, "best_split": [2, 1], "split_score": 0.41796446587636304}
+{"sent": "empty chair next to kids hand without food in it", "ann_id": 374173, "best_split": [2, 1], "split_score": 0.41796446587636304}
+{"sent": "seat with white napkin", "ann_id": 374173, "best_split": [2, 2], "split_score": 0.5211569672779297}

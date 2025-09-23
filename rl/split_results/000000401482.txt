@@ -1,0 +1,5 @@
+{"sent": "main man sitting nearest forefront", "ann_id": 226400, "best_split": [1, 5], "split_score": 0.3449675324325317}
+{"sent": "closest man", "ann_id": 226400, "best_split": [2, 1], "split_score": 0.11420525656624667}
+{"sent": "woman light blouse dark skirt", "ann_id": 207401, "best_split": [1, 5], "split_score": 0.2849025973736909}
+{"sent": "woman in white blouse and long skirt", "ann_id": 207401, "best_split": [1, 5], "split_score": 0.2849025973736909}
+{"sent": "skirt", "ann_id": 207401, "best_split": [1, 5], "split_score": 0.2849025973736909}

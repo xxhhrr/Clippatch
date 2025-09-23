@@ -1,0 +1,6 @@
+{"sent": "chair with smaller cat", "ann_id": 385296, "best_split": [3, 1], "split_score": 0.290575916218481}
+{"sent": "chair with little cat", "ann_id": 385296, "best_split": [3, 1], "split_score": 0.290575916218481}
+{"sent": "chair with little cat", "ann_id": 385296, "best_split": [3, 1], "split_score": 0.290575916218481}
+{"sent": "chair with big gray cat but not the cat", "ann_id": 383843, "best_split": [1, 2], "split_score": 0.514987244877432}
+{"sent": "chair with big cat", "ann_id": 383843, "best_split": [1, 2], "split_score": 0.514987244877432}
+{"sent": "chair big cat on it", "ann_id": 383843, "best_split": [1, 2], "split_score": 0.514987244877432}

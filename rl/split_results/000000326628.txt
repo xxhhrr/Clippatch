@@ -1,0 +1,6 @@
+{"sent": "guy wearing mint green shirt holding a blue bottle", "ann_id": 1224138, "best_split": [3, 3], "split_score": 0.42458279839143404}
+{"sent": "seated guy behind handle end of bat", "ann_id": 1224138, "best_split": [3, 2], "split_score": 0.41047297292344676}
+{"sent": "green shirt", "ann_id": 1224138, "best_split": [2, 1], "split_score": 0.06672158154610149}
+{"sent": "batter", "ann_id": 1209039, "best_split": [2, 1], "split_score": 0.3559161994583678}
+{"sent": "battter", "ann_id": 1209039, "best_split": [3, 1], "split_score": 0.4752935613336239}
+{"sent": "batter", "ann_id": 1209039, "best_split": [2, 1], "split_score": 0.3559161994583678}

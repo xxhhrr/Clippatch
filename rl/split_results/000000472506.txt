@@ -1,0 +1,6 @@
+{"sent": "zebra with head down", "ann_id": 588978, "best_split": [1, 5], "split_score": 0.5269028870958905}
+{"sent": "skinny zebra", "ann_id": 588978, "best_split": [1, 5], "split_score": 0.5269028870958905}
+{"sent": "twisted zebra", "ann_id": 588978, "best_split": [1, 5], "split_score": 0.5269028870958905}
+{"sent": "zebra will full side view", "ann_id": 588355, "best_split": [3, 1], "split_score": 0.38207861424125256}
+{"sent": "looking away", "ann_id": 588355, "best_split": [2, 1], "split_score": 0.26283914727886265}
+{"sent": "zebra with extended neck", "ann_id": 588355, "best_split": [3, 1], "split_score": 0.38207861424125256}

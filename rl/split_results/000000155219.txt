@@ -1,0 +1,5 @@
+{"sent": "not the one in the lead", "ann_id": 168060, "best_split": [3, 3], "split_score": 0.4667609617279418}
+{"sent": "part of bus closest to tree", "ann_id": 168060, "best_split": [5, 1], "split_score": 0.19494720963471462}
+{"sent": "bus in the lead", "ann_id": 164890, "best_split": [3, 3], "split_score": 0.4482170277727165}
+{"sent": "bus 243", "ann_id": 164890, "best_split": [3, 3], "split_score": 0.4482170277727165}
+{"sent": "the bus ahead", "ann_id": 164890, "best_split": [3, 3], "split_score": 0.4482170277727165}

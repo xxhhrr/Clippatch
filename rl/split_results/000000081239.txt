@@ -1,0 +1,13 @@
+{"sent": "third wine glass", "ann_id": 667378, "best_split": [3, 2], "split_score": 0.2360984502921492}
+{"sent": "three glasses by each other middle one", "ann_id": 667378, "best_split": [3, 3], "split_score": 0.41778405073786445}
+{"sent": "glass where you can see through to arm", "ann_id": 667378, "best_split": [1, 2], "split_score": 0.08816120906454025}
+{"sent": "glass you can see hand thru", "ann_id": 667258, "best_split": [3, 2], "split_score": 0.2822795052268779}
+{"sent": "glass next to the one at 8 o clock", "ann_id": 667258, "best_split": [3, 2], "split_score": 0.2822795052268779}
+{"sent": "glass next to one that has most in it", "ann_id": 667258, "best_split": [3, 2], "split_score": 0.2822795052268779}
+{"sent": "glass farthest away from woman with red wine in it", "ann_id": 667215, "best_split": [3, 3], "split_score": 0.4593103447483947}
+{"sent": "the glass that far away from woman", "ann_id": 667215, "best_split": [3, 3], "split_score": 0.4593103447483947}
+{"sent": "glass with red wine", "ann_id": 667215, "best_split": [3, 3], "split_score": 0.4593103447483947}
+{"sent": "partial glass closest to us", "ann_id": 667184, "best_split": [3, 1], "split_score": 0.18531889288896997}
+{"sent": "foreground glass", "ann_id": 667184, "best_split": [3, 1], "split_score": 0.18531889288896997}
+{"sent": "wind glass in hand", "ann_id": 666249, "best_split": [3, 1], "split_score": 0.1647072794107168}
+{"sent": "glass being held", "ann_id": 666249, "best_split": [3, 1], "split_score": 0.1647072794107168}

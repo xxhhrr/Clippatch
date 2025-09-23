@@ -1,0 +1,6 @@
+{"sent": "mirror person", "ann_id": 501750, "best_split": [2, 2], "split_score": 0.1884703852653486}
+{"sent": "mirror image", "ann_id": 501750, "best_split": [2, 2], "split_score": 0.1884703852653486}
+{"sent": "mirror guy", "ann_id": 501750, "best_split": [2, 2], "split_score": 0.1884703852653486}
+{"sent": "black shirt man not reflection", "ann_id": 485912, "best_split": [1, 2], "split_score": 0.8592935726382711}
+{"sent": "real person", "ann_id": 485912, "best_split": [2, 1], "split_score": 0.36594703816957497}
+{"sent": "man in black shirt", "ann_id": 485912, "best_split": [1, 2], "split_score": 0.8592935726382711}

@@ -1,0 +1,6 @@
+{"sent": "woman partial near ry shoulder", "ann_id": 1274798, "best_split": [3, 2], "split_score": 0.44848484843631115}
+{"sent": "female only dark hair is visible", "ann_id": 1274798, "best_split": [3, 2], "split_score": 0.44848484843631115}
+{"sent": "womans hair just off the mans shoulder", "ann_id": 1274798, "best_split": [2, 2], "split_score": 0.40624999996761396}
+{"sent": "pinstripe suit and back of head", "ann_id": 1222475, "best_split": [2, 2], "split_score": 0.6493344119548919}
+{"sent": "person in corner", "ann_id": 1222475, "best_split": [3, 1], "split_score": 0.17648628217455262}
+{"sent": "closest shoulder", "ann_id": 1222475, "best_split": [2, 3], "split_score": 0.7791050620993728}

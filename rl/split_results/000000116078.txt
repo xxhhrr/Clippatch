@@ -1,0 +1,5 @@
+{"sent": "sink not near the cup holder", "ann_id": 1132793, "best_split": [3, 2], "split_score": 0.6213803088053353}
+{"sent": "sink on sun side", "ann_id": 1132793, "best_split": [3, 3], "split_score": 0.5342188852823825}
+{"sent": "lowest sink", "ann_id": 1132557, "best_split": [5, 1], "split_score": 0.2766748165988582}
+{"sent": "sink under dispenser", "ann_id": 1132557, "best_split": [5, 1], "split_score": 0.2766748165988582}
+{"sent": "sink with soap dispenser", "ann_id": 1132557, "best_split": [5, 1], "split_score": 0.2766748165988582}

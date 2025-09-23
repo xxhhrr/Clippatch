@@ -1,0 +1,12 @@
+{"sent": "person leaning on table but almost out of frame", "ann_id": 1309478, "best_split": [1, 2], "split_score": 0.17785395407454344}
+{"sent": "the person handing a box to the guy in the hoodie", "ann_id": 1309478, "best_split": [3, 2], "split_score": 0.15405503257113912}
+{"sent": "sliver of person with hand backwards on table", "ann_id": 1309478, "best_split": [2, 3], "split_score": 0.2316460587102351}
+{"sent": "man in gt hat", "ann_id": 1220670, "best_split": [1, 5], "split_score": 0.5715219344357878}
+{"sent": "closest guy in cap", "ann_id": 1220670, "best_split": [1, 2], "split_score": 0.3739237882504016}
+{"sent": "man in black and white cap", "ann_id": 1220670, "best_split": [1, 5], "split_score": 0.5715219344357878}
+{"sent": "man in gray with plate", "ann_id": 1216302, "best_split": [1, 3], "split_score": 0.5700138184839928}
+{"sent": "man holding pizza on plate looking at box gray sweater", "ann_id": 1216302, "best_split": [1, 3], "split_score": 0.5700138184839928}
+{"sent": "a person holding a plate of pizza", "ann_id": 1216302, "best_split": [1, 3], "split_score": 0.5700138184839928}
+{"sent": "person behind the guy with the white and dark hat", "ann_id": 1721303, "best_split": [2, 3], "split_score": 0.23518796990123428}
+{"sent": "man next to the guy in the blue and white cap", "ann_id": 1721303, "best_split": [1, 5], "split_score": 0.34949475317241596}
+{"sent": "man in black near white and blue hat", "ann_id": 1721303, "best_split": [2, 3], "split_score": 0.23518796990123428}

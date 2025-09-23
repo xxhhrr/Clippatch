@@ -1,0 +1,6 @@
+{"sent": "laptop with cord going under it", "ann_id": 1968592, "best_split": [2, 1], "split_score": 0.4768504644711998}
+{"sent": "apple screen white cord on same desk", "ann_id": 1968592, "best_split": [2, 1], "split_score": 0.4768504644711998}
+{"sent": "apple closest to us", "ann_id": 1968592, "best_split": [2, 1], "split_score": 0.4768504644711998}
+{"sent": "screen further away", "ann_id": 1625571, "best_split": [2, 3], "split_score": 0.6457242582192709}
+{"sent": "further away computer", "ann_id": 1625571, "best_split": [2, 3], "split_score": 0.6457242582192709}
+{"sent": "cutoff computer", "ann_id": 1625571, "best_split": [2, 1], "split_score": 0.2710459183565431}

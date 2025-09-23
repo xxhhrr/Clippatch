@@ -1,0 +1,6 @@
+{"sent": "boy with orange cup", "ann_id": 441094, "best_split": [1, 2], "split_score": 0.4330357142684536}
+{"sent": "kid with two hands visible", "ann_id": 441094, "best_split": [3, 1], "split_score": 0.35425920440458697}
+{"sent": "boy holding pizza", "ann_id": 441094, "best_split": [1, 2], "split_score": 0.4330357142684536}
+{"sent": "bright green shirt", "ann_id": 424673, "best_split": [3, 3], "split_score": 0.6400768860355506}
+{"sent": "child with hand in his mouth", "ann_id": 424673, "best_split": [3, 3], "split_score": 0.6400768860355506}
+{"sent": "green shirt", "ann_id": 424673, "best_split": [3, 3], "split_score": 0.6400768860355506}

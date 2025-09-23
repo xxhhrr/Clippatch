@@ -1,0 +1,6 @@
+{"sent": "bus partially obstructed by bushes", "ann_id": 2171511, "best_split": [3, 1], "split_score": 0.28823194995518864}
+{"sent": "bus see comming", "ann_id": 2171511, "best_split": [3, 1], "split_score": 0.28823194995518864}
+{"sent": "35", "ann_id": 2171511, "best_split": [1, 5], "split_score": 0.22108166077669053}
+{"sent": "bus thats away from the curb", "ann_id": 248247, "best_split": [3, 2], "split_score": 0.5210526315299763}
+{"sent": "bus behind the man", "ann_id": 248247, "best_split": [3, 2], "split_score": 0.5210526315299763}
+{"sent": "bus in street not at curb", "ann_id": 248247, "best_split": [3, 2], "split_score": 0.5210526315299763}

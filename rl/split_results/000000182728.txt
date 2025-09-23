@@ -1,0 +1,6 @@
+{"sent": "dad", "ann_id": 216622, "best_split": [2, 3], "split_score": 0.5037487775177932}
+{"sent": "adult", "ann_id": 216622, "best_split": [2, 2], "split_score": 0.34445352549636277}
+{"sent": "adult male", "ann_id": 216622, "best_split": [2, 2], "split_score": 0.34445352549636277}
+{"sent": "boy on surfboard", "ann_id": 202557, "best_split": [3, 3], "split_score": 0.5885565051533053}
+{"sent": "boy on surfboard", "ann_id": 202557, "best_split": [3, 3], "split_score": 0.5885565051533053}
+{"sent": "kid", "ann_id": 202557, "best_split": [3, 3], "split_score": 0.5885565051533053}

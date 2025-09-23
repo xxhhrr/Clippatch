@@ -1,0 +1,6 @@
+{"sent": "green shirt", "ann_id": 1253801, "best_split": [2, 3], "split_score": 0.5546038543331697}
+{"sent": "child in green", "ann_id": 1253801, "best_split": [2, 3], "split_score": 0.5546038543331697}
+{"sent": "kid", "ann_id": 1253801, "best_split": [2, 3], "split_score": 0.5546038543331697}
+{"sent": "grandma in the chair", "ann_id": 422722, "best_split": [1, 3], "split_score": 0.35326979952334303}
+{"sent": "grandma", "ann_id": 422722, "best_split": [1, 2], "split_score": 0.4381234834018363}
+{"sent": "lady", "ann_id": 422722, "best_split": [1, 3], "split_score": 0.35326979952334303}

@@ -1,0 +1,5 @@
+{"sent": "red bus oly", "ann_id": 365709, "best_split": [3, 3], "split_score": 0.34559221194418743}
+{"sent": "red half bus", "ann_id": 365709, "best_split": [3, 3], "split_score": 0.34559221194418743}
+{"sent": "double bus with blue", "ann_id": 365573, "best_split": [1, 3], "split_score": 0.45328750218344405}
+{"sent": "the bus", "ann_id": 365573, "best_split": [1, 3], "split_score": 0.45328750218344405}
+{"sent": "big bus", "ann_id": 365573, "best_split": [1, 3], "split_score": 0.45328750218344405}

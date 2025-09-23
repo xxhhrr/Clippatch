@@ -1,0 +1,12 @@
+{"sent": "small plate with handles", "ann_id": 1539035, "best_split": [3, 2], "split_score": 0.19794936177045935}
+{"sent": "small white bowl with handles", "ann_id": 1539035, "best_split": [5, 1], "split_score": 0.22097167508713453}
+{"sent": "bowl with two snacks", "ann_id": 1539035, "best_split": [1, 2], "split_score": 0.033587004242880615}
+{"sent": "pasta plate", "ann_id": 1537965, "best_split": [2, 2], "split_score": 0.6708386479057048}
+{"sent": "white paste in white bowl", "ann_id": 1537965, "best_split": [2, 2], "split_score": 0.6708386479057048}
+{"sent": "maccaroni shells", "ann_id": 1537965, "best_split": [2, 2], "split_score": 0.6708386479057048}
+{"sent": "pizza with large circles of ham and some white things", "ann_id": 1076211, "best_split": [2, 3], "split_score": 0.5757879775457079}
+{"sent": "pizza in upper cornr with ham", "ann_id": 1076211, "best_split": [2, 3], "split_score": 0.5757879775457079}
+{"sent": "pizza on plate above", "ann_id": 1076211, "best_split": [3, 1], "split_score": 0.22014388488218778}
+{"sent": "the pizza next to the glass", "ann_id": 1071459, "best_split": [2, 2], "split_score": 0.6511350059348187}
+{"sent": "pizza with pepperoni", "ann_id": 1071459, "best_split": [2, 2], "split_score": 0.6511350059348187}
+{"sent": "biggest pizza near clear glass", "ann_id": 1071459, "best_split": [2, 2], "split_score": 0.6511350059348187}

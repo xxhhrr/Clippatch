@@ -1,0 +1,6 @@
+{"sent": "entire board with food", "ann_id": 120557, "best_split": [2, 1], "split_score": 0.5256558641830452}
+{"sent": "the table", "ann_id": 120557, "best_split": [1, 2], "split_score": 0.5237662730706585}
+{"sent": "wooden table", "ann_id": 120557, "best_split": [2, 1], "split_score": 0.5256558641830452}
+{"sent": "white table not food table", "ann_id": 120013, "best_split": [2, 3], "split_score": 0.5802363049860111}
+{"sent": "gray table barely visisble", "ann_id": 120013, "best_split": [3, 3], "split_score": 0.6441005801818043}
+{"sent": "small clickable area white table near red basket", "ann_id": 120013, "best_split": [2, 3], "split_score": 0.5802363049860111}

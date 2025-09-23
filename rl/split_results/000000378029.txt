@@ -1,0 +1,5 @@
+{"sent": "the zebra with its head up", "ann_id": 591941, "best_split": [1, 5], "split_score": 0.47758559826353814}
+{"sent": "zebra with head up", "ann_id": 591941, "best_split": [1, 5], "split_score": 0.47758559826353814}
+{"sent": "the one by himself", "ann_id": 590166, "best_split": [2, 3], "split_score": 0.3132911392095242}
+{"sent": "closest zebra to us", "ann_id": 590166, "best_split": [3, 2], "split_score": 0.3926174496232574}
+{"sent": "zebra standing apart", "ann_id": 590166, "best_split": [2, 3], "split_score": 0.3132911392095242}

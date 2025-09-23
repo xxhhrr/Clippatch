@@ -1,0 +1,6 @@
+{"sent": "woman in green shirt with legs on couch", "ann_id": 1721072, "best_split": [3, 2], "split_score": 0.5787787409933303}
+{"sent": "woman with green sweater", "ann_id": 1721072, "best_split": [3, 2], "split_score": 0.5787787409933303}
+{"sent": "woman in green shirt", "ann_id": 1721072, "best_split": [3, 2], "split_score": 0.5787787409933303}
+{"sent": "guy", "ann_id": 209455, "best_split": [1, 3], "split_score": 0.4111939248906204}
+{"sent": "guy", "ann_id": 209455, "best_split": [1, 3], "split_score": 0.4111939248906204}
+{"sent": "man", "ann_id": 209455, "best_split": [1, 2], "split_score": 0.6084369214292371}

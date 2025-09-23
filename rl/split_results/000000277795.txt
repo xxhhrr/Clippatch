@@ -1,0 +1,6 @@
+{"sent": "computer screen over cup", "ann_id": 35465, "best_split": [1, 5], "split_score": 0.28968544254849254}
+{"sent": "bigger monitor next to black screen", "ann_id": 35465, "best_split": [3, 3], "split_score": 0.46093749993074856}
+{"sent": "screen above cup", "ann_id": 35465, "best_split": [3, 3], "split_score": 0.46093749993074856}
+{"sent": "number 3 monitor", "ann_id": 33330, "best_split": [3, 2], "split_score": 0.3601286173271575}
+{"sent": "screen all black", "ann_id": 33330, "best_split": [3, 3], "split_score": 0.36298932379728144}
+{"sent": "blackest screen a movie is playing", "ann_id": 33330, "best_split": [3, 3], "split_score": 0.36298932379728144}

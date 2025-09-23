@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 1726153, "best_split": [2, 1], "split_score": 0.33128743255132187}
+{"sent": "man on phone", "ann_id": 1726153, "best_split": [1, 2], "split_score": 0.7639034627241637}
+{"sent": "man", "ann_id": 1726153, "best_split": [2, 1], "split_score": 0.33128743255132187}
+{"sent": "girl", "ann_id": 491902, "best_split": [1, 2], "split_score": 0.8528742173857117}
+{"sent": "her", "ann_id": 491902, "best_split": [1, 2], "split_score": 0.8528742173857117}
+{"sent": "girl", "ann_id": 491902, "best_split": [1, 2], "split_score": 0.8528742173857117}

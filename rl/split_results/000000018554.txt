@@ -1,0 +1,6 @@
+{"sent": "woman eating banana", "ann_id": 196720, "best_split": [1, 2], "split_score": 0.5505308690387699}
+{"sent": "woman with banana", "ann_id": 196720, "best_split": [1, 2], "split_score": 0.5505308690387699}
+{"sent": "girl eating banana but not the banana", "ann_id": 196720, "best_split": [1, 2], "split_score": 0.5505308690387699}
+{"sent": "girl behind the other girl", "ann_id": 187120, "best_split": [3, 3], "split_score": 0.9607017542174207}
+{"sent": "person not eating banana", "ann_id": 187120, "best_split": [2, 1], "split_score": 0.10051472690518606}
+{"sent": "background woman", "ann_id": 187120, "best_split": [3, 3], "split_score": 0.9607017542174207}

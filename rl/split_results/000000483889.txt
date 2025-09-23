@@ -1,0 +1,6 @@
+{"sent": "smaller couch", "ann_id": 116782, "best_split": [2, 2], "split_score": 0.5683419445367817}
+{"sent": "the darkest looking couch next to the window", "ann_id": 116782, "best_split": [2, 2], "split_score": 0.5683419445367817}
+{"sent": "furthest couch the loveseat", "ann_id": 116782, "best_split": [2, 2], "split_score": 0.5683419445367817}
+{"sent": "gray couch", "ann_id": 99998, "best_split": [1, 2], "split_score": 0.6633466135222201}
+{"sent": "bigger couch", "ann_id": 99998, "best_split": [1, 2], "split_score": 0.6633466135222201}
+{"sent": "couch nearest you", "ann_id": 99998, "best_split": [1, 2], "split_score": 0.6633466135222201}

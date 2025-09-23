@@ -1,0 +1,25 @@
+{"sent": "yellow above orange", "ann_id": 288136, "best_split": [1, 5], "split_score": 0.23758734826796732}
+{"sent": "green above orange", "ann_id": 288136, "best_split": [1, 5], "split_score": 0.23758734826796732}
+{"sent": "yellow umbrella at 3", "ann_id": 288136, "best_split": [3, 1], "split_score": 0.17605921089946622}
+{"sent": "orange umbrella with yellow and green on other sides", "ann_id": 288071, "best_split": [1, 5], "split_score": 0.30305286668810005}
+{"sent": "red umbrella next to green umbrella", "ann_id": 288071, "best_split": [1, 2], "split_score": 0.16517857142198747}
+{"sent": "pink umbrella", "ann_id": 287901, "best_split": [3, 3], "split_score": 0.3590574373550725}
+{"sent": "pink umbrella", "ann_id": 287901, "best_split": [3, 3], "split_score": 0.3590574373550725}
+{"sent": "pink umbrella", "ann_id": 287901, "best_split": [3, 3], "split_score": 0.3590574373550725}
+{"sent": "pink umbrella", "ann_id": 287901, "best_split": [3, 3], "split_score": 0.3590574373550725}
+{"sent": "biggest blue umbrella", "ann_id": 1929852, "best_split": [3, 3], "split_score": 0.5631733593595865}
+{"sent": "blue umbrella cupcake above empty slot in pan", "ann_id": 1929852, "best_split": [3, 3], "split_score": 0.5631733593595865}
+{"sent": "light blue under orange", "ann_id": 1929852, "best_split": [1, 5], "split_score": 0.3486664089342224}
+{"sent": "light pink umbrella thingy", "ann_id": 1929364, "best_split": [3, 3], "split_score": 0.3955202721299234}
+{"sent": "pink", "ann_id": 1929364, "best_split": [3, 3], "split_score": 0.3955202721299234}
+{"sent": "pink big", "ann_id": 1929364, "best_split": [3, 3], "split_score": 0.3955202721299234}
+{"sent": "blue umbrella next to green one", "ann_id": 1929268, "best_split": [1, 5], "split_score": 0.267857142832739}
+{"sent": "dark blue umbrella next to green one", "ann_id": 1929268, "best_split": [1, 5], "split_score": 0.267857142832739}
+{"sent": "white with blue umbrella", "ann_id": 1929268, "best_split": [1, 5], "split_score": 0.267857142832739}
+{"sent": "row with blue yellow pink yellow this one", "ann_id": 1929072, "best_split": [5, 1], "split_score": 0.22118218060138825}
+{"sent": "yellow next to pink above orange below red", "ann_id": 1929072, "best_split": [1, 2], "split_score": 0.16876594387082405}
+{"sent": "orange umbrella next to green", "ann_id": 1928157, "best_split": [1, 5], "split_score": 0.2792305646415007}
+{"sent": "orange umbrella by green", "ann_id": 1928157, "best_split": [1, 5], "split_score": 0.2792305646415007}
+{"sent": "closest red", "ann_id": 1928157, "best_split": [1, 2], "split_score": 0.18235809948252718}
+{"sent": "cupcake with yellow umbrella by two blue umbrellas", "ann_id": 1927992, "best_split": [3, 2], "split_score": 0.4271922767007019}
+{"sent": "yellow umbrella by blue and pink", "ann_id": 1927992, "best_split": [3, 2], "split_score": 0.4271922767007019}

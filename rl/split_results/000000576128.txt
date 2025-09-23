@@ -1,0 +1,6 @@
+{"sent": "elephant not in water", "ann_id": 584707, "best_split": [3, 2], "split_score": 0.5763239874748193}
+{"sent": "elephant in the back", "ann_id": 584707, "best_split": [3, 2], "split_score": 0.5763239874748193}
+{"sent": "elephant on rock", "ann_id": 584707, "best_split": [3, 1], "split_score": 0.29983792542834925}
+{"sent": "water elephant", "ann_id": 584369, "best_split": [3, 3], "split_score": 0.41474654374467196}
+{"sent": "elephant mostly in the water", "ann_id": 584369, "best_split": [3, 3], "split_score": 0.41474654374467196}
+{"sent": "closest elephant", "ann_id": 584369, "best_split": [3, 3], "split_score": 0.41474654374467196}

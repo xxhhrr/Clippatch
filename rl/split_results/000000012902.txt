@@ -1,0 +1,5 @@
+{"sent": "any orange but the biggest one", "ann_id": 1053235, "best_split": [3, 1], "split_score": 0.5420463720993167}
+{"sent": "smaller oranges", "ann_id": 1053235, "best_split": [3, 1], "split_score": 0.5420463720993167}
+{"sent": "orange at 12 o clock", "ann_id": 1053235, "best_split": [3, 1], "split_score": 0.5420463720993167}
+{"sent": "biggest orange", "ann_id": 1050804, "best_split": [3, 2], "split_score": 0.48545987370542604}
+{"sent": "one with navel peeking out of bowl", "ann_id": 1050804, "best_split": [1, 2], "split_score": 0.19495376274733123}

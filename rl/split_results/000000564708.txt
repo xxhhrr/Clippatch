@@ -1,0 +1,6 @@
+{"sent": "gold circle", "ann_id": 341322, "best_split": [3, 3], "split_score": 0.7247991233154129}
+{"sent": "round clock with most gold", "ann_id": 341322, "best_split": [2, 3], "split_score": 0.4788851350773546}
+{"sent": "weather clock", "ann_id": 341322, "best_split": [2, 3], "split_score": 0.4788851350773546}
+{"sent": "double clock", "ann_id": 340251, "best_split": [3, 3], "split_score": 0.5972523498558835}
+{"sent": "higher clock", "ann_id": 340251, "best_split": [3, 3], "split_score": 0.5972523498558835}
+{"sent": "tower clock", "ann_id": 340251, "best_split": [3, 3], "split_score": 0.5972523498558835}

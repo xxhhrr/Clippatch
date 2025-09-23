@@ -1,0 +1,5 @@
+{"sent": "guy at net", "ann_id": 503598, "best_split": [1, 3], "split_score": 0.23015202701314236}
+{"sent": "man in white nearest net", "ann_id": 503598, "best_split": [3, 1], "split_score": 0.1454974439556487}
+{"sent": "girl closest", "ann_id": 426167, "best_split": [2, 3], "split_score": 0.336948102213696}
+{"sent": "lady", "ann_id": 426167, "best_split": [2, 3], "split_score": 0.336948102213696}
+{"sent": "lady tennis player", "ann_id": 426167, "best_split": [2, 3], "split_score": 0.336948102213696}

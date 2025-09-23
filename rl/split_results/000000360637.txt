@@ -1,0 +1,6 @@
+{"sent": "refrigerator door with magnets", "ann_id": 331994, "best_split": [2, 3], "split_score": 0.32136793594946833}
+{"sent": "closed refrigerator", "ann_id": 331994, "best_split": [2, 1], "split_score": 0.21327967806170525}
+{"sent": "close refrigerator", "ann_id": 331994, "best_split": [2, 1], "split_score": 0.21327967806170525}
+{"sent": "a fatties dream", "ann_id": 330998, "best_split": [1, 2], "split_score": 0.9297672193506948}
+{"sent": "open fridge", "ann_id": 330998, "best_split": [1, 2], "split_score": 0.9297672193506948}
+{"sent": "open fridge", "ann_id": 330998, "best_split": [1, 2], "split_score": 0.9297672193506948}

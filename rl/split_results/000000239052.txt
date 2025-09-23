@@ -1,0 +1,6 @@
+{"sent": "facing away", "ann_id": 459677, "best_split": [3, 1], "split_score": 0.2996051662885764}
+{"sent": "man facing away", "ann_id": 459677, "best_split": [2, 1], "split_score": 0.38116905844180465}
+{"sent": "man pinning flower", "ann_id": 459677, "best_split": [1, 2], "split_score": 0.758467023144739}
+{"sent": "blue tie", "ann_id": 457535, "best_split": [1, 2], "split_score": 0.6368878238491505}
+{"sent": "blue", "ann_id": 457535, "best_split": [1, 2], "split_score": 0.6368878238491505}
+{"sent": "bald guy", "ann_id": 457535, "best_split": [1, 2], "split_score": 0.6368878238491505}

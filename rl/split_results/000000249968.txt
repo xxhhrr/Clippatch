@@ -1,0 +1,6 @@
+{"sent": "tv no visible screen", "ann_id": 1626032, "best_split": [2, 2], "split_score": 0.21611695739698306}
+{"sent": "tv lying on her screen", "ann_id": 1626032, "best_split": [2, 2], "split_score": 0.21611695739698306}
+{"sent": "tv screen not shown", "ann_id": 1626032, "best_split": [2, 2], "split_score": 0.21611695739698306}
+{"sent": "tv screen", "ann_id": 31067, "best_split": [2, 3], "split_score": 0.6765588913768408}
+{"sent": "main tv", "ann_id": 31067, "best_split": [2, 3], "split_score": 0.6765588913768408}
+{"sent": "upside down tv", "ann_id": 31067, "best_split": [2, 3], "split_score": 0.6765588913768408}

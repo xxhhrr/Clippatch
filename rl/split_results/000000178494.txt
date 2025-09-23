@@ -1,0 +1,8 @@
+{"sent": "base runner", "ann_id": 1729825, "best_split": [2, 2], "split_score": 0.37955994437565027}
+{"sent": "number 1", "ann_id": 1729825, "best_split": [1, 2], "split_score": 0.519842583378578}
+{"sent": "orange", "ann_id": 528902, "best_split": [1, 5], "split_score": 0.5037821482125773}
+{"sent": "man behind catcher in orange", "ann_id": 528902, "best_split": [1, 5], "split_score": 0.5037821482125773}
+{"sent": "umpire", "ann_id": 528902, "best_split": [3, 3], "split_score": 0.3692965779028877}
+{"sent": "catcher", "ann_id": 467199, "best_split": [1, 5], "split_score": 0.46045811733318354}
+{"sent": "catcher", "ann_id": 467199, "best_split": [1, 5], "split_score": 0.46045811733318354}
+{"sent": "catcher", "ann_id": 467199, "best_split": [1, 5], "split_score": 0.46045811733318354}

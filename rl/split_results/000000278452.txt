@@ -1,0 +1,6 @@
+{"sent": "traffic light facing away", "ann_id": 1381918, "best_split": [3, 1], "split_score": 0.19194853703092193}
+{"sent": "3 signal traffic light", "ann_id": 1381918, "best_split": [3, 1], "split_score": 0.19194853703092193}
+{"sent": "signal at 3pm", "ann_id": 1381918, "best_split": [3, 1], "split_score": 0.19194853703092193}
+{"sent": "walk sign", "ann_id": 401908, "best_split": [2, 3], "split_score": 0.4422492400735726}
+{"sent": "green man", "ann_id": 401908, "best_split": [2, 3], "split_score": 0.4422492400735726}
+{"sent": "green light", "ann_id": 401908, "best_split": [2, 3], "split_score": 0.4422492400735726}

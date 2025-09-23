@@ -1,0 +1,12 @@
+{"sent": "red sleeve", "ann_id": 1715721, "best_split": [1, 5], "split_score": 0.2565192196004907}
+{"sent": "red shirt partial", "ann_id": 1715721, "best_split": [1, 5], "split_score": 0.2565192196004907}
+{"sent": "red shirt not visible completelt", "ann_id": 1715721, "best_split": [1, 5], "split_score": 0.2565192196004907}
+{"sent": "woman in jeans", "ann_id": 507004, "best_split": [1, 5], "split_score": 0.8074792243068317}
+{"sent": "bluejeans", "ann_id": 507004, "best_split": [1, 5], "split_score": 0.8074792243068317}
+{"sent": "blue jeans", "ann_id": 507004, "best_split": [1, 5], "split_score": 0.8074792243068317}
+{"sent": "kid", "ann_id": 434243, "best_split": [1, 3], "split_score": 0.33538292614134596}
+{"sent": "baby", "ann_id": 434243, "best_split": [2, 3], "split_score": 0.38146106130414703}
+{"sent": "kid", "ann_id": 434243, "best_split": [1, 3], "split_score": 0.33538292614134596}
+{"sent": "lady in blue", "ann_id": 429135, "best_split": [1, 5], "split_score": 0.5897054062421686}
+{"sent": "woman in blue shirt", "ann_id": 429135, "best_split": [1, 5], "split_score": 0.5897054062421686}
+{"sent": "light blue", "ann_id": 429135, "best_split": [1, 5], "split_score": 0.5897054062421686}

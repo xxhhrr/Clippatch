@@ -1,0 +1,9 @@
+{"sent": "red and black striped shirt", "ann_id": 1249718, "best_split": [2, 3], "split_score": 0.5019305018699408}
+{"sent": "striped jacket", "ann_id": 1249718, "best_split": [2, 1], "split_score": 0.16581632652400285}
+{"sent": "striped shirt cant see head", "ann_id": 1249718, "best_split": [2, 3], "split_score": 0.5019305018699408}
+{"sent": "redgreen shirt", "ann_id": 1228564, "best_split": [2, 2], "split_score": 0.4655916879998926}
+{"sent": "the person in the green clothing", "ann_id": 1228564, "best_split": [2, 2], "split_score": 0.4655916879998926}
+{"sent": "person in red and green sitting near bananas", "ann_id": 1228564, "best_split": [1, 2], "split_score": 0.3658721300874573}
+{"sent": "girl grabbing banana", "ann_id": 493354, "best_split": [1, 2], "split_score": 0.18619532802602523}
+{"sent": "long reach woman", "ann_id": 493354, "best_split": [2, 3], "split_score": 0.3961352656746223}
+{"sent": "lady with both arms out", "ann_id": 493354, "best_split": [2, 3], "split_score": 0.3961352656746223}

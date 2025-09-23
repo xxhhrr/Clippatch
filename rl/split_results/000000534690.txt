@@ -1,0 +1,11 @@
+{"sent": "couch back behind white dog", "ann_id": 117583, "best_split": [2, 1], "split_score": 0.879982461699618}
+{"sent": "couch back cushion farthest from white dog", "ann_id": 117583, "best_split": [2, 1], "split_score": 0.879982461699618}
+{"sent": "bed not blanket between dogs", "ann_id": 117476, "best_split": [2, 1], "split_score": 0.3851972424266278}
+{"sent": "sofa cussion", "ann_id": 117476, "best_split": [1, 2], "split_score": 0.5378973104991523}
+{"sent": "back cushion between dogs", "ann_id": 117476, "best_split": [1, 2], "split_score": 0.5378973104991523}
+{"sent": "white dog", "ann_id": 14859, "best_split": [1, 2], "split_score": 0.6457270407905881}
+{"sent": "lighter colored dog", "ann_id": 14859, "best_split": [2, 1], "split_score": 0.3836461125876794}
+{"sent": "white dog", "ann_id": 14859, "best_split": [1, 2], "split_score": 0.6457270407905881}
+{"sent": "brown dog", "ann_id": 2293, "best_split": [1, 2], "split_score": 0.6990533528459202}
+{"sent": "brown one", "ann_id": 2293, "best_split": [1, 2], "split_score": 0.6990533528459202}
+{"sent": "the brown dog", "ann_id": 2293, "best_split": [1, 2], "split_score": 0.6990533528459202}

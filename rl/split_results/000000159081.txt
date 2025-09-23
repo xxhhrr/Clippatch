@@ -1,0 +1,6 @@
+{"sent": "the girl in the blue strapless dress whose face is visible", "ann_id": 189304, "best_split": [3, 3], "split_score": 0.3125831337706061}
+{"sent": "blond girl", "ann_id": 189304, "best_split": [2, 3], "split_score": 0.33053515211641815}
+{"sent": "closest blond woman", "ann_id": 189304, "best_split": [2, 3], "split_score": 0.33053515211641815}
+{"sent": "closest lady", "ann_id": 185699, "best_split": [1, 2], "split_score": 0.9649122806636276}
+{"sent": "woman in black and white shirt", "ann_id": 185699, "best_split": [1, 2], "split_score": 0.9649122806636276}
+{"sent": "lady with biggest pizza", "ann_id": 185699, "best_split": [2, 1], "split_score": 0.32142857142003006}

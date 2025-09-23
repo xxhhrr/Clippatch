@@ -1,0 +1,12 @@
+{"sent": "man with short brown hair and gotee", "ann_id": 1269291, "best_split": [5, 1], "split_score": 0.18390427797214356}
+{"sent": "guy with gotee", "ann_id": 1269291, "best_split": [5, 1], "split_score": 0.18390427797214356}
+{"sent": "man with goatee", "ann_id": 1269291, "best_split": [5, 1], "split_score": 0.18390427797214356}
+{"sent": "the woman looking like shes about to sneeze", "ann_id": 1234500, "best_split": [3, 2], "split_score": 0.3970284770535464}
+{"sent": "woman", "ann_id": 1234500, "best_split": [1, 5], "split_score": 0.3526725758480909}
+{"sent": "woman facing bar", "ann_id": 1234500, "best_split": [1, 5], "split_score": 0.3526725758480909}
+{"sent": "man facing child", "ann_id": 2158443, "best_split": [3, 2], "split_score": 0.31775392235196087}
+{"sent": "man with glasses", "ann_id": 2158443, "best_split": [3, 3], "split_score": 0.3808823529011678}
+{"sent": "man with glasses", "ann_id": 2158443, "best_split": [3, 3], "split_score": 0.3808823529011678}
+{"sent": "patterned shirt", "ann_id": 1282350, "best_split": [3, 2], "split_score": 0.43942992870381486}
+{"sent": "child reaching out to man in glasses", "ann_id": 1282350, "best_split": [3, 3], "split_score": 0.5770944740890046}
+{"sent": "boy looking at man", "ann_id": 1282350, "best_split": [1, 3], "split_score": 0.5236486486170578}

@@ -1,0 +1,5 @@
+{"sent": "orange", "ann_id": 188182, "best_split": [1, 5], "split_score": 0.38827745070461495}
+{"sent": "orange shirt", "ann_id": 188182, "best_split": [1, 5], "split_score": 0.38827745070461495}
+{"sent": "lady in orange shirt", "ann_id": 188182, "best_split": [1, 5], "split_score": 0.38827745070461495}
+{"sent": "blond lady", "ann_id": 2154336, "best_split": [3, 3], "split_score": 0.5594501717251803}
+{"sent": "girl", "ann_id": 2154336, "best_split": [1, 5], "split_score": 0.3328050712824084}

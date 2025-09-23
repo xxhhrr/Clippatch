@@ -1,0 +1,6 @@
+{"sent": "carrots on board by knife", "ann_id": 1919201, "best_split": [5, 1], "split_score": 0.3755850963887301}
+{"sent": "neat pile of carrots", "ann_id": 1919201, "best_split": [5, 1], "split_score": 0.3755850963887301}
+{"sent": "pile of carrots closest to knife", "ann_id": 1919201, "best_split": [5, 1], "split_score": 0.3755850963887301}
+{"sent": "chopped pile away from knife", "ann_id": 1918147, "best_split": [3, 1], "split_score": 0.27485521233863086}
+{"sent": "closest carrot pile", "ann_id": 1918147, "best_split": [3, 2], "split_score": 0.3798882681156115}
+{"sent": "pile of diced carrots near two slices", "ann_id": 1918147, "best_split": [3, 2], "split_score": 0.3798882681156115}

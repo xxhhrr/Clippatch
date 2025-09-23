@@ -1,0 +1,6 @@
+{"sent": "bowl with beige vegetables", "ann_id": 717152, "best_split": [1, 3], "split_score": 0.39563424200806585}
+{"sent": "white veggies in water", "ann_id": 717152, "best_split": [1, 5], "split_score": 0.3132650511920269}
+{"sent": "bowl with potatoes", "ann_id": 717152, "best_split": [3, 3], "split_score": 0.4423843354321275}
+{"sent": "carrots", "ann_id": 709756, "best_split": [2, 3], "split_score": 0.8561600999732999}
+{"sent": "carrot bowl", "ann_id": 709756, "best_split": [2, 3], "split_score": 0.8561600999732999}
+{"sent": "carrots", "ann_id": 709756, "best_split": [2, 3], "split_score": 0.8561600999732999}

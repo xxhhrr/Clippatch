@@ -1,0 +1,6 @@
+{"sent": "truck with no door", "ann_id": 1798560, "best_split": [5, 1], "split_score": 0.2978426198744496}
+{"sent": "farther away truck", "ann_id": 1798560, "best_split": [5, 1], "split_score": 0.2978426198744496}
+{"sent": "jeep with no door", "ann_id": 1798560, "best_split": [2, 2], "split_score": 0.39074365952208456}
+{"sent": "bigger truck", "ann_id": 1796777, "best_split": [3, 2], "split_score": 0.6566552900463605}
+{"sent": "the one with the round headlights", "ann_id": 1796777, "best_split": [3, 2], "split_score": 0.6566552900463605}
+{"sent": "truck wlicense plate", "ann_id": 1796777, "best_split": [3, 2], "split_score": 0.6566552900463605}

@@ -1,0 +1,6 @@
+{"sent": "orange shirt", "ann_id": 218244, "best_split": [1, 3], "split_score": 0.613416988379982}
+{"sent": "lighter jeans", "ann_id": 218244, "best_split": [1, 3], "split_score": 0.613416988379982}
+{"sent": "butt", "ann_id": 218244, "best_split": [1, 3], "split_score": 0.613416988379982}
+{"sent": "guy with hand in pocket", "ann_id": 202037, "best_split": [1, 2], "split_score": 0.8258928571099373}
+{"sent": "dark jeans", "ann_id": 202037, "best_split": [1, 2], "split_score": 0.8258928571099373}
+{"sent": "jeans closest dog", "ann_id": 202037, "best_split": [2, 1], "split_score": 0.3771043770930404}

@@ -1,0 +1,6 @@
+{"sent": "groom", "ann_id": 503305, "best_split": [2, 2], "split_score": 0.3108296213592128}
+{"sent": "man in black", "ann_id": 503305, "best_split": [2, 3], "split_score": 0.3786646491035876}
+{"sent": "man", "ann_id": 503305, "best_split": [2, 3], "split_score": 0.3786646491035876}
+{"sent": "bride", "ann_id": 484041, "best_split": [1, 2], "split_score": 0.6357890578528882}
+{"sent": "woman", "ann_id": 484041, "best_split": [1, 2], "split_score": 0.6357890578528882}
+{"sent": "the bride", "ann_id": 484041, "best_split": [1, 2], "split_score": 0.6357890578528882}

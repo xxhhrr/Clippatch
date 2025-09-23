@@ -1,0 +1,6 @@
+{"sent": "man without tie", "ann_id": 463420, "best_split": [2, 1], "split_score": 0.35153775774679646}
+{"sent": "tall guy", "ann_id": 463420, "best_split": [1, 2], "split_score": 0.5309311224278168}
+{"sent": "no tie", "ann_id": 463420, "best_split": [2, 1], "split_score": 0.35153775774679646}
+{"sent": "tie dude", "ann_id": 427524, "best_split": [2, 2], "split_score": 0.5951192456649338}
+{"sent": "tie", "ann_id": 427524, "best_split": [2, 2], "split_score": 0.5951192456649338}
+{"sent": "man with tie", "ann_id": 427524, "best_split": [2, 2], "split_score": 0.5951192456649338}

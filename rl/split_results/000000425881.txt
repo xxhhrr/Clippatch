@@ -1,0 +1,6 @@
+{"sent": "the kid", "ann_id": 1237240, "best_split": [3, 3], "split_score": 0.5512262204273176}
+{"sent": "kid", "ann_id": 1237240, "best_split": [3, 3], "split_score": 0.5512262204273176}
+{"sent": "posing kid", "ann_id": 1237240, "best_split": [3, 3], "split_score": 0.5512262204273176}
+{"sent": "bigger person", "ann_id": 1306434, "best_split": [1, 3], "split_score": 0.45783628133878845}
+{"sent": "taller person", "ann_id": 1306434, "best_split": [1, 3], "split_score": 0.45783628133878845}
+{"sent": "person behind small kid", "ann_id": 1306434, "best_split": [1, 3], "split_score": 0.45783628133878845}

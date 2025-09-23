@@ -1,0 +1,6 @@
+{"sent": "head down", "ann_id": 600284, "best_split": [2, 1], "split_score": 0.29148409220010657}
+{"sent": "giraffe not taking food from person", "ann_id": 600284, "best_split": [1, 2], "split_score": 0.6407233247824935}
+{"sent": "the giraffe not being fed", "ann_id": 600284, "best_split": [1, 2], "split_score": 0.6407233247824935}
+{"sent": "reaching for the food", "ann_id": 594577, "best_split": [3, 1], "split_score": 0.3178005591675287}
+{"sent": "giraffe head", "ann_id": 594577, "best_split": [2, 2], "split_score": 0.722580645119667}
+{"sent": "hungry g", "ann_id": 594577, "best_split": [3, 2], "split_score": 0.40490797543794327}

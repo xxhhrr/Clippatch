@@ -1,0 +1,9 @@
+{"sent": "the man in dark jacket", "ann_id": 1266025, "best_split": [3, 2], "split_score": 0.22236827689534797}
+{"sent": "black trenchoat barely seen behind mans shoulder", "ann_id": 1266025, "best_split": [3, 1], "split_score": 0.11655279324128422}
+{"sent": "man in black not the girl", "ann_id": 1266025, "best_split": [3, 1], "split_score": 0.11655279324128422}
+{"sent": "woman black hair", "ann_id": 541152, "best_split": [3, 3], "split_score": 0.5613989969703743}
+{"sent": "woman in picture", "ann_id": 541152, "best_split": [3, 3], "split_score": 0.5613989969703743}
+{"sent": "woman", "ann_id": 541152, "best_split": [3, 2], "split_score": 0.4123146661240613}
+{"sent": "man", "ann_id": 533397, "best_split": [1, 2], "split_score": 0.4703985931906214}
+{"sent": "man looking at us", "ann_id": 533397, "best_split": [1, 2], "split_score": 0.4703985931906214}
+{"sent": "guy", "ann_id": 533397, "best_split": [1, 2], "split_score": 0.4703985931906214}

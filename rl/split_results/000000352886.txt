@@ -1,0 +1,9 @@
+{"sent": "cow out of view", "ann_id": 1819811, "best_split": [2, 2], "split_score": 0.4723523898465422}
+{"sent": "belly in corner", "ann_id": 1819811, "best_split": [3, 1], "split_score": 0.21821756224404523}
+{"sent": "cow belly at 3", "ann_id": 1819811, "best_split": [2, 1], "split_score": 0.2567498726345699}
+{"sent": "the large thing behind the calf", "ann_id": 74183, "best_split": [2, 1], "split_score": 0.5656070292037947}
+{"sent": "closer big one", "ann_id": 74183, "best_split": [2, 1], "split_score": 0.5656070292037947}
+{"sent": "biggest coe in background", "ann_id": 74183, "best_split": [2, 1], "split_score": 0.5656070292037947}
+{"sent": "small brown animal", "ann_id": 74052, "best_split": [1, 3], "split_score": 0.5305199698282635}
+{"sent": "calf", "ann_id": 74052, "best_split": [1, 3], "split_score": 0.5305199698282635}
+{"sent": "animal looking at us", "ann_id": 74052, "best_split": [1, 3], "split_score": 0.5305199698282635}

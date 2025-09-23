@@ -1,0 +1,6 @@
+{"sent": "lying on back", "ann_id": 519746, "best_split": [2, 2], "split_score": 0.6885940666612251}
+{"sent": "man asleep", "ann_id": 519746, "best_split": [2, 1], "split_score": 0.5958227040578833}
+{"sent": "head closest to us", "ann_id": 519746, "best_split": [2, 2], "split_score": 0.6885940666612251}
+{"sent": "man not sleeping", "ann_id": 506951, "best_split": [2, 1], "split_score": 0.280377074770679}
+{"sent": "guy laying on belly", "ann_id": 506951, "best_split": [1, 2], "split_score": 0.3089156911342995}
+{"sent": "man looking in the distance", "ann_id": 506951, "best_split": [2, 1], "split_score": 0.2729415823288598}

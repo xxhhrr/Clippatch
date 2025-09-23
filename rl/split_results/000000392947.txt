@@ -1,0 +1,3 @@
+{"sent": "food furthest from qeii", "ann_id": 1553350, "best_split": [1, 5], "split_score": 0.3797979797631039}
+{"sent": "lowest sandwich", "ann_id": 1553350, "best_split": [2, 3], "split_score": 0.6237934362181716}
+{"sent": "closest bagel", "ann_id": 1553350, "best_split": [2, 3], "split_score": 0.6237934362181716}

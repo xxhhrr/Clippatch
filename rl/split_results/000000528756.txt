@@ -1,0 +1,6 @@
+{"sent": "banana on fork near yellow wire", "ann_id": 1044306, "best_split": [3, 3], "split_score": 0.6902848793480122}
+{"sent": "biggest banana on fork", "ann_id": 1044306, "best_split": [3, 3], "split_score": 0.6902848793480122}
+{"sent": "11oclock banana", "ann_id": 1044306, "best_split": [3, 3], "split_score": 0.6902848793480122}
+{"sent": "banana underneath fork with yellow wire", "ann_id": 1044162, "best_split": [1, 3], "split_score": 0.14938143137071444}
+{"sent": "lowest banana piece", "ann_id": 1044162, "best_split": [1, 3], "split_score": 0.14938143137071444}
+{"sent": "banana no fork", "ann_id": 1044162, "best_split": [1, 3], "split_score": 0.14938143137071444}

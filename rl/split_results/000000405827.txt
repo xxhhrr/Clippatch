@@ -1,0 +1,12 @@
+{"sent": "area above phone", "ann_id": 1711562, "best_split": [2, 2], "split_score": 0.4417464572622178}
+{"sent": "hands holding phone", "ann_id": 503379, "best_split": [1, 2], "split_score": 0.538789596236391}
+{"sent": "hands holding camera", "ann_id": 503379, "best_split": [1, 2], "split_score": 0.538789596236391}
+{"sent": "hands holding phone", "ann_id": 503379, "best_split": [1, 2], "split_score": 0.538789596236391}
+{"sent": "only a mans mouth open not with a mic", "ann_id": 501095, "best_split": [3, 1], "split_score": 0.14469453375374974}
+{"sent": "open mouth guy no teeth showing", "ann_id": 501095, "best_split": [2, 3], "split_score": 0.3893129770528014}
+{"sent": "man with open mouth partially out of photo", "ann_id": 501095, "best_split": [3, 2], "split_score": 0.2760736196016571}
+{"sent": "man with most visible face", "ann_id": 447483, "best_split": [2, 2], "split_score": 0.34279336731961146}
+{"sent": "bored looking face in corner", "ann_id": 447483, "best_split": [2, 2], "split_score": 0.34279336731961146}
+{"sent": "person singing into microphone", "ann_id": 442907, "best_split": [1, 2], "split_score": 0.9692180028857937}
+{"sent": "man holding mike", "ann_id": 442907, "best_split": [1, 2], "split_score": 0.9692180028857937}
+{"sent": "singer", "ann_id": 442907, "best_split": [1, 2], "split_score": 0.9692180028857937}

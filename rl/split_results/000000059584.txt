@@ -1,0 +1,9 @@
+{"sent": "big cow", "ann_id": 71804, "best_split": [1, 2], "split_score": 0.5014349489596048}
+{"sent": "closest biggest cow", "ann_id": 71804, "best_split": [1, 2], "split_score": 0.5014349489596048}
+{"sent": "cow 3 o clock", "ann_id": 71804, "best_split": [3, 1], "split_score": 0.27508090613683717}
+{"sent": "baby cow looking ahead more black spots", "ann_id": 70485, "best_split": [1, 5], "split_score": 0.5071539055967562}
+{"sent": "cow between cows", "ann_id": 70485, "best_split": [1, 5], "split_score": 0.5071539055967562}
+{"sent": "sandwiched cow", "ann_id": 70485, "best_split": [1, 5], "split_score": 0.5071539055967562}
+{"sent": "smallest", "ann_id": 69924, "best_split": [5, 1], "split_score": 0.1159072741722326}
+{"sent": "smallest cow", "ann_id": 69924, "best_split": [3, 2], "split_score": 0.41881045478299955}
+{"sent": "shortest cow", "ann_id": 69924, "best_split": [3, 2], "split_score": 0.41881045478299955}

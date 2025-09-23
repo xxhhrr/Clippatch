@@ -1,0 +1,5 @@
+{"sent": "parking meter near other sign", "ann_id": 419113, "best_split": [3, 3], "split_score": 0.3244181002856125}
+{"sent": "3pm meer", "ann_id": 419113, "best_split": [2, 2], "split_score": 0.2937659438541322}
+{"sent": "the meter on the shaded side of the building", "ann_id": 418399, "best_split": [3, 3], "split_score": 0.28683274017269283}
+{"sent": "meter at 630", "ann_id": 418399, "best_split": [3, 2], "split_score": 0.42076240704618045}
+{"sent": "meter further away from stripped object", "ann_id": 418399, "best_split": [3, 2], "split_score": 0.42076240704618045}

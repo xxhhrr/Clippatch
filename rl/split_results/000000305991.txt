@@ -1,0 +1,6 @@
+{"sent": "green leaves", "ann_id": 310965, "best_split": [2, 1], "split_score": 0.659438775483919}
+{"sent": "with green leaves", "ann_id": 310965, "best_split": [2, 1], "split_score": 0.659438775483919}
+{"sent": "half with leaves", "ann_id": 310965, "best_split": [2, 1], "split_score": 0.659438775483919}
+{"sent": "ham", "ann_id": 310271, "best_split": [2, 1], "split_score": 0.6030981322041544}
+{"sent": "dish with chunks of ham on it", "ann_id": 310271, "best_split": [2, 1], "split_score": 0.6030981322041544}
+{"sent": "ham", "ann_id": 310271, "best_split": [2, 1], "split_score": 0.6030981322041544}

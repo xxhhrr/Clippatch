@@ -1,0 +1,18 @@
+{"sent": "ketsup", "ann_id": 1091862, "best_split": [1, 2], "split_score": 0.45648875106207276}
+{"sent": "placemat under silverware", "ann_id": 1091862, "best_split": [1, 2], "split_score": 0.44460682734333934}
+{"sent": "food", "ann_id": 1091862, "best_split": [2, 1], "split_score": 0.5278213527607313}
+{"sent": "gray thing between end of spoon and knife", "ann_id": 1091453, "best_split": [1, 2], "split_score": 0.22460937499104713}
+{"sent": "open space next to knife", "ann_id": 1091453, "best_split": [1, 5], "split_score": 0.48509251265601644}
+{"sent": "table by knife", "ann_id": 1091453, "best_split": [1, 5], "split_score": 0.48509251265601644}
+{"sent": "white mug", "ann_id": 676624, "best_split": [3, 3], "split_score": 0.5746009714478485}
+{"sent": "mug with pig", "ann_id": 676624, "best_split": [3, 3], "split_score": 0.5746009714478485}
+{"sent": "coffee cup", "ann_id": 676624, "best_split": [3, 3], "split_score": 0.5746009714478485}
+{"sent": "silver mug", "ann_id": 676467, "best_split": [3, 3], "split_score": 0.3114035087248331}
+{"sent": "empty cup", "ann_id": 676467, "best_split": [3, 3], "split_score": 0.3114035087248331}
+{"sent": "tin cup", "ann_id": 676467, "best_split": [3, 3], "split_score": 0.3114035087248331}
+{"sent": "toast on omelette", "ann_id": 312075, "best_split": [2, 2], "split_score": 0.4815247894853816}
+{"sent": "slice of toast closes to egg", "ann_id": 312075, "best_split": [1, 2], "split_score": 0.2575334821325919}
+{"sent": "sandwich side to silverware", "ann_id": 312075, "best_split": [2, 2], "split_score": 0.4815247894853816}
+{"sent": "sanwich near cup", "ann_id": 311608, "best_split": [2, 3], "split_score": 0.3037300177282715}
+{"sent": "toast closest to coffee cup", "ann_id": 311608, "best_split": [2, 3], "split_score": 0.3037300177282715}
+{"sent": "bread on potatoes", "ann_id": 311608, "best_split": [3, 3], "split_score": 0.236776516167713}

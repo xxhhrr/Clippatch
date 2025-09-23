@@ -1,0 +1,7 @@
+{"sent": "back truck", "ann_id": 400438, "best_split": [3, 2], "split_score": 0.30599098128559254}
+{"sent": "truck behind the other", "ann_id": 400438, "best_split": [2, 3], "split_score": 0.35577351757068953}
+{"sent": "truck in back", "ann_id": 400438, "best_split": [2, 3], "split_score": 0.35577351757068953}
+{"sent": "in the starting position", "ann_id": 400005, "best_split": [2, 1], "split_score": 0.2527887838996407}
+{"sent": "main fire truck", "ann_id": 400005, "best_split": [3, 1], "split_score": 0.4807814629495329}
+{"sent": "big red truck in clear view", "ann_id": 400005, "best_split": [3, 1], "split_score": 0.4807814629495329}
+{"sent": "truck closes to you", "ann_id": 400005, "best_split": [3, 1], "split_score": 0.4807814629495329}

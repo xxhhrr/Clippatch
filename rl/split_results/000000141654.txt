@@ -1,0 +1,6 @@
+{"sent": "1 window back of bus", "ann_id": 166860, "best_split": [2, 2], "split_score": 0.3463807397683051}
+{"sent": "bus with single square window", "ann_id": 166860, "best_split": [2, 2], "split_score": 0.3463807397683051}
+{"sent": "backend of bus leading suv", "ann_id": 166860, "best_split": [2, 2], "split_score": 0.3463807397683051}
+{"sent": "bus blocking biker", "ann_id": 1794926, "best_split": [2, 2], "split_score": 0.36778115498725067}
+{"sent": "bus close to sidewalk", "ann_id": 1794926, "best_split": [2, 3], "split_score": 0.40474243658986686}
+{"sent": "bus closer to the crowd", "ann_id": 1794926, "best_split": [2, 3], "split_score": 0.40474243658986686}

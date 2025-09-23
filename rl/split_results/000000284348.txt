@@ -1,0 +1,6 @@
+{"sent": "books behind teddy bears head", "ann_id": 1145752, "best_split": [2, 3], "split_score": 0.8520752894724812}
+{"sent": "block of books behind bears head", "ann_id": 1145752, "best_split": [2, 3], "split_score": 0.8520752894724812}
+{"sent": "behind on the back of orange bear", "ann_id": 1145752, "best_split": [2, 2], "split_score": 0.5629783162816503}
+{"sent": "books behind teddys arm on shelf", "ann_id": 1139697, "best_split": [5, 1], "split_score": 0.23239436617858558}
+{"sent": "group of books by teddies raised arm", "ann_id": 1139697, "best_split": [5, 1], "split_score": 0.23239436617858558}
+{"sent": "books by the bears arm", "ann_id": 1139697, "best_split": [5, 1], "split_score": 0.23239436617858558}

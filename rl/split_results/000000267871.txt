@@ -1,0 +1,8 @@
+{"sent": "chair next to man in last row of seats", "ann_id": 2121307, "best_split": [3, 2], "split_score": 0.40213352506267125}
+{"sent": "chair nearest man seated", "ann_id": 2121307, "best_split": [3, 2], "split_score": 0.40213352506267125}
+{"sent": "chair next to closest man", "ann_id": 2121307, "best_split": [3, 2], "split_score": 0.40213352506267125}
+{"sent": "chair three seats away in row of man in back", "ann_id": 1587036, "best_split": [3, 1], "split_score": 0.19726010934343205}
+{"sent": "closest chair", "ann_id": 1587036, "best_split": [3, 1], "split_score": 0.19726010934343205}
+{"sent": "chair next to the one with strap", "ann_id": 1582768, "best_split": [5, 1], "split_score": 0.22774327120009943}
+{"sent": "center chair closest to us", "ann_id": 1582768, "best_split": [5, 1], "split_score": 0.22774327120009943}
+{"sent": "chair 3", "ann_id": 1582768, "best_split": [5, 1], "split_score": 0.22774327120009943}

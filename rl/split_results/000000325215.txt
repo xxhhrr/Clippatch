@@ -1,0 +1,6 @@
+{"sent": "white and red bike", "ann_id": 1362090, "best_split": [1, 5], "split_score": 0.24015136811176485}
+{"sent": "red and white bike", "ann_id": 1362090, "best_split": [1, 5], "split_score": 0.24015136811176485}
+{"sent": "red and white bike", "ann_id": 1362090, "best_split": [1, 5], "split_score": 0.24015136811176485}
+{"sent": "bike furthest away from red car", "ann_id": 1361722, "best_split": [2, 3], "split_score": 0.4053431597875008}
+{"sent": "red bike with blue something close to us", "ann_id": 1361722, "best_split": [2, 3], "split_score": 0.4053431597875008}
+{"sent": "closest bike", "ann_id": 1361722, "best_split": [2, 3], "split_score": 0.4053431597875008}

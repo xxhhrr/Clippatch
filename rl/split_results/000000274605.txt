@@ -1,0 +1,12 @@
+{"sent": "white shirt black pants", "ann_id": 2022603, "best_split": [1, 5], "split_score": 0.659090909024037}
+{"sent": "fuzzy person", "ann_id": 2022603, "best_split": [2, 1], "split_score": 0.12671232876260302}
+{"sent": "man in background with black pants", "ann_id": 2022603, "best_split": [2, 1], "split_score": 0.12671232876260302}
+{"sent": "blurred car looking like it is sitting on mans shoulder", "ann_id": 1778701, "best_split": [2, 3], "split_score": 0.5381679388671078}
+{"sent": "blurry area next to mans face", "ann_id": 1778701, "best_split": [2, 2], "split_score": 0.36734693874622554}
+{"sent": "gray and black spot next to his face", "ann_id": 1778701, "best_split": [2, 3], "split_score": 0.5381679388671078}
+{"sent": "man", "ann_id": 464905, "best_split": [1, 2], "split_score": 0.7488039207768173}
+{"sent": "guy", "ann_id": 464905, "best_split": [1, 2], "split_score": 0.7488039207768173}
+{"sent": "man that is focused in picture", "ann_id": 464905, "best_split": [1, 2], "split_score": 0.7488039207768173}
+{"sent": "blurry white car in background", "ann_id": 351515, "best_split": [1, 2], "split_score": 0.5983411412104161}
+{"sent": "western most blurry car", "ann_id": 351515, "best_split": [2, 1], "split_score": 0.26964372863989616}
+{"sent": "white car in the background of the man on the phone", "ann_id": 351515, "best_split": [2, 1], "split_score": 0.26964372863989616}

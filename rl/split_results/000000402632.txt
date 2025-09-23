@@ -1,0 +1,5 @@
+{"sent": "man in blue hands in pocket", "ann_id": 255652, "best_split": [2, 3], "split_score": 0.6217948717236956}
+{"sent": "blue jacket", "ann_id": 255652, "best_split": [2, 3], "split_score": 0.6217948717236956}
+{"sent": "closest man blue jacket", "ann_id": 255652, "best_split": [2, 3], "split_score": 0.6217948717236956}
+{"sent": "guy with scarf", "ann_id": 253866, "best_split": [1, 5], "split_score": 0.28568680258891044}
+{"sent": "man with scarf", "ann_id": 253866, "best_split": [1, 5], "split_score": 0.28568680258891044}

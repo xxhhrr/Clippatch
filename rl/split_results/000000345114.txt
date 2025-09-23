@@ -1,0 +1,6 @@
+{"sent": "the reflection of the suitcase", "ann_id": 1445700, "best_split": [3, 2], "split_score": 0.5709205846927182}
+{"sent": "reflection of suitcase", "ann_id": 1445700, "best_split": [3, 2], "split_score": 0.5709205846927182}
+{"sent": "reflection of sucitcase", "ann_id": 1445700, "best_split": [3, 2], "split_score": 0.5709205846927182}
+{"sent": "suitcase not reflection", "ann_id": 1183130, "best_split": [2, 1], "split_score": 0.6521313401445221}
+{"sent": "suitcase with clothes not the mirror reflection", "ann_id": 1183130, "best_split": [2, 1], "split_score": 0.6521313401445221}
+{"sent": "real suitcase", "ann_id": 1183130, "best_split": [2, 1], "split_score": 0.6521313401445221}

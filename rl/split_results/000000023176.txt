@@ -1,0 +1,6 @@
+{"sent": "microwave on counter", "ann_id": 1119687, "best_split": [3, 2], "split_score": 0.15551410583405056}
+{"sent": "the microwave thats silver", "ann_id": 1119687, "best_split": [2, 2], "split_score": 0.1294642857039649}
+{"sent": "microwave", "ann_id": 1119687, "best_split": [3, 2], "split_score": 0.15551410583405056}
+{"sent": "mircrowave", "ann_id": 1119661, "best_split": [1, 5], "split_score": 0.13020236730334073}
+{"sent": "microwave", "ann_id": 1119661, "best_split": [2, 3], "split_score": 0.22562939980603394}
+{"sent": "microwave above", "ann_id": 1119661, "best_split": [2, 3], "split_score": 0.22562939980603394}

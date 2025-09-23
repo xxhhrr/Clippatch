@@ -1,0 +1,5 @@
+{"sent": "table in the distance", "ann_id": 1621784, "best_split": [3, 2], "split_score": 0.8579222549604544}
+{"sent": "not the table closest", "ann_id": 1621784, "best_split": [3, 2], "split_score": 0.8579222549604544}
+{"sent": "a table", "ann_id": 119236, "best_split": [2, 1], "split_score": 0.5382656450565068}
+{"sent": "the tray", "ann_id": 119236, "best_split": [2, 1], "split_score": 0.5382656450565068}
+{"sent": "table", "ann_id": 119236, "best_split": [1, 2], "split_score": 0.47243360110917537}

@@ -1,0 +1,9 @@
+{"sent": "man black shirt smiling", "ann_id": 228820, "best_split": [3, 2], "split_score": 0.40290381120656715}
+{"sent": "the man in the black shirt", "ann_id": 228820, "best_split": [3, 2], "split_score": 0.40290381120656715}
+{"sent": "man in dark shirt", "ann_id": 228820, "best_split": [1, 5], "split_score": 0.33346091279940093}
+{"sent": "black shawl lady blond", "ann_id": 185403, "best_split": [3, 3], "split_score": 0.5283066131602823}
+{"sent": "black jaket blue shirt female", "ann_id": 185403, "best_split": [5, 1], "split_score": 0.17820093788701144}
+{"sent": "woman with black over shoulders", "ann_id": 185403, "best_split": [3, 3], "split_score": 0.5283066131602823}
+{"sent": "woman with glasses", "ann_id": 239215, "best_split": [1, 2], "split_score": 0.6382645059876684}
+{"sent": "woman with glasses", "ann_id": 239215, "best_split": [1, 2], "split_score": 0.6382645059876684}
+{"sent": "woman in blue shirt and glasses", "ann_id": 239215, "best_split": [2, 2], "split_score": 0.6480984692731524}

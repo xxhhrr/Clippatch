@@ -1,0 +1,6 @@
+{"sent": "red striped tie", "ann_id": 511761, "best_split": [1, 5], "split_score": 0.5841778615300355}
+{"sent": "man with hair", "ann_id": 511761, "best_split": [1, 3], "split_score": 0.2420308601939374}
+{"sent": "man not in white", "ann_id": 511761, "best_split": [1, 3], "split_score": 0.2420308601939374}
+{"sent": "man wearing tan tie", "ann_id": 473108, "best_split": [1, 3], "split_score": 0.3521224773659348}
+{"sent": "open suit can see whole tie", "ann_id": 473108, "best_split": [1, 3], "split_score": 0.3521224773659348}
+{"sent": "open coat", "ann_id": 473108, "best_split": [1, 3], "split_score": 0.3521224773659348}

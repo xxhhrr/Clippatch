@@ -1,0 +1,5 @@
+{"sent": "piece of broccoli at 3 o clock", "ann_id": 1058034, "best_split": [1, 5], "split_score": 0.3240997229596261}
+{"sent": "broccoli at 2", "ann_id": 1058034, "best_split": [1, 5], "split_score": 0.3240997229596261}
+{"sent": "brocoli laying on potato slice", "ann_id": 1056218, "best_split": [2, 3], "split_score": 0.47683397677644374}
+{"sent": "piece of broccoli on the 3 potatoe slices", "ann_id": 1056218, "best_split": [2, 3], "split_score": 0.47683397677644374}
+{"sent": "the piece of broccoli laying on the three potato slices", "ann_id": 1056218, "best_split": [2, 3], "split_score": 0.47683397677644374}

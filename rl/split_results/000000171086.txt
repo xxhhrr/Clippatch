@@ -1,0 +1,6 @@
+{"sent": "upper rack number 3", "ann_id": 1572464, "best_split": [5, 1], "split_score": 0.1541812671508494}
+{"sent": "row of bigger donuts three", "ann_id": 1572464, "best_split": [1, 5], "split_score": 0.23650568179418568}
+{"sent": "highest kabob donut number 2", "ann_id": 1574680, "best_split": [5, 1], "split_score": 0.1563786008084195}
+{"sent": "closest donut to camara", "ann_id": 1079920, "best_split": [2, 2], "split_score": 0.22767857141042103}
+{"sent": "closest pastry at edge", "ann_id": 1079920, "best_split": [2, 2], "split_score": 0.22767857141042103}
+{"sent": "doughball on end of biggest skewer", "ann_id": 1079920, "best_split": [5, 1], "split_score": 0.17010309276784766}

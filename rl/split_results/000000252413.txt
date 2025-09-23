@@ -1,0 +1,6 @@
+{"sent": "bed not next to curtain", "ann_id": 319235, "best_split": [3, 3], "split_score": 0.8387305698123817}
+{"sent": "bed at 9 occlock position", "ann_id": 319235, "best_split": [3, 3], "split_score": 0.8387305698123817}
+{"sent": "bed 700", "ann_id": 319235, "best_split": [3, 3], "split_score": 0.8387305698123817}
+{"sent": "bed closer to curtain", "ann_id": 317583, "best_split": [3, 2], "split_score": 0.6253619690365152}
+{"sent": "bed next to curtain", "ann_id": 317583, "best_split": [3, 2], "split_score": 0.6253619690365152}
+{"sent": "bed on the rite", "ann_id": 317583, "best_split": [3, 1], "split_score": 0.31268098453712106}

@@ -1,0 +1,3 @@
+{"sent": "boat with name on side", "ann_id": 249187, "best_split": [5, 1], "split_score": 0.2554489101924166}
+{"sent": "part of boat in corner", "ann_id": 179115, "best_split": [3, 3], "split_score": 0.3833610648280597}
+{"sent": "boat at 4 o clock", "ann_id": 179115, "best_split": [3, 3], "split_score": 0.3833610648280597}

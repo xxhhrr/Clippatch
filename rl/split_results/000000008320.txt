@@ -1,0 +1,6 @@
+{"sent": "bigger zebra", "ann_id": 592241, "best_split": [1, 3], "split_score": 0.7275579150140228}
+{"sent": "zebra faced away", "ann_id": 592241, "best_split": [1, 3], "split_score": 0.7275579150140228}
+{"sent": "zebra butt", "ann_id": 592241, "best_split": [1, 3], "split_score": 0.7275579150140228}
+{"sent": "small zebra", "ann_id": 591936, "best_split": [3, 1], "split_score": 0.16507072904433784}
+{"sent": "smaller zebra", "ann_id": 591936, "best_split": [3, 1], "split_score": 0.16507072904433784}
+{"sent": "little zebra", "ann_id": 591936, "best_split": [3, 1], "split_score": 0.16507072904433784}

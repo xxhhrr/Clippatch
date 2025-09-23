@@ -1,0 +1,6 @@
+{"sent": "furthest zebra", "ann_id": 590860, "best_split": [1, 3], "split_score": 0.3793881875804207}
+{"sent": "zebra you can see less of", "ann_id": 590860, "best_split": [1, 3], "split_score": 0.3793881875804207}
+{"sent": "zebra mostly covered up", "ann_id": 590860, "best_split": [1, 3], "split_score": 0.3793881875804207}
+{"sent": "zebra that doesnt have head resting", "ann_id": 590319, "best_split": [1, 3], "split_score": 0.49335734096582035}
+{"sent": "closest zebra", "ann_id": 590319, "best_split": [1, 3], "split_score": 0.49335734096582035}
+{"sent": "closest to camera", "ann_id": 590319, "best_split": [1, 3], "split_score": 0.49335734096582035}

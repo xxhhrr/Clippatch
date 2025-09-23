@@ -1,0 +1,8 @@
+{"sent": "orange food not touching green", "ann_id": 1065654, "best_split": [1, 3], "split_score": 0.42884739212451256}
+{"sent": "longest red piece", "ann_id": 1065654, "best_split": [1, 3], "split_score": 0.42884739212451256}
+{"sent": "orange colored vegetable", "ann_id": 1065654, "best_split": [3, 1], "split_score": 0.3702968549966787}
+{"sent": "carrot edge of plate", "ann_id": 1065553, "best_split": [3, 3], "split_score": 0.49432820765133245}
+{"sent": "carrot 300", "ann_id": 1065553, "best_split": [3, 3], "split_score": 0.49432820765133245}
+{"sent": "carrot across the green stuff", "ann_id": 1062694, "best_split": [3, 1], "split_score": 0.2621720633265084}
+{"sent": "carrot laying over mean horizontally", "ann_id": 1062694, "best_split": [5, 1], "split_score": 0.2818245490910677}
+{"sent": "horizontal carrot", "ann_id": 1062694, "best_split": [5, 1], "split_score": 0.2818245490910677}

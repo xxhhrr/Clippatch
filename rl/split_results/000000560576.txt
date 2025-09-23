@@ -1,0 +1,9 @@
+{"sent": "boy with dark hair green shirt crouching near blond girl", "ann_id": 1308168, "best_split": [3, 2], "split_score": 0.35182250392213915}
+{"sent": "guy green shirt bending", "ann_id": 1308168, "best_split": [3, 1], "split_score": 0.18152085035734605}
+{"sent": "green shirt bending over", "ann_id": 1308168, "best_split": [3, 1], "split_score": 0.18152085035734605}
+{"sent": "20099", "ann_id": 1269818, "best_split": [2, 3], "split_score": 0.3728222996109732}
+{"sent": "person with numbers on back", "ann_id": 1269818, "best_split": [2, 3], "split_score": 0.3728222996109732}
+{"sent": "has number on his back", "ann_id": 1269818, "best_split": [2, 3], "split_score": 0.3728222996109732}
+{"sent": "big guy", "ann_id": 1218142, "best_split": [1, 5], "split_score": 0.5989144049604247}
+{"sent": "large man in denium pants", "ann_id": 1218142, "best_split": [1, 5], "split_score": 0.5989144049604247}
+{"sent": "back of big man", "ann_id": 1218142, "best_split": [2, 2], "split_score": 0.39770835997966275}

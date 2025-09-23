@@ -1,0 +1,12 @@
+{"sent": "woman half out of frame", "ann_id": 500169, "best_split": [5, 1], "split_score": 0.10382800209072968}
+{"sent": "person that is not quite seen facing the two workers in dark blue shirt", "ann_id": 500169, "best_split": [3, 1], "split_score": 0.1274885145421378}
+{"sent": "person coming in", "ann_id": 500169, "best_split": [3, 1], "split_score": 0.1274885145421378}
+{"sent": "man leaning over", "ann_id": 437675, "best_split": [1, 5], "split_score": 0.40373961215341586}
+{"sent": "guy chef", "ann_id": 437675, "best_split": [1, 5], "split_score": 0.40373961215341586}
+{"sent": "lady in gray shirt", "ann_id": 437675, "best_split": [3, 1], "split_score": 0.22416737829717295}
+{"sent": "closest with plates in hand", "ann_id": 1732878, "best_split": [1, 2], "split_score": 0.7971141581314926}
+{"sent": "woman in blue tee", "ann_id": 1732878, "best_split": [1, 2], "split_score": 0.7971141581314926}
+{"sent": "woman in blue", "ann_id": 1732878, "best_split": [1, 2], "split_score": 0.7971141581314926}
+{"sent": "tray with the most empty plates", "ann_id": 1622523, "best_split": [3, 3], "split_score": 0.6089060986678477}
+{"sent": "the plates are white", "ann_id": 1622523, "best_split": [3, 3], "split_score": 0.6089060986678477}
+{"sent": "white disheson table", "ann_id": 1622523, "best_split": [3, 3], "split_score": 0.6089060986678477}

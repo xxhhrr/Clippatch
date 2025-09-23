@@ -1,0 +1,12 @@
+{"sent": "blue tie", "ann_id": 556925, "best_split": [1, 3], "split_score": 0.7460695568874423}
+{"sent": "guy with tie", "ann_id": 556925, "best_split": [1, 3], "split_score": 0.7460695568874423}
+{"sent": "guy", "ann_id": 556925, "best_split": [1, 3], "split_score": 0.7460695568874423}
+{"sent": "girl with mc sweatshirt", "ann_id": 473218, "best_split": [1, 3], "split_score": 0.3384411196707022}
+{"sent": "blond", "ann_id": 473218, "best_split": [1, 5], "split_score": 0.5691964285136772}
+{"sent": "blond girl", "ann_id": 473218, "best_split": [1, 5], "split_score": 0.5691964285136772}
+{"sent": "orange shirt", "ann_id": 449461, "best_split": [1, 3], "split_score": 0.3399014778134851}
+{"sent": "orange", "ann_id": 449461, "best_split": [1, 3], "split_score": 0.3399014778134851}
+{"sent": "woman in orange", "ann_id": 449461, "best_split": [1, 3], "split_score": 0.3399014778134851}
+{"sent": "girl in green", "ann_id": 443059, "best_split": [1, 3], "split_score": 0.6419599411201787}
+{"sent": "woman in green blouse", "ann_id": 443059, "best_split": [1, 3], "split_score": 0.6419599411201787}
+{"sent": "green shirt", "ann_id": 443059, "best_split": [1, 3], "split_score": 0.6419599411201787}

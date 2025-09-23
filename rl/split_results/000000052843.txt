@@ -1,0 +1,5 @@
+{"sent": "2 woman", "ann_id": 1232320, "best_split": [1, 2], "split_score": 0.41884566324861106}
+{"sent": "the hand you write with the player", "ann_id": 1232320, "best_split": [1, 2], "split_score": 0.41884566324861106}
+{"sent": "lady at 5 o clock", "ann_id": 1232320, "best_split": [1, 5], "split_score": 0.47011261908243485}
+{"sent": "correct rounds tennis player", "ann_id": 451510, "best_split": [3, 1], "split_score": 0.23886378307484718}
+{"sent": "woman leftest", "ann_id": 451510, "best_split": [1, 3], "split_score": 0.5260437375446723}

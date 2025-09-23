@@ -1,0 +1,3 @@
+{"sent": "fridge door that is closed", "ann_id": 331890, "best_split": [1, 3], "split_score": 0.710094153672537}
+{"sent": "the closed door of the fridge", "ann_id": 331890, "best_split": [1, 3], "split_score": 0.710094153672537}
+{"sent": "icemaker only", "ann_id": 331890, "best_split": [1, 3], "split_score": 0.710094153672537}

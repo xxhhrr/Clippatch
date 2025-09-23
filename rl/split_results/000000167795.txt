@@ -1,0 +1,9 @@
+{"sent": "guy directly under bus door", "ann_id": 482000, "best_split": [1, 2], "split_score": 0.06526213374002686}
+{"sent": "tallest guy", "ann_id": 482000, "best_split": [2, 1], "split_score": 0.13188866798680363}
+{"sent": "in between guy", "ann_id": 482000, "best_split": [2, 3], "split_score": 0.3972455089344616}
+{"sent": "red bus", "ann_id": 366464, "best_split": [5, 1], "split_score": 0.23295454543090963}
+{"sent": "the red and white bus", "ann_id": 366464, "best_split": [5, 1], "split_score": 0.23295454543090963}
+{"sent": "red and white bus", "ann_id": 366464, "best_split": [5, 1], "split_score": 0.23295454543090963}
+{"sent": "green bus", "ann_id": 366275, "best_split": [3, 2], "split_score": 0.6687898088596325}
+{"sent": "green bus", "ann_id": 366275, "best_split": [3, 2], "split_score": 0.6687898088596325}
+{"sent": "green bus", "ann_id": 366275, "best_split": [3, 2], "split_score": 0.6687898088596325}

@@ -1,0 +1,6 @@
+{"sent": "person sitting on the side wearing black with wallet sitting on table beside her", "ann_id": 562219, "best_split": [1, 3], "split_score": 0.7868383404395065}
+{"sent": "woman holding something green", "ann_id": 562219, "best_split": [1, 3], "split_score": 0.7868383404395065}
+{"sent": "arm of woman with purse at and of table", "ann_id": 562219, "best_split": [1, 3], "split_score": 0.7868383404395065}
+{"sent": "person with white shirt and black vest", "ann_id": 555018, "best_split": [5, 1], "split_score": 0.23795066411404642}
+{"sent": "person with hand on lap wearing watch", "ann_id": 555018, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "watch", "ann_id": 555018, "best_split": [1, 2], "split_score": 0.0}

@@ -1,0 +1,9 @@
+{"sent": "person holding other person down", "ann_id": 2159927, "best_split": [2, 1], "split_score": 0.7125717474205767}
+{"sent": "arm holding down the face", "ann_id": 2159927, "best_split": [1, 2], "split_score": 0.3573752882710209}
+{"sent": "man in white", "ann_id": 2159927, "best_split": [2, 2], "split_score": 0.5919723690097874}
+{"sent": "oww upper hand", "ann_id": 1211679, "best_split": [1, 2], "split_score": 0.4330357142684536}
+{"sent": "the hand near scissors but not the hairy hand", "ann_id": 1211679, "best_split": [3, 2], "split_score": 0.599465508551907}
+{"sent": "hand holding other hand down", "ann_id": 1211679, "best_split": [3, 2], "split_score": 0.599465508551907}
+{"sent": "man being held down", "ann_id": 422699, "best_split": [3, 1], "split_score": 0.5445740867633427}
+{"sent": "man in black", "ann_id": 422699, "best_split": [3, 1], "split_score": 0.5445740867633427}
+{"sent": "man with face on counter", "ann_id": 422699, "best_split": [3, 1], "split_score": 0.5445740867633427}

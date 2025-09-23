@@ -1,0 +1,6 @@
+{"sent": "passenger", "ann_id": 222003, "best_split": [2, 1], "split_score": 0.1463518249673823}
+{"sent": "guy in back", "ann_id": 222003, "best_split": [1, 5], "split_score": 0.6763440859553915}
+{"sent": "man behind", "ann_id": 222003, "best_split": [1, 5], "split_score": 0.6763440859553915}
+{"sent": "main driver pink helmet", "ann_id": 208598, "best_split": [1, 3], "split_score": 0.6746315876831808}
+{"sent": "driver", "ann_id": 208598, "best_split": [1, 3], "split_score": 0.6746315876831808}
+{"sent": "scooter driver", "ann_id": 208598, "best_split": [1, 3], "split_score": 0.6746315876831808}

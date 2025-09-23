@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 531993, "best_split": [3, 1], "split_score": 0.42393380010803244}
+{"sent": "woman", "ann_id": 531993, "best_split": [2, 1], "split_score": 0.3331771321350523}
+{"sent": "girl", "ann_id": 531993, "best_split": [3, 1], "split_score": 0.42393380010803244}
+{"sent": "guy", "ann_id": 439171, "best_split": [1, 3], "split_score": 0.3971720461801461}
+{"sent": "man", "ann_id": 439171, "best_split": [3, 1], "split_score": 0.40100957611160976}
+{"sent": "boy", "ann_id": 439171, "best_split": [1, 2], "split_score": 0.34030655114477715}

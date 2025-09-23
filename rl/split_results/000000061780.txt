@@ -1,0 +1,6 @@
+{"sent": "man in black sunglasses", "ann_id": 204352, "best_split": [2, 3], "split_score": 0.6989569595133729}
+{"sent": "white shirt man sunglasses", "ann_id": 204352, "best_split": [2, 3], "split_score": 0.6989569595133729}
+{"sent": "standing guy", "ann_id": 204352, "best_split": [2, 1], "split_score": 0.23189212838662376}
+{"sent": "red hat", "ann_id": 183397, "best_split": [2, 2], "split_score": 0.49199337379265645}
+{"sent": "man plaing with maine", "ann_id": 183397, "best_split": [2, 2], "split_score": 0.49199337379265645}
+{"sent": "man in red cap", "ann_id": 183397, "best_split": [2, 2], "split_score": 0.49199337379265645}

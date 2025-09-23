@@ -1,0 +1,12 @@
+{"sent": "man in white shirt facing us head turned", "ann_id": 464720, "best_split": [2, 3], "split_score": 0.4713990350940272}
+{"sent": "white shirt facing", "ann_id": 464720, "best_split": [2, 3], "split_score": 0.4713990350940272}
+{"sent": "man in white facing us", "ann_id": 464720, "best_split": [2, 3], "split_score": 0.4713990350940272}
+{"sent": "man with red umbrella", "ann_id": 459313, "best_split": [1, 3], "split_score": 0.426448190723888}
+{"sent": "big man facing camera in print shirt", "ann_id": 459313, "best_split": [2, 2], "split_score": 0.5392652734899996}
+{"sent": "guy with umb", "ann_id": 459313, "best_split": [1, 5], "split_score": 0.4537372875006232}
+{"sent": "striped shirt facing away", "ann_id": 484771, "best_split": [1, 2], "split_score": 0.2674585459077065}
+{"sent": "guy wearing stripes", "ann_id": 484771, "best_split": [2, 1], "split_score": 0.23761335771464548}
+{"sent": "closest man with back to us with striped shirt", "ann_id": 484771, "best_split": [2, 1], "split_score": 0.23761335771464548}
+{"sent": "emblem on back of white shirt", "ann_id": 480361, "best_split": [2, 3], "split_score": 0.37833743605582865}
+{"sent": "white shirt facing away", "ann_id": 480361, "best_split": [2, 3], "split_score": 0.37833743605582865}
+{"sent": "person in white shirts back to me", "ann_id": 480361, "best_split": [2, 3], "split_score": 0.37833743605582865}

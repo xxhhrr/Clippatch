@@ -1,0 +1,21 @@
+{"sent": "the person in purple", "ann_id": 1274082, "best_split": [1, 5], "split_score": 0.26633522724570463}
+{"sent": "purple lady", "ann_id": 1274082, "best_split": [1, 5], "split_score": 0.26633522724570463}
+{"sent": "purple dress", "ann_id": 1274082, "best_split": [1, 5], "split_score": 0.26633522724570463}
+{"sent": "man in front of person in all red with backpack white shirt", "ann_id": 1271976, "best_split": [2, 2], "split_score": 0.25934579437358746}
+{"sent": "guy with backpack and white shirt", "ann_id": 1271976, "best_split": [1, 5], "split_score": 0.337620578747118}
+{"sent": "person with backpack", "ann_id": 1271976, "best_split": [1, 5], "split_score": 0.337620578747118}
+{"sent": "dark clothes by purple shirt", "ann_id": 1252958, "best_split": [2, 3], "split_score": 0.3958177744163216}
+{"sent": "all black", "ann_id": 1252958, "best_split": [2, 3], "split_score": 0.3958177744163216}
+{"sent": "man in black", "ann_id": 1252958, "best_split": [2, 3], "split_score": 0.3958177744163216}
+{"sent": "guy with back in red", "ann_id": 1238284, "best_split": [1, 5], "split_score": 0.48752672839562305}
+{"sent": "man in red with back to camera", "ann_id": 1238284, "best_split": [1, 5], "split_score": 0.48752672839562305}
+{"sent": "man in red facing away", "ann_id": 1238284, "best_split": [1, 5], "split_score": 0.48752672839562305}
+{"sent": "sideview of man in red", "ann_id": 1230055, "best_split": [2, 3], "split_score": 0.2201388262670027}
+{"sent": "red outfit glasses", "ann_id": 1230055, "best_split": [3, 2], "split_score": 0.2201388262670027}
+{"sent": "person in red standing in profile", "ann_id": 1230055, "best_split": [1, 5], "split_score": 0.3971322848846316}
+{"sent": "guy on horse", "ann_id": 1227652, "best_split": [3, 3], "split_score": 0.22498618017896818}
+{"sent": "rider of the horse", "ann_id": 1227652, "best_split": [3, 3], "split_score": 0.22498618017896818}
+{"sent": "guy on horse", "ann_id": 1227652, "best_split": [3, 3], "split_score": 0.22498618017896818}
+{"sent": "white pants with boots", "ann_id": 2159178, "best_split": [2, 3], "split_score": 0.25730994149260233}
+{"sent": "person in white shorts", "ann_id": 2159178, "best_split": [2, 1], "split_score": 0.09126526849153932}
+{"sent": "white pants", "ann_id": 2159178, "best_split": [2, 3], "split_score": 0.25730994149260233}

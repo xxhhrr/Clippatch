@@ -1,0 +1,4 @@
+{"sent": "red chair nearest laptop", "ann_id": 1940522, "best_split": [3, 2], "split_score": 0.5770284509605178}
+{"sent": "rid couch above laptop", "ann_id": 1940522, "best_split": [3, 2], "split_score": 0.5770284509605178}
+{"sent": "wooden chair across from woman", "ann_id": 377747, "best_split": [5, 1], "split_score": 0.2943893091977607}
+{"sent": "half a chair closest to us with something red on it", "ann_id": 377747, "best_split": [1, 2], "split_score": 0.1322146045865667}

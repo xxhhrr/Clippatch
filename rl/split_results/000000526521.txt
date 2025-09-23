@@ -1,0 +1,6 @@
+{"sent": "trunk down", "ann_id": 584515, "best_split": [2, 2], "split_score": 0.6856122853354331}
+{"sent": "tusk down", "ann_id": 584515, "best_split": [2, 2], "split_score": 0.6856122853354331}
+{"sent": "smallest elephant", "ann_id": 584515, "best_split": [2, 2], "split_score": 0.6856122853354331}
+{"sent": "biggest elephant", "ann_id": 583746, "best_split": [2, 1], "split_score": 0.45872391894822284}
+{"sent": "elephant with trunk up", "ann_id": 583746, "best_split": [2, 1], "split_score": 0.45872391894822284}
+{"sent": "trunk up", "ann_id": 583746, "best_split": [2, 1], "split_score": 0.45872391894822284}

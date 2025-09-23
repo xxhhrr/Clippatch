@@ -1,0 +1,6 @@
+{"sent": "peaches closest to banans", "ann_id": 1551752, "best_split": [3, 3], "split_score": 0.3851351350648036}
+{"sent": "peaches i guess they are near bananas", "ann_id": 1551752, "best_split": [3, 3], "split_score": 0.3851351350648036}
+{"sent": "red apples next to green apple", "ann_id": 1551752, "best_split": [3, 3], "split_score": 0.3851351350648036}
+{"sent": "green apples", "ann_id": 1551064, "best_split": [3, 2], "split_score": 0.2416838724200867}
+{"sent": "stack of green apples", "ann_id": 1551064, "best_split": [3, 2], "split_score": 0.2416838724200867}
+{"sent": "green aples", "ann_id": 1551064, "best_split": [3, 2], "split_score": 0.2416838724200867}

@@ -1,0 +1,9 @@
+{"sent": "gray suv", "ann_id": 135997, "best_split": [2, 2], "split_score": 0.18620368211091404}
+{"sent": "jeep cherokee", "ann_id": 135997, "best_split": [2, 3], "split_score": 0.2247303457995407}
+{"sent": "jeep", "ann_id": 135997, "best_split": [2, 3], "split_score": 0.2247303457995407}
+{"sent": "white suv", "ann_id": 1775852, "best_split": [5, 1], "split_score": 0.1745301112222353}
+{"sent": "white suv", "ann_id": 1775852, "best_split": [5, 1], "split_score": 0.1745301112222353}
+{"sent": "white police suv", "ann_id": 1775852, "best_split": [2, 3], "split_score": 0.28861003857521594}
+{"sent": "car closest to cyclist", "ann_id": 131818, "best_split": [1, 5], "split_score": 0.21169751868730824}
+{"sent": "car next to bike", "ann_id": 131818, "best_split": [1, 5], "split_score": 0.21169751868730824}
+{"sent": "a car behind a man with bicycle", "ann_id": 131818, "best_split": [3, 2], "split_score": 0.2031372548792003}

@@ -1,0 +1,8 @@
+{"sent": "green red spots apple", "ann_id": 1047313, "best_split": [3, 3], "split_score": 0.6665552955785908}
+{"sent": "red and green apple", "ann_id": 1047313, "best_split": [3, 3], "split_score": 0.6665552955785908}
+{"sent": "apple that is both green and red", "ann_id": 1047313, "best_split": [3, 3], "split_score": 0.6665552955785908}
+{"sent": "half banana", "ann_id": 1043258, "best_split": [3, 2], "split_score": 0.745811197308356}
+{"sent": "not the full banana the other one", "ann_id": 1043258, "best_split": [3, 2], "split_score": 0.745811197308356}
+{"sent": "banana you can see all of", "ann_id": 1042737, "best_split": [2, 1], "split_score": 0.6141316310582533}
+{"sent": "highest banana", "ann_id": 1042737, "best_split": [2, 1], "split_score": 0.6141316310582533}
+{"sent": "highest banana", "ann_id": 1042737, "best_split": [2, 1], "split_score": 0.6141316310582533}

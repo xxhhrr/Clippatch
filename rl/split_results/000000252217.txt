@@ -1,0 +1,9 @@
+{"sent": "lowest apples", "ann_id": 1049587, "best_split": [3, 1], "split_score": 0.24665265684499232}
+{"sent": "lowest red apple bin", "ann_id": 1049587, "best_split": [5, 1], "split_score": 0.32894861357727373}
+{"sent": "closest apples red to 4oclock", "ann_id": 1049587, "best_split": [3, 1], "split_score": 0.24665265684499232}
+{"sent": "upper bin 3", "ann_id": 1049531, "best_split": [2, 2], "split_score": 0.1909934945878233}
+{"sent": "apples above green apples", "ann_id": 1049531, "best_split": [1, 2], "split_score": 0.1564468014526407}
+{"sent": "apples next to onions", "ann_id": 1049531, "best_split": [3, 3], "split_score": 0.4953069507235785}
+{"sent": "row no 2 basket no 2", "ann_id": 1049163, "best_split": [1, 2], "split_score": 0.2121222969994228}
+{"sent": "apple with white sticker", "ann_id": 1049163, "best_split": [5, 1], "split_score": 0.3554326467975087}
+{"sent": "apples in basket with most stickers visible", "ann_id": 1049163, "best_split": [2, 3], "split_score": 0.472843450438404}

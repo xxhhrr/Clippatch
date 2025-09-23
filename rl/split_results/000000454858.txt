@@ -1,0 +1,9 @@
+{"sent": "man white shirt brown tie white hair", "ann_id": 507909, "best_split": [1, 2], "split_score": 0.323939732129945}
+{"sent": "white hair", "ann_id": 507909, "best_split": [1, 5], "split_score": 0.790243902360354}
+{"sent": "gray haired man", "ann_id": 507909, "best_split": [1, 5], "split_score": 0.790243902360354}
+{"sent": "man with no tie", "ann_id": 447451, "best_split": [1, 3], "split_score": 0.44884169881462105}
+{"sent": "guy with no tie", "ann_id": 447451, "best_split": [1, 3], "split_score": 0.44884169881462105}
+{"sent": "dark suit blue shirt without tie", "ann_id": 447451, "best_split": [1, 3], "split_score": 0.44884169881462105}
+{"sent": "man not in line", "ann_id": 436649, "best_split": [1, 2], "split_score": 0.45312499998193856}
+{"sent": "man giving presentation", "ann_id": 436649, "best_split": [1, 5], "split_score": 0.6844444443901234}
+{"sent": "man presenting", "ann_id": 436649, "best_split": [1, 5], "split_score": 0.6844444443901234}

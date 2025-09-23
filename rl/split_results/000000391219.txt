@@ -1,0 +1,6 @@
+{"sent": "bus dark and last", "ann_id": 2171961, "best_split": [2, 3], "split_score": 0.6309121620860386}
+{"sent": "black bus", "ann_id": 2171961, "best_split": [2, 3], "split_score": 0.6309121620860386}
+{"sent": "closest bus", "ann_id": 2171961, "best_split": [2, 3], "split_score": 0.6309121620860386}
+{"sent": "food truck behind food truck", "ann_id": 396374, "best_split": [3, 2], "split_score": 0.28385674928001575}
+{"sent": "bus after near one", "ann_id": 396374, "best_split": [3, 2], "split_score": 0.28385674928001575}
+{"sent": "not closest black truck but the next", "ann_id": 396374, "best_split": [3, 2], "split_score": 0.28385674928001575}

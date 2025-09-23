@@ -1,0 +1,8 @@
+{"sent": "plane next to small one on floor", "ann_id": 2171384, "best_split": [2, 2], "split_score": 0.5575865655701006}
+{"sent": "plane with numbers on wing", "ann_id": 2171384, "best_split": [2, 2], "split_score": 0.5575865655701006}
+{"sent": "small plane closest", "ann_id": 267973, "best_split": [1, 2], "split_score": 0.3981983418208626}
+{"sent": "airplane with red blue stripes", "ann_id": 267973, "best_split": [1, 2], "split_score": 0.3981983418208626}
+{"sent": "smaller plane", "ann_id": 267973, "best_split": [1, 2], "split_score": 0.3981983418208626}
+{"sent": "big nose plane", "ann_id": 161838, "best_split": [1, 3], "split_score": 0.42752599818887127}
+{"sent": "plane closest to american flag", "ann_id": 161838, "best_split": [1, 2], "split_score": 0.6053078041503481}
+{"sent": "plane next to flag", "ann_id": 161838, "best_split": [1, 2], "split_score": 0.6053078041503481}

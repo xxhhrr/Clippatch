@@ -1,0 +1,9 @@
+{"sent": "green donut", "ann_id": 1082643, "best_split": [3, 3], "split_score": 0.430482838824027}
+{"sent": "green doghnut", "ann_id": 1082643, "best_split": [3, 3], "split_score": 0.430482838824027}
+{"sent": "green donut", "ann_id": 1082643, "best_split": [3, 3], "split_score": 0.430482838824027}
+{"sent": "powder", "ann_id": 1078808, "best_split": [3, 3], "split_score": 0.8041050406272102}
+{"sent": "powdered sugar", "ann_id": 1078808, "best_split": [3, 3], "split_score": 0.8041050406272102}
+{"sent": "donut number 1", "ann_id": 1078808, "best_split": [3, 1], "split_score": 0.33972570895282855}
+{"sent": "glaced donut", "ann_id": 1078518, "best_split": [3, 2], "split_score": 0.6079668049287994}
+{"sent": "glazed donut", "ann_id": 1078518, "best_split": [3, 2], "split_score": 0.6079668049287994}
+{"sent": "plain donut", "ann_id": 1078518, "best_split": [3, 2], "split_score": 0.6079668049287994}

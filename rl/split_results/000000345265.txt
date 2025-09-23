@@ -1,0 +1,15 @@
+{"sent": "handon knee", "ann_id": 1722458, "best_split": [2, 3], "split_score": 0.45265065694917866}
+{"sent": "hand on knee", "ann_id": 1722458, "best_split": [2, 3], "split_score": 0.45265065694917866}
+{"sent": "blurry hand on pant", "ann_id": 1722458, "best_split": [2, 2], "split_score": 0.30541118921542254}
+{"sent": "white cutoff person", "ann_id": 1703288, "best_split": [2, 3], "split_score": 0.2146512794566331}
+{"sent": "white shirt half body", "ann_id": 1703288, "best_split": [1, 5], "split_score": 0.3231394560802149}
+{"sent": "red shirt near glass", "ann_id": 1692394, "best_split": [5, 1], "split_score": 0.10267579339587152}
+{"sent": "red shirt next to glass", "ann_id": 1692394, "best_split": [5, 1], "split_score": 0.10267579339587152}
+{"sent": "person with red shirt behind glass", "ann_id": 1692394, "best_split": [5, 1], "split_score": 0.10267579339587152}
+{"sent": "dark haired woman in jacket and dress", "ann_id": 524991, "best_split": [3, 2], "split_score": 0.31703672071765193}
+{"sent": "blurry sitting woman with black coat and long white dress", "ann_id": 524991, "best_split": [3, 2], "split_score": 0.31703672071765193}
+{"sent": "blurry woman in black", "ann_id": 524991, "best_split": [2, 3], "split_score": 0.2922077921771881}
+{"sent": "woman with blue short sleeved shirt", "ann_id": 523121, "best_split": [1, 5], "split_score": 0.27965451052978363}
+{"sent": "hand", "ann_id": 463480, "best_split": [3, 3], "split_score": 0.5914044323997301}
+{"sent": "hand", "ann_id": 463480, "best_split": [3, 3], "split_score": 0.5914044323997301}
+{"sent": "hand holding glass", "ann_id": 463480, "best_split": [2, 2], "split_score": 0.3601545552901197}

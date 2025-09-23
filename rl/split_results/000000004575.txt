@@ -1,0 +1,6 @@
+{"sent": "laptop that is alone", "ann_id": 1102859, "best_split": [2, 3], "split_score": 0.6749795211909548}
+{"sent": "smaller laptop white nothing on screen", "ann_id": 1102859, "best_split": [2, 3], "split_score": 0.6749795211909548}
+{"sent": "jus blue screen", "ann_id": 1102859, "best_split": [3, 1], "split_score": 0.19846437069738834}
+{"sent": "laptop with screen partially covered by mike", "ann_id": 1102818, "best_split": [2, 2], "split_score": 0.6728061495796631}
+{"sent": "smaller laptop with multiple windows up", "ann_id": 1102818, "best_split": [2, 2], "split_score": 0.6728061495796631}
+{"sent": "laptop under mic", "ann_id": 1102818, "best_split": [1, 2], "split_score": 0.37607621171970357}

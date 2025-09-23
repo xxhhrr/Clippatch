@@ -1,0 +1,5 @@
+{"sent": "man next to woman", "ann_id": 476651, "best_split": [2, 3], "split_score": 0.31005971516880343}
+{"sent": "man not eating", "ann_id": 476651, "best_split": [2, 1], "split_score": 0.1105511810980098}
+{"sent": "guy photobombing", "ann_id": 476651, "best_split": [2, 3], "split_score": 0.31005971516880343}
+{"sent": "woman", "ann_id": 465131, "best_split": [2, 1], "split_score": 0.729142365991493}
+{"sent": "her", "ann_id": 465131, "best_split": [2, 1], "split_score": 0.729142365991493}

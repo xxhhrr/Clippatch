@@ -1,0 +1,6 @@
+{"sent": "white truck", "ann_id": 1373250, "best_split": [5, 1], "split_score": 0.22161952729352774}
+{"sent": "white oncoming truck", "ann_id": 1373250, "best_split": [5, 1], "split_score": 0.22161952729352774}
+{"sent": "the white truck driving towards us", "ann_id": 1373250, "best_split": [3, 2], "split_score": 0.33252895748883576}
+{"sent": "construction vehicle", "ann_id": 397485, "best_split": [3, 2], "split_score": 0.3050308212064992}
+{"sent": "white construction truck with man on it", "ann_id": 397485, "best_split": [1, 5], "split_score": 0.3254555294673051}
+{"sent": "construction truck", "ann_id": 397485, "best_split": [3, 2], "split_score": 0.3050308212064992}

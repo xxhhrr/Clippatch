@@ -1,0 +1,6 @@
+{"sent": "green chair", "ann_id": 2223576, "best_split": [2, 2], "split_score": 0.44722576527046987}
+{"sent": "dark colored recliner", "ann_id": 2223576, "best_split": [2, 2], "split_score": 0.44722576527046987}
+{"sent": "green recliner", "ann_id": 2223576, "best_split": [2, 2], "split_score": 0.44722576527046987}
+{"sent": "white and gray couch", "ann_id": 112712, "best_split": [2, 1], "split_score": 0.38265306120923737}
+{"sent": "striped coach", "ann_id": 112712, "best_split": [2, 2], "split_score": 0.6694813027239535}
+{"sent": "striped couch", "ann_id": 112712, "best_split": [3, 1], "split_score": 0.5134135059832671}

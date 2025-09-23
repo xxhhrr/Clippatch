@@ -1,0 +1,6 @@
+{"sent": "glass not being poured into", "ann_id": 666703, "best_split": [2, 2], "split_score": 0.46630076835226486}
+{"sent": "glass with hand behind it", "ann_id": 666703, "best_split": [2, 2], "split_score": 0.46630076835226486}
+{"sent": "glas with more wine close to you", "ann_id": 666703, "best_split": [3, 3], "split_score": 0.4871001031433207}
+{"sent": "its being filled", "ann_id": 661746, "best_split": [2, 1], "split_score": 0.24496101220225977}
+{"sent": "glass", "ann_id": 661746, "best_split": [2, 3], "split_score": 0.6411243742162953}
+{"sent": "glass being poured into", "ann_id": 661746, "best_split": [2, 3], "split_score": 0.6411243742162953}

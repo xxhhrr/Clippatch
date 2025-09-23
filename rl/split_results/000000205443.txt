@@ -1,0 +1,6 @@
+{"sent": "aqua picnic table", "ann_id": 1813163, "best_split": [2, 1], "split_score": 0.6819196428299618}
+{"sent": "green", "ann_id": 1813163, "best_split": [3, 1], "split_score": 0.7036212825863027}
+{"sent": "green bench", "ann_id": 1813163, "best_split": [2, 1], "split_score": 0.6819196428299618}
+{"sent": "red bench", "ann_id": 1391141, "best_split": [5, 1], "split_score": 0.4001712328424511}
+{"sent": "red table", "ann_id": 1391141, "best_split": [5, 1], "split_score": 0.4001712328424511}
+{"sent": "red table", "ann_id": 1391141, "best_split": [5, 1], "split_score": 0.4001712328424511}

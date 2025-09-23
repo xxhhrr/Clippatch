@@ -1,0 +1,12 @@
+{"sent": "man with blue sleeve on wrist and green shirt", "ann_id": 518658, "best_split": [1, 5], "split_score": 0.532647030737523}
+{"sent": "green shirt", "ann_id": 518658, "best_split": [1, 5], "split_score": 0.532647030737523}
+{"sent": "green shirt", "ann_id": 518658, "best_split": [1, 5], "split_score": 0.532647030737523}
+{"sent": "gray shirt", "ann_id": 509400, "best_split": [3, 3], "split_score": 0.39629126365627915}
+{"sent": "gray shirt", "ann_id": 509400, "best_split": [3, 3], "split_score": 0.39629126365627915}
+{"sent": "man with gray tshirt on", "ann_id": 509400, "best_split": [3, 3], "split_score": 0.39629126365627915}
+{"sent": "chekered shirt", "ann_id": 462994, "best_split": [1, 2], "split_score": 0.9382971938401508}
+{"sent": "closest man", "ann_id": 462994, "best_split": [1, 2], "split_score": 0.9382971938401508}
+{"sent": "man in plaid shirt", "ann_id": 462994, "best_split": [1, 2], "split_score": 0.9382971938401508}
+{"sent": "darkest shirt", "ann_id": 2165988, "best_split": [3, 2], "split_score": 0.32009997113139477}
+{"sent": "guy with the darkest shirt", "ann_id": 2165988, "best_split": [3, 2], "split_score": 0.32009997113139477}
+{"sent": "dark blue shirt", "ann_id": 2165988, "best_split": [3, 3], "split_score": 0.19420448330298473}

@@ -1,0 +1,6 @@
+{"sent": "piece of table showing further from you", "ann_id": 1966150, "best_split": [1, 2], "split_score": 0.16741071427904133}
+{"sent": "table area above pizza", "ann_id": 1966150, "best_split": [2, 3], "split_score": 0.4852521407605552}
+{"sent": "empty space on the other side of the foil", "ann_id": 1966150, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "red corner of table closest to us", "ann_id": 1964814, "best_split": [3, 3], "split_score": 0.6868686867447927}
+{"sent": "nearest area of wood seen below plate", "ann_id": 1964814, "best_split": [2, 2], "split_score": 0.30899234691414285}
+{"sent": "area of table red 7pm", "ann_id": 1964814, "best_split": [3, 3], "split_score": 0.6868686867447927}

@@ -1,0 +1,6 @@
+{"sent": "offscreen person", "ann_id": 514335, "best_split": [2, 2], "split_score": 0.35376848177045134}
+{"sent": "person without donuts on body", "ann_id": 514335, "best_split": [2, 1], "split_score": 0.21489594741934295}
+{"sent": "partial person", "ann_id": 514335, "best_split": [1, 2], "split_score": 0.5474330356924652}
+{"sent": "man saran wrapped with donuts", "ann_id": 497637, "best_split": [1, 2], "split_score": 0.5735830527363079}
+{"sent": "tape", "ann_id": 497637, "best_split": [1, 2], "split_score": 0.5735830527363079}
+{"sent": "man with donuts", "ann_id": 497637, "best_split": [2, 1], "split_score": 0.4479130808853719}

@@ -1,0 +1,6 @@
+{"sent": "yellow shirt", "ann_id": 2007671, "best_split": [2, 3], "split_score": 0.7541917807392666}
+{"sent": "yellow kid", "ann_id": 2007671, "best_split": [2, 3], "split_score": 0.7541917807392666}
+{"sent": "boy sitting with yellow shirt", "ann_id": 2007671, "best_split": [2, 3], "split_score": 0.7541917807392666}
+{"sent": "standing guy with blue pants", "ann_id": 492545, "best_split": [3, 3], "split_score": 0.44484831532995267}
+{"sent": "kid in jeans and dark jacket has shaved head", "ann_id": 492545, "best_split": [3, 3], "split_score": 0.44484831532995267}
+{"sent": "blue jeans guy standing", "ann_id": 492545, "best_split": [1, 5], "split_score": 0.44335458553767976}

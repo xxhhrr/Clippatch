@@ -1,0 +1,6 @@
+{"sent": "the one that appears higher", "ann_id": 1069496, "best_split": [1, 2], "split_score": 0.692232343987585}
+{"sent": "biggest hotdog", "ann_id": 1069496, "best_split": [1, 2], "split_score": 0.692232343987585}
+{"sent": "upper dog", "ann_id": 1069496, "best_split": [1, 2], "split_score": 0.692232343987585}
+{"sent": "dog1", "ann_id": 1068085, "best_split": [3, 1], "split_score": 0.37549504949333246}
+{"sent": "hot dog at 6 o", "ann_id": 1068085, "best_split": [1, 3], "split_score": 0.3946542853433726}
+{"sent": "closer hotdog", "ann_id": 1068085, "best_split": [3, 1], "split_score": 0.37549504949333246}

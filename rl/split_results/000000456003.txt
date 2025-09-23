@@ -1,0 +1,6 @@
+{"sent": "matilda book", "ann_id": 1141337, "best_split": [2, 3], "split_score": 0.5464374826220832}
+{"sent": "matilda", "ann_id": 1141337, "best_split": [2, 3], "split_score": 0.5464374826220832}
+{"sent": "matilda", "ann_id": 1141337, "best_split": [2, 3], "split_score": 0.5464374826220832}
+{"sent": "white book", "ann_id": 1138412, "best_split": [2, 1], "split_score": 0.5243546222260853}
+{"sent": "white book", "ann_id": 1138412, "best_split": [2, 1], "split_score": 0.5243546222260853}
+{"sent": "sweeney todd", "ann_id": 1138412, "best_split": [2, 2], "split_score": 0.8510577878140666}

@@ -1,0 +1,6 @@
+{"sent": "food truck farthest awa", "ann_id": 1196111, "best_split": [2, 3], "split_score": 0.5033489952510898}
+{"sent": "the trailor further from this buss", "ann_id": 1196111, "best_split": [2, 3], "split_score": 0.5033489952510898}
+{"sent": "background truck", "ann_id": 1196111, "best_split": [2, 1], "split_score": 0.19207728020847398}
+{"sent": "food truck that is open", "ann_id": 396690, "best_split": [2, 1], "split_score": 0.5098594163107256}
+{"sent": "item that has red rooster written on it", "ann_id": 396690, "best_split": [1, 2], "split_score": 0.5255731095465386}
+{"sent": "red rooster truck", "ann_id": 396690, "best_split": [1, 2], "split_score": 0.5255731095465386}

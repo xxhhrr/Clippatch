@@ -1,0 +1,8 @@
+{"sent": "brown in corne", "ann_id": 59850, "best_split": [3, 1], "split_score": 0.8339912735905884}
+{"sent": "house out frame along lower part of frame", "ann_id": 59850, "best_split": [1, 2], "split_score": 0.27339300243306425}
+{"sent": "horse in foreground cut off out of frame", "ann_id": 59850, "best_split": [2, 1], "split_score": 0.7466517856845244}
+{"sent": "horse that looks like its walking", "ann_id": 55344, "best_split": [3, 1], "split_score": 0.2978638050196638}
+{"sent": "3 rd horse from u", "ann_id": 55344, "best_split": [3, 1], "split_score": 0.2978638050196638}
+{"sent": "horse facing camera", "ann_id": 54256, "best_split": [1, 5], "split_score": 0.6960110040581635}
+{"sent": "horse looking at us", "ann_id": 54256, "best_split": [1, 5], "split_score": 0.6960110040581635}
+{"sent": "the horse looking at us", "ann_id": 54256, "best_split": [1, 5], "split_score": 0.6960110040581635}

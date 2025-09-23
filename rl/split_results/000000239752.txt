@@ -1,0 +1,8 @@
+{"sent": "zebra you can see the side of", "ann_id": 593839, "best_split": [3, 2], "split_score": 0.5208583690540035}
+{"sent": "zebra at 8 0 clock", "ann_id": 593839, "best_split": [3, 2], "split_score": 0.5208583690540035}
+{"sent": "zebra with most of its side showing", "ann_id": 593839, "best_split": [3, 2], "split_score": 0.5208583690540035}
+{"sent": "zebra in between", "ann_id": 589344, "best_split": [3, 1], "split_score": 0.19294952022356332}
+{"sent": "zebra between the two", "ann_id": 589344, "best_split": [3, 1], "split_score": 0.19294952022356332}
+{"sent": "main zebra", "ann_id": 589344, "best_split": [3, 1], "split_score": 0.19294952022356332}
+{"sent": "zebra at 3", "ann_id": 588242, "best_split": [5, 1], "split_score": 0.15926975132520696}
+{"sent": "brightest zebra", "ann_id": 588242, "best_split": [5, 1], "split_score": 0.15926975132520696}

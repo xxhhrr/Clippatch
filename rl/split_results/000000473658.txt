@@ -1,0 +1,6 @@
+{"sent": "guy in gray shorts", "ann_id": 2154276, "best_split": [2, 2], "split_score": 0.5286129970581588}
+{"sent": "man with arm in air both feet on ground", "ann_id": 2154276, "best_split": [2, 1], "split_score": 0.3405282590052354}
+{"sent": "guy not jumping", "ann_id": 2154276, "best_split": [2, 1], "split_score": 0.3405282590052354}
+{"sent": "catching", "ann_id": 426841, "best_split": [1, 5], "split_score": 0.318840579689516}
+{"sent": "jumping player", "ann_id": 426841, "best_split": [1, 5], "split_score": 0.318840579689516}
+{"sent": "frisbee catcher", "ann_id": 426841, "best_split": [1, 5], "split_score": 0.318840579689516}

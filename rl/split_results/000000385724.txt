@@ -1,0 +1,9 @@
+{"sent": "man in black", "ann_id": 2155041, "best_split": [3, 2], "split_score": 0.46186949555025325}
+{"sent": "guy furthest away", "ann_id": 2155041, "best_split": [3, 2], "split_score": 0.46186949555025325}
+{"sent": "guy in black", "ann_id": 2155041, "best_split": [3, 2], "split_score": 0.46186949555025325}
+{"sent": "girl in white", "ann_id": 495118, "best_split": [3, 3], "split_score": 0.45909926465313655}
+{"sent": "girl white shirt", "ann_id": 495118, "best_split": [3, 3], "split_score": 0.45909926465313655}
+{"sent": "white shirt", "ann_id": 495118, "best_split": [3, 3], "split_score": 0.45909926465313655}
+{"sent": "red", "ann_id": 423521, "best_split": [3, 3], "split_score": 0.522918258162441}
+{"sent": "player in red", "ann_id": 423521, "best_split": [3, 3], "split_score": 0.522918258162441}
+{"sent": "red and blue shirt", "ann_id": 423521, "best_split": [3, 3], "split_score": 0.522918258162441}

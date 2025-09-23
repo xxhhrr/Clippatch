@@ -1,0 +1,6 @@
+{"sent": "animal standing", "ann_id": 1816504, "best_split": [2, 3], "split_score": 0.44262580528968953}
+{"sent": "cat", "ann_id": 1816504, "best_split": [2, 3], "split_score": 0.44262580528968953}
+{"sent": "the animal on its 4s", "ann_id": 1816504, "best_split": [2, 1], "split_score": 0.3301179846807191}
+{"sent": "animal lying down", "ann_id": 1402472, "best_split": [3, 3], "split_score": 0.8552005437023792}
+{"sent": "animal upside", "ann_id": 1402472, "best_split": [1, 2], "split_score": 0.2168367346852345}
+{"sent": "animal at edge light thing", "ann_id": 1402472, "best_split": [1, 2], "split_score": 0.2168367346852345}

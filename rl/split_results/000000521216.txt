@@ -1,0 +1,9 @@
+{"sent": "gray bear", "ann_id": 1161786, "best_split": [1, 5], "split_score": 0.48903878579725285}
+{"sent": "short white bear", "ann_id": 1161786, "best_split": [1, 5], "split_score": 0.48903878579725285}
+{"sent": "white bear", "ann_id": 1161786, "best_split": [1, 5], "split_score": 0.48903878579725285}
+{"sent": "darker", "ann_id": 1159693, "best_split": [1, 5], "split_score": 0.5569098068107153}
+{"sent": "brown bear", "ann_id": 1159693, "best_split": [3, 2], "split_score": 0.32633621447112926}
+{"sent": "darkest bear", "ann_id": 1159693, "best_split": [3, 2], "split_score": 0.32633621447112926}
+{"sent": "yellow stuff toy", "ann_id": 1159491, "best_split": [1, 3], "split_score": 0.5754857996703242}
+{"sent": "yellow one", "ann_id": 1159491, "best_split": [1, 3], "split_score": 0.5754857996703242}
+{"sent": "yellow", "ann_id": 1159491, "best_split": [1, 3], "split_score": 0.5754857996703242}

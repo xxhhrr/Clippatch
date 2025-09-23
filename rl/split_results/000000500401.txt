@@ -1,0 +1,6 @@
+{"sent": "reflection of boat on water", "ann_id": 2055671, "best_split": [2, 2], "split_score": 0.5057955742554139}
+{"sent": "shadow of boat", "ann_id": 2055671, "best_split": [2, 2], "split_score": 0.5057955742554139}
+{"sent": "boat reflection", "ann_id": 2055671, "best_split": [2, 2], "split_score": 0.5057955742554139}
+{"sent": "the boat", "ann_id": 180408, "best_split": [3, 2], "split_score": 0.391872278634797}
+{"sent": "boat not reflection", "ann_id": 180408, "best_split": [3, 2], "split_score": 0.391872278634797}
+{"sent": "boat", "ann_id": 180408, "best_split": [3, 2], "split_score": 0.391872278634797}

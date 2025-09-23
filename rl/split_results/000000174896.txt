@@ -1,0 +1,6 @@
+{"sent": "the chair touching the laptop", "ann_id": 1590157, "best_split": [2, 2], "split_score": 0.7009884678266757}
+{"sent": "chair back behind laptop", "ann_id": 1590157, "best_split": [2, 2], "split_score": 0.7009884678266757}
+{"sent": "chair behind laptop", "ann_id": 1590157, "best_split": [2, 2], "split_score": 0.7009884678266757}
+{"sent": "the wooden chair not blocked by laptop", "ann_id": 1586864, "best_split": [3, 1], "split_score": 0.4454633204364465}
+{"sent": "chair without laptop", "ann_id": 1586864, "best_split": [3, 1], "split_score": 0.4454633204364465}
+{"sent": "far chair beige", "ann_id": 1586864, "best_split": [3, 2], "split_score": 0.890926640819145}

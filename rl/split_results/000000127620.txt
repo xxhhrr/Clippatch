@@ -1,0 +1,6 @@
+{"sent": "pink with leaves umbrella", "ann_id": 1423648, "best_split": [1, 5], "split_score": 0.3981651375842381}
+{"sent": "white umbrella", "ann_id": 1423648, "best_split": [3, 1], "split_score": 0.2519022827266769}
+{"sent": "the flowered umbrella", "ann_id": 1423648, "best_split": [1, 5], "split_score": 0.3981651375842381}
+{"sent": "red ome", "ann_id": 282384, "best_split": [3, 2], "split_score": 0.5149563771795849}
+{"sent": "orange one", "ann_id": 282384, "best_split": [3, 2], "split_score": 0.5149563771795849}
+{"sent": "orange parasol", "ann_id": 282384, "best_split": [3, 2], "split_score": 0.5149563771795849}

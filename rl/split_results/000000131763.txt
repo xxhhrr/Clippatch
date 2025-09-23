@@ -1,0 +1,6 @@
+{"sent": "adult", "ann_id": 555150, "best_split": [2, 1], "split_score": 0.4461687188245098}
+{"sent": "the lady head", "ann_id": 555150, "best_split": [2, 1], "split_score": 0.4461687188245098}
+{"sent": "the man holding the baby", "ann_id": 555150, "best_split": [1, 2], "split_score": 0.6556765887850039}
+{"sent": "baby", "ann_id": 434597, "best_split": [1, 2], "split_score": 0.5063550635333348}
+{"sent": "baby", "ann_id": 434597, "best_split": [1, 2], "split_score": 0.5063550635333348}
+{"sent": "baby", "ann_id": 434597, "best_split": [1, 2], "split_score": 0.5063550635333348}

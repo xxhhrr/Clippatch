@@ -1,0 +1,5 @@
+{"sent": "banana next to the apples", "ann_id": 1043000, "best_split": [3, 3], "split_score": 0.3742199267942522}
+{"sent": "the banana touching the net", "ann_id": 1043000, "best_split": [3, 3], "split_score": 0.3742199267942522}
+{"sent": "banana closest to you", "ann_id": 1042576, "best_split": [3, 1], "split_score": 0.4463007159682627}
+{"sent": "closest banana", "ann_id": 1042576, "best_split": [3, 1], "split_score": 0.4463007159682627}
+{"sent": "full visible banana", "ann_id": 1042576, "best_split": [3, 1], "split_score": 0.4463007159682627}

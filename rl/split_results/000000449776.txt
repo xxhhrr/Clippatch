@@ -1,0 +1,8 @@
+{"sent": "brown hair part all thats visible", "ann_id": 1733190, "best_split": [1, 3], "split_score": 0.12374581939152667}
+{"sent": "the head closest almost out of camera", "ann_id": 1733190, "best_split": [5, 1], "split_score": 0.4328358208535728}
+{"sent": "boy", "ann_id": 223512, "best_split": [1, 2], "split_score": 0.6092185128752193}
+{"sent": "boy in white shirt", "ann_id": 223512, "best_split": [1, 2], "split_score": 0.6092185128752193}
+{"sent": "white shirt", "ann_id": 223512, "best_split": [1, 2], "split_score": 0.6092185128752193}
+{"sent": "boy in white", "ann_id": 223512, "best_split": [1, 2], "split_score": 0.6092185128752193}
+{"sent": "pink shirt", "ann_id": 188756, "best_split": [1, 3], "split_score": 0.4705946416646376}
+{"sent": "woman in pink", "ann_id": 188756, "best_split": [1, 3], "split_score": 0.4705946416646376}

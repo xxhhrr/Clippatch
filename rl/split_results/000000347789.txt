@@ -1,0 +1,3 @@
+{"sent": "gibson 35", "ann_id": 478018, "best_split": [2, 1], "split_score": 0.5545462992948347}
+{"sent": "batter", "ann_id": 478018, "best_split": [1, 2], "split_score": 0.43969449224527335}
+{"sent": "number 35", "ann_id": 478018, "best_split": [2, 1], "split_score": 0.5545462992948347}

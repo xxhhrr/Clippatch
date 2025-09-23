@@ -1,0 +1,9 @@
+{"sent": "the lady", "ann_id": 226376, "best_split": [1, 5], "split_score": 0.6845052893058101}
+{"sent": "woman wearing shorts", "ann_id": 226376, "best_split": [1, 5], "split_score": 0.6845052893058101}
+{"sent": "woman", "ann_id": 226376, "best_split": [1, 5], "split_score": 0.6845052893058101}
+{"sent": "baby in yellow", "ann_id": 217630, "best_split": [3, 3], "split_score": 0.28767560659519864}
+{"sent": "baby", "ann_id": 217630, "best_split": [3, 3], "split_score": 0.28767560659519864}
+{"sent": "the baby", "ann_id": 217630, "best_split": [3, 3], "split_score": 0.28767560659519864}
+{"sent": "man with kid and female", "ann_id": 183376, "best_split": [2, 3], "split_score": 0.6259148169614979}
+{"sent": "man wearing tank", "ann_id": 183376, "best_split": [2, 3], "split_score": 0.6259148169614979}
+{"sent": "man", "ann_id": 183376, "best_split": [2, 3], "split_score": 0.6259148169614979}

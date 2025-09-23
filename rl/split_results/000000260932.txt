@@ -1,0 +1,9 @@
+{"sent": "ball player", "ann_id": 532209, "best_split": [2, 3], "split_score": 0.7098487124827323}
+{"sent": "baseball player", "ann_id": 532209, "best_split": [2, 3], "split_score": 0.7098487124827323}
+{"sent": "player", "ann_id": 532209, "best_split": [2, 3], "split_score": 0.7098487124827323}
+{"sent": "the guy in red by the way thanks for playing", "ann_id": 526649, "best_split": [1, 5], "split_score": 0.7832792206997484}
+{"sent": "red shirt", "ann_id": 526649, "best_split": [1, 5], "split_score": 0.7832792206997484}
+{"sent": "man wearing red shirt beside woman", "ann_id": 526649, "best_split": [1, 5], "split_score": 0.7832792206997484}
+{"sent": "girl", "ann_id": 454777, "best_split": [1, 5], "split_score": 0.43922369761327684}
+{"sent": "woman", "ann_id": 454777, "best_split": [1, 5], "split_score": 0.43922369761327684}
+{"sent": "womn", "ann_id": 454777, "best_split": [1, 5], "split_score": 0.43922369761327684}

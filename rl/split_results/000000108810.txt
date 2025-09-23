@@ -1,0 +1,6 @@
+{"sent": "cup of soup", "ann_id": 1513599, "best_split": [3, 3], "split_score": 0.6715263313490737}
+{"sent": "the bowl of something", "ann_id": 1513599, "best_split": [3, 3], "split_score": 0.6715263313490737}
+{"sent": "soup", "ann_id": 1513599, "best_split": [3, 3], "split_score": 0.6715263313490737}
+{"sent": "glass by bowl", "ann_id": 1511764, "best_split": [1, 5], "split_score": 0.25529434619629937}
+{"sent": "glass of milk", "ann_id": 1511764, "best_split": [3, 3], "split_score": 0.3418158968988665}
+{"sent": "full visible glass", "ann_id": 1511764, "best_split": [3, 3], "split_score": 0.3418158968988665}

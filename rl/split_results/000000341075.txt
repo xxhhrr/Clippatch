@@ -1,0 +1,5 @@
+{"sent": "giraffe standing smallest one", "ann_id": 600872, "best_split": [2, 1], "split_score": 0.23357586132272}
+{"sent": "giraffe standing up facing the other direction", "ann_id": 600872, "best_split": [2, 1], "split_score": 0.23357586132272}
+{"sent": "giraffe looking in different direction than others", "ann_id": 600872, "best_split": [2, 1], "split_score": 0.23357586132272}
+{"sent": "tallest giraffe", "ann_id": 600043, "best_split": [1, 2], "split_score": 0.7073102678289497}
+{"sent": "giraffe by one sitting down", "ann_id": 600043, "best_split": [1, 2], "split_score": 0.7073102678289497}

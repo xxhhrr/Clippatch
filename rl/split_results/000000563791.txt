@@ -1,0 +1,6 @@
+{"sent": "160", "ann_id": 516160, "best_split": [3, 1], "split_score": 0.20331739085156622}
+{"sent": "orange shirt 3 o clock", "ann_id": 516160, "best_split": [3, 2], "split_score": 0.3515748723956031}
+{"sent": "orange shirt girl", "ann_id": 516160, "best_split": [1, 2], "split_score": 0.2819674744785568}
+{"sent": "skier with googles and black out outfit", "ann_id": 450718, "best_split": [1, 3], "split_score": 0.5019515201056927}
+{"sent": "110 lady", "ann_id": 450718, "best_split": [1, 3], "split_score": 0.5019515201056927}
+{"sent": "player 110", "ann_id": 450718, "best_split": [1, 3], "split_score": 0.5019515201056927}

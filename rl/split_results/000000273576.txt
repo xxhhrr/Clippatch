@@ -1,0 +1,5 @@
+{"sent": "number 1 clock", "ann_id": 339717, "best_split": [5, 1], "split_score": 0.23058754057937794}
+{"sent": "clock closest to edge 9 0 clock", "ann_id": 339717, "best_split": [5, 1], "split_score": 0.23058754057937794}
+{"sent": "clock that is on this side", "ann_id": 336839, "best_split": [2, 3], "split_score": 0.4612352167766815}
+{"sent": "clock", "ann_id": 336839, "best_split": [2, 3], "split_score": 0.4612352167766815}
+{"sent": "clock 220", "ann_id": 336839, "best_split": [2, 3], "split_score": 0.4612352167766815}

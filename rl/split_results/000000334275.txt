@@ -1,0 +1,5 @@
+{"sent": "larger cow", "ann_id": 70732, "best_split": [2, 2], "split_score": 0.43494897955716283}
+{"sent": "how now black cow", "ann_id": 70732, "best_split": [2, 2], "split_score": 0.43494897955716283}
+{"sent": "black cow at 8 o clock", "ann_id": 70732, "best_split": [2, 2], "split_score": 0.43494897955716283}
+{"sent": "not closest cow", "ann_id": 70531, "best_split": [2, 3], "split_score": 0.4013096351261331}
+{"sent": "number 2 cow", "ann_id": 70531, "best_split": [2, 3], "split_score": 0.4013096351261331}

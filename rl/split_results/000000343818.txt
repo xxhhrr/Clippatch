@@ -1,0 +1,6 @@
+{"sent": "truck with tank on back", "ann_id": 401067, "best_split": [3, 3], "split_score": 0.7948717947282643}
+{"sent": "truck with tank", "ann_id": 401067, "best_split": [3, 3], "split_score": 0.7948717947282643}
+{"sent": "white truck tanker or cement mixer", "ann_id": 401067, "best_split": [3, 3], "split_score": 0.7948717947282643}
+{"sent": "truck closest to us", "ann_id": 396117, "best_split": [5, 1], "split_score": 0.32724770639199563}
+{"sent": "smaller truck", "ann_id": 396117, "best_split": [5, 1], "split_score": 0.32724770639199563}
+{"sent": "nearest truck", "ann_id": 396117, "best_split": [5, 1], "split_score": 0.32724770639199563}

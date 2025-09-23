@@ -1,0 +1,6 @@
+{"sent": "pizza", "ann_id": 2226774, "best_split": [1, 2], "split_score": 0.49654837337294677}
+{"sent": "click anywhere for real", "ann_id": 2226774, "best_split": [2, 1], "split_score": 0.5102453574023934}
+{"sent": "food", "ann_id": 2226774, "best_split": [1, 2], "split_score": 0.4899427603899963}
+{"sent": "piece of marbled stone between pizza and plate without cup", "ann_id": 2226658, "best_split": [2, 3], "split_score": 0.3981660231179819}
+{"sent": "counter very close to camera", "ann_id": 2226658, "best_split": [1, 5], "split_score": 0.20080321283307748}
+{"sent": "corner gray", "ann_id": 2226658, "best_split": [3, 3], "split_score": 0.5835438468813525}

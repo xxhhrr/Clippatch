@@ -1,0 +1,5 @@
+{"sent": "closest bus", "ann_id": 366448, "best_split": [1, 3], "split_score": 0.5270239556103903}
+{"sent": "bus 9", "ann_id": 366448, "best_split": [1, 3], "split_score": 0.5270239556103903}
+{"sent": "bus with 9 on it", "ann_id": 366448, "best_split": [1, 3], "split_score": 0.5270239556103903}
+{"sent": "is large and red behind car", "ann_id": 366298, "best_split": [3, 2], "split_score": 0.5511841099550053}
+{"sent": "bus behind car", "ann_id": 366298, "best_split": [3, 2], "split_score": 0.5511841099550053}

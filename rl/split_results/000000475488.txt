@@ -1,0 +1,6 @@
+{"sent": "woman in red", "ann_id": 533574, "best_split": [1, 5], "split_score": 0.504375218716803}
+{"sent": "red shirt", "ann_id": 533574, "best_split": [1, 5], "split_score": 0.504375218716803}
+{"sent": "red shirt", "ann_id": 533574, "best_split": [1, 5], "split_score": 0.504375218716803}
+{"sent": "the woman with blue dress", "ann_id": 531312, "best_split": [1, 2], "split_score": 0.7126475892098184}
+{"sent": "girl in flower print", "ann_id": 531312, "best_split": [2, 1], "split_score": 0.40779794701401845}
+{"sent": "whole person", "ann_id": 531312, "best_split": [2, 1], "split_score": 0.2688565090181291}

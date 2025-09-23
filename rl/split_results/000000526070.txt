@@ -1,0 +1,7 @@
+{"sent": "man blue shirt", "ann_id": 1243435, "best_split": [2, 3], "split_score": 0.29491525420788484}
+{"sent": "blue shirt tan shorts", "ann_id": 1243435, "best_split": [3, 3], "split_score": 0.2054015635861879}
+{"sent": "guy in hard rock cafe tshirt", "ann_id": 485746, "best_split": [5, 1], "split_score": 0.14895549499224214}
+{"sent": "guy with hat", "ann_id": 485746, "best_split": [5, 1], "split_score": 0.14895549499224214}
+{"sent": "guy with hat", "ann_id": 485746, "best_split": [5, 1], "split_score": 0.14895549499224214}
+{"sent": "guy next to fire hydrant", "ann_id": 442504, "best_split": [2, 1], "split_score": 0.2931938602640194}
+{"sent": "man by hydrant", "ann_id": 442504, "best_split": [2, 1], "split_score": 0.2931938602640194}

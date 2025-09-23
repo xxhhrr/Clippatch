@@ -1,0 +1,5 @@
+{"sent": "girl in red halter shirt", "ann_id": 196061, "best_split": [3, 3], "split_score": 0.4643899590682443}
+{"sent": "purple shirt girl", "ann_id": 196061, "best_split": [3, 3], "split_score": 0.4643899590682443}
+{"sent": "woman in black shirt", "ann_id": 190793, "best_split": [2, 3], "split_score": 0.8585814359830799}
+{"sent": "girl touching couch", "ann_id": 190793, "best_split": [2, 1], "split_score": 0.3464604591698637}
+{"sent": "black shirt girl", "ann_id": 190793, "best_split": [2, 3], "split_score": 0.8585814359830799}

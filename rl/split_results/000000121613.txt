@@ -1,0 +1,6 @@
+{"sent": "chair immediately above cat", "ann_id": 104191, "best_split": [1, 5], "split_score": 0.1998734405894166}
+{"sent": "chair behind cat half behind door", "ann_id": 104191, "best_split": [1, 5], "split_score": 0.1998734405894166}
+{"sent": "chair directly behind the cat", "ann_id": 104191, "best_split": [1, 5], "split_score": 0.1998734405894166}
+{"sent": "chair with back completely to us", "ann_id": 101246, "best_split": [2, 2], "split_score": 0.46152256283420445}
+{"sent": "closest chair", "ann_id": 101246, "best_split": [2, 2], "split_score": 0.46152256283420445}
+{"sent": "chair nearest us", "ann_id": 101246, "best_split": [2, 2], "split_score": 0.46152256283420445}

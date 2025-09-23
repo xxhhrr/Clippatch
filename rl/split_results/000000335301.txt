@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 204804, "best_split": [1, 2], "split_score": 0.7928061257064279}
+{"sent": "glasses", "ann_id": 204804, "best_split": [1, 2], "split_score": 0.7928061257064279}
+{"sent": "guy with glasses", "ann_id": 204804, "best_split": [1, 2], "split_score": 0.7928061257064279}
+{"sent": "no glasses guy", "ann_id": 185178, "best_split": [2, 1], "split_score": 0.36116087422938115}
+{"sent": "blue and gray", "ann_id": 185178, "best_split": [1, 2], "split_score": 0.8853598014574491}
+{"sent": "man blue sleeves", "ann_id": 185178, "best_split": [1, 2], "split_score": 0.8853598014574491}

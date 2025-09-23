@@ -1,0 +1,5 @@
+{"sent": "half beige chair", "ann_id": 1582571, "best_split": [3, 3], "split_score": 0.3904326415071346}
+{"sent": "table by curtain", "ann_id": 1582571, "best_split": [2, 3], "split_score": 0.29319498065960486}
+{"sent": "table by cat", "ann_id": 1582571, "best_split": [3, 3], "split_score": 0.3904326415071346}
+{"sent": "lmao wood on chair", "ann_id": 108525, "best_split": [2, 2], "split_score": 0.6627393224924681}
+{"sent": "wooden part of chair cat is on", "ann_id": 108525, "best_split": [2, 2], "split_score": 0.6627393224924681}

@@ -1,0 +1,5 @@
+{"sent": "bananna running along ice cream", "ann_id": 1544268, "best_split": [3, 3], "split_score": 0.48603351948842327}
+{"sent": "banana near cherry", "ann_id": 1544268, "best_split": [5, 1], "split_score": 0.22110552762083027}
+{"sent": "banana closest to cherry", "ann_id": 1544268, "best_split": [2, 3], "split_score": 0.3613707164757232}
+{"sent": "fried banana laying on caramel sauce", "ann_id": 1043053, "best_split": [3, 2], "split_score": 0.5235664252019985}
+{"sent": "banana between 3 and 4", "ann_id": 1043053, "best_split": [3, 2], "split_score": 0.5235664252019985}

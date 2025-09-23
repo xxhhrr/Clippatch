@@ -1,0 +1,5 @@
+{"sent": "the one not over the wood", "ann_id": 600958, "best_split": [1, 3], "split_score": 0.28474903473185637}
+{"sent": "baby giraffe", "ann_id": 600958, "best_split": [3, 1], "split_score": 0.16143106456362177}
+{"sent": "giraffe by rock thing", "ann_id": 600652, "best_split": [3, 3], "split_score": 0.3560004127173666}
+{"sent": "giraffe near stumps", "ann_id": 600652, "best_split": [3, 3], "split_score": 0.3560004127173666}
+{"sent": "giraffe by stump", "ann_id": 600652, "best_split": [3, 3], "split_score": 0.3560004127173666}

@@ -1,0 +1,5 @@
+{"sent": "chair in corner", "ann_id": 1930149, "best_split": [2, 1], "split_score": 0.30112288469472076}
+{"sent": "chair with black", "ann_id": 1930149, "best_split": [2, 3], "split_score": 0.8721524871138827}
+{"sent": "the chair not the kid", "ann_id": 382449, "best_split": [3, 1], "split_score": 0.4097859327043074}
+{"sent": "blue chair", "ann_id": 382449, "best_split": [2, 1], "split_score": 0.40682768855731927}
+{"sent": "chair baby is on", "ann_id": 382449, "best_split": [3, 1], "split_score": 0.4097859327043074}

@@ -1,0 +1,5 @@
+{"sent": "lady in black shirt with spoon silverware by here mouth", "ann_id": 453167, "best_split": [2, 1], "split_score": 0.3400450356006482}
+{"sent": "woman eating", "ann_id": 453167, "best_split": [2, 1], "split_score": 0.3400450356006482}
+{"sent": "woman nearest you", "ann_id": 453167, "best_split": [1, 2], "split_score": 0.9531733007307113}
+{"sent": "the lady with her eyes closed and resting her head on her hand", "ann_id": 1706209, "best_split": [2, 1], "split_score": 0.20109407503655544}
+{"sent": "asian woman with chin in hand not eating", "ann_id": 1706209, "best_split": [2, 1], "split_score": 0.20109407503655544}

@@ -1,0 +1,9 @@
+{"sent": "giraffe not close not far", "ann_id": 1823313, "best_split": [1, 3], "split_score": 0.4366373901904727}
+{"sent": "giraffe looking at other giraffe", "ann_id": 1823313, "best_split": [1, 3], "split_score": 0.4366373901904727}
+{"sent": "giraffe in between", "ann_id": 1823313, "best_split": [1, 3], "split_score": 0.4366373901904727}
+{"sent": "giraffe bent all the way over", "ann_id": 600743, "best_split": [3, 1], "split_score": 0.10623117170835415}
+{"sent": "giraffe bent over the most", "ann_id": 600743, "best_split": [3, 1], "split_score": 0.10623117170835415}
+{"sent": "giraffe with head in grass", "ann_id": 600743, "best_split": [3, 1], "split_score": 0.10623117170835415}
+{"sent": "tallest", "ann_id": 597690, "best_split": [1, 2], "split_score": 0.4725088875686843}
+{"sent": "tallest giraffe", "ann_id": 597690, "best_split": [1, 2], "split_score": 0.4725088875686843}
+{"sent": "cloest giraffe", "ann_id": 597690, "best_split": [1, 2], "split_score": 0.4725088875686843}

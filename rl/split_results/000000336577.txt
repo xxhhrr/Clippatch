@@ -1,0 +1,6 @@
+{"sent": "white sheep", "ann_id": 62577, "best_split": [3, 3], "split_score": 0.7079347213410333}
+{"sent": "white", "ann_id": 62577, "best_split": [3, 3], "split_score": 0.7079347213410333}
+{"sent": "white sheep", "ann_id": 62577, "best_split": [3, 3], "split_score": 0.7079347213410333}
+{"sent": "gray sheep", "ann_id": 61453, "best_split": [3, 1], "split_score": 0.396782841806435}
+{"sent": "main sheep", "ann_id": 61453, "best_split": [3, 1], "split_score": 0.396782841806435}
+{"sent": "the closest animal", "ann_id": 61453, "best_split": [3, 1], "split_score": 0.396782841806435}

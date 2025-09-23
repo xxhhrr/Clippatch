@@ -1,0 +1,6 @@
+{"sent": "big cat", "ann_id": 52185, "best_split": [1, 3], "split_score": 0.45207852192364034}
+{"sent": "big cat", "ann_id": 52185, "best_split": [1, 3], "split_score": 0.45207852192364034}
+{"sent": "bigger kitty", "ann_id": 52185, "best_split": [1, 3], "split_score": 0.45207852192364034}
+{"sent": "small cat", "ann_id": 46998, "best_split": [2, 2], "split_score": 0.6781080265028585}
+{"sent": "shortest cat", "ann_id": 46998, "best_split": [2, 2], "split_score": 0.6781080265028585}
+{"sent": "smaller cat", "ann_id": 46998, "best_split": [2, 2], "split_score": 0.6781080265028585}

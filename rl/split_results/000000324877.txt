@@ -1,0 +1,5 @@
+{"sent": "largest ship", "ann_id": 1380073, "best_split": [3, 2], "split_score": 0.4873329769655443}
+{"sent": "large boar", "ann_id": 1380073, "best_split": [1, 3], "split_score": 0.22771510726455899}
+{"sent": "armas yaht", "ann_id": 1380073, "best_split": [3, 2], "split_score": 0.4873329769655443}
+{"sent": "closest speed boat", "ann_id": 2172225, "best_split": [3, 2], "split_score": 0.5962167210887183}
+{"sent": "closest boat", "ann_id": 2172225, "best_split": [2, 1], "split_score": 0.2145248724404287}

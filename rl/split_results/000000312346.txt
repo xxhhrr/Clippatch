@@ -1,0 +1,11 @@
+{"sent": "happy guy in blue shirt at the end", "ann_id": 225705, "best_split": [1, 3], "split_score": 0.7102966840799358}
+{"sent": "blue shirt foreground", "ann_id": 225705, "best_split": [1, 3], "split_score": 0.7102966840799358}
+{"sent": "blue shirt close", "ann_id": 225705, "best_split": [1, 3], "split_score": 0.7102966840799358}
+{"sent": "man gray striped shirt", "ann_id": 224805, "best_split": [3, 3], "split_score": 0.46489902452742143}
+{"sent": "striped shirt guy with beard and glasses", "ann_id": 224805, "best_split": [3, 3], "split_score": 0.46489902452742143}
+{"sent": "striped shirt", "ann_id": 224805, "best_split": [3, 3], "split_score": 0.46489902452742143}
+{"sent": "red shirt", "ann_id": 1711029, "best_split": [2, 3], "split_score": 0.6424137930480678}
+{"sent": "red shirt", "ann_id": 1711029, "best_split": [2, 3], "split_score": 0.6424137930480678}
+{"sent": "man sitting next to man with red shirt", "ann_id": 195526, "best_split": [3, 3], "split_score": 0.41024287217393834}
+{"sent": "black shirt mustache guy", "ann_id": 195526, "best_split": [3, 1], "split_score": 0.16641679159528716}
+{"sent": "guy next to guy in maroon shirt", "ann_id": 195526, "best_split": [3, 3], "split_score": 0.41024287217393834}

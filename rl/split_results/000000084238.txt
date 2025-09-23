@@ -1,0 +1,3 @@
+{"sent": "last car couple walked by", "ann_id": 1774436, "best_split": [3, 1], "split_score": 0.30565217389643196}
+{"sent": "the lighter parked car hear the meter and walking couple", "ann_id": 1774436, "best_split": [2, 3], "split_score": 0.8547854784471021}
+{"sent": "car closest to the parking meter", "ann_id": 1774436, "best_split": [2, 3], "split_score": 0.8547854784471021}

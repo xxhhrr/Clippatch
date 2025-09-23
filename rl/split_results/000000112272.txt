@@ -1,0 +1,10 @@
+{"sent": "ruler of the pitch", "ann_id": 1254761, "best_split": [3, 1], "split_score": 0.16830932523728423}
+{"sent": "ump", "ann_id": 1254761, "best_split": [3, 3], "split_score": 0.4219386369234403}
+{"sent": "umpire", "ann_id": 1254761, "best_split": [1, 5], "split_score": 0.5071022726758216}
+{"sent": "umpire", "ann_id": 1254761, "best_split": [1, 5], "split_score": 0.5071022726758216}
+{"sent": "batter", "ann_id": 1239093, "best_split": [1, 5], "split_score": 0.4200260077682033}
+{"sent": "44", "ann_id": 1239093, "best_split": [1, 5], "split_score": 0.4200260077682033}
+{"sent": "batter", "ann_id": 1239093, "best_split": [1, 5], "split_score": 0.4200260077682033}
+{"sent": "the cathcer", "ann_id": 1223399, "best_split": [3, 1], "split_score": 0.1353548670547487}
+{"sent": "catcher", "ann_id": 1223399, "best_split": [1, 5], "split_score": 0.37622101624309606}
+{"sent": "catcher", "ann_id": 1223399, "best_split": [1, 5], "split_score": 0.37622101624309606}

@@ -1,0 +1,13 @@
+{"sent": "random arm", "ann_id": 1262746, "best_split": [2, 1], "split_score": 0.18674566600150883}
+{"sent": "big arm", "ann_id": 1262746, "best_split": [1, 5], "split_score": 0.6918238993030833}
+{"sent": "arm without a person", "ann_id": 1262746, "best_split": [2, 1], "split_score": 0.18674566600150883}
+{"sent": "man sitting behind woman with short sleeves", "ann_id": 195042, "best_split": [2, 2], "split_score": 0.349569349543394}
+{"sent": "guy in white turned profile", "ann_id": 195042, "best_split": [1, 5], "split_score": 0.4069767441490755}
+{"sent": "man with hair", "ann_id": 195042, "best_split": [2, 3], "split_score": 0.23788350375830292}
+{"sent": "man with open mouth", "ann_id": 192972, "best_split": [1, 5], "split_score": 0.38775117773408796}
+{"sent": "dark man wearing white shirt", "ann_id": 192972, "best_split": [5, 1], "split_score": 0.146829810889335}
+{"sent": "sitting white shirt", "ann_id": 192972, "best_split": [3, 2], "split_score": 0.2961918194341938}
+{"sent": "the man in jeans near the tv", "ann_id": 192972, "best_split": [2, 3], "split_score": 0.26496902956789214}
+{"sent": "woman not looking", "ann_id": 185695, "best_split": [1, 3], "split_score": 0.5493483965418606}
+{"sent": "woman sitting", "ann_id": 185695, "best_split": [1, 3], "split_score": 0.5493483965418606}
+{"sent": "woman", "ann_id": 185695, "best_split": [1, 3], "split_score": 0.5493483965418606}

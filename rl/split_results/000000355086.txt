@@ -1,0 +1,6 @@
+{"sent": "smaller pizza", "ann_id": 1076764, "best_split": [3, 3], "split_score": 0.44445613292189606}
+{"sent": "smaller pizza", "ann_id": 1076764, "best_split": [3, 3], "split_score": 0.44445613292189606}
+{"sent": "pizza missing slice", "ann_id": 1076764, "best_split": [2, 1], "split_score": 0.2421487911097065}
+{"sent": "full pizza", "ann_id": 1072613, "best_split": [1, 2], "split_score": 0.6203388853489614}
+{"sent": "whole pizza", "ann_id": 1072613, "best_split": [1, 2], "split_score": 0.6203388853489614}
+{"sent": "big pizza", "ann_id": 1072613, "best_split": [1, 2], "split_score": 0.6203388853489614}

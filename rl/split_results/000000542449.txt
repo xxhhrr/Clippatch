@@ -1,0 +1,11 @@
+{"sent": "white shirt jumping", "ann_id": 1747352, "best_split": [1, 3], "split_score": 0.5891213388769204}
+{"sent": "white shirt jumpin", "ann_id": 1747352, "best_split": [1, 3], "split_score": 0.5891213388769204}
+{"sent": "gray and white shorts blue and white hat", "ann_id": 2157456, "best_split": [1, 3], "split_score": 0.6274131273752767}
+{"sent": "blue and white hat", "ann_id": 2157456, "best_split": [1, 3], "split_score": 0.6274131273752767}
+{"sent": "reaching up no frisbee", "ann_id": 2157456, "best_split": [1, 2], "split_score": 0.4145408163100071}
+{"sent": "blue shirt on the grass", "ann_id": 1264540, "best_split": [3, 2], "split_score": 0.3079056865159594}
+{"sent": "guy in blue shirt", "ann_id": 1264540, "best_split": [1, 5], "split_score": 0.49857954540395905}
+{"sent": "person in red hat", "ann_id": 1264540, "best_split": [1, 5], "split_score": 0.49857954540395905}
+{"sent": "man with palm under frisbee", "ann_id": 1252898, "best_split": [1, 3], "split_score": 0.38816245235589875}
+{"sent": "man in black shirt touching frisbee", "ann_id": 1252898, "best_split": [1, 3], "split_score": 0.38816245235589875}
+{"sent": "black shirt catching frisbee", "ann_id": 1252898, "best_split": [1, 3], "split_score": 0.38816245235589875}

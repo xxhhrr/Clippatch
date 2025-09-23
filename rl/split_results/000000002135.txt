@@ -1,0 +1,9 @@
+{"sent": "man next to woman under umbrella", "ann_id": 473802, "best_split": [3, 2], "split_score": 0.21076834640632608}
+{"sent": "person under umbrella can only see a little of them", "ann_id": 473802, "best_split": [3, 2], "split_score": 0.21076834640632608}
+{"sent": "hat person under umbrella not the one in sun", "ann_id": 473802, "best_split": [3, 2], "split_score": 0.21076834640632608}
+{"sent": "woman sitting with purse in lap", "ann_id": 1730188, "best_split": [2, 2], "split_score": 0.7297297296853098}
+{"sent": "woman with hat", "ann_id": 1730188, "best_split": [2, 2], "split_score": 0.7297297296853098}
+{"sent": "woman in yellow", "ann_id": 1730188, "best_split": [2, 2], "split_score": 0.7297297296853098}
+{"sent": "man with blue shirt", "ann_id": 464549, "best_split": [2, 1], "split_score": 0.045366674979877564}
+{"sent": "hand in dark pants with gray shirt", "ann_id": 464549, "best_split": [2, 2], "split_score": 0.47611677801786023}
+{"sent": "blue shirt", "ann_id": 464549, "best_split": [1, 3], "split_score": 0.1663092129724772}

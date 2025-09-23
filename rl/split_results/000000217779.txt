@@ -1,0 +1,15 @@
+{"sent": "sandwich with yellow stuff maybe eggs", "ann_id": 1929345, "best_split": [3, 3], "split_score": 0.5687203790740719}
+{"sent": "sandiwch with yellow inside", "ann_id": 1929345, "best_split": [3, 3], "split_score": 0.5687203790740719}
+{"sent": "last", "ann_id": 1929345, "best_split": [3, 3], "split_score": 0.5687203790740719}
+{"sent": "sandwich with whitest inside", "ann_id": 1929028, "best_split": [3, 1], "split_score": 0.1870194117230188}
+{"sent": "all white sandwich", "ann_id": 1929028, "best_split": [1, 5], "split_score": 0.5043597530611972}
+{"sent": "sandwich half with white filling next to green filled one", "ann_id": 1929028, "best_split": [3, 2], "split_score": 0.33737510909522017}
+{"sent": "strip of table below the food", "ann_id": 1622610, "best_split": [1, 2], "split_score": 0.16910644498347002}
+{"sent": "the table not the things on it", "ann_id": 412950, "best_split": [2, 1], "split_score": 0.9291294642486795}
+{"sent": "table area at 12 pm", "ann_id": 412950, "best_split": [2, 1], "split_score": 0.9291294642486795}
+{"sent": "the green", "ann_id": 308680, "best_split": [3, 1], "split_score": 0.47948628543469646}
+{"sent": "sandwich with cucumbers", "ann_id": 308680, "best_split": [2, 1], "split_score": 0.553928618105532}
+{"sent": "sandwich with green", "ann_id": 308680, "best_split": [2, 1], "split_score": 0.553928618105532}
+{"sent": "purplish sandwich", "ann_id": 308531, "best_split": [1, 5], "split_score": 0.5277978338873829}
+{"sent": "sandwich directly under fork", "ann_id": 308531, "best_split": [3, 2], "split_score": 0.3342599026811796}
+{"sent": "sandwich with red meat", "ann_id": 308531, "best_split": [1, 5], "split_score": 0.5277978338873829}

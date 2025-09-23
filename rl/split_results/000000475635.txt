@@ -1,0 +1,6 @@
+{"sent": "man catching", "ann_id": 1731965, "best_split": [1, 2], "split_score": 0.4099569515142715}
+{"sent": "boy in shorts", "ann_id": 1731965, "best_split": [1, 5], "split_score": 0.6906740534969634}
+{"sent": "man", "ann_id": 1731965, "best_split": [1, 5], "split_score": 0.6906740534969634}
+{"sent": "girl", "ann_id": 533496, "best_split": [3, 1], "split_score": 0.11162634783442503}
+{"sent": "girl", "ann_id": 533496, "best_split": [3, 1], "split_score": 0.11162634783442503}
+{"sent": "woman", "ann_id": 533496, "best_split": [2, 1], "split_score": 0.03849246965789982}

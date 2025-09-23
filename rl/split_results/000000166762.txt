@@ -1,0 +1,6 @@
+{"sent": "dont see head", "ann_id": 596666, "best_split": [2, 2], "split_score": 0.7892219387125939}
+{"sent": "missing head garaf", "ann_id": 596666, "best_split": [5, 1], "split_score": 0.2506963788142127}
+{"sent": "giraffe closer to you", "ann_id": 596666, "best_split": [2, 1], "split_score": 0.394610969372026}
+{"sent": "lighter colored giraffe", "ann_id": 595905, "best_split": [2, 2], "split_score": 0.677605898461934}
+{"sent": "lighter giraffe", "ann_id": 595905, "best_split": [2, 2], "split_score": 0.677605898461934}
+{"sent": "one where you see his body good", "ann_id": 595905, "best_split": [2, 2], "split_score": 0.677605898461934}

@@ -1,0 +1,5 @@
+{"sent": "blue arm", "ann_id": 1303383, "best_split": [3, 1], "split_score": 0.05758157389336611}
+{"sent": "blue jacket partial", "ann_id": 1303383, "best_split": [2, 3], "split_score": 0.44190203784508375}
+{"sent": "skier closest to us on edge", "ann_id": 1303383, "best_split": [1, 2], "split_score": 0.15190529336129205}
+{"sent": "red and black", "ann_id": 1210386, "best_split": [3, 2], "split_score": 0.27870593913291103}
+{"sent": "red jacket", "ann_id": 1210386, "best_split": [3, 2], "split_score": 0.27870593913291103}

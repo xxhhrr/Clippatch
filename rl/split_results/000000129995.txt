@@ -1,0 +1,6 @@
+{"sent": "not the closest but the one after", "ann_id": 1132772, "best_split": [3, 2], "split_score": 0.27671541054773946}
+{"sent": "closest complete sink", "ann_id": 1132772, "best_split": [3, 3], "split_score": 0.3271119842427416}
+{"sent": "closest full visible sink", "ann_id": 1132772, "best_split": [3, 3], "split_score": 0.3271119842427416}
+{"sent": "sink 1", "ann_id": 1129590, "best_split": [3, 2], "split_score": 0.8469789058697439}
+{"sent": "closest sink", "ann_id": 1129590, "best_split": [3, 2], "split_score": 0.8469789058697439}
+{"sent": "sink with visible drain", "ann_id": 1129590, "best_split": [2, 2], "split_score": 0.5747767856684648}

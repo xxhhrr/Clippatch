@@ -1,0 +1,6 @@
+{"sent": "computer screen with lots of blue", "ann_id": 34807, "best_split": [3, 3], "split_score": 0.8000337209913954}
+{"sent": "screen with blue background", "ann_id": 34807, "best_split": [3, 3], "split_score": 0.8000337209913954}
+{"sent": "blue screen", "ann_id": 34807, "best_split": [3, 3], "split_score": 0.8000337209913954}
+{"sent": "screen with green and white displayed", "ann_id": 28394, "best_split": [3, 3], "split_score": 0.7001414425919127}
+{"sent": "computer monitor that has green on it", "ann_id": 28394, "best_split": [3, 3], "split_score": 0.7001414425919127}
+{"sent": "monitor with mostly white", "ann_id": 28394, "best_split": [3, 3], "split_score": 0.7001414425919127}

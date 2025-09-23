@@ -1,0 +1,6 @@
+{"sent": "white tie man", "ann_id": 497166, "best_split": [1, 2], "split_score": 0.7900229796760493}
+{"sent": "the other guy without the tie", "ann_id": 497166, "best_split": [1, 2], "split_score": 0.7900229796760493}
+{"sent": "white tie", "ann_id": 497166, "best_split": [1, 2], "split_score": 0.7900229796760493}
+{"sent": "full hand", "ann_id": 487192, "best_split": [1, 3], "split_score": 0.37496956414734084}
+{"sent": "pink tie", "ann_id": 487192, "best_split": [1, 2], "split_score": 0.8482511704472511}
+{"sent": "man with pink tie", "ann_id": 487192, "best_split": [1, 2], "split_score": 0.8482511704472511}

@@ -1,0 +1,6 @@
+{"sent": "whole pic", "ann_id": 1966887, "best_split": [1, 2], "split_score": 0.492195024067171}
+{"sent": "apple", "ann_id": 1966887, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "apple", "ann_id": 1966887, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "table", "ann_id": 1965913, "best_split": [5, 1], "split_score": 0.5539985986834152}
+{"sent": "tiny little corner of tale under apple", "ann_id": 1965913, "best_split": [3, 2], "split_score": 0.5015060240424369}
+{"sent": "rightest corner under apple", "ann_id": 1965913, "best_split": [5, 1], "split_score": 0.5539985986834152}

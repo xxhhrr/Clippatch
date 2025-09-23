@@ -1,0 +1,6 @@
+{"sent": "smallest", "ann_id": 72051, "best_split": [3, 3], "split_score": 0.43571352098964633}
+{"sent": "smaller one", "ann_id": 72051, "best_split": [1, 3], "split_score": 0.34779500712923156}
+{"sent": "smaller cow", "ann_id": 72051, "best_split": [1, 3], "split_score": 0.34779500712923156}
+{"sent": "the cow facing us", "ann_id": 71140, "best_split": [1, 3], "split_score": 0.5334010152013502}
+{"sent": "bigger cow", "ann_id": 71140, "best_split": [1, 3], "split_score": 0.5334010152013502}
+{"sent": "cow facing camera", "ann_id": 71140, "best_split": [1, 3], "split_score": 0.5334010152013502}

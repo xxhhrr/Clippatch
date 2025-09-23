@@ -1,0 +1,6 @@
+{"sent": "blurry person in background in black", "ann_id": 1289234, "best_split": [2, 3], "split_score": 0.3547722590575907}
+{"sent": "human standing blurred out", "ann_id": 1289234, "best_split": [2, 2], "split_score": 0.23857164843477208}
+{"sent": "player in dugout almost leaving screen", "ann_id": 1289234, "best_split": [2, 1], "split_score": 0.015964240101604788}
+{"sent": "hitter", "ann_id": 437949, "best_split": [1, 2], "split_score": 0.44989815546990214}
+{"sent": "batter", "ann_id": 437949, "best_split": [1, 2], "split_score": 0.44989815546990214}
+{"sent": "batter", "ann_id": 437949, "best_split": [1, 2], "split_score": 0.44989815546990214}

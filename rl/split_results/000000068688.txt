@@ -1,0 +1,6 @@
+{"sent": "man in photo", "ann_id": 1267719, "best_split": [3, 3], "split_score": 0.3382769537846564}
+{"sent": "guy in picture", "ann_id": 1267719, "best_split": [3, 3], "split_score": 0.3382769537846564}
+{"sent": "man", "ann_id": 1267719, "best_split": [5, 1], "split_score": 0.09579728058486692}
+{"sent": "lady on picture", "ann_id": 1262052, "best_split": [1, 5], "split_score": 0.2776998597197255}
+{"sent": "lady in pink", "ann_id": 1262052, "best_split": [1, 5], "split_score": 0.2776998597197255}
+{"sent": "granny in pink", "ann_id": 1262052, "best_split": [1, 5], "split_score": 0.2776998597197255}

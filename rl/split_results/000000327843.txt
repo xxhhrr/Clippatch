@@ -1,0 +1,8 @@
+{"sent": "glasses", "ann_id": 451107, "best_split": [3, 2], "split_score": 0.5229435597358952}
+{"sent": "man about to clap", "ann_id": 451107, "best_split": [3, 2], "split_score": 0.5229435597358952}
+{"sent": "man with glasses", "ann_id": 451107, "best_split": [3, 2], "split_score": 0.5229435597358952}
+{"sent": "guy in suit smiling with dark tie", "ann_id": 450314, "best_split": [3, 2], "split_score": 0.5227043390137881}
+{"sent": "man in black smiling", "ann_id": 450314, "best_split": [3, 2], "split_score": 0.5227043390137881}
+{"sent": "the woman", "ann_id": 425843, "best_split": [1, 2], "split_score": 0.35670440049598595}
+{"sent": "white shirt", "ann_id": 425843, "best_split": [3, 2], "split_score": 0.32398801748798}
+{"sent": "woman", "ann_id": 425843, "best_split": [1, 5], "split_score": 0.3963763272891976}

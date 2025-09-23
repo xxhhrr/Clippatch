@@ -1,0 +1,6 @@
+{"sent": "black shirt", "ann_id": 512731, "best_split": [1, 5], "split_score": 0.5191761363109602}
+{"sent": "woman in black shirt", "ann_id": 512731, "best_split": [3, 2], "split_score": 0.31125892592083937}
+{"sent": "woman in black", "ann_id": 512731, "best_split": [1, 5], "split_score": 0.5191761363109602}
+{"sent": "white shirt", "ann_id": 488231, "best_split": [1, 3], "split_score": 0.46187258684472293}
+{"sent": "standing man white shirt", "ann_id": 488231, "best_split": [1, 3], "split_score": 0.46187258684472293}
+{"sent": "man in white shirt", "ann_id": 488231, "best_split": [1, 3], "split_score": 0.46187258684472293}

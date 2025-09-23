@@ -1,0 +1,6 @@
+{"sent": "woman in pink", "ann_id": 231272, "best_split": [3, 2], "split_score": 0.4362272239751778}
+{"sent": "woman", "ann_id": 231272, "best_split": [3, 2], "split_score": 0.4362272239751778}
+{"sent": "woman wearing red long sleeve shirt", "ann_id": 231272, "best_split": [3, 2], "split_score": 0.4362272239751778}
+{"sent": "man", "ann_id": 222217, "best_split": [1, 2], "split_score": 0.26037493500534037}
+{"sent": "old dude", "ann_id": 222217, "best_split": [2, 1], "split_score": 0.5075352988328504}
+{"sent": "old man", "ann_id": 222217, "best_split": [2, 1], "split_score": 0.5075352988328504}

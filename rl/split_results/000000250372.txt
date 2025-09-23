@@ -1,0 +1,6 @@
+{"sent": "zebra by itself", "ann_id": 1413102, "best_split": [3, 2], "split_score": 0.43192182406403706}
+{"sent": "zebra with tail up", "ann_id": 1413102, "best_split": [3, 2], "split_score": 0.43192182406403706}
+{"sent": "lone zebra", "ann_id": 1413102, "best_split": [3, 2], "split_score": 0.43192182406403706}
+{"sent": "zebra eating", "ann_id": 1412843, "best_split": [5, 1], "split_score": 0.22426229506095902}
+{"sent": "zebra with head near out of frame", "ann_id": 1412843, "best_split": [5, 1], "split_score": 0.22426229506095902}
+{"sent": "zebra behind the resting animals", "ann_id": 1412843, "best_split": [3, 3], "split_score": 0.24341728674249893}

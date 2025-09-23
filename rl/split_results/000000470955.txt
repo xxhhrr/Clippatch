@@ -1,0 +1,6 @@
+{"sent": "kid with mouth open", "ann_id": 448596, "best_split": [1, 2], "split_score": 0.4815084784592378}
+{"sent": "kid with open mouth", "ann_id": 448596, "best_split": [1, 2], "split_score": 0.4815084784592378}
+{"sent": "laughing baby", "ann_id": 448596, "best_split": [1, 2], "split_score": 0.4815084784592378}
+{"sent": "the boy not laughing", "ann_id": 438173, "best_split": [3, 1], "split_score": 0.2877430261924031}
+{"sent": "driving", "ann_id": 438173, "best_split": [1, 5], "split_score": 0.3884471468435192}
+{"sent": "hes the driver", "ann_id": 438173, "best_split": [2, 1], "split_score": 0.2546671816578258}

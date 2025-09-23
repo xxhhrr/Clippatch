@@ -1,0 +1,6 @@
+{"sent": "bird standing alone", "ann_id": 41594, "best_split": [3, 1], "split_score": 0.18115570736230255}
+{"sent": "off on its own", "ann_id": 41594, "best_split": [3, 3], "split_score": 0.49218870835387646}
+{"sent": "vulture facing us", "ann_id": 41594, "best_split": [3, 3], "split_score": 0.49218870835387646}
+{"sent": "grown bird with wings visible", "ann_id": 36187, "best_split": [1, 3], "split_score": 0.5052145572783696}
+{"sent": "full bird turned to the side", "ann_id": 36187, "best_split": [3, 2], "split_score": 0.46943561806102013}
+{"sent": "bird closes", "ann_id": 36187, "best_split": [3, 2], "split_score": 0.46943561806102013}

@@ -1,0 +1,5 @@
+{"sent": "man on phone", "ann_id": 1201209, "best_split": [1, 3], "split_score": 0.340642450927781}
+{"sent": "on cellphone with drink", "ann_id": 1201209, "best_split": [2, 3], "split_score": 0.37538461535573964}
+{"sent": "closest guy on phone", "ann_id": 1201209, "best_split": [1, 3], "split_score": 0.340642450927781}
+{"sent": "girl with blond hair in white and pink shirt", "ann_id": 1746460, "best_split": [2, 3], "split_score": 0.4526171740845459}
+{"sent": "girl with white tank", "ann_id": 1746460, "best_split": [2, 3], "split_score": 0.4526171740845459}

@@ -1,0 +1,4 @@
+{"sent": "persons arm", "ann_id": 1740844, "best_split": [2, 2], "split_score": 0.47271759379340444}
+{"sent": "arm or leg touching the dog", "ann_id": 1740844, "best_split": [5, 1], "split_score": 0.40857722396344703}
+{"sent": "blue blanket with letters", "ann_id": 1256091, "best_split": [1, 2], "split_score": 0.34490952293012744}
+{"sent": "green blanket with black letters", "ann_id": 1256091, "best_split": [2, 1], "split_score": 0.8709044678216162}

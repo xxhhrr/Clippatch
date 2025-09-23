@@ -1,0 +1,9 @@
+{"sent": "white shirt", "ann_id": 519997, "best_split": [1, 3], "split_score": 0.630341880305478}
+{"sent": "man on couch", "ann_id": 519997, "best_split": [1, 2], "split_score": 0.252189619321399}
+{"sent": "white shirt", "ann_id": 519997, "best_split": [1, 3], "split_score": 0.630341880305478}
+{"sent": "black shirt", "ann_id": 479672, "best_split": [1, 2], "split_score": 0.5580357142634711}
+{"sent": "man in blue", "ann_id": 479672, "best_split": [1, 3], "split_score": 0.6284618661787142}
+{"sent": "fat guy", "ann_id": 479672, "best_split": [1, 3], "split_score": 0.6284618661787142}
+{"sent": "woman in blue shirt", "ann_id": 452181, "best_split": [1, 2], "split_score": 0.634249471434829}
+{"sent": "her", "ann_id": 452181, "best_split": [1, 3], "split_score": 0.3012048192658383}
+{"sent": "woman", "ann_id": 452181, "best_split": [1, 2], "split_score": 0.634249471434829}

@@ -1,0 +1,9 @@
+{"sent": "man with red shirt and dark pants back to us", "ann_id": 1315600, "best_split": [3, 3], "split_score": 0.33772819468335086}
+{"sent": "red shirt man", "ann_id": 1315600, "best_split": [3, 3], "split_score": 0.33772819468335086}
+{"sent": "man in red shirt back to us", "ann_id": 1315600, "best_split": [3, 3], "split_score": 0.33772819468335086}
+{"sent": "woman with arm up", "ann_id": 1308776, "best_split": [1, 5], "split_score": 0.3399999999673077}
+{"sent": "woman in red shirt next to short man with luggage", "ann_id": 1308776, "best_split": [3, 3], "split_score": 0.3026172300568951}
+{"sent": "woman in red shirt with sunglasses", "ann_id": 1308776, "best_split": [1, 3], "split_score": 0.24613899612414702}
+{"sent": "light blue shirt white shorts hands on hips", "ann_id": 1233168, "best_split": [1, 5], "split_score": 0.465144230734289}
+{"sent": "hands on hips white shirt", "ann_id": 1233168, "best_split": [1, 5], "split_score": 0.465144230734289}
+{"sent": "man hands on hips back seen", "ann_id": 1233168, "best_split": [1, 5], "split_score": 0.465144230734289}

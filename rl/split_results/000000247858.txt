@@ -1,0 +1,5 @@
+{"sent": "urinal closest to the sink", "ann_id": 1967592, "best_split": [2, 1], "split_score": 0.12627551019904834}
+{"sent": "urinal near sink", "ann_id": 1967592, "best_split": [2, 1], "split_score": 0.12627551019904834}
+{"sent": "urinal near barrier", "ann_id": 1967592, "best_split": [2, 1], "split_score": 0.12627551019904834}
+{"sent": "smallest urinal", "ann_id": 1095980, "best_split": [5, 1], "split_score": 0.11492389443259264}
+{"sent": "west most white tub", "ann_id": 1095980, "best_split": [5, 1], "split_score": 0.11492389443259264}

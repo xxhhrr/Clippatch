@@ -1,0 +1,6 @@
+{"sent": "striped shirt", "ann_id": 540972, "best_split": [2, 3], "split_score": 0.36409803484609204}
+{"sent": "stripe shirt", "ann_id": 540972, "best_split": [2, 3], "split_score": 0.36409803484609204}
+{"sent": "guy standing", "ann_id": 540972, "best_split": [2, 3], "split_score": 0.36409803484609204}
+{"sent": "man sitting", "ann_id": 459394, "best_split": [1, 3], "split_score": 0.44930226984192956}
+{"sent": "man sitting", "ann_id": 459394, "best_split": [1, 3], "split_score": 0.44930226984192956}
+{"sent": "guy sitting down", "ann_id": 459394, "best_split": [3, 3], "split_score": 0.5390670895853522}

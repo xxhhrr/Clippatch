@@ -1,0 +1,6 @@
+{"sent": "man with black and red cap on", "ann_id": 519133, "best_split": [3, 1], "split_score": 0.13928292704681253}
+{"sent": "man with black beanie", "ann_id": 519133, "best_split": [1, 5], "split_score": 0.7302801414351008}
+{"sent": "man with stocking cap", "ann_id": 519133, "best_split": [2, 3], "split_score": 0.27844380847099975}
+{"sent": "man with black glasses and no hat", "ann_id": 496060, "best_split": [2, 2], "split_score": 0.6701825852425851}
+{"sent": "man in black glasses red coat", "ann_id": 496060, "best_split": [2, 2], "split_score": 0.6701825852425851}
+{"sent": "dude with bad goatee", "ann_id": 496060, "best_split": [2, 2], "split_score": 0.6701825852425851}

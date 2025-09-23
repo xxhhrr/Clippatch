@@ -1,0 +1,6 @@
+{"sent": "cow chair near the colorful wall", "ann_id": 1949415, "best_split": [3, 2], "split_score": 0.26856763923185223}
+{"sent": "chair", "ann_id": 1949415, "best_split": [5, 1], "split_score": 0.2274554853345815}
+{"sent": "chair", "ann_id": 1949415, "best_split": [5, 1], "split_score": 0.2274554853345815}
+{"sent": "cow print loveseat", "ann_id": 389785, "best_split": [2, 2], "split_score": 0.34215561221762153}
+{"sent": "bench", "ann_id": 389785, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "cow spotted bench", "ann_id": 389785, "best_split": [5, 1], "split_score": 0.29893499813634455}

@@ -1,0 +1,6 @@
+{"sent": "white van", "ann_id": 165063, "best_split": [2, 3], "split_score": 0.643374286897392}
+{"sent": "whitest looking bus", "ann_id": 165063, "best_split": [2, 3], "split_score": 0.643374286897392}
+{"sent": "white bus", "ann_id": 165063, "best_split": [2, 3], "split_score": 0.643374286897392}
+{"sent": "bus next to pedestrian crossing sign", "ann_id": 163827, "best_split": [2, 2], "split_score": 0.25377489238793677}
+{"sent": "the bus nearest the cement barriers", "ann_id": 163827, "best_split": [2, 3], "split_score": 0.29048997103178426}
+{"sent": "blue bus", "ann_id": 163827, "best_split": [2, 3], "split_score": 0.29048997103178426}

@@ -1,0 +1,5 @@
+{"sent": "cheese pizza with slice missing", "ann_id": 1571290, "best_split": [5, 1], "split_score": 0.29117204478421904}
+{"sent": "pizza person is moving to grab a piece of", "ann_id": 1571290, "best_split": [3, 2], "split_score": 0.3967790638755129}
+{"sent": "whole pizza", "ann_id": 1569768, "best_split": [2, 2], "split_score": 0.24049861118891006}
+{"sent": "whole pizza with veggies", "ann_id": 1569768, "best_split": [3, 2], "split_score": 0.424589499247457}
+{"sent": "pizza near apron", "ann_id": 1569768, "best_split": [3, 2], "split_score": 0.424589499247457}

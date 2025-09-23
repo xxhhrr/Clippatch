@@ -1,0 +1,7 @@
+{"sent": "whole traffic light seen from rear", "ann_id": 406617, "best_split": [2, 3], "split_score": 0.4105263157444598}
+{"sent": "stoplight facing away", "ann_id": 406617, "best_split": [5, 1], "split_score": 0.18840579708593497}
+{"sent": "stop light where light pointing towards cable", "ann_id": 406617, "best_split": [3, 3], "split_score": 0.22885085571774438}
+{"sent": "the light facing the other way", "ann_id": 406617, "best_split": [2, 3], "split_score": 0.4105263157444598}
+{"sent": "stop light opening", "ann_id": 403740, "best_split": [5, 1], "split_score": 0.19738706121537958}
+{"sent": "light facing us", "ann_id": 403740, "best_split": [3, 1], "split_score": 0.15278288746766264}
+{"sent": "signal with lights facing camera", "ann_id": 403740, "best_split": [2, 2], "split_score": 0.33606985593431826}

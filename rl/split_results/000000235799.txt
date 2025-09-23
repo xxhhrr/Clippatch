@@ -1,0 +1,9 @@
+{"sent": "white shirt", "ann_id": 433771, "best_split": [2, 2], "split_score": 0.3694029850464969}
+{"sent": "white t shirt guy", "ann_id": 433771, "best_split": [2, 2], "split_score": 0.3694029850464969}
+{"sent": "white shirt", "ann_id": 433771, "best_split": [2, 2], "split_score": 0.3694029850464969}
+{"sent": "man with black shirt and hat", "ann_id": 428275, "best_split": [1, 5], "split_score": 0.4741379309919057}
+{"sent": "man standing holding skateboard and wearing hat", "ann_id": 428275, "best_split": [1, 5], "split_score": 0.4741379309919057}
+{"sent": "man standing in dark shirt and cap", "ann_id": 428275, "best_split": [1, 5], "split_score": 0.4741379309919057}
+{"sent": "skating", "ann_id": 425302, "best_split": [5, 1], "split_score": 0.301354573573063}
+{"sent": "jumper", "ann_id": 425302, "best_split": [3, 1], "split_score": 0.44636075240398726}
+{"sent": "man on skateboard", "ann_id": 425302, "best_split": [5, 1], "split_score": 0.301354573573063}

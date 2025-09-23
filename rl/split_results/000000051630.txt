@@ -1,0 +1,6 @@
+{"sent": "black shirt bald man", "ann_id": 202449, "best_split": [3, 3], "split_score": 0.2836383207368624}
+{"sent": "bald man black shirt", "ann_id": 202449, "best_split": [3, 3], "split_score": 0.2836383207368624}
+{"sent": "man in black blue appron", "ann_id": 202449, "best_split": [3, 3], "split_score": 0.2836383207368624}
+{"sent": "man in red and blue plaid", "ann_id": 197994, "best_split": [3, 3], "split_score": 0.303645705859598}
+{"sent": "plaid shirt", "ann_id": 197994, "best_split": [3, 3], "split_score": 0.303645705859598}
+{"sent": "plaid shirt", "ann_id": 197994, "best_split": [3, 3], "split_score": 0.303645705859598}

@@ -1,0 +1,12 @@
+{"sent": "girl orange shirt", "ann_id": 1713899, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "women in pink orange shirt", "ann_id": 1713899, "best_split": [3, 3], "split_score": 0.7684210525108529}
+{"sent": "a woman in pink shirt", "ann_id": 1713899, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "guy in gray shorts kneeling", "ann_id": 1701380, "best_split": [2, 3], "split_score": 0.6106330081649806}
+{"sent": "kneeling man in gray shirt light shorts", "ann_id": 1701380, "best_split": [2, 3], "split_score": 0.6106330081649806}
+{"sent": "man kneeling on knee", "ann_id": 1701380, "best_split": [2, 3], "split_score": 0.6106330081649806}
+{"sent": "blond cow hand", "ann_id": 1691000, "best_split": [1, 5], "split_score": 0.4641703097829148}
+{"sent": "white cow hand shirt", "ann_id": 1691000, "best_split": [1, 5], "split_score": 0.4641703097829148}
+{"sent": "white shirt closest", "ann_id": 1691000, "best_split": [1, 5], "split_score": 0.4641703097829148}
+{"sent": "boy petting cow", "ann_id": 1212433, "best_split": [2, 2], "split_score": 0.36461916459676785}
+{"sent": "blue shirt touching cow", "ann_id": 1212433, "best_split": [2, 2], "split_score": 0.36461916459676785}
+{"sent": "guy standing", "ann_id": 1212433, "best_split": [2, 3], "split_score": 0.5482758620217003}

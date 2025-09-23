@@ -1,0 +1,6 @@
+{"sent": "woman holding cup", "ann_id": 225970, "best_split": [3, 1], "split_score": 0.09430407800895921}
+{"sent": "woman in jeans and black shirt with item in hand", "ann_id": 225970, "best_split": [3, 1], "split_score": 0.09430407800895921}
+{"sent": "girl leaning", "ann_id": 225970, "best_split": [2, 1], "split_score": 0.046857058189915285}
+{"sent": "her", "ann_id": 220430, "best_split": [1, 5], "split_score": 0.6767352184546325}
+{"sent": "woman walking dog", "ann_id": 220430, "best_split": [1, 2], "split_score": 0.43909438773759984}
+{"sent": "woman with black jacket", "ann_id": 220430, "best_split": [1, 5], "split_score": 0.6767352184546325}

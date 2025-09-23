@@ -1,0 +1,16 @@
+{"sent": "all the food", "ann_id": 1617100, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "table", "ann_id": 1617100, "best_split": [1, 2], "split_score": 0.5011135410505184}
+{"sent": "area between plates", "ann_id": 1617047, "best_split": [2, 2], "split_score": 0.8444674744224755}
+{"sent": "table between closest dishes", "ann_id": 1617047, "best_split": [2, 1], "split_score": 0.42223373722806784}
+{"sent": "pasta looks like cheese on it", "ann_id": 1571757, "best_split": [2, 1], "split_score": 0.14062499999439473}
+{"sent": "righty meal", "ann_id": 1571757, "best_split": [5, 1], "split_score": 0.31010180106596497}
+{"sent": "food in box", "ann_id": 1072439, "best_split": [3, 3], "split_score": 0.32599811374945015}
+{"sent": "pizza in box farthest away", "ann_id": 1072439, "best_split": [3, 3], "split_score": 0.32599811374945015}
+{"sent": "pizza in box", "ann_id": 1072439, "best_split": [3, 3], "split_score": 0.32599811374945015}
+{"sent": "bread", "ann_id": 718292, "best_split": [3, 3], "split_score": 0.5665345412561531}
+{"sent": "tin food with less cheese", "ann_id": 718078, "best_split": [3, 2], "split_score": 0.49168029234474553}
+{"sent": "bowl next to ork", "ann_id": 718078, "best_split": [3, 2], "split_score": 0.49168029234474553}
+{"sent": "foil takeout dish nearest to the fork on the plate", "ann_id": 718078, "best_split": [3, 2], "split_score": 0.49168029234474553}
+{"sent": "pie plate with cheese", "ann_id": 716699, "best_split": [2, 2], "split_score": 0.3967633928255131}
+{"sent": "sauce with lots of cheese", "ann_id": 716699, "best_split": [1, 2], "split_score": 0.198381696420664}
+{"sent": "pie pan with more whiteish stuff", "ann_id": 716699, "best_split": [2, 3], "split_score": 0.5419039869182954}

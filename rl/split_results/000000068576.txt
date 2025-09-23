@@ -1,0 +1,6 @@
+{"sent": "closet chair", "ann_id": 1942029, "best_split": [1, 2], "split_score": 0.5959227595923978}
+{"sent": "closest screen", "ann_id": 1942029, "best_split": [1, 2], "split_score": 0.5959227595923978}
+{"sent": "closest seat", "ann_id": 1942029, "best_split": [1, 2], "split_score": 0.5959227595923978}
+{"sent": "furthest seat", "ann_id": 1583717, "best_split": [2, 1], "split_score": 0.1928679608923897}
+{"sent": "seat we see a smaller amount of", "ann_id": 1583717, "best_split": [3, 1], "split_score": 0.28037520690526485}
+{"sent": "seat back with small engraved circle", "ann_id": 1583717, "best_split": [3, 1], "split_score": 0.28037520690526485}

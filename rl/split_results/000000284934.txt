@@ -1,0 +1,9 @@
+{"sent": "woman sitting", "ann_id": 555475, "best_split": [1, 2], "split_score": 0.7700331557288667}
+{"sent": "woman", "ann_id": 555475, "best_split": [2, 3], "split_score": 0.325836391093208}
+{"sent": "lady in black", "ann_id": 555475, "best_split": [1, 2], "split_score": 0.7700331557288667}
+{"sent": "little girl", "ann_id": 436940, "best_split": [1, 3], "split_score": 0.5339044401222307}
+{"sent": "girl in dress", "ann_id": 436940, "best_split": [1, 3], "split_score": 0.5339044401222307}
+{"sent": "little girl", "ann_id": 436940, "best_split": [1, 3], "split_score": 0.5339044401222307}
+{"sent": "old man", "ann_id": 433739, "best_split": [1, 3], "split_score": 0.5008271298334973}
+{"sent": "man", "ann_id": 433739, "best_split": [1, 3], "split_score": 0.5008271298334973}
+{"sent": "man", "ann_id": 433739, "best_split": [1, 3], "split_score": 0.5008271298334973}

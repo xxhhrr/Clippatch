@@ -1,0 +1,6 @@
+{"sent": "guy you can only see half of", "ann_id": 1737292, "best_split": [2, 1], "split_score": 0.39570875834515234}
+{"sent": "white shirt", "ann_id": 1737292, "best_split": [1, 2], "split_score": 0.49172932329671687}
+{"sent": "white shirt", "ann_id": 1737292, "best_split": [1, 2], "split_score": 0.49172932329671687}
+{"sent": "blue", "ann_id": 441029, "best_split": [1, 2], "split_score": 0.5634925696612191}
+{"sent": "blue and black uniform", "ann_id": 441029, "best_split": [1, 2], "split_score": 0.5634925696612191}
+{"sent": "man in blue", "ann_id": 441029, "best_split": [1, 2], "split_score": 0.5634925696612191}

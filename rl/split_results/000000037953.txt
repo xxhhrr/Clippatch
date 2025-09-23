@@ -1,0 +1,6 @@
+{"sent": "man next to woman in white", "ann_id": 2162923, "best_split": [2, 2], "split_score": 0.2711284806845468}
+{"sent": "guy with goggles", "ann_id": 2162923, "best_split": [1, 5], "split_score": 0.575284090850722}
+{"sent": "man hugging not wearing white", "ann_id": 2162923, "best_split": [1, 5], "split_score": 0.575284090850722}
+{"sent": "girl in white", "ann_id": 478491, "best_split": [2, 3], "split_score": 0.4506252694641413}
+{"sent": "white coat", "ann_id": 478491, "best_split": [2, 3], "split_score": 0.4506252694641413}
+{"sent": "woman in white", "ann_id": 478491, "best_split": [2, 3], "split_score": 0.4506252694641413}

@@ -1,0 +1,12 @@
+{"sent": "man with red tie", "ann_id": 1294018, "best_split": [3, 2], "split_score": 0.3572578049278035}
+{"sent": "man in maroon tie", "ann_id": 1294018, "best_split": [1, 5], "split_score": 0.5181159419863212}
+{"sent": "red tie next to kerry", "ann_id": 1294018, "best_split": [1, 2], "split_score": 0.3419961734557559}
+{"sent": "girl with dark shirt and brown hair", "ann_id": 1261313, "best_split": [1, 2], "split_score": 0.35168207906761473}
+{"sent": "lady facing john kerry with a blue shirt on", "ann_id": 1261313, "best_split": [1, 3], "split_score": 0.2052291923600062}
+{"sent": "woman in blue dress with black hair", "ann_id": 1261313, "best_split": [1, 5], "split_score": 0.6366424252486951}
+{"sent": "woman in white shirt", "ann_id": 2165310, "best_split": [1, 3], "split_score": 0.6294040367473185}
+{"sent": "white dress", "ann_id": 2165310, "best_split": [1, 3], "split_score": 0.6294040367473185}
+{"sent": "woman wearing white", "ann_id": 2165310, "best_split": [1, 3], "split_score": 0.6294040367473185}
+{"sent": "gray hair dontquit", "ann_id": 2026640, "best_split": [1, 5], "split_score": 0.6142040815825139}
+{"sent": "man in blue tie", "ann_id": 2026640, "best_split": [1, 5], "split_score": 0.6142040815825139}
+{"sent": "john kerry", "ann_id": 2026640, "best_split": [1, 5], "split_score": 0.6142040815825139}

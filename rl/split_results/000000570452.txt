@@ -1,0 +1,6 @@
+{"sent": "largest cow", "ann_id": 1819523, "best_split": [1, 2], "split_score": 0.8077566963963745}
+{"sent": "big animal touching small one", "ann_id": 1819523, "best_split": [1, 2], "split_score": 0.8077566963963745}
+{"sent": "9pm cow", "ann_id": 1819523, "best_split": [1, 2], "split_score": 0.8077566963963745}
+{"sent": "baby", "ann_id": 71575, "best_split": [2, 3], "split_score": 0.5393154486087589}
+{"sent": "baby cow near one with horns", "ann_id": 71575, "best_split": [1, 3], "split_score": 0.34397239592710954}
+{"sent": "baby", "ann_id": 71575, "best_split": [2, 3], "split_score": 0.5393154486087589}

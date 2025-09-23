@@ -1,0 +1,5 @@
+{"sent": "the tallest bear", "ann_id": 1161682, "best_split": [1, 5], "split_score": 0.4947066064427815}
+{"sent": "biggest bear", "ann_id": 1161682, "best_split": [1, 5], "split_score": 0.4947066064427815}
+{"sent": "bear looking at us yeah somthing wrong wit this hit", "ann_id": 1161022, "best_split": [3, 3], "split_score": 0.5041362529800321}
+{"sent": "smaller teddy bear", "ann_id": 1161022, "best_split": [3, 3], "split_score": 0.5041362529800321}
+{"sent": "back bear", "ann_id": 1161022, "best_split": [3, 3], "split_score": 0.5041362529800321}

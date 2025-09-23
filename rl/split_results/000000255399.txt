@@ -1,0 +1,9 @@
+{"sent": "maroon striped shirt", "ann_id": 481739, "best_split": [2, 3], "split_score": 0.5758221398262323}
+{"sent": "guy in purplish shirt", "ann_id": 481739, "best_split": [2, 3], "split_score": 0.5758221398262323}
+{"sent": "purple", "ann_id": 481739, "best_split": [2, 3], "split_score": 0.5758221398262323}
+{"sent": "sunglasses", "ann_id": 1729215, "best_split": [2, 2], "split_score": 0.6539027981983009}
+{"sent": "white sunglass shirt guy", "ann_id": 1729215, "best_split": [2, 2], "split_score": 0.6539027981983009}
+{"sent": "blue shirt with sunglasses", "ann_id": 1729215, "best_split": [2, 2], "split_score": 0.6539027981983009}
+{"sent": "white shirt guy", "ann_id": 1713872, "best_split": [3, 2], "split_score": 0.2789171451682975}
+{"sent": "perwson in white shirt", "ann_id": 1713872, "best_split": [3, 2], "split_score": 0.2789171451682975}
+{"sent": "white short sleeved shirt", "ann_id": 1713872, "best_split": [3, 2], "split_score": 0.2789171451682975}

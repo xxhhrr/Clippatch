@@ -1,0 +1,11 @@
+{"sent": "tennis racket the man in white shirt is holding", "ann_id": 2230756, "best_split": [3, 2], "split_score": 0.5546180159002716}
+{"sent": "only the racket held by man wearing glasses", "ann_id": 2230756, "best_split": [3, 2], "split_score": 0.5546180159002716}
+{"sent": "smaller guys racket", "ann_id": 2230643, "best_split": [2, 2], "split_score": 0.2611367127295594}
+{"sent": "racquet thats held upright", "ann_id": 2230643, "best_split": [2, 2], "split_score": 0.2611367127295594}
+{"sent": "racker in the hands of the boy with black shirt", "ann_id": 2230643, "best_split": [2, 3], "split_score": 0.3420123565377303}
+{"sent": "dark shirt", "ann_id": 1721760, "best_split": [1, 3], "split_score": 0.328168882216431}
+{"sent": "guy with cap", "ann_id": 1721760, "best_split": [1, 2], "split_score": 0.4408421545861161}
+{"sent": "black shirt", "ann_id": 1721760, "best_split": [1, 3], "split_score": 0.328168882216431}
+{"sent": "adult man", "ann_id": 488455, "best_split": [1, 5], "split_score": 0.5527492764698271}
+{"sent": "man in white shirt", "ann_id": 488455, "best_split": [1, 5], "split_score": 0.5527492764698271}
+{"sent": "white shirt", "ann_id": 488455, "best_split": [1, 5], "split_score": 0.5527492764698271}

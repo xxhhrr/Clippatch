@@ -1,0 +1,6 @@
+{"sent": "dog sitting up", "ann_id": 16008, "best_split": [1, 5], "split_score": 0.308858231955994}
+{"sent": "too much skin", "ann_id": 16008, "best_split": [3, 1], "split_score": 0.15297774868275646}
+{"sent": "dog sitting up", "ann_id": 16008, "best_split": [1, 5], "split_score": 0.308858231955994}
+{"sent": "lying dog", "ann_id": 8417, "best_split": [2, 1], "split_score": 0.538136211151446}
+{"sent": "resting dog", "ann_id": 8417, "best_split": [2, 1], "split_score": 0.538136211151446}
+{"sent": "bigger dog", "ann_id": 8417, "best_split": [2, 1], "split_score": 0.538136211151446}

@@ -1,0 +1,6 @@
+{"sent": "the lighter colored stuffed animal that is only half seen", "ann_id": 1161205, "best_split": [2, 2], "split_score": 0.6795918366851609}
+{"sent": "we see feet of this bear but nothing else", "ann_id": 1161205, "best_split": [2, 1], "split_score": 0.3550106609672932}
+{"sent": "white teddy bear", "ann_id": 1161205, "best_split": [2, 3], "split_score": 0.7768110458883288}
+{"sent": "tan teddy", "ann_id": 1161164, "best_split": [2, 3], "split_score": 0.5179903179040959}
+{"sent": "brown bear", "ann_id": 1161164, "best_split": [2, 3], "split_score": 0.5179903179040959}
+{"sent": "brown bear", "ann_id": 1161164, "best_split": [2, 3], "split_score": 0.5179903179040959}

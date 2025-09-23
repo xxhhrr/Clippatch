@@ -1,0 +1,5 @@
+{"sent": "white truck with grill showing", "ann_id": 400131, "best_split": [2, 3], "split_score": 0.6451144205734549}
+{"sent": "half a white vehicle", "ann_id": 400131, "best_split": [2, 3], "split_score": 0.6451144205734549}
+{"sent": "truck with no door", "ann_id": 398793, "best_split": [3, 1], "split_score": 0.40700218815973727}
+{"sent": "junk pickup", "ann_id": 398793, "best_split": [3, 1], "split_score": 0.40700218815973727}
+{"sent": "truck with no door", "ann_id": 398793, "best_split": [3, 1], "split_score": 0.40700218815973727}

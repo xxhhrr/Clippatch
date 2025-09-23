@@ -1,0 +1,6 @@
+{"sent": "man no glasses", "ann_id": 554875, "best_split": [3, 2], "split_score": 0.34512362634399696}
+{"sent": "guy with white shirt looking off", "ann_id": 554875, "best_split": [2, 2], "split_score": 0.38322688139522165}
+{"sent": "man holding on shoulder", "ann_id": 554875, "best_split": [2, 1], "split_score": 0.20483894907952951}
+{"sent": "man closest", "ann_id": 427552, "best_split": [2, 1], "split_score": 0.4272593114594996}
+{"sent": "man", "ann_id": 427552, "best_split": [1, 2], "split_score": 0.5916437413884937}
+{"sent": "man with glasses", "ann_id": 427552, "best_split": [2, 1], "split_score": 0.4272593114594996}

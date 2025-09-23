@@ -1,0 +1,3 @@
+{"sent": "blender that is sitting with the closure off", "ann_id": 1884381, "best_split": [3, 2], "split_score": 0.2406796601458591}
+{"sent": "topp off", "ann_id": 1884381, "best_split": [3, 1], "split_score": 0.05316442816172342}
+{"sent": "blender jar with lid off", "ann_id": 1884381, "best_split": [1, 2], "split_score": 0.031787518100102864}

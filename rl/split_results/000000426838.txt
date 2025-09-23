@@ -1,0 +1,5 @@
+{"sent": "carrot further away", "ann_id": 1064786, "best_split": [5, 1], "split_score": 0.4326198969052101}
+{"sent": "carrot that is closer to the grapes", "ann_id": 1064786, "best_split": [5, 1], "split_score": 0.4326198969052101}
+{"sent": "fatter carrot", "ann_id": 1064725, "best_split": [3, 2], "split_score": 0.43482547816655237}
+{"sent": "fattest carrot", "ann_id": 1064725, "best_split": [3, 2], "split_score": 0.43482547816655237}
+{"sent": "carrot by potatoes", "ann_id": 1064725, "best_split": [3, 2], "split_score": 0.43482547816655237}

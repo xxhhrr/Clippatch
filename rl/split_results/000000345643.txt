@@ -1,0 +1,5 @@
+{"sent": "train at 2 o clock", "ann_id": 173881, "best_split": [1, 3], "split_score": 0.42457739531224864}
+{"sent": "train where you can see the windows", "ann_id": 173881, "best_split": [1, 2], "split_score": 0.6042018144006303}
+{"sent": "closer train", "ann_id": 172684, "best_split": [1, 2], "split_score": 0.648915816300665}
+{"sent": "m3", "ann_id": 172684, "best_split": [1, 2], "split_score": 0.648915816300665}
+{"sent": "side dont see as well", "ann_id": 172684, "best_split": [1, 3], "split_score": 0.9821428570836063}

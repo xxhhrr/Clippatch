@@ -1,0 +1,6 @@
+{"sent": "chili dog so very good", "ann_id": 1069605, "best_split": [1, 5], "split_score": 0.12607449855604633}
+{"sent": "furtherest sandwich", "ann_id": 1069605, "best_split": [1, 5], "split_score": 0.12607449855604633}
+{"sent": "hot dog furthest away", "ann_id": 1069605, "best_split": [1, 5], "split_score": 0.12607449855604633}
+{"sent": "hot dog close", "ann_id": 1067792, "best_split": [3, 1], "split_score": 0.6313344594213722}
+{"sent": "close hot dog", "ann_id": 1067792, "best_split": [3, 1], "split_score": 0.6313344594213722}
+{"sent": "big hot dog", "ann_id": 1067792, "best_split": [3, 1], "split_score": 0.6313344594213722}

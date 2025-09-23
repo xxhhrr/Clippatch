@@ -1,0 +1,6 @@
+{"sent": "chair that appears closest", "ann_id": 2224714, "best_split": [2, 3], "split_score": 0.36048879832748426}
+{"sent": "closer white chair", "ann_id": 2224714, "best_split": [2, 3], "split_score": 0.36048879832748426}
+{"sent": "single sofa closest to you", "ann_id": 2224714, "best_split": [5, 1], "split_score": 0.21511846556834163}
+{"sent": "longuest couch", "ann_id": 115309, "best_split": [2, 3], "split_score": 0.7706071811081227}
+{"sent": "long white couch", "ann_id": 115309, "best_split": [2, 3], "split_score": 0.7706071811081227}
+{"sent": "white couch", "ann_id": 115309, "best_split": [2, 3], "split_score": 0.7706071811081227}

@@ -1,0 +1,4 @@
+{"sent": "zebra standing sideways", "ann_id": 592388, "best_split": [3, 2], "split_score": 0.4755887420476061}
+{"sent": "zebra blocking other zebra", "ann_id": 592388, "best_split": [3, 2], "split_score": 0.4755887420476061}
+{"sent": "side view of zebra", "ann_id": 592388, "best_split": [3, 2], "split_score": 0.4755887420476061}
+{"sent": "900 zebra", "ann_id": 591626, "best_split": [5, 1], "split_score": 0.1880937301919756}

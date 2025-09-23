@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 2156607, "best_split": [3, 3], "split_score": 0.36320210832429545}
+{"sent": "person next to green bananas woman", "ann_id": 2156607, "best_split": [5, 1], "split_score": 0.10042604989997164}
+{"sent": "woman in dark dress", "ann_id": 2156607, "best_split": [3, 3], "split_score": 0.36320210832429545}
+{"sent": "man white shirt", "ann_id": 1726013, "best_split": [3, 2], "split_score": 0.4125526628051688}
+{"sent": "man with back turned", "ann_id": 1726013, "best_split": [3, 1], "split_score": 0.21766885151224458}
+{"sent": "blue shirt", "ann_id": 1726013, "best_split": [3, 1], "split_score": 0.21766885151224458}

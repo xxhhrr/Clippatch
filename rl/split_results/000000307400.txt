@@ -1,0 +1,6 @@
+{"sent": "sitting duck", "ann_id": 40382, "best_split": [5, 1], "split_score": 0.311144635082864}
+{"sent": "bird in nest", "ann_id": 40382, "best_split": [2, 2], "split_score": 0.3171932052454998}
+{"sent": "duck sitting", "ann_id": 40382, "best_split": [5, 1], "split_score": 0.311144635082864}
+{"sent": "bird", "ann_id": 37881, "best_split": [1, 2], "split_score": 0.5290178571217706}
+{"sent": "standing", "ann_id": 37881, "best_split": [1, 2], "split_score": 0.5290178571217706}
+{"sent": "standing", "ann_id": 37881, "best_split": [1, 2], "split_score": 0.5290178571217706}

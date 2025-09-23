@@ -1,0 +1,6 @@
+{"sent": "woman with bangs", "ann_id": 515700, "best_split": [1, 3], "split_score": 0.43852534560191125}
+{"sent": "lady holding umbrella", "ann_id": 515700, "best_split": [1, 2], "split_score": 0.43681735983953646}
+{"sent": "hat", "ann_id": 515700, "best_split": [1, 3], "split_score": 0.43852534560191125}
+{"sent": "not wearing the hat", "ann_id": 425020, "best_split": [1, 3], "split_score": 0.2735492634769474}
+{"sent": "woman without purse", "ann_id": 425020, "best_split": [1, 3], "split_score": 0.2735492634769474}
+{"sent": "without umbrella", "ann_id": 425020, "best_split": [5, 1], "split_score": 0.1651568990458357}

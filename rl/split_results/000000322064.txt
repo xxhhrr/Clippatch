@@ -1,0 +1,6 @@
+{"sent": "couch with one white pilloe", "ann_id": 111392, "best_split": [2, 2], "split_score": 0.25895004950764466}
+{"sent": "couch pillows lined up", "ann_id": 111392, "best_split": [5, 1], "split_score": 0.2478110027880546}
+{"sent": "window seat", "ann_id": 111392, "best_split": [1, 2], "split_score": 0.1638023630441997}
+{"sent": "couch near coffee table", "ann_id": 111283, "best_split": [2, 3], "split_score": 0.8142605632906843}
+{"sent": "couch", "ann_id": 111283, "best_split": [2, 3], "split_score": 0.8142605632906843}
+{"sent": "striped couch", "ann_id": 111283, "best_split": [2, 3], "split_score": 0.8142605632906843}

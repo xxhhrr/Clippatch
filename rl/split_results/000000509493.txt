@@ -1,0 +1,8 @@
+{"sent": "can only really see two black bike seats", "ann_id": 1790316, "best_split": [2, 2], "split_score": 0.6885940666612251}
+{"sent": "big double seat bike", "ann_id": 1790316, "best_split": [3, 2], "split_score": 0.46479228390186017}
+{"sent": "closest bike", "ann_id": 1790316, "best_split": [3, 2], "split_score": 0.46479228390186017}
+{"sent": "bike behind the red one", "ann_id": 154366, "best_split": [1, 2], "split_score": 0.34638994444802723}
+{"sent": "darker red bike", "ann_id": 154366, "best_split": [3, 2], "split_score": 0.4116321644548914}
+{"sent": "red bike", "ann_id": 152616, "best_split": [1, 3], "split_score": 0.43193773868876784}
+{"sent": "red bike", "ann_id": 152616, "best_split": [1, 3], "split_score": 0.43193773868876784}
+{"sent": "red bike closest", "ann_id": 152616, "best_split": [1, 3], "split_score": 0.43193773868876784}

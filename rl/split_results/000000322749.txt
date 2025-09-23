@@ -1,0 +1,4 @@
+{"sent": "corner piece green stem only", "ann_id": 1560663, "best_split": [1, 3], "split_score": 0.5577646426319324}
+{"sent": "broccoli without floret", "ann_id": 1560663, "best_split": [1, 3], "split_score": 0.5577646426319324}
+{"sent": "piece of broccoli looks like it has 2 stems together", "ann_id": 1058465, "best_split": [2, 1], "split_score": 0.16322544642206532}
+{"sent": "broccoli that is above the largest area of red veggies", "ann_id": 1058465, "best_split": [2, 1], "split_score": 0.16322544642206532}

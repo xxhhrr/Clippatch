@@ -1,0 +1,5 @@
+{"sent": "elephant on the grass", "ann_id": 581185, "best_split": [2, 1], "split_score": 0.1268335459133118}
+{"sent": "farthest elephant", "ann_id": 581185, "best_split": [2, 1], "split_score": 0.1268335459133118}
+{"sent": "elephant in water", "ann_id": 580488, "best_split": [3, 3], "split_score": 0.6917123507430325}
+{"sent": "elephant in water", "ann_id": 580488, "best_split": [3, 3], "split_score": 0.6917123507430325}
+{"sent": "leading elehant", "ann_id": 580488, "best_split": [3, 3], "split_score": 0.6917123507430325}

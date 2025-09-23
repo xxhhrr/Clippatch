@@ -1,0 +1,6 @@
+{"sent": "woman touching pan", "ann_id": 473215, "best_split": [2, 1], "split_score": 0.3827526896097011}
+{"sent": "woman at the table", "ann_id": 473215, "best_split": [2, 1], "split_score": 0.12522984877664928}
+{"sent": "girl getting cake", "ann_id": 473215, "best_split": [1, 3], "split_score": 0.37381596750787316}
+{"sent": "rainbow scarf", "ann_id": 437848, "best_split": [2, 3], "split_score": 0.5690796497363784}
+{"sent": "scarf", "ann_id": 437848, "best_split": [2, 3], "split_score": 0.5690796497363784}
+{"sent": "girl with scarf", "ann_id": 437848, "best_split": [2, 3], "split_score": 0.5690796497363784}

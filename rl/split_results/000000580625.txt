@@ -1,0 +1,6 @@
+{"sent": "the red chair", "ann_id": 116158, "best_split": [3, 3], "split_score": 0.46931894799910334}
+{"sent": "red chair", "ann_id": 116158, "best_split": [3, 3], "split_score": 0.46931894799910334}
+{"sent": "one person chair", "ann_id": 116158, "best_split": [3, 3], "split_score": 0.46931894799910334}
+{"sent": "couch", "ann_id": 99191, "best_split": [2, 2], "split_score": 0.6438139436428745}
+{"sent": "couch", "ann_id": 99191, "best_split": [2, 2], "split_score": 0.6438139436428745}
+{"sent": "big red sofa", "ann_id": 99191, "best_split": [2, 2], "split_score": 0.6438139436428745}

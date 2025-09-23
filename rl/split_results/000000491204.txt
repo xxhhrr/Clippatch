@@ -1,0 +1,6 @@
+{"sent": "cutoff frame chair shown", "ann_id": 378335, "best_split": [3, 3], "split_score": 0.41571815710646465}
+{"sent": "chair closest to juice", "ann_id": 378335, "best_split": [2, 2], "split_score": 0.18813775508704259}
+{"sent": "chair at 1 o clock", "ann_id": 378335, "best_split": [3, 3], "split_score": 0.41571815710646465}
+{"sent": "chair by yellow plate", "ann_id": 372889, "best_split": [1, 5], "split_score": 0.06690897075277474}
+{"sent": "chair with yellow flower plate", "ann_id": 372889, "best_split": [1, 5], "split_score": 0.18105340159280783}
+{"sent": "chair with lumpy fabric", "ann_id": 372889, "best_split": [5, 1], "split_score": 0.30149133410907986}

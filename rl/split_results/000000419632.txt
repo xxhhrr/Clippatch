@@ -1,0 +1,6 @@
+{"sent": "white hard hat man", "ann_id": 470211, "best_split": [2, 3], "split_score": 0.38713019449900654}
+{"sent": "the shorter guy half behind the sign", "ann_id": 470211, "best_split": [3, 2], "split_score": 0.27042698995567455}
+{"sent": "white hat", "ann_id": 470211, "best_split": [2, 3], "split_score": 0.38713019449900654}
+{"sent": "the worker standing behind the cone", "ann_id": 464539, "best_split": [1, 3], "split_score": 0.5215371621306988}
+{"sent": "guy in yellow hat", "ann_id": 464539, "best_split": [1, 3], "split_score": 0.5215371621306988}
+{"sent": "tall man", "ann_id": 464539, "best_split": [1, 2], "split_score": 0.3445870535576934}

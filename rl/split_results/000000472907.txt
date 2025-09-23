@@ -1,0 +1,9 @@
+{"sent": "smallest elephant", "ann_id": 584436, "best_split": [2, 3], "split_score": 0.41107770578040265}
+{"sent": "smallest elephant face", "ann_id": 584436, "best_split": [2, 3], "split_score": 0.41107770578040265}
+{"sent": "baby elephant", "ann_id": 584436, "best_split": [2, 3], "split_score": 0.41107770578040265}
+{"sent": "herd elephants in the field", "ann_id": 583984, "best_split": [2, 1], "split_score": 0.3949311023483222}
+{"sent": "elephant in the lead", "ann_id": 583984, "best_split": [2, 1], "split_score": 0.3949311023483222}
+{"sent": "leader elephant please dont quit on me please", "ann_id": 583984, "best_split": [1, 3], "split_score": 0.45380346063831895}
+{"sent": "medium elephant", "ann_id": 580018, "best_split": [2, 2], "split_score": 0.47405189617801574}
+{"sent": "elephant under dangling tree branch", "ann_id": 580018, "best_split": [2, 1], "split_score": 0.3005464480766269}
+{"sent": "elephant in between", "ann_id": 580018, "best_split": [2, 2], "split_score": 0.47405189617801574}

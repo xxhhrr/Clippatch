@@ -1,0 +1,6 @@
+{"sent": "little girl checking her phone", "ann_id": 532947, "best_split": [1, 2], "split_score": 0.7963966836417252}
+{"sent": "girl", "ann_id": 532947, "best_split": [1, 2], "split_score": 0.7963966836417252}
+{"sent": "young girl", "ann_id": 532947, "best_split": [1, 2], "split_score": 0.7963966836417252}
+{"sent": "the young boy", "ann_id": 523010, "best_split": [1, 3], "split_score": 0.8232528317576804}
+{"sent": "boy", "ann_id": 523010, "best_split": [1, 3], "split_score": 0.8232528317576804}
+{"sent": "boy", "ann_id": 523010, "best_split": [1, 3], "split_score": 0.8232528317576804}

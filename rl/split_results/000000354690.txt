@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 189467, "best_split": [2, 2], "split_score": 0.38143289604052516}
+{"sent": "black coat", "ann_id": 189467, "best_split": [3, 2], "split_score": 0.4324675324324296}
+{"sent": "solid blk coat", "ann_id": 189467, "best_split": [3, 2], "split_score": 0.4324675324324296}
+{"sent": "woman in checkered coat", "ann_id": 187047, "best_split": [3, 3], "split_score": 0.5006306615639685}
+{"sent": "lady with jacket", "ann_id": 187047, "best_split": [3, 3], "split_score": 0.5006306615639685}
+{"sent": "person with striped coat", "ann_id": 187047, "best_split": [3, 3], "split_score": 0.5006306615639685}

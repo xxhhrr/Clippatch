@@ -1,0 +1,9 @@
+{"sent": "the man in the lighter suit", "ann_id": 1714825, "best_split": [1, 2], "split_score": 0.5940688775273409}
+{"sent": "light gray suit", "ann_id": 1714825, "best_split": [1, 2], "split_score": 0.5940688775273409}
+{"sent": "taller man", "ann_id": 1714825, "best_split": [1, 2], "split_score": 0.5940688775273409}
+{"sent": "slightly shorter guy slightly darker suit", "ann_id": 441036, "best_split": [2, 1], "split_score": 0.2587170614766197}
+{"sent": "dude in darker suit", "ann_id": 441036, "best_split": [2, 1], "split_score": 0.2587170614766197}
+{"sent": "man near tv", "ann_id": 441036, "best_split": [1, 2], "split_score": 0.5079719387552626}
+{"sent": "lol woman between men", "ann_id": 435213, "best_split": [1, 5], "split_score": 0.6028436018437877}
+{"sent": "woman", "ann_id": 435213, "best_split": [1, 5], "split_score": 0.6028436018437877}
+{"sent": "lady", "ann_id": 435213, "best_split": [1, 5], "split_score": 0.6028436018437877}

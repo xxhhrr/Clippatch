@@ -1,0 +1,5 @@
+{"sent": "emergency no parking police yellow thing", "ann_id": 1389320, "best_split": [1, 5], "split_score": 0.4774193547981817}
+{"sent": "covered meter closest to us", "ann_id": 1389320, "best_split": [1, 5], "split_score": 0.4774193547981817}
+{"sent": "yellow closest", "ann_id": 1389320, "best_split": [1, 5], "split_score": 0.4774193547981817}
+{"sent": "blurry yellow object", "ann_id": 1389306, "best_split": [3, 3], "split_score": 0.2850853054093168}
+{"sent": "blurry meter", "ann_id": 1389306, "best_split": [2, 1], "split_score": 0.10117145899508705}

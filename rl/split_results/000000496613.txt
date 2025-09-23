@@ -1,0 +1,8 @@
+{"sent": "yellow flowers green background", "ann_id": 2222217, "best_split": [2, 1], "split_score": 0.6674107142591115}
+{"sent": "if something is hard just say guess and we will move onflower part of cake", "ann_id": 2222217, "best_split": [2, 1], "split_score": 0.6674107142591115}
+{"sent": "green and yellow flower part of cake", "ann_id": 2222217, "best_split": [2, 1], "split_score": 0.6674107142591115}
+{"sent": "purple", "ann_id": 1577053, "best_split": [2, 3], "split_score": 0.6213845866186429}
+{"sent": "purple", "ann_id": 1577053, "best_split": [2, 3], "split_score": 0.6213845866186429}
+{"sent": "foremost blue", "ann_id": 1086220, "best_split": [3, 3], "split_score": 0.39471106753247903}
+{"sent": "blue fondant", "ann_id": 1086220, "best_split": [3, 3], "split_score": 0.39471106753247903}
+{"sent": "blue cake only", "ann_id": 1086220, "best_split": [3, 2], "split_score": 0.29978038064606694}

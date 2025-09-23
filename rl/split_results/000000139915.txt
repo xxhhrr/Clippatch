@@ -1,0 +1,6 @@
+{"sent": "lazyboy", "ann_id": 115608, "best_split": [1, 5], "split_score": 0.27106973132857437}
+{"sent": "chair", "ann_id": 115608, "best_split": [3, 2], "split_score": 0.33572586242929775}
+{"sent": "recliner by cat toy", "ann_id": 115608, "best_split": [1, 5], "split_score": 0.27106973132857437}
+{"sent": "couch", "ann_id": 99975, "best_split": [2, 3], "split_score": 0.5181758096068922}
+{"sent": "patterned couch", "ann_id": 99975, "best_split": [2, 3], "split_score": 0.5181758096068922}
+{"sent": "couch", "ann_id": 99975, "best_split": [2, 3], "split_score": 0.5181758096068922}

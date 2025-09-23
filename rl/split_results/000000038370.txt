@@ -1,0 +1,14 @@
+{"sent": "boy with red shirt", "ann_id": 257505, "best_split": [3, 2], "split_score": 0.36091438813438687}
+{"sent": "kid in red", "ann_id": 257505, "best_split": [3, 2], "split_score": 0.36091438813438687}
+{"sent": "red", "ann_id": 257505, "best_split": [2, 2], "split_score": 0.35223319880671816}
+{"sent": "yellow shirt", "ann_id": 254347, "best_split": [3, 3], "split_score": 0.44836462743059285}
+{"sent": "yellow 7", "ann_id": 254347, "best_split": [3, 3], "split_score": 0.44836462743059285}
+{"sent": "yellow 7", "ann_id": 254347, "best_split": [3, 3], "split_score": 0.44836462743059285}
+{"sent": "striped shirt", "ann_id": 188476, "best_split": [3, 2], "split_score": 0.44471153842335925}
+{"sent": "red hair striped shirt girl", "ann_id": 188476, "best_split": [3, 2], "split_score": 0.44471153842335925}
+{"sent": "girl in striped shirt", "ann_id": 188476, "best_split": [3, 2], "split_score": 0.44471153842335925}
+{"sent": "white chair", "ann_id": 1933033, "best_split": [2, 3], "split_score": 0.6644188813303828}
+{"sent": "white chair", "ann_id": 1933033, "best_split": [2, 3], "split_score": 0.6644188813303828}
+{"sent": "chair that red shirt is sitting in", "ann_id": 105630, "best_split": [2, 2], "split_score": 0.5445631377116897}
+{"sent": "blue chair with the red shirt sitting in it", "ann_id": 105630, "best_split": [2, 2], "split_score": 0.5445631377116897}
+{"sent": "the back of the chair boy in red is sitting in", "ann_id": 105630, "best_split": [2, 2], "split_score": 0.5445631377116897}

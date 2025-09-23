@@ -1,0 +1,6 @@
+{"sent": "wearing glasses", "ann_id": 2153876, "best_split": [1, 3], "split_score": 0.6898842691443482}
+{"sent": "person eating her fingers", "ann_id": 2153876, "best_split": [1, 3], "split_score": 0.6898842691443482}
+{"sent": "woman picking teeth", "ann_id": 2153876, "best_split": [1, 3], "split_score": 0.6898842691443482}
+{"sent": "man over pizza", "ann_id": 500057, "best_split": [1, 2], "split_score": 0.39612923363523767}
+{"sent": "man", "ann_id": 500057, "best_split": [2, 2], "split_score": 0.6568739303581806}
+{"sent": "person looking at pizza", "ann_id": 500057, "best_split": [1, 2], "split_score": 0.39612923363523767}

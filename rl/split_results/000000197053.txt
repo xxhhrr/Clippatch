@@ -1,0 +1,6 @@
+{"sent": "glass bigger towards the knife blade", "ann_id": 675286, "best_split": [5, 1], "split_score": 0.18556005396545547}
+{"sent": "glass near plate closest to where sunshine is coming in", "ann_id": 675286, "best_split": [5, 1], "split_score": 0.18556005396545547}
+{"sent": "water small not shot above one shot glass", "ann_id": 675286, "best_split": [5, 1], "split_score": 0.18556005396545547}
+{"sent": "medium glass next to biggest glass", "ann_id": 671828, "best_split": [1, 5], "split_score": 0.3768821566696527}
+{"sent": "glass between two others", "ann_id": 671828, "best_split": [1, 5], "split_score": 0.3768821566696527}
+{"sent": "water glass at 3", "ann_id": 671828, "best_split": [3, 3], "split_score": 0.6182763743509248}

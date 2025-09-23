@@ -1,0 +1,5 @@
+{"sent": "zebra behind the closest one", "ann_id": 589700, "best_split": [1, 3], "split_score": 0.4294922273622804}
+{"sent": "zebra with darker tail", "ann_id": 589700, "best_split": [1, 3], "split_score": 0.4294922273622804}
+{"sent": "zebra that is completely visible", "ann_id": 588878, "best_split": [1, 2], "split_score": 0.5921679909026059}
+{"sent": "near us", "ann_id": 588878, "best_split": [1, 2], "split_score": 0.5921679909026059}
+{"sent": "full zebra shown", "ann_id": 588878, "best_split": [1, 2], "split_score": 0.5921679909026059}

@@ -1,0 +1,15 @@
+{"sent": "truck that is partially cut off in the picture", "ann_id": 1369498, "best_split": [1, 5], "split_score": 0.947880472456281}
+{"sent": "bus with letter t", "ann_id": 1369498, "best_split": [1, 5], "split_score": 0.947880472456281}
+{"sent": "van with t", "ann_id": 1369498, "best_split": [1, 5], "split_score": 0.947880472456281}
+{"sent": "bald head", "ann_id": 1269922, "best_split": [1, 5], "split_score": 0.4346913795738161}
+{"sent": "half bald head", "ann_id": 1269922, "best_split": [1, 5], "split_score": 0.4346913795738161}
+{"sent": "bald head with", "ann_id": 1269922, "best_split": [1, 5], "split_score": 0.4346913795738161}
+{"sent": "man in camouflage and beret", "ann_id": 1725034, "best_split": [1, 5], "split_score": 0.41784452294512786}
+{"sent": "man wearing green beret shaking black suits hand", "ann_id": 1725034, "best_split": [1, 5], "split_score": 0.41784452294512786}
+{"sent": "green hat", "ann_id": 1725034, "best_split": [1, 3], "split_score": 0.4789118130144736}
+{"sent": "man with tie", "ann_id": 1241523, "best_split": [1, 5], "split_score": 0.5588484334878878}
+{"sent": "guy in suit and tie", "ann_id": 1241523, "best_split": [1, 5], "split_score": 0.5588484334878878}
+{"sent": "suited man shaking hand", "ann_id": 1241523, "best_split": [1, 5], "split_score": 0.5588484334878878}
+{"sent": "bus with af on it", "ann_id": 400162, "best_split": [1, 2], "split_score": 0.5508326636772747}
+{"sent": "truck with 2 visible ribbons", "ann_id": 400162, "best_split": [1, 2], "split_score": 0.5508326636772747}
+{"sent": "truck with more windshield showing", "ann_id": 400162, "best_split": [1, 2], "split_score": 0.5508326636772747}

@@ -1,0 +1,8 @@
+{"sent": "brown sheep", "ann_id": 63561, "best_split": [1, 2], "split_score": 0.47859717894093323}
+{"sent": "dark brown sheep", "ann_id": 63561, "best_split": [1, 2], "split_score": 0.47859717894093323}
+{"sent": "sitting goat", "ann_id": 61879, "best_split": [1, 3], "split_score": 0.25325119779888555}
+{"sent": "light brown sheep with white face and ear", "ann_id": 61879, "best_split": [2, 1], "split_score": 0.5070153061022395}
+{"sent": "sheep in frontest cam white and brown", "ann_id": 61879, "best_split": [2, 1], "split_score": 0.5070153061022395}
+{"sent": "all black headed sheep", "ann_id": 61822, "best_split": [3, 1], "split_score": 0.28121234589483673}
+{"sent": "black head white body", "ann_id": 61822, "best_split": [3, 1], "split_score": 0.28121234589483673}
+{"sent": "white goat with black head", "ann_id": 61822, "best_split": [1, 2], "split_score": 0.44124681120690185}

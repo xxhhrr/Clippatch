@@ -1,0 +1,5 @@
+{"sent": "giraffe facing away from tree", "ann_id": 599490, "best_split": [1, 3], "split_score": 0.5641524736186475}
+{"sent": "tallest giraffe", "ann_id": 599490, "best_split": [1, 3], "split_score": 0.5641524736186475}
+{"sent": "nearest gira", "ann_id": 599020, "best_split": [2, 1], "split_score": 0.5416753459145461}
+{"sent": "giraffe", "ann_id": 599020, "best_split": [2, 1], "split_score": 0.5416753459145461}
+{"sent": "giraffe nearest the camera", "ann_id": 599020, "best_split": [2, 1], "split_score": 0.5416753459145461}

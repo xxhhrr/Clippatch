@@ -1,0 +1,6 @@
+{"sent": "cheese and ham", "ann_id": 1072533, "best_split": [3, 2], "split_score": 0.49891792904120874}
+{"sent": "pizza half without stuff", "ann_id": 1072533, "best_split": [3, 2], "split_score": 0.49891792904120874}
+{"sent": "not veggie", "ann_id": 1072533, "best_split": [3, 1], "split_score": 0.29524184807924136}
+{"sent": "half with most toppings", "ann_id": 1071425, "best_split": [3, 2], "split_score": 0.45712209298172946}
+{"sent": "side veggie pizza", "ann_id": 1071425, "best_split": [3, 2], "split_score": 0.45712209298172946}
+{"sent": "loaded pizza", "ann_id": 1071425, "best_split": [3, 1], "split_score": 0.2607794361390558}

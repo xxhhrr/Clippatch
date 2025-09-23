@@ -1,0 +1,9 @@
+{"sent": "container with noodles", "ann_id": 1900188, "best_split": [1, 2], "split_score": 0.5803378934349755}
+{"sent": "pasta", "ann_id": 1900188, "best_split": [1, 2], "split_score": 0.5803378934349755}
+{"sent": "spaghetti", "ann_id": 1900188, "best_split": [1, 2], "split_score": 0.5803378934349755}
+{"sent": "broccoli", "ann_id": 1537560, "best_split": [3, 2], "split_score": 0.5544482432127411}
+{"sent": "smaller container", "ann_id": 1537560, "best_split": [3, 2], "split_score": 0.5544482432127411}
+{"sent": "tomato slices", "ann_id": 1537560, "best_split": [3, 2], "split_score": 0.5544482432127411}
+{"sent": "apple", "ann_id": 711731, "best_split": [3, 3], "split_score": 0.595297029610876}
+{"sent": "apples", "ann_id": 711731, "best_split": [3, 3], "split_score": 0.595297029610876}
+{"sent": "apples", "ann_id": 711731, "best_split": [3, 3], "split_score": 0.595297029610876}

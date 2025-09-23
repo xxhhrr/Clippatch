@@ -1,0 +1,6 @@
+{"sent": "yellow drop in the pastry", "ann_id": 1079079, "best_split": [3, 3], "split_score": 0.6825699744461562}
+{"sent": "cream sauce", "ann_id": 1079079, "best_split": [2, 1], "split_score": 0.0900426023507097}
+{"sent": "between others", "ann_id": 1079079, "best_split": [1, 2], "split_score": 0.10286382232236763}
+{"sent": "black raspberry donut dessert", "ann_id": 1078552, "best_split": [3, 3], "split_score": 0.7327001355609396}
+{"sent": "berries on pastry", "ann_id": 1078552, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "black berries", "ann_id": 1078552, "best_split": [5, 1], "split_score": 0.208678370304018}

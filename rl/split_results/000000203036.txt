@@ -1,0 +1,12 @@
+{"sent": "pink shirt", "ann_id": 1708380, "best_split": [1, 5], "split_score": 0.6948831332285098}
+{"sent": "guy in pink", "ann_id": 1708380, "best_split": [1, 5], "split_score": 0.6948831332285098}
+{"sent": "guy in pink", "ann_id": 1708380, "best_split": [1, 5], "split_score": 0.6948831332285098}
+{"sent": "blue shirt", "ann_id": 490961, "best_split": [1, 5], "split_score": 0.4655313351181518}
+{"sent": "blue shirt blue tie guy", "ann_id": 490961, "best_split": [1, 5], "split_score": 0.4655313351181518}
+{"sent": "grabbing tie in blue shirt", "ann_id": 490961, "best_split": [1, 5], "split_score": 0.4655313351181518}
+{"sent": "partially bald man", "ann_id": 477590, "best_split": [1, 3], "split_score": 0.6417712354825186}
+{"sent": "balding man with vest", "ann_id": 477590, "best_split": [1, 3], "split_score": 0.6417712354825186}
+{"sent": "guy with shaved head facing forward", "ann_id": 477590, "best_split": [1, 3], "split_score": 0.6417712354825186}
+{"sent": "man with back to camera", "ann_id": 454209, "best_split": [1, 2], "split_score": 0.39098436061058783}
+{"sent": "shiny vest guy looking away from us", "ann_id": 454209, "best_split": [1, 2], "split_score": 0.39098436061058783}
+{"sent": "back to us", "ann_id": 454209, "best_split": [1, 3], "split_score": 0.4484772632223364}

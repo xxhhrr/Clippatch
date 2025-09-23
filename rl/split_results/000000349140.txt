@@ -1,0 +1,6 @@
+{"sent": "light brown cow with white", "ann_id": 73746, "best_split": [2, 3], "split_score": 0.7095715272365608}
+{"sent": "brown cow thats cutting off black and white cow", "ann_id": 73746, "best_split": [2, 3], "split_score": 0.7095715272365608}
+{"sent": "two cows together", "ann_id": 73746, "best_split": [2, 3], "split_score": 0.7095715272365608}
+{"sent": "big brown cow", "ann_id": 72803, "best_split": [1, 2], "split_score": 0.4683350539151922}
+{"sent": "bigger brown spotted cow", "ann_id": 72803, "best_split": [2, 1], "split_score": 0.4257518147104821}
+{"sent": "bigger cow", "ann_id": 72803, "best_split": [2, 1], "split_score": 0.4257518147104821}

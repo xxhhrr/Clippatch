@@ -1,0 +1,6 @@
+{"sent": "white clock not on wood backing", "ann_id": 339475, "best_split": [2, 3], "split_score": 0.4220559845050608}
+{"sent": "white clock", "ann_id": 339475, "best_split": [2, 3], "split_score": 0.4220559845050608}
+{"sent": "whitest clock", "ann_id": 339475, "best_split": [2, 3], "split_score": 0.4220559845050608}
+{"sent": "brown wood clock", "ann_id": 337822, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "lower clock", "ann_id": 337822, "best_split": [1, 5], "split_score": 0.26838894866627294}
+{"sent": "wooden clock", "ann_id": 337822, "best_split": [2, 3], "split_score": 0.5168918918295256}

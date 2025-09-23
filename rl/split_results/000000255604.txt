@@ -1,0 +1,9 @@
+{"sent": "white van", "ann_id": 143987, "best_split": [3, 3], "split_score": 0.7331637433748609}
+{"sent": "white car", "ann_id": 143987, "best_split": [3, 1], "split_score": 0.31056848529402253}
+{"sent": "white van ur good", "ann_id": 143987, "best_split": [3, 3], "split_score": 0.7331637433748609}
+{"sent": "yellow", "ann_id": 142686, "best_split": [3, 2], "split_score": 0.43831417619722884}
+{"sent": "txi", "ann_id": 142686, "best_split": [3, 2], "split_score": 0.43831417619722884}
+{"sent": "yellow", "ann_id": 142686, "best_split": [3, 2], "split_score": 0.43831417619722884}
+{"sent": "black car", "ann_id": 136019, "best_split": [3, 3], "split_score": 0.3149999999507812}
+{"sent": "black car", "ann_id": 136019, "best_split": [3, 3], "split_score": 0.3149999999507812}
+{"sent": "black auto", "ann_id": 136019, "best_split": [2, 3], "split_score": 0.2770700636627536}

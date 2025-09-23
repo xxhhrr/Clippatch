@@ -1,0 +1,6 @@
+{"sent": "food 10 o clock on square plate", "ann_id": 1900467, "best_split": [3, 3], "split_score": 0.3323462810778007}
+{"sent": "bowl between dip and squares of fruit and next to fruit platter", "ann_id": 1900467, "best_split": [3, 2], "split_score": 0.2230796211594669}
+{"sent": "small square dish between others", "ann_id": 1900467, "best_split": [3, 3], "split_score": 0.3323462810778007}
+{"sent": "triangle in container", "ann_id": 715115, "best_split": [3, 3], "split_score": 0.35516591793143515}
+{"sent": "closest square bowl", "ann_id": 715115, "best_split": [3, 3], "split_score": 0.35516591793143515}
+{"sent": "triangles", "ann_id": 715115, "best_split": [1, 5], "split_score": 0.27858472995543904}

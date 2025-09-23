@@ -1,0 +1,6 @@
+{"sent": "smaller bird", "ann_id": 40274, "best_split": [2, 2], "split_score": 0.30124962806447114}
+{"sent": "shorter bird", "ann_id": 40274, "best_split": [2, 2], "split_score": 0.30124962806447114}
+{"sent": "bird on ri ght", "ann_id": 40274, "best_split": [2, 1], "split_score": 0.15584115745129132}
+{"sent": "bird who is tallest", "ann_id": 40055, "best_split": [1, 5], "split_score": 0.45201802315674255}
+{"sent": "bird biggest", "ann_id": 40055, "best_split": [1, 5], "split_score": 0.45201802315674255}
+{"sent": "birdlooking towards 900", "ann_id": 40055, "best_split": [1, 5], "split_score": 0.45201802315674255}

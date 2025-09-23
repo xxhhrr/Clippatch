@@ -1,0 +1,6 @@
+{"sent": "blue sofa no back", "ann_id": 1951790, "best_split": [2, 3], "split_score": 0.38491921000778945}
+{"sent": "piece of couche facing tv", "ann_id": 1951790, "best_split": [2, 1], "split_score": 0.13085937499478398}
+{"sent": "part of blue couch closest to camera", "ann_id": 1951790, "best_split": [2, 3], "split_score": 0.38491921000778945}
+{"sent": "the couch closest to the tv behind the table", "ann_id": 117898, "best_split": [3, 2], "split_score": 0.5715967375286641}
+{"sent": "big couch", "ann_id": 117898, "best_split": [3, 2], "split_score": 0.5715967375286641}
+{"sent": "couch that is most visible", "ann_id": 117898, "best_split": [3, 2], "split_score": 0.5715967375286641}

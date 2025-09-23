@@ -1,0 +1,15 @@
+{"sent": "person holding blue umbrella", "ann_id": 511446, "best_split": [1, 2], "split_score": 0.14110331632090628}
+{"sent": "blue", "ann_id": 511446, "best_split": [1, 5], "split_score": 0.21384559621114121}
+{"sent": "person under blue umbrella", "ann_id": 511446, "best_split": [1, 2], "split_score": 0.14110331632090628}
+{"sent": "man under darker red umbrella", "ann_id": 503594, "best_split": [1, 5], "split_score": 0.3116883116566875}
+{"sent": "man with red umbrella", "ann_id": 503594, "best_split": [1, 5], "split_score": 0.3116883116566875}
+{"sent": "man with red umbrella", "ann_id": 503594, "best_split": [1, 5], "split_score": 0.3116883116566875}
+{"sent": "gray coat beige umbrella", "ann_id": 462924, "best_split": [3, 3], "split_score": 0.312852311117129}
+{"sent": "blue dress girl", "ann_id": 462924, "best_split": [2, 2], "split_score": 0.17701149424015722}
+{"sent": "nfl bag", "ann_id": 462924, "best_split": [3, 3], "split_score": 0.312852311117129}
+{"sent": "woman with white umbrella between two red umbrellas", "ann_id": 437830, "best_split": [1, 3], "split_score": 0.20390926639696494}
+{"sent": "dark brown raincoat", "ann_id": 437830, "best_split": [3, 3], "split_score": 0.27755337560912385}
+{"sent": "dark tan trench coat", "ann_id": 437830, "best_split": [3, 3], "split_score": 0.27755337560912385}
+{"sent": "dark suit", "ann_id": 526924, "best_split": [1, 5], "split_score": 0.49066558436580093}
+{"sent": "suit guy", "ann_id": 526924, "best_split": [1, 5], "split_score": 0.49066558436580093}
+{"sent": "man black suit", "ann_id": 526924, "best_split": [1, 5], "split_score": 0.49066558436580093}

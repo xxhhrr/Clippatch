@@ -1,0 +1,5 @@
+{"sent": "wheel of bike in five corner", "ann_id": 1768924, "best_split": [5, 1], "split_score": 0.2048313036329775}
+{"sent": "tire on bike nearest you near mans watch", "ann_id": 1768924, "best_split": [5, 1], "split_score": 0.2048313036329775}
+{"sent": "wheel at 500 in corner", "ann_id": 1768924, "best_split": [2, 3], "split_score": 0.2608956657148642}
+{"sent": "bike directly before guy", "ann_id": 128073, "best_split": [2, 2], "split_score": 0.4435586734340275}
+{"sent": "bike closest to man that he is looking at", "ann_id": 128073, "best_split": [2, 2], "split_score": 0.4435586734340275}

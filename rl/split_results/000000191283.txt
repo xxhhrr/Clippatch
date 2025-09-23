@@ -1,0 +1,8 @@
+{"sent": "row 2 no 2", "ann_id": 1083167, "best_split": [1, 2], "split_score": 0.07698828606361789}
+{"sent": "2 glazed donut", "ann_id": 1083167, "best_split": [2, 3], "split_score": 0.3453185327768679}
+{"sent": "green donut number 1", "ann_id": 1082531, "best_split": [3, 3], "split_score": 0.6245434622672491}
+{"sent": "closest green", "ann_id": 1082531, "best_split": [3, 3], "split_score": 0.6245434622672491}
+{"sent": "green at 8", "ann_id": 1082531, "best_split": [3, 3], "split_score": 0.6245434622672491}
+{"sent": "closest doughnut", "ann_id": 1082475, "best_split": [3, 3], "split_score": 0.7614601017382919}
+{"sent": "non frosted biggest", "ann_id": 1082475, "best_split": [3, 3], "split_score": 0.7614601017382919}
+{"sent": "closet glaze dinut", "ann_id": 1082475, "best_split": [3, 3], "split_score": 0.7614601017382919}

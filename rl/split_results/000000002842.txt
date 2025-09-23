@@ -1,0 +1,6 @@
+{"sent": "woman in the blue nike shirt", "ann_id": 1258542, "best_split": [3, 1], "split_score": 0.14452401221170194}
+{"sent": "green tee shirt with yellow nike sign", "ann_id": 1258542, "best_split": [1, 5], "split_score": 0.44786432156785133}
+{"sent": "blue shorts", "ann_id": 1258542, "best_split": [3, 2], "split_score": 0.24706788800213442}
+{"sent": "guy in prange shirt", "ann_id": 1212217, "best_split": [1, 5], "split_score": 0.4915824915448743}
+{"sent": "red shirt standing", "ann_id": 1212217, "best_split": [1, 5], "split_score": 0.4915824915448743}
+{"sent": "red shirt", "ann_id": 1212217, "best_split": [1, 5], "split_score": 0.4915824915448743}

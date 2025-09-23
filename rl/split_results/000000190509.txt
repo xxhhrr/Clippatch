@@ -1,0 +1,6 @@
+{"sent": "back train", "ann_id": 174588, "best_split": [3, 2], "split_score": 0.3181510491907793}
+{"sent": "most visible train", "ann_id": 174588, "best_split": [3, 2], "split_score": 0.3181510491907793}
+{"sent": "the train that is further ahead", "ann_id": 174588, "best_split": [3, 2], "split_score": 0.3181510491907793}
+{"sent": "red engine by yellow box", "ann_id": 169525, "best_split": [2, 3], "split_score": 0.3668261562580512}
+{"sent": "train by the man", "ann_id": 169525, "best_split": [2, 3], "split_score": 0.3668261562580512}
+{"sent": "train nearest man walking", "ann_id": 169525, "best_split": [2, 3], "split_score": 0.3668261562580512}

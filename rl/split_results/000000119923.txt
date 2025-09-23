@@ -1,0 +1,5 @@
+{"sent": "orange not in bowl and not smooth", "ann_id": 1557636, "best_split": [3, 2], "split_score": 0.291617750611456}
+{"sent": "orange that you can see lines in it", "ann_id": 1557636, "best_split": [3, 2], "split_score": 0.291617750611456}
+{"sent": "orange on table closest to glass", "ann_id": 1557636, "best_split": [3, 2], "split_score": 0.291617750611456}
+{"sent": "1 orange farthest from glass", "ann_id": 1557566, "best_split": [3, 3], "split_score": 0.39539899345877083}
+{"sent": "orange closes to edge", "ann_id": 1557566, "best_split": [3, 3], "split_score": 0.39539899345877083}

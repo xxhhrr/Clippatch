@@ -1,0 +1,7 @@
+{"sent": "boy in blue", "ann_id": 229552, "best_split": [1, 2], "split_score": 0.6568080356881055}
+{"sent": "boy blue shirt", "ann_id": 229552, "best_split": [1, 2], "split_score": 0.6568080356881055}
+{"sent": "teal shirt boy", "ann_id": 229552, "best_split": [1, 2], "split_score": 0.6568080356881055}
+{"sent": "mom", "ann_id": 219382, "best_split": [2, 1], "split_score": 0.31402936377551766}
+{"sent": "mom", "ann_id": 219382, "best_split": [2, 1], "split_score": 0.31402936377551766}
+{"sent": "woman reading", "ann_id": 219382, "best_split": [3, 1], "split_score": 0.4522222222042769}
+{"sent": "the woman", "ann_id": 219382, "best_split": [2, 1], "split_score": 0.31402936377551766}

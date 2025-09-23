@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 502007, "best_split": [2, 3], "split_score": 0.2750467289462573}
+{"sent": "the guy", "ann_id": 502007, "best_split": [1, 5], "split_score": 0.28417053606718695}
+{"sent": "the person dressed in black", "ann_id": 502007, "best_split": [1, 5], "split_score": 0.28417053606718695}
+{"sent": "woman brushing teeth", "ann_id": 497725, "best_split": [3, 3], "split_score": 0.3935298027483348}
+{"sent": "women", "ann_id": 497725, "best_split": [3, 3], "split_score": 0.3935298027483348}
+{"sent": "bikini", "ann_id": 497725, "best_split": [3, 3], "split_score": 0.3935298027483348}

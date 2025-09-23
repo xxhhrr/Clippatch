@@ -1,0 +1,5 @@
+{"sent": "guy", "ann_id": 224472, "best_split": [1, 3], "split_score": 0.6587624750236023}
+{"sent": "first instance of guy", "ann_id": 224472, "best_split": [2, 1], "split_score": 0.33432835820004453}
+{"sent": "guy in clearer picture", "ann_id": 224472, "best_split": [1, 2], "split_score": 0.9955357142460325}
+{"sent": "guy number 2", "ann_id": 195415, "best_split": [1, 2], "split_score": 0.879982461699618}
+{"sent": "at 3pm green", "ann_id": 195415, "best_split": [1, 2], "split_score": 0.879982461699618}

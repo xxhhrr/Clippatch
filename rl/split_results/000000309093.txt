@@ -1,0 +1,5 @@
+{"sent": "bench under pink girl", "ann_id": 578931, "best_split": [1, 2], "split_score": 0.6550616335281257}
+{"sent": "bench girl is sitting on", "ann_id": 578931, "best_split": [1, 2], "split_score": 0.6550616335281257}
+{"sent": "whole bench", "ann_id": 578931, "best_split": [1, 2], "split_score": 0.6550616335281257}
+{"sent": "bench handle black nearest", "ann_id": 578140, "best_split": [2, 2], "split_score": 0.7774234693257793}
+{"sent": "rails on closest bench bench is not visible", "ann_id": 578140, "best_split": [1, 2], "split_score": 0.3887117346783836}

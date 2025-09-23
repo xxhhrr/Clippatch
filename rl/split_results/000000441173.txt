@@ -1,0 +1,6 @@
+{"sent": "sheep closest to you with face", "ann_id": 1929269, "best_split": [1, 2], "split_score": 0.3288823924335763}
+{"sent": "missing an ear", "ann_id": 1929269, "best_split": [1, 2], "split_score": 0.3288823924335763}
+{"sent": "lower edge smaller", "ann_id": 1929269, "best_split": [3, 2], "split_score": 0.903459190492487}
+{"sent": "sheep not on either side of any kind", "ann_id": 1084132, "best_split": [3, 3], "split_score": 0.4569637088678545}
+{"sent": "bulls eye", "ann_id": 1084132, "best_split": [3, 3], "split_score": 0.4569637088678545}
+{"sent": "sheep thing away from the sides", "ann_id": 1084132, "best_split": [3, 3], "split_score": 0.4569637088678545}

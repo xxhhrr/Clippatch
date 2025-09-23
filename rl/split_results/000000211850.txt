@@ -1,0 +1,6 @@
+{"sent": "blue v neck", "ann_id": 220520, "best_split": [2, 3], "split_score": 0.5834809565341584}
+{"sent": "blue shirt", "ann_id": 220520, "best_split": [2, 2], "split_score": 0.3965984346480585}
+{"sent": "girl in blue", "ann_id": 220520, "best_split": [2, 3], "split_score": 0.5834809565341584}
+{"sent": "woman with black shirt", "ann_id": 196296, "best_split": [2, 2], "split_score": 0.26893523598330443}
+{"sent": "black woman wearing", "ann_id": 196296, "best_split": [3, 3], "split_score": 0.2790795565765287}
+{"sent": "darker shirt", "ann_id": 196296, "best_split": [2, 3], "split_score": 0.2968036529357682}

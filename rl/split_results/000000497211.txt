@@ -1,0 +1,15 @@
+{"sent": "wineglass row closest to us furthest away from bottles", "ann_id": 1499759, "best_split": [3, 2], "split_score": 0.19249709014303007}
+{"sent": "wine glass thats completely visible and furthest away from the wine", "ann_id": 1499759, "best_split": [3, 2], "split_score": 0.19249709014303007}
+{"sent": "the wine glass between two others", "ann_id": 1496320, "best_split": [3, 2], "split_score": 0.188485263860914}
+{"sent": "middle closest glass", "ann_id": 1496320, "best_split": [2, 3], "split_score": 0.24212034381476458}
+{"sent": "glass in between others foreground", "ann_id": 1496320, "best_split": [2, 3], "split_score": 0.24212034381476458}
+{"sent": "third glass", "ann_id": 1500675, "best_split": [1, 5], "split_score": 0.3693181817807104}
+{"sent": "most apparent glass", "ann_id": 1500675, "best_split": [2, 2], "split_score": 0.12233009707889528}
+{"sent": "closest glass to wine", "ann_id": 1500675, "best_split": [5, 1], "split_score": 0.11574074073117223}
+{"sent": "bottle with black label", "ann_id": 95777, "best_split": [1, 5], "split_score": 0.4787946428085638}
+{"sent": "lady", "ann_id": 95777, "best_split": [1, 2], "split_score": 0.18809789540066574}
+{"sent": "bottle with black label", "ann_id": 95777, "best_split": [1, 5], "split_score": 0.4787946428085638}
+{"sent": "bottle with black label", "ann_id": 95777, "best_split": [1, 5], "split_score": 0.4787946428085638}
+{"sent": "wine bottle with horse", "ann_id": 95417, "best_split": [1, 5], "split_score": 0.3800277392159013}
+{"sent": "chateau chevalier", "ann_id": 95417, "best_split": [1, 5], "split_score": 0.3800277392159013}
+{"sent": "ri ght bottle", "ann_id": 95417, "best_split": [3, 3], "split_score": 0.35071090042901104}

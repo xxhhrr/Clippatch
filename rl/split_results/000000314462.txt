@@ -1,0 +1,6 @@
+{"sent": "long purple coat", "ann_id": 476298, "best_split": [1, 2], "split_score": 0.47112186269764433}
+{"sent": "purple coat white gloves", "ann_id": 476298, "best_split": [1, 2], "split_score": 0.47112186269764433}
+{"sent": "long purple coat", "ann_id": 476298, "best_split": [1, 2], "split_score": 0.47112186269764433}
+{"sent": "black pants lady", "ann_id": 469814, "best_split": [1, 2], "split_score": 0.5171795280406098}
+{"sent": "pigtails", "ann_id": 469814, "best_split": [1, 2], "split_score": 0.5171795280406098}
+{"sent": "not the girl in the long purple coat", "ann_id": 469814, "best_split": [3, 1], "split_score": 0.23124036497515768}

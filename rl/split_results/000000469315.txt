@@ -1,0 +1,6 @@
+{"sent": "train with yellow stripes", "ann_id": 1367299, "best_split": [3, 3], "split_score": 0.4941563183904024}
+{"sent": "furthest trail", "ann_id": 1367299, "best_split": [1, 5], "split_score": 0.23326133906997237}
+{"sent": "black and yellow train", "ann_id": 1367299, "best_split": [3, 3], "split_score": 0.4941563183904024}
+{"sent": "the train thats leaving", "ann_id": 174683, "best_split": [1, 3], "split_score": 0.5522688892219715}
+{"sent": "train with red lights", "ann_id": 174683, "best_split": [1, 3], "split_score": 0.5522688892219715}
+{"sent": "train with three red lights", "ann_id": 174683, "best_split": [1, 3], "split_score": 0.5522688892219715}

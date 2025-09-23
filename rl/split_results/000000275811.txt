@@ -1,0 +1,6 @@
+{"sent": "pink couch", "ann_id": 114747, "best_split": [3, 3], "split_score": 0.7215245973228653}
+{"sent": "solid red couch", "ann_id": 114747, "best_split": [3, 3], "split_score": 0.7215245973228653}
+{"sent": "pink couch", "ann_id": 114747, "best_split": [3, 3], "split_score": 0.7215245973228653}
+{"sent": "blue with squares blanket on couch", "ann_id": 113886, "best_split": [3, 3], "split_score": 0.6327328346987198}
+{"sent": "blue and pink couch on wall", "ann_id": 113886, "best_split": [3, 1], "split_score": 0.21920631180998548}
+{"sent": "blue couch", "ann_id": 113886, "best_split": [3, 1], "split_score": 0.21920631180998548}

@@ -1,0 +1,4 @@
+{"sent": "partial bench seat beside man", "ann_id": 1813876, "best_split": [3, 1], "split_score": 0.16527970410510404}
+{"sent": "the area under the book", "ann_id": 1813876, "best_split": [2, 3], "split_score": 0.4329150578628239}
+{"sent": "bench 3 o clock", "ann_id": 1813731, "best_split": [2, 1], "split_score": 0.11387111761986235}
+{"sent": "bench across from man", "ann_id": 1813731, "best_split": [2, 1], "split_score": 0.11387111761986235}

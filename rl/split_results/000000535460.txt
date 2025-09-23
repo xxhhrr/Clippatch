@@ -1,0 +1,10 @@
+{"sent": "girl with long hair", "ann_id": 1267002, "best_split": [2, 3], "split_score": 0.4145581938094046}
+{"sent": "girl long brown hair looking down", "ann_id": 1267002, "best_split": [3, 1], "split_score": 0.25835262982366564}
+{"sent": "girl looking at the pretzel cookies", "ann_id": 1267002, "best_split": [3, 1], "split_score": 0.25835262982366564}
+{"sent": "closest girl", "ann_id": 1239396, "best_split": [3, 2], "split_score": 0.5402461333327585}
+{"sent": "girl with braids reaching for a cupcake", "ann_id": 1239396, "best_split": [3, 3], "split_score": 0.5240081481691717}
+{"sent": "girl on table main", "ann_id": 1239396, "best_split": [3, 2], "split_score": 0.5402461333327585}
+{"sent": "girl cut off near the cookies no face", "ann_id": 1310720, "best_split": [2, 1], "split_score": 0.30170529076194674}
+{"sent": "boy with head band", "ann_id": 1272360, "best_split": [3, 3], "split_score": 0.48147551538636024}
+{"sent": "boy standing up near lady", "ann_id": 1272360, "best_split": [1, 3], "split_score": 0.22448117759263506}
+{"sent": "person with hands upper chest", "ann_id": 1272360, "best_split": [3, 2], "split_score": 0.3313747228013997}

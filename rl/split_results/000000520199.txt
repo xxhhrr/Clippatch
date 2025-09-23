@@ -1,0 +1,6 @@
+{"sent": "pink shirt", "ann_id": 426093, "best_split": [3, 3], "split_score": 0.4075705987975595}
+{"sent": "pink shirt", "ann_id": 426093, "best_split": [3, 3], "split_score": 0.4075705987975595}
+{"sent": "girl pinks hirt", "ann_id": 426093, "best_split": [3, 3], "split_score": 0.4075705987975595}
+{"sent": "black shirt showing back", "ann_id": 518913, "best_split": [1, 5], "split_score": 0.42726273356291106}
+{"sent": "black shirt not facing us", "ann_id": 518913, "best_split": [2, 2], "split_score": 0.23783710528270516}
+{"sent": "dark blue shirt facing away", "ann_id": 518913, "best_split": [1, 2], "split_score": 0.22815688774600779}

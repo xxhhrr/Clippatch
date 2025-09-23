@@ -1,0 +1,6 @@
+{"sent": "partial elephant", "ann_id": 584967, "best_split": [3, 1], "split_score": 0.12257547421199169}
+{"sent": "elephant that just has behind shown", "ann_id": 584967, "best_split": [3, 1], "split_score": 0.12257547421199169}
+{"sent": "elephant that is not visible", "ann_id": 584967, "best_split": [3, 1], "split_score": 0.12257547421199169}
+{"sent": "looking at us", "ann_id": 584851, "best_split": [2, 1], "split_score": 0.29247104246222033}
+{"sent": "the elephant", "ann_id": 584851, "best_split": [1, 2], "split_score": 0.5378099989040014}
+{"sent": "main elephant", "ann_id": 584851, "best_split": [1, 2], "split_score": 0.5378099989040014}

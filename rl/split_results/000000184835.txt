@@ -1,0 +1,12 @@
+{"sent": "girl", "ann_id": 2163192, "best_split": [2, 3], "split_score": 0.33639651966600875}
+{"sent": "female watching", "ann_id": 2163192, "best_split": [2, 3], "split_score": 0.33639651966600875}
+{"sent": "girl in white", "ann_id": 2163192, "best_split": [2, 3], "split_score": 0.33639651966600875}
+{"sent": "man sitting down with a bald spot", "ann_id": 1258687, "best_split": [3, 1], "split_score": 0.17827124033517314}
+{"sent": "bald man kneeling", "ann_id": 1258687, "best_split": [3, 1], "split_score": 0.17827124033517314}
+{"sent": "man in black shirt sitting and talking", "ann_id": 1258687, "best_split": [2, 3], "split_score": 0.4858676206933968}
+{"sent": "white shirt jacket taller", "ann_id": 501440, "best_split": [3, 1], "split_score": 0.12988764044214113}
+{"sent": "brown jacket guy", "ann_id": 501440, "best_split": [3, 1], "split_score": 0.12988764044214113}
+{"sent": "guy in brown caot", "ann_id": 501440, "best_split": [3, 2], "split_score": 0.24306139610564956}
+{"sent": "guy swinging", "ann_id": 461871, "best_split": [2, 3], "split_score": 0.3872113676404287}
+{"sent": "swinging", "ann_id": 461871, "best_split": [2, 3], "split_score": 0.3872113676404287}
+{"sent": "guy white shirt", "ann_id": 461871, "best_split": [2, 2], "split_score": 0.43014400440112543}

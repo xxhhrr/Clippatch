@@ -1,0 +1,6 @@
+{"sent": "plant off to side", "ann_id": 1540776, "best_split": [3, 3], "split_score": 0.44521548567472324}
+{"sent": "dish to side", "ann_id": 1540776, "best_split": [5, 1], "split_score": 0.16575004739562393}
+{"sent": "basket with broccoli", "ann_id": 1540776, "best_split": [3, 3], "split_score": 0.44521548567472324}
+{"sent": "bowl of rice", "ann_id": 712689, "best_split": [5, 1], "split_score": 0.3141993957432715}
+{"sent": "white serving dish", "ann_id": 712689, "best_split": [5, 1], "split_score": 0.3141993957432715}
+{"sent": "the bowl between everything", "ann_id": 712689, "best_split": [3, 3], "split_score": 0.43813817790238185}

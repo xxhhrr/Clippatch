@@ -1,0 +1,12 @@
+{"sent": "man with bow tie", "ann_id": 477027, "best_split": [1, 2], "split_score": 0.618855312609008}
+{"sent": "green shirt dude", "ann_id": 477027, "best_split": [1, 2], "split_score": 0.618855312609008}
+{"sent": "bow tie", "ann_id": 477027, "best_split": [1, 2], "split_score": 0.618855312609008}
+{"sent": "hat", "ann_id": 461136, "best_split": [1, 3], "split_score": 0.5033486076619955}
+{"sent": "man in hat", "ann_id": 461136, "best_split": [1, 3], "split_score": 0.5033486076619955}
+{"sent": "plaid", "ann_id": 461136, "best_split": [1, 3], "split_score": 0.5033486076619955}
+{"sent": "brown reflection", "ann_id": 356318, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "black car corner of screen", "ann_id": 356318, "best_split": [2, 2], "split_score": 0.4668367346566616}
+{"sent": "car", "ann_id": 356318, "best_split": [2, 3], "split_score": 0.6870229006814143}
+{"sent": "computer monitor", "ann_id": 356132, "best_split": [1, 2], "split_score": 0.1354830994843956}
+{"sent": "white vehicle partially hidden behind these guys", "ann_id": 356132, "best_split": [3, 1], "split_score": 0.13928021444480235}
+{"sent": "white car in background on side of pic", "ann_id": 356132, "best_split": [3, 1], "split_score": 0.13928021444480235}

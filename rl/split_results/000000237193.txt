@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 205650, "best_split": [2, 1], "split_score": 0.20194057003479607}
+{"sent": "lone silhouette of person", "ann_id": 205650, "best_split": [2, 1], "split_score": 0.20194057003479607}
+{"sent": "single person", "ann_id": 205650, "best_split": [2, 3], "split_score": 0.5207016112053129}
+{"sent": "person by dog", "ann_id": 203101, "best_split": [2, 2], "split_score": 0.3869213608207668}
+{"sent": "man with dog", "ann_id": 203101, "best_split": [2, 2], "split_score": 0.3869213608207668}
+{"sent": "guy by the dog", "ann_id": 203101, "best_split": [2, 2], "split_score": 0.3869213608207668}

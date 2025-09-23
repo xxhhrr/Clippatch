@@ -1,0 +1,5 @@
+{"sent": "hot dog chile", "ann_id": 1070284, "best_split": [3, 2], "split_score": 0.38959430161121134}
+{"sent": "hot dog with brown stuff on it", "ann_id": 1070284, "best_split": [3, 2], "split_score": 0.38959430161121134}
+{"sent": "dog loaded with onions", "ann_id": 1069402, "best_split": [3, 1], "split_score": 0.2614208284813482}
+{"sent": "white rice", "ann_id": 1069402, "best_split": [3, 2], "split_score": 0.4364899805723586}
+{"sent": "dog with onions", "ann_id": 1069402, "best_split": [3, 1], "split_score": 0.2614208284813482}

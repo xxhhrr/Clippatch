@@ -1,0 +1,9 @@
+{"sent": "green monitor", "ann_id": 1626234, "best_split": [2, 3], "split_score": 0.6384742951150824}
+{"sent": "green monitor", "ann_id": 1626234, "best_split": [2, 3], "split_score": 0.6384742951150824}
+{"sent": "computer about laptop", "ann_id": 1626234, "best_split": [2, 3], "split_score": 0.6384742951150824}
+{"sent": "blue screen", "ann_id": 1626037, "best_split": [3, 3], "split_score": 0.5677480915353353}
+{"sent": "blue desktop", "ann_id": 1626037, "best_split": [3, 3], "split_score": 0.5677480915353353}
+{"sent": "blue background on screen", "ann_id": 1626037, "best_split": [3, 3], "split_score": 0.5677480915353353}
+{"sent": "screen next to double screen not blue", "ann_id": 1624843, "best_split": [5, 1], "split_score": 0.26376224246337704}
+{"sent": "gray screen", "ann_id": 1624843, "best_split": [2, 3], "split_score": 0.5494912117773484}
+{"sent": "screen with mountain on it", "ann_id": 1624843, "best_split": [2, 3], "split_score": 0.5494912117773484}

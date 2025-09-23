@@ -1,0 +1,6 @@
+{"sent": "person in backgraound", "ann_id": 484774, "best_split": [2, 2], "split_score": 0.2869897958954887}
+{"sent": "man in the background", "ann_id": 484774, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "guy in black", "ann_id": 484774, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "woman", "ann_id": 457632, "best_split": [1, 3], "split_score": 0.654654654628088}
+{"sent": "girl", "ann_id": 457632, "best_split": [1, 3], "split_score": 0.654654654628088}
+{"sent": "yellow jacket", "ann_id": 457632, "best_split": [1, 3], "split_score": 0.654654654628088}

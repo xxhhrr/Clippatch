@@ -1,0 +1,6 @@
+{"sent": "tall boy", "ann_id": 465672, "best_split": [2, 1], "split_score": 0.2587631447089771}
+{"sent": "green striped shirt", "ann_id": 465672, "best_split": [1, 2], "split_score": 0.6031568877310604}
+{"sent": "baby in green", "ann_id": 465672, "best_split": [1, 2], "split_score": 0.6031568877310604}
+{"sent": "smaller child", "ann_id": 451908, "best_split": [2, 1], "split_score": 0.22261564448341295}
+{"sent": "not i n green", "ann_id": 451908, "best_split": [3, 1], "split_score": 0.2922046230847773}
+{"sent": "gray sweater", "ann_id": 451908, "best_split": [1, 3], "split_score": 0.38111722304717766}

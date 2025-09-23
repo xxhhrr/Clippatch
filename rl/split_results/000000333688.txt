@@ -1,0 +1,8 @@
+{"sent": "partial seat corner", "ann_id": 110635, "best_split": [2, 3], "split_score": 0.5661196910513852}
+{"sent": "2 seats in front of the dog", "ann_id": 110635, "best_split": [2, 2], "split_score": 0.37404336731712023}
+{"sent": "closest seat to 3pm", "ann_id": 110452, "best_split": [2, 1], "split_score": 0.3783482142706334}
+{"sent": "chair 5pm", "ann_id": 110452, "best_split": [3, 2], "split_score": 0.8586661090467629}
+{"sent": "nearest full seat showing", "ann_id": 110452, "best_split": [3, 1], "split_score": 0.472269287220588}
+{"sent": "seat directly by dog tongue", "ann_id": 107905, "best_split": [2, 2], "split_score": 0.44961734690293226}
+{"sent": "the empty chair the dog is behind", "ann_id": 107905, "best_split": [2, 2], "split_score": 0.44961734690293226}
+{"sent": "dog looking over it", "ann_id": 107905, "best_split": [2, 2], "split_score": 0.44961734690293226}

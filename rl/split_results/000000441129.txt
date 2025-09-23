@@ -1,0 +1,5 @@
+{"sent": "most daisys cake", "ann_id": 1088051, "best_split": [3, 3], "split_score": 0.28935347851557386}
+{"sent": "medium cake with flowers", "ann_id": 1088051, "best_split": [3, 3], "split_score": 0.28935347851557386}
+{"sent": "shortest cake", "ann_id": 1087891, "best_split": [3, 3], "split_score": 0.30482115080795935}
+{"sent": "lowest cake", "ann_id": 1087891, "best_split": [3, 3], "split_score": 0.30482115080795935}
+{"sent": "big yellow cake without a topper", "ann_id": 1087891, "best_split": [2, 2], "split_score": 0.1367848212871904}

@@ -1,0 +1,7 @@
+{"sent": "board with red pants on it", "ann_id": 620598, "best_split": [3, 2], "split_score": 0.2817792985216613}
+{"sent": "board with red pant leg on it", "ann_id": 620598, "best_split": [1, 2], "split_score": 0.2669005101934431}
+{"sent": "board with red legs", "ann_id": 620598, "best_split": [1, 2], "split_score": 0.2669005101934431}
+{"sent": "closest snowboard", "ann_id": 619869, "best_split": [1, 2], "split_score": 0.20563616070608912}
+{"sent": "gray white without feen", "ann_id": 619869, "best_split": [3, 3], "split_score": 0.35945289526275687}
+{"sent": "disconnected snowboard", "ann_id": 615514, "best_split": [1, 5], "split_score": 0.36034482756401814}
+{"sent": "board 1 oclok", "ann_id": 615514, "best_split": [1, 5], "split_score": 0.36034482756401814}

@@ -1,0 +1,6 @@
+{"sent": "suit", "ann_id": 209516, "best_split": [2, 3], "split_score": 0.5330132052421208}
+{"sent": "man in tux", "ann_id": 209516, "best_split": [2, 3], "split_score": 0.5330132052421208}
+{"sent": "tallest person", "ann_id": 209516, "best_split": [2, 3], "split_score": 0.5330132052421208}
+{"sent": "the child", "ann_id": 194848, "best_split": [1, 5], "split_score": 0.3367346938507067}
+{"sent": "child", "ann_id": 194848, "best_split": [2, 2], "split_score": 0.5510204081193383}
+{"sent": "small boy", "ann_id": 194848, "best_split": [2, 2], "split_score": 0.5510204081193383}

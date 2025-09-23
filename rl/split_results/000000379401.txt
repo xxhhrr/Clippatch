@@ -1,0 +1,6 @@
+{"sent": "juice half full", "ann_id": 679516, "best_split": [3, 2], "split_score": 0.19204152247058373}
+{"sent": "glass closest to grapes", "ann_id": 679516, "best_split": [3, 2], "split_score": 0.19204152247058373}
+{"sent": "juice in shadow", "ann_id": 679516, "best_split": [3, 2], "split_score": 0.19204152247058373}
+{"sent": "juice glass nearest fruit bowl oranges", "ann_id": 671715, "best_split": [3, 2], "split_score": 0.19706007667266082}
+{"sent": "glass closer to oranges", "ann_id": 671715, "best_split": [1, 5], "split_score": 0.2399302865763042}
+{"sent": "juice closest to big orange", "ann_id": 671715, "best_split": [1, 5], "split_score": 0.2399302865763042}

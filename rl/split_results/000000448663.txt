@@ -1,0 +1,15 @@
+{"sent": "woman", "ann_id": 464919, "best_split": [1, 3], "split_score": 0.76676402212751}
+{"sent": "woman", "ann_id": 464919, "best_split": [1, 3], "split_score": 0.76676402212751}
+{"sent": "white hair", "ann_id": 464919, "best_split": [1, 3], "split_score": 0.76676402212751}
+{"sent": "man", "ann_id": 443667, "best_split": [1, 3], "split_score": 0.7928571428128985}
+{"sent": "purple shirt", "ann_id": 443667, "best_split": [1, 3], "split_score": 0.7928571428128985}
+{"sent": "purple", "ann_id": 443667, "best_split": [1, 3], "split_score": 0.7928571428128985}
+{"sent": "car under the shade but you can only see the roof", "ann_id": 351251, "best_split": [1, 3], "split_score": 0.24661051302884507}
+{"sent": "partial car farthest away", "ann_id": 351251, "best_split": [1, 3], "split_score": 0.24661051302884507}
+{"sent": "third car in background behind white car", "ann_id": 351251, "best_split": [1, 2], "split_score": 0.2987833327244452}
+{"sent": "sunny wagon behind dark blue caqr", "ann_id": 351031, "best_split": [1, 3], "split_score": 0.31048027136625245}
+{"sent": "silver car behind blue", "ann_id": 351031, "best_split": [1, 3], "split_score": 0.31048027136625245}
+{"sent": "count three cars from the man", "ann_id": 351031, "best_split": [1, 3], "split_score": 0.31048027136625245}
+{"sent": "blue vehicle", "ann_id": 350220, "best_split": [2, 1], "split_score": 0.5497590361280194}
+{"sent": "blue car with tire visible", "ann_id": 350220, "best_split": [2, 1], "split_score": 0.5497590361280194}
+{"sent": "blue car", "ann_id": 350220, "best_split": [2, 1], "split_score": 0.5497590361280194}

@@ -1,0 +1,14 @@
+{"sent": "bike with not umbrella", "ann_id": 1764781, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "red bike next to woman", "ann_id": 1764781, "best_split": [5, 1], "split_score": 0.21513944221159548}
+{"sent": "corner of bike not with man", "ann_id": 1334164, "best_split": [3, 2], "split_score": 0.4401544401013327}
+{"sent": "empty silver bike in corner", "ann_id": 1334164, "best_split": [3, 2], "split_score": 0.4401544401013327}
+{"sent": "bike with no rider", "ann_id": 1334164, "best_split": [2, 2], "split_score": 0.29081632650742856}
+{"sent": "person without umbrella", "ann_id": 213200, "best_split": [5, 1], "split_score": 0.22110552761835017}
+{"sent": "person on bike not with umbrella", "ann_id": 213200, "best_split": [2, 2], "split_score": 0.1639999999882857}
+{"sent": "person without umbrella", "ann_id": 213200, "best_split": [5, 1], "split_score": 0.22110552761835017}
+{"sent": "person on bicycle wearing dark jacket and dark pants", "ann_id": 194152, "best_split": [2, 3], "split_score": 0.6658668265680997}
+{"sent": "person on bike with the umbrella", "ann_id": 194152, "best_split": [2, 3], "split_score": 0.6658668265680997}
+{"sent": "sitting on a bike", "ann_id": 194152, "best_split": [2, 3], "split_score": 0.6658668265680997}
+{"sent": "what the person with umbrella is riding on", "ann_id": 127807, "best_split": [1, 3], "split_score": 0.26635684343601435}
+{"sent": "bike the woman with umbrella is riding", "ann_id": 127807, "best_split": [3, 1], "split_score": 0.4527493204864756}
+{"sent": "main bicycle", "ann_id": 127807, "best_split": [3, 1], "split_score": 0.4527493204864756}

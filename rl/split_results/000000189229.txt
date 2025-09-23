@@ -1,0 +1,6 @@
+{"sent": "white ellipse", "ann_id": 2222265, "best_split": [1, 5], "split_score": 0.2840909090620849}
+{"sent": "white cream on cracker", "ann_id": 2222265, "best_split": [5, 1], "split_score": 0.15727871249476236}
+{"sent": "dessert with white egg foam thing", "ann_id": 2222265, "best_split": [1, 3], "split_score": 0.04531722054136182}
+{"sent": "cherry cake", "ann_id": 1087434, "best_split": [3, 2], "split_score": 0.211764705856931}
+{"sent": "sweet with red dot", "ann_id": 1087434, "best_split": [3, 2], "split_score": 0.211764705856931}
+{"sent": "desert with cherry", "ann_id": 1087434, "best_split": [1, 5], "split_score": 0.14333333331928105}

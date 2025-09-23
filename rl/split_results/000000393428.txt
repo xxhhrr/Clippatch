@@ -1,0 +1,6 @@
+{"sent": "item of clothing on table", "ann_id": 1965682, "best_split": [3, 2], "split_score": 0.6623869800486087}
+{"sent": "next table over", "ann_id": 1965682, "best_split": [3, 2], "split_score": 0.6623869800486087}
+{"sent": "the gray shirt", "ann_id": 1965682, "best_split": [3, 2], "split_score": 0.6623869800486087}
+{"sent": "hot dog", "ann_id": 412747, "best_split": [2, 1], "split_score": 0.549612049280018}
+{"sent": "hotdog", "ann_id": 412747, "best_split": [2, 1], "split_score": 0.549612049280018}
+{"sent": "table", "ann_id": 412747, "best_split": [1, 2], "split_score": 0.46344827585208087}

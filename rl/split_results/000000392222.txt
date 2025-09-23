@@ -1,0 +1,6 @@
+{"sent": "guy with jacket open", "ann_id": 544292, "best_split": [3, 3], "split_score": 0.30511269924338746}
+{"sent": "jacket open", "ann_id": 544292, "best_split": [3, 3], "split_score": 0.30511269924338746}
+{"sent": "tallest guy", "ann_id": 544292, "best_split": [3, 3], "split_score": 0.30511269924338746}
+{"sent": "man with red sport", "ann_id": 1723445, "best_split": [1, 3], "split_score": 0.30658783781934196}
+{"sent": "guy with red handkerchief", "ann_id": 1723445, "best_split": [1, 3], "split_score": 0.30658783781934196}
+{"sent": "lead man", "ann_id": 1723445, "best_split": [1, 5], "split_score": 0.2597402597183555}

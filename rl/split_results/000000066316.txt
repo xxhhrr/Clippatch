@@ -1,0 +1,6 @@
+{"sent": "biggest boat", "ann_id": 250171, "best_split": [2, 2], "split_score": 0.6136363635948568}
+{"sent": "ship", "ann_id": 250171, "best_split": [2, 2], "split_score": 0.6136363635948568}
+{"sent": "full view boat", "ann_id": 250171, "best_split": [2, 2], "split_score": 0.6136363635948568}
+{"sent": "boat behind the main boat", "ann_id": 179899, "best_split": [2, 3], "split_score": 0.2745792736631334}
+{"sent": "most of ship isnt visible", "ann_id": 179899, "best_split": [2, 3], "split_score": 0.2745792736631334}
+{"sent": "half boat show", "ann_id": 179899, "best_split": [2, 3], "split_score": 0.2745792736631334}

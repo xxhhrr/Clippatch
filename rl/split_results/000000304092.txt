@@ -1,0 +1,5 @@
+{"sent": "largest elephant", "ann_id": 583080, "best_split": [2, 3], "split_score": 0.43937285458397135}
+{"sent": "biggest elephant", "ann_id": 583080, "best_split": [2, 3], "split_score": 0.43937285458397135}
+{"sent": "tallest phante", "ann_id": 583080, "best_split": [3, 1], "split_score": 0.24297650129279497}
+{"sent": "not papa and not baby", "ann_id": 580689, "best_split": [3, 3], "split_score": 0.19994049387088061}
+{"sent": "elepant between baby and largest", "ann_id": 580689, "best_split": [3, 3], "split_score": 0.19994049387088061}

@@ -1,0 +1,6 @@
+{"sent": "closest bread", "ann_id": 311090, "best_split": [3, 3], "split_score": 0.45671483488575965}
+{"sent": "the sandwich divided by white line slice nearest other plate", "ann_id": 311090, "best_split": [2, 3], "split_score": 0.3326895219379344}
+{"sent": "plate closest to us farthest slice", "ann_id": 311090, "best_split": [2, 1], "split_score": 0.2197066326443038}
+{"sent": "whole sandwich", "ann_id": 310652, "best_split": [3, 1], "split_score": 0.5012065636763268}
+{"sent": "food by leamon", "ann_id": 310652, "best_split": [3, 1], "split_score": 0.5012065636763268}
+{"sent": "sandwich in full view", "ann_id": 310652, "best_split": [3, 1], "split_score": 0.5012065636763268}

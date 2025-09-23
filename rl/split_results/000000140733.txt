@@ -1,0 +1,10 @@
+{"sent": "plane on the lower area", "ann_id": 161715, "best_split": [2, 2], "split_score": 0.4409241420499003}
+{"sent": "lead plane", "ann_id": 159578, "best_split": [2, 1], "split_score": 0.0999000998965356}
+{"sent": "plane going ahead of all", "ann_id": 159578, "best_split": [2, 1], "split_score": 0.0999000998965356}
+{"sent": "jet", "ann_id": 159578, "best_split": [3, 3], "split_score": 0.6735302893653341}
+{"sent": "the highest lane", "ann_id": 158987, "best_split": [1, 5], "split_score": 0.23169984684290199}
+{"sent": "highest jet", "ann_id": 158987, "best_split": [1, 5], "split_score": 0.23169984684290199}
+{"sent": "highest airplane", "ann_id": 158987, "best_split": [1, 5], "split_score": 0.23169984684290199}
+{"sent": "plane in the back of the pack", "ann_id": 158496, "best_split": [3, 2], "split_score": 0.403005464441549}
+{"sent": "back of the pack", "ann_id": 158496, "best_split": [3, 2], "split_score": 0.403005464441549}
+{"sent": "last plane", "ann_id": 158496, "best_split": [1, 3], "split_score": 0.2992089877164273}

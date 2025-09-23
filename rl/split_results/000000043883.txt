@@ -1,0 +1,5 @@
+{"sent": "hot dog without peppers", "ann_id": 1567538, "best_split": [3, 1], "split_score": 0.4742857142606198}
+{"sent": "hot dog without round peppers", "ann_id": 1567538, "best_split": [3, 1], "split_score": 0.4742857142606198}
+{"sent": "hot dog with jalapenos", "ann_id": 1067655, "best_split": [2, 1], "split_score": 0.493666927267644}
+{"sent": "hotdog with green stuff", "ann_id": 1067655, "best_split": [2, 1], "split_score": 0.493666927267644}
+{"sent": "hotdog with pepper rings", "ann_id": 1067655, "best_split": [2, 1], "split_score": 0.493666927267644}

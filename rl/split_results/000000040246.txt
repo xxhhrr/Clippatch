@@ -1,0 +1,8 @@
+{"sent": "one with tie behind cake cutter", "ann_id": 1282826, "best_split": [2, 1], "split_score": 0.17216234481655596}
+{"sent": "geek with tie", "ann_id": 1282826, "best_split": [1, 2], "split_score": 0.3134964923344429}
+{"sent": "the guy standing behind", "ann_id": 1257017, "best_split": [5, 1], "split_score": 0.17051756006268037}
+{"sent": "dude not cutting", "ann_id": 1257017, "best_split": [3, 2], "split_score": 0.40535605595988555}
+{"sent": "boy white shirt behind guy cutting cake", "ann_id": 1257017, "best_split": [1, 2], "split_score": 0.31389508927320253}
+{"sent": "dorky smiling guy with glasses cutting it", "ann_id": 1218070, "best_split": [1, 3], "split_score": 0.4969398163678621}
+{"sent": "main guy cutting cake", "ann_id": 1218070, "best_split": [1, 3], "split_score": 0.4969398163678621}
+{"sent": "man cutting cake", "ann_id": 1218070, "best_split": [1, 3], "split_score": 0.4969398163678621}

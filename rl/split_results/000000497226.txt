@@ -1,0 +1,5 @@
+{"sent": "smaller guy", "ann_id": 1817901, "best_split": [3, 1], "split_score": 0.35384615382613993}
+{"sent": "sheep with head up more", "ann_id": 1817901, "best_split": [3, 2], "split_score": 0.6660988074248191}
+{"sent": "sheep with lower head", "ann_id": 1817689, "best_split": [3, 1], "split_score": 0.45427603723252136}
+{"sent": "number two sheep", "ann_id": 1817689, "best_split": [3, 1], "split_score": 0.45427603723252136}
+{"sent": "taller lamb", "ann_id": 1817689, "best_split": [3, 1], "split_score": 0.45427603723252136}

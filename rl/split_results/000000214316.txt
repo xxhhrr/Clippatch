@@ -1,0 +1,6 @@
+{"sent": "the white square that doesnt have a circle on it nor is part of the wall", "ann_id": 1647201, "best_split": [2, 3], "split_score": 0.14103862287421967}
+{"sent": "silver rectangle 1", "ann_id": 1647201, "best_split": [3, 3], "split_score": 0.6814526587961799}
+{"sent": "freezer door not fridge door", "ann_id": 1647201, "best_split": [2, 2], "split_score": 0.5969387754626164}
+{"sent": "door with symbol", "ann_id": 333196, "best_split": [1, 2], "split_score": 0.28195125718272945}
+{"sent": "door with silver emblem", "ann_id": 333196, "best_split": [3, 2], "split_score": 0.802991969991971}
+{"sent": "door with metal piece attached", "ann_id": 333196, "best_split": [2, 2], "split_score": 0.5469393870872151}

@@ -1,0 +1,6 @@
+{"sent": "dishwasher", "ann_id": 1642095, "best_split": [1, 2], "split_score": 0.03703951999339525}
+{"sent": "dishwahser", "ann_id": 1642095, "best_split": [2, 1], "split_score": 0.19877557345788996}
+{"sent": "dishwasher face", "ann_id": 1642095, "best_split": [5, 1], "split_score": 0.23319723616259444}
+{"sent": "stove guy is leaning on", "ann_id": 1126662, "best_split": [2, 3], "split_score": 0.7537162781470255}
+{"sent": "stove the man is leaning on", "ann_id": 1126662, "best_split": [2, 3], "split_score": 0.7537162781470255}
+{"sent": "stove", "ann_id": 1126662, "best_split": [2, 3], "split_score": 0.7537162781470255}

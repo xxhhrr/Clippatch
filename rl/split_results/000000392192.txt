@@ -1,0 +1,15 @@
+{"sent": "gray hood on head", "ann_id": 1327242, "best_split": [1, 3], "split_score": 0.3874388254288622}
+{"sent": "boy with hood over head", "ann_id": 1327242, "best_split": [1, 3], "split_score": 0.3874388254288622}
+{"sent": "gray hoodie", "ann_id": 1327242, "best_split": [1, 3], "split_score": 0.3874388254288622}
+{"sent": "backpack", "ann_id": 1289884, "best_split": [1, 5], "split_score": 0.43084050294251813}
+{"sent": "sorry on last one backpack", "ann_id": 1289884, "best_split": [1, 5], "split_score": 0.43084050294251813}
+{"sent": "black coat", "ann_id": 1289884, "best_split": [2, 2], "split_score": 0.5066344993586674}
+{"sent": "pink", "ann_id": 1267076, "best_split": [1, 3], "split_score": 0.7026124298757835}
+{"sent": "pink and white shirt", "ann_id": 1267076, "best_split": [1, 3], "split_score": 0.7026124298757835}
+{"sent": "pink and white jacket", "ann_id": 1267076, "best_split": [1, 3], "split_score": 0.7026124298757835}
+{"sent": "train", "ann_id": 173397, "best_split": [3, 3], "split_score": 0.6113951788510965}
+{"sent": "train", "ann_id": 173397, "best_split": [3, 3], "split_score": 0.6113951788510965}
+{"sent": "train 9 o clock", "ann_id": 173397, "best_split": [3, 3], "split_score": 0.6113951788510965}
+{"sent": "white fence", "ann_id": 171857, "best_split": [1, 3], "split_score": 0.30833333331597224}
+{"sent": "vehicle that is being boarded near pink coat", "ann_id": 171857, "best_split": [1, 2], "split_score": 0.2654655612139084}
+{"sent": "train at 4", "ann_id": 171857, "best_split": [3, 1], "split_score": 0.4017857142614753}

@@ -1,0 +1,6 @@
+{"sent": "teddy bear with head looking down", "ann_id": 1162240, "best_split": [3, 3], "split_score": 0.4261036467701013}
+{"sent": "bear with white hat", "ann_id": 1162240, "best_split": [1, 3], "split_score": 0.20077510410685012}
+{"sent": "smaller bear with hat", "ann_id": 1162240, "best_split": [3, 1], "split_score": 0.20126150105889348}
+{"sent": "tall bear", "ann_id": 1161970, "best_split": [1, 3], "split_score": 0.5221096388401086}
+{"sent": "taller bear", "ann_id": 1161970, "best_split": [1, 3], "split_score": 0.5221096388401086}
+{"sent": "mamma teddy", "ann_id": 1161970, "best_split": [1, 3], "split_score": 0.5221096388401086}

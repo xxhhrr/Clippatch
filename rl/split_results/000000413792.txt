@@ -1,0 +1,10 @@
+{"sent": "person in white back to us talking to the balding guy in the suit", "ann_id": 1314037, "best_split": [1, 5], "split_score": 0.3652705374469467}
+{"sent": "man all white hair all white whirt", "ann_id": 1314037, "best_split": [3, 1], "split_score": 0.11071682043441565}
+{"sent": "white shirt gray hair facing away", "ann_id": 1314037, "best_split": [2, 3], "split_score": 0.5203124999419294}
+{"sent": "polka dots", "ann_id": 1275517, "best_split": [2, 3], "split_score": 0.4390822784313876}
+{"sent": "woman in blue polka dots", "ann_id": 1275517, "best_split": [2, 3], "split_score": 0.4390822784313876}
+{"sent": "pokadots", "ann_id": 1275517, "best_split": [3, 1], "split_score": 0.09478672985288335}
+{"sent": "red dress", "ann_id": 1257899, "best_split": [3, 3], "split_score": 0.5055302536588272}
+{"sent": "red flower dress", "ann_id": 1257899, "best_split": [3, 3], "split_score": 0.5055302536588272}
+{"sent": "pink dress near clock", "ann_id": 1257899, "best_split": [2, 3], "split_score": 0.456081081026052}
+{"sent": "person in white cut in half by post", "ann_id": 1247815, "best_split": [2, 2], "split_score": 0.28627232140575}

@@ -1,0 +1,8 @@
+{"sent": "red shirt", "ann_id": 1211172, "best_split": [1, 5], "split_score": 0.5610792828903087}
+{"sent": "man by woman", "ann_id": 1211172, "best_split": [1, 5], "split_score": 0.5610792828903087}
+{"sent": "woman pink shirt", "ann_id": 455257, "best_split": [2, 3], "split_score": 0.5888324872542928}
+{"sent": "woman in pink shirt", "ann_id": 455257, "best_split": [2, 3], "split_score": 0.5888324872542928}
+{"sent": "pink shirt", "ann_id": 455257, "best_split": [2, 3], "split_score": 0.5888324872542928}
+{"sent": "back of persons head wearing glasses", "ann_id": 431423, "best_split": [2, 2], "split_score": 0.7700892856528947}
+{"sent": "st little boyclose", "ann_id": 431423, "best_split": [2, 2], "split_score": 0.7700892856528947}
+{"sent": "kid maron shirt", "ann_id": 431423, "best_split": [2, 2], "split_score": 0.7700892856528947}

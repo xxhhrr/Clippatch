@@ -1,0 +1,6 @@
+{"sent": "man sitting", "ann_id": 438693, "best_split": [2, 3], "split_score": 0.5485327313253825}
+{"sent": "sitting man", "ann_id": 438693, "best_split": [2, 3], "split_score": 0.5485327313253825}
+{"sent": "person sitting with coffee", "ann_id": 438693, "best_split": [2, 3], "split_score": 0.5485327313253825}
+{"sent": "standing", "ann_id": 421723, "best_split": [1, 2], "split_score": 0.14095797451720474}
+{"sent": "standing", "ann_id": 421723, "best_split": [1, 2], "split_score": 0.14095797451720474}
+{"sent": "woiman", "ann_id": 421723, "best_split": [3, 3], "split_score": 0.3646408839234521}

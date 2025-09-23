@@ -1,0 +1,15 @@
+{"sent": "girl in red hoodie", "ann_id": 1315842, "best_split": [2, 2], "split_score": 0.45894451526953567}
+{"sent": "red shirt picking nose", "ann_id": 1315842, "best_split": [3, 2], "split_score": 0.42098340748472446}
+{"sent": "red hoddie", "ann_id": 1315842, "best_split": [2, 2], "split_score": 0.45894451526953567}
+{"sent": "maroon sweater n glasses", "ann_id": 1292567, "best_split": [2, 3], "split_score": 0.5997304581632912}
+{"sent": "girl in red and glasses", "ann_id": 1292567, "best_split": [2, 3], "split_score": 0.5997304581632912}
+{"sent": "lady with glasses looking over", "ann_id": 1292567, "best_split": [2, 3], "split_score": 0.5997304581632912}
+{"sent": "old man looking at us", "ann_id": 1284573, "best_split": [2, 3], "split_score": 0.7442708819807061}
+{"sent": "old man", "ann_id": 1284573, "best_split": [2, 3], "split_score": 0.7442708819807061}
+{"sent": "man", "ann_id": 1284573, "best_split": [2, 3], "split_score": 0.7442708819807061}
+{"sent": "light sweatshirt", "ann_id": 1200757, "best_split": [1, 5], "split_score": 0.3279694531345991}
+{"sent": "older woman", "ann_id": 1200757, "best_split": [3, 2], "split_score": 0.308108108085602}
+{"sent": "woman in white", "ann_id": 1200757, "best_split": [1, 3], "split_score": 0.3568838702809031}
+{"sent": "entire table", "ann_id": 390340, "best_split": [2, 1], "split_score": 0.7237871674221705}
+{"sent": "table people looking at the camera are sitting at", "ann_id": 390340, "best_split": [1, 2], "split_score": 0.41429488549985344}
+{"sent": "table closest to us", "ann_id": 390340, "best_split": [2, 1], "split_score": 0.7237871674221705}

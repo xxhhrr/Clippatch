@@ -1,0 +1,7 @@
+{"sent": "the cow whose head is down", "ann_id": 278528, "best_split": [3, 1], "split_score": 0.33550918034870864}
+{"sent": "cow with head down", "ann_id": 278528, "best_split": [3, 1], "split_score": 0.33550918034870864}
+{"sent": "cow infront", "ann_id": 278528, "best_split": [3, 1], "split_score": 0.33550918034870864}
+{"sent": "the sad cow", "ann_id": 278528, "best_split": [3, 1], "split_score": 0.33550918034870864}
+{"sent": "the more alert cow", "ann_id": 71167, "best_split": [1, 2], "split_score": 0.6249999999750877}
+{"sent": "one with more white on head", "ann_id": 71167, "best_split": [1, 2], "split_score": 0.6249999999750877}
+{"sent": "cow with head up", "ann_id": 71167, "best_split": [1, 2], "split_score": 0.6249999999750877}

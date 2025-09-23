@@ -1,0 +1,6 @@
+{"sent": "two windows", "ann_id": 249069, "best_split": [3, 2], "split_score": 0.539026998092821}
+{"sent": "side of train showing windows", "ann_id": 249069, "best_split": [3, 1], "split_score": 0.38208296556124965}
+{"sent": "train at 9 oclock", "ann_id": 249069, "best_split": [3, 1], "split_score": 0.38208296556124965}
+{"sent": "train you see the end of", "ann_id": 172905, "best_split": [3, 2], "split_score": 0.42725880547212297}
+{"sent": "train with yellow stripe", "ann_id": 172905, "best_split": [3, 2], "split_score": 0.42725880547212297}
+{"sent": "train with yellow", "ann_id": 172905, "best_split": [3, 2], "split_score": 0.42725880547212297}

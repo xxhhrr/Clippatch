@@ -1,0 +1,10 @@
+{"sent": "bus 1", "ann_id": 2050175, "best_split": [3, 2], "split_score": 0.46111239320781067}
+{"sent": "red bus nearest the white van you can barely see", "ann_id": 2050175, "best_split": [3, 3], "split_score": 0.682610180956165}
+{"sent": "back of bus", "ann_id": 2050175, "best_split": [3, 2], "split_score": 0.46111239320781067}
+{"sent": "smalest bus", "ann_id": 169256, "best_split": [2, 3], "split_score": 0.233596702137456}
+{"sent": "single level bus", "ann_id": 169256, "best_split": [2, 3], "split_score": 0.233596702137456}
+{"sent": "bus near trrain", "ann_id": 164609, "best_split": [1, 5], "split_score": 0.44577570254199844}
+{"sent": "bus with neon green", "ann_id": 164609, "best_split": [1, 5], "split_score": 0.44577570254199844}
+{"sent": "double bus with yellow sign", "ann_id": 164609, "best_split": [1, 5], "split_score": 0.44577570254199844}
+{"sent": "bus no 2", "ann_id": 164169, "best_split": [3, 3], "split_score": 0.6047091411904835}
+{"sent": "bus in the m", "ann_id": 164169, "best_split": [3, 3], "split_score": 0.6047091411904835}

@@ -1,0 +1,6 @@
+{"sent": "object west of chair", "ann_id": 1933088, "best_split": [3, 2], "split_score": 0.40263030883172896}
+{"sent": "a chair you can see the seat", "ann_id": 1933088, "best_split": [3, 2], "split_score": 0.40263030883172896}
+{"sent": "seasons at the cabinet", "ann_id": 1933088, "best_split": [3, 2], "split_score": 0.40263030883172896}
+{"sent": "chair back", "ann_id": 381257, "best_split": [3, 3], "split_score": 0.47424135489162994}
+{"sent": "chair", "ann_id": 381257, "best_split": [3, 3], "split_score": 0.47424135489162994}
+{"sent": "empty chair with back only visible", "ann_id": 381257, "best_split": [3, 3], "split_score": 0.47424135489162994}

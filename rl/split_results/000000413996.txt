@@ -1,0 +1,6 @@
+{"sent": "blue red and white boat", "ann_id": 1376152, "best_split": [3, 3], "split_score": 0.5981374098404256}
+{"sent": "the half boat", "ann_id": 1376152, "best_split": [3, 3], "split_score": 0.5981374098404256}
+{"sent": "partial tugboat", "ann_id": 1376152, "best_split": [3, 3], "split_score": 0.5981374098404256}
+{"sent": "wessels boat", "ann_id": 175746, "best_split": [5, 1], "split_score": 0.40044436844979964}
+{"sent": "blue and gray boat", "ann_id": 175746, "best_split": [5, 1], "split_score": 0.40044436844979964}
+{"sent": "wessels", "ann_id": 175746, "best_split": [5, 1], "split_score": 0.40044436844979964}

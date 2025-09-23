@@ -1,0 +1,6 @@
+{"sent": "man in gray jacket", "ann_id": 452859, "best_split": [3, 2], "split_score": 0.8865883446683042}
+{"sent": "boy", "ann_id": 452859, "best_split": [3, 2], "split_score": 0.8865883446683042}
+{"sent": "man", "ann_id": 452859, "best_split": [3, 2], "split_score": 0.8865883446683042}
+{"sent": "partially seen girl", "ann_id": 435391, "best_split": [3, 2], "split_score": 0.7079249217197159}
+{"sent": "woman at 2 o clock", "ann_id": 435391, "best_split": [3, 2], "split_score": 0.7079249217197159}
+{"sent": "woan", "ann_id": 435391, "best_split": [3, 1], "split_score": 0.3797404631178129}

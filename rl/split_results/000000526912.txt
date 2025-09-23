@@ -1,0 +1,6 @@
+{"sent": "dirt bike empty", "ann_id": 151883, "best_split": [2, 3], "split_score": 0.6627056672003306}
+{"sent": "bike by itself", "ann_id": 151883, "best_split": [2, 3], "split_score": 0.6627056672003306}
+{"sent": "not like the other bikes further away from them too", "ann_id": 151883, "best_split": [2, 2], "split_score": 0.4458794587603106}
+{"sent": "close bike", "ann_id": 149099, "best_split": [2, 3], "split_score": 0.6803017115675175}
+{"sent": "closest bike", "ann_id": 149099, "best_split": [1, 3], "split_score": 0.50187265914666}
+{"sent": "motorcycle at 6 o clock", "ann_id": 149099, "best_split": [2, 3], "split_score": 0.6803017115675175}

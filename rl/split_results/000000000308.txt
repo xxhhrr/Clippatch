@@ -1,0 +1,12 @@
+{"sent": "guy serving", "ann_id": 533096, "best_split": [1, 5], "split_score": 0.657647058775173}
+{"sent": "guy int the straw hat and the blue shirt with the bibs on", "ann_id": 533096, "best_split": [1, 5], "split_score": 0.657647058775173}
+{"sent": "guy in apron", "ann_id": 533096, "best_split": [1, 5], "split_score": 0.657647058775173}
+{"sent": "the man in the gray hat", "ann_id": 518350, "best_split": [2, 1], "split_score": 0.21888269393276658}
+{"sent": "man with gray hat with black stripe", "ann_id": 518350, "best_split": [2, 1], "split_score": 0.21888269393276658}
+{"sent": "guy in dark hat", "ann_id": 518350, "best_split": [2, 1], "split_score": 0.21888269393276658}
+{"sent": "blue shirt", "ann_id": 516907, "best_split": [1, 5], "split_score": 0.6328418617640328}
+{"sent": "lady blue", "ann_id": 516907, "best_split": [1, 3], "split_score": 0.7683397682934158}
+{"sent": "blond girl", "ann_id": 516907, "best_split": [1, 3], "split_score": 0.7683397682934158}
+{"sent": "guy sunglasses", "ann_id": 426807, "best_split": [1, 2], "split_score": 0.37954400508691233}
+{"sent": "man in tan and white striped bowling shirt and shades", "ann_id": 426807, "best_split": [2, 2], "split_score": 0.2534651215488829}
+{"sent": "white striped shirt", "ann_id": 426807, "best_split": [3, 1], "split_score": 0.14999559354234618}

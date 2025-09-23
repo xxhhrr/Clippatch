@@ -1,0 +1,6 @@
+{"sent": "the closed piece of luggage", "ann_id": 1184618, "best_split": [3, 3], "split_score": 0.6172802849439905}
+{"sent": "case nearest us", "ann_id": 1184618, "best_split": [1, 5], "split_score": 0.16311300638416745}
+{"sent": "unopened luggage", "ann_id": 1184618, "best_split": [3, 3], "split_score": 0.6172802849439905}
+{"sent": "screen", "ann_id": 1183587, "best_split": [3, 2], "split_score": 0.49901983843025016}
+{"sent": "open suitcase", "ann_id": 1183587, "best_split": [1, 2], "split_score": 0.39847369853994963}
+{"sent": "open suitcase", "ann_id": 1183587, "best_split": [1, 2], "split_score": 0.39847369853994963}

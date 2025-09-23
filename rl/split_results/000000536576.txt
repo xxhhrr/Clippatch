@@ -1,0 +1,6 @@
+{"sent": "zebra two legs showing", "ann_id": 591257, "best_split": [1, 2], "split_score": 0.3429095354392226}
+{"sent": "back zebra", "ann_id": 591257, "best_split": [3, 2], "split_score": 0.3626373626104368}
+{"sent": "half zebra", "ann_id": 591257, "best_split": [3, 2], "split_score": 0.3626373626104368}
+{"sent": "full zebra", "ann_id": 590038, "best_split": [1, 3], "split_score": 0.5413581077805593}
+{"sent": "the zebra with straight up ears", "ann_id": 590038, "best_split": [1, 3], "split_score": 0.5413581077805593}
+{"sent": "full zebra", "ann_id": 590038, "best_split": [1, 3], "split_score": 0.5413581077805593}

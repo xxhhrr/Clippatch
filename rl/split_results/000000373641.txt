@@ -1,0 +1,9 @@
+{"sent": "elephant that you cant see his trunk", "ann_id": 585461, "best_split": [3, 1], "split_score": 0.23246073297559983}
+{"sent": "background elephant", "ann_id": 585461, "best_split": [3, 1], "split_score": 0.23246073297559983}
+{"sent": "the elephant with no face showing", "ann_id": 585461, "best_split": [3, 1], "split_score": 0.23246073297559983}
+{"sent": "close elephant", "ann_id": 585318, "best_split": [1, 2], "split_score": 0.7409346587631891}
+{"sent": "one with bigger ear", "ann_id": 585318, "best_split": [1, 2], "split_score": 0.7409346587631891}
+{"sent": "elephant with the most seen trunk", "ann_id": 585318, "best_split": [1, 2], "split_score": 0.7409346587631891}
+{"sent": "elephant whose trunk is behind the other", "ann_id": 582036, "best_split": [2, 1], "split_score": 0.3395454321269155}
+{"sent": "elephant on same edge as sheep in last pic", "ann_id": 582036, "best_split": [2, 2], "split_score": 0.34699796963012025}
+{"sent": "elephant at 3 o clock", "ann_id": 582036, "best_split": [2, 1], "split_score": 0.3395454321269155}

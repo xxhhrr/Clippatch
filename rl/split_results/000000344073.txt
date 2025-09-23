@@ -1,0 +1,9 @@
+{"sent": "laptop with nonblack keys", "ann_id": 1104230, "best_split": [2, 1], "split_score": 0.36758609692412364}
+{"sent": "monitor next to standing speaker", "ann_id": 1104230, "best_split": [2, 2], "split_score": 0.7351721938189435}
+{"sent": "computer at 1100", "ann_id": 1104230, "best_split": [3, 2], "split_score": 0.5450454424649214}
+{"sent": "back darker laptop", "ann_id": 1103981, "best_split": [1, 2], "split_score": 0.3814572703929585}
+{"sent": "computer that is closest to the orange note pad", "ann_id": 1103981, "best_split": [2, 2], "split_score": 0.7629145407555075}
+{"sent": "computer with black keyboard in back", "ann_id": 1103981, "best_split": [2, 2], "split_score": 0.7629145407555075}
+{"sent": "computer closest to you", "ann_id": 1102619, "best_split": [1, 3], "split_score": 0.49916247903937877}
+{"sent": "nearest computer", "ann_id": 1102619, "best_split": [1, 3], "split_score": 0.49916247903937877}
+{"sent": "laptop closer", "ann_id": 1102619, "best_split": [1, 3], "split_score": 0.49916247903937877}

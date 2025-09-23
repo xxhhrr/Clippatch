@@ -1,0 +1,6 @@
+{"sent": "real person in green", "ann_id": 229516, "best_split": [2, 2], "split_score": 0.6998555102653451}
+{"sent": "in green jacket", "ann_id": 229516, "best_split": [2, 2], "split_score": 0.6998555102653451}
+{"sent": "green jacket", "ann_id": 229516, "best_split": [2, 2], "split_score": 0.6998555102653451}
+{"sent": "peace", "ann_id": 201723, "best_split": [1, 5], "split_score": 0.5176470587889274}
+{"sent": "character in black tee", "ann_id": 201723, "best_split": [1, 5], "split_score": 0.5176470587889274}
+{"sent": "black t shirt with john lennon", "ann_id": 201723, "best_split": [1, 5], "split_score": 0.5176470587889274}

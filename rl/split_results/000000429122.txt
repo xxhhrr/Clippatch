@@ -1,0 +1,9 @@
+{"sent": "guy laughing with hand onhead", "ann_id": 2207984, "best_split": [1, 2], "split_score": 0.2237330777457849}
+{"sent": "man with hand on head", "ann_id": 2207984, "best_split": [1, 2], "split_score": 0.2237330777457849}
+{"sent": "man hand on head", "ann_id": 2207984, "best_split": [1, 3], "split_score": 0.6123018641903947}
+{"sent": "tying tie", "ann_id": 488702, "best_split": [2, 1], "split_score": 0.4223477485209974}
+{"sent": "man actually doing tie", "ann_id": 488702, "best_split": [2, 1], "split_score": 0.4223477485209974}
+{"sent": "holding tie", "ann_id": 488702, "best_split": [2, 1], "split_score": 0.4223477485209974}
+{"sent": "is getting the tie tied", "ann_id": 442454, "best_split": [1, 3], "split_score": 0.7882403067326246}
+{"sent": "getting tied", "ann_id": 442454, "best_split": [1, 3], "split_score": 0.7882403067326246}
+{"sent": "the guy whos getting fitted", "ann_id": 442454, "best_split": [1, 3], "split_score": 0.7882403067326246}

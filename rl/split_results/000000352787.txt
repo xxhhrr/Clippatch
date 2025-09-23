@@ -1,0 +1,6 @@
+{"sent": "the cat underneath the other", "ann_id": 1402408, "best_split": [2, 2], "split_score": 0.2890510948754405}
+{"sent": "closest cat", "ann_id": 1402408, "best_split": [1, 3], "split_score": 0.27577639750329297}
+{"sent": "under cat", "ann_id": 1402408, "best_split": [1, 3], "split_score": 0.27577639750329297}
+{"sent": "cat", "ann_id": 50210, "best_split": [2, 1], "split_score": 0.5080193086068195}
+{"sent": "kitty above other one", "ann_id": 50210, "best_split": [2, 1], "split_score": 0.5080193086068195}
+{"sent": "original cat not reflection", "ann_id": 50210, "best_split": [2, 3], "split_score": 0.4153548386828803}

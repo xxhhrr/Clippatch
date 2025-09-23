@@ -1,0 +1,6 @@
+{"sent": "partial head with red shirt", "ann_id": 496704, "best_split": [2, 3], "split_score": 0.6234495669759595}
+{"sent": "person facing away from us", "ann_id": 496704, "best_split": [1, 5], "split_score": 0.4811049299365907}
+{"sent": "back of head", "ann_id": 496704, "best_split": [1, 5], "split_score": 0.4811049299365907}
+{"sent": "behind counter", "ann_id": 440986, "best_split": [3, 2], "split_score": 0.3912386706526501}
+{"sent": "striped shirt", "ann_id": 440986, "best_split": [3, 2], "split_score": 0.3912386706526501}
+{"sent": "seller", "ann_id": 440986, "best_split": [1, 5], "split_score": 0.30547030147089094}

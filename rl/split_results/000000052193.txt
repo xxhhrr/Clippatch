@@ -1,0 +1,6 @@
+{"sent": "blurr guy in blue shirt", "ann_id": 468126, "best_split": [1, 5], "split_score": 0.389380530934294}
+{"sent": "man in lightest blue shirt", "ann_id": 468126, "best_split": [1, 5], "split_score": 0.389380530934294}
+{"sent": "blurry man with blue shirt", "ann_id": 468126, "best_split": [1, 5], "split_score": 0.389380530934294}
+{"sent": "player", "ann_id": 423854, "best_split": [1, 2], "split_score": 0.5358544079287201}
+{"sent": "man in purple", "ann_id": 423854, "best_split": [2, 1], "split_score": 0.4488094176302326}
+{"sent": "guy", "ann_id": 423854, "best_split": [2, 1], "split_score": 0.4488094176302326}

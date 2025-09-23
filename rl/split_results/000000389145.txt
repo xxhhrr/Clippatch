@@ -1,0 +1,9 @@
+{"sent": "player walking close to man in suit", "ann_id": 2162902, "best_split": [2, 1], "split_score": 0.15831987075406945}
+{"sent": "player furthest away", "ann_id": 2162902, "best_split": [1, 5], "split_score": 0.6715101628866529}
+{"sent": "player near mascot", "ann_id": 1753852, "best_split": [1, 5], "split_score": 0.48572039025099917}
+{"sent": "mascot", "ann_id": 1676620, "best_split": [2, 3], "split_score": 0.8033775632485547}
+{"sent": "mascot", "ann_id": 1676620, "best_split": [2, 3], "split_score": 0.8033775632485547}
+{"sent": "orange", "ann_id": 1676620, "best_split": [2, 3], "split_score": 0.8033775632485547}
+{"sent": "man in suit", "ann_id": 450907, "best_split": [1, 3], "split_score": 0.6671090733188278}
+{"sent": "suit", "ann_id": 450907, "best_split": [1, 3], "split_score": 0.6671090733188278}
+{"sent": "owner", "ann_id": 450907, "best_split": [1, 2], "split_score": 0.44076849488039027}

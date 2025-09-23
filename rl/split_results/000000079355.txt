@@ -1,0 +1,10 @@
+{"sent": "biggest suitcase", "ann_id": 1186396, "best_split": [1, 2], "split_score": 0.2183011391710531}
+{"sent": "lowest trunk", "ann_id": 1186396, "best_split": [1, 2], "split_score": 0.2183011391710531}
+{"sent": "longest luggage", "ann_id": 1186396, "best_split": [1, 2], "split_score": 0.2183011391710531}
+{"sent": "biggest case", "ann_id": 1186396, "best_split": [1, 2], "split_score": 0.2183011391710531}
+{"sent": "medium sized suitcase", "ann_id": 1185949, "best_split": [3, 1], "split_score": 0.5794025156907343}
+{"sent": "not biggest not smallest", "ann_id": 1185949, "best_split": [1, 2], "split_score": 0.1929150522517203}
+{"sent": "middle size case", "ann_id": 1185949, "best_split": [3, 1], "split_score": 0.5794025156907343}
+{"sent": "the smallest case", "ann_id": 1184081, "best_split": [2, 3], "split_score": 0.40496377367003517}
+{"sent": "highest", "ann_id": 1184081, "best_split": [1, 3], "split_score": 0.16175955134236944}
+{"sent": "the higher suitcase", "ann_id": 1184081, "best_split": [3, 3], "split_score": 0.49524733263867626}

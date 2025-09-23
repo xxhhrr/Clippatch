@@ -1,0 +1,6 @@
+{"sent": "cow bisected with post", "ann_id": 75295, "best_split": [2, 2], "split_score": 0.5231357552181158}
+{"sent": "white cow", "ann_id": 75295, "best_split": [2, 2], "split_score": 0.5231357552181158}
+{"sent": "whittest cow", "ann_id": 75295, "best_split": [2, 2], "split_score": 0.5231357552181158}
+{"sent": "cow looking away from us", "ann_id": 73043, "best_split": [5, 1], "split_score": 0.2764741018622345}
+{"sent": "brown cow sideways", "ann_id": 73043, "best_split": [3, 3], "split_score": 0.32187929522405606}
+{"sent": "cow above fence post", "ann_id": 73043, "best_split": [3, 3], "split_score": 0.32187929522405606}

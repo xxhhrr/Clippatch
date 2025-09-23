@@ -1,0 +1,5 @@
+{"sent": "bear holding bars", "ann_id": 587559, "best_split": [1, 3], "split_score": 0.3463712827896139}
+{"sent": "standing bear", "ann_id": 587559, "best_split": [1, 5], "split_score": 0.4409830832785839}
+{"sent": "bear on bars", "ann_id": 587559, "best_split": [1, 5], "split_score": 0.4409830832785839}
+{"sent": "bear on fours", "ann_id": 587040, "best_split": [3, 3], "split_score": 0.4873646208836457}
+{"sent": "no hands on cage bear", "ann_id": 587040, "best_split": [3, 3], "split_score": 0.4873646208836457}

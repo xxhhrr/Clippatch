@@ -1,0 +1,4 @@
+{"sent": "100 chicken", "ann_id": 311664, "best_split": [2, 2], "split_score": 0.45342150658040387}
+{"sent": "righty sammich", "ann_id": 311664, "best_split": [1, 2], "split_score": 0.30596301019188604}
+{"sent": "sandwhich half enjoying the birghter sunlight", "ann_id": 308524, "best_split": [2, 2], "split_score": 0.4088677508124526}
+{"sent": "half of sandwhich closer to 900", "ann_id": 308524, "best_split": [2, 2], "split_score": 0.4088677508124526}

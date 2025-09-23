@@ -1,0 +1,6 @@
+{"sent": "little white screen tv", "ann_id": 35846, "best_split": [5, 1], "split_score": 0.12911247129599154}
+{"sent": "what next to the big tv", "ann_id": 35846, "best_split": [5, 1], "split_score": 0.12911247129599154}
+{"sent": "small tv next to big tv", "ann_id": 35846, "best_split": [5, 1], "split_score": 0.12911247129599154}
+{"sent": "biggest tv", "ann_id": 32479, "best_split": [2, 3], "split_score": 0.5575127333873607}
+{"sent": "largest tv", "ann_id": 32479, "best_split": [2, 3], "split_score": 0.5575127333873607}
+{"sent": "large console television backdropped by a door", "ann_id": 32479, "best_split": [2, 3], "split_score": 0.5575127333873607}

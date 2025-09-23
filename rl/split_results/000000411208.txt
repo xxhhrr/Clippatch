@@ -1,0 +1,8 @@
+{"sent": "brown sofa chair", "ann_id": 114654, "best_split": [3, 2], "split_score": 0.2993258426629971}
+{"sent": "dark red chair", "ann_id": 114654, "best_split": [3, 1], "split_score": 0.1549918547733889}
+{"sent": "almost hidden red chair", "ann_id": 114654, "best_split": [3, 3], "split_score": 0.43758212870604757}
+{"sent": "darker bigger couch", "ann_id": 112231, "best_split": [2, 2], "split_score": 0.6717381281180469}
+{"sent": "gray couch", "ann_id": 112231, "best_split": [2, 2], "split_score": 0.6717381281180469}
+{"sent": "pink", "ann_id": 98775, "best_split": [1, 3], "split_score": 0.50254055107961}
+{"sent": "main pink ouch", "ann_id": 98775, "best_split": [1, 3], "split_score": 0.50254055107961}
+{"sent": "pink chair", "ann_id": 98775, "best_split": [1, 3], "split_score": 0.50254055107961}

@@ -1,0 +1,6 @@
+{"sent": "whole bus", "ann_id": 2204149, "best_split": [5, 1], "split_score": 0.40084092498240703}
+{"sent": "bus", "ann_id": 2204149, "best_split": [5, 1], "split_score": 0.40084092498240703}
+{"sent": "bus shown completely", "ann_id": 2204149, "best_split": [5, 1], "split_score": 0.40084092498240703}
+{"sent": "closest bus", "ann_id": 2204132, "best_split": [1, 5], "split_score": 0.5952133194025907}
+{"sent": "only half of bus face", "ann_id": 2204132, "best_split": [1, 5], "split_score": 0.5952133194025907}
+{"sent": "bus partially visible", "ann_id": 2204132, "best_split": [1, 5], "split_score": 0.5952133194025907}

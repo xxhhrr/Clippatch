@@ -1,0 +1,6 @@
+{"sent": "bottle with barcode showing", "ann_id": 97523, "best_split": [2, 3], "split_score": 0.3314853314470449}
+{"sent": "glass with upc showing", "ann_id": 97523, "best_split": [2, 3], "split_score": 0.3314853314470449}
+{"sent": "bottle close to us that doesnt have water in it", "ann_id": 97523, "best_split": [2, 3], "split_score": 0.3314853314470449}
+{"sent": "vase without label", "ann_id": 93672, "best_split": [1, 5], "split_score": 0.29047186930213503}
+{"sent": "bottle with no label showing", "ann_id": 93672, "best_split": [1, 5], "split_score": 0.29047186930213503}
+{"sent": "no writing or bar code can be seen on this one", "ann_id": 93672, "best_split": [2, 2], "split_score": 0.2879122552907371}

@@ -1,0 +1,6 @@
+{"sent": "bench arm where girls head is resting", "ann_id": 2062106, "best_split": [2, 1], "split_score": 0.5401915572706566}
+{"sent": "bench beneath girl", "ann_id": 2062106, "best_split": [2, 1], "split_score": 0.5401915572706566}
+{"sent": "metal part under head", "ann_id": 2062106, "best_split": [1, 2], "split_score": 0.3306975603674544}
+{"sent": "bench area above girl leg", "ann_id": 575349, "best_split": [3, 1], "split_score": 0.4009118360944724}
+{"sent": "the girl is lying on it", "ann_id": 575349, "best_split": [3, 1], "split_score": 0.4009118360944724}
+{"sent": "bench above legs", "ann_id": 575349, "best_split": [3, 1], "split_score": 0.4009118360944724}

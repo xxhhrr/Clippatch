@@ -1,0 +1,9 @@
+{"sent": "woman next to man in blue shirt", "ann_id": 2165179, "best_split": [2, 3], "split_score": 0.4102384291365499}
+{"sent": "nearest girl", "ann_id": 2165179, "best_split": [2, 2], "split_score": 0.42146450528078083}
+{"sent": "woman looking at camera", "ann_id": 2165179, "best_split": [2, 2], "split_score": 0.42146450528078083}
+{"sent": "woman arms crossed", "ann_id": 1329801, "best_split": [2, 1], "split_score": 0.1806330038772206}
+{"sent": "woman brown hair arms folded", "ann_id": 1329801, "best_split": [2, 1], "split_score": 0.1806330038772206}
+{"sent": "woman in gray shirt facing away", "ann_id": 1329801, "best_split": [2, 1], "split_score": 0.1806330038772206}
+{"sent": "man blue stripe with woman", "ann_id": 1272508, "best_split": [2, 3], "split_score": 0.5171752237788073}
+{"sent": "man", "ann_id": 1272508, "best_split": [2, 3], "split_score": 0.5171752237788073}
+{"sent": "man in blue", "ann_id": 1272508, "best_split": [2, 3], "split_score": 0.5171752237788073}

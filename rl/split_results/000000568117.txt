@@ -1,0 +1,15 @@
+{"sent": "smaller black cat", "ann_id": 1817307, "best_split": [1, 3], "split_score": 0.23912191296191287}
+{"sent": "black pussy nearest hand", "ann_id": 1817307, "best_split": [3, 3], "split_score": 0.6319372501654673}
+{"sent": "black cat by arm", "ann_id": 1817307, "best_split": [3, 3], "split_score": 0.6319372501654673}
+{"sent": "white cat", "ann_id": 1402249, "best_split": [3, 2], "split_score": 0.5626357711293777}
+{"sent": "white cat", "ann_id": 1402249, "best_split": [3, 2], "split_score": 0.5626357711293777}
+{"sent": "white cat", "ann_id": 1402249, "best_split": [3, 2], "split_score": 0.5626357711293777}
+{"sent": "black cat not near white cat", "ann_id": 49596, "best_split": [3, 1], "split_score": 0.6418989787114602}
+{"sent": "closest cat", "ann_id": 49596, "best_split": [3, 1], "split_score": 0.6418989787114602}
+{"sent": "closest cat", "ann_id": 49596, "best_split": [3, 1], "split_score": 0.6418989787114602}
+{"sent": "between the other cats", "ann_id": 48797, "best_split": [3, 3], "split_score": 0.6138819001607396}
+{"sent": "black cat near white cat", "ann_id": 48797, "best_split": [1, 3], "split_score": 0.23228985830585822}
+{"sent": "black cat behind black cat lol", "ann_id": 48797, "best_split": [1, 3], "split_score": 0.23228985830585822}
+{"sent": "biggest black cat", "ann_id": 17450, "best_split": [3, 1], "split_score": 0.6513039805378891}
+{"sent": "black cat closest to you", "ann_id": 17450, "best_split": [3, 1], "split_score": 0.6513039805378891}
+{"sent": "black kitteh furthest from the white", "ann_id": 17450, "best_split": [3, 1], "split_score": 0.6513039805378891}

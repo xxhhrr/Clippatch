@@ -1,0 +1,8 @@
+{"sent": "brown bowl of paste", "ann_id": 717057, "best_split": [2, 2], "split_score": 0.15871369293429805}
+{"sent": "partially shown pie crust", "ann_id": 717057, "best_split": [2, 2], "split_score": 0.15871369293429805}
+{"sent": "bowl of greens", "ann_id": 715137, "best_split": [3, 3], "split_score": 0.6393241585176013}
+{"sent": "broccoli", "ann_id": 715137, "best_split": [3, 3], "split_score": 0.6393241585176013}
+{"sent": "bowl with salad", "ann_id": 715137, "best_split": [3, 3], "split_score": 0.6393241585176013}
+{"sent": "bowl with meat", "ann_id": 711260, "best_split": [1, 2], "split_score": 0.6259463315777103}
+{"sent": "meat in bowl", "ann_id": 711260, "best_split": [1, 2], "split_score": 0.6259463315777103}
+{"sent": "bowl with brown stuff", "ann_id": 711260, "best_split": [1, 2], "split_score": 0.6259463315777103}

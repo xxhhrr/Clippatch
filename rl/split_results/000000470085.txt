@@ -1,0 +1,6 @@
+{"sent": "tusks", "ann_id": 582074, "best_split": [1, 2], "split_score": 0.625409836049554}
+{"sent": "elephant showing tusks", "ann_id": 582074, "best_split": [1, 2], "split_score": 0.625409836049554}
+{"sent": "tusks", "ann_id": 582074, "best_split": [1, 2], "split_score": 0.625409836049554}
+{"sent": "no tusk elephant", "ann_id": 581063, "best_split": [2, 1], "split_score": 0.282007227907992}
+{"sent": "smaller elephant", "ann_id": 581063, "best_split": [2, 1], "split_score": 0.282007227907992}
+{"sent": "elephant with no tusk showing", "ann_id": 581063, "best_split": [2, 1], "split_score": 0.282007227907992}

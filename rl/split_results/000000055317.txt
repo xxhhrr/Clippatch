@@ -1,0 +1,6 @@
+{"sent": "guy in black tshirt", "ann_id": 451302, "best_split": [3, 1], "split_score": 0.21486457203835907}
+{"sent": "blue shirt and shorts", "ann_id": 451302, "best_split": [1, 3], "split_score": 0.5048851191483312}
+{"sent": "man not touching frisbee", "ann_id": 451302, "best_split": [1, 3], "split_score": 0.5048851191483312}
+{"sent": "man in white shirt", "ann_id": 425000, "best_split": [1, 5], "split_score": 0.5858992301796799}
+{"sent": "white shirt", "ann_id": 425000, "best_split": [1, 5], "split_score": 0.5858992301796799}
+{"sent": "hes got it", "ann_id": 425000, "best_split": [1, 5], "split_score": 0.5858992301796799}

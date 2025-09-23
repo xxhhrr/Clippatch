@@ -1,0 +1,8 @@
+{"sent": "zebra laying down", "ann_id": 1823043, "best_split": [3, 1], "split_score": 0.1999441028395783}
+{"sent": "sitting", "ann_id": 1823043, "best_split": [1, 2], "split_score": 0.19495376274733123}
+{"sent": "grounded zebra", "ann_id": 1823043, "best_split": [3, 1], "split_score": 0.1999441028395783}
+{"sent": "the zebra in the background standing", "ann_id": 1822546, "best_split": [2, 2], "split_score": 0.2992705949442741}
+{"sent": "zebra not on ground and not fully seen", "ann_id": 1822546, "best_split": [2, 2], "split_score": 0.2992705949442741}
+{"sent": "zebra standing in background", "ann_id": 1822546, "best_split": [2, 2], "split_score": 0.2992705949442741}
+{"sent": "the main zebra in focus", "ann_id": 592099, "best_split": [1, 3], "split_score": 0.6683526011215755}
+{"sent": "zebra closest to camera", "ann_id": 592099, "best_split": [1, 3], "split_score": 0.6683526011215755}

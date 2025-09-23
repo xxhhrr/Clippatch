@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 465624, "best_split": [1, 2], "split_score": 0.58035714283401}
+{"sent": "man in light blue", "ann_id": 465624, "best_split": [1, 2], "split_score": 0.58035714283401}
+{"sent": "man", "ann_id": 465624, "best_split": [2, 2], "split_score": 0.49382716046661007}
+{"sent": "woman holding tablet", "ann_id": 461515, "best_split": [2, 1], "split_score": 0.4460587326022067}
+{"sent": "blurry lady in flower shirt", "ann_id": 461515, "best_split": [1, 2], "split_score": 0.6032313341345598}
+{"sent": "female holding device", "ann_id": 461515, "best_split": [1, 2], "split_score": 0.6032313341345598}

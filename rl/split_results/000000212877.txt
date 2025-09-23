@@ -1,0 +1,6 @@
+{"sent": "cat", "ann_id": 673395, "best_split": [3, 2], "split_score": 0.4747990104765925}
+{"sent": "cat", "ann_id": 673395, "best_split": [3, 2], "split_score": 0.4747990104765925}
+{"sent": "mug with the cat", "ann_id": 673395, "best_split": [3, 3], "split_score": 0.4107545533034905}
+{"sent": "dog", "ann_id": 670491, "best_split": [1, 2], "split_score": 0.5534857465229507}
+{"sent": "dog", "ann_id": 670491, "best_split": [1, 2], "split_score": 0.5534857465229507}
+{"sent": "dog cup", "ann_id": 670491, "best_split": [1, 2], "split_score": 0.5534857465229507}

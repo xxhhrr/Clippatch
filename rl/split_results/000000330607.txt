@@ -1,0 +1,6 @@
+{"sent": "milk behind hand", "ann_id": 2093241, "best_split": [2, 3], "split_score": 0.2967685205213488}
+{"sent": "milk by the hand", "ann_id": 2093241, "best_split": [2, 3], "split_score": 0.2967685205213488}
+{"sent": "milk", "ann_id": 2093241, "best_split": [2, 3], "split_score": 0.2967685205213488}
+{"sent": "the milk jug with less in it", "ann_id": 1870880, "best_split": [5, 1], "split_score": 0.21992801664899336}
+{"sent": "almost empty milk with full milks behind", "ann_id": 1870880, "best_split": [5, 1], "split_score": 0.21992801664899336}
+{"sent": "highest jug of milk that is almost empty", "ann_id": 1870880, "best_split": [5, 1], "split_score": 0.21992801664899336}

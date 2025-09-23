@@ -1,0 +1,6 @@
+{"sent": "standing", "ann_id": 590937, "best_split": [3, 3], "split_score": 0.3907170922899414}
+{"sent": "standing zebra", "ann_id": 590937, "best_split": [3, 3], "split_score": 0.3907170922899414}
+{"sent": "zebra standing", "ann_id": 590937, "best_split": [2, 3], "split_score": 0.343150294476235}
+{"sent": "zebra laying down", "ann_id": 589681, "best_split": [3, 2], "split_score": 0.3700724054334199}
+{"sent": "baby", "ann_id": 589681, "best_split": [3, 3], "split_score": 0.45950323967879275}
+{"sent": "lying down", "ann_id": 589681, "best_split": [3, 3], "split_score": 0.45950323967879275}

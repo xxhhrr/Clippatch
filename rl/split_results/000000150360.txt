@@ -1,0 +1,6 @@
+{"sent": "zebra drinking", "ann_id": 590798, "best_split": [2, 2], "split_score": 0.6204933585969821}
+{"sent": "eating zebra", "ann_id": 590798, "best_split": [2, 2], "split_score": 0.6204933585969821}
+{"sent": "large zebra", "ann_id": 590798, "best_split": [2, 2], "split_score": 0.6204933585969821}
+{"sent": "baby zebra", "ann_id": 590572, "best_split": [3, 1], "split_score": 0.26796883571447555}
+{"sent": "zebra not eating", "ann_id": 590572, "best_split": [3, 1], "split_score": 0.26796883571447555}
+{"sent": "zebra in field", "ann_id": 590572, "best_split": [3, 1], "split_score": 0.26796883571447555}

@@ -1,0 +1,12 @@
+{"sent": "gray case standing up", "ann_id": 1187755, "best_split": [3, 3], "split_score": 0.7060155238185615}
+{"sent": "gray case on the floor", "ann_id": 1187755, "best_split": [3, 3], "split_score": 0.7060155238185615}
+{"sent": "green suitcase standing up", "ann_id": 1187755, "best_split": [3, 3], "split_score": 0.7060155238185615}
+{"sent": "small black luggage on table", "ann_id": 1187148, "best_split": [2, 2], "split_score": 0.27678571426364906}
+{"sent": "bag on the bench that is closest to us", "ann_id": 1187148, "best_split": [2, 2], "split_score": 0.27678571426364906}
+{"sent": "smaller black suitcase on couch", "ann_id": 1187148, "best_split": [2, 3], "split_score": 0.4093959731052977}
+{"sent": "suitcase on bench closest to the window", "ann_id": 1186715, "best_split": [3, 2], "split_score": 0.37213781292829684}
+{"sent": "suitcase by the curtain", "ann_id": 1186715, "best_split": [3, 2], "split_score": 0.37213781292829684}
+{"sent": "black suitcase on bench", "ann_id": 1186715, "best_split": [3, 2], "split_score": 0.37213781292829684}
+{"sent": "purple", "ann_id": 1185403, "best_split": [3, 2], "split_score": 0.48791208787379026}
+{"sent": "purple", "ann_id": 1185403, "best_split": [3, 2], "split_score": 0.48791208787379026}
+{"sent": "reddish purple suitcase", "ann_id": 1185403, "best_split": [3, 2], "split_score": 0.48791208787379026}

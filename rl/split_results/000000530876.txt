@@ -1,0 +1,4 @@
+{"sent": "car behind stop sign", "ann_id": 360587, "best_split": [1, 2], "split_score": 0.26055488539427946}
+{"sent": "car beneath stop sign", "ann_id": 355733, "best_split": [1, 3], "split_score": 0.21129441623527545}
+{"sent": "car cut by stop sign", "ann_id": 355733, "best_split": [1, 3], "split_score": 0.21129441623527545}
+{"sent": "car immediately behind stop sign", "ann_id": 355733, "best_split": [1, 3], "split_score": 0.21129441623527545}

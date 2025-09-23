@@ -1,0 +1,11 @@
+{"sent": "the creme pie", "ann_id": 1074845, "best_split": [1, 3], "split_score": 0.15400904251393527}
+{"sent": "pizza not pepperoni", "ann_id": 1074845, "best_split": [1, 3], "split_score": 0.15400904251393527}
+{"sent": "white pizza", "ann_id": 1074845, "best_split": [1, 3], "split_score": 0.15400904251393527}
+{"sent": "peperoni pizza", "ann_id": 1074786, "best_split": [2, 1], "split_score": 0.8292787943728281}
+{"sent": "pizza with pepperoni", "ann_id": 1074786, "best_split": [2, 1], "split_score": 0.8292787943728281}
+{"sent": "pepperoni pizza", "ann_id": 1074786, "best_split": [2, 1], "split_score": 0.8292787943728281}
+{"sent": "empty cup with ice and straw", "ann_id": 678242, "best_split": [1, 5], "split_score": 0.27902321854693524}
+{"sent": "glass black straw", "ann_id": 678242, "best_split": [1, 5], "split_score": 0.27902321854693524}
+{"sent": "short glass", "ann_id": 674306, "best_split": [2, 3], "split_score": 0.21328958159928635}
+{"sent": "cup of water slightly off screen", "ann_id": 674306, "best_split": [2, 3], "split_score": 0.21328958159928635}
+{"sent": "glass with candle in it", "ann_id": 674306, "best_split": [3, 3], "split_score": 0.2639959771599068}

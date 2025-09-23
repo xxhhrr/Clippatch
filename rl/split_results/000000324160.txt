@@ -1,0 +1,6 @@
+{"sent": "animal woman is touching it", "ann_id": 274018, "best_split": [2, 2], "split_score": 0.6043248216697856}
+{"sent": "horse being petted by girl", "ann_id": 274018, "best_split": [2, 2], "split_score": 0.6043248216697856}
+{"sent": "brown", "ann_id": 274018, "best_split": [2, 2], "split_score": 0.6043248216697856}
+{"sent": "darker", "ann_id": 59101, "best_split": [1, 5], "split_score": 0.5001960015189929}
+{"sent": "brownest horse", "ann_id": 59101, "best_split": [2, 3], "split_score": 0.5746046297760022}
+{"sent": "dark horse and no person", "ann_id": 59101, "best_split": [2, 3], "split_score": 0.5746046297760022}

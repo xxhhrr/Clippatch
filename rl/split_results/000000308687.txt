@@ -1,0 +1,5 @@
+{"sent": "sitting girl", "ann_id": 200559, "best_split": [5, 1], "split_score": 0.20327272725424791}
+{"sent": "girl sitting", "ann_id": 200559, "best_split": [5, 1], "split_score": 0.20327272725424791}
+{"sent": "little girl with pink shirt", "ann_id": 196176, "best_split": [1, 2], "split_score": 0.562420280589827}
+{"sent": "pink girl standing up", "ann_id": 196176, "best_split": [1, 2], "split_score": 0.562420280589827}
+{"sent": "pink skull shirt", "ann_id": 196176, "best_split": [1, 2], "split_score": 0.562420280589827}

@@ -1,0 +1,6 @@
+{"sent": "face on train", "ann_id": 171485, "best_split": [2, 2], "split_score": 0.4431200965266204}
+{"sent": "train coming at u", "ann_id": 171485, "best_split": [2, 2], "split_score": 0.4431200965266204}
+{"sent": "train without big green area", "ann_id": 171485, "best_split": [2, 2], "split_score": 0.4431200965266204}
+{"sent": "no white circle", "ann_id": 169754, "best_split": [3, 3], "split_score": 0.3123748497780837}
+{"sent": "green train face", "ann_id": 169754, "best_split": [2, 3], "split_score": 0.5254584941450943}
+{"sent": "train with big green square", "ann_id": 169754, "best_split": [2, 3], "split_score": 0.5254584941450943}

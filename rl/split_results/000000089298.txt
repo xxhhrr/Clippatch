@@ -1,0 +1,5 @@
+{"sent": "bench near cut off woman", "ann_id": 576128, "best_split": [5, 1], "split_score": 0.34461419451318753}
+{"sent": "bench in between the two people", "ann_id": 576128, "best_split": [2, 3], "split_score": 0.3881638163379654}
+{"sent": "bench with a bag", "ann_id": 575965, "best_split": [2, 2], "split_score": 0.39381377547880947}
+{"sent": "empty bench", "ann_id": 575965, "best_split": [5, 1], "split_score": 0.3937452900910187}
+{"sent": "lefty bench", "ann_id": 575965, "best_split": [5, 1], "split_score": 0.3937452900910187}

@@ -1,0 +1,5 @@
+{"sent": "small truck", "ann_id": 401265, "best_split": [3, 3], "split_score": 0.3884940777684443}
+{"sent": "truck you can barely see can see the cab on edge", "ann_id": 401265, "best_split": [3, 3], "split_score": 0.3884940777684443}
+{"sent": "trash truck", "ann_id": 398435, "best_split": [1, 2], "split_score": 0.4850288264702827}
+{"sent": "dumpster dumping", "ann_id": 398435, "best_split": [1, 2], "split_score": 0.4850288264702827}
+{"sent": "whole white truck", "ann_id": 398435, "best_split": [1, 2], "split_score": 0.4850288264702827}

@@ -1,0 +1,6 @@
+{"sent": "17", "ann_id": 470499, "best_split": [2, 1], "split_score": 0.37415745792163424}
+{"sent": "black jacket", "ann_id": 470499, "best_split": [1, 2], "split_score": 0.5041658301419352}
+{"sent": "a girl with a dark shirt on", "ann_id": 470499, "best_split": [1, 2], "split_score": 0.5041658301419352}
+{"sent": "purple shirt", "ann_id": 456245, "best_split": [2, 3], "split_score": 0.6898550724012812}
+{"sent": "red", "ann_id": 456245, "best_split": [2, 1], "split_score": 0.2943925233537386}
+{"sent": "purple", "ann_id": 456245, "best_split": [2, 1], "split_score": 0.2943925233537386}

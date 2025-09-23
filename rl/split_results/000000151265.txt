@@ -1,0 +1,6 @@
+{"sent": "black bike partial view", "ann_id": 150842, "best_split": [3, 2], "split_score": 0.5476683112726668}
+{"sent": "secondary motorcycle", "ann_id": 150842, "best_split": [3, 2], "split_score": 0.5476683112726668}
+{"sent": "black motor cycle", "ann_id": 150842, "best_split": [3, 2], "split_score": 0.5476683112726668}
+{"sent": "res cycle", "ann_id": 150785, "best_split": [3, 1], "split_score": 0.3536413092376652}
+{"sent": "red bike", "ann_id": 150785, "best_split": [1, 3], "split_score": 0.41665880279271933}
+{"sent": "red bike", "ann_id": 150785, "best_split": [1, 3], "split_score": 0.41665880279271933}

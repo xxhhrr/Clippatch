@@ -1,0 +1,6 @@
+{"sent": "sandwich half opposite jalapeno", "ann_id": 1553718, "best_split": [3, 2], "split_score": 0.48092904320467406}
+{"sent": "sandwhich not by the green pepper", "ann_id": 1553718, "best_split": [3, 2], "split_score": 0.48092904320467406}
+{"sent": "half not near pepper", "ann_id": 1553718, "best_split": [2, 1], "split_score": 0.09819352530501901}
+{"sent": "sandwich near pepper", "ann_id": 310474, "best_split": [3, 3], "split_score": 0.5530507227942844}
+{"sent": "half of sandwich closet to pepper", "ann_id": 310474, "best_split": [3, 3], "split_score": 0.5530507227942844}
+{"sent": "sandwich by pepper", "ann_id": 310474, "best_split": [3, 1], "split_score": 0.3315412186194253}

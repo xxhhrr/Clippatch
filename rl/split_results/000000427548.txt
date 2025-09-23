@@ -1,0 +1,8 @@
+{"sent": "end computer screens", "ann_id": 124089, "best_split": [5, 1], "split_score": 0.5066836887573833}
+{"sent": "the edge screens any", "ann_id": 124089, "best_split": [5, 1], "split_score": 0.5066836887573833}
+{"sent": "screens on the end", "ann_id": 124089, "best_split": [5, 1], "split_score": 0.5066836887573833}
+{"sent": "tallest screen", "ann_id": 35572, "best_split": [2, 2], "split_score": 0.2126913265136566}
+{"sent": "large computer screen", "ann_id": 35572, "best_split": [2, 2], "split_score": 0.2126913265136566}
+{"sent": "tallest monitor", "ann_id": 35572, "best_split": [2, 2], "split_score": 0.2126913265136566}
+{"sent": "monitor by keyboard", "ann_id": 34167, "best_split": [3, 3], "split_score": 0.1407109920956848}
+{"sent": "monitor closest to keypad and small", "ann_id": 34167, "best_split": [3, 3], "split_score": 0.1407109920956848}

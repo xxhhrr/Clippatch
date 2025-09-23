@@ -1,0 +1,6 @@
+{"sent": "couch against the wall", "ann_id": 117433, "best_split": [3, 2], "split_score": 0.41197988108428746}
+{"sent": "sofa", "ann_id": 117433, "best_split": [3, 2], "split_score": 0.41197988108428746}
+{"sent": "couch near wall", "ann_id": 117433, "best_split": [3, 2], "split_score": 0.41197988108428746}
+{"sent": "chaise part of sofa", "ann_id": 116872, "best_split": [1, 2], "split_score": 0.2999840561104917}
+{"sent": "mostly white pillow", "ann_id": 116872, "best_split": [2, 2], "split_score": 0.5732538997747704}
+{"sent": "couch at 700", "ann_id": 116872, "best_split": [1, 2], "split_score": 0.2999840561104917}

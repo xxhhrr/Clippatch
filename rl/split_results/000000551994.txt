@@ -1,0 +1,7 @@
+{"sent": "ferns in absolute corner near letter a", "ann_id": 2128315, "best_split": [1, 5], "split_score": 0.3826086956143667}
+{"sent": "leaf at 1 o clock", "ann_id": 2128315, "best_split": [3, 3], "split_score": 0.5483247421797157}
+{"sent": "leaf of plant closest to cats back", "ann_id": 1610129, "best_split": [2, 2], "split_score": 0.5359534438348251}
+{"sent": "leaves behind cat", "ann_id": 1610129, "best_split": [2, 2], "split_score": 0.5359534438348251}
+{"sent": "big leaves by cat", "ann_id": 1610129, "best_split": [3, 1], "split_score": 0.34637388036137684}
+{"sent": "leaf behind table in corner", "ann_id": 1609783, "best_split": [2, 3], "split_score": 0.6275899086819549}
+{"sent": "plant 110clock", "ann_id": 1609783, "best_split": [3, 3], "split_score": 0.7967408699553701}

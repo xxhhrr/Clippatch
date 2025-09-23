@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 2161220, "best_split": [1, 5], "split_score": 0.4055565914221931}
+{"sent": "a man at a kiosk", "ann_id": 2161220, "best_split": [2, 3], "split_score": 0.40943238726946657}
+{"sent": "man", "ann_id": 2161220, "best_split": [1, 5], "split_score": 0.4055565914221931}
+{"sent": "purple shirt", "ann_id": 1710629, "best_split": [2, 3], "split_score": 0.4305663304410322}
+{"sent": "girl waiting", "ann_id": 1710629, "best_split": [1, 5], "split_score": 0.3266129031958749}
+{"sent": "purple dress", "ann_id": 1710629, "best_split": [2, 3], "split_score": 0.4305663304410322}

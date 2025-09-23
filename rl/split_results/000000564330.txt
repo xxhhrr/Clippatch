@@ -1,0 +1,6 @@
+{"sent": "laying down", "ann_id": 1402439, "best_split": [3, 2], "split_score": 0.4613309351999403}
+{"sent": "animal facing the door", "ann_id": 1402439, "best_split": [2, 1], "split_score": 0.0481148002234062}
+{"sent": "white cat", "ann_id": 1402439, "best_split": [2, 1], "split_score": 0.12639854852863627}
+{"sent": "bown white cat close", "ann_id": 48649, "best_split": [2, 2], "split_score": 0.6269694987438629}
+{"sent": "gray and black cat", "ann_id": 48649, "best_split": [2, 2], "split_score": 0.6269694987438629}
+{"sent": "cat with darker coloring", "ann_id": 48649, "best_split": [2, 2], "split_score": 0.6269694987438629}

@@ -1,0 +1,6 @@
+{"sent": "giraffe highest", "ann_id": 600849, "best_split": [3, 2], "split_score": 0.3811813186485936}
+{"sent": "zebra head higher", "ann_id": 600849, "best_split": [3, 2], "split_score": 0.3811813186485936}
+{"sent": "giraffe closer to edge", "ann_id": 600849, "best_split": [3, 2], "split_score": 0.3811813186485936}
+{"sent": "giraffe facing the other one", "ann_id": 600595, "best_split": [1, 3], "split_score": 0.42993630570803365}
+{"sent": "giraffe blocking rodk pile", "ann_id": 600595, "best_split": [2, 3], "split_score": 0.48694424836918276}
+{"sent": "giraffe near trees", "ann_id": 600595, "best_split": [1, 3], "split_score": 0.42993630570803365}

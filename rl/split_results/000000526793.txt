@@ -1,0 +1,6 @@
+{"sent": "bed by mirror", "ann_id": 316549, "best_split": [2, 1], "split_score": 0.43877551018659217}
+{"sent": "bed near lamp", "ann_id": 316549, "best_split": [2, 1], "split_score": 0.43877551018659217}
+{"sent": "the bed with a lamp", "ann_id": 316549, "best_split": [2, 1], "split_score": 0.43877551018659217}
+{"sent": "closest bed", "ann_id": 315768, "best_split": [3, 1], "split_score": 0.8022777412913793}
+{"sent": "the sheet on the closest bed", "ann_id": 315768, "best_split": [3, 1], "split_score": 0.8022777412913793}
+{"sent": "bed away from mirror", "ann_id": 315768, "best_split": [2, 1], "split_score": 0.5440848214068844}

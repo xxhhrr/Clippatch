@@ -1,0 +1,11 @@
+{"sent": "police near", "ann_id": 1304608, "best_split": [1, 5], "split_score": 0.6383928570780851}
+{"sent": "police closest to us", "ann_id": 1304608, "best_split": [1, 5], "split_score": 0.6383928570780851}
+{"sent": "red backpack", "ann_id": 1299693, "best_split": [3, 3], "split_score": 0.3455925276786934}
+{"sent": "man with red back pack", "ann_id": 1299693, "best_split": [3, 3], "split_score": 0.3455925276786934}
+{"sent": "man with red backpack", "ann_id": 1299693, "best_split": [3, 3], "split_score": 0.3455925276786934}
+{"sent": "clostest person with back facing us", "ann_id": 1217325, "best_split": [1, 2], "split_score": 0.46346050508699393}
+{"sent": "behind police", "ann_id": 1217325, "best_split": [2, 2], "split_score": 0.46955772541817586}
+{"sent": "back of main closest", "ann_id": 1217325, "best_split": [2, 2], "split_score": 0.46955772541817586}
+{"sent": "man in black coat under the sign", "ann_id": 1316253, "best_split": [3, 3], "split_score": 0.33561218142703353}
+{"sent": "the darkest person", "ann_id": 1316253, "best_split": [3, 1], "split_score": 0.1231751824747277}
+{"sent": "man out of frame at nine", "ann_id": 1316253, "best_split": [2, 1], "split_score": 0.0398112651120683}

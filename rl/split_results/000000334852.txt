@@ -1,0 +1,6 @@
+{"sent": "cathcer", "ann_id": 549099, "best_split": [1, 2], "split_score": 0.11862244897486358}
+{"sent": "catcher", "ann_id": 549099, "best_split": [1, 5], "split_score": 0.24703595721603147}
+{"sent": "player kneeling", "ann_id": 549099, "best_split": [1, 5], "split_score": 0.24703595721603147}
+{"sent": "batter", "ann_id": 533047, "best_split": [3, 3], "split_score": 0.503116147237519}
+{"sent": "baseball player swinging bat", "ann_id": 533047, "best_split": [3, 3], "split_score": 0.503116147237519}
+{"sent": "man in white outfit", "ann_id": 533047, "best_split": [3, 3], "split_score": 0.503116147237519}

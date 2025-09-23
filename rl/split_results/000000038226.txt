@@ -1,0 +1,11 @@
+{"sent": "orange shirt", "ann_id": 2163659, "best_split": [1, 5], "split_score": 0.5855864523635537}
+{"sent": "boy in orange", "ann_id": 2163659, "best_split": [1, 5], "split_score": 0.5855864523635537}
+{"sent": "umbrella above girl digging her nose", "ann_id": 1425099, "best_split": [2, 1], "split_score": 0.4460932370175281}
+{"sent": "entire upper portion of tent", "ann_id": 2176173, "best_split": [2, 1], "split_score": 0.8028544793852951}
+{"sent": "canopy over mans head", "ann_id": 2176173, "best_split": [2, 1], "split_score": 0.8028544793852951}
+{"sent": "woman in red", "ann_id": 469390, "best_split": [2, 3], "split_score": 0.32399536318353983}
+{"sent": "white guy", "ann_id": 469390, "best_split": [5, 1], "split_score": 0.2217245240584127}
+{"sent": "person wiping their nose", "ann_id": 469390, "best_split": [2, 2], "split_score": 0.4030620215276471}
+{"sent": "fat guy", "ann_id": 441515, "best_split": [2, 3], "split_score": 0.5427092320498094}
+{"sent": "red and white shirt guy", "ann_id": 441515, "best_split": [2, 3], "split_score": 0.5427092320498094}
+{"sent": "man sitting at table", "ann_id": 441515, "best_split": [2, 3], "split_score": 0.5427092320498094}

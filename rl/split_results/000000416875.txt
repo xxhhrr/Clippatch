@@ -1,0 +1,6 @@
+{"sent": "black person wihite shirt", "ann_id": 503190, "best_split": [2, 3], "split_score": 0.5092905404790914}
+{"sent": "guy with white shirt and has a mustache", "ann_id": 503190, "best_split": [3, 2], "split_score": 0.48668885185563476}
+{"sent": "black guy in white shirt", "ann_id": 503190, "best_split": [3, 3], "split_score": 0.7309889323936114}
+{"sent": "dark shirt", "ann_id": 431307, "best_split": [1, 2], "split_score": 0.6865979381222101}
+{"sent": "man in black", "ann_id": 431307, "best_split": [1, 2], "split_score": 0.6865979381222101}
+{"sent": "black shirt", "ann_id": 431307, "best_split": [1, 2], "split_score": 0.6865979381222101}

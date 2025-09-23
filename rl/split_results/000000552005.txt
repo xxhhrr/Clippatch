@@ -1,0 +1,5 @@
+{"sent": "the sky within the mirror not the car", "ann_id": 2045574, "best_split": [2, 1], "split_score": 0.4673357156513099}
+{"sent": "black part of mirror", "ann_id": 2045574, "best_split": [2, 1], "split_score": 0.4673357156513099}
+{"sent": "dog", "ann_id": 2045065, "best_split": [1, 3], "split_score": 0.39981207421893905}
+{"sent": "reflection of car", "ann_id": 2045065, "best_split": [2, 1], "split_score": 0.4060060059958457}
+{"sent": "piece of mirror with trees reflected", "ann_id": 2045065, "best_split": [2, 1], "split_score": 0.4060060059958457}

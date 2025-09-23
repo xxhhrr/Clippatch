@@ -1,0 +1,15 @@
+{"sent": "chair that woman with frizzy blond hair is sitting in", "ann_id": 386241, "best_split": [3, 3], "split_score": 0.4338528451551553}
+{"sent": "chair with lady in pink", "ann_id": 386241, "best_split": [3, 3], "split_score": 0.4338528451551553}
+{"sent": "sorry chair with pink shirt", "ann_id": 386241, "best_split": [3, 3], "split_score": 0.4338528451551553}
+{"sent": "the chair in which a man with a blue shirt and dark hair is sitting with his back to us", "ann_id": 1587402, "best_split": [3, 2], "split_score": 0.3754495324412072}
+{"sent": "chair 3", "ann_id": 1585689, "best_split": [3, 3], "split_score": 0.4740686631712803}
+{"sent": "chair next to chair with purse", "ann_id": 1585689, "best_split": [3, 3], "split_score": 0.4740686631712803}
+{"sent": "fat guy with glasses blue tshirt", "ann_id": 1317770, "best_split": [2, 2], "split_score": 0.45089285710691224}
+{"sent": "man in gray shirt facing away", "ann_id": 1317770, "best_split": [2, 2], "split_score": 0.45089285710691224}
+{"sent": "blue guy in chair around flowered shirt girl", "ann_id": 1317770, "best_split": [2, 2], "split_score": 0.45089285710691224}
+{"sent": "flower shirt", "ann_id": 1316753, "best_split": [2, 3], "split_score": 0.46911196905536773}
+{"sent": "woman in white and flowered shirt", "ann_id": 1316753, "best_split": [2, 3], "split_score": 0.46911196905536773}
+{"sent": "big hair", "ann_id": 1293237, "best_split": [2, 3], "split_score": 0.580790717599829}
+{"sent": "curly blond hair back to us", "ann_id": 1293237, "best_split": [2, 3], "split_score": 0.580790717599829}
+{"sent": "woman blond hair pink shirt", "ann_id": 1293237, "best_split": [2, 3], "split_score": 0.580790717599829}
+{"sent": "black shirt not facing us", "ann_id": 1268419, "best_split": [2, 3], "split_score": 0.42639961384816605}

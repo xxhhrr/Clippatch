@@ -1,0 +1,6 @@
+{"sent": "the flatscreen tv", "ann_id": 1968670, "best_split": [2, 2], "split_score": 0.6627218934511097}
+{"sent": "tv", "ann_id": 1968670, "best_split": [2, 2], "split_score": 0.6627218934511097}
+{"sent": "black area behind computer", "ann_id": 1968670, "best_split": [1, 2], "split_score": 0.5976562499761776}
+{"sent": "screen", "ann_id": 1968611, "best_split": [3, 2], "split_score": 0.5434462444200036}
+{"sent": "computer screen", "ann_id": 1968611, "best_split": [3, 2], "split_score": 0.5434462444200036}
+{"sent": "screeen", "ann_id": 1968611, "best_split": [3, 3], "split_score": 0.2529051341376605}

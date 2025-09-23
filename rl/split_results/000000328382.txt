@@ -1,0 +1,5 @@
+{"sent": "car alone beside bus", "ann_id": 147424, "best_split": [3, 1], "split_score": 0.08359872610989542}
+{"sent": "gray car with item on roof", "ann_id": 147424, "best_split": [2, 2], "split_score": 0.19754464284139472}
+{"sent": "car 1inline on leftside", "ann_id": 147424, "best_split": [2, 1], "split_score": 0.0987723214246344}
+{"sent": "blue car with black windows", "ann_id": 143333, "best_split": [2, 3], "split_score": 0.35700575811456264}
+{"sent": "blue car", "ann_id": 143333, "best_split": [2, 3], "split_score": 0.35700575811456264}

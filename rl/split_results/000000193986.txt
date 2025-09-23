@@ -1,0 +1,9 @@
+{"sent": "girl", "ann_id": 1742596, "best_split": [5, 1], "split_score": 0.11507177032804594}
+{"sent": "woman", "ann_id": 1742596, "best_split": [1, 5], "split_score": 0.6634546751727824}
+{"sent": "woman on side", "ann_id": 1742596, "best_split": [1, 5], "split_score": 0.6634546751727824}
+{"sent": "hand on face", "ann_id": 517907, "best_split": [1, 3], "split_score": 0.5742971887261898}
+{"sent": "man with glasses", "ann_id": 517907, "best_split": [1, 3], "split_score": 0.5742971887261898}
+{"sent": "guy with glasses", "ann_id": 517907, "best_split": [1, 3], "split_score": 0.5742971887261898}
+{"sent": "stripes", "ann_id": 513259, "best_split": [1, 3], "split_score": 0.8822126847352043}
+{"sent": "guy on edge", "ann_id": 513259, "best_split": [1, 3], "split_score": 0.8822126847352043}
+{"sent": "slack jawed bro", "ann_id": 513259, "best_split": [1, 3], "split_score": 0.8822126847352043}

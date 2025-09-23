@@ -1,0 +1,6 @@
+{"sent": "girl with hat", "ann_id": 2162742, "best_split": [3, 3], "split_score": 0.6555819476569567}
+{"sent": "little girl", "ann_id": 2162742, "best_split": [3, 3], "split_score": 0.6555819476569567}
+{"sent": "girl", "ann_id": 2162742, "best_split": [3, 3], "split_score": 0.6555819476569567}
+{"sent": "woman in white closer to lephant", "ann_id": 513538, "best_split": [1, 2], "split_score": 0.24999999999003508}
+{"sent": "man under elephant", "ann_id": 513538, "best_split": [1, 2], "split_score": 0.24999999999003508}
+{"sent": "lady in beige", "ann_id": 513538, "best_split": [2, 3], "split_score": 0.5608919381902989}

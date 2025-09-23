@@ -1,0 +1,13 @@
+{"sent": "glass cheese is pointing to", "ann_id": 1876237, "best_split": [1, 5], "split_score": 0.5148936169714803}
+{"sent": "glass at the end before the glass alone", "ann_id": 1876237, "best_split": [3, 1], "split_score": 0.18861512318454676}
+{"sent": "glass furthest back of the tray", "ann_id": 1876237, "best_split": [1, 5], "split_score": 0.5148936169714803}
+{"sent": "number 2 glass from us", "ann_id": 1873611, "best_split": [1, 5], "split_score": 0.48020756112081486}
+{"sent": "closest wine glass", "ann_id": 1499215, "best_split": [1, 3], "split_score": 0.4587958493931711}
+{"sent": "glass closest to us", "ann_id": 1499215, "best_split": [1, 3], "split_score": 0.4587958493931711}
+{"sent": "glass closest to us", "ann_id": 1499215, "best_split": [1, 3], "split_score": 0.4587958493931711}
+{"sent": "furthest glass", "ann_id": 1499103, "best_split": [5, 1], "split_score": 0.14588528677167353}
+{"sent": "farthest glass", "ann_id": 1499103, "best_split": [5, 1], "split_score": 0.16772554001209294}
+{"sent": "the glass that isnt in the straight line", "ann_id": 1499103, "best_split": [2, 1], "split_score": 0.15995040296962373}
+{"sent": "number 3 glass", "ann_id": 1498548, "best_split": [3, 2], "split_score": 0.33731831079923297}
+{"sent": "glass of wine closest to cheese", "ann_id": 1498548, "best_split": [1, 2], "split_score": 0.2894212372333617}
+{"sent": "class next to the pineapple stalk or cheese stalk", "ann_id": 1498548, "best_split": [2, 1], "split_score": 0.10901984983684665}

@@ -1,0 +1,15 @@
+{"sent": "tan pants boy", "ann_id": 1304451, "best_split": [2, 1], "split_score": 0.17461199263308178}
+{"sent": "boy standing in brown pants", "ann_id": 1304451, "best_split": [1, 5], "split_score": 0.7545283018156105}
+{"sent": "boy in green pants and white shirt standing has bottle in hands", "ann_id": 1304451, "best_split": [1, 5], "split_score": 0.7545283018156105}
+{"sent": "boy holding blue book", "ann_id": 1290857, "best_split": [2, 1], "split_score": 0.1847006310533823}
+{"sent": "man with blue book", "ann_id": 1290857, "best_split": [2, 2], "split_score": 0.3570365962245584}
+{"sent": "kid with blue book", "ann_id": 1290857, "best_split": [3, 1], "split_score": 0.1379239885503717}
+{"sent": "soccer player with hands around one knee", "ann_id": 1257507, "best_split": [2, 3], "split_score": 0.8512269937717761}
+{"sent": "man next to black kid sitting", "ann_id": 1257507, "best_split": [1, 2], "split_score": 0.13694794020928683}
+{"sent": "holding his knee", "ann_id": 1257507, "best_split": [2, 3], "split_score": 0.8512269937717761}
+{"sent": "closest dude sitting down", "ann_id": 1219863, "best_split": [3, 3], "split_score": 0.3796881583958859}
+{"sent": "closest pink shirt", "ann_id": 1219863, "best_split": [2, 3], "split_score": 0.272178028368525}
+{"sent": "kid in red sitting close", "ann_id": 1219863, "best_split": [1, 2], "split_score": 0.13719429740999134}
+{"sent": "black seated man in orange looking at camera", "ann_id": 1332494, "best_split": [3, 2], "split_score": 0.2768595041013112}
+{"sent": "yellow no 3", "ann_id": 1332494, "best_split": [3, 2], "split_score": 0.2768595041013112}
+{"sent": "main black kid inbetween two white kids", "ann_id": 1332494, "best_split": [2, 1], "split_score": 0.04234659971784883}

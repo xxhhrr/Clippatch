@@ -1,0 +1,5 @@
+{"sent": "number one girl", "ann_id": 550208, "best_split": [1, 2], "split_score": 0.37260841835249486}
+{"sent": "girl one", "ann_id": 550208, "best_split": [1, 3], "split_score": 0.12050484093531705}
+{"sent": "frame 1 lady", "ann_id": 550208, "best_split": [1, 2], "split_score": 0.37260841835249486}
+{"sent": "last picture of woman in red blouse", "ann_id": 470994, "best_split": [3, 3], "split_score": 0.37293016555319203}
+{"sent": "longest hair", "ann_id": 470994, "best_split": [3, 3], "split_score": 0.37293016555319203}

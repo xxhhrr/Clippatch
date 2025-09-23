@@ -1,0 +1,7 @@
+{"sent": "closest train", "ann_id": 172838, "best_split": [3, 3], "split_score": 0.22832898169342963}
+{"sent": "train nearest us", "ann_id": 172838, "best_split": [3, 2], "split_score": 0.4270200840230009}
+{"sent": "closer train", "ann_id": 172838, "best_split": [3, 2], "split_score": 0.4270200840230009}
+{"sent": "the nearest train", "ann_id": 172838, "best_split": [3, 2], "split_score": 0.4270200840230009}
+{"sent": "train closest to tube thingie", "ann_id": 171214, "best_split": [3, 2], "split_score": 0.398514851438176}
+{"sent": "train closet to pipe", "ann_id": 171214, "best_split": [3, 2], "split_score": 0.398514851438176}
+{"sent": "farther away train", "ann_id": 171214, "best_split": [3, 3], "split_score": 0.2942101500651594}

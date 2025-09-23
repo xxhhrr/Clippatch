@@ -1,0 +1,9 @@
+{"sent": "laptop with most visible desktop", "ann_id": 1103651, "best_split": [3, 2], "split_score": 0.51127375746532}
+{"sent": "laptop with a mostly blue screen", "ann_id": 1103651, "best_split": [3, 3], "split_score": 0.6228070174426888}
+{"sent": "more blue on screen small", "ann_id": 1103651, "best_split": [3, 3], "split_score": 0.6228070174426888}
+{"sent": "laptop below flatscreen", "ann_id": 1103526, "best_split": [1, 5], "split_score": 0.21546961323841066}
+{"sent": "computer with 331", "ann_id": 1103526, "best_split": [2, 3], "split_score": 0.29729729726142645}
+{"sent": "laptop between others", "ann_id": 1103526, "best_split": [2, 3], "split_score": 0.29729729726142645}
+{"sent": "laptop with a lighter colored keyboard than the others", "ann_id": 1101246, "best_split": [3, 3], "split_score": 0.6657060517772757}
+{"sent": "laptop at 3 o clock", "ann_id": 1101246, "best_split": [3, 3], "split_score": 0.6657060517772757}
+{"sent": "bigger screen on edge corner", "ann_id": 1101246, "best_split": [3, 1], "split_score": 0.31744186044666034}

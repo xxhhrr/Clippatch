@@ -1,0 +1,6 @@
+{"sent": "umbrella with orange and yellow", "ann_id": 285421, "best_split": [2, 2], "split_score": 0.846435527787578}
+{"sent": "umbrella without pink bit", "ann_id": 285421, "best_split": [2, 2], "split_score": 0.846435527787578}
+{"sent": "primay color umbrella no pink", "ann_id": 285421, "best_split": [2, 2], "split_score": 0.846435527787578}
+{"sent": "pink umbrella", "ann_id": 282031, "best_split": [2, 2], "split_score": 0.7231324631544618}
+{"sent": "umbrella with no orange", "ann_id": 282031, "best_split": [2, 3], "split_score": 0.6751384815350978}
+{"sent": "pink umbrella", "ann_id": 282031, "best_split": [2, 2], "split_score": 0.7231324631544618}

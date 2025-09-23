@@ -1,0 +1,11 @@
+{"sent": "table with cake", "ann_id": 1967316, "best_split": [2, 1], "split_score": 0.7636320152756843}
+{"sent": "table", "ann_id": 1967316, "best_split": [2, 1], "split_score": 0.7636320152756843}
+{"sent": "what the cake is on", "ann_id": 1967316, "best_split": [2, 1], "split_score": 0.7636320152756843}
+{"sent": "tabletop", "ann_id": 1961424, "best_split": [3, 1], "split_score": 0.2397094430854543}
+{"sent": "tabletop", "ann_id": 1961424, "best_split": [3, 1], "split_score": 0.2397094430854543}
+{"sent": "white dress", "ann_id": 210333, "best_split": [1, 5], "split_score": 0.5916301555679385}
+{"sent": "the bride", "ann_id": 210333, "best_split": [1, 5], "split_score": 0.5916301555679385}
+{"sent": "bride", "ann_id": 210333, "best_split": [1, 5], "split_score": 0.5916301555679385}
+{"sent": "groom", "ann_id": 199825, "best_split": [2, 3], "split_score": 0.5839804275519647}
+{"sent": "groom man", "ann_id": 199825, "best_split": [2, 3], "split_score": 0.5839804275519647}
+{"sent": "groom", "ann_id": 199825, "best_split": [2, 3], "split_score": 0.5839804275519647}

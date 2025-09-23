@@ -1,0 +1,6 @@
+{"sent": "bench under cup", "ann_id": 1812581, "best_split": [2, 2], "split_score": 0.6566623544206557}
+{"sent": "bench with cup on it", "ann_id": 1812581, "best_split": [2, 2], "split_score": 0.6566623544206557}
+{"sent": "bench with drink on it", "ann_id": 1812581, "best_split": [2, 2], "split_score": 0.6566623544206557}
+{"sent": "bench next to wall", "ann_id": 1393304, "best_split": [2, 1], "split_score": 0.6016899497146918}
+{"sent": "bleacher not with starbucks", "ann_id": 1393304, "best_split": [2, 1], "split_score": 0.6016899497146918}
+{"sent": "seating area not the one with the starbucks", "ann_id": 1393304, "best_split": [2, 1], "split_score": 0.6016899497146918}

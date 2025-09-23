@@ -1,0 +1,8 @@
+{"sent": "man on one knee looking at camera", "ann_id": 531151, "best_split": [1, 2], "split_score": 0.3189971300893257}
+{"sent": "man nearest edge", "ann_id": 531151, "best_split": [1, 2], "split_score": 0.3189971300893257}
+{"sent": "shortest", "ann_id": 500315, "best_split": [3, 3], "split_score": 0.421368671661521}
+{"sent": "smallest baseball player", "ann_id": 500315, "best_split": [3, 1], "split_score": 0.23116973272022762}
+{"sent": "player not on knees", "ann_id": 500315, "best_split": [3, 1], "split_score": 0.23116973272022762}
+{"sent": "the player with closed eyes", "ann_id": 455794, "best_split": [1, 5], "split_score": 0.5387755101648123}
+{"sent": "taller guy", "ann_id": 455794, "best_split": [2, 3], "split_score": 0.26139150637269964}
+{"sent": "tallest player", "ann_id": 455794, "best_split": [1, 5], "split_score": 0.5387755101648123}

@@ -1,0 +1,9 @@
+{"sent": "earring", "ann_id": 1718200, "best_split": [1, 3], "split_score": 0.5321808510436101}
+{"sent": "tying tie", "ann_id": 1718200, "best_split": [1, 3], "split_score": 0.5321808510436101}
+{"sent": "man tying the tie", "ann_id": 1718200, "best_split": [1, 3], "split_score": 0.5321808510436101}
+{"sent": "wearing the white tie", "ann_id": 1707065, "best_split": [1, 2], "split_score": 0.5254304846729341}
+{"sent": "blackest hair", "ann_id": 1707065, "best_split": [1, 2], "split_score": 0.5254304846729341}
+{"sent": "getting tie tied", "ann_id": 1707065, "best_split": [1, 2], "split_score": 0.5254304846729341}
+{"sent": "white shirt back facing us", "ann_id": 533680, "best_split": [1, 3], "split_score": 0.6535352316208051}
+{"sent": "can only see back of head", "ann_id": 533680, "best_split": [3, 3], "split_score": 0.45577077564440144}
+{"sent": "partially seen number 1 man", "ann_id": 533680, "best_split": [2, 2], "split_score": 0.467943485056958}

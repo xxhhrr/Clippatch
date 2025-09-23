@@ -1,0 +1,6 @@
+{"sent": "glass in basket", "ann_id": 666783, "best_split": [3, 2], "split_score": 0.48646804633995133}
+{"sent": "glass in basket not next to pitcher", "ann_id": 666783, "best_split": [5, 1], "split_score": 0.34361233477022646}
+{"sent": "side glass", "ann_id": 666783, "best_split": [5, 1], "split_score": 0.34361233477022646}
+{"sent": "glass that has liquid", "ann_id": 661151, "best_split": [3, 3], "split_score": 0.6090001749940465}
+{"sent": "glass red wine", "ann_id": 661151, "best_split": [3, 3], "split_score": 0.6090001749940465}
+{"sent": "full cup", "ann_id": 661151, "best_split": [3, 3], "split_score": 0.6090001749940465}

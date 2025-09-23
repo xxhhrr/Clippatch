@@ -1,0 +1,6 @@
+{"sent": "the frogs are jumping into this urinal", "ann_id": 1097419, "best_split": [3, 3], "split_score": 0.6271186439635894}
+{"sent": "urinal frogs jumping to", "ann_id": 1097419, "best_split": [3, 3], "split_score": 0.6271186439635894}
+{"sent": "the urinal at the 500", "ann_id": 1097419, "best_split": [3, 3], "split_score": 0.6271186439635894}
+{"sent": "lower toilet", "ann_id": 1096411, "best_split": [5, 1], "split_score": 0.2572334522139087}
+{"sent": "closest urinal", "ann_id": 1096411, "best_split": [5, 1], "split_score": 0.2572334522139087}
+{"sent": "toilet where frogs jumping from", "ann_id": 1096411, "best_split": [5, 1], "split_score": 0.2572334522139087}

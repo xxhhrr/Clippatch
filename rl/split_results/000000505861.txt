@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 535360, "best_split": [1, 5], "split_score": 0.5598883506641582}
+{"sent": "black shirt guy", "ann_id": 535360, "best_split": [1, 5], "split_score": 0.5598883506641582}
+{"sent": "man on elephant", "ann_id": 535360, "best_split": [1, 3], "split_score": 0.5517012547929717}
+{"sent": "woman on elef", "ann_id": 505761, "best_split": [1, 5], "split_score": 0.5624999999429281}
+{"sent": "woman", "ann_id": 505761, "best_split": [1, 5], "split_score": 0.5624999999429281}
+{"sent": "lady", "ann_id": 505761, "best_split": [1, 5], "split_score": 0.5624999999429281}

@@ -1,0 +1,6 @@
+{"sent": "largest animal with horns", "ann_id": 73088, "best_split": [3, 2], "split_score": 0.3832599118575694}
+{"sent": "largest cow", "ann_id": 73088, "best_split": [3, 2], "split_score": 0.3832599118575694}
+{"sent": "biggest standing", "ann_id": 73088, "best_split": [3, 2], "split_score": 0.3832599118575694}
+{"sent": "white cow by brown one", "ann_id": 72131, "best_split": [2, 3], "split_score": 0.44619131970259174}
+{"sent": "the white cow next to the brown one on ground", "ann_id": 72131, "best_split": [2, 3], "split_score": 0.44619131970259174}
+{"sent": "white cow nearest to the brown one laying down", "ann_id": 72131, "best_split": [2, 3], "split_score": 0.44619131970259174}

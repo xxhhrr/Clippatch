@@ -1,0 +1,6 @@
+{"sent": "screen by speaker", "ann_id": 1968462, "best_split": [3, 2], "split_score": 0.3478412661063841}
+{"sent": "number 1 monitor", "ann_id": 1968462, "best_split": [3, 1], "split_score": 0.19872104245905398}
+{"sent": "computer next to radio and speaker", "ann_id": 1968462, "best_split": [3, 2], "split_score": 0.3478412661063841}
+{"sent": "imac number 2", "ann_id": 34817, "best_split": [1, 2], "split_score": 0.13265306121920228}
+{"sent": "screen connecting others", "ann_id": 34817, "best_split": [3, 2], "split_score": 0.40154440149595266}
+{"sent": "count two either way", "ann_id": 34817, "best_split": [3, 2], "split_score": 0.40154440149595266}

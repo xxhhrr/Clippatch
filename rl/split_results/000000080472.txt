@@ -1,0 +1,6 @@
+{"sent": "guy faceing the boy", "ann_id": 432846, "best_split": [3, 1], "split_score": 0.19642313214410065}
+{"sent": "dad", "ann_id": 432846, "best_split": [1, 3], "split_score": 0.6410026857271858}
+{"sent": "man", "ann_id": 432846, "best_split": [1, 3], "split_score": 0.6410026857271858}
+{"sent": "child", "ann_id": 424378, "best_split": [1, 2], "split_score": 0.4488752937498088}
+{"sent": "blindfolded boy", "ann_id": 424378, "best_split": [1, 2], "split_score": 0.4488752937498088}
+{"sent": "omg sorry kid", "ann_id": 424378, "best_split": [1, 2], "split_score": 0.4488752937498088}

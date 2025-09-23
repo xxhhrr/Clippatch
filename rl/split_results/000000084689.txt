@@ -1,0 +1,6 @@
+{"sent": "white striped couch", "ann_id": 111380, "best_split": [5, 1], "split_score": 0.2749126246462439}
+{"sent": "striped loveseat", "ann_id": 111380, "best_split": [3, 2], "split_score": 0.42228832461252647}
+{"sent": "striped couch", "ann_id": 111380, "best_split": [3, 2], "split_score": 0.42228832461252647}
+{"sent": "white couch", "ann_id": 99644, "best_split": [3, 2], "split_score": 0.8253875742131498}
+{"sent": "white couch that would stain bad", "ann_id": 99644, "best_split": [3, 2], "split_score": 0.8253875742131498}
+{"sent": "couch fartest to window", "ann_id": 99644, "best_split": [2, 1], "split_score": 0.2938456632535935}

@@ -1,0 +1,6 @@
+{"sent": "black tie", "ann_id": 222705, "best_split": [1, 5], "split_score": 0.6278123702260014}
+{"sent": "tall guy", "ann_id": 222705, "best_split": [1, 5], "split_score": 0.6278123702260014}
+{"sent": "taller boy", "ann_id": 222705, "best_split": [1, 3], "split_score": 0.5882601350996465}
+{"sent": "white shirt", "ann_id": 186994, "best_split": [1, 2], "split_score": 0.2997448979472359}
+{"sent": "boy with blue striped tie", "ann_id": 186994, "best_split": [1, 5], "split_score": 0.43461030379502885}
+{"sent": "stripe tie", "ann_id": 186994, "best_split": [1, 5], "split_score": 0.43461030379502885}

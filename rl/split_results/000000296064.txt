@@ -1,0 +1,9 @@
+{"sent": "red food", "ann_id": 1909971, "best_split": [2, 1], "split_score": 0.6200516628795592}
+{"sent": "ribs", "ann_id": 1909971, "best_split": [2, 1], "split_score": 0.6200516628795592}
+{"sent": "red food", "ann_id": 1909971, "best_split": [2, 1], "split_score": 0.6200516628795592}
+{"sent": "yellow thing with no green and the most red", "ann_id": 310407, "best_split": [3, 3], "split_score": 0.6761868003761499}
+{"sent": "yellow piece without green", "ann_id": 310407, "best_split": [3, 3], "split_score": 0.6761868003761499}
+{"sent": "egg muffin with no green stuff", "ann_id": 310407, "best_split": [3, 3], "split_score": 0.6761868003761499}
+{"sent": "yellow food", "ann_id": 310282, "best_split": [2, 2], "split_score": 0.7844814058697253}
+{"sent": "eggs benedict with green herb on it", "ann_id": 310282, "best_split": [2, 2], "split_score": 0.7844814058697253}
+{"sent": "yellow food in corner", "ann_id": 310282, "best_split": [2, 2], "split_score": 0.7844814058697253}

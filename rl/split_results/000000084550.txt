@@ -1,0 +1,6 @@
+{"sent": "person with back showing", "ann_id": 198359, "best_split": [2, 3], "split_score": 0.5556202678552106}
+{"sent": "guy with back toward us", "ann_id": 198359, "best_split": [2, 3], "split_score": 0.5556202678552106}
+{"sent": "back of guy", "ann_id": 198359, "best_split": [2, 3], "split_score": 0.5556202678552106}
+{"sent": "white cell", "ann_id": 187574, "best_split": [2, 2], "split_score": 0.22768683799513467}
+{"sent": "guy phone", "ann_id": 187574, "best_split": [3, 3], "split_score": 0.2665867305799911}
+{"sent": "holding phone", "ann_id": 187574, "best_split": [2, 3], "split_score": 0.33250405621065393}

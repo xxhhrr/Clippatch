@@ -1,0 +1,6 @@
+{"sent": "th silver suv", "ann_id": 354878, "best_split": [1, 3], "split_score": 0.5418238295683478}
+{"sent": "silver suv again", "ann_id": 354878, "best_split": [1, 3], "split_score": 0.5418238295683478}
+{"sent": "silver car suv", "ann_id": 354878, "best_split": [1, 3], "split_score": 0.5418238295683478}
+{"sent": "small car", "ann_id": 348456, "best_split": [5, 1], "split_score": 0.22826296508306698}
+{"sent": "blue car in distance", "ann_id": 348456, "best_split": [2, 3], "split_score": 0.34189984384029065}
+{"sent": "blue vehicle", "ann_id": 348456, "best_split": [5, 1], "split_score": 0.22826296508306698}

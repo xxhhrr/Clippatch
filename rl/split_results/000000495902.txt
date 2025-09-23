@@ -1,0 +1,4 @@
+{"sent": "carott by the paws", "ann_id": 1564356, "best_split": [1, 3], "split_score": 0.29463651430886595}
+{"sent": "carrot closest to white paw by cats face", "ann_id": 1564356, "best_split": [1, 5], "split_score": 0.29778120446348144}
+{"sent": "carrot closest to cats paws", "ann_id": 1564356, "best_split": [1, 5], "split_score": 0.29778120446348144}
+{"sent": "carrot near cat at 8 o clock", "ann_id": 1065014, "best_split": [5, 1], "split_score": 0.1700797762834049}

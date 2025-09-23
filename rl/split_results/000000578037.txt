@@ -1,0 +1,10 @@
+{"sent": "dude in yellow tee shirt", "ann_id": 462653, "best_split": [3, 3], "split_score": 0.3098469534637818}
+{"sent": "orange shirt and pants", "ann_id": 462653, "best_split": [3, 3], "split_score": 0.3098469534637818}
+{"sent": "yellow shirt", "ann_id": 462653, "best_split": [1, 5], "split_score": 0.347895791548307}
+{"sent": "khaki shorts", "ann_id": 460135, "best_split": [3, 3], "split_score": 0.30381231667099523}
+{"sent": "black shirt tan shorts", "ann_id": 460135, "best_split": [3, 1], "split_score": 0.11562499999354771}
+{"sent": "man with black shirt white shorts", "ann_id": 460135, "best_split": [3, 1], "split_score": 0.11562499999354771}
+{"sent": "khaki shorts", "ann_id": 460135, "best_split": [3, 3], "split_score": 0.30381231667099523}
+{"sent": "white shirt", "ann_id": 430836, "best_split": [1, 5], "split_score": 0.5027027026541793}
+{"sent": "white shirt", "ann_id": 430836, "best_split": [1, 5], "split_score": 0.5027027026541793}
+{"sent": "white beater", "ann_id": 430836, "best_split": [1, 5], "split_score": 0.5027027026541793}

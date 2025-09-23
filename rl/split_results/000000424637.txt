@@ -1,0 +1,7 @@
+{"sent": "chair facing table", "ann_id": 1592148, "best_split": [2, 3], "split_score": 0.45682551051512893}
+{"sent": "chair facing table without black covering", "ann_id": 1592148, "best_split": [3, 3], "split_score": 0.44266830611087177}
+{"sent": "chair facing the grill", "ann_id": 1586041, "best_split": [3, 2], "split_score": 0.33144305015305947}
+{"sent": "the lonely chair", "ann_id": 1586041, "best_split": [3, 2], "split_score": 0.33144305015305947}
+{"sent": "chair closest to us", "ann_id": 1586041, "best_split": [3, 2], "split_score": 0.33144305015305947}
+{"sent": "chair in shade", "ann_id": 382685, "best_split": [3, 1], "split_score": 0.18215271388097098}
+{"sent": "dark brown chair at table", "ann_id": 382685, "best_split": [1, 3], "split_score": 0.2403474903329906}

@@ -1,0 +1,6 @@
+{"sent": "hidden giraffee", "ann_id": 597954, "best_split": [3, 1], "split_score": 0.09241963509489468}
+{"sent": "standing straight up", "ann_id": 597954, "best_split": [2, 1], "split_score": 0.04887162954099972}
+{"sent": "giraffe behind tree", "ann_id": 597954, "best_split": [2, 3], "split_score": 0.22947412178034982}
+{"sent": "the giraffe", "ann_id": 597419, "best_split": [3, 2], "split_score": 0.41464124578557404}
+{"sent": "giraffe", "ann_id": 597419, "best_split": [3, 2], "split_score": 0.41464124578557404}
+{"sent": "giraffe eating leaves", "ann_id": 597419, "best_split": [3, 2], "split_score": 0.41464124578557404}

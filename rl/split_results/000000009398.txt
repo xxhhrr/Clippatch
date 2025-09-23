@@ -1,0 +1,18 @@
+{"sent": "book 12345", "ann_id": 1661458, "best_split": [2, 3], "split_score": 0.34383499544093116}
+{"sent": "book not on end or next to end", "ann_id": 1661458, "best_split": [2, 2], "split_score": 0.37348121375951887}
+{"sent": "gulc veritcal", "ann_id": 1661310, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "gulc facing us", "ann_id": 1661310, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "book with 4 letters showing", "ann_id": 1661310, "best_split": [2, 2], "split_score": 0.8534757652380839}
+{"sent": "upright gulch number two", "ann_id": 1654038, "best_split": [2, 1], "split_score": 0.22650746688410442}
+{"sent": "second book standing on its edge", "ann_id": 1654038, "best_split": [1, 3], "split_score": 0.541268818432355}
+{"sent": "second book standing up", "ann_id": 1654038, "best_split": [1, 3], "split_score": 0.541268818432355}
+{"sent": "book by the g partial barcode", "ann_id": 1652728, "best_split": [2, 2], "split_score": 0.4697048837509986}
+{"sent": "book near sideways gu", "ann_id": 1652728, "best_split": [3, 2], "split_score": 0.3585888657071607}
+{"sent": "book number 5", "ann_id": 1652728, "best_split": [3, 2], "split_score": 0.3585888657071607}
+{"sent": "book standing on edge only one on edge that you can see the whole cover", "ann_id": 1651952, "best_split": [1, 3], "split_score": 0.6347128377995468}
+{"sent": "book standing up can see full bar code", "ann_id": 1651952, "best_split": [1, 3], "split_score": 0.6347128377995468}
+{"sent": "book near gulc", "ann_id": 1651952, "best_split": [1, 3], "split_score": 0.6347128377995468}
+{"sent": "bananas that are abovebehind books standing on edge", "ann_id": 2110571, "best_split": [5, 1], "split_score": 0.2699159663638726}
+{"sent": "bananas touching cornet of books at 100", "ann_id": 2110571, "best_split": [5, 1], "split_score": 0.2699159663638726}
+{"sent": "banana with sticker on it", "ann_id": 1544029, "best_split": [1, 5], "split_score": 0.3894546492443652}
+{"sent": "2 and 1 half bannanas 1215", "ann_id": 1544029, "best_split": [1, 5], "split_score": 0.3894546492443652}

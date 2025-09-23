@@ -1,0 +1,12 @@
+{"sent": "donut row 2 number 3 donut", "ann_id": 1574806, "best_split": [3, 3], "split_score": 0.34251175279675755}
+{"sent": "closest row 1 2 3", "ann_id": 1574726, "best_split": [1, 5], "split_score": 0.13521102043211275}
+{"sent": "donut 11", "ann_id": 1574726, "best_split": [2, 3], "split_score": 0.29838985950686425}
+{"sent": "3 across 3 down", "ann_id": 1574726, "best_split": [2, 3], "split_score": 0.29838985950686425}
+{"sent": "4 across 3 down", "ann_id": 1574600, "best_split": [2, 1], "split_score": 0.13775510203532546}
+{"sent": "3 oclocl", "ann_id": 1574578, "best_split": [3, 2], "split_score": 0.31853281849438553}
+{"sent": "donut at 3", "ann_id": 1574578, "best_split": [3, 2], "split_score": 0.31853281849438553}
+{"sent": "donut highest row number 4", "ann_id": 1574453, "best_split": [1, 2], "split_score": 0.09151785713920926}
+{"sent": "2 in closest row", "ann_id": 1573808, "best_split": [1, 2], "split_score": 0.10363520407750178}
+{"sent": "donut at 630", "ann_id": 1573808, "best_split": [2, 3], "split_score": 0.2641356089325281}
+{"sent": "donut 630", "ann_id": 1573808, "best_split": [2, 3], "split_score": 0.2641356089325281}
+{"sent": "donut 9 count starting from above", "ann_id": 1573111, "best_split": [1, 5], "split_score": 0.15317700452409444}

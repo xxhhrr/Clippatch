@@ -1,0 +1,14 @@
+{"sent": "bus turning", "ann_id": 2171626, "best_split": [3, 2], "split_score": 0.4552364864315593}
+{"sent": "bus turning on street", "ann_id": 2171626, "best_split": [3, 2], "split_score": 0.4552364864315593}
+{"sent": "white truck nearest all the people", "ann_id": 1372961, "best_split": [5, 1], "split_score": 0.29364542022500767}
+{"sent": "box truck white", "ann_id": 1372961, "best_split": [2, 1], "split_score": 0.14026626274951107}
+{"sent": "red bus no sticker on windshield", "ann_id": 165992, "best_split": [2, 3], "split_score": 0.3075539567999602}
+{"sent": "ambulance", "ann_id": 399867, "best_split": [3, 2], "split_score": 0.2646105843916224}
+{"sent": "medical vehicle near buses", "ann_id": 399867, "best_split": [3, 2], "split_score": 0.2646105843916224}
+{"sent": "ambulance near camera", "ann_id": 399867, "best_split": [2, 2], "split_score": 0.17936862243468044}
+{"sent": "red bus closest to us", "ann_id": 164097, "best_split": [1, 5], "split_score": 0.433260393829992}
+{"sent": "bus with miley finger on windsheild", "ann_id": 164097, "best_split": [1, 5], "split_score": 0.433260393829992}
+{"sent": "lead red trolly", "ann_id": 164097, "best_split": [1, 5], "split_score": 0.433260393829992}
+{"sent": "blue bus", "ann_id": 163531, "best_split": [3, 2], "split_score": 0.26165002374445434}
+{"sent": "blue bus", "ann_id": 163531, "best_split": [3, 2], "split_score": 0.26165002374445434}
+{"sent": "tall bus with blue", "ann_id": 163531, "best_split": [3, 2], "split_score": 0.26165002374445434}

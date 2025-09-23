@@ -1,0 +1,6 @@
+{"sent": "cup with no handle", "ann_id": 1040866, "best_split": [1, 2], "split_score": 0.1837053401316483}
+{"sent": "white bowl furthest away", "ann_id": 1040866, "best_split": [3, 2], "split_score": 0.510154431932499}
+{"sent": "bowl between apples", "ann_id": 1040866, "best_split": [3, 2], "split_score": 0.510154431932499}
+{"sent": "bowl closest", "ann_id": 1040803, "best_split": [2, 1], "split_score": 0.5808905086127044}
+{"sent": "clearest pot of food", "ann_id": 1040803, "best_split": [2, 1], "split_score": 0.5808905086127044}
+{"sent": "closest yum yum", "ann_id": 1040803, "best_split": [2, 1], "split_score": 0.5808905086127044}

@@ -1,0 +1,6 @@
+{"sent": "the baby in the high chair", "ann_id": 530880, "best_split": [1, 2], "split_score": 0.41653868870594984}
+{"sent": "baby", "ann_id": 530880, "best_split": [1, 2], "split_score": 0.41653868870594984}
+{"sent": "baby", "ann_id": 530880, "best_split": [1, 2], "split_score": 0.41653868870594984}
+{"sent": "adult", "ann_id": 503224, "best_split": [1, 2], "split_score": 0.8326998732802328}
+{"sent": "woman", "ann_id": 503224, "best_split": [1, 2], "split_score": 0.8326998732802328}
+{"sent": "girl older", "ann_id": 503224, "best_split": [1, 2], "split_score": 0.8326998732802328}

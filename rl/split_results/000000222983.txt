@@ -1,0 +1,5 @@
+{"sent": "broccoli cheese pizza", "ann_id": 1073559, "best_split": [2, 1], "split_score": 0.6329921802945897}
+{"sent": "full pan of food", "ann_id": 1073559, "best_split": [2, 1], "split_score": 0.6329921802945897}
+{"sent": "brocolli and cheese dish", "ann_id": 1073559, "best_split": [2, 1], "split_score": 0.6329921802945897}
+{"sent": "tomato pizza", "ann_id": 1071690, "best_split": [1, 2], "split_score": 0.27392377295335013}
+{"sent": "peperoni", "ann_id": 1071690, "best_split": [1, 2], "split_score": 0.27392377295335013}

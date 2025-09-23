@@ -1,0 +1,9 @@
+{"sent": "man striped blue shirt", "ann_id": 518933, "best_split": [1, 2], "split_score": 0.6108896683429971}
+{"sent": "stripe shirt", "ann_id": 518933, "best_split": [1, 2], "split_score": 0.6108896683429971}
+{"sent": "stripes shirt", "ann_id": 518933, "best_split": [1, 2], "split_score": 0.6108896683429971}
+{"sent": "orange shirt", "ann_id": 504284, "best_split": [1, 5], "split_score": 0.6516393442001869}
+{"sent": "red and black shirt", "ann_id": 504284, "best_split": [1, 5], "split_score": 0.6516393442001869}
+{"sent": "man in red shirt", "ann_id": 504284, "best_split": [2, 1], "split_score": 0.1867118594581707}
+{"sent": "asain woman", "ann_id": 424132, "best_split": [1, 5], "split_score": 0.5677480915579081}
+{"sent": "lady in dress", "ann_id": 424132, "best_split": [1, 5], "split_score": 0.5677480915579081}
+{"sent": "asian", "ann_id": 424132, "best_split": [1, 5], "split_score": 0.5677480915579081}

@@ -1,0 +1,6 @@
+{"sent": "blue boat", "ann_id": 1801609, "best_split": [2, 3], "split_score": 0.334728033434951}
+{"sent": "sail bluewhite", "ann_id": 1801609, "best_split": [2, 3], "split_score": 0.334728033434951}
+{"sent": "sail blue and white", "ann_id": 1801609, "best_split": [2, 3], "split_score": 0.334728033434951}
+{"sent": "green sailboat", "ann_id": 178332, "best_split": [3, 3], "split_score": 0.42258244823608404}
+{"sent": "yellow boat", "ann_id": 178332, "best_split": [3, 3], "split_score": 0.42258244823608404}
+{"sent": "green yellow sail", "ann_id": 178332, "best_split": [3, 3], "split_score": 0.42258244823608404}

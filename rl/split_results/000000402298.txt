@@ -1,0 +1,6 @@
+{"sent": "the further meter", "ann_id": 419214, "best_split": [2, 1], "split_score": 0.3103408655568617}
+{"sent": "farther meter", "ann_id": 419214, "best_split": [3, 3], "split_score": 0.49126749050237284}
+{"sent": "out of focus meter", "ann_id": 419214, "best_split": [2, 1], "split_score": 0.3103408655568617}
+{"sent": "nearest meter", "ann_id": 418903, "best_split": [2, 2], "split_score": 0.8284794379607435}
+{"sent": "v 08 05", "ann_id": 418903, "best_split": [1, 2], "split_score": 0.4960140305924739}
+{"sent": "closest machine", "ann_id": 418903, "best_split": [2, 2], "split_score": 0.8284794379607435}

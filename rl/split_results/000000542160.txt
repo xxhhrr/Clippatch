@@ -1,0 +1,7 @@
+{"sent": "player 2", "ann_id": 536491, "best_split": [3, 2], "split_score": 0.26586826345031067}
+{"sent": "number 2", "ann_id": 536491, "best_split": [1, 3], "split_score": 0.23151605674642503}
+{"sent": "player 2", "ann_id": 536491, "best_split": [3, 2], "split_score": 0.26586826345031067}
+{"sent": "player behind other players", "ann_id": 528743, "best_split": [1, 5], "split_score": 0.4178165583991663}
+{"sent": "in between", "ann_id": 528743, "best_split": [1, 5], "split_score": 0.4178165583991663}
+{"sent": "player walking away", "ann_id": 528743, "best_split": [1, 5], "split_score": 0.4178165583991663}
+{"sent": "4 jersey", "ann_id": 516522, "best_split": [1, 3], "split_score": 0.4085449656164598}

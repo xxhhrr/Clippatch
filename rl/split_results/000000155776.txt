@@ -1,0 +1,5 @@
+{"sent": "part of elephant above mans shoulder", "ann_id": 2069902, "best_split": [2, 2], "split_score": 0.5743589743289189}
+{"sent": "leg by trunk", "ann_id": 2069902, "best_split": [2, 1], "split_score": 0.3467492259952376}
+{"sent": "trunk", "ann_id": 581752, "best_split": [1, 2], "split_score": 0.8220008078355325}
+{"sent": "trunk", "ann_id": 581752, "best_split": [1, 2], "split_score": 0.8220008078355325}
+{"sent": "longest trunk", "ann_id": 581752, "best_split": [1, 2], "split_score": 0.8220008078355325}

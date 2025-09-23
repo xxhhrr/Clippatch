@@ -1,0 +1,6 @@
+{"sent": "lone zebra", "ann_id": 1412405, "best_split": [1, 3], "split_score": 0.676520270229457}
+{"sent": "zebra looking at us", "ann_id": 1412405, "best_split": [1, 3], "split_score": 0.676520270229457}
+{"sent": "zebra by score", "ann_id": 1412405, "best_split": [1, 3], "split_score": 0.676520270229457}
+{"sent": "the one eating", "ann_id": 593306, "best_split": [1, 2], "split_score": 0.5514905148843914}
+{"sent": "zebra with head down", "ann_id": 593306, "best_split": [1, 2], "split_score": 0.5514905148843914}
+{"sent": "eating zebra", "ann_id": 593306, "best_split": [1, 2], "split_score": 0.5514905148843914}

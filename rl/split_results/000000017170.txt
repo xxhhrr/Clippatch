@@ -1,0 +1,6 @@
+{"sent": "leg in black and white shoe", "ann_id": 1749145, "best_split": [2, 2], "split_score": 0.6375384615057672}
+{"sent": "nike black and white shoe", "ann_id": 1749145, "best_split": [1, 2], "split_score": 0.5857102110458603}
+{"sent": "single leg nearest ball", "ann_id": 1749145, "best_split": [2, 2], "split_score": 0.6375384615057672}
+{"sent": "any leg", "ann_id": 450825, "best_split": [2, 1], "split_score": 0.6092050209022951}
+{"sent": "any from 3 legs visible", "ann_id": 450825, "best_split": [2, 1], "split_score": 0.6092050209022951}
+{"sent": "legs any", "ann_id": 450825, "best_split": [2, 1], "split_score": 0.6092050209022951}

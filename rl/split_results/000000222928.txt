@@ -1,0 +1,14 @@
+{"sent": "number 1 truck", "ann_id": 1198045, "best_split": [3, 1], "split_score": 0.17922606923629633}
+{"sent": "truck number one", "ann_id": 1198045, "best_split": [3, 1], "split_score": 0.17922606923629633}
+{"sent": "truck 8 o clock", "ann_id": 1198045, "best_split": [3, 1], "split_score": 0.17922606923629633}
+{"sent": "next to end", "ann_id": 1197938, "best_split": [3, 1], "split_score": 0.13464630224307267}
+{"sent": "fourth from reading direction", "ann_id": 1197938, "best_split": [3, 1], "split_score": 0.13464630224307267}
+{"sent": "all orange truck", "ann_id": 1197938, "best_split": [2, 3], "split_score": 0.32605177989758993}
+{"sent": "truck 2", "ann_id": 1197878, "best_split": [3, 1], "split_score": 0.15741898805244917}
+{"sent": "truck beneath the raised sign", "ann_id": 1197878, "best_split": [3, 1], "split_score": 0.15741898805244917}
+{"sent": "truck by tall white sign", "ann_id": 1197878, "best_split": [1, 5], "split_score": 0.3441411254218842}
+{"sent": "the third truck", "ann_id": 1196632, "best_split": [3, 2], "split_score": 0.1599690880834651}
+{"sent": "truck with two trucks on either side of it", "ann_id": 1196632, "best_split": [3, 2], "split_score": 0.1599690880834651}
+{"sent": "truck 3", "ann_id": 1196632, "best_split": [3, 2], "split_score": 0.1599690880834651}
+{"sent": "121", "ann_id": 397930, "best_split": [2, 3], "split_score": 0.48824722580977836}
+{"sent": "fifth one", "ann_id": 397930, "best_split": [3, 2], "split_score": 0.10351234184698643}

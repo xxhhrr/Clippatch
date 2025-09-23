@@ -1,0 +1,4 @@
+{"sent": "black and silver train", "ann_id": 2171676, "best_split": [3, 1], "split_score": 0.29196050774269794}
+{"sent": "green door", "ann_id": 173374, "best_split": [3, 2], "split_score": 0.7103758169209174}
+{"sent": "train we can see doors", "ann_id": 173374, "best_split": [3, 2], "split_score": 0.7103758169209174}
+{"sent": "train with green doors", "ann_id": 173374, "best_split": [3, 2], "split_score": 0.7103758169209174}

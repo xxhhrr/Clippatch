@@ -1,0 +1,6 @@
+{"sent": "the adult in stripes", "ann_id": 474354, "best_split": [1, 5], "split_score": 0.6535947711863513}
+{"sent": "woman cut off", "ann_id": 474354, "best_split": [1, 5], "split_score": 0.6535947711863513}
+{"sent": "lady", "ann_id": 474354, "best_split": [2, 1], "split_score": 0.21573915174532488}
+{"sent": "the kid is sitting down", "ann_id": 463042, "best_split": [2, 1], "split_score": 0.5641253611757022}
+{"sent": "kid holding pizza", "ann_id": 463042, "best_split": [2, 1], "split_score": 0.5641253611757022}
+{"sent": "child", "ann_id": 463042, "best_split": [3, 1], "split_score": 0.4107227208192394}

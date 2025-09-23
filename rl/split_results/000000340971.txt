@@ -1,0 +1,6 @@
+{"sent": "white metal chair", "ann_id": 107855, "best_split": [3, 2], "split_score": 0.3348214285310302}
+{"sent": "metal chair beside couch", "ann_id": 107855, "best_split": [2, 2], "split_score": 0.22122130100277254}
+{"sent": "white chair", "ann_id": 107855, "best_split": [3, 2], "split_score": 0.3348214285310302}
+{"sent": "brown chair", "ann_id": 102741, "best_split": [2, 1], "split_score": 0.19726562499213704}
+{"sent": "wire back chair", "ann_id": 102741, "best_split": [2, 3], "split_score": 0.597128378306331}
+{"sent": "weird stool chair", "ann_id": 102741, "best_split": [2, 3], "split_score": 0.597128378306331}

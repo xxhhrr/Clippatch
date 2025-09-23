@@ -1,0 +1,6 @@
+{"sent": "sleepy kitty", "ann_id": 1816143, "best_split": [3, 2], "split_score": 0.32797427651159117}
+{"sent": "cat eyse closed", "ann_id": 1816143, "best_split": [1, 2], "split_score": 0.2637756116893411}
+{"sent": "eyes closed", "ann_id": 1816143, "best_split": [1, 2], "split_score": 0.2637756116893411}
+{"sent": "eyes open", "ann_id": 52621, "best_split": [2, 1], "split_score": 0.8622448979248148}
+{"sent": "awake cat", "ann_id": 52621, "best_split": [2, 1], "split_score": 0.8622448979248148}
+{"sent": "eyes open", "ann_id": 52621, "best_split": [2, 1], "split_score": 0.8622448979248148}

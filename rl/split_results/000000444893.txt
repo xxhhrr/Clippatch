@@ -1,0 +1,6 @@
+{"sent": "looking at you", "ann_id": 39778, "best_split": [3, 2], "split_score": 0.3668849391611894}
+{"sent": "bird looking at us", "ann_id": 39778, "best_split": [3, 3], "split_score": 0.47022177915895563}
+{"sent": "bird looking at you", "ann_id": 39778, "best_split": [3, 3], "split_score": 0.47022177915895563}
+{"sent": "long tail", "ann_id": 39689, "best_split": [3, 1], "split_score": 0.25223888504836844}
+{"sent": "bird not looking at camera", "ann_id": 39689, "best_split": [3, 1], "split_score": 0.25223888504836844}
+{"sent": "bird nearest ledge", "ann_id": 39689, "best_split": [3, 1], "split_score": 0.25223888504836844}

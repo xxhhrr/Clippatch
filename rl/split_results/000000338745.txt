@@ -1,0 +1,6 @@
+{"sent": "dark gray car", "ann_id": 142419, "best_split": [3, 3], "split_score": 0.7271085424007389}
+{"sent": "dark gray car", "ann_id": 142419, "best_split": [3, 3], "split_score": 0.7271085424007389}
+{"sent": "dark vehicle behind white", "ann_id": 142419, "best_split": [3, 2], "split_score": 0.49312258681308846}
+{"sent": "car that is cut off", "ann_id": 141187, "best_split": [5, 1], "split_score": 0.30269888866619343}
+{"sent": "car can see the windshield of it in the corner", "ann_id": 141187, "best_split": [3, 3], "split_score": 0.8138966479026017}
+{"sent": "gray car in corner", "ann_id": 141187, "best_split": [5, 1], "split_score": 0.30269888866619343}

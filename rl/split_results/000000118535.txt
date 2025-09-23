@@ -1,0 +1,5 @@
+{"sent": "umpire", "ann_id": 1729364, "best_split": [1, 5], "split_score": 0.5305039787295847}
+{"sent": "empire", "ann_id": 1729364, "best_split": [3, 3], "split_score": 0.2819507946568745}
+{"sent": "umpire", "ann_id": 1729364, "best_split": [1, 5], "split_score": 0.5305039787295847}
+{"sent": "catcher", "ann_id": 489489, "best_split": [3, 2], "split_score": 0.2679217957758941}
+{"sent": "touching helmet", "ann_id": 489489, "best_split": [1, 5], "split_score": 0.5803571427982592}

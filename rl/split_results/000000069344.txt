@@ -1,0 +1,6 @@
+{"sent": "boy in stripes", "ann_id": 462573, "best_split": [1, 2], "split_score": 0.6477925552589993}
+{"sent": "boy with stripes", "ann_id": 462573, "best_split": [1, 2], "split_score": 0.6477925552589993}
+{"sent": "striped shirt boy", "ann_id": 462573, "best_split": [1, 2], "split_score": 0.6477925552589993}
+{"sent": "boy not in stripes", "ann_id": 1728287, "best_split": [3, 1], "split_score": 0.29557007987038986}
+{"sent": "small kid", "ann_id": 1728287, "best_split": [1, 2], "split_score": 0.4770408163075159}
+{"sent": "boy with picture on shirt", "ann_id": 1728287, "best_split": [1, 3], "split_score": 0.45870809482529085}

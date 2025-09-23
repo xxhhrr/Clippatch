@@ -1,0 +1,12 @@
+{"sent": "woman in red shirt", "ann_id": 2154424, "best_split": [1, 5], "split_score": 0.4113562450196575}
+{"sent": "woman in red", "ann_id": 2154424, "best_split": [1, 5], "split_score": 0.4113562450196575}
+{"sent": "lady sunglasses", "ann_id": 2154424, "best_split": [1, 2], "split_score": 0.24716996172484176}
+{"sent": "a person with sunglasses", "ann_id": 259079, "best_split": [1, 5], "split_score": 0.3979739507599517}
+{"sent": "man with sunglasses", "ann_id": 259079, "best_split": [1, 5], "split_score": 0.3979739507599517}
+{"sent": "sunglasses man", "ann_id": 259079, "best_split": [1, 3], "split_score": 0.3378378378174567}
+{"sent": "woman back of head", "ann_id": 213289, "best_split": [2, 3], "split_score": 0.6728269940774022}
+{"sent": "the woman facing the others", "ann_id": 213289, "best_split": [2, 3], "split_score": 0.6728269940774022}
+{"sent": "lady seatd on side alone", "ann_id": 213289, "best_split": [2, 2], "split_score": 0.45774872445330445}
+{"sent": "man in green with beard", "ann_id": 210874, "best_split": [2, 3], "split_score": 0.497036023666481}
+{"sent": "bearded guy no glasses", "ann_id": 210874, "best_split": [2, 3], "split_score": 0.497036023666481}
+{"sent": "man looking at camera", "ann_id": 210874, "best_split": [1, 3], "split_score": 0.35336656985956466}

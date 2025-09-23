@@ -1,0 +1,8 @@
+{"sent": "yellow brown outfit with bag", "ann_id": 1214827, "best_split": [1, 3], "split_score": 0.7400957770602908}
+{"sent": "man serving food", "ann_id": 1214827, "best_split": [1, 2], "split_score": 0.6138392856898183}
+{"sent": "brown clothes", "ann_id": 1214827, "best_split": [1, 3], "split_score": 0.7400957770602908}
+{"sent": "buy in white shirt above blue shirt kid", "ann_id": 1999655, "best_split": [1, 2], "split_score": 0.8004807692007031}
+{"sent": "bald guy above blue girl", "ann_id": 1999655, "best_split": [2, 1], "split_score": 0.30017087525291786}
+{"sent": "man reaching in food", "ann_id": 1763555, "best_split": [3, 2], "split_score": 0.23432518595680624}
+{"sent": "boy stiring", "ann_id": 1763555, "best_split": [2, 1], "split_score": 0.20913067249148679}
+{"sent": "boy in black shirt scooping food", "ann_id": 1763555, "best_split": [1, 2], "split_score": 0.41039540814690706}

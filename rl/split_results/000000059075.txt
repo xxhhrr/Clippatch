@@ -1,0 +1,5 @@
+{"sent": "white dress", "ann_id": 233627, "best_split": [1, 5], "split_score": 0.31549761646896607}
+{"sent": "white long dress", "ann_id": 233627, "best_split": [1, 5], "split_score": 0.31549761646896607}
+{"sent": "women with hand on hip", "ann_id": 188314, "best_split": [2, 2], "split_score": 0.2563901520890395}
+{"sent": "yellow shirt boy", "ann_id": 188314, "best_split": [2, 3], "split_score": 0.2858391608079284}
+{"sent": "lady closest", "ann_id": 188314, "best_split": [1, 3], "split_score": 0.16118573412684195}

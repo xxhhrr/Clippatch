@@ -1,0 +1,9 @@
+{"sent": "soap dispenser", "ann_id": 2093874, "best_split": [3, 2], "split_score": 0.287819856674737}
+{"sent": "the soap dispenser", "ann_id": 2093874, "best_split": [3, 2], "split_score": 0.287819856674737}
+{"sent": "pump soap", "ann_id": 2093874, "best_split": [3, 2], "split_score": 0.287819856674737}
+{"sent": "blue shampoo", "ann_id": 84874, "best_split": [1, 5], "split_score": 0.2846099788892069}
+{"sent": "blue shampoo bottle by faucet", "ann_id": 84874, "best_split": [1, 5], "split_score": 0.2846099788892069}
+{"sent": "blue container with instructions", "ann_id": 84874, "best_split": [1, 5], "split_score": 0.2846099788892069}
+{"sent": "tallest item on sink", "ann_id": 84409, "best_split": [1, 2], "split_score": 0.12468112244400983}
+{"sent": "black and silver spray can", "ann_id": 84409, "best_split": [1, 5], "split_score": 0.31737012983792917}
+{"sent": "shaving gel", "ann_id": 84409, "best_split": [1, 5], "split_score": 0.31737012983792917}

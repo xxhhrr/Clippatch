@@ -1,0 +1,7 @@
+{"sent": "red suit", "ann_id": 1255639, "best_split": [2, 3], "split_score": 0.6841294298218665}
+{"sent": "person with sunglasses", "ann_id": 1255639, "best_split": [1, 5], "split_score": 0.4212358572338606}
+{"sent": "man in red laughing", "ann_id": 1255639, "best_split": [2, 3], "split_score": 0.6841294298218665}
+{"sent": "seated in red outfit", "ann_id": 1255639, "best_split": [2, 3], "split_score": 0.6841294298218665}
+{"sent": "closest person", "ann_id": 1250107, "best_split": [2, 3], "split_score": 0.5795706883253543}
+{"sent": "man closest to us with arm out not the happy dude", "ann_id": 1250107, "best_split": [2, 3], "split_score": 0.5795706883253543}
+{"sent": "sideburns guy near us", "ann_id": 1250107, "best_split": [2, 2], "split_score": 0.5737898464747794}

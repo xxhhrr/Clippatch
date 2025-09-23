@@ -1,0 +1,5 @@
+{"sent": "apple laptop", "ann_id": 1101881, "best_split": [2, 2], "split_score": 0.3815789473385355}
+{"sent": "apple facing you", "ann_id": 1101881, "best_split": [2, 2], "split_score": 0.3815789473385355}
+{"sent": "small open laptop on black object", "ann_id": 1100999, "best_split": [3, 3], "split_score": 0.23487945858806153}
+{"sent": "laptop with the screen you can see", "ann_id": 1100999, "best_split": [3, 3], "split_score": 0.23487945858806153}
+{"sent": "the opened laptop with screen showing", "ann_id": 1100999, "best_split": [3, 3], "split_score": 0.23487945858806153}

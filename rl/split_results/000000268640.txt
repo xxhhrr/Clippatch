@@ -1,0 +1,9 @@
+{"sent": "man in black coat", "ann_id": 1722753, "best_split": [2, 3], "split_score": 0.7290729072087001}
+{"sent": "man in shades bald", "ann_id": 1722753, "best_split": [2, 3], "split_score": 0.7290729072087001}
+{"sent": "black shirt", "ann_id": 1722753, "best_split": [2, 3], "split_score": 0.7290729072087001}
+{"sent": "woman rider", "ann_id": 1275771, "best_split": [1, 2], "split_score": 0.28160873723367313}
+{"sent": "woman riding horse", "ann_id": 1275771, "best_split": [1, 2], "split_score": 0.28160873723367313}
+{"sent": "woman on horse", "ann_id": 1275771, "best_split": [1, 2], "split_score": 0.28160873723367313}
+{"sent": "woman with head down closest to horse", "ann_id": 1742200, "best_split": [2, 1], "split_score": 0.1613520408098951}
+{"sent": "woman wearing gray jacket", "ann_id": 1742200, "best_split": [2, 1], "split_score": 0.1613520408098951}
+{"sent": "woman in light gray jacket", "ann_id": 1742200, "best_split": [1, 3], "split_score": 0.11432893883108229}

@@ -1,0 +1,6 @@
+{"sent": "brown teddy", "ann_id": 1162496, "best_split": [1, 3], "split_score": 0.6378786290410922}
+{"sent": "any of the bears but the one in full view", "ann_id": 1162496, "best_split": [1, 3], "split_score": 0.6378786290410922}
+{"sent": "number 2 teddy", "ann_id": 1162496, "best_split": [2, 1], "split_score": 0.23727442438589688}
+{"sent": "big white", "ann_id": 1162006, "best_split": [1, 2], "split_score": 0.7490088246339363}
+{"sent": "white teddy bear close to you", "ann_id": 1162006, "best_split": [1, 2], "split_score": 0.7490088246339363}
+{"sent": "big white teddy bear", "ann_id": 1162006, "best_split": [1, 2], "split_score": 0.7490088246339363}

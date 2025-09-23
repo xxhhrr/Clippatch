@@ -1,0 +1,6 @@
+{"sent": "elephant nearest", "ann_id": 584873, "best_split": [1, 2], "split_score": 0.6617553077944417}
+{"sent": "elephant that is closer to us", "ann_id": 584873, "best_split": [1, 2], "split_score": 0.6617553077944417}
+{"sent": "closest elephant", "ann_id": 584873, "best_split": [1, 2], "split_score": 0.6617553077944417}
+{"sent": "smaller animal", "ann_id": 584422, "best_split": [3, 2], "split_score": 0.6533387456207287}
+{"sent": "small elephant", "ann_id": 584422, "best_split": [3, 3], "split_score": 0.5681712423722463}
+{"sent": "elephant behind pole", "ann_id": 584422, "best_split": [3, 2], "split_score": 0.6533387456207287}

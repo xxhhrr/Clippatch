@@ -1,0 +1,6 @@
+{"sent": "blue chair unoccupied at the table", "ann_id": 1602521, "best_split": [3, 3], "split_score": 0.6578044595784212}
+{"sent": "empty blue chair near tiered platter of desserts", "ann_id": 1602521, "best_split": [3, 2], "split_score": 0.4437630177685995}
+{"sent": "empty uppar part of blue chair above tower of desserts", "ann_id": 1602521, "best_split": [3, 3], "split_score": 0.6578044595784212}
+{"sent": "blue chair between 2 blue chairs", "ann_id": 1581538, "best_split": [2, 2], "split_score": 0.2986650576741334}
+{"sent": "blue chair next to chair with white box on it in back", "ann_id": 1581538, "best_split": [2, 2], "split_score": 0.2986650576741334}
+{"sent": "blue chair behind cake", "ann_id": 1581538, "best_split": [2, 2], "split_score": 0.2986650576741334}

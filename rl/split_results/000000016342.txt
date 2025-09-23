@@ -1,0 +1,11 @@
+{"sent": "bed under food", "ann_id": 1956772, "best_split": [2, 3], "split_score": 0.41143822388858126}
+{"sent": "lower one you can not see wall and only one rail", "ann_id": 1956772, "best_split": [1, 2], "split_score": 0.1359215561170312}
+{"sent": "the bed with the can on it", "ann_id": 1612650, "best_split": [2, 3], "split_score": 0.8879999999039999}
+{"sent": "bed with silver thing on it", "ann_id": 1612650, "best_split": [2, 3], "split_score": 0.8879999999039999}
+{"sent": "bed up above food", "ann_id": 1612504, "best_split": [5, 1], "split_score": 0.24369830639585482}
+{"sent": "upper near bunk", "ann_id": 1612504, "best_split": [2, 3], "split_score": 0.3288888888493827}
+{"sent": "bed at 2 pm", "ann_id": 1612407, "best_split": [1, 2], "split_score": 0.13811383928020912}
+{"sent": "a lot of beds in a room", "ann_id": 1612407, "best_split": [5, 1], "split_score": 0.3515624999643301}
+{"sent": "upper bunk near shelf", "ann_id": 1612407, "best_split": [5, 1], "split_score": 0.3515624999643301}
+{"sent": "bed without railing", "ann_id": 1611612, "best_split": [2, 2], "split_score": 0.8700573978898232}
+{"sent": "middle bunk right side", "ann_id": 1611612, "best_split": [1, 2], "split_score": 0.4350286989622517}

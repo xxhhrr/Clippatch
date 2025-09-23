@@ -1,0 +1,6 @@
+{"sent": "bike 3", "ann_id": 153864, "best_split": [5, 1], "split_score": 0.20657276993573334}
+{"sent": "cycle by man in crosswalk", "ann_id": 153864, "best_split": [5, 1], "split_score": 0.20657276993573334}
+{"sent": "bike before one cop is behind", "ann_id": 152933, "best_split": [2, 2], "split_score": 0.29209872934919684}
+{"sent": "closest motorcycle", "ann_id": 150504, "best_split": [2, 3], "split_score": 0.6823117759794508}
+{"sent": "bike on end closest to us", "ann_id": 150504, "best_split": [2, 3], "split_score": 0.6823117759794508}
+{"sent": "bike furthest from walker", "ann_id": 150504, "best_split": [2, 3], "split_score": 0.6823117759794508}

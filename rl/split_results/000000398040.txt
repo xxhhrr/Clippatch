@@ -1,0 +1,5 @@
+{"sent": "small plane", "ann_id": 161601, "best_split": [3, 3], "split_score": 0.36956236031415923}
+{"sent": "the smaller airplane", "ann_id": 161601, "best_split": [3, 3], "split_score": 0.36956236031415923}
+{"sent": "smaller white plane", "ann_id": 161601, "best_split": [3, 3], "split_score": 0.36956236031415923}
+{"sent": "airplane says one world", "ann_id": 156444, "best_split": [3, 1], "split_score": 0.5213400157994544}
+{"sent": "i guessed lol plane with word one on it", "ann_id": 156444, "best_split": [3, 1], "split_score": 0.5213400157994544}

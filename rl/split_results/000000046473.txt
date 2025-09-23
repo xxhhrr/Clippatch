@@ -1,0 +1,5 @@
+{"sent": "bike rider", "ann_id": 1305828, "best_split": [1, 3], "split_score": 0.4818412161871476}
+{"sent": "cop", "ann_id": 1305828, "best_split": [1, 5], "split_score": 0.6469448033369998}
+{"sent": "cop", "ann_id": 1305828, "best_split": [1, 5], "split_score": 0.6469448033369998}
+{"sent": "blue shirt dark shorts on edge", "ann_id": 1211026, "best_split": [1, 5], "split_score": 0.31407205979274816}
+{"sent": "man in blue shirt black shorts", "ann_id": 1211026, "best_split": [1, 5], "split_score": 0.31407205979274816}

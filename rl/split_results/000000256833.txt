@@ -1,0 +1,9 @@
+{"sent": "the window of the car behind the red car", "ann_id": 2051767, "best_split": [2, 2], "split_score": 0.2196269132477976}
+{"sent": "white car behind red truck", "ann_id": 2051767, "best_split": [2, 2], "split_score": 0.2196269132477976}
+{"sent": "gray van", "ann_id": 2051767, "best_split": [2, 3], "split_score": 0.24120490050115714}
+{"sent": "red truck", "ann_id": 1373490, "best_split": [3, 1], "split_score": 0.6253600121030256}
+{"sent": "red truck", "ann_id": 1373490, "best_split": [3, 1], "split_score": 0.6253600121030256}
+{"sent": "red truck", "ann_id": 1373490, "best_split": [3, 1], "split_score": 0.6253600121030256}
+{"sent": "ups truck", "ann_id": 1370147, "best_split": [2, 1], "split_score": 0.4438775510027153}
+{"sent": "call ups", "ann_id": 1370147, "best_split": [3, 1], "split_score": 0.6718146717741424}
+{"sent": "ups truck", "ann_id": 1370147, "best_split": [2, 1], "split_score": 0.4438775510027153}

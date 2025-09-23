@@ -1,0 +1,6 @@
+{"sent": "the largest carrot", "ann_id": 1064905, "best_split": [2, 1], "split_score": 0.5364790742904622}
+{"sent": "the bigger carrot", "ann_id": 1064905, "best_split": [2, 1], "split_score": 0.5364790742904622}
+{"sent": "biggest carrot", "ann_id": 1064905, "best_split": [2, 1], "split_score": 0.5364790742904622}
+{"sent": "smaller carrot", "ann_id": 1064362, "best_split": [3, 1], "split_score": 0.434205149140059}
+{"sent": "carrot not close to knife", "ann_id": 1064362, "best_split": [3, 1], "split_score": 0.434205149140059}
+{"sent": "small carrot", "ann_id": 1064362, "best_split": [3, 1], "split_score": 0.434205149140059}

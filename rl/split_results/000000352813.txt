@@ -1,0 +1,6 @@
+{"sent": "farther piece of sandwich", "ann_id": 1909457, "best_split": [2, 3], "split_score": 0.4624999999483817}
+{"sent": "handheld sandwich", "ann_id": 1909457, "best_split": [3, 3], "split_score": 0.362456976388343}
+{"sent": "sandwich in hand", "ann_id": 1909457, "best_split": [2, 3], "split_score": 0.4624999999483817}
+{"sent": "sandwich with bite taken out", "ann_id": 1553743, "best_split": [2, 1], "split_score": 0.7125717474205767}
+{"sent": "closest part of sandwich", "ann_id": 1553743, "best_split": [2, 1], "split_score": 0.7125717474205767}
+{"sent": "closest burger", "ann_id": 1553743, "best_split": [2, 1], "split_score": 0.7125717474205767}

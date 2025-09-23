@@ -1,0 +1,5 @@
+{"sent": "truck farthest", "ann_id": 399809, "best_split": [5, 1], "split_score": 0.3177966101454452}
+{"sent": "truck by trees", "ann_id": 399809, "best_split": [5, 1], "split_score": 0.3177966101454452}
+{"sent": "closest truck", "ann_id": 399787, "best_split": [3, 2], "split_score": 0.5842105262742382}
+{"sent": "closer truck", "ann_id": 399787, "best_split": [3, 2], "split_score": 0.5842105262742382}
+{"sent": "truck near the building", "ann_id": 399787, "best_split": [3, 2], "split_score": 0.5842105262742382}

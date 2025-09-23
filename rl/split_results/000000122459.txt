@@ -1,0 +1,6 @@
+{"sent": "black cow", "ann_id": 71797, "best_split": [3, 1], "split_score": 0.2609964730100541}
+{"sent": "black face cow", "ann_id": 71797, "best_split": [3, 1], "split_score": 0.2609964730100541}
+{"sent": "cow with black head", "ann_id": 71797, "best_split": [3, 1], "split_score": 0.2609964730100541}
+{"sent": "white nose", "ann_id": 70892, "best_split": [1, 2], "split_score": 0.6619421407188877}
+{"sent": "white faced cow", "ann_id": 70892, "best_split": [1, 2], "split_score": 0.6619421407188877}
+{"sent": "cow with pink nose", "ann_id": 70892, "best_split": [1, 2], "split_score": 0.6619421407188877}

@@ -1,0 +1,6 @@
+{"sent": "person on side", "ann_id": 2157306, "best_split": [1, 2], "split_score": 0.16043526785074796}
+{"sent": "little girl", "ann_id": 2157306, "best_split": [3, 2], "split_score": 0.2015027322207745}
+{"sent": "boy in white shirt", "ann_id": 2157306, "best_split": [2, 2], "split_score": 0.24775962043468938}
+{"sent": "boy", "ann_id": 201997, "best_split": [2, 3], "split_score": 0.6788073220722016}
+{"sent": "baby", "ann_id": 201997, "best_split": [2, 3], "split_score": 0.6788073220722016}
+{"sent": "kid", "ann_id": 201997, "best_split": [2, 3], "split_score": 0.6788073220722016}

@@ -1,0 +1,5 @@
+{"sent": "back of silver car turning", "ann_id": 2204077, "best_split": [3, 3], "split_score": 0.5908440628414084}
+{"sent": "part of silver station wagon", "ann_id": 2204077, "best_split": [3, 3], "split_score": 0.5908440628414084}
+{"sent": "car with trunk and license plate showing", "ann_id": 2204077, "best_split": [3, 3], "split_score": 0.5908440628414084}
+{"sent": "white truck", "ann_id": 146949, "best_split": [3, 1], "split_score": 0.41033506368509115}
+{"sent": "car with the head light", "ann_id": 146949, "best_split": [3, 2], "split_score": 0.802862419113243}

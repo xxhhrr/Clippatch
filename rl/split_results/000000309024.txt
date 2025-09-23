@@ -1,0 +1,6 @@
+{"sent": "blue train", "ann_id": 175174, "best_split": [3, 2], "split_score": 0.5881188118229586}
+{"sent": "the train with blue on it", "ann_id": 175174, "best_split": [3, 1], "split_score": 0.4324069712416152}
+{"sent": "blue and yellow train", "ann_id": 175174, "best_split": [3, 1], "split_score": 0.4324069712416152}
+{"sent": "yellow train hauling spiders", "ann_id": 175096, "best_split": [3, 2], "split_score": 0.46204941985102743}
+{"sent": "yellow train", "ann_id": 175096, "best_split": [3, 2], "split_score": 0.46204941985102743}
+{"sent": "all yellow", "ann_id": 175096, "best_split": [3, 2], "split_score": 0.46204941985102743}

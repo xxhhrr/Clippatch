@@ -1,0 +1,6 @@
+{"sent": "animal with brown nose and small white stripe", "ann_id": 2177245, "best_split": [2, 2], "split_score": 0.5327412147331195}
+{"sent": "cow with less white", "ann_id": 2177245, "best_split": [2, 2], "split_score": 0.5327412147331195}
+{"sent": "calf with small white spot", "ann_id": 2177245, "best_split": [2, 2], "split_score": 0.5327412147331195}
+{"sent": "lower calf", "ann_id": 71846, "best_split": [2, 1], "split_score": 0.33217336284671883}
+{"sent": "animal with more white on face", "ann_id": 71846, "best_split": [2, 1], "split_score": 0.33217336284671883}
+{"sent": "cow with whitest head", "ann_id": 71846, "best_split": [2, 1], "split_score": 0.33217336284671883}

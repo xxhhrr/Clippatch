@@ -1,0 +1,9 @@
+{"sent": "boy in black in foreground", "ann_id": 2161096, "best_split": [3, 3], "split_score": 0.7151576804484303}
+{"sent": "boy in black", "ann_id": 2161096, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "kid with thing in mouth", "ann_id": 2161096, "best_split": [3, 3], "split_score": 0.7151576804484303}
+{"sent": "man in green shirt", "ann_id": 1693029, "best_split": [3, 3], "split_score": 0.4064925899071114}
+{"sent": "bearded guy in green", "ann_id": 1693029, "best_split": [3, 3], "split_score": 0.4064925899071114}
+{"sent": "green shirt man", "ann_id": 1693029, "best_split": [3, 3], "split_score": 0.4064925899071114}
+{"sent": "boy with plaid shirt", "ann_id": 1312920, "best_split": [3, 3], "split_score": 0.3537347811198199}
+{"sent": "boy 7 o clock with plaid shirt", "ann_id": 1312920, "best_split": [3, 3], "split_score": 0.3537347811198199}
+{"sent": "boy sitting next to man", "ann_id": 1312920, "best_split": [2, 1], "split_score": 0.10969387754664804}

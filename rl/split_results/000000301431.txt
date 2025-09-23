@@ -1,0 +1,9 @@
+{"sent": "woman in white with apron", "ann_id": 491063, "best_split": [5, 1], "split_score": 0.14830021348757594}
+{"sent": "polka dot apron", "ann_id": 491063, "best_split": [2, 3], "split_score": 0.3701169719300246}
+{"sent": "lady with hat", "ann_id": 491063, "best_split": [2, 3], "split_score": 0.3701169719300246}
+{"sent": "woman in black", "ann_id": 473715, "best_split": [2, 3], "split_score": 0.3774376179096836}
+{"sent": "black shirt", "ann_id": 473715, "best_split": [3, 3], "split_score": 0.4389632106411701}
+{"sent": "black shirt", "ann_id": 473715, "best_split": [3, 3], "split_score": 0.4389632106411701}
+{"sent": "light blue shirt", "ann_id": 428841, "best_split": [3, 3], "split_score": 0.522733110644396}
+{"sent": "blue shirt", "ann_id": 428841, "best_split": [3, 3], "split_score": 0.522733110644396}
+{"sent": "man baker", "ann_id": 428841, "best_split": [1, 5], "split_score": 0.4584980236742276}

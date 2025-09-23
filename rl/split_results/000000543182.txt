@@ -1,0 +1,6 @@
+{"sent": "broken", "ann_id": 1624189, "best_split": [2, 2], "split_score": 0.4717687583891142}
+{"sent": "the broken toilet", "ann_id": 1624189, "best_split": [1, 2], "split_score": 0.2834024234580914}
+{"sent": "toilet fallen over on ground", "ann_id": 1624189, "best_split": [1, 2], "split_score": 0.2834024234580914}
+{"sent": "toilet nearest to the lid on ground", "ann_id": 1093748, "best_split": [3, 3], "split_score": 0.5337760475688371}
+{"sent": "toilet on side with brown trigs", "ann_id": 1093748, "best_split": [3, 3], "split_score": 0.5337760475688371}
+{"sent": "eastern one", "ann_id": 1093748, "best_split": [3, 3], "split_score": 0.5337760475688371}

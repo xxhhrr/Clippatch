@@ -1,0 +1,9 @@
+{"sent": "guy not looking at camera", "ann_id": 2153435, "best_split": [2, 2], "split_score": 0.4718614718295548}
+{"sent": "guy drolling over the pizza", "ann_id": 2153435, "best_split": [2, 1], "split_score": 0.069860279438939}
+{"sent": "closet guy", "ann_id": 2153435, "best_split": [2, 3], "split_score": 0.6626139816999796}
+{"sent": "girl nearest to pizza", "ann_id": 521010, "best_split": [1, 5], "split_score": 0.23580627605334606}
+{"sent": "girl", "ann_id": 521010, "best_split": [1, 2], "split_score": 0.15027104591237758}
+{"sent": "woman with dark hair in the sunshine", "ann_id": 521010, "best_split": [2, 1], "split_score": 0.15027104591237758}
+{"sent": "man in gray t shirt", "ann_id": 493304, "best_split": [2, 2], "split_score": 0.5289586304900885}
+{"sent": "man looking at camera", "ann_id": 493304, "best_split": [2, 2], "split_score": 0.5289586304900885}
+{"sent": "lookin at cam", "ann_id": 493304, "best_split": [2, 2], "split_score": 0.5289586304900885}

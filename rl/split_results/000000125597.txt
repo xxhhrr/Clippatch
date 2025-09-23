@@ -1,0 +1,6 @@
+{"sent": "pizza in someone hands", "ann_id": 1072698, "best_split": [3, 2], "split_score": 0.5655719391682783}
+{"sent": "pizza being held", "ann_id": 1072698, "best_split": [3, 2], "split_score": 0.5655719391682783}
+{"sent": "pizza on hands", "ann_id": 1072698, "best_split": [3, 2], "split_score": 0.5655719391682783}
+{"sent": "food on plate", "ann_id": 1070671, "best_split": [2, 2], "split_score": 0.3547937569429491}
+{"sent": "pizza not being grabbed", "ann_id": 1070671, "best_split": [2, 2], "split_score": 0.3547937569429491}
+{"sent": "nearest plate", "ann_id": 1070671, "best_split": [2, 3], "split_score": 0.3127052722288068}

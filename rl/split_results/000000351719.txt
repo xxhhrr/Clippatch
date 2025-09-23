@@ -1,0 +1,12 @@
+{"sent": "black and white clothes", "ann_id": 2167791, "best_split": [3, 3], "split_score": 0.7934782607530143}
+{"sent": "black pants white tie", "ann_id": 2167791, "best_split": [3, 3], "split_score": 0.7934782607530143}
+{"sent": "black shirt", "ann_id": 2167791, "best_split": [3, 3], "split_score": 0.7934782607530143}
+{"sent": "chocolate cake", "ann_id": 1086618, "best_split": [2, 2], "split_score": 0.3553090332523527}
+{"sent": "chocolate cake", "ann_id": 1086618, "best_split": [2, 2], "split_score": 0.3553090332523527}
+{"sent": "brown cake", "ann_id": 1086618, "best_split": [2, 2], "split_score": 0.3553090332523527}
+{"sent": "white cake", "ann_id": 1086491, "best_split": [3, 2], "split_score": 0.5397520057859453}
+{"sent": "white cake", "ann_id": 1086491, "best_split": [3, 2], "split_score": 0.5397520057859453}
+{"sent": "white cake", "ann_id": 1086491, "best_split": [3, 2], "split_score": 0.5397520057859453}
+{"sent": "person with hands on box", "ann_id": 499595, "best_split": [3, 3], "split_score": 0.9248416365477072}
+{"sent": "hand in corner", "ann_id": 499595, "best_split": [3, 1], "split_score": 0.3188713771135782}
+{"sent": "person with hands closest to the white cake", "ann_id": 499595, "best_split": [2, 3], "split_score": 0.6958252894913338}

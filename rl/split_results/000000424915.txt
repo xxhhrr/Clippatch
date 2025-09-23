@@ -1,0 +1,9 @@
+{"sent": "partial bike in corner", "ann_id": 2034675, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "bike you can barely see really close", "ann_id": 2034675, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "tire in corner at 700", "ann_id": 2034675, "best_split": [1, 2], "split_score": 0.1506696428511372}
+{"sent": "white bike", "ann_id": 126500, "best_split": [2, 2], "split_score": 0.5999698203863008}
+{"sent": "brighter colored bike", "ann_id": 126500, "best_split": [2, 2], "split_score": 0.5999698203863008}
+{"sent": "white bicycle", "ann_id": 126500, "best_split": [2, 2], "split_score": 0.5999698203863008}
+{"sent": "full bike", "ann_id": 126135, "best_split": [2, 1], "split_score": 0.4074883847934548}
+{"sent": "black bike", "ann_id": 126135, "best_split": [2, 1], "split_score": 0.4074883847934548}
+{"sent": "black bike", "ann_id": 126135, "best_split": [2, 1], "split_score": 0.4074883847934548}

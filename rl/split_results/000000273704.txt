@@ -1,0 +1,6 @@
+{"sent": "kid in white", "ann_id": 512617, "best_split": [1, 2], "split_score": 0.768390243872453}
+{"sent": "white shirt", "ann_id": 512617, "best_split": [1, 2], "split_score": 0.768390243872453}
+{"sent": "boy closeest to cake", "ann_id": 512617, "best_split": [2, 1], "split_score": 0.27300053374517513}
+{"sent": "boy in blue", "ann_id": 500519, "best_split": [1, 5], "split_score": 0.4578214577873709}
+{"sent": "little boy", "ann_id": 500519, "best_split": [1, 5], "split_score": 0.4578214577873709}
+{"sent": "blue", "ann_id": 500519, "best_split": [3, 2], "split_score": 0.3798069556932889}

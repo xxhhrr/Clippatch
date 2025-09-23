@@ -1,0 +1,8 @@
+{"sent": "table without dog", "ann_id": 1812876, "best_split": [2, 2], "split_score": 0.4460699560815221}
+{"sent": "empty long bench", "ann_id": 1812876, "best_split": [3, 1], "split_score": 0.28786970422222874}
+{"sent": "bench with dog on it", "ann_id": 577314, "best_split": [3, 2], "split_score": 0.7774033695958966}
+{"sent": "dog sitting on it", "ann_id": 577314, "best_split": [1, 2], "split_score": 0.38448660712753163}
+{"sent": "bench person is sitting on", "ann_id": 577314, "best_split": [3, 2], "split_score": 0.7774033695958966}
+{"sent": "the two planks together", "ann_id": 576594, "best_split": [2, 2], "split_score": 0.4765957446491625}
+{"sent": "bench can onlhy see 2 boards", "ann_id": 576594, "best_split": [2, 2], "split_score": 0.4765957446491625}
+{"sent": "partial bench without table", "ann_id": 576594, "best_split": [2, 2], "split_score": 0.4765957446491625}

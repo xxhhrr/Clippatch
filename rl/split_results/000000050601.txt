@@ -1,0 +1,6 @@
+{"sent": "dog mostly blocked", "ann_id": 1411540, "best_split": [2, 1], "split_score": 0.257493622438716}
+{"sent": "black critter beneath table", "ann_id": 1411540, "best_split": [2, 1], "split_score": 0.257493622438716}
+{"sent": "black thing below cement table", "ann_id": 1411540, "best_split": [1, 2], "split_score": 0.257493622438716}
+{"sent": "idk black area at food of tree trunk", "ann_id": 587528, "best_split": [3, 3], "split_score": 0.2882019438055883}
+{"sent": "animal", "ann_id": 587528, "best_split": [2, 2], "split_score": 0.32421874997415345}
+{"sent": "black animal by tree", "ann_id": 587528, "best_split": [2, 2], "split_score": 0.32421874997415345}

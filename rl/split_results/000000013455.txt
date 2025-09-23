@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 1710393, "best_split": [2, 3], "split_score": 0.3632148376724205}
+{"sent": "red", "ann_id": 1710393, "best_split": [2, 3], "split_score": 0.3632148376724205}
+{"sent": "red shirt", "ann_id": 1710393, "best_split": [2, 3], "split_score": 0.3632148376724205}
+{"sent": "man in floral shirt walking toward sheep", "ann_id": 219648, "best_split": [5, 1], "split_score": 0.1455724943142671}
+{"sent": "light shirt", "ann_id": 219648, "best_split": [1, 2], "split_score": 0.31102519131413325}
+{"sent": "man in light blue jeans", "ann_id": 219648, "best_split": [1, 5], "split_score": 0.5937725631233057}

@@ -1,0 +1,6 @@
+{"sent": "number 2 cow right side", "ann_id": 74537, "best_split": [3, 2], "split_score": 0.626710097661544}
+{"sent": "fifth cow from the side with the pond", "ann_id": 74537, "best_split": [1, 2], "split_score": 0.3663504464139688}
+{"sent": "secondmost cow", "ann_id": 74537, "best_split": [3, 2], "split_score": 0.626710097661544}
+{"sent": "closest cow", "ann_id": 73116, "best_split": [3, 2], "split_score": 0.4589570652690445}
+{"sent": "nearest cow", "ann_id": 73116, "best_split": [3, 2], "split_score": 0.4589570652690445}
+{"sent": "the closest cattle", "ann_id": 73116, "best_split": [3, 2], "split_score": 0.4589570652690445}

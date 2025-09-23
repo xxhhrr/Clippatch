@@ -1,0 +1,9 @@
+{"sent": "the jar that has no cucumbers and has a stripe of yellow pepper", "ann_id": 371838, "best_split": [2, 3], "split_score": 0.35172413789313317}
+{"sent": "jar that is darkest and least showing", "ann_id": 371711, "best_split": [2, 1], "split_score": 0.10509554139728937}
+{"sent": "jar behind three other jars that is least visible", "ann_id": 371711, "best_split": [2, 3], "split_score": 0.2762790697388859}
+{"sent": "jaw almost out of view and dark", "ann_id": 371711, "best_split": [3, 1], "split_score": 0.1116138763137463}
+{"sent": "jar in full view", "ann_id": 1866855, "best_split": [2, 1], "split_score": 0.3240360039914425}
+{"sent": "the salmonella jar closest to us", "ann_id": 1866855, "best_split": [1, 3], "split_score": 0.6530698420465725}
+{"sent": "jar", "ann_id": 1866855, "best_split": [2, 1], "split_score": 0.3240360039914425}
+{"sent": "partial jar 9", "ann_id": 371149, "best_split": [2, 3], "split_score": 0.3588681849197606}
+{"sent": "jar number 4", "ann_id": 370929, "best_split": [2, 1], "split_score": 0.17505720823172707}

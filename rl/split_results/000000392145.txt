@@ -1,0 +1,12 @@
+{"sent": "yellow chair", "ann_id": 1935639, "best_split": [5, 1], "split_score": 0.15418664697951062}
+{"sent": "full orange", "ann_id": 1935639, "best_split": [2, 3], "split_score": 0.32094594590722175}
+{"sent": "yellow chair", "ann_id": 1935639, "best_split": [5, 1], "split_score": 0.15418664697951062}
+{"sent": "that ok black chair", "ann_id": 290410, "best_split": [5, 1], "split_score": 0.16944801025403924}
+{"sent": "green lounge chair", "ann_id": 290410, "best_split": [1, 5], "split_score": 0.24186952285863003}
+{"sent": "green chair", "ann_id": 290410, "best_split": [1, 5], "split_score": 0.24186952285863003}
+{"sent": "red chair you can see the back of", "ann_id": 290366, "best_split": [3, 2], "split_score": 0.21509433959876867}
+{"sent": "red chair", "ann_id": 290366, "best_split": [3, 2], "split_score": 0.21509433959876867}
+{"sent": "orange chair near unbrella next to yellow chair", "ann_id": 290366, "best_split": [3, 2], "split_score": 0.21509433959876867}
+{"sent": "white chair closest to us", "ann_id": 290008, "best_split": [3, 3], "split_score": 0.8705882351557093}
+{"sent": "white closest chair", "ann_id": 290008, "best_split": [3, 3], "split_score": 0.8705882351557093}
+{"sent": "white chair nearest us", "ann_id": 290008, "best_split": [3, 3], "split_score": 0.8705882351557093}

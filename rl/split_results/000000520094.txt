@@ -1,0 +1,9 @@
+{"sent": "man yellow shirt", "ann_id": 2155945, "best_split": [1, 2], "split_score": 0.4824838750321714}
+{"sent": "tall yellow shirt guy", "ann_id": 2155945, "best_split": [1, 2], "split_score": 0.4824838750321714}
+{"sent": "male yellow", "ann_id": 2155945, "best_split": [1, 2], "split_score": 0.4824838750321714}
+{"sent": "girl cutting cake", "ann_id": 1234929, "best_split": [1, 2], "split_score": 0.45585215604077983}
+{"sent": "girl cutting cake", "ann_id": 1234929, "best_split": [1, 2], "split_score": 0.45585215604077983}
+{"sent": "girl cutting cake", "ann_id": 1234929, "best_split": [1, 2], "split_score": 0.45585215604077983}
+{"sent": "lady with yellow shirt", "ann_id": 465825, "best_split": [3, 1], "split_score": 0.24161950368733023}
+{"sent": "lady white blouse yellow shirt", "ann_id": 465825, "best_split": [3, 1], "split_score": 0.24161950368733023}
+{"sent": "white button shirt with yellow shirt underneath", "ann_id": 465825, "best_split": [3, 1], "split_score": 0.24161950368733023}

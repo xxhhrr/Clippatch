@@ -1,0 +1,9 @@
+{"sent": "white with blue stuff", "ann_id": 1647545, "best_split": [1, 5], "split_score": 0.2523939808234909}
+{"sent": "freezer with blue stickers", "ann_id": 1647545, "best_split": [5, 1], "split_score": 0.14243693732574766}
+{"sent": "white cube not rectangle", "ann_id": 1647545, "best_split": [1, 5], "split_score": 0.2523939808234909}
+{"sent": "brown", "ann_id": 332808, "best_split": [3, 3], "split_score": 0.33087313739996194}
+{"sent": "brown", "ann_id": 332808, "best_split": [3, 3], "split_score": 0.33087313739996194}
+{"sent": "brown fridge", "ann_id": 332808, "best_split": [3, 3], "split_score": 0.33087313739996194}
+{"sent": "white open fridge", "ann_id": 332458, "best_split": [1, 5], "split_score": 0.43356643353197977}
+{"sent": "white large fridge", "ann_id": 332458, "best_split": [1, 5], "split_score": 0.43356643353197977}
+{"sent": "open white fridge", "ann_id": 332458, "best_split": [1, 5], "split_score": 0.43356643353197977}

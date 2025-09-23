@@ -1,0 +1,6 @@
+{"sent": "on the ground", "ann_id": 491237, "best_split": [2, 2], "split_score": 0.6055962691135512}
+{"sent": "man on ground", "ann_id": 491237, "best_split": [2, 2], "split_score": 0.6055962691135512}
+{"sent": "guy on ground", "ann_id": 491237, "best_split": [2, 2], "split_score": 0.6055962691135512}
+{"sent": "in air", "ann_id": 486124, "best_split": [2, 1], "split_score": 0.43620769318366037}
+{"sent": "guy in blue", "ann_id": 486124, "best_split": [2, 1], "split_score": 0.43620769318366037}
+{"sent": "fielder", "ann_id": 486124, "best_split": [1, 2], "split_score": 0.4206181444121167}

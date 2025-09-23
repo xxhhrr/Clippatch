@@ -1,0 +1,7 @@
+{"sent": "yellow shirt man", "ann_id": 260252, "best_split": [1, 5], "split_score": 0.3458639442471268}
+{"sent": "adult in yellow shirt", "ann_id": 260252, "best_split": [1, 5], "split_score": 0.3458639442471268}
+{"sent": "bright yellow adult", "ann_id": 260252, "best_split": [1, 5], "split_score": 0.3458639442471268}
+{"sent": "kid yellow shirt", "ann_id": 206160, "best_split": [2, 3], "split_score": 0.5301011719392866}
+{"sent": "kid playing tennis", "ann_id": 206160, "best_split": [2, 2], "split_score": 0.39278328457585515}
+{"sent": "foreground tennis kid", "ann_id": 206160, "best_split": [2, 2], "split_score": 0.39278328457585515}
+{"sent": "boy in yellow shirt holding racket", "ann_id": 206160, "best_split": [2, 3], "split_score": 0.5301011719392866}

@@ -1,0 +1,11 @@
+{"sent": "girl black", "ann_id": 226543, "best_split": [5, 1], "split_score": 0.1549295774523904}
+{"sent": "brunette", "ann_id": 226543, "best_split": [2, 3], "split_score": 0.4031413612125718}
+{"sent": "woman long hair", "ann_id": 226543, "best_split": [2, 3], "split_score": 0.4031413612125718}
+{"sent": "stripped shirt", "ann_id": 220707, "best_split": [1, 2], "split_score": 0.5857853373102325}
+{"sent": "blond girl", "ann_id": 220707, "best_split": [1, 2], "split_score": 0.5857853373102325}
+{"sent": "chair without bunny", "ann_id": 103650, "best_split": [3, 1], "split_score": 0.26765642842653986}
+{"sent": "chair with no bear", "ann_id": 103650, "best_split": [3, 1], "split_score": 0.26765642842653986}
+{"sent": "chair behind womans head", "ann_id": 103650, "best_split": [3, 3], "split_score": 0.7578743619993182}
+{"sent": "far away chair", "ann_id": 102896, "best_split": [3, 2], "split_score": 0.47164835159652213}
+{"sent": "chair with most pillows", "ann_id": 102896, "best_split": [3, 2], "split_score": 0.47164835159652213}
+{"sent": "chair with junk on it", "ann_id": 102896, "best_split": [3, 2], "split_score": 0.47164835159652213}

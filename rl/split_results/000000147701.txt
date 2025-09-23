@@ -1,0 +1,9 @@
+{"sent": "drummer", "ann_id": 1239052, "best_split": [2, 2], "split_score": 0.25567561003668354}
+{"sent": "sitting person", "ann_id": 1239052, "best_split": [2, 3], "split_score": 0.6161715521723222}
+{"sent": "sitting person", "ann_id": 1239052, "best_split": [2, 3], "split_score": 0.6161715521723222}
+{"sent": "older lady with guitar", "ann_id": 514926, "best_split": [1, 3], "split_score": 0.7749165474025443}
+{"sent": "woman playing guitar", "ann_id": 514926, "best_split": [1, 3], "split_score": 0.7749165474025443}
+{"sent": "mom thinks she can play guitar", "ann_id": 514926, "best_split": [1, 3], "split_score": 0.7749165474025443}
+{"sent": "guitar playing man", "ann_id": 488802, "best_split": [1, 3], "split_score": 0.5045849420545013}
+{"sent": "male guitarist", "ann_id": 488802, "best_split": [2, 1], "split_score": 0.13968383755315877}
+{"sent": "adult man standing", "ann_id": 488802, "best_split": [1, 2], "split_score": 0.33338647957854806}

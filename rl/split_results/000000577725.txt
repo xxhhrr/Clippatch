@@ -1,0 +1,6 @@
+{"sent": "man out of frame", "ann_id": 1219171, "best_split": [3, 2], "split_score": 0.34217612442982187}
+{"sent": "blue shirted arm", "ann_id": 1219171, "best_split": [1, 5], "split_score": 0.47516198699438816}
+{"sent": "man in blue shirt halfway on screen", "ann_id": 1219171, "best_split": [1, 5], "split_score": 0.47516198699438816}
+{"sent": "man on tv", "ann_id": 205480, "best_split": [1, 3], "split_score": 0.34403905445302985}
+{"sent": "white guy on tv", "ann_id": 205480, "best_split": [2, 3], "split_score": 0.4105155127172562}
+{"sent": "man on cscreen", "ann_id": 205480, "best_split": [2, 3], "split_score": 0.4105155127172562}

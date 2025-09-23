@@ -1,0 +1,13 @@
+{"sent": "sofa dark striped", "ann_id": 1943799, "best_split": [1, 5], "split_score": 0.29615651998250503}
+{"sent": "chair closest to bench", "ann_id": 1943799, "best_split": [2, 2], "split_score": 0.19063469247366407}
+{"sent": "least visible couch arm with pink on it", "ann_id": 117142, "best_split": [2, 3], "split_score": 0.27566334490627165}
+{"sent": "couch arm that is barely on the screen corner", "ann_id": 117142, "best_split": [2, 3], "split_score": 0.27566334490627165}
+{"sent": "partial arm at 4 o clock", "ann_id": 117142, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "the sriped seat in the shadows facing us", "ann_id": 1949970, "best_split": [5, 1], "split_score": 0.1383277709346278}
+{"sent": "chair at 3 o clock", "ann_id": 1949970, "best_split": [2, 2], "split_score": 0.18382631059960464}
+{"sent": "upholstered chair", "ann_id": 113430, "best_split": [2, 3], "split_score": 0.7068332108094385}
+{"sent": "close chair", "ann_id": 113430, "best_split": [2, 3], "split_score": 0.7068332108094385}
+{"sent": "armchair", "ann_id": 113430, "best_split": [2, 3], "split_score": 0.7068332108094385}
+{"sent": "striped seat with back showing", "ann_id": 103387, "best_split": [2, 3], "split_score": 0.6977221806667548}
+{"sent": "striped couch", "ann_id": 103387, "best_split": [2, 3], "split_score": 0.6977221806667548}
+{"sent": "hideously ugly white chair", "ann_id": 103387, "best_split": [2, 3], "split_score": 0.6977221806667548}

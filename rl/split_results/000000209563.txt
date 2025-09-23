@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 231729, "best_split": [1, 3], "split_score": 0.4784025096236485}
+{"sent": "man in blue", "ann_id": 231729, "best_split": [1, 3], "split_score": 0.4784025096236485}
+{"sent": "the man", "ann_id": 231729, "best_split": [1, 5], "split_score": 0.4183413077816315}
+{"sent": "woman not eating", "ann_id": 220134, "best_split": [3, 2], "split_score": 0.4461355998768397}
+{"sent": "least smiley", "ann_id": 220134, "best_split": [3, 2], "split_score": 0.4461355998768397}
+{"sent": "woman with hair up", "ann_id": 220134, "best_split": [3, 3], "split_score": 0.6016260161786414}
+{"sent": "girl eating", "ann_id": 217958, "best_split": [3, 3], "split_score": 0.5626520680409592}
+{"sent": "fatty", "ann_id": 217958, "best_split": [3, 3], "split_score": 0.5626520680409592}
+{"sent": "girl putting something in her mouth", "ann_id": 217958, "best_split": [3, 3], "split_score": 0.5626520680409592}

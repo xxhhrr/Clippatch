@@ -1,0 +1,6 @@
+{"sent": "yellow shirt", "ann_id": 552304, "best_split": [3, 3], "split_score": 0.6012186864249799}
+{"sent": "yellow", "ann_id": 552304, "best_split": [3, 3], "split_score": 0.6012186864249799}
+{"sent": "yellow shirt in corner", "ann_id": 552304, "best_split": [3, 3], "split_score": 0.6012186864249799}
+{"sent": "blue shirt white gloves", "ann_id": 483418, "best_split": [1, 2], "split_score": 0.567965742100732}
+{"sent": "person with blue shirt and white glove", "ann_id": 483418, "best_split": [1, 2], "split_score": 0.567965742100732}
+{"sent": "blue shirt near counter", "ann_id": 483418, "best_split": [1, 2], "split_score": 0.567965742100732}

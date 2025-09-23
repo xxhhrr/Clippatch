@@ -1,0 +1,6 @@
+{"sent": "cow between the boat and the other cow drinking water", "ann_id": 75570, "best_split": [3, 2], "split_score": 0.47368421048362613}
+{"sent": "cow not drinking", "ann_id": 75570, "best_split": [3, 2], "split_score": 0.47368421048362613}
+{"sent": "bull 1", "ann_id": 75570, "best_split": [3, 2], "split_score": 0.47368421048362613}
+{"sent": "fatter cow", "ann_id": 72140, "best_split": [3, 3], "split_score": 0.5368627450454055}
+{"sent": "closer cow", "ann_id": 72140, "best_split": [3, 3], "split_score": 0.5368627450454055}
+{"sent": "cow drinking", "ann_id": 72140, "best_split": [3, 3], "split_score": 0.5368627450454055}

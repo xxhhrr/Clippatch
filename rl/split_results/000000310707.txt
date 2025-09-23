@@ -1,0 +1,6 @@
+{"sent": "sheet behind teddy bear", "ann_id": 1957469, "best_split": [2, 1], "split_score": 0.9866470025116929}
+{"sent": "light blue pattern behind bear", "ann_id": 1957469, "best_split": [2, 1], "split_score": 0.9866470025116929}
+{"sent": "blanket above animal", "ann_id": 1957469, "best_split": [1, 2], "split_score": 0.3323264454988819}
+{"sent": "blanket under teddy bear", "ann_id": 1957126, "best_split": [1, 2], "split_score": 0.36299604439548305}
+{"sent": "plaid blanket bear is sitting on", "ann_id": 1957126, "best_split": [2, 1], "split_score": 0.8637981574237926}
+{"sent": "the blanket the bears sitting on", "ann_id": 1957126, "best_split": [2, 1], "split_score": 0.8637981574237926}

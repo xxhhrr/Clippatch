@@ -1,0 +1,5 @@
+{"sent": "back of chair guy is sitting on", "ann_id": 104312, "best_split": [3, 3], "split_score": 0.29198925576046936}
+{"sent": "black chair man is sitting in", "ann_id": 104312, "best_split": [2, 3], "split_score": 0.12304547775952523}
+{"sent": "chair back", "ann_id": 104312, "best_split": [1, 5], "split_score": 0.17005218037923478}
+{"sent": "black small desk chair", "ann_id": 102283, "best_split": [3, 3], "split_score": 0.43227478930131646}
+{"sent": "nearest seat", "ann_id": 102283, "best_split": [2, 1], "split_score": 0.13408801019873692}

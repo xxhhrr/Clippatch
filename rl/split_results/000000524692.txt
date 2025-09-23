@@ -1,0 +1,5 @@
+{"sent": "last elephant", "ann_id": 585811, "best_split": [3, 2], "split_score": 0.45664176677032786}
+{"sent": "closest elephant", "ann_id": 585811, "best_split": [3, 2], "split_score": 0.45664176677032786}
+{"sent": "elephant at 8 o clock", "ann_id": 585811, "best_split": [1, 3], "split_score": 0.5584076054332496}
+{"sent": "star elephant", "ann_id": 580424, "best_split": [3, 3], "split_score": 0.5288515405421776}
+{"sent": "2 elephant", "ann_id": 580424, "best_split": [3, 3], "split_score": 0.5288515405421776}

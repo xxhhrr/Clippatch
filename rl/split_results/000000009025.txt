@@ -1,0 +1,12 @@
+{"sent": "woman in glasses", "ann_id": 492455, "best_split": [3, 3], "split_score": 0.5534082922429008}
+{"sent": "woman with loose dark hair and glasses", "ann_id": 492455, "best_split": [3, 3], "split_score": 0.5534082922429008}
+{"sent": "woman with black hair and glasses", "ann_id": 492455, "best_split": [3, 3], "split_score": 0.5534082922429008}
+{"sent": "blond with white shirt", "ann_id": 483535, "best_split": [2, 1], "split_score": 0.2888888888805298}
+{"sent": "blond woman next to guy in red", "ann_id": 483535, "best_split": [3, 1], "split_score": 0.3566265060106692}
+{"sent": "blond hair woman", "ann_id": 483535, "best_split": [2, 1], "split_score": 0.2888888888805298}
+{"sent": "man in red", "ann_id": 481450, "best_split": [1, 2], "split_score": 0.768057860272142}
+{"sent": "red", "ann_id": 481450, "best_split": [1, 2], "split_score": 0.768057860272142}
+{"sent": "red shirt", "ann_id": 481450, "best_split": [1, 2], "split_score": 0.768057860272142}
+{"sent": "woman short brown hair", "ann_id": 455816, "best_split": [3, 2], "split_score": 0.5332302936041918}
+{"sent": "young girl wearing necklance", "ann_id": 455816, "best_split": [1, 5], "split_score": 0.2949061661951318}
+{"sent": "girl with necklace", "ann_id": 455816, "best_split": [1, 5], "split_score": 0.2949061661951318}

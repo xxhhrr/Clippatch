@@ -1,0 +1,6 @@
+{"sent": "gal", "ann_id": 2152128, "best_split": [3, 2], "split_score": 0.40984919255239227}
+{"sent": "woman", "ann_id": 2152128, "best_split": [3, 2], "split_score": 0.40984919255239227}
+{"sent": "girl", "ann_id": 2152128, "best_split": [3, 2], "split_score": 0.40984919255239227}
+{"sent": "guy not facing camera", "ann_id": 459015, "best_split": [1, 5], "split_score": 0.3231821006585471}
+{"sent": "guy", "ann_id": 459015, "best_split": [1, 2], "split_score": 0.2397786658376968}
+{"sent": "man in back", "ann_id": 459015, "best_split": [3, 2], "split_score": 0.4027576197022172}

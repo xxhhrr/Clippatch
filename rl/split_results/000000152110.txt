@@ -1,0 +1,6 @@
+{"sent": "giraffe directly facing us", "ann_id": 600831, "best_split": [3, 1], "split_score": 0.2946401224985937}
+{"sent": "shorter giraffe", "ann_id": 600831, "best_split": [3, 1], "split_score": 0.2946401224985937}
+{"sent": "shorter", "ann_id": 600831, "best_split": [2, 3], "split_score": 0.1677539608482126}
+{"sent": "larger giraffe", "ann_id": 599999, "best_split": [1, 3], "split_score": 0.5630037750962655}
+{"sent": "taller giraffe", "ann_id": 599999, "best_split": [1, 3], "split_score": 0.5630037750962655}
+{"sent": "tallest giraffe", "ann_id": 599999, "best_split": [1, 3], "split_score": 0.5630037750962655}

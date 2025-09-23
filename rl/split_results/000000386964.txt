@@ -1,0 +1,20 @@
+{"sent": "apple quarter", "ann_id": 1050509, "best_split": [3, 3], "split_score": 0.14944491885148806}
+{"sent": "quarter apple", "ann_id": 1050509, "best_split": [3, 1], "split_score": 0.0579278384608889}
+{"sent": "yellow apple slice in quarter with skin", "ann_id": 1050509, "best_split": [3, 3], "split_score": 0.14944491885148806}
+{"sent": "sliced of apple near knife", "ann_id": 1050494, "best_split": [1, 5], "split_score": 0.2569093032058282}
+{"sent": "slice near knife", "ann_id": 1050494, "best_split": [1, 5], "split_score": 0.2569093032058282}
+{"sent": "smaller cut apple touching knife blade", "ann_id": 1050494, "best_split": [1, 5], "split_score": 0.2569093032058282}
+{"sent": "speckled apple behind halved apple", "ann_id": 1050449, "best_split": [3, 2], "split_score": 0.4137643378087837}
+{"sent": "apple above the halved yellow apple", "ann_id": 1050449, "best_split": [3, 2], "split_score": 0.4137643378087837}
+{"sent": "smallest whole apple", "ann_id": 1050365, "best_split": [5, 1], "split_score": 0.1818014874500228}
+{"sent": "farthest back apple", "ann_id": 1050365, "best_split": [5, 1], "split_score": 0.1818014874500228}
+{"sent": "small reddish apple", "ann_id": 1050365, "best_split": [5, 1], "split_score": 0.1818014874500228}
+{"sent": "half apple unpeeled", "ann_id": 1050122, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "exactly half apple", "ann_id": 1050122, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "half apple", "ann_id": 1050122, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "red apple", "ann_id": 1050112, "best_split": [2, 2], "split_score": 0.5374592833459393}
+{"sent": "whole apple isnt against any other", "ann_id": 1050112, "best_split": [2, 2], "split_score": 0.5374592833459393}
+{"sent": "red apple", "ann_id": 1050112, "best_split": [2, 2], "split_score": 0.5374592833459393}
+{"sent": "yellow apple full round", "ann_id": 1047618, "best_split": [3, 3], "split_score": 0.3868956918704951}
+{"sent": "whole yellow apple", "ann_id": 1047618, "best_split": [3, 3], "split_score": 0.3868956918704951}
+{"sent": "yellow apple middle others", "ann_id": 1047618, "best_split": [2, 3], "split_score": 0.3104434906692782}

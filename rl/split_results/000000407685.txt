@@ -1,0 +1,6 @@
+{"sent": "boy in yellow shirt wearing knit hat", "ann_id": 206243, "best_split": [1, 5], "split_score": 0.33870967739496616}
+{"sent": "boy with beanie", "ann_id": 206243, "best_split": [2, 3], "split_score": 0.3619199999710464}
+{"sent": "yellow shirt", "ann_id": 206243, "best_split": [1, 5], "split_score": 0.33870967739496616}
+{"sent": "girl in black on side", "ann_id": 196361, "best_split": [2, 1], "split_score": 0.31246290800027954}
+{"sent": "girl closest to us", "ann_id": 196361, "best_split": [2, 3], "split_score": 0.7545317219831447}
+{"sent": "brown haired girl with earrings", "ann_id": 196361, "best_split": [2, 3], "split_score": 0.7545317219831447}

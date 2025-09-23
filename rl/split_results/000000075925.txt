@@ -1,0 +1,6 @@
+{"sent": "walking towards us white shirt no tie", "ann_id": 1714178, "best_split": [3, 1], "split_score": 0.1253104538199757}
+{"sent": "dude walking away from subway younger", "ann_id": 1714178, "best_split": [1, 5], "split_score": 0.3409090908745019}
+{"sent": "man with white shirt and jacket walking away from subway", "ann_id": 1714178, "best_split": [3, 3], "split_score": 0.33555018132775843}
+{"sent": "person with backpack walking", "ann_id": 450764, "best_split": [2, 3], "split_score": 0.41036632887662056}
+{"sent": "walking away in backpack", "ann_id": 450764, "best_split": [2, 3], "split_score": 0.41036632887662056}
+{"sent": "pink and blue jacket with backpack", "ann_id": 450764, "best_split": [1, 3], "split_score": 0.37331081078828965}

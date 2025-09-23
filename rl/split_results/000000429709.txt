@@ -1,0 +1,6 @@
+{"sent": "black cow", "ann_id": 1408845, "best_split": [3, 1], "split_score": 0.44444444442106246}
+{"sent": "black cow only can see partial", "ann_id": 1408845, "best_split": [3, 1], "split_score": 0.44444444442106246}
+{"sent": "cow behind head of cow", "ann_id": 1408845, "best_split": [3, 1], "split_score": 0.44444444442106246}
+{"sent": "eyeball", "ann_id": 70196, "best_split": [3, 1], "split_score": 0.5100389571280327}
+{"sent": "main animal", "ann_id": 70196, "best_split": [3, 1], "split_score": 0.5100389571280327}
+{"sent": "cow head", "ann_id": 70196, "best_split": [2, 1], "split_score": 0.48781082397343334}

@@ -1,0 +1,4 @@
+{"sent": "piece of food with five black circles", "ann_id": 2117794, "best_split": [3, 2], "split_score": 0.5701217262581983}
+{"sent": "piece of pizza at 7 o clock", "ann_id": 2117794, "best_split": [2, 1], "split_score": 0.318526468846085}
+{"sent": "pizza slice in 11 o clock position", "ann_id": 1570876, "best_split": [1, 3], "split_score": 0.17486122124430703}
+{"sent": "closest piece", "ann_id": 1074420, "best_split": [2, 3], "split_score": 0.6393599999488512}

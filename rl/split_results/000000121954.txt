@@ -1,0 +1,9 @@
+{"sent": "catcher", "ann_id": 549311, "best_split": [5, 1], "split_score": 0.2193706579305786}
+{"sent": "umpire in red", "ann_id": 549311, "best_split": [2, 2], "split_score": 0.3768376602770693}
+{"sent": "catcher", "ann_id": 549311, "best_split": [5, 1], "split_score": 0.2193706579305786}
+{"sent": "black catcher", "ann_id": 548765, "best_split": [3, 1], "split_score": 0.1961378265702311}
+{"sent": "umpire", "ann_id": 548765, "best_split": [3, 3], "split_score": 0.4908623256408742}
+{"sent": "black wearing mask", "ann_id": 548765, "best_split": [3, 3], "split_score": 0.4908623256408742}
+{"sent": "batter up", "ann_id": 1739829, "best_split": [1, 5], "split_score": 0.4730769230355702}
+{"sent": "batter", "ann_id": 1739829, "best_split": [1, 5], "split_score": 0.4730769230355702}
+{"sent": "batter", "ann_id": 1739829, "best_split": [1, 5], "split_score": 0.4730769230355702}

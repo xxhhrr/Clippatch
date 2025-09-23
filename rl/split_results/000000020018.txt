@@ -1,0 +1,6 @@
+{"sent": "round shape", "ann_id": 598451, "best_split": [5, 1], "split_score": 0.31010180106596497}
+{"sent": "butt", "ann_id": 598451, "best_split": [1, 5], "split_score": 0.19201995010758638}
+{"sent": "giraffe bent over", "ann_id": 598451, "best_split": [1, 5], "split_score": 0.19201995010758638}
+{"sent": "giraffe", "ann_id": 597558, "best_split": [1, 2], "split_score": 0.4866494598002181}
+{"sent": "large giraffe", "ann_id": 597558, "best_split": [1, 2], "split_score": 0.4866494598002181}
+{"sent": "giraffe", "ann_id": 597558, "best_split": [1, 2], "split_score": 0.4866494598002181}

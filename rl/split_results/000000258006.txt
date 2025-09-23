@@ -1,0 +1,4 @@
+{"sent": "chair on the side away from the window and farthest from you", "ann_id": 1931384, "best_split": [2, 2], "split_score": 0.31690461722988267}
+{"sent": "chair on this side", "ann_id": 1931238, "best_split": [2, 3], "split_score": 0.5704493525732626}
+{"sent": "chair back closest to us", "ann_id": 1931238, "best_split": [2, 3], "split_score": 0.5704493525732626}
+{"sent": "closest back chair visible", "ann_id": 1931238, "best_split": [2, 3], "split_score": 0.5704493525732626}

@@ -1,0 +1,15 @@
+{"sent": "blue shirt looking at paper in others hands", "ann_id": 1303501, "best_split": [3, 2], "split_score": 0.24330392941112236}
+{"sent": "kid in black shirt and red pants", "ann_id": 1303501, "best_split": [2, 2], "split_score": 0.2992307186337543}
+{"sent": "blue shirt red shorts", "ann_id": 1303501, "best_split": [1, 5], "split_score": 0.672413793037577}
+{"sent": "the white shirted man who is reading", "ann_id": 1276370, "best_split": [1, 3], "split_score": 0.6158301157929639}
+{"sent": "man reading paper", "ann_id": 1276370, "best_split": [1, 3], "split_score": 0.6158301157929639}
+{"sent": "person reading paper", "ann_id": 1276370, "best_split": [1, 3], "split_score": 0.6158301157929639}
+{"sent": "man with 74 on shirt", "ann_id": 1239606, "best_split": [2, 2], "split_score": 0.4677178197317033}
+{"sent": "man under umbrella", "ann_id": 1239606, "best_split": [1, 5], "split_score": 0.41526946104676127}
+{"sent": "white shirt 74", "ann_id": 1239606, "best_split": [2, 2], "split_score": 0.4677178197317033}
+{"sent": "the little guy in black all mad because someone stole his spiders", "ann_id": 1227464, "best_split": [2, 3], "split_score": 0.46731951714104764}
+{"sent": "boy in blue shirt holding hat", "ann_id": 1227464, "best_split": [2, 3], "split_score": 0.46731951714104764}
+{"sent": "boy in blue holding hat", "ann_id": 1227464, "best_split": [2, 3], "split_score": 0.46731951714104764}
+{"sent": "woman with gray shirt and orange satchel under pink umbrella", "ann_id": 1203574, "best_split": [1, 5], "split_score": 0.3773259820488175}
+{"sent": "orange bag", "ann_id": 1203574, "best_split": [2, 3], "split_score": 0.4777618363929328}
+{"sent": "woman in sunglasses", "ann_id": 1203574, "best_split": [1, 5], "split_score": 0.3773259820488175}

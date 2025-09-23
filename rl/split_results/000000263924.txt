@@ -1,0 +1,6 @@
+{"sent": "the other pizza partial view", "ann_id": 1076692, "best_split": [1, 3], "split_score": 0.21541686072336882}
+{"sent": "far pizza", "ann_id": 1076692, "best_split": [1, 3], "split_score": 0.21541686072336882}
+{"sent": "partial pizza", "ann_id": 1076692, "best_split": [3, 2], "split_score": 0.5188223937597946}
+{"sent": "big pizza", "ann_id": 1075767, "best_split": [2, 1], "split_score": 0.5507883778470316}
+{"sent": "whole pizza", "ann_id": 1075767, "best_split": [2, 1], "split_score": 0.5507883778470316}
+{"sent": "pizza", "ann_id": 1075767, "best_split": [2, 1], "split_score": 0.5507883778470316}

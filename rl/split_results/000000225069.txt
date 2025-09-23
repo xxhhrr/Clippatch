@@ -1,0 +1,6 @@
+{"sent": "cats reflection", "ann_id": 49499, "best_split": [3, 2], "split_score": 0.423579666772868}
+{"sent": "one not looking at you", "ann_id": 49499, "best_split": [2, 1], "split_score": 0.20509219244435709}
+{"sent": "cat not looking at us", "ann_id": 49499, "best_split": [3, 2], "split_score": 0.423579666772868}
+{"sent": "not in mirror cat", "ann_id": 48687, "best_split": [1, 2], "split_score": 0.4786725886097655}
+{"sent": "big kitty crazy eyes", "ann_id": 48687, "best_split": [1, 2], "split_score": 0.4723798397765275}
+{"sent": "facing us cat", "ann_id": 48687, "best_split": [1, 2], "split_score": 0.4723798397765275}

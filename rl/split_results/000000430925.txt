@@ -1,0 +1,5 @@
+{"sent": "green elephant", "ann_id": 1404410, "best_split": [3, 2], "split_score": 0.6416184970518769}
+{"sent": "green pony", "ann_id": 1404410, "best_split": [3, 2], "split_score": 0.6416184970518769}
+{"sent": "the white horse", "ann_id": 57183, "best_split": [3, 3], "split_score": 0.4509941052601664}
+{"sent": "light blue or gray horse", "ann_id": 57183, "best_split": [3, 3], "split_score": 0.4509941052601664}
+{"sent": "light blue cookie", "ann_id": 57183, "best_split": [1, 2], "split_score": 0.2369994564146766}

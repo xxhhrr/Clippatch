@@ -1,0 +1,6 @@
+{"sent": "bus only showing window", "ann_id": 248870, "best_split": [3, 1], "split_score": 0.21763450780130128}
+{"sent": "bus behind bus", "ann_id": 248870, "best_split": [3, 1], "split_score": 0.21763450780130128}
+{"sent": "not full bus", "ann_id": 248870, "best_split": [3, 1], "split_score": 0.21763450780130128}
+{"sent": "bus completely visible", "ann_id": 163204, "best_split": [3, 1], "split_score": 0.4754672896997886}
+{"sent": "whole bus", "ann_id": 163204, "best_split": [3, 1], "split_score": 0.4754672896997886}
+{"sent": "bus we can see the whole thing", "ann_id": 163204, "best_split": [3, 1], "split_score": 0.4754672896997886}

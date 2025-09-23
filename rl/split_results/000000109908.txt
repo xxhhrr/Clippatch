@@ -1,0 +1,5 @@
+{"sent": "lead cycle with lights on", "ann_id": 1791872, "best_split": [2, 3], "split_score": 0.3841130499535261}
+{"sent": "bike with moustache man", "ann_id": 1791872, "best_split": [2, 2], "split_score": 0.2638817385994056}
+{"sent": "bike off to side", "ann_id": 1791872, "best_split": [2, 2], "split_score": 0.2638817385994056}
+{"sent": "cant see his face but hes leading", "ann_id": 1361643, "best_split": [1, 3], "split_score": 0.38610038607709335}
+{"sent": "main motorcycle", "ann_id": 1361643, "best_split": [2, 3], "split_score": 0.46323968913496316}

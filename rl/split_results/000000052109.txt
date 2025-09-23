@@ -1,0 +1,9 @@
+{"sent": "chick", "ann_id": 561325, "best_split": [5, 1], "split_score": 0.09757271538901377}
+{"sent": "girl", "ann_id": 561325, "best_split": [1, 5], "split_score": 0.3317203403694543}
+{"sent": "girl", "ann_id": 561325, "best_split": [1, 5], "split_score": 0.3317203403694543}
+{"sent": "guy in hands u", "ann_id": 554101, "best_split": [1, 3], "split_score": 0.7433638995690538}
+{"sent": "man reaching", "ann_id": 554101, "best_split": [1, 2], "split_score": 0.4911511479396065}
+{"sent": "man serving in white shirt", "ann_id": 554101, "best_split": [1, 3], "split_score": 0.7433638995690538}
+{"sent": "boy in red", "ann_id": 424017, "best_split": [1, 5], "split_score": 0.3561282467171136}
+{"sent": "kid in red and white shirt", "ann_id": 424017, "best_split": [1, 5], "split_score": 0.3561282467171136}
+{"sent": "red", "ann_id": 424017, "best_split": [1, 5], "split_score": 0.3561282467171136}

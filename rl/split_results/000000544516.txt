@@ -1,0 +1,5 @@
+{"sent": "brown", "ann_id": 56505, "best_split": [2, 3], "split_score": 0.6087698874187993}
+{"sent": "greall brown horse with white snout nearest us", "ann_id": 56505, "best_split": [2, 2], "split_score": 0.5850409185697494}
+{"sent": "number 2 horse", "ann_id": 54873, "best_split": [2, 3], "split_score": 0.5199845280737504}
+{"sent": "darkest horse", "ann_id": 54873, "best_split": [2, 3], "split_score": 0.5199845280737504}
+{"sent": "horse between others", "ann_id": 54873, "best_split": [2, 3], "split_score": 0.5199845280737504}

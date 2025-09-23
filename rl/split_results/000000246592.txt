@@ -1,0 +1,13 @@
+{"sent": "the section of tablecloth closest to the camera", "ann_id": 1960950, "best_split": [1, 2], "split_score": 0.305886243377814}
+{"sent": "table at three", "ann_id": 1960418, "best_split": [1, 3], "split_score": 0.6351464434766798}
+{"sent": "ri ght side of pie tablecloth", "ann_id": 1960418, "best_split": [3, 3], "split_score": 0.4579372196898711}
+{"sent": "slice from 1200 to 400", "ann_id": 1923829, "best_split": [3, 1], "split_score": 0.3279172821118945}
+{"sent": "pizza slice by blue star with pink outline", "ann_id": 1923829, "best_split": [1, 5], "split_score": 0.3394896719113311}
+{"sent": "pizza at 100", "ann_id": 1923829, "best_split": [1, 5], "split_score": 0.3394896719113311}
+{"sent": "5 oclock slice", "ann_id": 1923538, "best_split": [1, 5], "split_score": 0.3554326467975087}
+{"sent": "5 o clock", "ann_id": 1923538, "best_split": [1, 5], "split_score": 0.3554326467975087}
+{"sent": "900", "ann_id": 1570460, "best_split": [1, 2], "split_score": 0.5395408163050247}
+{"sent": "leftiest part of pizza", "ann_id": 1570460, "best_split": [1, 2], "split_score": 0.5395408163050247}
+{"sent": "pizza slice at the lower side of pie", "ann_id": 1070805, "best_split": [3, 2], "split_score": 0.4310829179491542}
+{"sent": "pizza at 7 o clock", "ann_id": 1070805, "best_split": [3, 2], "split_score": 0.4310829179491542}
+{"sent": "slice of pizza closest to the edge", "ann_id": 1070805, "best_split": [3, 2], "split_score": 0.4310829179491542}

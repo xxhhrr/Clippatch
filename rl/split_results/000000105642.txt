@@ -1,0 +1,6 @@
+{"sent": "zebra facing you", "ann_id": 593586, "best_split": [1, 2], "split_score": 0.4998405612045663}
+{"sent": "zebra in the back faceing us", "ann_id": 593586, "best_split": [1, 2], "split_score": 0.4998405612045663}
+{"sent": "zebra partially hidden", "ann_id": 593586, "best_split": [1, 2], "split_score": 0.4998405612045663}
+{"sent": "closest zebra", "ann_id": 592996, "best_split": [2, 1], "split_score": 0.4213971089887277}
+{"sent": "closes to camera", "ann_id": 592996, "best_split": [3, 1], "split_score": 0.2922005956815058}
+{"sent": "full body zebra", "ann_id": 592996, "best_split": [2, 1], "split_score": 0.4213971089887277}

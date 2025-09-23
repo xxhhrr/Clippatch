@@ -1,0 +1,9 @@
+{"sent": "person with red bandana", "ann_id": 481498, "best_split": [2, 3], "split_score": 0.6692354491310855}
+{"sent": "red hat", "ann_id": 481498, "best_split": [2, 3], "split_score": 0.6692354491310855}
+{"sent": "red bandana", "ann_id": 481498, "best_split": [2, 3], "split_score": 0.6692354491310855}
+{"sent": "back of head", "ann_id": 470878, "best_split": [1, 2], "split_score": 0.7371669661404341}
+{"sent": "back of head", "ann_id": 470878, "best_split": [1, 2], "split_score": 0.7371669661404341}
+{"sent": "gray shirt bending", "ann_id": 470878, "best_split": [2, 1], "split_score": 0.38780350788378365}
+{"sent": "about to catch frisbee", "ann_id": 422355, "best_split": [1, 2], "split_score": 0.7120535714001892}
+{"sent": "black man", "ann_id": 422355, "best_split": [1, 2], "split_score": 0.7120535714001892}
+{"sent": "the black guy in a weird looking blue shirt", "ann_id": 422355, "best_split": [1, 2], "split_score": 0.7120535714001892}

@@ -1,0 +1,12 @@
+{"sent": "edge of box near red pepper", "ann_id": 1960747, "best_split": [1, 2], "split_score": 0.43576765484158775}
+{"sent": "back portion of cardboard container", "ann_id": 1960747, "best_split": [2, 2], "split_score": 0.7318087317652623}
+{"sent": "box behind pizza and veg", "ann_id": 1960747, "best_split": [1, 2], "split_score": 0.43576765484158775}
+{"sent": "table", "ann_id": 1960424, "best_split": [3, 3], "split_score": 0.6991828395430052}
+{"sent": "cprner of pic at 11 o clock", "ann_id": 1960424, "best_split": [2, 1], "split_score": 0.3121811224365361}
+{"sent": "wooden surface of table with shadow", "ann_id": 1960424, "best_split": [3, 3], "split_score": 0.6991828395430052}
+{"sent": "half eaten slice", "ann_id": 1075556, "best_split": [1, 3], "split_score": 0.4046223224123663}
+{"sent": "bitten piece", "ann_id": 1075556, "best_split": [2, 3], "split_score": 0.7594159965341286}
+{"sent": "smallest piece of pizza", "ann_id": 1075556, "best_split": [1, 3], "split_score": 0.4046223224123663}
+{"sent": "bigger slice", "ann_id": 1071030, "best_split": [1, 2], "split_score": 0.4621165748329553}
+{"sent": "largest piece of pizza", "ann_id": 1071030, "best_split": [1, 2], "split_score": 0.4621165748329553}
+{"sent": "bigger slice", "ann_id": 1071030, "best_split": [1, 2], "split_score": 0.4621165748329553}

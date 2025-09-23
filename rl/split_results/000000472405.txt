@@ -1,0 +1,6 @@
+{"sent": "upperside most people do not write with", "ann_id": 1049481, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "reddish apples", "ann_id": 1049481, "best_split": [2, 2], "split_score": 0.893734056051201}
+{"sent": "fuller box of gala apples", "ann_id": 1049481, "best_split": [2, 2], "split_score": 0.893734056051201}
+{"sent": "most yellow fruit", "ann_id": 1048894, "best_split": [1, 2], "split_score": 0.45599489794100784}
+{"sent": "apples by oranges by camera", "ann_id": 1048894, "best_split": [1, 5], "split_score": 0.29411764704095056}
+{"sent": "most yellow bunch of apples", "ann_id": 1048894, "best_split": [1, 2], "split_score": 0.45599489794100784}

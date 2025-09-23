@@ -1,0 +1,6 @@
+{"sent": "motorcycle behind", "ann_id": 148134, "best_split": [1, 5], "split_score": 0.323529411737673}
+{"sent": "police behind", "ann_id": 148134, "best_split": [2, 3], "split_score": 0.2647997163891528}
+{"sent": "farther police", "ann_id": 148134, "best_split": [3, 2], "split_score": 0.27292186940127344}
+{"sent": "red light", "ann_id": 148105, "best_split": [2, 1], "split_score": 0.43561037316775425}
+{"sent": "main bike", "ann_id": 148105, "best_split": [2, 1], "split_score": 0.43561037316775425}
+{"sent": "fully visual motorcycle", "ann_id": 148105, "best_split": [2, 1], "split_score": 0.43561037316775425}

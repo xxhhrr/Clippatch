@@ -1,0 +1,12 @@
+{"sent": "smallest apple", "ann_id": 1549213, "best_split": [1, 5], "split_score": 0.31444367654117444}
+{"sent": "orange with stem showing", "ann_id": 1052640, "best_split": [2, 3], "split_score": 0.4757876929080368}
+{"sent": "orange that can see lines", "ann_id": 1052640, "best_split": [2, 3], "split_score": 0.4757876929080368}
+{"sent": "orange on closest edge", "ann_id": 1050968, "best_split": [3, 3], "split_score": 0.4149455500794911}
+{"sent": "lowest of the two oranges", "ann_id": 1050968, "best_split": [3, 3], "split_score": 0.4149455500794911}
+{"sent": "orange touching metal", "ann_id": 1050968, "best_split": [3, 3], "split_score": 0.4149455500794911}
+{"sent": "green apple closest", "ann_id": 1049869, "best_split": [2, 3], "split_score": 0.5312627706854043}
+{"sent": "green apple with stem up by two oranges", "ann_id": 1049869, "best_split": [3, 3], "split_score": 0.42642924081227396}
+{"sent": "green apple 5 o clock", "ann_id": 1049869, "best_split": [2, 3], "split_score": 0.5312627706854043}
+{"sent": "apple surrounded by limes", "ann_id": 1049138, "best_split": [3, 3], "split_score": 0.7648873803201346}
+{"sent": "green apple between two limes", "ann_id": 1049138, "best_split": [3, 3], "split_score": 0.7648873803201346}
+{"sent": "green apple touching the dark gren fruit", "ann_id": 1049138, "best_split": [3, 1], "split_score": 0.3039453893148244}

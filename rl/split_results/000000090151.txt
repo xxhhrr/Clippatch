@@ -1,0 +1,6 @@
+{"sent": "rear pizza", "ann_id": 1077471, "best_split": [2, 3], "split_score": 0.38013698626068737}
+{"sent": "pizza half showing", "ann_id": 1077471, "best_split": [2, 3], "split_score": 0.38013698626068737}
+{"sent": "pizza without spatula", "ann_id": 1077471, "best_split": [2, 3], "split_score": 0.38013698626068737}
+{"sent": "closest pizza", "ann_id": 1076933, "best_split": [3, 1], "split_score": 0.7565154439698047}
+{"sent": "omelatte next to spatula", "ann_id": 1076933, "best_split": [5, 1], "split_score": 0.6966666666138889}
+{"sent": "pizza closest", "ann_id": 1076933, "best_split": [3, 1], "split_score": 0.7565154439698047}

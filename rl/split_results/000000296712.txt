@@ -1,0 +1,6 @@
+{"sent": "train with blue nose", "ann_id": 174785, "best_split": [1, 3], "split_score": 0.49766885338541617}
+{"sent": "silver train next to track only", "ann_id": 174785, "best_split": [1, 2], "split_score": 0.6771839209268214}
+{"sent": "the more gray train on the inside of a curve", "ann_id": 174785, "best_split": [1, 2], "split_score": 0.6771839209268214}
+{"sent": "closest train", "ann_id": 174730, "best_split": [2, 1], "split_score": 0.24395590225504624}
+{"sent": "whitest train", "ann_id": 174730, "best_split": [1, 5], "split_score": 0.41993920970091553}
+{"sent": "train in lead", "ann_id": 174730, "best_split": [3, 2], "split_score": 0.25822843282952834}

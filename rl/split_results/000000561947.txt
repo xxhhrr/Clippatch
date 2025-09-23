@@ -1,0 +1,6 @@
+{"sent": "woman looking away", "ann_id": 1738359, "best_split": [3, 3], "split_score": 0.5060872505062416}
+{"sent": "the blond", "ann_id": 1738359, "best_split": [3, 1], "split_score": 0.20698600384851676}
+{"sent": "blond hair in bun", "ann_id": 1738359, "best_split": [3, 3], "split_score": 0.5060872505062416}
+{"sent": "red shirt hand to face", "ann_id": 431613, "best_split": [3, 3], "split_score": 0.5710508921726618}
+{"sent": "woman in red with glasses", "ann_id": 431613, "best_split": [3, 3], "split_score": 0.5710508921726618}
+{"sent": "woman in red", "ann_id": 431613, "best_split": [3, 3], "split_score": 0.5710508921726618}

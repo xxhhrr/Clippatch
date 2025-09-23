@@ -1,0 +1,12 @@
+{"sent": "screen or window", "ann_id": 1625095, "best_split": [2, 1], "split_score": 0.08573178199304456}
+{"sent": "screen hanging from ceiling", "ann_id": 1625095, "best_split": [1, 5], "split_score": 0.2694240432673537}
+{"sent": "white rectangle nearly out of picture", "ann_id": 1625095, "best_split": [1, 5], "split_score": 0.2694240432673537}
+{"sent": "blue jeans", "ann_id": 508256, "best_split": [1, 5], "split_score": 0.2667525772950338}
+{"sent": "black sweatshirt", "ann_id": 508256, "best_split": [1, 5], "split_score": 0.2667525772950338}
+{"sent": "gray pants", "ann_id": 508256, "best_split": [2, 3], "split_score": 0.19901671581130612}
+{"sent": "bent over", "ann_id": 434609, "best_split": [2, 2], "split_score": 0.36462093860129513}
+{"sent": "man in khakis", "ann_id": 434609, "best_split": [2, 2], "split_score": 0.36462093860129513}
+{"sent": "striped shirt tan pants", "ann_id": 434609, "best_split": [2, 2], "split_score": 0.36462093860129513}
+{"sent": "black speakers", "ann_id": 34321, "best_split": [1, 5], "split_score": 0.4285714285279453}
+{"sent": "silver screen side of", "ann_id": 34321, "best_split": [3, 3], "split_score": 0.4001154733833551}
+{"sent": "back of tv", "ann_id": 34321, "best_split": [1, 5], "split_score": 0.4285714285279453}

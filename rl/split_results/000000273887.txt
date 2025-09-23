@@ -1,0 +1,5 @@
+{"sent": "closest hot dog with tomatoes", "ann_id": 1068741, "best_split": [1, 5], "split_score": 0.23175816537250188}
+{"sent": "sesame seed bun", "ann_id": 1068741, "best_split": [3, 3], "split_score": 0.339529797657254}
+{"sent": "hot dog pink stuff", "ann_id": 1067106, "best_split": [2, 3], "split_score": 0.44423021301029303}
+{"sent": "sandwich with pink stuff", "ann_id": 1067106, "best_split": [2, 3], "split_score": 0.44423021301029303}
+{"sent": "hot dog with pink stuff", "ann_id": 1067106, "best_split": [2, 3], "split_score": 0.44423021301029303}

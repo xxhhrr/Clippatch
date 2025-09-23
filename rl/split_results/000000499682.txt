@@ -1,0 +1,6 @@
+{"sent": "man blue stripe shirt", "ann_id": 491654, "best_split": [3, 2], "split_score": 0.3283582089221099}
+{"sent": "striped shirt guy facing away", "ann_id": 491654, "best_split": [3, 2], "split_score": 0.3283582089221099}
+{"sent": "blue striped shirt in background", "ann_id": 491654, "best_split": [1, 5], "split_score": 0.44665816071776837}
+{"sent": "man smiling", "ann_id": 487868, "best_split": [1, 2], "split_score": 0.4631630753329946}
+{"sent": "man", "ann_id": 487868, "best_split": [1, 2], "split_score": 0.4631630753329946}
+{"sent": "man with beard", "ann_id": 487868, "best_split": [1, 2], "split_score": 0.4631630753329946}

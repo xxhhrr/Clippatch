@@ -1,0 +1,6 @@
+{"sent": "coffee close to eggs", "ann_id": 671511, "best_split": [5, 1], "split_score": 0.2130681817965637}
+{"sent": "coffee closest to eggs", "ann_id": 671511, "best_split": [5, 1], "split_score": 0.2130681817965637}
+{"sent": "coffee next to eggs", "ann_id": 671511, "best_split": [5, 1], "split_score": 0.2130681817965637}
+{"sent": "white teapot below cream", "ann_id": 1885371, "best_split": [3, 2], "split_score": 0.32908754048991573}
+{"sent": "has handle and lid", "ann_id": 1885371, "best_split": [3, 2], "split_score": 0.32908754048991573}
+{"sent": "gravy pouring pot", "ann_id": 1885371, "best_split": [3, 2], "split_score": 0.32908754048991573}

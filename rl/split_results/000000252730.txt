@@ -1,0 +1,6 @@
+{"sent": "smaller bird", "ann_id": 40485, "best_split": [2, 2], "split_score": 0.4224839140207306}
+{"sent": "green leaf on birds leg", "ann_id": 40485, "best_split": [1, 2], "split_score": 0.36808882803376347}
+{"sent": "closest bird", "ann_id": 40485, "best_split": [3, 2], "split_score": 0.41243187506168566}
+{"sent": "biggest bird", "ann_id": 40428, "best_split": [2, 2], "split_score": 0.45207341942060436}
+{"sent": "larger turkey", "ann_id": 40428, "best_split": [2, 1], "split_score": 0.40110905728805424}
+{"sent": "the biggest bird", "ann_id": 40428, "best_split": [2, 2], "split_score": 0.45207341942060436}

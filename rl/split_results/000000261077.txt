@@ -1,0 +1,6 @@
+{"sent": "armchair", "ann_id": 1580941, "best_split": [2, 3], "split_score": 0.7328244273935085}
+{"sent": "tan small couch", "ann_id": 1580941, "best_split": [2, 3], "split_score": 0.7328244273935085}
+{"sent": "closest chair", "ann_id": 1580941, "best_split": [2, 1], "split_score": 0.24872448978600428}
+{"sent": "back of chair facing table", "ann_id": 102428, "best_split": [2, 3], "split_score": 0.3249607534957433}
+{"sent": "dining chair closest to you", "ann_id": 102428, "best_split": [2, 3], "split_score": 0.3249607534957433}
+{"sent": "chair with back to us", "ann_id": 102428, "best_split": [2, 3], "split_score": 0.3249607534957433}

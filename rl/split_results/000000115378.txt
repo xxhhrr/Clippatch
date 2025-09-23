@@ -1,0 +1,6 @@
+{"sent": "laying down cat", "ann_id": 51790, "best_split": [3, 3], "split_score": 0.4310035841811152}
+{"sent": "calico cat", "ann_id": 51790, "best_split": [3, 3], "split_score": 0.4310035841811152}
+{"sent": "laying kitty", "ann_id": 51790, "best_split": [3, 3], "split_score": 0.4310035841811152}
+{"sent": "cat sitting up", "ann_id": 51645, "best_split": [1, 2], "split_score": 0.8991861573099499}
+{"sent": "near kitten", "ann_id": 51645, "best_split": [1, 2], "split_score": 0.8991861573099499}
+{"sent": "sitting kitty", "ann_id": 51645, "best_split": [1, 2], "split_score": 0.8991861573099499}

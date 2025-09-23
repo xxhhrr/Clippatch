@@ -1,0 +1,9 @@
+{"sent": "oldest guy", "ann_id": 561218, "best_split": [3, 2], "split_score": 0.1429618768178716}
+{"sent": "white shirt blue shorts", "ann_id": 561218, "best_split": [1, 5], "split_score": 0.26633522724570463}
+{"sent": "white shirt black shorts", "ann_id": 561218, "best_split": [1, 5], "split_score": 0.26633522724570463}
+{"sent": "white shirt guy between boys with dark shirts", "ann_id": 555681, "best_split": [2, 3], "split_score": 0.23908640861396416}
+{"sent": "white shirt gray shorts", "ann_id": 555681, "best_split": [2, 3], "split_score": 0.23908640861396416}
+{"sent": "white shirt gray shorts no strip", "ann_id": 555681, "best_split": [1, 3], "split_score": 0.1643943050093874}
+{"sent": "blue shirt", "ann_id": 467874, "best_split": [1, 5], "split_score": 0.34844961236933625}
+{"sent": "navy blue shirt", "ann_id": 467874, "best_split": [3, 3], "split_score": 0.29565217387287335}
+{"sent": "guy in dark blue shirt and tan shorts", "ann_id": 467874, "best_split": [1, 5], "split_score": 0.34844961236933625}

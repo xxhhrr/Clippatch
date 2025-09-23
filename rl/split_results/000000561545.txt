@@ -1,0 +1,20 @@
+{"sent": "sandwich closet with really only bread showing", "ann_id": 1552919, "best_split": [2, 3], "split_score": 0.5358166188472043}
+{"sent": "sandwish can not see red", "ann_id": 1552919, "best_split": [2, 2], "split_score": 0.36479591833826563}
+{"sent": "bun on edge with just bread showing", "ann_id": 1552919, "best_split": [3, 3], "split_score": 0.5755485892514813}
+{"sent": "third row not on either end", "ann_id": 313678, "best_split": [5, 1], "split_score": 0.2564494553548204}
+{"sent": "highest sandw", "ann_id": 313678, "best_split": [3, 3], "split_score": 0.19044387129218895}
+{"sent": "sixth sandwich in order from back", "ann_id": 313632, "best_split": [3, 3], "split_score": 0.7201887330969132}
+{"sent": "sandwich at 3", "ann_id": 313632, "best_split": [2, 3], "split_score": 0.3691541370381741}
+{"sent": "6th sandwich", "ann_id": 313632, "best_split": [2, 3], "split_score": 0.3691541370381741}
+{"sent": "sandwich with big green leaf on it", "ann_id": 313586, "best_split": [1, 3], "split_score": 0.298884255590055}
+{"sent": "sandwich with spinach laying on it", "ann_id": 313586, "best_split": [3, 2], "split_score": 0.664449205021485}
+{"sent": "sec row number one", "ann_id": 313586, "best_split": [3, 1], "split_score": 0.34347496646596287}
+{"sent": "closest sandwich wide open", "ann_id": 313572, "best_split": [1, 3], "split_score": 0.3562324475936362}
+{"sent": "close hotdog that looks the widest", "ann_id": 313572, "best_split": [1, 3], "split_score": 0.3562324475936362}
+{"sent": "bread at 700 near u", "ann_id": 313572, "best_split": [1, 2], "split_score": 0.34024234692521355}
+{"sent": "hotdog 5", "ann_id": 313455, "best_split": [3, 1], "split_score": 0.2836710369318432}
+{"sent": "2 down 2 over", "ann_id": 313455, "best_split": [1, 3], "split_score": 0.28812343019446696}
+{"sent": "between 12 o clock and 6 oc clock", "ann_id": 313455, "best_split": [2, 1], "split_score": 0.08334534967255423}
+{"sent": "buns make a visible v shape", "ann_id": 312688, "best_split": [2, 2], "split_score": 0.40511121625278135}
+{"sent": "2 in row 1", "ann_id": 312688, "best_split": [1, 3], "split_score": 0.3258709125707485}
+{"sent": "sandwhich at 6", "ann_id": 312688, "best_split": [2, 2], "split_score": 0.40511121625278135}

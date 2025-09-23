@@ -1,0 +1,20 @@
+{"sent": "white book that says joy", "ann_id": 1659640, "best_split": [2, 2], "split_score": 0.49103139010307295}
+{"sent": "joy book", "ann_id": 1659640, "best_split": [2, 2], "split_score": 0.49103139010307295}
+{"sent": "joy", "ann_id": 1659640, "best_split": [2, 1], "split_score": 0.2722526106318018}
+{"sent": "srand hollywood baptist red and white book", "ann_id": 1659571, "best_split": [1, 5], "split_score": 0.6252927399905158}
+{"sent": "baptist book label", "ann_id": 1659571, "best_split": [1, 5], "split_score": 0.6252927399905158}
+{"sent": "baptist book", "ann_id": 1659571, "best_split": [3, 1], "split_score": 0.159363295872689}
+{"sent": "thats not my puppy", "ann_id": 1657880, "best_split": [2, 1], "split_score": 0.2639225181498213}
+{"sent": "thats not my puppy", "ann_id": 1657880, "best_split": [2, 1], "split_score": 0.2639225181498213}
+{"sent": "thats not my puppy", "ann_id": 1657880, "best_split": [2, 1], "split_score": 0.2639225181498213}
+{"sent": "tan spine", "ann_id": 1656315, "best_split": [2, 1], "split_score": 0.20220588234535541}
+{"sent": "light brown next to teddy", "ann_id": 1656315, "best_split": [2, 2], "split_score": 0.38194444441737924}
+{"sent": "light brown book next to book that says joy", "ann_id": 1656315, "best_split": [3, 2], "split_score": 0.2796709752996751}
+{"sent": "solid red book with no words on spine", "ann_id": 1654680, "best_split": [1, 3], "split_score": 0.273139262088231}
+{"sent": "short red book no title visible", "ann_id": 1654680, "best_split": [1, 3], "split_score": 0.273139262088231}
+{"sent": "in red beside a baptist", "ann_id": 1654680, "best_split": [2, 3], "split_score": 0.4893962552073561}
+{"sent": "book with stars on it", "ann_id": 1653338, "best_split": [1, 5], "split_score": 0.4611274744529675}
+{"sent": "yellow with stars", "ann_id": 1653338, "best_split": [2, 2], "split_score": 0.5304574996476069}
+{"sent": "white book edge of pic", "ann_id": 1142586, "best_split": [5, 1], "split_score": 0.12205025598057728}
+{"sent": "small white book", "ann_id": 1142586, "best_split": [2, 1], "split_score": 0.11501576671385794}
+{"sent": "white book next to this red one", "ann_id": 1142586, "best_split": [1, 2], "split_score": 0.36714764029148805}

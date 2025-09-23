@@ -1,0 +1,5 @@
+{"sent": "black beams at 9 am", "ann_id": 1584457, "best_split": [2, 1], "split_score": 0.23174426019484437}
+{"sent": "chair closest to edge", "ann_id": 1584457, "best_split": [2, 1], "split_score": 0.23174426019484437}
+{"sent": "chair at 9 o clock", "ann_id": 1584457, "best_split": [2, 1], "split_score": 0.23174426019484437}
+{"sent": "chair back with red in back", "ann_id": 1582123, "best_split": [2, 2], "split_score": 0.678013392803092}
+{"sent": "chair behind banana", "ann_id": 1582123, "best_split": [1, 2], "split_score": 0.3390066964150587}

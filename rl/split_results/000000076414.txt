@@ -1,0 +1,5 @@
+{"sent": "half boat with men on it", "ann_id": 179769, "best_split": [3, 1], "split_score": 0.6452702702313423}
+{"sent": "boat two guys in orange are on", "ann_id": 179769, "best_split": [3, 1], "split_score": 0.6452702702313423}
+{"sent": "white boat holding man in orange", "ann_id": 179769, "best_split": [5, 1], "split_score": 0.6918011194689001}
+{"sent": "big boat", "ann_id": 176730, "best_split": [1, 2], "split_score": 0.8399663676835774}
+{"sent": "the big boat", "ann_id": 176730, "best_split": [1, 2], "split_score": 0.8399663676835774}

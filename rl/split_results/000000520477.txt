@@ -1,0 +1,6 @@
+{"sent": "white flowers", "ann_id": 1609385, "best_split": [1, 3], "split_score": 0.6181235234298801}
+{"sent": "white flowers", "ann_id": 1609385, "best_split": [1, 3], "split_score": 0.6181235234298801}
+{"sent": "vase of daisies", "ann_id": 1609385, "best_split": [1, 3], "split_score": 0.6181235234298801}
+{"sent": "the green plant", "ann_id": 1607595, "best_split": [1, 3], "split_score": 0.511644832578933}
+{"sent": "green leafy plant", "ann_id": 1607595, "best_split": [1, 3], "split_score": 0.511644832578933}
+{"sent": "plant with drooping leaves", "ann_id": 1607595, "best_split": [3, 2], "split_score": 0.5028191412098584}

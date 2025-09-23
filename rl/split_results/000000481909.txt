@@ -1,0 +1,6 @@
+{"sent": "hidden zebra", "ann_id": 593985, "best_split": [1, 2], "split_score": 0.5981216015606906}
+{"sent": "the zebra closest to the trees", "ann_id": 593985, "best_split": [1, 2], "split_score": 0.5981216015606906}
+{"sent": "only see zebra back legs", "ann_id": 593985, "best_split": [1, 2], "split_score": 0.5981216015606906}
+{"sent": "whole sebra", "ann_id": 593696, "best_split": [3, 1], "split_score": 0.38800335569307276}
+{"sent": "forward zebra", "ann_id": 593696, "best_split": [3, 1], "split_score": 0.38800335569307276}
+{"sent": "full giraffe", "ann_id": 593696, "best_split": [3, 1], "split_score": 0.38800335569307276}

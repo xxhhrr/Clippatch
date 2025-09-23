@@ -1,0 +1,18 @@
+{"sent": "larger woman in black", "ann_id": 1257590, "best_split": [3, 3], "split_score": 0.587830869613642}
+{"sent": "woman in black", "ann_id": 1257590, "best_split": [3, 3], "split_score": 0.587830869613642}
+{"sent": "lady in black with bun on head", "ann_id": 1257590, "best_split": [3, 3], "split_score": 0.587830869613642}
+{"sent": "bluest shirt", "ann_id": 1205291, "best_split": [2, 3], "split_score": 0.41023189093829404}
+{"sent": "man in dark blue", "ann_id": 1205291, "best_split": [2, 3], "split_score": 0.41023189093829404}
+{"sent": "blue shirt", "ann_id": 1205291, "best_split": [2, 3], "split_score": 0.41023189093829404}
+{"sent": "man on labtop", "ann_id": 190240, "best_split": [3, 1], "split_score": 0.34038638453343456}
+{"sent": "man in white shirt", "ann_id": 190240, "best_split": [1, 2], "split_score": 0.46149742129167415}
+{"sent": "white shirt", "ann_id": 190240, "best_split": [1, 2], "split_score": 0.46149742129167415}
+{"sent": "close table that the map has his computer on", "ann_id": 123662, "best_split": [1, 2], "split_score": 0.48194355865425925}
+{"sent": "closest table", "ann_id": 123662, "best_split": [1, 2], "split_score": 0.48194355865425925}
+{"sent": "table near us", "ann_id": 123662, "best_split": [2, 3], "split_score": 0.526631208290761}
+{"sent": "chair closest to us most of it is missing", "ann_id": 1584769, "best_split": [3, 2], "split_score": 0.3127413127035785}
+{"sent": "chair only cushion visible", "ann_id": 1584769, "best_split": [3, 2], "split_score": 0.3127413127035785}
+{"sent": "gray chair closest to us in corner", "ann_id": 1584769, "best_split": [3, 2], "split_score": 0.3127413127035785}
+{"sent": "chair", "ann_id": 101154, "best_split": [2, 2], "split_score": 0.676563321027551}
+{"sent": "chair white shirt sitting in", "ann_id": 101154, "best_split": [2, 2], "split_score": 0.676563321027551}
+{"sent": "chair", "ann_id": 101154, "best_split": [2, 2], "split_score": 0.676563321027551}

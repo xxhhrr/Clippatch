@@ -1,0 +1,4 @@
+{"sent": "the couch nearest to the window", "ann_id": 115002, "best_split": [5, 1], "split_score": 0.24705882350670413}
+{"sent": "couch closest to window", "ann_id": 115002, "best_split": [5, 1], "split_score": 0.24705882350670413}
+{"sent": "couch not behind chair", "ann_id": 113569, "best_split": [2, 3], "split_score": 0.2849967241444642}
+{"sent": "couch with the wicker baskest next to it", "ann_id": 113569, "best_split": [2, 3], "split_score": 0.2849967241444642}

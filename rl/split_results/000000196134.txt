@@ -1,0 +1,6 @@
+{"sent": "red light", "ann_id": 410305, "best_split": [3, 3], "split_score": 0.36464667641385545}
+{"sent": "red light", "ann_id": 410305, "best_split": [3, 3], "split_score": 0.36464667641385545}
+{"sent": "farthest traffic sign", "ann_id": 410305, "best_split": [3, 1], "split_score": 0.21650524615534175}
+{"sent": "the closest light", "ann_id": 409859, "best_split": [1, 2], "split_score": 0.5964604591598988}
+{"sent": "sign in front", "ann_id": 409859, "best_split": [1, 2], "split_score": 0.5964604591598988}
+{"sent": "yellow light", "ann_id": 409859, "best_split": [1, 2], "split_score": 0.5964604591598988}

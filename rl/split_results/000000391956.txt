@@ -1,0 +1,6 @@
+{"sent": "car by yield", "ann_id": 1356704, "best_split": [1, 5], "split_score": 0.33670288140418486}
+{"sent": "white car by yield", "ann_id": 1356704, "best_split": [3, 3], "split_score": 0.4808246171773799}
+{"sent": "white car near yield", "ann_id": 1356704, "best_split": [1, 3], "split_score": 0.2528666626491645}
+{"sent": "blurry white car", "ann_id": 1344229, "best_split": [3, 2], "split_score": 0.3232384169494162}
+{"sent": "white car near the red car", "ann_id": 1344229, "best_split": [3, 2], "split_score": 0.3232384169494162}
+{"sent": "white car coming towards camera", "ann_id": 1344229, "best_split": [3, 2], "split_score": 0.3232384169494162}

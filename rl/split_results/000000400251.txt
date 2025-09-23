@@ -1,0 +1,6 @@
+{"sent": "bus marked with 03", "ann_id": 168565, "best_split": [1, 5], "split_score": 0.4815071339187209}
+{"sent": "windows are darker not green", "ann_id": 168565, "best_split": [1, 3], "split_score": 0.21101154574310652}
+{"sent": "number 3 bus", "ann_id": 168565, "best_split": [1, 5], "split_score": 0.4815071339187209}
+{"sent": "522", "ann_id": 166903, "best_split": [1, 2], "split_score": 0.49681122446999315}
+{"sent": "22", "ann_id": 166903, "best_split": [1, 2], "split_score": 0.49681122446999315}
+{"sent": "bus near station", "ann_id": 166903, "best_split": [1, 3], "split_score": 0.26414765800695855}

@@ -1,0 +1,6 @@
+{"sent": "bed with blue cup near", "ann_id": 1612157, "best_split": [3, 3], "split_score": 0.4232233501866714}
+{"sent": "half a bed showing near cup", "ann_id": 1612157, "best_split": [3, 3], "split_score": 0.4232233501866714}
+{"sent": "furthest away bed", "ann_id": 1612157, "best_split": [3, 3], "split_score": 0.4232233501866714}
+{"sent": "full bed", "ann_id": 314846, "best_split": [2, 2], "split_score": 0.5564012578936055}
+{"sent": "bed", "ann_id": 314846, "best_split": [2, 2], "split_score": 0.5564012578936055}
+{"sent": "bed without blanket", "ann_id": 314846, "best_split": [2, 2], "split_score": 0.5564012578936055}

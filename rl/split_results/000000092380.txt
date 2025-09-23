@@ -1,0 +1,9 @@
+{"sent": "person near window", "ann_id": 442972, "best_split": [1, 5], "split_score": 0.5124999999499511}
+{"sent": "woman by sink", "ann_id": 442972, "best_split": [2, 3], "split_score": 0.5218104295920181}
+{"sent": "a lady at 3 ocklock", "ann_id": 442972, "best_split": [2, 3], "split_score": 0.5218104295920181}
+{"sent": "tanktop", "ann_id": 424856, "best_split": [1, 3], "split_score": 0.6496277363790628}
+{"sent": "white tanktop woma", "ann_id": 424856, "best_split": [1, 3], "split_score": 0.6496277363790628}
+{"sent": "woman with hands on her sides", "ann_id": 424856, "best_split": [1, 3], "split_score": 0.6496277363790628}
+{"sent": "half lady behind white shirt one", "ann_id": 1713439, "best_split": [2, 2], "split_score": 0.34159544157111144}
+{"sent": "person next to one in white shirt", "ann_id": 1713439, "best_split": [2, 2], "split_score": 0.34159544157111144}
+{"sent": "person showing half way", "ann_id": 1713439, "best_split": [2, 3], "split_score": 0.36824324320868584}

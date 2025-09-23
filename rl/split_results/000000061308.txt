@@ -1,0 +1,5 @@
+{"sent": "person on side wearing hat", "ann_id": 1204572, "best_split": [1, 5], "split_score": 0.4488636363180942}
+{"sent": "person barely shown with hat", "ann_id": 1204572, "best_split": [1, 2], "split_score": 0.17633928570725688}
+{"sent": "him", "ann_id": 463558, "best_split": [1, 2], "split_score": 0.4306668053587711}
+{"sent": "man with shades", "ann_id": 463558, "best_split": [1, 2], "split_score": 0.4306668053587711}
+{"sent": "guy", "ann_id": 463558, "best_split": [1, 2], "split_score": 0.4306668053587711}

@@ -1,0 +1,9 @@
+{"sent": "pink anyone", "ann_id": 1727722, "best_split": [1, 3], "split_score": 0.627111486448654}
+{"sent": "pink", "ann_id": 1727722, "best_split": [1, 3], "split_score": 0.627111486448654}
+{"sent": "pink shirt", "ann_id": 1727722, "best_split": [1, 3], "split_score": 0.627111486448654}
+{"sent": "no hat guy", "ann_id": 506101, "best_split": [1, 2], "split_score": 0.3574859887791071}
+{"sent": "guy with ball", "ann_id": 506101, "best_split": [1, 3], "split_score": 0.5679204833089105}
+{"sent": "that man with the ball", "ann_id": 506101, "best_split": [1, 3], "split_score": 0.5679204833089105}
+{"sent": "fist to face", "ann_id": 424501, "best_split": [1, 3], "split_score": 0.2725578505873366}
+{"sent": "man white hat", "ann_id": 424501, "best_split": [2, 2], "split_score": 0.5094260357869335}
+{"sent": "man without ball in hand", "ann_id": 424501, "best_split": [2, 1], "split_score": 0.3116462291024955}

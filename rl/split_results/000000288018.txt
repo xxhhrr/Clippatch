@@ -1,0 +1,6 @@
+{"sent": "man wearing brown tee that is paying attention", "ann_id": 523344, "best_split": [3, 2], "split_score": 0.37832061064851696}
+{"sent": "brown shirt man", "ann_id": 523344, "best_split": [3, 2], "split_score": 0.37832061064851696}
+{"sent": "next closest guy", "ann_id": 523344, "best_split": [3, 2], "split_score": 0.37832061064851696}
+{"sent": "man on laptop", "ann_id": 449542, "best_split": [2, 1], "split_score": 0.3439710094001996}
+{"sent": "side burns", "ann_id": 449542, "best_split": [1, 2], "split_score": 0.8192895007192306}
+{"sent": "man in flower shirt", "ann_id": 449542, "best_split": [1, 2], "split_score": 0.8192895007192306}

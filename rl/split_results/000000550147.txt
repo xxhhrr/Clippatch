@@ -1,0 +1,6 @@
+{"sent": "kid with helmet", "ann_id": 1266089, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "kid", "ann_id": 1266089, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "little girl in blue", "ann_id": 1266089, "best_split": [2, 3], "split_score": 0.4343629343105257}
+{"sent": "smiling black hoodie", "ann_id": 1255499, "best_split": [1, 5], "split_score": 0.6835398847369925}
+{"sent": "man standing", "ann_id": 1255499, "best_split": [1, 5], "split_score": 0.6835398847369925}
+{"sent": "guy with baby", "ann_id": 1255499, "best_split": [1, 2], "split_score": 0.37603635202582764}

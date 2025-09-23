@@ -1,0 +1,5 @@
+{"sent": "section of cake at tip of fork", "ann_id": 1577994, "best_split": [1, 5], "split_score": 0.6269638289525974}
+{"sent": "piece of layer by fork end", "ann_id": 1577994, "best_split": [1, 5], "split_score": 0.6269638289525974}
+{"sent": "lowest layer on a piece of chocolate cake", "ann_id": 1577994, "best_split": [1, 5], "split_score": 0.6269638289525974}
+{"sent": "piece of chocolate cake", "ann_id": 1083727, "best_split": [1, 3], "split_score": 0.5339712918340926}
+{"sent": "cake layer number two", "ann_id": 1083727, "best_split": [1, 3], "split_score": 0.5339712918340926}

@@ -1,0 +1,6 @@
+{"sent": "elephant behind orange slice", "ann_id": 583187, "best_split": [2, 2], "split_score": 0.45366598775116684}
+{"sent": "partial elephant", "ann_id": 583187, "best_split": [2, 1], "split_score": 0.25226500565358634}
+{"sent": "behind elephant", "ann_id": 583187, "best_split": [2, 1], "split_score": 0.25226500565358634}
+{"sent": "elephant reaching for fruit", "ann_id": 581429, "best_split": [2, 1], "split_score": 0.5830512331640813}
+{"sent": "elephant eating", "ann_id": 581429, "best_split": [2, 1], "split_score": 0.5830512331640813}
+{"sent": "elephant", "ann_id": 581429, "best_split": [2, 1], "split_score": 0.5830512331640813}

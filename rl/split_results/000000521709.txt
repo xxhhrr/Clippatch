@@ -1,0 +1,6 @@
+{"sent": "couch that the mans on", "ann_id": 115146, "best_split": [2, 2], "split_score": 0.5286673553377668}
+{"sent": "couch near dog", "ann_id": 115146, "best_split": [2, 2], "split_score": 0.5286673553377668}
+{"sent": "couch under man", "ann_id": 115146, "best_split": [2, 2], "split_score": 0.5286673553377668}
+{"sent": "couch that a woman in a blue shirt is sitting on", "ann_id": 114622, "best_split": [3, 1], "split_score": 0.26356420570492745}
+{"sent": "couch with woman on it", "ann_id": 114622, "best_split": [3, 2], "split_score": 0.33398751112096453}
+{"sent": "sofa that woman is on", "ann_id": 114622, "best_split": [3, 2], "split_score": 0.33398751112096453}

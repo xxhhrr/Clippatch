@@ -1,0 +1,9 @@
+{"sent": "old lady", "ann_id": 1202901, "best_split": [2, 3], "split_score": 0.6399999999238095}
+{"sent": "elderly woman", "ann_id": 1202901, "best_split": [2, 3], "split_score": 0.6399999999238095}
+{"sent": "partial person wearing glasses", "ann_id": 1202901, "best_split": [2, 2], "split_score": 0.43749999996512273}
+{"sent": "persons hand reaching for pizza", "ann_id": 1707902, "best_split": [3, 3], "split_score": 0.7420054199536578}
+{"sent": "large hand", "ann_id": 1707902, "best_split": [3, 3], "split_score": 0.7420054199536578}
+{"sent": "hand closest to camera", "ann_id": 1707902, "best_split": [3, 3], "split_score": 0.7420054199536578}
+{"sent": "guy in green striped shirt", "ann_id": 430280, "best_split": [2, 3], "split_score": 0.581790123400676}
+{"sent": "oldman", "ann_id": 430280, "best_split": [2, 3], "split_score": 0.581790123400676}
+{"sent": "man with glasses", "ann_id": 430280, "best_split": [2, 3], "split_score": 0.581790123400676}

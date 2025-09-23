@@ -1,0 +1,6 @@
+{"sent": "chair that looks like its under the table", "ann_id": 1930875, "best_split": [2, 2], "split_score": 0.39212891227814506}
+{"sent": "chair without cat", "ann_id": 1930875, "best_split": [2, 1], "split_score": 0.22061438682587906}
+{"sent": "chair underneath table", "ann_id": 1930875, "best_split": [1, 2], "split_score": 0.39532844386179333}
+{"sent": "comfy wooden chair", "ann_id": 100966, "best_split": [2, 1], "split_score": 0.42684837091776656}
+{"sent": "chair", "ann_id": 100966, "best_split": [1, 2], "split_score": 0.6071734637140905}
+{"sent": "chair", "ann_id": 100966, "best_split": [1, 2], "split_score": 0.6071734637140905}

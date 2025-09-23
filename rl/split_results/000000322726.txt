@@ -1,0 +1,6 @@
+{"sent": "bird far away", "ann_id": 41406, "best_split": [1, 3], "split_score": 0.09035493493189421}
+{"sent": "bird farthest from camera", "ann_id": 41406, "best_split": [1, 3], "split_score": 0.09035493493189421}
+{"sent": "furthest bird", "ann_id": 41406, "best_split": [1, 3], "split_score": 0.09035493493189421}
+{"sent": "closest bird", "ann_id": 40516, "best_split": [2, 2], "split_score": 0.6116133729378306}
+{"sent": "duck closest", "ann_id": 40516, "best_split": [2, 2], "split_score": 0.6116133729378306}
+{"sent": "bird in full view", "ann_id": 40516, "best_split": [2, 2], "split_score": 0.6116133729378306}

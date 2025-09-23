@@ -1,0 +1,9 @@
+{"sent": "blond hair with black shirt", "ann_id": 2011709, "best_split": [1, 5], "split_score": 0.34446022723777797}
+{"sent": "blond in black next to red shirt", "ann_id": 2011709, "best_split": [1, 5], "split_score": 0.34446022723777797}
+{"sent": "partial blond person with blue plaid", "ann_id": 2011709, "best_split": [1, 5], "split_score": 0.34446022723777797}
+{"sent": "back of head", "ann_id": 1300595, "best_split": [2, 3], "split_score": 0.5071484858147981}
+{"sent": "white shirt facing away", "ann_id": 1300595, "best_split": [3, 2], "split_score": 0.3008161678681679}
+{"sent": "man facing in opposite direction with white shirt on black hair", "ann_id": 1300595, "best_split": [1, 5], "split_score": 0.2662771991985203}
+{"sent": "the woman in the red shirt", "ann_id": 1291935, "best_split": [3, 3], "split_score": 0.5602268934667622}
+{"sent": "lady in red shirt", "ann_id": 1291935, "best_split": [3, 3], "split_score": 0.5602268934667622}
+{"sent": "red", "ann_id": 1291935, "best_split": [3, 3], "split_score": 0.5602268934667622}

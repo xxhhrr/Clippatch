@@ -1,0 +1,6 @@
+{"sent": "roll under plastic on far side of uncovered sandwich", "ann_id": 309490, "best_split": [3, 2], "split_score": 0.47129695247419406}
+{"sent": "bun above bread", "ann_id": 309490, "best_split": [3, 2], "split_score": 0.47129695247419406}
+{"sent": "far bun", "ann_id": 309490, "best_split": [3, 2], "split_score": 0.47129695247419406}
+{"sent": "sandwich", "ann_id": 308219, "best_split": [3, 1], "split_score": 0.44697986575038445}
+{"sent": "sandwich with pickles", "ann_id": 308219, "best_split": [3, 1], "split_score": 0.44697986575038445}
+{"sent": "bun not in plastic", "ann_id": 308219, "best_split": [3, 1], "split_score": 0.44697986575038445}

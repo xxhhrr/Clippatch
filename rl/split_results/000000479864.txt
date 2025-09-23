@@ -1,0 +1,9 @@
+{"sent": "bike closest to us near bus", "ann_id": 154440, "best_split": [1, 3], "split_score": 0.42210799816865635}
+{"sent": "police infront of bus", "ann_id": 154440, "best_split": [1, 3], "split_score": 0.42210799816865635}
+{"sent": "motorcycle next to the bus", "ann_id": 154407, "best_split": [3, 2], "split_score": 0.24967748335321252}
+{"sent": "bike next to bus", "ann_id": 154407, "best_split": [3, 1], "split_score": 0.17000056030873534}
+{"sent": "setback motorcycle touching bus", "ann_id": 154407, "best_split": [3, 2], "split_score": 0.24967748335321252}
+{"sent": "motorcycle closest to yellow line", "ann_id": 154025, "best_split": [3, 3], "split_score": 0.4111111110493827}
+{"sent": "leading bike", "ann_id": 153970, "best_split": [1, 5], "split_score": 0.33315705973157383}
+{"sent": "leader", "ann_id": 153970, "best_split": [1, 5], "split_score": 0.33315705973157383}
+{"sent": "lead cop with brighter headlight", "ann_id": 153970, "best_split": [1, 5], "split_score": 0.33315705973157383}

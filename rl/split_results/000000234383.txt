@@ -1,0 +1,4 @@
+{"sent": "dog back", "ann_id": 16075, "best_split": [2, 1], "split_score": 0.1071250622782004}
+{"sent": "dog background", "ann_id": 16075, "best_split": [1, 2], "split_score": 0.23995535713329258}
+{"sent": "dog closest to us", "ann_id": 8751, "best_split": [1, 2], "split_score": 0.4629044988046837}
+{"sent": "dog", "ann_id": 8751, "best_split": [1, 2], "split_score": 0.4629044988046837}

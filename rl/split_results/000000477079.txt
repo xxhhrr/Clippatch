@@ -1,0 +1,5 @@
+{"sent": "guy with legs at 90 degrees", "ann_id": 1267809, "best_split": [2, 2], "split_score": 0.5921452102194855}
+{"sent": "guy closest to spectactors not guy over copyright words", "ann_id": 1267809, "best_split": [2, 2], "split_score": 0.5921452102194855}
+{"sent": "player 2", "ann_id": 1257747, "best_split": [2, 3], "split_score": 0.6587544888623321}
+{"sent": "man facing completely away", "ann_id": 1257747, "best_split": [2, 1], "split_score": 0.27640272865900917}
+{"sent": "tennis player up higher", "ann_id": 1257747, "best_split": [1, 3], "split_score": 0.61329698977167}

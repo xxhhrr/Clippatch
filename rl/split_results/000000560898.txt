@@ -1,0 +1,10 @@
+{"sent": "orange umbrella in between yellow", "ann_id": 1831286, "best_split": [1, 5], "split_score": 0.19386482665276708}
+{"sent": "middle dark orange umbrella", "ann_id": 1831286, "best_split": [2, 2], "split_score": 0.1663816104421987}
+{"sent": "white umbrella infront of building", "ann_id": 1427627, "best_split": [2, 2], "split_score": 0.2577072732521919}
+{"sent": "big white umbrella", "ann_id": 1427627, "best_split": [2, 2], "split_score": 0.2577072732521919}
+{"sent": "white umbrella underneath the largest orange", "ann_id": 1427627, "best_split": [1, 5], "split_score": 0.1933739012683085}
+{"sent": "yellow umbrella under orange", "ann_id": 1831857, "best_split": [5, 1], "split_score": 0.2700796129930384}
+{"sent": "yellow between two orange", "ann_id": 1831857, "best_split": [5, 1], "split_score": 0.2700796129930384}
+{"sent": "largest orange umbrella", "ann_id": 1425948, "best_split": [1, 5], "split_score": 0.24487404801956106}
+{"sent": "red most separate from others", "ann_id": 1425948, "best_split": [3, 2], "split_score": 0.5038004287172285}
+{"sent": "biggest yellow umbrella", "ann_id": 1425846, "best_split": [1, 2], "split_score": 0.3030244728219553}

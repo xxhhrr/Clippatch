@@ -1,0 +1,8 @@
+{"sent": "on red cloth pie", "ann_id": 1075064, "best_split": [1, 3], "split_score": 0.21165293727306517}
+{"sent": "food that does not match the other two", "ann_id": 1075064, "best_split": [5, 1], "split_score": 0.26278676191587186}
+{"sent": "food on pan where the spatula is", "ann_id": 1075064, "best_split": [3, 3], "split_score": 0.6364129451028}
+{"sent": "pizza with full shot on brown plate", "ann_id": 1074881, "best_split": [1, 5], "split_score": 0.2147260273788762}
+{"sent": "pizza by bottle", "ann_id": 1074881, "best_split": [1, 2], "split_score": 0.17267219387066834}
+{"sent": "whole pizza visible", "ann_id": 1074881, "best_split": [1, 5], "split_score": 0.2147260273788762}
+{"sent": "food closest to you", "ann_id": 1074038, "best_split": [3, 3], "split_score": 0.5870427500454999}
+{"sent": "bigger pie", "ann_id": 1074038, "best_split": [3, 3], "split_score": 0.5870427500454999}

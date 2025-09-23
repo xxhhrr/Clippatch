@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 504601, "best_split": [1, 3], "split_score": 0.5501930501598581}
+{"sent": "lady warden", "ann_id": 504601, "best_split": [1, 2], "split_score": 0.3635204081487755}
+{"sent": "person petting zebra", "ann_id": 504601, "best_split": [1, 2], "split_score": 0.3635204081487755}
+{"sent": "guy", "ann_id": 496198, "best_split": [1, 5], "split_score": 0.7718547985308946}
+{"sent": "man", "ann_id": 496198, "best_split": [1, 2], "split_score": 0.17721654257908964}
+{"sent": "man", "ann_id": 496198, "best_split": [1, 2], "split_score": 0.17721654257908964}

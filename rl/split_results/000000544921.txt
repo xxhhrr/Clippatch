@@ -1,0 +1,6 @@
+{"sent": "firetruck with blue on it", "ann_id": 396564, "best_split": [3, 2], "split_score": 0.7347956130872586}
+{"sent": "truck between", "ann_id": 396564, "best_split": [3, 2], "split_score": 0.7347956130872586}
+{"sent": "middle fire truck", "ann_id": 396564, "best_split": [3, 2], "split_score": 0.7347956130872586}
+{"sent": "high red truck", "ann_id": 398200, "best_split": [2, 3], "split_score": 0.32125205927026923}
+{"sent": "the red old fire truck", "ann_id": 398200, "best_split": [2, 3], "split_score": 0.32125205927026923}
+{"sent": "red car thing", "ann_id": 398200, "best_split": [2, 3], "split_score": 0.32125205927026923}

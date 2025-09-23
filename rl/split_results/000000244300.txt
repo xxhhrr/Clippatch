@@ -1,0 +1,6 @@
+{"sent": "the cow that is not near or far", "ann_id": 75159, "best_split": [2, 3], "split_score": 0.45126630847551163}
+{"sent": "little horns looking at us", "ann_id": 75159, "best_split": [2, 3], "split_score": 0.45126630847551163}
+{"sent": "cattle looking at us behind this one", "ann_id": 75159, "best_split": [2, 3], "split_score": 0.45126630847551163}
+{"sent": "cow closest to you", "ann_id": 73206, "best_split": [1, 2], "split_score": 0.6761453396270163}
+{"sent": "closest cow", "ann_id": 73206, "best_split": [1, 2], "split_score": 0.6761453396270163}
+{"sent": "the cow looking at us", "ann_id": 73206, "best_split": [1, 2], "split_score": 0.6761453396270163}

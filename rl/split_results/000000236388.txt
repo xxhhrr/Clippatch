@@ -1,0 +1,6 @@
+{"sent": "blue pickup", "ann_id": 400219, "best_split": [3, 2], "split_score": 0.37017374512908136}
+{"sent": "blue pickup", "ann_id": 400219, "best_split": [3, 2], "split_score": 0.37017374512908136}
+{"sent": "red truck", "ann_id": 398377, "best_split": [3, 3], "split_score": 0.5766541150381046}
+{"sent": "red pickup truck", "ann_id": 398377, "best_split": [3, 3], "split_score": 0.5766541150381046}
+{"sent": "red pickup", "ann_id": 398377, "best_split": [3, 3], "split_score": 0.5766541150381046}
+{"sent": "red", "ann_id": 398377, "best_split": [3, 3], "split_score": 0.5766541150381046}

@@ -1,0 +1,16 @@
+{"sent": "black icing donut northwest corner", "ann_id": 1083017, "best_split": [1, 5], "split_score": 0.2749999999731445}
+{"sent": "chocolate furthest", "ann_id": 1083017, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "chocolate donut partially out of frame", "ann_id": 1083017, "best_split": [1, 5], "split_score": 0.2749999999731445}
+{"sent": "white powder donut", "ann_id": 1082597, "best_split": [3, 2], "split_score": 0.4256756756243152}
+{"sent": "farthest from camera", "ann_id": 1082597, "best_split": [1, 3], "split_score": 0.09451219511680574}
+{"sent": "powdered", "ann_id": 1082597, "best_split": [1, 5], "split_score": 0.22564102562036253}
+{"sent": "nutty donut", "ann_id": 1082484, "best_split": [1, 2], "split_score": 0.2295533468976903}
+{"sent": "closest one", "ann_id": 1082484, "best_split": [2, 1], "split_score": 0.6371173469133802}
+{"sent": "donuts with crumbs", "ann_id": 1082484, "best_split": [1, 2], "split_score": 0.2295533468976903}
+{"sent": "click anywhere", "ann_id": 1081604, "best_split": [2, 1], "split_score": 0.16072818325852778}
+{"sent": "plain donut between chocolate eclair and nutty one", "ann_id": 1081604, "best_split": [3, 1], "split_score": 0.3747135013925317}
+{"sent": "big glazed donut", "ann_id": 1081604, "best_split": [3, 2], "split_score": 0.6712498805813759}
+{"sent": "chocolate donut closest to us", "ann_id": 1081083, "best_split": [2, 3], "split_score": 0.532196161990171}
+{"sent": "donut with chocolate in between two plain glazed donuts", "ann_id": 1081083, "best_split": [2, 3], "split_score": 0.532196161990171}
+{"sent": "glazed donut in shadow", "ann_id": 1080149, "best_split": [3, 1], "split_score": 0.31270868111891126}
+{"sent": "donut 300", "ann_id": 1080149, "best_split": [3, 1], "split_score": 0.31270868111891126}

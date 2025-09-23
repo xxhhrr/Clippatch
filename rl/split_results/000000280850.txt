@@ -1,0 +1,6 @@
+{"sent": "blue three seater", "ann_id": 112659, "best_split": [3, 1], "split_score": 0.4211942460715516}
+{"sent": "green largest couch", "ann_id": 112659, "best_split": [3, 2], "split_score": 0.6181235234038033}
+{"sent": "longer couch", "ann_id": 112659, "best_split": [3, 2], "split_score": 0.6181235234038033}
+{"sent": "couch closes to black chair in back", "ann_id": 99858, "best_split": [3, 1], "split_score": 0.352038579551072}
+{"sent": "smaller couch", "ann_id": 99858, "best_split": [3, 1], "split_score": 0.352038579551072}
+{"sent": "smaller couch", "ann_id": 99858, "best_split": [3, 1], "split_score": 0.352038579551072}

@@ -1,0 +1,3 @@
+{"sent": "largest pizza", "ann_id": 1074322, "best_split": [2, 1], "split_score": 0.37118498152208657}
+{"sent": "pizza with sausage", "ann_id": 1074322, "best_split": [3, 1], "split_score": 0.418804902593007}
+{"sent": "closest pizza", "ann_id": 1074322, "best_split": [1, 3], "split_score": 0.36954117369810835}

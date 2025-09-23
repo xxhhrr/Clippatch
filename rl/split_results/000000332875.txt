@@ -1,0 +1,9 @@
+{"sent": "server white shirt", "ann_id": 214775, "best_split": [3, 3], "split_score": 0.40158820187158417}
+{"sent": "white shirt", "ann_id": 214775, "best_split": [3, 3], "split_score": 0.40158820187158417}
+{"sent": "bar tender", "ann_id": 214775, "best_split": [3, 2], "split_score": 0.271889400894421}
+{"sent": "lady black shirt", "ann_id": 207280, "best_split": [3, 3], "split_score": 0.3374414591647225}
+{"sent": "girl in black with ponytail", "ann_id": 207280, "best_split": [3, 3], "split_score": 0.3374414591647225}
+{"sent": "black shirt woman", "ann_id": 207280, "best_split": [3, 3], "split_score": 0.3374414591647225}
+{"sent": "closest guy", "ann_id": 1727369, "best_split": [2, 3], "split_score": 0.4652745731157548}
+{"sent": "man with bracelet close to silver bowl", "ann_id": 1727369, "best_split": [1, 2], "split_score": 0.6821588009932175}
+{"sent": "man closest", "ann_id": 1727369, "best_split": [2, 1], "split_score": 0.2855489216435497}

@@ -1,0 +1,6 @@
+{"sent": "apple with knife", "ann_id": 1049846, "best_split": [3, 2], "split_score": 0.44017241375515753}
+{"sent": "the apple getting stabbed", "ann_id": 1049846, "best_split": [3, 2], "split_score": 0.44017241375515753}
+{"sent": "got stabbed", "ann_id": 1049846, "best_split": [3, 2], "split_score": 0.44017241375515753}
+{"sent": "without knife", "ann_id": 1049610, "best_split": [3, 1], "split_score": 0.2667005076006751}
+{"sent": "angry face big eyes", "ann_id": 1049610, "best_split": [3, 2], "split_score": 0.46039256918503396}
+{"sent": "teeth", "ann_id": 1049610, "best_split": [3, 2], "split_score": 0.46039256918503396}

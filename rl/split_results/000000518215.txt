@@ -1,0 +1,8 @@
+{"sent": "giraffe whos neck is near the other giraffe", "ann_id": 600315, "best_split": [3, 3], "split_score": 0.4051916446557299}
+{"sent": "looking the otherway than others", "ann_id": 600315, "best_split": [3, 3], "split_score": 0.4051916446557299}
+{"sent": "giraffe in between", "ann_id": 600315, "best_split": [3, 3], "split_score": 0.4051916446557299}
+{"sent": "giraffe number 1", "ann_id": 599555, "best_split": [2, 2], "split_score": 0.3318777292349974}
+{"sent": "giraffe with head behind other giraffe", "ann_id": 599555, "best_split": [3, 2], "split_score": 0.42388059697538427}
+{"sent": "giraffe closest to the correct remaining rounds box", "ann_id": 599555, "best_split": [3, 2], "split_score": 0.42388059697538427}
+{"sent": "loner giraffe", "ann_id": 599187, "best_split": [3, 2], "split_score": 0.40935672511384885}
+{"sent": "ooking towards trees", "ann_id": 599187, "best_split": [2, 2], "split_score": 0.3686493184406041}

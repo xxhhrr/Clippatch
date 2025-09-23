@@ -1,0 +1,7 @@
+{"sent": "standing persons pants", "ann_id": 213369, "best_split": [1, 5], "split_score": 0.45018262982445384}
+{"sent": "black pants", "ann_id": 213369, "best_split": [1, 5], "split_score": 0.45018262982445384}
+{"sent": "pant leg", "ann_id": 213369, "best_split": [1, 5], "split_score": 0.45018262982445384}
+{"sent": "black pant leg", "ann_id": 213369, "best_split": [1, 5], "split_score": 0.45018262982445384}
+{"sent": "girl", "ann_id": 193310, "best_split": [1, 3], "split_score": 0.6039128004134202}
+{"sent": "woman", "ann_id": 193310, "best_split": [3, 3], "split_score": 0.44307742778518067}
+{"sent": "sitting woman", "ann_id": 193310, "best_split": [2, 3], "split_score": 0.6737204723856857}

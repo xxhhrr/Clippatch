@@ -1,0 +1,6 @@
+{"sent": "hair", "ann_id": 489384, "best_split": [1, 2], "split_score": 0.6305515389219544}
+{"sent": "person getting hair cut", "ann_id": 489384, "best_split": [1, 2], "split_score": 0.6305515389219544}
+{"sent": "dark hair", "ann_id": 489384, "best_split": [1, 2], "split_score": 0.6305515389219544}
+{"sent": "hand holding scissors", "ann_id": 440029, "best_split": [1, 2], "split_score": 0.2927779745864472}
+{"sent": "big hand", "ann_id": 440029, "best_split": [2, 1], "split_score": 0.7325013564591528}
+{"sent": "hand holding the scissors", "ann_id": 440029, "best_split": [1, 2], "split_score": 0.2927779745864472}

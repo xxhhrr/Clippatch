@@ -1,0 +1,6 @@
+{"sent": "man sitting in chair", "ann_id": 1758928, "best_split": [3, 2], "split_score": 0.43856427375304136}
+{"sent": "not praying", "ann_id": 1758928, "best_split": [2, 1], "split_score": 0.0836437736783633}
+{"sent": "white t shirt", "ann_id": 1758928, "best_split": [3, 2], "split_score": 0.43856427375304136}
+{"sent": "man on the floor", "ann_id": 435900, "best_split": [1, 2], "split_score": 0.11557716026570496}
+{"sent": "man kneeling", "ann_id": 435900, "best_split": [1, 3], "split_score": 0.3416988416782276}
+{"sent": "on knees", "ann_id": 435900, "best_split": [1, 5], "split_score": 0.4529114397628804}

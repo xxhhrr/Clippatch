@@ -1,0 +1,9 @@
+{"sent": "bus closest to us", "ann_id": 166323, "best_split": [2, 3], "split_score": 0.3778821519664942}
+{"sent": "in between bus click on it", "ann_id": 166323, "best_split": [2, 3], "split_score": 0.3778821519664942}
+{"sent": "bus nearest us", "ann_id": 166323, "best_split": [2, 3], "split_score": 0.3778821519664942}
+{"sent": "the bus that is mostly covered by trees and bushes", "ann_id": 165541, "best_split": [3, 3], "split_score": 0.3966518619069607}
+{"sent": "darkest bus", "ann_id": 165541, "best_split": [3, 3], "split_score": 0.3966518619069607}
+{"sent": "hidden bus", "ann_id": 165541, "best_split": [3, 3], "split_score": 0.3966518619069607}
+{"sent": "closest bus", "ann_id": 164447, "best_split": [5, 1], "split_score": 0.2677484786771392}
+{"sent": "bus in fence frame 1", "ann_id": 164447, "best_split": [5, 1], "split_score": 0.2677484786771392}
+{"sent": "bus to side not hidden behind tree", "ann_id": 164447, "best_split": [5, 1], "split_score": 0.2677484786771392}

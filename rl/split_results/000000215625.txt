@@ -1,0 +1,6 @@
+{"sent": "sandwich half closest to hand reaching", "ann_id": 311949, "best_split": [3, 3], "split_score": 0.21829521826685352}
+{"sent": "sandwich half near cup", "ann_id": 311949, "best_split": [1, 5], "split_score": 0.3156082631679793}
+{"sent": "sandwich closest to hand", "ann_id": 311949, "best_split": [3, 3], "split_score": 0.21829521826685352}
+{"sent": "bigger slice", "ann_id": 311082, "best_split": [3, 2], "split_score": 0.5997006307495242}
+{"sent": "larger sandwich piece", "ann_id": 311082, "best_split": [3, 2], "split_score": 0.5997006307495242}
+{"sent": "long sandwich", "ann_id": 311082, "best_split": [3, 2], "split_score": 0.5997006307495242}

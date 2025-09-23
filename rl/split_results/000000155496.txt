@@ -1,0 +1,6 @@
+{"sent": "blue monitor", "ann_id": 1624378, "best_split": [2, 3], "split_score": 0.583969465579202}
+{"sent": "the screen you can only see half of", "ann_id": 1624378, "best_split": [2, 3], "split_score": 0.583969465579202}
+{"sent": "black and silvery blue screen on edge", "ann_id": 1624378, "best_split": [2, 3], "split_score": 0.583969465579202}
+{"sent": "the monitor", "ann_id": 32065, "best_split": [3, 1], "split_score": 0.35979055849568686}
+{"sent": "screen", "ann_id": 32065, "best_split": [2, 1], "split_score": 0.40730375425231047}
+{"sent": "monitor", "ann_id": 32065, "best_split": [3, 1], "split_score": 0.35979055849568686}

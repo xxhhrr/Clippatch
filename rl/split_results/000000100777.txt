@@ -1,0 +1,15 @@
+{"sent": "man in suite facing away from us", "ann_id": 2204627, "best_split": [2, 1], "split_score": 0.5021247429574324}
+{"sent": "sorry man in suit close", "ann_id": 2204627, "best_split": [2, 2], "split_score": 0.6593126855823445}
+{"sent": "gray suit facing away from us", "ann_id": 2204627, "best_split": [2, 2], "split_score": 0.6593126855823445}
+{"sent": "girl corset", "ann_id": 2157996, "best_split": [1, 3], "split_score": 0.6202001522560535}
+{"sent": "lady stading colorful skirt", "ann_id": 2157996, "best_split": [1, 3], "split_score": 0.6202001522560535}
+{"sent": "woman standing", "ann_id": 2157996, "best_split": [1, 3], "split_score": 0.6202001522560535}
+{"sent": "woman in blue", "ann_id": 1201961, "best_split": [2, 3], "split_score": 0.6458687672861991}
+{"sent": "blue dress", "ann_id": 1201961, "best_split": [2, 3], "split_score": 0.6458687672861991}
+{"sent": "blue dress sitting", "ann_id": 1201961, "best_split": [2, 3], "split_score": 0.6458687672861991}
+{"sent": "shiny blue dress brown hair", "ann_id": 1201961, "best_split": [2, 3], "split_score": 0.6458687672861991}
+{"sent": "the elderly lady", "ann_id": 510653, "best_split": [1, 3], "split_score": 0.427089507981274}
+{"sent": "grandma", "ann_id": 510653, "best_split": [1, 3], "split_score": 0.427089507981274}
+{"sent": "old woman sitting down", "ann_id": 510653, "best_split": [1, 3], "split_score": 0.427089507981274}
+{"sent": "man with tie", "ann_id": 431075, "best_split": [2, 3], "split_score": 0.2390438246754556}
+{"sent": "gray haired man with black glasses", "ann_id": 431075, "best_split": [3, 3], "split_score": 0.38235294111568313}

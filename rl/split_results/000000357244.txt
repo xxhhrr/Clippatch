@@ -1,0 +1,9 @@
+{"sent": "cow hiding in corner", "ann_id": 1407197, "best_split": [3, 2], "split_score": 0.32577220073289426}
+{"sent": "cow u can barely see", "ann_id": 1407197, "best_split": [3, 2], "split_score": 0.32577220073289426}
+{"sent": "corner at 1 oclock", "ann_id": 1407197, "best_split": [1, 3], "split_score": 0.15973768123700513}
+{"sent": "half a cow looking away from camera", "ann_id": 73148, "best_split": [1, 2], "split_score": 0.4807266009753545}
+{"sent": "green harness", "ann_id": 73148, "best_split": [1, 2], "split_score": 0.48716732976381355}
+{"sent": "cow looking away", "ann_id": 73148, "best_split": [1, 2], "split_score": 0.4807266009753545}
+{"sent": "the cow in blue", "ann_id": 73055, "best_split": [1, 2], "split_score": 0.5818024527865807}
+{"sent": "cow with blue", "ann_id": 73055, "best_split": [1, 2], "split_score": 0.5818024527865807}
+{"sent": "the cow with chain on neck", "ann_id": 73055, "best_split": [1, 2], "split_score": 0.5818024527865807}

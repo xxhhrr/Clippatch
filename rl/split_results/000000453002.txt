@@ -1,0 +1,14 @@
+{"sent": "lady with long hair", "ann_id": 1266982, "best_split": [3, 1], "split_score": 0.15768411204419291}
+{"sent": "shorter woman", "ann_id": 1266982, "best_split": [3, 1], "split_score": 0.15768411204419291}
+{"sent": "second person", "ann_id": 482347, "best_split": [1, 2], "split_score": 0.3293207908031999}
+{"sent": "man", "ann_id": 482347, "best_split": [1, 5], "split_score": 0.49439128996252135}
+{"sent": "man", "ann_id": 482347, "best_split": [1, 5], "split_score": 0.49439128996252135}
+{"sent": "hat lady", "ann_id": 439841, "best_split": [1, 5], "split_score": 0.5509641872803922}
+{"sent": "hat woman", "ann_id": 439841, "best_split": [1, 5], "split_score": 0.5509641872803922}
+{"sent": "woman wearing hat", "ann_id": 439841, "best_split": [1, 5], "split_score": 0.5509641872803922}
+{"sent": "windshield behind people", "ann_id": 366390, "best_split": [3, 1], "split_score": 0.25558245896246656}
+{"sent": "the wider windows", "ann_id": 366390, "best_split": [2, 1], "split_score": 0.5432843651422844}
+{"sent": "bus with only windshield showing", "ann_id": 366390, "best_split": [2, 1], "split_score": 0.5432843651422844}
+{"sent": "the wheel", "ann_id": 366078, "best_split": [1, 3], "split_score": 0.6628787878448568}
+{"sent": "bus with the tire showing", "ann_id": 366078, "best_split": [1, 3], "split_score": 0.6628787878448568}
+{"sent": "bus at 9 o clock", "ann_id": 366078, "best_split": [1, 3], "split_score": 0.6628787878448568}

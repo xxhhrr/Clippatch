@@ -1,0 +1,6 @@
+{"sent": "customer in white shirt", "ann_id": 1227494, "best_split": [2, 2], "split_score": 0.5930753563809674}
+{"sent": "man in white shirt", "ann_id": 1227494, "best_split": [2, 2], "split_score": 0.5930753563809674}
+{"sent": "white shirt", "ann_id": 1227494, "best_split": [2, 2], "split_score": 0.5930753563809674}
+{"sent": "blue apron", "ann_id": 506103, "best_split": [1, 5], "split_score": 0.6231737012354734}
+{"sent": "blue apron guy", "ann_id": 506103, "best_split": [2, 3], "split_score": 0.39784946232705126}
+{"sent": "man with blue apron", "ann_id": 506103, "best_split": [2, 3], "split_score": 0.39784946232705126}

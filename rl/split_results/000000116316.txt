@@ -1,0 +1,3 @@
+{"sent": "single slice by foot", "ann_id": 1076873, "best_split": [3, 1], "split_score": 0.19221165278286495}
+{"sent": "small slice closest to white sock", "ann_id": 1076873, "best_split": [3, 2], "split_score": 0.30591630588234914}
+{"sent": "single piece at 200", "ann_id": 1076873, "best_split": [1, 3], "split_score": 0.14667200365126531}

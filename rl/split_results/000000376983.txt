@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 456105, "best_split": [2, 2], "split_score": 0.71358804935984}
+{"sent": "small girl", "ann_id": 456105, "best_split": [2, 2], "split_score": 0.71358804935984}
+{"sent": "kid", "ann_id": 456105, "best_split": [2, 2], "split_score": 0.71358804935984}
+{"sent": "woman in gray", "ann_id": 1708071, "best_split": [1, 2], "split_score": 0.6163153914241832}
+{"sent": "gray", "ann_id": 1708071, "best_split": [1, 2], "split_score": 0.6163153914241832}
+{"sent": "gray aero hoody", "ann_id": 1708071, "best_split": [1, 2], "split_score": 0.6163153914241832}

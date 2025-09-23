@@ -1,0 +1,11 @@
+{"sent": "part of sandwich not cut in half really", "ann_id": 1908493, "best_split": [3, 3], "split_score": 0.4292632306417739}
+{"sent": "sandwich half on end with red toothpick", "ann_id": 1908493, "best_split": [3, 2], "split_score": 0.28880614378766506}
+{"sent": "sandwich where you cant see the tip of the toothpick", "ann_id": 312750, "best_split": [2, 3], "split_score": 0.36282996683094687}
+{"sent": "sandwich at the corner that is cutof", "ann_id": 312750, "best_split": [1, 5], "split_score": 0.4000782166210326}
+{"sent": "sandwhich part coming off plate at end", "ann_id": 312750, "best_split": [2, 3], "split_score": 0.36282996683094687}
+{"sent": "piece with yellow cocktail pick closest to us fully visible", "ann_id": 309254, "best_split": [1, 5], "split_score": 0.4284141901254412}
+{"sent": "close sandwich piece with orange toothpick", "ann_id": 309254, "best_split": [2, 2], "split_score": 0.3324477143993155}
+{"sent": "slice with orange toothpick showing tomato", "ann_id": 309254, "best_split": [2, 2], "split_score": 0.3324477143993155}
+{"sent": "sandwich slice close to camera with blue toothpick", "ann_id": 308940, "best_split": [3, 2], "split_score": 0.2627018151726077}
+{"sent": "the sandwich with tomato and blue toothpick", "ann_id": 308940, "best_split": [3, 2], "split_score": 0.2627018151726077}
+{"sent": "slice with a pepperoni on it", "ann_id": 308940, "best_split": [5, 1], "split_score": 0.1862828111626293}

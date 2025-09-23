@@ -1,0 +1,6 @@
+{"sent": "the white couch near the window", "ann_id": 99856, "best_split": [2, 3], "split_score": 0.492954382553982}
+{"sent": "couch by curtains", "ann_id": 99856, "best_split": [2, 3], "split_score": 0.492954382553982}
+{"sent": "couch near the window", "ann_id": 99856, "best_split": [2, 3], "split_score": 0.492954382553982}
+{"sent": "couch with yellow pillow", "ann_id": 99427, "best_split": [3, 1], "split_score": 0.6548021235126205}
+{"sent": "white couch closest to us", "ann_id": 99427, "best_split": [3, 1], "split_score": 0.6548021235126205}
+{"sent": "couch", "ann_id": 99427, "best_split": [3, 1], "split_score": 0.6548021235126205}

@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 534246, "best_split": [1, 2], "split_score": 0.5830676020175755}
+{"sent": "woman in blue", "ann_id": 534246, "best_split": [1, 2], "split_score": 0.5830676020175755}
+{"sent": "woman at refrigerator", "ann_id": 534246, "best_split": [1, 2], "split_score": 0.5830676020175755}
+{"sent": "man preparing food", "ann_id": 521599, "best_split": [2, 2], "split_score": 0.46858038834467614}
+{"sent": "man cooking", "ann_id": 521599, "best_split": [2, 2], "split_score": 0.46858038834467614}
+{"sent": "man standing", "ann_id": 521599, "best_split": [2, 2], "split_score": 0.46858038834467614}

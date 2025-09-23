@@ -1,0 +1,9 @@
+{"sent": "ump", "ann_id": 1300099, "best_split": [2, 1], "split_score": 0.25396580932334956}
+{"sent": "ump", "ann_id": 1300099, "best_split": [2, 1], "split_score": 0.25396580932334956}
+{"sent": "umpire", "ann_id": 1300099, "best_split": [2, 1], "split_score": 0.25396580932334956}
+{"sent": "catcher", "ann_id": 1307347, "best_split": [3, 1], "split_score": 0.20959478340652102}
+{"sent": "cather", "ann_id": 1307347, "best_split": [2, 3], "split_score": 0.40031397169765487}
+{"sent": "catcher", "ann_id": 1307347, "best_split": [3, 1], "split_score": 0.20959478340652102}
+{"sent": "batter", "ann_id": 1305814, "best_split": [2, 2], "split_score": 0.5350411569709177}
+{"sent": "14", "ann_id": 1305814, "best_split": [2, 2], "split_score": 0.5350411569709177}
+{"sent": "a man in white clothes playing", "ann_id": 1305814, "best_split": [2, 2], "split_score": 0.5350411569709177}

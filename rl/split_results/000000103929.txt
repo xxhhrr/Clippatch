@@ -1,0 +1,12 @@
+{"sent": "person by window", "ann_id": 252678, "best_split": [1, 3], "split_score": 0.21272676526861697}
+{"sent": "gray scarf", "ann_id": 252678, "best_split": [3, 2], "split_score": 0.3799548161450036}
+{"sent": "lady in back with white turtleneck", "ann_id": 252678, "best_split": [1, 5], "split_score": 0.41873877276933547}
+{"sent": "long black hair", "ann_id": 192118, "best_split": [1, 2], "split_score": 0.5919961734457909}
+{"sent": "longer brown hair", "ann_id": 192118, "best_split": [1, 2], "split_score": 0.5919961734457909}
+{"sent": "poufy tie", "ann_id": 192118, "best_split": [1, 2], "split_score": 0.5919961734457909}
+{"sent": "lady short sleeves", "ann_id": 1724103, "best_split": [2, 3], "split_score": 0.6905031829867879}
+{"sent": "woman with curly hair wearing pink scarf", "ann_id": 1724103, "best_split": [1, 3], "split_score": 0.5781579697417646}
+{"sent": "woman red scarf", "ann_id": 1724103, "best_split": [1, 3], "split_score": 0.5781579697417646}
+{"sent": "woman in black looking at you", "ann_id": 1709356, "best_split": [3, 2], "split_score": 0.35376606816596556}
+{"sent": "woman with purse on table", "ann_id": 1709356, "best_split": [3, 2], "split_score": 0.35376606816596556}
+{"sent": "woman at 200", "ann_id": 1709356, "best_split": [3, 1], "split_score": 0.18812496468063244}

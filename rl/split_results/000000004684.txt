@@ -1,0 +1,12 @@
+{"sent": "pink", "ann_id": 543015, "best_split": [3, 3], "split_score": 0.31623931620279055}
+{"sent": "red dress", "ann_id": 543015, "best_split": [1, 5], "split_score": 0.4373177842167167}
+{"sent": "woman in pink", "ann_id": 543015, "best_split": [1, 5], "split_score": 0.4373177842167167}
+{"sent": "blue dress", "ann_id": 514366, "best_split": [3, 3], "split_score": 0.3124804503734}
+{"sent": "blue dfress", "ann_id": 514366, "best_split": [3, 1], "split_score": 0.11421058648026691}
+{"sent": "girl in green dress", "ann_id": 514366, "best_split": [3, 3], "split_score": 0.3124804503734}
+{"sent": "white dress", "ann_id": 2205034, "best_split": [1, 5], "split_score": 0.43006081664717943}
+{"sent": "the one in white dress", "ann_id": 2205034, "best_split": [1, 5], "split_score": 0.43006081664717943}
+{"sent": "white dress", "ann_id": 2205034, "best_split": [1, 5], "split_score": 0.43006081664717943}
+{"sent": "pink tie", "ann_id": 504184, "best_split": [1, 3], "split_score": 0.39286930848229423}
+{"sent": "my bad thought it was mustard black suit pink tie", "ann_id": 504184, "best_split": [1, 3], "split_score": 0.39286930848229423}
+{"sent": "suit", "ann_id": 504184, "best_split": [1, 3], "split_score": 0.39286930848229423}

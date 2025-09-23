@@ -1,0 +1,6 @@
+{"sent": "elephant with trunk in the air", "ann_id": 582887, "best_split": [1, 2], "split_score": 0.5629783163040905}
+{"sent": "elephant with trunk up", "ann_id": 582887, "best_split": [1, 2], "split_score": 0.5629783163040905}
+{"sent": "the one with trunk up", "ann_id": 582887, "best_split": [1, 2], "split_score": 0.5629783163040905}
+{"sent": "elephant with trunk down", "ann_id": 582096, "best_split": [2, 2], "split_score": 0.4815518176558904}
+{"sent": "trunk down", "ann_id": 582096, "best_split": [3, 1], "split_score": 0.2889021717329696}
+{"sent": "elephants whos face we can see", "ann_id": 582096, "best_split": [3, 1], "split_score": 0.2889021717329696}

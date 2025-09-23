@@ -1,0 +1,5 @@
+{"sent": "person next to man standing at the table", "ann_id": 1686742, "best_split": [5, 1], "split_score": 0.1389248704550741}
+{"sent": "guy with bunch of purple grapes on tray", "ann_id": 1686742, "best_split": [2, 1], "split_score": 0.10436847461066795}
+{"sent": "guy between the black people", "ann_id": 1686742, "best_split": [1, 5], "split_score": 0.4273538960605363}
+{"sent": "man next guy in fatigues", "ann_id": 1288669, "best_split": [3, 3], "split_score": 0.34123222744444315}
+{"sent": "guy grapes on his plate", "ann_id": 1288669, "best_split": [1, 5], "split_score": 0.4473248220984967}

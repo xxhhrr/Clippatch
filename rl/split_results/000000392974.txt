@@ -1,0 +1,9 @@
+{"sent": "man standing up", "ann_id": 218868, "best_split": [1, 3], "split_score": 0.5518763796580229}
+{"sent": "standing", "ann_id": 218868, "best_split": [1, 3], "split_score": 0.5518763796580229}
+{"sent": "stripe shirt", "ann_id": 218868, "best_split": [1, 3], "split_score": 0.5518763796580229}
+{"sent": "white shirt face obscured", "ann_id": 214359, "best_split": [3, 1], "split_score": 0.1085876508106769}
+{"sent": "lady in light pink shirt", "ann_id": 214359, "best_split": [2, 3], "split_score": 0.522762951275761}
+{"sent": "woman next to wall", "ann_id": 214359, "best_split": [1, 3], "split_score": 0.3192567567374966}
+{"sent": "pink shirt", "ann_id": 208768, "best_split": [2, 2], "split_score": 0.39302884612432176}
+{"sent": "woman in purple", "ann_id": 208768, "best_split": [2, 2], "split_score": 0.39302884612432176}
+{"sent": "purple", "ann_id": 208768, "best_split": [2, 2], "split_score": 0.39302884612432176}

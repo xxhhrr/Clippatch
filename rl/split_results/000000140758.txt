@@ -1,0 +1,6 @@
+{"sent": "parking meter 9 oclock", "ann_id": 419087, "best_split": [3, 3], "split_score": 0.5615579763376275}
+{"sent": "number 1 meter", "ann_id": 419087, "best_split": [2, 2], "split_score": 0.39764030609074935}
+{"sent": "9pm meter", "ann_id": 419087, "best_split": [3, 3], "split_score": 0.5615579763376275}
+{"sent": "2 meter", "ann_id": 418410, "best_split": [2, 1], "split_score": 0.2045998086653141}
+{"sent": "number 2 meter", "ann_id": 418410, "best_split": [2, 1], "split_score": 0.2045998086653141}
+{"sent": "one with more empty space next to it", "ann_id": 418410, "best_split": [2, 1], "split_score": 0.2045998086653141}

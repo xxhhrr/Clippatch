@@ -1,0 +1,6 @@
+{"sent": "catcher", "ann_id": 510352, "best_split": [2, 3], "split_score": 0.33262418888069095}
+{"sent": "catcher in a baseball game", "ann_id": 510352, "best_split": [5, 1], "split_score": 0.1822527887123834}
+{"sent": "catcher", "ann_id": 510352, "best_split": [2, 3], "split_score": 0.33262418888069095}
+{"sent": "batter", "ann_id": 437037, "best_split": [3, 3], "split_score": 0.36505152374862404}
+{"sent": "player swinging bat", "ann_id": 437037, "best_split": [3, 3], "split_score": 0.36505152374862404}
+{"sent": "player", "ann_id": 437037, "best_split": [3, 3], "split_score": 0.36505152374862404}

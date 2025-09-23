@@ -1,0 +1,8 @@
+{"sent": "chair closest to the plant", "ann_id": 1586102, "best_split": [2, 2], "split_score": 0.22562322497431184}
+{"sent": "highest chair", "ann_id": 1586102, "best_split": [2, 2], "split_score": 0.22562322497431184}
+{"sent": "chair farthest from us", "ann_id": 1586102, "best_split": [2, 2], "split_score": 0.22562322497431184}
+{"sent": "partial closest chair", "ann_id": 106868, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "arm of green chairs not by road", "ann_id": 106868, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "chair number two on left side", "ann_id": 105537, "best_split": [3, 3], "split_score": 0.6182377418819907}
+{"sent": "chair with three hole lines", "ann_id": 105537, "best_split": [3, 3], "split_score": 0.6182377418819907}
+{"sent": "in between chair", "ann_id": 105537, "best_split": [3, 3], "split_score": 0.6182377418819907}

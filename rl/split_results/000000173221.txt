@@ -1,0 +1,9 @@
+{"sent": "bed with white cloth", "ann_id": 1957395, "best_split": [2, 1], "split_score": 0.8131734559522611}
+{"sent": "bed with blue stripes and white", "ann_id": 1957395, "best_split": [2, 1], "split_score": 0.8131734559522611}
+{"sent": "nearest bed", "ann_id": 1957395, "best_split": [2, 1], "split_score": 0.8131734559522611}
+{"sent": "bed farthest away", "ann_id": 319200, "best_split": [5, 1], "split_score": 0.49916247902397115}
+{"sent": "bed with darkest clothing on it furthest back", "ann_id": 319200, "best_split": [5, 1], "split_score": 0.49916247902397115}
+{"sent": "bed is fully visible no black pillow", "ann_id": 319200, "best_split": [5, 1], "split_score": 0.49916247902397115}
+{"sent": "socks", "ann_id": 319097, "best_split": [3, 1], "split_score": 0.4797254353476635}
+{"sent": "center bed", "ann_id": 319097, "best_split": [3, 1], "split_score": 0.4797254353476635}
+{"sent": "bed with black on pillow", "ann_id": 319097, "best_split": [3, 1], "split_score": 0.4797254353476635}

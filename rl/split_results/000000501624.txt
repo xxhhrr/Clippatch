@@ -1,0 +1,8 @@
+{"sent": "guy at end standing thats not the catcher", "ann_id": 1266063, "best_split": [3, 3], "split_score": 0.3287062742464317}
+{"sent": "man standing in white uniform", "ann_id": 1266063, "best_split": [3, 2], "split_score": 0.2364217252160122}
+{"sent": "tall guy in white", "ann_id": 1266063, "best_split": [1, 2], "split_score": 0.16326530611594128}
+{"sent": "guy sitting in between the man with the tie and the man on the end", "ann_id": 1328810, "best_split": [3, 3], "split_score": 0.20321017562034976}
+{"sent": "man 2 away from catcher", "ann_id": 1328810, "best_split": [3, 2], "split_score": 0.17291757521010492}
+{"sent": "catcher", "ann_id": 1325878, "best_split": [1, 5], "split_score": 0.37875085520684676}
+{"sent": "man at the edge wearing vest", "ann_id": 1325878, "best_split": [3, 2], "split_score": 0.2510476950457945}
+{"sent": "catcher", "ann_id": 1325878, "best_split": [1, 5], "split_score": 0.37875085520684676}

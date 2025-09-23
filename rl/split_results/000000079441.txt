@@ -1,0 +1,5 @@
+{"sent": "green bottle next to glass", "ann_id": 81435, "best_split": [1, 5], "split_score": 0.25202922075364964}
+{"sent": "2 nd green bottle", "ann_id": 81435, "best_split": [1, 5], "split_score": 0.25202922075364964}
+{"sent": "green bottle in front of planter", "ann_id": 78655, "best_split": [1, 3], "split_score": 0.13302364864062358}
+{"sent": "geeen bottle before plant", "ann_id": 78655, "best_split": [3, 3], "split_score": 0.2201747418236418}
+{"sent": "green bottle at corner of table", "ann_id": 78655, "best_split": [3, 3], "split_score": 0.2201747418236418}

@@ -1,0 +1,6 @@
+{"sent": "female", "ann_id": 501475, "best_split": [3, 1], "split_score": 0.24329979076201555}
+{"sent": "girl with skirt", "ann_id": 501475, "best_split": [1, 5], "split_score": 0.4417391303998625}
+{"sent": "girl", "ann_id": 501475, "best_split": [1, 5], "split_score": 0.4417391303998625}
+{"sent": "man", "ann_id": 448938, "best_split": [1, 2], "split_score": 0.35477546791615094}
+{"sent": "guy", "ann_id": 448938, "best_split": [1, 5], "split_score": 0.40034038093864366}
+{"sent": "guy", "ann_id": 448938, "best_split": [1, 5], "split_score": 0.40034038093864366}

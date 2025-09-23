@@ -1,0 +1,6 @@
+{"sent": "lying down", "ann_id": 74155, "best_split": [2, 2], "split_score": 0.40541174627313586}
+{"sent": "animal with head down", "ann_id": 74155, "best_split": [3, 3], "split_score": 0.26177525746305114}
+{"sent": "lying down tan cow", "ann_id": 74155, "best_split": [2, 1], "split_score": 0.216318558664847}
+{"sent": "standing cow", "ann_id": 73881, "best_split": [1, 2], "split_score": 0.52443080069713}
+{"sent": "the standing animal", "ann_id": 73881, "best_split": [1, 2], "split_score": 0.52443080069713}
+{"sent": "standing cow", "ann_id": 73881, "best_split": [1, 2], "split_score": 0.52443080069713}

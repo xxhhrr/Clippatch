@@ -1,0 +1,7 @@
+{"sent": "doh that was light green p boy blue shirt on bike", "ann_id": 2152004, "best_split": [1, 5], "split_score": 0.36344755967779097}
+{"sent": "kid", "ann_id": 2152004, "best_split": [2, 2], "split_score": 0.33817020965405425}
+{"sent": "child", "ann_id": 2152004, "best_split": [2, 2], "split_score": 0.33817020965405425}
+{"sent": "ahead of child", "ann_id": 259626, "best_split": [3, 2], "split_score": 0.34927648289525276}
+{"sent": "dad", "ann_id": 259626, "best_split": [3, 2], "split_score": 0.34927648289525276}
+{"sent": "adult in dark clothes", "ann_id": 259626, "best_split": [3, 2], "split_score": 0.34927648289525276}
+{"sent": "man on bike", "ann_id": 259626, "best_split": [1, 5], "split_score": 0.20945945944107935}

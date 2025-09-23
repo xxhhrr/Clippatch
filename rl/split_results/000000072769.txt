@@ -1,0 +1,6 @@
+{"sent": "kid at green cake", "ann_id": 1227151, "best_split": [1, 2], "split_score": 0.38504464284179507}
+{"sent": "kid with arm by ear", "ann_id": 1227151, "best_split": [1, 5], "split_score": 0.8991825612203987}
+{"sent": "boy by green cake", "ann_id": 1227151, "best_split": [1, 2], "split_score": 0.38504464284179507}
+{"sent": "girl in yellow shirt with crown on head", "ann_id": 1315534, "best_split": [1, 3], "split_score": 0.5570704632868563}
+{"sent": "kid with birthday hat on", "ann_id": 1315534, "best_split": [1, 5], "split_score": 0.4018211190775576}
+{"sent": "yellow shirt", "ann_id": 1315534, "best_split": [1, 5], "split_score": 0.4018211190775576}

@@ -1,0 +1,15 @@
+{"sent": "guy in green shirt", "ann_id": 543522, "best_split": [2, 3], "split_score": 0.303756994374125}
+{"sent": "man with beard", "ann_id": 543522, "best_split": [2, 1], "split_score": 0.06114903298986245}
+{"sent": "man in green shirt", "ann_id": 543522, "best_split": [2, 3], "split_score": 0.303756994374125}
+{"sent": "striped shirt in back", "ann_id": 542959, "best_split": [2, 3], "split_score": 0.23663453108713467}
+{"sent": "woman with back to us in green striped shirt", "ann_id": 542959, "best_split": [3, 3], "split_score": 0.2904993909423722}
+{"sent": "striped shirt", "ann_id": 542959, "best_split": [2, 3], "split_score": 0.23663453108713467}
+{"sent": "pink shirt", "ann_id": 542742, "best_split": [1, 2], "split_score": 0.3031578947254452}
+{"sent": "white hat red pink shirt", "ann_id": 542742, "best_split": [1, 2], "split_score": 0.3031578947254452}
+{"sent": "man with red shirt", "ann_id": 542742, "best_split": [1, 2], "split_score": 0.3031578947254452}
+{"sent": "plaid pants", "ann_id": 495767, "best_split": [1, 2], "split_score": 0.7622411421064713}
+{"sent": "man with plade shorts", "ann_id": 495767, "best_split": [1, 2], "split_score": 0.7622411421064713}
+{"sent": "orange sneakers", "ann_id": 495767, "best_split": [1, 2], "split_score": 0.7622411421064713}
+{"sent": "woman sunglasses", "ann_id": 468740, "best_split": [5, 1], "split_score": 0.08987052550838598}
+{"sent": "pink shirt woman", "ann_id": 468740, "best_split": [3, 1], "split_score": 0.2235993034813275}
+{"sent": "girl with pink shirt and kaki shorts", "ann_id": 468740, "best_split": [3, 1], "split_score": 0.2235993034813275}

@@ -1,0 +1,6 @@
+{"sent": "silver vehicle", "ann_id": 144843, "best_split": [2, 3], "split_score": 0.45298838178788015}
+{"sent": "silver vehicle", "ann_id": 144843, "best_split": [2, 3], "split_score": 0.45298838178788015}
+{"sent": "silver car", "ann_id": 144843, "best_split": [2, 3], "split_score": 0.45298838178788015}
+{"sent": "black car closest to camera", "ann_id": 137337, "best_split": [3, 2], "split_score": 0.5118565644458517}
+{"sent": "black car", "ann_id": 137337, "best_split": [3, 2], "split_score": 0.5118565644458517}
+{"sent": "black car in front of the silver ride", "ann_id": 137337, "best_split": [3, 2], "split_score": 0.5118565644458517}

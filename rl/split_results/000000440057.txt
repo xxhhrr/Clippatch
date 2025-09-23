@@ -1,0 +1,6 @@
+{"sent": "blue jeans", "ann_id": 1229557, "best_split": [3, 1], "split_score": 0.8541281668641354}
+{"sent": "blue jean", "ann_id": 1229557, "best_split": [3, 1], "split_score": 0.8541281668641354}
+{"sent": "persons leg", "ann_id": 1229557, "best_split": [2, 1], "split_score": 0.5790417729361033}
+{"sent": "striped shirt", "ann_id": 197728, "best_split": [1, 5], "split_score": 0.503507404471599}
+{"sent": "stripes shirt only", "ann_id": 197728, "best_split": [1, 5], "split_score": 0.503507404471599}
+{"sent": "striped behind cat", "ann_id": 197728, "best_split": [3, 1], "split_score": 0.15869860863277024}

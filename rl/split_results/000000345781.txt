@@ -1,0 +1,11 @@
+{"sent": "human baby in corner", "ann_id": 2152040, "best_split": [3, 3], "split_score": 0.43920436309926136}
+{"sent": "boy", "ann_id": 2152040, "best_split": [1, 5], "split_score": 0.3178049743073623}
+{"sent": "giraffe by laddys face", "ann_id": 1414131, "best_split": [3, 1], "split_score": 0.3055045871384458}
+{"sent": "shorter animal next to girl", "ann_id": 1414131, "best_split": [3, 2], "split_score": 0.5821678321042212}
+{"sent": "giraffe closest to lady", "ann_id": 1414131, "best_split": [3, 1], "split_score": 0.3055045871384458}
+{"sent": "big girafe", "ann_id": 599116, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "giraffe taller", "ann_id": 599116, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "giraffe eating from the girl", "ann_id": 599116, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "girl with arm raised", "ann_id": 506189, "best_split": [2, 2], "split_score": 0.8305369126936145}
+{"sent": "woman with arm stretched", "ann_id": 506189, "best_split": [2, 2], "split_score": 0.8305369126936145}
+{"sent": "girl arm up", "ann_id": 506189, "best_split": [2, 2], "split_score": 0.8305369126936145}

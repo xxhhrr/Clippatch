@@ -1,0 +1,9 @@
+{"sent": "lolbrownish shirt sitting", "ann_id": 232556, "best_split": [2, 2], "split_score": 0.2764512759083382}
+{"sent": "brown shirt seated", "ann_id": 232556, "best_split": [2, 3], "split_score": 0.4050951235069872}
+{"sent": "person sitting down in dark green jacket", "ann_id": 232556, "best_split": [2, 3], "split_score": 0.4050951235069872}
+{"sent": "man playing game", "ann_id": 223174, "best_split": [2, 1], "split_score": 0.2236909519341568}
+{"sent": "tan shorts", "ann_id": 223174, "best_split": [1, 2], "split_score": 0.4280133928400824}
+{"sent": "tan shorts", "ann_id": 223174, "best_split": [1, 2], "split_score": 0.4280133928400824}
+{"sent": "girl in stripes", "ann_id": 201788, "best_split": [1, 3], "split_score": 0.6107142856802057}
+{"sent": "girl playing wii with striped shirt", "ann_id": 201788, "best_split": [1, 3], "split_score": 0.6107142856802057}
+{"sent": "striped shirt", "ann_id": 201788, "best_split": [1, 3], "split_score": 0.6107142856802057}

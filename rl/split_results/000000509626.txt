@@ -1,0 +1,8 @@
+{"sent": "catcher on ground", "ann_id": 1248632, "best_split": [2, 1], "split_score": 0.2224170918278692}
+{"sent": "catcher", "ann_id": 1248632, "best_split": [2, 1], "split_score": 0.2224170918278692}
+{"sent": "catcher", "ann_id": 1248632, "best_split": [2, 1], "split_score": 0.2224170918278692}
+{"sent": "batter", "ann_id": 1243546, "best_split": [1, 2], "split_score": 0.5491071428352556}
+{"sent": "man running", "ann_id": 1243546, "best_split": [1, 2], "split_score": 0.5491071428352556}
+{"sent": "ump", "ann_id": 1737655, "best_split": [2, 1], "split_score": 0.15120590145812002}
+{"sent": "umpire in black shirt", "ann_id": 1737655, "best_split": [5, 1], "split_score": 0.14559445939626053}
+{"sent": "referee", "ann_id": 1737655, "best_split": [3, 3], "split_score": 0.32246696031183547}

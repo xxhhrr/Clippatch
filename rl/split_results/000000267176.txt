@@ -1,0 +1,6 @@
+{"sent": "asian with glasses white shirt", "ann_id": 1701176, "best_split": [2, 2], "split_score": 0.892838355685516}
+{"sent": "blurry man close to viewer", "ann_id": 1701176, "best_split": [1, 2], "split_score": 0.5039859693676664}
+{"sent": "man with glasses in blue party hat", "ann_id": 1701176, "best_split": [1, 2], "split_score": 0.5039859693676664}
+{"sent": "man in green shirt", "ann_id": 496753, "best_split": [2, 2], "split_score": 0.46953428624797217}
+{"sent": "man with thumbs up", "ann_id": 496753, "best_split": [2, 2], "split_score": 0.46953428624797217}
+{"sent": "man at table arms folded", "ann_id": 496753, "best_split": [3, 1], "split_score": 0.24892134084448717}

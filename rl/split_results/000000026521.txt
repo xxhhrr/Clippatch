@@ -1,0 +1,6 @@
+{"sent": "back end", "ann_id": 57016, "best_split": [2, 3], "split_score": 0.5329421178625672}
+{"sent": "horse tail", "ann_id": 57016, "best_split": [3, 1], "split_score": 0.29582366588101494}
+{"sent": "animal at 7 o clock", "ann_id": 57016, "best_split": [2, 1], "split_score": 0.09223674096595375}
+{"sent": "horse face", "ann_id": 56447, "best_split": [1, 2], "split_score": 0.8247083348270231}
+{"sent": "horse looking", "ann_id": 56447, "best_split": [1, 2], "split_score": 0.8247083348270231}
+{"sent": "horse face white stripe", "ann_id": 56447, "best_split": [1, 2], "split_score": 0.8247083348270231}

@@ -1,0 +1,9 @@
+{"sent": "kid with hat", "ann_id": 438803, "best_split": [3, 2], "split_score": 0.3636217173865296}
+{"sent": "the kid with hat", "ann_id": 438803, "best_split": [3, 2], "split_score": 0.3636217173865296}
+{"sent": "hat", "ann_id": 438803, "best_split": [3, 2], "split_score": 0.3636217173865296}
+{"sent": "child looking at camera", "ann_id": 431867, "best_split": [1, 2], "split_score": 0.7188727712028229}
+{"sent": "girl looking at camera", "ann_id": 431867, "best_split": [1, 2], "split_score": 0.7188727712028229}
+{"sent": "no hat", "ann_id": 431867, "best_split": [2, 1], "split_score": 0.3407389946272397}
+{"sent": "pillow", "ann_id": 318160, "best_split": [2, 1], "split_score": 0.8872767856789191}
+{"sent": "pillow they are both resting on", "ann_id": 318160, "best_split": [2, 1], "split_score": 0.8872767856789191}
+{"sent": "pillow behind kids heads", "ann_id": 318160, "best_split": [2, 1], "split_score": 0.8872767856789191}

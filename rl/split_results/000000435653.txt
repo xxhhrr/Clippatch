@@ -1,0 +1,5 @@
+{"sent": "side view of sheep", "ann_id": 64823, "best_split": [3, 2], "split_score": 0.49502286785983113}
+{"sent": "sheep with no white on it", "ann_id": 64823, "best_split": [3, 2], "split_score": 0.49502286785983113}
+{"sent": "lamb closest to kennel", "ann_id": 63755, "best_split": [1, 5], "split_score": 0.4418648192808589}
+{"sent": "animal nearest to cage", "ann_id": 63755, "best_split": [3, 1], "split_score": 0.1602244715917436}
+{"sent": "lamb looking at us", "ann_id": 63755, "best_split": [1, 5], "split_score": 0.4418648192808589}

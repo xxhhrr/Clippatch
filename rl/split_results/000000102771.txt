@@ -1,0 +1,6 @@
+{"sent": "dark shirt", "ann_id": 1709754, "best_split": [1, 5], "split_score": 0.5676917638239933}
+{"sent": "boy", "ann_id": 1709754, "best_split": [3, 2], "split_score": 0.32818659655648924}
+{"sent": "boy next to hydrant", "ann_id": 1709754, "best_split": [3, 2], "split_score": 0.32818659655648924}
+{"sent": "red", "ann_id": 443055, "best_split": [1, 5], "split_score": 0.4084128877977019}
+{"sent": "girl in red", "ann_id": 443055, "best_split": [1, 5], "split_score": 0.4084128877977019}
+{"sent": "red", "ann_id": 443055, "best_split": [1, 5], "split_score": 0.4084128877977019}

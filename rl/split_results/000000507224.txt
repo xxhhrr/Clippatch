@@ -1,0 +1,6 @@
+{"sent": "white hat", "ann_id": 1218015, "best_split": [3, 3], "split_score": 0.6754065714113165}
+{"sent": "the white hat", "ann_id": 1218015, "best_split": [3, 3], "split_score": 0.6754065714113165}
+{"sent": "white hatted person taking a picture", "ann_id": 1218015, "best_split": [3, 3], "split_score": 0.6754065714113165}
+{"sent": "man bending over and holding sheep", "ann_id": 196352, "best_split": [3, 1], "split_score": 0.454173486075106}
+{"sent": "guy bending", "ann_id": 196352, "best_split": [2, 1], "split_score": 0.5041561257549653}
+{"sent": "man bending over", "ann_id": 196352, "best_split": [2, 1], "split_score": 0.5041561257549653}

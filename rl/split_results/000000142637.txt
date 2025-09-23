@@ -1,0 +1,12 @@
+{"sent": "blue shirt", "ann_id": 1737811, "best_split": [1, 3], "split_score": 0.5916359163331736}
+{"sent": "man holding frisbee", "ann_id": 1737811, "best_split": [2, 1], "split_score": 0.3570302074379161}
+{"sent": "blue shirt", "ann_id": 1737811, "best_split": [1, 3], "split_score": 0.5916359163331736}
+{"sent": "guy in all white in background", "ann_id": 1693872, "best_split": [2, 3], "split_score": 0.5089807400444729}
+{"sent": "white shirt woman blur in background", "ann_id": 1693872, "best_split": [2, 3], "split_score": 0.5089807400444729}
+{"sent": "blurry white shirt running", "ann_id": 1693872, "best_split": [1, 3], "split_score": 0.022629012969247124}
+{"sent": "man in maroon shirt wearing sunglasses", "ann_id": 1751860, "best_split": [1, 5], "split_score": 0.5760689426105345}
+{"sent": "trying to block", "ann_id": 1751860, "best_split": [2, 2], "split_score": 0.4216110019370261}
+{"sent": "arms out guy", "ann_id": 1751860, "best_split": [2, 1], "split_score": 0.2314661681084538}
+{"sent": "blue shorts", "ann_id": 1271736, "best_split": [1, 2], "split_score": 0.49744897957200856}
+{"sent": "red shirt guy behind blue shirt", "ann_id": 1271736, "best_split": [1, 2], "split_score": 0.49744897957200856}
+{"sent": "red shirt blue shorts", "ann_id": 1271736, "best_split": [1, 2], "split_score": 0.49744897957200856}

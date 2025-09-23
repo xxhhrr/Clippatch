@@ -1,0 +1,6 @@
+{"sent": "taller giraffe", "ann_id": 600457, "best_split": [1, 5], "split_score": 0.5035852178362117}
+{"sent": "taller giraffe", "ann_id": 600457, "best_split": [1, 5], "split_score": 0.5035852178362117}
+{"sent": "mom", "ann_id": 600457, "best_split": [1, 5], "split_score": 0.5035852178362117}
+{"sent": "only the head of the animal can be seen", "ann_id": 600310, "best_split": [3, 1], "split_score": 0.2198665327927794}
+{"sent": "the head of the shorter giraffe", "ann_id": 600310, "best_split": [3, 1], "split_score": 0.2198665327927794}
+{"sent": "shortest giraffe", "ann_id": 600310, "best_split": [3, 1], "split_score": 0.2198665327927794}

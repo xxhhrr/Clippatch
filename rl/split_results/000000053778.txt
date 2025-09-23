@@ -1,0 +1,6 @@
+{"sent": "cow in back with small horns", "ann_id": 278204, "best_split": [5, 1], "split_score": 0.2799999999757576}
+{"sent": "the cow behind the other one", "ann_id": 278204, "best_split": [3, 1], "split_score": 0.250814332232968}
+{"sent": "cow farther away", "ann_id": 278204, "best_split": [3, 1], "split_score": 0.250814332232968}
+{"sent": "a cow facing the camara", "ann_id": 278027, "best_split": [1, 2], "split_score": 0.4342700479631847}
+{"sent": "closer cow head", "ann_id": 278027, "best_split": [1, 2], "split_score": 0.4342700479631847}
+{"sent": "closest animal", "ann_id": 278027, "best_split": [1, 2], "split_score": 0.4342700479631847}

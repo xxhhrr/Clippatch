@@ -1,0 +1,5 @@
+{"sent": "red double decker that is blurry", "ann_id": 247800, "best_split": [1, 3], "split_score": 0.9468508686687469}
+{"sent": "biggest bus", "ann_id": 247800, "best_split": [1, 3], "split_score": 0.9468508686687469}
+{"sent": "american apparel bus", "ann_id": 247800, "best_split": [1, 3], "split_score": 0.9468508686687469}
+{"sent": "the bus coming towards us", "ann_id": 167799, "best_split": [3, 1], "split_score": 0.26909090907561983}
+{"sent": "furthest bus", "ann_id": 167799, "best_split": [3, 2], "split_score": 0.5085910652374794}

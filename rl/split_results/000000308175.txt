@@ -1,0 +1,6 @@
+{"sent": "jaguar car black", "ann_id": 1368990, "best_split": [3, 3], "split_score": 0.31578947362806015}
+{"sent": "classic car", "ann_id": 1368990, "best_split": [1, 5], "split_score": 0.11955901918650835}
+{"sent": "car at high noon", "ann_id": 1368990, "best_split": [5, 1], "split_score": 0.19521103894123265}
+{"sent": "white and blue truck", "ann_id": 398559, "best_split": [2, 3], "split_score": 0.7464536892661278}
+{"sent": "the bus", "ann_id": 398559, "best_split": [2, 3], "split_score": 0.7464536892661278}
+{"sent": "bus", "ann_id": 398559, "best_split": [2, 3], "split_score": 0.7464536892661278}

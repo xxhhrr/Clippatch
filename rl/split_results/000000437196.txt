@@ -1,0 +1,6 @@
+{"sent": "partial donut not the full one", "ann_id": 1078999, "best_split": [2, 1], "split_score": 0.09551942902079621}
+{"sent": "small piece", "ann_id": 1078999, "best_split": [5, 1], "split_score": 0.13266331657079367}
+{"sent": "half a donut", "ann_id": 1078999, "best_split": [2, 1], "split_score": 0.09551942902079621}
+{"sent": "the donut", "ann_id": 1078460, "best_split": [1, 2], "split_score": 0.43424194189130916}
+{"sent": "donut", "ann_id": 1078460, "best_split": [1, 2], "split_score": 0.43424194189130916}
+{"sent": "full donut", "ann_id": 1078460, "best_split": [1, 2], "split_score": 0.43424194189130916}

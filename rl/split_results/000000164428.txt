@@ -1,0 +1,6 @@
+{"sent": "umbrella with the more complex pattern", "ann_id": 284185, "best_split": [2, 2], "split_score": 0.3090128755127979}
+{"sent": "umbrella with blue yellow red", "ann_id": 284185, "best_split": [2, 2], "split_score": 0.3090128755127979}
+{"sent": "flower umbrella", "ann_id": 284185, "best_split": [2, 2], "split_score": 0.3090128755127979}
+{"sent": "green and blue umbrella", "ann_id": 284108, "best_split": [2, 3], "split_score": 0.6340694005594784}
+{"sent": "blue and green umbrella", "ann_id": 284108, "best_split": [2, 3], "split_score": 0.6340694005594784}
+{"sent": "blue and green", "ann_id": 284108, "best_split": [2, 3], "split_score": 0.6340694005594784}

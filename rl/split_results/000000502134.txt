@@ -1,0 +1,9 @@
+{"sent": "red coat with brown purse", "ann_id": 235786, "best_split": [3, 1], "split_score": 0.09187358915960081}
+{"sent": "woman tkaing picture", "ann_id": 235786, "best_split": [2, 1], "split_score": 0.04540337710899049}
+{"sent": "lady taking picture", "ann_id": 235786, "best_split": [1, 5], "split_score": 0.28124999997146405}
+{"sent": "girl santa", "ann_id": 228325, "best_split": [1, 2], "split_score": 0.4339524872276007}
+{"sent": "hand in air person", "ann_id": 228325, "best_split": [2, 1], "split_score": 0.15352550741804197}
+{"sent": "woman on back", "ann_id": 228325, "best_split": [1, 3], "split_score": 0.6567929536283306}
+{"sent": "man in santa suit on motorcycle", "ann_id": 222517, "best_split": [1, 3], "split_score": 0.5694357037670739}
+{"sent": "santa", "ann_id": 222517, "best_split": [1, 3], "split_score": 0.5694357037670739}
+{"sent": "santa on bike", "ann_id": 222517, "best_split": [1, 3], "split_score": 0.5694357037670739}

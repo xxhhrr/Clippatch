@@ -1,0 +1,6 @@
+{"sent": "bus next to bush", "ann_id": 163875, "best_split": [3, 1], "split_score": 0.2404607206000909}
+{"sent": "bus without reflection on windshield", "ann_id": 163875, "best_split": [3, 1], "split_score": 0.2404607206000909}
+{"sent": "not the leading bus", "ann_id": 163875, "best_split": [3, 1], "split_score": 0.2404607206000909}
+{"sent": "bigger bus", "ann_id": 163579, "best_split": [3, 2], "split_score": 0.5817655571074032}
+{"sent": "biggest bus", "ann_id": 163579, "best_split": [3, 2], "split_score": 0.5817655571074032}
+{"sent": "bus can see more of", "ann_id": 163579, "best_split": [3, 2], "split_score": 0.5817655571074032}

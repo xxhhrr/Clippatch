@@ -1,0 +1,6 @@
+{"sent": "all the food", "ann_id": 1899198, "best_split": [1, 2], "split_score": 0.49211490575354544}
+{"sent": "dog", "ann_id": 1899198, "best_split": [1, 2], "split_score": 0.49211490575354544}
+{"sent": "the white bowl that is holding the hotdog", "ann_id": 1899198, "best_split": [2, 1], "split_score": 0.5022419696620283}
+{"sent": "onion rings", "ann_id": 710719, "best_split": [3, 2], "split_score": 0.7752228999559804}
+{"sent": "partial bowl", "ann_id": 710719, "best_split": [3, 2], "split_score": 0.7752228999559804}
+{"sent": "bowl not cardboard", "ann_id": 710719, "best_split": [3, 2], "split_score": 0.7752228999559804}

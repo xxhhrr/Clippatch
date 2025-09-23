@@ -1,0 +1,6 @@
+{"sent": "hard to see train under co sign", "ann_id": 1367061, "best_split": [3, 1], "split_score": 0.12975557916420002}
+{"sent": "bus hidden", "ann_id": 1367061, "best_split": [3, 1], "split_score": 0.12975557916420002}
+{"sent": "train you can barely see off to side", "ann_id": 1367061, "best_split": [3, 1], "split_score": 0.12975557916420002}
+{"sent": "red bus in full view", "ann_id": 173443, "best_split": [1, 2], "split_score": 0.5246463780399526}
+{"sent": "the train", "ann_id": 173443, "best_split": [1, 2], "split_score": 0.5246463780399526}
+{"sent": "train with visible writing", "ann_id": 173443, "best_split": [1, 2], "split_score": 0.5246463780399526}

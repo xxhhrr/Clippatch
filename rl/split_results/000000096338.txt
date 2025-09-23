@@ -1,0 +1,6 @@
+{"sent": "tan pants purple umbrella", "ann_id": 536079, "best_split": [3, 3], "split_score": 0.4086021504782618}
+{"sent": "guy with umbrella and brown pants", "ann_id": 536079, "best_split": [3, 2], "split_score": 0.2900763358479393}
+{"sent": "khaki pants white shoes", "ann_id": 536079, "best_split": [1, 5], "split_score": 0.4279626622942408}
+{"sent": "man in all black", "ann_id": 482892, "best_split": [1, 5], "split_score": 0.4127435064516291}
+{"sent": "person holding blue umbrella", "ann_id": 482892, "best_split": [1, 5], "split_score": 0.4127435064516291}
+{"sent": "black figure under blue umbrella", "ann_id": 482892, "best_split": [1, 5], "split_score": 0.4127435064516291}

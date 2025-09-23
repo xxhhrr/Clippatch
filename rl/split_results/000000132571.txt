@@ -1,0 +1,9 @@
+{"sent": "guy laying down with arms touching eachother", "ann_id": 1264701, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "dude half sitting half laying", "ann_id": 1264701, "best_split": [3, 2], "split_score": 0.5132256133437192}
+{"sent": "boy sitting wearing black and white", "ann_id": 1264701, "best_split": [5, 1], "split_score": 0.26174198701396234}
+{"sent": "red shirt jeans", "ann_id": 1243619, "best_split": [2, 1], "split_score": 0.14267596702034416}
+{"sent": "man in red shirt", "ann_id": 1243619, "best_split": [2, 3], "split_score": 0.426944971486368}
+{"sent": "guy sitting red shirt", "ann_id": 1243619, "best_split": [2, 3], "split_score": 0.426944971486368}
+{"sent": "skateboarder", "ann_id": 1231542, "best_split": [1, 2], "split_score": 0.6130954373309311}
+{"sent": "skater", "ann_id": 1231542, "best_split": [1, 2], "split_score": 0.6130954373309311}
+{"sent": "watch me do tricks", "ann_id": 1231542, "best_split": [1, 2], "split_score": 0.6130954373309311}

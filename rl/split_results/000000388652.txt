@@ -1,0 +1,6 @@
+{"sent": "half an elephant", "ann_id": 584703, "best_split": [3, 1], "split_score": 0.27191601048849207}
+{"sent": "hidden elephant", "ann_id": 584703, "best_split": [1, 5], "split_score": 0.401153806510706}
+{"sent": "elephant blocked by trees", "ann_id": 584703, "best_split": [1, 5], "split_score": 0.401153806510706}
+{"sent": "elephant in full view", "ann_id": 581547, "best_split": [1, 2], "split_score": 0.7533071516896339}
+{"sent": "most visible elephant", "ann_id": 581547, "best_split": [1, 2], "split_score": 0.7533071516896339}
+{"sent": "main elephant", "ann_id": 581547, "best_split": [1, 2], "split_score": 0.7533071516896339}

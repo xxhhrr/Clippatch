@@ -1,0 +1,6 @@
+{"sent": "the vase under the brown thing", "ann_id": 1156353, "best_split": [2, 2], "split_score": 0.30851403058765037}
+{"sent": "second tallest whiteblue vase", "ann_id": 1156353, "best_split": [3, 2], "split_score": 0.3297604724565503}
+{"sent": "vase that looks like huge one", "ann_id": 1156353, "best_split": [3, 2], "split_score": 0.3297604724565503}
+{"sent": "tallest vase", "ann_id": 1155490, "best_split": [1, 3], "split_score": 0.8164816601824033}
+{"sent": "tallest one", "ann_id": 1155490, "best_split": [1, 3], "split_score": 0.8164816601824033}
+{"sent": "big vase", "ann_id": 1155490, "best_split": [1, 3], "split_score": 0.8164816601824033}

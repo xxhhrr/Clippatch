@@ -1,0 +1,9 @@
+{"sent": "guy hunched over with red tie", "ann_id": 215685, "best_split": [3, 3], "split_score": 0.3253297260462183}
+{"sent": "red tie", "ann_id": 215685, "best_split": [3, 3], "split_score": 0.3253297260462183}
+{"sent": "man with red tie", "ann_id": 215685, "best_split": [3, 3], "split_score": 0.3253297260462183}
+{"sent": "woman", "ann_id": 214929, "best_split": [1, 3], "split_score": 0.4387037437546687}
+{"sent": "woman", "ann_id": 214929, "best_split": [1, 3], "split_score": 0.4387037437546687}
+{"sent": "woman laughing", "ann_id": 214929, "best_split": [1, 3], "split_score": 0.4387037437546687}
+{"sent": "oldest man", "ann_id": 202607, "best_split": [1, 2], "split_score": 0.6959103953804244}
+{"sent": "tallest man in picture", "ann_id": 202607, "best_split": [1, 2], "split_score": 0.6959103953804244}
+{"sent": "bearded man", "ann_id": 202607, "best_split": [1, 2], "split_score": 0.6959103953804244}

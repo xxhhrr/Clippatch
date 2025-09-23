@@ -1,0 +1,9 @@
+{"sent": "lady with glasses", "ann_id": 521982, "best_split": [3, 3], "split_score": 0.5066984220740253}
+{"sent": "woman in black", "ann_id": 521982, "best_split": [3, 3], "split_score": 0.5066984220740253}
+{"sent": "lady in black sweater", "ann_id": 521982, "best_split": [3, 3], "split_score": 0.5066984220740253}
+{"sent": "young lady", "ann_id": 510485, "best_split": [1, 3], "split_score": 0.7152480814998976}
+{"sent": "woman in white sweater", "ann_id": 510485, "best_split": [1, 3], "split_score": 0.7152480814998976}
+{"sent": "girl with white sweater", "ann_id": 510485, "best_split": [1, 3], "split_score": 0.7152480814998976}
+{"sent": "checkered shirt no glasses", "ann_id": 565588, "best_split": [1, 3], "split_score": 0.5756054504013016}
+{"sent": "checkered shirt", "ann_id": 565588, "best_split": [1, 3], "split_score": 0.5756054504013016}
+{"sent": "checker shirt", "ann_id": 565588, "best_split": [1, 3], "split_score": 0.5756054504013016}

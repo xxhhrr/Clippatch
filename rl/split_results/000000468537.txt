@@ -1,0 +1,8 @@
+{"sent": "girl in light brown", "ann_id": 536861, "best_split": [3, 1], "split_score": 0.12745435755487158}
+{"sent": "woman in tan", "ann_id": 536861, "best_split": [3, 1], "split_score": 0.12745435755487158}
+{"sent": "standing in jeans", "ann_id": 528529, "best_split": [1, 5], "split_score": 0.6307249226867992}
+{"sent": "person standing dressed in dark clothes", "ann_id": 528529, "best_split": [1, 2], "split_score": 0.5324856504889793}
+{"sent": "gray jacket", "ann_id": 528529, "best_split": [1, 5], "split_score": 0.6307249226867992}
+{"sent": "crouching woman", "ann_id": 425867, "best_split": [2, 3], "split_score": 0.5422828971802917}
+{"sent": "the woman bending over", "ann_id": 425867, "best_split": [2, 3], "split_score": 0.5422828971802917}
+{"sent": "girl on floor", "ann_id": 425867, "best_split": [2, 3], "split_score": 0.5422828971802917}

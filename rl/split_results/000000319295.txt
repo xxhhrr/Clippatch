@@ -1,0 +1,5 @@
+{"sent": "slice with one mushroom", "ann_id": 1074418, "best_split": [3, 2], "split_score": 0.43361519059237386}
+{"sent": "side piece closest to napkin", "ann_id": 1074418, "best_split": [1, 2], "split_score": 0.4321731546645456}
+{"sent": "green covered by mushroom", "ann_id": 1074418, "best_split": [3, 1], "split_score": 0.2728613569195768}
+{"sent": "5oc slive", "ann_id": 1070830, "best_split": [2, 1], "split_score": 0.480799746093272}
+{"sent": "piece closest to us", "ann_id": 1070830, "best_split": [2, 3], "split_score": 0.5725448138063012}

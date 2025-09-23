@@ -1,0 +1,5 @@
+{"sent": "darker bike", "ann_id": 150679, "best_split": [3, 3], "split_score": 0.457019581736306}
+{"sent": "motorcycle closest to car", "ann_id": 150679, "best_split": [3, 3], "split_score": 0.457019581736306}
+{"sent": "bike with the most lean to it", "ann_id": 150446, "best_split": [2, 3], "split_score": 0.40624999995591904}
+{"sent": "bike closest to frame edge and orange hydrant", "ann_id": 150446, "best_split": [2, 3], "split_score": 0.40624999995591904}
+{"sent": "bike next to bud light glass", "ann_id": 150446, "best_split": [3, 2], "split_score": 0.3705583755953301}

@@ -1,0 +1,5 @@
+{"sent": "yellow car", "ann_id": 1776700, "best_split": [3, 3], "split_score": 0.4116143169445554}
+{"sent": "full visible car facing us", "ann_id": 1776700, "best_split": [3, 3], "split_score": 0.4116143169445554}
+{"sent": "yellow truck", "ann_id": 1776700, "best_split": [3, 3], "split_score": 0.4116143169445554}
+{"sent": "dark vehichle on side", "ann_id": 355047, "best_split": [5, 1], "split_score": 0.35847674841097793}
+{"sent": "car below three light", "ann_id": 355047, "best_split": [5, 1], "split_score": 0.35847674841097793}

@@ -1,0 +1,5 @@
+{"sent": "brocoli 2 o clock", "ann_id": 1916165, "best_split": [1, 5], "split_score": 0.12602714429636902}
+{"sent": "brocolli closest to edge 1 o clock", "ann_id": 1916165, "best_split": [1, 5], "split_score": 0.12602714429636902}
+{"sent": "close brocli clump", "ann_id": 1056151, "best_split": [1, 2], "split_score": 0.6505102040557035}
+{"sent": "broccoli", "ann_id": 1056151, "best_split": [1, 2], "split_score": 0.6505102040557035}
+{"sent": "closest broccoli", "ann_id": 1056151, "best_split": [1, 2], "split_score": 0.6505102040557035}

@@ -1,0 +1,6 @@
+{"sent": "incomplete zebra", "ann_id": 590643, "best_split": [1, 3], "split_score": 0.44205495816512824}
+{"sent": "zebra behind", "ann_id": 590643, "best_split": [1, 3], "split_score": 0.44205495816512824}
+{"sent": "zebra not facing camera", "ann_id": 590643, "best_split": [1, 3], "split_score": 0.44205495816512824}
+{"sent": "zebra looking at screen", "ann_id": 589036, "best_split": [1, 2], "split_score": 0.6292169606689408}
+{"sent": "zebra looking at us", "ann_id": 589036, "best_split": [1, 2], "split_score": 0.6292169606689408}
+{"sent": "near zebra", "ann_id": 589036, "best_split": [1, 2], "split_score": 0.6292169606689408}

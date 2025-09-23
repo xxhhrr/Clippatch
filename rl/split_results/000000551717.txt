@@ -1,0 +1,6 @@
+{"sent": "man on yellow line", "ann_id": 216962, "best_split": [1, 5], "split_score": 0.22676579923432147}
+{"sent": "guy in vest", "ann_id": 216962, "best_split": [3, 3], "split_score": 0.23524069024595204}
+{"sent": "man in the blue sweater vest", "ann_id": 216962, "best_split": [3, 3], "split_score": 0.23524069024595204}
+{"sent": "dude bout to get on train", "ann_id": 187880, "best_split": [1, 5], "split_score": 0.44169835230475296}
+{"sent": "man at door", "ann_id": 187880, "best_split": [1, 5], "split_score": 0.44169835230475296}
+{"sent": "whos foot on train", "ann_id": 187880, "best_split": [1, 2], "split_score": 0.24190848213321475}

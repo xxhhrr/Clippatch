@@ -1,0 +1,4 @@
+{"sent": "fuzzy blurry man all the way on the side by the hand holding the racquet", "ann_id": 2034077, "best_split": [1, 5], "split_score": 0.2039850068845941}
+{"sent": "tennis player", "ann_id": 422648, "best_split": [1, 2], "split_score": 0.4265483705761272}
+{"sent": "woman in yellow", "ann_id": 422648, "best_split": [2, 1], "split_score": 0.5022571588882143}
+{"sent": "woman", "ann_id": 422648, "best_split": [1, 2], "split_score": 0.48349893540446465}

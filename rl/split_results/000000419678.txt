@@ -1,0 +1,6 @@
+{"sent": "yellow thing in door of refrigerator", "ann_id": 96909, "best_split": [1, 5], "split_score": 0.3244724025644813}
+{"sent": "the mustard on the door", "ann_id": 96909, "best_split": [2, 3], "split_score": 0.385859073312517}
+{"sent": "bottle of sauce with the black cap half of the bottle is full", "ann_id": 96909, "best_split": [2, 3], "split_score": 0.385859073312517}
+{"sent": "purple cap clear bottle", "ann_id": 91739, "best_split": [3, 3], "split_score": 0.4978086193393337}
+{"sent": "door bottle purple cap", "ann_id": 91739, "best_split": [3, 3], "split_score": 0.4978086193393337}
+{"sent": "bottle next to smaller one with red and green lid", "ann_id": 91739, "best_split": [3, 3], "split_score": 0.4978086193393337}

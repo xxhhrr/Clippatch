@@ -1,0 +1,8 @@
+{"sent": "sorry green shirt", "ann_id": 541303, "best_split": [1, 3], "split_score": 0.3276232358187961}
+{"sent": "guy in green in the air", "ann_id": 541303, "best_split": [1, 3], "split_score": 0.3276232358187961}
+{"sent": "green in air", "ann_id": 541303, "best_split": [1, 3], "split_score": 0.3276232358187961}
+{"sent": "orange shirt", "ann_id": 511181, "best_split": [1, 3], "split_score": 0.7039159502922686}
+{"sent": "number 16", "ann_id": 511181, "best_split": [1, 3], "split_score": 0.7039159502922686}
+{"sent": "red with atb", "ann_id": 428017, "best_split": [2, 3], "split_score": 0.38263428987883585}
+{"sent": "the player in red with the jersey number 4", "ann_id": 428017, "best_split": [2, 3], "split_score": 0.38263428987883585}
+{"sent": "man in red next to green jump man", "ann_id": 428017, "best_split": [3, 3], "split_score": 0.31631873723061116}

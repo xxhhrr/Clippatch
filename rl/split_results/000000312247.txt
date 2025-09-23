@@ -1,0 +1,5 @@
+{"sent": "chair at 300", "ann_id": 1943204, "best_split": [1, 5], "split_score": 0.37491392027792286}
+{"sent": "chair off to side", "ann_id": 1943204, "best_split": [3, 3], "split_score": 0.43010432184350156}
+{"sent": "the chair directly behind laptop", "ann_id": 1937078, "best_split": [3, 3], "split_score": 0.42995480948515896}
+{"sent": "chair next to computer", "ann_id": 1937078, "best_split": [3, 3], "split_score": 0.42995480948515896}
+{"sent": "chair behind laptop", "ann_id": 1937078, "best_split": [3, 3], "split_score": 0.42995480948515896}

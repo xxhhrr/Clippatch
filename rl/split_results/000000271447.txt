@@ -1,0 +1,5 @@
+{"sent": "white mug with brown liquid the one with spoon on saucer", "ann_id": 1879909, "best_split": [2, 3], "split_score": 0.5732484075781109}
+{"sent": "coffee with milk", "ann_id": 1879909, "best_split": [2, 3], "split_score": 0.5732484075781109}
+{"sent": "cup of coffee with milk", "ann_id": 1879909, "best_split": [2, 3], "split_score": 0.5732484075781109}
+{"sent": "bowl with blue liquid", "ann_id": 684121, "best_split": [3, 2], "split_score": 0.46302250799205963}
+{"sent": "dark cup of coffee", "ann_id": 684121, "best_split": [3, 3], "split_score": 0.510025706875318}

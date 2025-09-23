@@ -1,0 +1,11 @@
+{"sent": "black dress", "ann_id": 235941, "best_split": [1, 5], "split_score": 0.5259740259206601}
+{"sent": "woman in dark blue dress", "ann_id": 235941, "best_split": [1, 5], "split_score": 0.5259740259206601}
+{"sent": "woman in dark blue and white dress", "ann_id": 235941, "best_split": [1, 5], "split_score": 0.5259740259206601}
+{"sent": "lady with light blue dress", "ann_id": 212079, "best_split": [3, 3], "split_score": 0.2633812456860532}
+{"sent": "woman in light blue dress", "ann_id": 212079, "best_split": [3, 3], "split_score": 0.2633812456860532}
+{"sent": "person in white", "ann_id": 212079, "best_split": [3, 3], "split_score": 0.2633812456860532}
+{"sent": "red dress", "ann_id": 208054, "best_split": [1, 5], "split_score": 0.4159999999621818}
+{"sent": "woman in red", "ann_id": 208054, "best_split": [1, 5], "split_score": 0.4159999999621818}
+{"sent": "lady in red", "ann_id": 208054, "best_split": [1, 5], "split_score": 0.4159999999621818}
+{"sent": "light pink dress", "ann_id": 204895, "best_split": [2, 3], "split_score": 0.2949276625156939}
+{"sent": "white dress by red dress", "ann_id": 204895, "best_split": [2, 3], "split_score": 0.2949276625156939}

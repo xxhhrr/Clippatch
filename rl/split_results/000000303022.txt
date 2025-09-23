@@ -1,0 +1,6 @@
+{"sent": "hidden bus", "ann_id": 165910, "best_split": [3, 2], "split_score": 0.20725283628370614}
+{"sent": "bus next to yahoo bus", "ann_id": 165910, "best_split": [3, 3], "split_score": 0.2898016996756655}
+{"sent": "not the yahoo bus", "ann_id": 165910, "best_split": [3, 3], "split_score": 0.2898016996756655}
+{"sent": "bus", "ann_id": 164563, "best_split": [1, 3], "split_score": 0.5103267788757134}
+{"sent": "blue bus", "ann_id": 164563, "best_split": [1, 3], "split_score": 0.5103267788757134}
+{"sent": "yahoo", "ann_id": 164563, "best_split": [1, 3], "split_score": 0.5103267788757134}

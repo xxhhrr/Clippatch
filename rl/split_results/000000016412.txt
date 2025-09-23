@@ -1,0 +1,11 @@
+{"sent": "car at 3pm", "ann_id": 243274, "best_split": [2, 3], "split_score": 0.3442896272068251}
+{"sent": "dark car beside white car", "ann_id": 243274, "best_split": [2, 3], "split_score": 0.3442896272068251}
+{"sent": "man under umbrella one for on white lines", "ann_id": 193062, "best_split": [1, 5], "split_score": 0.393631306311756}
+{"sent": "shortest man", "ann_id": 193062, "best_split": [1, 5], "split_score": 0.393631306311756}
+{"sent": "person under the lightly colored umbrella", "ann_id": 193062, "best_split": [1, 5], "split_score": 0.393631306311756}
+{"sent": "running shadow", "ann_id": 187021, "best_split": [1, 3], "split_score": 0.22554796133481333}
+{"sent": "woman is cloaked i darkness but in crosswalk", "ann_id": 187021, "best_split": [1, 3], "split_score": 0.22554796133481333}
+{"sent": "person walking towards us", "ann_id": 187021, "best_split": [1, 5], "split_score": 0.4285714285279453}
+{"sent": "yellow car", "ann_id": 139038, "best_split": [2, 2], "split_score": 0.3152656560775329}
+{"sent": "yellow car", "ann_id": 139038, "best_split": [2, 2], "split_score": 0.3152656560775329}
+{"sent": "white car", "ann_id": 139038, "best_split": [2, 2], "split_score": 0.3152656560775329}

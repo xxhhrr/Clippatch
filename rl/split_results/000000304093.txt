@@ -1,0 +1,12 @@
+{"sent": "pizza with only one slice missing", "ann_id": 1071895, "best_split": [2, 2], "split_score": 0.6347417840003086}
+{"sent": "biggest", "ann_id": 1071895, "best_split": [2, 2], "split_score": 0.6347417840003086}
+{"sent": "pizza with the most slices", "ann_id": 1071895, "best_split": [2, 2], "split_score": 0.6347417840003086}
+{"sent": "mug with darker liquid", "ann_id": 678682, "best_split": [3, 3], "split_score": 0.3959366500726385}
+{"sent": "dark beer", "ann_id": 678682, "best_split": [3, 3], "split_score": 0.3959366500726385}
+{"sent": "dark beer", "ann_id": 678682, "best_split": [3, 3], "split_score": 0.3959366500726385}
+{"sent": "pizza on plate near arm", "ann_id": 1077713, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "pizza slice by hand", "ann_id": 1077713, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "pizza with four pieces on plate", "ann_id": 1077713, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "light beer", "ann_id": 674605, "best_split": [2, 3], "split_score": 0.27423326614347066}
+{"sent": "drink with lemon in it", "ann_id": 674605, "best_split": [2, 3], "split_score": 0.27423326614347066}
+{"sent": "light colored drink", "ann_id": 674605, "best_split": [2, 3], "split_score": 0.27423326614347066}

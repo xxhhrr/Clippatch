@@ -1,0 +1,9 @@
+{"sent": "lighter red wine", "ann_id": 663834, "best_split": [2, 2], "split_score": 0.34165029467310737}
+{"sent": "rse", "ann_id": 663834, "best_split": [1, 3], "split_score": 0.4791867760328676}
+{"sent": "number one glass", "ann_id": 663834, "best_split": [3, 1], "split_score": 0.16529632621238077}
+{"sent": "the fuller glass of wine", "ann_id": 662913, "best_split": [1, 3], "split_score": 0.35285405033879147}
+{"sent": "the most filled wine glass", "ann_id": 662913, "best_split": [1, 3], "split_score": 0.35285405033879147}
+{"sent": "glass half full", "ann_id": 662913, "best_split": [1, 3], "split_score": 0.35285405033879147}
+{"sent": "glass above the e", "ann_id": 662438, "best_split": [3, 3], "split_score": 0.30065631833517487}
+{"sent": "glass with tan liquid", "ann_id": 662438, "best_split": [1, 3], "split_score": 0.368992338032912}
+{"sent": "glass with lightest liquor", "ann_id": 662438, "best_split": [1, 3], "split_score": 0.368992338032912}

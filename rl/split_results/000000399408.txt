@@ -1,0 +1,6 @@
+{"sent": "hot dog with big glob of mustard", "ann_id": 595, "best_split": [2, 2], "split_score": 0.2772073921767962}
+{"sent": "mustard", "ann_id": 595, "best_split": [2, 3], "split_score": 0.2566844919540981}
+{"sent": "hot dog with mustard", "ann_id": 595, "best_split": [2, 2], "split_score": 0.2772073921767962}
+{"sent": "hot dog with more red than green", "ann_id": 433, "best_split": [3, 2], "split_score": 0.5549777116795821}
+{"sent": "hot dog closest to box fold", "ann_id": 433, "best_split": [3, 2], "split_score": 0.5549777116795821}
+{"sent": "hotdog less mustard", "ann_id": 433, "best_split": [3, 2], "split_score": 0.5549777116795821}

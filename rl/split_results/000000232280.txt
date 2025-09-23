@@ -1,0 +1,5 @@
+{"sent": "truck window near girls hair and scissors", "ann_id": 352215, "best_split": [1, 3], "split_score": 0.42186845410127066}
+{"sent": "car below scissors", "ann_id": 352215, "best_split": [1, 5], "split_score": 0.5231539423812664}
+{"sent": "car window under scissors", "ann_id": 352215, "best_split": [1, 5], "split_score": 0.5231539423812664}
+{"sent": "car farthest behind", "ann_id": 348114, "best_split": [2, 2], "split_score": 0.6099079072334133}
+{"sent": "car furthest away", "ann_id": 348114, "best_split": [1, 3], "split_score": 0.4980624107435212}

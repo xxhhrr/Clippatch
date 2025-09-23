@@ -1,0 +1,6 @@
+{"sent": "reflection", "ann_id": 52888, "best_split": [1, 2], "split_score": 0.3302714559799057}
+{"sent": "reflection", "ann_id": 52888, "best_split": [1, 2], "split_score": 0.3302714559799057}
+{"sent": "cat in mirror", "ann_id": 52888, "best_split": [1, 3], "split_score": 0.4458866195626128}
+{"sent": "cat not reflection", "ann_id": 51833, "best_split": [1, 3], "split_score": 0.3469206911720071}
+{"sent": "cat not reflection", "ann_id": 51833, "best_split": [1, 3], "split_score": 0.3469206911720071}
+{"sent": "actual cat", "ann_id": 51833, "best_split": [1, 3], "split_score": 0.3469206911720071}

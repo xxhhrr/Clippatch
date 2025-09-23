@@ -1,0 +1,9 @@
+{"sent": "kid looking into camera", "ann_id": 1727432, "best_split": [1, 2], "split_score": 0.8155293367021871}
+{"sent": "kid looking at us", "ann_id": 1727432, "best_split": [1, 2], "split_score": 0.8155293367021871}
+{"sent": "kid looking at you", "ann_id": 1727432, "best_split": [1, 2], "split_score": 0.8155293367021871}
+{"sent": "girl in glasses", "ann_id": 512663, "best_split": [3, 3], "split_score": 0.3645224170947819}
+{"sent": "girl at the party", "ann_id": 512663, "best_split": [3, 3], "split_score": 0.3645224170947819}
+{"sent": "red sleeveless shirt", "ann_id": 512663, "best_split": [3, 3], "split_score": 0.3645224170947819}
+{"sent": "green shirtmt", "ann_id": 508249, "best_split": [1, 3], "split_score": 0.766045548611379}
+{"sent": "boy in green shirt", "ann_id": 508249, "best_split": [1, 3], "split_score": 0.766045548611379}
+{"sent": "green shirt", "ann_id": 508249, "best_split": [1, 3], "split_score": 0.766045548611379}

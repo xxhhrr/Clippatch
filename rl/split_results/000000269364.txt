@@ -1,0 +1,6 @@
+{"sent": "vertical table attached to horizontal table", "ann_id": 2226489, "best_split": [2, 1], "split_score": 0.502232142837124}
+{"sent": "table under green beers", "ann_id": 2226489, "best_split": [2, 1], "split_score": 0.502232142837124}
+{"sent": "table with green bottles no cake", "ann_id": 2226489, "best_split": [2, 1], "split_score": 0.502232142837124}
+{"sent": "cake", "ann_id": 1613959, "best_split": [2, 1], "split_score": 0.6067836507434522}
+{"sent": "brown bottles", "ann_id": 1613959, "best_split": [3, 1], "split_score": 0.4373815099688474}
+{"sent": "dark bear bottle near cake", "ann_id": 1613959, "best_split": [3, 1], "split_score": 0.4373815099688474}

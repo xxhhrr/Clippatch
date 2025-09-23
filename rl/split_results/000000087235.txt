@@ -1,0 +1,4 @@
+{"sent": "bananas at 9 oclock", "ann_id": 1544713, "best_split": [3, 2], "split_score": 0.6111817026128896}
+{"sent": "banana with two stickers", "ann_id": 1543048, "best_split": [1, 5], "split_score": 0.44015177643668923}
+{"sent": "third banana bunch", "ann_id": 1543048, "best_split": [1, 5], "split_score": 0.44015177643668923}
+{"sent": "bananas nearest long red pepper", "ann_id": 1543048, "best_split": [1, 5], "split_score": 0.44015177643668923}

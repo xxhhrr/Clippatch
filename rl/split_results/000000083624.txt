@@ -1,0 +1,6 @@
+{"sent": "gray sweater partial view of person", "ann_id": 252085, "best_split": [1, 2], "split_score": 0.1522640306061757}
+{"sent": "striped shirt face out of frame", "ann_id": 252085, "best_split": [1, 5], "split_score": 0.38758116879184445}
+{"sent": "striped shirt", "ann_id": 252085, "best_split": [1, 5], "split_score": 0.38758116879184445}
+{"sent": "person on bike", "ann_id": 186266, "best_split": [1, 5], "split_score": 0.5830055074170922}
+{"sent": "person on bike", "ann_id": 186266, "best_split": [1, 5], "split_score": 0.5830055074170922}
+{"sent": "man on scooter", "ann_id": 186266, "best_split": [1, 5], "split_score": 0.5830055074170922}

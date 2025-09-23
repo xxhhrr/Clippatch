@@ -1,0 +1,4 @@
+{"sent": "couch away from tree", "ann_id": 1949965, "best_split": [2, 1], "split_score": 0.2932577145169347}
+{"sent": "direct couch with pillows", "ann_id": 291231, "best_split": [3, 1], "split_score": 0.31960419908987875}
+{"sent": "couch facing us", "ann_id": 291231, "best_split": [5, 1], "split_score": 0.29414879532074734}
+{"sent": "loveseat with 4 pillows", "ann_id": 291231, "best_split": [3, 3], "split_score": 0.44357754515284703}

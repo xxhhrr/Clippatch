@@ -1,0 +1,15 @@
+{"sent": "red outfit on horse", "ann_id": 215641, "best_split": [3, 3], "split_score": 0.5444476000362897}
+{"sent": "lady in red", "ann_id": 215641, "best_split": [3, 3], "split_score": 0.5444476000362897}
+{"sent": "red", "ann_id": 215641, "best_split": [3, 3], "split_score": 0.5444476000362897}
+{"sent": "horse ridden by person in white shirt", "ann_id": 60791, "best_split": [2, 2], "split_score": 0.28896831645429405}
+{"sent": "gray horse", "ann_id": 60791, "best_split": [2, 3], "split_score": 0.6289597090028749}
+{"sent": "gray horse", "ann_id": 60791, "best_split": [2, 3], "split_score": 0.6289597090028749}
+{"sent": "woman in blue shirt and white sash", "ann_id": 2153808, "best_split": [3, 2], "split_score": 0.3147901398805138}
+{"sent": "woman in white and blue wearing a sash and on a horse", "ann_id": 2153808, "best_split": [2, 2], "split_score": 0.415136966929177}
+{"sent": "girl in a blue shirt on a horse", "ann_id": 2153808, "best_split": [2, 2], "split_score": 0.415136966929177}
+{"sent": "dark horse", "ann_id": 60684, "best_split": [2, 2], "split_score": 0.6105707907676522}
+{"sent": "horse with blue rider", "ann_id": 60684, "best_split": [2, 2], "split_score": 0.6105707907676522}
+{"sent": "a horse with blue rider", "ann_id": 60684, "best_split": [2, 2], "split_score": 0.6105707907676522}
+{"sent": "horse under red guy", "ann_id": 60018, "best_split": [2, 3], "split_score": 0.5731479316927848}
+{"sent": "horse ridden by man in red", "ann_id": 60018, "best_split": [2, 3], "split_score": 0.5731479316927848}
+{"sent": "horse of man in red", "ann_id": 60018, "best_split": [2, 3], "split_score": 0.5731479316927848}

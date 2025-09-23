@@ -1,0 +1,6 @@
+{"sent": "car behind poles", "ann_id": 353013, "best_split": [3, 2], "split_score": 0.44208779044244856}
+{"sent": "car behind sign", "ann_id": 353013, "best_split": [3, 1], "split_score": 0.40600575892307655}
+{"sent": "car behind lighted sign", "ann_id": 353013, "best_split": [1, 3], "split_score": 0.18293285868768255}
+{"sent": "leading car", "ann_id": 348762, "best_split": [3, 1], "split_score": 0.22489187889086426}
+{"sent": "blue car out of frame", "ann_id": 348762, "best_split": [3, 1], "split_score": 0.22489187889086426}
+{"sent": "blue hatchback", "ann_id": 348762, "best_split": [3, 1], "split_score": 0.22489187889086426}

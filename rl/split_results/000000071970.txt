@@ -1,0 +1,5 @@
+{"sent": "cow standing on the other", "ann_id": 72710, "best_split": [1, 5], "split_score": 0.30434782606141114}
+{"sent": "cow facing us", "ann_id": 72710, "best_split": [1, 5], "split_score": 0.30434782606141114}
+{"sent": "base cow", "ann_id": 71307, "best_split": [2, 3], "split_score": 0.7439926061987069}
+{"sent": "cow on road", "ann_id": 71307, "best_split": [2, 3], "split_score": 0.7439926061987069}
+{"sent": "cow on grownd", "ann_id": 71307, "best_split": [2, 3], "split_score": 0.7439926061987069}

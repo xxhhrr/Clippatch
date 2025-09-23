@@ -1,0 +1,5 @@
+{"sent": "cow completely behind the fence", "ann_id": 1820053, "best_split": [3, 2], "split_score": 0.3157429895875753}
+{"sent": "cow fully blocked by fence", "ann_id": 1820053, "best_split": [3, 2], "split_score": 0.3157429895875753}
+{"sent": "brown cow half clearly seen", "ann_id": 1819915, "best_split": [3, 2], "split_score": 0.41822875738935583}
+{"sent": "brown cow half seen", "ann_id": 1819915, "best_split": [3, 2], "split_score": 0.41822875738935583}
+{"sent": "before the black cow", "ann_id": 1819915, "best_split": [3, 3], "split_score": 0.2298735444810475}

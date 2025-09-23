@@ -1,0 +1,6 @@
+{"sent": "bus not in full view", "ann_id": 165856, "best_split": [3, 1], "split_score": 0.253365226759844}
+{"sent": "bus not fully visible", "ann_id": 165856, "best_split": [3, 1], "split_score": 0.253365226759844}
+{"sent": "farther bus", "ann_id": 165856, "best_split": [3, 1], "split_score": 0.253365226759844}
+{"sent": "bus with black grill", "ann_id": 164564, "best_split": [1, 2], "split_score": 0.5228433498732651}
+{"sent": "the bus farthest away from the grass", "ann_id": 164564, "best_split": [1, 2], "split_score": 0.5228433498732651}
+{"sent": "number 9", "ann_id": 164564, "best_split": [1, 2], "split_score": 0.5228433498732651}

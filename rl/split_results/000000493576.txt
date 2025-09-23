@@ -1,0 +1,5 @@
+{"sent": "white shorts standing", "ann_id": 2204723, "best_split": [2, 3], "split_score": 0.39575971727078624}
+{"sent": "white", "ann_id": 2204723, "best_split": [2, 1], "split_score": 0.026785714284780073}
+{"sent": "boy standing in white", "ann_id": 2204723, "best_split": [1, 5], "split_score": 0.3313343328025361}
+{"sent": "green shirt", "ann_id": 507870, "best_split": [3, 3], "split_score": 0.560421468462229}
+{"sent": "green shirt kneeling", "ann_id": 507870, "best_split": [3, 3], "split_score": 0.560421468462229}

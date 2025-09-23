@@ -1,0 +1,6 @@
+{"sent": "horizontal giraffe", "ann_id": 597033, "best_split": [2, 1], "split_score": 0.6789006905500438}
+{"sent": "giraffe with head in food", "ann_id": 597033, "best_split": [2, 1], "split_score": 0.6789006905500438}
+{"sent": "giraffee leaning down", "ann_id": 597033, "best_split": [2, 1], "split_score": 0.6789006905500438}
+{"sent": "the taller one", "ann_id": 595169, "best_split": [1, 3], "split_score": 0.436803546129508}
+{"sent": "giraffe head up", "ann_id": 595169, "best_split": [1, 3], "split_score": 0.436803546129508}
+{"sent": "zebra with head raised", "ann_id": 595169, "best_split": [1, 3], "split_score": 0.436803546129508}

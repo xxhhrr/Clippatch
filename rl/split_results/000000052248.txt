@@ -1,0 +1,8 @@
+{"sent": "fruit you can only see part of", "ann_id": 1546443, "best_split": [2, 2], "split_score": 0.2152423469216165}
+{"sent": "partially obscured bunch", "ann_id": 1546443, "best_split": [2, 1], "split_score": 0.107621173465098}
+{"sent": "closest bunch of bananas", "ann_id": 1546443, "best_split": [2, 2], "split_score": 0.2152423469216165}
+{"sent": "closest bunch that is fully visible", "ann_id": 1545657, "best_split": [1, 5], "split_score": 0.48406103637376785}
+{"sent": "full view bunch", "ann_id": 1545657, "best_split": [2, 2], "split_score": 0.36232768083674954}
+{"sent": "fullest bunch hanging closest", "ann_id": 1545657, "best_split": [1, 3], "split_score": 0.3093961064605981}
+{"sent": "bananas with brown thing over it", "ann_id": 1544415, "best_split": [3, 3], "split_score": 0.3263157894272666}
+{"sent": "bunch of banannas with brown thing next to white the bananas", "ann_id": 1544415, "best_split": [2, 3], "split_score": 0.31199999996627026}

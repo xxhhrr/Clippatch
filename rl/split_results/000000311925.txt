@@ -1,0 +1,6 @@
+{"sent": "car where you can see plymouth", "ann_id": 136965, "best_split": [3, 3], "split_score": 0.5648345783664842}
+{"sent": "black car facing bike", "ann_id": 136965, "best_split": [3, 3], "split_score": 0.5648345783664842}
+{"sent": "plymouth", "ann_id": 136965, "best_split": [3, 2], "split_score": 0.42081094280207026}
+{"sent": "yellow car in back", "ann_id": 134953, "best_split": [3, 2], "split_score": 0.7065637064784551}
+{"sent": "fire car", "ann_id": 134953, "best_split": [3, 2], "split_score": 0.7065637064784551}
+{"sent": "red flame car", "ann_id": 134953, "best_split": [3, 2], "split_score": 0.7065637064784551}

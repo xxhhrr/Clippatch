@@ -1,0 +1,4 @@
+{"sent": "squeezed orange", "ann_id": 1966086, "best_split": [3, 1], "split_score": 0.4603040540262847}
+{"sent": "orange rind already squeezed", "ann_id": 1966086, "best_split": [3, 1], "split_score": 0.4603040540262847}
+{"sent": "table where cup is", "ann_id": 1959351, "best_split": [2, 1], "split_score": 0.7313651335631522}
+{"sent": "big picture", "ann_id": 1959351, "best_split": [1, 2], "split_score": 0.3870211102329207}

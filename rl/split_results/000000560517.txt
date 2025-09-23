@@ -1,0 +1,6 @@
+{"sent": "green food", "ann_id": 2108085, "best_split": [1, 3], "split_score": 0.4705452419064996}
+{"sent": "green", "ann_id": 2108085, "best_split": [1, 3], "split_score": 0.4705452419064996}
+{"sent": "dish with green veggies", "ann_id": 2108085, "best_split": [1, 3], "split_score": 0.4705452419064996}
+{"sent": "wood bowl", "ann_id": 1038748, "best_split": [1, 3], "split_score": 0.6903141048196396}
+{"sent": "nnizhigu", "ann_id": 1038748, "best_split": [1, 3], "split_score": 0.6903141048196396}
+{"sent": "dumpling holder on edge of picture", "ann_id": 1038748, "best_split": [1, 3], "split_score": 0.6903141048196396}

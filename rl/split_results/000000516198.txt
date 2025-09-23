@@ -1,0 +1,8 @@
+{"sent": "purple jacket", "ann_id": 509378, "best_split": [1, 5], "split_score": 0.4720982142378147}
+{"sent": "pink jacket", "ann_id": 509378, "best_split": [1, 5], "split_score": 0.4720982142378147}
+{"sent": "pink", "ann_id": 509378, "best_split": [3, 2], "split_score": 0.23259358031883096}
+{"sent": "tallest skier", "ann_id": 477664, "best_split": [1, 5], "split_score": 0.43283279216387655}
+{"sent": "tallest skiier", "ann_id": 477664, "best_split": [1, 5], "split_score": 0.43283279216387655}
+{"sent": "female not wearing purple", "ann_id": 435447, "best_split": [3, 1], "split_score": 0.14503816793145047}
+{"sent": "girl wearing black", "ann_id": 435447, "best_split": [1, 5], "split_score": 0.5706168830589877}
+{"sent": "person at 9 o clock", "ann_id": 435447, "best_split": [1, 2], "split_score": 0.22417091835841155}

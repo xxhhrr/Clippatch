@@ -1,0 +1,11 @@
+{"sent": "sandwitch both", "ann_id": 2132389, "best_split": [2, 1], "split_score": 0.5281115691490196}
+{"sent": "sandwich", "ann_id": 2132389, "best_split": [2, 1], "split_score": 0.5281115691490196}
+{"sent": "receipt on table", "ann_id": 2132389, "best_split": [1, 2], "split_score": 0.47369311452221086}
+{"sent": "the table that is behind fork and beside white jar", "ann_id": 393553, "best_split": [3, 1], "split_score": 0.8325289574787326}
+{"sent": "table surface closest to the salt shaker", "ann_id": 393553, "best_split": [3, 1], "split_score": 0.8325289574787326}
+{"sent": "table in the back", "ann_id": 393553, "best_split": [3, 1], "split_score": 0.8325289574787326}
+{"sent": "sandwhich under green white red flag", "ann_id": 310562, "best_split": [3, 2], "split_score": 0.40902436920614615}
+{"sent": "italian sandwich", "ann_id": 310562, "best_split": [3, 2], "split_score": 0.40902436920614615}
+{"sent": "sandwich with blue white and red flag in it", "ann_id": 308468, "best_split": [2, 1], "split_score": 0.5238023500857261}
+{"sent": "sandwich with french and german flag", "ann_id": 308468, "best_split": [2, 1], "split_score": 0.5238023500857261}
+{"sent": "sandwich with german flag", "ann_id": 308468, "best_split": [2, 1], "split_score": 0.5238023500857261}

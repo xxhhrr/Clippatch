@@ -1,0 +1,10 @@
+{"sent": "banana number 2", "ann_id": 1046193, "best_split": [3, 2], "split_score": 0.24999999997230837}
+{"sent": "not the beginning but the next hanging group", "ann_id": 1046193, "best_split": [3, 3], "split_score": 0.24128332841469624}
+{"sent": "banana bunch closest to table but not on table", "ann_id": 1045596, "best_split": [3, 2], "split_score": 0.29339207045226956}
+{"sent": "bannana hanging closest to table", "ann_id": 1045596, "best_split": [3, 2], "split_score": 0.29339207045226956}
+{"sent": "banana bundle hanging next to table", "ann_id": 1045596, "best_split": [3, 2], "split_score": 0.29339207045226956}
+{"sent": "bunch of bananas with the thickest stem", "ann_id": 1045106, "best_split": [1, 5], "split_score": 0.47142717588439703}
+{"sent": "banana stack no 3", "ann_id": 1045106, "best_split": [1, 5], "split_score": 0.47142717588439703}
+{"sent": "last banana bunch", "ann_id": 1904867, "best_split": [3, 1], "split_score": 0.1454399816829477}
+{"sent": "banana cluster next to frame", "ann_id": 1904867, "best_split": [3, 1], "split_score": 0.1454399816829477}
+{"sent": "bunch closest to 3pm", "ann_id": 1904867, "best_split": [5, 1], "split_score": 0.15692414751592518}

@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 1255148, "best_split": [1, 2], "split_score": 0.4767164994544394}
+{"sent": "glasses guy", "ann_id": 1255148, "best_split": [1, 2], "split_score": 0.4767164994544394}
+{"sent": "man", "ann_id": 1255148, "best_split": [1, 2], "split_score": 0.4767164994544394}
+{"sent": "girl with sunglasses", "ann_id": 423790, "best_split": [1, 2], "split_score": 0.7361288265012703}
+{"sent": "woman with hand in the air", "ann_id": 423790, "best_split": [1, 2], "split_score": 0.7361288265012703}
+{"sent": "woman holding kite", "ann_id": 423790, "best_split": [1, 2], "split_score": 0.7361288265012703}

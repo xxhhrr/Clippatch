@@ -1,0 +1,5 @@
+{"sent": "elbow and stripy shirt", "ann_id": 1712463, "best_split": [5, 1], "split_score": 0.20097653172145405}
+{"sent": "arm of kid in striped shirt", "ann_id": 1712463, "best_split": [5, 1], "split_score": 0.20097653172145405}
+{"sent": "man next to kid", "ann_id": 440218, "best_split": [2, 3], "split_score": 0.39702233245929075}
+{"sent": "arm near boy with pizza", "ann_id": 440218, "best_split": [2, 2], "split_score": 0.2641717115917783}
+{"sent": "part of a mans arm", "ann_id": 440218, "best_split": [2, 2], "split_score": 0.2641717115917783}

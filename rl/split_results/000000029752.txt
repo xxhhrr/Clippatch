@@ -1,0 +1,6 @@
+{"sent": "standing", "ann_id": 462801, "best_split": [1, 3], "split_score": 0.5262278649932591}
+{"sent": "girl standing", "ann_id": 462801, "best_split": [1, 3], "split_score": 0.5262278649932591}
+{"sent": "the player that is standing up", "ann_id": 462801, "best_split": [1, 3], "split_score": 0.5262278649932591}
+{"sent": "the girl jumping for ball", "ann_id": 460555, "best_split": [1, 2], "split_score": 0.42252877762279895}
+{"sent": "the girl not holding their crotch", "ann_id": 460555, "best_split": [3, 1], "split_score": 0.5040355919325944}
+{"sent": "man falling", "ann_id": 460555, "best_split": [1, 2], "split_score": 0.42252877762279895}

@@ -1,0 +1,5 @@
+{"sent": "bike to curb", "ann_id": 153703, "best_split": [3, 3], "split_score": 0.5840802674803905}
+{"sent": "cop bike closest to crowd", "ann_id": 153703, "best_split": [3, 3], "split_score": 0.5840802674803905}
+{"sent": "bike in lead closer to yellow line", "ann_id": 151303, "best_split": [1, 5], "split_score": 0.4014296463128828}
+{"sent": "motorcycle in lead nearest yellow line", "ann_id": 151303, "best_split": [1, 5], "split_score": 0.4014296463128828}
+{"sent": "white bike near lines", "ann_id": 151303, "best_split": [1, 5], "split_score": 0.4014296463128828}

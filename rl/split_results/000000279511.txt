@@ -1,0 +1,6 @@
+{"sent": "giraffe behind the giraffe", "ann_id": 596548, "best_split": [1, 2], "split_score": 0.3839898448814316}
+{"sent": "blocked one", "ann_id": 596548, "best_split": [2, 1], "split_score": 0.1556092875308665}
+{"sent": "farther giraffe", "ann_id": 596548, "best_split": [1, 2], "split_score": 0.3839898448814316}
+{"sent": "giraffe closest to you", "ann_id": 595126, "best_split": [1, 2], "split_score": 0.5496357835004023}
+{"sent": "giraffe you can see the most of", "ann_id": 595126, "best_split": [1, 2], "split_score": 0.5496357835004023}
+{"sent": "giraffe that looks largest", "ann_id": 595126, "best_split": [1, 2], "split_score": 0.5496357835004023}

@@ -1,0 +1,8 @@
+{"sent": "bike seat with red", "ann_id": 154185, "best_split": [2, 2], "split_score": 0.5473086355655539}
+{"sent": "red bike with helmet on back", "ann_id": 154185, "best_split": [1, 2], "split_score": 0.385461719387455}
+{"sent": "tan seat", "ann_id": 153333, "best_split": [2, 3], "split_score": 0.634285714232413}
+{"sent": "brown seat", "ann_id": 153333, "best_split": [2, 3], "split_score": 0.634285714232413}
+{"sent": "tan seat", "ann_id": 153333, "best_split": [2, 3], "split_score": 0.634285714232413}
+{"sent": "closest scooter", "ann_id": 151501, "best_split": [2, 1], "split_score": 0.6952327805845331}
+{"sent": "bike closest to us", "ann_id": 151501, "best_split": [2, 1], "split_score": 0.6952327805845331}
+{"sent": "black bike nearest you", "ann_id": 151501, "best_split": [2, 1], "split_score": 0.6952327805845331}

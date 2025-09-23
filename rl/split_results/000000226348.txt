@@ -1,0 +1,9 @@
+{"sent": "lady with glasses", "ann_id": 2205678, "best_split": [1, 2], "split_score": 0.8983702279870516}
+{"sent": "mom", "ann_id": 2205678, "best_split": [1, 2], "split_score": 0.8983702279870516}
+{"sent": "red hair woman", "ann_id": 2205678, "best_split": [1, 2], "split_score": 0.8983702279870516}
+{"sent": "woman in black", "ann_id": 2151239, "best_split": [1, 2], "split_score": 0.6515337423055003}
+{"sent": "brunette in black", "ann_id": 2151239, "best_split": [1, 2], "split_score": 0.6515337423055003}
+{"sent": "woman in black", "ann_id": 2151239, "best_split": [1, 2], "split_score": 0.6515337423055003}
+{"sent": "maroon shirt not visible person", "ann_id": 1750656, "best_split": [1, 5], "split_score": 0.5116680194286051}
+{"sent": "red sleeve", "ann_id": 1750656, "best_split": [2, 3], "split_score": 0.5042879710557111}
+{"sent": "marrron off to side", "ann_id": 1750656, "best_split": [2, 1], "split_score": 0.01942010352811787}

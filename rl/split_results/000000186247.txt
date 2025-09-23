@@ -1,0 +1,4 @@
+{"sent": "the part of the bread away from toothpick", "ann_id": 310746, "best_split": [3, 2], "split_score": 0.4335394126260168}
+{"sent": "with toothpick", "ann_id": 309681, "best_split": [2, 1], "split_score": 0.6972446440281227}
+{"sent": "bread with stick in it", "ann_id": 309681, "best_split": [2, 1], "split_score": 0.6972446440281227}
+{"sent": "sandwich on plate", "ann_id": 309681, "best_split": [2, 1], "split_score": 0.6972446440281227}

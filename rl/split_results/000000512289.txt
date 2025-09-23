@@ -1,0 +1,5 @@
+{"sent": "giraffe with no legs", "ann_id": 1823179, "best_split": [1, 3], "split_score": 0.504344228356209}
+{"sent": "ri ght giraffe", "ann_id": 1823179, "best_split": [1, 3], "split_score": 0.504344228356209}
+{"sent": "closer giraffe", "ann_id": 596283, "best_split": [1, 5], "split_score": 0.6222520106821546}
+{"sent": "tall animal in africa", "ann_id": 596283, "best_split": [1, 5], "split_score": 0.6222520106821546}
+{"sent": "closest giraff", "ann_id": 596283, "best_split": [1, 5], "split_score": 0.6222520106821546}

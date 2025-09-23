@@ -1,0 +1,6 @@
+{"sent": "red jersey", "ann_id": 494919, "best_split": [3, 2], "split_score": 0.5770516152453535}
+{"sent": "red", "ann_id": 494919, "best_split": [3, 2], "split_score": 0.5770516152453535}
+{"sent": "red", "ann_id": 494919, "best_split": [3, 2], "split_score": 0.5770516152453535}
+{"sent": "white shirt kicker", "ann_id": 432371, "best_split": [3, 2], "split_score": 0.5610534716120258}
+{"sent": "all white leg kicking to kid in red", "ann_id": 432371, "best_split": [3, 2], "split_score": 0.5610534716120258}
+{"sent": "white shirt nearest guy in red", "ann_id": 432371, "best_split": [3, 1], "split_score": 0.32859680282367915}

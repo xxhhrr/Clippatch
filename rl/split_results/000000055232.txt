@@ -1,0 +1,5 @@
+{"sent": "the umbrella over the man wearing glasses on his head", "ann_id": 1831022, "best_split": [3, 2], "split_score": 0.8122586871606831}
+{"sent": "umbrella behind beardless guy", "ann_id": 1830563, "best_split": [5, 1], "split_score": 0.5761260822476771}
+{"sent": "closest umbrella", "ann_id": 282271, "best_split": [3, 1], "split_score": 0.6088320462953166}
+{"sent": "most visible umbrella", "ann_id": 282271, "best_split": [3, 1], "split_score": 0.6088320462953166}
+{"sent": "the umbrella hovering everyone", "ann_id": 282271, "best_split": [3, 1], "split_score": 0.6088320462953166}

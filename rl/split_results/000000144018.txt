@@ -1,0 +1,4 @@
+{"sent": "raft near lady with pink bag but not the closest", "ann_id": 1803962, "best_split": [2, 2], "split_score": 0.4078431372263415}
+{"sent": "wooden thing with orange flag closer to woman in white", "ann_id": 1803477, "best_split": [3, 2], "split_score": 0.3674347451603944}
+{"sent": "closest boat to us", "ann_id": 1803477, "best_split": [2, 3], "split_score": 0.43565549082155636}
+{"sent": "closest red thing", "ann_id": 1803477, "best_split": [1, 2], "split_score": 0.072704697521118}

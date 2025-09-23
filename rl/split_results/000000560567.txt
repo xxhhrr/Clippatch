@@ -1,0 +1,6 @@
+{"sent": "adult", "ann_id": 2153181, "best_split": [1, 2], "split_score": 0.4707348359732184}
+{"sent": "mom", "ann_id": 2153181, "best_split": [1, 2], "split_score": 0.4707348359732184}
+{"sent": "the woman", "ann_id": 2153181, "best_split": [1, 2], "split_score": 0.4707348359732184}
+{"sent": "child", "ann_id": 2151906, "best_split": [3, 2], "split_score": 0.30063416564599343}
+{"sent": "little boy in yellow", "ann_id": 2151906, "best_split": [3, 2], "split_score": 0.30063416564599343}
+{"sent": "yellow", "ann_id": 2151906, "best_split": [3, 2], "split_score": 0.30063416564599343}

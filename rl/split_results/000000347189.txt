@@ -1,0 +1,18 @@
+{"sent": "pizza with olives", "ann_id": 1074684, "best_split": [3, 2], "split_score": 0.5658664514256742}
+{"sent": "bigger pie", "ann_id": 1074684, "best_split": [3, 2], "split_score": 0.5658664514256742}
+{"sent": "pizza with meat and no leafs", "ann_id": 1074684, "best_split": [3, 2], "split_score": 0.5658664514256742}
+{"sent": "woman eating pizza", "ann_id": 455493, "best_split": [1, 3], "split_score": 0.26799588899206594}
+{"sent": "woman wglasses", "ann_id": 455493, "best_split": [2, 2], "split_score": 0.7298064515658189}
+{"sent": "woman", "ann_id": 455493, "best_split": [2, 2], "split_score": 0.7298064515658189}
+{"sent": "chair of person looking away in white shirt", "ann_id": 379747, "best_split": [2, 3], "split_score": 0.28474903471467794}
+{"sent": "chair of white shirt", "ann_id": 379747, "best_split": [2, 3], "split_score": 0.28474903471467794}
+{"sent": "chair behind white shirt", "ann_id": 379747, "best_split": [2, 3], "split_score": 0.28474903471467794}
+{"sent": "white shirt", "ann_id": 1729427, "best_split": [2, 3], "split_score": 0.5260617759983033}
+{"sent": "white shirt", "ann_id": 1729427, "best_split": [2, 3], "split_score": 0.5260617759983033}
+{"sent": "white shirt", "ann_id": 1729427, "best_split": [2, 3], "split_score": 0.5260617759983033}
+{"sent": "pizza with green stuff", "ann_id": 1076889, "best_split": [2, 3], "split_score": 0.3062258686889206}
+{"sent": "pizza woman eating", "ann_id": 1076889, "best_split": [2, 3], "split_score": 0.3062258686889206}
+{"sent": "pizza nearest woman", "ann_id": 1076889, "best_split": [2, 3], "split_score": 0.3062258686889206}
+{"sent": "black empty seat", "ann_id": 376522, "best_split": [2, 3], "split_score": 0.38441119686481523}
+{"sent": "empty chair by her", "ann_id": 376522, "best_split": [2, 3], "split_score": 0.38441119686481523}
+{"sent": "empty chair", "ann_id": 376522, "best_split": [5, 1], "split_score": 0.1694763271010154}

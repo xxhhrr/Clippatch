@@ -1,0 +1,6 @@
+{"sent": "food closest to us", "ann_id": 1074428, "best_split": [1, 2], "split_score": 0.27718960538146087}
+{"sent": "closest pizza", "ann_id": 1074428, "best_split": [1, 2], "split_score": 0.27718960538146087}
+{"sent": "closest pie", "ann_id": 1074428, "best_split": [2, 1], "split_score": 0.6926020407887196}
+{"sent": "pizza surrounded by napkins", "ann_id": 1072686, "best_split": [2, 2], "split_score": 0.31903698977048495}
+{"sent": "pizza closer to bottle near 3pm", "ann_id": 1072686, "best_split": [2, 2], "split_score": 0.31903698977048495}
+{"sent": "pizza at 3pm", "ann_id": 1072686, "best_split": [2, 2], "split_score": 0.31903698977048495}

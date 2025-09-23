@@ -1,0 +1,11 @@
+{"sent": "red shirt", "ann_id": 206026, "best_split": [1, 3], "split_score": 0.6233108107732076}
+{"sent": "man", "ann_id": 206026, "best_split": [1, 3], "split_score": 0.6233108107732076}
+{"sent": "red", "ann_id": 206026, "best_split": [1, 3], "split_score": 0.6233108107732076}
+{"sent": "yellow shirt", "ann_id": 199372, "best_split": [1, 2], "split_score": 0.5112005739592155}
+{"sent": "orange shirt", "ann_id": 199372, "best_split": [1, 5], "split_score": 0.49640430161005444}
+{"sent": "more white horse", "ann_id": 56636, "best_split": [2, 3], "split_score": 0.4779980177920715}
+{"sent": "horse man in red is on", "ann_id": 56636, "best_split": [2, 3], "split_score": 0.4779980177920715}
+{"sent": "horse with the man in the red", "ann_id": 56636, "best_split": [2, 3], "split_score": 0.4779980177920715}
+{"sent": "horse with orange rider", "ann_id": 55979, "best_split": [1, 5], "split_score": 0.5194305501616554}
+{"sent": "horse with girl riding it", "ann_id": 55979, "best_split": [1, 5], "split_score": 0.5194305501616554}
+{"sent": "horse with orange shirt woman", "ann_id": 55979, "best_split": [1, 5], "split_score": 0.5194305501616554}

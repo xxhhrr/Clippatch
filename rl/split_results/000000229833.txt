@@ -1,0 +1,6 @@
+{"sent": "man on laptop", "ann_id": 511694, "best_split": [2, 3], "split_score": 0.5839291430387441}
+{"sent": "guy", "ann_id": 511694, "best_split": [2, 1], "split_score": 0.2090863933281462}
+{"sent": "the guy at the computer", "ann_id": 511694, "best_split": [2, 3], "split_score": 0.5839291430387441}
+{"sent": "hand holding phone", "ann_id": 2161792, "best_split": [3, 3], "split_score": 0.6822429905644013}
+{"sent": "hand holding phone", "ann_id": 2161792, "best_split": [3, 3], "split_score": 0.6822429905644013}
+{"sent": "hand", "ann_id": 2161792, "best_split": [3, 3], "split_score": 0.6822429905644013}

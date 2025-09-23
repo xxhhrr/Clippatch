@@ -1,0 +1,9 @@
+{"sent": "rear leg", "ann_id": 1820990, "best_split": [5, 1], "split_score": 0.10094936708062109}
+{"sent": "only back legs", "ann_id": 1820990, "best_split": [2, 2], "split_score": 0.12143725515862236}
+{"sent": "leg of elephant you cant see", "ann_id": 1820990, "best_split": [2, 1], "split_score": 0.0841330060223115}
+{"sent": "trunk touching leg", "ann_id": 584209, "best_split": [2, 1], "split_score": 0.24962598845145098}
+{"sent": "no tusks elephant", "ann_id": 584209, "best_split": [2, 1], "split_score": 0.24962598845145098}
+{"sent": "elephant next to big nostril elephant", "ann_id": 584209, "best_split": [1, 5], "split_score": 0.5912440398420185}
+{"sent": "white tusks", "ann_id": 584129, "best_split": [1, 2], "split_score": 0.6748131836152191}
+{"sent": "elephant with the turks", "ann_id": 584129, "best_split": [1, 2], "split_score": 0.6748131836152191}
+{"sent": "the one with closest truck", "ann_id": 584129, "best_split": [1, 2], "split_score": 0.6748131836152191}

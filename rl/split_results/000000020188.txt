@@ -1,0 +1,6 @@
+{"sent": "person in background partially visible", "ann_id": 2161230, "best_split": [2, 3], "split_score": 0.6913580246151501}
+{"sent": "person cutoff", "ann_id": 2161230, "best_split": [2, 2], "split_score": 0.4705882352588094}
+{"sent": "man standing", "ann_id": 2161230, "best_split": [1, 2], "split_score": 0.28124999998878947}
+{"sent": "sitting", "ann_id": 426803, "best_split": [1, 2], "split_score": 0.4424770557049579}
+{"sent": "dude", "ann_id": 426803, "best_split": [1, 2], "split_score": 0.4424770557049579}
+{"sent": "guy", "ann_id": 426803, "best_split": [2, 1], "split_score": 0.5153876119858933}

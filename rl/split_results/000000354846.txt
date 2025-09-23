@@ -1,0 +1,6 @@
+{"sent": "guy closest sevens in our corner", "ann_id": 1744603, "best_split": [1, 3], "split_score": 0.41988416985883903}
+{"sent": "guy with elbow facing us", "ann_id": 1744603, "best_split": [1, 5], "split_score": 0.6203507418943581}
+{"sent": "man closest to the camera", "ann_id": 1744603, "best_split": [1, 5], "split_score": 0.6203507418943581}
+{"sent": "person above sevens", "ann_id": 1742174, "best_split": [2, 3], "split_score": 0.1439100792202036}
+{"sent": "person in white shirt and shorts holding racket next to calf of leg", "ann_id": 1742174, "best_split": [3, 2], "split_score": 0.23566878978546288}
+{"sent": "guy in white shorts next to the pointing guy", "ann_id": 1742174, "best_split": [3, 2], "split_score": 0.23566878978546288}

@@ -1,0 +1,9 @@
+{"sent": "leg only", "ann_id": 1206484, "best_split": [2, 3], "split_score": 0.8298735384359492}
+{"sent": "big feet on a snowboard", "ann_id": 1206484, "best_split": [2, 3], "split_score": 0.8298735384359492}
+{"sent": "feet attached to board person not visible", "ann_id": 1206484, "best_split": [2, 3], "split_score": 0.8298735384359492}
+{"sent": "person in black more in shadow but you can see the whole person", "ann_id": 1201562, "best_split": [3, 2], "split_score": 0.5713585570896531}
+{"sent": "black outfit sitting in snow", "ann_id": 1201562, "best_split": [3, 2], "split_score": 0.5713585570896531}
+{"sent": "sitting woman", "ann_id": 1201562, "best_split": [3, 1], "split_score": 0.31525148727337743}
+{"sent": "green jacket", "ann_id": 528307, "best_split": [1, 5], "split_score": 0.27795337808396353}
+{"sent": "man with green jacket", "ann_id": 528307, "best_split": [1, 5], "split_score": 0.27795337808396353}
+{"sent": "gray jacket", "ann_id": 528307, "best_split": [1, 5], "split_score": 0.27795337808396353}

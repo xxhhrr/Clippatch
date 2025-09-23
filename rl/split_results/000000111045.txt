@@ -1,0 +1,6 @@
+{"sent": "guy kneeling", "ann_id": 513792, "best_split": [3, 3], "split_score": 0.26609898878843813}
+{"sent": "player on ground", "ann_id": 513792, "best_split": [3, 3], "split_score": 0.26609898878843813}
+{"sent": "man on knees", "ann_id": 513792, "best_split": [2, 3], "split_score": 0.3870387038268408}
+{"sent": "man standing", "ann_id": 482960, "best_split": [1, 5], "split_score": 0.43645302253856033}
+{"sent": "thrower", "ann_id": 482960, "best_split": [1, 5], "split_score": 0.43645302253856033}
+{"sent": "guy throwing ball", "ann_id": 482960, "best_split": [1, 5], "split_score": 0.43645302253856033}

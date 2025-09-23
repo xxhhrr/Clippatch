@@ -1,0 +1,6 @@
+{"sent": "boy in dark shirt", "ann_id": 481251, "best_split": [1, 2], "split_score": 0.8168447066000939}
+{"sent": "boy in blue", "ann_id": 481251, "best_split": [1, 2], "split_score": 0.8168447066000939}
+{"sent": "black shirt", "ann_id": 481251, "best_split": [1, 2], "split_score": 0.8168447066000939}
+{"sent": "sleeveless shirt", "ann_id": 460547, "best_split": [1, 3], "split_score": 0.44082654976358693}
+{"sent": "the woman in the light sleeveless shirt", "ann_id": 460547, "best_split": [1, 2], "split_score": 0.5280474649228679}
+{"sent": "woman in light blue", "ann_id": 460547, "best_split": [1, 2], "split_score": 0.5280474649228679}

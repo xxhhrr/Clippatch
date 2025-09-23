@@ -1,0 +1,6 @@
+{"sent": "black and white dog", "ann_id": 11255, "best_split": [3, 3], "split_score": 0.5997809418839232}
+{"sent": "white and black dog", "ann_id": 11255, "best_split": [3, 3], "split_score": 0.5997809418839232}
+{"sent": "white and black dog", "ann_id": 11255, "best_split": [3, 3], "split_score": 0.5997809418839232}
+{"sent": "closest animal", "ann_id": 11243, "best_split": [3, 1], "split_score": 0.3749025720783855}
+{"sent": "dark dog", "ann_id": 11243, "best_split": [3, 3], "split_score": 0.46084285954096205}
+{"sent": "brown dog on edge of truck", "ann_id": 11243, "best_split": [2, 1], "split_score": 0.1765308736812538}

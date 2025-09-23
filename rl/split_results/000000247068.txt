@@ -1,0 +1,9 @@
+{"sent": "blue chair", "ann_id": 2224905, "best_split": [2, 1], "split_score": 0.6592318859489497}
+{"sent": "blue chair chidren are on", "ann_id": 2224905, "best_split": [2, 1], "split_score": 0.6592318859489497}
+{"sent": "chair kids are sitting on", "ann_id": 2224905, "best_split": [2, 1], "split_score": 0.6592318859489497}
+{"sent": "ladybug", "ann_id": 477701, "best_split": [1, 2], "split_score": 0.591916454058039}
+{"sent": "girl in ladygub", "ann_id": 477701, "best_split": [1, 2], "split_score": 0.591916454058039}
+{"sent": "ladybug", "ann_id": 477701, "best_split": [1, 2], "split_score": 0.591916454058039}
+{"sent": "girl in yellow", "ann_id": 474385, "best_split": [1, 5], "split_score": 0.6298498122160631}
+{"sent": "baby in yellow", "ann_id": 474385, "best_split": [1, 5], "split_score": 0.6298498122160631}
+{"sent": "in yellow", "ann_id": 474385, "best_split": [1, 5], "split_score": 0.6298498122160631}

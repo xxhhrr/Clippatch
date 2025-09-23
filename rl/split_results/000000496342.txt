@@ -1,0 +1,5 @@
+{"sent": "vehicle between truck and building", "ann_id": 399148, "best_split": [2, 3], "split_score": 0.4340093264901844}
+{"sent": "darker vehicle", "ann_id": 399148, "best_split": [2, 3], "split_score": 0.4340093264901844}
+{"sent": "british road service truck in the dark", "ann_id": 399148, "best_split": [2, 3], "split_score": 0.4340093264901844}
+{"sent": "the car near the people", "ann_id": 394339, "best_split": [2, 2], "split_score": 0.51198193601049}
+{"sent": "nearest vehicle", "ann_id": 394339, "best_split": [2, 2], "split_score": 0.51198193601049}

@@ -1,0 +1,10 @@
+{"sent": "the green chair with the man sitting cross legged", "ann_id": 1941490, "best_split": [3, 3], "split_score": 0.5660432071094615}
+{"sent": "couch closest to wall not the guy", "ann_id": 1941490, "best_split": [3, 3], "split_score": 0.5660432071094615}
+{"sent": "chair that the guy against the wall is sitting in", "ann_id": 1941490, "best_split": [3, 3], "split_score": 0.5660432071094615}
+{"sent": "chair under man in black shirt", "ann_id": 1932144, "best_split": [2, 1], "split_score": 0.29655612243715895}
+{"sent": "chair the man wearing black jersey is sitting on", "ann_id": 1932144, "best_split": [2, 3], "split_score": 0.7779787473685306}
+{"sent": "chair that the guy in dark blue is sittin on", "ann_id": 1932144, "best_split": [2, 2], "split_score": 0.5931122448506766}
+{"sent": "couch with two guys", "ann_id": 111745, "best_split": [3, 1], "split_score": 0.34059633025569974}
+{"sent": "empty couch space on couch with two guys", "ann_id": 111745, "best_split": [3, 1], "split_score": 0.34059633025569974}
+{"sent": "couch by railing", "ann_id": 111745, "best_split": [3, 1], "split_score": 0.34059633025569974}
+{"sent": "big couch not yhe people on it", "ann_id": 111745, "best_split": [3, 1], "split_score": 0.34059633025569974}

@@ -1,0 +1,5 @@
+{"sent": "shorter gray one", "ann_id": 1952114, "best_split": [5, 1], "split_score": 0.14759157385297253}
+{"sent": "a staff at 9 ocklock", "ann_id": 1952114, "best_split": [3, 1], "split_score": 0.18384179667177572}
+{"sent": "inbetween vase", "ann_id": 26814, "best_split": [1, 3], "split_score": 0.41765202700183085}
+{"sent": "tallest vase", "ann_id": 26814, "best_split": [1, 3], "split_score": 0.41765202700183085}
+{"sent": "vase on line on floor", "ann_id": 26814, "best_split": [1, 3], "split_score": 0.41765202700183085}

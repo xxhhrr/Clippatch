@@ -1,0 +1,6 @@
+{"sent": "guirl with curly hair", "ann_id": 512780, "best_split": [1, 2], "split_score": 0.7209515095830299}
+{"sent": "women with the green and white toothbrush", "ann_id": 512780, "best_split": [2, 1], "split_score": 0.40793413172562193}
+{"sent": "green tb", "ann_id": 512780, "best_split": [2, 1], "split_score": 0.40793413172562193}
+{"sent": "pink toothbrush", "ann_id": 490448, "best_split": [1, 2], "split_score": 0.7638023782289142}
+{"sent": "girl with pink toothbrush", "ann_id": 490448, "best_split": [1, 2], "split_score": 0.7638023782289142}
+{"sent": "pink brush", "ann_id": 490448, "best_split": [1, 2], "split_score": 0.7638023782289142}

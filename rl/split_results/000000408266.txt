@@ -1,0 +1,13 @@
+{"sent": "sunglasses guy", "ann_id": 567504, "best_split": [2, 1], "split_score": 0.25817664716945105}
+{"sent": "man with sunglasses on his head", "ann_id": 567504, "best_split": [2, 1], "split_score": 0.25817664716945105}
+{"sent": "guy with glasses", "ann_id": 567504, "best_split": [2, 1], "split_score": 0.25817664716945105}
+{"sent": "man with no sunglasses", "ann_id": 523456, "best_split": [2, 1], "split_score": 0.447475472585804}
+{"sent": "fat man", "ann_id": 523456, "best_split": [3, 1], "split_score": 0.3454899777145446}
+{"sent": "kid", "ann_id": 520906, "best_split": [1, 3], "split_score": 0.4962326702646085}
+{"sent": "boy", "ann_id": 520906, "best_split": [1, 3], "split_score": 0.4962326702646085}
+{"sent": "kick closest to us", "ann_id": 520906, "best_split": [1, 3], "split_score": 0.4962326702646085}
+{"sent": "table with a boy", "ann_id": 1959062, "best_split": [3, 1], "split_score": 0.27876659323300396}
+{"sent": "table under kid", "ann_id": 1959062, "best_split": [3, 1], "split_score": 0.27876659323300396}
+{"sent": "table under boys hand", "ann_id": 1959062, "best_split": [3, 1], "split_score": 0.27876659323300396}
+{"sent": "can in hand", "ann_id": 1621530, "best_split": [2, 1], "split_score": 0.29073163232820737}
+{"sent": "table under dark haired guy with bear can behind boy", "ann_id": 1621530, "best_split": [2, 1], "split_score": 0.29073163232820737}

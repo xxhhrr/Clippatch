@@ -1,0 +1,4 @@
+{"sent": "pie no candle", "ann_id": 2189482, "best_split": [3, 3], "split_score": 0.2673369424764969}
+{"sent": "dotted slice", "ann_id": 2189482, "best_split": [3, 2], "split_score": 0.46716175441318614}
+{"sent": "has candle", "ann_id": 1086177, "best_split": [1, 5], "split_score": 0.16975748928586326}
+{"sent": "cake with candle", "ann_id": 1086177, "best_split": [3, 2], "split_score": 0.3857965450592854}

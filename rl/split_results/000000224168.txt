@@ -1,0 +1,5 @@
+{"sent": "chair next to table behind cats head", "ann_id": 2192275, "best_split": [2, 2], "split_score": 0.3144132652810576}
+{"sent": "chair with stuff on it", "ann_id": 2192275, "best_split": [2, 3], "split_score": 0.4069473199439904}
+{"sent": "chair with colorful purse in it", "ann_id": 2192275, "best_split": [3, 1], "split_score": 0.074795725954599}
+{"sent": "light color chair", "ann_id": 1935400, "best_split": [3, 2], "split_score": 0.44923534404744736}
+{"sent": "chair back rest behind cat", "ann_id": 1935400, "best_split": [3, 2], "split_score": 0.44923534404744736}

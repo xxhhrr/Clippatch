@@ -1,0 +1,8 @@
+{"sent": "the bike not behind the green wheel but the next one", "ann_id": 1362333, "best_split": [2, 3], "split_score": 0.19083270940929767}
+{"sent": "third motorcycle from us", "ann_id": 1362333, "best_split": [3, 3], "split_score": 0.4603275358054681}
+{"sent": "bike not green hub and not next one but the one after", "ann_id": 1362333, "best_split": [2, 3], "split_score": 0.19083270940929767}
+{"sent": "motorcycle next to the one with green tire", "ann_id": 1362069, "best_split": [5, 1], "split_score": 0.33896620275266887}
+{"sent": "next to green rim bike", "ann_id": 1362069, "best_split": [5, 1], "split_score": 0.33896620275266887}
+{"sent": "motorcycle closest to one with green spokes", "ann_id": 1362069, "best_split": [5, 1], "split_score": 0.33896620275266887}
+{"sent": "green bike", "ann_id": 1361669, "best_split": [3, 1], "split_score": 0.3713645278581471}
+{"sent": "bike closest to camera", "ann_id": 1361669, "best_split": [5, 1], "split_score": 0.4161946549328923}

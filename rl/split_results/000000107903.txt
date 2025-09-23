@@ -1,0 +1,6 @@
+{"sent": "chair facing away", "ann_id": 113121, "best_split": [2, 3], "split_score": 0.461872586816859}
+{"sent": "chair in corner", "ann_id": 113121, "best_split": [2, 3], "split_score": 0.461872586816859}
+{"sent": "closest couch arm", "ann_id": 113121, "best_split": [2, 3], "split_score": 0.461872586816859}
+{"sent": "couch with pillow", "ann_id": 111499, "best_split": [3, 3], "split_score": 0.540996914995779}
+{"sent": "couch with pillow", "ann_id": 111499, "best_split": [3, 3], "split_score": 0.540996914995779}
+{"sent": "couch with pillows", "ann_id": 111499, "best_split": [3, 3], "split_score": 0.540996914995779}

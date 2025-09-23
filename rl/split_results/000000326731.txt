@@ -1,0 +1,8 @@
+{"sent": "biggest animal", "ann_id": 600666, "best_split": [1, 5], "split_score": 0.4925373133851001}
+{"sent": "tallest giraffe", "ann_id": 600666, "best_split": [1, 5], "split_score": 0.4925373133851001}
+{"sent": "tallest giraffe", "ann_id": 600666, "best_split": [1, 5], "split_score": 0.4925373133851001}
+{"sent": "last giraffe on the righ", "ann_id": 598619, "best_split": [3, 2], "split_score": 0.20555555553516314}
+{"sent": "giraffe at 3 o clock", "ann_id": 598619, "best_split": [3, 2], "split_score": 0.20555555553516314}
+{"sent": "giraffe peeking around the tree", "ann_id": 597096, "best_split": [3, 2], "split_score": 0.33774834434063467}
+{"sent": "giraffe with neck behind the tree", "ann_id": 597096, "best_split": [3, 3], "split_score": 0.3781512604612592}
+{"sent": "giraffe with neck behind tree", "ann_id": 597096, "best_split": [3, 3], "split_score": 0.3781512604612592}

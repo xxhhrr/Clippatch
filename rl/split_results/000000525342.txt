@@ -1,0 +1,8 @@
+{"sent": "green next to red 900", "ann_id": 1907837, "best_split": [2, 3], "split_score": 0.4425262237278708}
+{"sent": "orange that is cut off", "ann_id": 1051532, "best_split": [3, 2], "split_score": 0.42601821615174273}
+{"sent": "orange number two", "ann_id": 1051532, "best_split": [3, 2], "split_score": 0.42601821615174273}
+{"sent": "the orange near leaf", "ann_id": 1050886, "best_split": [2, 3], "split_score": 0.6072013092792797}
+{"sent": "orange nearest you", "ann_id": 1050886, "best_split": [2, 3], "split_score": 0.6072013092792797}
+{"sent": "orange lead", "ann_id": 1050886, "best_split": [2, 3], "split_score": 0.6072013092792797}
+{"sent": "between green apples", "ann_id": 1047856, "best_split": [3, 2], "split_score": 0.393184392011409}
+{"sent": "closer red apple in between green apples", "ann_id": 1047856, "best_split": [3, 2], "split_score": 0.393184392011409}

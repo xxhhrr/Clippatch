@@ -1,0 +1,6 @@
+{"sent": "middle white blue bike", "ann_id": 150257, "best_split": [3, 1], "split_score": 0.1828601472038454}
+{"sent": "bike near kid", "ann_id": 150257, "best_split": [3, 2], "split_score": 0.3240775251282075}
+{"sent": "next cycle", "ann_id": 150257, "best_split": [1, 5], "split_score": 0.43566878976927487}
+{"sent": "fully visible bike", "ann_id": 150085, "best_split": [1, 2], "split_score": 0.5284389877058244}
+{"sent": "closest moto", "ann_id": 150085, "best_split": [1, 2], "split_score": 0.5284389877058244}
+{"sent": "bike closest to you", "ann_id": 150085, "best_split": [3, 1], "split_score": 0.4016142499164482}

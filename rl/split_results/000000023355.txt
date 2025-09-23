@@ -1,0 +1,6 @@
+{"sent": "2 pizzas on arm the one touching his fingers", "ann_id": 1075390, "best_split": [3, 2], "split_score": 0.46151061770493357}
+{"sent": "nearest pizza", "ann_id": 1075390, "best_split": [3, 2], "split_score": 0.46151061770493357}
+{"sent": "closest pizza", "ann_id": 1075390, "best_split": [3, 2], "split_score": 0.46151061770493357}
+{"sent": "pizza on mans forearm", "ann_id": 1070651, "best_split": [3, 3], "split_score": 0.3172902587246925}
+{"sent": "pizza held in elbow", "ann_id": 1070651, "best_split": [3, 3], "split_score": 0.3172902587246925}
+{"sent": "pizza on elbow", "ann_id": 1070651, "best_split": [3, 3], "split_score": 0.3172902587246925}

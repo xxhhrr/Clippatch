@@ -1,0 +1,6 @@
+{"sent": "man with blue sleeveless shirt", "ann_id": 491403, "best_split": [2, 1], "split_score": 0.21164564387607634}
+{"sent": "person in blue shirt and jeans", "ann_id": 491403, "best_split": [2, 3], "split_score": 0.5189826070208544}
+{"sent": "muscle shirt", "ann_id": 491403, "best_split": [2, 1], "split_score": 0.21164564387607634}
+{"sent": "reaching up", "ann_id": 486455, "best_split": [1, 3], "split_score": 0.4799013433837163}
+{"sent": "boy with arms raised", "ann_id": 486455, "best_split": [2, 3], "split_score": 0.4900478898166681}
+{"sent": "white shirt", "ann_id": 486455, "best_split": [2, 3], "split_score": 0.4900478898166681}

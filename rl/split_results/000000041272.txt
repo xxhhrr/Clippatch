@@ -1,0 +1,11 @@
+{"sent": "farthest man", "ann_id": 570606, "best_split": [5, 1], "split_score": 0.15552523873162302}
+{"sent": "man in pink", "ann_id": 570606, "best_split": [3, 1], "split_score": 0.1952830188564102}
+{"sent": "pink shirt", "ann_id": 570606, "best_split": [3, 3], "split_score": 0.4152137015251946}
+{"sent": "light shirt", "ann_id": 565196, "best_split": [2, 3], "split_score": 0.6485131194578994}
+{"sent": "guy in glasses white collared shirt", "ann_id": 565196, "best_split": [2, 3], "split_score": 0.6485131194578994}
+{"sent": "guy in blue", "ann_id": 565196, "best_split": [2, 3], "split_score": 0.6485131194578994}
+{"sent": "main hand", "ann_id": 1737598, "best_split": [2, 2], "split_score": 0.6823770491366306}
+{"sent": "arm closest to viewer", "ann_id": 1737598, "best_split": [1, 2], "split_score": 0.5471938775292094}
+{"sent": "closest hand", "ann_id": 1737598, "best_split": [1, 2], "split_score": 0.5471938775292094}
+{"sent": "black shirt on the girl", "ann_id": 1727946, "best_split": [2, 3], "split_score": 0.4285714285197187}
+{"sent": "woman in black talking", "ann_id": 1727946, "best_split": [2, 3], "split_score": 0.4285714285197187}

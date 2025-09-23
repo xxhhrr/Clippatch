@@ -1,0 +1,6 @@
+{"sent": "one with the book", "ann_id": 205459, "best_split": [1, 3], "split_score": 0.49221789881273437}
+{"sent": "cross legs", "ann_id": 205459, "best_split": [1, 2], "split_score": 0.4809200208938539}
+{"sent": "guy reading book", "ann_id": 205459, "best_split": [1, 3], "split_score": 0.49221789881273437}
+{"sent": "man who is not holding anything", "ann_id": 203452, "best_split": [1, 3], "split_score": 0.7236975591857912}
+{"sent": "elbow on knee", "ann_id": 203452, "best_split": [1, 3], "split_score": 0.7236975591857912}
+{"sent": "pointing man", "ann_id": 203452, "best_split": [1, 3], "split_score": 0.7236975591857912}

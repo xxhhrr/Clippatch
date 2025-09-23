@@ -1,0 +1,12 @@
+{"sent": "boy with light blue jacket", "ann_id": 1207863, "best_split": [1, 5], "split_score": 0.4784902596917116}
+{"sent": "blue jacket", "ann_id": 1207863, "best_split": [1, 5], "split_score": 0.4784902596917116}
+{"sent": "kid in light blue hooie", "ann_id": 1207863, "best_split": [1, 5], "split_score": 0.4784902596917116}
+{"sent": "black white shirt end", "ann_id": 548942, "best_split": [2, 3], "split_score": 0.34074605448444906}
+{"sent": "skater with black and white shirt", "ann_id": 548942, "best_split": [3, 1], "split_score": 0.1379053298472975}
+{"sent": "black and white hoodie", "ann_id": 548942, "best_split": [2, 3], "split_score": 0.34074605448444906}
+{"sent": "dc shirt", "ann_id": 529419, "best_split": [1, 5], "split_score": 0.5865462661742546}
+{"sent": "white shirt", "ann_id": 529419, "best_split": [1, 5], "split_score": 0.5865462661742546}
+{"sent": "boy in white", "ann_id": 529419, "best_split": [1, 5], "split_score": 0.5865462661742546}
+{"sent": "blue green shirt", "ann_id": 441256, "best_split": [1, 5], "split_score": 0.586666666615873}
+{"sent": "boy in stripes with skateboard", "ann_id": 441256, "best_split": [2, 3], "split_score": 0.23012552299565986}
+{"sent": "tall boy with jeans", "ann_id": 441256, "best_split": [1, 5], "split_score": 0.586666666615873}

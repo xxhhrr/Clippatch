@@ -1,0 +1,3 @@
+{"sent": "yeah its annoying black elephant standing near shore", "ann_id": 580813, "best_split": [3, 3], "split_score": 0.5724981737449784}
+{"sent": "elephant standing closest to shore", "ann_id": 580813, "best_split": [5, 1], "split_score": 0.2289281997702272}
+{"sent": "elephant standing closest to sand", "ann_id": 580813, "best_split": [5, 1], "split_score": 0.2289281997702272}

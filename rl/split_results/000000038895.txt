@@ -1,0 +1,6 @@
+{"sent": "tshirt of man", "ann_id": 1743702, "best_split": [3, 2], "split_score": 0.5004145936463086}
+{"sent": "dark blue shirt", "ann_id": 1743702, "best_split": [3, 2], "split_score": 0.5004145936463086}
+{"sent": "shirt sleeve behind sandwich", "ann_id": 1743702, "best_split": [2, 2], "split_score": 0.4933035713892456}
+{"sent": "hand", "ann_id": 425708, "best_split": [3, 2], "split_score": 0.5190958690063234}
+{"sent": "close hand holding food", "ann_id": 425708, "best_split": [3, 2], "split_score": 0.5190958690063234}
+{"sent": "hand holding sandwich", "ann_id": 425708, "best_split": [2, 2], "split_score": 0.44812490876637057}

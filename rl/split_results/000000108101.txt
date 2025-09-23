@@ -1,0 +1,9 @@
+{"sent": "guy with light orange frisbee", "ann_id": 2155065, "best_split": [1, 3], "split_score": 0.20994208492941951}
+{"sent": "man with puffy blue vest", "ann_id": 2155065, "best_split": [2, 3], "split_score": 0.3847964226424104}
+{"sent": "guy orange hat", "ann_id": 2155065, "best_split": [3, 3], "split_score": 0.16827550219563325}
+{"sent": "red scarf", "ann_id": 535324, "best_split": [1, 5], "split_score": 0.5022469889895518}
+{"sent": "tall guy", "ann_id": 535324, "best_split": [2, 3], "split_score": 0.23018193630359146}
+{"sent": "black jacket", "ann_id": 535324, "best_split": [1, 5], "split_score": 0.5022469889895518}
+{"sent": "the guy with the white frizbee", "ann_id": 493055, "best_split": [2, 3], "split_score": 0.18480138167484153}
+{"sent": "guy holding something white", "ann_id": 493055, "best_split": [1, 5], "split_score": 0.34844961236933625}
+{"sent": "man with blue jacket with a white sign in his hand", "ann_id": 493055, "best_split": [2, 2], "split_score": 0.29123571037473867}

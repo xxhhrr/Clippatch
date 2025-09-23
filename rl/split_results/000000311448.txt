@@ -1,0 +1,5 @@
+{"sent": "piece that is mostly covered by salad", "ann_id": 1909845, "best_split": [2, 3], "split_score": 0.3125819134700822}
+{"sent": "taco with the least red peppers", "ann_id": 1909845, "best_split": [2, 2], "split_score": 0.3549558899581173}
+{"sent": "the one with fewest red", "ann_id": 1909845, "best_split": [2, 3], "split_score": 0.3125819134700822}
+{"sent": "taco supporting 2 others", "ann_id": 310064, "best_split": [1, 2], "split_score": 0.3300382652929672}
+{"sent": "closest sandwich", "ann_id": 310064, "best_split": [1, 2], "split_score": 0.3300382652929672}

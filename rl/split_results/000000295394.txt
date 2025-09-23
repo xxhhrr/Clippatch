@@ -1,0 +1,6 @@
+{"sent": "man in red shirt", "ann_id": 546258, "best_split": [1, 2], "split_score": 0.5849794021182798}
+{"sent": "red shirt", "ann_id": 546258, "best_split": [1, 2], "split_score": 0.5849794021182798}
+{"sent": "frisbee", "ann_id": 546258, "best_split": [1, 2], "split_score": 0.5849794021182798}
+{"sent": "guy in purple shirt in background", "ann_id": 535580, "best_split": [3, 3], "split_score": 0.3660071941897471}
+{"sent": "man in blue with arms crossed", "ann_id": 535580, "best_split": [1, 2], "split_score": 0.14500956632075057}
+{"sent": "purple shirt", "ann_id": 535580, "best_split": [3, 3], "split_score": 0.3660071941897471}

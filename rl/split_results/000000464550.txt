@@ -1,0 +1,3 @@
+{"sent": "man behind man with back pack", "ann_id": 1214916, "best_split": [2, 2], "split_score": 0.28473087259655605}
+{"sent": "player without backpack", "ann_id": 1214916, "best_split": [2, 1], "split_score": 0.1562398819960341}
+{"sent": "red coat at 3", "ann_id": 1214916, "best_split": [1, 3], "split_score": 0.42543436290869724}

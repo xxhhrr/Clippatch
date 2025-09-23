@@ -1,0 +1,6 @@
+{"sent": "lady with orange bag", "ann_id": 467394, "best_split": [2, 3], "split_score": 0.4430501929967362}
+{"sent": "person in blue pants", "ann_id": 467394, "best_split": [1, 5], "split_score": 0.3057915057619892}
+{"sent": "person with brown bag", "ann_id": 467394, "best_split": [2, 3], "split_score": 0.4430501929967362}
+{"sent": "woman in black on the floor", "ann_id": 444247, "best_split": [3, 3], "split_score": 0.6199280944247653}
+{"sent": "black shirt on knees", "ann_id": 444247, "best_split": [3, 1], "split_score": 0.33596214509148475}
+{"sent": "kneeling person in the houndstooth", "ann_id": 444247, "best_split": [3, 1], "split_score": 0.33596214509148475}

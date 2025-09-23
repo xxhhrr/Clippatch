@@ -1,0 +1,9 @@
+{"sent": "number 3 from camera", "ann_id": 666110, "best_split": [2, 2], "split_score": 0.11162224326128925}
+{"sent": "glass 3", "ann_id": 666110, "best_split": [3, 3], "split_score": 0.39761194023916235}
+{"sent": "the third wine glass with little wine in it", "ann_id": 666110, "best_split": [3, 3], "split_score": 0.39761194023916235}
+{"sent": "wine glass 2", "ann_id": 664480, "best_split": [1, 5], "split_score": 0.32079646015164376}
+{"sent": "empty wine glass next to one with light red", "ann_id": 664480, "best_split": [1, 5], "split_score": 0.32079646015164376}
+{"sent": "wine glass number 2 from beginning", "ann_id": 664480, "best_split": [1, 5], "split_score": 0.32079646015164376}
+{"sent": "closest glass", "ann_id": 662738, "best_split": [1, 2], "split_score": 0.5534119897738595}
+{"sent": "big close glass with red liquid in it", "ann_id": 662738, "best_split": [1, 2], "split_score": 0.5534119897738595}
+{"sent": "closest glass", "ann_id": 662738, "best_split": [1, 2], "split_score": 0.5534119897738595}

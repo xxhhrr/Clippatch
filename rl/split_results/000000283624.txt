@@ -1,0 +1,5 @@
+{"sent": "black dog with green collar", "ann_id": 17054, "best_split": [2, 1], "split_score": 0.18185376545397472}
+{"sent": "hands together", "ann_id": 17054, "best_split": [2, 1], "split_score": 0.18185376545397472}
+{"sent": "dog with green collar", "ann_id": 17054, "best_split": [2, 1], "split_score": 0.18185376545397472}
+{"sent": "the dog is wearing a hat", "ann_id": 13058, "best_split": [3, 3], "split_score": 0.4965780677229702}
+{"sent": "dog", "ann_id": 13058, "best_split": [3, 3], "split_score": 0.4965780677229702}

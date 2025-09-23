@@ -1,0 +1,6 @@
+{"sent": "leaning man in black", "ann_id": 538039, "best_split": [1, 2], "split_score": 0.47096445960931155}
+{"sent": "police", "ann_id": 538039, "best_split": [1, 2], "split_score": 0.47096445960931155}
+{"sent": "man leaning", "ann_id": 538039, "best_split": [2, 2], "split_score": 0.363033082835804}
+{"sent": "man standing on curb with red shirt", "ann_id": 472703, "best_split": [1, 5], "split_score": 0.5398295664561106}
+{"sent": "man in red", "ann_id": 472703, "best_split": [1, 5], "split_score": 0.5398295664561106}
+{"sent": "red shirt", "ann_id": 472703, "best_split": [1, 5], "split_score": 0.5398295664561106}

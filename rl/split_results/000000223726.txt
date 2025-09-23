@@ -1,0 +1,14 @@
+{"sent": "bush jr", "ann_id": 1241963, "best_split": [5, 1], "split_score": 0.1145767027304799}
+{"sent": "george with bush the son", "ann_id": 1241963, "best_split": [5, 1], "split_score": 0.1145767027304799}
+{"sent": "bush jr", "ann_id": 1241963, "best_split": [5, 1], "split_score": 0.1145767027304799}
+{"sent": "bill", "ann_id": 531668, "best_split": [5, 1], "split_score": 0.09209888511238148}
+{"sent": "gray hair by bush", "ann_id": 531668, "best_split": [5, 1], "split_score": 0.09209888511238148}
+{"sent": "clinton", "ann_id": 531668, "best_split": [5, 1], "split_score": 0.09209888511238148}
+{"sent": "ooooooobama", "ann_id": 513338, "best_split": [1, 3], "split_score": 0.5121951219249746}
+{"sent": "obama", "ann_id": 513338, "best_split": [1, 3], "split_score": 0.5121951219249746}
+{"sent": "obama", "ann_id": 513338, "best_split": [1, 3], "split_score": 0.5121951219249746}
+{"sent": "blue tie with white dots closest to camera", "ann_id": 511213, "best_split": [1, 3], "split_score": 0.8973214285172948}
+{"sent": "nearest us man", "ann_id": 511213, "best_split": [1, 3], "split_score": 0.8973214285172948}
+{"sent": "man standing nearest to the bookshelf", "ann_id": 2205474, "best_split": [1, 5], "split_score": 0.5913978494055877}
+{"sent": "carter", "ann_id": 2205474, "best_split": [2, 1], "split_score": 0.04741833508800651}
+{"sent": "man farthest away", "ann_id": 2205474, "best_split": [1, 5], "split_score": 0.5913978494055877}

@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 1745982, "best_split": [1, 2], "split_score": 0.5005580356943337}
+{"sent": "player looking at you", "ann_id": 1745982, "best_split": [1, 2], "split_score": 0.5005580356943337}
+{"sent": "the person that likely threw the frisbee", "ann_id": 1745982, "best_split": [5, 1], "split_score": 0.21749049428476422}
+{"sent": "girl gray shirt dark shorts", "ann_id": 1739295, "best_split": [1, 2], "split_score": 0.6867621946437463}
+{"sent": "girl catching frisbee", "ann_id": 1739295, "best_split": [1, 2], "split_score": 0.6867621946437463}
+{"sent": "about to catch frisbee", "ann_id": 1739295, "best_split": [1, 3], "split_score": 0.3166226912815866}

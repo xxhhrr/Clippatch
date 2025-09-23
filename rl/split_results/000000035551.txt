@@ -1,0 +1,6 @@
+{"sent": "gray boxcar", "ann_id": 172817, "best_split": [3, 1], "split_score": 0.2143724345138248}
+{"sent": "last car", "ann_id": 172817, "best_split": [3, 1], "split_score": 0.2143724345138248}
+{"sent": "brown frieght car", "ann_id": 172817, "best_split": [3, 1], "split_score": 0.2143724345138248}
+{"sent": "black part of train", "ann_id": 172050, "best_split": [3, 2], "split_score": 0.5339712918234473}
+{"sent": "engine", "ann_id": 172050, "best_split": [3, 2], "split_score": 0.5339712918234473}
+{"sent": "engine", "ann_id": 172050, "best_split": [3, 2], "split_score": 0.5339712918234473}

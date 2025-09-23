@@ -1,0 +1,7 @@
+{"sent": "food closest to us on plate closest", "ann_id": 1554808, "best_split": [1, 5], "split_score": 0.24717198920760508}
+{"sent": "closest light piece of food", "ann_id": 1554808, "best_split": [3, 2], "split_score": 0.5250546931425091}
+{"sent": "sandwich above the spoon", "ann_id": 1554245, "best_split": [3, 3], "split_score": 0.3813493900908832}
+{"sent": "bread blurry", "ann_id": 1554245, "best_split": [3, 3], "split_score": 0.3813493900908832}
+{"sent": "wrap where meat is shown", "ann_id": 1553644, "best_split": [3, 2], "split_score": 0.5992911609280108}
+{"sent": "higher sandwich", "ann_id": 1553644, "best_split": [5, 1], "split_score": 0.3308805692301382}
+{"sent": "bread food by brocoli", "ann_id": 1553644, "best_split": [5, 1], "split_score": 0.3308805692301382}

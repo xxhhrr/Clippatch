@@ -1,0 +1,6 @@
+{"sent": "sitting on luggage", "ann_id": 536758, "best_split": [2, 3], "split_score": 0.5276586136229783}
+{"sent": "kid riding luggage", "ann_id": 536758, "best_split": [2, 3], "split_score": 0.5276586136229783}
+{"sent": "kid", "ann_id": 536758, "best_split": [2, 3], "split_score": 0.5276586136229783}
+{"sent": "man pulling suitcase and child", "ann_id": 471069, "best_split": [1, 2], "split_score": 0.47783801018503513}
+{"sent": "man walking away", "ann_id": 471069, "best_split": [1, 2], "split_score": 0.47783801018503513}
+{"sent": "white shirt man", "ann_id": 471069, "best_split": [2, 2], "split_score": 0.5703495070688548}

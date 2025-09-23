@@ -1,0 +1,6 @@
+{"sent": "rearview mirror", "ann_id": 1776572, "best_split": [3, 2], "split_score": 0.5375626042764652}
+{"sent": "mirror", "ann_id": 1776572, "best_split": [3, 2], "split_score": 0.5375626042764652}
+{"sent": "mirror", "ann_id": 1776572, "best_split": [3, 2], "split_score": 0.5375626042764652}
+{"sent": "car hood", "ann_id": 345012, "best_split": [3, 3], "split_score": 0.8774234896847583}
+{"sent": "car light", "ann_id": 345012, "best_split": [3, 3], "split_score": 0.8774234896847583}
+{"sent": "lcar head light you can see", "ann_id": 345012, "best_split": [3, 3], "split_score": 0.8774234896847583}

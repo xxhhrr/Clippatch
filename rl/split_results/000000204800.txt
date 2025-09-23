@@ -1,0 +1,6 @@
+{"sent": "visible dog", "ann_id": 16319, "best_split": [2, 2], "split_score": 0.4626600735094041}
+{"sent": "sitting on bench", "ann_id": 16319, "best_split": [3, 1], "split_score": 0.30861336421839447}
+{"sent": "meant far the dog on the bench", "ann_id": 16319, "best_split": [3, 1], "split_score": 0.30861336421839447}
+{"sent": "dog on ground", "ann_id": 9768, "best_split": [3, 3], "split_score": 0.5468055102997282}
+{"sent": "sad dog", "ann_id": 9768, "best_split": [3, 3], "split_score": 0.5468055102997282}
+{"sent": "red across nose", "ann_id": 9768, "best_split": [3, 2], "split_score": 0.5876499580965637}

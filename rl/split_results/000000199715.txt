@@ -1,0 +1,6 @@
+{"sent": "all of the food", "ann_id": 420181, "best_split": [1, 2], "split_score": 0.5449581681958398}
+{"sent": "table by drinks", "ann_id": 420181, "best_split": [2, 1], "split_score": 0.4827994252285775}
+{"sent": "table side with all the plates", "ann_id": 420181, "best_split": [1, 2], "split_score": 0.5449581681958398}
+{"sent": "empty table", "ann_id": 1960521, "best_split": [1, 2], "split_score": 0.8405213647624155}
+{"sent": "portion of table with fingers resting on it", "ann_id": 1960521, "best_split": [1, 2], "split_score": 0.8405213647624155}
+{"sent": "click on table by partial hand", "ann_id": 1960521, "best_split": [2, 2], "split_score": 0.4918600008653746}

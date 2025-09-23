@@ -1,0 +1,6 @@
+{"sent": "brown shirt", "ann_id": 470000, "best_split": [1, 5], "split_score": 0.5485094850523802}
+{"sent": "brown shirt and blue pants", "ann_id": 470000, "best_split": [1, 5], "split_score": 0.5485094850523802}
+{"sent": "guy with glasses", "ann_id": 470000, "best_split": [1, 5], "split_score": 0.5485094850523802}
+{"sent": "man almost touching the flying disc", "ann_id": 450123, "best_split": [1, 3], "split_score": 0.3800675675446388}
+{"sent": "black tee with hands up", "ann_id": 450123, "best_split": [1, 5], "split_score": 0.43024079316304525}
+{"sent": "black shirt", "ann_id": 450123, "best_split": [1, 5], "split_score": 0.43024079316304525}

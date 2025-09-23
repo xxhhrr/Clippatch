@@ -1,0 +1,9 @@
+{"sent": "man with glasses", "ann_id": 563362, "best_split": [3, 3], "split_score": 0.6238323079717666}
+{"sent": "guy with glasses", "ann_id": 563362, "best_split": [3, 3], "split_score": 0.6238323079717666}
+{"sent": "man in white", "ann_id": 563362, "best_split": [3, 3], "split_score": 0.6238323079717666}
+{"sent": "girl", "ann_id": 1217798, "best_split": [3, 3], "split_score": 0.41742587370922213}
+{"sent": "girl reaching", "ann_id": 1217798, "best_split": [3, 3], "split_score": 0.41742587370922213}
+{"sent": "woman with glasses", "ann_id": 1217798, "best_split": [3, 1], "split_score": 0.16128079398822703}
+{"sent": "guy red shirt", "ann_id": 456143, "best_split": [3, 3], "split_score": 0.6077005922714458}
+{"sent": "red", "ann_id": 456143, "best_split": [3, 3], "split_score": 0.6077005922714458}
+{"sent": "red shirt", "ann_id": 456143, "best_split": [3, 3], "split_score": 0.6077005922714458}

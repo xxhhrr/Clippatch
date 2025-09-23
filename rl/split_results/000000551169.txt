@@ -1,0 +1,9 @@
+{"sent": "lady in black with apron behind the pink shirt", "ann_id": 1286992, "best_split": [3, 3], "split_score": 0.37208263535766806}
+{"sent": "person near pink shirt not yellow shirt woman", "ann_id": 1286992, "best_split": [2, 2], "split_score": 0.3715277777514507}
+{"sent": "cook in black shirt", "ann_id": 1286992, "best_split": [2, 1], "split_score": 0.19669117646320936}
+{"sent": "woman with hand stretched out", "ann_id": 1240937, "best_split": [3, 1], "split_score": 0.2970568751633833}
+{"sent": "the woman reaching", "ann_id": 1240937, "best_split": [3, 1], "split_score": 0.2970568751633833}
+{"sent": "lady reaching for food in", "ann_id": 1240937, "best_split": [3, 2], "split_score": 0.4239761727160107}
+{"sent": "pink shirt", "ann_id": 1298217, "best_split": [1, 5], "split_score": 0.4853871132724844}
+{"sent": "lady with pink", "ann_id": 1298217, "best_split": [1, 5], "split_score": 0.4853871132724844}
+{"sent": "pink shirt", "ann_id": 1298217, "best_split": [1, 5], "split_score": 0.4853871132724844}

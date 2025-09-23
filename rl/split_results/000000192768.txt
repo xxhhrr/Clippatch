@@ -1,0 +1,6 @@
+{"sent": "rice", "ann_id": 1903266, "best_split": [1, 2], "split_score": 0.7304048234056107}
+{"sent": "skinny bowl with white rice", "ann_id": 1903266, "best_split": [2, 1], "split_score": 0.4085889570449834}
+{"sent": "rice", "ann_id": 1903266, "best_split": [1, 2], "split_score": 0.7304048234056107}
+{"sent": "tray with orange and green piles", "ann_id": 714091, "best_split": [1, 2], "split_score": 0.7271491352642464}
+{"sent": "carrots", "ann_id": 714091, "best_split": [1, 2], "split_score": 0.7271491352642464}
+{"sent": "looks like carrots in the tray", "ann_id": 714091, "best_split": [1, 2], "split_score": 0.7271491352642464}

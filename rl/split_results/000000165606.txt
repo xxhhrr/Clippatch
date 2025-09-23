@@ -1,0 +1,12 @@
+{"sent": "the boy kid looking at the sky", "ann_id": 2156760, "best_split": [2, 2], "split_score": 0.7083412142545652}
+{"sent": "shirtless boy near girl with hat", "ann_id": 2156760, "best_split": [2, 2], "split_score": 0.7083412142545652}
+{"sent": "little boy squinting with no shirt", "ann_id": 2156760, "best_split": [2, 2], "split_score": 0.7083412142545652}
+{"sent": "blue shoulder at edge", "ann_id": 1715656, "best_split": [3, 2], "split_score": 0.20947348554354844}
+{"sent": "barely see blue shirt", "ann_id": 1715656, "best_split": [2, 1], "split_score": 0.12028141311293285}
+{"sent": "blue shirt barely", "ann_id": 1715656, "best_split": [2, 1], "split_score": 0.12028141311293285}
+{"sent": "kid with gap shirt", "ann_id": 225169, "best_split": [3, 2], "split_score": 0.17008409712084624}
+{"sent": "gap", "ann_id": 225169, "best_split": [3, 1], "split_score": 0.15719643955902163}
+{"sent": "gap", "ann_id": 225169, "best_split": [3, 1], "split_score": 0.15719643955902163}
+{"sent": "girl in hat", "ann_id": 210125, "best_split": [1, 2], "split_score": 0.5632174744673463}
+{"sent": "girl in hat", "ann_id": 210125, "best_split": [1, 2], "split_score": 0.5632174744673463}
+{"sent": "pink", "ann_id": 210125, "best_split": [1, 2], "split_score": 0.5632174744673463}

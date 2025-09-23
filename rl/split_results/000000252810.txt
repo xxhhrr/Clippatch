@@ -1,0 +1,6 @@
+{"sent": "giriffe close to you looking away", "ann_id": 599093, "best_split": [1, 5], "split_score": 0.5599999999555555}
+{"sent": "giraffe looking away", "ann_id": 599093, "best_split": [1, 5], "split_score": 0.5599999999555555}
+{"sent": "giraffe facing away", "ann_id": 599093, "best_split": [1, 5], "split_score": 0.5599999999555555}
+{"sent": "giraffe facing us", "ann_id": 596812, "best_split": [1, 2], "split_score": 0.5328768080311342}
+{"sent": "bigger", "ann_id": 596812, "best_split": [1, 2], "split_score": 0.5328768080311342}
+{"sent": "rear giraffe", "ann_id": 596812, "best_split": [1, 2], "split_score": 0.5328768080311342}

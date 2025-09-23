@@ -1,0 +1,6 @@
+{"sent": "two bananas one most viewable", "ann_id": 1545482, "best_split": [2, 2], "split_score": 0.451637519844093}
+{"sent": "big bannaa with mini banan laying", "ann_id": 1545482, "best_split": [2, 2], "split_score": 0.451637519844093}
+{"sent": "bananas closest to the green and red fruit", "ann_id": 1545022, "best_split": [2, 1], "split_score": 0.6455617993866968}
+{"sent": "lower bunch of bananas", "ann_id": 1545022, "best_split": [1, 2], "split_score": 0.3436231292107617}
+{"sent": "bunch of bananas", "ann_id": 1545022, "best_split": [1, 2], "split_score": 0.3436231292107617}
+{"sent": "closest full visible banana with one black dot", "ann_id": 1544974, "best_split": [2, 3], "split_score": 0.35824327427474784}

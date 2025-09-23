@@ -1,0 +1,8 @@
+{"sent": "ump", "ann_id": 530312, "best_split": [3, 1], "split_score": 0.1703673385771837}
+{"sent": "umpire", "ann_id": 530312, "best_split": [2, 3], "split_score": 0.3441444761499913}
+{"sent": "catcher", "ann_id": 524769, "best_split": [3, 1], "split_score": 0.2278762178692576}
+{"sent": "catcher", "ann_id": 524769, "best_split": [3, 1], "split_score": 0.2278762178692576}
+{"sent": "catcher", "ann_id": 524769, "best_split": [3, 1], "split_score": 0.2278762178692576}
+{"sent": "batter", "ann_id": 437428, "best_split": [1, 5], "split_score": 0.4829986612795851}
+{"sent": "batter", "ann_id": 437428, "best_split": [1, 5], "split_score": 0.4829986612795851}
+{"sent": "batter", "ann_id": 437428, "best_split": [1, 5], "split_score": 0.4829986612795851}

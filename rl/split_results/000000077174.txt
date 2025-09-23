@@ -1,0 +1,9 @@
+{"sent": "glass of brown liquid", "ann_id": 2214403, "best_split": [2, 3], "split_score": 0.5733939864003779}
+{"sent": "iced tea", "ann_id": 2214403, "best_split": [2, 3], "split_score": 0.5733939864003779}
+{"sent": "cup of ice tea", "ann_id": 2214403, "best_split": [2, 3], "split_score": 0.5733939864003779}
+{"sent": "sandwich piece with red topped toothpick", "ann_id": 311912, "best_split": [3, 1], "split_score": 0.21582733811736582}
+{"sent": "sandwich with the red toothpick in it", "ann_id": 311912, "best_split": [3, 2], "split_score": 0.4040404039978914}
+{"sent": "sandwich red toothpick", "ann_id": 311912, "best_split": [5, 1], "split_score": 0.2328042327849864}
+{"sent": "sandwich showing tomato", "ann_id": 311269, "best_split": [3, 1], "split_score": 0.4569112627742688}
+{"sent": "sandwich half with tomato slice sticking out", "ann_id": 311269, "best_split": [3, 1], "split_score": 0.4569112627742688}
+{"sent": "closest sandwich half", "ann_id": 311269, "best_split": [3, 1], "split_score": 0.4569112627742688}

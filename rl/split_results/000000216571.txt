@@ -1,0 +1,6 @@
+{"sent": "horse under orange jockey", "ann_id": 274250, "best_split": [1, 2], "split_score": 0.5756536989566464}
+{"sent": "black horse", "ann_id": 274250, "best_split": [1, 2], "split_score": 0.5756536989566464}
+{"sent": "horse with black mask on", "ann_id": 274250, "best_split": [1, 2], "split_score": 0.5756536989566464}
+{"sent": "horse with white mask", "ann_id": 54676, "best_split": [1, 5], "split_score": 0.4843707528890751}
+{"sent": "white masked horse", "ann_id": 54676, "best_split": [1, 5], "split_score": 0.4843707528890751}
+{"sent": "horse white mask", "ann_id": 54676, "best_split": [1, 5], "split_score": 0.4843707528890751}

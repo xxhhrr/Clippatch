@@ -1,0 +1,6 @@
+{"sent": "bus with 12 on it", "ann_id": 164705, "best_split": [2, 3], "split_score": 0.7548931044108307}
+{"sent": "folsom bus", "ann_id": 164705, "best_split": [2, 3], "split_score": 0.7548931044108307}
+{"sent": "12 bus", "ann_id": 164705, "best_split": [2, 3], "split_score": 0.7548931044108307}
+{"sent": "not in service bus", "ann_id": 163718, "best_split": [2, 1], "split_score": 0.30782286682966276}
+{"sent": "not in service", "ann_id": 163718, "best_split": [2, 1], "split_score": 0.30782286682966276}
+{"sent": "bus not in service", "ann_id": 163718, "best_split": [2, 1], "split_score": 0.30782286682966276}

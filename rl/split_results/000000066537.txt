@@ -1,0 +1,6 @@
+{"sent": "coach not wearing a hat", "ann_id": 1246554, "best_split": [3, 3], "split_score": 0.14951407922383328}
+{"sent": "man between two players", "ann_id": 1246554, "best_split": [1, 5], "split_score": 0.2114682574827292}
+{"sent": "non player guy with white hair standing", "ann_id": 1246554, "best_split": [2, 3], "split_score": 0.2412868632458974}
+{"sent": "batter", "ann_id": 1217463, "best_split": [1, 2], "split_score": 0.5758928571199022}
+{"sent": "man in white", "ann_id": 1217463, "best_split": [1, 2], "split_score": 0.5758928571199022}
+{"sent": "batter", "ann_id": 1217463, "best_split": [1, 2], "split_score": 0.5758928571199022}

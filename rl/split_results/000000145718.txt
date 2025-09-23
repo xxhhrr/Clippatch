@@ -1,0 +1,6 @@
+{"sent": "man walking by", "ann_id": 562601, "best_split": [2, 1], "split_score": 0.3224680170489747}
+{"sent": "guy striding in tan pants", "ann_id": 562601, "best_split": [1, 2], "split_score": 0.8943610888063849}
+{"sent": "man walking in khakies", "ann_id": 562601, "best_split": [2, 1], "split_score": 0.3224680170489747}
+{"sent": "skater holding camera", "ann_id": 1738304, "best_split": [1, 5], "split_score": 0.34528766083030965}
+{"sent": "guy with camera", "ann_id": 1738304, "best_split": [1, 5], "split_score": 0.34528766083030965}
+{"sent": "skateboarder holding something", "ann_id": 1738304, "best_split": [1, 5], "split_score": 0.34528766083030965}

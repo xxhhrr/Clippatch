@@ -1,0 +1,12 @@
+{"sent": "dark shirt", "ann_id": 2198679, "best_split": [1, 3], "split_score": 0.24583735519752428}
+{"sent": "person with same color clothes", "ann_id": 2198679, "best_split": [2, 3], "split_score": 0.27283022750202507}
+{"sent": "blue shirt", "ann_id": 2198679, "best_split": [2, 3], "split_score": 0.27283022750202507}
+{"sent": "striped shoes", "ann_id": 1734057, "best_split": [1, 5], "split_score": 0.41152597398422014}
+{"sent": "guy facing other guys in white", "ann_id": 1734057, "best_split": [3, 1], "split_score": 0.102843703223068}
+{"sent": "away from group", "ann_id": 1734057, "best_split": [3, 1], "split_score": 0.102843703223068}
+{"sent": "tallest guy", "ann_id": 534473, "best_split": [1, 2], "split_score": 0.19535235968609085}
+{"sent": "black pants tall", "ann_id": 534473, "best_split": [2, 3], "split_score": 0.13414739013379073}
+{"sent": "guy with jeans and lighter shirt with one hand up near statues ear", "ann_id": 534473, "best_split": [1, 2], "split_score": 0.19535235968609085}
+{"sent": "on skateboard closer to head", "ann_id": 439766, "best_split": [1, 3], "split_score": 0.3003408957152732}
+{"sent": "shite shirt skateboard guy", "ann_id": 439766, "best_split": [1, 3], "split_score": 0.3003408957152732}
+{"sent": "man with white shirt and back to us", "ann_id": 439766, "best_split": [3, 2], "split_score": 0.2550798258114042}

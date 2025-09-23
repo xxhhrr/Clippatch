@@ -1,0 +1,6 @@
+{"sent": "just an arm in view", "ann_id": 1712970, "best_split": [1, 5], "split_score": 0.40696022723143666}
+{"sent": "arm with body off page", "ann_id": 1712970, "best_split": [1, 3], "split_score": 0.24197635133675335}
+{"sent": "slice of person near side", "ann_id": 1712970, "best_split": [2, 1], "split_score": 0.08793509552144409}
+{"sent": "blue and white hat", "ann_id": 237937, "best_split": [1, 3], "split_score": 0.2956081080902746}
+{"sent": "blue plaid shorts", "ann_id": 237937, "best_split": [1, 3], "split_score": 0.2956081080902746}
+{"sent": "guy in blue and white", "ann_id": 237937, "best_split": [2, 2], "split_score": 0.20502901352548847}

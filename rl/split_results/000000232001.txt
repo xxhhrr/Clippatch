@@ -1,0 +1,9 @@
+{"sent": "gray sleeve hand only", "ann_id": 1677688, "best_split": [2, 1], "split_score": 0.22002551019531147}
+{"sent": "hand of unseen person", "ann_id": 1677688, "best_split": [2, 1], "split_score": 0.22002551019531147}
+{"sent": "hand no body or face", "ann_id": 1677688, "best_split": [2, 1], "split_score": 0.22002551019531147}
+{"sent": "white guy", "ann_id": 496611, "best_split": [5, 1], "split_score": 0.156084656073496}
+{"sent": "man talking to girl", "ann_id": 496611, "best_split": [3, 1], "split_score": 0.23570695890321725}
+{"sent": "man in background with gray jacket", "ann_id": 496611, "best_split": [3, 3], "split_score": 0.5724956648562763}
+{"sent": "the boy with glasses", "ann_id": 428238, "best_split": [2, 1], "split_score": 0.433602745283027}
+{"sent": "guy with phone", "ann_id": 428238, "best_split": [2, 1], "split_score": 0.433602745283027}
+{"sent": "man holding phone", "ann_id": 428238, "best_split": [2, 1], "split_score": 0.433602745283027}

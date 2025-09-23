@@ -1,0 +1,5 @@
+{"sent": "hot dog closer to triangle napkin", "ann_id": 2219336, "best_split": [3, 3], "split_score": 0.46217840079153005}
+{"sent": "hot dog closest to fork", "ann_id": 2219336, "best_split": [3, 3], "split_score": 0.46217840079153005}
+{"sent": "hot dog next to fork", "ann_id": 2219336, "best_split": [3, 3], "split_score": 0.46217840079153005}
+{"sent": "hot dog next to spoon", "ann_id": 1910271, "best_split": [3, 3], "split_score": 0.28539026013537155}
+{"sent": "pretend hot dog near spoon", "ann_id": 1910271, "best_split": [3, 3], "split_score": 0.28539026013537155}

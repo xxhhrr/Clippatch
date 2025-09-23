@@ -1,0 +1,5 @@
+{"sent": "school bus cut off", "ann_id": 366376, "best_split": [1, 5], "split_score": 0.6044613710143865}
+{"sent": "school bus on edge", "ann_id": 366376, "best_split": [1, 2], "split_score": 0.5475127550802171}
+{"sent": "partial school bus", "ann_id": 366376, "best_split": [1, 2], "split_score": 0.5475127550802171}
+{"sent": "bus by truck", "ann_id": 365642, "best_split": [1, 2], "split_score": 0.5054347825980897}
+{"sent": "bus next to truck", "ann_id": 365642, "best_split": [1, 2], "split_score": 0.5054347825980897}

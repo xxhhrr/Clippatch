@@ -1,0 +1,12 @@
+{"sent": "person in stands with hat", "ann_id": 2157269, "best_split": [5, 1], "split_score": 0.15204382636729508}
+{"sent": "blond spectator blurry", "ann_id": 2157269, "best_split": [1, 5], "split_score": 0.3868709415191892}
+{"sent": "the person with blond hair", "ann_id": 2157269, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "blurred person with green collar behind player", "ann_id": 2155152, "best_split": [2, 2], "split_score": 0.3507653060944862}
+{"sent": "man black jacket without white stripes", "ann_id": 2155152, "best_split": [2, 3], "split_score": 0.5308880308239758}
+{"sent": "out of focus woman in green undershirt", "ann_id": 2155152, "best_split": [2, 3], "split_score": 0.5308880308239758}
+{"sent": "black and white jacket by arm", "ann_id": 546675, "best_split": [3, 1], "split_score": 0.24884539255284552}
+{"sent": "man below the wrist with the white band", "ann_id": 546675, "best_split": [2, 3], "split_score": 0.41862523351178826}
+{"sent": "man in dark jacket and white shirt near stands", "ann_id": 546675, "best_split": [3, 1], "split_score": 0.24884539255284552}
+{"sent": "main person in photo", "ann_id": 474501, "best_split": [1, 3], "split_score": 0.4356566439666966}
+{"sent": "man", "ann_id": 474501, "best_split": [1, 3], "split_score": 0.4356566439666966}
+{"sent": "player", "ann_id": 474501, "best_split": [1, 3], "split_score": 0.4356566439666966}

@@ -1,0 +1,6 @@
+{"sent": "gray truck with headlight on", "ann_id": 1798926, "best_split": [3, 3], "split_score": 0.393617021220009}
+{"sent": "white truck", "ann_id": 1798926, "best_split": [1, 5], "split_score": 0.4279626622942408}
+{"sent": "silver van", "ann_id": 1798926, "best_split": [3, 2], "split_score": 0.28030303027433423}
+{"sent": "yellow vehicle driving our way", "ann_id": 1368089, "best_split": [1, 2], "split_score": 0.4414859693701576}
+{"sent": "yellow bus with face on it", "ann_id": 1368089, "best_split": [1, 2], "split_score": 0.4414859693701576}
+{"sent": "yellow car", "ann_id": 1368089, "best_split": [1, 2], "split_score": 0.4414859693701576}

@@ -1,0 +1,6 @@
+{"sent": "white couch", "ann_id": 116059, "best_split": [2, 2], "split_score": 0.6156361473977678}
+{"sent": "white couch facing fireplace", "ann_id": 116059, "best_split": [3, 1], "split_score": 0.16488880852626608}
+{"sent": "couche facing tv", "ann_id": 116059, "best_split": [3, 1], "split_score": 0.16488880852626608}
+{"sent": "sofa by window", "ann_id": 115161, "best_split": [3, 3], "split_score": 0.7259085155078813}
+{"sent": "smaller couch", "ann_id": 115161, "best_split": [3, 3], "split_score": 0.7259085155078813}
+{"sent": "couch under windows furthest away", "ann_id": 115161, "best_split": [3, 3], "split_score": 0.7259085155078813}

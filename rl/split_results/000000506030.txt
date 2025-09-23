@@ -1,0 +1,9 @@
+{"sent": "older man red shirt", "ann_id": 1706029, "best_split": [1, 3], "split_score": 0.6626865671288547}
+{"sent": "man in red shirt", "ann_id": 1706029, "best_split": [1, 3], "split_score": 0.6626865671288547}
+{"sent": "red shirt man", "ann_id": 1706029, "best_split": [1, 3], "split_score": 0.6626865671288547}
+{"sent": "waiter in white", "ann_id": 537733, "best_split": [2, 3], "split_score": 0.4473796335271219}
+{"sent": "white shirt", "ann_id": 537733, "best_split": [2, 3], "split_score": 0.4473796335271219}
+{"sent": "waiter in back", "ann_id": 537733, "best_split": [2, 2], "split_score": 0.35757760192045207}
+{"sent": "woman", "ann_id": 533976, "best_split": [2, 1], "split_score": 0.31179754911493734}
+{"sent": "lady reaching for cake", "ann_id": 533976, "best_split": [1, 3], "split_score": 0.2882949995209845}
+{"sent": "woman", "ann_id": 533976, "best_split": [2, 1], "split_score": 0.31179754911493734}

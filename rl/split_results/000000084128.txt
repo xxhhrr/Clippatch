@@ -1,0 +1,9 @@
+{"sent": "man with jacket", "ann_id": 1301668, "best_split": [2, 1], "split_score": 0.15882682607290016}
+{"sent": "blue jacket", "ann_id": 1301668, "best_split": [2, 1], "split_score": 0.15882682607290016}
+{"sent": "blue jeans striped jacket", "ann_id": 1301668, "best_split": [3, 3], "split_score": 0.27248382054535997}
+{"sent": "girl", "ann_id": 1281225, "best_split": [2, 3], "split_score": 0.35952063911360843}
+{"sent": "girl in white and blue shirt", "ann_id": 1281225, "best_split": [1, 3], "split_score": 0.31351791529121}
+{"sent": "lady standing", "ann_id": 1281225, "best_split": [2, 3], "split_score": 0.35952063911360843}
+{"sent": "guy with beard playing game", "ann_id": 1260018, "best_split": [1, 5], "split_score": 0.41796077731671305}
+{"sent": "mustache guy", "ann_id": 1260018, "best_split": [1, 5], "split_score": 0.41796077731671305}
+{"sent": "man in jeans next to woman with stearing wheel", "ann_id": 1260018, "best_split": [2, 3], "split_score": 0.418405511769842}

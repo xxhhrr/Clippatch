@@ -1,0 +1,6 @@
+{"sent": "pizza slice by bottle", "ann_id": 1923515, "best_split": [2, 3], "split_score": 0.19516263551333088}
+{"sent": "bottle plate", "ann_id": 1923515, "best_split": [2, 3], "split_score": 0.19516263551333088}
+{"sent": "far cheese plate", "ann_id": 1923515, "best_split": [5, 1], "split_score": 0.4164290805045947}
+{"sent": "dish closest to us", "ann_id": 1077150, "best_split": [2, 1], "split_score": 0.8616448067755532}
+{"sent": "blurry food", "ann_id": 1077150, "best_split": [2, 1], "split_score": 0.8616448067755532}
+{"sent": "food", "ann_id": 1077150, "best_split": [2, 1], "split_score": 0.8616448067755532}

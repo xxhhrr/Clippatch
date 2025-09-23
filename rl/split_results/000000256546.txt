@@ -1,0 +1,10 @@
+{"sent": "large tomato piece at 700", "ann_id": 1923938, "best_split": [3, 2], "split_score": 0.4864337301887142}
+{"sent": "personpiece with 2 green things", "ann_id": 1923733, "best_split": [2, 3], "split_score": 0.817882249470795}
+{"sent": "600", "ann_id": 1923733, "best_split": [1, 2], "split_score": 0.16372391652719226}
+{"sent": "food at 12 o clock not red no olives", "ann_id": 1923100, "best_split": [2, 1], "split_score": 0.27869897958072787}
+{"sent": "12 0 clock", "ann_id": 1923100, "best_split": [2, 1], "split_score": 0.27869897958072787}
+{"sent": "the roundest whole tomato slice and it ajacent olive slice", "ann_id": 1570617, "best_split": [1, 2], "split_score": 0.47778981579949736}
+{"sent": "300", "ann_id": 1570617, "best_split": [1, 2], "split_score": 0.47778981579949736}
+{"sent": "the wedge with the raisin like looking things", "ann_id": 1077056, "best_split": [2, 2], "split_score": 0.6238839285216929}
+{"sent": "slice with bacon crumbles", "ann_id": 1077056, "best_split": [3, 2], "split_score": 0.4483192521617545}
+{"sent": "the slice with tiny brown things", "ann_id": 1077056, "best_split": [1, 2], "split_score": 0.31194196427328036}

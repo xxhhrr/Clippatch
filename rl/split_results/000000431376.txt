@@ -1,0 +1,6 @@
+{"sent": "d4", "ann_id": 167285, "best_split": [2, 3], "split_score": 0.4690140844795179}
+{"sent": "bus with d4", "ann_id": 167285, "best_split": [2, 1], "split_score": 0.3070866141636331}
+{"sent": "d4", "ann_id": 167285, "best_split": [2, 3], "split_score": 0.4690140844795179}
+{"sent": "bus yellow sign", "ann_id": 166746, "best_split": [1, 2], "split_score": 0.6264748086484982}
+{"sent": "not d4 bus", "ann_id": 166746, "best_split": [1, 2], "split_score": 0.6264748086484982}
+{"sent": "red bus with partial yellow upper sign", "ann_id": 166746, "best_split": [1, 2], "split_score": 0.6264748086484982}

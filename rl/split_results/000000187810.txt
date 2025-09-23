@@ -1,0 +1,6 @@
+{"sent": "close giraffe", "ann_id": 1413816, "best_split": [1, 3], "split_score": 0.42272906014141176}
+{"sent": "giraffe with head", "ann_id": 1413816, "best_split": [1, 3], "split_score": 0.42272906014141176}
+{"sent": "giraffe with butt facing us", "ann_id": 1413816, "best_split": [1, 3], "split_score": 0.42272906014141176}
+{"sent": "giraffe you cant see head", "ann_id": 595532, "best_split": [3, 3], "split_score": 0.3613673358164179}
+{"sent": "giraffe whose head is hidden", "ann_id": 595532, "best_split": [3, 3], "split_score": 0.3613673358164179}
+{"sent": "smaller giraffe", "ann_id": 595532, "best_split": [3, 3], "split_score": 0.3613673358164179}

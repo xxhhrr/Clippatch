@@ -1,0 +1,14 @@
+{"sent": "man in black sweater", "ann_id": 509215, "best_split": [3, 1], "split_score": 0.21758934827221998}
+{"sent": "man in black shirt", "ann_id": 509215, "best_split": [3, 1], "split_score": 0.21758934827221998}
+{"sent": "man with wii controller", "ann_id": 509215, "best_split": [2, 3], "split_score": 0.5469277514664871}
+{"sent": "man with both hands on his head", "ann_id": 452470, "best_split": [1, 2], "split_score": 0.43593182892394144}
+{"sent": "man in brown", "ann_id": 452470, "best_split": [2, 2], "split_score": 0.6543449614637391}
+{"sent": "bald man with glasses", "ann_id": 452470, "best_split": [1, 2], "split_score": 0.43593182892394144}
+{"sent": "lone person", "ann_id": 2160137, "best_split": [3, 1], "split_score": 0.20013802621511692}
+{"sent": "seated holding red plastic cup", "ann_id": 2160137, "best_split": [2, 3], "split_score": 0.619239689359762}
+{"sent": "sitting alone", "ann_id": 2160137, "best_split": [2, 2], "split_score": 0.4423459244218726}
+{"sent": "red couch near window", "ann_id": 117639, "best_split": [1, 3], "split_score": 0.3402136085239281}
+{"sent": "the red couch shes hogging to herself", "ann_id": 117639, "best_split": [2, 1], "split_score": 0.22959183672554243}
+{"sent": "couch everyone is on", "ann_id": 115180, "best_split": [2, 2], "split_score": 0.7033689399751515}
+{"sent": "red couch that the group is sitting on", "ann_id": 115180, "best_split": [2, 2], "split_score": 0.7033689399751515}
+{"sent": "red couch where 3 people", "ann_id": 115180, "best_split": [2, 2], "split_score": 0.7033689399751515}

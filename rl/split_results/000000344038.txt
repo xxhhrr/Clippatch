@@ -1,0 +1,6 @@
+{"sent": "can see more of the face", "ann_id": 2175394, "best_split": [3, 1], "split_score": 0.28311557062430104}
+{"sent": "giraffe not on wood", "ann_id": 2175394, "best_split": [2, 1], "split_score": 0.34228964843897247}
+{"sent": "animal by window", "ann_id": 2175394, "best_split": [3, 1], "split_score": 0.28311557062430104}
+{"sent": "giraffe with head resting on plank", "ann_id": 595834, "best_split": [1, 2], "split_score": 0.8081497293280419}
+{"sent": "close face", "ann_id": 595834, "best_split": [1, 2], "split_score": 0.8081497293280419}
+{"sent": "the giraffe with its neck on the fence", "ann_id": 595834, "best_split": [1, 2], "split_score": 0.8081497293280419}

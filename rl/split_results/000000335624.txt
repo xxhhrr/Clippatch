@@ -1,0 +1,6 @@
+{"sent": "brown and white animal laying down", "ann_id": 73810, "best_split": [2, 1], "split_score": 0.1688058035647}
+{"sent": "white back brown head laying down closest us", "ann_id": 73810, "best_split": [2, 3], "split_score": 0.40818621383018255}
+{"sent": "white animal laying down", "ann_id": 73810, "best_split": [2, 3], "split_score": 0.40818621383018255}
+{"sent": "cow eatting", "ann_id": 71754, "best_split": [3, 2], "split_score": 0.5114453891014188}
+{"sent": "large cow", "ann_id": 71754, "best_split": [3, 2], "split_score": 0.5114453891014188}
+{"sent": "standing", "ann_id": 71754, "best_split": [3, 2], "split_score": 0.5114453891014188}

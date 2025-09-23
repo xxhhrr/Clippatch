@@ -1,0 +1,32 @@
+{"sent": "upright vase on end", "ann_id": 1993516, "best_split": [3, 3], "split_score": 0.49266862162864095}
+{"sent": "darkest bowl", "ann_id": 1993516, "best_split": [2, 3], "split_score": 0.5675675674990869}
+{"sent": "biggest darkest pot", "ann_id": 1993516, "best_split": [2, 3], "split_score": 0.5675675674990869}
+{"sent": "fat open pot", "ann_id": 1877288, "best_split": [2, 3], "split_score": 0.5945945945228529}
+{"sent": "the round darker pot", "ann_id": 1877288, "best_split": [2, 3], "split_score": 0.5945945945228529}
+{"sent": "vase farthest from grass in painting on the end", "ann_id": 1877288, "best_split": [2, 3], "split_score": 0.5945945945228529}
+{"sent": "the tallest cup", "ann_id": 1668066, "best_split": [2, 3], "split_score": 0.32868247953670693}
+{"sent": "tallest", "ann_id": 1668066, "best_split": [2, 2], "split_score": 0.40210459180467917}
+{"sent": "talest piece", "ann_id": 1668066, "best_split": [2, 3], "split_score": 0.32868247953670693}
+{"sent": "white bowl noy upside down", "ann_id": 1152939, "best_split": [2, 2], "split_score": 0.3358850179397059}
+{"sent": "white vase not upside down", "ann_id": 1152939, "best_split": [2, 3], "split_score": 0.3783261802169178}
+{"sent": "middle 9pm", "ann_id": 1152939, "best_split": [2, 2], "split_score": 0.3358850179397059}
+{"sent": "number one vase", "ann_id": 1041283, "best_split": [3, 3], "split_score": 0.5008797653224516}
+{"sent": "bowls at 9 o clock", "ann_id": 1041283, "best_split": [2, 3], "split_score": 0.5743243242550284}
+{"sent": "lefty pot", "ann_id": 1041283, "best_split": [2, 3], "split_score": 0.5743243242550284}
+{"sent": "vase upright and bright white", "ann_id": 1041213, "best_split": [2, 3], "split_score": 0.3686436083304084}
+{"sent": "no 2", "ann_id": 1041213, "best_split": [1, 3], "split_score": 0.1941636685401083}
+{"sent": "smaller vase upright", "ann_id": 1041213, "best_split": [2, 3], "split_score": 0.3686436083304084}
+{"sent": "short bowl turned over", "ann_id": 718034, "best_split": [3, 1], "split_score": 0.19831025579686046}
+{"sent": "dish 3oclock", "ann_id": 718034, "best_split": [3, 1], "split_score": 0.19831025579686046}
+{"sent": "shortest one", "ann_id": 718034, "best_split": [3, 1], "split_score": 0.19831025579686046}
+{"sent": "smaller pot upside down", "ann_id": 683672, "best_split": [3, 1], "split_score": 0.1958568738114491}
+{"sent": "last ceramic", "ann_id": 683672, "best_split": [3, 1], "split_score": 0.1958568738114491}
+{"sent": "smallest cup", "ann_id": 683672, "best_split": [3, 1], "split_score": 0.1958568738114491}
+{"sent": "upside down on other bowl", "ann_id": 2217554, "best_split": [5, 1], "split_score": 0.20801961125827179}
+{"sent": "uspside down tall pot", "ann_id": 2217554, "best_split": [5, 1], "split_score": 0.20801961125827179}
+{"sent": "one between two other white ones tallest", "ann_id": 2217554, "best_split": [2, 2], "split_score": 0.3142538265055601}
+{"sent": "tallest object", "ann_id": 679838, "best_split": [2, 2], "split_score": 0.4182876275176748}
+{"sent": "tall one upside down", "ann_id": 679838, "best_split": [2, 2], "split_score": 0.4182876275176748}
+{"sent": "the tallest cup", "ann_id": 679838, "best_split": [2, 3], "split_score": 0.3310059985907163}
+{"sent": "the white cup narrow at base", "ann_id": 678957, "best_split": [2, 3], "split_score": 0.3690987124067491}
+{"sent": "middle 9pm", "ann_id": 678957, "best_split": [2, 2], "split_score": 0.33815665300895276}

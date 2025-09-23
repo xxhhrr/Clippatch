@@ -1,0 +1,5 @@
+{"sent": "bread thing closest to us", "ann_id": 1926790, "best_split": [1, 2], "split_score": 0.5180148105768294}
+{"sent": "muffin nearest to camera", "ann_id": 1926790, "best_split": [1, 2], "split_score": 0.5180148105768294}
+{"sent": "bun", "ann_id": 1926790, "best_split": [1, 2], "split_score": 0.5180148105768294}
+{"sent": "muffin", "ann_id": 1084979, "best_split": [2, 3], "split_score": 0.553374820422047}
+{"sent": "smaller biscuit", "ann_id": 1084979, "best_split": [2, 1], "split_score": 0.002288637587429704}

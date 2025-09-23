@@ -1,0 +1,6 @@
+{"sent": "person looking at baby", "ann_id": 1706718, "best_split": [5, 1], "split_score": 0.19521912348745787}
+{"sent": "looking at boy", "ann_id": 1706718, "best_split": [5, 1], "split_score": 0.19521912348745787}
+{"sent": "head of woman", "ann_id": 1706718, "best_split": [3, 3], "split_score": 0.5010956901933719}
+{"sent": "little girl", "ann_id": 432833, "best_split": [1, 2], "split_score": 0.5351562499786688}
+{"sent": "child", "ann_id": 432833, "best_split": [1, 2], "split_score": 0.5351562499786688}
+{"sent": "child in the bed", "ann_id": 432833, "best_split": [3, 3], "split_score": 0.3413284132599114}

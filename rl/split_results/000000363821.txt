@@ -1,0 +1,5 @@
+{"sent": "upright guy", "ann_id": 233103, "best_split": [1, 2], "split_score": 0.9153312788553416}
+{"sent": "standing guy", "ann_id": 233103, "best_split": [1, 2], "split_score": 0.9153312788553416}
+{"sent": "man upright", "ann_id": 233103, "best_split": [1, 2], "split_score": 0.9153312788553416}
+{"sent": "player on chair", "ann_id": 228027, "best_split": [2, 1], "split_score": 0.4458784616237798}
+{"sent": "person bending down", "ann_id": 228027, "best_split": [1, 2], "split_score": 0.6443428234015215}

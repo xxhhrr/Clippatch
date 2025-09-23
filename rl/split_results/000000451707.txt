@@ -1,0 +1,9 @@
+{"sent": "pink shirt", "ann_id": 438593, "best_split": [2, 2], "split_score": 0.8296296295669214}
+{"sent": "pink shirt girl", "ann_id": 438593, "best_split": [2, 2], "split_score": 0.8296296295669214}
+{"sent": "girl in pin", "ann_id": 438593, "best_split": [2, 2], "split_score": 0.8296296295669214}
+{"sent": "guy in black shirt and gloves", "ann_id": 2160900, "best_split": [3, 3], "split_score": 0.37578511287240607}
+{"sent": "man sitting with black shirt", "ann_id": 2160900, "best_split": [3, 2], "split_score": 0.525311299834131}
+{"sent": "black shirt with gloves on", "ann_id": 2160900, "best_split": [3, 3], "split_score": 0.37578511287240607}
+{"sent": "long sleeved man in gloves", "ann_id": 423902, "best_split": [1, 5], "split_score": 0.43201633803848744}
+{"sent": "man serving little girl", "ann_id": 423902, "best_split": [2, 1], "split_score": 0.08470016207180875}
+{"sent": "man in gray suit", "ann_id": 423902, "best_split": [1, 5], "split_score": 0.43201633803848744}

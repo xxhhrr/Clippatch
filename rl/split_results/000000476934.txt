@@ -1,0 +1,6 @@
+{"sent": "person not cutting cake", "ann_id": 508027, "best_split": [2, 1], "split_score": 0.46958705355271096}
+{"sent": "dark blue shirt", "ann_id": 508027, "best_split": [3, 1], "split_score": 0.664631640700638}
+{"sent": "blue shirt", "ann_id": 508027, "best_split": [3, 1], "split_score": 0.664631640700638}
+{"sent": "hands", "ann_id": 492754, "best_split": [2, 3], "split_score": 0.6700096770766244}
+{"sent": "hands cutting", "ann_id": 492754, "best_split": [2, 3], "split_score": 0.6700096770766244}
+{"sent": "hands cutting cake both hands highlighted", "ann_id": 492754, "best_split": [2, 3], "split_score": 0.6700096770766244}

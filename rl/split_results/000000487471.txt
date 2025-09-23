@@ -1,0 +1,6 @@
+{"sent": "sheep nearest camera", "ann_id": 65434, "best_split": [1, 2], "split_score": 0.638392857117411}
+{"sent": "close to us", "ann_id": 65434, "best_split": [2, 1], "split_score": 0.2991150442383339}
+{"sent": "close sheep", "ann_id": 65434, "best_split": [1, 2], "split_score": 0.638392857117411}
+{"sent": "white sheep partially in picture", "ann_id": 61204, "best_split": [3, 1], "split_score": 0.12052117263142617}
+{"sent": "white animal cant see entirely", "ann_id": 61204, "best_split": [3, 1], "split_score": 0.12052117263142617}
+{"sent": "white sheep can only see body", "ann_id": 61204, "best_split": [3, 1], "split_score": 0.12052117263142617}

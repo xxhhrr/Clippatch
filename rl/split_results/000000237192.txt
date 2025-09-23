@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 1724968, "best_split": [1, 5], "split_score": 0.4496770500817859}
+{"sent": "the dad", "ann_id": 1724968, "best_split": [1, 5], "split_score": 0.4496770500817859}
+{"sent": "kid less seen", "ann_id": 1724968, "best_split": [3, 1], "split_score": 0.23558542623499998}
+{"sent": "toddler", "ann_id": 460623, "best_split": [1, 3], "split_score": 0.5828767123002506}
+{"sent": "baby", "ann_id": 460623, "best_split": [1, 3], "split_score": 0.5828767123002506}
+{"sent": "kid", "ann_id": 460623, "best_split": [1, 3], "split_score": 0.5828767123002506}

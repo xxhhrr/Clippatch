@@ -1,0 +1,5 @@
+{"sent": "clear water glass", "ann_id": 675201, "best_split": [3, 3], "split_score": 0.5786995108533418}
+{"sent": "glass of water", "ann_id": 675201, "best_split": [3, 3], "split_score": 0.5786995108533418}
+{"sent": "glass with water", "ann_id": 675201, "best_split": [3, 3], "split_score": 0.5786995108533418}
+{"sent": "lemonade", "ann_id": 673295, "best_split": [3, 3], "split_score": 0.7458563534623867}
+{"sent": "glass with yellow drink in it", "ann_id": 673295, "best_split": [3, 3], "split_score": 0.7458563534623867}

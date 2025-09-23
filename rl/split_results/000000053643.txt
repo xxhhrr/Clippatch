@@ -1,0 +1,20 @@
+{"sent": "the wine glass near spoon", "ann_id": 662668, "best_split": [3, 2], "split_score": 0.24929911578075273}
+{"sent": "wine glass beside spoon", "ann_id": 662668, "best_split": [3, 2], "split_score": 0.24929911578075273}
+{"sent": "glass on paper closest to us", "ann_id": 662668, "best_split": [1, 5], "split_score": 0.33461850645955576}
+{"sent": "bottle with the letters ram", "ann_id": 2182267, "best_split": [3, 2], "split_score": 0.17507886433358733}
+{"sent": "ra", "ann_id": 2182267, "best_split": [1, 5], "split_score": 0.12425037480095105}
+{"sent": "ra", "ann_id": 2182267, "best_split": [1, 5], "split_score": 0.12425037480095105}
+{"sent": "crooked glass", "ann_id": 1873676, "best_split": [3, 2], "split_score": 0.24987209656708562}
+{"sent": "glass carafe", "ann_id": 1873676, "best_split": [1, 5], "split_score": 0.19623329281407453}
+{"sent": "tall glass in between the bottle and wine glass", "ann_id": 1873676, "best_split": [1, 5], "split_score": 0.19623329281407453}
+{"sent": "guy on bottle", "ann_id": 1488677, "best_split": [1, 5], "split_score": 0.3713474025597253}
+{"sent": "bottle 2 next to black wallet", "ann_id": 1488677, "best_split": [1, 5], "split_score": 0.3713474025597253}
+{"sent": "yellow bottle of beer near brown bottle and pen", "ann_id": 1488677, "best_split": [1, 5], "split_score": 0.3713474025597253}
+{"sent": "nearest black butter porter bottle", "ann_id": 1487627, "best_split": [2, 3], "split_score": 0.3927272726826446}
+{"sent": "beer closest to us next to black book", "ann_id": 1487627, "best_split": [2, 3], "split_score": 0.3927272726826446}
+{"sent": "black something beer at 7 o clock", "ann_id": 1487627, "best_split": [2, 3], "split_score": 0.3927272726826446}
+{"sent": "chair pushed out from main table", "ann_id": 377691, "best_split": [3, 3], "split_score": 0.4148689013583025}
+{"sent": "white cushion behind brown bottle close to gray shirt", "ann_id": 377691, "best_split": [3, 2], "split_score": 0.2828694274402727}
+{"sent": "empty chair at 10pm", "ann_id": 377691, "best_split": [3, 3], "split_score": 0.4148689013583025}
+{"sent": "chair closest to the edge of the picture", "ann_id": 376962, "best_split": [2, 3], "split_score": 0.32432432428519253}
+{"sent": "chair on edge of picture", "ann_id": 376962, "best_split": [2, 3], "split_score": 0.32432432428519253}

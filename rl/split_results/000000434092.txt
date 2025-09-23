@@ -1,0 +1,6 @@
+{"sent": "female", "ann_id": 506565, "best_split": [1, 3], "split_score": 0.36830357140635234}
+{"sent": "woman", "ann_id": 506565, "best_split": [1, 3], "split_score": 0.36830357140635234}
+{"sent": "girl", "ann_id": 506565, "best_split": [1, 3], "split_score": 0.36830357140635234}
+{"sent": "man holding small white thing", "ann_id": 454882, "best_split": [1, 2], "split_score": 0.3013392857022744}
+{"sent": "dude in coat", "ann_id": 454882, "best_split": [1, 5], "split_score": 0.44651162786989107}
+{"sent": "guy holding luggage handle", "ann_id": 454882, "best_split": [1, 2], "split_score": 0.3013392857022744}

@@ -1,0 +1,12 @@
+{"sent": "blue tie facing us", "ann_id": 1733088, "best_split": [2, 3], "split_score": 0.4300193049674204}
+{"sent": "suit and tie next to ring", "ann_id": 1733088, "best_split": [1, 3], "split_score": 0.21500965249668136}
+{"sent": "blue tie with vest and jacket", "ann_id": 1733088, "best_split": [2, 3], "split_score": 0.4300193049674204}
+{"sent": "girl face getting makeup applied", "ann_id": 467016, "best_split": [3, 3], "split_score": 0.41101848488383136}
+{"sent": "womans eyes being done", "ann_id": 467016, "best_split": [3, 3], "split_score": 0.41101848488383136}
+{"sent": "woman in last row", "ann_id": 467016, "best_split": [1, 2], "split_score": 0.09207589285347274}
+{"sent": "corsaige", "ann_id": 443260, "best_split": [2, 1], "split_score": 0.12464126275013387}
+{"sent": "gray suit with flower", "ann_id": 443260, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "gray suit with flower", "ann_id": 443260, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "female head near flowers and suit", "ann_id": 423245, "best_split": [3, 2], "split_score": 0.21202247188628962}
+{"sent": "profile of woman", "ann_id": 423245, "best_split": [3, 3], "split_score": 0.44291659119903803}
+{"sent": "women next to flower", "ann_id": 423245, "best_split": [3, 2], "split_score": 0.21202247188628962}

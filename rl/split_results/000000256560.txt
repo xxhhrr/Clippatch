@@ -1,0 +1,9 @@
+{"sent": "red", "ann_id": 139870, "best_split": [3, 3], "split_score": 0.6150895139681762}
+{"sent": "red car", "ann_id": 139870, "best_split": [3, 3], "split_score": 0.6150895139681762}
+{"sent": "red car", "ann_id": 139870, "best_split": [3, 3], "split_score": 0.6150895139681762}
+{"sent": "black car", "ann_id": 139210, "best_split": [3, 1], "split_score": 0.45896009040696634}
+{"sent": "car by motorcycle", "ann_id": 139210, "best_split": [3, 1], "split_score": 0.45896009040696634}
+{"sent": "car behind motorcycle", "ann_id": 139210, "best_split": [3, 1], "split_score": 0.45896009040696634}
+{"sent": "white car in other lot", "ann_id": 135231, "best_split": [3, 1], "split_score": 0.2533783783630925}
+{"sent": "white color car near red one", "ann_id": 135231, "best_split": [3, 3], "split_score": 0.7669831992755691}
+{"sent": "white car by red truck", "ann_id": 135231, "best_split": [3, 2], "split_score": 0.5067567566956133}

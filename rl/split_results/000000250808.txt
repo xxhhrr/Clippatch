@@ -1,0 +1,7 @@
+{"sent": "you cant turn that way", "ann_id": 410261, "best_split": [2, 2], "split_score": 0.4351881377204091}
+{"sent": "the signal with the arrow", "ann_id": 410261, "best_split": [3, 1], "split_score": 0.0890624227702732}
+{"sent": "red arrow", "ann_id": 410261, "best_split": [2, 3], "split_score": 0.6586631273336555}
+{"sent": "t", "ann_id": 410103, "best_split": [5, 1], "split_score": 0.1399587345134148}
+{"sent": "light with a t", "ann_id": 410103, "best_split": [3, 3], "split_score": 0.445783132457541}
+{"sent": "traffic light with red t", "ann_id": 410103, "best_split": [1, 3], "split_score": 0.20535714284475404}
+{"sent": "stoplight with t", "ann_id": 410103, "best_split": [1, 3], "split_score": 0.20535714284475404}

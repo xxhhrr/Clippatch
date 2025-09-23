@@ -1,0 +1,8 @@
+{"sent": "hidden person at 9", "ann_id": 496132, "best_split": [1, 5], "split_score": 0.5681818181241698}
+{"sent": "the sliver of a person shown does not have blue clothing", "ann_id": 496132, "best_split": [2, 1], "split_score": 0.09054726367837429}
+{"sent": "man in navy suit cut off", "ann_id": 476159, "best_split": [1, 2], "split_score": 0.28842474488646264}
+{"sent": "blue suit", "ann_id": 476159, "best_split": [1, 2], "split_score": 0.28842474488646264}
+{"sent": "arm rightly at edge", "ann_id": 476159, "best_split": [1, 2], "split_score": 0.28842474488646264}
+{"sent": "man with tie", "ann_id": 461980, "best_split": [1, 2], "split_score": 0.5138023901591945}
+{"sent": "man", "ann_id": 461980, "best_split": [1, 2], "split_score": 0.5138023901591945}
+{"sent": "suit", "ann_id": 461980, "best_split": [1, 2], "split_score": 0.5138023901591945}

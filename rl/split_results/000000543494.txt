@@ -1,0 +1,6 @@
+{"sent": "green teddy bear looks like cow sorta", "ann_id": 1161804, "best_split": [2, 3], "split_score": 0.399481753357862}
+{"sent": "green bear", "ann_id": 1161804, "best_split": [2, 2], "split_score": 0.22670276430416766}
+{"sent": "spotted bear", "ann_id": 1161804, "best_split": [5, 1], "split_score": 0.2086175345026936}
+{"sent": "bear", "ann_id": 1159813, "best_split": [3, 2], "split_score": 0.4697599260768975}
+{"sent": "pink bear", "ann_id": 1159813, "best_split": [3, 2], "split_score": 0.4697599260768975}
+{"sent": "red teddy bear", "ann_id": 1159813, "best_split": [1, 5], "split_score": 0.20346684616261637}

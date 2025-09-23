@@ -1,0 +1,9 @@
+{"sent": "red woman", "ann_id": 1726182, "best_split": [1, 2], "split_score": 0.6715959821160875}
+{"sent": "woman catching frisbee", "ann_id": 1726182, "best_split": [1, 2], "split_score": 0.6715959821160875}
+{"sent": "red shirt girl", "ann_id": 1726182, "best_split": [1, 2], "split_score": 0.6715959821160875}
+{"sent": "yellow shirt", "ann_id": 506639, "best_split": [1, 3], "split_score": 0.6750218594768276}
+{"sent": "yellow shirt", "ann_id": 506639, "best_split": [1, 3], "split_score": 0.6750218594768276}
+{"sent": "yellow woman", "ann_id": 506639, "best_split": [1, 3], "split_score": 0.6750218594768276}
+{"sent": "the red one that has no head visible or arms ether", "ann_id": 500333, "best_split": [2, 1], "split_score": 0.2879612825057486}
+{"sent": "legs only", "ann_id": 500333, "best_split": [1, 2], "split_score": 0.24630469778112452}
+{"sent": "u can only see his legs", "ann_id": 500333, "best_split": [1, 2], "split_score": 0.24630469778112452}

@@ -1,0 +1,9 @@
+{"sent": "person near clocks word", "ann_id": 2162558, "best_split": [3, 2], "split_score": 0.3099346623965543}
+{"sent": "man by words clocks", "ann_id": 2162558, "best_split": [3, 2], "split_score": 0.3099346623965543}
+{"sent": "man near the clock facing the 3", "ann_id": 2162558, "best_split": [3, 2], "split_score": 0.3099346623965543}
+{"sent": "pushed out of frame", "ann_id": 1758676, "best_split": [1, 2], "split_score": 0.15043048468788145}
+{"sent": "person half in picture at 9 o clock", "ann_id": 1758676, "best_split": [3, 1], "split_score": 0.14107883816636319}
+{"sent": "half person next to orange vest", "ann_id": 1758676, "best_split": [3, 2], "split_score": 0.2635658914452581}
+{"sent": "orange jacket", "ann_id": 442877, "best_split": [1, 2], "split_score": 0.4802384296867672}
+{"sent": "person blocking clock", "ann_id": 442877, "best_split": [3, 1], "split_score": 0.32067949383252387}
+{"sent": "safety vest", "ann_id": 442877, "best_split": [1, 2], "split_score": 0.4802384296867672}

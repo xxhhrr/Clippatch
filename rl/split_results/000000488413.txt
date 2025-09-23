@@ -1,0 +1,9 @@
+{"sent": "person offscreen", "ann_id": 473604, "best_split": [1, 3], "split_score": 0.5764358107760355}
+{"sent": "partial person", "ann_id": 473604, "best_split": [1, 3], "split_score": 0.5764358107760355}
+{"sent": "gray shirt o ut of frame", "ann_id": 473604, "best_split": [1, 3], "split_score": 0.5764358107760355}
+{"sent": "woman", "ann_id": 462907, "best_split": [3, 2], "split_score": 0.49455583085570654}
+{"sent": "woman", "ann_id": 462907, "best_split": [3, 2], "split_score": 0.49455583085570654}
+{"sent": "woman", "ann_id": 462907, "best_split": [3, 2], "split_score": 0.49455583085570654}
+{"sent": "little asian kid wearing the angelos", "ann_id": 445107, "best_split": [3, 3], "split_score": 0.5589466162540628}
+{"sent": "baby", "ann_id": 445107, "best_split": [3, 3], "split_score": 0.5589466162540628}
+{"sent": "child with hat", "ann_id": 445107, "best_split": [3, 3], "split_score": 0.5589466162540628}

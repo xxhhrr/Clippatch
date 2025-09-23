@@ -1,0 +1,14 @@
+{"sent": "red background with black skull", "ann_id": 1732988, "best_split": [3, 3], "split_score": 0.8944614827901025}
+{"sent": "red", "ann_id": 1732988, "best_split": [3, 3], "split_score": 0.8944614827901025}
+{"sent": "skull and bones", "ann_id": 1732988, "best_split": [3, 3], "split_score": 0.8944614827901025}
+{"sent": "blue jeans", "ann_id": 214864, "best_split": [1, 2], "split_score": 0.5418990116316618}
+{"sent": "guy in jeans", "ann_id": 214864, "best_split": [1, 2], "split_score": 0.5418990116316618}
+{"sent": "white shirt", "ann_id": 185768, "best_split": [3, 2], "split_score": 0.30948712301238307}
+{"sent": "white shirt", "ann_id": 185768, "best_split": [3, 2], "split_score": 0.30948712301238307}
+{"sent": "man in white", "ann_id": 185768, "best_split": [1, 5], "split_score": 0.2915787454161156}
+{"sent": "black car", "ann_id": 145105, "best_split": [3, 3], "split_score": 0.5327999999391085}
+{"sent": "black piece of car next to dog", "ann_id": 145105, "best_split": [3, 3], "split_score": 0.5327999999391085}
+{"sent": "black car door", "ann_id": 145105, "best_split": [3, 3], "split_score": 0.5327999999391085}
+{"sent": "white car", "ann_id": 144900, "best_split": [2, 3], "split_score": 0.8068281937437414}
+{"sent": "car white", "ann_id": 144900, "best_split": [2, 3], "split_score": 0.8068281937437414}
+{"sent": "white car", "ann_id": 144900, "best_split": [2, 3], "split_score": 0.8068281937437414}

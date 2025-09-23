@@ -1,0 +1,9 @@
+{"sent": "woam with blue beads", "ann_id": 2205900, "best_split": [2, 2], "split_score": 0.6225695482633435}
+{"sent": "woman in blue necklace", "ann_id": 2205900, "best_split": [2, 2], "split_score": 0.6225695482633435}
+{"sent": "blue necklace", "ann_id": 2205900, "best_split": [2, 2], "split_score": 0.6225695482633435}
+{"sent": "red shirt", "ann_id": 2205031, "best_split": [2, 3], "split_score": 0.4172932330403075}
+{"sent": "pink shirt turned away", "ann_id": 2205031, "best_split": [2, 1], "split_score": 0.15415509345566566}
+{"sent": "pink shirt", "ann_id": 2205031, "best_split": [2, 1], "split_score": 0.15415509345566566}
+{"sent": "man", "ann_id": 1714574, "best_split": [3, 3], "split_score": 0.6169574699268051}
+{"sent": "the mans head", "ann_id": 1714574, "best_split": [3, 3], "split_score": 0.6169574699268051}
+{"sent": "black suit faux hawk dude", "ann_id": 1714574, "best_split": [3, 3], "split_score": 0.6169574699268051}

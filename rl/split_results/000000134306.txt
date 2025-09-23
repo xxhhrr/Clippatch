@@ -1,0 +1,9 @@
+{"sent": "animal whose legs are mostly hidden", "ann_id": 68144, "best_split": [2, 3], "split_score": 0.18178705921073374}
+{"sent": "sheep in back", "ann_id": 68144, "best_split": [3, 3], "split_score": 0.6585218701872516}
+{"sent": "back animal", "ann_id": 68144, "best_split": [3, 2], "split_score": 0.5867616639178623}
+{"sent": "tilted head sheep", "ann_id": 66326, "best_split": [1, 2], "split_score": 0.3300759668394311}
+{"sent": "sheeped between", "ann_id": 66326, "best_split": [1, 2], "split_score": 0.3300759668394311}
+{"sent": "tilted head", "ann_id": 66326, "best_split": [2, 3], "split_score": 0.4426436399573136}
+{"sent": "sheep closest to green", "ann_id": 65461, "best_split": [3, 2], "split_score": 0.4926327278013072}
+{"sent": "sheep closest to wire of fence", "ann_id": 65461, "best_split": [1, 3], "split_score": 0.44267984852531134}
+{"sent": "sheep closes to fince", "ann_id": 65461, "best_split": [3, 2], "split_score": 0.4926327278013072}

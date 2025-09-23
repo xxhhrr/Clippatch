@@ -1,0 +1,6 @@
+{"sent": "not fridge next to door but after", "ann_id": 333409, "best_split": [3, 3], "split_score": 0.27595818810523376}
+{"sent": "not the closest but the next fridge", "ann_id": 333409, "best_split": [3, 3], "split_score": 0.27595818810523376}
+{"sent": "next to closest fridge", "ann_id": 333409, "best_split": [3, 3], "split_score": 0.27595818810523376}
+{"sent": "fridge closest to door", "ann_id": 333261, "best_split": [3, 2], "split_score": 0.3054711245869006}
+{"sent": "refrig near door", "ann_id": 333261, "best_split": [1, 2], "split_score": 0.14899553570834678}
+{"sent": "white fridge closest to camera", "ann_id": 333261, "best_split": [3, 2], "split_score": 0.3054711245869006}

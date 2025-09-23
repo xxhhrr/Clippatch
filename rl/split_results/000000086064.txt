@@ -1,0 +1,6 @@
+{"sent": "the main guy", "ann_id": 1727559, "best_split": [1, 3], "split_score": 0.5648633836778806}
+{"sent": "man in black", "ann_id": 1727559, "best_split": [1, 2], "split_score": 0.4831309454475536}
+{"sent": "man taking a bite", "ann_id": 1727559, "best_split": [1, 3], "split_score": 0.5648633836778806}
+{"sent": "cut off man", "ann_id": 475567, "best_split": [1, 2], "split_score": 0.35778061223063695}
+{"sent": "man obstructed", "ann_id": 475567, "best_split": [1, 2], "split_score": 0.35778061223063695}
+{"sent": "man not eating", "ann_id": 475567, "best_split": [1, 2], "split_score": 0.35778061223063695}

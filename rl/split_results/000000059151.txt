@@ -1,0 +1,6 @@
+{"sent": "forefront giraffe", "ann_id": 1413883, "best_split": [2, 1], "split_score": 0.8427803778525643}
+{"sent": "giraffe back", "ann_id": 1413883, "best_split": [2, 1], "split_score": 0.8427803778525643}
+{"sent": "back of a giraffe", "ann_id": 1413883, "best_split": [2, 1], "split_score": 0.8427803778525643}
+{"sent": "tall giraffe", "ann_id": 596100, "best_split": [1, 2], "split_score": 0.35833796166487303}
+{"sent": "giraffe head", "ann_id": 596100, "best_split": [1, 2], "split_score": 0.35833796166487303}
+{"sent": "giraffe face", "ann_id": 596100, "best_split": [1, 2], "split_score": 0.35833796166487303}

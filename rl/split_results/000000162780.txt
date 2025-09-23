@@ -1,0 +1,6 @@
+{"sent": "arm holding toothbrush", "ann_id": 505049, "best_split": [1, 2], "split_score": 0.9340322065954229}
+{"sent": "arm", "ann_id": 505049, "best_split": [1, 2], "split_score": 0.9340322065954229}
+{"sent": "mans arm", "ann_id": 505049, "best_split": [1, 2], "split_score": 0.9340322065954229}
+{"sent": "baby", "ann_id": 471261, "best_split": [1, 2], "split_score": 0.6548315084337506}
+{"sent": "child", "ann_id": 471261, "best_split": [1, 2], "split_score": 0.6548315084337506}
+{"sent": "kdi", "ann_id": 471261, "best_split": [2, 1], "split_score": 0.4201199625876315}

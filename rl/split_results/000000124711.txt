@@ -1,0 +1,6 @@
+{"sent": "half sandwich closest to catsup", "ann_id": 1553290, "best_split": [1, 5], "split_score": 0.28710615225213276}
+{"sent": "half of sandwich partially hidden", "ann_id": 1553290, "best_split": [1, 5], "split_score": 0.28710615225213276}
+{"sent": "smaller part ofsandwich", "ann_id": 1553290, "best_split": [1, 5], "split_score": 0.28710615225213276}
+{"sent": "sandwhich next to fries not next to ketchup", "ann_id": 312536, "best_split": [1, 2], "split_score": 0.5608258928347885}
+{"sent": "closer sandwich", "ann_id": 312536, "best_split": [1, 2], "split_score": 0.5608258928347885}
+{"sent": "the closest half sandwich", "ann_id": 312536, "best_split": [1, 2], "split_score": 0.5608258928347885}

@@ -1,0 +1,6 @@
+{"sent": "next motorcycle", "ann_id": 1792287, "best_split": [2, 2], "split_score": 0.4802384632015722}
+{"sent": "red light", "ann_id": 1792287, "best_split": [1, 2], "split_score": 0.29721140858436434}
+{"sent": "motorcycle with bright red light", "ann_id": 1792287, "best_split": [2, 2], "split_score": 0.4802384632015722}
+{"sent": "full bike", "ann_id": 1360362, "best_split": [2, 3], "split_score": 0.6338093904010259}
+{"sent": "motorcycle nearest the harley davidson cycle cover", "ann_id": 1360362, "best_split": [2, 3], "split_score": 0.6338093904010259}
+{"sent": "foremost bike", "ann_id": 1360362, "best_split": [2, 3], "split_score": 0.6338093904010259}

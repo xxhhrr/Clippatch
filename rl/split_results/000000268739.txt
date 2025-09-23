@@ -1,0 +1,5 @@
+{"sent": "red and black ball next to the blue and white one", "ann_id": 1462446, "best_split": [1, 2], "split_score": 0.28412544061370715}
+{"sent": "black soccer ball", "ann_id": 1462446, "best_split": [1, 2], "split_score": 0.28412544061370715}
+{"sent": "ball", "ann_id": 1461598, "best_split": [3, 2], "split_score": 0.29729729726142645}
+{"sent": "ball being kicked", "ann_id": 1461598, "best_split": [3, 2], "split_score": 0.29729729726142645}
+{"sent": "soccer ball being kicked", "ann_id": 1461598, "best_split": [3, 2], "split_score": 0.29729729726142645}

@@ -1,0 +1,9 @@
+{"sent": "lady bending over", "ann_id": 2151118, "best_split": [3, 2], "split_score": 0.2358113508957023}
+{"sent": "shearing sheep", "ann_id": 2151118, "best_split": [3, 3], "split_score": 0.396667640982656}
+{"sent": "white shirt and jeans bent over", "ann_id": 2151118, "best_split": [3, 3], "split_score": 0.396667640982656}
+{"sent": "brown hair brown coat", "ann_id": 219242, "best_split": [2, 3], "split_score": 0.8464473055738617}
+{"sent": "bronw blanket girl", "ann_id": 219242, "best_split": [2, 1], "split_score": 0.286989795906928}
+{"sent": "woman wearing a brown jacket", "ann_id": 219242, "best_split": [2, 3], "split_score": 0.8464473055738617}
+{"sent": "man standing in the background", "ann_id": 209393, "best_split": [2, 3], "split_score": 0.46443514639099454}
+{"sent": "man in blue", "ann_id": 209393, "best_split": [2, 3], "split_score": 0.46443514639099454}
+{"sent": "black shirt", "ann_id": 209393, "best_split": [1, 3], "split_score": 0.2812499999830327}

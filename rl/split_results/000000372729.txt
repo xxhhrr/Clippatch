@@ -1,0 +1,12 @@
+{"sent": "girl holding baby", "ann_id": 491800, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "girl holding child but not any of child", "ann_id": 491800, "best_split": [3, 2], "split_score": 0.4716981131774797}
+{"sent": "girl smiling holding baby", "ann_id": 491800, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "dog blue", "ann_id": 481121, "best_split": [1, 3], "split_score": 0.6740426343328703}
+{"sent": "blues clues", "ann_id": 481121, "best_split": [1, 3], "split_score": 0.6740426343328703}
+{"sent": "girl with her eyes wide open", "ann_id": 481121, "best_split": [1, 3], "split_score": 0.6740426343328703}
+{"sent": "girl with pink pants", "ann_id": 459132, "best_split": [1, 2], "split_score": 0.607740752526796}
+{"sent": "pink shorts", "ann_id": 459132, "best_split": [1, 3], "split_score": 0.7562362030487728}
+{"sent": "girl in pink", "ann_id": 459132, "best_split": [1, 2], "split_score": 0.607740752526796}
+{"sent": "the baby", "ann_id": 457167, "best_split": [3, 2], "split_score": 0.6106526631085284}
+{"sent": "small baby", "ann_id": 457167, "best_split": [3, 2], "split_score": 0.6106526631085284}
+{"sent": "baby", "ann_id": 457167, "best_split": [3, 2], "split_score": 0.6106526631085284}

@@ -1,0 +1,10 @@
+{"sent": "cow farthest back by sheep side", "ann_id": 76349, "best_split": [3, 2], "split_score": 0.5130406074188643}
+{"sent": "end cow", "ann_id": 76349, "best_split": [2, 2], "split_score": 0.6612488048347982}
+{"sent": "cow between sheep", "ann_id": 74931, "best_split": [1, 2], "split_score": 0.39545080842518693}
+{"sent": "cow behind sheep", "ann_id": 74931, "best_split": [1, 2], "split_score": 0.39545080842518693}
+{"sent": "cow next to white sheeps side", "ann_id": 74931, "best_split": [1, 2], "split_score": 0.39545080842518693}
+{"sent": "cow number 2 not side of goat", "ann_id": 73654, "best_split": [2, 1], "split_score": 0.43478954079899595}
+{"sent": "10 through 12 o clock", "ann_id": 73654, "best_split": [1, 2], "split_score": 0.43478954079899595}
+{"sent": "cow across from white sheept", "ann_id": 73138, "best_split": [2, 1], "split_score": 0.1863186318579456}
+{"sent": "closest cow", "ann_id": 73138, "best_split": [1, 5], "split_score": 0.4097948932393368}
+{"sent": "closest cow", "ann_id": 73138, "best_split": [1, 5], "split_score": 0.4097948932393368}

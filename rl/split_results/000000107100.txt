@@ -1,0 +1,6 @@
+{"sent": "cat licking itself", "ann_id": 52799, "best_split": [2, 2], "split_score": 0.534351687351023}
+{"sent": "cat with head down", "ann_id": 52799, "best_split": [2, 2], "split_score": 0.534351687351023}
+{"sent": "kitten cleaning", "ann_id": 52799, "best_split": [2, 2], "split_score": 0.534351687351023}
+{"sent": "the kitty with his head up", "ann_id": 51904, "best_split": [1, 5], "split_score": 0.5837111670374717}
+{"sent": "cat on edge", "ann_id": 51904, "best_split": [1, 5], "split_score": 0.5837111670374717}
+{"sent": "more white cat", "ann_id": 51904, "best_split": [1, 5], "split_score": 0.5837111670374717}

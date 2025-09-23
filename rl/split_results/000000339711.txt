@@ -1,0 +1,5 @@
+{"sent": "red pink orange umbrella", "ann_id": 284850, "best_split": [3, 3], "split_score": 0.5203328254400172}
+{"sent": "umbrella with yellow", "ann_id": 284850, "best_split": [3, 3], "split_score": 0.5203328254400172}
+{"sent": "umbrella with pink facing us", "ann_id": 279721, "best_split": [5, 1], "split_score": 0.2023243045202851}
+{"sent": "umbrella blue purple pink red", "ann_id": 279721, "best_split": [5, 1], "split_score": 0.2023243045202851}
+{"sent": "the umbrella with pink and purple facing", "ann_id": 279721, "best_split": [5, 1], "split_score": 0.2023243045202851}

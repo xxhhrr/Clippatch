@@ -1,0 +1,10 @@
+{"sent": "fourth cooler", "ann_id": 1983737, "best_split": [2, 1], "split_score": 0.09915865384242943}
+{"sent": "fridge woman looking at", "ann_id": 1983737, "best_split": [1, 3], "split_score": 0.2519305019153034}
+{"sent": "the wall freezer one closer than the farthest one away", "ann_id": 1983737, "best_split": [1, 5], "split_score": 0.39900299098713826}
+{"sent": "next door", "ann_id": 1983730, "best_split": [2, 2], "split_score": 0.28074141047238127}
+{"sent": "fridge 2", "ann_id": 1983730, "best_split": [1, 5], "split_score": 0.6877323419493298}
+{"sent": "window with brightest light", "ann_id": 1983700, "best_split": [1, 5], "split_score": 0.5527337913999867}
+{"sent": "third refrigerator door", "ann_id": 1983700, "best_split": [1, 5], "split_score": 0.5527337913999867}
+{"sent": "third fridge", "ann_id": 1983700, "best_split": [2, 2], "split_score": 0.1789860680999106}
+{"sent": "closest beverage fridge", "ann_id": 1983565, "best_split": [1, 3], "split_score": 0.8610038609519182}
+{"sent": "closest wine cooler", "ann_id": 1983565, "best_split": [1, 3], "split_score": 0.8610038609519182}

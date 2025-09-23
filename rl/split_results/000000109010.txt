@@ -1,0 +1,6 @@
+{"sent": "the taller one", "ann_id": 459073, "best_split": [1, 3], "split_score": 0.45394650150039706}
+{"sent": "priest", "ann_id": 459073, "best_split": [1, 2], "split_score": 0.708684927927149}
+{"sent": "black robe", "ann_id": 459073, "best_split": [1, 2], "split_score": 0.708684927927149}
+{"sent": "gray suit", "ann_id": 440215, "best_split": [1, 2], "split_score": 0.6930803571152312}
+{"sent": "guy in suit", "ann_id": 440215, "best_split": [1, 2], "split_score": 0.6930803571152312}
+{"sent": "gray suit", "ann_id": 440215, "best_split": [1, 2], "split_score": 0.6930803571152312}

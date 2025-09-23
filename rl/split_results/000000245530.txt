@@ -1,0 +1,12 @@
+{"sent": "dude in yellow shirt standing straight up", "ann_id": 1223235, "best_split": [1, 5], "split_score": 0.44724025969488224}
+{"sent": "yellow no 2", "ann_id": 1223235, "best_split": [1, 5], "split_score": 0.44724025969488224}
+{"sent": "yellow shirt far back", "ann_id": 1223235, "best_split": [1, 5], "split_score": 0.44724025969488224}
+{"sent": "bright blue shirt", "ann_id": 1717766, "best_split": [3, 3], "split_score": 0.3336135095641771}
+{"sent": "light blue shirt", "ann_id": 1717766, "best_split": [2, 1], "split_score": 0.21460872983960516}
+{"sent": "blue shirt red hat", "ann_id": 1717766, "best_split": [1, 3], "split_score": 0.7225506756320855}
+{"sent": "white hat woman", "ann_id": 1278033, "best_split": [1, 3], "split_score": 0.7723817567101604}
+{"sent": "man in white shirt and white cap", "ann_id": 1278033, "best_split": [1, 3], "split_score": 0.7723817567101604}
+{"sent": "white shirt white cap", "ann_id": 1278033, "best_split": [1, 3], "split_score": 0.7723817567101604}
+{"sent": "man with black shirt", "ann_id": 1235359, "best_split": [1, 3], "split_score": 0.2054169202588724}
+{"sent": "click black nike shirt and submit", "ann_id": 1235359, "best_split": [3, 1], "split_score": 0.18689268438051057}
+{"sent": "black shirt", "ann_id": 1235359, "best_split": [1, 5], "split_score": 0.655267512358737}

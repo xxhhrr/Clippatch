@@ -1,0 +1,6 @@
+{"sent": "clock face that is nearest the pole", "ann_id": 341043, "best_split": [3, 2], "split_score": 0.2272727272458247}
+{"sent": "clock not facing you", "ann_id": 341043, "best_split": [3, 2], "split_score": 0.2272727272458247}
+{"sent": "clock face that is towards the sun", "ann_id": 341043, "best_split": [3, 2], "split_score": 0.2272727272458247}
+{"sent": "clock face facing us", "ann_id": 340908, "best_split": [3, 3], "split_score": 0.33473338196955194}
+{"sent": "small clockface", "ann_id": 340908, "best_split": [3, 3], "split_score": 0.33473338196955194}
+{"sent": "clock face facing us nearest to e wacker", "ann_id": 340908, "best_split": [3, 3], "split_score": 0.33473338196955194}

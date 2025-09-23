@@ -1,0 +1,14 @@
+{"sent": "police", "ann_id": 1692159, "best_split": [1, 3], "split_score": 0.2871621621448382}
+{"sent": "cop", "ann_id": 1692159, "best_split": [1, 3], "split_score": 0.2871621621448382}
+{"sent": "officer", "ann_id": 1692159, "best_split": [1, 3], "split_score": 0.2871621621448382}
+{"sent": "black guy", "ann_id": 514461, "best_split": [1, 2], "split_score": 0.3501275510064522}
+{"sent": "man in shorts and back to camera", "ann_id": 514461, "best_split": [1, 3], "split_score": 0.5299227798908106}
+{"sent": "man in blue shorts", "ann_id": 514461, "best_split": [1, 3], "split_score": 0.5299227798908106}
+{"sent": "no shoes", "ann_id": 508951, "best_split": [1, 5], "split_score": 0.5390624999453062}
+{"sent": "slumped person in black blouse and jean skirt", "ann_id": 508951, "best_split": [1, 5], "split_score": 0.5390624999453062}
+{"sent": "white shirt by pole", "ann_id": 477034, "best_split": [3, 3], "split_score": 0.23204104899771363}
+{"sent": "black guy in white", "ann_id": 477034, "best_split": [3, 3], "split_score": 0.23204104899771363}
+{"sent": "white teeshirt and shorts", "ann_id": 477034, "best_split": [3, 3], "split_score": 0.23204104899771363}
+{"sent": "black shirt fire hydrant", "ann_id": 464921, "best_split": [1, 5], "split_score": 0.3617571059097677}
+{"sent": "boy in black closet fire hyrant", "ann_id": 464921, "best_split": [3, 2], "split_score": 0.1785522788044189}
+{"sent": "kid in black shirt facing hydrant", "ann_id": 464921, "best_split": [1, 5], "split_score": 0.3617571059097677}

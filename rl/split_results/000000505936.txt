@@ -1,0 +1,6 @@
+{"sent": "person in brown jacket behind fence", "ann_id": 491724, "best_split": [3, 1], "split_score": 0.197501419636712}
+{"sent": "guy in cream sweatshirt bending over", "ann_id": 491724, "best_split": [3, 1], "split_score": 0.197501419636712}
+{"sent": "guy leaning down wearing tan", "ann_id": 491724, "best_split": [1, 3], "split_score": 0.032915360499955165}
+{"sent": "batter", "ann_id": 462610, "best_split": [1, 3], "split_score": 0.616361537167394}
+{"sent": "batting", "ann_id": 462610, "best_split": [1, 3], "split_score": 0.616361537167394}
+{"sent": "batter", "ann_id": 462610, "best_split": [1, 3], "split_score": 0.616361537167394}

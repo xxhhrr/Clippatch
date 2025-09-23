@@ -1,0 +1,6 @@
+{"sent": "baseball player swinging bat", "ann_id": 2156840, "best_split": [1, 2], "split_score": 0.6838021338269432}
+{"sent": "green batter", "ann_id": 2156840, "best_split": [1, 2], "split_score": 0.6838021338269432}
+{"sent": "batter", "ann_id": 2156840, "best_split": [1, 2], "split_score": 0.6838021338269432}
+{"sent": "catcher", "ann_id": 1205169, "best_split": [1, 2], "split_score": 0.17649872448276074}
+{"sent": "catcher", "ann_id": 1205169, "best_split": [1, 2], "split_score": 0.17649872448276074}
+{"sent": "catchers body", "ann_id": 1205169, "best_split": [2, 3], "split_score": 0.5192353643346194}

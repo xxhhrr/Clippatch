@@ -1,0 +1,4 @@
+{"sent": "odd side", "ann_id": 448425, "best_split": [1, 2], "split_score": 0.31640624998738814}
+{"sent": "girl at 9 pm", "ann_id": 448425, "best_split": [1, 3], "split_score": 0.47888513510624486}
+{"sent": "woman whos racket is between two women", "ann_id": 440521, "best_split": [1, 3], "split_score": 0.208642940936222}
+{"sent": "girl at 3", "ann_id": 440521, "best_split": [1, 3], "split_score": 0.208642940936222}

@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 1721677, "best_split": [1, 3], "split_score": 0.15878801065338694}
+{"sent": "light blue shirt", "ann_id": 1721677, "best_split": [3, 1], "split_score": 0.1339295219773273}
+{"sent": "sorts boy", "ann_id": 1721677, "best_split": [1, 5], "split_score": 0.47950487008121906}
+{"sent": "black shirt golfer", "ann_id": 467213, "best_split": [1, 5], "split_score": 0.49394617101149485}
+{"sent": "black shirt", "ann_id": 467213, "best_split": [1, 5], "split_score": 0.49394617101149485}
+{"sent": "man hitting ball", "ann_id": 467213, "best_split": [1, 2], "split_score": 0.3793048469236565}
+{"sent": "red shirt", "ann_id": 463930, "best_split": [1, 5], "split_score": 0.6236056820837443}
+{"sent": "blond red shirt", "ann_id": 463930, "best_split": [1, 5], "split_score": 0.6236056820837443}
+{"sent": "red shirt", "ann_id": 463930, "best_split": [1, 5], "split_score": 0.6236056820837443}

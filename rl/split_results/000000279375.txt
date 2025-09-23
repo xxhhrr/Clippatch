@@ -1,0 +1,5 @@
+{"sent": "pot with thermometer", "ann_id": 1532158, "best_split": [3, 2], "split_score": 0.40666666661825396}
+{"sent": "pan by paper towel", "ann_id": 1532158, "best_split": [3, 2], "split_score": 0.40666666661825396}
+{"sent": "item with the thermometer in it", "ann_id": 1532158, "best_split": [3, 2], "split_score": 0.40666666661825396}
+{"sent": "pot with wire in it", "ann_id": 716940, "best_split": [3, 2], "split_score": 0.3422818791536095}
+{"sent": "pot with ice cubes", "ann_id": 716940, "best_split": [3, 3], "split_score": 0.48881789128703973}

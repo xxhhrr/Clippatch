@@ -1,0 +1,11 @@
+{"sent": "man facing away behind girl with brown sweater", "ann_id": 1230475, "best_split": [1, 5], "split_score": 0.3013392856837115}
+{"sent": "blad man off to the side behind female", "ann_id": 1230475, "best_split": [3, 3], "split_score": 0.1872364351718813}
+{"sent": "guy with glasses", "ann_id": 475489, "best_split": [1, 5], "split_score": 0.5253382859826653}
+{"sent": "guy in solid gray", "ann_id": 475489, "best_split": [2, 1], "split_score": 0.25679718577582283}
+{"sent": "man in background with gray shirt", "ann_id": 475489, "best_split": [1, 5], "split_score": 0.5253382859826653}
+{"sent": "plaid shirt", "ann_id": 461973, "best_split": [1, 3], "split_score": 0.44945355189063946}
+{"sent": "man in plaid shirt", "ann_id": 461973, "best_split": [1, 3], "split_score": 0.44945355189063946}
+{"sent": "guy with beard", "ann_id": 461973, "best_split": [1, 3], "split_score": 0.44945355189063946}
+{"sent": "woman", "ann_id": 431465, "best_split": [1, 2], "split_score": 0.7315884618120102}
+{"sent": "woman", "ann_id": 431465, "best_split": [1, 2], "split_score": 0.7315884618120102}
+{"sent": "woman in brown sweater", "ann_id": 431465, "best_split": [1, 2], "split_score": 0.7315884618120102}

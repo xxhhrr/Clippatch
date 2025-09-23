@@ -1,0 +1,5 @@
+{"sent": "close roof", "ann_id": 243944, "best_split": [3, 2], "split_score": 0.6126237623288503}
+{"sent": "green truck closest to camera", "ann_id": 243944, "best_split": [3, 1], "split_score": 0.633916554473199}
+{"sent": "nearest light green van only partially seen", "ann_id": 243944, "best_split": [3, 1], "split_score": 0.633916554473199}
+{"sent": "car driving toward us near blu bus", "ann_id": 143313, "best_split": [2, 3], "split_score": 0.4357715790212173}
+{"sent": "bmw by stop light", "ann_id": 143313, "best_split": [2, 3], "split_score": 0.4357715790212173}

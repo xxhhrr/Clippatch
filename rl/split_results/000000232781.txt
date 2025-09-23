@@ -1,0 +1,12 @@
+{"sent": "salad lettuce", "ann_id": 1040910, "best_split": [2, 2], "split_score": 0.8848852040110902}
+{"sent": "salad", "ann_id": 1040910, "best_split": [2, 2], "split_score": 0.8848852040110902}
+{"sent": "salad", "ann_id": 1040910, "best_split": [2, 2], "split_score": 0.8848852040110902}
+{"sent": "dried prunes or dung", "ann_id": 1040642, "best_split": [3, 3], "split_score": 0.49815824362779454}
+{"sent": "dark food in box", "ann_id": 1040642, "best_split": [3, 3], "split_score": 0.49815824362779454}
+{"sent": "black stuff", "ann_id": 1040642, "best_split": [3, 3], "split_score": 0.49815824362779454}
+{"sent": "pinapple", "ann_id": 1040494, "best_split": [2, 3], "split_score": 0.36959553692273406}
+{"sent": "pineapple slices", "ann_id": 1040494, "best_split": [2, 3], "split_score": 0.36959553692273406}
+{"sent": "pineapple", "ann_id": 1040494, "best_split": [2, 3], "split_score": 0.36959553692273406}
+{"sent": "cucumbers", "ann_id": 1040481, "best_split": [3, 3], "split_score": 0.5387755101412507}
+{"sent": "cucumbers", "ann_id": 1040481, "best_split": [3, 3], "split_score": 0.5387755101412507}
+{"sent": "cucumbers and beans slot", "ann_id": 1040481, "best_split": [3, 3], "split_score": 0.5387755101412507}

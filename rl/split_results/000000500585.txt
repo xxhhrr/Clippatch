@@ -1,0 +1,5 @@
+{"sent": "hot dog with onions", "ann_id": 1068335, "best_split": [1, 5], "split_score": 0.6822098735054997}
+{"sent": "dog with everything on it", "ann_id": 1068335, "best_split": [1, 5], "split_score": 0.6822098735054997}
+{"sent": "chilli cheese dog", "ann_id": 1067793, "best_split": [1, 5], "split_score": 0.513712933279012}
+{"sent": "no onions", "ann_id": 1067793, "best_split": [1, 2], "split_score": 0.47393176018519084}
+{"sent": "no onions hot dog", "ann_id": 1067793, "best_split": [1, 2], "split_score": 0.47393176018519084}

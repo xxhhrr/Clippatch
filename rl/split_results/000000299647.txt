@@ -1,0 +1,6 @@
+{"sent": "sleeping cat", "ann_id": 1816683, "best_split": [3, 2], "split_score": 0.32676116377206}
+{"sent": "cat that is asleep", "ann_id": 1816683, "best_split": [3, 2], "split_score": 0.32676116377206}
+{"sent": "sleeping cat", "ann_id": 1816683, "best_split": [3, 2], "split_score": 0.32676116377206}
+{"sent": "cat that is awake", "ann_id": 51223, "best_split": [3, 2], "split_score": 0.5318275153614089}
+{"sent": "darker cat", "ann_id": 51223, "best_split": [3, 2], "split_score": 0.5318275153614089}
+{"sent": "woke cat", "ann_id": 51223, "best_split": [3, 2], "split_score": 0.5318275153614089}

@@ -1,0 +1,6 @@
+{"sent": "zebra with nose on ground full picture of zebra", "ann_id": 591195, "best_split": [2, 3], "split_score": 0.4728295478165114}
+{"sent": "whole zebra eating", "ann_id": 591195, "best_split": [2, 3], "split_score": 0.4728295478165114}
+{"sent": "zebra eating", "ann_id": 591195, "best_split": [2, 3], "split_score": 0.4728295478165114}
+{"sent": "laying down", "ann_id": 590655, "best_split": [3, 2], "split_score": 0.33390631711066754}
+{"sent": "zebra laying down", "ann_id": 590655, "best_split": [3, 2], "split_score": 0.33390631711066754}
+{"sent": "zebra laying down", "ann_id": 590655, "best_split": [3, 2], "split_score": 0.33390631711066754}

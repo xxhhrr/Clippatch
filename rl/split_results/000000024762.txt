@@ -1,0 +1,6 @@
+{"sent": "dog in back", "ann_id": 16996, "best_split": [3, 3], "split_score": 0.5950413222277742}
+{"sent": "hidden dog", "ann_id": 16996, "best_split": [3, 1], "split_score": 0.2807719054079293}
+{"sent": "dog farthest", "ann_id": 16996, "best_split": [5, 1], "split_score": 0.3117004946007419}
+{"sent": "see whole dog head", "ann_id": 12721, "best_split": [2, 2], "split_score": 0.3905949568537826}
+{"sent": "doggie with brown on mouth", "ann_id": 12721, "best_split": [2, 2], "split_score": 0.3905949568537826}
+{"sent": "closer black dog", "ann_id": 12721, "best_split": [2, 3], "split_score": 0.42691603981656734}

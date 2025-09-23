@@ -1,0 +1,6 @@
+{"sent": "hooters taxi", "ann_id": 2229721, "best_split": [3, 1], "split_score": 0.4121987777924479}
+{"sent": "taxi with black wheels", "ann_id": 2229721, "best_split": [3, 1], "split_score": 0.4121987777924479}
+{"sent": "hooters", "ann_id": 2229721, "best_split": [3, 2], "split_score": 0.7893574739689382}
+{"sent": "taxi closest to the stop sign", "ann_id": 2229714, "best_split": [3, 2], "split_score": 0.49469964660949306}
+{"sent": "car with red sign on roof", "ann_id": 2229714, "best_split": [3, 2], "split_score": 0.49469964660949306}
+{"sent": "closest car", "ann_id": 2229714, "best_split": [3, 1], "split_score": 0.4701684547565334}

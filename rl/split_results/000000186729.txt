@@ -1,0 +1,6 @@
+{"sent": "bird below plate", "ann_id": 39886, "best_split": [5, 1], "split_score": 0.17240750864111468}
+{"sent": "dead thing below plate", "ann_id": 39886, "best_split": [2, 3], "split_score": 0.3631756756318562}
+{"sent": "bird next to gray plate", "ann_id": 39886, "best_split": [2, 3], "split_score": 0.3631756756318562}
+{"sent": "white stomach", "ann_id": 39535, "best_split": [5, 1], "split_score": 0.19713261647139682}
+{"sent": "center bird", "ann_id": 39535, "best_split": [2, 3], "split_score": 0.48978665450637915}
+{"sent": "dead bird with white underbelly very very white straight line from gypsum", "ann_id": 39535, "best_split": [2, 3], "split_score": 0.48978665450637915}

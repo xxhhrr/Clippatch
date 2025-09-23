@@ -1,0 +1,6 @@
+{"sent": "person wearing white shirt", "ann_id": 2176948, "best_split": [1, 5], "split_score": 0.5823863635772741}
+{"sent": "person in white", "ann_id": 2176948, "best_split": [1, 5], "split_score": 0.5823863635772741}
+{"sent": "dark haired person", "ann_id": 2176948, "best_split": [1, 5], "split_score": 0.5823863635772741}
+{"sent": "striped shirt", "ann_id": 2176929, "best_split": [2, 3], "split_score": 0.403418803380492}
+{"sent": "black stripe lady", "ann_id": 2176929, "best_split": [2, 2], "split_score": 0.28729879613909787}
+{"sent": "woman in dark striped shirt", "ann_id": 2176929, "best_split": [3, 3], "split_score": 0.5744736841349376}

@@ -1,0 +1,5 @@
+{"sent": "smaller zebra", "ann_id": 589637, "best_split": [3, 3], "split_score": 0.3041105045890486}
+{"sent": "baby", "ann_id": 589637, "best_split": [3, 2], "split_score": 0.392843438181807}
+{"sent": "baby", "ann_id": 589637, "best_split": [3, 2], "split_score": 0.392843438181807}
+{"sent": "big zebra", "ann_id": 588781, "best_split": [1, 2], "split_score": 0.44516129030792756}
+{"sent": "larger zebra", "ann_id": 588781, "best_split": [1, 2], "split_score": 0.44516129030792756}

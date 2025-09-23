@@ -1,0 +1,5 @@
+{"sent": "red jacket with logo on red arm", "ann_id": 1220520, "best_split": [1, 5], "split_score": 0.2422023868977833}
+{"sent": "closest skier", "ann_id": 1220520, "best_split": [1, 5], "split_score": 0.2422023868977833}
+{"sent": "guy with yellow backpack", "ann_id": 1285368, "best_split": [2, 3], "split_score": 0.1355421686619407}
+{"sent": "man with dark glasses small bag", "ann_id": 1285368, "best_split": [2, 3], "split_score": 0.1355421686619407}
+{"sent": "righty man", "ann_id": 1285368, "best_split": [2, 1], "split_score": 0.05250875145666173}

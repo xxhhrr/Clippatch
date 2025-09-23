@@ -1,0 +1,6 @@
+{"sent": "zebra bent down", "ann_id": 1822420, "best_split": [3, 2], "split_score": 0.2888117952852546}
+{"sent": "zebra at 3", "ann_id": 1822420, "best_split": [3, 2], "split_score": 0.2888117952852546}
+{"sent": "partialzebra", "ann_id": 1822420, "best_split": [3, 2], "split_score": 0.2888117952852546}
+{"sent": "zebra", "ann_id": 592994, "best_split": [1, 3], "split_score": 0.7302631578572027}
+{"sent": "zebra facing camera", "ann_id": 592994, "best_split": [1, 3], "split_score": 0.7302631578572027}
+{"sent": "whole zebra", "ann_id": 592994, "best_split": [1, 3], "split_score": 0.7302631578572027}

@@ -1,0 +1,10 @@
+{"sent": "the dark mug", "ann_id": 684370, "best_split": [3, 3], "split_score": 0.6578908662071054}
+{"sent": "black cup", "ann_id": 684370, "best_split": [3, 3], "split_score": 0.6578908662071054}
+{"sent": "black", "ann_id": 684370, "best_split": [3, 3], "split_score": 0.6578908662071054}
+{"sent": "black mug", "ann_id": 684370, "best_split": [3, 3], "split_score": 0.6578908662071054}
+{"sent": "mickey mouse", "ann_id": 684302, "best_split": [3, 2], "split_score": 0.38538102639861266}
+{"sent": "mickey", "ann_id": 684302, "best_split": [3, 2], "split_score": 0.38538102639861266}
+{"sent": "mickey mouse", "ann_id": 684302, "best_split": [3, 2], "split_score": 0.38538102639861266}
+{"sent": "cup with arches", "ann_id": 679921, "best_split": [1, 5], "split_score": 0.308384528830286}
+{"sent": "white much no mickey mouse on it", "ann_id": 679921, "best_split": [5, 1], "split_score": 0.23325992983987767}
+{"sent": "third cup", "ann_id": 679921, "best_split": [3, 2], "split_score": 0.4040194757687745}

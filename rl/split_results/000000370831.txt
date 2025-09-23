@@ -1,0 +1,6 @@
+{"sent": "couch with white blanket", "ann_id": 389726, "best_split": [1, 5], "split_score": 0.4525760057844005}
+{"sent": "black couch", "ann_id": 389726, "best_split": [2, 2], "split_score": 0.2966620305774227}
+{"sent": "couch near window", "ann_id": 389726, "best_split": [3, 3], "split_score": 0.48473967677805335}
+{"sent": "brown couch", "ann_id": 99094, "best_split": [2, 3], "split_score": 0.5755663597211579}
+{"sent": "brown couch", "ann_id": 99094, "best_split": [2, 3], "split_score": 0.5755663597211579}
+{"sent": "couch with green pillow on it", "ann_id": 99094, "best_split": [1, 5], "split_score": 0.5223380153581931}

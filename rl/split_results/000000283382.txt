@@ -1,0 +1,6 @@
+{"sent": "white stool closest to fridge", "ann_id": 1944330, "best_split": [1, 5], "split_score": 0.2536429444153762}
+{"sent": "smaller looking stool", "ann_id": 1944330, "best_split": [3, 3], "split_score": 0.6208144795256444}
+{"sent": "stool near the refrigerator", "ann_id": 1944330, "best_split": [1, 5], "split_score": 0.2536429444153762}
+{"sent": "stool closest to us", "ann_id": 1942126, "best_split": [3, 2], "split_score": 0.3521801628710853}
+{"sent": "closest seat to us", "ann_id": 1942126, "best_split": [3, 2], "split_score": 0.3521801628710853}
+{"sent": "stool closest to us", "ann_id": 1942126, "best_split": [3, 2], "split_score": 0.3521801628710853}

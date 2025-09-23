@@ -1,0 +1,9 @@
+{"sent": "woman on side", "ann_id": 531591, "best_split": [1, 2], "split_score": 0.5301339285502976}
+{"sent": "the sleepy lady", "ann_id": 531591, "best_split": [2, 1], "split_score": 0.20233024304051833}
+{"sent": "man", "ann_id": 529826, "best_split": [1, 5], "split_score": 0.5511056130701171}
+{"sent": "man in back", "ann_id": 529826, "best_split": [1, 5], "split_score": 0.5511056130701171}
+{"sent": "man", "ann_id": 529826, "best_split": [1, 5], "split_score": 0.5511056130701171}
+{"sent": "mean man", "ann_id": 529826, "best_split": [1, 3], "split_score": 0.19519814351146028}
+{"sent": "speaker", "ann_id": 493421, "best_split": [1, 3], "split_score": 0.5418085155742289}
+{"sent": "woman white shirt", "ann_id": 493421, "best_split": [1, 3], "split_score": 0.5418085155742289}
+{"sent": "woman eating", "ann_id": 493421, "best_split": [1, 3], "split_score": 0.5418085155742289}

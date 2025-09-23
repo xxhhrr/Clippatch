@@ -1,0 +1,5 @@
+{"sent": "woman number 2", "ann_id": 487693, "best_split": [1, 2], "split_score": 0.7989875637436628}
+{"sent": "girl 2", "ann_id": 487693, "best_split": [1, 2], "split_score": 0.7989875637436628}
+{"sent": "person whose u is more covered on shirt", "ann_id": 487693, "best_split": [1, 5], "split_score": 0.45030799823202655}
+{"sent": "girl in picture 1", "ann_id": 483645, "best_split": [1, 2], "split_score": 0.8619260203738072}
+{"sent": "number 1 pic woman", "ann_id": 483645, "best_split": [2, 2], "split_score": 0.4502546689112795}

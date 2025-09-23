@@ -1,0 +1,6 @@
+{"sent": "sorry animal closest to us", "ann_id": 369730, "best_split": [2, 1], "split_score": 0.7644498185951132}
+{"sent": "closest cow", "ann_id": 369730, "best_split": [3, 1], "split_score": 0.3556298773576802}
+{"sent": "far out horns", "ann_id": 278470, "best_split": [2, 2], "split_score": 0.49107142853228064}
+{"sent": "bull farthest away", "ann_id": 278470, "best_split": [2, 2], "split_score": 0.49107142853228064}
+{"sent": "fartest animal", "ann_id": 278470, "best_split": [3, 1], "split_score": 0.14967637539696216}
+{"sent": "cow that farthest out close to us", "ann_id": 278001, "best_split": [3, 1], "split_score": 0.544858699329892}

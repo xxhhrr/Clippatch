@@ -1,0 +1,3 @@
+{"sent": "3 lights facing up", "ann_id": 1804342, "best_split": [1, 3], "split_score": 0.20614140925397312}
+{"sent": "stoplight facing sky", "ann_id": 1804342, "best_split": [3, 3], "split_score": 0.4133820724072819}
+{"sent": "traffic light that still has three covers", "ann_id": 1804342, "best_split": [3, 3], "split_score": 0.4133820724072819}

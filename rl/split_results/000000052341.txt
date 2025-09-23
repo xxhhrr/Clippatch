@@ -1,0 +1,12 @@
+{"sent": "glasses lady", "ann_id": 238076, "best_split": [1, 5], "split_score": 0.4508778482955848}
+{"sent": "blue on hat", "ann_id": 238076, "best_split": [1, 5], "split_score": 0.4508778482955848}
+{"sent": "the woman with blue in her red hat near 9 o clock", "ann_id": 238076, "best_split": [3, 3], "split_score": 0.361151781312695}
+{"sent": "red coat", "ann_id": 198260, "best_split": [1, 5], "split_score": 0.7023853210364784}
+{"sent": "lady in door", "ann_id": 198260, "best_split": [1, 5], "split_score": 0.7023853210364784}
+{"sent": "lady in red boarding bus", "ann_id": 198260, "best_split": [1, 5], "split_score": 0.7023853210364784}
+{"sent": "white shirt", "ann_id": 198006, "best_split": [1, 5], "split_score": 0.4670514024649677}
+{"sent": "security guard", "ann_id": 198006, "best_split": [1, 5], "split_score": 0.4670514024649677}
+{"sent": "white shirt", "ann_id": 198006, "best_split": [1, 5], "split_score": 0.4670514024649677}
+{"sent": "woman without glasses", "ann_id": 190934, "best_split": [2, 2], "split_score": 0.4638091386666795}
+{"sent": "woman facing camera without glasses", "ann_id": 190934, "best_split": [1, 2], "split_score": 0.3657525510058294}
+{"sent": "woman smiling and patting his arm", "ann_id": 190934, "best_split": [2, 2], "split_score": 0.4638091386666795}

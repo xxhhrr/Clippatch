@@ -1,0 +1,5 @@
+{"sent": "bus behind tree", "ann_id": 2171631, "best_split": [3, 2], "split_score": 0.6226213383982658}
+{"sent": "blue banner", "ann_id": 2171631, "best_split": [3, 2], "split_score": 0.6226213383982658}
+{"sent": "white sign bus", "ann_id": 164702, "best_split": [5, 1], "split_score": 0.3223713447407011}
+{"sent": "smaller bus", "ann_id": 164702, "best_split": [5, 1], "split_score": 0.3223713447407011}
+{"sent": "end of bus", "ann_id": 164702, "best_split": [5, 1], "split_score": 0.3223713447407011}

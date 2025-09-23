@@ -1,0 +1,6 @@
+{"sent": "closest light", "ann_id": 408107, "best_split": [2, 3], "split_score": 0.5189655171854562}
+{"sent": "street light with no pole", "ann_id": 408107, "best_split": [1, 5], "split_score": 0.5278969956566624}
+{"sent": "stoplight most visible one", "ann_id": 408107, "best_split": [2, 3], "split_score": 0.5189655171854562}
+{"sent": "traffic light farthest from edge of picture", "ann_id": 402899, "best_split": [2, 2], "split_score": 0.5766590388603647}
+{"sent": "traffic light pointing to the clouds", "ann_id": 402899, "best_split": [2, 2], "split_score": 0.5766590388603647}
+{"sent": "stoplight", "ann_id": 402899, "best_split": [2, 2], "split_score": 0.5766590388603647}

@@ -1,0 +1,9 @@
+{"sent": "red couch", "ann_id": 1949943, "best_split": [2, 2], "split_score": 0.7300609249009927}
+{"sent": "reddest couch", "ann_id": 1949943, "best_split": [2, 2], "split_score": 0.7300609249009927}
+{"sent": "red sofa", "ann_id": 1949943, "best_split": [2, 2], "split_score": 0.7300609249009927}
+{"sent": "brown leather chair", "ann_id": 114792, "best_split": [3, 3], "split_score": 0.7227722771310179}
+{"sent": "chair", "ann_id": 114792, "best_split": [2, 1], "split_score": 0.29496173468212045}
+{"sent": "arm chair", "ann_id": 114792, "best_split": [2, 1], "split_score": 0.29496173468212045}
+{"sent": "leather couch", "ann_id": 98574, "best_split": [3, 2], "split_score": 0.4446091144456642}
+{"sent": "brown leather couch below clock", "ann_id": 98574, "best_split": [1, 2], "split_score": 0.2295430393111605}
+{"sent": "leather sofa", "ann_id": 98574, "best_split": [3, 2], "split_score": 0.4446091144456642}

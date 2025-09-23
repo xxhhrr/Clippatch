@@ -1,0 +1,7 @@
+{"sent": "chair with a napkin over the back", "ann_id": 381116, "best_split": [3, 3], "split_score": 0.4967129290546543}
+{"sent": "white napkin on chair back", "ann_id": 381116, "best_split": [3, 3], "split_score": 0.4967129290546543}
+{"sent": "chair near the edge of picture", "ann_id": 2125232, "best_split": [1, 5], "split_score": 0.26352395669788214}
+{"sent": "chair closest to us", "ann_id": 2125232, "best_split": [3, 3], "split_score": 0.5566290927613832}
+{"sent": "black chair next to one with jacket on it", "ann_id": 2121048, "best_split": [3, 1], "split_score": 0.21122740246127333}
+{"sent": "full back of chair with nothing on it", "ann_id": 2121048, "best_split": [3, 2], "split_score": 0.416510318900503}
+{"sent": "chair 7pm", "ann_id": 2121048, "best_split": [1, 2], "split_score": 0.0}

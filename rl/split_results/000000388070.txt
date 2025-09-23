@@ -1,0 +1,5 @@
+{"sent": "no worriespersons hand that is not closestany skin", "ann_id": 463945, "best_split": [1, 2], "split_score": 0.5557751032747491}
+{"sent": "blurry arm not person holding the phone", "ann_id": 463945, "best_split": [2, 1], "split_score": 0.47773417504526244}
+{"sent": "woman holding phone", "ann_id": 429673, "best_split": [2, 1], "split_score": 0.4555035640780272}
+{"sent": "the hand", "ann_id": 429673, "best_split": [1, 2], "split_score": 0.6005289732964528}
+{"sent": "hand", "ann_id": 429673, "best_split": [1, 2], "split_score": 0.6005289732964528}

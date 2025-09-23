@@ -1,0 +1,5 @@
+{"sent": "man getting tattooed", "ann_id": 2206177, "best_split": [2, 1], "split_score": 0.5826703074106052}
+{"sent": "man getting a tattoo", "ann_id": 2206177, "best_split": [2, 1], "split_score": 0.5826703074106052}
+{"sent": "tattoo artist", "ann_id": 433655, "best_split": [2, 2], "split_score": 0.4872894333470682}
+{"sent": "beard", "ann_id": 433655, "best_split": [2, 1], "split_score": 0.2742346938666201}
+{"sent": "man giving tattoo", "ann_id": 433655, "best_split": [1, 5], "split_score": 0.29215565161425605}

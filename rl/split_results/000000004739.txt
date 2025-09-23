@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 224840, "best_split": [3, 2], "split_score": 0.24360960493381006}
+{"sent": "man with white shirt", "ann_id": 224840, "best_split": [3, 2], "split_score": 0.24360960493381006}
+{"sent": "shop owner in white shirt", "ann_id": 224840, "best_split": [3, 2], "split_score": 0.24360960493381006}
+{"sent": "checked shirt", "ann_id": 195854, "best_split": [3, 3], "split_score": 0.44765006974783034}
+{"sent": "man with bike", "ann_id": 195854, "best_split": [1, 3], "split_score": 0.4203667953414354}
+{"sent": "red plaid shirt", "ann_id": 195854, "best_split": [3, 3], "split_score": 0.44765006974783034}

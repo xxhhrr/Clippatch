@@ -1,0 +1,7 @@
+{"sent": "the cat under the other cat", "ann_id": 51340, "best_split": [5, 1], "split_score": 0.44789804954169726}
+{"sent": "lower cat", "ann_id": 51340, "best_split": [1, 3], "split_score": 0.2430987987132582}
+{"sent": "cat in reflection", "ann_id": 51340, "best_split": [5, 1], "split_score": 0.44789804954169726}
+{"sent": "the cat at 6 o clock", "ann_id": 51340, "best_split": [1, 3], "split_score": 0.2430987987132582}
+{"sent": "real cat", "ann_id": 48593, "best_split": [3, 1], "split_score": 0.37386875029059546}
+{"sent": "cat with ribbon", "ann_id": 48593, "best_split": [3, 1], "split_score": 0.37386875029059546}
+{"sent": "the rightside up cat", "ann_id": 48593, "best_split": [3, 1], "split_score": 0.37386875029059546}

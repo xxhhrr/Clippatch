@@ -1,0 +1,6 @@
+{"sent": "arm", "ann_id": 1748473, "best_split": [3, 2], "split_score": 0.5458202949769981}
+{"sent": "hand", "ann_id": 1748473, "best_split": [2, 3], "split_score": 0.289817232348954}
+{"sent": "arm", "ann_id": 1748473, "best_split": [3, 2], "split_score": 0.5458202949769981}
+{"sent": "woman with short hair", "ann_id": 435032, "best_split": [1, 2], "split_score": 0.6392697703826822}
+{"sent": "womans face", "ann_id": 435032, "best_split": [1, 2], "split_score": 0.6392697703826822}
+{"sent": "lady open mouth", "ann_id": 435032, "best_split": [1, 2], "split_score": 0.6392697703826822}

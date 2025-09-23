@@ -1,0 +1,6 @@
+{"sent": "close zebra", "ann_id": 2175337, "best_split": [2, 3], "split_score": 0.4874299149495903}
+{"sent": "closest one", "ann_id": 2175337, "best_split": [3, 1], "split_score": 0.24576954068061194}
+{"sent": "nearest zeeb", "ann_id": 2175337, "best_split": [2, 3], "split_score": 0.4874299149495903}
+{"sent": "zebra facing the other way from others", "ann_id": 591367, "best_split": [3, 1], "split_score": 0.2939252336276913}
+{"sent": "zibra facing other way", "ann_id": 591367, "best_split": [3, 1], "split_score": 0.2939252336276913}
+{"sent": "zebra at 9 ocklock", "ann_id": 591367, "best_split": [3, 1], "split_score": 0.2939252336276913}

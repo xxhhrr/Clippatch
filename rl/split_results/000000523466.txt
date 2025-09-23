@@ -1,0 +1,6 @@
+{"sent": "sandwich on other sandwich", "ann_id": 310727, "best_split": [3, 3], "split_score": 0.7917871600937265}
+{"sent": "sandwich leaning on other", "ann_id": 310727, "best_split": [3, 3], "split_score": 0.7917871600937265}
+{"sent": "upper sammich", "ann_id": 310727, "best_split": [3, 3], "split_score": 0.7917871600937265}
+{"sent": "sandwich laying flat", "ann_id": 308309, "best_split": [2, 2], "split_score": 0.42757313748504244}
+{"sent": "sandwich closer to pastrie", "ann_id": 308309, "best_split": [2, 2], "split_score": 0.42757313748504244}
+{"sent": "sammich touching the cup", "ann_id": 308309, "best_split": [2, 2], "split_score": 0.42757313748504244}

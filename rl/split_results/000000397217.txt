@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 528730, "best_split": [1, 2], "split_score": 0.5014225838865168}
+{"sent": "man in tie", "ann_id": 528730, "best_split": [1, 2], "split_score": 0.5014225838865168}
+{"sent": "the man", "ann_id": 528730, "best_split": [1, 2], "split_score": 0.5014225838865168}
+{"sent": "girl", "ann_id": 524857, "best_split": [2, 3], "split_score": 0.4327716026861983}
+{"sent": "yellow", "ann_id": 524857, "best_split": [3, 3], "split_score": 0.5786193671406257}
+{"sent": "woman in yellow", "ann_id": 524857, "best_split": [3, 3], "split_score": 0.5786193671406257}

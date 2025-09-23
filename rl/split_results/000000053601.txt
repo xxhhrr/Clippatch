@@ -1,0 +1,6 @@
+{"sent": "boy in blue shirt", "ann_id": 487895, "best_split": [1, 2], "split_score": 0.8534757652721031}
+{"sent": "person in black shirt", "ann_id": 487895, "best_split": [1, 2], "split_score": 0.8534757652721031}
+{"sent": "in memory of", "ann_id": 487895, "best_split": [1, 2], "split_score": 0.8534757652721031}
+{"sent": "shirtless", "ann_id": 473114, "best_split": [1, 3], "split_score": 0.5405417367203442}
+{"sent": "shirtless boy", "ann_id": 473114, "best_split": [1, 3], "split_score": 0.5405417367203442}
+{"sent": "boy with no shirt", "ann_id": 473114, "best_split": [1, 3], "split_score": 0.5405417367203442}

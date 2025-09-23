@@ -1,0 +1,6 @@
+{"sent": "guy on wheelchair", "ann_id": 1263294, "best_split": [1, 2], "split_score": 0.454896454880488}
+{"sent": "man in wheelchair", "ann_id": 1263294, "best_split": [1, 2], "split_score": 0.454896454880488}
+{"sent": "man in blue shirt", "ann_id": 1263294, "best_split": [1, 5], "split_score": 0.37338920899039346}
+{"sent": "guy with the tie", "ann_id": 1727613, "best_split": [1, 3], "split_score": 0.6612647614814546}
+{"sent": "man standing", "ann_id": 1727613, "best_split": [1, 3], "split_score": 0.6612647614814546}
+{"sent": "person with a tie", "ann_id": 1727613, "best_split": [1, 3], "split_score": 0.6612647614814546}

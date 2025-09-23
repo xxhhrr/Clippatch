@@ -1,0 +1,5 @@
+{"sent": "highest pizza", "ann_id": 1074318, "best_split": [3, 3], "split_score": 0.39053254431624296}
+{"sent": "pizza on highest stack of plates", "ann_id": 1074318, "best_split": [3, 3], "split_score": 0.39053254431624296}
+{"sent": "the pizza that has black olives on it and by a set of plates that has no pizza on it", "ann_id": 1074318, "best_split": [3, 3], "split_score": 0.39053254431624296}
+{"sent": "pizza on shorter stack", "ann_id": 1070852, "best_split": [2, 2], "split_score": 0.2797766749162704}
+{"sent": "small height plate pizza", "ann_id": 1070852, "best_split": [2, 2], "split_score": 0.2797766749162704}

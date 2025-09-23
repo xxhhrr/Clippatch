@@ -1,0 +1,7 @@
+{"sent": "glass bigger", "ann_id": 683572, "best_split": [2, 3], "split_score": 0.740987983902538}
+{"sent": "orange juice glass", "ann_id": 683572, "best_split": [2, 3], "split_score": 0.740987983902538}
+{"sent": "glass behind oval plate not near red cup", "ann_id": 681634, "best_split": [2, 2], "split_score": 0.20971041861742915}
+{"sent": "fartest glass from ketchup", "ann_id": 681634, "best_split": [2, 1], "split_score": 0.10553619514867986}
+{"sent": "glass nearest ketchup", "ann_id": 679509, "best_split": [3, 3], "split_score": 0.3439649780575414}
+{"sent": "empty glass by ketchup", "ann_id": 679509, "best_split": [3, 3], "split_score": 0.3439649780575414}
+{"sent": "glass near eggs", "ann_id": 679509, "best_split": [3, 3], "split_score": 0.3439649780575414}

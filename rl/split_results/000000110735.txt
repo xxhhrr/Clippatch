@@ -1,0 +1,6 @@
+{"sent": "silverish vehicle not the one closest to us and not the two white vehicles", "ann_id": 2051972, "best_split": [5, 1], "split_score": 0.25349452207654943}
+{"sent": "silver truck on passenger side", "ann_id": 2051972, "best_split": [5, 1], "split_score": 0.25349452207654943}
+{"sent": "gray car", "ann_id": 2051972, "best_split": [5, 1], "split_score": 0.25349452207654943}
+{"sent": "the white van with the open door", "ann_id": 1797630, "best_split": [2, 3], "split_score": 0.508928571367166}
+{"sent": "white van", "ann_id": 1797630, "best_split": [2, 3], "split_score": 0.508928571367166}
+{"sent": "open door van", "ann_id": 1797630, "best_split": [2, 3], "split_score": 0.508928571367166}

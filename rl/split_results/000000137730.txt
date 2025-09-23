@@ -1,0 +1,5 @@
+{"sent": "zebra closest to us", "ann_id": 593344, "best_split": [3, 2], "split_score": 0.45090074174753614}
+{"sent": "zebra 3 o clock", "ann_id": 593344, "best_split": [3, 2], "split_score": 0.45090074174753614}
+{"sent": "zebra you can see more of", "ann_id": 593344, "best_split": [3, 2], "split_score": 0.45090074174753614}
+{"sent": "zebra with hidden tail", "ann_id": 591445, "best_split": [1, 5], "split_score": 0.3942720763409489}
+{"sent": "zebra with face more in profile", "ann_id": 591445, "best_split": [1, 5], "split_score": 0.3942720763409489}

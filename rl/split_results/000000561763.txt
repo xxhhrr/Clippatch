@@ -1,0 +1,5 @@
+{"sent": "arm feeding animal", "ann_id": 1680504, "best_split": [3, 1], "split_score": 0.4129887948587702}
+{"sent": "arm touching", "ann_id": 1680504, "best_split": [3, 2], "split_score": 0.47497879555849293}
+{"sent": "child being held", "ann_id": 433408, "best_split": [3, 2], "split_score": 0.493809294059028}
+{"sent": "child in blue jeans", "ann_id": 433408, "best_split": [3, 2], "split_score": 0.493809294059028}
+{"sent": "child in blue", "ann_id": 433408, "best_split": [3, 2], "split_score": 0.493809294059028}

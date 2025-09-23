@@ -1,0 +1,11 @@
+{"sent": "blazed donut by the corner end of the box", "ann_id": 1081112, "best_split": [3, 2], "split_score": 0.4543782192370881}
+{"sent": "glazed tan closest to box corner", "ann_id": 1081112, "best_split": [3, 2], "split_score": 0.4543782192370881}
+{"sent": "coconut flakes", "ann_id": 1080594, "best_split": [3, 3], "split_score": 0.7386363635229366}
+{"sent": "donut at noon", "ann_id": 1080594, "best_split": [1, 3], "split_score": 0.2970440215018775}
+{"sent": "brown and white sprinkles", "ann_id": 1080594, "best_split": [3, 3], "split_score": 0.7386363635229366}
+{"sent": "black donut", "ann_id": 1080457, "best_split": [2, 3], "split_score": 0.8734946940653995}
+{"sent": "blue donut", "ann_id": 1080457, "best_split": [2, 3], "split_score": 0.8734946940653995}
+{"sent": "black", "ann_id": 1080457, "best_split": [3, 3], "split_score": 0.6708975520436604}
+{"sent": "glazed closer to blue and touching one with shavings", "ann_id": 1080386, "best_split": [1, 2], "split_score": 0.16227086669648438}
+{"sent": "the glazed donut closest to the chocolate donut without coconut", "ann_id": 1080386, "best_split": [3, 3], "split_score": 0.6433971773382816}
+{"sent": "glazed donut at 6 o clock", "ann_id": 1080386, "best_split": [3, 3], "split_score": 0.6433971773382816}

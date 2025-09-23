@@ -1,0 +1,6 @@
+{"sent": "the one with black pants", "ann_id": 257781, "best_split": [1, 5], "split_score": 0.44596422663114654}
+{"sent": "thanks the boy", "ann_id": 257781, "best_split": [3, 2], "split_score": 0.39810126579128946}
+{"sent": "buy in black pants", "ann_id": 257781, "best_split": [1, 5], "split_score": 0.44596422663114654}
+{"sent": "woman arm up", "ann_id": 221807, "best_split": [1, 3], "split_score": 0.5495772482403878}
+{"sent": "girl arm raised", "ann_id": 221807, "best_split": [1, 3], "split_score": 0.5495772482403878}
+{"sent": "hand up girl", "ann_id": 221807, "best_split": [1, 3], "split_score": 0.5495772482403878}

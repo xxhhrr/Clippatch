@@ -1,0 +1,10 @@
+{"sent": "woman standing", "ann_id": 523330, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "old woman in black shirt waving hands", "ann_id": 523330, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "older woman standing", "ann_id": 523330, "best_split": [1, 2], "split_score": 0.6576849489533767}
+{"sent": "kid red shirt", "ann_id": 1716380, "best_split": [1, 5], "split_score": 0.5365853658111668}
+{"sent": "little boy standing", "ann_id": 1716380, "best_split": [1, 5], "split_score": 0.5365853658111668}
+{"sent": "little boy in red shirt", "ann_id": 1716380, "best_split": [1, 5], "split_score": 0.5365853658111668}
+{"sent": "the couch on which girl is lying", "ann_id": 99752, "best_split": [2, 3], "split_score": 0.8618389708358933}
+{"sent": "couch closest to old woman", "ann_id": 99429, "best_split": [2, 2], "split_score": 0.565977500717089}
+{"sent": "couch behind old lady", "ann_id": 99429, "best_split": [2, 2], "split_score": 0.565977500717089}
+{"sent": "couch behind woman", "ann_id": 99429, "best_split": [2, 2], "split_score": 0.565977500717089}

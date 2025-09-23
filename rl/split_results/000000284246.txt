@@ -1,0 +1,6 @@
+{"sent": "guy in black watching", "ann_id": 1753356, "best_split": [3, 3], "split_score": 0.32374999994941406}
+{"sent": "black shirt", "ann_id": 1753356, "best_split": [3, 3], "split_score": 0.32374999994941406}
+{"sent": "shirt with text", "ann_id": 1753356, "best_split": [5, 1], "split_score": 0.047945205475542624}
+{"sent": "closest guy white shirt", "ann_id": 1737935, "best_split": [1, 2], "split_score": 0.7139440325037092}
+{"sent": "boy on skateboard white shirt", "ann_id": 1737935, "best_split": [1, 2], "split_score": 0.7139440325037092}
+{"sent": "kid on skateboard plain white shirt", "ann_id": 1737935, "best_split": [1, 2], "split_score": 0.7139440325037092}

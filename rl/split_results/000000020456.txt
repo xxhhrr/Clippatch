@@ -1,0 +1,6 @@
+{"sent": "black shirt", "ann_id": 224884, "best_split": [1, 5], "split_score": 0.5712026358766917}
+{"sent": "shirt only guy", "ann_id": 224884, "best_split": [1, 5], "split_score": 0.5712026358766917}
+{"sent": "man in glasses", "ann_id": 224884, "best_split": [1, 5], "split_score": 0.5712026358766917}
+{"sent": "man with white bear", "ann_id": 192479, "best_split": [1, 3], "split_score": 0.2897270001463734}
+{"sent": "taller man", "ann_id": 192479, "best_split": [1, 3], "split_score": 0.2897270001463734}
+{"sent": "blue shirt and jacket", "ann_id": 192479, "best_split": [1, 2], "split_score": 0.6423788265050072}

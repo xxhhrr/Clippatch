@@ -1,0 +1,9 @@
+{"sent": "girl with crossed legs on blue couch", "ann_id": 536910, "best_split": [2, 3], "split_score": 0.5269512720432351}
+{"sent": "woman sitting on couch", "ann_id": 536910, "best_split": [2, 3], "split_score": 0.5269512720432351}
+{"sent": "sofa woman", "ann_id": 536910, "best_split": [2, 3], "split_score": 0.5269512720432351}
+{"sent": "lady bending over", "ann_id": 483050, "best_split": [2, 3], "split_score": 0.4156640904775983}
+{"sent": "lady bent over", "ann_id": 483050, "best_split": [1, 2], "split_score": 0.2886006113364422}
+{"sent": "pola dot shirt", "ann_id": 483050, "best_split": [1, 5], "split_score": 0.3105598481557164}
+{"sent": "man in hat", "ann_id": 2158424, "best_split": [1, 3], "split_score": 0.6216216215841203}
+{"sent": "guy in vest and hat", "ann_id": 2158424, "best_split": [1, 3], "split_score": 0.6216216215841203}
+{"sent": "guy with hat", "ann_id": 2158424, "best_split": [1, 3], "split_score": 0.6216216215841203}

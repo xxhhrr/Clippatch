@@ -1,0 +1,12 @@
+{"sent": "baby looking at other baby", "ann_id": 2151691, "best_split": [1, 2], "split_score": 0.3666353693413192}
+{"sent": "baby without pants", "ann_id": 2151691, "best_split": [1, 2], "split_score": 0.3666353693413192}
+{"sent": "baby in diaper", "ann_id": 2151691, "best_split": [1, 2], "split_score": 0.3666353693413192}
+{"sent": "empty space between kids", "ann_id": 1612166, "best_split": [2, 2], "split_score": 0.39997514908051846}
+{"sent": "bed", "ann_id": 1612166, "best_split": [2, 1], "split_score": 0.22479050278544727}
+{"sent": "white bed sheet", "ann_id": 1612166, "best_split": [2, 1], "split_score": 0.22479050278544727}
+{"sent": "blanket", "ann_id": 1612050, "best_split": [2, 1], "split_score": 0.49886114047631047}
+{"sent": "the striped pillow babies are laying on", "ann_id": 1612050, "best_split": [2, 1], "split_score": 0.49886114047631047}
+{"sent": "couch not babies", "ann_id": 1612050, "best_split": [2, 1], "split_score": 0.49886114047631047}
+{"sent": "cant see legs is this live", "ann_id": 519603, "best_split": [1, 2], "split_score": 0.32870159452233316}
+{"sent": "child wearing pants", "ann_id": 519603, "best_split": [2, 1], "split_score": 0.4842239185574619}
+{"sent": "baby with bottle where you see measurements", "ann_id": 519603, "best_split": [2, 1], "split_score": 0.4842239185574619}

@@ -1,0 +1,21 @@
+{"sent": "pc is complete bullshit silver laptop", "ann_id": 1103920, "best_split": [3, 2], "split_score": 0.45402992272514114}
+{"sent": "white grap laptop screen", "ann_id": 1103920, "best_split": [3, 2], "split_score": 0.45402992272514114}
+{"sent": "silver laptop", "ann_id": 1103920, "best_split": [3, 2], "split_score": 0.45402992272514114}
+{"sent": "black laptop", "ann_id": 1103829, "best_split": [3, 3], "split_score": 0.6830225710364699}
+{"sent": "dark laptop", "ann_id": 1103829, "best_split": [3, 3], "split_score": 0.6830225710364699}
+{"sent": "dell", "ann_id": 1103829, "best_split": [3, 3], "split_score": 0.6830225710364699}
+{"sent": "lady bending", "ann_id": 208625, "best_split": [2, 3], "split_score": 0.6414860680618044}
+{"sent": "lady leaning over someone", "ann_id": 208625, "best_split": [2, 3], "split_score": 0.6414860680618044}
+{"sent": "woman in black bent over", "ann_id": 208625, "best_split": [2, 3], "split_score": 0.6414860680618044}
+{"sent": "bearded man", "ann_id": 2159149, "best_split": [1, 3], "split_score": 0.5052309782437082}
+{"sent": "man", "ann_id": 2159149, "best_split": [1, 3], "split_score": 0.5052309782437082}
+{"sent": "man", "ann_id": 2159149, "best_split": [1, 3], "split_score": 0.5052309782437082}
+{"sent": "red jacket", "ann_id": 1942529, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "red cloth", "ann_id": 1942529, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "red", "ann_id": 1942529, "best_split": [1, 5], "split_score": 0.4943181817680278}
+{"sent": "chair boy is sitting on and woman leaning on the back of chair", "ann_id": 1938684, "best_split": [3, 3], "split_score": 0.2752163650235694}
+{"sent": "chair back", "ann_id": 1938684, "best_split": [1, 5], "split_score": 0.2214069073259557}
+{"sent": "back of chair of manin background", "ann_id": 1938684, "best_split": [1, 5], "split_score": 0.2214069073259557}
+{"sent": "man sitting in distance wearing dark suit", "ann_id": 204390, "best_split": [3, 3], "split_score": 0.21251089797160952}
+{"sent": "guy in black with back to us", "ann_id": 204390, "best_split": [2, 2], "split_score": 0.309486109089572}
+{"sent": "boy woman is leaning over", "ann_id": 204390, "best_split": [1, 5], "split_score": 0.3556565832876677}

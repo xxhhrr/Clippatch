@@ -1,0 +1,6 @@
+{"sent": "man in black", "ann_id": 528744, "best_split": [1, 2], "split_score": 0.9105024168408341}
+{"sent": "dark shirt", "ann_id": 528744, "best_split": [1, 2], "split_score": 0.9105024168408341}
+{"sent": "near man", "ann_id": 528744, "best_split": [1, 2], "split_score": 0.9105024168408341}
+{"sent": "man in red", "ann_id": 452178, "best_split": [1, 3], "split_score": 0.5192307692024022}
+{"sent": "red shirt black pants", "ann_id": 452178, "best_split": [1, 5], "split_score": 0.4295010845695837}
+{"sent": "red", "ann_id": 452178, "best_split": [1, 3], "split_score": 0.5192307692024022}

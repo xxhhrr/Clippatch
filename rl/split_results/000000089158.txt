@@ -1,0 +1,9 @@
+{"sent": "man in yellow coat", "ann_id": 522389, "best_split": [1, 5], "split_score": 0.5748862601842687}
+{"sent": "yellow jacket", "ann_id": 522389, "best_split": [1, 5], "split_score": 0.5748862601842687}
+{"sent": "yellow coat", "ann_id": 522389, "best_split": [1, 5], "split_score": 0.5748862601842687}
+{"sent": "wearing light blue shirt", "ann_id": 510249, "best_split": [1, 5], "split_score": 0.42380034861695565}
+{"sent": "glasses on head", "ann_id": 510249, "best_split": [1, 5], "split_score": 0.42380034861695565}
+{"sent": "blue shirt goggles", "ann_id": 510249, "best_split": [1, 5], "split_score": 0.42380034861695565}
+{"sent": "man in white and black jacket", "ann_id": 424285, "best_split": [2, 1], "split_score": 0.17286131683859274}
+{"sent": "man in gray pants", "ann_id": 424285, "best_split": [1, 5], "split_score": 0.5399968065990741}
+{"sent": "gray pants black jacket", "ann_id": 424285, "best_split": [1, 5], "split_score": 0.5399968065990741}

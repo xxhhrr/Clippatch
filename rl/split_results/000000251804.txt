@@ -1,0 +1,12 @@
+{"sent": "maroon shirt partial man", "ann_id": 558589, "best_split": [3, 3], "split_score": 0.4631202502662613}
+{"sent": "burgundy red shirt guy", "ann_id": 558589, "best_split": [2, 3], "split_score": 0.505662176599635}
+{"sent": "man in maroon shirt", "ann_id": 558589, "best_split": [3, 3], "split_score": 0.4631202502662613}
+{"sent": "red shirts standing", "ann_id": 474694, "best_split": [2, 2], "split_score": 0.5522388059272202}
+{"sent": "red white", "ann_id": 474694, "best_split": [2, 2], "split_score": 0.5522388059272202}
+{"sent": "standing red and white", "ann_id": 474694, "best_split": [2, 2], "split_score": 0.5522388059272202}
+{"sent": "boy", "ann_id": 422174, "best_split": [3, 2], "split_score": 0.4805194804862863}
+{"sent": "boy", "ann_id": 422174, "best_split": [3, 2], "split_score": 0.4805194804862863}
+{"sent": "child eating pizza", "ann_id": 422174, "best_split": [3, 2], "split_score": 0.4805194804862863}
+{"sent": "table behind white pants", "ann_id": 392698, "best_split": [3, 2], "split_score": 0.4377092510627569}
+{"sent": "click on the tablecloth next to the white pants", "ann_id": 392698, "best_split": [3, 2], "split_score": 0.4377092510627569}
+{"sent": "table cloth next to person standing", "ann_id": 392698, "best_split": [3, 2], "split_score": 0.4377092510627569}

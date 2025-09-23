@@ -1,0 +1,8 @@
+{"sent": "man wearing gloves on horse", "ann_id": 207443, "best_split": [1, 2], "split_score": 0.3539540816185446}
+{"sent": "the man of the horse with his legs visible", "ann_id": 207443, "best_split": [1, 2], "split_score": 0.3539540816185446}
+{"sent": "man on ground", "ann_id": 195096, "best_split": [2, 1], "split_score": 0.3140257770919626}
+{"sent": "man in black coat not on horse", "ann_id": 195096, "best_split": [2, 1], "split_score": 0.3140257770919626}
+{"sent": "man standing near horses", "ann_id": 195096, "best_split": [2, 1], "split_score": 0.3140257770919626}
+{"sent": "far horse", "ann_id": 57368, "best_split": [2, 3], "split_score": 0.4813094784559338}
+{"sent": "horse not leaning towards the man", "ann_id": 57368, "best_split": [2, 3], "split_score": 0.4813094784559338}
+{"sent": "horse half hidden", "ann_id": 57368, "best_split": [2, 3], "split_score": 0.4813094784559338}

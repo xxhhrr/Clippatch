@@ -1,0 +1,13 @@
+{"sent": "back of guys head", "ann_id": 491988, "best_split": [2, 3], "split_score": 0.3726796763002523}
+{"sent": "partly visible man head", "ann_id": 491988, "best_split": [1, 3], "split_score": 0.19594594593412487}
+{"sent": "mans head", "ann_id": 491988, "best_split": [2, 3], "split_score": 0.3726796763002523}
+{"sent": "woman in green", "ann_id": 486346, "best_split": [1, 5], "split_score": 0.5571565801626795}
+{"sent": "older woman with curly hair", "ann_id": 486346, "best_split": [1, 5], "split_score": 0.5571565801626795}
+{"sent": "girl in green", "ann_id": 486346, "best_split": [1, 5], "split_score": 0.5571565801626795}
+{"sent": "green shirt rd head", "ann_id": 486346, "best_split": [1, 3], "split_score": 0.48111727796325304}
+{"sent": "woman with hand on cheek", "ann_id": 485696, "best_split": [3, 1], "split_score": 0.08399569252428103}
+{"sent": "closest lady", "ann_id": 485696, "best_split": [3, 1], "split_score": 0.08399569252428103}
+{"sent": "partial view of lady with hand on face", "ann_id": 485696, "best_split": [3, 1], "split_score": 0.08399569252428103}
+{"sent": "a woman drinking from a cup", "ann_id": 462695, "best_split": [3, 3], "split_score": 0.5758114717012215}
+{"sent": "woman drinking from mug", "ann_id": 462695, "best_split": [3, 3], "split_score": 0.5758114717012215}
+{"sent": "woman drinking cup", "ann_id": 462695, "best_split": [3, 3], "split_score": 0.5758114717012215}

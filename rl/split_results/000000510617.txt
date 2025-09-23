@@ -1,0 +1,6 @@
+{"sent": "bus you cant see all of", "ann_id": 167857, "best_split": [1, 3], "split_score": 0.5421399363617594}
+{"sent": "hidden bus", "ann_id": 167857, "best_split": [1, 3], "split_score": 0.5421399363617594}
+{"sent": "partially hidden bus", "ann_id": 167857, "best_split": [1, 3], "split_score": 0.5421399363617594}
+{"sent": "the most visible bus", "ann_id": 163791, "best_split": [3, 1], "split_score": 0.45510455103038117}
+{"sent": "da bus", "ann_id": 163791, "best_split": [3, 1], "split_score": 0.45510455103038117}
+{"sent": "bus fully vis", "ann_id": 163791, "best_split": [3, 1], "split_score": 0.45510455103038117}

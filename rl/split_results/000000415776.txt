@@ -1,0 +1,6 @@
+{"sent": "black shirt in the back", "ann_id": 533793, "best_split": [3, 3], "split_score": 0.3773371104281392}
+{"sent": "black shirt not skateboarding", "ann_id": 533793, "best_split": [5, 1], "split_score": 0.1074120602930738}
+{"sent": "man wearing baseball hat", "ann_id": 533793, "best_split": [1, 3], "split_score": 0.2562741312586707}
+{"sent": "in the air", "ann_id": 488361, "best_split": [1, 5], "split_score": 0.47905234731477636}
+{"sent": "flyer", "ann_id": 488361, "best_split": [1, 5], "split_score": 0.47905234731477636}
+{"sent": "guy jumping on skateboard", "ann_id": 488361, "best_split": [1, 5], "split_score": 0.47905234731477636}

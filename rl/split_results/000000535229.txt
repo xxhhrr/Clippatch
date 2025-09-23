@@ -1,0 +1,12 @@
+{"sent": "kid with glasses", "ann_id": 442356, "best_split": [1, 5], "split_score": 0.25495750705958237}
+{"sent": "little kid", "ann_id": 442356, "best_split": [1, 5], "split_score": 0.25495750705958237}
+{"sent": "photobomber with glasses", "ann_id": 442356, "best_split": [1, 5], "split_score": 0.25495750705958237}
+{"sent": "older", "ann_id": 434112, "best_split": [2, 1], "split_score": 0.2944954128355936}
+{"sent": "big boy", "ann_id": 434112, "best_split": [2, 1], "split_score": 0.27692307691524537}
+{"sent": "the adult", "ann_id": 434112, "best_split": [2, 1], "split_score": 0.27692307691524537}
+{"sent": "the blurry bottle in front", "ann_id": 86576, "best_split": [3, 1], "split_score": 0.21366698747511628}
+{"sent": "cosest bottle with yellow", "ann_id": 86576, "best_split": [3, 3], "split_score": 0.6212933189315303}
+{"sent": "bottle with yellow cap", "ann_id": 86576, "best_split": [3, 3], "split_score": 0.6212933189315303}
+{"sent": "clear bottle between candles without yellow cap", "ann_id": 80562, "best_split": [3, 3], "split_score": 0.3860294117055715}
+{"sent": "clear item next to boys tie", "ann_id": 80562, "best_split": [2, 3], "split_score": 0.3838973161745744}
+{"sent": "taller bottle covering tie", "ann_id": 80562, "best_split": [3, 3], "split_score": 0.3860294117055715}

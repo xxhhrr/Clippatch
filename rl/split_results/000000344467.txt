@@ -1,0 +1,7 @@
+{"sent": "the man wearing glasses", "ann_id": 443772, "best_split": [1, 3], "split_score": 0.6806475349163961}
+{"sent": "glasses", "ann_id": 443772, "best_split": [1, 3], "split_score": 0.6806475349163961}
+{"sent": "man with glasses", "ann_id": 443772, "best_split": [1, 3], "split_score": 0.6806475349163961}
+{"sent": "man with arms raised near his face", "ann_id": 434067, "best_split": [1, 5], "split_score": 0.4444927221135948}
+{"sent": "man by pool table", "ann_id": 434067, "best_split": [1, 5], "split_score": 0.4444927221135948}
+{"sent": "red shirt hands raised in air", "ann_id": 434067, "best_split": [1, 3], "split_score": 0.5037010290438843}
+{"sent": "taller man", "ann_id": 434067, "best_split": [1, 5], "split_score": 0.4444927221135948}

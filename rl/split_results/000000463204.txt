@@ -1,0 +1,6 @@
+{"sent": "biggest word ski", "ann_id": 1202688, "best_split": [1, 5], "split_score": 0.24232574934612444}
+{"sent": "man mostly cut out of picture", "ann_id": 1202688, "best_split": [3, 2], "split_score": 0.4597701148874796}
+{"sent": "guy u can barely see in corner", "ann_id": 1202688, "best_split": [1, 2], "split_score": 0.1556122448917565}
+{"sent": "woman", "ann_id": 424572, "best_split": [1, 2], "split_score": 0.5483373706030853}
+{"sent": "shier", "ann_id": 424572, "best_split": [3, 1], "split_score": 0.29256870872514323}
+{"sent": "sitting", "ann_id": 424572, "best_split": [1, 2], "split_score": 0.5483373706030853}

@@ -1,0 +1,5 @@
+{"sent": "pizza but the far side of it", "ann_id": 1076453, "best_split": [1, 2], "split_score": 0.4487040439042762}
+{"sent": "weird one pizza but not darker part", "ann_id": 1076453, "best_split": [1, 2], "split_score": 0.4487040439042762}
+{"sent": "closest slice 4 peperoni", "ann_id": 1076353, "best_split": [3, 1], "split_score": 0.2399561723798409}
+{"sent": "peice slice closest", "ann_id": 1076353, "best_split": [2, 1], "split_score": 0.6082872509427965}
+{"sent": "pizza slice closest to us", "ann_id": 1076353, "best_split": [3, 1], "split_score": 0.2399561723798409}

@@ -1,0 +1,5 @@
+{"sent": "large dark object", "ann_id": 1605079, "best_split": [1, 2], "split_score": 0.3997992442017064}
+{"sent": "black back of couch", "ann_id": 1605079, "best_split": [2, 1], "split_score": 0.6814071420730733}
+{"sent": "red couch", "ann_id": 99840, "best_split": [2, 2], "split_score": 0.42251275506835834}
+{"sent": "pink pillow", "ann_id": 99840, "best_split": [2, 2], "split_score": 0.42251275506835834}
+{"sent": "couch", "ann_id": 99840, "best_split": [2, 2], "split_score": 0.42251275506835834}

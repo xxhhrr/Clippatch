@@ -1,0 +1,6 @@
+{"sent": "drink away from you", "ann_id": 2214495, "best_split": [2, 2], "split_score": 0.6186224489302756}
+{"sent": "drink without pickle", "ann_id": 2214495, "best_split": [2, 2], "split_score": 0.6186224489302756}
+{"sent": "glass in background", "ann_id": 2214495, "best_split": [2, 3], "split_score": 0.584518167398843}
+{"sent": "drink with olives in it", "ann_id": 670165, "best_split": [3, 1], "split_score": 0.4725783205464394}
+{"sent": "closest red juice", "ann_id": 670165, "best_split": [2, 1], "split_score": 0.5201669877803414}
+{"sent": "beverage cna see pickle", "ann_id": 670165, "best_split": [3, 1], "split_score": 0.4725783205464394}

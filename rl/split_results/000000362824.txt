@@ -1,0 +1,6 @@
+{"sent": "count 2 from you cake", "ann_id": 1927259, "best_split": [1, 2], "split_score": 0.3237867939415923}
+{"sent": "cake behind", "ann_id": 1927259, "best_split": [1, 2], "split_score": 0.3237867939415923}
+{"sent": "back cookie", "ann_id": 1927259, "best_split": [1, 2], "split_score": 0.3237867939415923}
+{"sent": "this is a cake", "ann_id": 1577664, "best_split": [2, 1], "split_score": 0.6594565018909554}
+{"sent": "closest bread", "ann_id": 1577664, "best_split": [2, 1], "split_score": 0.6594565018909554}
+{"sent": "closest", "ann_id": 1577664, "best_split": [3, 1], "split_score": 0.3109070929668956}

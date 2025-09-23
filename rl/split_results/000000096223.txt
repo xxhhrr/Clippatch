@@ -1,0 +1,6 @@
+{"sent": "red shirt back of head", "ann_id": 546467, "best_split": [1, 2], "split_score": 0.12302427423441825}
+{"sent": "pink shirt", "ann_id": 546467, "best_split": [1, 5], "split_score": 0.23331758280919213}
+{"sent": "head by you", "ann_id": 546467, "best_split": [1, 2], "split_score": 0.3202523013869672}
+{"sent": "man in green shirt", "ann_id": 2157808, "best_split": [1, 2], "split_score": 0.8456632652724145}
+{"sent": "green", "ann_id": 2157808, "best_split": [1, 2], "split_score": 0.8456632652724145}
+{"sent": "dude in green", "ann_id": 2157808, "best_split": [1, 2], "split_score": 0.8456632652724145}

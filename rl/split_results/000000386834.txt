@@ -1,0 +1,9 @@
+{"sent": "the chair close by but not the one with the orange on it", "ann_id": 389423, "best_split": [1, 2], "split_score": 0.6847609561539852}
+{"sent": "chair with slats that the fruit is not on", "ann_id": 389423, "best_split": [1, 2], "split_score": 0.6847609561539852}
+{"sent": "chair behind the chair with the orange on it", "ann_id": 389423, "best_split": [1, 2], "split_score": 0.6847609561539852}
+{"sent": "thin blurry chair", "ann_id": 389310, "best_split": [1, 2], "split_score": 0.8211096938448218}
+{"sent": "the empty blurry chair", "ann_id": 389310, "best_split": [1, 2], "split_score": 0.8211096938448218}
+{"sent": "blurry chair", "ann_id": 389310, "best_split": [1, 2], "split_score": 0.8211096938448218}
+{"sent": "wood under orange", "ann_id": 381797, "best_split": [2, 2], "split_score": 0.7638337116370719}
+{"sent": "chair with orange", "ann_id": 381797, "best_split": [2, 2], "split_score": 0.7638337116370719}
+{"sent": "chair with orange", "ann_id": 381797, "best_split": [2, 2], "split_score": 0.7638337116370719}

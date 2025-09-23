@@ -1,0 +1,5 @@
+{"sent": "woman", "ann_id": 1720030, "best_split": [2, 1], "split_score": 0.39301658161698755}
+{"sent": "adult woman", "ann_id": 1720030, "best_split": [3, 1], "split_score": 0.48084248260806395}
+{"sent": "a little girl is sitting on his shoulders", "ann_id": 1715529, "best_split": [3, 2], "split_score": 0.6280124074650426}
+{"sent": "father", "ann_id": 1715529, "best_split": [2, 2], "split_score": 0.42713647955778566}
+{"sent": "person thats holding baby", "ann_id": 1715529, "best_split": [2, 3], "split_score": 0.44739075090714986}

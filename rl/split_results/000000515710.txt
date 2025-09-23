@@ -1,0 +1,5 @@
+{"sent": "woman on side by herself", "ann_id": 429409, "best_split": [3, 2], "split_score": 0.4942233632409478}
+{"sent": "woman on own side of table", "ann_id": 429409, "best_split": [3, 1], "split_score": 0.28081692194014707}
+{"sent": "childs chair", "ann_id": 385000, "best_split": [3, 3], "split_score": 0.2835521235083317}
+{"sent": "back of baby chair", "ann_id": 385000, "best_split": [3, 3], "split_score": 0.2835521235083317}
+{"sent": "chair beneath blond child", "ann_id": 385000, "best_split": [3, 3], "split_score": 0.2835521235083317}

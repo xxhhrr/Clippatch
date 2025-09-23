@@ -1,0 +1,4 @@
+{"sent": "piece of broccoli closest to us", "ann_id": 1058864, "best_split": [1, 5], "split_score": 0.304681008189024}
+{"sent": "broccoli nearest to us", "ann_id": 1058864, "best_split": [1, 5], "split_score": 0.304681008189024}
+{"sent": "biggest brocli", "ann_id": 1056342, "best_split": [2, 3], "split_score": 0.29190207153254843}
+{"sent": "broccoli farthest away from edges", "ann_id": 1056342, "best_split": [2, 3], "split_score": 0.29190207153254843}

@@ -1,0 +1,8 @@
+{"sent": "person standing up thats weaing black", "ann_id": 488824, "best_split": [2, 2], "split_score": 0.02499999999840561}
+{"sent": "dude in the back with no head", "ann_id": 488824, "best_split": [2, 1], "split_score": 0.12307692307209274}
+{"sent": "standing in black", "ann_id": 488824, "best_split": [2, 1], "split_score": 0.013888888888396794}
+{"sent": "person with pink hat", "ann_id": 482154, "best_split": [1, 2], "split_score": 0.6459661989538438}
+{"sent": "pink shirt blue pants", "ann_id": 482154, "best_split": [1, 2], "split_score": 0.6459661989538438}
+{"sent": "guy about to hit ball", "ann_id": 482154, "best_split": [1, 2], "split_score": 0.6459661989538438}
+{"sent": "person sitting", "ann_id": 480944, "best_split": [1, 5], "split_score": 0.41197183094774165}
+{"sent": "sitting player", "ann_id": 480944, "best_split": [3, 3], "split_score": 0.3003592814011546}

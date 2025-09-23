@@ -1,0 +1,6 @@
+{"sent": "highest polar bear", "ann_id": 587763, "best_split": [2, 3], "split_score": 0.7169638773757472}
+{"sent": "upper bear", "ann_id": 587763, "best_split": [2, 3], "split_score": 0.7169638773757472}
+{"sent": "tall bear", "ann_id": 587763, "best_split": [2, 3], "split_score": 0.7169638773757472}
+{"sent": "smaller bear", "ann_id": 586143, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "white bear", "ann_id": 586143, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "bear near water", "ann_id": 586143, "best_split": [3, 2], "split_score": 0.4212114179135285}

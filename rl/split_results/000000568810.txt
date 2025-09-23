@@ -1,0 +1,13 @@
+{"sent": "skier in white", "ann_id": 1720484, "best_split": [1, 3], "split_score": 0.3392857142652458}
+{"sent": "beginning person", "ann_id": 1720484, "best_split": [3, 1], "split_score": 0.14503816793145047}
+{"sent": "blue jacket", "ann_id": 1720484, "best_split": [1, 2], "split_score": 0.22417091835841155}
+{"sent": "green white jacket on end", "ann_id": 1222330, "best_split": [1, 3], "split_score": 0.4749034748748248}
+{"sent": "person nearest partial sign", "ann_id": 1222330, "best_split": [1, 3], "split_score": 0.4749034748748248}
+{"sent": "green black jacket", "ann_id": 522887, "best_split": [1, 5], "split_score": 0.36684782605580435}
+{"sent": "limest green coat guy", "ann_id": 522887, "best_split": [1, 5], "split_score": 0.36684782605580435}
+{"sent": "green and dark green with khaki pants", "ann_id": 522887, "best_split": [1, 5], "split_score": 0.36684782605580435}
+{"sent": "brown tan coat", "ann_id": 516161, "best_split": [3, 3], "split_score": 0.20735551661326845}
+{"sent": "brown jacket black pants", "ann_id": 516161, "best_split": [3, 3], "split_score": 0.20735551661326845}
+{"sent": "guy in red jacket", "ann_id": 495352, "best_split": [1, 5], "split_score": 0.559354707735455}
+{"sent": "red jacket", "ann_id": 495352, "best_split": [1, 5], "split_score": 0.559354707735455}
+{"sent": "skier in red jacket", "ann_id": 495352, "best_split": [1, 5], "split_score": 0.559354707735455}

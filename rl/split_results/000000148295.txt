@@ -1,0 +1,6 @@
+{"sent": "the baby", "ann_id": 2165851, "best_split": [1, 5], "split_score": 0.5503178786982231}
+{"sent": "baby", "ann_id": 2165851, "best_split": [1, 5], "split_score": 0.5503178786982231}
+{"sent": "baby in hand", "ann_id": 2165851, "best_split": [1, 5], "split_score": 0.5503178786982231}
+{"sent": "person holding baby black shirt", "ann_id": 464661, "best_split": [2, 3], "split_score": 0.5387523629026678}
+{"sent": "man", "ann_id": 464661, "best_split": [2, 3], "split_score": 0.5387523629026678}
+{"sent": "man holding baby", "ann_id": 464661, "best_split": [2, 3], "split_score": 0.5387523629026678}

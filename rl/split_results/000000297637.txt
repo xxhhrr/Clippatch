@@ -1,0 +1,11 @@
+{"sent": "the one below the black coca cola", "ann_id": 2219110, "best_split": [2, 3], "split_score": 0.3377952755573036}
+{"sent": "closest sandwich", "ann_id": 2219110, "best_split": [2, 2], "split_score": 0.3716569320341487}
+{"sent": "sandwich with whiter cheese", "ann_id": 1909518, "best_split": [3, 3], "split_score": 0.34341110740331726}
+{"sent": "next to red can hotdog", "ann_id": 1909518, "best_split": [2, 3], "split_score": 0.29073182188526586}
+{"sent": "hot dog next to dr pepper", "ann_id": 1909518, "best_split": [2, 3], "split_score": 0.29073182188526586}
+{"sent": "farther dog", "ann_id": 1070309, "best_split": [2, 3], "split_score": 0.30338254093881406}
+{"sent": "hotdog by dr pepper", "ann_id": 1070309, "best_split": [2, 3], "split_score": 0.30338254093881406}
+{"sent": "far food", "ann_id": 1070309, "best_split": [1, 5], "split_score": 0.17353778347502177}
+{"sent": "sammich next to coke zero", "ann_id": 1070265, "best_split": [1, 2], "split_score": 0.21807786549655486}
+{"sent": "hot dog nearest you", "ann_id": 1070265, "best_split": [2, 2], "split_score": 0.4258373205418214}
+{"sent": "closest food", "ann_id": 1070265, "best_split": [2, 2], "split_score": 0.4258373205418214}

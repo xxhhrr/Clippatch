@@ -1,0 +1,10 @@
+{"sent": "back zebra", "ann_id": 1412413, "best_split": [1, 3], "split_score": 0.23342866755411218}
+{"sent": "upper zebra", "ann_id": 1412413, "best_split": [1, 3], "split_score": 0.23342866755411218}
+{"sent": "hidden zebra", "ann_id": 1412413, "best_split": [1, 3], "split_score": 0.23342866755411218}
+{"sent": "zebra looking straight ahead", "ann_id": 1412298, "best_split": [1, 2], "split_score": 0.4484015044488167}
+{"sent": "zebra face closest to side", "ann_id": 1412298, "best_split": [1, 2], "split_score": 0.4484015044488167}
+{"sent": "zebra looking to camera", "ann_id": 594060, "best_split": [2, 1], "split_score": 0.5077639751391886}
+{"sent": "in charge", "ann_id": 594060, "best_split": [2, 1], "split_score": 0.5077639751391886}
+{"sent": "zebra with face furthest to ground", "ann_id": 594060, "best_split": [2, 1], "split_score": 0.5077639751391886}
+{"sent": "closest zebra", "ann_id": 593861, "best_split": [2, 2], "split_score": 0.5605646131655233}
+{"sent": "zebra closest to camera", "ann_id": 593861, "best_split": [2, 1], "split_score": 0.33242489130061564}

@@ -1,0 +1,6 @@
+{"sent": "little boy", "ann_id": 1737209, "best_split": [2, 3], "split_score": 0.4246575342056089}
+{"sent": "kid", "ann_id": 1737209, "best_split": [2, 3], "split_score": 0.4246575342056089}
+{"sent": "baby in highchair", "ann_id": 1737209, "best_split": [2, 3], "split_score": 0.4246575342056089}
+{"sent": "the woman that looks happy to eat some food", "ann_id": 470178, "best_split": [1, 2], "split_score": 0.49017632240270226}
+{"sent": "mom", "ann_id": 470178, "best_split": [2, 1], "split_score": 0.6093579978030006}
+{"sent": "long arm", "ann_id": 470178, "best_split": [2, 1], "split_score": 0.6093579978030006}

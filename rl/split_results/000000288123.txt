@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 1242526, "best_split": [1, 2], "split_score": 0.9340322065954229}
+{"sent": "person standing behind the girl", "ann_id": 1242526, "best_split": [1, 2], "split_score": 0.9340322065954229}
+{"sent": "white shirt", "ann_id": 1242526, "best_split": [1, 2], "split_score": 0.9340322065954229}
+{"sent": "girl", "ann_id": 457363, "best_split": [3, 1], "split_score": 0.3678476996200992}
+{"sent": "girl holding red phone", "ann_id": 457363, "best_split": [1, 2], "split_score": 0.4835135068461791}
+{"sent": "red phone", "ann_id": 457363, "best_split": [1, 2], "split_score": 0.4835135068461791}

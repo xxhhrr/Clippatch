@@ -1,0 +1,6 @@
+{"sent": "person holding fork sitting at table", "ann_id": 1735626, "best_split": [2, 3], "split_score": 0.49292717607267966}
+{"sent": "jacket of woman holding fork", "ann_id": 1735626, "best_split": [3, 1], "split_score": 0.5228412706691742}
+{"sent": "person at 12 pm", "ann_id": 1735626, "best_split": [3, 1], "split_score": 0.5228412706691742}
+{"sent": "hand presenting plate", "ann_id": 478475, "best_split": [1, 5], "split_score": 0.15940745510350152}
+{"sent": "arm in corner", "ann_id": 478475, "best_split": [3, 2], "split_score": 0.5483832045670387}
+{"sent": "hand holding white plate", "ann_id": 478475, "best_split": [1, 5], "split_score": 0.15940745510350152}

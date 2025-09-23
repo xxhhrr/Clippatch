@@ -1,0 +1,8 @@
+{"sent": "woman grasping her two hands", "ann_id": 2165815, "best_split": [2, 3], "split_score": 0.5404273145642619}
+{"sent": "blond lady black dress", "ann_id": 2165815, "best_split": [2, 3], "split_score": 0.5404273145642619}
+{"sent": "blond black dress", "ann_id": 2165815, "best_split": [1, 5], "split_score": 0.40698478558030904}
+{"sent": "woman who is sort of cutoff smiling has short light brown hair", "ann_id": 1746883, "best_split": [5, 1], "split_score": 0.1373283395648152}
+{"sent": "woman in audience smiling and with short dark brown hair at edge", "ann_id": 1746883, "best_split": [5, 1], "split_score": 0.1373283395648152}
+{"sent": "man by table smiling at us", "ann_id": 199574, "best_split": [2, 2], "split_score": 0.34520108799566734}
+{"sent": "man looking at camera", "ann_id": 199574, "best_split": [2, 1], "split_score": 0.2339844828043183}
+{"sent": "man closest", "ann_id": 199574, "best_split": [5, 1], "split_score": 0.23729652168436513}

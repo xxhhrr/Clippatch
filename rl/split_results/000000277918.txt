@@ -1,0 +1,7 @@
+{"sent": "the horse whose head is partially obscured", "ann_id": 57851, "best_split": [3, 3], "split_score": 0.5435456930871455}
+{"sent": "the horse hiding face", "ann_id": 57851, "best_split": [3, 3], "split_score": 0.5435456930871455}
+{"sent": "horse farther away cant see face", "ann_id": 57851, "best_split": [3, 3], "split_score": 0.5435456930871455}
+{"sent": "slightly darker horse", "ann_id": 57851, "best_split": [3, 3], "split_score": 0.5435456930871455}
+{"sent": "horse we can see face", "ann_id": 55249, "best_split": [1, 5], "split_score": 0.392989406563346}
+{"sent": "horse looking at you", "ann_id": 55249, "best_split": [1, 5], "split_score": 0.392989406563346}
+{"sent": "full horse", "ann_id": 55249, "best_split": [1, 5], "split_score": 0.392989406563346}

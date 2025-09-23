@@ -1,0 +1,18 @@
+{"sent": "yellow", "ann_id": 226397, "best_split": [2, 3], "split_score": 0.6534059944910621}
+{"sent": "yellow jacket", "ann_id": 226397, "best_split": [2, 3], "split_score": 0.6534059944910621}
+{"sent": "girl yellow shirt", "ann_id": 226397, "best_split": [2, 3], "split_score": 0.6534059944910621}
+{"sent": "female rider in sweatshirt", "ann_id": 218493, "best_split": [2, 2], "split_score": 0.3458688748928542}
+{"sent": "person on white spotted horse", "ann_id": 218493, "best_split": [2, 2], "split_score": 0.3458688748928542}
+{"sent": "cowboy hat", "ann_id": 218493, "best_split": [2, 2], "split_score": 0.3458688748928542}
+{"sent": "man with old navy sweatshirt", "ann_id": 217207, "best_split": [3, 3], "split_score": 0.4178823528920138}
+{"sent": "highest rider wearing baseball cap", "ann_id": 217207, "best_split": [1, 3], "split_score": 0.3967181466942134}
+{"sent": "man", "ann_id": 217207, "best_split": [3, 3], "split_score": 0.4178823528920138}
+{"sent": "brown horse", "ann_id": 57997, "best_split": [2, 3], "split_score": 0.789092663997455}
+{"sent": "brown horse off photo", "ann_id": 57997, "best_split": [2, 3], "split_score": 0.789092663997455}
+{"sent": "brown horse partially obscured", "ann_id": 57997, "best_split": [2, 3], "split_score": 0.789092663997455}
+{"sent": "yellow shirt horse", "ann_id": 57217, "best_split": [3, 1], "split_score": 0.1870089946381072}
+{"sent": "blsck horse", "ann_id": 57217, "best_split": [3, 1], "split_score": 0.1870089946381072}
+{"sent": "black horse itself", "ann_id": 57217, "best_split": [3, 1], "split_score": 0.1870089946381072}
+{"sent": "white horse", "ann_id": 56558, "best_split": [3, 2], "split_score": 0.36184438036174704}
+{"sent": "white horse", "ann_id": 56558, "best_split": [3, 2], "split_score": 0.36184438036174704}
+{"sent": "horse with white face", "ann_id": 56558, "best_split": [3, 2], "split_score": 0.36184438036174704}

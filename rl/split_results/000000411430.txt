@@ -1,0 +1,5 @@
+{"sent": "empty cut out space not the actual cut out", "ann_id": 1815247, "best_split": [3, 2], "split_score": 0.2137629990875746}
+{"sent": "cut out bird hole", "ann_id": 1815247, "best_split": [3, 3], "split_score": 0.5156308850738577}
+{"sent": "bird with clouds inside body", "ann_id": 42092, "best_split": [1, 2], "split_score": 0.5703124999772675}
+{"sent": "cut out bird", "ann_id": 42092, "best_split": [1, 2], "split_score": 0.5703124999772675}
+{"sent": "bird flying off page", "ann_id": 42092, "best_split": [1, 2], "split_score": 0.5703124999772675}

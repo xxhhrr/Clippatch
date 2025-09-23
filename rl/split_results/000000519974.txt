@@ -1,0 +1,6 @@
+{"sent": "blue bike", "ann_id": 149794, "best_split": [1, 2], "split_score": 0.5195312499792917}
+{"sent": "motorcycle with blue tank", "ann_id": 149794, "best_split": [3, 1], "split_score": 0.32435817155718943}
+{"sent": "blue bike", "ann_id": 149794, "best_split": [1, 2], "split_score": 0.5195312499792917}
+{"sent": "red motorcycle", "ann_id": 149111, "best_split": [1, 2], "split_score": 0.5696770011729049}
+{"sent": "red bike", "ann_id": 149111, "best_split": [1, 2], "split_score": 0.5696770011729049}
+{"sent": "red cycle", "ann_id": 149111, "best_split": [1, 2], "split_score": 0.5696770011729049}

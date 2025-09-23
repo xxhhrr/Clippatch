@@ -1,0 +1,5 @@
+{"sent": "gold area", "ann_id": 1366485, "best_split": [1, 2], "split_score": 0.4976973418336896}
+{"sent": "side of car next to paper", "ann_id": 1366485, "best_split": [1, 2], "split_score": 0.4910714285615534}
+{"sent": "train", "ann_id": 169857, "best_split": [2, 1], "split_score": 0.4878362486958755}
+{"sent": "train", "ann_id": 169857, "best_split": [2, 1], "split_score": 0.4878362486958755}
+{"sent": "red train also no problem", "ann_id": 169857, "best_split": [2, 1], "split_score": 0.4878362486958755}

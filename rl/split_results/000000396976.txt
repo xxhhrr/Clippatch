@@ -1,0 +1,12 @@
+{"sent": "closest guy", "ann_id": 444601, "best_split": [3, 2], "split_score": 0.5249633967404859}
+{"sent": "man leaned back in chair", "ann_id": 444601, "best_split": [2, 2], "split_score": 0.45778371779546845}
+{"sent": "leaning back", "ann_id": 444601, "best_split": [2, 2], "split_score": 0.45778371779546845}
+{"sent": "lady hands out", "ann_id": 421108, "best_split": [2, 2], "split_score": 0.2257653061044511}
+{"sent": "woman", "ann_id": 421108, "best_split": [2, 2], "split_score": 0.2257653061044511}
+{"sent": "old woman using hands", "ann_id": 421108, "best_split": [2, 2], "split_score": 0.2257653061044511}
+{"sent": "empty seat cant see the back of it", "ann_id": 1944513, "best_split": [2, 1], "split_score": 0.08266900509874565}
+{"sent": "can only see seat of chair", "ann_id": 1944513, "best_split": [2, 1], "split_score": 0.08266900509874565}
+{"sent": "empty seat u can barely see in corner", "ann_id": 1944513, "best_split": [1, 5], "split_score": 0.21043019478384434}
+{"sent": "older man blue shirt", "ann_id": 1749941, "best_split": [3, 3], "split_score": 0.24737912685849175}
+{"sent": "man leaning forward", "ann_id": 1749941, "best_split": [2, 3], "split_score": 0.2297867487478861}
+{"sent": "white cheker man", "ann_id": 1749941, "best_split": [2, 3], "split_score": 0.2297867487478861}

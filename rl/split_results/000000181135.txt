@@ -1,0 +1,6 @@
+{"sent": "body of calf cant see the head", "ann_id": 75516, "best_split": [1, 3], "split_score": 0.34790541013445003}
+{"sent": "the headless animal", "ann_id": 75516, "best_split": [1, 3], "split_score": 0.34790541013445003}
+{"sent": "out of frame cow", "ann_id": 75516, "best_split": [1, 3], "split_score": 0.34790541013445003}
+{"sent": "face", "ann_id": 75484, "best_split": [1, 2], "split_score": 0.4914830368401953}
+{"sent": "the face of the cow", "ann_id": 75484, "best_split": [1, 2], "split_score": 0.4914830368401953}
+{"sent": "cow head", "ann_id": 75484, "best_split": [1, 2], "split_score": 0.4914830368401953}

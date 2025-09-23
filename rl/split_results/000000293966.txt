@@ -1,0 +1,9 @@
+{"sent": "gray behind the truck", "ann_id": 1367709, "best_split": [1, 2], "split_score": 0.38085937498481903}
+{"sent": "gray building", "ann_id": 1367709, "best_split": [2, 3], "split_score": 0.7713690061777654}
+{"sent": "gray behind truck", "ann_id": 1367709, "best_split": [1, 2], "split_score": 0.38085937498481903}
+{"sent": "red bigger vehicle", "ann_id": 395929, "best_split": [1, 2], "split_score": 0.6313775509952416}
+{"sent": "red truck cut off in photo", "ann_id": 395929, "best_split": [3, 1], "split_score": 0.22342995168238866}
+{"sent": "all big red trailer", "ann_id": 395929, "best_split": [3, 2], "split_score": 0.32513181017546505}
+{"sent": "red erf truck", "ann_id": 394449, "best_split": [1, 2], "split_score": 0.5490474980810504}
+{"sent": "erf truck", "ann_id": 394449, "best_split": [1, 2], "split_score": 0.5490474980810504}
+{"sent": "red truck", "ann_id": 394449, "best_split": [1, 2], "split_score": 0.5490474980810504}

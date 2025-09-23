@@ -1,0 +1,6 @@
+{"sent": "couch facing wall with picture", "ann_id": 2193275, "best_split": [2, 2], "split_score": 0.5324542124152049}
+{"sent": "love seat in full view", "ann_id": 2193275, "best_split": [2, 2], "split_score": 0.5324542124152049}
+{"sent": "couch perpendicular to tv", "ann_id": 2193275, "best_split": [3, 1], "split_score": 0.18809523808628117}
+{"sent": "couch with red cushion", "ann_id": 2193195, "best_split": [2, 1], "split_score": 0.4544881889584847}
+{"sent": "chair seen mostly from the back", "ann_id": 2193195, "best_split": [2, 1], "split_score": 0.4544881889584847}
+{"sent": "side of couch with red pillow", "ann_id": 2193195, "best_split": [2, 1], "split_score": 0.4544881889584847}

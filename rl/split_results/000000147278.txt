@@ -1,0 +1,5 @@
+{"sent": "dark person", "ann_id": 213128, "best_split": [2, 2], "split_score": 0.19184311495013193}
+{"sent": "darkest man", "ann_id": 213128, "best_split": [1, 5], "split_score": 0.29348025708967124}
+{"sent": "man on couch", "ann_id": 213128, "best_split": [3, 3], "split_score": 0.4804758998656992}
+{"sent": "guy", "ann_id": 191551, "best_split": [3, 3], "split_score": 0.44047619044075964}
+{"sent": "white shirt", "ann_id": 191551, "best_split": [3, 3], "split_score": 0.44047619044075964}

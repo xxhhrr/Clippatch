@@ -1,0 +1,8 @@
+{"sent": "ambulance beside half black vehicle thing", "ann_id": 401531, "best_split": [3, 1], "split_score": 0.27468773351795195}
+{"sent": "furthest ambulance", "ann_id": 401531, "best_split": [3, 1], "split_score": 0.27468773351795195}
+{"sent": "middle ambulance", "ann_id": 399435, "best_split": [3, 3], "split_score": 0.5333776890071659}
+{"sent": "center van", "ann_id": 399435, "best_split": [3, 3], "split_score": 0.5333776890071659}
+{"sent": "the ambulance an equal distance from the others", "ann_id": 399435, "best_split": [3, 3], "split_score": 0.5333776890071659}
+{"sent": "truck", "ann_id": 394146, "best_split": [3, 3], "split_score": 0.5331169489265527}
+{"sent": "closest ambulance", "ann_id": 394146, "best_split": [1, 3], "split_score": 0.49560702872571843}
+{"sent": "closest amb", "ann_id": 394146, "best_split": [3, 3], "split_score": 0.5331169489265527}

@@ -1,0 +1,6 @@
+{"sent": "giraffe that is not eating", "ann_id": 596886, "best_split": [1, 3], "split_score": 0.43820484198305665}
+{"sent": "giraffe not eating", "ann_id": 596886, "best_split": [1, 3], "split_score": 0.43820484198305665}
+{"sent": "fartest giraffe", "ann_id": 596886, "best_split": [1, 3], "split_score": 0.43820484198305665}
+{"sent": "giraffe closest to camera", "ann_id": 595985, "best_split": [1, 3], "split_score": 0.4689033770248002}
+{"sent": "higher head giraffe", "ann_id": 595985, "best_split": [1, 3], "split_score": 0.4689033770248002}
+{"sent": "animal eating tree", "ann_id": 595985, "best_split": [1, 2], "split_score": 0.4484135259809798}

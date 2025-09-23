@@ -1,0 +1,6 @@
+{"sent": "red wine glass", "ann_id": 664379, "best_split": [1, 5], "split_score": 0.5243933807318534}
+{"sent": "glass of wine", "ann_id": 664379, "best_split": [1, 5], "split_score": 0.5243933807318534}
+{"sent": "glass with dark wine in background", "ann_id": 664379, "best_split": [1, 5], "split_score": 0.5243933807318534}
+{"sent": "empty wine glass", "ann_id": 663601, "best_split": [2, 3], "split_score": 0.583038869193569}
+{"sent": "water", "ann_id": 663601, "best_split": [2, 3], "split_score": 0.583038869193569}
+{"sent": "white wine glass", "ann_id": 663601, "best_split": [2, 3], "split_score": 0.583038869193569}

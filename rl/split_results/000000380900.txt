@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 1677413, "best_split": [1, 3], "split_score": 0.5339044401222307}
+{"sent": "girl", "ann_id": 1677413, "best_split": [1, 3], "split_score": 0.5339044401222307}
+{"sent": "woman standing up", "ann_id": 1677413, "best_split": [1, 3], "split_score": 0.5339044401222307}
+{"sent": "laying", "ann_id": 562904, "best_split": [3, 1], "split_score": 0.5472369690789552}
+{"sent": "laying down", "ann_id": 562904, "best_split": [3, 1], "split_score": 0.5472369690789552}
+{"sent": "layin", "ann_id": 562904, "best_split": [3, 1], "split_score": 0.5472369690789552}

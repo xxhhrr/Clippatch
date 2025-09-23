@@ -1,0 +1,6 @@
+{"sent": "full beer", "ann_id": 1508665, "best_split": [2, 3], "split_score": 0.22086736452077907}
+{"sent": "the fuller glass of beer", "ann_id": 1508665, "best_split": [2, 3], "split_score": 0.22086736452077907}
+{"sent": "fullest beer", "ann_id": 1508665, "best_split": [2, 3], "split_score": 0.22086736452077907}
+{"sent": "half full beer by pizza", "ann_id": 673823, "best_split": [3, 3], "split_score": 0.12653898767078808}
+{"sent": "half a beer near pizza", "ann_id": 673823, "best_split": [3, 3], "split_score": 0.12653898767078808}
+{"sent": "half drank beer near pizza", "ann_id": 673823, "best_split": [3, 3], "split_score": 0.12653898767078808}

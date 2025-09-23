@@ -1,0 +1,6 @@
+{"sent": "the white shirt person", "ann_id": 536418, "best_split": [1, 5], "split_score": 0.4574396782458579}
+{"sent": "white shirt", "ann_id": 536418, "best_split": [1, 5], "split_score": 0.4574396782458579}
+{"sent": "white shirtr", "ann_id": 536418, "best_split": [1, 5], "split_score": 0.4574396782458579}
+{"sent": "guy taling with another guy", "ann_id": 528661, "best_split": [1, 3], "split_score": 0.5905104564543225}
+{"sent": "black", "ann_id": 528661, "best_split": [1, 3], "split_score": 0.5905104564543225}
+{"sent": "black shirt", "ann_id": 528661, "best_split": [1, 3], "split_score": 0.5905104564543225}

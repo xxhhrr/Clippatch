@@ -1,0 +1,6 @@
+{"sent": "zebra partially obscured by leaves", "ann_id": 592174, "best_split": [2, 1], "split_score": 0.5817835758522628}
+{"sent": "zebra in background under tree branch", "ann_id": 592174, "best_split": [2, 1], "split_score": 0.5817835758522628}
+{"sent": "zebra under branch", "ann_id": 592174, "best_split": [2, 1], "split_score": 0.5817835758522628}
+{"sent": "zebra with ears fown", "ann_id": 588900, "best_split": [1, 2], "split_score": 0.3669759950775759}
+{"sent": "zebra that is less visible", "ann_id": 588900, "best_split": [1, 2], "split_score": 0.3669759950775759}
+{"sent": "zebra only face and neck visible", "ann_id": 588900, "best_split": [1, 2], "split_score": 0.3669759950775759}

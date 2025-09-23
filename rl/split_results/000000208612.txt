@@ -1,0 +1,9 @@
+{"sent": "can only see part of this seat", "ann_id": 385154, "best_split": [1, 5], "split_score": 0.32051542204540223}
+{"sent": "chair two away from woman partially cut off", "ann_id": 385154, "best_split": [1, 5], "split_score": 0.32051542204540223}
+{"sent": "chair at 10 o clock", "ann_id": 385154, "best_split": [1, 5], "split_score": 0.32051542204540223}
+{"sent": "bench next to girl", "ann_id": 383567, "best_split": [3, 2], "split_score": 0.5241468125785458}
+{"sent": "empty chair next to lady", "ann_id": 383567, "best_split": [3, 2], "split_score": 0.5241468125785458}
+{"sent": "green chair next to women", "ann_id": 383567, "best_split": [3, 2], "split_score": 0.5241468125785458}
+{"sent": "seat she sitting on", "ann_id": 383531, "best_split": [1, 3], "split_score": 0.508380432639428}
+{"sent": "seat under her", "ann_id": 383531, "best_split": [1, 3], "split_score": 0.508380432639428}
+{"sent": "chair woman is sitting on", "ann_id": 383531, "best_split": [1, 3], "split_score": 0.508380432639428}

@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 1205808, "best_split": [1, 2], "split_score": 0.6780599438698487}
+{"sent": "skateboarder", "ann_id": 1205808, "best_split": [1, 2], "split_score": 0.6780599438698487}
+{"sent": "rider", "ann_id": 1205808, "best_split": [1, 2], "split_score": 0.6780599438698487}
+{"sent": "person in forground not on a board", "ann_id": 444094, "best_split": [2, 2], "split_score": 0.16762307458716225}
+{"sent": "partial man", "ann_id": 444094, "best_split": [1, 3], "split_score": 0.17615830114767383}
+{"sent": "cutoff man on side", "ann_id": 444094, "best_split": [1, 3], "split_score": 0.17615830114767383}

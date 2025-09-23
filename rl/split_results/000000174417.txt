@@ -1,0 +1,8 @@
+{"sent": "purse at 11 o clock", "ann_id": 1839200, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "smaller bag on table", "ann_id": 1839200, "best_split": [1, 5], "split_score": 0.25104602508072976}
+{"sent": "silver circle purse", "ann_id": 1836805, "best_split": [1, 2], "split_score": 0.07562767911529288}
+{"sent": "toppurse with gold handles", "ann_id": 1836805, "best_split": [1, 2], "split_score": 0.07562767911529288}
+{"sent": "purse on the table facing us", "ann_id": 1836805, "best_split": [1, 5], "split_score": 0.07841823055643278}
+{"sent": "bag with tag", "ann_id": 1173255, "best_split": [3, 2], "split_score": 0.4729370008348561}
+{"sent": "short long luggage", "ann_id": 1173255, "best_split": [3, 1], "split_score": 0.3011583011401328}
+{"sent": "bag sitting beside the big piece of luggage", "ann_id": 1173255, "best_split": [3, 1], "split_score": 0.3011583011401328}

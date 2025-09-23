@@ -1,0 +1,6 @@
+{"sent": "table food on it", "ann_id": 1960443, "best_split": [3, 3], "split_score": 0.5300038714159888}
+{"sent": "closer table", "ann_id": 1960443, "best_split": [3, 1], "split_score": 0.5111760080584535}
+{"sent": "table with bag on it", "ann_id": 1960443, "best_split": [3, 3], "split_score": 0.5300038714159888}
+{"sent": "table with laptop on it", "ann_id": 412733, "best_split": [2, 2], "split_score": 0.5271648872655464}
+{"sent": "table man is at", "ann_id": 412733, "best_split": [2, 2], "split_score": 0.5271648872655464}
+{"sent": "table with computer on it", "ann_id": 412733, "best_split": [2, 2], "split_score": 0.5271648872655464}

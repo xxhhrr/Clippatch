@@ -1,0 +1,6 @@
+{"sent": "man bending down not near chopping board", "ann_id": 431339, "best_split": [3, 1], "split_score": 0.18301075267833275}
+{"sent": "person at 3", "ann_id": 431339, "best_split": [1, 5], "split_score": 0.2884842353491414}
+{"sent": "chef 300", "ann_id": 431339, "best_split": [3, 1], "split_score": 0.18301075267833275}
+{"sent": "complete sideview of face", "ann_id": 421680, "best_split": [5, 1], "split_score": 0.10810810809980742}
+{"sent": "man next to stove", "ann_id": 421680, "best_split": [3, 2], "split_score": 0.22560975607606615}
+{"sent": "chef behind chopping block", "ann_id": 421680, "best_split": [1, 5], "split_score": 0.46428571423860737}

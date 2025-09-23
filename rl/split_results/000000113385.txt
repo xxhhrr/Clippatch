@@ -1,0 +1,9 @@
+{"sent": "boy", "ann_id": 2161117, "best_split": [3, 2], "split_score": 0.4646393210338897}
+{"sent": "boy facing away", "ann_id": 2161117, "best_split": [3, 2], "split_score": 0.4646393210338897}
+{"sent": "yes reallylil boy", "ann_id": 2161117, "best_split": [3, 2], "split_score": 0.4646393210338897}
+{"sent": "girl in pink dress", "ann_id": 2152970, "best_split": [1, 2], "split_score": 0.5280612244687476}
+{"sent": "girl in dress", "ann_id": 2152970, "best_split": [1, 2], "split_score": 0.5280612244687476}
+{"sent": "glasses girl", "ann_id": 2152970, "best_split": [1, 2], "split_score": 0.5280612244687476}
+{"sent": "woman in black standing behind girl in pink", "ann_id": 2167860, "best_split": [1, 5], "split_score": 0.3479099025621033}
+{"sent": "woman you can hardly see in the background wearing all dark clothing", "ann_id": 2167860, "best_split": [2, 3], "split_score": 0.34786609912022703}
+{"sent": "woman standing in dark clothes behind girl", "ann_id": 2167860, "best_split": [2, 2], "split_score": 0.23353154681955893}

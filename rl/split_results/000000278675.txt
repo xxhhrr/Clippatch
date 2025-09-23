@@ -1,0 +1,12 @@
+{"sent": "child", "ann_id": 1297319, "best_split": [3, 3], "split_score": 0.37312448468703635}
+{"sent": "small kid in white", "ann_id": 1297319, "best_split": [3, 3], "split_score": 0.37312448468703635}
+{"sent": "boy in corner", "ann_id": 1297319, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "long hair purple shirt", "ann_id": 1225746, "best_split": [1, 5], "split_score": 0.5241477272195467}
+{"sent": "person with a backpack", "ann_id": 1225746, "best_split": [1, 5], "split_score": 0.5241477272195467}
+{"sent": "woman with red shirt around wasit", "ann_id": 1225746, "best_split": [2, 2], "split_score": 0.3458469488300139}
+{"sent": "partially visible red food truck", "ann_id": 1197937, "best_split": [2, 3], "split_score": 0.2823920265445667}
+{"sent": "red truck in rear", "ann_id": 1197937, "best_split": [2, 3], "split_score": 0.2823920265445667}
+{"sent": "red truck", "ann_id": 1197937, "best_split": [2, 3], "split_score": 0.2823920265445667}
+{"sent": "food truck", "ann_id": 1798958, "best_split": [1, 2], "split_score": 0.5056895952827292}
+{"sent": "roach coach", "ann_id": 1798958, "best_split": [1, 2], "split_score": 0.5056895952827292}
+{"sent": "the food truck", "ann_id": 1798958, "best_split": [1, 2], "split_score": 0.5056895952827292}

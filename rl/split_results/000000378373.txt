@@ -1,0 +1,6 @@
+{"sent": "girl with hat", "ann_id": 224452, "best_split": [1, 2], "split_score": 0.7447908969726322}
+{"sent": "yellow hat", "ann_id": 224452, "best_split": [1, 2], "split_score": 0.7447908969726322}
+{"sent": "white shirt", "ann_id": 224452, "best_split": [1, 2], "split_score": 0.7447908969726322}
+{"sent": "no hat", "ann_id": 214739, "best_split": [2, 1], "split_score": 0.13003870199076992}
+{"sent": "yellow shirt", "ann_id": 214739, "best_split": [1, 3], "split_score": 0.6922015975695534}
+{"sent": "little girl", "ann_id": 214739, "best_split": [1, 3], "split_score": 0.6922015975695534}

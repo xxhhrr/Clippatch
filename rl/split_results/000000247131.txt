@@ -1,0 +1,11 @@
+{"sent": "glass container with white around it", "ann_id": 683666, "best_split": [3, 3], "split_score": 0.7757487215530042}
+{"sent": "glass with white", "ann_id": 683666, "best_split": [3, 3], "split_score": 0.7757487215530042}
+{"sent": "vase with white band", "ann_id": 683666, "best_split": [3, 3], "split_score": 0.7757487215530042}
+{"sent": "glass half full", "ann_id": 683414, "best_split": [3, 2], "split_score": 0.3864704679760402}
+{"sent": "coca cola glass", "ann_id": 683414, "best_split": [3, 2], "split_score": 0.3864704679760402}
+{"sent": "glass of pop", "ann_id": 683414, "best_split": [3, 2], "split_score": 0.3864704679760402}
+{"sent": "darker bun", "ann_id": 311903, "best_split": [2, 2], "split_score": 0.4741446759745256}
+{"sent": "closest bun", "ann_id": 311903, "best_split": [2, 2], "split_score": 0.4741446759745256}
+{"sent": "bread by class", "ann_id": 310569, "best_split": [3, 1], "split_score": 0.6128740824046938}
+{"sent": "hot dog bun with inside facing us", "ann_id": 310569, "best_split": [3, 1], "split_score": 0.6128740824046938}
+{"sent": "sandwich closest to glass", "ann_id": 310569, "best_split": [3, 1], "split_score": 0.6128740824046938}

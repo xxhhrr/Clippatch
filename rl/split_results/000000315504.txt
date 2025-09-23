@@ -1,0 +1,6 @@
+{"sent": "black pants vest striped shirt", "ann_id": 505359, "best_split": [5, 1], "split_score": 0.1978021977880832}
+{"sent": "man walking away", "ann_id": 505359, "best_split": [3, 2], "split_score": 0.3017964071598121}
+{"sent": "guy wearing vest", "ann_id": 505359, "best_split": [5, 1], "split_score": 0.1978021977880832}
+{"sent": "shes pushing bowl", "ann_id": 458185, "best_split": [1, 3], "split_score": 0.28119856712744706}
+{"sent": "girl", "ann_id": 458185, "best_split": [1, 5], "split_score": 0.5013304949060039}
+{"sent": "yes her the one moving a toilet", "ann_id": 458185, "best_split": [1, 3], "split_score": 0.28119856712744706}

@@ -1,0 +1,6 @@
+{"sent": "biggest keyboard", "ann_id": 1971404, "best_split": [2, 2], "split_score": 0.4697863520033652}
+{"sent": "keyboard closest", "ann_id": 1971404, "best_split": [2, 2], "split_score": 0.4697863520033652}
+{"sent": "computer with screen cut off next to man near us", "ann_id": 1971404, "best_split": [1, 5], "split_score": 0.3018930313051258}
+{"sent": "nearest laptop", "ann_id": 1970749, "best_split": [2, 2], "split_score": 0.7562181121846127}
+{"sent": "closest laptop on shelf", "ann_id": 1970749, "best_split": [2, 2], "split_score": 0.7562181121846127}
+{"sent": "laptop on gray shelf", "ann_id": 1970749, "best_split": [2, 3], "split_score": 0.6044412348253799}

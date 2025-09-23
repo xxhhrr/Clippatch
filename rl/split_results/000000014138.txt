@@ -1,0 +1,12 @@
+{"sent": "chair in corner", "ann_id": 1579739, "best_split": [2, 1], "split_score": 0.1415019132596659}
+{"sent": "chair at 4", "ann_id": 1579739, "best_split": [3, 2], "split_score": 0.4161981097719586}
+{"sent": "chair near fireplace", "ann_id": 1579739, "best_split": [3, 3], "split_score": 0.6129378126138424}
+{"sent": "partial couch", "ann_id": 116584, "best_split": [3, 2], "split_score": 0.39961389956568366}
+{"sent": "corner of sofa near score", "ann_id": 116584, "best_split": [3, 2], "split_score": 0.39961389956568366}
+{"sent": "chair closest to fire with back to us", "ann_id": 116584, "best_split": [3, 3], "split_score": 0.5908761765765973}
+{"sent": "striped couch seat cant be seen", "ann_id": 1597472, "best_split": [3, 3], "split_score": 0.46311330736619954}
+{"sent": "striped chair closest to the dog", "ann_id": 1597472, "best_split": [2, 3], "split_score": 0.3194675540385705}
+{"sent": "chair closest to dog", "ann_id": 1597472, "best_split": [2, 3], "split_score": 0.3194675540385705}
+{"sent": "couch facing us", "ann_id": 111546, "best_split": [2, 3], "split_score": 0.4709677418812249}
+{"sent": "tan sofa with 4 pillows", "ann_id": 111546, "best_split": [2, 3], "split_score": 0.4709677418812249}
+{"sent": "couch", "ann_id": 111546, "best_split": [2, 3], "split_score": 0.4709677418812249}

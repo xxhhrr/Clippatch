@@ -1,0 +1,9 @@
+{"sent": "woman without hat", "ann_id": 476028, "best_split": [1, 2], "split_score": 0.579320790793235}
+{"sent": "red head woman", "ann_id": 476028, "best_split": [1, 2], "split_score": 0.579320790793235}
+{"sent": "woman holding up glass", "ann_id": 476028, "best_split": [1, 2], "split_score": 0.579320790793235}
+{"sent": "woman holding baby", "ann_id": 471028, "best_split": [1, 5], "split_score": 0.5946956816903523}
+{"sent": "woman with baby", "ann_id": 471028, "best_split": [1, 5], "split_score": 0.5946956816903523}
+{"sent": "holding baby", "ann_id": 471028, "best_split": [1, 5], "split_score": 0.5946956816903523}
+{"sent": "man holding hand up", "ann_id": 433379, "best_split": [1, 5], "split_score": 0.6323529411236336}
+{"sent": "double button jacket", "ann_id": 433379, "best_split": [3, 3], "split_score": 0.25796812746862813}
+{"sent": "man", "ann_id": 433379, "best_split": [1, 5], "split_score": 0.6323529411236336}

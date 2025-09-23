@@ -1,0 +1,6 @@
+{"sent": "standing man", "ann_id": 220222, "best_split": [1, 3], "split_score": 0.7133807914627546}
+{"sent": "standing", "ann_id": 220222, "best_split": [1, 3], "split_score": 0.7133807914627546}
+{"sent": "standing player", "ann_id": 220222, "best_split": [1, 3], "split_score": 0.7133807914627546}
+{"sent": "sitting", "ann_id": 216873, "best_split": [1, 5], "split_score": 0.4915824915448743}
+{"sent": "sitting", "ann_id": 216873, "best_split": [1, 5], "split_score": 0.4915824915448743}
+{"sent": "man sitting", "ann_id": 216873, "best_split": [1, 5], "split_score": 0.4915824915448743}

@@ -1,0 +1,11 @@
+{"sent": "reflection of sink can only see drain no faucet", "ann_id": 1982866, "best_split": [3, 2], "split_score": 0.1099776856781975}
+{"sent": "sink reflection at 11 o clock", "ann_id": 1982866, "best_split": [1, 2], "split_score": 0.22480867346042696}
+{"sent": "sink reflection with no faucet", "ann_id": 1982866, "best_split": [3, 2], "split_score": 0.1099776856781975}
+{"sent": "sink in the t o p right i g h t", "ann_id": 1982646, "best_split": [1, 2], "split_score": 0.23724489794972717}
+{"sent": "reflection furthest away from soap", "ann_id": 1982646, "best_split": [3, 1], "split_score": 0.08999419391861843}
+{"sent": "sink", "ann_id": 1982064, "best_split": [2, 3], "split_score": 0.6533933517439929}
+{"sent": "sink not in a reflection", "ann_id": 1982064, "best_split": [2, 3], "split_score": 0.6533933517439929}
+{"sent": "drain", "ann_id": 1982064, "best_split": [2, 3], "split_score": 0.6533933517439929}
+{"sent": "image", "ann_id": 1131088, "best_split": [2, 1], "split_score": 0.22361288264414808}
+{"sent": "reflection directly behind main sink", "ann_id": 1131088, "best_split": [2, 3], "split_score": 0.5418238295382933}
+{"sent": "sink reflection directly back of actual sink", "ann_id": 1131088, "best_split": [1, 3], "split_score": 0.28227950524319273}

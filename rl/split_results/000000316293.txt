@@ -1,0 +1,14 @@
+{"sent": "eaten grapefruit", "ann_id": 2187341, "best_split": [3, 2], "split_score": 0.7793938047319425}
+{"sent": "mushed up stuff by orange", "ann_id": 2187341, "best_split": [1, 5], "split_score": 0.21588003591901872}
+{"sent": "cut grapefruit", "ann_id": 2187341, "best_split": [3, 2], "split_score": 0.7793938047319425}
+{"sent": "fruit in corner", "ann_id": 1052336, "best_split": [5, 1], "split_score": 0.34902597399056146}
+{"sent": "orange in corner", "ann_id": 1052336, "best_split": [3, 3], "split_score": 0.554935472522683}
+{"sent": "grapefruit that isnt peeled", "ann_id": 1051327, "best_split": [2, 2], "split_score": 0.3521381103472885}
+{"sent": "whole fruit next to cut one", "ann_id": 1051327, "best_split": [2, 2], "split_score": 0.3521381103472885}
+{"sent": "grapefruit in bowl", "ann_id": 1051327, "best_split": [2, 2], "split_score": 0.3521381103472885}
+{"sent": "plate the orange is on", "ann_id": 717416, "best_split": [3, 1], "split_score": 0.4648858250503616}
+{"sent": "bowl containing whole orange", "ann_id": 717416, "best_split": [3, 1], "split_score": 0.4648858250503616}
+{"sent": "round glass", "ann_id": 717416, "best_split": [5, 1], "split_score": 0.5161385845042835}
+{"sent": "juice cut off", "ann_id": 711879, "best_split": [2, 3], "split_score": 0.5274991351864984}
+{"sent": "bowl at 3 with yellow stuff in it", "ann_id": 711879, "best_split": [5, 1], "split_score": 0.22567835868417618}
+{"sent": "glass with orange liquid", "ann_id": 711879, "best_split": [2, 3], "split_score": 0.5274991351864984}

@@ -1,0 +1,6 @@
+{"sent": "man in ugly suit not just chest shot", "ann_id": 562303, "best_split": [1, 5], "split_score": 0.4187789722645833}
+{"sent": "face", "ann_id": 562303, "best_split": [2, 1], "split_score": 0.26478873238675515}
+{"sent": "full person", "ann_id": 562303, "best_split": [1, 2], "split_score": 0.7273298264612024}
+{"sent": "closeup of bow tie", "ann_id": 497056, "best_split": [1, 2], "split_score": 0.8334661989463701}
+{"sent": "vest with tie where his face is cutoff", "ann_id": 497056, "best_split": [1, 2], "split_score": 0.8334661989463701}
+{"sent": "zoomed side", "ann_id": 497056, "best_split": [1, 2], "split_score": 0.8334661989463701}

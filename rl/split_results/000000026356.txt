@@ -1,0 +1,6 @@
+{"sent": "black lamb", "ann_id": 65333, "best_split": [2, 3], "split_score": 0.7012693444008634}
+{"sent": "black animal", "ann_id": 65333, "best_split": [2, 3], "split_score": 0.7012693444008634}
+{"sent": "black one", "ann_id": 65333, "best_split": [2, 3], "split_score": 0.7012693444008634}
+{"sent": "white sheep", "ann_id": 64000, "best_split": [2, 2], "split_score": 0.5043721580619537}
+{"sent": "white one", "ann_id": 64000, "best_split": [2, 2], "split_score": 0.5043721580619537}
+{"sent": "light sheep", "ann_id": 64000, "best_split": [2, 2], "split_score": 0.5043721580619537}

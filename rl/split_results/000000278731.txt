@@ -1,0 +1,5 @@
+{"sent": "small bus", "ann_id": 1794234, "best_split": [3, 1], "split_score": 0.13131432626692804}
+{"sent": "part of a bus", "ann_id": 1794234, "best_split": [3, 1], "split_score": 0.13131432626692804}
+{"sent": "bus", "ann_id": 366015, "best_split": [2, 1], "split_score": 0.38206637081849154}
+{"sent": "full bus", "ann_id": 366015, "best_split": [1, 2], "split_score": 0.46166403100388553}
+{"sent": "biggest bus", "ann_id": 366015, "best_split": [1, 2], "split_score": 0.46166403100388553}

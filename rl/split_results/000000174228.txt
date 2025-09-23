@@ -1,0 +1,6 @@
+{"sent": "man with black jacket", "ann_id": 1749556, "best_split": [2, 1], "split_score": 0.17304267017064034}
+{"sent": "man black jacket", "ann_id": 1749556, "best_split": [2, 1], "split_score": 0.17304267017064034}
+{"sent": "blond man in black", "ann_id": 1749556, "best_split": [5, 1], "split_score": 0.11536467973969902}
+{"sent": "blond woman", "ann_id": 187520, "best_split": [3, 3], "split_score": 0.4405479451451304}
+{"sent": "her", "ann_id": 187520, "best_split": [3, 2], "split_score": 0.19888459114879153}
+{"sent": "lady", "ann_id": 187520, "best_split": [3, 3], "split_score": 0.4405479451451304}

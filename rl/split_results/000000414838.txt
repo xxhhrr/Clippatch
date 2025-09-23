@@ -1,0 +1,5 @@
+{"sent": "in between mug closest to us", "ann_id": 684477, "best_split": [3, 3], "split_score": 0.31780821912366297}
+{"sent": "mug between two other mugs closest to us", "ann_id": 684477, "best_split": [3, 3], "split_score": 0.31780821912366297}
+{"sent": "biggest cup in corner", "ann_id": 681376, "best_split": [5, 1], "split_score": 0.3130434782299364}
+{"sent": "big cup", "ann_id": 681376, "best_split": [5, 1], "split_score": 0.3130434782299364}
+{"sent": "large bowl at 7 0clock", "ann_id": 681376, "best_split": [5, 1], "split_score": 0.3130434782299364}

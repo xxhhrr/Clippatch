@@ -1,0 +1,6 @@
+{"sent": "slice of ham next to sandwich", "ann_id": 2218227, "best_split": [3, 2], "split_score": 0.39446366777741526}
+{"sent": "meat", "ann_id": 2218227, "best_split": [3, 2], "split_score": 0.39446366777741526}
+{"sent": "looks like piece of ham on plate", "ann_id": 2218227, "best_split": [3, 2], "split_score": 0.39446366777741526}
+{"sent": "half of sandwich", "ann_id": 1552654, "best_split": [5, 1], "split_score": 0.6106367179681979}
+{"sent": "large half of sandwich", "ann_id": 1552654, "best_split": [5, 1], "split_score": 0.6106367179681979}
+{"sent": "full half sandwich", "ann_id": 1552654, "best_split": [5, 1], "split_score": 0.6106367179681979}

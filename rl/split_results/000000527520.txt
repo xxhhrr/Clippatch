@@ -1,0 +1,6 @@
+{"sent": "zebra with head up", "ann_id": 590028, "best_split": [1, 3], "split_score": 0.4076683747983314}
+{"sent": "the head of the furthest zebra", "ann_id": 590028, "best_split": [1, 3], "split_score": 0.4076683747983314}
+{"sent": "zebra with head up", "ann_id": 590028, "best_split": [1, 3], "split_score": 0.4076683747983314}
+{"sent": "zebra near me", "ann_id": 588753, "best_split": [1, 2], "split_score": 0.6707003009503646}
+{"sent": "closest zebra", "ann_id": 588753, "best_split": [1, 2], "split_score": 0.6707003009503646}
+{"sent": "foreground animal", "ann_id": 588753, "best_split": [1, 2], "split_score": 0.6707003009503646}

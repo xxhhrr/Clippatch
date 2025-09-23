@@ -1,0 +1,4 @@
+{"sent": "fireplace insert", "ann_id": 35380, "best_split": [3, 2], "split_score": 0.40618311529058465}
+{"sent": "black square within large white frame", "ann_id": 35380, "best_split": [1, 5], "split_score": 0.1705995455190876}
+{"sent": "tv", "ann_id": 33731, "best_split": [3, 2], "split_score": 0.22767857140110054}
+{"sent": "flat panel screen", "ann_id": 33731, "best_split": [2, 2], "split_score": 0.15043048468188533}

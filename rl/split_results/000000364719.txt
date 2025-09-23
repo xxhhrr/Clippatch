@@ -1,0 +1,12 @@
+{"sent": "white shirt", "ann_id": 215960, "best_split": [2, 2], "split_score": 0.7079878825966208}
+{"sent": "man cutting off lamb head", "ann_id": 215960, "best_split": [1, 2], "split_score": 0.3539939413124205}
+{"sent": "white shirt", "ann_id": 215960, "best_split": [2, 2], "split_score": 0.7079878825966208}
+{"sent": "blue shirt", "ann_id": 194705, "best_split": [1, 2], "split_score": 0.5981975967757611}
+{"sent": "light blue shirt", "ann_id": 194705, "best_split": [1, 2], "split_score": 0.5981975967757611}
+{"sent": "light blue shirt", "ann_id": 194705, "best_split": [1, 2], "split_score": 0.5981975967757611}
+{"sent": "dark sheep near guy in white", "ann_id": 66591, "best_split": [1, 2], "split_score": 0.18353726361896006}
+{"sent": "black animal", "ann_id": 66591, "best_split": [3, 2], "split_score": 0.5518394648170283}
+{"sent": "black sheep been killed", "ann_id": 66591, "best_split": [3, 3], "split_score": 0.42258244823608404}
+{"sent": "white sheep", "ann_id": 66097, "best_split": [2, 2], "split_score": 0.5003671970318012}
+{"sent": "dead animal", "ann_id": 66097, "best_split": [2, 2], "split_score": 0.5003671970318012}
+{"sent": "sheep", "ann_id": 66097, "best_split": [2, 2], "split_score": 0.5003671970318012}

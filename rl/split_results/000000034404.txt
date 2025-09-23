@@ -1,0 +1,6 @@
+{"sent": "kid in red jacket", "ann_id": 1733914, "best_split": [2, 3], "split_score": 0.6837673780415344}
+{"sent": "red jacket", "ann_id": 1733914, "best_split": [2, 3], "split_score": 0.6837673780415344}
+{"sent": "kid in red", "ann_id": 1733914, "best_split": [2, 3], "split_score": 0.6837673780415344}
+{"sent": "whose leg and arm is that", "ann_id": 467515, "best_split": [1, 3], "split_score": 0.2693050192887726}
+{"sent": "man not visible", "ann_id": 467515, "best_split": [1, 3], "split_score": 0.2693050192887726}
+{"sent": "half person", "ann_id": 467515, "best_split": [1, 5], "split_score": 0.452922077876124}

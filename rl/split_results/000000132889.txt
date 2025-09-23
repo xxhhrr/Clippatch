@@ -1,0 +1,9 @@
+{"sent": "person in light clothing", "ann_id": 1214012, "best_split": [2, 1], "split_score": 0.24514563105866408}
+{"sent": "white jacket with black stripes", "ann_id": 1214012, "best_split": [2, 3], "split_score": 0.6755852842103276}
+{"sent": "striped sleeve man", "ann_id": 1214012, "best_split": [2, 3], "split_score": 0.6755852842103276}
+{"sent": "black jacket", "ann_id": 469881, "best_split": [2, 3], "split_score": 0.6638772663298572}
+{"sent": "person in black", "ann_id": 469881, "best_split": [2, 3], "split_score": 0.6638772663298572}
+{"sent": "black and white jacket eyes hidden", "ann_id": 469881, "best_split": [2, 3], "split_score": 0.6638772663298572}
+{"sent": "arm", "ann_id": 427094, "best_split": [2, 1], "split_score": 0.3824283778459536}
+{"sent": "person with arm outstretched", "ann_id": 427094, "best_split": [1, 2], "split_score": 0.7524385006823987}
+{"sent": "arms of person in red shirt", "ann_id": 427094, "best_split": [1, 2], "split_score": 0.7524385006823987}

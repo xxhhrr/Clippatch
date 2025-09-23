@@ -1,0 +1,6 @@
+{"sent": "woman on couch", "ann_id": 254072, "best_split": [3, 2], "split_score": 0.7166073017902262}
+{"sent": "lady in blue", "ann_id": 254072, "best_split": [2, 2], "split_score": 0.56871811219956}
+{"sent": "female", "ann_id": 254072, "best_split": [3, 1], "split_score": 0.37274201016832204}
+{"sent": "the wii man", "ann_id": 183929, "best_split": [1, 2], "split_score": 0.9024371282737033}
+{"sent": "the man standing", "ann_id": 183929, "best_split": [1, 2], "split_score": 0.9024371282737033}
+{"sent": "man", "ann_id": 183929, "best_split": [1, 2], "split_score": 0.9024371282737033}

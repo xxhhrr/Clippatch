@@ -1,0 +1,5 @@
+{"sent": "white shirt furthest from camera", "ann_id": 556475, "best_split": [3, 2], "split_score": 0.6200487507144996}
+{"sent": "person wearing multicolored shorts", "ann_id": 556475, "best_split": [3, 1], "split_score": 0.38008965257844185}
+{"sent": "white shirt skater behind", "ann_id": 556475, "best_split": [1, 2], "split_score": 0.5173788265099897}
+{"sent": "big skater", "ann_id": 439465, "best_split": [1, 2], "split_score": 0.45126242359246677}
+{"sent": "guy", "ann_id": 439465, "best_split": [1, 3], "split_score": 0.48522718504646967}

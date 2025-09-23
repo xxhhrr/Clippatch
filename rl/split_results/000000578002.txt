@@ -1,0 +1,12 @@
+{"sent": "wine glass on table", "ann_id": 667386, "best_split": [2, 2], "split_score": 0.26259566324437217}
+{"sent": "small glass", "ann_id": 667386, "best_split": [1, 2], "split_score": 0.13129783162741956}
+{"sent": "empty glass", "ann_id": 667386, "best_split": [1, 2], "split_score": 0.13129783162741956}
+{"sent": "main glass", "ann_id": 666957, "best_split": [2, 3], "split_score": 0.34986502118396723}
+{"sent": "glass with words", "ann_id": 666957, "best_split": [2, 3], "split_score": 0.34986502118396723}
+{"sent": "glass in hand", "ann_id": 666957, "best_split": [2, 3], "split_score": 0.34986502118396723}
+{"sent": "green cover", "ann_id": 95243, "best_split": [2, 3], "split_score": 0.5158059844937493}
+{"sent": "green with letter aft", "ann_id": 95243, "best_split": [2, 3], "split_score": 0.5158059844937493}
+{"sent": "green covering", "ann_id": 95243, "best_split": [2, 3], "split_score": 0.5158059844937493}
+{"sent": "black labeled bottle with white swooshy", "ann_id": 87697, "best_split": [3, 3], "split_score": 0.5231362467025809}
+{"sent": "wine bottle at 9", "ann_id": 87697, "best_split": [3, 2], "split_score": 0.36033643200970156}
+{"sent": "full visible bottle", "ann_id": 87597, "best_split": [1, 5], "split_score": 0.45709888414225675}

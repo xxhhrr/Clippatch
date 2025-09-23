@@ -1,0 +1,5 @@
+{"sent": "weird muffin with goo in middle the one nearest us", "ann_id": 1929195, "best_split": [3, 3], "split_score": 0.40645980758365813}
+{"sent": "baked good with berry in it closeest to us", "ann_id": 1929195, "best_split": [3, 3], "split_score": 0.40645980758365813}
+{"sent": "blue cupcake liner", "ann_id": 1576883, "best_split": [3, 3], "split_score": 0.4686253172889689}
+{"sent": "blue cupcake", "ann_id": 1576883, "best_split": [3, 2], "split_score": 0.3163610038228329}
+{"sent": "cupcake in back nearest side edge", "ann_id": 1576883, "best_split": [3, 2], "split_score": 0.3163610038228329}

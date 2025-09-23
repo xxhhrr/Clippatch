@@ -1,0 +1,6 @@
+{"sent": "white sh", "ann_id": 441589, "best_split": [1, 2], "split_score": 0.6969068877273236}
+{"sent": "white shirt", "ann_id": 441589, "best_split": [1, 2], "split_score": 0.6969068877273236}
+{"sent": "white shirt", "ann_id": 441589, "best_split": [1, 2], "split_score": 0.6969068877273236}
+{"sent": "brown shirt", "ann_id": 429808, "best_split": [2, 1], "split_score": 0.2681085358125974}
+{"sent": "bending over", "ann_id": 429808, "best_split": [1, 2], "split_score": 0.5331234055909948}
+{"sent": "brown shirt", "ann_id": 429808, "best_split": [2, 1], "split_score": 0.2681085358125974}

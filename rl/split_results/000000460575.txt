@@ -1,0 +1,5 @@
+{"sent": "girl", "ann_id": 520381, "best_split": [3, 1], "split_score": 0.3889586776730923}
+{"sent": "girl", "ann_id": 520381, "best_split": [3, 1], "split_score": 0.3889586776730923}
+{"sent": "a handicapped boy", "ann_id": 458523, "best_split": [1, 2], "split_score": 0.6067000791119305}
+{"sent": "boy", "ann_id": 458523, "best_split": [1, 2], "split_score": 0.6067000791119305}
+{"sent": "male", "ann_id": 458523, "best_split": [1, 2], "split_score": 0.6067000791119305}

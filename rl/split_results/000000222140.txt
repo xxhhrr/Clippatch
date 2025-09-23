@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 521610, "best_split": [1, 2], "split_score": 0.33083545917048646}
+{"sent": "white blouse on woman", "ann_id": 521610, "best_split": [1, 5], "split_score": 0.6730556578812149}
+{"sent": "woman in white facing away", "ann_id": 521610, "best_split": [1, 5], "split_score": 0.6730556578812149}
+{"sent": "guy on phone jesus", "ann_id": 467690, "best_split": [1, 3], "split_score": 0.5495518565740057}
+{"sent": "main person in photo", "ann_id": 467690, "best_split": [1, 3], "split_score": 0.5495518565740057}
+{"sent": "dude chatting on his cell", "ann_id": 467690, "best_split": [1, 3], "split_score": 0.5495518565740057}

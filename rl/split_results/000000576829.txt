@@ -1,0 +1,4 @@
+{"sent": "mattress on iron bed", "ann_id": 1612703, "best_split": [2, 3], "split_score": 0.39222614836658276}
+{"sent": "bed with spread", "ann_id": 318326, "best_split": [2, 1], "split_score": 0.6361219750477841}
+{"sent": "bed", "ann_id": 318326, "best_split": [2, 1], "split_score": 0.6361219750477841}
+{"sent": "bedspread", "ann_id": 318326, "best_split": [2, 1], "split_score": 0.6361219750477841}

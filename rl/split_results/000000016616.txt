@@ -1,0 +1,6 @@
+{"sent": "silver car obfuscated by bicycle", "ann_id": 1780979, "best_split": [2, 3], "split_score": 0.5778894471670388}
+{"sent": "silver car on side of girl with bicycle", "ann_id": 1780979, "best_split": [2, 3], "split_score": 0.5778894471670388}
+{"sent": "car next to bike", "ann_id": 1780979, "best_split": [2, 3], "split_score": 0.5778894471670388}
+{"sent": "silver bmw", "ann_id": 131972, "best_split": [1, 2], "split_score": 0.05998956702958531}
+{"sent": "silver bmw suv", "ann_id": 131972, "best_split": [1, 2], "split_score": 0.05998956702958531}
+{"sent": "parked bmw", "ann_id": 131972, "best_split": [1, 2], "split_score": 0.05998956702958531}

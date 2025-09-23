@@ -1,0 +1,6 @@
+{"sent": "partial zebra next to smaller", "ann_id": 593713, "best_split": [3, 3], "split_score": 0.5112270713929116}
+{"sent": "zebra behind baby", "ann_id": 593713, "best_split": [3, 3], "split_score": 0.5112270713929116}
+{"sent": "zebra with head down", "ann_id": 593713, "best_split": [5, 1], "split_score": 0.20094786728126257}
+{"sent": "zebra facing camera", "ann_id": 591075, "best_split": [2, 2], "split_score": 0.8170347002540909}
+{"sent": "all by himself", "ann_id": 591075, "best_split": [2, 2], "split_score": 0.8170347002540909}
+{"sent": "zebra closest to us", "ann_id": 591075, "best_split": [2, 2], "split_score": 0.8170347002540909}

@@ -1,0 +1,6 @@
+{"sent": "outside cat", "ann_id": 1402108, "best_split": [2, 2], "split_score": 0.4148082069316421}
+{"sent": "outdoor cat", "ann_id": 1402108, "best_split": [2, 2], "split_score": 0.4148082069316421}
+{"sent": "lighter cat outside", "ann_id": 1402108, "best_split": [2, 2], "split_score": 0.4148082069316421}
+{"sent": "white cat", "ann_id": 48597, "best_split": [2, 1], "split_score": 0.5062242650458147}
+{"sent": "inside cat", "ann_id": 48597, "best_split": [2, 1], "split_score": 0.5062242650458147}
+{"sent": "cat inside", "ann_id": 48597, "best_split": [2, 1], "split_score": 0.5062242650458147}

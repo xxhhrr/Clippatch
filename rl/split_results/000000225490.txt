@@ -1,0 +1,9 @@
+{"sent": "the slice furthest away from camera man", "ann_id": 1074577, "best_split": [1, 5], "split_score": 0.3076923076643636}
+{"sent": "pizza near the green can", "ann_id": 1074577, "best_split": [2, 2], "split_score": 0.362165178542557}
+{"sent": "piece of pizza on other side of plate", "ann_id": 1074577, "best_split": [2, 2], "split_score": 0.362165178542557}
+{"sent": "the slice of pizza at the very edge of the picture", "ann_id": 1073516, "best_split": [2, 3], "split_score": 0.4026845637101289}
+{"sent": "pizza farthest away from empty plate", "ann_id": 1073516, "best_split": [3, 3], "split_score": 0.3255813953003009}
+{"sent": "pizza slice closest to us", "ann_id": 1072516, "best_split": [3, 2], "split_score": 0.8108108107129813}
+{"sent": "piece of pizza hanging over on empty white plate", "ann_id": 1070855, "best_split": [2, 3], "split_score": 0.5959765296855494}
+{"sent": "hanging off piece of pizza near empty plate", "ann_id": 1070855, "best_split": [2, 3], "split_score": 0.5959765296855494}
+{"sent": "pizza piece nearest to empty plate", "ann_id": 1070855, "best_split": [2, 3], "split_score": 0.5959765296855494}

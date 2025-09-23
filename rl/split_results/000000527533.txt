@@ -1,0 +1,12 @@
+{"sent": "pizza near knife", "ann_id": 1077149, "best_split": [3, 2], "split_score": 0.28667953664494694}
+{"sent": "pizza in box with knife on it", "ann_id": 1077149, "best_split": [3, 2], "split_score": 0.28667953664494694}
+{"sent": "pizza at2 o clock", "ann_id": 1077149, "best_split": [3, 2], "split_score": 0.28667953664494694}
+{"sent": "small pizza closest to you", "ann_id": 1076035, "best_split": [2, 2], "split_score": 0.49362244894024054}
+{"sent": "smaller complete pizza", "ann_id": 1076035, "best_split": [2, 2], "split_score": 0.49362244894024054}
+{"sent": "smaller whole pizza", "ann_id": 1076035, "best_split": [2, 2], "split_score": 0.49362244894024054}
+{"sent": "pizza lower", "ann_id": 1075705, "best_split": [2, 1], "split_score": 0.3824139030459816}
+{"sent": "bigger nearest pizza to camera", "ann_id": 1075705, "best_split": [2, 1], "split_score": 0.3824139030459816}
+{"sent": "pizza closest to us", "ann_id": 1075705, "best_split": [2, 1], "split_score": 0.3824139030459816}
+{"sent": "pizza thats not blurry with on slice missing", "ann_id": 1072680, "best_split": [3, 3], "split_score": 0.4968517457789279}
+{"sent": "pizza inbetween", "ann_id": 1072680, "best_split": [3, 3], "split_score": 0.4968517457789279}
+{"sent": "one slice missing pizza", "ann_id": 1072680, "best_split": [3, 3], "split_score": 0.4968517457789279}

@@ -1,0 +1,6 @@
+{"sent": "horse being ridden by blue shirt guy", "ann_id": 54803, "best_split": [3, 1], "split_score": 0.20596421470003043}
+{"sent": "horse blue sweater jocky is on", "ann_id": 54803, "best_split": [3, 1], "split_score": 0.20596421470003043}
+{"sent": "all brown horse", "ann_id": 54803, "best_split": [3, 1], "split_score": 0.20596421470003043}
+{"sent": "horse with men in red", "ann_id": 54585, "best_split": [1, 2], "split_score": 0.3886453229050346}
+{"sent": "brown and white horse", "ann_id": 54585, "best_split": [1, 2], "split_score": 0.3886453229050346}
+{"sent": "pinto horse", "ann_id": 54585, "best_split": [1, 2], "split_score": 0.3886453229050346}

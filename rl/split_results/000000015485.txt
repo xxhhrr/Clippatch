@@ -1,0 +1,17 @@
+{"sent": "square table", "ann_id": 1966004, "best_split": [3, 1], "split_score": 0.2238858345874438}
+{"sent": "table next to light chair", "ann_id": 1966004, "best_split": [5, 1], "split_score": 0.17794361524229324}
+{"sent": "table by sofa chair", "ann_id": 1966004, "best_split": [5, 1], "split_score": 0.17794361524229324}
+{"sent": "white chair", "ann_id": 1594027, "best_split": [5, 1], "split_score": 0.23429179976918516}
+{"sent": "gray chair", "ann_id": 1594027, "best_split": [5, 1], "split_score": 0.23429179976918516}
+{"sent": "leather chair", "ann_id": 1594027, "best_split": [2, 1], "split_score": 0.2035350830131022}
+{"sent": "table next to wooden chair", "ann_id": 320623, "best_split": [3, 3], "split_score": 0.5458798127841166}
+{"sent": "desk", "ann_id": 320623, "best_split": [2, 3], "split_score": 0.3624850656675645}
+{"sent": "white chair", "ann_id": 116867, "best_split": [5, 1], "split_score": 0.23791348598617099}
+{"sent": "green armchair", "ann_id": 116867, "best_split": [3, 1], "split_score": 0.184272050999773}
+{"sent": "chair across from couch", "ann_id": 116867, "best_split": [3, 1], "split_score": 0.184272050999773}
+{"sent": "couch", "ann_id": 115263, "best_split": [3, 2], "split_score": 0.6465712131933931}
+{"sent": "sofa", "ann_id": 115263, "best_split": [3, 2], "split_score": 0.6465712131933931}
+{"sent": "white couch", "ann_id": 115263, "best_split": [3, 2], "split_score": 0.6465712131933931}
+{"sent": "wooden chair", "ann_id": 108341, "best_split": [3, 3], "split_score": 0.42608134273304044}
+{"sent": "the least comfortable looking chair", "ann_id": 108341, "best_split": [2, 3], "split_score": 0.40540540535649067}
+{"sent": "chair in forefront", "ann_id": 108341, "best_split": [3, 3], "split_score": 0.42608134273304044}

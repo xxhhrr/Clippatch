@@ -1,0 +1,6 @@
+{"sent": "brown", "ann_id": 457446, "best_split": [3, 2], "split_score": 0.3214906352267339}
+{"sent": "woman bending in brown dress", "ann_id": 457446, "best_split": [3, 2], "split_score": 0.3214906352267339}
+{"sent": "brown dress", "ann_id": 457446, "best_split": [3, 2], "split_score": 0.3214906352267339}
+{"sent": "red shirt flower dress", "ann_id": 421357, "best_split": [1, 5], "split_score": 0.43027888442319095}
+{"sent": "red", "ann_id": 421357, "best_split": [1, 5], "split_score": 0.43027888442319095}
+{"sent": "flower skirt", "ann_id": 421357, "best_split": [1, 5], "split_score": 0.43027888442319095}

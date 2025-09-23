@@ -1,0 +1,6 @@
+{"sent": "horse getting drink", "ann_id": 274080, "best_split": [1, 5], "split_score": 0.2766490397739448}
+{"sent": "horse drinking", "ann_id": 274080, "best_split": [1, 5], "split_score": 0.2766490397739448}
+{"sent": "horse drinking", "ann_id": 274080, "best_split": [1, 5], "split_score": 0.2766490397739448}
+{"sent": "not drinking", "ann_id": 54015, "best_split": [1, 3], "split_score": 0.17989469577906128}
+{"sent": "horse with head up", "ann_id": 54015, "best_split": [3, 2], "split_score": 0.5471514679615835}
+{"sent": "horse 3 o clock", "ann_id": 54015, "best_split": [3, 2], "split_score": 0.5471514679615835}

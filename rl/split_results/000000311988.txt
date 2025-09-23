@@ -1,0 +1,11 @@
+{"sent": "vase with purple flower", "ann_id": 1151380, "best_split": [1, 5], "split_score": 0.463808854486115}
+{"sent": "vase with purple flowers", "ann_id": 1151380, "best_split": [1, 5], "split_score": 0.463808854486115}
+{"sent": "vase with flower", "ann_id": 1151380, "best_split": [1, 5], "split_score": 0.463808854486115}
+{"sent": "chair behind plant", "ann_id": 1937903, "best_split": [2, 3], "split_score": 0.322426721172254}
+{"sent": "chair behind vase", "ann_id": 1937903, "best_split": [2, 3], "split_score": 0.322426721172254}
+{"sent": "chair behind flowers", "ann_id": 1937903, "best_split": [2, 3], "split_score": 0.322426721172254}
+{"sent": "closet chair", "ann_id": 1935333, "best_split": [1, 5], "split_score": 0.4308987735281989}
+{"sent": "half chair back", "ann_id": 1935333, "best_split": [3, 3], "split_score": 0.5505648938343117}
+{"sent": "cut off vase on edge", "ann_id": 1668866, "best_split": [1, 2], "split_score": 0.32800542090529317}
+{"sent": "half of vase showing", "ann_id": 1668866, "best_split": [1, 2], "split_score": 0.32800542090529317}
+{"sent": "vase cut off on edge of photo", "ann_id": 1668866, "best_split": [1, 2], "split_score": 0.32800542090529317}

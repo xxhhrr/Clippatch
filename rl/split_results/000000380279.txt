@@ -1,0 +1,9 @@
+{"sent": "woman with headdress", "ann_id": 532198, "best_split": [3, 3], "split_score": 0.667788314367117}
+{"sent": "white dress", "ann_id": 532198, "best_split": [3, 3], "split_score": 0.667788314367117}
+{"sent": "nun", "ann_id": 532198, "best_split": [3, 3], "split_score": 0.667788314367117}
+{"sent": "person obscured by blue shirt guy", "ann_id": 527236, "best_split": [2, 2], "split_score": 0.2087925251432204}
+{"sent": "the boy that is not in blue", "ann_id": 527236, "best_split": [2, 2], "split_score": 0.2087925251432204}
+{"sent": "boy that is blocked", "ann_id": 527236, "best_split": [1, 3], "split_score": 0.39321058685884863}
+{"sent": "blue shirt", "ann_id": 439868, "best_split": [2, 2], "split_score": 0.6421895860739913}
+{"sent": "blue shirt with hi and tight hair", "ann_id": 439868, "best_split": [2, 2], "split_score": 0.6421895860739913}
+{"sent": "boy", "ann_id": 439868, "best_split": [2, 2], "split_score": 0.6421895860739913}

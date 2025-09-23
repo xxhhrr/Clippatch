@@ -1,0 +1,5 @@
+{"sent": "stove controls", "ann_id": 1980143, "best_split": [3, 1], "split_score": 0.8071911196424233}
+{"sent": "the part of the grill with knobs and clock", "ann_id": 1980143, "best_split": [2, 1], "split_score": 0.5333227040603745}
+{"sent": "grill controls", "ann_id": 1980143, "best_split": [3, 1], "split_score": 0.8071911196424233}
+{"sent": "rack", "ann_id": 1979888, "best_split": [3, 1], "split_score": 0.470302750159744}
+{"sent": "rack with food", "ann_id": 1979888, "best_split": [2, 1], "split_score": 0.6562953049889513}

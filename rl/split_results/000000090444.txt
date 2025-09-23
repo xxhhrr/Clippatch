@@ -1,0 +1,9 @@
+{"sent": "yellow wristband", "ann_id": 546692, "best_split": [2, 3], "split_score": 0.7515018593733668}
+{"sent": "person reaching for food", "ann_id": 546692, "best_split": [2, 3], "split_score": 0.7515018593733668}
+{"sent": "arm", "ann_id": 546692, "best_split": [3, 2], "split_score": 0.34190531850219863}
+{"sent": "customer at the counter", "ann_id": 527560, "best_split": [2, 3], "split_score": 0.3391058490599836}
+{"sent": "standing counter distance", "ann_id": 527560, "best_split": [1, 5], "split_score": 0.36188925078486245}
+{"sent": "most standing no head", "ann_id": 527560, "best_split": [2, 3], "split_score": 0.3391058490599836}
+{"sent": "bears", "ann_id": 2154401, "best_split": [1, 3], "split_score": 0.43682684339080224}
+{"sent": "bears shirt", "ann_id": 2154401, "best_split": [2, 3], "split_score": 0.6968957097404171}
+{"sent": "bears", "ann_id": 2154401, "best_split": [1, 3], "split_score": 0.43682684339080224}

@@ -1,0 +1,6 @@
+{"sent": "woman on the couch", "ann_id": 229754, "best_split": [3, 1], "split_score": 0.20808220530540053}
+{"sent": "woman standing", "ann_id": 229754, "best_split": [2, 3], "split_score": 0.5565183900869903}
+{"sent": "lady standing", "ann_id": 229754, "best_split": [2, 3], "split_score": 0.5565183900869903}
+{"sent": "seated lady", "ann_id": 195058, "best_split": [2, 3], "split_score": 0.46341940527548714}
+{"sent": "sitting woman", "ann_id": 195058, "best_split": [2, 3], "split_score": 0.46341940527548714}
+{"sent": "woman sittig", "ann_id": 195058, "best_split": [1, 2], "split_score": 0.2660235969281719}

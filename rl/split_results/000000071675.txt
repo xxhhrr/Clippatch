@@ -1,0 +1,6 @@
+{"sent": "silver car", "ann_id": 132982, "best_split": [3, 1], "split_score": 0.24423203690490145}
+{"sent": "grayish car", "ann_id": 132982, "best_split": [2, 2], "split_score": 0.802203856694063}
+{"sent": "car head of the bike", "ann_id": 132982, "best_split": [1, 5], "split_score": 0.32535561072898195}
+{"sent": "darker car hood", "ann_id": 132074, "best_split": [2, 3], "split_score": 0.6100358422392441}
+{"sent": "car behing bike", "ann_id": 132074, "best_split": [3, 2], "split_score": 0.42512690351958066}
+{"sent": "car 9pm", "ann_id": 132074, "best_split": [3, 2], "split_score": 0.42512690351958066}

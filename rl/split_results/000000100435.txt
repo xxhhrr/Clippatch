@@ -1,0 +1,7 @@
+{"sent": "donut partial at 7 oclcock", "ann_id": 1083282, "best_split": [2, 3], "split_score": 0.276993216915713}
+{"sent": "donut at 7 o clock", "ann_id": 1083282, "best_split": [2, 3], "split_score": 0.276993216915713}
+{"sent": "half donut lower", "ann_id": 1083175, "best_split": [2, 1], "split_score": 0.1525829081571834}
+{"sent": "donut that looks like backwards c", "ann_id": 1083175, "best_split": [2, 1], "split_score": 0.1525829081571834}
+{"sent": "donut that is low on plate and looks like a backwards c", "ann_id": 1083175, "best_split": [2, 1], "split_score": 0.1525829081571834}
+{"sent": "donut over all the others", "ann_id": 1079586, "best_split": [5, 1], "split_score": 0.2843369417892137}
+{"sent": "donut sitting on two others closest to you", "ann_id": 1079586, "best_split": [2, 2], "split_score": 0.2731676045107794}

@@ -1,0 +1,6 @@
+{"sent": "female", "ann_id": 1201381, "best_split": [2, 3], "split_score": 0.5167279883189246}
+{"sent": "woman", "ann_id": 1201381, "best_split": [2, 3], "split_score": 0.5167279883189246}
+{"sent": "girl", "ann_id": 1201381, "best_split": [2, 3], "split_score": 0.5167279883189246}
+{"sent": "stripe man", "ann_id": 498470, "best_split": [1, 2], "split_score": 0.9102999851887728}
+{"sent": "man cutting cake", "ann_id": 498470, "best_split": [2, 1], "split_score": 0.3381987577552226}
+{"sent": "man", "ann_id": 498470, "best_split": [1, 2], "split_score": 0.9102999851887728}

@@ -1,0 +1,9 @@
+{"sent": "the horse in the background", "ann_id": 2210180, "best_split": [1, 5], "split_score": 0.4587802865157317}
+{"sent": "the farthest horse", "ann_id": 2210180, "best_split": [1, 5], "split_score": 0.4587802865157317}
+{"sent": "horse ridden by lady", "ann_id": 2210180, "best_split": [1, 5], "split_score": 0.4587802865157317}
+{"sent": "child behind man", "ann_id": 217025, "best_split": [2, 3], "split_score": 0.2741935483594563}
+{"sent": "girls hair", "ann_id": 217025, "best_split": [2, 2], "split_score": 0.3183520599002534}
+{"sent": "little girl", "ann_id": 217025, "best_split": [2, 2], "split_score": 0.3183520599002534}
+{"sent": "goofy dude", "ann_id": 186853, "best_split": [1, 3], "split_score": 0.4726277372108763}
+{"sent": "person throwing peace signs", "ann_id": 186853, "best_split": [1, 3], "split_score": 0.4726277372108763}
+{"sent": "boy", "ann_id": 186853, "best_split": [1, 3], "split_score": 0.4726277372108763}

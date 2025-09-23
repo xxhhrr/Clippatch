@@ -1,0 +1,12 @@
+{"sent": "whole pizza", "ann_id": 1073392, "best_split": [5, 1], "split_score": 0.2752764612682389}
+{"sent": "full pizza", "ann_id": 1073392, "best_split": [5, 1], "split_score": 0.2752764612682389}
+{"sent": "pizza", "ann_id": 1073392, "best_split": [5, 1], "split_score": 0.2752764612682389}
+{"sent": "upside down glass", "ann_id": 673997, "best_split": [3, 3], "split_score": 0.3627390499132111}
+{"sent": "upside down glass", "ann_id": 673997, "best_split": [3, 3], "split_score": 0.3627390499132111}
+{"sent": "upside down glass", "ann_id": 673997, "best_split": [3, 3], "split_score": 0.3627390499132111}
+{"sent": "pizza slice in front", "ann_id": 1923292, "best_split": [1, 5], "split_score": 0.43358568474745984}
+{"sent": "food with white stuff on it by lettuce and tomato", "ann_id": 1923292, "best_split": [2, 3], "split_score": 0.4892423895068388}
+{"sent": "slice pointing at us", "ann_id": 1923292, "best_split": [2, 3], "split_score": 0.4892423895068388}
+{"sent": "beer almost unseen", "ann_id": 672616, "best_split": [2, 3], "split_score": 0.2644961976872034}
+{"sent": "beer cut out of frame", "ann_id": 672616, "best_split": [2, 3], "split_score": 0.2644961976872034}
+{"sent": "glass with writing", "ann_id": 672616, "best_split": [2, 3], "split_score": 0.2644961976872034}

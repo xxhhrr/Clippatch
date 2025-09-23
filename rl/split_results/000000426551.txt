@@ -1,0 +1,6 @@
+{"sent": "man in brown", "ann_id": 213717, "best_split": [2, 3], "split_score": 0.42140468223901295}
+{"sent": "dark shirt", "ann_id": 213717, "best_split": [2, 3], "split_score": 0.42140468223901295}
+{"sent": "man", "ann_id": 213717, "best_split": [2, 2], "split_score": 0.36378801486181267}
+{"sent": "pink", "ann_id": 211059, "best_split": [1, 2], "split_score": 0.4336104975823824}
+{"sent": "woman in pink", "ann_id": 211059, "best_split": [1, 2], "split_score": 0.4336104975823824}
+{"sent": "girl in the pink hoody", "ann_id": 211059, "best_split": [1, 2], "split_score": 0.4336104975823824}

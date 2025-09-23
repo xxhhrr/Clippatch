@@ -1,0 +1,9 @@
+{"sent": "coach in dugout with cap with red emblem", "ann_id": 527050, "best_split": [2, 2], "split_score": 0.23995535712372804}
+{"sent": "man in dugout with ball cap closest to dirt", "ann_id": 527050, "best_split": [2, 2], "split_score": 0.23995535712372804}
+{"sent": "coach", "ann_id": 527050, "best_split": [1, 2], "split_score": 0.11997767856664629}
+{"sent": "catcher behind batter", "ann_id": 518070, "best_split": [2, 1], "split_score": 0.331313751041824}
+{"sent": "man squatting", "ann_id": 518070, "best_split": [2, 2], "split_score": 0.6383921973815285}
+{"sent": "catcher", "ann_id": 518070, "best_split": [2, 2], "split_score": 0.6383921973815285}
+{"sent": "batter", "ann_id": 513427, "best_split": [1, 2], "split_score": 0.4483844970163241}
+{"sent": "batter", "ann_id": 513427, "best_split": [1, 2], "split_score": 0.4483844970163241}
+{"sent": "player in whte", "ann_id": 513427, "best_split": [1, 2], "split_score": 0.4483844970163241}

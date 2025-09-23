@@ -1,0 +1,6 @@
+{"sent": "elephant straight trunk", "ann_id": 585297, "best_split": [3, 1], "split_score": 0.40968040757238994}
+{"sent": "larger one", "ann_id": 585297, "best_split": [3, 2], "split_score": 0.7403554398850937}
+{"sent": "elephant can not see all of trunk", "ann_id": 585297, "best_split": [3, 1], "split_score": 0.40968040757238994}
+{"sent": "elephant deeper in water", "ann_id": 581977, "best_split": [3, 2], "split_score": 0.7551164431010213}
+{"sent": "trunk down", "ann_id": 581977, "best_split": [3, 2], "split_score": 0.7551164431010213}
+{"sent": "elephant on the score side of pic", "ann_id": 581977, "best_split": [3, 2], "split_score": 0.7551164431010213}

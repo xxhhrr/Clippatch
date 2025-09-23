@@ -1,0 +1,5 @@
+{"sent": "the big table", "ann_id": 320624, "best_split": [2, 1], "split_score": 0.37384615383793746}
+{"sent": "big table", "ann_id": 320624, "best_split": [2, 1], "split_score": 0.48486863982885486}
+{"sent": "large buffet table", "ann_id": 320624, "best_split": [2, 1], "split_score": 0.48486863982885486}
+{"sent": "background red white table", "ann_id": 120098, "best_split": [3, 1], "split_score": 0.3192371475764489}
+{"sent": "buffet table close to windows", "ann_id": 120098, "best_split": [3, 1], "split_score": 0.3192371475764489}

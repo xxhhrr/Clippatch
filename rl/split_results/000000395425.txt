@@ -1,0 +1,6 @@
+{"sent": "big truck carrying tractors not tractors", "ann_id": 401418, "best_split": [2, 1], "split_score": 0.6237322514987057}
+{"sent": "trailer", "ann_id": 401418, "best_split": [2, 1], "split_score": 0.6237322514987057}
+{"sent": "the truck hauling everything", "ann_id": 401418, "best_split": [2, 1], "split_score": 0.6237322514987057}
+{"sent": "tractors", "ann_id": 398679, "best_split": [3, 1], "split_score": 0.5030046300609298}
+{"sent": "the tractors", "ann_id": 398679, "best_split": [3, 1], "split_score": 0.5030046300609298}
+{"sent": "red tractors", "ann_id": 398679, "best_split": [3, 1], "split_score": 0.5030046300609298}

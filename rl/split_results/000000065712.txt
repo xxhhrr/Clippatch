@@ -1,0 +1,6 @@
+{"sent": "man glasses", "ann_id": 555585, "best_split": [3, 3], "split_score": 0.47810858135234524}
+{"sent": "man is sunglasses", "ann_id": 555585, "best_split": [3, 3], "split_score": 0.47810858135234524}
+{"sent": "person next to person with unbrella", "ann_id": 555585, "best_split": [3, 1], "split_score": 0.16240333134072557}
+{"sent": "person with umbrella", "ann_id": 535682, "best_split": [1, 2], "split_score": 0.2455357142759273}
+{"sent": "lady with umbrella", "ann_id": 535682, "best_split": [1, 2], "split_score": 0.2455357142759273}
+{"sent": "woman black shirt", "ann_id": 535682, "best_split": [1, 5], "split_score": 0.44444444440436104}

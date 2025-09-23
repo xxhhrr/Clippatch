@@ -1,0 +1,6 @@
+{"sent": "solid blanket", "ann_id": 2225518, "best_split": [2, 1], "split_score": 0.5057397958982087}
+{"sent": "pillow above laptop", "ann_id": 2225518, "best_split": [2, 2], "split_score": 0.8433664523054233}
+{"sent": "cushon behind laptop", "ann_id": 2225518, "best_split": [2, 2], "split_score": 0.8433664523054233}
+{"sent": "flower cover woman is sitting on", "ann_id": 315226, "best_split": [5, 1], "split_score": 0.593811718186816}
+{"sent": "blanket", "ann_id": 315226, "best_split": [5, 1], "split_score": 0.593811718186816}
+{"sent": "cloth where woman is sitting on", "ann_id": 315226, "best_split": [5, 1], "split_score": 0.593811718186816}

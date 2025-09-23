@@ -1,0 +1,5 @@
+{"sent": "tomatoes or strawberries in containers", "ann_id": 1960579, "best_split": [1, 5], "split_score": 0.1338742393385696}
+{"sent": "table at about 100", "ann_id": 1960579, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "table full of bananas", "ann_id": 393525, "best_split": [2, 1], "split_score": 0.6468756653010731}
+{"sent": "bananas a bunch", "ann_id": 393525, "best_split": [2, 1], "split_score": 0.6468756653010731}
+{"sent": "the green table with bananas on it", "ann_id": 393525, "best_split": [2, 1], "split_score": 0.6468756653010731}

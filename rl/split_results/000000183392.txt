@@ -1,0 +1,12 @@
+{"sent": "sauce cup", "ann_id": 1878106, "best_split": [3, 1], "split_score": 0.151376146780311}
+{"sent": "small white bowl on plate", "ann_id": 1878106, "best_split": [3, 1], "split_score": 0.151376146780311}
+{"sent": "white cup holding red thing", "ann_id": 1878106, "best_split": [1, 5], "split_score": 0.31651556953916876}
+{"sent": "largest sausage", "ann_id": 1070172, "best_split": [2, 3], "split_score": 0.4089793054590226}
+{"sent": "sausage above the other sausage next to the egg", "ann_id": 1070172, "best_split": [5, 1], "split_score": 0.29766555499784036}
+{"sent": "sausage close to egg competley visible", "ann_id": 1070172, "best_split": [2, 3], "split_score": 0.4089793054590226}
+{"sent": "sausage next to red", "ann_id": 1066960, "best_split": [2, 2], "split_score": 0.29272959181339847}
+{"sent": "meat net to red thing", "ann_id": 1066960, "best_split": [2, 2], "split_score": 0.29272959181339847}
+{"sent": "sausage touching red pepper", "ann_id": 1066960, "best_split": [2, 2], "split_score": 0.29272959181339847}
+{"sent": "rice in the glass", "ann_id": 672602, "best_split": [2, 3], "split_score": 0.5684533970153249}
+{"sent": "rice cup", "ann_id": 672602, "best_split": [2, 3], "split_score": 0.5684533970153249}
+{"sent": "glass of rice", "ann_id": 672602, "best_split": [2, 3], "split_score": 0.5684533970153249}

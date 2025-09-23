@@ -1,0 +1,5 @@
+{"sent": "pizza with bubble", "ann_id": 1076941, "best_split": [1, 2], "split_score": 0.48682385574383735}
+{"sent": "portion of pizza not closer to us", "ann_id": 1076941, "best_split": [1, 2], "split_score": 0.48682385574383735}
+{"sent": "triangle slice nearest us", "ann_id": 1076567, "best_split": [1, 2], "split_score": 0.48149847092960635}
+{"sent": "slice closest to us", "ann_id": 1076567, "best_split": [2, 2], "split_score": 0.5678908960062273}
+{"sent": "slice closest to us", "ann_id": 1076567, "best_split": [2, 2], "split_score": 0.5678908960062273}

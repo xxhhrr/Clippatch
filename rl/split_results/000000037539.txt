@@ -1,0 +1,4 @@
+{"sent": "pizza below cutting board", "ann_id": 1075798, "best_split": [1, 5], "split_score": 0.32176211450909586}
+{"sent": "pizza more cheese", "ann_id": 1075798, "best_split": [1, 5], "split_score": 0.32176211450909586}
+{"sent": "food in black dish near cutting board", "ann_id": 1075798, "best_split": [3, 2], "split_score": 0.518652498245687}
+{"sent": "food with tray haning more off of table", "ann_id": 1074055, "best_split": [1, 3], "split_score": 0.29198841697080186}

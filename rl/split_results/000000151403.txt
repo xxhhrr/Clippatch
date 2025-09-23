@@ -1,0 +1,11 @@
+{"sent": "white part of couch", "ann_id": 2222282, "best_split": [5, 1], "split_score": 0.1166468959997375}
+{"sent": "chair with white towel on it", "ann_id": 2222282, "best_split": [1, 3], "split_score": 0.5979729729368983}
+{"sent": "chair that man with glasses is sitting on", "ann_id": 2222282, "best_split": [1, 3], "split_score": 0.5979729729368983}
+{"sent": "what the guy with no glasses is sitting on", "ann_id": 1933800, "best_split": [2, 3], "split_score": 0.23283999532497143}
+{"sent": "chair behind guy without glasses", "ann_id": 1933800, "best_split": [3, 3], "split_score": 0.4254856254525652}
+{"sent": "the guy with glasses", "ann_id": 208362, "best_split": [1, 2], "split_score": 0.6982833636303186}
+{"sent": "man in glasses", "ann_id": 208362, "best_split": [1, 2], "split_score": 0.6982833636303186}
+{"sent": "wearing glasses", "ann_id": 208362, "best_split": [1, 2], "split_score": 0.6982833636303186}
+{"sent": "big smile", "ann_id": 208093, "best_split": [1, 2], "split_score": 0.6285107028757966}
+{"sent": "wide smile looking at you", "ann_id": 208093, "best_split": [1, 2], "split_score": 0.6285107028757966}
+{"sent": "man facing us", "ann_id": 208093, "best_split": [2, 1], "split_score": 0.1992174399049967}

@@ -1,0 +1,6 @@
+{"sent": "the tennis player", "ann_id": 1243462, "best_split": [1, 2], "split_score": 0.484295280592941}
+{"sent": "player", "ann_id": 1243462, "best_split": [1, 2], "split_score": 0.484295280592941}
+{"sent": "player", "ann_id": 1243462, "best_split": [1, 2], "split_score": 0.484295280592941}
+{"sent": "sitting", "ann_id": 447957, "best_split": [3, 3], "split_score": 0.40697674412209667}
+{"sent": "sitting down", "ann_id": 447957, "best_split": [3, 3], "split_score": 0.40697674412209667}
+{"sent": "man sitting", "ann_id": 447957, "best_split": [3, 3], "split_score": 0.40697674412209667}

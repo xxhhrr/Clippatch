@@ -1,0 +1,8 @@
+{"sent": "woman holding wine glas", "ann_id": 1738112, "best_split": [1, 5], "split_score": 0.5659646949081786}
+{"sent": "in gray shirt", "ann_id": 1738112, "best_split": [1, 3], "split_score": 0.5615438108158586}
+{"sent": "white shirt", "ann_id": 463841, "best_split": [2, 3], "split_score": 0.7425888417655506}
+{"sent": "girl in white", "ann_id": 463841, "best_split": [2, 3], "split_score": 0.7425888417655506}
+{"sent": "woman in white", "ann_id": 463841, "best_split": [2, 3], "split_score": 0.7425888417655506}
+{"sent": "guy", "ann_id": 430773, "best_split": [1, 2], "split_score": 0.8058617907730241}
+{"sent": "guy with hat", "ann_id": 430773, "best_split": [1, 2], "split_score": 0.8058617907730241}
+{"sent": "man in red jacket", "ann_id": 430773, "best_split": [1, 2], "split_score": 0.8058617907730241}

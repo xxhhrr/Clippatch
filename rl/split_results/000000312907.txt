@@ -1,0 +1,11 @@
+{"sent": "not the closest glass but the next", "ann_id": 666121, "best_split": [2, 2], "split_score": 0.2982669504181919}
+{"sent": "not closest glass to you a little farther", "ann_id": 666121, "best_split": [2, 2], "split_score": 0.2982669504181919}
+{"sent": "the wine glass that will probably be poured next", "ann_id": 666121, "best_split": [2, 2], "split_score": 0.2982669504181919}
+{"sent": "one closest to us glass", "ann_id": 665988, "best_split": [2, 3], "split_score": 0.5123993558226088}
+{"sent": "glass being poured into", "ann_id": 665988, "best_split": [2, 3], "split_score": 0.5123993558226088}
+{"sent": "glass with wine being poured into it", "ann_id": 665988, "best_split": [2, 3], "split_score": 0.5123993558226088}
+{"sent": "wine with label on table", "ann_id": 88020, "best_split": [1, 5], "split_score": 0.4598222383040248}
+{"sent": "bottle closest not being poured", "ann_id": 88020, "best_split": [1, 5], "split_score": 0.4598222383040248}
+{"sent": "pouring bottle", "ann_id": 82059, "best_split": [2, 2], "split_score": 0.6506794563915081}
+{"sent": "bottle being poured", "ann_id": 82059, "best_split": [2, 2], "split_score": 0.6506794563915081}
+{"sent": "bottle being hold", "ann_id": 82059, "best_split": [2, 2], "split_score": 0.6506794563915081}

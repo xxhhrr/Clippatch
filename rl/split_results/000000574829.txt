@@ -1,0 +1,6 @@
+{"sent": "bright white fridge", "ann_id": 332271, "best_split": [2, 3], "split_score": 0.7156003504912796}
+{"sent": "fridge with no lower half", "ann_id": 332271, "best_split": [2, 1], "split_score": 0.2745405999578082}
+{"sent": "refidgerator behind chairs", "ann_id": 332271, "best_split": [1, 3], "split_score": 0.4036691870110973}
+{"sent": "door with stickers on it", "ann_id": 332004, "best_split": [1, 3], "split_score": 0.8547090009617735}
+{"sent": "old fridge side with magnets on it", "ann_id": 332004, "best_split": [1, 3], "split_score": 0.8547090009617735}
+{"sent": "side of fridge with stickers on it", "ann_id": 332004, "best_split": [1, 3], "split_score": 0.8547090009617735}

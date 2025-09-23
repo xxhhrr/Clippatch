@@ -1,0 +1,9 @@
+{"sent": "the oldest person", "ann_id": 490805, "best_split": [2, 2], "split_score": 0.7544642856541403}
+{"sent": "grown man", "ann_id": 490805, "best_split": [2, 2], "split_score": 0.7544642856541403}
+{"sent": "man", "ann_id": 490805, "best_split": [2, 2], "split_score": 0.7544642856541403}
+{"sent": "kid by man", "ann_id": 452017, "best_split": [1, 5], "split_score": 0.30555555552799823}
+{"sent": "closest kid", "ann_id": 452017, "best_split": [1, 5], "split_score": 0.30555555552799823}
+{"sent": "the blond boy", "ann_id": 452017, "best_split": [1, 5], "split_score": 0.30555555552799823}
+{"sent": "dark haired child", "ann_id": 2198610, "best_split": [2, 3], "split_score": 0.35549399811224675}
+{"sent": "kid 2", "ann_id": 2198610, "best_split": [2, 3], "split_score": 0.35549399811224675}
+{"sent": "boy on ri ght", "ann_id": 2198610, "best_split": [5, 1], "split_score": 0.18857142855459183}

@@ -1,0 +1,9 @@
+{"sent": "big scissors", "ann_id": 1158726, "best_split": [1, 2], "split_score": 0.4934195064436577}
+{"sent": "the one hat might really kill you", "ann_id": 1158726, "best_split": [2, 3], "split_score": 0.2659227161948167}
+{"sent": "longest scissor", "ann_id": 1158726, "best_split": [1, 2], "split_score": 0.4934195064436577}
+{"sent": "black handles not next to other black handles", "ann_id": 1158460, "best_split": [2, 1], "split_score": 0.19724216361513816}
+{"sent": "scissor 500", "ann_id": 1158460, "best_split": [2, 2], "split_score": 0.3559061177147681}
+{"sent": "rightest scissors", "ann_id": 1158460, "best_split": [3, 3], "split_score": 0.35659213566339704}
+{"sent": "smallest scissors", "ann_id": 1158300, "best_split": [2, 2], "split_score": 0.35438238294047086}
+{"sent": "all silver scissors", "ann_id": 1158300, "best_split": [3, 2], "split_score": 0.29247156523808704}
+{"sent": "smallest scissor", "ann_id": 1158300, "best_split": [2, 2], "split_score": 0.35438238294047086}

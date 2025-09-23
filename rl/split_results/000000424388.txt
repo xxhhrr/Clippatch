@@ -1,0 +1,13 @@
+{"sent": "guy with black hat white shirt", "ann_id": 547615, "best_split": [1, 2], "split_score": 0.6622289540552364}
+{"sent": "guy white shirt", "ann_id": 547615, "best_split": [1, 2], "split_score": 0.6622289540552364}
+{"sent": "white shirt black hat", "ann_id": 547615, "best_split": [1, 2], "split_score": 0.6622289540552364}
+{"sent": "man with black suit", "ann_id": 537714, "best_split": [1, 3], "split_score": 0.7324279246644968}
+{"sent": "man in suit", "ann_id": 537714, "best_split": [1, 3], "split_score": 0.7324279246644968}
+{"sent": "man in suit", "ann_id": 537714, "best_split": [1, 3], "split_score": 0.7324279246644968}
+{"sent": "guy in a suit", "ann_id": 537714, "best_split": [1, 3], "split_score": 0.7324279246644968}
+{"sent": "guy with striped scarf", "ann_id": 528740, "best_split": [1, 3], "split_score": 0.5725364715780391}
+{"sent": "buzz cut", "ann_id": 528740, "best_split": [1, 5], "split_score": 0.5239789286088815}
+{"sent": "man in black with striped shirt", "ann_id": 528740, "best_split": [1, 2], "split_score": 0.3502285899294349}
+{"sent": "lady", "ann_id": 523787, "best_split": [1, 5], "split_score": 0.5610417796689472}
+{"sent": "woman", "ann_id": 523787, "best_split": [1, 5], "split_score": 0.5610417796689472}
+{"sent": "woman", "ann_id": 523787, "best_split": [1, 5], "split_score": 0.5610417796689472}

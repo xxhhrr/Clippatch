@@ -1,0 +1,12 @@
+{"sent": "person dressed in all black head to toe", "ann_id": 1275154, "best_split": [3, 1], "split_score": 0.1656064461320183}
+{"sent": "all black facing away", "ann_id": 1275154, "best_split": [3, 1], "split_score": 0.1656064461320183}
+{"sent": "dark person beside boy in gray hat", "ann_id": 1275154, "best_split": [1, 5], "split_score": 0.5300130273043377}
+{"sent": "shortest", "ann_id": 1252853, "best_split": [1, 2], "split_score": 0.21245216835887865}
+{"sent": "the child between the two with ties", "ann_id": 1252853, "best_split": [2, 2], "split_score": 0.3333830659952717}
+{"sent": "kid in black shirt", "ann_id": 1252853, "best_split": [2, 2], "split_score": 0.3333830659952717}
+{"sent": "girl with dumb hair", "ann_id": 1244493, "best_split": [1, 3], "split_score": 0.8211430616381611}
+{"sent": "weird ponytail", "ann_id": 1244493, "best_split": [1, 3], "split_score": 0.8211430616381611}
+{"sent": "kid with funny hair closest", "ann_id": 1244493, "best_split": [1, 3], "split_score": 0.8211430616381611}
+{"sent": "boy in tie short hair", "ann_id": 1289048, "best_split": [2, 2], "split_score": 0.21547245217154026}
+{"sent": "frowny boy with blue pants showing and striped tie", "ann_id": 1289048, "best_split": [2, 2], "split_score": 0.21547245217154026}
+{"sent": "boy with loose green tie", "ann_id": 1289048, "best_split": [2, 2], "split_score": 0.21547245217154026}

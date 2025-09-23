@@ -1,0 +1,5 @@
+{"sent": "meter at edge", "ann_id": 1389594, "best_split": [1, 2], "split_score": 0.7731064642691152}
+{"sent": "meter with lid resting on other one", "ann_id": 1389594, "best_split": [1, 2], "split_score": 0.7731064642691152}
+{"sent": "wider openning", "ann_id": 1389456, "best_split": [2, 1], "split_score": 0.389330932733496}
+{"sent": "meter with the cover oped further", "ann_id": 1389456, "best_split": [2, 1], "split_score": 0.389330932733496}
+{"sent": "meter closest to the brick sidewalk", "ann_id": 1389456, "best_split": [1, 2], "split_score": 0.7285569766338407}

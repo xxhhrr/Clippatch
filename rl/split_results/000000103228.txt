@@ -1,0 +1,14 @@
+{"sent": "red green cake that is partially cut off", "ann_id": 1578211, "best_split": [3, 2], "split_score": 0.27426160334425115}
+{"sent": "red and green cake can only see about half of it", "ann_id": 1578211, "best_split": [3, 2], "split_score": 0.27426160334425115}
+{"sent": "nearest cake chocolate with fruit", "ann_id": 1929778, "best_split": [3, 3], "split_score": 0.6525792416636763}
+{"sent": "black cake", "ann_id": 1929778, "best_split": [3, 3], "split_score": 0.6525792416636763}
+{"sent": "5 o clock cake", "ann_id": 1929778, "best_split": [3, 3], "split_score": 0.6525792416636763}
+{"sent": "green red 3 layer", "ann_id": 1929310, "best_split": [1, 5], "split_score": 0.23466017727840602}
+{"sent": "green cake in back with red", "ann_id": 1929310, "best_split": [3, 3], "split_score": 0.37196313873611236}
+{"sent": "three layered cake", "ann_id": 1929310, "best_split": [3, 3], "split_score": 0.37196313873611236}
+{"sent": "cake that is yellow and rigth near the long orange cake", "ann_id": 1929032, "best_split": [5, 1], "split_score": 0.21894657776556692}
+{"sent": "orange and pale green cake behind red roll cake", "ann_id": 1929032, "best_split": [2, 3], "split_score": 0.3030821917462235}
+{"sent": "mint and orange cake and apples", "ann_id": 1929032, "best_split": [5, 1], "split_score": 0.21894657776556692}
+{"sent": "red roll", "ann_id": 1928252, "best_split": [3, 3], "split_score": 0.44935805986098926}
+{"sent": "long roll", "ann_id": 1928252, "best_split": [1, 5], "split_score": 0.24041916165865126}
+{"sent": "red roll cake", "ann_id": 1928252, "best_split": [3, 3], "split_score": 0.44935805986098926}

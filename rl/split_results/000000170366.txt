@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 505155, "best_split": [1, 2], "split_score": 0.5164221938569666}
+{"sent": "guy in white shirt", "ann_id": 505155, "best_split": [1, 2], "split_score": 0.5164221938569666}
+{"sent": "white", "ann_id": 505155, "best_split": [1, 2], "split_score": 0.5164221938569666}
+{"sent": "guy in hat", "ann_id": 484717, "best_split": [1, 3], "split_score": 0.4894259818500082}
+{"sent": "cardboard guy in suit", "ann_id": 484717, "best_split": [1, 3], "split_score": 0.4894259818500082}
+{"sent": "hat guy3", "ann_id": 484717, "best_split": [1, 3], "split_score": 0.4894259818500082}

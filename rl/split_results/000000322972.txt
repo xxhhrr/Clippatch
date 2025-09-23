@@ -1,0 +1,9 @@
+{"sent": "the person whose surfboard is point upward", "ann_id": 1723921, "best_split": [1, 3], "split_score": 0.44667496345183294}
+{"sent": "woman", "ann_id": 1723921, "best_split": [2, 2], "split_score": 0.2888283378582636}
+{"sent": "the surfer closer to the water", "ann_id": 1723921, "best_split": [3, 3], "split_score": 0.38604733619483667}
+{"sent": "surfboard", "ann_id": 647866, "best_split": [3, 1], "split_score": 0.4317123786846311}
+{"sent": "board", "ann_id": 647866, "best_split": [3, 1], "split_score": 0.4317123786846311}
+{"sent": "her board", "ann_id": 647866, "best_split": [3, 1], "split_score": 0.4317123786846311}
+{"sent": "guy walking farthest from the water", "ann_id": 237553, "best_split": [2, 2], "split_score": 0.3974402155340222}
+{"sent": "closest surfer", "ann_id": 237553, "best_split": [2, 2], "split_score": 0.3974402155340222}
+{"sent": "man with surfboard at weird angle", "ann_id": 237553, "best_split": [2, 2], "split_score": 0.3974402155340222}

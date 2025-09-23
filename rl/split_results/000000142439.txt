@@ -1,0 +1,6 @@
+{"sent": "jeans on leg", "ann_id": 484393, "best_split": [1, 3], "split_score": 0.7241992882159587}
+{"sent": "adult leg", "ann_id": 484393, "best_split": [1, 3], "split_score": 0.7241992882159587}
+{"sent": "persons leg behind child", "ann_id": 484393, "best_split": [1, 2], "split_score": 0.5752551020178869}
+{"sent": "little girl", "ann_id": 442735, "best_split": [1, 3], "split_score": 0.6452099420460178}
+{"sent": "the little girl", "ann_id": 442735, "best_split": [1, 3], "split_score": 0.6452099420460178}
+{"sent": "girl", "ann_id": 442735, "best_split": [1, 3], "split_score": 0.6452099420460178}

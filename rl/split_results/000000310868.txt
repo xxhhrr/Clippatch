@@ -1,0 +1,6 @@
+{"sent": "shorter giraffe", "ann_id": 600307, "best_split": [2, 1], "split_score": 0.35514987243482343}
+{"sent": "shorter", "ann_id": 600307, "best_split": [2, 1], "split_score": 0.35514987243482343}
+{"sent": "smaller giraffe", "ann_id": 600307, "best_split": [2, 1], "split_score": 0.35514987243482343}
+{"sent": "tall giraffe", "ann_id": 595325, "best_split": [1, 2], "split_score": 0.7686332966903878}
+{"sent": "taller giraffe", "ann_id": 595325, "best_split": [1, 2], "split_score": 0.7686332966903878}
+{"sent": "tallest giraffe", "ann_id": 595325, "best_split": [1, 2], "split_score": 0.7686332966903878}

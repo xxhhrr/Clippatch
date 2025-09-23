@@ -1,0 +1,8 @@
+{"sent": "last banana bunch to be fully visible", "ann_id": 1904789, "best_split": [5, 1], "split_score": 0.23961126003354463}
+{"sent": "4 o clock bunch", "ann_id": 1904789, "best_split": [3, 3], "split_score": 0.6315789472694895}
+{"sent": "side bananas", "ann_id": 1544822, "best_split": [3, 3], "split_score": 0.4939510179265342}
+{"sent": "shortest bunch", "ann_id": 1544822, "best_split": [1, 3], "split_score": 0.28052606175913813}
+{"sent": "closest bunch of bananas", "ann_id": 1543900, "best_split": [3, 1], "split_score": 0.24086799275583778}
+{"sent": "bunch 3", "ann_id": 1543900, "best_split": [1, 3], "split_score": 0.38998328858105114}
+{"sent": "bunch3", "ann_id": 1543900, "best_split": [1, 3], "split_score": 0.38998328858105114}
+{"sent": "bananas between bananas", "ann_id": 1541841, "best_split": [3, 2], "split_score": 0.40116279065602545}

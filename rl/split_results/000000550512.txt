@@ -1,0 +1,6 @@
+{"sent": "stripe shirt", "ann_id": 225563, "best_split": [1, 3], "split_score": 0.6569739381843042}
+{"sent": "man in striped shirt", "ann_id": 225563, "best_split": [1, 3], "split_score": 0.6569739381843042}
+{"sent": "sriped shirt", "ann_id": 225563, "best_split": [1, 3], "split_score": 0.6569739381843042}
+{"sent": "woman wearing glasses", "ann_id": 222661, "best_split": [1, 2], "split_score": 0.5659869076650417}
+{"sent": "woman in sunglasses", "ann_id": 222661, "best_split": [1, 2], "split_score": 0.5659869076650417}
+{"sent": "woman", "ann_id": 222661, "best_split": [1, 2], "split_score": 0.5659869076650417}

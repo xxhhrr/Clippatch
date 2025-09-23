@@ -1,0 +1,6 @@
+{"sent": "back of woman black shirt", "ann_id": 478928, "best_split": [1, 3], "split_score": 0.4446136722837201}
+{"sent": "woman", "ann_id": 478928, "best_split": [1, 3], "split_score": 0.4446136722837201}
+{"sent": "closest person", "ann_id": 478928, "best_split": [3, 1], "split_score": 0.172379367712271}
+{"sent": "guy leaning", "ann_id": 435865, "best_split": [3, 2], "split_score": 0.44017241375515753}
+{"sent": "man with stripes on apron and towel in hand", "ann_id": 435865, "best_split": [3, 2], "split_score": 0.44017241375515753}
+{"sent": "guy bending", "ann_id": 435865, "best_split": [3, 2], "split_score": 0.44017241375515753}

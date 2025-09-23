@@ -1,0 +1,5 @@
+{"sent": "well chopped broccoli", "ann_id": 1560763, "best_split": [2, 1], "split_score": 0.3189894838535299}
+{"sent": "chopped up", "ann_id": 1560763, "best_split": [2, 1], "split_score": 0.3189894838535299}
+{"sent": "cut up brocolli", "ann_id": 1560763, "best_split": [1, 2], "split_score": 0.696517412908251}
+{"sent": "broc greenest peace", "ann_id": 1560538, "best_split": [2, 2], "split_score": 0.6365591397523523}
+{"sent": "broccolli by knife", "ann_id": 1560538, "best_split": [2, 2], "split_score": 0.6365591397523523}

@@ -1,0 +1,6 @@
+{"sent": "elephant walking out of frame", "ann_id": 580926, "best_split": [3, 2], "split_score": 0.22910216716049708}
+{"sent": "half elephant", "ann_id": 580926, "best_split": [3, 2], "split_score": 0.22910216716049708}
+{"sent": "rear of elephant out of screen", "ann_id": 580926, "best_split": [3, 2], "split_score": 0.22910216716049708}
+{"sent": "main elephant", "ann_id": 580058, "best_split": [2, 3], "split_score": 0.5019915359408768}
+{"sent": "elephant with full body showing", "ann_id": 580058, "best_split": [2, 3], "split_score": 0.5019915359408768}
+{"sent": "main elephant", "ann_id": 580058, "best_split": [2, 3], "split_score": 0.5019915359408768}

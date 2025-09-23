@@ -1,0 +1,6 @@
+{"sent": "boy standing at table", "ann_id": 1229193, "best_split": [1, 3], "split_score": 0.21727869761274263}
+{"sent": "boy cutting food", "ann_id": 1229193, "best_split": [1, 2], "split_score": 0.3883928571273759}
+{"sent": "boy chopping", "ann_id": 1229193, "best_split": [1, 2], "split_score": 0.3883928571273759}
+{"sent": "the crosslegged person", "ann_id": 1698110, "best_split": [3, 3], "split_score": 0.3645833332820125}
+{"sent": "sitting outside white shirt", "ann_id": 1698110, "best_split": [3, 1], "split_score": 0.14227642275641197}
+{"sent": "sitting white shirt", "ann_id": 1698110, "best_split": [3, 1], "split_score": 0.14227642275641197}

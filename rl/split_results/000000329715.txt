@@ -1,0 +1,15 @@
+{"sent": "guy sitting with a beer", "ann_id": 1220327, "best_split": [3, 3], "split_score": 0.5703051273088542}
+{"sent": "seated", "ann_id": 1220327, "best_split": [3, 3], "split_score": 0.5703051273088542}
+{"sent": "boy holding a bottle", "ann_id": 1220327, "best_split": [3, 2], "split_score": 0.39541984728512325}
+{"sent": "partial woman", "ann_id": 517452, "best_split": [2, 3], "split_score": 0.8417948176909843}
+{"sent": "girl with green shirt", "ann_id": 517452, "best_split": [2, 3], "split_score": 0.8417948176909843}
+{"sent": "part of womans face red hair", "ann_id": 517452, "best_split": [2, 3], "split_score": 0.8417948176909843}
+{"sent": "man plain blue shirt", "ann_id": 464758, "best_split": [3, 1], "split_score": 0.22224694103324544}
+{"sent": "blue shirt", "ann_id": 464758, "best_split": [3, 3], "split_score": 0.5808139534039515}
+{"sent": "man in blue t shirt", "ann_id": 464758, "best_split": [3, 3], "split_score": 0.5808139534039515}
+{"sent": "person wearing hat", "ann_id": 1719963, "best_split": [3, 2], "split_score": 0.5046792969065648}
+{"sent": "purple hat with pink ribbon", "ann_id": 1719963, "best_split": [3, 2], "split_score": 0.5046792969065648}
+{"sent": "hat", "ann_id": 1719963, "best_split": [3, 2], "split_score": 0.5046792969065648}
+{"sent": "man standing in flannel", "ann_id": 433515, "best_split": [1, 3], "split_score": 0.3943452380742801}
+{"sent": "plaid shirt man standing up", "ann_id": 433515, "best_split": [1, 3], "split_score": 0.3943452380742801}
+{"sent": "plaid shirt", "ann_id": 433515, "best_split": [1, 3], "split_score": 0.3943452380742801}

@@ -1,0 +1,6 @@
+{"sent": "the other zebra", "ann_id": 591664, "best_split": [1, 2], "split_score": 0.34399485439293664}
+{"sent": "far zebra", "ann_id": 591664, "best_split": [1, 2], "split_score": 0.34399485439293664}
+{"sent": "the zebra you cant see as well", "ann_id": 591664, "best_split": [1, 2], "split_score": 0.34399485439293664}
+{"sent": "full head of zebra", "ann_id": 591315, "best_split": [2, 1], "split_score": 0.6563000607452826}
+{"sent": "darker zebra", "ann_id": 591315, "best_split": [2, 1], "split_score": 0.6563000607452826}
+{"sent": "zebra", "ann_id": 591315, "best_split": [2, 1], "split_score": 0.6563000607452826}

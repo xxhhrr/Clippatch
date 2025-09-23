@@ -1,0 +1,6 @@
+{"sent": "animal at the zoo", "ann_id": 1817673, "best_split": [3, 1], "split_score": 0.40966280823892215}
+{"sent": "ram", "ann_id": 1817673, "best_split": [2, 1], "split_score": 0.527329749087067}
+{"sent": "big animal with monkey on its back", "ann_id": 1817673, "best_split": [3, 1], "split_score": 0.40966280823892215}
+{"sent": "goat that you can only see the butt of", "ann_id": 63666, "best_split": [2, 2], "split_score": 0.24457908161315536}
+{"sent": "the smaller furry goat baby", "ann_id": 63666, "best_split": [2, 2], "split_score": 0.24457908161315536}
+{"sent": "goat disappearing out of shot", "ann_id": 63666, "best_split": [2, 2], "split_score": 0.24457908161315536}

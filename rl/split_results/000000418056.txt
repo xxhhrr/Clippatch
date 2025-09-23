@@ -1,0 +1,12 @@
+{"sent": "guy in red shirt", "ann_id": 529354, "best_split": [3, 3], "split_score": 0.5186615185947668}
+{"sent": "red jacket", "ann_id": 529354, "best_split": [3, 3], "split_score": 0.5186615185947668}
+{"sent": "red jacket", "ann_id": 529354, "best_split": [3, 3], "split_score": 0.5186615185947668}
+{"sent": "all white uniform kneeling in front of red jacket", "ann_id": 506371, "best_split": [3, 3], "split_score": 0.34092536880949353}
+{"sent": "guy on ground", "ann_id": 506371, "best_split": [2, 3], "split_score": 0.2656477437860628}
+{"sent": "white clothes getting hug", "ann_id": 506371, "best_split": [3, 3], "split_score": 0.34092536880949353}
+{"sent": "66", "ann_id": 483945, "best_split": [1, 5], "split_score": 0.5076409625410468}
+{"sent": "66", "ann_id": 483945, "best_split": [1, 5], "split_score": 0.5076409625410468}
+{"sent": "66", "ann_id": 483945, "best_split": [1, 5], "split_score": 0.5076409625410468}
+{"sent": "standing in white", "ann_id": 432651, "best_split": [2, 1], "split_score": 0.07064169649990906}
+{"sent": "man holding bat", "ann_id": 432651, "best_split": [1, 5], "split_score": 0.6099837661718767}
+{"sent": "batter", "ann_id": 432651, "best_split": [1, 5], "split_score": 0.6099837661718767}

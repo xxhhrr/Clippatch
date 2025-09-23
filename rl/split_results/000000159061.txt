@@ -1,0 +1,6 @@
+{"sent": "guy wearing glasses", "ann_id": 1261968, "best_split": [1, 3], "split_score": 0.5297200385910118}
+{"sent": "person", "ann_id": 1261968, "best_split": [1, 3], "split_score": 0.5297200385910118}
+{"sent": "guy with cup", "ann_id": 1261968, "best_split": [1, 3], "split_score": 0.5297200385910118}
+{"sent": "guy off to the side", "ann_id": 465512, "best_split": [1, 2], "split_score": 0.21922831631779224}
+{"sent": "blurred woman", "ann_id": 465512, "best_split": [2, 2], "split_score": 0.43845663261810774}
+{"sent": "blurry person", "ann_id": 465512, "best_split": [2, 2], "split_score": 0.43845663261810774}

@@ -1,0 +1,6 @@
+{"sent": "cat looking away from us", "ann_id": 47886, "best_split": [1, 3], "split_score": 0.4151448745916988}
+{"sent": "cats back", "ann_id": 47886, "best_split": [1, 3], "split_score": 0.4151448745916988}
+{"sent": "cat not its reflection", "ann_id": 47886, "best_split": [1, 3], "split_score": 0.4151448745916988}
+{"sent": "facing us", "ann_id": 46996, "best_split": [1, 3], "split_score": 0.4943473792235885}
+{"sent": "the cats reflection", "ann_id": 46996, "best_split": [1, 3], "split_score": 0.4943473792235885}
+{"sent": "cat reflection", "ann_id": 46996, "best_split": [1, 2], "split_score": 0.5881809787457243}

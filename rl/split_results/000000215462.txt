@@ -1,0 +1,8 @@
+{"sent": "girl closest", "ann_id": 1274533, "best_split": [1, 2], "split_score": 0.6789700254831406}
+{"sent": "little girl", "ann_id": 1274533, "best_split": [1, 2], "split_score": 0.6789700254831406}
+{"sent": "boy in white shirt", "ann_id": 511836, "best_split": [2, 2], "split_score": 0.2175307322158364}
+{"sent": "boy", "ann_id": 511836, "best_split": [2, 2], "split_score": 0.2175307322158364}
+{"sent": "man white shirt", "ann_id": 511836, "best_split": [2, 2], "split_score": 0.2175307322158364}
+{"sent": "soldier with hands out", "ann_id": 469647, "best_split": [1, 2], "split_score": 0.8069954529273524}
+{"sent": "woman", "ann_id": 469647, "best_split": [1, 2], "split_score": 0.8069954529273524}
+{"sent": "woman in red hair", "ann_id": 469647, "best_split": [1, 2], "split_score": 0.8069954529273524}

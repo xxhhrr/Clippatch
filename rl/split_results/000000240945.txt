@@ -1,0 +1,6 @@
+{"sent": "person watching the game", "ann_id": 505614, "best_split": [1, 5], "split_score": 0.35747730526923294}
+{"sent": "squatter in back", "ann_id": 505614, "best_split": [3, 2], "split_score": 0.41396285517856757}
+{"sent": "lady watching tennis player", "ann_id": 505614, "best_split": [3, 2], "split_score": 0.41396285517856757}
+{"sent": "tennis player", "ann_id": 471017, "best_split": [1, 3], "split_score": 0.43134715023911235}
+{"sent": "tennis player", "ann_id": 471017, "best_split": [1, 3], "split_score": 0.43134715023911235}
+{"sent": "player", "ann_id": 471017, "best_split": [1, 3], "split_score": 0.43134715023911235}

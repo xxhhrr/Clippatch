@@ -1,0 +1,6 @@
+{"sent": "white van facing you", "ann_id": 1340753, "best_split": [3, 1], "split_score": 0.12487934362180989}
+{"sent": "white vehicle", "ann_id": 1340753, "best_split": [3, 1], "split_score": 0.12487934362180989}
+{"sent": "white car completely in picture", "ann_id": 1340753, "best_split": [3, 1], "split_score": 0.12487934362180989}
+{"sent": "brake light starring at you", "ann_id": 348832, "best_split": [3, 3], "split_score": 0.4138464180701174}
+{"sent": "taillight", "ann_id": 348832, "best_split": [3, 3], "split_score": 0.4138464180701174}
+{"sent": "car cut off", "ann_id": 348832, "best_split": [3, 3], "split_score": 0.4138464180701174}

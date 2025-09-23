@@ -1,0 +1,11 @@
+{"sent": "girl thats next to the guy with no glasses", "ann_id": 1747472, "best_split": [5, 1], "split_score": 0.1106861807670305}
+{"sent": "girls face with hand", "ann_id": 1747472, "best_split": [2, 1], "split_score": 0.015840058939223734}
+{"sent": "man with dark shirt", "ann_id": 1719705, "best_split": [2, 1], "split_score": 0.48695652172022685}
+{"sent": "boy dark shirt", "ann_id": 1719705, "best_split": [2, 1], "split_score": 0.48695652172022685}
+{"sent": "black shirt", "ann_id": 1719705, "best_split": [2, 2], "split_score": 0.8852459015745575}
+{"sent": "girl closest to u", "ann_id": 513011, "best_split": [2, 3], "split_score": 0.8971193414640063}
+{"sent": "person at 7 o clock", "ann_id": 513011, "best_split": [2, 2], "split_score": 0.6779247362086345}
+{"sent": "girl with only head showing smiling", "ann_id": 513011, "best_split": [2, 3], "split_score": 0.8971193414640063}
+{"sent": "dude with glasses", "ann_id": 433551, "best_split": [1, 2], "split_score": 0.6038743622208277}
+{"sent": "white tshirt", "ann_id": 433551, "best_split": [1, 2], "split_score": 0.6038743622208277}
+{"sent": "blond hair", "ann_id": 433551, "best_split": [1, 2], "split_score": 0.6038743622208277}

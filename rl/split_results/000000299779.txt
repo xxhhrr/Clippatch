@@ -1,0 +1,11 @@
+{"sent": "woman in blue shirt", "ann_id": 536206, "best_split": [3, 3], "split_score": 0.46605776345765765}
+{"sent": "girl with light blue shirt and white sleeves", "ann_id": 536206, "best_split": [3, 3], "split_score": 0.46605776345765765}
+{"sent": "girl in blue and white", "ann_id": 536206, "best_split": [3, 3], "split_score": 0.46605776345765765}
+{"sent": "not facing camera", "ann_id": 501981, "best_split": [2, 2], "split_score": 0.5761320152601935}
+{"sent": "girl facing tree", "ann_id": 501981, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "pink girl not looking at us", "ann_id": 501981, "best_split": [2, 3], "split_score": 0.8719835906283803}
+{"sent": "girl in pale pink shirt facing us eating pizza", "ann_id": 491707, "best_split": [3, 1], "split_score": 0.2633307784811491}
+{"sent": "girl with pizza in mouth", "ann_id": 491707, "best_split": [3, 1], "split_score": 0.2633307784811491}
+{"sent": "person with the jacket", "ann_id": 476809, "best_split": [2, 2], "split_score": 0.45745856349980596}
+{"sent": "brown jacket", "ann_id": 476809, "best_split": [2, 2], "split_score": 0.45745856349980596}
+{"sent": "girl with brown sweater", "ann_id": 476809, "best_split": [1, 5], "split_score": 0.3552654182824888}

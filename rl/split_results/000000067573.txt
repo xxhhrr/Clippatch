@@ -1,0 +1,9 @@
+{"sent": "apple closest to us", "ann_id": 1050004, "best_split": [1, 3], "split_score": 0.4008280014866001}
+{"sent": "apple nearest camera", "ann_id": 1050004, "best_split": [1, 3], "split_score": 0.4008280014866001}
+{"sent": "featured apple and partner", "ann_id": 1050004, "best_split": [1, 3], "split_score": 0.4008280014866001}
+{"sent": "apple not all in pic", "ann_id": 1049449, "best_split": [3, 1], "split_score": 0.30860375109802896}
+{"sent": "apple under knife handle", "ann_id": 1049449, "best_split": [3, 1], "split_score": 0.30860375109802896}
+{"sent": "full apple that is cut off", "ann_id": 1049449, "best_split": [3, 1], "split_score": 0.30860375109802896}
+{"sent": "nearest knife", "ann_id": 1048799, "best_split": [5, 1], "split_score": 0.18760211435006227}
+{"sent": "furthest apple away", "ann_id": 1048799, "best_split": [1, 3], "split_score": 0.14240373674217596}
+{"sent": "farthest apple", "ann_id": 1048799, "best_split": [1, 3], "split_score": 0.14240373674217596}

@@ -1,0 +1,13 @@
+{"sent": "a small suitcase", "ann_id": 1186020, "best_split": [3, 3], "split_score": 0.24569240583189336}
+{"sent": "littler", "ann_id": 1186020, "best_split": [2, 3], "split_score": 0.1696035242103961}
+{"sent": "smallest suitcase", "ann_id": 1186020, "best_split": [3, 3], "split_score": 0.24569240583189336}
+{"sent": "bag above the blue bag", "ann_id": 1186020, "best_split": [3, 3], "split_score": 0.24569240583189336}
+{"sent": "the dark blue one", "ann_id": 1185965, "best_split": [5, 1], "split_score": 0.33780402358744827}
+{"sent": "blue suitcase", "ann_id": 1185965, "best_split": [5, 1], "split_score": 0.33780402358744827}
+{"sent": "blue case", "ann_id": 1185965, "best_split": [5, 1], "split_score": 0.33780402358744827}
+{"sent": "smaller gray case with no stripes", "ann_id": 1183568, "best_split": [2, 1], "split_score": 0.16298628825880954}
+{"sent": "middle suitcase not blue", "ann_id": 1183568, "best_split": [2, 3], "split_score": 0.20975466716745628}
+{"sent": "suitcase under blue one", "ann_id": 1183568, "best_split": [2, 3], "split_score": 0.20975466716745628}
+{"sent": "gray suitcase", "ann_id": 1182864, "best_split": [2, 1], "split_score": 0.3103077168243659}
+{"sent": "case bearing the weight of all the others", "ann_id": 1182864, "best_split": [2, 1], "split_score": 0.3103077168243659}
+{"sent": "lowest suitcase", "ann_id": 1182864, "best_split": [2, 1], "split_score": 0.3103077168243659}

@@ -1,0 +1,6 @@
+{"sent": "phone barely visible", "ann_id": 1638944, "best_split": [5, 1], "split_score": 0.07562736334860541}
+{"sent": "remote barely in pic", "ann_id": 1638944, "best_split": [1, 5], "split_score": 0.26988636360898066}
+{"sent": "black keys off to side", "ann_id": 1638944, "best_split": [5, 1], "split_score": 0.07562736334860541}
+{"sent": "the tablet with clock on it", "ann_id": 1638673, "best_split": [3, 1], "split_score": 0.5624672233425121}
+{"sent": "clock", "ann_id": 1638673, "best_split": [3, 1], "split_score": 0.5624672233425121}
+{"sent": "blue screen", "ann_id": 1638673, "best_split": [3, 1], "split_score": 0.5624672233425121}

@@ -1,0 +1,6 @@
+{"sent": "hand", "ann_id": 2156348, "best_split": [1, 2], "split_score": 0.4988411697031613}
+{"sent": "hand holding phone", "ann_id": 2156348, "best_split": [1, 2], "split_score": 0.492195024067171}
+{"sent": "fingers", "ann_id": 2156348, "best_split": [1, 2], "split_score": 0.4988411697031613}
+{"sent": "man face in phone", "ann_id": 1717013, "best_split": [1, 3], "split_score": 0.23237704916672264}
+{"sent": "face on phone", "ann_id": 1717013, "best_split": [1, 3], "split_score": 0.23237704916672264}
+{"sent": "person in cell", "ann_id": 1717013, "best_split": [2, 3], "split_score": 0.4411067193177745}

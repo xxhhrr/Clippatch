@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 502031, "best_split": [2, 2], "split_score": 0.45531692666262047}
+{"sent": "man wit arms cut off", "ann_id": 502031, "best_split": [2, 2], "split_score": 0.45531692666262047}
+{"sent": "taller man", "ann_id": 502031, "best_split": [1, 5], "split_score": 0.4119256805118878}
+{"sent": "guy in gray jacket", "ann_id": 453725, "best_split": [2, 2], "split_score": 0.4767008387380708}
+{"sent": "guy in suit", "ann_id": 453725, "best_split": [2, 2], "split_score": 0.4767008387380708}
+{"sent": "shorter man", "ann_id": 453725, "best_split": [2, 2], "split_score": 0.4767008387380708}

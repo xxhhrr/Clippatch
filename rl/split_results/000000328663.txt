@@ -1,0 +1,8 @@
+{"sent": "man in blue with sunglasses red gloves", "ann_id": 481947, "best_split": [3, 3], "split_score": 0.41937145795731945}
+{"sent": "blue clothes with glasses", "ann_id": 481947, "best_split": [3, 2], "split_score": 0.30786686835213056}
+{"sent": "man with jacket open", "ann_id": 481947, "best_split": [3, 1], "split_score": 0.17260390160238528}
+{"sent": "blue pants", "ann_id": 478714, "best_split": [1, 5], "split_score": 0.501213818814079}
+{"sent": "man between the other two men", "ann_id": 478714, "best_split": [3, 1], "split_score": 0.19838099242018603}
+{"sent": "yellow", "ann_id": 477185, "best_split": [3, 3], "split_score": 0.4559241705620943}
+{"sent": "yellow", "ann_id": 477185, "best_split": [3, 3], "split_score": 0.4559241705620943}
+{"sent": "yellow", "ann_id": 477185, "best_split": [3, 3], "split_score": 0.4559241705620943}

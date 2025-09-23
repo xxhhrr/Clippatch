@@ -1,0 +1,6 @@
+{"sent": "women in dress", "ann_id": 237577, "best_split": [1, 5], "split_score": 0.3533887986654435}
+{"sent": "woman with hat", "ann_id": 237577, "best_split": [3, 3], "split_score": 0.2343620831862273}
+{"sent": "woman in helmet", "ann_id": 237577, "best_split": [3, 2], "split_score": 0.16891757694449677}
+{"sent": "white shirt not on truck", "ann_id": 2152077, "best_split": [2, 1], "split_score": 0.09978240596441629}
+{"sent": "man with white shirt", "ann_id": 2152077, "best_split": [2, 3], "split_score": 0.28737690238502944}
+{"sent": "man in white shirt", "ann_id": 2152077, "best_split": [1, 5], "split_score": 0.3262987012655947}

@@ -1,0 +1,5 @@
+{"sent": "orange with shadow stripe", "ann_id": 1052243, "best_split": [3, 2], "split_score": 0.37014576014787254}
+{"sent": "a cute ball at the end", "ann_id": 1052243, "best_split": [2, 2], "split_score": 0.28827067667005485}
+{"sent": "fruit farther up on branch", "ann_id": 1050950, "best_split": [3, 3], "split_score": 0.597614563622471}
+{"sent": "fruit closest to sky", "ann_id": 1050950, "best_split": [3, 3], "split_score": 0.597614563622471}
+{"sent": "fruit at 1200", "ann_id": 1050950, "best_split": [3, 3], "split_score": 0.597614563622471}

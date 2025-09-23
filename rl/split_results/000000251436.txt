@@ -1,0 +1,16 @@
+{"sent": "little boy with striped shirt drinking from juice box", "ann_id": 1278436, "best_split": [2, 3], "split_score": 0.36201222374682507}
+{"sent": "blue shirt drinking juice near pink lined shirt", "ann_id": 1278436, "best_split": [1, 5], "split_score": 0.27653793903778984}
+{"sent": "dark blue shirt drinking kid", "ann_id": 1278436, "best_split": [2, 2], "split_score": 0.24130366654330118}
+{"sent": "the woman in pink", "ann_id": 1275278, "best_split": [1, 2], "split_score": 0.8506058673130339}
+{"sent": "pink lady", "ann_id": 1275278, "best_split": [1, 2], "split_score": 0.8506058673130339}
+{"sent": "woman in pink", "ann_id": 1275278, "best_split": [1, 2], "split_score": 0.8506058673130339}
+{"sent": "has something over her shoulder", "ann_id": 1269948, "best_split": [3, 1], "split_score": 0.18894512825325288}
+{"sent": "standing woman next to guy in longsleeved blue shirt", "ann_id": 1269948, "best_split": [3, 1], "split_score": 0.18894512825325288}
+{"sent": "woman standing in black and white shirt", "ann_id": 1269948, "best_split": [3, 1], "split_score": 0.18894512825325288}
+{"sent": "man standing blue shirt", "ann_id": 1254236, "best_split": [1, 5], "split_score": 0.5044865403429364}
+{"sent": "man standing in blue", "ann_id": 1254236, "best_split": [1, 5], "split_score": 0.5044865403429364}
+{"sent": "blu shirt", "ann_id": 1254236, "best_split": [1, 5], "split_score": 0.5044865403429364}
+{"sent": "kid under pink shirts arm", "ann_id": 1329389, "best_split": [2, 3], "split_score": 0.42458976828853884}
+{"sent": "head under lady in pink arm", "ann_id": 1329389, "best_split": [2, 3], "split_score": 0.42458976828853884}
+{"sent": "space under womans arm with pink shirt", "ann_id": 1329389, "best_split": [2, 3], "split_score": 0.42458976828853884}
+{"sent": "arm with sweater", "ann_id": 1328882, "best_split": [1, 3], "split_score": 0.3611245173527314}

@@ -1,0 +1,6 @@
+{"sent": "man in green", "ann_id": 200343, "best_split": [3, 2], "split_score": 0.33928571424477727}
+{"sent": "black haired guy in green", "ann_id": 200343, "best_split": [3, 3], "split_score": 0.36585365847629303}
+{"sent": "man in green shirt", "ann_id": 200343, "best_split": [3, 3], "split_score": 0.36585365847629303}
+{"sent": "the little girl", "ann_id": 185877, "best_split": [3, 2], "split_score": 0.28309741878818717}
+{"sent": "blond lady", "ann_id": 185877, "best_split": [3, 2], "split_score": 0.28309741878818717}
+{"sent": "woman in shorts", "ann_id": 185877, "best_split": [1, 5], "split_score": 0.40990259736100826}

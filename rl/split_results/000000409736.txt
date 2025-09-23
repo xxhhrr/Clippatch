@@ -1,0 +1,9 @@
+{"sent": "littlest half off photo", "ann_id": 1818669, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "sheep laying down", "ann_id": 1818669, "best_split": [3, 3], "split_score": 0.822744599615193}
+{"sent": "sheep laying", "ann_id": 1818669, "best_split": [3, 3], "split_score": 0.822744599615193}
+{"sent": "animal looking into the camera", "ann_id": 64506, "best_split": [1, 3], "split_score": 0.6961006574078383}
+{"sent": "pig noticing camera", "ann_id": 64506, "best_split": [1, 3], "split_score": 0.6961006574078383}
+{"sent": "dead ahead sheep", "ann_id": 64506, "best_split": [1, 3], "split_score": 0.6961006574078383}
+{"sent": "the one near the railing", "ann_id": 64041, "best_split": [1, 3], "split_score": 0.3478052290508632}
+{"sent": "animal near fence", "ann_id": 64041, "best_split": [1, 3], "split_score": 0.3478052290508632}
+{"sent": "weird looking animal 3", "ann_id": 64041, "best_split": [3, 1], "split_score": 0.24108227497288337}

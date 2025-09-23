@@ -1,0 +1,12 @@
+{"sent": "baby blue hat", "ann_id": 511896, "best_split": [3, 3], "split_score": 0.4498189342408408}
+{"sent": "blue hat", "ann_id": 511896, "best_split": [3, 3], "split_score": 0.4498189342408408}
+{"sent": "baby", "ann_id": 511896, "best_split": [3, 3], "split_score": 0.4498189342408408}
+{"sent": "tallest", "ann_id": 464385, "best_split": [1, 2], "split_score": 0.7130102040532122}
+{"sent": "man standing", "ann_id": 464385, "best_split": [2, 1], "split_score": 0.2855518994829329}
+{"sent": "man holding the child", "ann_id": 464385, "best_split": [1, 2], "split_score": 0.7130102040532122}
+{"sent": "man signing", "ann_id": 461284, "best_split": [1, 3], "split_score": 0.6246303087291712}
+{"sent": "guy signing ball", "ann_id": 461284, "best_split": [1, 3], "split_score": 0.6246303087291712}
+{"sent": "man signing the ball", "ann_id": 461284, "best_split": [1, 3], "split_score": 0.6246303087291712}
+{"sent": "taller old guy", "ann_id": 2206149, "best_split": [1, 2], "split_score": 0.503348214265651}
+{"sent": "man holding certificate", "ann_id": 2206149, "best_split": [3, 3], "split_score": 0.43363953116616727}
+{"sent": "man holding paper", "ann_id": 2206149, "best_split": [1, 3], "split_score": 0.7110382000989549}

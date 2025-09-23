@@ -1,0 +1,6 @@
+{"sent": "actual cat not reflection", "ann_id": 48340, "best_split": [1, 3], "split_score": 0.42656230890220853}
+{"sent": "cat not reflection", "ann_id": 48340, "best_split": [1, 3], "split_score": 0.42656230890220853}
+{"sent": "real cat", "ann_id": 48340, "best_split": [1, 2], "split_score": 0.7938613603591539}
+{"sent": "the cat in the mirror", "ann_id": 46988, "best_split": [1, 3], "split_score": 0.4896215485378634}
+{"sent": "reflection of car", "ann_id": 46988, "best_split": [1, 2], "split_score": 0.41729363906485856}
+{"sent": "cat reflection", "ann_id": 46988, "best_split": [1, 3], "split_score": 0.4896215485378634}

@@ -1,0 +1,6 @@
+{"sent": "two red olives", "ann_id": 309289, "best_split": [3, 2], "split_score": 0.33108108104113404}
+{"sent": "burger with red tomatoes", "ann_id": 309289, "best_split": [5, 1], "split_score": 0.20643431633412157}
+{"sent": "sandwich without black olives on it maybe grapes on it", "ann_id": 309289, "best_split": [3, 2], "split_score": 0.33108108104113404}
+{"sent": "closest sandw", "ann_id": 309152, "best_split": [1, 3], "split_score": 0.4485148514629448}
+{"sent": "biggest burger", "ann_id": 309152, "best_split": [1, 3], "split_score": 0.4485148514629448}
+{"sent": "black olive sandwich", "ann_id": 309152, "best_split": [1, 3], "split_score": 0.4485148514629448}

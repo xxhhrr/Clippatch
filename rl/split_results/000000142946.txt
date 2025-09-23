@@ -1,0 +1,6 @@
+{"sent": "burger furthest away", "ann_id": 310200, "best_split": [2, 1], "split_score": 0.5123274926146563}
+{"sent": "sandwich on side with beans", "ann_id": 310200, "best_split": [1, 2], "split_score": 0.3036155850997923}
+{"sent": "sanwich that dosnt have bbq sauce leaking to table", "ann_id": 310200, "best_split": [2, 1], "split_score": 0.5123274926146563}
+{"sent": "that hald", "ann_id": 308696, "best_split": [1, 2], "split_score": 0.7934459967232578}
+{"sent": "sandwich in front", "ann_id": 308696, "best_split": [1, 2], "split_score": 0.7934459967232578}
+{"sent": "sandwich with sauce dripping on table", "ann_id": 308696, "best_split": [1, 2], "split_score": 0.7934459967232578}

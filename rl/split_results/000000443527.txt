@@ -1,0 +1,6 @@
+{"sent": "blue cycle", "ann_id": 151262, "best_split": [3, 2], "split_score": 0.5621987605505854}
+{"sent": "blue bike", "ann_id": 151262, "best_split": [3, 2], "split_score": 0.5621987605505854}
+{"sent": "blue bike in back", "ann_id": 151262, "best_split": [3, 2], "split_score": 0.5621987605505854}
+{"sent": "motorcycle with sign", "ann_id": 148659, "best_split": [2, 1], "split_score": 0.46648330747384253}
+{"sent": "black cycle", "ann_id": 148659, "best_split": [2, 1], "split_score": 0.46648330747384253}
+{"sent": "black and white bike", "ann_id": 148659, "best_split": [2, 1], "split_score": 0.46648330747384253}

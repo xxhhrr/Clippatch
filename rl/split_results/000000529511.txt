@@ -1,0 +1,6 @@
+{"sent": "number 2 broccoli piece", "ann_id": 1058682, "best_split": [3, 3], "split_score": 0.5289699569869509}
+{"sent": "broccolli", "ann_id": 1058682, "best_split": [3, 3], "split_score": 0.5289699569869509}
+{"sent": "broccoli between broccolis", "ann_id": 1058682, "best_split": [3, 3], "split_score": 0.5289699569869509}
+{"sent": "biggest brocolli", "ann_id": 1058441, "best_split": [3, 2], "split_score": 0.27406199018013727}
+{"sent": "biggest broccoli", "ann_id": 1058441, "best_split": [3, 2], "split_score": 0.27406199018013727}
+{"sent": "brocolli at 5 clock", "ann_id": 1058441, "best_split": [3, 2], "split_score": 0.27406199018013727}

@@ -1,0 +1,6 @@
+{"sent": "biggest elephant", "ann_id": 583467, "best_split": [2, 2], "split_score": 0.3402967590563389}
+{"sent": "bigger and darker", "ann_id": 583467, "best_split": [3, 1], "split_score": 0.3204117741504256}
+{"sent": "elephant in shadow", "ann_id": 583467, "best_split": [2, 2], "split_score": 0.3402967590563389}
+{"sent": "elephant in sun", "ann_id": 583334, "best_split": [3, 2], "split_score": 0.4332092156814976}
+{"sent": "lightest elephant", "ann_id": 583334, "best_split": [3, 2], "split_score": 0.4332092156814976}
+{"sent": "elephant facing camara", "ann_id": 583334, "best_split": [3, 2], "split_score": 0.4332092156814976}

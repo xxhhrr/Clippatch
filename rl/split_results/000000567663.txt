@@ -1,0 +1,15 @@
+{"sent": "blue chair under white shirt man", "ann_id": 1593001, "best_split": [2, 2], "split_score": 0.4046619371359011}
+{"sent": "chair with man sitting in it", "ann_id": 1593001, "best_split": [2, 2], "split_score": 0.4046619371359011}
+{"sent": "recliner with white shirted man", "ann_id": 1593001, "best_split": [2, 2], "split_score": 0.4046619371359011}
+{"sent": "white shirt sitting", "ann_id": 221538, "best_split": [1, 5], "split_score": 0.44504383003130293}
+{"sent": "white shirt", "ann_id": 221538, "best_split": [1, 5], "split_score": 0.44504383003130293}
+{"sent": "white shirt", "ann_id": 221538, "best_split": [1, 5], "split_score": 0.44504383003130293}
+{"sent": "girl in shorts", "ann_id": 188057, "best_split": [1, 5], "split_score": 0.27069805192058666}
+{"sent": "woman in brown", "ann_id": 188057, "best_split": [1, 5], "split_score": 0.27069805192058666}
+{"sent": "woman standing", "ann_id": 188057, "best_split": [1, 5], "split_score": 0.27069805192058666}
+{"sent": "couch gal in red is on", "ann_id": 1936581, "best_split": [2, 3], "split_score": 0.6660231659428061}
+{"sent": "back of blue chair nearest us", "ann_id": 1936581, "best_split": [2, 3], "split_score": 0.6660231659428061}
+{"sent": "chair girl is sitting on", "ann_id": 1936581, "best_split": [1, 5], "split_score": 0.3573446327368163}
+{"sent": "man without shoes", "ann_id": 184238, "best_split": [1, 3], "split_score": 0.49396718143738133}
+{"sent": "guy standing", "ann_id": 184238, "best_split": [1, 3], "split_score": 0.49396718143738133}
+{"sent": "man standing", "ann_id": 184238, "best_split": [1, 3], "split_score": 0.49396718143738133}

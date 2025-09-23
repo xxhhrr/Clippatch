@@ -1,0 +1,10 @@
+{"sent": "sheep facing away head up higher then those around it", "ann_id": 68665, "best_split": [2, 1], "split_score": 0.08813559321729036}
+{"sent": "big sheep at 9 pm with horns", "ann_id": 68665, "best_split": [2, 1], "split_score": 0.08813559321729036}
+{"sent": "rear of gray sheep to the side of man in blue", "ann_id": 67911, "best_split": [1, 2], "split_score": 0.04297332942398251}
+{"sent": "sheep just behind man with butt facing us", "ann_id": 67911, "best_split": [1, 2], "split_score": 0.04297332942398251}
+{"sent": "closest looking at us", "ann_id": 67280, "best_split": [1, 2], "split_score": 0.26805282381750306}
+{"sent": "sheep with a smile looking at viewer", "ann_id": 67280, "best_split": [3, 1], "split_score": 0.664575289535197}
+{"sent": "sheep in foreground whose head is above another", "ann_id": 67280, "best_split": [3, 1], "split_score": 0.664575289535197}
+{"sent": "clearly visible sheep looking forward", "ann_id": 66245, "best_split": [2, 3], "split_score": 0.4459459458921397}
+{"sent": "sheep facing camera in corner", "ann_id": 66245, "best_split": [3, 3], "split_score": 0.6182074804837319}
+{"sent": "sideways sheep behind sheep facing you", "ann_id": 63365, "best_split": [5, 1], "split_score": 0.5275779376046953}

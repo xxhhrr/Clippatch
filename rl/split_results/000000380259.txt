@@ -1,0 +1,9 @@
+{"sent": "long black coat", "ann_id": 493427, "best_split": [1, 5], "split_score": 0.6856046064601147}
+{"sent": "all black", "ann_id": 493427, "best_split": [1, 5], "split_score": 0.6856046064601147}
+{"sent": "long black jacket", "ann_id": 493427, "best_split": [1, 5], "split_score": 0.6856046064601147}
+{"sent": "black jacket with purse", "ann_id": 466180, "best_split": [1, 3], "split_score": 0.2513150204436336}
+{"sent": "woman black jacket facing away", "ann_id": 466180, "best_split": [1, 2], "split_score": 0.3633609693732716}
+{"sent": "blue jeans", "ann_id": 466180, "best_split": [1, 3], "split_score": 0.2513150204436336}
+{"sent": "woman in pink shirt", "ann_id": 461609, "best_split": [1, 2], "split_score": 0.6314174106891176}
+{"sent": "pink", "ann_id": 461609, "best_split": [1, 2], "split_score": 0.6314174106891176}
+{"sent": "pink shirt", "ann_id": 461609, "best_split": [1, 2], "split_score": 0.6314174106891176}

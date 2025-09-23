@@ -1,0 +1,6 @@
+{"sent": "lower silver oven", "ann_id": 1979772, "best_split": [2, 3], "split_score": 0.3981660231179819}
+{"sent": "oven down low", "ann_id": 1979772, "best_split": [1, 5], "split_score": 0.2163461538261514}
+{"sent": "lower oven", "ann_id": 1979772, "best_split": [2, 3], "split_score": 0.3981660231179819}
+{"sent": "higher of the oven door glass", "ann_id": 1979544, "best_split": [3, 3], "split_score": 0.5423666909162953}
+{"sent": "upper oven", "ann_id": 1979544, "best_split": [3, 3], "split_score": 0.5423666909162953}
+{"sent": "the shiny appliance", "ann_id": 1979544, "best_split": [3, 3], "split_score": 0.5423666909162953}

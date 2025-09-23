@@ -1,0 +1,5 @@
+{"sent": "sandwich half behind the other half", "ann_id": 310658, "best_split": [2, 2], "split_score": 0.4191321498755466}
+{"sent": "hidden sandwich", "ann_id": 310658, "best_split": [2, 3], "split_score": 0.4607721045718577}
+{"sent": "sandwich with toppings hanging off", "ann_id": 310339, "best_split": [1, 3], "split_score": 0.5109593963119403}
+{"sent": "sandwich closest to camera", "ann_id": 310339, "best_split": [1, 3], "split_score": 0.5109593963119403}
+{"sent": "closest sandwich", "ann_id": 310339, "best_split": [1, 3], "split_score": 0.5109593963119403}

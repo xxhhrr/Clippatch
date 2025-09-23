@@ -1,0 +1,6 @@
+{"sent": "cow no face", "ann_id": 75061, "best_split": [5, 1], "split_score": 0.15227409336043507}
+{"sent": "cow without visible head", "ann_id": 75061, "best_split": [5, 1], "split_score": 0.15227409336043507}
+{"sent": "cow without a head", "ann_id": 75061, "best_split": [5, 1], "split_score": 0.15227409336043507}
+{"sent": "big cow", "ann_id": 73772, "best_split": [1, 2], "split_score": 0.7525309336104177}
+{"sent": "cow with horns", "ann_id": 73772, "best_split": [1, 2], "split_score": 0.7525309336104177}
+{"sent": "cow head", "ann_id": 73772, "best_split": [1, 2], "split_score": 0.7525309336104177}

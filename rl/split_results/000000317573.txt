@@ -1,0 +1,13 @@
+{"sent": "person closest to food", "ann_id": 1747590, "best_split": [2, 3], "split_score": 0.5629803921127075}
+{"sent": "the black jacket", "ann_id": 1747590, "best_split": [2, 3], "split_score": 0.5629803921127075}
+{"sent": "eater", "ann_id": 1747590, "best_split": [2, 1], "split_score": 0.4639668367162003}
+{"sent": "dark coffee", "ann_id": 678693, "best_split": [3, 2], "split_score": 0.3628318583636891}
+{"sent": "black liquid with spoon beside it", "ann_id": 678693, "best_split": [3, 2], "split_score": 0.3628318583636891}
+{"sent": "bowl of black stuff", "ann_id": 678693, "best_split": [1, 5], "split_score": 0.1662468513704348}
+{"sent": "cup or bowl of dark liquid", "ann_id": 678693, "best_split": [5, 1], "split_score": 0.2863663424998644}
+{"sent": "cup of coffee with cream added", "ann_id": 678108, "best_split": [3, 3], "split_score": 0.2885388739462904}
+{"sent": "coffee with creamer in it", "ann_id": 678108, "best_split": [3, 3], "split_score": 0.2885388739462904}
+{"sent": "cup of lighter soup", "ann_id": 678108, "best_split": [3, 3], "split_score": 0.2885388739462904}
+{"sent": "arms without spiin", "ann_id": 464119, "best_split": [3, 3], "split_score": 0.6105599999023104}
+{"sent": "arm lonely", "ann_id": 464119, "best_split": [3, 3], "split_score": 0.6105599999023104}
+{"sent": "arm of person off to side", "ann_id": 464119, "best_split": [3, 3], "split_score": 0.6105599999023104}

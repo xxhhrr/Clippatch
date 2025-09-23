@@ -1,0 +1,6 @@
+{"sent": "large bread loaf", "ann_id": 311723, "best_split": [2, 2], "split_score": 0.5090758648958434}
+{"sent": "empty bread", "ann_id": 311723, "best_split": [2, 2], "split_score": 0.5090758648958434}
+{"sent": "half bread loaf", "ann_id": 311723, "best_split": [2, 2], "split_score": 0.5090758648958434}
+{"sent": "small sandwich blade of knife side", "ann_id": 311679, "best_split": [3, 1], "split_score": 0.3536306895847348}
+{"sent": "smaller half of sandwich", "ann_id": 311679, "best_split": [3, 2], "split_score": 0.4846992329039403}
+{"sent": "sandwich", "ann_id": 311679, "best_split": [3, 2], "split_score": 0.4846992329039403}

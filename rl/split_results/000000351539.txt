@@ -1,0 +1,5 @@
+{"sent": "half a yellow board with cherry on it", "ann_id": 1862068, "best_split": [5, 1], "split_score": 0.36210680318561567}
+{"sent": "the board near the split", "ann_id": 1862068, "best_split": [2, 3], "split_score": 0.4512195121459909}
+{"sent": "board with red s on it", "ann_id": 1478556, "best_split": [2, 1], "split_score": 0.4972098214087528}
+{"sent": "board next to guy", "ann_id": 1478556, "best_split": [2, 3], "split_score": 0.5452515629245868}
+{"sent": "nearest orange board with s looking logo", "ann_id": 1478556, "best_split": [2, 1], "split_score": 0.4972098214087528}

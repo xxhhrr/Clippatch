@@ -1,0 +1,7 @@
+{"sent": "bus in between others", "ann_id": 248434, "best_split": [3, 2], "split_score": 0.4290512174128522}
+{"sent": "bus ahead of the one with sign on side", "ann_id": 248434, "best_split": [3, 2], "split_score": 0.4290512174128522}
+{"sent": "train at the edge of the picture you can barely see", "ann_id": 168000, "best_split": [1, 5], "split_score": 0.8725649349764036}
+{"sent": "bus in lead with least amount showin", "ann_id": 168000, "best_split": [3, 2], "split_score": 0.21252153932994533}
+{"sent": "closest part of train has star shape", "ann_id": 167565, "best_split": [1, 2], "split_score": 0.8533041822112524}
+{"sent": "bus with foriegn writing", "ann_id": 167565, "best_split": [1, 2], "split_score": 0.8533041822112524}
+{"sent": "main bus", "ann_id": 167565, "best_split": [1, 2], "split_score": 0.8533041822112524}

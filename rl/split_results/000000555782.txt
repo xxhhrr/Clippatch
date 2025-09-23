@@ -1,0 +1,6 @@
+{"sent": "far horse", "ann_id": 274143, "best_split": [1, 2], "split_score": 0.5821906887523043}
+{"sent": "the partially hidden horse", "ann_id": 274143, "best_split": [1, 2], "split_score": 0.5821906887523043}
+{"sent": "hidden horse", "ann_id": 274143, "best_split": [1, 2], "split_score": 0.5821906887523043}
+{"sent": "horse light colored closest to us", "ann_id": 54030, "best_split": [1, 2], "split_score": 0.3678343948939993}
+{"sent": "closest horse", "ann_id": 54030, "best_split": [1, 2], "split_score": 0.3678343948939993}
+{"sent": "reddish horse", "ann_id": 54030, "best_split": [1, 3], "split_score": 0.45773195874603345}

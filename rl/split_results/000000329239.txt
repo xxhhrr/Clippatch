@@ -1,0 +1,5 @@
+{"sent": "white truck", "ann_id": 363260, "best_split": [2, 2], "split_score": 0.3236607142599122}
+{"sent": "white truch near fence", "ann_id": 363260, "best_split": [2, 2], "split_score": 0.3236607142599122}
+{"sent": "dark vehicle behind fence", "ann_id": 361702, "best_split": [5, 1], "split_score": 0.19201995010758638}
+{"sent": "black jeep", "ann_id": 361702, "best_split": [5, 1], "split_score": 0.19201995010758638}
+{"sent": "jeep 2 clock", "ann_id": 361702, "best_split": [3, 3], "split_score": 0.27103331447331547}

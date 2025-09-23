@@ -1,0 +1,12 @@
+{"sent": "red jacket", "ann_id": 1307511, "best_split": [3, 3], "split_score": 0.2884187082003871}
+{"sent": "man in red jacket", "ann_id": 1307511, "best_split": [3, 3], "split_score": 0.2884187082003871}
+{"sent": "red jacket", "ann_id": 1307511, "best_split": [3, 3], "split_score": 0.2884187082003871}
+{"sent": "skier in green jacket leaning over", "ann_id": 1297962, "best_split": [1, 5], "split_score": 0.22461538459309027}
+{"sent": "man bending over with full head visible", "ann_id": 1297962, "best_split": [3, 2], "split_score": 0.19189907036388898}
+{"sent": "the man bent down looking totally down", "ann_id": 1297962, "best_split": [3, 2], "split_score": 0.19189907036388898}
+{"sent": "man with white square on back", "ann_id": 1290869, "best_split": [1, 2], "split_score": 0.24609374999019076}
+{"sent": "white on jacket", "ann_id": 1290869, "best_split": [2, 1], "split_score": 0.08608949416043324}
+{"sent": "man in black and white jacket", "ann_id": 1290869, "best_split": [2, 1], "split_score": 0.08608949416043324}
+{"sent": "bending over skier in darkest green coat", "ann_id": 2155260, "best_split": [2, 3], "split_score": 0.41578824075711074}
+{"sent": "dark bent over", "ann_id": 2155260, "best_split": [2, 3], "split_score": 0.41578824075711074}
+{"sent": "person bending next to man in white jaket", "ann_id": 2155260, "best_split": [2, 2], "split_score": 0.17930586621117642}

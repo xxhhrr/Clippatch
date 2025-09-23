@@ -1,0 +1,10 @@
+{"sent": "the seat person with hat is sitting in", "ann_id": 2222937, "best_split": [2, 3], "split_score": 0.5497104246440986}
+{"sent": "seat that person in cap sitting in", "ann_id": 2222937, "best_split": [2, 3], "split_score": 0.5497104246440986}
+{"sent": "bacon", "ann_id": 1924302, "best_split": [5, 1], "split_score": 0.7164521599604458}
+{"sent": "lowest pizza", "ann_id": 1924302, "best_split": [2, 1], "split_score": 0.2928890306005704}
+{"sent": "meat in the thing", "ann_id": 1924302, "best_split": [5, 1], "split_score": 0.7164521599604458}
+{"sent": "pizza with a bite taken out", "ann_id": 1924031, "best_split": [3, 1], "split_score": 0.5755831565901453}
+{"sent": "above part of food", "ann_id": 1924031, "best_split": [5, 1], "split_score": 0.344202898531829}
+{"sent": "the piecce of food thats closest to ceiling", "ann_id": 1924031, "best_split": [3, 1], "split_score": 0.5755831565901453}
+{"sent": "the back of the seat the man is in", "ann_id": 2223502, "best_split": [5, 1], "split_score": 0.18391794549139384}
+{"sent": "seat that the man in white plaid shirt is sitting in", "ann_id": 2223502, "best_split": [5, 1], "split_score": 0.18391794549139384}

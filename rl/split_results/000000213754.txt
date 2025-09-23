@@ -1,0 +1,6 @@
+{"sent": "doughnut on table", "ann_id": 1966866, "best_split": [3, 1], "split_score": 0.7142437418783497}
+{"sent": "cupcake", "ann_id": 1966866, "best_split": [3, 1], "split_score": 0.7142437418783497}
+{"sent": "table next to the hand", "ann_id": 1966866, "best_split": [3, 1], "split_score": 0.7142437418783497}
+{"sent": "full bowl and black bowl", "ann_id": 1959029, "best_split": [3, 1], "split_score": 0.9647577091936684}
+{"sent": "center bowl", "ann_id": 1959029, "best_split": [3, 3], "split_score": 0.32735426006984886}
+{"sent": "bowl with stuff in it", "ann_id": 1959029, "best_split": [3, 3], "split_score": 0.32735426006984886}

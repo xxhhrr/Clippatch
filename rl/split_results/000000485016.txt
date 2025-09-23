@@ -1,0 +1,9 @@
+{"sent": "spectator with camera and white shirt", "ann_id": 1744343, "best_split": [3, 1], "split_score": 0.22902087790012024}
+{"sent": "lady on lefft sitting", "ann_id": 1744343, "best_split": [1, 5], "split_score": 0.30545323867528046}
+{"sent": "lady behind batter", "ann_id": 1744343, "best_split": [3, 2], "split_score": 0.43985338215707503}
+{"sent": "woman in sunglasses crossed legs", "ann_id": 481041, "best_split": [3, 3], "split_score": 0.6592043347127898}
+{"sent": "woman with crossed legs behind fence", "ann_id": 481041, "best_split": [3, 3], "split_score": 0.6592043347127898}
+{"sent": "woman with legs crossed", "ann_id": 481041, "best_split": [3, 3], "split_score": 0.6592043347127898}
+{"sent": "kid hiting bat", "ann_id": 464369, "best_split": [1, 2], "split_score": 0.5115216527467075}
+{"sent": "player", "ann_id": 464369, "best_split": [1, 2], "split_score": 0.5115216527467075}
+{"sent": "batter", "ann_id": 464369, "best_split": [1, 2], "split_score": 0.5115216527467075}

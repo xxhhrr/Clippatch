@@ -1,0 +1,12 @@
+{"sent": "biker with one light", "ann_id": 206379, "best_split": [1, 5], "split_score": 0.4626452683640884}
+{"sent": "back biker", "ann_id": 206379, "best_split": [1, 5], "split_score": 0.4626452683640884}
+{"sent": "biker with only one headlight", "ann_id": 206379, "best_split": [1, 5], "split_score": 0.4626452683640884}
+{"sent": "lead guy", "ann_id": 187567, "best_split": [2, 1], "split_score": 0.3948165433594455}
+{"sent": "motorcyclist closest to us", "ann_id": 187567, "best_split": [2, 1], "split_score": 0.3706576892961881}
+{"sent": "man close to us", "ann_id": 187567, "best_split": [1, 3], "split_score": 0.4542736867654727}
+{"sent": "following bike", "ann_id": 155314, "best_split": [1, 5], "split_score": 0.48116646411898795}
+{"sent": "just one light", "ann_id": 155314, "best_split": [1, 5], "split_score": 0.48116646411898795}
+{"sent": "bike farther", "ann_id": 155314, "best_split": [1, 5], "split_score": 0.48116646411898795}
+{"sent": "closest bike", "ann_id": 149590, "best_split": [2, 1], "split_score": 0.4052358720131402}
+{"sent": "three headlights", "ann_id": 149590, "best_split": [1, 2], "split_score": 0.7065882843778145}
+{"sent": "closest motorcycle", "ann_id": 149590, "best_split": [2, 1], "split_score": 0.4052358720131402}

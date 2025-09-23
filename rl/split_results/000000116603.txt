@@ -1,0 +1,6 @@
+{"sent": "blurry half", "ann_id": 1052245, "best_split": [3, 1], "split_score": 0.2079624676543183}
+{"sent": "lemon not in focus", "ann_id": 1052245, "best_split": [1, 3], "split_score": 0.3008782698885221}
+{"sent": "fruit half out of focus", "ann_id": 1052245, "best_split": [1, 2], "split_score": 0.3368179122057823}
+{"sent": "orang closest to camera", "ann_id": 1052136, "best_split": [2, 2], "split_score": 0.4464751957959604}
+{"sent": "clearer fruit", "ann_id": 1052136, "best_split": [2, 2], "split_score": 0.4464751957959604}
+{"sent": "fruit in focus", "ann_id": 1052136, "best_split": [2, 2], "split_score": 0.4464751957959604}

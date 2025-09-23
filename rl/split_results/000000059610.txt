@@ -1,0 +1,6 @@
+{"sent": "horse closest to camera", "ann_id": 54022, "best_split": [2, 3], "split_score": 0.7746708609140543}
+{"sent": "horse with mane with half body missing", "ann_id": 54022, "best_split": [2, 3], "split_score": 0.7746708609140543}
+{"sent": "big horse", "ann_id": 54022, "best_split": [2, 3], "split_score": 0.7746708609140543}
+{"sent": "bulls eye horse", "ann_id": 53462, "best_split": [2, 1], "split_score": 0.1287113321883759}
+{"sent": "black horse", "ann_id": 53462, "best_split": [2, 1], "split_score": 0.1287113321883759}
+{"sent": "dark horse in the m", "ann_id": 53462, "best_split": [2, 1], "split_score": 0.1287113321883759}

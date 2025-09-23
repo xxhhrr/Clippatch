@@ -1,0 +1,6 @@
+{"sent": "white shirt funning", "ann_id": 511047, "best_split": [3, 2], "split_score": 0.46039256918503396}
+{"sent": "white shirt", "ann_id": 511047, "best_split": [1, 5], "split_score": 0.39809845112727354}
+{"sent": "white shirt playre", "ann_id": 511047, "best_split": [3, 2], "split_score": 0.46039256918503396}
+{"sent": "21", "ann_id": 485024, "best_split": [2, 1], "split_score": 0.1065775109133946}
+{"sent": "girl blond hair", "ann_id": 485024, "best_split": [1, 5], "split_score": 0.7455357142100715}
+{"sent": "girl in black not near ball", "ann_id": 485024, "best_split": [3, 1], "split_score": 0.15753822333280731}

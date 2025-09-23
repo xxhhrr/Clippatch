@@ -1,0 +1,5 @@
+{"sent": "wheel of bike without the box on it", "ann_id": 1792796, "best_split": [2, 3], "split_score": 0.3767793593887033}
+{"sent": "bike at 800", "ann_id": 1792796, "best_split": [2, 3], "split_score": 0.3767793593887033}
+{"sent": "leader motorcycle tail end only", "ann_id": 1362590, "best_split": [3, 3], "split_score": 0.20415630027745407}
+{"sent": "bike we can only see back end of no person", "ann_id": 1362590, "best_split": [2, 2], "split_score": 0.1920199501097241}
+{"sent": "rear end of motorcycle only part seen", "ann_id": 1362590, "best_split": [3, 3], "split_score": 0.20415630027745407}

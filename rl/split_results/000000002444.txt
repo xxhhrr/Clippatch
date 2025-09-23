@@ -1,0 +1,6 @@
+{"sent": "the horse being obscured can only really see the feet of it", "ann_id": 1404403, "best_split": [3, 3], "split_score": 0.4367571112028234}
+{"sent": "one less seen", "ann_id": 1404403, "best_split": [1, 2], "split_score": 0.23664757591113986}
+{"sent": "less sen horse", "ann_id": 1404403, "best_split": [1, 3], "split_score": 0.36286598427217964}
+{"sent": "horse", "ann_id": 54226, "best_split": [1, 3], "split_score": 0.4007220216477333}
+{"sent": "the horse", "ann_id": 54226, "best_split": [1, 3], "split_score": 0.4007220216477333}
+{"sent": "horsey", "ann_id": 54226, "best_split": [1, 3], "split_score": 0.4007220216477333}

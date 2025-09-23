@@ -1,0 +1,11 @@
+{"sent": "green umbrella cant see person under it", "ann_id": 287218, "best_split": [2, 3], "split_score": 0.6462550086667774}
+{"sent": "green umbrella", "ann_id": 287218, "best_split": [2, 3], "split_score": 0.6462550086667774}
+{"sent": "greyish shirt under light blue umbrella", "ann_id": 230837, "best_split": [1, 5], "split_score": 0.23773324116812947}
+{"sent": "person under blue umbrella", "ann_id": 230837, "best_split": [1, 3], "split_score": 0.26978764477136896}
+{"sent": "under umbrella in gray", "ann_id": 230837, "best_split": [1, 3], "split_score": 0.26978764477136896}
+{"sent": "blue umbrella not wrinkled", "ann_id": 1830177, "best_split": [3, 3], "split_score": 0.7979068926745025}
+{"sent": "blue umbrella 3 clock", "ann_id": 1830177, "best_split": [3, 3], "split_score": 0.7979068926745025}
+{"sent": "light blue umbrella", "ann_id": 1830177, "best_split": [3, 3], "split_score": 0.7979068926745025}
+{"sent": "purple", "ann_id": 209599, "best_split": [2, 1], "split_score": 0.021827174652455927}
+{"sent": "purple jacket", "ann_id": 209599, "best_split": [2, 1], "split_score": 0.021827174652455927}
+{"sent": "purple jacket", "ann_id": 209599, "best_split": [2, 1], "split_score": 0.021827174652455927}

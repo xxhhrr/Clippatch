@@ -1,0 +1,5 @@
+{"sent": "green coat under umbrella", "ann_id": 1250192, "best_split": [5, 1], "split_score": 0.06472026462931682}
+{"sent": "man in dark green with tan pants red umb", "ann_id": 1250192, "best_split": [1, 5], "split_score": 0.3651115618324625}
+{"sent": "red umbrella green jacket and black packpack with light pants", "ann_id": 1250192, "best_split": [1, 5], "split_score": 0.3651115618324625}
+{"sent": "man no umbrella turned back on us", "ann_id": 1246852, "best_split": [1, 2], "split_score": 0.11326318854941336}
+{"sent": "man facing away wearing black coat and blue jeans", "ann_id": 1246852, "best_split": [1, 5], "split_score": 0.5570211038395879}

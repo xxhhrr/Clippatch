@@ -1,0 +1,14 @@
+{"sent": "man with tie", "ann_id": 460118, "best_split": [1, 5], "split_score": 0.354574299281282}
+{"sent": "man in suit tie", "ann_id": 460118, "best_split": [1, 5], "split_score": 0.354574299281282}
+{"sent": "man in business suit", "ann_id": 460118, "best_split": [1, 5], "split_score": 0.354574299281282}
+{"sent": "soldier mostly out of frame", "ann_id": 2167838, "best_split": [1, 5], "split_score": 0.6696428570749144}
+{"sent": "person barely visible behind at edge", "ann_id": 2167838, "best_split": [3, 2], "split_score": 0.196207616889265}
+{"sent": "uhmm behind 9 o clock guy", "ann_id": 2167838, "best_split": [2, 1], "split_score": 0.10088938298704525}
+{"sent": "person in camo closest to cake", "ann_id": 2167343, "best_split": [1, 5], "split_score": 0.8638743454689721}
+{"sent": "stepping up", "ann_id": 2167343, "best_split": [1, 5], "split_score": 0.8638743454689721}
+{"sent": "soldier at 9 o clock", "ann_id": 2167343, "best_split": [1, 5], "split_score": 0.8638743454689721}
+{"sent": "the soldier with darker skin with his hands at his sides", "ann_id": 2155272, "best_split": [2, 3], "split_score": 0.3518086938543106}
+{"sent": "military man standing closest to tie man", "ann_id": 2155272, "best_split": [2, 3], "split_score": 0.3518086938543106}
+{"sent": "man in uniform by gray suit", "ann_id": 2155272, "best_split": [2, 3], "split_score": 0.3518086938543106}
+{"sent": "camera person", "ann_id": 453740, "best_split": [2, 3], "split_score": 0.3308519437160756}
+{"sent": "person by tripod", "ann_id": 453740, "best_split": [2, 3], "split_score": 0.3308519437160756}

@@ -1,0 +1,9 @@
+{"sent": "person in suit", "ann_id": 221371, "best_split": [2, 3], "split_score": 0.4687346134524262}
+{"sent": "black suit and jacket", "ann_id": 221371, "best_split": [1, 3], "split_score": 0.4324161697701211}
+{"sent": "black jacket", "ann_id": 221371, "best_split": [1, 3], "split_score": 0.4324161697701211}
+{"sent": "older person between others", "ann_id": 211475, "best_split": [1, 3], "split_score": 0.40250528220130266}
+{"sent": "sitting down", "ann_id": 211475, "best_split": [1, 2], "split_score": 0.27611600097218797}
+{"sent": "lady sitting down", "ann_id": 211475, "best_split": [1, 3], "split_score": 0.40250528220130266}
+{"sent": "blue shirt", "ann_id": 189706, "best_split": [1, 2], "split_score": 0.7672194112801559}
+{"sent": "blue", "ann_id": 189706, "best_split": [1, 2], "split_score": 0.7672194112801559}
+{"sent": "blue", "ann_id": 189706, "best_split": [1, 2], "split_score": 0.7672194112801559}

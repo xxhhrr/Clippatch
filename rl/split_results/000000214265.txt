@@ -1,0 +1,9 @@
+{"sent": "obama", "ann_id": 2154778, "best_split": [1, 2], "split_score": 0.6604377204849478}
+{"sent": "obama", "ann_id": 2154778, "best_split": [1, 2], "split_score": 0.6604377204849478}
+{"sent": "man tieing the blue tie", "ann_id": 2154778, "best_split": [1, 2], "split_score": 0.6604377204849478}
+{"sent": "guy on the other side of obama", "ann_id": 554067, "best_split": [1, 5], "split_score": 0.21233322484442457}
+{"sent": "man in red tie", "ann_id": 554067, "best_split": [3, 2], "split_score": 0.3029118623897878}
+{"sent": "guy in back", "ann_id": 554067, "best_split": [3, 3], "split_score": 0.3500128303374374}
+{"sent": "blue tie", "ann_id": 495277, "best_split": [2, 2], "split_score": 0.5148623502784072}
+{"sent": "man obama is touching", "ann_id": 495277, "best_split": [3, 1], "split_score": 0.2574500983884787}
+{"sent": "man obama is fixing tie for", "ann_id": 495277, "best_split": [3, 1], "split_score": 0.2574500983884787}

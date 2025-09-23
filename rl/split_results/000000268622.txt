@@ -1,0 +1,12 @@
+{"sent": "red and blue guy", "ann_id": 1291757, "best_split": [1, 5], "split_score": 0.6794845778531367}
+{"sent": "man in red", "ann_id": 1291757, "best_split": [5, 1], "split_score": 0.10907872696086575}
+{"sent": "person standing with hands in pocket red shirt", "ann_id": 1291757, "best_split": [1, 5], "split_score": 0.6794845778531367}
+{"sent": "man in black wearing shorts by the brick wall", "ann_id": 1267218, "best_split": [1, 5], "split_score": 0.16962472404683224}
+{"sent": "man standing alone by the brick wall", "ann_id": 1267218, "best_split": [1, 3], "split_score": 0.2045125482502104}
+{"sent": "man with hands behind back with shorts", "ann_id": 1267218, "best_split": [3, 3], "split_score": 0.33403551003099075}
+{"sent": "man on bike", "ann_id": 1224924, "best_split": [3, 3], "split_score": 0.31437125744581196}
+{"sent": "man on bike in army uniform", "ann_id": 1224924, "best_split": [3, 2], "split_score": 0.4053484943772006}
+{"sent": "rider", "ann_id": 1224924, "best_split": [3, 2], "split_score": 0.4053484943772006}
+{"sent": "woman in white with black knee high pants", "ann_id": 1329567, "best_split": [1, 5], "split_score": 0.32873376620041256}
+{"sent": "bright white shirt", "ann_id": 1329567, "best_split": [1, 5], "split_score": 0.32873376620041256}
+{"sent": "woman in white shirts black pants", "ann_id": 1329567, "best_split": [1, 5], "split_score": 0.32873376620041256}

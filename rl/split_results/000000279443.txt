@@ -1,0 +1,6 @@
+{"sent": "far sandwich", "ann_id": 312904, "best_split": [1, 2], "split_score": 0.3600797310888736}
+{"sent": "smaller sandwich", "ann_id": 312904, "best_split": [1, 2], "split_score": 0.3600797310888736}
+{"sent": "sandwich half that is partially seen", "ann_id": 312904, "best_split": [1, 2], "split_score": 0.3600797310888736}
+{"sent": "sandwich showing fillings", "ann_id": 312203, "best_split": [1, 2], "split_score": 0.575207451292965}
+{"sent": "big sandwhich", "ann_id": 312203, "best_split": [1, 2], "split_score": 0.575207451292965}
+{"sent": "closest sammy", "ann_id": 312203, "best_split": [3, 1], "split_score": 0.3748733535831932}

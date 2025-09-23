@@ -1,0 +1,9 @@
+{"sent": "plain cheese", "ann_id": 1075671, "best_split": [2, 3], "split_score": 0.4918580375269459}
+{"sent": "cheese pizza", "ann_id": 1075671, "best_split": [2, 3], "split_score": 0.4918580375269459}
+{"sent": "cheese pizza", "ann_id": 1075671, "best_split": [2, 3], "split_score": 0.4918580375269459}
+{"sent": "the one with pepperoni near the crust", "ann_id": 1075327, "best_split": [2, 2], "split_score": 0.5229591836317794}
+{"sent": "upper pizza with more meat", "ann_id": 1075327, "best_split": [1, 3], "split_score": 0.29933730201621156}
+{"sent": "first slice", "ann_id": 1075327, "best_split": [1, 3], "split_score": 0.29933730201621156}
+{"sent": "7oclocck pizza", "ann_id": 1074921, "best_split": [3, 2], "split_score": 0.5086068640533938}
+{"sent": "darkest pizza", "ann_id": 1074921, "best_split": [3, 2], "split_score": 0.5086068640533938}
+{"sent": "under slice", "ann_id": 1074921, "best_split": [3, 2], "split_score": 0.5086068640533938}

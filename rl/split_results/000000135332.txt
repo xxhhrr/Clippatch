@@ -1,0 +1,6 @@
+{"sent": "chair we can see entire seat", "ann_id": 105565, "best_split": [2, 2], "split_score": 0.4182876275176748}
+{"sent": "nearest chair wtf is cilantro lol", "ann_id": 105565, "best_split": [2, 2], "split_score": 0.4182876275176748}
+{"sent": "the chair that is not by the kitchen and is pulled out", "ann_id": 105565, "best_split": [2, 2], "split_score": 0.4182876275176748}
+{"sent": "chair back facing us", "ann_id": 105195, "best_split": [2, 3], "split_score": 0.6522683396896394}
+{"sent": "chair facing window", "ann_id": 105195, "best_split": [2, 3], "split_score": 0.6522683396896394}
+{"sent": "chair whose back is visible", "ann_id": 105195, "best_split": [2, 3], "split_score": 0.6522683396896394}

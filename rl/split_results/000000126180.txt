@@ -1,0 +1,9 @@
+{"sent": "black thing off screen", "ann_id": 1219210, "best_split": [3, 1], "split_score": 0.09498870404112812}
+{"sent": "black shadow alongside edge of screen", "ann_id": 1219210, "best_split": [3, 1], "split_score": 0.09498870404112812}
+{"sent": "dark object at 3pm", "ann_id": 1219210, "best_split": [3, 1], "split_score": 0.09498870404112812}
+{"sent": "person standing", "ann_id": 211852, "best_split": [2, 1], "split_score": 0.1485642946259143}
+{"sent": "black pants", "ann_id": 211852, "best_split": [2, 2], "split_score": 0.2909535452100433}
+{"sent": "legs only", "ann_id": 211852, "best_split": [1, 2], "split_score": 0.1734693877481876}
+{"sent": "arm", "ann_id": 208390, "best_split": [2, 2], "split_score": 0.6187537327981907}
+{"sent": "arm", "ann_id": 208390, "best_split": [2, 2], "split_score": 0.6187537327981907}
+{"sent": "arm holding the gadget", "ann_id": 208390, "best_split": [2, 2], "split_score": 0.6187537327981907}

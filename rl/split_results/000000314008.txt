@@ -1,0 +1,10 @@
+{"sent": "partial person standing in corner", "ann_id": 2156742, "best_split": [3, 1], "split_score": 0.17466561761410218}
+{"sent": "customer", "ann_id": 2156742, "best_split": [2, 1], "split_score": 0.17243303570741259}
+{"sent": "green shirt", "ann_id": 1261688, "best_split": [3, 2], "split_score": 0.3932532347050308}
+{"sent": "green shirt", "ann_id": 1261688, "best_split": [3, 2], "split_score": 0.3932532347050308}
+{"sent": "fixing pizza wearing plastic glove", "ann_id": 551451, "best_split": [3, 1], "split_score": 0.2972891792334126}
+{"sent": "person serving pizza in gray sweater", "ann_id": 551451, "best_split": [2, 1], "split_score": 0.38558558557317935}
+{"sent": "person with gloves on brown cardigan", "ann_id": 551451, "best_split": [1, 2], "split_score": 0.6827133478945485}
+{"sent": "man with blue shirt and khaki pants", "ann_id": 549193, "best_split": [3, 3], "split_score": 0.7060155238185615}
+{"sent": "guy in back with khakis", "ann_id": 549193, "best_split": [3, 3], "split_score": 0.7060155238185615}
+{"sent": "khackis blue shirt", "ann_id": 549193, "best_split": [3, 3], "split_score": 0.7060155238185615}

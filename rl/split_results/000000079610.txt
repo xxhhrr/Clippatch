@@ -1,0 +1,13 @@
+{"sent": "lyin zebra away from group", "ann_id": 601264, "best_split": [2, 3], "split_score": 0.2507716049140845}
+{"sent": "giraffe laying down kind of alone", "ann_id": 601264, "best_split": [3, 1], "split_score": 0.21213503648425325}
+{"sent": "larger standing giraffe", "ann_id": 600963, "best_split": [3, 2], "split_score": 0.3079056865159594}
+{"sent": "one walking toward us", "ann_id": 600963, "best_split": [1, 5], "split_score": 0.4306470359908323}
+{"sent": "giraffe standing", "ann_id": 600963, "best_split": [3, 2], "split_score": 0.3079056865159594}
+{"sent": "giraffe sitting cloest to edge not near pole", "ann_id": 599533, "best_split": [2, 2], "split_score": 0.2905982905761143}
+{"sent": "animal far 3 o clock", "ann_id": 599533, "best_split": [2, 3], "split_score": 0.4194706145783456}
+{"sent": "giraffe with take pointing to you", "ann_id": 597862, "best_split": [3, 3], "split_score": 0.2500768048771003}
+{"sent": "giraffe facing tree directly", "ann_id": 597862, "best_split": [3, 3], "split_score": 0.2500768048771003}
+{"sent": "third giraffe", "ann_id": 597862, "best_split": [3, 3], "split_score": 0.2500768048771003}
+{"sent": "laying by tree", "ann_id": 597727, "best_split": [1, 3], "split_score": 0.17736486485416475}
+{"sent": "sitting giraffe facing camera", "ann_id": 597727, "best_split": [3, 3], "split_score": 0.3266078183596141}
+{"sent": "lightest sitting giraffe by tree", "ann_id": 597727, "best_split": [3, 3], "split_score": 0.3266078183596141}

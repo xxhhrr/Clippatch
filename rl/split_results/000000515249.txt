@@ -1,0 +1,6 @@
+{"sent": "girl in yellow", "ann_id": 511240, "best_split": [1, 5], "split_score": 0.6107954544834826}
+{"sent": "yellow", "ann_id": 511240, "best_split": [1, 5], "split_score": 0.6107954544834826}
+{"sent": "yellow shirt", "ann_id": 511240, "best_split": [1, 5], "split_score": 0.6107954544834826}
+{"sent": "blue shirt", "ann_id": 477279, "best_split": [1, 3], "split_score": 0.5186915887634057}
+{"sent": "guy eating", "ann_id": 477279, "best_split": [1, 3], "split_score": 0.5186915887634057}
+{"sent": "eating donut", "ann_id": 477279, "best_split": [1, 3], "split_score": 0.5186915887634057}

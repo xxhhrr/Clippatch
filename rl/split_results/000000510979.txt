@@ -1,0 +1,14 @@
+{"sent": "brown shirt and glasses", "ann_id": 240400, "best_split": [5, 1], "split_score": 0.12188365649914441}
+{"sent": "man in brown shirt", "ann_id": 240400, "best_split": [2, 3], "split_score": 0.36398467428592135}
+{"sent": "the boy next to the gray tshirt", "ann_id": 240126, "best_split": [2, 2], "split_score": 0.41470025506898117}
+{"sent": "guy next to the blurry guy", "ann_id": 240126, "best_split": [1, 2], "split_score": 0.2073501275427555}
+{"sent": "boy in black", "ann_id": 240126, "best_split": [1, 5], "split_score": 0.3590252707257197}
+{"sent": "southeast most lady", "ann_id": 239643, "best_split": [3, 1], "split_score": 0.03142732431081256}
+{"sent": "cut off girl with gray shirt", "ann_id": 239643, "best_split": [3, 3], "split_score": 0.2741224489348371}
+{"sent": "child at 4 o clock", "ann_id": 239643, "best_split": [2, 2], "split_score": 0.18558673467908268}
+{"sent": "girl with ponytail", "ann_id": 2167287, "best_split": [2, 3], "split_score": 0.687578276137131}
+{"sent": "girl with ponytail and blue shirt", "ann_id": 2167287, "best_split": [2, 3], "split_score": 0.687578276137131}
+{"sent": "woman blue ponytail", "ann_id": 2167287, "best_split": [2, 3], "split_score": 0.687578276137131}
+{"sent": "man in blue closest to you", "ann_id": 2165393, "best_split": [3, 1], "split_score": 0.2419936851464821}
+{"sent": "blurred white shirt person in foreground", "ann_id": 2165393, "best_split": [1, 5], "split_score": 0.37021124235855607}
+{"sent": "closest person", "ann_id": 2165393, "best_split": [1, 5], "split_score": 0.37021124235855607}

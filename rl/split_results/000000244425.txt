@@ -1,0 +1,6 @@
+{"sent": "bowl with pizza slice", "ann_id": 716407, "best_split": [3, 2], "split_score": 0.44404130613703313}
+{"sent": "white plate", "ann_id": 716407, "best_split": [3, 1], "split_score": 0.28978284085574124}
+{"sent": "pizza slice lets play fast to win more points", "ann_id": 716407, "best_split": [2, 2], "split_score": 0.47925065209395}
+{"sent": "tomato bowl", "ann_id": 709937, "best_split": [3, 2], "split_score": 0.5732484075939707}
+{"sent": "darker bowl with salad in it", "ann_id": 709937, "best_split": [3, 2], "split_score": 0.5732484075939707}
+{"sent": "salad", "ann_id": 709937, "best_split": [3, 2], "split_score": 0.5732484075939707}

@@ -1,0 +1,6 @@
+{"sent": "blass with napkin and silverware in it", "ann_id": 671704, "best_split": [2, 1], "split_score": 0.23395363506410843}
+{"sent": "glass with silverware in it", "ann_id": 671704, "best_split": [2, 3], "split_score": 0.581715033757177}
+{"sent": "cup with paper in it", "ann_id": 671704, "best_split": [2, 3], "split_score": 0.581715033757177}
+{"sent": "orange glass", "ann_id": 668393, "best_split": [2, 2], "split_score": 0.2617187499791359}
+{"sent": "yellow juice in glass", "ann_id": 668393, "best_split": [2, 2], "split_score": 0.2617187499791359}
+{"sent": "yellow drink", "ann_id": 668393, "best_split": [2, 2], "split_score": 0.2617187499791359}

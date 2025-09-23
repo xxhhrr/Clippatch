@@ -1,0 +1,7 @@
+{"sent": "7 o clock under red", "ann_id": 1905402, "best_split": [2, 3], "split_score": 0.40612934358034153}
+{"sent": "piece of banana by preserves farthest away from other bananas", "ann_id": 1905402, "best_split": [2, 3], "split_score": 0.40612934358034153}
+{"sent": "banana standing on side of bowl behind strawberry", "ann_id": 1904416, "best_split": [2, 2], "split_score": 0.2104591836566917}
+{"sent": "chip standing up nearest to jam", "ann_id": 1904416, "best_split": [1, 5], "split_score": 0.20338983048888773}
+{"sent": "banana slice farthest from us in line from cherries straight towards 11", "ann_id": 1904416, "best_split": [1, 5], "split_score": 0.20338983048888773}
+{"sent": "round fruit lining a bowl of oatmeal", "ann_id": 1545157, "best_split": [2, 1], "split_score": 0.4052276366848196}
+{"sent": "clockwise bananas", "ann_id": 1545157, "best_split": [2, 2], "split_score": 0.4939375382529521}

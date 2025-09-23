@@ -1,0 +1,5 @@
+{"sent": "horse trotting the proudest", "ann_id": 57425, "best_split": [3, 3], "split_score": 0.3431563200683386}
+{"sent": "on crosswalk lines", "ann_id": 57425, "best_split": [1, 2], "split_score": 0.09523079869391952}
+{"sent": "leading horse closest to people", "ann_id": 54261, "best_split": [3, 2], "split_score": 0.2333269634785661}
+{"sent": "lead horse", "ann_id": 54261, "best_split": [3, 2], "split_score": 0.2333269634785661}
+{"sent": "lead horse close to crowd", "ann_id": 54261, "best_split": [1, 3], "split_score": 0.2787162161994018}

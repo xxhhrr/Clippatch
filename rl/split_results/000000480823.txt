@@ -1,0 +1,5 @@
+{"sent": "closest sheep", "ann_id": 1817560, "best_split": [3, 3], "split_score": 0.7071672353983389}
+{"sent": "sheep with back to us", "ann_id": 1817560, "best_split": [3, 3], "split_score": 0.7071672353983389}
+{"sent": "whole sheep", "ann_id": 62008, "best_split": [3, 2], "split_score": 0.45041567692618645}
+{"sent": "sheep with blue bandana", "ann_id": 62008, "best_split": [3, 2], "split_score": 0.45041567692618645}
+{"sent": "blue bandana", "ann_id": 62008, "best_split": [3, 1], "split_score": 0.3476029055521742}

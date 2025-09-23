@@ -1,0 +1,6 @@
+{"sent": "tallest board", "ann_id": 650577, "best_split": [3, 3], "split_score": 0.36140655520279935}
+{"sent": "tallest yellow surfboard", "ann_id": 650577, "best_split": [3, 3], "split_score": 0.36140655520279935}
+{"sent": "tallest surfboard", "ann_id": 650577, "best_split": [3, 3], "split_score": 0.36140655520279935}
+{"sent": "surfboard with rainbow writing", "ann_id": 647132, "best_split": [3, 2], "split_score": 0.34702832066742834}
+{"sent": "board with lots of words", "ann_id": 647132, "best_split": [3, 2], "split_score": 0.34702832066742834}
+{"sent": "closest smallest surf board", "ann_id": 647132, "best_split": [5, 1], "split_score": 0.20376876395690124}

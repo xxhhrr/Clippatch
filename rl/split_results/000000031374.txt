@@ -1,0 +1,8 @@
+{"sent": "train behind man", "ann_id": 175167, "best_split": [2, 1], "split_score": 0.1138600165943224}
+{"sent": "train with only number 2", "ann_id": 175167, "best_split": [2, 1], "split_score": 0.1138600165943224}
+{"sent": "train with v close to windows", "ann_id": 174709, "best_split": [2, 3], "split_score": 0.3021021454668712}
+{"sent": "train near man", "ann_id": 174709, "best_split": [2, 3], "split_score": 0.3021021454668712}
+{"sent": "train with 44 on it", "ann_id": 174709, "best_split": [2, 3], "split_score": 0.3021021454668712}
+{"sent": "train number 242 151 9", "ann_id": 173203, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "train with 242 151 9", "ann_id": 173203, "best_split": [1, 2], "split_score": 0.5899234693642409}
+{"sent": "train with window", "ann_id": 173203, "best_split": [1, 2], "split_score": 0.5899234693642409}

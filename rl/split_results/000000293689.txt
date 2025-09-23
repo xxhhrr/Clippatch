@@ -1,0 +1,6 @@
+{"sent": "bench next to begining bench", "ann_id": 577245, "best_split": [5, 1], "split_score": 0.198091121898245}
+{"sent": "bench 2", "ann_id": 577245, "best_split": [5, 1], "split_score": 0.198091121898245}
+{"sent": "bench not closest to you but almost", "ann_id": 577245, "best_split": [5, 1], "split_score": 0.198091121898245}
+{"sent": "bench closes to us", "ann_id": 575031, "best_split": [1, 2], "split_score": 0.5136677282207515}
+{"sent": "closest bench", "ann_id": 575031, "best_split": [1, 2], "split_score": 0.5136677282207515}
+{"sent": "close bench", "ann_id": 575031, "best_split": [1, 2], "split_score": 0.5136677282207515}

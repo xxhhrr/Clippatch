@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 493241, "best_split": [3, 2], "split_score": 0.2527627084335179}
+{"sent": "gray shirt guy", "ann_id": 493241, "best_split": [3, 2], "split_score": 0.2527627084335179}
+{"sent": "person with skateboard", "ann_id": 493241, "best_split": [2, 3], "split_score": 0.29706677758507727}
+{"sent": "dark blue shirt", "ann_id": 462638, "best_split": [3, 3], "split_score": 0.4172567531579784}
+{"sent": "blue shirt", "ann_id": 462638, "best_split": [3, 2], "split_score": 0.30484767193860435}
+{"sent": "shirt with logo", "ann_id": 462638, "best_split": [3, 3], "split_score": 0.4172567531579784}

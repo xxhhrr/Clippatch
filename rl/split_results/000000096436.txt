@@ -1,0 +1,6 @@
+{"sent": "leather pants on motorcycle", "ann_id": 224530, "best_split": [1, 3], "split_score": 0.7737209952041532}
+{"sent": "guy in leather pants on red bike", "ann_id": 224530, "best_split": [1, 3], "split_score": 0.7737209952041532}
+{"sent": "on the bike", "ann_id": 224530, "best_split": [1, 3], "split_score": 0.7737209952041532}
+{"sent": "yellow", "ann_id": 200723, "best_split": [1, 5], "split_score": 0.6344358765590061}
+{"sent": "guy in orange with helmet in hand", "ann_id": 200723, "best_split": [1, 5], "split_score": 0.6344358765590061}
+{"sent": "guy in orange", "ann_id": 200723, "best_split": [1, 5], "split_score": 0.6344358765590061}

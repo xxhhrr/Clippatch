@@ -1,0 +1,8 @@
+{"sent": "partially visible man on horseback", "ann_id": 2161494, "best_split": [2, 1], "split_score": 0.12326268558263369}
+{"sent": "part of person in corner", "ann_id": 2161494, "best_split": [1, 5], "split_score": 0.4950038431499804}
+{"sent": "man ontop of the horse", "ann_id": 194250, "best_split": [3, 1], "split_score": 0.1577594797211014}
+{"sent": "rider", "ann_id": 194250, "best_split": [3, 1], "split_score": 0.1577594797211014}
+{"sent": "rider looking down", "ann_id": 194250, "best_split": [3, 1], "split_score": 0.1577594797211014}
+{"sent": "gray bald head", "ann_id": 192903, "best_split": [2, 3], "split_score": 0.5161023946618392}
+{"sent": "closest man", "ann_id": 192903, "best_split": [2, 3], "split_score": 0.5161023946618392}
+{"sent": "man looking up at man on horse", "ann_id": 192903, "best_split": [2, 1], "split_score": 0.2551020408061582}

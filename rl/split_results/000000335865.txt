@@ -1,0 +1,10 @@
+{"sent": "black chair", "ann_id": 1930651, "best_split": [3, 3], "split_score": 0.45161290314487224}
+{"sent": "black chair in corner by us", "ann_id": 1930651, "best_split": [3, 3], "split_score": 0.45161290314487224}
+{"sent": "black chair", "ann_id": 1930651, "best_split": [3, 3], "split_score": 0.45161290314487224}
+{"sent": "red chair", "ann_id": 104285, "best_split": [3, 2], "split_score": 0.4135974184473576}
+{"sent": "brown chair behind flowers", "ann_id": 104285, "best_split": [3, 1], "split_score": 0.26115950734387744}
+{"sent": "light brown wood chair", "ann_id": 104285, "best_split": [3, 2], "split_score": 0.4135974184473576}
+{"sent": "tv", "ann_id": 29252, "best_split": [1, 5], "split_score": 0.3303571428236245}
+{"sent": "black square image at 900", "ann_id": 29252, "best_split": [3, 2], "split_score": 0.3429502093598243}
+{"sent": "tv", "ann_id": 29252, "best_split": [1, 5], "split_score": 0.3303571428236245}
+{"sent": "the tv screen", "ann_id": 29189, "best_split": [3, 3], "split_score": 0.3856829802071433}

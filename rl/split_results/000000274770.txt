@@ -1,0 +1,5 @@
+{"sent": "orange in hand with watch", "ann_id": 1054228, "best_split": [3, 2], "split_score": 0.209099264681859}
+{"sent": "smaller orange", "ann_id": 1054228, "best_split": [3, 3], "split_score": 0.20839862108925122}
+{"sent": "orance held by hand with siver bracelet", "ann_id": 1054228, "best_split": [1, 2], "split_score": 0.08912627550665153}
+{"sent": "orange in hand without bracelet", "ann_id": 1053652, "best_split": [3, 3], "split_score": 0.19987940907448304}
+{"sent": "closer orange", "ann_id": 1053652, "best_split": [3, 3], "split_score": 0.19987940907448304}

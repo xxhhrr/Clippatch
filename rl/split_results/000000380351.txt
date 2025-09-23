@@ -1,0 +1,12 @@
+{"sent": "guy facing you completely", "ann_id": 518300, "best_split": [1, 3], "split_score": 0.1805596639542945}
+{"sent": "dark legs man with ball", "ann_id": 485466, "best_split": [2, 2], "split_score": 0.2883775123588423}
+{"sent": "man with ball looking down mostly by himself", "ann_id": 485466, "best_split": [1, 2], "split_score": 0.20519770407345353}
+{"sent": "orange shoes", "ann_id": 436619, "best_split": [2, 3], "split_score": 0.41175855210673096}
+{"sent": "nearest guy in white shorts", "ann_id": 436619, "best_split": [2, 3], "split_score": 0.41175855210673096}
+{"sent": "player closest to camera", "ann_id": 436619, "best_split": [2, 3], "split_score": 0.41175855210673096}
+{"sent": "guy walking and not facing camera", "ann_id": 1740249, "best_split": [1, 5], "split_score": 0.5025365259230381}
+{"sent": "the coach walking onto the field", "ann_id": 1740249, "best_split": [2, 3], "split_score": 0.37169791770727256}
+{"sent": "the player walking towards the players with long pants and a side view", "ann_id": 1740249, "best_split": [2, 2], "split_score": 0.25796247032439695}
+{"sent": "hand on hip", "ann_id": 1716832, "best_split": [5, 1], "split_score": 0.1128205128114727}
+{"sent": "man with hands on his hips wearing black pants facing us", "ann_id": 1716832, "best_split": [3, 3], "split_score": 0.3316526610179758}
+{"sent": "guy facing us 9pm7", "ann_id": 1716832, "best_split": [2, 3], "split_score": 0.27906976741288725}

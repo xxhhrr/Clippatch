@@ -1,0 +1,6 @@
+{"sent": "cat in cat bed", "ann_id": 49477, "best_split": [2, 3], "split_score": 0.7423048735120644}
+{"sent": "cat on edge", "ann_id": 49477, "best_split": [2, 3], "split_score": 0.7423048735120644}
+{"sent": "cat in basket", "ann_id": 49477, "best_split": [2, 3], "split_score": 0.7423048735120644}
+{"sent": "darker cat", "ann_id": 46494, "best_split": [2, 1], "split_score": 0.5972955925018807}
+{"sent": "cat closer to us", "ann_id": 46494, "best_split": [2, 1], "split_score": 0.5972955925018807}
+{"sent": "closest cat", "ann_id": 46494, "best_split": [2, 1], "split_score": 0.5972955925018807}

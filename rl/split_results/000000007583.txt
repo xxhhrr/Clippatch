@@ -1,0 +1,15 @@
+{"sent": "guy looking directly at camera", "ann_id": 196516, "best_split": [1, 2], "split_score": 0.15051020407563337}
+{"sent": "man looking at camera", "ann_id": 196516, "best_split": [1, 2], "split_score": 0.15051020407563337}
+{"sent": "2 man facing you", "ann_id": 196516, "best_split": [2, 3], "split_score": 0.32280701750846413}
+{"sent": "blue shirt at end of line", "ann_id": 185941, "best_split": [1, 5], "split_score": 0.3145292207473083}
+{"sent": "man turned edge", "ann_id": 185941, "best_split": [1, 2], "split_score": 0.1235650510154829}
+{"sent": "man at the end of line", "ann_id": 185941, "best_split": [1, 5], "split_score": 0.3145292207473083}
+{"sent": "horses head in the lead", "ann_id": 60836, "best_split": [5, 1], "split_score": 0.12771041683974596}
+{"sent": "white horse head", "ann_id": 60836, "best_split": [5, 1], "split_score": 0.12771041683974596}
+{"sent": "horse ahead of the other two", "ann_id": 60836, "best_split": [5, 1], "split_score": 0.12771041683974596}
+{"sent": "horse closest to us", "ann_id": 58400, "best_split": [1, 2], "split_score": 0.6149368260694934}
+{"sent": "horse closest to camera", "ann_id": 58400, "best_split": [1, 2], "split_score": 0.6149368260694934}
+{"sent": "gray horse black and white mane", "ann_id": 58400, "best_split": [1, 2], "split_score": 0.6149368260694934}
+{"sent": "horsess head only", "ann_id": 53485, "best_split": [2, 2], "split_score": 0.3956349787318269}
+{"sent": "dark gray horse head not full body", "ann_id": 53485, "best_split": [3, 2], "split_score": 0.36054421765393047}
+{"sent": "gray horse you can only see the head", "ann_id": 53485, "best_split": [3, 2], "split_score": 0.36054421765393047}

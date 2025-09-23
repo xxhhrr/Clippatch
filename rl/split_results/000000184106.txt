@@ -1,0 +1,9 @@
+{"sent": "pizza slice", "ann_id": 1077091, "best_split": [3, 1], "split_score": 0.023944130361349986}
+{"sent": "holding slice", "ann_id": 1077091, "best_split": [3, 1], "split_score": 0.023944130361349986}
+{"sent": "single slice", "ann_id": 1077091, "best_split": [3, 1], "split_score": 0.023944130361349986}
+{"sent": "all pizza not one piece", "ann_id": 1071706, "best_split": [2, 1], "split_score": 0.6146398552874072}
+{"sent": "big piece", "ann_id": 1071706, "best_split": [2, 1], "split_score": 0.6146398552874072}
+{"sent": "big pizza", "ann_id": 1071706, "best_split": [2, 1], "split_score": 0.6146398552874072}
+{"sent": "person holding plate", "ann_id": 512407, "best_split": [2, 2], "split_score": 0.1541116906908475}
+{"sent": "guy not holding pizza", "ann_id": 512407, "best_split": [1, 5], "split_score": 0.09045181785294283}
+{"sent": "person in camo", "ann_id": 512407, "best_split": [3, 3], "split_score": 0.34587481013229715}

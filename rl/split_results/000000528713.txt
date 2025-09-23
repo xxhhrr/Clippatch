@@ -1,0 +1,6 @@
+{"sent": "suit", "ann_id": 198841, "best_split": [2, 2], "split_score": 0.7402222889311972}
+{"sent": "man holdin horse", "ann_id": 198841, "best_split": [2, 1], "split_score": 0.5848350641193939}
+{"sent": "man not on horse", "ann_id": 198841, "best_split": [2, 1], "split_score": 0.5848350641193939}
+{"sent": "jockey", "ann_id": 192201, "best_split": [2, 1], "split_score": 0.24347826086011343}
+{"sent": "yellow jacket rider", "ann_id": 192201, "best_split": [2, 3], "split_score": 0.6790123456041652}
+{"sent": "rider", "ann_id": 192201, "best_split": [2, 1], "split_score": 0.24347826086011343}

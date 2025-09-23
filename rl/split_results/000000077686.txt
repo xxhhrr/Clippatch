@@ -1,0 +1,9 @@
+{"sent": "out of frame", "ann_id": 486842, "best_split": [2, 3], "split_score": 0.5051025184434882}
+{"sent": "person cut off", "ann_id": 486842, "best_split": [3, 1], "split_score": 0.2464954466260874}
+{"sent": "boy cut off on screen blue jacket", "ann_id": 486842, "best_split": [3, 3], "split_score": 0.5569902570070442}
+{"sent": "red shirt", "ann_id": 476016, "best_split": [1, 2], "split_score": 0.6209201854050355}
+{"sent": "red shirt", "ann_id": 476016, "best_split": [1, 2], "split_score": 0.6209201854050355}
+{"sent": "red shirt", "ann_id": 476016, "best_split": [1, 2], "split_score": 0.6209201854050355}
+{"sent": "girl in blue", "ann_id": 430811, "best_split": [2, 1], "split_score": 0.5457819683011982}
+{"sent": "girl light blue shirt", "ann_id": 430811, "best_split": [2, 1], "split_score": 0.5457819683011982}
+{"sent": "girl with controller", "ann_id": 430811, "best_split": [1, 2], "split_score": 0.5236968192425187}

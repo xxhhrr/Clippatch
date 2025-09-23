@@ -1,0 +1,4 @@
+{"sent": "slice of tall cake nearest other cake", "ann_id": 1929490, "best_split": [5, 1], "split_score": 0.1249999999889027}
+{"sent": "quarter cake", "ann_id": 1929249, "best_split": [3, 3], "split_score": 0.5229971566276974}
+{"sent": "bigger piece of cinammon cake of three", "ann_id": 1929249, "best_split": [3, 3], "split_score": 0.5229971566276974}
+{"sent": "biggest piece with 3 pieces on plate", "ann_id": 1929249, "best_split": [2, 3], "split_score": 0.37414965982080595}

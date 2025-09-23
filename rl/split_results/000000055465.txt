@@ -1,0 +1,6 @@
+{"sent": "one closest to building", "ann_id": 598300, "best_split": [2, 2], "split_score": 0.4276753468719029}
+{"sent": "farthest giraffe", "ann_id": 598300, "best_split": [1, 3], "split_score": 0.5366161615919636}
+{"sent": "smaller animal", "ann_id": 598300, "best_split": [1, 2], "split_score": 0.6975446428293389}
+{"sent": "taller giraffe", "ann_id": 596533, "best_split": [1, 5], "split_score": 0.5713946868731383}
+{"sent": "whiter giraffe", "ann_id": 596533, "best_split": [1, 5], "split_score": 0.5713946868731383}
+{"sent": "facing you giraffe", "ann_id": 596533, "best_split": [1, 5], "split_score": 0.5713946868731383}

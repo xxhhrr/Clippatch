@@ -1,0 +1,9 @@
+{"sent": "white shirt next to yellow", "ann_id": 512238, "best_split": [2, 3], "split_score": 0.35217391300867845}
+{"sent": "backward hat", "ann_id": 512238, "best_split": [1, 3], "split_score": 0.2710864283078164}
+{"sent": "white shirt hugging guy", "ann_id": 512238, "best_split": [2, 3], "split_score": 0.35217391300867845}
+{"sent": "man walking offscreen", "ann_id": 483514, "best_split": [3, 3], "split_score": 0.4386773810514191}
+{"sent": "walking with white hat", "ann_id": 483514, "best_split": [2, 3], "split_score": 0.5635887509320746}
+{"sent": "white hat walking", "ann_id": 483514, "best_split": [2, 3], "split_score": 0.5635887509320746}
+{"sent": "orange shirt", "ann_id": 434721, "best_split": [2, 3], "split_score": 0.4974314132148397}
+{"sent": "yellow shirt", "ann_id": 434721, "best_split": [2, 3], "split_score": 0.4974314132148397}
+{"sent": "yello", "ann_id": 434721, "best_split": [2, 3], "split_score": 0.4974314132148397}

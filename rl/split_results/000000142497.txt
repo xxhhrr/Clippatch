@@ -1,0 +1,6 @@
+{"sent": "pile of books in the back", "ann_id": 1649765, "best_split": [5, 1], "split_score": 0.49502840904068296}
+{"sent": "barely visible papers and notebooks", "ann_id": 1649765, "best_split": [3, 2], "split_score": 0.5282033425570795}
+{"sent": "books in back", "ann_id": 1649765, "best_split": [1, 2], "split_score": 0.1790604343650039}
+{"sent": "book hamlet", "ann_id": 1139144, "best_split": [1, 2], "split_score": 0.6553398058037477}
+{"sent": "book", "ann_id": 1139144, "best_split": [1, 2], "split_score": 0.6553398058037477}
+{"sent": "book", "ann_id": 1139144, "best_split": [1, 2], "split_score": 0.6553398058037477}

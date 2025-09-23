@@ -1,0 +1,6 @@
+{"sent": "bread with white on it wait corn i think", "ann_id": 311021, "best_split": [5, 1], "split_score": 0.35271317826202353}
+{"sent": "bread nest to lime", "ann_id": 311021, "best_split": [3, 2], "split_score": 0.2459546925332234}
+{"sent": "corn on cob", "ann_id": 311021, "best_split": [5, 1], "split_score": 0.35271317826202353}
+{"sent": "sandwich", "ann_id": 309850, "best_split": [3, 2], "split_score": 0.6046393926103214}
+{"sent": "both sandwiches", "ann_id": 309850, "best_split": [3, 2], "split_score": 0.6046393926103214}
+{"sent": "sandwich", "ann_id": 309850, "best_split": [3, 2], "split_score": 0.6046393926103214}

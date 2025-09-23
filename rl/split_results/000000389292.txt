@@ -1,0 +1,9 @@
+{"sent": "red shirt", "ann_id": 205858, "best_split": [3, 3], "split_score": 0.4347584674576959}
+{"sent": "red shirt", "ann_id": 205858, "best_split": [3, 3], "split_score": 0.4347584674576959}
+{"sent": "the guy in red", "ann_id": 205858, "best_split": [3, 3], "split_score": 0.4347584674576959}
+{"sent": "man in polka dot shirt", "ann_id": 203974, "best_split": [2, 2], "split_score": 0.8103475764660119}
+{"sent": "man with polka dot shirt", "ann_id": 203974, "best_split": [2, 2], "split_score": 0.8103475764660119}
+{"sent": "shirt white dots", "ann_id": 203974, "best_split": [2, 2], "split_score": 0.8103475764660119}
+{"sent": "stripe shirt looking at girl", "ann_id": 1736144, "best_split": [5, 1], "split_score": 0.14394849784172115}
+{"sent": "the man in the striped shirt", "ann_id": 1736144, "best_split": [5, 1], "split_score": 0.14394849784172115}
+{"sent": "man in white shirt with blue stripes", "ann_id": 1736144, "best_split": [1, 5], "split_score": 0.35217126619803457}

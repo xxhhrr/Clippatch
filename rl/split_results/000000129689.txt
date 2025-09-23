@@ -1,0 +1,9 @@
+{"sent": "biggest bear", "ann_id": 1673974, "best_split": [1, 2], "split_score": 0.4977809791459028}
+{"sent": "biggest bear", "ann_id": 1673974, "best_split": [1, 2], "split_score": 0.4977809791459028}
+{"sent": "big brown bear", "ann_id": 1673974, "best_split": [2, 1], "split_score": 0.5415152094762408}
+{"sent": "lower bear", "ann_id": 1161684, "best_split": [1, 2], "split_score": 0.37559038947307855}
+{"sent": "small dark brown bear", "ann_id": 1161684, "best_split": [2, 2], "split_score": 0.5705521472068534}
+{"sent": "small bear closer to us", "ann_id": 1161684, "best_split": [1, 2], "split_score": 0.37559038947307855}
+{"sent": "bear on the ear of the big bear", "ann_id": 1160952, "best_split": [5, 1], "split_score": 0.31485387162437073}
+{"sent": "green scarf", "ann_id": 1160952, "best_split": [2, 2], "split_score": 0.6058673468904762}
+{"sent": "bear 1100", "ann_id": 1160952, "best_split": [3, 1], "split_score": 0.32900885051239576}

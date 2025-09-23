@@ -1,0 +1,8 @@
+{"sent": "zebra near camera", "ann_id": 592889, "best_split": [2, 3], "split_score": 0.5316495493050042}
+{"sent": "8 o clock", "ann_id": 592889, "best_split": [2, 3], "split_score": 0.5316495493050042}
+{"sent": "zebra facing opposite of other two", "ann_id": 592889, "best_split": [2, 3], "split_score": 0.5316495493050042}
+{"sent": "zebra closest to building", "ann_id": 591958, "best_split": [3, 2], "split_score": 0.524737631128214}
+{"sent": "zebra closest to building", "ann_id": 591958, "best_split": [3, 2], "split_score": 0.524737631128214}
+{"sent": "middle zebra", "ann_id": 590428, "best_split": [3, 2], "split_score": 0.2879746835189896}
+{"sent": "zebra looking down trailing other zebra heading same way", "ann_id": 590428, "best_split": [3, 2], "split_score": 0.2879746835189896}
+{"sent": "zebra number 2", "ann_id": 590428, "best_split": [3, 2], "split_score": 0.2879746835189896}

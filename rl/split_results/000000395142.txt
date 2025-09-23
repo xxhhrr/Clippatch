@@ -1,0 +1,6 @@
+{"sent": "toilet cistern", "ann_id": 2133617, "best_split": [2, 3], "split_score": 0.44327538878736555}
+{"sent": "not seat part of toilet", "ann_id": 2133617, "best_split": [2, 3], "split_score": 0.44327538878736555}
+{"sent": "bowel on the floor", "ann_id": 1092909, "best_split": [3, 3], "split_score": 0.3974358973670416}
+{"sent": "rim", "ann_id": 1092909, "best_split": [1, 5], "split_score": 0.15048992418649565}
+{"sent": "toliet seat", "ann_id": 1092909, "best_split": [3, 3], "split_score": 0.3974358973670416}
+{"sent": "toilet seat", "ann_id": 1092909, "best_split": [3, 3], "split_score": 0.3974358973670416}

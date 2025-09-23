@@ -1,0 +1,6 @@
+{"sent": "lower jet", "ann_id": 160391, "best_split": [2, 1], "split_score": 0.6564094387493459}
+{"sent": "lower plane", "ann_id": 160391, "best_split": [2, 1], "split_score": 0.6564094387493459}
+{"sent": "higher plane", "ann_id": 156768, "best_split": [1, 2], "split_score": 0.28084100823191827}
+{"sent": "red jet", "ann_id": 156768, "best_split": [3, 1], "split_score": 0.7199470252282015}
+{"sent": "plane", "ann_id": 156768, "best_split": [3, 1], "split_score": 0.7199470252282015}
+{"sent": "highest plane", "ann_id": 156768, "best_split": [3, 1], "split_score": 0.7199470252282015}

@@ -1,0 +1,6 @@
+{"sent": "number 44", "ann_id": 1302822, "best_split": [2, 1], "split_score": 0.14689669983009174}
+{"sent": "biker bending over", "ann_id": 1302822, "best_split": [3, 3], "split_score": 0.47379653776692}
+{"sent": "bending over", "ann_id": 1302822, "best_split": [1, 3], "split_score": 0.388856097250097}
+{"sent": "person with hand on hip", "ann_id": 1230738, "best_split": [1, 5], "split_score": 0.5744456176850873}
+{"sent": "person in checkered shoes", "ann_id": 1230738, "best_split": [1, 2], "split_score": 0.26088169641817277}
+{"sent": "person in all black hands on hip", "ann_id": 1230738, "best_split": [1, 5], "split_score": 0.5744456176850873}

@@ -1,0 +1,3 @@
+{"sent": "small giraffe", "ann_id": 601034, "best_split": [1, 5], "split_score": 0.43564356432273793}
+{"sent": "the smallest animal", "ann_id": 601034, "best_split": [1, 5], "split_score": 0.43564356432273793}
+{"sent": "giraffe near tall tree trunk", "ann_id": 601034, "best_split": [3, 2], "split_score": 0.42073578591799865}

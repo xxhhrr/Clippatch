@@ -1,0 +1,5 @@
+{"sent": "broccoli farthest back", "ann_id": 1562278, "best_split": [1, 2], "split_score": 0.3771372205069833}
+{"sent": "small brocs", "ann_id": 1562278, "best_split": [2, 1], "split_score": 0.8260427263179028}
+{"sent": "blob of broc close to us", "ann_id": 1560642, "best_split": [3, 2], "split_score": 0.373387644231722}
+{"sent": "broccoli line closest to us", "ann_id": 1560642, "best_split": [2, 2], "split_score": 0.38858695649534053}
+{"sent": "broccoli grouping closest to camera", "ann_id": 1560642, "best_split": [3, 2], "split_score": 0.373387644231722}

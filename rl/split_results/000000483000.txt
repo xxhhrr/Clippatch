@@ -1,0 +1,5 @@
+{"sent": "train 408", "ann_id": 174284, "best_split": [3, 2], "split_score": 0.47879223575240915}
+{"sent": "405", "ann_id": 174284, "best_split": [3, 2], "split_score": 0.47879223575240915}
+{"sent": "train 408", "ann_id": 174284, "best_split": [3, 2], "split_score": 0.47879223575240915}
+{"sent": "bigger train", "ann_id": 171237, "best_split": [3, 3], "split_score": 0.5456707896591733}
+{"sent": "train next to the 406", "ann_id": 171237, "best_split": [3, 3], "split_score": 0.5456707896591733}

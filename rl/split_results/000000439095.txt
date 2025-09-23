@@ -1,0 +1,6 @@
+{"sent": "the dark blue case under the bags of fruit", "ann_id": 1842779, "best_split": [2, 3], "split_score": 0.32743362827942674}
+{"sent": "dark blue luggage", "ann_id": 1842779, "best_split": [3, 3], "split_score": 0.4933333332444444}
+{"sent": "darkest blue", "ann_id": 1842779, "best_split": [3, 3], "split_score": 0.4933333332444444}
+{"sent": "red suitcase", "ann_id": 1842743, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "red case", "ann_id": 1842743, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "pink case", "ann_id": 1842743, "best_split": [3, 3], "split_score": 0.4601899195653415}

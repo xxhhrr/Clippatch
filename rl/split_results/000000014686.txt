@@ -1,0 +1,9 @@
+{"sent": "tallest young giraffe", "ann_id": 601243, "best_split": [1, 3], "split_score": 0.15291556994569167}
+{"sent": "third tallest one", "ann_id": 601243, "best_split": [3, 2], "split_score": 0.248728777018984}
+{"sent": "standing tall", "ann_id": 601140, "best_split": [1, 2], "split_score": 0.5825892856910638}
+{"sent": "tallest giraffe", "ann_id": 601140, "best_split": [2, 3], "split_score": 0.4386934673091273}
+{"sent": "shorter fully visible giraffe face away from camara", "ann_id": 599000, "best_split": [3, 2], "split_score": 0.16083564056037958}
+{"sent": "short giraffe closest to us", "ann_id": 599000, "best_split": [2, 2], "split_score": 0.19854256374968252}
+{"sent": "giraffe with head lowered", "ann_id": 597148, "best_split": [1, 2], "split_score": 0.7322225765014261}
+{"sent": "big giraffe eating", "ann_id": 597148, "best_split": [1, 2], "split_score": 0.7322225765014261}
+{"sent": "giraffee with nose all the way in food", "ann_id": 597148, "best_split": [1, 2], "split_score": 0.7322225765014261}

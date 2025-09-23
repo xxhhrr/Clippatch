@@ -1,0 +1,6 @@
+{"sent": "womans reflection", "ann_id": 1678300, "best_split": [3, 3], "split_score": 0.48619447771815805}
+{"sent": "reflection of the woman", "ann_id": 1678300, "best_split": [3, 2], "split_score": 0.34191642039447906}
+{"sent": "reflection of woman", "ann_id": 1678300, "best_split": [3, 2], "split_score": 0.34191642039447906}
+{"sent": "dog groomer", "ann_id": 221578, "best_split": [2, 1], "split_score": 0.3848884381241154}
+{"sent": "woman", "ann_id": 221578, "best_split": [1, 2], "split_score": 0.7335279928674138}
+{"sent": "red shirt", "ann_id": 221578, "best_split": [1, 2], "split_score": 0.7335279928674138}

@@ -1,0 +1,6 @@
+{"sent": "white cow", "ann_id": 2177127, "best_split": [3, 1], "split_score": 0.3102558589383866}
+{"sent": "cow laying down", "ann_id": 2177127, "best_split": [3, 1], "split_score": 0.3102558589383866}
+{"sent": "white", "ann_id": 2177127, "best_split": [5, 1], "split_score": 0.3445019798702024}
+{"sent": "black cow", "ann_id": 71583, "best_split": [5, 1], "split_score": 0.41956219593297756}
+{"sent": "black", "ann_id": 71583, "best_split": [3, 3], "split_score": 0.4099481376225898}
+{"sent": "the black cow", "ann_id": 71583, "best_split": [5, 1], "split_score": 0.41956219593297756}

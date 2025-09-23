@@ -1,0 +1,6 @@
+{"sent": "long hair", "ann_id": 522277, "best_split": [1, 2], "split_score": 0.218431122440273}
+{"sent": "long ponytail at 9", "ann_id": 522277, "best_split": [1, 2], "split_score": 0.218431122440273}
+{"sent": "background ponytail", "ann_id": 522277, "best_split": [3, 1], "split_score": 0.15500628403042488}
+{"sent": "man", "ann_id": 503301, "best_split": [1, 2], "split_score": 0.44545612423535724}
+{"sent": "older man", "ann_id": 503301, "best_split": [1, 2], "split_score": 0.44545612423535724}
+{"sent": "man", "ann_id": 503301, "best_split": [1, 2], "split_score": 0.44545612423535724}

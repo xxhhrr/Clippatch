@@ -1,0 +1,5 @@
+{"sent": "car with window down", "ann_id": 357435, "best_split": [3, 2], "split_score": 0.4478468898985829}
+{"sent": "car on the side with the tower billboard", "ann_id": 357435, "best_split": [3, 3], "split_score": 0.6748377792583204}
+{"sent": "car windshield with red brakelight", "ann_id": 356175, "best_split": [5, 1], "split_score": 0.5423389116602526}
+{"sent": "full back windshield of car", "ann_id": 356175, "best_split": [5, 1], "split_score": 0.5423389116602526}
+{"sent": "windshield closest to us", "ann_id": 356175, "best_split": [5, 1], "split_score": 0.5423389116602526}

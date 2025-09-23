@@ -1,0 +1,6 @@
+{"sent": "blurry sandwhich", "ann_id": 1553216, "best_split": [3, 2], "split_score": 0.28662420379698533}
+{"sent": "sandwich not in focus", "ann_id": 1553216, "best_split": [3, 2], "split_score": 0.28662420379698533}
+{"sent": "sandwich mostly out of frame", "ann_id": 1553216, "best_split": [3, 2], "split_score": 0.28662420379698533}
+{"sent": "large sandwich", "ann_id": 308549, "best_split": [2, 1], "split_score": 0.4026610644169586}
+{"sent": "full sandwich in camera view", "ann_id": 308549, "best_split": [2, 1], "split_score": 0.47387785135039834}
+{"sent": "sandwich", "ann_id": 308549, "best_split": [2, 1], "split_score": 0.47387785135039834}

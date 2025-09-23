@@ -1,0 +1,8 @@
+{"sent": "portion of white dress under womans arm", "ann_id": 2001380, "best_split": [1, 3], "split_score": 0.673052820013545}
+{"sent": "white skirt", "ann_id": 2001380, "best_split": [1, 3], "split_score": 0.673052820013545}
+{"sent": "white dress", "ann_id": 2001380, "best_split": [1, 3], "split_score": 0.673052820013545}
+{"sent": "man", "ann_id": 207145, "best_split": [3, 1], "split_score": 0.2904610492730341}
+{"sent": "black shirt", "ann_id": 207145, "best_split": [2, 2], "split_score": 0.7893279637056804}
+{"sent": "hands", "ann_id": 183336, "best_split": [3, 2], "split_score": 0.6763833991537892}
+{"sent": "womans hands", "ann_id": 183336, "best_split": [3, 2], "split_score": 0.6763833991537892}
+{"sent": "hand with ring", "ann_id": 183336, "best_split": [3, 2], "split_score": 0.6763833991537892}

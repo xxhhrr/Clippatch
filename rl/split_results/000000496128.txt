@@ -1,0 +1,6 @@
+{"sent": "guy with lighter glasses", "ann_id": 507800, "best_split": [2, 1], "split_score": 0.3214174211592929}
+{"sent": "man not smoking", "ann_id": 507800, "best_split": [3, 1], "split_score": 0.33075228201665874}
+{"sent": "man light glasses", "ann_id": 507800, "best_split": [2, 1], "split_score": 0.3214174211592929}
+{"sent": "dark eyes", "ann_id": 431991, "best_split": [2, 1], "split_score": 0.31578947367548127}
+{"sent": "wears his sunglasses at night", "ann_id": 431991, "best_split": [1, 2], "split_score": 0.8822412906448558}
+{"sent": "dark glasses", "ann_id": 431991, "best_split": [1, 2], "split_score": 0.8822412906448558}

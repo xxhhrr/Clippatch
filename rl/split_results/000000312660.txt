@@ -1,0 +1,6 @@
+{"sent": "brown horse", "ann_id": 2230263, "best_split": [5, 1], "split_score": 0.20291414850542974}
+{"sent": "horse tail", "ann_id": 2230263, "best_split": [2, 1], "split_score": 0.12739118905536606}
+{"sent": "horse butt", "ann_id": 2230263, "best_split": [5, 1], "split_score": 0.20291414850542974}
+{"sent": "main horse", "ann_id": 2230158, "best_split": [2, 1], "split_score": 0.46079938507732515}
+{"sent": "horse looking", "ann_id": 2230158, "best_split": [2, 1], "split_score": 0.46079938507732515}
+{"sent": "horse facing camera", "ann_id": 2230158, "best_split": [2, 1], "split_score": 0.46079938507732515}

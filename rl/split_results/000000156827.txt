@@ -1,0 +1,8 @@
+{"sent": "biggest zebra", "ann_id": 593724, "best_split": [1, 2], "split_score": 0.522305471524529}
+{"sent": "zebra at 1 o clock", "ann_id": 593724, "best_split": [1, 2], "split_score": 0.522305471524529}
+{"sent": "not on the side", "ann_id": 591921, "best_split": [1, 5], "split_score": 0.6504672896643613}
+{"sent": "sanwich zebra", "ann_id": 591921, "best_split": [1, 5], "split_score": 0.6504672896643613}
+{"sent": "closest zebra", "ann_id": 591921, "best_split": [1, 5], "split_score": 0.6504672896643613}
+{"sent": "head turned to side", "ann_id": 591594, "best_split": [2, 1], "split_score": 0.1740420938959106}
+{"sent": "zebra head turned", "ann_id": 591594, "best_split": [2, 1], "split_score": 0.1740420938959106}
+{"sent": "zebra at 9 o clock", "ann_id": 591594, "best_split": [2, 1], "split_score": 0.1740420938959106}

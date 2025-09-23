@@ -1,0 +1,6 @@
+{"sent": "bread solo", "ann_id": 2219479, "best_split": [1, 2], "split_score": 0.6294642856891954}
+{"sent": "bread", "ann_id": 2219479, "best_split": [1, 2], "split_score": 0.6294642856891954}
+{"sent": "bread without anything on it", "ann_id": 2219479, "best_split": [1, 2], "split_score": 0.6294642856891954}
+{"sent": "lettuce", "ann_id": 1910020, "best_split": [1, 2], "split_score": 0.6955488331678125}
+{"sent": "green food", "ann_id": 1910020, "best_split": [1, 2], "split_score": 0.6955488331678125}
+{"sent": "salad", "ann_id": 1910020, "best_split": [1, 2], "split_score": 0.6955488331678125}

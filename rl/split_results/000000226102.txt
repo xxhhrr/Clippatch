@@ -1,0 +1,5 @@
+{"sent": "sandwich half under utensil", "ann_id": 310161, "best_split": [2, 2], "split_score": 0.39732142853975433}
+{"sent": "bigger sandwich", "ann_id": 310161, "best_split": [3, 3], "split_score": 0.5141864504177495}
+{"sent": "the half eaten part of sandwich that has more mustard", "ann_id": 310161, "best_split": [3, 2], "split_score": 0.4746666666139259}
+{"sent": "the food that is closer to the drink", "ann_id": 309965, "best_split": [2, 1], "split_score": 0.17797353315617134}
+{"sent": "smaller half of breakfast sandwich", "ann_id": 309965, "best_split": [3, 3], "split_score": 0.3730662982910129}

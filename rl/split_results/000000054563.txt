@@ -1,0 +1,11 @@
+{"sent": "gray shirt blond hair", "ann_id": 1212256, "best_split": [2, 2], "split_score": 0.2635522958973571}
+{"sent": "gray haired with back towards us", "ann_id": 1212256, "best_split": [3, 2], "split_score": 0.29224253229020924}
+{"sent": "not the woman looking at us but the one looking tn the opposite direction", "ann_id": 1212256, "best_split": [3, 1], "split_score": 0.15191193510127973}
+{"sent": "large chunks of cheese on pizza", "ann_id": 1077463, "best_split": [5, 1], "split_score": 0.38617808995764397}
+{"sent": "slice of pizza with a lot of white on it", "ann_id": 1077463, "best_split": [5, 1], "split_score": 0.38617808995764397}
+{"sent": "white stuff on large plate", "ann_id": 1077463, "best_split": [5, 1], "split_score": 0.38617808995764397}
+{"sent": "piec someone is pointing at", "ann_id": 2188923, "best_split": [1, 2], "split_score": 0.1228233830798032}
+{"sent": "piece of pizza below the finger", "ann_id": 2188923, "best_split": [5, 1], "split_score": 0.32184686861660566}
+{"sent": "lady in blue shirt", "ann_id": 1715077, "best_split": [2, 1], "split_score": 0.49308983216425434}
+{"sent": "smiling at camera", "ann_id": 1715077, "best_split": [2, 1], "split_score": 0.49308983216425434}
+{"sent": "woman in blue", "ann_id": 1715077, "best_split": [2, 1], "split_score": 0.49308983216425434}

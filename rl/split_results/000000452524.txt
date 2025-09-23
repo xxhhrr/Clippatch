@@ -1,0 +1,6 @@
+{"sent": "couch closest to other room", "ann_id": 113183, "best_split": [2, 3], "split_score": 0.611556406195531}
+{"sent": "item with the pillow on it", "ann_id": 113183, "best_split": [2, 3], "split_score": 0.611556406195531}
+{"sent": "wtf weird okay couch behind laptop screen", "ann_id": 113183, "best_split": [2, 3], "split_score": 0.611556406195531}
+{"sent": "closest couch", "ann_id": 99183, "best_split": [3, 1], "split_score": 0.7572016460472564}
+{"sent": "sofa with back to us", "ann_id": 99183, "best_split": [3, 1], "split_score": 0.7572016460472564}
+{"sent": "couch facing away", "ann_id": 99183, "best_split": [3, 1], "split_score": 0.7572016460472564}

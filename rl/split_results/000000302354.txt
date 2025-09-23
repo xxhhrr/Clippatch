@@ -1,0 +1,3 @@
+{"sent": "ham sandwich with egg", "ann_id": 311884, "best_split": [2, 2], "split_score": 0.7398206494946789}
+{"sent": "largest piece of sandwich", "ann_id": 311884, "best_split": [2, 2], "split_score": 0.7398206494946789}
+{"sent": "biggest slice sandwich", "ann_id": 311884, "best_split": [2, 2], "split_score": 0.7398206494946789}

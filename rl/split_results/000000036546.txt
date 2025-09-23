@@ -1,0 +1,6 @@
+{"sent": "half of zebra", "ann_id": 591891, "best_split": [3, 3], "split_score": 0.40811258272515}
+{"sent": "closest zebra", "ann_id": 591891, "best_split": [3, 3], "split_score": 0.40811258272515}
+{"sent": "zebra not showing legs", "ann_id": 591891, "best_split": [3, 3], "split_score": 0.40811258272515}
+{"sent": "zebra not in shade", "ann_id": 589585, "best_split": [2, 2], "split_score": 0.37946428568403506}
+{"sent": "whole zebra", "ann_id": 589585, "best_split": [2, 2], "split_score": 0.37946428568403506}
+{"sent": "standing zebra", "ann_id": 589585, "best_split": [2, 2], "split_score": 0.37946428568403506}

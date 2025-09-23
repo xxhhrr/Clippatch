@@ -1,0 +1,9 @@
+{"sent": "whole bowl of soup with no spoon in it", "ann_id": 709209, "best_split": [3, 3], "split_score": 0.3664222873363017}
+{"sent": "soup with tofu in it next to cucumbers", "ann_id": 709209, "best_split": [5, 1], "split_score": 0.19725572450644505}
+{"sent": "bowl with white chucks close to bowl with spoon", "ann_id": 709209, "best_split": [2, 1], "split_score": 0.11784706927406796}
+{"sent": "plate with florets", "ann_id": 1900583, "best_split": [1, 2], "split_score": 0.25183354590832935}
+{"sent": "broccoli bowl", "ann_id": 1900583, "best_split": [2, 2], "split_score": 0.5036670917965826}
+{"sent": "bowl of broccoli", "ann_id": 1900583, "best_split": [2, 2], "split_score": 0.5036670917965826}
+{"sent": "obscured bowl with soup", "ann_id": 1900346, "best_split": [3, 3], "split_score": 0.46736575655986873}
+{"sent": "closest bowl", "ann_id": 1900346, "best_split": [1, 5], "split_score": 0.20338983048888773}
+{"sent": "soup near avacado", "ann_id": 1900346, "best_split": [3, 3], "split_score": 0.46736575655986873}

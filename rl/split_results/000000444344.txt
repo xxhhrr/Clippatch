@@ -1,0 +1,16 @@
+{"sent": "pizza closest to edge", "ann_id": 1077636, "best_split": [2, 3], "split_score": 0.7273974167644991}
+{"sent": "pizza with green topping", "ann_id": 1077636, "best_split": [2, 3], "split_score": 0.7273974167644991}
+{"sent": "pizza with no green stuff guy has mouth close to it", "ann_id": 1071649, "best_split": [3, 1], "split_score": 0.21417445481674596}
+{"sent": "pizza close to mouth", "ann_id": 1071649, "best_split": [3, 1], "split_score": 0.21417445481674596}
+{"sent": "pizza the boy is smiling at", "ann_id": 1071649, "best_split": [3, 1], "split_score": 0.21417445481674596}
+{"sent": "black shirt kid", "ann_id": 547308, "best_split": [2, 3], "split_score": 0.6891891891060341}
+{"sent": "man in black shirt", "ann_id": 547308, "best_split": [2, 3], "split_score": 0.6891891891060341}
+{"sent": "bald guy", "ann_id": 533309, "best_split": [2, 3], "split_score": 0.5567153792070071}
+{"sent": "white shirt and loose tie", "ann_id": 533309, "best_split": [2, 3], "split_score": 0.5567153792070071}
+{"sent": "tie white shirt", "ann_id": 533309, "best_split": [2, 3], "split_score": 0.5567153792070071}
+{"sent": "blue jeans", "ann_id": 1738087, "best_split": [1, 5], "split_score": 0.5496145964923783}
+{"sent": "waitress 2 o clock", "ann_id": 1738087, "best_split": [2, 1], "split_score": 0.19844387950857237}
+{"sent": "partial person in blue jeans", "ann_id": 1738087, "best_split": [1, 5], "split_score": 0.5496145964923783}
+{"sent": "leaning over pizz", "ann_id": 1706560, "best_split": [3, 1], "split_score": 0.1284603421395303}
+{"sent": "face by pizza", "ann_id": 1706560, "best_split": [3, 1], "split_score": 0.1284603421395303}
+{"sent": "face closest to pizza", "ann_id": 1706560, "best_split": [3, 1], "split_score": 0.1284603421395303}

@@ -1,0 +1,6 @@
+{"sent": "empty brown recycliner", "ann_id": 389696, "best_split": [2, 3], "split_score": 0.3069479695188017}
+{"sent": "chair next to boots", "ann_id": 389696, "best_split": [2, 2], "split_score": 0.5422493305160481}
+{"sent": "chair without blanket", "ann_id": 389696, "best_split": [2, 1], "split_score": 0.32645089284413065}
+{"sent": "loveseat with red coushions", "ann_id": 115579, "best_split": [3, 3], "split_score": 0.3547814867997449}
+{"sent": "couch with red pillows", "ann_id": 115579, "best_split": [3, 3], "split_score": 0.3547814867997449}
+{"sent": "couch farthest away", "ann_id": 115579, "best_split": [3, 3], "split_score": 0.3547814867997449}

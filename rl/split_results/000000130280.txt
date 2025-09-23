@@ -1,0 +1,7 @@
+{"sent": "red coat", "ann_id": 490841, "best_split": [1, 3], "split_score": 0.4643991777020931}
+{"sent": "red jacket", "ann_id": 490841, "best_split": [1, 3], "split_score": 0.4643991777020931}
+{"sent": "red", "ann_id": 490841, "best_split": [1, 3], "split_score": 0.4643991777020931}
+{"sent": "boy", "ann_id": 424809, "best_split": [3, 3], "split_score": 0.5645960584805121}
+{"sent": "kid", "ann_id": 424809, "best_split": [3, 3], "split_score": 0.5645960584805121}
+{"sent": "little guy", "ann_id": 424809, "best_split": [3, 3], "split_score": 0.5645960584805121}
+{"sent": "the little boy in blue", "ann_id": 424809, "best_split": [3, 3], "split_score": 0.5645960584805121}

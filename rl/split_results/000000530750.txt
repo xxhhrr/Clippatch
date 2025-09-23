@@ -1,0 +1,9 @@
+{"sent": "white rimmed goggles", "ann_id": 2163041, "best_split": [1, 3], "split_score": 0.28508095603869116}
+{"sent": "black coat and white pants", "ann_id": 2163041, "best_split": [1, 2], "split_score": 0.4022640305962108}
+{"sent": "black jacket", "ann_id": 2163041, "best_split": [1, 2], "split_score": 0.4022640305962108}
+{"sent": "the guy with yellow stripe on shirt", "ann_id": 2164676, "best_split": [1, 5], "split_score": 0.4687499999524401}
+{"sent": "person in gray and white jacket with back to camera", "ann_id": 2164676, "best_split": [2, 2], "split_score": 0.21146245057796}
+{"sent": "man facing away from camera wearing gray and white jacket", "ann_id": 2164676, "best_split": [2, 1], "split_score": 0.11215932913626238}
+{"sent": "light gray jacket", "ann_id": 485882, "best_split": [1, 3], "split_score": 0.5368901444889226}
+{"sent": "man gray jacket next to man in black", "ann_id": 485882, "best_split": [1, 3], "split_score": 0.5368901444889226}
+{"sent": "man in gray with arm around", "ann_id": 485882, "best_split": [1, 3], "split_score": 0.5368901444889226}

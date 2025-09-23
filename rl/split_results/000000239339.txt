@@ -1,0 +1,6 @@
+{"sent": "person at edge with beanie", "ann_id": 513835, "best_split": [1, 3], "split_score": 0.5928400954300215}
+{"sent": "girl beige hat", "ann_id": 513835, "best_split": [1, 5], "split_score": 0.6814814814241177}
+{"sent": "girl closest to camera", "ann_id": 513835, "best_split": [1, 5], "split_score": 0.6814814814241177}
+{"sent": "man with legs crossed", "ann_id": 489197, "best_split": [1, 3], "split_score": 0.5082300579170383}
+{"sent": "brown jacket", "ann_id": 489197, "best_split": [1, 3], "split_score": 0.5082300579170383}
+{"sent": "man by lamp", "ann_id": 489197, "best_split": [1, 2], "split_score": 0.28344068705626835}

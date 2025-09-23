@@ -1,0 +1,6 @@
+{"sent": "bigger man", "ann_id": 1729360, "best_split": [1, 2], "split_score": 0.5131913951325342}
+{"sent": "taller", "ann_id": 1729360, "best_split": [1, 2], "split_score": 0.5131913951325342}
+{"sent": "guy with umbrella", "ann_id": 1729360, "best_split": [1, 2], "split_score": 0.5131913951325342}
+{"sent": "short man", "ann_id": 215792, "best_split": [2, 1], "split_score": 0.25137111516546845}
+{"sent": "guy 2", "ann_id": 215792, "best_split": [3, 3], "split_score": 0.41347025064833354}
+{"sent": "man with hat", "ann_id": 215792, "best_split": [2, 1], "split_score": 0.16908625106230674}

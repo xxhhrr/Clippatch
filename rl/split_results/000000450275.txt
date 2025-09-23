@@ -1,0 +1,6 @@
+{"sent": "closet monitor", "ann_id": 35768, "best_split": [3, 3], "split_score": 0.40766550515545896}
+{"sent": "black screen", "ann_id": 35768, "best_split": [3, 2], "split_score": 0.2853434033177551}
+{"sent": "closest screen", "ann_id": 35768, "best_split": [3, 3], "split_score": 0.40766550515545896}
+{"sent": "silver monitor", "ann_id": 34579, "best_split": [1, 5], "split_score": 0.1390065460012508}
+{"sent": "the monitor with light on it", "ann_id": 34579, "best_split": [2, 3], "split_score": 0.23841698838822187}
+{"sent": "monitor facing us", "ann_id": 34579, "best_split": [2, 3], "split_score": 0.23841698838822187}

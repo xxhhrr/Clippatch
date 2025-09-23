@@ -1,0 +1,6 @@
+{"sent": "man in a suit", "ann_id": 2198275, "best_split": [2, 3], "split_score": 0.46888567288930266}
+{"sent": "man on his phone", "ann_id": 2198275, "best_split": [3, 2], "split_score": 0.2655860348890643}
+{"sent": "stanidng man", "ann_id": 2198275, "best_split": [1, 2], "split_score": 0.2360491071334483}
+{"sent": "barfer", "ann_id": 461106, "best_split": [1, 2], "split_score": 0.2553742553659876}
+{"sent": "puker", "ann_id": 461106, "best_split": [2, 3], "split_score": 0.5389355741919513}
+{"sent": "guy by toilet", "ann_id": 461106, "best_split": [2, 3], "split_score": 0.5389355741919513}

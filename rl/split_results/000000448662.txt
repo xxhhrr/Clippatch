@@ -1,0 +1,6 @@
+{"sent": "sandwich leaning on the over one", "ann_id": 313201, "best_split": [1, 2], "split_score": 0.5303304662543259}
+{"sent": "upper sandwich", "ann_id": 313201, "best_split": [3, 1], "split_score": 0.3362514590488473}
+{"sent": "propped up sandwich", "ann_id": 313201, "best_split": [2, 2], "split_score": 0.451165199355196}
+{"sent": "sandwich at 3", "ann_id": 312208, "best_split": [1, 2], "split_score": 0.4079074252511397}
+{"sent": "sandwhich flat on plate", "ann_id": 312208, "best_split": [1, 2], "split_score": 0.4079074252511397}
+{"sent": "sandwich underneath", "ann_id": 312208, "best_split": [1, 2], "split_score": 0.4079074252511397}

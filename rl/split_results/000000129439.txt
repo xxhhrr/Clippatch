@@ -1,0 +1,8 @@
+{"sent": "red shirt man", "ann_id": 518335, "best_split": [3, 2], "split_score": 0.2945599292022822}
+{"sent": "red shirt", "ann_id": 518335, "best_split": [3, 2], "split_score": 0.2945599292022822}
+{"sent": "red shirt white cap", "ann_id": 518335, "best_split": [3, 3], "split_score": 0.41071994918954646}
+{"sent": "green and blue", "ann_id": 490640, "best_split": [3, 2], "split_score": 0.21030436375043046}
+{"sent": "girl standing against the wall", "ann_id": 490640, "best_split": [1, 3], "split_score": 0.29645270268481827}
+{"sent": "woman holding racquet", "ann_id": 478224, "best_split": [1, 2], "split_score": 0.5317198911452198}
+{"sent": "tennis player", "ann_id": 478224, "best_split": [1, 2], "split_score": 0.5317198911452198}
+{"sent": "tennis player", "ann_id": 478224, "best_split": [1, 2], "split_score": 0.5317198911452198}

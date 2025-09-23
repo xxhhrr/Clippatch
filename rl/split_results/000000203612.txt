@@ -1,0 +1,9 @@
+{"sent": "umpire", "ann_id": 1305822, "best_split": [3, 2], "split_score": 0.21024939490579297}
+{"sent": "ump", "ann_id": 1305822, "best_split": [3, 2], "split_score": 0.21024939490579297}
+{"sent": "umpire", "ann_id": 1305822, "best_split": [3, 2], "split_score": 0.21024939490579297}
+{"sent": "catcher", "ann_id": 1276556, "best_split": [2, 2], "split_score": 0.31171226557702797}
+{"sent": "red catcher", "ann_id": 1276556, "best_split": [1, 5], "split_score": 0.34066753679464223}
+{"sent": "catcher", "ann_id": 1276556, "best_split": [2, 2], "split_score": 0.31171226557702797}
+{"sent": "baseball player at bat", "ann_id": 1246717, "best_split": [3, 3], "split_score": 0.44794188857055445}
+{"sent": "batter", "ann_id": 1246717, "best_split": [3, 3], "split_score": 0.44794188857055445}
+{"sent": "batter", "ann_id": 1246717, "best_split": [3, 3], "split_score": 0.44794188857055445}

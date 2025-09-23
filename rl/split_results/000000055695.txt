@@ -1,0 +1,5 @@
+{"sent": "striped chair", "ann_id": 106019, "best_split": [3, 2], "split_score": 0.3716548918463225}
+{"sent": "chair with no one not sofa", "ann_id": 106019, "best_split": [5, 1], "split_score": 0.2083683414377106}
+{"sent": "the man is sitting in this chair", "ann_id": 1584052, "best_split": [2, 2], "split_score": 0.5548469387312781}
+{"sent": "chair nearest us facing the tv", "ann_id": 1584052, "best_split": [2, 1], "split_score": 0.2774234693766971}
+{"sent": "chair with man", "ann_id": 1584052, "best_split": [2, 2], "split_score": 0.5548469387312781}

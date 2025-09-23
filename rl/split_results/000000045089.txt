@@ -1,0 +1,6 @@
+{"sent": "horse with large white patch on face", "ann_id": 60387, "best_split": [1, 5], "split_score": 0.4277597402163393}
+{"sent": "the horse with the large white blaze and dark forefeet", "ann_id": 60387, "best_split": [1, 5], "split_score": 0.4277597402163393}
+{"sent": "horse with more white on face", "ann_id": 60387, "best_split": [1, 5], "split_score": 0.4277597402163393}
+{"sent": "black horse thin white stripe on head", "ann_id": 57887, "best_split": [3, 3], "split_score": 0.24253459574623273}
+{"sent": "horse with tail", "ann_id": 57887, "best_split": [3, 3], "split_score": 0.24253459574623273}
+{"sent": "black horse close bus", "ann_id": 57887, "best_split": [3, 2], "split_score": 0.2476572958263858}

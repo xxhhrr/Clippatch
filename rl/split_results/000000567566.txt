@@ -1,0 +1,5 @@
+{"sent": "lonely chair", "ann_id": 578281, "best_split": [5, 1], "split_score": 0.17042977942895737}
+{"sent": "far away bench girl not sitting on it", "ann_id": 578281, "best_split": [3, 1], "split_score": 0.173257236027415}
+{"sent": "the bench closet to us", "ann_id": 577919, "best_split": [3, 2], "split_score": 0.5989804587299299}
+{"sent": "bench nearest us", "ann_id": 577919, "best_split": [3, 2], "split_score": 0.5989804587299299}
+{"sent": "the bench the woman is sitting in", "ann_id": 577919, "best_split": [3, 2], "split_score": 0.5989804587299299}

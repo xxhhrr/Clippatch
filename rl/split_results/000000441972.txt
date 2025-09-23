@@ -1,0 +1,6 @@
+{"sent": "the horse near the edge", "ann_id": 274598, "best_split": [1, 2], "split_score": 0.7024075254822063}
+{"sent": "the hourse closest to the yellow line", "ann_id": 274598, "best_split": [1, 2], "split_score": 0.7024075254822063}
+{"sent": "horse without white on forehead", "ann_id": 274598, "best_split": [1, 2], "split_score": 0.7024075254822063}
+{"sent": "horse closest to us", "ann_id": 56491, "best_split": [2, 1], "split_score": 0.2640170333494956}
+{"sent": "horse with white on forehead", "ann_id": 56491, "best_split": [2, 3], "split_score": 0.30624263838368704}
+{"sent": "horse with white patch on forehead", "ann_id": 56491, "best_split": [2, 3], "split_score": 0.30624263838368704}

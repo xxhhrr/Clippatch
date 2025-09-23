@@ -1,0 +1,9 @@
+{"sent": "cow that is turning head", "ann_id": 2191573, "best_split": [1, 2], "split_score": 0.6946182728138838}
+{"sent": "cow head askew", "ann_id": 2191573, "best_split": [2, 2], "split_score": 0.5999999999688149}
+{"sent": "cow looking sideways", "ann_id": 2191573, "best_split": [1, 2], "split_score": 0.6946182728138838}
+{"sent": "cow that has leg extended", "ann_id": 2191563, "best_split": [2, 1], "split_score": 0.3800623052845656}
+{"sent": "bigger cow angry", "ann_id": 2191563, "best_split": [1, 3], "split_score": 0.5125644329690494}
+{"sent": "cow thats more brown", "ann_id": 2191563, "best_split": [2, 1], "split_score": 0.3800623052845656}
+{"sent": "black cow", "ann_id": 73035, "best_split": [1, 3], "split_score": 0.46332046329251203}
+{"sent": "black cow", "ann_id": 73035, "best_split": [1, 3], "split_score": 0.46332046329251203}
+{"sent": "black cow", "ann_id": 73035, "best_split": [1, 3], "split_score": 0.46332046329251203}

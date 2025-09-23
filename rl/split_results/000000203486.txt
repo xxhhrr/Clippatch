@@ -1,0 +1,9 @@
+{"sent": "bear at 900 buried", "ann_id": 1163401, "best_split": [1, 2], "split_score": 0.37755102039311417}
+{"sent": "10 oclock", "ann_id": 1163241, "best_split": [3, 1], "split_score": 0.2858465942457756}
+{"sent": "high bear with tag", "ann_id": 1163241, "best_split": [1, 2], "split_score": 0.5567602040594404}
+{"sent": "teddy bear with tag not upside down", "ann_id": 1163241, "best_split": [1, 2], "split_score": 0.5567602040594404}
+{"sent": "tie on the bear laying horizontally", "ann_id": 1162179, "best_split": [2, 2], "split_score": 0.7624966041318597}
+{"sent": "bear laying sideways", "ann_id": 1162179, "best_split": [2, 2], "split_score": 0.7624966041318597}
+{"sent": "teddy without tag", "ann_id": 1159789, "best_split": [1, 5], "split_score": 0.5015197568042609}
+{"sent": "bear with head cut off you can only see its mouth", "ann_id": 1159789, "best_split": [3, 2], "split_score": 0.35902964957149397}
+{"sent": "teddy 1pm no tag", "ann_id": 1159789, "best_split": [1, 5], "split_score": 0.5015197568042609}

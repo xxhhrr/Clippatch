@@ -1,0 +1,6 @@
+{"sent": "guy with black coat", "ann_id": 523805, "best_split": [3, 2], "split_score": 0.3226744185711509}
+{"sent": "black umbrella white bag", "ann_id": 523805, "best_split": [1, 2], "split_score": 0.17745535713578384}
+{"sent": "person holding the bag", "ann_id": 523805, "best_split": [3, 2], "split_score": 0.3226744185711509}
+{"sent": "woman in green jacket purple umbrella", "ann_id": 463698, "best_split": [3, 3], "split_score": 0.5656497781795928}
+{"sent": "closer woman", "ann_id": 463698, "best_split": [3, 3], "split_score": 0.5656497781795928}
+{"sent": "woman foreground", "ann_id": 463698, "best_split": [3, 3], "split_score": 0.5656497781795928}

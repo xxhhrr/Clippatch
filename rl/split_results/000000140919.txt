@@ -1,0 +1,5 @@
+{"sent": "bowl with carrots and stuff", "ann_id": 715354, "best_split": [3, 2], "split_score": 0.8055290752138311}
+{"sent": "carrots", "ann_id": 715354, "best_split": [3, 2], "split_score": 0.8055290752138311}
+{"sent": "the stack of red potatoes", "ann_id": 714658, "best_split": [5, 1], "split_score": 0.2965706168530265}
+{"sent": "potatoes next to soda bottle", "ann_id": 714658, "best_split": [5, 1], "split_score": 0.2965706168530265}
+{"sent": "bowl of potatoes", "ann_id": 714658, "best_split": [5, 1], "split_score": 0.2965706168530265}

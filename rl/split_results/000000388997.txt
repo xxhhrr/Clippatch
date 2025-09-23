@@ -1,0 +1,6 @@
+{"sent": "child", "ann_id": 454870, "best_split": [2, 2], "split_score": 0.6678995307387303}
+{"sent": "patient", "ann_id": 454870, "best_split": [2, 2], "split_score": 0.6678995307387303}
+{"sent": "kid", "ann_id": 454870, "best_split": [2, 2], "split_score": 0.6678995307387303}
+{"sent": "nurse", "ann_id": 445869, "best_split": [1, 2], "split_score": 0.7777777777502205}
+{"sent": "blond", "ann_id": 445869, "best_split": [2, 3], "split_score": 0.32644463872798485}
+{"sent": "blond nurse", "ann_id": 445869, "best_split": [1, 2], "split_score": 0.7777777777502205}

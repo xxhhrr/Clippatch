@@ -1,0 +1,6 @@
+{"sent": "mans arm raised", "ann_id": 2004588, "best_split": [1, 2], "split_score": 0.18630420917624743}
+{"sent": "black bird by yellow pole", "ann_id": 2004588, "best_split": [1, 5], "split_score": 0.47422889605578034}
+{"sent": "purple", "ann_id": 2004588, "best_split": [1, 5], "split_score": 0.47422889605578034}
+{"sent": "man", "ann_id": 493926, "best_split": [1, 3], "split_score": 0.2839665921489256}
+{"sent": "bald head", "ann_id": 493926, "best_split": [3, 3], "split_score": 0.7973199328647704}
+{"sent": "blackman no hair", "ann_id": 493926, "best_split": [3, 3], "split_score": 0.7973199328647704}

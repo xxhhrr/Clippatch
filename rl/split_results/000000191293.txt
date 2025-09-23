@@ -1,0 +1,6 @@
+{"sent": "chair", "ann_id": 99433, "best_split": [2, 3], "split_score": 0.6076794657038302}
+{"sent": "the chair", "ann_id": 99433, "best_split": [2, 3], "split_score": 0.6076794657038302}
+{"sent": "armchair", "ann_id": 99433, "best_split": [1, 5], "split_score": 0.4015645371203609}
+{"sent": "black full couch", "ann_id": 98007, "best_split": [2, 2], "split_score": 0.6880181308112353}
+{"sent": "couch", "ann_id": 98007, "best_split": [2, 2], "split_score": 0.6880181308112353}
+{"sent": "black sofa with chili pepper pillow", "ann_id": 98007, "best_split": [2, 2], "split_score": 0.6880181308112353}

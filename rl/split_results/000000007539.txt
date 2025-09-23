@@ -1,0 +1,11 @@
+{"sent": "balls", "ann_id": 1539223, "best_split": [2, 1], "split_score": 0.7043478260596138}
+{"sent": "the plate with balls", "ann_id": 1539223, "best_split": [2, 1], "split_score": 0.7043478260596138}
+{"sent": "falafel", "ann_id": 1539223, "best_split": [2, 1], "split_score": 0.7043478260596138}
+{"sent": "yellow food", "ann_id": 1533191, "best_split": [2, 3], "split_score": 0.3657210635202411}
+{"sent": "dish behind the meatball dish", "ann_id": 1533191, "best_split": [3, 3], "split_score": 0.43387622144184024}
+{"sent": "bowl with white food and green garnish", "ann_id": 1533191, "best_split": [3, 3], "split_score": 0.43387622144184024}
+{"sent": "cut off glass next to meatballs", "ann_id": 677266, "best_split": [1, 2], "split_score": 0.0860969387720784}
+{"sent": "part of cup on side", "ann_id": 677266, "best_split": [5, 1], "split_score": 0.09635036495471255}
+{"sent": "closest glass", "ann_id": 676377, "best_split": [3, 3], "split_score": 0.5775530394000711}
+{"sent": "the closest cup of tea in full view", "ann_id": 676377, "best_split": [3, 3], "split_score": 0.5775530394000711}
+{"sent": "drink", "ann_id": 676377, "best_split": [3, 3], "split_score": 0.5775530394000711}

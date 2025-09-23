@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 448280, "best_split": [1, 2], "split_score": 0.2455357142759273}
+{"sent": "man adjusting contraption", "ann_id": 448280, "best_split": [1, 3], "split_score": 0.2137518684489776}
+{"sent": "man pulling rope wearing black", "ann_id": 448280, "best_split": [1, 3], "split_score": 0.2137518684489776}
+{"sent": "light hat person", "ann_id": 426286, "best_split": [1, 5], "split_score": 0.41883116878867377}
+{"sent": "blue hat", "ann_id": 426286, "best_split": [1, 3], "split_score": 0.19331412102632195}
+{"sent": "person in gray hat", "ann_id": 426286, "best_split": [1, 5], "split_score": 0.41883116878867377}

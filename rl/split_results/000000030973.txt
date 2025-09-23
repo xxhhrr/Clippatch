@@ -1,0 +1,9 @@
+{"sent": "woman in red", "ann_id": 1228566, "best_split": [2, 3], "split_score": 0.4566242821516997}
+{"sent": "high", "ann_id": 1228566, "best_split": [2, 2], "split_score": 0.2576469786594695}
+{"sent": "red shirt", "ann_id": 1228566, "best_split": [2, 3], "split_score": 0.4566242821516997}
+{"sent": "girl in gray", "ann_id": 456178, "best_split": [2, 3], "split_score": 0.4340006255525492}
+{"sent": "gray shirt", "ann_id": 456178, "best_split": [2, 3], "split_score": 0.4340006255525492}
+{"sent": "women gray shirt", "ann_id": 456178, "best_split": [2, 3], "split_score": 0.4340006255525492}
+{"sent": "bed above girl in gray", "ann_id": 314651, "best_split": [2, 1], "split_score": 0.6195192655930813}
+{"sent": "the mattress", "ann_id": 314651, "best_split": [3, 1], "split_score": 0.5766300929283448}
+{"sent": "bed with red shirt girl on it", "ann_id": 314651, "best_split": [2, 1], "split_score": 0.6195192655930813}

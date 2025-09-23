@@ -1,0 +1,4 @@
+{"sent": "blue thing", "ann_id": 1995208, "best_split": [2, 1], "split_score": 0.6094107124960397}
+{"sent": "brown thing", "ann_id": 1161343, "best_split": [3, 1], "split_score": 0.5536317567233572}
+{"sent": "sorry my desc sucked here just the brown creature", "ann_id": 1161343, "best_split": [3, 3], "split_score": 0.5348276945077168}
+{"sent": "brown animal", "ann_id": 1161343, "best_split": [3, 1], "split_score": 0.5536317567233572}

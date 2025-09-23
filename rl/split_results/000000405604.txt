@@ -1,0 +1,6 @@
+{"sent": "black keys", "ann_id": 1635093, "best_split": [1, 2], "split_score": 0.28758670906804173}
+{"sent": "laptop keyboard", "ann_id": 1635093, "best_split": [3, 2], "split_score": 0.5307573133572626}
+{"sent": "keyboard under monitor", "ann_id": 1635093, "best_split": [5, 1], "split_score": 0.27287219293922427}
+{"sent": "white keys", "ann_id": 1116541, "best_split": [3, 2], "split_score": 0.744438642219902}
+{"sent": "detached keyboard", "ann_id": 1116541, "best_split": [3, 2], "split_score": 0.744438642219902}
+{"sent": "white keyboard", "ann_id": 1116541, "best_split": [3, 2], "split_score": 0.744438642219902}

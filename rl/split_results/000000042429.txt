@@ -1,0 +1,6 @@
+{"sent": "the man", "ann_id": 2208029, "best_split": [1, 5], "split_score": 0.4375627108968747}
+{"sent": "black shirt", "ann_id": 2208029, "best_split": [1, 5], "split_score": 0.4375627108968747}
+{"sent": "man", "ann_id": 2208029, "best_split": [1, 5], "split_score": 0.4375627108968747}
+{"sent": "girl with tennis raquet", "ann_id": 2206489, "best_split": [2, 1], "split_score": 0.44004595059299145}
+{"sent": "woman", "ann_id": 2206489, "best_split": [1, 2], "split_score": 0.5921052631428545}
+{"sent": "player", "ann_id": 2206489, "best_split": [1, 2], "split_score": 0.5921052631428545}

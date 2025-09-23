@@ -1,0 +1,8 @@
+{"sent": "man that looks blurry", "ann_id": 517380, "best_split": [2, 2], "split_score": 0.3150510203830476}
+{"sent": "man running", "ann_id": 517380, "best_split": [2, 3], "split_score": 0.47683397677644374}
+{"sent": "white shirt", "ann_id": 517380, "best_split": [2, 3], "split_score": 0.47683397677644374}
+{"sent": "catcher", "ann_id": 474276, "best_split": [2, 3], "split_score": 0.7414965985703572}
+{"sent": "catcher", "ann_id": 474276, "best_split": [2, 3], "split_score": 0.7414965985703572}
+{"sent": "catcher", "ann_id": 474276, "best_split": [2, 3], "split_score": 0.7414965985703572}
+{"sent": "batter", "ann_id": 433649, "best_split": [2, 1], "split_score": 0.465777448426188}
+{"sent": "red shirt i may be colorblind but i can see this", "ann_id": 433649, "best_split": [2, 1], "split_score": 0.465777448426188}

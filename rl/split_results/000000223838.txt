@@ -1,0 +1,4 @@
+{"sent": "person with gray bag", "ann_id": 2152638, "best_split": [3, 1], "split_score": 0.3431888983096466}
+{"sent": "black jacket with shirt visible", "ann_id": 196532, "best_split": [2, 3], "split_score": 0.762419667370966}
+{"sent": "hands together", "ann_id": 196532, "best_split": [2, 2], "split_score": 0.7165975764734855}
+{"sent": "plaid shirt crossing hands", "ann_id": 196532, "best_split": [2, 3], "split_score": 0.762419667370966}

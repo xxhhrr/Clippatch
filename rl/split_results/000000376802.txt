@@ -1,0 +1,4 @@
+{"sent": "yellow bus", "ann_id": 174169, "best_split": [1, 5], "split_score": 0.44277400579275134}
+{"sent": "train 1", "ann_id": 174169, "best_split": [1, 3], "split_score": 0.42683496959201334}
+{"sent": "yellow bus 2", "ann_id": 172780, "best_split": [1, 3], "split_score": 0.5892675998889598}
+{"sent": "bus number 2", "ann_id": 172780, "best_split": [1, 3], "split_score": 0.5892675998889598}

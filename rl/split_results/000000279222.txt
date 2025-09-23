@@ -1,0 +1,6 @@
+{"sent": "007 green bus", "ann_id": 366363, "best_split": [1, 5], "split_score": 0.35522853519586506}
+{"sent": "double decker", "ann_id": 366363, "best_split": [1, 5], "split_score": 0.35522853519586506}
+{"sent": "green bus cut off in photo", "ann_id": 366363, "best_split": [1, 5], "split_score": 0.35522853519586506}
+{"sent": "green bus", "ann_id": 366050, "best_split": [3, 1], "split_score": 0.40904002237583825}
+{"sent": "bus middle", "ann_id": 366050, "best_split": [3, 1], "split_score": 0.40904002237583825}
+{"sent": "green and white bus", "ann_id": 366050, "best_split": [3, 1], "split_score": 0.40904002237583825}

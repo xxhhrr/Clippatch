@@ -1,0 +1,9 @@
+{"sent": "man with dark suit white shirt and red tie facing us", "ann_id": 527014, "best_split": [1, 5], "split_score": 0.4749833221752015}
+{"sent": "man in suit facing camera", "ann_id": 527014, "best_split": [1, 5], "split_score": 0.4749833221752015}
+{"sent": "man in tie with something in hand", "ann_id": 527014, "best_split": [1, 5], "split_score": 0.4749833221752015}
+{"sent": "guy with camera", "ann_id": 425795, "best_split": [2, 2], "split_score": 0.3738400353237708}
+{"sent": "cameraman", "ann_id": 425795, "best_split": [2, 2], "split_score": 0.3738400353237708}
+{"sent": "photographer", "ann_id": 425795, "best_split": [2, 2], "split_score": 0.3738400353237708}
+{"sent": "man alone", "ann_id": 2158999, "best_split": [3, 2], "split_score": 0.2468312207903525}
+{"sent": "man by himself", "ann_id": 2158999, "best_split": [1, 3], "split_score": 0.2093141692955345}
+{"sent": "man by the wall", "ann_id": 2158999, "best_split": [1, 3], "split_score": 0.2093141692955345}

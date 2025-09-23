@@ -1,0 +1,9 @@
+{"sent": "woman next to man", "ann_id": 2164163, "best_split": [3, 3], "split_score": 0.45567393212240503}
+{"sent": "glasses girl", "ann_id": 2164163, "best_split": [2, 1], "split_score": 0.11041385080419598}
+{"sent": "blurry blond woman in brown shirt", "ann_id": 2164163, "best_split": [3, 3], "split_score": 0.45567393212240503}
+{"sent": "man with glasses", "ann_id": 533141, "best_split": [1, 2], "split_score": 0.7242358668946364}
+{"sent": "man", "ann_id": 533141, "best_split": [1, 2], "split_score": 0.7242358668946364}
+{"sent": "black hat", "ann_id": 533141, "best_split": [1, 2], "split_score": 0.7242358668946364}
+{"sent": "girl white shirt", "ann_id": 430052, "best_split": [3, 1], "split_score": 0.21828656778948646}
+{"sent": "lady in black and white slightly blurry", "ann_id": 430052, "best_split": [3, 1], "split_score": 0.21828656778948646}
+{"sent": "girl in back ground with white short sleeve shirt", "ann_id": 430052, "best_split": [3, 1], "split_score": 0.21828656778948646}

@@ -1,0 +1,6 @@
+{"sent": "nearest goat", "ann_id": 66230, "best_split": [2, 3], "split_score": 0.27514471777540295}
+{"sent": "animal facing away", "ann_id": 66230, "best_split": [1, 2], "split_score": 0.21948139084266166}
+{"sent": "closest animal", "ann_id": 66230, "best_split": [1, 2], "split_score": 0.21948139084266166}
+{"sent": "sheep sideway", "ann_id": 65326, "best_split": [3, 2], "split_score": 0.36587240580650726}
+{"sent": "the one with head lower", "ann_id": 65326, "best_split": [3, 3], "split_score": 0.30839834783061054}
+{"sent": "can see eye", "ann_id": 65326, "best_split": [3, 3], "split_score": 0.30839834783061054}

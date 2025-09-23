@@ -1,0 +1,11 @@
+{"sent": "plain white", "ann_id": 1283894, "best_split": [1, 5], "split_score": 0.6529898803447112}
+{"sent": "this is a boy in white shirt and black shorts", "ann_id": 1283894, "best_split": [1, 5], "split_score": 0.6529898803447112}
+{"sent": "white shirt black shorts", "ann_id": 1283894, "best_split": [1, 5], "split_score": 0.6529898803447112}
+{"sent": "green shirt boy", "ann_id": 1256335, "best_split": [1, 5], "split_score": 0.3614042207425523}
+{"sent": "green shirt dude", "ann_id": 1256335, "best_split": [1, 5], "split_score": 0.3614042207425523}
+{"sent": "boy with green shirt", "ann_id": 1256335, "best_split": [1, 5], "split_score": 0.3614042207425523}
+{"sent": "guy 1", "ann_id": 1255272, "best_split": [3, 3], "split_score": 0.15966386552808723}
+{"sent": "white shirt with logo", "ann_id": 1255272, "best_split": [3, 3], "split_score": 0.15966386552808723}
+{"sent": "holding frisbee no shirt", "ann_id": 1758786, "best_split": [1, 5], "split_score": 0.3194444444156345}
+{"sent": "no shirt", "ann_id": 1758786, "best_split": [1, 5], "split_score": 0.3194444444156345}
+{"sent": "shirtless", "ann_id": 1758786, "best_split": [1, 5], "split_score": 0.3194444444156345}

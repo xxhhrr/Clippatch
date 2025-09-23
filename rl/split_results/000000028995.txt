@@ -1,0 +1,12 @@
+{"sent": "yellow bear", "ann_id": 1674290, "best_split": [1, 5], "split_score": 0.2453580901624329}
+{"sent": "orangish small bear", "ann_id": 1674290, "best_split": [3, 1], "split_score": 0.12211929506766159}
+{"sent": "yellow bear", "ann_id": 1674290, "best_split": [1, 5], "split_score": 0.2453580901624329}
+{"sent": "teddy in blue shirt", "ann_id": 1674051, "best_split": [2, 3], "split_score": 0.4189666592604364}
+{"sent": "teddy wearing blue shirt", "ann_id": 1674051, "best_split": [2, 3], "split_score": 0.4189666592604364}
+{"sent": "panda", "ann_id": 1674051, "best_split": [3, 2], "split_score": 0.2721963772867271}
+{"sent": "gray bear not quite the largest", "ann_id": 1161548, "best_split": [3, 1], "split_score": 0.26915986303559863}
+{"sent": "gray bear", "ann_id": 1161548, "best_split": [1, 5], "split_score": 0.3528770536204254}
+{"sent": "gray one", "ann_id": 1161548, "best_split": [3, 3], "split_score": 0.5780206435242233}
+{"sent": "bear with red scarf", "ann_id": 1159666, "best_split": [3, 2], "split_score": 0.5391931277389789}
+{"sent": "scarf bear", "ann_id": 1159666, "best_split": [3, 2], "split_score": 0.5391931277389789}
+{"sent": "biggest", "ann_id": 1159666, "best_split": [2, 1], "split_score": 0.17928541726068242}

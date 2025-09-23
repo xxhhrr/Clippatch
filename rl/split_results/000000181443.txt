@@ -1,0 +1,4 @@
+{"sent": "tire on bike", "ann_id": 2168089, "best_split": [2, 2], "split_score": 0.8091603052804829}
+{"sent": "wheel close to us touching dark brown square on floor", "ann_id": 2168089, "best_split": [2, 2], "split_score": 0.8091603052804829}
+{"sent": "bike wheel in forground", "ann_id": 1768234, "best_split": [3, 3], "split_score": 0.6719653177976941}
+{"sent": "wheel in corner of 7pm", "ann_id": 1768234, "best_split": [1, 3], "split_score": 0.22804054052678327}

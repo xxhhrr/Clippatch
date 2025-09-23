@@ -1,0 +1,9 @@
+{"sent": "woman in colorful scarf", "ann_id": 1312670, "best_split": [2, 2], "split_score": 0.3736004265082184}
+{"sent": "sunglasses girl", "ann_id": 1312670, "best_split": [2, 2], "split_score": 0.3736004265082184}
+{"sent": "woman with sunglasses", "ann_id": 1312670, "best_split": [2, 2], "split_score": 0.3736004265082184}
+{"sent": "she is under umbrella but not the one holding it white shirt", "ann_id": 1271051, "best_split": [1, 3], "split_score": 0.2451737451589543}
+{"sent": "woman without headscarf under umbrella", "ann_id": 1271051, "best_split": [1, 3], "split_score": 0.2451737451589543}
+{"sent": "girl arms crossed", "ann_id": 1271051, "best_split": [2, 1], "split_score": 0.13874999999458007}
+{"sent": "fan over chin", "ann_id": 1219003, "best_split": [1, 3], "split_score": 0.117181396796147}
+{"sent": "girl in white shirt holding paper fan", "ann_id": 1219003, "best_split": [2, 1], "split_score": 0.16887727236604208}
+{"sent": "girl holding fan with no turban", "ann_id": 1219003, "best_split": [1, 3], "split_score": 0.117181396796147}

@@ -1,0 +1,12 @@
+{"sent": "red hat", "ann_id": 1761568, "best_split": [3, 3], "split_score": 0.5425531914091972}
+{"sent": "tall red hat", "ann_id": 1761568, "best_split": [3, 3], "split_score": 0.5425531914091972}
+{"sent": "red and white hat behind guy in the foreground", "ann_id": 1761568, "best_split": [3, 3], "split_score": 0.5425531914091972}
+{"sent": "red shirt", "ann_id": 1760578, "best_split": [3, 1], "split_score": 0.1873324729381846}
+{"sent": "red shirt", "ann_id": 1760578, "best_split": [3, 1], "split_score": 0.1873324729381846}
+{"sent": "red shirt", "ann_id": 1760578, "best_split": [3, 1], "split_score": 0.1873324729381846}
+{"sent": "green hat", "ann_id": 1724293, "best_split": [1, 5], "split_score": 0.6338386215390416}
+{"sent": "man with green shirt and cap", "ann_id": 1724293, "best_split": [1, 5], "split_score": 0.6338386215390416}
+{"sent": "green cap", "ann_id": 1724293, "best_split": [1, 5], "split_score": 0.6338386215390416}
+{"sent": "green shirt black suspenders", "ann_id": 430849, "best_split": [1, 2], "split_score": 0.6290847702692305}
+{"sent": "suspenders", "ann_id": 430849, "best_split": [1, 2], "split_score": 0.6290847702692305}
+{"sent": "guy with suspenders", "ann_id": 430849, "best_split": [1, 2], "split_score": 0.6290847702692305}

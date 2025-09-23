@@ -1,0 +1,9 @@
+{"sent": "beige and black skier", "ann_id": 1228222, "best_split": [5, 1], "split_score": 0.18623952193657237}
+{"sent": "skier in tan and black", "ann_id": 1228222, "best_split": [5, 1], "split_score": 0.18623952193657237}
+{"sent": "guy in tan and black", "ann_id": 1228222, "best_split": [3, 3], "split_score": 0.41493005988939047}
+{"sent": "orange coat guy", "ann_id": 493100, "best_split": [2, 3], "split_score": 0.5738507253475047}
+{"sent": "guy in red coat", "ann_id": 493100, "best_split": [2, 3], "split_score": 0.5738507253475047}
+{"sent": "red", "ann_id": 493100, "best_split": [2, 3], "split_score": 0.5738507253475047}
+{"sent": "man in red and blue coat", "ann_id": 478872, "best_split": [3, 2], "split_score": 0.2519214346443295}
+{"sent": "blue jacket", "ann_id": 478872, "best_split": [3, 2], "split_score": 0.2519214346443295}
+{"sent": "person in blue suite", "ann_id": 478872, "best_split": [3, 2], "split_score": 0.2519214346443295}

@@ -1,0 +1,8 @@
+{"sent": "no hat man with moustach", "ann_id": 542853, "best_split": [1, 5], "split_score": 0.5161937230004819}
+{"sent": "man with mustache", "ann_id": 542853, "best_split": [1, 5], "split_score": 0.5161937230004819}
+{"sent": "blue shirt mustache", "ann_id": 542853, "best_split": [3, 1], "split_score": 0.1798930365631304}
+{"sent": "man reaching in blocking other man", "ann_id": 441652, "best_split": [1, 2], "split_score": 0.44415283672542827}
+{"sent": "man reaching", "ann_id": 441652, "best_split": [1, 2], "split_score": 0.44415283672542827}
+{"sent": "blue shirt white hat man", "ann_id": 432772, "best_split": [1, 3], "split_score": 0.574565037252767}
+{"sent": "man in blue near us", "ann_id": 432772, "best_split": [1, 3], "split_score": 0.574565037252767}
+{"sent": "royal blue shirt making pizza", "ann_id": 432772, "best_split": [1, 3], "split_score": 0.574565037252767}

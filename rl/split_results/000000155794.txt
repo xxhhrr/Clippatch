@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 1267996, "best_split": [1, 5], "split_score": 0.4249427440887679}
+{"sent": "man", "ann_id": 1267996, "best_split": [1, 5], "split_score": 0.4249427440887679}
+{"sent": "dude", "ann_id": 1267996, "best_split": [1, 5], "split_score": 0.4249427440887679}
+{"sent": "lady", "ann_id": 1245687, "best_split": [2, 1], "split_score": 0.20081533455368997}
+{"sent": "purple shirt", "ann_id": 1245687, "best_split": [1, 5], "split_score": 0.5085210577366777}
+{"sent": "woman", "ann_id": 1245687, "best_split": [2, 1], "split_score": 0.20081533455368997}

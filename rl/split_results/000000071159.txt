@@ -1,0 +1,6 @@
+{"sent": "white sauce cup by glass witout fries", "ann_id": 1040670, "best_split": [1, 3], "split_score": 0.1722972972869029}
+{"sent": "white bowl next to flower vase", "ann_id": 1040670, "best_split": [5, 1], "split_score": 0.1761658030925087}
+{"sent": "cup with nuts near flower", "ann_id": 1040670, "best_split": [5, 1], "split_score": 0.1761658030925087}
+{"sent": "bowl of food", "ann_id": 716181, "best_split": [2, 3], "split_score": 0.35984498981732377}
+{"sent": "food in a bowl on plate", "ann_id": 716181, "best_split": [2, 3], "split_score": 0.35984498981732377}
+{"sent": "cup on plate", "ann_id": 716181, "best_split": [3, 2], "split_score": 0.27183293059442243}

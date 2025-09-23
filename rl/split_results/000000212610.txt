@@ -1,0 +1,5 @@
+{"sent": "the gray cylinder in corner", "ann_id": 1510581, "best_split": [1, 5], "split_score": 0.31412337659150535}
+{"sent": "half glass 11pm", "ann_id": 1510581, "best_split": [3, 1], "split_score": 0.18677606176479392}
+{"sent": "glass", "ann_id": 671884, "best_split": [3, 2], "split_score": 0.5085910652374794}
+{"sent": "brown goo", "ann_id": 671884, "best_split": [3, 2], "split_score": 0.5085910652374794}
+{"sent": "cup of sauce", "ann_id": 671884, "best_split": [3, 2], "split_score": 0.5085910652374794}

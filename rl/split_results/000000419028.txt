@@ -1,0 +1,6 @@
+{"sent": "black and orange vase", "ann_id": 1156945, "best_split": [1, 5], "split_score": 0.3473805190740944}
+{"sent": "bkackest vase with orange", "ann_id": 1156945, "best_split": [1, 5], "split_score": 0.3473805190740944}
+{"sent": "black vase with red figure", "ann_id": 1156945, "best_split": [5, 1], "split_score": 0.12688240947397608}
+{"sent": "the most bling cup", "ann_id": 1151457, "best_split": [1, 5], "split_score": 0.41191879498438405}
+{"sent": "goldish vase", "ann_id": 1151457, "best_split": [1, 5], "split_score": 0.41191879498438405}
+{"sent": "not the green one with orange but other one close to us", "ann_id": 1151457, "best_split": [3, 2], "split_score": 0.2734463276578676}

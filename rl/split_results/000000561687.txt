@@ -1,0 +1,9 @@
+{"sent": "carrot salad nearest to the visible purple placemat but still the carrots", "ann_id": 1918919, "best_split": [3, 2], "split_score": 0.4772117962120707}
+{"sent": "the orange food", "ann_id": 1918919, "best_split": [3, 2], "split_score": 0.4772117962120707}
+{"sent": "carrots and celery", "ann_id": 1918919, "best_split": [3, 2], "split_score": 0.4772117962120707}
+{"sent": "green stuff", "ann_id": 714572, "best_split": [2, 3], "split_score": 0.6616989567261385}
+{"sent": "bowl of green", "ann_id": 714572, "best_split": [2, 3], "split_score": 0.6616989567261385}
+{"sent": "greens", "ann_id": 714572, "best_split": [2, 3], "split_score": 0.6616989567261385}
+{"sent": "carrot salad", "ann_id": 713761, "best_split": [1, 2], "split_score": 0.5795574288534129}
+{"sent": "bowl of orange stuff", "ann_id": 713761, "best_split": [1, 2], "split_score": 0.5795574288534129}
+{"sent": "bowl with orange food", "ann_id": 713761, "best_split": [1, 2], "split_score": 0.5795574288534129}

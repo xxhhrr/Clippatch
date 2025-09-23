@@ -1,0 +1,9 @@
+{"sent": "zebra cant see head", "ann_id": 1822488, "best_split": [1, 3], "split_score": 0.41365777078033467}
+{"sent": "zebra head alone", "ann_id": 1822488, "best_split": [1, 3], "split_score": 0.41365777078033467}
+{"sent": "zebra behind the other ones", "ann_id": 1822488, "best_split": [1, 3], "split_score": 0.41365777078033467}
+{"sent": "foreground zebra looking in the background", "ann_id": 593735, "best_split": [3, 2], "split_score": 0.4732302200718895}
+{"sent": "up closer zebra looking in woods", "ann_id": 593735, "best_split": [3, 2], "split_score": 0.4732302200718895}
+{"sent": "zebra looking away", "ann_id": 593735, "best_split": [3, 2], "split_score": 0.4732302200718895}
+{"sent": "zebra side of face visible", "ann_id": 588346, "best_split": [3, 1], "split_score": 0.385137581445278}
+{"sent": "full side of zebra", "ann_id": 588346, "best_split": [3, 1], "split_score": 0.385137581445278}
+{"sent": "zebra closest to our score", "ann_id": 588346, "best_split": [3, 1], "split_score": 0.385137581445278}

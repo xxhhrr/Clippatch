@@ -1,0 +1,6 @@
+{"sent": "guy", "ann_id": 231560, "best_split": [1, 2], "split_score": 0.8954081632296154}
+{"sent": "sunglasses", "ann_id": 231560, "best_split": [1, 2], "split_score": 0.8954081632296154}
+{"sent": "man", "ann_id": 231560, "best_split": [1, 2], "split_score": 0.8954081632296154}
+{"sent": "woman texting on phone", "ann_id": 192341, "best_split": [3, 3], "split_score": 0.3411505311343806}
+{"sent": "female", "ann_id": 192341, "best_split": [3, 3], "split_score": 0.3411505311343806}
+{"sent": "woman with phone", "ann_id": 192341, "best_split": [3, 3], "split_score": 0.3411505311343806}

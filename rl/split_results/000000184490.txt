@@ -1,0 +1,6 @@
+{"sent": "back of chair", "ann_id": 116077, "best_split": [2, 2], "split_score": 0.7928571427993544}
+{"sent": "couch behind mans non ring hand", "ann_id": 116077, "best_split": [2, 2], "split_score": 0.7928571427993544}
+{"sent": "the couch on the side of the wii controller", "ann_id": 116077, "best_split": [2, 2], "split_score": 0.7928571427993544}
+{"sent": "part of chair next to arm seen the most", "ann_id": 115120, "best_split": [3, 2], "split_score": 0.6003430531088826}
+{"sent": "couch under arm", "ann_id": 115120, "best_split": [2, 3], "split_score": 0.6990666969384172}
+{"sent": "armrest of couch", "ann_id": 115120, "best_split": [2, 1], "split_score": 0.26466836733638915}

@@ -1,0 +1,12 @@
+{"sent": "plant", "ann_id": 292652, "best_split": [1, 5], "split_score": 0.712486505873292}
+{"sent": "plant in light", "ann_id": 292652, "best_split": [1, 5], "split_score": 0.712486505873292}
+{"sent": "bright plant", "ann_id": 292652, "best_split": [1, 5], "split_score": 0.712486505873292}
+{"sent": "woman", "ann_id": 232369, "best_split": [1, 5], "split_score": 0.4958677685611729}
+{"sent": "gurl", "ann_id": 232369, "best_split": [1, 5], "split_score": 0.4958677685611729}
+{"sent": "woman", "ann_id": 232369, "best_split": [1, 5], "split_score": 0.4958677685611729}
+{"sent": "guy", "ann_id": 230980, "best_split": [1, 3], "split_score": 0.5109682947510297}
+{"sent": "man with tie", "ann_id": 230980, "best_split": [1, 3], "split_score": 0.5109682947510297}
+{"sent": "the man", "ann_id": 230980, "best_split": [1, 3], "split_score": 0.5109682947510297}
+{"sent": "tree in far back", "ann_id": 1608273, "best_split": [2, 1], "split_score": 0.2924606775449009}
+{"sent": "palm behind girl", "ann_id": 1608273, "best_split": [1, 3], "split_score": 0.34094233178327715}
+{"sent": "plant sprouting above their heads", "ann_id": 1608273, "best_split": [1, 3], "split_score": 0.34094233178327715}

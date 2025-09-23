@@ -1,0 +1,9 @@
+{"sent": "red motorcycle", "ann_id": 245513, "best_split": [1, 5], "split_score": 0.3349980023636638}
+{"sent": "red bike", "ann_id": 245513, "best_split": [1, 5], "split_score": 0.3349980023636638}
+{"sent": "red", "ann_id": 245513, "best_split": [1, 5], "split_score": 0.3349980023636638}
+{"sent": "the blue light motorcycle", "ann_id": 156140, "best_split": [3, 3], "split_score": 0.4971590908586486}
+{"sent": "blue bike", "ann_id": 156140, "best_split": [3, 3], "split_score": 0.4971590908586486}
+{"sent": "bright white bike", "ann_id": 156140, "best_split": [3, 3], "split_score": 0.4971590908586486}
+{"sent": "largest motorcycle wheel", "ann_id": 154391, "best_split": [1, 3], "split_score": 0.8376209096090954}
+{"sent": "very close motorcycle", "ann_id": 154391, "best_split": [1, 3], "split_score": 0.8376209096090954}
+{"sent": "closest motorcycle", "ann_id": 154391, "best_split": [1, 3], "split_score": 0.8376209096090954}

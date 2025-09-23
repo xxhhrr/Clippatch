@@ -1,0 +1,6 @@
+{"sent": "the girl on the phone", "ann_id": 2159969, "best_split": [1, 2], "split_score": 0.8950095662908558}
+{"sent": "woman", "ann_id": 2159969, "best_split": [1, 2], "split_score": 0.8950095662908558}
+{"sent": "woman", "ann_id": 2159969, "best_split": [1, 2], "split_score": 0.8950095662908558}
+{"sent": "man in white tshirt partially visible", "ann_id": 509517, "best_split": [2, 3], "split_score": 0.33290629572356273}
+{"sent": "guy with shave head", "ann_id": 509517, "best_split": [2, 1], "split_score": 0.05648556704313094}
+{"sent": "man with white shirt", "ann_id": 509517, "best_split": [2, 1], "split_score": 0.17190360544846242}

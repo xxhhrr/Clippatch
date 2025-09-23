@@ -1,0 +1,13 @@
+{"sent": "orange closest to biggest orange", "ann_id": 1055015, "best_split": [3, 2], "split_score": 0.4136640149258699}
+{"sent": "far orange", "ann_id": 1055015, "best_split": [3, 2], "split_score": 0.4136640149258699}
+{"sent": "orange at 11", "ann_id": 1055015, "best_split": [3, 2], "split_score": 0.4136640149258699}
+{"sent": "largest fruit", "ann_id": 1054189, "best_split": [2, 3], "split_score": 0.764487714329568}
+{"sent": "largest apple", "ann_id": 1054189, "best_split": [2, 2], "split_score": 0.5119528096466972}
+{"sent": "biggest apple", "ann_id": 1054189, "best_split": [2, 2], "split_score": 0.5119528096466972}
+{"sent": "orange by itself by apple", "ann_id": 1054036, "best_split": [5, 1], "split_score": 0.24052780393585976}
+{"sent": "partially hidden orange", "ann_id": 1054036, "best_split": [5, 1], "split_score": 0.24052780393585976}
+{"sent": "it looks more like an orange and it is between two shinier apples", "ann_id": 1054036, "best_split": [5, 1], "split_score": 0.24052780393585976}
+{"sent": "item for sale with core facing forwards", "ann_id": 1052986, "best_split": [1, 3], "split_score": 0.1754632887534915}
+{"sent": "apple between two oranges", "ann_id": 1052986, "best_split": [2, 3], "split_score": 0.3413966225078279}
+{"sent": "whole apple not near any sides", "ann_id": 1052986, "best_split": [2, 3], "split_score": 0.3413966225078279}
+{"sent": "full visible fruit above the es of the sign", "ann_id": 1052986, "best_split": [2, 2], "split_score": 0.22341075792914036}

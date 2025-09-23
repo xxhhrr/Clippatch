@@ -1,0 +1,6 @@
+{"sent": "man in striped shirt", "ann_id": 1743685, "best_split": [2, 2], "split_score": 0.6467414760117209}
+{"sent": "striped shirt", "ann_id": 1743685, "best_split": [2, 2], "split_score": 0.6467414760117209}
+{"sent": "the strped shirt", "ann_id": 1743685, "best_split": [2, 2], "split_score": 0.6467414760117209}
+{"sent": "dark shirt", "ann_id": 513584, "best_split": [2, 1], "split_score": 0.5478483579076422}
+{"sent": "man wearing balck", "ann_id": 513584, "best_split": [1, 2], "split_score": 0.46199979839577665}
+{"sent": "black shirt", "ann_id": 513584, "best_split": [1, 2], "split_score": 0.46199979839577665}

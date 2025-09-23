@@ -1,0 +1,5 @@
+{"sent": "73", "ann_id": 165311, "best_split": [3, 2], "split_score": 0.4759620625230609}
+{"sent": "bus by 20", "ann_id": 165311, "best_split": [3, 2], "split_score": 0.4759620625230609}
+{"sent": "closest red bus", "ann_id": 165311, "best_split": [3, 2], "split_score": 0.4759620625230609}
+{"sent": "farthest bus", "ann_id": 163315, "best_split": [3, 3], "split_score": 0.3676040905099335}
+{"sent": "red bus without 73", "ann_id": 163315, "best_split": [3, 2], "split_score": 0.18198508316902065}

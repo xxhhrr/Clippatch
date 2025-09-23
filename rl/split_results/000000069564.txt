@@ -1,0 +1,8 @@
+{"sent": "purple upper", "ann_id": 1155415, "best_split": [1, 3], "split_score": 0.625120656332944}
+{"sent": "vase at 900", "ann_id": 1155415, "best_split": [1, 2], "split_score": 0.4130261479427206}
+{"sent": "purple with red closest to wall", "ann_id": 1155415, "best_split": [1, 5], "split_score": 0.45056679577768927}
+{"sent": "colorful vases", "ann_id": 1154356, "best_split": [3, 3], "split_score": 0.39032150030221685}
+{"sent": "vase directly below starfish", "ann_id": 1154356, "best_split": [1, 2], "split_score": 0.44363839283945955}
+{"sent": "largest one pink flowery one", "ann_id": 1153387, "best_split": [1, 3], "split_score": 0.7367122672832074}
+{"sent": "closest", "ann_id": 1153387, "best_split": [1, 2], "split_score": 0.25806040524219254}
+{"sent": "bottle with flower design", "ann_id": 1153387, "best_split": [1, 3], "split_score": 0.7367122672832074}

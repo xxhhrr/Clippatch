@@ -1,0 +1,5 @@
+{"sent": "lower bird", "ann_id": 41736, "best_split": [1, 5], "split_score": 0.5224274405840155}
+{"sent": "penguin with nicer white part", "ann_id": 41736, "best_split": [1, 5], "split_score": 0.5224274405840155}
+{"sent": "most center penguin", "ann_id": 40745, "best_split": [3, 3], "split_score": 0.583732057340782}
+{"sent": "bird looks taller", "ann_id": 40745, "best_split": [3, 3], "split_score": 0.583732057340782}
+{"sent": "bird looking up", "ann_id": 40745, "best_split": [3, 3], "split_score": 0.583732057340782}

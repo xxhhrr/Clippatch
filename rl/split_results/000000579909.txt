@@ -1,0 +1,5 @@
+{"sent": "side of fridge with no water", "ann_id": 1647570, "best_split": [3, 1], "split_score": 0.14856858576506857}
+{"sent": "silver door next to red towel", "ann_id": 1647570, "best_split": [1, 2], "split_score": 0.29104477610832147}
+{"sent": "fridge section with ice maker", "ann_id": 331012, "best_split": [1, 2], "split_score": 0.6762197066056992}
+{"sent": "ice dispenser", "ann_id": 331012, "best_split": [1, 2], "split_score": 0.6762197066056992}
+{"sent": "frig water ice dispenser", "ann_id": 331012, "best_split": [1, 2], "split_score": 0.6762197066056992}

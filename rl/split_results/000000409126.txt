@@ -1,0 +1,6 @@
+{"sent": "red car no lights", "ann_id": 1781930, "best_split": [3, 3], "split_score": 0.7295053613404522}
+{"sent": "1 red car", "ann_id": 1781930, "best_split": [3, 3], "split_score": 0.7295053613404522}
+{"sent": "lead red car", "ann_id": 1781930, "best_split": [3, 3], "split_score": 0.7295053613404522}
+{"sent": "behind red car", "ann_id": 353487, "best_split": [3, 2], "split_score": 0.4395356699606068}
+{"sent": "dark car curvy headlights lights off", "ann_id": 353487, "best_split": [3, 2], "split_score": 0.4395356699606068}
+{"sent": "black car facing you parked", "ann_id": 353487, "best_split": [3, 2], "split_score": 0.4395356699606068}

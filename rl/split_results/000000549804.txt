@@ -1,0 +1,6 @@
+{"sent": "lady with hat", "ann_id": 518231, "best_split": [1, 2], "split_score": 0.605046343953029}
+{"sent": "girl wearing white hat", "ann_id": 518231, "best_split": [1, 2], "split_score": 0.605046343953029}
+{"sent": "player with hat on", "ann_id": 518231, "best_split": [1, 2], "split_score": 0.605046343953029}
+{"sent": "girl without hat", "ann_id": 484466, "best_split": [1, 2], "split_score": 0.5373492224772072}
+{"sent": "the girl without a hat", "ann_id": 484466, "best_split": [1, 2], "split_score": 0.5373492224772072}
+{"sent": "no hat", "ann_id": 484466, "best_split": [2, 1], "split_score": 0.1728802283955739}

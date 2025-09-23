@@ -1,0 +1,6 @@
+{"sent": "dark object at blue jeans heals", "ann_id": 462451, "best_split": [2, 2], "split_score": 0.3788265305820451}
+{"sent": "dark green leg behind jeans", "ann_id": 462451, "best_split": [3, 2], "split_score": 0.3327882256405572}
+{"sent": "black part behind jean leg", "ann_id": 462451, "best_split": [1, 2], "split_score": 0.1894132652985725}
+{"sent": "leg on skateboard", "ann_id": 460538, "best_split": [1, 3], "split_score": 0.46072254563917686}
+{"sent": "leg", "ann_id": 460538, "best_split": [1, 2], "split_score": 0.5919317300024003}
+{"sent": "leg in jeans", "ann_id": 460538, "best_split": [1, 2], "split_score": 0.5919317300024003}

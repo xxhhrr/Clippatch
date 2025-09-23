@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 546170, "best_split": [1, 2], "split_score": 0.8808992346587652}
+{"sent": "dude", "ann_id": 546170, "best_split": [1, 2], "split_score": 0.8808992346587652}
+{"sent": "man with hat", "ann_id": 546170, "best_split": [1, 2], "split_score": 0.8808992346587652}
+{"sent": "woman", "ann_id": 514175, "best_split": [2, 1], "split_score": 0.2656266196676266}
+{"sent": "woman in scout unifor with white neckerchief", "ann_id": 514175, "best_split": [2, 2], "split_score": 0.43579397102477274}
+{"sent": "girl", "ann_id": 514175, "best_split": [1, 2], "split_score": 0.6578858034945385}

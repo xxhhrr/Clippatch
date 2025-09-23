@@ -1,0 +1,9 @@
+{"sent": "adult", "ann_id": 2156546, "best_split": [1, 3], "split_score": 0.3216269192899038}
+{"sent": "tallest person", "ann_id": 2156546, "best_split": [1, 5], "split_score": 0.6326853315382117}
+{"sent": "black jacket", "ann_id": 2156546, "best_split": [1, 5], "split_score": 0.6326853315382117}
+{"sent": "skier in green", "ann_id": 496098, "best_split": [1, 5], "split_score": 0.43485884618316156}
+{"sent": "boy in green", "ann_id": 496098, "best_split": [1, 5], "split_score": 0.43485884618316156}
+{"sent": "kid in green", "ann_id": 496098, "best_split": [1, 5], "split_score": 0.43485884618316156}
+{"sent": "pink pants", "ann_id": 465890, "best_split": [1, 5], "split_score": 0.6869009583978732}
+{"sent": "pale blue jacket", "ann_id": 465890, "best_split": [1, 5], "split_score": 0.6869009583978732}
+{"sent": "woman in blue", "ann_id": 465890, "best_split": [1, 5], "split_score": 0.6869009583978732}

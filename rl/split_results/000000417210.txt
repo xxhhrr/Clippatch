@@ -1,0 +1,6 @@
+{"sent": "the black car behind the man", "ann_id": 2168822, "best_split": [1, 3], "split_score": 0.3611245173527314}
+{"sent": "black car nearest the guy", "ann_id": 2168822, "best_split": [1, 5], "split_score": 0.6073457791591572}
+{"sent": "partial blue car", "ann_id": 2168822, "best_split": [3, 1], "split_score": 0.15536665300310495}
+{"sent": "white car", "ann_id": 350125, "best_split": [1, 3], "split_score": 0.42306000877851274}
+{"sent": "white car", "ann_id": 350125, "best_split": [1, 3], "split_score": 0.42306000877851274}
+{"sent": "white valiant", "ann_id": 350125, "best_split": [1, 3], "split_score": 0.42306000877851274}

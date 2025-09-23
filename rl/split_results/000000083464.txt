@@ -1,0 +1,6 @@
+{"sent": "horse nearest sidewalk", "ann_id": 55350, "best_split": [3, 2], "split_score": 0.3342085521066946}
+{"sent": "horse by car", "ann_id": 55350, "best_split": [3, 2], "split_score": 0.3342085521066946}
+{"sent": "horse close to car", "ann_id": 55350, "best_split": [3, 2], "split_score": 0.3342085521066946}
+{"sent": "the one you can see all of", "ann_id": 53569, "best_split": [1, 2], "split_score": 0.17273935239622562}
+{"sent": "main horse", "ann_id": 53569, "best_split": [2, 3], "split_score": 0.5209450249413043}
+{"sent": "horse leading carriage that you can see all legs", "ann_id": 53569, "best_split": [2, 3], "split_score": 0.5209450249413043}

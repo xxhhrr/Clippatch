@@ -1,0 +1,12 @@
+{"sent": "corner screen", "ann_id": 2133882, "best_split": [5, 1], "split_score": 0.49360795449537254}
+{"sent": "tv in the background", "ann_id": 2133882, "best_split": [5, 1], "split_score": 0.49360795449537254}
+{"sent": "partial tv screen", "ann_id": 2133882, "best_split": [5, 1], "split_score": 0.49360795449537254}
+{"sent": "glasses", "ann_id": 1625617, "best_split": [3, 2], "split_score": 0.5811107180345871}
+{"sent": "screen behind laptop", "ann_id": 1625617, "best_split": [1, 5], "split_score": 0.20945638431304897}
+{"sent": "picture of man", "ann_id": 1625617, "best_split": [1, 2], "split_score": 0.44728280959529454}
+{"sent": "the guy in glasses", "ann_id": 1216801, "best_split": [3, 3], "split_score": 0.7655172412645401}
+{"sent": "picture of a person in sunglasses", "ann_id": 1216801, "best_split": [3, 3], "split_score": 0.7655172412645401}
+{"sent": "sunglasses face", "ann_id": 1216801, "best_split": [3, 3], "split_score": 0.7655172412645401}
+{"sent": "hand", "ann_id": 526035, "best_split": [3, 2], "split_score": 0.9736842104108956}
+{"sent": "hand holding monitor", "ann_id": 526035, "best_split": [3, 2], "split_score": 0.9736842104108956}
+{"sent": "hand", "ann_id": 526035, "best_split": [3, 2], "split_score": 0.9736842104108956}

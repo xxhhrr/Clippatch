@@ -1,0 +1,6 @@
+{"sent": "vintage car edge", "ann_id": 401599, "best_split": [3, 2], "split_score": 0.3189450911384624}
+{"sent": "gray truck", "ann_id": 401599, "best_split": [3, 1], "split_score": 0.17204779104350942}
+{"sent": "gray truck", "ann_id": 401599, "best_split": [3, 1], "split_score": 0.17204779104350942}
+{"sent": "orange truck", "ann_id": 401162, "best_split": [2, 1], "split_score": 0.40710504179884455}
+{"sent": "red truck", "ann_id": 401162, "best_split": [2, 1], "split_score": 0.40710504179884455}
+{"sent": "brown truck", "ann_id": 401162, "best_split": [2, 1], "split_score": 0.40710504179884455}

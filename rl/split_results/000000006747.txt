@@ -1,0 +1,5 @@
+{"sent": "black shirt girl", "ann_id": 473252, "best_split": [2, 2], "split_score": 0.6617516956162082}
+{"sent": "with arms out", "ann_id": 473252, "best_split": [2, 1], "split_score": 0.34380266583637953}
+{"sent": "girl reaching for pizza", "ann_id": 473252, "best_split": [2, 2], "split_score": 0.6617516956162082}
+{"sent": "woman with long hair", "ann_id": 1709024, "best_split": [2, 2], "split_score": 0.8067602040173182}
+{"sent": "girl with pink print shirt", "ann_id": 1709024, "best_split": [2, 2], "split_score": 0.8067602040173182}

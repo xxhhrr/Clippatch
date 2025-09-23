@@ -1,0 +1,13 @@
+{"sent": "guy behind armpit", "ann_id": 236586, "best_split": [1, 5], "split_score": 0.3261802574857311}
+{"sent": "man sitting", "ann_id": 236586, "best_split": [2, 3], "split_score": 0.4521963823872096}
+{"sent": "old man behind girl", "ann_id": 236586, "best_split": [3, 2], "split_score": 0.29942196529319387}
+{"sent": "old lady", "ann_id": 236405, "best_split": [1, 5], "split_score": 0.4787003609676263}
+{"sent": "woman with arms crossed", "ann_id": 236405, "best_split": [2, 2], "split_score": 0.38283062642235854}
+{"sent": "woman sitting", "ann_id": 236405, "best_split": [2, 3], "split_score": 0.5536912751097219}
+{"sent": "boy in striped shirt", "ann_id": 236012, "best_split": [1, 5], "split_score": 0.6175395858171621}
+{"sent": "bored kid striped shirt", "ann_id": 236012, "best_split": [1, 5], "split_score": 0.6175395858171621}
+{"sent": "boy", "ann_id": 236012, "best_split": [1, 5], "split_score": 0.6175395858171621}
+{"sent": "stripes", "ann_id": 236012, "best_split": [1, 5], "split_score": 0.6175395858171621}
+{"sent": "girl with wii remote", "ann_id": 233944, "best_split": [1, 3], "split_score": 0.6842077649168831}
+{"sent": "girl", "ann_id": 233944, "best_split": [1, 3], "split_score": 0.6842077649168831}
+{"sent": "girl", "ann_id": 233944, "best_split": [1, 3], "split_score": 0.6842077649168831}

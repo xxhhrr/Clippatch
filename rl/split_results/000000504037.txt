@@ -1,0 +1,6 @@
+{"sent": "cat face underneath cat", "ann_id": 52023, "best_split": [1, 2], "split_score": 0.2542679095031874}
+{"sent": "cat reflection", "ann_id": 52023, "best_split": [1, 3], "split_score": 0.28171672143032844}
+{"sent": "lowest leftest corner", "ann_id": 52023, "best_split": [1, 2], "split_score": 0.2542679095031874}
+{"sent": "the kitten not the reflection below", "ann_id": 48213, "best_split": [2, 1], "split_score": 0.467765775998459}
+{"sent": "cat", "ann_id": 48213, "best_split": [2, 1], "split_score": 0.467765775998459}
+{"sent": "bigger cat", "ann_id": 48213, "best_split": [2, 1], "split_score": 0.467765775998459}

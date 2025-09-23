@@ -1,0 +1,6 @@
+{"sent": "blue floral shirt", "ann_id": 484618, "best_split": [1, 5], "split_score": 0.8118484195919371}
+{"sent": "arm with gold watch", "ann_id": 484618, "best_split": [1, 5], "split_score": 0.8118484195919371}
+{"sent": "arm with watch on it", "ann_id": 484618, "best_split": [2, 3], "split_score": 0.4123940530490208}
+{"sent": "hand with plate", "ann_id": 484228, "best_split": [1, 5], "split_score": 0.5823863635772741}
+{"sent": "hand with plate", "ann_id": 484228, "best_split": [1, 5], "split_score": 0.5823863635772741}
+{"sent": "hand holding plate", "ann_id": 484228, "best_split": [1, 5], "split_score": 0.5823863635772741}

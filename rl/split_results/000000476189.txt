@@ -1,0 +1,6 @@
+{"sent": "horse in front between other horses", "ann_id": 275299, "best_split": [2, 3], "split_score": 0.4798061388783976}
+{"sent": "the horse in the lead with the lowest head", "ann_id": 275299, "best_split": [2, 3], "split_score": 0.4798061388783976}
+{"sent": "center horse", "ann_id": 275299, "best_split": [2, 3], "split_score": 0.4798061388783976}
+{"sent": "horse near yellow guy", "ann_id": 55437, "best_split": [2, 2], "split_score": 0.2869097429552518}
+{"sent": "horse nearest traffic light", "ann_id": 55437, "best_split": [2, 2], "split_score": 0.2869097429552518}
+{"sent": "horse at 9", "ann_id": 55437, "best_split": [2, 2], "split_score": 0.2869097429552518}

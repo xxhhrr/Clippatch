@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 441032, "best_split": [2, 1], "split_score": 0.481369228014126}
+{"sent": "female", "ann_id": 441032, "best_split": [2, 1], "split_score": 0.481369228014126}
+{"sent": "black dress", "ann_id": 441032, "best_split": [2, 1], "split_score": 0.481369228014126}
+{"sent": "woman holding pink on edge", "ann_id": 1721140, "best_split": [2, 3], "split_score": 0.644351464358117}
+{"sent": "hands with the rest of the person missing", "ann_id": 1721140, "best_split": [3, 3], "split_score": 0.898837410914656}
+{"sent": "hands only visible", "ann_id": 1721140, "best_split": [3, 3], "split_score": 0.898837410914656}

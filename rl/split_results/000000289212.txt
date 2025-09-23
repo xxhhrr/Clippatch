@@ -1,0 +1,6 @@
+{"sent": "blurry car at 7 oclock", "ann_id": 361999, "best_split": [3, 3], "split_score": 0.32775476382307295}
+{"sent": "car behind white van at 9 o clock", "ann_id": 361999, "best_split": [2, 3], "split_score": 0.3061052123182788}
+{"sent": "car after van", "ann_id": 361999, "best_split": [2, 3], "split_score": 0.3061052123182788}
+{"sent": "car both break lights on", "ann_id": 350879, "best_split": [5, 1], "split_score": 0.24817237396612424}
+{"sent": "fully visible car", "ann_id": 350879, "best_split": [5, 1], "split_score": 0.24817237396612424}
+{"sent": "main car", "ann_id": 350879, "best_split": [5, 1], "split_score": 0.24817237396612424}

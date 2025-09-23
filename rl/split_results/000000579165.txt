@@ -1,0 +1,6 @@
+{"sent": "bowl of grits", "ann_id": 1901473, "best_split": [2, 2], "split_score": 0.7426404995066497}
+{"sent": "plate with maybe hummus", "ann_id": 1901473, "best_split": [1, 2], "split_score": 0.5901227678336207}
+{"sent": "bowl with spoon", "ann_id": 1901473, "best_split": [1, 2], "split_score": 0.5901227678336207}
+{"sent": "bowl with broccoli", "ann_id": 1538645, "best_split": [2, 3], "split_score": 0.5288074650690174}
+{"sent": "bowl of broccoli", "ann_id": 1538645, "best_split": [2, 3], "split_score": 0.5288074650690174}
+{"sent": "broccoli", "ann_id": 1538645, "best_split": [2, 3], "split_score": 0.5288074650690174}

@@ -1,0 +1,6 @@
+{"sent": "single laptop by coffee", "ann_id": 1101973, "best_split": [3, 2], "split_score": 0.4401544401013327}
+{"sent": "back computer", "ann_id": 1101973, "best_split": [3, 2], "split_score": 0.4401544401013327}
+{"sent": "laptop with colorful screen", "ann_id": 1101973, "best_split": [3, 2], "split_score": 0.4401544401013327}
+{"sent": "laptop in front of yellow plaid person", "ann_id": 1099760, "best_split": [2, 2], "split_score": 0.3113069015944929}
+{"sent": "laptop with hand on it", "ann_id": 1099760, "best_split": [2, 3], "split_score": 0.7245629761626442}
+{"sent": "the laptop the boy in checkered shirt is using", "ann_id": 1099760, "best_split": [2, 3], "split_score": 0.7245629761626442}

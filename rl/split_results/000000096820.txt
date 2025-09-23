@@ -1,0 +1,6 @@
+{"sent": "bus not woof", "ann_id": 168835, "best_split": [5, 1], "split_score": 0.3611111110812573}
+{"sent": "bus that doesnt say woof", "ann_id": 168835, "best_split": [5, 1], "split_score": 0.3611111110812573}
+{"sent": "pic not changing", "ann_id": 168835, "best_split": [1, 2], "split_score": 0.21208413001101017}
+{"sent": "bus with letters", "ann_id": 164872, "best_split": [3, 2], "split_score": 0.6256110646684617}
+{"sent": "yellow bus that says woof in white", "ann_id": 164872, "best_split": [3, 2], "split_score": 0.6256110646684617}
+{"sent": "smaller yellow bus", "ann_id": 164872, "best_split": [3, 2], "split_score": 0.6256110646684617}

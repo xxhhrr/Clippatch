@@ -1,0 +1,7 @@
+{"sent": "bunch of 6 together towards other food", "ann_id": 1545770, "best_split": [3, 3], "split_score": 0.34279273301381874}
+{"sent": "highest elevated banana banana is on others", "ann_id": 1545770, "best_split": [3, 3], "split_score": 0.34279273301381874}
+{"sent": "banana bunch at 130", "ann_id": 1545770, "best_split": [3, 3], "split_score": 0.34279273301381874}
+{"sent": "bananas at 3 o clock cut off in frame", "ann_id": 1904882, "best_split": [3, 3], "split_score": 0.6430309348899842}
+{"sent": "these bananas are pointing in the same direction", "ann_id": 1045893, "best_split": [2, 3], "split_score": 0.6011235954453126}
+{"sent": "bananas in cropped box", "ann_id": 1045893, "best_split": [2, 3], "split_score": 0.6011235954453126}
+{"sent": "bananas in a box which is half off the screen without any box touching it", "ann_id": 1045893, "best_split": [2, 1], "split_score": 0.22384937237657465}

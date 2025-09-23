@@ -1,0 +1,5 @@
+{"sent": "bike with person", "ann_id": 241859, "best_split": [1, 2], "split_score": 0.4534438775329463}
+{"sent": "yellow bike", "ann_id": 241859, "best_split": [2, 2], "split_score": 0.578773678266862}
+{"sent": "white piece of bike closest to us its cut off on the side", "ann_id": 126667, "best_split": [2, 2], "split_score": 0.47138073975834016}
+{"sent": "bike in corner at 700", "ann_id": 126667, "best_split": [2, 2], "split_score": 0.47138073975834016}
+{"sent": "corner bikes away from people", "ann_id": 126667, "best_split": [2, 2], "split_score": 0.47138073975834016}

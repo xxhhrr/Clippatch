@@ -1,0 +1,12 @@
+{"sent": "truck beside jeep", "ann_id": 1373363, "best_split": [3, 1], "split_score": 0.39966694419235704}
+{"sent": "small truck", "ann_id": 1373363, "best_split": [3, 1], "split_score": 0.39966694419235704}
+{"sent": "pick up truck", "ann_id": 1373363, "best_split": [3, 1], "split_score": 0.39966694419235704}
+{"sent": "clown", "ann_id": 225319, "best_split": [1, 5], "split_score": 0.39213719783450635}
+{"sent": "person on motorbike", "ann_id": 225319, "best_split": [1, 5], "split_score": 0.39213719783450635}
+{"sent": "lion on bike", "ann_id": 225319, "best_split": [1, 5], "split_score": 0.39213719783450635}
+{"sent": "man in white shirt", "ann_id": 202062, "best_split": [1, 5], "split_score": 0.6363636363010268}
+{"sent": "cop", "ann_id": 202062, "best_split": [1, 5], "split_score": 0.6363636363010268}
+{"sent": "man in white shirt", "ann_id": 202062, "best_split": [1, 5], "split_score": 0.6363636363010268}
+{"sent": "truck behind open door", "ann_id": 2053476, "best_split": [3, 2], "split_score": 0.3734679163277919}
+{"sent": "jeep", "ann_id": 2053476, "best_split": [1, 5], "split_score": 0.38208290824612046}
+{"sent": "car with black squares", "ann_id": 2053476, "best_split": [3, 2], "split_score": 0.3734679163277919}

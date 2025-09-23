@@ -1,0 +1,6 @@
+{"sent": "chocolate ckae", "ann_id": 1090263, "best_split": [3, 3], "split_score": 0.49189025307080636}
+{"sent": "blueberry pie", "ann_id": 1090263, "best_split": [3, 2], "split_score": 0.3448825592151257}
+{"sent": "black pie", "ann_id": 1090263, "best_split": [2, 3], "split_score": 0.3619631901450906}
+{"sent": "white cheese cake", "ann_id": 1089338, "best_split": [3, 3], "split_score": 0.5269477798761592}
+{"sent": "cheesecake with cherries on it", "ann_id": 1089338, "best_split": [3, 3], "split_score": 0.5269477798761592}
+{"sent": "cheesecake with cherries", "ann_id": 1089338, "best_split": [3, 3], "split_score": 0.5269477798761592}

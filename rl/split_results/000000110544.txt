@@ -1,0 +1,6 @@
+{"sent": "light blue shirt", "ann_id": 496026, "best_split": [2, 3], "split_score": 0.6777963271311953}
+{"sent": "white shirt", "ann_id": 496026, "best_split": [2, 3], "split_score": 0.6777963271311953}
+{"sent": "girl in light colored hoodie", "ann_id": 496026, "best_split": [2, 3], "split_score": 0.6777963271311953}
+{"sent": "woman feeding the animal", "ann_id": 484334, "best_split": [1, 2], "split_score": 0.0690630048445343}
+{"sent": "green", "ann_id": 484334, "best_split": [2, 2], "split_score": 0.458298631739542}
+{"sent": "green shirt", "ann_id": 484334, "best_split": [2, 2], "split_score": 0.458298631739542}

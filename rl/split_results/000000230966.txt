@@ -1,0 +1,9 @@
+{"sent": "vase by correct rounds that is almost out of shot", "ann_id": 1153514, "best_split": [2, 3], "split_score": 0.48141891886083266}
+{"sent": "green on edge of image", "ann_id": 1153514, "best_split": [3, 3], "split_score": 0.4888329662647321}
+{"sent": "middle sized green vase mostly cut off", "ann_id": 1153514, "best_split": [3, 3], "split_score": 0.4888329662647321}
+{"sent": "small vase", "ann_id": 1153426, "best_split": [3, 1], "split_score": 0.10964756140487507}
+{"sent": "smaller vase", "ann_id": 1153426, "best_split": [3, 1], "split_score": 0.10964756140487507}
+{"sent": "smallest vase", "ann_id": 1153426, "best_split": [3, 1], "split_score": 0.10964756140487507}
+{"sent": "larger vase", "ann_id": 1152615, "best_split": [2, 1], "split_score": 0.39971499820924555}
+{"sent": "large vase", "ann_id": 1152615, "best_split": [2, 1], "split_score": 0.39971499820924555}
+{"sent": "large jar", "ann_id": 1152615, "best_split": [2, 1], "split_score": 0.39971499820924555}

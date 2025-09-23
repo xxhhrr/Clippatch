@@ -1,0 +1,12 @@
+{"sent": "sitting on couch", "ann_id": 229857, "best_split": [2, 2], "split_score": 0.4091544917307154}
+{"sent": "lady seated in distance", "ann_id": 229857, "best_split": [2, 1], "split_score": 0.20718558160683198}
+{"sent": "reclining on the couch wearing glasses woman", "ann_id": 229857, "best_split": [3, 2], "split_score": 0.3247732696587329}
+{"sent": "lighting candles", "ann_id": 228593, "best_split": [1, 3], "split_score": 0.28496424992971003}
+{"sent": "the woman lighting the candles", "ann_id": 228593, "best_split": [1, 2], "split_score": 0.6684794510304227}
+{"sent": "white shirt woman", "ann_id": 228593, "best_split": [1, 2], "split_score": 0.6684794510304227}
+{"sent": "purple little girl not guy", "ann_id": 224696, "best_split": [2, 3], "split_score": 0.5342738588768238}
+{"sent": "happy girl", "ann_id": 224696, "best_split": [2, 3], "split_score": 0.5342738588768238}
+{"sent": "birthday kid", "ann_id": 224696, "best_split": [2, 3], "split_score": 0.5342738588768238}
+{"sent": "blue shirt", "ann_id": 190429, "best_split": [2, 3], "split_score": 0.4551158300609175}
+{"sent": "boy in blue", "ann_id": 190429, "best_split": [2, 3], "split_score": 0.4551158300609175}
+{"sent": "little boy in blue", "ann_id": 190429, "best_split": [2, 3], "split_score": 0.4551158300609175}

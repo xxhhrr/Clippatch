@@ -1,0 +1,6 @@
+{"sent": "shortest giraffe", "ann_id": 600018, "best_split": [2, 2], "split_score": 0.6065980843912381}
+{"sent": "shorter head", "ann_id": 600018, "best_split": [1, 2], "split_score": 0.5831473214053273}
+{"sent": "shorter animal", "ann_id": 600018, "best_split": [2, 2], "split_score": 0.6065980843912381}
+{"sent": "tallest giraffee", "ann_id": 595374, "best_split": [1, 2], "split_score": 0.5401253997295564}
+{"sent": "tallest giraffe", "ann_id": 595374, "best_split": [1, 2], "split_score": 0.5401253997295564}
+{"sent": "taller giraffe", "ann_id": 595374, "best_split": [1, 2], "split_score": 0.5401253997295564}

@@ -1,0 +1,13 @@
+{"sent": "person in dark shirt next to lady in skirt", "ann_id": 1326095, "best_split": [2, 2], "split_score": 0.20292738381391734}
+{"sent": "woman next to guy with hat", "ann_id": 1326095, "best_split": [3, 2], "split_score": 0.24768655244657545}
+{"sent": "lady getting kissed", "ann_id": 1326095, "best_split": [2, 2], "split_score": 0.20292738381391734}
+{"sent": "jean shirt guy", "ann_id": 1316853, "best_split": [1, 5], "split_score": 0.35264483624031623}
+{"sent": "guy with beard and blue shirt", "ann_id": 1316853, "best_split": [1, 5], "split_score": 0.35264483624031623}
+{"sent": "guy in shorts", "ann_id": 1316853, "best_split": [1, 5], "split_score": 0.35264483624031623}
+{"sent": "blue shirt", "ann_id": 1316853, "best_split": [1, 5], "split_score": 0.35264483624031623}
+{"sent": "scarf lady", "ann_id": 1316662, "best_split": [1, 5], "split_score": 0.5030438311177918}
+{"sent": "woman with white and blue skirt", "ann_id": 1316662, "best_split": [1, 5], "split_score": 0.5030438311177918}
+{"sent": "flower skirt", "ann_id": 1316662, "best_split": [1, 5], "split_score": 0.5030438311177918}
+{"sent": "brown shirt bald head", "ann_id": 1716323, "best_split": [2, 1], "split_score": 0.10770330786483637}
+{"sent": "man in the tan shirt and blue jeans", "ann_id": 1716323, "best_split": [2, 1], "split_score": 0.10770330786483637}
+{"sent": "tan shirt man", "ann_id": 1716323, "best_split": [2, 1], "split_score": 0.10770330786483637}

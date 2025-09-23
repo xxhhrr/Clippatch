@@ -1,0 +1,11 @@
+{"sent": "beans", "ann_id": 1038222, "best_split": [3, 2], "split_score": 0.5233415232956}
+{"sent": "potatoes and beans", "ann_id": 1038222, "best_split": [3, 2], "split_score": 0.5233415232956}
+{"sent": "beans", "ann_id": 1038222, "best_split": [3, 2], "split_score": 0.5233415232956}
+{"sent": "carrots", "ann_id": 717406, "best_split": [2, 3], "split_score": 0.5621139326833892}
+{"sent": "carrots", "ann_id": 717406, "best_split": [2, 3], "split_score": 0.5621139326833892}
+{"sent": "carrots", "ann_id": 717406, "best_split": [2, 3], "split_score": 0.5621139326833892}
+{"sent": "green", "ann_id": 715394, "best_split": [3, 2], "split_score": 0.5320412628530758}
+{"sent": "greens", "ann_id": 715394, "best_split": [3, 2], "split_score": 0.5320412628530758}
+{"sent": "bowl with windmill cookies", "ann_id": 714549, "best_split": [3, 3], "split_score": 0.5485990078363588}
+{"sent": "windmill", "ann_id": 714549, "best_split": [3, 3], "split_score": 0.5485990078363588}
+{"sent": "the plate with the wind mill cookies", "ann_id": 714549, "best_split": [3, 3], "split_score": 0.5485990078363588}

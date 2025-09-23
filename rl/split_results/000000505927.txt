@@ -1,0 +1,5 @@
+{"sent": "gray bag with orangy straps", "ann_id": 2175840, "best_split": [3, 3], "split_score": 0.5812469316672808}
+{"sent": "blue long suitcase orange stripe", "ann_id": 2175840, "best_split": [3, 1], "split_score": 0.23288403300083818}
+{"sent": "green luggage next to the brown paper bag", "ann_id": 2175840, "best_split": [3, 3], "split_score": 0.5812469316672808}
+{"sent": "black bag near between gray bags", "ann_id": 1169124, "best_split": [3, 1], "split_score": 0.19909554066065055}
+{"sent": "small black tote", "ann_id": 1169124, "best_split": [2, 1], "split_score": 0.07549925157622944}

@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 505564, "best_split": [1, 5], "split_score": 0.4277597402163393}
+{"sent": "lady brown pants blue bag", "ann_id": 505564, "best_split": [1, 5], "split_score": 0.4277597402163393}
+{"sent": "woman", "ann_id": 505564, "best_split": [1, 5], "split_score": 0.4277597402163393}
+{"sent": "man in blue", "ann_id": 483955, "best_split": [2, 3], "split_score": 0.47066554017922974}
+{"sent": "person in blue", "ann_id": 483955, "best_split": [2, 3], "split_score": 0.47066554017922974}
+{"sent": "dark man with blue jacket", "ann_id": 483955, "best_split": [2, 3], "split_score": 0.47066554017922974}

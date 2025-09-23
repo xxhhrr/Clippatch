@@ -1,0 +1,12 @@
+{"sent": "lady", "ann_id": 1706338, "best_split": [1, 2], "split_score": 0.6789700254831406}
+{"sent": "woman in black tank", "ann_id": 1706338, "best_split": [1, 2], "split_score": 0.6789700254831406}
+{"sent": "woman with black tank", "ann_id": 1706338, "best_split": [1, 2], "split_score": 0.6789700254831406}
+{"sent": "glass with bear on it", "ann_id": 664956, "best_split": [1, 5], "split_score": 0.38989441926942925}
+{"sent": "glass toy is on", "ann_id": 664956, "best_split": [1, 5], "split_score": 0.38989441926942925}
+{"sent": "wine glass with less in it", "ann_id": 664956, "best_split": [1, 5], "split_score": 0.38989441926942925}
+{"sent": "has more red wine in it", "ann_id": 662194, "best_split": [2, 3], "split_score": 0.8156370655386538}
+{"sent": "glass that has more wine in it", "ann_id": 662194, "best_split": [2, 3], "split_score": 0.8156370655386538}
+{"sent": "wine glass with some still in iy", "ann_id": 662194, "best_split": [2, 3], "split_score": 0.8156370655386538}
+{"sent": "person in black not facing camera", "ann_id": 217124, "best_split": [5, 1], "split_score": 0.24453813719389247}
+{"sent": "person that not the woman", "ann_id": 217124, "best_split": [5, 1], "split_score": 0.24453813719389247}
+{"sent": "man in black shirt no showing face", "ann_id": 217124, "best_split": [3, 3], "split_score": 0.5719503286026387}

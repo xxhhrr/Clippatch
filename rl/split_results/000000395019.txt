@@ -1,0 +1,6 @@
+{"sent": "extremely partial sheep", "ann_id": 63497, "best_split": [3, 1], "split_score": 0.11246200607292325}
+{"sent": "number 3 sheep only partially seen", "ann_id": 63497, "best_split": [3, 1], "split_score": 0.11246200607292325}
+{"sent": "lamb part cut off mostly", "ann_id": 63497, "best_split": [3, 1], "split_score": 0.11246200607292325}
+{"sent": "sheep", "ann_id": 62134, "best_split": [1, 2], "split_score": 0.5597826086810257}
+{"sent": "head of sheep", "ann_id": 62134, "best_split": [1, 2], "split_score": 0.5597826086810257}
+{"sent": "face of animal", "ann_id": 62134, "best_split": [1, 2], "split_score": 0.5597826086810257}

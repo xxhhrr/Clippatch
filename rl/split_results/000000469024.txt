@@ -1,0 +1,6 @@
+{"sent": "main blond women", "ann_id": 497575, "best_split": [2, 3], "split_score": 0.29390611329634503}
+{"sent": "white haired", "ann_id": 497575, "best_split": [3, 2], "split_score": 0.24269579013883172}
+{"sent": "girl", "ann_id": 497575, "best_split": [3, 2], "split_score": 0.24269579013883172}
+{"sent": "man", "ann_id": 489742, "best_split": [1, 2], "split_score": 0.17976721938058962}
+{"sent": "man in black coat", "ann_id": 489742, "best_split": [3, 2], "split_score": 0.3331249999652995}
+{"sent": "closest man dark hair", "ann_id": 489742, "best_split": [2, 2], "split_score": 0.33338545736251873}

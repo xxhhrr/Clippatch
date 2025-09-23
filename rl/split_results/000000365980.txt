@@ -1,0 +1,12 @@
+{"sent": "blue vase hidden by green vase", "ann_id": 1671535, "best_split": [3, 3], "split_score": 0.1880320162383392}
+{"sent": "purple vase next to green vase no flowers on it", "ann_id": 1671535, "best_split": [3, 3], "split_score": 0.1880320162383392}
+{"sent": "not the closest purple vase but the next one", "ann_id": 1671535, "best_split": [3, 3], "split_score": 0.1880320162383392}
+{"sent": "green vase", "ann_id": 1671382, "best_split": [1, 5], "split_score": 0.4600767753877085}
+{"sent": "green vare", "ann_id": 1671382, "best_split": [1, 5], "split_score": 0.4600767753877085}
+{"sent": "green vase", "ann_id": 1671382, "best_split": [1, 5], "split_score": 0.4600767753877085}
+{"sent": "blue vase with yellow flowers", "ann_id": 1670382, "best_split": [1, 5], "split_score": 0.5265993265550001}
+{"sent": "yellow flower", "ann_id": 1670382, "best_split": [1, 5], "split_score": 0.5265993265550001}
+{"sent": "purple with yellow flowers", "ann_id": 1670382, "best_split": [1, 5], "split_score": 0.5265993265550001}
+{"sent": "closest red vase", "ann_id": 1669187, "best_split": [1, 3], "split_score": 0.6505780001995842}
+{"sent": "closest red vase", "ann_id": 1669187, "best_split": [1, 3], "split_score": 0.6505780001995842}
+{"sent": "red vase closest", "ann_id": 1669187, "best_split": [1, 3], "split_score": 0.6505780001995842}

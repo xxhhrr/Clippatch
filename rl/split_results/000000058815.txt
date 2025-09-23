@@ -1,0 +1,15 @@
+{"sent": "man with blue and black stripes", "ann_id": 1733361, "best_split": [1, 5], "split_score": 0.3733624453834932}
+{"sent": "striped blue shirt", "ann_id": 1733361, "best_split": [1, 5], "split_score": 0.3733624453834932}
+{"sent": "kid blue striped shirt", "ann_id": 1733361, "best_split": [1, 5], "split_score": 0.3733624453834932}
+{"sent": "child in white", "ann_id": 536443, "best_split": [3, 3], "split_score": 0.33830200901842156}
+{"sent": "shortest person", "ann_id": 536443, "best_split": [3, 3], "split_score": 0.33830200901842156}
+{"sent": "kid white shirt", "ann_id": 536443, "best_split": [2, 3], "split_score": 0.33590733586680654}
+{"sent": "woman with child", "ann_id": 529712, "best_split": [1, 3], "split_score": 0.4960334028931683}
+{"sent": "person near kid", "ann_id": 529712, "best_split": [1, 3], "split_score": 0.4960334028931683}
+{"sent": "white shirt mom", "ann_id": 529712, "best_split": [1, 5], "split_score": 0.7615849562734736}
+{"sent": "adult guy", "ann_id": 485488, "best_split": [1, 3], "split_score": 0.43677606174971184}
+{"sent": "glasses man", "ann_id": 485488, "best_split": [1, 5], "split_score": 0.4213501828715206}
+{"sent": "man in checked shirt", "ann_id": 485488, "best_split": [1, 3], "split_score": 0.43677606174971184}
+{"sent": "person with hair in a bun and glasses", "ann_id": 430254, "best_split": [1, 3], "split_score": 0.5907335906979528}
+{"sent": "woman with black shirt", "ann_id": 430254, "best_split": [1, 5], "split_score": 0.8410794601910533}
+{"sent": "woman in black shirt", "ann_id": 430254, "best_split": [1, 5], "split_score": 0.8410794601910533}

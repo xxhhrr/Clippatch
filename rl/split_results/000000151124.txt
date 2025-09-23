@@ -1,0 +1,6 @@
+{"sent": "person closest to railing", "ann_id": 506464, "best_split": [1, 2], "split_score": 0.4341004183938247}
+{"sent": "person furthest from you", "ann_id": 506464, "best_split": [1, 2], "split_score": 0.4341004183938247}
+{"sent": "red shirt", "ann_id": 506464, "best_split": [1, 2], "split_score": 0.4341004183938247}
+{"sent": "blue", "ann_id": 424765, "best_split": [1, 2], "split_score": 0.7226511461882784}
+{"sent": "person in blue", "ann_id": 424765, "best_split": [1, 2], "split_score": 0.7226511461882784}
+{"sent": "blue", "ann_id": 424765, "best_split": [1, 2], "split_score": 0.7226511461882784}

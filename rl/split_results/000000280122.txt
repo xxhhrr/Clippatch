@@ -1,0 +1,9 @@
+{"sent": "girl with white blouse", "ann_id": 487119, "best_split": [1, 5], "split_score": 0.7797888385388585}
+{"sent": "woman in white shirt", "ann_id": 487119, "best_split": [1, 5], "split_score": 0.7797888385388585}
+{"sent": "woman", "ann_id": 487119, "best_split": [1, 5], "split_score": 0.7797888385388585}
+{"sent": "man leaning over equipment striped shirt", "ann_id": 475550, "best_split": [1, 3], "split_score": 0.6283783783404694}
+{"sent": "boy with red stripe shirt", "ann_id": 475550, "best_split": [1, 3], "split_score": 0.6283783783404694}
+{"sent": "standing man arm out", "ann_id": 475550, "best_split": [1, 3], "split_score": 0.6283783783404694}
+{"sent": "dark blue striped shirt", "ann_id": 424691, "best_split": [1, 5], "split_score": 0.4145966940281278}
+{"sent": "stripes", "ann_id": 424691, "best_split": [1, 5], "split_score": 0.4145966940281278}
+{"sent": "blue and white striped shirt", "ann_id": 424691, "best_split": [2, 2], "split_score": 0.2902749454827175}

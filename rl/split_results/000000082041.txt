@@ -1,0 +1,9 @@
+{"sent": "number 2 carrot", "ann_id": 1917086, "best_split": [2, 3], "split_score": 0.3998563734003694}
+{"sent": "the carrot in between", "ann_id": 1917086, "best_split": [2, 3], "split_score": 0.3998563734003694}
+{"sent": "carrrot 2", "ann_id": 1917086, "best_split": [2, 3], "split_score": 0.3998563734003694}
+{"sent": "carrot with tip touching egg", "ann_id": 1565375, "best_split": [3, 2], "split_score": 0.4657699602978298}
+{"sent": "carrot with tip closest to egg yolk", "ann_id": 1565375, "best_split": [3, 2], "split_score": 0.4657699602978298}
+{"sent": "the fake carrot that is touching fake egg", "ann_id": 1565375, "best_split": [3, 2], "split_score": 0.4657699602978298}
+{"sent": "carrot near banana", "ann_id": 1063314, "best_split": [3, 3], "split_score": 0.46980953661085917}
+{"sent": "carrot next to banana", "ann_id": 1063314, "best_split": [3, 3], "split_score": 0.46980953661085917}
+{"sent": "carrot between a carrot and a banana", "ann_id": 1063314, "best_split": [3, 3], "split_score": 0.46980953661085917}

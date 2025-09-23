@@ -1,0 +1,5 @@
+{"sent": "close slice", "ann_id": 1923425, "best_split": [3, 2], "split_score": 0.7117850952589441}
+{"sent": "closest pizza", "ann_id": 1923425, "best_split": [3, 2], "split_score": 0.7117850952589441}
+{"sent": "close piece", "ann_id": 1923425, "best_split": [3, 2], "split_score": 0.7117850952589441}
+{"sent": "the piece with no pepperonis on the side", "ann_id": 1570367, "best_split": [5, 1], "split_score": 0.24928446124556508}
+{"sent": "pizza closest with no red sauce showing", "ann_id": 1570367, "best_split": [5, 1], "split_score": 0.24928446124556508}

@@ -1,0 +1,6 @@
+{"sent": "outside of cell", "ann_id": 533582, "best_split": [2, 1], "split_score": 0.274505252153836}
+{"sent": "not in jail", "ann_id": 533582, "best_split": [2, 1], "split_score": 0.274505252153836}
+{"sent": "boy in white", "ann_id": 533582, "best_split": [2, 1], "split_score": 0.2713326386398248}
+{"sent": "person behind bars", "ann_id": 533119, "best_split": [3, 3], "split_score": 0.47214550990647125}
+{"sent": "guy in cage", "ann_id": 533119, "best_split": [3, 3], "split_score": 0.47214550990647125}
+{"sent": "caged girl", "ann_id": 533119, "best_split": [3, 1], "split_score": 0.2295264108036884}

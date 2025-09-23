@@ -1,0 +1,9 @@
+{"sent": "gray suv", "ann_id": 139311, "best_split": [3, 2], "split_score": 0.4308079898838575}
+{"sent": "lots of traffic car second", "ann_id": 139311, "best_split": [3, 2], "split_score": 0.4308079898838575}
+{"sent": "silver suv", "ann_id": 139311, "best_split": [3, 2], "split_score": 0.4308079898838575}
+{"sent": "white car partial", "ann_id": 139090, "best_split": [1, 5], "split_score": 0.2985998376320414}
+{"sent": "white car", "ann_id": 139090, "best_split": [1, 5], "split_score": 0.2985998376320414}
+{"sent": "white car", "ann_id": 139090, "best_split": [1, 5], "split_score": 0.2985998376320414}
+{"sent": "silver car by man with sign", "ann_id": 134299, "best_split": [3, 1], "split_score": 0.28767817903613285}
+{"sent": "the car closest to the cop and the sign", "ann_id": 134299, "best_split": [3, 2], "split_score": 0.5396892505507146}
+{"sent": "car next to man with white hat", "ann_id": 134299, "best_split": [2, 3], "split_score": 0.3370353372797581}

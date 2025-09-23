@@ -1,0 +1,14 @@
+{"sent": "sony remote", "ann_id": 1113385, "best_split": [2, 3], "split_score": 0.3601977556022759}
+{"sent": "sony cd", "ann_id": 1113385, "best_split": [2, 1], "split_score": 0.15536675354042018}
+{"sent": "remote one", "ann_id": 1113385, "best_split": [2, 3], "split_score": 0.3601977556022759}
+{"sent": "in between sony remote and curvy remote", "ann_id": 1113267, "best_split": [2, 2], "split_score": 0.26833631483079884}
+{"sent": "remote facing sideways", "ann_id": 1113267, "best_split": [1, 3], "split_score": 0.3039965057706925}
+{"sent": "third remote", "ann_id": 1112333, "best_split": [2, 1], "split_score": 0.1746010638239827}
+{"sent": "has green button dead ahead", "ann_id": 1112333, "best_split": [1, 5], "split_score": 0.7582225331737034}
+{"sent": "remove with green buttons", "ann_id": 1112333, "best_split": [1, 5], "split_score": 0.7582225331737034}
+{"sent": "remote next to the lightest colored remote", "ann_id": 1111869, "best_split": [1, 5], "split_score": 0.7587613572446911}
+{"sent": "skinniest remote with more buttons", "ann_id": 1111869, "best_split": [1, 5], "split_score": 0.7587613572446911}
+{"sent": "between curved remote and white one", "ann_id": 1111869, "best_split": [1, 2], "split_score": 0.3632812499855197}
+{"sent": "lightest remote", "ann_id": 1111085, "best_split": [1, 3], "split_score": 0.7128547578873805}
+{"sent": "silver remote", "ann_id": 1111085, "best_split": [1, 3], "split_score": 0.7128547578873805}
+{"sent": "silver one", "ann_id": 1111085, "best_split": [1, 3], "split_score": 0.7128547578873805}

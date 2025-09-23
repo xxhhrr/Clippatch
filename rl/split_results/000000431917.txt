@@ -1,0 +1,9 @@
+{"sent": "the soda glass not fully visible", "ann_id": 676465, "best_split": [2, 3], "split_score": 0.3417903302606761}
+{"sent": "cola off to side", "ann_id": 676465, "best_split": [5, 1], "split_score": 0.17376928727279856}
+{"sent": "soda glass more full away from hand", "ann_id": 676465, "best_split": [5, 1], "split_score": 0.17376928727279856}
+{"sent": "close drink", "ann_id": 668630, "best_split": [2, 3], "split_score": 0.4512548262003795}
+{"sent": "soda by the girls elbow", "ann_id": 668630, "best_split": [2, 3], "split_score": 0.4512548262003795}
+{"sent": "coke near napkin", "ann_id": 668630, "best_split": [2, 3], "split_score": 0.4512548262003795}
+{"sent": "kid in pink cap", "ann_id": 491331, "best_split": [2, 1], "split_score": 0.5293410839954099}
+{"sent": "girl", "ann_id": 491331, "best_split": [2, 1], "split_score": 0.5293410839954099}
+{"sent": "girl in red hat", "ann_id": 491331, "best_split": [2, 1], "split_score": 0.5293410839954099}

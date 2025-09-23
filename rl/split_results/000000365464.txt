@@ -1,0 +1,5 @@
+{"sent": "zebra with butt facing camera", "ann_id": 593261, "best_split": [1, 5], "split_score": 0.4589707927221368}
+{"sent": "zebra getting cut off by edge of photo", "ann_id": 593261, "best_split": [1, 5], "split_score": 0.4589707927221368}
+{"sent": "zebra looking at you", "ann_id": 592305, "best_split": [3, 2], "split_score": 0.45713331659928763}
+{"sent": "zebra looking at us", "ann_id": 592305, "best_split": [3, 2], "split_score": 0.45713331659928763}
+{"sent": "zebra near us", "ann_id": 592305, "best_split": [3, 2], "split_score": 0.45713331659928763}

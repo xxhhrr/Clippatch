@@ -1,0 +1,6 @@
+{"sent": "train without blue boxes", "ann_id": 171024, "best_split": [1, 3], "split_score": 0.399754697954367}
+{"sent": "train without wings", "ann_id": 171024, "best_split": [1, 3], "split_score": 0.399754697954367}
+{"sent": "no eagle train", "ann_id": 171024, "best_split": [1, 3], "split_score": 0.399754697954367}
+{"sent": "closest train", "ann_id": 170796, "best_split": [1, 2], "split_score": 0.48450969318710674}
+{"sent": "train with blue wings", "ann_id": 170796, "best_split": [1, 2], "split_score": 0.48450969318710674}
+{"sent": "one with wings on it", "ann_id": 170796, "best_split": [1, 2], "split_score": 0.48450969318710674}

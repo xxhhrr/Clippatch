@@ -1,0 +1,6 @@
+{"sent": "cloest giraffe", "ann_id": 600998, "best_split": [2, 3], "split_score": 0.3876898480827648}
+{"sent": "jiraf by fence", "ann_id": 600998, "best_split": [1, 5], "split_score": 0.39042821155177865}
+{"sent": "giraffe alone by fence", "ann_id": 600998, "best_split": [1, 5], "split_score": 0.39042821155177865}
+{"sent": "tallest", "ann_id": 595297, "best_split": [1, 5], "split_score": 0.5278003246217735}
+{"sent": "tallest", "ann_id": 595297, "best_split": [1, 5], "split_score": 0.5278003246217735}
+{"sent": "tallest giraffe", "ann_id": 595297, "best_split": [1, 5], "split_score": 0.5278003246217735}

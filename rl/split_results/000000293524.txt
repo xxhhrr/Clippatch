@@ -1,0 +1,6 @@
+{"sent": "waiter", "ann_id": 1321530, "best_split": [1, 3], "split_score": 0.20988175674409495}
+{"sent": "the waiter closest to us", "ann_id": 1321530, "best_split": [1, 2], "split_score": 0.1386718749944726}
+{"sent": "waiter looking down at table looking this way", "ann_id": 1321530, "best_split": [2, 1], "split_score": 0.021015761820614896}
+{"sent": "man in red", "ann_id": 1216632, "best_split": [2, 3], "split_score": 0.6631721338447557}
+{"sent": "red shirt old man", "ann_id": 1216632, "best_split": [2, 3], "split_score": 0.6631721338447557}
+{"sent": "red shirt old man", "ann_id": 1216632, "best_split": [2, 3], "split_score": 0.6631721338447557}

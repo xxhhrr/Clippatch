@@ -1,0 +1,6 @@
+{"sent": "bag or oranges", "ann_id": 1054617, "best_split": [2, 2], "split_score": 0.40178571425368415}
+{"sent": "bag of oranges", "ann_id": 1054617, "best_split": [2, 2], "split_score": 0.40178571425368415}
+{"sent": "bag of oranges", "ann_id": 1054617, "best_split": [2, 2], "split_score": 0.40178571425368415}
+{"sent": "orange outside of bag", "ann_id": 1053703, "best_split": [3, 3], "split_score": 0.7469452805477341}
+{"sent": "oranges out of bag", "ann_id": 1053703, "best_split": [3, 3], "split_score": 0.7469452805477341}
+{"sent": "oranges", "ann_id": 1053703, "best_split": [3, 3], "split_score": 0.7469452805477341}

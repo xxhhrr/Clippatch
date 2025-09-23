@@ -1,0 +1,5 @@
+{"sent": "gray with yellow writing", "ann_id": 2205105, "best_split": [2, 3], "split_score": 0.34924741294105743}
+{"sent": "gray shirt yellow writing", "ann_id": 2205105, "best_split": [2, 3], "split_score": 0.34924741294105743}
+{"sent": "number 1 guy in line", "ann_id": 2205105, "best_split": [2, 1], "split_score": 0.11737274738707822}
+{"sent": "man holding yellow thing", "ann_id": 528563, "best_split": [2, 3], "split_score": 0.5722990390705063}
+{"sent": "number 3 person", "ann_id": 528563, "best_split": [2, 3], "split_score": 0.5722990390705063}

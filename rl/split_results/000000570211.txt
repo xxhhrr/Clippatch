@@ -1,0 +1,6 @@
+{"sent": "man not holding the bag", "ann_id": 214354, "best_split": [3, 1], "split_score": 0.22928375845837715}
+{"sent": "legs with no dog", "ann_id": 214354, "best_split": [2, 1], "split_score": 0.22788018432523385}
+{"sent": "without dog between legs", "ann_id": 214354, "best_split": [2, 1], "split_score": 0.22788018432523385}
+{"sent": "blue jeans around dog", "ann_id": 199280, "best_split": [1, 2], "split_score": 0.6782781786272961}
+{"sent": "with the dog", "ann_id": 199280, "best_split": [1, 2], "split_score": 0.6782781786272961}
+{"sent": "boy with dog", "ann_id": 199280, "best_split": [1, 2], "split_score": 0.6782781786272961}

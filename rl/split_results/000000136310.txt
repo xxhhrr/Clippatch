@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 466842, "best_split": [1, 2], "split_score": 0.49097472922239954}
+{"sent": "man in plaid shirt", "ann_id": 466842, "best_split": [3, 2], "split_score": 0.5880644914351597}
+{"sent": "man", "ann_id": 466842, "best_split": [1, 2], "split_score": 0.49097472922239954}
+{"sent": "woman with glasses", "ann_id": 421923, "best_split": [1, 2], "split_score": 0.6895727040541465}
+{"sent": "woman", "ann_id": 421923, "best_split": [1, 2], "split_score": 0.6895727040541465}
+{"sent": "old woman", "ann_id": 421923, "best_split": [1, 2], "split_score": 0.6895727040541465}

@@ -1,0 +1,9 @@
+{"sent": "head down animal", "ann_id": 64214, "best_split": [1, 3], "split_score": 0.37432293297039604}
+{"sent": "goat that has the other goat head on it", "ann_id": 64214, "best_split": [1, 3], "split_score": 0.37432293297039604}
+{"sent": "sleeping lamb", "ann_id": 64214, "best_split": [1, 3], "split_score": 0.37432293297039604}
+{"sent": "curled up head on other", "ann_id": 63109, "best_split": [1, 3], "split_score": 0.23304542545453272}
+{"sent": "lamp with nose resting on closest lamb", "ann_id": 63109, "best_split": [3, 1], "split_score": 0.38116993637995294}
+{"sent": "sheep with one ear up", "ann_id": 63109, "best_split": [3, 2], "split_score": 0.5334602828799333}
+{"sent": "the goats face that is staring straight at us", "ann_id": 61593, "best_split": [2, 2], "split_score": 0.5160534864005398}
+{"sent": "animal that is looking towards camera", "ann_id": 61593, "best_split": [2, 2], "split_score": 0.5160534864005398}
+{"sent": "sheep looking at camera", "ann_id": 61593, "best_split": [2, 2], "split_score": 0.5160534864005398}

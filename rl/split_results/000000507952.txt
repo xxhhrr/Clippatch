@@ -1,0 +1,12 @@
+{"sent": "cutting board", "ann_id": 120903, "best_split": [2, 1], "split_score": 0.879982461699618}
+{"sent": "lol cutting board", "ann_id": 120903, "best_split": [2, 1], "split_score": 0.879982461699618}
+{"sent": "cutting board", "ann_id": 120903, "best_split": [2, 1], "split_score": 0.879982461699618}
+{"sent": "table cloth", "ann_id": 120384, "best_split": [3, 3], "split_score": 0.8357753356477754}
+{"sent": "table cloth", "ann_id": 120384, "best_split": [3, 3], "split_score": 0.8357753356477754}
+{"sent": "tablecloth", "ann_id": 120384, "best_split": [3, 3], "split_score": 0.8357753356477754}
+{"sent": "leaves over piece without olives", "ann_id": 1923862, "best_split": [2, 2], "split_score": 0.40624999996761396}
+{"sent": "half pie", "ann_id": 1923862, "best_split": [2, 1], "split_score": 0.2031249999919035}
+{"sent": "half pizza closest to tablecloth", "ann_id": 1923862, "best_split": [2, 2], "split_score": 0.40624999996761396}
+{"sent": "close slice fewer leaves", "ann_id": 1074235, "best_split": [3, 3], "split_score": 0.37125321147998097}
+{"sent": "pizza slice not completely covered isn greens has black olive", "ann_id": 1074235, "best_split": [3, 2], "split_score": 0.38744274378422044}
+{"sent": "olives", "ann_id": 1074235, "best_split": [3, 2], "split_score": 0.38744274378422044}

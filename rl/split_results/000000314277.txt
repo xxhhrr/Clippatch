@@ -1,0 +1,4 @@
+{"sent": "brightest pink one", "ann_id": 1425437, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "light pink big umbrella", "ann_id": 1425437, "best_split": [2, 3], "split_score": 0.5484959792962875}
+{"sent": "brightest pink umbrella", "ann_id": 1425437, "best_split": [2, 1], "split_score": 0.2913743622332839}
+{"sent": "all red closest", "ann_id": 1424170, "best_split": [1, 2], "split_score": 0.35101946245169063}

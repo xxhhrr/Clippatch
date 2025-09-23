@@ -1,0 +1,6 @@
+{"sent": "yellow liquid", "ann_id": 678901, "best_split": [1, 5], "split_score": 0.5758928570844264}
+{"sent": "water", "ann_id": 678901, "best_split": [1, 5], "split_score": 0.5758928570844264}
+{"sent": "water", "ann_id": 678901, "best_split": [1, 5], "split_score": 0.5758928570844264}
+{"sent": "tea with lemon", "ann_id": 675798, "best_split": [1, 5], "split_score": 0.4784401949307799}
+{"sent": "tea", "ann_id": 675798, "best_split": [1, 5], "split_score": 0.4784401949307799}
+{"sent": "glass with lemon", "ann_id": 675798, "best_split": [2, 2], "split_score": 0.4480702854998376}

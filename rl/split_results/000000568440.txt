@@ -1,0 +1,6 @@
+{"sent": "banana in corner poking toward us", "ann_id": 1546005, "best_split": [1, 2], "split_score": 0.22122130101159035}
+{"sent": "fruit at 7 o clock", "ann_id": 1546005, "best_split": [1, 3], "split_score": 0.0033557046978344046}
+{"sent": "the group of three bananas", "ann_id": 1546005, "best_split": [1, 3], "split_score": 0.0033557046978344046}
+{"sent": "huge bunch of bananas", "ann_id": 1544652, "best_split": [2, 1], "split_score": 0.6930361354930418}
+{"sent": "bunch of bananas", "ann_id": 1544652, "best_split": [2, 1], "split_score": 0.6930361354930418}
+{"sent": "bundle above", "ann_id": 1544652, "best_split": [2, 1], "split_score": 0.6930361354930418}

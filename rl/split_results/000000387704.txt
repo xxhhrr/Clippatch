@@ -1,0 +1,6 @@
+{"sent": "trunk all the way", "ann_id": 2175203, "best_split": [2, 1], "split_score": 0.735779250780955}
+{"sent": "this elephant is waving", "ann_id": 2175203, "best_split": [2, 1], "split_score": 0.735779250780955}
+{"sent": "elephant with trunk curved upward", "ann_id": 2175203, "best_split": [2, 1], "split_score": 0.735779250780955}
+{"sent": "elephant with woman", "ann_id": 585106, "best_split": [3, 2], "split_score": 0.6130773844771238}
+{"sent": "elephant woman riding", "ann_id": 585106, "best_split": [3, 2], "split_score": 0.6130773844771238}
+{"sent": "elephant girl is riding", "ann_id": 585106, "best_split": [3, 2], "split_score": 0.6130773844771238}

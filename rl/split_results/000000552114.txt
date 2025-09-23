@@ -1,0 +1,8 @@
+{"sent": "apples", "ann_id": 1540234, "best_split": [2, 2], "split_score": 0.8071556628882098}
+{"sent": "apple slices", "ann_id": 1540234, "best_split": [2, 2], "split_score": 0.8071556628882098}
+{"sent": "sliced apples", "ann_id": 1540234, "best_split": [2, 2], "split_score": 0.8071556628882098}
+{"sent": "purple", "ann_id": 1539091, "best_split": [3, 3], "split_score": 0.7894904457341575}
+{"sent": "purple square", "ann_id": 1539091, "best_split": [3, 3], "split_score": 0.7894904457341575}
+{"sent": "section of the tray that has a rice type food in it", "ann_id": 1534641, "best_split": [2, 2], "split_score": 0.7407525509613558}
+{"sent": "rice and bean mixture", "ann_id": 1534641, "best_split": [2, 2], "split_score": 0.7407525509613558}
+{"sent": "tray in back with beans tomatoes rice", "ann_id": 1534641, "best_split": [2, 2], "split_score": 0.7407525509613558}

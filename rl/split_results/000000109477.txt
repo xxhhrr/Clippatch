@@ -1,0 +1,15 @@
+{"sent": "man in peach shirt", "ann_id": 1189063, "best_split": [1, 5], "split_score": 0.5743709415001652}
+{"sent": "white shirt out of focus", "ann_id": 515726, "best_split": [1, 2], "split_score": 0.7114588766923505}
+{"sent": "blurry man in white", "ann_id": 515726, "best_split": [1, 2], "split_score": 0.7114588766923505}
+{"sent": "green sleeves", "ann_id": 507960, "best_split": [3, 1], "split_score": 0.45988175672901294}
+{"sent": "green shirt", "ann_id": 507960, "best_split": [3, 1], "split_score": 0.45988175672901294}
+{"sent": "green arm", "ann_id": 507960, "best_split": [3, 1], "split_score": 0.45988175672901294}
+{"sent": "blue shirt with phone", "ann_id": 475340, "best_split": [2, 1], "split_score": 0.31674208143676674}
+{"sent": "man holding up cell phone in blue shirt", "ann_id": 475340, "best_split": [2, 1], "split_score": 0.31674208143676674}
+{"sent": "has phone to face", "ann_id": 475340, "best_split": [2, 1], "split_score": 0.31674208143676674}
+{"sent": "white shirt hand up", "ann_id": 453183, "best_split": [1, 3], "split_score": 0.4202461389707863}
+{"sent": "man in white short sleeved shirt", "ann_id": 453183, "best_split": [1, 3], "split_score": 0.4202461389707863}
+{"sent": "guy in background in white tshirt", "ann_id": 453183, "best_split": [2, 3], "split_score": 0.6569628502436494}
+{"sent": "blurred man face only little showing", "ann_id": 1713358, "best_split": [1, 5], "split_score": 0.5042620438172337}
+{"sent": "guy out of focus in dark shirt", "ann_id": 1713358, "best_split": [3, 1], "split_score": 0.10986835592844361}
+{"sent": "guy closest cut off", "ann_id": 1713358, "best_split": [1, 2], "split_score": 0.233179209174379}

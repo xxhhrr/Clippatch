@@ -1,0 +1,11 @@
+{"sent": "bottomest rightest player", "ann_id": 1692589, "best_split": [3, 2], "split_score": 0.2844552784282341}
+{"sent": "guy with glove in lap", "ann_id": 1692589, "best_split": [3, 3], "split_score": 0.3862999744860835}
+{"sent": "one whose feet are further back than others", "ann_id": 1692589, "best_split": [1, 2], "split_score": 0.21572066325670755}
+{"sent": "row nearest the ground with open glove on lap", "ann_id": 1683131, "best_split": [3, 3], "split_score": 0.18894903480860492}
+{"sent": "fourth person", "ann_id": 1683131, "best_split": [1, 5], "split_score": 0.539888504369484}
+{"sent": "row closest camera man number 2", "ann_id": 1266291, "best_split": [3, 2], "split_score": 0.28316326528032404}
+{"sent": "number 2 guy", "ann_id": 1266291, "best_split": [1, 5], "split_score": 0.46499438408227306}
+{"sent": "look over from 900 count 1 2 in sitted row closest to us", "ann_id": 1266291, "best_split": [3, 2], "split_score": 0.28316326528032404}
+{"sent": "person closest to low corner", "ann_id": 1232607, "best_split": [3, 1], "split_score": 0.195786379216277}
+{"sent": "man edge glove dangling between legs", "ann_id": 1232607, "best_split": [1, 2], "split_score": 0.3121014030487842}
+{"sent": "man edge row one holding glove near knee", "ann_id": 1232607, "best_split": [1, 2], "split_score": 0.3121014030487842}

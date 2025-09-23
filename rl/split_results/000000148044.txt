@@ -1,0 +1,11 @@
+{"sent": "4ound vase", "ann_id": 1156596, "best_split": [2, 1], "split_score": 0.11479591836277121}
+{"sent": "the vase with the pink roses in it", "ann_id": 1156596, "best_split": [2, 3], "split_score": 0.2795600366315811}
+{"sent": "black vase", "ann_id": 1156596, "best_split": [2, 1], "split_score": 0.11479591836277121}
+{"sent": "tall vase", "ann_id": 1155675, "best_split": [1, 5], "split_score": 0.23178488818120807}
+{"sent": "tall vase", "ann_id": 1155675, "best_split": [1, 5], "split_score": 0.23178488818120807}
+{"sent": "flower vase", "ann_id": 1155675, "best_split": [1, 5], "split_score": 0.23178488818120807}
+{"sent": "vase", "ann_id": 26283, "best_split": [1, 2], "split_score": 0.6549744897698113}
+{"sent": "blue flowers", "ann_id": 26283, "best_split": [1, 2], "split_score": 0.6549744897698113}
+{"sent": "shorter flower vase", "ann_id": 22594, "best_split": [2, 1], "split_score": 0.45703124998178285}
+{"sent": "lower flowers roses", "ann_id": 22594, "best_split": [2, 3], "split_score": 0.5172043010355449}
+{"sent": "roses", "ann_id": 22594, "best_split": [2, 3], "split_score": 0.5172043010355449}

@@ -1,0 +1,6 @@
+{"sent": "chair by striped blanket", "ann_id": 1605196, "best_split": [3, 1], "split_score": 0.46178744827298523}
+{"sent": "cream section of sofa closest to us", "ann_id": 1605196, "best_split": [2, 1], "split_score": 0.31134406886514093}
+{"sent": "light green cusion at edge", "ann_id": 1605196, "best_split": [3, 2], "split_score": 0.9176891005458381}
+{"sent": "gray couch", "ann_id": 99739, "best_split": [3, 2], "split_score": 0.8196202530835027}
+{"sent": "large loveseat", "ann_id": 99739, "best_split": [3, 2], "split_score": 0.8196202530835027}
+{"sent": "couch farthest away", "ann_id": 99739, "best_split": [3, 2], "split_score": 0.8196202530835027}

@@ -1,0 +1,7 @@
+{"sent": "arm holding glass", "ann_id": 204275, "best_split": [2, 2], "split_score": 0.670938104408188}
+{"sent": "arm of person out of picture", "ann_id": 204275, "best_split": [1, 2], "split_score": 0.6018813775270296}
+{"sent": "blurry person", "ann_id": 203649, "best_split": [3, 1], "split_score": 0.17973062485207933}
+{"sent": "blurry woman", "ann_id": 203649, "best_split": [3, 1], "split_score": 0.17973062485207933}
+{"sent": "man pouring wine", "ann_id": 199811, "best_split": [2, 1], "split_score": 0.38314969761182033}
+{"sent": "man that is pouring", "ann_id": 199811, "best_split": [2, 1], "split_score": 0.38314969761182033}
+{"sent": "man pouring", "ann_id": 199811, "best_split": [2, 1], "split_score": 0.38314969761182033}

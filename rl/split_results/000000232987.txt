@@ -1,0 +1,5 @@
+{"sent": "zebras behind", "ann_id": 592824, "best_split": [2, 3], "split_score": 0.6222222221682099}
+{"sent": "we can only see the rear end", "ann_id": 592824, "best_split": [1, 3], "split_score": 0.6118546844758691}
+{"sent": "the jumping zebra", "ann_id": 589474, "best_split": [1, 3], "split_score": 0.42456393252343766}
+{"sent": "baby zebra", "ann_id": 589474, "best_split": [1, 3], "split_score": 0.42456393252343766}
+{"sent": "zebra bucking", "ann_id": 589474, "best_split": [2, 1], "split_score": 0.4039216636675573}

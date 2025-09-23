@@ -1,0 +1,9 @@
+{"sent": "man in red shirt black pants seated", "ann_id": 1285785, "best_split": [2, 3], "split_score": 0.42681612411868763}
+{"sent": "guy wearing red shirt", "ann_id": 1285785, "best_split": [2, 3], "split_score": 0.42681612411868763}
+{"sent": "red sitting", "ann_id": 1285785, "best_split": [2, 3], "split_score": 0.42681612411868763}
+{"sent": "man in blue with white helmet holding board", "ann_id": 1207197, "best_split": [2, 2], "split_score": 0.34486803516533227}
+{"sent": "seated person blue shirt white helmet", "ann_id": 1207197, "best_split": [2, 2], "split_score": 0.34486803516533227}
+{"sent": "blue shirt of guy wear gray helmet holding his skateboard on his lap", "ann_id": 1207197, "best_split": [2, 3], "split_score": 0.385523210032895}
+{"sent": "guy sitting in blue shirt with green helmet beside sidways board", "ann_id": 1314002, "best_split": [1, 5], "split_score": 0.42643391517106904}
+{"sent": "guy with green helmet", "ann_id": 1314002, "best_split": [1, 5], "split_score": 0.42643391517106904}
+{"sent": "green helmet", "ann_id": 1314002, "best_split": [1, 5], "split_score": 0.42643391517106904}

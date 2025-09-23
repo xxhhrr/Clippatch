@@ -1,0 +1,9 @@
+{"sent": "red chair", "ann_id": 1951758, "best_split": [2, 3], "split_score": 0.7908396945702465}
+{"sent": "back of red chair", "ann_id": 1951758, "best_split": [2, 3], "split_score": 0.7908396945702465}
+{"sent": "red couch next to light pole", "ann_id": 1951758, "best_split": [2, 3], "split_score": 0.7908396945702465}
+{"sent": "the couch facing you", "ann_id": 1951564, "best_split": [3, 2], "split_score": 0.3192567567182364}
+{"sent": "far away red couch", "ann_id": 1951564, "best_split": [3, 1], "split_score": 0.1596283783687483}
+{"sent": "red couch nearest window", "ann_id": 1951564, "best_split": [5, 1], "split_score": 0.23684210523972674}
+{"sent": "white couch", "ann_id": 112680, "best_split": [2, 2], "split_score": 0.9127072703354028}
+{"sent": "light colored couch", "ann_id": 112680, "best_split": [2, 2], "split_score": 0.9127072703354028}
+{"sent": "tan couch", "ann_id": 112680, "best_split": [2, 1], "split_score": 0.4563536351858915}

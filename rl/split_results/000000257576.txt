@@ -1,0 +1,5 @@
+{"sent": "orange cat", "ann_id": 50298, "best_split": [3, 2], "split_score": 0.5240471868734066}
+{"sent": "brown cat", "ann_id": 50298, "best_split": [3, 2], "split_score": 0.5240471868734066}
+{"sent": "tan cat", "ann_id": 50298, "best_split": [3, 2], "split_score": 0.5240471868734066}
+{"sent": "cat in the bathroom sink", "ann_id": 50039, "best_split": [2, 3], "split_score": 0.48509967798279785}
+{"sent": "black pussy", "ann_id": 50039, "best_split": [2, 2], "split_score": 0.626670011878149}

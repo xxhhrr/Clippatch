@@ -1,0 +1,6 @@
+{"sent": "standing", "ann_id": 465917, "best_split": [2, 1], "split_score": 0.492195024067171}
+{"sent": "person in black shirt", "ann_id": 465917, "best_split": [1, 2], "split_score": 0.5056382224819185}
+{"sent": "mom", "ann_id": 465917, "best_split": [1, 2], "split_score": 0.5056382224819185}
+{"sent": "child", "ann_id": 428050, "best_split": [2, 2], "split_score": 0.5087719297942015}
+{"sent": "the child", "ann_id": 428050, "best_split": [2, 2], "split_score": 0.5087719297942015}
+{"sent": "little girl", "ann_id": 428050, "best_split": [2, 2], "split_score": 0.5087719297942015}

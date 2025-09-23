@@ -1,0 +1,7 @@
+{"sent": "sheep facing away", "ann_id": 65733, "best_split": [3, 2], "split_score": 0.4632164242447373}
+{"sent": "west most sheep", "ann_id": 65733, "best_split": [3, 2], "split_score": 0.4632164242447373}
+{"sent": "shortest black face", "ann_id": 65500, "best_split": [2, 2], "split_score": 0.18415178569960525}
+{"sent": "black faced sheep", "ann_id": 65500, "best_split": [2, 2], "split_score": 0.18415178569960525}
+{"sent": "all black face", "ann_id": 65500, "best_split": [5, 1], "split_score": 0.1648793565525776}
+{"sent": "closest sheep", "ann_id": 63359, "best_split": [2, 3], "split_score": 0.5227110156900294}
+{"sent": "main animal", "ann_id": 63359, "best_split": [2, 3], "split_score": 0.5227110156900294}

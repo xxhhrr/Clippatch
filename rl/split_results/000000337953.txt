@@ -1,0 +1,9 @@
+{"sent": "wamn in blue", "ann_id": 518473, "best_split": [1, 3], "split_score": 0.7493734335392426}
+{"sent": "woman in light blue", "ann_id": 518473, "best_split": [1, 3], "split_score": 0.7493734335392426}
+{"sent": "lady in blue", "ann_id": 518473, "best_split": [1, 3], "split_score": 0.7493734335392426}
+{"sent": "man with hat", "ann_id": 517834, "best_split": [1, 5], "split_score": 0.5748358568554981}
+{"sent": "cowboy hat", "ann_id": 517834, "best_split": [1, 5], "split_score": 0.5748358568554981}
+{"sent": "white shirt", "ann_id": 517834, "best_split": [3, 1], "split_score": 0.20681945219967982}
+{"sent": "black shirt", "ann_id": 496978, "best_split": [1, 2], "split_score": 0.29881030580618895}
+{"sent": "women with black shirt", "ann_id": 496978, "best_split": [1, 3], "split_score": 0.5043333333053148}
+{"sent": "woman with black shirt", "ann_id": 496978, "best_split": [3, 3], "split_score": 0.3092428711644344}

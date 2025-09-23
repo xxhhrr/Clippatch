@@ -1,0 +1,9 @@
+{"sent": "purple bag", "ann_id": 1447514, "best_split": [2, 3], "split_score": 0.2970059879883825}
+{"sent": "purple suitcase", "ann_id": 1447514, "best_split": [2, 3], "split_score": 0.2970059879883825}
+{"sent": "pinkish suitcae", "ann_id": 1447514, "best_split": [2, 3], "split_score": 0.2970059879883825}
+{"sent": "red luggage", "ann_id": 1447333, "best_split": [3, 2], "split_score": 0.5492368805614429}
+{"sent": "case dark red", "ann_id": 1447333, "best_split": [3, 2], "split_score": 0.5492368805614429}
+{"sent": "red luggage", "ann_id": 1447333, "best_split": [3, 2], "split_score": 0.5492368805614429}
+{"sent": "blue suitcase next to red one", "ann_id": 1447233, "best_split": [5, 1], "split_score": 0.26812187355451367}
+{"sent": "blue case closest to camera", "ann_id": 1447233, "best_split": [5, 1], "split_score": 0.26812187355451367}
+{"sent": "blue suitcase next to red", "ann_id": 1447233, "best_split": [5, 1], "split_score": 0.26812187355451367}

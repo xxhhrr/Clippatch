@@ -1,0 +1,5 @@
+{"sent": "piece that does not have veggies on it", "ann_id": 311761, "best_split": [2, 1], "split_score": 0.20667251274686413}
+{"sent": "sandwich by glassgr", "ann_id": 311761, "best_split": [2, 2], "split_score": 0.41334502547725244}
+{"sent": "the bread that is a triangle but in the rear part", "ann_id": 311761, "best_split": [2, 2], "split_score": 0.41334502547725244}
+{"sent": "sandwich with greens on it", "ann_id": 310763, "best_split": [3, 3], "split_score": 0.5951086955818633}
+{"sent": "slice with innards facing us", "ann_id": 310763, "best_split": [3, 3], "split_score": 0.5951086955818633}

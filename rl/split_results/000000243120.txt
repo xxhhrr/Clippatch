@@ -1,0 +1,11 @@
+{"sent": "short giraffe with head not visible", "ann_id": 1823731, "best_split": [2, 2], "split_score": 0.27880956003358126}
+{"sent": "girafee half out of picture", "ann_id": 1823731, "best_split": [2, 2], "split_score": 0.27880956003358126}
+{"sent": "partial giraffe no head edge", "ann_id": 1823731, "best_split": [2, 2], "split_score": 0.27880956003358126}
+{"sent": "giraffe butt closest to us", "ann_id": 1823728, "best_split": [2, 2], "split_score": 0.3966287334292683}
+{"sent": "closest giraffe", "ann_id": 1823728, "best_split": [1, 2], "split_score": 0.7330546324817574}
+{"sent": "giraffe looking away", "ann_id": 1823728, "best_split": [1, 2], "split_score": 0.7330546324817574}
+{"sent": "darker neck", "ann_id": 1823713, "best_split": [1, 3], "split_score": 0.5759162303350831}
+{"sent": "the giraffe is brown", "ann_id": 1823713, "best_split": [1, 3], "split_score": 0.5759162303350831}
+{"sent": "staring at the camera no horns", "ann_id": 599512, "best_split": [1, 2], "split_score": 0.7298808467693718}
+{"sent": "closest giraffe looking at you", "ann_id": 599512, "best_split": [2, 1], "split_score": 0.39719073126955307}
+{"sent": "the one almost out of pic", "ann_id": 596319, "best_split": [2, 1], "split_score": 0.14148226202523773}

@@ -1,0 +1,6 @@
+{"sent": "pizza by green can", "ann_id": 1075674, "best_split": [1, 2], "split_score": 0.16775599127887658}
+{"sent": "further pizza", "ann_id": 1075674, "best_split": [1, 2], "split_score": 0.16775599127887658}
+{"sent": "not this one but", "ann_id": 1075674, "best_split": [1, 2], "split_score": 0.16775599127887658}
+{"sent": "dish closest to orange juice", "ann_id": 1071126, "best_split": [3, 1], "split_score": 0.38013036314088783}
+{"sent": "pizza closest to us", "ann_id": 1071126, "best_split": [2, 1], "split_score": 0.6159923060858696}
+{"sent": "closest delicious food", "ann_id": 1071126, "best_split": [2, 1], "split_score": 0.6159923060858696}

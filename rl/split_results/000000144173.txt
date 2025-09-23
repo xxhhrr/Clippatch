@@ -1,0 +1,6 @@
+{"sent": "red nose", "ann_id": 1995867, "best_split": [2, 2], "split_score": 0.7482828796267945}
+{"sent": "big red nose", "ann_id": 1995867, "best_split": [2, 2], "split_score": 0.7482828796267945}
+{"sent": "white bear", "ann_id": 1995867, "best_split": [2, 1], "split_score": 0.4162303664774222}
+{"sent": "brown teddy bear", "ann_id": 1159966, "best_split": [2, 3], "split_score": 0.4322798211565932}
+{"sent": "teddy", "ann_id": 1159966, "best_split": [2, 3], "split_score": 0.4322798211565932}
+{"sent": "brown teddy", "ann_id": 1159966, "best_split": [2, 3], "split_score": 0.4322798211565932}

@@ -1,0 +1,5 @@
+{"sent": "darker outside elephant", "ann_id": 2175012, "best_split": [5, 1], "split_score": 0.21508133662832907}
+{"sent": "middle size elephant", "ann_id": 2175012, "best_split": [5, 1], "split_score": 0.21508133662832907}
+{"sent": "closest to camera", "ann_id": 584720, "best_split": [3, 2], "split_score": 0.4046312307041101}
+{"sent": "most visable", "ann_id": 584720, "best_split": [2, 1], "split_score": 0.2513842355756874}
+{"sent": "dad", "ann_id": 584720, "best_split": [3, 3], "split_score": 0.3449999999707627}

@@ -1,0 +1,6 @@
+{"sent": "bright brown horse", "ann_id": 59392, "best_split": [2, 3], "split_score": 0.6099718535776063}
+{"sent": "brown horse", "ann_id": 59392, "best_split": [2, 3], "split_score": 0.6099718535776063}
+{"sent": "brown horse", "ann_id": 59392, "best_split": [2, 3], "split_score": 0.6099718535776063}
+{"sent": "leading horse", "ann_id": 53653, "best_split": [2, 1], "split_score": 0.3419521149731691}
+{"sent": "number 6 horse", "ann_id": 53653, "best_split": [2, 1], "split_score": 0.3419521149731691}
+{"sent": "gray horse in the lead", "ann_id": 53653, "best_split": [2, 3], "split_score": 0.5582179623217769}

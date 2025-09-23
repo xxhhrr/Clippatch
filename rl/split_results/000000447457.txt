@@ -1,0 +1,15 @@
+{"sent": "light shirt blue jeans", "ann_id": 1741827, "best_split": [1, 5], "split_score": 0.6114877588878072}
+{"sent": "stripy shirt", "ann_id": 1741827, "best_split": [1, 5], "split_score": 0.6114877588878072}
+{"sent": "man with glasses on head", "ann_id": 1741827, "best_split": [5, 1], "split_score": 0.10827613002795777}
+{"sent": "guy in white shirt", "ann_id": 1733926, "best_split": [1, 5], "split_score": 0.5920344455949536}
+{"sent": "man in white", "ann_id": 1733926, "best_split": [1, 5], "split_score": 0.5920344455949536}
+{"sent": "man with khaki pants", "ann_id": 1733926, "best_split": [1, 5], "split_score": 0.5920344455949536}
+{"sent": "yellow shirt", "ann_id": 2162808, "best_split": [3, 3], "split_score": 0.2742492012429074}
+{"sent": "yellow shrit", "ann_id": 2162808, "best_split": [1, 5], "split_score": 0.36989308892994527}
+{"sent": "yellow shirt black pants", "ann_id": 2162808, "best_split": [2, 3], "split_score": 0.31269254463825297}
+{"sent": "guy with the black shirt", "ann_id": 568787, "best_split": [1, 3], "split_score": 0.32758517809370574}
+{"sent": "guy on ri ght", "ann_id": 568787, "best_split": [1, 3], "split_score": 0.32758517809370574}
+{"sent": "black shirt white letters", "ann_id": 568787, "best_split": [1, 5], "split_score": 0.49245555016891346}
+{"sent": "black sweater blue jeans", "ann_id": 565155, "best_split": [2, 3], "split_score": 0.3390348197627162}
+{"sent": "lady black shirt and blue jeans", "ann_id": 565155, "best_split": [2, 3], "split_score": 0.3390348197627162}
+{"sent": "woman in black shirt", "ann_id": 565155, "best_split": [1, 3], "split_score": 0.3312302838930132}

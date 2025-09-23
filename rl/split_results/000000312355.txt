@@ -1,0 +1,19 @@
+{"sent": "terry teachout hurry up please", "ann_id": 1150855, "best_split": [3, 1], "split_score": 0.09307707787819093}
+{"sent": "the skeptic terry teachout", "ann_id": 1150855, "best_split": [1, 5], "split_score": 0.5225243505963347}
+{"sent": "terry teachout", "ann_id": 1150855, "best_split": [1, 5], "split_score": 0.5225243505963347}
+{"sent": "book mark twain", "ann_id": 1150736, "best_split": [1, 5], "split_score": 0.320616883084353}
+{"sent": "mark twain", "ann_id": 1150736, "best_split": [1, 5], "split_score": 0.320616883084353}
+{"sent": "the complete short stories of mon", "ann_id": 1150736, "best_split": [1, 5], "split_score": 0.320616883084353}
+{"sent": "requiem", "ann_id": 1150569, "best_split": [2, 1], "split_score": 0.04928457869447783}
+{"sent": "orange book", "ann_id": 1150569, "best_split": [1, 5], "split_score": 0.2670454545183598}
+{"sent": "book with orange side", "ann_id": 1150569, "best_split": [1, 5], "split_score": 0.2670454545183598}
+{"sent": "book farthest from the clock", "ann_id": 1149531, "best_split": [3, 1], "split_score": 0.10096518267214284}
+{"sent": "book on the end", "ann_id": 1149531, "best_split": [1, 3], "split_score": 0.29924265011036777}
+{"sent": "ambrose", "ann_id": 1149531, "best_split": [1, 5], "split_score": 0.4438907522334556}
+{"sent": "richardbook", "ann_id": 1147154, "best_split": [1, 5], "split_score": 0.2219453761167278}
+{"sent": "book with richard as author", "ann_id": 1147154, "best_split": [1, 5], "split_score": 0.2219453761167278}
+{"sent": "dawkins", "ann_id": 1147154, "best_split": [1, 5], "split_score": 0.2219453761167278}
+{"sent": "richard dawkins book by thick yellow one", "ann_id": 1147154, "best_split": [1, 5], "split_score": 0.2219453761167278}
+{"sent": "pandolfini", "ann_id": 1147050, "best_split": [1, 5], "split_score": 0.216517857120889}
+{"sent": "tallest thin book", "ann_id": 1147050, "best_split": [1, 2], "split_score": 0.08506058673130339}
+{"sent": "pandolfini", "ann_id": 1147050, "best_split": [1, 5], "split_score": 0.216517857120889}

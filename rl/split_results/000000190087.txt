@@ -1,0 +1,13 @@
+{"sent": "man in blue sitting", "ann_id": 1300412, "best_split": [2, 3], "split_score": 0.23804698293523288}
+{"sent": "the smiling man with the drink", "ann_id": 1300412, "best_split": [3, 2], "split_score": 0.336150328063616}
+{"sent": "blue shirt looking at the camera", "ann_id": 1300412, "best_split": [3, 2], "split_score": 0.336150328063616}
+{"sent": "blue shit", "ann_id": 1300412, "best_split": [2, 1], "split_score": 0.05893682588391452}
+{"sent": "big woman at table", "ann_id": 1297272, "best_split": [2, 1], "split_score": 0.1580636733416167}
+{"sent": "fat woman", "ann_id": 1297272, "best_split": [3, 1], "split_score": 0.19568796132995125}
+{"sent": "gray blouse", "ann_id": 1297272, "best_split": [2, 2], "split_score": 0.2972138395468304}
+{"sent": "pirple shirt girl", "ann_id": 1266184, "best_split": [3, 1], "split_score": 0.4457831325061433}
+{"sent": "purple7", "ann_id": 1266184, "best_split": [3, 2], "split_score": 0.7662929887168637}
+{"sent": "the girl in purple", "ann_id": 1266184, "best_split": [3, 2], "split_score": 0.7662929887168637}
+{"sent": "woman in black jacket standing up", "ann_id": 1244814, "best_split": [1, 5], "split_score": 0.34151785710820637}
+{"sent": "woman in black not at table", "ann_id": 1244814, "best_split": [1, 5], "split_score": 0.34151785710820637}
+{"sent": "standing woman dark clothes", "ann_id": 1244814, "best_split": [1, 5], "split_score": 0.34151785710820637}

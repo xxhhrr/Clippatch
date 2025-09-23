@@ -1,0 +1,10 @@
+{"sent": "bench the woman is sitting on", "ann_id": 576223, "best_split": [2, 2], "split_score": 0.4471460458827211}
+{"sent": "bench she sits on", "ann_id": 576223, "best_split": [2, 2], "split_score": 0.4471460458827211}
+{"sent": "man", "ann_id": 214198, "best_split": [1, 2], "split_score": 0.5481577007904143}
+{"sent": "man", "ann_id": 214198, "best_split": [1, 2], "split_score": 0.5481577007904143}
+{"sent": "man", "ann_id": 214198, "best_split": [1, 2], "split_score": 0.5481577007904143}
+{"sent": "bench under man", "ann_id": 2062790, "best_split": [3, 3], "split_score": 0.4208826694616285}
+{"sent": "bench portion next to the man", "ann_id": 2062790, "best_split": [3, 3], "split_score": 0.4208826694616285}
+{"sent": "woman in black", "ann_id": 210427, "best_split": [1, 5], "split_score": 0.42223786063449315}
+{"sent": "kid dark clothes", "ann_id": 210427, "best_split": [1, 5], "split_score": 0.42223786063449315}
+{"sent": "woman sitting", "ann_id": 210427, "best_split": [1, 5], "split_score": 0.42223786063449315}

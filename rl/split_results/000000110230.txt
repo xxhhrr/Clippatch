@@ -1,0 +1,6 @@
+{"sent": "dog white white on face", "ann_id": 17252, "best_split": [3, 2], "split_score": 0.4476908576286886}
+{"sent": "multi dog", "ann_id": 17252, "best_split": [5, 1], "split_score": 0.340557275508847}
+{"sent": "dog 2", "ann_id": 17252, "best_split": [3, 2], "split_score": 0.4476908576286886}
+{"sent": "all brown dog", "ann_id": 13854, "best_split": [3, 2], "split_score": 0.3735911732858475}
+{"sent": "brown doggy", "ann_id": 13854, "best_split": [3, 2], "split_score": 0.3735911732858475}
+{"sent": "all brown dog", "ann_id": 13854, "best_split": [3, 2], "split_score": 0.3735911732858475}

@@ -1,0 +1,6 @@
+{"sent": "green boat", "ann_id": 179457, "best_split": [2, 2], "split_score": 0.8927162366545739}
+{"sent": "boat close to cam", "ann_id": 179457, "best_split": [2, 1], "split_score": 0.4943399234496835}
+{"sent": "boat with green and not beneath swarm of birds", "ann_id": 179457, "best_split": [3, 2], "split_score": 0.6583840974143649}
+{"sent": "boat with green sail", "ann_id": 177927, "best_split": [2, 3], "split_score": 0.3064884251461943}
+{"sent": "shrimp boat", "ann_id": 177927, "best_split": [2, 2], "split_score": 0.4361370716202112}
+{"sent": "boat whole view", "ann_id": 177927, "best_split": [2, 2], "split_score": 0.4361370716202112}

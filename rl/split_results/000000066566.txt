@@ -1,0 +1,9 @@
+{"sent": "chicken looking thing pure white stars under alice lid", "ann_id": 1900979, "best_split": [2, 2], "split_score": 0.6452487460590179}
+{"sent": "stars in box", "ann_id": 1900979, "best_split": [2, 2], "split_score": 0.6452487460590179}
+{"sent": "more broccoli in container", "ann_id": 1900979, "best_split": [2, 2], "split_score": 0.6452487460590179}
+{"sent": "heart shaped food", "ann_id": 1900923, "best_split": [2, 1], "split_score": 0.3931321219435967}
+{"sent": "box with hearts", "ann_id": 1900923, "best_split": [2, 1], "split_score": 0.3931321219435967}
+{"sent": "table under bowls", "ann_id": 1091400, "best_split": [3, 1], "split_score": 0.9282697875887868}
+{"sent": "part of table closest to you", "ann_id": 1091400, "best_split": [2, 1], "split_score": 0.6133211096694308}
+{"sent": "table behind food", "ann_id": 1964206, "best_split": [3, 1], "split_score": 0.46726862301057687}
+{"sent": "upper half of table", "ann_id": 1964206, "best_split": [1, 2], "split_score": 0.3858506731851689}

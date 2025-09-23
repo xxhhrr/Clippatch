@@ -1,0 +1,6 @@
+{"sent": "person with no shoes on", "ann_id": 507507, "best_split": [2, 1], "split_score": 0.4249999999862013}
+{"sent": "leg with no shoe", "ann_id": 507507, "best_split": [2, 1], "split_score": 0.4249999999862013}
+{"sent": "barefoot guy", "ann_id": 507507, "best_split": [2, 1], "split_score": 0.4249999999862013}
+{"sent": "purple socks", "ann_id": 452335, "best_split": [2, 3], "split_score": 0.7174155216563854}
+{"sent": "blue socks", "ann_id": 452335, "best_split": [1, 2], "split_score": 0.40704719386132626}
+{"sent": "legs with blue socks", "ann_id": 452335, "best_split": [1, 2], "split_score": 0.40704719386132626}

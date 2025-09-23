@@ -1,0 +1,6 @@
+{"sent": "a black headed sheep", "ann_id": 63208, "best_split": [2, 1], "split_score": 0.41607227768910465}
+{"sent": "blck head", "ann_id": 63208, "best_split": [2, 1], "split_score": 0.41607227768910465}
+{"sent": "black face sheep", "ann_id": 63208, "best_split": [2, 1], "split_score": 0.41607227768910465}
+{"sent": "sheep without head", "ann_id": 62548, "best_split": [1, 2], "split_score": 0.6202852614651234}
+{"sent": "sheep with head down", "ann_id": 62548, "best_split": [1, 2], "split_score": 0.6202852614651234}
+{"sent": "no head sheep", "ann_id": 62548, "best_split": [1, 2], "split_score": 0.6202852614651234}

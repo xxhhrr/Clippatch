@@ -1,0 +1,5 @@
+{"sent": "white car", "ann_id": 356971, "best_split": [2, 2], "split_score": 0.2602040816119097}
+{"sent": "gray car poking out by building", "ann_id": 356971, "best_split": [2, 2], "split_score": 0.2602040816119097}
+{"sent": "black car", "ann_id": 354434, "best_split": [3, 2], "split_score": 0.5054295366185534}
+{"sent": "black car in background", "ann_id": 354434, "best_split": [3, 2], "split_score": 0.5054295366185534}
+{"sent": "dark car back door", "ann_id": 354434, "best_split": [3, 2], "split_score": 0.5054295366185534}

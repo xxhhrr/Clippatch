@@ -1,0 +1,7 @@
+{"sent": "the boy in the light blue shirt", "ann_id": 468858, "best_split": [2, 2], "split_score": 0.5006596305738351}
+{"sent": "light blue shirt", "ann_id": 468858, "best_split": [2, 2], "split_score": 0.5006596305738351}
+{"sent": "light blue", "ann_id": 468858, "best_split": [2, 2], "split_score": 0.5006596305738351}
+{"sent": "dark blue shirt guy black shorts glasses", "ann_id": 458637, "best_split": [2, 3], "split_score": 0.5158920539343409}
+{"sent": "guy bending back", "ann_id": 458637, "best_split": [2, 3], "split_score": 0.5158920539343409}
+{"sent": "dark blue man", "ann_id": 458637, "best_split": [2, 3], "split_score": 0.5158920539343409}
+{"sent": "man that is not wearing a hat", "ann_id": 458637, "best_split": [2, 3], "split_score": 0.5158920539343409}

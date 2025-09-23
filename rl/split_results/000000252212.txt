@@ -1,0 +1,14 @@
+{"sent": "white chair facing away", "ann_id": 1949294, "best_split": [2, 2], "split_score": 0.5412946428139912}
+{"sent": "recliner", "ann_id": 1949294, "best_split": [2, 2], "split_score": 0.5412946428139912}
+{"sent": "amrchair beige", "ann_id": 1949294, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "its a light colored sofa with some pillows on it", "ann_id": 114043, "best_split": [2, 2], "split_score": 0.6308643837207072}
+{"sent": "couch thats against the wall", "ann_id": 114043, "best_split": [2, 2], "split_score": 0.6308643837207072}
+{"sent": "couch", "ann_id": 114043, "best_split": [2, 2], "split_score": 0.6308643837207072}
+{"sent": "cushioned chair pointed toward window", "ann_id": 105870, "best_split": [3, 2], "split_score": 0.34591194964668553}
+{"sent": "chair facing to the side", "ann_id": 105870, "best_split": [3, 2], "split_score": 0.34591194964668553}
+{"sent": "red chair nearest window", "ann_id": 105870, "best_split": [3, 2], "split_score": 0.34591194964668553}
+{"sent": "pink cushion closest to recliner chair", "ann_id": 105748, "best_split": [2, 2], "split_score": 0.42299349237913547}
+{"sent": "chair next to tan rocking chair", "ann_id": 105748, "best_split": [2, 2], "split_score": 0.42299349237913547}
+{"sent": "chair in foreground", "ann_id": 105748, "best_split": [2, 2], "split_score": 0.42299349237913547}
+{"sent": "chair with red cusion", "ann_id": 100762, "best_split": [3, 3], "split_score": 0.516012396627581}
+{"sent": "red cushion chair closest to dining table", "ann_id": 100762, "best_split": [1, 5], "split_score": 0.41851460749573083}

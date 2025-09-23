@@ -1,0 +1,6 @@
+{"sent": "glasses", "ann_id": 456751, "best_split": [1, 2], "split_score": 0.7301798547195643}
+{"sent": "lady", "ann_id": 456751, "best_split": [2, 1], "split_score": 0.38404915438666354}
+{"sent": "girl", "ann_id": 456751, "best_split": [1, 2], "split_score": 0.7301798547195643}
+{"sent": "man", "ann_id": 455631, "best_split": [1, 2], "split_score": 0.8969690199248969}
+{"sent": "man", "ann_id": 455631, "best_split": [1, 2], "split_score": 0.8969690199248969}
+{"sent": "dude", "ann_id": 455631, "best_split": [1, 2], "split_score": 0.8969690199248969}

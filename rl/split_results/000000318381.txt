@@ -1,0 +1,6 @@
+{"sent": "pizza farthest back", "ann_id": 1571207, "best_split": [1, 2], "split_score": 0.38921957671038315}
+{"sent": "pizza half fartherest away", "ann_id": 1571207, "best_split": [1, 2], "split_score": 0.38921957671038315}
+{"sent": "farthest half of pizza", "ann_id": 1571207, "best_split": [1, 2], "split_score": 0.38921957671038315}
+{"sent": "big slice", "ann_id": 1072471, "best_split": [2, 1], "split_score": 0.5243742628579355}
+{"sent": "pizza cutoff", "ann_id": 1072471, "best_split": [2, 1], "split_score": 0.5243742628579355}
+{"sent": "closest slice", "ann_id": 1072471, "best_split": [2, 1], "split_score": 0.5243742628579355}

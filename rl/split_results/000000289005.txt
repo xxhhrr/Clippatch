@@ -1,0 +1,9 @@
+{"sent": "yellow", "ann_id": 155647, "best_split": [3, 2], "split_score": 0.6586826346772388}
+{"sent": "yellow bike", "ann_id": 155647, "best_split": [3, 2], "split_score": 0.6586826346772388}
+{"sent": "yellow fender", "ann_id": 155647, "best_split": [3, 2], "split_score": 0.6586826346772388}
+{"sent": "seventh motorcycle windshield", "ann_id": 152593, "best_split": [3, 1], "split_score": 0.2751423149786466}
+{"sent": "7th bike from us", "ann_id": 152593, "best_split": [3, 1], "split_score": 0.2751423149786466}
+{"sent": "7th tire", "ann_id": 152593, "best_split": [1, 3], "split_score": 0.389473684192224}
+{"sent": "bike with most blue beside yellos", "ann_id": 152242, "best_split": [3, 1], "split_score": 0.46943483273729464}
+{"sent": "blue bike", "ann_id": 152242, "best_split": [3, 1], "split_score": 0.46943483273729464}
+{"sent": "bike with wiggly stripe", "ann_id": 152242, "best_split": [3, 1], "split_score": 0.46943483273729464}

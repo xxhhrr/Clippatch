@@ -1,0 +1,5 @@
+{"sent": "beer half full", "ann_id": 677687, "best_split": [3, 3], "split_score": 0.4058151979297511}
+{"sent": "closest glass", "ann_id": 677687, "best_split": [3, 3], "split_score": 0.4058151979297511}
+{"sent": "the glass of beer", "ann_id": 677687, "best_split": [3, 3], "split_score": 0.4058151979297511}
+{"sent": "empty bowl", "ann_id": 676342, "best_split": [1, 5], "split_score": 0.21033210330005664}
+{"sent": "dirty cup", "ann_id": 676342, "best_split": [3, 2], "split_score": 0.27509652506333293}

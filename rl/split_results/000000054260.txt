@@ -1,0 +1,5 @@
+{"sent": "rightest chair", "ann_id": 384551, "best_split": [3, 3], "split_score": 0.696092619266264}
+{"sent": "chair turned sideways", "ann_id": 384551, "best_split": [3, 3], "split_score": 0.696092619266264}
+{"sent": "chair in corner", "ann_id": 384551, "best_split": [3, 3], "split_score": 0.696092619266264}
+{"sent": "chair facing table", "ann_id": 372752, "best_split": [5, 1], "split_score": 0.3122070129090374}
+{"sent": "chair farthest", "ann_id": 372752, "best_split": [5, 1], "split_score": 0.3122070129090374}

@@ -1,0 +1,15 @@
+{"sent": "closest muffin", "ann_id": 2119898, "best_split": [2, 1], "split_score": 0.43785873722744506}
+{"sent": "lowest donut", "ann_id": 2119898, "best_split": [3, 1], "split_score": 0.662705115790136}
+{"sent": "stripes", "ann_id": 2119898, "best_split": [2, 1], "split_score": 0.43785873722744506}
+{"sent": "colored sprinklers", "ann_id": 2119515, "best_split": [5, 1], "split_score": 0.3488231743852728}
+{"sent": "sprinkles donut", "ann_id": 2119515, "best_split": [5, 1], "split_score": 0.3488231743852728}
+{"sent": "colorful candies", "ann_id": 2119515, "best_split": [5, 1], "split_score": 0.3488231743852728}
+{"sent": "doughnut with stripes", "ann_id": 1572777, "best_split": [3, 1], "split_score": 0.6470801157910786}
+{"sent": "closest candy", "ann_id": 1572777, "best_split": [2, 1], "split_score": 0.4275350765135708}
+{"sent": "green", "ann_id": 1572777, "best_split": [3, 1], "split_score": 0.6470801157910786}
+{"sent": "white cream above sprinkled one", "ann_id": 1079612, "best_split": [3, 3], "split_score": 0.37456790118832495}
+{"sent": "white pastry with brown spots", "ann_id": 1079612, "best_split": [3, 3], "split_score": 0.37456790118832495}
+{"sent": "white topped donut with a little nuts", "ann_id": 1079612, "best_split": [2, 3], "split_score": 0.29561501297885406}
+{"sent": "rainbow sprinkles", "ann_id": 1079238, "best_split": [5, 1], "split_score": 0.3440256615627305}
+{"sent": "sprinkles", "ann_id": 1079238, "best_split": [5, 1], "split_score": 0.3440256615627305}
+{"sent": "the ones with all the little balls", "ann_id": 1079238, "best_split": [5, 1], "split_score": 0.3440256615627305}

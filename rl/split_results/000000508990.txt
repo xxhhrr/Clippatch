@@ -1,0 +1,6 @@
+{"sent": "closest chair", "ann_id": 290952, "best_split": [3, 2], "split_score": 0.5410231659578881}
+{"sent": "one seater couch", "ann_id": 290952, "best_split": [3, 2], "split_score": 0.5410231659578881}
+{"sent": "couch with footrest", "ann_id": 290952, "best_split": [3, 2], "split_score": 0.5410231659578881}
+{"sent": "black couch", "ann_id": 115859, "best_split": [2, 3], "split_score": 0.40980302332480045}
+{"sent": "couch", "ann_id": 115859, "best_split": [2, 3], "split_score": 0.40980302332480045}
+{"sent": "black sofa", "ann_id": 115859, "best_split": [2, 3], "split_score": 0.40980302332480045}

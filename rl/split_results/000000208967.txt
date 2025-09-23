@@ -1,0 +1,6 @@
+{"sent": "the blurry guy", "ann_id": 2165099, "best_split": [2, 1], "split_score": 0.2759805510445387}
+{"sent": "blurry person in background above hand", "ann_id": 2165099, "best_split": [1, 3], "split_score": 0.632380952347493}
+{"sent": "blurry man face visible", "ann_id": 2165099, "best_split": [2, 1], "split_score": 0.2759805510445387}
+{"sent": "hand thats playing device", "ann_id": 1725520, "best_split": [2, 1], "split_score": 0.45997095009270395}
+{"sent": "hand", "ann_id": 1725520, "best_split": [2, 1], "split_score": 0.45997095009270395}
+{"sent": "the hand touching cell phone", "ann_id": 1725520, "best_split": [2, 1], "split_score": 0.45997095009270395}

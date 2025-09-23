@@ -1,0 +1,5 @@
+{"sent": "wall", "ann_id": 178252, "best_split": [1, 2], "split_score": 0.5520120448820145}
+{"sent": "the sea wall", "ann_id": 178252, "best_split": [2, 1], "split_score": 0.4428656260510081}
+{"sent": "bigger boat", "ann_id": 178252, "best_split": [2, 1], "split_score": 0.4428656260510081}
+{"sent": "little boat", "ann_id": 177431, "best_split": [2, 1], "split_score": 0.7455755739498734}
+{"sent": "the boat that is small", "ann_id": 177431, "best_split": [2, 1], "split_score": 0.7455755739498734}

@@ -1,0 +1,6 @@
+{"sent": "man with face not covered", "ann_id": 530337, "best_split": [5, 1], "split_score": 0.10932475883445449}
+{"sent": "man reading", "ann_id": 530337, "best_split": [1, 5], "split_score": 0.4854682453776819}
+{"sent": "guy reading", "ann_id": 530337, "best_split": [1, 5], "split_score": 0.4854682453776819}
+{"sent": "coat with hat over face", "ann_id": 519130, "best_split": [1, 5], "split_score": 0.41469625314526226}
+{"sent": "hood up person", "ann_id": 519130, "best_split": [1, 5], "split_score": 0.41469625314526226}
+{"sent": "sitting with legs crossed", "ann_id": 519130, "best_split": [1, 5], "split_score": 0.41469625314526226}

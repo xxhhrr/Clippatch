@@ -1,0 +1,6 @@
+{"sent": "red out of frame", "ann_id": 168799, "best_split": [1, 5], "split_score": 0.6251229588210582}
+{"sent": "red bus barely in the picture", "ann_id": 168799, "best_split": [2, 1], "split_score": 0.16576106908856153}
+{"sent": "red bus near white cattle", "ann_id": 168799, "best_split": [3, 3], "split_score": 0.3551735684389805}
+{"sent": "whole bus", "ann_id": 166048, "best_split": [3, 3], "split_score": 0.5204490777171279}
+{"sent": "whole bus", "ann_id": 166048, "best_split": [3, 3], "split_score": 0.5204490777171279}
+{"sent": "back of bus", "ann_id": 166048, "best_split": [3, 3], "split_score": 0.5204490777171279}

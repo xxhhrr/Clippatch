@@ -1,0 +1,6 @@
+{"sent": "man squatting", "ann_id": 511968, "best_split": [3, 2], "split_score": 0.37874015744303735}
+{"sent": "kneeling", "ann_id": 511968, "best_split": [3, 2], "split_score": 0.37874015744303735}
+{"sent": "man spray painting", "ann_id": 511968, "best_split": [3, 3], "split_score": 0.268237426340254}
+{"sent": "legs apart no head", "ann_id": 504013, "best_split": [3, 3], "split_score": 0.35467980291595613}
+{"sent": "dark figure wearing backpack", "ann_id": 504013, "best_split": [2, 3], "split_score": 0.5481727574181714}
+{"sent": "man next to painting man", "ann_id": 504013, "best_split": [1, 2], "split_score": 0.2640306122343738}

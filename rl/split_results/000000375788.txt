@@ -1,0 +1,9 @@
+{"sent": "horse with blue blinder on eyes", "ann_id": 60746, "best_split": [2, 2], "split_score": 0.3478519399176563}
+{"sent": "horse with blue mask", "ann_id": 60746, "best_split": [2, 2], "split_score": 0.3478519399176563}
+{"sent": "the horse with the blindfold colorblack waiting", "ann_id": 60746, "best_split": [2, 2], "split_score": 0.3478519399176563}
+{"sent": "horse with blinders", "ann_id": 60727, "best_split": [2, 2], "split_score": 0.26997385239177996}
+{"sent": "white mask", "ann_id": 60727, "best_split": [3, 2], "split_score": 0.3328967254072648}
+{"sent": "horse with white mask", "ann_id": 60727, "best_split": [2, 2], "split_score": 0.26997385239177996}
+{"sent": "lone horse", "ann_id": 59931, "best_split": [1, 2], "split_score": 0.6596585401975822}
+{"sent": "whole horse", "ann_id": 59931, "best_split": [1, 2], "split_score": 0.6596585401975822}
+{"sent": "unblind horse", "ann_id": 59931, "best_split": [1, 2], "split_score": 0.6596585401975822}

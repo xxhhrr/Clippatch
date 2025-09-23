@@ -1,0 +1,6 @@
+{"sent": "striped shirt", "ann_id": 450815, "best_split": [1, 3], "split_score": 0.6038851350987038}
+{"sent": "big girl", "ann_id": 450815, "best_split": [2, 1], "split_score": 0.10831122899746397}
+{"sent": "striped sleeveess shirt", "ann_id": 450815, "best_split": [3, 3], "split_score": 0.5026198330581584}
+{"sent": "dark blue striped shirt", "ann_id": 2153479, "best_split": [3, 2], "split_score": 0.514238547213022}
+{"sent": "woman with longer sleeves", "ann_id": 2153479, "best_split": [3, 2], "split_score": 0.514238547213022}
+{"sent": "glasses", "ann_id": 2153479, "best_split": [2, 2], "split_score": 0.4683601870797583}

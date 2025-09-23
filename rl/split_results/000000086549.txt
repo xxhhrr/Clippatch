@@ -1,0 +1,6 @@
+{"sent": "catcher", "ann_id": 479513, "best_split": [3, 2], "split_score": 0.2972972972673157}
+{"sent": "guy without a bat", "ann_id": 479513, "best_split": [3, 2], "split_score": 0.2972972972673157}
+{"sent": "fielder", "ann_id": 479513, "best_split": [3, 2], "split_score": 0.2972972972673157}
+{"sent": "baseball player", "ann_id": 443381, "best_split": [1, 3], "split_score": 0.5473094618650075}
+{"sent": "man with bat", "ann_id": 443381, "best_split": [1, 3], "split_score": 0.5473094618650075}
+{"sent": "batter", "ann_id": 443381, "best_split": [1, 3], "split_score": 0.5473094618650075}

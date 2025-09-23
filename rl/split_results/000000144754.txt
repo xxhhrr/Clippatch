@@ -1,0 +1,6 @@
+{"sent": "larger portion of pizza", "ann_id": 1570215, "best_split": [1, 2], "split_score": 0.5299246928128735}
+{"sent": "pizza not lifted", "ann_id": 1570215, "best_split": [1, 2], "split_score": 0.5299246928128735}
+{"sent": "larger area of pizza not the slice", "ann_id": 1570215, "best_split": [1, 2], "split_score": 0.5299246928128735}
+{"sent": "slice", "ann_id": 1071188, "best_split": [3, 1], "split_score": 0.4935449900349645}
+{"sent": "slice", "ann_id": 1071188, "best_split": [3, 1], "split_score": 0.4935449900349645}
+{"sent": "piece being picked up", "ann_id": 1071188, "best_split": [3, 1], "split_score": 0.4935449900349645}

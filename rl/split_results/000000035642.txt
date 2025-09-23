@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 2157738, "best_split": [1, 3], "split_score": 0.5829383885927026}
+{"sent": "man", "ann_id": 2157738, "best_split": [1, 3], "split_score": 0.5829383885927026}
+{"sent": "the man", "ann_id": 2157738, "best_split": [1, 3], "split_score": 0.5829383885927026}
+{"sent": "the lady that isnt the bride", "ann_id": 531353, "best_split": [2, 1], "split_score": 0.37550827979328455}
+{"sent": "woman with black hair", "ann_id": 531353, "best_split": [1, 2], "split_score": 0.6342377034610804}
+{"sent": "glasses", "ann_id": 531353, "best_split": [1, 2], "split_score": 0.6342377034610804}
+{"sent": "bride", "ann_id": 527905, "best_split": [1, 5], "split_score": 0.5915201654219545}
+{"sent": "lady in white", "ann_id": 527905, "best_split": [1, 5], "split_score": 0.5915201654219545}
+{"sent": "feathers on head", "ann_id": 527905, "best_split": [1, 5], "split_score": 0.5915201654219545}

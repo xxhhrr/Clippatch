@@ -1,0 +1,5 @@
+{"sent": "brown", "ann_id": 2177234, "best_split": [3, 2], "split_score": 0.5631031922268835}
+{"sent": "light brown cow", "ann_id": 2177234, "best_split": [3, 2], "split_score": 0.5631031922268835}
+{"sent": "a brown cow next to a calf", "ann_id": 2177234, "best_split": [3, 1], "split_score": 0.3770958903902961}
+{"sent": "baby", "ann_id": 70804, "best_split": [3, 2], "split_score": 0.4338374290602744}
+{"sent": "black cow", "ann_id": 70804, "best_split": [3, 2], "split_score": 0.4338374290602744}

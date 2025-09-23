@@ -1,0 +1,6 @@
+{"sent": "small furniture covering two chairs", "ann_id": 107493, "best_split": [3, 3], "split_score": 0.48778280534157775}
+{"sent": "nearest chair", "ann_id": 107493, "best_split": [3, 3], "split_score": 0.48778280534157775}
+{"sent": "chair that is darker not a barstool", "ann_id": 107493, "best_split": [3, 3], "split_score": 0.48778280534157775}
+{"sent": "brown chair", "ann_id": 100873, "best_split": [1, 5], "split_score": 0.1824269480334388}
+{"sent": "bar chair next to doorway", "ann_id": 100873, "best_split": [2, 3], "split_score": 0.2169401544139792}
+{"sent": "bar stool 1", "ann_id": 100873, "best_split": [2, 3], "split_score": 0.2169401544139792}

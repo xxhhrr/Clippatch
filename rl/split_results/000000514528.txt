@@ -1,0 +1,6 @@
+{"sent": "yellow", "ann_id": 1725535, "best_split": [1, 5], "split_score": 0.43664122133238154}
+{"sent": "yellow shirt", "ann_id": 1725535, "best_split": [1, 5], "split_score": 0.43664122133238154}
+{"sent": "man in yellow shirt", "ann_id": 1725535, "best_split": [1, 5], "split_score": 0.43664122133238154}
+{"sent": "batter", "ann_id": 505223, "best_split": [2, 2], "split_score": 0.47974454905949265}
+{"sent": "baseball player", "ann_id": 505223, "best_split": [2, 2], "split_score": 0.47974454905949265}
+{"sent": "boy", "ann_id": 505223, "best_split": [2, 2], "split_score": 0.47974454905949265}

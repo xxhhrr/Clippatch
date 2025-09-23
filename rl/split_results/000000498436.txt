@@ -1,0 +1,14 @@
+{"sent": "almost a whole pizza", "ann_id": 1077005, "best_split": [3, 1], "split_score": 0.41958734523138447}
+{"sent": "fullest pizza", "ann_id": 1077005, "best_split": [3, 1], "split_score": 0.41958734523138447}
+{"sent": "biggest pizza", "ann_id": 1077005, "best_split": [3, 1], "split_score": 0.41958734523138447}
+{"sent": "red pizza", "ann_id": 1076736, "best_split": [2, 3], "split_score": 0.5350437317160298}
+{"sent": "slice of pizza in full view", "ann_id": 1076736, "best_split": [2, 3], "split_score": 0.5350437317160298}
+{"sent": "oops just one more down here pizza slice near fork", "ann_id": 1076736, "best_split": [2, 3], "split_score": 0.5350437317160298}
+{"sent": "glass of baileys brown other side of table", "ann_id": 678482, "best_split": [3, 1], "split_score": 0.06454794520194258}
+{"sent": "glass with juice in it", "ann_id": 678482, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "glass in between two others that are close together", "ann_id": 675826, "best_split": [2, 3], "split_score": 0.35788032023199745}
+{"sent": "empty glass partially behind another glass", "ann_id": 675826, "best_split": [2, 3], "split_score": 0.35788032023199745}
+{"sent": "empty glass closest to drink with straw", "ann_id": 675826, "best_split": [3, 3], "split_score": 0.3756996586517816}
+{"sent": "glass nearest the fork", "ann_id": 671807, "best_split": [5, 1], "split_score": 0.14314052208655553}
+{"sent": "glass next to fork", "ann_id": 671807, "best_split": [5, 1], "split_score": 0.14314052208655553}
+{"sent": "empty glass in c enter", "ann_id": 671807, "best_split": [1, 5], "split_score": 0.34093447502411256}

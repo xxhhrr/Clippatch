@@ -1,0 +1,5 @@
+{"sent": "flat suitcase 700", "ann_id": 1185424, "best_split": [3, 2], "split_score": 0.36052123547773635}
+{"sent": "suitcase laying down closest", "ann_id": 1185424, "best_split": [3, 2], "split_score": 0.36052123547773635}
+{"sent": "black bag in foreground under orange sign", "ann_id": 1843606, "best_split": [3, 3], "split_score": 0.5788395903449078}
+{"sent": "black case by orange sign closest to camera", "ann_id": 1843606, "best_split": [2, 3], "split_score": 0.39114391139401017}
+{"sent": "black luggage bot tom", "ann_id": 1843606, "best_split": [3, 3], "split_score": 0.5788395903449078}

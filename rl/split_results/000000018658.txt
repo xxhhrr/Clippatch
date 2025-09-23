@@ -1,0 +1,5 @@
+{"sent": "2 white squares on a gray book under monitor on side", "ann_id": 2195043, "best_split": [2, 3], "split_score": 0.24612798652345683}
+{"sent": "book down in corner", "ann_id": 2195043, "best_split": [3, 3], "split_score": 0.35925992449088195}
+{"sent": "gray thing", "ann_id": 2195043, "best_split": [1, 5], "split_score": 0.17785664988880442}
+{"sent": "computer monitor above the blue disk", "ann_id": 2195028, "best_split": [3, 3], "split_score": 0.5662775615348538}
+{"sent": "screen closest to blue tape", "ann_id": 2195028, "best_split": [3, 2], "split_score": 0.4249617151201223}

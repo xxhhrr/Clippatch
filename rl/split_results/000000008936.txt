@@ -1,0 +1,9 @@
+{"sent": "lowest head", "ann_id": 598334, "best_split": [1, 3], "split_score": 0.2964375487433285}
+{"sent": "giraffe eating", "ann_id": 598334, "best_split": [2, 2], "split_score": 0.6875529764173206}
+{"sent": "smallest one", "ann_id": 598334, "best_split": [2, 2], "split_score": 0.6875529764173206}
+{"sent": "tallest giraffe", "ann_id": 597609, "best_split": [1, 2], "split_score": 0.747255900683433}
+{"sent": "tall one", "ann_id": 597609, "best_split": [1, 2], "split_score": 0.747255900683433}
+{"sent": "giraffe with its head higher", "ann_id": 597609, "best_split": [1, 2], "split_score": 0.747255900683433}
+{"sent": "giraffe who is least visible", "ann_id": 596072, "best_split": [2, 1], "split_score": 0.46575527881477546}
+{"sent": "giraffe not eating", "ann_id": 596072, "best_split": [2, 1], "split_score": 0.46575527881477546}
+{"sent": "giraffe farthest away", "ann_id": 596072, "best_split": [2, 1], "split_score": 0.46575527881477546}

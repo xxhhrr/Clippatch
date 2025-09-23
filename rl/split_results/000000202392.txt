@@ -1,0 +1,6 @@
+{"sent": "piece of pizza with green toppings", "ann_id": 1923859, "best_split": [2, 1], "split_score": 0.32470588234100345}
+{"sent": "food with side cut off", "ann_id": 1923859, "best_split": [2, 2], "split_score": 0.6026200872951268}
+{"sent": "veggie pizza slice", "ann_id": 1923859, "best_split": [2, 1], "split_score": 0.32470588234100345}
+{"sent": "pepperoni pizza", "ann_id": 1070979, "best_split": [2, 1], "split_score": 0.5713068602544338}
+{"sent": "12 o clock pizza piece", "ann_id": 1070979, "best_split": [2, 1], "split_score": 0.5713068602544338}
+{"sent": "pizza with only sauce", "ann_id": 1070979, "best_split": [2, 1], "split_score": 0.5713068602544338}

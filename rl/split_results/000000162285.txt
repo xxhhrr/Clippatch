@@ -1,0 +1,6 @@
+{"sent": "sandwich half touching bowl", "ann_id": 312727, "best_split": [3, 3], "split_score": 0.6774784200003298}
+{"sent": "half of sandwich touching soup", "ann_id": 312727, "best_split": [3, 3], "split_score": 0.6774784200003298}
+{"sent": "sandwich fork prongs pointing to", "ann_id": 312727, "best_split": [3, 3], "split_score": 0.6774784200003298}
+{"sent": "sandwich half not near bowl", "ann_id": 311788, "best_split": [2, 2], "split_score": 0.53482172605566}
+{"sent": "point of sandwich toward us", "ann_id": 311788, "best_split": [2, 2], "split_score": 0.53482172605566}
+{"sent": "sandwich closest to us", "ann_id": 311788, "best_split": [2, 2], "split_score": 0.53482172605566}

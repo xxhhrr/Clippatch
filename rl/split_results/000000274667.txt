@@ -1,0 +1,6 @@
+{"sent": "single red tail light in background", "ann_id": 1790352, "best_split": [3, 3], "split_score": 0.5928016936145374}
+{"sent": "motorcycle in the background", "ann_id": 1790352, "best_split": [2, 1], "split_score": 0.14158163264741783}
+{"sent": "back end of bike behind main bike", "ann_id": 1790352, "best_split": [2, 1], "split_score": 0.14158163264741783}
+{"sent": "red motorcycle", "ann_id": 150836, "best_split": [1, 2], "split_score": 0.4724757138552404}
+{"sent": "engine", "ann_id": 150836, "best_split": [1, 2], "split_score": 0.4724757138552404}
+{"sent": "any of pink stuff", "ann_id": 150836, "best_split": [1, 2], "split_score": 0.4724757138552404}

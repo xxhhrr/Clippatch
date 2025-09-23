@@ -1,0 +1,9 @@
+{"sent": "guy jumping out of plane", "ann_id": 236920, "best_split": [2, 1], "split_score": 0.2058232931653104}
+{"sent": "jumper", "ann_id": 236920, "best_split": [3, 3], "split_score": 0.5862381167285833}
+{"sent": "jumping", "ann_id": 236920, "best_split": [3, 3], "split_score": 0.5862381167285833}
+{"sent": "guy in darker clothes on the ground", "ann_id": 230618, "best_split": [2, 2], "split_score": 0.5938225057574085}
+{"sent": "man looking up", "ann_id": 230618, "best_split": [3, 1], "split_score": 0.18471627651950467}
+{"sent": "darker guy standing", "ann_id": 230618, "best_split": [3, 1], "split_score": 0.18471627651950467}
+{"sent": "man on ground in white", "ann_id": 187333, "best_split": [2, 3], "split_score": 0.301443263304689}
+{"sent": "the guy with the hat", "ann_id": 187333, "best_split": [1, 5], "split_score": 0.4159073490235964}
+{"sent": "man in white coat and a hat", "ann_id": 187333, "best_split": [1, 5], "split_score": 0.4159073490235964}

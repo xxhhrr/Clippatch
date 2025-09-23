@@ -1,0 +1,6 @@
+{"sent": "eagle back", "ann_id": 44145, "best_split": [1, 2], "split_score": 0.48604910712348337}
+{"sent": "further seagull", "ann_id": 44145, "best_split": [1, 2], "split_score": 0.48604910712348337}
+{"sent": "the one in the background", "ann_id": 44145, "best_split": [3, 1], "split_score": 0.29489603023247385}
+{"sent": "the larger bird", "ann_id": 43597, "best_split": [1, 3], "split_score": 0.4372434382249893}
+{"sent": "bird in full view closest to us", "ann_id": 43597, "best_split": [1, 3], "split_score": 0.4372434382249893}
+{"sent": "bird attacking camera", "ann_id": 43597, "best_split": [1, 3], "split_score": 0.4372434382249893}

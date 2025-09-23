@@ -1,0 +1,9 @@
+{"sent": "fartest glass", "ann_id": 665564, "best_split": [3, 1], "split_score": 0.2365478352175978}
+{"sent": "farthest glass", "ann_id": 665564, "best_split": [2, 2], "split_score": 0.26734741237715554}
+{"sent": "far glass", "ann_id": 665564, "best_split": [3, 1], "split_score": 0.2365478352175978}
+{"sent": "cup with red leaves on it", "ann_id": 661712, "best_split": [1, 2], "split_score": 0.7206234055835211}
+{"sent": "glass closest to wine bottle", "ann_id": 661712, "best_split": [1, 2], "split_score": 0.7206234055835211}
+{"sent": "wine glass with pink flowers on it", "ann_id": 661712, "best_split": [1, 2], "split_score": 0.7206234055835211}
+{"sent": "glass with flower", "ann_id": 661691, "best_split": [2, 1], "split_score": 0.4232185116873778}
+{"sent": "yellow flower glass", "ann_id": 661691, "best_split": [1, 2], "split_score": 0.6837766370864918}
+{"sent": "bigger glasss", "ann_id": 661691, "best_split": [1, 2], "split_score": 0.6837766370864918}

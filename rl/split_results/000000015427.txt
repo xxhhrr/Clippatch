@@ -1,0 +1,9 @@
+{"sent": "boy eating", "ann_id": 444108, "best_split": [1, 3], "split_score": 0.6332442811557336}
+{"sent": "boy eating cookie", "ann_id": 444108, "best_split": [1, 3], "split_score": 0.6332442811557336}
+{"sent": "eating", "ann_id": 444108, "best_split": [1, 3], "split_score": 0.6332442811557336}
+{"sent": "rbk on shirt blue sleevs", "ann_id": 1737846, "best_split": [1, 5], "split_score": 0.5385343133295587}
+{"sent": "smallest boy", "ann_id": 1737846, "best_split": [1, 5], "split_score": 0.5385343133295587}
+{"sent": "smaller kid with wii controller", "ann_id": 1737846, "best_split": [1, 2], "split_score": 0.4498166453902337}
+{"sent": "black shirt", "ann_id": 1713323, "best_split": [1, 2], "split_score": 0.7691736580009958}
+{"sent": "kid in black", "ann_id": 1713323, "best_split": [1, 2], "split_score": 0.7691736580009958}
+{"sent": "boy in black shirt", "ann_id": 1713323, "best_split": [1, 2], "split_score": 0.7691736580009958}

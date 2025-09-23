@@ -1,0 +1,6 @@
+{"sent": "rider", "ann_id": 1304478, "best_split": [1, 3], "split_score": 0.4139720076970335}
+{"sent": "guy on motorcycle", "ann_id": 1304478, "best_split": [1, 3], "split_score": 0.4139720076970335}
+{"sent": "sitting on bike", "ann_id": 1304478, "best_split": [1, 3], "split_score": 0.4139720076970335}
+{"sent": "girl black jacket", "ann_id": 1729155, "best_split": [1, 5], "split_score": 0.43465909086498994}
+{"sent": "the girl in jeans and a black jacket", "ann_id": 1729155, "best_split": [1, 5], "split_score": 0.43465909086498994}
+{"sent": "woman nearest motorcycle", "ann_id": 1729155, "best_split": [1, 2], "split_score": 0.17075892856462216}

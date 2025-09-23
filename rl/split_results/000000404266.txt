@@ -1,0 +1,4 @@
+{"sent": "upper cat", "ann_id": 49798, "best_split": [1, 3], "split_score": 0.3916244822696856}
+{"sent": "cat more facing us", "ann_id": 49798, "best_split": [1, 3], "split_score": 0.3916244822696856}
+{"sent": "leaning cat looking away", "ann_id": 48793, "best_split": [1, 2], "split_score": 0.6637425921363463}
+{"sent": "cat number 1", "ann_id": 48793, "best_split": [1, 2], "split_score": 0.6637425921363463}

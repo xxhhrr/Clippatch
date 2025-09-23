@@ -1,0 +1,5 @@
+{"sent": "bike closest to pole", "ann_id": 2168227, "best_split": [3, 3], "split_score": 0.34692920764803925}
+{"sent": "bike closest to pole", "ann_id": 2168227, "best_split": [3, 3], "split_score": 0.34692920764803925}
+{"sent": "bike furthest from light pole", "ann_id": 126356, "best_split": [3, 1], "split_score": 0.201761744955864}
+{"sent": "bike next to the blue bike", "ann_id": 126356, "best_split": [3, 2], "split_score": 0.35682492578293534}
+{"sent": "bike on most rightish", "ann_id": 126356, "best_split": [3, 1], "split_score": 0.201761744955864}

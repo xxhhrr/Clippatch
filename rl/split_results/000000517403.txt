@@ -1,0 +1,9 @@
+{"sent": "lots of hair", "ann_id": 207930, "best_split": [1, 2], "split_score": 0.7636697643986863}
+{"sent": "purple shirt", "ann_id": 207930, "best_split": [1, 2], "split_score": 0.7636697643986863}
+{"sent": "woman in flowry dress", "ann_id": 207930, "best_split": [1, 2], "split_score": 0.7636697643986863}
+{"sent": "man with glasses", "ann_id": 199491, "best_split": [1, 5], "split_score": 0.3876125711829064}
+{"sent": "dude with glasses", "ann_id": 199491, "best_split": [1, 5], "split_score": 0.3876125711829064}
+{"sent": "guy", "ann_id": 199491, "best_split": [3, 3], "split_score": 0.46528157456734803}
+{"sent": "lady holding glass", "ann_id": 197469, "best_split": [1, 5], "split_score": 0.5218245613668895}
+{"sent": "woman holding wine glass", "ann_id": 197469, "best_split": [1, 5], "split_score": 0.5218245613668895}
+{"sent": "woman holding glass", "ann_id": 197469, "best_split": [1, 5], "split_score": 0.5218245613668895}

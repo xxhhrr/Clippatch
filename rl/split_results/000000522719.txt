@@ -1,0 +1,9 @@
+{"sent": "green shirt", "ann_id": 1251645, "best_split": [2, 3], "split_score": 0.6523095076995693}
+{"sent": "man with hand out in green shirt", "ann_id": 1251645, "best_split": [2, 3], "split_score": 0.6523095076995693}
+{"sent": "man in green", "ann_id": 1251645, "best_split": [2, 3], "split_score": 0.6523095076995693}
+{"sent": "man holding newspaper", "ann_id": 1310890, "best_split": [1, 5], "split_score": 0.5539772726710656}
+{"sent": "penn state", "ann_id": 1310890, "best_split": [1, 5], "split_score": 0.5539772726710656}
+{"sent": "big man in dark blue looking down", "ann_id": 1310890, "best_split": [3, 1], "split_score": 0.1368138670998342}
+{"sent": "man next to steps on phone", "ann_id": 1305037, "best_split": [2, 2], "split_score": 0.18797330732638723}
+{"sent": "caller in gray jacket", "ann_id": 1305037, "best_split": [1, 5], "split_score": 0.2832618025474774}
+{"sent": "man in light blue jacket", "ann_id": 1305037, "best_split": [1, 3], "split_score": 0.19908301157100125}

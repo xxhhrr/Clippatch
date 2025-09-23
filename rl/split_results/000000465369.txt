@@ -1,0 +1,6 @@
+{"sent": "blue car", "ann_id": 354281, "best_split": [5, 1], "split_score": 0.3180674383172554}
+{"sent": "blue car", "ann_id": 354281, "best_split": [5, 1], "split_score": 0.3180674383172554}
+{"sent": "blue car", "ann_id": 354281, "best_split": [5, 1], "split_score": 0.3180674383172554}
+{"sent": "half car", "ann_id": 354100, "best_split": [2, 2], "split_score": 0.19196428569898244}
+{"sent": "gold car", "ann_id": 354100, "best_split": [1, 5], "split_score": 0.24431818179339304}
+{"sent": "gold station wagon", "ann_id": 354100, "best_split": [2, 3], "split_score": 0.29054054050548495}

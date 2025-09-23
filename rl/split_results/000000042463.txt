@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 1714162, "best_split": [1, 2], "split_score": 0.41990264610694644}
+{"sent": "person", "ann_id": 1714162, "best_split": [1, 2], "split_score": 0.41990264610694644}
+{"sent": "man in gray shirt", "ann_id": 1714162, "best_split": [1, 2], "split_score": 0.41990264610694644}
+{"sent": "arm with stripped shirt", "ann_id": 223229, "best_split": [3, 3], "split_score": 0.3334658713938415}
+{"sent": "stripe t shirt", "ann_id": 223229, "best_split": [1, 3], "split_score": 0.26659484047006676}
+{"sent": "one arm striped shirt", "ann_id": 223229, "best_split": [3, 3], "split_score": 0.3334658713938415}

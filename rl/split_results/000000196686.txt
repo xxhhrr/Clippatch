@@ -1,0 +1,6 @@
+{"sent": "stop light with lights facing away", "ann_id": 1807081, "best_split": [3, 2], "split_score": 0.2888513513164996}
+{"sent": "stop light by green light", "ann_id": 1807081, "best_split": [3, 2], "split_score": 0.2888513513164996}
+{"sent": "the traffic light with no lights displayed but is turned sideways", "ann_id": 1807081, "best_split": [3, 2], "split_score": 0.2888513513164996}
+{"sent": "closest green light", "ann_id": 1805176, "best_split": [3, 3], "split_score": 0.3725346967909907}
+{"sent": "closest green light", "ann_id": 1805176, "best_split": [3, 3], "split_score": 0.3725346967909907}
+{"sent": "biggest green light", "ann_id": 1805176, "best_split": [3, 3], "split_score": 0.3725346967909907}

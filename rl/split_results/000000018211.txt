@@ -1,0 +1,6 @@
+{"sent": "cat laying on the leopard pillow", "ann_id": 2174524, "best_split": [3, 3], "split_score": 0.5535829566569427}
+{"sent": "cat in leopard bed", "ann_id": 2174524, "best_split": [3, 3], "split_score": 0.5535829566569427}
+{"sent": "closest cat", "ann_id": 2174524, "best_split": [2, 3], "split_score": 0.2629975629302399}
+{"sent": "black cat", "ann_id": 52600, "best_split": [3, 3], "split_score": 0.6995273462694923}
+{"sent": "darkest cat", "ann_id": 52600, "best_split": [3, 3], "split_score": 0.6995273462694923}
+{"sent": "black", "ann_id": 52600, "best_split": [3, 3], "split_score": 0.6995273462694923}

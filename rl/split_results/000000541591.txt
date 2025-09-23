@@ -1,0 +1,14 @@
+{"sent": "white shirt", "ann_id": 1249863, "best_split": [1, 2], "split_score": 0.5854591836501332}
+{"sent": "taller", "ann_id": 1249863, "best_split": [2, 1], "split_score": 0.2514472690582857}
+{"sent": "tallest", "ann_id": 1249863, "best_split": [1, 2], "split_score": 0.5854591836501332}
+{"sent": "hand covering face", "ann_id": 526499, "best_split": [5, 1], "split_score": 0.11866946358116051}
+{"sent": "woman with hand on mouth", "ann_id": 526499, "best_split": [2, 2], "split_score": 0.14237551866296838}
+{"sent": "woman with hand on face", "ann_id": 526499, "best_split": [2, 2], "split_score": 0.14237551866296838}
+{"sent": "kid on ground", "ann_id": 2207327, "best_split": [2, 2], "split_score": 0.24294135896347024}
+{"sent": "kid in yelloe", "ann_id": 2207327, "best_split": [2, 2], "split_score": 0.24294135896347024}
+{"sent": "boy cut off in picture", "ann_id": 2207327, "best_split": [2, 2], "split_score": 0.24294135896347024}
+{"sent": "red shirt", "ann_id": 472581, "best_split": [2, 3], "split_score": 0.3653136530990863}
+{"sent": "kid red shirt", "ann_id": 472581, "best_split": [2, 3], "split_score": 0.3653136530990863}
+{"sent": "littlest boy in red shirt with white black stripe", "ann_id": 472581, "best_split": [2, 3], "split_score": 0.3653136530990863}
+{"sent": "kid in orange and black", "ann_id": 448880, "best_split": [1, 5], "split_score": 0.5879247772527281}
+{"sent": "blue and orange shirt", "ann_id": 448880, "best_split": [1, 5], "split_score": 0.5879247772527281}

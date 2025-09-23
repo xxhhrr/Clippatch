@@ -1,0 +1,13 @@
+{"sent": "orange on apples by banana", "ann_id": 1912032, "best_split": [3, 2], "split_score": 0.17620232170644667}
+{"sent": "orange 1100", "ann_id": 1912032, "best_split": [3, 1], "split_score": 0.09478144513298498}
+{"sent": "orange between apple and banana", "ann_id": 1912032, "best_split": [3, 2], "split_score": 0.17620232170644667}
+{"sent": "orange at 4oclock", "ann_id": 1051211, "best_split": [2, 3], "split_score": 0.5074561880366326}
+{"sent": "closest orange to us fartest from apple", "ann_id": 1051211, "best_split": [2, 3], "split_score": 0.5074561880366326}
+{"sent": "closest orange", "ann_id": 1051106, "best_split": [5, 1], "split_score": 0.34169653521940735}
+{"sent": "orange closest to us", "ann_id": 1051106, "best_split": [5, 1], "split_score": 0.34169653521940735}
+{"sent": "fully visible orange", "ann_id": 1051106, "best_split": [5, 1], "split_score": 0.34169653521940735}
+{"sent": "red all the way in the back", "ann_id": 1049783, "best_split": [2, 3], "split_score": 0.42638179279767974}
+{"sent": "furthest apple", "ann_id": 1049783, "best_split": [1, 3], "split_score": 0.21727810649601903}
+{"sent": "apple at 11 o clock", "ann_id": 1049783, "best_split": [1, 3], "split_score": 0.21727810649601903}
+{"sent": "the apple you can see", "ann_id": 1048295, "best_split": [3, 3], "split_score": 0.6237206501168391}
+{"sent": "apple that supports tangerine", "ann_id": 1048295, "best_split": [3, 2], "split_score": 0.5192135834987474}

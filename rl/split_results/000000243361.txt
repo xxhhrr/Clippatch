@@ -1,0 +1,6 @@
+{"sent": "white screen laptop", "ann_id": 1103164, "best_split": [3, 3], "split_score": 0.6681127981438697}
+{"sent": "laptop white screen", "ann_id": 1103164, "best_split": [3, 1], "split_score": 0.2222222222088611}
+{"sent": "smaller very bright screen", "ann_id": 1103164, "best_split": [3, 3], "split_score": 0.6681127981438697}
+{"sent": "laptop closest to us", "ann_id": 1100267, "best_split": [2, 2], "split_score": 0.4183991683719855}
+{"sent": "laptop closer", "ann_id": 1100267, "best_split": [2, 2], "split_score": 0.4183991683719855}
+{"sent": "laptop nearest", "ann_id": 1100267, "best_split": [2, 2], "split_score": 0.4183991683719855}

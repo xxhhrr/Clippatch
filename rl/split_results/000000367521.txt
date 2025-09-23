@@ -1,0 +1,6 @@
+{"sent": "the elephyant we cant really see", "ann_id": 582495, "best_split": [2, 2], "split_score": 0.3130847847766601}
+{"sent": "darker elephant", "ann_id": 582495, "best_split": [2, 3], "split_score": 0.45133845191415867}
+{"sent": "cut off elephant", "ann_id": 582495, "best_split": [2, 3], "split_score": 0.45133845191415867}
+{"sent": "elephant", "ann_id": 580901, "best_split": [1, 3], "split_score": 0.4186116210085561}
+{"sent": "small elephant", "ann_id": 580901, "best_split": [1, 3], "split_score": 0.4186116210085561}
+{"sent": "elephant with trunk above", "ann_id": 580901, "best_split": [1, 3], "split_score": 0.4186116210085561}

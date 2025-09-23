@@ -1,0 +1,6 @@
+{"sent": "yellow closest to pink", "ann_id": 1427491, "best_split": [3, 2], "split_score": 0.4227707005888568}
+{"sent": "zecond yellow umbrella", "ann_id": 1427491, "best_split": [3, 2], "split_score": 0.4227707005888568}
+{"sent": "yellow umbrella by pink one", "ann_id": 1427491, "best_split": [3, 2], "split_score": 0.4227707005888568}
+{"sent": "last yellow umbrela", "ann_id": 1426588, "best_split": [3, 3], "split_score": 0.5732683604989091}
+{"sent": "yellow umbrella farthest to the side", "ann_id": 1426588, "best_split": [3, 3], "split_score": 0.5732683604989091}
+{"sent": "yellow umbrella with most visible interior", "ann_id": 1426588, "best_split": [3, 3], "split_score": 0.5732683604989091}

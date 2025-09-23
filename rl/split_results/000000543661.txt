@@ -1,0 +1,12 @@
+{"sent": "girl wwhite shirt", "ann_id": 1295893, "best_split": [2, 2], "split_score": 0.5259351620619741}
+{"sent": "woman in white shirt long black hair", "ann_id": 1295893, "best_split": [2, 1], "split_score": 0.2951301427268706}
+{"sent": "woman in 700 corner", "ann_id": 1295893, "best_split": [5, 1], "split_score": 0.18130557361845015}
+{"sent": "black dress", "ann_id": 1277325, "best_split": [2, 2], "split_score": 0.7696075312785696}
+{"sent": "woman reaching with hair covering face", "ann_id": 1277325, "best_split": [1, 2], "split_score": 0.5835229501536476}
+{"sent": "reaching arm into white cake", "ann_id": 1277325, "best_split": [2, 1], "split_score": 0.4447705633744445}
+{"sent": "least visible person at table", "ann_id": 1233812, "best_split": [3, 2], "split_score": 0.3006869044759076}
+{"sent": "person next to girl in red can only see his head and hands", "ann_id": 1233812, "best_split": [2, 3], "split_score": 0.5427069644728246}
+{"sent": "guy reaching towards fruit middle white shirt", "ann_id": 1233812, "best_split": [2, 1], "split_score": 0.219564061661543}
+{"sent": "red shirt", "ann_id": 1228916, "best_split": [1, 3], "split_score": 0.4493971501409574}
+{"sent": "women in red", "ann_id": 1228916, "best_split": [3, 3], "split_score": 0.4508660457436795}
+{"sent": "lady red shirt glasses", "ann_id": 1228916, "best_split": [3, 3], "split_score": 0.4508660457436795}

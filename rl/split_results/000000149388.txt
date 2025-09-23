@@ -1,0 +1,11 @@
+{"sent": "woman standing closest to batter", "ann_id": 563929, "best_split": [2, 2], "split_score": 0.1895787971927638}
+{"sent": "person watching wearing all gray", "ann_id": 563929, "best_split": [2, 3], "split_score": 0.27860531829652374}
+{"sent": "girl with gray jacket and bookbag", "ann_id": 563929, "best_split": [2, 3], "split_score": 0.27860531829652374}
+{"sent": "fat woman behind fence", "ann_id": 560480, "best_split": [2, 2], "split_score": 0.21638655460561323}
+{"sent": "dark jacket behind fence", "ann_id": 560480, "best_split": [2, 1], "split_score": 0.11147186146755288}
+{"sent": "catcher", "ann_id": 438228, "best_split": [3, 2], "split_score": 0.39987827141988713}
+{"sent": "catcher", "ann_id": 438228, "best_split": [3, 2], "split_score": 0.39987827141988713}
+{"sent": "catcher", "ann_id": 438228, "best_split": [3, 2], "split_score": 0.39987827141988713}
+{"sent": "batter is swinging", "ann_id": 421712, "best_split": [1, 3], "split_score": 0.7259646827653011}
+{"sent": "batter", "ann_id": 421712, "best_split": [1, 3], "split_score": 0.7259646827653011}
+{"sent": "batetr", "ann_id": 421712, "best_split": [1, 3], "split_score": 0.7259646827653011}

@@ -1,0 +1,6 @@
+{"sent": "thrower", "ann_id": 200634, "best_split": [1, 5], "split_score": 0.4810517136976959}
+{"sent": "woman pink shirt", "ann_id": 200634, "best_split": [1, 2], "split_score": 0.41379963623773114}
+{"sent": "pink shirt", "ann_id": 200634, "best_split": [1, 2], "split_score": 0.41379963623773114}
+{"sent": "brown shirt", "ann_id": 184304, "best_split": [1, 5], "split_score": 0.637163350883938}
+{"sent": "brown shirt", "ann_id": 184304, "best_split": [1, 5], "split_score": 0.637163350883938}
+{"sent": "girl playing wii game and waiting for her turn", "ann_id": 184304, "best_split": [2, 1], "split_score": 0.21467742928662648}

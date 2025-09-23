@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 230081, "best_split": [1, 2], "split_score": 0.829280931089394}
+{"sent": "guy", "ann_id": 230081, "best_split": [1, 2], "split_score": 0.829280931089394}
+{"sent": "man in glasses", "ann_id": 230081, "best_split": [1, 2], "split_score": 0.829280931089394}
+{"sent": "girl", "ann_id": 220478, "best_split": [1, 2], "split_score": 0.6274664561780509}
+{"sent": "girl", "ann_id": 220478, "best_split": [1, 2], "split_score": 0.6274664561780509}
+{"sent": "woman", "ann_id": 220478, "best_split": [1, 2], "split_score": 0.6274664561780509}

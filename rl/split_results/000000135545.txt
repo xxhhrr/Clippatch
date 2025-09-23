@@ -1,0 +1,6 @@
+{"sent": "building bushes", "ann_id": 1954173, "best_split": [5, 1], "split_score": 0.2968173431563182}
+{"sent": "the tall plant", "ann_id": 1954173, "best_split": [5, 1], "split_score": 0.2968173431563182}
+{"sent": "big weeds bush", "ann_id": 1954173, "best_split": [3, 3], "split_score": 0.4333649888862484}
+{"sent": "bushes", "ann_id": 26958, "best_split": [3, 3], "split_score": 0.3821714990157046}
+{"sent": "bush partially covering blue sign", "ann_id": 26958, "best_split": [2, 3], "split_score": 0.42060810805735904}
+{"sent": "bush 900", "ann_id": 26958, "best_split": [2, 2], "split_score": 0.27790178569213153}

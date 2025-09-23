@@ -1,0 +1,9 @@
+{"sent": "orange", "ann_id": 196193, "best_split": [1, 5], "split_score": 0.46433126430878907}
+{"sent": "red shirt", "ann_id": 196193, "best_split": [1, 5], "split_score": 0.46433126430878907}
+{"sent": "red shirt", "ann_id": 196193, "best_split": [1, 5], "split_score": 0.46433126430878907}
+{"sent": "man with tie", "ann_id": 188681, "best_split": [1, 3], "split_score": 0.8823600385568074}
+{"sent": "tie", "ann_id": 188681, "best_split": [1, 3], "split_score": 0.8823600385568074}
+{"sent": "man wearing suit and tie", "ann_id": 188681, "best_split": [1, 3], "split_score": 0.8823600385568074}
+{"sent": "the woman looking at her phone", "ann_id": 187185, "best_split": [1, 3], "split_score": 0.38523257072616107}
+{"sent": "lady", "ann_id": 187185, "best_split": [1, 2], "split_score": 0.35778061223063695}
+{"sent": "girl whos boyfriend just dumped her over fb", "ann_id": 187185, "best_split": [1, 3], "split_score": 0.38523257072616107}

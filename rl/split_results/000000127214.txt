@@ -1,0 +1,7 @@
+{"sent": "elephant next to fully visible elephant", "ann_id": 585727, "best_split": [1, 5], "split_score": 0.5059476605366824}
+{"sent": "elephant cant see face", "ann_id": 585727, "best_split": [2, 3], "split_score": 0.40918493996595107}
+{"sent": "elephant half shown with ears out", "ann_id": 585493, "best_split": [5, 1], "split_score": 0.20719051147079406}
+{"sent": "rear elephant", "ann_id": 585493, "best_split": [5, 1], "split_score": 0.20719051147079406}
+{"sent": "elephant", "ann_id": 585447, "best_split": [2, 2], "split_score": 0.5363349130856865}
+{"sent": "the elephant whos main character", "ann_id": 585447, "best_split": [2, 2], "split_score": 0.5363349130856865}
+{"sent": "dead ahead", "ann_id": 585447, "best_split": [2, 1], "split_score": 0.4703663792945054}

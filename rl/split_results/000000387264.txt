@@ -1,0 +1,8 @@
+{"sent": "brown seat below tv", "ann_id": 114450, "best_split": [3, 3], "split_score": 0.5453438830576165}
+{"sent": "dark arm chair", "ann_id": 114450, "best_split": [1, 5], "split_score": 0.2786769880120798}
+{"sent": "brown couch under tv", "ann_id": 114450, "best_split": [1, 5], "split_score": 0.2786769880120798}
+{"sent": "brown chair closest to tv", "ann_id": 100781, "best_split": [1, 3], "split_score": 0.357070010177151}
+{"sent": "dark brown chair near tv", "ann_id": 100781, "best_split": [3, 3], "split_score": 0.42851828884953275}
+{"sent": "couch", "ann_id": 97983, "best_split": [3, 1], "split_score": 0.4145008724210441}
+{"sent": "couch with something on it", "ann_id": 97983, "best_split": [3, 1], "split_score": 0.4145008724210441}
+{"sent": "light sofa", "ann_id": 97983, "best_split": [3, 1], "split_score": 0.4145008724210441}

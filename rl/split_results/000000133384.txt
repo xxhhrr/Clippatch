@@ -1,0 +1,6 @@
+{"sent": "guy closer to piano", "ann_id": 199411, "best_split": [1, 2], "split_score": 0.5486579589296449}
+{"sent": "guy farther away from you", "ann_id": 199411, "best_split": [1, 5], "split_score": 0.2804218248381283}
+{"sent": "lighter hair guy", "ann_id": 199411, "best_split": [2, 1], "split_score": 0.31227195328654}
+{"sent": "man closest to remotes", "ann_id": 186629, "best_split": [2, 1], "split_score": 0.5021612654383943}
+{"sent": "man in dark shorts", "ann_id": 186629, "best_split": [1, 2], "split_score": 0.5154393739271299}
+{"sent": "guy with both hands visible", "ann_id": 186629, "best_split": [1, 2], "split_score": 0.5154393739271299}

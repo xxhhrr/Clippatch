@@ -1,0 +1,5 @@
+{"sent": "suv", "ann_id": 1797942, "best_split": [3, 1], "split_score": 0.3899093022018181}
+{"sent": "black car", "ann_id": 1797942, "best_split": [3, 1], "split_score": 0.3899093022018181}
+{"sent": "dark suv", "ann_id": 1797942, "best_split": [2, 1], "split_score": 0.3865567127435198}
+{"sent": "black suv", "ann_id": 1797942, "best_split": [3, 1], "split_score": 0.3899093022018181}
+{"sent": "power trailer behind suv", "ann_id": 1797603, "best_split": [2, 3], "split_score": 0.47381756751039844}

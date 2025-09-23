@@ -1,0 +1,6 @@
+{"sent": "the quarter piece of grapefruit", "ann_id": 1911917, "best_split": [1, 5], "split_score": 0.3793103447983905}
+{"sent": "lemon slice", "ann_id": 1911917, "best_split": [2, 2], "split_score": 0.6428571428058947}
+{"sent": "green slice", "ann_id": 1911917, "best_split": [2, 2], "split_score": 0.6428571428058947}
+{"sent": "partial grapefruit piece in corner", "ann_id": 1053052, "best_split": [2, 2], "split_score": 0.5153061224078996}
+{"sent": "the peice of fruit thats cut out the pic", "ann_id": 1053052, "best_split": [2, 3], "split_score": 0.7799227798286772}
+{"sent": "partial shown fruit", "ann_id": 1053052, "best_split": [2, 3], "split_score": 0.7799227798286772}

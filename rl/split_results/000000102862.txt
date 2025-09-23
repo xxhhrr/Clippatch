@@ -1,0 +1,6 @@
+{"sent": "table", "ann_id": 2231468, "best_split": [3, 1], "split_score": 0.35724780654224225}
+{"sent": "arm rest", "ann_id": 2231468, "best_split": [2, 2], "split_score": 0.6244188048548063}
+{"sent": "black thing used as table", "ann_id": 2231468, "best_split": [2, 3], "split_score": 0.4318980405912752}
+{"sent": "behind his back", "ann_id": 2231455, "best_split": [3, 3], "split_score": 0.37303548479064585}
+{"sent": "couce part with the guys head", "ann_id": 2231455, "best_split": [1, 2], "split_score": 0.3354193239662221}
+{"sent": "couch behind mans shoulder", "ann_id": 2231455, "best_split": [1, 5], "split_score": 0.6593406592807791}

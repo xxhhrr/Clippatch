@@ -1,0 +1,6 @@
+{"sent": "hat in corner", "ann_id": 1271635, "best_split": [3, 2], "split_score": 0.3035757139064584}
+{"sent": "head of guy in corner", "ann_id": 1271635, "best_split": [1, 5], "split_score": 0.24719101121115658}
+{"sent": "all you can see is the hat", "ann_id": 1271635, "best_split": [3, 2], "split_score": 0.3035757139064584}
+{"sent": "shred it", "ann_id": 453070, "best_split": [3, 3], "split_score": 0.45159932655180984}
+{"sent": "skateboarder", "ann_id": 453070, "best_split": [3, 3], "split_score": 0.45159932655180984}
+{"sent": "skater", "ann_id": 453070, "best_split": [3, 3], "split_score": 0.45159932655180984}

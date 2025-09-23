@@ -1,0 +1,5 @@
+{"sent": "horse nearest us", "ann_id": 55909, "best_split": [2, 1], "split_score": 0.37087982066404607}
+{"sent": "hores closest", "ann_id": 55909, "best_split": [2, 1], "split_score": 0.37087982066404607}
+{"sent": "closest horse to us", "ann_id": 55909, "best_split": [2, 1], "split_score": 0.37087982066404607}
+{"sent": "far horse", "ann_id": 54054, "best_split": [2, 1], "split_score": 0.4886603153088133}
+{"sent": "fartest horse", "ann_id": 54054, "best_split": [2, 1], "split_score": 0.4886603153088133}

@@ -1,0 +1,6 @@
+{"sent": "meter mostly cut off", "ann_id": 1389386, "best_split": [3, 1], "split_score": 0.1257220523214542}
+{"sent": "half meter", "ann_id": 1389386, "best_split": [3, 1], "split_score": 0.1257220523214542}
+{"sent": "partial meter showing", "ann_id": 1389386, "best_split": [3, 1], "split_score": 0.1257220523214542}
+{"sent": "the meter in full view", "ann_id": 418274, "best_split": [1, 3], "split_score": 0.4407910412067908}
+{"sent": "meter", "ann_id": 418274, "best_split": [1, 3], "split_score": 0.4407910412067908}
+{"sent": "fully visible meter", "ann_id": 418274, "best_split": [1, 3], "split_score": 0.4407910412067908}

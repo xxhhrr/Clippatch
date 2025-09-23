@@ -1,0 +1,9 @@
+{"sent": "only arm visible", "ann_id": 2156945, "best_split": [3, 1], "split_score": 0.08492731445595544}
+{"sent": "man cut off", "ann_id": 2156945, "best_split": [3, 1], "split_score": 0.08492731445595544}
+{"sent": "man partially in photo", "ann_id": 2156945, "best_split": [5, 1], "split_score": 0.03991130820083059}
+{"sent": "green shirt", "ann_id": 2154823, "best_split": [1, 5], "split_score": 0.510761492542358}
+{"sent": "green", "ann_id": 2154823, "best_split": [1, 5], "split_score": 0.510761492542358}
+{"sent": "man", "ann_id": 2154823, "best_split": [1, 5], "split_score": 0.510761492542358}
+{"sent": "girl in red and blue booster chair", "ann_id": 556074, "best_split": [2, 2], "split_score": 0.6026621159998182}
+{"sent": "girl", "ann_id": 556074, "best_split": [2, 2], "split_score": 0.6026621159998182}
+{"sent": "girl", "ann_id": 556074, "best_split": [2, 2], "split_score": 0.6026621159998182}

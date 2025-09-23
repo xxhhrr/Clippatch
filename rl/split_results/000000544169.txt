@@ -1,0 +1,6 @@
+{"sent": "the chubby guy", "ann_id": 218419, "best_split": [2, 2], "split_score": 0.6404655611734322}
+{"sent": "large man", "ann_id": 218419, "best_split": [2, 1], "split_score": 0.3202327805994805}
+{"sent": "bald man", "ann_id": 218419, "best_split": [2, 2], "split_score": 0.6404655611734322}
+{"sent": "standing more upright", "ann_id": 214349, "best_split": [2, 3], "split_score": 0.53963538146255}
+{"sent": "cloest to camera", "ann_id": 214349, "best_split": [2, 1], "split_score": 0.47449549480696646}
+{"sent": "guy in black holding controller", "ann_id": 214349, "best_split": [2, 3], "split_score": 0.53963538146255}

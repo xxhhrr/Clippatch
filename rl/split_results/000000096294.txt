@@ -1,0 +1,11 @@
+{"sent": "the guy with his arms crossed next to the man in the cap", "ann_id": 257694, "best_split": [1, 2], "split_score": 0.17087959681191905}
+{"sent": "white shirt and black bandana", "ann_id": 256823, "best_split": [1, 2], "split_score": 0.4394531249824835}
+{"sent": "man with black fabric on head", "ann_id": 256823, "best_split": [1, 2], "split_score": 0.4394531249824835}
+{"sent": "man with hand on hip", "ann_id": 256823, "best_split": [3, 1], "split_score": 0.20323466584405447}
+{"sent": "man giving instructions", "ann_id": 256275, "best_split": [3, 3], "split_score": 0.40619195040151823}
+{"sent": "bald man", "ann_id": 256275, "best_split": [3, 3], "split_score": 0.40619195040151823}
+{"sent": "man in blue", "ann_id": 256275, "best_split": [3, 3], "split_score": 0.40619195040151823}
+{"sent": "bald man with beard", "ann_id": 256275, "best_split": [3, 3], "split_score": 0.40619195040151823}
+{"sent": "mrwhite bandana", "ann_id": 220056, "best_split": [2, 3], "split_score": 0.3456799512971037}
+{"sent": "man in white cap", "ann_id": 220056, "best_split": [1, 2], "split_score": 0.3748804209034247}
+{"sent": "bandana", "ann_id": 220056, "best_split": [1, 3], "split_score": 0.5673865829773536}

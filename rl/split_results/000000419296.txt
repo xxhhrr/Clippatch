@@ -1,0 +1,6 @@
+{"sent": "sideways cop behind parking meter", "ann_id": 230100, "best_split": [1, 3], "split_score": 0.3857384169651461}
+{"sent": "person with hat near parking meter", "ann_id": 230100, "best_split": [3, 3], "split_score": 0.4020789038032035}
+{"sent": "man 3 o clock behind parking meter", "ann_id": 230100, "best_split": [1, 3], "split_score": 0.3857384169651461}
+{"sent": "blue shirt", "ann_id": 197313, "best_split": [1, 5], "split_score": 0.44041189598614444}
+{"sent": "blue", "ann_id": 197313, "best_split": [1, 5], "split_score": 0.44041189598614444}
+{"sent": "cop wit back to us", "ann_id": 197313, "best_split": [3, 2], "split_score": 0.4144863039657419}

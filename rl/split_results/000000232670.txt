@@ -1,0 +1,3 @@
+{"sent": "bench seat next to worn table", "ann_id": 388593, "best_split": [3, 1], "split_score": 0.17917471041390112}
+{"sent": "closest chair back", "ann_id": 388593, "best_split": [5, 1], "split_score": 0.2196652719456385}
+{"sent": "red chair with writing on back", "ann_id": 388593, "best_split": [3, 2], "split_score": 0.3583494208061837}

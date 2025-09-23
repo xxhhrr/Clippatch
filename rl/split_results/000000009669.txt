@@ -1,0 +1,6 @@
+{"sent": "man with papers", "ann_id": 1709645, "best_split": [1, 2], "split_score": 0.39160972421551166}
+{"sent": "graduate", "ann_id": 1709645, "best_split": [3, 1], "split_score": 0.4925383591223801}
+{"sent": "not blurry grad", "ann_id": 1709645, "best_split": [3, 1], "split_score": 0.4925383591223801}
+{"sent": "out of focus guy", "ann_id": 1700706, "best_split": [2, 3], "split_score": 0.4108068097325308}
+{"sent": "blurry closest", "ann_id": 1700706, "best_split": [2, 3], "split_score": 0.4108068097325308}
+{"sent": "blurry cap closest", "ann_id": 1700706, "best_split": [2, 1], "split_score": 0.2774234693766971}

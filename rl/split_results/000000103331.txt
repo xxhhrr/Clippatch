@@ -1,0 +1,6 @@
+{"sent": "under dog", "ann_id": 116419, "best_split": [2, 1], "split_score": 0.6494042162940485}
+{"sent": "couch near pillow", "ann_id": 116419, "best_split": [2, 1], "split_score": 0.6494042162940485}
+{"sent": "back of couch between dog and pillow", "ann_id": 116419, "best_split": [2, 1], "split_score": 0.6494042162940485}
+{"sent": "area on side of dog with black pillow", "ann_id": 113364, "best_split": [1, 2], "split_score": 0.37675382651559497}
+{"sent": "empty eat next to dog", "ann_id": 113364, "best_split": [1, 2], "split_score": 0.37675382651559497}
+{"sent": "dark pillow", "ann_id": 113364, "best_split": [1, 5], "split_score": 0.4636143116689195}

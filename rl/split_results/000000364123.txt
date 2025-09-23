@@ -1,0 +1,5 @@
+{"sent": "man in white tie", "ann_id": 458696, "best_split": [1, 3], "split_score": 0.9326306140620628}
+{"sent": "man", "ann_id": 458696, "best_split": [1, 3], "split_score": 0.9326306140620628}
+{"sent": "man with no face standing", "ann_id": 458696, "best_split": [1, 2], "split_score": 0.6839923469115118}
+{"sent": "ady", "ann_id": 440275, "best_split": [1, 2], "split_score": 0.591507401942237}
+{"sent": "woman", "ann_id": 440275, "best_split": [1, 2], "split_score": 0.591507401942237}

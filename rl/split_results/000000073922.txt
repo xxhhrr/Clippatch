@@ -1,0 +1,5 @@
+{"sent": "bird with least amount of facial features", "ann_id": 38972, "best_split": [1, 5], "split_score": 0.35390266296107414}
+{"sent": "bird not holding something with its foot", "ann_id": 38972, "best_split": [1, 5], "split_score": 0.35390266296107414}
+{"sent": "bird without red thing", "ann_id": 38972, "best_split": [1, 5], "split_score": 0.35390266296107414}
+{"sent": "brd closet", "ann_id": 38929, "best_split": [1, 2], "split_score": 0.1262328167196134}
+{"sent": "bird on red thing", "ann_id": 38929, "best_split": [3, 3], "split_score": 0.4539617685022673}

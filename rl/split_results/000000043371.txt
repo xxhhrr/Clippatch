@@ -1,0 +1,6 @@
+{"sent": "who me small cow", "ann_id": 70259, "best_split": [3, 2], "split_score": 0.39699570812408064}
+{"sent": "small cow", "ann_id": 70259, "best_split": [3, 2], "split_score": 0.39699570812408064}
+{"sent": "calf", "ann_id": 70259, "best_split": [3, 3], "split_score": 0.414052467399188}
+{"sent": "big cow", "ann_id": 69961, "best_split": [1, 2], "split_score": 0.4864871901560485}
+{"sent": "larger", "ann_id": 69961, "best_split": [2, 1], "split_score": 0.4347498303612507}
+{"sent": "larger cow", "ann_id": 69961, "best_split": [1, 2], "split_score": 0.4864871901560485}

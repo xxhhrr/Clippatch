@@ -1,0 +1,26 @@
+{"sent": "number 1 row 2", "ann_id": 1082264, "best_split": [2, 1], "split_score": 0.0946218864501974}
+{"sent": "glazed sun donut on edge", "ann_id": 1082264, "best_split": [1, 5], "split_score": 0.26770231211455}
+{"sent": "number 7 donut", "ann_id": 1081950, "best_split": [2, 1], "split_score": 0.05258595781376098}
+{"sent": "larger powdrerd", "ann_id": 1081950, "best_split": [3, 2], "split_score": 0.3850987432242932}
+{"sent": "not perfectly round powder donut", "ann_id": 1081950, "best_split": [2, 3], "split_score": 0.15429212641160536}
+{"sent": "powdered donut on the end", "ann_id": 1081890, "best_split": [2, 1], "split_score": 0.07489471487366185}
+{"sent": "the powered sugar donut at the edge of the box", "ann_id": 1081890, "best_split": [2, 1], "split_score": 0.07489471487366185}
+{"sent": "donut 3 clock", "ann_id": 1081890, "best_split": [2, 1], "split_score": 0.0468923213344582}
+{"sent": "chocolate covered donut not showing any part of side", "ann_id": 1081466, "best_split": [3, 1], "split_score": 0.2001774622774222}
+{"sent": "chocolate frosting facing up", "ann_id": 1081466, "best_split": [3, 3], "split_score": 0.5829457363336872}
+{"sent": "the chocolate covered donue thats a bit misshapened", "ann_id": 1081349, "best_split": [3, 2], "split_score": 0.45147869105459587}
+{"sent": "bottomist rigthest to last", "ann_id": 1081349, "best_split": [1, 3], "split_score": 0.12481426448074642}
+{"sent": "glazed donut", "ann_id": 1080847, "best_split": [3, 2], "split_score": 0.4320480052859153}
+{"sent": "donut closest to you with full closed hole", "ann_id": 1080847, "best_split": [3, 2], "split_score": 0.4320480052859153}
+{"sent": "normal doghnut next to chocolate doghnut", "ann_id": 1080847, "best_split": [3, 1], "split_score": 0.27261253679472247}
+{"sent": "glazed donut with hole", "ann_id": 1079745, "best_split": [3, 3], "split_score": 0.7612580413221482}
+{"sent": "glazed in corner", "ann_id": 1079745, "best_split": [3, 2], "split_score": 0.5066603234411678}
+{"sent": "jelly filled plain dougnut in corner", "ann_id": 2118629, "best_split": [5, 1], "split_score": 0.16583004659682413}
+{"sent": "the jelly filled donut where you can not see any jelly", "ann_id": 2118629, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "upper row third donut", "ann_id": 2118080, "best_split": [2, 3], "split_score": 0.2897368992944404}
+{"sent": "cream filled next to chocolate cake", "ann_id": 2118080, "best_split": [1, 3], "split_score": 0.15240764038931673}
+{"sent": "donut far away but not in corner and not chocolate", "ann_id": 2118080, "best_split": [1, 2], "split_score": 0.011468699272656197}
+{"sent": "cake donut northwest corner", "ann_id": 1079606, "best_split": [1, 5], "split_score": 0.2646165527463348}
+{"sent": "donut at 11", "ann_id": 1079606, "best_split": [1, 5], "split_score": 0.2646165527463348}
+{"sent": "white icing on chocolate next to glazed", "ann_id": 1078322, "best_split": [3, 2], "split_score": 0.47779922774157824}
+{"sent": "dark donut up", "ann_id": 1078322, "best_split": [3, 2], "split_score": 0.47779922774157824}

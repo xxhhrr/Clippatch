@@ -1,0 +1,6 @@
+{"sent": "laptop with the hands", "ann_id": 1104065, "best_split": [3, 1], "split_score": 0.30164623123923373}
+{"sent": "computer with person typing", "ann_id": 1104065, "best_split": [3, 1], "split_score": 0.30164623123923373}
+{"sent": "laptop with hands on it", "ann_id": 1104065, "best_split": [3, 1], "split_score": 0.30164623123923373}
+{"sent": "bright laptop", "ann_id": 1100369, "best_split": [1, 2], "split_score": 0.7466666666412698}
+{"sent": "laptop with white screen", "ann_id": 1100369, "best_split": [1, 2], "split_score": 0.7466666666412698}
+{"sent": "near laptop", "ann_id": 1100369, "best_split": [1, 2], "split_score": 0.7466666666412698}

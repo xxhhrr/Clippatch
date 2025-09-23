@@ -1,0 +1,6 @@
+{"sent": "sofa", "ann_id": 117421, "best_split": [2, 2], "split_score": 0.7602739725496034}
+{"sent": "couch with owl pillow", "ann_id": 117421, "best_split": [2, 2], "split_score": 0.7602739725496034}
+{"sent": "owl", "ann_id": 117421, "best_split": [2, 2], "split_score": 0.7602739725496034}
+{"sent": "lighter colored chair", "ann_id": 114998, "best_split": [2, 3], "split_score": 0.6269356693543106}
+{"sent": "pillow chair", "ann_id": 114998, "best_split": [2, 3], "split_score": 0.6269356693543106}
+{"sent": "light tan couch", "ann_id": 114998, "best_split": [1, 3], "split_score": 0.594476657266156}

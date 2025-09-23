@@ -1,0 +1,12 @@
+{"sent": "white lady", "ann_id": 1722418, "best_split": [1, 2], "split_score": 0.1784983472305014}
+{"sent": "lady", "ann_id": 1722418, "best_split": [2, 3], "split_score": 0.3270084779645732}
+{"sent": "woman handing over flower", "ann_id": 1722418, "best_split": [3, 2], "split_score": 0.46023989332960463}
+{"sent": "black man with glasses", "ann_id": 543847, "best_split": [2, 1], "split_score": 0.2720424107034422}
+{"sent": "seated man with arm out", "ann_id": 543847, "best_split": [3, 1], "split_score": 0.4040319193373713}
+{"sent": "yellow tie", "ann_id": 543847, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man hidden behind hands", "ann_id": 532399, "best_split": [3, 3], "split_score": 0.5515726584868085}
+{"sent": "man behind toast", "ann_id": 532399, "best_split": [2, 1], "split_score": 0.1336894132599773}
+{"sent": "man blocked by raised hands", "ann_id": 532399, "best_split": [3, 3], "split_score": 0.5515726584868085}
+{"sent": "man standing", "ann_id": 496621, "best_split": [1, 2], "split_score": 0.6715925168734636}
+{"sent": "standing man", "ann_id": 496621, "best_split": [1, 2], "split_score": 0.6715925168734636}
+{"sent": "stand up guy", "ann_id": 496621, "best_split": [1, 2], "split_score": 0.6715925168734636}

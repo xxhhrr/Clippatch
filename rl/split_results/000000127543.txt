@@ -1,0 +1,5 @@
+{"sent": "the full vase not the half", "ann_id": 1153264, "best_split": [2, 1], "split_score": 0.21836153960542304}
+{"sent": "vase in back", "ann_id": 1153264, "best_split": [2, 1], "split_score": 0.21836153960542304}
+{"sent": "black vase closest to camera", "ann_id": 1152037, "best_split": [3, 3], "split_score": 0.5884456670442303}
+{"sent": "the vase of the main flower", "ann_id": 1152037, "best_split": [2, 3], "split_score": 0.4243205712731283}
+{"sent": "brown vase in focus", "ann_id": 1152037, "best_split": [2, 3], "split_score": 0.4243205712731283}

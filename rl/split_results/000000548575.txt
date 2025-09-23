@@ -1,0 +1,6 @@
+{"sent": "yellow part", "ann_id": 1085497, "best_split": [1, 2], "split_score": 0.6652835407803042}
+{"sent": "yellow strip of icing with words on it", "ann_id": 1085497, "best_split": [1, 2], "split_score": 0.6652835407803042}
+{"sent": "red between white and yellow", "ann_id": 1085497, "best_split": [1, 2], "split_score": 0.6652835407803042}
+{"sent": "white and blue train", "ann_id": 1083979, "best_split": [1, 2], "split_score": 0.4830572925366939}
+{"sent": "white train", "ann_id": 1083979, "best_split": [2, 1], "split_score": 0.466697309032536}
+{"sent": "white train", "ann_id": 1083979, "best_split": [2, 1], "split_score": 0.466697309032536}

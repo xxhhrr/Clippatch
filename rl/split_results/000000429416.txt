@@ -1,0 +1,11 @@
+{"sent": "old guy in gray suit", "ann_id": 551776, "best_split": [1, 3], "split_score": 0.7396838802642565}
+{"sent": "gray suit", "ann_id": 551776, "best_split": [1, 3], "split_score": 0.7396838802642565}
+{"sent": "gray suit glasses", "ann_id": 551776, "best_split": [1, 3], "split_score": 0.7396838802642565}
+{"sent": "server", "ann_id": 551235, "best_split": [1, 2], "split_score": 0.8956473213928712}
+{"sent": "server holding out bottle", "ann_id": 551235, "best_split": [1, 2], "split_score": 0.8956473213928712}
+{"sent": "server", "ann_id": 551235, "best_split": [1, 2], "split_score": 0.8956473213928712}
+{"sent": "woman in white dress", "ann_id": 525311, "best_split": [1, 5], "split_score": 0.21253341718725166}
+{"sent": "white dress", "ann_id": 525311, "best_split": [1, 3], "split_score": 0.2983639242187085}
+{"sent": "white dress", "ann_id": 525311, "best_split": [1, 3], "split_score": 0.2983639242187085}
+{"sent": "woman in green", "ann_id": 1254575, "best_split": [1, 3], "split_score": 0.3609435327967577}
+{"sent": "lime green jacket", "ann_id": 1254575, "best_split": [1, 3], "split_score": 0.3609435327967577}

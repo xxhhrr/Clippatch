@@ -1,0 +1,6 @@
+{"sent": "red twisler roof", "ann_id": 1578607, "best_split": [2, 1], "split_score": 0.466104702740326}
+{"sent": "any pastry in column 1 or 2", "ann_id": 1578607, "best_split": [1, 2], "split_score": 0.5165672326636859}
+{"sent": "either of the pieces with licorice", "ann_id": 1578607, "best_split": [2, 1], "split_score": 0.466104702740326}
+{"sent": "row one number four", "ann_id": 1578001, "best_split": [1, 2], "split_score": 0.16023596938136814}
+{"sent": "train orange headlights 430", "ann_id": 1578001, "best_split": [5, 1], "split_score": 0.23495906014284806}
+{"sent": "dessert at 500", "ann_id": 1578001, "best_split": [2, 2], "split_score": 0.3204719387499624}

@@ -1,0 +1,10 @@
+{"sent": "zebra with only its butt showing", "ann_id": 1822915, "best_split": [3, 1], "split_score": 0.11281761715907297}
+{"sent": "zeebra without head", "ann_id": 1822915, "best_split": [3, 1], "split_score": 0.11281761715907297}
+{"sent": "zebra only half shown", "ann_id": 1822915, "best_split": [3, 1], "split_score": 0.11281761715907297}
+{"sent": "baby zebra fully in frame", "ann_id": 592825, "best_split": [3, 3], "split_score": 0.32598105543626776}
+{"sent": "um sorry its the little zebra", "ann_id": 592825, "best_split": [3, 3], "split_score": 0.32598105543626776}
+{"sent": "smallest", "ann_id": 592825, "best_split": [1, 5], "split_score": 0.419745669328152}
+{"sent": "zebra with no baby", "ann_id": 590739, "best_split": [2, 1], "split_score": 0.31397420795765835}
+{"sent": "zebra behind main one", "ann_id": 590739, "best_split": [2, 1], "split_score": 0.31397420795765835}
+{"sent": "big zebra protects smaller zebra", "ann_id": 588297, "best_split": [1, 2], "split_score": 0.6408952538867824}
+{"sent": "mama zebra", "ann_id": 588297, "best_split": [1, 2], "split_score": 0.6408952538867824}

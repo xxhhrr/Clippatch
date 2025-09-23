@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 470075, "best_split": [1, 5], "split_score": 0.46575342462128316}
+{"sent": "man squatting", "ann_id": 470075, "best_split": [1, 5], "split_score": 0.46575342462128316}
+{"sent": "blue player at 3 o clock", "ann_id": 470075, "best_split": [3, 1], "split_score": 0.23630733499921097}
+{"sent": "frame 1 navy player", "ann_id": 469663, "best_split": [3, 3], "split_score": 0.5084369000193557}
+{"sent": "player at 900", "ann_id": 469663, "best_split": [2, 1], "split_score": 0.09877210840759727}
+{"sent": "blue shirt by our rounds remaining", "ann_id": 469663, "best_split": [1, 3], "split_score": 0.5574103990571764}

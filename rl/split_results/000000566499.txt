@@ -1,0 +1,6 @@
+{"sent": "the woman playing on the other side", "ann_id": 2159415, "best_split": [1, 2], "split_score": 0.29910714284522055}
+{"sent": "women bending down right", "ann_id": 2159415, "best_split": [2, 3], "split_score": 0.5850647394775604}
+{"sent": "playing", "ann_id": 2159415, "best_split": [1, 3], "split_score": 0.452702702675392}
+{"sent": "woman closest to correct rounds remaining", "ann_id": 534685, "best_split": [2, 2], "split_score": 0.4267701260616066}
+{"sent": "squatting player on side where other player is closer to edge", "ann_id": 534685, "best_split": [2, 1], "split_score": 0.22833419822713566}
+{"sent": "girl whose butt is touch the line in the picture", "ann_id": 534685, "best_split": [2, 1], "split_score": 0.22833419822713566}

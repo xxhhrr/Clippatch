@@ -1,0 +1,9 @@
+{"sent": "child to the side of the man", "ann_id": 493291, "best_split": [3, 3], "split_score": 0.4374262100889276}
+{"sent": "boy in stripe shirt", "ann_id": 493291, "best_split": [3, 3], "split_score": 0.4374262100889276}
+{"sent": "kid", "ann_id": 493291, "best_split": [3, 3], "split_score": 0.4374262100889276}
+{"sent": "man with white cup", "ann_id": 1735067, "best_split": [2, 1], "split_score": 0.1791275452965833}
+{"sent": "guy drinking out of cup", "ann_id": 1735067, "best_split": [5, 1], "split_score": 0.21299896831894302}
+{"sent": "person in disance with cup to mouth", "ann_id": 1735067, "best_split": [2, 1], "split_score": 0.1791275452965833}
+{"sent": "man", "ann_id": 428628, "best_split": [2, 3], "split_score": 0.4911504424459168}
+{"sent": "man smiling", "ann_id": 428628, "best_split": [2, 1], "split_score": 0.5489859594169663}
+{"sent": "man with glasses", "ann_id": 428628, "best_split": [2, 1], "split_score": 0.5489859594169663}

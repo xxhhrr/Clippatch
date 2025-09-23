@@ -1,0 +1,6 @@
+{"sent": "baby sheep", "ann_id": 62881, "best_split": [5, 1], "split_score": 0.26847457624843435}
+{"sent": "baby", "ann_id": 62881, "best_split": [2, 3], "split_score": 0.4775609217689314}
+{"sent": "baby sheep", "ann_id": 62881, "best_split": [5, 1], "split_score": 0.26847457624843435}
+{"sent": "mama", "ann_id": 62218, "best_split": [3, 1], "split_score": 0.3200023217924309}
+{"sent": "hairy horse", "ann_id": 62218, "best_split": [1, 2], "split_score": 0.6734023430027458}
+{"sent": "big sheep", "ann_id": 62218, "best_split": [1, 2], "split_score": 0.6734023430027458}

@@ -1,0 +1,5 @@
+{"sent": "dude in black jacket and orange pants", "ann_id": 236654, "best_split": [3, 3], "split_score": 0.3542043984017847}
+{"sent": "guy watching cop", "ann_id": 236654, "best_split": [3, 2], "split_score": 0.2776601885436155}
+{"sent": "rider", "ann_id": 213532, "best_split": [1, 3], "split_score": 0.6023166022802656}
+{"sent": "policw with yellow jacket", "ann_id": 213532, "best_split": [1, 3], "split_score": 0.6023166022802656}
+{"sent": "person on motorcycle", "ann_id": 213532, "best_split": [1, 3], "split_score": 0.6023166022802656}

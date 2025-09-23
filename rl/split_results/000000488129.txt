@@ -1,0 +1,6 @@
+{"sent": "girl in black blouse", "ann_id": 216859, "best_split": [3, 3], "split_score": 0.7064659595096705}
+{"sent": "halter vest", "ann_id": 216859, "best_split": [3, 3], "split_score": 0.7064659595096705}
+{"sent": "female", "ann_id": 216859, "best_split": [3, 3], "split_score": 0.7064659595096705}
+{"sent": "primary subject", "ann_id": 203163, "best_split": [3, 1], "split_score": 0.2942115643397861}
+{"sent": "main focus", "ann_id": 203163, "best_split": [1, 2], "split_score": 0.5717573617323993}
+{"sent": "white shirt guy", "ann_id": 203163, "best_split": [1, 2], "split_score": 0.5717573617323993}

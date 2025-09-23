@@ -1,0 +1,11 @@
+{"sent": "giraffe pointing opposite of the two pointing same direction", "ann_id": 2175396, "best_split": [3, 1], "split_score": 0.19527685838647119}
+{"sent": "1 giraffe were head is farthes from the other 3", "ann_id": 2175396, "best_split": [3, 1], "split_score": 0.19527685838647119}
+{"sent": "smaller one looking sideways", "ann_id": 600786, "best_split": [3, 1], "split_score": 0.16144944032624503}
+{"sent": "giraffe far righty", "ann_id": 600786, "best_split": [1, 2], "split_score": 0.31536989794661313}
+{"sent": "giraffe on edge near large dead shrub", "ann_id": 600786, "best_split": [3, 1], "split_score": 0.16144944032624503}
+{"sent": "tallest one", "ann_id": 600251, "best_split": [1, 2], "split_score": 0.38137755100520654}
+{"sent": "number 3 giraffe", "ann_id": 600251, "best_split": [1, 2], "split_score": 0.38137755100520654}
+{"sent": "tallest giraffe", "ann_id": 600251, "best_split": [1, 2], "split_score": 0.38137755100520654}
+{"sent": "giraffe standing straight up", "ann_id": 599702, "best_split": [1, 5], "split_score": 0.566152597345155}
+{"sent": "giraffe facing with side not showing", "ann_id": 599702, "best_split": [1, 5], "split_score": 0.566152597345155}
+{"sent": "close", "ann_id": 599702, "best_split": [1, 5], "split_score": 0.566152597345155}

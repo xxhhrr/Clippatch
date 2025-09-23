@@ -1,0 +1,5 @@
+{"sent": "chair next to plates", "ann_id": 380103, "best_split": [2, 2], "split_score": 0.6466836734178345}
+{"sent": "chair near forks", "ann_id": 380103, "best_split": [2, 1], "split_score": 0.32334183672180555}
+{"sent": "chair by fridge", "ann_id": 373133, "best_split": [1, 5], "split_score": 0.5917792245076494}
+{"sent": "chair that doesnt show seat", "ann_id": 373133, "best_split": [1, 5], "split_score": 0.5917792245076494}
+{"sent": "chair pushed in the most", "ann_id": 373133, "best_split": [1, 5], "split_score": 0.5917792245076494}

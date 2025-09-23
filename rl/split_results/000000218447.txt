@@ -1,0 +1,6 @@
+{"sent": "broccoli 500", "ann_id": 1562652, "best_split": [3, 2], "split_score": 0.3404907975087105}
+{"sent": "broccoli at 4", "ann_id": 1562652, "best_split": [3, 2], "split_score": 0.3404907975087105}
+{"sent": "broccoli between carrot and red bean", "ann_id": 1560082, "best_split": [1, 5], "split_score": 0.22386034730247284}
+{"sent": "broccoli between the carrot and tomato", "ann_id": 1560082, "best_split": [3, 3], "split_score": 0.29014521354995837}
+{"sent": "closest broccoli", "ann_id": 1559768, "best_split": [2, 3], "split_score": 0.5209003214835898}
+{"sent": "broccolli on the edge", "ann_id": 1559768, "best_split": [2, 3], "split_score": 0.5209003214835898}

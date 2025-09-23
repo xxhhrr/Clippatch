@@ -1,0 +1,6 @@
+{"sent": "white car behind sign", "ann_id": 356115, "best_split": [3, 3], "split_score": 0.4832214764224158}
+{"sent": "white car barely visible in corner", "ann_id": 356115, "best_split": [1, 5], "split_score": 0.27404626620596123}
+{"sent": "mostly obscured car", "ann_id": 356115, "best_split": [1, 5], "split_score": 0.27404626620596123}
+{"sent": "old white car", "ann_id": 350832, "best_split": [3, 3], "split_score": 0.34652336747329043}
+{"sent": "white car", "ann_id": 350832, "best_split": [3, 3], "split_score": 0.34652336747329043}
+{"sent": "white car", "ann_id": 350832, "best_split": [3, 3], "split_score": 0.34652336747329043}

@@ -1,0 +1,6 @@
+{"sent": "black shirt", "ann_id": 1717625, "best_split": [2, 2], "split_score": 0.512797881701633}
+{"sent": "man using oven", "ann_id": 1717625, "best_split": [2, 1], "split_score": 0.34681223883451906}
+{"sent": "man getting thing out of oven", "ann_id": 1717625, "best_split": [2, 1], "split_score": 0.34681223883451906}
+{"sent": "orange", "ann_id": 456250, "best_split": [1, 2], "split_score": 0.6472627928799185}
+{"sent": "orange shirt", "ann_id": 456250, "best_split": [1, 2], "split_score": 0.6472627928799185}
+{"sent": "man wearing orange", "ann_id": 456250, "best_split": [1, 2], "split_score": 0.6472627928799185}

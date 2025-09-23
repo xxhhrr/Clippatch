@@ -1,0 +1,16 @@
+{"sent": "person next to couch", "ann_id": 219019, "best_split": [2, 3], "split_score": 0.7779787473685306}
+{"sent": "jeans in corner", "ann_id": 219019, "best_split": [2, 2], "split_score": 0.5931122448506766}
+{"sent": "man sitting can only see legs", "ann_id": 219019, "best_split": [2, 1], "split_score": 0.29655612243715895}
+{"sent": "dog petter", "ann_id": 218399, "best_split": [1, 3], "split_score": 0.48092868985899}
+{"sent": "guy playing with dog", "ann_id": 218399, "best_split": [1, 3], "split_score": 0.48092868985899}
+{"sent": "my bad guy white shirt", "ann_id": 217453, "best_split": [2, 3], "split_score": 0.35815268610295087}
+{"sent": "white shirt", "ann_id": 217453, "best_split": [2, 3], "split_score": 0.35815268610295087}
+{"sent": "white shirt guy", "ann_id": 217453, "best_split": [2, 3], "split_score": 0.35815268610295087}
+{"sent": "girl on corner", "ann_id": 212824, "best_split": [3, 1], "split_score": 0.31203386412456996}
+{"sent": "girl with writing on shirt", "ann_id": 212824, "best_split": [3, 2], "split_score": 0.5358255451249718}
+{"sent": "girl", "ann_id": 212824, "best_split": [3, 1], "split_score": 0.31203386412456996}
+{"sent": "small couch", "ann_id": 113694, "best_split": [3, 2], "split_score": 0.4548502458141651}
+{"sent": "smaller couch", "ann_id": 113694, "best_split": [3, 3], "split_score": 0.6632985657328392}
+{"sent": "small couch", "ann_id": 113694, "best_split": [3, 2], "split_score": 0.4548502458141651}
+{"sent": "leather couch wher girl is sitting", "ann_id": 112441, "best_split": [1, 2], "split_score": 0.7211814412977845}
+{"sent": "the couch where the two people are sitting", "ann_id": 112441, "best_split": [1, 2], "split_score": 0.7211814412977845}

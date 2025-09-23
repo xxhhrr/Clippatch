@@ -1,0 +1,6 @@
+{"sent": "white car behind girl", "ann_id": 1342744, "best_split": [3, 3], "split_score": 0.7583437196013926}
+{"sent": "white vehicle", "ann_id": 1342744, "best_split": [3, 3], "split_score": 0.7583437196013926}
+{"sent": "white car", "ann_id": 1342744, "best_split": [3, 3], "split_score": 0.7583437196013926}
+{"sent": "car near tree trunk", "ann_id": 354121, "best_split": [5, 1], "split_score": 0.36363636360221296}
+{"sent": "silver car closest to tree", "ann_id": 354121, "best_split": [5, 1], "split_score": 0.36363636360221296}
+{"sent": "silver car", "ann_id": 354121, "best_split": [5, 1], "split_score": 0.36363636360221296}

@@ -1,0 +1,10 @@
+{"sent": "woman in bikini", "ann_id": 495432, "best_split": [1, 5], "split_score": 0.6565403859313312}
+{"sent": "woman", "ann_id": 495432, "best_split": [2, 1], "split_score": 0.18415147264431447}
+{"sent": "woman in bikini", "ann_id": 495432, "best_split": [1, 5], "split_score": 0.6565403859313312}
+{"sent": "woman", "ann_id": 495432, "best_split": [2, 1], "split_score": 0.18415147264431447}
+{"sent": "man with stripes", "ann_id": 464550, "best_split": [2, 3], "split_score": 0.3620243812004041}
+{"sent": "man strip short", "ann_id": 464550, "best_split": [2, 3], "split_score": 0.3620243812004041}
+{"sent": "guy without shirt", "ann_id": 464550, "best_split": [2, 3], "split_score": 0.3620243812004041}
+{"sent": "person with dark hair and dark shorts", "ann_id": 463309, "best_split": [2, 1], "split_score": 0.23455598454890939}
+{"sent": "man wearing shirt and shorts carrying a surfboard", "ann_id": 463309, "best_split": [1, 2], "split_score": 0.6313775509952416}
+{"sent": "carrying board nearest us", "ann_id": 463309, "best_split": [1, 2], "split_score": 0.6313775509952416}

@@ -1,0 +1,6 @@
+{"sent": "the bed that is only half in the picture", "ann_id": 316259, "best_split": [2, 2], "split_score": 0.9232024872970693}
+{"sent": "partial bed", "ann_id": 316259, "best_split": [2, 2], "split_score": 0.9232024872970693}
+{"sent": "half a bed", "ann_id": 316259, "best_split": [2, 2], "split_score": 0.9232024872970693}
+{"sent": "bed by the woman", "ann_id": 315881, "best_split": [2, 1], "split_score": 0.6993434795322536}
+{"sent": "bed on next to woman", "ann_id": 315881, "best_split": [2, 1], "split_score": 0.6993434795322536}
+{"sent": "bed whose head you can see all of", "ann_id": 315881, "best_split": [2, 1], "split_score": 0.6993434795322536}

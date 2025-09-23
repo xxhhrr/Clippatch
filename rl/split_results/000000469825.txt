@@ -1,0 +1,6 @@
+{"sent": "playing games", "ann_id": 468150, "best_split": [1, 2], "split_score": 0.4951652474925976}
+{"sent": "man wearing brown shirt", "ann_id": 468150, "best_split": [3, 1], "split_score": 0.33636363634998523}
+{"sent": "guy 2", "ann_id": 468150, "best_split": [1, 2], "split_score": 0.4951652474925976}
+{"sent": "plaid shirt", "ann_id": 438417, "best_split": [1, 2], "split_score": 0.42642964949098006}
+{"sent": "man in blue", "ann_id": 438417, "best_split": [1, 2], "split_score": 0.42642964949098006}
+{"sent": "plaid man", "ann_id": 438417, "best_split": [1, 2], "split_score": 0.42642964949098006}

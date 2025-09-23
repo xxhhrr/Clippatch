@@ -1,0 +1,9 @@
+{"sent": "quarter of umbrella", "ann_id": 283245, "best_split": [3, 3], "split_score": 0.7811564517439489}
+{"sent": "umbrella corner", "ann_id": 283245, "best_split": [3, 1], "split_score": 0.3516529922567777}
+{"sent": "half of umbrella", "ann_id": 283245, "best_split": [3, 1], "split_score": 0.3516529922567777}
+{"sent": "tallest roog", "ann_id": 282143, "best_split": [1, 3], "split_score": 0.17310412358975605}
+{"sent": "half hidden canopy not off screen", "ann_id": 282143, "best_split": [5, 1], "split_score": 0.5060876622863142}
+{"sent": "highest umbrella", "ann_id": 282143, "best_split": [5, 1], "split_score": 0.5060876622863142}
+{"sent": "cover over most zebras", "ann_id": 281760, "best_split": [1, 3], "split_score": 0.18145386765230875}
+{"sent": "hut above v roof", "ann_id": 281760, "best_split": [3, 2], "split_score": 0.764109985449234}
+{"sent": "umbrella over zebras", "ann_id": 281760, "best_split": [1, 3], "split_score": 0.18145386765230875}

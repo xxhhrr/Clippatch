@@ -1,0 +1,6 @@
+{"sent": "fluffy dog", "ann_id": 16009, "best_split": [3, 1], "split_score": 0.4485523848964511}
+{"sent": "all white dog", "ann_id": 16009, "best_split": [5, 1], "split_score": 0.30767323662404406}
+{"sent": "white and tan dog", "ann_id": 16009, "best_split": [5, 1], "split_score": 0.30767323662404406}
+{"sent": "black and white dog", "ann_id": 8362, "best_split": [2, 2], "split_score": 0.8170258331671111}
+{"sent": "2 color dog", "ann_id": 8362, "best_split": [2, 2], "split_score": 0.8170258331671111}
+{"sent": "not so fluffy dog", "ann_id": 8362, "best_split": [2, 2], "split_score": 0.8170258331671111}

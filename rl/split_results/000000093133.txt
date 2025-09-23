@@ -1,0 +1,17 @@
+{"sent": "long sleeve green shirt", "ann_id": 520593, "best_split": [3, 3], "split_score": 0.4380746348785729}
+{"sent": "green long sleeves", "ann_id": 520593, "best_split": [2, 3], "split_score": 0.6225868725117535}
+{"sent": "green shirt hands on table", "ann_id": 520593, "best_split": [2, 3], "split_score": 0.6225868725117535}
+{"sent": "man in green shirt with green pizza", "ann_id": 496893, "best_split": [1, 5], "split_score": 0.33502538068029136}
+{"sent": "man in green", "ann_id": 496893, "best_split": [2, 2], "split_score": 0.3883928571118947}
+{"sent": "green shirt facing us", "ann_id": 496893, "best_split": [2, 2], "split_score": 0.3883928571118947}
+{"sent": "red shirt", "ann_id": 467531, "best_split": [2, 2], "split_score": 0.34120982984079945}
+{"sent": "man in red shirt", "ann_id": 467531, "best_split": [2, 3], "split_score": 0.31237155771553926}
+{"sent": "red shirt", "ann_id": 467531, "best_split": [2, 2], "split_score": 0.34120982984079945}
+{"sent": "pizza with slice taken out that first one was totally correct wtf", "ann_id": 1077158, "best_split": [3, 2], "split_score": 0.43220338978101197}
+{"sent": "pizza with missing slice", "ann_id": 1077158, "best_split": [3, 2], "split_score": 0.43220338978101197}
+{"sent": "pizza slice missing", "ann_id": 1077158, "best_split": [3, 2], "split_score": 0.43220338978101197}
+{"sent": "pizza by green long selve arm", "ann_id": 1076695, "best_split": [5, 1], "split_score": 0.087668506279954}
+{"sent": "pizza facing woman in green", "ann_id": 1076695, "best_split": [5, 1], "split_score": 0.087668506279954}
+{"sent": "cheese pizza next to olive pizza and next to green shirt woman", "ann_id": 1075420, "best_split": [3, 3], "split_score": 0.630400282026027}
+{"sent": "pizza no one is touching", "ann_id": 1075420, "best_split": [3, 3], "split_score": 0.630400282026027}
+{"sent": "beige pizza", "ann_id": 1075420, "best_split": [3, 3], "split_score": 0.630400282026027}

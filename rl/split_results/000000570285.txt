@@ -1,0 +1,5 @@
+{"sent": "old woman", "ann_id": 1718614, "best_split": [3, 1], "split_score": 0.32435817155718943}
+{"sent": "adult blue hat", "ann_id": 1718614, "best_split": [1, 2], "split_score": 0.3871625063537165}
+{"sent": "adult", "ann_id": 1718614, "best_split": [1, 2], "split_score": 0.3871625063537165}
+{"sent": "lady in green", "ann_id": 451810, "best_split": [1, 2], "split_score": 0.40979751273876763}
+{"sent": "the girl in green and purple", "ann_id": 451810, "best_split": [1, 5], "split_score": 0.482733230212596}

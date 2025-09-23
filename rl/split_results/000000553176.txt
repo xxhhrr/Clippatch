@@ -1,0 +1,6 @@
+{"sent": "monitor with more black", "ann_id": 35748, "best_split": [3, 2], "split_score": 0.4980287888055351}
+{"sent": "screen with less open", "ann_id": 35748, "best_split": [5, 1], "split_score": 0.28549892316687014}
+{"sent": "screen with narrow feed", "ann_id": 35748, "best_split": [3, 2], "split_score": 0.4980287888055351}
+{"sent": "screen with many windows", "ann_id": 32719, "best_split": [3, 2], "split_score": 0.5996505193088388}
+{"sent": "monitor with many windows open", "ann_id": 32719, "best_split": [3, 2], "split_score": 0.5996505193088388}
+{"sent": "monitor with less black on screen", "ann_id": 32719, "best_split": [3, 2], "split_score": 0.5996505193088388}

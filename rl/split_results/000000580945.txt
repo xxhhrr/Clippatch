@@ -1,0 +1,9 @@
+{"sent": "scarf", "ann_id": 480045, "best_split": [1, 5], "split_score": 0.38688170101929165}
+{"sent": "girl standing alone", "ann_id": 480045, "best_split": [1, 5], "split_score": 0.38688170101929165}
+{"sent": "girl white scard", "ann_id": 480045, "best_split": [1, 3], "split_score": 0.2650457665752262}
+{"sent": "lady glasses", "ann_id": 460124, "best_split": [1, 2], "split_score": 0.28109056121328563}
+{"sent": "blond woman", "ann_id": 460124, "best_split": [1, 3], "split_score": 0.42543436290869724}
+{"sent": "blond woman", "ann_id": 460124, "best_split": [1, 3], "split_score": 0.42543436290869724}
+{"sent": "man", "ann_id": 439008, "best_split": [1, 5], "split_score": 0.6540253896308834}
+{"sent": "red shirt", "ann_id": 439008, "best_split": [1, 5], "split_score": 0.6540253896308834}
+{"sent": "man drinking", "ann_id": 439008, "best_split": [1, 2], "split_score": 0.42769451528907465}

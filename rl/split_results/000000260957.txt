@@ -1,0 +1,6 @@
+{"sent": "person wearing name badge and sunglasses", "ann_id": 496554, "best_split": [1, 3], "split_score": 0.7179054053620955}
+{"sent": "lady holding a little umbrella", "ann_id": 496554, "best_split": [3, 1], "split_score": 0.22235576922122444}
+{"sent": "woman with sunglasses", "ann_id": 496554, "best_split": [2, 1], "split_score": 0.2659319597417369}
+{"sent": "lady white shirt", "ann_id": 464080, "best_split": [1, 3], "split_score": 0.7512241728919608}
+{"sent": "woman in white shirt", "ann_id": 464080, "best_split": [1, 3], "split_score": 0.7512241728919608}
+{"sent": "women in white shirt leaning on building", "ann_id": 464080, "best_split": [1, 3], "split_score": 0.7512241728919608}

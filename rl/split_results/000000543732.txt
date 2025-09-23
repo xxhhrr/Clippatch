@@ -1,0 +1,6 @@
+{"sent": "monitor no display", "ann_id": 35587, "best_split": [3, 2], "split_score": 0.2532487465206949}
+{"sent": "monitor thats off", "ann_id": 35587, "best_split": [3, 2], "split_score": 0.2532487465206949}
+{"sent": "monitor with black screen", "ann_id": 35587, "best_split": [5, 1], "split_score": 0.19505233109635392}
+{"sent": "lit screen", "ann_id": 33032, "best_split": [5, 1], "split_score": 0.2644026108916467}
+{"sent": "brightest screen", "ann_id": 33032, "best_split": [5, 1], "split_score": 0.2644026108916467}
+{"sent": "white creen", "ann_id": 33032, "best_split": [5, 1], "split_score": 0.2644026108916467}

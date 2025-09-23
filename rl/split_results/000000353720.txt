@@ -1,0 +1,6 @@
+{"sent": "person with back turned", "ann_id": 522176, "best_split": [2, 2], "split_score": 0.3138731952044983}
+{"sent": "back of person", "ann_id": 522176, "best_split": [2, 3], "split_score": 0.3801945180835329}
+{"sent": "person in background whit back to us", "ann_id": 522176, "best_split": [2, 3], "split_score": 0.3801945180835329}
+{"sent": "sunglasses guy", "ann_id": 434794, "best_split": [1, 2], "split_score": 0.4918816649297598}
+{"sent": "glasses guy", "ann_id": 434794, "best_split": [1, 2], "split_score": 0.4918816649297598}
+{"sent": "man facing us", "ann_id": 434794, "best_split": [1, 2], "split_score": 0.4918816649297598}

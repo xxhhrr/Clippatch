@@ -1,0 +1,22 @@
+{"sent": "tan shirt", "ann_id": 236569, "best_split": [3, 2], "split_score": 0.7980826841623644}
+{"sent": "brown shirt", "ann_id": 236569, "best_split": [3, 2], "split_score": 0.7980826841623644}
+{"sent": "man with khaki shirt", "ann_id": 236569, "best_split": [3, 2], "split_score": 0.7980826841623644}
+{"sent": "white shirt guy with black hair", "ann_id": 234579, "best_split": [2, 3], "split_score": 0.6223717408933587}
+{"sent": "man leaning with white shirt", "ann_id": 234579, "best_split": [2, 3], "split_score": 0.6223717408933587}
+{"sent": "white shirt not on bike", "ann_id": 234579, "best_split": [5, 1], "split_score": 0.24487404801956106}
+{"sent": "man in pink", "ann_id": 214532, "best_split": [3, 3], "split_score": 0.6697750959037609}
+{"sent": "pink shirt", "ann_id": 214532, "best_split": [3, 3], "split_score": 0.6697750959037609}
+{"sent": "man with pink shirt", "ann_id": 214532, "best_split": [3, 3], "split_score": 0.6697750959037609}
+{"sent": "man on motorcycle", "ann_id": 205644, "best_split": [3, 3], "split_score": 0.6370656369777902}
+{"sent": "man riding motorcycle", "ann_id": 205644, "best_split": [3, 3], "split_score": 0.6370656369777902}
+{"sent": "man riding a motorcycle", "ann_id": 205644, "best_split": [3, 3], "split_score": 0.6370656369777902}
+{"sent": "the man on the motorbike behind car", "ann_id": 205644, "best_split": [1, 2], "split_score": 0.09715639810087968}
+{"sent": "black car", "ann_id": 1782171, "best_split": [2, 2], "split_score": 0.7988282679751865}
+{"sent": "brown car", "ann_id": 1782171, "best_split": [2, 2], "split_score": 0.7988282679751865}
+{"sent": "black half of car", "ann_id": 1782171, "best_split": [2, 2], "split_score": 0.7988282679751865}
+{"sent": "the white care behind the closer white car", "ann_id": 140805, "best_split": [3, 1], "split_score": 0.14152992277138454}
+{"sent": "white car with that doesnt have yello license plate", "ann_id": 140805, "best_split": [3, 1], "split_score": 0.14152992277138454}
+{"sent": "white car across from truck", "ann_id": 140805, "best_split": [5, 1], "split_score": 0.14885603990689614}
+{"sent": "white car in the lead", "ann_id": 139761, "best_split": [5, 1], "split_score": 0.36489038505912713}
+{"sent": "the white car with yellow license plate", "ann_id": 139761, "best_split": [5, 1], "split_score": 0.36489038505912713}
+{"sent": "white car near man", "ann_id": 139761, "best_split": [5, 1], "split_score": 0.36489038505912713}

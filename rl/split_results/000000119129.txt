@@ -1,0 +1,5 @@
+{"sent": "chair with graffiti", "ann_id": 382722, "best_split": [3, 3], "split_score": 0.4774362327538528}
+{"sent": "chair with the towel on it", "ann_id": 382722, "best_split": [3, 3], "split_score": 0.4774362327538528}
+{"sent": "water bottle", "ann_id": 380874, "best_split": [1, 2], "split_score": 0.22827646682763567}
+{"sent": "chair fully in view", "ann_id": 380874, "best_split": [3, 2], "split_score": 0.5731282971631914}
+{"sent": "chair with no towel on it", "ann_id": 380874, "best_split": [3, 2], "split_score": 0.5731282971631914}

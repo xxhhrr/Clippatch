@@ -1,0 +1,6 @@
+{"sent": "golden oven door", "ann_id": 1980372, "best_split": [1, 5], "split_score": 0.3366763241708137}
+{"sent": "yellow oven", "ann_id": 1980372, "best_split": [3, 1], "split_score": 0.30985318278953444}
+{"sent": "brown and yellow small stove", "ann_id": 1980372, "best_split": [3, 2], "split_score": 0.5311829961283506}
+{"sent": "silver door", "ann_id": 1122855, "best_split": [1, 2], "split_score": 0.04516129032127992}
+{"sent": "silver box", "ann_id": 1122855, "best_split": [2, 2], "split_score": 0.5502742229988068}
+{"sent": "silver oven door", "ann_id": 1122855, "best_split": [1, 2], "split_score": 0.3613445378015702}

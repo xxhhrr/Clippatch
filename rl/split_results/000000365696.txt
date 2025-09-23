@@ -1,0 +1,6 @@
+{"sent": "horse with longer white patch on nose", "ann_id": 57097, "best_split": [3, 2], "split_score": 0.5279295688731079}
+{"sent": "horse on far side", "ann_id": 57097, "best_split": [3, 2], "split_score": 0.5279295688731079}
+{"sent": "horse in rear", "ann_id": 57097, "best_split": [3, 2], "split_score": 0.5279295688731079}
+{"sent": "main horse", "ann_id": 55588, "best_split": [1, 2], "split_score": 0.37557185144054184}
+{"sent": "closer horse", "ann_id": 55588, "best_split": [1, 2], "split_score": 0.37557185144054184}
+{"sent": "horse closer to camera", "ann_id": 55588, "best_split": [1, 2], "split_score": 0.37557185144054184}

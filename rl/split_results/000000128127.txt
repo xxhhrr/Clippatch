@@ -1,0 +1,6 @@
+{"sent": "man in blue", "ann_id": 1242930, "best_split": [1, 5], "split_score": 0.7054584758867358}
+{"sent": "partial man blue shirt", "ann_id": 1242930, "best_split": [1, 5], "split_score": 0.7054584758867358}
+{"sent": "guy partially in frame facing away", "ann_id": 1242930, "best_split": [3, 3], "split_score": 0.3500927643460025}
+{"sent": "the cute blond", "ann_id": 530972, "best_split": [1, 3], "split_score": 0.4570401063068939}
+{"sent": "blond lady", "ann_id": 530972, "best_split": [1, 3], "split_score": 0.4570401063068939}
+{"sent": "blond woman", "ann_id": 530972, "best_split": [1, 3], "split_score": 0.4570401063068939}

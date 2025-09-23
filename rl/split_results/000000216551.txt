@@ -1,0 +1,5 @@
+{"sent": "least visible zebra", "ann_id": 591259, "best_split": [2, 1], "split_score": 0.8319472655182636}
+{"sent": "butt", "ann_id": 591259, "best_split": [2, 1], "split_score": 0.8319472655182636}
+{"sent": "zebra with head visible", "ann_id": 590364, "best_split": [1, 2], "split_score": 0.5667299928589785}
+{"sent": "zebra with eye showing", "ann_id": 590364, "best_split": [1, 2], "split_score": 0.5667299928589785}
+{"sent": "zebra face", "ann_id": 590364, "best_split": [1, 2], "split_score": 0.5667299928589785}

@@ -1,0 +1,9 @@
+{"sent": "darkest brown horse", "ann_id": 368843, "best_split": [2, 3], "split_score": 0.5991316931363312}
+{"sent": "dark brown horse near edge not part of pair colorwise", "ann_id": 368843, "best_split": [2, 3], "split_score": 0.5991316931363312}
+{"sent": "brown horse showing more blanket", "ann_id": 368843, "best_split": [2, 3], "split_score": 0.5991316931363312}
+{"sent": "horse on end", "ann_id": 274099, "best_split": [2, 2], "split_score": 0.260443239775156}
+{"sent": "horse number 5", "ann_id": 274099, "best_split": [2, 2], "split_score": 0.260443239775156}
+{"sent": "the horse carrying the blue helmet man", "ann_id": 274099, "best_split": [2, 2], "split_score": 0.260443239775156}
+{"sent": "horse with the guy touching his hat", "ann_id": 57599, "best_split": [3, 2], "split_score": 0.21455363838948296}
+{"sent": "smaller darker horse standing on white line", "ann_id": 57599, "best_split": [3, 2], "split_score": 0.21455363838948296}
+{"sent": "black horse with man with kicked out leg", "ann_id": 57599, "best_split": [3, 2], "split_score": 0.21455363838948296}

@@ -1,0 +1,14 @@
+{"sent": "bananas lower row number 1", "ann_id": 1547585, "best_split": [2, 3], "split_score": 0.5240106176973925}
+{"sent": "bunch with two stickers", "ann_id": 1547585, "best_split": [2, 3], "split_score": 0.5240106176973925}
+{"sent": "lower row bunch with 4 showing all upright no plastic", "ann_id": 1547365, "best_split": [2, 2], "split_score": 0.329719387728817}
+{"sent": "sticker on lowr portion of banana", "ann_id": 1547365, "best_split": [2, 2], "split_score": 0.329719387728817}
+{"sent": "lower bananas 1 sticker", "ann_id": 1547365, "best_split": [2, 2], "split_score": 0.329719387728817}
+{"sent": "long labels on banana", "ann_id": 1547112, "best_split": [3, 1], "split_score": 0.11400276369679854}
+{"sent": "banana with black sticker on lower row", "ann_id": 1547112, "best_split": [3, 1], "split_score": 0.11400276369679854}
+{"sent": "banana bunch next to single which is next to sticker bunch", "ann_id": 1546764, "best_split": [1, 5], "split_score": 0.3268851164304298}
+{"sent": "bananas without sticker high", "ann_id": 1546235, "best_split": [1, 5], "split_score": 0.3057915057619892}
+{"sent": "yikes the upper bunch that is very yellow", "ann_id": 1546235, "best_split": [1, 5], "split_score": 0.3057915057619892}
+{"sent": "bunch of banana with no stickers", "ann_id": 1546235, "best_split": [1, 5], "split_score": 0.3057915057619892}
+{"sent": "bunch with three leaning on edge", "ann_id": 1543290, "best_split": [3, 1], "split_score": 0.04535057185254348}
+{"sent": "banana bundle at 1000", "ann_id": 1543290, "best_split": [5, 1], "split_score": 0.21265050023633622}
+{"sent": "4 in the bunch", "ann_id": 1541727, "best_split": [1, 2], "split_score": 0.10819635634639915}

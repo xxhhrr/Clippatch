@@ -1,0 +1,6 @@
+{"sent": "the one furthest away from the camera", "ann_id": 519612, "best_split": [1, 5], "split_score": 0.39967184630830305}
+{"sent": "person in back no red", "ann_id": 519612, "best_split": [3, 1], "split_score": 0.19104276573178566}
+{"sent": "skiier in black", "ann_id": 519612, "best_split": [5, 1], "split_score": 0.07501853224054718}
+{"sent": "red sleeve", "ann_id": 497695, "best_split": [1, 5], "split_score": 0.38593399548334395}
+{"sent": "skier red arm", "ann_id": 497695, "best_split": [1, 5], "split_score": 0.38593399548334395}
+{"sent": "blue clothes white shoes red arm", "ann_id": 497695, "best_split": [1, 5], "split_score": 0.38593399548334395}

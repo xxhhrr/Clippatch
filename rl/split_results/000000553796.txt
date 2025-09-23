@@ -1,0 +1,5 @@
+{"sent": "white strip on bench", "ann_id": 2173895, "best_split": [1, 2], "split_score": 0.39589716582736745}
+{"sent": "closest seat", "ann_id": 2173895, "best_split": [3, 1], "split_score": 0.4955406744393399}
+{"sent": "big red seat", "ann_id": 2173895, "best_split": [2, 1], "split_score": 0.7147435897225728}
+{"sent": "9 o clock", "ann_id": 2173975, "best_split": [1, 2], "split_score": 0.2725207270299537}
+{"sent": "bench that is cutoff near the window", "ann_id": 2173975, "best_split": [2, 1], "split_score": 0.0964761643049706}

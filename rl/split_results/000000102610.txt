@@ -1,0 +1,4 @@
+{"sent": "zebra behind another", "ann_id": 590337, "best_split": [3, 2], "split_score": 0.5754248917369973}
+{"sent": "zebra next to closest one", "ann_id": 590222, "best_split": [3, 2], "split_score": 0.42232722972806386}
+{"sent": "covered zebra", "ann_id": 590222, "best_split": [3, 2], "split_score": 0.42232722972806386}
+{"sent": "zebra half covered by another", "ann_id": 590222, "best_split": [3, 2], "split_score": 0.42232722972806386}

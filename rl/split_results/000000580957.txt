@@ -1,0 +1,6 @@
+{"sent": "white bowl with vertical stripes", "ann_id": 1537681, "best_split": [3, 3], "split_score": 0.6499909697218726}
+{"sent": "white bowl on corner", "ann_id": 1537681, "best_split": [3, 2], "split_score": 0.4416023165490344}
+{"sent": "white bowl next to rice", "ann_id": 1537681, "best_split": [5, 1], "split_score": 0.24273630008801614}
+{"sent": "bowl of carrots", "ann_id": 710706, "best_split": [2, 1], "split_score": 0.5511002289318526}
+{"sent": "carrots", "ann_id": 710706, "best_split": [2, 1], "split_score": 0.5511002289318526}
+{"sent": "bowl of carrots", "ann_id": 710706, "best_split": [2, 1], "split_score": 0.5511002289318526}

@@ -1,0 +1,10 @@
+{"sent": "red shirt", "ann_id": 511665, "best_split": [3, 2], "split_score": 0.4364351244676619}
+{"sent": "red shirt lady", "ann_id": 511665, "best_split": [3, 2], "split_score": 0.4364351244676619}
+{"sent": "lady glasses", "ann_id": 511665, "best_split": [3, 2], "split_score": 0.4364351244676619}
+{"sent": "the guy", "ann_id": 510060, "best_split": [1, 3], "split_score": 0.5573117760281544}
+{"sent": "the only male", "ann_id": 510060, "best_split": [1, 3], "split_score": 0.5573117760281544}
+{"sent": "guy tan jacket", "ann_id": 510060, "best_split": [1, 3], "split_score": 0.5573117760281544}
+{"sent": "ma", "ann_id": 510060, "best_split": [2, 1], "split_score": 0.19669502160798022}
+{"sent": "curl with long curly hair and black shirt not facing camera", "ann_id": 492503, "best_split": [1, 3], "split_score": 0.6487064357147366}
+{"sent": "woman who resembles bear", "ann_id": 492503, "best_split": [1, 3], "split_score": 0.6487064357147366}
+{"sent": "woman in black", "ann_id": 492503, "best_split": [1, 3], "split_score": 0.6487064357147366}

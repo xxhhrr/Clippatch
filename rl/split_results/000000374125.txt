@@ -1,0 +1,6 @@
+{"sent": "blurry donut", "ann_id": 1081210, "best_split": [3, 2], "split_score": 0.4562506336351768}
+{"sent": "blurry goodie", "ann_id": 1081210, "best_split": [5, 1], "split_score": 0.2612619744864807}
+{"sent": "bread on table", "ann_id": 1081210, "best_split": [3, 2], "split_score": 0.4562506336351768}
+{"sent": "food thats in focus", "ann_id": 1079448, "best_split": [3, 3], "split_score": 0.5689236578676931}
+{"sent": "food in hand", "ann_id": 1079448, "best_split": [3, 3], "split_score": 0.5689236578676931}
+{"sent": "donut with bite", "ann_id": 1079448, "best_split": [3, 3], "split_score": 0.5689236578676931}

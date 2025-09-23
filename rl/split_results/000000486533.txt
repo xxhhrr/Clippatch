@@ -1,0 +1,6 @@
+{"sent": "happier guy", "ann_id": 481689, "best_split": [3, 1], "split_score": 0.25841269840244396}
+{"sent": "man looking away", "ann_id": 481689, "best_split": [3, 1], "split_score": 0.25841269840244396}
+{"sent": "player smiling but looking away from the camera", "ann_id": 481689, "best_split": [3, 1], "split_score": 0.25841269840244396}
+{"sent": "man looking straight forward", "ann_id": 438363, "best_split": [1, 3], "split_score": 0.505239852373666}
+{"sent": "batter that does not have a big goofy grin", "ann_id": 438363, "best_split": [1, 3], "split_score": 0.505239852373666}
+{"sent": "man looking straight", "ann_id": 438363, "best_split": [1, 2], "split_score": 0.34094571887868375}

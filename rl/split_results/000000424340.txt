@@ -1,0 +1,17 @@
+{"sent": "black and white shoes", "ann_id": 2204963, "best_split": [2, 2], "split_score": 0.8645511972333957}
+{"sent": "tennis shoes", "ann_id": 2204963, "best_split": [2, 2], "split_score": 0.8645511972333957}
+{"sent": "guys tennis shoes", "ann_id": 2204963, "best_split": [2, 2], "split_score": 0.8645511972333957}
+{"sent": "white bench by shoes", "ann_id": 576198, "best_split": [3, 1], "split_score": 0.30888030886167467}
+{"sent": "white bench behind legs", "ann_id": 576198, "best_split": [3, 2], "split_score": 0.3603896103530449}
+{"sent": "white seat of a bench", "ann_id": 576198, "best_split": [1, 2], "split_score": 0.054748603350043695}
+{"sent": "the bench by man in hat", "ann_id": 575282, "best_split": [3, 1], "split_score": 0.7964759806657256}
+{"sent": "bench part man is looking at", "ann_id": 575282, "best_split": [3, 1], "split_score": 0.7964759806657256}
+{"sent": "legs with boots on", "ann_id": 561680, "best_split": [2, 2], "split_score": 0.8159582998652795}
+{"sent": "all black boots", "ann_id": 561680, "best_split": [2, 1], "split_score": 0.5831473214053273}
+{"sent": "legs with all black shoes", "ann_id": 561680, "best_split": [2, 1], "split_score": 0.5831473214053273}
+{"sent": "man", "ann_id": 481688, "best_split": [2, 2], "split_score": 0.7500993771862926}
+{"sent": "guy wearing the dorky hat", "ann_id": 481688, "best_split": [2, 1], "split_score": 0.552933673447348}
+{"sent": "man", "ann_id": 481688, "best_split": [2, 2], "split_score": 0.7500993771862926}
+{"sent": "women in hat", "ann_id": 439343, "best_split": [2, 2], "split_score": 0.7892219387125939}
+{"sent": "her in cap", "ann_id": 439343, "best_split": [2, 2], "split_score": 0.7892219387125939}
+{"sent": "lady in hat", "ann_id": 439343, "best_split": [2, 2], "split_score": 0.7892219387125939}

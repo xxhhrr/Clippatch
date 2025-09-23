@@ -1,0 +1,6 @@
+{"sent": "bus that is behind another bus", "ann_id": 169265, "best_split": [5, 1], "split_score": 0.2289281997702272}
+{"sent": "half of bus", "ann_id": 169265, "best_split": [5, 1], "split_score": 0.2289281997702272}
+{"sent": "not lead bus", "ann_id": 169265, "best_split": [5, 1], "split_score": 0.2289281997702272}
+{"sent": "bus number one", "ann_id": 168167, "best_split": [5, 1], "split_score": 0.49846200011265196}
+{"sent": "full bus visible", "ann_id": 168167, "best_split": [5, 1], "split_score": 0.49846200011265196}
+{"sent": "bus you can see all of", "ann_id": 168167, "best_split": [5, 1], "split_score": 0.49846200011265196}

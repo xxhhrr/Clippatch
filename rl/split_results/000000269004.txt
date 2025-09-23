@@ -1,0 +1,9 @@
+{"sent": "guy in background on phone", "ann_id": 2156239, "best_split": [1, 5], "split_score": 0.7349491789743012}
+{"sent": "the man in teh background", "ann_id": 2156239, "best_split": [3, 1], "split_score": 0.1454783748293635}
+{"sent": "black guy on phone", "ann_id": 2156239, "best_split": [1, 5], "split_score": 0.7349491789743012}
+{"sent": "man with sunglasses", "ann_id": 516157, "best_split": [1, 3], "split_score": 0.5886228506914422}
+{"sent": "brown shirt", "ann_id": 516157, "best_split": [1, 3], "split_score": 0.5886228506914422}
+{"sent": "glasses", "ann_id": 516157, "best_split": [1, 3], "split_score": 0.5886228506914422}
+{"sent": "man in facepaint", "ann_id": 508174, "best_split": [1, 2], "split_score": 0.5172153237660324}
+{"sent": "black and red shirt arms open", "ann_id": 508174, "best_split": [1, 2], "split_score": 0.5172153237660324}
+{"sent": "with beard", "ann_id": 508174, "best_split": [1, 2], "split_score": 0.5172153237660324}

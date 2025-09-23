@@ -1,0 +1,4 @@
+{"sent": "back of seat person is facing", "ann_id": 1595473, "best_split": [3, 1], "split_score": 0.243811776622294}
+{"sent": "empty seats", "ann_id": 1595473, "best_split": [3, 1], "split_score": 0.243811776622294}
+{"sent": "frontmost chair without a person", "ann_id": 1595473, "best_split": [1, 5], "split_score": 0.46941678517590735}
+{"sent": "bus chair near camera", "ann_id": 289477, "best_split": [1, 2], "split_score": 0.658179848295226}

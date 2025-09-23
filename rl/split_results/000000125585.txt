@@ -1,0 +1,5 @@
+{"sent": "green on it", "ann_id": 1076608, "best_split": [3, 3], "split_score": 0.6352295408125034}
+{"sent": "pizza at 7 o clock", "ann_id": 1076608, "best_split": [5, 1], "split_score": 0.20442410372027933}
+{"sent": "2 slices of pizza", "ann_id": 1075927, "best_split": [2, 2], "split_score": 0.3772600323109466}
+{"sent": "taken slice closest", "ann_id": 1075927, "best_split": [3, 2], "split_score": 0.5489839571605365}
+{"sent": "pizza slice closest to us", "ann_id": 1075927, "best_split": [2, 2], "split_score": 0.3772600323109466}

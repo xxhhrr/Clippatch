@@ -1,0 +1,6 @@
+{"sent": "sheep closer to blue and white bag", "ann_id": 62911, "best_split": [1, 3], "split_score": 0.6846339500862513}
+{"sent": "animal with open eyes", "ann_id": 62911, "best_split": [1, 3], "split_score": 0.6846339500862513}
+{"sent": "larger sheep", "ann_id": 62911, "best_split": [1, 3], "split_score": 0.6846339500862513}
+{"sent": "animal looking towards us", "ann_id": 62189, "best_split": [2, 2], "split_score": 0.4821744338325153}
+{"sent": "animal not near a bag", "ann_id": 62189, "best_split": [2, 1], "split_score": 0.29811320753712556}
+{"sent": "animal facing camera", "ann_id": 62189, "best_split": [2, 2], "split_score": 0.4821744338325153}

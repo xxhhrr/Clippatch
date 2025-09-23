@@ -1,0 +1,6 @@
+{"sent": "bus offscreen", "ann_id": 169304, "best_split": [1, 5], "split_score": 0.381471389608654}
+{"sent": "partial bus", "ann_id": 169304, "best_split": [1, 5], "split_score": 0.381471389608654}
+{"sent": "partial bus", "ann_id": 169304, "best_split": [1, 5], "split_score": 0.381471389608654}
+{"sent": "main tram", "ann_id": 169279, "best_split": [3, 1], "split_score": 0.49390815367303725}
+{"sent": "the entire bus", "ann_id": 169279, "best_split": [3, 1], "split_score": 0.49390815367303725}
+{"sent": "yellow bus in frame", "ann_id": 169279, "best_split": [3, 1], "split_score": 0.49390815367303725}

@@ -1,0 +1,5 @@
+{"sent": "darkest couch section closest to lamp", "ann_id": 99785, "best_split": [3, 2], "split_score": 0.28467153281863566}
+{"sent": "couch 7 o clock from the lamp", "ann_id": 99785, "best_split": [3, 2], "split_score": 0.28467153281863566}
+{"sent": "couch below mirror", "ann_id": 98972, "best_split": [2, 2], "split_score": 0.42968749996574557}
+{"sent": "couch with back on wall", "ann_id": 98972, "best_split": [2, 2], "split_score": 0.42968749996574557}
+{"sent": "blue couch under the mirror against the wall", "ann_id": 98972, "best_split": [2, 2], "split_score": 0.42968749996574557}

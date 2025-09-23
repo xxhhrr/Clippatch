@@ -1,0 +1,5 @@
+{"sent": "bike by door", "ann_id": 130132, "best_split": [2, 3], "split_score": 0.5632822056494512}
+{"sent": "bike closes to the doors", "ann_id": 130132, "best_split": [2, 3], "split_score": 0.5632822056494512}
+{"sent": "bicycle with blue handle bars", "ann_id": 126102, "best_split": [2, 1], "split_score": 0.5331420683537732}
+{"sent": "blue bike closest", "ann_id": 126102, "best_split": [2, 1], "split_score": 0.5331420683537732}
+{"sent": "bike in foreground", "ann_id": 126102, "best_split": [2, 1], "split_score": 0.5331420683537732}

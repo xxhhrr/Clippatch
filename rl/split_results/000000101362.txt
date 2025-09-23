@@ -1,0 +1,6 @@
+{"sent": "sandwich one", "ann_id": 312631, "best_split": [3, 2], "split_score": 0.5224646982832877}
+{"sent": "sandwich piece farthest from fries", "ann_id": 312631, "best_split": [3, 2], "split_score": 0.5224646982832877}
+{"sent": "bigger sandwich", "ann_id": 312631, "best_split": [3, 2], "split_score": 0.5224646982832877}
+{"sent": "sandwich near fries", "ann_id": 309553, "best_split": [3, 3], "split_score": 0.4874399910140181}
+{"sent": "sandwich closer to fries", "ann_id": 309553, "best_split": [1, 5], "split_score": 0.4937979916889884}
+{"sent": "sandwich half closer to the fries", "ann_id": 309553, "best_split": [1, 5], "split_score": 0.4937979916889884}

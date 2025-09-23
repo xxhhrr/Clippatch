@@ -1,0 +1,6 @@
+{"sent": "fartest sandwich", "ann_id": 1554095, "best_split": [1, 2], "split_score": 0.21344866070577773}
+{"sent": "sandwich with most meat showing", "ann_id": 1554095, "best_split": [1, 5], "split_score": 0.32603957803800543}
+{"sent": "smaller half of sandwich", "ann_id": 1554095, "best_split": [1, 2], "split_score": 0.21344866070577773}
+{"sent": "sandwich half touching avocado", "ann_id": 1553734, "best_split": [2, 3], "split_score": 0.37936943108470106}
+{"sent": "sandwich touching avocado", "ann_id": 1553734, "best_split": [2, 3], "split_score": 0.37936943108470106}
+{"sent": "closest bread", "ann_id": 1553734, "best_split": [2, 3], "split_score": 0.37936943108470106}

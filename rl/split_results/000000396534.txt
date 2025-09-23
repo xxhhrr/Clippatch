@@ -1,0 +1,10 @@
+{"sent": "very blurry person closest to edge of screen away from racket", "ann_id": 1681496, "best_split": [3, 1], "split_score": 0.11527809830860385}
+{"sent": "blurry person by green thing", "ann_id": 1681496, "best_split": [1, 5], "split_score": 0.27942370127035066}
+{"sent": "man", "ann_id": 1293541, "best_split": [1, 3], "split_score": 0.5068336070751284}
+{"sent": "player", "ann_id": 1293541, "best_split": [1, 3], "split_score": 0.5068336070751284}
+{"sent": "player", "ann_id": 1293541, "best_split": [1, 3], "split_score": 0.5068336070751284}
+{"sent": "woman in white next to pink tank", "ann_id": 1268839, "best_split": [2, 3], "split_score": 0.5840974902770152}
+{"sent": "person in audiance bright white shirt", "ann_id": 1268839, "best_split": [2, 2], "split_score": 0.38592155609168355}
+{"sent": "girl in back with black shorts", "ann_id": 1210035, "best_split": [1, 5], "split_score": 0.8371550323825938}
+{"sent": "white shirt black shorts", "ann_id": 1210035, "best_split": [1, 2], "split_score": 0.32888233417056434}
+{"sent": "blurred out person standing with shorts on hands behind her back", "ann_id": 1210035, "best_split": [1, 5], "split_score": 0.8371550323825938}

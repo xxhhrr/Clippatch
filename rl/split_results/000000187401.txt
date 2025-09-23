@@ -1,0 +1,5 @@
+{"sent": "black mane horse", "ann_id": 56430, "best_split": [3, 3], "split_score": 0.36771761477315645}
+{"sent": "horse with dark mane", "ann_id": 56430, "best_split": [3, 1], "split_score": 0.23253483922795634}
+{"sent": "small pony", "ann_id": 56430, "best_split": [3, 3], "split_score": 0.36771761477315645}
+{"sent": "bigger one", "ann_id": 55328, "best_split": [1, 3], "split_score": 0.45557201035247524}
+{"sent": "horse with blond hair", "ann_id": 55328, "best_split": [1, 2], "split_score": 0.7555639618953545}

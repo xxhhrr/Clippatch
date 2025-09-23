@@ -1,0 +1,6 @@
+{"sent": "the van", "ann_id": 2049596, "best_split": [3, 3], "split_score": 0.7485987695490637}
+{"sent": "metro", "ann_id": 2049596, "best_split": [3, 1], "split_score": 0.41693849709881153}
+{"sent": "closest bus", "ann_id": 2049596, "best_split": [3, 1], "split_score": 0.41693849709881153}
+{"sent": "bus behind the metro", "ann_id": 164848, "best_split": [3, 3], "split_score": 0.55168005833607}
+{"sent": "larger bus near tree", "ann_id": 164848, "best_split": [3, 3], "split_score": 0.55168005833607}
+{"sent": "back bus", "ann_id": 164848, "best_split": [3, 3], "split_score": 0.55168005833607}

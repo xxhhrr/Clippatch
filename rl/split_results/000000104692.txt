@@ -1,0 +1,6 @@
+{"sent": "bird looking up", "ann_id": 39433, "best_split": [1, 2], "split_score": 0.3738839285565257}
+{"sent": "all gray bird", "ann_id": 39433, "best_split": [1, 5], "split_score": 0.44197901046162075}
+{"sent": "bird that does not have brown beak", "ann_id": 39433, "best_split": [1, 2], "split_score": 0.3738839285565257}
+{"sent": "bird with large beak", "ann_id": 37897, "best_split": [2, 3], "split_score": 0.48704663208229304}
+{"sent": "big beak", "ann_id": 37897, "best_split": [2, 3], "split_score": 0.48704663208229304}
+{"sent": "black bird", "ann_id": 37897, "best_split": [2, 3], "split_score": 0.48704663208229304}

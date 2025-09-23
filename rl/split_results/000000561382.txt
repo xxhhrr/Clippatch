@@ -1,0 +1,12 @@
+{"sent": "man in dark clothing and dark cap", "ann_id": 551864, "best_split": [1, 2], "split_score": 0.21679687499135855}
+{"sent": "guy in blue walking off screen", "ann_id": 551864, "best_split": [1, 2], "split_score": 0.21679687499135855}
+{"sent": "man in dark cap and blue coat", "ann_id": 551864, "best_split": [1, 2], "split_score": 0.21679687499135855}
+{"sent": "blue jeans light blue shirt dark jacket no umbrella", "ann_id": 546708, "best_split": [3, 3], "split_score": 0.19717559283277702}
+{"sent": "guy blue shirt open black jacket", "ann_id": 546708, "best_split": [3, 2], "split_score": 0.23178116514598232}
+{"sent": "man in black coat tan pants near the light umbrella", "ann_id": 546708, "best_split": [3, 3], "split_score": 0.19717559283277702}
+{"sent": "blue rain coat hood on brown bag", "ann_id": 493131, "best_split": [3, 2], "split_score": 0.284055118082278}
+{"sent": "handbag head down", "ann_id": 493131, "best_split": [3, 3], "split_score": 0.3927599346226511}
+{"sent": "girl in hooded jacket and purse but without umbrella", "ann_id": 493131, "best_split": [3, 2], "split_score": 0.284055118082278}
+{"sent": "woman in gray with umbrella", "ann_id": 2161880, "best_split": [3, 1], "split_score": 0.127430285516752}
+{"sent": "tan jacket green skirt yellow umbrella", "ann_id": 2161880, "best_split": [3, 1], "split_score": 0.127430285516752}
+{"sent": "white coat", "ann_id": 2161880, "best_split": [3, 3], "split_score": 0.33236742968235766}

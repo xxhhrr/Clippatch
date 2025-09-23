@@ -1,0 +1,9 @@
+{"sent": "a parent sitting", "ann_id": 217848, "best_split": [2, 2], "split_score": 0.6550991501029805}
+{"sent": "person in the chair", "ann_id": 217848, "best_split": [2, 2], "split_score": 0.6550991501029805}
+{"sent": "woman sitting", "ann_id": 217848, "best_split": [2, 2], "split_score": 0.6550991501029805}
+{"sent": "red pjs", "ann_id": 217675, "best_split": [1, 3], "split_score": 0.3431467181260167}
+{"sent": "boy in red", "ann_id": 217675, "best_split": [1, 5], "split_score": 0.5771103895518354}
+{"sent": "red", "ann_id": 217675, "best_split": [1, 5], "split_score": 0.5771103895518354}
+{"sent": "blue boy", "ann_id": 185915, "best_split": [1, 5], "split_score": 0.6172344688936993}
+{"sent": "blu outfit", "ann_id": 185915, "best_split": [1, 5], "split_score": 0.6172344688936993}
+{"sent": "blue boy", "ann_id": 185915, "best_split": [1, 5], "split_score": 0.6172344688936993}

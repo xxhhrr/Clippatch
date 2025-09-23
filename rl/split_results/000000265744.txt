@@ -1,0 +1,5 @@
+{"sent": "bigger horse", "ann_id": 55438, "best_split": [1, 3], "split_score": 0.8895994207957529}
+{"sent": "horse not looking at the girl", "ann_id": 55438, "best_split": [1, 3], "split_score": 0.8895994207957529}
+{"sent": "horse closest to woman", "ann_id": 54625, "best_split": [1, 2], "split_score": 0.24689094386771002}
+{"sent": "donkey closest to the hot girl", "ann_id": 54625, "best_split": [1, 2], "split_score": 0.24689094386771002}
+{"sent": "closest to woman", "ann_id": 54625, "best_split": [1, 2], "split_score": 0.24689094386771002}

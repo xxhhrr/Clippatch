@@ -1,0 +1,6 @@
+{"sent": "chocolate", "ann_id": 1079380, "best_split": [3, 3], "split_score": 0.5197752322757969}
+{"sent": "chocolate donut", "ann_id": 1079380, "best_split": [3, 3], "split_score": 0.5197752322757969}
+{"sent": "chocolate donut underneath other donut", "ann_id": 1079380, "best_split": [3, 3], "split_score": 0.5197752322757969}
+{"sent": "sprinkles", "ann_id": 1078640, "best_split": [2, 2], "split_score": 0.44937549824279993}
+{"sent": "donut with nuts", "ann_id": 1078640, "best_split": [2, 2], "split_score": 0.44937549824279993}
+{"sent": "white donut", "ann_id": 1078640, "best_split": [2, 2], "split_score": 0.44937549824279993}

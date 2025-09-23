@@ -1,0 +1,5 @@
+{"sent": "the couch nearest to the bushes", "ann_id": 109377, "best_split": [2, 2], "split_score": 0.22361288263523493}
+{"sent": "seat that is not a lounger", "ann_id": 109377, "best_split": [5, 1], "split_score": 0.2363050483120491}
+{"sent": "the chair closer to the screen", "ann_id": 108749, "best_split": [3, 2], "split_score": 0.4364508392762049}
+{"sent": "chair nearest me", "ann_id": 108749, "best_split": [3, 2], "split_score": 0.4364508392762049}
+{"sent": "closest chair", "ann_id": 108749, "best_split": [3, 2], "split_score": 0.4364508392762049}

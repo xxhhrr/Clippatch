@@ -1,0 +1,6 @@
+{"sent": "black shirt white shorts", "ann_id": 1287880, "best_split": [2, 3], "split_score": 0.3796287004134843}
+{"sent": "black shirt can and shorts", "ann_id": 1287880, "best_split": [2, 3], "split_score": 0.3796287004134843}
+{"sent": "blue hat black shirt white shorts tennis shoes", "ann_id": 1287880, "best_split": [2, 3], "split_score": 0.3796287004134843}
+{"sent": "white shirt", "ann_id": 1258414, "best_split": [1, 3], "split_score": 0.7940527977597251}
+{"sent": "man", "ann_id": 1258414, "best_split": [1, 3], "split_score": 0.7940527977597251}
+{"sent": "man in white", "ann_id": 1258414, "best_split": [1, 3], "split_score": 0.7940527977597251}

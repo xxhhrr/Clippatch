@@ -1,0 +1,12 @@
+{"sent": "white looking fan", "ann_id": 1951934, "best_split": [1, 2], "split_score": 0.12699298468881565}
+{"sent": "feathers in mirror", "ann_id": 1951934, "best_split": [2, 3], "split_score": 0.24798781811529388}
+{"sent": "reflection of flower", "ann_id": 1951934, "best_split": [3, 1], "split_score": 0.12271332802393402}
+{"sent": "reflection of vase", "ann_id": 1157030, "best_split": [3, 2], "split_score": 0.2970092815145231}
+{"sent": "mirror with lot of sticks", "ann_id": 1157030, "best_split": [2, 2], "split_score": 0.3764940238775972}
+{"sent": "sticks visible in mirror", "ann_id": 1157030, "best_split": [3, 2], "split_score": 0.2850817438449351}
+{"sent": "vase", "ann_id": 1152805, "best_split": [1, 3], "split_score": 0.3743363899388069}
+{"sent": "the vase the flowers are in", "ann_id": 1152805, "best_split": [1, 3], "split_score": 0.3743363899388069}
+{"sent": "vase closest to you", "ann_id": 1152805, "best_split": [1, 3], "split_score": 0.3743363899388069}
+{"sent": "vasenot the reflection of it", "ann_id": 23900, "best_split": [2, 1], "split_score": 0.3308546292330631}
+{"sent": "real flowers not reflection", "ann_id": 23900, "best_split": [1, 2], "split_score": 0.9408889567381667}
+{"sent": "flowers", "ann_id": 23900, "best_split": [1, 2], "split_score": 0.9408889567381667}

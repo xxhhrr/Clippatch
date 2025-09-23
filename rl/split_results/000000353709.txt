@@ -1,0 +1,6 @@
+{"sent": "the giraffe that does not have head in tree", "ann_id": 600548, "best_split": [1, 2], "split_score": 0.5453978158913652}
+{"sent": "darker girafe", "ann_id": 600548, "best_split": [1, 2], "split_score": 0.5453978158913652}
+{"sent": "giraffe not eating", "ann_id": 600548, "best_split": [1, 2], "split_score": 0.5453978158913652}
+{"sent": "giraffe with head up in tree", "ann_id": 600467, "best_split": [3, 1], "split_score": 0.269571428561801}
+{"sent": "lightest giraffe", "ann_id": 600467, "best_split": [2, 1], "split_score": 0.3292705002012529}
+{"sent": "lighter giraffe", "ann_id": 600467, "best_split": [2, 1], "split_score": 0.3292705002012529}

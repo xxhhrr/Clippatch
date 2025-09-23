@@ -1,0 +1,4 @@
+{"sent": "the seat that is partially out of the picture", "ann_id": 1391795, "best_split": [2, 1], "split_score": 0.12981647731271087}
+{"sent": "the bench", "ann_id": 575620, "best_split": [2, 1], "split_score": 0.8597672994159611}
+{"sent": "sitting on", "ann_id": 575620, "best_split": [2, 1], "split_score": 0.8597672994159611}
+{"sent": "bench being sat on", "ann_id": 575620, "best_split": [2, 1], "split_score": 0.8597672994159611}

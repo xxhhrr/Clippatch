@@ -1,0 +1,6 @@
+{"sent": "dog on book with grass in the back", "ann_id": 1402981, "best_split": [3, 3], "split_score": 0.42309739217361664}
+{"sent": "smaller face beneath cat", "ann_id": 1402981, "best_split": [1, 5], "split_score": 0.21228690895687624}
+{"sent": "dog photo shot from further away", "ann_id": 1402981, "best_split": [2, 1], "split_score": 0.2080676020325228}
+{"sent": "picture of dogs face close up", "ann_id": 13427, "best_split": [3, 2], "split_score": 0.477256119795647}
+{"sent": "tthe dog on the right", "ann_id": 13427, "best_split": [3, 2], "split_score": 0.477256119795647}
+{"sent": "bigger dog in book", "ann_id": 13427, "best_split": [2, 2], "split_score": 0.423722907490158}

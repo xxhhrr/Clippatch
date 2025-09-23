@@ -1,0 +1,11 @@
+{"sent": "white car behind brown and white horse", "ann_id": 2054077, "best_split": [1, 5], "split_score": 0.18054828006106616}
+{"sent": "white vehicle 1 o clock", "ann_id": 2054077, "best_split": [5, 1], "split_score": 0.34013875120513987}
+{"sent": "white truck", "ann_id": 1797736, "best_split": [3, 2], "split_score": 0.4391891891361982}
+{"sent": "truck above checked shirt", "ann_id": 1797736, "best_split": [3, 3], "split_score": 0.6647187727054933}
+{"sent": "white truck in corner", "ann_id": 1797736, "best_split": [3, 2], "split_score": 0.4391891891361982}
+{"sent": "black and white horse at edge of picture", "ann_id": 57742, "best_split": [1, 5], "split_score": 0.6391678622095438}
+{"sent": "black and white horse", "ann_id": 57742, "best_split": [1, 5], "split_score": 0.6391678622095438}
+{"sent": "black whit horse", "ann_id": 57742, "best_split": [1, 5], "split_score": 0.6391678622095438}
+{"sent": "brown horse", "ann_id": 55105, "best_split": [3, 2], "split_score": 0.43311920054010566}
+{"sent": "dark horse", "ann_id": 55105, "best_split": [3, 2], "split_score": 0.43311920054010566}
+{"sent": "brown horse", "ann_id": 55105, "best_split": [3, 2], "split_score": 0.43311920054010566}

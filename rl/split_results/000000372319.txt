@@ -1,0 +1,6 @@
+{"sent": "the seat shes facing", "ann_id": 2061623, "best_split": [2, 1], "split_score": 0.27005523407844373}
+{"sent": "seatback across from girl", "ann_id": 2061623, "best_split": [2, 1], "split_score": 0.27005523407844373}
+{"sent": "the back of the seat on the side", "ann_id": 2061623, "best_split": [2, 1], "split_score": 0.27005523407844373}
+{"sent": "bench that the girl is sitting on", "ann_id": 1390506, "best_split": [1, 2], "split_score": 0.6458587744901279}
+{"sent": "seat where lady sits", "ann_id": 1390506, "best_split": [1, 2], "split_score": 0.6458587744901279}
+{"sent": "blue seat next to woman", "ann_id": 1390506, "best_split": [1, 2], "split_score": 0.6458587744901279}

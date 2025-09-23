@@ -1,0 +1,7 @@
+{"sent": "large piece of pie", "ann_id": 1927480, "best_split": [2, 2], "split_score": 0.5586984261620092}
+{"sent": "big piece of pie", "ann_id": 1927480, "best_split": [2, 2], "split_score": 0.5586984261620092}
+{"sent": "food next to fork", "ann_id": 1927480, "best_split": [2, 2], "split_score": 0.5586984261620092}
+{"sent": "smallpiece", "ann_id": 1578021, "best_split": [3, 2], "split_score": 0.24028834599116056}
+{"sent": "half eaten piece broken off", "ann_id": 1578021, "best_split": [2, 3], "split_score": 0.39378937889358806}
+{"sent": "piece of food that is smaller", "ann_id": 1578021, "best_split": [3, 2], "split_score": 0.24028834599116056}
+{"sent": "the smaller piece", "ann_id": 1578021, "best_split": [3, 3], "split_score": 0.33444816048851056}

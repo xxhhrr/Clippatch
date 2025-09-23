@@ -1,0 +1,9 @@
+{"sent": "vase with square pedestal", "ann_id": 1156072, "best_split": [3, 1], "split_score": 0.17155221265408518}
+{"sent": "midsize vase", "ann_id": 1156072, "best_split": [3, 1], "split_score": 0.17155221265408518}
+{"sent": "the shortest vase", "ann_id": 1155057, "best_split": [1, 5], "split_score": 0.3773421983958775}
+{"sent": "shortest", "ann_id": 1155057, "best_split": [3, 2], "split_score": 0.37491635595307177}
+{"sent": "smallest vase", "ann_id": 1155057, "best_split": [1, 5], "split_score": 0.3773421983958775}
+{"sent": "smallest red vase", "ann_id": 1155057, "best_split": [3, 2], "split_score": 0.37491635595307177}
+{"sent": "vase with horses", "ann_id": 1154720, "best_split": [1, 2], "split_score": 0.6008320725945222}
+{"sent": "horse vase", "ann_id": 1154720, "best_split": [1, 2], "split_score": 0.6008320725945222}
+{"sent": "widest vase", "ann_id": 1154720, "best_split": [1, 2], "split_score": 0.6008320725945222}

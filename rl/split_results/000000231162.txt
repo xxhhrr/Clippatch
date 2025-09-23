@@ -1,0 +1,17 @@
+{"sent": "man in suit and sign is covering him", "ann_id": 549791, "best_split": [2, 2], "split_score": 0.24003529929106962}
+{"sent": "man behind board", "ann_id": 549791, "best_split": [3, 2], "split_score": 0.22056545311574693}
+{"sent": "man in suit partially covered by sign", "ann_id": 549791, "best_split": [3, 2], "split_score": 0.22056545311574693}
+{"sent": "last person to side", "ann_id": 544895, "best_split": [2, 1], "split_score": 0.12243461943933252}
+{"sent": "asian on the right", "ann_id": 544895, "best_split": [1, 5], "split_score": 0.36779626619644923}
+{"sent": "man with crossed hands", "ann_id": 537689, "best_split": [2, 3], "split_score": 0.551761400415846}
+{"sent": "man in suite with gray hair", "ann_id": 537689, "best_split": [3, 3], "split_score": 0.2937485995637745}
+{"sent": "man with hands together", "ann_id": 537689, "best_split": [2, 3], "split_score": 0.551761400415846}
+{"sent": "happy red tie", "ann_id": 517626, "best_split": [1, 5], "split_score": 0.3193292144466611}
+{"sent": "man in black suit and red tie", "ann_id": 517626, "best_split": [1, 5], "split_score": 0.3193292144466611}
+{"sent": "red tie", "ann_id": 517626, "best_split": [1, 5], "split_score": 0.3193292144466611}
+{"sent": "pale suit man", "ann_id": 511536, "best_split": [2, 1], "split_score": 0.11849068179620789}
+{"sent": "left gray suited man by sign", "ann_id": 511536, "best_split": [3, 2], "split_score": 0.20100990481637115}
+{"sent": "man looking at the sign", "ann_id": 511536, "best_split": [3, 2], "split_score": 0.20100990481637115}
+{"sent": "suited lady", "ann_id": 478290, "best_split": [1, 5], "split_score": 0.4931006493006188}
+{"sent": "woman", "ann_id": 478290, "best_split": [1, 5], "split_score": 0.4931006493006188}
+{"sent": "woman", "ann_id": 478290, "best_split": [1, 5], "split_score": 0.4931006493006188}

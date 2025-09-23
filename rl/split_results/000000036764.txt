@@ -1,0 +1,14 @@
+{"sent": "piece of bread that would be under 12", "ann_id": 1927005, "best_split": [3, 3], "split_score": 0.5167580742661855}
+{"sent": "white sandwich", "ann_id": 1927005, "best_split": [3, 3], "split_score": 0.5167580742661855}
+{"sent": "sandwich farthest from squares", "ann_id": 1554372, "best_split": [3, 1], "split_score": 0.31335149861981426}
+{"sent": "partial sandwich", "ann_id": 1554372, "best_split": [3, 1], "split_score": 0.31335149861981426}
+{"sent": "cake that is sideways far away from the brownies", "ann_id": 1554372, "best_split": [3, 1], "split_score": 0.31335149861981426}
+{"sent": "small square brown", "ann_id": 1085447, "best_split": [3, 3], "split_score": 0.3340325117402495}
+{"sent": "brownie", "ann_id": 1085447, "best_split": [3, 3], "split_score": 0.3340325117402495}
+{"sent": "chocolatey square with brown swirls", "ann_id": 1085447, "best_split": [3, 3], "split_score": 0.3340325117402495}
+{"sent": "sandwhich by the brownie", "ann_id": 311099, "best_split": [3, 2], "split_score": 0.36838314724807497}
+{"sent": "the sandwich next the the brown cake", "ann_id": 311099, "best_split": [3, 2], "split_score": 0.36838314724807497}
+{"sent": "half of sandwich closer to the squares", "ann_id": 311099, "best_split": [1, 5], "split_score": 0.3367346938507067}
+{"sent": "cake center", "ann_id": 310261, "best_split": [3, 1], "split_score": 0.2919141160180497}
+{"sent": "the most full sandwich no toothpick through it", "ann_id": 310261, "best_split": [3, 3], "split_score": 0.6180848075515185}
+{"sent": "half without toothpick", "ann_id": 310261, "best_split": [3, 3], "split_score": 0.6180848075515185}

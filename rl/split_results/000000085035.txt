@@ -1,0 +1,6 @@
+{"sent": "white horse", "ann_id": 57248, "best_split": [1, 5], "split_score": 0.3984374999595741}
+{"sent": "white horse facing away", "ann_id": 57248, "best_split": [1, 5], "split_score": 0.3984374999595741}
+{"sent": "lighter horse", "ann_id": 57248, "best_split": [2, 2], "split_score": 0.24742502270164912}
+{"sent": "brown horse", "ann_id": 56778, "best_split": [2, 1], "split_score": 0.5259264024534892}
+{"sent": "horse brown", "ann_id": 56778, "best_split": [2, 1], "split_score": 0.5259264024534892}
+{"sent": "brown horse man on it", "ann_id": 56778, "best_split": [2, 1], "split_score": 0.5259264024534892}

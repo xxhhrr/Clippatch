@@ -1,0 +1,14 @@
+{"sent": "sandwich glass", "ann_id": 2183701, "best_split": [3, 3], "split_score": 0.1302532702295779}
+{"sent": "empty cup between the plates", "ann_id": 2183701, "best_split": [2, 2], "split_score": 0.21093749998318417}
+{"sent": "cup closest to us", "ann_id": 2183701, "best_split": [2, 2], "split_score": 0.21093749998318417}
+{"sent": "sandwich half behind the chips", "ann_id": 1909405, "best_split": [3, 3], "split_score": 0.2934095696218162}
+{"sent": "bread above chips", "ann_id": 1909405, "best_split": [1, 5], "split_score": 0.11324639669584365}
+{"sent": "back sammich", "ann_id": 1909405, "best_split": [3, 3], "split_score": 0.2934095696218162}
+{"sent": "pitcher with handle", "ann_id": 1880105, "best_split": [1, 2], "split_score": 0.22923309948065876}
+{"sent": "glass cup wuth handle", "ann_id": 1880105, "best_split": [3, 3], "split_score": 0.7360445336731027}
+{"sent": "a jug at 3 ocklock", "ann_id": 1880105, "best_split": [3, 1], "split_score": 0.04312278078662293}
+{"sent": "clear object with liquid behind empty glass", "ann_id": 2183981, "best_split": [2, 3], "split_score": 0.40154440149595266}
+{"sent": "glass next to bigger glass", "ann_id": 2183981, "best_split": [2, 3], "split_score": 0.40154440149595266}
+{"sent": "blurry glass next to the clear one", "ann_id": 2183981, "best_split": [2, 3], "split_score": 0.40154440149595266}
+{"sent": "open faced sandwich", "ann_id": 311120, "best_split": [2, 3], "split_score": 0.47862242751124545}
+{"sent": "big sandwich", "ann_id": 311120, "best_split": [2, 3], "split_score": 0.47862242751124545}

@@ -1,0 +1,5 @@
+{"sent": "truck cab", "ann_id": 400022, "best_split": [1, 5], "split_score": 0.5054817882503666}
+{"sent": "truck behind", "ann_id": 400022, "best_split": [1, 5], "split_score": 0.5054817882503666}
+{"sent": "4 red marks", "ann_id": 397824, "best_split": [1, 3], "split_score": 0.7110382000989549}
+{"sent": "rear of truck", "ann_id": 397824, "best_split": [1, 3], "split_score": 0.7110382000989549}
+{"sent": "truck with back visible", "ann_id": 397824, "best_split": [1, 3], "split_score": 0.7110382000989549}

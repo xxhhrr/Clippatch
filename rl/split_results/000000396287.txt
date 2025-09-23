@@ -1,0 +1,6 @@
+{"sent": "black truck", "ann_id": 1196670, "best_split": [1, 5], "split_score": 0.3469967532115466}
+{"sent": "brown truck", "ann_id": 1196670, "best_split": [3, 1], "split_score": 0.15370413107813846}
+{"sent": "van behind food truck", "ann_id": 1196670, "best_split": [3, 1], "split_score": 0.15370413107813846}
+{"sent": "food truck", "ann_id": 394801, "best_split": [3, 1], "split_score": 0.5208446128656182}
+{"sent": "green bus", "ann_id": 394801, "best_split": [3, 1], "split_score": 0.5208446128656182}
+{"sent": "hawaiian food truck", "ann_id": 394801, "best_split": [3, 1], "split_score": 0.5208446128656182}

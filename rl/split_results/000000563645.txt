@@ -1,0 +1,6 @@
+{"sent": "man blue and lighe blue jacket", "ann_id": 1306976, "best_split": [2, 2], "split_score": 0.5510204081193383}
+{"sent": "man in dark blue and light blue jacket with his arm up sideways", "ann_id": 1306976, "best_split": [2, 2], "split_score": 0.5510204081193383}
+{"sent": "man with blue strip on arm", "ann_id": 1306976, "best_split": [2, 2], "split_score": 0.5510204081193383}
+{"sent": "black with hand in the air", "ann_id": 1729722, "best_split": [1, 5], "split_score": 0.4230367486066815}
+{"sent": "person with arms raised upward", "ann_id": 1729722, "best_split": [1, 5], "split_score": 0.4230367486066815}
+{"sent": "person pointing towards sky", "ann_id": 1729722, "best_split": [1, 2], "split_score": 0.14884233737030597}

@@ -1,0 +1,6 @@
+{"sent": "man in black", "ann_id": 512624, "best_split": [1, 2], "split_score": 0.7236926020119702}
+{"sent": "the man", "ann_id": 512624, "best_split": [1, 2], "split_score": 0.7236926020119702}
+{"sent": "man in striped shirt holding wine glass", "ann_id": 512624, "best_split": [1, 2], "split_score": 0.7236926020119702}
+{"sent": "white jacket", "ann_id": 446441, "best_split": [1, 3], "split_score": 0.5342703118726285}
+{"sent": "woman", "ann_id": 446441, "best_split": [1, 3], "split_score": 0.5342703118726285}
+{"sent": "girl", "ann_id": 446441, "best_split": [1, 3], "split_score": 0.5342703118726285}

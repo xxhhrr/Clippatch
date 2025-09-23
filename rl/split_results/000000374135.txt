@@ -1,0 +1,5 @@
+{"sent": "corner thing away from crane", "ann_id": 399784, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "car in corner", "ann_id": 399784, "best_split": [3, 3], "split_score": 0.49086924753636424}
+{"sent": "partial something in foreground", "ann_id": 399784, "best_split": [3, 3], "split_score": 0.49086924753636424}
+{"sent": "flatbed truck", "ann_id": 399289, "best_split": [3, 1], "split_score": 0.5999999999682203}
+{"sent": "the actual truck flat bed", "ann_id": 399289, "best_split": [3, 1], "split_score": 0.5999999999682203}

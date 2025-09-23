@@ -1,0 +1,6 @@
+{"sent": "toilet seat", "ann_id": 1967925, "best_split": [3, 3], "split_score": 0.5427092320185922}
+{"sent": "toilet bowl", "ann_id": 1967925, "best_split": [3, 3], "split_score": 0.5427092320185922}
+{"sent": "toilet seat lid", "ann_id": 1967925, "best_split": [3, 3], "split_score": 0.5427092320185922}
+{"sent": "toilet tank", "ann_id": 1623628, "best_split": [2, 2], "split_score": 0.5122767856734473}
+{"sent": "toilet tank", "ann_id": 1623628, "best_split": [2, 2], "split_score": 0.5122767856734473}
+{"sent": "wc water container", "ann_id": 1623628, "best_split": [2, 2], "split_score": 0.5122767856734473}

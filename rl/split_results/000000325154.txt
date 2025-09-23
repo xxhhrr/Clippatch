@@ -1,0 +1,10 @@
+{"sent": "part of a cut zebra one", "ann_id": 1822671, "best_split": [3, 2], "split_score": 0.37138030883549944}
+{"sent": "zebra you can only see stripes no legs or anything", "ann_id": 1822671, "best_split": [3, 2], "split_score": 0.37138030883549944}
+{"sent": "zebra leg rest of body out of shot", "ann_id": 591780, "best_split": [3, 1], "split_score": 0.440696833058346}
+{"sent": "zebra farthest standing", "ann_id": 591780, "best_split": [3, 1], "split_score": 0.440696833058346}
+{"sent": "the zebra we see side view and mostly leg of", "ann_id": 591780, "best_split": [3, 1], "split_score": 0.440696833058346}
+{"sent": "zebra head up", "ann_id": 590939, "best_split": [1, 3], "split_score": 0.8334670946552701}
+{"sent": "head up", "ann_id": 590939, "best_split": [1, 3], "split_score": 0.8334670946552701}
+{"sent": "zebra with head lower", "ann_id": 590768, "best_split": [1, 2], "split_score": 0.695700023555707}
+{"sent": "zebra looking down", "ann_id": 590768, "best_split": [1, 2], "split_score": 0.695700023555707}
+{"sent": "zebra with head lowered a ilttle", "ann_id": 590768, "best_split": [1, 2], "split_score": 0.695700023555707}

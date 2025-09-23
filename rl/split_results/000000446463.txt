@@ -1,0 +1,6 @@
+{"sent": "vehicle facing forward", "ann_id": 1364657, "best_split": [5, 1], "split_score": 0.1803114470284754}
+{"sent": "bus heading toward the camera", "ann_id": 1364657, "best_split": [3, 2], "split_score": 0.3526059598299174}
+{"sent": "bus facing us", "ann_id": 1364657, "best_split": [3, 2], "split_score": 0.3526059598299174}
+{"sent": "light bus", "ann_id": 165298, "best_split": [3, 3], "split_score": 0.37299257462044677}
+{"sent": "bus where all of it is visible", "ann_id": 165298, "best_split": [3, 3], "split_score": 0.37299257462044677}
+{"sent": "old school bus", "ann_id": 165298, "best_split": [3, 3], "split_score": 0.37299257462044677}

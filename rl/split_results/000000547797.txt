@@ -1,0 +1,10 @@
+{"sent": "face cut off", "ann_id": 224406, "best_split": [1, 5], "split_score": 0.832673180104509}
+{"sent": "black guy", "ann_id": 217749, "best_split": [3, 3], "split_score": 0.5067600585589249}
+{"sent": "black man pointing", "ann_id": 217749, "best_split": [3, 3], "split_score": 0.5067600585589249}
+{"sent": "man pointing", "ann_id": 217749, "best_split": [3, 2], "split_score": 0.3475589319240801}
+{"sent": "glasses", "ann_id": 205367, "best_split": [1, 5], "split_score": 0.4013377926116344}
+{"sent": "glasses guy", "ann_id": 205367, "best_split": [1, 5], "split_score": 0.4013377926116344}
+{"sent": "plaid man", "ann_id": 205367, "best_split": [1, 5], "split_score": 0.4013377926116344}
+{"sent": "the white guy in black talking to friend", "ann_id": 199985, "best_split": [3, 1], "split_score": 0.22008620688706523}
+{"sent": "person in black shirt holding knife", "ann_id": 199985, "best_split": [2, 1], "split_score": 0.21383357509515252}
+{"sent": "black jacket with head turned", "ann_id": 199985, "best_split": [1, 5], "split_score": 0.5302708067113093}

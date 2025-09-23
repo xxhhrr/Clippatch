@@ -1,0 +1,9 @@
+{"sent": "chocolate", "ann_id": 1082671, "best_split": [3, 2], "split_score": 0.247127615895863}
+{"sent": "black donut", "ann_id": 1082671, "best_split": [2, 3], "split_score": 0.39543158856801747}
+{"sent": "chocolate donut", "ann_id": 1082671, "best_split": [5, 1], "split_score": 0.23682076234686664}
+{"sent": "donut with white topping in corner", "ann_id": 1082543, "best_split": [5, 1], "split_score": 0.2394366196964115}
+{"sent": "donut in corner sprinkles", "ann_id": 1082543, "best_split": [5, 1], "split_score": 0.2394366196964115}
+{"sent": "donut in the corner of box", "ann_id": 1082543, "best_split": [5, 1], "split_score": 0.2394366196964115}
+{"sent": "light brown glazed cake donut not krispy kreme looking", "ann_id": 1081629, "best_split": [3, 2], "split_score": 0.4430790632456435}
+{"sent": "single column donut", "ann_id": 1081629, "best_split": [3, 2], "split_score": 0.4430790632456435}
+{"sent": "glazed donut next to the one with stuff on it", "ann_id": 1081629, "best_split": [3, 2], "split_score": 0.4430790632456435}

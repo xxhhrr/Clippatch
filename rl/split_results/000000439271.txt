@@ -1,0 +1,5 @@
+{"sent": "shadow of person in corner away from us", "ann_id": 1743798, "best_split": [3, 1], "split_score": 0.18764792064760238}
+{"sent": "corner of picture at 1", "ann_id": 1743798, "best_split": [5, 1], "split_score": 0.15998707173885043}
+{"sent": "pearls", "ann_id": 1712952, "best_split": [3, 2], "split_score": 0.43806704842429267}
+{"sent": "her", "ann_id": 1712952, "best_split": [1, 2], "split_score": 0.43502804147813395}
+{"sent": "lady", "ann_id": 1712952, "best_split": [1, 2], "split_score": 0.43502804147813395}

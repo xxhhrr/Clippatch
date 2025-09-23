@@ -1,0 +1,6 @@
+{"sent": "motorcycle", "ann_id": 1791145, "best_split": [2, 1], "split_score": 0.549952490818856}
+{"sent": "bike near us", "ann_id": 1791145, "best_split": [2, 1], "split_score": 0.549952490818856}
+{"sent": "the motorcycle", "ann_id": 1791145, "best_split": [2, 1], "split_score": 0.549952490818856}
+{"sent": "least visible motorcycle", "ann_id": 155599, "best_split": [5, 1], "split_score": 0.1353934898940755}
+{"sent": "bike without person", "ann_id": 155599, "best_split": [5, 1], "split_score": 0.1353934898940755}
+{"sent": "motorcycle can see least of", "ann_id": 155599, "best_split": [5, 1], "split_score": 0.1353934898940755}

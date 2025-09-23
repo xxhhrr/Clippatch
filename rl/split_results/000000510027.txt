@@ -1,0 +1,20 @@
+{"sent": "apples", "ann_id": 1536273, "best_split": [2, 2], "split_score": 0.5122767856734473}
+{"sent": "apples", "ann_id": 1536273, "best_split": [2, 2], "split_score": 0.5122767856734473}
+{"sent": "box with apple slices", "ann_id": 1536273, "best_split": [2, 2], "split_score": 0.5122767856734473}
+{"sent": "the piece of sandwich farthest from us", "ann_id": 311773, "best_split": [3, 2], "split_score": 0.2730371548377415}
+{"sent": "sandwich half closest to purple", "ann_id": 311773, "best_split": [3, 2], "split_score": 0.2730371548377415}
+{"sent": "sandwich half at 1200", "ann_id": 311773, "best_split": [3, 2], "split_score": 0.2730371548377415}
+{"sent": "sandwich", "ann_id": 2218140, "best_split": [5, 1], "split_score": 0.35077288938260276}
+{"sent": "sandwich half at 1200 but only from the meat down", "ann_id": 2218140, "best_split": [5, 1], "split_score": 0.35077288938260276}
+{"sent": "orange bin", "ann_id": 2108780, "best_split": [1, 5], "split_score": 0.3782237403605274}
+{"sent": "orange bowl", "ann_id": 2108780, "best_split": [1, 5], "split_score": 0.3782237403605274}
+{"sent": "desert", "ann_id": 2108780, "best_split": [2, 1], "split_score": 0.22366111478629866}
+{"sent": "carrots", "ann_id": 1899469, "best_split": [2, 2], "split_score": 0.7061440677467412}
+{"sent": "carrots", "ann_id": 1899469, "best_split": [2, 2], "split_score": 0.7061440677467412}
+{"sent": "carrots", "ann_id": 1899469, "best_split": [2, 2], "split_score": 0.7061440677467412}
+{"sent": "above apples", "ann_id": 311169, "best_split": [1, 5], "split_score": 0.2820121950950827}
+{"sent": "cookie piece", "ann_id": 311169, "best_split": [2, 1], "split_score": 0.13737461839839135}
+{"sent": "triangle cookie", "ann_id": 311169, "best_split": [3, 2], "split_score": 0.18371004678047295}
+{"sent": "egg salad sandwich with less egg salad", "ann_id": 310948, "best_split": [3, 2], "split_score": 0.46059999995393996}
+{"sent": "sandwich between carrots and other sandwich", "ann_id": 310948, "best_split": [1, 2], "split_score": 0.20264991957560505}
+{"sent": "just above carrots and pickles", "ann_id": 310948, "best_split": [1, 2], "split_score": 0.20264991957560505}

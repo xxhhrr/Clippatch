@@ -1,0 +1,4 @@
+{"sent": "rightest umbrella", "ann_id": 282647, "best_split": [5, 1], "split_score": 0.34655396615766726}
+{"sent": "umbrella over the hotdogs", "ann_id": 282215, "best_split": [3, 2], "split_score": 0.8179866923354812}
+{"sent": "the umbrella next to the hotdog sign", "ann_id": 282215, "best_split": [3, 2], "split_score": 0.8179866923354812}
+{"sent": "higher umbrella", "ann_id": 282215, "best_split": [3, 2], "split_score": 0.8179866923354812}

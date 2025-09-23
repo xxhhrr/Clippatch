@@ -1,0 +1,6 @@
+{"sent": "lady in pink shirt and black jacket", "ann_id": 512347, "best_split": [3, 3], "split_score": 0.37065761829525645}
+{"sent": "black shirt", "ann_id": 512347, "best_split": [3, 3], "split_score": 0.37065761829525645}
+{"sent": "pink blouse", "ann_id": 512347, "best_split": [3, 3], "split_score": 0.37065761829525645}
+{"sent": "woman in white", "ann_id": 438221, "best_split": [3, 2], "split_score": 0.46378830078951566}
+{"sent": "gray shirt", "ann_id": 438221, "best_split": [1, 2], "split_score": 0.25613839284693324}
+{"sent": "white shirt", "ann_id": 438221, "best_split": [3, 2], "split_score": 0.46378830078951566}

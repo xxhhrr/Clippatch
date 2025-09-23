@@ -1,0 +1,6 @@
+{"sent": "zebra facing me", "ann_id": 593540, "best_split": [2, 1], "split_score": 0.19419106140245826}
+{"sent": "smaller", "ann_id": 593540, "best_split": [3, 2], "split_score": 0.27521563102664887}
+{"sent": "zebra facing us", "ann_id": 593540, "best_split": [2, 1], "split_score": 0.19419106140245826}
+{"sent": "closest zebra", "ann_id": 592927, "best_split": [2, 2], "split_score": 0.5893629016732843}
+{"sent": "rightest zebra", "ann_id": 592927, "best_split": [2, 2], "split_score": 0.5893629016732843}
+{"sent": "the zebra that eating next to the tree with electrical equipment on it", "ann_id": 592927, "best_split": [2, 2], "split_score": 0.5893629016732843}

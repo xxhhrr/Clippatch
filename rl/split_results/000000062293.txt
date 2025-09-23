@@ -1,0 +1,6 @@
+{"sent": "woman with polka dot shirt", "ann_id": 217304, "best_split": [1, 5], "split_score": 0.49360795449537254}
+{"sent": "woman", "ann_id": 217304, "best_split": [1, 5], "split_score": 0.49360795449537254}
+{"sent": "polka dot lady", "ann_id": 217304, "best_split": [1, 5], "split_score": 0.49360795449537254}
+{"sent": "white shirt", "ann_id": 214996, "best_split": [1, 5], "split_score": 0.5792682926277374}
+{"sent": "light shirt guy", "ann_id": 214996, "best_split": [1, 5], "split_score": 0.5792682926277374}
+{"sent": "man in checkered shirt", "ann_id": 214996, "best_split": [1, 5], "split_score": 0.5792682926277374}

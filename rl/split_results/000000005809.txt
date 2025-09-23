@@ -1,0 +1,6 @@
+{"sent": "red clock", "ann_id": 340529, "best_split": [3, 3], "split_score": 0.6300219136906461}
+{"sent": "red thermometer barometer thing", "ann_id": 340529, "best_split": [3, 3], "split_score": 0.6300219136906461}
+{"sent": "red and white clock below", "ann_id": 340529, "best_split": [3, 3], "split_score": 0.6300219136906461}
+{"sent": "black clock", "ann_id": 340193, "best_split": [2, 3], "split_score": 0.46835443033968915}
+{"sent": "clock with gold hands blue face", "ann_id": 340193, "best_split": [5, 1], "split_score": 0.39239001186144545}
+{"sent": "blue clock", "ann_id": 340193, "best_split": [5, 1], "split_score": 0.39239001186144545}

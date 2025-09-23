@@ -1,0 +1,10 @@
+{"sent": "green sleeve not near edges", "ann_id": 1714472, "best_split": [3, 1], "split_score": 0.147999999992}
+{"sent": "3 right to left", "ann_id": 1714472, "best_split": [1, 3], "split_score": 0.20780254775888293}
+{"sent": "spectator in red shirt", "ann_id": 1331628, "best_split": [3, 1], "split_score": 0.7179365830147931}
+{"sent": "red standing man next to woman", "ann_id": 1331628, "best_split": [3, 1], "split_score": 0.7179365830147931}
+{"sent": "red and white clad observers", "ann_id": 1331628, "best_split": [3, 1], "split_score": 0.7179365830147931}
+{"sent": "guy in lead blue", "ann_id": 1330527, "best_split": [1, 3], "split_score": 0.4886583011288213}
+{"sent": "lead blue racer", "ann_id": 1330527, "best_split": [1, 3], "split_score": 0.4886583011288213}
+{"sent": "biker on blue bike white shoe", "ann_id": 1330527, "best_split": [1, 3], "split_score": 0.4886583011288213}
+{"sent": "bicycle of cyclist in whit and light blue in lead", "ann_id": 127991, "best_split": [2, 3], "split_score": 0.5108985106508631}
+{"sent": "bike of the under woman in white watching", "ann_id": 127229, "best_split": [5, 1], "split_score": 0.28326180255339806}

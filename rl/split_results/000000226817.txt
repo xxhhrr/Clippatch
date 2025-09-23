@@ -1,0 +1,9 @@
+{"sent": "boy in yellow", "ann_id": 226433, "best_split": [3, 3], "split_score": 0.5343481654435648}
+{"sent": "light yellow kid", "ann_id": 226433, "best_split": [3, 3], "split_score": 0.5343481654435648}
+{"sent": "little boy", "ann_id": 226433, "best_split": [1, 2], "split_score": 0.4084821428408609}
+{"sent": "green shirt", "ann_id": 205281, "best_split": [1, 3], "split_score": 0.694980694938768}
+{"sent": "boy with logo on shirt", "ann_id": 205281, "best_split": [1, 2], "split_score": 0.45918367345108485}
+{"sent": "3", "ann_id": 205281, "best_split": [1, 3], "split_score": 0.694980694938768}
+{"sent": "boy with glasses", "ann_id": 198401, "best_split": [1, 3], "split_score": 0.8560524746060791}
+{"sent": "orange shirt", "ann_id": 198401, "best_split": [1, 3], "split_score": 0.8560524746060791}
+{"sent": "older boy in yellow shirt and black pants", "ann_id": 198401, "best_split": [1, 3], "split_score": 0.8560524746060791}

@@ -1,0 +1,5 @@
+{"sent": "chair 3 o clock partially visible", "ann_id": 1599372, "best_split": [3, 3], "split_score": 0.30188390254221414}
+{"sent": "chair cut off", "ann_id": 1599372, "best_split": [3, 3], "split_score": 0.30188390254221414}
+{"sent": "chair in the corner cutoff", "ann_id": 1599372, "best_split": [3, 3], "split_score": 0.30188390254221414}
+{"sent": "chair nearest wii box not behind couch", "ann_id": 377295, "best_split": [3, 3], "split_score": 0.40500816543208923}
+{"sent": "chair closest to box", "ann_id": 377295, "best_split": [3, 3], "split_score": 0.40500816543208923}

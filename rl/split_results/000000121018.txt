@@ -1,0 +1,11 @@
+{"sent": "green shirted man barely visible", "ann_id": 1758737, "best_split": [1, 5], "split_score": 0.3347639484652005}
+{"sent": "green", "ann_id": 1758737, "best_split": [1, 5], "split_score": 0.3347639484652005}
+{"sent": "green shirt cut off", "ann_id": 1758737, "best_split": [1, 5], "split_score": 0.3347639484652005}
+{"sent": "back to us white tee shirt", "ann_id": 490016, "best_split": [3, 3], "split_score": 0.5429171667852765}
+{"sent": "man in white with his back to us", "ann_id": 490016, "best_split": [3, 3], "split_score": 0.5429171667852765}
+{"sent": "white shirt back is to us", "ann_id": 490016, "best_split": [3, 3], "split_score": 0.5429171667852765}
+{"sent": "server holding food", "ann_id": 487274, "best_split": [1, 2], "split_score": 0.5334061816838352}
+{"sent": "man in apron holding tomato slices", "ann_id": 487274, "best_split": [2, 2], "split_score": 0.5774946921103152}
+{"sent": "masked man with meat cleaver in hand", "ann_id": 468044, "best_split": [5, 1], "split_score": 0.2601542416285248}
+{"sent": "shorter guy in red apron", "ann_id": 468044, "best_split": [3, 1], "split_score": 0.31167795933082515}
+{"sent": "person with mask but no food", "ann_id": 468044, "best_split": [1, 2], "split_score": 0.3324154810948288}

@@ -1,0 +1,6 @@
+{"sent": "blue bus", "ann_id": 168909, "best_split": [3, 3], "split_score": 0.44230300067793327}
+{"sent": "blue", "ann_id": 168909, "best_split": [2, 1], "split_score": 0.0936162810891071}
+{"sent": "blue high bus", "ann_id": 168909, "best_split": [3, 3], "split_score": 0.44230300067793327}
+{"sent": "red number 1", "ann_id": 168745, "best_split": [3, 3], "split_score": 0.47732982408454}
+{"sent": "closest red bus", "ann_id": 168745, "best_split": [2, 3], "split_score": 0.4382885873789689}
+{"sent": "red bus 8 o clock", "ann_id": 168745, "best_split": [2, 3], "split_score": 0.4382885873789689}

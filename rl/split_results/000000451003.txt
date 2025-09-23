@@ -1,0 +1,6 @@
+{"sent": "partially visible person in white", "ann_id": 464500, "best_split": [2, 2], "split_score": 0.2763774911872525}
+{"sent": "half girl", "ann_id": 464500, "best_split": [3, 2], "split_score": 0.26528258359618584}
+{"sent": "person with white shirt", "ann_id": 464500, "best_split": [2, 2], "split_score": 0.2763774911872525}
+{"sent": "the woman in the brown shirt", "ann_id": 464245, "best_split": [3, 1], "split_score": 0.4186367399310718}
+{"sent": "woman with fork in her hand", "ann_id": 464245, "best_split": [3, 1], "split_score": 0.4186367399310718}
+{"sent": "woman", "ann_id": 464245, "best_split": [3, 1], "split_score": 0.4186367399310718}

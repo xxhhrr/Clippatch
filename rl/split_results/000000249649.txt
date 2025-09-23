@@ -1,0 +1,6 @@
+{"sent": "elephant with trunk down", "ann_id": 583681, "best_split": [1, 5], "split_score": 0.4971366661122785}
+{"sent": "elephant looking down", "ann_id": 583681, "best_split": [1, 5], "split_score": 0.4971366661122785}
+{"sent": "the one looking down", "ann_id": 583681, "best_split": [1, 2], "split_score": 0.3782684948828815}
+{"sent": "elephant with raised trunk", "ann_id": 581762, "best_split": [3, 1], "split_score": 0.3567924208950773}
+{"sent": "trunk sort of curled", "ann_id": 581762, "best_split": [3, 1], "split_score": 0.3567924208950773}
+{"sent": "baby with trunk curled", "ann_id": 581762, "best_split": [3, 1], "split_score": 0.3567924208950773}

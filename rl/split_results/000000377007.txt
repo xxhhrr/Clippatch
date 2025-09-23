@@ -1,0 +1,6 @@
+{"sent": "light blue", "ann_id": 1969486, "best_split": [3, 3], "split_score": 0.41517450676552736}
+{"sent": "smaller monitor", "ann_id": 1969486, "best_split": [3, 3], "split_score": 0.41517450676552736}
+{"sent": "computer showing more blue screen", "ann_id": 1969486, "best_split": [3, 3], "split_score": 0.41517450676552736}
+{"sent": "bigger screen", "ann_id": 29023, "best_split": [2, 2], "split_score": 0.36357331986107844}
+{"sent": "taller monitor", "ann_id": 29023, "best_split": [3, 1], "split_score": 0.2950290184054994}
+{"sent": "biggest monitor", "ann_id": 29023, "best_split": [3, 2], "split_score": 0.5071571093513354}

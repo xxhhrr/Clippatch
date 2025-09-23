@@ -1,0 +1,5 @@
+{"sent": "wine glass by green bottle", "ann_id": 1499556, "best_split": [2, 3], "split_score": 0.42120156721580304}
+{"sent": "wine glass near green bottle", "ann_id": 1499556, "best_split": [2, 3], "split_score": 0.42120156721580304}
+{"sent": "wine glass beside glass of water", "ann_id": 665300, "best_split": [2, 2], "split_score": 0.40178571425368415}
+{"sent": "win glass closest to bottle", "ann_id": 665300, "best_split": [2, 1], "split_score": 0.2008928571348496}
+{"sent": "wine glass by cork cover", "ann_id": 665300, "best_split": [2, 1], "split_score": 0.2008928571348496}

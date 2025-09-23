@@ -1,0 +1,9 @@
+{"sent": "the giraffe looking directly at the camera", "ann_id": 599011, "best_split": [2, 2], "split_score": 0.5401387512053928}
+{"sent": "looking at us", "ann_id": 599011, "best_split": [1, 3], "split_score": 0.6511999999627885}
+{"sent": "giraffe looking at the camera", "ann_id": 599011, "best_split": [2, 2], "split_score": 0.5401387512053928}
+{"sent": "giraffe with some of face covered", "ann_id": 598990, "best_split": [1, 3], "split_score": 0.4219390679237274}
+{"sent": "tallest g", "ann_id": 598990, "best_split": [1, 3], "split_score": 0.4219390679237274}
+{"sent": "middle giraffe", "ann_id": 598990, "best_split": [1, 3], "split_score": 0.4219390679237274}
+{"sent": "nearest giraff", "ann_id": 597111, "best_split": [1, 3], "split_score": 0.5391369325360015}
+{"sent": "numberone in line", "ann_id": 597111, "best_split": [1, 3], "split_score": 0.5391369325360015}
+{"sent": "closest giraffe looking away", "ann_id": 597111, "best_split": [1, 3], "split_score": 0.5391369325360015}

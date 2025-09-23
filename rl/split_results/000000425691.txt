@@ -1,0 +1,5 @@
+{"sent": "woman walking away in white shirt and pink pants", "ann_id": 212688, "best_split": [2, 2], "split_score": 0.3367875647426031}
+{"sent": "white shirt carrying brown purse", "ann_id": 212688, "best_split": [2, 3], "split_score": 0.4854771783728758}
+{"sent": "woman in white", "ann_id": 212688, "best_split": [2, 1], "split_score": 0.17700453857121767}
+{"sent": "red black and white person", "ann_id": 184484, "best_split": [1, 5], "split_score": 0.41188277795946576}
+{"sent": "woman with scarf around head", "ann_id": 184484, "best_split": [1, 5], "split_score": 0.41188277795946576}

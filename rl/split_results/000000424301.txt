@@ -1,0 +1,12 @@
+{"sent": "half car on an edge thats further away", "ann_id": 360723, "best_split": [3, 2], "split_score": 0.30434346471016716}
+{"sent": "silver car cutoff", "ann_id": 360723, "best_split": [3, 3], "split_score": 0.4093486377528214}
+{"sent": "car at 3 o clock", "ann_id": 360723, "best_split": [3, 3], "split_score": 0.4093486377528214}
+{"sent": "red car in between the silver car and the black car", "ann_id": 360184, "best_split": [3, 3], "split_score": 0.5714044278229838}
+{"sent": "two cars from white van", "ann_id": 360184, "best_split": [3, 3], "split_score": 0.5714044278229838}
+{"sent": "red car", "ann_id": 360184, "best_split": [3, 3], "split_score": 0.5714044278229838}
+{"sent": "closest car to us", "ann_id": 358173, "best_split": [2, 2], "split_score": 0.3949326145339659}
+{"sent": "part of car round light visable", "ann_id": 358173, "best_split": [1, 2], "split_score": 0.5314094387543283}
+{"sent": "red car light closest to us", "ann_id": 358173, "best_split": [1, 2], "split_score": 0.5314094387543283}
+{"sent": "white car", "ann_id": 354782, "best_split": [1, 5], "split_score": 0.5152037759358079}
+{"sent": "car is gray but old and number 2 on 9 o clock side", "ann_id": 354782, "best_split": [1, 5], "split_score": 0.5152037759358079}
+{"sent": "silver bumber infront of black car", "ann_id": 354782, "best_split": [1, 5], "split_score": 0.5152037759358079}

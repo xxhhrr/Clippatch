@@ -1,0 +1,11 @@
+{"sent": "bride", "ann_id": 223603, "best_split": [1, 5], "split_score": 0.47540719234999135}
+{"sent": "bride", "ann_id": 223603, "best_split": [1, 5], "split_score": 0.47540719234999135}
+{"sent": "woman", "ann_id": 223603, "best_split": [1, 5], "split_score": 0.47540719234999135}
+{"sent": "guy next to oldest guy standing", "ann_id": 202140, "best_split": [2, 3], "split_score": 0.32129255622374003}
+{"sent": "man standing beside man with glasses", "ann_id": 202140, "best_split": [2, 3], "split_score": 0.32129255622374003}
+{"sent": "older man standing", "ann_id": 201606, "best_split": [2, 2], "split_score": 0.25499474235729347}
+{"sent": "oldest man not sitting", "ann_id": 201606, "best_split": [3, 1], "split_score": 0.11265490048212784}
+{"sent": "oldest man standing", "ann_id": 201606, "best_split": [5, 1], "split_score": 0.12338754906470735}
+{"sent": "man sitting", "ann_id": 191181, "best_split": [2, 3], "split_score": 0.34324278145026116}
+{"sent": "the man sitting down", "ann_id": 191181, "best_split": [2, 3], "split_score": 0.34324278145026116}
+{"sent": "guy sitting", "ann_id": 191181, "best_split": [2, 3], "split_score": 0.34324278145026116}

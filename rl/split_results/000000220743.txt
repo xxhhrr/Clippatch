@@ -1,0 +1,6 @@
+{"sent": "blurry plate", "ann_id": 1038694, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "further plate of food", "ann_id": 1038694, "best_split": [1, 5], "split_score": 0.20338983048888773}
+{"sent": "pasta plate in background", "ann_id": 1038694, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "cup", "ann_id": 1037949, "best_split": [3, 3], "split_score": 0.38714390058671583}
+{"sent": "coffee cup", "ann_id": 1037949, "best_split": [3, 3], "split_score": 0.38714390058671583}
+{"sent": "bowl behind pizza", "ann_id": 1037949, "best_split": [1, 5], "split_score": 0.1497695852390774}

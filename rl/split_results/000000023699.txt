@@ -1,0 +1,6 @@
+{"sent": "big giraffe", "ann_id": 596990, "best_split": [2, 1], "split_score": 0.737228420407471}
+{"sent": "giraffe with his neck stretched to eat", "ann_id": 596990, "best_split": [2, 1], "split_score": 0.737228420407471}
+{"sent": "giraffe with neck horizontal", "ann_id": 596990, "best_split": [2, 1], "split_score": 0.737228420407471}
+{"sent": "the giraffe that head is up", "ann_id": 596803, "best_split": [1, 2], "split_score": 0.69547029215323}
+{"sent": "giraffe with head held high", "ann_id": 596803, "best_split": [1, 2], "split_score": 0.69547029215323}
+{"sent": "head up", "ann_id": 596803, "best_split": [1, 3], "split_score": 0.4155242198584827}

@@ -1,0 +1,6 @@
+{"sent": "the blurry slice", "ann_id": 1088798, "best_split": [1, 3], "split_score": 0.10832356388579581}
+{"sent": "slice", "ann_id": 1088798, "best_split": [1, 3], "split_score": 0.10832356388579581}
+{"sent": "slice of cake", "ann_id": 1088798, "best_split": [1, 3], "split_score": 0.10832356388579581}
+{"sent": "main focus", "ann_id": 1086354, "best_split": [3, 1], "split_score": 0.6438384043632931}
+{"sent": "cake", "ann_id": 1086354, "best_split": [3, 1], "split_score": 0.6438384043632931}
+{"sent": "cake in full view", "ann_id": 1086354, "best_split": [3, 1], "split_score": 0.6438384043632931}

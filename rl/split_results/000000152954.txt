@@ -1,0 +1,6 @@
+{"sent": "standing person with solid blue shirt", "ann_id": 212248, "best_split": [3, 2], "split_score": 0.2833813640389792}
+{"sent": "upper blue", "ann_id": 212248, "best_split": [5, 1], "split_score": 0.24350649348178707}
+{"sent": "blue shirt behind checkered", "ann_id": 212248, "best_split": [3, 2], "split_score": 0.2833813640389792}
+{"sent": "person bending over", "ann_id": 203993, "best_split": [1, 3], "split_score": 0.44101515753684606}
+{"sent": "checkered shirt", "ann_id": 203993, "best_split": [1, 3], "split_score": 0.44101515753684606}
+{"sent": "boy in blue shirt", "ann_id": 203993, "best_split": [1, 3], "split_score": 0.44101515753684606}

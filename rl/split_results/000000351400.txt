@@ -1,0 +1,15 @@
+{"sent": "fries", "ann_id": 1533896, "best_split": [3, 2], "split_score": 0.7659188033369745}
+{"sent": "basket of fries", "ann_id": 1533896, "best_split": [3, 2], "split_score": 0.7659188033369745}
+{"sent": "basket o fries", "ann_id": 1533896, "best_split": [3, 2], "split_score": 0.7659188033369745}
+{"sent": "chicken tenders with sauces basket", "ann_id": 716604, "best_split": [1, 5], "split_score": 0.300543150245664}
+{"sent": "basket with red sauce container", "ann_id": 716604, "best_split": [2, 1], "split_score": 0.07123423200341916}
+{"sent": "basket at 3oclock", "ann_id": 716604, "best_split": [2, 1], "split_score": 0.07123423200341916}
+{"sent": "ash tray", "ann_id": 712743, "best_split": [2, 2], "split_score": 0.22448979590047116}
+{"sent": "ashtray", "ann_id": 712743, "best_split": [2, 2], "split_score": 0.22448979590047116}
+{"sent": "tray", "ann_id": 712743, "best_split": [2, 2], "split_score": 0.22448979590047116}
+{"sent": "beer glass half full", "ann_id": 670554, "best_split": [3, 2], "split_score": 0.23119206723095578}
+{"sent": "mug", "ann_id": 670554, "best_split": [3, 2], "split_score": 0.23119206723095578}
+{"sent": "mug of beer", "ann_id": 670554, "best_split": [3, 2], "split_score": 0.23119206723095578}
+{"sent": "pitcher of beer", "ann_id": 669404, "best_split": [3, 3], "split_score": 0.3887702166022627}
+{"sent": "tall beer cup", "ann_id": 669404, "best_split": [3, 3], "split_score": 0.3887702166022627}
+{"sent": "pitcher of beer", "ann_id": 669404, "best_split": [3, 3], "split_score": 0.3887702166022627}

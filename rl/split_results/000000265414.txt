@@ -1,0 +1,6 @@
+{"sent": "giraffe looking at sky", "ann_id": 596096, "best_split": [1, 2], "split_score": 0.6033960458943162}
+{"sent": "giraffe facing the sky", "ann_id": 596096, "best_split": [1, 2], "split_score": 0.6033960458943162}
+{"sent": "giraffe whose head is higher up", "ann_id": 596096, "best_split": [1, 2], "split_score": 0.6033960458943162}
+{"sent": "head lower than other", "ann_id": 594945, "best_split": [3, 1], "split_score": 0.42330456633193453}
+{"sent": "giraffe looking down", "ann_id": 594945, "best_split": [3, 1], "split_score": 0.42330456633193453}
+{"sent": "giraffe with larger brown spots", "ann_id": 594945, "best_split": [3, 1], "split_score": 0.42330456633193453}

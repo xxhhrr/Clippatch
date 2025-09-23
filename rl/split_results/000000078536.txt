@@ -1,0 +1,5 @@
+{"sent": "something that looks like string in the sandwich", "ann_id": 313427, "best_split": [2, 2], "split_score": 0.6543684175230596}
+{"sent": "sandiwch slice by lemonaid", "ann_id": 313427, "best_split": [2, 2], "split_score": 0.6543684175230596}
+{"sent": "sandwich with strings sticking out", "ann_id": 313427, "best_split": [2, 2], "split_score": 0.6543684175230596}
+{"sent": "sandwich farther from green drink", "ann_id": 310094, "best_split": [2, 1], "split_score": 0.43106083764785}
+{"sent": "rounded crust sandwich", "ann_id": 310094, "best_split": [1, 2], "split_score": 0.44519913551847795}

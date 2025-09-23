@@ -1,0 +1,6 @@
+{"sent": "vehicle touching edge the most", "ann_id": 1367241, "best_split": [3, 2], "split_score": 0.6821219715244233}
+{"sent": "next to train big silver thing", "ann_id": 1367241, "best_split": [3, 2], "split_score": 0.6821219715244233}
+{"sent": "shorter train", "ann_id": 1367241, "best_split": [3, 2], "split_score": 0.6821219715244233}
+{"sent": "longest train", "ann_id": 172498, "best_split": [1, 2], "split_score": 0.6058041112256674}
+{"sent": "the very long train", "ann_id": 172498, "best_split": [1, 2], "split_score": 0.6058041112256674}
+{"sent": "long train", "ann_id": 172498, "best_split": [1, 2], "split_score": 0.6058041112256674}

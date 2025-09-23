@@ -1,0 +1,6 @@
+{"sent": "woman in patterned shirt", "ann_id": 558370, "best_split": [3, 1], "split_score": 0.10691823898770675}
+{"sent": "black spots on shirt", "ann_id": 558370, "best_split": [2, 3], "split_score": 0.07936507935758078}
+{"sent": "woman with pattern on shirt", "ann_id": 558370, "best_split": [3, 1], "split_score": 0.10691823898770675}
+{"sent": "lady with blue shirt", "ann_id": 1724475, "best_split": [1, 5], "split_score": 0.5071022726758216}
+{"sent": "blue shirt", "ann_id": 1724475, "best_split": [1, 5], "split_score": 0.5071022726758216}
+{"sent": "opposite woman from the two woman", "ann_id": 1724475, "best_split": [1, 5], "split_score": 0.5071022726758216}

@@ -1,0 +1,6 @@
+{"sent": "boy not wearing red", "ann_id": 535539, "best_split": [2, 1], "split_score": 0.219740909241144}
+{"sent": "brown hoodie", "ann_id": 535539, "best_split": [1, 3], "split_score": 0.5090744101344672}
+{"sent": "gray shirt", "ann_id": 535539, "best_split": [1, 2], "split_score": 0.28287551138651096}
+{"sent": "red shirt", "ann_id": 499719, "best_split": [1, 2], "split_score": 0.7236926020119702}
+{"sent": "red", "ann_id": 499719, "best_split": [1, 2], "split_score": 0.7236926020119702}
+{"sent": "boy in red", "ann_id": 499719, "best_split": [1, 2], "split_score": 0.7236926020119702}

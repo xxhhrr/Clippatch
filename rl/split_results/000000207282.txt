@@ -1,0 +1,5 @@
+{"sent": "bench between cat and plant", "ann_id": 1812216, "best_split": [1, 3], "split_score": 0.41379310343235093}
+{"sent": "part of the bench that touches the leaves", "ann_id": 1812216, "best_split": [1, 2], "split_score": 0.5852017937014713}
+{"sent": "bench on the side of the cat without flowers", "ann_id": 573609, "best_split": [1, 2], "split_score": 0.7005377548472426}
+{"sent": "vertical slats on bench", "ann_id": 573609, "best_split": [1, 2], "split_score": 0.7005377548472426}
+{"sent": "bench", "ann_id": 573609, "best_split": [1, 2], "split_score": 0.7005377548472426}

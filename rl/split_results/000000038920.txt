@@ -1,0 +1,20 @@
+{"sent": "cookie with white pink blue icing on it", "ann_id": 2189224, "best_split": [1, 3], "split_score": 0.44546429845956226}
+{"sent": "cookie with pink white blue designs", "ann_id": 2189224, "best_split": [3, 1], "split_score": 0.2861688587035337}
+{"sent": "chocolate covered donut with purple icing heart and irregular shape", "ann_id": 2118152, "best_split": [3, 2], "split_score": 0.25931336739779826}
+{"sent": "purple heart", "ann_id": 2118152, "best_split": [3, 3], "split_score": 0.6339285713342367}
+{"sent": "one with a heart painted on it", "ann_id": 2118152, "best_split": [3, 3], "split_score": 0.6339285713342367}
+{"sent": "donut at 12 o clock", "ann_id": 1083574, "best_split": [2, 2], "split_score": 0.17984693876117291}
+{"sent": "chocolate with two blue hearts", "ann_id": 1083574, "best_split": [3, 2], "split_score": 0.27220077216792943}
+{"sent": "brown downut with two blue things", "ann_id": 1083574, "best_split": [1, 5], "split_score": 0.16238003837213244}
+{"sent": "pink with sprinkles", "ann_id": 1083091, "best_split": [3, 3], "split_score": 0.3345195729019775}
+{"sent": "pink with blue sprinkles", "ann_id": 1083091, "best_split": [3, 3], "split_score": 0.3345195729019775}
+{"sent": "pink with sprinkles", "ann_id": 1083091, "best_split": [3, 3], "split_score": 0.3345195729019775}
+{"sent": "dirt donut", "ann_id": 1083044, "best_split": [2, 1], "split_score": 0.22193877550135765}
+{"sent": "sugared donut", "ann_id": 1083044, "best_split": [2, 1], "split_score": 0.22193877550135765}
+{"sent": "donut between chocolate and blue", "ann_id": 1083044, "best_split": [2, 1], "split_score": 0.22193877550135765}
+{"sent": "sorry trying lol plain chocolate donut", "ann_id": 1082779, "best_split": [2, 2], "split_score": 0.4251903837221748}
+{"sent": "close dark chocolate donut", "ann_id": 1082779, "best_split": [2, 2], "split_score": 0.4251903837221748}
+{"sent": "chocolate only no decorations", "ann_id": 1082779, "best_split": [3, 2], "split_score": 0.5020759493162454}
+{"sent": "glazed donut between chocolate and pink", "ann_id": 1082338, "best_split": [3, 3], "split_score": 0.432044338023423}
+{"sent": "donut between pink with sprinkles and chooclate glazed", "ann_id": 1082338, "best_split": [3, 3], "split_score": 0.432044338023423}
+{"sent": "glazed doughnut", "ann_id": 1082338, "best_split": [2, 3], "split_score": 0.5279603490434263}

@@ -1,0 +1,5 @@
+{"sent": "man driving", "ann_id": 2021550, "best_split": [1, 3], "split_score": 0.24966943140703993}
+{"sent": "man on white number 12 bike wearing black", "ann_id": 2021550, "best_split": [3, 3], "split_score": 0.729170383455991}
+{"sent": "driver of 12", "ann_id": 2021550, "best_split": [1, 3], "split_score": 0.24966943140703993}
+{"sent": "not driver", "ann_id": 236816, "best_split": [3, 2], "split_score": 0.41498356030824524}
+{"sent": "man kneeling beside bike in gray", "ann_id": 236816, "best_split": [3, 2], "split_score": 0.41498356030824524}

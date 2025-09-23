@@ -1,0 +1,6 @@
+{"sent": "slice closest to us", "ann_id": 1076938, "best_split": [3, 2], "split_score": 0.4542630842945905}
+{"sent": "piece furthest away from coffee", "ann_id": 1076938, "best_split": [2, 1], "split_score": 0.10458898146671468}
+{"sent": "slice closest to us", "ann_id": 1076938, "best_split": [3, 2], "split_score": 0.4542630842945905}
+{"sent": "pizza closest to coffee", "ann_id": 1076617, "best_split": [3, 3], "split_score": 0.4440934933202681}
+{"sent": "piece of pizza with crust sticking up", "ann_id": 1076617, "best_split": [3, 3], "split_score": 0.4440934933202681}
+{"sent": "slice closer to coffee", "ann_id": 1076617, "best_split": [3, 1], "split_score": 0.3132938187810492}

@@ -1,0 +1,9 @@
+{"sent": "girl", "ann_id": 550117, "best_split": [2, 2], "split_score": 0.6457927103160497}
+{"sent": "girl", "ann_id": 550117, "best_split": [2, 2], "split_score": 0.6457927103160497}
+{"sent": "short girl", "ann_id": 550117, "best_split": [2, 2], "split_score": 0.6457927103160497}
+{"sent": "kid with glasses", "ann_id": 544140, "best_split": [1, 5], "split_score": 0.6160714285089213}
+{"sent": "boy wearing glasses", "ann_id": 544140, "best_split": [1, 5], "split_score": 0.6160714285089213}
+{"sent": "glasses", "ann_id": 544140, "best_split": [1, 5], "split_score": 0.6160714285089213}
+{"sent": "boy", "ann_id": 478727, "best_split": [1, 5], "split_score": 0.45908841292839864}
+{"sent": "boy with tennis racket raised", "ann_id": 478727, "best_split": [1, 2], "split_score": 0.4544005101859694}
+{"sent": "boy holding raquet up", "ann_id": 478727, "best_split": [1, 2], "split_score": 0.4544005101859694}

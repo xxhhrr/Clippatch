@@ -1,0 +1,5 @@
+{"sent": "light tan animal on couch", "ann_id": 15968, "best_split": [3, 1], "split_score": 0.2733000217101184}
+{"sent": "dog cut off thats tan", "ann_id": 15968, "best_split": [3, 1], "split_score": 0.2733000217101184}
+{"sent": "fuzzy bear", "ann_id": 15968, "best_split": [3, 3], "split_score": 0.6712699701230341}
+{"sent": "tan dog", "ann_id": 8205, "best_split": [1, 2], "split_score": 0.5739229455168456}
+{"sent": "woof", "ann_id": 8205, "best_split": [1, 2], "split_score": 0.5739229455168456}

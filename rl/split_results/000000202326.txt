@@ -1,0 +1,5 @@
+{"sent": "high oranges aboe banans", "ann_id": 1558743, "best_split": [2, 3], "split_score": 0.2585002328529925}
+{"sent": "oranges at one o clock", "ann_id": 1558743, "best_split": [2, 3], "split_score": 0.2585002328529925}
+{"sent": "oranges surround by bananas", "ann_id": 1558301, "best_split": [3, 2], "split_score": 0.33495539331074553}
+{"sent": "oranges by blue tag", "ann_id": 1558301, "best_split": [3, 2], "split_score": 0.33495539331074553}
+{"sent": "oranges surrounded by green bananas and below the blue tag", "ann_id": 1558301, "best_split": [3, 2], "split_score": 0.33495539331074553}

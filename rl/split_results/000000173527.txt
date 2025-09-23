@@ -1,0 +1,6 @@
+{"sent": "one big bed", "ann_id": 1611010, "best_split": [5, 1], "split_score": 0.5248821372053519}
+{"sent": "bed with checkered blanket", "ann_id": 1611010, "best_split": [5, 1], "split_score": 0.5248821372053519}
+{"sent": "bed tht is high", "ann_id": 1611010, "best_split": [5, 1], "split_score": 0.5248821372053519}
+{"sent": "bed with red and white covers", "ann_id": 316107, "best_split": [1, 2], "split_score": 0.32588806162440687}
+{"sent": "the messy bed", "ann_id": 316107, "best_split": [1, 2], "split_score": 0.32588806162440687}
+{"sent": "unmade single bed", "ann_id": 316107, "best_split": [1, 2], "split_score": 0.32588806162440687}

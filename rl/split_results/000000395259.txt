@@ -1,0 +1,6 @@
+{"sent": "larger pillow with circles on the bed", "ann_id": 1444225, "best_split": [2, 3], "split_score": 0.5467849734331891}
+{"sent": "closed brown suitcase", "ann_id": 1444225, "best_split": [2, 3], "split_score": 0.5467849734331891}
+{"sent": "largest suitcase", "ann_id": 1444225, "best_split": [2, 3], "split_score": 0.5467849734331891}
+{"sent": "circles touching bed", "ann_id": 1185297, "best_split": [3, 3], "split_score": 0.4022703085487282}
+{"sent": "closest circle bag", "ann_id": 1185297, "best_split": [2, 3], "split_score": 0.29319498065960486}
+{"sent": "pocket on closed polka dot suitcase", "ann_id": 1185297, "best_split": [3, 3], "split_score": 0.4022703085487282}

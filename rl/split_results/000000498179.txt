@@ -1,0 +1,6 @@
+{"sent": "chair blurry 9 o clock", "ann_id": 1932488, "best_split": [3, 3], "split_score": 0.6113470872859}
+{"sent": "chair at 9", "ann_id": 1932488, "best_split": [3, 3], "split_score": 0.6113470872859}
+{"sent": "chair in same line of sight as man standing", "ann_id": 1932488, "best_split": [2, 3], "split_score": 0.3485243926572451}
+{"sent": "blurry wooden chair near corner of table", "ann_id": 107270, "best_split": [3, 2], "split_score": 0.3821656050575074}
+{"sent": "chair above sandwich", "ann_id": 107270, "best_split": [1, 5], "split_score": 0.248868778260434}
+{"sent": "chair nearest sandwich", "ann_id": 107270, "best_split": [1, 5], "split_score": 0.248868778260434}

@@ -1,0 +1,9 @@
+{"sent": "jar of red sauce with yellow lable and yellow lid", "ann_id": 2182174, "best_split": [3, 3], "split_score": 0.40312278204344876}
+{"sent": "bottle with yellow lid", "ann_id": 2182174, "best_split": [3, 3], "split_score": 0.40312278204344876}
+{"sent": "salsa jar", "ann_id": 2182174, "best_split": [3, 3], "split_score": 0.40312278204344876}
+{"sent": "bigger jar of sauce", "ann_id": 1871445, "best_split": [3, 3], "split_score": 0.404657221884928}
+{"sent": "large ragu sauce", "ann_id": 1871445, "best_split": [3, 3], "split_score": 0.404657221884928}
+{"sent": "spag not salsa", "ann_id": 1871445, "best_split": [3, 3], "split_score": 0.404657221884928}
+{"sent": "box around the cat", "ann_id": 333402, "best_split": [2, 1], "split_score": 0.45474490137556817}
+{"sent": "cat", "ann_id": 333402, "best_split": [2, 1], "split_score": 0.45474490137556817}
+{"sent": "open fridge space", "ann_id": 333402, "best_split": [1, 2], "split_score": 0.5933209101462995}

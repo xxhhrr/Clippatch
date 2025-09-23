@@ -1,0 +1,6 @@
+{"sent": "dark shirt girl", "ann_id": 223853, "best_split": [3, 1], "split_score": 0.28978284085574124}
+{"sent": "darker shirt", "ann_id": 223853, "best_split": [3, 2], "split_score": 0.45910885501557325}
+{"sent": "person near remote", "ann_id": 223853, "best_split": [2, 1], "split_score": 0.23115313894696765}
+{"sent": "girl with skirt", "ann_id": 201858, "best_split": [1, 2], "split_score": 0.46304347824289427}
+{"sent": "girl with white shirt", "ann_id": 201858, "best_split": [1, 2], "split_score": 0.46304347824289427}
+{"sent": "white shirt", "ann_id": 201858, "best_split": [1, 2], "split_score": 0.46304347824289427}

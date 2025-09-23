@@ -1,0 +1,5 @@
+{"sent": "cake in plate with blue rim fully visible", "ann_id": 1088203, "best_split": [1, 5], "split_score": 0.16204379560565293}
+{"sent": "on plate of 3 lowest one", "ann_id": 1088203, "best_split": [5, 1], "split_score": 0.20423600603212594}
+{"sent": "triangular shape cake", "ann_id": 1087064, "best_split": [2, 2], "split_score": 0.22767857141042103}
+{"sent": "large piece of cake being eaten on plate", "ann_id": 1087064, "best_split": [2, 2], "split_score": 0.22767857141042103}
+{"sent": "1 piece", "ann_id": 1087064, "best_split": [2, 2], "split_score": 0.22767857141042103}

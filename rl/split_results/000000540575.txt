@@ -1,0 +1,6 @@
+{"sent": "person closest to tv screen", "ann_id": 232806, "best_split": [1, 5], "split_score": 0.3295454545120185}
+{"sent": "woman close to tv", "ann_id": 232806, "best_split": [1, 5], "split_score": 0.3295454545120185}
+{"sent": "guy in all black", "ann_id": 232806, "best_split": [1, 5], "split_score": 0.3295454545120185}
+{"sent": "blue shirt", "ann_id": 216703, "best_split": [3, 3], "split_score": 0.4225888324202746}
+{"sent": "light blue shirt", "ann_id": 216703, "best_split": [3, 3], "split_score": 0.4225888324202746}
+{"sent": "left blue shirt", "ann_id": 216703, "best_split": [3, 3], "split_score": 0.4225888324202746}

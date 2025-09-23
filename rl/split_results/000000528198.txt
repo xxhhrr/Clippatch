@@ -1,0 +1,6 @@
+{"sent": "pickup truck", "ann_id": 2172002, "best_split": [3, 3], "split_score": 0.36160639887325335}
+{"sent": "black truck", "ann_id": 2172002, "best_split": [3, 3], "split_score": 0.36160639887325335}
+{"sent": "black pickup", "ann_id": 2172002, "best_split": [3, 3], "split_score": 0.36160639887325335}
+{"sent": "white trailer", "ann_id": 1796352, "best_split": [3, 2], "split_score": 0.5749886723408486}
+{"sent": "trailer", "ann_id": 1796352, "best_split": [3, 2], "split_score": 0.5749886723408486}
+{"sent": "camper", "ann_id": 1796352, "best_split": [3, 2], "split_score": 0.5749886723408486}

@@ -1,0 +1,6 @@
+{"sent": "smaller of two pieces of pizza above two knobs", "ann_id": 1072606, "best_split": [1, 3], "split_score": 0.39608067513960515}
+{"sent": "upper half", "ann_id": 1072606, "best_split": [1, 2], "split_score": 0.5566321853948988}
+{"sent": "pizza half nearest two knobs", "ann_id": 1072606, "best_split": [3, 1], "split_score": 0.37542277338023455}
+{"sent": "pizza half that is closest", "ann_id": 1071847, "best_split": [1, 2], "split_score": 0.5979053426820262}
+{"sent": "half closest to us", "ann_id": 1071847, "best_split": [1, 2], "split_score": 0.5979053426820262}
+{"sent": "slice with crust facing more to us", "ann_id": 1071847, "best_split": [1, 2], "split_score": 0.5979053426820262}

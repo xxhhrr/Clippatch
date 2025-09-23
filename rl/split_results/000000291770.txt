@@ -1,0 +1,5 @@
+{"sent": "parrot with no eye", "ann_id": 1398960, "best_split": [3, 2], "split_score": 0.3648648648208416}
+{"sent": "blurry parrot with no eye visible", "ann_id": 1398960, "best_split": [3, 2], "split_score": 0.3648648648208416}
+{"sent": "bird", "ann_id": 42420, "best_split": [3, 3], "split_score": 0.5158668124877495}
+{"sent": "da bird", "ann_id": 42420, "best_split": [3, 3], "split_score": 0.5158668124877495}
+{"sent": "birf", "ann_id": 42420, "best_split": [3, 3], "split_score": 0.5158668124877495}

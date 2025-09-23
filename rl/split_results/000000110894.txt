@@ -1,0 +1,9 @@
+{"sent": "guy on the counter", "ann_id": 489057, "best_split": [3, 1], "split_score": 0.19322033897407845}
+{"sent": "customer in black shirt", "ann_id": 489057, "best_split": [1, 5], "split_score": 0.5898123323902636}
+{"sent": "person in black in the corner", "ann_id": 489057, "best_split": [1, 5], "split_score": 0.5898123323902636}
+{"sent": "woman with back to us", "ann_id": 475100, "best_split": [1, 3], "split_score": 0.71531129339314}
+{"sent": "person with pony tailblack hat back turned", "ann_id": 475100, "best_split": [3, 3], "split_score": 0.4349697822307335}
+{"sent": "worker with ponytail", "ann_id": 475100, "best_split": [1, 2], "split_score": 0.4726163902872841}
+{"sent": "guy with hat hat", "ann_id": 471101, "best_split": [1, 3], "split_score": 0.48171238567380875}
+{"sent": "woman cooking in white hat", "ann_id": 471101, "best_split": [1, 3], "split_score": 0.48171238567380875}
+{"sent": "woman in white hat", "ann_id": 471101, "best_split": [1, 3], "split_score": 0.48171238567380875}

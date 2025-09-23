@@ -1,0 +1,6 @@
+{"sent": "dog with solid color fur", "ann_id": 17047, "best_split": [1, 2], "split_score": 0.3950394218025887}
+{"sent": "animal nearest us", "ann_id": 17047, "best_split": [2, 1], "split_score": 0.7651460043380393}
+{"sent": "all tan dog", "ann_id": 17047, "best_split": [1, 2], "split_score": 0.3950394218025887}
+{"sent": "black and brown dog", "ann_id": 13010, "best_split": [2, 3], "split_score": 0.6161014359443857}
+{"sent": "dog with black spot", "ann_id": 13010, "best_split": [2, 3], "split_score": 0.6161014359443857}
+{"sent": "darker dog", "ann_id": 13010, "best_split": [2, 3], "split_score": 0.6161014359443857}

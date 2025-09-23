@@ -1,0 +1,9 @@
+{"sent": "big cow", "ann_id": 1820898, "best_split": [1, 2], "split_score": 0.7379470696595108}
+{"sent": "dont mess with me", "ann_id": 1820898, "best_split": [1, 2], "split_score": 0.7379470696595108}
+{"sent": "prior cow", "ann_id": 1820898, "best_split": [1, 2], "split_score": 0.7379470696595108}
+{"sent": "animal with no head", "ann_id": 74204, "best_split": [3, 1], "split_score": 0.26866796735240034}
+{"sent": "cow with no head", "ann_id": 74204, "best_split": [3, 1], "split_score": 0.26866796735240034}
+{"sent": "cow with head offscreen", "ann_id": 74204, "best_split": [3, 1], "split_score": 0.26866796735240034}
+{"sent": "small one next to big one", "ann_id": 73891, "best_split": [1, 2], "split_score": 0.3790420988263025}
+{"sent": "smallest cow facing us", "ann_id": 73891, "best_split": [3, 2], "split_score": 0.3387721238703836}
+{"sent": "sandwhiched cow", "ann_id": 73891, "best_split": [3, 1], "split_score": 0.2460346070545226}

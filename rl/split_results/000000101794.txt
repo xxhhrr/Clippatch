@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 2154509, "best_split": [1, 5], "split_score": 0.6058883420493901}
+{"sent": "person pulling horse nearest you", "ann_id": 2154509, "best_split": [1, 2], "split_score": 0.36156728314885334}
+{"sent": "girl sexy", "ann_id": 2154509, "best_split": [1, 2], "split_score": 0.36156728314885334}
+{"sent": "blue jeans boy", "ann_id": 202601, "best_split": [1, 5], "split_score": 0.4291247809251015}
+{"sent": "boy leading horse", "ann_id": 202601, "best_split": [5, 1], "split_score": 0.12813046009550594}
+{"sent": "person behind", "ann_id": 202601, "best_split": [1, 5], "split_score": 0.4291247809251015}
+{"sent": "farthest horse", "ann_id": 57000, "best_split": [5, 1], "split_score": 0.14116040954667847}
+{"sent": "hose being led by the boy", "ann_id": 57000, "best_split": [3, 1], "split_score": 0.1742484969852581}
+{"sent": "horse next to guy", "ann_id": 57000, "best_split": [5, 1], "split_score": 0.14116040954667847}
+{"sent": "horse closest", "ann_id": 55614, "best_split": [1, 3], "split_score": 0.7083643122347414}
+{"sent": "tallest horse", "ann_id": 55614, "best_split": [1, 3], "split_score": 0.7083643122347414}
+{"sent": "main horse", "ann_id": 55614, "best_split": [1, 3], "split_score": 0.7083643122347414}

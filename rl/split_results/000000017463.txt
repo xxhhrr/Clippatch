@@ -1,0 +1,11 @@
+{"sent": "solid dark brown", "ann_id": 68742, "best_split": [3, 2], "split_score": 0.3633387888335373}
+{"sent": "brown one", "ann_id": 68742, "best_split": [3, 2], "split_score": 0.3633387888335373}
+{"sent": "darkest whole sheep", "ann_id": 68742, "best_split": [3, 1], "split_score": 0.1966341895373874}
+{"sent": "gray sheep between two white", "ann_id": 64879, "best_split": [3, 2], "split_score": 0.38646034812510055}
+{"sent": "gray sheep between two white sheep", "ann_id": 64879, "best_split": [3, 2], "split_score": 0.38646034812510055}
+{"sent": "dark gray eating", "ann_id": 64879, "best_split": [3, 2], "split_score": 0.38646034812510055}
+{"sent": "sheep between gray ones", "ann_id": 63318, "best_split": [3, 2], "split_score": 0.4348556077539577}
+{"sent": "closest white sheep with head down", "ann_id": 63318, "best_split": [3, 2], "split_score": 0.4348556077539577}
+{"sent": "white sheep with black face nestled between two gray ones closest to us", "ann_id": 63318, "best_split": [3, 2], "split_score": 0.4348556077539577}
+{"sent": "sheep with head up and turned", "ann_id": 62601, "best_split": [1, 5], "split_score": 0.5063249815958275}
+{"sent": "sheep with most visible head not close to ground", "ann_id": 62601, "best_split": [1, 5], "split_score": 0.5063249815958275}

@@ -1,0 +1,6 @@
+{"sent": "man in red", "ann_id": 508822, "best_split": [2, 2], "split_score": 0.49720982138893416}
+{"sent": "red shirt", "ann_id": 508822, "best_split": [3, 3], "split_score": 0.6611828108550301}
+{"sent": "brown shirt and jeans", "ann_id": 508822, "best_split": [2, 3], "split_score": 0.7525337836929857}
+{"sent": "stripes", "ann_id": 473528, "best_split": [2, 2], "split_score": 0.4023437499679254}
+{"sent": "striped", "ann_id": 473528, "best_split": [2, 2], "split_score": 0.4023437499679254}
+{"sent": "stripped shirt", "ann_id": 473528, "best_split": [2, 2], "split_score": 0.4023437499679254}

@@ -1,0 +1,10 @@
+{"sent": "brown bear after 2 pink bears", "ann_id": 1995468, "best_split": [1, 3], "split_score": 0.5897578110283899}
+{"sent": "two pinks then an orange one", "ann_id": 1995468, "best_split": [1, 5], "split_score": 0.4166666666453385}
+{"sent": "two pink bears then the orange bear", "ann_id": 1995468, "best_split": [1, 5], "split_score": 0.5378973104835576}
+{"sent": "pink bear between two orange bears", "ann_id": 1675209, "best_split": [1, 3], "split_score": 0.6253861160532683}
+{"sent": "pink between 2 oranges", "ann_id": 1675209, "best_split": [2, 1], "split_score": 0.3162993920886805}
+{"sent": "pink bear between oranges", "ann_id": 1675209, "best_split": [1, 3], "split_score": 0.6253861160532683}
+{"sent": "number two pink teddy", "ann_id": 1674930, "best_split": [2, 2], "split_score": 0.4866868622060996}
+{"sent": "closest bear", "ann_id": 1674829, "best_split": [1, 2], "split_score": 0.7278380101750702}
+{"sent": "pink bear near you", "ann_id": 1674829, "best_split": [1, 3], "split_score": 0.8773442551801388}
+{"sent": "the pink one closest to us", "ann_id": 1674829, "best_split": [1, 3], "split_score": 0.8773442551801388}

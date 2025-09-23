@@ -1,0 +1,9 @@
+{"sent": "black shirt", "ann_id": 468927, "best_split": [1, 5], "split_score": 0.1032702237465969}
+{"sent": "person holding red cup", "ann_id": 468927, "best_split": [2, 2], "split_score": 0.8494897958506465}
+{"sent": "black shirt holding red cup", "ann_id": 468927, "best_split": [2, 2], "split_score": 0.8494897958506465}
+{"sent": "kid in indian headdress", "ann_id": 468617, "best_split": [1, 2], "split_score": 0.6203064171599804}
+{"sent": "kid with indian headress", "ann_id": 468617, "best_split": [1, 2], "split_score": 0.6203064171599804}
+{"sent": "kid in head dress", "ann_id": 468617, "best_split": [1, 2], "split_score": 0.6203064171599804}
+{"sent": "blond chid", "ann_id": 439859, "best_split": [1, 3], "split_score": 0.7501288585562036}
+{"sent": "boy", "ann_id": 439859, "best_split": [1, 3], "split_score": 0.7501288585562036}
+{"sent": "the boy with blond hair", "ann_id": 439859, "best_split": [1, 3], "split_score": 0.7501288585562036}

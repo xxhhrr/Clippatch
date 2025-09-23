@@ -1,0 +1,9 @@
+{"sent": "glass in between", "ann_id": 665463, "best_split": [1, 3], "split_score": 0.5885515850460092}
+{"sent": "darkest wine", "ann_id": 665463, "best_split": [1, 3], "split_score": 0.5885515850460092}
+{"sent": "red wine next to the knife", "ann_id": 665463, "best_split": [3, 3], "split_score": 0.4646190394990142}
+{"sent": "glass closest to us", "ann_id": 665416, "best_split": [1, 2], "split_score": 0.7653061224184747}
+{"sent": "close wine glass", "ann_id": 665416, "best_split": [3, 2], "split_score": 0.36837913180165377}
+{"sent": "wine glass closest", "ann_id": 665416, "best_split": [3, 2], "split_score": 0.36837913180165377}
+{"sent": "white wine glass", "ann_id": 663422, "best_split": [2, 2], "split_score": 0.45226760207640515}
+{"sent": "tall glass", "ann_id": 663422, "best_split": [2, 2], "split_score": 0.45226760207640515}
+{"sent": "far wine glass", "ann_id": 663422, "best_split": [2, 2], "split_score": 0.45226760207640515}

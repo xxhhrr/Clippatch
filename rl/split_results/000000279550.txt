@@ -1,0 +1,6 @@
+{"sent": "eating light brown horse", "ann_id": 368508, "best_split": [2, 3], "split_score": 0.42251223486104494}
+{"sent": "its facing the post", "ann_id": 368508, "best_split": [1, 2], "split_score": 0.06666666666421524}
+{"sent": "2 horse", "ann_id": 368508, "best_split": [2, 3], "split_score": 0.42251223486104494}
+{"sent": "horse facing us", "ann_id": 57659, "best_split": [1, 3], "split_score": 0.5809943864943868}
+{"sent": "horse looking at us", "ann_id": 57659, "best_split": [1, 3], "split_score": 0.5809943864943868}
+{"sent": "main horse", "ann_id": 57659, "best_split": [1, 3], "split_score": 0.5809943864943868}

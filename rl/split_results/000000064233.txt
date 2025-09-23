@@ -1,0 +1,6 @@
+{"sent": "dog lying in grass", "ann_id": 16957, "best_split": [3, 2], "split_score": 0.691843629260154}
+{"sent": "dog laying down", "ann_id": 16957, "best_split": [3, 2], "split_score": 0.691843629260154}
+{"sent": "blond dog", "ann_id": 16957, "best_split": [3, 2], "split_score": 0.691843629260154}
+{"sent": "dog standing", "ann_id": 12622, "best_split": [2, 2], "split_score": 0.19008448197790984}
+{"sent": "sitting up dog", "ann_id": 12622, "best_split": [2, 2], "split_score": 0.19008448197790984}
+{"sent": "sitting dog not laying dog", "ann_id": 12622, "best_split": [2, 3], "split_score": 0.4241071428059716}

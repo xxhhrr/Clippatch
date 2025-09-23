@@ -1,0 +1,6 @@
+{"sent": "giraffe", "ann_id": 1823133, "best_split": [1, 2], "split_score": 0.5973506278253984}
+{"sent": "the stuffed giraffe", "ann_id": 1823133, "best_split": [1, 2], "split_score": 0.5973506278253984}
+{"sent": "giraffe", "ann_id": 1823133, "best_split": [1, 2], "split_score": 0.5973506278253984}
+{"sent": "giraffe behind woman", "ann_id": 1413973, "best_split": [1, 3], "split_score": 0.26659484047006676}
+{"sent": "gir cutoff", "ann_id": 1413973, "best_split": [3, 2], "split_score": 0.25187202175903217}
+{"sent": "giraffe in back", "ann_id": 1413973, "best_split": [1, 3], "split_score": 0.26659484047006676}

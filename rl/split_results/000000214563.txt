@@ -1,0 +1,15 @@
+{"sent": "silver laptop", "ann_id": 1104001, "best_split": [3, 2], "split_score": 0.5038969562307083}
+{"sent": "monitor facing camer back to back with black monitor", "ann_id": 1104001, "best_split": [2, 2], "split_score": 0.4237897125300183}
+{"sent": "the gray laptop", "ann_id": 1104001, "best_split": [1, 2], "split_score": 0.4003109055962886}
+{"sent": "vaio red", "ann_id": 1103957, "best_split": [3, 2], "split_score": 0.4288698073301381}
+{"sent": "red laptop", "ann_id": 1103957, "best_split": [3, 2], "split_score": 0.4288698073301381}
+{"sent": "purple laptop", "ann_id": 1103957, "best_split": [3, 2], "split_score": 0.4288698073301381}
+{"sent": "farthest laptop", "ann_id": 1103812, "best_split": [3, 3], "split_score": 0.6834257973849817}
+{"sent": "laptown on brownest desk", "ann_id": 1103812, "best_split": [3, 3], "split_score": 0.6834257973849817}
+{"sent": "laptop furthest away", "ann_id": 1103812, "best_split": [3, 3], "split_score": 0.6834257973849817}
+{"sent": "laptop that is darker with screen facing us", "ann_id": 1101618, "best_split": [1, 2], "split_score": 0.3643354613913111}
+{"sent": "dark blue laptop with usb stick", "ann_id": 1101618, "best_split": [1, 2], "split_score": 0.3643354613913111}
+{"sent": "closest black laptop", "ann_id": 1101618, "best_split": [1, 2], "split_score": 0.3643354613913111}
+{"sent": "laptop showing black back to us", "ann_id": 1101417, "best_split": [2, 3], "split_score": 0.32645403373282667}
+{"sent": "comuter that you can see part of the keyboard but no monitor", "ann_id": 1101417, "best_split": [2, 3], "split_score": 0.32645403373282667}
+{"sent": "smallest laptop facing away from us", "ann_id": 1101417, "best_split": [2, 3], "split_score": 0.32645403373282667}

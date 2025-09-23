@@ -1,0 +1,7 @@
+{"sent": "sunglasses", "ann_id": 2158043, "best_split": [2, 3], "split_score": 0.6714527026216877}
+{"sent": "girl sitting down with sunglasses", "ann_id": 2158043, "best_split": [2, 3], "split_score": 0.6714527026216877}
+{"sent": "sitting knees", "ann_id": 2158043, "best_split": [2, 2], "split_score": 0.44363839282177625}
+{"sent": "woman black shirt", "ann_id": 523289, "best_split": [2, 2], "split_score": 0.45741373947331254}
+{"sent": "girl holding pink frisbee", "ann_id": 521410, "best_split": [3, 1], "split_score": 0.1509287925613153}
+{"sent": "girl standing", "ann_id": 521410, "best_split": [3, 3], "split_score": 0.3906697194632699}
+{"sent": "lady blue clothes", "ann_id": 521410, "best_split": [1, 2], "split_score": 0.1326073524817498}

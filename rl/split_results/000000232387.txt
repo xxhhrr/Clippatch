@@ -1,0 +1,6 @@
+{"sent": "man looking at racquet", "ann_id": 1733516, "best_split": [2, 1], "split_score": 0.24467057188705021}
+{"sent": "tall guy", "ann_id": 1733516, "best_split": [1, 2], "split_score": 0.6430564413008986}
+{"sent": "tallest player", "ann_id": 1733516, "best_split": [1, 2], "split_score": 0.6430564413008986}
+{"sent": "guy with red raquet", "ann_id": 455374, "best_split": [1, 2], "split_score": 0.6430351702874931}
+{"sent": "player with ball", "ann_id": 455374, "best_split": [2, 2], "split_score": 0.47794829957283697}
+{"sent": "guy with ball", "ann_id": 455374, "best_split": [2, 2], "split_score": 0.47794829957283697}

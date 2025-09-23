@@ -1,0 +1,6 @@
+{"sent": "boy in black", "ann_id": 2158723, "best_split": [3, 3], "split_score": 0.3806208296517811}
+{"sent": "kid in black jacket", "ann_id": 2158723, "best_split": [3, 3], "split_score": 0.3806208296517811}
+{"sent": "child in black jacket", "ann_id": 2158723, "best_split": [3, 3], "split_score": 0.3806208296517811}
+{"sent": "kid in white shirt", "ann_id": 480836, "best_split": [1, 2], "split_score": 0.4878172193489095}
+{"sent": "white shirt kid", "ann_id": 480836, "best_split": [1, 2], "split_score": 0.4878172193489095}
+{"sent": "white shirt kid", "ann_id": 480836, "best_split": [1, 2], "split_score": 0.4878172193489095}

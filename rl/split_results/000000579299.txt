@@ -1,0 +1,11 @@
+{"sent": "pizza by hands", "ann_id": 1571106, "best_split": [1, 3], "split_score": 0.10889744169634948}
+{"sent": "farthest pizza", "ann_id": 1571106, "best_split": [1, 3], "split_score": 0.10889744169634948}
+{"sent": "background pizz", "ann_id": 1571106, "best_split": [1, 3], "split_score": 0.10889744169634948}
+{"sent": "big pizza", "ann_id": 1071411, "best_split": [2, 1], "split_score": 0.7246353110249023}
+{"sent": "pizza closest to you", "ann_id": 1071411, "best_split": [2, 1], "split_score": 0.7246353110249023}
+{"sent": "ice cup", "ann_id": 680596, "best_split": [3, 1], "split_score": 0.12035472972246894}
+{"sent": "plastic cup with just ice", "ann_id": 680596, "best_split": [3, 1], "split_score": 0.12035472972246894}
+{"sent": "glass of ice cubes no drink", "ann_id": 680596, "best_split": [3, 1], "split_score": 0.12035472972246894}
+{"sent": "drink with red stuff", "ann_id": 669388, "best_split": [2, 3], "split_score": 0.4886583010993414}
+{"sent": "cup filled with beverage", "ann_id": 669388, "best_split": [2, 3], "split_score": 0.4886583010993414}
+{"sent": "full glass of juice", "ann_id": 669388, "best_split": [2, 3], "split_score": 0.4886583010993414}

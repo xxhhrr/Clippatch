@@ -1,0 +1,9 @@
+{"sent": "lady holding pillow", "ann_id": 501829, "best_split": [2, 2], "split_score": 0.4081470799994126}
+{"sent": "girl with pillow", "ann_id": 501829, "best_split": [2, 2], "split_score": 0.4081470799994126}
+{"sent": "girl looking away", "ann_id": 501829, "best_split": [2, 3], "split_score": 0.5529686864016908}
+{"sent": "tie", "ann_id": 494464, "best_split": [1, 5], "split_score": 0.5113447702971504}
+{"sent": "shirt and tie", "ann_id": 494464, "best_split": [1, 5], "split_score": 0.5113447702971504}
+{"sent": "shirt and tie", "ann_id": 494464, "best_split": [1, 5], "split_score": 0.5113447702971504}
+{"sent": "woman holding a controler", "ann_id": 481149, "best_split": [2, 1], "split_score": 0.24545556762319795}
+{"sent": "woman in strap dress", "ann_id": 481149, "best_split": [2, 1], "split_score": 0.24545556762319795}
+{"sent": "woman in black shorts", "ann_id": 481149, "best_split": [2, 1], "split_score": 0.24545556762319795}

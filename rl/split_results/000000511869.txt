@@ -1,0 +1,6 @@
+{"sent": "up", "ann_id": 1682805, "best_split": [2, 1], "split_score": 0.11918914799119078}
+{"sent": "black clothed player", "ann_id": 1682805, "best_split": [3, 2], "split_score": 0.23351648349357176}
+{"sent": "the ump in black", "ann_id": 1682805, "best_split": [1, 5], "split_score": 0.43465909086498994}
+{"sent": "full in white standing", "ann_id": 1254599, "best_split": [1, 5], "split_score": 0.46428571423860737}
+{"sent": "player in all white", "ann_id": 1254599, "best_split": [1, 5], "split_score": 0.46428571423860737}
+{"sent": "a man in white clothes standing", "ann_id": 1254599, "best_split": [1, 5], "split_score": 0.46428571423860737}

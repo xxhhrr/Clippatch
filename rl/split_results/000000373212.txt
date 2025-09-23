@@ -1,0 +1,6 @@
+{"sent": "bike with headlight facing you", "ann_id": 149125, "best_split": [2, 3], "split_score": 0.7244564604343295}
+{"sent": "cutoff bike in corner", "ann_id": 149125, "best_split": [2, 3], "split_score": 0.7244564604343295}
+{"sent": "cycle facing us", "ann_id": 149125, "best_split": [2, 3], "split_score": 0.7244564604343295}
+{"sent": "thing guy is sitting on", "ann_id": 147973, "best_split": [2, 1], "split_score": 0.5746924428616372}
+{"sent": "motorcycle with guy on it", "ann_id": 147973, "best_split": [2, 1], "split_score": 0.5746924428616372}
+{"sent": "bike with man", "ann_id": 147973, "best_split": [2, 1], "split_score": 0.5746924428616372}

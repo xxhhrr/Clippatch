@@ -1,0 +1,15 @@
+{"sent": "last three oranges", "ann_id": 1053347, "best_split": [1, 5], "split_score": 0.20686175578324356}
+{"sent": "the last three oranges not close", "ann_id": 1053347, "best_split": [1, 5], "split_score": 0.20686175578324356}
+{"sent": "orange at 12", "ann_id": 1053347, "best_split": [1, 5], "split_score": 0.20686175578324356}
+{"sent": "orange that is next to the cloest to screen", "ann_id": 1051750, "best_split": [1, 5], "split_score": 0.190266237053564}
+{"sent": "next closest orange", "ann_id": 1051750, "best_split": [1, 5], "split_score": 0.190266237053564}
+{"sent": "orange behind one closest to us", "ann_id": 1051750, "best_split": [3, 1], "split_score": 0.25229247102725066}
+{"sent": "closest orange", "ann_id": 1051053, "best_split": [2, 2], "split_score": 0.573923796230472}
+{"sent": "orange closest to you", "ann_id": 1051053, "best_split": [2, 2], "split_score": 0.573923796230472}
+{"sent": "closest orange", "ann_id": 1051053, "best_split": [2, 2], "split_score": 0.573923796230472}
+{"sent": "apple nearer", "ann_id": 1050312, "best_split": [2, 2], "split_score": 0.6340880101535326}
+{"sent": "closest apple on rightest side", "ann_id": 1050312, "best_split": [2, 2], "split_score": 0.6340880101535326}
+{"sent": "1 apple", "ann_id": 1050312, "best_split": [2, 2], "split_score": 0.6340880101535326}
+{"sent": "next apple in line", "ann_id": 1049483, "best_split": [3, 2], "split_score": 0.6038851350622725}
+{"sent": "red apple with green spot on side", "ann_id": 1049483, "best_split": [3, 2], "split_score": 0.6038851350622725}
+{"sent": "apple 2 in row", "ann_id": 1049483, "best_split": [3, 2], "split_score": 0.6038851350622725}

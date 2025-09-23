@@ -1,0 +1,5 @@
+{"sent": "bed", "ann_id": 319111, "best_split": [2, 1], "split_score": 0.4719101123477149}
+{"sent": "black bed", "ann_id": 319111, "best_split": [2, 1], "split_score": 0.4719101123477149}
+{"sent": "whole bed", "ann_id": 319111, "best_split": [2, 1], "split_score": 0.4719101123477149}
+{"sent": "the white part of the bed", "ann_id": 317821, "best_split": [3, 2], "split_score": 0.4862910189457803}
+{"sent": "whit on bed", "ann_id": 317821, "best_split": [3, 2], "split_score": 0.4862910189457803}

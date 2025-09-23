@@ -1,0 +1,9 @@
+{"sent": "green shirt", "ann_id": 518610, "best_split": [3, 3], "split_score": 0.35842789920309603}
+{"sent": "green jacket", "ann_id": 518610, "best_split": [3, 3], "split_score": 0.35842789920309603}
+{"sent": "woman in green", "ann_id": 518610, "best_split": [3, 3], "split_score": 0.35842789920309603}
+{"sent": "man in blue next to lady in green", "ann_id": 516598, "best_split": [3, 2], "split_score": 0.24586812061289248}
+{"sent": "tallest", "ann_id": 516598, "best_split": [1, 3], "split_score": 0.37033492820751585}
+{"sent": "guy nearest girl", "ann_id": 516598, "best_split": [1, 2], "split_score": 0.21760694357495322}
+{"sent": "the man with yellow ski boots", "ann_id": 503854, "best_split": [1, 5], "split_score": 0.36502694243307604}
+{"sent": "man with blue jacket orange skis", "ann_id": 503854, "best_split": [1, 3], "split_score": 0.22039616890398367}
+{"sent": "douche with yellow shoes", "ann_id": 503854, "best_split": [1, 5], "split_score": 0.36502694243307604}

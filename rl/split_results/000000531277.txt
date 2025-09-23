@@ -1,0 +1,3 @@
+{"sent": "the table", "ann_id": 1621247, "best_split": [3, 2], "split_score": 0.5641390525956353}
+{"sent": "dark surface behind food", "ann_id": 1621247, "best_split": [2, 2], "split_score": 0.39378458915894815}
+{"sent": "silver area above the sandwich", "ann_id": 1621247, "best_split": [2, 1], "split_score": 0.2830038265193318}

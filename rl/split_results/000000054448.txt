@@ -1,0 +1,6 @@
+{"sent": "suv", "ann_id": 1371402, "best_split": [2, 3], "split_score": 0.535772674150582}
+{"sent": "truck", "ann_id": 1371402, "best_split": [2, 3], "split_score": 0.535772674150582}
+{"sent": "suv", "ann_id": 1371402, "best_split": [2, 3], "split_score": 0.535772674150582}
+{"sent": "white trailer", "ann_id": 1799612, "best_split": [3, 2], "split_score": 0.33629854628592987}
+{"sent": "trailer", "ann_id": 1799612, "best_split": [3, 2], "split_score": 0.33629854628592987}
+{"sent": "tariler white", "ann_id": 1799612, "best_split": [2, 3], "split_score": 0.1364517021739596}

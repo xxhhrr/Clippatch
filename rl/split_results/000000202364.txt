@@ -1,0 +1,9 @@
+{"sent": "carrot longest", "ann_id": 1064041, "best_split": [2, 3], "split_score": 0.3674423783133902}
+{"sent": "longest carrot", "ann_id": 1064041, "best_split": [2, 3], "split_score": 0.3674423783133902}
+{"sent": "longest one", "ann_id": 1064041, "best_split": [2, 3], "split_score": 0.3674423783133902}
+{"sent": "already processed", "ann_id": 1063775, "best_split": [3, 3], "split_score": 0.5399746192036842}
+{"sent": "carrots cut in slices", "ann_id": 1063775, "best_split": [3, 3], "split_score": 0.5399746192036842}
+{"sent": "carrot being chopped", "ann_id": 1063775, "best_split": [3, 3], "split_score": 0.5399746192036842}
+{"sent": "carrot next to slice closest to knife", "ann_id": 1063322, "best_split": [2, 2], "split_score": 0.24615150127677551}
+{"sent": "shortest uncut carrot", "ann_id": 1063322, "best_split": [2, 2], "split_score": 0.24615150127677551}
+{"sent": "whole carrot closest to knife", "ann_id": 1063322, "best_split": [2, 2], "split_score": 0.24615150127677551}

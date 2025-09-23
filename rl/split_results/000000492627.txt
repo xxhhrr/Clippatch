@@ -1,0 +1,6 @@
+{"sent": "clothes hanging on chair", "ann_id": 1940077, "best_split": [3, 3], "split_score": 0.6976513396133557}
+{"sent": "blue shirt", "ann_id": 1940077, "best_split": [3, 3], "split_score": 0.6976513396133557}
+{"sent": "blue jacket over chair", "ann_id": 1940077, "best_split": [3, 3], "split_score": 0.6976513396133557}
+{"sent": "my bad empty chair with green back by the blue coat", "ann_id": 101152, "best_split": [1, 5], "split_score": 0.304902351504095}
+{"sent": "chair without jacket", "ann_id": 101152, "best_split": [1, 5], "split_score": 0.304902351504095}
+{"sent": "back seat of chair by bar", "ann_id": 101152, "best_split": [1, 5], "split_score": 0.304902351504095}

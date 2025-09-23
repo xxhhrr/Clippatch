@@ -1,0 +1,11 @@
+{"sent": "kid on nearest computer", "ann_id": 1734250, "best_split": [1, 3], "split_score": 0.32103917080626465}
+{"sent": "girl with two hands on desk", "ann_id": 1734250, "best_split": [1, 2], "split_score": 0.7190154023060668}
+{"sent": "girl closest to us", "ann_id": 1734250, "best_split": [1, 2], "split_score": 0.7190154023060668}
+{"sent": "laptop used by the further boy", "ann_id": 1103198, "best_split": [1, 3], "split_score": 0.19981466464729442}
+{"sent": "distant laptop in use", "ann_id": 1103198, "best_split": [1, 3], "split_score": 0.19981466464729442}
+{"sent": "back computer", "ann_id": 1103198, "best_split": [1, 3], "split_score": 0.19981466464729442}
+{"sent": "computer closest to us", "ann_id": 1097998, "best_split": [1, 5], "split_score": 0.36626962639643545}
+{"sent": "laptop closest to us", "ann_id": 1097998, "best_split": [1, 5], "split_score": 0.36626962639643545}
+{"sent": "higher girl", "ann_id": 505399, "best_split": [2, 2], "split_score": 0.3716814159035065}
+{"sent": "farther of the two girls", "ann_id": 505399, "best_split": [2, 2], "split_score": 0.3716814159035065}
+{"sent": "fartest girl", "ann_id": 505399, "best_split": [2, 2], "split_score": 0.3716814159035065}

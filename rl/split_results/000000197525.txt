@@ -1,0 +1,6 @@
+{"sent": "table behind woman red table cloth", "ann_id": 121880, "best_split": [3, 3], "split_score": 0.4627892432046921}
+{"sent": "table red cloth", "ann_id": 121880, "best_split": [3, 3], "split_score": 0.4627892432046921}
+{"sent": "sitting 2", "ann_id": 121880, "best_split": [3, 3], "split_score": 0.4627892432046921}
+{"sent": "table with pizza", "ann_id": 120300, "best_split": [2, 1], "split_score": 0.7654696818847705}
+{"sent": "pizza pie", "ann_id": 120300, "best_split": [2, 1], "split_score": 0.7654696818847705}
+{"sent": "table with pizza on it", "ann_id": 120300, "best_split": [2, 1], "split_score": 0.7654696818847705}

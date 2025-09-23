@@ -1,0 +1,5 @@
+{"sent": "yellow shirt", "ann_id": 1705096, "best_split": [1, 5], "split_score": 0.4882566203902698}
+{"sent": "black and yellow", "ann_id": 1705096, "best_split": [1, 5], "split_score": 0.4882566203902698}
+{"sent": "yellow", "ann_id": 1705096, "best_split": [1, 5], "split_score": 0.4882566203902698}
+{"sent": "person on bike 9 oclokc", "ann_id": 1698504, "best_split": [1, 5], "split_score": 0.5105519480001469}
+{"sent": "biker in red 9 o clock", "ann_id": 1698504, "best_split": [1, 5], "split_score": 0.5105519480001469}

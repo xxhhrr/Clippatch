@@ -1,0 +1,6 @@
+{"sent": "dog on couch seat", "ann_id": 15726, "best_split": [2, 2], "split_score": 0.3029336734452381}
+{"sent": "the animal on teh seat", "ann_id": 15726, "best_split": [3, 2], "split_score": 0.17770849569585848}
+{"sent": "lower", "ann_id": 15726, "best_split": [3, 1], "split_score": 0.0983182406156577}
+{"sent": "white dog on sofa up high", "ann_id": 6751, "best_split": [3, 2], "split_score": 0.41556220602655386}
+{"sent": "highest dog", "ann_id": 6751, "best_split": [3, 2], "split_score": 0.41556220602655386}
+{"sent": "dog on back of couch", "ann_id": 6751, "best_split": [3, 2], "split_score": 0.41556220602655386}

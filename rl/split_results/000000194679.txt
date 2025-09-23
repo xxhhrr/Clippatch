@@ -1,0 +1,9 @@
+{"sent": "nearest giraffe", "ann_id": 600598, "best_split": [2, 2], "split_score": 0.49347604482703994}
+{"sent": "lowest giraffe", "ann_id": 600598, "best_split": [2, 2], "split_score": 0.49347604482703994}
+{"sent": "shortest giraffe", "ann_id": 600598, "best_split": [2, 2], "split_score": 0.49347604482703994}
+{"sent": "in between giraffe", "ann_id": 599814, "best_split": [2, 1], "split_score": 0.3505581923808223}
+{"sent": "giraffe laying closest to the tree", "ann_id": 599814, "best_split": [1, 3], "split_score": 0.32208588955720086}
+{"sent": "closest to tree", "ann_id": 599814, "best_split": [1, 3], "split_score": 0.32208588955720086}
+{"sent": "giraffe stand upright", "ann_id": 596308, "best_split": [1, 3], "split_score": 0.09888342164558651}
+{"sent": "giraffe in back", "ann_id": 596308, "best_split": [1, 5], "split_score": 0.3391205581422099}
+{"sent": "giraffe behind tree", "ann_id": 596308, "best_split": [2, 2], "split_score": 0.44164037851572474}

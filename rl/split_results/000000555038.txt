@@ -1,0 +1,8 @@
+{"sent": "blue shirt", "ann_id": 512065, "best_split": [2, 2], "split_score": 0.6351084812231812}
+{"sent": "man standing up", "ann_id": 512065, "best_split": [2, 2], "split_score": 0.16106442576325875}
+{"sent": "woman in the room wearing blue", "ann_id": 512065, "best_split": [2, 2], "split_score": 0.6351084812231812}
+{"sent": "the little girl", "ann_id": 511223, "best_split": [3, 3], "split_score": 0.39607148600932673}
+{"sent": "little girl in pink", "ann_id": 511223, "best_split": [3, 3], "split_score": 0.39607148600932673}
+{"sent": "small girl in pajamas", "ann_id": 511223, "best_split": [3, 3], "split_score": 0.39607148600932673}
+{"sent": "kid in maroon shirt", "ann_id": 504869, "best_split": [3, 2], "split_score": 0.3606138107015886}
+{"sent": "boy child", "ann_id": 504869, "best_split": [1, 5], "split_score": 0.35439560436083245}

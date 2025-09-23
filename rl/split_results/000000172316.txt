@@ -1,0 +1,6 @@
+{"sent": "the boy batting", "ann_id": 1230917, "best_split": [1, 2], "split_score": 0.6933921714512754}
+{"sent": "person batting", "ann_id": 1230917, "best_split": [1, 2], "split_score": 0.6933921714512754}
+{"sent": "baseball player hitting ball", "ann_id": 1230917, "best_split": [1, 2], "split_score": 0.6933921714512754}
+{"sent": "player in the background", "ann_id": 452466, "best_split": [2, 3], "split_score": 0.6496210303511828}
+{"sent": "person behind the fence", "ann_id": 452466, "best_split": [2, 3], "split_score": 0.6496210303511828}
+{"sent": "guy behind fence", "ann_id": 452466, "best_split": [2, 3], "split_score": 0.6496210303511828}

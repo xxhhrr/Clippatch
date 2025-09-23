@@ -1,0 +1,4 @@
+{"sent": "wine glass by green bottle blue label", "ann_id": 1497786, "best_split": [1, 5], "split_score": 0.23870084129928576}
+{"sent": "glass near plate of cheese", "ann_id": 667781, "best_split": [2, 1], "split_score": 0.29099659583319654}
+{"sent": "closest wine glass", "ann_id": 667781, "best_split": [2, 3], "split_score": 0.6051144810580716}
+{"sent": "glass near pat of butter", "ann_id": 667781, "best_split": [2, 2], "split_score": 0.5715054176153458}

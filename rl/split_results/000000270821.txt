@@ -1,0 +1,6 @@
+{"sent": "white horse eating grass", "ann_id": 274321, "best_split": [2, 3], "split_score": 0.45487451731963385}
+{"sent": "white horse closest to black one", "ann_id": 274321, "best_split": [2, 3], "split_score": 0.45487451731963385}
+{"sent": "white horse with head down nearest to black horse", "ann_id": 274321, "best_split": [2, 3], "split_score": 0.45487451731963385}
+{"sent": "lone horse", "ann_id": 57978, "best_split": [5, 1], "split_score": 0.2694240432673537}
+{"sent": "white walking horse", "ann_id": 57978, "best_split": [5, 1], "split_score": 0.2694240432673537}
+{"sent": "sideways white horse", "ann_id": 57978, "best_split": [5, 1], "split_score": 0.2694240432673537}

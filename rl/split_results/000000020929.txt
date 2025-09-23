@@ -1,0 +1,6 @@
+{"sent": "brown teddy bear", "ann_id": 1161477, "best_split": [3, 3], "split_score": 0.4948085105540751}
+{"sent": "animal on table", "ann_id": 1161477, "best_split": [3, 2], "split_score": 0.33463796473642937}
+{"sent": "brown teddy bear", "ann_id": 1161477, "best_split": [3, 3], "split_score": 0.4948085105540751}
+{"sent": "white teddy", "ann_id": 1159971, "best_split": [2, 3], "split_score": 0.4776873420939035}
+{"sent": "bear", "ann_id": 1159971, "best_split": [2, 3], "split_score": 0.4776873420939035}
+{"sent": "the bear with a green jacket", "ann_id": 1159971, "best_split": [2, 3], "split_score": 0.4776873420939035}

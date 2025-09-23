@@ -1,0 +1,14 @@
+{"sent": "blond hair guy kneeling", "ann_id": 1727556, "best_split": [2, 3], "split_score": 0.41903986976414737}
+{"sent": "man kneeling blond", "ann_id": 1727556, "best_split": [2, 3], "split_score": 0.41903986976414737}
+{"sent": "crouching man blond hair", "ann_id": 1727556, "best_split": [2, 3], "split_score": 0.41903986976414737}
+{"sent": "tall lady in back row", "ann_id": 547659, "best_split": [3, 3], "split_score": 0.3222362690936597}
+{"sent": "number 2 standing woman", "ann_id": 547659, "best_split": [3, 3], "split_score": 0.3222362690936597}
+{"sent": "tallest guy", "ann_id": 534920, "best_split": [3, 1], "split_score": 0.1173281505668306}
+{"sent": "guy standing on end white shirt light pants", "ann_id": 534920, "best_split": [1, 2], "split_score": 0.2100605867263209}
+{"sent": "standing man in light pants", "ann_id": 534920, "best_split": [3, 1], "split_score": 0.1173281505668306}
+{"sent": "man sitting in white shirt", "ann_id": 498950, "best_split": [2, 2], "split_score": 0.32043893579218136}
+{"sent": "squatting guy nearer to x strucuture", "ann_id": 498950, "best_split": [2, 2], "split_score": 0.32043893579218136}
+{"sent": "coruching man in clearly white shirt", "ann_id": 498950, "best_split": [1, 2], "split_score": 0.16669323978927403}
+{"sent": "man in dark pants", "ann_id": 445336, "best_split": [1, 5], "split_score": 0.43758600349542104}
+{"sent": "man standing with dark pants", "ann_id": 445336, "best_split": [1, 5], "split_score": 0.43758600349542104}
+{"sent": "person standing with black pants", "ann_id": 445336, "best_split": [1, 5], "split_score": 0.43758600349542104}

@@ -1,0 +1,6 @@
+{"sent": "girl on chai", "ann_id": 255982, "best_split": [3, 2], "split_score": 0.24205105236878066}
+{"sent": "woman", "ann_id": 255982, "best_split": [1, 5], "split_score": 0.20281181721261404}
+{"sent": "woman", "ann_id": 255982, "best_split": [1, 5], "split_score": 0.20281181721261404}
+{"sent": "white shirt", "ann_id": 213389, "best_split": [1, 2], "split_score": 0.5623126338179253}
+{"sent": "man in white", "ann_id": 213389, "best_split": [1, 2], "split_score": 0.5623126338179253}
+{"sent": "guy", "ann_id": 213389, "best_split": [1, 2], "split_score": 0.5623126338179253}

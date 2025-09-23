@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 1205214, "best_split": [5, 1], "split_score": 0.18181818180644252}
+{"sent": "boy in light shirt", "ann_id": 1205214, "best_split": [3, 1], "split_score": 0.23343848579291016}
+{"sent": "boy", "ann_id": 1205214, "best_split": [1, 2], "split_score": 0.33673469386412885}
+{"sent": "little girl in light blue", "ann_id": 444996, "best_split": [2, 2], "split_score": 0.4943475135271288}
+{"sent": "girl", "ann_id": 444996, "best_split": [2, 2], "split_score": 0.4943475135271288}
+{"sent": "girl in blue", "ann_id": 444996, "best_split": [2, 2], "split_score": 0.4943475135271288}

@@ -1,0 +1,6 @@
+{"sent": "adults white pants", "ann_id": 227062, "best_split": [1, 3], "split_score": 0.7249701313784367}
+{"sent": "adult legs", "ann_id": 227062, "best_split": [1, 2], "split_score": 0.49027423467433534}
+{"sent": "grown up pants", "ann_id": 227062, "best_split": [1, 2], "split_score": 0.49027423467433534}
+{"sent": "child", "ann_id": 209704, "best_split": [1, 3], "split_score": 0.57974778999624}
+{"sent": "child", "ann_id": 209704, "best_split": [1, 3], "split_score": 0.57974778999624}
+{"sent": "boy", "ann_id": 209704, "best_split": [1, 3], "split_score": 0.57974778999624}

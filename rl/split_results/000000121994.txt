@@ -1,0 +1,11 @@
+{"sent": "donut at 9 o clock", "ann_id": 1082281, "best_split": [1, 2], "split_score": 0.232142857133604}
+{"sent": "crumb donut with no icing sprinkles or jelly", "ann_id": 1082281, "best_split": [1, 2], "split_score": 0.232142857133604}
+{"sent": "less visible yellow sweet", "ann_id": 1082281, "best_split": [1, 3], "split_score": 0.35135135133015494}
+{"sent": "rightest", "ann_id": 1081732, "best_split": [1, 3], "split_score": 0.19604863221079238}
+{"sent": "yummy donut with apple", "ann_id": 1081732, "best_split": [1, 3], "split_score": 0.19604863221079238}
+{"sent": "donut with apple filling", "ann_id": 1081732, "best_split": [1, 3], "split_score": 0.19604863221079238}
+{"sent": "the donut with sprinkles", "ann_id": 1081617, "best_split": [2, 1], "split_score": 0.6272124699312691}
+{"sent": "choclate d", "ann_id": 1081617, "best_split": [2, 1], "split_score": 0.6272124699312691}
+{"sent": "cherry filling", "ann_id": 1078169, "best_split": [3, 2], "split_score": 0.5102294375457442}
+{"sent": "redfilled donut", "ann_id": 1078169, "best_split": [1, 3], "split_score": 0.2734562565891935}
+{"sent": "doughnut with red filling", "ann_id": 1078169, "best_split": [1, 3], "split_score": 0.2734562565891935}

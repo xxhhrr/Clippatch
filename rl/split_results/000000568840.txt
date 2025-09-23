@@ -1,0 +1,13 @@
+{"sent": "farthest donut", "ann_id": 1080881, "best_split": [1, 5], "split_score": 0.12625046312280006}
+{"sent": "donut in back", "ann_id": 1080881, "best_split": [1, 5], "split_score": 0.12625046312280006}
+{"sent": "bagel thing in back ground", "ann_id": 1080881, "best_split": [1, 5], "split_score": 0.12625046312280006}
+{"sent": "choc donut", "ann_id": 1079417, "best_split": [2, 2], "split_score": 0.5572519083535401}
+{"sent": "lolol thanks spidermans donut", "ann_id": 1079417, "best_split": [2, 2], "split_score": 0.5572519083535401}
+{"sent": "doughnut with nuts and white spiral", "ann_id": 1079417, "best_split": [2, 2], "split_score": 0.5572519083535401}
+{"sent": "donut with spiderweb", "ann_id": 1079417, "best_split": [2, 2], "split_score": 0.5572519083535401}
+{"sent": "coffee cup not close", "ann_id": 679786, "best_split": [2, 1], "split_score": 0.10379464285300563}
+{"sent": "coffee nest to donut with green things on it", "ann_id": 679786, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "coffe in background", "ann_id": 679786, "best_split": [2, 1], "split_score": 0.10379464285300563}
+{"sent": "cup with visible coffee", "ann_id": 670389, "best_split": [1, 3], "split_score": 0.5861302637992973}
+{"sent": "cup of coffee in full view", "ann_id": 670389, "best_split": [1, 3], "split_score": 0.5861302637992973}
+{"sent": "closest clup", "ann_id": 670389, "best_split": [1, 2], "split_score": 0.4487802933494587}

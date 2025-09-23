@@ -1,0 +1,6 @@
+{"sent": "most of the cake", "ann_id": 1089571, "best_split": [2, 1], "split_score": 0.47830962224128143}
+{"sent": "big part of cake", "ann_id": 1089571, "best_split": [2, 1], "split_score": 0.47830962224128143}
+{"sent": "major part of cake", "ann_id": 1089571, "best_split": [2, 1], "split_score": 0.47830962224128143}
+{"sent": "piece of cake being removed", "ann_id": 1089308, "best_split": [2, 3], "split_score": 0.18503620271670995}
+{"sent": "cake slice with rest of cake", "ann_id": 1089308, "best_split": [1, 5], "split_score": 0.17867231636840816}
+{"sent": "slice nearest main cake", "ann_id": 1089308, "best_split": [1, 5], "split_score": 0.17867231636840816}

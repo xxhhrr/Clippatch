@@ -1,0 +1,9 @@
+{"sent": "woman", "ann_id": 210454, "best_split": [2, 3], "split_score": 0.6209646790143406}
+{"sent": "woman holding baby", "ann_id": 210454, "best_split": [2, 3], "split_score": 0.6209646790143406}
+{"sent": "blue shirt person", "ann_id": 210454, "best_split": [2, 3], "split_score": 0.6209646790143406}
+{"sent": "kid", "ann_id": 192224, "best_split": [1, 5], "split_score": 0.3554180194444584}
+{"sent": "baby", "ann_id": 192224, "best_split": [1, 5], "split_score": 0.3554180194444584}
+{"sent": "baby", "ann_id": 192224, "best_split": [1, 5], "split_score": 0.3554180194444584}
+{"sent": "guy in uniform", "ann_id": 190254, "best_split": [1, 2], "split_score": 0.6788784281422466}
+{"sent": "man in black", "ann_id": 190254, "best_split": [1, 2], "split_score": 0.6788784281422466}
+{"sent": "man in black suit", "ann_id": 190254, "best_split": [1, 2], "split_score": 0.6788784281422466}

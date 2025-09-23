@@ -1,0 +1,5 @@
+{"sent": "meter with snow lower on", "ann_id": 419369, "best_split": [2, 1], "split_score": 0.16872454586047175}
+{"sent": "meter lefty", "ann_id": 419369, "best_split": [1, 2], "split_score": 0.44124681120690185}
+{"sent": "meter with most snow over it", "ann_id": 419310, "best_split": [1, 2], "split_score": 0.48038903059309673}
+{"sent": "meter that the person is facing toward", "ann_id": 419310, "best_split": [3, 1], "split_score": 0.312007332707974}
+{"sent": "side of meter that the guy is facing towards", "ann_id": 419310, "best_split": [3, 1], "split_score": 0.312007332707974}

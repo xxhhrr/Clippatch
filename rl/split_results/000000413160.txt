@@ -1,0 +1,8 @@
+{"sent": "person wearing black and brown", "ann_id": 233301, "best_split": [1, 5], "split_score": 0.5372358849552099}
+{"sent": "red pants", "ann_id": 233301, "best_split": [1, 3], "split_score": 0.463899024916917}
+{"sent": "lady in black shirt and red pants", "ann_id": 233301, "best_split": [1, 5], "split_score": 0.5372358849552099}
+{"sent": "yellow shirt", "ann_id": 224640, "best_split": [1, 3], "split_score": 0.6338832487058264}
+{"sent": "guy with hat", "ann_id": 224640, "best_split": [1, 3], "split_score": 0.6338832487058264}
+{"sent": "dark blue tee shirt", "ann_id": 194301, "best_split": [1, 3], "split_score": 0.6256362794680633}
+{"sent": "blue shirt", "ann_id": 194301, "best_split": [1, 3], "split_score": 0.6256362794680633}
+{"sent": "boy", "ann_id": 194301, "best_split": [1, 3], "split_score": 0.6256362794680633}

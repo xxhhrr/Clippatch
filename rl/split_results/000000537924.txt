@@ -1,0 +1,9 @@
+{"sent": "woman", "ann_id": 213510, "best_split": [1, 3], "split_score": 0.6360368807377701}
+{"sent": "lady", "ann_id": 213510, "best_split": [1, 3], "split_score": 0.6360368807377701}
+{"sent": "woman", "ann_id": 213510, "best_split": [1, 3], "split_score": 0.6360368807377701}
+{"sent": "guy by hand", "ann_id": 211160, "best_split": [5, 1], "split_score": 0.1561557348189298}
+{"sent": "older man eating food", "ann_id": 211160, "best_split": [1, 5], "split_score": 0.4674561481197172}
+{"sent": "man in green", "ann_id": 211160, "best_split": [1, 5], "split_score": 0.4674561481197172}
+{"sent": "back side blue shirt whte stripe", "ann_id": 223122, "best_split": [3, 3], "split_score": 0.6457268077710506}
+{"sent": "blue and white striped shirt guy", "ann_id": 223122, "best_split": [3, 3], "split_score": 0.6457268077710506}
+{"sent": "blue shirt small white stripes", "ann_id": 223122, "best_split": [3, 3], "split_score": 0.6457268077710506}

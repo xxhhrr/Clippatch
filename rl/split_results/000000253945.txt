@@ -1,0 +1,9 @@
+{"sent": "woman in red not pink", "ann_id": 543898, "best_split": [3, 1], "split_score": 0.0934296247617075}
+{"sent": "girl red shirt", "ann_id": 543898, "best_split": [3, 1], "split_score": 0.0934296247617075}
+{"sent": "watcher", "ann_id": 543898, "best_split": [1, 5], "split_score": 0.5149147726750289}
+{"sent": "pink shirt under umbrella", "ann_id": 538285, "best_split": [1, 3], "split_score": 0.34097490345433307}
+{"sent": "woman in pink", "ann_id": 538285, "best_split": [1, 5], "split_score": 0.47920640972155604}
+{"sent": "woman in pink again", "ann_id": 538285, "best_split": [1, 5], "split_score": 0.47920640972155604}
+{"sent": "brown and white purse", "ann_id": 499643, "best_split": [1, 5], "split_score": 0.5122767856623096}
+{"sent": "dark blue shirt", "ann_id": 499643, "best_split": [1, 5], "split_score": 0.5122767856623096}
+{"sent": "dark jecket striped purse", "ann_id": 499643, "best_split": [1, 5], "split_score": 0.5122767856623096}

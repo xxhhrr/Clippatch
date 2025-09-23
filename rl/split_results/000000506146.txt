@@ -1,0 +1,12 @@
+{"sent": "long small broccoli in foreground", "ann_id": 1061009, "best_split": [2, 2], "split_score": 0.43880995365108644}
+{"sent": "smallest brocolli peice near orange design", "ann_id": 1061009, "best_split": [2, 2], "split_score": 0.43880995365108644}
+{"sent": "lowest piece", "ann_id": 1061009, "best_split": [3, 2], "split_score": 0.6423153225997998}
+{"sent": "samllest broccolli piecce between two largest pieces", "ann_id": 1060871, "best_split": [3, 3], "split_score": 0.3566821658382057}
+{"sent": "smallest brocolli", "ann_id": 1060871, "best_split": [3, 3], "split_score": 0.3566821658382057}
+{"sent": "broc by corn", "ann_id": 1059883, "best_split": [3, 2], "split_score": 0.6978716040233716}
+{"sent": "the broccoli piece that is touching both the corn and rice", "ann_id": 1059883, "best_split": [1, 2], "split_score": 0.4518494897779078}
+{"sent": "broccoli at 200", "ann_id": 1059883, "best_split": [3, 2], "split_score": 0.6978716040233716}
+{"sent": "most visible broccoli head", "ann_id": 1059586, "best_split": [3, 1], "split_score": 0.28069001028420754}
+{"sent": "the large head of broocoli under the rice", "ann_id": 1059586, "best_split": [1, 2], "split_score": 0.31413612564208415}
+{"sent": "brocolli by rice", "ann_id": 1059586, "best_split": [2, 2], "split_score": 0.3560877204167314}
+{"sent": "upside down brocoli", "ann_id": 1057404, "best_split": [2, 2], "split_score": 0.5060115002235821}

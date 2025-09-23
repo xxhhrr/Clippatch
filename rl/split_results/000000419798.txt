@@ -1,0 +1,5 @@
+{"sent": "desert by blue and pink", "ann_id": 2189554, "best_split": [3, 3], "split_score": 0.5859818083910132}
+{"sent": "sprinkles", "ann_id": 2189554, "best_split": [3, 2], "split_score": 0.5961799583057681}
+{"sent": "cake with colorful sprinkles", "ann_id": 2189554, "best_split": [3, 2], "split_score": 0.5961799583057681}
+{"sent": "brown dessert", "ann_id": 1088689, "best_split": [2, 2], "split_score": 0.6089813058379178}
+{"sent": "cake no sprinkles", "ann_id": 1088689, "best_split": [2, 1], "split_score": 0.32924417751833734}

@@ -1,0 +1,10 @@
+{"sent": "holding white syrup pouer", "ann_id": 1735240, "best_split": [2, 1], "split_score": 0.4323979591664382}
+{"sent": "person in black pouring stuff", "ann_id": 1735240, "best_split": [2, 1], "split_score": 0.4323979591664382}
+{"sent": "person in black shirt pouring little white cup", "ann_id": 1735240, "best_split": [2, 1], "split_score": 0.4323979591664382}
+{"sent": "not visible person with phone in hand", "ann_id": 221333, "best_split": [2, 2], "split_score": 0.052677472299308706}
+{"sent": "arm only", "ann_id": 221333, "best_split": [2, 1], "split_score": 0.26620716062545635}
+{"sent": "only the hand is showing holding a cellphone", "ann_id": 221333, "best_split": [3, 1], "split_score": 0.19628763518482473}
+{"sent": "man holding phone", "ann_id": 189884, "best_split": [1, 2], "split_score": 0.8622050382309389}
+{"sent": "man with hand next to face", "ann_id": 189884, "best_split": [1, 2], "split_score": 0.8622050382309389}
+{"sent": "person holding phone", "ann_id": 189884, "best_split": [1, 5], "split_score": 0.45268742789145616}
+{"sent": "man with finger by nose", "ann_id": 189884, "best_split": [1, 2], "split_score": 0.8622050382309389}

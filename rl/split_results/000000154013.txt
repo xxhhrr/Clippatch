@@ -1,0 +1,12 @@
+{"sent": "man", "ann_id": 558579, "best_split": [1, 2], "split_score": 0.5866243874103984}
+{"sent": "male", "ann_id": 558579, "best_split": [2, 1], "split_score": 0.1315789473650396}
+{"sent": "older guy", "ann_id": 558579, "best_split": [1, 2], "split_score": 0.5866243874103984}
+{"sent": "baby", "ann_id": 515129, "best_split": [1, 2], "split_score": 0.2296367480211556}
+{"sent": "baby", "ann_id": 515129, "best_split": [1, 2], "split_score": 0.2296367480211556}
+{"sent": "baby", "ann_id": 515129, "best_split": [1, 2], "split_score": 0.2296367480211556}
+{"sent": "child beside baby", "ann_id": 500055, "best_split": [1, 3], "split_score": 0.4695431471920173}
+{"sent": "maybe 8 or 10 years old", "ann_id": 500055, "best_split": [1, 3], "split_score": 0.4695431471920173}
+{"sent": "12 year old", "ann_id": 500055, "best_split": [2, 1], "split_score": 0.4428025620731879}
+{"sent": "woman beside two kids", "ann_id": 440017, "best_split": [1, 2], "split_score": 0.8991151147600799}
+{"sent": "lace undershirt", "ann_id": 440017, "best_split": [1, 2], "split_score": 0.8991151147600799}
+{"sent": "older woman", "ann_id": 440017, "best_split": [1, 2], "split_score": 0.8991151147600799}

@@ -1,0 +1,4 @@
+{"sent": "table back of pizza", "ann_id": 2132371, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "area that isnt the pizza by the fork", "ann_id": 2132371, "best_split": [2, 1], "split_score": 0.5056382224819185}
+{"sent": "table at 7 am", "ann_id": 1615869, "best_split": [1, 5], "split_score": 0.481822163789386}
+{"sent": "the side of the table closest to the most tomatoes", "ann_id": 1615869, "best_split": [1, 2], "split_score": 0.5510602678351778}

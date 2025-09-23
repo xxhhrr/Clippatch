@@ -1,0 +1,5 @@
+{"sent": "racket", "ann_id": 2040403, "best_split": [3, 2], "split_score": 0.21918995016036497}
+{"sent": "tennis racket", "ann_id": 2040403, "best_split": [3, 2], "split_score": 0.21918995016036497}
+{"sent": "arm holding racket", "ann_id": 2040403, "best_split": [5, 1], "split_score": 0.3013392856837115}
+{"sent": "tan car parked", "ann_id": 1341703, "best_split": [2, 3], "split_score": 0.41396604934278874}
+{"sent": "vehicle directly behind players head", "ann_id": 1341703, "best_split": [2, 2], "split_score": 0.4950995889586548}

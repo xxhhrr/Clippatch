@@ -1,0 +1,9 @@
+{"sent": "orange screen", "ann_id": 1968549, "best_split": [2, 3], "split_score": 0.5663716813481976}
+{"sent": "mostly orange screen", "ann_id": 1968549, "best_split": [2, 3], "split_score": 0.5663716813481976}
+{"sent": "computer with orangish backround on screen", "ann_id": 1968549, "best_split": [2, 3], "split_score": 0.5663716813481976}
+{"sent": "mostly black screen", "ann_id": 1968464, "best_split": [2, 2], "split_score": 0.4670415494793001}
+{"sent": "first screen", "ann_id": 1968464, "best_split": [1, 2], "split_score": 0.24872448978600428}
+{"sent": "screen to lef", "ann_id": 1968464, "best_split": [2, 2], "split_score": 0.4670415494793001}
+{"sent": "largest computer", "ann_id": 1968437, "best_split": [3, 3], "split_score": 0.32484735585999713}
+{"sent": "full color screen", "ann_id": 1968437, "best_split": [2, 3], "split_score": 0.7840493600566671}
+{"sent": "screen not on the ends", "ann_id": 1968437, "best_split": [2, 3], "split_score": 0.7840493600566671}

@@ -1,0 +1,6 @@
+{"sent": "japan airlines", "ann_id": 247066, "best_split": [3, 2], "split_score": 0.5375102435716672}
+{"sent": "japan", "ann_id": 247066, "best_split": [1, 2], "split_score": 0.23872547396887386}
+{"sent": "closest plane", "ann_id": 247066, "best_split": [2, 1], "split_score": 0.4922672193681335}
+{"sent": "full plane", "ann_id": 157175, "best_split": [3, 1], "split_score": 0.47113358615301654}
+{"sent": "plane blue stripe", "ann_id": 157175, "best_split": [3, 1], "split_score": 0.47113358615301654}
+{"sent": "full airplane", "ann_id": 157175, "best_split": [3, 1], "split_score": 0.47113358615301654}

@@ -1,0 +1,5 @@
+{"sent": "older soldier", "ann_id": 1744265, "best_split": [1, 2], "split_score": 0.6791200208058084}
+{"sent": "old man", "ann_id": 1744265, "best_split": [1, 2], "split_score": 0.6791200208058084}
+{"sent": "younger guy", "ann_id": 501074, "best_split": [2, 1], "split_score": 0.2910029022801998}
+{"sent": "crew cut younger", "ann_id": 501074, "best_split": [1, 5], "split_score": 0.3929012692130236}
+{"sent": "man without gray hair", "ann_id": 501074, "best_split": [2, 1], "split_score": 0.2910029022801998}

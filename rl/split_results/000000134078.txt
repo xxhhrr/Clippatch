@@ -1,0 +1,6 @@
+{"sent": "partial person in back wearing dark clothes", "ann_id": 1206822, "best_split": [2, 3], "split_score": 0.5223214285084071}
+{"sent": "black figure", "ann_id": 1206822, "best_split": [2, 3], "split_score": 0.5223214285084071}
+{"sent": "object by trash can", "ann_id": 1206822, "best_split": [3, 1], "split_score": 0.0741444866882055}
+{"sent": "woman", "ann_id": 485153, "best_split": [1, 2], "split_score": 0.6975446428293389}
+{"sent": "shirt", "ann_id": 485153, "best_split": [1, 2], "split_score": 0.6975446428293389}
+{"sent": "person", "ann_id": 485153, "best_split": [1, 2], "split_score": 0.6975446428293389}

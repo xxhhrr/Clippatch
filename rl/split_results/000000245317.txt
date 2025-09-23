@@ -1,0 +1,6 @@
+{"sent": "table above sprinkles", "ann_id": 1961392, "best_split": [3, 2], "split_score": 0.3532673604885457}
+{"sent": "blank area of table next to coffee the bigger area", "ann_id": 1961392, "best_split": [5, 1], "split_score": 0.3421883421619937}
+{"sent": "table behind donut", "ann_id": 1961392, "best_split": [1, 2], "split_score": 0.30193718111041384}
+{"sent": "table next to not above plate", "ann_id": 1960725, "best_split": [1, 3], "split_score": 0.6198662845857291}
+{"sent": "actual table next to the china plate", "ann_id": 1960725, "best_split": [1, 3], "split_score": 0.6198662845857291}
+{"sent": "table on the side of the cup and plate", "ann_id": 1960725, "best_split": [1, 3], "split_score": 0.6198662845857291}

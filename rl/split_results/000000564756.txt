@@ -1,0 +1,6 @@
+{"sent": "half bench", "ann_id": 577505, "best_split": [3, 1], "split_score": 0.12880110795876432}
+{"sent": "bench that is not fully shown", "ann_id": 577505, "best_split": [3, 1], "split_score": 0.12880110795876432}
+{"sent": "bench out of frame", "ann_id": 577505, "best_split": [3, 1], "split_score": 0.12880110795876432}
+{"sent": "back of full bench", "ann_id": 577032, "best_split": [3, 1], "split_score": 0.7247815726356075}
+{"sent": "big bench", "ann_id": 577032, "best_split": [3, 1], "split_score": 0.7247815726356075}
+{"sent": "bench we can see the most of", "ann_id": 577032, "best_split": [3, 1], "split_score": 0.7247815726356075}

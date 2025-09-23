@@ -1,0 +1,6 @@
+{"sent": "the whole cake", "ann_id": 1088258, "best_split": [2, 2], "split_score": 0.5628798503644881}
+{"sent": "large cake", "ann_id": 1088258, "best_split": [2, 2], "split_score": 0.5628798503644881}
+{"sent": "full cake", "ann_id": 1088258, "best_split": [2, 2], "split_score": 0.5628798503644881}
+{"sent": "full slice of cake on its side", "ann_id": 1085905, "best_split": [3, 3], "split_score": 0.46149277366249325}
+{"sent": "closest cake", "ann_id": 1085905, "best_split": [3, 3], "split_score": 0.46149277366249325}
+{"sent": "full slice", "ann_id": 1085905, "best_split": [1, 3], "split_score": 0.2594468250750172}

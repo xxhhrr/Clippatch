@@ -1,0 +1,6 @@
+{"sent": "the half of the sandwich closest to the person", "ann_id": 313209, "best_split": [2, 3], "split_score": 0.48663885438193266}
+{"sent": "sandwich with visible cut end", "ann_id": 313209, "best_split": [2, 2], "split_score": 0.39038584180561337}
+{"sent": "higher half of sandwich", "ann_id": 313209, "best_split": [2, 3], "split_score": 0.48663885438193266}
+{"sent": "edge of sandwich closest to pickles", "ann_id": 311371, "best_split": [2, 3], "split_score": 0.3740955137095208}
+{"sent": "sandwich half next to pickle", "ann_id": 311371, "best_split": [2, 3], "split_score": 0.3740955137095208}
+{"sent": "closer half of sandwhich", "ann_id": 311371, "best_split": [2, 3], "split_score": 0.3740955137095208}

@@ -1,0 +1,5 @@
+{"sent": "the dark chair with no light on it", "ann_id": 1598714, "best_split": [3, 1], "split_score": 0.27376425853886854}
+{"sent": "seat by her arm that is up", "ann_id": 1598714, "best_split": [3, 1], "split_score": 0.27376425853886854}
+{"sent": "seat with elbow touching", "ann_id": 1598169, "best_split": [3, 3], "split_score": 0.8902439022923131}
+{"sent": "empty chair more lit", "ann_id": 1598169, "best_split": [3, 3], "split_score": 0.8902439022923131}
+{"sent": "chair to the side of woman where hand is in purse", "ann_id": 1598169, "best_split": [3, 2], "split_score": 0.6218487394251818}

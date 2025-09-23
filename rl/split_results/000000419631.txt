@@ -1,0 +1,9 @@
+{"sent": "chocolate", "ann_id": 1084082, "best_split": [2, 3], "split_score": 0.46035530258706797}
+{"sent": "chocolate cake", "ann_id": 1084082, "best_split": [2, 3], "split_score": 0.46035530258706797}
+{"sent": "cake crumbs", "ann_id": 1084082, "best_split": [2, 3], "split_score": 0.46035530258706797}
+{"sent": "glass of soda", "ann_id": 681429, "best_split": [3, 3], "split_score": 0.5425049844947426}
+{"sent": "glass with dark liquid", "ann_id": 681429, "best_split": [3, 3], "split_score": 0.5425049844947426}
+{"sent": "glass of dark cola", "ann_id": 681429, "best_split": [3, 3], "split_score": 0.5425049844947426}
+{"sent": "glass of water", "ann_id": 680487, "best_split": [3, 3], "split_score": 0.5704894082230662}
+{"sent": "lighter glass", "ann_id": 680487, "best_split": [3, 3], "split_score": 0.5704894082230662}
+{"sent": "has ice in cup", "ann_id": 680487, "best_split": [3, 3], "split_score": 0.5704894082230662}

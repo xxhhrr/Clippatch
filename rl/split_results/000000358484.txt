@@ -1,0 +1,6 @@
+{"sent": "partial bowl", "ann_id": 1136793, "best_split": [2, 1], "split_score": 0.10786033162835378}
+{"sent": "bowl closest not full", "ann_id": 1136793, "best_split": [2, 1], "split_score": 0.10786033162835378}
+{"sent": "bowl not fully shown", "ann_id": 1136793, "best_split": [2, 1], "split_score": 0.10786033162835378}
+{"sent": "bowl that is closest to camera that you can fully see", "ann_id": 1130780, "best_split": [2, 3], "split_score": 0.2830540036914509}
+{"sent": "sink bowl not nearest or furthest", "ann_id": 1130780, "best_split": [2, 3], "split_score": 0.2830540036914509}
+{"sent": "bowl at bullseye", "ann_id": 1130780, "best_split": [2, 3], "split_score": 0.2830540036914509}

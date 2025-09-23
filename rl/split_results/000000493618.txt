@@ -1,0 +1,5 @@
+{"sent": "short sandwich", "ann_id": 312275, "best_split": [3, 2], "split_score": 0.2311456227814971}
+{"sent": "smaller half of sandwich", "ann_id": 312275, "best_split": [3, 3], "split_score": 0.2592699051078945}
+{"sent": "funny shaped bread", "ann_id": 312275, "best_split": [2, 3], "split_score": 0.2891512586000054}
+{"sent": "biggest half of sandwich", "ann_id": 312236, "best_split": [3, 2], "split_score": 0.3785488958617361}
+{"sent": "slice sandwich we see all of", "ann_id": 312236, "best_split": [3, 2], "split_score": 0.3785488958617361}

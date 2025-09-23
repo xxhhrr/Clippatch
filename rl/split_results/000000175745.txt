@@ -1,0 +1,15 @@
+{"sent": "half naked man", "ann_id": 1240342, "best_split": [1, 2], "split_score": 0.5361926020194439}
+{"sent": "no shirt", "ann_id": 1240342, "best_split": [1, 2], "split_score": 0.5361926020194439}
+{"sent": "bare chest", "ann_id": 1240342, "best_split": [1, 2], "split_score": 0.5361926020194439}
+{"sent": "runner in green shorts", "ann_id": 1721700, "best_split": [2, 3], "split_score": 0.47582697195972995}
+{"sent": "cali", "ann_id": 1721700, "best_split": [1, 2], "split_score": 0.08597285067569384}
+{"sent": "green shorts", "ann_id": 1721700, "best_split": [2, 3], "split_score": 0.47582697195972995}
+{"sent": "black shirt blue shorts carrying volleyball", "ann_id": 1315924, "best_split": [3, 2], "split_score": 0.3049145939238152}
+{"sent": "woman with black shirt", "ann_id": 1315924, "best_split": [1, 5], "split_score": 0.580322956502387}
+{"sent": "black shirt short shorts", "ann_id": 1315924, "best_split": [3, 1], "split_score": 0.188112405241814}
+{"sent": "girl white shirt", "ann_id": 1311090, "best_split": [1, 5], "split_score": 0.7100083946730708}
+{"sent": "woman pink shorts", "ann_id": 1311090, "best_split": [1, 5], "split_score": 0.7100083946730708}
+{"sent": "woman in white shirt and pink shorts", "ann_id": 1311090, "best_split": [1, 5], "split_score": 0.7100083946730708}
+{"sent": "lady in dress", "ann_id": 1307497, "best_split": [3, 2], "split_score": 0.14614803623997846}
+{"sent": "girl in dress", "ann_id": 1307497, "best_split": [3, 3], "split_score": 0.19897172233946378}
+{"sent": "lady in green dress", "ann_id": 1307497, "best_split": [1, 5], "split_score": 0.3612711022481359}

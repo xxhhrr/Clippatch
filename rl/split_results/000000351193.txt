@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 1747715, "best_split": [1, 3], "split_score": 0.593270099334165}
+{"sent": "red woman", "ann_id": 1747715, "best_split": [1, 3], "split_score": 0.593270099334165}
+{"sent": "burgundy shirt", "ann_id": 1747715, "best_split": [1, 3], "split_score": 0.593270099334165}
+{"sent": "blond girl", "ann_id": 559221, "best_split": [3, 3], "split_score": 0.4894047779066804}
+{"sent": "girl in back seat with white shirt", "ann_id": 559221, "best_split": [3, 3], "split_score": 0.4894047779066804}
+{"sent": "kid smiling", "ann_id": 559221, "best_split": [1, 3], "split_score": 0.31803024887947895}

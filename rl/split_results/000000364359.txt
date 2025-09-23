@@ -1,0 +1,6 @@
+{"sent": "baby with mouth closed", "ann_id": 497279, "best_split": [1, 3], "split_score": 0.4368464340094448}
+{"sent": "boy with mouth closed", "ann_id": 497279, "best_split": [1, 3], "split_score": 0.4368464340094448}
+{"sent": "the baby with the bunny", "ann_id": 497279, "best_split": [1, 3], "split_score": 0.4368464340094448}
+{"sent": "older boy", "ann_id": 476146, "best_split": [1, 2], "split_score": 0.8035714285393984}
+{"sent": "boy with mouth open", "ann_id": 476146, "best_split": [1, 2], "split_score": 0.8035714285393984}
+{"sent": "the boy underneath the others arm", "ann_id": 476146, "best_split": [1, 2], "split_score": 0.8035714285393984}

@@ -1,0 +1,6 @@
+{"sent": "hand with scissors", "ann_id": 1729412, "best_split": [3, 2], "split_score": 0.46175193044621715}
+{"sent": "hand with scissors", "ann_id": 1729412, "best_split": [3, 2], "split_score": 0.46175193044621715}
+{"sent": "lowest hand", "ann_id": 1729412, "best_split": [3, 2], "split_score": 0.46175193044621715}
+{"sent": "two fingers", "ann_id": 1247375, "best_split": [3, 3], "split_score": 0.6135865594204553}
+{"sent": "fingers on magazine", "ann_id": 1247375, "best_split": [2, 3], "split_score": 0.40540540535649067}
+{"sent": "the fingers not holdin the scissors", "ann_id": 1247375, "best_split": [1, 2], "split_score": 0.0}

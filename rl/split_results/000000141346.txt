@@ -1,0 +1,6 @@
+{"sent": "armchair", "ann_id": 2225047, "best_split": [2, 3], "split_score": 0.7004405285509655}
+{"sent": "closest armchair", "ann_id": 2225047, "best_split": [2, 3], "split_score": 0.7004405285509655}
+{"sent": "chair", "ann_id": 2225047, "best_split": [2, 3], "split_score": 0.7004405285509655}
+{"sent": "couch", "ann_id": 113266, "best_split": [3, 3], "split_score": 0.5127830532299519}
+{"sent": "bed", "ann_id": 113266, "best_split": [3, 3], "split_score": 0.5127830532299519}
+{"sent": "couch you can see all of", "ann_id": 113266, "best_split": [3, 3], "split_score": 0.5127830532299519}

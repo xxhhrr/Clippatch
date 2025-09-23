@@ -1,0 +1,6 @@
+{"sent": "pizza without olives", "ann_id": 1074208, "best_split": [1, 5], "split_score": 0.12855366762299597}
+{"sent": "food in back full view", "ann_id": 1074208, "best_split": [3, 2], "split_score": 0.27694753574171194}
+{"sent": "smallest pie", "ann_id": 1074208, "best_split": [1, 5], "split_score": 0.1790786283184033}
+{"sent": "big food", "ann_id": 1071180, "best_split": [2, 3], "split_score": 0.48366013067623564}
+{"sent": "main pizza", "ann_id": 1071180, "best_split": [2, 3], "split_score": 0.48366013067623564}
+{"sent": "pizza near us", "ann_id": 1071180, "best_split": [2, 3], "split_score": 0.48366013067623564}

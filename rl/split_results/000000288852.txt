@@ -1,0 +1,5 @@
+{"sent": "elephant with most people", "ann_id": 580450, "best_split": [2, 2], "split_score": 0.44462335477144893}
+{"sent": "elephant with lots of people", "ann_id": 580450, "best_split": [2, 2], "split_score": 0.44462335477144893}
+{"sent": "lefty elephant", "ann_id": 580450, "best_split": [2, 2], "split_score": 0.44462335477144893}
+{"sent": "lead elephant", "ann_id": 1410256, "best_split": [5, 1], "split_score": 0.3181780400367236}
+{"sent": "has an empty seat on it", "ann_id": 1410256, "best_split": [3, 1], "split_score": 0.15075684215122792}

@@ -1,0 +1,6 @@
+{"sent": "closest bed", "ann_id": 317118, "best_split": [2, 1], "split_score": 0.7256854256592465}
+{"sent": "bed that is more out of picture", "ann_id": 317118, "best_split": [2, 1], "split_score": 0.7256854256592465}
+{"sent": "bed closest to us", "ann_id": 317118, "best_split": [2, 1], "split_score": 0.7256854256592465}
+{"sent": "the bed thats further away", "ann_id": 315074, "best_split": [3, 2], "split_score": 0.5917867434732142}
+{"sent": "far bed", "ann_id": 315074, "best_split": [3, 2], "split_score": 0.5917867434732142}
+{"sent": "bed next 2 curtain", "ann_id": 315074, "best_split": [3, 2], "split_score": 0.5917867434732142}

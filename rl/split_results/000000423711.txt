@@ -1,0 +1,15 @@
+{"sent": "cutoff guy", "ann_id": 1313932, "best_split": [2, 1], "split_score": 0.24557557396980326}
+{"sent": "closest guy", "ann_id": 1313932, "best_split": [3, 1], "split_score": 0.07498463429270556}
+{"sent": "man 400", "ann_id": 1313932, "best_split": [3, 1], "split_score": 0.07498463429270556}
+{"sent": "man in black suit jacket", "ann_id": 1309286, "best_split": [2, 3], "split_score": 0.6093078758222783}
+{"sent": "man in black jacket with arms crossed", "ann_id": 1309286, "best_split": [2, 3], "split_score": 0.6093078758222783}
+{"sent": "looking up next to white", "ann_id": 1309286, "best_split": [1, 3], "split_score": 0.31358590731698927}
+{"sent": "standing white outfit", "ann_id": 1295340, "best_split": [2, 3], "split_score": 0.27074235805397173}
+{"sent": "woman in white standing", "ann_id": 1295340, "best_split": [2, 3], "split_score": 0.27074235805397173}
+{"sent": "woman standing", "ann_id": 1295340, "best_split": [2, 3], "split_score": 0.27074235805397173}
+{"sent": "stripe shirt woman", "ann_id": 1263137, "best_split": [2, 2], "split_score": 0.5288584183251867}
+{"sent": "orange shirt", "ann_id": 1263137, "best_split": [2, 2], "split_score": 0.5288584183251867}
+{"sent": "orange", "ann_id": 1263137, "best_split": [2, 2], "split_score": 0.5288584183251867}
+{"sent": "woman who only has a head shown", "ann_id": 1328765, "best_split": [1, 5], "split_score": 0.2995129869825981}
+{"sent": "blurry face", "ann_id": 1328765, "best_split": [1, 3], "split_score": 0.1780888030780593}
+{"sent": "blurry girl with weird face", "ann_id": 1328765, "best_split": [2, 1], "split_score": 0.11766581632184049}

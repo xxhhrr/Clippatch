@@ -1,0 +1,14 @@
+{"sent": "shortest skier", "ann_id": 1724217, "best_split": [2, 3], "split_score": 0.19113513511447186}
+{"sent": "guy in the lightest colored pants", "ann_id": 1724217, "best_split": [3, 3], "split_score": 0.3008877615249068}
+{"sent": "person in black in between the group", "ann_id": 1724217, "best_split": [3, 3], "split_score": 0.3008877615249068}
+{"sent": "black jacket black pants", "ann_id": 522935, "best_split": [1, 5], "split_score": 0.33946030501178526}
+{"sent": "man in black", "ann_id": 522935, "best_split": [1, 5], "split_score": 0.33946030501178526}
+{"sent": "white shirt guy", "ann_id": 519564, "best_split": [3, 3], "split_score": 0.2516262566156673}
+{"sent": "white jacket", "ann_id": 519564, "best_split": [3, 3], "split_score": 0.2516262566156673}
+{"sent": "skier in white jacket", "ann_id": 519564, "best_split": [1, 5], "split_score": 0.20495263106603953}
+{"sent": "woman in pinkish", "ann_id": 436297, "best_split": [3, 3], "split_score": 0.32940838593776445}
+{"sent": "in maroon and black", "ann_id": 436297, "best_split": [3, 3], "split_score": 0.32940838593776445}
+{"sent": "pink coat", "ann_id": 436297, "best_split": [3, 3], "split_score": 0.32940838593776445}
+{"sent": "red and black outfit", "ann_id": 428955, "best_split": [1, 5], "split_score": 0.47026710855232334}
+{"sent": "red on end", "ann_id": 428955, "best_split": [1, 5], "split_score": 0.47026710855232334}
+{"sent": "red and gray", "ann_id": 428955, "best_split": [1, 5], "split_score": 0.47026710855232334}

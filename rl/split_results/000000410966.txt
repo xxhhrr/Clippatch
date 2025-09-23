@@ -1,0 +1,6 @@
+{"sent": "bag that appears to be tallest in the photo not the one closest to man", "ann_id": 1187723, "best_split": [1, 5], "split_score": 0.18426334803449784}
+{"sent": "im big black luggae not close to owner", "ann_id": 1187723, "best_split": [2, 2], "split_score": 0.1354231974815499}
+{"sent": "case 3", "ann_id": 1187723, "best_split": [2, 2], "split_score": 0.1354231974815499}
+{"sent": "suitcase behind man", "ann_id": 1187054, "best_split": [2, 3], "split_score": 0.5444015443358589}
+{"sent": "standing suitcase near guy", "ann_id": 1187054, "best_split": [2, 3], "split_score": 0.5444015443358589}
+{"sent": "suitcase closest to us", "ann_id": 1187054, "best_split": [2, 3], "split_score": 0.5444015443358589}

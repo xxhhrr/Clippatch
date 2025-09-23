@@ -1,0 +1,6 @@
+{"sent": "maroon shirt", "ann_id": 1204411, "best_split": [1, 5], "split_score": 0.4770338491701536}
+{"sent": "man holding items", "ann_id": 1204411, "best_split": [3, 2], "split_score": 0.3836804079571882}
+{"sent": "holding bananas", "ann_id": 1204411, "best_split": [3, 2], "split_score": 0.3836804079571882}
+{"sent": "woman in purple", "ann_id": 495537, "best_split": [3, 3], "split_score": 0.7830217589973917}
+{"sent": "woman in blue shirt", "ann_id": 495537, "best_split": [3, 3], "split_score": 0.7830217589973917}
+{"sent": "woman with apron", "ann_id": 495537, "best_split": [3, 3], "split_score": 0.7830217589973917}

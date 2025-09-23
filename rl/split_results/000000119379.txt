@@ -1,0 +1,6 @@
+{"sent": "panels on boat deck", "ann_id": 249699, "best_split": [3, 2], "split_score": 0.5946056394978948}
+{"sent": "dock surface", "ann_id": 249699, "best_split": [3, 2], "split_score": 0.5946056394978948}
+{"sent": "the dock", "ann_id": 249699, "best_split": [2, 2], "split_score": 0.4144118484467095}
+{"sent": "guy leaning forward", "ann_id": 213864, "best_split": [1, 2], "split_score": 0.20738998723663146}
+{"sent": "man in red behind the guy with a tattoo", "ann_id": 213864, "best_split": [1, 2], "split_score": 0.20738998723663146}
+{"sent": "smaller life jacket", "ann_id": 213864, "best_split": [1, 5], "split_score": 0.3461160275010176}

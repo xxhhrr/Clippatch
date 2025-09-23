@@ -1,0 +1,7 @@
+{"sent": "banana next to tic tac", "ann_id": 1543512, "best_split": [2, 2], "split_score": 0.26737882650929695}
+{"sent": "yellow above tic tacs", "ann_id": 1543512, "best_split": [1, 5], "split_score": 0.29917387880613944}
+{"sent": "banana in corner cut out near tic tacs", "ann_id": 1543512, "best_split": [2, 2], "split_score": 0.26737882650929695}
+{"sent": "bananas", "ann_id": 1042740, "best_split": [3, 2], "split_score": 0.4675955929627677}
+{"sent": "bananas", "ann_id": 1042740, "best_split": [3, 2], "split_score": 0.4675955929627677}
+{"sent": "bananas next to orange", "ann_id": 1042740, "best_split": [3, 2], "split_score": 0.4675955929627677}
+{"sent": "the bananas", "ann_id": 1042740, "best_split": [3, 2], "split_score": 0.4675955929627677}

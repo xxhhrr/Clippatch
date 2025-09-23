@@ -1,0 +1,6 @@
+{"sent": "personon the bicycle", "ann_id": 194638, "best_split": [1, 5], "split_score": 0.5381493505947494}
+{"sent": "bicyclist", "ann_id": 194638, "best_split": [1, 5], "split_score": 0.5381493505947494}
+{"sent": "person on bicycle", "ann_id": 194638, "best_split": [1, 5], "split_score": 0.5381493505947494}
+{"sent": "pink", "ann_id": 188921, "best_split": [1, 3], "split_score": 0.6870792488078966}
+{"sent": "girl on skate board", "ann_id": 188921, "best_split": [1, 3], "split_score": 0.6870792488078966}
+{"sent": "skater", "ann_id": 188921, "best_split": [1, 3], "split_score": 0.6870792488078966}

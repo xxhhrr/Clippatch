@@ -1,0 +1,12 @@
+{"sent": "blue and white", "ann_id": 257260, "best_split": [1, 5], "split_score": 0.417873396744044}
+{"sent": "woman", "ann_id": 257260, "best_split": [1, 3], "split_score": 0.4059987631206968}
+{"sent": "girl", "ann_id": 257260, "best_split": [1, 3], "split_score": 0.4059987631206968}
+{"sent": "red and blue unicef", "ann_id": 254558, "best_split": [1, 5], "split_score": 0.5744429439083015}
+{"sent": "red", "ann_id": 254558, "best_split": [2, 1], "split_score": 0.21008463378173464}
+{"sent": "unicef kid", "ann_id": 254558, "best_split": [3, 3], "split_score": 0.3788639875986414}
+{"sent": "green shirt", "ann_id": 251881, "best_split": [2, 2], "split_score": 0.5659320938506975}
+{"sent": "green shirt", "ann_id": 251881, "best_split": [2, 2], "split_score": 0.5659320938506975}
+{"sent": "green shirt", "ann_id": 251881, "best_split": [2, 2], "split_score": 0.5659320938506975}
+{"sent": "white tee shirtlifted piece of pizz", "ann_id": 223063, "best_split": [1, 5], "split_score": 0.4277879341585409}
+{"sent": "boy in white shirt", "ann_id": 223063, "best_split": [1, 5], "split_score": 0.4277879341585409}
+{"sent": "white shirt", "ann_id": 223063, "best_split": [1, 2], "split_score": 0.41711229944930817}

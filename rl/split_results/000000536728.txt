@@ -1,0 +1,10 @@
+{"sent": "horse with 10", "ann_id": 368587, "best_split": [2, 2], "split_score": 0.5899492240976629}
+{"sent": "10", "ann_id": 368587, "best_split": [2, 2], "split_score": 0.5899492240976629}
+{"sent": "10", "ann_id": 368587, "best_split": [2, 2], "split_score": 0.5899492240976629}
+{"sent": "horse with red mask", "ann_id": 273675, "best_split": [2, 3], "split_score": 0.5271767809628966}
+{"sent": "horse with red face", "ann_id": 273675, "best_split": [2, 3], "split_score": 0.5271767809628966}
+{"sent": "red mask race hourse", "ann_id": 273675, "best_split": [2, 3], "split_score": 0.5271767809628966}
+{"sent": "red mask on horse face", "ann_id": 273675, "best_split": [2, 3], "split_score": 0.5271767809628966}
+{"sent": "horse closest to us you can only see his face and it has a white cover on it", "ann_id": 57986, "best_split": [1, 5], "split_score": 0.3640422077552717}
+{"sent": "head of last horse", "ann_id": 57986, "best_split": [1, 5], "split_score": 0.3640422077552717}
+{"sent": "horse with face covered in white at edge of pic", "ann_id": 57986, "best_split": [1, 5], "split_score": 0.3640422077552717}

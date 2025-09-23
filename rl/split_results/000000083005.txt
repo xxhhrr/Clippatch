@@ -1,0 +1,6 @@
+{"sent": "horse without white nose by the red hat", "ann_id": 60074, "best_split": [3, 1], "split_score": 0.24342105261906757}
+{"sent": "brown or black horse next to red hat no one on it", "ann_id": 60074, "best_split": [3, 1], "split_score": 0.24342105261906757}
+{"sent": "horse with hat", "ann_id": 58720, "best_split": [1, 3], "split_score": 0.2822885990596188}
+{"sent": "horse with white cross on chest", "ann_id": 54682, "best_split": [1, 5], "split_score": 0.5846365354369619}
+{"sent": "horse with head raised", "ann_id": 54682, "best_split": [1, 5], "split_score": 0.5846365354369619}
+{"sent": "horse in the light with white straps", "ann_id": 54682, "best_split": [1, 5], "split_score": 0.5846365354369619}

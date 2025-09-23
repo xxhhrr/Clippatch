@@ -1,0 +1,6 @@
+{"sent": "furhest zebra", "ann_id": 2175264, "best_split": [3, 2], "split_score": 0.4577639751197388}
+{"sent": "zebra blocked", "ann_id": 2175264, "best_split": [3, 2], "split_score": 0.4577639751197388}
+{"sent": "partially seen zebra", "ann_id": 2175264, "best_split": [3, 1], "split_score": 0.3931843920316491}
+{"sent": "zebra near us", "ann_id": 588587, "best_split": [3, 1], "split_score": 0.4754818735406231}
+{"sent": "the zebra", "ann_id": 588587, "best_split": [3, 1], "split_score": 0.4754818735406231}
+{"sent": "zebra beside wood", "ann_id": 588587, "best_split": [3, 1], "split_score": 0.4754818735406231}

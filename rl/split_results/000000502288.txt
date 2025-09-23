@@ -1,0 +1,9 @@
+{"sent": "guy running opposite", "ann_id": 2157953, "best_split": [3, 2], "split_score": 0.3554459883141689}
+{"sent": "blue running", "ann_id": 2157953, "best_split": [1, 2], "split_score": 0.2723214285605739}
+{"sent": "guy blue shorts and shirt", "ann_id": 2157953, "best_split": [3, 2], "split_score": 0.3554459883141689}
+{"sent": "player in black shirt", "ann_id": 460977, "best_split": [1, 2], "split_score": 0.48301977038891025}
+{"sent": "black shirt", "ann_id": 460977, "best_split": [1, 2], "split_score": 0.48301977038891025}
+{"sent": "man in black", "ann_id": 460977, "best_split": [1, 2], "split_score": 0.48301977038891025}
+{"sent": "red shirt", "ann_id": 445834, "best_split": [1, 2], "split_score": 0.5801331285016599}
+{"sent": "red tshirt", "ann_id": 445834, "best_split": [1, 2], "split_score": 0.5801331285016599}
+{"sent": "red shirt", "ann_id": 445834, "best_split": [1, 2], "split_score": 0.5801331285016599}

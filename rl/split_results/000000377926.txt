@@ -1,0 +1,6 @@
+{"sent": "person with shirt on", "ann_id": 2157631, "best_split": [3, 2], "split_score": 0.7167618270068554}
+{"sent": "man holding food with black shirt", "ann_id": 2157631, "best_split": [3, 2], "split_score": 0.7167618270068554}
+{"sent": "person with black shirt", "ann_id": 2157631, "best_split": [3, 2], "split_score": 0.7167618270068554}
+{"sent": "hand holding food", "ann_id": 1254292, "best_split": [3, 3], "split_score": 0.6641906529458077}
+{"sent": "hand", "ann_id": 1254292, "best_split": [3, 3], "split_score": 0.6641906529458077}
+{"sent": "hand by camera", "ann_id": 1254292, "best_split": [1, 2], "split_score": 0.07826148710751149}

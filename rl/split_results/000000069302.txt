@@ -1,0 +1,5 @@
+{"sent": "brocoli closest to carrots", "ann_id": 1060953, "best_split": [2, 3], "split_score": 0.644216691009863}
+{"sent": "portion of brocolli near carrots and closest to camera", "ann_id": 1060953, "best_split": [2, 3], "split_score": 0.644216691009863}
+{"sent": "broccoli", "ann_id": 1060841, "best_split": [2, 3], "split_score": 0.3258603295229391}
+{"sent": "green piece next to carrot and beef", "ann_id": 1060841, "best_split": [2, 3], "split_score": 0.3258603295229391}
+{"sent": "broccoli between carrots and meat", "ann_id": 1060841, "best_split": [2, 3], "split_score": 0.3258603295229391}

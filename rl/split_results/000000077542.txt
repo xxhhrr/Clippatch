@@ -1,0 +1,5 @@
+{"sent": "coffee mug", "ann_id": 677532, "best_split": [3, 3], "split_score": 0.5418824789173277}
+{"sent": "cup at 11 o clock i know", "ann_id": 677532, "best_split": [3, 3], "split_score": 0.5418824789173277}
+{"sent": "cup nearest eggs", "ann_id": 677532, "best_split": [1, 3], "split_score": 0.19045608106959122}
+{"sent": "cup you cant see what is inside", "ann_id": 671450, "best_split": [5, 1], "split_score": 0.24137581166382144}
+{"sent": "white cup above the silverware", "ann_id": 671450, "best_split": [5, 1], "split_score": 0.24137581166382144}

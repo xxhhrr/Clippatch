@@ -1,0 +1,9 @@
+{"sent": "pizza slice above fork", "ann_id": 1923998, "best_split": [3, 2], "split_score": 0.27544267570421727}
+{"sent": "slice at end of fork closest to coke and wine glass", "ann_id": 1923998, "best_split": [2, 1], "split_score": 0.20835602582244006}
+{"sent": "far slice small", "ann_id": 1923998, "best_split": [3, 2], "split_score": 0.27544267570421727}
+{"sent": "the larger portion of pizza", "ann_id": 1070792, "best_split": [2, 3], "split_score": 0.553085299413711}
+{"sent": "biggest piece", "ann_id": 1070792, "best_split": [2, 3], "split_score": 0.553085299413711}
+{"sent": "slice with several mushrooms biggest", "ann_id": 1070792, "best_split": [2, 3], "split_score": 0.553085299413711}
+{"sent": "pc already eaten not on fork", "ann_id": 1924148, "best_split": [2, 2], "split_score": 0.39461096935629697}
+{"sent": "bluriest yest closest mushroom", "ann_id": 1924148, "best_split": [3, 2], "split_score": 0.5972490346769729}
+{"sent": "closest mushroom", "ann_id": 1924148, "best_split": [3, 2], "split_score": 0.5972490346769729}

@@ -1,0 +1,22 @@
+{"sent": "gray shirt", "ann_id": 224298, "best_split": [2, 2], "split_score": 0.3301754005884487}
+{"sent": "tallest guy with pony tail", "ann_id": 224298, "best_split": [2, 3], "split_score": 0.3440291101327139}
+{"sent": "gray shirt", "ann_id": 224298, "best_split": [2, 2], "split_score": 0.3301754005884487}
+{"sent": "lady in striped shirt", "ann_id": 212358, "best_split": [1, 2], "split_score": 0.38456632651528355}
+{"sent": "lady standing", "ann_id": 212358, "best_split": [1, 2], "split_score": 0.38456632651528355}
+{"sent": "gray stiripped shirt", "ann_id": 212358, "best_split": [1, 3], "split_score": 0.38108278910990717}
+{"sent": "woman in strip shirt", "ann_id": 212358, "best_split": [1, 2], "split_score": 0.38456632651528355}
+{"sent": "guy with white shirt and glassesno prob", "ann_id": 208806, "best_split": [2, 3], "split_score": 0.34032753323606896}
+{"sent": "white tshirt no hat", "ann_id": 208806, "best_split": [1, 3], "split_score": 0.33359262138384305}
+{"sent": "white shirt glasses", "ann_id": 208806, "best_split": [2, 3], "split_score": 0.34032753323606896}
+{"sent": "guy in blue khaki next to kid", "ann_id": 263885, "best_split": [1, 5], "split_score": 0.3344630579709051}
+{"sent": "person near boy wearing dark shirt", "ann_id": 263885, "best_split": [1, 5], "split_score": 0.3344630579709051}
+{"sent": "man drinking something", "ann_id": 263885, "best_split": [1, 5], "split_score": 0.3344630579709051}
+{"sent": "younger boy with blue shirt and tan shorts", "ann_id": 235947, "best_split": [3, 3], "split_score": 0.41630309983739344}
+{"sent": "boy in black", "ann_id": 235947, "best_split": [1, 3], "split_score": 0.41385135132638445}
+{"sent": "kid tan short", "ann_id": 235947, "best_split": [3, 3], "split_score": 0.41630309983739344}
+{"sent": "oriental woman", "ann_id": 234709, "best_split": [1, 5], "split_score": 0.33806818178388104}
+{"sent": "asian in black sitting", "ann_id": 234709, "best_split": [1, 5], "split_score": 0.33806818178388104}
+{"sent": "the lady in black seated", "ann_id": 234709, "best_split": [1, 5], "split_score": 0.33806818178388104}
+{"sent": "hat", "ann_id": 232513, "best_split": [3, 3], "split_score": 0.7768411005603879}
+{"sent": "white hat", "ann_id": 232513, "best_split": [3, 3], "split_score": 0.7768411005603879}
+{"sent": "guy in white hat", "ann_id": 232513, "best_split": [3, 3], "split_score": 0.7768411005603879}

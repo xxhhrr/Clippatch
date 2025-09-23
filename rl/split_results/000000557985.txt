@@ -1,0 +1,9 @@
+{"sent": "emptiest glass of water", "ann_id": 2215499, "best_split": [3, 3], "split_score": 0.32615047473956343}
+{"sent": "blue glass nearest our rounds", "ann_id": 2215499, "best_split": [2, 3], "split_score": 0.21549227796627746}
+{"sent": "water bottle closer to handle of knife", "ann_id": 2215499, "best_split": [3, 3], "split_score": 0.32615047473956343}
+{"sent": "beer in corner", "ann_id": 2183831, "best_split": [3, 3], "split_score": 0.4594594593755552}
+{"sent": "brown drink", "ann_id": 2183831, "best_split": [3, 3], "split_score": 0.4594594593755552}
+{"sent": "orange not on plate", "ann_id": 2183831, "best_split": [2, 1], "split_score": 0.10028698979192095}
+{"sent": "blue glass nearest knife blade", "ann_id": 1511259, "best_split": [3, 3], "split_score": 0.3445945945316664}
+{"sent": "fuller blue glass", "ann_id": 1511259, "best_split": [3, 3], "split_score": 0.3445945945316664}
+{"sent": "glass by knife blade", "ann_id": 1511259, "best_split": [5, 1], "split_score": 0.19145698050005508}

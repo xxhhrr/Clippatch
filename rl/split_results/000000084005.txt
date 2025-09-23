@@ -1,0 +1,6 @@
+{"sent": "the smaller bunch of bananas", "ann_id": 1545971, "best_split": [2, 2], "split_score": 0.5233816922804786}
+{"sent": "banana bunch closest to stem", "ann_id": 1545971, "best_split": [2, 2], "split_score": 0.5233816922804786}
+{"sent": "pack of bananas 1 o clock", "ann_id": 1545971, "best_split": [2, 2], "split_score": 0.5233816922804786}
+{"sent": "bigger banana cluster", "ann_id": 1541891, "best_split": [1, 3], "split_score": 0.3622171721982898}
+{"sent": "bigger buschel of bananas", "ann_id": 1541891, "best_split": [1, 3], "split_score": 0.3622171721982898}
+{"sent": "closest bunch", "ann_id": 1541891, "best_split": [3, 1], "split_score": 0.2647463535334031}

@@ -1,0 +1,6 @@
+{"sent": "street shirt", "ann_id": 1754907, "best_split": [1, 2], "split_score": 0.9168526785348831}
+{"sent": "white shirt and white pants", "ann_id": 1754907, "best_split": [1, 2], "split_score": 0.9168526785348831}
+{"sent": "man with street shirt", "ann_id": 1754907, "best_split": [1, 2], "split_score": 0.9168526785348831}
+{"sent": "obese woman", "ann_id": 483453, "best_split": [2, 3], "split_score": 0.5392123863565119}
+{"sent": "fat woman", "ann_id": 483453, "best_split": [2, 3], "split_score": 0.5392123863565119}
+{"sent": "woman on couch with gray shirt and black apple laptop", "ann_id": 483453, "best_split": [2, 3], "split_score": 0.5392123863565119}

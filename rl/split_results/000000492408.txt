@@ -1,0 +1,6 @@
+{"sent": "umbrella over the building", "ann_id": 285987, "best_split": [3, 2], "split_score": 0.4343675417229149}
+{"sent": "umbrella over building", "ann_id": 285987, "best_split": [3, 2], "split_score": 0.4343675417229149}
+{"sent": "umbrella next to building", "ann_id": 285987, "best_split": [2, 2], "split_score": 0.4413580246573026}
+{"sent": "umbrella closest to trees", "ann_id": 284676, "best_split": [2, 2], "split_score": 0.41474147411482465}
+{"sent": "umbrella opposite side as building", "ann_id": 284676, "best_split": [2, 3], "split_score": 0.36986847345856233}
+{"sent": "umbrella closest to trees", "ann_id": 284676, "best_split": [2, 2], "split_score": 0.41474147411482465}

@@ -1,0 +1,6 @@
+{"sent": "chair partially seen", "ann_id": 382599, "best_split": [2, 3], "split_score": 0.25110606238776684}
+{"sent": "old chair out of frame three o clock", "ann_id": 382599, "best_split": [2, 3], "split_score": 0.25110606238776684}
+{"sent": "half chair", "ann_id": 382599, "best_split": [2, 3], "split_score": 0.25110606238776684}
+{"sent": "wooden chair closer to couch", "ann_id": 381626, "best_split": [2, 3], "split_score": 0.2912376549389328}
+{"sent": "wooden chair that is showing whole chair", "ann_id": 381626, "best_split": [2, 3], "split_score": 0.2912376549389328}
+{"sent": "chair wooden with red pillow", "ann_id": 381626, "best_split": [2, 3], "split_score": 0.2912376549389328}

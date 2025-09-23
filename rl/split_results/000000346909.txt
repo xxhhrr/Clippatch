@@ -1,0 +1,6 @@
+{"sent": "darker dog", "ann_id": 15910, "best_split": [2, 1], "split_score": 0.25668913250248215}
+{"sent": "dog not closest to you", "ann_id": 15910, "best_split": [2, 1], "split_score": 0.2792238383994104}
+{"sent": "all tan dog", "ann_id": 15910, "best_split": [1, 2], "split_score": 0.7317044004810386}
+{"sent": "dog looking over shoulder", "ann_id": 7856, "best_split": [2, 1], "split_score": 0.5706188172225208}
+{"sent": "closest dog", "ann_id": 7856, "best_split": [2, 1], "split_score": 0.5706188172225208}
+{"sent": "closest dog", "ann_id": 7856, "best_split": [2, 1], "split_score": 0.5706188172225208}

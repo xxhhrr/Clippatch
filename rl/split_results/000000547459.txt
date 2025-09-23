@@ -1,0 +1,6 @@
+{"sent": "black man", "ann_id": 530971, "best_split": [1, 5], "split_score": 0.7036468329459072}
+{"sent": "man with blue", "ann_id": 530971, "best_split": [1, 5], "split_score": 0.7036468329459072}
+{"sent": "man in winter hat", "ann_id": 530971, "best_split": [1, 5], "split_score": 0.7036468329459072}
+{"sent": "tan jacket", "ann_id": 500213, "best_split": [1, 5], "split_score": 0.5746734809359261}
+{"sent": "bald man", "ann_id": 500213, "best_split": [1, 5], "split_score": 0.5746734809359261}
+{"sent": "man in gray shirt looking at an elephant", "ann_id": 500213, "best_split": [3, 1], "split_score": 0.20704919401123156}

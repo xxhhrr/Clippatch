@@ -1,0 +1,5 @@
+{"sent": "guy playing", "ann_id": 225889, "best_split": [1, 2], "split_score": 0.3679448341690073}
+{"sent": "white shirt boy", "ann_id": 225889, "best_split": [1, 5], "split_score": 0.4554674393430328}
+{"sent": "white shirt", "ann_id": 225889, "best_split": [1, 5], "split_score": 0.4554674393430328}
+{"sent": "white shorts", "ann_id": 198947, "best_split": [3, 3], "split_score": 0.342631281723023}
+{"sent": "woman in black shirt", "ann_id": 198947, "best_split": [3, 3], "split_score": 0.342631281723023}

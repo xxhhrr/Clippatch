@@ -1,0 +1,6 @@
+{"sent": "red dress", "ann_id": 1206796, "best_split": [1, 3], "split_score": 0.8171446514121234}
+{"sent": "woman", "ann_id": 1206796, "best_split": [1, 3], "split_score": 0.8171446514121234}
+{"sent": "red clothing", "ann_id": 1206796, "best_split": [1, 3], "split_score": 0.8171446514121234}
+{"sent": "man", "ann_id": 448347, "best_split": [1, 2], "split_score": 0.6042960398909626}
+{"sent": "the man", "ann_id": 448347, "best_split": [1, 2], "split_score": 0.6042960398909626}
+{"sent": "man", "ann_id": 448347, "best_split": [1, 2], "split_score": 0.6042960398909626}

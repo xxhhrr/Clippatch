@@ -1,0 +1,6 @@
+{"sent": "elephant nearest to us", "ann_id": 581522, "best_split": [1, 3], "split_score": 0.8347934918150788}
+{"sent": "closest elephant", "ann_id": 581522, "best_split": [1, 3], "split_score": 0.8347934918150788}
+{"sent": "elephant closest to camera 300", "ann_id": 581522, "best_split": [1, 3], "split_score": 0.8347934918150788}
+{"sent": "elephant most visible", "ann_id": 580856, "best_split": [3, 1], "split_score": 0.3583535108823262}
+{"sent": "elephant showing almost full body", "ann_id": 580856, "best_split": [3, 1], "split_score": 0.3583535108823262}
+{"sent": "elephant direct ahead", "ann_id": 580856, "best_split": [3, 1], "split_score": 0.3583535108823262}

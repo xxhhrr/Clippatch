@@ -1,0 +1,9 @@
+{"sent": "horse legs of horse nearest us", "ann_id": 1403788, "best_split": [3, 1], "split_score": 0.13615816628755956}
+{"sent": "legs of shorter horse", "ann_id": 1403788, "best_split": [3, 1], "split_score": 0.13615816628755956}
+{"sent": "horse legs under red thing", "ann_id": 1403788, "best_split": [3, 1], "split_score": 0.13615816628755956}
+{"sent": "horse with red halter rope", "ann_id": 274634, "best_split": [1, 2], "split_score": 0.5748981427436664}
+{"sent": "taller horse", "ann_id": 274634, "best_split": [1, 2], "split_score": 0.5748981427436664}
+{"sent": "horse middleview", "ann_id": 274634, "best_split": [1, 2], "split_score": 0.5748981427436664}
+{"sent": "closest", "ann_id": 274341, "best_split": [3, 1], "split_score": 0.38401363177197684}
+{"sent": "closest horse", "ann_id": 274341, "best_split": [3, 1], "split_score": 0.38401363177197684}
+{"sent": "nose down", "ann_id": 274341, "best_split": [1, 3], "split_score": 0.30903629902534574}

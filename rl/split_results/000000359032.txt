@@ -1,0 +1,9 @@
+{"sent": "no color no sunglasses", "ann_id": 555778, "best_split": [2, 1], "split_score": 0.17359706773971192}
+{"sent": "big guy not wearing glasses next to the colored guy", "ann_id": 555778, "best_split": [5, 1], "split_score": 0.1917972149591059}
+{"sent": "black and white guy hand on knee", "ann_id": 555778, "best_split": [1, 2], "split_score": 0.48046874998084865}
+{"sent": "man withe glasses on holding hands", "ann_id": 488658, "best_split": [1, 3], "split_score": 0.4160574179557749}
+{"sent": "guy closest to us", "ann_id": 488658, "best_split": [1, 3], "split_score": 0.4160574179557749}
+{"sent": "sunglasses sitting", "ann_id": 488658, "best_split": [1, 3], "split_score": 0.4160574179557749}
+{"sent": "man in color", "ann_id": 451930, "best_split": [1, 3], "split_score": 0.44417475726296557}
+{"sent": "color jeans", "ann_id": 451930, "best_split": [1, 2], "split_score": 0.49652149713035615}
+{"sent": "the only one in color", "ann_id": 451930, "best_split": [1, 2], "split_score": 0.49652149713035615}

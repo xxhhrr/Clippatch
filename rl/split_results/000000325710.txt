@@ -1,0 +1,6 @@
+{"sent": "white shirt", "ann_id": 2167653, "best_split": [1, 3], "split_score": 0.5016461342129542}
+{"sent": "man in white shirt", "ann_id": 2167653, "best_split": [1, 3], "split_score": 0.5016461342129542}
+{"sent": "in white", "ann_id": 2167653, "best_split": [1, 3], "split_score": 0.5016461342129542}
+{"sent": "blond hair", "ann_id": 2164549, "best_split": [1, 2], "split_score": 0.5562513495855039}
+{"sent": "blond hair", "ann_id": 2164549, "best_split": [1, 2], "split_score": 0.5562513495855039}
+{"sent": "man closest in blue shirt", "ann_id": 2164549, "best_split": [1, 2], "split_score": 0.5562513495855039}

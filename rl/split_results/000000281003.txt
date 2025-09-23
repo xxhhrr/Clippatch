@@ -1,0 +1,5 @@
+{"sent": "oven interior", "ann_id": 2139401, "best_split": [5, 1], "split_score": 0.3883626521952095}
+{"sent": "white circle", "ann_id": 2139401, "best_split": [1, 3], "split_score": 0.19253393664069376}
+{"sent": "oven opening", "ann_id": 2139401, "best_split": [5, 1], "split_score": 0.3883626521952095}
+{"sent": "controlls on each side", "ann_id": 1979381, "best_split": [5, 1], "split_score": 0.39053254434259127}
+{"sent": "control panels maybe", "ann_id": 1979381, "best_split": [3, 3], "split_score": 0.582071831317591}

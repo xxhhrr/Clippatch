@@ -1,0 +1,6 @@
+{"sent": "white moto", "ann_id": 246638, "best_split": [2, 2], "split_score": 0.365209185249669}
+{"sent": "white bike", "ann_id": 246638, "best_split": [2, 2], "split_score": 0.365209185249669}
+{"sent": "steering portion of white bike", "ann_id": 246638, "best_split": [2, 1], "split_score": 0.19196428570663407}
+{"sent": "closest bike", "ann_id": 1790136, "best_split": [2, 2], "split_score": 0.5634517766050562}
+{"sent": "bike medium blue", "ann_id": 1790136, "best_split": [2, 1], "split_score": 0.28571428570289725}
+{"sent": "blue part on white moped", "ann_id": 1790136, "best_split": [2, 1], "split_score": 0.28571428570289725}

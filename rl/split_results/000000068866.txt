@@ -1,0 +1,9 @@
+{"sent": "closest in corner not by red", "ann_id": 1444754, "best_split": [3, 1], "split_score": 0.13449543327386415}
+{"sent": "black luggage on rack under black luggage horizontal", "ann_id": 1187979, "best_split": [2, 2], "split_score": 0.3433514030338527}
+{"sent": "lower rightiest suitcase", "ann_id": 1187979, "best_split": [2, 1], "split_score": 0.1716757015237693}
+{"sent": "suitcase closest to camera on the bot", "ann_id": 1187979, "best_split": [2, 1], "split_score": 0.1716757015237693}
+{"sent": "piece of red luggage on the ground", "ann_id": 1184014, "best_split": [1, 5], "split_score": 0.46599300422988793}
+{"sent": "red suitcase with handle", "ann_id": 1184014, "best_split": [1, 5], "split_score": 0.46599300422988793}
+{"sent": "red luggage with the handle extended", "ann_id": 1184014, "best_split": [1, 5], "split_score": 0.46599300422988793}
+{"sent": "black luggage standing up next ro red luggage with yellow tie on", "ann_id": 1182983, "best_split": [2, 1], "split_score": 0.12121928165874216}
+{"sent": "black luggage by close rack but not on it", "ann_id": 1182983, "best_split": [2, 2], "split_score": 0.16605652363698517}

@@ -1,0 +1,6 @@
+{"sent": "sheep with eyes closed", "ann_id": 64221, "best_split": [3, 1], "split_score": 0.5103739169795728}
+{"sent": "smaller", "ann_id": 64221, "best_split": [1, 2], "split_score": 0.33442597955730957}
+{"sent": "far sheep can see face", "ann_id": 64221, "best_split": [3, 2], "split_score": 0.769335406065941}
+{"sent": "the sheep you can see the most of", "ann_id": 62657, "best_split": [1, 2], "split_score": 0.5297814443562159}
+{"sent": "biggest sheep", "ann_id": 62657, "best_split": [1, 2], "split_score": 0.5297814443562159}
+{"sent": "one close to us", "ann_id": 62657, "best_split": [2, 1], "split_score": 0.4674138216674798}

@@ -1,0 +1,9 @@
+{"sent": "guy in tie", "ann_id": 1708173, "best_split": [1, 2], "split_score": 0.5334906720461483}
+{"sent": "beard", "ann_id": 1708173, "best_split": [1, 2], "split_score": 0.5334906720461483}
+{"sent": "tie", "ann_id": 1708173, "best_split": [1, 2], "split_score": 0.5334906720461483}
+{"sent": "lady in blue", "ann_id": 520908, "best_split": [1, 3], "split_score": 0.640926640887975}
+{"sent": "blue shirt woman", "ann_id": 520908, "best_split": [1, 3], "split_score": 0.640926640887975}
+{"sent": "blue hsirt", "ann_id": 520908, "best_split": [1, 3], "split_score": 0.640926640887975}
+{"sent": "gray sweater", "ann_id": 485344, "best_split": [1, 5], "split_score": 0.5559105430947441}
+{"sent": "gray sweater", "ann_id": 485344, "best_split": [1, 5], "split_score": 0.5559105430947441}
+{"sent": "old man no bearf", "ann_id": 485344, "best_split": [1, 3], "split_score": 0.37389937105238547}

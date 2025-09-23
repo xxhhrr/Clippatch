@@ -1,0 +1,6 @@
+{"sent": "eleepahnt further away from grass", "ann_id": 1409975, "best_split": [1, 5], "split_score": 0.2886886536358421}
+{"sent": "elephant behind the other", "ann_id": 1409975, "best_split": [3, 2], "split_score": 0.5168241529710965}
+{"sent": "closer elephant", "ann_id": 1409975, "best_split": [3, 2], "split_score": 0.5168241529710965}
+{"sent": "elephant almost across", "ann_id": 583040, "best_split": [3, 2], "split_score": 0.2474789050990452}
+{"sent": "elephant being pushed", "ann_id": 583040, "best_split": [3, 3], "split_score": 0.6803826022955454}
+{"sent": "one farthest away", "ann_id": 583040, "best_split": [2, 1], "split_score": 0.05828759604616584}

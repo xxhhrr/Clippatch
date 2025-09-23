@@ -1,0 +1,6 @@
+{"sent": "elepant head", "ann_id": 584252, "best_split": [1, 2], "split_score": 0.7308274872157674}
+{"sent": "little elephant", "ann_id": 584252, "best_split": [1, 2], "split_score": 0.7308274872157674}
+{"sent": "the elephant whose eye can be most clearly seen", "ann_id": 584252, "best_split": [1, 2], "split_score": 0.7308274872157674}
+{"sent": "curly trunk", "ann_id": 582262, "best_split": [2, 1], "split_score": 0.43663209701976113}
+{"sent": "main elephant looking away", "ann_id": 582262, "best_split": [2, 1], "split_score": 0.43663209701976113}
+{"sent": "unobstructed elephant", "ann_id": 582262, "best_split": [2, 1], "split_score": 0.43663209701976113}

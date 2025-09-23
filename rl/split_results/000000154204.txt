@@ -1,0 +1,12 @@
+{"sent": "blond woman", "ann_id": 2205971, "best_split": [1, 5], "split_score": 0.44354141445240003}
+{"sent": "lady", "ann_id": 2205971, "best_split": [1, 3], "split_score": 0.23437005797393937}
+{"sent": "lady", "ann_id": 2205971, "best_split": [1, 3], "split_score": 0.23437005797393937}
+{"sent": "mustache", "ann_id": 511875, "best_split": [3, 3], "split_score": 0.5792332267445314}
+{"sent": "man in background", "ann_id": 511875, "best_split": [3, 3], "split_score": 0.5792332267445314}
+{"sent": "man sitting clapping", "ann_id": 511875, "best_split": [3, 2], "split_score": 0.39969135798063365}
+{"sent": "facing camera shaking hand", "ann_id": 458838, "best_split": [1, 3], "split_score": 0.6944493861993217}
+{"sent": "man standing you can see his face", "ann_id": 458838, "best_split": [1, 3], "split_score": 0.6944493861993217}
+{"sent": "shaking hands facing us", "ann_id": 458838, "best_split": [1, 3], "split_score": 0.6944493861993217}
+{"sent": "facing away from us", "ann_id": 450245, "best_split": [1, 5], "split_score": 0.3423388200202393}
+{"sent": "man holding key", "ann_id": 450245, "best_split": [1, 3], "split_score": 0.3725968771816979}
+{"sent": "guy holding a big ass key lol", "ann_id": 450245, "best_split": [1, 3], "split_score": 0.3725968771816979}

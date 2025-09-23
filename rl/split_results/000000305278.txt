@@ -1,0 +1,6 @@
+{"sent": "half pizza shown", "ann_id": 1076961, "best_split": [3, 3], "split_score": 0.36357104358477255}
+{"sent": "pizza that is cut off in picture", "ann_id": 1076961, "best_split": [3, 3], "split_score": 0.36357104358477255}
+{"sent": "portion of pizza", "ann_id": 1076961, "best_split": [3, 3], "split_score": 0.36357104358477255}
+{"sent": "pizza at 6 o clock", "ann_id": 1076046, "best_split": [3, 1], "split_score": 0.35938989511681424}
+{"sent": "whole pizza", "ann_id": 1076046, "best_split": [3, 1], "split_score": 0.35938989511681424}
+{"sent": "main pizza", "ann_id": 1076046, "best_split": [3, 1], "split_score": 0.35938989511681424}

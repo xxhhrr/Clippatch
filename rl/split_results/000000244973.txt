@@ -1,0 +1,11 @@
+{"sent": "bear behind closest to us", "ann_id": 1996821, "best_split": [1, 3], "split_score": 0.46227316138596747}
+{"sent": "bear closest but behind it", "ann_id": 1996821, "best_split": [1, 3], "split_score": 0.46227316138596747}
+{"sent": "count three lower row", "ann_id": 1996066, "best_split": [1, 5], "split_score": 0.5606991931847196}
+{"sent": "number 3 from corner", "ann_id": 1996066, "best_split": [1, 5], "split_score": 0.5606991931847196}
+{"sent": "number two bear", "ann_id": 1162280, "best_split": [2, 1], "split_score": 0.22662807524505688}
+{"sent": "bear t 600", "ann_id": 1162280, "best_split": [2, 1], "split_score": 0.22662807524505688}
+{"sent": "bear next to closest one", "ann_id": 1162280, "best_split": [3, 3], "split_score": 0.42919999995707997}
+{"sent": "bear behind number 2 bear", "ann_id": 1161483, "best_split": [3, 2], "split_score": 0.3327882256405572}
+{"sent": "the closest one", "ann_id": 1160500, "best_split": [2, 3], "split_score": 0.6266345767648107}
+{"sent": "the biggest bear", "ann_id": 1160500, "best_split": [2, 3], "split_score": 0.6266345767648107}
+{"sent": "closest bear", "ann_id": 1160500, "best_split": [2, 3], "split_score": 0.6266345767648107}

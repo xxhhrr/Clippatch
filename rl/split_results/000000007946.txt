@@ -1,0 +1,9 @@
+{"sent": "head not showing face", "ann_id": 555912, "best_split": [2, 3], "split_score": 0.25892857139733005}
+{"sent": "head of person she is talking to", "ann_id": 555912, "best_split": [3, 2], "split_score": 0.18487394955883785}
+{"sent": "blond head looking down to find something near glasses", "ann_id": 555912, "best_split": [2, 3], "split_score": 0.25892857139733005}
+{"sent": "person in black gray hair", "ann_id": 482653, "best_split": [2, 2], "split_score": 0.1342925659371783}
+{"sent": "back of man in black", "ann_id": 482653, "best_split": [3, 3], "split_score": 0.3193785772167819}
+{"sent": "man in black", "ann_id": 482653, "best_split": [3, 3], "split_score": 0.3193785772167819}
+{"sent": "woman", "ann_id": 465622, "best_split": [2, 1], "split_score": 0.5088339222431372}
+{"sent": "woman in brown sweater", "ann_id": 465622, "best_split": [2, 1], "split_score": 0.5088339222431372}
+{"sent": "lady", "ann_id": 465622, "best_split": [2, 1], "split_score": 0.5088339222431372}

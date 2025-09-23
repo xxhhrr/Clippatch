@@ -1,0 +1,3 @@
+{"sent": "giraffe head in tree", "ann_id": 1414253, "best_split": [1, 3], "split_score": 0.4910297370188874}
+{"sent": "body", "ann_id": 600845, "best_split": [3, 1], "split_score": 0.5857263513160156}
+{"sent": "giraffe midsection", "ann_id": 600845, "best_split": [3, 1], "split_score": 0.5857263513160156}

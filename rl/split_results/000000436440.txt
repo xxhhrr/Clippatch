@@ -1,0 +1,9 @@
+{"sent": "glasses", "ann_id": 1732643, "best_split": [1, 5], "split_score": 0.5314851484622292}
+{"sent": "glasses", "ann_id": 1732643, "best_split": [1, 5], "split_score": 0.5314851484622292}
+{"sent": "man in plaid", "ann_id": 1732643, "best_split": [1, 5], "split_score": 0.5314851484622292}
+{"sent": "asian guy", "ann_id": 536288, "best_split": [1, 5], "split_score": 0.6435497123546795}
+{"sent": "man no beard", "ann_id": 536288, "best_split": [3, 1], "split_score": 0.18743334517474966}
+{"sent": "man without glasses", "ann_id": 536288, "best_split": [3, 1], "split_score": 0.18743334517474966}
+{"sent": "woman in purple shirt", "ann_id": 459269, "best_split": [3, 3], "split_score": 0.4329874143924721}
+{"sent": "purple woman", "ann_id": 459269, "best_split": [3, 3], "split_score": 0.4329874143924721}
+{"sent": "girl", "ann_id": 459269, "best_split": [1, 5], "split_score": 0.3362068965258461}

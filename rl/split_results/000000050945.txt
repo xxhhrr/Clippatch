@@ -1,0 +1,10 @@
+{"sent": "single slice", "ann_id": 1077797, "best_split": [2, 3], "split_score": 0.40963855418352013}
+{"sent": "slice nearest you", "ann_id": 1077797, "best_split": [2, 3], "split_score": 0.40963855418352013}
+{"sent": "blurred slice", "ann_id": 1077797, "best_split": [2, 3], "split_score": 0.40963855418352013}
+{"sent": "pizza slice closest to knife", "ann_id": 1073954, "best_split": [3, 2], "split_score": 0.47585886716854003}
+{"sent": "three pizza slices", "ann_id": 1073219, "best_split": [3, 2], "split_score": 0.41397200767205933}
+{"sent": "slice surrounded", "ann_id": 1073219, "best_split": [3, 2], "split_score": 0.41397200767205933}
+{"sent": "piece at 1 o clock", "ann_id": 1073219, "best_split": [3, 2], "split_score": 0.41397200767205933}
+{"sent": "pizza by coke can", "ann_id": 1071538, "best_split": [3, 3], "split_score": 0.4364064107577699}
+{"sent": "slice of pizza near the coke and not blurry", "ann_id": 1071538, "best_split": [3, 3], "split_score": 0.4364064107577699}
+{"sent": "pizza slice nearest the red coke cup", "ann_id": 1071538, "best_split": [3, 3], "split_score": 0.4364064107577699}

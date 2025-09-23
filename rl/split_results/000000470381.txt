@@ -1,0 +1,9 @@
+{"sent": "gut next to glasses guy", "ann_id": 1304356, "best_split": [1, 2], "split_score": 0.40987723212651955}
+{"sent": "man against wall next to bald gray man", "ann_id": 1304356, "best_split": [2, 1], "split_score": 0.1375506528546488}
+{"sent": "not the soldier closest to us but up one", "ann_id": 1304356, "best_split": [1, 2], "split_score": 0.40987723212651955}
+{"sent": "bald man", "ann_id": 1285168, "best_split": [1, 2], "split_score": 0.13833577865912974}
+{"sent": "closest man", "ann_id": 1285168, "best_split": [3, 1], "split_score": 0.25918183455544486}
+{"sent": "bald man", "ann_id": 1285168, "best_split": [1, 2], "split_score": 0.13833577865912974}
+{"sent": "soldier sitting by himself", "ann_id": 1238584, "best_split": [2, 3], "split_score": 0.4686362217342519}
+{"sent": "man on side of room alone", "ann_id": 1238584, "best_split": [2, 3], "split_score": 0.4686362217342519}
+{"sent": "sitting alone at table", "ann_id": 1238584, "best_split": [3, 2], "split_score": 0.3097689952398396}

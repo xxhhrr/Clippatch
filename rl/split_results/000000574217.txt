@@ -1,0 +1,6 @@
+{"sent": "person pointing at the screen", "ann_id": 217448, "best_split": [3, 1], "split_score": 0.1184433164065967}
+{"sent": "person pointing at screen", "ann_id": 217448, "best_split": [3, 1], "split_score": 0.1184433164065967}
+{"sent": "white pants", "ann_id": 217448, "best_split": [2, 3], "split_score": 0.3720136518374559}
+{"sent": "big man", "ann_id": 207840, "best_split": [1, 2], "split_score": 0.36611128825071304}
+{"sent": "big guy", "ann_id": 207840, "best_split": [2, 2], "split_score": 0.38102199056940245}
+{"sent": "wbig guy", "ann_id": 207840, "best_split": [1, 3], "split_score": 0.5541143822059535}

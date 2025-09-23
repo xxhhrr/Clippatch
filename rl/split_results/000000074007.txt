@@ -1,0 +1,6 @@
+{"sent": "the one with 2 people on it", "ann_id": 580954, "best_split": [2, 1], "split_score": 0.0432590315128898}
+{"sent": "elephant with two riders", "ann_id": 580954, "best_split": [2, 2], "split_score": 0.452199891332686}
+{"sent": "elephant at three sorry", "ann_id": 580954, "best_split": [2, 2], "split_score": 0.452199891332686}
+{"sent": "elephant with three people", "ann_id": 580523, "best_split": [2, 3], "split_score": 0.3269841269588088}
+{"sent": "elephant with 3 people", "ann_id": 580523, "best_split": [2, 3], "split_score": 0.3269841269588088}
+{"sent": "elephant with more people on it", "ann_id": 580523, "best_split": [2, 3], "split_score": 0.3269841269588088}

@@ -1,0 +1,11 @@
+{"sent": "yellow slice near score", "ann_id": 2113535, "best_split": [5, 1], "split_score": 0.18882681562487647}
+{"sent": "yellow apple little one not big one", "ann_id": 2113535, "best_split": [2, 3], "split_score": 0.3422818791536095}
+{"sent": "yellow fruit 3 o clock", "ann_id": 2113535, "best_split": [2, 3], "split_score": 0.3422818791536095}
+{"sent": "biggest yellow thing", "ann_id": 2113421, "best_split": [2, 2], "split_score": 0.42799970351826877}
+{"sent": "largest yellow piece", "ann_id": 2113421, "best_split": [2, 2], "split_score": 0.42799970351826877}
+{"sent": "big piece of lemon", "ann_id": 2113421, "best_split": [5, 1], "split_score": 0.27813752695974886}
+{"sent": "three apple slices", "ann_id": 1906792, "best_split": [1, 2], "split_score": 0.5942276359456037}
+{"sent": "three slices of apple", "ann_id": 1906792, "best_split": [1, 2], "split_score": 0.5942276359456037}
+{"sent": "small group red apples", "ann_id": 1906792, "best_split": [1, 2], "split_score": 0.5942276359456037}
+{"sent": "red piece at 9 olcock", "ann_id": 1906317, "best_split": [3, 3], "split_score": 0.6664232687518044}
+{"sent": "red with green on it", "ann_id": 1906317, "best_split": [3, 3], "split_score": 0.6664232687518044}

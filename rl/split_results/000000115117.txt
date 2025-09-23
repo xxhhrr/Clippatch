@@ -1,0 +1,6 @@
+{"sent": "bold guy", "ann_id": 206217, "best_split": [3, 2], "split_score": 0.35458901583327546}
+{"sent": "glasses wearer", "ann_id": 206217, "best_split": [1, 2], "split_score": 0.8415178571093145}
+{"sent": "white pants", "ann_id": 206217, "best_split": [1, 2], "split_score": 0.8415178571093145}
+{"sent": "dude waving", "ann_id": 203399, "best_split": [1, 2], "split_score": 0.6984709867137778}
+{"sent": "blue", "ann_id": 203399, "best_split": [1, 2], "split_score": 0.6984709867137778}
+{"sent": "guy holding phone", "ann_id": 203399, "best_split": [1, 2], "split_score": 0.6984709867137778}

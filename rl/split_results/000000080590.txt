@@ -1,0 +1,17 @@
+{"sent": "glass on side pic side", "ann_id": 2183149, "best_split": [1, 5], "split_score": 0.6561146284025229}
+{"sent": "wine glass not completely in picture", "ann_id": 2183149, "best_split": [2, 3], "split_score": 0.5138888888464047}
+{"sent": "closest wine glass our corner 2006 is behind it", "ann_id": 2183149, "best_split": [1, 3], "split_score": 0.6047297296932475}
+{"sent": "empty glass in front of 2008", "ann_id": 2183125, "best_split": [1, 2], "split_score": 0.2763358778527841}
+{"sent": "second glass", "ann_id": 2183125, "best_split": [2, 3], "split_score": 0.4680671624267371}
+{"sent": "glass by 2008 wine", "ann_id": 2183125, "best_split": [1, 2], "split_score": 0.2763358778527841}
+{"sent": "third wine glass", "ann_id": 2183062, "best_split": [1, 5], "split_score": 0.6257110352165032}
+{"sent": "glass number three", "ann_id": 2183062, "best_split": [1, 5], "split_score": 0.6257110352165032}
+{"sent": "2007 wine goblet", "ann_id": 2183062, "best_split": [2, 1], "split_score": 0.21619382894263153}
+{"sent": "2008 bottle of wine", "ann_id": 288570, "best_split": [2, 2], "split_score": 0.19732463293981567}
+{"sent": "008", "ann_id": 288570, "best_split": [2, 2], "split_score": 0.19732463293981567}
+{"sent": "dark 2006 bottle", "ann_id": 288317, "best_split": [2, 3], "split_score": 0.4724907716230892}
+{"sent": "blanc 2006", "ann_id": 288317, "best_split": [2, 3], "split_score": 0.4724907716230892}
+{"sent": "dark green bottle", "ann_id": 288317, "best_split": [2, 3], "split_score": 0.4724907716230892}
+{"sent": "purple label", "ann_id": 81270, "best_split": [1, 5], "split_score": 0.5405844155295673}
+{"sent": "purple label in corner", "ann_id": 81270, "best_split": [1, 5], "split_score": 0.5405844155295673}
+{"sent": "purple label", "ann_id": 81270, "best_split": [1, 5], "split_score": 0.5405844155295673}

@@ -1,0 +1,12 @@
+{"sent": "long hair woman", "ann_id": 1723251, "best_split": [1, 5], "split_score": 0.6621217159409609}
+{"sent": "woman white red and black shirt", "ann_id": 1723251, "best_split": [1, 5], "split_score": 0.6621217159409609}
+{"sent": "woman with long hair", "ann_id": 1723251, "best_split": [1, 5], "split_score": 0.6621217159409609}
+{"sent": "beard guy", "ann_id": 483083, "best_split": [1, 2], "split_score": 0.4712855249421556}
+{"sent": "beard", "ann_id": 483083, "best_split": [1, 2], "split_score": 0.4712855249421556}
+{"sent": "man with plaid shirt", "ann_id": 483083, "best_split": [1, 3], "split_score": 0.35870410365621147}
+{"sent": "girl with glasses", "ann_id": 475501, "best_split": [1, 5], "split_score": 0.3721571329883994}
+{"sent": "lady with glasses", "ann_id": 475501, "best_split": [1, 5], "split_score": 0.3721571329883994}
+{"sent": "glasses girl", "ann_id": 475501, "best_split": [1, 5], "split_score": 0.3721571329883994}
+{"sent": "guy with glasess", "ann_id": 450702, "best_split": [1, 3], "split_score": 0.6963764196486546}
+{"sent": "man with mustache not beard", "ann_id": 450702, "best_split": [3, 1], "split_score": 0.2508374541294131}
+{"sent": "man with no beard", "ann_id": 450702, "best_split": [3, 1], "split_score": 0.2508374541294131}

@@ -1,0 +1,6 @@
+{"sent": "pies", "ann_id": 2219119, "best_split": [1, 2], "split_score": 0.45184373015027285}
+{"sent": "dough with piece cut out", "ann_id": 2219119, "best_split": [1, 2], "split_score": 0.45184373015027285}
+{"sent": "the food with a slice cut out not the slice", "ann_id": 2219119, "best_split": [1, 2], "split_score": 0.45184373015027285}
+{"sent": "lol the piece away from the whole", "ann_id": 2219076, "best_split": [2, 2], "split_score": 0.3256536989536309}
+{"sent": "pizza slice", "ann_id": 2219076, "best_split": [3, 1], "split_score": 0.004619274530554348}
+{"sent": "piece of pizza", "ann_id": 2219076, "best_split": [3, 2], "split_score": 0.47596325891972285}

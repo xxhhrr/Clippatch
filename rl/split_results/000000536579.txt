@@ -1,0 +1,6 @@
+{"sent": "adult", "ann_id": 600237, "best_split": [1, 2], "split_score": 0.9470663264928625}
+{"sent": "adult giraffe", "ann_id": 600237, "best_split": [1, 2], "split_score": 0.9470663264928625}
+{"sent": "butt", "ann_id": 600237, "best_split": [1, 2], "split_score": 0.9470663264928625}
+{"sent": "baby giraffe", "ann_id": 596214, "best_split": [1, 3], "split_score": 0.5127551020174583}
+{"sent": "head", "ann_id": 596214, "best_split": [1, 3], "split_score": 0.5127551020174583}
+{"sent": "baby g", "ann_id": 596214, "best_split": [1, 3], "split_score": 0.5127551020174583}

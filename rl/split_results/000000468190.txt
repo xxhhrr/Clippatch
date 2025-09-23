@@ -1,0 +1,14 @@
+{"sent": "yellow shirt", "ann_id": 517459, "best_split": [3, 3], "split_score": 0.4598540145531807}
+{"sent": "behind person with tie", "ann_id": 517459, "best_split": [1, 2], "split_score": 0.37165178569947177}
+{"sent": "yellow shirt person", "ann_id": 517459, "best_split": [3, 3], "split_score": 0.4598540145531807}
+{"sent": "red and white shirt", "ann_id": 499783, "best_split": [1, 3], "split_score": 0.6187290969620026}
+{"sent": "rainbow hat guy", "ann_id": 499783, "best_split": [1, 3], "split_score": 0.6187290969620026}
+{"sent": "boy in checkered shirt and tie", "ann_id": 499783, "best_split": [1, 3], "split_score": 0.6187290969620026}
+{"sent": "man holding the closed umbrella", "ann_id": 455072, "best_split": [1, 3], "split_score": 0.6117277991908948}
+{"sent": "boy wet hair holding umbrella", "ann_id": 455072, "best_split": [1, 3], "split_score": 0.6117277991908948}
+{"sent": "gray umbrella behind plaid man", "ann_id": 282449, "best_split": [2, 3], "split_score": 0.2788626241624818}
+{"sent": "open umbrella behind striped hat", "ann_id": 282449, "best_split": [3, 1], "split_score": 0.4008204632962825}
+{"sent": "black umbrella behind rainbow hat", "ann_id": 282449, "best_split": [3, 1], "split_score": 0.4008204632962825}
+{"sent": "rainbow umbrella", "ann_id": 280653, "best_split": [1, 3], "split_score": 0.6265082045954086}
+{"sent": "rainbow umbrella", "ann_id": 280653, "best_split": [1, 3], "split_score": 0.6265082045954086}
+{"sent": "green and blue umbrella not opened", "ann_id": 280653, "best_split": [1, 3], "split_score": 0.6265082045954086}

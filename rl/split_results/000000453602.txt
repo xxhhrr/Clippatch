@@ -1,0 +1,8 @@
+{"sent": "main piece of broccoli", "ann_id": 1559950, "best_split": [1, 2], "split_score": 0.2742571255202298}
+{"sent": "main broccoli", "ann_id": 1559950, "best_split": [1, 2], "split_score": 0.2742571255202298}
+{"sent": "closest broccoli", "ann_id": 1559950, "best_split": [1, 2], "split_score": 0.2742571255202298}
+{"sent": "broc above the other broc", "ann_id": 1057360, "best_split": [2, 2], "split_score": 0.29266745935056143}
+{"sent": "brocoli behind another brocoli", "ann_id": 1057360, "best_split": [2, 2], "split_score": 0.29266745935056143}
+{"sent": "broccoli in corner of picture", "ann_id": 1056719, "best_split": [3, 3], "split_score": 0.593111218317542}
+{"sent": "broccoli on noodles", "ann_id": 1056719, "best_split": [3, 3], "split_score": 0.593111218317542}
+{"sent": "brocolli in corner over noodles", "ann_id": 1056719, "best_split": [3, 3], "split_score": 0.593111218317542}

@@ -1,0 +1,6 @@
+{"sent": "partial zebra", "ann_id": 1822880, "best_split": [2, 2], "split_score": 0.4149372277469294}
+{"sent": "the adult zebra", "ann_id": 1822880, "best_split": [2, 2], "split_score": 0.4149372277469294}
+{"sent": "zeb behind", "ann_id": 1822880, "best_split": [2, 2], "split_score": 0.4149372277469294}
+{"sent": "zebra ready to run", "ann_id": 1412170, "best_split": [1, 3], "split_score": 0.29432132962715024}
+{"sent": "running", "ann_id": 1412170, "best_split": [1, 2], "split_score": 0.43772455088182166}
+{"sent": "running", "ann_id": 1412170, "best_split": [1, 2], "split_score": 0.43772455088182166}

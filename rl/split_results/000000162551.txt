@@ -1,0 +1,5 @@
+{"sent": "sandwich closest to camera", "ann_id": 311221, "best_split": [1, 2], "split_score": 0.729142365991493}
+{"sent": "bread with crust", "ann_id": 311221, "best_split": [1, 2], "split_score": 0.729142365991493}
+{"sent": "most visible bread", "ann_id": 311221, "best_split": [1, 2], "split_score": 0.729142365991493}
+{"sent": "food only partially shown", "ann_id": 310883, "best_split": [1, 3], "split_score": 0.7109440266963792}
+{"sent": "bread cut off by the side of image", "ann_id": 310883, "best_split": [1, 5], "split_score": 0.4509803921317413}

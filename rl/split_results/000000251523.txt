@@ -1,0 +1,6 @@
+{"sent": "legs with striped short pants", "ann_id": 464751, "best_split": [1, 2], "split_score": 0.5714996888434505}
+{"sent": "leg", "ann_id": 464751, "best_split": [1, 2], "split_score": 0.5714996888434505}
+{"sent": "legs", "ann_id": 464751, "best_split": [1, 2], "split_score": 0.5714996888434505}
+{"sent": "hand holding the doughnut", "ann_id": 421386, "best_split": [2, 1], "split_score": 0.47353316324643124}
+{"sent": "hand on donut", "ann_id": 421386, "best_split": [2, 1], "split_score": 0.47353316324643124}
+{"sent": "the hand holding the donut", "ann_id": 421386, "best_split": [2, 1], "split_score": 0.47353316324643124}

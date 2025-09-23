@@ -1,0 +1,8 @@
+{"sent": "man number 4", "ann_id": 1295391, "best_split": [5, 1], "split_score": 0.1757656457909649}
+{"sent": "guy number 4 from you", "ann_id": 1295391, "best_split": [1, 5], "split_score": 0.2330249607057929}
+{"sent": "person next to one with police on helmet", "ann_id": 1246558, "best_split": [2, 2], "split_score": 0.279992513551688}
+{"sent": "man after man with police on his helmet", "ann_id": 1246558, "best_split": [1, 2], "split_score": 0.2248443983319189}
+{"sent": "man with glasses", "ann_id": 1246558, "best_split": [2, 2], "split_score": 0.279992513551688}
+{"sent": "closet man on motocycle", "ann_id": 1235268, "best_split": [2, 1], "split_score": 0.36613549027581394}
+{"sent": "the cops belt", "ann_id": 1235268, "best_split": [1, 2], "split_score": 0.8309443203619195}
+{"sent": "closest man", "ann_id": 1235268, "best_split": [2, 1], "split_score": 0.36613549027581394}

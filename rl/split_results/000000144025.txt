@@ -1,0 +1,5 @@
+{"sent": "crouched man", "ann_id": 509182, "best_split": [2, 1], "split_score": 0.1795023696616002}
+{"sent": "kid skiing", "ann_id": 509182, "best_split": [1, 5], "split_score": 0.43955663314517174}
+{"sent": "crouching", "ann_id": 509182, "best_split": [2, 1], "split_score": 0.1795023696616002}
+{"sent": "person on east side", "ann_id": 477818, "best_split": [1, 5], "split_score": 0.5046697798111516}
+{"sent": "one pole", "ann_id": 477818, "best_split": [3, 2], "split_score": 0.22171140440295778}

@@ -1,0 +1,5 @@
+{"sent": "taller", "ann_id": 595837, "best_split": [1, 3], "split_score": 0.5282588493483037}
+{"sent": "the taller giraffe by a hair", "ann_id": 595837, "best_split": [1, 3], "split_score": 0.5282588493483037}
+{"sent": "shortest", "ann_id": 595083, "best_split": [1, 2], "split_score": 0.7075494259922055}
+{"sent": "shorter giraffe", "ann_id": 595083, "best_split": [1, 2], "split_score": 0.7075494259922055}
+{"sent": "giraffe not centered", "ann_id": 595083, "best_split": [1, 2], "split_score": 0.7075494259922055}

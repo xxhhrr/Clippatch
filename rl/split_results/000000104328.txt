@@ -1,0 +1,5 @@
+{"sent": "just a head on edge of border", "ann_id": 1330607, "best_split": [5, 1], "split_score": 0.19467112376416565}
+{"sent": "head corner", "ann_id": 1330607, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "womans head in corner", "ann_id": 1330607, "best_split": [1, 5], "split_score": 0.22650651052523402}
+{"sent": "person with glasses on head", "ann_id": 1710705, "best_split": [1, 2], "split_score": 0.07467784505221713}
+{"sent": "person in the crowd glasses on head", "ann_id": 1710705, "best_split": [1, 2], "split_score": 0.07467784505221713}

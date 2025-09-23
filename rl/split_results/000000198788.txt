@@ -1,0 +1,6 @@
+{"sent": "a woman in a white dress", "ann_id": 470967, "best_split": [1, 2], "split_score": 0.6329320790564041}
+{"sent": "girl", "ann_id": 470967, "best_split": [1, 3], "split_score": 0.44856058913418606}
+{"sent": "bride", "ann_id": 470967, "best_split": [1, 2], "split_score": 0.6329320790564041}
+{"sent": "groom", "ann_id": 445262, "best_split": [1, 2], "split_score": 0.27188272694200344}
+{"sent": "groom", "ann_id": 445262, "best_split": [1, 2], "split_score": 0.27188272694200344}
+{"sent": "man", "ann_id": 445262, "best_split": [1, 3], "split_score": 0.5421504290458158}

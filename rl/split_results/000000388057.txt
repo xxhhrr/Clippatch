@@ -1,0 +1,4 @@
+{"sent": "seat at 5 o clock", "ann_id": 1940551, "best_split": [2, 3], "split_score": 0.6331450911562614}
+{"sent": "seat in corner on yellow sign side of bus", "ann_id": 1940551, "best_split": [1, 2], "split_score": 0.269052933662745}
+{"sent": "area above the small print", "ann_id": 1930995, "best_split": [2, 3], "split_score": 0.7360038609150574}
+{"sent": "seat in corner with writing", "ann_id": 1930995, "best_split": [2, 3], "split_score": 0.7360038609150574}

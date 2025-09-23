@@ -1,0 +1,7 @@
+{"sent": "the horse looking at the fence", "ann_id": 54340, "best_split": [5, 1], "split_score": 0.24589086125526866}
+{"sent": "horse eating by the fence", "ann_id": 54340, "best_split": [5, 1], "split_score": 0.24589086125526866}
+{"sent": "smelling horse", "ann_id": 54340, "best_split": [5, 1], "split_score": 0.24589086125526866}
+{"sent": "head down", "ann_id": 54340, "best_split": [2, 3], "split_score": 0.6246712884742205}
+{"sent": "horse looking straight", "ann_id": 53836, "best_split": [1, 5], "split_score": 0.38707386359709073}
+{"sent": "donkey with head up", "ann_id": 53836, "best_split": [1, 5], "split_score": 0.38707386359709073}
+{"sent": "horse facing camer", "ann_id": 53836, "best_split": [1, 5], "split_score": 0.38707386359709073}

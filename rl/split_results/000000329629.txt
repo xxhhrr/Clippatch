@@ -1,0 +1,6 @@
+{"sent": "sheep eating", "ann_id": 64436, "best_split": [2, 3], "split_score": 0.4189794090847158}
+{"sent": "sheep having lunch", "ann_id": 64436, "best_split": [2, 3], "split_score": 0.4189794090847158}
+{"sent": "sheep with head down", "ann_id": 64436, "best_split": [2, 3], "split_score": 0.4189794090847158}
+{"sent": "sheep with missing wol", "ann_id": 63653, "best_split": [5, 1], "split_score": 0.4304944808013556}
+{"sent": "profile sheep", "ann_id": 63653, "best_split": [5, 1], "split_score": 0.4304944808013556}
+{"sent": "sheep with spots on side", "ann_id": 63653, "best_split": [5, 1], "split_score": 0.4304944808013556}

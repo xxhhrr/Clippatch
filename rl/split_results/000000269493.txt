@@ -1,0 +1,6 @@
+{"sent": "woman blue", "ann_id": 465349, "best_split": [1, 5], "split_score": 0.5176470587889274}
+{"sent": "lady in blue dress", "ann_id": 465349, "best_split": [1, 5], "split_score": 0.5176470587889274}
+{"sent": "blue dress", "ann_id": 465349, "best_split": [1, 5], "split_score": 0.5176470587889274}
+{"sent": "flower lady near sink", "ann_id": 461775, "best_split": [3, 2], "split_score": 0.4864864864277888}
+{"sent": "flower dress", "ann_id": 461775, "best_split": [2, 2], "split_score": 0.32142857140294734}
+{"sent": "girl in floral that we cant really see", "ann_id": 461775, "best_split": [3, 2], "split_score": 0.4864864864277888}

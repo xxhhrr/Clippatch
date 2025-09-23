@@ -1,0 +1,6 @@
+{"sent": "head of small horse", "ann_id": 2231884, "best_split": [2, 1], "split_score": 0.45867768593349034}
+{"sent": "horse head furthest along", "ann_id": 2231884, "best_split": [2, 3], "split_score": 0.5656245695795603}
+{"sent": "horse behind the other one", "ann_id": 2231884, "best_split": [2, 3], "split_score": 0.5656245695795603}
+{"sent": "horse most visable", "ann_id": 57123, "best_split": [1, 2], "split_score": 0.5844747383194058}
+{"sent": "light horse near camera", "ann_id": 57123, "best_split": [1, 2], "split_score": 0.5844747383194058}
+{"sent": "closest horse", "ann_id": 57123, "best_split": [1, 2], "split_score": 0.5844747383194058}

@@ -1,0 +1,6 @@
+{"sent": "green stuff not broccoli green stuff with holes", "ann_id": 1914929, "best_split": [2, 3], "split_score": 0.6756309473856401}
+{"sent": "under squash", "ann_id": 1914929, "best_split": [1, 2], "split_score": 0.31536989794661313}
+{"sent": "broccoli next to carrots", "ann_id": 1055626, "best_split": [3, 2], "split_score": 0.32951741830361025}
+{"sent": "brocolli", "ann_id": 1055626, "best_split": [3, 2], "split_score": 0.32951741830361025}
+{"sent": "brocolli", "ann_id": 1055626, "best_split": [3, 2], "split_score": 0.32951741830361025}
+{"sent": "broccli touching carrots", "ann_id": 1055626, "best_split": [3, 2], "split_score": 0.32951741830361025}

@@ -1,0 +1,6 @@
+{"sent": "guy under umbrella", "ann_id": 218193, "best_split": [1, 5], "split_score": 0.28542847613492595}
+{"sent": "a man in all white sitting down", "ann_id": 218193, "best_split": [3, 2], "split_score": 0.3846461415049334}
+{"sent": "guy all white", "ann_id": 218193, "best_split": [3, 2], "split_score": 0.3846461415049334}
+{"sent": "black jacket", "ann_id": 191306, "best_split": [3, 3], "split_score": 0.5040363268789055}
+{"sent": "woman with a blanket over her legs", "ann_id": 191306, "best_split": [3, 3], "split_score": 0.5040363268789055}
+{"sent": "person with no umbrella", "ann_id": 191306, "best_split": [1, 5], "split_score": 0.3199481865025949}

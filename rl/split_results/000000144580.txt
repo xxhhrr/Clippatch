@@ -1,0 +1,6 @@
+{"sent": "woman in green", "ann_id": 198430, "best_split": [1, 3], "split_score": 0.3029681466998692}
+{"sent": "girl", "ann_id": 198430, "best_split": [1, 3], "split_score": 0.3029681466998692}
+{"sent": "girl in green", "ann_id": 198430, "best_split": [1, 3], "split_score": 0.3029681466998692}
+{"sent": "star", "ann_id": 185845, "best_split": [1, 5], "split_score": 0.5384164222422776}
+{"sent": "man with umbrella", "ann_id": 185845, "best_split": [1, 5], "split_score": 0.5384164222422776}
+{"sent": "man", "ann_id": 185845, "best_split": [1, 5], "split_score": 0.5384164222422776}

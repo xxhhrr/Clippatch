@@ -1,0 +1,6 @@
+{"sent": "any of the hidden zebras", "ann_id": 591861, "best_split": [2, 3], "split_score": 0.5092672244850811}
+{"sent": "zebra away from group", "ann_id": 591861, "best_split": [2, 3], "split_score": 0.5092672244850811}
+{"sent": "herd", "ann_id": 591861, "best_split": [2, 3], "split_score": 0.5092672244850811}
+{"sent": "zebra facing opposite than the rest", "ann_id": 589373, "best_split": [2, 2], "split_score": 0.5491071428133684}
+{"sent": "zebra fully sideways", "ann_id": 589373, "best_split": [2, 2], "split_score": 0.5491071428133684}
+{"sent": "zebra turning toward side of image", "ann_id": 589373, "best_split": [2, 2], "split_score": 0.5491071428133684}

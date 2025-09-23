@@ -1,0 +1,5 @@
+{"sent": "the keyboard with f keys visible", "ann_id": 1975502, "best_split": [1, 2], "split_score": 0.6136910904561971}
+{"sent": "keyboard with less than half the space bar visible", "ann_id": 1975502, "best_split": [1, 2], "split_score": 0.6136910904561971}
+{"sent": "keyboard closer", "ann_id": 1975502, "best_split": [1, 2], "split_score": 0.6136910904561971}
+{"sent": "keyboard above the other", "ann_id": 1115183, "best_split": [2, 1], "split_score": 0.4259591251249113}
+{"sent": "keyboard with most visible space bar", "ann_id": 1115183, "best_split": [2, 1], "split_score": 0.4259591251249113}

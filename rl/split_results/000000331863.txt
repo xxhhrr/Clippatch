@@ -1,0 +1,9 @@
+{"sent": "man in blue", "ann_id": 235551, "best_split": [1, 5], "split_score": 0.3207654722865826}
+{"sent": "man in light blue smiling", "ann_id": 235551, "best_split": [3, 3], "split_score": 0.4815417343909971}
+{"sent": "blue man", "ann_id": 235551, "best_split": [1, 5], "split_score": 0.3207654722865826}
+{"sent": "the man with the yellow shirt", "ann_id": 211100, "best_split": [1, 5], "split_score": 0.2862190812526353}
+{"sent": "man in yellow", "ann_id": 211100, "best_split": [1, 5], "split_score": 0.2862190812526353}
+{"sent": "man shoulder length hair next to blond girl", "ann_id": 211100, "best_split": [3, 3], "split_score": 0.43245372189518966}
+{"sent": "woman by dog", "ann_id": 183136, "best_split": [2, 2], "split_score": 0.5919649283130298}
+{"sent": "nearest woman", "ann_id": 183136, "best_split": [3, 2], "split_score": 0.3991775283753274}
+{"sent": "girl closest smiling", "ann_id": 183136, "best_split": [2, 2], "split_score": 0.5919649283130298}

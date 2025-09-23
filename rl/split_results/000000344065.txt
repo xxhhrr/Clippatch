@@ -1,0 +1,5 @@
+{"sent": "cleanest green bananas hanging large bunch", "ann_id": 1545704, "best_split": [3, 3], "split_score": 0.6196939069275637}
+{"sent": "hanging banana bunch avove red circle white stripes", "ann_id": 1545704, "best_split": [3, 1], "split_score": 0.2381005214557805}
+{"sent": "the longest bunch of hanging bananas", "ann_id": 1543023, "best_split": [1, 5], "split_score": 0.462524570509997}
+{"sent": "bananas above bananas", "ann_id": 1543023, "best_split": [1, 5], "split_score": 0.462524570509997}
+{"sent": "bananas hanging over man wiht moustache", "ann_id": 1543023, "best_split": [1, 5], "split_score": 0.462524570509997}

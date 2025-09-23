@@ -1,0 +1,6 @@
+{"sent": "man standing looking down", "ann_id": 220425, "best_split": [1, 3], "split_score": 0.6059362933997384}
+{"sent": "standing guy", "ann_id": 220425, "best_split": [1, 3], "split_score": 0.6059362933997384}
+{"sent": "man standing", "ann_id": 220425, "best_split": [1, 3], "split_score": 0.6059362933997384}
+{"sent": "man squatting", "ann_id": 204236, "best_split": [2, 3], "split_score": 0.4300714923558901}
+{"sent": "person fixing bike", "ann_id": 204236, "best_split": [5, 1], "split_score": 0.22967653600636004}
+{"sent": "bent over man", "ann_id": 204236, "best_split": [2, 3], "split_score": 0.4300714923558901}

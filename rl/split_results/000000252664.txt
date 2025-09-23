@@ -1,0 +1,7 @@
+{"sent": "train on further track", "ann_id": 1795523, "best_split": [3, 2], "split_score": 0.40112427219422564}
+{"sent": "train on farther track", "ann_id": 1795523, "best_split": [3, 2], "split_score": 0.40112427219422564}
+{"sent": "partially visible train", "ann_id": 1795523, "best_split": [3, 2], "split_score": 0.40112427219422564}
+{"sent": "the train", "ann_id": 171306, "best_split": [3, 3], "split_score": 0.6018770813500034}
+{"sent": "train going towords us", "ann_id": 171306, "best_split": [3, 3], "split_score": 0.6018770813500034}
+{"sent": "long train", "ann_id": 171306, "best_split": [3, 3], "split_score": 0.6018770813500034}
+{"sent": "train", "ann_id": 171306, "best_split": [3, 3], "split_score": 0.6018770813500034}

@@ -1,0 +1,15 @@
+{"sent": "suitcase with white and blue things in it", "ann_id": 1446001, "best_split": [3, 2], "split_score": 0.6980056979346758}
+{"sent": "open suitcase closest to us", "ann_id": 1446001, "best_split": [3, 2], "split_score": 0.6980056979346758}
+{"sent": "closest suitcase", "ann_id": 1446001, "best_split": [2, 2], "split_score": 0.4870775347566687}
+{"sent": "brown bag wbaby doll", "ann_id": 1184322, "best_split": [3, 2], "split_score": 0.5411951557930121}
+{"sent": "doll in bag", "ann_id": 1184322, "best_split": [3, 2], "split_score": 0.5411951557930121}
+{"sent": "red and white ball", "ann_id": 1184322, "best_split": [2, 2], "split_score": 0.35381877906146875}
+{"sent": "rattan chair closest to doll head", "ann_id": 385365, "best_split": [2, 3], "split_score": 0.6323987538183083}
+{"sent": "wicker basket by doll head", "ann_id": 385365, "best_split": [2, 3], "split_score": 0.6323987538183083}
+{"sent": "luggage with baby doll in it", "ann_id": 2121009, "best_split": [2, 3], "split_score": 0.31259044859286844}
+{"sent": "brown suitcase with stuffed animals flowing out", "ann_id": 2121009, "best_split": [2, 3], "split_score": 0.31259044859286844}
+{"sent": "babydoll", "ann_id": 2121009, "best_split": [3, 3], "split_score": 0.5863286263500757}
+{"sent": "black bag surrounded by stuff", "ann_id": 2081262, "best_split": [5, 1], "split_score": 0.2462338119772501}
+{"sent": "gray closed bag", "ann_id": 2081262, "best_split": [3, 3], "split_score": 0.5538583929110805}
+{"sent": "black abg with red circle", "ann_id": 2081192, "best_split": [1, 2], "split_score": 0.21484374999143638}
+{"sent": "luggage at 2 o clock", "ann_id": 2081192, "best_split": [3, 2], "split_score": 0.6503378377593704}

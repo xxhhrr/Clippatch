@@ -1,0 +1,6 @@
+{"sent": "skateboarder with skateboard down on floor", "ann_id": 467840, "best_split": [3, 2], "split_score": 0.15875207066822528}
+{"sent": "person with both legs straight", "ann_id": 467840, "best_split": [1, 5], "split_score": 0.6617780191325567}
+{"sent": "person skating flat", "ann_id": 467840, "best_split": [3, 2], "split_score": 0.15875207066822528}
+{"sent": "girl with skateboard up", "ann_id": 447105, "best_split": [1, 2], "split_score": 0.41434151784062734}
+{"sent": "person at 3", "ann_id": 447105, "best_split": [1, 2], "split_score": 0.41434151784062734}
+{"sent": "person with board lifted", "ann_id": 447105, "best_split": [1, 2], "split_score": 0.41434151784062734}

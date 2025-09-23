@@ -1,0 +1,6 @@
+{"sent": "ump", "ann_id": 521360, "best_split": [3, 1], "split_score": 0.25807558171299094}
+{"sent": "man in polo", "ann_id": 521360, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "black shirt", "ann_id": 521360, "best_split": [3, 3], "split_score": 0.706305742339805}
+{"sent": "12", "ann_id": 479103, "best_split": [1, 3], "split_score": 0.49675119311731636}
+{"sent": "batter", "ann_id": 479103, "best_split": [1, 3], "split_score": 0.49675119311731636}
+{"sent": "the batter", "ann_id": 479103, "best_split": [1, 3], "split_score": 0.49675119311731636}

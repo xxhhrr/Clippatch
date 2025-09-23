@@ -1,0 +1,6 @@
+{"sent": "man in gray not black", "ann_id": 501413, "best_split": [1, 2], "split_score": 0.6064652423227652}
+{"sent": "gray suit", "ann_id": 501413, "best_split": [1, 3], "split_score": 0.605768259389546}
+{"sent": "gray suit older guy", "ann_id": 501413, "best_split": [1, 2], "split_score": 0.6064652423227652}
+{"sent": "darker suit", "ann_id": 462146, "best_split": [1, 2], "split_score": 0.5071458304250331}
+{"sent": "guy with head down", "ann_id": 462146, "best_split": [1, 2], "split_score": 0.5071458304250331}
+{"sent": "man in black suit", "ann_id": 462146, "best_split": [1, 2], "split_score": 0.5071458304250331}

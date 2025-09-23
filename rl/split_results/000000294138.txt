@@ -1,0 +1,6 @@
+{"sent": "partial elephant", "ann_id": 2175162, "best_split": [2, 1], "split_score": 0.1724373887993555}
+{"sent": "leg of big elephant", "ann_id": 2175162, "best_split": [2, 1], "split_score": 0.1724373887993555}
+{"sent": "elephant tail", "ann_id": 2175162, "best_split": [3, 1], "split_score": 0.14848836171637883}
+{"sent": "baby elephant", "ann_id": 580830, "best_split": [3, 2], "split_score": 0.4494310190225399}
+{"sent": "aww a baby", "ann_id": 580830, "best_split": [1, 2], "split_score": 0.3873189933787671}
+{"sent": "main elephant", "ann_id": 580830, "best_split": [3, 2], "split_score": 0.4494310190225399}

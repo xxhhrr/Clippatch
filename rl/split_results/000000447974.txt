@@ -1,0 +1,6 @@
+{"sent": "walk light", "ann_id": 408916, "best_split": [3, 3], "split_score": 0.5162232315840001}
+{"sent": "traffic light with walk sign", "ann_id": 408916, "best_split": [3, 3], "split_score": 0.5162232315840001}
+{"sent": "street light with walk", "ann_id": 408916, "best_split": [3, 3], "split_score": 0.5162232315840001}
+{"sent": "stop light below the sign se hawthorne blvd", "ann_id": 408542, "best_split": [1, 5], "split_score": 0.4127260419289502}
+{"sent": "red light glowing", "ann_id": 408542, "best_split": [3, 2], "split_score": 0.38513011148325754}
+{"sent": "red light", "ann_id": 408542, "best_split": [3, 2], "split_score": 0.38513011148325754}

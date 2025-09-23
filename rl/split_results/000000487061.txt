@@ -1,0 +1,9 @@
+{"sent": "man", "ann_id": 531728, "best_split": [1, 2], "split_score": 0.6855867346665503}
+{"sent": "dad", "ann_id": 531728, "best_split": [1, 2], "split_score": 0.6855867346665503}
+{"sent": "man smiling", "ann_id": 531728, "best_split": [1, 2], "split_score": 0.6855867346665503}
+{"sent": "child", "ann_id": 502089, "best_split": [3, 3], "split_score": 0.5539104684630011}
+{"sent": "kid", "ann_id": 502089, "best_split": [3, 3], "split_score": 0.5539104684630011}
+{"sent": "little girl", "ann_id": 502089, "best_split": [3, 3], "split_score": 0.5539104684630011}
+{"sent": "woman white shirt", "ann_id": 2160397, "best_split": [1, 5], "split_score": 0.6667937475536796}
+{"sent": "white shirt woman", "ann_id": 2160397, "best_split": [1, 5], "split_score": 0.6667937475536796}
+{"sent": "white shirt", "ann_id": 2160397, "best_split": [2, 1], "split_score": 0.19660620245038743}

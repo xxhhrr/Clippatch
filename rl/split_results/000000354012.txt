@@ -1,0 +1,6 @@
+{"sent": "the child in glasses", "ann_id": 1201677, "best_split": [3, 3], "split_score": 0.4637155296691372}
+{"sent": "half head", "ann_id": 1201677, "best_split": [3, 3], "split_score": 0.4637155296691372}
+{"sent": "head only in a corner", "ann_id": 1201677, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "woman", "ann_id": 184959, "best_split": [1, 3], "split_score": 0.48035531258625064}
+{"sent": "her", "ann_id": 184959, "best_split": [1, 3], "split_score": 0.48035531258625064}
+{"sent": "lady", "ann_id": 184959, "best_split": [1, 3], "split_score": 0.48035531258625064}

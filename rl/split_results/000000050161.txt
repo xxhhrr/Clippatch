@@ -1,0 +1,9 @@
+{"sent": "man in tan pants", "ann_id": 475209, "best_split": [1, 5], "split_score": 0.5706811354935877}
+{"sent": "the main in jeans", "ann_id": 475209, "best_split": [1, 5], "split_score": 0.5706811354935877}
+{"sent": "guy with glass", "ann_id": 475209, "best_split": [3, 2], "split_score": 0.2613489533757129}
+{"sent": "gray coat", "ann_id": 1716335, "best_split": [1, 2], "split_score": 0.3425940688638953}
+{"sent": "man off to the side of the screen cant see face", "ann_id": 1716335, "best_split": [1, 3], "split_score": 0.5185207528644715}
+{"sent": "man whose arm is only visible", "ann_id": 1716335, "best_split": [1, 2], "split_score": 0.3425940688638953}
+{"sent": "man in long coat", "ann_id": 451554, "best_split": [1, 5], "split_score": 0.6858710561742238}
+{"sent": "man with tie", "ann_id": 451554, "best_split": [1, 5], "split_score": 0.6858710561742238}
+{"sent": "man with hat", "ann_id": 451554, "best_split": [1, 5], "split_score": 0.6858710561742238}

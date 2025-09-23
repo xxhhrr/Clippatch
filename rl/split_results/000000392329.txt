@@ -1,0 +1,9 @@
+{"sent": "man black shirt in black chair", "ann_id": 514100, "best_split": [3, 1], "split_score": 0.26895119417486457}
+{"sent": "man in black and blue jeans", "ann_id": 514100, "best_split": [1, 2], "split_score": 0.7031249999719736}
+{"sent": "person with back to us", "ann_id": 514100, "best_split": [2, 1], "split_score": 0.3093093092998312}
+{"sent": "white shirt with zig zags", "ann_id": 2157845, "best_split": [1, 5], "split_score": 0.47676542202954897}
+{"sent": "crazy shirt of obscured person", "ann_id": 2157845, "best_split": [3, 1], "split_score": 0.1230468749935047}
+{"sent": "fabric behind the man in black shirt", "ann_id": 2157845, "best_split": [1, 5], "split_score": 0.47676542202954897}
+{"sent": "girl on phone", "ann_id": 1220118, "best_split": [1, 2], "split_score": 0.7636320152756843}
+{"sent": "man closest to us with glasses", "ann_id": 1220118, "best_split": [1, 2], "split_score": 0.7636320152756843}
+{"sent": "hes holding a camera", "ann_id": 1220118, "best_split": [1, 2], "split_score": 0.7636320152756843}

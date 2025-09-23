@@ -1,0 +1,6 @@
+{"sent": "man selling goods", "ann_id": 437931, "best_split": [3, 1], "split_score": 0.14599834494940309}
+{"sent": "guy working in food stand", "ann_id": 437931, "best_split": [3, 1], "split_score": 0.14599834494940309}
+{"sent": "man inside store", "ann_id": 437931, "best_split": [3, 2], "split_score": 0.28621089220322005}
+{"sent": "person in red", "ann_id": 432198, "best_split": [1, 2], "split_score": 0.4938251230713803}
+{"sent": "red jacket", "ann_id": 432198, "best_split": [1, 2], "split_score": 0.4938251230713803}
+{"sent": "girl", "ann_id": 432198, "best_split": [1, 2], "split_score": 0.4938251230713803}

@@ -1,0 +1,6 @@
+{"sent": "clock with no full visibility", "ann_id": 341257, "best_split": [1, 5], "split_score": 0.26829268290126784}
+{"sent": "clock looking away from us", "ann_id": 341257, "best_split": [1, 5], "split_score": 0.26829268290126784}
+{"sent": "smaller clock", "ann_id": 341257, "best_split": [1, 5], "split_score": 0.26829268290126784}
+{"sent": "clock face that is fully shown", "ann_id": 341210, "best_split": [3, 2], "split_score": 0.3163621432645902}
+{"sent": "0347", "ann_id": 341210, "best_split": [3, 2], "split_score": 0.3163621432645902}
+{"sent": "clock where you can see the 4", "ann_id": 341210, "best_split": [3, 2], "split_score": 0.3163621432645902}

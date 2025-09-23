@@ -1,0 +1,11 @@
+{"sent": "chair below buddha", "ann_id": 1936821, "best_split": [2, 3], "split_score": 0.27509652506333293}
+{"sent": "chair that is furthest from the people", "ann_id": 1936821, "best_split": [2, 3], "split_score": 0.27509652506333293}
+{"sent": "chair near wall close to us", "ann_id": 1936821, "best_split": [2, 3], "split_score": 0.27509652506333293}
+{"sent": "light colored shirt", "ann_id": 196645, "best_split": [3, 1], "split_score": 0.13272842371108207}
+{"sent": "the guy with glasses in the gray sweat shirt", "ann_id": 196645, "best_split": [2, 3], "split_score": 0.36170212762221626}
+{"sent": "gray black striped shirt", "ann_id": 191013, "best_split": [2, 2], "split_score": 0.3336619718074886}
+{"sent": "striped shirt", "ann_id": 191013, "best_split": [2, 2], "split_score": 0.3336619718074886}
+{"sent": "striped shirt", "ann_id": 191013, "best_split": [2, 2], "split_score": 0.3336619718074886}
+{"sent": "the chair at the table nearest to the cup", "ann_id": 110504, "best_split": [3, 3], "split_score": 0.47162992402030535}
+{"sent": "chair next to cup", "ann_id": 110504, "best_split": [3, 3], "split_score": 0.47162992402030535}
+{"sent": "wicker chair by cup", "ann_id": 110504, "best_split": [3, 3], "split_score": 0.47162992402030535}

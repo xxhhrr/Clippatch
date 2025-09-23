@@ -1,0 +1,6 @@
+{"sent": "only head", "ann_id": 1411948, "best_split": [2, 2], "split_score": 0.4523552123202814}
+{"sent": "just head zebra", "ann_id": 1411948, "best_split": [1, 5], "split_score": 0.41801548201811967}
+{"sent": "zebra looking at you", "ann_id": 1411948, "best_split": [1, 5], "split_score": 0.41801548201811967}
+{"sent": "zebra full", "ann_id": 590369, "best_split": [2, 1], "split_score": 0.5693689928810758}
+{"sent": "shorter", "ann_id": 590369, "best_split": [1, 2], "split_score": 0.48409405254682636}
+{"sent": "zebra you can most of", "ann_id": 590369, "best_split": [2, 1], "split_score": 0.5693689928810758}

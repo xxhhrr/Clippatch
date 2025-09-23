@@ -1,0 +1,6 @@
+{"sent": "girl", "ann_id": 505697, "best_split": [1, 3], "split_score": 0.5119236016091719}
+{"sent": "woman", "ann_id": 505697, "best_split": [1, 3], "split_score": 0.5119236016091719}
+{"sent": "flowery dress", "ann_id": 505697, "best_split": [1, 3], "split_score": 0.5119236016091719}
+{"sent": "the man in black", "ann_id": 492306, "best_split": [1, 5], "split_score": 0.6557377048569544}
+{"sent": "man", "ann_id": 492306, "best_split": [1, 5], "split_score": 0.6557377048569544}
+{"sent": "guy", "ann_id": 492306, "best_split": [1, 5], "split_score": 0.6557377048569544}

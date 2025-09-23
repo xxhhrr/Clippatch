@@ -1,0 +1,9 @@
+{"sent": "raised arm", "ann_id": 516989, "best_split": [5, 1], "split_score": 0.09914369814696657}
+{"sent": "arms up", "ann_id": 516989, "best_split": [1, 3], "split_score": 0.3680416026256919}
+{"sent": "hand up", "ann_id": 516989, "best_split": [1, 3], "split_score": 0.3680416026256919}
+{"sent": "man with beard in striped shirt", "ann_id": 510730, "best_split": [1, 3], "split_score": 0.8570225310140543}
+{"sent": "taller", "ann_id": 510730, "best_split": [1, 3], "split_score": 0.8570225310140543}
+{"sent": "striped shirt", "ann_id": 510730, "best_split": [1, 3], "split_score": 0.8570225310140543}
+{"sent": "jeans girl", "ann_id": 496930, "best_split": [2, 2], "split_score": 0.28388746801253917}
+{"sent": "woman blue jeans", "ann_id": 496930, "best_split": [2, 2], "split_score": 0.28388746801253917}
+{"sent": "woman in jeans", "ann_id": 496930, "best_split": [2, 2], "split_score": 0.28388746801253917}

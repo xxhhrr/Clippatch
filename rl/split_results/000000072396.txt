@@ -1,0 +1,6 @@
+{"sent": "blond", "ann_id": 499781, "best_split": [1, 5], "split_score": 0.6816212572752843}
+{"sent": "woman with blond hair", "ann_id": 499781, "best_split": [1, 5], "split_score": 0.6816212572752843}
+{"sent": "lady in gray", "ann_id": 499781, "best_split": [1, 5], "split_score": 0.6816212572752843}
+{"sent": "blue shirt giving presentation", "ann_id": 497255, "best_split": [3, 3], "split_score": 0.3505291004775824}
+{"sent": "blue shirt", "ann_id": 497255, "best_split": [3, 3], "split_score": 0.3505291004775824}
+{"sent": "girl with black hair", "ann_id": 497255, "best_split": [1, 5], "split_score": 0.22023381292983507}

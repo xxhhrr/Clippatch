@@ -1,0 +1,6 @@
+{"sent": "person on bike", "ann_id": 200903, "best_split": [3, 3], "split_score": 0.2990686443257366}
+{"sent": "green biker", "ann_id": 200903, "best_split": [2, 3], "split_score": 0.3322632423442297}
+{"sent": "bike rider", "ann_id": 200903, "best_split": [3, 3], "split_score": 0.2990686443257366}
+{"sent": "lady on phone", "ann_id": 198934, "best_split": [3, 2], "split_score": 0.5962399283128648}
+{"sent": "on phone", "ann_id": 198934, "best_split": [3, 2], "split_score": 0.5962399283128648}
+{"sent": "woman with cellphone", "ann_id": 198934, "best_split": [3, 2], "split_score": 0.5962399283128648}

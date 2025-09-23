@@ -1,0 +1,4 @@
+{"sent": "wooden table", "ann_id": 1960289, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "brown table next to sofa", "ann_id": 1960289, "best_split": [2, 3], "split_score": 0.5168918918295256}
+{"sent": "light tan table partially shown", "ann_id": 1620522, "best_split": [3, 2], "split_score": 0.41282756965264716}
+{"sent": "kitchen table", "ann_id": 1620522, "best_split": [5, 1], "split_score": 0.29364542022500767}

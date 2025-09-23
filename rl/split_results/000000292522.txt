@@ -1,0 +1,6 @@
+{"sent": "slouching man", "ann_id": 565613, "best_split": [1, 2], "split_score": 0.2673788265199546}
+{"sent": "tan pants closer", "ann_id": 565613, "best_split": [1, 2], "split_score": 0.2673788265199546}
+{"sent": "man sitting older", "ann_id": 565613, "best_split": [2, 3], "split_score": 0.7372567190990202}
+{"sent": "the guy holding the tennis racket", "ann_id": 467646, "best_split": [3, 1], "split_score": 0.2576835730409658}
+{"sent": "man holding racket", "ann_id": 467646, "best_split": [3, 1], "split_score": 0.2576835730409658}
+{"sent": "player", "ann_id": 467646, "best_split": [1, 3], "split_score": 0.6306620208749736}

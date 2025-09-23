@@ -1,0 +1,4 @@
+{"sent": "white van", "ann_id": 360350, "best_split": [3, 3], "split_score": 0.6799712848987837}
+{"sent": "silver car", "ann_id": 360350, "best_split": [3, 3], "split_score": 0.6799712848987837}
+{"sent": "van", "ann_id": 360350, "best_split": [3, 3], "split_score": 0.6799712848987837}
+{"sent": "blurry rear wheel", "ann_id": 350874, "best_split": [5, 1], "split_score": 0.28022670022983104}

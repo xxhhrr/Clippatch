@@ -1,0 +1,5 @@
+{"sent": "wine bottle with 10", "ann_id": 1867158, "best_split": [1, 5], "split_score": 0.507305194753723}
+{"sent": "tayors 10", "ann_id": 1867158, "best_split": [1, 5], "split_score": 0.507305194753723}
+{"sent": "green wine bottle", "ann_id": 78618, "best_split": [1, 5], "split_score": 0.47909722878972505}
+{"sent": "bottle closest to vase", "ann_id": 78618, "best_split": [1, 5], "split_score": 0.47909722878972505}
+{"sent": "wine bottle", "ann_id": 78618, "best_split": [3, 2], "split_score": 0.3040717220485551}

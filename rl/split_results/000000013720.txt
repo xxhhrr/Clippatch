@@ -1,0 +1,12 @@
+{"sent": "glass full of blueberries and white stuff milk maybe", "ann_id": 1866059, "best_split": [3, 3], "split_score": 0.534755677815768}
+{"sent": "jar with white stuff and blue dots", "ann_id": 1866059, "best_split": [3, 3], "split_score": 0.534755677815768}
+{"sent": "class with grapes", "ann_id": 1866059, "best_split": [3, 3], "split_score": 0.534755677815768}
+{"sent": "tea bag cup", "ann_id": 681312, "best_split": [2, 3], "split_score": 0.304894112847817}
+{"sent": "sorry i cant think ok the tea with the teabag", "ann_id": 681312, "best_split": [3, 3], "split_score": 0.5139118663687905}
+{"sent": "glass jar with tea next to milk", "ann_id": 681312, "best_split": [3, 2], "split_score": 0.36116689563881543}
+{"sent": "jar with berries in it", "ann_id": 678411, "best_split": [3, 3], "split_score": 0.554495912712109}
+{"sent": "black stuff in jar", "ann_id": 678411, "best_split": [3, 3], "split_score": 0.554495912712109}
+{"sent": "jar with blueberries and white stuff", "ann_id": 678411, "best_split": [3, 3], "split_score": 0.554495912712109}
+{"sent": "green bottle", "ann_id": 79063, "best_split": [1, 5], "split_score": 0.3250311332213991}
+{"sent": "milk", "ann_id": 79063, "best_split": [1, 5], "split_score": 0.3250311332213991}
+{"sent": "moo", "ann_id": 79063, "best_split": [1, 5], "split_score": 0.3250311332213991}

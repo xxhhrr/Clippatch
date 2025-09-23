@@ -1,0 +1,6 @@
+{"sent": "man with glasses", "ann_id": 495726, "best_split": [3, 2], "split_score": 0.41179401989935266}
+{"sent": "standing suit glasses", "ann_id": 495726, "best_split": [3, 3], "split_score": 0.4337982615288257}
+{"sent": "man wearing glasses", "ann_id": 495726, "best_split": [3, 2], "split_score": 0.41179401989935266}
+{"sent": "man with no glasses standing", "ann_id": 455433, "best_split": [1, 3], "split_score": 0.2907816044395349}
+{"sent": "dark hair guy", "ann_id": 455433, "best_split": [3, 2], "split_score": 0.36074098144615363}
+{"sent": "young man", "ann_id": 455433, "best_split": [3, 2], "split_score": 0.36074098144615363}

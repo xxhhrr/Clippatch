@@ -1,0 +1,6 @@
+{"sent": "smaller screen", "ann_id": 34886, "best_split": [3, 1], "split_score": 0.27849823160068476}
+{"sent": "solo screen", "ann_id": 34886, "best_split": [1, 3], "split_score": 0.4765395894178603}
+{"sent": "monitor with chair on it", "ann_id": 34886, "best_split": [1, 2], "split_score": 0.46316964283868106}
+{"sent": "apple screen", "ann_id": 28552, "best_split": [1, 2], "split_score": 0.5329920146512439}
+{"sent": "apple monitor", "ann_id": 28552, "best_split": [1, 2], "split_score": 0.5329920146512439}
+{"sent": "larger screen", "ann_id": 28552, "best_split": [1, 2], "split_score": 0.5329920146512439}

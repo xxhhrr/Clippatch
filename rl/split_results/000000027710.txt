@@ -1,0 +1,8 @@
+{"sent": "brown big cow", "ann_id": 76477, "best_split": [3, 2], "split_score": 0.36693548382869406}
+{"sent": "only brown cow", "ann_id": 76477, "best_split": [3, 2], "split_score": 0.36693548382869406}
+{"sent": "brown cow closest", "ann_id": 76477, "best_split": [3, 2], "split_score": 0.36693548382869406}
+{"sent": "cow behind the closest cow", "ann_id": 71783, "best_split": [3, 3], "split_score": 0.3042876901415456}
+{"sent": "2 nd white cow from us", "ann_id": 71783, "best_split": [2, 3], "split_score": 0.27023121384679855}
+{"sent": "the animal at the front", "ann_id": 71218, "best_split": [1, 3], "split_score": 0.32624588423872725}
+{"sent": "closest one to us", "ann_id": 71218, "best_split": [2, 3], "split_score": 0.6069982348035512}
+{"sent": "completely white cow lying down", "ann_id": 71218, "best_split": [2, 3], "split_score": 0.6069982348035512}

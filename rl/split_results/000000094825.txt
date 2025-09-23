@@ -1,0 +1,6 @@
+{"sent": "zebra butt", "ann_id": 589761, "best_split": [3, 3], "split_score": 0.385416666623028}
+{"sent": "backwards zebra", "ann_id": 589761, "best_split": [3, 3], "split_score": 0.385416666623028}
+{"sent": "facing away", "ann_id": 589761, "best_split": [3, 3], "split_score": 0.385416666623028}
+{"sent": "zebra close to you", "ann_id": 589309, "best_split": [1, 5], "split_score": 0.4172435493693169}
+{"sent": "zebra face", "ann_id": 589309, "best_split": [1, 5], "split_score": 0.4172435493693169}
+{"sent": "giraffe facing us", "ann_id": 589309, "best_split": [1, 5], "split_score": 0.4172435493693169}

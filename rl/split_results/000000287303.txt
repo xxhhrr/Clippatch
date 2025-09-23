@@ -1,0 +1,5 @@
+{"sent": "car closest to bike tire", "ann_id": 242270, "best_split": [3, 3], "split_score": 0.490138787346578}
+{"sent": "car over frisbee", "ann_id": 242270, "best_split": [3, 3], "split_score": 0.490138787346578}
+{"sent": "dark car", "ann_id": 242270, "best_split": [3, 3], "split_score": 0.490138787346578}
+{"sent": "white car past the trees", "ann_id": 135604, "best_split": [3, 2], "split_score": 0.6399613898841745}
+{"sent": "white farthest car", "ann_id": 135604, "best_split": [3, 2], "split_score": 0.6399613898841745}

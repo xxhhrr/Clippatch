@@ -1,0 +1,6 @@
+{"sent": "plate of food", "ann_id": 1532075, "best_split": [2, 1], "split_score": 0.7269708784961931}
+{"sent": "black plate", "ann_id": 1532075, "best_split": [2, 1], "split_score": 0.7269708784961931}
+{"sent": "bowl of food", "ann_id": 1532075, "best_split": [2, 1], "split_score": 0.7269708784961931}
+{"sent": "plastic lid", "ann_id": 711525, "best_split": [5, 1], "split_score": 0.4604810996203935}
+{"sent": "clear lid", "ann_id": 711525, "best_split": [5, 1], "split_score": 0.4604810996203935}
+{"sent": "empty plate", "ann_id": 711525, "best_split": [2, 2], "split_score": 0.5209785236437933}

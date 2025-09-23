@@ -1,0 +1,6 @@
+{"sent": "chair in corner and cut off", "ann_id": 1581160, "best_split": [5, 1], "split_score": 0.19630337792986402}
+{"sent": "part of chair in corner", "ann_id": 1581160, "best_split": [5, 1], "split_score": 0.19630337792986402}
+{"sent": "black chair closest to you", "ann_id": 1581160, "best_split": [3, 2], "split_score": 0.38790931985271565}
+{"sent": "more chair", "ann_id": 377389, "best_split": [3, 3], "split_score": 0.45679870274996537}
+{"sent": "chair in full view", "ann_id": 377389, "best_split": [3, 3], "split_score": 0.45679870274996537}
+{"sent": "red arm chair", "ann_id": 377389, "best_split": [1, 3], "split_score": 0.23825959626408014}

@@ -1,0 +1,11 @@
+{"sent": "big brownie in pan", "ann_id": 1537435, "best_split": [2, 2], "split_score": 0.7565415244058205}
+{"sent": "1 layer cake in pan", "ann_id": 1537435, "best_split": [2, 2], "split_score": 0.7565415244058205}
+{"sent": "cake in the pan", "ann_id": 1537435, "best_split": [2, 2], "split_score": 0.7565415244058205}
+{"sent": "knife", "ann_id": 1533854, "best_split": [3, 3], "split_score": 0.6662685547404421}
+{"sent": "red plate", "ann_id": 1533854, "best_split": [3, 3], "split_score": 0.6662685547404421}
+{"sent": "red plate with knife", "ann_id": 1533854, "best_split": [3, 3], "split_score": 0.6662685547404421}
+{"sent": "upmost layer of chocolate cake", "ann_id": 1088928, "best_split": [1, 5], "split_score": 0.17414248019467182}
+{"sent": "layers", "ann_id": 1088928, "best_split": [2, 2], "split_score": 0.20758928569773683}
+{"sent": "brown in clear pan", "ann_id": 1087719, "best_split": [3, 2], "split_score": 0.7503445559410962}
+{"sent": "large pan of chocolate cake", "ann_id": 1087719, "best_split": [3, 2], "split_score": 0.7503445559410962}
+{"sent": "cake in rectangular pan", "ann_id": 1087719, "best_split": [3, 2], "split_score": 0.7503445559410962}

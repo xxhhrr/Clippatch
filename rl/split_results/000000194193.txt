@@ -1,0 +1,5 @@
+{"sent": "elephant we see less of", "ann_id": 584160, "best_split": [1, 2], "split_score": 0.6313775509952416}
+{"sent": "one in background", "ann_id": 584160, "best_split": [1, 2], "split_score": 0.6313775509952416}
+{"sent": "elephant closest to camers", "ann_id": 580599, "best_split": [2, 1], "split_score": 0.444283824917901}
+{"sent": "full view elephant head", "ann_id": 580599, "best_split": [1, 2], "split_score": 0.629693898777341}
+{"sent": "elephant on left", "ann_id": 580599, "best_split": [2, 1], "split_score": 0.444283824917901}

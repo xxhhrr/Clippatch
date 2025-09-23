@@ -1,0 +1,6 @@
+{"sent": "girl yellow blouse blue skirt", "ann_id": 2158620, "best_split": [1, 5], "split_score": 0.5824451835868274}
+{"sent": "tllest", "ann_id": 2158620, "best_split": [1, 5], "split_score": 0.5824451835868274}
+{"sent": "ball", "ann_id": 2158620, "best_split": [1, 2], "split_score": 0.5363121811010717}
+{"sent": "pink", "ann_id": 454547, "best_split": [1, 3], "split_score": 0.420321637404954}
+{"sent": "catpink", "ann_id": 454547, "best_split": [1, 3], "split_score": 0.420321637404954}
+{"sent": "purple", "ann_id": 454547, "best_split": [2, 1], "split_score": 0.10631311566488096}

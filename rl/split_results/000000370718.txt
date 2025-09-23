@@ -1,0 +1,5 @@
+{"sent": "blue van", "ann_id": 244310, "best_split": [1, 5], "split_score": 0.7475629003112466}
+{"sent": "blue car", "ann_id": 244310, "best_split": [1, 5], "split_score": 0.7475629003112466}
+{"sent": "dark hatchback", "ann_id": 141233, "best_split": [1, 2], "split_score": 0.3671961347659331}
+{"sent": "dark van", "ann_id": 141233, "best_split": [1, 2], "split_score": 0.3671961347659331}
+{"sent": "black car", "ann_id": 141233, "best_split": [1, 2], "split_score": 0.3671961347659331}

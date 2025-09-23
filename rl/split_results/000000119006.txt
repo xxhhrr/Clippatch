@@ -1,0 +1,6 @@
+{"sent": "wheel of plane", "ann_id": 1793226, "best_split": [2, 1], "split_score": 0.3504065688635839}
+{"sent": "small plane looking thing", "ann_id": 1793226, "best_split": [2, 1], "split_score": 0.3504065688635839}
+{"sent": "boat", "ann_id": 1793226, "best_split": [5, 1], "split_score": 0.48723879402717823}
+{"sent": "plane", "ann_id": 162452, "best_split": [3, 1], "split_score": 0.4667025346584558}
+{"sent": "aireplane in flight", "ann_id": 162452, "best_split": [3, 1], "split_score": 0.4667025346584558}
+{"sent": "plane", "ann_id": 162452, "best_split": [3, 1], "split_score": 0.4667025346584558}

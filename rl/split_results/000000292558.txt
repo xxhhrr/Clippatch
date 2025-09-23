@@ -1,0 +1,6 @@
+{"sent": "leftest screen", "ann_id": 1970001, "best_split": [3, 2], "split_score": 0.5014982094203392}
+{"sent": "bigger apple monitor", "ann_id": 1970001, "best_split": [3, 2], "split_score": 0.5014982094203392}
+{"sent": "bigger screen", "ann_id": 1970001, "best_split": [3, 2], "split_score": 0.5014982094203392}
+{"sent": "the monitor on the split legs", "ann_id": 1097606, "best_split": [3, 2], "split_score": 0.4628146924917198}
+{"sent": "screen with tripod stand", "ann_id": 1097606, "best_split": [1, 2], "split_score": 0.37603635202582764}
+{"sent": "screen 3 o clock", "ann_id": 1097606, "best_split": [2, 2], "split_score": 0.4881170017951034}

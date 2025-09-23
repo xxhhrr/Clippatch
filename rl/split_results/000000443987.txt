@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 508237, "best_split": [1, 5], "split_score": 0.39409082935349016}
+{"sent": "red jacket", "ann_id": 508237, "best_split": [2, 3], "split_score": 0.4117009750407071}
+{"sent": "man in red jacket", "ann_id": 508237, "best_split": [2, 3], "split_score": 0.4117009750407071}
+{"sent": "girl in a teal jacket and gray bib", "ann_id": 485172, "best_split": [1, 5], "split_score": 0.5246478872788863}
+{"sent": "woman green coat", "ann_id": 485172, "best_split": [1, 5], "split_score": 0.5246478872788863}
+{"sent": "green jacket and tan snowbibs", "ann_id": 485172, "best_split": [2, 3], "split_score": 0.40458214003257986}

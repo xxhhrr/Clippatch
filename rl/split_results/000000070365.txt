@@ -1,0 +1,6 @@
+{"sent": "whole green couch", "ann_id": 111382, "best_split": [2, 2], "split_score": 0.6122448979176727}
+{"sent": "love seat", "ann_id": 111382, "best_split": [2, 2], "split_score": 0.6122448979176727}
+{"sent": "whole couch", "ann_id": 111382, "best_split": [2, 2], "split_score": 0.6122448979176727}
+{"sent": "couch cutoff in picture", "ann_id": 98593, "best_split": [3, 2], "split_score": 0.39943094764724985}
+{"sent": "chair with yellow pillow", "ann_id": 98593, "best_split": [2, 3], "split_score": 0.5263786105841037}
+{"sent": "couch cutoff", "ann_id": 98593, "best_split": [3, 1], "split_score": 0.20945713300760604}

@@ -1,0 +1,5 @@
+{"sent": "the half closer to the silver sugar dish", "ann_id": 1552458, "best_split": [1, 2], "split_score": 0.23895886478639353}
+{"sent": "sandwich with less egg", "ann_id": 1552458, "best_split": [3, 2], "split_score": 0.39851170073450387}
+{"sent": "sandwich with more egg showing", "ann_id": 309119, "best_split": [3, 3], "split_score": 0.4146432573260312}
+{"sent": "part with less red filling", "ann_id": 309119, "best_split": [3, 3], "split_score": 0.4146432573260312}
+{"sent": "sandwich half near milk", "ann_id": 309119, "best_split": [3, 3], "split_score": 0.4146432573260312}

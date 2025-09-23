@@ -1,0 +1,12 @@
+{"sent": "woman in white", "ann_id": 1304509, "best_split": [1, 3], "split_score": 0.7384169883724411}
+{"sent": "white shirted person", "ann_id": 1304509, "best_split": [3, 3], "split_score": 0.39672027748370225}
+{"sent": "okay woman with white shirt singing the ode to spiders", "ann_id": 1304509, "best_split": [1, 3], "split_score": 0.7384169883724411}
+{"sent": "lady in green", "ann_id": 1302695, "best_split": [1, 3], "split_score": 0.6622516555896276}
+{"sent": "really old lady with short white hair and booger green vest sweater", "ann_id": 1302695, "best_split": [1, 3], "split_score": 0.6622516555896276}
+{"sent": "green jacket", "ann_id": 1302695, "best_split": [1, 3], "split_score": 0.6622516555896276}
+{"sent": "short lady", "ann_id": 1245315, "best_split": [1, 2], "split_score": 0.7134866376354301}
+{"sent": "gray sweater", "ann_id": 1245315, "best_split": [1, 2], "split_score": 0.7134866376354301}
+{"sent": "gray shirt with glasses", "ann_id": 1245315, "best_split": [3, 1], "split_score": 0.3177376369441169}
+{"sent": "gray and black sweater", "ann_id": 1211512, "best_split": [2, 1], "split_score": 0.24085637822604639}
+{"sent": "blue shirt", "ann_id": 1211512, "best_split": [1, 3], "split_score": 0.7133528484173973}
+{"sent": "argyle sweater", "ann_id": 1211512, "best_split": [1, 3], "split_score": 0.7133528484173973}

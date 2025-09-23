@@ -1,0 +1,11 @@
+{"sent": "bowl on darker sandwich side", "ann_id": 711120, "best_split": [1, 2], "split_score": 0.12723214285207143}
+{"sent": "bowl with big utensil but not the utensil", "ann_id": 711120, "best_split": [1, 5], "split_score": 0.23795066411404642}
+{"sent": "bowl of berries more burned toast", "ann_id": 711120, "best_split": [3, 3], "split_score": 0.3067993366038294}
+{"sent": "bowl with small spoon", "ann_id": 710670, "best_split": [3, 1], "split_score": 0.16312741311757195}
+{"sent": "bowl of bubble in back of lightest sandwich", "ann_id": 710670, "best_split": [1, 5], "split_score": 0.21658271985503846}
+{"sent": "bowl with spoon pointing at 9 o clock", "ann_id": 710670, "best_split": [3, 1], "split_score": 0.16312741311757195}
+{"sent": "east plate sandwich half nearest you", "ann_id": 309992, "best_split": [1, 5], "split_score": 0.2926453600026333}
+{"sent": "triangle of a sandwich third through way that english is read", "ann_id": 309992, "best_split": [1, 5], "split_score": 0.2926453600026333}
+{"sent": "grilled sandwich the more toasted one", "ann_id": 309964, "best_split": [3, 2], "split_score": 0.28263572313690055}
+{"sent": "toasted darker larger half", "ann_id": 309964, "best_split": [1, 5], "split_score": 0.2629482071475056}
+{"sent": "darker toastes sandwich half closer to us", "ann_id": 309964, "best_split": [3, 1], "split_score": 0.15206243031482372}

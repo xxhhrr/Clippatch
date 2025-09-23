@@ -1,0 +1,6 @@
+{"sent": "side view", "ann_id": 583429, "best_split": [3, 2], "split_score": 0.45613532106822424}
+{"sent": "elephant in side view", "ann_id": 583429, "best_split": [3, 1], "split_score": 0.3350135349418924}
+{"sent": "facing sideways", "ann_id": 583429, "best_split": [1, 3], "split_score": 0.2697088068062097}
+{"sent": "elephant butt", "ann_id": 581986, "best_split": [3, 2], "split_score": 0.4913993119056405}
+{"sent": "reaching trunk elephant", "ann_id": 581986, "best_split": [3, 2], "split_score": 0.4913993119056405}
+{"sent": "elephant with trunk curled up", "ann_id": 581986, "best_split": [3, 2], "split_score": 0.4913993119056405}

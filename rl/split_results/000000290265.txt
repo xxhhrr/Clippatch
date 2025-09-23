@@ -1,0 +1,3 @@
+{"sent": "horse closest to us", "ann_id": 59370, "best_split": [1, 3], "split_score": 0.49997534635866203}
+{"sent": "nearest horse", "ann_id": 59370, "best_split": [1, 3], "split_score": 0.49997534635866203}
+{"sent": "horse in forground", "ann_id": 59370, "best_split": [1, 3], "split_score": 0.49997534635866203}

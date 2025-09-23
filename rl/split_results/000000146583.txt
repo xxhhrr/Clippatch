@@ -1,0 +1,12 @@
+{"sent": "the head closest to us", "ann_id": 1412008, "best_split": [3, 1], "split_score": 0.2671017845230047}
+{"sent": "closest zebra", "ann_id": 1412008, "best_split": [2, 2], "split_score": 0.7534553112575059}
+{"sent": "the closest zebra", "ann_id": 1412008, "best_split": [2, 2], "split_score": 0.7534553112575059}
+{"sent": "tallest ears", "ann_id": 591910, "best_split": [3, 1], "split_score": 0.36911139846808094}
+{"sent": "zebra next to closest zebra", "ann_id": 591910, "best_split": [1, 2], "split_score": 0.5208864795710744}
+{"sent": "zebra 3 o clock", "ann_id": 591910, "best_split": [1, 2], "split_score": 0.5208864795710744}
+{"sent": "zebra looking at camera", "ann_id": 591790, "best_split": [1, 2], "split_score": 0.528729085064837}
+{"sent": "zebra most obscured", "ann_id": 591790, "best_split": [1, 2], "split_score": 0.528729085064837}
+{"sent": "blurry blocked zebra", "ann_id": 591790, "best_split": [1, 2], "split_score": 0.528729085064837}
+{"sent": "zebra not doing what other are doing", "ann_id": 591534, "best_split": [2, 1], "split_score": 0.48914981248880707}
+{"sent": "zebra in background farthest away", "ann_id": 591534, "best_split": [2, 1], "split_score": 0.48914981248880707}
+{"sent": "mostly full view of zebra", "ann_id": 591534, "best_split": [2, 1], "split_score": 0.48914981248880707}

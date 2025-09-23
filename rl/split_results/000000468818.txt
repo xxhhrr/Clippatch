@@ -1,0 +1,9 @@
+{"sent": "bald", "ann_id": 215815, "best_split": [1, 3], "split_score": 0.6899229436300147}
+{"sent": "man with frisbee", "ann_id": 215815, "best_split": [1, 3], "split_score": 0.6899229436300147}
+{"sent": "man holding frisbee", "ann_id": 215815, "best_split": [1, 3], "split_score": 0.6899229436300147}
+{"sent": "striped hoodie", "ann_id": 195780, "best_split": [1, 2], "split_score": 0.6855730933513212}
+{"sent": "gray shirt", "ann_id": 195780, "best_split": [1, 2], "split_score": 0.6855730933513212}
+{"sent": "hoodie", "ann_id": 195780, "best_split": [1, 2], "split_score": 0.6855730933513212}
+{"sent": "guy in black sweater gray shirt", "ann_id": 185598, "best_split": [1, 2], "split_score": 0.28061224488677405}
+{"sent": "man in black not participating", "ann_id": 185598, "best_split": [1, 3], "split_score": 0.3393829400896448}
+{"sent": "guy in black facing camera", "ann_id": 185598, "best_split": [1, 3], "split_score": 0.3393829400896448}

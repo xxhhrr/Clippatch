@@ -1,0 +1,13 @@
+{"sent": "donut with black dots not touching white frosting", "ann_id": 1573105, "best_split": [2, 2], "split_score": 0.5368303571000613}
+{"sent": "closest with 3 black dots", "ann_id": 1573105, "best_split": [2, 3], "split_score": 0.6495003842484353}
+{"sent": "glaze donut only touching 2 donuts", "ann_id": 1083357, "best_split": [2, 2], "split_score": 0.34643071383125146}
+{"sent": "glazed donut 1 in row of 3", "ann_id": 1083357, "best_split": [3, 3], "split_score": 0.3980482793531011}
+{"sent": "glazed donut closest to us", "ann_id": 1082363, "best_split": [2, 3], "split_score": 0.6745995422569108}
+{"sent": "lower glazed donut", "ann_id": 1082363, "best_split": [2, 3], "split_score": 0.6745995422569108}
+{"sent": "2 glaze donut", "ann_id": 1082363, "best_split": [2, 3], "split_score": 0.6745995422569108}
+{"sent": "stripped donut that is beside 2 with cream on them", "ann_id": 1082297, "best_split": [5, 1], "split_score": 0.24867021274529003}
+{"sent": "doughnut by the yellow cream ones", "ann_id": 1082297, "best_split": [5, 1], "split_score": 0.24867021274529003}
+{"sent": "between the glazed and chocolate drizzle", "ann_id": 1081580, "best_split": [5, 1], "split_score": 0.2177669658403014}
+{"sent": "lower row donut 3", "ann_id": 1079812, "best_split": [5, 1], "split_score": 0.23927492445322696}
+{"sent": "donut with white in corner", "ann_id": 1079812, "best_split": [5, 1], "split_score": 0.23927492445322696}
+{"sent": "5 o clock donut", "ann_id": 1079812, "best_split": [5, 1], "split_score": 0.23927492445322696}

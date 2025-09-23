@@ -1,0 +1,6 @@
+{"sent": "flowers", "ann_id": 292882, "best_split": [2, 2], "split_score": 0.7678113787309193}
+{"sent": "flowers pink yellow", "ann_id": 292882, "best_split": [2, 2], "split_score": 0.7678113787309193}
+{"sent": "the flowers are yellow", "ann_id": 292882, "best_split": [2, 2], "split_score": 0.7678113787309193}
+{"sent": "big tree or bush", "ann_id": 292621, "best_split": [2, 2], "split_score": 0.8359432166811105}
+{"sent": "large plant close to yellow flower", "ann_id": 292621, "best_split": [3, 1], "split_score": 0.3498655789213931}
+{"sent": "spinnach", "ann_id": 292621, "best_split": [3, 1], "split_score": 0.20717957220165895}

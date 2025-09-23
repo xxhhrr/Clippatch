@@ -1,0 +1,6 @@
+{"sent": "closest donut in paper", "ann_id": 1924989, "best_split": [5, 1], "split_score": 0.33398720679454263}
+{"sent": "nearest powdered donut", "ann_id": 1924989, "best_split": [5, 1], "split_score": 0.33398720679454263}
+{"sent": "contents of paper pouch closest", "ann_id": 1924989, "best_split": [2, 1], "split_score": 0.13775566610879839}
+{"sent": "unwrapped doughnut", "ann_id": 1081172, "best_split": [1, 5], "split_score": 0.46985121373631056}
+{"sent": "donut", "ann_id": 1081172, "best_split": [1, 5], "split_score": 0.46985121373631056}
+{"sent": "half doughnut no chocolate", "ann_id": 1081172, "best_split": [1, 5], "split_score": 0.46985121373631056}

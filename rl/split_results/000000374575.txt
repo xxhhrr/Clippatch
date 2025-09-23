@@ -1,0 +1,9 @@
+{"sent": "head of girl wearing headband", "ann_id": 206048, "best_split": [2, 2], "split_score": 0.9127072703354028}
+{"sent": "red headband", "ann_id": 206048, "best_split": [2, 2], "split_score": 0.9127072703354028}
+{"sent": "blurry head with red headband", "ann_id": 206048, "best_split": [2, 2], "split_score": 0.9127072703354028}
+{"sent": "man in the back with hawaiian shirt", "ann_id": 204195, "best_split": [2, 2], "split_score": 0.6562499999476842}
+{"sent": "arm on table", "ann_id": 204195, "best_split": [2, 1], "split_score": 0.328124999986921}
+{"sent": "hand showing", "ann_id": 204195, "best_split": [2, 2], "split_score": 0.6562499999476842}
+{"sent": "the person wearing a light colored layered shirt", "ann_id": 195030, "best_split": [1, 3], "split_score": 0.8235400578653752}
+{"sent": "person with beige blouse", "ann_id": 195030, "best_split": [1, 3], "split_score": 0.8235400578653752}
+{"sent": "woman light shirt", "ann_id": 195030, "best_split": [1, 3], "split_score": 0.8235400578653752}

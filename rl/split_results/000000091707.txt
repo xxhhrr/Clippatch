@@ -1,0 +1,11 @@
+{"sent": "the brown couch near the lamp", "ann_id": 2225263, "best_split": [3, 3], "split_score": 0.17085751126101129}
+{"sent": "brown recliner in back", "ann_id": 2225263, "best_split": [1, 5], "split_score": 0.2858234619520612}
+{"sent": "the large object behind the gaming chair", "ann_id": 2225263, "best_split": [2, 3], "split_score": 0.4348455597930929}
+{"sent": "couch behind orange shirt kid", "ann_id": 2224200, "best_split": [3, 2], "split_score": 0.4452504907019501}
+{"sent": "things hiding boy in orange shirts limbs", "ann_id": 2224200, "best_split": [3, 2], "split_score": 0.4452504907019501}
+{"sent": "in orange", "ann_id": 2162662, "best_split": [1, 5], "split_score": 0.5263157894343364}
+{"sent": "orange", "ann_id": 2162662, "best_split": [1, 5], "split_score": 0.5263157894343364}
+{"sent": "orange", "ann_id": 2162662, "best_split": [1, 5], "split_score": 0.5263157894343364}
+{"sent": "blue", "ann_id": 194752, "best_split": [2, 1], "split_score": 0.48525214080177886}
+{"sent": "sitting", "ann_id": 194752, "best_split": [2, 1], "split_score": 0.48525214080177886}
+{"sent": "blue shirt", "ann_id": 194752, "best_split": [2, 1], "split_score": 0.48525214080177886}

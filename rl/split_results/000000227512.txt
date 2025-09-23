@@ -1,0 +1,7 @@
+{"sent": "intact half of pizza", "ann_id": 1076028, "best_split": [1, 2], "split_score": 0.5952870255995586}
+{"sent": "uneaten pizza eastern half", "ann_id": 1076028, "best_split": [1, 2], "split_score": 0.5952870255995586}
+{"sent": "pizza next to green foil thing in corner of box", "ann_id": 1076028, "best_split": [1, 2], "split_score": 0.5952870255995586}
+{"sent": "the mutated slice of pizza", "ann_id": 1075461, "best_split": [2, 2], "split_score": 0.4554018251174859}
+{"sent": "pizza almost gone", "ann_id": 1075461, "best_split": [2, 2], "split_score": 0.4554018251174859}
+{"sent": "pizza that is sticking out of box", "ann_id": 1075461, "best_split": [2, 2], "split_score": 0.4554018251174859}
+{"sent": "slice of pizza at 3 o clock", "ann_id": 1074931, "best_split": [3, 3], "split_score": 0.28228882829941565}

@@ -1,0 +1,6 @@
+{"sent": "elephant no trunck", "ann_id": 584826, "best_split": [3, 1], "split_score": 0.2893650481477607}
+{"sent": "not seen elephant", "ann_id": 584826, "best_split": [3, 1], "split_score": 0.2893650481477607}
+{"sent": "elephant behind the logs", "ann_id": 584826, "best_split": [3, 1], "split_score": 0.2893650481477607}
+{"sent": "elephant", "ann_id": 584803, "best_split": [1, 2], "split_score": 0.5414277683940014}
+{"sent": "trunk", "ann_id": 584803, "best_split": [1, 2], "split_score": 0.5414277683940014}
+{"sent": "trunk", "ann_id": 584803, "best_split": [1, 2], "split_score": 0.5414277683940014}

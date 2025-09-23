@@ -1,0 +1,4 @@
+{"sent": "car near the red painted part i agree", "ann_id": 2209288, "best_split": [2, 1], "split_score": 0.20826690050190264}
+{"sent": "last train car", "ann_id": 2209288, "best_split": [2, 3], "split_score": 0.6119527614682151}
+{"sent": "largest visible train car", "ann_id": 169804, "best_split": [1, 2], "split_score": 0.4942026230637188}
+{"sent": "red white and blue train", "ann_id": 169804, "best_split": [1, 2], "split_score": 0.4942026230637188}

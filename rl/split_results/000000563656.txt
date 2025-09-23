@@ -1,0 +1,6 @@
+{"sent": "whole bed", "ann_id": 317305, "best_split": [2, 2], "split_score": 0.5856645096771695}
+{"sent": "bed farthest away", "ann_id": 317305, "best_split": [2, 2], "split_score": 0.5856645096771695}
+{"sent": "bed with red stuff on it", "ann_id": 317305, "best_split": [2, 2], "split_score": 0.5856645096771695}
+{"sent": "the one without red", "ann_id": 316485, "best_split": [1, 5], "split_score": 0.24255373700942037}
+{"sent": "twin bed in hotel room that is not near the window", "ann_id": 316485, "best_split": [2, 1], "split_score": 0.595570759791301}
+{"sent": "bed partially shown", "ann_id": 316485, "best_split": [2, 1], "split_score": 0.595570759791301}

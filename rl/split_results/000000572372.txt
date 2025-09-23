@@ -1,0 +1,6 @@
+{"sent": "zebra by wall", "ann_id": 590214, "best_split": [3, 3], "split_score": 0.4556442416812264}
+{"sent": "turned neck", "ann_id": 590214, "best_split": [3, 1], "split_score": 0.20110719676894276}
+{"sent": "zebra at 300", "ann_id": 590214, "best_split": [3, 3], "split_score": 0.4556442416812264}
+{"sent": "zebra westernmost", "ann_id": 589111, "best_split": [1, 5], "split_score": 0.4941436871258744}
+{"sent": "the zebra furthest from the fence", "ann_id": 589111, "best_split": [1, 5], "split_score": 0.4941436871258744}
+{"sent": "zebra not by the fence", "ann_id": 589111, "best_split": [1, 5], "split_score": 0.4941436871258744}

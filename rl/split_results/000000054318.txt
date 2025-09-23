@@ -1,0 +1,6 @@
+{"sent": "bed that is not by the window", "ann_id": 1612459, "best_split": [1, 2], "split_score": 0.6068588468969448}
+{"sent": "bed with 1 red pillow", "ann_id": 1612459, "best_split": [1, 2], "split_score": 0.6068588468969448}
+{"sent": "partial bed", "ann_id": 1612459, "best_split": [1, 2], "split_score": 0.6068588468969448}
+{"sent": "bed with a view out the window", "ann_id": 1611326, "best_split": [3, 1], "split_score": 0.37347494073670345}
+{"sent": "further bed", "ann_id": 1611326, "best_split": [3, 1], "split_score": 0.37347494073670345}
+{"sent": "bed by window", "ann_id": 1611326, "best_split": [3, 1], "split_score": 0.37347494073670345}

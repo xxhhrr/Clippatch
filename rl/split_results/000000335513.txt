@@ -1,0 +1,6 @@
+{"sent": "the bed u can only see part of", "ann_id": 317056, "best_split": [3, 3], "split_score": 0.7976899475189153}
+{"sent": "bed cut off", "ann_id": 317056, "best_split": [3, 3], "split_score": 0.7976899475189153}
+{"sent": "bed cutoff", "ann_id": 317056, "best_split": [3, 3], "split_score": 0.7976899475189153}
+{"sent": "full image of bed with green pillow", "ann_id": 315416, "best_split": [2, 2], "split_score": 0.5725695400321833}
+{"sent": "whole bed", "ann_id": 315416, "best_split": [2, 2], "split_score": 0.5725695400321833}
+{"sent": "bed fully shown in picture", "ann_id": 315416, "best_split": [2, 2], "split_score": 0.5725695400321833}

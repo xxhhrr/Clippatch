@@ -1,0 +1,6 @@
+{"sent": "flowers", "ann_id": 292773, "best_split": [3, 2], "split_score": 0.4406975400807602}
+{"sent": "plant", "ann_id": 292773, "best_split": [3, 2], "split_score": 0.4406975400807602}
+{"sent": "plant on table", "ann_id": 292773, "best_split": [3, 2], "split_score": 0.4406975400807602}
+{"sent": "partially visible plant", "ann_id": 20252, "best_split": [3, 3], "split_score": 0.6191432395215624}
+{"sent": "plant on ground", "ann_id": 20252, "best_split": [3, 3], "split_score": 0.6191432395215624}
+{"sent": "fern in corner", "ann_id": 20252, "best_split": [3, 3], "split_score": 0.6191432395215624}

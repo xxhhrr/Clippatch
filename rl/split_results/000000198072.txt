@@ -1,0 +1,8 @@
+{"sent": "mirror", "ann_id": 1791913, "best_split": [1, 2], "split_score": 0.47243360110917537}
+{"sent": "helmet", "ann_id": 1791913, "best_split": [2, 1], "split_score": 0.5536097691770977}
+{"sent": "man", "ann_id": 1791913, "best_split": [2, 1], "split_score": 0.5536097691770977}
+{"sent": "blurriest license plate", "ann_id": 1790876, "best_split": [3, 3], "split_score": 0.4933333332444444}
+{"sent": "black bike in background", "ann_id": 1790876, "best_split": [1, 3], "split_score": 0.1696428571326229}
+{"sent": "clearest license plate", "ann_id": 153722, "best_split": [1, 5], "split_score": 0.6072443181202065}
+{"sent": "red motorcycle", "ann_id": 153722, "best_split": [1, 5], "split_score": 0.6072443181202065}
+{"sent": "bike with 645 lr plate showing", "ann_id": 153722, "best_split": [1, 5], "split_score": 0.6072443181202065}

@@ -1,0 +1,6 @@
+{"sent": "meter closest to truck", "ann_id": 418985, "best_split": [1, 5], "split_score": 0.7261774369485037}
+{"sent": "parking meter by truck", "ann_id": 418985, "best_split": [1, 3], "split_score": 0.4512548262276029}
+{"sent": "farther meeter", "ann_id": 418985, "best_split": [1, 5], "split_score": 0.7261774369485037}
+{"sent": "meter closest to us", "ann_id": 418470, "best_split": [1, 5], "split_score": 0.6014388488815279}
+{"sent": "meter 1", "ann_id": 418470, "best_split": [1, 5], "split_score": 0.6014388488815279}
+{"sent": "closest parking meter", "ann_id": 418470, "best_split": [1, 5], "split_score": 0.6014388488815279}

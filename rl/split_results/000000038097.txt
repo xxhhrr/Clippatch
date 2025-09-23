@@ -1,0 +1,6 @@
+{"sent": "taller horse", "ann_id": 59520, "best_split": [1, 2], "split_score": 0.7183442196931477}
+{"sent": "horse with head up", "ann_id": 59520, "best_split": [1, 2], "split_score": 0.7183442196931477}
+{"sent": "horse with head up", "ann_id": 59520, "best_split": [1, 2], "split_score": 0.7183442196931477}
+{"sent": "horse without red on halter", "ann_id": 56819, "best_split": [2, 1], "split_score": 0.42374401912291626}
+{"sent": "horse eyes covered", "ann_id": 56819, "best_split": [2, 1], "split_score": 0.42374401912291626}
+{"sent": "horse on ri ght", "ann_id": 56819, "best_split": [2, 1], "split_score": 0.42374401912291626}

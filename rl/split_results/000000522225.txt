@@ -1,0 +1,5 @@
+{"sent": "person taking video or picture back in the bushes", "ann_id": 481014, "best_split": [3, 3], "split_score": 0.4044867436430172}
+{"sent": "man with no dog", "ann_id": 481014, "best_split": [2, 2], "split_score": 0.22225765304350625}
+{"sent": "man with dog", "ann_id": 434972, "best_split": [2, 3], "split_score": 0.5494387388882924}
+{"sent": "black shirt", "ann_id": 434972, "best_split": [3, 1], "split_score": 0.08801105254628198}
+{"sent": "the man with the dog", "ann_id": 434972, "best_split": [2, 3], "split_score": 0.5494387388882924}

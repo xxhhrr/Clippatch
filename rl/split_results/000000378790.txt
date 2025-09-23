@@ -1,0 +1,6 @@
+{"sent": "orange closest to bananna", "ann_id": 1051626, "best_split": [3, 3], "split_score": 0.5792549305005013}
+{"sent": "orangeedge of plate", "ann_id": 1051626, "best_split": [3, 3], "split_score": 0.5792549305005013}
+{"sent": "furthest orange", "ann_id": 1051626, "best_split": [3, 3], "split_score": 0.5792549305005013}
+{"sent": "orange touching pear", "ann_id": 1051274, "best_split": [3, 2], "split_score": 0.33405172410193407}
+{"sent": "ornge by two green pears", "ann_id": 1051274, "best_split": [3, 2], "split_score": 0.33405172410193407}
+{"sent": "orange next to pear", "ann_id": 1051274, "best_split": [3, 2], "split_score": 0.33405172410193407}

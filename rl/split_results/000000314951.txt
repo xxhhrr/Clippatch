@@ -1,0 +1,9 @@
+{"sent": "man opening wine", "ann_id": 462690, "best_split": [3, 2], "split_score": 0.38677130041745905}
+{"sent": "opening bottle", "ann_id": 462690, "best_split": [3, 2], "split_score": 0.38677130041745905}
+{"sent": "tall man standing", "ann_id": 462690, "best_split": [2, 1], "split_score": 0.25166923471084934}
+{"sent": "man in white and glasses", "ann_id": 426889, "best_split": [1, 3], "split_score": 0.7147548814286288}
+{"sent": "white shirt man", "ann_id": 426889, "best_split": [1, 3], "split_score": 0.7147548814286288}
+{"sent": "white shirt", "ann_id": 426889, "best_split": [1, 3], "split_score": 0.7147548814286288}
+{"sent": "bald head guy", "ann_id": 519067, "best_split": [1, 2], "split_score": 0.4610925952593431}
+{"sent": "seated man", "ann_id": 519067, "best_split": [2, 2], "split_score": 0.49510384157456666}
+{"sent": "man sitting", "ann_id": 519067, "best_split": [2, 2], "split_score": 0.49510384157456666}

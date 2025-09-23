@@ -1,0 +1,18 @@
+{"sent": "laptop of man with two bare feet", "ann_id": 1100172, "best_split": [3, 1], "split_score": 0.11958909802745744}
+{"sent": "mac belonging to guy with hand on his head", "ann_id": 1100172, "best_split": [2, 3], "split_score": 0.1886389201137639}
+{"sent": "computer held by guy with hand over head", "ann_id": 1100172, "best_split": [2, 2], "split_score": 0.1816804846793941}
+{"sent": "laptop with 2 people looking", "ann_id": 1098675, "best_split": [3, 2], "split_score": 0.26687447545056053}
+{"sent": "the apple shees looking at", "ann_id": 1098675, "best_split": [3, 2], "split_score": 0.26687447545056053}
+{"sent": "laptop guy in glasses is on", "ann_id": 1098675, "best_split": [3, 2], "split_score": 0.26687447545056053}
+{"sent": "pink shirt", "ann_id": 230501, "best_split": [2, 1], "split_score": 0.33438885369164073}
+{"sent": "lady in red", "ann_id": 230501, "best_split": [2, 3], "split_score": 0.7243066883437697}
+{"sent": "blond woman", "ann_id": 230501, "best_split": [2, 3], "split_score": 0.7243066883437697}
+{"sent": "man with no glasses", "ann_id": 225389, "best_split": [1, 2], "split_score": 0.5417273936841225}
+{"sent": "man with hand on head", "ann_id": 225389, "best_split": [1, 3], "split_score": 0.4408555842506153}
+{"sent": "hand on head guy", "ann_id": 225389, "best_split": [1, 3], "split_score": 0.4408555842506153}
+{"sent": "the man wearing glasses", "ann_id": 189447, "best_split": [1, 5], "split_score": 0.35799522669471007}
+{"sent": "man with glasses", "ann_id": 189447, "best_split": [1, 5], "split_score": 0.35799522669471007}
+{"sent": "guy in black shirt and glasses", "ann_id": 189447, "best_split": [1, 5], "split_score": 0.35799522669471007}
+{"sent": "couch between the two mens legs", "ann_id": 98651, "best_split": [2, 1], "split_score": 0.7457513756499635}
+{"sent": "the couch they sitting on", "ann_id": 98651, "best_split": [2, 1], "split_score": 0.7457513756499635}
+{"sent": "couch under guys groin", "ann_id": 98651, "best_split": [2, 1], "split_score": 0.7457513756499635}

@@ -1,0 +1,9 @@
+{"sent": "orange white", "ann_id": 509393, "best_split": [3, 3], "split_score": 0.36622998539065066}
+{"sent": "orange", "ann_id": 509393, "best_split": [3, 3], "split_score": 0.36622998539065066}
+{"sent": "orange jacket", "ann_id": 509393, "best_split": [3, 3], "split_score": 0.36622998539065066}
+{"sent": "man in black", "ann_id": 446019, "best_split": [3, 3], "split_score": 0.3590054577988166}
+{"sent": "guy in all black", "ann_id": 446019, "best_split": [3, 3], "split_score": 0.3590054577988166}
+{"sent": "black clothes", "ann_id": 446019, "best_split": [3, 3], "split_score": 0.3590054577988166}
+{"sent": "blue parka", "ann_id": 428231, "best_split": [1, 5], "split_score": 0.3532008829667669}
+{"sent": "blue jacket", "ann_id": 428231, "best_split": [1, 5], "split_score": 0.3532008829667669}
+{"sent": "skiier in blue jacket", "ann_id": 428231, "best_split": [1, 5], "split_score": 0.3532008829667669}

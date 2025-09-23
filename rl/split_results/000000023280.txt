@@ -1,0 +1,9 @@
+{"sent": "baby", "ann_id": 1709401, "best_split": [3, 3], "split_score": 0.4912305717251917}
+{"sent": "baby", "ann_id": 1709401, "best_split": [3, 3], "split_score": 0.4912305717251917}
+{"sent": "child", "ann_id": 1709401, "best_split": [2, 3], "split_score": 0.365366807247107}
+{"sent": "person in white shirt", "ann_id": 476368, "best_split": [1, 2], "split_score": 0.5827487244665678}
+{"sent": "mom", "ann_id": 476368, "best_split": [1, 2], "split_score": 0.5827487244665678}
+{"sent": "lady in white shirt holding child", "ann_id": 476368, "best_split": [1, 2], "split_score": 0.5827487244665678}
+{"sent": "woman in plaid", "ann_id": 436739, "best_split": [1, 3], "split_score": 0.6283783783404694}
+{"sent": "plaid shirt", "ann_id": 436739, "best_split": [1, 3], "split_score": 0.6283783783404694}
+{"sent": "plaid", "ann_id": 436739, "best_split": [1, 3], "split_score": 0.6283783783404694}

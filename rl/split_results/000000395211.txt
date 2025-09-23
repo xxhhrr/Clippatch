@@ -1,0 +1,6 @@
+{"sent": "bird behind flower", "ann_id": 2174185, "best_split": [2, 2], "split_score": 0.19467474488243983}
+{"sent": "not as visible bird", "ann_id": 2174185, "best_split": [1, 2], "split_score": 0.09733737244509975}
+{"sent": "bird behind branch", "ann_id": 2174185, "best_split": [2, 2], "split_score": 0.19467474488243983}
+{"sent": "clearly seen bird", "ann_id": 1814420, "best_split": [1, 5], "split_score": 0.33116883113523043}
+{"sent": "bird in the clear", "ann_id": 1814420, "best_split": [1, 5], "split_score": 0.33116883113523043}
+{"sent": "black bird full image", "ann_id": 1814420, "best_split": [1, 5], "split_score": 0.33116883113523043}

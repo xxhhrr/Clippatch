@@ -1,0 +1,5 @@
+{"sent": "clock face on side of item", "ann_id": 1991523, "best_split": [3, 1], "split_score": 0.043196994989399155}
+{"sent": "side clock", "ann_id": 1991523, "best_split": [3, 1], "split_score": 0.043196994989399155}
+{"sent": "clock hands", "ann_id": 336465, "best_split": [3, 1], "split_score": 0.4058062196474112}
+{"sent": "vlock circle", "ann_id": 336465, "best_split": [3, 1], "split_score": 0.4058062196474112}
+{"sent": "round part of clock", "ann_id": 336465, "best_split": [3, 1], "split_score": 0.4058062196474112}

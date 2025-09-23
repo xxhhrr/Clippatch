@@ -1,0 +1,12 @@
+{"sent": "leg", "ann_id": 214689, "best_split": [1, 5], "split_score": 0.32484076430769826}
+{"sent": "adult", "ann_id": 214689, "best_split": [2, 1], "split_score": 0.2718446601838651}
+{"sent": "adult on bicycle", "ann_id": 214689, "best_split": [1, 3], "split_score": 0.30224812654547}
+{"sent": "boy", "ann_id": 214499, "best_split": [1, 5], "split_score": 0.5864991523993919}
+{"sent": "little kid", "ann_id": 214499, "best_split": [1, 5], "split_score": 0.5864991523993919}
+{"sent": "small boy", "ann_id": 214499, "best_split": [1, 5], "split_score": 0.5864991523993919}
+{"sent": "blue little bike", "ann_id": 127068, "best_split": [2, 2], "split_score": 0.6013824884359603}
+{"sent": "blue bike", "ann_id": 127068, "best_split": [2, 2], "split_score": 0.6013824884359603}
+{"sent": "blue toy bike", "ann_id": 127068, "best_split": [2, 2], "split_score": 0.6013824884359603}
+{"sent": "bigger bike", "ann_id": 125395, "best_split": [1, 2], "split_score": 0.5854426472223286}
+{"sent": "larger bicycle", "ann_id": 125395, "best_split": [1, 2], "split_score": 0.5854426472223286}
+{"sent": "bike", "ann_id": 125395, "best_split": [1, 2], "split_score": 0.5854426472223286}

@@ -1,0 +1,6 @@
+{"sent": "chair metal leg", "ann_id": 108549, "best_split": [1, 5], "split_score": 0.44220325829691587}
+{"sent": "chair on side not behind", "ann_id": 108549, "best_split": [1, 5], "split_score": 0.44220325829691587}
+{"sent": "item with handle that cat is looking at", "ann_id": 108549, "best_split": [2, 1], "split_score": 0.13995758860421245}
+{"sent": "chair back", "ann_id": 107997, "best_split": [1, 2], "split_score": 0.25392896917912605}
+{"sent": "chair back behind cat", "ann_id": 107997, "best_split": [2, 1], "split_score": 0.49619785897024}
+{"sent": "black chair", "ann_id": 107997, "best_split": [1, 2], "split_score": 0.25392896917912605}

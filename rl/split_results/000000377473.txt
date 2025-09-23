@@ -1,0 +1,6 @@
+{"sent": "lady", "ann_id": 489077, "best_split": [3, 1], "split_score": 0.27068810821068784}
+{"sent": "pink blouse", "ann_id": 489077, "best_split": [1, 2], "split_score": 0.8069993622127312}
+{"sent": "pink", "ann_id": 489077, "best_split": [1, 2], "split_score": 0.8069993622127312}
+{"sent": "man in red", "ann_id": 467229, "best_split": [1, 5], "split_score": 0.45418297807349695}
+{"sent": "smiling", "ann_id": 467229, "best_split": [1, 5], "split_score": 0.45418297807349695}
+{"sent": "man in red", "ann_id": 467229, "best_split": [1, 5], "split_score": 0.45418297807349695}

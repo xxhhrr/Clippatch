@@ -1,0 +1,9 @@
+{"sent": "guy with the blue shirt", "ann_id": 1311201, "best_split": [2, 2], "split_score": 0.6615982059475142}
+{"sent": "blue shirt", "ann_id": 1311201, "best_split": [2, 2], "split_score": 0.6615982059475142}
+{"sent": "blue shirt", "ann_id": 1311201, "best_split": [2, 2], "split_score": 0.6615982059475142}
+{"sent": "guy", "ann_id": 1259180, "best_split": [3, 1], "split_score": 0.22348993287519223}
+{"sent": "man in red behind her", "ann_id": 1259180, "best_split": [3, 2], "split_score": 0.37082405342261976}
+{"sent": "red guy", "ann_id": 1259180, "best_split": [1, 3], "split_score": 0.5266180164776517}
+{"sent": "woman", "ann_id": 421060, "best_split": [1, 3], "split_score": 0.6130714942965383}
+{"sent": "woman", "ann_id": 421060, "best_split": [1, 3], "split_score": 0.6130714942965383}
+{"sent": "girl", "ann_id": 421060, "best_split": [1, 3], "split_score": 0.6130714942965383}

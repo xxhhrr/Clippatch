@@ -1,0 +1,9 @@
+{"sent": "half brown doughnut by a white one", "ann_id": 1574156, "best_split": [3, 1], "split_score": 0.18977553430406102}
+{"sent": "donut hidden under heart", "ann_id": 1574156, "best_split": [1, 2], "split_score": 0.2224170918278692}
+{"sent": "largest chocolate doughnut", "ann_id": 1573241, "best_split": [1, 2], "split_score": 0.26088169641817277}
+{"sent": "dark and close donut", "ann_id": 1573241, "best_split": [3, 2], "split_score": 0.7362753130356695}
+{"sent": "dark chocolate donut", "ann_id": 1573241, "best_split": [3, 2], "split_score": 0.7362753130356695}
+{"sent": "white donut under another donut", "ann_id": 1082758, "best_split": [3, 1], "split_score": 0.3292576893636965}
+{"sent": "white donut next to choclate one", "ann_id": 1082758, "best_split": [1, 3], "split_score": 0.31045751632323704}
+{"sent": "donut directly below heart and arrow", "ann_id": 1082474, "best_split": [2, 2], "split_score": 0.3130866924135086}
+{"sent": "donut under heart", "ann_id": 1082474, "best_split": [2, 2], "split_score": 0.3130866924135086}

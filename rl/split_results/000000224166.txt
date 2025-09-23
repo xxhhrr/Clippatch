@@ -1,0 +1,6 @@
+{"sent": "woman who is being kissed", "ann_id": 221253, "best_split": [1, 2], "split_score": 0.48788265304177764}
+{"sent": "sitting lady", "ann_id": 221253, "best_split": [1, 3], "split_score": 0.5339082295042101}
+{"sent": "the lady in black skirt seated", "ann_id": 221253, "best_split": [1, 3], "split_score": 0.5339082295042101}
+{"sent": "man", "ann_id": 193718, "best_split": [1, 3], "split_score": 0.58313223934706}
+{"sent": "solid red shirt", "ann_id": 193718, "best_split": [1, 5], "split_score": 0.6509090908540457}
+{"sent": "red", "ann_id": 193718, "best_split": [1, 5], "split_score": 0.6509090908540457}

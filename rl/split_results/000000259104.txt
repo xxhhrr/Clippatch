@@ -1,0 +1,15 @@
+{"sent": "biggest", "ann_id": 1112685, "best_split": [1, 2], "split_score": 0.5797193877319946}
+{"sent": "biggest one", "ann_id": 1112685, "best_split": [1, 2], "split_score": 0.5797193877319946}
+{"sent": "biggest remote", "ann_id": 1112685, "best_split": [3, 1], "split_score": 0.2065756823741247}
+{"sent": "smallest gray remote", "ann_id": 1112433, "best_split": [2, 3], "split_score": 0.2734883720612223}
+{"sent": "remote at 9 o clock", "ann_id": 1112433, "best_split": [2, 3], "split_score": 0.2734883720612223}
+{"sent": "gray one with blue on it and red power botton", "ann_id": 1112433, "best_split": [2, 1], "split_score": 0.09259842519320478}
+{"sent": "orange button", "ann_id": 1112416, "best_split": [2, 3], "split_score": 0.2637979419710246}
+{"sent": "remote with tiny orange button only one color on remote", "ann_id": 1112416, "best_split": [2, 3], "split_score": 0.2637979419710246}
+{"sent": "black remote nestled tween silver ones", "ann_id": 1112416, "best_split": [2, 3], "split_score": 0.2637979419710246}
+{"sent": "big black remote", "ann_id": 1112383, "best_split": [1, 5], "split_score": 0.43448275857788343}
+{"sent": "the biggest black remote", "ann_id": 1112383, "best_split": [1, 5], "split_score": 0.43448275857788343}
+{"sent": "tallest black remote", "ann_id": 1112383, "best_split": [1, 5], "split_score": 0.43448275857788343}
+{"sent": "the silver remote not in the box", "ann_id": 1108849, "best_split": [2, 2], "split_score": 0.18806509944333444}
+{"sent": "meddium gray controller", "ann_id": 1108849, "best_split": [2, 2], "split_score": 0.18806509944333444}
+{"sent": "gray remote without blue buttons", "ann_id": 1108849, "best_split": [2, 2], "split_score": 0.18806509944333444}

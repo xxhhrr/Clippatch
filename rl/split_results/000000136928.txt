@@ -1,0 +1,8 @@
+{"sent": "bus to ridgeway", "ann_id": 166378, "best_split": [5, 1], "split_score": 0.2696078431166048}
+{"sent": "ridgeway", "ann_id": 166378, "best_split": [2, 3], "split_score": 0.6749999999246652}
+{"sent": "26 to south commons bus", "ann_id": 166291, "best_split": [2, 2], "split_score": 0.39764030609074935}
+{"sent": "far bus 9 o clock", "ann_id": 166291, "best_split": [2, 3], "split_score": 0.6018339767613617}
+{"sent": "26 to south common", "ann_id": 166291, "best_split": [1, 5], "split_score": 0.3215811965525658}
+{"sent": "with 11", "ann_id": 164158, "best_split": [2, 1], "split_score": 0.28762755100894344}
+{"sent": "11", "ann_id": 164158, "best_split": [1, 5], "split_score": 0.2933333333111111}
+{"sent": "bus to westhood", "ann_id": 164158, "best_split": [2, 3], "split_score": 0.6285714285054022}

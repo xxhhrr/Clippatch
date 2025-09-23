@@ -1,0 +1,5 @@
+{"sent": "the banana bunch beside the zebra", "ann_id": 1543523, "best_split": [2, 2], "split_score": 0.768120489428293}
+{"sent": "bananas low and near the corner", "ann_id": 1543523, "best_split": [2, 2], "split_score": 0.768120489428293}
+{"sent": "bananas on lefty side", "ann_id": 1543523, "best_split": [2, 2], "split_score": 0.768120489428293}
+{"sent": "not the banana closest to the toys foot but the next one", "ann_id": 1542347, "best_split": [3, 1], "split_score": 0.2182753259048992}
+{"sent": "banana next to banana near the monkeys foot", "ann_id": 1542347, "best_split": [3, 1], "split_score": 0.2182753259048992}

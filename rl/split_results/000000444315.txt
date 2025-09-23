@@ -1,0 +1,6 @@
+{"sent": "table with glasses on it", "ann_id": 420231, "best_split": [3, 3], "split_score": 0.7357496406297701}
+{"sent": "red table no cake", "ann_id": 420231, "best_split": [1, 3], "split_score": 0.3188666786530484}
+{"sent": "table with glasses", "ann_id": 420231, "best_split": [3, 3], "split_score": 0.7357496406297701}
+{"sent": "table beneath cake", "ann_id": 419717, "best_split": [3, 3], "split_score": 0.5049070006070747}
+{"sent": "red tablecloth in front of man", "ann_id": 419717, "best_split": [3, 3], "split_score": 0.5049070006070747}
+{"sent": "table with stuff on it", "ann_id": 419717, "best_split": [3, 3], "split_score": 0.5049070006070747}

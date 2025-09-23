@@ -1,0 +1,5 @@
+{"sent": "black shorts", "ann_id": 433899, "best_split": [2, 2], "split_score": 0.668674698759215}
+{"sent": "arm no food", "ann_id": 433899, "best_split": [3, 1], "split_score": 0.3307014879923056}
+{"sent": "arm elbow bent", "ann_id": 433899, "best_split": [1, 3], "split_score": 0.294725956555816}
+{"sent": "the hand holding whatever that is", "ann_id": 427709, "best_split": [2, 1], "split_score": 0.82888320542783}
+{"sent": "hand", "ann_id": 427709, "best_split": [2, 1], "split_score": 0.82888320542783}

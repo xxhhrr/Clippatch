@@ -1,0 +1,12 @@
+{"sent": "laptop wit dim screen", "ann_id": 1103476, "best_split": [3, 1], "split_score": 0.44957183631960207}
+{"sent": "laptop that is further away next to cell phone", "ann_id": 1103476, "best_split": [3, 2], "split_score": 0.7567154399697843}
+{"sent": "middle laptop partially hidden", "ann_id": 1103476, "best_split": [3, 1], "split_score": 0.44957183631960207}
+{"sent": "closest laptop", "ann_id": 1101817, "best_split": [2, 1], "split_score": 0.5823986194838654}
+{"sent": "closer computer", "ann_id": 1101817, "best_split": [2, 1], "split_score": 0.5823986194838654}
+{"sent": "laptop blue screen", "ann_id": 1101817, "best_split": [2, 1], "split_score": 0.5823986194838654}
+{"sent": "hand in foreground", "ann_id": 556799, "best_split": [3, 2], "split_score": 0.6580645160626951}
+{"sent": "closest hand", "ann_id": 556799, "best_split": [2, 2], "split_score": 0.6505102040297743}
+{"sent": "the back of the hand", "ann_id": 556799, "best_split": [3, 2], "split_score": 0.6580645160626951}
+{"sent": "blurry head above the silvery keyboard", "ann_id": 1758997, "best_split": [1, 2], "split_score": 0.15401785713671803}
+{"sent": "blur on edge", "ann_id": 1758997, "best_split": [3, 3], "split_score": 0.5540765390093051}
+{"sent": "blurry hair at 2 o clock corner", "ann_id": 1758997, "best_split": [3, 3], "split_score": 0.5540765390093051}

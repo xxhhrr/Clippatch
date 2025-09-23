@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 201010, "best_split": [2, 3], "split_score": 0.3723663783131108}
+{"sent": "wioman", "ann_id": 201010, "best_split": [2, 2], "split_score": 0.252975742033074}
+{"sent": "woman", "ann_id": 201010, "best_split": [2, 3], "split_score": 0.3723663783131108}
+{"sent": "man with glasses", "ann_id": 200654, "best_split": [1, 3], "split_score": 0.7791394626576507}
+{"sent": "guy on horse", "ann_id": 200654, "best_split": [2, 1], "split_score": 0.23911688773438033}
+{"sent": "man", "ann_id": 200654, "best_split": [1, 3], "split_score": 0.7791394626576507}
+{"sent": "horse woman is on", "ann_id": 58453, "best_split": [2, 2], "split_score": 0.5666610672172764}
+{"sent": "horse that womans on", "ann_id": 58453, "best_split": [2, 2], "split_score": 0.5666610672172764}
+{"sent": "the horse the woman is riding", "ann_id": 58453, "best_split": [2, 2], "split_score": 0.5666610672172764}
+{"sent": "horse man on", "ann_id": 53983, "best_split": [2, 1], "split_score": 0.7994117865753542}
+{"sent": "horse with head curved down", "ann_id": 53983, "best_split": [2, 1], "split_score": 0.7994117865753542}
+{"sent": "horse looking down", "ann_id": 53983, "best_split": [2, 1], "split_score": 0.7994117865753542}

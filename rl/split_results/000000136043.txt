@@ -1,0 +1,3 @@
+{"sent": "car following bus", "ann_id": 1347322, "best_split": [1, 2], "split_score": 0.24505739794941575}
+{"sent": "car in back of bus", "ann_id": 1347322, "best_split": [1, 3], "split_score": 0.3708976833753078}
+{"sent": "car behind bus", "ann_id": 1347322, "best_split": [1, 2], "split_score": 0.24505739794941575}

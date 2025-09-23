@@ -1,0 +1,9 @@
+{"sent": "white horse next to other", "ann_id": 58345, "best_split": [3, 3], "split_score": 0.44428173957471345}
+{"sent": "white close horse", "ann_id": 58345, "best_split": [3, 3], "split_score": 0.44428173957471345}
+{"sent": "white horse beside brown", "ann_id": 58345, "best_split": [3, 3], "split_score": 0.44428173957471345}
+{"sent": "all black horse", "ann_id": 55481, "best_split": [1, 5], "split_score": 0.3925659017264777}
+{"sent": "black horse with smallest profile", "ann_id": 55481, "best_split": [1, 5], "split_score": 0.3925659017264777}
+{"sent": "smaller block horse", "ann_id": 55481, "best_split": [1, 5], "split_score": 0.3925659017264777}
+{"sent": "the largest horse with a white stripe on its nose", "ann_id": 54300, "best_split": [3, 2], "split_score": 0.43932333224134545}
+{"sent": "big horse dark white nose", "ann_id": 54300, "best_split": [3, 2], "split_score": 0.43932333224134545}
+{"sent": "largest", "ann_id": 54300, "best_split": [1, 2], "split_score": 0.5324427480708661}

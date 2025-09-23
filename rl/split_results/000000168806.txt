@@ -1,0 +1,6 @@
+{"sent": "person standing", "ann_id": 216746, "best_split": [2, 3], "split_score": 0.44526028424689257}
+{"sent": "standing", "ann_id": 216746, "best_split": [2, 3], "split_score": 0.44526028424689257}
+{"sent": "woman standing", "ann_id": 216746, "best_split": [2, 3], "split_score": 0.44526028424689257}
+{"sent": "sitting reaching", "ann_id": 184052, "best_split": [1, 5], "split_score": 0.34298001968076514}
+{"sent": "sitting woman", "ann_id": 184052, "best_split": [5, 1], "split_score": 0.20947308963047906}
+{"sent": "guy in white shirt reaching across table", "ann_id": 184052, "best_split": [1, 5], "split_score": 0.34298001968076514}

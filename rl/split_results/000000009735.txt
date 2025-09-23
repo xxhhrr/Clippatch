@@ -1,0 +1,5 @@
+{"sent": "red notebook two faces", "ann_id": 1651788, "best_split": [3, 3], "split_score": 0.41824781382309056}
+{"sent": "book with women on it", "ann_id": 1651788, "best_split": [3, 3], "split_score": 0.41824781382309056}
+{"sent": "says fluffy upsidedown", "ann_id": 1137794, "best_split": [3, 1], "split_score": 0.10473235065362228}
+{"sent": "black box with writing", "ann_id": 1137794, "best_split": [2, 3], "split_score": 0.39731285983717457}
+{"sent": "blue 4pm", "ann_id": 1137794, "best_split": [2, 1], "split_score": 0.13392857142323308}

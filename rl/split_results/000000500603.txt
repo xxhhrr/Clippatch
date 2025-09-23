@@ -1,0 +1,6 @@
+{"sent": "man with v letter in t shirt", "ann_id": 481080, "best_split": [1, 5], "split_score": 0.5198261813878445}
+{"sent": "man whos not smiling", "ann_id": 481080, "best_split": [1, 3], "split_score": 0.2840377658041102}
+{"sent": "v on shirt not n", "ann_id": 481080, "best_split": [1, 5], "split_score": 0.5198261813878445}
+{"sent": "player smiling", "ann_id": 477104, "best_split": [1, 5], "split_score": 0.47999999996883114}
+{"sent": "one smiling", "ann_id": 477104, "best_split": [1, 2], "split_score": 0.4665226781677521}
+{"sent": "player closer to side fence", "ann_id": 477104, "best_split": [3, 1], "split_score": 0.23927101703874734}

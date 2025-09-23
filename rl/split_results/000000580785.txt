@@ -1,0 +1,6 @@
+{"sent": "woman sitting in chair", "ann_id": 1746473, "best_split": [1, 2], "split_score": 0.4089821950435496}
+{"sent": "so sorry tiredlady in white pants", "ann_id": 1746473, "best_split": [1, 3], "split_score": 0.44789887254663907}
+{"sent": "adult in chair", "ann_id": 1746473, "best_split": [1, 2], "split_score": 0.4089821950435496}
+{"sent": "the kid", "ann_id": 1741008, "best_split": [3, 3], "split_score": 0.5400059048508996}
+{"sent": "baby", "ann_id": 1741008, "best_split": [3, 3], "split_score": 0.5400059048508996}
+{"sent": "kid", "ann_id": 1741008, "best_split": [3, 3], "split_score": 0.5400059048508996}

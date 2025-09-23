@@ -1,0 +1,6 @@
+{"sent": "yellow", "ann_id": 1574248, "best_split": [2, 2], "split_score": 0.48274101955702536}
+{"sent": "yellow frosted donut", "ann_id": 1574248, "best_split": [1, 2], "split_score": 0.33708243029904034}
+{"sent": "donut with yellow", "ann_id": 1574248, "best_split": [1, 2], "split_score": 0.33708243029904034}
+{"sent": "biggest donut", "ann_id": 1078450, "best_split": [2, 1], "split_score": 0.6238786986000844}
+{"sent": "closest donut", "ann_id": 1078450, "best_split": [2, 1], "split_score": 0.6238786986000844}
+{"sent": "glazed donut", "ann_id": 1078450, "best_split": [2, 1], "split_score": 0.6238786986000844}

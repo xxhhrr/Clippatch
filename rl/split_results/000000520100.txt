@@ -1,0 +1,9 @@
+{"sent": "part of tray with carrots", "ann_id": 1041281, "best_split": [2, 3], "split_score": 0.40998875859884465}
+{"sent": "container with carrots", "ann_id": 1041281, "best_split": [2, 3], "split_score": 0.40998875859884465}
+{"sent": "carrots", "ann_id": 1041281, "best_split": [2, 3], "split_score": 0.40998875859884465}
+{"sent": "celery and cucumbers", "ann_id": 1041210, "best_split": [3, 3], "split_score": 0.5991167810845048}
+{"sent": "smallest container", "ann_id": 1041210, "best_split": [3, 1], "split_score": 0.2832837090449126}
+{"sent": "celery", "ann_id": 1041210, "best_split": [3, 3], "split_score": 0.5991167810845048}
+{"sent": "rice", "ann_id": 1039382, "best_split": [2, 2], "split_score": 0.532579215417571}
+{"sent": "container of rice", "ann_id": 1039382, "best_split": [2, 2], "split_score": 0.532579215417571}
+{"sent": "rice", "ann_id": 1039382, "best_split": [2, 2], "split_score": 0.532579215417571}

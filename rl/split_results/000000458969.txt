@@ -1,0 +1,14 @@
+{"sent": "girl with black clothes", "ann_id": 228051, "best_split": [3, 3], "split_score": 0.4593895498629863}
+{"sent": "little boy in black", "ann_id": 228051, "best_split": [3, 2], "split_score": 0.33687405156137384}
+{"sent": "girl", "ann_id": 228051, "best_split": [3, 3], "split_score": 0.4593895498629863}
+{"sent": "boy in gray tshirt", "ann_id": 215907, "best_split": [3, 2], "split_score": 0.4217370364085939}
+{"sent": "gray shirt", "ann_id": 215907, "best_split": [3, 2], "split_score": 0.4217370364085939}
+{"sent": "green shirt", "ann_id": 215907, "best_split": [3, 2], "split_score": 0.4217370364085939}
+{"sent": "boy in red shirt", "ann_id": 210554, "best_split": [2, 2], "split_score": 0.5176165162246498}
+{"sent": "red shirt", "ann_id": 210554, "best_split": [2, 2], "split_score": 0.5176165162246498}
+{"sent": "red shirt", "ann_id": 210554, "best_split": [2, 2], "split_score": 0.5176165162246498}
+{"sent": "television not on", "ann_id": 124636, "best_split": [3, 1], "split_score": 0.22185430462264344}
+{"sent": "screen off", "ann_id": 124636, "best_split": [3, 1], "split_score": 0.22185430462264344}
+{"sent": "tv by kid in red", "ann_id": 124636, "best_split": [3, 1], "split_score": 0.22185430462264344}
+{"sent": "tv kids are watching", "ann_id": 33575, "best_split": [3, 3], "split_score": 0.6172388603693866}
+{"sent": "tv number 3", "ann_id": 33575, "best_split": [3, 3], "split_score": 0.6172388603693866}

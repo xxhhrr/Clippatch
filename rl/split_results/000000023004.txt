@@ -1,0 +1,9 @@
+{"sent": "the back of horse number 6", "ann_id": 2230087, "best_split": [2, 2], "split_score": 0.528262017926026}
+{"sent": "obscured horse", "ann_id": 2230087, "best_split": [2, 2], "split_score": 0.528262017926026}
+{"sent": "6 horse", "ann_id": 2230087, "best_split": [2, 2], "split_score": 0.528262017926026}
+{"sent": "all white man", "ann_id": 209917, "best_split": [3, 3], "split_score": 0.6891475520901835}
+{"sent": "jockey 6", "ann_id": 209917, "best_split": [1, 3], "split_score": 0.23763428165283706}
+{"sent": "red jockey", "ann_id": 203542, "best_split": [2, 2], "split_score": 0.8155293366696803}
+{"sent": "jockey closest to cam", "ann_id": 203542, "best_split": [2, 2], "split_score": 0.8155293366696803}
+{"sent": "the horse that is number 4", "ann_id": 54535, "best_split": [1, 2], "split_score": 0.4735889110790545}
+{"sent": "main horse", "ann_id": 54535, "best_split": [1, 2], "split_score": 0.4735889110790545}

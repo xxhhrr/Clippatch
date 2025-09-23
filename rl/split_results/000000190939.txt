@@ -1,0 +1,12 @@
+{"sent": "table under plate", "ann_id": 1617616, "best_split": [1, 2], "split_score": 0.39589716582736745}
+{"sent": "black table around plate", "ann_id": 1617616, "best_split": [1, 2], "split_score": 0.39589716582736745}
+{"sent": "place mat with plate", "ann_id": 1617616, "best_split": [1, 2], "split_score": 0.39589716582736745}
+{"sent": "the clear cup of water", "ann_id": 673271, "best_split": [2, 3], "split_score": 0.47547169805713774}
+{"sent": "clear cup", "ann_id": 673271, "best_split": [2, 3], "split_score": 0.47547169805713774}
+{"sent": "water glass", "ann_id": 673271, "best_split": [2, 3], "split_score": 0.47547169805713774}
+{"sent": "white and blue cup", "ann_id": 670451, "best_split": [3, 2], "split_score": 0.38368725864096437}
+{"sent": "white mug with stripes", "ann_id": 670451, "best_split": [3, 2], "split_score": 0.38368725864096437}
+{"sent": "mug", "ann_id": 670451, "best_split": [3, 2], "split_score": 0.38368725864096437}
+{"sent": "tapletop hole for umbrella", "ann_id": 2131355, "best_split": [2, 1], "split_score": 0.4445153061047307}
+{"sent": "hole in table", "ann_id": 2131355, "best_split": [2, 2], "split_score": 0.6236809647373112}
+{"sent": "bare spot between hideous striped cup and glass on table", "ann_id": 2131355, "best_split": [2, 3], "split_score": 0.453784026289726}

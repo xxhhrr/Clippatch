@@ -1,0 +1,6 @@
+{"sent": "yellow light", "ann_id": 406898, "best_split": [1, 5], "split_score": 0.5610935155391654}
+{"sent": "amber light", "ann_id": 406898, "best_split": [1, 5], "split_score": 0.5610935155391654}
+{"sent": "stop light", "ann_id": 406898, "best_split": [1, 5], "split_score": 0.5610935155391654}
+{"sent": "hand on sign", "ann_id": 404956, "best_split": [3, 3], "split_score": 0.5010323467823413}
+{"sent": "red hand", "ann_id": 404956, "best_split": [3, 3], "split_score": 0.5010323467823413}
+{"sent": "hand", "ann_id": 404956, "best_split": [3, 3], "split_score": 0.5010323467823413}

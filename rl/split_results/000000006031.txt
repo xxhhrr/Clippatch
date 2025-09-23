@@ -1,0 +1,6 @@
+{"sent": "blurry woman foreground", "ann_id": 537323, "best_split": [3, 2], "split_score": 0.6633053220757659}
+{"sent": "woman", "ann_id": 537323, "best_split": [3, 2], "split_score": 0.6633053220757659}
+{"sent": "woman", "ann_id": 537323, "best_split": [3, 2], "split_score": 0.6633053220757659}
+{"sent": "main guy", "ann_id": 523780, "best_split": [1, 3], "split_score": 0.3917180380463777}
+{"sent": "man standing", "ann_id": 523780, "best_split": [1, 3], "split_score": 0.3917180380463777}
+{"sent": "main speaker", "ann_id": 523780, "best_split": [3, 1], "split_score": 0.3917180380463777}

@@ -1,0 +1,11 @@
+{"sent": "chair with mainly brown pillow", "ann_id": 1949930, "best_split": [3, 1], "split_score": 0.20122358174631683}
+{"sent": "pillow with a flowery design", "ann_id": 1949930, "best_split": [2, 2], "split_score": 0.4003507652742067}
+{"sent": "sofa near stone wall", "ann_id": 1949930, "best_split": [2, 2], "split_score": 0.4003507652742067}
+{"sent": "brown couch with brown pillow", "ann_id": 386069, "best_split": [1, 5], "split_score": 0.3679898033168254}
+{"sent": "chair with red cushion", "ann_id": 386069, "best_split": [2, 3], "split_score": 0.3877088058993907}
+{"sent": "pink and white pillow", "ann_id": 386069, "best_split": [2, 2], "split_score": 0.41214923466102127}
+{"sent": "chair with cushion with squares", "ann_id": 377881, "best_split": [2, 3], "split_score": 0.3971759209685555}
+{"sent": "chair with pillow with squares", "ann_id": 377881, "best_split": [2, 3], "split_score": 0.3971759209685555}
+{"sent": "chair with block pillow", "ann_id": 113556, "best_split": [2, 3], "split_score": 0.39865149595463006}
+{"sent": "chair with pillow that has 9 squares", "ann_id": 113556, "best_split": [2, 3], "split_score": 0.39865149595463006}
+{"sent": "chair 1", "ann_id": 113556, "best_split": [5, 1], "split_score": 0.20761470873677068}

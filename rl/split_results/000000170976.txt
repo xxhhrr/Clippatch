@@ -1,0 +1,5 @@
+{"sent": "oven closest to us", "ann_id": 1126744, "best_split": [2, 1], "split_score": 0.1388711734638524}
+{"sent": "built in dishwasher", "ann_id": 1126744, "best_split": [2, 1], "split_score": 0.1388711734638524}
+{"sent": "stove", "ann_id": 1122878, "best_split": [3, 3], "split_score": 0.20805970146148361}
+{"sent": "stove", "ann_id": 1122878, "best_split": [3, 3], "split_score": 0.20805970146148361}
+{"sent": "id fry eggs on this", "ann_id": 1122878, "best_split": [2, 3], "split_score": 0.2894301252909163}

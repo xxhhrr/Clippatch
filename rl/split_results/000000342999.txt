@@ -1,0 +1,5 @@
+{"sent": "3 banana slices upper right", "ann_id": 1045473, "best_split": [2, 3], "split_score": 0.17877559503390753}
+{"sent": "banana between 12 o clock and 1 o clock", "ann_id": 1045473, "best_split": [2, 3], "split_score": 0.17877559503390753}
+{"sent": "bananas on closer bread", "ann_id": 1041630, "best_split": [2, 1], "split_score": 0.478794148053835}
+{"sent": "bannas on closer toast", "ann_id": 1041630, "best_split": [2, 1], "split_score": 0.478794148053835}
+{"sent": "bananas closest to us", "ann_id": 1041630, "best_split": [2, 1], "split_score": 0.478794148053835}

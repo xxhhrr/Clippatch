@@ -1,0 +1,9 @@
+{"sent": "chair with blue shirt", "ann_id": 382430, "best_split": [3, 1], "split_score": 0.3262186800411475}
+{"sent": "chair that the blue shirt girl sits on", "ann_id": 382430, "best_split": [3, 1], "split_score": 0.3262186800411475}
+{"sent": "chair the girl with a headband is sitting on", "ann_id": 382430, "best_split": [3, 1], "split_score": 0.3262186800411475}
+{"sent": "the chair the man in white shirt is sitting", "ann_id": 379728, "best_split": [2, 3], "split_score": 0.4005354440227522}
+{"sent": "chair with guy in stripes", "ann_id": 379728, "best_split": [2, 3], "split_score": 0.4005354440227522}
+{"sent": "pink chair with man looking at camera", "ann_id": 379728, "best_split": [2, 3], "split_score": 0.4005354440227522}
+{"sent": "girl in blue", "ann_id": 1268953, "best_split": [3, 3], "split_score": 0.34776999628199684}
+{"sent": "little girl", "ann_id": 1268953, "best_split": [3, 2], "split_score": 0.4668573350885887}
+{"sent": "girl in blue tanktawp wearing headband", "ann_id": 1268953, "best_split": [3, 2], "split_score": 0.4668573350885887}

@@ -1,0 +1,6 @@
+{"sent": "tan car", "ann_id": 1787770, "best_split": [2, 3], "split_score": 0.7669531995263905}
+{"sent": "mini van", "ann_id": 1787770, "best_split": [2, 3], "split_score": 0.7669531995263905}
+{"sent": "whitish car", "ann_id": 1787770, "best_split": [2, 3], "split_score": 0.7669531995263905}
+{"sent": "tail of red car", "ann_id": 1786997, "best_split": [1, 5], "split_score": 0.46025104598133787}
+{"sent": "red car only thing showing is back and back tire", "ann_id": 1786997, "best_split": [2, 3], "split_score": 0.6148981025281215}
+{"sent": "dark red car", "ann_id": 1786997, "best_split": [1, 5], "split_score": 0.46025104598133787}

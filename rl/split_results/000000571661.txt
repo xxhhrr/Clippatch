@@ -1,0 +1,9 @@
+{"sent": "closest red shirt on side", "ann_id": 556260, "best_split": [2, 3], "split_score": 0.6016822429344222}
+{"sent": "corner person", "ann_id": 556260, "best_split": [2, 1], "split_score": 0.07273129563255899}
+{"sent": "lady overlooking two others", "ann_id": 556260, "best_split": [2, 3], "split_score": 0.6016822429344222}
+{"sent": "red by bananas", "ann_id": 503603, "best_split": [3, 1], "split_score": 0.12664629062925}
+{"sent": "young girl sitting", "ann_id": 503603, "best_split": [3, 3], "split_score": 0.33052936906011177}
+{"sent": "middle person", "ann_id": 503603, "best_split": [1, 5], "split_score": 0.36330718161704817}
+{"sent": "gray hoddie", "ann_id": 1715849, "best_split": [1, 5], "split_score": 0.4045853000284572}
+{"sent": "hoodie", "ann_id": 1715849, "best_split": [1, 5], "split_score": 0.4045853000284572}
+{"sent": "woman wearing hoodie", "ann_id": 1715849, "best_split": [1, 5], "split_score": 0.4045853000284572}

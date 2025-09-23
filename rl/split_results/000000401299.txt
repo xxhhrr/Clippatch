@@ -1,0 +1,6 @@
+{"sent": "gray car behind black one", "ann_id": 1778697, "best_split": [3, 3], "split_score": 0.5734406437744248}
+{"sent": "car 2", "ann_id": 1778697, "best_split": [3, 3], "split_score": 0.5734406437744248}
+{"sent": "car closest to trash can", "ann_id": 1778697, "best_split": [3, 3], "split_score": 0.5734406437744248}
+{"sent": "closest car", "ann_id": 1776265, "best_split": [2, 2], "split_score": 0.6905367950285346}
+{"sent": "closest car", "ann_id": 1776265, "best_split": [2, 2], "split_score": 0.6905367950285346}
+{"sent": "closest", "ann_id": 1776265, "best_split": [1, 2], "split_score": 0.5928150455875665}

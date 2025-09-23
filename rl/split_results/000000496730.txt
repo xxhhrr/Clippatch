@@ -1,0 +1,5 @@
+{"sent": "dog", "ann_id": 6604, "best_split": [2, 1], "split_score": 0.5587401943435489}
+{"sent": "sleeping dog face", "ann_id": 6604, "best_split": [2, 1], "split_score": 0.5587401943435489}
+{"sent": "dog", "ann_id": 6587, "best_split": [1, 2], "split_score": 0.492195024067171}
+{"sent": "dog", "ann_id": 6587, "best_split": [1, 2], "split_score": 0.492195024067171}
+{"sent": "dog face", "ann_id": 6587, "best_split": [1, 2], "split_score": 0.492195024067171}

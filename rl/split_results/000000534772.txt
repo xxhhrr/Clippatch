@@ -1,0 +1,15 @@
+{"sent": "pale yellow shirt", "ann_id": 1333061, "best_split": [3, 1], "split_score": 0.4904922307676577}
+{"sent": "lady yellow shirt glasses", "ann_id": 1333061, "best_split": [3, 2], "split_score": 0.7165142549115551}
+{"sent": "lady in yellow with sunglasses", "ann_id": 1333061, "best_split": [3, 2], "split_score": 0.7165142549115551}
+{"sent": "women in black shirt", "ann_id": 1333042, "best_split": [2, 2], "split_score": 0.5575691297799118}
+{"sent": "black shirt lady with shades", "ann_id": 1333042, "best_split": [2, 2], "split_score": 0.5575691297799118}
+{"sent": "lady black shirt", "ann_id": 1333042, "best_split": [2, 2], "split_score": 0.5575691297799118}
+{"sent": "scared blue man", "ann_id": 1329583, "best_split": [3, 3], "split_score": 0.5289288128533827}
+{"sent": "man in blue crouching", "ann_id": 1329583, "best_split": [3, 3], "split_score": 0.5289288128533827}
+{"sent": "darker blue shirt", "ann_id": 1329583, "best_split": [3, 3], "split_score": 0.5289288128533827}
+{"sent": "open mouth black hat", "ann_id": 1313484, "best_split": [3, 1], "split_score": 0.3150515685262649}
+{"sent": "mouth wide open", "ann_id": 1313484, "best_split": [5, 1], "split_score": 0.26674274300929013}
+{"sent": "the man with sunglasses and hands in air", "ann_id": 1313484, "best_split": [2, 3], "split_score": 0.7391257651445466}
+{"sent": "red shirt and hat", "ann_id": 2151138, "best_split": [2, 3], "split_score": 0.6255355612012066}
+{"sent": "man in red shirt", "ann_id": 2151138, "best_split": [2, 3], "split_score": 0.6255355612012066}
+{"sent": "man visible with red cap and his face", "ann_id": 2151138, "best_split": [2, 3], "split_score": 0.6255355612012066}

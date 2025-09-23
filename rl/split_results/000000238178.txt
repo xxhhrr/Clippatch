@@ -1,0 +1,9 @@
+{"sent": "person with dc shirt", "ann_id": 1230631, "best_split": [1, 3], "split_score": 0.5892652881394955}
+{"sent": "dc rider", "ann_id": 1230631, "best_split": [1, 3], "split_score": 0.5892652881394955}
+{"sent": "white shirt", "ann_id": 1230631, "best_split": [1, 3], "split_score": 0.5892652881394955}
+{"sent": "light", "ann_id": 151406, "best_split": [1, 5], "split_score": 0.19824498565560128}
+{"sent": "motorcyle at 10 o clock", "ann_id": 151406, "best_split": [1, 2], "split_score": 0.14054528060664281}
+{"sent": "bike lightbright", "ann_id": 151406, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "closest bike", "ann_id": 150342, "best_split": [1, 3], "split_score": 0.4666425673588528}
+{"sent": "handlebars on bike for man in white shirt", "ann_id": 150342, "best_split": [1, 3], "split_score": 0.4666425673588528}
+{"sent": "motorcyce closest to us", "ann_id": 150342, "best_split": [1, 3], "split_score": 0.4666425673588528}

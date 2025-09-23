@@ -1,0 +1,6 @@
+{"sent": "sink cats in", "ann_id": 1134615, "best_split": [3, 1], "split_score": 0.49170701553045704}
+{"sent": "sink around cat", "ann_id": 1134615, "best_split": [3, 1], "split_score": 0.49170701553045704}
+{"sent": "the sink that the cat is in that side of sink", "ann_id": 1134615, "best_split": [3, 1], "split_score": 0.49170701553045704}
+{"sent": "sink that does not have a cat in it", "ann_id": 1134251, "best_split": [3, 2], "split_score": 0.5560193687964585}
+{"sent": "empty sink", "ann_id": 1134251, "best_split": [3, 2], "split_score": 0.5560193687964585}
+{"sent": "empty sink", "ann_id": 1134251, "best_split": [3, 2], "split_score": 0.5560193687964585}

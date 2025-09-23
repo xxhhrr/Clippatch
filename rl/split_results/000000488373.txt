@@ -1,0 +1,14 @@
+{"sent": "boy in black", "ann_id": 476109, "best_split": [1, 2], "split_score": 0.6349866462939723}
+{"sent": "child with jrs garage shirt on", "ann_id": 476109, "best_split": [1, 2], "split_score": 0.6349866462939723}
+{"sent": "boy in black", "ann_id": 476109, "best_split": [1, 2], "split_score": 0.6349866462939723}
+{"sent": "leg", "ann_id": 455118, "best_split": [1, 5], "split_score": 0.362723214248912}
+{"sent": "white panted leg", "ann_id": 455118, "best_split": [1, 5], "split_score": 0.362723214248912}
+{"sent": "persons legs white pants", "ann_id": 455118, "best_split": [1, 5], "split_score": 0.362723214248912}
+{"sent": "red in background", "ann_id": 1962121, "best_split": [3, 2], "split_score": 0.7083735520380823}
+{"sent": "red table", "ann_id": 1962121, "best_split": [1, 2], "split_score": 0.23401626274577422}
+{"sent": "red table", "ann_id": 1962121, "best_split": [1, 2], "split_score": 0.23401626274577422}
+{"sent": "which one is wearing a bid", "ann_id": 436014, "best_split": [1, 2], "split_score": 0.4946588010006912}
+{"sent": "child with green bib", "ann_id": 436014, "best_split": [1, 5], "split_score": 0.405504355485071}
+{"sent": "blue table", "ann_id": 390285, "best_split": [3, 1], "split_score": 0.8866557733721865}
+{"sent": "plate which is touched by the boy", "ann_id": 390285, "best_split": [3, 1], "split_score": 0.8866557733721865}
+{"sent": "table", "ann_id": 390285, "best_split": [3, 1], "split_score": 0.8866557733721865}

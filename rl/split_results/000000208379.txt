@@ -1,0 +1,6 @@
+{"sent": "little kid", "ann_id": 493975, "best_split": [3, 2], "split_score": 0.31024543625554674}
+{"sent": "babe", "ann_id": 493975, "best_split": [1, 3], "split_score": 0.27821075739417067}
+{"sent": "little boy", "ann_id": 493975, "best_split": [3, 2], "split_score": 0.31024543625554674}
+{"sent": "man kneeling", "ann_id": 488315, "best_split": [1, 5], "split_score": 0.5509785137162325}
+{"sent": "dad", "ann_id": 488315, "best_split": [1, 5], "split_score": 0.5509785137162325}
+{"sent": "man", "ann_id": 488315, "best_split": [1, 5], "split_score": 0.5509785137162325}

@@ -1,0 +1,5 @@
+{"sent": "too low xxx brown boat", "ann_id": 178063, "best_split": [2, 2], "split_score": 0.8991363355259765}
+{"sent": "what the man is pushing", "ann_id": 178063, "best_split": [2, 1], "split_score": 0.4816645407971275}
+{"sent": "dark boat", "ann_id": 178063, "best_split": [3, 2], "split_score": 0.6217162871659198}
+{"sent": "farthest boat", "ann_id": 175294, "best_split": [5, 1], "split_score": 0.5136186770071137}
+{"sent": "boat already in the water", "ann_id": 175294, "best_split": [5, 1], "split_score": 0.5136186770071137}

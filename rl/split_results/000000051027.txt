@@ -1,0 +1,5 @@
+{"sent": "chair legs back of dog", "ann_id": 578386, "best_split": [2, 3], "split_score": 0.281368821263861}
+{"sent": "chair legs behind dog", "ann_id": 578386, "best_split": [2, 3], "split_score": 0.281368821263861}
+{"sent": "thing that dog is tied to", "ann_id": 577956, "best_split": [1, 2], "split_score": 0.45101243620651255}
+{"sent": "black bench with leash", "ann_id": 577956, "best_split": [1, 3], "split_score": 0.6826134169472361}
+{"sent": "the chair the lease is on", "ann_id": 577956, "best_split": [1, 3], "split_score": 0.6826134169472361}

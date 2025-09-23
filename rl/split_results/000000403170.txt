@@ -1,0 +1,6 @@
+{"sent": "clear thing in corner", "ann_id": 1792261, "best_split": [3, 3], "split_score": 0.8476928039935958}
+{"sent": "windshield next to flag", "ann_id": 1792261, "best_split": [3, 2], "split_score": 0.5962399283128648}
+{"sent": "motorcycle with windshield closest to flag", "ann_id": 1792261, "best_split": [3, 1], "split_score": 0.30933581047902137}
+{"sent": "bike wheel", "ann_id": 156148, "best_split": [3, 3], "split_score": 0.5588624337700293}
+{"sent": "the motorcycle that you can see the wheel", "ann_id": 156148, "best_split": [3, 3], "split_score": 0.5588624337700293}
+{"sent": "motorcycle tire", "ann_id": 156148, "best_split": [3, 3], "split_score": 0.5588624337700293}

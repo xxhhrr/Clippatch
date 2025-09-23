@@ -1,0 +1,6 @@
+{"sent": "black guy in back", "ann_id": 220582, "best_split": [3, 2], "split_score": 0.4116245830857998}
+{"sent": "white shirt blue jeans", "ann_id": 220582, "best_split": [3, 2], "split_score": 0.4116245830857998}
+{"sent": "guy with watch", "ann_id": 220582, "best_split": [1, 2], "split_score": 0.0037836322868629612}
+{"sent": "bald man", "ann_id": 195640, "best_split": [1, 2], "split_score": 0.7458147321131292}
+{"sent": "man reaching for pizza", "ann_id": 195640, "best_split": [2, 1], "split_score": 0.2734488573508912}
+{"sent": "the guy with glasses", "ann_id": 195640, "best_split": [1, 2], "split_score": 0.7458147321131292}

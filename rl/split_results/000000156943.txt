@@ -1,0 +1,4 @@
+{"sent": "bowl of noodle", "ann_id": 1900795, "best_split": [2, 3], "split_score": 0.4267296168125359}
+{"sent": "soup bowl under bread plate", "ann_id": 1900795, "best_split": [1, 5], "split_score": 0.3052870090403862}
+{"sent": "bowl of soup at 5 o clock", "ann_id": 1898578, "best_split": [2, 1], "split_score": 0.31704400508940356}
+{"sent": "bowl with chopsticks on it and something black in it", "ann_id": 1898578, "best_split": [2, 1], "split_score": 0.31704400508940356}

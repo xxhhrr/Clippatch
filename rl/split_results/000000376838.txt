@@ -1,0 +1,6 @@
+{"sent": "hatless man with back to us", "ann_id": 225828, "best_split": [3, 3], "split_score": 0.2879280179595191}
+{"sent": "no hat", "ann_id": 225828, "best_split": [1, 3], "split_score": 0.25991759857210606}
+{"sent": "guy with no hat", "ann_id": 225828, "best_split": [3, 3], "split_score": 0.2879280179595191}
+{"sent": "guy with hat and whose side is to us", "ann_id": 193103, "best_split": [3, 2], "split_score": 0.21935360487479885}
+{"sent": "closest man with hat", "ann_id": 193103, "best_split": [3, 2], "split_score": 0.21935360487479885}
+{"sent": "man in hat closest to us", "ann_id": 193103, "best_split": [3, 2], "split_score": 0.21935360487479885}

@@ -1,0 +1,6 @@
+{"sent": "thumb", "ann_id": 494638, "best_split": [3, 3], "split_score": 0.5307037895544154}
+{"sent": "hand holding the hot dog", "ann_id": 494638, "best_split": [3, 2], "split_score": 0.42594254932383946}
+{"sent": "hand", "ann_id": 494638, "best_split": [3, 3], "split_score": 0.5307037895544154}
+{"sent": "head", "ann_id": 437431, "best_split": [1, 2], "split_score": 0.40994807322805027}
+{"sent": "hair on head", "ann_id": 437431, "best_split": [3, 2], "split_score": 0.6211701502038806}
+{"sent": "head of hair", "ann_id": 437431, "best_split": [3, 2], "split_score": 0.6211701502038806}

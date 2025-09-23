@@ -1,0 +1,6 @@
+{"sent": "pink dress", "ann_id": 508267, "best_split": [1, 2], "split_score": 0.6374044431454831}
+{"sent": "girl in pink dress", "ann_id": 508267, "best_split": [1, 2], "split_score": 0.6374044431454831}
+{"sent": "pink dress", "ann_id": 508267, "best_split": [1, 2], "split_score": 0.6374044431454831}
+{"sent": "blue dress", "ann_id": 443523, "best_split": [1, 2], "split_score": 0.615550755915784}
+{"sent": "kid in blue", "ann_id": 443523, "best_split": [2, 2], "split_score": 0.38585057143733587}
+{"sent": "girl in blue dress", "ann_id": 443523, "best_split": [1, 2], "split_score": 0.615550755915784}

@@ -1,0 +1,6 @@
+{"sent": "man holding sign", "ann_id": 545456, "best_split": [3, 1], "split_score": 0.37777777776359694}
+{"sent": "guy holding sign", "ann_id": 545456, "best_split": [3, 1], "split_score": 0.37777777776359694}
+{"sent": "man holding stop sign", "ann_id": 545456, "best_split": [1, 2], "split_score": 0.18180867746519058}
+{"sent": "orange b vest", "ann_id": 2206703, "best_split": [1, 5], "split_score": 0.6246056781718645}
+{"sent": "orange vest", "ann_id": 2206703, "best_split": [1, 5], "split_score": 0.6246056781718645}
+{"sent": "orange guy", "ann_id": 2206703, "best_split": [1, 5], "split_score": 0.6246056781718645}

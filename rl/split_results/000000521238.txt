@@ -1,0 +1,6 @@
+{"sent": "arm holding pepsi", "ann_id": 1734638, "best_split": [1, 2], "split_score": 0.6879547291603356}
+{"sent": "hand holding diet pepsi", "ann_id": 1734638, "best_split": [1, 2], "split_score": 0.6879547291603356}
+{"sent": "the hand by the hot dog holding can", "ann_id": 521563, "best_split": [1, 5], "split_score": 0.5834127740199833}
+{"sent": "hand on coke can", "ann_id": 521563, "best_split": [2, 1], "split_score": 0.07785606279709628}
+{"sent": "hand holding coke can", "ann_id": 521563, "best_split": [3, 1], "split_score": 0.19454136990609716}
+{"sent": "guy arm holding diet coke", "ann_id": 521563, "best_split": [3, 1], "split_score": 0.19454136990609716}

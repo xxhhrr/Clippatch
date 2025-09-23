@@ -1,0 +1,6 @@
+{"sent": "chair by tv", "ann_id": 1949453, "best_split": [3, 3], "split_score": 0.807546488390044}
+{"sent": "very bottomish rightish corner", "ann_id": 1949453, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "couch closest to tv", "ann_id": 1949453, "best_split": [3, 3], "split_score": 0.807546488390044}
+{"sent": "couch by table", "ann_id": 97752, "best_split": [2, 2], "split_score": 0.6046790641418207}
+{"sent": "red couch behind chair", "ann_id": 97752, "best_split": [3, 2], "split_score": 0.8881057267744377}
+{"sent": "couch with two cushions", "ann_id": 97752, "best_split": [3, 2], "split_score": 0.8881057267744377}

@@ -1,0 +1,6 @@
+{"sent": "laptop the man is holding", "ann_id": 1101800, "best_split": [5, 1], "split_score": 0.21089890124541708}
+{"sent": "laptop in his hand", "ann_id": 1101800, "best_split": [2, 3], "split_score": 0.42365570780948375}
+{"sent": "laptop held by the guy", "ann_id": 1101800, "best_split": [5, 1], "split_score": 0.21089890124541708}
+{"sent": "laptop that is facing us", "ann_id": 1101606, "best_split": [2, 2], "split_score": 0.6791854006427409}
+{"sent": "black laptop facing us", "ann_id": 1101606, "best_split": [2, 2], "split_score": 0.6791854006427409}
+{"sent": "the laptop with screen showing", "ann_id": 1101606, "best_split": [2, 2], "split_score": 0.6791854006427409}

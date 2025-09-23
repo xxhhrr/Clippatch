@@ -1,0 +1,5 @@
+{"sent": "far zebra", "ann_id": 1412010, "best_split": [1, 2], "split_score": 0.5650111606917645}
+{"sent": "darker zebra", "ann_id": 1412010, "best_split": [1, 2], "split_score": 0.5650111606917645}
+{"sent": "zebra closest to rocks", "ann_id": 1412010, "best_split": [1, 2], "split_score": 0.5650111606917645}
+{"sent": "zebra with head missing", "ann_id": 593005, "best_split": [3, 3], "split_score": 0.4973016419224593}
+{"sent": "lighter zebra", "ann_id": 593005, "best_split": [3, 3], "split_score": 0.4973016419224593}

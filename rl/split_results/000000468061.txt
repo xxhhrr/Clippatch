@@ -1,0 +1,6 @@
+{"sent": "red shirt", "ann_id": 517012, "best_split": [2, 2], "split_score": 0.24503311256346316}
+{"sent": "pink shirt", "ann_id": 517012, "best_split": [2, 2], "split_score": 0.24503311256346316}
+{"sent": "red pink shirt", "ann_id": 517012, "best_split": [2, 2], "split_score": 0.24503311256346316}
+{"sent": "tan shirt", "ann_id": 498675, "best_split": [2, 3], "split_score": 0.34378979044521474}
+{"sent": "white shirt", "ann_id": 498675, "best_split": [1, 5], "split_score": 0.24381725502701365}
+{"sent": "jeans and white striped shirt", "ann_id": 498675, "best_split": [2, 3], "split_score": 0.34378979044521474}

@@ -1,0 +1,10 @@
+{"sent": "oricon", "ann_id": 247020, "best_split": [2, 3], "split_score": 0.2702702702376604}
+{"sent": "motorcycle closest to man with tan pants", "ann_id": 247020, "best_split": [2, 2], "split_score": 0.17857142855719296}
+{"sent": "oricon", "ann_id": 247020, "best_split": [2, 3], "split_score": 0.2702702702376604}
+{"sent": "scooter turned sideways", "ann_id": 247011, "best_split": [2, 2], "split_score": 0.6881377550471829}
+{"sent": "scooter fully visible from its side", "ann_id": 247011, "best_split": [2, 2], "split_score": 0.6881377550471829}
+{"sent": "bike at six o clock", "ann_id": 246964, "best_split": [2, 3], "split_score": 0.8532818531788994}
+{"sent": "black motorcycle next to red", "ann_id": 246964, "best_split": [2, 3], "split_score": 0.8532818531788994}
+{"sent": "black scooter with license plate showing", "ann_id": 246964, "best_split": [2, 3], "split_score": 0.8532818531788994}
+{"sent": "red bike with plain white circle in", "ann_id": 246598, "best_split": [3, 2], "split_score": 0.3985637342461216}
+{"sent": "ga 01 scooter", "ann_id": 246598, "best_split": [3, 2], "split_score": 0.3985637342461216}

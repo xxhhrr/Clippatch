@@ -1,0 +1,15 @@
+{"sent": "behind baseball behind fence", "ann_id": 1705198, "best_split": [3, 1], "split_score": 0.06594996898563417}
+{"sent": "white baseball on bleachers", "ann_id": 1705198, "best_split": [1, 2], "split_score": 0.1613520408098951}
+{"sent": "person in stand baseball over them", "ann_id": 1705198, "best_split": [1, 2], "split_score": 0.1613520408098951}
+{"sent": "pink shirt person sitting behind the fence", "ann_id": 1703213, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "pink shirt", "ann_id": 1703213, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "pink shirt arms folded", "ann_id": 1703213, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "guy in the light colored buttonup shirt watching the game", "ann_id": 1694647, "best_split": [3, 3], "split_score": 0.3208709353501116}
+{"sent": "sitting man light green shirt", "ann_id": 1694647, "best_split": [2, 3], "split_score": 0.3082191780486824}
+{"sent": "man in light colored jacket behind fence", "ann_id": 1694647, "best_split": [3, 3], "split_score": 0.3208709353501116}
+{"sent": "catcher", "ann_id": 1683827, "best_split": [2, 2], "split_score": 0.2671935662599006}
+{"sent": "catcher", "ann_id": 1683827, "best_split": [2, 2], "split_score": 0.2671935662599006}
+{"sent": "catcher", "ann_id": 1683827, "best_split": [2, 2], "split_score": 0.2671935662599006}
+{"sent": "player not catcher", "ann_id": 1227858, "best_split": [2, 3], "split_score": 0.5400279263974833}
+{"sent": "batter", "ann_id": 1227858, "best_split": [2, 3], "split_score": 0.5400279263974833}
+{"sent": "10", "ann_id": 1227858, "best_split": [2, 3], "split_score": 0.5400279263974833}

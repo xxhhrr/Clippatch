@@ -1,0 +1,12 @@
+{"sent": "hot dog near the cup and jar", "ann_id": 1567492, "best_split": [3, 2], "split_score": 0.5568480299665246}
+{"sent": "hot dog by big jar", "ann_id": 1567492, "best_split": [2, 2], "split_score": 0.2714634146175937}
+{"sent": "highest dog", "ann_id": 1567492, "best_split": [3, 2], "split_score": 0.5568480299665246}
+{"sent": "hot dog farthest away from brown container", "ann_id": 1069080, "best_split": [3, 2], "split_score": 0.5336821451493066}
+{"sent": "hotdog closer to you", "ann_id": 1069080, "best_split": [3, 2], "split_score": 0.5336821451493066}
+{"sent": "lowest hotdog", "ann_id": 1069080, "best_split": [3, 2], "split_score": 0.5336821451493066}
+{"sent": "tallest cup", "ann_id": 680846, "best_split": [2, 1], "split_score": 0.49194834181712577}
+{"sent": "the container with the label", "ann_id": 680846, "best_split": [2, 1], "split_score": 0.49194834181712577}
+{"sent": "biggest bottle", "ann_id": 680846, "best_split": [2, 1], "split_score": 0.49194834181712577}
+{"sent": "disposable cup", "ann_id": 671911, "best_split": [2, 2], "split_score": 0.5166564060115838}
+{"sent": "cup", "ann_id": 671911, "best_split": [2, 2], "split_score": 0.5166564060115838}
+{"sent": "the cup", "ann_id": 671911, "best_split": [2, 2], "split_score": 0.5166564060115838}

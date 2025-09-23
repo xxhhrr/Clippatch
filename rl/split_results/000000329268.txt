@@ -1,0 +1,7 @@
+{"sent": "animal whose head is completely hidden", "ann_id": 596742, "best_split": [3, 2], "split_score": 0.3611839062462476}
+{"sent": "bending over nearest edge", "ann_id": 596742, "best_split": [2, 2], "split_score": 0.47542749424562897}
+{"sent": "giraffe over another", "ann_id": 595818, "best_split": [1, 3], "split_score": 0.3126021003318202}
+{"sent": "number 2 giraffe", "ann_id": 595818, "best_split": [1, 3], "split_score": 0.3126021003318202}
+{"sent": "tallest giraffe", "ann_id": 595159, "best_split": [2, 2], "split_score": 0.38056545890139437}
+{"sent": "taller giraffe", "ann_id": 595159, "best_split": [2, 2], "split_score": 0.38056545890139437}
+{"sent": "giraffe holding head highest", "ann_id": 595159, "best_split": [2, 2], "split_score": 0.38056545890139437}

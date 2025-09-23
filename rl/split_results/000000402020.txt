@@ -1,0 +1,6 @@
+{"sent": "the sandwich not fully visible", "ann_id": 1552658, "best_split": [2, 3], "split_score": 0.4340322580295135}
+{"sent": "sandwich before the salad", "ann_id": 1552658, "best_split": [2, 3], "split_score": 0.4340322580295135}
+{"sent": "half of the sanwhich that is obsrtucted", "ann_id": 1552658, "best_split": [2, 3], "split_score": 0.4340322580295135}
+{"sent": "larger half of sandwich", "ann_id": 308665, "best_split": [2, 2], "split_score": 0.42379709484658434}
+{"sent": "sandwich closer tomyou", "ann_id": 308665, "best_split": [2, 2], "split_score": 0.42379709484658434}
+{"sent": "closest part of sandwhich", "ann_id": 308665, "best_split": [2, 2], "split_score": 0.42379709484658434}

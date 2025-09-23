@@ -1,0 +1,9 @@
+{"sent": "half person dark gray shirt", "ann_id": 224822, "best_split": [2, 1], "split_score": 0.1982142857079651}
+{"sent": "gray shirt", "ann_id": 224822, "best_split": [2, 1], "split_score": 0.1982142857079651}
+{"sent": "greay shirt half hidden", "ann_id": 224822, "best_split": [2, 1], "split_score": 0.1982142857079651}
+{"sent": "black shirt woman", "ann_id": 218514, "best_split": [1, 2], "split_score": 0.3053651147837466}
+{"sent": "all black", "ann_id": 218514, "best_split": [1, 5], "split_score": 0.4829834066641565}
+{"sent": "all black woman", "ann_id": 218514, "best_split": [1, 5], "split_score": 0.4829834066641565}
+{"sent": "man in brown shirt", "ann_id": 185992, "best_split": [1, 3], "split_score": 0.6783008036349999}
+{"sent": "brown shirt", "ann_id": 185992, "best_split": [1, 3], "split_score": 0.6783008036349999}
+{"sent": "man in brown", "ann_id": 185992, "best_split": [1, 3], "split_score": 0.6783008036349999}

@@ -1,0 +1,9 @@
+{"sent": "smaller elephant 3 o clock", "ann_id": 1409133, "best_split": [1, 5], "split_score": 0.3449675324325317}
+{"sent": "baby on ri ght", "ann_id": 1409133, "best_split": [3, 2], "split_score": 0.30913978491161065}
+{"sent": "small elephant facing us", "ann_id": 1409133, "best_split": [1, 5], "split_score": 0.3449675324325317}
+{"sent": "dark elephant", "ann_id": 583885, "best_split": [3, 1], "split_score": 0.199347547465959}
+{"sent": "little one next to tree with sign", "ann_id": 583885, "best_split": [1, 2], "split_score": 0.15991709183036046}
+{"sent": "elephant by the bench", "ann_id": 583885, "best_split": [3, 1], "split_score": 0.199347547465959}
+{"sent": "butt", "ann_id": 583008, "best_split": [2, 3], "split_score": 0.47240915204639894}
+{"sent": "big elephant", "ann_id": 583008, "best_split": [2, 3], "split_score": 0.47240915204639894}
+{"sent": "butt", "ann_id": 583008, "best_split": [2, 3], "split_score": 0.47240915204639894}

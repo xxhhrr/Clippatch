@@ -1,0 +1,6 @@
+{"sent": "little girl", "ann_id": 1204326, "best_split": [1, 5], "split_score": 0.4048522102795676}
+{"sent": "girl", "ann_id": 1204326, "best_split": [1, 5], "split_score": 0.4048522102795676}
+{"sent": "girl", "ann_id": 1204326, "best_split": [1, 5], "split_score": 0.4048522102795676}
+{"sent": "lady in chair not kid", "ann_id": 503272, "best_split": [1, 2], "split_score": 0.4566725127368992}
+{"sent": "person in back", "ann_id": 503272, "best_split": [1, 3], "split_score": 0.6911800192633216}
+{"sent": "jeans", "ann_id": 503272, "best_split": [1, 3], "split_score": 0.6911800192633216}

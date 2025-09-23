@@ -1,0 +1,6 @@
+{"sent": "haha red jacket", "ann_id": 472208, "best_split": [1, 2], "split_score": 0.5219626913057254}
+{"sent": "red", "ann_id": 472208, "best_split": [1, 2], "split_score": 0.5219626913057254}
+{"sent": "adult red jacket", "ann_id": 472208, "best_split": [1, 2], "split_score": 0.5219626913057254}
+{"sent": "girl on skis", "ann_id": 428026, "best_split": [2, 3], "split_score": 0.3623499141978613}
+{"sent": "little one", "ann_id": 428026, "best_split": [3, 3], "split_score": 0.4169530354500353}
+{"sent": "kid", "ann_id": 428026, "best_split": [3, 3], "split_score": 0.4169530354500353}

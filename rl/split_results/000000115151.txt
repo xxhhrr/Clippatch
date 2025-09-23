@@ -1,0 +1,3 @@
+{"sent": "bike closest to us", "ann_id": 152620, "best_split": [1, 3], "split_score": 0.45651487760877696}
+{"sent": "main bike no helmet", "ann_id": 152620, "best_split": [1, 2], "split_score": 0.4610776966953984}
+{"sent": "full bike", "ann_id": 152620, "best_split": [1, 2], "split_score": 0.4610776966953984}

@@ -1,0 +1,5 @@
+{"sent": "green shirt looking at kite", "ann_id": 499408, "best_split": [2, 2], "split_score": 0.2651364953282647}
+{"sent": "blue shirt close to us", "ann_id": 499408, "best_split": [3, 2], "split_score": 0.39252652964636187}
+{"sent": "guy with arm near eyes in black shirt", "ann_id": 495465, "best_split": [2, 2], "split_score": 0.8769132652362155}
+{"sent": "guy shielding eyes", "ann_id": 495465, "best_split": [2, 2], "split_score": 0.8769132652362155}
+{"sent": "black sleeve", "ann_id": 495465, "best_split": [2, 2], "split_score": 0.8769132652362155}

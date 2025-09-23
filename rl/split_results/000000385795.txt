@@ -1,0 +1,9 @@
+{"sent": "kid running", "ann_id": 567678, "best_split": [1, 2], "split_score": 0.4469387754939162}
+{"sent": "black kid running", "ann_id": 567678, "best_split": [1, 2], "split_score": 0.4469387754939162}
+{"sent": "black kid in orange shirt", "ann_id": 567678, "best_split": [1, 2], "split_score": 0.4469387754939162}
+{"sent": "boy farthest from the ball", "ann_id": 566919, "best_split": [1, 2], "split_score": 0.2640306122343738}
+{"sent": "orange guy furhter from ball", "ann_id": 566919, "best_split": [3, 3], "split_score": 0.35878719816296606}
+{"sent": "my bad wasnt very clear scrawny orange shirt", "ann_id": 566919, "best_split": [3, 3], "split_score": 0.35878719816296606}
+{"sent": "white shirt", "ann_id": 557165, "best_split": [1, 2], "split_score": 0.6399473851785735}
+{"sent": "white girl in light blue", "ann_id": 557165, "best_split": [1, 2], "split_score": 0.6399473851785735}
+{"sent": "speed up girl running", "ann_id": 557165, "best_split": [1, 2], "split_score": 0.6399473851785735}

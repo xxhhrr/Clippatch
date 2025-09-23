@@ -1,0 +1,6 @@
+{"sent": "red bike 2", "ann_id": 151022, "best_split": [1, 2], "split_score": 0.17235331631966067}
+{"sent": "cant give location they will cut us off smaller red one", "ann_id": 151022, "best_split": [2, 3], "split_score": 0.5217181466551981}
+{"sent": "bike next to bike with white wheel guard", "ann_id": 151022, "best_split": [2, 3], "split_score": 0.5217181466551981}
+{"sent": "close bike", "ann_id": 148484, "best_split": [1, 2], "split_score": 0.40776699028116287}
+{"sent": "closest bike", "ann_id": 148484, "best_split": [1, 2], "split_score": 0.40776699028116287}
+{"sent": "main bike", "ann_id": 148484, "best_split": [1, 2], "split_score": 0.40776699028116287}

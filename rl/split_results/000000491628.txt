@@ -1,0 +1,7 @@
+{"sent": "third one", "ann_id": 2194817, "best_split": [1, 3], "split_score": 0.13897644563361933}
+{"sent": "gray thing in position 2", "ann_id": 2194817, "best_split": [3, 1], "split_score": 0.1251132246305982}
+{"sent": "port a potty next to one with vent up", "ann_id": 2194817, "best_split": [3, 3], "split_score": 0.2273045180826263}
+{"sent": "the third portapotty on the cart", "ann_id": 2194803, "best_split": [2, 3], "split_score": 0.262368815564107}
+{"sent": "count 1from 300 side", "ann_id": 2194803, "best_split": [1, 5], "split_score": 0.34150261145625727}
+{"sent": "closest porta potty", "ann_id": 2133723, "best_split": [1, 5], "split_score": 0.4534739453692419}
+{"sent": "the potty behind the bench", "ann_id": 2194849, "best_split": [3, 3], "split_score": 0.30177514788073323}

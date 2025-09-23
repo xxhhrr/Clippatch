@@ -1,0 +1,12 @@
+{"sent": "the guy in black shirt black puffy hair", "ann_id": 213358, "best_split": [3, 3], "split_score": 0.6353799105345354}
+{"sent": "man in black", "ann_id": 213358, "best_split": [3, 3], "split_score": 0.6353799105345354}
+{"sent": "man with beard", "ann_id": 213358, "best_split": [3, 3], "split_score": 0.6353799105345354}
+{"sent": "man in light jacket", "ann_id": 203126, "best_split": [3, 3], "split_score": 0.8011925308643978}
+{"sent": "guy tan", "ann_id": 203126, "best_split": [3, 3], "split_score": 0.8011925308643978}
+{"sent": "man in tan", "ann_id": 203126, "best_split": [3, 3], "split_score": 0.8011925308643978}
+{"sent": "arm holding the cellphone", "ann_id": 200351, "best_split": [2, 2], "split_score": 0.58092159658867}
+{"sent": "hand with phone", "ann_id": 200351, "best_split": [2, 2], "split_score": 0.58092159658867}
+{"sent": "hand shown only holding phone not phone", "ann_id": 200351, "best_split": [2, 2], "split_score": 0.58092159658867}
+{"sent": "man in black with silver hair", "ann_id": 2155250, "best_split": [3, 3], "split_score": 0.5871499175309473}
+{"sent": "smallest man", "ann_id": 2155250, "best_split": [3, 1], "split_score": 0.029493545182249576}
+{"sent": "guy in black at end of table", "ann_id": 2155250, "best_split": [2, 2], "split_score": 0.33147321425928944}

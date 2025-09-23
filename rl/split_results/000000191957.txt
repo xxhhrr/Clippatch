@@ -1,0 +1,9 @@
+{"sent": "singer in tux", "ann_id": 1285511, "best_split": [3, 2], "split_score": 0.706513958398173}
+{"sent": "man in suit with hands up", "ann_id": 1285511, "best_split": [3, 2], "split_score": 0.706513958398173}
+{"sent": "the man wearing a suit coat with his arms spread", "ann_id": 1285511, "best_split": [3, 2], "split_score": 0.706513958398173}
+{"sent": "colorful man", "ann_id": 1999628, "best_split": [1, 2], "split_score": 0.6926020407887196}
+{"sent": "multi color player", "ann_id": 1999628, "best_split": [1, 2], "split_score": 0.6926020407887196}
+{"sent": "tye dye player", "ann_id": 1999628, "best_split": [1, 2], "split_score": 0.6926020407887196}
+{"sent": "home run hitter non rainbow", "ann_id": 514653, "best_split": [1, 2], "split_score": 0.6276170312656646}
+{"sent": "regular player", "ann_id": 514653, "best_split": [1, 3], "split_score": 0.4286072144135196}
+{"sent": "white shirt batter", "ann_id": 514653, "best_split": [1, 2], "split_score": 0.6276170312656646}

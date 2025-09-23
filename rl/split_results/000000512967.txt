@@ -1,0 +1,6 @@
+{"sent": "sofa not the loveseat", "ann_id": 117496, "best_split": [2, 3], "split_score": 0.5854430379167876}
+{"sent": "large comfy couch", "ann_id": 117496, "best_split": [2, 3], "split_score": 0.5854430379167876}
+{"sent": "large couch", "ann_id": 117496, "best_split": [2, 3], "split_score": 0.5854430379167876}
+{"sent": "loveseat with picture above it", "ann_id": 117230, "best_split": [3, 3], "split_score": 0.36135618851003826}
+{"sent": "smaller couch", "ann_id": 117230, "best_split": [5, 1], "split_score": 0.25910259598083246}
+{"sent": "the loveseat", "ann_id": 117230, "best_split": [3, 3], "split_score": 0.36135618851003826}

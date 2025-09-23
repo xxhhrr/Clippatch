@@ -1,0 +1,6 @@
+{"sent": "blue motorcycle", "ann_id": 365179, "best_split": [3, 2], "split_score": 0.315999240812678}
+{"sent": "blue bike", "ann_id": 365179, "best_split": [3, 2], "split_score": 0.315999240812678}
+{"sent": "blue bike", "ann_id": 365179, "best_split": [3, 2], "split_score": 0.315999240812678}
+{"sent": "green motorbike", "ann_id": 365151, "best_split": [1, 2], "split_score": 0.5588112693877643}
+{"sent": "the motorbicycle", "ann_id": 365151, "best_split": [1, 2], "split_score": 0.5588112693877643}
+{"sent": "kawasaki motorcycle", "ann_id": 365151, "best_split": [1, 2], "split_score": 0.5588112693877643}

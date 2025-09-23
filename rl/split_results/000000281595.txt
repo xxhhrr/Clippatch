@@ -1,0 +1,6 @@
+{"sent": "black horse", "ann_id": 60446, "best_split": [3, 1], "split_score": 0.39573941481500313}
+{"sent": "horse with head down", "ann_id": 60446, "best_split": [3, 1], "split_score": 0.39573941481500313}
+{"sent": "black horse", "ann_id": 60446, "best_split": [3, 1], "split_score": 0.39573941481500313}
+{"sent": "lighter horse", "ann_id": 60141, "best_split": [1, 2], "split_score": 0.8454241071091588}
+{"sent": "tan horse", "ann_id": 60141, "best_split": [1, 2], "split_score": 0.8454241071091588}
+{"sent": "lighter colored horse", "ann_id": 60141, "best_split": [1, 2], "split_score": 0.8454241071091588}

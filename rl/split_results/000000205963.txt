@@ -1,0 +1,14 @@
+{"sent": "the person farthest away and can barely see", "ann_id": 1750511, "best_split": [2, 3], "split_score": 0.444672131096918}
+{"sent": "persons back above white shirt", "ann_id": 1750511, "best_split": [2, 3], "split_score": 0.444672131096918}
+{"sent": "white shirt", "ann_id": 1745960, "best_split": [2, 2], "split_score": 0.47387173393860615}
+{"sent": "person sitting", "ann_id": 1745960, "best_split": [3, 2], "split_score": 0.4332311123199588}
+{"sent": "white shirt kid", "ann_id": 1745960, "best_split": [2, 2], "split_score": 0.47387173393860615}
+{"sent": "black luggage", "ann_id": 1445843, "best_split": [3, 2], "split_score": 0.48044797009048545}
+{"sent": "black luggage", "ann_id": 1445843, "best_split": [3, 2], "split_score": 0.48044797009048545}
+{"sent": "black bag on ground", "ann_id": 1445843, "best_split": [3, 2], "split_score": 0.48044797009048545}
+{"sent": "blue one boy is sitting on", "ann_id": 1186207, "best_split": [2, 2], "split_score": 0.3655107778533653}
+{"sent": "bag hes sitting on", "ann_id": 1186207, "best_split": [2, 2], "split_score": 0.3655107778533653}
+{"sent": "suitcase seat", "ann_id": 1186207, "best_split": [5, 1], "split_score": 0.2920013971103736}
+{"sent": "black coat brown shoes", "ann_id": 541889, "best_split": [2, 3], "split_score": 0.5683967704073359}
+{"sent": "half person in black", "ann_id": 541889, "best_split": [2, 3], "split_score": 0.5683967704073359}
+{"sent": "person with brown shoes no head", "ann_id": 541889, "best_split": [3, 3], "split_score": 0.21875706212217433}

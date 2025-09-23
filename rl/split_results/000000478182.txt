@@ -1,0 +1,6 @@
+{"sent": "side bus not 1908", "ann_id": 163936, "best_split": [3, 1], "split_score": 0.2508361203900011}
+{"sent": "bus behind pole", "ann_id": 163936, "best_split": [3, 1], "split_score": 0.2508361203900011}
+{"sent": "the bus with the visible logo", "ann_id": 163936, "best_split": [3, 1], "split_score": 0.2508361203900011}
+{"sent": "1908", "ann_id": 163102, "best_split": [3, 1], "split_score": 0.3431779350624785}
+{"sent": "bus", "ann_id": 163102, "best_split": [1, 2], "split_score": 0.44659059451768246}
+{"sent": "1908 bus", "ann_id": 163102, "best_split": [1, 2], "split_score": 0.44659059451768246}

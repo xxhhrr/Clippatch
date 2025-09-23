@@ -1,0 +1,11 @@
+{"sent": "main dish with asparagus", "ann_id": 1903713, "best_split": [2, 2], "split_score": 0.5449068391975395}
+{"sent": "white plate special", "ann_id": 1903713, "best_split": [2, 2], "split_score": 0.5449068391975395}
+{"sent": "plate with white yellow and orange food", "ann_id": 1903713, "best_split": [2, 2], "split_score": 0.5449068391975395}
+{"sent": "bowlof donutes", "ann_id": 1900582, "best_split": [2, 2], "split_score": 0.4331931166016678}
+{"sent": "gray food", "ann_id": 1900582, "best_split": [2, 2], "split_score": 0.4331931166016678}
+{"sent": "beverage in pink cup", "ann_id": 717033, "best_split": [2, 3], "split_score": 0.47779922774157824}
+{"sent": "soup", "ann_id": 717033, "best_split": [2, 3], "split_score": 0.47779922774157824}
+{"sent": "lavender bowl with liquid in it", "ann_id": 717033, "best_split": [2, 3], "split_score": 0.47779922774157824}
+{"sent": "greens", "ann_id": 711699, "best_split": [2, 3], "split_score": 0.4466147261662883}
+{"sent": "smaller bowl located over the white plate", "ann_id": 711699, "best_split": [3, 1], "split_score": 0.12602265575172947}
+{"sent": "broccoli", "ann_id": 711699, "best_split": [2, 3], "split_score": 0.4466147261662883}

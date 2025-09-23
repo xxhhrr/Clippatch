@@ -1,0 +1,6 @@
+{"sent": "husky", "ann_id": 15070, "best_split": [3, 2], "split_score": 0.5400134498537312}
+{"sent": "nazi", "ann_id": 15070, "best_split": [3, 3], "split_score": 0.33241687427335537}
+{"sent": "happy husky", "ann_id": 15070, "best_split": [3, 2], "split_score": 0.5400134498537312}
+{"sent": "dog with pink collar", "ann_id": 3341, "best_split": [3, 2], "split_score": 0.41137393050715915}
+{"sent": "all black dog", "ann_id": 3341, "best_split": [3, 2], "split_score": 0.41137393050715915}
+{"sent": "black dog", "ann_id": 3341, "best_split": [3, 2], "split_score": 0.41137393050715915}

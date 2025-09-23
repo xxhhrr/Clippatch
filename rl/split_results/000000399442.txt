@@ -1,0 +1,6 @@
+{"sent": "guy with dark tie", "ann_id": 489715, "best_split": [1, 2], "split_score": 0.4846540178378247}
+{"sent": "black suit", "ann_id": 489715, "best_split": [1, 3], "split_score": 0.7135786271862616}
+{"sent": "black suit man", "ann_id": 489715, "best_split": [1, 3], "split_score": 0.7135786271862616}
+{"sent": "pink tie", "ann_id": 469634, "best_split": [1, 3], "split_score": 0.44415361916698454}
+{"sent": "pink tie", "ann_id": 469634, "best_split": [1, 3], "split_score": 0.44415361916698454}
+{"sent": "guy in gray suit", "ann_id": 469634, "best_split": [2, 3], "split_score": 0.2840842938477073}

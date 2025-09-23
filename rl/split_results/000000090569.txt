@@ -1,0 +1,12 @@
+{"sent": "glass closest to us", "ann_id": 663682, "best_split": [1, 5], "split_score": 0.4844784463377609}
+{"sent": "closest wine glass", "ann_id": 663682, "best_split": [1, 5], "split_score": 0.4844784463377609}
+{"sent": "wine glass with arm wearing silver bracelet behind", "ann_id": 663682, "best_split": [1, 5], "split_score": 0.4844784463377609}
+{"sent": "glass with least amount", "ann_id": 662248, "best_split": [1, 3], "split_score": 0.2684852835468934}
+{"sent": "the glass with little wine", "ann_id": 662248, "best_split": [1, 3], "split_score": 0.2684852835468934}
+{"sent": "less full glass", "ann_id": 662248, "best_split": [1, 3], "split_score": 0.2684852835468934}
+{"sent": "arm closest", "ann_id": 475144, "best_split": [2, 2], "split_score": 0.9121530797096423}
+{"sent": "horizontal arm", "ann_id": 475144, "best_split": [2, 2], "split_score": 0.9121530797096423}
+{"sent": "arm wearing silver bracelet", "ann_id": 475144, "best_split": [2, 2], "split_score": 0.9121530797096423}
+{"sent": "less in focus arm", "ann_id": 446196, "best_split": [1, 2], "split_score": 0.744977678541734}
+{"sent": "person holding more empty glass", "ann_id": 446196, "best_split": [3, 1], "split_score": 0.28258655803452915}
+{"sent": "younger arm not wearing bracelet", "ann_id": 446196, "best_split": [1, 5], "split_score": 0.3781017669026696}

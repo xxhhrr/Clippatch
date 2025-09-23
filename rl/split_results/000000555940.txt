@@ -1,0 +1,5 @@
+{"sent": "background person", "ann_id": 433902, "best_split": [1, 2], "split_score": 0.3794244260052844}
+{"sent": "guy with jeans", "ann_id": 433902, "best_split": [1, 5], "split_score": 0.6109586762608332}
+{"sent": "little boy in green close", "ann_id": 429191, "best_split": [1, 3], "split_score": 0.5634517766274012}
+{"sent": "kid", "ann_id": 429191, "best_split": [1, 3], "split_score": 0.5634517766274012}
+{"sent": "child full seen", "ann_id": 429191, "best_split": [1, 3], "split_score": 0.5634517766274012}

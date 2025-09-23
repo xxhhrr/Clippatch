@@ -1,0 +1,6 @@
+{"sent": "guy in background behind elbow of batter", "ann_id": 441957, "best_split": [2, 2], "split_score": 0.17619047617736677}
+{"sent": "behind batter", "ann_id": 441957, "best_split": [2, 2], "split_score": 0.17619047617736677}
+{"sent": "blurred player", "ann_id": 441957, "best_split": [2, 2], "split_score": 0.17619047617736677}
+{"sent": "player", "ann_id": 423953, "best_split": [1, 2], "split_score": 0.503524098917373}
+{"sent": "batter", "ann_id": 423953, "best_split": [1, 2], "split_score": 0.503524098917373}
+{"sent": "24", "ann_id": 423953, "best_split": [1, 2], "split_score": 0.503524098917373}

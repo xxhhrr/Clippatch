@@ -1,0 +1,13 @@
+{"sent": "kid in foreground", "ann_id": 215357, "best_split": [3, 3], "split_score": 0.6017353578305517}
+{"sent": "child", "ann_id": 215357, "best_split": [3, 3], "split_score": 0.6017353578305517}
+{"sent": "partial child", "ann_id": 215357, "best_split": [3, 3], "split_score": 0.6017353578305517}
+{"sent": "the child with their back turned to the camera", "ann_id": 215357, "best_split": [3, 3], "split_score": 0.6017353578305517}
+{"sent": "man", "ann_id": 2159998, "best_split": [2, 2], "split_score": 0.3834523628336535}
+{"sent": "guy on the couch", "ann_id": 2159998, "best_split": [2, 3], "split_score": 0.4493611716579037}
+{"sent": "man on couch", "ann_id": 2159998, "best_split": [2, 3], "split_score": 0.4493611716579037}
+{"sent": "whie dog black head", "ann_id": 16612, "best_split": [3, 1], "split_score": 0.1591000401676462}
+{"sent": "dog 1", "ann_id": 16612, "best_split": [3, 1], "split_score": 0.1591000401676462}
+{"sent": "laying dog with black head", "ann_id": 16612, "best_split": [3, 1], "split_score": 0.1591000401676462}
+{"sent": "brown big dog", "ann_id": 11105, "best_split": [2, 3], "split_score": 0.3983628921897712}
+{"sent": "main dog", "ann_id": 11105, "best_split": [2, 3], "split_score": 0.3983628921897712}
+{"sent": "brown dog", "ann_id": 11105, "best_split": [2, 3], "split_score": 0.3983628921897712}

@@ -1,0 +1,7 @@
+{"sent": "tall man behind guy cutting cake", "ann_id": 1306055, "best_split": [2, 1], "split_score": 0.10913404507305997}
+{"sent": "man with stripes behind men cutting cake", "ann_id": 1306055, "best_split": [2, 1], "split_score": 0.10913404507305997}
+{"sent": "man cutting cake", "ann_id": 1265461, "best_split": [2, 1], "split_score": 0.1555828931125413}
+{"sent": "man cutting the cake", "ann_id": 1265461, "best_split": [2, 1], "split_score": 0.1555828931125413}
+{"sent": "bald man shoulder", "ann_id": 1265461, "best_split": [1, 5], "split_score": 0.38662018589088476}
+{"sent": "man at end smiling bald with glasses", "ann_id": 1255662, "best_split": [3, 3], "split_score": 0.21906453519552033}
+{"sent": "closest man partially off edge", "ann_id": 1255662, "best_split": [3, 3], "split_score": 0.21906453519552033}

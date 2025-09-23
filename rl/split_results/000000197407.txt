@@ -1,0 +1,16 @@
+{"sent": "white topped bottle closest to the all red ketchup bottle", "ann_id": 371973, "best_split": [3, 1], "split_score": 0.1525097685510965}
+{"sent": "mayo below empty spot", "ann_id": 371973, "best_split": [3, 1], "split_score": 0.1525097685510965}
+{"sent": "the one clostes to us", "ann_id": 371832, "best_split": [3, 2], "split_score": 0.2254044337656795}
+{"sent": "white t oh pee one between two yellows", "ann_id": 371832, "best_split": [3, 2], "split_score": 0.2254044337656795}
+{"sent": "white bottle between two yellow bottles", "ann_id": 371832, "best_split": [3, 2], "split_score": 0.2254044337656795}
+{"sent": "red cap yellow bottle", "ann_id": 371376, "best_split": [3, 3], "split_score": 0.5716137393759537}
+{"sent": "red cover mustard", "ann_id": 371376, "best_split": [3, 3], "split_score": 0.5716137393759537}
+{"sent": "yellow bottle with red lid", "ann_id": 371376, "best_split": [3, 3], "split_score": 0.5716137393759537}
+{"sent": "whole red bottle", "ann_id": 1485124, "best_split": [1, 5], "split_score": 0.2767295597212333}
+{"sent": "red bottle", "ann_id": 1485124, "best_split": [5, 1], "split_score": 0.15710723190620704}
+{"sent": "ketchup", "ann_id": 1485124, "best_split": [1, 5], "split_score": 0.2767295597212333}
+{"sent": "green cap", "ann_id": 370345, "best_split": [3, 2], "split_score": 0.2558437399662884}
+{"sent": "the one with hot", "ann_id": 370345, "best_split": [3, 2], "split_score": 0.2558437399662884}
+{"sent": "mustard with a dark red cap", "ann_id": 88799, "best_split": [3, 3], "split_score": 0.4430337453319355}
+{"sent": "mustard bottle darker red", "ann_id": 88799, "best_split": [3, 3], "split_score": 0.4430337453319355}
+{"sent": "mustard burgundy cap", "ann_id": 88799, "best_split": [3, 3], "split_score": 0.4430337453319355}

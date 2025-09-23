@@ -1,0 +1,6 @@
+{"sent": "side of the fridge", "ann_id": 1983247, "best_split": [1, 2], "split_score": 0.5470742984475815}
+{"sent": "whole side of fridge", "ann_id": 1983247, "best_split": [1, 2], "split_score": 0.5470742984475815}
+{"sent": "side not next to wall", "ann_id": 1983247, "best_split": [1, 2], "split_score": 0.5470742984475815}
+{"sent": "freezer door", "ann_id": 330712, "best_split": [1, 3], "split_score": 0.543437499978772}
+{"sent": "white box", "ann_id": 330712, "best_split": [1, 3], "split_score": 0.543437499978772}
+{"sent": "frig part with logo", "ann_id": 330712, "best_split": [1, 3], "split_score": 0.543437499978772}

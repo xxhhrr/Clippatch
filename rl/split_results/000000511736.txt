@@ -1,0 +1,6 @@
+{"sent": "bowl with pink yogurt", "ann_id": 1040751, "best_split": [2, 2], "split_score": 0.7079878825966208}
+{"sent": "bowl of yogurt", "ann_id": 1040751, "best_split": [2, 2], "split_score": 0.7079878825966208}
+{"sent": "yogurt bowl", "ann_id": 1040751, "best_split": [2, 2], "split_score": 0.7079878825966208}
+{"sent": "seeds", "ann_id": 1039860, "best_split": [2, 2], "split_score": 0.7198660713711841}
+{"sent": "bowl with brown stuff", "ann_id": 1039860, "best_split": [2, 2], "split_score": 0.7198660713711841}
+{"sent": "crunchy topping", "ann_id": 1039860, "best_split": [2, 2], "split_score": 0.7198660713711841}

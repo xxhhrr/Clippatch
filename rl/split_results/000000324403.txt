@@ -1,0 +1,11 @@
+{"sent": "suitcase that is third in the stack behind the shoes", "ann_id": 1844183, "best_split": [3, 2], "split_score": 0.32692307688426836}
+{"sent": "in stack of five it is not 1 or 2 and not 4 or 5", "ann_id": 1844183, "best_split": [3, 2], "split_score": 0.32692307688426836}
+{"sent": "suitcase with hat on it", "ann_id": 1844140, "best_split": [3, 2], "split_score": 0.6073708049611518}
+{"sent": "red bow", "ann_id": 1844140, "best_split": [3, 2], "split_score": 0.6073708049611518}
+{"sent": "the suitcase with hat", "ann_id": 1844140, "best_split": [3, 2], "split_score": 0.6073708049611518}
+{"sent": "highest suit case above hat", "ann_id": 1843597, "best_split": [2, 2], "split_score": 0.31537738801163656}
+{"sent": "uppermost suitcase in shadow in pile behind hat", "ann_id": 1843597, "best_split": [2, 2], "split_score": 0.31537738801163656}
+{"sent": "case 2 up from hat", "ann_id": 1843597, "best_split": [2, 2], "split_score": 0.31537738801163656}
+{"sent": "white case under case with hat", "ann_id": 2177844, "best_split": [3, 2], "split_score": 0.1755491537472498}
+{"sent": "suitcase on floor", "ann_id": 2177844, "best_split": [5, 1], "split_score": 0.3157610651029362}
+{"sent": "suitcase closest to shoes", "ann_id": 2177844, "best_split": [1, 3], "split_score": 0.18542788914392025}

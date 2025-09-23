@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 256645, "best_split": [3, 1], "split_score": 0.12346570396475164}
+{"sent": "woman", "ann_id": 256645, "best_split": [3, 1], "split_score": 0.12346570396475164}
+{"sent": "woman walking", "ann_id": 256645, "best_split": [1, 5], "split_score": 0.4908946951216454}
+{"sent": "rider", "ann_id": 186958, "best_split": [3, 2], "split_score": 0.4160368663211026}
+{"sent": "the dude", "ann_id": 186958, "best_split": [1, 2], "split_score": 0.2820471938663087}
+{"sent": "horse rider", "ann_id": 186958, "best_split": [3, 2], "split_score": 0.4160368663211026}

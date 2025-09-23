@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 1183822, "best_split": [1, 2], "split_score": 0.7018368067572647}
+{"sent": "red open", "ann_id": 1183822, "best_split": [1, 2], "split_score": 0.7018368067572647}
+{"sent": "red inside", "ann_id": 1183822, "best_split": [1, 2], "split_score": 0.7018368067572647}
+{"sent": "unopened", "ann_id": 1183201, "best_split": [2, 1], "split_score": 0.4047915598064037}
+{"sent": "closed suitcase", "ann_id": 1183201, "best_split": [2, 1], "split_score": 0.4047915598064037}
+{"sent": "closed case", "ann_id": 1183201, "best_split": [2, 1], "split_score": 0.4047915598064037}

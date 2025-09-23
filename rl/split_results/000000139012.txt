@@ -1,0 +1,9 @@
+{"sent": "clock at 1155", "ann_id": 1666465, "best_split": [3, 2], "split_score": 0.37923678592329496}
+{"sent": "clock number one", "ann_id": 1666465, "best_split": [3, 2], "split_score": 0.37923678592329496}
+{"sent": "11 12", "ann_id": 1666465, "best_split": [2, 2], "split_score": 0.267059948958302}
+{"sent": "clock with blue dot", "ann_id": 1666029, "best_split": [3, 3], "split_score": 0.46052631571178704}
+{"sent": "square clock with blue dot", "ann_id": 1666029, "best_split": [3, 3], "split_score": 0.46052631571178704}
+{"sent": "square clock with blue dot", "ann_id": 1666029, "best_split": [3, 3], "split_score": 0.46052631571178704}
+{"sent": "big square clock with black square", "ann_id": 1665795, "best_split": [3, 3], "split_score": 0.4275452841306144}
+{"sent": "clock with rectangle black patch", "ann_id": 1665795, "best_split": [3, 3], "split_score": 0.4275452841306144}
+{"sent": "square clock with black bar", "ann_id": 1665795, "best_split": [3, 3], "split_score": 0.4275452841306144}

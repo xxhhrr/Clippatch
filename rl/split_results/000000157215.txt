@@ -1,0 +1,6 @@
+{"sent": "number two bus", "ann_id": 1366052, "best_split": [3, 2], "split_score": 0.23650927484859724}
+{"sent": "bus two", "ann_id": 1366052, "best_split": [3, 2], "split_score": 0.23650927484859724}
+{"sent": "next bus in row", "ann_id": 1366052, "best_split": [3, 2], "split_score": 0.23650927484859724}
+{"sent": "closest bus", "ann_id": 1365809, "best_split": [3, 3], "split_score": 0.6080390849868933}
+{"sent": "closest bus", "ann_id": 1365809, "best_split": [3, 3], "split_score": 0.6080390849868933}
+{"sent": "bus in beginning", "ann_id": 1365809, "best_split": [3, 3], "split_score": 0.6080390849868933}

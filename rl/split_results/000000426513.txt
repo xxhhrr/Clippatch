@@ -1,0 +1,11 @@
+{"sent": "person in plaid shirt", "ann_id": 500934, "best_split": [3, 3], "split_score": 0.6215001727235568}
+{"sent": "red and white shirt", "ann_id": 500934, "best_split": [3, 3], "split_score": 0.6215001727235568}
+{"sent": "that plaid shirt you stole", "ann_id": 500934, "best_split": [3, 3], "split_score": 0.6215001727235568}
+{"sent": "black tshirt", "ann_id": 475152, "best_split": [3, 2], "split_score": 0.4509713227970662}
+{"sent": "man in black", "ann_id": 475152, "best_split": [3, 2], "split_score": 0.4509713227970662}
+{"sent": "black shirt with logo", "ann_id": 475152, "best_split": [3, 2], "split_score": 0.4509713227970662}
+{"sent": "beer bottle closest", "ann_id": 86629, "best_split": [2, 3], "split_score": 0.2686084142084364}
+{"sent": "closest beer", "ann_id": 86629, "best_split": [2, 3], "split_score": 0.2686084142084364}
+{"sent": "bear bottle near hand", "ann_id": 86537, "best_split": [2, 3], "split_score": 0.250629434624556}
+{"sent": "drink by pizza cutter", "ann_id": 86537, "best_split": [2, 2], "split_score": 0.16853932582972608}
+{"sent": "bottle partially hiding hand on the table", "ann_id": 86537, "best_split": [3, 3], "split_score": 0.23231096261276785}

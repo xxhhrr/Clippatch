@@ -1,0 +1,6 @@
+{"sent": "smaller couch", "ann_id": 113265, "best_split": [3, 2], "split_score": 0.437740693156268}
+{"sent": "couch under the pillow", "ann_id": 113265, "best_split": [3, 2], "split_score": 0.437740693156268}
+{"sent": "the couch the man making the hang loose sign is sitting on", "ann_id": 113265, "best_split": [3, 2], "split_score": 0.437740693156268}
+{"sent": "the red couch with 3 sitting on it", "ann_id": 99480, "best_split": [3, 1], "split_score": 0.28119405655741164}
+{"sent": "couch dog on", "ann_id": 99480, "best_split": [2, 2], "split_score": 0.6267610291271406}
+{"sent": "part of sofa shown under dog", "ann_id": 99480, "best_split": [2, 2], "split_score": 0.6267610291271406}

@@ -1,0 +1,9 @@
+{"sent": "dark blue bike", "ann_id": 246262, "best_split": [1, 3], "split_score": 0.13467315859656723}
+{"sent": "blue motorcycle", "ann_id": 246262, "best_split": [1, 3], "split_score": 0.13467315859656723}
+{"sent": "blue motorcycle", "ann_id": 246262, "best_split": [1, 3], "split_score": 0.13467315859656723}
+{"sent": "red gizmo", "ann_id": 245990, "best_split": [1, 3], "split_score": 0.38570084665058857}
+{"sent": "red motor bike", "ann_id": 245990, "best_split": [1, 3], "split_score": 0.38570084665058857}
+{"sent": "red bike", "ann_id": 245990, "best_split": [2, 1], "split_score": 0.37558941668757445}
+{"sent": "partial light blue bike", "ann_id": 245921, "best_split": [3, 3], "split_score": 0.47695778271399325}
+{"sent": "light blue bike", "ann_id": 245921, "best_split": [3, 3], "split_score": 0.47695778271399325}
+{"sent": "blue bike closest", "ann_id": 245921, "best_split": [3, 3], "split_score": 0.47695778271399325}

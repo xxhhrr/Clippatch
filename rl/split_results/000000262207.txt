@@ -1,0 +1,9 @@
+{"sent": "dirty couch", "ann_id": 115453, "best_split": [3, 3], "split_score": 0.5903547671022236}
+{"sent": "table with clutter", "ann_id": 115453, "best_split": [2, 3], "split_score": 0.7239382238508761}
+{"sent": "half couch", "ann_id": 115453, "best_split": [2, 1], "split_score": 0.23915816325577335}
+{"sent": "single chair", "ann_id": 113958, "best_split": [1, 5], "split_score": 0.23898641932436349}
+{"sent": "chair close to man", "ann_id": 113958, "best_split": [3, 3], "split_score": 0.33712408385934745}
+{"sent": "chair near boy", "ann_id": 113958, "best_split": [1, 5], "split_score": 0.23898641932436349}
+{"sent": "closet sofa", "ann_id": 98586, "best_split": [3, 1], "split_score": 0.6137448470051126}
+{"sent": "closest couch", "ann_id": 98586, "best_split": [3, 1], "split_score": 0.6137448470051126}
+{"sent": "sofa with back to camera", "ann_id": 98586, "best_split": [3, 1], "split_score": 0.6137448470051126}

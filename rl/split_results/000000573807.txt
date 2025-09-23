@@ -1,0 +1,6 @@
+{"sent": "red truck with do behind", "ann_id": 1367424, "best_split": [3, 2], "split_score": 0.3655913978085135}
+{"sent": "red jeep", "ann_id": 1367424, "best_split": [3, 2], "split_score": 0.3655913978085135}
+{"sent": "red jeep following sheep", "ann_id": 1367424, "best_split": [3, 2], "split_score": 0.3655913978085135}
+{"sent": "truck with tht", "ann_id": 395847, "best_split": [3, 3], "split_score": 0.5293691079533414}
+{"sent": "truck facing us", "ann_id": 395847, "best_split": [3, 3], "split_score": 0.5293691079533414}
+{"sent": "moving truck in driveway", "ann_id": 395847, "best_split": [3, 3], "split_score": 0.5293691079533414}

@@ -1,0 +1,12 @@
+{"sent": "woman standing up", "ann_id": 223550, "best_split": [1, 5], "split_score": 0.6100691016351665}
+{"sent": "older woman", "ann_id": 223550, "best_split": [1, 5], "split_score": 0.6100691016351665}
+{"sent": "old lady", "ann_id": 223550, "best_split": [1, 5], "split_score": 0.6100691016351665}
+{"sent": "on the couch", "ann_id": 214545, "best_split": [2, 3], "split_score": 0.446666666613492}
+{"sent": "on couch her face", "ann_id": 214545, "best_split": [2, 3], "split_score": 0.446666666613492}
+{"sent": "person reclining", "ann_id": 214545, "best_split": [2, 3], "split_score": 0.446666666613492}
+{"sent": "boy in red shirt", "ann_id": 189560, "best_split": [2, 2], "split_score": 0.3971160778372663}
+{"sent": "boy", "ann_id": 189560, "best_split": [2, 2], "split_score": 0.3971160778372663}
+{"sent": "boy playing", "ann_id": 189560, "best_split": [2, 2], "split_score": 0.3971160778372663}
+{"sent": "couch behind lady", "ann_id": 114355, "best_split": [2, 2], "split_score": 0.5028002488762497}
+{"sent": "couch behind old woman", "ann_id": 114355, "best_split": [2, 2], "split_score": 0.5028002488762497}
+{"sent": "couch", "ann_id": 114355, "best_split": [5, 1], "split_score": 0.30432102990451815}

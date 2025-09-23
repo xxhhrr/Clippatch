@@ -1,0 +1,6 @@
+{"sent": "mom", "ann_id": 523047, "best_split": [1, 3], "split_score": 0.8190782853280801}
+{"sent": "lady holding baby", "ann_id": 523047, "best_split": [1, 2], "split_score": 0.7804528060913404}
+{"sent": "woman holding baby", "ann_id": 523047, "best_split": [1, 2], "split_score": 0.7804528060913404}
+{"sent": "baby", "ann_id": 440728, "best_split": [2, 1], "split_score": 0.4654466259112779}
+{"sent": "baby", "ann_id": 440728, "best_split": [2, 1], "split_score": 0.4654466259112779}
+{"sent": "baby", "ann_id": 440728, "best_split": [2, 1], "split_score": 0.4654466259112779}

@@ -1,0 +1,8 @@
+{"sent": "broccoli in the middl", "ann_id": 1916146, "best_split": [1, 3], "split_score": 0.41645244213505184}
+{"sent": "closest", "ann_id": 1916146, "best_split": [2, 3], "split_score": 0.4853844721201467}
+{"sent": "number 6 broccoli batch", "ann_id": 1915666, "best_split": [2, 2], "split_score": 0.3130580356893289}
+{"sent": "farthest row other bins to each side", "ann_id": 1916317, "best_split": [3, 1], "split_score": 0.26283791758571373}
+{"sent": "brocoli basket with leaf", "ann_id": 1058749, "best_split": [3, 3], "split_score": 0.5701197292482957}
+{"sent": "big leaf in bin", "ann_id": 1058749, "best_split": [3, 2], "split_score": 0.542101180682401}
+{"sent": "basket 1", "ann_id": 1058749, "best_split": [2, 1], "split_score": 0.20700692341763188}
+{"sent": "1100 brocoli", "ann_id": 1056275, "best_split": [1, 3], "split_score": 0.21330990305462785}

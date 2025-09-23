@@ -1,0 +1,6 @@
+{"sent": "man on screen", "ann_id": 1703592, "best_split": [1, 5], "split_score": 0.31049805588682666}
+{"sent": "man on the screen", "ann_id": 1703592, "best_split": [1, 5], "split_score": 0.31049805588682666}
+{"sent": "man", "ann_id": 1703592, "best_split": [2, 3], "split_score": 0.448895027572641}
+{"sent": "woman on monitor", "ann_id": 1678456, "best_split": [3, 3], "split_score": 0.38396072008903864}
+{"sent": "girl", "ann_id": 1678456, "best_split": [2, 3], "split_score": 0.32773541253296756}
+{"sent": "woman on screen", "ann_id": 1678456, "best_split": [3, 3], "split_score": 0.38396072008903864}

@@ -1,0 +1,6 @@
+{"sent": "head", "ann_id": 2153917, "best_split": [1, 2], "split_score": 0.4068609022460794}
+{"sent": "hair tie", "ann_id": 2153917, "best_split": [2, 1], "split_score": 0.7047518719726461}
+{"sent": "womans head", "ann_id": 2153917, "best_split": [2, 1], "split_score": 0.7047518719726461}
+{"sent": "blurry hat", "ann_id": 511638, "best_split": [2, 2], "split_score": 0.12286890063764926}
+{"sent": "white hat", "ann_id": 511638, "best_split": [2, 2], "split_score": 0.12286890063764926}
+{"sent": "back of hat", "ann_id": 511638, "best_split": [3, 1], "split_score": 0.14925017852003986}

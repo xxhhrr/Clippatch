@@ -1,0 +1,5 @@
+{"sent": "bike without dog partially seen", "ann_id": 1790059, "best_split": [5, 1], "split_score": 0.20637898685469167}
+{"sent": "motorcycle not side car", "ann_id": 1790059, "best_split": [2, 1], "split_score": 0.051691729321790066}
+{"sent": "bigger vehicle", "ann_id": 155290, "best_split": [2, 1], "split_score": 0.5436348183811139}
+{"sent": "camouflage car", "ann_id": 155290, "best_split": [2, 1], "split_score": 0.5436348183811139}
+{"sent": "camouflage part", "ann_id": 155290, "best_split": [2, 1], "split_score": 0.5436348183811139}

@@ -1,0 +1,8 @@
+{"sent": "closest zebra", "ann_id": 593244, "best_split": [3, 3], "split_score": 0.7415891194091644}
+{"sent": "zebra facing away from other two", "ann_id": 593244, "best_split": [3, 3], "split_score": 0.7415891194091644}
+{"sent": "smallest zebra", "ann_id": 593244, "best_split": [3, 3], "split_score": 0.7415891194091644}
+{"sent": "zebra number two", "ann_id": 591697, "best_split": [3, 2], "split_score": 0.33506182685131014}
+{"sent": "only one ear visible butt touching other zebra", "ann_id": 591697, "best_split": [3, 2], "split_score": 0.33506182685131014}
+{"sent": "middle zebra", "ann_id": 591697, "best_split": [3, 2], "split_score": 0.33506182685131014}
+{"sent": "zebra", "ann_id": 589780, "best_split": [3, 1], "split_score": 0.2663438256505048}
+{"sent": "zebra closest to white tent", "ann_id": 589780, "best_split": [2, 3], "split_score": 0.2855263157626385}

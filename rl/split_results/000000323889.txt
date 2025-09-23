@@ -1,0 +1,6 @@
+{"sent": "jumper", "ann_id": 1274071, "best_split": [2, 3], "split_score": 0.43478260865021084}
+{"sent": "guy in air", "ann_id": 1274071, "best_split": [2, 3], "split_score": 0.43478260865021084}
+{"sent": "jump", "ann_id": 1274071, "best_split": [2, 3], "split_score": 0.43478260865021084}
+{"sent": "man wearing white shirt", "ann_id": 1723521, "best_split": [2, 3], "split_score": 0.3491339072348165}
+{"sent": "white shirt", "ann_id": 1723521, "best_split": [2, 3], "split_score": 0.3491339072348165}
+{"sent": "man is standing", "ann_id": 1723521, "best_split": [3, 2], "split_score": 0.23114055842582673}

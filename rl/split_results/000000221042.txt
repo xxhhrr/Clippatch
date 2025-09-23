@@ -1,0 +1,5 @@
+{"sent": "single flower", "ann_id": 1952249, "best_split": [2, 1], "split_score": 0.41064638781676704}
+{"sent": "flower pointing opposite of the others", "ann_id": 1952249, "best_split": [2, 1], "split_score": 0.41064638781676704}
+{"sent": "plant closer to viwer", "ann_id": 24026, "best_split": [1, 2], "split_score": 0.6610009442675578}
+{"sent": "vase closest to us", "ann_id": 24026, "best_split": [1, 3], "split_score": 0.44881125665790844}
+{"sent": "focus vase", "ann_id": 24026, "best_split": [1, 3], "split_score": 0.44881125665790844}

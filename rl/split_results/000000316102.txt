@@ -1,0 +1,6 @@
+{"sent": "woman coverd in white and black", "ann_id": 2155052, "best_split": [1, 2], "split_score": 0.6407462740720494}
+{"sent": "person in black and white dress", "ann_id": 2155052, "best_split": [1, 2], "split_score": 0.6407462740720494}
+{"sent": "the woman we cant see face of", "ann_id": 2155052, "best_split": [2, 1], "split_score": 0.31534821218989983}
+{"sent": "blue shirt", "ann_id": 429534, "best_split": [1, 2], "split_score": 0.7225765305834432}
+{"sent": "blue shirt person", "ann_id": 429534, "best_split": [1, 2], "split_score": 0.7225765305834432}
+{"sent": "blue shirt", "ann_id": 429534, "best_split": [1, 2], "split_score": 0.7225765305834432}

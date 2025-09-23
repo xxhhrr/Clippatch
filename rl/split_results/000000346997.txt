@@ -1,0 +1,10 @@
+{"sent": "man playing with cellphone", "ann_id": 254327, "best_split": [1, 2], "split_score": 0.5995296555883478}
+{"sent": "man in red", "ann_id": 254327, "best_split": [1, 2], "split_score": 0.5995296555883478}
+{"sent": "looking at his phone", "ann_id": 254327, "best_split": [1, 2], "split_score": 0.5995296555883478}
+{"sent": "guy in maroon tee near us", "ann_id": 254327, "best_split": [1, 2], "split_score": 0.5995296555883478}
+{"sent": "man playing guitar", "ann_id": 220539, "best_split": [2, 3], "split_score": 0.5341293886531697}
+{"sent": "guy with guitar but not the guitr", "ann_id": 220539, "best_split": [2, 3], "split_score": 0.5341293886531697}
+{"sent": "guy with guitar", "ann_id": 220539, "best_split": [2, 3], "split_score": 0.5341293886531697}
+{"sent": "man sitting farthest away", "ann_id": 202335, "best_split": [3, 3], "split_score": 0.3855820105182569}
+{"sent": "sitting man no guitar beside woman", "ann_id": 202335, "best_split": [3, 2], "split_score": 0.2632054175775163}
+{"sent": "friend", "ann_id": 202335, "best_split": [2, 2], "split_score": 0.16220282875698142}

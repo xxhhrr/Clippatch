@@ -1,0 +1,11 @@
+{"sent": "sorry luggage that the kid in green is in", "ann_id": 1186330, "best_split": [1, 5], "split_score": 0.30332559935782477}
+{"sent": "bag girl is in", "ann_id": 1186330, "best_split": [1, 3], "split_score": 0.3446662863465678}
+{"sent": "suitcase with kid lying in it", "ann_id": 1182916, "best_split": [2, 1], "split_score": 0.6576849489533767}
+{"sent": "kid in suitcase", "ann_id": 1182916, "best_split": [2, 1], "split_score": 0.6576849489533767}
+{"sent": "kid in the case", "ann_id": 1182916, "best_split": [2, 1], "split_score": 0.6576849489533767}
+{"sent": "purple boy", "ann_id": 513593, "best_split": [2, 3], "split_score": 0.701418439633402}
+{"sent": "child fully in suitcase", "ann_id": 513593, "best_split": [3, 1], "split_score": 0.2505237622532515}
+{"sent": "child in purple stripes", "ann_id": 513593, "best_split": [2, 3], "split_score": 0.701418439633402}
+{"sent": "upper kid", "ann_id": 459660, "best_split": [2, 3], "split_score": 0.41310845426845555}
+{"sent": "girl", "ann_id": 459660, "best_split": [2, 3], "split_score": 0.41310845426845555}
+{"sent": "girl with headband", "ann_id": 459660, "best_split": [2, 3], "split_score": 0.41310845426845555}

@@ -1,0 +1,6 @@
+{"sent": "adult", "ann_id": 1755175, "best_split": [1, 5], "split_score": 0.6944771780426996}
+{"sent": "woman", "ann_id": 1755175, "best_split": [1, 5], "split_score": 0.6944771780426996}
+{"sent": "woman", "ann_id": 1755175, "best_split": [1, 5], "split_score": 0.6944771780426996}
+{"sent": "kid", "ann_id": 438002, "best_split": [1, 5], "split_score": 0.5441669772135513}
+{"sent": "baby", "ann_id": 438002, "best_split": [1, 5], "split_score": 0.5441669772135513}
+{"sent": "child", "ann_id": 438002, "best_split": [1, 5], "split_score": 0.5441669772135513}

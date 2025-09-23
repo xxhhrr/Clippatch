@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 429839, "best_split": [1, 3], "split_score": 0.9556587837261306}
+{"sent": "glasses guy", "ann_id": 429839, "best_split": [1, 3], "split_score": 0.9556587837261306}
+{"sent": "adult", "ann_id": 429839, "best_split": [2, 1], "split_score": 0.23585361434157093}
+{"sent": "person feeding animal", "ann_id": 428301, "best_split": [3, 1], "split_score": 0.2966350496670825}
+{"sent": "baby arm", "ann_id": 428301, "best_split": [3, 2], "split_score": 0.5575127333873607}
+{"sent": "baby", "ann_id": 428301, "best_split": [3, 2], "split_score": 0.5575127333873607}

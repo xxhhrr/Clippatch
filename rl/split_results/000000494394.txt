@@ -1,0 +1,7 @@
+{"sent": "man with long hair", "ann_id": 219779, "best_split": [2, 3], "split_score": 0.46622851360301026}
+{"sent": "man not wearing the hat", "ann_id": 219779, "best_split": [2, 1], "split_score": 0.18825449851232806}
+{"sent": "person with a bag at their feet", "ann_id": 219779, "best_split": [5, 1], "split_score": 0.18494211339982727}
+{"sent": "man with hat", "ann_id": 184903, "best_split": [2, 3], "split_score": 0.4234921816433831}
+{"sent": "man in hat", "ann_id": 184903, "best_split": [2, 3], "split_score": 0.4234921816433831}
+{"sent": "man in a hat", "ann_id": 184903, "best_split": [2, 3], "split_score": 0.4234921816433831}
+{"sent": "man in the hat", "ann_id": 184903, "best_split": [2, 3], "split_score": 0.4234921816433831}

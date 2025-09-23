@@ -1,0 +1,11 @@
+{"sent": "pink shirt", "ann_id": 191484, "best_split": [3, 3], "split_score": 0.3675964844891482}
+{"sent": "pink item", "ann_id": 191484, "best_split": [1, 5], "split_score": 0.32407932009036267}
+{"sent": "pink shirt girl", "ann_id": 191484, "best_split": [3, 2], "split_score": 0.4247213441669671}
+{"sent": "striped shirt", "ann_id": 186450, "best_split": [3, 2], "split_score": 0.4521087898647902}
+{"sent": "non blurry girl", "ann_id": 186450, "best_split": [3, 3], "split_score": 0.28768898485014155}
+{"sent": "girl in striped shirt", "ann_id": 186450, "best_split": [3, 2], "split_score": 0.4521087898647902}
+{"sent": "black thing close to strip shirt", "ann_id": 1932362, "best_split": [3, 3], "split_score": 0.8639092727044847}
+{"sent": "dark bench by girl", "ann_id": 1932362, "best_split": [3, 1], "split_score": 0.3083519323206653}
+{"sent": "black space on side of girl", "ann_id": 1932362, "best_split": [3, 1], "split_score": 0.3083519323206653}
+{"sent": "chair behind girl in pink", "ann_id": 100653, "best_split": [3, 2], "split_score": 0.3083333332986111}
+{"sent": "chair center floor", "ann_id": 100653, "best_split": [3, 3], "split_score": 0.45121951212076145}

@@ -1,0 +1,5 @@
+{"sent": "couch section closest to us", "ann_id": 116018, "best_split": [3, 2], "split_score": 0.34553893756105836}
+{"sent": "closest couch part", "ann_id": 116018, "best_split": [3, 2], "split_score": 0.34553893756105836}
+{"sent": "ottoman part of couch", "ann_id": 116018, "best_split": [3, 2], "split_score": 0.34553893756105836}
+{"sent": "brown stripes pillow", "ann_id": 115908, "best_split": [2, 2], "split_score": 0.4166138236828936}
+{"sent": "couch under pillow", "ann_id": 115908, "best_split": [2, 3], "split_score": 0.6287081338960875}

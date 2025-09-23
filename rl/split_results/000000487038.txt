@@ -1,0 +1,6 @@
+{"sent": "small oven close to ceiling", "ann_id": 2139712, "best_split": [2, 1], "split_score": 0.2535076530511198}
+{"sent": "little window", "ann_id": 2139712, "best_split": [5, 1], "split_score": 0.40373961215341586}
+{"sent": "upper oven", "ann_id": 2139712, "best_split": [2, 1], "split_score": 0.2535076530511198}
+{"sent": "the oven with a lot of shelves", "ann_id": 2139703, "best_split": [2, 3], "split_score": 0.44204809926749045}
+{"sent": "the oven with the pans in it", "ann_id": 2139703, "best_split": [2, 3], "split_score": 0.44204809926749045}
+{"sent": "bigger oven below", "ann_id": 2139703, "best_split": [2, 3], "split_score": 0.44204809926749045}

@@ -1,0 +1,7 @@
+{"sent": "metal table", "ann_id": 1960977, "best_split": [3, 2], "split_score": 0.6120184253965643}
+{"sent": "empty table near refrigerator", "ann_id": 1960977, "best_split": [3, 1], "split_score": 0.32769058294127296}
+{"sent": "empty table", "ann_id": 1960977, "best_split": [3, 2], "split_score": 0.6120184253965643}
+{"sent": "brown table", "ann_id": 119094, "best_split": [1, 3], "split_score": 0.4022193923775596}
+{"sent": "the table", "ann_id": 119094, "best_split": [1, 3], "split_score": 0.4022193923775596}
+{"sent": "the table", "ann_id": 119094, "best_split": [1, 3], "split_score": 0.4022193923775596}
+{"sent": "long table", "ann_id": 119094, "best_split": [1, 3], "split_score": 0.4022193923775596}

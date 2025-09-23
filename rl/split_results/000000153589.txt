@@ -1,0 +1,9 @@
+{"sent": "zebra away from others", "ann_id": 1412752, "best_split": [3, 1], "split_score": 0.1818894787535057}
+{"sent": "off by itself", "ann_id": 1412752, "best_split": [2, 2], "split_score": 0.10905980468251053}
+{"sent": "zebra by itself", "ann_id": 1412752, "best_split": [3, 1], "split_score": 0.1818894787535057}
+{"sent": "zebra not eating", "ann_id": 591650, "best_split": [3, 2], "split_score": 0.6022124912880603}
+{"sent": "lead zebra", "ann_id": 591650, "best_split": [3, 2], "split_score": 0.6022124912880603}
+{"sent": "leading zebra", "ann_id": 591650, "best_split": [3, 2], "split_score": 0.6022124912880603}
+{"sent": "sandwich zebra", "ann_id": 588699, "best_split": [3, 2], "split_score": 0.19756514308014042}
+{"sent": "z eatong nearest another z", "ann_id": 588699, "best_split": [3, 2], "split_score": 0.19756514308014042}
+{"sent": "zebra closes to the one walking away", "ann_id": 588699, "best_split": [3, 2], "split_score": 0.19756514308014042}

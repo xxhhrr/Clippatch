@@ -1,0 +1,6 @@
+{"sent": "zebra head that is on the back of the other zebra", "ann_id": 589651, "best_split": [1, 5], "split_score": 0.435643564317924}
+{"sent": "just the head", "ann_id": 589651, "best_split": [1, 5], "split_score": 0.435643564317924}
+{"sent": "giraffe face", "ann_id": 589651, "best_split": [1, 5], "split_score": 0.435643564317924}
+{"sent": "zebra part closest to camera", "ann_id": 589407, "best_split": [2, 1], "split_score": 0.7013880045619066}
+{"sent": "zebra standing sideways", "ann_id": 589407, "best_split": [2, 1], "split_score": 0.7013880045619066}
+{"sent": "zebra no face", "ann_id": 589407, "best_split": [2, 1], "split_score": 0.7013880045619066}

@@ -1,0 +1,6 @@
+{"sent": "white shirt gray hair", "ann_id": 488998, "best_split": [1, 2], "split_score": 0.45599613151229634}
+{"sent": "man white standing player", "ann_id": 488998, "best_split": [1, 2], "split_score": 0.45599613151229634}
+{"sent": "person in white shirt and gray hair", "ann_id": 488998, "best_split": [1, 2], "split_score": 0.45599613151229634}
+{"sent": "man in tanktop", "ann_id": 480010, "best_split": [5, 1], "split_score": 0.2256410256229454}
+{"sent": "man sitting bending forward", "ann_id": 480010, "best_split": [2, 1], "split_score": 0.2168367346852345}
+{"sent": "man bending down", "ann_id": 480010, "best_split": [2, 3], "split_score": 0.6069296499348086}

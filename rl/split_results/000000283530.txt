@@ -1,0 +1,6 @@
+{"sent": "not the one closest one behind", "ann_id": 2171869, "best_split": [3, 2], "split_score": 0.26812688818859226}
+{"sent": "truck almost half hidden but not fully half", "ann_id": 2171869, "best_split": [3, 1], "split_score": 0.14154704943372368}
+{"sent": "bus between others", "ann_id": 2171869, "best_split": [3, 3], "split_score": 0.3849132589242699}
+{"sent": "that was 1 in truck closest stupid", "ann_id": 399498, "best_split": [1, 2], "split_score": 0.5462450826541381}
+{"sent": "full truck", "ann_id": 399498, "best_split": [1, 2], "split_score": 0.5462450826541381}
+{"sent": "closest truck", "ann_id": 399498, "best_split": [1, 2], "split_score": 0.5462450826541381}

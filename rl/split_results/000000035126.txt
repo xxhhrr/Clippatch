@@ -1,0 +1,6 @@
+{"sent": "horse by the tree alone", "ann_id": 56619, "best_split": [2, 3], "split_score": 0.34729878718323365}
+{"sent": "horse near us", "ann_id": 56619, "best_split": [2, 3], "split_score": 0.34729878718323365}
+{"sent": "horse nearest us", "ann_id": 56619, "best_split": [2, 3], "split_score": 0.34729878718323365}
+{"sent": "the horse in back with the little girl", "ann_id": 55448, "best_split": [3, 2], "split_score": 0.5438108483375277}
+{"sent": "fartest horse", "ann_id": 55448, "best_split": [3, 1], "split_score": 0.277370536753525}
+{"sent": "horse in background", "ann_id": 55448, "best_split": [3, 2], "split_score": 0.5438108483375277}

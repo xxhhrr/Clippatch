@@ -1,0 +1,4 @@
+{"sent": "closest chair and you only see the back", "ann_id": 383445, "best_split": [3, 3], "split_score": 0.3095238094740148}
+{"sent": "the chair on this side of the table", "ann_id": 383445, "best_split": [3, 3], "split_score": 0.3095238094740148}
+{"sent": "chair closest", "ann_id": 383445, "best_split": [3, 3], "split_score": 0.3095238094740148}
+{"sent": "chair closest to rounds remaning", "ann_id": 2192095, "best_split": [3, 2], "split_score": 0.5440613026168509}

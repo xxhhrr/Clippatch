@@ -1,0 +1,6 @@
+{"sent": "traffic light by our score", "ann_id": 407661, "best_split": [3, 1], "split_score": 0.2149496514225915}
+{"sent": "stoplight without extra support attached", "ann_id": 407661, "best_split": [3, 1], "split_score": 0.2149496514225915}
+{"sent": "orange lights over the red building", "ann_id": 407661, "best_split": [1, 5], "split_score": 0.5151715039153058}
+{"sent": "traffic light 9 o clock", "ann_id": 401926, "best_split": [1, 3], "split_score": 0.4796090733301394}
+{"sent": "traffic signal with side evenly shown", "ann_id": 401926, "best_split": [1, 3], "split_score": 0.4796090733301394}
+{"sent": "light with no building under", "ann_id": 401926, "best_split": [1, 3], "split_score": 0.4796090733301394}

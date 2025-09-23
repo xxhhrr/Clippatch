@@ -1,0 +1,5 @@
+{"sent": "one behind the rock", "ann_id": 581873, "best_split": [2, 1], "split_score": 0.06910569105440238}
+{"sent": "partial elephant", "ann_id": 581873, "best_split": [3, 2], "split_score": 0.4487179486665845}
+{"sent": "whole ellie", "ann_id": 581297, "best_split": [3, 3], "split_score": 0.5941123995769276}
+{"sent": "standing in open", "ann_id": 581297, "best_split": [1, 5], "split_score": 0.32868525894075945}
+{"sent": "main elephant", "ann_id": 581297, "best_split": [3, 3], "split_score": 0.5941123995769276}

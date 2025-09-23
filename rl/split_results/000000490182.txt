@@ -1,0 +1,6 @@
+{"sent": "dodgers player runnign the base", "ann_id": 543487, "best_split": [1, 5], "split_score": 0.49010287332457586}
+{"sent": "player running to base", "ann_id": 543487, "best_split": [1, 5], "split_score": 0.49010287332457586}
+{"sent": "runner", "ann_id": 543487, "best_split": [1, 5], "split_score": 0.49010287332457586}
+{"sent": "the player on defense", "ann_id": 483107, "best_split": [3, 3], "split_score": 0.3724250935893697}
+{"sent": "black jersey", "ann_id": 483107, "best_split": [3, 3], "split_score": 0.3724250935893697}
+{"sent": "player in black", "ann_id": 483107, "best_split": [3, 3], "split_score": 0.3724250935893697}

@@ -1,0 +1,6 @@
+{"sent": "monkey face", "ann_id": 2222081, "best_split": [3, 3], "split_score": 0.6018644066776501}
+{"sent": "monkey", "ann_id": 2222081, "best_split": [3, 3], "split_score": 0.6018644066776501}
+{"sent": "monkey head", "ann_id": 2222081, "best_split": [3, 3], "split_score": 0.6018644066776501}
+{"sent": "yellow cake", "ann_id": 1928896, "best_split": [2, 3], "split_score": 0.6666666665957145}
+{"sent": "something yellow the bigger one", "ann_id": 1928896, "best_split": [2, 3], "split_score": 0.6666666665957145}
+{"sent": "big cake piece", "ann_id": 1928896, "best_split": [3, 3], "split_score": 0.3679727427206162}

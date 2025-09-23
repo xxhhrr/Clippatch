@@ -1,0 +1,9 @@
+{"sent": "next to white shirt in corner", "ann_id": 1593081, "best_split": [2, 3], "split_score": 0.6196377501644854}
+{"sent": "the chair the man in red is sitting on", "ann_id": 1582194, "best_split": [2, 3], "split_score": 0.6774029495950666}
+{"sent": "seat he sitting on", "ann_id": 1582194, "best_split": [2, 2], "split_score": 0.5718394561006772}
+{"sent": "chair man in plaid is sitting on", "ann_id": 1582194, "best_split": [1, 3], "split_score": 0.5980648832898084}
+{"sent": "white shirt", "ann_id": 455209, "best_split": [1, 3], "split_score": 0.7106938598947505}
+{"sent": "person in white", "ann_id": 455209, "best_split": [1, 3], "split_score": 0.7106938598947505}
+{"sent": "plaid shirt", "ann_id": 441866, "best_split": [1, 2], "split_score": 0.7491526440280406}
+{"sent": "checkered", "ann_id": 441866, "best_split": [1, 2], "split_score": 0.7491526440280406}
+{"sent": "man", "ann_id": 441866, "best_split": [1, 2], "split_score": 0.7491526440280406}

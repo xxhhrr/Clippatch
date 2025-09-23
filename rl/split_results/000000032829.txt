@@ -1,0 +1,6 @@
+{"sent": "bench the one only partially seen", "ann_id": 577996, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "partial bench showing", "ann_id": 577996, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "part of bench showing in corner", "ann_id": 577996, "best_split": [3, 2], "split_score": 0.30405405401736796}
+{"sent": "bench in back", "ann_id": 573192, "best_split": [1, 5], "split_score": 0.27640067909368415}
+{"sent": "gray bench near sign", "ann_id": 573192, "best_split": [3, 1], "split_score": 0.2696078431215215}
+{"sent": "bench by sign", "ann_id": 573192, "best_split": [1, 5], "split_score": 0.27640067909368415}

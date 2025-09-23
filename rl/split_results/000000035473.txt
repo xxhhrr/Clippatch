@@ -1,0 +1,6 @@
+{"sent": "clos bus", "ann_id": 1364566, "best_split": [1, 5], "split_score": 0.6019352685517237}
+{"sent": "train closet to us", "ann_id": 1364566, "best_split": [1, 5], "split_score": 0.6019352685517237}
+{"sent": "trolly", "ann_id": 1364566, "best_split": [1, 2], "split_score": 0.37260841835249486}
+{"sent": "white with blue bus", "ann_id": 365855, "best_split": [3, 3], "split_score": 0.3746376810915511}
+{"sent": "full bus", "ann_id": 365855, "best_split": [3, 3], "split_score": 0.3746376810915511}
+{"sent": "bus", "ann_id": 365855, "best_split": [3, 3], "split_score": 0.3746376810915511}

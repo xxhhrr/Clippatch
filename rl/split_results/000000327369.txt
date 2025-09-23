@@ -1,0 +1,6 @@
+{"sent": "guy in green", "ann_id": 529377, "best_split": [1, 2], "split_score": 0.576465166273275}
+{"sent": "older man", "ann_id": 529377, "best_split": [1, 2], "split_score": 0.576465166273275}
+{"sent": "shorter guy", "ann_id": 529377, "best_split": [1, 2], "split_score": 0.576465166273275}
+{"sent": "younger man in white shirt", "ann_id": 496767, "best_split": [1, 3], "split_score": 0.5172676309600226}
+{"sent": "man in white shirt", "ann_id": 496767, "best_split": [1, 3], "split_score": 0.5172676309600226}
+{"sent": "white shirt", "ann_id": 496767, "best_split": [1, 2], "split_score": 0.39957230685914}

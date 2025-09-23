@@ -1,0 +1,14 @@
+{"sent": "cow laying down looking away", "ann_id": 76642, "best_split": [2, 3], "split_score": 0.3767108407151085}
+{"sent": "cow back to us sitting 9pm", "ann_id": 76642, "best_split": [2, 3], "split_score": 0.3767108407151085}
+{"sent": "yak that is black", "ann_id": 76289, "best_split": [2, 2], "split_score": 0.2561383928367236}
+{"sent": "black and white cow", "ann_id": 76289, "best_split": [3, 3], "split_score": 0.5577267836934875}
+{"sent": "black and white", "ann_id": 76289, "best_split": [3, 3], "split_score": 0.5577267836934875}
+{"sent": "buffalo next to black and white cow", "ann_id": 75298, "best_split": [3, 2], "split_score": 0.6593452133589571}
+{"sent": "horned brown after the dark brown and white one", "ann_id": 75298, "best_split": [2, 2], "split_score": 0.5536480686270963}
+{"sent": "cow with horns in back not sitting", "ann_id": 75298, "best_split": [3, 2], "split_score": 0.6593452133589571}
+{"sent": "closer standing cow", "ann_id": 73293, "best_split": [2, 1], "split_score": 0.6026785714045488}
+{"sent": "large cow standing behind the one laying down that you can see most of", "ann_id": 73293, "best_split": [2, 1], "split_score": 0.6026785714045488}
+{"sent": "only one standing in full view", "ann_id": 73293, "best_split": [2, 1], "split_score": 0.6026785714045488}
+{"sent": "lowest bull", "ann_id": 72785, "best_split": [1, 2], "split_score": 0.4784053155983997}
+{"sent": "closest animal", "ann_id": 72785, "best_split": [1, 2], "split_score": 0.4784053155983997}
+{"sent": "laying black animal", "ann_id": 72785, "best_split": [1, 2], "split_score": 0.4784053155983997}

@@ -1,0 +1,5 @@
+{"sent": "back corner of table with cup", "ann_id": 2225944, "best_split": [3, 3], "split_score": 0.4614637304952293}
+{"sent": "table cloth next to cup", "ann_id": 2225944, "best_split": [3, 3], "split_score": 0.4614637304952293}
+{"sent": "fartest piece of table", "ann_id": 2225944, "best_split": [2, 3], "split_score": 0.3170894525681921}
+{"sent": "tablecloth", "ann_id": 1960485, "best_split": [2, 1], "split_score": 0.6354930617676491}
+{"sent": "small green piece of table", "ann_id": 1960485, "best_split": [2, 1], "split_score": 0.6354930617676491}

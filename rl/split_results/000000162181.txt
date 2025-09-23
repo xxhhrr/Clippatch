@@ -1,0 +1,6 @@
+{"sent": "next to walking", "ann_id": 590012, "best_split": [2, 2], "split_score": 0.6428777809417164}
+{"sent": "closest zebra", "ann_id": 590012, "best_split": [2, 2], "split_score": 0.6428777809417164}
+{"sent": "zebra with head to ground", "ann_id": 590012, "best_split": [2, 2], "split_score": 0.6428777809417164}
+{"sent": "zebra trotting", "ann_id": 588225, "best_split": [3, 1], "split_score": 0.28827301148384965}
+{"sent": "zebra not eating", "ann_id": 588225, "best_split": [3, 1], "split_score": 0.28827301148384965}
+{"sent": "zebra with head up", "ann_id": 588225, "best_split": [3, 1], "split_score": 0.28827301148384965}

@@ -1,0 +1,6 @@
+{"sent": "upper corner animal", "ann_id": 278892, "best_split": [3, 3], "split_score": 0.559648847694051}
+{"sent": "cow most farhest", "ann_id": 278892, "best_split": [2, 3], "split_score": 0.5280804693416261}
+{"sent": "farthest cow large white stripe", "ann_id": 278892, "best_split": [2, 3], "split_score": 0.5280804693416261}
+{"sent": "dead ahead", "ann_id": 278729, "best_split": [1, 2], "split_score": 0.3969275376962401}
+{"sent": "full size animal", "ann_id": 278729, "best_split": [3, 1], "split_score": 0.4512054031940463}
+{"sent": "the cow closest", "ann_id": 278729, "best_split": [3, 1], "split_score": 0.4512054031940463}

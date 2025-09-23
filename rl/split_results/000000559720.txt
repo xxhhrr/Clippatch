@@ -1,0 +1,12 @@
+{"sent": "the person across from red umbrell", "ann_id": 512179, "best_split": [5, 1], "split_score": 0.1628056627925671}
+{"sent": "person on east side holding umbrella", "ann_id": 512179, "best_split": [3, 2], "split_score": 0.27251184831432546}
+{"sent": "blue jacket", "ann_id": 512179, "best_split": [3, 3], "split_score": 0.31266284519115906}
+{"sent": "dude under the red umbrella", "ann_id": 510572, "best_split": [1, 2], "split_score": 0.19551179846159472}
+{"sent": "white plaid shirt", "ann_id": 510572, "best_split": [1, 5], "split_score": 0.4812844956867752}
+{"sent": "man holding red umbrella", "ann_id": 510572, "best_split": [1, 2], "split_score": 0.19551179846159472}
+{"sent": "red umbrella", "ann_id": 285008, "best_split": [2, 2], "split_score": 0.26801658161128694}
+{"sent": "pink umbrella", "ann_id": 285008, "best_split": [2, 2], "split_score": 0.26801658161128694}
+{"sent": "red umbrella", "ann_id": 285008, "best_split": [2, 2], "split_score": 0.26801658161128694}
+{"sent": "full black umbrella", "ann_id": 282556, "best_split": [3, 3], "split_score": 0.4402173912445357}
+{"sent": "black umbrella", "ann_id": 282556, "best_split": [3, 3], "split_score": 0.4402173912445357}
+{"sent": "black umbrella near red one", "ann_id": 282556, "best_split": [3, 3], "split_score": 0.4402173912445357}

@@ -1,0 +1,6 @@
+{"sent": "foot black", "ann_id": 553755, "best_split": [1, 2], "split_score": 0.40039062498404054}
+{"sent": "the standing leg", "ann_id": 553755, "best_split": [1, 3], "split_score": 0.605996621585063}
+{"sent": "leg of person off screen", "ann_id": 553755, "best_split": [1, 3], "split_score": 0.605996621585063}
+{"sent": "person drawing", "ann_id": 454176, "best_split": [1, 2], "split_score": 0.5040862773365725}
+{"sent": "person not board", "ann_id": 454176, "best_split": [1, 3], "split_score": 0.48464367952137793}
+{"sent": "person holding board", "ann_id": 454176, "best_split": [1, 2], "split_score": 0.5040862773365725}

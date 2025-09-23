@@ -1,0 +1,6 @@
+{"sent": "tall giraffe", "ann_id": 601554, "best_split": [1, 5], "split_score": 0.5562750539194977}
+{"sent": "giraffe not facing you", "ann_id": 601554, "best_split": [1, 5], "split_score": 0.5562750539194977}
+{"sent": "biggest", "ann_id": 601554, "best_split": [1, 5], "split_score": 0.5562750539194977}
+{"sent": "giraffe looking at us lets do this", "ann_id": 601159, "best_split": [1, 3], "split_score": 0.2142857142727868}
+{"sent": "far giraffe", "ann_id": 601159, "best_split": [3, 1], "split_score": 0.09677419354311387}
+{"sent": "the giraffe thats on the left", "ann_id": 601159, "best_split": [3, 3], "split_score": 0.24489795914990375}

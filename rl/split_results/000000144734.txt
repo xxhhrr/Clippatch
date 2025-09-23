@@ -1,0 +1,4 @@
+{"sent": "middle chair unopen umbrella", "ann_id": 375064, "best_split": [2, 3], "split_score": 0.5201668984098091}
+{"sent": "chair next to closed umbrella in corner", "ann_id": 387957, "best_split": [5, 1], "split_score": 0.18680600912909814}
+{"sent": "solo chair by closed umbrella", "ann_id": 387957, "best_split": [5, 1], "split_score": 0.18680600912909814}
+{"sent": "chair closest to you partial view", "ann_id": 387957, "best_split": [3, 3], "split_score": 0.571163366248273}

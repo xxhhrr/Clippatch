@@ -1,0 +1,5 @@
+{"sent": "cut off zebra a 8 o clock", "ann_id": 591326, "best_split": [3, 3], "split_score": 0.5916727537268676}
+{"sent": "furthest zebra back in the line", "ann_id": 591326, "best_split": [3, 3], "split_score": 0.5916727537268676}
+{"sent": "full zebra", "ann_id": 590656, "best_split": [3, 1], "split_score": 0.46677471634588863}
+{"sent": "nearer", "ann_id": 590656, "best_split": [3, 1], "split_score": 0.46677471634588863}
+{"sent": "zebra with whole body in view", "ann_id": 590656, "best_split": [3, 1], "split_score": 0.46677471634588863}

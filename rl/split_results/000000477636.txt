@@ -1,0 +1,6 @@
+{"sent": "plane takingoff", "ann_id": 161619, "best_split": [3, 2], "split_score": 0.42350386095276255}
+{"sent": "big boat us navy", "ann_id": 161619, "best_split": [5, 1], "split_score": 0.2566754418713167}
+{"sent": "plane that says us navy", "ann_id": 161619, "best_split": [3, 2], "split_score": 0.42350386095276255}
+{"sent": "plane face on beach", "ann_id": 157624, "best_split": [3, 1], "split_score": 0.2920487451561264}
+{"sent": "plane on sand", "ann_id": 157624, "best_split": [3, 1], "split_score": 0.2920487451561264}
+{"sent": "close plane", "ann_id": 157624, "best_split": [5, 1], "split_score": 0.3629787628338144}

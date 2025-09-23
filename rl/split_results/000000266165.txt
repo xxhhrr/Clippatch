@@ -1,0 +1,5 @@
+{"sent": "half bowl", "ann_id": 1038574, "best_split": [2, 3], "split_score": 0.2801640926302891}
+{"sent": "bowl with food not being eaten", "ann_id": 1038574, "best_split": [3, 3], "split_score": 0.3259649718881202}
+{"sent": "bowl cat is eating from", "ann_id": 712677, "best_split": [3, 3], "split_score": 0.5536791314002293}
+{"sent": "bowl cat is eating from", "ann_id": 712677, "best_split": [3, 3], "split_score": 0.5536791314002293}
+{"sent": "bowl cat eating from", "ann_id": 712677, "best_split": [3, 3], "split_score": 0.5536791314002293}

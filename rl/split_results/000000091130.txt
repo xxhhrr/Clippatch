@@ -1,0 +1,9 @@
+{"sent": "box with mms", "ann_id": 2109688, "best_split": [2, 3], "split_score": 0.4098837208980292}
+{"sent": "the candy", "ann_id": 2109688, "best_split": [2, 2], "split_score": 0.6128586995559129}
+{"sent": "compartment with m and ms and nuts", "ann_id": 2109688, "best_split": [2, 2], "split_score": 0.6128586995559129}
+{"sent": "mixed vegetable compartment with greens and cauliflower", "ann_id": 2109751, "best_split": [1, 2], "split_score": 0.5819978923441259}
+{"sent": "main dish", "ann_id": 2109751, "best_split": [1, 2], "split_score": 0.5819978923441259}
+{"sent": "blue bin", "ann_id": 2109751, "best_split": [1, 3], "split_score": 0.43296100812434185}
+{"sent": "smiley face", "ann_id": 711343, "best_split": [2, 3], "split_score": 0.5959160195142424}
+{"sent": "big box 12 o clock", "ann_id": 711343, "best_split": [2, 1], "split_score": 0.5393968103371468}
+{"sent": "tray with a face", "ann_id": 711343, "best_split": [2, 3], "split_score": 0.5959160195142424}

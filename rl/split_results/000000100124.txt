@@ -1,0 +1,6 @@
+{"sent": "blue and yellow", "ann_id": 203239, "best_split": [1, 5], "split_score": 0.21956368752190975}
+{"sent": "blue shirt", "ann_id": 203239, "best_split": [1, 5], "split_score": 0.21956368752190975}
+{"sent": "blue yellow shirt", "ann_id": 203239, "best_split": [1, 5], "split_score": 0.21956368752190975}
+{"sent": "man in red", "ann_id": 193711, "best_split": [3, 3], "split_score": 0.26903308701107725}
+{"sent": "red", "ann_id": 193711, "best_split": [3, 3], "split_score": 0.26903308701107725}
+{"sent": "red shirt", "ann_id": 193711, "best_split": [3, 3], "split_score": 0.26903308701107725}

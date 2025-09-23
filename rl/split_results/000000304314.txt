@@ -1,0 +1,11 @@
+{"sent": "boat bird is flying towards", "ann_id": 182247, "best_split": [1, 2], "split_score": 0.09311224489424776}
+{"sent": "part of white boat bird flying toward", "ann_id": 182247, "best_split": [1, 2], "split_score": 0.09311224489424776}
+{"sent": "largest boat", "ann_id": 182137, "best_split": [2, 3], "split_score": 0.3409629044651773}
+{"sent": "cutoff big boat", "ann_id": 182137, "best_split": [3, 2], "split_score": 0.4735472679451922}
+{"sent": "tallest ship piece", "ann_id": 182137, "best_split": [2, 2], "split_score": 0.26545660803563126}
+{"sent": "bigger tug", "ann_id": 181827, "best_split": [2, 2], "split_score": 0.2921364767687702}
+{"sent": "white big boat closest to us", "ann_id": 181827, "best_split": [2, 2], "split_score": 0.2921364767687702}
+{"sent": "big white boat closest to us", "ann_id": 181827, "best_split": [2, 2], "split_score": 0.2921364767687702}
+{"sent": "smallest boat", "ann_id": 181735, "best_split": [3, 3], "split_score": 0.7649744337536569}
+{"sent": "red and white lil boat", "ann_id": 181735, "best_split": [3, 3], "split_score": 0.7649744337536569}
+{"sent": "red boat", "ann_id": 181735, "best_split": [3, 3], "split_score": 0.7649744337536569}

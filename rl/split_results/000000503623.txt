@@ -1,0 +1,6 @@
+{"sent": "man bending down with dark shirt", "ann_id": 443262, "best_split": [2, 3], "split_score": 0.5274411973870776}
+{"sent": "guy with purple shirt", "ann_id": 443262, "best_split": [3, 1], "split_score": 0.27032967031616734}
+{"sent": "man bending over", "ann_id": 443262, "best_split": [2, 1], "split_score": 0.07254802830913334}
+{"sent": "girl with hotdogs", "ann_id": 441784, "best_split": [2, 1], "split_score": 0.47721793340775837}
+{"sent": "girl in red", "ann_id": 441784, "best_split": [2, 1], "split_score": 0.47721793340775837}
+{"sent": "her minus hotdog tray", "ann_id": 441784, "best_split": [2, 1], "split_score": 0.47721793340775837}

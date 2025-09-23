@@ -1,0 +1,17 @@
+{"sent": "girl in green", "ann_id": 1223031, "best_split": [2, 3], "split_score": 0.5573144612573503}
+{"sent": "girl with green stripped shirt", "ann_id": 1223031, "best_split": [2, 3], "split_score": 0.5573144612573503}
+{"sent": "green sleeves", "ann_id": 1223031, "best_split": [2, 3], "split_score": 0.5573144612573503}
+{"sent": "partial head close", "ann_id": 1316020, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "girls back of head with braids", "ann_id": 1316020, "best_split": [3, 2], "split_score": 0.2851656264660147}
+{"sent": "girl with braids closest to viewer", "ann_id": 1316020, "best_split": [1, 5], "split_score": 0.20518358529303124}
+{"sent": "red shirt girl with pony tail back to us next to black girl with head turned", "ann_id": 1306503, "best_split": [2, 3], "split_score": 0.3992673992216956}
+{"sent": "girl closest to us red next to african white", "ann_id": 1306503, "best_split": [2, 3], "split_score": 0.3992673992216956}
+{"sent": "girl in red next to girl with braids", "ann_id": 1305396, "best_split": [3, 3], "split_score": 0.4850519583557071}
+{"sent": "black girl", "ann_id": 1305396, "best_split": [3, 3], "split_score": 0.4850519583557071}
+{"sent": "pretty black girl in red looking towards camera", "ann_id": 1305396, "best_split": [3, 3], "split_score": 0.4850519583557071}
+{"sent": "girl in red next to girl with mouth open", "ann_id": 1273816, "best_split": [3, 3], "split_score": 0.48535433063222766}
+{"sent": "girl with pizza pan in front of her", "ann_id": 1273816, "best_split": [3, 3], "split_score": 0.48535433063222766}
+{"sent": "girl in red shirt holding pizza tray", "ann_id": 1273816, "best_split": [3, 3], "split_score": 0.48535433063222766}
+{"sent": "white girl mouth open", "ann_id": 1226908, "best_split": [3, 2], "split_score": 0.3310772054226136}
+{"sent": "woman with mouth open", "ann_id": 1226908, "best_split": [3, 2], "split_score": 0.3310772054226136}
+{"sent": "girl next to girl in green with wide open mouth", "ann_id": 1226908, "best_split": [3, 2], "split_score": 0.3310772054226136}

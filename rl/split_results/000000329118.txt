@@ -1,0 +1,5 @@
+{"sent": "elephant by itself", "ann_id": 582573, "best_split": [3, 3], "split_score": 0.6840543494168273}
+{"sent": "smaller elephant thats alone", "ann_id": 582573, "best_split": [3, 3], "split_score": 0.6840543494168273}
+{"sent": "partly elephant", "ann_id": 582573, "best_split": [3, 3], "split_score": 0.6840543494168273}
+{"sent": "lead elephant", "ann_id": 580475, "best_split": [2, 2], "split_score": 0.2931228861123786}
+{"sent": "elephant with baby", "ann_id": 580475, "best_split": [2, 2], "split_score": 0.2931228861123786}

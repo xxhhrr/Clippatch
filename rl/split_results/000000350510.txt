@@ -1,0 +1,6 @@
+{"sent": "apples near pepsi logo", "ann_id": 1049915, "best_split": [2, 3], "split_score": 0.4121621621124322}
+{"sent": "potatoes by corn toward 8 o clock", "ann_id": 1049915, "best_split": [3, 3], "split_score": 0.2926297426526196}
+{"sent": "red fruit next to banana and nearest the pepsi display", "ann_id": 1049915, "best_split": [2, 3], "split_score": 0.4121621621124322}
+{"sent": "the apples in the picture between bananas", "ann_id": 1049491, "best_split": [5, 1], "split_score": 0.37942737791493975}
+{"sent": "apples between banana", "ann_id": 1049491, "best_split": [5, 1], "split_score": 0.37942737791493975}
+{"sent": "the batch of apples closest to us", "ann_id": 1049491, "best_split": [5, 1], "split_score": 0.37942737791493975}

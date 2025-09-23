@@ -1,0 +1,5 @@
+{"sent": "big screen", "ann_id": 35379, "best_split": [3, 2], "split_score": 0.6090169992108879}
+{"sent": "large monitor", "ann_id": 35379, "best_split": [3, 1], "split_score": 0.5231357552295474}
+{"sent": "white computer", "ann_id": 33567, "best_split": [2, 3], "split_score": 0.4028716215730126}
+{"sent": "white computer monitor", "ann_id": 33567, "best_split": [2, 3], "split_score": 0.4028716215730126}
+{"sent": "smaller computer monitor", "ann_id": 33567, "best_split": [2, 3], "split_score": 0.4028716215730126}

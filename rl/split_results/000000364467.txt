@@ -1,0 +1,6 @@
+{"sent": "cookie in bag", "ann_id": 1578112, "best_split": [2, 2], "split_score": 0.33827534036775525}
+{"sent": "food in bag", "ann_id": 1578112, "best_split": [2, 2], "split_score": 0.33827534036775525}
+{"sent": "smaller chocolate section", "ann_id": 1578112, "best_split": [2, 2], "split_score": 0.33827534036775525}
+{"sent": "open cookie", "ann_id": 1577849, "best_split": [3, 1], "split_score": 0.3286802030307886}
+{"sent": "rice and poop", "ann_id": 1577849, "best_split": [2, 2], "split_score": 0.4785964912000821}
+{"sent": "cake not in bag", "ann_id": 1577849, "best_split": [1, 2], "split_score": 0.4697334680056829}

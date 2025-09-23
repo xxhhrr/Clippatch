@@ -1,0 +1,6 @@
+{"sent": "green shirt looking at dog", "ann_id": 1281908, "best_split": [2, 1], "split_score": 0.03418017125347887}
+{"sent": "man in green shirt", "ann_id": 1281908, "best_split": [5, 1], "split_score": 0.15573905861637166}
+{"sent": "green woman", "ann_id": 1281908, "best_split": [3, 3], "split_score": 0.37489276517373565}
+{"sent": "the kid in the blue shirt on the end", "ann_id": 1285365, "best_split": [3, 2], "split_score": 0.3137208476010748}
+{"sent": "blue shirt long blond hair girl", "ann_id": 1285365, "best_split": [3, 2], "split_score": 0.3137208476010748}
+{"sent": "girl nearest us in light blue shirt", "ann_id": 1285365, "best_split": [3, 2], "split_score": 0.3137208476010748}

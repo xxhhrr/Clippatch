@@ -1,0 +1,15 @@
+{"sent": "girl with thumbs up", "ann_id": 1711896, "best_split": [2, 3], "split_score": 0.5617823142053409}
+{"sent": "woman in green print shirt and green wristband", "ann_id": 1711896, "best_split": [2, 3], "split_score": 0.5617823142053409}
+{"sent": "woman in green", "ann_id": 1711896, "best_split": [2, 3], "split_score": 0.5617823142053409}
+{"sent": "man in leather jacket", "ann_id": 1226874, "best_split": [1, 3], "split_score": 0.7011350737400037}
+{"sent": "him", "ann_id": 1226874, "best_split": [1, 3], "split_score": 0.7011350737400037}
+{"sent": "man in sunglasses", "ann_id": 1226874, "best_split": [1, 3], "split_score": 0.7011350737400037}
+{"sent": "man in blue shirt facing away from camera", "ann_id": 532430, "best_split": [5, 1], "split_score": 0.23920690756002502}
+{"sent": "the guy sitting down in a dark navy shirt", "ann_id": 532430, "best_split": [3, 1], "split_score": 0.29276239234973456}
+{"sent": "man sitting in blue shirt", "ann_id": 532430, "best_split": [3, 1], "split_score": 0.29276239234973456}
+{"sent": "furthest away umbrella", "ann_id": 281851, "best_split": [2, 1], "split_score": 0.16738197424289025}
+{"sent": "the red umbrella that looks like its coming out from a mans head", "ann_id": 281851, "best_split": [2, 1], "split_score": 0.16738197424289025}
+{"sent": "smaller umbrella", "ann_id": 281851, "best_split": [2, 1], "split_score": 0.16738197424289025}
+{"sent": "closest umbrella", "ann_id": 280506, "best_split": [2, 2], "split_score": 0.645348837175802}
+{"sent": "umbrella above woman in green", "ann_id": 280506, "best_split": [2, 2], "split_score": 0.645348837175802}
+{"sent": "umbrella over woman in green", "ann_id": 280506, "best_split": [2, 2], "split_score": 0.645348837175802}

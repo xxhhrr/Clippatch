@@ -1,0 +1,6 @@
+{"sent": "closest car", "ann_id": 1198006, "best_split": [1, 2], "split_score": 0.3502641895227454}
+{"sent": "closest car", "ann_id": 1198006, "best_split": [1, 2], "split_score": 0.3502641895227454}
+{"sent": "closest", "ann_id": 1198006, "best_split": [2, 1], "split_score": 0.2944444444348221}
+{"sent": "suv towing trailer", "ann_id": 1197552, "best_split": [2, 1], "split_score": 0.143494897953464}
+{"sent": "truck following other truck", "ann_id": 1197552, "best_split": [2, 2], "split_score": 0.2869897958954887}
+{"sent": "jeep behind the closest", "ann_id": 1197552, "best_split": [2, 1], "split_score": 0.143494897953464}

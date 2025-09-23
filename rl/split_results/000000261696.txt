@@ -1,0 +1,6 @@
+{"sent": "long vase", "ann_id": 1152554, "best_split": [1, 2], "split_score": 0.45144393133739597}
+{"sent": "closest vase", "ann_id": 1152554, "best_split": [1, 2], "split_score": 0.45144393133739597}
+{"sent": "biggest vase", "ann_id": 1152554, "best_split": [1, 2], "split_score": 0.45144393133739597}
+{"sent": "round vase", "ann_id": 1151505, "best_split": [3, 3], "split_score": 0.47999999993379305}
+{"sent": "round part", "ann_id": 1151505, "best_split": [3, 3], "split_score": 0.47999999993379305}
+{"sent": "round bulb vase", "ann_id": 1151505, "best_split": [2, 3], "split_score": 0.2865285958306547}

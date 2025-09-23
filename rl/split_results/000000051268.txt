@@ -1,0 +1,6 @@
+{"sent": "plate under beef", "ann_id": 1898313, "best_split": [5, 1], "split_score": 0.4806434023663684}
+{"sent": "plate under sandwich", "ann_id": 1898313, "best_split": [5, 1], "split_score": 0.4806434023663684}
+{"sent": "edge of plate with sandwich on it", "ann_id": 1898313, "best_split": [5, 1], "split_score": 0.4806434023663684}
+{"sent": "white bowl with pickle", "ann_id": 1535587, "best_split": [2, 2], "split_score": 0.6233002572256365}
+{"sent": "bowl of cucumber", "ann_id": 1535587, "best_split": [2, 2], "split_score": 0.6233002572256365}
+{"sent": "plate with pickle", "ann_id": 1535587, "best_split": [2, 2], "split_score": 0.6233002572256365}

@@ -1,0 +1,6 @@
+{"sent": "batter", "ann_id": 545837, "best_split": [1, 5], "split_score": 0.5835240274122651}
+{"sent": "batter", "ann_id": 545837, "best_split": [1, 5], "split_score": 0.5835240274122651}
+{"sent": "batter", "ann_id": 545837, "best_split": [1, 5], "split_score": 0.5835240274122651}
+{"sent": "catcher", "ann_id": 501046, "best_split": [5, 1], "split_score": 0.18113534593520617}
+{"sent": "blue shirt", "ann_id": 501046, "best_split": [3, 2], "split_score": 0.39912944735057443}
+{"sent": "player with blue shirt", "ann_id": 501046, "best_split": [2, 1], "split_score": 0.07779976796294957}

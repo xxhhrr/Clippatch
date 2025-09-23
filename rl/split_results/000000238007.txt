@@ -1,0 +1,6 @@
+{"sent": "the sip", "ann_id": 1532625, "best_split": [1, 2], "split_score": 0.45280365616864116}
+{"sent": "carrots", "ann_id": 1532625, "best_split": [2, 1], "split_score": 0.5813263817334005}
+{"sent": "veggie plate", "ann_id": 1532625, "best_split": [2, 1], "split_score": 0.5813263817334005}
+{"sent": "white bowl", "ann_id": 1039132, "best_split": [2, 3], "split_score": 0.40381058079875964}
+{"sent": "dip", "ann_id": 1039132, "best_split": [2, 3], "split_score": 0.40381058079875964}
+{"sent": "the dip in the bowl", "ann_id": 1039132, "best_split": [2, 3], "split_score": 0.40381058079875964}

@@ -1,0 +1,6 @@
+{"sent": "the banana that is not in focus", "ann_id": 1904763, "best_split": [1, 2], "split_score": 0.43825333812925826}
+{"sent": "blurry banana not close to edge", "ann_id": 1904763, "best_split": [1, 2], "split_score": 0.43825333812925826}
+{"sent": "yellow blur above banana", "ann_id": 1904763, "best_split": [1, 2], "split_score": 0.43825333812925826}
+{"sent": "banana on the inside", "ann_id": 1043190, "best_split": [2, 2], "split_score": 0.3875325906383306}
+{"sent": "closest banana", "ann_id": 1041950, "best_split": [1, 2], "split_score": 0.6964044336038155}
+{"sent": "banana closest to us", "ann_id": 1041950, "best_split": [1, 2], "split_score": 0.6964044336038155}

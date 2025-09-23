@@ -1,0 +1,6 @@
+{"sent": "next to babys head not on mom", "ann_id": 99716, "best_split": [1, 3], "split_score": 0.7565154439698047}
+{"sent": "empty space next to baby", "ann_id": 99716, "best_split": [1, 3], "split_score": 0.7565154439698047}
+{"sent": "empty couch space next to woman", "ann_id": 99716, "best_split": [1, 5], "split_score": 0.7612456746806192}
+{"sent": "chair under dog", "ann_id": 99157, "best_split": [1, 2], "split_score": 0.8979427483381675}
+{"sent": "couch dogs face is on", "ann_id": 99157, "best_split": [1, 2], "split_score": 0.8979427483381675}
+{"sent": "sofa near side dog", "ann_id": 99157, "best_split": [1, 2], "split_score": 0.8979427483381675}

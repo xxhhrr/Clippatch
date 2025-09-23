@@ -1,0 +1,9 @@
+{"sent": "the person out of focus", "ann_id": 459480, "best_split": [2, 3], "split_score": 0.2904242151130388}
+{"sent": "person least seen in photo", "ann_id": 459480, "best_split": [1, 2], "split_score": 0.1267538265255599}
+{"sent": "blurry woman in white", "ann_id": 459480, "best_split": [2, 3], "split_score": 0.2904242151130388}
+{"sent": "red shirt lady", "ann_id": 449236, "best_split": [2, 3], "split_score": 0.7525773195177322}
+{"sent": "red dress", "ann_id": 449236, "best_split": [2, 3], "split_score": 0.7525773195177322}
+{"sent": "woman in red", "ann_id": 449236, "best_split": [2, 3], "split_score": 0.7525773195177322}
+{"sent": "man with tie", "ann_id": 425047, "best_split": [1, 2], "split_score": 0.6273794134634278}
+{"sent": "man", "ann_id": 425047, "best_split": [2, 1], "split_score": 0.4466776323100724}
+{"sent": "him", "ann_id": 425047, "best_split": [2, 1], "split_score": 0.4466776323100724}

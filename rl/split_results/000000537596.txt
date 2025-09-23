@@ -1,0 +1,6 @@
+{"sent": "chair near door", "ann_id": 383308, "best_split": [3, 2], "split_score": 0.18276871599929226}
+{"sent": "chair far side can be seen in mirror", "ann_id": 383308, "best_split": [3, 2], "split_score": 0.18276871599929226}
+{"sent": "chair furest from you", "ann_id": 383308, "best_split": [1, 3], "split_score": 0.18243243242142662}
+{"sent": "red chair that is not all showing", "ann_id": 375847, "best_split": [2, 3], "split_score": 0.6362552175746863}
+{"sent": "chair next to lamp", "ann_id": 375847, "best_split": [2, 3], "split_score": 0.6362552175746863}
+{"sent": "red chair closest to white floor lamp", "ann_id": 375847, "best_split": [2, 3], "split_score": 0.6362552175746863}

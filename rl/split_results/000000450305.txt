@@ -1,0 +1,6 @@
+{"sent": "fruit against the back of the lemons 3 for 1 sign", "ann_id": 1912391, "best_split": [5, 1], "split_score": 0.2586989409740262}
+{"sent": "the oranges with sign in it", "ann_id": 1557521, "best_split": [5, 1], "split_score": 0.31594415867781556}
+{"sent": "oranges surrounded by all other fruit", "ann_id": 1557521, "best_split": [5, 1], "split_score": 0.31594415867781556}
+{"sent": "oranges with rear sign", "ann_id": 1557521, "best_split": [5, 1], "split_score": 0.31594415867781556}
+{"sent": "batch of ornges with no sign in it", "ann_id": 1556250, "best_split": [3, 3], "split_score": 0.6704565641018908}
+{"sent": "third pile of oranges", "ann_id": 1556250, "best_split": [3, 3], "split_score": 0.6704565641018908}

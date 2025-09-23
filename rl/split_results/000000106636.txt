@@ -1,0 +1,6 @@
+{"sent": "cucumbers", "ann_id": 1536721, "best_split": [3, 1], "split_score": 0.5687446626511131}
+{"sent": "cucumber dish", "ann_id": 1536721, "best_split": [3, 1], "split_score": 0.5687446626511131}
+{"sent": "vegetables", "ann_id": 1536721, "best_split": [3, 1], "split_score": 0.5687446626511131}
+{"sent": "bowl with tomato", "ann_id": 1535601, "best_split": [3, 3], "split_score": 0.35875888814166457}
+{"sent": "tomatoes cauliflower dish", "ann_id": 1535601, "best_split": [3, 1], "split_score": 0.4304160688445165}
+{"sent": "bento with tomato", "ann_id": 1535601, "best_split": [3, 3], "split_score": 0.35875888814166457}

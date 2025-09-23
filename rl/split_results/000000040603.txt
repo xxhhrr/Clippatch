@@ -1,0 +1,12 @@
+{"sent": "person wearing face mask", "ann_id": 1253995, "best_split": [1, 3], "split_score": 0.35907543448849816}
+{"sent": "man with bandana on his face", "ann_id": 1253995, "best_split": [1, 3], "split_score": 0.35907543448849816}
+{"sent": "face mask", "ann_id": 1253995, "best_split": [1, 3], "split_score": 0.35907543448849816}
+{"sent": "red sunglasses", "ann_id": 509724, "best_split": [2, 1], "split_score": 0.1528984253278111}
+{"sent": "white pants", "ann_id": 509724, "best_split": [1, 2], "split_score": 0.32784598212978927}
+{"sent": "man 1", "ann_id": 509724, "best_split": [3, 2], "split_score": 0.18961169943162512}
+{"sent": "shortest person", "ann_id": 481997, "best_split": [1, 5], "split_score": 0.4598158021851851}
+{"sent": "person 2", "ann_id": 481997, "best_split": [1, 5], "split_score": 0.4598158021851851}
+{"sent": "guy in black no snowboard", "ann_id": 481997, "best_split": [2, 3], "split_score": 0.24080206031633533}
+{"sent": "the man holding k2 board", "ann_id": 476479, "best_split": [2, 1], "split_score": 0.14263090504270398}
+{"sent": "guy near k2 board", "ann_id": 476479, "best_split": [2, 1], "split_score": 0.14263090504270398}
+{"sent": "rightiest guy", "ann_id": 476479, "best_split": [1, 2], "split_score": 0.35168207906761473}

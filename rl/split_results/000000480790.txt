@@ -1,0 +1,6 @@
+{"sent": "cat face", "ann_id": 2066599, "best_split": [3, 2], "split_score": 0.325359864487155}
+{"sent": "reflectionof cats face", "ann_id": 2066599, "best_split": [3, 3], "split_score": 0.45163701592889266}
+{"sent": "cat reflection", "ann_id": 2066599, "best_split": [3, 2], "split_score": 0.325359864487155}
+{"sent": "the cat in the sink", "ann_id": 51474, "best_split": [2, 1], "split_score": 0.5516289342714098}
+{"sent": "back of cat", "ann_id": 51474, "best_split": [2, 1], "split_score": 0.5516289342714098}
+{"sent": "main cat", "ann_id": 51474, "best_split": [2, 1], "split_score": 0.5516289342714098}

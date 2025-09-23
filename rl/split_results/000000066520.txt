@@ -1,0 +1,6 @@
+{"sent": "man standing", "ann_id": 1715913, "best_split": [1, 3], "split_score": 0.6122707528588157}
+{"sent": "man talking to cyclist", "ann_id": 1715913, "best_split": [1, 2], "split_score": 0.4045360331471406}
+{"sent": "man standing", "ann_id": 1715913, "best_split": [1, 3], "split_score": 0.6122707528588157}
+{"sent": "man on bike", "ann_id": 200680, "best_split": [1, 3], "split_score": 0.4370952821208895}
+{"sent": "biker in white", "ann_id": 200680, "best_split": [1, 3], "split_score": 0.4370952821208895}
+{"sent": "guy on motorcycle", "ann_id": 200680, "best_split": [1, 3], "split_score": 0.4370952821208895}

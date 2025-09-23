@@ -1,0 +1,6 @@
+{"sent": "tip of airplane", "ann_id": 161393, "best_split": [3, 1], "split_score": 0.3515926640714531}
+{"sent": "blue cockpit", "ann_id": 161393, "best_split": [3, 3], "split_score": 0.6831447289036413}
+{"sent": "nose of blue plane", "ann_id": 161393, "best_split": [3, 3], "split_score": 0.6831447289036413}
+{"sent": "plane in back", "ann_id": 156736, "best_split": [2, 2], "split_score": 0.38592155609168355}
+{"sent": "southwest", "ann_id": 156736, "best_split": [2, 2], "split_score": 0.38592155609168355}
+{"sent": "plane you can see more of", "ann_id": 156736, "best_split": [2, 2], "split_score": 0.38592155609168355}

@@ -1,0 +1,20 @@
+{"sent": "thickest piece", "ann_id": 1551598, "best_split": [3, 3], "split_score": 0.3017835909272552}
+{"sent": "apple with most red skin", "ann_id": 1551598, "best_split": [3, 2], "split_score": 0.3567343718835797}
+{"sent": "big apple piece surrounded by others", "ann_id": 1551598, "best_split": [3, 2], "split_score": 0.3567343718835797}
+{"sent": "longest slice of apple", "ann_id": 1551501, "best_split": [2, 1], "split_score": 0.4209183673301611}
+{"sent": "rectangular slice", "ann_id": 1551501, "best_split": [2, 1], "split_score": 0.4209183673301611}
+{"sent": "rectangle slice with no seeds", "ann_id": 1551501, "best_split": [3, 2], "split_score": 0.11884126794973042}
+{"sent": "apple slice 1100", "ann_id": 1550781, "best_split": [1, 5], "split_score": 0.15590200443987545}
+{"sent": "apple slice at 1100", "ann_id": 1550781, "best_split": [1, 3], "split_score": 0.12429643526475748}
+{"sent": "apple slice at 1100", "ann_id": 1550781, "best_split": [1, 3], "split_score": 0.12429643526475748}
+{"sent": "furthest row between two others", "ann_id": 1550665, "best_split": [5, 1], "split_score": 0.1931260228946639}
+{"sent": "small round slice", "ann_id": 1550665, "best_split": [2, 2], "split_score": 0.12873287926586835}
+{"sent": "full apple slice at 1200", "ann_id": 1550665, "best_split": [1, 2], "split_score": 0.06639644855949058}
+{"sent": "smaller piece with seeds", "ann_id": 1906298, "best_split": [2, 2], "split_score": 0.19387755100495235}
+{"sent": "the last seeded fruit", "ann_id": 1906298, "best_split": [2, 1], "split_score": 0.09693877550634013}
+{"sent": "closest fruit whose seeds look like a star", "ann_id": 1550404, "best_split": [3, 2], "split_score": 0.47800556294653285}
+{"sent": "slice with 5 seedsnot with one seed on edge", "ann_id": 1550404, "best_split": [3, 2], "split_score": 0.47800556294653285}
+{"sent": "number 3 apple slice in number 2 row", "ann_id": 1550404, "best_split": [3, 1], "split_score": 0.2701307446119673}
+{"sent": "apple slice between stars", "ann_id": 1549643, "best_split": [1, 5], "split_score": 0.21513944221159548}
+{"sent": "slice 12 o clock from the slice with 5 seeds", "ann_id": 1549643, "best_split": [2, 2], "split_score": 0.2841198979365338}
+{"sent": "half apple with one little seed", "ann_id": 1549643, "best_split": [1, 5], "split_score": 0.21513944221159548}

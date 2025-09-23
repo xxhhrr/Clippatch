@@ -1,0 +1,6 @@
+{"sent": "white and black goat turned to the side", "ann_id": 64974, "best_split": [3, 1], "split_score": 0.2685285869473743}
+{"sent": "spotted animal standing sideways", "ann_id": 64974, "best_split": [1, 3], "split_score": 0.2868671620827411}
+{"sent": "spotted cow standing sideways", "ann_id": 64974, "best_split": [3, 3], "split_score": 0.5996819429521928}
+{"sent": "the one with most fur", "ann_id": 64180, "best_split": [3, 3], "split_score": 0.4799547567575776}
+{"sent": "fat sheep", "ann_id": 64180, "best_split": [3, 3], "split_score": 0.4799547567575776}
+{"sent": "biggest one", "ann_id": 64180, "best_split": [3, 2], "split_score": 0.4071573260917182}

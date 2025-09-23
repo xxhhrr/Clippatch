@@ -1,0 +1,6 @@
+{"sent": "the guy in the corner with the white and blue strip shirt", "ann_id": 1249555, "best_split": [1, 5], "split_score": 0.5795339411826901}
+{"sent": "stripped shirt", "ann_id": 1249555, "best_split": [1, 5], "split_score": 0.5795339411826901}
+{"sent": "white striped shirt kid with hat", "ann_id": 1249555, "best_split": [1, 5], "split_score": 0.5795339411826901}
+{"sent": "woman eating", "ann_id": 1216702, "best_split": [1, 3], "split_score": 0.49704459966089987}
+{"sent": "person eating", "ann_id": 1216702, "best_split": [1, 3], "split_score": 0.49704459966089987}
+{"sent": "woman", "ann_id": 1216702, "best_split": [1, 2], "split_score": 0.557380896486817}

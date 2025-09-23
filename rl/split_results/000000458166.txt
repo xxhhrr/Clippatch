@@ -1,0 +1,5 @@
+{"sent": "chair cat not sitting in", "ann_id": 104874, "best_split": [2, 3], "split_score": 0.43301985368688506}
+{"sent": "the wheelchair", "ann_id": 104874, "best_split": [1, 2], "split_score": 0.46275962427362216}
+{"sent": "chair furtest from cmera", "ann_id": 104874, "best_split": [2, 1], "split_score": 0.5802486779841272}
+{"sent": "beige chair", "ann_id": 100776, "best_split": [1, 2], "split_score": 0.486524004773481}
+{"sent": "what the cat is sitting in", "ann_id": 100776, "best_split": [2, 1], "split_score": 0.4936374755800597}

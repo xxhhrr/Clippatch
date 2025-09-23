@@ -1,0 +1,6 @@
+{"sent": "red chair not couch", "ann_id": 112545, "best_split": [1, 5], "split_score": 0.24183006533895}
+{"sent": "small red chair", "ann_id": 112545, "best_split": [5, 1], "split_score": 0.22920517558148165}
+{"sent": "red chair", "ann_id": 112545, "best_split": [1, 5], "split_score": 0.24183006533895}
+{"sent": "couch", "ann_id": 111729, "best_split": [2, 2], "split_score": 0.83258583352671}
+{"sent": "couch under book shelf", "ann_id": 111729, "best_split": [1, 2], "split_score": 0.44463488518635863}
+{"sent": "long red sofa", "ann_id": 111729, "best_split": [2, 2], "split_score": 0.83258583352671}

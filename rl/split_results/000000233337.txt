@@ -1,0 +1,6 @@
+{"sent": "hot dag with orange on it", "ann_id": 1069138, "best_split": [1, 3], "split_score": 0.45442296030268736}
+{"sent": "hotdog with carrots", "ann_id": 1069138, "best_split": [1, 2], "split_score": 0.6285840317402299}
+{"sent": "hotdog with orange stuff on it", "ann_id": 1069138, "best_split": [1, 3], "split_score": 0.45442296030268736}
+{"sent": "relish dog", "ann_id": 1068651, "best_split": [1, 2], "split_score": 0.790362819844951}
+{"sent": "this hot dog here", "ann_id": 1068651, "best_split": [1, 2], "split_score": 0.790362819844951}
+{"sent": "sausage you can see more of", "ann_id": 1068651, "best_split": [1, 2], "split_score": 0.790362819844951}

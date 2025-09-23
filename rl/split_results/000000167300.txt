@@ -1,0 +1,6 @@
+{"sent": "smaller child", "ann_id": 477493, "best_split": [1, 2], "split_score": 0.6031930442377846}
+{"sent": "smaller kid", "ann_id": 477493, "best_split": [1, 2], "split_score": 0.6031930442377846}
+{"sent": "baby in blue", "ann_id": 477493, "best_split": [2, 1], "split_score": 0.37161728868886695}
+{"sent": "older girl", "ann_id": 462289, "best_split": [2, 1], "split_score": 0.5552430927853407}
+{"sent": "bigger girl", "ann_id": 462289, "best_split": [2, 1], "split_score": 0.5552430927853407}
+{"sent": "black shirt", "ann_id": 462289, "best_split": [1, 2], "split_score": 0.47198441443112765}

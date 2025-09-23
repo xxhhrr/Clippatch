@@ -1,0 +1,6 @@
+{"sent": "the brown dog", "ann_id": 18328, "best_split": [3, 1], "split_score": 0.34717931111413325}
+{"sent": "red dog", "ann_id": 18328, "best_split": [3, 2], "split_score": 0.6602829161414273}
+{"sent": "the brown dog", "ann_id": 18328, "best_split": [3, 1], "split_score": 0.34717931111413325}
+{"sent": "black dog", "ann_id": 16244, "best_split": [3, 3], "split_score": 0.41451304896059665}
+{"sent": "black dog", "ann_id": 16244, "best_split": [3, 3], "split_score": 0.41451304896059665}
+{"sent": "black dog", "ann_id": 16244, "best_split": [3, 3], "split_score": 0.41451304896059665}

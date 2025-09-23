@@ -1,0 +1,6 @@
+{"sent": "clear glass", "ann_id": 2214257, "best_split": [3, 3], "split_score": 0.6166666665837813}
+{"sent": "glass with water", "ann_id": 2214257, "best_split": [3, 3], "split_score": 0.6166666665837813}
+{"sent": "water glass", "ann_id": 2214257, "best_split": [3, 3], "split_score": 0.6166666665837813}
+{"sent": "coffee", "ann_id": 1510825, "best_split": [3, 2], "split_score": 0.4613466333753699}
+{"sent": "mug of coffee", "ann_id": 1510825, "best_split": [3, 2], "split_score": 0.4613466333753699}
+{"sent": "coffee cup", "ann_id": 1510825, "best_split": [3, 2], "split_score": 0.4613466333753699}

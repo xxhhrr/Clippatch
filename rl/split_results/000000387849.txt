@@ -1,0 +1,5 @@
+{"sent": "red pink train", "ann_id": 1366504, "best_split": [3, 2], "split_score": 0.2281021897550066}
+{"sent": "rust colored car", "ann_id": 1366504, "best_split": [3, 3], "split_score": 0.32467532462126614}
+{"sent": "train", "ann_id": 172463, "best_split": [3, 1], "split_score": 0.46860331235193503}
+{"sent": "blue and white train", "ann_id": 172463, "best_split": [3, 1], "split_score": 0.46860331235193503}
+{"sent": "train", "ann_id": 172463, "best_split": [3, 1], "split_score": 0.46860331235193503}

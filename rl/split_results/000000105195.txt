@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 452066, "best_split": [2, 3], "split_score": 0.40754716976326094}
+{"sent": "man", "ann_id": 452066, "best_split": [2, 3], "split_score": 0.40754716976326094}
+{"sent": "guy", "ann_id": 452066, "best_split": [1, 5], "split_score": 0.30954228080784113}
+{"sent": "woman taking a picture", "ann_id": 444235, "best_split": [2, 2], "split_score": 0.6209677418873318}
+{"sent": "lady", "ann_id": 444235, "best_split": [2, 2], "split_score": 0.6209677418873318}
+{"sent": "blond", "ann_id": 444235, "best_split": [2, 2], "split_score": 0.6209677418873318}

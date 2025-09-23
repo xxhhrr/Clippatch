@@ -1,0 +1,6 @@
+{"sent": "sandwich hidden by beer", "ann_id": 2112423, "best_split": [2, 2], "split_score": 0.22393176018622993}
+{"sent": "sandwich behind the beer half shown", "ann_id": 2112423, "best_split": [3, 2], "split_score": 0.1938676707698905}
+{"sent": "sandwich half behind guinness", "ann_id": 2112423, "best_split": [2, 2], "split_score": 0.22393176018622993}
+{"sent": "half a sandwich we can see the lettuce", "ann_id": 309842, "best_split": [2, 2], "split_score": 0.5582375478570729}
+{"sent": "sandwich", "ann_id": 309842, "best_split": [2, 2], "split_score": 0.5582375478570729}
+{"sent": "sandwhich", "ann_id": 309842, "best_split": [2, 2], "split_score": 0.5582375478570729}

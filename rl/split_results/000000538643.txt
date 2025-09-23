@@ -1,0 +1,9 @@
+{"sent": "person between", "ann_id": 477567, "best_split": [3, 2], "split_score": 0.12435074853923382}
+{"sent": "person wearing blue", "ann_id": 477567, "best_split": [1, 5], "split_score": 0.5279549718078841}
+{"sent": "person between others", "ann_id": 477567, "best_split": [3, 1], "split_score": 0.1825657894643007}
+{"sent": "rightest", "ann_id": 463208, "best_split": [5, 1], "split_score": 0.11708037408641583}
+{"sent": "shortest male", "ann_id": 463208, "best_split": [3, 1], "split_score": 0.17275368332782975}
+{"sent": "man furthest from woman", "ann_id": 463208, "best_split": [3, 1], "split_score": 0.17275368332782975}
+{"sent": "tallest person", "ann_id": 460016, "best_split": [1, 2], "split_score": 0.3211894132525036}
+{"sent": "the tallest man", "ann_id": 460016, "best_split": [1, 2], "split_score": 0.3211894132525036}
+{"sent": "mask", "ann_id": 460016, "best_split": [1, 2], "split_score": 0.3211894132525036}

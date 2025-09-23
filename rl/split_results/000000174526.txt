@@ -1,0 +1,9 @@
+{"sent": "purple shirt", "ann_id": 1282513, "best_split": [3, 3], "split_score": 0.37392622531910985}
+{"sent": "woman in purple", "ann_id": 1282513, "best_split": [3, 3], "split_score": 0.37392622531910985}
+{"sent": "purple sjirt", "ann_id": 1282513, "best_split": [3, 3], "split_score": 0.37392622531910985}
+{"sent": "floral print shirt", "ann_id": 1269757, "best_split": [3, 3], "split_score": 0.4403622250400566}
+{"sent": "flowered shirt at table", "ann_id": 1269757, "best_split": [3, 3], "split_score": 0.4403622250400566}
+{"sent": "woman in floral shirt", "ann_id": 1269757, "best_split": [3, 3], "split_score": 0.4403622250400566}
+{"sent": "women red shirt", "ann_id": 1244084, "best_split": [1, 5], "split_score": 0.3409090908745019}
+{"sent": "burgundy shirt", "ann_id": 1244084, "best_split": [3, 1], "split_score": 0.1253104538199757}
+{"sent": "red shirt", "ann_id": 1244084, "best_split": [1, 5], "split_score": 0.3409090908745019}

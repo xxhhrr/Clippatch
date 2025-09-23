@@ -1,0 +1,6 @@
+{"sent": "blue", "ann_id": 1389341, "best_split": [3, 2], "split_score": 0.5406143344248623}
+{"sent": "blue", "ann_id": 1389341, "best_split": [3, 2], "split_score": 0.5406143344248623}
+{"sent": "blue plastic cover", "ann_id": 1389341, "best_split": [3, 2], "split_score": 0.5406143344248623}
+{"sent": "parking meter not covered", "ann_id": 418734, "best_split": [2, 2], "split_score": 0.29754514670587295}
+{"sent": "uncovered meter", "ann_id": 418734, "best_split": [2, 3], "split_score": 0.31712316002262686}
+{"sent": "meter", "ann_id": 418734, "best_split": [2, 3], "split_score": 0.31712316002262686}

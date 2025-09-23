@@ -1,0 +1,5 @@
+{"sent": "yellow car that has side mirror most visible", "ann_id": 1195963, "best_split": [2, 3], "split_score": 0.7953850704274347}
+{"sent": "lower bus", "ann_id": 1195963, "best_split": [2, 3], "split_score": 0.7953850704274347}
+{"sent": "372", "ann_id": 365900, "best_split": [1, 2], "split_score": 0.4443090845695314}
+{"sent": "373", "ann_id": 365900, "best_split": [1, 2], "split_score": 0.4443090845695314}
+{"sent": "372 bus", "ann_id": 365900, "best_split": [1, 2], "split_score": 0.4443090845695314}

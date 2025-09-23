@@ -1,0 +1,6 @@
+{"sent": "big sofa", "ann_id": 98434, "best_split": [2, 2], "split_score": 0.6529017856622368}
+{"sent": "sofa", "ann_id": 98434, "best_split": [2, 2], "split_score": 0.6529017856622368}
+{"sent": "long couch", "ann_id": 98434, "best_split": [2, 2], "split_score": 0.6529017856622368}
+{"sent": "chair with cusions near us", "ann_id": 2224847, "best_split": [3, 3], "split_score": 0.8298027755971872}
+{"sent": "chair with cushion", "ann_id": 2224847, "best_split": [3, 3], "split_score": 0.8298027755971872}
+{"sent": "chair floral pattern", "ann_id": 2224847, "best_split": [3, 1], "split_score": 0.27413127411473626}

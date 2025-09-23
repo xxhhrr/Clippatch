@@ -1,0 +1,6 @@
+{"sent": "bike furthest away", "ann_id": 151518, "best_split": [5, 1], "split_score": 0.11438176450357644}
+{"sent": "smaller bike", "ann_id": 151518, "best_split": [5, 1], "split_score": 0.11438176450357644}
+{"sent": "bike with white", "ann_id": 151518, "best_split": [3, 3], "split_score": 0.4974800844582214}
+{"sent": "close motorcycle", "ann_id": 151264, "best_split": [2, 3], "split_score": 0.3936957220654796}
+{"sent": "bigger motocrcycle", "ann_id": 151264, "best_split": [2, 3], "split_score": 0.3936957220654796}
+{"sent": "bike nearest us", "ann_id": 151264, "best_split": [2, 3], "split_score": 0.3936957220654796}

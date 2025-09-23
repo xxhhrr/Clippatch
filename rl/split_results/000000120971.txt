@@ -1,0 +1,9 @@
+{"sent": "person in white shirt", "ann_id": 511778, "best_split": [1, 2], "split_score": 0.8671874999654342}
+{"sent": "white shirt", "ann_id": 511778, "best_split": [1, 2], "split_score": 0.8671874999654342}
+{"sent": "white shirt", "ann_id": 511778, "best_split": [1, 2], "split_score": 0.8671874999654342}
+{"sent": "blue shirt", "ann_id": 491622, "best_split": [3, 1], "split_score": 0.24832214763798646}
+{"sent": "kid", "ann_id": 491622, "best_split": [3, 2], "split_score": 0.4196853274405703}
+{"sent": "blue", "ann_id": 491622, "best_split": [3, 2], "split_score": 0.4196853274405703}
+{"sent": "white hood", "ann_id": 485844, "best_split": [1, 2], "split_score": 0.7517538265006476}
+{"sent": "woman", "ann_id": 485844, "best_split": [1, 2], "split_score": 0.7517538265006476}
+{"sent": "woman with white head wrap", "ann_id": 485844, "best_split": [1, 2], "split_score": 0.7517538265006476}

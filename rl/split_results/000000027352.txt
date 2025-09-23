@@ -1,0 +1,5 @@
+{"sent": "bent over giraffe", "ann_id": 1823213, "best_split": [1, 5], "split_score": 0.3886703382780615}
+{"sent": "giraffe with head down", "ann_id": 1823213, "best_split": [3, 3], "split_score": 0.37667844517644117}
+{"sent": "giraffe head down", "ann_id": 1823213, "best_split": [3, 3], "split_score": 0.37667844517644117}
+{"sent": "tallest animal", "ann_id": 597311, "best_split": [3, 2], "split_score": 0.33753524628151144}
+{"sent": "lead giraffe", "ann_id": 597311, "best_split": [3, 2], "split_score": 0.33753524628151144}

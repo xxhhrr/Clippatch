@@ -1,0 +1,6 @@
+{"sent": "brown cow nearest fence", "ann_id": 2191547, "best_split": [2, 1], "split_score": 0.251116071418562}
+{"sent": "brown closest cow", "ann_id": 2191547, "best_split": [2, 1], "split_score": 0.251116071418562}
+{"sent": "brown cow nearest fence", "ann_id": 2191547, "best_split": [2, 1], "split_score": 0.251116071418562}
+{"sent": "closest black cow", "ann_id": 2191533, "best_split": [2, 2], "split_score": 0.4279336734352731}
+{"sent": "black and white cow facing us at fence", "ann_id": 2191533, "best_split": [2, 2], "split_score": 0.4279336734352731}
+{"sent": "cow with yellow ear tag", "ann_id": 2191533, "best_split": [2, 2], "split_score": 0.4279336734352731}

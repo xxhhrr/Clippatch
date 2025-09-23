@@ -1,0 +1,6 @@
+{"sent": "the guy", "ann_id": 1242564, "best_split": [2, 1], "split_score": 0.164509970295414}
+{"sent": "no umbrella", "ann_id": 1242564, "best_split": [1, 2], "split_score": 0.3128587372324275}
+{"sent": "man", "ann_id": 1242564, "best_split": [2, 1], "split_score": 0.164509970295414}
+{"sent": "woman in black coat", "ann_id": 443151, "best_split": [1, 3], "split_score": 0.41409266406768264}
+{"sent": "woman", "ann_id": 443151, "best_split": [1, 3], "split_score": 0.41409266406768264}
+{"sent": "woman", "ann_id": 443151, "best_split": [1, 3], "split_score": 0.41409266406768264}

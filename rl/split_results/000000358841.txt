@@ -1,0 +1,6 @@
+{"sent": "square bowl", "ann_id": 712415, "best_split": [3, 3], "split_score": 0.2777777777472796}
+{"sent": "whites dish with liquid", "ann_id": 712415, "best_split": [1, 2], "split_score": 0.17529805558030395}
+{"sent": "dish with brown liquid", "ann_id": 712415, "best_split": [2, 3], "split_score": 0.3561708117920065}
+{"sent": "rey bowl", "ann_id": 710983, "best_split": [2, 2], "split_score": 0.37954400507178376}
+{"sent": "bowl", "ann_id": 710983, "best_split": [2, 2], "split_score": 0.37954400507178376}
+{"sent": "black bowl", "ann_id": 710983, "best_split": [1, 5], "split_score": 0.2621535273066097}

@@ -1,0 +1,6 @@
+{"sent": "person next to person closest to the camera", "ann_id": 497365, "best_split": [1, 2], "split_score": 0.49649234691898547}
+{"sent": "second main man", "ann_id": 497365, "best_split": [2, 1], "split_score": 0.25817694369107985}
+{"sent": "hoodie black near orange shirt", "ann_id": 497365, "best_split": [1, 3], "split_score": 0.751447876402543}
+{"sent": "man", "ann_id": 474674, "best_split": [1, 2], "split_score": 0.5429191199126858}
+{"sent": "man in black and white", "ann_id": 474674, "best_split": [1, 2], "split_score": 0.5429191199126858}
+{"sent": "main person", "ann_id": 474674, "best_split": [1, 2], "split_score": 0.5429191199126858}

@@ -1,0 +1,6 @@
+{"sent": "yellow bus", "ann_id": 1364534, "best_split": [3, 3], "split_score": 0.4100696642795963}
+{"sent": "yellow part of bus", "ann_id": 1364534, "best_split": [3, 3], "split_score": 0.4100696642795963}
+{"sent": "yellow bus part", "ann_id": 1364534, "best_split": [3, 3], "split_score": 0.4100696642795963}
+{"sent": "bus", "ann_id": 164319, "best_split": [1, 2], "split_score": 0.46249999999016794}
+{"sent": "close vehicle", "ann_id": 164319, "best_split": [1, 2], "split_score": 0.46249999999016794}
+{"sent": "red bua", "ann_id": 164319, "best_split": [1, 2], "split_score": 0.46249999999016794}

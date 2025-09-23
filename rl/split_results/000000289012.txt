@@ -1,0 +1,6 @@
+{"sent": "kicking", "ann_id": 513820, "best_split": [1, 3], "split_score": 0.5804594579601119}
+{"sent": "kicker", "ann_id": 513820, "best_split": [1, 3], "split_score": 0.5804594579601119}
+{"sent": "man kicking ball", "ann_id": 513820, "best_split": [1, 3], "split_score": 0.5804594579601119}
+{"sent": "walking out of water", "ann_id": 492052, "best_split": [1, 5], "split_score": 0.49748906524400704}
+{"sent": "side not kicking ball", "ann_id": 492052, "best_split": [3, 1], "split_score": 0.18014981272564842}
+{"sent": "walking", "ann_id": 492052, "best_split": [1, 5], "split_score": 0.49748906524400704}

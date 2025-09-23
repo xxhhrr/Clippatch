@@ -1,0 +1,9 @@
+{"sent": "donut partially visible like half moon", "ann_id": 1081899, "best_split": [3, 3], "split_score": 0.5556025369391541}
+{"sent": "not very visible donut", "ann_id": 1081899, "best_split": [3, 3], "split_score": 0.5556025369391541}
+{"sent": "donut closest to edge of plate", "ann_id": 1081899, "best_split": [3, 3], "split_score": 0.5556025369391541}
+{"sent": "partial doughnut alone", "ann_id": 1081856, "best_split": [1, 2], "split_score": 0.3196348851913411}
+{"sent": "single donught not two stacked", "ann_id": 1081856, "best_split": [1, 2], "split_score": 0.3196348851913411}
+{"sent": "single bagel not stacked", "ann_id": 1081856, "best_split": [1, 2], "split_score": 0.3196348851913411}
+{"sent": "donut on the others", "ann_id": 1079126, "best_split": [3, 3], "split_score": 0.49391440906027534}
+{"sent": "stacked donut", "ann_id": 1079126, "best_split": [3, 3], "split_score": 0.49391440906027534}
+{"sent": "donut thats king of the hill", "ann_id": 1079126, "best_split": [3, 3], "split_score": 0.49391440906027534}

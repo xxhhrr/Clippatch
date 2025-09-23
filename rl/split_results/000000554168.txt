@@ -1,0 +1,11 @@
+{"sent": "tellest", "ann_id": 594798, "best_split": [2, 3], "split_score": 0.3777456945252271}
+{"sent": "dead ahead giraffe", "ann_id": 594798, "best_split": [1, 2], "split_score": 0.2830188679161846}
+{"sent": "graffiti not cut off all in frame", "ann_id": 594798, "best_split": [1, 3], "split_score": 0.6830769230440829}
+{"sent": "side view of zebra", "ann_id": 591565, "best_split": [3, 1], "split_score": 0.39078252518058193}
+{"sent": "side view of zebra", "ann_id": 591565, "best_split": [3, 1], "split_score": 0.39078252518058193}
+{"sent": "zebra just out of view", "ann_id": 590401, "best_split": [2, 3], "split_score": 0.4391408114034438}
+{"sent": "zebra with head cut half off", "ann_id": 590401, "best_split": [2, 3], "split_score": 0.4391408114034438}
+{"sent": "zebra in the corner", "ann_id": 590401, "best_split": [2, 3], "split_score": 0.4391408114034438}
+{"sent": "zebra fully facing us", "ann_id": 590338, "best_split": [3, 2], "split_score": 0.36668207019793414}
+{"sent": "facing us zebra", "ann_id": 590338, "best_split": [3, 2], "split_score": 0.36668207019793414}
+{"sent": "zebra looking at camera underneath giraffe", "ann_id": 590338, "best_split": [2, 2], "split_score": 0.28236607140606135}

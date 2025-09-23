@@ -1,0 +1,6 @@
+{"sent": "man on knees", "ann_id": 1704292, "best_split": [1, 2], "split_score": 0.290178571417005}
+{"sent": "man kneeling", "ann_id": 1704292, "best_split": [1, 3], "split_score": 0.21925789633960657}
+{"sent": "guy in black shirt on knees", "ann_id": 1704292, "best_split": [1, 3], "split_score": 0.21925789633960657}
+{"sent": "lady with wiimote", "ann_id": 1700704, "best_split": [1, 3], "split_score": 0.4651982378598459}
+{"sent": "girl gamer", "ann_id": 1700704, "best_split": [3, 1], "split_score": 0.18838767305992016}
+{"sent": "chick standing up", "ann_id": 1700704, "best_split": [1, 3], "split_score": 0.4651982378598459}

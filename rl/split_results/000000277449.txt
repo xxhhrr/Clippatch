@@ -1,0 +1,7 @@
+{"sent": "man", "ann_id": 468276, "best_split": [1, 5], "split_score": 0.40513303846841636}
+{"sent": "man", "ann_id": 468276, "best_split": [1, 5], "split_score": 0.40513303846841636}
+{"sent": "the man", "ann_id": 468276, "best_split": [1, 5], "split_score": 0.40513303846841636}
+{"sent": "man in black", "ann_id": 468276, "best_split": [2, 3], "split_score": 0.43145290899779387}
+{"sent": "person barely in picture", "ann_id": 1201883, "best_split": [1, 5], "split_score": 0.31288343555282944}
+{"sent": "no prob edge of person", "ann_id": 1201883, "best_split": [2, 3], "split_score": 0.21050004988417007}
+{"sent": "man on edge", "ann_id": 1201883, "best_split": [2, 1], "split_score": 0.08312116219547996}

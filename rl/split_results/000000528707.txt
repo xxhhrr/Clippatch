@@ -1,0 +1,8 @@
+{"sent": "elephant with people riding", "ann_id": 585021, "best_split": [1, 3], "split_score": 0.4409738171542849}
+{"sent": "elephant with people on it", "ann_id": 585021, "best_split": [2, 1], "split_score": 0.29916115813138655}
+{"sent": "elephant carrying people", "ann_id": 585021, "best_split": [1, 3], "split_score": 0.4409738171542849}
+{"sent": "close elephant", "ann_id": 584984, "best_split": [2, 2], "split_score": 0.7337420362583398}
+{"sent": "elephant whose face you see", "ann_id": 584984, "best_split": [2, 2], "split_score": 0.7337420362583398}
+{"sent": "elephant without people on board", "ann_id": 584984, "best_split": [2, 2], "split_score": 0.7337420362583398}
+{"sent": "the bench with ppl sitting on it", "ann_id": 574227, "best_split": [3, 3], "split_score": 0.5035532994071822}
+{"sent": "the basket the people are sitting in", "ann_id": 574227, "best_split": [2, 3], "split_score": 0.3132016164893128}

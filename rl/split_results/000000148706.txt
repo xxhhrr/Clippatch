@@ -1,0 +1,6 @@
+{"sent": "farther beds", "ann_id": 1957356, "best_split": [3, 3], "split_score": 0.6894409936761292}
+{"sent": "bunk further away by window", "ann_id": 1957356, "best_split": [3, 3], "split_score": 0.6894409936761292}
+{"sent": "bunk bed side of window", "ann_id": 1957356, "best_split": [5, 1], "split_score": 0.310068548000528}
+{"sent": "closest bed", "ann_id": 314735, "best_split": [2, 2], "split_score": 0.5875276681461107}
+{"sent": "bunk bed close", "ann_id": 314735, "best_split": [2, 2], "split_score": 0.5875276681461107}
+{"sent": "bunkbed closer", "ann_id": 314735, "best_split": [2, 2], "split_score": 0.5875276681461107}

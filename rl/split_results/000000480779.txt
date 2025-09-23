@@ -1,0 +1,6 @@
+{"sent": "red tomato", "ann_id": 2218705, "best_split": [2, 2], "split_score": 0.46665182873605965}
+{"sent": "food with tomato on", "ann_id": 2218705, "best_split": [2, 2], "split_score": 0.46665182873605965}
+{"sent": "tomatoes on it", "ann_id": 2218705, "best_split": [2, 2], "split_score": 0.46665182873605965}
+{"sent": "toast", "ann_id": 1911152, "best_split": [2, 2], "split_score": 0.3236607142599122}
+{"sent": "bun cap", "ann_id": 1911152, "best_split": [1, 5], "split_score": 0.22456881377819704}
+{"sent": "toast", "ann_id": 1911152, "best_split": [2, 2], "split_score": 0.3236607142599122}

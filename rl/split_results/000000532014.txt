@@ -1,0 +1,9 @@
+{"sent": "blue shirt man sideways", "ann_id": 554819, "best_split": [2, 3], "split_score": 0.3163923992802625}
+{"sent": "guy walking", "ann_id": 554819, "best_split": [1, 2], "split_score": 0.24677136478608214}
+{"sent": "blue shirt navy shorts walking", "ann_id": 554819, "best_split": [1, 5], "split_score": 0.5566010281737703}
+{"sent": "man in blue shirt tan pants", "ann_id": 554048, "best_split": [3, 1], "split_score": 0.15427380124321086}
+{"sent": "blue hat guy", "ann_id": 554048, "best_split": [1, 2], "split_score": 0.26618303570367574}
+{"sent": "man behind batter", "ann_id": 554048, "best_split": [2, 1], "split_score": 0.09560598744238097}
+{"sent": "green shirt", "ann_id": 435145, "best_split": [1, 5], "split_score": 0.48059993475052165}
+{"sent": "batter up", "ann_id": 435145, "best_split": [1, 5], "split_score": 0.48059993475052165}
+{"sent": "batter", "ann_id": 435145, "best_split": [1, 5], "split_score": 0.48059993475052165}

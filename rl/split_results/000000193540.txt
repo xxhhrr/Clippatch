@@ -1,0 +1,9 @@
+{"sent": "girl closest to you white shirt", "ann_id": 1290445, "best_split": [1, 2], "split_score": 0.6236809647586788}
+{"sent": "white shirt closes to you", "ann_id": 1290445, "best_split": [1, 2], "split_score": 0.6236809647586788}
+{"sent": "white shirt reaching", "ann_id": 1290445, "best_split": [1, 2], "split_score": 0.6236809647586788}
+{"sent": "player in white shirt and brown shorts", "ann_id": 1251714, "best_split": [1, 5], "split_score": 0.4722222221796336}
+{"sent": "brown shorts", "ann_id": 1251714, "best_split": [1, 5], "split_score": 0.4722222221796336}
+{"sent": "person in white shirt and brown shorts behind girl with frisbee", "ann_id": 1251714, "best_split": [1, 5], "split_score": 0.4722222221796336}
+{"sent": "player in all black", "ann_id": 1213352, "best_split": [1, 2], "split_score": 0.37515943876055646}
+{"sent": "woman in all black", "ann_id": 1213352, "best_split": [1, 2], "split_score": 0.37515943876055646}
+{"sent": "person in all black", "ann_id": 1213352, "best_split": [1, 2], "split_score": 0.37515943876055646}

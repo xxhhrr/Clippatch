@@ -1,0 +1,12 @@
+{"sent": "the pink donut next to the pink donut not next to the chocolate one", "ann_id": 1082655, "best_split": [2, 2], "split_score": 0.40467625896681164}
+{"sent": "big pink", "ann_id": 1082655, "best_split": [1, 2], "split_score": 0.37165178569947177}
+{"sent": "closer larger pink donut", "ann_id": 1082655, "best_split": [3, 2], "split_score": 0.5230024212622792}
+{"sent": "partial pink donut", "ann_id": 1082275, "best_split": [1, 5], "split_score": 0.24430264355313644}
+{"sent": "half pink donut", "ann_id": 1082275, "best_split": [1, 5], "split_score": 0.24430264355313644}
+{"sent": "pink donut part showing above pink dount", "ann_id": 1082275, "best_split": [3, 2], "split_score": 0.21582278479061276}
+{"sent": "brown doughnut", "ann_id": 1081977, "best_split": [2, 2], "split_score": 0.4299560127913251}
+{"sent": "chocolate", "ann_id": 1081977, "best_split": [2, 2], "split_score": 0.4299560127913251}
+{"sent": "chocolate donut", "ann_id": 1081977, "best_split": [2, 2], "split_score": 0.4299560127913251}
+{"sent": "lone pink donut", "ann_id": 1078993, "best_split": [2, 2], "split_score": 0.40295302010718437}
+{"sent": "pink at 5", "ann_id": 1078993, "best_split": [2, 2], "split_score": 0.40295302010718437}
+{"sent": "donut touching chocolate the most", "ann_id": 1078993, "best_split": [3, 2], "split_score": 0.4406368985426932}

@@ -1,0 +1,9 @@
+{"sent": "the white pants", "ann_id": 1744302, "best_split": [3, 2], "split_score": 0.2922334356853627}
+{"sent": "white pants", "ann_id": 1744302, "best_split": [3, 2], "split_score": 0.2922334356853627}
+{"sent": "white pants adult", "ann_id": 1744302, "best_split": [3, 2], "split_score": 0.2922334356853627}
+{"sent": "blue shirt", "ann_id": 1222457, "best_split": [2, 3], "split_score": 0.3950680271772901}
+{"sent": "girl in blue shirt", "ann_id": 1222457, "best_split": [2, 3], "split_score": 0.3950680271772901}
+{"sent": "green shirt", "ann_id": 1222457, "best_split": [2, 3], "split_score": 0.3950680271772901}
+{"sent": "red shirt", "ann_id": 458321, "best_split": [1, 5], "split_score": 0.423113518230029}
+{"sent": "red", "ann_id": 458321, "best_split": [3, 1], "split_score": 0.238122278996871}
+{"sent": "red shirt", "ann_id": 458321, "best_split": [1, 5], "split_score": 0.423113518230029}

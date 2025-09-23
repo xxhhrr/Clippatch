@@ -1,0 +1,9 @@
+{"sent": "short g", "ann_id": 600527, "best_split": [2, 2], "split_score": 0.48319569806778084}
+{"sent": "giraffe standing between two other giraffes", "ann_id": 600527, "best_split": [2, 2], "split_score": 0.48319569806778084}
+{"sent": "small giraffe", "ann_id": 600527, "best_split": [2, 2], "split_score": 0.48319569806778084}
+{"sent": "closest to us giraffe", "ann_id": 598659, "best_split": [1, 3], "split_score": 0.6170970076847794}
+{"sent": "giraffe looking directly at camera", "ann_id": 598659, "best_split": [1, 3], "split_score": 0.6170970076847794}
+{"sent": "focus giraffe", "ann_id": 598659, "best_split": [1, 3], "split_score": 0.6170970076847794}
+{"sent": "griffate looking away", "ann_id": 594452, "best_split": [2, 1], "split_score": 0.3445732349728473}
+{"sent": "giraffe about to put head out of frame edge", "ann_id": 594452, "best_split": [2, 1], "split_score": 0.3445732349728473}
+{"sent": "one closest to edge by itself", "ann_id": 594452, "best_split": [1, 3], "split_score": 0.15875519861756937}

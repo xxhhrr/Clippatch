@@ -1,0 +1,5 @@
+{"sent": "silver car", "ann_id": 358886, "best_split": [2, 2], "split_score": 0.42388059699233044}
+{"sent": "silver car behind sign", "ann_id": 358886, "best_split": [3, 1], "split_score": 0.4195216547964022}
+{"sent": "wheels", "ann_id": 358886, "best_split": [3, 1], "split_score": 0.4195216547964022}
+{"sent": "red car says getx", "ann_id": 358365, "best_split": [2, 3], "split_score": 0.4313419526937871}
+{"sent": "red car hood", "ann_id": 358365, "best_split": [2, 3], "split_score": 0.4313419526937871}

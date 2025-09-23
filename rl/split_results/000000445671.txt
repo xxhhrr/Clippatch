@@ -1,0 +1,6 @@
+{"sent": "lonely bench", "ann_id": 1391026, "best_split": [3, 2], "split_score": 0.7832764504284048}
+{"sent": "bench not sat on", "ann_id": 1391026, "best_split": [3, 1], "split_score": 0.5086872586565705}
+{"sent": "stone bench footrest", "ann_id": 1391026, "best_split": [3, 1], "split_score": 0.5086872586565705}
+{"sent": "bench that guy is sitting on", "ann_id": 573443, "best_split": [2, 2], "split_score": 0.5605222079920162}
+{"sent": "chair", "ann_id": 573443, "best_split": [2, 2], "split_score": 0.5605222079920162}
+{"sent": "bench man sitting on", "ann_id": 573443, "best_split": [2, 2], "split_score": 0.5605222079920162}

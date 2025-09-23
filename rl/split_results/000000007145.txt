@@ -1,0 +1,4 @@
+{"sent": "pizza", "ann_id": 1571184, "best_split": [2, 1], "split_score": 0.4626756440184285}
+{"sent": "pizza with more sauce", "ann_id": 1571184, "best_split": [1, 2], "split_score": 0.5476227350041456}
+{"sent": "slice of pizza near the edge by the plastic fork", "ann_id": 1570810, "best_split": [1, 2], "split_score": 0.3025577042926326}
+{"sent": "three pineapples lined up straight", "ann_id": 1073200, "best_split": [2, 2], "split_score": 0.5675675675254256}

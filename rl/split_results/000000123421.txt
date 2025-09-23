@@ -1,0 +1,9 @@
+{"sent": "partial chocolate donut", "ann_id": 1082760, "best_split": [3, 3], "split_score": 0.6525792416636763}
+{"sent": "very brown donut", "ann_id": 1082760, "best_split": [2, 3], "split_score": 0.4541522490858399}
+{"sent": "chocolate covered", "ann_id": 1082760, "best_split": [3, 2], "split_score": 0.6225868725117535}
+{"sent": "glazed donut", "ann_id": 1082427, "best_split": [1, 2], "split_score": 0.2967133292644281}
+{"sent": "glazed donut", "ann_id": 1082427, "best_split": [1, 2], "split_score": 0.2967133292644281}
+{"sent": "triangle shape not white on it and not plain glazed", "ann_id": 1082427, "best_split": [1, 2], "split_score": 0.2967133292644281}
+{"sent": "plain donut by the glazed donut", "ann_id": 1080656, "best_split": [3, 3], "split_score": 0.6060606059811018}
+{"sent": "plainest partial", "ann_id": 1080656, "best_split": [2, 2], "split_score": 0.3028606125824544}
+{"sent": "plain cake donut between chocolate and coconut", "ann_id": 1079744, "best_split": [1, 5], "split_score": 0.3143339990540533}

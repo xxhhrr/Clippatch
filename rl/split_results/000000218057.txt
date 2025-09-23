@@ -1,0 +1,12 @@
+{"sent": "standing black gal", "ann_id": 462666, "best_split": [2, 1], "split_score": 0.1453840130918434}
+{"sent": "black shirt playing game", "ann_id": 462666, "best_split": [1, 3], "split_score": 0.34754639642789786}
+{"sent": "black shirt playing", "ann_id": 462666, "best_split": [1, 3], "split_score": 0.34754639642789786}
+{"sent": "white coat", "ann_id": 1736258, "best_split": [1, 2], "split_score": 0.5778074236609194}
+{"sent": "white shirt", "ann_id": 1736258, "best_split": [1, 2], "split_score": 0.5778074236609194}
+{"sent": "girl in white", "ann_id": 1736258, "best_split": [1, 2], "split_score": 0.5778074236609194}
+{"sent": "lady on couch", "ann_id": 508563, "best_split": [2, 3], "split_score": 0.5258447079295318}
+{"sent": "woman in black and with the sour face", "ann_id": 508563, "best_split": [2, 3], "split_score": 0.5258447079295318}
+{"sent": "woman sitting by woman in white", "ann_id": 508563, "best_split": [2, 3], "split_score": 0.5258447079295318}
+{"sent": "bigger guy in back with glasses", "ann_id": 478787, "best_split": [3, 3], "split_score": 0.3674635392621465}
+{"sent": "man with arms crossed", "ann_id": 478787, "best_split": [3, 2], "split_score": 0.25826904784336163}
+{"sent": "man sitting arm crossed", "ann_id": 478787, "best_split": [1, 5], "split_score": 0.24113475175083957}

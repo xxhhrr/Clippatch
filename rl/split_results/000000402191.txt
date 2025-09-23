@@ -1,0 +1,6 @@
+{"sent": "little white lamb", "ann_id": 61928, "best_split": [3, 3], "split_score": 0.5009436929064259}
+{"sent": "baby", "ann_id": 61928, "best_split": [3, 3], "split_score": 0.5009436929064259}
+{"sent": "white lamb", "ann_id": 61928, "best_split": [3, 3], "split_score": 0.5009436929064259}
+{"sent": "moma", "ann_id": 61037, "best_split": [1, 2], "split_score": 0.2641781989349615}
+{"sent": "big ram", "ann_id": 61037, "best_split": [3, 1], "split_score": 0.44642344152146657}
+{"sent": "the big one", "ann_id": 61037, "best_split": [1, 3], "split_score": 0.3636011916135876}

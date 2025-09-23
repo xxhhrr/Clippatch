@@ -1,0 +1,8 @@
+{"sent": "tall giraffe", "ann_id": 601208, "best_split": [2, 3], "split_score": 0.49195666443762665}
+{"sent": "tall giraffes face", "ann_id": 601208, "best_split": [2, 3], "split_score": 0.49195666443762665}
+{"sent": "farthest giraffe", "ann_id": 601208, "best_split": [2, 3], "split_score": 0.49195666443762665}
+{"sent": "small giraffe", "ann_id": 601142, "best_split": [1, 3], "split_score": 0.24169760207476182}
+{"sent": "tiny giraffe", "ann_id": 601142, "best_split": [2, 2], "split_score": 0.4203454894145636}
+{"sent": "small giraffee", "ann_id": 601142, "best_split": [1, 3], "split_score": 0.24169760207476182}
+{"sent": "mom giraffe", "ann_id": 597949, "best_split": [1, 3], "split_score": 0.5266615569622982}
+{"sent": "giraffe that is not the smallest or biggest", "ann_id": 597949, "best_split": [1, 3], "split_score": 0.5266615569622982}

@@ -1,0 +1,12 @@
+{"sent": "person with hand showing only", "ann_id": 195248, "best_split": [1, 5], "split_score": 0.579660695613718}
+{"sent": "hands of invisible body", "ann_id": 195248, "best_split": [1, 5], "split_score": 0.579660695613718}
+{"sent": "arms in foreground", "ann_id": 195248, "best_split": [1, 5], "split_score": 0.579660695613718}
+{"sent": "blue shirt", "ann_id": 183065, "best_split": [2, 3], "split_score": 0.46311143136085836}
+{"sent": "guy with tongue out", "ann_id": 183065, "best_split": [2, 3], "split_score": 0.46311143136085836}
+{"sent": "skull shirt", "ann_id": 183065, "best_split": [2, 3], "split_score": 0.46311143136085836}
+{"sent": "laptop with hand on it", "ann_id": 1970952, "best_split": [3, 2], "split_score": 0.4195193007575154}
+{"sent": "laptop under hand", "ann_id": 1970952, "best_split": [3, 2], "split_score": 0.4195193007575154}
+{"sent": "black laptop with hand on keys", "ann_id": 1970952, "best_split": [3, 2], "split_score": 0.4195193007575154}
+{"sent": "laptop facing camera with no one sitting at it", "ann_id": 1970512, "best_split": [2, 3], "split_score": 0.7082670905496554}
+{"sent": "laptop near cup", "ann_id": 1970512, "best_split": [3, 3], "split_score": 0.46078829739325594}
+{"sent": "computer closest to you", "ann_id": 1970512, "best_split": [2, 3], "split_score": 0.7082670905496554}

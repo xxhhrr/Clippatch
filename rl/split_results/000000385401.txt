@@ -1,0 +1,6 @@
+{"sent": "black laptop not including hands", "ann_id": 1102050, "best_split": [2, 3], "split_score": 0.3798773689725123}
+{"sent": "black one by us", "ann_id": 1102050, "best_split": [2, 1], "split_score": 0.21751673204794536}
+{"sent": "laptop with hands on it", "ann_id": 1102050, "best_split": [2, 3], "split_score": 0.3798773689725123}
+{"sent": "white computer", "ann_id": 1101852, "best_split": [2, 2], "split_score": 0.3838065194243799}
+{"sent": "white laptop", "ann_id": 1101852, "best_split": [2, 2], "split_score": 0.3838065194243799}
+{"sent": "white laptop", "ann_id": 1101852, "best_split": [2, 2], "split_score": 0.3838065194243799}

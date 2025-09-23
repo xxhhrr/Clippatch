@@ -1,0 +1,5 @@
+{"sent": "suit behind b", "ann_id": 1707341, "best_split": [2, 3], "split_score": 0.4712499999579241}
+{"sent": "suit body 2 pockets no tie", "ann_id": 1707341, "best_split": [2, 1], "split_score": 0.32645089284413065}
+{"sent": "red tie", "ann_id": 470886, "best_split": [2, 2], "split_score": 0.6013621587843062}
+{"sent": "tie", "ann_id": 470886, "best_split": [2, 2], "split_score": 0.6013621587843062}
+{"sent": "object with tie", "ann_id": 470886, "best_split": [2, 2], "split_score": 0.6013621587843062}

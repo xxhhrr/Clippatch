@@ -1,0 +1,9 @@
+{"sent": "boy", "ann_id": 534537, "best_split": [1, 2], "split_score": 0.4955357142659624}
+{"sent": "child behind cereal", "ann_id": 534537, "best_split": [2, 2], "split_score": 0.5957066189243735}
+{"sent": "child in red", "ann_id": 534537, "best_split": [2, 3], "split_score": 0.6568047336752915}
+{"sent": "the mom", "ann_id": 532725, "best_split": [2, 1], "split_score": 0.5047734431668337}
+{"sent": "mom", "ann_id": 532725, "best_split": [2, 1], "split_score": 0.5047734431668337}
+{"sent": "mom", "ann_id": 532725, "best_split": [2, 1], "split_score": 0.5047734431668337}
+{"sent": "striped girl", "ann_id": 532441, "best_split": [1, 2], "split_score": 0.25286989794910436}
+{"sent": "kid stripes", "ann_id": 532441, "best_split": [3, 3], "split_score": 0.48268941288476047}
+{"sent": "girl striped shirt", "ann_id": 532441, "best_split": [3, 3], "split_score": 0.48268941288476047}

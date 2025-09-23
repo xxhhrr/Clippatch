@@ -1,0 +1,15 @@
+{"sent": "any orange", "ann_id": 1912340, "best_split": [2, 1], "split_score": 0.5310114609874038}
+{"sent": "orange open", "ann_id": 1912340, "best_split": [2, 1], "split_score": 0.5310114609874038}
+{"sent": "orange cut open", "ann_id": 1912340, "best_split": [2, 1], "split_score": 0.5310114609874038}
+{"sent": "partial orange next to open slice orange", "ann_id": 1557793, "best_split": [3, 3], "split_score": 0.04865984124598414}
+{"sent": "fruit that is covered and see green stem", "ann_id": 1557793, "best_split": [5, 1], "split_score": 0.1456706281709957}
+{"sent": "yellow hidden next to cut one", "ann_id": 1557793, "best_split": [3, 2], "split_score": 0.2576971741609345}
+{"sent": "orange at 1100 near edge", "ann_id": 1054879, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "orange next to red 11pm", "ann_id": 1054879, "best_split": [1, 3], "split_score": 0.19335224968479053}
+{"sent": "cut open", "ann_id": 1054674, "best_split": [3, 3], "split_score": 0.713392391777828}
+{"sent": "cut orange", "ann_id": 1054674, "best_split": [3, 3], "split_score": 0.713392391777828}
+{"sent": "the one cut in half", "ann_id": 1054674, "best_split": [3, 3], "split_score": 0.713392391777828}
+{"sent": "orange that is at 7 0 clock with the half one", "ann_id": 1053219, "best_split": [1, 5], "split_score": 0.3119308535027064}
+{"sent": "light yellow orange", "ann_id": 1052841, "best_split": [2, 2], "split_score": 0.5553252550577706}
+{"sent": "yellow lemon or orange at five o clock", "ann_id": 1052841, "best_split": [2, 2], "split_score": 0.5553252550577706}
+{"sent": "brightest orange orange", "ann_id": 1052841, "best_split": [3, 2], "split_score": 0.68329287125543}

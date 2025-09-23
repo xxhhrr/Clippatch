@@ -1,0 +1,12 @@
+{"sent": "woman white shirt", "ann_id": 1266756, "best_split": [3, 2], "split_score": 0.4339980149387352}
+{"sent": "woman chef directly behind cake", "ann_id": 1266756, "best_split": [1, 5], "split_score": 0.41809469662810894}
+{"sent": "white shirt arms raised", "ann_id": 1266756, "best_split": [3, 2], "split_score": 0.4339980149387352}
+{"sent": "bearded chef", "ann_id": 1250330, "best_split": [1, 3], "split_score": 0.4008204632962825}
+{"sent": "man white shirt", "ann_id": 1250330, "best_split": [1, 3], "split_score": 0.4008204632962825}
+{"sent": "chef in white with beard", "ann_id": 1250330, "best_split": [1, 3], "split_score": 0.4008204632962825}
+{"sent": "dark shirt", "ann_id": 1233903, "best_split": [1, 5], "split_score": 0.5413673849067991}
+{"sent": "man in gray", "ann_id": 1233903, "best_split": [1, 5], "split_score": 0.5413673849067991}
+{"sent": "man with gray shirt", "ann_id": 1233903, "best_split": [1, 5], "split_score": 0.5413673849067991}
+{"sent": "southwest blob", "ann_id": 1711601, "best_split": [1, 5], "split_score": 0.24350649348178707}
+{"sent": "face of person in corner", "ann_id": 1711601, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "head that is only partially seen", "ann_id": 1711601, "best_split": [3, 3], "split_score": 0.3925035359984965}

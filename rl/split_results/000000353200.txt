@@ -1,0 +1,5 @@
+{"sent": "little child hiding in back", "ann_id": 1243553, "best_split": [3, 3], "split_score": 0.4484848484325775}
+{"sent": "baby in back", "ann_id": 1243553, "best_split": [3, 3], "split_score": 0.4484848484325775}
+{"sent": "boy not looking at you", "ann_id": 1243553, "best_split": [2, 3], "split_score": 0.42910727677896593}
+{"sent": "kid facing us", "ann_id": 472031, "best_split": [1, 2], "split_score": 0.5995900519103692}
+{"sent": "boy", "ann_id": 472031, "best_split": [1, 2], "split_score": 0.5995900519103692}

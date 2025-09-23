@@ -1,0 +1,6 @@
+{"sent": "woman in back", "ann_id": 487085, "best_split": [2, 2], "split_score": 0.6201695805042268}
+{"sent": "woman", "ann_id": 487085, "best_split": [2, 2], "split_score": 0.6201695805042268}
+{"sent": "girl", "ann_id": 487085, "best_split": [2, 2], "split_score": 0.6201695805042268}
+{"sent": "man", "ann_id": 485093, "best_split": [2, 2], "split_score": 0.4623413439557798}
+{"sent": "player in green", "ann_id": 485093, "best_split": [2, 2], "split_score": 0.4623413439557798}
+{"sent": "blue guy", "ann_id": 485093, "best_split": [1, 5], "split_score": 0.4587008820836407}

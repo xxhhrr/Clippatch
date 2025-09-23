@@ -1,0 +1,8 @@
+{"sent": "black suit purple cap", "ann_id": 1273241, "best_split": [1, 5], "split_score": 0.5364041604256683}
+{"sent": "man in blue suit", "ann_id": 1273241, "best_split": [1, 5], "split_score": 0.5364041604256683}
+{"sent": "man in suit and hat", "ann_id": 1273241, "best_split": [1, 5], "split_score": 0.5364041604256683}
+{"sent": "horse not facing camera", "ann_id": 57563, "best_split": [3, 2], "split_score": 0.24422442241705605}
+{"sent": "horse with a man with a shirt number 2", "ann_id": 57563, "best_split": [3, 2], "split_score": 0.24422442241705605}
+{"sent": "leading horse", "ann_id": 55019, "best_split": [1, 5], "split_score": 0.6419439934413612}
+{"sent": "horse coming at us", "ann_id": 55019, "best_split": [1, 5], "split_score": 0.6419439934413612}
+{"sent": "main horse", "ann_id": 55019, "best_split": [1, 5], "split_score": 0.6419439934413612}

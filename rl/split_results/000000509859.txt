@@ -1,0 +1,5 @@
+{"sent": "black car just a piece", "ann_id": 138957, "best_split": [3, 1], "split_score": 0.2304549005329935}
+{"sent": "black car corner", "ann_id": 138957, "best_split": [3, 1], "split_score": 0.2304549005329935}
+{"sent": "corner white suv", "ann_id": 132098, "best_split": [2, 3], "split_score": 0.8491795365770777}
+{"sent": "white vehicle not bus", "ann_id": 132098, "best_split": [2, 2], "split_score": 0.5610650509756804}
+{"sent": "white suv", "ann_id": 132098, "best_split": [2, 3], "split_score": 0.8491795365770777}

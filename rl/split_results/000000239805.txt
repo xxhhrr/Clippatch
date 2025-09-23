@@ -1,0 +1,6 @@
+{"sent": "man sitting on sofa", "ann_id": 566863, "best_split": [3, 1], "split_score": 0.20516753184254558}
+{"sent": "hnds on head", "ann_id": 566863, "best_split": [1, 2], "split_score": 0.07295914584144142}
+{"sent": "man sitting", "ann_id": 566863, "best_split": [3, 1], "split_score": 0.20516753184254558}
+{"sent": "person standing", "ann_id": 514092, "best_split": [1, 2], "split_score": 0.9513711734314664}
+{"sent": "standing guy", "ann_id": 514092, "best_split": [1, 2], "split_score": 0.9513711734314664}
+{"sent": "guy standing", "ann_id": 514092, "best_split": [1, 2], "split_score": 0.9513711734314664}

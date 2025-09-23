@@ -1,0 +1,5 @@
+{"sent": "the man pushing the cart", "ann_id": 461517, "best_split": [1, 2], "split_score": 0.4751275510014697}
+{"sent": "man with luggage cart", "ann_id": 461517, "best_split": [1, 3], "split_score": 0.6311390955563172}
+{"sent": "man in green leaning towards cart", "ann_id": 461517, "best_split": [1, 3], "split_score": 0.6311390955563172}
+{"sent": "man pushing tall case", "ann_id": 432812, "best_split": [3, 3], "split_score": 0.303354037229397}
+{"sent": "looks like he could use some help", "ann_id": 432812, "best_split": [2, 3], "split_score": 0.30828990064821615}

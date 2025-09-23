@@ -1,0 +1,11 @@
+{"sent": "lower tv close to dog", "ann_id": 36080, "best_split": [3, 1], "split_score": 0.10500081269409975}
+{"sent": "black tv with a smaller gray one on it", "ann_id": 36080, "best_split": [3, 1], "split_score": 0.10500081269409975}
+{"sent": "tv closest to silver one", "ann_id": 36080, "best_split": [3, 1], "split_score": 0.10500081269409975}
+{"sent": "tv on the ground which is closer to us", "ann_id": 36073, "best_split": [1, 5], "split_score": 0.2579365079151838}
+{"sent": "black tv under black tv", "ann_id": 36073, "best_split": [1, 5], "split_score": 0.2579365079151838}
+{"sent": "stacked black tvs bigger one", "ann_id": 36073, "best_split": [2, 2], "split_score": 0.4272959183332832}
+{"sent": "smaller black tv sitting on another black tv", "ann_id": 35126, "best_split": [3, 3], "split_score": 0.4402658208064845}
+{"sent": "black tv fartest from dog", "ann_id": 35126, "best_split": [3, 1], "split_score": 0.17503701171990452}
+{"sent": "gray large tv beside dog", "ann_id": 29609, "best_split": [2, 1], "split_score": 0.14938349667446318}
+{"sent": "gray tv", "ann_id": 29609, "best_split": [2, 3], "split_score": 0.4444967073795277}
+{"sent": "biggest tv silver rimmed", "ann_id": 29609, "best_split": [2, 1], "split_score": 0.14938349667446318}

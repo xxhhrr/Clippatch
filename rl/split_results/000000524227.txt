@@ -1,0 +1,6 @@
+{"sent": "boy", "ann_id": 433188, "best_split": [1, 3], "split_score": 0.5362242199636448}
+{"sent": "gray shirt", "ann_id": 433188, "best_split": [1, 3], "split_score": 0.5362242199636448}
+{"sent": "child with hand raised", "ann_id": 433188, "best_split": [1, 3], "split_score": 0.5362242199636448}
+{"sent": "man in black", "ann_id": 432856, "best_split": [1, 3], "split_score": 0.667643015083529}
+{"sent": "older observer", "ann_id": 432856, "best_split": [3, 1], "split_score": 0.24422442243135203}
+{"sent": "man", "ann_id": 432856, "best_split": [1, 2], "split_score": 0.4512914540636443}

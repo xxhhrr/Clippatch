@@ -1,0 +1,6 @@
+{"sent": "hawaiian shirt", "ann_id": 536681, "best_split": [3, 3], "split_score": 0.4365507718794338}
+{"sent": "brown shirt", "ann_id": 536681, "best_split": [3, 3], "split_score": 0.4365507718794338}
+{"sent": "funky shirt", "ann_id": 536681, "best_split": [3, 3], "split_score": 0.4365507718794338}
+{"sent": "guy with vest", "ann_id": 518041, "best_split": [5, 1], "split_score": 0.11891891890887508}
+{"sent": "waiter to the side", "ann_id": 518041, "best_split": [3, 2], "split_score": 0.22073578593010704}
+{"sent": "guy watching the action from the side", "ann_id": 518041, "best_split": [2, 2], "split_score": 0.1857142857004677}

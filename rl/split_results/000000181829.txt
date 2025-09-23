@@ -1,0 +1,6 @@
+{"sent": "purple", "ann_id": 225591, "best_split": [1, 3], "split_score": 0.2678880055173627}
+{"sent": "girl looking at us", "ann_id": 225591, "best_split": [1, 5], "split_score": 0.5187885585675195}
+{"sent": "the girl smiling at camera", "ann_id": 225591, "best_split": [1, 5], "split_score": 0.5187885585675195}
+{"sent": "woman by refrigerator", "ann_id": 218689, "best_split": [1, 5], "split_score": 0.3381147540767088}
+{"sent": "lady in white", "ann_id": 218689, "best_split": [1, 3], "split_score": 0.5748175182153958}
+{"sent": "black skirt", "ann_id": 218689, "best_split": [2, 1], "split_score": 0.22165488789701232}

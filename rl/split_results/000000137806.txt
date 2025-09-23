@@ -1,0 +1,9 @@
+{"sent": "cow 1", "ann_id": 73533, "best_split": [3, 2], "split_score": 0.34073467713693495}
+{"sent": "black cow with his head turned", "ann_id": 73533, "best_split": [3, 2], "split_score": 0.34073467713693495}
+{"sent": "leftiest cow", "ann_id": 73533, "best_split": [3, 2], "split_score": 0.34073467713693495}
+{"sent": "the largest cow", "ann_id": 73268, "best_split": [3, 3], "split_score": 0.5567231907622733}
+{"sent": "cow by barn", "ann_id": 73268, "best_split": [1, 3], "split_score": 0.45608108105356654}
+{"sent": "animal with tan structure", "ann_id": 73268, "best_split": [1, 3], "split_score": 0.45608108105356654}
+{"sent": "cow between the others", "ann_id": 72086, "best_split": [3, 3], "split_score": 0.39869690509977485}
+{"sent": "the cow that is not on the end", "ann_id": 72086, "best_split": [3, 3], "split_score": 0.39869690509977485}
+{"sent": "facing the most forward", "ann_id": 72086, "best_split": [3, 3], "split_score": 0.39869690509977485}

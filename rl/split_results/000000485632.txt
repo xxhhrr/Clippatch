@@ -1,0 +1,6 @@
+{"sent": "sunny toilet", "ann_id": 1097152, "best_split": [5, 1], "split_score": 0.27499999997767854}
+{"sent": "toilet without handle", "ann_id": 1097152, "best_split": [5, 1], "split_score": 0.27499999997767854}
+{"sent": "toilet with no handle", "ann_id": 1097152, "best_split": [5, 1], "split_score": 0.27499999997767854}
+{"sent": "toilet with flush handle showing", "ann_id": 1097054, "best_split": [2, 2], "split_score": 0.5038265305720802}
+{"sent": "longer toilet", "ann_id": 1097054, "best_split": [2, 2], "split_score": 0.5038265305720802}
+{"sent": "toilet that shows a handle on the side", "ann_id": 1097054, "best_split": [2, 2], "split_score": 0.5038265305720802}

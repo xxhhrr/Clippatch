@@ -1,0 +1,6 @@
+{"sent": "awesome job on nanner one sandwich not nearest drink", "ann_id": 313663, "best_split": [3, 2], "split_score": 0.49144697117212244}
+{"sent": "brightest sandwich", "ann_id": 313663, "best_split": [3, 2], "split_score": 0.49144697117212244}
+{"sent": "sandwich farther away from drink", "ann_id": 313663, "best_split": [3, 2], "split_score": 0.49144697117212244}
+{"sent": "half sandwich near glass", "ann_id": 313468, "best_split": [3, 3], "split_score": 0.7281914892648681}
+{"sent": "darkest half", "ann_id": 313468, "best_split": [3, 1], "split_score": 0.3257042253341932}
+{"sent": "sandwich closest", "ann_id": 313468, "best_split": [3, 3], "split_score": 0.7281914892648681}

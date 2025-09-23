@@ -1,0 +1,6 @@
+{"sent": "near us bananas", "ann_id": 1543623, "best_split": [1, 2], "split_score": 0.5896938013222668}
+{"sent": "entire bunch of green bananas", "ann_id": 1543623, "best_split": [1, 2], "split_score": 0.5896938013222668}
+{"sent": "closest bananas", "ann_id": 1543623, "best_split": [3, 1], "split_score": 0.36875100464681115}
+{"sent": "yellow bananas", "ann_id": 1542285, "best_split": [2, 3], "split_score": 0.5820547678595791}
+{"sent": "smallest bananas", "ann_id": 1542285, "best_split": [2, 3], "split_score": 0.5820547678595791}
+{"sent": "yellow bundle", "ann_id": 1542285, "best_split": [2, 3], "split_score": 0.5820547678595791}

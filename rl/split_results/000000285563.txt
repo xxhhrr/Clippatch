@@ -1,0 +1,9 @@
+{"sent": "man turned", "ann_id": 523521, "best_split": [3, 2], "split_score": 0.2088784359687727}
+{"sent": "man with hand on chin", "ann_id": 523521, "best_split": [2, 3], "split_score": 0.5243744207113648}
+{"sent": "man above big sign", "ann_id": 523521, "best_split": [1, 2], "split_score": 0.10509871700774118}
+{"sent": "guy on edge in view", "ann_id": 521252, "best_split": [2, 1], "split_score": 0.18416523235153445}
+{"sent": "man with glasses", "ann_id": 521252, "best_split": [1, 5], "split_score": 0.7213114753426498}
+{"sent": "guy on the side", "ann_id": 521252, "best_split": [1, 2], "split_score": 0.34374999998629824}
+{"sent": "blue umbrella over old man", "ann_id": 282864, "best_split": [3, 2], "split_score": 0.5820463319761044}
+{"sent": "umbrella above the man with glasses", "ann_id": 282864, "best_split": [3, 2], "split_score": 0.5820463319761044}
+{"sent": "blue umbrella", "ann_id": 282864, "best_split": [3, 2], "split_score": 0.5820463319761044}

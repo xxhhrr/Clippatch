@@ -1,0 +1,6 @@
+{"sent": "banana nearest to strawberries", "ann_id": 1042581, "best_split": [3, 3], "split_score": 0.5099646116120353}
+{"sent": "closest banana", "ann_id": 1042581, "best_split": [3, 3], "split_score": 0.5099646116120353}
+{"sent": "largest banana", "ann_id": 1042581, "best_split": [3, 3], "split_score": 0.5099646116120353}
+{"sent": "banana closer to blender", "ann_id": 1041831, "best_split": [3, 2], "split_score": 0.5271841019378343}
+{"sent": "banana furthest from the berries", "ann_id": 1041831, "best_split": [3, 1], "split_score": 0.3548671590588211}
+{"sent": "banana by blender", "ann_id": 1041831, "best_split": [3, 2], "split_score": 0.5271841019378343}

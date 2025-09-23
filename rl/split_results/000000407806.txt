@@ -1,0 +1,12 @@
+{"sent": "person next tp girl in white at end of couch", "ann_id": 1721400, "best_split": [2, 1], "split_score": 0.13215324926797306}
+{"sent": "man covered by shadow", "ann_id": 1721400, "best_split": [1, 5], "split_score": 0.7705965908309054}
+{"sent": "boy", "ann_id": 1721400, "best_split": [1, 3], "split_score": 0.45819256753992565}
+{"sent": "woman in white shirt red hair", "ann_id": 567361, "best_split": [2, 1], "split_score": 0.20723960205539854}
+{"sent": "girl in white shirt in background", "ann_id": 567361, "best_split": [1, 2], "split_score": 0.6058673469146258}
+{"sent": "white shirt with no black", "ann_id": 567361, "best_split": [2, 2], "split_score": 0.33205300555348316}
+{"sent": "the girl in yellow", "ann_id": 560572, "best_split": [1, 2], "split_score": 0.657762378432498}
+{"sent": "green shirt", "ann_id": 560572, "best_split": [1, 2], "split_score": 0.657762378432498}
+{"sent": "woman wearing green yellow shirt", "ann_id": 560572, "best_split": [1, 2], "split_score": 0.657762378432498}
+{"sent": "pink skirt", "ann_id": 523689, "best_split": [1, 3], "split_score": 0.5213715359148704}
+{"sent": "girl in pink skirt", "ann_id": 523689, "best_split": [1, 3], "split_score": 0.5213715359148704}
+{"sent": "girl in pink skirt", "ann_id": 523689, "best_split": [1, 3], "split_score": 0.5213715359148704}

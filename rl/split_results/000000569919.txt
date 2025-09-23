@@ -1,0 +1,8 @@
+{"sent": "full glass partially out of photo", "ann_id": 665628, "best_split": [2, 3], "split_score": 0.4391891891361982}
+{"sent": "glass out of frame", "ann_id": 665628, "best_split": [2, 3], "split_score": 0.4391891891361982}
+{"sent": "full glass by desert", "ann_id": 664832, "best_split": [2, 3], "split_score": 0.5418060200021731}
+{"sent": "full glass by dessert", "ann_id": 664832, "best_split": [2, 3], "split_score": 0.5418060200021731}
+{"sent": "the glass of lemonade inof the oreo cake", "ann_id": 664832, "best_split": [3, 3], "split_score": 0.4108440468961928}
+{"sent": "half filled wine glass with lemon", "ann_id": 664740, "best_split": [2, 2], "split_score": 0.32844387752483706}
+{"sent": "lemon in glass", "ann_id": 664740, "best_split": [2, 2], "split_score": 0.32844387752483706}
+{"sent": "glass with less water and lemon wedge", "ann_id": 664740, "best_split": [2, 2], "split_score": 0.32844387752483706}

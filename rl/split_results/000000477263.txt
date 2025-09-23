@@ -1,0 +1,12 @@
+{"sent": "guy about to sip wine", "ann_id": 556501, "best_split": [3, 3], "split_score": 0.3846539618374305}
+{"sent": "man drinking", "ann_id": 556501, "best_split": [2, 3], "split_score": 0.4510419938788311}
+{"sent": "stripes white shirt", "ann_id": 556501, "best_split": [2, 3], "split_score": 0.4510419938788311}
+{"sent": "man in blue", "ann_id": 426758, "best_split": [3, 1], "split_score": 0.15046720409717537}
+{"sent": "blue shirt with white hair", "ann_id": 426758, "best_split": [2, 3], "split_score": 0.8813862492027517}
+{"sent": "gray hair blue shirt", "ann_id": 426758, "best_split": [2, 3], "split_score": 0.8813862492027517}
+{"sent": "man in glasses", "ann_id": 2205588, "best_split": [1, 2], "split_score": 0.5496575342273673}
+{"sent": "guy with arm", "ann_id": 2205588, "best_split": [3, 1], "split_score": 0.3708634607149905}
+{"sent": "guy with glasses and arm on table", "ann_id": 2205588, "best_split": [3, 1], "split_score": 0.3708634607149905}
+{"sent": "man in black shirt", "ann_id": 2164051, "best_split": [3, 3], "split_score": 0.5392398139815094}
+{"sent": "man in black shirt", "ann_id": 2164051, "best_split": [3, 3], "split_score": 0.5392398139815094}
+{"sent": "bald guy hand under chin", "ann_id": 2164051, "best_split": [3, 3], "split_score": 0.5392398139815094}

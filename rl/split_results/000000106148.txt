@@ -1,0 +1,5 @@
+{"sent": "couch white cover", "ann_id": 113247, "best_split": [3, 2], "split_score": 0.16927083331700704}
+{"sent": "couch behind coffee table", "ann_id": 113247, "best_split": [2, 2], "split_score": 0.3057238520164442}
+{"sent": "couch near wall", "ann_id": 113247, "best_split": [2, 2], "split_score": 0.3057238520164442}
+{"sent": "sofa by window", "ann_id": 99007, "best_split": [2, 3], "split_score": 0.5829247876858873}
+{"sent": "couch furthest from tv", "ann_id": 99007, "best_split": [2, 3], "split_score": 0.5829247876858873}

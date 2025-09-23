@@ -1,0 +1,6 @@
+{"sent": "moto with most people around", "ann_id": 150628, "best_split": [3, 2], "split_score": 0.40578876745200415}
+{"sent": "the bike not closest to us", "ann_id": 150628, "best_split": [1, 5], "split_score": 0.3977272726930331}
+{"sent": "bike with people around it", "ann_id": 150628, "best_split": [1, 5], "split_score": 0.3977272726930331}
+{"sent": "closest bike", "ann_id": 149106, "best_split": [2, 2], "split_score": 0.6535304732141841}
+{"sent": "leader motercycle", "ann_id": 149106, "best_split": [2, 2], "split_score": 0.6535304732141841}
+{"sent": "lead bike", "ann_id": 149106, "best_split": [2, 2], "split_score": 0.6535304732141841}

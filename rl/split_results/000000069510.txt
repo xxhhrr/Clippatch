@@ -1,0 +1,4 @@
+{"sent": "cow on left side", "ann_id": 75256, "best_split": [3, 3], "split_score": 0.5497946611204062}
+{"sent": "cow nearest the house", "ann_id": 75256, "best_split": [3, 2], "split_score": 0.7335817418801139}
+{"sent": "cow furthest away from building", "ann_id": 73671, "best_split": [3, 1], "split_score": 0.34227200722209367}
+{"sent": "eastern one", "ann_id": 73671, "best_split": [3, 1], "split_score": 0.34227200722209367}

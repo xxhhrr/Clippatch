@@ -1,0 +1,6 @@
+{"sent": "red liquid", "ann_id": 1041057, "best_split": [2, 2], "split_score": 0.5628405034490493}
+{"sent": "red soup", "ann_id": 1041057, "best_split": [2, 2], "split_score": 0.5628405034490493}
+{"sent": "bowl of soup", "ann_id": 1041057, "best_split": [2, 2], "split_score": 0.5628405034490493}
+{"sent": "smaller bowl", "ann_id": 717585, "best_split": [3, 2], "split_score": 0.44339207043574974}
+{"sent": "cup of veggie noodles", "ann_id": 717585, "best_split": [5, 1], "split_score": 0.24672897194165427}
+{"sent": "the smaller of the bowls", "ann_id": 717585, "best_split": [3, 2], "split_score": 0.44339207043574974}

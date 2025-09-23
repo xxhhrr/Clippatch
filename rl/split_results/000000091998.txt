@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 205548, "best_split": [1, 5], "split_score": 0.34517045451043316}
+{"sent": "man wearing glasses", "ann_id": 205548, "best_split": [2, 3], "split_score": 0.3893510814845078}
+{"sent": "man with glasses", "ann_id": 205548, "best_split": [2, 3], "split_score": 0.3893510814845078}
+{"sent": "woman", "ann_id": 197692, "best_split": [1, 2], "split_score": 0.8359374999666798}
+{"sent": "lady with hand the air", "ann_id": 197692, "best_split": [1, 2], "split_score": 0.8359374999666798}
+{"sent": "girl pointing up", "ann_id": 197692, "best_split": [1, 2], "split_score": 0.8359374999666798}

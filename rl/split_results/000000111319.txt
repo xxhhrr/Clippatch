@@ -1,0 +1,6 @@
+{"sent": "center gray", "ann_id": 1983405, "best_split": [3, 2], "split_score": 0.21637068787340571}
+{"sent": "black and white", "ann_id": 1983405, "best_split": [3, 1], "split_score": 0.1502903335904423}
+{"sent": "ac", "ann_id": 1983405, "best_split": [2, 3], "split_score": 0.29220427189719134}
+{"sent": "chest freezer with brown lid", "ann_id": 1983582, "best_split": [1, 2], "split_score": 0.2696396162720975}
+{"sent": "black surface", "ann_id": 1983582, "best_split": [2, 2], "split_score": 0.5036319612242385}
+{"sent": "black hinged appliance closest", "ann_id": 1983582, "best_split": [3, 1], "split_score": 0.08046796376717259}

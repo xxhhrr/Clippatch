@@ -1,0 +1,11 @@
+{"sent": "table on side most dont write with", "ann_id": 1613762, "best_split": [3, 3], "split_score": 0.5292762758480692}
+{"sent": "table with nothing on it", "ann_id": 1613762, "best_split": [3, 3], "split_score": 0.5292762758480692}
+{"sent": "table under the tray", "ann_id": 1613617, "best_split": [2, 1], "split_score": 0.6813783737712505}
+{"sent": "table tray is on", "ann_id": 1613617, "best_split": [2, 1], "split_score": 0.6813783737712505}
+{"sent": "table with tray on it", "ann_id": 1613617, "best_split": [2, 1], "split_score": 0.6813783737712505}
+{"sent": "chair close to crack in table", "ann_id": 1584956, "best_split": [3, 2], "split_score": 0.4189189188683737}
+{"sent": "chair near split in table", "ann_id": 1584956, "best_split": [3, 2], "split_score": 0.4189189188683737}
+{"sent": "back of chair left", "ann_id": 1584956, "best_split": [3, 2], "split_score": 0.4189189188683737}
+{"sent": "chair behind table with food", "ann_id": 1581239, "best_split": [2, 3], "split_score": 0.38441119686481523}
+{"sent": "chair on otherside of table", "ann_id": 1581239, "best_split": [3, 3], "split_score": 0.5818115411647532}
+{"sent": "chair at table", "ann_id": 1581239, "best_split": [3, 3], "split_score": 0.5818115411647532}

@@ -1,0 +1,5 @@
+{"sent": "lmao orange only 1 leaf by it up", "ann_id": 1052181, "best_split": [3, 3], "split_score": 0.6172388603693866}
+{"sent": "big orange not in bowl", "ann_id": 1052181, "best_split": [3, 3], "split_score": 0.6172388603693866}
+{"sent": "red in bowl", "ann_id": 1050920, "best_split": [3, 2], "split_score": 0.34397120571757994}
+{"sent": "orange in bowl", "ann_id": 1050920, "best_split": [2, 1], "split_score": 0.07004470938629505}
+{"sent": "alone orange", "ann_id": 1050920, "best_split": [2, 1], "split_score": 0.07004470938629505}

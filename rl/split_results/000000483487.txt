@@ -1,0 +1,6 @@
+{"sent": "little one", "ann_id": 599832, "best_split": [5, 1], "split_score": 0.1347593582784752}
+{"sent": "zebra close to wall", "ann_id": 599832, "best_split": [3, 3], "split_score": 0.32147363104700055}
+{"sent": "smaller giraffe", "ann_id": 599832, "best_split": [5, 1], "split_score": 0.1347593582784752}
+{"sent": "large giraffe", "ann_id": 598696, "best_split": [1, 2], "split_score": 0.7692920918060709}
+{"sent": "taller girrafee", "ann_id": 598696, "best_split": [1, 2], "split_score": 0.7692920918060709}
+{"sent": "closer giraffe", "ann_id": 598696, "best_split": [1, 2], "split_score": 0.7692920918060709}

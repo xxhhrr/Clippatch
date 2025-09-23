@@ -1,0 +1,9 @@
+{"sent": "woman with sunglasses", "ann_id": 538836, "best_split": [3, 3], "split_score": 0.39138943243745233}
+{"sent": "sunglasses", "ann_id": 538836, "best_split": [3, 3], "split_score": 0.39138943243745233}
+{"sent": "girl with sunglasses", "ann_id": 538836, "best_split": [3, 3], "split_score": 0.39138943243745233}
+{"sent": "old lady with pink", "ann_id": 2166225, "best_split": [2, 2], "split_score": 0.6514406183736565}
+{"sent": "old lady in pink", "ann_id": 2166225, "best_split": [2, 2], "split_score": 0.6514406183736565}
+{"sent": "the chubby woman in pink", "ann_id": 2166225, "best_split": [2, 2], "split_score": 0.6514406183736565}
+{"sent": "woman holding kid", "ann_id": 496887, "best_split": [5, 1], "split_score": 0.16256157634037988}
+{"sent": "lady clutching heart", "ann_id": 496887, "best_split": [5, 1], "split_score": 0.16256157634037988}
+{"sent": "woman with red shirt", "ann_id": 496887, "best_split": [3, 2], "split_score": 0.31230283908153417}

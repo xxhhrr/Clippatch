@@ -1,0 +1,6 @@
+{"sent": "full view pink seat", "ann_id": 1397960, "best_split": [2, 3], "split_score": 0.674548736401214}
+{"sent": "pink bench", "ann_id": 1397960, "best_split": [2, 3], "split_score": 0.674548736401214}
+{"sent": "large pink empty chair", "ann_id": 1397960, "best_split": [2, 3], "split_score": 0.674548736401214}
+{"sent": "yellow seat", "ann_id": 1810402, "best_split": [3, 1], "split_score": 0.25389099211261995}
+{"sent": "orange seat", "ann_id": 1810402, "best_split": [3, 1], "split_score": 0.25389099211261995}
+{"sent": "orange yellow seat", "ann_id": 1810402, "best_split": [3, 1], "split_score": 0.25389099211261995}

@@ -1,0 +1,19 @@
+{"sent": "glass near dixie cup", "ann_id": 1498621, "best_split": [3, 3], "split_score": 0.4472527471913114}
+{"sent": "wine glass by red cup", "ann_id": 1498621, "best_split": [3, 1], "split_score": 0.1771490750719723}
+{"sent": "glass next to red dolo", "ann_id": 1498621, "best_split": [3, 3], "split_score": 0.4472527471913114}
+{"sent": "wine glass number 2", "ann_id": 1498254, "best_split": [3, 3], "split_score": 0.17621145372351332}
+{"sent": "the glass sec to lefft", "ann_id": 1498254, "best_split": [3, 2], "split_score": 0.27509293677533475}
+{"sent": "wine glass at 7 o clock", "ann_id": 1498254, "best_split": [3, 3], "split_score": 0.17621145372351332}
+{"sent": "wine glass at 6 o clock with label starting c", "ann_id": 1497586, "best_split": [3, 3], "split_score": 0.3728764756157678}
+{"sent": "wine glass with 2 glasses on each side", "ann_id": 1497586, "best_split": [3, 3], "split_score": 0.3728764756157678}
+{"sent": "glass exactly middle or number 3", "ann_id": 1497586, "best_split": [3, 1], "split_score": 0.14352211015496386}
+{"sent": "dark thing at the edge", "ann_id": 1489948, "best_split": [1, 5], "split_score": 0.35179596998425033}
+{"sent": "black after last glass", "ann_id": 1489948, "best_split": [1, 5], "split_score": 0.35179596998425033}
+{"sent": "black blob beside glass", "ann_id": 1489948, "best_split": [1, 5], "split_score": 0.35179596998425033}
+{"sent": "bottle behind wine glass", "ann_id": 1487114, "best_split": [2, 2], "split_score": 0.2754342431548205}
+{"sent": "bottle away from the others", "ann_id": 1487114, "best_split": [2, 2], "split_score": 0.2754342431548205}
+{"sent": "the cup thats the darkest", "ann_id": 1875057, "best_split": [3, 2], "split_score": 0.30063416564599343}
+{"sent": "fourth glass", "ann_id": 1875057, "best_split": [3, 2], "split_score": 0.30063416564599343}
+{"sent": "glass you can see bottle through", "ann_id": 1875057, "best_split": [2, 2], "split_score": 0.20800611576843378}
+{"sent": "if numbered glass number 5", "ann_id": 1874438, "best_split": [3, 3], "split_score": 0.4445658109715229}
+{"sent": "wine glass very end opposite of red cup", "ann_id": 1874438, "best_split": [3, 2], "split_score": 0.3212312549012203}

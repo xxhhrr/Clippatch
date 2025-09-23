@@ -1,0 +1,9 @@
+{"sent": "pastry on blue utensit", "ann_id": 1925045, "best_split": [3, 1], "split_score": 0.35214140039078656}
+{"sent": "i dont remember lol partial donut on blue utensil", "ann_id": 1925045, "best_split": [3, 1], "split_score": 0.35214140039078656}
+{"sent": "broken donut", "ann_id": 1925045, "best_split": [3, 3], "split_score": 0.44786443018780353}
+{"sent": "donut at 1100", "ann_id": 1082247, "best_split": [3, 1], "split_score": 0.14008204632359544}
+{"sent": "doughnut next to broken one", "ann_id": 1081073, "best_split": [5, 1], "split_score": 0.19771863116162128}
+{"sent": "donut under broken one", "ann_id": 1081073, "best_split": [5, 1], "split_score": 0.19771863116162128}
+{"sent": "small doughnut near partially eaten doughnut", "ann_id": 1081073, "best_split": [5, 1], "split_score": 0.19771863116162128}
+{"sent": "full donut by blue", "ann_id": 1080552, "best_split": [2, 3], "split_score": 0.6823244017331211}
+{"sent": "whole donut next to blue handle", "ann_id": 1080552, "best_split": [2, 3], "split_score": 0.6823244017331211}

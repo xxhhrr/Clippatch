@@ -1,0 +1,9 @@
+{"sent": "yellow and white dress", "ann_id": 235722, "best_split": [1, 2], "split_score": 0.42769451528907465}
+{"sent": "i meant catcher sorry girl holding dress", "ann_id": 235722, "best_split": [1, 2], "split_score": 0.42769451528907465}
+{"sent": "yellow dress girl", "ann_id": 235722, "best_split": [1, 5], "split_score": 0.6540253896308834}
+{"sent": "tall girl", "ann_id": 234838, "best_split": [1, 5], "split_score": 0.7624209574802971}
+{"sent": "girl in white", "ann_id": 234838, "best_split": [1, 5], "split_score": 0.7624209574802971}
+{"sent": "girl in white", "ann_id": 234838, "best_split": [1, 5], "split_score": 0.7624209574802971}
+{"sent": "red bow tie", "ann_id": 199165, "best_split": [1, 5], "split_score": 0.7195380172550974}
+{"sent": "boy in red bow tie", "ann_id": 199165, "best_split": [1, 5], "split_score": 0.7195380172550974}
+{"sent": "boy", "ann_id": 199165, "best_split": [1, 5], "split_score": 0.7195380172550974}

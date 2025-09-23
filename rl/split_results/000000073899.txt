@@ -1,0 +1,5 @@
+{"sent": "giraffe mouth closed", "ann_id": 595459, "best_split": [2, 1], "split_score": 0.2498749374598058}
+{"sent": "short giraffe", "ann_id": 595459, "best_split": [2, 1], "split_score": 0.2498749374598058}
+{"sent": "smaller giraffe", "ann_id": 595459, "best_split": [2, 2], "split_score": 0.45285584765879705}
+{"sent": "bigger giraffe", "ann_id": 594584, "best_split": [1, 2], "split_score": 0.5230196545407082}
+{"sent": "tallest giraffe", "ann_id": 594584, "best_split": [1, 2], "split_score": 0.5230196545407082}

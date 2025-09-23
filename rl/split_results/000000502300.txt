@@ -1,0 +1,6 @@
+{"sent": "monitor with a mans image partially visible", "ann_id": 1625670, "best_split": [3, 3], "split_score": 0.381167540144376}
+{"sent": "monitor with man", "ann_id": 1625670, "best_split": [3, 3], "split_score": 0.381167540144376}
+{"sent": "tv with man", "ann_id": 1625670, "best_split": [3, 3], "split_score": 0.381167540144376}
+{"sent": "screen above screen", "ann_id": 34410, "best_split": [2, 3], "split_score": 0.4342422779398839}
+{"sent": "screen with white tab open", "ann_id": 34410, "best_split": [2, 3], "split_score": 0.4342422779398839}
+{"sent": "actual monitor not laptop screen", "ann_id": 34410, "best_split": [2, 3], "split_score": 0.4342422779398839}

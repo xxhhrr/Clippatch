@@ -1,0 +1,9 @@
+{"sent": "guy in high chair", "ann_id": 1332845, "best_split": [2, 2], "split_score": 0.42968749996574557}
+{"sent": "ump in chair", "ann_id": 1332845, "best_split": [2, 3], "split_score": 0.33469945351925257}
+{"sent": "ref in chair", "ann_id": 1332845, "best_split": [2, 2], "split_score": 0.42968749996574557}
+{"sent": "man sitting white hat near tennis player", "ann_id": 1328858, "best_split": [3, 2], "split_score": 0.36721468854347594}
+{"sent": "sitting blue shirt", "ann_id": 1328858, "best_split": [1, 2], "split_score": 0.1237643494848627}
+{"sent": "cap man", "ann_id": 1328858, "best_split": [1, 3], "split_score": 0.04391873972079145}
+{"sent": "green shirt tennis racket", "ann_id": 1257508, "best_split": [2, 3], "split_score": 0.6552402650522742}
+{"sent": "man holding tennis racket", "ann_id": 1257508, "best_split": [2, 3], "split_score": 0.6552402650522742}
+{"sent": "holding racket", "ann_id": 1257508, "best_split": [2, 3], "split_score": 0.6552402650522742}

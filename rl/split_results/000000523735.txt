@@ -1,0 +1,6 @@
+{"sent": "head up zebra", "ann_id": 590847, "best_split": [1, 2], "split_score": 0.7436224489499512}
+{"sent": "closest", "ann_id": 590847, "best_split": [2, 1], "split_score": 0.26456984273055706}
+{"sent": "zebra looking back", "ann_id": 590847, "best_split": [1, 2], "split_score": 0.7436224489499512}
+{"sent": "head down", "ann_id": 589762, "best_split": [1, 2], "split_score": 0.5847457626927313}
+{"sent": "zebra with head down", "ann_id": 589762, "best_split": [1, 3], "split_score": 0.39335450768233726}
+{"sent": "okay the zebra that is drinking from the pool of spider tears", "ann_id": 589762, "best_split": [1, 3], "split_score": 0.39335450768233726}

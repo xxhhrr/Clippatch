@@ -1,0 +1,6 @@
+{"sent": "sandwich with crust", "ann_id": 312809, "best_split": [3, 3], "split_score": 0.3420011305339173}
+{"sent": "white sandwich filling seeping out", "ann_id": 312809, "best_split": [3, 3], "split_score": 0.3420011305339173}
+{"sent": "sand half by clear plate", "ann_id": 312809, "best_split": [3, 1], "split_score": 0.2179055052795278}
+{"sent": "sandwich with ham", "ann_id": 312689, "best_split": [3, 2], "split_score": 0.42594884484055806}
+{"sent": "closest sandwich", "ann_id": 312689, "best_split": [3, 3], "split_score": 0.46579717853795616}
+{"sent": "sandwich piece with most layers of ham", "ann_id": 312689, "best_split": [3, 2], "split_score": 0.42594884484055806}

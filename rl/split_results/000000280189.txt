@@ -1,0 +1,6 @@
+{"sent": "red bear", "ann_id": 1163272, "best_split": [1, 2], "split_score": 0.5811101128635167}
+{"sent": "bear with red shirt", "ann_id": 1163272, "best_split": [1, 2], "split_score": 0.5811101128635167}
+{"sent": "bear in red outfit", "ann_id": 1163272, "best_split": [1, 2], "split_score": 0.5811101128635167}
+{"sent": "bear in pink", "ann_id": 1162057, "best_split": [1, 2], "split_score": 0.6551453527823411}
+{"sent": "pink", "ann_id": 1162057, "best_split": [1, 2], "split_score": 0.6551453527823411}
+{"sent": "pink shirt", "ann_id": 1162057, "best_split": [1, 2], "split_score": 0.6551453527823411}

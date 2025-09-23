@@ -1,0 +1,9 @@
+{"sent": "smallest zebra", "ann_id": 1822255, "best_split": [3, 1], "split_score": 0.12453669384070017}
+{"sent": "little one", "ann_id": 1822255, "best_split": [3, 2], "split_score": 0.22192866576505674}
+{"sent": "baby", "ann_id": 1822255, "best_split": [2, 2], "split_score": 0.28556485353514904}
+{"sent": "horizontal zebra", "ann_id": 593639, "best_split": [3, 1], "split_score": 0.4222384784044536}
+{"sent": "zebra looking away from camera", "ann_id": 593639, "best_split": [3, 1], "split_score": 0.4222384784044536}
+{"sent": "mom", "ann_id": 593639, "best_split": [3, 1], "split_score": 0.4222384784044536}
+{"sent": "zebra facing forward", "ann_id": 588413, "best_split": [1, 5], "split_score": 0.6901359358060181}
+{"sent": "zebra looking", "ann_id": 588413, "best_split": [1, 5], "split_score": 0.6901359358060181}
+{"sent": "medium", "ann_id": 588413, "best_split": [1, 5], "split_score": 0.6901359358060181}

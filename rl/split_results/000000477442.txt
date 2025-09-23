@@ -1,0 +1,18 @@
+{"sent": "the back half of the table", "ann_id": 1617424, "best_split": [2, 3], "split_score": 0.4873979098544482}
+{"sent": "click table where red shirt is at think that was cats reflection", "ann_id": 1617424, "best_split": [2, 1], "split_score": 0.2606307450765776}
+{"sent": "table where the red coffee mug is", "ann_id": 1617424, "best_split": [2, 3], "split_score": 0.4873979098544482}
+{"sent": "blue and white t shirt hurry up please", "ann_id": 1266330, "best_split": [1, 5], "split_score": 0.4577922077457597}
+{"sent": "blue and white shirt guy", "ann_id": 1266330, "best_split": [2, 1], "split_score": 0.13080684596077297}
+{"sent": "man in blue and white shirt", "ann_id": 1266330, "best_split": [2, 1], "split_score": 0.13080684596077297}
+{"sent": "blue shirt lady", "ann_id": 1264404, "best_split": [2, 2], "split_score": 0.6048088778818735}
+{"sent": "girl in blue", "ann_id": 1264404, "best_split": [2, 2], "split_score": 0.6048088778818735}
+{"sent": "smiling blue lady", "ann_id": 1264404, "best_split": [2, 2], "split_score": 0.6048088778818735}
+{"sent": "unhappy person with red hair and goatee", "ann_id": 1248950, "best_split": [1, 3], "split_score": 0.700757575716101}
+{"sent": "man with goatee", "ann_id": 1248950, "best_split": [1, 3], "split_score": 0.700757575716101}
+{"sent": "black shirt guy", "ann_id": 1248950, "best_split": [1, 3], "split_score": 0.700757575716101}
+{"sent": "red shirt with hat", "ann_id": 1245668, "best_split": [3, 2], "split_score": 0.4421147558965038}
+{"sent": "man is red shirt with hat", "ann_id": 1245668, "best_split": [3, 2], "split_score": 0.4421147558965038}
+{"sent": "person in red with hat", "ann_id": 1245668, "best_split": [3, 2], "split_score": 0.4421147558965038}
+{"sent": "plate with black specks", "ann_id": 1090851, "best_split": [3, 3], "split_score": 0.5405121009539913}
+{"sent": "nearest plate", "ann_id": 1090851, "best_split": [3, 3], "split_score": 0.5405121009539913}
+{"sent": "empty part of table next to man in blue", "ann_id": 1090851, "best_split": [3, 3], "split_score": 0.5405121009539913}

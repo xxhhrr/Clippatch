@@ -1,0 +1,6 @@
+{"sent": "bear not by roses", "ann_id": 1162915, "best_split": [3, 1], "split_score": 0.002900756098582873}
+{"sent": "white bear near the purple flowers", "ann_id": 1162915, "best_split": [1, 2], "split_score": 0.1799266581560935}
+{"sent": "bear with purple ribbon across it", "ann_id": 1162915, "best_split": [3, 3], "split_score": 0.8042261150796052}
+{"sent": "white bear by red ribbon", "ann_id": 1162566, "best_split": [1, 3], "split_score": 0.2758320769873691}
+{"sent": "bear with red ribbon", "ann_id": 1162566, "best_split": [3, 1], "split_score": 0.32740106175631023}
+{"sent": "bear between vases", "ann_id": 1162566, "best_split": [3, 1], "split_score": 0.32740106175631023}

@@ -1,0 +1,6 @@
+{"sent": "highest chair", "ann_id": 1581232, "best_split": [1, 2], "split_score": 0.05393392131968592}
+{"sent": "the empty chair at the table", "ann_id": 1581232, "best_split": [1, 5], "split_score": 0.24008333331332637}
+{"sent": "empty chair", "ann_id": 1581232, "best_split": [1, 5], "split_score": 0.24008333331332637}
+{"sent": "wooden chair pole", "ann_id": 109836, "best_split": [2, 3], "split_score": 0.49923664116693167}
+{"sent": "post of chair behind child", "ann_id": 109836, "best_split": [2, 3], "split_score": 0.49923664116693167}
+{"sent": "side of chair closest", "ann_id": 109836, "best_split": [2, 3], "split_score": 0.49923664116693167}

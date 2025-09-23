@@ -1,0 +1,6 @@
+{"sent": "orange slice", "ann_id": 1051879, "best_split": [2, 3], "split_score": 0.3343258891369457}
+{"sent": "behind bottle", "ann_id": 1051879, "best_split": [3, 2], "split_score": 0.3624999999693834}
+{"sent": "sliced orange", "ann_id": 1051879, "best_split": [2, 3], "split_score": 0.3343258891369457}
+{"sent": "whole orange", "ann_id": 1051475, "best_split": [3, 2], "split_score": 0.45686337392103404}
+{"sent": "orange with sticker", "ann_id": 1051475, "best_split": [3, 2], "split_score": 0.45686337392103404}
+{"sent": "whole orange", "ann_id": 1051475, "best_split": [3, 2], "split_score": 0.45686337392103404}

@@ -1,0 +1,6 @@
+{"sent": "white hat", "ann_id": 471445, "best_split": [1, 2], "split_score": 0.38405519354603085}
+{"sent": "blue shirt white hat girl", "ann_id": 471445, "best_split": [1, 5], "split_score": 0.4044127539079502}
+{"sent": "woman in blue", "ann_id": 471445, "best_split": [1, 5], "split_score": 0.4044127539079502}
+{"sent": "girl in black shirt", "ann_id": 427499, "best_split": [3, 2], "split_score": 0.3555555555281207}
+{"sent": "woman is red shorts", "ann_id": 427499, "best_split": [1, 5], "split_score": 0.5001567889228475}
+{"sent": "woman with black shirt red shorts", "ann_id": 427499, "best_split": [1, 5], "split_score": 0.5001567889228475}

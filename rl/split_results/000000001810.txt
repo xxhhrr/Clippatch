@@ -1,0 +1,6 @@
+{"sent": "large bowl of soup", "ann_id": 712782, "best_split": [2, 2], "split_score": 0.54814500137722}
+{"sent": "the bowl of beans not the reflection", "ann_id": 712782, "best_split": [2, 2], "split_score": 0.54814500137722}
+{"sent": "the bowl of beans", "ann_id": 712782, "best_split": [2, 2], "split_score": 0.54814500137722}
+{"sent": "reflection of bowl", "ann_id": 710165, "best_split": [1, 5], "split_score": 0.14116416868759463}
+{"sent": "reflection bowl", "ann_id": 710165, "best_split": [1, 5], "split_score": 0.14116416868759463}
+{"sent": "reflection of the beans", "ann_id": 710165, "best_split": [1, 5], "split_score": 0.14116416868759463}

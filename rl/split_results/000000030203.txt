@@ -1,0 +1,6 @@
+{"sent": "person at meter", "ann_id": 1727197, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "woman", "ann_id": 1727197, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "girl", "ann_id": 1727197, "best_split": [1, 2], "split_score": 0.5558035714064172}
+{"sent": "man in picture", "ann_id": 440376, "best_split": [1, 2], "split_score": 0.8067602040494755}
+{"sent": "man with a brown jacket", "ann_id": 440376, "best_split": [1, 2], "split_score": 0.8067602040494755}
+{"sent": "man", "ann_id": 440376, "best_split": [1, 2], "split_score": 0.8067602040494755}

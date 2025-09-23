@@ -1,0 +1,17 @@
+{"sent": "person in blue jacket holding umbrella", "ann_id": 2206305, "best_split": [1, 3], "split_score": 0.701496138953819}
+{"sent": "the guy holding an umbrella", "ann_id": 2206305, "best_split": [1, 3], "split_score": 0.701496138953819}
+{"sent": "blue jacket", "ann_id": 2206305, "best_split": [1, 3], "split_score": 0.701496138953819}
+{"sent": "lady without umbrella", "ann_id": 1225380, "best_split": [1, 2], "split_score": 0.12598373983330133}
+{"sent": "woman next to guy in black", "ann_id": 1225380, "best_split": [2, 2], "split_score": 0.23090645555631026}
+{"sent": "woman with hood up", "ann_id": 1225380, "best_split": [1, 3], "split_score": 0.5752895752548691}
+{"sent": "person in white almost off screen", "ann_id": 540587, "best_split": [1, 5], "split_score": 0.4246144480088662}
+{"sent": "white jacket", "ann_id": 540587, "best_split": [2, 1], "split_score": 0.1332068751884017}
+{"sent": "whie coat", "ann_id": 540587, "best_split": [2, 1], "split_score": 0.1332068751884017}
+{"sent": "red jacket holding umbrella", "ann_id": 535034, "best_split": [1, 2], "split_score": 0.2839604591723549}
+{"sent": "shiny coat", "ann_id": 535034, "best_split": [2, 1], "split_score": 0.21115957286016093}
+{"sent": "lady with umbrella", "ann_id": 535034, "best_split": [2, 1], "split_score": 0.04911412193691004}
+{"sent": "umbrella guy is holding", "ann_id": 286927, "best_split": [2, 3], "split_score": 0.7103758169209174}
+{"sent": "umbrella man is holding", "ann_id": 286927, "best_split": [2, 3], "split_score": 0.7103758169209174}
+{"sent": "umbrella above man in bowtie", "ann_id": 286927, "best_split": [2, 3], "split_score": 0.7103758169209174}
+{"sent": "umbrella over woman with red jacket", "ann_id": 283822, "best_split": [3, 2], "split_score": 0.4897260273448495}
+{"sent": "umbrella held by woman in coat in backround no jat", "ann_id": 283822, "best_split": [5, 1], "split_score": 0.27536231881790496}

@@ -1,0 +1,5 @@
+{"sent": "smallest vace not in mirror", "ann_id": 1992873, "best_split": [3, 2], "split_score": 0.26319476876889364}
+{"sent": "vase farthest at 1000", "ann_id": 1992873, "best_split": [5, 1], "split_score": 0.15433364397443303}
+{"sent": "the red urn nearest us", "ann_id": 1152512, "best_split": [3, 2], "split_score": 0.24531377340257143}
+{"sent": "red vase closest", "ann_id": 1152512, "best_split": [3, 2], "split_score": 0.24531377340257143}
+{"sent": "red vase with more light on it", "ann_id": 1152512, "best_split": [1, 5], "split_score": 0.23033707862857775}

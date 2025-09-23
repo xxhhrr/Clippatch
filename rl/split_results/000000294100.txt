@@ -1,0 +1,9 @@
+{"sent": "sheep with visible nose not eye", "ann_id": 67827, "best_split": [1, 3], "split_score": 0.4107142856895081}
+{"sent": "lamb whos head and mouth you see", "ann_id": 67827, "best_split": [1, 3], "split_score": 0.4107142856895081}
+{"sent": "closest sheep you can only see head and shoulder of", "ann_id": 67827, "best_split": [1, 3], "split_score": 0.4107142856895081}
+{"sent": "sheep near dogs mouth", "ann_id": 64075, "best_split": [3, 1], "split_score": 0.6121679423338492}
+{"sent": "sheep dog is standing on", "ann_id": 64075, "best_split": [3, 1], "split_score": 0.6121679423338492}
+{"sent": "sheep between the two sheeps closest to you", "ann_id": 64075, "best_split": [3, 1], "split_score": 0.6121679423338492}
+{"sent": "sheep with almost whole body showing", "ann_id": 62424, "best_split": [3, 2], "split_score": 0.5260663506772085}
+{"sent": "most complete sheep", "ann_id": 62424, "best_split": [3, 2], "split_score": 0.5260663506772085}
+{"sent": "sheep you can see whole body but not head", "ann_id": 62424, "best_split": [3, 2], "split_score": 0.5260663506772085}

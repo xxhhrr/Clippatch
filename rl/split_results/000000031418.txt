@@ -1,0 +1,6 @@
+{"sent": "pizza in background", "ann_id": 1076282, "best_split": [1, 2], "split_score": 0.17976721938058962}
+{"sent": "pizza that isnt close to us", "ann_id": 1076282, "best_split": [1, 2], "split_score": 0.17976721938058962}
+{"sent": "pizza furthest", "ann_id": 1076282, "best_split": [1, 2], "split_score": 0.17976721938058962}
+{"sent": "big pizza", "ann_id": 1075579, "best_split": [3, 1], "split_score": 0.5442654028178073}
+{"sent": "pizza closest to us", "ann_id": 1075579, "best_split": [3, 1], "split_score": 0.5442654028178073}
+{"sent": "bigger pizza", "ann_id": 1075579, "best_split": [3, 1], "split_score": 0.5442654028178073}

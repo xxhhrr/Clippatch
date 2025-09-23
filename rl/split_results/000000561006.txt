@@ -1,0 +1,6 @@
+{"sent": "red train closest to us", "ann_id": 168271, "best_split": [1, 5], "split_score": 0.23288726290238881}
+{"sent": "red bus nearest us", "ann_id": 168271, "best_split": [1, 5], "split_score": 0.23288726290238881}
+{"sent": "closest red bus", "ann_id": 168271, "best_split": [1, 5], "split_score": 0.23288726290238881}
+{"sent": "blue double decker bus", "ann_id": 167326, "best_split": [3, 3], "split_score": 0.349344978109438}
+{"sent": "blue", "ann_id": 167326, "best_split": [2, 1], "split_score": 0.031207348112021565}
+{"sent": "blue bus", "ann_id": 167326, "best_split": [3, 3], "split_score": 0.349344978109438}

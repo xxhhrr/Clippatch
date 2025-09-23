@@ -1,0 +1,6 @@
+{"sent": "girl in blue sweater", "ann_id": 479088, "best_split": [2, 2], "split_score": 0.5324508677968224}
+{"sent": "person in blue shirt", "ann_id": 479088, "best_split": [2, 2], "split_score": 0.5324508677968224}
+{"sent": "woman in blue", "ann_id": 479088, "best_split": [2, 2], "split_score": 0.5324508677968224}
+{"sent": "black woman", "ann_id": 447332, "best_split": [1, 5], "split_score": 0.3610965601221323}
+{"sent": "black lady", "ann_id": 447332, "best_split": [2, 1], "split_score": 0.16617480135580118}
+{"sent": "black jacket with tag", "ann_id": 447332, "best_split": [1, 2], "split_score": 0.22855548468476738}

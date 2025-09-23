@@ -1,0 +1,6 @@
+{"sent": "plant on table", "ann_id": 26510, "best_split": [2, 3], "split_score": 0.6340852129663653}
+{"sent": "small plant", "ann_id": 26510, "best_split": [2, 3], "split_score": 0.6340852129663653}
+{"sent": "plant on table", "ann_id": 26510, "best_split": [2, 3], "split_score": 0.6340852129663653}
+{"sent": "blurry plant", "ann_id": 23260, "best_split": [1, 2], "split_score": 0.657286352014617}
+{"sent": "out of focus floor plant", "ann_id": 23260, "best_split": [3, 2], "split_score": 0.33408711568760635}
+{"sent": "fake tree", "ann_id": 23260, "best_split": [1, 2], "split_score": 0.657286352014617}

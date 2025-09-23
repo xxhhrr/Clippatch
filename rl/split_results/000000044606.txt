@@ -1,0 +1,15 @@
+{"sent": "orange with blue sticker", "ann_id": 1052097, "best_split": [3, 3], "split_score": 0.6284144172250825}
+{"sent": "below the green apple", "ann_id": 1052097, "best_split": [2, 2], "split_score": 0.3666294642564868}
+{"sent": "closest orange", "ann_id": 1052097, "best_split": [3, 3], "split_score": 0.6284144172250825}
+{"sent": "green apple under bananas", "ann_id": 1050523, "best_split": [1, 2], "split_score": 0.24364640883016392}
+{"sent": "green apple under the bananas", "ann_id": 1050523, "best_split": [1, 2], "split_score": 0.24364640883016392}
+{"sent": "green apple", "ann_id": 1050523, "best_split": [3, 2], "split_score": 0.7229508195874764}
+{"sent": "fruit infront of apple not orange", "ann_id": 1050504, "best_split": [5, 1], "split_score": 0.2709801409135986}
+{"sent": "apple closest to us", "ann_id": 1050504, "best_split": [2, 3], "split_score": 0.49498327754024}
+{"sent": "main apple", "ann_id": 1050504, "best_split": [2, 3], "split_score": 0.49498327754024}
+{"sent": "800", "ann_id": 2186585, "best_split": [2, 1], "split_score": 0.007979758660698723}
+{"sent": "apple with stickers", "ann_id": 2186585, "best_split": [5, 1], "split_score": 0.29491580837870557}
+{"sent": "fruit with label but not orange", "ann_id": 2186585, "best_split": [5, 1], "split_score": 0.29491580837870557}
+{"sent": "apple red touching banana stems", "ann_id": 1048392, "best_split": [3, 1], "split_score": 0.1969111968993176}
+{"sent": "red apple", "ann_id": 1048392, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "apple farthest away", "ann_id": 1048392, "best_split": [1, 2], "split_score": 0.0}

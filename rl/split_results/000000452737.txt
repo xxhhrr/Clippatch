@@ -1,0 +1,6 @@
+{"sent": "woman smiling", "ann_id": 1729284, "best_split": [2, 2], "split_score": 0.6471146995578773}
+{"sent": "woman", "ann_id": 1729284, "best_split": [1, 2], "split_score": 0.6058673469146258}
+{"sent": "girl", "ann_id": 1729284, "best_split": [1, 2], "split_score": 0.6058673469146258}
+{"sent": "man", "ann_id": 532029, "best_split": [1, 2], "split_score": 0.7999445637585773}
+{"sent": "tie", "ann_id": 532029, "best_split": [1, 2], "split_score": 0.7999445637585773}
+{"sent": "male", "ann_id": 532029, "best_split": [1, 2], "split_score": 0.7999445637585773}

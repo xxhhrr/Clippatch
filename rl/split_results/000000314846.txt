@@ -1,0 +1,6 @@
+{"sent": "the baby", "ann_id": 1257575, "best_split": [2, 3], "split_score": 0.7160041840380051}
+{"sent": "baby", "ann_id": 1257575, "best_split": [1, 5], "split_score": 0.40401638258660216}
+{"sent": "baby", "ann_id": 1257575, "best_split": [1, 5], "split_score": 0.40401638258660216}
+{"sent": "guy", "ann_id": 488356, "best_split": [1, 2], "split_score": 0.704362606212341}
+{"sent": "white shirt", "ann_id": 488356, "best_split": [1, 2], "split_score": 0.704362606212341}
+{"sent": "person with glasses", "ann_id": 488356, "best_split": [1, 2], "split_score": 0.704362606212341}

@@ -1,0 +1,6 @@
+{"sent": "reflection of bird", "ann_id": 1399547, "best_split": [2, 3], "split_score": 0.46887065631408414}
+{"sent": "reflection", "ann_id": 1399547, "best_split": [2, 3], "split_score": 0.46887065631408414}
+{"sent": "reflection", "ann_id": 1399547, "best_split": [2, 3], "split_score": 0.46887065631408414}
+{"sent": "bird", "ann_id": 38338, "best_split": [2, 3], "split_score": 0.6804374239894251}
+{"sent": "bird not reflection", "ann_id": 38338, "best_split": [1, 5], "split_score": 0.429335851398384}
+{"sent": "bird on wood", "ann_id": 38338, "best_split": [2, 3], "split_score": 0.6804374239894251}

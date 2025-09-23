@@ -1,0 +1,14 @@
+{"sent": "man in the dugout with the uniform with red writing on it", "ann_id": 2160797, "best_split": [1, 2], "split_score": 0.11858258928098762}
+{"sent": "player behind umpire", "ann_id": 2160797, "best_split": [2, 3], "split_score": 0.3589527026593928}
+{"sent": "man in blue", "ann_id": 1720574, "best_split": [2, 1], "split_score": 0.6708242035843309}
+{"sent": "man squatting", "ann_id": 1720574, "best_split": [2, 1], "split_score": 0.6708242035843309}
+{"sent": "catcher", "ann_id": 1720574, "best_split": [2, 1], "split_score": 0.6708242035843309}
+{"sent": "person with hand on hip", "ann_id": 1213307, "best_split": [1, 2], "split_score": 0.20782480145055093}
+{"sent": "wristwatch arm next to fence", "ann_id": 1213307, "best_split": [1, 2], "split_score": 0.12844891272513254}
+{"sent": "black shirt in back", "ann_id": 1213307, "best_split": [2, 3], "split_score": 0.6010480348820045}
+{"sent": "guy in black with clip board", "ann_id": 539409, "best_split": [2, 1], "split_score": 0.18561752413223745}
+{"sent": "person with white pants black shirt and only half in frame", "ann_id": 539409, "best_split": [2, 1], "split_score": 0.08822751322459566}
+{"sent": "half of man in black shirt", "ann_id": 539409, "best_split": [2, 1], "split_score": 0.18561752413223745}
+{"sent": "ump light blue", "ann_id": 454586, "best_split": [1, 2], "split_score": 0.6548150509943075}
+{"sent": "light blue shirt", "ann_id": 454586, "best_split": [1, 2], "split_score": 0.6548150509943075}
+{"sent": "umpire", "ann_id": 454586, "best_split": [1, 2], "split_score": 0.6548150509943075}

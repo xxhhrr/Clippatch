@@ -1,0 +1,6 @@
+{"sent": "dad", "ann_id": 471653, "best_split": [1, 2], "split_score": 0.5756665414810442}
+{"sent": "larger hand", "ann_id": 471653, "best_split": [2, 1], "split_score": 0.44689655171450654}
+{"sent": "the mans hand", "ann_id": 471653, "best_split": [2, 1], "split_score": 0.44689655171450654}
+{"sent": "the child", "ann_id": 446086, "best_split": [1, 2], "split_score": 0.5729374821445204}
+{"sent": "kid", "ann_id": 446086, "best_split": [1, 2], "split_score": 0.5729374821445204}
+{"sent": "child", "ann_id": 446086, "best_split": [1, 2], "split_score": 0.5729374821445204}

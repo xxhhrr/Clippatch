@@ -1,0 +1,6 @@
+{"sent": "bench touching edge of pic", "ann_id": 576455, "best_split": [5, 1], "split_score": 0.34518828448600336}
+{"sent": "park bench edge", "ann_id": 576455, "best_split": [5, 1], "split_score": 0.34518828448600336}
+{"sent": "bench thats closer", "ann_id": 576455, "best_split": [5, 1], "split_score": 0.34518828448600336}
+{"sent": "empty seat next to man looking to sky", "ann_id": 575160, "best_split": [5, 1], "split_score": 0.17809505916042692}
+{"sent": "bench where old guy is", "ann_id": 575160, "best_split": [5, 1], "split_score": 0.17809505916042692}
+{"sent": "bench with sunglasses guy", "ann_id": 575160, "best_split": [3, 2], "split_score": 0.19882018787428224}

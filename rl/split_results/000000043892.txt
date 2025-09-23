@@ -1,0 +1,8 @@
+{"sent": "highest red fruit", "ann_id": 1049506, "best_split": [1, 3], "split_score": 0.14925373133458175}
+{"sent": "red fruit sitting on lemon", "ann_id": 1049506, "best_split": [1, 3], "split_score": 0.14925373133458175}
+{"sent": "highest red fruit", "ann_id": 1049506, "best_split": [1, 3], "split_score": 0.14925373133458175}
+{"sent": "peach behind apple", "ann_id": 1048902, "best_split": [3, 2], "split_score": 0.42638179279767974}
+{"sent": "plum that is not blurry we cant see stem", "ann_id": 1048902, "best_split": [3, 2], "split_score": 0.42638179279767974}
+{"sent": "closes apple", "ann_id": 1047869, "best_split": [2, 3], "split_score": 0.6891848350672124}
+{"sent": "apple closest to us", "ann_id": 1047869, "best_split": [2, 3], "split_score": 0.6891848350672124}
+{"sent": "foreground apple", "ann_id": 1047869, "best_split": [2, 3], "split_score": 0.6891848350672124}

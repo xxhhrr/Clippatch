@@ -1,0 +1,6 @@
+{"sent": "woman in stripes", "ann_id": 206851, "best_split": [3, 3], "split_score": 0.6608930986927073}
+{"sent": "dark shirt", "ann_id": 206851, "best_split": [3, 1], "split_score": 0.26414277986673107}
+{"sent": "black and white striped shirt", "ann_id": 206851, "best_split": [1, 5], "split_score": 0.36229038851842205}
+{"sent": "guy", "ann_id": 197435, "best_split": [3, 2], "split_score": 0.5865092748240717}
+{"sent": "plaid shirt", "ann_id": 197435, "best_split": [3, 2], "split_score": 0.5865092748240717}
+{"sent": "younger", "ann_id": 197435, "best_split": [5, 1], "split_score": 0.22617901827320866}

@@ -1,0 +1,6 @@
+{"sent": "cake behind other cake", "ann_id": 1085984, "best_split": [2, 2], "split_score": 0.4866690882319892}
+{"sent": "cake with no cherry", "ann_id": 1085984, "best_split": [3, 2], "split_score": 0.3568857262154135}
+{"sent": "cake behind cake with visible cherry", "ann_id": 1085984, "best_split": [3, 2], "split_score": 0.3568857262154135}
+{"sent": "main cake", "ann_id": 1084779, "best_split": [1, 3], "split_score": 0.45123959583160905}
+{"sent": "cake with cherry on tee oh pee", "ann_id": 1084779, "best_split": [1, 3], "split_score": 0.45123959583160905}
+{"sent": "cake", "ann_id": 1084779, "best_split": [1, 3], "split_score": 0.45123959583160905}

@@ -1,0 +1,9 @@
+{"sent": "man in white", "ann_id": 1265253, "best_split": [3, 2], "split_score": 0.23956521736526465}
+{"sent": "white shirt300", "ann_id": 1265253, "best_split": [3, 2], "split_score": 0.23956521736526465}
+{"sent": "guy with white shirt", "ann_id": 1265253, "best_split": [3, 2], "split_score": 0.23956521736526465}
+{"sent": "yellow dress", "ann_id": 1257965, "best_split": [3, 2], "split_score": 0.3826891670942645}
+{"sent": "woman in green and yellow", "ann_id": 1257965, "best_split": [3, 2], "split_score": 0.3826891670942645}
+{"sent": "yellow and green dress", "ann_id": 1257965, "best_split": [3, 2], "split_score": 0.3826891670942645}
+{"sent": "shirtless", "ann_id": 1228233, "best_split": [1, 5], "split_score": 0.39646378779356817}
+{"sent": "shirtless man", "ann_id": 1228233, "best_split": [1, 5], "split_score": 0.39646378779356817}
+{"sent": "no shirt guy", "ann_id": 1228233, "best_split": [1, 5], "split_score": 0.39646378779356817}

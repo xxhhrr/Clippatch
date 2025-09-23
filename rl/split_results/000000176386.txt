@@ -1,0 +1,5 @@
+{"sent": "farther pizza", "ann_id": 1570533, "best_split": [3, 1], "split_score": 0.34200954760502333}
+{"sent": "pie 2", "ann_id": 1570533, "best_split": [5, 1], "split_score": 0.18620980198102724}
+{"sent": "shortest pizza", "ann_id": 1073045, "best_split": [3, 3], "split_score": 0.34680894722482974}
+{"sent": "closest pizza", "ann_id": 1073045, "best_split": [2, 3], "split_score": 0.31686358751409865}
+{"sent": "pizza closest", "ann_id": 1073045, "best_split": [2, 3], "split_score": 0.31686358751409865}

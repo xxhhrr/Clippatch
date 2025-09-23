@@ -1,0 +1,5 @@
+{"sent": "apple under banana", "ann_id": 1050001, "best_split": [5, 1], "split_score": 0.2028002434817984}
+{"sent": "apple under banana", "ann_id": 1050001, "best_split": [5, 1], "split_score": 0.2028002434817984}
+{"sent": "apple at tip of banana", "ann_id": 1048911, "best_split": [1, 5], "split_score": 0.2832618025474774}
+{"sent": "apple cloest to camera", "ann_id": 1048911, "best_split": [1, 5], "split_score": 0.2832618025474774}
+{"sent": "red apple touching edge of banana", "ann_id": 1048911, "best_split": [1, 5], "split_score": 0.2832618025474774}

@@ -1,0 +1,6 @@
+{"sent": "partial bus", "ann_id": 1794960, "best_split": [2, 3], "split_score": 0.34747184275731224}
+{"sent": "bus part at 3", "ann_id": 1794960, "best_split": [1, 5], "split_score": 0.24868446694127028}
+{"sent": "window at 3pm", "ann_id": 1794960, "best_split": [2, 2], "split_score": 0.23580994896079321}
+{"sent": "red white sign", "ann_id": 163873, "best_split": [1, 5], "split_score": 0.16843187659802406}
+{"sent": "the bus", "ann_id": 163873, "best_split": [2, 1], "split_score": 0.5129942601836338}
+{"sent": "full train car shown", "ann_id": 163873, "best_split": [2, 1], "split_score": 0.5129942601836338}

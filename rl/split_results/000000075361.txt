@@ -1,0 +1,14 @@
+{"sent": "orange you can see part of between two larger", "ann_id": 1913522, "best_split": [3, 3], "split_score": 0.5182519279539521}
+{"sent": "partial grapefruit between 2 whole ones", "ann_id": 1913522, "best_split": [3, 2], "split_score": 0.4600638977176454}
+{"sent": "orange under the bright red one near you", "ann_id": 1913522, "best_split": [3, 2], "split_score": 0.4600638977176454}
+{"sent": "the highest almost round green fruit", "ann_id": 1912995, "best_split": [1, 3], "split_score": 0.3844471179927569}
+{"sent": "yellow on ri ght sticking out", "ann_id": 1912995, "best_split": [2, 3], "split_score": 0.6307220838315722}
+{"sent": "bigger and closest lemon", "ann_id": 1912995, "best_split": [2, 3], "split_score": 0.6307220838315722}
+{"sent": "line of yellow apples", "ann_id": 1558110, "best_split": [2, 1], "split_score": 0.5969544987432185}
+{"sent": "green apples with 5 in a row", "ann_id": 1558110, "best_split": [1, 2], "split_score": 0.4872256612130775}
+{"sent": "yellow lemons", "ann_id": 1558110, "best_split": [2, 1], "split_score": 0.5969544987432185}
+{"sent": "darker color orange", "ann_id": 1557067, "best_split": [2, 3], "split_score": 0.5868829085201495}
+{"sent": "darkest orange on lower level", "ann_id": 1557067, "best_split": [2, 3], "split_score": 0.5868829085201495}
+{"sent": "yellow fruit third form lef", "ann_id": 1556305, "best_split": [3, 1], "split_score": 0.2683242988293469}
+{"sent": "lemon with stem showing closer to pink thing", "ann_id": 1556305, "best_split": [3, 1], "split_score": 0.2683242988293469}
+{"sent": "green apples whose stem area is clearly seen", "ann_id": 1556305, "best_split": [3, 1], "split_score": 0.2683242988293469}

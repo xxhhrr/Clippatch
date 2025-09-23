@@ -1,0 +1,6 @@
+{"sent": "white book number 3", "ann_id": 1150301, "best_split": [1, 3], "split_score": 0.4300193049933627}
+{"sent": "book with white cover that you can see the whole thing", "ann_id": 1150301, "best_split": [1, 3], "split_score": 0.4300193049933627}
+{"sent": "book cut off by side of clock", "ann_id": 1147488, "best_split": [3, 1], "split_score": 0.071852411259475}
+{"sent": "book closest to 10", "ann_id": 1139717, "best_split": [3, 3], "split_score": 0.467494521463204}
+{"sent": "number 1 book", "ann_id": 1139717, "best_split": [3, 2], "split_score": 0.30888030884304046}
+{"sent": "book number 1", "ann_id": 1139717, "best_split": [3, 3], "split_score": 0.467494521463204}

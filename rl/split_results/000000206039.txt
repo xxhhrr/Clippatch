@@ -1,0 +1,10 @@
+{"sent": "batter", "ann_id": 1301391, "best_split": [1, 2], "split_score": 0.5327248086522351}
+{"sent": "batter", "ann_id": 1301391, "best_split": [1, 2], "split_score": 0.5327248086522351}
+{"sent": "batter", "ann_id": 1301391, "best_split": [1, 2], "split_score": 0.5327248086522351}
+{"sent": "catcher", "ann_id": 1269080, "best_split": [2, 3], "split_score": 0.5177319173995459}
+{"sent": "catcher", "ann_id": 1269080, "best_split": [2, 3], "split_score": 0.5177319173995459}
+{"sent": "catcher", "ann_id": 1269080, "best_split": [2, 3], "split_score": 0.5177319173995459}
+{"sent": "the catcher behind batter", "ann_id": 1269080, "best_split": [2, 3], "split_score": 0.5177319173995459}
+{"sent": "umpire", "ann_id": 1240016, "best_split": [3, 3], "split_score": 0.5349216045067275}
+{"sent": "umpire", "ann_id": 1240016, "best_split": [3, 3], "split_score": 0.5349216045067275}
+{"sent": "ump", "ann_id": 1240016, "best_split": [3, 1], "split_score": 0.2690778628784506}

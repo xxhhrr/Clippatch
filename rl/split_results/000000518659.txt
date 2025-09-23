@@ -1,0 +1,6 @@
+{"sent": "urnal in between", "ann_id": 1095769, "best_split": [3, 3], "split_score": 0.23893805306210353}
+{"sent": "urinal not on the end", "ann_id": 1095769, "best_split": [3, 2], "split_score": 0.2224160488200593}
+{"sent": "not on ends", "ann_id": 1095769, "best_split": [5, 1], "split_score": 0.12579281182824234}
+{"sent": "closest urinal", "ann_id": 1094585, "best_split": [1, 5], "split_score": 0.49999999995117184}
+{"sent": "urinal almost touching camera", "ann_id": 1094585, "best_split": [1, 5], "split_score": 0.49999999995117184}
+{"sent": "urinal closest to us", "ann_id": 1094585, "best_split": [1, 5], "split_score": 0.49999999995117184}

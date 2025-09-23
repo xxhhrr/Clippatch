@@ -1,0 +1,6 @@
+{"sent": "phone in front of nose", "ann_id": 2195989, "best_split": [3, 3], "split_score": 0.4213097236419921}
+{"sent": "cellphone covering mouth and nose", "ann_id": 2195989, "best_split": [3, 3], "split_score": 0.4213097236419921}
+{"sent": "under nose", "ann_id": 2195989, "best_split": [3, 2], "split_score": 0.33763654415341093}
+{"sent": "cellphone with small antenna", "ann_id": 327318, "best_split": [2, 3], "split_score": 0.2854137447119401}
+{"sent": "cellphone with antenna", "ann_id": 327318, "best_split": [2, 3], "split_score": 0.2854137447119401}
+{"sent": "the phone with the antenna", "ann_id": 327318, "best_split": [2, 2], "split_score": 0.3538546866053518}

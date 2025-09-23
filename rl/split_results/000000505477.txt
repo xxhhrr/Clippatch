@@ -1,0 +1,7 @@
+{"sent": "black clothes with white back", "ann_id": 1759585, "best_split": [2, 3], "split_score": 0.2762907176956455}
+{"sent": "next to red jacket person", "ann_id": 1759585, "best_split": [2, 2], "split_score": 0.3448326482424521}
+{"sent": "white jacket", "ann_id": 1759585, "best_split": [2, 1], "split_score": 0.03625864499978988}
+{"sent": "red coat", "ann_id": 1760535, "best_split": [2, 3], "split_score": 0.4413075779620773}
+{"sent": "red jacket", "ann_id": 1760535, "best_split": [2, 3], "split_score": 0.4413075779620773}
+{"sent": "man with hat bending over", "ann_id": 535630, "best_split": [3, 2], "split_score": 0.33625106742781263}
+{"sent": "man in green coat whiteish scarf bent over", "ann_id": 535630, "best_split": [3, 3], "split_score": 0.4198361614365365}

@@ -1,0 +1,6 @@
+{"sent": "yellow bike", "ann_id": 152389, "best_split": [1, 2], "split_score": 0.5720620842345556}
+{"sent": "yellow motorcycle", "ann_id": 152389, "best_split": [1, 2], "split_score": 0.5720620842345556}
+{"sent": "yellow vehicle", "ann_id": 152389, "best_split": [1, 2], "split_score": 0.5720620842345556}
+{"sent": "red wheels", "ann_id": 149958, "best_split": [2, 1], "split_score": 0.40730781396681004}
+{"sent": "bikes 18s rear red wheel", "ann_id": 149958, "best_split": [2, 1], "split_score": 0.40730781396681004}
+{"sent": "white bike", "ann_id": 149958, "best_split": [2, 1], "split_score": 0.40730781396681004}

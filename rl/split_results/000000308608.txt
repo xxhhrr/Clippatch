@@ -1,0 +1,6 @@
+{"sent": "kid with blue icing", "ann_id": 1719428, "best_split": [1, 5], "split_score": 0.41029728218615624}
+{"sent": "kid", "ann_id": 1719428, "best_split": [3, 2], "split_score": 0.44390724322285724}
+{"sent": "kid", "ann_id": 1719428, "best_split": [3, 2], "split_score": 0.44390724322285724}
+{"sent": "man", "ann_id": 531282, "best_split": [1, 3], "split_score": 0.1993617193100363}
+{"sent": "man", "ann_id": 531282, "best_split": [1, 3], "split_score": 0.1993617193100363}
+{"sent": "guy that is standing", "ann_id": 531282, "best_split": [3, 1], "split_score": 0.26562366782054636}

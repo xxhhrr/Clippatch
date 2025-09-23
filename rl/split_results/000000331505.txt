@@ -1,0 +1,6 @@
+{"sent": "less visible banana", "ann_id": 1046117, "best_split": [2, 3], "split_score": 0.4839632764416402}
+{"sent": "mostly hidden banana", "ann_id": 1046117, "best_split": [2, 3], "split_score": 0.4839632764416402}
+{"sent": "banana almost out of the picture", "ann_id": 1046117, "best_split": [2, 3], "split_score": 0.4839632764416402}
+{"sent": "banana closet to apple", "ann_id": 1046057, "best_split": [1, 3], "split_score": 0.9366552118592981}
+{"sent": "banana", "ann_id": 1046057, "best_split": [1, 3], "split_score": 0.9366552118592981}
+{"sent": "banana", "ann_id": 1046057, "best_split": [1, 3], "split_score": 0.9366552118592981}

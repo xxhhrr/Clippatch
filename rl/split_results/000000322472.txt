@@ -1,0 +1,6 @@
+{"sent": "person in red shirt", "ann_id": 1223416, "best_split": [1, 5], "split_score": 0.28187546328003377}
+{"sent": "red shirt standing", "ann_id": 1223416, "best_split": [1, 5], "split_score": 0.28187546328003377}
+{"sent": "red", "ann_id": 1223416, "best_split": [1, 5], "split_score": 0.28187546328003377}
+{"sent": "guy in white with rack", "ann_id": 1201484, "best_split": [1, 5], "split_score": 0.5965193038011083}
+{"sent": "player", "ann_id": 1201484, "best_split": [1, 5], "split_score": 0.5965193038011083}
+{"sent": "white shorts", "ann_id": 1201484, "best_split": [1, 5], "split_score": 0.5965193038011083}

@@ -1,0 +1,6 @@
+{"sent": "black color chair visible behind laptop", "ann_id": 1698226, "best_split": [1, 5], "split_score": 0.4046074919751614}
+{"sent": "black thing behind computer", "ann_id": 1698226, "best_split": [1, 5], "split_score": 0.4046074919751614}
+{"sent": "dark figure near laptop", "ann_id": 1698226, "best_split": [1, 5], "split_score": 0.4046074919751614}
+{"sent": "womans blue torso", "ann_id": 1254176, "best_split": [1, 3], "split_score": 0.7946119918467868}
+{"sent": "person", "ann_id": 1254176, "best_split": [1, 2], "split_score": 0.5394610969172727}
+{"sent": "blue shirt", "ann_id": 1254176, "best_split": [1, 3], "split_score": 0.7946119918467868}

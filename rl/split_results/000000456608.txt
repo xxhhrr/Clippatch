@@ -1,0 +1,12 @@
+{"sent": "man glasses with button", "ann_id": 524907, "best_split": [2, 2], "split_score": 0.38621820295170456}
+{"sent": "bald man", "ann_id": 524907, "best_split": [1, 3], "split_score": 0.8023837901786421}
+{"sent": "bald man", "ann_id": 524907, "best_split": [1, 3], "split_score": 0.8023837901786421}
+{"sent": "man in light gray", "ann_id": 510671, "best_split": [1, 2], "split_score": 0.6030534350910167}
+{"sent": "gray suit man", "ann_id": 510671, "best_split": [1, 2], "split_score": 0.6030534350910167}
+{"sent": "guy gray jacket blue shirt", "ann_id": 510671, "best_split": [1, 2], "split_score": 0.6030534350910167}
+{"sent": "woman in blk shirt and blue shirt", "ann_id": 505527, "best_split": [1, 3], "split_score": 0.6919032596902259}
+{"sent": "women in blue sheit", "ann_id": 505527, "best_split": [1, 3], "split_score": 0.6919032596902259}
+{"sent": "lady", "ann_id": 505527, "best_split": [1, 3], "split_score": 0.6919032596902259}
+{"sent": "man alone", "ann_id": 424532, "best_split": [2, 1], "split_score": 0.11812746098446378}
+{"sent": "man not in group", "ann_id": 424532, "best_split": [2, 1], "split_score": 0.11812746098446378}
+{"sent": "man in far left corner close to the window", "ann_id": 424532, "best_split": [1, 2], "split_score": 0.2224170918278692}

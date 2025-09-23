@@ -1,0 +1,6 @@
+{"sent": "zebra whose nose we can not see", "ann_id": 1822648, "best_split": [1, 3], "split_score": 0.6195447901117381}
+{"sent": "zebra above", "ann_id": 1822648, "best_split": [1, 3], "split_score": 0.6195447901117381}
+{"sent": "taller zebra", "ann_id": 1822648, "best_split": [1, 3], "split_score": 0.6195447901117381}
+{"sent": "zebra head", "ann_id": 588410, "best_split": [1, 3], "split_score": 0.37436336806252735}
+{"sent": "not blocked", "ann_id": 588410, "best_split": [1, 5], "split_score": 0.3966712898501657}
+{"sent": "closest", "ann_id": 588410, "best_split": [1, 3], "split_score": 0.37436336806252735}

@@ -1,0 +1,6 @@
+{"sent": "nearest man", "ann_id": 478497, "best_split": [1, 2], "split_score": 0.7770717073392125}
+{"sent": "man near us doing the thing with his hands", "ann_id": 478497, "best_split": [1, 2], "split_score": 0.7770717073392125}
+{"sent": "guy with hand up towwards us", "ann_id": 478497, "best_split": [1, 2], "split_score": 0.7770717073392125}
+{"sent": "darker skinned man", "ann_id": 452621, "best_split": [2, 1], "split_score": 0.21659116647025087}
+{"sent": "man in purple", "ann_id": 452621, "best_split": [3, 2], "split_score": 0.4178767343967508}
+{"sent": "pink shirt", "ann_id": 452621, "best_split": [3, 2], "split_score": 0.4178767343967508}

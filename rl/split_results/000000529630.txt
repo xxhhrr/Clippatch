@@ -1,0 +1,9 @@
+{"sent": "dish with orange fruit", "ann_id": 1040873, "best_split": [2, 3], "split_score": 0.4382022471470503}
+{"sent": "orange food on plate", "ann_id": 1040873, "best_split": [2, 3], "split_score": 0.4382022471470503}
+{"sent": "peaches", "ann_id": 1040873, "best_split": [2, 3], "split_score": 0.4382022471470503}
+{"sent": "cherrios", "ann_id": 709521, "best_split": [3, 2], "split_score": 0.5340039360885629}
+{"sent": "cheerios", "ann_id": 709521, "best_split": [3, 2], "split_score": 0.5340039360885629}
+{"sent": "cup with what looks like cereal near the plate of toast", "ann_id": 709521, "best_split": [1, 5], "split_score": 0.32523364483218065}
+{"sent": "cut up apples", "ann_id": 709441, "best_split": [3, 2], "split_score": 0.5253490869467938}
+{"sent": "fruit bowl with apples", "ann_id": 709441, "best_split": [3, 2], "split_score": 0.5253490869467938}
+{"sent": "bowl at 4 o clock", "ann_id": 709441, "best_split": [5, 1], "split_score": 0.24136030856952212}

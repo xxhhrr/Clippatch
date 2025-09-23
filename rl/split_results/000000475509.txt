@@ -1,0 +1,5 @@
+{"sent": "spiderman shirt", "ann_id": 513009, "best_split": [1, 5], "split_score": 0.6356783919027568}
+{"sent": "spiderman", "ann_id": 513009, "best_split": [1, 5], "split_score": 0.6356783919027568}
+{"sent": "man in nightshirt playing wii", "ann_id": 496125, "best_split": [2, 1], "split_score": 0.5236451501402702}
+{"sent": "green", "ann_id": 496125, "best_split": [2, 1], "split_score": 0.5236451501402702}
+{"sent": "man in green", "ann_id": 496125, "best_split": [2, 1], "split_score": 0.5236451501402702}

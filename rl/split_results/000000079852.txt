@@ -1,0 +1,9 @@
+{"sent": "black shirt gray pant kid", "ann_id": 503056, "best_split": [3, 3], "split_score": 0.6569142284750045}
+{"sent": "bendng in black", "ann_id": 503056, "best_split": [3, 3], "split_score": 0.6569142284750045}
+{"sent": "black shirt about to skateboard on hands", "ann_id": 503056, "best_split": [2, 2], "split_score": 0.32128226800693915}
+{"sent": "brown outfit guy", "ann_id": 490867, "best_split": [2, 3], "split_score": 0.42010502622791346}
+{"sent": "guy in brown", "ann_id": 490867, "best_split": [2, 3], "split_score": 0.42010502622791346}
+{"sent": "man skateboard", "ann_id": 490867, "best_split": [2, 3], "split_score": 0.42010502622791346}
+{"sent": "standing", "ann_id": 473267, "best_split": [5, 1], "split_score": 0.08805345656104081}
+{"sent": "guy standing white shirt", "ann_id": 473267, "best_split": [1, 5], "split_score": 0.6099611901118128}
+{"sent": "guy in white", "ann_id": 473267, "best_split": [1, 5], "split_score": 0.6099611901118128}

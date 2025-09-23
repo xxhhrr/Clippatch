@@ -1,0 +1,5 @@
+{"sent": "sandwich thats more open", "ann_id": 311726, "best_split": [3, 2], "split_score": 0.36495988903981774}
+{"sent": "opened sandwich", "ann_id": 311726, "best_split": [3, 2], "split_score": 0.36495988903981774}
+{"sent": "sandwich half nearest lid", "ann_id": 310175, "best_split": [3, 3], "split_score": 0.5062706269958719}
+{"sent": "sandwich near lid", "ann_id": 310175, "best_split": [3, 3], "split_score": 0.5062706269958719}
+{"sent": "sandwich by container opening", "ann_id": 310175, "best_split": [3, 3], "split_score": 0.5062706269958719}

@@ -1,0 +1,6 @@
+{"sent": "girl with the bear", "ann_id": 2159403, "best_split": [1, 3], "split_score": 0.5671903599539662}
+{"sent": "woman", "ann_id": 2159403, "best_split": [1, 3], "split_score": 0.5671903599539662}
+{"sent": "woman", "ann_id": 2159403, "best_split": [1, 3], "split_score": 0.5671903599539662}
+{"sent": "person partialy cut off white hat", "ann_id": 1690360, "best_split": [2, 3], "split_score": 0.5334420880291957}
+{"sent": "person sitting behind standing woman", "ann_id": 1690360, "best_split": [1, 2], "split_score": 0.19419642856368796}
+{"sent": "man in stripes and white cap", "ann_id": 1690360, "best_split": [2, 3], "split_score": 0.5334420880291957}

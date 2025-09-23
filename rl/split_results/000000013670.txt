@@ -1,0 +1,9 @@
+{"sent": "umpire in blue pants", "ann_id": 505836, "best_split": [3, 2], "split_score": 0.15743226750320768}
+{"sent": "ump", "ann_id": 505836, "best_split": [1, 2], "split_score": 0.42570153059527654}
+{"sent": "umpire", "ann_id": 505836, "best_split": [3, 1], "split_score": 0.19460028049637973}
+{"sent": "catcher", "ann_id": 503908, "best_split": [2, 3], "split_score": 0.4210526315360834}
+{"sent": "catcher", "ann_id": 503908, "best_split": [2, 3], "split_score": 0.4210526315360834}
+{"sent": "catcher", "ann_id": 503908, "best_split": [2, 3], "split_score": 0.4210526315360834}
+{"sent": "13", "ann_id": 501471, "best_split": [2, 2], "split_score": 0.319601968739589}
+{"sent": "13", "ann_id": 501471, "best_split": [2, 2], "split_score": 0.319601968739589}
+{"sent": "batter", "ann_id": 501471, "best_split": [1, 5], "split_score": 0.6917866214539461}

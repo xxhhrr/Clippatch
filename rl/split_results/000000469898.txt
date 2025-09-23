@@ -1,0 +1,3 @@
+{"sent": "biggest sheep", "ann_id": 63328, "best_split": [3, 2], "split_score": 0.3924572775155773}
+{"sent": "near dog", "ann_id": 63328, "best_split": [3, 1], "split_score": 0.23116973272022762}
+{"sent": "sheep close to dog", "ann_id": 63328, "best_split": [3, 2], "split_score": 0.3924572775155773}

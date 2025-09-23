@@ -1,0 +1,6 @@
+{"sent": "umpire bent over the catcher", "ann_id": 1727607, "best_split": [2, 2], "split_score": 0.31517509725436527}
+{"sent": "the umpire", "ann_id": 1727607, "best_split": [2, 1], "split_score": 0.16839916839291658}
+{"sent": "umpire", "ann_id": 1727607, "best_split": [2, 1], "split_score": 0.16839916839291658}
+{"sent": "person with bat inhand", "ann_id": 195224, "best_split": [1, 5], "split_score": 0.4300824389150659}
+{"sent": "batter", "ann_id": 195224, "best_split": [1, 5], "split_score": 0.4300824389150659}
+{"sent": "batter", "ann_id": 195224, "best_split": [1, 5], "split_score": 0.4300824389150659}

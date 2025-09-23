@@ -1,0 +1,6 @@
+{"sent": "man with beard", "ann_id": 1720692, "best_split": [2, 2], "split_score": 0.5896946564510372}
+{"sent": "he has his eyes closed", "ann_id": 1720692, "best_split": [2, 2], "split_score": 0.5896946564510372}
+{"sent": "guy with thing on his neck", "ann_id": 1720692, "best_split": [2, 2], "split_score": 0.5896946564510372}
+{"sent": "guy holding the basket", "ann_id": 192408, "best_split": [1, 2], "split_score": 0.2938855229474695}
+{"sent": "shorter guy", "ann_id": 192408, "best_split": [1, 5], "split_score": 0.34759483767324245}
+{"sent": "guy holding bread", "ann_id": 192408, "best_split": [2, 2], "split_score": 0.525622366868968}

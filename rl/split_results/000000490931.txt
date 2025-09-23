@@ -1,0 +1,6 @@
+{"sent": "person with umbrella", "ann_id": 510976, "best_split": [1, 5], "split_score": 0.3095701662191426}
+{"sent": "woman with umbrella", "ann_id": 510976, "best_split": [1, 5], "split_score": 0.3095701662191426}
+{"sent": "under umbrella", "ann_id": 510976, "best_split": [1, 5], "split_score": 0.3095701662191426}
+{"sent": "white pants", "ann_id": 478639, "best_split": [1, 5], "split_score": 0.3276582572103654}
+{"sent": "person with white papers", "ann_id": 478639, "best_split": [1, 5], "split_score": 0.3276582572103654}
+{"sent": "shuffling papers", "ann_id": 478639, "best_split": [1, 5], "split_score": 0.3276582572103654}

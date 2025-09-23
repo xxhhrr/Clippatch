@@ -1,0 +1,7 @@
+{"sent": "sheets", "ann_id": 315754, "best_split": [1, 2], "split_score": 0.7037228953801131}
+{"sent": "can se the whole dog zoom out", "ann_id": 15638, "best_split": [2, 3], "split_score": 0.3258559621982254}
+{"sent": "smaller dog pic", "ann_id": 15638, "best_split": [3, 1], "split_score": 0.3005110421472663}
+{"sent": "smaller dog", "ann_id": 15638, "best_split": [2, 3], "split_score": 0.3258559621982254}
+{"sent": "closeup", "ann_id": 6221, "best_split": [2, 1], "split_score": 0.32985746898470236}
+{"sent": "larger dog", "ann_id": 6221, "best_split": [1, 2], "split_score": 0.7181919642570873}
+{"sent": "close up of dog", "ann_id": 6221, "best_split": [1, 2], "split_score": 0.7181919642570873}

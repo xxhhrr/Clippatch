@@ -1,0 +1,5 @@
+{"sent": "zebra with head in pit", "ann_id": 599153, "best_split": [1, 2], "split_score": 0.8915019132297711}
+{"sent": "girafee eating", "ann_id": 599153, "best_split": [1, 2], "split_score": 0.8915019132297711}
+{"sent": "giraffe with mouth not in grate", "ann_id": 597696, "best_split": [1, 2], "split_score": 0.6424242424068608}
+{"sent": "biggest giraffe", "ann_id": 597696, "best_split": [1, 2], "split_score": 0.6424242424068608}
+{"sent": "larger giraffe", "ann_id": 597696, "best_split": [1, 2], "split_score": 0.6424242424068608}

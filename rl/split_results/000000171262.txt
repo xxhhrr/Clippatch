@@ -1,0 +1,12 @@
+{"sent": "man with red cap", "ann_id": 207342, "best_split": [2, 2], "split_score": 0.6308878290565827}
+{"sent": "red hat", "ann_id": 207342, "best_split": [2, 2], "split_score": 0.6308878290565827}
+{"sent": "red", "ann_id": 207342, "best_split": [2, 2], "split_score": 0.6308878290565827}
+{"sent": "green jacket", "ann_id": 194676, "best_split": [1, 2], "split_score": 0.5390624999785131}
+{"sent": "green coat", "ann_id": 194676, "best_split": [1, 2], "split_score": 0.5390624999785131}
+{"sent": "green coat", "ann_id": 194676, "best_split": [1, 2], "split_score": 0.5390624999785131}
+{"sent": "dog with yellow thing on", "ann_id": 17286, "best_split": [3, 2], "split_score": 0.690095846576468}
+{"sent": "dog in yellow", "ann_id": 17286, "best_split": [3, 2], "split_score": 0.690095846576468}
+{"sent": "vest dog", "ann_id": 17286, "best_split": [3, 1], "split_score": 0.377622377601747}
+{"sent": "dog with back of head facing us", "ann_id": 13843, "best_split": [3, 2], "split_score": 0.5442129223827514}
+{"sent": "brown dog", "ann_id": 13843, "best_split": [3, 2], "split_score": 0.5442129223827514}
+{"sent": "all brown dog", "ann_id": 13843, "best_split": [3, 2], "split_score": 0.5442129223827514}

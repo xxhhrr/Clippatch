@@ -1,0 +1,5 @@
+{"sent": "woman with only face showing", "ann_id": 1330576, "best_split": [2, 3], "split_score": 0.5092862982701453}
+{"sent": "partially seen nearest blond girl", "ann_id": 1330576, "best_split": [2, 3], "split_score": 0.5092862982701453}
+{"sent": "hand raised", "ann_id": 1272448, "best_split": [1, 3], "split_score": 0.4370370370151633}
+{"sent": "blue shirt arm up", "ann_id": 1272448, "best_split": [1, 3], "split_score": 0.4370370370151633}
+{"sent": "the girl with the blue shirt", "ann_id": 1272448, "best_split": [2, 2], "split_score": 0.34804457066047384}

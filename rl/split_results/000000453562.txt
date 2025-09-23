@@ -1,0 +1,12 @@
+{"sent": "blue jeans", "ann_id": 2166612, "best_split": [2, 2], "split_score": 0.6705107083559506}
+{"sent": "man standing in blue jeans", "ann_id": 2166612, "best_split": [2, 2], "split_score": 0.6705107083559506}
+{"sent": "man wearing jeans and blue shirt only see half", "ann_id": 2166612, "best_split": [2, 2], "split_score": 0.6705107083559506}
+{"sent": "man in gray tshirt holding camera", "ann_id": 2162934, "best_split": [2, 3], "split_score": 0.3008130081112687}
+{"sent": "man gray shirt", "ann_id": 2162934, "best_split": [1, 5], "split_score": 0.36523437497770783}
+{"sent": "man in gray shirt facing us", "ann_id": 2162934, "best_split": [5, 1], "split_score": 0.20283932027302434}
+{"sent": "gray striped dress", "ann_id": 553969, "best_split": [1, 2], "split_score": 0.233179209174379}
+{"sent": "stripes", "ann_id": 553969, "best_split": [1, 5], "split_score": 0.572801922634408}
+{"sent": "stripes", "ann_id": 553969, "best_split": [1, 5], "split_score": 0.572801922634408}
+{"sent": "brunette girl", "ann_id": 475189, "best_split": [2, 1], "split_score": 0.6150285501701176}
+{"sent": "girl in foreground", "ann_id": 475189, "best_split": [2, 1], "split_score": 0.6150285501701176}
+{"sent": "woman", "ann_id": 475189, "best_split": [2, 1], "split_score": 0.6150285501701176}

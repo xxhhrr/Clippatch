@@ -1,0 +1,6 @@
+{"sent": "white bus with yellow stripe", "ann_id": 168018, "best_split": [3, 2], "split_score": 0.5536159600504439}
+{"sent": "white and yellow bus", "ann_id": 168018, "best_split": [3, 2], "split_score": 0.5536159600504439}
+{"sent": "bus with bigger window", "ann_id": 168018, "best_split": [3, 2], "split_score": 0.5536159600504439}
+{"sent": "smaller bus", "ann_id": 165078, "best_split": [3, 1], "split_score": 0.469519313716587}
+{"sent": "private hire bus", "ann_id": 165078, "best_split": [3, 1], "split_score": 0.469519313716587}
+{"sent": "bus that is clorful", "ann_id": 165078, "best_split": [3, 1], "split_score": 0.469519313716587}

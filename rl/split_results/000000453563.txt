@@ -1,0 +1,5 @@
+{"sent": "green veggie at 4 o clock position", "ann_id": 2187947, "best_split": [3, 2], "split_score": 0.23582263707866713}
+{"sent": "spinach at 4", "ann_id": 2187947, "best_split": [3, 2], "split_score": 0.23582263707866713}
+{"sent": "largest pile of green stuff", "ann_id": 1562047, "best_split": [3, 3], "split_score": 0.47062761498399536}
+{"sent": "biggest green", "ann_id": 1562047, "best_split": [3, 3], "split_score": 0.47062761498399536}
+{"sent": "big broccoli piece on pizza", "ann_id": 1562047, "best_split": [3, 2], "split_score": 0.3542323408810003}

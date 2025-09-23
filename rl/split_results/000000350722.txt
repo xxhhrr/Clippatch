@@ -1,0 +1,5 @@
+{"sent": "vase 1", "ann_id": 1155629, "best_split": [1, 5], "split_score": 0.4537372875006232}
+{"sent": "vase on the left", "ann_id": 1155629, "best_split": [1, 5], "split_score": 0.4537372875006232}
+{"sent": "vase not under vertial wall lines", "ann_id": 1154687, "best_split": [2, 1], "split_score": 0.2920157713056391}
+{"sent": "vase 2", "ann_id": 1154687, "best_split": [2, 1], "split_score": 0.2920157713056391}
+{"sent": "closer to edge of table", "ann_id": 1154687, "best_split": [2, 1], "split_score": 0.2920157713056391}

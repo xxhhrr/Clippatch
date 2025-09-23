@@ -1,0 +1,6 @@
+{"sent": "phone with sun", "ann_id": 326405, "best_split": [2, 1], "split_score": 0.19667103286806584}
+{"sent": "motorolla back cover", "ann_id": 326405, "best_split": [1, 2], "split_score": 0.4311313185178951}
+{"sent": "back of phone", "ann_id": 326405, "best_split": [1, 5], "split_score": 0.32291666664744545}
+{"sent": "c350", "ann_id": 321776, "best_split": [1, 5], "split_score": 0.6128173775003368}
+{"sent": "c350 phone", "ann_id": 321776, "best_split": [1, 5], "split_score": 0.6128173775003368}
+{"sent": "white screen", "ann_id": 321776, "best_split": [1, 2], "split_score": 0.5009167729392173}

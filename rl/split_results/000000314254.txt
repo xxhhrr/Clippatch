@@ -1,0 +1,6 @@
+{"sent": "tv with showing hot dogs", "ann_id": 1969743, "best_split": [1, 3], "split_score": 0.4839255498932672}
+{"sent": "hot dog television", "ann_id": 1969743, "best_split": [1, 3], "split_score": 0.4839255498932672}
+{"sent": "hotdog", "ann_id": 1969743, "best_split": [1, 3], "split_score": 0.4839255498932672}
+{"sent": "partial screen", "ann_id": 1969707, "best_split": [3, 3], "split_score": 0.26115189154980917}
+{"sent": "side of screen", "ann_id": 1969707, "best_split": [3, 3], "split_score": 0.26115189154980917}
+{"sent": "partial screen", "ann_id": 1969707, "best_split": [3, 3], "split_score": 0.26115189154980917}

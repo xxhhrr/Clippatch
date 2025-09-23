@@ -1,0 +1,6 @@
+{"sent": "portion of sandwhich closest to carrot slice", "ann_id": 308431, "best_split": [2, 3], "split_score": 0.5902429975338301}
+{"sent": "sandwich at noon", "ann_id": 308431, "best_split": [2, 3], "split_score": 0.5902429975338301}
+{"sent": "sandwich by carrot", "ann_id": 308431, "best_split": [2, 3], "split_score": 0.5902429975338301}
+{"sent": "sandwich with most meat sticking out", "ann_id": 308110, "best_split": [1, 2], "split_score": 0.5566406249778124}
+{"sent": "sandwich closest to corner and is not by carrot", "ann_id": 308110, "best_split": [1, 2], "split_score": 0.5566406249778124}
+{"sent": "sandwich with fatty meat slice hanging out", "ann_id": 308110, "best_split": [1, 2], "split_score": 0.5566406249778124}

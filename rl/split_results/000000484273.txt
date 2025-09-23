@@ -1,0 +1,6 @@
+{"sent": "white sweater", "ann_id": 225714, "best_split": [1, 5], "split_score": 0.5615034168108116}
+{"sent": "white shirt person", "ann_id": 225714, "best_split": [3, 1], "split_score": 0.15122167924694704}
+{"sent": "person in white shirt", "ann_id": 225714, "best_split": [2, 1], "split_score": 0.14016029674305622}
+{"sent": "man with checkard shirt", "ann_id": 211649, "best_split": [2, 3], "split_score": 0.41799645385438866}
+{"sent": "man in plad", "ann_id": 211649, "best_split": [2, 2], "split_score": 0.284036144556925}
+{"sent": "plaid shirt", "ann_id": 211649, "best_split": [2, 3], "split_score": 0.41799645385438866}

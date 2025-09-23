@@ -1,0 +1,6 @@
+{"sent": "medical van", "ann_id": 1198119, "best_split": [3, 1], "split_score": 0.3806584362000052}
+{"sent": "truck with addition sign on it", "ann_id": 1198119, "best_split": [3, 1], "split_score": 0.3806584362000052}
+{"sent": "vehicle with plus sign", "ann_id": 1198119, "best_split": [3, 1], "split_score": 0.3806584362000052}
+{"sent": "truck not next to woman", "ann_id": 1196290, "best_split": [3, 1], "split_score": 0.253365226759844}
+{"sent": "jeep 3 o clock", "ann_id": 1196290, "best_split": [1, 3], "split_score": 0.5987436433982205}
+{"sent": "2 truck", "ann_id": 1196290, "best_split": [3, 2], "split_score": 0.4144863039657419}

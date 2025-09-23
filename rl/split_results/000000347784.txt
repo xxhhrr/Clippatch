@@ -1,0 +1,9 @@
+{"sent": "guy sitting", "ann_id": 226271, "best_split": [3, 1], "split_score": 0.18365317106344178}
+{"sent": "white shirt guy", "ann_id": 226271, "best_split": [3, 1], "split_score": 0.18365317106344178}
+{"sent": "man sitting wearing white shirt", "ann_id": 226271, "best_split": [3, 3], "split_score": 0.47013363379968864}
+{"sent": "guy in black", "ann_id": 215932, "best_split": [1, 2], "split_score": 0.687532946735387}
+{"sent": "boy wearing black shirt", "ann_id": 215932, "best_split": [1, 2], "split_score": 0.687532946735387}
+{"sent": "thumbs up bro", "ann_id": 215932, "best_split": [1, 2], "split_score": 0.687532946735387}
+{"sent": "baby in shite", "ann_id": 196866, "best_split": [3, 2], "split_score": 0.43612167296234583}
+{"sent": "baby in green white purple hat", "ann_id": 196866, "best_split": [3, 2], "split_score": 0.43612167296234583}
+{"sent": "knit hat", "ann_id": 196866, "best_split": [3, 2], "split_score": 0.43612167296234583}

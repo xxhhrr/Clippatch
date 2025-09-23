@@ -1,0 +1,5 @@
+{"sent": "bunch of banana by corner od white pad", "ann_id": 1043273, "best_split": [5, 1], "split_score": 0.2998468606202261}
+{"sent": "bannanas at 9 o clock", "ann_id": 1043273, "best_split": [5, 1], "split_score": 0.2998468606202261}
+{"sent": "largest bunch", "ann_id": 1042389, "best_split": [2, 3], "split_score": 0.6031347961909769}
+{"sent": "closest bunch of bananas", "ann_id": 1042389, "best_split": [2, 3], "split_score": 0.6031347961909769}
+{"sent": "bunch closest to you", "ann_id": 1042389, "best_split": [2, 1], "split_score": 0.48501275508270836}

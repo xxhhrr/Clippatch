@@ -1,0 +1,8 @@
+{"sent": "girl", "ann_id": 548663, "best_split": [2, 2], "split_score": 0.32926829266500063}
+{"sent": "girl", "ann_id": 548663, "best_split": [2, 2], "split_score": 0.32926829266500063}
+{"sent": "girl in light blue shirt", "ann_id": 548663, "best_split": [1, 5], "split_score": 0.7522580644554631}
+{"sent": "dude with hat", "ann_id": 545991, "best_split": [1, 5], "split_score": 0.9047981720387663}
+{"sent": "man with hat", "ann_id": 545991, "best_split": [1, 5], "split_score": 0.9047981720387663}
+{"sent": "stripe", "ann_id": 545991, "best_split": [2, 1], "split_score": 0.17010326393166306}
+{"sent": "black shirt", "ann_id": 457562, "best_split": [1, 5], "split_score": 0.6312949639771669}
+{"sent": "with board", "ann_id": 457562, "best_split": [1, 5], "split_score": 0.6312949639771669}

@@ -1,0 +1,6 @@
+{"sent": "pizza", "ann_id": 1076361, "best_split": [3, 1], "split_score": 0.525328330179741}
+{"sent": "tomato", "ann_id": 1076361, "best_split": [3, 1], "split_score": 0.525328330179741}
+{"sent": "far edge of pizza", "ann_id": 1076361, "best_split": [3, 1], "split_score": 0.525328330179741}
+{"sent": "closest slice with only a little tomato", "ann_id": 1073506, "best_split": [3, 2], "split_score": 0.5395752895101864}
+{"sent": "dark crust", "ann_id": 1073506, "best_split": [3, 2], "split_score": 0.5395752895101864}
+{"sent": "closest pizza slice near other plate", "ann_id": 1073506, "best_split": [3, 2], "split_score": 0.5395752895101864}

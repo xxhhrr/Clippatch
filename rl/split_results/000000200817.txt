@@ -1,0 +1,8 @@
+{"sent": "elephant in the grass with", "ann_id": 582015, "best_split": [5, 1], "split_score": 0.15846338534055365}
+{"sent": "far one", "ann_id": 582015, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "elephant not the smallest and not the biggest", "ann_id": 580131, "best_split": [1, 3], "split_score": 0.5094439540816662}
+{"sent": "medium elephant", "ann_id": 580131, "best_split": [1, 3], "split_score": 0.5094439540816662}
+{"sent": "middle elephant", "ann_id": 580131, "best_split": [1, 3], "split_score": 0.5094439540816662}
+{"sent": "the baby", "ann_id": 580057, "best_split": [2, 2], "split_score": 0.5884846113335626}
+{"sent": "baby", "ann_id": 580057, "best_split": [2, 1], "split_score": 0.35133650676121064}
+{"sent": "shortest elephant", "ann_id": 580057, "best_split": [3, 1], "split_score": 0.2599511870308431}

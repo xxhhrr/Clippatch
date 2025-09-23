@@ -1,0 +1,11 @@
+{"sent": "longest carrot", "ann_id": 1916830, "best_split": [2, 1], "split_score": 0.32533482141560366}
+{"sent": "lowest veggie", "ann_id": 1916830, "best_split": [3, 3], "split_score": 0.40366405924210946}
+{"sent": "closest hotdog", "ann_id": 1916830, "best_split": [2, 1], "split_score": 0.32533482141560366}
+{"sent": "close straight orange carrot", "ann_id": 1065521, "best_split": [5, 1], "split_score": 0.45454545449933587}
+{"sent": "not the closest carrot to us but next", "ann_id": 1065521, "best_split": [5, 1], "split_score": 0.45454545449933587}
+{"sent": "main dish", "ann_id": 1039895, "best_split": [2, 1], "split_score": 0.538647342983122}
+{"sent": "main dish", "ann_id": 1039895, "best_split": [2, 1], "split_score": 0.538647342983122}
+{"sent": "bowl", "ann_id": 1039895, "best_split": [2, 1], "split_score": 0.538647342983122}
+{"sent": "food above main plate that is barely seen", "ann_id": 1038250, "best_split": [2, 3], "split_score": 0.5328185327542448}
+{"sent": "the bowl of red stuff", "ann_id": 1038250, "best_split": [3, 3], "split_score": 0.8064280495240269}
+{"sent": "edge of the plate with red stuff intside", "ann_id": 1038250, "best_split": [3, 3], "split_score": 0.8064280495240269}

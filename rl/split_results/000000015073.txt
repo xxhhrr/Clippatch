@@ -1,0 +1,7 @@
+{"sent": "clock with 10 9 8 showing only", "ann_id": 2197059, "best_split": [3, 3], "split_score": 0.39593365430766003}
+{"sent": "clock at 3", "ann_id": 2197059, "best_split": [3, 3], "split_score": 0.39593365430766003}
+{"sent": "clock showing only 10 9 8", "ann_id": 2197059, "best_split": [3, 3], "split_score": 0.39593365430766003}
+{"sent": "234", "ann_id": 1663637, "best_split": [3, 3], "split_score": 0.38354012872882987}
+{"sent": "only 234", "ann_id": 1663637, "best_split": [3, 1], "split_score": 0.13980649223451042}
+{"sent": "number 12", "ann_id": 339615, "best_split": [1, 3], "split_score": 0.4255751014705017}
+{"sent": "clock reads 600", "ann_id": 339615, "best_split": [1, 3], "split_score": 0.4255751014705017}

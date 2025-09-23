@@ -1,0 +1,6 @@
+{"sent": "west horse", "ann_id": 54361, "best_split": [1, 2], "split_score": 0.5898358092028992}
+{"sent": "taller horse", "ann_id": 54361, "best_split": [3, 2], "split_score": 0.39906213362256376}
+{"sent": "bigger horse", "ann_id": 54361, "best_split": [1, 2], "split_score": 0.5898358092028992}
+{"sent": "horse with head lower", "ann_id": 54095, "best_split": [2, 2], "split_score": 0.7196425442018782}
+{"sent": "shorter horse", "ann_id": 54095, "best_split": [2, 2], "split_score": 0.7196425442018782}
+{"sent": "shorter horse", "ann_id": 54095, "best_split": [2, 2], "split_score": 0.7196425442018782}

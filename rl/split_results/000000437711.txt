@@ -1,0 +1,5 @@
+{"sent": "pizza with bleh olives", "ann_id": 1078007, "best_split": [1, 2], "split_score": 0.5161912220828331}
+{"sent": "pizza the hand is reaching for", "ann_id": 1078007, "best_split": [1, 2], "split_score": 0.5161912220828331}
+{"sent": "the pizza", "ann_id": 1078007, "best_split": [1, 2], "split_score": 0.5161912220828331}
+{"sent": "pepperoni slice at 3 o clock", "ann_id": 1077891, "best_split": [1, 5], "split_score": 0.3920454545056772}
+{"sent": "meat pizza slices nearest edge of box", "ann_id": 1077891, "best_split": [1, 5], "split_score": 0.3920454545056772}

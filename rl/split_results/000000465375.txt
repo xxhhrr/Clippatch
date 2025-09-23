@@ -1,0 +1,15 @@
+{"sent": "table part with drinks on it lemon strawberry", "ann_id": 1621805, "best_split": [5, 1], "split_score": 0.32349290777274}
+{"sent": "surface around the drinks", "ann_id": 1621805, "best_split": [3, 2], "split_score": 0.6120897682659158}
+{"sent": "mat under drinks", "ann_id": 1621805, "best_split": [3, 2], "split_score": 0.6120897682659158}
+{"sent": "drink with raspberry", "ann_id": 1497355, "best_split": [3, 2], "split_score": 0.4329150578628239}
+{"sent": "martini glass without lemon", "ann_id": 1497355, "best_split": [3, 2], "split_score": 0.4329150578628239}
+{"sent": "red martini", "ann_id": 1497355, "best_split": [3, 2], "split_score": 0.4329150578628239}
+{"sent": "drink with lemon slice", "ann_id": 1496783, "best_split": [3, 3], "split_score": 0.7585829070930272}
+{"sent": "martini glass blue straw", "ann_id": 1496783, "best_split": [3, 3], "split_score": 0.7585829070930272}
+{"sent": "wine glass 2 frames below women", "ann_id": 661697, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "wine glass", "ann_id": 661697, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "woman with straight hair", "ann_id": 483237, "best_split": [3, 2], "split_score": 0.5372828184679919}
+{"sent": "woman with straight hair smiling", "ann_id": 483237, "best_split": [3, 2], "split_score": 0.5372828184679919}
+{"sent": "girl with curly hair", "ann_id": 472611, "best_split": [3, 3], "split_score": 0.6990504016254473}
+{"sent": "blond woman", "ann_id": 472611, "best_split": [3, 3], "split_score": 0.6990504016254473}
+{"sent": "smaller girl", "ann_id": 472611, "best_split": [3, 3], "split_score": 0.6990504016254473}

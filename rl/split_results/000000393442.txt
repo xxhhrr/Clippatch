@@ -1,0 +1,9 @@
+{"sent": "person in red dress whose umbrella is partially out of picture", "ann_id": 1742567, "best_split": [1, 5], "split_score": 0.7372207496462305}
+{"sent": "closest orange", "ann_id": 1742567, "best_split": [1, 5], "split_score": 0.7372207496462305}
+{"sent": "blurry red dress", "ann_id": 1742567, "best_split": [1, 5], "split_score": 0.7372207496462305}
+{"sent": "person with green umbrella", "ann_id": 510315, "best_split": [1, 2], "split_score": 0.13329081632121767}
+{"sent": "sitting with green umb", "ann_id": 510315, "best_split": [1, 2], "split_score": 0.13329081632121767}
+{"sent": "person with yellow umbrella", "ann_id": 510315, "best_split": [1, 2], "split_score": 0.13329081632121767}
+{"sent": "woman in red wpan next to yellow umbrella", "ann_id": 507642, "best_split": [2, 3], "split_score": 0.1925488749361353}
+{"sent": "one in orange next to woman with green umbrella", "ann_id": 507642, "best_split": [3, 1], "split_score": 0.1435654235749318}
+{"sent": "main person", "ann_id": 507642, "best_split": [2, 3], "split_score": 0.1925488749361353}

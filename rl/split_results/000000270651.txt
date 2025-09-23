@@ -1,0 +1,14 @@
+{"sent": "fries", "ann_id": 2231180, "best_split": [1, 5], "split_score": 0.46174918826483874}
+{"sent": "carrots", "ann_id": 2231180, "best_split": [1, 5], "split_score": 0.46174918826483874}
+{"sent": "tomatoes", "ann_id": 2231165, "best_split": [2, 2], "split_score": 0.6179846938282857}
+{"sent": "reddest bowl of tomatoes", "ann_id": 2231165, "best_split": [2, 2], "split_score": 0.6179846938282857}
+{"sent": "cubed cheese", "ann_id": 2231153, "best_split": [2, 2], "split_score": 0.5943040953558525}
+{"sent": "the white cubes", "ann_id": 2231153, "best_split": [2, 2], "split_score": 0.5943040953558525}
+{"sent": "the bowl with diced cheese", "ann_id": 2231153, "best_split": [2, 2], "split_score": 0.5943040953558525}
+{"sent": "bowl of orangeish red stuff in between white stuff and green stuff", "ann_id": 2231035, "best_split": [5, 1], "split_score": 0.17246785824925775}
+{"sent": "carrots", "ann_id": 2231035, "best_split": [3, 3], "split_score": 0.5269997111569449}
+{"sent": "tomatos at 3 o clock", "ann_id": 2231035, "best_split": [5, 1], "split_score": 0.17246785824925775}
+{"sent": "brocolli", "ann_id": 2231010, "best_split": [3, 3], "split_score": 0.5502526669637489}
+{"sent": "broccoli", "ann_id": 2231010, "best_split": [3, 3], "split_score": 0.5502526669637489}
+{"sent": "cilantro", "ann_id": 713857, "best_split": [2, 3], "split_score": 0.858223722400393}
+{"sent": "cilantro", "ann_id": 713857, "best_split": [2, 3], "split_score": 0.858223722400393}

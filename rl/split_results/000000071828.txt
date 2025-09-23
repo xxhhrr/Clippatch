@@ -1,0 +1,6 @@
+{"sent": "all white animal", "ann_id": 76225, "best_split": [3, 2], "split_score": 0.5100874243014385}
+{"sent": "cow closest to tree", "ann_id": 76225, "best_split": [3, 2], "split_score": 0.5100874243014385}
+{"sent": "animal near tree", "ann_id": 76225, "best_split": [1, 2], "split_score": 0.3856823979438105}
+{"sent": "ox behind wagon", "ann_id": 75916, "best_split": [2, 2], "split_score": 0.20209059232012438}
+{"sent": "behind wagon", "ann_id": 75916, "best_split": [2, 2], "split_score": 0.20209059232012438}
+{"sent": "cow not next to tree", "ann_id": 75916, "best_split": [3, 1], "split_score": 0.18596352100453362}

@@ -1,0 +1,14 @@
+{"sent": "glass on sissors", "ann_id": 2146705, "best_split": [2, 1], "split_score": 0.2364901853352432}
+{"sent": "glass with base obscured by scissors", "ann_id": 2146705, "best_split": [3, 2], "split_score": 0.20661022466569437}
+{"sent": "the glass behind razor the scissor handle sort of points to it", "ann_id": 2146380, "best_split": [3, 2], "split_score": 0.31830492270843513}
+{"sent": "2 oclock", "ann_id": 2146380, "best_split": [2, 2], "split_score": 0.11908347675779456}
+{"sent": "glass bottle at 3 oclosck", "ann_id": 2146380, "best_split": [2, 3], "split_score": 0.5758903065534289}
+{"sent": "glass close to scissors", "ann_id": 1494378, "best_split": [1, 5], "split_score": 0.4234841193084711}
+{"sent": "glass bottle above scissors", "ann_id": 1494378, "best_split": [1, 5], "split_score": 0.4234841193084711}
+{"sent": "glass above scissor", "ann_id": 1494378, "best_split": [3, 2], "split_score": 0.20401310399639533}
+{"sent": "bottle buy scissor handle", "ann_id": 1493128, "best_split": [1, 2], "split_score": 0.2977834166617739}
+{"sent": "glass item number 2", "ann_id": 1493128, "best_split": [1, 2], "split_score": 0.2977834166617739}
+{"sent": "bottle near sissor handle", "ann_id": 1493128, "best_split": [1, 2], "split_score": 0.2977834166617739}
+{"sent": "yellow thing 90clock", "ann_id": 1486824, "best_split": [2, 3], "split_score": 0.5144787644166893}
+{"sent": "orange blob near flowers", "ann_id": 1486824, "best_split": [2, 3], "split_score": 0.5144787644166893}
+{"sent": "click on the yellow thing", "ann_id": 1486824, "best_split": [2, 3], "split_score": 0.5144787644166893}

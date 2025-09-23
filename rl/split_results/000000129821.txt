@@ -1,0 +1,12 @@
+{"sent": "white netbook", "ann_id": 1099622, "best_split": [2, 1], "split_score": 0.31763354392810134}
+{"sent": "white laptop", "ann_id": 1099622, "best_split": [2, 2], "split_score": 0.6112298282653282}
+{"sent": "white laptop", "ann_id": 1099622, "best_split": [2, 2], "split_score": 0.6112298282653282}
+{"sent": "laptop with the most text on the screen", "ann_id": 1099120, "best_split": [1, 5], "split_score": 0.3909180651179289}
+{"sent": "screen that is taller than the others", "ann_id": 1099120, "best_split": [1, 5], "split_score": 0.3909180651179289}
+{"sent": "highest screen", "ann_id": 1099120, "best_split": [1, 5], "split_score": 0.3909180651179289}
+{"sent": "the one closest to the mouse and mousepad", "ann_id": 1098911, "best_split": [3, 3], "split_score": 0.3961776858992539}
+{"sent": "laptop with triangle", "ann_id": 1098911, "best_split": [3, 2], "split_score": 0.33542442655014465}
+{"sent": "laptop with screen showing light blue triangle from from edge", "ann_id": 1098911, "best_split": [3, 2], "split_score": 0.33542442655014465}
+{"sent": "small laptop with an open white folder on the screen", "ann_id": 1097684, "best_split": [3, 3], "split_score": 0.4949952334967832}
+{"sent": "dark computer light blue screen", "ann_id": 1097684, "best_split": [3, 3], "split_score": 0.4949952334967832}
+{"sent": "green screen", "ann_id": 1097684, "best_split": [1, 2], "split_score": 0.14780311952929281}

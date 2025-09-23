@@ -1,0 +1,9 @@
+{"sent": "horse with diamond shaped white patch", "ann_id": 58337, "best_split": [2, 1], "split_score": 0.17101783918025332}
+{"sent": "horse farthest from the camera", "ann_id": 58337, "best_split": [2, 1], "split_score": 0.17101783918025332}
+{"sent": "horse standing alone", "ann_id": 58337, "best_split": [2, 1], "split_score": 0.17101783918025332}
+{"sent": "horse with smallest white on head", "ann_id": 55851, "best_split": [2, 2], "split_score": 0.5808510637911668}
+{"sent": "least white on face", "ann_id": 55851, "best_split": [2, 2], "split_score": 0.5808510637911668}
+{"sent": "all brown horse 900", "ann_id": 55851, "best_split": [2, 3], "split_score": 0.6712328766548602}
+{"sent": "horse with broad white streak on head", "ann_id": 55807, "best_split": [1, 3], "split_score": 0.7705115829650995}
+{"sent": "horse with white face", "ann_id": 55807, "best_split": [1, 3], "split_score": 0.7705115829650995}
+{"sent": "closest horse", "ann_id": 55807, "best_split": [3, 3], "split_score": 0.3358711566371983}

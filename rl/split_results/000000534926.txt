@@ -1,0 +1,6 @@
+{"sent": "white man", "ann_id": 234337, "best_split": [3, 2], "split_score": 0.21747648900690864}
+{"sent": "white shirt dark slacks", "ann_id": 234337, "best_split": [3, 3], "split_score": 0.30016224982420736}
+{"sent": "guy walking", "ann_id": 234337, "best_split": [3, 2], "split_score": 0.21747648900690864}
+{"sent": "man on bike", "ann_id": 229116, "best_split": [1, 3], "split_score": 0.3111060013617437}
+{"sent": "man ridding", "ann_id": 229116, "best_split": [1, 3], "split_score": 0.3111060013617437}
+{"sent": "guy on the motorcycle", "ann_id": 229116, "best_split": [1, 3], "split_score": 0.3111060013617437}

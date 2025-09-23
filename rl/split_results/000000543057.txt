@@ -1,0 +1,5 @@
+{"sent": "black seat next to sofa", "ann_id": 1949319, "best_split": [3, 3], "split_score": 0.8048206935912962}
+{"sent": "chair", "ann_id": 1949319, "best_split": [3, 2], "split_score": 0.7003154573343493}
+{"sent": "black at 7 o clock couch", "ann_id": 1949319, "best_split": [3, 3], "split_score": 0.8048206935912962}
+{"sent": "black couch", "ann_id": 99608, "best_split": [3, 2], "split_score": 0.4604810996069071}
+{"sent": "black couch", "ann_id": 99608, "best_split": [3, 2], "split_score": 0.4604810996069071}

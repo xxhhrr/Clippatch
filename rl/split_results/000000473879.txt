@@ -1,0 +1,6 @@
+{"sent": "smaller boat", "ann_id": 177953, "best_split": [3, 2], "split_score": 0.49372586866629753}
+{"sent": "see less of this boat with bikes", "ann_id": 177953, "best_split": [5, 1], "split_score": 0.33935087379111284}
+{"sent": "ferry that is partial covered", "ann_id": 177953, "best_split": [3, 2], "split_score": 0.49372586866629753}
+{"sent": "blue boar", "ann_id": 176421, "best_split": [1, 3], "split_score": 0.16131093663678514}
+{"sent": "blue deck", "ann_id": 176421, "best_split": [3, 1], "split_score": 0.41297345327041135}
+{"sent": "boat", "ann_id": 176421, "best_split": [3, 1], "split_score": 0.41297345327041135}

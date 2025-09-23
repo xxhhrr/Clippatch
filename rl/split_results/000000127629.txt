@@ -1,0 +1,6 @@
+{"sent": "boston", "ann_id": 515269, "best_split": [1, 5], "split_score": 0.4920295027068743}
+{"sent": "man without glove", "ann_id": 515269, "best_split": [3, 1], "split_score": 0.2322355676004558}
+{"sent": "dark cap", "ann_id": 515269, "best_split": [1, 2], "split_score": 0.4744002340376536}
+{"sent": "glove", "ann_id": 514551, "best_split": [1, 2], "split_score": 0.6227678571180338}
+{"sent": "man with glove", "ann_id": 514551, "best_split": [1, 2], "split_score": 0.6227678571180338}
+{"sent": "man white hat", "ann_id": 514551, "best_split": [1, 2], "split_score": 0.6227678571180338}

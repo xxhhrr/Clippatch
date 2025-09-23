@@ -1,0 +1,6 @@
+{"sent": "oven", "ann_id": 1127043, "best_split": [2, 3], "split_score": 0.5436541737070215}
+{"sent": "double oven", "ann_id": 1127043, "best_split": [2, 3], "split_score": 0.5436541737070215}
+{"sent": "metal oven doors", "ann_id": 1127043, "best_split": [2, 3], "split_score": 0.5436541737070215}
+{"sent": "stove", "ann_id": 1121508, "best_split": [5, 1], "split_score": 0.3909952606304168}
+{"sent": "range with six burners", "ann_id": 1121508, "best_split": [5, 1], "split_score": 0.3909952606304168}
+{"sent": "stove", "ann_id": 1121508, "best_split": [5, 1], "split_score": 0.3909952606304168}

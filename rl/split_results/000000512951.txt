@@ -1,0 +1,9 @@
+{"sent": "girl close to computer wearing red shirt", "ann_id": 565176, "best_split": [2, 2], "split_score": 0.4483430798908143}
+{"sent": "glass girl", "ann_id": 565176, "best_split": [2, 1], "split_score": 0.23933402704625636}
+{"sent": "girl with glasses", "ann_id": 565176, "best_split": [2, 2], "split_score": 0.4483430798908143}
+{"sent": "the one not facing the computer", "ann_id": 560630, "best_split": [2, 1], "split_score": 0.2047458055482086}
+{"sent": "girl in pink polo shirt", "ann_id": 560630, "best_split": [1, 3], "split_score": 0.6729932779374685}
+{"sent": "girl in orange closest to edge", "ann_id": 560630, "best_split": [1, 2], "split_score": 0.5198102678364234}
+{"sent": "girl in gray", "ann_id": 493856, "best_split": [2, 3], "split_score": 0.5792561549943157}
+{"sent": "girl in gray shirt", "ann_id": 493856, "best_split": [2, 3], "split_score": 0.5792561549943157}
+{"sent": "gray t shirt", "ann_id": 493856, "best_split": [2, 3], "split_score": 0.5792561549943157}

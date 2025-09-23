@@ -1,0 +1,6 @@
+{"sent": "book nearest you", "ann_id": 1138546, "best_split": [3, 2], "split_score": 0.7097317004104206}
+{"sent": "closest bible", "ann_id": 1138546, "best_split": [3, 2], "split_score": 0.7097317004104206}
+{"sent": "open book closest to bananas", "ann_id": 1138546, "best_split": [3, 2], "split_score": 0.7097317004104206}
+{"sent": "book close to bowl", "ann_id": 1136961, "best_split": [5, 1], "split_score": 0.4413047269805246}
+{"sent": "book close to red bowl", "ann_id": 1136961, "best_split": [5, 1], "split_score": 0.4413047269805246}
+{"sent": "book by red bowl", "ann_id": 1136961, "best_split": [5, 1], "split_score": 0.4413047269805246}

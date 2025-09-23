@@ -1,0 +1,3 @@
+{"sent": "full bus", "ann_id": 169307, "best_split": [3, 3], "split_score": 0.603320486124619}
+{"sent": "long bus", "ann_id": 169307, "best_split": [3, 3], "split_score": 0.603320486124619}
+{"sent": "bus in background", "ann_id": 169307, "best_split": [3, 2], "split_score": 0.5605175769425721}

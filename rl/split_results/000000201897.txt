@@ -1,0 +1,6 @@
+{"sent": "person looking up", "ann_id": 207563, "best_split": [1, 3], "split_score": 0.4351791530777858}
+{"sent": "white socks", "ann_id": 207563, "best_split": [1, 2], "split_score": 0.5271114359582991}
+{"sent": "girl with white knee highs", "ann_id": 207563, "best_split": [1, 2], "split_score": 0.5271114359582991}
+{"sent": "brown shirt", "ann_id": 197895, "best_split": [2, 1], "split_score": 0.45265780729722127}
+{"sent": "girl holding wii remote", "ann_id": 197895, "best_split": [1, 3], "split_score": 0.4305178754316477}
+{"sent": "girl that cant see her feet", "ann_id": 197895, "best_split": [1, 3], "split_score": 0.4305178754316477}

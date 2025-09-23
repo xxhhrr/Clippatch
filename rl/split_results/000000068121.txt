@@ -1,0 +1,5 @@
+{"sent": "area of bench nearer the camera", "ann_id": 1397851, "best_split": [3, 1], "split_score": 0.2643818849333633}
+{"sent": "portion of bench closest to us", "ann_id": 1397851, "best_split": [3, 1], "split_score": 0.2643818849333633}
+{"sent": "the plaque", "ann_id": 1397032, "best_split": [3, 1], "split_score": 0.44185811150481435}
+{"sent": "section of bench with plaque", "ann_id": 1397032, "best_split": [3, 3], "split_score": 0.45947306591210996}
+{"sent": "placard on bench", "ann_id": 1397032, "best_split": [3, 3], "split_score": 0.45947306591210996}

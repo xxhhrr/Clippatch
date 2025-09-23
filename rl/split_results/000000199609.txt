@@ -1,0 +1,9 @@
+{"sent": "person in white shirt and dark shorts", "ann_id": 1736396, "best_split": [3, 3], "split_score": 0.2629695885117815}
+{"sent": "person in back", "ann_id": 1736396, "best_split": [1, 5], "split_score": 0.3039772726964309}
+{"sent": "man in black shorts standing", "ann_id": 1736396, "best_split": [3, 3], "split_score": 0.2629695885117815}
+{"sent": "player", "ann_id": 1733923, "best_split": [1, 2], "split_score": 0.639055719470958}
+{"sent": "woman in blue skirt", "ann_id": 1733923, "best_split": [1, 2], "split_score": 0.639055719470958}
+{"sent": "girl playing", "ann_id": 1733923, "best_split": [1, 2], "split_score": 0.639055719470958}
+{"sent": "white large man in background", "ann_id": 1231481, "best_split": [3, 3], "split_score": 0.3944485024845784}
+{"sent": "man in white shirt sunglasses", "ann_id": 1231481, "best_split": [3, 3], "split_score": 0.3944485024845784}
+{"sent": "man in sunglasses", "ann_id": 1231481, "best_split": [1, 5], "split_score": 0.20449077784638223}

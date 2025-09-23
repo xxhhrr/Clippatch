@@ -1,0 +1,9 @@
+{"sent": "asian girl", "ann_id": 2164961, "best_split": [2, 2], "split_score": 0.6220341003563828}
+{"sent": "dark hair girl", "ann_id": 2164961, "best_split": [2, 2], "split_score": 0.6220341003563828}
+{"sent": "gray shirt white shoulders", "ann_id": 2164961, "best_split": [2, 2], "split_score": 0.6220341003563828}
+{"sent": "sheer white shirt cant see face", "ann_id": 454683, "best_split": [2, 3], "split_score": 0.44219380306907613}
+{"sent": "woman wearing white not facing camera", "ann_id": 454683, "best_split": [2, 2], "split_score": 0.4350255536330477}
+{"sent": "white shirt not facing", "ann_id": 454683, "best_split": [2, 3], "split_score": 0.44219380306907613}
+{"sent": "blue", "ann_id": 434639, "best_split": [1, 2], "split_score": 0.480885842323043}
+{"sent": "blue shirt", "ann_id": 434639, "best_split": [3, 2], "split_score": 0.4253433761361261}
+{"sent": "woman in grayish shirt", "ann_id": 434639, "best_split": [2, 2], "split_score": 0.5677147373635626}

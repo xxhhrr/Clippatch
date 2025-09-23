@@ -1,0 +1,3 @@
+{"sent": "broccoli with sauce on it closes to fork", "ann_id": 1058234, "best_split": [3, 2], "split_score": 0.48718861205629993}
+{"sent": "broccoli sprig next to potatoes", "ann_id": 1058234, "best_split": [1, 3], "split_score": 0.2317241379196195}
+{"sent": "broc closest to potatoes", "ann_id": 1058234, "best_split": [3, 2], "split_score": 0.48718861205629993}

@@ -1,0 +1,5 @@
+{"sent": "banana in a white bowl", "ann_id": 712527, "best_split": [2, 3], "split_score": 0.5259361408161731}
+{"sent": "bowl with banana", "ann_id": 712527, "best_split": [2, 3], "split_score": 0.5259361408161731}
+{"sent": "banana", "ann_id": 712527, "best_split": [2, 3], "split_score": 0.5259361408161731}
+{"sent": "bowl with chickpea soup", "ann_id": 712234, "best_split": [2, 3], "split_score": 0.5266903914005014}
+{"sent": "bowl of soup", "ann_id": 712234, "best_split": [2, 3], "split_score": 0.5266903914005014}

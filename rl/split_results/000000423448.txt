@@ -1,0 +1,5 @@
+{"sent": "darkest fridge", "ann_id": 333231, "best_split": [2, 2], "split_score": 0.4335044658250577}
+{"sent": "gray fridge 3 o clock from tall white one", "ann_id": 333231, "best_split": [2, 2], "split_score": 0.4335044658250577}
+{"sent": "white refrigerator", "ann_id": 332361, "best_split": [1, 3], "split_score": 0.694369973157106}
+{"sent": "white fridge", "ann_id": 332361, "best_split": [1, 3], "split_score": 0.694369973157106}
+{"sent": "tall refrigerator white", "ann_id": 332361, "best_split": [1, 3], "split_score": 0.694369973157106}

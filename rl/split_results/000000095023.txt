@@ -1,0 +1,11 @@
+{"sent": "pie", "ann_id": 1038821, "best_split": [2, 2], "split_score": 0.5501434948541021}
+{"sent": "pie", "ann_id": 1038821, "best_split": [2, 2], "split_score": 0.5501434948541021}
+{"sent": "piece of pie", "ann_id": 1038821, "best_split": [2, 2], "split_score": 0.5501434948541021}
+{"sent": "bowl of pears", "ann_id": 1038206, "best_split": [2, 2], "split_score": 0.504201680638642}
+{"sent": "cantaloupe looking bowl next to strawberries", "ann_id": 1038206, "best_split": [2, 3], "split_score": 0.30765382689147047}
+{"sent": "pears", "ann_id": 1038206, "best_split": [2, 2], "split_score": 0.504201680638642}
+{"sent": "square food in bowl", "ann_id": 717907, "best_split": [3, 2], "split_score": 0.42171150967659643}
+{"sent": "bowl not strawberries cantaloupe or pie", "ann_id": 717907, "best_split": [1, 3], "split_score": 0.23384599232408557}
+{"sent": "strawberries", "ann_id": 710856, "best_split": [2, 2], "split_score": 0.5194185612732449}
+{"sent": "the bowl with strawberries", "ann_id": 710856, "best_split": [2, 2], "split_score": 0.5194185612732449}
+{"sent": "bowl of strawberries", "ann_id": 710856, "best_split": [2, 2], "split_score": 0.5194185612732449}

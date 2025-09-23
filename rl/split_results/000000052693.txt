@@ -1,0 +1,6 @@
+{"sent": "the one where the side door is visible", "ann_id": 167457, "best_split": [5, 1], "split_score": 0.1981902334911753}
+{"sent": "54", "ann_id": 167457, "best_split": [3, 1], "split_score": 0.3442948775704989}
+{"sent": "54", "ann_id": 167457, "best_split": [3, 1], "split_score": 0.3442948775704989}
+{"sent": "red checkered bus", "ann_id": 167294, "best_split": [1, 2], "split_score": 0.5793606504871109}
+{"sent": "red bus with red squares on it", "ann_id": 167294, "best_split": [1, 2], "split_score": 0.5793606504871109}
+{"sent": "bus with white red checks", "ann_id": 167294, "best_split": [1, 2], "split_score": 0.5793606504871109}

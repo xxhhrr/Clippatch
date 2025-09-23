@@ -1,0 +1,6 @@
+{"sent": "headless", "ann_id": 599452, "best_split": [1, 2], "split_score": 0.36969866069954965}
+{"sent": "tall", "ann_id": 599452, "best_split": [1, 5], "split_score": 0.6736068584836316}
+{"sent": "partial giraffe", "ann_id": 599452, "best_split": [1, 5], "split_score": 0.6736068584836316}
+{"sent": "leetle giraffe", "ann_id": 594470, "best_split": [5, 1], "split_score": 0.1795918367232403}
+{"sent": "giraffe that you can see whole body", "ann_id": 594470, "best_split": [5, 1], "split_score": 0.1795918367232403}
+{"sent": "smaller giraffe", "ann_id": 594470, "best_split": [5, 1], "split_score": 0.1795918367232403}

@@ -1,0 +1,6 @@
+{"sent": "the guy with no shirt", "ann_id": 1237960, "best_split": [1, 5], "split_score": 0.5201277954856128}
+{"sent": "man no shirt", "ann_id": 1237960, "best_split": [1, 5], "split_score": 0.5201277954856128}
+{"sent": "shirtless man", "ann_id": 1237960, "best_split": [1, 5], "split_score": 0.5201277954856128}
+{"sent": "guy in stripes", "ann_id": 499936, "best_split": [1, 3], "split_score": 0.6545608107713223}
+{"sent": "guy with surfboard", "ann_id": 499936, "best_split": [1, 3], "split_score": 0.6545608107713223}
+{"sent": "surfer in stripes", "ann_id": 499936, "best_split": [1, 3], "split_score": 0.6545608107713223}

@@ -1,0 +1,6 @@
+{"sent": "woman in back", "ann_id": 555812, "best_split": [3, 3], "split_score": 0.6382860321872167}
+{"sent": "girl", "ann_id": 555812, "best_split": [3, 3], "split_score": 0.6382860321872167}
+{"sent": "girl", "ann_id": 555812, "best_split": [3, 3], "split_score": 0.6382860321872167}
+{"sent": "man with glasses", "ann_id": 521716, "best_split": [1, 2], "split_score": 0.4673357156513099}
+{"sent": "sunglasses", "ann_id": 521716, "best_split": [1, 2], "split_score": 0.4673357156513099}
+{"sent": "man", "ann_id": 521716, "best_split": [2, 1], "split_score": 0.5648790506489073}

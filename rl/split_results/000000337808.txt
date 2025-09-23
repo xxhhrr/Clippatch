@@ -1,0 +1,12 @@
+{"sent": "white hoodie", "ann_id": 522626, "best_split": [1, 2], "split_score": 0.46946716141984124}
+{"sent": "person in white", "ann_id": 522626, "best_split": [1, 2], "split_score": 0.46946716141984124}
+{"sent": "woman in white", "ann_id": 522626, "best_split": [1, 2], "split_score": 0.46946716141984124}
+{"sent": "girl in blue", "ann_id": 517788, "best_split": [3, 2], "split_score": 0.41996455992173914}
+{"sent": "blue sweater", "ann_id": 517788, "best_split": [3, 1], "split_score": 0.33540372669179913}
+{"sent": "girl in blue", "ann_id": 517788, "best_split": [3, 2], "split_score": 0.41996455992173914}
+{"sent": "chair only chair of woman in white", "ann_id": 384746, "best_split": [2, 2], "split_score": 0.5930194628360868}
+{"sent": "white coat the chair", "ann_id": 384746, "best_split": [2, 2], "split_score": 0.5930194628360868}
+{"sent": "chair of creme coat", "ann_id": 384746, "best_split": [2, 2], "split_score": 0.5930194628360868}
+{"sent": "nearest rocker with purse on it", "ann_id": 375991, "best_split": [2, 2], "split_score": 0.6491906004882929}
+{"sent": "chair with bag on it", "ann_id": 375991, "best_split": [2, 1], "split_score": 0.40207168275285743}
+{"sent": "rocker with purse on it", "ann_id": 375991, "best_split": [2, 1], "split_score": 0.40207168275285743}

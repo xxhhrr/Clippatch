@@ -1,0 +1,6 @@
+{"sent": "purple", "ann_id": 254603, "best_split": [1, 5], "split_score": 0.35996444792020893}
+{"sent": "man in blue", "ann_id": 254603, "best_split": [2, 1], "split_score": 0.1248448650277364}
+{"sent": "man with purple jacket", "ann_id": 254603, "best_split": [1, 5], "split_score": 0.35996444792020893}
+{"sent": "man in yellow", "ann_id": 251634, "best_split": [2, 3], "split_score": 0.5145895827184265}
+{"sent": "yellow", "ann_id": 251634, "best_split": [2, 3], "split_score": 0.5145895827184265}
+{"sent": "man in yellow", "ann_id": 251634, "best_split": [2, 3], "split_score": 0.5145895827184265}

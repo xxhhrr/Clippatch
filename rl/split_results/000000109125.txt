@@ -1,0 +1,6 @@
+{"sent": "cut piecies", "ann_id": 1570315, "best_split": [3, 2], "split_score": 0.452866652302677}
+{"sent": "food knife is cutting into", "ann_id": 1570315, "best_split": [3, 2], "split_score": 0.452866652302677}
+{"sent": "piece near fork and knife", "ann_id": 1570315, "best_split": [3, 2], "split_score": 0.452866652302677}
+{"sent": "part of pizza not eaten", "ann_id": 1072248, "best_split": [1, 2], "split_score": 0.4803261473691912}
+{"sent": "half of pizza", "ann_id": 1072248, "best_split": [1, 2], "split_score": 0.4803261473691912}
+{"sent": "big part of pizza", "ann_id": 1072248, "best_split": [1, 2], "split_score": 0.4803261473691912}

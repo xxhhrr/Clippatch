@@ -1,0 +1,12 @@
+{"sent": "area of couch with red pillow", "ann_id": 1604837, "best_split": [3, 3], "split_score": 0.3612794612186398}
+{"sent": "red pillow", "ann_id": 1604837, "best_split": [3, 3], "split_score": 0.3612794612186398}
+{"sent": "red and white pillow", "ann_id": 1604837, "best_split": [3, 3], "split_score": 0.3612794612186398}
+{"sent": "gray item by the little girl in pink", "ann_id": 1604300, "best_split": [2, 3], "split_score": 0.3853035905540613}
+{"sent": "pillow next to little girl", "ann_id": 1604300, "best_split": [2, 2], "split_score": 0.2650669642645833}
+{"sent": "couch behind pink girl", "ann_id": 1604300, "best_split": [2, 3], "split_score": 0.3853035905540613}
+{"sent": "little princess", "ann_id": 531217, "best_split": [1, 5], "split_score": 0.5345025876556568}
+{"sent": "pink girl", "ann_id": 531217, "best_split": [1, 5], "split_score": 0.5345025876556568}
+{"sent": "girl in pink", "ann_id": 531217, "best_split": [1, 5], "split_score": 0.5345025876556568}
+{"sent": "white sweater", "ann_id": 487366, "best_split": [1, 2], "split_score": 0.7981437613763293}
+{"sent": "oldest girl", "ann_id": 487366, "best_split": [2, 1], "split_score": 0.29196428570613936}
+{"sent": "woman holding plate", "ann_id": 487366, "best_split": [1, 3], "split_score": 0.315373638219506}

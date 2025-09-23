@@ -1,0 +1,6 @@
+{"sent": "woman in chef hat", "ann_id": 508408, "best_split": [1, 3], "split_score": 0.5908930462109377}
+{"sent": "woman in hat", "ann_id": 508408, "best_split": [1, 3], "split_score": 0.5908930462109377}
+{"sent": "woman with hat", "ann_id": 508408, "best_split": [1, 3], "split_score": 0.5908930462109377}
+{"sent": "girl with pink cake", "ann_id": 445015, "best_split": [1, 2], "split_score": 0.5659662908391423}
+{"sent": "black sweater no hat", "ann_id": 445015, "best_split": [1, 2], "split_score": 0.5659662908391423}
+{"sent": "lady in black", "ann_id": 445015, "best_split": [1, 2], "split_score": 0.5659662908391423}

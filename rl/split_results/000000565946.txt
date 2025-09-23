@@ -1,0 +1,6 @@
+{"sent": "g person is a blue jacket", "ann_id": 1251575, "best_split": [3, 1], "split_score": 0.46500191243839123}
+{"sent": "blue jacket", "ann_id": 1251575, "best_split": [3, 2], "split_score": 0.8097703956219081}
+{"sent": "closest person blue coat", "ann_id": 1251575, "best_split": [3, 1], "split_score": 0.46500191243839123}
+{"sent": "man with beige jacket", "ann_id": 1245224, "best_split": [2, 2], "split_score": 0.5280612244476992}
+{"sent": "flesh colored coat", "ann_id": 1245224, "best_split": [2, 2], "split_score": 0.5280612244476992}
+{"sent": "man pushing stroller", "ann_id": 1245224, "best_split": [2, 2], "split_score": 0.5280612244476992}

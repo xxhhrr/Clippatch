@@ -1,0 +1,6 @@
+{"sent": "holding umbrella", "ann_id": 2149996, "best_split": [1, 5], "split_score": 0.4951456310189077}
+{"sent": "man under umbrella", "ann_id": 2149996, "best_split": [1, 5], "split_score": 0.4951456310189077}
+{"sent": "caddy", "ann_id": 2149996, "best_split": [2, 2], "split_score": 0.22790055247044885}
+{"sent": "pink pants person", "ann_id": 2149268, "best_split": [2, 3], "split_score": 0.39637971815320583}
+{"sent": "no umbrella", "ann_id": 2149268, "best_split": [1, 2], "split_score": 0.14599917002505003}
+{"sent": "white jacket", "ann_id": 2149268, "best_split": [2, 3], "split_score": 0.39637971815320583}

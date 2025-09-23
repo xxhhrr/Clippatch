@@ -1,0 +1,12 @@
+{"sent": "number 2 powder donut", "ann_id": 1083463, "best_split": [2, 3], "split_score": 0.25627413124321013}
+{"sent": "number two white powdered doughnut", "ann_id": 1083463, "best_split": [2, 3], "split_score": 0.25627413124321013}
+{"sent": "white donut next to chocolate one", "ann_id": 1083463, "best_split": [2, 3], "split_score": 0.25627413124321013}
+{"sent": "pink donut with half sprinkles", "ann_id": 1083242, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "pink with half sprinkles", "ann_id": 1083242, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "pink with sprinkles", "ann_id": 1083242, "best_split": [3, 3], "split_score": 0.4601899195653415}
+{"sent": "pink no sprinkles", "ann_id": 1082880, "best_split": [3, 2], "split_score": 0.29370880763406726}
+{"sent": "pink doughnut no sprinkles", "ann_id": 1082880, "best_split": [3, 2], "split_score": 0.29370880763406726}
+{"sent": "pink no sprinkles", "ann_id": 1082880, "best_split": [3, 2], "split_score": 0.29370880763406726}
+{"sent": "chocolate donut", "ann_id": 1082630, "best_split": [2, 3], "split_score": 0.23312611009845402}
+{"sent": "dark brown doughnut", "ann_id": 1082630, "best_split": [2, 3], "split_score": 0.23312611009845402}
+{"sent": "chocolate frosting", "ann_id": 1082630, "best_split": [3, 2], "split_score": 0.28208679590465296}

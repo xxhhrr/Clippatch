@@ -1,0 +1,5 @@
+{"sent": "pizza no green peppers", "ann_id": 1073203, "best_split": [3, 1], "split_score": 0.31846635366204684}
+{"sent": "pizza no green", "ann_id": 1073203, "best_split": [3, 1], "split_score": 0.31846635366204684}
+{"sent": "pizza with green stuff on it", "ann_id": 1071738, "best_split": [1, 2], "split_score": 0.5930121311624885}
+{"sent": "pizza with peppers", "ann_id": 1071738, "best_split": [1, 2], "split_score": 0.5930121311624885}
+{"sent": "bigger pizza", "ann_id": 1071738, "best_split": [1, 2], "split_score": 0.5930121311624885}

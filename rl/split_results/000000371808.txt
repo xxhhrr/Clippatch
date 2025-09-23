@@ -1,0 +1,6 @@
+{"sent": "bowl with white stuff no spoon", "ann_id": 716717, "best_split": [2, 2], "split_score": 0.3097895407916303}
+{"sent": "bowl with no spoon in it", "ann_id": 716717, "best_split": [1, 3], "split_score": 0.2301310568576331}
+{"sent": "bowl nearest to us under", "ann_id": 716717, "best_split": [1, 3], "split_score": 0.2301310568576331}
+{"sent": "bowl with spoon in it", "ann_id": 711189, "best_split": [3, 3], "split_score": 0.5127551019590633}
+{"sent": "little bowl with white spoon", "ann_id": 711189, "best_split": [3, 3], "split_score": 0.5127551019590633}
+{"sent": "bowl with spoon", "ann_id": 711189, "best_split": [3, 3], "split_score": 0.5127551019590633}

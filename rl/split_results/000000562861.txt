@@ -1,0 +1,6 @@
+{"sent": "cat laying on stomach", "ann_id": 1816454, "best_split": [3, 1], "split_score": 0.18579686208648125}
+{"sent": "cat on stomach", "ann_id": 1816454, "best_split": [3, 1], "split_score": 0.18579686208648125}
+{"sent": "cat sleeping not the one by cushion", "ann_id": 1816454, "best_split": [3, 3], "split_score": 0.538093611114094}
+{"sent": "bigger cat", "ann_id": 52576, "best_split": [2, 3], "split_score": 0.5027074923203005}
+{"sent": "cat on its side", "ann_id": 52576, "best_split": [2, 3], "split_score": 0.5027074923203005}
+{"sent": "cat next to pillow", "ann_id": 52576, "best_split": [2, 3], "split_score": 0.5027074923203005}

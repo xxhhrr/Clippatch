@@ -1,0 +1,9 @@
+{"sent": "adult behind boy", "ann_id": 567865, "best_split": [2, 2], "split_score": 0.5749486652608478}
+{"sent": "person standing behind boy", "ann_id": 567865, "best_split": [2, 2], "split_score": 0.5749486652608478}
+{"sent": "big guy red and blue coat", "ann_id": 567865, "best_split": [2, 2], "split_score": 0.5749486652608478}
+{"sent": "kid in background", "ann_id": 440236, "best_split": [2, 2], "split_score": 0.31779661014455457}
+{"sent": "kid with goggles", "ann_id": 440236, "best_split": [2, 2], "split_score": 0.31779661014455457}
+{"sent": "kid with goggles", "ann_id": 440236, "best_split": [2, 2], "split_score": 0.31779661014455457}
+{"sent": "child most visible", "ann_id": 440099, "best_split": [1, 3], "split_score": 0.7134787689562972}
+{"sent": "kid with red boots", "ann_id": 440099, "best_split": [1, 3], "split_score": 0.7134787689562972}
+{"sent": "kid", "ann_id": 440099, "best_split": [1, 3], "split_score": 0.7134787689562972}

@@ -1,0 +1,5 @@
+{"sent": "zebra with head down eatting", "ann_id": 591334, "best_split": [3, 2], "split_score": 0.5766788531290477}
+{"sent": "fartest zebra", "ann_id": 591334, "best_split": [3, 2], "split_score": 0.5766788531290477}
+{"sent": "main zebra", "ann_id": 590622, "best_split": [1, 3], "split_score": 0.41504453973629424}
+{"sent": "main zebra", "ann_id": 590622, "best_split": [1, 3], "split_score": 0.41504453973629424}
+{"sent": "zebra you can see", "ann_id": 590622, "best_split": [1, 3], "split_score": 0.41504453973629424}

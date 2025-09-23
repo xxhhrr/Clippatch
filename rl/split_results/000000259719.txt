@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 205815, "best_split": [3, 3], "split_score": 0.5548793739888199}
+{"sent": "stripes", "ann_id": 205815, "best_split": [3, 3], "split_score": 0.5548793739888199}
+{"sent": "woman", "ann_id": 205815, "best_split": [3, 3], "split_score": 0.5548793739888199}
+{"sent": "yellow", "ann_id": 187268, "best_split": [3, 1], "split_score": 0.35446685877582107}
+{"sent": "yellow shirt", "ann_id": 187268, "best_split": [1, 3], "split_score": 0.4596273291732572}
+{"sent": "yellow man", "ann_id": 187268, "best_split": [3, 1], "split_score": 0.35446685877582107}

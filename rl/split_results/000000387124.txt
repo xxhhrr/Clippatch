@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 200738, "best_split": [1, 5], "split_score": 0.22996234533149795}
+{"sent": "man with hat and shorts", "ann_id": 200738, "best_split": [2, 3], "split_score": 0.46112178923107444}
+{"sent": "man", "ann_id": 200738, "best_split": [1, 5], "split_score": 0.22996234533149795}
+{"sent": "pink bookbag", "ann_id": 192322, "best_split": [2, 3], "split_score": 0.3972852327232135}
+{"sent": "pink backpack", "ann_id": 192322, "best_split": [2, 3], "split_score": 0.3972852327232135}
+{"sent": "with backpack", "ann_id": 192322, "best_split": [2, 3], "split_score": 0.3972852327232135}

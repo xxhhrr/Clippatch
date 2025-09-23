@@ -1,0 +1,6 @@
+{"sent": "bread", "ann_id": 1553929, "best_split": [3, 2], "split_score": 0.5722446704352623}
+{"sent": "no meat shown sandwech", "ann_id": 1553929, "best_split": [2, 1], "split_score": 0.22840738890949802}
+{"sent": "sammich behind other", "ann_id": 1553929, "best_split": [2, 1], "split_score": 0.22840738890949802}
+{"sent": "this sandwich", "ann_id": 309946, "best_split": [2, 1], "split_score": 0.703762843630111}
+{"sent": "sandwhich", "ann_id": 309946, "best_split": [2, 1], "split_score": 0.703762843630111}
+{"sent": "open sandwich", "ann_id": 309946, "best_split": [2, 1], "split_score": 0.703762843630111}

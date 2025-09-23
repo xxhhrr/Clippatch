@@ -1,0 +1,6 @@
+{"sent": "maroon motorcycle not red", "ann_id": 153242, "best_split": [2, 2], "split_score": 0.5664434715061523}
+{"sent": "darker bike", "ann_id": 153242, "best_split": [1, 2], "split_score": 0.4697863520220908}
+{"sent": "maroon bike", "ann_id": 153242, "best_split": [2, 2], "split_score": 0.5664434715061523}
+{"sent": "honda", "ann_id": 152270, "best_split": [1, 2], "split_score": 0.4996479404390774}
+{"sent": "red", "ann_id": 152270, "best_split": [1, 2], "split_score": 0.4996479404390774}
+{"sent": "nearest honda", "ann_id": 152270, "best_split": [1, 2], "split_score": 0.4996479404390774}

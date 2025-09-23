@@ -1,0 +1,6 @@
+{"sent": "striped couch", "ann_id": 116199, "best_split": [3, 2], "split_score": 0.5242045973112951}
+{"sent": "empty couch", "ann_id": 116199, "best_split": [3, 2], "split_score": 0.5242045973112951}
+{"sent": "striped couch", "ann_id": 116199, "best_split": [3, 2], "split_score": 0.5242045973112951}
+{"sent": "the white chair", "ann_id": 98082, "best_split": [3, 1], "split_score": 0.3070539418914964}
+{"sent": "white couch with floral pattern", "ann_id": 98082, "best_split": [3, 1], "split_score": 0.3070539418914964}
+{"sent": "light couch in corner cut off", "ann_id": 98082, "best_split": [1, 2], "split_score": 0.2684151785607296}

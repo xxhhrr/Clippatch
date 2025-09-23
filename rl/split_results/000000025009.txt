@@ -1,0 +1,11 @@
+{"sent": "closest food", "ann_id": 2218579, "best_split": [2, 1], "split_score": 0.6782924106872492}
+{"sent": "slice with cheese visible", "ann_id": 2218579, "best_split": [2, 1], "split_score": 0.6782924106872492}
+{"sent": "piece with sprouts stickin out", "ann_id": 2218579, "best_split": [2, 1], "split_score": 0.6782924106872492}
+{"sent": "sandwich with less cheese", "ann_id": 1552828, "best_split": [3, 3], "split_score": 0.7978179337201128}
+{"sent": "the smaller filled tortilla", "ann_id": 1552828, "best_split": [3, 3], "split_score": 0.7978179337201128}
+{"sent": "salsa in the back", "ann_id": 1039600, "best_split": [3, 1], "split_score": 0.008929922808691291}
+{"sent": "soup bowl", "ann_id": 1039600, "best_split": [3, 3], "split_score": 0.5588647511284399}
+{"sent": "small white bowl of sauce on plate at side", "ann_id": 1039600, "best_split": [2, 3], "split_score": 0.40306733759848223}
+{"sent": "sauce cup", "ann_id": 1037775, "best_split": [5, 1], "split_score": 0.26735730647800005}
+{"sent": "dip", "ann_id": 1037775, "best_split": [5, 1], "split_score": 0.26735730647800005}
+{"sent": "sauce cup", "ann_id": 1037775, "best_split": [5, 1], "split_score": 0.26735730647800005}

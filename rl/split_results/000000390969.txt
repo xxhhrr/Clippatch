@@ -1,0 +1,6 @@
+{"sent": "white car", "ann_id": 1796411, "best_split": [2, 2], "split_score": 0.8957270407449197}
+{"sent": "white van selecta com", "ann_id": 1796411, "best_split": [2, 2], "split_score": 0.8957270407449197}
+{"sent": "white can behind man walking", "ann_id": 1796411, "best_split": [1, 2], "split_score": 0.4478635203903116}
+{"sent": "van only showing the back", "ann_id": 1372903, "best_split": [2, 1], "split_score": 0.26618303570367574}
+{"sent": "back of truck only showing", "ann_id": 1372903, "best_split": [2, 2], "split_score": 0.5323660713861316}
+{"sent": "black pick up with white camper thing", "ann_id": 1372903, "best_split": [2, 3], "split_score": 0.8057432431460252}

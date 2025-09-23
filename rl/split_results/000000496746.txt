@@ -1,0 +1,6 @@
+{"sent": "carrots tomatoes strawberry", "ann_id": 1533097, "best_split": [1, 2], "split_score": 0.8360302049300342}
+{"sent": "box with orange slices", "ann_id": 1533097, "best_split": [1, 2], "split_score": 0.8360302049300342}
+{"sent": "container with small green container inside", "ann_id": 1533097, "best_split": [1, 3], "split_score": 0.5498891352332163}
+{"sent": "ham", "ann_id": 1531777, "best_split": [1, 2], "split_score": 0.8011798469068407}
+{"sent": "ham", "ann_id": 1531777, "best_split": [1, 2], "split_score": 0.8011798469068407}
+{"sent": "dish with ham", "ann_id": 1531777, "best_split": [1, 2], "split_score": 0.8011798469068407}

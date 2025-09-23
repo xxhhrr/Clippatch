@@ -1,0 +1,5 @@
+{"sent": "small bear", "ann_id": 587268, "best_split": [2, 3], "split_score": 0.6272064263156953}
+{"sent": "smaller bear", "ann_id": 587268, "best_split": [2, 3], "split_score": 0.6272064263156953}
+{"sent": "slightly smaller bear", "ann_id": 587268, "best_split": [2, 3], "split_score": 0.6272064263156953}
+{"sent": "bear with leg covered by fence in photo", "ann_id": 586465, "best_split": [2, 2], "split_score": 0.6911670917816353}
+{"sent": "the bigger one", "ann_id": 586465, "best_split": [2, 2], "split_score": 0.6911670917816353}

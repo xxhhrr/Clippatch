@@ -1,0 +1,5 @@
+{"sent": "chair closest to us", "ann_id": 1942354, "best_split": [3, 1], "split_score": 0.34526025092482077}
+{"sent": "closest chair with back turned to camera", "ann_id": 1942354, "best_split": [3, 1], "split_score": 0.34526025092482077}
+{"sent": "closest chair", "ann_id": 1942354, "best_split": [3, 1], "split_score": 0.34526025092482077}
+{"sent": "the prominent chair", "ann_id": 383131, "best_split": [3, 2], "split_score": 0.63410742770483}
+{"sent": "chair in full view", "ann_id": 383131, "best_split": [3, 2], "split_score": 0.63410742770483}

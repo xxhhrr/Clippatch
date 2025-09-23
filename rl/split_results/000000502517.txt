@@ -1,0 +1,6 @@
+{"sent": "the batter", "ann_id": 545440, "best_split": [1, 2], "split_score": 0.6133828996078936}
+{"sent": "batter", "ann_id": 545440, "best_split": [1, 2], "split_score": 0.6133828996078936}
+{"sent": "batter", "ann_id": 545440, "best_split": [1, 2], "split_score": 0.6133828996078936}
+{"sent": "catcher", "ann_id": 516473, "best_split": [2, 1], "split_score": 0.09921792926055743}
+{"sent": "the catcher", "ann_id": 516473, "best_split": [2, 1], "split_score": 0.09921792926055743}
+{"sent": "catcher", "ann_id": 516473, "best_split": [2, 1], "split_score": 0.09921792926055743}

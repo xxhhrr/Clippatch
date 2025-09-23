@@ -1,0 +1,8 @@
+{"sent": "boy", "ann_id": 1743136, "best_split": [1, 2], "split_score": 0.5303488401501474}
+{"sent": "kid", "ann_id": 1743136, "best_split": [1, 2], "split_score": 0.5303488401501474}
+{"sent": "kid", "ann_id": 1743136, "best_split": [1, 2], "split_score": 0.5303488401501474}
+{"sent": "the legs you see with blue jeans", "ann_id": 1225066, "best_split": [3, 3], "split_score": 0.2837559972097745}
+{"sent": "jeans leg", "ann_id": 1225066, "best_split": [3, 3], "split_score": 0.2837559972097745}
+{"sent": "man watching", "ann_id": 421522, "best_split": [3, 2], "split_score": 0.4195193007575154}
+{"sent": "dad", "ann_id": 421522, "best_split": [3, 3], "split_score": 0.2514153668109283}
+{"sent": "man", "ann_id": 421522, "best_split": [3, 3], "split_score": 0.2514153668109283}

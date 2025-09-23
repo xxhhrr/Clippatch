@@ -1,0 +1,10 @@
+{"sent": "giraffe eating on score side", "ann_id": 601586, "best_split": [2, 2], "split_score": 0.628896026610225}
+{"sent": "3 o clock giraffe", "ann_id": 601586, "best_split": [2, 2], "split_score": 0.628896026610225}
+{"sent": "giraffe at 1 o clock", "ann_id": 601586, "best_split": [2, 2], "split_score": 0.628896026610225}
+{"sent": "giraffe eating and facing us", "ann_id": 601380, "best_split": [1, 2], "split_score": 0.47257653059340815}
+{"sent": "paler giraffe withnose in feeder", "ann_id": 601380, "best_split": [1, 2], "split_score": 0.47257653059340815}
+{"sent": "tallest one fulle view closest", "ann_id": 601380, "best_split": [2, 1], "split_score": 0.3060878172839536}
+{"sent": "tallest", "ann_id": 601111, "best_split": [2, 2], "split_score": 0.48037676606411883}
+{"sent": "giraffe with hay sticking out of mouth no body", "ann_id": 601111, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "tallest", "ann_id": 601111, "best_split": [2, 2], "split_score": 0.48037676606411883}
+{"sent": "giraffe standing the tallest", "ann_id": 601111, "best_split": [1, 3], "split_score": 0.6699220892861888}

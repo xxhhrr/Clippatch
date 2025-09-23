@@ -1,0 +1,5 @@
+{"sent": "plate with no food on it", "ann_id": 2217386, "best_split": [3, 1], "split_score": 0.23732470332989783}
+{"sent": "a white tray", "ann_id": 2217386, "best_split": [3, 1], "split_score": 0.23732470332989783}
+{"sent": "closest to the camera and meat is visible", "ann_id": 1535220, "best_split": [3, 1], "split_score": 0.4104729729482099}
+{"sent": "blurry close food", "ann_id": 1535220, "best_split": [3, 1], "split_score": 0.4104729729482099}
+{"sent": "food that is light brown not the dark oe", "ann_id": 1535220, "best_split": [3, 3], "split_score": 0.6119716460210066}

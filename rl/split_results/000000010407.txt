@@ -1,0 +1,6 @@
+{"sent": "carrot closer to the corn", "ann_id": 1064657, "best_split": [1, 5], "split_score": 0.31383737515033544}
+{"sent": "carrot near corn", "ann_id": 1064657, "best_split": [1, 5], "split_score": 0.31383737515033544}
+{"sent": "carrot pice closest to us around 400", "ann_id": 1064657, "best_split": [3, 2], "split_score": 0.5004557884571039}
+{"sent": "carrot next to broccoli", "ann_id": 1061762, "best_split": [2, 3], "split_score": 0.5716474192114486}
+{"sent": "orange slice between butter and broccoli", "ann_id": 1061762, "best_split": [2, 1], "split_score": 0.20125159437973328}
+{"sent": "carrot piece closerto broccoli", "ann_id": 1061762, "best_split": [2, 1], "split_score": 0.20125159437973328}

@@ -1,0 +1,11 @@
+{"sent": "food item not above sofie other side", "ann_id": 1929586, "best_split": [3, 1], "split_score": 0.3475562451320206}
+{"sent": "dessert bar touching plate slightly behind the one next to it", "ann_id": 1929586, "best_split": [2, 2], "split_score": 0.6171874999507981}
+{"sent": "biggest one thats under all others", "ann_id": 1929586, "best_split": [5, 1], "split_score": 0.314853556461831}
+{"sent": "second row that side", "ann_id": 1929422, "best_split": [3, 1], "split_score": 0.33032490972865947}
+{"sent": "only square thats cut of by picture edge", "ann_id": 1929422, "best_split": [2, 1], "split_score": 0.1676367869554847}
+{"sent": "piece at 900", "ann_id": 1929422, "best_split": [3, 1], "split_score": 0.33032490972865947}
+{"sent": "single cookie", "ann_id": 1928329, "best_split": [3, 1], "split_score": 0.27890129790526924}
+{"sent": "bigger cake", "ann_id": 1928329, "best_split": [1, 3], "split_score": 0.28544185843689845}
+{"sent": "the slice that is sitting on them all", "ann_id": 1928329, "best_split": [1, 3], "split_score": 0.28544185843689845}
+{"sent": "second level bar closest", "ann_id": 1086589, "best_split": [2, 1], "split_score": 0.23513326523786338}
+{"sent": "number 2 food up from the name sophie", "ann_id": 1086589, "best_split": [3, 1], "split_score": 0.4260826771443857}

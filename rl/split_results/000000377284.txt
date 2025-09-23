@@ -1,0 +1,7 @@
+{"sent": "donut is frosted and dripping", "ann_id": 1078954, "best_split": [2, 1], "split_score": 0.31626682269176903}
+{"sent": "icing doughnut", "ann_id": 1078954, "best_split": [2, 1], "split_score": 0.31626682269176903}
+{"sent": "donut 2", "ann_id": 1078954, "best_split": [2, 1], "split_score": 0.31626682269176903}
+{"sent": "plain donut", "ann_id": 1078587, "best_split": [2, 2], "split_score": 0.6762380620658884}
+{"sent": "nonglazed", "ann_id": 1078587, "best_split": [2, 1], "split_score": 0.37707635336353107}
+{"sent": "bigger doughnut", "ann_id": 1078587, "best_split": [2, 2], "split_score": 0.6762380620658884}
+{"sent": "donut without topping", "ann_id": 1078587, "best_split": [2, 2], "split_score": 0.6762380620658884}

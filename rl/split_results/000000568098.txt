@@ -1,0 +1,6 @@
+{"sent": "yellow shirt man not touching hotdogs", "ann_id": 1243499, "best_split": [2, 3], "split_score": 0.14744086853941055}
+{"sent": "yellow near gray shirt", "ann_id": 1243499, "best_split": [3, 1], "split_score": 0.16741110272246584}
+{"sent": "man with yellow shirt next to person in gray", "ann_id": 1243499, "best_split": [3, 1], "split_score": 0.16741110272246584}
+{"sent": "man in yellow that you can see both lenses of glasses", "ann_id": 1748556, "best_split": [2, 3], "split_score": 0.4164046870137749}
+{"sent": "hes grilling", "ann_id": 1748556, "best_split": [2, 1], "split_score": 0.07498557316694437}
+{"sent": "man grilling", "ann_id": 1748556, "best_split": [2, 1], "split_score": 0.07498557316694437}

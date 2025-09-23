@@ -1,0 +1,9 @@
+{"sent": "sitting on bench on end with no hat", "ann_id": 1319029, "best_split": [2, 1], "split_score": 0.05981112276795791}
+{"sent": "man sitting next to man in red cubs jersey", "ann_id": 1276463, "best_split": [1, 3], "split_score": 0.06123110150857283}
+{"sent": "person in gray sitting beside red", "ann_id": 1276463, "best_split": [1, 2], "split_score": 0.12268813775021173}
+{"sent": "player sitting next to man in red", "ann_id": 1276463, "best_split": [2, 1], "split_score": 0.05104858571344695}
+{"sent": "sitting can see whole body on glove side of player", "ann_id": 1244869, "best_split": [3, 3], "split_score": 0.38306731429856566}
+{"sent": "but with hat sitting on bench edge", "ann_id": 1244869, "best_split": [1, 3], "split_score": 0.1505791505700664}
+{"sent": "baseball player throwing ball", "ann_id": 1222336, "best_split": [1, 5], "split_score": 0.5508250523702412}
+{"sent": "standing man", "ann_id": 1222336, "best_split": [1, 5], "split_score": 0.5508250523702412}
+{"sent": "pitcher", "ann_id": 1222336, "best_split": [1, 5], "split_score": 0.5508250523702412}

@@ -1,0 +1,6 @@
+{"sent": "guy in brown", "ann_id": 2198276, "best_split": [1, 2], "split_score": 0.6020721725015072}
+{"sent": "man", "ann_id": 2198276, "best_split": [1, 2], "split_score": 0.6020721725015072}
+{"sent": "man on phone", "ann_id": 2198276, "best_split": [1, 3], "split_score": 0.4305866992015388}
+{"sent": "girl", "ann_id": 451109, "best_split": [1, 5], "split_score": 0.8202110388778194}
+{"sent": "girl", "ann_id": 451109, "best_split": [1, 5], "split_score": 0.8202110388778194}
+{"sent": "the girl", "ann_id": 451109, "best_split": [1, 5], "split_score": 0.8202110388778194}

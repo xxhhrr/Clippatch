@@ -1,0 +1,6 @@
+{"sent": "red thing", "ann_id": 1048889, "best_split": [2, 3], "split_score": 0.7844522967331655}
+{"sent": "red", "ann_id": 1048889, "best_split": [2, 3], "split_score": 0.7844522967331655}
+{"sent": "red fruit", "ann_id": 1048889, "best_split": [2, 3], "split_score": 0.7844522967331655}
+{"sent": "green apple", "ann_id": 1048526, "best_split": [2, 1], "split_score": 0.5939981916230298}
+{"sent": "green apple", "ann_id": 1048526, "best_split": [2, 1], "split_score": 0.5939981916230298}
+{"sent": "green", "ann_id": 1048526, "best_split": [2, 1], "split_score": 0.5939981916230298}

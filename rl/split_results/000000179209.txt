@@ -1,0 +1,4 @@
+{"sent": "truck with big tires", "ann_id": 2054261, "best_split": [2, 1], "split_score": 0.8582228025270352}
+{"sent": "large tires", "ann_id": 2054261, "best_split": [2, 1], "split_score": 0.8582228025270352}
+{"sent": "tuck tires", "ann_id": 2054261, "best_split": [2, 1], "split_score": 0.8582228025270352}
+{"sent": "truck", "ann_id": 1196623, "best_split": [3, 1], "split_score": 0.4475846917343138}

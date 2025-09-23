@@ -1,0 +1,6 @@
+{"sent": "near us seats", "ann_id": 579352, "best_split": [2, 1], "split_score": 0.25474330356127456}
+{"sent": "closest set of 3 chiars", "ann_id": 579352, "best_split": [3, 3], "split_score": 0.8355761792984414}
+{"sent": "closest 3 orange chairs", "ann_id": 579352, "best_split": [3, 3], "split_score": 0.8355761792984414}
+{"sent": "bench to blue shirt guy", "ann_id": 577297, "best_split": [2, 3], "split_score": 0.524372586809318}
+{"sent": "seat with dark colored back", "ann_id": 577297, "best_split": [5, 1], "split_score": 0.19646166805421553}
+{"sent": "bench at 7 o clock", "ann_id": 577297, "best_split": [2, 3], "split_score": 0.524372586809318}

@@ -1,0 +1,7 @@
+{"sent": "smallest half of sandwich", "ann_id": 310515, "best_split": [1, 5], "split_score": 0.33514270702721566}
+{"sent": "smaller sandwich", "ann_id": 310515, "best_split": [1, 5], "split_score": 0.33514270702721566}
+{"sent": "smaller bread", "ann_id": 310515, "best_split": [2, 2], "split_score": 0.43000637751674053}
+{"sent": "the bigger half of the sandwich", "ann_id": 308978, "best_split": [3, 2], "split_score": 0.5561425700903235}
+{"sent": "sandwich closest to you", "ann_id": 308978, "best_split": [3, 2], "split_score": 0.5561425700903235}
+{"sent": "closest sandwich piece", "ann_id": 308978, "best_split": [3, 2], "split_score": 0.5561425700903235}
+{"sent": "sand with cut edge away from veggie", "ann_id": 308978, "best_split": [3, 1], "split_score": 0.34399594972412223}

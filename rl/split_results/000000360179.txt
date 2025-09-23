@@ -1,0 +1,5 @@
+{"sent": "man holding water bottle", "ann_id": 209582, "best_split": [2, 2], "split_score": 0.5928870292532643}
+{"sent": "blue shirt", "ann_id": 209582, "best_split": [1, 2], "split_score": 0.5622209821204471}
+{"sent": "blue sleeves", "ann_id": 1741805, "best_split": [2, 2], "split_score": 0.45105071093173205}
+{"sent": "black shirt with blue long sleeves", "ann_id": 1741805, "best_split": [1, 5], "split_score": 0.5129576000213145}
+{"sent": "man that is eating", "ann_id": 1741805, "best_split": [1, 5], "split_score": 0.5129576000213145}

@@ -1,0 +1,4 @@
+{"sent": "im a lefty tennis player", "ann_id": 465077, "best_split": [2, 1], "split_score": 0.25502248874797534}
+{"sent": "ist instance of tennis player", "ann_id": 465077, "best_split": [2, 1], "split_score": 0.25502248874797534}
+{"sent": "player number 2", "ann_id": 458862, "best_split": [1, 2], "split_score": 0.6798469387484117}
+{"sent": "tennis player", "ann_id": 458862, "best_split": [1, 2], "split_score": 0.6798469387484117}

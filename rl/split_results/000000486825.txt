@@ -1,0 +1,5 @@
+{"sent": "zebra closest to fence", "ann_id": 600739, "best_split": [1, 2], "split_score": 0.3508450254962195}
+{"sent": "giraffe closest to curved metal structure", "ann_id": 600739, "best_split": [1, 3], "split_score": 0.25870449358899394}
+{"sent": "giraffe in the group but kind of separated", "ann_id": 597747, "best_split": [1, 2], "split_score": 0.317602040803667}
+{"sent": "animal closest to big tall pole", "ann_id": 597747, "best_split": [1, 5], "split_score": 0.5043889263585087}
+{"sent": "giraffe tallest", "ann_id": 597747, "best_split": [1, 2], "split_score": 0.317602040803667}

@@ -1,0 +1,3 @@
+{"sent": "seat on moped", "ann_id": 1792492, "best_split": [1, 5], "split_score": 0.2523813762794996}
+{"sent": "headlight of bike in a corner near us", "ann_id": 1790141, "best_split": [2, 2], "split_score": 0.7639929183736897}
+{"sent": "scooter with spare tire", "ann_id": 1790141, "best_split": [1, 2], "split_score": 0.41204553799441623}

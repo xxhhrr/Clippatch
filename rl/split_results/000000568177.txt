@@ -1,0 +1,5 @@
+{"sent": "the dude not in black in white", "ann_id": 430193, "best_split": [1, 3], "split_score": 0.8917823728686144}
+{"sent": "colored man", "ann_id": 430193, "best_split": [1, 3], "split_score": 0.8917823728686144}
+{"sent": "man", "ann_id": 430193, "best_split": [1, 3], "split_score": 0.8917823728686144}
+{"sent": "blurry mans face in corner", "ann_id": 1714970, "best_split": [1, 2], "split_score": 0.20675223213461605}
+{"sent": "blur in the corner", "ann_id": 1714970, "best_split": [2, 2], "split_score": 0.3268727081997401}

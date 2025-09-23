@@ -1,0 +1,8 @@
+{"sent": "white and black", "ann_id": 194379, "best_split": [1, 3], "split_score": 0.5904051172393174}
+{"sent": "black pants", "ann_id": 194379, "best_split": [1, 3], "split_score": 0.5904051172393174}
+{"sent": "white rider", "ann_id": 194379, "best_split": [1, 3], "split_score": 0.5904051172393174}
+{"sent": "blue and white", "ann_id": 186507, "best_split": [1, 2], "split_score": 0.519132653040532}
+{"sent": "dark blue guy", "ann_id": 186507, "best_split": [1, 2], "split_score": 0.519132653040532}
+{"sent": "the guy in blue", "ann_id": 186507, "best_split": [1, 2], "split_score": 0.519132653040532}
+{"sent": "blue guy bike", "ann_id": 131278, "best_split": [2, 2], "split_score": 0.4897959183283007}
+{"sent": "the bike the guy in blue is driving", "ann_id": 131278, "best_split": [2, 2], "split_score": 0.4897959183283007}

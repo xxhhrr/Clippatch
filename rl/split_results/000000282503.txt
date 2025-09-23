@@ -1,0 +1,12 @@
+{"sent": "laptop by baby", "ann_id": 1103774, "best_split": [2, 3], "split_score": 0.7247796277448796}
+{"sent": "bay laptop", "ann_id": 1103774, "best_split": [2, 3], "split_score": 0.7247796277448796}
+{"sent": "baby laptop", "ann_id": 1103774, "best_split": [2, 3], "split_score": 0.7247796277448796}
+{"sent": "moms laptop", "ann_id": 1103096, "best_split": [3, 2], "split_score": 0.6982273200523225}
+{"sent": "dell", "ann_id": 1103096, "best_split": [2, 1], "split_score": 0.1635251090109887}
+{"sent": "laptop on woman", "ann_id": 1103096, "best_split": [3, 2], "split_score": 0.6982273200523225}
+{"sent": "baby using laptop", "ann_id": 557895, "best_split": [2, 2], "split_score": 0.4139374089996399}
+{"sent": "baby", "ann_id": 557895, "best_split": [2, 2], "split_score": 0.4139374089996399}
+{"sent": "the baby", "ann_id": 557895, "best_split": [2, 2], "split_score": 0.4139374089996399}
+{"sent": "woman", "ann_id": 431305, "best_split": [1, 2], "split_score": 0.9330505906947497}
+{"sent": "wearing sleeveless garmet", "ann_id": 431305, "best_split": [1, 2], "split_score": 0.9330505906947497}
+{"sent": "mom", "ann_id": 431305, "best_split": [1, 2], "split_score": 0.9330505906947497}

@@ -1,0 +1,9 @@
+{"sent": "bowl with silver spoon in it", "ann_id": 1040809, "best_split": [3, 1], "split_score": 0.24294458587059506}
+{"sent": "bowl with silver spoon", "ann_id": 1040809, "best_split": [3, 1], "split_score": 0.24294458587059506}
+{"sent": "all silver spoon bowl", "ann_id": 1040809, "best_split": [3, 1], "split_score": 0.24294458587059506}
+{"sent": "bowl with the red spoon", "ann_id": 1039962, "best_split": [3, 3], "split_score": 0.5638966120313154}
+{"sent": "bowl where red spoon is", "ann_id": 1039962, "best_split": [3, 3], "split_score": 0.5638966120313154}
+{"sent": "bowl with red spoon", "ann_id": 1039962, "best_split": [3, 2], "split_score": 0.5180062409953609}
+{"sent": "smallest cup", "ann_id": 1039027, "best_split": [3, 3], "split_score": 0.37099236635557364}
+{"sent": "smallest bowl", "ann_id": 1039027, "best_split": [5, 1], "split_score": 0.16783216781749719}
+{"sent": "cup with blue", "ann_id": 1039027, "best_split": [3, 3], "split_score": 0.37099236635557364}

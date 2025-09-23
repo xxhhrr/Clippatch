@@ -1,0 +1,6 @@
+{"sent": "closest vehicle", "ann_id": 2053148, "best_split": [2, 2], "split_score": 0.19858099488212844}
+{"sent": "the little vehicle behind that guy", "ann_id": 2053148, "best_split": [2, 3], "split_score": 0.2932213556936747}
+{"sent": "motorized airport vehicle", "ann_id": 2053148, "best_split": [2, 2], "split_score": 0.19858099488212844}
+{"sent": "white box with blue door", "ann_id": 2052937, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "white small building", "ann_id": 2052937, "best_split": [3, 3], "split_score": 0.33405639907193485}
+{"sent": "white shed", "ann_id": 2052937, "best_split": [3, 3], "split_score": 0.33405639907193485}

@@ -1,0 +1,6 @@
+{"sent": "train next to people", "ann_id": 174253, "best_split": [1, 3], "split_score": 0.2128378378249977}
+{"sent": "the yellow with trianglular shape", "ann_id": 174253, "best_split": [3, 1], "split_score": 0.18286655682614342}
+{"sent": "train closest to people", "ann_id": 174253, "best_split": [1, 3], "split_score": 0.2128378378249977}
+{"sent": "longer train", "ann_id": 173319, "best_split": [3, 1], "split_score": 0.5311618236458016}
+{"sent": "train 1182", "ann_id": 173319, "best_split": [3, 1], "split_score": 0.5311618236458016}
+{"sent": "big train", "ann_id": 173319, "best_split": [3, 1], "split_score": 0.5311618236458016}

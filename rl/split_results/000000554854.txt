@@ -1,0 +1,9 @@
+{"sent": "guy that is partially out of picture", "ann_id": 1716147, "best_split": [2, 1], "split_score": 0.10439253826114507}
+{"sent": "blue shirt", "ann_id": 1716147, "best_split": [2, 3], "split_score": 0.31599903471090746}
+{"sent": "man next to balloon almost completely out of frame", "ann_id": 1716147, "best_split": [2, 3], "split_score": 0.31599903471090746}
+{"sent": "man drinking", "ann_id": 1713030, "best_split": [1, 2], "split_score": 0.6035006250962289}
+{"sent": "man drinking", "ann_id": 1713030, "best_split": [1, 2], "split_score": 0.6035006250962289}
+{"sent": "man drinking", "ann_id": 1713030, "best_split": [1, 2], "split_score": 0.6035006250962289}
+{"sent": "bald man closest to door", "ann_id": 449417, "best_split": [2, 2], "split_score": 0.4358258928223991}
+{"sent": "man closest to door knob", "ann_id": 449417, "best_split": [3, 2], "split_score": 0.42731140391954847}
+{"sent": "bald guy in the back area", "ann_id": 449417, "best_split": [2, 2], "split_score": 0.4358258928223991}

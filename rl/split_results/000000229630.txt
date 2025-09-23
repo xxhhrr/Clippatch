@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 234602, "best_split": [1, 5], "split_score": 0.8070211038142227}
+{"sent": "stripes", "ann_id": 234602, "best_split": [1, 5], "split_score": 0.8070211038142227}
+{"sent": "kid covering their face", "ann_id": 234602, "best_split": [2, 2], "split_score": 0.20484335506936793}
+{"sent": "boy in brown", "ann_id": 228734, "best_split": [1, 5], "split_score": 0.6107072041723437}
+{"sent": "brown shirt boy", "ann_id": 228734, "best_split": [1, 5], "split_score": 0.6107072041723437}
+{"sent": "smaller kid with wii controller", "ann_id": 228734, "best_split": [1, 5], "split_score": 0.6107072041723437}

@@ -1,0 +1,17 @@
+{"sent": "skinny man kneeling", "ann_id": 1298653, "best_split": [2, 3], "split_score": 0.3232029872084635}
+{"sent": "man kneeling with smallest head racket", "ann_id": 1298653, "best_split": [3, 3], "split_score": 0.3975548060149586}
+{"sent": "2 out of 3 man", "ann_id": 1298653, "best_split": [3, 3], "split_score": 0.3975548060149586}
+{"sent": "man in buttoned suit", "ann_id": 1292205, "best_split": [3, 1], "split_score": 0.1376886499825466}
+{"sent": "oldest person", "ann_id": 1292205, "best_split": [5, 1], "split_score": 0.11555296176571687}
+{"sent": "oldest man suit", "ann_id": 1292205, "best_split": [3, 1], "split_score": 0.1376886499825466}
+{"sent": "one standing next to boy in suit", "ann_id": 1288125, "best_split": [3, 3], "split_score": 0.2733990147446553}
+{"sent": "tallest man but blond", "ann_id": 1288125, "best_split": [5, 1], "split_score": 0.10576923076128536}
+{"sent": "guy kneeling under guy with suit", "ann_id": 1276725, "best_split": [3, 1], "split_score": 0.22376817657580456}
+{"sent": "kneeler closest to suit man", "ann_id": 1276725, "best_split": [3, 1], "split_score": 0.22376817657580456}
+{"sent": "guy in suit furthest from the house", "ann_id": 1255563, "best_split": [1, 5], "split_score": 0.43917375007410897}
+{"sent": "guy with open gray suit jacket", "ann_id": 1255563, "best_split": [1, 5], "split_score": 0.43917375007410897}
+{"sent": "kneeling player with head in open space", "ann_id": 2164101, "best_split": [2, 3], "split_score": 0.23431994360162792}
+{"sent": "man kneeling at 7 o clock", "ann_id": 2164101, "best_split": [2, 3], "split_score": 0.23431994360162792}
+{"sent": "tall brown haired man", "ann_id": 1225913, "best_split": [3, 2], "split_score": 0.1796116504698672}
+{"sent": "standing tallest dark haired", "ann_id": 1225913, "best_split": [1, 5], "split_score": 0.45030581035451966}
+{"sent": "tall player with racket", "ann_id": 1225913, "best_split": [1, 3], "split_score": 0.3209459459265839}

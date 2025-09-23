@@ -1,0 +1,7 @@
+{"sent": "man with glasses", "ann_id": 505567, "best_split": [1, 3], "split_score": 0.7168479518215201}
+{"sent": "shortest man", "ann_id": 505567, "best_split": [3, 2], "split_score": 0.34418604648999457}
+{"sent": "350", "ann_id": 481299, "best_split": [1, 3], "split_score": 0.7042459736088555}
+{"sent": "pink tie guy medium height no glasses", "ann_id": 481299, "best_split": [2, 3], "split_score": 0.48994605195623186}
+{"sent": "orange tie", "ann_id": 481299, "best_split": [1, 3], "split_score": 0.7042459736088555}
+{"sent": "guy with black tie", "ann_id": 474734, "best_split": [2, 1], "split_score": 0.24212312166013927}
+{"sent": "350 in blue", "ann_id": 474734, "best_split": [2, 1], "split_score": 0.24212312166013927}

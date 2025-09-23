@@ -1,0 +1,6 @@
+{"sent": "sandwich no tomato", "ann_id": 310881, "best_split": [1, 3], "split_score": 0.424078187453395}
+{"sent": "half of sandwich underneath", "ann_id": 310881, "best_split": [2, 2], "split_score": 0.4810273755162759}
+{"sent": "sandwich mostly touching plate", "ann_id": 310881, "best_split": [1, 3], "split_score": 0.424078187453395}
+{"sent": "piece of food with tomato showing", "ann_id": 310794, "best_split": [3, 2], "split_score": 0.3902205177105725}
+{"sent": "tomato peeking out", "ann_id": 310794, "best_split": [2, 2], "split_score": 0.533887188423144}
+{"sent": "sandwich with tomato sticking out", "ann_id": 310794, "best_split": [2, 2], "split_score": 0.533887188423144}

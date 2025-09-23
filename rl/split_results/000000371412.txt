@@ -1,0 +1,6 @@
+{"sent": "man", "ann_id": 222929, "best_split": [1, 2], "split_score": 0.6396018857831456}
+{"sent": "male chef", "ann_id": 222929, "best_split": [1, 2], "split_score": 0.6396018857831456}
+{"sent": "man next to woman", "ann_id": 222929, "best_split": [1, 3], "split_score": 0.3960236431892792}
+{"sent": "girl with the plate", "ann_id": 214952, "best_split": [2, 1], "split_score": 0.3999733084078482}
+{"sent": "woman", "ann_id": 214952, "best_split": [1, 5], "split_score": 0.33373253491348637}
+{"sent": "woman holding plate", "ann_id": 214952, "best_split": [2, 1], "split_score": 0.3999733084078482}

@@ -1,0 +1,6 @@
+{"sent": "bag with cat on it", "ann_id": 1187746, "best_split": [2, 2], "split_score": 0.5724794982771056}
+{"sent": "small closed suitcase cat is sitting on it", "ann_id": 1187746, "best_split": [2, 2], "split_score": 0.5724794982771056}
+{"sent": "suitcase cat sits on", "ann_id": 1187746, "best_split": [2, 2], "split_score": 0.5724794982771056}
+{"sent": "large black suitcase", "ann_id": 1184724, "best_split": [3, 1], "split_score": 0.6511693567055118}
+{"sent": "largest black suitcase", "ann_id": 1184724, "best_split": [3, 1], "split_score": 0.6511693567055118}
+{"sent": "suitcase sandwiched in between", "ann_id": 1184724, "best_split": [3, 1], "split_score": 0.6511693567055118}

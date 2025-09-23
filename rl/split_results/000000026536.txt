@@ -1,0 +1,9 @@
+{"sent": "no jeans", "ann_id": 1750608, "best_split": [2, 1], "split_score": 0.22604432397058177}
+{"sent": "i can just see a leg", "ann_id": 1750608, "best_split": [2, 1], "split_score": 0.22604432397058177}
+{"sent": "biege pant", "ann_id": 1750608, "best_split": [3, 1], "split_score": 0.09380992182045282}
+{"sent": "black and red jacket", "ann_id": 478092, "best_split": [5, 1], "split_score": 0.21324717284714706}
+{"sent": "red on jacket shoulder", "ann_id": 478092, "best_split": [3, 3], "split_score": 0.4901539562754964}
+{"sent": "red and black jacket can not see head", "ann_id": 478092, "best_split": [5, 1], "split_score": 0.21324717284714706}
+{"sent": "blue bmw", "ann_id": 345276, "best_split": [3, 3], "split_score": 0.32206906768607246}
+{"sent": "blue car", "ann_id": 345276, "best_split": [3, 3], "split_score": 0.32206906768607246}
+{"sent": "suv", "ann_id": 345276, "best_split": [3, 3], "split_score": 0.32206906768607246}

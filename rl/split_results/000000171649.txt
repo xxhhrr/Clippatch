@@ -1,0 +1,14 @@
+{"sent": "girl carrying white umbrella", "ann_id": 495513, "best_split": [2, 1], "split_score": 0.14669455788602137}
+{"sent": "tallest girl", "ann_id": 495513, "best_split": [1, 2], "split_score": 0.37655452804621514}
+{"sent": "woman with gray umbrell", "ann_id": 495513, "best_split": [1, 2], "split_score": 0.37655452804621514}
+{"sent": "pink coat woman", "ann_id": 466772, "best_split": [1, 3], "split_score": 0.4805139961100076}
+{"sent": "pinks", "ann_id": 466772, "best_split": [1, 3], "split_score": 0.4805139961100076}
+{"sent": "person without umbrella", "ann_id": 465794, "best_split": [1, 2], "split_score": 0.17308842090702556}
+{"sent": "woman no umbrella", "ann_id": 465794, "best_split": [1, 2], "split_score": 0.17308842090702556}
+{"sent": "middle lady", "ann_id": 465794, "best_split": [1, 2], "split_score": 0.16561602692611585}
+{"sent": "red umbrella", "ann_id": 281803, "best_split": [3, 3], "split_score": 0.5983851673746433}
+{"sent": "red umrella", "ann_id": 281803, "best_split": [3, 3], "split_score": 0.5983851673746433}
+{"sent": "red umbrella", "ann_id": 281803, "best_split": [3, 3], "split_score": 0.5983851673746433}
+{"sent": "white umbrella", "ann_id": 281656, "best_split": [5, 1], "split_score": 0.3203285420645577}
+{"sent": "the umbrella the woman in the striped scarf is holding", "ann_id": 281656, "best_split": [3, 1], "split_score": 0.25880791504230166}
+{"sent": "light colored umbrella", "ann_id": 281656, "best_split": [5, 1], "split_score": 0.3203285420645577}

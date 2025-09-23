@@ -1,0 +1,5 @@
+{"sent": "train farther away", "ann_id": 1367006, "best_split": [5, 1], "split_score": 0.14455691705340465}
+{"sent": "the train thats hardest to see behind the pillars", "ann_id": 1367006, "best_split": [5, 1], "split_score": 0.14455691705340465}
+{"sent": "transport", "ann_id": 171507, "best_split": [1, 2], "split_score": 0.6566634398016385}
+{"sent": "transit train", "ann_id": 171507, "best_split": [1, 2], "split_score": 0.6566634398016385}
+{"sent": "train", "ann_id": 171507, "best_split": [1, 2], "split_score": 0.6566634398016385}

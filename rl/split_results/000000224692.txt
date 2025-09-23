@@ -1,0 +1,9 @@
+{"sent": "panda near red", "ann_id": 2147540, "best_split": [2, 3], "split_score": 0.35553555351535376}
+{"sent": "smalle bear", "ann_id": 2147540, "best_split": [2, 3], "split_score": 0.35553555351535376}
+{"sent": "panda next to red jacket", "ann_id": 2147540, "best_split": [2, 3], "split_score": 0.35553555351535376}
+{"sent": "panda beside of lady", "ann_id": 2147500, "best_split": [2, 3], "split_score": 0.2945105405662168}
+{"sent": "panda next to woman", "ann_id": 2147500, "best_split": [2, 3], "split_score": 0.2945105405662168}
+{"sent": "open mouthed panda", "ann_id": 2147500, "best_split": [2, 3], "split_score": 0.2945105405662168}
+{"sent": "red", "ann_id": 439788, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "red coat", "ann_id": 439788, "best_split": [1, 5], "split_score": 0.3648538960668776}
+{"sent": "guy", "ann_id": 439788, "best_split": [3, 2], "split_score": 0.22338892318062703}

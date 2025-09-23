@@ -1,0 +1,6 @@
+{"sent": "nearest no hat guy", "ann_id": 2148634, "best_split": [5, 1], "split_score": 0.20252707579399576}
+{"sent": "head blocked my big hat", "ann_id": 2148634, "best_split": [1, 2], "split_score": 0.138233418361837}
+{"sent": "hair next to guy with hat", "ann_id": 2148634, "best_split": [3, 1], "split_score": 0.20550911167345226}
+{"sent": "hat nearest you", "ann_id": 2148403, "best_split": [3, 1], "split_score": 0.5063868612849917}
+{"sent": "hat 600", "ann_id": 2148403, "best_split": [3, 1], "split_score": 0.5063868612849917}
+{"sent": "hat big", "ann_id": 2148403, "best_split": [3, 1], "split_score": 0.5063868612849917}

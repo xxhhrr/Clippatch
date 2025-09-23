@@ -1,0 +1,8 @@
+{"sent": "guy skating", "ann_id": 2160749, "best_split": [1, 5], "split_score": 0.4327868852136522}
+{"sent": "guy skateboarding on edge", "ann_id": 2160749, "best_split": [1, 5], "split_score": 0.4327868852136522}
+{"sent": "skater falling", "ann_id": 2160749, "best_split": [1, 5], "split_score": 0.4327868852136522}
+{"sent": "the guy standing up", "ann_id": 2164700, "best_split": [5, 1], "split_score": 0.09297607978252252}
+{"sent": "standing upright on skateboard", "ann_id": 2164700, "best_split": [5, 1], "split_score": 0.09297607978252252}
+{"sent": "man in tan shorts", "ann_id": 2164700, "best_split": [3, 3], "split_score": 0.2760781972427879}
+{"sent": "person holding black skateboard", "ann_id": 422450, "best_split": [5, 1], "split_score": 0.1224739742697512}
+{"sent": "skater sitting with board most upright", "ann_id": 422450, "best_split": [5, 1], "split_score": 0.1224739742697512}

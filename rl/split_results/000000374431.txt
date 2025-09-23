@@ -1,0 +1,6 @@
+{"sent": "guy behind sheep", "ann_id": 206633, "best_split": [1, 5], "split_score": 0.3454998282080471}
+{"sent": "man", "ann_id": 206633, "best_split": [1, 3], "split_score": 0.35056708492093586}
+{"sent": "man with blue shirt", "ann_id": 206633, "best_split": [2, 3], "split_score": 0.36156446157783056}
+{"sent": "woman by animals head", "ann_id": 191676, "best_split": [1, 5], "split_score": 0.3668069753089991}
+{"sent": "shes gon na strangle that goat", "ann_id": 191676, "best_split": [1, 5], "split_score": 0.3668069753089991}
+{"sent": "women", "ann_id": 191676, "best_split": [1, 3], "split_score": 0.22816119689743236}

@@ -1,0 +1,5 @@
+{"sent": "sandwich with blue toothpick", "ann_id": 313335, "best_split": [2, 2], "split_score": 0.4920281571209898}
+{"sent": "sandwich closest to water", "ann_id": 313335, "best_split": [2, 2], "split_score": 0.4920281571209898}
+{"sent": "sandwich half under sauc", "ann_id": 312548, "best_split": [3, 2], "split_score": 0.4849279160808545}
+{"sent": "part of sandwich with sauce close", "ann_id": 312548, "best_split": [1, 2], "split_score": 0.3922193877394683}
+{"sent": "sandwich near red things", "ann_id": 312548, "best_split": [3, 2], "split_score": 0.4849279160808545}

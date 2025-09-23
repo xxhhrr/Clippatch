@@ -1,0 +1,5 @@
+{"sent": "child with orange shirt", "ann_id": 196354, "best_split": [3, 2], "split_score": 0.4820662170078122}
+{"sent": "yellow shirt", "ann_id": 196354, "best_split": [3, 2], "split_score": 0.4820662170078122}
+{"sent": "pink jacket girl", "ann_id": 195999, "best_split": [3, 2], "split_score": 0.3888439773383964}
+{"sent": "girl in pink", "ann_id": 195999, "best_split": [3, 2], "split_score": 0.3888439773383964}
+{"sent": "pink", "ann_id": 195999, "best_split": [3, 2], "split_score": 0.3888439773383964}

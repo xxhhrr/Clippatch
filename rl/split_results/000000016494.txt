@@ -1,0 +1,5 @@
+{"sent": "banana peel under sandwich", "ann_id": 1045121, "best_split": [5, 1], "split_score": 0.5339258245997328}
+{"sent": "peel at 9pm", "ann_id": 1045121, "best_split": [1, 2], "split_score": 0.05433401118281857}
+{"sent": "banana end facing you", "ann_id": 1044934, "best_split": [2, 2], "split_score": 0.4456313775154949}
+{"sent": "banana", "ann_id": 1044934, "best_split": [2, 2], "split_score": 0.4456313775154949}
+{"sent": "half banana", "ann_id": 1044934, "best_split": [2, 2], "split_score": 0.4456313775154949}

@@ -1,0 +1,6 @@
+{"sent": "this bus isnt showing advertisements", "ann_id": 166799, "best_split": [3, 3], "split_score": 0.5076797050473397}
+{"sent": "bus in background", "ann_id": 166799, "best_split": [3, 3], "split_score": 0.5076797050473397}
+{"sent": "smaller green bus", "ann_id": 166799, "best_split": [3, 3], "split_score": 0.5076797050473397}
+{"sent": "partial bus", "ann_id": 166799, "best_split": [3, 3], "split_score": 0.5076797050473397}
+{"sent": "truck with words", "ann_id": 163478, "best_split": [1, 3], "split_score": 0.42614523684193956}
+{"sent": "bus with littlewoods on the side", "ann_id": 163478, "best_split": [1, 3], "split_score": 0.42614523684193956}

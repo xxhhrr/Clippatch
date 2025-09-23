@@ -1,0 +1,6 @@
+{"sent": "stripes shirt with no camera", "ann_id": 231412, "best_split": [1, 3], "split_score": 0.7788495890926015}
+{"sent": "light striped shirt guy", "ann_id": 231412, "best_split": [1, 3], "split_score": 0.7788495890926015}
+{"sent": "stripes", "ann_id": 231412, "best_split": [1, 3], "split_score": 0.7788495890926015}
+{"sent": "man holding camera", "ann_id": 223016, "best_split": [1, 5], "split_score": 0.4707692307239645}
+{"sent": "man hunched over camera", "ann_id": 223016, "best_split": [1, 5], "split_score": 0.4707692307239645}
+{"sent": "bending over stripes", "ann_id": 223016, "best_split": [3, 3], "split_score": 0.27702386519922506}

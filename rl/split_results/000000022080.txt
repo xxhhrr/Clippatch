@@ -1,0 +1,6 @@
+{"sent": "donut with icing maybe maple", "ann_id": 1080098, "best_split": [3, 2], "split_score": 0.5978104944811015}
+{"sent": "donut with brown icing", "ann_id": 1080098, "best_split": [3, 2], "split_score": 0.5978104944811015}
+{"sent": "donut next to the coffee", "ann_id": 1080098, "best_split": [1, 2], "split_score": 0.4090639150616486}
+{"sent": "swirly donut", "ann_id": 1079333, "best_split": [2, 1], "split_score": 0.6158322703836163}
+{"sent": "danish no frosting", "ann_id": 1079333, "best_split": [2, 1], "split_score": 0.6158322703836163}
+{"sent": "twirly donut", "ann_id": 1079333, "best_split": [2, 1], "split_score": 0.6158322703836163}

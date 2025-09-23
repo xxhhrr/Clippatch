@@ -1,0 +1,8 @@
+{"sent": "the blue train", "ann_id": 174983, "best_split": [3, 1], "split_score": 0.23651892373358718}
+{"sent": "blue train car", "ann_id": 174983, "best_split": [3, 1], "split_score": 0.23651892373358718}
+{"sent": "red boxcars", "ann_id": 174870, "best_split": [3, 2], "split_score": 0.6453488371423018}
+{"sent": "red long train", "ann_id": 174870, "best_split": [5, 1], "split_score": 0.5176019518545136}
+{"sent": "brown train cars with orange engine", "ann_id": 174870, "best_split": [5, 1], "split_score": 0.5176019518545136}
+{"sent": "white train", "ann_id": 172071, "best_split": [2, 3], "split_score": 0.46146739545296267}
+{"sent": "train with big white tanks on back", "ann_id": 172071, "best_split": [2, 3], "split_score": 0.46146739545296267}
+{"sent": "long white train", "ann_id": 172071, "best_split": [2, 3], "split_score": 0.46146739545296267}

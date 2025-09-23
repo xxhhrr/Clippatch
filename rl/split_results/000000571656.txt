@@ -1,0 +1,10 @@
+{"sent": "orange piece not touching others", "ann_id": 1064650, "best_split": [1, 2], "split_score": 0.1953124999922149}
+{"sent": "dead ahead small", "ann_id": 1064650, "best_split": [3, 3], "split_score": 0.21413526793656268}
+{"sent": "loner carrot", "ann_id": 1064650, "best_split": [2, 1], "split_score": 0.13966480446396592}
+{"sent": "carrot at 400", "ann_id": 1064253, "best_split": [2, 1], "split_score": 0.2964848653823237}
+{"sent": "the orange in the southeastern corner", "ann_id": 1064253, "best_split": [1, 2], "split_score": 0.4819036989603833}
+{"sent": "orange stuff at corner of 5pm", "ann_id": 1064253, "best_split": [1, 2], "split_score": 0.4819036989603833}
+{"sent": "long carrot slice horizontal covering some green", "ann_id": 1064129, "best_split": [1, 3], "split_score": 0.08980115458215884}
+{"sent": "carrot slice at 200", "ann_id": 1064129, "best_split": [1, 2], "split_score": 0.2873883928456876}
+{"sent": "carrots at 9 o clock", "ann_id": 1063630, "best_split": [1, 2], "split_score": 0.8544722576190023}
+{"sent": "orange 9 pm", "ann_id": 1063630, "best_split": [1, 3], "split_score": 0.7550671775818335}

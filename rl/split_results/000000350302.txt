@@ -1,0 +1,6 @@
+{"sent": "not sleeping guy", "ann_id": 567168, "best_split": [1, 2], "split_score": 0.43982454198681026}
+{"sent": "lighter colored pants", "ann_id": 567168, "best_split": [1, 2], "split_score": 0.43982454198681026}
+{"sent": "man in blue not sleeping", "ann_id": 567168, "best_split": [1, 3], "split_score": 0.3552036198937448}
+{"sent": "man visible", "ann_id": 435600, "best_split": [1, 3], "split_score": 0.4872099940221767}
+{"sent": "person in all blue sleeping", "ann_id": 435600, "best_split": [3, 3], "split_score": 0.594036697179583}
+{"sent": "man with black pants", "ann_id": 435600, "best_split": [3, 3], "split_score": 0.594036697179583}

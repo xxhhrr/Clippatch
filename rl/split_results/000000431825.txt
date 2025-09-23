@@ -1,0 +1,6 @@
+{"sent": "smallest one", "ann_id": 597524, "best_split": [3, 2], "split_score": 0.35804272408635723}
+{"sent": "giraffe smaller standing up", "ann_id": 597524, "best_split": [3, 3], "split_score": 0.31444759203372763}
+{"sent": "straight up smaller giraffe", "ann_id": 597524, "best_split": [3, 3], "split_score": 0.31444759203372763}
+{"sent": "girafe leaning over fence", "ann_id": 596835, "best_split": [3, 1], "split_score": 0.4930475086727604}
+{"sent": "giraffe leaning", "ann_id": 596835, "best_split": [3, 1], "split_score": 0.4930475086727604}
+{"sent": "closest giraffe", "ann_id": 596835, "best_split": [3, 1], "split_score": 0.4930475086727604}

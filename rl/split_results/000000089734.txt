@@ -1,0 +1,6 @@
+{"sent": "animal facing you", "ann_id": 59044, "best_split": [1, 3], "split_score": 0.2788696483438399}
+{"sent": "baby horse", "ann_id": 59044, "best_split": [3, 2], "split_score": 0.3060886829660747}
+{"sent": "facing forward", "ann_id": 59044, "best_split": [1, 2], "split_score": 0.29894770406971666}
+{"sent": "dark horse", "ann_id": 55719, "best_split": [1, 3], "split_score": 0.4455409356492512}
+{"sent": "behind of horse", "ann_id": 55719, "best_split": [1, 3], "split_score": 0.4455409356492512}
+{"sent": "the back of a horse", "ann_id": 55719, "best_split": [1, 3], "split_score": 0.4455409356492512}

@@ -1,0 +1,9 @@
+{"sent": "woman with donut", "ann_id": 2162103, "best_split": [1, 2], "split_score": 0.6198977876195314}
+{"sent": "woman eating donut", "ann_id": 2162103, "best_split": [1, 2], "split_score": 0.6198977876195314}
+{"sent": "mmmdonut", "ann_id": 2162103, "best_split": [1, 2], "split_score": 0.6198977876195314}
+{"sent": "fat head", "ann_id": 1735979, "best_split": [1, 2], "split_score": 0.24446384632730916}
+{"sent": "blond girl", "ann_id": 1735979, "best_split": [3, 2], "split_score": 0.710693301914137}
+{"sent": "blond hair", "ann_id": 1735979, "best_split": [3, 2], "split_score": 0.710693301914137}
+{"sent": "man beside woman", "ann_id": 459466, "best_split": [2, 1], "split_score": 0.30081011305080835}
+{"sent": "man", "ann_id": 459466, "best_split": [1, 2], "split_score": 0.7472895407865398}
+{"sent": "man blue jacket", "ann_id": 459466, "best_split": [1, 2], "split_score": 0.7472895407865398}

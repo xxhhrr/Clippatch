@@ -1,0 +1,6 @@
+{"sent": "the frontmost single piece of pizza", "ann_id": 1077890, "best_split": [3, 3], "split_score": 0.5263919015678973}
+{"sent": "single slice near coke cup", "ann_id": 1077890, "best_split": [1, 5], "split_score": 0.2222645825178932}
+{"sent": "pizza on plate closest", "ann_id": 1077890, "best_split": [3, 3], "split_score": 0.5263919015678973}
+{"sent": "the rest of the pizza", "ann_id": 1076031, "best_split": [1, 2], "split_score": 0.5840315426112782}
+{"sent": "most of a pizza", "ann_id": 1076031, "best_split": [1, 2], "split_score": 0.5840315426112782}
+{"sent": "pizza still in pan", "ann_id": 1076031, "best_split": [1, 2], "split_score": 0.5840315426112782}

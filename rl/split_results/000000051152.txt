@@ -1,0 +1,6 @@
+{"sent": "book red spine", "ann_id": 1143358, "best_split": [3, 2], "split_score": 0.3559362933933474}
+{"sent": "black book red spine open on desk", "ann_id": 1143358, "best_split": [2, 1], "split_score": 0.11758609693408856}
+{"sent": "open book with black over", "ann_id": 1143358, "best_split": [3, 3], "split_score": 0.538714389967364}
+{"sent": "white and black book", "ann_id": 1139821, "best_split": [3, 2], "split_score": 0.4205554930371578}
+{"sent": "book with white cover upside down", "ann_id": 1139821, "best_split": [2, 2], "split_score": 0.2844322761970924}
+{"sent": "book", "ann_id": 1139821, "best_split": [2, 2], "split_score": 0.2844322761970924}

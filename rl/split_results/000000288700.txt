@@ -1,0 +1,5 @@
+{"sent": "smallest zeb", "ann_id": 592146, "best_split": [3, 2], "split_score": 0.3176984215473303}
+{"sent": "zebra facing most this way", "ann_id": 592146, "best_split": [3, 2], "split_score": 0.3176984215473303}
+{"sent": "zebra directly behind another zebra", "ann_id": 591226, "best_split": [3, 3], "split_score": 0.624547865851875}
+{"sent": "the zebra behind the little zebra", "ann_id": 591226, "best_split": [3, 3], "split_score": 0.624547865851875}
+{"sent": "zeb obscured farthest in back in group near us", "ann_id": 591226, "best_split": [3, 1], "split_score": 0.38898937370625203}

@@ -1,0 +1,6 @@
+{"sent": "nose", "ann_id": 161773, "best_split": [1, 2], "split_score": 0.591650339962209}
+{"sent": "red white and blue airplane", "ann_id": 161773, "best_split": [1, 2], "split_score": 0.591650339962209}
+{"sent": "plane nose", "ann_id": 161773, "best_split": [1, 2], "split_score": 0.591650339962209}
+{"sent": "aa tail by building", "ann_id": 161255, "best_split": [2, 2], "split_score": 0.8361581920341566}
+{"sent": "aa tail closer to building", "ann_id": 161255, "best_split": [2, 2], "split_score": 0.8361581920341566}
+{"sent": "leftest plane", "ann_id": 161255, "best_split": [2, 1], "split_score": 0.5277607361760828}

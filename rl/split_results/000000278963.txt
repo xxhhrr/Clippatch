@@ -1,0 +1,5 @@
+{"sent": "whole sandwich", "ann_id": 312713, "best_split": [2, 2], "split_score": 0.46969696965990393}
+{"sent": "uneaten biscuit sandwich", "ann_id": 312713, "best_split": [2, 3], "split_score": 0.47849351713536803}
+{"sent": "burger that is more eaten", "ann_id": 312247, "best_split": [5, 1], "split_score": 0.21256038645509312}
+{"sent": "sandwich thats half eaten", "ann_id": 312247, "best_split": [2, 3], "split_score": 0.5067567566956133}
+{"sent": "bit sandwich", "ann_id": 312247, "best_split": [3, 3], "split_score": 0.36281690135734973}

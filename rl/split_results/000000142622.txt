@@ -1,0 +1,6 @@
+{"sent": "zebra you can see its eye but not nose", "ann_id": 588247, "best_split": [1, 3], "split_score": 0.4727839822681968}
+{"sent": "behind closest zebra", "ann_id": 588247, "best_split": [1, 3], "split_score": 0.4727839822681968}
+{"sent": "m i d d le zebra", "ann_id": 588247, "best_split": [1, 3], "split_score": 0.4727839822681968}
+{"sent": "zebra closest to us", "ann_id": 588203, "best_split": [1, 2], "split_score": 0.36752167891978715}
+{"sent": "zebra in front", "ann_id": 588203, "best_split": [1, 2], "split_score": 0.36752167891978715}
+{"sent": "z closest to us", "ann_id": 588203, "best_split": [1, 2], "split_score": 0.36752167891978715}

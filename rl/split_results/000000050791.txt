@@ -1,0 +1,5 @@
+{"sent": "donut at 4 o clock", "ann_id": 1574062, "best_split": [2, 3], "split_score": 0.27028646766507414}
+{"sent": "donut standing up closest to begining of bowl", "ann_id": 1573551, "best_split": [2, 2], "split_score": 0.24505739793964784}
+{"sent": "donut closest to camera with full hole seen", "ann_id": 1573551, "best_split": [2, 2], "split_score": 0.24505739793964784}
+{"sent": "the biggest donut you see", "ann_id": 1573551, "best_split": [2, 2], "split_score": 0.24505739793964784}
+{"sent": "donut closest to paper closest to scarf", "ann_id": 1573390, "best_split": [3, 3], "split_score": 0.23763066197950683}

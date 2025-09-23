@@ -1,0 +1,6 @@
+{"sent": "mom in striped pants", "ann_id": 2154439, "best_split": [3, 3], "split_score": 0.44883359246518917}
+{"sent": "stropped pants", "ann_id": 2154439, "best_split": [1, 5], "split_score": 0.3501577286721059}
+{"sent": "adult in striped pants", "ann_id": 2154439, "best_split": [3, 3], "split_score": 0.44883359246518917}
+{"sent": "little girl", "ann_id": 478147, "best_split": [2, 3], "split_score": 0.4444824831171422}
+{"sent": "the child", "ann_id": 478147, "best_split": [2, 3], "split_score": 0.4444824831171422}
+{"sent": "child", "ann_id": 478147, "best_split": [2, 3], "split_score": 0.4444824831171422}

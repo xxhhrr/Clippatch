@@ -1,0 +1,9 @@
+{"sent": "red chair bed", "ann_id": 1956808, "best_split": [3, 2], "split_score": 0.5164835164328411}
+{"sent": "bed closer to far window", "ann_id": 1956808, "best_split": [3, 2], "split_score": 0.5164835164328411}
+{"sent": "red couch", "ann_id": 1956808, "best_split": [3, 2], "split_score": 0.5164835164328411}
+{"sent": "bed with suitcase", "ann_id": 318670, "best_split": [2, 1], "split_score": 0.6652360514764244}
+{"sent": "bed with luggage", "ann_id": 318670, "best_split": [2, 1], "split_score": 0.6652360514764244}
+{"sent": "bed in between", "ann_id": 318670, "best_split": [2, 1], "split_score": 0.6652360514764244}
+{"sent": "bed that person is sitting on", "ann_id": 318317, "best_split": [3, 1], "split_score": 0.5786076254477192}
+{"sent": "bed person is siitting on", "ann_id": 318317, "best_split": [3, 1], "split_score": 0.5786076254477192}
+{"sent": "white bed closest to camera", "ann_id": 318317, "best_split": [3, 2], "split_score": 0.7494129157779439}

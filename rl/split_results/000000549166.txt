@@ -1,0 +1,6 @@
+{"sent": "2 empty seat", "ann_id": 289755, "best_split": [2, 1], "split_score": 0.2545440050918948}
+{"sent": "closest full visible chaitr", "ann_id": 289755, "best_split": [2, 2], "split_score": 0.287142177175009}
+{"sent": "empty chair can see most of it", "ann_id": 289755, "best_split": [2, 3], "split_score": 0.7068744910193236}
+{"sent": "chair closest to camera", "ann_id": 100116, "best_split": [2, 2], "split_score": 0.37914540813304004}
+{"sent": "partial chair closest to us", "ann_id": 100116, "best_split": [2, 2], "split_score": 0.37914540813304004}
+{"sent": "chair in your face", "ann_id": 100116, "best_split": [2, 2], "split_score": 0.37914540813304004}

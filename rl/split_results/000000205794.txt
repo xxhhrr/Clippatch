@@ -1,0 +1,6 @@
+{"sent": "bed made", "ann_id": 318517, "best_split": [2, 2], "split_score": 0.42807017541177506}
+{"sent": "bed we cant see entirely", "ann_id": 318517, "best_split": [2, 2], "split_score": 0.42807017541177506}
+{"sent": "made bed", "ann_id": 318517, "best_split": [2, 2], "split_score": 0.42807017541177506}
+{"sent": "bed", "ann_id": 318373, "best_split": [3, 1], "split_score": 0.4918872758063681}
+{"sent": "unmade bed", "ann_id": 318373, "best_split": [3, 1], "split_score": 0.4918872758063681}
+{"sent": "mattress", "ann_id": 318373, "best_split": [3, 1], "split_score": 0.4918872758063681}

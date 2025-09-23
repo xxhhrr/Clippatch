@@ -1,0 +1,6 @@
+{"sent": "bike tied to sign", "ann_id": 127230, "best_split": [2, 3], "split_score": 0.6594926978522573}
+{"sent": "red bicycle", "ann_id": 127230, "best_split": [2, 3], "split_score": 0.6594926978522573}
+{"sent": "red bike", "ann_id": 127230, "best_split": [2, 3], "split_score": 0.6594926978522573}
+{"sent": "bike closer to purple glass", "ann_id": 125130, "best_split": [3, 1], "split_score": 0.3668124851994081}
+{"sent": "the bicycle next to the red one wheel is not turned", "ann_id": 125130, "best_split": [3, 1], "split_score": 0.3668124851994081}
+{"sent": "last bike left to right", "ann_id": 125130, "best_split": [3, 1], "split_score": 0.3668124851994081}

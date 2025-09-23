@@ -1,0 +1,6 @@
+{"sent": "the headlights of the front facing car", "ann_id": 1192249, "best_split": [2, 1], "split_score": 0.25027901784716683}
+{"sent": "front facing headlights", "ann_id": 1192249, "best_split": [3, 2], "split_score": 0.43503103138261934}
+{"sent": "car with blinding white headlights", "ann_id": 1192249, "best_split": [2, 1], "split_score": 0.25027901784716683}
+{"sent": "car out of pic edge", "ann_id": 357224, "best_split": [2, 3], "split_score": 0.41219397358613535}
+{"sent": "last car in the line", "ann_id": 357224, "best_split": [2, 3], "split_score": 0.41219397358613535}
+{"sent": "car back of line", "ann_id": 357224, "best_split": [2, 3], "split_score": 0.41219397358613535}

@@ -1,0 +1,5 @@
+{"sent": "dog on book cover", "ann_id": 1403052, "best_split": [1, 2], "split_score": 0.42303886924300216}
+{"sent": "dog on cover", "ann_id": 1403052, "best_split": [1, 2], "split_score": 0.42303886924300216}
+{"sent": "dog on pillow", "ann_id": 5597, "best_split": [3, 3], "split_score": 0.4029332912154339}
+{"sent": "dog on pillow", "ann_id": 5597, "best_split": [3, 3], "split_score": 0.4029332912154339}
+{"sent": "real dog", "ann_id": 5597, "best_split": [1, 3], "split_score": 0.039509253480998686}

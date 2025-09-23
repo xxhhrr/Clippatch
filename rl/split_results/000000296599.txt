@@ -1,0 +1,6 @@
+{"sent": "train not the red one", "ann_id": 172995, "best_split": [5, 1], "split_score": 0.34381757417497366}
+{"sent": "white building", "ann_id": 172995, "best_split": [5, 1], "split_score": 0.34381757417497366}
+{"sent": "white building or gararage", "ann_id": 172995, "best_split": [3, 2], "split_score": 0.4604247103691572}
+{"sent": "red train", "ann_id": 169833, "best_split": [3, 2], "split_score": 0.33442469593844426}
+{"sent": "train on track", "ann_id": 169833, "best_split": [3, 2], "split_score": 0.33442469593844426}
+{"sent": "red", "ann_id": 169833, "best_split": [3, 2], "split_score": 0.33442469593844426}

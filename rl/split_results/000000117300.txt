@@ -1,0 +1,15 @@
+{"sent": "man with denim jacket and glasses", "ann_id": 2164819, "best_split": [3, 1], "split_score": 0.17370092510822013}
+{"sent": "man in background with glasses", "ann_id": 2164819, "best_split": [1, 2], "split_score": 0.35574776784296286}
+{"sent": "man in glasses and dark jacket", "ann_id": 2164819, "best_split": [3, 1], "split_score": 0.17370092510822013}
+{"sent": "black body next to red jacket back", "ann_id": 1698722, "best_split": [2, 3], "split_score": 0.400253386570485}
+{"sent": "black arm behind red jacket", "ann_id": 1698722, "best_split": [2, 2], "split_score": 0.29279466886763883}
+{"sent": "person in black un der megaphone", "ann_id": 1698722, "best_split": [1, 5], "split_score": 0.5417956655822566}
+{"sent": "person in black off screen", "ann_id": 1230240, "best_split": [1, 5], "split_score": 0.500202922027171}
+{"sent": "just an edge of a person", "ann_id": 1230240, "best_split": [2, 1], "split_score": 0.12011642225007961}
+{"sent": "edge of photo person that would get pie in face", "ann_id": 1230240, "best_split": [2, 2], "split_score": 0.10854532765916733}
+{"sent": "her", "ann_id": 514295, "best_split": [1, 2], "split_score": 0.5052660882358543}
+{"sent": "lady holding plate", "ann_id": 514295, "best_split": [1, 2], "split_score": 0.5052660882358543}
+{"sent": "red coat", "ann_id": 514295, "best_split": [2, 1], "split_score": 0.5027560331533939}
+{"sent": "man in light colored shirt holding the bullhorn", "ann_id": 461625, "best_split": [2, 3], "split_score": 0.36564044086225383}
+{"sent": "man in yellow", "ann_id": 461625, "best_split": [2, 2], "split_score": 0.4090771557935645}
+{"sent": "man holding blow horn", "ann_id": 461625, "best_split": [2, 2], "split_score": 0.4090771557935645}

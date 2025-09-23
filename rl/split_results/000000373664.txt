@@ -1,0 +1,6 @@
+{"sent": "can see part of chair brown", "ann_id": 289864, "best_split": [3, 3], "split_score": 0.5478166725824942}
+{"sent": "closest chair with wooden arms", "ann_id": 289864, "best_split": [3, 3], "split_score": 0.5478166725824942}
+{"sent": "partial chair 7cl", "ann_id": 289864, "best_split": [2, 3], "split_score": 0.3634187215270028}
+{"sent": "chair with wooden arms nearest the fireplace", "ann_id": 102681, "best_split": [3, 2], "split_score": 0.3302815514539987}
+{"sent": "chair by fireplace", "ann_id": 102681, "best_split": [3, 2], "split_score": 0.3302815514539987}
+{"sent": "chair with black arms", "ann_id": 102681, "best_split": [3, 3], "split_score": 0.40988142287089835}

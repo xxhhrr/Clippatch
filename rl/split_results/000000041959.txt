@@ -1,0 +1,6 @@
+{"sent": "giraffe nearest woman", "ann_id": 598209, "best_split": [3, 1], "split_score": 0.5889132820844867}
+{"sent": "higher giraffe", "ann_id": 598209, "best_split": [3, 1], "split_score": 0.5889132820844867}
+{"sent": "giraffe with head closer to people", "ann_id": 598209, "best_split": [3, 1], "split_score": 0.5889132820844867}
+{"sent": "lower giraffe", "ann_id": 598109, "best_split": [3, 2], "split_score": 0.6127760251675556}
+{"sent": "bending over", "ann_id": 598109, "best_split": [3, 2], "split_score": 0.6127760251675556}
+{"sent": "giraffe with the lowest head", "ann_id": 598109, "best_split": [3, 2], "split_score": 0.6127760251675556}

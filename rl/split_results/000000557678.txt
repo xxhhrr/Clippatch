@@ -1,0 +1,9 @@
+{"sent": "monitor with time on it", "ann_id": 2134229, "best_split": [2, 3], "split_score": 0.47490717445503566}
+{"sent": "bright screen", "ann_id": 2134229, "best_split": [2, 3], "split_score": 0.47490717445503566}
+{"sent": "monitor with time", "ann_id": 2134229, "best_split": [2, 3], "split_score": 0.47490717445503566}
+{"sent": "the computer screen with a smaller picture of a globe", "ann_id": 2134069, "best_split": [3, 3], "split_score": 0.40613537839177466}
+{"sent": "smallest screen", "ann_id": 2134069, "best_split": [3, 3], "split_score": 0.40613537839177466}
+{"sent": "smallest monitor", "ann_id": 2134069, "best_split": [3, 3], "split_score": 0.40613537839177466}
+{"sent": "screen between", "ann_id": 2133992, "best_split": [2, 1], "split_score": 0.29878072381270443}
+{"sent": "tallest monitor", "ann_id": 2133992, "best_split": [2, 2], "split_score": 0.3217993079382322}
+{"sent": "big monitor green globe", "ann_id": 2133992, "best_split": [2, 3], "split_score": 0.5781838733441801}

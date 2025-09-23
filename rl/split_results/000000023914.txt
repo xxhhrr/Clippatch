@@ -1,0 +1,5 @@
+{"sent": "chair in the light", "ann_id": 116858, "best_split": [3, 1], "split_score": 0.5661196910855382}
+{"sent": "couch arm with remote on it", "ann_id": 116858, "best_split": [2, 2], "split_score": 0.5442253520743503}
+{"sent": "couch nearest us", "ann_id": 116858, "best_split": [2, 3], "split_score": 0.40633455352488185}
+{"sent": "part of sofa behind dogs head", "ann_id": 116839, "best_split": [1, 3], "split_score": 0.3178404708586442}
+{"sent": "largest part of the couch that is darker and harder to see", "ann_id": 116839, "best_split": [1, 3], "split_score": 0.3178404708586442}

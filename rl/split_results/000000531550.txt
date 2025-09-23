@@ -1,0 +1,6 @@
+{"sent": "goose at 3 o clock", "ann_id": 44124, "best_split": [3, 3], "split_score": 0.404845642789679}
+{"sent": "shorter adult", "ann_id": 44124, "best_split": [1, 2], "split_score": 0.3549107142715677}
+{"sent": "full size goose with neck bent", "ann_id": 44124, "best_split": [3, 3], "split_score": 0.404845642789679}
+{"sent": "dad", "ann_id": 40662, "best_split": [2, 1], "split_score": 0.20024449877138617}
+{"sent": "tall bird", "ann_id": 40662, "best_split": [2, 1], "split_score": 0.20024449877138617}
+{"sent": "taller duck", "ann_id": 40662, "best_split": [1, 5], "split_score": 0.5638823835178323}

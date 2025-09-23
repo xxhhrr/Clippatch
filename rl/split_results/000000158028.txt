@@ -1,0 +1,14 @@
+{"sent": "bananas with paper brown square on it", "ann_id": 1545683, "best_split": [5, 1], "split_score": 0.2328042327849864}
+{"sent": "bunch with the little piece of gray paper on it", "ann_id": 1545683, "best_split": [2, 3], "split_score": 0.4055192752890753}
+{"sent": "bananas with paper on it", "ann_id": 1545683, "best_split": [5, 1], "split_score": 0.2328042327849864}
+{"sent": "yellowest bananas", "ann_id": 1545228, "best_split": [2, 2], "split_score": 0.4379783162916152}
+{"sent": "yellow bunch next to green bunch", "ann_id": 1545228, "best_split": [2, 2], "split_score": 0.4379783162916152}
+{"sent": "greenest bunch of bananas", "ann_id": 1544912, "best_split": [3, 3], "split_score": 0.7672240801392601}
+{"sent": "mostly green banana bunch closest to empty space", "ann_id": 1544912, "best_split": [3, 2], "split_score": 0.31202196506059793}
+{"sent": "banana at 12 o clock", "ann_id": 1544912, "best_split": [3, 2], "split_score": 0.31202196506059793}
+{"sent": "banana bunch that is leaning down", "ann_id": 1905011, "best_split": [2, 3], "split_score": 0.6025697341749868}
+{"sent": "three bananas with only two stickers on them", "ann_id": 1905011, "best_split": [2, 3], "split_score": 0.6025697341749868}
+{"sent": "set of bananas more sideways than the other bananas and partially covering another set of banans", "ann_id": 1905011, "best_split": [2, 3], "split_score": 0.6025697341749868}
+{"sent": "the bunch of bananas next to the gray tape bananas", "ann_id": 1544262, "best_split": [1, 3], "split_score": 0.1867637048962373}
+{"sent": "bunch of bananas next to banans with paper on it", "ann_id": 1544262, "best_split": [1, 3], "split_score": 0.1867637048962373}
+{"sent": "not lowest row not highest row closest", "ann_id": 1541784, "best_split": [2, 1], "split_score": 0.2878268494783232}

@@ -1,0 +1,6 @@
+{"sent": "dog without clothes", "ann_id": 15243, "best_split": [2, 3], "split_score": 0.7077562326257136}
+{"sent": "dog not in clothes", "ann_id": 15243, "best_split": [2, 3], "split_score": 0.7077562326257136}
+{"sent": "white dog without sweater", "ann_id": 15243, "best_split": [2, 3], "split_score": 0.7077562326257136}
+{"sent": "goat wearing red", "ann_id": 4220, "best_split": [1, 3], "split_score": 0.39510233916065673}
+{"sent": "dog in red", "ann_id": 4220, "best_split": [1, 3], "split_score": 0.39510233916065673}
+{"sent": "dog with sweater", "ann_id": 4220, "best_split": [1, 3], "split_score": 0.39510233916065673}

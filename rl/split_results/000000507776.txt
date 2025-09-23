@@ -1,0 +1,9 @@
+{"sent": "tower ladder 35", "ann_id": 1800502, "best_split": [2, 1], "split_score": 0.493557079196074}
+{"sent": "lift in air", "ann_id": 1800502, "best_split": [1, 3], "split_score": 0.3519494204325478}
+{"sent": "tower ladder cherry picker", "ann_id": 1800502, "best_split": [2, 1], "split_score": 0.493557079196074}
+{"sent": "red car", "ann_id": 1800329, "best_split": [5, 1], "split_score": 0.38007452437928274}
+{"sent": "red car", "ann_id": 1800329, "best_split": [5, 1], "split_score": 0.38007452437928274}
+{"sent": "red truck", "ann_id": 1800329, "best_split": [5, 1], "split_score": 0.38007452437928274}
+{"sent": "the ambulance", "ann_id": 1799319, "best_split": [2, 3], "split_score": 0.8311179803368245}
+{"sent": "ambuance", "ann_id": 1799319, "best_split": [2, 3], "split_score": 0.8311179803368245}
+{"sent": "the back portion of an emt vehicle", "ann_id": 1799319, "best_split": [2, 3], "split_score": 0.8311179803368245}

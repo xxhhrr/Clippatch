@@ -1,0 +1,6 @@
+{"sent": "couch without white cushion", "ann_id": 113263, "best_split": [2, 3], "split_score": 0.8708702223201392}
+{"sent": "wicker couch without any white", "ann_id": 113263, "best_split": [2, 3], "split_score": 0.8708702223201392}
+{"sent": "the white stripes", "ann_id": 113263, "best_split": [2, 2], "split_score": 0.6778606964647185}
+{"sent": "white cushion along edge", "ann_id": 98735, "best_split": [1, 2], "split_score": 0.32281476805290255}
+{"sent": "sofa with the white cushion", "ann_id": 98735, "best_split": [2, 1], "split_score": 0.3116395494246073}
+{"sent": "non curved couch piece", "ann_id": 98735, "best_split": [2, 1], "split_score": 0.3116395494246073}

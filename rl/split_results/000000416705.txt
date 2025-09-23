@@ -1,0 +1,6 @@
+{"sent": "white pizza", "ann_id": 1072881, "best_split": [1, 2], "split_score": 0.15314569535820144}
+{"sent": "white pie", "ann_id": 1072881, "best_split": [1, 2], "split_score": 0.15314569535820144}
+{"sent": "white pizza", "ann_id": 1072881, "best_split": [1, 2], "split_score": 0.15314569535820144}
+{"sent": "seafood pizza", "ann_id": 1072565, "best_split": [2, 1], "split_score": 0.754392008241323}
+{"sent": "pizza", "ann_id": 1072565, "best_split": [2, 1], "split_score": 0.754392008241323}
+{"sent": "pizza closest to you", "ann_id": 1072565, "best_split": [2, 1], "split_score": 0.754392008241323}

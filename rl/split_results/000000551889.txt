@@ -1,0 +1,9 @@
+{"sent": "seashell vase", "ann_id": 1993190, "best_split": [3, 2], "split_score": 0.39736414511668494}
+{"sent": "shortest vase", "ann_id": 1993190, "best_split": [3, 2], "split_score": 0.39736414511668494}
+{"sent": "shortest", "ann_id": 1993190, "best_split": [3, 2], "split_score": 0.39736414511668494}
+{"sent": "drak vase", "ann_id": 1156698, "best_split": [1, 5], "split_score": 0.6198281207920768}
+{"sent": "brown vase", "ann_id": 1156698, "best_split": [1, 5], "split_score": 0.6198281207920768}
+{"sent": "the brown glass", "ann_id": 1156698, "best_split": [1, 5], "split_score": 0.6198281207920768}
+{"sent": "in between vase", "ann_id": 1155378, "best_split": [1, 3], "split_score": 0.5050675675370977}
+{"sent": "picture of a person", "ann_id": 1155378, "best_split": [3, 2], "split_score": 0.19034009715702058}
+{"sent": "tallest", "ann_id": 1155378, "best_split": [1, 5], "split_score": 0.5139534883294058}

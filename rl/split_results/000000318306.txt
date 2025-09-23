@@ -1,0 +1,5 @@
+{"sent": "glass closest to large water bottle", "ann_id": 663024, "best_split": [1, 2], "split_score": 0.6133211096694308}
+{"sent": "more full wine glass", "ann_id": 663024, "best_split": [1, 5], "split_score": 0.6358628733953818}
+{"sent": "glass less wine", "ann_id": 662730, "best_split": [2, 1], "split_score": 0.23647209202518496}
+{"sent": "least wine in glass", "ann_id": 662730, "best_split": [2, 1], "split_score": 0.23647209202518496}
+{"sent": "glass with less wine", "ann_id": 662730, "best_split": [2, 1], "split_score": 0.23647209202518496}

@@ -1,0 +1,6 @@
+{"sent": "dog", "ann_id": 401178, "best_split": [3, 3], "split_score": 0.3810868030379169}
+{"sent": "big dog picture", "ann_id": 401178, "best_split": [3, 3], "split_score": 0.3810868030379169}
+{"sent": "dog", "ann_id": 401178, "best_split": [3, 3], "split_score": 0.3810868030379169}
+{"sent": "big red truck", "ann_id": 399518, "best_split": [3, 1], "split_score": 0.4651947255264798}
+{"sent": "red truck", "ann_id": 399518, "best_split": [3, 1], "split_score": 0.4651947255264798}
+{"sent": "closest truck", "ann_id": 399518, "best_split": [3, 1], "split_score": 0.4651947255264798}

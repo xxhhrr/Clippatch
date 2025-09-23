@@ -1,0 +1,6 @@
+{"sent": "pizza with two olives", "ann_id": 1075539, "best_split": [3, 3], "split_score": 0.4780082987056008}
+{"sent": "piece at 11 oclock", "ann_id": 1075539, "best_split": [3, 3], "split_score": 0.4780082987056008}
+{"sent": "higher pizza", "ann_id": 1075539, "best_split": [3, 3], "split_score": 0.4780082987056008}
+{"sent": "pizza with biggest nose", "ann_id": 1072987, "best_split": [3, 1], "split_score": 0.5229681978509845}
+{"sent": "pizza with three visible olives", "ann_id": 1072987, "best_split": [3, 1], "split_score": 0.5229681978509845}
+{"sent": "three olives seen fully", "ann_id": 1072987, "best_split": [3, 1], "split_score": 0.5229681978509845}

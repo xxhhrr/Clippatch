@@ -1,0 +1,6 @@
+{"sent": "umbrella on one red chair", "ann_id": 286950, "best_split": [2, 1], "split_score": 0.2703098673990803}
+{"sent": "umbrella near single chair", "ann_id": 286950, "best_split": [2, 1], "split_score": 0.2703098673990803}
+{"sent": "rightiest umbrella", "ann_id": 286950, "best_split": [2, 1], "split_score": 0.2703098673990803}
+{"sent": "umbrella by two chairs", "ann_id": 279701, "best_split": [3, 2], "split_score": 0.503646832965101}
+{"sent": "umbrella on two chairs", "ann_id": 279701, "best_split": [3, 2], "split_score": 0.503646832965101}
+{"sent": "umbrella 900", "ann_id": 279701, "best_split": [3, 2], "split_score": 0.503646832965101}

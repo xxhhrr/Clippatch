@@ -1,0 +1,6 @@
+{"sent": "woman in maroon sweater", "ann_id": 455806, "best_split": [1, 3], "split_score": 0.606972400881564}
+{"sent": "blond woman", "ann_id": 455806, "best_split": [1, 3], "split_score": 0.606972400881564}
+{"sent": "red shirt", "ann_id": 455806, "best_split": [1, 3], "split_score": 0.606972400881564}
+{"sent": "older", "ann_id": 1206681, "best_split": [1, 2], "split_score": 0.42594068875853236}
+{"sent": "green lady", "ann_id": 1206681, "best_split": [3, 2], "split_score": 0.4372064838329642}
+{"sent": "oldest woman", "ann_id": 1206681, "best_split": [1, 2], "split_score": 0.42594068875853236}

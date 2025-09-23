@@ -1,0 +1,5 @@
+{"sent": "vehicle with headlights", "ann_id": 136186, "best_split": [5, 1], "split_score": 0.3839285713896176}
+{"sent": "black car", "ann_id": 136186, "best_split": [5, 1], "split_score": 0.3839285713896176}
+{"sent": "dark van", "ann_id": 136186, "best_split": [5, 1], "split_score": 0.3839285713896176}
+{"sent": "gray car", "ann_id": 133317, "best_split": [3, 2], "split_score": 0.9652173911909262}
+{"sent": "the car with the rear wheel showing", "ann_id": 133317, "best_split": [3, 2], "split_score": 0.9652173911909262}

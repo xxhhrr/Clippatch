@@ -1,0 +1,6 @@
+{"sent": "chair behind wine glass", "ann_id": 383646, "best_split": [3, 2], "split_score": 0.5559144125397745}
+{"sent": "seat behind the table with wine", "ann_id": 383646, "best_split": [3, 2], "split_score": 0.5559144125397745}
+{"sent": "chair behind wine glass", "ann_id": 383646, "best_split": [3, 2], "split_score": 0.5559144125397745}
+{"sent": "chair with back showing", "ann_id": 379579, "best_split": [3, 2], "split_score": 0.35714285710144444}
+{"sent": "chair behind burger", "ann_id": 379579, "best_split": [3, 2], "split_score": 0.35714285710144444}
+{"sent": "chair near corner of table not edge", "ann_id": 379579, "best_split": [3, 2], "split_score": 0.35714285710144444}

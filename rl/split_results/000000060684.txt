@@ -1,0 +1,6 @@
+{"sent": "truck with open door behind it", "ann_id": 397909, "best_split": [3, 2], "split_score": 0.2779535387979794}
+{"sent": "old truck with sodmething sticking out of the truck be", "ann_id": 397909, "best_split": [2, 2], "split_score": 0.45764323635330506}
+{"sent": "tow truck", "ann_id": 397909, "best_split": [2, 2], "split_score": 0.45764323635330506}
+{"sent": "truck to the east", "ann_id": 396927, "best_split": [3, 3], "split_score": 0.39671922274299737}
+{"sent": "truck with rust on the roof", "ann_id": 396927, "best_split": [3, 3], "split_score": 0.39671922274299737}
+{"sent": "parked car at 4 o clock", "ann_id": 396927, "best_split": [3, 3], "split_score": 0.39671922274299737}

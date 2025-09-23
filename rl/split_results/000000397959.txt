@@ -1,0 +1,8 @@
+{"sent": "orange hat", "ann_id": 1732558, "best_split": [1, 2], "split_score": 0.7887436224175405}
+{"sent": "orange hat man", "ann_id": 1732558, "best_split": [1, 2], "split_score": 0.7887436224175405}
+{"sent": "orange hat", "ann_id": 1732558, "best_split": [1, 2], "split_score": 0.7887436224175405}
+{"sent": "man in the black and white snow hat", "ann_id": 521840, "best_split": [5, 1], "split_score": 0.08179339593442946}
+{"sent": "man with dark hat", "ann_id": 521840, "best_split": [5, 1], "split_score": 0.08179339593442946}
+{"sent": "smiling woman", "ann_id": 472198, "best_split": [1, 5], "split_score": 0.4429930655988556}
+{"sent": "only woman", "ann_id": 472198, "best_split": [3, 2], "split_score": 0.2828409804931772}
+{"sent": "person faceing us", "ann_id": 472198, "best_split": [2, 3], "split_score": 0.4633446853859702}

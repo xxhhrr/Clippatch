@@ -1,0 +1,6 @@
+{"sent": "white bus 94", "ann_id": 169258, "best_split": [3, 1], "split_score": 0.37923678594576693}
+{"sent": "white bus", "ann_id": 169258, "best_split": [3, 1], "split_score": 0.37923678594576693}
+{"sent": "orange bus", "ann_id": 169258, "best_split": [3, 2], "split_score": 0.7452258965131315}
+{"sent": "red bus", "ann_id": 169003, "best_split": [3, 2], "split_score": 0.770475020396143}
+{"sent": "red bus", "ann_id": 169003, "best_split": [3, 2], "split_score": 0.770475020396143}
+{"sent": "53 bus", "ann_id": 169003, "best_split": [3, 2], "split_score": 0.770475020396143}

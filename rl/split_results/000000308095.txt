@@ -1,0 +1,5 @@
+{"sent": "white shirt with nike shoes", "ann_id": 1264243, "best_split": [1, 5], "split_score": 0.5129870129349647}
+{"sent": "white shirt on wall closest to you", "ann_id": 1264243, "best_split": [1, 5], "split_score": 0.5129870129349647}
+{"sent": "white shirt black pants nike shoes", "ann_id": 1264243, "best_split": [1, 5], "split_score": 0.5129870129349647}
+{"sent": "person with plaid bookbag nearest camer", "ann_id": 1327366, "best_split": [3, 3], "split_score": 0.33881448079315546}
+{"sent": "closest plaid shirt", "ann_id": 1327366, "best_split": [3, 3], "split_score": 0.33881448079315546}

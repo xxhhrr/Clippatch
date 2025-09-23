@@ -1,0 +1,8 @@
+{"sent": "yellow banana with sticker with two words", "ann_id": 1543936, "best_split": [1, 3], "split_score": 0.8736528728268144}
+{"sent": "yellow banana close to edge of screen", "ann_id": 1543936, "best_split": [3, 3], "split_score": 0.3047210300233988}
+{"sent": "greener bunch of bananas", "ann_id": 1046590, "best_split": [1, 2], "split_score": 0.9290205287126346}
+{"sent": "green bananas", "ann_id": 1046590, "best_split": [1, 2], "split_score": 0.9290205287126346}
+{"sent": "green one", "ann_id": 1046590, "best_split": [1, 2], "split_score": 0.9290205287126346}
+{"sent": "chiquita banana near face sticker", "ann_id": 1044661, "best_split": [1, 3], "split_score": 0.7809917354935787}
+{"sent": "no face sticker yellow banana next to one with face", "ann_id": 1044661, "best_split": [1, 3], "split_score": 0.7809917354935787}
+{"sent": "yellow banana next to one with some dark spots", "ann_id": 1044661, "best_split": [1, 3], "split_score": 0.7809917354935787}

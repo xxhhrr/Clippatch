@@ -1,0 +1,6 @@
+{"sent": "elephant without tusks", "ann_id": 583095, "best_split": [3, 1], "split_score": 0.33210248251252045}
+{"sent": "elephant no tusks", "ann_id": 583095, "best_split": [3, 1], "split_score": 0.33210248251252045}
+{"sent": "elephant with no tusk", "ann_id": 583095, "best_split": [3, 1], "split_score": 0.33210248251252045}
+{"sent": "elephant taking step wiht leg off ground", "ann_id": 581863, "best_split": [3, 2], "split_score": 0.4149041873374802}
+{"sent": "tuskers", "ann_id": 581863, "best_split": [3, 2], "split_score": 0.4149041873374802}
+{"sent": "elephant with tusks", "ann_id": 581863, "best_split": [3, 2], "split_score": 0.4149041873374802}

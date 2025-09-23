@@ -1,0 +1,9 @@
+{"sent": "white bike next to truck", "ann_id": 154039, "best_split": [1, 5], "split_score": 0.38762725133245624}
+{"sent": "bike by red truck", "ann_id": 154039, "best_split": [5, 1], "split_score": 0.175066312982836}
+{"sent": "lol white bike next truck", "ann_id": 154039, "best_split": [1, 5], "split_score": 0.38762725133245624}
+{"sent": "like an inch over heh here white bike next to black bike", "ann_id": 152477, "best_split": [3, 3], "split_score": 0.5899789159630436}
+{"sent": "motorcycle near rear passenger window of truck", "ann_id": 152477, "best_split": [2, 3], "split_score": 0.45535797407547174}
+{"sent": "white bike next to all black one", "ann_id": 152477, "best_split": [3, 3], "split_score": 0.5899789159630436}
+{"sent": "black motorcycle", "ann_id": 152099, "best_split": [3, 2], "split_score": 0.44818304168504514}
+{"sent": "black bike", "ann_id": 152099, "best_split": [3, 2], "split_score": 0.44818304168504514}
+{"sent": "black motorcycle", "ann_id": 152099, "best_split": [3, 2], "split_score": 0.44818304168504514}

@@ -1,0 +1,5 @@
+{"sent": "main tail of plane in photo", "ann_id": 1793592, "best_split": [3, 3], "split_score": 0.6423944026117654}
+{"sent": "plane in air dark gray color", "ann_id": 1793592, "best_split": [3, 3], "split_score": 0.6423944026117654}
+{"sent": "plain partly out of frame", "ann_id": 156376, "best_split": [1, 2], "split_score": 0.33064839449172106}
+{"sent": "plane with orange yallow and brown stripes", "ann_id": 156376, "best_split": [3, 2], "split_score": 0.7089222231241722}
+{"sent": "airplane in corner", "ann_id": 156376, "best_split": [3, 2], "split_score": 0.7089222231241722}

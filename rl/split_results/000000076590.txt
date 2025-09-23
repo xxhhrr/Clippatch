@@ -1,0 +1,17 @@
+{"sent": "arm in green", "ann_id": 1760330, "best_split": [3, 3], "split_score": 0.6074252319340967}
+{"sent": "arm close to bottle", "ann_id": 1760330, "best_split": [2, 1], "split_score": 0.15449617346322958}
+{"sent": "cut off hands", "ann_id": 1759890, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "person in white with belly", "ann_id": 1759890, "best_split": [1, 5], "split_score": 0.413961038919038}
+{"sent": "hands on belly", "ann_id": 1759890, "best_split": [1, 2], "split_score": 0.16262755101392587}
+{"sent": "glass cut off side", "ann_id": 683530, "best_split": [2, 3], "split_score": 0.20523648646172338}
+{"sent": "empty glass", "ann_id": 683530, "best_split": [2, 3], "split_score": 0.20523648646172338}
+{"sent": "empty glass with straw", "ann_id": 683530, "best_split": [2, 3], "split_score": 0.20523648646172338}
+{"sent": "tall oj", "ann_id": 683423, "best_split": [3, 3], "split_score": 0.27788911151003853}
+{"sent": "orange drink that is the fullest", "ann_id": 683423, "best_split": [3, 3], "split_score": 0.27788911151003853}
+{"sent": "glass with most juice", "ann_id": 683423, "best_split": [3, 3], "split_score": 0.27788911151003853}
+{"sent": "black shirt", "ann_id": 1761609, "best_split": [1, 3], "split_score": 0.11314475872871733}
+{"sent": "man wearing black sweater", "ann_id": 1761609, "best_split": [1, 3], "split_score": 0.11314475872871733}
+{"sent": "black at 1pm", "ann_id": 1761609, "best_split": [1, 2], "split_score": 0.08593749999657456}
+{"sent": "the orange juice glass thats less full", "ann_id": 676341, "best_split": [3, 2], "split_score": 0.1373375482803726}
+{"sent": "half drink glass", "ann_id": 676341, "best_split": [3, 2], "split_score": 0.1373375482803726}
+{"sent": "half full oj", "ann_id": 676341, "best_split": [3, 2], "split_score": 0.1373375482803726}

@@ -1,0 +1,6 @@
+{"sent": "anyone but the two guys at the far end of the table", "ann_id": 506506, "best_split": [3, 1], "split_score": 0.5857589095347948}
+{"sent": "any woman", "ann_id": 506506, "best_split": [3, 1], "split_score": 0.5857589095347948}
+{"sent": "two people at a table", "ann_id": 506506, "best_split": [3, 1], "split_score": 0.5857589095347948}
+{"sent": "bald guy", "ann_id": 495644, "best_split": [1, 2], "split_score": 0.1499521683613699}
+{"sent": "white guy between guirls", "ann_id": 495644, "best_split": [2, 3], "split_score": 0.2052410481891137}
+{"sent": "bald man", "ann_id": 495644, "best_split": [1, 2], "split_score": 0.1499521683613699}

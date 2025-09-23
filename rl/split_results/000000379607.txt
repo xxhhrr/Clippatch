@@ -1,0 +1,5 @@
+{"sent": "dog with head on shoulder", "ann_id": 15466, "best_split": [1, 5], "split_score": 0.4929991882616681}
+{"sent": "dog at 3 oo clock", "ann_id": 15466, "best_split": [1, 5], "split_score": 0.4929991882616681}
+{"sent": "dog looking away", "ann_id": 5347, "best_split": [3, 2], "split_score": 0.3359360121561668}
+{"sent": "dog with collar", "ann_id": 5347, "best_split": [3, 2], "split_score": 0.3359360121561668}
+{"sent": "black dog head turned to the truck", "ann_id": 5347, "best_split": [3, 2], "split_score": 0.3359360121561668}

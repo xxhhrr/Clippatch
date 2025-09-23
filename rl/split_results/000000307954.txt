@@ -1,0 +1,6 @@
+{"sent": "tv", "ann_id": 2227445, "best_split": [2, 3], "split_score": 0.500432900378741}
+{"sent": "clearer tv", "ann_id": 2227445, "best_split": [2, 3], "split_score": 0.500432900378741}
+{"sent": "tv not pc", "ann_id": 2227445, "best_split": [2, 3], "split_score": 0.500432900378741}
+{"sent": "monitor with head", "ann_id": 321121, "best_split": [2, 1], "split_score": 0.3097798258989446}
+{"sent": "the monitor with the male face", "ann_id": 321121, "best_split": [2, 2], "split_score": 0.5175363558320393}
+{"sent": "monitor with mans face on it", "ann_id": 321121, "best_split": [2, 2], "split_score": 0.5175363558320393}

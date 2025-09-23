@@ -1,0 +1,18 @@
+{"sent": "wooman holding boy cutting cake", "ann_id": 1310494, "best_split": [2, 1], "split_score": 0.28406505913659963}
+{"sent": "woman holding kid", "ann_id": 1310494, "best_split": [1, 3], "split_score": 0.8192017473779188}
+{"sent": "lady holdin boy cuttin cake", "ann_id": 1310494, "best_split": [2, 1], "split_score": 0.28406505913659963}
+{"sent": "little kid in blue stripes", "ann_id": 1304956, "best_split": [1, 2], "split_score": 0.5855751837514692}
+{"sent": "baby striped shirt", "ann_id": 1304956, "best_split": [1, 2], "split_score": 0.5855751837514692}
+{"sent": "baby cutting cake", "ann_id": 1304956, "best_split": [2, 1], "split_score": 0.32011022813637174}
+{"sent": "blond boy with blue shirt", "ann_id": 1304956, "best_split": [1, 2], "split_score": 0.5855751837514692}
+{"sent": "plaid shirt", "ann_id": 1328603, "best_split": [1, 5], "split_score": 0.37051482055669704}
+{"sent": "striped shirt", "ann_id": 1328603, "best_split": [1, 5], "split_score": 0.37051482055669704}
+{"sent": "guy in blue white plaid", "ann_id": 1328603, "best_split": [1, 5], "split_score": 0.37051482055669704}
+{"sent": "woman with back turned reaching for baby with flower shirt", "ann_id": 1326788, "best_split": [3, 3], "split_score": 0.8024975351951203}
+{"sent": "woman touching babys face", "ann_id": 1326788, "best_split": [3, 1], "split_score": 0.28973819540148793}
+{"sent": "dark shirt facing camera", "ann_id": 1321153, "best_split": [1, 5], "split_score": 0.5141633407462121}
+{"sent": "kid black shirt", "ann_id": 1321153, "best_split": [1, 5], "split_score": 0.5141633407462121}
+{"sent": "black shirt kid", "ann_id": 1321153, "best_split": [1, 5], "split_score": 0.5141633407462121}
+{"sent": "man with knife", "ann_id": 1313688, "best_split": [2, 1], "split_score": 0.10912698412349184}
+{"sent": "man with black glasses", "ann_id": 1313688, "best_split": [1, 3], "split_score": 0.5609552238471072}
+{"sent": "man in glasses", "ann_id": 1313688, "best_split": [1, 3], "split_score": 0.5609552238471072}

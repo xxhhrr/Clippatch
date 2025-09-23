@@ -1,0 +1,6 @@
+{"sent": "smaller giraffe where face is seen", "ann_id": 595035, "best_split": [1, 3], "split_score": 0.3439490445664269}
+{"sent": "medium", "ann_id": 595035, "best_split": [1, 3], "split_score": 0.3439490445664269}
+{"sent": "medium giraffe", "ann_id": 595035, "best_split": [1, 3], "split_score": 0.3439490445664269}
+{"sent": "tallest giraffe", "ann_id": 594962, "best_split": [1, 2], "split_score": 0.6087282543263074}
+{"sent": "tallest", "ann_id": 594962, "best_split": [1, 2], "split_score": 0.6087282543263074}
+{"sent": "tallest giraffe", "ann_id": 594962, "best_split": [1, 2], "split_score": 0.6087282543263074}

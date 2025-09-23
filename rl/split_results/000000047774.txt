@@ -1,0 +1,5 @@
+{"sent": "stone planter with plants in it", "ann_id": 25434, "best_split": [3, 3], "split_score": 0.8946311174407174}
+{"sent": "box with plants in it", "ann_id": 25434, "best_split": [3, 3], "split_score": 0.8946311174407174}
+{"sent": "plants fartest to guy", "ann_id": 20068, "best_split": [3, 1], "split_score": 0.22804054052678327}
+{"sent": "flower box farthest from man", "ann_id": 20068, "best_split": [3, 1], "split_score": 0.22804054052678327}
+{"sent": "flower planter at 1 o clock", "ann_id": 20068, "best_split": [3, 1], "split_score": 0.22804054052678327}

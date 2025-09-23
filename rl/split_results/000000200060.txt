@@ -1,0 +1,6 @@
+{"sent": "horse less in view", "ann_id": 55431, "best_split": [1, 2], "split_score": 0.6930803571152312}
+{"sent": "horse looking down", "ann_id": 55431, "best_split": [1, 2], "split_score": 0.6930803571152312}
+{"sent": "horse with head down", "ann_id": 55431, "best_split": [1, 2], "split_score": 0.6930803571152312}
+{"sent": "bigger", "ann_id": 55390, "best_split": [1, 2], "split_score": 0.588888888872197}
+{"sent": "black horse that man is holding on to", "ann_id": 55390, "best_split": [1, 3], "split_score": 0.4389830508341712}
+{"sent": "horse closes to you", "ann_id": 55390, "best_split": [1, 3], "split_score": 0.4389830508341712}

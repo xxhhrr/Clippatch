@@ -1,0 +1,6 @@
+{"sent": "shorter man", "ann_id": 569441, "best_split": [1, 5], "split_score": 0.520655270608916}
+{"sent": "polo shirt", "ann_id": 569441, "best_split": [2, 1], "split_score": 0.16860759493061092}
+{"sent": "shortest standing", "ann_id": 569441, "best_split": [1, 5], "split_score": 0.520655270608916}
+{"sent": "sitting down", "ann_id": 564993, "best_split": [2, 1], "split_score": 0.13970017088163353}
+{"sent": "smallest person", "ann_id": 564993, "best_split": [2, 2], "split_score": 0.2724174492371692}
+{"sent": "woman in back white shirt sitting", "ann_id": 564993, "best_split": [1, 5], "split_score": 0.43191964281331985}

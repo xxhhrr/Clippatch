@@ -1,0 +1,6 @@
+{"sent": "the man with the yellow jersey", "ann_id": 1693657, "best_split": [1, 3], "split_score": 0.5625182162306896}
+{"sent": "yellow shirt", "ann_id": 1693657, "best_split": [1, 3], "split_score": 0.5625182162306896}
+{"sent": "yellow", "ann_id": 1693657, "best_split": [1, 3], "split_score": 0.5625182162306896}
+{"sent": "guy with bent leg", "ann_id": 1240903, "best_split": [1, 3], "split_score": 0.6134615384278318}
+{"sent": "has frisbee", "ann_id": 1240903, "best_split": [1, 3], "split_score": 0.6134615384278318}
+{"sent": "catching the frisbee", "ann_id": 1240903, "best_split": [1, 3], "split_score": 0.6134615384278318}

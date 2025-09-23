@@ -1,0 +1,6 @@
+{"sent": "empty glass", "ann_id": 1500360, "best_split": [1, 2], "split_score": 0.27957589284599904}
+{"sent": "red whine between rose and white", "ann_id": 1498128, "best_split": [1, 5], "split_score": 0.48789555589764}
+{"sent": "glass of red wine", "ann_id": 1498128, "best_split": [1, 3], "split_score": 0.44359314669138555}
+{"sent": "glass", "ann_id": 1497057, "best_split": [1, 5], "split_score": 0.5830528441111534}
+{"sent": "clear liquid glass", "ann_id": 1497057, "best_split": [1, 5], "split_score": 0.5830528441111534}
+{"sent": "closest wine glass", "ann_id": 1497057, "best_split": [1, 5], "split_score": 0.5830528441111534}

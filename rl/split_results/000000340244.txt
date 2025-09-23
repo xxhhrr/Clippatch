@@ -1,0 +1,6 @@
+{"sent": "the other motorcycle not the main", "ann_id": 151320, "best_split": [1, 2], "split_score": 0.5788157894546442}
+{"sent": "the motorcycle barely seen", "ann_id": 151320, "best_split": [1, 2], "split_score": 0.5788157894546442}
+{"sent": "further bike wheel", "ann_id": 151320, "best_split": [1, 2], "split_score": 0.5788157894546442}
+{"sent": "motorcycle entirely visible", "ann_id": 151131, "best_split": [2, 1], "split_score": 0.4359769378491742}
+{"sent": "motorcycle", "ann_id": 151131, "best_split": [2, 1], "split_score": 0.4359769378491742}
+{"sent": "the main motorcycle", "ann_id": 151131, "best_split": [2, 1], "split_score": 0.4359769378491742}

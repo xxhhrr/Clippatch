@@ -1,0 +1,6 @@
+{"sent": "straight neck", "ann_id": 598778, "best_split": [1, 5], "split_score": 0.6255924170152849}
+{"sent": "taller", "ann_id": 598778, "best_split": [1, 5], "split_score": 0.6255924170152849}
+{"sent": "taller giraffe", "ann_id": 598778, "best_split": [1, 5], "split_score": 0.6255924170152849}
+{"sent": "giraffe leaning into other giraffe", "ann_id": 597816, "best_split": [1, 3], "split_score": 0.571075296300372}
+{"sent": "his head is lower", "ann_id": 597816, "best_split": [1, 3], "split_score": 0.571075296300372}
+{"sent": "giraffe with head lower", "ann_id": 597816, "best_split": [1, 3], "split_score": 0.571075296300372}

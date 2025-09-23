@@ -1,0 +1,6 @@
+{"sent": "no head cow", "ann_id": 72153, "best_split": [1, 2], "split_score": 0.754464285684213}
+{"sent": "half of bull", "ann_id": 72153, "best_split": [1, 2], "split_score": 0.754464285684213}
+{"sent": "background black", "ann_id": 72153, "best_split": [1, 3], "split_score": 0.7653142402165217}
+{"sent": "flies on face", "ann_id": 70662, "best_split": [1, 2], "split_score": 0.4208775302896827}
+{"sent": "bull facing us", "ann_id": 70662, "best_split": [1, 2], "split_score": 0.4208775302896827}
+{"sent": "the bull", "ann_id": 70662, "best_split": [1, 2], "split_score": 0.4208775302896827}

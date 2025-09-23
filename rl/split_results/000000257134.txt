@@ -1,0 +1,5 @@
+{"sent": "partial chair", "ann_id": 381019, "best_split": [3, 1], "split_score": 0.18846153845021266}
+{"sent": "nearest chair almost out of view", "ann_id": 381019, "best_split": [3, 1], "split_score": 0.18846153845021266}
+{"sent": "chair at 5 o clock", "ann_id": 380792, "best_split": [3, 2], "split_score": 0.7729505511654895}
+{"sent": "chair", "ann_id": 380792, "best_split": [3, 2], "split_score": 0.7729505511654895}
+{"sent": "chair with white seat at 3 o clock", "ann_id": 380792, "best_split": [3, 2], "split_score": 0.7729505511654895}

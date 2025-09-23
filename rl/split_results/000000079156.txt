@@ -1,0 +1,5 @@
+{"sent": "chair you can see more of", "ann_id": 289750, "best_split": [2, 3], "split_score": 0.7233888485949141}
+{"sent": "chair 1", "ann_id": 289750, "best_split": [2, 3], "split_score": 0.7233888485949141}
+{"sent": "most visible chair", "ann_id": 289750, "best_split": [2, 3], "split_score": 0.7233888485949141}
+{"sent": "second chair", "ann_id": 100201, "best_split": [2, 1], "split_score": 0.2982669504295277}
+{"sent": "chair 4 o clock", "ann_id": 100201, "best_split": [2, 1], "split_score": 0.2982669504295277}

@@ -1,0 +1,6 @@
+{"sent": "yellow tent big", "ann_id": 1428656, "best_split": [2, 3], "split_score": 0.39250775466565163}
+{"sent": "yellow umbrella at 7 o clock", "ann_id": 1428656, "best_split": [2, 3], "split_score": 0.39250775466565163}
+{"sent": "yellow tent in foreground", "ann_id": 1428656, "best_split": [2, 3], "split_score": 0.39250775466565163}
+{"sent": "green canopy closest to camera not touching blue", "ann_id": 1428364, "best_split": [2, 3], "split_score": 0.2586698336984953}
+{"sent": "closest green umbrella", "ann_id": 1428364, "best_split": [2, 3], "split_score": 0.2586698336984953}
+{"sent": "green tent closest to us", "ann_id": 1428364, "best_split": [2, 3], "split_score": 0.2586698336984953}

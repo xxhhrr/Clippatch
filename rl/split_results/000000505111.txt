@@ -1,0 +1,6 @@
+{"sent": "smallest dish looks like brussel sprouts", "ann_id": 1038863, "best_split": [5, 1], "split_score": 0.17961904760194103}
+{"sent": "acorns", "ann_id": 1038863, "best_split": [1, 5], "split_score": 0.2225841476436103}
+{"sent": "smallest bowl of pearl onions", "ann_id": 1038863, "best_split": [1, 5], "split_score": 0.2225841476436103}
+{"sent": "stuff in yellow bowl", "ann_id": 715105, "best_split": [2, 3], "split_score": 0.5380408938970469}
+{"sent": "yellow bowl", "ann_id": 715105, "best_split": [2, 3], "split_score": 0.5380408938970469}
+{"sent": "yellow bowl with rolls", "ann_id": 715105, "best_split": [2, 3], "split_score": 0.5380408938970469}

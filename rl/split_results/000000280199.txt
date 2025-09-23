@@ -1,0 +1,6 @@
+{"sent": "bus cropped by frame edge", "ann_id": 248102, "best_split": [3, 3], "split_score": 0.5231362467025809}
+{"sent": "partial bus", "ann_id": 248102, "best_split": [3, 3], "split_score": 0.5231362467025809}
+{"sent": "bus only partially visisble", "ann_id": 248102, "best_split": [3, 3], "split_score": 0.5231362467025809}
+{"sent": "larger bus", "ann_id": 162941, "best_split": [1, 3], "split_score": 0.4444266495658061}
+{"sent": "bus", "ann_id": 162941, "best_split": [1, 3], "split_score": 0.4444266495658061}
+{"sent": "main bus", "ann_id": 162941, "best_split": [1, 3], "split_score": 0.4444266495658061}

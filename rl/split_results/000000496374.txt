@@ -1,0 +1,5 @@
+{"sent": "pizza on rack", "ann_id": 1077491, "best_split": [3, 2], "split_score": 0.5100389571089272}
+{"sent": "the meat on the pizza", "ann_id": 1077491, "best_split": [3, 2], "split_score": 0.5100389571089272}
+{"sent": "pizza on cooking rack", "ann_id": 1077491, "best_split": [3, 2], "split_score": 0.5100389571089272}
+{"sent": "pizza on box", "ann_id": 1076821, "best_split": [3, 1], "split_score": 0.36384266261517384}
+{"sent": "picture of pizza on the box", "ann_id": 1076821, "best_split": [3, 1], "split_score": 0.36384266261517384}

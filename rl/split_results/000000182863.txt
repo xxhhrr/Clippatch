@@ -1,0 +1,6 @@
+{"sent": "man in red standing", "ann_id": 1301177, "best_split": [1, 5], "split_score": 0.7031249999286602}
+{"sent": "red sweater", "ann_id": 1301177, "best_split": [1, 5], "split_score": 0.7031249999286602}
+{"sent": "guy with beard and red sweater", "ann_id": 1301177, "best_split": [1, 5], "split_score": 0.7031249999286602}
+{"sent": "girl in white shirt", "ann_id": 1202921, "best_split": [3, 3], "split_score": 0.25694444441013026}
+{"sent": "white shirt", "ann_id": 1202921, "best_split": [3, 2], "split_score": 0.33014145807071366}
+{"sent": "plaid pants", "ann_id": 1202921, "best_split": [3, 2], "split_score": 0.33014145807071366}

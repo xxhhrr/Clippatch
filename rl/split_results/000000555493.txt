@@ -1,0 +1,6 @@
+{"sent": "most of the dog u cant see", "ann_id": 2067204, "best_split": [3, 2], "split_score": 0.34845890407229674}
+{"sent": "not dog", "ann_id": 2067204, "best_split": [3, 2], "split_score": 0.34845890407229674}
+{"sent": "dog not seen", "ann_id": 2067204, "best_split": [3, 2], "split_score": 0.34845890407229674}
+{"sent": "brown and furry", "ann_id": 7199, "best_split": [1, 2], "split_score": 0.5165128825564334}
+{"sent": "the dog", "ann_id": 7199, "best_split": [1, 3], "split_score": 0.3933196632745165}
+{"sent": "dog", "ann_id": 7199, "best_split": [2, 1], "split_score": 0.47609933253641296}

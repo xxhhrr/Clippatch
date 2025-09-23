@@ -1,0 +1,5 @@
+{"sent": "half of sandwich behind pickle", "ann_id": 313545, "best_split": [2, 2], "split_score": 0.5334493906656647}
+{"sent": "sandwich behind", "ann_id": 313545, "best_split": [2, 2], "split_score": 0.5334493906656647}
+{"sent": "sandwich closest to most of pickle", "ann_id": 313545, "best_split": [2, 2], "split_score": 0.5334493906656647}
+{"sent": "sandwich with orange toothpick", "ann_id": 313450, "best_split": [3, 2], "split_score": 0.4691858990318802}
+{"sent": "lefty", "ann_id": 313450, "best_split": [3, 1], "split_score": 0.4024607703101613}

@@ -1,0 +1,6 @@
+{"sent": "closest zebra", "ann_id": 1412131, "best_split": [1, 3], "split_score": 0.37454808386596045}
+{"sent": "main animal pictured", "ann_id": 1412131, "best_split": [1, 2], "split_score": 0.5517241379171679}
+{"sent": "zeeb", "ann_id": 1412131, "best_split": [1, 2], "split_score": 0.5517241379171679}
+{"sent": "furthest zebra butt", "ann_id": 593097, "best_split": [2, 3], "split_score": 0.3976063829346624}
+{"sent": "zebra with butt showing", "ann_id": 593097, "best_split": [2, 3], "split_score": 0.3976063829346624}
+{"sent": "zebra back towards us face not showing", "ann_id": 593097, "best_split": [2, 3], "split_score": 0.3976063829346624}

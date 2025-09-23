@@ -1,0 +1,3 @@
+{"sent": "sandwich about to fall off plate near corner of napkin", "ann_id": 1554984, "best_split": [2, 1], "split_score": 0.13432541248384283}
+{"sent": "sandwich edge not near coke can", "ann_id": 1554984, "best_split": [3, 1], "split_score": 0.09306598929400281}
+{"sent": "last sandwich", "ann_id": 1554984, "best_split": [2, 2], "split_score": 0.26606724001047166}

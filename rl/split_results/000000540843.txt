@@ -1,0 +1,6 @@
+{"sent": "zebra not fully visible", "ann_id": 589490, "best_split": [1, 2], "split_score": 0.604229607232128}
+{"sent": "hidden zebra", "ann_id": 589490, "best_split": [1, 2], "split_score": 0.604229607232128}
+{"sent": "far zebra", "ann_id": 589490, "best_split": [1, 2], "split_score": 0.604229607232128}
+{"sent": "whole zebra", "ann_id": 589018, "best_split": [1, 2], "split_score": 0.43859213660547575}
+{"sent": "zebra with all four legs showing", "ann_id": 589018, "best_split": [1, 2], "split_score": 0.43859213660547575}
+{"sent": "whole zebra", "ann_id": 589018, "best_split": [1, 2], "split_score": 0.43859213660547575}

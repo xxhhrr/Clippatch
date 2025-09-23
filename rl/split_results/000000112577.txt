@@ -1,0 +1,6 @@
+{"sent": "freckly banana", "ann_id": 1045565, "best_split": [1, 3], "split_score": 0.6858108107694371}
+{"sent": "banana with more spots", "ann_id": 1045565, "best_split": [1, 3], "split_score": 0.6858108107694371}
+{"sent": "the banana with more spots", "ann_id": 1045565, "best_split": [1, 3], "split_score": 0.6858108107694371}
+{"sent": "less spotted banana", "ann_id": 1045067, "best_split": [1, 3], "split_score": 0.519434628946586}
+{"sent": "banana with less dots", "ann_id": 1045067, "best_split": [1, 3], "split_score": 0.519434628946586}
+{"sent": "banana with less spots", "ann_id": 1045067, "best_split": [1, 3], "split_score": 0.519434628946586}

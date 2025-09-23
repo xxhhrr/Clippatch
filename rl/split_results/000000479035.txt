@@ -1,0 +1,15 @@
+{"sent": "chocolate donut that is not cut", "ann_id": 1574616, "best_split": [3, 3], "split_score": 0.3839760637659614}
+{"sent": "choclate donut next to donut with white topping", "ann_id": 1574616, "best_split": [3, 3], "split_score": 0.3839760637659614}
+{"sent": "cut in half donut farthest away", "ann_id": 1574616, "best_split": [3, 3], "split_score": 0.3839760637659614}
+{"sent": "donut getting cut", "ann_id": 1574345, "best_split": [3, 2], "split_score": 0.25178094387224165}
+{"sent": "doughnut being cut", "ann_id": 1574345, "best_split": [3, 2], "split_score": 0.25178094387224165}
+{"sent": "doughnut the person is cutting", "ann_id": 1574345, "best_split": [3, 2], "split_score": 0.25178094387224165}
+{"sent": "donut surrounded by the rest", "ann_id": 1082071, "best_split": [3, 3], "split_score": 0.7264525440767858}
+{"sent": "upper white covered", "ann_id": 1082071, "best_split": [3, 3], "split_score": 0.7264525440767858}
+{"sent": "closer sugar topped donut", "ann_id": 1082029, "best_split": [2, 2], "split_score": 0.3961562305954622}
+{"sent": "chocolate donate on edge with white sprinkles", "ann_id": 1082029, "best_split": [2, 1], "split_score": 0.20088022633602326}
+{"sent": "whole white topped dount", "ann_id": 1082029, "best_split": [2, 2], "split_score": 0.3961562305954622}
+{"sent": "ri ght half of chocolate donut", "ann_id": 1080977, "best_split": [2, 2], "split_score": 0.3337850765040031}
+{"sent": "doughnut with nuts not being cut", "ann_id": 1925637, "best_split": [1, 3], "split_score": 0.11085289332379428}
+{"sent": "donut with most nuts", "ann_id": 1925637, "best_split": [1, 3], "split_score": 0.11085289332379428}
+{"sent": "almond donut at almost noon", "ann_id": 1925637, "best_split": [1, 3], "split_score": 0.11085289332379428}

@@ -1,0 +1,5 @@
+{"sent": "paper with dog in corner", "ann_id": 1987767, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "closest paper with horse or something in a circle", "ann_id": 1987767, "best_split": [5, 1], "split_score": 0.3392993145145374}
+{"sent": "the book most visible", "ann_id": 1138655, "best_split": [3, 2], "split_score": 0.8102189780097834}
+{"sent": "handbook", "ann_id": 1138655, "best_split": [3, 2], "split_score": 0.8102189780097834}
+{"sent": "a handbook on property tax page", "ann_id": 1138655, "best_split": [3, 2], "split_score": 0.8102189780097834}

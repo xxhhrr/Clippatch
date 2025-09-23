@@ -1,0 +1,6 @@
+{"sent": "bed closest to the door", "ann_id": 319155, "best_split": [3, 2], "split_score": 0.3592920353679484}
+{"sent": "bed that is more in shadow", "ann_id": 319155, "best_split": [5, 1], "split_score": 0.3221757321935015}
+{"sent": "furthest bed", "ann_id": 319155, "best_split": [5, 1], "split_score": 0.3221757321935015}
+{"sent": "bed closest to the window", "ann_id": 318997, "best_split": [2, 2], "split_score": 0.7275038128668337}
+{"sent": "bed closest to chair", "ann_id": 318997, "best_split": [2, 1], "split_score": 0.496233805344372}
+{"sent": "the closer bed", "ann_id": 318997, "best_split": [2, 2], "split_score": 0.7275038128668337}

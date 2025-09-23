@@ -1,0 +1,6 @@
+{"sent": "computer infront of curtains", "ann_id": 34819, "best_split": [3, 3], "split_score": 0.6143121114372061}
+{"sent": "big screen with background", "ann_id": 34819, "best_split": [2, 1], "split_score": 0.09318768470714946}
+{"sent": "purple screen", "ann_id": 34819, "best_split": [3, 3], "split_score": 0.6143121114372061}
+{"sent": "entire white screen", "ann_id": 28442, "best_split": [5, 1], "split_score": 0.11457378550832649}
+{"sent": "biggest full white screen", "ann_id": 28442, "best_split": [2, 3], "split_score": 0.29573137273173145}
+{"sent": "computer with black keyboard", "ann_id": 28442, "best_split": [3, 3], "split_score": 0.47936194696935336}

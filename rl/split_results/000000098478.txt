@@ -1,0 +1,9 @@
+{"sent": "brown", "ann_id": 1044356, "best_split": [2, 3], "split_score": 0.42158494428232074}
+{"sent": "black banana", "ann_id": 1044356, "best_split": [3, 1], "split_score": 0.35585986126819047}
+{"sent": "rotten banana", "ann_id": 1044356, "best_split": [3, 2], "split_score": 0.14191690661549172}
+{"sent": "banana isnt green isnt black", "ann_id": 1044315, "best_split": [5, 1], "split_score": 0.3844320889317328}
+{"sent": "banana starting to rot", "ann_id": 1044315, "best_split": [5, 1], "split_score": 0.3844320889317328}
+{"sent": "brown spotted banana", "ann_id": 1044315, "best_split": [5, 1], "split_score": 0.3844320889317328}
+{"sent": "better banana", "ann_id": 1041714, "best_split": [1, 5], "split_score": 0.4278194289019126}
+{"sent": "clean bannana", "ann_id": 1041714, "best_split": [1, 5], "split_score": 0.4278194289019126}
+{"sent": "green yellow banana or least ripe", "ann_id": 1041714, "best_split": [1, 5], "split_score": 0.4278194289019126}

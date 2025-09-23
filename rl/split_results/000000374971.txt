@@ -1,0 +1,6 @@
+{"sent": "horse with head down", "ann_id": 59897, "best_split": [2, 3], "split_score": 0.7121338911388981}
+{"sent": "horse with head lowest", "ann_id": 59897, "best_split": [2, 3], "split_score": 0.7121338911388981}
+{"sent": "pony with black mane", "ann_id": 59897, "best_split": [2, 3], "split_score": 0.7121338911388981}
+{"sent": "one with light brown mane", "ann_id": 57549, "best_split": [2, 2], "split_score": 0.48943640653251186}
+{"sent": "blond hair horse", "ann_id": 57549, "best_split": [2, 1], "split_score": 0.3845695117262553}
+{"sent": "walking", "ann_id": 57549, "best_split": [2, 2], "split_score": 0.48943640653251186}

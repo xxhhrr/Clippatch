@@ -1,0 +1,6 @@
+{"sent": "cake", "ann_id": 1927695, "best_split": [1, 2], "split_score": 0.46583850930546783}
+{"sent": "dessert", "ann_id": 1927695, "best_split": [1, 2], "split_score": 0.46583850930546783}
+{"sent": "cake with chocolate", "ann_id": 1927695, "best_split": [1, 2], "split_score": 0.46583850930546783}
+{"sent": "strawberry pie", "ann_id": 1087535, "best_split": [3, 3], "split_score": 0.5829072314494326}
+{"sent": "mini cake with pink filling", "ann_id": 1087535, "best_split": [3, 3], "split_score": 0.5829072314494326}
+{"sent": "slice of pie on the cake", "ann_id": 1087535, "best_split": [1, 3], "split_score": 0.1925675675559503}

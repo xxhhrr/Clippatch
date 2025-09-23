@@ -1,0 +1,6 @@
+{"sent": "under the book", "ann_id": 2193982, "best_split": [2, 1], "split_score": 0.9040178571068233}
+{"sent": "noblanket bunk", "ann_id": 2193982, "best_split": [1, 2], "split_score": 0.32659409019310726}
+{"sent": "basement bunk d", "ann_id": 2193982, "best_split": [1, 2], "split_score": 0.32659409019310726}
+{"sent": "striped bed", "ann_id": 319261, "best_split": [3, 1], "split_score": 0.7837837837364995}
+{"sent": "upper matres", "ann_id": 319261, "best_split": [3, 1], "split_score": 0.7837837837364995}
+{"sent": "upper yelloe bed", "ann_id": 319261, "best_split": [3, 1], "split_score": 0.7837837837364995}

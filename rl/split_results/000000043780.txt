@@ -1,0 +1,5 @@
+{"sent": "couch behind round table", "ann_id": 1943617, "best_split": [2, 3], "split_score": 0.4812081857062959}
+{"sent": "chair at 12", "ann_id": 1943617, "best_split": [3, 3], "split_score": 0.539032055243365}
+{"sent": "brown and tan pillow", "ann_id": 1943617, "best_split": [5, 1], "split_score": 0.2155758683571791}
+{"sent": "patterned chair", "ann_id": 105674, "best_split": [3, 2], "split_score": 0.4578258907918554}
+{"sent": "chair by window", "ann_id": 105674, "best_split": [2, 3], "split_score": 0.17999269804855852}

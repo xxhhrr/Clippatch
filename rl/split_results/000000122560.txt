@@ -1,0 +1,6 @@
+{"sent": "elephant with straight trunk", "ann_id": 583586, "best_split": [1, 2], "split_score": 0.6057876275268739}
+{"sent": "elephant not closest", "ann_id": 583586, "best_split": [1, 2], "split_score": 0.6057876275268739}
+{"sent": "elephant with trunk out", "ann_id": 583586, "best_split": [1, 2], "split_score": 0.6057876275268739}
+{"sent": "elephant with longer tusks closest to us", "ann_id": 582877, "best_split": [1, 3], "split_score": 0.4020385050820343}
+{"sent": "closest elephant", "ann_id": 582877, "best_split": [1, 3], "split_score": 0.4020385050820343}
+{"sent": "larger tusks", "ann_id": 582877, "best_split": [1, 3], "split_score": 0.4020385050820343}

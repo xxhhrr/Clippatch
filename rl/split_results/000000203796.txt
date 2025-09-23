@@ -1,0 +1,6 @@
+{"sent": "small bear", "ann_id": 1821708, "best_split": [1, 2], "split_score": 0.019247458467045394}
+{"sent": "bears back towards camera", "ann_id": 1821708, "best_split": [2, 1], "split_score": 0.31078603315087744}
+{"sent": "the bear nearest us", "ann_id": 1821708, "best_split": [1, 2], "split_score": 0.019247458467045394}
+{"sent": "bears face", "ann_id": 587681, "best_split": [1, 2], "split_score": 0.5196162833440039}
+{"sent": "black bear looking at us", "ann_id": 587681, "best_split": [1, 2], "split_score": 0.5196162833440039}
+{"sent": "bear looking at camera", "ann_id": 587681, "best_split": [1, 2], "split_score": 0.5196162833440039}

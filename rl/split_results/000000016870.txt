@@ -1,0 +1,6 @@
+{"sent": "taller thinner vase", "ann_id": 1154077, "best_split": [2, 3], "split_score": 0.3450980391915197}
+{"sent": "skinny bottle", "ann_id": 1154077, "best_split": [1, 3], "split_score": 0.46567164176622217}
+{"sent": "skinny vase", "ann_id": 1154077, "best_split": [2, 3], "split_score": 0.3450980391915197}
+{"sent": "fatter vase", "ann_id": 1152534, "best_split": [1, 2], "split_score": 0.4811239737390978}
+{"sent": "shorter", "ann_id": 1152534, "best_split": [1, 2], "split_score": 0.4811239737390978}
+{"sent": "big vase", "ann_id": 1152534, "best_split": [1, 2], "split_score": 0.4811239737390978}

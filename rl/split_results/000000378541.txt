@@ -1,0 +1,9 @@
+{"sent": "white book", "ann_id": 1147554, "best_split": [1, 5], "split_score": 0.6945008116178469}
+{"sent": "white book", "ann_id": 1147554, "best_split": [1, 5], "split_score": 0.6945008116178469}
+{"sent": "white book with cursive like writing", "ann_id": 1147554, "best_split": [1, 5], "split_score": 0.6945008116178469}
+{"sent": "truffaut", "ann_id": 1146495, "best_split": [2, 3], "split_score": 0.4365821094428753}
+{"sent": "book with author starting with last name of t", "ann_id": 1146495, "best_split": [1, 3], "split_score": 0.5386100385775452}
+{"sent": "truffaut", "ann_id": 1146495, "best_split": [2, 3], "split_score": 0.4365821094428753}
+{"sent": "book that has bright colors", "ann_id": 1144792, "best_split": [1, 5], "split_score": 0.5404121863315042}
+{"sent": "big book", "ann_id": 1144792, "best_split": [2, 2], "split_score": 0.17941263718899955}
+{"sent": "big book colorful title letters", "ann_id": 1144792, "best_split": [1, 5], "split_score": 0.5404121863315042}

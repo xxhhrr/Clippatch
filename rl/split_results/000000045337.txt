@@ -1,0 +1,9 @@
+{"sent": "background guy with glasses white shirt", "ann_id": 483998, "best_split": [1, 5], "split_score": 0.4295860389174527}
+{"sent": "man with glasses", "ann_id": 483998, "best_split": [1, 3], "split_score": 0.2554295366641271}
+{"sent": "man with black short", "ann_id": 483998, "best_split": [1, 5], "split_score": 0.4295860389174527}
+{"sent": "red collar", "ann_id": 472888, "best_split": [1, 2], "split_score": 0.6559861441633836}
+{"sent": "red nike shirt", "ann_id": 472888, "best_split": [1, 2], "split_score": 0.6559861441633836}
+{"sent": "man in red and white with nike swoosh", "ann_id": 472888, "best_split": [1, 2], "split_score": 0.6559861441633836}
+{"sent": "gray hair", "ann_id": 465217, "best_split": [1, 2], "split_score": 0.7434280504200187}
+{"sent": "red and blue stripe shirt", "ann_id": 465217, "best_split": [2, 1], "split_score": 0.3155797620663443}
+{"sent": "black white and red shirt", "ann_id": 465217, "best_split": [2, 1], "split_score": 0.3155797620663443}

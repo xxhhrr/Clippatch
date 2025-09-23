@@ -1,0 +1,8 @@
+{"sent": "chair with blue coat on it", "ann_id": 109634, "best_split": [2, 1], "split_score": 0.09664600222156072}
+{"sent": "chair with blue coat", "ann_id": 109634, "best_split": [2, 1], "split_score": 0.09664600222156072}
+{"sent": "chair with gray jacket on it", "ann_id": 109634, "best_split": [5, 1], "split_score": 0.1563786008084195}
+{"sent": "chair with purple box under it", "ann_id": 1931808, "best_split": [2, 3], "split_score": 0.2920353981951644}
+{"sent": "chair of gray shirt", "ann_id": 1931808, "best_split": [2, 3], "split_score": 0.2920353981951644}
+{"sent": "chair older lady with dark blue sitting on", "ann_id": 1931808, "best_split": [2, 2], "split_score": 0.15137614677741773}
+{"sent": "chair of hooded lady", "ann_id": 108332, "best_split": [2, 3], "split_score": 0.2588079150266882}
+{"sent": "chair behing woman in green hoodie jacket", "ann_id": 108332, "best_split": [3, 3], "split_score": 0.18467278094440032}

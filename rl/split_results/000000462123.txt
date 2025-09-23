@@ -1,0 +1,9 @@
+{"sent": "brown pants", "ann_id": 1237209, "best_split": [2, 3], "split_score": 0.40605296339587615}
+{"sent": "man sitting on motorcycle with green back seat", "ann_id": 1237209, "best_split": [2, 2], "split_score": 0.34269806730176}
+{"sent": "brown pants", "ann_id": 1237209, "best_split": [2, 3], "split_score": 0.40605296339587615}
+{"sent": "purple shirt", "ann_id": 1229311, "best_split": [2, 3], "split_score": 0.6899684421258517}
+{"sent": "purple shirt", "ann_id": 1229311, "best_split": [2, 3], "split_score": 0.6899684421258517}
+{"sent": "purple shirt on moped", "ann_id": 1229311, "best_split": [2, 1], "split_score": 0.285645022925982}
+{"sent": "guy white shirt under centra sign", "ann_id": 1268415, "best_split": [2, 1], "split_score": 0.0841121495299028}
+{"sent": "standing white shirt", "ann_id": 1268415, "best_split": [2, 2], "split_score": 0.32342007432797265}
+{"sent": "white shirt standing", "ann_id": 1268415, "best_split": [2, 2], "split_score": 0.32342007432797265}

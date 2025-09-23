@@ -1,0 +1,12 @@
+{"sent": "black luggage below blue", "ann_id": 1823749, "best_split": [5, 1], "split_score": 0.1395826205833405}
+{"sent": "black bag behind boy lol", "ann_id": 1823749, "best_split": [3, 1], "split_score": 0.14576426202436468}
+{"sent": "bag on ground behind boy", "ann_id": 1823749, "best_split": [3, 1], "split_score": 0.14576426202436468}
+{"sent": "monkey", "ann_id": 1421151, "best_split": [3, 3], "split_score": 0.5544831088957984}
+{"sent": "monkey bag", "ann_id": 1421151, "best_split": [3, 3], "split_score": 0.5544831088957984}
+{"sent": "has a monkey on it", "ann_id": 1421151, "best_split": [3, 3], "split_score": 0.5544831088957984}
+{"sent": "man with hands in pockets", "ann_id": 478637, "best_split": [1, 5], "split_score": 0.12700580401783834}
+{"sent": "man behind kid", "ann_id": 478637, "best_split": [3, 3], "split_score": 0.6113951788510965}
+{"sent": "guy inback", "ann_id": 478637, "best_split": [2, 1], "split_score": 0.13345025509672154}
+{"sent": "kid", "ann_id": 449741, "best_split": [1, 5], "split_score": 0.5447090363866339}
+{"sent": "kid", "ann_id": 449741, "best_split": [1, 5], "split_score": 0.5447090363866339}
+{"sent": "young boy", "ann_id": 449741, "best_split": [1, 5], "split_score": 0.5447090363866339}

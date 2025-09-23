@@ -1,0 +1,20 @@
+{"sent": "green shirt", "ann_id": 1230979, "best_split": [1, 5], "split_score": 0.43691248507633307}
+{"sent": "green", "ann_id": 1230979, "best_split": [1, 5], "split_score": 0.43691248507633307}
+{"sent": "green shirt", "ann_id": 1230979, "best_split": [1, 5], "split_score": 0.43691248507633307}
+{"sent": "man 3 o clock out of frame", "ann_id": 1297842, "best_split": [2, 1], "split_score": 0.053018635451524}
+{"sent": "man in uniform on side half cut off", "ann_id": 1297842, "best_split": [1, 5], "split_score": 0.18156996585260166}
+{"sent": "man on the side cut off crossing hands", "ann_id": 1297842, "best_split": [3, 2], "split_score": 0.13539984930196966}
+{"sent": "black soldier with paper", "ann_id": 1287549, "best_split": [1, 5], "split_score": 0.40049942370337116}
+{"sent": "black soldier holding white paper", "ann_id": 1287549, "best_split": [1, 5], "split_score": 0.40049942370337116}
+{"sent": "in uniform holding paper", "ann_id": 1287549, "best_split": [1, 5], "split_score": 0.40049942370337116}
+{"sent": "woman in gray with arms crossed", "ann_id": 1280053, "best_split": [3, 1], "split_score": 0.10540709930457483}
+{"sent": "women in gray with folded arms", "ann_id": 1280053, "best_split": [3, 1], "split_score": 0.10540709930457483}
+{"sent": "person in full gray arms crossed", "ann_id": 1280053, "best_split": [3, 1], "split_score": 0.10540709930457483}
+{"sent": "girl in black holding white card", "ann_id": 1269597, "best_split": [1, 3], "split_score": 0.20469353280618402}
+{"sent": "woman in all black holding book", "ann_id": 1269597, "best_split": [2, 3], "split_score": 0.21765870945297}
+{"sent": "woman in all black", "ann_id": 1269597, "best_split": [2, 3], "split_score": 0.21765870945297}
+{"sent": "man in black with next to yellow shirt", "ann_id": 1269025, "best_split": [3, 2], "split_score": 0.20245130223216773}
+{"sent": "man in black not in uniform", "ann_id": 1269025, "best_split": [5, 1], "split_score": 0.09363295879334266}
+{"sent": "captain cake cutter", "ann_id": 1249628, "best_split": [1, 5], "split_score": 0.5078124999484768}
+{"sent": "captain cutter", "ann_id": 1249628, "best_split": [1, 5], "split_score": 0.5078124999484768}
+{"sent": "man in uniform cutting cake", "ann_id": 1249628, "best_split": [2, 3], "split_score": 0.18023617151911248}

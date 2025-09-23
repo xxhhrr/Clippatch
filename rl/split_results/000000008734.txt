@@ -1,0 +1,8 @@
+{"sent": "food on the magazine", "ann_id": 2218951, "best_split": [2, 3], "split_score": 0.4440789473227715}
+{"sent": "on book", "ann_id": 2218951, "best_split": [2, 3], "split_score": 0.4440789473227715}
+{"sent": "picture of sandwich", "ann_id": 2218951, "best_split": [1, 5], "split_score": 0.21091811412756528}
+{"sent": "bun with more scallops", "ann_id": 311180, "best_split": [3, 2], "split_score": 0.4494976773847361}
+{"sent": "sandwich close to score", "ann_id": 311180, "best_split": [3, 1], "split_score": 0.23716158448349037}
+{"sent": "sandwich at 1 o clock", "ann_id": 311180, "best_split": [3, 1], "split_score": 0.23716158448349037}
+{"sent": "sandwich that is closest to the corner of the magazine page not the binding", "ann_id": 309618, "best_split": [5, 1], "split_score": 0.22570911283752948}
+{"sent": "food on non folded side of magazine", "ann_id": 309618, "best_split": [5, 1], "split_score": 0.22570911283752948}

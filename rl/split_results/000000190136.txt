@@ -1,0 +1,14 @@
+{"sent": "kid in red shirt", "ann_id": 1291390, "best_split": [2, 3], "split_score": 0.3491606714209639}
+{"sent": "pink shirt", "ann_id": 1291390, "best_split": [1, 5], "split_score": 0.30073051945000706}
+{"sent": "child in red on leftest side", "ann_id": 1291390, "best_split": [2, 3], "split_score": 0.3491606714209639}
+{"sent": "kid licking fingers", "ann_id": 1282088, "best_split": [2, 3], "split_score": 0.6901544400711686}
+{"sent": "the boy with the blue shirt with the skull", "ann_id": 1282088, "best_split": [2, 3], "split_score": 0.6901544400711686}
+{"sent": "kid in blue shirt with skull on it", "ann_id": 1282088, "best_split": [2, 3], "split_score": 0.6901544400711686}
+{"sent": "boy blowing out cake", "ann_id": 1267961, "best_split": [1, 3], "split_score": 0.45207330916083294}
+{"sent": "little blond boy", "ann_id": 1267961, "best_split": [3, 2], "split_score": 0.5569248825824175}
+{"sent": "boy", "ann_id": 1267961, "best_split": [3, 2], "split_score": 0.5569248825824175}
+{"sent": "blond girl standing", "ann_id": 1221250, "best_split": [1, 2], "split_score": 0.9057004470601453}
+{"sent": "blue shirt side girl", "ann_id": 1221250, "best_split": [1, 2], "split_score": 0.9057004470601453}
+{"sent": "light blue shirt", "ann_id": 1221250, "best_split": [1, 3], "split_score": 0.6131436570461525}
+{"sent": "purple shirt", "ann_id": 1217549, "best_split": [2, 1], "split_score": 0.28733153637845915}
+{"sent": "girl in purple", "ann_id": 1217549, "best_split": [1, 3], "split_score": 0.5518394648541054}

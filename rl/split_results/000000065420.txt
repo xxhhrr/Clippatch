@@ -1,0 +1,18 @@
+{"sent": "person under white umbrella", "ann_id": 545069, "best_split": [2, 1], "split_score": 0.027231467472588658}
+{"sent": "man holding white umbrella", "ann_id": 545069, "best_split": [2, 1], "split_score": 0.027231467472588658}
+{"sent": "man under white umb", "ann_id": 545069, "best_split": [2, 1], "split_score": 0.027231467472588658}
+{"sent": "under red umbrella", "ann_id": 543227, "best_split": [1, 2], "split_score": 0.1123376853089786}
+{"sent": "person under pink umbrela", "ann_id": 543227, "best_split": [3, 1], "split_score": 0.13349154552884943}
+{"sent": "person under red umbrella", "ann_id": 543227, "best_split": [1, 2], "split_score": 0.1123376853089786}
+{"sent": "half of a face", "ann_id": 541713, "best_split": [2, 3], "split_score": 0.422308319695931}
+{"sent": "half a face", "ann_id": 541713, "best_split": [2, 3], "split_score": 0.422308319695931}
+{"sent": "closest girl and shes cut off", "ann_id": 541713, "best_split": [1, 5], "split_score": 0.574472402539116}
+{"sent": "checkerboard shirt", "ann_id": 468308, "best_split": [2, 2], "split_score": 0.5735253392015006}
+{"sent": "girl with checkered shirt on", "ann_id": 468308, "best_split": [2, 2], "split_score": 0.5735253392015006}
+{"sent": "full faced woman", "ann_id": 468308, "best_split": [2, 2], "split_score": 0.5735253392015006}
+{"sent": "white umbrella", "ann_id": 285374, "best_split": [5, 1], "split_score": 0.22033898302962837}
+{"sent": "gj white umbrella", "ann_id": 285374, "best_split": [5, 1], "split_score": 0.22033898302962837}
+{"sent": "white umbrella", "ann_id": 285374, "best_split": [5, 1], "split_score": 0.22033898302962837}
+{"sent": "blue green umbrella", "ann_id": 280780, "best_split": [2, 2], "split_score": 0.9119897958456641}
+{"sent": "blue white umbrella", "ann_id": 280780, "best_split": [2, 2], "split_score": 0.9119897958456641}
+{"sent": "umbrella at 11 pm", "ann_id": 280780, "best_split": [2, 2], "split_score": 0.9119897958456641}

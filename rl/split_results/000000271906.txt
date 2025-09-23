@@ -1,0 +1,6 @@
+{"sent": "batter", "ann_id": 1264210, "best_split": [2, 3], "split_score": 0.5963161933344681}
+{"sent": "batter in red", "ann_id": 1264210, "best_split": [2, 3], "split_score": 0.5963161933344681}
+{"sent": "guy in red shirt", "ann_id": 1264210, "best_split": [2, 3], "split_score": 0.5963161933344681}
+{"sent": "fat guy white shirt", "ann_id": 1740497, "best_split": [2, 3], "split_score": 0.8263027294308989}
+{"sent": "fat wearing blue hat", "ann_id": 1740497, "best_split": [2, 3], "split_score": 0.8263027294308989}
+{"sent": "behind the batter", "ann_id": 1740497, "best_split": [1, 2], "split_score": 0.28571428570289725}

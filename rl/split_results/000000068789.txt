@@ -1,0 +1,4 @@
+{"sent": "car 2 nd to last in line", "ann_id": 1355116, "best_split": [1, 2], "split_score": 0.14421237244323132}
+{"sent": "car behind silver car", "ann_id": 1355116, "best_split": [5, 1], "split_score": 0.19091391195059979}
+{"sent": "closest light car", "ann_id": 1348644, "best_split": [2, 3], "split_score": 0.6824712642923882}
+{"sent": "cars parked by the meter closest to the camera", "ann_id": 1348644, "best_split": [2, 3], "split_score": 0.6824712642923882}

@@ -1,0 +1,11 @@
+{"sent": "far banana at 2 pm", "ann_id": 1046886, "best_split": [3, 1], "split_score": 0.294559929218567}
+{"sent": "banana cut in half at edge of board", "ann_id": 1046886, "best_split": [2, 1], "split_score": 0.27264030611158163}
+{"sent": "fifth banana", "ann_id": 1046873, "best_split": [5, 1], "split_score": 0.20601780778277418}
+{"sent": "banana by hand not being cut", "ann_id": 1046873, "best_split": [5, 1], "split_score": 0.20601780778277418}
+{"sent": "babana at 3 pm but not 2pm", "ann_id": 1046873, "best_split": [1, 2], "split_score": 0.2334183673376348}
+{"sent": "this is the last banana", "ann_id": 1045598, "best_split": [1, 5], "split_score": 0.6980519479811229}
+{"sent": "banana furthest at 10", "ann_id": 1045598, "best_split": [1, 5], "split_score": 0.6980519479811229}
+{"sent": "banana farthest from his hand", "ann_id": 1045598, "best_split": [1, 5], "split_score": 0.6980519479811229}
+{"sent": "bruised banana", "ann_id": 1044746, "best_split": [1, 3], "split_score": 0.3634948096676185}
+{"sent": "black spotted banana", "ann_id": 1044746, "best_split": [1, 3], "split_score": 0.3634948096676185}
+{"sent": "banana with large bruise", "ann_id": 1044746, "best_split": [1, 3], "split_score": 0.3634948096676185}

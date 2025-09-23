@@ -1,0 +1,9 @@
+{"sent": "man in pink shirt", "ann_id": 1308401, "best_split": [2, 3], "split_score": 0.8754518566244438}
+{"sent": "person in pink camo", "ann_id": 1308401, "best_split": [2, 3], "split_score": 0.8754518566244438}
+{"sent": "pink shirt guy", "ann_id": 1308401, "best_split": [2, 3], "split_score": 0.8754518566244438}
+{"sent": "back of the head of the guy in a white shirt", "ann_id": 1284744, "best_split": [3, 2], "split_score": 0.5661925601234324}
+{"sent": "rear of head", "ann_id": 1284744, "best_split": [3, 2], "split_score": 0.5661925601234324}
+{"sent": "boy facing away", "ann_id": 1284744, "best_split": [3, 2], "split_score": 0.5661925601234324}
+{"sent": "man in teal", "ann_id": 1214501, "best_split": [3, 2], "split_score": 0.3766998172948346}
+{"sent": "green shirt", "ann_id": 1214501, "best_split": [3, 2], "split_score": 0.3766998172948346}
+{"sent": "green shirt glasses", "ann_id": 1214501, "best_split": [3, 3], "split_score": 0.5271229763522972}

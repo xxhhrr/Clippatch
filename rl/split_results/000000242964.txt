@@ -1,0 +1,12 @@
+{"sent": "55 partly obscured", "ann_id": 1280100, "best_split": [2, 3], "split_score": 0.35769363559009165}
+{"sent": "person with 55 on them", "ann_id": 1280100, "best_split": [2, 3], "split_score": 0.35769363559009165}
+{"sent": "55", "ann_id": 1280100, "best_split": [2, 3], "split_score": 0.35769363559009165}
+{"sent": "man in blue shirt with face obscured by womans hand", "ann_id": 1266205, "best_split": [2, 3], "split_score": 0.4992344497129919}
+{"sent": "man behind woman holding camera whose face you can partial see facing us", "ann_id": 1266205, "best_split": [2, 3], "split_score": 0.4992344497129919}
+{"sent": "guy whose head is behind camera womans hand", "ann_id": 1266205, "best_split": [3, 3], "split_score": 0.37090753968530366}
+{"sent": "person behind the girl with his arm up", "ann_id": 1225206, "best_split": [3, 2], "split_score": 0.3582295988581081}
+{"sent": "possible asian man with raised hand", "ann_id": 1225206, "best_split": [3, 2], "split_score": 0.3582295988581081}
+{"sent": "live long and prosper guy behind womanm hand in air", "ann_id": 1225206, "best_split": [3, 3], "split_score": 0.38395342946292665}
+{"sent": "girl", "ann_id": 1206587, "best_split": [2, 2], "split_score": 0.6106067079357719}
+{"sent": "woman photographer", "ann_id": 1206587, "best_split": [1, 2], "split_score": 0.7020487882373226}
+{"sent": "main girl", "ann_id": 1206587, "best_split": [2, 1], "split_score": 0.3656453882446704}

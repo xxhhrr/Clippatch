@@ -1,0 +1,5 @@
+{"sent": "moto with only the white light", "ann_id": 151142, "best_split": [3, 3], "split_score": 0.5032525132313346}
+{"sent": "bike without blue and red lights on", "ann_id": 151142, "best_split": [3, 3], "split_score": 0.5032525132313346}
+{"sent": "cop nearest median", "ann_id": 151142, "best_split": [3, 3], "split_score": 0.5032525132313346}
+{"sent": "red and blue lights", "ann_id": 149634, "best_split": [3, 2], "split_score": 0.2689427312479138}
+{"sent": "motorcycle with red and blue ligts", "ann_id": 149634, "best_split": [1, 5], "split_score": 0.3281249999667081}

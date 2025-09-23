@@ -1,0 +1,6 @@
+{"sent": "white van next to bus", "ann_id": 1339695, "best_split": [2, 2], "split_score": 0.36830769227936094}
+{"sent": "white van next to blue bus driving away from us", "ann_id": 1339695, "best_split": [2, 2], "split_score": 0.36830769227936094}
+{"sent": "van parked on curb", "ann_id": 1339695, "best_split": [2, 2], "split_score": 0.36830769227936094}
+{"sent": "silver car behind bus", "ann_id": 139308, "best_split": [2, 1], "split_score": 0.3419961734557559}
+{"sent": "smell the bus fumes the most in line", "ann_id": 139308, "best_split": [2, 1], "split_score": 0.3419961734557559}
+{"sent": "car with antenna in frontest of bu", "ann_id": 139308, "best_split": [2, 2], "split_score": 0.683992346884248}

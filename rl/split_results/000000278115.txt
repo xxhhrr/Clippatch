@@ -1,0 +1,9 @@
+{"sent": "man in suit looking away", "ann_id": 561519, "best_split": [1, 5], "split_score": 0.7001294691066497}
+{"sent": "man with white collar", "ann_id": 561519, "best_split": [1, 5], "split_score": 0.7001294691066497}
+{"sent": "guy", "ann_id": 561519, "best_split": [2, 1], "split_score": 0.15636298549646097}
+{"sent": "woman with floral skirt", "ann_id": 560626, "best_split": [2, 1], "split_score": 0.17966101694293804}
+{"sent": "pink and white skirt", "ann_id": 560626, "best_split": [3, 1], "split_score": 0.15476942513515163}
+{"sent": "skirt", "ann_id": 560626, "best_split": [2, 1], "split_score": 0.17966101694293804}
+{"sent": "main woman", "ann_id": 457525, "best_split": [1, 3], "split_score": 0.4913569255697249}
+{"sent": "lady with cellphone", "ann_id": 457525, "best_split": [1, 3], "split_score": 0.4913569255697249}
+{"sent": "chick on phone", "ann_id": 457525, "best_split": [1, 3], "split_score": 0.4913569255697249}

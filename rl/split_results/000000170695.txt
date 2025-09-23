@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 494922, "best_split": [1, 5], "split_score": 0.49675324670284565}
+{"sent": "blue shirt", "ann_id": 494922, "best_split": [1, 5], "split_score": 0.49675324670284565}
+{"sent": "green", "ann_id": 494922, "best_split": [5, 1], "split_score": 0.12029161602974699}
+{"sent": "tennis player with white shirt and raised racket", "ann_id": 460635, "best_split": [1, 5], "split_score": 0.34804063858141937}
+{"sent": "person in white shirt holding racket", "ann_id": 460635, "best_split": [1, 5], "split_score": 0.34804063858141937}
+{"sent": "player about to hit", "ann_id": 460635, "best_split": [1, 5], "split_score": 0.34804063858141937}

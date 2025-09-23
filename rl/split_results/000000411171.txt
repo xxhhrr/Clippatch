@@ -1,0 +1,5 @@
+{"sent": "taller guy", "ann_id": 2165774, "best_split": [1, 2], "split_score": 0.6178252550774145}
+{"sent": "man", "ann_id": 2165774, "best_split": [1, 2], "split_score": 0.6178252550774145}
+{"sent": "person holding bowl", "ann_id": 444277, "best_split": [2, 1], "split_score": 0.4198131077023673}
+{"sent": "person smiling with teeth showing", "ann_id": 444277, "best_split": [1, 2], "split_score": 0.6730776384556721}
+{"sent": "the woman holding a pan", "ann_id": 444277, "best_split": [2, 1], "split_score": 0.4198131077023673}

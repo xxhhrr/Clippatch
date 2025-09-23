@@ -1,0 +1,6 @@
+{"sent": "gray blanket near woman", "ann_id": 1690688, "best_split": [3, 3], "split_score": 0.39585021877194837}
+{"sent": "sofa next to woman man in suit", "ann_id": 1690688, "best_split": [3, 2], "split_score": 0.3782577219620828}
+{"sent": "object near window and woman", "ann_id": 1690688, "best_split": [1, 3], "split_score": 0.1414094620336204}
+{"sent": "woman", "ann_id": 481047, "best_split": [1, 2], "split_score": 0.5765533074839807}
+{"sent": "lady", "ann_id": 481047, "best_split": [1, 2], "split_score": 0.5765533074839807}
+{"sent": "the girl", "ann_id": 481047, "best_split": [1, 2], "split_score": 0.5765533074839807}

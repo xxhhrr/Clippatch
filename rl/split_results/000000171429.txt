@@ -1,0 +1,6 @@
+{"sent": "ketchup and mustard", "ann_id": 1552674, "best_split": [2, 3], "split_score": 0.563165905570432}
+{"sent": "food besid fork", "ann_id": 1552674, "best_split": [5, 1], "split_score": 0.31589371180756776}
+{"sent": "food with red stuff", "ann_id": 1552674, "best_split": [2, 3], "split_score": 0.563165905570432}
+{"sent": "pickles", "ann_id": 309098, "best_split": [2, 3], "split_score": 0.5159362549433739}
+{"sent": "my bad guess thats gray too pickles", "ann_id": 309098, "best_split": [2, 3], "split_score": 0.5159362549433739}
+{"sent": "pickle side of sandwich", "ann_id": 309098, "best_split": [2, 3], "split_score": 0.5159362549433739}

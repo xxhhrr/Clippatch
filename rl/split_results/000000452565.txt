@@ -1,0 +1,6 @@
+{"sent": "man in jeans", "ann_id": 497359, "best_split": [2, 2], "split_score": 0.5016362785957896}
+{"sent": "the man in white", "ann_id": 497359, "best_split": [2, 3], "split_score": 0.32264599662444765}
+{"sent": "jeans", "ann_id": 497359, "best_split": [2, 2], "split_score": 0.5016362785957896}
+{"sent": "man in tan", "ann_id": 487379, "best_split": [2, 3], "split_score": 0.480983399823389}
+{"sent": "the man with the light tan dress i believe", "ann_id": 487379, "best_split": [2, 3], "split_score": 0.480983399823389}
+{"sent": "man with custom", "ann_id": 487379, "best_split": [2, 3], "split_score": 0.480983399823389}

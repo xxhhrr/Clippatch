@@ -1,0 +1,4 @@
+{"sent": "brown triangle closest to you", "ann_id": 2194178, "best_split": [2, 1], "split_score": 0.23596938774569637}
+{"sent": "surface closest to camera", "ann_id": 2194178, "best_split": [3, 1], "split_score": 0.35714285712131133}
+{"sent": "gray mat near shelves and not brown rug", "ann_id": 393829, "best_split": [3, 3], "split_score": 0.2709305517058838}
+{"sent": "bench sitting part at 8 o click", "ann_id": 393829, "best_split": [3, 1], "split_score": 0.21566754238024435}

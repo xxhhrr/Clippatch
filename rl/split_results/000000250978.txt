@@ -1,0 +1,12 @@
+{"sent": "bear the kid is hugging", "ann_id": 1995622, "best_split": [3, 1], "split_score": 0.23707009712798327}
+{"sent": "toy in boys hand", "ann_id": 1995622, "best_split": [1, 3], "split_score": 0.5527240772982907}
+{"sent": "bear thats being hug by kid", "ann_id": 1995622, "best_split": [3, 1], "split_score": 0.23707009712798327}
+{"sent": "bear with scarf", "ann_id": 1163008, "best_split": [1, 2], "split_score": 0.5141900509999127}
+{"sent": "teddy bear with blue scaf", "ann_id": 1163008, "best_split": [1, 2], "split_score": 0.5141900509999127}
+{"sent": "big bear with lighter colored shirt", "ann_id": 1163008, "best_split": [1, 2], "split_score": 0.5141900509999127}
+{"sent": "bear in pink", "ann_id": 1995894, "best_split": [1, 5], "split_score": 0.4520978676965611}
+{"sent": "bear in pink blue and gray", "ann_id": 1995894, "best_split": [1, 5], "split_score": 0.4520978676965611}
+{"sent": "little bear with pink clothes", "ann_id": 1995894, "best_split": [1, 5], "split_score": 0.4520978676965611}
+{"sent": "teddy bear in blue not being held", "ann_id": 1161021, "best_split": [1, 3], "split_score": 0.7158605173950584}
+{"sent": "bear with red rose on its head", "ann_id": 1161021, "best_split": [1, 3], "split_score": 0.7158605173950584}
+{"sent": "bear facing us with red bow in hair", "ann_id": 1161021, "best_split": [1, 3], "split_score": 0.7158605173950584}

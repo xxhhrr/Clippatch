@@ -1,0 +1,11 @@
+{"sent": "fat guy", "ann_id": 489568, "best_split": [2, 3], "split_score": 0.36151111107897677}
+{"sent": "guy in tanktop", "ann_id": 489568, "best_split": [2, 3], "split_score": 0.36151111107897677}
+{"sent": "black shirt", "ann_id": 489568, "best_split": [2, 1], "split_score": 0.2247178157327365}
+{"sent": "dude with glasses", "ann_id": 483308, "best_split": [2, 2], "split_score": 0.44921626096283823}
+{"sent": "wearing glasses", "ann_id": 483308, "best_split": [2, 2], "split_score": 0.44921626096283823}
+{"sent": "man with sleeves on his shirt", "ann_id": 483308, "best_split": [2, 2], "split_score": 0.44921626096283823}
+{"sent": "pizza with black olives on it", "ann_id": 1077980, "best_split": [3, 2], "split_score": 0.4459459458921397}
+{"sent": "smaller pizza", "ann_id": 1077980, "best_split": [3, 3], "split_score": 0.23345884881206846}
+{"sent": "pizza with handle", "ann_id": 1077794, "best_split": [3, 2], "split_score": 0.4362497251663827}
+{"sent": "light colored pizza", "ann_id": 1077794, "best_split": [3, 2], "split_score": 0.4362497251663827}
+{"sent": "plain pie", "ann_id": 1077794, "best_split": [3, 2], "split_score": 0.4362497251663827}

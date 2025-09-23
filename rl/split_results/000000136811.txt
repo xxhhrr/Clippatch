@@ -1,0 +1,9 @@
+{"sent": "white dress", "ann_id": 520495, "best_split": [3, 3], "split_score": 0.45301822317012835}
+{"sent": "girl in white", "ann_id": 520495, "best_split": [3, 3], "split_score": 0.45301822317012835}
+{"sent": "woman in white skirt", "ann_id": 520495, "best_split": [3, 3], "split_score": 0.45301822317012835}
+{"sent": "the man in white", "ann_id": 502208, "best_split": [1, 3], "split_score": 0.4384049227534746}
+{"sent": "guy on red suspenders", "ann_id": 502208, "best_split": [1, 2], "split_score": 0.2896603953966175}
+{"sent": "man", "ann_id": 502208, "best_split": [1, 2], "split_score": 0.2896603953966175}
+{"sent": "woman in blue flowered dress", "ann_id": 464733, "best_split": [1, 5], "split_score": 0.36174261388465273}
+{"sent": "lady by man", "ann_id": 464733, "best_split": [1, 5], "split_score": 0.36174261388465273}
+{"sent": "blue flowered dress", "ann_id": 464733, "best_split": [1, 5], "split_score": 0.36174261388465273}

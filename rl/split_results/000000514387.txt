@@ -1,0 +1,9 @@
+{"sent": "cow head is not shown", "ann_id": 75512, "best_split": [2, 1], "split_score": 0.10413023005165713}
+{"sent": "sideways cow you cant see head of", "ann_id": 75512, "best_split": [2, 1], "split_score": 0.10413023005165713}
+{"sent": "brown cow", "ann_id": 75512, "best_split": [3, 2], "split_score": 0.6295241967639768}
+{"sent": "the black one looking away", "ann_id": 72339, "best_split": [3, 2], "split_score": 0.4657593902595798}
+{"sent": "cow looking to 900", "ann_id": 72339, "best_split": [2, 2], "split_score": 0.2478169013909988}
+{"sent": "cow not facing us", "ann_id": 72339, "best_split": [3, 2], "split_score": 0.4657593902595798}
+{"sent": "cow face", "ann_id": 71132, "best_split": [2, 1], "split_score": 0.5274725274577408}
+{"sent": "cow closes to you", "ann_id": 71132, "best_split": [2, 1], "split_score": 0.5274725274577408}
+{"sent": "cow head looking at you", "ann_id": 71132, "best_split": [2, 1], "split_score": 0.5274725274577408}

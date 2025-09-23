@@ -1,0 +1,9 @@
+{"sent": "man closest to wall and red stripe", "ann_id": 233644, "best_split": [3, 1], "split_score": 0.25921577833651}
+{"sent": "highest dude on bike", "ann_id": 233644, "best_split": [3, 2], "split_score": 0.4046094749888381}
+{"sent": "person farthest from me near red line", "ann_id": 233644, "best_split": [3, 1], "split_score": 0.25921577833651}
+{"sent": "the guy closest to us", "ann_id": 207423, "best_split": [1, 3], "split_score": 0.17543459674121203}
+{"sent": "biker farthest away from crowd", "ann_id": 207423, "best_split": [1, 5], "split_score": 0.1455998681488464}
+{"sent": "closest guy", "ann_id": 207423, "best_split": [1, 3], "split_score": 0.17543459674121203}
+{"sent": "white male longish dark hair no hat between other riders", "ann_id": 205213, "best_split": [1, 2], "split_score": 0.17466410747876282}
+{"sent": "bettween guy", "ann_id": 205213, "best_split": [1, 2], "split_score": 0.17466410747876282}
+{"sent": "man that is not on either end", "ann_id": 205213, "best_split": [1, 2], "split_score": 0.17466410747876282}

@@ -1,0 +1,6 @@
+{"sent": "no ponytail", "ann_id": 1712005, "best_split": [1, 5], "split_score": 0.35036266159331736}
+{"sent": "black hair", "ann_id": 1712005, "best_split": [3, 2], "split_score": 0.5207193119115794}
+{"sent": "person with shorter hair", "ann_id": 1712005, "best_split": [1, 3], "split_score": 0.2965097314180434}
+{"sent": "longer ponytail", "ann_id": 431504, "best_split": [3, 3], "split_score": 0.6334881020555009}
+{"sent": "girl by bag", "ann_id": 431504, "best_split": [3, 3], "split_score": 0.6334881020555009}
+{"sent": "woman closer to bag on bench", "ann_id": 431504, "best_split": [3, 3], "split_score": 0.6334881020555009}

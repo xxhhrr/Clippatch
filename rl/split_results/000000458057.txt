@@ -1,0 +1,9 @@
+{"sent": "white long sleeves dude", "ann_id": 217271, "best_split": [2, 2], "split_score": 0.45898946411810415}
+{"sent": "orange shirt", "ann_id": 217271, "best_split": [1, 3], "split_score": 0.7971163126932241}
+{"sent": "white sleeves", "ann_id": 217271, "best_split": [1, 3], "split_score": 0.7971163126932241}
+{"sent": "blue shirt", "ann_id": 216073, "best_split": [1, 3], "split_score": 0.5552606177271199}
+{"sent": "blue shirt", "ann_id": 216073, "best_split": [1, 3], "split_score": 0.5552606177271199}
+{"sent": "man in blue", "ann_id": 216073, "best_split": [1, 3], "split_score": 0.5552606177271199}
+{"sent": "green shirt guy", "ann_id": 184193, "best_split": [2, 3], "split_score": 0.35473790319004656}
+{"sent": "the guy in green shirt", "ann_id": 184193, "best_split": [2, 3], "split_score": 0.35473790319004656}
+{"sent": "man in green shirt", "ann_id": 184193, "best_split": [2, 3], "split_score": 0.35473790319004656}

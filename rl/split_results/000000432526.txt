@@ -1,0 +1,6 @@
+{"sent": "red jacket", "ann_id": 1237726, "best_split": [2, 3], "split_score": 0.40998766950164534}
+{"sent": "red", "ann_id": 1237726, "best_split": [2, 3], "split_score": 0.40998766950164534}
+{"sent": "red coat", "ann_id": 1237726, "best_split": [2, 3], "split_score": 0.40998766950164534}
+{"sent": "skier in orange", "ann_id": 499737, "best_split": [1, 5], "split_score": 0.5310294796194005}
+{"sent": "orange jacket close", "ann_id": 499737, "best_split": [1, 5], "split_score": 0.5310294796194005}
+{"sent": "orange", "ann_id": 499737, "best_split": [1, 5], "split_score": 0.5310294796194005}

@@ -1,0 +1,8 @@
+{"sent": "zebra partially seen 8 oclcok", "ann_id": 1823041, "best_split": [5, 1], "split_score": 0.17670682729310816}
+{"sent": "zebra whose head we cant see but is touching the zebra with his head is down but we can see its ears", "ann_id": 1822988, "best_split": [3, 2], "split_score": 0.6431838974561774}
+{"sent": "cut off zebra 3 o clock", "ann_id": 1822898, "best_split": [3, 2], "split_score": 0.2924082000121189}
+{"sent": "biggest heading out of view", "ann_id": 1822898, "best_split": [5, 1], "split_score": 0.07802942634501327}
+{"sent": "half zebra at 4 oclcok on edge", "ann_id": 1822898, "best_split": [3, 2], "split_score": 0.2924082000121189}
+{"sent": "zebra closest to us looking directly at us", "ann_id": 1412993, "best_split": [2, 3], "split_score": 0.6829126438661263}
+{"sent": "zebra with ears up", "ann_id": 1412993, "best_split": [2, 3], "split_score": 0.6829126438661263}
+{"sent": "zebra looking at you", "ann_id": 1412993, "best_split": [2, 3], "split_score": 0.6829126438661263}

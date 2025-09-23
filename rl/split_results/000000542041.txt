@@ -1,0 +1,6 @@
+{"sent": "squirt", "ann_id": 1713962, "best_split": [1, 2], "split_score": 0.579996431560676}
+{"sent": "yellow carton on head", "ann_id": 1713962, "best_split": [1, 2], "split_score": 0.579996431560676}
+{"sent": "man with squirt container on hea", "ann_id": 1713962, "best_split": [1, 2], "split_score": 0.579996431560676}
+{"sent": "man with glasses wearing a black shirt", "ann_id": 203857, "best_split": [1, 2], "split_score": 0.4941396767981781}
+{"sent": "dude with dark blue jacket", "ann_id": 203857, "best_split": [1, 2], "split_score": 0.4941396767981781}
+{"sent": "man in blue shirt holding bag", "ann_id": 203857, "best_split": [2, 1], "split_score": 0.3546277665884486}

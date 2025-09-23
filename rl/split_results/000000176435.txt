@@ -1,0 +1,6 @@
+{"sent": "cow farthest back", "ann_id": 72962, "best_split": [3, 1], "split_score": 0.12260054843906533}
+{"sent": "cow in back", "ann_id": 72962, "best_split": [3, 2], "split_score": 0.23285590275251128}
+{"sent": "face with no body", "ann_id": 72962, "best_split": [3, 1], "split_score": 0.12260054843906533}
+{"sent": "big cow", "ann_id": 72475, "best_split": [2, 1], "split_score": 0.48900123252023225}
+{"sent": "it moos", "ann_id": 72475, "best_split": [2, 1], "split_score": 0.48900123252023225}
+{"sent": "big cow", "ann_id": 72475, "best_split": [2, 1], "split_score": 0.48900123252023225}

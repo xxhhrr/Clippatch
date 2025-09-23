@@ -1,0 +1,5 @@
+{"sent": "brown side of boat", "ann_id": 1374914, "best_split": [3, 2], "split_score": 0.7373737373066362}
+{"sent": "the brown part of boat near the water", "ann_id": 1374914, "best_split": [3, 2], "split_score": 0.7373737373066362}
+{"sent": "not boat stuff in it", "ann_id": 179139, "best_split": [2, 2], "split_score": 0.6784203102563222}
+{"sent": "the green fruit", "ann_id": 179139, "best_split": [2, 2], "split_score": 0.6784203102563222}
+{"sent": "fruit", "ann_id": 179139, "best_split": [2, 2], "split_score": 0.6784203102563222}

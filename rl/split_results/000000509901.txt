@@ -1,0 +1,17 @@
+{"sent": "maple long john not the chocolate one", "ann_id": 1574490, "best_split": [1, 3], "split_score": 0.1785883467445175}
+{"sent": "smooth chocolate with swirled lines", "ann_id": 1082397, "best_split": [3, 3], "split_score": 0.7506242196082047}
+{"sent": "foremost with stripes", "ann_id": 1082397, "best_split": [3, 3], "split_score": 0.7506242196082047}
+{"sent": "chocolate chips with caramel", "ann_id": 1082380, "best_split": [1, 5], "split_score": 0.2117588440326508}
+{"sent": "chocolate peanut butter closest to glazed", "ann_id": 1082380, "best_split": [2, 3], "split_score": 0.7055682684300564}
+{"sent": "chocolate glazed donut in full view", "ann_id": 1082380, "best_split": [2, 1], "split_score": 0.38265306120923737}
+{"sent": "fruit loops", "ann_id": 1082067, "best_split": [3, 3], "split_score": 0.46393643024695347}
+{"sent": "fruit loops", "ann_id": 1082067, "best_split": [3, 3], "split_score": 0.46393643024695347}
+{"sent": "donut with froot loops", "ann_id": 1082067, "best_split": [3, 3], "split_score": 0.46393643024695347}
+{"sent": "donut with nuts on it", "ann_id": 1081943, "best_split": [3, 3], "split_score": 0.7078954458760582}
+{"sent": "chocolate donut with nuts", "ann_id": 1081943, "best_split": [3, 3], "split_score": 0.7078954458760582}
+{"sent": "donut with chocolate and peanuts", "ann_id": 1081943, "best_split": [3, 3], "split_score": 0.7078954458760582}
+{"sent": "colorful pastry no holes", "ann_id": 1081185, "best_split": [2, 3], "split_score": 0.54114382232853}
+{"sent": "capt crunch donut", "ann_id": 1081185, "best_split": [5, 1], "split_score": 0.2491072206036837}
+{"sent": "glazed donut", "ann_id": 1080170, "best_split": [3, 2], "split_score": 0.6163963173370893}
+{"sent": "glazed one", "ann_id": 1080170, "best_split": [3, 2], "split_score": 0.6163963173370893}
+{"sent": "plainest", "ann_id": 1080170, "best_split": [2, 1], "split_score": 0.12462569513315892}

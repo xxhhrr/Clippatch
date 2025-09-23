@@ -1,0 +1,6 @@
+{"sent": "red striped train", "ann_id": 175049, "best_split": [5, 1], "split_score": 0.2872265349076194}
+{"sent": "orange train next to green one", "ann_id": 175049, "best_split": [2, 2], "split_score": 0.3775510203780651}
+{"sent": "orange stripe", "ann_id": 175049, "best_split": [2, 2], "split_score": 0.3775510203780651}
+{"sent": "fret", "ann_id": 172605, "best_split": [2, 3], "split_score": 0.38960231976081167}
+{"sent": "green", "ann_id": 172605, "best_split": [2, 3], "split_score": 0.38960231976081167}
+{"sent": "green", "ann_id": 172605, "best_split": [2, 3], "split_score": 0.38960231976081167}

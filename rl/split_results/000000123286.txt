@@ -1,0 +1,5 @@
+{"sent": "multi strip shirt", "ann_id": 1302740, "best_split": [1, 5], "split_score": 0.5916301555679385}
+{"sent": "man with green larger stripe", "ann_id": 1302740, "best_split": [1, 5], "split_score": 0.5916301555679385}
+{"sent": "farthest", "ann_id": 1206741, "best_split": [3, 2], "split_score": 0.3045760430481443}
+{"sent": "player with smaller stripe on shirt", "ann_id": 1206741, "best_split": [1, 3], "split_score": 0.450267267558418}
+{"sent": "man in white socks", "ann_id": 1206741, "best_split": [1, 5], "split_score": 0.5595415301756816}

@@ -1,0 +1,6 @@
+{"sent": "biggest bowl", "ann_id": 1040589, "best_split": [2, 1], "split_score": 0.27503188774413934}
+{"sent": "bowl purple stripe", "ann_id": 1040589, "best_split": [3, 1], "split_score": 0.4162644787393663}
+{"sent": "closest large bowl", "ann_id": 1040589, "best_split": [3, 1], "split_score": 0.4162644787393663}
+{"sent": "second bowl in from f right o n t one blue n white", "ann_id": 1039049, "best_split": [3, 3], "split_score": 0.40520191642621456}
+{"sent": "blue and white bowl", "ann_id": 1039049, "best_split": [2, 3], "split_score": 0.273567467620891}
+{"sent": "blue and white bowl after largest bowl", "ann_id": 1039049, "best_split": [3, 3], "split_score": 0.40520191642621456}

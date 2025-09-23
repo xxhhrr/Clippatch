@@ -1,0 +1,6 @@
+{"sent": "lower melon cup", "ann_id": 1533453, "best_split": [3, 3], "split_score": 0.6460920378659437}
+{"sent": "smal orange fruit glass", "ann_id": 1533453, "best_split": [3, 3], "split_score": 0.6460920378659437}
+{"sent": "fruit in bowl", "ann_id": 1533453, "best_split": [3, 3], "split_score": 0.6460920378659437}
+{"sent": "small white bowl with hideous blob in it", "ann_id": 715246, "best_split": [5, 1], "split_score": 0.15389487015707093}
+{"sent": "smallest white dish", "ann_id": 715246, "best_split": [3, 1], "split_score": 0.16158663882125937}
+{"sent": "jelly", "ann_id": 715246, "best_split": [2, 3], "split_score": 0.28147554126687185}

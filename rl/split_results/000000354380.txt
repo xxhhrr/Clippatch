@@ -1,0 +1,6 @@
+{"sent": "slice near largest visible part of table", "ann_id": 1570431, "best_split": [3, 3], "split_score": 0.5072907731273997}
+{"sent": "slice of pizza directly by green packets", "ann_id": 1077930, "best_split": [2, 3], "split_score": 0.4958438741872205}
+{"sent": "pizza slice green packets under it", "ann_id": 1077930, "best_split": [2, 2], "split_score": 0.3937851593628593}
+{"sent": "pizza slice 10 o clock", "ann_id": 1077930, "best_split": [2, 3], "split_score": 0.4958438741872205}
+{"sent": "piece of pizza with most green on it", "ann_id": 1077250, "best_split": [3, 2], "split_score": 0.5848191011797707}
+{"sent": "pizza slice with long whole sausage", "ann_id": 1076979, "best_split": [1, 2], "split_score": 0.33577806121110576}

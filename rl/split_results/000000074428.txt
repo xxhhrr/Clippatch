@@ -1,0 +1,6 @@
+{"sent": "necklace", "ann_id": 2153776, "best_split": [1, 2], "split_score": 0.6375956632398917}
+{"sent": "man in all blue", "ann_id": 2153776, "best_split": [1, 2], "split_score": 0.6375956632398917}
+{"sent": "gray shirt", "ann_id": 2153776, "best_split": [2, 1], "split_score": 0.18623318126158592}
+{"sent": "guy holding bear", "ann_id": 544293, "best_split": [1, 5], "split_score": 0.5933286018069986}
+{"sent": "man with the teddy bear", "ann_id": 544293, "best_split": [1, 5], "split_score": 0.5933286018069986}
+{"sent": "red and blue shirt", "ann_id": 544293, "best_split": [1, 2], "split_score": 0.5914779974254034}

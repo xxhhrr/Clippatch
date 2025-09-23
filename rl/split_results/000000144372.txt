@@ -1,0 +1,6 @@
+{"sent": "tall guy", "ann_id": 495115, "best_split": [1, 2], "split_score": 0.7888942740154783}
+{"sent": "tall guy with glasses", "ann_id": 495115, "best_split": [1, 2], "split_score": 0.7888942740154783}
+{"sent": "man with glasses", "ann_id": 495115, "best_split": [1, 2], "split_score": 0.7888942740154783}
+{"sent": "black man", "ann_id": 447411, "best_split": [1, 2], "split_score": 0.661230306362868}
+{"sent": "shorter man", "ann_id": 447411, "best_split": [2, 1], "split_score": 0.34510721496377744}
+{"sent": "darker man", "ann_id": 447411, "best_split": [1, 2], "split_score": 0.661230306362868}

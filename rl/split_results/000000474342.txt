@@ -1,0 +1,6 @@
+{"sent": "cat partially behind curtain", "ann_id": 273331, "best_split": [5, 1], "split_score": 0.20198256934322517}
+{"sent": "cat with body behind curtain", "ann_id": 273331, "best_split": [5, 1], "split_score": 0.20198256934322517}
+{"sent": "lowest cat", "ann_id": 273331, "best_split": [5, 1], "split_score": 0.20198256934322517}
+{"sent": "tallest cat", "ann_id": 49329, "best_split": [1, 5], "split_score": 0.4820561411534966}
+{"sent": "bigger cat", "ann_id": 49329, "best_split": [1, 5], "split_score": 0.4820561411534966}
+{"sent": "whole cat", "ann_id": 49329, "best_split": [1, 5], "split_score": 0.4820561411534966}

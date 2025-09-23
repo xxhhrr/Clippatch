@@ -1,0 +1,9 @@
+{"sent": "lettuce salad mix", "ann_id": 1554643, "best_split": [3, 3], "split_score": 0.6090969016794501}
+{"sent": "lettuce", "ann_id": 1554643, "best_split": [3, 3], "split_score": 0.6090969016794501}
+{"sent": "lettuce", "ann_id": 1554643, "best_split": [3, 3], "split_score": 0.6090969016794501}
+{"sent": "meat sandwich on side", "ann_id": 1554145, "best_split": [3, 2], "split_score": 0.5868875572270984}
+{"sent": "sandwich on its back with meat", "ann_id": 1554145, "best_split": [3, 2], "split_score": 0.5868875572270984}
+{"sent": "rounded sandwich with meet hanging way out", "ann_id": 1554145, "best_split": [3, 2], "split_score": 0.5868875572270984}
+{"sent": "bread without stuffing", "ann_id": 1553302, "best_split": [2, 3], "split_score": 0.5364926272339338}
+{"sent": "bread only", "ann_id": 1553302, "best_split": [2, 3], "split_score": 0.5364926272339338}
+{"sent": "bread not in sandwhich", "ann_id": 1553302, "best_split": [2, 3], "split_score": 0.5364926272339338}

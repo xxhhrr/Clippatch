@@ -1,0 +1,6 @@
+{"sent": "bus near people", "ann_id": 169236, "best_split": [3, 1], "split_score": 0.23464400754000644}
+{"sent": "bus closes to people", "ann_id": 169236, "best_split": [3, 1], "split_score": 0.23464400754000644}
+{"sent": "bus with p and right", "ann_id": 169236, "best_split": [3, 1], "split_score": 0.23464400754000644}
+{"sent": "green bus driving", "ann_id": 163596, "best_split": [3, 2], "split_score": 0.47396276339911514}
+{"sent": "bus with no digital display", "ann_id": 163596, "best_split": [3, 2], "split_score": 0.47396276339911514}
+{"sent": "bus near greyish car", "ann_id": 163596, "best_split": [3, 2], "split_score": 0.47396276339911514}

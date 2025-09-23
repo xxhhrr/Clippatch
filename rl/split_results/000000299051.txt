@@ -1,0 +1,15 @@
+{"sent": "white car", "ann_id": 1373798, "best_split": [3, 3], "split_score": 0.7073107723188696}
+{"sent": "white", "ann_id": 1373798, "best_split": [3, 3], "split_score": 0.7073107723188696}
+{"sent": "white car", "ann_id": 1373798, "best_split": [3, 3], "split_score": 0.7073107723188696}
+{"sent": "car", "ann_id": 1197697, "best_split": [1, 2], "split_score": 0.4541866365815002}
+{"sent": "black truck", "ann_id": 1197697, "best_split": [1, 3], "split_score": 0.44416873447642113}
+{"sent": "blue truck", "ann_id": 1197697, "best_split": [1, 3], "split_score": 0.44416873447642113}
+{"sent": "beige color truck", "ann_id": 1197024, "best_split": [2, 3], "split_score": 0.2842664092321107}
+{"sent": "orangish truck", "ann_id": 1197024, "best_split": [2, 3], "split_score": 0.2842664092321107}
+{"sent": "orange truck", "ann_id": 1197024, "best_split": [2, 3], "split_score": 0.2842664092321107}
+{"sent": "white car", "ann_id": 352566, "best_split": [3, 3], "split_score": 0.7073107723188696}
+{"sent": "white hood open car", "ann_id": 352566, "best_split": [3, 3], "split_score": 0.7073107723188696}
+{"sent": "white car", "ann_id": 352566, "best_split": [3, 3], "split_score": 0.7073107723188696}
+{"sent": "car", "ann_id": 349783, "best_split": [1, 2], "split_score": 0.46207167511963426}
+{"sent": "blue carmy bad on last one", "ann_id": 349783, "best_split": [1, 2], "split_score": 0.46207167511963426}
+{"sent": "classiccar", "ann_id": 349783, "best_split": [1, 2], "split_score": 0.46207167511963426}

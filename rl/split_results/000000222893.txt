@@ -1,0 +1,6 @@
+{"sent": "light brown cow", "ann_id": 73009, "best_split": [2, 3], "split_score": 0.26975328765680323}
+{"sent": "straight at ya", "ann_id": 73009, "best_split": [5, 1], "split_score": 0.1315002988530868}
+{"sent": "cow facing us fully", "ann_id": 73009, "best_split": [5, 1], "split_score": 0.1315002988530868}
+{"sent": "brown cow alone", "ann_id": 71384, "best_split": [2, 2], "split_score": 0.6112689119116996}
+{"sent": "dark brown cow", "ann_id": 71384, "best_split": [2, 2], "split_score": 0.6112689119116996}
+{"sent": "dark cow", "ann_id": 71384, "best_split": [2, 2], "split_score": 0.6112689119116996}

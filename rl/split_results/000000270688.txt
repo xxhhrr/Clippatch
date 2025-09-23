@@ -1,0 +1,6 @@
+{"sent": "irregular shaped slice", "ann_id": 1570006, "best_split": [5, 1], "split_score": 0.305871912416368}
+{"sent": "not pizza", "ann_id": 1570006, "best_split": [5, 1], "split_score": 0.305871912416368}
+{"sent": "on plate not pizza", "ann_id": 1570006, "best_split": [5, 1], "split_score": 0.305871912416368}
+{"sent": "narrow slice of pizza", "ann_id": 1075172, "best_split": [2, 2], "split_score": 0.6633956176459608}
+{"sent": "slice pizza", "ann_id": 1075172, "best_split": [2, 2], "split_score": 0.6633956176459608}
+{"sent": "pizza that looks like a triange", "ann_id": 1075172, "best_split": [2, 2], "split_score": 0.6633956176459608}

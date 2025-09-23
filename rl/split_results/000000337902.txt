@@ -1,0 +1,6 @@
+{"sent": "couch", "ann_id": 117158, "best_split": [3, 2], "split_score": 0.45330135436982916}
+{"sent": "couch we can see all of", "ann_id": 117158, "best_split": [3, 2], "split_score": 0.45330135436982916}
+{"sent": "full sofa", "ann_id": 117158, "best_split": [3, 2], "split_score": 0.45330135436982916}
+{"sent": "couch half way out of view", "ann_id": 117093, "best_split": [2, 3], "split_score": 0.5736434107926206}
+{"sent": "couch half cut off", "ann_id": 117093, "best_split": [2, 3], "split_score": 0.5736434107926206}
+{"sent": "half of green couch", "ann_id": 117093, "best_split": [2, 3], "split_score": 0.5736434107926206}

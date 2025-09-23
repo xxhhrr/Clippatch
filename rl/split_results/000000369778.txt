@@ -1,0 +1,12 @@
+{"sent": "close cup", "ann_id": 1877704, "best_split": [5, 1], "split_score": 0.24150404566953793}
+{"sent": "near mug", "ann_id": 1877704, "best_split": [5, 1], "split_score": 0.24150404566953793}
+{"sent": "cup closest to us", "ann_id": 1877704, "best_split": [5, 1], "split_score": 0.24150404566953793}
+{"sent": "sandwhich nearest the chair", "ann_id": 1554646, "best_split": [5, 1], "split_score": 0.2625965428224902}
+{"sent": "sandwich by the chair", "ann_id": 1554646, "best_split": [5, 1], "split_score": 0.2625965428224902}
+{"sent": "sandwich by the chair", "ann_id": 1554646, "best_split": [5, 1], "split_score": 0.2625965428224902}
+{"sent": "furthest mug", "ann_id": 678022, "best_split": [3, 3], "split_score": 0.5005861663874416}
+{"sent": "white mug closest to the chair", "ann_id": 678022, "best_split": [3, 3], "split_score": 0.5005861663874416}
+{"sent": "cup near spoon", "ann_id": 678022, "best_split": [3, 3], "split_score": 0.5005861663874416}
+{"sent": "sandwich with crust", "ann_id": 312217, "best_split": [3, 3], "split_score": 0.48119764739240817}
+{"sent": "half sandwich closest to us", "ann_id": 312217, "best_split": [3, 3], "split_score": 0.48119764739240817}
+{"sent": "sandwich half at eight", "ann_id": 312217, "best_split": [3, 3], "split_score": 0.48119764739240817}

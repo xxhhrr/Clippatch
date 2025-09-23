@@ -1,0 +1,6 @@
+{"sent": "four stars", "ann_id": 1535724, "best_split": [1, 3], "split_score": 0.288519855585252}
+{"sent": "pkate with orange stars", "ann_id": 1535724, "best_split": [2, 3], "split_score": 0.4063430154774534}
+{"sent": "dish with orange stars", "ann_id": 1535724, "best_split": [2, 1], "split_score": 0.7496140906095542}
+{"sent": "high bowl", "ann_id": 1534688, "best_split": [1, 2], "split_score": 0.266403068042144}
+{"sent": "greens container", "ann_id": 1534688, "best_split": [2, 1], "split_score": 0.653135672126159}
+{"sent": "starts with eyes", "ann_id": 1534688, "best_split": [2, 1], "split_score": 0.653135672126159}

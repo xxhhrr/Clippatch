@@ -1,0 +1,6 @@
+{"sent": "snowboarder", "ann_id": 491445, "best_split": [3, 2], "split_score": 0.4428063480667066}
+{"sent": "man in the air", "ann_id": 491445, "best_split": [3, 2], "split_score": 0.4428063480667066}
+{"sent": "man jumping", "ann_id": 491445, "best_split": [3, 2], "split_score": 0.4428063480667066}
+{"sent": "person on knees", "ann_id": 486784, "best_split": [2, 2], "split_score": 0.30390175654407725}
+{"sent": "person on ground", "ann_id": 486784, "best_split": [2, 1], "split_score": 0.15387642659764358}
+{"sent": "kneeling", "ann_id": 486784, "best_split": [5, 1], "split_score": 0.16777188327521783}

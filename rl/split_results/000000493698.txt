@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 522784, "best_split": [2, 2], "split_score": 0.3026805930682433}
+{"sent": "blue shirt", "ann_id": 522784, "best_split": [2, 2], "split_score": 0.3026805930682433}
+{"sent": "blue shirt light colored shorts", "ann_id": 522784, "best_split": [1, 5], "split_score": 0.5368303570883898}
+{"sent": "person in back with long hair", "ann_id": 511599, "best_split": [3, 3], "split_score": 0.41700209299355945}
+{"sent": "black shirt woman in backrgound", "ann_id": 511599, "best_split": [3, 2], "split_score": 0.2870442202940215}
+{"sent": "woman in black standing", "ann_id": 511599, "best_split": [3, 2], "split_score": 0.2870442202940215}
+{"sent": "boy sitting", "ann_id": 429062, "best_split": [2, 1], "split_score": 0.5178805058733679}
+{"sent": "kid", "ann_id": 429062, "best_split": [2, 1], "split_score": 0.5178805058733679}
+{"sent": "the kid in green", "ann_id": 429062, "best_split": [2, 1], "split_score": 0.5178805058733679}

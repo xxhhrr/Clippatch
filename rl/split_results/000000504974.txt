@@ -1,0 +1,6 @@
+{"sent": "yellow boat above head", "ann_id": 250028, "best_split": [3, 3], "split_score": 0.3818953323228615}
+{"sent": "yellow boat", "ann_id": 250028, "best_split": [3, 3], "split_score": 0.3818953323228615}
+{"sent": "biggest yellow boat", "ann_id": 250028, "best_split": [3, 3], "split_score": 0.3818953323228615}
+{"sent": "dark blue boat", "ann_id": 180516, "best_split": [2, 3], "split_score": 0.3730522456034541}
+{"sent": "darkest blue with white stripe and white cabin", "ann_id": 180516, "best_split": [5, 1], "split_score": 0.35195530722745855}
+{"sent": "blue white boat touching edge of pic", "ann_id": 180516, "best_split": [2, 3], "split_score": 0.3730522456034541}

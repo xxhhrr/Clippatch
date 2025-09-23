@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 253858, "best_split": [3, 3], "split_score": 0.5588811188029537}
+{"sent": "man in blue far", "ann_id": 253858, "best_split": [3, 3], "split_score": 0.5588811188029537}
+{"sent": "blue shirt", "ann_id": 253858, "best_split": [3, 3], "split_score": 0.5588811188029537}
+{"sent": "white shirt", "ann_id": 253263, "best_split": [1, 5], "split_score": 0.39721988203169933}
+{"sent": "white shirt plaid pants", "ann_id": 253263, "best_split": [1, 3], "split_score": 0.4309133489255406}
+{"sent": "plaid pants", "ann_id": 253263, "best_split": [1, 3], "split_score": 0.4309133489255406}
+{"sent": "black shirt", "ann_id": 253238, "best_split": [1, 3], "split_score": 0.916023165967904}
+{"sent": "person in black shirt", "ann_id": 253238, "best_split": [1, 3], "split_score": 0.916023165967904}
+{"sent": "black shirt", "ann_id": 253238, "best_split": [1, 3], "split_score": 0.916023165967904}

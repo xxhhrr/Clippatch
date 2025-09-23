@@ -1,0 +1,6 @@
+{"sent": "women", "ann_id": 570545, "best_split": [1, 2], "split_score": 0.39257812498435196}
+{"sent": "woman white shirt hugging man", "ann_id": 570545, "best_split": [1, 5], "split_score": 0.6606270014612652}
+{"sent": "white shirt hugging", "ann_id": 570545, "best_split": [1, 5], "split_score": 0.6606270014612652}
+{"sent": "black hoodie dude", "ann_id": 565864, "best_split": [1, 3], "split_score": 0.6579765193086163}
+{"sent": "black jacket", "ann_id": 565864, "best_split": [1, 3], "split_score": 0.6579765193086163}
+{"sent": "not on a skateboard", "ann_id": 565864, "best_split": [1, 3], "split_score": 0.6579765193086163}

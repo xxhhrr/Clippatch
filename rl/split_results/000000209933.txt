@@ -1,0 +1,6 @@
+{"sent": "bidet next to toilet", "ann_id": 1096668, "best_split": [3, 2], "split_score": 0.34739019729890275}
+{"sent": "no lid toilet", "ann_id": 1096668, "best_split": [3, 2], "split_score": 0.34739019729890275}
+{"sent": "weird toilet", "ann_id": 1096668, "best_split": [3, 2], "split_score": 0.34739019729890275}
+{"sent": "toilet", "ann_id": 1095590, "best_split": [1, 2], "split_score": 0.8622050382309389}
+{"sent": "toilet with lid", "ann_id": 1095590, "best_split": [1, 2], "split_score": 0.8622050382309389}
+{"sent": "toilet", "ann_id": 1095590, "best_split": [1, 2], "split_score": 0.8622050382309389}

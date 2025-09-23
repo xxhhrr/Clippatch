@@ -1,0 +1,6 @@
+{"sent": "boy", "ann_id": 466830, "best_split": [2, 3], "split_score": 0.41502930020553}
+{"sent": "child", "ann_id": 466830, "best_split": [1, 5], "split_score": 0.33303690526656016}
+{"sent": "kid", "ann_id": 466830, "best_split": [2, 3], "split_score": 0.41502930020553}
+{"sent": "red boots", "ann_id": 450787, "best_split": [2, 2], "split_score": 0.4815238094932366}
+{"sent": "skiier with goggles", "ann_id": 450787, "best_split": [2, 2], "split_score": 0.4815238094932366}
+{"sent": "guy", "ann_id": 450787, "best_split": [2, 2], "split_score": 0.4815238094932366}

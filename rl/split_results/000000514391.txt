@@ -1,0 +1,9 @@
+{"sent": "banana", "ann_id": 2226957, "best_split": [2, 1], "split_score": 0.7944264106362862}
+{"sent": "the banana", "ann_id": 2226957, "best_split": [2, 1], "split_score": 0.7944264106362862}
+{"sent": "banana table", "ann_id": 2226957, "best_split": [2, 1], "split_score": 0.7944264106362862}
+{"sent": "orange", "ann_id": 2226380, "best_split": [3, 3], "split_score": 0.7538560410099845}
+{"sent": "the orange", "ann_id": 2226380, "best_split": [3, 3], "split_score": 0.7538560410099845}
+{"sent": "orange", "ann_id": 2226380, "best_split": [3, 3], "split_score": 0.7538560410099845}
+{"sent": "strawberry", "ann_id": 2130866, "best_split": [3, 3], "split_score": 0.7979067260585029}
+{"sent": "strawberry", "ann_id": 2130866, "best_split": [3, 3], "split_score": 0.7979067260585029}
+{"sent": "a red fruit at 5 ocklock", "ann_id": 2130866, "best_split": [3, 3], "split_score": 0.7979067260585029}

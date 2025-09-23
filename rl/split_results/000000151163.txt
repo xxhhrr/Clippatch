@@ -1,0 +1,6 @@
+{"sent": "white hat", "ann_id": 464944, "best_split": [3, 3], "split_score": 0.41968205898263705}
+{"sent": "the man on bench in the tan hat", "ann_id": 464944, "best_split": [3, 3], "split_score": 0.41968205898263705}
+{"sent": "man with light hat", "ann_id": 464944, "best_split": [3, 3], "split_score": 0.41968205898263705}
+{"sent": "black leather jacket and ski cap", "ann_id": 458461, "best_split": [3, 2], "split_score": 0.5308464848810364}
+{"sent": "man in black hat", "ann_id": 458461, "best_split": [3, 1], "split_score": 0.2870442203099277}
+{"sent": "black cap", "ann_id": 458461, "best_split": [1, 5], "split_score": 0.3391205581422099}

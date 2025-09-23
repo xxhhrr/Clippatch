@@ -1,0 +1,6 @@
+{"sent": "man skating", "ann_id": 519648, "best_split": [1, 3], "split_score": 0.4317773787908563}
+{"sent": "skateboarder on the edge of cliff", "ann_id": 519648, "best_split": [1, 3], "split_score": 0.4317773787908563}
+{"sent": "skater on edge", "ann_id": 519648, "best_split": [1, 3], "split_score": 0.4317773787908563}
+{"sent": "brown jacket", "ann_id": 465941, "best_split": [1, 5], "split_score": 0.35861182516399326}
+{"sent": "rollerblader with long hair", "ann_id": 465941, "best_split": [1, 5], "split_score": 0.35861182516399326}
+{"sent": "long blond hair", "ann_id": 465941, "best_split": [1, 5], "split_score": 0.35861182516399326}

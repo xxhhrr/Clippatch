@@ -1,0 +1,5 @@
+{"sent": "person with red backpack", "ann_id": 1727675, "best_split": [2, 3], "split_score": 0.3985239852001073}
+{"sent": "back of person with gray jacket and red backpack", "ann_id": 1727675, "best_split": [2, 3], "split_score": 0.3985239852001073}
+{"sent": "blue and gray jacket", "ann_id": 434975, "best_split": [3, 1], "split_score": 0.1572237960260409}
+{"sent": "skier in blue with backpack", "ann_id": 434975, "best_split": [1, 5], "split_score": 0.3512880561767072}
+{"sent": "blue and gray coat", "ann_id": 434975, "best_split": [3, 1], "split_score": 0.1572237960260409}

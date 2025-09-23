@@ -1,0 +1,6 @@
+{"sent": "corner chair towards us", "ann_id": 389424, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "black chair with white keyboard", "ann_id": 389424, "best_split": [2, 3], "split_score": 0.5744449806256702}
+{"sent": "chair closest", "ann_id": 389424, "best_split": [2, 1], "split_score": 0.18977200254345616}
+{"sent": "chair in before small monitor on computer", "ann_id": 2222485, "best_split": [3, 2], "split_score": 0.244350823415899}
+{"sent": "black chair by computer with small screen white box", "ann_id": 2222485, "best_split": [3, 2], "split_score": 0.244350823415899}
+{"sent": "chair by small monitor on big motherboard", "ann_id": 2222485, "best_split": [3, 2], "split_score": 0.244350823415899}

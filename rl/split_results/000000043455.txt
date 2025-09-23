@@ -1,0 +1,6 @@
+{"sent": "closest cow", "ann_id": 2177343, "best_split": [2, 1], "split_score": 0.5982759901687494}
+{"sent": "cow reaching", "ann_id": 2177343, "best_split": [2, 1], "split_score": 0.5982759901687494}
+{"sent": "calf kissing girl", "ann_id": 2177343, "best_split": [2, 1], "split_score": 0.5982759901687494}
+{"sent": "cow next to child head but cant see its head", "ann_id": 1408514, "best_split": [2, 1], "split_score": 0.32585299743599117}
+{"sent": "cow not eating from girl but at 12 o clock", "ann_id": 1408514, "best_split": [3, 1], "split_score": 0.445651539019587}
+{"sent": "cow closest to girl head no visible", "ann_id": 1408514, "best_split": [2, 3], "split_score": 0.468206545931668}

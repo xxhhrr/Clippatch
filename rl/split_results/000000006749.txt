@@ -1,0 +1,6 @@
+{"sent": "rear player", "ann_id": 468769, "best_split": [3, 1], "split_score": 0.22084195996150832}
+{"sent": "man with tennis racket pointing down", "ann_id": 468769, "best_split": [2, 1], "split_score": 0.23673257023053618}
+{"sent": "player not ready to swing", "ann_id": 468769, "best_split": [2, 1], "split_score": 0.23673257023053618}
+{"sent": "closest", "ann_id": 423419, "best_split": [2, 1], "split_score": 0.23466086863672214}
+{"sent": "server", "ann_id": 423419, "best_split": [1, 2], "split_score": 0.6311917606448822}
+{"sent": "hitter", "ann_id": 423419, "best_split": [1, 2], "split_score": 0.6311917606448822}

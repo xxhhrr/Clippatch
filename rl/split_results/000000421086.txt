@@ -1,0 +1,12 @@
+{"sent": "white shirt back to us", "ann_id": 1706357, "best_split": [3, 3], "split_score": 0.8379425751562546}
+{"sent": "white shirt with apron strings", "ann_id": 1706357, "best_split": [3, 1], "split_score": 0.2991071428390983}
+{"sent": "white shirt", "ann_id": 1706357, "best_split": [3, 3], "split_score": 0.8379425751562546}
+{"sent": "intact pizza", "ann_id": 1077251, "best_split": [3, 3], "split_score": 0.6646112599645293}
+{"sent": "pizza not touched yet", "ann_id": 1077251, "best_split": [3, 3], "split_score": 0.6646112599645293}
+{"sent": "light pizza", "ann_id": 1077251, "best_split": [3, 3], "split_score": 0.6646112599645293}
+{"sent": "slice next to uplifted piece", "ann_id": 1070924, "best_split": [3, 1], "split_score": 0.0999184339256631}
+{"sent": "slice next to handled piece", "ann_id": 1070924, "best_split": [1, 5], "split_score": 0.10697378003396087}
+{"sent": "the pizza piece not being taken out", "ann_id": 1070924, "best_split": [2, 2], "split_score": 0.183593749985364}
+{"sent": "person with gloves", "ann_id": 488434, "best_split": [2, 2], "split_score": 0.6467589220348164}
+{"sent": "person cutting pizza", "ann_id": 488434, "best_split": [1, 2], "split_score": 0.48474872344515085}
+{"sent": "the person serving the pizza", "ann_id": 488434, "best_split": [1, 2], "split_score": 0.48474872344515085}

@@ -1,0 +1,5 @@
+{"sent": "orange handles closest to green handles", "ann_id": 1157921, "best_split": [3, 2], "split_score": 0.33467974607283324}
+{"sent": "faded bigger pair of orange scissors", "ann_id": 1157921, "best_split": [3, 2], "split_score": 0.33467974607283324}
+{"sent": "closer scissors", "ann_id": 1157921, "best_split": [3, 3], "split_score": 0.2909472701480463}
+{"sent": "tallestsissors", "ann_id": 1157811, "best_split": [1, 3], "split_score": 0.1341141711441324}
+{"sent": "taller scissors", "ann_id": 1157811, "best_split": [2, 2], "split_score": 0.3922193877238345}

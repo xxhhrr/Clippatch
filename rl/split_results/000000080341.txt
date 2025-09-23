@@ -1,0 +1,6 @@
+{"sent": "yellow scarf gal", "ann_id": 187363, "best_split": [2, 2], "split_score": 0.7474048442409232}
+{"sent": "yellow scarf girl", "ann_id": 187363, "best_split": [2, 2], "split_score": 0.7474048442409232}
+{"sent": "person riding high", "ann_id": 187363, "best_split": [1, 2], "split_score": 0.5467155612026978}
+{"sent": "girl in sidecar", "ann_id": 187240, "best_split": [3, 2], "split_score": 0.3783582089148872}
+{"sent": "female not on bike", "ann_id": 187240, "best_split": [3, 1], "split_score": 0.20087163231826627}
+{"sent": "woman in sidecar", "ann_id": 187240, "best_split": [3, 2], "split_score": 0.3783582089148872}

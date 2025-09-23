@@ -1,0 +1,6 @@
+{"sent": "smaller white", "ann_id": 1831276, "best_split": [3, 1], "split_score": 0.10221687754354193}
+{"sent": "smaller white umbrella with pink trim", "ann_id": 1831276, "best_split": [2, 3], "split_score": 0.4421147558965038}
+{"sent": "smaller white umbrella not smallest", "ann_id": 1831276, "best_split": [2, 3], "split_score": 0.4421147558965038}
+{"sent": "white umbrella with birds on it", "ann_id": 280220, "best_split": [3, 1], "split_score": 0.5733182161482748}
+{"sent": "biggest umbrella", "ann_id": 280220, "best_split": [3, 1], "split_score": 0.5733182161482748}
+{"sent": "biggest white umbrella for you", "ann_id": 280220, "best_split": [3, 1], "split_score": 0.5733182161482748}

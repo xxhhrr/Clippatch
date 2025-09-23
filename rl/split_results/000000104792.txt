@@ -1,0 +1,5 @@
+{"sent": "chair to you", "ann_id": 1600250, "best_split": [3, 2], "split_score": 0.3604800685425975}
+{"sent": "nearest chair corner near us", "ann_id": 1600250, "best_split": [3, 2], "split_score": 0.3604800685425975}
+{"sent": "600 exactly", "ann_id": 1600250, "best_split": [3, 3], "split_score": 0.4894514767194919}
+{"sent": "blue frame chair in between", "ann_id": 1597988, "best_split": [3, 3], "split_score": 0.7020379478738513}
+{"sent": "blue chair behind one most in foreground", "ann_id": 1597988, "best_split": [3, 3], "split_score": 0.7020379478738513}

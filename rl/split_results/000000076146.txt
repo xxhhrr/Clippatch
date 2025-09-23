@@ -1,0 +1,12 @@
+{"sent": "woman", "ann_id": 532469, "best_split": [1, 3], "split_score": 0.7659724673104749}
+{"sent": "woman wearing black", "ann_id": 532469, "best_split": [1, 3], "split_score": 0.7659724673104749}
+{"sent": "silver hair man", "ann_id": 494765, "best_split": [1, 2], "split_score": 0.26150226019377354}
+{"sent": "man in gray gray hair", "ann_id": 494765, "best_split": [1, 2], "split_score": 0.26150226019377354}
+{"sent": "gray shirt", "ann_id": 494765, "best_split": [3, 3], "split_score": 0.3434202161256567}
+{"sent": "blue arm", "ann_id": 441939, "best_split": [1, 2], "split_score": 0.7738006947666263}
+{"sent": "blue arm", "ann_id": 441939, "best_split": [1, 2], "split_score": 0.7738006947666263}
+{"sent": "blue sleve guy", "ann_id": 441939, "best_split": [1, 2], "split_score": 0.7738006947666263}
+{"sent": "parking meter not leaned on", "ann_id": 418768, "best_split": [2, 3], "split_score": 0.6844835906510034}
+{"sent": "meter thats an arm rest", "ann_id": 418144, "best_split": [1, 5], "split_score": 0.4176610978104951}
+{"sent": "meter with arm on it", "ann_id": 418144, "best_split": [2, 2], "split_score": 0.3507653060944862}
+{"sent": "meter wher mans arm", "ann_id": 418144, "best_split": [1, 5], "split_score": 0.4176610978104951}

@@ -1,0 +1,10 @@
+{"sent": "person catching the frisbee", "ann_id": 1297443, "best_split": [3, 2], "split_score": 0.46157400273667226}
+{"sent": "black shirt catching", "ann_id": 1297443, "best_split": [3, 2], "split_score": 0.46157400273667226}
+{"sent": "player in the air", "ann_id": 1297443, "best_split": [1, 2], "split_score": 0.4261798469217881}
+{"sent": "boy in black jumping", "ann_id": 1297443, "best_split": [1, 2], "split_score": 0.4261798469217881}
+{"sent": "white and blue reaching for frisbee", "ann_id": 1228278, "best_split": [3, 3], "split_score": 0.5145550971697637}
+{"sent": "blond boy in air not 14", "ann_id": 1228278, "best_split": [1, 5], "split_score": 0.46884323583080356}
+{"sent": "boy with blond hair jumping", "ann_id": 1228278, "best_split": [1, 5], "split_score": 0.46884323583080356}
+{"sent": "14", "ann_id": 1219044, "best_split": [3, 2], "split_score": 0.5108541960816058}
+{"sent": "14", "ann_id": 1219044, "best_split": [3, 2], "split_score": 0.5108541960816058}
+{"sent": "kid in 14", "ann_id": 1219044, "best_split": [1, 2], "split_score": 0.3936941964128789}

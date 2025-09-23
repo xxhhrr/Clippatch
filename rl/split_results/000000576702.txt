@@ -1,0 +1,19 @@
+{"sent": "woman in striped white and pink shirt", "ann_id": 495790, "best_split": [3, 3], "split_score": 0.6549981954790692}
+{"sent": "striped shirt", "ann_id": 495790, "best_split": [1, 5], "split_score": 0.2727272727016597}
+{"sent": "stripes", "ann_id": 495790, "best_split": [3, 3], "split_score": 0.6549981954790692}
+{"sent": "stripe shirt", "ann_id": 495790, "best_split": [1, 5], "split_score": 0.2727272727016597}
+{"sent": "person in checkerd shirt", "ann_id": 446084, "best_split": [3, 2], "split_score": 0.48212956064015916}
+{"sent": "checked shirt", "ann_id": 446084, "best_split": [3, 2], "split_score": 0.48212956064015916}
+{"sent": "purple plaid shirt", "ann_id": 446084, "best_split": [3, 2], "split_score": 0.48212956064015916}
+{"sent": "woman in tanktop cut off screen", "ann_id": 2159746, "best_split": [3, 1], "split_score": 0.13201712653829584}
+{"sent": "the woman who sits next to man in plaid", "ann_id": 2159746, "best_split": [3, 2], "split_score": 0.26031894931281435}
+{"sent": "woman with black shirt", "ann_id": 2159746, "best_split": [3, 2], "split_score": 0.26031894931281435}
+{"sent": "little girl", "ann_id": 1749771, "best_split": [3, 2], "split_score": 0.35714285709976556}
+{"sent": "girl", "ann_id": 1749771, "best_split": [3, 2], "split_score": 0.35714285709976556}
+{"sent": "little girl", "ann_id": 1749771, "best_split": [3, 2], "split_score": 0.35714285709976556}
+{"sent": "bowl with limes in it", "ann_id": 715632, "best_split": [2, 2], "split_score": 0.2362882652872857}
+{"sent": "the plant with the lime", "ann_id": 715632, "best_split": [2, 2], "split_score": 0.2362882652872857}
+{"sent": "white bowl with fork in side", "ann_id": 715632, "best_split": [2, 2], "split_score": 0.2362882652872857}
+{"sent": "purple dish", "ann_id": 711980, "best_split": [2, 3], "split_score": 0.3889961389492041}
+{"sent": "purple veggies", "ann_id": 711980, "best_split": [2, 3], "split_score": 0.3889961389492041}
+{"sent": "bowl ofpurple food", "ann_id": 711980, "best_split": [2, 3], "split_score": 0.3889961389492041}

@@ -1,0 +1,8 @@
+{"sent": "man in white shirt", "ann_id": 2157482, "best_split": [1, 5], "split_score": 0.5259993988051298}
+{"sent": "white shirt", "ann_id": 2157482, "best_split": [1, 5], "split_score": 0.5259993988051298}
+{"sent": "guy in white shirt", "ann_id": 2157482, "best_split": [1, 5], "split_score": 0.5259993988051298}
+{"sent": "woman", "ann_id": 183921, "best_split": [1, 3], "split_score": 0.4731922808429113}
+{"sent": "woman smiling at camera", "ann_id": 183921, "best_split": [1, 3], "split_score": 0.4731922808429113}
+{"sent": "woman", "ann_id": 183921, "best_split": [1, 3], "split_score": 0.4731922808429113}
+{"sent": "guy in black shirt", "ann_id": 183707, "best_split": [2, 1], "split_score": 0.42499999998781535}
+{"sent": "boy in stripe shirt", "ann_id": 183707, "best_split": [1, 3], "split_score": 0.48183322539456674}

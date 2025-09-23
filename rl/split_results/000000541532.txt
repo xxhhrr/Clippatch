@@ -1,0 +1,6 @@
+{"sent": "traffic light that is not lit", "ann_id": 409963, "best_split": [3, 3], "split_score": 0.3867403314339644}
+{"sent": "light turned away", "ann_id": 409963, "best_split": [3, 3], "split_score": 0.3867403314339644}
+{"sent": "e shape", "ann_id": 409963, "best_split": [3, 1], "split_score": 0.1455301455219683}
+{"sent": "red", "ann_id": 407097, "best_split": [2, 3], "split_score": 0.27021121628652467}
+{"sent": "red light", "ann_id": 407097, "best_split": [5, 1], "split_score": 0.2282453637456985}
+{"sent": "the red light", "ann_id": 407097, "best_split": [5, 1], "split_score": 0.2282453637456985}

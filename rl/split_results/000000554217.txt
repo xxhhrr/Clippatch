@@ -1,0 +1,6 @@
+{"sent": "dell monitor", "ann_id": 35917, "best_split": [3, 2], "split_score": 0.8377358489578142}
+{"sent": "monitor without a face on it", "ann_id": 35917, "best_split": [3, 1], "split_score": 0.42366412211213833}
+{"sent": "blank monitor", "ann_id": 35917, "best_split": [2, 2], "split_score": 0.5816326530148571}
+{"sent": "screen with woman", "ann_id": 32118, "best_split": [3, 2], "split_score": 0.8366646476038093}
+{"sent": "mouth", "ann_id": 32118, "best_split": [3, 2], "split_score": 0.8366646476038093}
+{"sent": "girl", "ann_id": 32118, "best_split": [3, 2], "split_score": 0.8366646476038093}

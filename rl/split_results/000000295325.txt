@@ -1,0 +1,5 @@
+{"sent": "donut with a bite outta it", "ann_id": 1574435, "best_split": [3, 3], "split_score": 0.34176380027031406}
+{"sent": "bite out of", "ann_id": 1574435, "best_split": [1, 5], "split_score": 0.2708461066622589}
+{"sent": "half eaten donut", "ann_id": 1574435, "best_split": [3, 3], "split_score": 0.34176380027031406}
+{"sent": "foremost whole doughnut", "ann_id": 1573447, "best_split": [2, 2], "split_score": 0.3523839595553849}
+{"sent": "the next donut to be eaten", "ann_id": 1573447, "best_split": [2, 3], "split_score": 0.36687898085277293}

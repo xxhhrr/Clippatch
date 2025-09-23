@@ -1,0 +1,5 @@
+{"sent": "board by the green one mostly out of frame", "ann_id": 1862516, "best_split": [1, 5], "split_score": 0.3794642856757849}
+{"sent": "surfboard near partial hand", "ann_id": 1862516, "best_split": [2, 2], "split_score": 0.15784982934031216}
+{"sent": "green surfboad by the picture", "ann_id": 652162, "best_split": [1, 3], "split_score": 0.7299710424270046}
+{"sent": "gren surfoboard", "ann_id": 652162, "best_split": [1, 2], "split_score": 0.4823022958991429}
+{"sent": "green board", "ann_id": 652162, "best_split": [1, 3], "split_score": 0.7299710424270046}

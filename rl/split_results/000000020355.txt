@@ -1,0 +1,6 @@
+{"sent": "elephant further away", "ann_id": 583154, "best_split": [2, 3], "split_score": 0.6588531186459906}
+{"sent": "elephant that man is leading", "ann_id": 583154, "best_split": [2, 3], "split_score": 0.6588531186459906}
+{"sent": "elephant on leash", "ann_id": 583154, "best_split": [2, 3], "split_score": 0.6588531186459906}
+{"sent": "elephant not on leash", "ann_id": 582215, "best_split": [2, 1], "split_score": 0.2409921824416331}
+{"sent": "closest elephant", "ann_id": 582215, "best_split": [1, 2], "split_score": 0.6555320316531196}
+{"sent": "big elephant near the man", "ann_id": 582215, "best_split": [1, 2], "split_score": 0.6555320316531196}

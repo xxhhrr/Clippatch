@@ -1,0 +1,13 @@
+{"sent": "red shirt", "ann_id": 560665, "best_split": [1, 5], "split_score": 0.60025380705899}
+{"sent": "big smile by cake", "ann_id": 560665, "best_split": [3, 1], "split_score": 0.19771998574110616}
+{"sent": "girl maroon shirt", "ann_id": 560665, "best_split": [1, 5], "split_score": 0.60025380705899}
+{"sent": "the area between the wine glass and the border", "ann_id": 2225899, "best_split": [3, 2], "split_score": 0.652164359409782}
+{"sent": "space next to glass closest to camera", "ann_id": 2225899, "best_split": [3, 2], "split_score": 0.652164359409782}
+{"sent": "table by wine glass", "ann_id": 2225899, "best_split": [3, 2], "split_score": 0.652164359409782}
+{"sent": "two hands grasped together", "ann_id": 2164795, "best_split": [3, 3], "split_score": 0.3737373736863585}
+{"sent": "edge hand", "ann_id": 2164795, "best_split": [1, 5], "split_score": 0.4655032467060163}
+{"sent": "man", "ann_id": 557819, "best_split": [1, 2], "split_score": 0.28308354590708373}
+{"sent": "man in black", "ann_id": 557819, "best_split": [3, 3], "split_score": 0.4530961182471007}
+{"sent": "girl with glasses", "ann_id": 444647, "best_split": [2, 3], "split_score": 0.4062059237981941}
+{"sent": "girl with glasses", "ann_id": 444647, "best_split": [2, 3], "split_score": 0.4062059237981941}
+{"sent": "glasses girl", "ann_id": 444647, "best_split": [2, 3], "split_score": 0.4062059237981941}

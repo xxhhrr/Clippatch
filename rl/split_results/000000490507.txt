@@ -1,0 +1,6 @@
+{"sent": "cat at 3 o clock", "ann_id": 2066756, "best_split": [3, 2], "split_score": 0.5838422263906454}
+{"sent": "cat next to curtains", "ann_id": 2066756, "best_split": [3, 2], "split_score": 0.5838422263906454}
+{"sent": "cat closest to bear head is turned to side staring at bear", "ann_id": 2066756, "best_split": [3, 2], "split_score": 0.5838422263906454}
+{"sent": "kitten by wall", "ann_id": 46407, "best_split": [3, 3], "split_score": 0.24749163876642477}
+{"sent": "number 1 cat", "ann_id": 46407, "best_split": [3, 3], "split_score": 0.24749163876642477}
+{"sent": "kitty nearest wall", "ann_id": 46407, "best_split": [3, 3], "split_score": 0.24749163876642477}

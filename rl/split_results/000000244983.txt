@@ -1,0 +1,6 @@
+{"sent": "train with symbol", "ann_id": 172717, "best_split": [5, 1], "split_score": 0.3514513929133595}
+{"sent": "train with two lihhts", "ann_id": 172717, "best_split": [5, 1], "split_score": 0.3514513929133595}
+{"sent": "train closest to speed limit sign", "ann_id": 172717, "best_split": [5, 1], "split_score": 0.3514513929133595}
+{"sent": "train near tall pole", "ann_id": 172644, "best_split": [3, 2], "split_score": 0.47601476009271043}
+{"sent": "train behind pole", "ann_id": 172644, "best_split": [3, 2], "split_score": 0.47601476009271043}
+{"sent": "train showing back", "ann_id": 172644, "best_split": [3, 2], "split_score": 0.47601476009271043}

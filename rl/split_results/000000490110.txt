@@ -1,0 +1,15 @@
+{"sent": "carrots by radishes and leafy greens", "ann_id": 1064003, "best_split": [3, 2], "split_score": 0.34040524429792546}
+{"sent": "closest carrots", "ann_id": 1064003, "best_split": [3, 2], "split_score": 0.34040524429792546}
+{"sent": "lower carrots", "ann_id": 1064003, "best_split": [3, 2], "split_score": 0.34040524429792546}
+{"sent": "carrots upper pic", "ann_id": 1063845, "best_split": [2, 3], "split_score": 0.3851351350886661}
+{"sent": "carrots near green apples and garlic", "ann_id": 1063845, "best_split": [2, 3], "split_score": 0.3851351350886661}
+{"sent": "green apples in corner", "ann_id": 1049759, "best_split": [3, 3], "split_score": 0.5726807887924249}
+{"sent": "green apples in corner", "ann_id": 1049759, "best_split": [3, 3], "split_score": 0.5726807887924249}
+{"sent": "green apples by cherry tomatoes", "ann_id": 1049527, "best_split": [2, 3], "split_score": 0.2269488683752149}
+{"sent": "green apples surrounded by other squares", "ann_id": 1049527, "best_split": [1, 3], "split_score": 0.0627059198606278}
+{"sent": "green apples down", "ann_id": 1049527, "best_split": [1, 2], "split_score": 0.13107990160552727}
+{"sent": "red apple set number 1", "ann_id": 1048291, "best_split": [3, 2], "split_score": 0.3918918918446076}
+{"sent": "red apples between the oranges and green ones", "ann_id": 1048291, "best_split": [3, 2], "split_score": 0.3918918918446076}
+{"sent": "red item in upper", "ann_id": 1048291, "best_split": [3, 2], "split_score": 0.3918918918446076}
+{"sent": "lower dark apples", "ann_id": 1048023, "best_split": [2, 3], "split_score": 0.36016192399569447}
+{"sent": "apples that are red and lower", "ann_id": 1048023, "best_split": [2, 3], "split_score": 0.36016192399569447}

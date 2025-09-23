@@ -1,0 +1,5 @@
+{"sent": "shes looking at bartender", "ann_id": 569180, "best_split": [3, 2], "split_score": 0.450602409593313}
+{"sent": "lady looking at waiter", "ann_id": 569180, "best_split": [3, 2], "split_score": 0.450602409593313}
+{"sent": "guy behind counter", "ann_id": 1761921, "best_split": [1, 2], "split_score": 0.7074298469105775}
+{"sent": "bartender", "ann_id": 1761921, "best_split": [1, 2], "split_score": 0.7074298469105775}
+{"sent": "man serving", "ann_id": 1761921, "best_split": [1, 2], "split_score": 0.7074298469105775}

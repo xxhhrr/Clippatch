@@ -1,0 +1,6 @@
+{"sent": "closest giraffe", "ann_id": 598470, "best_split": [2, 1], "split_score": 0.7034807831507077}
+{"sent": "giraffe with head down", "ann_id": 598470, "best_split": [2, 1], "split_score": 0.7034807831507077}
+{"sent": "shorter giraffe", "ann_id": 598470, "best_split": [2, 1], "split_score": 0.7034807831507077}
+{"sent": "taller gir", "ann_id": 598440, "best_split": [2, 1], "split_score": 0.465734265722634}
+{"sent": "the taller giraffe", "ann_id": 598440, "best_split": [1, 2], "split_score": 0.6172839506002733}
+{"sent": "taller giraffe", "ann_id": 598440, "best_split": [1, 2], "split_score": 0.6172839506002733}

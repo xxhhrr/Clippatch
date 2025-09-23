@@ -1,0 +1,17 @@
+{"sent": "boy looking at girl falling frisbee cutting of his leg", "ann_id": 1332001, "best_split": [2, 1], "split_score": 0.039014510076069514}
+{"sent": "boy standing on his side watching", "ann_id": 1332001, "best_split": [3, 2], "split_score": 0.25678605495995266}
+{"sent": "asian man with stunned look on face turned sideways", "ann_id": 1332001, "best_split": [1, 2], "split_score": 0.24728954080646964}
+{"sent": "woman to far east", "ann_id": 1329080, "best_split": [2, 1], "split_score": 0.05130597014754444}
+{"sent": "person standing closest to score box", "ann_id": 1329080, "best_split": [2, 1], "split_score": 0.05130597014754444}
+{"sent": "man on edge of photo ready to run 3 behind the one catching frisbee", "ann_id": 1318587, "best_split": [1, 3], "split_score": 0.3082166988231047}
+{"sent": "guy in crowd with black shirt and white shorts and glasses", "ann_id": 1314131, "best_split": [1, 3], "split_score": 0.16682242989679774}
+{"sent": "man in crowd with black shirt and white shirts", "ann_id": 1314131, "best_split": [2, 3], "split_score": 0.24911830712310373}
+{"sent": "taller man in audience with black shirt", "ann_id": 1314131, "best_split": [2, 3], "split_score": 0.24911830712310373}
+{"sent": "the closest player standing behind the fallen player", "ann_id": 1234360, "best_split": [1, 3], "split_score": 0.5273905466931283}
+{"sent": "woman with arms out not on the ground", "ann_id": 1234360, "best_split": [1, 2], "split_score": 0.4573102678389146}
+{"sent": "person with baby", "ann_id": 2162048, "best_split": [3, 3], "split_score": 0.28257372650367646}
+{"sent": "woman in black holding baby", "ann_id": 2162048, "best_split": [1, 3], "split_score": 0.24686293434804157}
+{"sent": "person holding the child in the background", "ann_id": 2162048, "best_split": [2, 3], "split_score": 0.34302451721164845}
+{"sent": "girl falling for frissbee", "ann_id": 1227653, "best_split": [2, 1], "split_score": 0.554966517835022}
+{"sent": "girl diving on ground", "ann_id": 1227653, "best_split": [2, 1], "split_score": 0.554966517835022}
+{"sent": "diving girl", "ann_id": 1227653, "best_split": [2, 1], "split_score": 0.554966517835022}

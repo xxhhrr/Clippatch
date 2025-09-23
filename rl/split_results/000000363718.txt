@@ -1,0 +1,9 @@
+{"sent": "directly under umbrella", "ann_id": 1253497, "best_split": [1, 5], "split_score": 0.3726993864673409}
+{"sent": "guy 2", "ann_id": 1253497, "best_split": [1, 5], "split_score": 0.3726993864673409}
+{"sent": "man in military uniform", "ann_id": 1253497, "best_split": [1, 5], "split_score": 0.3726993864673409}
+{"sent": "short man under umbrella", "ann_id": 1223125, "best_split": [1, 3], "split_score": 0.20813223936968314}
+{"sent": "man in full view in all black", "ann_id": 1223125, "best_split": [2, 3], "split_score": 0.23766343312550997}
+{"sent": "short guy under umbrella in black", "ann_id": 1223125, "best_split": [1, 3], "split_score": 0.20813223936968314}
+{"sent": "female with handbag", "ann_id": 1332364, "best_split": [1, 5], "split_score": 0.40330165078506236}
+{"sent": "blond woman with colorful purse", "ann_id": 1332364, "best_split": [1, 5], "split_score": 0.40330165078506236}
+{"sent": "woman under umbrella", "ann_id": 1332364, "best_split": [1, 5], "split_score": 0.40330165078506236}

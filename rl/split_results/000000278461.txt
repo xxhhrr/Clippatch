@@ -1,0 +1,12 @@
+{"sent": "black suit with orange tie", "ann_id": 1244169, "best_split": [1, 5], "split_score": 0.6607886832031016}
+{"sent": "numberone in line", "ann_id": 1244169, "best_split": [2, 2], "split_score": 0.357035313416573}
+{"sent": "man at 900", "ann_id": 1244169, "best_split": [1, 2], "split_score": 0.2903778698863848}
+{"sent": "guy getting elbowed by singer", "ann_id": 544093, "best_split": [3, 2], "split_score": 0.24535774001184918}
+{"sent": "guy hidden by red shirt arm", "ann_id": 544093, "best_split": [2, 2], "split_score": 0.32844976902941325}
+{"sent": "red tie next to red shirt", "ann_id": 544093, "best_split": [2, 2], "split_score": 0.32844976902941325}
+{"sent": "man with tie and beard nearest to mic", "ann_id": 520875, "best_split": [2, 3], "split_score": 0.5649116312977781}
+{"sent": "man with red beard and yellow tie", "ann_id": 520875, "best_split": [1, 5], "split_score": 0.5789473683715869}
+{"sent": "red beard leaning in", "ann_id": 520875, "best_split": [3, 1], "split_score": 0.19680851062895097}
+{"sent": "red", "ann_id": 488244, "best_split": [2, 2], "split_score": 0.4508377051700323}
+{"sent": "red shirt", "ann_id": 488244, "best_split": [2, 2], "split_score": 0.4508377051700323}
+{"sent": "red shirt", "ann_id": 488244, "best_split": [2, 2], "split_score": 0.4508377051700323}

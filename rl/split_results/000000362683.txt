@@ -1,0 +1,6 @@
+{"sent": "woman with knife", "ann_id": 498960, "best_split": [1, 2], "split_score": 0.4911511479396065}
+{"sent": "woman cutting cake", "ann_id": 498960, "best_split": [1, 2], "split_score": 0.4911511479396065}
+{"sent": "dark blue cardigan woman smiling", "ann_id": 498960, "best_split": [1, 3], "split_score": 0.7223745380425334}
+{"sent": "main guy", "ann_id": 488596, "best_split": [3, 3], "split_score": 0.5270137523910837}
+{"sent": "happyish guy", "ann_id": 488596, "best_split": [1, 5], "split_score": 0.45769764212398595}
+{"sent": "guy with striped scarf", "ann_id": 488596, "best_split": [3, 3], "split_score": 0.5270137523910837}

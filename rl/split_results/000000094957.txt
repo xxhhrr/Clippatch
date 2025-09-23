@@ -1,0 +1,6 @@
+{"sent": "tray of food closest to us", "ann_id": 713363, "best_split": [3, 1], "split_score": 0.45346282805950217}
+{"sent": "tin foil bowl close", "ann_id": 713363, "best_split": [3, 1], "split_score": 0.45346282805950217}
+{"sent": "full meal closest to camera", "ann_id": 713363, "best_split": [3, 1], "split_score": 0.45346282805950217}
+{"sent": "red bowl", "ann_id": 711607, "best_split": [3, 2], "split_score": 0.5727399488063282}
+{"sent": "small red bowl aove carrots", "ann_id": 711607, "best_split": [1, 2], "split_score": 0.19400928913666027}
+{"sent": "tray with only half showing", "ann_id": 711607, "best_split": [3, 2], "split_score": 0.5727399488063282}

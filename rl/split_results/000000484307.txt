@@ -1,0 +1,8 @@
+{"sent": "fingertip on banana", "ann_id": 1727873, "best_split": [2, 2], "split_score": 0.7533482142256578}
+{"sent": "fingersip", "ann_id": 1727873, "best_split": [2, 2], "split_score": 0.7533482142256578}
+{"sent": "finger", "ann_id": 1727873, "best_split": [2, 2], "split_score": 0.7533482142256578}
+{"sent": "shoe thats missing half the foot", "ann_id": 1711463, "best_split": [1, 5], "split_score": 0.5351351350834811}
+{"sent": "the foot slash shoe not near hand finger", "ann_id": 1711463, "best_split": [5, 1], "split_score": 0.15313225056894342}
+{"sent": "half shoe", "ann_id": 1711463, "best_split": [1, 2], "split_score": 0.24107142856181954}
+{"sent": "the shoe closer to the fingers", "ann_id": 444876, "best_split": [1, 5], "split_score": 0.6032222555185407}
+{"sent": "10 o clock item", "ann_id": 444876, "best_split": [1, 2], "split_score": 0.24573501274530712}

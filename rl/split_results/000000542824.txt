@@ -1,0 +1,5 @@
+{"sent": "full glass not cup", "ann_id": 1507509, "best_split": [1, 5], "split_score": 0.22103598257996876}
+{"sent": "orange juice", "ann_id": 1507509, "best_split": [1, 5], "split_score": 0.22103598257996876}
+{"sent": "juice glass", "ann_id": 1507509, "best_split": [1, 5], "split_score": 0.22103598257996876}
+{"sent": "coffee", "ann_id": 669307, "best_split": [3, 2], "split_score": 0.24734555981571602}
+{"sent": "mug in hand", "ann_id": 669307, "best_split": [3, 2], "split_score": 0.24734555981571602}

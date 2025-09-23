@@ -1,0 +1,12 @@
+{"sent": "white shirt red fanny pack", "ann_id": 1740147, "best_split": [1, 5], "split_score": 0.3990706319331719}
+{"sent": "standing woman", "ann_id": 1740147, "best_split": [2, 3], "split_score": 0.22355289419129443}
+{"sent": "woman with red fanny pack", "ann_id": 1740147, "best_split": [1, 5], "split_score": 0.3990706319331719}
+{"sent": "woman on side face turned away", "ann_id": 1738058, "best_split": [1, 3], "split_score": 0.32052364862931204}
+{"sent": "woman in white shirt seated", "ann_id": 1738058, "best_split": [1, 3], "split_score": 0.32052364862931204}
+{"sent": "girl out of frame hand to mouth", "ann_id": 1738058, "best_split": [3, 2], "split_score": 0.2188368133149174}
+{"sent": "person in white off to side cant see face", "ann_id": 500449, "best_split": [2, 3], "split_score": 0.3192765162371693}
+{"sent": "cut off standing white shirt", "ann_id": 500449, "best_split": [1, 5], "split_score": 0.5207995129341721}
+{"sent": "cutoff person standing in white", "ann_id": 500449, "best_split": [3, 1], "split_score": 0.10969687675153622}
+{"sent": "woman in green", "ann_id": 440518, "best_split": [2, 1], "split_score": 0.48546598740345337}
+{"sent": "smiling person in green", "ann_id": 440518, "best_split": [2, 1], "split_score": 0.48546598740345337}
+{"sent": "woman in green shirt", "ann_id": 440518, "best_split": [2, 1], "split_score": 0.48546598740345337}

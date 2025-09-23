@@ -1,0 +1,6 @@
+{"sent": "eggs an rice plate i", "ann_id": 1040791, "best_split": [2, 2], "split_score": 0.473307775907003}
+{"sent": "blue dish", "ann_id": 1040791, "best_split": [2, 2], "split_score": 0.473307775907003}
+{"sent": "oval plate", "ann_id": 1040791, "best_split": [2, 2], "split_score": 0.473307775907003}
+{"sent": "fish", "ann_id": 1040164, "best_split": [3, 1], "split_score": 0.3203431112824133}
+{"sent": "rectangular container", "ann_id": 1040164, "best_split": [2, 3], "split_score": 0.4795591894348063}
+{"sent": "container by orange", "ann_id": 1040164, "best_split": [5, 1], "split_score": 0.36184210523610627}

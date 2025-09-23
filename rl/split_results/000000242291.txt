@@ -1,0 +1,6 @@
+{"sent": "couch with striped pillow", "ann_id": 319740, "best_split": [2, 3], "split_score": 0.38443985652673696}
+{"sent": "caouch with pillows", "ann_id": 319740, "best_split": [2, 3], "split_score": 0.38443985652673696}
+{"sent": "pillow", "ann_id": 319740, "best_split": [2, 3], "split_score": 0.38443985652673696}
+{"sent": "rug", "ann_id": 318270, "best_split": [3, 1], "split_score": 0.8286719541517877}
+{"sent": "rug", "ann_id": 318270, "best_split": [3, 1], "split_score": 0.8286719541517877}
+{"sent": "striped bedspread", "ann_id": 318270, "best_split": [3, 1], "split_score": 0.8286719541517877}

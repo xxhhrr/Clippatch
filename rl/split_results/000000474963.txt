@@ -1,0 +1,13 @@
+{"sent": "chair that flowers partly cover", "ann_id": 113056, "best_split": [3, 2], "split_score": 0.3686052123107378}
+{"sent": "chair touching flowers", "ann_id": 113056, "best_split": [3, 2], "split_score": 0.3686052123107378}
+{"sent": "chair by lamp", "ann_id": 113056, "best_split": [3, 2], "split_score": 0.3686052123107378}
+{"sent": "couch", "ann_id": 99762, "best_split": [2, 2], "split_score": 0.8359432166811105}
+{"sent": "couch closest to camera", "ann_id": 99762, "best_split": [2, 2], "split_score": 0.8359432166811105}
+{"sent": "couch at 8", "ann_id": 99762, "best_split": [2, 2], "split_score": 0.8359432166811105}
+{"sent": "brown puffy one alone", "ann_id": 98883, "best_split": [2, 1], "split_score": 0.12185788248961289}
+{"sent": "darker love seat facing piano", "ann_id": 98883, "best_split": [5, 1], "split_score": 0.21059580787171184}
+{"sent": "chair nearest to bay window", "ann_id": 98883, "best_split": [3, 3], "split_score": 0.5506329113094284}
+{"sent": "far chair next to lamp", "ann_id": 1943005, "best_split": [3, 2], "split_score": 0.35521235516949656}
+{"sent": "chair under white thing on wall", "ann_id": 1943005, "best_split": [5, 1], "split_score": 0.1878247958251833}
+{"sent": "arm chair far near statue", "ann_id": 1943005, "best_split": [3, 2], "split_score": 0.35521235516949656}
+{"sent": "chair 300", "ann_id": 1934620, "best_split": [3, 3], "split_score": 0.5834107086686149}

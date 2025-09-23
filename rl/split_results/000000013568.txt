@@ -1,0 +1,12 @@
+{"sent": "red wine you cant see all of", "ann_id": 667050, "best_split": [1, 5], "split_score": 0.6702854140544313}
+{"sent": "glass with red wine near us", "ann_id": 667050, "best_split": [1, 5], "split_score": 0.6702854140544313}
+{"sent": "9 o clock", "ann_id": 667050, "best_split": [2, 3], "split_score": 0.5059774661988494}
+{"sent": "number 2 glass", "ann_id": 666652, "best_split": [2, 3], "split_score": 0.545454545391297}
+{"sent": "11 o clock", "ann_id": 666652, "best_split": [2, 1], "split_score": 0.01127819548834324}
+{"sent": "glass with red wine farthest", "ann_id": 664752, "best_split": [2, 1], "split_score": 0.25422667500570495}
+{"sent": "fifth glass", "ann_id": 662412, "best_split": [2, 1], "split_score": 0.21615551967800703}
+{"sent": "empty wine glass on the side", "ann_id": 662412, "best_split": [2, 1], "split_score": 0.21615551967800703}
+{"sent": "yellow wine in the big glass", "ann_id": 662412, "best_split": [1, 3], "split_score": 0.5609552238471072}
+{"sent": "glass above words", "ann_id": 662122, "best_split": [3, 1], "split_score": 0.18283917339494388}
+{"sent": "glass direct back from tas ting", "ann_id": 662122, "best_split": [1, 5], "split_score": 0.4553571428109418}
+{"sent": "empty wine glass", "ann_id": 662122, "best_split": [3, 1], "split_score": 0.18283917339494388}

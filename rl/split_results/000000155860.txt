@@ -1,0 +1,4 @@
+{"sent": "big banana", "ann_id": 1546858, "best_split": [3, 1], "split_score": 0.9013634169340393}
+{"sent": "banana most showing", "ann_id": 1546858, "best_split": [3, 1], "split_score": 0.9013634169340393}
+{"sent": "half banana next to bitten apple", "ann_id": 1546252, "best_split": [2, 3], "split_score": 0.734157650614467}
+{"sent": "banana directly behind by apple", "ann_id": 1546252, "best_split": [2, 3], "split_score": 0.734157650614467}

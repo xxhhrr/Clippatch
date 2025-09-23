@@ -1,0 +1,13 @@
+{"sent": "orange near black parts of bananas", "ann_id": 1053862, "best_split": [2, 3], "split_score": 0.3929055580215877}
+{"sent": "orange directly under the two banana ends", "ann_id": 1053862, "best_split": [2, 3], "split_score": 0.3929055580215877}
+{"sent": "orange in the corner beneath whole orange", "ann_id": 1052143, "best_split": [3, 3], "split_score": 0.47572119683287556}
+{"sent": "corner of pictue pieve of orange", "ann_id": 1052143, "best_split": [3, 3], "split_score": 0.47572119683287556}
+{"sent": "orange by banana", "ann_id": 1051798, "best_split": [2, 2], "split_score": 0.5211122553732549}
+{"sent": "orange next to bananas", "ann_id": 1051798, "best_split": [2, 2], "split_score": 0.5211122553732549}
+{"sent": "main orange", "ann_id": 1051798, "best_split": [2, 2], "split_score": 0.5211122553732549}
+{"sent": "banana above the other", "ann_id": 1043978, "best_split": [1, 2], "split_score": 0.5412300683217189}
+{"sent": "banana furthest from orange", "ann_id": 1043978, "best_split": [1, 2], "split_score": 0.5412300683217189}
+{"sent": "high banana", "ann_id": 1043978, "best_split": [1, 2], "split_score": 0.5412300683217189}
+{"sent": "smaller banana", "ann_id": 1042764, "best_split": [3, 1], "split_score": 0.4960390005904921}
+{"sent": "banana between orange and banana", "ann_id": 1042764, "best_split": [3, 1], "split_score": 0.4960390005904921}
+{"sent": "banana by biggest orange", "ann_id": 1042764, "best_split": [3, 1], "split_score": 0.4960390005904921}

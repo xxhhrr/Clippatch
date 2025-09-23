@@ -1,0 +1,12 @@
+{"sent": "chopping broccoli", "ann_id": 1039908, "best_split": [2, 2], "split_score": 0.8035714285073683}
+{"sent": "broccoli", "ann_id": 1039908, "best_split": [2, 2], "split_score": 0.8035714285073683}
+{"sent": "broccoli", "ann_id": 1039908, "best_split": [2, 2], "split_score": 0.8035714285073683}
+{"sent": "bowl with crackers", "ann_id": 1039353, "best_split": [2, 2], "split_score": 0.8541289933051439}
+{"sent": "container filled with crackerlike trial mix with seaweed", "ann_id": 1039353, "best_split": [2, 1], "split_score": 0.019986821875137634}
+{"sent": "not broccoli not sushi doesnt look like puke", "ann_id": 1039353, "best_split": [1, 5], "split_score": 0.30352045668984773}
+{"sent": "sushi", "ann_id": 1038146, "best_split": [2, 2], "split_score": 0.9323496026536247}
+{"sent": "sushi", "ann_id": 1038146, "best_split": [2, 2], "split_score": 0.9323496026536247}
+{"sent": "sushi rolls", "ann_id": 1038146, "best_split": [2, 2], "split_score": 0.9323496026536247}
+{"sent": "brown food", "ann_id": 713194, "best_split": [2, 2], "split_score": 0.8016048143897289}
+{"sent": "looks like chicken", "ann_id": 713194, "best_split": [2, 2], "split_score": 0.8016048143897289}
+{"sent": "fried chicken", "ann_id": 713194, "best_split": [2, 2], "split_score": 0.8016048143897289}

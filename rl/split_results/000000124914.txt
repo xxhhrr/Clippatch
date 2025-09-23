@@ -1,0 +1,6 @@
+{"sent": "other dish cut off", "ann_id": 1039058, "best_split": [1, 2], "split_score": 0.15468458379415137}
+{"sent": "cut off bowl", "ann_id": 1039058, "best_split": [2, 3], "split_score": 0.24025974023865743}
+{"sent": "bowl where you can not see contents", "ann_id": 1039058, "best_split": [1, 3], "split_score": 0.1390977443538357}
+{"sent": "container with fruit", "ann_id": 1038602, "best_split": [2, 1], "split_score": 0.5680027660327479}
+{"sent": "halloween food", "ann_id": 1038602, "best_split": [2, 1], "split_score": 0.5680027660327479}
+{"sent": "dish", "ann_id": 1038602, "best_split": [2, 1], "split_score": 0.5680027660327479}

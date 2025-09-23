@@ -1,0 +1,6 @@
+{"sent": "bike near wall", "ann_id": 152839, "best_split": [3, 1], "split_score": 0.3014568804701562}
+{"sent": "the one that doesnt have white fender showing", "ann_id": 152839, "best_split": [2, 1], "split_score": 0.2730728965708008}
+{"sent": "bike whose wheel is crossed by red rope", "ann_id": 152839, "best_split": [1, 2], "split_score": 0.622029555245111}
+{"sent": "partial motorcycle", "ann_id": 151937, "best_split": [1, 2], "split_score": 0.8365752550686951}
+{"sent": "motorcycle with white fender", "ann_id": 151937, "best_split": [1, 2], "split_score": 0.8365752550686951}
+{"sent": "closest bike", "ann_id": 151937, "best_split": [1, 2], "split_score": 0.8365752550686951}

@@ -1,0 +1,6 @@
+{"sent": "man in white hanging head", "ann_id": 213466, "best_split": [1, 3], "split_score": 0.20994208492941951}
+{"sent": "man in tie looking sad", "ann_id": 213466, "best_split": [2, 3], "split_score": 0.36077705823765294}
+{"sent": "tie and head down", "ann_id": 213466, "best_split": [5, 1], "split_score": 0.15203870074705955}
+{"sent": "man with phone", "ann_id": 192573, "best_split": [1, 2], "split_score": 0.5807488653372179}
+{"sent": "man on phone", "ann_id": 192573, "best_split": [1, 2], "split_score": 0.5807488653372179}
+{"sent": "white hair", "ann_id": 192573, "best_split": [1, 2], "split_score": 0.5807488653372179}

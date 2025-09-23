@@ -1,0 +1,6 @@
+{"sent": "man at grill", "ann_id": 462074, "best_split": [1, 2], "split_score": 0.5165019132447185}
+{"sent": "man", "ann_id": 462074, "best_split": [1, 3], "split_score": 0.781732625435465}
+{"sent": "man", "ann_id": 462074, "best_split": [1, 3], "split_score": 0.781732625435465}
+{"sent": "woman", "ann_id": 456883, "best_split": [1, 3], "split_score": 0.694980694938768}
+{"sent": "white shirt", "ann_id": 456883, "best_split": [1, 3], "split_score": 0.694980694938768}
+{"sent": "woman", "ann_id": 456883, "best_split": [1, 3], "split_score": 0.694980694938768}

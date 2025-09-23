@@ -1,0 +1,7 @@
+{"sent": "second zebra", "ann_id": 1412744, "best_split": [2, 1], "split_score": 0.5341295247344464}
+{"sent": "zebra between zebras dontquit", "ann_id": 1412744, "best_split": [2, 1], "split_score": 0.5341295247344464}
+{"sent": "third zebras mane", "ann_id": 1412313, "best_split": [1, 2], "split_score": 0.551559468715432}
+{"sent": "zebra in back", "ann_id": 1412313, "best_split": [1, 2], "split_score": 0.551559468715432}
+{"sent": "zebra closest to us", "ann_id": 588974, "best_split": [2, 1], "split_score": 0.5316100646079579}
+{"sent": "zebra", "ann_id": 588974, "best_split": [2, 1], "split_score": 0.5316100646079579}
+{"sent": "these people drink too muchcloser zebra", "ann_id": 588974, "best_split": [2, 1], "split_score": 0.5316100646079579}

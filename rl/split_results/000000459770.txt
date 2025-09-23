@@ -1,0 +1,8 @@
+{"sent": "green on pepperoni but no head", "ann_id": 1561288, "best_split": [1, 2], "split_score": 0.04629629629462181}
+{"sent": "broccoli spear with a speared end and no head", "ann_id": 1561288, "best_split": [1, 3], "split_score": 0.15370705243254368}
+{"sent": "broccoli closest to edge of frame standing upright", "ann_id": 1061127, "best_split": [1, 2], "split_score": 0.143494897953464}
+{"sent": "4 pm brocoli", "ann_id": 1061127, "best_split": [1, 2], "split_score": 0.143494897953464}
+{"sent": "broccoli between slightly burnt pepperoni", "ann_id": 1057348, "best_split": [3, 1], "split_score": 0.25452495064818015}
+{"sent": "broccoli up t", "ann_id": 1057348, "best_split": [2, 3], "split_score": 0.6121247112457131}
+{"sent": "brocolli piece with head on seam between to peperonis", "ann_id": 1056238, "best_split": [2, 3], "split_score": 0.36591860019342726}
+{"sent": "biggest long brocli", "ann_id": 1056238, "best_split": [5, 1], "split_score": 0.26444444442345677}

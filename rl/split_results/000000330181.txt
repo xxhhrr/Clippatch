@@ -1,0 +1,12 @@
+{"sent": "the chair", "ann_id": 2190127, "best_split": [2, 2], "split_score": 0.6198979591342556}
+{"sent": "chair", "ann_id": 2190127, "best_split": [2, 2], "split_score": 0.6198979591342556}
+{"sent": "beige chair back", "ann_id": 2190127, "best_split": [2, 1], "split_score": 0.30994897957948225}
+{"sent": "the smallest suitcase", "ann_id": 1185535, "best_split": [2, 3], "split_score": 0.42806707850528825}
+{"sent": "smaller red case", "ann_id": 1185535, "best_split": [2, 3], "split_score": 0.42806707850528825}
+{"sent": "bag close and small", "ann_id": 1185535, "best_split": [2, 3], "split_score": 0.42806707850528825}
+{"sent": "big red luggage", "ann_id": 1185493, "best_split": [2, 3], "split_score": 0.35505193575800054}
+{"sent": "taller suitcase", "ann_id": 1185493, "best_split": [2, 3], "split_score": 0.35505193575800054}
+{"sent": "larger red luggage", "ann_id": 1185493, "best_split": [2, 3], "split_score": 0.35505193575800054}
+{"sent": "white headboard", "ann_id": 379060, "best_split": [1, 5], "split_score": 0.2504706231793847}
+{"sent": "headboard", "ann_id": 379060, "best_split": [1, 5], "split_score": 0.2504706231793847}
+{"sent": "headboard of bed", "ann_id": 379060, "best_split": [1, 5], "split_score": 0.2504706231793847}

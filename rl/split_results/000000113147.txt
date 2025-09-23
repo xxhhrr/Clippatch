@@ -1,0 +1,9 @@
+{"sent": "person mostly out of frame next to lady", "ann_id": 1208316, "best_split": [2, 3], "split_score": 0.38010256406357923}
+{"sent": "man at 9 o clock in white shirt", "ann_id": 1208316, "best_split": [2, 1], "split_score": 0.13958568737704008}
+{"sent": "partial person in corner with hands", "ann_id": 1208316, "best_split": [2, 1], "split_score": 0.05077446690106361}
+{"sent": "man telephoning", "ann_id": 495694, "best_split": [1, 2], "split_score": 0.586754323686573}
+{"sent": "guy in hat", "ann_id": 495694, "best_split": [1, 2], "split_score": 0.586754323686573}
+{"sent": "man in fedora", "ann_id": 495694, "best_split": [1, 2], "split_score": 0.586754323686573}
+{"sent": "gal with hat", "ann_id": 466231, "best_split": [5, 1], "split_score": 0.10393094598717305}
+{"sent": "girl in hat", "ann_id": 466231, "best_split": [1, 3], "split_score": 0.5472972972642798}
+{"sent": "girl with hat", "ann_id": 466231, "best_split": [1, 3], "split_score": 0.5472972972642798}

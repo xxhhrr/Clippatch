@@ -1,0 +1,5 @@
+{"sent": "clock with light shine on", "ann_id": 1991910, "best_split": [1, 5], "split_score": 0.30636566221234707}
+{"sent": "smaller circle", "ann_id": 1991910, "best_split": [1, 5], "split_score": 0.30636566221234707}
+{"sent": "sideways clock face", "ann_id": 1991910, "best_split": [1, 5], "split_score": 0.30636566221234707}
+{"sent": "closest clock face", "ann_id": 1991710, "best_split": [3, 2], "split_score": 0.5030046300361536}
+{"sent": "clock facing most toward us", "ann_id": 1991710, "best_split": [3, 2], "split_score": 0.5030046300361536}

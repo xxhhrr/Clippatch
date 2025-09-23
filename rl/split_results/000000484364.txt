@@ -1,0 +1,4 @@
+{"sent": "3 up", "ann_id": 1547007, "best_split": [1, 3], "split_score": 0.13807798848614541}
+{"sent": "bananas at 3", "ann_id": 1547309, "best_split": [3, 1], "split_score": 0.4649265905178375}
+{"sent": "bananas 300", "ann_id": 1547309, "best_split": [3, 1], "split_score": 0.4649265905178375}
+{"sent": "banana 2 in", "ann_id": 1541678, "best_split": [5, 1], "split_score": 0.33681462138244006}

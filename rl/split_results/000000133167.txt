@@ -1,0 +1,5 @@
+{"sent": "bumper of white car with yellow plate not hatch back", "ann_id": 355429, "best_split": [3, 3], "split_score": 0.5084002920912344}
+{"sent": "white mercedes", "ann_id": 355429, "best_split": [3, 3], "split_score": 0.5084002920912344}
+{"sent": "white car you see bright red taillight", "ann_id": 355429, "best_split": [3, 3], "split_score": 0.5084002920912344}
+{"sent": "car past boy", "ann_id": 345290, "best_split": [3, 2], "split_score": 0.29505582133799774}
+{"sent": "farest car away", "ann_id": 345290, "best_split": [2, 3], "split_score": 0.3643783004843521}

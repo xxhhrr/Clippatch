@@ -1,0 +1,6 @@
+{"sent": "glass by decanter", "ann_id": 673890, "best_split": [2, 3], "split_score": 0.6500057318984288}
+{"sent": "pint glass", "ann_id": 673890, "best_split": [2, 3], "split_score": 0.6500057318984288}
+{"sent": "beer glass mostly drank", "ann_id": 673890, "best_split": [2, 3], "split_score": 0.6500057318984288}
+{"sent": "glass by empty plate", "ann_id": 673080, "best_split": [3, 3], "split_score": 0.33900303126658754}
+{"sent": "glass of water by candle", "ann_id": 673080, "best_split": [1, 5], "split_score": 0.25111607140309294}
+{"sent": "full glass", "ann_id": 673080, "best_split": [2, 1], "split_score": 0.06367460347842108}

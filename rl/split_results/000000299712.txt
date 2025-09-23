@@ -1,0 +1,6 @@
+{"sent": "salad with carrots", "ann_id": 1903741, "best_split": [2, 2], "split_score": 0.660193478992462}
+{"sent": "bowl with carrots", "ann_id": 1903741, "best_split": [2, 2], "split_score": 0.660193478992462}
+{"sent": "plate with sliced carrots", "ann_id": 1903741, "best_split": [2, 2], "split_score": 0.660193478992462}
+{"sent": "small round bowl", "ann_id": 1903191, "best_split": [5, 1], "split_score": 0.2840687864792287}
+{"sent": "rice", "ann_id": 1903191, "best_split": [2, 2], "split_score": 0.47624362241101376}
+{"sent": "rice bowl", "ann_id": 1903191, "best_split": [2, 2], "split_score": 0.47624362241101376}

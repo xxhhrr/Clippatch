@@ -1,0 +1,8 @@
+{"sent": "kid with black hair", "ann_id": 2167726, "best_split": [2, 2], "split_score": 0.4742238678101521}
+{"sent": "boy no hat", "ann_id": 2167726, "best_split": [1, 3], "split_score": 0.07697666318020827}
+{"sent": "kid no hat", "ann_id": 2167726, "best_split": [1, 3], "split_score": 0.3484518098370883}
+{"sent": "boy in red cap", "ann_id": 2166461, "best_split": [5, 1], "split_score": 0.10487843634952498}
+{"sent": "red cap boy", "ann_id": 2166461, "best_split": [5, 1], "split_score": 0.10487843634952498}
+{"sent": "red hat boy", "ann_id": 2166461, "best_split": [5, 1], "split_score": 0.10487843634952498}
+{"sent": "number 2", "ann_id": 566985, "best_split": [1, 2], "split_score": 0.7414419872485064}
+{"sent": "man with 2 on back", "ann_id": 566985, "best_split": [1, 2], "split_score": 0.7414419872485064}

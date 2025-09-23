@@ -1,0 +1,5 @@
+{"sent": "the person in white shirt", "ann_id": 483797, "best_split": [2, 2], "split_score": 0.5859374999532894}
+{"sent": "person with feet the lowest", "ann_id": 483797, "best_split": [3, 1], "split_score": 0.3403921568436755}
+{"sent": "white shirt", "ann_id": 483797, "best_split": [3, 2], "split_score": 0.6354319179423309}
+{"sent": "bluejeans", "ann_id": 482332, "best_split": [2, 3], "split_score": 0.4118182737618316}
+{"sent": "black shirt guy", "ann_id": 482332, "best_split": [2, 2], "split_score": 0.4516103315966509}

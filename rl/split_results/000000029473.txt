@@ -1,0 +1,9 @@
+{"sent": "bread", "ann_id": 1909556, "best_split": [3, 2], "split_score": 0.490503715879379}
+{"sent": "sandwich", "ann_id": 1909556, "best_split": [3, 2], "split_score": 0.490503715879379}
+{"sent": "bread in the bowl", "ann_id": 1909556, "best_split": [3, 2], "split_score": 0.490503715879379}
+{"sent": "plate with carrots", "ann_id": 1039523, "best_split": [2, 2], "split_score": 0.7831039391970233}
+{"sent": "food in bowls", "ann_id": 1039523, "best_split": [2, 1], "split_score": 0.0601834161236917}
+{"sent": "orange", "ann_id": 1039523, "best_split": [2, 2], "split_score": 0.7831039391970233}
+{"sent": "green stuff", "ann_id": 715541, "best_split": [2, 2], "split_score": 0.6969002532446689}
+{"sent": "cuces", "ann_id": 715541, "best_split": [1, 2], "split_score": 0.5781674295686955}
+{"sent": "bowl of zuccini", "ann_id": 715541, "best_split": [2, 2], "split_score": 0.6969002532446689}

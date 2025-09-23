@@ -1,0 +1,6 @@
+{"sent": "in between screen", "ann_id": 35598, "best_split": [3, 2], "split_score": 0.43335675797219997}
+{"sent": "monitor with mosst tiny squares", "ann_id": 35598, "best_split": [3, 1], "split_score": 0.2198977772364259}
+{"sent": "same monitor as last time", "ann_id": 35598, "best_split": [3, 1], "split_score": 0.2198977772364259}
+{"sent": "biggest monitor", "ann_id": 34132, "best_split": [3, 3], "split_score": 0.6431175142087975}
+{"sent": "screen that is not next to laptop", "ann_id": 34132, "best_split": [3, 3], "split_score": 0.6431175142087975}
+{"sent": "screen by itself", "ann_id": 34132, "best_split": [3, 1], "split_score": 0.21973785657910339}

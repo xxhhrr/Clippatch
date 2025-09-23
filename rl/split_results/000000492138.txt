@@ -1,0 +1,6 @@
+{"sent": "woman in red coat", "ann_id": 1725046, "best_split": [2, 2], "split_score": 0.5004573967263162}
+{"sent": "woman in red", "ann_id": 1725046, "best_split": [2, 2], "split_score": 0.5004573967263162}
+{"sent": "red", "ann_id": 1725046, "best_split": [2, 2], "split_score": 0.5004573967263162}
+{"sent": "woman with goggles", "ann_id": 481805, "best_split": [2, 2], "split_score": 0.41736909320451027}
+{"sent": "blue coat", "ann_id": 481805, "best_split": [3, 1], "split_score": 0.2729567074222017}
+{"sent": "girl in blue", "ann_id": 481805, "best_split": [3, 2], "split_score": 0.45664176677032786}

@@ -1,0 +1,9 @@
+{"sent": "flower in color in large size", "ann_id": 1968397, "best_split": [2, 3], "split_score": 0.8052606176634579}
+{"sent": "flower", "ann_id": 1968397, "best_split": [2, 3], "split_score": 0.8052606176634579}
+{"sent": "largest moitor showing white flower", "ann_id": 1968397, "best_split": [2, 3], "split_score": 0.8052606176634579}
+{"sent": "monitor of all black computer", "ann_id": 1968944, "best_split": [3, 3], "split_score": 0.18415514128319976}
+{"sent": "black monitor", "ann_id": 1968944, "best_split": [1, 5], "split_score": 0.20178448865557558}
+{"sent": "screen with hanging flower", "ann_id": 1968944, "best_split": [5, 1], "split_score": 0.1791245791073473}
+{"sent": "smallest computer screen", "ann_id": 33248, "best_split": [5, 1], "split_score": 0.15819537223756458}
+{"sent": "imac closest to sitting man", "ann_id": 33248, "best_split": [3, 3], "split_score": 0.38476990496991054}
+{"sent": "monitor near man", "ann_id": 33248, "best_split": [3, 2], "split_score": 0.25422297294229934}

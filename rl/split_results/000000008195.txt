@@ -1,0 +1,11 @@
+{"sent": "lid down opposite black seat", "ann_id": 1097501, "best_split": [3, 1], "split_score": 0.2506032818381634}
+{"sent": "lid down across from black toilet", "ann_id": 1097501, "best_split": [3, 3], "split_score": 0.7008124336452115}
+{"sent": "black seat", "ann_id": 1097438, "best_split": [2, 2], "split_score": 0.7979910713649561}
+{"sent": "gray black seat", "ann_id": 1097438, "best_split": [1, 2], "split_score": 0.39899553569838186}
+{"sent": "okay toilet with a black cover look out it has spiders in the bowl", "ann_id": 1097438, "best_split": [2, 2], "split_score": 0.7979910713649561}
+{"sent": "toilet next to black", "ann_id": 1096996, "best_split": [3, 2], "split_score": 0.41288610033628304}
+{"sent": "closed white toilet beside black one", "ann_id": 1096996, "best_split": [3, 2], "split_score": 0.41288610033628304}
+{"sent": "toilet at 3 pm", "ann_id": 1096996, "best_split": [5, 1], "split_score": 0.2379265336343533}
+{"sent": "toilet with lid open", "ann_id": 1094297, "best_split": [2, 3], "split_score": 0.5820463319761044}
+{"sent": "white toilet with lid open", "ann_id": 1094297, "best_split": [2, 3], "split_score": 0.5820463319761044}
+{"sent": "open white toilet", "ann_id": 1094297, "best_split": [2, 3], "split_score": 0.5820463319761044}

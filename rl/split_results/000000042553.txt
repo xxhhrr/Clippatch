@@ -1,0 +1,11 @@
+{"sent": "black shirt", "ann_id": 569501, "best_split": [1, 2], "split_score": 0.7525309336104177}
+{"sent": "man with black shirt", "ann_id": 569501, "best_split": [1, 2], "split_score": 0.7525309336104177}
+{"sent": "black shirt", "ann_id": 569501, "best_split": [1, 2], "split_score": 0.7525309336104177}
+{"sent": "shorter", "ann_id": 518534, "best_split": [2, 1], "split_score": 0.29817001807909965}
+{"sent": "light shirt guy", "ann_id": 518534, "best_split": [1, 2], "split_score": 0.8282139646078733}
+{"sent": "happy face", "ann_id": 518534, "best_split": [1, 3], "split_score": 0.5604523274509933}
+{"sent": "tie with happy face", "ann_id": 295615, "best_split": [2, 3], "split_score": 0.34976733876027394}
+{"sent": "happy face tie", "ann_id": 295615, "best_split": [2, 3], "split_score": 0.34976733876027394}
+{"sent": "tie being pointed at", "ann_id": 294883, "best_split": [1, 5], "split_score": 0.4504074736185244}
+{"sent": "black tie", "ann_id": 294883, "best_split": [1, 5], "split_score": 0.4504074736185244}
+{"sent": "black tie", "ann_id": 294883, "best_split": [1, 5], "split_score": 0.4504074736185244}

@@ -1,0 +1,8 @@
+{"sent": "taller girl", "ann_id": 219442, "best_split": [3, 1], "split_score": 0.1512387218906715}
+{"sent": "the girl in the blue dress", "ann_id": 219442, "best_split": [1, 5], "split_score": 0.4306307880106036}
+{"sent": "girl dress and boots", "ann_id": 219442, "best_split": [1, 5], "split_score": 0.4306307880106036}
+{"sent": "the shortest child in the light shirt", "ann_id": 204604, "best_split": [1, 5], "split_score": 0.23328785809743452}
+{"sent": "girl in white shirt", "ann_id": 204604, "best_split": [2, 3], "split_score": 0.27531645566897583}
+{"sent": "tallest boy", "ann_id": 204074, "best_split": [1, 5], "split_score": 0.8125854992366048}
+{"sent": "boy", "ann_id": 204074, "best_split": [1, 5], "split_score": 0.8125854992366048}
+{"sent": "tallest kid", "ann_id": 204074, "best_split": [1, 5], "split_score": 0.8125854992366048}

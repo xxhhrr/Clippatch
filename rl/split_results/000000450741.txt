@@ -1,0 +1,8 @@
+{"sent": "suitcase close to camera with white tag", "ann_id": 1187468, "best_split": [3, 3], "split_score": 0.36830065353459135}
+{"sent": "white tag close", "ann_id": 1187468, "best_split": [3, 1], "split_score": 0.17483108107053383}
+{"sent": "white tag suitcase near u", "ann_id": 1187468, "best_split": [3, 3], "split_score": 0.36830065353459135}
+{"sent": "suitcase in foreground with orange tags and handle extended", "ann_id": 1186950, "best_split": [1, 5], "split_score": 0.3107242568311115}
+{"sent": "suite case with oragen tag", "ann_id": 1186950, "best_split": [2, 2], "split_score": 0.48676658159384834}
+{"sent": "luggage with orange and white tags", "ann_id": 1186950, "best_split": [2, 2], "split_score": 0.48676658159384834}
+{"sent": "suitcase next to black red stripe duffle bag", "ann_id": 1184530, "best_split": [3, 3], "split_score": 0.4760362693529734}
+{"sent": "black bag closest to us near the orange strapped bag on the cart", "ann_id": 1184530, "best_split": [3, 3], "split_score": 0.4760362693529734}

@@ -1,0 +1,6 @@
+{"sent": "appliance next to fridge", "ann_id": 1646741, "best_split": [2, 1], "split_score": 0.09131855866982945}
+{"sent": "washer", "ann_id": 1646741, "best_split": [3, 1], "split_score": 0.1283416063555803}
+{"sent": "small appliance next to fridge", "ann_id": 1646741, "best_split": [2, 1], "split_score": 0.09131855866982945}
+{"sent": "refrigerator", "ann_id": 332544, "best_split": [5, 1], "split_score": 0.19782986630310953}
+{"sent": "refrigerator", "ann_id": 332544, "best_split": [5, 1], "split_score": 0.19782986630310953}
+{"sent": "fridge", "ann_id": 332544, "best_split": [5, 1], "split_score": 0.19782986630310953}

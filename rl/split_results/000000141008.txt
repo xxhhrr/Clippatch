@@ -1,0 +1,7 @@
+{"sent": "train with no yellow in back", "ann_id": 174816, "best_split": [3, 2], "split_score": 0.5229397694582584}
+{"sent": "train almost out of sight", "ann_id": 174816, "best_split": [3, 1], "split_score": 0.27507720460510826}
+{"sent": "train barely shown black", "ann_id": 174816, "best_split": [3, 1], "split_score": 0.27507720460510826}
+{"sent": "train you can see the most of", "ann_id": 174736, "best_split": [3, 1], "split_score": 0.4552289815225452}
+{"sent": "blue train winning the race", "ann_id": 174736, "best_split": [3, 1], "split_score": 0.4552289815225452}
+{"sent": "lead train with nose visible", "ann_id": 174736, "best_split": [3, 1], "split_score": 0.4552289815225452}
+{"sent": "train with white detailing around windows", "ann_id": 170499, "best_split": [3, 3], "split_score": 0.5820578230673833}

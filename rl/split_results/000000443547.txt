@@ -1,0 +1,18 @@
+{"sent": "elephant under dark blue shirt lady", "ann_id": 1821549, "best_split": [2, 1], "split_score": 0.21386586284047227}
+{"sent": "what is that under guy in tie next to last lit elephant", "ann_id": 1821549, "best_split": [2, 1], "split_score": 0.21386586284047227}
+{"sent": "elephant with no light", "ann_id": 1821549, "best_split": [2, 1], "split_score": 0.21386586284047227}
+{"sent": "elephant behind the leading one", "ann_id": 1821467, "best_split": [2, 1], "split_score": 0.23518275810997588}
+{"sent": "blue lights shaped like an upsidedown and reverse left", "ann_id": 1821467, "best_split": [3, 1], "split_score": 0.2345055371947491}
+{"sent": "blue lights between others", "ann_id": 1821467, "best_split": [3, 1], "split_score": 0.2345055371947491}
+{"sent": "blue cicle", "ann_id": 582530, "best_split": [1, 2], "split_score": 0.48370136696395893}
+{"sent": "lead elephant", "ann_id": 582530, "best_split": [2, 2], "split_score": 0.5258035309797531}
+{"sent": "closest one", "ann_id": 582530, "best_split": [2, 2], "split_score": 0.5258035309797531}
+{"sent": "lady riding on elephant", "ann_id": 567493, "best_split": [1, 5], "split_score": 0.2546076382049584}
+{"sent": "woman up", "ann_id": 567493, "best_split": [3, 2], "split_score": 0.2735828408542807}
+{"sent": "woman on elephant", "ann_id": 567493, "best_split": [1, 5], "split_score": 0.2546076382049584}
+{"sent": "slightly shortest person", "ann_id": 2163154, "best_split": [5, 1], "split_score": 0.1298385696814929}
+{"sent": "man with empty elephant", "ann_id": 2163154, "best_split": [2, 1], "split_score": 0.12603635203579255}
+{"sent": "man behind man closest to you", "ann_id": 2163154, "best_split": [2, 1], "split_score": 0.12603635203579255}
+{"sent": "little man under elephants", "ann_id": 562241, "best_split": [2, 1], "split_score": 0.10028698979192095}
+{"sent": "small man", "ann_id": 562241, "best_split": [2, 1], "split_score": 0.10028698979192095}
+{"sent": "the guy on the road that looks the shortest", "ann_id": 562241, "best_split": [3, 1], "split_score": 0.10205495266092963}

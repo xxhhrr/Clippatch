@@ -1,0 +1,14 @@
+{"sent": "truck", "ann_id": 394387, "best_split": [1, 2], "split_score": 0.6581632652798882}
+{"sent": "big truck", "ann_id": 394387, "best_split": [1, 2], "split_score": 0.6581632652798882}
+{"sent": "big bus", "ann_id": 394387, "best_split": [1, 2], "split_score": 0.6581632652798882}
+{"sent": "palest silver car", "ann_id": 356904, "best_split": [5, 1], "split_score": 0.22511202880018347}
+{"sent": "ford", "ann_id": 356904, "best_split": [5, 1], "split_score": 0.22511202880018347}
+{"sent": "car below cvs gg", "ann_id": 2052388, "best_split": [5, 1], "split_score": 0.2862426629986136}
+{"sent": "blue ford sign", "ann_id": 2052388, "best_split": [3, 2], "split_score": 0.5276866066143264}
+{"sent": "car behind bike", "ann_id": 2052388, "best_split": [2, 2], "split_score": 0.30445406308960804}
+{"sent": "truck behind the ford", "ann_id": 1796455, "best_split": [5, 1], "split_score": 0.16249999998461173}
+{"sent": "car below street sign", "ann_id": 1796455, "best_split": [3, 3], "split_score": 0.44192841482068507}
+{"sent": "parked car closest to red light", "ann_id": 1796455, "best_split": [3, 3], "split_score": 0.44192841482068507}
+{"sent": "pickup truck", "ann_id": 356438, "best_split": [3, 1], "split_score": 0.14029295232679234}
+{"sent": "truck with passenger mirror showing", "ann_id": 356438, "best_split": [3, 1], "split_score": 0.14029295232679234}
+{"sent": "gray pick up truck near stop light", "ann_id": 356438, "best_split": [5, 1], "split_score": 0.15867472152551682}

@@ -1,0 +1,5 @@
+{"sent": "blue purple shirt", "ann_id": 2153461, "best_split": [1, 5], "split_score": 0.6415200827164406}
+{"sent": "woman blue shirt", "ann_id": 2153461, "best_split": [1, 5], "split_score": 0.6415200827164406}
+{"sent": "person tie dye shirt", "ann_id": 505176, "best_split": [1, 5], "split_score": 0.4723011363157162}
+{"sent": "tye died", "ann_id": 505176, "best_split": [1, 5], "split_score": 0.4723011363157162}
+{"sent": "tie dye", "ann_id": 505176, "best_split": [1, 5], "split_score": 0.4723011363157162}

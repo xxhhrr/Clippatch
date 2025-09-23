@@ -1,0 +1,15 @@
+{"sent": "western boy", "ann_id": 1310562, "best_split": [1, 5], "split_score": 0.5243933807318534}
+{"sent": "yellow shirt black shorts dark hair nearest edge", "ann_id": 1310562, "best_split": [1, 3], "split_score": 0.47798021232637666}
+{"sent": "kid in yellow with black hair", "ann_id": 1310562, "best_split": [1, 5], "split_score": 0.5243933807318534}
+{"sent": "the little blond boy looking at the red head", "ann_id": 1292008, "best_split": [1, 2], "split_score": 0.21659757652197872}
+{"sent": "blond boy with striped socks", "ann_id": 1292008, "best_split": [5, 1], "split_score": 0.11345761723613038}
+{"sent": "blond kid near tan kid", "ann_id": 1292008, "best_split": [1, 3], "split_score": 0.32782335905358206}
+{"sent": "tallest player", "ann_id": 1257883, "best_split": [1, 3], "split_score": 0.479289940800042}
+{"sent": "biggest yellow kid", "ann_id": 1257883, "best_split": [1, 5], "split_score": 0.4685089973916686}
+{"sent": "tallest kid with light brown hair", "ann_id": 1257883, "best_split": [1, 3], "split_score": 0.479289940800042}
+{"sent": "kid in white with red shoes", "ann_id": 1239949, "best_split": [1, 5], "split_score": 0.4760563379875325}
+{"sent": "kid in white shirt with white socks", "ann_id": 1239949, "best_split": [1, 5], "split_score": 0.4760563379875325}
+{"sent": "white shirt and white socks", "ann_id": 1239949, "best_split": [1, 5], "split_score": 0.4760563379875325}
+{"sent": "kid with black nikes", "ann_id": 1212972, "best_split": [2, 3], "split_score": 0.33040830942600213}
+{"sent": "white shirt black shoes", "ann_id": 1212972, "best_split": [3, 2], "split_score": 0.28886190143226387}
+{"sent": "white shirt closest to 3 o clock", "ann_id": 1212972, "best_split": [3, 3], "split_score": 0.38205598894193943}

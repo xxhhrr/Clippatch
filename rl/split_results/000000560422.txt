@@ -1,0 +1,9 @@
+{"sent": "blue shirt guy", "ann_id": 192489, "best_split": [1, 2], "split_score": 0.5996890943638516}
+{"sent": "daddy", "ann_id": 192489, "best_split": [1, 2], "split_score": 0.5996890943638516}
+{"sent": "man", "ann_id": 192489, "best_split": [1, 2], "split_score": 0.5996890943638516}
+{"sent": "little girl", "ann_id": 1723319, "best_split": [1, 5], "split_score": 0.3150135966570049}
+{"sent": "girl", "ann_id": 1723319, "best_split": [1, 5], "split_score": 0.3150135966570049}
+{"sent": "girl in pink", "ann_id": 1723319, "best_split": [2, 3], "split_score": 0.3965932695972918}
+{"sent": "yellow shirt", "ann_id": 228032, "best_split": [2, 1], "split_score": 0.2797446696407033}
+{"sent": "woman", "ann_id": 228032, "best_split": [1, 2], "split_score": 0.5503029336515345}
+{"sent": "mom", "ann_id": 228032, "best_split": [1, 2], "split_score": 0.5503029336515345}

@@ -1,0 +1,6 @@
+{"sent": "facing away light", "ann_id": 406583, "best_split": [3, 3], "split_score": 0.29072031143888377}
+{"sent": "lights facing away", "ann_id": 406583, "best_split": [3, 3], "split_score": 0.29072031143888377}
+{"sent": "light facing away", "ann_id": 406583, "best_split": [3, 3], "split_score": 0.29072031143888377}
+{"sent": "red light", "ann_id": 402451, "best_split": [2, 3], "split_score": 0.40830115825189417}
+{"sent": "red traffic light", "ann_id": 402451, "best_split": [2, 3], "split_score": 0.40830115825189417}
+{"sent": "red light that is on", "ann_id": 402451, "best_split": [2, 3], "split_score": 0.40830115825189417}

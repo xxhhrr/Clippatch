@@ -1,0 +1,6 @@
+{"sent": "tv", "ann_id": 28843, "best_split": [3, 3], "split_score": 0.5998841921540411}
+{"sent": "tv", "ann_id": 28843, "best_split": [3, 3], "split_score": 0.5998841921540411}
+{"sent": "screen", "ann_id": 28843, "best_split": [1, 3], "split_score": 0.2939252336276913}
+{"sent": "tv", "ann_id": 28835, "best_split": [3, 3], "split_score": 0.7105776443044894}
+{"sent": "tv screen", "ann_id": 28835, "best_split": [3, 3], "split_score": 0.7105776443044894}
+{"sent": "screen", "ann_id": 28835, "best_split": [1, 3], "split_score": 0.3274143118206941}

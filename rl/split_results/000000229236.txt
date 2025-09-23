@@ -1,0 +1,17 @@
+{"sent": "blue shirt", "ann_id": 1732097, "best_split": [2, 3], "split_score": 0.6679410771766624}
+{"sent": "royal blue shirt", "ann_id": 1732097, "best_split": [2, 3], "split_score": 0.6679410771766624}
+{"sent": "child in the blue shirt", "ann_id": 1732097, "best_split": [2, 3], "split_score": 0.6679410771766624}
+{"sent": "boy in black", "ann_id": 222798, "best_split": [1, 2], "split_score": 0.6456473214028361}
+{"sent": "kid in black", "ann_id": 222798, "best_split": [1, 2], "split_score": 0.6456473214028361}
+{"sent": "black shirt", "ann_id": 222798, "best_split": [1, 2], "split_score": 0.6456473214028361}
+{"sent": "kid at 1 o clock smallest", "ann_id": 186851, "best_split": [5, 1], "split_score": 0.16726403821750604}
+{"sent": "boy in green shirt red jacket", "ann_id": 186851, "best_split": [2, 3], "split_score": 0.2993562231438459}
+{"sent": "hoodie", "ann_id": 186851, "best_split": [3, 2], "split_score": 0.279585798787026}
+{"sent": "back of lappy", "ann_id": 1971053, "best_split": [2, 2], "split_score": 0.3408003826258928}
+{"sent": "laptop facing away", "ann_id": 1971053, "best_split": [2, 2], "split_score": 0.3408003826258928}
+{"sent": "laptop being used by kids in red", "ann_id": 1971053, "best_split": [3, 2], "split_score": 0.2737503801811061}
+{"sent": "white laptop being used by black shirt", "ann_id": 1970219, "best_split": [2, 3], "split_score": 0.7468187800848158}
+{"sent": "comp", "ann_id": 1970219, "best_split": [2, 3], "split_score": 0.7468187800848158}
+{"sent": "tall boy red shirt", "ann_id": 183757, "best_split": [2, 3], "split_score": 0.3468059598949472}
+{"sent": "tan skind boy on red shirt not the red hoodie", "ann_id": 183757, "best_split": [2, 3], "split_score": 0.3468059598949472}
+{"sent": "standing boy in red", "ann_id": 183757, "best_split": [2, 3], "split_score": 0.3468059598949472}

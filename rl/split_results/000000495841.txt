@@ -1,0 +1,13 @@
+{"sent": "blurry person near batters face", "ann_id": 2015572, "best_split": [3, 3], "split_score": 0.3457667258221186}
+{"sent": "person torso between batting helmet and thumb", "ann_id": 2015572, "best_split": [3, 3], "split_score": 0.3457667258221186}
+{"sent": "blurry thing next to helmet and glove", "ann_id": 2015572, "best_split": [2, 2], "split_score": 0.2817258883025281}
+{"sent": "guy in background above guy in glasses", "ann_id": 1742054, "best_split": [5, 1], "split_score": 0.16777570092203545}
+{"sent": "man by hand of batter", "ann_id": 1742054, "best_split": [3, 1], "split_score": 0.20328575274962102}
+{"sent": "blury person in sunglasses near bat", "ann_id": 1738177, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "man with sunglasses out of focus near bat", "ann_id": 1738177, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "slice of person on edge near hand", "ann_id": 557142, "best_split": [1, 5], "split_score": 0.36019002371874675}
+{"sent": "blurry standing cut off player", "ann_id": 557142, "best_split": [1, 2], "split_score": 0.17777423468679152}
+{"sent": "gey in the background near the batters hand that does not have a bat in it", "ann_id": 557142, "best_split": [1, 2], "split_score": 0.17777423468679152}
+{"sent": "tovar", "ann_id": 433544, "best_split": [1, 2], "split_score": 0.5241187170333605}
+{"sent": "the batter", "ann_id": 433544, "best_split": [1, 2], "split_score": 0.5241187170333605}
+{"sent": "white uniform", "ann_id": 433544, "best_split": [1, 2], "split_score": 0.5241187170333605}

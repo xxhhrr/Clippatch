@@ -1,0 +1,5 @@
+{"sent": "partial white sink", "ann_id": 1644217, "best_split": [3, 1], "split_score": 0.11984622776934906}
+{"sent": "sink nearest dog", "ann_id": 1644217, "best_split": [2, 2], "split_score": 0.48818532814763044}
+{"sent": "sink basin", "ann_id": 1129607, "best_split": [3, 3], "split_score": 0.8378212973014348}
+{"sent": "sink with mirror above", "ann_id": 1129607, "best_split": [3, 3], "split_score": 0.8378212973014348}
+{"sent": "sink at 3", "ann_id": 1129607, "best_split": [3, 3], "split_score": 0.8378212973014348}

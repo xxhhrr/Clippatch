@@ -1,0 +1,5 @@
+{"sent": "white shirt black shorts person", "ann_id": 2160260, "best_split": [2, 3], "split_score": 0.41547799692306747}
+{"sent": "blurred person in white shirt", "ann_id": 2160260, "best_split": [2, 1], "split_score": 0.19878533052251088}
+{"sent": "guy hat", "ann_id": 1712622, "best_split": [1, 2], "split_score": 0.7277430480482941}
+{"sent": "guy with white hat", "ann_id": 1712622, "best_split": [1, 2], "split_score": 0.7277430480482941}
+{"sent": "white hat", "ann_id": 1712622, "best_split": [1, 2], "split_score": 0.7277430480482941}

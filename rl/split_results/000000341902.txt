@@ -1,0 +1,13 @@
+{"sent": "sitting gal", "ann_id": 470116, "best_split": [3, 2], "split_score": 0.40137221264993866}
+{"sent": "the lady", "ann_id": 470116, "best_split": [3, 2], "split_score": 0.40137221264993866}
+{"sent": "woman", "ann_id": 470116, "best_split": [3, 2], "split_score": 0.40137221264993866}
+{"sent": "has glasses on", "ann_id": 441820, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "man", "ann_id": 441820, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "man glasses", "ann_id": 441820, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "man", "ann_id": 441820, "best_split": [1, 2], "split_score": 0.6672512754836076}
+{"sent": "empty chair next to lady", "ann_id": 378829, "best_split": [3, 3], "split_score": 0.7381892872905372}
+{"sent": "black chair next to woman", "ann_id": 378829, "best_split": [3, 3], "split_score": 0.7381892872905372}
+{"sent": "empty chair", "ann_id": 378829, "best_split": [3, 3], "split_score": 0.7381892872905372}
+{"sent": "chair shes sitting on", "ann_id": 373635, "best_split": [3, 1], "split_score": 0.2518660058367549}
+{"sent": "chair fabric behind woman", "ann_id": 373635, "best_split": [3, 1], "split_score": 0.2518660058367549}
+{"sent": "chair she is sitting in", "ann_id": 373635, "best_split": [3, 1], "split_score": 0.2518660058367549}

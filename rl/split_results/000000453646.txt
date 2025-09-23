@@ -1,0 +1,6 @@
+{"sent": "zebra facing forward", "ann_id": 593783, "best_split": [3, 1], "split_score": 0.15802083332510308}
+{"sent": "further zebra", "ann_id": 593783, "best_split": [3, 1], "split_score": 0.15802083332510308}
+{"sent": "little zebra", "ann_id": 593783, "best_split": [3, 1], "split_score": 0.15802083332510308}
+{"sent": "zebra full side view", "ann_id": 593608, "best_split": [1, 2], "split_score": 0.6002949852296567}
+{"sent": "zebra nearest screen", "ann_id": 593608, "best_split": [1, 2], "split_score": 0.6002949852296567}
+{"sent": "zebra closest", "ann_id": 593608, "best_split": [1, 2], "split_score": 0.6002949852296567}

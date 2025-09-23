@@ -1,0 +1,5 @@
+{"sent": "bed on floor", "ann_id": 315280, "best_split": [2, 1], "split_score": 0.43724439428722167}
+{"sent": "bed with blue sheet", "ann_id": 315280, "best_split": [2, 2], "split_score": 0.5021290184957351}
+{"sent": "dark blue bed", "ann_id": 315280, "best_split": [2, 2], "split_score": 0.5021290184957351}
+{"sent": "bed", "ann_id": 314890, "best_split": [1, 2], "split_score": 0.7378427933379368}
+{"sent": "floral bedspread", "ann_id": 314890, "best_split": [1, 2], "split_score": 0.7378427933379368}

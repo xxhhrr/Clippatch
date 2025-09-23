@@ -1,0 +1,5 @@
+{"sent": "plane with the number 8 on the end", "ann_id": 161958, "best_split": [3, 3], "split_score": 0.5299220702058635}
+{"sent": "closest plane", "ann_id": 161958, "best_split": [3, 3], "split_score": 0.5299220702058635}
+{"sent": "plane flying lowest", "ann_id": 161958, "best_split": [5, 1], "split_score": 0.34752096241819896}
+{"sent": "hightest plane", "ann_id": 161874, "best_split": [3, 2], "split_score": 0.590434782544518}
+{"sent": "highest plane", "ann_id": 161874, "best_split": [3, 2], "split_score": 0.590434782544518}

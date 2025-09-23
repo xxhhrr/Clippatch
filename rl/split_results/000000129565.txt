@@ -1,0 +1,18 @@
+{"sent": "cop facing forward", "ann_id": 240739, "best_split": [1, 2], "split_score": 0.15027104591237758}
+{"sent": "official beside woman in tan jacket", "ann_id": 240739, "best_split": [3, 2], "split_score": 0.21295644299235927}
+{"sent": "police facing bike and us", "ann_id": 240739, "best_split": [3, 1], "split_score": 0.08842882361908581}
+{"sent": "white shirt black uniform closest to you", "ann_id": 233149, "best_split": [1, 5], "split_score": 0.8010680907113229}
+{"sent": "standing police officer closest to you", "ann_id": 233149, "best_split": [1, 2], "split_score": 0.3599330356999389}
+{"sent": "officer closest to us", "ann_id": 233149, "best_split": [1, 2], "split_score": 0.3599330356999389}
+{"sent": "buy facing away closest to back tire", "ann_id": 232358, "best_split": [5, 1], "split_score": 0.1072036301682357}
+{"sent": "police offer to rear of bike", "ann_id": 232358, "best_split": [3, 2], "split_score": 0.23401264931184007}
+{"sent": "standing man by back of bike with vest and hat", "ann_id": 232358, "best_split": [3, 2], "split_score": 0.23401264931184007}
+{"sent": "man in white jacket", "ann_id": 228447, "best_split": [3, 3], "split_score": 0.3667058625286904}
+{"sent": "the man in white and cap", "ann_id": 228447, "best_split": [3, 3], "split_score": 0.3667058625286904}
+{"sent": "man in gray hat standing", "ann_id": 228447, "best_split": [3, 3], "split_score": 0.3667058625286904}
+{"sent": "shadowed person behind motorcycle and guards", "ann_id": 205277, "best_split": [3, 2], "split_score": 0.16794961509867543}
+{"sent": "person with dark hair wearing coat not a cop", "ann_id": 205277, "best_split": [2, 2], "split_score": 0.23615635177321573}
+{"sent": "lady in dark blue jacket", "ann_id": 205277, "best_split": [2, 2], "split_score": 0.23615635177321573}
+{"sent": "rider", "ann_id": 189130, "best_split": [3, 3], "split_score": 0.5950355435735887}
+{"sent": "rider", "ann_id": 189130, "best_split": [3, 3], "split_score": 0.5950355435735887}
+{"sent": "motorcyle policeman", "ann_id": 189130, "best_split": [3, 3], "split_score": 0.5950355435735887}

@@ -1,0 +1,5 @@
+{"sent": "light green close to camera", "ann_id": 1386891, "best_split": [3, 2], "split_score": 0.21775280896429744}
+{"sent": "light nearer", "ann_id": 1386891, "best_split": [2, 2], "split_score": 0.2032844387593045}
+{"sent": "light box facing away", "ann_id": 407502, "best_split": [2, 3], "split_score": 0.25337837834780663}
+{"sent": "back of light", "ann_id": 407502, "best_split": [3, 2], "split_score": 0.1687668766686806}
+{"sent": "back of stop light", "ann_id": 407502, "best_split": [3, 2], "split_score": 0.1687668766686806}

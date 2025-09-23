@@ -1,0 +1,6 @@
+{"sent": "white sheep", "ann_id": 64968, "best_split": [2, 2], "split_score": 0.8093918513474092}
+{"sent": "the adult", "ann_id": 64968, "best_split": [2, 2], "split_score": 0.8093918513474092}
+{"sent": "biggest sheep", "ann_id": 64968, "best_split": [2, 2], "split_score": 0.8093918513474092}
+{"sent": "baby", "ann_id": 62713, "best_split": [2, 3], "split_score": 0.41408852922250255}
+{"sent": "small lamb", "ann_id": 62713, "best_split": [5, 1], "split_score": 0.2543826930012698}
+{"sent": "black sheep", "ann_id": 62713, "best_split": [5, 1], "split_score": 0.2543826930012698}

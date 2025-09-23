@@ -1,0 +1,6 @@
+{"sent": "man wearing an orange tie", "ann_id": 1721263, "best_split": [2, 2], "split_score": 0.5239158162847644}
+{"sent": "man", "ann_id": 1721263, "best_split": [1, 5], "split_score": 0.39646378779356817}
+{"sent": "guy", "ann_id": 1721263, "best_split": [2, 2], "split_score": 0.5239158162847644}
+{"sent": "pink shirt", "ann_id": 429888, "best_split": [2, 3], "split_score": 0.76013513504342}
+{"sent": "woman", "ann_id": 429888, "best_split": [1, 3], "split_score": 0.3800675675446388}
+{"sent": "woman", "ann_id": 429888, "best_split": [1, 3], "split_score": 0.3800675675446388}

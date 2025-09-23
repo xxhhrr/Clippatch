@@ -1,0 +1,9 @@
+{"sent": "guy", "ann_id": 1738223, "best_split": [2, 1], "split_score": 0.5514333895301583}
+{"sent": "tall hat", "ann_id": 1738223, "best_split": [1, 2], "split_score": 0.4965433102761147}
+{"sent": "man with hat", "ann_id": 1738223, "best_split": [1, 2], "split_score": 0.4965433102761147}
+{"sent": "man with blue shirt and short hair in back", "ann_id": 1294886, "best_split": [3, 3], "split_score": 0.45748865348600776}
+{"sent": "blurred boy near white pole", "ann_id": 1294886, "best_split": [2, 2], "split_score": 0.2678002125195233}
+{"sent": "kid in blue by hat", "ann_id": 1294886, "best_split": [2, 2], "split_score": 0.2678002125195233}
+{"sent": "white collar black coat next to the freak", "ann_id": 1246689, "best_split": [2, 1], "split_score": 0.32143411453044257}
+{"sent": "person with half shaven head partially out of photo", "ann_id": 1246689, "best_split": [2, 1], "split_score": 0.32143411453044257}
+{"sent": "person with side of head shaved", "ann_id": 1246689, "best_split": [2, 2], "split_score": 0.6262473540500266}

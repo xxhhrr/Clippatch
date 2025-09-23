@@ -1,0 +1,6 @@
+{"sent": "a boat the dog is on", "ann_id": 178945, "best_split": [2, 2], "split_score": 0.7090592333980067}
+{"sent": "boat hoding dog", "ann_id": 178945, "best_split": [2, 2], "split_score": 0.7090592333980067}
+{"sent": "catcherboat dog is standing on", "ann_id": 178945, "best_split": [2, 2], "split_score": 0.7090592333980067}
+{"sent": "boat with faded letters", "ann_id": 176673, "best_split": [3, 2], "split_score": 0.43610310720067724}
+{"sent": "boat with pink leter", "ann_id": 176673, "best_split": [3, 2], "split_score": 0.43610310720067724}
+{"sent": "boat with no dog", "ann_id": 176673, "best_split": [3, 1], "split_score": 0.36518719033836317}

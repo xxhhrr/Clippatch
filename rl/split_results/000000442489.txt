@@ -1,0 +1,6 @@
+{"sent": "soup", "ann_id": 1040698, "best_split": [2, 1], "split_score": 0.5318386839834227}
+{"sent": "bowl of soup", "ann_id": 1040698, "best_split": [2, 1], "split_score": 0.5318386839834227}
+{"sent": "bowl in focus", "ann_id": 1040698, "best_split": [2, 1], "split_score": 0.5318386839834227}
+{"sent": "far bowl", "ann_id": 1040072, "best_split": [1, 2], "split_score": 0.17857142856431077}
+{"sent": "bowl behind", "ann_id": 1040072, "best_split": [1, 2], "split_score": 0.17857142856431077}
+{"sent": "bowl of soup fuzzy background", "ann_id": 1040072, "best_split": [1, 2], "split_score": 0.17857142856431077}

@@ -1,0 +1,6 @@
+{"sent": "man in white hat", "ann_id": 525445, "best_split": [3, 3], "split_score": 0.274628152589499}
+{"sent": "white hat person", "ann_id": 525445, "best_split": [3, 3], "split_score": 0.274628152589499}
+{"sent": "shortest man", "ann_id": 525445, "best_split": [2, 1], "split_score": 0.21438504325500676}
+{"sent": "man wearing hat", "ann_id": 458055, "best_split": [1, 2], "split_score": 0.5587531887532384}
+{"sent": "man", "ann_id": 458055, "best_split": [1, 2], "split_score": 0.5587531887532384}
+{"sent": "blue striped shirt", "ann_id": 458055, "best_split": [1, 2], "split_score": 0.5587531887532384}

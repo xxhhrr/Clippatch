@@ -1,0 +1,6 @@
+{"sent": "cat furthest away", "ann_id": 53017, "best_split": [5, 1], "split_score": 0.3831828442077518}
+{"sent": "cat with closed eyes", "ann_id": 53017, "best_split": [5, 1], "split_score": 0.3831828442077518}
+{"sent": "farther cat laying sideways", "ann_id": 53017, "best_split": [5, 1], "split_score": 0.3831828442077518}
+{"sent": "white cake awake", "ann_id": 48636, "best_split": [3, 2], "split_score": 0.5818928874623198}
+{"sent": "closest cat", "ann_id": 48636, "best_split": [3, 2], "split_score": 0.5818928874623198}
+{"sent": "cat with eyes open", "ann_id": 48636, "best_split": [3, 2], "split_score": 0.5818928874623198}

@@ -1,0 +1,9 @@
+{"sent": "farthest slice", "ann_id": 1077779, "best_split": [1, 5], "split_score": 0.15848536552313391}
+{"sent": "upper pizza", "ann_id": 1077779, "best_split": [1, 5], "split_score": 0.15848536552313391}
+{"sent": "pizza spread over two plates", "ann_id": 1077779, "best_split": [1, 5], "split_score": 0.15848536552313391}
+{"sent": "pizza in box", "ann_id": 1077701, "best_split": [1, 2], "split_score": 0.640465561198961}
+{"sent": "slice veggi", "ann_id": 1077701, "best_split": [1, 2], "split_score": 0.640465561198961}
+{"sent": "pizza at 300", "ann_id": 1077701, "best_split": [1, 2], "split_score": 0.640465561198961}
+{"sent": "cheese pizza with forks", "ann_id": 1077402, "best_split": [2, 2], "split_score": 0.6902428631876412}
+{"sent": "peperoni pizza that looks more appealing", "ann_id": 1077402, "best_split": [2, 2], "split_score": 0.6902428631876412}
+{"sent": "side pepperoni pizza", "ann_id": 1077402, "best_split": [2, 2], "split_score": 0.6902428631876412}

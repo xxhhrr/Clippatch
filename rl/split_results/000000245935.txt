@@ -1,0 +1,6 @@
+{"sent": "brown train", "ann_id": 174277, "best_split": [3, 1], "split_score": 0.36937128290307075}
+{"sent": "its a train and its half brown", "ann_id": 174277, "best_split": [3, 1], "split_score": 0.36937128290307075}
+{"sent": "not the green train", "ann_id": 174277, "best_split": [3, 1], "split_score": 0.36937128290307075}
+{"sent": "train", "ann_id": 171978, "best_split": [1, 2], "split_score": 0.6703539822777118}
+{"sent": "nearest train", "ann_id": 171978, "best_split": [1, 2], "split_score": 0.6703539822777118}
+{"sent": "yellow and green train", "ann_id": 171978, "best_split": [1, 2], "split_score": 0.6703539822777118}

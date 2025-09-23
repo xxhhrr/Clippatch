@@ -1,0 +1,9 @@
+{"sent": "silver car", "ann_id": 359864, "best_split": [1, 2], "split_score": 0.5995717344553141}
+{"sent": "door open", "ann_id": 359864, "best_split": [1, 2], "split_score": 0.5995717344553141}
+{"sent": "silver car", "ann_id": 359864, "best_split": [1, 2], "split_score": 0.5995717344553141}
+{"sent": "gray car with doors closed", "ann_id": 346576, "best_split": [2, 3], "split_score": 0.2796814671477218}
+{"sent": "tan car far away", "ann_id": 346576, "best_split": [1, 5], "split_score": 0.15920776993342145}
+{"sent": "car across street silver", "ann_id": 346576, "best_split": [2, 3], "split_score": 0.2796814671477218}
+{"sent": "dark red car", "ann_id": 345625, "best_split": [2, 3], "split_score": 0.7981510014639684}
+{"sent": "red vehicle", "ann_id": 345625, "best_split": [2, 3], "split_score": 0.7981510014639684}
+{"sent": "dark van half off", "ann_id": 345625, "best_split": [2, 3], "split_score": 0.7981510014639684}

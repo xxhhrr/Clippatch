@@ -1,0 +1,6 @@
+{"sent": "curvey toast", "ann_id": 2218612, "best_split": [3, 3], "split_score": 0.6179740579651058}
+{"sent": "toast with less tomato sauce on it", "ann_id": 2218612, "best_split": [1, 3], "split_score": 0.2827250029554913}
+{"sent": "has more bs on it", "ann_id": 2218612, "best_split": [1, 5], "split_score": 0.3017347117310553}
+{"sent": "rite piece on plate", "ann_id": 2217883, "best_split": [3, 2], "split_score": 0.5509114129164157}
+{"sent": "toast overflowing", "ann_id": 2217883, "best_split": [3, 2], "split_score": 0.5509114129164157}
+{"sent": "noodles on toast with sauce under on plate", "ann_id": 2217883, "best_split": [3, 3], "split_score": 0.6516836334139884}

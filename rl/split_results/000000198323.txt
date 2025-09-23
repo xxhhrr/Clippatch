@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 547309, "best_split": [1, 5], "split_score": 0.2946791003678179}
+{"sent": "kicking", "ann_id": 547309, "best_split": [1, 3], "split_score": 0.5613800205684151}
+{"sent": "kicker", "ann_id": 547309, "best_split": [1, 3], "split_score": 0.5613800205684151}
+{"sent": "blue shirt walking", "ann_id": 546021, "best_split": [1, 5], "split_score": 0.29577464786365437}
+{"sent": "girl in blue shirt", "ann_id": 546021, "best_split": [1, 3], "split_score": 0.3822393822163224}
+{"sent": "black pants", "ann_id": 546021, "best_split": [3, 2], "split_score": 0.32080924852593845}

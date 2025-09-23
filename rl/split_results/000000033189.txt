@@ -1,0 +1,6 @@
+{"sent": "dark horse", "ann_id": 55713, "best_split": [3, 2], "split_score": 0.491851851799804}
+{"sent": "all brown horse", "ann_id": 55713, "best_split": [2, 2], "split_score": 0.29217121935425433}
+{"sent": "solid brown horse", "ann_id": 55713, "best_split": [3, 2], "split_score": 0.491851851799804}
+{"sent": "horse next to tree", "ann_id": 55110, "best_split": [2, 3], "split_score": 0.4310808388213765}
+{"sent": "white horse brown spots", "ann_id": 55110, "best_split": [2, 3], "split_score": 0.4310808388213765}
+{"sent": "spotted horse", "ann_id": 55110, "best_split": [2, 3], "split_score": 0.4310808388213765}

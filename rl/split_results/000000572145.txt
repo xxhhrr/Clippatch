@@ -1,0 +1,14 @@
+{"sent": "man jumping", "ann_id": 1296297, "best_split": [2, 2], "split_score": 0.6026785713805263}
+{"sent": "jumping", "ann_id": 1296297, "best_split": [2, 2], "split_score": 0.6026785713805263}
+{"sent": "in air", "ann_id": 1296297, "best_split": [2, 2], "split_score": 0.6026785713805263}
+{"sent": "man is wearing glasses", "ann_id": 1296253, "best_split": [2, 1], "split_score": 0.11795316565055099}
+{"sent": "black leather jacket", "ann_id": 1296253, "best_split": [1, 5], "split_score": 0.5660151575023917}
+{"sent": "black guy with beanie", "ann_id": 1296253, "best_split": [1, 5], "split_score": 0.5660151575023917}
+{"sent": "man in black jacket without hat", "ann_id": 1256377, "best_split": [1, 5], "split_score": 0.28582692683955974}
+{"sent": "man standing with black shirt and white shoes", "ann_id": 1256377, "best_split": [2, 1], "split_score": 0.05846683635055896}
+{"sent": "blue jacket man", "ann_id": 1254582, "best_split": [1, 2], "split_score": 0.13871173468834855}
+{"sent": "blue jacket next to red jacket", "ann_id": 1254582, "best_split": [1, 5], "split_score": 0.35308441554859127}
+{"sent": "blue jacket hands in pockets", "ann_id": 1254582, "best_split": [3, 2], "split_score": 0.17774219373721556}
+{"sent": "lady in white with black bag on her shoulder", "ann_id": 1221914, "best_split": [1, 5], "split_score": 0.3220373376296634}
+{"sent": "white shirt with purse", "ann_id": 1221914, "best_split": [1, 5], "split_score": 0.3220373376296634}
+{"sent": "woman in white sweatshirt with black purse", "ann_id": 1221914, "best_split": [1, 5], "split_score": 0.3220373376296634}

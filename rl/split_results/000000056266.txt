@@ -1,0 +1,9 @@
+{"sent": "plate that isnt fuzzy looking", "ann_id": 1923215, "best_split": [3, 1], "split_score": 0.38598326358077206}
+{"sent": "food on plate", "ann_id": 1923215, "best_split": [3, 1], "split_score": 0.38598326358077206}
+{"sent": "salad", "ann_id": 1923215, "best_split": [3, 1], "split_score": 0.38598326358077206}
+{"sent": "the blurred plate", "ann_id": 1570721, "best_split": [3, 3], "split_score": 0.5812979761721392}
+{"sent": "blurry pizza", "ann_id": 1570721, "best_split": [1, 2], "split_score": 0.14301658162695247}
+{"sent": "blurry one", "ann_id": 1570721, "best_split": [3, 1], "split_score": 0.010372300445439079}
+{"sent": "chocolate milk near plate of food", "ann_id": 680312, "best_split": [3, 3], "split_score": 0.5586822236515644}
+{"sent": "cup closest to plate", "ann_id": 680312, "best_split": [3, 3], "split_score": 0.5586822236515644}
+{"sent": "latte closest", "ann_id": 680312, "best_split": [3, 3], "split_score": 0.5586822236515644}

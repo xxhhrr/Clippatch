@@ -1,0 +1,6 @@
+{"sent": "modern ship", "ann_id": 249245, "best_split": [5, 1], "split_score": 0.5283655718208253}
+{"sent": "cruise ship", "ann_id": 249245, "best_split": [5, 1], "split_score": 0.5283655718208253}
+{"sent": "big cruise", "ann_id": 249245, "best_split": [5, 1], "split_score": 0.5283655718208253}
+{"sent": "saile boat", "ann_id": 181381, "best_split": [3, 2], "split_score": 0.3254102316209688}
+{"sent": "small boat", "ann_id": 181381, "best_split": [3, 2], "split_score": 0.3254102316209688}
+{"sent": "part of body closest to water only on sail boat", "ann_id": 181381, "best_split": [2, 2], "split_score": 0.21500318875837027}

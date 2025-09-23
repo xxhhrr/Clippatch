@@ -1,0 +1,6 @@
+{"sent": "lightest clisest giraffe", "ann_id": 1414918, "best_split": [2, 3], "split_score": 0.7044175173452516}
+{"sent": "giraffe with a lot of white", "ann_id": 1414918, "best_split": [2, 3], "split_score": 0.7044175173452516}
+{"sent": "lighter shade giraffe", "ann_id": 1414918, "best_split": [2, 3], "split_score": 0.7044175173452516}
+{"sent": "nearest giraffe", "ann_id": 1414213, "best_split": [1, 3], "split_score": 0.4610400398545838}
+{"sent": "tall one", "ann_id": 1414213, "best_split": [2, 1], "split_score": 0.4479650006480192}
+{"sent": "darkest giraffe", "ann_id": 1414213, "best_split": [1, 3], "split_score": 0.4610400398545838}

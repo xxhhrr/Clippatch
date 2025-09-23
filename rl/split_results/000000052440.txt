@@ -1,0 +1,20 @@
+{"sent": "woman", "ann_id": 1706584, "best_split": [2, 2], "split_score": 0.5545280611802832}
+{"sent": "red coat lady", "ann_id": 1706584, "best_split": [2, 3], "split_score": 0.7984898536103716}
+{"sent": "little black suitcase", "ann_id": 1187374, "best_split": [1, 3], "split_score": 0.12970559844777355}
+{"sent": "dark small suitcase", "ann_id": 1187374, "best_split": [1, 3], "split_score": 0.12970559844777355}
+{"sent": "smaller brown suitecase", "ann_id": 1187374, "best_split": [3, 1], "split_score": 0.09984729237050116}
+{"sent": "larger white suitcase", "ann_id": 1187297, "best_split": [1, 3], "split_score": 0.20014211273092478}
+{"sent": "lage white suitcase", "ann_id": 1187297, "best_split": [1, 3], "split_score": 0.20014211273092478}
+{"sent": "standing long silver suitcase", "ann_id": 1187297, "best_split": [1, 3], "split_score": 0.20014211273092478}
+{"sent": "the samsonite directly under lady near the edge", "ann_id": 1186449, "best_split": [3, 3], "split_score": 0.4785883665115653}
+{"sent": "bigger red suitcase", "ann_id": 1186449, "best_split": [3, 3], "split_score": 0.4785883665115653}
+{"sent": "suitcase closest to lady", "ann_id": 1186449, "best_split": [3, 3], "split_score": 0.4785883665115653}
+{"sent": "blue suitcase on side", "ann_id": 1186310, "best_split": [2, 3], "split_score": 0.4202898550295683}
+{"sent": "blue suitcase behind foreground blue suitcase", "ann_id": 1186310, "best_split": [2, 3], "split_score": 0.4202898550295683}
+{"sent": "large blue suit case", "ann_id": 1186310, "best_split": [2, 3], "split_score": 0.4202898550295683}
+{"sent": "blue whole suitcase", "ann_id": 1184586, "best_split": [2, 3], "split_score": 0.45373003714135524}
+{"sent": "blue suitcase next to the small white one", "ann_id": 1184586, "best_split": [2, 3], "split_score": 0.45373003714135524}
+{"sent": "blue smaller suitcase", "ann_id": 1184586, "best_split": [2, 3], "split_score": 0.45373003714135524}
+{"sent": "black coat", "ann_id": 493917, "best_split": [2, 3], "split_score": 0.6486576068225989}
+{"sent": "black coat", "ann_id": 493917, "best_split": [2, 3], "split_score": 0.6486576068225989}
+{"sent": "man next to woman", "ann_id": 493917, "best_split": [3, 3], "split_score": 0.44080904218431777}

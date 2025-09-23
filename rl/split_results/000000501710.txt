@@ -1,0 +1,11 @@
+{"sent": "police next to guy with glasses", "ann_id": 230370, "best_split": [1, 2], "split_score": 0.6581234055860123}
+{"sent": "police next to glasses guy", "ann_id": 230370, "best_split": [1, 2], "split_score": 0.6581234055860123}
+{"sent": "police officer with the baggier jacket", "ann_id": 230370, "best_split": [1, 2], "split_score": 0.6581234055860123}
+{"sent": "police nearest red sign", "ann_id": 194924, "best_split": [1, 5], "split_score": 0.6272635814438586}
+{"sent": "police closest to red sign", "ann_id": 194924, "best_split": [1, 5], "split_score": 0.6272635814438586}
+{"sent": "one gray stripe", "ann_id": 194924, "best_split": [1, 2], "split_score": 0.5097656249796809}
+{"sent": "butt of horse whith guy", "ann_id": 57026, "best_split": [3, 1], "split_score": 0.2975206611404109}
+{"sent": "horse rear by man in black jacket", "ann_id": 57026, "best_split": [3, 1], "split_score": 0.2975206611404109}
+{"sent": "back of horse near red sighn", "ann_id": 56879, "best_split": [3, 2], "split_score": 0.605306799273911}
+{"sent": "horse near red", "ann_id": 56879, "best_split": [3, 2], "split_score": 0.605306799273911}
+{"sent": "horse at 9", "ann_id": 56879, "best_split": [3, 2], "split_score": 0.605306799273911}

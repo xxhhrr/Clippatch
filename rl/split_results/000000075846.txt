@@ -1,0 +1,5 @@
+{"sent": "car brown", "ann_id": 362636, "best_split": [3, 3], "split_score": 0.26725722877030633}
+{"sent": "black car at 9", "ann_id": 362636, "best_split": [3, 3], "split_score": 0.26725722877030633}
+{"sent": "black car", "ann_id": 362636, "best_split": [3, 3], "split_score": 0.26725722877030633}
+{"sent": "the windshield", "ann_id": 2041327, "best_split": [3, 1], "split_score": 0.48907336771419907}
+{"sent": "yellow licence plate", "ann_id": 2041327, "best_split": [5, 1], "split_score": 0.40377678758732355}

@@ -1,0 +1,13 @@
+{"sent": "african man with hat seating by orange man", "ann_id": 1695564, "best_split": [1, 5], "split_score": 0.34450506621740984}
+{"sent": "blurred spectator player sitting alone", "ann_id": 1695564, "best_split": [1, 5], "split_score": 0.34450506621740984}
+{"sent": "man with red shirt", "ann_id": 1692414, "best_split": [2, 3], "split_score": 0.5798816567434614}
+{"sent": "orange shirt", "ann_id": 1692414, "best_split": [2, 3], "split_score": 0.5798816567434614}
+{"sent": "red", "ann_id": 1692414, "best_split": [2, 3], "split_score": 0.5798816567434614}
+{"sent": "baseball player with bat", "ann_id": 1253844, "best_split": [1, 2], "split_score": 0.5403553021016462}
+{"sent": "batter", "ann_id": 1253844, "best_split": [1, 2], "split_score": 0.5403553021016462}
+{"sent": "batter", "ann_id": 1253844, "best_split": [1, 2], "split_score": 0.5403553021016462}
+{"sent": "blurry guy in black by batters head", "ann_id": 1699275, "best_split": [2, 2], "split_score": 0.2686100988868439}
+{"sent": "blurry fan behind hitter closest to his glove", "ann_id": 1699275, "best_split": [2, 2], "split_score": 0.2686100988868439}
+{"sent": "player behind fence nearest black end of bat", "ann_id": 1695599, "best_split": [2, 2], "split_score": 0.13344739092426694}
+{"sent": "blurry black player under bat", "ann_id": 1695599, "best_split": [2, 1], "split_score": 0.07554479418624888}
+{"sent": "black player on bench by bat", "ann_id": 1695599, "best_split": [2, 1], "split_score": 0.07554479418624888}

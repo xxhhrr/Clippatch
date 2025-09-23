@@ -1,0 +1,6 @@
+{"sent": "brown pantds", "ann_id": 556396, "best_split": [2, 1], "split_score": 0.09702570025638804}
+{"sent": "black pants", "ann_id": 556396, "best_split": [1, 5], "split_score": 0.5381493505947494}
+{"sent": "black pants", "ann_id": 556396, "best_split": [1, 5], "split_score": 0.5381493505947494}
+{"sent": "hands cutting cake", "ann_id": 424567, "best_split": [2, 2], "split_score": 0.3966614450559692}
+{"sent": "hands", "ann_id": 424567, "best_split": [1, 2], "split_score": 0.6372369259950081}
+{"sent": "person cutting cake", "ann_id": 424567, "best_split": [1, 2], "split_score": 0.6372369259950081}

@@ -1,0 +1,8 @@
+{"sent": "no head", "ann_id": 1217853, "best_split": [1, 2], "split_score": 0.23705055524434843}
+{"sent": "black clothing person in chair", "ann_id": 1217853, "best_split": [2, 2], "split_score": 0.4441121494995056}
+{"sent": "person sitting nin lighter clothing", "ann_id": 517261, "best_split": [2, 2], "split_score": 0.31405218482285036}
+{"sent": "gray shirt white sleeves", "ann_id": 517261, "best_split": [2, 1], "split_score": 0.15814468892836217}
+{"sent": "man sitting watching video game", "ann_id": 517261, "best_split": [2, 3], "split_score": 0.4528499824626588}
+{"sent": "person in stripes", "ann_id": 507915, "best_split": [2, 1], "split_score": 0.5181203343164001}
+{"sent": "girl", "ann_id": 507915, "best_split": [2, 1], "split_score": 0.5181203343164001}
+{"sent": "striped shirt", "ann_id": 507915, "best_split": [2, 1], "split_score": 0.5181203343164001}

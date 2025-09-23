@@ -1,0 +1,10 @@
+{"sent": "long black case", "ann_id": 1187533, "best_split": [2, 2], "split_score": 0.4394132652710927}
+{"sent": "dark brown case", "ann_id": 1187533, "best_split": [5, 1], "split_score": 0.4240177909169739}
+{"sent": "rectangle next to black suitcase", "ann_id": 1187533, "best_split": [2, 1], "split_score": 0.2197066326443038}
+{"sent": "black bag under white bag", "ann_id": 1187428, "best_split": [3, 1], "split_score": 0.24087591239563808}
+{"sent": "black bag with white bag on it", "ann_id": 1187428, "best_split": [3, 1], "split_score": 0.24087591239563808}
+{"sent": "biggest suitcase", "ann_id": 1186400, "best_split": [1, 3], "split_score": 0.8262363837114093}
+{"sent": "black luggagae at 300", "ann_id": 1186400, "best_split": [1, 3], "split_score": 0.8262363837114093}
+{"sent": "brown case", "ann_id": 1184124, "best_split": [3, 2], "split_score": 0.48071495762175775}
+{"sent": "brown suitcase", "ann_id": 1184124, "best_split": [3, 2], "split_score": 0.48071495762175775}
+{"sent": "brown briefcase", "ann_id": 1184124, "best_split": [3, 2], "split_score": 0.48071495762175775}

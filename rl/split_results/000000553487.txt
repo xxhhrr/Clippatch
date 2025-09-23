@@ -1,0 +1,11 @@
+{"sent": "bottle close to glass with clear liquid", "ann_id": 94520, "best_split": [3, 3], "split_score": 0.29642072615371223}
+{"sent": "bottle closer to water glass", "ann_id": 94520, "best_split": [3, 3], "split_score": 0.29642072615371223}
+{"sent": "green bottle closest to cheese", "ann_id": 94520, "best_split": [1, 3], "split_score": 0.2749155405239554}
+{"sent": "green bottle next to clear bottle", "ann_id": 93255, "best_split": [1, 5], "split_score": 0.4170048700875604}
+{"sent": "green bottle next to empty white one", "ann_id": 93255, "best_split": [1, 5], "split_score": 0.4170048700875604}
+{"sent": "bottle closest to empty bottle", "ann_id": 93255, "best_split": [1, 5], "split_score": 0.4170048700875604}
+{"sent": "empty clear bottle of wine near cut out doll", "ann_id": 93063, "best_split": [2, 2], "split_score": 0.20910973083339915}
+{"sent": "clear bottle of wine", "ann_id": 93063, "best_split": [2, 2], "split_score": 0.20910973083339915}
+{"sent": "terra", "ann_id": 89524, "best_split": [1, 5], "split_score": 0.41079632461611826}
+{"sent": "terra", "ann_id": 89524, "best_split": [1, 5], "split_score": 0.41079632461611826}
+{"sent": "wine bottle cheateau terra", "ann_id": 89524, "best_split": [3, 1], "split_score": 0.12840466925394864}

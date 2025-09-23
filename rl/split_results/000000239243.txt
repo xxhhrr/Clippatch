@@ -1,0 +1,6 @@
+{"sent": "woman in gray", "ann_id": 1188507, "best_split": [1, 3], "split_score": 0.22297297295952143}
+{"sent": "woman", "ann_id": 1188507, "best_split": [1, 3], "split_score": 0.22297297295952143}
+{"sent": "lady standing up straight", "ann_id": 1188507, "best_split": [3, 1], "split_score": 0.0873203175237438}
+{"sent": "little girl blue skirt", "ann_id": 445576, "best_split": [3, 3], "split_score": 0.4681075381565488}
+{"sent": "young child swinging a frisbee", "ann_id": 445576, "best_split": [3, 3], "split_score": 0.4681075381565488}
+{"sent": "kid", "ann_id": 445576, "best_split": [3, 3], "split_score": 0.4681075381565488}

@@ -1,0 +1,5 @@
+{"sent": "zebra head not shown", "ann_id": 597275, "best_split": [2, 2], "split_score": 0.4565217390996137}
+{"sent": "headless giraffe", "ann_id": 597275, "best_split": [2, 2], "split_score": 0.4565217390996137}
+{"sent": "the giraffe", "ann_id": 596609, "best_split": [1, 3], "split_score": 0.5000294342438317}
+{"sent": "closest giraffe", "ann_id": 596609, "best_split": [1, 3], "split_score": 0.5000294342438317}
+{"sent": "tallest giraffe", "ann_id": 596609, "best_split": [1, 3], "split_score": 0.5000294342438317}

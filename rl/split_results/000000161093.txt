@@ -1,0 +1,8 @@
+{"sent": "chair closest to the foot", "ann_id": 1935650, "best_split": [3, 3], "split_score": 0.3454133634845111}
+{"sent": "chair not blocked by feet", "ann_id": 1589687, "best_split": [3, 1], "split_score": 0.19304583426320582}
+{"sent": "chair without feet touching it", "ann_id": 1589687, "best_split": [3, 2], "split_score": 0.3627492574922837}
+{"sent": "pointy umbrella", "ann_id": 286572, "best_split": [3, 3], "split_score": 0.6671436747757379}
+{"sent": "hut by man", "ann_id": 286572, "best_split": [5, 1], "split_score": 0.16480162765842163}
+{"sent": "main straw umbrella whole", "ann_id": 284479, "best_split": [2, 2], "split_score": 0.5439252336173819}
+{"sent": "umbrella with visible underside", "ann_id": 284479, "best_split": [2, 1], "split_score": 0.5303180914324652}
+{"sent": "cabana with 2 chairs under", "ann_id": 284479, "best_split": [2, 1], "split_score": 0.5303180914324652}

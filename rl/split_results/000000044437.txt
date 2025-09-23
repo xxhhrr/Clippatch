@@ -1,0 +1,9 @@
+{"sent": "catcher", "ann_id": 1247120, "best_split": [1, 3], "split_score": 0.5775994536123386}
+{"sent": "man talking to guy in atlanta shirt", "ann_id": 1247120, "best_split": [1, 2], "split_score": 0.44419642855372304}
+{"sent": "catcher", "ann_id": 1247120, "best_split": [1, 3], "split_score": 0.5775994536123386}
+{"sent": "player with black mitt", "ann_id": 506077, "best_split": [1, 2], "split_score": 0.43067309972195394}
+{"sent": "player with atlanta logo", "ann_id": 506077, "best_split": [1, 2], "split_score": 0.43067309972195394}
+{"sent": "baseball shirt that says atlanta", "ann_id": 506077, "best_split": [1, 2], "split_score": 0.43067309972195394}
+{"sent": "11", "ann_id": 498097, "best_split": [3, 3], "split_score": 0.4292158968389671}
+{"sent": "black shirt 11", "ann_id": 498097, "best_split": [1, 3], "split_score": 0.4723696910911939}
+{"sent": "number 11", "ann_id": 498097, "best_split": [3, 1], "split_score": 0.195786379216277}

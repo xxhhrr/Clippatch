@@ -1,0 +1,15 @@
+{"sent": "suitcase", "ann_id": 1183723, "best_split": [2, 3], "split_score": 0.37427606173090294}
+{"sent": "luggaga being held by person in dark clothes", "ann_id": 1183723, "best_split": [2, 3], "split_score": 0.37427606173090294}
+{"sent": "bag", "ann_id": 1183723, "best_split": [2, 3], "split_score": 0.37427606173090294}
+{"sent": "brown sweater", "ann_id": 508885, "best_split": [1, 5], "split_score": 0.5665554319194249}
+{"sent": "person holding luggage in foreground", "ann_id": 508885, "best_split": [1, 3], "split_score": 0.3159262759775082}
+{"sent": "holding suitcase", "ann_id": 508885, "best_split": [1, 3], "split_score": 0.3159262759775082}
+{"sent": "white and orange tag", "ann_id": 1186602, "best_split": [3, 1], "split_score": 0.43146502205600507}
+{"sent": "luggage", "ann_id": 1186602, "best_split": [2, 1], "split_score": 0.6644419283515749}
+{"sent": "nearest suitcase", "ann_id": 1186602, "best_split": [2, 1], "split_score": 0.6644419283515749}
+{"sent": "green jacket purple backpack", "ann_id": 489914, "best_split": [3, 1], "split_score": 0.1343988376247004}
+{"sent": "person facing away green shirt white around neck", "ann_id": 489914, "best_split": [3, 3], "split_score": 0.30515463913824686}
+{"sent": "green and white hoodie", "ann_id": 489914, "best_split": [3, 2], "split_score": 0.2358189929676938}
+{"sent": "girl looking facing the camera", "ann_id": 462346, "best_split": [3, 3], "split_score": 0.27702779350232243}
+{"sent": "blue jean woman", "ann_id": 462346, "best_split": [3, 3], "split_score": 0.27702779350232243}
+{"sent": "glasses", "ann_id": 462346, "best_split": [1, 3], "split_score": 0.26282196112388034}

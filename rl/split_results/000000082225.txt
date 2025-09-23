@@ -1,0 +1,6 @@
+{"sent": "lady with black zippered sweater", "ann_id": 430783, "best_split": [2, 3], "split_score": 0.5189658425628453}
+{"sent": "girl", "ann_id": 430783, "best_split": [2, 3], "split_score": 0.5189658425628453}
+{"sent": "woman", "ann_id": 430783, "best_split": [2, 3], "split_score": 0.5189658425628453}
+{"sent": "man", "ann_id": 426727, "best_split": [1, 2], "split_score": 0.4398915816151191}
+{"sent": "man in black", "ann_id": 426727, "best_split": [2, 2], "split_score": 0.7210422596364467}
+{"sent": "tall man", "ann_id": 426727, "best_split": [1, 2], "split_score": 0.4398915816151191}

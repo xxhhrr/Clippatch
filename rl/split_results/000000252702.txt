@@ -1,0 +1,10 @@
+{"sent": "loose red tie half person", "ann_id": 2161979, "best_split": [3, 2], "split_score": 0.3041666666440352}
+{"sent": "kid almost out of frame edge wearing red tie and see half face", "ann_id": 2161979, "best_split": [2, 1], "split_score": 0.21626984126217866}
+{"sent": "guy blocked by instrument", "ann_id": 525887, "best_split": [1, 3], "split_score": 0.4812649028908104}
+{"sent": "blond haired piece of head", "ann_id": 525887, "best_split": [1, 3], "split_score": 0.4812649028908104}
+{"sent": "boy whose face is hidden by trombone", "ann_id": 525887, "best_split": [1, 3], "split_score": 0.4812649028908104}
+{"sent": "curly hair out of frame mostly", "ann_id": 525091, "best_split": [1, 2], "split_score": 0.13687818877005428}
+{"sent": "kid almost out of frame next to the one playing trombone", "ann_id": 525091, "best_split": [3, 2], "split_score": 0.12022171252673722}
+{"sent": "playing the instrument", "ann_id": 520256, "best_split": [2, 2], "split_score": 0.3538286613743023}
+{"sent": "trumpet player", "ann_id": 520256, "best_split": [3, 2], "split_score": 0.3472250252095245}
+{"sent": "trombonist", "ann_id": 520256, "best_split": [3, 2], "split_score": 0.3472250252095245}

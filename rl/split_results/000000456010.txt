@@ -1,0 +1,6 @@
+{"sent": "closest zebra", "ann_id": 592484, "best_split": [1, 5], "split_score": 0.41210374636058145}
+{"sent": "zebra away from others", "ann_id": 590652, "best_split": [3, 2], "split_score": 0.4341455245387134}
+{"sent": "number 3", "ann_id": 590652, "best_split": [3, 2], "split_score": 0.4341455245387134}
+{"sent": "zebra farthest away", "ann_id": 590652, "best_split": [3, 2], "split_score": 0.4341455245387134}
+{"sent": "dark striped zebra", "ann_id": 589558, "best_split": [2, 2], "split_score": 0.5187728937432021}
+{"sent": "zebra longways", "ann_id": 589558, "best_split": [2, 2], "split_score": 0.5187728937432021}

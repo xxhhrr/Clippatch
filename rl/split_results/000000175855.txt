@@ -1,0 +1,12 @@
+{"sent": "man", "ann_id": 1729319, "best_split": [2, 2], "split_score": 0.806648199382141}
+{"sent": "man", "ann_id": 1729319, "best_split": [2, 2], "split_score": 0.806648199382141}
+{"sent": "man with goatee", "ann_id": 1729319, "best_split": [2, 2], "split_score": 0.806648199382141}
+{"sent": "woman with glasses", "ann_id": 1716448, "best_split": [1, 2], "split_score": 0.41593866453613726}
+{"sent": "woman", "ann_id": 1716448, "best_split": [1, 2], "split_score": 0.41593866453613726}
+{"sent": "gray shirt", "ann_id": 1716448, "best_split": [3, 1], "split_score": 0.37326269186147754}
+{"sent": "small slice of black shirt on side", "ann_id": 516062, "best_split": [2, 2], "split_score": 0.2487991593929151}
+{"sent": "person cutoff close to woman glass", "ann_id": 516062, "best_split": [3, 3], "split_score": 0.28590622057155635}
+{"sent": "part of a person not seen near the wine glass", "ann_id": 516062, "best_split": [1, 5], "split_score": 0.37164487264067986}
+{"sent": "boys head", "ann_id": 482403, "best_split": [2, 2], "split_score": 0.7963105303102542}
+{"sent": "childs head", "ann_id": 482403, "best_split": [2, 2], "split_score": 0.7963105303102542}
+{"sent": "kids head", "ann_id": 482403, "best_split": [2, 2], "split_score": 0.7963105303102542}

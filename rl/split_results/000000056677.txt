@@ -1,0 +1,12 @@
+{"sent": "woman handing cake", "ann_id": 516366, "best_split": [2, 1], "split_score": 0.2265541349050024}
+{"sent": "short jeans standing", "ann_id": 516366, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "woman in shorts", "ann_id": 516366, "best_split": [1, 2], "split_score": 0.5524553571208365}
+{"sent": "the younger one", "ann_id": 514574, "best_split": [3, 2], "split_score": 0.5827702701999553}
+{"sent": "little girl looking up", "ann_id": 514574, "best_split": [3, 2], "split_score": 0.5827702701999553}
+{"sent": "young boy", "ann_id": 514574, "best_split": [3, 2], "split_score": 0.5827702701999553}
+{"sent": "dude in blue", "ann_id": 513505, "best_split": [2, 3], "split_score": 0.578373727192143}
+{"sent": "the man", "ann_id": 513505, "best_split": [2, 3], "split_score": 0.578373727192143}
+{"sent": "old person in light blue pants", "ann_id": 513505, "best_split": [2, 3], "split_score": 0.578373727192143}
+{"sent": "woman in teal shirt carrying something", "ann_id": 1733214, "best_split": [2, 2], "split_score": 0.33077126952486274}
+{"sent": "green shirt", "ann_id": 1733214, "best_split": [3, 1], "split_score": 0.18985593052151883}
+{"sent": "solid teal shirt lady", "ann_id": 1733214, "best_split": [3, 2], "split_score": 0.32120200331208665}

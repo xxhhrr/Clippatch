@@ -1,0 +1,9 @@
+{"sent": "lightest", "ann_id": 1439825, "best_split": [1, 3], "split_score": 0.2524734555832243}
+{"sent": "the bright almost white tie", "ann_id": 1439825, "best_split": [1, 5], "split_score": 0.4246144480088662}
+{"sent": "white tie", "ann_id": 1439825, "best_split": [1, 5], "split_score": 0.4246144480088662}
+{"sent": "stripe tie", "ann_id": 297247, "best_split": [1, 5], "split_score": 0.5029126213103968}
+{"sent": "striped tie", "ann_id": 297247, "best_split": [1, 5], "split_score": 0.5029126213103968}
+{"sent": "black one", "ann_id": 295126, "best_split": [1, 3], "split_score": 0.2624276061617744}
+{"sent": "solid red tie fully visible", "ann_id": 294170, "best_split": [3, 3], "split_score": 0.19829016202650374}
+{"sent": "orange tie on edge", "ann_id": 294170, "best_split": [3, 3], "split_score": 0.19829016202650374}
+{"sent": "orengish brown tie fully visible 9 o clock", "ann_id": 294170, "best_split": [3, 3], "split_score": 0.19829016202650374}

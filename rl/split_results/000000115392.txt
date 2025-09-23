@@ -1,0 +1,6 @@
+{"sent": "white and black bus", "ann_id": 168514, "best_split": [3, 2], "split_score": 0.3366312740906574}
+{"sent": "white bus looks like 07 on it", "ann_id": 168514, "best_split": [3, 1], "split_score": 0.1683156370554829}
+{"sent": "07 bus", "ann_id": 168514, "best_split": [3, 1], "split_score": 0.1683156370554829}
+{"sent": "full bus", "ann_id": 164273, "best_split": [3, 1], "split_score": 0.4113799869027395}
+{"sent": "giant blue bus", "ann_id": 164273, "best_split": [3, 1], "split_score": 0.4113799869027395}
+{"sent": "bus", "ann_id": 164273, "best_split": [3, 1], "split_score": 0.4113799869027395}

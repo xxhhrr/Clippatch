@@ -1,0 +1,6 @@
+{"sent": "red bus you dont see the front of", "ann_id": 247896, "best_split": [3, 3], "split_score": 0.6611888110732187}
+{"sent": "the red bus thats blocked in", "ann_id": 247896, "best_split": [3, 3], "split_score": 0.6611888110732187}
+{"sent": "red bus with windshield hidden", "ann_id": 247896, "best_split": [3, 3], "split_score": 0.6611888110732187}
+{"sent": "fully visible bus", "ann_id": 165092, "best_split": [3, 1], "split_score": 0.44523661911318263}
+{"sent": "whole bus", "ann_id": 165092, "best_split": [3, 1], "split_score": 0.44523661911318263}
+{"sent": "bus not parked properly", "ann_id": 165092, "best_split": [3, 1], "split_score": 0.44523661911318263}

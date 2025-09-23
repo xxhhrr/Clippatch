@@ -1,0 +1,6 @@
+{"sent": "bread only no sandwich", "ann_id": 312918, "best_split": [3, 3], "split_score": 0.7566031426351382}
+{"sent": "sandwich not on a plate", "ann_id": 312918, "best_split": [3, 1], "split_score": 0.2982456140171686}
+{"sent": "closest bread on board", "ann_id": 312918, "best_split": [3, 3], "split_score": 0.7566031426351382}
+{"sent": "sandwich facing us", "ann_id": 308845, "best_split": [2, 3], "split_score": 0.4424117773931141}
+{"sent": "sandwich", "ann_id": 308845, "best_split": [2, 3], "split_score": 0.4424117773931141}
+{"sent": "sandwich on plate", "ann_id": 308845, "best_split": [2, 3], "split_score": 0.4424117773931141}

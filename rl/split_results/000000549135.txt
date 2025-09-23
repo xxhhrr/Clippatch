@@ -1,0 +1,6 @@
+{"sent": "smallest coucharmchair", "ann_id": 2224818, "best_split": [3, 2], "split_score": 0.3685280273461138}
+{"sent": "chair", "ann_id": 2224818, "best_split": [3, 2], "split_score": 0.3685280273461138}
+{"sent": "red solo chair on side", "ann_id": 2224818, "best_split": [3, 2], "split_score": 0.3685280273461138}
+{"sent": "red couch", "ann_id": 112083, "best_split": [3, 3], "split_score": 0.6121323528708488}
+{"sent": "couch", "ann_id": 112083, "best_split": [3, 3], "split_score": 0.6121323528708488}
+{"sent": "sofa", "ann_id": 112083, "best_split": [3, 3], "split_score": 0.6121323528708488}

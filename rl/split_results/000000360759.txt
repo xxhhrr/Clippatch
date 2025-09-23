@@ -1,0 +1,8 @@
+{"sent": "three slots wood", "ann_id": 388937, "best_split": [3, 3], "split_score": 0.5883672487440527}
+{"sent": "chair seat only visible", "ann_id": 388937, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "the chair that is next to the pink box", "ann_id": 388937, "best_split": [2, 2], "split_score": 0.3537149234411898}
+{"sent": "the chair behind the tallest dish", "ann_id": 388514, "best_split": [2, 2], "split_score": 0.7415005861121409}
+{"sent": "chair near square shelves", "ann_id": 388514, "best_split": [2, 2], "split_score": 0.7415005861121409}
+{"sent": "chair by dish full of sweets", "ann_id": 388514, "best_split": [2, 2], "split_score": 0.7415005861121409}
+{"sent": "partially visible chair by doughnuts", "ann_id": 382118, "best_split": [1, 5], "split_score": 0.5784779446845877}
+{"sent": "chair closer to big dougnuts", "ann_id": 382118, "best_split": [1, 5], "split_score": 0.5784779446845877}

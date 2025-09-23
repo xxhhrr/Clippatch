@@ -1,0 +1,5 @@
+{"sent": "bike man is putting on", "ann_id": 1768952, "best_split": [3, 3], "split_score": 0.4390917073843819}
+{"sent": "the bike the person is handling", "ann_id": 1768952, "best_split": [3, 2], "split_score": 0.3690213744494372}
+{"sent": "bike nearest woman in white", "ann_id": 1768952, "best_split": [3, 3], "split_score": 0.4390917073843819}
+{"sent": "bike on rack closest to bus", "ann_id": 1765552, "best_split": [3, 3], "split_score": 0.3691460054705291}
+{"sent": "bike on rack not by lady", "ann_id": 1765552, "best_split": [3, 2], "split_score": 0.3355402766882658}

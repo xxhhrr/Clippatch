@@ -1,0 +1,9 @@
+{"sent": "full body in back", "ann_id": 476926, "best_split": [2, 2], "split_score": 0.34235294115129755}
+{"sent": "background guy furthest away from sign", "ann_id": 476926, "best_split": [2, 3], "split_score": 0.4982876711795497}
+{"sent": "player blocking the player by wall", "ann_id": 476926, "best_split": [2, 1], "split_score": 0.035502958578688036}
+{"sent": "player holding bat", "ann_id": 444431, "best_split": [1, 3], "split_score": 0.6426761582623868}
+{"sent": "man with bat", "ann_id": 444431, "best_split": [1, 3], "split_score": 0.6426761582623868}
+{"sent": "black dude glasses", "ann_id": 444431, "best_split": [1, 3], "split_score": 0.6426761582623868}
+{"sent": "arms out", "ann_id": 434733, "best_split": [1, 2], "split_score": 0.5320866272327082}
+{"sent": "white guy", "ann_id": 434733, "best_split": [1, 3], "split_score": 0.4889750999370977}
+{"sent": "player with hands stretched", "ann_id": 434733, "best_split": [1, 2], "split_score": 0.5320866272327082}

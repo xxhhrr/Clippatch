@@ -1,0 +1,6 @@
+{"sent": "red tie", "ann_id": 253953, "best_split": [1, 5], "split_score": 0.4639463015575233}
+{"sent": "red bow tie", "ann_id": 253953, "best_split": [1, 5], "split_score": 0.4639463015575233}
+{"sent": "red tie", "ann_id": 253953, "best_split": [1, 5], "split_score": 0.4639463015575233}
+{"sent": "man 1", "ann_id": 211258, "best_split": [2, 1], "split_score": 0.2502004811476057}
+{"sent": "man stranding looking away", "ann_id": 211258, "best_split": [2, 1], "split_score": 0.2905629138986943}
+{"sent": "tallest guy", "ann_id": 211258, "best_split": [1, 2], "split_score": 0.7399553571133627}

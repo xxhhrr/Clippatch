@@ -1,0 +1,7 @@
+{"sent": "red apple between bananas", "ann_id": 1907618, "best_split": [2, 2], "split_score": 0.19124971265104207}
+{"sent": "red apple in between the bananas", "ann_id": 1907618, "best_split": [2, 2], "split_score": 0.19124971265104207}
+{"sent": "apple under banana stem", "ann_id": 1906142, "best_split": [3, 3], "split_score": 0.5128676469802592}
+{"sent": "apple with most green", "ann_id": 1906142, "best_split": [3, 1], "split_score": 0.194125014220988}
+{"sent": "apple", "ann_id": 1048030, "best_split": [3, 3], "split_score": 0.28787116250832556}
+{"sent": "apple", "ann_id": 1048030, "best_split": [3, 3], "split_score": 0.28787116250832556}
+{"sent": "apple behind the smile banana", "ann_id": 1048030, "best_split": [1, 2], "split_score": 0.05135614115998782}

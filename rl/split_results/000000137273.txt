@@ -1,0 +1,6 @@
+{"sent": "space or apple behind the organic apple", "ann_id": 1551092, "best_split": [1, 5], "split_score": 0.6092715231264065}
+{"sent": "half apple", "ann_id": 1551092, "best_split": [1, 5], "split_score": 0.6092715231264065}
+{"sent": "part of apple", "ann_id": 1551092, "best_split": [1, 5], "split_score": 0.6092715231264065}
+{"sent": "apple", "ann_id": 1047488, "best_split": [1, 2], "split_score": 0.6403162055138242}
+{"sent": "apple", "ann_id": 1047488, "best_split": [1, 2], "split_score": 0.6403162055138242}
+{"sent": "apple with a label on it", "ann_id": 1047488, "best_split": [1, 2], "split_score": 0.6403162055138242}

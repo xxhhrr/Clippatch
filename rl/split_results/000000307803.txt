@@ -1,0 +1,9 @@
+{"sent": "guy in blue and gray pants", "ann_id": 1215853, "best_split": [1, 5], "split_score": 0.3364449247974408}
+{"sent": "ump", "ann_id": 1215853, "best_split": [5, 1], "split_score": 0.12768427160868218}
+{"sent": "ump", "ann_id": 1215853, "best_split": [5, 1], "split_score": 0.12768427160868218}
+{"sent": "catcher", "ann_id": 483738, "best_split": [5, 1], "split_score": 0.21059580787171184}
+{"sent": "catcher", "ann_id": 483738, "best_split": [5, 1], "split_score": 0.21059580787171184}
+{"sent": "catcher", "ann_id": 483738, "best_split": [5, 1], "split_score": 0.21059580787171184}
+{"sent": "a baseball player batting", "ann_id": 458079, "best_split": [2, 2], "split_score": 0.35733351125334756}
+{"sent": "batter", "ann_id": 458079, "best_split": [2, 2], "split_score": 0.35733351125334756}
+{"sent": "batter", "ann_id": 458079, "best_split": [2, 2], "split_score": 0.35733351125334756}

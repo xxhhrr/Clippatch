@@ -1,0 +1,5 @@
+{"sent": "slice not in hand", "ann_id": 2221903, "best_split": [1, 2], "split_score": 0.19748020388556792}
+{"sent": "pizza thats on the plate", "ann_id": 2221903, "best_split": [1, 2], "split_score": 0.19748020388556792}
+{"sent": "pizza closest to us", "ann_id": 2221903, "best_split": [1, 2], "split_score": 0.19748020388556792}
+{"sent": "whole pizza in hand", "ann_id": 1075826, "best_split": [2, 1], "split_score": 0.7822066326218827}
+{"sent": "piece in hand", "ann_id": 1075826, "best_split": [2, 1], "split_score": 0.7822066326218827}

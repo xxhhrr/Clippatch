@@ -1,0 +1,7 @@
+{"sent": "elephant in dust behind closest elephant", "ann_id": 584210, "best_split": [3, 1], "split_score": 0.15737631519155046}
+{"sent": "in the dusty air", "ann_id": 584210, "best_split": [3, 3], "split_score": 0.37052932755786416}
+{"sent": "closest", "ann_id": 582767, "best_split": [1, 2], "split_score": 0.24812527568693285}
+{"sent": "the closest one", "ann_id": 582767, "best_split": [1, 3], "split_score": 0.7134593134971374}
+{"sent": "coming at us", "ann_id": 582767, "best_split": [3, 1], "split_score": 0.24608357705652936}
+{"sent": "elephant going in different direction", "ann_id": 581083, "best_split": [3, 2], "split_score": 0.5485081628308774}
+{"sent": "elephant walking in the background not behind closest one", "ann_id": 581083, "best_split": [3, 2], "split_score": 0.5485081628308774}

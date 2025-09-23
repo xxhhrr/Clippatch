@@ -1,0 +1,9 @@
+{"sent": "blue shirt", "ann_id": 1213241, "best_split": [1, 5], "split_score": 0.373699780477746}
+{"sent": "in blue shirt", "ann_id": 1213241, "best_split": [1, 5], "split_score": 0.373699780477746}
+{"sent": "woman wearing blue shirt", "ann_id": 1213241, "best_split": [1, 5], "split_score": 0.373699780477746}
+{"sent": "light blue jeans", "ann_id": 193900, "best_split": [2, 3], "split_score": 0.27311643832693533}
+{"sent": "red shirt", "ann_id": 193900, "best_split": [3, 3], "split_score": 0.409683426379627}
+{"sent": "red shirt lady middle", "ann_id": 193900, "best_split": [3, 3], "split_score": 0.409683426379627}
+{"sent": "girl in red dress", "ann_id": 185276, "best_split": [3, 2], "split_score": 0.3211422295089355}
+{"sent": "black sweater over red", "ann_id": 185276, "best_split": [3, 2], "split_score": 0.3211422295089355}
+{"sent": "black cardigan", "ann_id": 185276, "best_split": [1, 5], "split_score": 0.3439754867703889}

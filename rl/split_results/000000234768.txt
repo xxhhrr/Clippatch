@@ -1,0 +1,6 @@
+{"sent": "bigger couch", "ann_id": 112773, "best_split": [2, 2], "split_score": 0.5217633928155482}
+{"sent": "couch 2", "ann_id": 112773, "best_split": [2, 3], "split_score": 0.4633977900095306}
+{"sent": "biggest sofa", "ann_id": 112773, "best_split": [2, 2], "split_score": 0.5217633928155482}
+{"sent": "smaller couch", "ann_id": 112339, "best_split": [5, 1], "split_score": 0.24639676854434986}
+{"sent": "love seat not long couch", "ann_id": 112339, "best_split": [5, 1], "split_score": 0.24639676854434986}
+{"sent": "loveseat", "ann_id": 112339, "best_split": [5, 1], "split_score": 0.24639676854434986}

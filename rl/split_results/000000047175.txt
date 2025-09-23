@@ -1,0 +1,6 @@
+{"sent": "red blur", "ann_id": 1366974, "best_split": [3, 2], "split_score": 0.6253175742156944}
+{"sent": "blurry red train", "ann_id": 1366974, "best_split": [3, 2], "split_score": 0.6253175742156944}
+{"sent": "red blurry train", "ann_id": 1366974, "best_split": [3, 2], "split_score": 0.6253175742156944}
+{"sent": "train", "ann_id": 248635, "best_split": [2, 1], "split_score": 0.8616448067755532}
+{"sent": "black train", "ann_id": 248635, "best_split": [2, 1], "split_score": 0.8616448067755532}
+{"sent": "train", "ann_id": 248635, "best_split": [2, 1], "split_score": 0.8616448067755532}

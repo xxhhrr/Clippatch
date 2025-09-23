@@ -1,0 +1,6 @@
+{"sent": "woman", "ann_id": 484868, "best_split": [1, 3], "split_score": 0.6906997879081743}
+{"sent": "person in coat looking away", "ann_id": 484868, "best_split": [1, 3], "split_score": 0.6906997879081743}
+{"sent": "hoodie", "ann_id": 484868, "best_split": [1, 3], "split_score": 0.6906997879081743}
+{"sent": "man facing us", "ann_id": 440914, "best_split": [1, 2], "split_score": 0.09665871121357926}
+{"sent": "white tie", "ann_id": 440914, "best_split": [1, 5], "split_score": 0.4383116882672167}
+{"sent": "person alone facing camera", "ann_id": 440914, "best_split": [3, 1], "split_score": 0.11886913685377655}

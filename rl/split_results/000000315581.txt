@@ -1,0 +1,6 @@
+{"sent": "dog in corner", "ann_id": 15424, "best_split": [3, 3], "split_score": 0.8345434882072387}
+{"sent": "dog with silver gray color", "ann_id": 15424, "best_split": [3, 3], "split_score": 0.8345434882072387}
+{"sent": "dog not refection", "ann_id": 15424, "best_split": [3, 3], "split_score": 0.8345434882072387}
+{"sent": "dog in mirror", "ann_id": 5150, "best_split": [2, 2], "split_score": 0.18635203286306257}
+{"sent": "dog reflection", "ann_id": 5150, "best_split": [2, 2], "split_score": 0.18635203286306257}
+{"sent": "dog looking at you", "ann_id": 5150, "best_split": [5, 1], "split_score": 0.2000293297990886}

@@ -1,0 +1,13 @@
+{"sent": "man with white t shirt on bike", "ann_id": 1213689, "best_split": [1, 3], "split_score": 0.7036679536255026}
+{"sent": "driver with white sleeveless shirt", "ann_id": 1213689, "best_split": [1, 3], "split_score": 0.7036679536255026}
+{"sent": "white shirt leading", "ann_id": 1213689, "best_split": [3, 3], "split_score": 0.4510667117803025}
+{"sent": "bright light", "ann_id": 246379, "best_split": [1, 5], "split_score": 0.5409902596853703}
+{"sent": "motorcycle of person in white t and vest", "ann_id": 154634, "best_split": [3, 2], "split_score": 0.34139140059592255}
+{"sent": "white shirt blue hat motorcycle", "ann_id": 154634, "best_split": [3, 2], "split_score": 0.34139140059592255}
+{"sent": "bike at 3 oclcock position", "ann_id": 154051, "best_split": [2, 2], "split_score": 0.4058032554560649}
+{"sent": "biker in yellow", "ann_id": 1286441, "best_split": [1, 5], "split_score": 0.5647797580049145}
+{"sent": "yellow shirt at edge", "ann_id": 1286441, "best_split": [1, 5], "split_score": 0.5647797580049145}
+{"sent": "rider with yellow shirt", "ann_id": 1286441, "best_split": [1, 5], "split_score": 0.5647797580049145}
+{"sent": "closest bike", "ann_id": 152109, "best_split": [2, 3], "split_score": 0.685384615318713}
+{"sent": "main bike middle", "ann_id": 152109, "best_split": [2, 3], "split_score": 0.685384615318713}
+{"sent": "bike closest", "ann_id": 152109, "best_split": [2, 3], "split_score": 0.685384615318713}

@@ -1,0 +1,6 @@
+{"sent": "man wearing black pants", "ann_id": 224520, "best_split": [2, 3], "split_score": 0.5684188568451795}
+{"sent": "standing man in white jacket", "ann_id": 224520, "best_split": [2, 1], "split_score": 0.2065332726918852}
+{"sent": "black pants", "ann_id": 224520, "best_split": [2, 3], "split_score": 0.5684188568451795}
+{"sent": "man on bike", "ann_id": 199796, "best_split": [1, 5], "split_score": 0.33282990368766946}
+{"sent": "man riding bike coming this way", "ann_id": 199796, "best_split": [1, 5], "split_score": 0.33282990368766946}
+{"sent": "man on bike", "ann_id": 199796, "best_split": [1, 5], "split_score": 0.33282990368766946}

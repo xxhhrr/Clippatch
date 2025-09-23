@@ -1,0 +1,5 @@
+{"sent": "man closest to window in white shirt", "ann_id": 204323, "best_split": [2, 2], "split_score": 0.1868199233573318}
+{"sent": "white tshirt arms not visible", "ann_id": 204323, "best_split": [3, 2], "split_score": 0.2383682469417455}
+{"sent": "smaller man", "ann_id": 204323, "best_split": [5, 1], "split_score": 0.125373659211766}
+{"sent": "guy with control", "ann_id": 202682, "best_split": [2, 2], "split_score": 0.7100761034575296}
+{"sent": "man closest to you", "ann_id": 202682, "best_split": [2, 1], "split_score": 0.5612080227249209}

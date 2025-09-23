@@ -1,0 +1,9 @@
+{"sent": "woman in white", "ann_id": 2165926, "best_split": [1, 3], "split_score": 0.5732093961459429}
+{"sent": "player", "ann_id": 2165926, "best_split": [1, 3], "split_score": 0.5732093961459429}
+{"sent": "tennis player", "ann_id": 2165926, "best_split": [1, 3], "split_score": 0.5732093961459429}
+{"sent": "man hands on knees", "ann_id": 1715804, "best_split": [3, 1], "split_score": 0.20787619301543678}
+{"sent": "ump with blue shirt", "ann_id": 1715804, "best_split": [2, 3], "split_score": 0.5143824026658301}
+{"sent": "bending over man", "ann_id": 1715804, "best_split": [2, 2], "split_score": 0.3923890063187926}
+{"sent": "legs in shorts not the player", "ann_id": 566909, "best_split": [3, 2], "split_score": 0.2321204516730489}
+{"sent": "white shoes and black shorts", "ann_id": 566909, "best_split": [3, 2], "split_score": 0.22443890272315292}
+{"sent": "red black and white", "ann_id": 566909, "best_split": [3, 3], "split_score": 0.2994296577590982}

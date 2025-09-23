@@ -1,0 +1,6 @@
+{"sent": "farthest urinal", "ann_id": 1096360, "best_split": [1, 5], "split_score": 0.39730063678383226}
+{"sent": "urinal near window", "ann_id": 1096360, "best_split": [3, 2], "split_score": 0.30378238853332845}
+{"sent": "furthest urinal", "ann_id": 1096360, "best_split": [1, 5], "split_score": 0.39730063678383226}
+{"sent": "urinal closest to us", "ann_id": 1096003, "best_split": [2, 3], "split_score": 0.5144787644166893}
+{"sent": "tall toilet nearer viewer", "ann_id": 1096003, "best_split": [2, 3], "split_score": 0.5144787644166893}
+{"sent": "closest urinal", "ann_id": 1096003, "best_split": [2, 3], "split_score": 0.5144787644166893}

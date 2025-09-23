@@ -1,0 +1,6 @@
+{"sent": "i am wearing a striped shirt", "ann_id": 456574, "best_split": [1, 2], "split_score": 0.8216080401687497}
+{"sent": "man", "ann_id": 456574, "best_split": [1, 2], "split_score": 0.8216080401687497}
+{"sent": "man", "ann_id": 456574, "best_split": [1, 2], "split_score": 0.8216080401687497}
+{"sent": "woman", "ann_id": 441414, "best_split": [1, 2], "split_score": 0.6717381281438551}
+{"sent": "woman", "ann_id": 441414, "best_split": [1, 2], "split_score": 0.6717381281438551}
+{"sent": "a lady", "ann_id": 441414, "best_split": [1, 2], "split_score": 0.6717381281438551}

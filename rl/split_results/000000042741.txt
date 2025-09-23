@@ -1,0 +1,6 @@
+{"sent": "couch not cat side", "ann_id": 2223779, "best_split": [2, 1], "split_score": 0.20816910361703214}
+{"sent": "cushon beside boy not the cats side", "ann_id": 2223779, "best_split": [2, 1], "split_score": 0.20816910361703214}
+{"sent": "side of couch without cat", "ann_id": 2223779, "best_split": [2, 1], "split_score": 0.20816910361703214}
+{"sent": "couch", "ann_id": 116591, "best_split": [1, 2], "split_score": 0.7789351123173599}
+{"sent": "tan part of the sofa the cat is sitting on", "ann_id": 116591, "best_split": [1, 2], "split_score": 0.7789351123173599}
+{"sent": "couch behind cat", "ann_id": 116591, "best_split": [1, 2], "split_score": 0.7789351123173599}

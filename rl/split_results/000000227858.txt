@@ -1,0 +1,6 @@
+{"sent": "pink trimmed square bowl", "ann_id": 2107528, "best_split": [1, 5], "split_score": 0.4805194804707265}
+{"sent": "square dish", "ann_id": 2107528, "best_split": [1, 2], "split_score": 0.18877551019655708}
+{"sent": "salsa chips in the basket", "ann_id": 2107528, "best_split": [1, 5], "split_score": 0.4805194804707265}
+{"sent": "soup", "ann_id": 710084, "best_split": [1, 5], "split_score": 0.20486656199480044}
+{"sent": "bowl of soy sauce", "ann_id": 710084, "best_split": [2, 3], "split_score": 0.5675979940059771}
+{"sent": "bowl with spoon", "ann_id": 710084, "best_split": [2, 2], "split_score": 0.517404449917249}

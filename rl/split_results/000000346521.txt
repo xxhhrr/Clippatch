@@ -1,0 +1,9 @@
+{"sent": "black shirt next to 29", "ann_id": 1325454, "best_split": [2, 1], "split_score": 0.15218988829540747}
+{"sent": "blurry person by 29", "ann_id": 1325454, "best_split": [3, 1], "split_score": 0.14036138563739836}
+{"sent": "blurred figure behind glove", "ann_id": 1325454, "best_split": [1, 5], "split_score": 0.5579171094041235}
+{"sent": "girl in glasses", "ann_id": 1279441, "best_split": [1, 5], "split_score": 0.5275244849267541}
+{"sent": "uniformed woman", "ann_id": 1279441, "best_split": [1, 3], "split_score": 0.4968629343329595}
+{"sent": "girl", "ann_id": 1279441, "best_split": [2, 1], "split_score": 0.23945547867888659}
+{"sent": "player", "ann_id": 1260308, "best_split": [1, 2], "split_score": 0.7387076753072648}
+{"sent": "29", "ann_id": 1260308, "best_split": [1, 2], "split_score": 0.7387076753072648}
+{"sent": "man in uniform", "ann_id": 1260308, "best_split": [1, 2], "split_score": 0.7387076753072648}

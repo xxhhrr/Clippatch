@@ -1,0 +1,11 @@
+{"sent": "guy in black with hat but no face", "ann_id": 559604, "best_split": [1, 2], "split_score": 0.5831473214053273}
+{"sent": "man in black with cap on", "ann_id": 559604, "best_split": [1, 2], "split_score": 0.5831473214053273}
+{"sent": "person at 500ish 600ish", "ann_id": 559604, "best_split": [2, 1], "split_score": 0.11464092273693932}
+{"sent": "khaki coat under umbrella", "ann_id": 515753, "best_split": [1, 3], "split_score": 0.31907577218152294}
+{"sent": "tan jacket", "ann_id": 515753, "best_split": [2, 3], "split_score": 0.5125891265026081}
+{"sent": "lady under unbrella in tan coat", "ann_id": 515753, "best_split": [1, 5], "split_score": 0.3221300741752833}
+{"sent": "person under atm sign with fur hood", "ann_id": 2155887, "best_split": [1, 3], "split_score": 0.1406643482347605}
+{"sent": "tan coat under atm sign", "ann_id": 2155887, "best_split": [1, 2], "split_score": 0.09757653060835553}
+{"sent": "closest person head down", "ann_id": 466599, "best_split": [2, 2], "split_score": 0.7032258064053176}
+{"sent": "lady black coat head down", "ann_id": 466599, "best_split": [2, 2], "split_score": 0.7032258064053176}
+{"sent": "guy at 7 in black with head down", "ann_id": 466599, "best_split": [2, 1], "split_score": 0.07397260273765802}

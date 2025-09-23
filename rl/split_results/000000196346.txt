@@ -1,0 +1,6 @@
+{"sent": "that dog", "ann_id": 16093, "best_split": [2, 3], "split_score": 0.6300407792671}
+{"sent": "full face view", "ann_id": 16093, "best_split": [1, 2], "split_score": 0.24322385203112148}
+{"sent": "the dog facing the camera head on", "ann_id": 16093, "best_split": [2, 3], "split_score": 0.6300407792671}
+{"sent": "shorter leach dog", "ann_id": 8824, "best_split": [1, 5], "split_score": 0.4197530863861028}
+{"sent": "dog on correct rounds side", "ann_id": 8824, "best_split": [1, 5], "split_score": 0.4197530863861028}
+{"sent": "dog not facing directly at camera", "ann_id": 8824, "best_split": [1, 5], "split_score": 0.4197530863861028}

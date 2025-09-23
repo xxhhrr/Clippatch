@@ -1,0 +1,6 @@
+{"sent": "biggest hotdog", "ann_id": 1068891, "best_split": [2, 2], "split_score": 0.6729411764211073}
+{"sent": "split open dog", "ann_id": 1068891, "best_split": [2, 2], "split_score": 0.6729411764211073}
+{"sent": "the hot dog closer to us", "ann_id": 1068891, "best_split": [2, 2], "split_score": 0.6729411764211073}
+{"sent": "hot furtherest and closest to soda", "ann_id": 1067434, "best_split": [1, 5], "split_score": 0.2935560858969603}
+{"sent": "plain hot dog", "ann_id": 1067434, "best_split": [2, 3], "split_score": 0.3167515232187003}
+{"sent": "hotdog closest to cola", "ann_id": 1067434, "best_split": [3, 3], "split_score": 0.3647752394604932}

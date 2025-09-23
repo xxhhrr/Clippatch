@@ -1,0 +1,6 @@
+{"sent": "bread not visibly cut", "ann_id": 312051, "best_split": [3, 1], "split_score": 0.2913480623339294}
+{"sent": "half of sandwich that isnt open", "ann_id": 312051, "best_split": [2, 1], "split_score": 0.28771039272541515}
+{"sent": "bigger half of sandwich", "ann_id": 312051, "best_split": [2, 1], "split_score": 0.28771039272541515}
+{"sent": "open sandwich", "ann_id": 308544, "best_split": [1, 2], "split_score": 0.8281249999669912}
+{"sent": "the open sandwich", "ann_id": 308544, "best_split": [1, 2], "split_score": 0.8281249999669912}
+{"sent": "sandiwch open", "ann_id": 308544, "best_split": [1, 2], "split_score": 0.8281249999669912}

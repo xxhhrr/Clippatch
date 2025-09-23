@@ -1,0 +1,8 @@
+{"sent": "empty mug behind fries", "ann_id": 1881931, "best_split": [1, 5], "split_score": 0.15043604649796183}
+{"sent": "glass empty near napkin", "ann_id": 1881931, "best_split": [2, 3], "split_score": 0.33880308876221005}
+{"sent": "tall glass of beer", "ann_id": 1887569, "best_split": [3, 3], "split_score": 0.37155814700817}
+{"sent": "full beer", "ann_id": 1887569, "best_split": [3, 3], "split_score": 0.37155814700817}
+{"sent": "glass of beer", "ann_id": 1887569, "best_split": [3, 3], "split_score": 0.37155814700817}
+{"sent": "cup next to the almost empty cup above tomato", "ann_id": 1886788, "best_split": [1, 5], "split_score": 0.424869957755926}
+{"sent": "glass full clear liquid", "ann_id": 1886788, "best_split": [2, 3], "split_score": 0.5391014974400877}
+{"sent": "empty mug by onions", "ann_id": 1886788, "best_split": [2, 3], "split_score": 0.5391014974400877}

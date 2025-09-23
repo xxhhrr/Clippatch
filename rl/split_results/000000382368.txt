@@ -1,0 +1,6 @@
+{"sent": "the slice of pizza", "ann_id": 1077020, "best_split": [1, 2], "split_score": 0.5092353822935761}
+{"sent": "slice touching utensil", "ann_id": 1077020, "best_split": [1, 3], "split_score": 0.37122528606278155}
+{"sent": "pizza half that is cut off by camera", "ann_id": 1077020, "best_split": [1, 2], "split_score": 0.5092353822935761}
+{"sent": "900", "ann_id": 1073885, "best_split": [1, 3], "split_score": 0.40161190730227775}
+{"sent": "half of pizza closest to finger", "ann_id": 1073885, "best_split": [1, 2], "split_score": 0.5291069524893667}
+{"sent": "the half sticking down", "ann_id": 1073885, "best_split": [1, 2], "split_score": 0.5291069524893667}

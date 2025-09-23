@@ -1,0 +1,6 @@
+{"sent": "cup with red drink", "ann_id": 673721, "best_split": [5, 1], "split_score": 0.2586206896292481}
+{"sent": "pink drink", "ann_id": 673721, "best_split": [5, 1], "split_score": 0.2586206896292481}
+{"sent": "red drink", "ann_id": 673721, "best_split": [5, 1], "split_score": 0.2586206896292481}
+{"sent": "cup", "ann_id": 673640, "best_split": [3, 3], "split_score": 0.556464296861204}
+{"sent": "white cup", "ann_id": 673640, "best_split": [3, 3], "split_score": 0.556464296861204}
+{"sent": "cup closest", "ann_id": 673640, "best_split": [3, 3], "split_score": 0.556464296861204}

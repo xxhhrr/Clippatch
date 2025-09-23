@@ -1,0 +1,6 @@
+{"sent": "yellow bike", "ann_id": 153292, "best_split": [2, 2], "split_score": 0.481399416881551}
+{"sent": "closest motorcycle", "ann_id": 153292, "best_split": [2, 2], "split_score": 0.481399416881551}
+{"sent": "bike he is sitting on", "ann_id": 153292, "best_split": [2, 2], "split_score": 0.481399416881551}
+{"sent": "red bike on the side with the white bike", "ann_id": 148161, "best_split": [1, 2], "split_score": 0.16557716836074707}
+{"sent": "bike with red hub near brick wall corner going out of frame", "ann_id": 148161, "best_split": [1, 2], "split_score": 0.16557716836074707}
+{"sent": "red bike near brick", "ann_id": 148161, "best_split": [1, 2], "split_score": 0.16557716836074707}

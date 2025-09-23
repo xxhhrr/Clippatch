@@ -1,0 +1,8 @@
+{"sent": "blue shirt", "ann_id": 263107, "best_split": [3, 3], "split_score": 0.5385194478621682}
+{"sent": "light blue jacket", "ann_id": 263107, "best_split": [3, 3], "split_score": 0.5385194478621682}
+{"sent": "partial cycle", "ann_id": 151646, "best_split": [1, 2], "split_score": 0.31668441873414926}
+{"sent": "not all visible bike", "ann_id": 151646, "best_split": [3, 2], "split_score": 0.8557141368001131}
+{"sent": "blue cycle with sign", "ann_id": 151646, "best_split": [3, 2], "split_score": 0.8557141368001131}
+{"sent": "motorcycle with 3 people", "ann_id": 148821, "best_split": [1, 3], "split_score": 0.446105618505965}
+{"sent": "bke with 3 riders", "ann_id": 148821, "best_split": [1, 3], "split_score": 0.446105618505965}
+{"sent": "3 people and their bike", "ann_id": 148821, "best_split": [1, 3], "split_score": 0.446105618505965}

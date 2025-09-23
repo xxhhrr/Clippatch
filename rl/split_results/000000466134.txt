@@ -1,0 +1,6 @@
+{"sent": "poster with the tv monitor", "ann_id": 2133768, "best_split": [2, 3], "split_score": 0.3251144768998666}
+{"sent": "the person above the counter", "ann_id": 2133768, "best_split": [1, 3], "split_score": 0.15137162028067044}
+{"sent": "white jacket above cat", "ann_id": 2133768, "best_split": [2, 2], "split_score": 0.3537166900172709}
+{"sent": "tv cat is on", "ann_id": 32532, "best_split": [3, 3], "split_score": 0.3827720890549169}
+{"sent": "tv screen", "ann_id": 32532, "best_split": [3, 3], "split_score": 0.3827720890549169}
+{"sent": "monitor with cat", "ann_id": 32532, "best_split": [3, 3], "split_score": 0.3827720890549169}

@@ -1,0 +1,7 @@
+{"sent": "closest tire", "ann_id": 1769987, "best_split": [3, 2], "split_score": 0.2986279257121379}
+{"sent": "only partial tire", "ann_id": 1769987, "best_split": [3, 3], "split_score": 0.441904111850895}
+{"sent": "bike tire cutoff", "ann_id": 1769987, "best_split": [2, 3], "split_score": 0.3589527026593928}
+{"sent": "bike outplace", "ann_id": 1766112, "best_split": [3, 1], "split_score": 0.36727941174782724}
+{"sent": "bike mostly by itsel", "ann_id": 1766112, "best_split": [3, 1], "split_score": 0.36727941174782724}
+{"sent": "bike away from others", "ann_id": 1766112, "best_split": [3, 1], "split_score": 0.36727941174782724}
+{"sent": "closest bike not the piece of wheel", "ann_id": 1764822, "best_split": [1, 2], "split_score": 0.5781249999769561}

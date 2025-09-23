@@ -1,0 +1,6 @@
+{"sent": "clapping", "ann_id": 442036, "best_split": [1, 2], "split_score": 0.7438898995197386}
+{"sent": "colorful shirt guy with glasses", "ann_id": 442036, "best_split": [1, 2], "split_score": 0.7438898995197386}
+{"sent": "guy with glasses", "ann_id": 442036, "best_split": [1, 5], "split_score": 0.4323144104588967}
+{"sent": "man holding laptop", "ann_id": 1707538, "best_split": [1, 2], "split_score": 0.6734693877282577}
+{"sent": "man with laptop", "ann_id": 1707538, "best_split": [1, 2], "split_score": 0.6734693877282577}
+{"sent": "a man holding a computer", "ann_id": 1707538, "best_split": [1, 2], "split_score": 0.6734693877282577}

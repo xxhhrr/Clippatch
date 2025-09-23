@@ -1,0 +1,6 @@
+{"sent": "bench in back of trail", "ann_id": 579743, "best_split": [2, 3], "split_score": 0.2521679598069183}
+{"sent": "bench", "ann_id": 579743, "best_split": [5, 1], "split_score": 0.232992528486729}
+{"sent": "bench closer to path", "ann_id": 579743, "best_split": [2, 3], "split_score": 0.2521679598069183}
+{"sent": "bench with most grass covering it", "ann_id": 575143, "best_split": [2, 2], "split_score": 0.15927933672199623}
+{"sent": "the bench that doesnt have a pathway in front", "ann_id": 575143, "best_split": [5, 1], "split_score": 0.19375629403889663}
+{"sent": "bench no path", "ann_id": 575143, "best_split": [5, 1], "split_score": 0.19375629403889663}

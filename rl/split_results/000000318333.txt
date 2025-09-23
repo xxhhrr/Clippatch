@@ -1,0 +1,9 @@
+{"sent": "ump", "ann_id": 1284016, "best_split": [1, 5], "split_score": 0.4313022699751406}
+{"sent": "man with arms extended", "ann_id": 1284016, "best_split": [1, 3], "split_score": 0.417229729704559}
+{"sent": "man with arms up", "ann_id": 1284016, "best_split": [1, 5], "split_score": 0.4313022699751406}
+{"sent": "kid in gray protective wear", "ann_id": 1272896, "best_split": [1, 5], "split_score": 0.4154829545032992}
+{"sent": "catcher", "ann_id": 1272896, "best_split": [1, 5], "split_score": 0.4154829545032992}
+{"sent": "catcher", "ann_id": 1272896, "best_split": [1, 5], "split_score": 0.4154829545032992}
+{"sent": "kid on one knee", "ann_id": 1264603, "best_split": [2, 2], "split_score": 0.2741821048266313}
+{"sent": "player sitting", "ann_id": 1264603, "best_split": [2, 2], "split_score": 0.2741821048266313}
+{"sent": "player sliding", "ann_id": 1264603, "best_split": [2, 2], "split_score": 0.2741821048266313}

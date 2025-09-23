@@ -1,0 +1,6 @@
+{"sent": "biggest pizza", "ann_id": 1074124, "best_split": [2, 1], "split_score": 0.5874441874068684}
+{"sent": "whole pizza", "ann_id": 1074124, "best_split": [2, 1], "split_score": 0.5874441874068684}
+{"sent": "pizza all but the slice", "ann_id": 1074124, "best_split": [2, 1], "split_score": 0.5874441874068684}
+{"sent": "pizza hanging off plate", "ann_id": 1072677, "best_split": [1, 2], "split_score": 0.24470713443138442}
+{"sent": "the slice that was taken and now facing you", "ann_id": 1072677, "best_split": [1, 2], "split_score": 0.24470713443138442}
+{"sent": "slice on pizza", "ann_id": 1072677, "best_split": [1, 2], "split_score": 0.24470713443138442}

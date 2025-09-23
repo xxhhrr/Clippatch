@@ -1,0 +1,9 @@
+{"sent": "carrot next to easternmost", "ann_id": 1566890, "best_split": [5, 1], "split_score": 0.11367714752955628}
+{"sent": "carrot with shorter green stem just above blade of knife", "ann_id": 1566183, "best_split": [2, 3], "split_score": 0.16701862160040135}
+{"sent": "fattest carrot", "ann_id": 1566183, "best_split": [3, 3], "split_score": 0.24779706271725005}
+{"sent": "carrot with green stem near knife", "ann_id": 1566183, "best_split": [3, 3], "split_score": 0.24779706271725005}
+{"sent": "carrot below smallest", "ann_id": 1566054, "best_split": [3, 3], "split_score": 0.5330056178839526}
+{"sent": "carrot above knife with head up", "ann_id": 1566054, "best_split": [3, 3], "split_score": 0.5330056178839526}
+{"sent": "short carrot near knife with step facing away", "ann_id": 1566054, "best_split": [3, 3], "split_score": 0.5330056178839526}
+{"sent": "carrot above knife tip", "ann_id": 1564998, "best_split": [2, 2], "split_score": 0.4998405611846428}
+{"sent": "carrot at the very end on the knife tip side", "ann_id": 1564998, "best_split": [2, 2], "split_score": 0.4998405611846428}

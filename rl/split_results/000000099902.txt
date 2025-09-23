@@ -1,0 +1,6 @@
+{"sent": "red", "ann_id": 533956, "best_split": [3, 1], "split_score": 0.8016378997148376}
+{"sent": "kid in red", "ann_id": 533956, "best_split": [3, 1], "split_score": 0.8016378997148376}
+{"sent": "boy in red", "ann_id": 533956, "best_split": [3, 1], "split_score": 0.8016378997148376}
+{"sent": "baby in green", "ann_id": 458674, "best_split": [3, 1], "split_score": 0.5090825476828533}
+{"sent": "green", "ann_id": 458674, "best_split": [3, 1], "split_score": 0.5090825476828533}
+{"sent": "boy in green stripes", "ann_id": 458674, "best_split": [3, 1], "split_score": 0.5090825476828533}

@@ -1,0 +1,6 @@
+{"sent": "blurred apples", "ann_id": 1048729, "best_split": [5, 1], "split_score": 0.29395218000228973}
+{"sent": "blurry fruit", "ann_id": 1048729, "best_split": [5, 1], "split_score": 0.29395218000228973}
+{"sent": "the apples are red", "ann_id": 1048729, "best_split": [5, 1], "split_score": 0.29395218000228973}
+{"sent": "apple", "ann_id": 1048488, "best_split": [1, 3], "split_score": 0.47548573788857024}
+{"sent": "apple", "ann_id": 1048488, "best_split": [1, 3], "split_score": 0.47548573788857024}
+{"sent": "orange half eaten", "ann_id": 1048488, "best_split": [1, 3], "split_score": 0.47548573788857024}

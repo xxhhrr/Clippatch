@@ -1,0 +1,9 @@
+{"sent": "woman lying under umbrella", "ann_id": 497435, "best_split": [1, 2], "split_score": 0.31581230567869956}
+{"sent": "girl laying downnot the one sitting", "ann_id": 497435, "best_split": [2, 2], "split_score": 0.577854213482084}
+{"sent": "laying under umberella", "ann_id": 497435, "best_split": [1, 2], "split_score": 0.31581230567869956}
+{"sent": "standing black white bikini", "ann_id": 497091, "best_split": [3, 3], "split_score": 0.5374435118564487}
+{"sent": "bikiin standing up face by umbrella", "ann_id": 497091, "best_split": [1, 2], "split_score": 0.125106185801023}
+{"sent": "bikini standing", "ann_id": 497091, "best_split": [3, 3], "split_score": 0.5374435118564487}
+{"sent": "woman in white hat", "ann_id": 447980, "best_split": [1, 5], "split_score": 0.27429141382476174}
+{"sent": "black bikini with hat closest to us", "ann_id": 447980, "best_split": [5, 1], "split_score": 0.26503836948056453}
+{"sent": "woman sitting up with hat on", "ann_id": 447980, "best_split": [1, 5], "split_score": 0.27429141382476174}

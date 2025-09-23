@@ -1,0 +1,11 @@
+{"sent": "back of computer", "ann_id": 1624782, "best_split": [3, 1], "split_score": 0.2827265685378231}
+{"sent": "biggest tv with back to us", "ann_id": 1624782, "best_split": [2, 2], "split_score": 0.4489164086397758}
+{"sent": "biggest tv back to us", "ann_id": 1624782, "best_split": [2, 2], "split_score": 0.4489164086397758}
+{"sent": "small tv with cord across the screen", "ann_id": 2194883, "best_split": [3, 3], "split_score": 0.538714389967364}
+{"sent": "tv with wire across it", "ann_id": 2194883, "best_split": [3, 3], "split_score": 0.538714389967364}
+{"sent": "small tv underneath bigger one", "ann_id": 2194883, "best_split": [3, 3], "split_score": 0.538714389967364}
+{"sent": "tv facing camera furthest from man on ground only view part of it", "ann_id": 1969587, "best_split": [3, 2], "split_score": 0.4536679536132157}
+{"sent": "tv cut off 5 o clock", "ann_id": 1969587, "best_split": [2, 2], "split_score": 0.2997448979352882}
+{"sent": "tv with cord hanging on other tv", "ann_id": 32204, "best_split": [2, 3], "split_score": 0.4100288439749247}
+{"sent": "tv on another", "ann_id": 32204, "best_split": [2, 3], "split_score": 0.4100288439749247}
+{"sent": "tv piled on other", "ann_id": 32204, "best_split": [2, 3], "split_score": 0.4100288439749247}

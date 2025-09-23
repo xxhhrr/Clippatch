@@ -1,0 +1,10 @@
+{"sent": "red shirt blue pants", "ann_id": 1723621, "best_split": [1, 5], "split_score": 0.4281948647439036}
+{"sent": "red shirt no red socks", "ann_id": 1723621, "best_split": [2, 3], "split_score": 0.35981259756795286}
+{"sent": "man in red is still", "ann_id": 1723621, "best_split": [2, 3], "split_score": 0.35981259756795286}
+{"sent": "pink and blue plaid", "ann_id": 480294, "best_split": [2, 3], "split_score": 0.4143559488284802}
+{"sent": "the kid in the red plaid shirt", "ann_id": 480294, "best_split": [2, 3], "split_score": 0.4143559488284802}
+{"sent": "purple", "ann_id": 480294, "best_split": [2, 3], "split_score": 0.4143559488284802}
+{"sent": "red shirt black shorts", "ann_id": 471788, "best_split": [1, 5], "split_score": 0.37743506489677}
+{"sent": "black suspenders", "ann_id": 471788, "best_split": [1, 5], "split_score": 0.37743506489677}
+{"sent": "suspenders", "ann_id": 471788, "best_split": [1, 5], "split_score": 0.37743506489677}
+{"sent": "suspenders", "ann_id": 471788, "best_split": [1, 5], "split_score": 0.37743506489677}

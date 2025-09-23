@@ -1,0 +1,5 @@
+{"sent": "closest chair", "ann_id": 290558, "best_split": [1, 3], "split_score": 0.528164957923732}
+{"sent": "closest chair", "ann_id": 290558, "best_split": [1, 3], "split_score": 0.528164957923732}
+{"sent": "closest chair with bird on it", "ann_id": 290558, "best_split": [1, 3], "split_score": 0.528164957923732}
+{"sent": "chair behind one with bird on it", "ann_id": 101616, "best_split": [3, 2], "split_score": 0.23295070895420314}
+{"sent": "back of chair", "ann_id": 101616, "best_split": [1, 5], "split_score": 0.2414750198015984}

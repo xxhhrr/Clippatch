@@ -1,0 +1,6 @@
+{"sent": "the girl under the umbrella", "ann_id": 566946, "best_split": [1, 5], "split_score": 0.3769092116139921}
+{"sent": "woman under umbrella", "ann_id": 566946, "best_split": [1, 5], "split_score": 0.3769092116139921}
+{"sent": "woman standing under the umbrella not holding it", "ann_id": 566946, "best_split": [1, 5], "split_score": 0.3769092116139921}
+{"sent": "darkest black", "ann_id": 492293, "best_split": [1, 5], "split_score": 0.2963972404142409}
+{"sent": "man holding umbrella", "ann_id": 492293, "best_split": [1, 5], "split_score": 0.2963972404142409}
+{"sent": "man under umbrella", "ann_id": 492293, "best_split": [1, 5], "split_score": 0.2963972404142409}

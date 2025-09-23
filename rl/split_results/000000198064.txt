@@ -1,0 +1,11 @@
+{"sent": "lowest case", "ann_id": 1842728, "best_split": [1, 2], "split_score": 0.21226492231521618}
+{"sent": "reddish one", "ann_id": 1842728, "best_split": [3, 1], "split_score": 0.7225506756320855}
+{"sent": "6 o clock suitcase", "ann_id": 1842728, "best_split": [1, 2], "split_score": 0.1737602128008816}
+{"sent": "pin tag attached", "ann_id": 1842461, "best_split": [5, 1], "split_score": 0.6825670662742546}
+{"sent": "lower orange case", "ann_id": 1842461, "best_split": [5, 1], "split_score": 0.6825670662742546}
+{"sent": "the suitcase with the pink tag coming from it", "ann_id": 1842461, "best_split": [1, 2], "split_score": 0.15839669200485537}
+{"sent": "the black luggage case", "ann_id": 1186791, "best_split": [2, 1], "split_score": 0.20960698689241242}
+{"sent": "suitcase between the orange ones", "ann_id": 1186791, "best_split": [3, 1], "split_score": 0.6254826254448912}
+{"sent": "highest luggage", "ann_id": 1186173, "best_split": [3, 1], "split_score": 0.40793918916457894}
+{"sent": "count from the purple up suitcase 5", "ann_id": 1186173, "best_split": [5, 1], "split_score": 0.6073121191017204}
+{"sent": "luggage 1200", "ann_id": 1186173, "best_split": [5, 1], "split_score": 0.6073121191017204}

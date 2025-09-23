@@ -1,0 +1,6 @@
+{"sent": "her", "ann_id": 522525, "best_split": [1, 2], "split_score": 0.8229432397631161}
+{"sent": "girl", "ann_id": 522525, "best_split": [2, 1], "split_score": 0.35971458301294146}
+{"sent": "woman", "ann_id": 522525, "best_split": [2, 1], "split_score": 0.22983838437545814}
+{"sent": "the one in the vest", "ann_id": 512084, "best_split": [1, 2], "split_score": 0.8802703099426961}
+{"sent": "man", "ann_id": 512084, "best_split": [1, 2], "split_score": 0.8802703099426961}
+{"sent": "man", "ann_id": 512084, "best_split": [1, 2], "split_score": 0.8802703099426961}

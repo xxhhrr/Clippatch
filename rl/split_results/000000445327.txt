@@ -1,0 +1,9 @@
+{"sent": "man pink shirt", "ann_id": 523174, "best_split": [1, 5], "split_score": 0.6363636363010268}
+{"sent": "person in pink", "ann_id": 523174, "best_split": [1, 5], "split_score": 0.6363636363010268}
+{"sent": "girl with purple and pink on", "ann_id": 523174, "best_split": [1, 5], "split_score": 0.6363636363010268}
+{"sent": "woman in plaid and black skirt", "ann_id": 1719087, "best_split": [2, 2], "split_score": 0.17706093188694905}
+{"sent": "plaid", "ann_id": 1719087, "best_split": [2, 3], "split_score": 0.1909144311542085}
+{"sent": "checked shirt", "ann_id": 1719087, "best_split": [3, 3], "split_score": 0.3057805081952275}
+{"sent": "skirt", "ann_id": 426501, "best_split": [2, 3], "split_score": 0.4634867812475978}
+{"sent": "blue shirt", "ann_id": 426501, "best_split": [2, 3], "split_score": 0.4634867812475978}
+{"sent": "man in the dress", "ann_id": 426501, "best_split": [2, 3], "split_score": 0.4634867812475978}

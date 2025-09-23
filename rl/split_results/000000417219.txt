@@ -1,0 +1,9 @@
+{"sent": "red orange jacket", "ann_id": 500855, "best_split": [1, 5], "split_score": 0.5631087661766326}
+{"sent": "orange coat", "ann_id": 500855, "best_split": [1, 5], "split_score": 0.5631087661766326}
+{"sent": "red jacket", "ann_id": 500855, "best_split": [1, 5], "split_score": 0.5631087661766326}
+{"sent": "yellow jacket", "ann_id": 463222, "best_split": [3, 3], "split_score": 0.30562725860794693}
+{"sent": "bright yellow jacket", "ann_id": 463222, "best_split": [3, 3], "split_score": 0.30562725860794693}
+{"sent": "grren jacket", "ann_id": 463222, "best_split": [3, 3], "split_score": 0.30562725860794693}
+{"sent": "short guy", "ann_id": 421919, "best_split": [3, 1], "split_score": 0.13639813508964554}
+{"sent": "purple jacket", "ann_id": 421919, "best_split": [1, 5], "split_score": 0.4450081168379659}
+{"sent": "person in purple at 900", "ann_id": 421919, "best_split": [1, 5], "split_score": 0.4450081168379659}

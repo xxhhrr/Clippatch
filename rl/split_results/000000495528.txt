@@ -1,0 +1,6 @@
+{"sent": "milk", "ann_id": 677488, "best_split": [3, 3], "split_score": 0.5182615046533489}
+{"sent": "white drink", "ann_id": 677488, "best_split": [3, 3], "split_score": 0.5182615046533489}
+{"sent": "the white drink", "ann_id": 677488, "best_split": [3, 3], "split_score": 0.5182615046533489}
+{"sent": "water glass", "ann_id": 675002, "best_split": [3, 1], "split_score": 0.2476196143627934}
+{"sent": "empty glass", "ann_id": 675002, "best_split": [3, 1], "split_score": 0.2476196143627934}
+{"sent": "water glass", "ann_id": 675002, "best_split": [3, 1], "split_score": 0.2476196143627934}

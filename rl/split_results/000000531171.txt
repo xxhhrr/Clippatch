@@ -1,0 +1,4 @@
+{"sent": "glass furthest from the branches", "ann_id": 1671124, "best_split": [5, 1], "split_score": 0.16517121404823557}
+{"sent": "big vase farthest away from dried up plany", "ann_id": 1671124, "best_split": [2, 2], "split_score": 0.2287946428389035}
+{"sent": "vase with two green things in it", "ann_id": 1668016, "best_split": [2, 3], "split_score": 0.371018339723574}
+{"sent": "glass vase closest to branches", "ann_id": 1668016, "best_split": [2, 3], "split_score": 0.371018339723574}

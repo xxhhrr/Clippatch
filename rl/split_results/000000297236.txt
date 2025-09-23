@@ -1,0 +1,9 @@
+{"sent": "person with hidden face", "ann_id": 562094, "best_split": [1, 3], "split_score": 0.39419553136338836}
+{"sent": "person next to man in red shirt with", "ann_id": 562094, "best_split": [1, 3], "split_score": 0.39419553136338836}
+{"sent": "girl nect to man in red shirt", "ann_id": 562094, "best_split": [1, 3], "split_score": 0.39419553136338836}
+{"sent": "number 4", "ann_id": 509429, "best_split": [1, 5], "split_score": 0.4681361246455652}
+{"sent": "man 4", "ann_id": 509429, "best_split": [3, 1], "split_score": 0.16354011408934882}
+{"sent": "guy in black shirt", "ann_id": 509429, "best_split": [1, 5], "split_score": 0.4681361246455652}
+{"sent": "red shirt", "ann_id": 447728, "best_split": [1, 5], "split_score": 0.7615384614718934}
+{"sent": "red shirt", "ann_id": 447728, "best_split": [1, 5], "split_score": 0.7615384614718934}
+{"sent": "man in red shirt", "ann_id": 447728, "best_split": [1, 5], "split_score": 0.7615384614718934}

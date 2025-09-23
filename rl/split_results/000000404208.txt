@@ -1,0 +1,9 @@
+{"sent": "plane furthest from you", "ann_id": 161129, "best_split": [1, 2], "split_score": 0.34869260202691754}
+{"sent": "plane farthest away", "ann_id": 161129, "best_split": [1, 2], "split_score": 0.34869260202691754}
+{"sent": "the tail of the jet farthest away", "ann_id": 161129, "best_split": [1, 2], "split_score": 0.34869260202691754}
+{"sent": "partially visible plane not furthest away", "ann_id": 160643, "best_split": [3, 1], "split_score": 0.6096482097934196}
+{"sent": "you can see all the windows and red white blue tail not angled plane", "ann_id": 160643, "best_split": [3, 1], "split_score": 0.6096482097934196}
+{"sent": "not skyteam", "ann_id": 160643, "best_split": [3, 1], "split_score": 0.6096482097934196}
+{"sent": "full plane smallest", "ann_id": 157202, "best_split": [3, 1], "split_score": 0.5099101888932367}
+{"sent": "skyteam plane", "ann_id": 157202, "best_split": [3, 1], "split_score": 0.5099101888932367}
+{"sent": "skyteam", "ann_id": 157202, "best_split": [3, 1], "split_score": 0.5099101888932367}

@@ -1,0 +1,14 @@
+{"sent": "the salami nearest edge", "ann_id": 1917910, "best_split": [2, 3], "split_score": 0.49772127602569904}
+{"sent": "closest pepperoni slices to the edge", "ann_id": 1917910, "best_split": [2, 3], "split_score": 0.49772127602569904}
+{"sent": "the piece of ham furthest from the crackers in the blue tray", "ann_id": 1917910, "best_split": [2, 3], "split_score": 0.49772127602569904}
+{"sent": "meat cheese crackers", "ann_id": 1539953, "best_split": [2, 1], "split_score": 0.45272289857648457}
+{"sent": "crackers cheese and meat", "ann_id": 1539953, "best_split": [2, 2], "split_score": 0.5767898383038805}
+{"sent": "big round crackers", "ann_id": 1539953, "best_split": [2, 1], "split_score": 0.45272289857648457}
+{"sent": "lunch", "ann_id": 1539313, "best_split": [1, 2], "split_score": 0.34374999998629824}
+{"sent": "orange cover", "ann_id": 1539313, "best_split": [1, 3], "split_score": 0.4062499999773298}
+{"sent": "animal crackers", "ann_id": 1539313, "best_split": [2, 3], "split_score": 0.5944187799948695}
+{"sent": "i am unsure so we will say cherries", "ann_id": 1538884, "best_split": [2, 1], "split_score": 0.722855548440575}
+{"sent": "cherries", "ann_id": 1538884, "best_split": [2, 1], "split_score": 0.722855548440575}
+{"sent": "berries", "ann_id": 1538884, "best_split": [2, 1], "split_score": 0.722855548440575}
+{"sent": "vertical carrots near the light slices", "ann_id": 1061961, "best_split": [3, 2], "split_score": 0.41952220072158275}
+{"sent": "carrot sticks", "ann_id": 1061961, "best_split": [3, 3], "split_score": 0.4421713916813512}

@@ -1,0 +1,11 @@
+{"sent": "low black dog", "ann_id": 17913, "best_split": [3, 2], "split_score": 0.6987801619892458}
+{"sent": "black dog laying down", "ann_id": 17913, "best_split": [3, 2], "split_score": 0.6987801619892458}
+{"sent": "dog laying", "ann_id": 17913, "best_split": [2, 1], "split_score": 0.43012595661550834}
+{"sent": "black dog sitting up", "ann_id": 16427, "best_split": [2, 2], "split_score": 0.7191485968814454}
+{"sent": "black dog sitting", "ann_id": 16427, "best_split": [2, 2], "split_score": 0.7191485968814454}
+{"sent": "black dog sitting on grass", "ann_id": 16427, "best_split": [2, 2], "split_score": 0.7191485968814454}
+{"sent": "more white dog then the other", "ann_id": 10228, "best_split": [3, 2], "split_score": 0.48614958443943906}
+{"sent": "white dog red bandanna", "ann_id": 10228, "best_split": [3, 2], "split_score": 0.48614958443943906}
+{"sent": "white dog upper number one", "ann_id": 10228, "best_split": [3, 2], "split_score": 0.48614958443943906}
+{"sent": "dog sitting on yellow stripe", "ann_id": 10215, "best_split": [2, 3], "split_score": 0.76013513504342}
+{"sent": "dog at 4pm", "ann_id": 10215, "best_split": [2, 3], "split_score": 0.76013513504342}

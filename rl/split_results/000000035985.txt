@@ -1,0 +1,6 @@
+{"sent": "number 2 car", "ann_id": 1344800, "best_split": [5, 1], "split_score": 0.1455026454906165}
+{"sent": "car with wipers up", "ann_id": 1344800, "best_split": [1, 2], "split_score": 0.1594387755038489}
+{"sent": "car beside the people with umbrella", "ann_id": 1344800, "best_split": [3, 3], "split_score": 0.35448827896591073}
+{"sent": "dark car close to you", "ann_id": 345099, "best_split": [2, 1], "split_score": 0.5656994119166522}
+{"sent": "car nearest us", "ann_id": 345099, "best_split": [2, 1], "split_score": 0.5656994119166522}
+{"sent": "car nearest us", "ann_id": 345099, "best_split": [2, 1], "split_score": 0.5656994119166522}

@@ -1,0 +1,6 @@
+{"sent": "sheep eating", "ann_id": 64774, "best_split": [2, 1], "split_score": 0.26861973472275835}
+{"sent": "animal eating", "ann_id": 64774, "best_split": [2, 1], "split_score": 0.26861973472275835}
+{"sent": "ram that is eating off the ground", "ann_id": 64774, "best_split": [2, 1], "split_score": 0.26861973472275835}
+{"sent": "looking at camera", "ann_id": 64139, "best_split": [2, 2], "split_score": 0.41188844810602904}
+{"sent": "sheep not looking down", "ann_id": 64139, "best_split": [2, 2], "split_score": 0.41188844810602904}
+{"sent": "sheep with head up", "ann_id": 64139, "best_split": [2, 2], "split_score": 0.41188844810602904}

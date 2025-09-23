@@ -1,0 +1,6 @@
+{"sent": "man close to the ball", "ann_id": 2156464, "best_split": [1, 3], "split_score": 0.7488212351854694}
+{"sent": "dude with ball", "ann_id": 2156464, "best_split": [1, 3], "split_score": 0.7488212351854694}
+{"sent": "man in foreground", "ann_id": 2156464, "best_split": [1, 5], "split_score": 0.6108156640230116}
+{"sent": "black uniform", "ann_id": 515808, "best_split": [1, 3], "split_score": 0.7096382884478585}
+{"sent": "no 4", "ann_id": 515808, "best_split": [1, 2], "split_score": 0.5751753826301349}
+{"sent": "player number 4", "ann_id": 515808, "best_split": [1, 2], "split_score": 0.5751753826301349}

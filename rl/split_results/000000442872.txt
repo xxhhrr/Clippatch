@@ -1,0 +1,12 @@
+{"sent": "green man", "ann_id": 1286078, "best_split": [1, 5], "split_score": 0.21641639608193827}
+{"sent": "person under red umbrella in green", "ann_id": 1286078, "best_split": [1, 5], "split_score": 0.21641639608193827}
+{"sent": "mand in green holding the umbrella", "ann_id": 1286078, "best_split": [1, 5], "split_score": 0.21641639608193827}
+{"sent": "white robe", "ann_id": 1279426, "best_split": [1, 5], "split_score": 0.2353896103657275}
+{"sent": "white coat", "ann_id": 1279426, "best_split": [2, 3], "split_score": 0.2622560685075849}
+{"sent": "person in all white", "ann_id": 1279426, "best_split": [2, 3], "split_score": 0.2622560685075849}
+{"sent": "person bowing", "ann_id": 1244551, "best_split": [3, 3], "split_score": 0.3515398023893754}
+{"sent": "pink robe", "ann_id": 1244551, "best_split": [2, 3], "split_score": 0.461872586816859}
+{"sent": "person bowing next to white kimono person", "ann_id": 1244551, "best_split": [2, 3], "split_score": 0.461872586816859}
+{"sent": "white with black pattern cloak", "ann_id": 1205566, "best_split": [2, 3], "split_score": 0.5212355211726308}
+{"sent": "red skirt", "ann_id": 1205566, "best_split": [2, 3], "split_score": 0.5212355211726308}
+{"sent": "red skirt white flowered blouse", "ann_id": 1205566, "best_split": [2, 3], "split_score": 0.5212355211726308}

@@ -1,0 +1,8 @@
+{"sent": "cake with green and pink trim the lower one cut off", "ann_id": 1928586, "best_split": [2, 3], "split_score": 0.5631965851834009}
+{"sent": "cake at 3", "ann_id": 1928586, "best_split": [2, 1], "split_score": 0.19272842992192496}
+{"sent": "round one", "ann_id": 1090191, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "round cake with red flowers", "ann_id": 1090191, "best_split": [2, 3], "split_score": 0.30743243239533874}
+{"sent": "white round cake", "ann_id": 1090191, "best_split": [3, 3], "split_score": 0.39064124776592}
+{"sent": "cake with bule and santa", "ann_id": 1087953, "best_split": [2, 3], "split_score": 0.5709876542659156}
+{"sent": "blue icing and santas", "ann_id": 1087953, "best_split": [2, 3], "split_score": 0.5709876542659156}
+{"sent": "cake with santa on it", "ann_id": 1087953, "best_split": [2, 3], "split_score": 0.5709876542659156}

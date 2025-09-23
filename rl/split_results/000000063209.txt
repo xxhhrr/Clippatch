@@ -1,0 +1,6 @@
+{"sent": "older lady", "ann_id": 473510, "best_split": [2, 2], "split_score": 0.4610747629029966}
+{"sent": "girl looking at red thing", "ann_id": 473510, "best_split": [1, 2], "split_score": 0.9142689801261341}
+{"sent": "woman with hood", "ann_id": 473510, "best_split": [2, 1], "split_score": 0.3494529314525843}
+{"sent": "woman with long hair", "ann_id": 436493, "best_split": [1, 2], "split_score": 0.6394517282297675}
+{"sent": "younger woman", "ann_id": 436493, "best_split": [1, 2], "split_score": 0.6394517282297675}
+{"sent": "young lady with camera and long straight black hair", "ann_id": 436493, "best_split": [1, 2], "split_score": 0.6394517282297675}

@@ -1,0 +1,8 @@
+{"sent": "red white bus closest to white bus", "ann_id": 366661, "best_split": [3, 2], "split_score": 0.7887556840854945}
+{"sent": "bus partially blocked by guy walking", "ann_id": 366661, "best_split": [3, 2], "split_score": 0.7887556840854945}
+{"sent": "smaller white bus", "ann_id": 366587, "best_split": [3, 3], "split_score": 0.4716672125005458}
+{"sent": "small white bus", "ann_id": 366587, "best_split": [3, 3], "split_score": 0.4716672125005458}
+{"sent": "small white bus", "ann_id": 366587, "best_split": [3, 3], "split_score": 0.4716672125005458}
+{"sent": "closest bus", "ann_id": 365512, "best_split": [1, 3], "split_score": 0.3670454545255928}
+{"sent": "bus with red and window visible only", "ann_id": 365512, "best_split": [1, 3], "split_score": 0.3670454545255928}
+{"sent": "red bus close to edge of photo", "ann_id": 365512, "best_split": [1, 3], "split_score": 0.3670454545255928}

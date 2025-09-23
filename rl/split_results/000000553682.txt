@@ -1,0 +1,3 @@
+{"sent": "giraffe looking at camera", "ann_id": 601136, "best_split": [1, 5], "split_score": 0.4966863301655607}
+{"sent": "head directed to you", "ann_id": 601136, "best_split": [2, 3], "split_score": 0.6763511126213042}
+{"sent": "looking forward", "ann_id": 598780, "best_split": [1, 2], "split_score": 0.1474259897709123}

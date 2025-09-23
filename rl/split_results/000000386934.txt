@@ -1,0 +1,5 @@
+{"sent": "wearinf a mask", "ann_id": 1725541, "best_split": [1, 5], "split_score": 0.5698198197739849}
+{"sent": "kid in mask", "ann_id": 1725541, "best_split": [1, 5], "split_score": 0.5698198197739849}
+{"sent": "taller kid", "ann_id": 480131, "best_split": [2, 1], "split_score": 0.32471792179464976}
+{"sent": "man without mask", "ann_id": 480131, "best_split": [2, 1], "split_score": 0.32471792179464976}
+{"sent": "no mask", "ann_id": 480131, "best_split": [2, 1], "split_score": 0.32471792179464976}

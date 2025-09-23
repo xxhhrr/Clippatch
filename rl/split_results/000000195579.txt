@@ -1,0 +1,6 @@
+{"sent": "the larger brown cow", "ann_id": 70700, "best_split": [1, 3], "split_score": 0.4320240072647755}
+{"sent": "the bigger brown cow", "ann_id": 70700, "best_split": [1, 3], "split_score": 0.4320240072647755}
+{"sent": "oxen behind", "ann_id": 70700, "best_split": [1, 5], "split_score": 0.44041189598614444}
+{"sent": "leading cow", "ann_id": 70157, "best_split": [1, 5], "split_score": 0.45119570519453417}
+{"sent": "closest cow", "ann_id": 70157, "best_split": [1, 5], "split_score": 0.45119570519453417}
+{"sent": "cow 1", "ann_id": 70157, "best_split": [1, 5], "split_score": 0.45119570519453417}

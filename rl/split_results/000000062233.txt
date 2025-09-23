@@ -1,0 +1,11 @@
+{"sent": "black and white shirt", "ann_id": 534971, "best_split": [1, 3], "split_score": 0.7764237451269049}
+{"sent": "white shirt", "ann_id": 534971, "best_split": [3, 3], "split_score": 0.36279898972197305}
+{"sent": "white shirt man", "ann_id": 534971, "best_split": [3, 3], "split_score": 0.36279898972197305}
+{"sent": "blue shirt", "ann_id": 500353, "best_split": [1, 5], "split_score": 0.7173620456914668}
+{"sent": "blue shirt", "ann_id": 500353, "best_split": [1, 5], "split_score": 0.7173620456914668}
+{"sent": "blue shirt man", "ann_id": 500353, "best_split": [1, 5], "split_score": 0.7173620456914668}
+{"sent": "the girl in black jacket", "ann_id": 494962, "best_split": [1, 5], "split_score": 0.6356783919027568}
+{"sent": "woman", "ann_id": 494962, "best_split": [3, 1], "split_score": 0.18236966823780237}
+{"sent": "girl in black", "ann_id": 494962, "best_split": [2, 1], "split_score": 0.20394358087924785}
+{"sent": "green striped shirt", "ann_id": 494962, "best_split": [2, 2], "split_score": 0.37172088140269405}
+{"sent": "gray jacket gray shirt", "ann_id": 461790, "best_split": [2, 2], "split_score": 0.2603184323171881}

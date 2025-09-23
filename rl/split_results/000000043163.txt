@@ -1,0 +1,6 @@
+{"sent": "after player", "ann_id": 486948, "best_split": [1, 3], "split_score": 0.5948275861722491}
+{"sent": "tennis player on the side you write with", "ann_id": 486948, "best_split": [1, 2], "split_score": 0.43064413263589585}
+{"sent": "man on side", "ann_id": 486948, "best_split": [1, 3], "split_score": 0.5948275861722491}
+{"sent": "man running on the side correct rounds remaning", "ann_id": 446695, "best_split": [1, 5], "split_score": 0.44876153469445906}
+{"sent": "player 1", "ann_id": 446695, "best_split": [3, 2], "split_score": 0.40325510423575855}
+{"sent": "guy on 900 side", "ann_id": 446695, "best_split": [1, 2], "split_score": 0.4394531249824835}

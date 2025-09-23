@@ -1,0 +1,6 @@
+{"sent": "not the one with big nose", "ann_id": 57336, "best_split": [2, 1], "split_score": 0.2370129870058618}
+{"sent": "black horse", "ann_id": 57336, "best_split": [1, 2], "split_score": 0.6401466836479534}
+{"sent": "full view horse", "ann_id": 57336, "best_split": [2, 2], "split_score": 0.4002349715880049}
+{"sent": "biggest horse", "ann_id": 54932, "best_split": [1, 2], "split_score": 0.6951968219364633}
+{"sent": "brown nose largest", "ann_id": 54932, "best_split": [1, 2], "split_score": 0.6951968219364633}
+{"sent": "big nose", "ann_id": 54932, "best_split": [1, 2], "split_score": 0.6951968219364633}

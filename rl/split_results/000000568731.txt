@@ -1,0 +1,6 @@
+{"sent": "sandwich half sitting above the other", "ann_id": 313451, "best_split": [3, 2], "split_score": 0.7152777777057893}
+{"sent": "sandwich riding other sandwich", "ann_id": 313451, "best_split": [3, 2], "split_score": 0.7152777777057893}
+{"sent": "sandwich portion closest to muffin", "ann_id": 313451, "best_split": [3, 2], "split_score": 0.7152777777057893}
+{"sent": "smaller piece of sandwich", "ann_id": 313317, "best_split": [2, 2], "split_score": 0.547875713336408}
+{"sent": "closest sandwich", "ann_id": 313317, "best_split": [2, 2], "split_score": 0.547875713336408}
+{"sent": "nearest piece of meat", "ann_id": 313317, "best_split": [2, 2], "split_score": 0.547875713336408}

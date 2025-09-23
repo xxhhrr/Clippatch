@@ -1,0 +1,6 @@
+{"sent": "gray shirt", "ann_id": 1705952, "best_split": [2, 2], "split_score": 0.8962681846223697}
+{"sent": "kid", "ann_id": 1705952, "best_split": [2, 2], "split_score": 0.8962681846223697}
+{"sent": "kis", "ann_id": 1705952, "best_split": [2, 2], "split_score": 0.8962681846223697}
+{"sent": "taller", "ann_id": 443343, "best_split": [2, 1], "split_score": 0.443999999986125}
+{"sent": "man with black shirt", "ann_id": 443343, "best_split": [1, 2], "split_score": 0.6566163553344345}
+{"sent": "black shirt", "ann_id": 443343, "best_split": [1, 2], "split_score": 0.6566163553344345}

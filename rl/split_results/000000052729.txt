@@ -1,0 +1,7 @@
+{"sent": "red suited man", "ann_id": 498057, "best_split": [2, 3], "split_score": 0.45894824356069963}
+{"sent": "cant see number", "ann_id": 498057, "best_split": [3, 2], "split_score": 0.23465259452641576}
+{"sent": "man with red pantlegs", "ann_id": 498057, "best_split": [2, 3], "split_score": 0.45894824356069963}
+{"sent": "skiier black uniform", "ann_id": 476434, "best_split": [1, 5], "split_score": 0.3248564396880201}
+{"sent": "skiier in black", "ann_id": 476434, "best_split": [1, 2], "split_score": 0.4685354690907989}
+{"sent": "number 8", "ann_id": 476434, "best_split": [2, 1], "split_score": 0.3261438119425868}
+{"sent": "blue suit", "ann_id": 469768, "best_split": [1, 2], "split_score": 0.7117947978704592}

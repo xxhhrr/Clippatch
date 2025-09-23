@@ -1,0 +1,9 @@
+{"sent": "blue bike", "ann_id": 156288, "best_split": [2, 2], "split_score": 0.7185914651806482}
+{"sent": "blue bike", "ann_id": 156288, "best_split": [2, 2], "split_score": 0.7185914651806482}
+{"sent": "lead wheel rear bike", "ann_id": 156288, "best_split": [1, 2], "split_score": 0.37120394633994125}
+{"sent": "silver bike", "ann_id": 156268, "best_split": [2, 3], "split_score": 0.6218487394251818}
+{"sent": "shiny but i can hardly see it", "ann_id": 156268, "best_split": [3, 2], "split_score": 0.6901775147112216}
+{"sent": "silver headlight is all you see", "ann_id": 156268, "best_split": [3, 3], "split_score": 0.8674698793768365}
+{"sent": "green moto", "ann_id": 156252, "best_split": [1, 2], "split_score": 0.44277929154236134}
+{"sent": "green bike", "ann_id": 156252, "best_split": [2, 1], "split_score": 0.535418392695334}
+{"sent": "green colored bike", "ann_id": 156252, "best_split": [2, 1], "split_score": 0.535418392695334}

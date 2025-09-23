@@ -1,0 +1,6 @@
+{"sent": "food truck you can only see the front window and a tiny bit of the side", "ann_id": 1197330, "best_split": [3, 3], "split_score": 0.28775113410762293}
+{"sent": "nearest bus", "ann_id": 1197330, "best_split": [3, 2], "split_score": 0.1976847729076486}
+{"sent": "half of yellow truck", "ann_id": 1197330, "best_split": [3, 3], "split_score": 0.28775113410762293}
+{"sent": "truck white with red stripe", "ann_id": 1197030, "best_split": [3, 2], "split_score": 0.5469387754570516}
+{"sent": "white vehicle with red stripe", "ann_id": 1197030, "best_split": [3, 2], "split_score": 0.5469387754570516}
+{"sent": "bus red strip", "ann_id": 1197030, "best_split": [3, 2], "split_score": 0.5469387754570516}

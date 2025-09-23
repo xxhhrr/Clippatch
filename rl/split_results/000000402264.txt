@@ -1,0 +1,9 @@
+{"sent": "black shirt no hat", "ann_id": 1226370, "best_split": [1, 3], "split_score": 0.6886936391493295}
+{"sent": "half bald man", "ann_id": 1226370, "best_split": [1, 3], "split_score": 0.6886936391493295}
+{"sent": "black shirt with writing on it", "ann_id": 1226370, "best_split": [1, 3], "split_score": 0.6886936391493295}
+{"sent": "orange cap", "ann_id": 524026, "best_split": [1, 5], "split_score": 0.5321384424746478}
+{"sent": "red hat", "ann_id": 524026, "best_split": [1, 5], "split_score": 0.5321384424746478}
+{"sent": "guy in hat", "ann_id": 524026, "best_split": [1, 5], "split_score": 0.5321384424746478}
+{"sent": "gray shirt guy", "ann_id": 479905, "best_split": [1, 3], "split_score": 0.6075667655504652}
+{"sent": "person in button shirt", "ann_id": 479905, "best_split": [1, 3], "split_score": 0.6075667655504652}
+{"sent": "man in striped shirt", "ann_id": 479905, "best_split": [1, 3], "split_score": 0.6075667655504652}

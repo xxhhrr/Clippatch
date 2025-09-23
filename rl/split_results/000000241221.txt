@@ -1,0 +1,6 @@
+{"sent": "closest motorcycle", "ann_id": 1790931, "best_split": [2, 3], "split_score": 0.5091743118901108}
+{"sent": "lead bike in foreground", "ann_id": 1790931, "best_split": [2, 3], "split_score": 0.5091743118901108}
+{"sent": "rider to side of leader", "ann_id": 150546, "best_split": [2, 1], "split_score": 0.29621974002082047}
+{"sent": "blurry black bike with headlight on", "ann_id": 150232, "best_split": [2, 2], "split_score": 0.23163883550822825}
+{"sent": "black on edge", "ann_id": 150232, "best_split": [2, 3], "split_score": 0.3297268344585188}
+{"sent": "blurry headlight", "ann_id": 150232, "best_split": [1, 3], "split_score": 0.24322863490221436}

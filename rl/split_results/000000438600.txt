@@ -1,0 +1,9 @@
+{"sent": "woman with blue", "ann_id": 503011, "best_split": [1, 2], "split_score": 0.25330835458173995}
+{"sent": "blue shirt", "ann_id": 503011, "best_split": [1, 2], "split_score": 0.25330835458173995}
+{"sent": "lady in blue", "ann_id": 503011, "best_split": [1, 2], "split_score": 0.25330835458173995}
+{"sent": "a man wearing sunglasses", "ann_id": 483663, "best_split": [1, 2], "split_score": 0.34972895406769255}
+{"sent": "guy", "ann_id": 483663, "best_split": [1, 2], "split_score": 0.34972895406769255}
+{"sent": "man in sunglasses", "ann_id": 483663, "best_split": [1, 2], "split_score": 0.34972895406769255}
+{"sent": "main woman", "ann_id": 481244, "best_split": [1, 3], "split_score": 0.8183141161525628}
+{"sent": "lady on phone with yellow purse", "ann_id": 481244, "best_split": [1, 3], "split_score": 0.8183141161525628}
+{"sent": "black coat", "ann_id": 481244, "best_split": [1, 3], "split_score": 0.8183141161525628}

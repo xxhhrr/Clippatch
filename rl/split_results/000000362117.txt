@@ -1,0 +1,9 @@
+{"sent": "chair without quilt wood back", "ann_id": 2223353, "best_split": [3, 1], "split_score": 0.20952610054068282}
+{"sent": "you can see all wood slats on this chair", "ann_id": 2223353, "best_split": [1, 5], "split_score": 0.287692307664645}
+{"sent": "chair without blanket", "ann_id": 2223353, "best_split": [3, 1], "split_score": 0.20952610054068282}
+{"sent": "black couch with pillow", "ann_id": 117486, "best_split": [5, 1], "split_score": 0.20133755718045251}
+{"sent": "black sofa not near table", "ann_id": 117486, "best_split": [5, 1], "split_score": 0.20133755718045251}
+{"sent": "black sofa furthest from table", "ann_id": 117486, "best_split": [5, 1], "split_score": 0.20133755718045251}
+{"sent": "chair with white blanket on it", "ann_id": 108304, "best_split": [3, 2], "split_score": 0.48141891886083266}
+{"sent": "black couch next to chair with blanket over back", "ann_id": 97948, "best_split": [2, 3], "split_score": 0.7110125645960287}
+{"sent": "couch near long table", "ann_id": 97948, "best_split": [2, 3], "split_score": 0.7110125645960287}

@@ -1,0 +1,4 @@
+{"sent": "reflection of cat sitting on box", "ann_id": 52541, "best_split": [3, 2], "split_score": 0.5174825174336153}
+{"sent": "the actual cat and not the reflection", "ann_id": 52156, "best_split": [1, 2], "split_score": 0.8008722004286765}
+{"sent": "closest cat", "ann_id": 52156, "best_split": [1, 2], "split_score": 0.8008722004286765}
+{"sent": "closest cat", "ann_id": 52156, "best_split": [1, 2], "split_score": 0.8008722004286765}

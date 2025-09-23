@@ -1,0 +1,6 @@
+{"sent": "old woman", "ann_id": 1752131, "best_split": [1, 2], "split_score": 0.5294376635635977}
+{"sent": "old lady", "ann_id": 1752131, "best_split": [1, 2], "split_score": 0.5294376635635977}
+{"sent": "the older woman", "ann_id": 1752131, "best_split": [1, 2], "split_score": 0.5294376635635977}
+{"sent": "curly hair", "ann_id": 1707275, "best_split": [1, 3], "split_score": 0.44881725657546917}
+{"sent": "curly head", "ann_id": 1707275, "best_split": [1, 3], "split_score": 0.44881725657546917}
+{"sent": "younger woman", "ann_id": 1707275, "best_split": [3, 1], "split_score": 0.336773283753068}

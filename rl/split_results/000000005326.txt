@@ -1,0 +1,6 @@
+{"sent": "dog with only butt showing", "ann_id": 1817511, "best_split": [2, 2], "split_score": 0.330676020381802}
+{"sent": "dog in the background", "ann_id": 1817511, "best_split": [2, 2], "split_score": 0.330676020381802}
+{"sent": "leftest dog", "ann_id": 1817511, "best_split": [1, 2], "split_score": 0.1653380101974913}
+{"sent": "dog", "ann_id": 1403156, "best_split": [2, 1], "split_score": 0.5323758519799058}
+{"sent": "full dog close to camera", "ann_id": 1403156, "best_split": [2, 1], "split_score": 0.5323758519799058}
+{"sent": "dog looking at us", "ann_id": 1403156, "best_split": [2, 1], "split_score": 0.5323758519799058}

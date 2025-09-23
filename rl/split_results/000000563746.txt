@@ -1,0 +1,9 @@
+{"sent": "striped shirt", "ann_id": 223303, "best_split": [1, 5], "split_score": 0.4883177569685983}
+{"sent": "woman with striped skirt", "ann_id": 223303, "best_split": [1, 5], "split_score": 0.4883177569685983}
+{"sent": "crazy orange pants", "ann_id": 223303, "best_split": [1, 5], "split_score": 0.4883177569685983}
+{"sent": "man sitting", "ann_id": 217513, "best_split": [1, 2], "split_score": 0.5327646683461111}
+{"sent": "man petting dog", "ann_id": 217513, "best_split": [1, 2], "split_score": 0.5327646683461111}
+{"sent": "man with black jacket", "ann_id": 217513, "best_split": [1, 3], "split_score": 0.6594801307620972}
+{"sent": "gal in gray shirt with legs crossed", "ann_id": 196045, "best_split": [2, 3], "split_score": 0.7278321395412254}
+{"sent": "light gray shirt woman next to orange skirt woman on couch", "ann_id": 196045, "best_split": [1, 3], "split_score": 0.5333011582689852}
+{"sent": "gray shirt", "ann_id": 196045, "best_split": [2, 3], "split_score": 0.7278321395412254}

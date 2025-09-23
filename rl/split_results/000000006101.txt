@@ -1,0 +1,6 @@
+{"sent": "standing in red", "ann_id": 564640, "best_split": [1, 2], "split_score": 0.04999999999813988}
+{"sent": "person in reddish orange standing centrally", "ann_id": 564640, "best_split": [5, 1], "split_score": 0.10476190475299643}
+{"sent": "standing red one", "ann_id": 564640, "best_split": [3, 2], "split_score": 0.07814269534936365}
+{"sent": "gray jacket", "ann_id": 555914, "best_split": [1, 3], "split_score": 0.38766891889553157}
+{"sent": "person in blue coat", "ann_id": 555914, "best_split": [1, 3], "split_score": 0.38766891889553157}
+{"sent": "blue jacket", "ann_id": 555914, "best_split": [1, 3], "split_score": 0.38766891889553157}

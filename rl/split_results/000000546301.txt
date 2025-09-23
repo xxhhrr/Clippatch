@@ -1,0 +1,4 @@
+{"sent": "gray luggae sitting next to the red luggage", "ann_id": 2081816, "best_split": [3, 2], "split_score": 0.3456600460500757}
+{"sent": "greyish suitcase in wagon", "ann_id": 2081816, "best_split": [2, 3], "split_score": 0.3183186411182199}
+{"sent": "red object in the carriage", "ann_id": 1446725, "best_split": [3, 3], "split_score": 0.4080126514833926}
+{"sent": "red box", "ann_id": 1446725, "best_split": [3, 3], "split_score": 0.4080126514833926}

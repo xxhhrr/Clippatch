@@ -1,0 +1,6 @@
+{"sent": "smaller bus", "ann_id": 165639, "best_split": [3, 1], "split_score": 0.17402536401044943}
+{"sent": "smaller bus", "ann_id": 165639, "best_split": [3, 1], "split_score": 0.17402536401044943}
+{"sent": "bus at side", "ann_id": 165639, "best_split": [3, 1], "split_score": 0.17402536401044943}
+{"sent": "bus with headlights glowing", "ann_id": 165110, "best_split": [3, 3], "split_score": 0.4400396431565858}
+{"sent": "bus", "ann_id": 165110, "best_split": [3, 3], "split_score": 0.4400396431565858}
+{"sent": "bus facing camera", "ann_id": 165110, "best_split": [3, 3], "split_score": 0.4400396431565858}

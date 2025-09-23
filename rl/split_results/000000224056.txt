@@ -1,0 +1,9 @@
+{"sent": "laptop next to white cup", "ann_id": 1970984, "best_split": [3, 2], "split_score": 0.47994360236306355}
+{"sent": "the half black half silver laptop with screen off", "ann_id": 1970984, "best_split": [3, 1], "split_score": 0.36121054342609776}
+{"sent": "computer with a black screen", "ann_id": 1970984, "best_split": [2, 2], "split_score": 0.44867749151135017}
+{"sent": "laptop closest to us", "ann_id": 1970840, "best_split": [1, 2], "split_score": 0.6311908430320936}
+{"sent": "laptop farther from screen", "ann_id": 1970840, "best_split": [1, 2], "split_score": 0.6311908430320936}
+{"sent": "gray and black laptop above drawers", "ann_id": 1970840, "best_split": [3, 1], "split_score": 0.34642897268467737}
+{"sent": "white keyboard", "ann_id": 1118003, "best_split": [3, 2], "split_score": 0.8395270269257327}
+{"sent": "keyboard", "ann_id": 1118003, "best_split": [3, 3], "split_score": 0.7317548745498949}
+{"sent": "white keyboard", "ann_id": 1118003, "best_split": [3, 2], "split_score": 0.8395270269257327}

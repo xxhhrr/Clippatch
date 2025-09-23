@@ -1,0 +1,8 @@
+{"sent": "zebra partially hidden", "ann_id": 594236, "best_split": [3, 3], "split_score": 0.5014652014192797}
+{"sent": "the 2 surrounded", "ann_id": 594236, "best_split": [3, 3], "split_score": 0.5014652014192797}
+{"sent": "center zebra", "ann_id": 594236, "best_split": [3, 3], "split_score": 0.5014652014192797}
+{"sent": "zebra facing camera", "ann_id": 593763, "best_split": [3, 2], "split_score": 0.25420357979983693}
+{"sent": "zebra facing straight", "ann_id": 593763, "best_split": [3, 2], "split_score": 0.25420357979983693}
+{"sent": "zebra looking straight at us", "ann_id": 593763, "best_split": [3, 2], "split_score": 0.25420357979983693}
+{"sent": "zebra facing sideways looking at us", "ann_id": 592376, "best_split": [1, 5], "split_score": 0.40377191314449895}
+{"sent": "closest sideways zebra looking at us", "ann_id": 592376, "best_split": [1, 5], "split_score": 0.40377191314449895}

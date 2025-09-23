@@ -1,0 +1,6 @@
+{"sent": "red loveseat not sofa", "ann_id": 116919, "best_split": [2, 1], "split_score": 0.24691263326505666}
+{"sent": "couch one pillow", "ann_id": 116919, "best_split": [1, 2], "split_score": 0.29591836733514354}
+{"sent": "couch by tv", "ann_id": 116919, "best_split": [1, 5], "split_score": 0.48351648347497284}
+{"sent": "couch away from tv", "ann_id": 112948, "best_split": [2, 1], "split_score": 0.2812219563161374}
+{"sent": "most visible couch", "ann_id": 112948, "best_split": [2, 3], "split_score": 0.756335478604552}
+{"sent": "couch fartest to tv", "ann_id": 112948, "best_split": [2, 1], "split_score": 0.2812219563161374}

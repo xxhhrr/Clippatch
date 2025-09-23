@@ -1,0 +1,5 @@
+{"sent": "car reflection at 10 o clock", "ann_id": 1772320, "best_split": [3, 2], "split_score": 0.6276544400787096}
+{"sent": "car in reflection", "ann_id": 1772320, "best_split": [5, 1], "split_score": 0.42459791859748364}
+{"sent": "car in background", "ann_id": 133056, "best_split": [3, 3], "split_score": 0.6900030570635887}
+{"sent": "car behind bike", "ann_id": 133056, "best_split": [2, 2], "split_score": 0.4448341836380075}
+{"sent": "car behind bike", "ann_id": 133056, "best_split": [2, 2], "split_score": 0.4448341836380075}

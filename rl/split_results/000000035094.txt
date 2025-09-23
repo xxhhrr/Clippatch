@@ -1,0 +1,9 @@
+{"sent": "slightly bigger square", "ann_id": 124146, "best_split": [3, 1], "split_score": 0.2576993794381924}
+{"sent": "computer screen with silver base no writing", "ann_id": 124146, "best_split": [3, 1], "split_score": 0.2576993794381924}
+{"sent": "rightiest screen", "ann_id": 124146, "best_split": [3, 2], "split_score": 0.49199210174506447}
+{"sent": "writing screen", "ann_id": 35271, "best_split": [3, 3], "split_score": 0.48695341350089916}
+{"sent": "screen with mostly words", "ann_id": 35271, "best_split": [3, 3], "split_score": 0.48695341350089916}
+{"sent": "screen with most words", "ann_id": 35271, "best_split": [3, 3], "split_score": 0.48695341350089916}
+{"sent": "monitor with small square", "ann_id": 30068, "best_split": [3, 3], "split_score": 0.5667697497094785}
+{"sent": "small square on monitor", "ann_id": 30068, "best_split": [3, 3], "split_score": 0.5667697497094785}
+{"sent": "monitor with small white square on screen", "ann_id": 30068, "best_split": [3, 3], "split_score": 0.5667697497094785}

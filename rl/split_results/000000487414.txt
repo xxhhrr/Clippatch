@@ -1,0 +1,6 @@
+{"sent": "baby", "ann_id": 503775, "best_split": [1, 5], "split_score": 0.41403064807999224}
+{"sent": "little boy", "ann_id": 503775, "best_split": [1, 5], "split_score": 0.41403064807999224}
+{"sent": "kid", "ann_id": 503775, "best_split": [1, 5], "split_score": 0.41403064807999224}
+{"sent": "woman", "ann_id": 495824, "best_split": [1, 3], "split_score": 0.7298759146979739}
+{"sent": "woman holding bananas", "ann_id": 495824, "best_split": [1, 3], "split_score": 0.7298759146979739}
+{"sent": "woman", "ann_id": 495824, "best_split": [1, 3], "split_score": 0.7298759146979739}

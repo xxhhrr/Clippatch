@@ -1,0 +1,6 @@
+{"sent": "fruit in bowl", "ann_id": 1906182, "best_split": [2, 3], "split_score": 0.8155102039984173}
+{"sent": "bowled melons", "ann_id": 1906182, "best_split": [2, 3], "split_score": 0.8155102039984173}
+{"sent": "apples in bowl", "ann_id": 1906182, "best_split": [2, 3], "split_score": 0.8155102039984173}
+{"sent": "pile by knife", "ann_id": 1048322, "best_split": [1, 3], "split_score": 0.4634635242524612}
+{"sent": "apple peels and cores", "ann_id": 1048322, "best_split": [1, 2], "split_score": 0.7445538461309368}
+{"sent": "fruit on cutting board", "ann_id": 1048322, "best_split": [2, 1], "split_score": 0.4014039250481634}

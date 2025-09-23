@@ -1,0 +1,7 @@
+{"sent": "windshield of black van", "ann_id": 2041452, "best_split": [5, 1], "split_score": 0.36981473110078494}
+{"sent": "truck facing bike", "ann_id": 147784, "best_split": [3, 2], "split_score": 0.20540705354147706}
+{"sent": "truck light", "ann_id": 147784, "best_split": [2, 3], "split_score": 0.39152880436565424}
+{"sent": "tan car", "ann_id": 147784, "best_split": [2, 3], "split_score": 0.39152880436565424}
+{"sent": "dark suv behind bike", "ann_id": 145854, "best_split": [3, 1], "split_score": 0.3021103294936084}
+{"sent": "back end of suv behind motorcycle", "ann_id": 145854, "best_split": [3, 1], "split_score": 0.3021103294936084}
+{"sent": "dark suv in background back", "ann_id": 145854, "best_split": [5, 1], "split_score": 0.3877656816752355}

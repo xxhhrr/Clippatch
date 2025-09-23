@@ -1,0 +1,4 @@
+{"sent": "bike with pink helmet", "ann_id": 128566, "best_split": [3, 1], "split_score": 0.2250849883599443}
+{"sent": "bike with red helmet", "ann_id": 128566, "best_split": [3, 1], "split_score": 0.2250849883599443}
+{"sent": "blue bike", "ann_id": 126005, "best_split": [1, 3], "split_score": 0.6492320910402087}
+{"sent": "bicycle without red helmet", "ann_id": 126005, "best_split": [1, 3], "split_score": 0.6492320910402087}

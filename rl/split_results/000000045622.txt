@@ -1,0 +1,6 @@
+{"sent": "guy with hand over his nose", "ann_id": 505385, "best_split": [3, 2], "split_score": 0.2764897818756234}
+{"sent": "man 3 o clock", "ann_id": 505385, "best_split": [2, 1], "split_score": 0.05195668061750194}
+{"sent": "man at 3 clock", "ann_id": 505385, "best_split": [3, 2], "split_score": 0.2764897818756234}
+{"sent": "man not looking at camera", "ann_id": 475578, "best_split": [3, 1], "split_score": 0.07425144340177006}
+{"sent": "closest guy", "ann_id": 475578, "best_split": [2, 1], "split_score": 0.29599808672289546}
+{"sent": "guy in foreground", "ann_id": 475578, "best_split": [2, 2], "split_score": 0.5919961734221941}

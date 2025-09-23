@@ -1,0 +1,6 @@
+{"sent": "taller", "ann_id": 568147, "best_split": [2, 1], "split_score": 0.45953401019838214}
+{"sent": "taller guy", "ann_id": 568147, "best_split": [2, 1], "split_score": 0.45953401019838214}
+{"sent": "the tall man at one ocklock", "ann_id": 568147, "best_split": [1, 2], "split_score": 0.602487273645129}
+{"sent": "shorter one", "ann_id": 566010, "best_split": [2, 2], "split_score": 0.6793528709269756}
+{"sent": "shorter guy", "ann_id": 566010, "best_split": [2, 2], "split_score": 0.6793528709269756}
+{"sent": "the shorter guy in a tux", "ann_id": 566010, "best_split": [3, 2], "split_score": 0.48289936660922594}

@@ -1,0 +1,8 @@
+{"sent": "bench near man", "ann_id": 1391053, "best_split": [2, 1], "split_score": 0.4380181760029489}
+{"sent": "bench the man is sitting on", "ann_id": 1391053, "best_split": [3, 3], "split_score": 0.49831649827115143}
+{"sent": "dark railing under mans hand", "ann_id": 1391053, "best_split": [2, 1], "split_score": 0.4380181760029489}
+{"sent": "fuzzy bench closest to you", "ann_id": 576314, "best_split": [2, 1], "split_score": 0.29201211733529925}
+{"sent": "bench blurred in foreground", "ann_id": 576314, "best_split": [3, 1], "split_score": 0.4419642856876228}
+{"sent": "part of bench behind arm", "ann_id": 574236, "best_split": [2, 3], "split_score": 0.5202312138191338}
+{"sent": "empty bench between people", "ann_id": 574236, "best_split": [2, 3], "split_score": 0.5202312138191338}
+{"sent": "farther away benches", "ann_id": 574236, "best_split": [2, 3], "split_score": 0.5202312138191338}

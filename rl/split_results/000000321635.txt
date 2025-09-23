@@ -1,0 +1,12 @@
+{"sent": "guy looking at camera", "ann_id": 202912, "best_split": [3, 1], "split_score": 0.19894453847461194}
+{"sent": "guy with arms crossed", "ann_id": 202912, "best_split": [3, 3], "split_score": 0.4446917426613964}
+{"sent": "boy in green jacket looking at us", "ann_id": 202912, "best_split": [1, 3], "split_score": 0.45282335904604104}
+{"sent": "buzzcut with back of head", "ann_id": 1274113, "best_split": [2, 3], "split_score": 0.6372840976012765}
+{"sent": "back of head buzzed", "ann_id": 1274113, "best_split": [3, 1], "split_score": 0.0799960786196757}
+{"sent": "head only", "ann_id": 1274113, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "someones parted hair lower screen", "ann_id": 1233235, "best_split": [1, 2], "split_score": 0.0}
+{"sent": "brown hair and part on scalp", "ann_id": 1233235, "best_split": [3, 3], "split_score": 0.6208911613183179}
+{"sent": "hair only in foreground but not the redhead", "ann_id": 1233235, "best_split": [1, 3], "split_score": 0.20511583010345585}
+{"sent": "man in black suit", "ann_id": 193162, "best_split": [1, 3], "split_score": 0.666023165982986}
+{"sent": "black suit guy on phone", "ann_id": 193162, "best_split": [1, 3], "split_score": 0.666023165982986}
+{"sent": "black suit", "ann_id": 193162, "best_split": [1, 3], "split_score": 0.666023165982986}

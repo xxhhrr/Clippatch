@@ -1,0 +1,9 @@
+{"sent": "teddy near honey jar", "ann_id": 1163022, "best_split": [1, 5], "split_score": 0.32874269292294234}
+{"sent": "bear near red cap honey jar", "ann_id": 1163022, "best_split": [1, 5], "split_score": 0.32874269292294234}
+{"sent": "rightest bear", "ann_id": 1163022, "best_split": [1, 5], "split_score": 0.32874269292294234}
+{"sent": "bear in pink shirt", "ann_id": 1162227, "best_split": [5, 1], "split_score": 0.3368945868645927}
+{"sent": "friend bear", "ann_id": 1162227, "best_split": [5, 1], "split_score": 0.3368945868645927}
+{"sent": "red shirt", "ann_id": 1162227, "best_split": [3, 2], "split_score": 0.3330689928297909}
+{"sent": "teddy bear in full view with no shirt", "ann_id": 1160504, "best_split": [3, 3], "split_score": 0.7097186699632803}
+{"sent": "brown bear white bottle close", "ann_id": 1160504, "best_split": [3, 3], "split_score": 0.7097186699632803}
+{"sent": "bear at 8 o clock", "ann_id": 1160504, "best_split": [3, 3], "split_score": 0.7097186699632803}

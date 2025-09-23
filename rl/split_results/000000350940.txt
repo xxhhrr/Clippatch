@@ -1,0 +1,9 @@
+{"sent": "man with glasses", "ann_id": 1727182, "best_split": [3, 3], "split_score": 0.3042949051809607}
+{"sent": "man glasses", "ann_id": 1727182, "best_split": [3, 3], "split_score": 0.3042949051809607}
+{"sent": "person on edge of groom", "ann_id": 1727182, "best_split": [3, 1], "split_score": 0.1038514034713755}
+{"sent": "bride", "ann_id": 514827, "best_split": [3, 2], "split_score": 0.47995283015330537}
+{"sent": "bride", "ann_id": 514827, "best_split": [3, 2], "split_score": 0.47995283015330537}
+{"sent": "bride", "ann_id": 514827, "best_split": [3, 2], "split_score": 0.47995283015330537}
+{"sent": "the man", "ann_id": 501353, "best_split": [1, 2], "split_score": 0.4897642450487856}
+{"sent": "groom in uniform", "ann_id": 501353, "best_split": [3, 1], "split_score": 0.33562909456006934}
+{"sent": "standing man", "ann_id": 501353, "best_split": [1, 2], "split_score": 0.4897642450487856}

@@ -1,0 +1,4 @@
+{"sent": "slice of banana facing us most roundly flush", "ann_id": 1043958, "best_split": [3, 2], "split_score": 0.16769901351597855}
+{"sent": "banana facing us by waffle with two pieces", "ann_id": 1043958, "best_split": [2, 3], "split_score": 0.14898419862878282}
+{"sent": "bananas on waffle nearest to us", "ann_id": 1042133, "best_split": [3, 2], "split_score": 0.4561580326087323}
+{"sent": "bananas on waffle that is larger waffle", "ann_id": 1042133, "best_split": [3, 2], "split_score": 0.4561580326087323}

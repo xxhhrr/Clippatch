@@ -1,0 +1,6 @@
+{"sent": "hotdog without fork", "ann_id": 1069039, "best_split": [1, 2], "split_score": 0.4989464970840941}
+{"sent": "hot dog see lots of mustard near water", "ann_id": 1069039, "best_split": [1, 2], "split_score": 0.4989464970840941}
+{"sent": "smaller hotdog", "ann_id": 1069039, "best_split": [1, 2], "split_score": 0.4989464970840941}
+{"sent": "hot dog with fork in it", "ann_id": 1068834, "best_split": [1, 3], "split_score": 0.4814394553217118}
+{"sent": "hot dog stuck with ford", "ann_id": 1068834, "best_split": [1, 3], "split_score": 0.4814394553217118}
+{"sent": "forked dog", "ann_id": 1068834, "best_split": [1, 3], "split_score": 0.4814394553217118}

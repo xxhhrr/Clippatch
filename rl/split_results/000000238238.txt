@@ -1,0 +1,6 @@
+{"sent": "far pizza", "ann_id": 1569992, "best_split": [2, 2], "split_score": 0.3139366777277767}
+{"sent": "pizza not missing a piece", "ann_id": 1569992, "best_split": [2, 2], "split_score": 0.3139366777277767}
+{"sent": "pizza behind glass of water", "ann_id": 1569992, "best_split": [5, 1], "split_score": 0.5715300324095444}
+{"sent": "horizontal fork", "ann_id": 1074924, "best_split": [1, 2], "split_score": 0.38685517956381205}
+{"sent": "not eaten part", "ann_id": 1074924, "best_split": [3, 1], "split_score": 0.5198620513309534}
+{"sent": "pizza with fork and knife", "ann_id": 1074924, "best_split": [3, 1], "split_score": 0.5198620513309534}

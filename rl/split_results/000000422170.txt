@@ -1,0 +1,9 @@
+{"sent": "girl on phone", "ann_id": 1228312, "best_split": [2, 2], "split_score": 0.6188443359796582}
+{"sent": "lady", "ann_id": 1228312, "best_split": [2, 2], "split_score": 0.6188443359796582}
+{"sent": "woman", "ann_id": 1228312, "best_split": [2, 2], "split_score": 0.6188443359796582}
+{"sent": "man sitting", "ann_id": 526500, "best_split": [1, 2], "split_score": 0.36049107141420234}
+{"sent": "man wearing dark baseball cap and looking at kid in hoodie", "ann_id": 526500, "best_split": [2, 1], "split_score": 0.20676000564959834}
+{"sent": "man sitting", "ann_id": 526500, "best_split": [1, 2], "split_score": 0.36049107141420234}
+{"sent": "brown hood standing man", "ann_id": 516428, "best_split": [1, 5], "split_score": 0.5985836749349065}
+{"sent": "man walking", "ann_id": 516428, "best_split": [1, 5], "split_score": 0.5985836749349065}
+{"sent": "person with brown hood", "ann_id": 516428, "best_split": [1, 5], "split_score": 0.5985836749349065}

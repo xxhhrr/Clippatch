@@ -1,0 +1,6 @@
+{"sent": "white boat blue cover", "ann_id": 180788, "best_split": [3, 1], "split_score": 0.37887307778409035}
+{"sent": "white boat with blue tarp on it and balls below it", "ann_id": 180788, "best_split": [3, 1], "split_score": 0.37887307778409035}
+{"sent": "blue tarp on the boat", "ann_id": 180788, "best_split": [3, 1], "split_score": 0.37887307778409035}
+{"sent": "closest boat", "ann_id": 175640, "best_split": [3, 1], "split_score": 0.4096283783536662}
+{"sent": "both that is painted half red in the foreground", "ann_id": 175640, "best_split": [3, 2], "split_score": 0.27531083479021307}
+{"sent": "red and white boat", "ann_id": 175640, "best_split": [3, 2], "split_score": 0.27531083479021307}

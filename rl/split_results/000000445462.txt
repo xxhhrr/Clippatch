@@ -1,0 +1,17 @@
+{"sent": "red suit case", "ann_id": 1185621, "best_split": [3, 2], "split_score": 0.3782577219620828}
+{"sent": "red suitcase", "ann_id": 1185621, "best_split": [3, 2], "split_score": 0.3782577219620828}
+{"sent": "red black luggage", "ann_id": 1185621, "best_split": [3, 2], "split_score": 0.3782577219620828}
+{"sent": "black luggage", "ann_id": 1183652, "best_split": [2, 3], "split_score": 0.3583036508951131}
+{"sent": "suitcase black", "ann_id": 1183652, "best_split": [2, 3], "split_score": 0.3583036508951131}
+{"sent": "biggest suitcase inbetwee", "ann_id": 1183652, "best_split": [2, 3], "split_score": 0.3583036508951131}
+{"sent": "red and white bag on ground", "ann_id": 1167569, "best_split": [3, 2], "split_score": 0.3649855211914834}
+{"sent": "backpack with red part and white laces", "ann_id": 1167569, "best_split": [3, 2], "split_score": 0.3649855211914834}
+{"sent": "mans laptop", "ann_id": 1165551, "best_split": [5, 1], "split_score": 0.17575650948489122}
+{"sent": "mans black bag in lap", "ann_id": 1165551, "best_split": [2, 3], "split_score": 0.2180466652675979}
+{"sent": "black bag on lap", "ann_id": 1165551, "best_split": [2, 3], "split_score": 0.2180466652675979}
+{"sent": "woiman", "ann_id": 2207621, "best_split": [3, 1], "split_score": 0.19891424655041826}
+{"sent": "the girl sitting with laptop", "ann_id": 2207621, "best_split": [3, 3], "split_score": 0.4793598373581405}
+{"sent": "woman sitting", "ann_id": 2207621, "best_split": [3, 3], "split_score": 0.4793598373581405}
+{"sent": "red coat", "ann_id": 2207454, "best_split": [1, 5], "split_score": 0.3845394736589119}
+{"sent": "red coat", "ann_id": 2207454, "best_split": [1, 5], "split_score": 0.3845394736589119}
+{"sent": "red jacket", "ann_id": 2207454, "best_split": [1, 5], "split_score": 0.3845394736589119}

@@ -1,0 +1,5 @@
+{"sent": "smaller looking bed", "ann_id": 319594, "best_split": [3, 1], "split_score": 0.3588112617122622}
+{"sent": "bed close to wall", "ann_id": 319594, "best_split": [3, 1], "split_score": 0.3588112617122622}
+{"sent": "bed further away", "ann_id": 319594, "best_split": [3, 1], "split_score": 0.3588112617122622}
+{"sent": "big bed", "ann_id": 318262, "best_split": [2, 2], "split_score": 0.4446776039467437}
+{"sent": "closest bed", "ann_id": 318262, "best_split": [2, 2], "split_score": 0.4446776039467437}

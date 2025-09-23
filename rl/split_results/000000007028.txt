@@ -1,0 +1,5 @@
+{"sent": "green stuff closest to me", "ann_id": 2115056, "best_split": [3, 2], "split_score": 0.39698126928559907}
+{"sent": "broccoli on edge", "ann_id": 2115056, "best_split": [1, 2], "split_score": 0.27030015796720774}
+{"sent": "not nearest green but next", "ann_id": 1915086, "best_split": [3, 3], "split_score": 0.6557550157529363}
+{"sent": "spinach where there are less stems", "ann_id": 1915086, "best_split": [3, 3], "split_score": 0.6557550157529363}
+{"sent": "upper green chunk", "ann_id": 1915086, "best_split": [3, 3], "split_score": 0.6557550157529363}

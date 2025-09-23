@@ -1,0 +1,6 @@
+{"sent": "guy on laptop", "ann_id": 254065, "best_split": [2, 1], "split_score": 0.3557490498509346}
+{"sent": "guy with fingers on keyboard", "ann_id": 254065, "best_split": [2, 1], "split_score": 0.3557490498509346}
+{"sent": "closest man", "ann_id": 254065, "best_split": [1, 2], "split_score": 0.8752844252304713}
+{"sent": "woman with glasses", "ann_id": 187742, "best_split": [1, 5], "split_score": 0.5159987573379933}
+{"sent": "woman in gray v neck", "ann_id": 187742, "best_split": [1, 5], "split_score": 0.5159987573379933}
+{"sent": "woman in gray sweater", "ann_id": 187742, "best_split": [1, 5], "split_score": 0.5159987573379933}

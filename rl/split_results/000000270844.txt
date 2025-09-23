@@ -1,0 +1,6 @@
+{"sent": "blue half", "ann_id": 1705927, "best_split": [1, 5], "split_score": 0.25462642253788953}
+{"sent": "blue arm next to hand", "ann_id": 1705927, "best_split": [2, 3], "split_score": 0.27204030223585524}
+{"sent": "person cut off in green", "ann_id": 1705927, "best_split": [2, 3], "split_score": 0.27204030223585524}
+{"sent": "man", "ann_id": 470403, "best_split": [2, 1], "split_score": 0.5044840319663904}
+{"sent": "man", "ann_id": 470403, "best_split": [2, 1], "split_score": 0.5044840319663904}
+{"sent": "smiling man", "ann_id": 470403, "best_split": [2, 1], "split_score": 0.5044840319663904}

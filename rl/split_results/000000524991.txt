@@ -1,0 +1,5 @@
+{"sent": "zebra near rock", "ann_id": 590079, "best_split": [3, 3], "split_score": 0.47037658905368473}
+{"sent": "zebra with head up", "ann_id": 590079, "best_split": [3, 3], "split_score": 0.47037658905368473}
+{"sent": "the one looking up", "ann_id": 590079, "best_split": [1, 3], "split_score": 0.409266409241719}
+{"sent": "full view zebra", "ann_id": 589244, "best_split": [3, 2], "split_score": 0.369303201471817}
+{"sent": "zebra 1", "ann_id": 589244, "best_split": [3, 2], "split_score": 0.369303201471817}

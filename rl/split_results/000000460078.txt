@@ -1,0 +1,5 @@
+{"sent": "zeb far rite", "ann_id": 592119, "best_split": [3, 2], "split_score": 0.5530303029736865}
+{"sent": "sideways zebra head visible", "ann_id": 592119, "best_split": [3, 2], "split_score": 0.5530303029736865}
+{"sent": "the one with full side showing and head up", "ann_id": 592119, "best_split": [3, 1], "split_score": 0.2991803278522829}
+{"sent": "side view eating head down", "ann_id": 591808, "best_split": [1, 2], "split_score": 0.2510363520308101}
+{"sent": "closest zebra", "ann_id": 591808, "best_split": [3, 3], "split_score": 0.2584437793652796}

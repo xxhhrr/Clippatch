@@ -1,0 +1,6 @@
+{"sent": "man in red shirt", "ann_id": 539163, "best_split": [2, 2], "split_score": 0.5698802053216001}
+{"sent": "man at 4 o clock", "ann_id": 539163, "best_split": [1, 2], "split_score": 0.37755102039311417}
+{"sent": "red shirt", "ann_id": 539163, "best_split": [2, 2], "split_score": 0.5698802053216001}
+{"sent": "white tshirt", "ann_id": 489676, "best_split": [1, 5], "split_score": 0.4596333509201804}
+{"sent": "white shirt man", "ann_id": 489676, "best_split": [1, 5], "split_score": 0.4596333509201804}
+{"sent": "guy in white", "ann_id": 489676, "best_split": [1, 5], "split_score": 0.4596333509201804}

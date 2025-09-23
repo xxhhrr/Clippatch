@@ -1,0 +1,5 @@
+{"sent": "truck that can be partially seen", "ann_id": 1796324, "best_split": [3, 1], "split_score": 0.20845070421617734}
+{"sent": "truck not visible fully", "ann_id": 1796324, "best_split": [3, 1], "split_score": 0.20845070421617734}
+{"sent": "the truck in front", "ann_id": 395785, "best_split": [2, 1], "split_score": 0.4672473235241506}
+{"sent": "close truck", "ann_id": 395785, "best_split": [2, 1], "split_score": 0.4672473235241506}
+{"sent": "closest truck", "ann_id": 395785, "best_split": [2, 1], "split_score": 0.4672473235241506}

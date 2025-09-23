@@ -1,0 +1,4 @@
+{"sent": "piece of pizza closest to the cup", "ann_id": 1076977, "best_split": [2, 1], "split_score": 0.13751594387206967}
+{"sent": "pizza closest with cheese and sauce", "ann_id": 1076977, "best_split": [3, 3], "split_score": 0.3660850933017929}
+{"sent": "pice of sauce and cheese closest to blue cup", "ann_id": 1076977, "best_split": [2, 1], "split_score": 0.13751594387206967}
+{"sent": "pizza with no cheese", "ann_id": 1076205, "best_split": [2, 3], "split_score": 0.36686178468918146}

@@ -1,0 +1,6 @@
+{"sent": "person in purple coat", "ann_id": 501573, "best_split": [3, 2], "split_score": 0.324358171542682}
+{"sent": "purple", "ann_id": 501573, "best_split": [3, 2], "split_score": 0.324358171542682}
+{"sent": "wearing purple", "ann_id": 501573, "best_split": [3, 2], "split_score": 0.324358171542682}
+{"sent": "holding patterned umbrella", "ann_id": 457976, "best_split": [1, 5], "split_score": 0.5165562913518545}
+{"sent": "person in black with blue and white umbrella", "ann_id": 457976, "best_split": [1, 5], "split_score": 0.5165562913518545}
+{"sent": "person under white umbrella", "ann_id": 457976, "best_split": [1, 5], "split_score": 0.5165562913518545}

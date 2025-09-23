@@ -1,0 +1,6 @@
+{"sent": "the orange you can see the end of", "ann_id": 1053426, "best_split": [5, 1], "split_score": 0.29972752040679956}
+{"sent": "half orange", "ann_id": 1053426, "best_split": [3, 2], "split_score": 0.4222972972463444}
+{"sent": "orange with end showing", "ann_id": 1053426, "best_split": [5, 1], "split_score": 0.29972752040679956}
+{"sent": "orange with more visible", "ann_id": 1051386, "best_split": [3, 3], "split_score": 0.3630478087197401}
+{"sent": "orange we cant see the stem", "ann_id": 1051386, "best_split": [3, 3], "split_score": 0.3630478087197401}
+{"sent": "big orange", "ann_id": 1051386, "best_split": [3, 3], "split_score": 0.3630478087197401}

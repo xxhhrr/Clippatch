@@ -1,0 +1,8 @@
+{"sent": "sink partly hidden", "ann_id": 1132466, "best_split": [2, 1], "split_score": 0.47991071426658516}
+{"sent": "partial sink", "ann_id": 1132466, "best_split": [2, 1], "split_score": 0.47991071426658516}
+{"sent": "sink close to four o clock", "ann_id": 1132466, "best_split": [2, 2], "split_score": 0.6347918605775508}
+{"sent": "the reflection that shows the whole sink", "ann_id": 1131643, "best_split": [5, 1], "split_score": 0.4070327552659736}
+{"sent": "sink in reflection fully visible", "ann_id": 1131643, "best_split": [5, 1], "split_score": 0.4070327552659736}
+{"sent": "farther sink", "ann_id": 1129048, "best_split": [1, 2], "split_score": 0.4932395889479549}
+{"sent": "sink with full reflection but not the reflection", "ann_id": 1129048, "best_split": [1, 2], "split_score": 0.4932395889479549}
+{"sent": "sink 9 clock", "ann_id": 1129048, "best_split": [1, 2], "split_score": 0.4932395889479549}

@@ -1,0 +1,6 @@
+{"sent": "blue boat", "ann_id": 179511, "best_split": [1, 5], "split_score": 0.29486324213334003}
+{"sent": "blue boat", "ann_id": 179511, "best_split": [1, 5], "split_score": 0.29486324213334003}
+{"sent": "blue one", "ann_id": 179511, "best_split": [1, 5], "split_score": 0.29486324213334003}
+{"sent": "orange boat", "ann_id": 178893, "best_split": [2, 2], "split_score": 0.2902633190224844}
+{"sent": "large gold boat", "ann_id": 178893, "best_split": [2, 2], "split_score": 0.2902633190224844}
+{"sent": "the boat between the blue boat and yellow boat", "ann_id": 178893, "best_split": [2, 3], "split_score": 0.32366845253454474}

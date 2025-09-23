@@ -1,0 +1,6 @@
+{"sent": "cow behind the brown one in the center", "ann_id": 72975, "best_split": [3, 2], "split_score": 0.434979342864944}
+{"sent": "animal that is wrapped around the brown cow", "ann_id": 72975, "best_split": [3, 2], "split_score": 0.434979342864944}
+{"sent": "the cow looking towards white one", "ann_id": 72975, "best_split": [3, 2], "split_score": 0.434979342864944}
+{"sent": "brown in front", "ann_id": 70690, "best_split": [2, 1], "split_score": 0.12651450011230694}
+{"sent": "medium brown cow closest to us", "ann_id": 70690, "best_split": [3, 2], "split_score": 0.4083401662869462}
+{"sent": "medium brown cow fully visible", "ann_id": 70690, "best_split": [3, 3], "split_score": 0.4120803310728069}

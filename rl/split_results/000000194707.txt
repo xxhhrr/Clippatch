@@ -1,0 +1,6 @@
+{"sent": "81174", "ann_id": 177936, "best_split": [1, 2], "split_score": 0.34821428570040597}
+{"sent": "not new hope but other boat", "ann_id": 177936, "best_split": [1, 5], "split_score": 0.5852660299637392}
+{"sent": "smaller sailboat", "ann_id": 177936, "best_split": [1, 5], "split_score": 0.5852660299637392}
+{"sent": "new hope boat", "ann_id": 176674, "best_split": [3, 1], "split_score": 0.4148631029851739}
+{"sent": "hope boat", "ann_id": 176674, "best_split": [3, 1], "split_score": 0.4148631029851739}
+{"sent": "large white vessel", "ann_id": 176674, "best_split": [1, 2], "split_score": 0.5004045774910298}

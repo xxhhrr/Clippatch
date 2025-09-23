@@ -1,0 +1,9 @@
+{"sent": "blue shirt facing away", "ann_id": 1724365, "best_split": [2, 3], "split_score": 0.4661476762837759}
+{"sent": "blue guy", "ann_id": 1724365, "best_split": [2, 3], "split_score": 0.4661476762837759}
+{"sent": "person in blue walking away", "ann_id": 1724365, "best_split": [2, 3], "split_score": 0.4661476762837759}
+{"sent": "taking a squat", "ann_id": 504625, "best_split": [2, 3], "split_score": 0.5036496349790546}
+{"sent": "squatting player", "ann_id": 504625, "best_split": [2, 3], "split_score": 0.5036496349790546}
+{"sent": "squatter", "ann_id": 504625, "best_split": [2, 3], "split_score": 0.5036496349790546}
+{"sent": "player", "ann_id": 471496, "best_split": [1, 5], "split_score": 0.6589088133671396}
+{"sent": "all in white tennis player", "ann_id": 471496, "best_split": [1, 5], "split_score": 0.6589088133671396}
+{"sent": "tennis player", "ann_id": 471496, "best_split": [1, 5], "split_score": 0.6589088133671396}

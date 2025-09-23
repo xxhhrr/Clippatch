@@ -1,0 +1,6 @@
+{"sent": "brown bus", "ann_id": 166732, "best_split": [1, 5], "split_score": 0.5609065155310812}
+{"sent": "brown", "ann_id": 166732, "best_split": [1, 5], "split_score": 0.5609065155310812}
+{"sent": "the nonwhite bus", "ann_id": 166732, "best_split": [1, 5], "split_score": 0.5609065155310812}
+{"sent": "white bus", "ann_id": 165397, "best_split": [1, 3], "split_score": 0.4082796415460164}
+{"sent": "white bus", "ann_id": 165397, "best_split": [1, 3], "split_score": 0.4082796415460164}
+{"sent": "white bus", "ann_id": 165397, "best_split": [1, 3], "split_score": 0.4082796415460164}

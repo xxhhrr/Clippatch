@@ -1,0 +1,6 @@
+{"sent": "back of 3 lights under berna sign", "ann_id": 2172860, "best_split": [2, 2], "split_score": 0.39361702124810993}
+{"sent": "3 traffic lights under sign", "ann_id": 2172860, "best_split": [2, 2], "split_score": 0.39361702124810993}
+{"sent": "trafic light not pointing to us", "ann_id": 2172860, "best_split": [2, 2], "split_score": 0.39361702124810993}
+{"sent": "red signal", "ann_id": 402077, "best_split": [3, 3], "split_score": 0.5098513235211106}
+{"sent": "stop light with only 2 lights", "ann_id": 402077, "best_split": [3, 3], "split_score": 0.5098513235211106}
+{"sent": "lighted signal", "ann_id": 402077, "best_split": [3, 3], "split_score": 0.5098513235211106}

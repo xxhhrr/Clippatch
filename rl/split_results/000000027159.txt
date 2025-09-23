@@ -1,0 +1,8 @@
+{"sent": "zebra behind smallest zebra", "ann_id": 593709, "best_split": [3, 1], "split_score": 0.4675955929817079}
+{"sent": "zebra directly behind zebra kissing", "ann_id": 593709, "best_split": [3, 1], "split_score": 0.4675955929817079}
+{"sent": "zebra being kissed", "ann_id": 593483, "best_split": [1, 2], "split_score": 0.8373724489462144}
+{"sent": "zebra getting kissed", "ann_id": 593483, "best_split": [1, 2], "split_score": 0.8373724489462144}
+{"sent": "zebra with full face", "ann_id": 593483, "best_split": [1, 2], "split_score": 0.8373724489462144}
+{"sent": "zebra raising its head", "ann_id": 591762, "best_split": [2, 1], "split_score": 0.5191269936287586}
+{"sent": "foreground zebra", "ann_id": 591762, "best_split": [2, 1], "split_score": 0.5191269936287586}
+{"sent": "young zebra", "ann_id": 591762, "best_split": [2, 1], "split_score": 0.5191269936287586}

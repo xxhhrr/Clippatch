@@ -1,0 +1,8 @@
+{"sent": "tallest case", "ann_id": 1446316, "best_split": [1, 2], "split_score": 0.5930325254865659}
+{"sent": "largest suitcase", "ann_id": 1446316, "best_split": [1, 2], "split_score": 0.5930325254865659}
+{"sent": "largest briefcase", "ann_id": 1446316, "best_split": [1, 2], "split_score": 0.5930325254865659}
+{"sent": "medium size suitcase", "ann_id": 1445258, "best_split": [1, 5], "split_score": 0.41596736594312544}
+{"sent": "darker gray suitcase", "ann_id": 1445258, "best_split": [1, 5], "split_score": 0.41596736594312544}
+{"sent": "small case", "ann_id": 1184910, "best_split": [3, 1], "split_score": 0.27265728111127047}
+{"sent": "small suitcase", "ann_id": 1184910, "best_split": [3, 1], "split_score": 0.27265728111127047}
+{"sent": "small square box", "ann_id": 1184910, "best_split": [3, 2], "split_score": 0.501010509246058}

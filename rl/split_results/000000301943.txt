@@ -1,0 +1,6 @@
+{"sent": "closest dog", "ann_id": 15742, "best_split": [1, 2], "split_score": 0.4369469026397626}
+{"sent": "closest to us", "ann_id": 15742, "best_split": [2, 1], "split_score": 0.14465097066929228}
+{"sent": "dog looking out", "ann_id": 15742, "best_split": [1, 2], "split_score": 0.4369469026397626}
+{"sent": "further dog", "ann_id": 6823, "best_split": [1, 2], "split_score": 0.6230769230607308}
+{"sent": "dog behind this dog", "ann_id": 6823, "best_split": [1, 2], "split_score": 0.6230769230607308}
+{"sent": "dog with leg on the window", "ann_id": 6823, "best_split": [2, 1], "split_score": 0.4268482134600464}

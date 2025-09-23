@@ -1,0 +1,6 @@
+{"sent": "goggles of person not wearing yellow helmet", "ann_id": 515790, "best_split": [3, 3], "split_score": 0.3014375068252565}
+{"sent": "person without yellow helmet", "ann_id": 515790, "best_split": [3, 3], "split_score": 0.3014375068252565}
+{"sent": "person who is not wearing yellow helmet", "ann_id": 515790, "best_split": [3, 3], "split_score": 0.3014375068252565}
+{"sent": "man closer", "ann_id": 471674, "best_split": [3, 3], "split_score": 0.5352770976479772}
+{"sent": "nearest guy", "ann_id": 471674, "best_split": [3, 3], "split_score": 0.5352770976479772}
+{"sent": "yellow helmet person", "ann_id": 471674, "best_split": [3, 3], "split_score": 0.5352770976479772}

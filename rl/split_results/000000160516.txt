@@ -1,0 +1,11 @@
+{"sent": "red sleeve", "ann_id": 2163656, "best_split": [2, 2], "split_score": 0.1717436974677164}
+{"sent": "red shirt behind woman", "ann_id": 2163656, "best_split": [1, 5], "split_score": 0.5381493505947494}
+{"sent": "black shirt arm raised", "ann_id": 495305, "best_split": [3, 1], "split_score": 0.5341635441627637}
+{"sent": "man pointing", "ann_id": 495305, "best_split": [2, 3], "split_score": 0.4824867323364301}
+{"sent": "black sleeve next to woman in blue", "ann_id": 495305, "best_split": [1, 3], "split_score": 0.29630319395212296}
+{"sent": "dark red", "ann_id": 485811, "best_split": [1, 3], "split_score": 0.9518818484425987}
+{"sent": "guy with red hood", "ann_id": 485811, "best_split": [1, 3], "split_score": 0.9518818484425987}
+{"sent": "blue hat", "ann_id": 485811, "best_split": [1, 3], "split_score": 0.9518818484425987}
+{"sent": "woman in blue", "ann_id": 436099, "best_split": [2, 1], "split_score": 0.47435355753603275}
+{"sent": "back of long hair head", "ann_id": 436099, "best_split": [2, 1], "split_score": 0.46796516763140034}
+{"sent": "the lady", "ann_id": 436099, "best_split": [1, 2], "split_score": 0.5270332363186874}

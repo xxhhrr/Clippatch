@@ -1,0 +1,9 @@
+{"sent": "i think a guy in a blue shirt with orange on the sleeve", "ann_id": 239294, "best_split": [3, 1], "split_score": 0.1702453987636807}
+{"sent": "long hair guy with face on sleeve", "ann_id": 239294, "best_split": [3, 3], "split_score": 0.4343208495759753}
+{"sent": "guy with long hair", "ann_id": 239294, "best_split": [3, 3], "split_score": 0.4343208495759753}
+{"sent": "one with bottle in the air", "ann_id": 232211, "best_split": [1, 5], "split_score": 0.5071539055967562}
+{"sent": "person raising a container", "ann_id": 232211, "best_split": [3, 2], "split_score": 0.3298558421538452}
+{"sent": "raising drink", "ann_id": 232211, "best_split": [3, 2], "split_score": 0.3298558421538452}
+{"sent": "man wearing baseball cap", "ann_id": 225968, "best_split": [3, 3], "split_score": 0.40857421234027697}
+{"sent": "baby blue hat", "ann_id": 225968, "best_split": [3, 3], "split_score": 0.40857421234027697}
+{"sent": "green shirt blue hat", "ann_id": 225968, "best_split": [3, 3], "split_score": 0.40857421234027697}

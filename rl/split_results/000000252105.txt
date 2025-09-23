@@ -1,0 +1,11 @@
+{"sent": "couch underneath gray shirt", "ann_id": 290078, "best_split": [2, 1], "split_score": 0.39324324322848186}
+{"sent": "sofa that the man in gray is sitting on", "ann_id": 290078, "best_split": [1, 2], "split_score": 0.47943239794007364}
+{"sent": "chair man in gray is sitting on", "ann_id": 290078, "best_split": [2, 2], "split_score": 0.7431895572685024}
+{"sent": "chair man with white shirt is sitting in", "ann_id": 289142, "best_split": [3, 2], "split_score": 0.6631721338447557}
+{"sent": "think couch back under white shirt guy", "ann_id": 289142, "best_split": [3, 2], "split_score": 0.6631721338447557}
+{"sent": "couch the guy in white is sitting on", "ann_id": 289142, "best_split": [3, 2], "split_score": 0.6631721338447557}
+{"sent": "white shirt", "ann_id": 225980, "best_split": [2, 2], "split_score": 0.4375794748718992}
+{"sent": "white shirt", "ann_id": 225980, "best_split": [2, 2], "split_score": 0.4375794748718992}
+{"sent": "white shirt", "ann_id": 225980, "best_split": [2, 2], "split_score": 0.4375794748718992}
+{"sent": "guy gray shirt", "ann_id": 190683, "best_split": [3, 1], "split_score": 0.3048895507418769}
+{"sent": "man in gray", "ann_id": 190683, "best_split": [3, 2], "split_score": 0.5085910652494685}

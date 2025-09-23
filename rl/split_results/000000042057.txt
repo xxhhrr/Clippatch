@@ -1,0 +1,11 @@
+{"sent": "giraffe behind the giraffe eating", "ann_id": 600231, "best_split": [1, 5], "split_score": 0.5236196689305533}
+{"sent": "in back on 300 side", "ann_id": 600231, "best_split": [2, 1], "split_score": 0.2722984023061927}
+{"sent": "giraffes eye visible", "ann_id": 600113, "best_split": [1, 2], "split_score": 0.888618935506468}
+{"sent": "giraffe with a head directly above the smallest giraffe", "ann_id": 600113, "best_split": [1, 2], "split_score": 0.888618935506468}
+{"sent": "side of head giraffe", "ann_id": 600113, "best_split": [1, 2], "split_score": 0.888618935506468}
+{"sent": "very tallest giraffe", "ann_id": 598545, "best_split": [1, 5], "split_score": 0.6154658220760447}
+{"sent": "tallest giraffe", "ann_id": 598545, "best_split": [1, 5], "split_score": 0.6154658220760447}
+{"sent": "tsllest", "ann_id": 598545, "best_split": [1, 2], "split_score": 0.5830676020175755}
+{"sent": "short giraffe", "ann_id": 596465, "best_split": [1, 2], "split_score": 0.6030771683433085}
+{"sent": "shortest giraffe", "ann_id": 596465, "best_split": [1, 2], "split_score": 0.6030771683433085}
+{"sent": "shortest giraffe", "ann_id": 596465, "best_split": [1, 2], "split_score": 0.6030771683433085}

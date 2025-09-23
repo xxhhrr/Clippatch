@@ -1,0 +1,6 @@
+{"sent": "girl furthest from cow with funny hair", "ann_id": 257907, "best_split": [3, 1], "split_score": 0.10660811596705952}
+{"sent": "girl turned towards the lady", "ann_id": 257907, "best_split": [2, 3], "split_score": 0.37455099593180025}
+{"sent": "girl in blue jeans young girl", "ann_id": 257907, "best_split": [2, 3], "split_score": 0.37455099593180025}
+{"sent": "woman", "ann_id": 226198, "best_split": [1, 5], "split_score": 0.4981215064145403}
+{"sent": "lady", "ann_id": 226198, "best_split": [1, 2], "split_score": 0.25880899233662275}
+{"sent": "white sweatshirt", "ann_id": 226198, "best_split": [1, 5], "split_score": 0.4981215064145403}

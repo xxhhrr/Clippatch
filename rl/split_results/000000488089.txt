@@ -1,0 +1,6 @@
+{"sent": "woman in red and black", "ann_id": 488708, "best_split": [3, 3], "split_score": 0.5724600308699768}
+{"sent": "woman with red and black", "ann_id": 488708, "best_split": [3, 3], "split_score": 0.5724600308699768}
+{"sent": "china woman", "ann_id": 488708, "best_split": [5, 1], "split_score": 0.14506769824916635}
+{"sent": "man glasses", "ann_id": 458842, "best_split": [1, 2], "split_score": 0.6423850700019685}
+{"sent": "guy sitting", "ann_id": 458842, "best_split": [1, 2], "split_score": 0.6423850700019685}
+{"sent": "guy", "ann_id": 458842, "best_split": [1, 2], "split_score": 0.6423850700019685}

@@ -1,0 +1,6 @@
+{"sent": "person you cant see much", "ann_id": 203132, "best_split": [1, 5], "split_score": 0.6136363635741034}
+{"sent": "the person not in clear view", "ann_id": 203132, "best_split": [2, 3], "split_score": 0.37212863702410715}
+{"sent": "man behind woman", "ann_id": 203132, "best_split": [1, 3], "split_score": 0.36486486484285324}
+{"sent": "man", "ann_id": 203132, "best_split": [1, 2], "split_score": 0.24107142856181954}
+{"sent": "woman in brown shirt", "ann_id": 195141, "best_split": [1, 2], "split_score": 0.6623485331368643}
+{"sent": "woman playing a game", "ann_id": 195141, "best_split": [1, 2], "split_score": 0.6623485331368643}

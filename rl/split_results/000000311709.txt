@@ -1,0 +1,9 @@
+{"sent": "furthest cow of 3", "ann_id": 74088, "best_split": [5, 1], "split_score": 0.2557935812490409}
+{"sent": "furthest cow of three", "ann_id": 74088, "best_split": [5, 1], "split_score": 0.2557935812490409}
+{"sent": "not leader but the bandwagon", "ann_id": 74088, "best_split": [5, 1], "split_score": 0.2557935812490409}
+{"sent": "cow with two legs under face", "ann_id": 72895, "best_split": [3, 3], "split_score": 0.40072859740935757}
+{"sent": "cow between two", "ann_id": 72895, "best_split": [2, 3], "split_score": 0.3992606284322584}
+{"sent": "cow not on either side", "ann_id": 72895, "best_split": [2, 3], "split_score": 0.3992606284322584}
+{"sent": "wow who ya looking at whole black cow", "ann_id": 71020, "best_split": [3, 1], "split_score": 0.42393380010803244}
+{"sent": "closest cow", "ann_id": 71020, "best_split": [1, 3], "split_score": 0.3610012602511407}
+{"sent": "leader cow", "ann_id": 71020, "best_split": [1, 2], "split_score": 0.36483569199997135}

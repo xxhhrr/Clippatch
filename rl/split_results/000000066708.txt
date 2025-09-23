@@ -1,0 +1,6 @@
+{"sent": "darkest broccoli", "ann_id": 1056941, "best_split": [3, 1], "split_score": 0.4795961569620714}
+{"sent": "broccoli in back", "ann_id": 1056941, "best_split": [3, 1], "split_score": 0.4795961569620714}
+{"sent": "broccoli laying with other broccoli", "ann_id": 1056941, "best_split": [3, 1], "split_score": 0.4795961569620714}
+{"sent": "nearest sideway broccoli", "ann_id": 1055744, "best_split": [2, 3], "split_score": 0.5916697656571522}
+{"sent": "sideways broccoli", "ann_id": 1055744, "best_split": [2, 3], "split_score": 0.5916697656571522}
+{"sent": "closest broccoli turn sideways", "ann_id": 1055744, "best_split": [2, 3], "split_score": 0.5916697656571522}

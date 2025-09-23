@@ -1,0 +1,9 @@
+{"sent": "player actually hitting the soccer ball", "ann_id": 1755058, "best_split": [5, 1], "split_score": 0.3359800900488279}
+{"sent": "falling player", "ann_id": 1755058, "best_split": [5, 1], "split_score": 0.3359800900488279}
+{"sent": "falling to kick ball", "ann_id": 1755058, "best_split": [5, 1], "split_score": 0.3359800900488279}
+{"sent": "referree", "ann_id": 1753107, "best_split": [2, 2], "split_score": 0.6927689170948094}
+{"sent": "black and white", "ann_id": 1753107, "best_split": [2, 2], "split_score": 0.6927689170948094}
+{"sent": "man in black and white", "ann_id": 1753107, "best_split": [2, 2], "split_score": 0.6927689170948094}
+{"sent": "red head in green", "ann_id": 1745405, "best_split": [1, 5], "split_score": 0.49539370758774603}
+{"sent": "green shirt facing us", "ann_id": 1745405, "best_split": [1, 5], "split_score": 0.49539370758774603}
+{"sent": "fartest man in green with face visible", "ann_id": 1745405, "best_split": [2, 2], "split_score": 0.348837209278674}

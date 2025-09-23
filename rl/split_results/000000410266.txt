@@ -1,0 +1,9 @@
+{"sent": "kid in orange with white shoes", "ann_id": 2161282, "best_split": [1, 5], "split_score": 0.5263331138474051}
+{"sent": "person in orange", "ann_id": 2161282, "best_split": [1, 5], "split_score": 0.5263331138474051}
+{"sent": "black kid", "ann_id": 2161282, "best_split": [1, 5], "split_score": 0.5263331138474051}
+{"sent": "white shirt", "ann_id": 508076, "best_split": [1, 5], "split_score": 0.48701298696357415}
+{"sent": "white shirt", "ann_id": 508076, "best_split": [1, 5], "split_score": 0.48701298696357415}
+{"sent": "white shirt", "ann_id": 508076, "best_split": [1, 5], "split_score": 0.48701298696357415}
+{"sent": "blond kid in red shirt", "ann_id": 483408, "best_split": [1, 2], "split_score": 0.5074703760802716}
+{"sent": "red shirt", "ann_id": 483408, "best_split": [1, 2], "split_score": 0.5074703760802716}
+{"sent": "boy in red and blue", "ann_id": 483408, "best_split": [1, 2], "split_score": 0.5074703760802716}

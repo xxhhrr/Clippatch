@@ -1,0 +1,3 @@
+{"sent": "elephant 3 o clock", "ann_id": 585413, "best_split": [2, 1], "split_score": 0.16916717696841826}
+{"sent": "elepant 1", "ann_id": 582145, "best_split": [2, 2], "split_score": 0.5351445844172813}
+{"sent": "elephant at 9 o clock", "ann_id": 582145, "best_split": [2, 2], "split_score": 0.5351445844172813}

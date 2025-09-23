@@ -1,0 +1,6 @@
+{"sent": "partial arm", "ann_id": 520127, "best_split": [3, 3], "split_score": 0.41685443888949364}
+{"sent": "cut off arm", "ann_id": 520127, "best_split": [1, 3], "split_score": 0.42833011580427544}
+{"sent": "man holding rail", "ann_id": 520127, "best_split": [2, 2], "split_score": 0.32336297491758537}
+{"sent": "take it all baby", "ann_id": 497839, "best_split": [2, 1], "split_score": 0.4611916263966401}
+{"sent": "girl", "ann_id": 497839, "best_split": [2, 1], "split_score": 0.4611916263966401}
+{"sent": "glasses", "ann_id": 497839, "best_split": [1, 2], "split_score": 0.41280880214830784}

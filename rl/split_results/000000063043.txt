@@ -1,0 +1,6 @@
+{"sent": "smaller cow following man", "ann_id": 1819721, "best_split": [3, 3], "split_score": 0.5135525839332215}
+{"sent": "cow closest to us", "ann_id": 1819721, "best_split": [3, 3], "split_score": 0.5135525839332215}
+{"sent": "animal closest to the man in the brown coat who is pulling them", "ann_id": 1819721, "best_split": [3, 3], "split_score": 0.5135525839332215}
+{"sent": "cow with horns", "ann_id": 70056, "best_split": [3, 2], "split_score": 0.672360426381708}
+{"sent": "cow pulling against the rope", "ann_id": 70056, "best_split": [3, 2], "split_score": 0.672360426381708}
+{"sent": "animal man is pulling", "ann_id": 70056, "best_split": [3, 2], "split_score": 0.672360426381708}

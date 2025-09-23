@@ -1,0 +1,6 @@
+{"sent": "the cat standing more", "ann_id": 48156, "best_split": [2, 2], "split_score": 0.46617375228181307}
+{"sent": "cat not on red notebook", "ann_id": 48156, "best_split": [1, 2], "split_score": 0.44850127549232693}
+{"sent": "cat standing", "ann_id": 48156, "best_split": [2, 2], "split_score": 0.46617375228181307}
+{"sent": "cat on red notebook", "ann_id": 46351, "best_split": [3, 1], "split_score": 0.5268551236483162}
+{"sent": "cat on red notebook", "ann_id": 46351, "best_split": [3, 1], "split_score": 0.5268551236483162}
+{"sent": "black near edge", "ann_id": 46351, "best_split": [3, 1], "split_score": 0.5268551236483162}

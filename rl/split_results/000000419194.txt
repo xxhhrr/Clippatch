@@ -1,0 +1,10 @@
+{"sent": "behind dog pants", "ann_id": 235839, "best_split": [2, 2], "split_score": 0.25510204079598997}
+{"sent": "gray pants behind dog", "ann_id": 235839, "best_split": [2, 2], "split_score": 0.25510204079598997}
+{"sent": "black jeans butt", "ann_id": 235839, "best_split": [1, 5], "split_score": 0.32467532464238275}
+{"sent": "jeans sittign down", "ann_id": 229449, "best_split": [2, 3], "split_score": 0.8506455739385081}
+{"sent": "person in jeans lying down", "ann_id": 229449, "best_split": [2, 3], "split_score": 0.8506455739385081}
+{"sent": "person sitting in blue shirt", "ann_id": 229449, "best_split": [2, 3], "split_score": 0.8506455739385081}
+{"sent": "person sitting in jeans", "ann_id": 229449, "best_split": [2, 3], "split_score": 0.8506455739385081}
+{"sent": "dude with legs crossed holding camera", "ann_id": 217878, "best_split": [3, 3], "split_score": 0.41082581533469364}
+{"sent": "person with camera and sunglasses", "ann_id": 217878, "best_split": [3, 2], "split_score": 0.27611940295287785}
+{"sent": "camera in black", "ann_id": 217878, "best_split": [3, 1], "split_score": 0.1404174572971764}

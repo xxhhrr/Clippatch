@@ -1,0 +1,9 @@
+{"sent": "sitting on couch", "ann_id": 231954, "best_split": [2, 1], "split_score": 0.2817258883137006}
+{"sent": "sitting", "ann_id": 231954, "best_split": [2, 3], "split_score": 0.8441064637780291}
+{"sent": "person on couch", "ann_id": 231954, "best_split": [2, 1], "split_score": 0.2817258883137006}
+{"sent": "person in corner", "ann_id": 227105, "best_split": [1, 5], "split_score": 0.5480925324119225}
+{"sent": "person standing in back", "ann_id": 227105, "best_split": [1, 5], "split_score": 0.5480925324119225}
+{"sent": "man standing in bowling position", "ann_id": 185382, "best_split": [1, 5], "split_score": 0.4190978254107052}
+{"sent": "main guy", "ann_id": 185382, "best_split": [2, 2], "split_score": 0.4098562189101579}
+{"sent": "man", "ann_id": 185382, "best_split": [2, 2], "split_score": 0.4098562189101579}
+{"sent": "main dude", "ann_id": 185382, "best_split": [2, 2], "split_score": 0.4098562189101579}

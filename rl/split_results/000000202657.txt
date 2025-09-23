@@ -1,0 +1,6 @@
+{"sent": "umbrella near blue chairs", "ann_id": 283110, "best_split": [3, 1], "split_score": 0.2206394428500243}
+{"sent": "farthest umbrella", "ann_id": 283110, "best_split": [3, 1], "split_score": 0.2206394428500243}
+{"sent": "furthest umbrella", "ann_id": 283110, "best_split": [3, 1], "split_score": 0.2206394428500243}
+{"sent": "umbrella closest to us", "ann_id": 280257, "best_split": [3, 2], "split_score": 0.4853625581380151}
+{"sent": "blue umbrella with red chair", "ann_id": 280257, "best_split": [3, 2], "split_score": 0.4853625581380151}
+{"sent": "blue umbrella closest to us and sorry about last one that was gray doh", "ann_id": 280257, "best_split": [3, 2], "split_score": 0.4853625581380151}

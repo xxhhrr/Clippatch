@@ -1,0 +1,11 @@
+{"sent": "red open book", "ann_id": 1661684, "best_split": [2, 3], "split_score": 0.5901116426759955}
+{"sent": "visible red book slightly open", "ann_id": 1661684, "best_split": [2, 3], "split_score": 0.5901116426759955}
+{"sent": "soft cover book with the pink and blue halfcircle", "ann_id": 1660612, "best_split": [3, 2], "split_score": 0.3663447950581318}
+{"sent": "survival finals book open or cracked", "ann_id": 1660612, "best_split": [3, 2], "split_score": 0.3663447950581318}
+{"sent": "book with red circle and blue designs on red circle", "ann_id": 1660612, "best_split": [3, 2], "split_score": 0.3663447950581318}
+{"sent": "book about ecg", "ann_id": 1657929, "best_split": [3, 3], "split_score": 0.770411723522259}
+{"sent": "book with ecg", "ann_id": 1657929, "best_split": [3, 3], "split_score": 0.770411723522259}
+{"sent": "ecg", "ann_id": 1657929, "best_split": [3, 3], "split_score": 0.770411723522259}
+{"sent": "250 cases", "ann_id": 1657201, "best_split": [3, 2], "split_score": 0.6581830631524557}
+{"sent": "250 cases book", "ann_id": 1657201, "best_split": [3, 3], "split_score": 0.7165250511695685}
+{"sent": "big blue 250", "ann_id": 1657201, "best_split": [1, 3], "split_score": 0.30204291255980126}

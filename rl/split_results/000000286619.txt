@@ -1,0 +1,6 @@
+{"sent": "red tie", "ann_id": 1275138, "best_split": [2, 2], "split_score": 0.6422193877039046}
+{"sent": "white man closest", "ann_id": 1275138, "best_split": [2, 1], "split_score": 0.3211096938647517}
+{"sent": "red tie and glasses", "ann_id": 1275138, "best_split": [2, 2], "split_score": 0.6422193877039046}
+{"sent": "black man", "ann_id": 1248796, "best_split": [2, 3], "split_score": 0.6120897682659158}
+{"sent": "black guy", "ann_id": 1248796, "best_split": [2, 3], "split_score": 0.6120897682659158}
+{"sent": "african american", "ann_id": 1248796, "best_split": [2, 3], "split_score": 0.6120897682659158}

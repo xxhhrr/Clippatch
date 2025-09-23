@@ -1,0 +1,6 @@
+{"sent": "giraffe whose head is slightly lower", "ann_id": 599994, "best_split": [3, 2], "split_score": 0.42804257285816505}
+{"sent": "smaller giraffe", "ann_id": 599994, "best_split": [1, 2], "split_score": 0.6536989795657805}
+{"sent": "the shorter giraffe", "ann_id": 599994, "best_split": [3, 2], "split_score": 0.42804257285816505}
+{"sent": "sorry taller giragge", "ann_id": 599889, "best_split": [1, 2], "split_score": 0.645397628858219}
+{"sent": "bigger giraffe", "ann_id": 599889, "best_split": [1, 2], "split_score": 0.645397628858219}
+{"sent": "biggest", "ann_id": 599889, "best_split": [2, 1], "split_score": 0.37857142856086573}

@@ -1,0 +1,8 @@
+{"sent": "guy sitting", "ann_id": 1728078, "best_split": [3, 3], "split_score": 0.3743856605414302}
+{"sent": "person sitting in chair", "ann_id": 1728078, "best_split": [1, 5], "split_score": 0.36263736260178203}
+{"sent": "seated man", "ann_id": 1728078, "best_split": [1, 5], "split_score": 0.36263736260178203}
+{"sent": "kid in black and white stripes", "ann_id": 466829, "best_split": [3, 1], "split_score": 0.17755629382717072}
+{"sent": "boy swinging", "ann_id": 466829, "best_split": [1, 5], "split_score": 0.6737891737291855}
+{"sent": "black and white strip shirt", "ann_id": 466829, "best_split": [1, 5], "split_score": 0.6737891737291855}
+{"sent": "person in striped shirt standing by tv", "ann_id": 459895, "best_split": [1, 3], "split_score": 0.5367398648324843}
+{"sent": "striped shirt standing with arms down", "ann_id": 459895, "best_split": [1, 3], "split_score": 0.5367398648324843}

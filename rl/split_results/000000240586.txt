@@ -1,0 +1,6 @@
+{"sent": "next to the truck", "ann_id": 1368013, "best_split": [3, 2], "split_score": 0.5396825396246586}
+{"sent": "black pickup", "ann_id": 1368013, "best_split": [3, 3], "split_score": 0.7544072947181751}
+{"sent": "black truck", "ann_id": 1368013, "best_split": [3, 3], "split_score": 0.7544072947181751}
+{"sent": "the truck with no bed carrying spider cinder blocks", "ann_id": 398117, "best_split": [3, 3], "split_score": 0.5325294174333823}
+{"sent": "the rear end of a truck", "ann_id": 398117, "best_split": [3, 3], "split_score": 0.5325294174333823}
+{"sent": "back of truck", "ann_id": 398117, "best_split": [3, 3], "split_score": 0.5325294174333823}

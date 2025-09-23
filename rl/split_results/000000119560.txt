@@ -1,0 +1,6 @@
+{"sent": "kid behind partyhat kid", "ann_id": 460069, "best_split": [2, 1], "split_score": 0.3317695130592195}
+{"sent": "shes smiling", "ann_id": 460069, "best_split": [1, 2], "split_score": 0.1956521739063977}
+{"sent": "kid is pink sweater and smiling", "ann_id": 460069, "best_split": [1, 2], "split_score": 0.14107883816970052}
+{"sent": "boy", "ann_id": 451524, "best_split": [1, 2], "split_score": 0.5945872061032468}
+{"sent": "the boy", "ann_id": 451524, "best_split": [1, 2], "split_score": 0.5945872061032468}
+{"sent": "closest kid", "ann_id": 451524, "best_split": [1, 2], "split_score": 0.5945872061032468}

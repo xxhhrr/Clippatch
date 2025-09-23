@@ -1,0 +1,6 @@
+{"sent": "black and white", "ann_id": 2177195, "best_split": [3, 2], "split_score": 0.287121745216148}
+{"sent": "spotted cow", "ann_id": 2177195, "best_split": [3, 3], "split_score": 0.42842142099607605}
+{"sent": "brown and white cow", "ann_id": 2177195, "best_split": [3, 3], "split_score": 0.42842142099607605}
+{"sent": "brown without spots backend", "ann_id": 70384, "best_split": [3, 2], "split_score": 0.30936454846265}
+{"sent": "cow in forefront all brown", "ann_id": 70384, "best_split": [3, 2], "split_score": 0.30936454846265}
+{"sent": "tan cow", "ann_id": 70384, "best_split": [3, 2], "split_score": 0.30936454846265}

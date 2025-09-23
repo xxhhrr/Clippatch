@@ -1,0 +1,6 @@
+{"sent": "blue shirt", "ann_id": 217433, "best_split": [3, 3], "split_score": 0.7268187113822508}
+{"sent": "blue", "ann_id": 217433, "best_split": [3, 3], "split_score": 0.7268187113822508}
+{"sent": "boy in blue", "ann_id": 217433, "best_split": [3, 3], "split_score": 0.7268187113822508}
+{"sent": "girl", "ann_id": 204091, "best_split": [2, 3], "split_score": 0.6496275070888679}
+{"sent": "the girl standing by the boy", "ann_id": 204091, "best_split": [2, 3], "split_score": 0.6496275070888679}
+{"sent": "girl in white shirt", "ann_id": 204091, "best_split": [2, 3], "split_score": 0.6496275070888679}

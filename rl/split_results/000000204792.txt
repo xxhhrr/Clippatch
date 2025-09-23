@@ -1,0 +1,12 @@
+{"sent": "woman with black hair", "ann_id": 212675, "best_split": [1, 2], "split_score": 0.5101243622245646}
+{"sent": "light clothes woman", "ann_id": 212675, "best_split": [1, 2], "split_score": 0.5101243622245646}
+{"sent": "dark hair girl", "ann_id": 212675, "best_split": [1, 2], "split_score": 0.5101243622245646}
+{"sent": "blond", "ann_id": 195577, "best_split": [2, 2], "split_score": 0.36925990213277105}
+{"sent": "blond woman", "ann_id": 195577, "best_split": [2, 2], "split_score": 0.36925990213277105}
+{"sent": "blond hair", "ann_id": 195577, "best_split": [2, 2], "split_score": 0.36925990213277105}
+{"sent": "sheep in front of dark hair girl", "ann_id": 61467, "best_split": [3, 3], "split_score": 0.336236391878047}
+{"sent": "the one facing us", "ann_id": 61467, "best_split": [1, 2], "split_score": 0.2363525697022729}
+{"sent": "sheep by woman no pearls", "ann_id": 61467, "best_split": [3, 3], "split_score": 0.336236391878047}
+{"sent": "sheep with smile", "ann_id": 61249, "best_split": [3, 2], "split_score": 0.45014506028018436}
+{"sent": "sheep that black shirted woman is petting", "ann_id": 61249, "best_split": [3, 2], "split_score": 0.45014506028018436}
+{"sent": "animal by the woman in the dark sweater", "ann_id": 61249, "best_split": [3, 2], "split_score": 0.45014506028018436}

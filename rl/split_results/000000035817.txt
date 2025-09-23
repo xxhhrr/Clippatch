@@ -1,0 +1,17 @@
+{"sent": "empty chair close to blue green dress", "ann_id": 289428, "best_split": [3, 1], "split_score": 0.18492095198990235}
+{"sent": "chair next to blue dress", "ann_id": 289428, "best_split": [3, 3], "split_score": 0.5045942998746933}
+{"sent": "chair600", "ann_id": 289428, "best_split": [2, 3], "split_score": 0.5049469111359861}
+{"sent": "half person blue dress", "ann_id": 2205987, "best_split": [2, 3], "split_score": 0.45683488481559675}
+{"sent": "clapping hands near baby no head", "ann_id": 2205987, "best_split": [1, 5], "split_score": 0.593310712497013}
+{"sent": "hands together at edge", "ann_id": 2205987, "best_split": [1, 5], "split_score": 0.593310712497013}
+{"sent": "girl light jacket black shirt", "ann_id": 2161203, "best_split": [1, 5], "split_score": 0.5856331168236979}
+{"sent": "lady black shirt white jacket", "ann_id": 2161203, "best_split": [1, 5], "split_score": 0.5856331168236979}
+{"sent": "long hair light bright blue dress", "ann_id": 1319057, "best_split": [1, 5], "split_score": 0.43886083281406896}
+{"sent": "girl with green dress with bow on it", "ann_id": 1319057, "best_split": [1, 5], "split_score": 0.43886083281406896}
+{"sent": "girl in blue strapless dress", "ann_id": 1319057, "best_split": [1, 5], "split_score": 0.43886083281406896}
+{"sent": "woman in blue tank and black shorts", "ann_id": 1314856, "best_split": [1, 5], "split_score": 0.400990098971726}
+{"sent": "blue shirt and black shorts", "ann_id": 1314856, "best_split": [1, 5], "split_score": 0.400990098971726}
+{"sent": "lady blue tank", "ann_id": 1314856, "best_split": [1, 5], "split_score": 0.400990098971726}
+{"sent": "blue chair closest", "ann_id": 100689, "best_split": [3, 3], "split_score": 0.5285691798318009}
+{"sent": "chair closest to camera", "ann_id": 100689, "best_split": [3, 2], "split_score": 0.4719087916699684}
+{"sent": "black chair closes to you 7 o clock", "ann_id": 100689, "best_split": [3, 2], "split_score": 0.4719087916699684}

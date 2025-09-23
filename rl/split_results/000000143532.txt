@@ -1,0 +1,6 @@
+{"sent": "empty chair", "ann_id": 1931561, "best_split": [3, 3], "split_score": 0.4809737650105207}
+{"sent": "empty seat", "ann_id": 1931561, "best_split": [3, 3], "split_score": 0.4809737650105207}
+{"sent": "chair", "ann_id": 1931561, "best_split": [3, 3], "split_score": 0.4809737650105207}
+{"sent": "a piece of artwork under the table its a red circle", "ann_id": 107947, "best_split": [5, 1], "split_score": 0.2583495316965586}
+{"sent": "flower pattern under table dark", "ann_id": 107947, "best_split": [5, 1], "split_score": 0.2583495316965586}
+{"sent": "red circle near persons leg", "ann_id": 107947, "best_split": [3, 2], "split_score": 0.26247634223902017}

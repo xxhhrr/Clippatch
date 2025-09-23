@@ -1,0 +1,21 @@
+{"sent": "the man in the suit and blue tie behind the old womans arm", "ann_id": 1301615, "best_split": [3, 3], "split_score": 0.27318369753792326}
+{"sent": "blue tie not groom", "ann_id": 1301615, "best_split": [3, 2], "split_score": 0.2023133543425538}
+{"sent": "man at edge with blue tie", "ann_id": 1301615, "best_split": [3, 3], "split_score": 0.27318369753792326}
+{"sent": "old lady bent knees blackblue dress", "ann_id": 1256379, "best_split": [3, 3], "split_score": 0.46980953661085917}
+{"sent": "old lady in blue near groom", "ann_id": 1256379, "best_split": [3, 3], "split_score": 0.46980953661085917}
+{"sent": "old woman that looks like shes dancing", "ann_id": 1256379, "best_split": [3, 3], "split_score": 0.46980953661085917}
+{"sent": "pink skirt", "ann_id": 1255210, "best_split": [3, 3], "split_score": 0.2615681233512904}
+{"sent": "woman red skirt", "ann_id": 1255210, "best_split": [2, 1], "split_score": 0.04172356243203901}
+{"sent": "pink skirt white blouse im smelling purple flowers", "ann_id": 1255210, "best_split": [3, 2], "split_score": 0.18016821600485078}
+{"sent": "bride with bouquet", "ann_id": 1242701, "best_split": [3, 3], "split_score": 0.30251572322287484}
+{"sent": "bride just married", "ann_id": 1242701, "best_split": [3, 3], "split_score": 0.30251572322287484}
+{"sent": "bride", "ann_id": 1242701, "best_split": [3, 3], "split_score": 0.30251572322287484}
+{"sent": "man in black suit near man who is crouching", "ann_id": 1328870, "best_split": [2, 3], "split_score": 0.30187160391408013}
+{"sent": "suited man by corner of building", "ann_id": 1328870, "best_split": [2, 3], "split_score": 0.30187160391408013}
+{"sent": "man next to lady in white and black dress", "ann_id": 1328870, "best_split": [3, 1], "split_score": 0.1168052193982529}
+{"sent": "girlie in white jacket", "ann_id": 1328613, "best_split": [3, 1], "split_score": 0.1470317421784816}
+{"sent": "woman at 9 o clock with white coat", "ann_id": 1328613, "best_split": [1, 5], "split_score": 0.7196631492776315}
+{"sent": "girl with black strap and weird pattern dress", "ann_id": 1328613, "best_split": [1, 5], "split_score": 0.7196631492776315}
+{"sent": "crouching guy with light blueish tie", "ann_id": 1327075, "best_split": [2, 2], "split_score": 0.4520886479231434}
+{"sent": "which men is bending down", "ann_id": 1327075, "best_split": [3, 1], "split_score": 0.09096704589589216}
+{"sent": "man kneeling in gray suit", "ann_id": 1327075, "best_split": [2, 2], "split_score": 0.4520886479231434}

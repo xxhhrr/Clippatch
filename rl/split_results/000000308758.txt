@@ -1,0 +1,6 @@
+{"sent": "farthest chef", "ann_id": 208717, "best_split": [3, 1], "split_score": 0.12632081983081184}
+{"sent": "man with black apron", "ann_id": 208717, "best_split": [2, 1], "split_score": 0.18191578193240623}
+{"sent": "chef with black and white shirt", "ann_id": 208717, "best_split": [3, 1], "split_score": 0.12632081983081184}
+{"sent": "man at cutting board", "ann_id": 196341, "best_split": [1, 2], "split_score": 0.5783988630784869}
+{"sent": "man with beard", "ann_id": 196341, "best_split": [1, 2], "split_score": 0.5783988630784869}
+{"sent": "white apron chef", "ann_id": 196341, "best_split": [1, 2], "split_score": 0.5783988630784869}

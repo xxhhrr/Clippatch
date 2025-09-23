@@ -1,0 +1,6 @@
+{"sent": "boy in green", "ann_id": 500245, "best_split": [2, 3], "split_score": 0.5202702702074963}
+{"sent": "boy on ground", "ann_id": 500245, "best_split": [2, 3], "split_score": 0.5202702702074963}
+{"sent": "low boy", "ann_id": 500245, "best_split": [3, 1], "split_score": 0.0922401171254842}
+{"sent": "the guy getting air", "ann_id": 428365, "best_split": [2, 2], "split_score": 0.3976544475520601}
+{"sent": "dude in the air", "ann_id": 428365, "best_split": [2, 2], "split_score": 0.3976544475520601}
+{"sent": "airborn", "ann_id": 428365, "best_split": [2, 2], "split_score": 0.3976544475520601}

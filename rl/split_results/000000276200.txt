@@ -1,0 +1,4 @@
+{"sent": "person watching the performance", "ann_id": 1706221, "best_split": [2, 2], "split_score": 0.7708333332787107}
+{"sent": "corner blur at 4oclock", "ann_id": 1706221, "best_split": [1, 2], "split_score": 0.4080882352788082}
+{"sent": "bigger man playing", "ann_id": 224952, "best_split": [3, 1], "split_score": 0.2675196561865742}
+{"sent": "man with long sleeves", "ann_id": 224952, "best_split": [3, 3], "split_score": 0.4898204793411072}

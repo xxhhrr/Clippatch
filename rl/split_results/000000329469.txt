@@ -1,0 +1,11 @@
+{"sent": "bike with most showing", "ann_id": 1790531, "best_split": [2, 2], "split_score": 0.6695628112523762}
+{"sent": "fourwheeler with guy standing on it", "ann_id": 1790531, "best_split": [2, 2], "split_score": 0.6695628112523762}
+{"sent": "man that you can see eyes", "ann_id": 215190, "best_split": [1, 3], "split_score": 0.5423503860676671}
+{"sent": "person on motorcycle", "ann_id": 215190, "best_split": [1, 3], "split_score": 0.5423503860676671}
+{"sent": "man sitting on motorcycle", "ann_id": 215190, "best_split": [1, 3], "split_score": 0.5423503860676671}
+{"sent": "atv rider", "ann_id": 193019, "best_split": [1, 2], "split_score": 0.42700729925417075}
+{"sent": "guy standing on wheel", "ann_id": 193019, "best_split": [2, 2], "split_score": 0.19390402074328775}
+{"sent": "biker standing on bike", "ann_id": 193019, "best_split": [2, 2], "split_score": 0.19390402074328775}
+{"sent": "caras bike wheel", "ann_id": 153669, "best_split": [1, 5], "split_score": 0.5176470587889274}
+{"sent": "motorcycle with guy on it that says caras", "ann_id": 153669, "best_split": [1, 3], "split_score": 0.7750965250497649}
+{"sent": "caras on bike", "ann_id": 153669, "best_split": [1, 3], "split_score": 0.7750965250497649}

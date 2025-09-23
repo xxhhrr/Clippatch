@@ -1,0 +1,6 @@
+{"sent": "yellow shirt no frisbee", "ann_id": 1707150, "best_split": [3, 3], "split_score": 0.40165763461879855}
+{"sent": "person not with frisbee in hand", "ann_id": 1707150, "best_split": [3, 1], "split_score": 0.14504431908915366}
+{"sent": "man without frisbee", "ann_id": 1707150, "best_split": [3, 1], "split_score": 0.14504431908915366}
+{"sent": "man bent in a funny direction", "ann_id": 531891, "best_split": [3, 2], "split_score": 0.5633429871275678}
+{"sent": "reaching up", "ann_id": 531891, "best_split": [3, 2], "split_score": 0.5633429871275678}
+{"sent": "guy with frisbee", "ann_id": 531891, "best_split": [3, 2], "split_score": 0.5633429871275678}

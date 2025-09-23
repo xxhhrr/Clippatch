@@ -1,0 +1,6 @@
+{"sent": "the elephant that is leaving the scene", "ann_id": 585038, "best_split": [3, 2], "split_score": 0.5021025229773626}
+{"sent": "smaller elephant", "ann_id": 585038, "best_split": [5, 1], "split_score": 0.2829823474540893}
+{"sent": "smaller elephant", "ann_id": 585038, "best_split": [5, 1], "split_score": 0.2829823474540893}
+{"sent": "elephant closest to you", "ann_id": 584368, "best_split": [3, 1], "split_score": 0.45855513305805345}
+{"sent": "closest phant", "ann_id": 584368, "best_split": [3, 1], "split_score": 0.45855513305805345}
+{"sent": "elephant with woman in white", "ann_id": 584368, "best_split": [3, 2], "split_score": 0.49702599742718534}

@@ -1,0 +1,6 @@
+{"sent": "dog 9 o clock", "ann_id": 1817170, "best_split": [1, 2], "split_score": 0.6891741071153868}
+{"sent": "the thing that look like it is standing up with a leash", "ann_id": 1817170, "best_split": [3, 1], "split_score": 0.2619615441846042}
+{"sent": "dog on two legs", "ann_id": 1817170, "best_split": [1, 2], "split_score": 0.6891741071153868}
+{"sent": "biggest animal", "ann_id": 1816881, "best_split": [1, 2], "split_score": 0.5220293724767489}
+{"sent": "blurry animal 3 o clock", "ann_id": 1816881, "best_split": [1, 2], "split_score": 0.5220293724767489}
+{"sent": "jumping", "ann_id": 1816881, "best_split": [2, 2], "split_score": 0.431426926878163}

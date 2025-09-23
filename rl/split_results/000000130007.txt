@@ -1,0 +1,6 @@
+{"sent": "white t shirt", "ann_id": 1283816, "best_split": [1, 2], "split_score": 0.5978364241382003}
+{"sent": "i look so intense", "ann_id": 1283816, "best_split": [1, 3], "split_score": 0.5383464780888514}
+{"sent": "man playing tennis", "ann_id": 1283816, "best_split": [1, 3], "split_score": 0.5383464780888514}
+{"sent": "blurry dude", "ann_id": 457269, "best_split": [1, 5], "split_score": 0.4986439364104374}
+{"sent": "unfocused man", "ann_id": 457269, "best_split": [1, 5], "split_score": 0.4986439364104374}
+{"sent": "dark shirt guy", "ann_id": 457269, "best_split": [3, 2], "split_score": 0.23701067613549726}

@@ -1,0 +1,5 @@
+{"sent": "yellow trim on the outfit", "ann_id": 524856, "best_split": [2, 3], "split_score": 0.3693520139889462}
+{"sent": "baby in striped outfit", "ann_id": 524856, "best_split": [1, 2], "split_score": 0.604631696404471}
+{"sent": "baby touching head", "ann_id": 491252, "best_split": [2, 1], "split_score": 0.4373169006859956}
+{"sent": "the one with arm up", "ann_id": 491252, "best_split": [1, 2], "split_score": 0.5852924790923317}
+{"sent": "baby with arm raised", "ann_id": 491252, "best_split": [2, 1], "split_score": 0.4373169006859956}

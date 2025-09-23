@@ -1,0 +1,6 @@
+{"sent": "the boy who is listening intently", "ann_id": 491261, "best_split": [2, 2], "split_score": 0.6700961753148011}
+{"sent": "kid pondering", "ann_id": 491261, "best_split": [2, 2], "split_score": 0.6700961753148011}
+{"sent": "boy head in hand", "ann_id": 491261, "best_split": [2, 2], "split_score": 0.6700961753148011}
+{"sent": "guy with his hands not by his face", "ann_id": 478244, "best_split": [2, 1], "split_score": 0.31090561223250535}
+{"sent": "guy without hand on chin", "ann_id": 478244, "best_split": [2, 1], "split_score": 0.31090561223250535}
+{"sent": "boy furthest", "ann_id": 478244, "best_split": [2, 2], "split_score": 0.6218112244402255}
