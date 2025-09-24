@@ -451,8 +451,8 @@ class SimpleBBoxVisualizer:
                 all_samples.append(s)
         return all_samples
 
-    def generate_pt_dataset_threaded(self, limit_images: int = 50000, skip_existing: bool = False, 
-                                   dedup: str = "first", num_threads: int = 2) -> None:
+    def generate_pt_dataset(self, limit_images: int = 50000, skip_existing: bool = False, 
+                       dedup: str = "first", num_threads: int = 2) -> None:
         """
         多线程版本的PT数据集生成
         - num_threads: 线程数，建议2-4个（避免GPU过载）
