@@ -1,0 +1,11 @@
+# 添加性能相关配置
+performance:
+  batch_size: 32
+  num_workers: 4
+  cache_heatmaps: true
+  cache_dir: "cache/heatmaps"
+  
+# 添加资源限制
+resources:
+  max_memory_gb: 16
+  gpu_memory_fraction: 0.8

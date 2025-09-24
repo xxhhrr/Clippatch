@@ -313,32 +313,27 @@ class SimpleBBoxVisualizer:
     # Core: bbox generation (training-free)
     # -----------------------------
 
-    def generate_predicted_bbox_with_heatmap(self, img_path: Path, prompt: str) -> Tuple[Optional[List[int]], Optional[np.ndarray]]:
+    def generate_predicted_bbox_with_heatmap_cached(self, img_path: Path, prompt: str) -> Tuple[Optional[List[int]], Optional[np.ndarray]]:
         """
-        Main path:
-          1) get heatmap(224x224) -> resize to image size -> normalize to [0,1]
-          2) hysteresis thresholding (p_high, p_low)
-          3) connected components on weak; keep components that overlap 'strong'
-          4) score each component by mean heat * sqrt(area)
-          5) NMS -> pick best -> return bbox [x1,y1,x2,y2]
-        Returns (bbox[x1,y1,x2,y2], heatmap_resized_0to1).
+        添加热图缓存机制
         """
-        try:
-            from utils.clip_util import get_heatmap  # <- 需由你提供
-        except Exception as e:
-            self.logger.error(f"Please provide utils.clip_util.get_heatmap: {e}")
-            return None, None
-
-        img_bgr = cv2.imread(str(img_path))
-        if img_bgr is None:
-            return None, None
-        H, W = img_bgr.shape[:2]
-
-        # Heatmap 224 -> image size, then 0..1
-        hm224 = get_heatmap(str(img_path), prompt)
-        hm = cv2.resize(hm224.astype(np.float32), (W, H), interpolation=cv2.INTER_CUBIC)
-        hm = self._normalize01(hm)
-
+        cache_key = f"{img_path.stem}_{hash(prompt)}"
+        cache_file = self.cache_dir / f"{cache_key}.npy"
+        
+        # 尝试从缓存加载
+        if cache_file.exists():
+            hm = np.load(cache_file)
+        else:
+            # 生成新热图并缓存
+            hm224 = get_heatmap(str(img_path), prompt)
+            img_bgr = cv2.imread(str(img_path))
+            H, W = img_bgr.shape[:2]
+            hm = cv2.resize(hm224.astype(np.float32), (W, H), interpolation=cv2.INTER_CUBIC)
+            hm = self._normalize01(hm)
+            
+            # 保存到缓存
+            np.save(cache_file, hm)
+        
         # Hysteresis thresholds
         t_high = float(np.quantile(hm, self.p_high))
         t_low = float(np.quantile(hm, self.p_low))
@@ -452,12 +447,44 @@ class SimpleBBoxVisualizer:
                 all_samples.append(s)
         return all_samples
 
-    def generate_pt_dataset(self, limit_images: int = 50000, skip_existing: bool = False, dedup: str = "first") -> None:
+    def generate_pt_dataset_with_monitoring(self, limit_images: int = 50000) -> None:
         """
-        逐图生成 data/pt/<image_id>.txt，行格式与 instances 一致。
-        - limit_images: 最多处理多少张图（按文件数量截断）
-        - skip_existing: 若 pt/<image_id>.txt 已存在则跳过
-        - dedup: 同一图内重复 ann_id 的策略：'first'|'last'|'none'
+        添加详细的监控和统计
+        """
+        stats = {
+            'processed': 0,
+            'failed': 0,
+            'empty_results': 0,
+            'total_time': 0,
+            'avg_time_per_image': 0
+        }
+        
+        start_time = time.time()
+        
+        for idx, text_file in enumerate(to_process, 1):
+            file_start = time.time()
+            
+            try:
+                # ... processing logic ...
+                stats['processed'] += 1
+            except Exception as e:
+                self.logger.error(f"Failed to process {text_file}: {e}")
+                stats['failed'] += 1
+            
+            file_time = time.time() - file_start
+            stats['total_time'] += file_time
+            stats['avg_time_per_image'] = stats['total_time'] / idx
+            
+            # 预估剩余时间
+            if idx % 100 == 0:
+                remaining = len(to_process) - idx
+                eta = remaining * stats['avg_time_per_image']
+                self.logger.info(f"Progress: {idx}/{len(to_process)}, ETA: {eta/3600:.1f}h")
+
+    def generate_pt_dataset_optimized(self, limit_images: int = 50000, skip_existing: bool = False, 
+                                     batch_size: int = 32, num_workers: int = 4) -> None:
+        """
+        优化版本：批量处理 + 多进程
         """
         txt_files = sorted(self.texts_dir.glob("*.txt"))
         if not txt_files:
