@@ -317,7 +317,7 @@ class SimpleBBoxVisualizer:
     # Core: bbox generation (training-free)
     # -----------------------------
 
-    def generate_predicted_bbox_with_heatmap_cached(self, img_path: Path, prompt: str) -> Tuple[Optional[List[int]], Optional[np.ndarray]]:
+    def generate_predicted_bbox_with_heatmap(self, img_path: Path, prompt: str) -> Tuple[Optional[List[int]], Optional[np.ndarray]]:
         """
         添加热图缓存机制
         """
