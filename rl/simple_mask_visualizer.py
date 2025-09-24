@@ -85,6 +85,10 @@ import yaml
 from PIL import Image, ImageDraw, ImageFont
 import argparse
 
+import threading
+from concurrent.futures import ThreadPoolExecutor
+import time
+
 
 # ------------------------------------------------------------
 # Logger
@@ -447,44 +451,11 @@ class SimpleBBoxVisualizer:
                 all_samples.append(s)
         return all_samples
 
-    def generate_pt_dataset_with_monitoring(self, limit_images: int = 50000) -> None:
+    def generate_pt_dataset_threaded(self, limit_images: int = 50000, skip_existing: bool = False, 
+                                   dedup: str = "first", num_threads: int = 2) -> None:
         """
-        添加详细的监控和统计
-        """
-        stats = {
-            'processed': 0,
-            'failed': 0,
-            'empty_results': 0,
-            'total_time': 0,
-            'avg_time_per_image': 0
-        }
-        
-        start_time = time.time()
-        
-        for idx, text_file in enumerate(to_process, 1):
-            file_start = time.time()
-            
-            try:
-                # ... processing logic ...
-                stats['processed'] += 1
-            except Exception as e:
-                self.logger.error(f"Failed to process {text_file}: {e}")
-                stats['failed'] += 1
-            
-            file_time = time.time() - file_start
-            stats['total_time'] += file_time
-            stats['avg_time_per_image'] = stats['total_time'] / idx
-            
-            # 预估剩余时间
-            if idx % 100 == 0:
-                remaining = len(to_process) - idx
-                eta = remaining * stats['avg_time_per_image']
-                self.logger.info(f"Progress: {idx}/{len(to_process)}, ETA: {eta/3600:.1f}h")
-
-    def generate_pt_dataset_optimized(self, limit_images: int = 50000, skip_existing: bool = False, 
-                                     batch_size: int = 32, num_workers: int = 4) -> None:
-        """
-        优化版本：批量处理 + 多进程
+        多线程版本的PT数据集生成
+        - num_threads: 线程数，建议2-4个（避免GPU过载）
         """
         txt_files = sorted(self.texts_dir.glob("*.txt"))
         if not txt_files:
@@ -492,89 +463,100 @@ class SimpleBBoxVisualizer:
             return
 
         to_process = txt_files[:min(limit_images, len(txt_files))]
-        self.logger.info(f"Start generating PT JSONL for {len(to_process)} images...")
-        written = 0
-        skipped = 0
-        empty_written = 0
+        self.logger.info(f"Start generating PT JSONL for {len(to_process)} images with {num_threads} threads...")
+        
+        # 线程安全的计数器
+        self.stats_lock = threading.Lock()
+        self.stats = {'written': 0, 'skipped': 0, 'empty_written': 0, 'processed': 0}
+        
+        def process_single_file(text_file):
+            """处理单个文件的函数"""
+            try:
+                image_id = text_file.stem
+                out_path = self.pt_dir / f"{image_id}.txt"
 
-        for idx, text_file in enumerate(to_process, 1):
-            image_id = text_file.stem
-            out_path = self.pt_dir / f"{image_id}.txt"
+                if skip_existing and out_path.exists():
+                    with self.stats_lock:
+                        self.stats['skipped'] += 1
+                    return
 
-            if skip_existing and out_path.exists():
-                skipped += 1
-                if idx % 100 == 0:
-                    self.logger.info(f"Progress: {idx}/{len(to_process)} (skipped={skipped}, written={written}, empty={empty_written})")
-                continue
+                img_path = self._resolve_image_path(image_id)
+                if img_path is None:
+                    return
 
-            img_path = self._resolve_image_path(image_id)
-            if img_path is None:
-                self.logger.debug(f"[{idx}/{len(to_process)}] image not found for {image_id}, skip.")
-                continue
+                samples = safe_read_json_lines(text_file)
+                if not samples:
+                    out_path.write_text("", encoding="utf-8")
+                    with self.stats_lock:
+                        self.stats['empty_written'] += 1
+                    return
 
-            samples = safe_read_json_lines(text_file)
-            if not samples:
-                out_path.write_text("", encoding="utf-8")
-                empty_written += 1
-                if idx % 100 == 0:
-                    self.logger.info(f"Progress: {idx}/{len(to_process)} (skipped={skipped}, written={written}, empty={empty_written})")
-                continue
+                # 去重逻辑（同原版）
+                if dedup in ("first", "last"):
+                    buf: Dict[int, dict] = {}
+                    if dedup == "first":
+                        # 保留首次出现
+                        seen = set()
+                        ordered = []
+                        for s in samples:
+                            ann_id = s.get("ann_id")
+                            if ann_id is None or ann_id in seen:
+                                continue
+                            seen.add(ann_id)
+                            ordered.append(s)
+                        samples = ordered
+                    else:
+                        # 保留最后一次出现
+                        for s in samples:
+                            ann_id = s.get("ann_id")
+                            if ann_id is None:
+                                continue
+                            buf[ann_id] = s
+                        samples = list(buf.values())
 
-            # 去重策略
-            if dedup in ("first", "last"):
-                buf: Dict[int, dict] = {}
-                iterable = samples if dedup == "last" else []
-                if dedup == "first":
-                    # 保留首次出现
-                    seen = set()
-                    ordered = []
-                    for s in samples:
-                        ann_id = s.get("ann_id")
-                        if ann_id is None or ann_id in seen:
-                            continue
-                        seen.add(ann_id)
-                        ordered.append(s)
-                    samples = ordered
-                else:
-                    # 保留最后一次出现
-                    for s in samples:
-                        ann_id = s.get("ann_id")
-                        if ann_id is None:
-                            continue
-                        buf[ann_id] = s
-                    samples = list(buf.values())
+                out_lines = []
+                for s in samples:
+                    ann_id = s.get("ann_id")
+                    if ann_id is None:
+                        continue
+                    prompt = s.get("sent", "")
 
-            out_lines = []
-            for s in samples:
-                ann_id = s.get("ann_id")
-                if ann_id is None:
-                    continue
-                prompt = s.get("sent", "")
+                    pred_xyxy, _ = self.generate_predicted_bbox_with_heatmap(img_path, prompt)
+                    if pred_xyxy is None:
+                        continue
+                    xywh = self._xyxy_to_xywh(pred_xyxy)
+                    if xywh is None:
+                        continue
+                    area = round(float(xywh[2] * xywh[3]), 2)
 
-                pred_xyxy, _ = self.generate_predicted_bbox_with_heatmap(img_path, prompt)
-                if pred_xyxy is None:
-                    continue
-                xywh = self._xyxy_to_xywh(pred_xyxy)
-                if xywh is None:
-                    continue
-                area = round(float(xywh[2] * xywh[3]), 2)
+                    rec = {
+                        "ann_id": ann_id,
+                        "bbox": xywh,
+                        "segmentation_type": s.get("segmentation_type", "polygon"),
+                        "area": area,
+                        "iscrowd": int(s.get("iscrowd", 0)),
+                    }
+                    out_lines.append(rec)
 
-                rec = {
-                    "ann_id": ann_id,
-                    "bbox": xywh,  # [x, y, w, h]
-                    "segmentation_type": s.get("segmentation_type", "polygon"),
-                    "area": area,
-                    "iscrowd": int(s.get("iscrowd", 0)),
-                }
-                out_lines.append(rec)
+                write_jsonl_lines(out_path, out_lines)
+                with self.stats_lock:
+                    self.stats['written'] += 1
+                    
+            except Exception as e:
+                self.logger.error(f"Error processing {text_file}: {e}")
+            finally:
+                with self.stats_lock:
+                    self.stats['processed'] += 1
+                    if self.stats['processed'] % 100 == 0:
+                        total = self.stats['written'] + self.stats['skipped'] + self.stats['empty_written']
+                        self.logger.info(f"Progress: {self.stats['processed']}/{len(to_process)} "
+                                       f"(written={self.stats['written']}, skipped={self.stats['skipped']}, empty={self.stats['empty_written']})")
 
-            write_jsonl_lines(out_path, out_lines)
-            written += 1
+        # 使用线程池执行
+        with ThreadPoolExecutor(max_workers=num_threads) as executor:
+            executor.map(process_single_file, to_process)
 
-            if idx % 100 == 0 or idx == len(to_process):
-                self.logger.info(f"Progress: {idx}/{len(to_process)} (skipped={skipped}, written={written}, empty={empty_written})")
-
-        self.logger.info(f"Done. Images written={written}, skipped={skipped}, empty_files={empty_written}. PT dir: {self.pt_dir}")
+        self.logger.info(f"Done. Images written={self.stats['written']}, skipped={self.stats['skipped']}, empty_files={self.stats['empty_written']}. PT dir: {self.pt_dir}")
 
     # ---- 可选：抽样可视化（调试用，不写 PT） ----
 
