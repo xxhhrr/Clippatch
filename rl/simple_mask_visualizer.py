@@ -211,6 +211,10 @@ class SimpleBBoxVisualizer:
         # Keep viz dir for optional debugging
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Add cache directory for heatmap caching
+        self.cache_dir = self.output_dir / "heatmap_cache"
+        self.cache_dir.mkdir(parents=True, exist_ok=True)
 
         # Colors for drawing
         self.pred_color = (255, 0, 0)  # BGR red
