@@ -1,0 +1,59 @@
+system:
+  name: "MultiModal Visual Patch System"
+  version: "1.0.0"
+  device: "auto"            # auto | cuda | cpu
+
+paths:
+  data_root: "data"
+  images: "data/images"
+  outputs: "outputs"
+  checkpoints: "checkpoints"
+  logs: "outputs/logs"
+  pt_output: "outputs/pt"          # 预测 bbox（JSONL per image）
+  sam_output: "outputs/sam"        # mask 输出
+  compress_output: "outputs/payloads"
+  reconstruction_output: "outputs/recon"
+
+locate:                           # CLIP 定位（与你的 CLIPLocator 一致）
+  p_high: 0.92
+  p_low: 0.78
+  min_area_ratio: 0.001
+  nms_iou: 0.5
+  top_k: 5
+  return_heatmap: false
+
+segment:                          # SAM
+  model_type: "vit_b"
+  checkpoint: "checkpoints/sam_vit_b_01ec64.pth"
+  device: "auto"
+
+compress:                         # 语义压缩（合并你两段配置）
+  method: "semantic"              # jpeg | webp | semantic | contour
+  lr_scale: 4                     # 低清下采样倍数（用于 LR 模板）
+  roi_quality: 95                 # ROI 区域质量（如 JPEG/WebP）
+  bg_quality: 30                  # 背景区域质量
+  patch_size: 64                  # ROI block 大小（如用 block 策略）
+  quality: 85                     # 统一质量兜底（method=jpeg/webp 时用）
+  max_size: [512, 512]            # 发送端可选 resize
+  preserve_aspect_ratio: true
+
+recon:                            # 超分/重建（接收端）
+  sr_model: "bicubic"             # bicubic | swinir | realesrgan
+  model_type: "mae"               # 未来接你自己的 MAE 时使用
+  checkpoint: null
+  device: "auto"
+  upscale_factor: 1.0
+
+eval:                             # 评估（合并 eval/evaluation）
+  device: "auto"
+  metrics: ["clip", "iou_bbox", "iou_mask", "psnr", "ssim", "lpips", "bpp"]
+  calculate_lpips: true
+  calculate_clip: true
+  save_results: true
+  compare_methods: ["original", "compressed", "reconstructed"]
+
+pipeline:
+  max_workers: 4
+  batch_size: 1
+  save_intermediate: true
+  seed: 42
