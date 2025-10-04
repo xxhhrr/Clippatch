@@ -3,11 +3,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 import logging, csv, random, numpy as np, torch, json
 
-from utils.cfg import load_config
-from locate.clip_locator import create_clip_locator
-from segment.sam_runner import create_sam_runner
-from compress.semantic_packer import create_semantic_packer
-from recon.sr_runner import create_sr_runner
+from src.utils.cfg import load_config
+from src.locate.clip_locator import create_clip_locator
+from src.segment.sam_runner import create_sam_runner
+from src.compress.semantic_packer import create_semantic_packer
+from src.recon.sr_runner import create_sr_runner
 
 def set_seeds(seed: int):
     random.seed(seed); np.random.seed(seed)
