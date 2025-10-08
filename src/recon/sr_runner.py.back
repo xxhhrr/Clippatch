@@ -1,0 +1,144 @@
+# src/recon/sr_runner.py
+from __future__ import annotations
+from typing import Dict, Any, Tuple, Optional
+import cv2, numpy as np, torch
+
+def _resolve_device(d: Optional[str]) -> str:
+    return "cuda" if (d in (None, "auto") and torch.cuda.is_available()) else (d or "cpu")
+
+def _decode_color(b: bytes) -> np.ndarray:
+    """Decode JPEG/PNG bytes -> RGB uint8 (H,W,3)"""
+    arr = np.frombuffer(b, np.uint8)
+    im = cv2.imdecode(arr, cv2.IMREAD_COLOR)
+    if im is None:
+        raise RuntimeError("decode color failed")
+    rgb = cv2.cvtColor(im, cv2.COLOR_BGR2RGB)
+    if rgb.ndim != 3 or rgb.shape[2] != 3:
+        raise RuntimeError(f"decoded color image has invalid shape: {rgb.shape}")
+    return rgb
+
+def _decode_gray(b: bytes) -> np.ndarray:
+    """Decode PNG bytes -> gray uint8 (H,W)"""
+    arr = np.frombuffer(b, np.uint8)
+    im = cv2.imdecode(arr, cv2.IMREAD_GRAYSCALE)
+    if im is None:
+        raise RuntimeError("decode gray failed")
+    if im.ndim != 2:
+        raise RuntimeError(f"decoded gray image has invalid shape: {im.shape}")
+    return im
+
+def _feather(mask01: np.ndarray, ksize: int = 5) -> np.ndarray:
+    """
+    mask01: float32 in [0,1], shape (H,W)
+    ksize:  0 -> no feather; odd kernel for Gaussian blur otherwise
+    """
+    if ksize <= 0:
+        return mask01
+    if ksize % 2 == 0:
+        ksize += 1
+    blur = cv2.GaussianBlur((mask01 * 255.0).astype(np.uint8), (ksize, ksize), 0)
+    return (blur.astype(np.float32) / 255.0).clip(0.0, 1.0)
+
+def _clip_bbox(x1: int, y1: int, x2: int, y2: int, W: int, H: int) -> Tuple[int, int, int, int]:
+    """Clamp bbox to image bounds and guarantee positive area."""
+    x1 = max(0, min(x1, W - 1))
+    y1 = max(0, min(y1, H - 1))
+    x2 = max(1, min(x2, W))
+    y2 = max(1, min(y2, H))
+    if x2 <= x1: x2 = min(W, x1 + 1)
+    if y2 <= y1: y2 = min(H, y1 + 1)
+    return x1, y1, x2, y2
+
+class SRRunner:
+    """
+    重构（解码+融合）阶段：
+    - 基底：对 LR 模板按原图尺寸上采样（bicubic 或后续接入 SR 模型）
+    - ROI：将高质量 ROI 彩图与掩膜贴回基底，支持羽化
+    - 尺寸：输出严格等于 payload["original_shape"]
+    """
+    def __init__(self, config: Dict[str, Any]):
+        self.device = torch.device(_resolve_device(config.get("device", "auto")))
+        self.model_type = str(config.get("sr_model", "bicubic")).lower()
+        self.feather = int(config.get("feather", 5))      # >0 开启羽化；0 为硬贴合
+        self.align_to_bbox = bool(config.get("align_to_bbox", True))
+        self._sr_model = self._load_sr_model(self.model_type)
+
+    def _load_sr_model(self, model_type: str):
+        # 预留：未来接入 SwinIR/RealESRGAN
+        if model_type not in ("bicubic", "swinir", "realesrgan"):
+            model_type = "bicubic"
+        if model_type == "bicubic":
+            return None
+        print(f"[SRRunner] {model_type} not implemented yet, fallback to bicubic.")
+        return None
+
+    def _upsample_to(self, lr_rgb: np.ndarray, size_wh: Tuple[int, int]) -> np.ndarray:
+        W, H = size_wh
+        if self._sr_model is None:
+            sr = cv2.resize(lr_rgb, (W, H), interpolation=cv2.INTER_CUBIC)
+        else:
+            # TODO: 使用真实 SR 模型进行上采样
+            sr = cv2.resize(lr_rgb, (W, H), interpolation=cv2.INTER_CUBIC)
+        if sr.dtype != np.uint8:
+            sr = np.clip(sr, 0, 255).astype(np.uint8)
+        return sr
+
+    def reconstruct_image(self, payload: Dict[str, Any]) -> np.ndarray:
+        """
+        期望 payload 字段：
+        - lr_template: bytes (JPEG)           低清模板（BGR->RGB）
+        - roi_patch:   bytes (JPEG)           ROI 高清彩图（BGR->RGB）
+        - roi_mask:    bytes (PNG,灰度)       ROI 掩膜（0/255 或灰度）
+        - roi_bbox_xyxy: [x1,y1,x2,y2]        统一尺寸坐标系下的 bbox
+        - original_shape: [H,W]               统一后的目标输出尺寸
+        """
+        # 1) 读出尺寸（严格输出为此尺寸）
+        H, W = map(int, payload["original_shape"])
+
+        # 2) 解码
+        lr_rgb  = _decode_color(payload["lr_template"])
+        roi_rgb = _decode_color(payload["roi_patch"])
+        mask_g  = _decode_gray(payload["roi_mask"])  # uint8 in [0,255]
+
+        # 3) 基底：将 LR 上采样到 (W,H)
+        sr = self._upsample_to(lr_rgb, (W, H))  # RGB uint8 (H,W,3)
+
+        # 4) 解析并裁边 bbox，防越界
+        x1, y1, x2, y2 = map(int, payload["roi_bbox_xyxy"])
+        x1, y1, x2, y2 = _clip_bbox(x1, y1, x2, y2, W, H)
+        bw, bh = x2 - x1, y2 - y1
+        if bw <= 0 or bh <= 0:
+            # bbox 无效或面积为 0，直接返回基底
+            return sr
+
+        # 5) 对齐 ROI 与 Mask 到 bbox 尺寸
+        ph, pw = roi_rgb.shape[:2]
+        if (pw, ph) != (bw, bh):
+            roi_rgb = cv2.resize(roi_rgb, (bw, bh), interpolation=cv2.INTER_CUBIC)
+        mh, mw = mask_g.shape[:2]
+        if (mw, mh) != (bw, bh):
+            mask_g = cv2.resize(mask_g, (bw, bh), interpolation=cv2.INTER_NEAREST)
+
+        # 6) 构建 [0,1] 掩膜并可选羽化
+        if mask_g.dtype != np.uint8:
+            mask_g = np.clip(mask_g, 0, 255).astype(np.uint8)
+        m01 = (mask_g.astype(np.float32) / 255.0).clip(0.0, 1.0)
+        if self.feather > 0:
+            m01 = _feather(m01, ksize=self.feather)
+
+        # 7) 融合：RGB，uint8，区域贴回
+        out = sr.copy()
+        alpha3 = np.repeat(m01[..., None], 3, axis=2)  # (bh, bw, 3), float32
+        base_roi = out[y1:y2, x1:x2].astype(np.float32)
+        blend = roi_rgb.astype(np.float32) * alpha3 + base_roi * (1.0 - alpha3)
+        out[y1:y2, x1:x2] = np.clip(blend, 0, 255).astype(np.uint8)
+
+        # 8) 最终保证形状与类型
+        if out.shape[:2] != (H, W):
+            out = cv2.resize(out, (W, H), interpolation=cv2.INTER_CUBIC)
+        if out.dtype != np.uint8:
+            out = np.clip(out, 0, 255).astype(np.uint8)
+        return out
+
+def create_sr_runner(config: Dict[str, Any]) -> SRRunner:
+    return SRRunner(config)

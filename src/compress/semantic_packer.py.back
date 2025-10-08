@@ -1,0 +1,188 @@
+from __future__ import annotations
+from typing import Dict, Any, Tuple, List, Union, Optional
+from pathlib import Path
+import cv2, numpy as np, json
+
+def _bbox_to_xyxy(bbox, W, H):
+    # （保持不变）
+    ...
+
+class SemanticPacker:
+    def __init__(self, config: Dict[str, Any]):
+        self.lr_scale   = int(config.get('lr_scale', 4))
+        self.lr_quality = int(config.get('lr_quality', 50))
+        self.roi_quality= int(config.get('roi_quality', 95))
+        self.margin_ratio = float(config.get('margin_ratio', 0.10))
+        outdir = config.get('output_dir') or config.get('paths.compress_output') or 'outputs/payloads'
+        self.output_dir = Path(outdir); self.output_dir.mkdir(parents=True, exist_ok=True)
+
+        rc = (config.get("rate_control") or {})
+        self.rc_enable   = bool(rc.get("enable", False))
+        self.rc_prefer   = str(rc.get("prefer", "roi_first"))
+        self.roi_q_min   = int(rc.get("roi_q_min", 5))
+        self.roi_q_max   = int(rc.get("roi_q_max", 95))
+        self.lr_q_min    = int(rc.get("lr_q_min", 10))
+        self.lr_q_max    = int(rc.get("lr_q_max", 80))
+
+    def pack_image(
+        self,
+        image_path: str,
+        mask: np.ndarray,
+        bbox,
+        target_bits: Optional[int] = None,
+        bits_tolerance: Optional[int] = None
+    ) -> Dict[str, Any]:
+        img = cv2.imread(str(image_path))
+        if img is None: raise ValueError(f"Cannot load image: {image_path}")
+        H, W = img.shape[:2]
+        m = (mask > 0).astype(np.uint8)
+
+        # 1) LR 模板（初始质量）
+        lr = self._create_lr_template(img)
+
+        # 2) 扩展 bbox，裁剪 ROI 彩图 & 裁剪 mask
+        x1,y1,x2,y2 = _bbox_to_xyxy(bbox, W, H)
+        dx = int((x2-x1) * self.margin_ratio); dy = int((y2-y1) * self.margin_ratio)
+        x1e, y1e = max(0, x1 - dx), max(0, y1 - dy)
+        x2e, y2e = min(W, x2 + dx), min(H, y2 + dy)
+        roi_patch_rgb = cv2.cvtColor(img[y1e:y2e, x1e:x2e], cv2.COLOR_BGR2RGB)
+        roi_mask_gray = (m[y1e:y2e, x1e:x2e] * 255).astype(np.uint8)
+
+        # --- 普通路径（无速率控制） ---
+        if not (self.rc_enable and target_bits is not None and bits_tolerance is not None):
+            lr_bytes  = self._encode_jpeg(lr, quality=self.lr_quality)
+            roi_bytes = self._encode_jpeg(cv2.cvtColor(roi_patch_rgb, cv2.COLOR_RGB2BGR), quality=self.roi_quality)
+            mask_bytes= self._encode_png(roi_mask_gray)
+            total_bits = 8 * (len(lr_bytes) + len(roi_bytes) + len(mask_bytes))
+            bpp = total_bits / (H * W)
+            payload = {
+                "lr_template": lr_bytes,
+                "roi_patch": roi_bytes,
+                "roi_mask": mask_bytes,
+                "roi_bbox_xyxy": [int(x1e), int(y1e), int(x2e), int(y2e)],
+                "original_shape": [int(H), int(W)],
+                "lr_scale": self.lr_scale,
+                "bits": {"lr":len(lr_bytes)*8,"roi":len(roi_bytes)*8,"mask":len(mask_bytes)*8,"total":total_bits},
+                "bpp": bpp
+            }
+            self._save_payload(image_path, payload)
+            return payload
+
+        # --- 速率控制路径 ---
+        tol_lo = max(0, target_bits - bits_tolerance)
+        tol_hi = target_bits + bits_tolerance
+
+        # 固定一个先手顺序：优先调 ROI，再必要时微调 LR
+        lr_q  = int(self.lr_quality)
+        roi_q = int(self.roi_quality)
+
+        # 固定不变的 mask size
+        mask_bytes = self._encode_png(roi_mask_gray)
+        mask_bits  = len(mask_bytes) * 8
+
+        # 给定质量时的总比特
+        def bits_at(lq: int, rq: int) -> Tuple[int, bytes, bytes]:
+            lr_b   = self._encode_jpeg(lr, quality=int(lq))
+            roi_b  = self._encode_jpeg(cv2.cvtColor(roi_patch_rgb, cv2.COLOR_RGB2BGR), quality=int(rq))
+            total  = 8 * (len(lr_b) + len(roi_b)) + mask_bits
+            return total, lr_b, roi_b
+
+        # 先粗算一次
+        total_bits, lr_b_cur, roi_b_cur = bits_at(lr_q, roi_q)
+
+        # 如果已在容差内，直接返回
+        if tol_lo <= total_bits <= tol_hi:
+            bpp = total_bits / (H * W)
+            payload = {
+                "lr_template": lr_b_cur, "roi_patch": roi_b_cur, "roi_mask": mask_bytes,
+                "roi_bbox_xyxy": [int(x1e), int(y1e), int(x2e), int(y2e)],
+                "original_shape": [int(H), int(W)], "lr_scale": self.lr_scale,
+                "bits": {"lr":len(lr_b_cur)*8,"roi":len(roi_b_cur)*8,"mask":mask_bits,"total":total_bits},
+                "bpp": bpp
+            }
+            self._save_payload(image_path, payload)
+            return payload
+
+        # —— 二分法：首选 ROI JPEG 质量 —— 
+        def binary_search_quality(q_lo, q_hi, fixed_lr_q, prefer_roi=True):
+            best = None
+            while q_lo <= q_hi:
+                mid = (q_lo + q_hi) // 2
+                if prefer_roi:
+                    tot, lr_b, roi_b = bits_at(fixed_lr_q, mid)
+                else:
+                    tot, lr_b, roi_b = bits_at(mid, roi_q)
+                # 记录更接近目标的方案
+                if best is None or abs(tot - target_bits) < abs(best[0] - target_bits):
+                    best = (tot, lr_b, roi_b, mid)
+                if tot < tol_lo:
+                    # 比特太少 -> 提高质量（变大）
+                    if prefer_roi: q_lo = mid + 1
+                    else:          q_lo = mid + 1
+                elif tot > tol_hi:
+                    # 比特太多 -> 降低质量（变小）
+                    if prefer_roi: q_hi = mid - 1
+                    else:          q_hi = mid - 1
+                else:
+                    return tot, lr_b, roi_b, mid
+            return best  # 返回最接近的
+
+        # 先按策略优先调一个通道
+        if self.rc_prefer in ("roi_first", "both"):
+            res = binary_search_quality(self.roi_q_min, self.roi_q_max, lr_q, prefer_roi=True)
+            if res is not None:
+                total_bits, lr_b_cur, roi_b_cur, roi_q = res
+
+        if not (tol_lo <= total_bits <= tol_hi) and self.rc_prefer in ("lr_first", "both"):
+            # 仍不在容差内，尝试微调 LR 质量
+            res2 = binary_search_quality(self.lr_q_min, self.lr_q_max, roi_q, prefer_roi=False)
+            if res2 is not None:
+                total_bits2, lr_b2, roi_b2, lr_q = res2
+                # 选择更接近的解
+                if abs(total_bits2 - target_bits) < abs(total_bits - target_bits):
+                    total_bits, lr_b_cur, roi_b_cur = total_bits2, lr_b2, roi_b2
+
+        # 生成 payload
+        bpp = total_bits / (H * W)
+        payload = {
+            "lr_template": lr_b_cur,
+            "roi_patch": roi_b_cur,
+            "roi_mask": mask_bytes,
+            "roi_bbox_xyxy": [int(x1e), int(y1e), int(x2e), int(y2e)],
+            "original_shape": [int(H), int(W)],
+            "lr_scale": self.lr_scale,
+            "bits": {"lr":len(lr_b_cur)*8,"roi":len(roi_b_cur)*8,"mask":mask_bits,"total":total_bits},
+            "bpp": bpp
+        }
+        self._save_payload(image_path, payload)
+        return payload
+
+    def _create_lr_template(self, image: np.ndarray) -> np.ndarray:
+        H,W = image.shape[:2]
+        lr_h, lr_w = max(1,H//self.lr_scale), max(1,W//self.lr_scale)
+        return cv2.resize(image, (lr_w, lr_h), interpolation=cv2.INTER_AREA)
+
+    @staticmethod
+    def _encode_jpeg(image_bgr: np.ndarray, quality: int = 50) -> bytes:
+        params = [int(cv2.IMWRITE_JPEG_QUALITY), int(quality)]
+        ok, buf = cv2.imencode('.jpg', image_bgr, params)
+        if not ok: raise RuntimeError("jpeg encode failed")
+        return buf.tobytes()
+
+    @staticmethod
+    def _encode_png(image_gray_uint8: np.ndarray) -> bytes:
+        ok, buf = cv2.imencode('.png', image_gray_uint8)
+        if not ok: raise RuntimeError("png encode failed")
+        return buf.tobytes()
+
+    def _save_payload(self, image_path: str, payload: Dict[str, Any]) -> None:
+        name = Path(image_path).stem
+        (self.output_dir / f"{name}_lr.jpg").write_bytes(payload["lr_template"])
+        (self.output_dir / f"{name}_roi.jpg").write_bytes(payload["roi_patch"])
+        (self.output_dir / f"{name}_mask.png").write_bytes(payload["roi_mask"])
+        meta = {k: payload[k] for k in ("roi_bbox_xyxy","original_shape","lr_scale","bits","bpp")}
+        (self.output_dir / f"{name}_payload_meta.json").write_text(
+            json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+
+def create_semantic_packer(config): return SemanticPacker(config)

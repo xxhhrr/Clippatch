@@ -1,59 +1,95 @@
 system:
   name: "MultiModal Visual Patch System"
   version: "1.0.0"
-  device: "auto"            # auto | cuda | cpu
+
+dataset:
+  desired_count: 20000
+  save_index: outputs/datalist/train_index.jsonl   # ← 可复现实验的样本清单
 
 paths:
   data_root: "data"
-  images: "data/images"
+  images: "data/images/mscoco/train2014"
+  instances: "data/instances"
+  text: "data/text"
   outputs: "outputs"
-  checkpoints: "checkpoints"
-  logs: "outputs/logs"
-  pt_output: "outputs/pt"          # 预测 bbox（JSONL per image）
-  sam_output: "outputs/sam"        # mask 输出
+  pt_output: "outputs/pt"
+  sam_output: "outputs/sam"
   compress_output: "outputs/payloads"
   reconstruction_output: "outputs/recon"
 
-locate:                           # CLIP 定位（与你的 CLIPLocator 一致）
+locate:
   p_high: 0.92
   p_low: 0.78
   min_area_ratio: 0.001
   nms_iou: 0.5
   top_k: 5
-  return_heatmap: false
+  return_heatmap: true
 
-segment:                          # SAM
+segment:
   model_type: "vit_b"
-  checkpoint: "checkpoints/sam_vit_b_01ec64.pth"
+  checkpoint: "segment-anything/weights/sam_vit_b_01ec64.pth"
   device: "auto"
 
-compress:                         # 语义压缩（合并你两段配置）
-  method: "semantic"              # jpeg | webp | semantic | contour
-  lr_scale: 4                     # 低清下采样倍数（用于 LR 模板）
-  roi_quality: 95                 # ROI 区域质量（如 JPEG/WebP）
-  bg_quality: 30                  # 背景区域质量
-  patch_size: 64                  # ROI block 大小（如用 block 策略）
-  quality: 85                     # 统一质量兜底（method=jpeg/webp 时用）
-  max_size: [512, 512]            # 发送端可选 resize
-  preserve_aspect_ratio: true
+compress:
+  output_dir: outputs/payloads
+  neural:
+    # 模型结构
+    num_stages: 4
+    base_channels: 64
+    vga_channels: 32
+    vga_layers: 3
+    # 量化步长（ROI 更小，背景更大）
+    qstep_roi: 0.5
+    qstep_bg: 0.5
+    # 控码区间（覆盖 0.1~1.5 bpp 的常用范围）
+    tau_min: 1.0e-3
+    tau_max: 8.0
+    search_iters: 10
+    # 训练后可填入权重路径
+    weights: "checkpoints/vga_e2e.pth"
+    zlib_level: 0
 
-recon:                            # 超分/重建（接收端）
-  sr_model: "bicubic"             # bicubic | swinir | realesrgan
-  model_type: "mae"               # 未来接你自己的 MAE 时使用
-  checkpoint: null
-  device: "auto"
-  upscale_factor: 1.0
+recon:
+  neural:
+    num_stages: 4
+    base_channels: 64
+    vga_channels: 32
+    vga_layers: 3
+    weights: "checkpoints/vga_e2e.pth"
 
-eval:                             # 评估（合并 eval/evaluation）
+eval:
   device: "auto"
-  metrics: ["clip", "iou_bbox", "iou_mask", "psnr", "ssim", "lpips", "bpp"]
-  calculate_lpips: true
-  calculate_clip: true
+  metrics: ["psnr", "ssim", "bpp"]   # 若你实现了 iou/clip/lpips 再加
   save_results: true
-  compare_methods: ["original", "compressed", "reconstructed"]
 
 pipeline:
-  max_workers: 4
-  batch_size: 1
   save_intermediate: true
   seed: 42
+  limit_images: 2000
+  shuffle_images: false
+  # 目标码率（global bpp）
+  target_bpp: 10.00
+  bpp_tolerance: 1
+
+neural:
+  num_stages: 4
+  base_channels: 64
+  vga_channels: 32
+  vga_layers: 3
+  qstep_roi: 0.5
+  qstep_bg: 0.5
+  tau_train: 1.0     # 训练期固定 tau
+  # weights: checkpoints/vga_e2e.pth  # 若继续训，填已有权重
+
+train:
+  epochs: 10
+  batch_size: 16
+  lr: 1.0e-4
+  weight_decay: 1.0e-4
+  num_workers: 0
+  train_size: [512, 512]  # 训练分辨率 (W,H)，端到端时建议统一
+  use_quant: false        # 阶段A: false；阶段B: true
+  roi_weight: 1.0         # >1 会给 ROI 更高权重
+  save_dir: checkpoints
+  save_name: vga_e2e.pth
+  save_vis: false

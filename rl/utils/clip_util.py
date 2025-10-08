@@ -27,6 +27,9 @@ from torchvision.transforms import (Compose, Resize, ToTensor, Normalize,
                                     InterpolationMode)
 
 import clip  # pip install git+https://github.com/openai/CLIP.git
+from utils.utils import as_pil 
+
+
 
 __all__ = ["get_heatmap", "print_gpu_tensors"]
 
@@ -159,8 +162,9 @@ def _grad_eclip(cos: torch.Tensor, qs, ks, vs, attns, map_sz):
 # Public API
 # ---------------------------------------------------------------------------
 
-def get_heatmap(img_path: str, prompt: str, n_last_layers: int = 1) -> np.ndarray:
-    img = Image.open(img_path).convert("RGB")
+def get_heatmap(img_input, prompt: str, n_last_layers: int = 1, array_mode: str = "rgb") -> np.ndarray:
+    img = as_pil(img_input, array_mode=array_mode)
+
     img_t = imgprocess(img).unsqueeze(0).to(device)
 
     with torch.no_grad():
