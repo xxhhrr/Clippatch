@@ -12,14 +12,26 @@ import torch.nn.functional as F
 #   Model building blocks
 # =========================
 
+def _pick_groups(C):
+    for g in (32, 16, 8, 4, 2):
+        if C % g == 0:
+            return g
+    return 1  # 退化成 LayerNorm 风格（每通道单独归一化）
+
+# 替换原来的 ConvBlock（src/compress/semantic_packer.py 和 src/recon/sr_runner.py 各有一份）
 class ConvBlock(nn.Module):
-    def __init__(self, in_ch, out_ch, k=3, s=1, p=1, act=True):
+    def __init__(self, in_ch, out_ch, k=3, s=1, p=1, act=True, gn=True):
         super().__init__()
         self.conv = nn.Conv2d(in_ch, out_ch, k, s, p)
-        self.bn   = nn.BatchNorm2d(out_ch)
-        self.act  = nn.ReLU(inplace=True) if act else nn.Identity()
+        if gn:
+            # 自适应选择 group 数，保证能整除 out_ch
+            self.norm = nn.GroupNorm(num_groups=_pick_groups(out_ch), num_channels=out_ch)
+        else:
+            self.norm = nn.Identity()
+        self.act  = nn.ReLU(inplace=False) if act else nn.Identity()
     def forward(self, x):
-        return self.act(self.bn(self.conv(x)))
+        return self.act(self.norm(self.conv(x)))
+
 
 class Encoder(nn.Module):
     """
@@ -47,8 +59,8 @@ class Decoder(nn.Module):
         for _ in range(num_stages):
             ups += [
                 nn.ConvTranspose2d(ch, ch, kernel_size=4, stride=2, padding=1),
-                nn.BatchNorm2d(ch),
-                nn.ReLU(inplace=True),
+                nn.GroupNorm(num_groups=_pick_groups(ch), num_channels=ch),
+                nn.ReLU(inplace=False),
                 ConvBlock(ch, ch)
             ]
         self.up = nn.Sequential(*ups)
@@ -76,7 +88,7 @@ class VGA(nn.Module):
     def forward(self, m_lr):
         # 输出到 [0,1]，初始更偏向于“mask=1 的区域更高 α”
         a = torch.sigmoid(self.net(m_lr))
-        return a.clamp_(0, 1)
+        return a.clamp(0, 1)
 
 class VGACodec(nn.Module):
     """
@@ -168,7 +180,8 @@ class VGACodec(nn.Module):
 
         # 4) 反量化并重建
         y = q * delta                                        # 1,C,Hs,Ws
-        x_hat = self.decoder(y, (H, W))                      # 1,3,H,W
+        x_hat = self.decoder(y, (H, W)) * 255.0                      # 1,3,H,W
+        # print("before clamp:", x_hat.min().item(), x_hat.max().item(), x_hat.mean().item())
         x_hat = x_hat.clamp(0, 255).squeeze(0).permute(1,2,0).contiguous().cpu().numpy().astype(np.uint8)
         return x_hat
 
@@ -237,9 +250,12 @@ class SemanticPacker:
         weights = neu.get("weights", None)
         if weights and Path(weights).exists():
             ckpt = torch.load(weights, map_location=self.device)
-            # 支持保存的 {state_dict: ...} 或直接 state_dict
             sd = ckpt["state_dict"] if isinstance(ckpt, dict) and "state_dict" in ckpt else ckpt
-            self.model.load_state_dict(sd, strict=False)
+            new_sd = { (k[7:] if k.startswith("module.") else k): v for k,v in sd.items() }
+            missing, unexpected = self.model.load_state_dict(new_sd, strict=False)
+            print(f"[Packer] loaded weights: {weights} | missing={len(missing)} unexpected={len(unexpected)}")
+        else:
+            print(f"[Packer] WARNING: weights not found: {weights} – using random init")
 
         # 兼容旧字段（不使用，仅避免报错）
         self.margin_ratio = float(config.get('margin_ratio', 0.10))

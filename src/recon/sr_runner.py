@@ -9,14 +9,26 @@ import torch.nn.functional as F
 
 # ===== 与 packer 中模型结构保持一致 =====
 
+# 自适应选择 group 数，保证能整除 out_ch
+def _pick_groups(C):
+    for g in (32, 16, 8, 4, 2):
+        if C % g == 0:
+            return g
+    return 1  # 退化成 LayerNorm 风格（每通道单独归一化）
+
+# 替换原来的 ConvBlock（src/compress/semantic_packer.py 和 src/recon/sr_runner.py 各有一份）
 class ConvBlock(nn.Module):
-    def __init__(self, in_ch, out_ch, k=3, s=1, p=1, act=True):
+    def __init__(self, in_ch, out_ch, k=3, s=1, p=1, act=True, gn=True):
         super().__init__()
         self.conv = nn.Conv2d(in_ch, out_ch, k, s, p)
-        self.bn   = nn.BatchNorm2d(out_ch)
-        self.act  = nn.ReLU(inplace=True) if act else nn.Identity()
+        if gn:
+            self.norm = nn.GroupNorm(num_groups=_pick_groups(out_ch), num_channels=out_ch)
+        else:
+            self.norm = nn.Identity()
+        self.act  = nn.ReLU(inplace=False) if act else nn.Identity()
     def forward(self, x):
-        return self.act(self.bn(self.conv(x)))
+        return self.act(self.norm(self.conv(x)))
+
 
 class Encoder(nn.Module):
     def __init__(self, in_ch=3, base_ch=64, num_stages=4):
@@ -36,8 +48,8 @@ class Decoder(nn.Module):
         for _ in range(num_stages):
             ups += [
                 nn.ConvTranspose2d(ch, ch, kernel_size=4, stride=2, padding=1),
-                nn.BatchNorm2d(ch),
-                nn.ReLU(inplace=True),
+                nn.GroupNorm(num_groups=_pick_groups(ch), num_channels=ch),
+                nn.ReLU(inplace=False),
                 ConvBlock(ch, ch)
             ]
         self.up = nn.Sequential(*ups)
@@ -60,7 +72,7 @@ class VGA(nn.Module):
         self.net = nn.Sequential(*layers)
     def forward(self, m_lr):
         a = torch.sigmoid(self.net(m_lr))
-        return a.clamp_(0, 1)
+        return a.clamp(0, 1)
 
 class VGACodec(nn.Module):
     def __init__(self, img_ch=3, base_ch=64, num_stages=4, vga_ch=32, vga_layers=3):
@@ -128,12 +140,17 @@ class SRRunner:
         # 可选加载相同权重
         weights = neu.get("weights", None)
         if weights:
-            try:
-                ckpt = torch.load(weights, map_location=self.device)
-                sd = ckpt["state_dict"] if isinstance(ckpt, dict) and "state_dict" in ckpt else ckpt
-                self.model.load_state_dict(sd, strict=False)
-            except Exception:
-                pass
+            ckpt = torch.load(weights, map_location=self.device)
+            sd = ckpt["state_dict"] if isinstance(ckpt, dict) and "state_dict" in ckpt else ckpt
+            # 去掉 DataParallel 前缀
+            new_sd = { (k[7:] if k.startswith("module.") else k): v for k,v in sd.items() }
+            missing, unexpected = self.model.load_state_dict(new_sd, strict=False)
+            print(f"[SRRunner] loaded weights: {weights} | missing={len(missing)} unexpected={len(unexpected)}")
+            if len(missing) > 100:  # 太多缺失基本就是不匹配
+                raise RuntimeError("Decoder/VGA weights mostly missing – check YAML arch and path")
+        else:
+            print("[SRRunner] WARNING: no weights specified for decoder; using random init")
+
 
     def reconstruct_image(self, payload: Dict[str, Any]) -> np.ndarray:
         if payload.get("codec") != "vga_codec_v1":

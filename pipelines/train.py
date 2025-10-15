@@ -18,6 +18,11 @@ from src.locate.clip_locator import create_clip_locator
 from src.segment.sam_runner import create_sam_runner
 from src.data.data_collector import build_id_text_list  # ← 你刚加入的收集器
 from utils.utils import get_inst_bbox
+import torchvision.utils as vutils
+import zlib
+
+
+SAVE_DIR = Path("outputs/train_snap"); SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
 # ----------------- Round STE（量化直通估计） -----------------
 class _RoundSTE(torch.autograd.Function):
@@ -124,10 +129,67 @@ class E2EIndexDataset(Dataset):
         m01 = torch.from_numpy(m.astype(np.float32))[None]    # (1,H,W)
         return {"image": x, "mask": m01, "name": img_path.name, "text": text}
 
+
+@torch.no_grad()
+def eval_true_bpp_psnr(
+    net: VGACodec,
+    x: torch.Tensor,        # [B,3,H,W] in [0,1]
+    m: torch.Tensor,        # [B,1,H,W] in {0,1}
+    q_bg: float, q_roi: float, tau: float,
+    zlib_level: int = 6,
+):
+    """
+    用真实 round + zlib 统计比特，并用反量化后 decoder 的结果计算“真 PSNR”。
+    返回: (bpp, psnr_true)
+    计入: latents_zlib + mask_lr_png 的比特数
+    """
+    device = x.device
+    B, _, H, W = x.shape
+
+    # 1) encoder
+    y = net.encoder(x)  # [B,C,Hs,Ws]
+    _, C, Hs, Ws = y.shape
+
+    # 2) 掩码下采样到潜空间 + VGA -> alpha -> Δ（与推理端一致）
+    m_lr = F.interpolate(m, size=(Hs, Ws), mode="area")
+    m_bin = (m_lr >= 0.5).float()
+    alpha = net.vga(m_bin)
+    log_bg, log_roi = math.log(q_bg), math.log(q_roi)
+    delta = torch.exp(log_bg + alpha * (log_roi - log_bg)) * float(tau)  # [B,1,Hs,Ws]
+
+    # 3) 真实量化（round）→ zlib 压缩；同时生成 mask_lr_png 字节
+    total_bits = 0
+    for b in range(B):
+        q_b = torch.round(y[b:b+1] / delta[b:b+1])  # [1,C,Hs,Ws]
+        q_np = q_b.squeeze(0).permute(1, 2, 0).contiguous().to(torch.int16).cpu().numpy()  # [Hs,Ws,C]
+        lat_bytes = zlib.compress(q_np.tobytes(order="C"), level=zlib_level)
+
+        # mask 副信息（与 packer.compress 对齐）
+        mask_lr_u8 = (m_bin[b].squeeze(0).cpu().numpy() * 255).astype(np.uint8)  # [Hs,Ws], 0/255
+        ok, buf = cv2.imencode('.png', mask_lr_u8)
+        if not ok:
+            raise RuntimeError("mask_lr png encode failed in eval")
+
+        total_bits += (len(lat_bytes) + len(buf)) * 8
+
+    bpp = total_bits / float(B * H * W)
+
+    # 4) 反量化并重建（模拟 decompress 后的 decoder）
+    q = torch.round(y / delta)
+    y_hat = q * delta
+    x_hat_true = net.decoder(y_hat, (H, W)).clamp(0, 1)
+
+    # 5) 真 PSNR（0-1 尺度）
+    mse_val = F.mse_loss(x_hat_true, x).item()
+    psnr_true = 10.0 * math.log10(1.0 / max(mse_val, 1e-12))
+
+    return bpp, psnr_true
+
+
 # ----------------- 训练前向（兼容无 forward_train 的 VGACodec） -----------------
 def codec_forward_train(
     net: VGACodec,
-    x: torch.Tensor,          # (B,3,H,W) 0..255
+    x: torch.Tensor,          # (B,3,H,W) 0/1
     m: torch.Tensor,          # (B,1,H,W) 0/1
     use_quant: bool,
     q_roi: float, q_bg: float, tau: float
@@ -232,19 +294,13 @@ def main():
         net.load_state_dict(sd, strict=False)
         log.info(f"Loaded weights: {weights}")
 
-    # 关闭 BN 的 running stats，更稳（或你也可以把 ConvBlock 的 BN 替换为 Identity/GroupNorm）
-    for m in net.modules():
-        if isinstance(m, nn.BatchNorm2d):
-            m.track_running_stats = False
-            m.running_mean = None
-            m.running_var = None
 
     opt = torch.optim.AdamW(net.parameters(), lr=LR, weight_decay=WD)
 
     global_step = 0
     for ep in range(1, EPOCHS+1):
         for batch in dl:
-            x = batch["image"].to(device)   # (B,3,H,W) 0..255
+            x = batch["image"].to(device)   # (B,3,H,W) 0/1
             m = batch["mask"].to(device)    # (B,1,H,W) 0/1
 
             # 训练前向（兼容无 forward_train 的 VGACodec）
@@ -271,7 +327,24 @@ def main():
                     PIX_MAX = 1.0
                     mse_val = F.mse_loss(x_hat, x).item()
                     psnr = 10.0 * math.log10((PIX_MAX**2) / max(mse_val, 1e-12))
+                    xhat_vis = x_hat.detach().clamp(0,1).cpu()  # (B,3,H,W) [0,1]
+                    # 批量保存成一张网格图：
+                    vutils.save_image(xhat_vis, SAVE_DIR / f"xhat_{global_step:07d}.png")
                 log.info(f"[ep {ep}] step {global_step} | loss={loss.item():.4f} | psnr≈{psnr:.2f}dB | quant={USE_QUANT}")
+
+
+        # —— 在每个 epoch 结束时，抽一小批样本做真实 bpp/PSNR 评估 ——
+        # 这里用“刚才最后一个 batch”的 x、m；也可以单独准备一个小的 val DataLoader。
+        with torch.no_grad():
+            # 为了评估更稳，可以只取前 N 张（比如 4 张），避免太慢
+            N = min(4, x.shape[0])
+            bpp_true, psnr_true = eval_true_bpp_psnr(
+                net,
+                x[:N], m[:N],
+                q_bg=QSTEP_BG, q_roi=QSTEP_ROI, tau=TAU_TR,
+                zlib_level=6
+            )
+        log.info(f"[epoch {ep}] true_bpp={bpp_true:.4f} | true_psnr={psnr_true:.2f} dB")
 
         # 每个 epoch 存一次
         ep_path = SAVE_DIR / f"{SAVE_NAME.replace('.pth','')}_ep{ep}.pth"

@@ -68,9 +68,9 @@ def main():
     inst_dir = Path(cfg["paths"]["instances"])
     bbox_xyxy = None
     if inst_dir.exists():
-        b = get_inst_bbox(inst_dir / f"{img_id}.txt", args.ann_id, (W, H), (512, 512))
+        b = get_inst_bbox(inst_dir / f"{img_id}.txt", args.ann_id, (W, H), (W, H))
         if b is not None:
-            bbox_xyxy = xywh_to_xyxy(b)
+            bbox_xyxy = b
 
     locator = None
     if bbox_xyxy is None:
@@ -83,7 +83,8 @@ def main():
             bbox_xyxy = [int(x),int(y),int(x+w),int(y+h)]
         else:
             bbox_xyxy = bb
-
+    x1,y1,x2,y2 = bbox_xyxy
+    assert 0 <= x1 < x2 <= W and 0 <= y1 < y2 <= H, (bbox_xyxy, (W,H))
     # mask: SAM or rectangle
     if args.no_sam:
         mask = rect_mask(H, W, bbox_xyxy)

@@ -33,21 +33,18 @@ segment:
 compress:
   output_dir: outputs/payloads
   neural:
-    # 模型结构
     num_stages: 4
     base_channels: 64
     vga_channels: 32
     vga_layers: 3
-    # 量化步长（ROI 更小，背景更大）
+    # ☆ 关键：两者相等 → 屏蔽 VGA
     qstep_roi: 0.5
     qstep_bg: 0.5
-    # 控码区间（覆盖 0.1~1.5 bpp 的常用范围）
-    tau_min: 1.0e-3
+    tau_min: 1.0e-3     # 允许够小，便于拉高 bpp
     tau_max: 8.0
     search_iters: 10
-    # 训练后可填入权重路径
-    weights: "checkpoints/vga_e2e.pth"
-    zlib_level: 0
+    weights: "checkpoints/vga_e2e.pth"   # AE 权重
+    zlib_level: 0        # 先不压缩，便于对齐 target_bpp
 
 recon:
   neural:
@@ -55,31 +52,21 @@ recon:
     base_channels: 64
     vga_channels: 32
     vga_layers: 3
-    weights: "checkpoints/vga_e2e.pth"
-
-eval:
-  device: "auto"
-  metrics: ["psnr", "ssim", "bpp"]   # 若你实现了 iou/clip/lpips 再加
-  save_results: true
+    weights: "checkpoints/vga_e2e.pth"   # 与上面相同的权重
 
 pipeline:
-  save_intermediate: true
-  seed: 42
-  limit_images: 2000
-  shuffle_images: false
-  # 目标码率（global bpp）
-  target_bpp: 10.00
+  target_bpp: 10.0
   bpp_tolerance: 1
 
-neural:
+neural:                  # 训练期默认，同样保持相等
   num_stages: 4
   base_channels: 64
   vga_channels: 32
   vga_layers: 3
-  qstep_roi: 0.5
-  qstep_bg: 0.5
-  tau_train: 1.0     # 训练期固定 tau
-  # weights: checkpoints/vga_e2e.pth  # 若继续训，填已有权重
+  qstep_roi: 2         # ☆ 相等
+  qstep_bg: 6          # ☆ 相等
+  tau_train: 1.0
+  weights: checkpoints/vga_e2e.pth
 
 train:
   epochs: 10
@@ -87,9 +74,9 @@ train:
   lr: 1.0e-4
   weight_decay: 1.0e-4
   num_workers: 0
-  train_size: [512, 512]  # 训练分辨率 (W,H)，端到端时建议统一
-  use_quant: false        # 阶段A: false；阶段B: true
-  roi_weight: 1.0         # >1 会给 ROI 更高权重
+  train_size: [512, 512]
+  use_quant: true      # 你现在是 AE 阶段；等做 Stage-B 再设 true
+  roi_weight: 1.0
   save_dir: checkpoints
   save_name: vga_e2e.pth
   save_vis: false
